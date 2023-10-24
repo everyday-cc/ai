@@ -28,6 +28,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 16
+  - title: "Kochava Unveils the Future of AI-Powered Insights Tools to Unlock Your Strategy for Growth"
+    excerpt: "Kochava AI Prompt unleashes the power of AI to understand multiple languages through the use of natural language processing for global marketers to access and analyze their data. Kochava AI Prompt is powered by a secure connection to leading AI models to return a SQL script to run against the data within Kochava."
+    publishedDateTime: 2023-10-24T17:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231024297220/en/Kochava-Unveils-the-Future-of-AI-Powered-Insights-Tools-to-Unlock-Your-Strategy-for-Growth"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
 
 secured: "DUUKybghiECeHSDiDlNJ1mb+9wdgUHsEFjnycbAxwkMkQxZRfTFwiuj1yw/Dk+M0NvUMZnLJCYITr18zfZR8JijGO0pSuavtPKsG9Fr3Z7clQHZ7+qS+tIJJIrVErkIzcHOAYOodUgmVOB/NvsFBbmvWntfvqk5Z3CO+ZpXyijJSh3PDf5ecTsWqMcGNXBaMclj5RjfS8g9qSVLiFuKpXaq4BrBZdVptDGAAZ0Yt5M8FttsQALyQe85V/n9L1/F5ckUpzDcKrixKsLF2Q0vU2N1LKShBfJaJvncizxVeIlcqRto2cuk+At3xRSPEvkpaMvZtCHOtjeP25zGss38T/RA0LPx4IthR5xOqtdDyEfw=;bkq7PtHdnWu4JUmvnMQhbA=="
 ---

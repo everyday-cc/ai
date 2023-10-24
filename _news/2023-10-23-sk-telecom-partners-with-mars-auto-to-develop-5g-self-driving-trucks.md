@@ -19,31 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "China’s Baidu Races Waymo, GM to Develop Self-driving Cars"
-    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
-    publishedDateTime: 2023-10-20T00:00:00Z
-    webUrl: "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
+  - title: "SK Telecom and Deutsche Telekom collaborate over telco-specific AI"
+    excerpt: "You see, they don’t actually think for themselves, they just use lots of computational power to tap enormous wells of information, then use natural language processing to deliver their findings in a vaguely conversational way. It stands to reason ..."
+    publishedDateTime: 2023-10-22T17:34:00Z
+    webUrl: "https://telecoms.com/524433/sk-telecom-and-deutsche-telekom-collaborate-over-telco-specific-ai/"
     type: article
     provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 54
-    images:
-      - url: "https://thediplomat.com/wp-content/uploads/2022/06/sizes/td-story-s-2/thediplomat_2022-06-29-165744.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "56-km expressway for self-driving starts operating in east China"
-    excerpt: "Starting from July 1, the three-month upgrade installed 270 sets of sensing devices, including laser radars, millimeter-wave radars, cameras, and antennas, at 55 locations along the expressway, ensuring a self-driving road environment. A section of the ..."
-    publishedDateTime: 2023-10-20T00:29:00Z
-    webUrl: "https://ukranews.com/en/news/961544-56-km-expressway-for-self-driving-starts-operating-in-east-china"
-    ampWebUrl: "https://ukranews.com/en/amp/news/961544-56-km-expressway-for-self-driving-starts-operating-in-east-china"
-    cdnAmpWebUrl: "https://ukranews-com.cdn.ampproject.org/c/s/ukranews.com/en/amp/news/961544-56-km-expressway-for-self-driving-starts-operating-in-east-china"
-    type: article
-    provider:
-      name: Новости Украины
-      domain: ukranews.com
-    quality: 24
+      name: Telecoms
+      domain: telecoms.com
+    quality: 19
 
 secured: "IxASOpuiMZanyKLlJUpkQiLPZt4qICClFv+wyakKREC60mOTNkIX0d1E7M+q4V7GVN54kOOorU75gsaXwP3VsLtmHa3j8TrTyUpYu+Fm7jBVHTGauf8Sd3yfiT1LHVp7vm5DarX3us201YAFGbitiG+U/EYjHqCRHiuKfzJYTjroqSmK0A0Ii7avdVPDnLTYspRcnL5XKG42KrJysCn0f0bAnY+wKkPcwkLtJXOY82RwifmYNqMxxPJZiqjfisr65PVtGuht8TjsVTzM/g6DTaUWUkqKpeh/QS5R5fRKZ9jURsxqZXM02XVoN2+pRJ/z0jswwkUdlipDnE9vrsBbw8edHDi6x6McFVzm1tatwcIDGUeQkU/Lr1SbA42t39ClXnQOERDddyYTGx9xC3uDJwOo6NqTyNjt2HsDP14xiC6rv88PFmm+TXKRg1FdW6qDrVp9w7zt44SbdO7G4REiahYUqkf2AWIyX046fQehI5hIxlrPNr4JqNf2BDUtIKdF6wnIc1MVcSZF7wawRUCP1g==;mCgNqzR6tkXLTAdG5nBREg=="
 ---

@@ -118,20 +118,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Microsoft Promises SOC Relief with Coming Security Copilot AI"
-    excerpt: "The Security Copilot integration in Microsoft 365 Defender will translate what the attack code does ... which gets generated in the form of the Kusto Query Language. It's also possible for analysts to use Security Copilot to analyze a PowerShell script ..."
-    publishedDateTime: 2023-10-20T00:18:00Z
-    webUrl: "https://redmondmag.com/articles/2023/10/19/microsoft-security-copilot-soc.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 73
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_Decmaker.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "As Databricks touts demand for AI services, all eyes are on Microsoft and Alphabet’s Q3 results"
     excerpt: "We can't wait to find out if these companies will report a material improvement from their investments in AI-related computing tasks and products."
     publishedDateTime: 2023-10-24T15:34:00Z

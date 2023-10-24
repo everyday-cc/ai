@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AI Is Already at War"
-excerpt: "The stakes of slowing AI down are unacceptably high, but so are the stakes of racing ahead without needed precautions."
-publishedDateTime: 2023-10-24T15:47:00Z
-originalUrl: "https://www.cnas.org/publications/commentary/ai-is-already-at-war"
-webUrl: "https://www.cnas.org/publications/commentary/ai-is-already-at-war"
+excerpt: "The AI drone began flying autonomously through the building, room by room, beaming footage from its camera directly to the commander’s handheld tablet outside. In just a few minutes, the team had full situational awareness of the interior of the building."
+publishedDateTime: 2023-10-24T14:07:00Z
+originalUrl: "https://www.foreignaffairs.com/united-states/ai-already-war-flournoy"
+webUrl: "https://www.foreignaffairs.com/united-states/ai-already-war-flournoy"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: CNAS
-  domain: cnas.org
+  name: Foreign Affairs
+  domain: foreignaffairs.com
 
 topics:
-  - Facebook AI
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/pentagon-getty-hero.jpg"
-    width: 5400
-    height: 3592
+  - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/10/12/1_MilitaryAI_EMorciano.jpg?itok=vj3Kj6_E"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 675
         isCached: true
 
-secured: "urQrMEB2wopPLSgZ9d9jZlj6t92lQaivb6dPIp3DIiSuNSTzTzE6VWF4bJkTYXxm9IZUvPWDZCbD3hG1ej0T3VoyP/HKgaF1gPvkQwQwskEPT6m35H25QRkyfOZzbfnlQyho46xYsZMqszBZSDwp8Axgw32eN2RFfTXBt25wkcvc7Sm5/IRnrGPZL5O1xv2xpasG+JRLUeZis02ymPw1OWrl2N9yH8jdF207OikXChxPR7NRDPBvoiiuprGYoFPjjeELZgY98sp+n+/uP2H02+iXdbKW9dh/Gr30sgAYXidRbCTMC1e28ymWekSAPGEVVSSr8y8KZ9kYeLLY18DPaPnMGNZbKIjLvXtDsPTB34M=;uckfLunOHaDQzslbLNBj/w=="
+secured: "WLdbNqmM87eZSHYznymARqHmLu7+K9qL/pIZlcjIdkLgnmrRrfeKUHeRSZLRx7QbJXB7AguOrhzC9ACR9zOmnDYiqfZsVv7Htjymob3iXl4/Olejkhn73eDI32KLK2Dv7yC69iJSKif4N9LXoAtS1Zx6+2yfHJF5YafEnPbYIOqo7DoyVgPkfVsDV5yxNF4+mG0esHxljVLlEqSB6YIQ4MLH/eynvcczSozerl1Pq6enGMYHvFfM/aR55sKN/rAcOfzzomKJb0D8nJ7YmalrZQe3Hmi/oAFX/Em2mH9CCS63PnMrpFJFJmqVcQi4juYtzU6XJLvXjXQ0Khr/ESM1htj9z08iYGWJbeQiZ3ram04=;BaGke7/6UxEWtvPSkPDrVg=="
 ---
 

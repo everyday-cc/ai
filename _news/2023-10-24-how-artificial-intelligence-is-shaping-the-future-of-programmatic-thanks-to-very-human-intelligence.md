@@ -94,9 +94,9 @@ related:
       domain: finextra.com
     quality: 19
   - title: "Omega Venture Partners Spearheads the Future of AI Innovation"
-    excerpt: "Omega Venture Partners Strengthens its Stature as the Leading Venture Capital Firm Cultivating Tomorrow's Tech Leaders. PALO ALTO, Calif.,"
+    excerpt: "As Omega Venture Partners sails into a new epoch of AI innovation, its unrivaled expertise and proven track record affirm its role as the preferred harbinger of success for the pioneers of tomorrow's technology. See more from Citizens Bank on the Role of AI in Financial Services here."
     publishedDateTime: 2023-10-24T13:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/24/9904369.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-omega-venture-partners-spearheads-future-ai-innovation-/2023/10/24/9904369.htm"
     type: article
     provider:
       name: TMCnet

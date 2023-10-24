@@ -1,10 +1,10 @@
 ---
 category: news
 title: "EU ‘in touching distance’ of world’s first laws regulating artificial intelligence"
-excerpt: "Dragoș Tudorache, MEP who has spent four years drafting AI legislation, is optimistic final text can be agreed by Wednesday"
-publishedDateTime: 2023-10-24T13:09:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/24/eu-touching-distance-world-first-law-regulating-artificial-intelligence-dragos-tudorache?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2023/oct/24/eu-touching-distance-world-first-law-regulating-artificial-intelligence-dragos-tudorache?ref=biztoc.com"
+excerpt: "Dragoș Tudorache, the MEP who has spent four years drafting AI legislation, is optimistic final text can be agreed by Wednesday"
+publishedDateTime: 2023-10-24T12:50:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/oct/24/eu-touching-distance-world-first-law-regulating-artificial-intelligence-dragos-tudorache"
+webUrl: "https://www.theguardian.com/technology/2023/oct/24/eu-touching-distance-world-first-law-regulating-artificial-intelligence-dragos-tudorache"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/24/eu-touching-distance-world-first-law-regulating-artificial-intelligence-dragos-tudorache"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/24/eu-touching-distance-world-first-law-regulating-artificial-intelligence-dragos-tudorache"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "3Ec/ntOF7BYL4c9reoxESFeengwB0cFQJdgQ8aWWuLgLJicIEhAefpvoKvopMFDCSyZq6LbRnVQ8fU4CrGAAkqqhe5QNx53u/ARDZaSvnzxd1d5ZiaMuSLs3kcez4h8MB6PC8InnIHZwinGUTtpLj8zentmQecx8jHTxqMtMwoZp+hZ5wI8/f2tjpJ++OPwRroymfrxfJQ6YDWyRxoWP6kJzrg7LMF6LZ1e6oNFQyrg9KAN9C7Jhcvhq6mfj+CVJSwjOKquAY9A+jzshiLmKRqvvTAzA4MgvB1opBj75KDiMzYRAMttHjd8N1p4HxJfs+qGH/H/vQCQS84loeBG4dHtrd3bde/EIP8+ItyhrfRQ=;fqkEvYWofbfcfL2WAbXznw=="
+secured: "MSIZSzqasXQLjLYhazMWiqK16l/CqJzUOoOmN/ZCMx3LpzDmNUt93kmFxovGyS+R4fJIK3A2ai9TdhNKljTdgoWNN+65hQHvUtac9Ckukvzzc7OlqDc2PFYLLaUPwDX3VeoLwl8r/C84E/lKQqFuxFUjZ3qd32q7RaFzxJYt+zjI7iYc+tM4UikJRcjOQqHguR90vUnbv+mb3wp4UIyAxKgvLyqT6t2dbmKQe1ATk2z0842qO7OBCveLtoFJYkQR5BJk3bevdjLmBAZ1v5DzIaHBeR37cO6Yw3hZUZ/Iv6azAvHhjiCQVCYgvDpMvk33j5CVXy1bj6oUY5mTlmndJvoCOoaYAQNkOAWR6XExMnE=;b0BytnvrNZKfwGOys6QWLw=="
 ---
 

@@ -275,6 +275,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
+  - title: "Generative AI and evolving enterprise needs: How Amazon approaches the future of technology"
+    excerpt: "Generative artificial intelligence is a rapidly advancing technology that is merging hype and reality. It’s poised to have a huge impact on next-generation cloud technologies."
+    publishedDateTime: 2023-10-24T17:26:00Z
+    webUrl: "https://siliconangle.com/2023/10/24/generative-ai-evolving-enterprise-needs-amazon-approaches-future-technology-supercloud4/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Bratin-Saha-Supercloud-4-2023.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Shield AI announces multi-year agreement with Sentient Vision to offer AI-enabled real-time situational awareness"
     excerpt: "A groundbreaking AI technology collaboration between Shield AI, an American defence technology company building the world’s best AI pilot, and Sentient Vision Systems (Sentient), an"
     publishedDateTime: 2023-10-23T19:20:00Z
@@ -299,6 +313,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "OlV9hPEPXyF1xyJDO57Lte06cEhokUUwFEESy4mbtfjdmRCeCGA4rxyo+C4R9gmD3uxwu1YiQN7mSEX6r3qEyrj/jfH6149mIM4xXtUysZ/ZRMrmVUpa5q0iGUIwxymZFFVmHDiCwIWl8Sc073SZMeN+0p0UMDD5SKMrEiasT9WejQcybx/G67VnYwAteAG+46rjWbSjIZXriZyC6XPE/hkwYLbKCZv6c9Vq/Pc2ujrDsY1uI9vf/uI2bFVQkmvObOxcO9LXfHxnP22MGo9b4o1r2/obt+jVHEgfllmqSlUSStpeUVbwodO6c8izmjIQE1UypnnGWgDLUIuii31+U26l2Xq2K5VtZHyLP+9IWeQ=;ULJSEaJzm4It45PK8NQd2g=="
+secured: "Qb+36JcZLgB5s17GF845ltvCwsuVowAwKDQUUe6VMDC1rvxii+80F5ySg3LL8jhv/NHpqOlDpy9d/ZCHUN03ukkshZEsvL77ncnw9fYmnP9qw7bki6/PF8co9MnoyK/ZK234STVqX1e13bvcsn15B8VCcsRZ0IvZmC299NY6shHYWdsgBPf89d0Zp4YppaYHWBao/6VKGA535Ldhi7wxceY00JLOrm2E7QZ9cSkM8zKE3ltj9kAHpc/x1RErn0z/344ztLEEfDu2FLcg/NKJoqa2d6Ubg+b7swvFDBcay7J2ceYZVFpOWfhhq11+dWj5EHPB18WGT3vFeDcAHdT1S8CujdycZyrfs53nd4/B4bUiqJm2P3pUG0JOEEQSKJaGfTiuFHqZSFTdLCcM/v/IQAyOGWn+UjXDGgh3fFTgLkujxmmEMqfiOixzK/b4BmwGlEkm9zrWJ1ORE8RW1rNpv6RkuYcexNeUo97+VGdSalDSK2dIkzAGIFyt02WOXnVw0f56Y1uzTiFic5eLzFZDsA==;TCpO8L/5NS7NAKuN32UfZA=="
 ---
 

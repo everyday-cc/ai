@@ -31,22 +31,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "How To Help Your Customers Trust AI"
-    excerpt: "According to a 2023 Dentsu report, over 70% of customers say brands should disclose when they're using AI. Tell customers how you're using AI in your business. Are you training your chatbot to give more empathic answers? Gathering insights to improve your customers' experiences? Be specific about what tasks AI is doing for you."
-    publishedDateTime: 2023-10-20T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/20/how-to-help-your-customers-trust-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/20/how-to-help-your-customers-trust-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/20/how-to-help-your-customers-trust-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b06f007993cd0655ee1983/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 400
-        height: 223
-        isCached: true
   - title: "25 of the best free AI courses on edX"
     excerpt: "TL;DR: A wide range of online AI courses are available to take for free on edX. You can find online courses on just about everything at edX. Whether you want to learn about coding, video game development, or economics, edX is worth checking out."
     publishedDateTime: 2023-10-20T04:01:00Z
@@ -60,6 +44,20 @@ related:
       - url: "https://sm.mashable.com/t/mashable_sea/deal/2/25-of-the-/25-of-the-best-free-ai-courses-on-edx_ykjm.1200.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "5 Best AI Video Generators 2023"
+    excerpt: "or $23 billed monthly Synthesia is a leading generative AI startup that helps users transform text scripts and instructions into videos. The solution is particularly well-known for its AI avatars: Users can choose between more than 140 AI avatars — or ..."
+    publishedDateTime: 2023-10-24T16:37:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/best-ai-video-generators/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/10/ew_20231018-best-ai-video-generators.png"
+        width: 1400
+        height: 900
         isCached: true
   - title: "IBM works out how to boost AI chips"
     excerpt: "NorthPole inspired by the brain  A brain-inspired computer chip that could supercharge artificial intelligence by working faster with much less power has been developed by researchers at IBM. Biggish's Blue's huge NorthPole processor chip eliminates the need to frequently access"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kevinkruse/2023/10/24/how-to-nourish-a-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kevinkruse/2023/10/24/how-to-nourish-a-culture-of-recognition/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1202
     height: 900
     isCached: true
-
-related:
-  - title: "Remarkable recognition a massive step towards reconciliation"
-    excerpt: "At the end of his first speech as Manitoba’s premier, Wab Kinew announced that he was appointing himself as minister for Indigenous reconciliation. “There is a structural change we are bringing into"
-    publishedDateTime: 2023-10-20T00:51:00Z
-    webUrl: "https://www.winnipegfreepress.com/local/2023/10/19/remarkable-recognition-a-massive-step-towards-reconciliation"
-    type: article
-    provider:
-      name: Winnipeg Free Press
-      domain: winnipegfreepress.com
-    quality: 24
-    images:
-      - url: "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2023/10/1781333_web1_231019-cabinet-meeting-0230.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "XrZPvqX3mUGGUqtinmvANwYsrLH9prdJRX9jRoecMZlE33KOYAjxoQ4Ljl5Tr48fny5/F8HZiiqkTjWyoM/pYu9UU9OV3lPG00T+XD8FSBiLhqYqkF7+FuSysZ44JOnrYmbp4tKgrIVnxrfSLsGofz+/ZMx2q7Ut3pKwM2yMFLoc1k8KprkH4Q+TSRSo+Wc0bH3QeTDDWkaDFR3oA7FHGWMjNJ3K4KWZMOUSj88wIMRBrd7CyrLJpovtkJ79jvMwfxfsH6TPH+WRHD1NH3R8o0dhqGHiYTQsYOCm4o5mkbFrlo8ZV6KIU5WPlh8f7Cscsvwrlb1EvhZNyJhtbQgVp7WJCU7lV0FwaWX+dYfmzzM=;5S6Mv5+WOOFF4IqN86o9iw=="
 ---

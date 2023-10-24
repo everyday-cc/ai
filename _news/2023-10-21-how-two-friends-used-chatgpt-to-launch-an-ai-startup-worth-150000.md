@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp"
 type: article
 quality: 57
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -86,6 +86,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Researchers show ChatGPT, other AI tools can be manipulated to produce malicious code"
+    excerpt: "Artificial intelligence (AI) tools such as ChatGPT can be tricked into producing malicious code, which could be used to launch cyber attacks, according to research from the University of Sheffield."
+    publishedDateTime: 2023-10-24T17:02:00Z
+    webUrl: "https://techxplore.com/news/2023-10-chatgpt-ai-tools-malicious-code.html"
+    ampWebUrl: "https://techxplore.com/news/2023-10-chatgpt-ai-tools-malicious-code.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-chatgpt-ai-tools-malicious-code.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 32
   - title: "How to build a speaking personal AI assistant using Node.js, ChatGPT, ElevenLabs and LangChain"
     excerpt: "OpenAI, on the other hand, is an artificial intelligence research lab that provides powerful APIs for various AI tasks, including natural language processing and understanding. Watch this video on YouTube. Other articles we have written that you may find ..."
     publishedDateTime: 2023-10-24T09:05:00Z

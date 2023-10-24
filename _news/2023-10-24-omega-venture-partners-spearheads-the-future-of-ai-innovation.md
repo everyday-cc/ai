@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Omega Venture Partners Spearheads the Future of AI Innovation"
-excerpt: "Omega Venture Partners Strengthens its Stature as the Leading Venture Capital Firm Cultivating Tomorrow's Tech Leaders. PALO ALTO, Calif.,"
+excerpt: "As Omega Venture Partners sails into a new epoch of AI innovation, its unrivaled expertise and proven track record affirm its role as the preferred harbinger of success for the pioneers of tomorrow's technology. See more from Citizens Bank on the Role of AI in Financial Services here."
 publishedDateTime: 2023-10-24T13:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/10/24/9904369.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/10/24/9904369.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-omega-venture-partners-spearheads-future-ai-innovation-/2023/10/24/9904369.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-omega-venture-partners-spearheads-future-ai-innovation-/2023/10/24/9904369.htm"
 type: article
 quality: 19
 heat: -1
@@ -127,6 +127,6 @@ related:
       domain: exchangewire.com
     quality: 2
 
-secured: "SEd6qkdEUVo0y2a34y6Ez5ZWoalC6FNxUMJoPo09Abo6IR7kGeSHiSA6R52eSK/QnL145Zor9Wb6N6mAYYJlZ+UWBXKOA+sIYvhBGNSnNK0Ty2LDKC9lcRpHb06jYJNo59O9Xu/UAOWr/blgDBVZMtpUbEfKT2PH3BvZ6RUi2tKnG4Ii5Q0KRPEYx2CK3uKZ3tW36+qiPgMsfFDwjTvBw+jPFxj6SvoBBng/gfWdQOWHDOR32VStPaG0Bb9uiUdQ2Bqu4cFZN2dSXPZ2Zn+pXu0HRL3LXZLtQeuPTyJ6n5pL9rVNPFdFsqvvlwVbZ2Yn7OiRJURyOM7Yyt22WsspZ3bvQdy7bdkaylSTNsO+uyw=;JmMmvC9JvctZzwku/D3Iww=="
+secured: "JMnJTRngvqZAmqI+fBqg16a1MZ2mjU3U2ydnZD7PAEkBdHiE6qvlnCOoNlvgFnJnTpK/guyVeRov4zTyxfgeP7E3K6+NTVDu92kOgCp+OXbn6QuW9l0RR5rJ0oIK7rV/G63kgz96cFZ5Cheoo0zWk14DOp7Rt4u3MLP7znrbExPU0DFzMcpSrQx59d2OImcjx02zf7zDVRpV3p3nu5rFHkccXKaKoXn6golmGpg0Ji0CQmOTAG2LglAmxY/pYpwJaadH8MjZG5qvKZAhaxt5v/cMHY8QPQUHEEm9FYG8ZGsAxLf10KBWNhMGBnrDs9I42zsEG4m2QICLj0ap1BvtONqrEEgpXdqFiJEKeOTCSPY=;nXW0Pupi7aUM6z0btz7TOw=="
 ---
 

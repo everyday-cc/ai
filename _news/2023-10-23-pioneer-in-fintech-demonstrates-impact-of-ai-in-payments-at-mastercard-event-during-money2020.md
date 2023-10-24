@@ -94,6 +94,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How AI is poised to impact government — and vice versa"
+    excerpt: "The future is now, and the public and private sector are both working together and at cross-purposes to meet the moment. Here's how governments are approaching the regulation and use of artificial intelligence."
+    publishedDateTime: 2023-10-24T13:41:00Z
+    webUrl: "https://technical.ly/civic-news/ai-government-use-regulations/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 39
+    images:
+      - url: "https://technical.ly/wp-content/uploads/2023/10/AI-government-cities-pexels-google-deepmind-17483907.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Music Companies Take Legal Action Against Amazon-Backed AI Startup"
     excerpt: "A recent legal battle is brewing in the music world. Three top music companies are suing Anthropic, an AI firm. They claim the company's AI, Claude, is using their song lyrics without permission. This"
     publishedDateTime: 2023-10-20T13:15:00Z

@@ -135,20 +135,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Microsoft Promises SOC Relief with Coming Security Copilot AI"
-    excerpt: "The Security Copilot integration in Microsoft 365 Defender will translate what the attack code does ... which gets generated in the form of the Kusto Query Language. It's also possible for analysts to use Security Copilot to analyze a PowerShell script ..."
-    publishedDateTime: 2023-10-20T00:18:00Z
-    webUrl: "https://redmondmag.com/articles/2023/10/19/microsoft-security-copilot-soc.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 73
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_Decmaker.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft’s Promising Outlook: AI Growth Potential and Azure’s Stability Justify Premium Valuation"
     excerpt: "Analyst Keith Bachman of BMO Capital maintained a Buy rating on Microsoft (MSFT – Research Report), with a price target of $400.00. Keith"
     publishedDateTime: 2023-10-20T11:15:00Z
@@ -375,6 +361,6 @@ related:
       domain: microsoft.com
     quality: 12
 
-secured: "qYsvyvk5Bpm1RXefqtZDwcqwxJKtCURpGw9bhobc1MuHx+05TN31/GjNoqXYjrItae5fKAg7hqoCrqoeaOOB0WgdJs1ZVA8w2/ka4bwi5EAASUaPeEj6RV2iJ8CWSNmKplsP3ZLtWh9X6V+gifESXBWVhJWQN6ZXErZwugNKR4wgiRJuzZ1pz/5/ByqTZ+TurJIXZRAWgi2WOLEWgU3exG29DZ5Tr7Cb/Qdaac6HDsnsHXS1z9FN620DxbTPWTwmk4wPggind/edkDBm1GezxyyrcnKZ9jWFdEhbyDQaWL9gkMy0zotYEtxr/BccDweoKjSVDhpazELDUP0FhzjubnPMtokoxkUPVH05moKCTBE=;WD+ql9Vv1j+6C7UsKvhrGQ=="
+secured: "mYb624jLrUf6GIL9v7L15hcHNmTwZB6b11WYcdMoZMmQyuG2ZUlKfFllt7oD72In3kU9kTHffUhku+RMTeoe1ffEXrcs1WuqkRdQXjUDb5IIFiGEAbNByT3LR6NblseKSDmqD9dGe9RHc9ELrb+SGpqHni+u39tjFE4198dZ8ULmmvJH4tUA6b3mIOH5rjtWDOgaa2DeTJ95rnNOLt6tWztY8xIHagCwTr//gDPabcUwwkRL9PhgzbP8LsSKLiNvXIyUnJbvNh/ReetmWD0wQudLccQSaZc9BTrAetyjsi+G4pQRFwlf4yaFsZL4zfiJagR9DvAaTP0BjwQqibEQvnjIxEv+WuccbRW2rbvOtIKqBAKRbPG/CSz15Eo8ETco4sdxZELl4PSTBwqU8L9zfs+td2ayo7lcOkSO9ZsPstd0poos3tZyO2wYqNF8SHCfExl1uraPeKCmAcNFDOUwCgU21V0znM7Y10QwLO4tgxT6Zd81MwPYqS+Da+3bSW50043VjXz9MhDpbgalYRm9SQ==;7nGAUAXlI6HRyVGewVuFkQ=="
 ---
 

@@ -25,59 +25,80 @@ images:
     isCached: true
 
 related:
-  - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
-    excerpt: "The purpose of the expanded relationship between IBM Consulting and AWS is “to help more mutual clients operationalize and derive value from generative artificial intelligence,” IBM Consulting stated in a press release. In addition, IBM Consulting ..."
-    publishedDateTime: 2023-10-20T13:27:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
+  - title: "Elastic Is Carving Out A Niche In Generative AI With Vector Search"
+    excerpt: "Customers are deploying Elasticsearch Relevance Engine as their platform for building generative AI applications using vector search and hybrid search capabilities."
+    publishedDateTime: 2023-10-24T16:25:00Z
+    webUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/10/24/elastic-is-carving-out-a-niche-in-generative-ai-with-vector-search/"
+    ampWebUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/10/24/elastic-is-carving-out-a-niche-in-generative-ai-with-vector-search/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/10/24/elastic-is-carving-out-a-niche-in-generative-ai-with-vector-search/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/tr5423-what-is-generative-ai.jpeg"
-        width: 1400
-        height: 933
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6537e25d5f72f6b95a4d46a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "IBM and AWS leap deeper into bed for AI love affair"
-    excerpt: "AWS is the latest partner for veteran tech giant IBM. But where does that leave the latter on AI? We ask IBM Consulting’s AI chief."
-    publishedDateTime: 2023-10-23T09:31:00Z
-    webUrl: "https://diginomica.com/ibm-and-aws-leap-deeper-bed-ai-love-affair"
-    ampWebUrl: "https://diginomica.com/ibm-and-aws-leap-deeper-bed-ai-love-affair?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ibm-and-aws-leap-deeper-bed-ai-love-affair?amp"
+  - title: "How Generative AI Can Empower Software Engineering Teams"
+    excerpt: "I believe technology leaders should actively encourage their teams to discover and try out these tools to heighten their productivity, creativity and efficiency."
+    publishedDateTime: 2023-10-24T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/amp/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-10/BA999656-EE0E-43A6-AC71-5CA79A1311E7.jpeg"
-        width: 640
-        height: 427
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65369e7808401564f7a2c121/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1353
+        height: 900
         isCached: true
-  - title: "FEDML Nexus AI: The Next-Gen Cloud Services for LLMs and Generative AI"
-    excerpt: "FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML Nexus AI, offering the next generation of cloud services and platform for generative AI.This press release features multimedia."
-    publishedDateTime: 2023-10-24T12:25:00Z
-    webUrl: "https://venturebeat.com/business/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/"
+  - title: "Why Generative AI Needs Design"
+    excerpt: "With generative AI, computers gain a new set of capabilities: the ability to understand and generate language, code ... With simple prompts, anyone can translate an idea into a visual prototype that a group can riff on. While imperfect, these AI mockups ..."
+    publishedDateTime: 2023-10-23T21:00:00Z
+    webUrl: "https://www.forbes.com/sites/stevevassallo/2023/10/23/why-generative-ai-needs-design/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Forbes
+      domain: forbes.com
     quality: 69
     images:
-      - url: "https://i0.wp.com/mms.businesswire.com/media/20231024932463/en/1922758/4/wideimage.jpg?strip=all&#038;ssl=1"
-        width: 480
-        height: 269
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6536db33f0c0d8b1f46f464e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1176
+        height: 900
         isCached: true
-  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
-    excerpt: "Commitment to deepening expertise and expanding AWS on watsonx integration IBM has already built extensive expertise with AWS's generative AI services including Amazon SageMaker and Amazon CodeWhisperer, and is one of first AWS Partners to use Amazon ..."
-    publishedDateTime: 2023-10-21T18:42:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354349&cat=PR News Wire"
+  - title: "With Generative AI Advances, The Time to Tackle Responsible AI Is Now"
+    excerpt: "In 2022, companies had an average of 3.8 AI models in production. Today, seven in 10 companies are experimenting with generative AI, meaning that the number of AI models in production will skyrocket over the coming years."
+    publishedDateTime: 2023-10-20T17:09:00Z
+    webUrl: "https://www.unite.ai/with-generative-ai-advances-the-time-to-tackle-responsible-ai-is-now/"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/responsible-AI-1000x600.png"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "TCS’ Obsession With Generative AI"
+    excerpt: "TCS, the IT giant was catching up with generative AI, but now it has gone all in on AI in the last couple of months."
+    publishedDateTime: 2023-10-23T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/tcs-obsession-with-generative-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/TCS-Obsession-With-Generative-AI-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "Wo1BgIx6GKBBWTREnw7mbik1WiJy3+QEq5Fgj9P2DSm3AQ+AMCz7JLUxIV1rhGLh/5nBbjzpV3RtcIF9K6kbHTtC8TLdLAA4efeCuMFr0xGgbbOaHCa7t+T0QendfSIBAcI5dIMNPKQlcFRvGfhYGPx1+TUaXgsUPkjamxzdcP2xXat0FRCZedOcVF590zlFczFehUjG22fE46OmXyQvX1rcef7NdOAONFd0SWbF9WtBEOviGaB0eoxPwjoPO53dA2PZoWM8QYTqd+7nLV5Bs1RR7vT96Rf1pFzNDY5Yix4At5zxOo9nLmU9K3+FGVZp8SkowxC/beThsuCuOFwu+PUdG+A6VTLqoSkBAZjOLMqzhDnf3afZpfsz7QYti0OR3jqEHQnnOWuJwC/J8n5BMAam8UtHbYis0kGPKqNv3nNi5yeaNyl1JIyX0dIDFIsyfVrasl8gCgUD80QDtNkoOHbXE53SLsO5aj5n/6AB9Qao3/bWwS2beeUJ+lYIBbDr0miq+z760M/Kpt83XHPlNg==;aPJQXQouPVevK7TnjwLYrw=="
 ---

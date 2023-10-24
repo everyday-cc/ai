@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/prompts-are-key-in-2023-twe
 webUrl: "https://azure.microsoft.com/en-us/blog/prompts-are-key-in-2023-twenty-five-tips-to-help-you-unlock-the-potential-of-generative-ai/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/poison-corrupts4.jpg?w=3000"
         width: 3000
         height: 1688
-        isCached: true
-  - title: "With Generative AI Advances, The Time to Tackle Responsible AI Is Now"
-    excerpt: "In 2022, companies had an average of 3.8 AI models in production. Today, seven in 10 companies are experimenting with generative AI, meaning that the number of AI models in production will skyrocket over the coming years."
-    publishedDateTime: 2023-10-20T17:09:00Z
-    webUrl: "https://www.unite.ai/with-generative-ai-advances-the-time-to-tackle-responsible-ai-is-now/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/10/responsible-AI-1000x600.png"
-        width: 1000
-        height: 600
         isCached: true
   - title: "2023 Women CMOs in Fintech Report: Marketing Investments to Remain Strong, CMOs Orchestrating Success, and Generative AI Boosting Efficiency"
     excerpt: "Key findings from this year's Women CMOs in Fintech report include: Marketing investments remain strong: Despite the challenges of reduced venture capital and rising costs, marketing spend is not waning for most fintech brands."

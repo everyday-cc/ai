@@ -39,22 +39,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Research: AI models lack transparency"
-    excerpt: "Artificial intelligence models lack transparency, according to a study published Wednesday that aims to guide policymakers in regulating the"
-    publishedDateTime: 2023-10-20T00:55:00Z
-    webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/10/20/research-ai-models-lack-transparency/97330"
-    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2023/10/20/research-ai-models-lack-transparency/97330"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2023/10/20/research-ai-models-lack-transparency/97330"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 59
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/10/20/156351.jpeg?v=1697767380"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Stanford study indicates AI chatbots used by health providers are perpetuating racism"
     excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors' notes and analyze health records."
     publishedDateTime: 2023-10-20T21:41:00Z

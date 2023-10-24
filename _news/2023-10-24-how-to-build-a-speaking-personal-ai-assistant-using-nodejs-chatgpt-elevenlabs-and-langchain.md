@@ -101,6 +101,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Researchers show ChatGPT, other AI tools can be manipulated to produce malicious code"
+    excerpt: "Artificial intelligence (AI) tools such as ChatGPT can be tricked into producing malicious code, which could be used to launch cyber attacks, according to research from the University of Sheffield."
+    publishedDateTime: 2023-10-24T17:02:00Z
+    webUrl: "https://techxplore.com/news/2023-10-chatgpt-ai-tools-malicious-code.html"
+    ampWebUrl: "https://techxplore.com/news/2023-10-chatgpt-ai-tools-malicious-code.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-chatgpt-ai-tools-malicious-code.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 32
   - title: "A ChatGPT rival just published a new constitution to level up its AI guardrails, and prevent toxic and racist responses"
     excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Anthropic AI, an Amazon-backed AI startup and rival to OpenAI, has taken a democratic approach to governing its artificial intelligence. The firm, which is behind the ..."
     publishedDateTime: 2023-10-23T19:33:00Z

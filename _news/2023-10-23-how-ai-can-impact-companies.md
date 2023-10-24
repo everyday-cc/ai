@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How AI is poised to impact government — and vice versa"
+    excerpt: "The future is now, and the public and private sector are both working together and at cross-purposes to meet the moment. Here's how governments are approaching the regulation and use of artificial intelligence."
+    publishedDateTime: 2023-10-24T13:41:00Z
+    webUrl: "https://technical.ly/civic-news/ai-government-use-regulations/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 39
+    images:
+      - url: "https://technical.ly/wp-content/uploads/2023/10/AI-government-cities-pexels-google-deepmind-17483907.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "PIONEER IN FINTECH DEMONSTRATES IMPACT OF AI IN PAYMENTS AT MASTERCARD EVENT DURING MONEY20/20"
     excerpt: "Serial fintech founder to address looming industry regulation and how AI can deliver more value to consumers and businesses  LAS"
     publishedDateTime: 2023-10-23T11:45:00Z
