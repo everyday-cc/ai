@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Bridging Political Divides With Artificial Intelligence"
+    excerpt: "Q: In your new study, an AI chatbot serves as a communication intermediary between two people on different sides of an issue. The chatbot evaluates the language of a question and tweaks it to be constructive to the person receiving the question. What is the basic logic and hypotheses behind creating this experiment?"
+    publishedDateTime: 2023-10-24T19:00:00Z
+    webUrl: "https://www.today.duke.edu/2023/10/bridging-political-divides-artificial-intelligence"
+    type: article
+    provider:
+      name: Chronicle
+      domain: duke.edu
+    quality: 17
 
 secured: "bNH7ZGThOROPgKKnP8CId71lgVyUnFYdx1D/FFBKsxueFXp5Wdqlv6BeIJ1QpPD/8kG+mrWOrW1Y/Cbbgq2eevZK2MTtJ1XqBtc0ENNwE7rLANpwX+uVL+j43vnVOjjY2ZdxDNV8wJ8WWtYZCXg71iRW0C0rgzTC6b/vhz/Beml+Q51XA1PpzHa+nL6KirZNQ8sDI0SmWsbiOlvr/9P1vJGDre63K7rcV5A6G/tth+k7uvouvXYjGwJ0TIBnqE7l032X/oKrXtiM3njy5FQiQd6J8uNjDfUo8+W6tlVjCA1bkILCt4Usx99C3k9bJTzgA1Nn2m1smDvAmPhxE/4kOc43qPuYOD73YYKm3cf62PbctA7mTI1MArY3Q9gRIvSlHnurdGsWupl5gCqLsdUbyKrl9vqO9Q1vqOi4sd/DYxeZsLs3T9wTj7efaDodqas4Kke6mOMOM5uRBH84/pYGCaHxDF/UCrEo+ved5/se/5ni1LgB9BEHolssibHH5oBJNpW3YBno0KoNvBQvXL/asg==;olSAHGfqfIyCAnXXvGUDTg=="
 ---

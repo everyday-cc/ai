@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft, Google post starkly different results for cloud, AI sales"
+    excerpt: "Microsoft's revenue rose 13 per cent to $56.5 billion in the quarter ended Sept. 30, while Google Cloud's third-quarter revenue rose 22.5 per cent to $8.41 billion."
+    publishedDateTime: 2023-10-24T21:43:00Z
+    webUrl: "https://globalnews.ca/news/10046550/microsoft-alphabet-sales-google-ai/"
+    ampWebUrl: "https://globalnews.ca/news/10046550/microsoft-alphabet-sales-google-ai/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/10046550/microsoft-alphabet-sales-google-ai/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 91
+    images:
+      - url: "https://globalnews.ca/wp-content/uploads/2023/10/Untitled-design-57.png?w=276"
+        width: 275
+        height: 215
+        isCached: true
   - title: "Microsoft to spend $3.2bln on AI in Australia"
     excerpt: "Microsoft said it will spend A$5 billion, or $3.2 billion, expanding its artificial intelligence (AI) and cloud computing abilities in Australia over two years to improve capacity by 250%. Fiona Jones reports."
     publishedDateTime: 2023-10-24T00:41:00Z
@@ -144,15 +160,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft’s Stock Performance: An Analysis of Azure Growth, AI Influence, and Office Commercial Prospects"
-    excerpt: "Microsoft (MSFT – Research Report), the Technology sector company, was revisited by a Wall Street analyst today. Analyst Derrick Wood"
-    publishedDateTime: 2023-10-20T04:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-stock-performance-an-analysis-of-azure-growth-ai-influence-and-office-commercial-prospects-1032722762"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Microsoft to Spend $3.2b in Australia as AI Regulation Looms"
     excerpt: "SYDNEY (Reuters) - Microsoft said it will spend A$5 billion ($3.2 billion) expanding its artificial intelligence (AI) and cloud computing abilities in Australia over two years as part of a wide-ranging effort that includes skills training and cyber security."
     publishedDateTime: 2023-10-23T13:05:00Z
@@ -310,6 +317,15 @@ related:
       name: CUInsight
       domain: cuinsight.com
     quality: 52
+  - title: "Microsoft's cloud revenue rebounds as AI boosts sales"
+    excerpt: "\"We are making the age of AI real for people and businesses everywhere,\" Microsoft CEO Satya Nadella said in the company's latest earnings report."
+    publishedDateTime: 2023-10-24T21:39:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2023/10/24/microsoft-cloud-revenue-ai-earnings-growth.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 51
   - title: "Microsoft Q1 earnings preview: Wall Street looks for signs of AI-powered growth"
     excerpt: "Microsoft will report its Q1 earnings after the bell on Tuesday, as investors look for signs that its AI investments are paying off."
     publishedDateTime: 2023-10-23T17:25:00Z
@@ -333,6 +349,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Microsoft reports higher profits and revenue powered by cloud computing and AI investments"
+    excerpt: "Microsoft has reported a 27% increase in profit for the July-September quarter compared to the same time last year."
+    publishedDateTime: 2023-10-24T20:23:00Z
+    webUrl: "https://www.clickondetroit.com/business/2023/10/24/microsoft-reports-higher-profits-and-revenue-powered-by-cloud-computing-and-ai-investments/"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 46
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VI5XY6RSCZC6PLLMESP3GOEGHM.jpg?_a=ATAPphC0"
+        width: 700
+        height: 432
+        isCached: true
   - title: "Microsoft releases Azure AI Content Safety to create safer online environments"
     excerpt: "Microsoft has launched Azure AI Content Safety, which uses text and image detection to identify and filter harmful content in applications and services."
     publishedDateTime: 2023-10-23T13:31:00Z
@@ -351,6 +381,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 20
+  - title: "Infosys collaborates with Microsoft to accelerate and democratize … – Infosys"
+    excerpt: "Both companies will help enterprises take an AI-first approach to scale next-generation AI solutions to improve operational efficiencies, drive revenue"
+    publishedDateTime: 2023-10-24T18:20:00Z
+    webUrl: "https://www.inferse.com/769259/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-infosys/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 16
   - title: "Innovating with responsibility: How customers and partners are bridging data, AI and trust with the Microsoft Cloud"
     excerpt: "For the past decade, we have been on a journey with our customers to help them achieve digital transformation, which is business transformation empowered by cloud technology. With increasing excitement around generative AI — both for its potential and the impact it is already having — organizational leaders are eager to prioritize adoption that"
     publishedDateTime: 2023-10-23T13:00:00Z

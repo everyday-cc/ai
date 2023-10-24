@@ -7,8 +7,8 @@ originalUrl: "https://www.lowyat.net/2023/309593/qualcomm-snapdragon-x-elite/"
 webUrl: "https://www.lowyat.net/2023/309593/qualcomm-snapdragon-x-elite/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Lowyat.net
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm's Snapdragon 8 Gen 3 leans heavy into AI new leak reveals"
-    excerpt: "A new leak may have revealed the full specs of Qualcomm's next-gen flagship processor, the Snapdragon 8 Gen 3."
-    publishedDateTime: 2023-10-23T15:16:00Z
-    webUrl: "https://www.androidauthority.com/snapdragon-8-gen-3-leaked-specs-3378618/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 49
   - title: "Qualcomm Snapdragon X Elite: 4.6 TFLOPs = more GPU power than Xbox Series S"
     excerpt: "Meanwhile, the updated Adreno GPU now packs 4.6 TFLOPs of FP32 compute performance ... It also wouldn't be a new chip without AI something, with Qualcomm supporting generative AI through its Hexgon NPU (Neural Processing Unit), which has up to 45 TOPS ..."
     publishedDateTime: 2023-10-22T23:13:00Z

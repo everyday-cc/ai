@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Nvidia AI agent, powered by GPT-4, can train robots"
-    excerpt: "Nvidia Research announced today that it has developed a new AI agent powered by OpenAI's GPT-4 that can teach robots complex skills."
-    publishedDateTime: 2023-10-20T20:00:00Z
-    webUrl: "https://venturebeat.com/ai/new-nvidia-ai-agent-powered-by-gpt-4-can-train-robots/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/NVIDIA-Eureka-Key-Visual.png?w=1200&strip=all"
-        width: 1199
-        height: 675
-        isCached: true
   - title: "Oracle loops in Nvidia’s AI stack for end-to-end model development"
     excerpt: "Nvidia's DGX Cloud and AI Enterprise software both are now available as dedicated apps on the Oracle Cloud Marketplace"
     publishedDateTime: 2023-10-20T18:08:00Z
@@ -53,20 +39,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "Gcore launches generative AI cluster with Nvidia GPUs"
-    excerpt: "Users will have direct access to the AI clusters and deployments using the managed Kubernetes with Nvidia GPU nodes and will be able to set up workspaces in MLOps and large-scale models. \"We at Gcore are immensely proud to be a part of the transformation ..."
-    publishedDateTime: 2023-10-20T11:29:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/gcore-launches-generative-ai-cluster-with-nvidia-gpus/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/DGX_A100.2e16d0ba.fill-1200x630.png"
-        width: 718
-        height: 377
-        isCached: true
   - title: "Yahoo Finance's NEXT: How rivals are taking on Nvidia in the AI chip race"
     excerpt: "Nvidia (NVDA) is dominating the AI chip market, but it may not hold onto that lead for long. Traditional semiconductor rivals like AMD (AMD) and Intel (INTC) are entering the AI space, but so are Big Tech names like Microsoft (MSFT) and Alphabet (GOOGL)."
     publishedDateTime: 2023-10-23T19:24:00Z
@@ -76,57 +48,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 50
-  - title: "Nvidia Says U.S. Speeded up New Export Curbs on AI Chips"
-    excerpt: "(Reuters) - Chip designer Nvidia said new U.S. export restrictions blocking the sales of its high-end artificial intelligence chips to China had gone into effect on Monday after regulators advanced the timeline on the curbs from its 30-day period."
-    publishedDateTime: 2023-10-24T13:25:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-24/nvidia-says-u-s-speeded-up-new-export-curbs-on-ai-chips"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
-  - title: "Nvidia generative AI-focused DGX Cloud launches on Oracle Cloud"
-    excerpt: "Nvidia's DGX Cloud supercomputer is now available in the Oracle Cloud Marketplace. Oracle customers will now be able to access the Nvidia DGX Cloud AI supercomputing service for training generative AI and other workloads,"
-    publishedDateTime: 2023-10-20T16:55:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-generative-ai-focused-dgx-cloud-launches-on-oracle-cloud/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 41
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/explore-dgx-h100-1cc-d.2e16d0ba.fill-1200x630.jpg"
-        width: 850
-        height: 448
-        isCached: true
-  - title: "Nvidia research creates Eureka to teach robots complex skills"
-    excerpt: "Nvidia Research has created Eureka, an AI agent that uses a large language model to teach robots complex skills like rapid pen-spinning tricks, or tossing and catching balls at a human level, for the first time."
-    publishedDateTime: 2023-10-21T22:58:00Z
-    webUrl: "https://itwire.com/science-news/automotive/nvidia-research-creates-eureka-to-teach-robots-complex-skills.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/c3fe953590046dd0f1b3f8760e09ca6a_M.jpg"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Nvidia built a massive dual GPU to power models like ChatGPT – Digital Trends"
-    excerpt: "GPU Technology Conference (GTC) usually focuses on advancements in AI, but this year, Nvidia is responding to the massive rise of"
-    publishedDateTime: 2023-10-23T08:49:00Z
-    webUrl: "https://www.inferse.com/767536/nvidia-built-a-massive-dual-gpu-to-power-models-like-chatgpt-digital-trends/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 36
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-15058.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "NVIDIA’s breakthrough AI teaches robots human-like complex skills"
     excerpt: "Eureka not only improves the performance of the bot significantly but also achieves this by planning rewards on the basis of human feedback."
     publishedDateTime: 2023-10-20T13:00:00Z
@@ -136,20 +57,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 34
-  - title: "Nvidia Announced an AI Agent Powered by GPT-4 That Can Teach Robots Complex Skills"
-    excerpt: "NVIDIA Research announced yesterday that it developed an AI agent called Eureka powered by GPT-4 LLM and generative AI. Eureka can teach robots complex skills by writing code that rewards robots for reinforcement learning."
-    publishedDateTime: 2023-10-21T06:21:00Z
-    webUrl: "https://iblnews.org/nvidia-announced-an-ai-agent-powered-by-gpt-4-that-can-teach-robots-complex-skills/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 33
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2023/10/nvidiabreakthrough-696x393.jpg"
-        width: 696
-        height: 393
-        isCached: true
 
 secured: "moWH1cUS+EZZuSQKOKvQZPS9l6EGojrnLD8uwcP0G1k0j8wSijvI0lSklnbWNR03e3glmSTLopVEG8gXkwJMs6J8e4cV30TX6SB97IJYnuRz4Ik07RECVeeib6dFEN7vrNHn9uvLc238rmPoFXumtTJrupOgMIZjjoxqauMnY7z9gJCih6jEmFirmIKEJ9/Te7Gu0YcmY+2dnZM6Bvh6fxVKiIQDKmZlsUWmbKq8XUetEd+J7G2tyNd8vH2RAr9W86Id+5PT2B60U+DXxaESTSrG1Cn9myqeDnXUMNUh7tRfTzQiwHUtlwxnAIG08bbE2IhmD3QcPSgRs7L6U1Wg6zAEhPsKMk7FEDhATr0fPuo=;lMqY3S7GTeppOlDK4gQA2Q=="
 ---

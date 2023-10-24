@@ -38,15 +38,6 @@ related:
         width: 611
         height: 458
         isCached: true
-  - title: "Databricks, the $43 billion analytics firm, acquires data startup Arcion for $100 million"
-    excerpt: "Databricks agreed to acquire Arcion, an enterprise data company, for $100 million Monday, including incentives, CEO Ali Ghodsi told CNBC."
-    publishedDateTime: 2023-10-23T12:30:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/databricks-the-43-billion-analytics-firm-acquires-data-startup-arcion-for-100-million/4792693/"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 0
 
 secured: "wmEZ1fyc1KjqwCAWlwzWeWK+dNUCg5k3/dSxjAIj9lprGo8VvSVt+faNxpVik0TF3aUPTWn9jmWSpZTYLvP7Biqv8GbVFRFYxpVA6vF4P2cPU0fZinGURtz16iaDD3WGYHjykSTiTSBodwcQ0CRcbYudEJ8KfEgNcOHO4PJf0NrFgPUxIq+8ZSGKUZYleQdoQS0uMlt2aK+HwRYxYexJmLkPwiq6ax8nAeZoahqKrtrCtSEEf/DFUxHmQFH1P+LQFqZiVJME+wVVNGfaqDpGMIGxKSBhDNTTPpQ/JRcvpjssUbSOzWesga6HfJv2u9GEKgix1WF9OxJ03q1OxiuWD2casAYw3pwXtKI/T03L5Ho=;q3TWbm3xEOUdajaB06mtwg=="
 ---

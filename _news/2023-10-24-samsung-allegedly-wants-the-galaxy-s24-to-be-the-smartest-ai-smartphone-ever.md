@@ -7,8 +7,8 @@ originalUrl: "https://www.androidauthority.com/samsung-galaxy-s24-ai-3378731/"
 webUrl: "https://www.androidauthority.com/samsung-galaxy-s24-ai-3378731/"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Android Authority
@@ -27,6 +27,17 @@ images:
     width: 1920
     height: 1081
     isCached: true
+
+related:
+  - title: "Generative AI like ChatGPT is coming to Samsung’s Galaxy S24"
+    excerpt: "Samsung has reportedly prepared plenty of ChatGPT-like AI features for the Galaxy S24 phones - what you need to know."
+    publishedDateTime: 2023-10-24T17:59:00Z
+    webUrl: "https://bgr.com/tech/generative-ai-like-chatgpt-is-coming-to-samsungs-galaxy-s24/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 17
 
 secured: "HjqEHjkDQMhh8z3YOhryx8tLJvmaGPolZxL0Ab1iD4+K0YkioLmht7nLKJhFW7WfKmVFXqW8C+x3FFGdWhXooOaEOYS3qEvY7OaFw3sWL9eiDDWLKPVQQqr9UCQ44nTRXiMB83J6N4RPms2IfvHKulZOd1vWYqxh9+vKCuJX2av0kPW/y8rh9dvf/LMNRU4ZFLOIdiVw2d0k7JEKffPXuoL59UOdRSynW7to3WlOp/9iw8RFXXUIQ72r74YFXQxbapYfmEgqPGXFCKLWZansCBNaA1FxbwoLlVnESpQX4oyLbmZY6222Ny40CCS3/yqOIs6K0FrF11Uie49FdY+2w0iC/CsIo0t9B6ks1rTZvrGiwkSrcC9k7h1SC5qu8+qMiITIW/dpgBVgjgQXIP/16wvwD06I12pmJWClAkG3dilBykCfAF9LftgLoIRpFvbttdt5lHbc1q3eG80mQDi+jHQyiwmcbEYNEnhcb/o0bJVJaMTFQAwN0+TOuacyoCvV7pLxZpwkZRuEFdtLOqan2Q==;QvqnjVDcNRs6gmvTLd0ivA=="
 ---

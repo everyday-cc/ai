@@ -102,20 +102,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cambricon and Huawei forge divergent paths in AI chip development amid prolonged US blacklisting"
-    excerpt: "The recent update to the US government's chip ban has raised concerns about its potential impact on Chinese chipmakers, particularly in the realm of high-performance computing (HPC) chips, including GPUs and AI chips."
-    publishedDateTime: 2023-10-20T02:30:00Z
-    webUrl: "https://www.digitimes.com/news/a20231019PD202.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 41
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231019pd202_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Alibaba, Tencent join big backers for Chinese AI startup Zhipu"
     excerpt: "Alibaba Group Holding Ltd. and Tencent Holdings Ltd. are among the influential Chinese investors that invested 2.5 billion yuan ($468.9 million) in AI startup Zhipu this year, part of a wave of capital flowing into a red-hot arena."
     publishedDateTime: 2023-10-20T05:37:00Z

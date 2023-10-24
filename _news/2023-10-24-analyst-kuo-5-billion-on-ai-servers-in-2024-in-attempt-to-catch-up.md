@@ -9,7 +9,7 @@ ampWebUrl: "https://www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-i
 cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up/201433/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -79,15 +79,6 @@ related:
     provider:
       name: AppleInsider
       domain: appleinsider.com
-    quality: 19
-  - title: "Apple expected to spend $4.75 billion on generative AI in 2024 alone"
-    excerpt: "After a report said Apple was planning to announce generative AI features next year with iOS 18, analyst Ming-Chi Kuo corroborated that."
-    publishedDateTime: 2023-10-23T18:33:00Z
-    webUrl: "https://bgr.com/tech/apple-expected-to-spend-4-75-billion-on-generative-ai-in-2024-alone/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
     quality: 19
   - title: "Kuo: Apple Could Spend $4.75 Billion on AI Servers in 2024"
     excerpt: "Apple is expected to spend several billion on hardware to support its artificial intelligence development in 2024, according to speculation"

@@ -37,20 +37,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "25 of the best free AI courses on edX"
-    excerpt: "TL;DR: A wide range of online AI courses are available to take for free on edX. You can find online courses on just about everything at edX. Whether you want to learn about coding, video game development, or economics, edX is worth checking out."
-    publishedDateTime: 2023-10-20T04:01:00Z
-    webUrl: "https://sea.mashable.com/online-learning/28031/25-of-the-best-free-ai-courses-on-edx"
-    type: article
-    provider:
-      name: sea.mashable
-      domain: mashable.com
-    quality: 69
-    images:
-      - url: "https://sm.mashable.com/t/mashable_sea/deal/2/25-of-the-/25-of-the-best-free-ai-courses-on-edx_ykjm.1200.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "IBM works out how to boost AI chips"
     excerpt: "NorthPole inspired by the brain  A brain-inspired computer chip that could supercharge artificial intelligence by working faster with much less power has been developed by researchers at IBM. Biggish's Blue's huge NorthPole processor chip eliminates the need to frequently access"
     publishedDateTime: 2023-10-23T10:22:00Z

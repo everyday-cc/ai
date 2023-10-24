@@ -49,6 +49,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 17
+  - title: "Bridging Political Divides With Artificial Intelligence"
+    excerpt: "Q: In your new study, an AI chatbot serves as a communication intermediary between two people on different sides of an issue. The chatbot evaluates the language of a question and tweaks it to be constructive to the person receiving the question. What is the basic logic and hypotheses behind creating this experiment?"
+    publishedDateTime: 2023-10-24T19:00:00Z
+    webUrl: "https://www.today.duke.edu/2023/10/bridging-political-divides-artificial-intelligence"
+    type: article
+    provider:
+      name: Chronicle
+      domain: duke.edu
+    quality: 17
 
 secured: "Nw9Kvs44F1teTU6zmRR+3aNzZeaheGmc/42UBSZzTmkRROi1ZF4e+waZ9XkfyPA4yW9+PZ/LDETqopm2XVgQBCWeG0UuLi4ZGroCf6LJDPhZ9yh29xxwXnEAASXNbHBcVcVKgpxvJ+UD2xbsiaFkbfI1v8ICCAq2cSCfujve8qVXToT9k4KzpvDYv8P+JbyeNvMdiHF+1sLCv/JLWVLrrjcKD0PJmqw7+We4XJ4p+4GIJ4kWC9XUi45AmbldmUgXAfxpynjxW0qF4oLm8g3pwIq3LdQcWSBFwSnEr1j6F1J9TRA87fmCj60rvRaN4pDvd5MTklMOYeXTMLqUWYvZ97bTzgh2hc+cGIL+BtYMcUk=;9ah1NBvx/jHvwL1m9Iecyw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.inferse.com/766323/chatgpt-5-is-on-track-to-attain-art
 webUrl: "https://www.inferse.com/766323/chatgpt-5-is-on-track-to-attain-artificial-general-intelligence-the-statesman/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT interprets 'Fed speak' to predict direction of interest rates"
-    excerpt: "This has major implications for forecasting policy decisions and modelling economic expectations. By leveraging natural language processing and textual analysis, ChatGPT demonstrated proficiency in classifying the nuanced language of central bankers ..."
-    publishedDateTime: 2023-10-23T10:26:00Z
-    webUrl: "https://www.finextra.com/newsarticle/43170/chatgpt-interprets-fed-speak-to-predict-direction-of-interest-rates"
+  - title: "Artificial General Intelligence (AGI) And The Coming Wave"
+    excerpt: "Wall Street Journal Tech Live event heralds the arrival of Artificial General Intelligence (AGI) and a glimpse into the future."
+    publishedDateTime: 2023-10-24T18:57:00Z
+    webUrl: "https://www.forbes.com/sites/randybean/2023/10/24/artificial-general-intelligence-agi-and-the-coming-wave/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5283.jpg"
-        width: 480
-        height: 270
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 36
 
 secured: "H4S5F0OxEM2oQhvycPCaS1aQ/U9LNY6TzJ1+OI25m7bGRS61RE7IiMrFU7rB48bAgur7KXgnoIp06AqVar0LmIjXsruzMBjlwuYjG/+iXNBVqLmkVn6O0mozKN6mHQ5RK7jYRJsQfwsytqbXJ5byD+VyeBo7RocFt+kP+CJgql86zxdCqUAyYd1Cd2AMMPEN2/iXjSodxJXPBzT2NVVybMfU38N2/IFrWaktlfzVIK1a0ElaOWWQ1i6MRY2dMg0r8t08SpDCCK0XQCmMmx7ZPP383DXRVYSqyIPKj/0Ee74xsEAJsVQWjhrLzI0LrE8OA4+Mc2uagdsiFHUon5lQjVMApfFSjYeBspcZPz1Gy37pKxyBjt8fgF/DCHVAODtn/VnOTH5iUm4yZqDdojbOtlg7mq4YlR340h2NRxIV5Mfy9TIuBvYomx5Fg8O5UoUx8dWCUNSRwbiWJtI9z2mGYXtoBAYEHxx37VNUIdmYkOI/YOw8mKMArc+StGJAh/woHRc+SvLVaPjvGVxlixqqtg==;RehtcqBzRbJfvZJ2Scr3IA=="
 ---

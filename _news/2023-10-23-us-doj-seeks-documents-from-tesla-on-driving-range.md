@@ -46,6 +46,15 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 19
+  - title: "Elon Musk saved Tesla from ruin by promising self-driving cars. The problem? 700 crashes, 19 deaths and claims of a FAKED promo video. So TOM LEONARD investigates: Is his ..."
+    excerpt: "Tesla, he said, would hold an ‘Autonomy Day’ in a month’s time to show investors that the company was building an entirely self-driving. It would be revolutionary – and surely stave off bankruptcy. However, there was an obvious problem: drivers ..."
+    publishedDateTime: 2023-10-24T18:47:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12655261/Elon-Musk-Tesla-crashes-deaths-faked-promo-video-lawsuits-TOM-LEONARD.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
 
 secured: "ZARPdFLAb1SUf6DuZd9OoxgQKKjy3YQkVl/4Fa9lJNC8Wab/qdRv/EvEj6LMW//vds5P5yMf73uNlD9X/ncynzd5NYx8MK+pWxJMitoMIXGzG4hViD8H4K06YbxcDJw+AHSqyeZv4wi6G4kfdpUuT/MOCu4Pf1NlWQnBiV4/OUzPs0rgqDS2jvFgBz50JuW5uuBYVaEPh7aOQZJUyU+mymJlEKBJqkhKzzPL1fyBWfpjuUTXgVR+rc476XEDH4gneDhYY+ORiQqCqrkrfCOldcgXUBLXWBFZiIm3uKw0ugsAb7BwJTpdtep2qWS6EOejjycpJ5S2l1KbmCfHu/WbCS+IY9m1oF8QUrDxIMm1vmpp1zvVDbCOGS3/XFfeQNQeUclLzmDAQjqxBMXq39UJ9CByJtJdxb99atF9x+O+6kIuQAk3oMp92DQMnyNySrvJOWDJnilRbZX/AybbYOf8T+nPdufu3eD5lTbReaYmv8C4TWubP/OkW/ZJf+eJhd9ABLj2ZMXdrTlGtVzpWc+nAA==;YH2jmlS9aJ2aPxYsGMYifw=="
 ---

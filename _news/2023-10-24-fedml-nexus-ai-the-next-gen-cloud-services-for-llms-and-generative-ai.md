@@ -59,35 +59,19 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Generative AI Can Write Phishing Emails, But Humans Are Better At It, IBM X-Force Finds"
-    excerpt: "Hacker Stephanie \"Snow\" Carruthers and her team found phishing emails written by security researchers saw a 3% better click rate than phishing emails written by ChatGPT."
-    publishedDateTime: 2023-10-24T11:00:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-phishing-emails-impact/"
+  - title: "IBM expands relationship with AWS to bring generative AI solutions to clients"
+    excerpt: "As part of this, IBM Consulting aims to deepen and expand its generative AI expertise on AWS by training 10,000 consultants by the end of 2024; the two organizations also plan to deliver joint solutions and services upgraded with generative AI capabilities designed to help clients across critical use cases."
+    publishedDateTime: 2023-10-20T07:35:00Z
+    webUrl: "https://africabusinesscommunities.com/tech/tech-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-to-clients/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 61
+      name: africabusinesscommunities.com
+      domain: africabusinesscommunities.com
+    quality: 51
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/01/tr12423-malware-seo-poisoning.jpeg"
-        width: 1400
-        height: 935
-        isCached: true
-  - title: "Netsmart Accelerates AI Innovations with AWS and Expands Partnership to Optimize Outcomes for Community-Based Providers"
-    excerpt: "Netsmart today announced the successful development of an artificial intelligence (AI) Data Lab built on Amazon Web Services (AWS) to advance AI for community-based care providers. By combining the sc"
-    publishedDateTime: 2023-10-24T17:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/b35399786/netsmart-accelerates-ai-innovations-with-aws-and-expands-partnership-to-optimize-outcomes-for-comm"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35399786"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35399786"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "http://adserver.20nine.nl/www/delivery/avw.php?zoneid=85&n=238f97b"
+        width: 336
+        height: 280
         isCached: true
   - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
     excerpt: "Commitment to deepening expertise and expanding AWS on watsonx integration IBM has already built extensive expertise with AWS's generative AI services including Amazon SageMaker and Amazon CodeWhisperer, and is one of first AWS Partners to use Amazon ..."
@@ -98,6 +82,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Netsmart Accelerates AI Innovations with AWS and Expands Partnership to Optimize Outcomes for Community-Based Providers"
+    excerpt: "Netsmart & AWS launch the AI Data Lab, advancing community-based providers' care delivery and outcomes through predictive analytics, NLP & AI tools."
+    publishedDateTime: 2023-10-24T21:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231024585709/en/Netsmart-Accelerates-AI-Innovations-with-AWS-and-Expands-Partnership-to-Optimize-Outcomes-for-Community-Based-Providers"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 12
 
 secured: "p6gsNMrAkq5FuKqEPz7OXxFGtLm7Hi6JrThW+SNSrlrOQ4KlD6Hsd41NEeZOdS38lhm+JQJ/JpxgVtP36/EzG/B+ztsd4Uege1xryKe0bn3IbmhQDcTuWiarFzmrQwReLT8uFUzOtRz5HoyqmeJq9Iu0XMu8omK0x7lnPPpAjseoNWKgTh7lOY2PeHEdhGJFbI7pdxlgehPAaSA1WnkvSM4xFyjNsETL9BGzRCe/f/IPZLZK1dyt9UqX2OLlwrVhte9SdqM/x6mkYJ95AaWaStWQQR1u039qqMC1pTpzMBhCsKpuB7eVUSOeooyYyL47s9YW5R/3cA/VyHBBijGPCbcoDzv1UwFa8V23k5J7rk8=;m3hbnKvernaU32f2+ZxbuQ=="
 ---

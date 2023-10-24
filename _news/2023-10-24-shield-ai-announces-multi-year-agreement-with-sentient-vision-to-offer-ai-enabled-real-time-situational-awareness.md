@@ -114,6 +114,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI May Soon Weigh In on Regulation"
+    excerpt: "How will agencies like the FCC deal with computer-generated public comments?"
+    publishedDateTime: 2023-10-24T19:12:00Z
+    webUrl: "https://www.wsj.com/articles/ai-may-soon-weigh-in-on-regulation-artificial-intelligence-agencies-public-comment-periods-766436ec"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-873788/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Role of CX automation and generative AI"
     excerpt: "Customers expect personalised and efficient service, and the emergence of generative AI has led to a significant shift in the way businesses approach customer service and customer delight. Like human interactions,"
     publishedDateTime: 2023-10-22T09:48:00Z
@@ -234,6 +248,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "How Creative Cloud and Generative AI Are Impacting Higher Education"
+    excerpt: "Tools powered by natural language processing can enhance instruction and prepare students to harness artificial intelligence in their post-college careers."
+    publishedDateTime: 2023-10-24T19:39:00Z
+    webUrl: "https://edtechmagazine.com/higher/article/2023/10/how-creative-cloud-and-generative-ai-are-impacting-higher-education"
+    type: article
+    provider:
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 36
   - title: "How AI and digital transformation are influencing the food and beverage industry"
     excerpt: "Manufacturers and retailers are improving their technology stack through digital transformation strategies and AI to improve operations and address historical food and beverage challenges from ingredient shortages and reformulations to predicting current and future market opportunities."
     publishedDateTime: 2023-10-20T15:03:00Z
@@ -303,6 +326,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The Computing Pioneer Helping AI See"
+    excerpt: "Alexei Efros has spent his career learning how machines see differently from humans. Now he’s helping to bridge the gap."
+    publishedDateTime: 2023-10-24T18:01:00Z
+    webUrl: "https://www.quantamagazine.org/the-computing-pioneer-helping-ai-see-20231024/"
+    type: article
+    provider:
+      name: Quanta Magazine
+      domain: quantamagazine.org
+    quality: 19
   - title: "Why actors are fighting for AI protections"
     excerpt: "Actors on strike amid contract negotiations with production studios are fighting for protections from artificial intelligence (AI), but the concerns they’re highlighting raise risks beyond the scope of movies and television."
     publishedDateTime: 2023-10-23T13:00:00Z

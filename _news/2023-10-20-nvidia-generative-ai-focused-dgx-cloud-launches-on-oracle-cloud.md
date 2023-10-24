@@ -26,131 +26,103 @@ images:
     isCached: true
 
 related:
-  - title: "New Nvidia AI agent, powered by GPT-4, can train robots"
-    excerpt: "Nvidia Research announced today that it has developed a new AI agent powered by OpenAI's GPT-4 that can teach robots complex skills."
-    publishedDateTime: 2023-10-20T20:00:00Z
-    webUrl: "https://venturebeat.com/ai/new-nvidia-ai-agent-powered-by-gpt-4-can-train-robots/"
+  - title: "Here’s One Important Skill HR Should Focus On With Generative AI"
+    excerpt: "As AI increases in the workplace, 53 percent of workers say they’re more concerned about their jobs being replaced by robots than immigration and outsourcing."
+    publishedDateTime: 2023-10-24T20:01:00Z
+    webUrl: "https://www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/NVIDIA-Eureka-Key-Visual.png?w=1200&strip=all"
-        width: 1199
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Oracle loops in Nvidia’s AI stack for end-to-end model development"
-    excerpt: "Nvidia's DGX Cloud and AI Enterprise software both are now available as dedicated apps on the Oracle Cloud Marketplace"
-    publishedDateTime: 2023-10-20T18:08:00Z
-    webUrl: "https://venturebeat.com/ai/oracle-loops-in-nvidias-ai-stack-for-end-to-end-model-development/"
+  - title: "Elastic Is Carving Out A Niche In Generative AI With Vector Search"
+    excerpt: "Customers are deploying Elasticsearch Relevance Engine as their platform for building generative AI applications using vector search and hybrid search capabilities."
+    publishedDateTime: 2023-10-24T16:25:00Z
+    webUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/10/24/elastic-is-carving-out-a-niche-in-generative-ai-with-vector-search/"
+    ampWebUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/10/24/elastic-is-carving-out-a-niche-in-generative-ai-with-vector-search/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/10/24/elastic-is-carving-out-a-niche-in-generative-ai-with-vector-search/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-20-14.04.11-Illustration-of-the-circuit-board-rollercoaster-with-ethereal-clouds-of-data-enveloping-it-while-lines-of-computer-code-represented-as-luminous-gree.png?w=1200&strip=all"
-        width: 1199
-        height: 685
-        isCached: true
-  - title: "Gcore launches generative AI cluster with Nvidia GPUs"
-    excerpt: "Users will have direct access to the AI clusters and deployments using the managed Kubernetes with Nvidia GPU nodes and will be able to set up workspaces in MLOps and large-scale models. \"We at Gcore are immensely proud to be a part of the transformation ..."
-    publishedDateTime: 2023-10-20T11:29:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/gcore-launches-generative-ai-cluster-with-nvidia-gpus/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/DGX_A100.2e16d0ba.fill-1200x630.png"
-        width: 718
-        height: 377
-        isCached: true
-  - title: "Yahoo Finance's NEXT: How rivals are taking on Nvidia in the AI chip race"
-    excerpt: "Nvidia (NVDA) is dominating the AI chip market, but it may not hold onto that lead for long. Traditional semiconductor rivals like AMD (AMD) and Intel (INTC) are entering the AI space, but so are Big Tech names like Microsoft (MSFT) and Alphabet (GOOGL)."
-    publishedDateTime: 2023-10-23T19:24:00Z
-    webUrl: "https://www.aol.com/yahoo-finances-next-rivals-taking-192451983.html?ref=biztoc.com"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 50
-  - title: "Nvidia Says U.S. Speeded up New Export Curbs on AI Chips"
-    excerpt: "(Reuters) - Chip designer Nvidia said new U.S. export restrictions blocking the sales of its high-end artificial intelligence chips to China had gone into effect on Monday after regulators advanced the timeline on the curbs from its 30-day period."
-    publishedDateTime: 2023-10-24T13:25:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-24/nvidia-says-u-s-speeded-up-new-export-curbs-on-ai-chips"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
-  - title: "NVIDIA AI arrives in Oracle Cloud Marketplace"
-    excerpt: "“We’re accelerating our mission to infuse AI into virtually every academic and research disciplines,” said Thenkurussi (Kesh) Kesavadas, vice president for research and economic development at UAlbany. “We will drive advances in ..."
-    publishedDateTime: 2023-10-20T10:54:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-ai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/NVIDIA-AI-arrives-in-Oracle-Cloud-Marketplace.jpg"
-        width: 1280
-        height: 678
-        isCached: true
-  - title: "Nvidia research creates Eureka to teach robots complex skills"
-    excerpt: "Nvidia Research has created Eureka, an AI agent that uses a large language model to teach robots complex skills like rapid pen-spinning tricks, or tossing and catching balls at a human level, for the first time."
-    publishedDateTime: 2023-10-21T22:58:00Z
-    webUrl: "https://itwire.com/science-news/automotive/nvidia-research-creates-eureka-to-teach-robots-complex-skills.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/c3fe953590046dd0f1b3f8760e09ca6a_M.jpg"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Nvidia built a massive dual GPU to power models like ChatGPT – Digital Trends"
-    excerpt: "GPU Technology Conference (GTC) usually focuses on advancements in AI, but this year, Nvidia is responding to the massive rise of"
-    publishedDateTime: 2023-10-23T08:49:00Z
-    webUrl: "https://www.inferse.com/767536/nvidia-built-a-massive-dual-gpu-to-power-models-like-chatgpt-digital-trends/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 36
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-15058.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6537e25d5f72f6b95a4d46a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1200
-        height: 630
+        height: 900
         isCached: true
-  - title: "NVIDIA’s breakthrough AI teaches robots human-like complex skills"
-    excerpt: "Eureka not only improves the performance of the bot significantly but also achieves this by planning rewards on the basis of human feedback."
-    publishedDateTime: 2023-10-20T13:00:00Z
-    webUrl: "https://interestingengineering.com/innovation/nvidia-ai-agent-teaches-robots-complex-skills"
+  - title: "Generative AI could be the next frontier for smartphone chip design"
+    excerpt: "Generative AI is the hot trend in the smartphone space at the moment, and this tech is shaping 2024's mobile hardware."
+    publishedDateTime: 2023-10-20T14:00:00Z
+    webUrl: "https://www.androidauthority.com/smartphone-hardware-adapt-power-generative-ai-2024-3373668/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
-  - title: "Nvidia Announced an AI Agent Powered by GPT-4 That Can Teach Robots Complex Skills"
-    excerpt: "NVIDIA Research announced yesterday that it developed an AI agent called Eureka powered by GPT-4 LLM and generative AI. Eureka can teach robots complex skills by writing code that rewards robots for reinforcement learning."
-    publishedDateTime: 2023-10-21T06:21:00Z
-    webUrl: "https://iblnews.org/nvidia-announced-an-ai-agent-powered-by-gpt-4-that-can-teach-robots-complex-skills/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 33
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
     images:
-      - url: "https://iblnews.org/wp-content/uploads/2023/10/nvidiabreakthrough-696x393.jpg"
-        width: 696
-        height: 393
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/02/Stable-Diffusion-Qualcomm-Doggo.jpg"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "Why Generative AI Needs Design"
+    excerpt: "With generative AI, computers gain a new set of capabilities: the ability to understand and generate language, code ... With simple prompts, anyone can translate an idea into a visual prototype that a group can riff on. While imperfect, these AI mockups ..."
+    publishedDateTime: 2023-10-23T21:00:00Z
+    webUrl: "https://www.forbes.com/sites/stevevassallo/2023/10/23/why-generative-ai-needs-design/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6536db33f0c0d8b1f46f464e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1176
+        height: 900
+        isCached: true
+  - title: "With Generative AI Advances, The Time to Tackle Responsible AI Is Now"
+    excerpt: "In 2022, companies had an average of 3.8 AI models in production. Today, seven in 10 companies are experimenting with generative AI, meaning that the number of AI models in production will skyrocket over the coming years."
+    publishedDateTime: 2023-10-20T17:09:00Z
+    webUrl: "https://www.unite.ai/with-generative-ai-advances-the-time-to-tackle-responsible-ai-is-now/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/responsible-AI-1000x600.png"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "TCS’ Obsession With Generative AI"
+    excerpt: "TCS, the IT giant was catching up with generative AI, but now it has gone all in on AI in the last couple of months."
+    publishedDateTime: 2023-10-23T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/tcs-obsession-with-generative-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/TCS-Obsession-With-Generative-AI-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Apple expected to spend $4.75 billion on generative AI in 2024 alone"
+    excerpt: "After a report said Apple was planning to announce generative AI features next year with iOS 18, analyst Ming-Chi Kuo corroborated that."
+    publishedDateTime: 2023-10-23T18:33:00Z
+    webUrl: "https://bgr.com/tech/apple-expected-to-spend-4-75-billion-on-generative-ai-in-2024-alone/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 19
 
 secured: "cSuz3TyKT1BFReo+1W2Gw3jBzbpwyUvAYLjC+dTkiFf9D9Ukn/Ym/nfByV70WWWgJHxqgM8+hEXCJSKI0/dfQrQ+bWwiqOKSK5WECwqZTE4a8RITA5lM0BYCavZwcwsAlXgPfuD8Y+DheoIdn/tqg9d6dZ7g2im2SE9K0O/8uGMAlLvG0WlEZMUoAd9BSGAqKeXy3IOvXc5hvskf0QWURgBqX4MnzLBH3AMaOr5RLO4vijevwXBbBDMpyy5+NR9bUxuIK3LlKWp2vZP+V3msD8dIJz4/ObAGYMCjxTfL5jOvmL8OP5B1CAqNBZ8n3kGwxVKrqa0XTNquNwZWnYSnByD03won36wPBX51wTEPQR0=;p/xvqaSdVZRdzGSTu9ENgg=="
 ---

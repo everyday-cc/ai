@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI risk must be treated as seriously as climate crisis, says Google DeepMind chief"
+    excerpt: "Demis Hassabis calls for greater regulation to quell existential fears over tech with above-human levels of intelligence"
+    publishedDateTime: 2023-10-24T17:07:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation?ref=astrofeather.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 28
 
 secured: "EUtpNuOrRmHadhd9x3jt8N9X2DXdC6ZZFiIOzFcPKt7UxDBS/itmHkVJP/vfC+44ryNSnfMO7nwRd0sD53ouNSvRNOPKbFUSIj/UY8T8Z+U0TChKR1sBj2lq03glx9sDPEe3uf4Px5tK4f6D5Bn1zVDkHnne7Kmof2Ug0kYlsRTgIgUT0FaMIfi2GPiMJ+GkSIhbfMuoeUm5wTR+4S+B7LA1YYS1qmMEiJZAIfTxZ9PWbSudRHF6ghfv2QIkq+8dfgJ21scw/ncYsmx2aWf1qpzh6rLyRaKvP8MlRuCxio7nLTSi/rQ4pLSaf2PCYK7E6lmkzunVk8joPl3pd09SoMA7Cxrjn7s9gtySbJ9LvX8=;BqPLcQPeUaBTjnsj4rlTJg=="
 ---

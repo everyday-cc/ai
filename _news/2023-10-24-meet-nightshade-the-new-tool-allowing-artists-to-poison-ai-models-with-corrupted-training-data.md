@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/meet-nightshade-the-new-tool-allowing-a
 webUrl: "https://venturebeat.com/ai/meet-nightshade-the-new-tool-allowing-artists-to-poison-ai-models-with-corrupted-training-data/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1199
     height: 685
     isCached: true
+
+related:
+  - title: "Data poisoning tool lets artists fight back against AI scraping. Here's how"
+    excerpt: "Called Nightshade, the tool messes with training data pixels to confuse image-generating AI models."
+    publishedDateTime: 2023-10-24T18:41:00Z
+    webUrl: "https://www.zdnet.com/article/data-poisoning-tool-lets-artists-fight-back-against-ai-scraping-heres-how/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 45
 
 secured: "kiGJmaZMn+UhmVVSW1DNPEuVADunVTAMwn9Byl+W03yVjLPtcCgqhAeFyTEuxShKJ466MUGZ9Nd9Z2YgVo4meD9GQJfcJHtzWNcIcLXm1vR4BmJVSHRvhngCx/i2iiathSCPEdkfLWoIDimCO9PPi64nAZ6zVOswRR9jyfM/+stz/2BUaTAcNGCjFVZK2Y0yV5X75Yrdln6t7Yc7PcrcoluOsvMZF7IRPM9s/yxQ6LKxjAUEc44So8tpRxf+autWzENh+CjBaBFQJ3sUY/BAzoI++ZBSaZUYsUW0m+qQZF/SGvY69Pyshgpcf8jlFsbClqSrH8+J6tqKg0fc+uUgpow7K/UWeIclOWdOdn2/+kFjYv01iKDCeiGWo4SNriVKG5W4hvKbzM0VOQjL8h5QPRFaFZ3sRUxTt4anfNeDjA7lCGI8KtE2PMSuvQw8nsLyGesDqQjJdcPe3hvbVSJPt72+4o+q5grfLW5SX0SkfzPIKcdxNZekq1qgfqSuA7nt0eCtgGB042Jr/uqRPZ5fqg==;lseFkq3DfNwZ+EtFqOj/Dg=="
 ---

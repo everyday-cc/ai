@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Here’s One Important Skill HR Should Focus On With Generative AI"
+    excerpt: "As AI increases in the workplace, 53 percent of workers say they’re more concerned about their jobs being replaced by robots than immigration and outsourcing."
+    publishedDateTime: 2023-10-24T20:01:00Z
+    webUrl: "https://www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Elastic Is Carving Out A Niche In Generative AI With Vector Search"
     excerpt: "Customers are deploying Elasticsearch Relevance Engine as their platform for building generative AI applications using vector search and hybrid search capabilities."
     publishedDateTime: 2023-10-24T16:25:00Z
@@ -41,21 +57,19 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "How Generative AI Can Empower Software Engineering Teams"
-    excerpt: "I believe technology leaders should actively encourage their teams to discover and try out these tools to heighten their productivity, creativity and efficiency."
-    publishedDateTime: 2023-10-24T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/amp/"
+  - title: "Generative AI could be the next frontier for smartphone chip design"
+    excerpt: "Generative AI is the hot trend in the smartphone space at the moment, and this tech is shaping 2024's mobile hardware."
+    publishedDateTime: 2023-10-20T14:00:00Z
+    webUrl: "https://www.androidauthority.com/smartphone-hardware-adapt-power-generative-ai-2024-3373668/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65369e7808401564f7a2c121/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
-        height: 900
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/02/Stable-Diffusion-Qualcomm-Doggo.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Why Generative AI Needs Design"
     excerpt: "With generative AI, computers gain a new set of capabilities: the ability to understand and generate language, code ... With simple prompts, anyone can translate an idea into a visual prototype that a group can riff on. While imperfect, these AI mockups ..."
@@ -71,19 +85,19 @@ related:
         width: 1176
         height: 900
         isCached: true
-  - title: "IBM expands relationship with AWS to bring generative AI solutions to clients"
-    excerpt: "As part of this, IBM Consulting aims to deepen and expand its generative AI expertise on AWS by training 10,000 consultants by the end of 2024; the two organizations also plan to deliver joint solutions and services upgraded with generative AI capabilities designed to help clients across critical use cases."
-    publishedDateTime: 2023-10-20T07:35:00Z
-    webUrl: "https://africabusinesscommunities.com/tech/tech-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-to-clients/"
+  - title: "Nvidia generative AI-focused DGX Cloud launches on Oracle Cloud"
+    excerpt: "Nvidia's DGX Cloud supercomputer is now available in the Oracle Cloud Marketplace. Oracle customers will now be able to access the Nvidia DGX Cloud AI supercomputing service for training generative AI and other workloads,"
+    publishedDateTime: 2023-10-20T16:55:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-generative-ai-focused-dgx-cloud-launches-on-oracle-cloud/"
     type: article
     provider:
-      name: africabusinesscommunities.com
-      domain: africabusinesscommunities.com
-    quality: 51
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 41
     images:
-      - url: "http://adserver.20nine.nl/www/delivery/avw.php?zoneid=85&n=238f97b"
-        width: 336
-        height: 280
+      - url: "https://media.datacenterdynamics.com/media/images/explore-dgx-h100-1cc-d.2e16d0ba.fill-1200x630.jpg"
+        width: 850
+        height: 448
         isCached: true
   - title: "With Generative AI Advances, The Time to Tackle Responsible AI Is Now"
     excerpt: "In 2022, companies had an average of 3.8 AI models in production. Today, seven in 10 companies are experimenting with generative AI, meaning that the number of AI models in production will skyrocket over the coming years."
@@ -99,6 +113,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Apple expected to spend $4.75 billion on generative AI in 2024 alone"
+    excerpt: "After a report said Apple was planning to announce generative AI features next year with iOS 18, analyst Ming-Chi Kuo corroborated that."
+    publishedDateTime: 2023-10-23T18:33:00Z
+    webUrl: "https://bgr.com/tech/apple-expected-to-spend-4-75-billion-on-generative-ai-in-2024-alone/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 19
 
 secured: "NPEGv4W4rNoKf56QFYrWIwckPZ+62iBQis0Rq9xFJdgCaVkuSUJ/mywWdmnpWVT/ySqUMqaC7SE2+sSc3cIwuZcXPQiQGClYioy4zsafDZk/ITTEsmOvIMSIGNGVI6ffoz4EFdU2a1yoYhDDGzzM2ZrODVuyQ7JTwB6Of8ya9xStBJY6kiIZ8+cLat21h6jFJcYvQMeHB9BeHARE6fQHWlO0GwhsilaPN10Cl/30hOdWEBiErGZw2TbssOqwzQ+o51U287PzC+oUH50mkxYvQ4un32ukn8nncl1btwwNE1p/WOqdctoFr+zpcf/utsnHVcpEVJeG3b2VYyOh9zkT5Bquoz7OP9BzqrqKuRQqX1qTEIxPaeKJ4oGSV1D53fBR3WTKK0Ds3UsfECjjP/8u7mmUfhHK4rFsROn3ZjErEaQXl8LO+BNtbVTj7I5e7Ev/mstib4cwp4n6BqOIx81JtIt9rutPMX3qsT6it9OR2/UB6wSB74El0xY1Ddu3RCNkKfPWGPsrAIyx3Abi7DuvwA==;W/m5Z1Fu8KdQp2qzTHVe5g=="
 ---

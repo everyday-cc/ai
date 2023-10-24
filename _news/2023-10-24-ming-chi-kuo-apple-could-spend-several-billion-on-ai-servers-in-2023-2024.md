@@ -80,15 +80,6 @@ related:
       name: AppleInsider
       domain: appleinsider.com
     quality: 19
-  - title: "Apple expected to spend $4.75 billion on generative AI in 2024 alone"
-    excerpt: "After a report said Apple was planning to announce generative AI features next year with iOS 18, analyst Ming-Chi Kuo corroborated that."
-    publishedDateTime: 2023-10-23T18:33:00Z
-    webUrl: "https://bgr.com/tech/apple-expected-to-spend-4-75-billion-on-generative-ai-in-2024-alone/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 19
   - title: "Kuo: Apple Could Spend $4.75 Billion on AI Servers in 2024"
     excerpt: "Apple is expected to spend several billion on hardware to support its artificial intelligence development in 2024, according to speculation"
     publishedDateTime: 2023-10-23T18:55:00Z

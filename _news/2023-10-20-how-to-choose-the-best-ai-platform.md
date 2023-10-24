@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/"
 webUrl: "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/"
 type: article
 quality: 99
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "25 of the best free AI courses on edX"
-    excerpt: "TL;DR: A wide range of online AI courses are available to take for free on edX. You can find online courses on just about everything at edX. Whether you want to learn about coding, video game development, or economics, edX is worth checking out."
-    publishedDateTime: 2023-10-20T04:01:00Z
-    webUrl: "https://sea.mashable.com/online-learning/28031/25-of-the-best-free-ai-courses-on-edx"
-    type: article
-    provider:
-      name: sea.mashable
-      domain: mashable.com
-    quality: 69
-    images:
-      - url: "https://sm.mashable.com/t/mashable_sea/deal/2/25-of-the-/25-of-the-best-free-ai-courses-on-edx_ykjm.1200.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "5 Best AI Video Generators 2023"
     excerpt: "or $23 billed monthly Synthesia is a leading generative AI startup that helps users transform text scripts and instructions into videos. The solution is particularly well-known for its AI avatars: Users can choose between more than 140 AI avatars — or ..."
     publishedDateTime: 2023-10-24T16:37:00Z

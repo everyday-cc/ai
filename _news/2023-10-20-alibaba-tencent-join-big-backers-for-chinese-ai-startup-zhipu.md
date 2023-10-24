@@ -112,20 +112,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cambricon and Huawei forge divergent paths in AI chip development amid prolonged US blacklisting"
-    excerpt: "The recent update to the US government's chip ban has raised concerns about its potential impact on Chinese chipmakers, particularly in the realm of high-performance computing (HPC) chips, including GPUs and AI chips."
-    publishedDateTime: 2023-10-20T02:30:00Z
-    webUrl: "https://www.digitimes.com/news/a20231019PD202.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 41
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231019pd202_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "qwLstqnEOEsLM23DiiOg55HaBgLBPWS5gixK36mzjE1WrZyaMnH9E1+fO+xDxVoanAzaPJAXMLXyMz1fWAEOyESCmidHZCdc+vStFzlHKN6hf7n9I3bmG2/CAnStMBe1j3h7ZHb/F9ObRRyVDAVooX/eotP7lNXqN62H+B/sWxGf4+g0e7phiZ6tpF1+WZ+8Z/5p/Qcq7KRNcm7iHH3jvN4/iqhNKLUz/VmKbdJH55b7P8b2iAG+AU5WKmrga9AU2u1N+Ab/dVPn1vaDc0i2z6CBt/pZEfN0dY/cFoImqj0zpJKXmS2FUdhwvmZ2kBJQG8aGxehs2bU+fHA4EYD1DNCVYa+Ls3E5XLwRZFaXDQA6EZ89JRMAcv2CnfGpXDlLky9yLRRGbsNyYJQHVSWIk2fTZgnbDHwgUTVe+nCCH6h9GokKFR91whwxswAvYEy1bSDZxo53CypWqTqqcq5sysKFNf+5pe5orWWqvjwDHQu+aoCsBNLRkwyvKMOe2XbZsDqKV+DirWvTlVQDoNUadA==;YFBbkI+MchsXIfCDlpVcVw=="
 ---

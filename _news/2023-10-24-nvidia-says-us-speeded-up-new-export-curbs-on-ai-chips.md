@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "AI chip wars: US curbs Nvidia GPU chip exports sooner than expected"
+    excerpt: "On Tuesday, chip designer Nvidia announced in an SEC filing that new US export restrictions on its high-end AI GPU chips to China are now in effect sooner than expected, according to a report from Reuters."
+    publishedDateTime: 2023-10-24T21:06:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 119
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-800x448.jpg"
+        width: 800
+        height: 448
+        isCached: true
   - title: "New Nvidia AI agent, powered by GPT-4, can train robots"
     excerpt: "Nvidia Research announced today that it has developed a new AI agent powered by OpenAI's GPT-4 that can teach robots complex skills."
     publishedDateTime: 2023-10-20T20:00:00Z
@@ -36,19 +52,21 @@ related:
         width: 1199
         height: 675
         isCached: true
-  - title: "Oracle loops in Nvidia’s AI stack for end-to-end model development"
-    excerpt: "Nvidia's DGX Cloud and AI Enterprise software both are now available as dedicated apps on the Oracle Cloud Marketplace"
-    publishedDateTime: 2023-10-20T18:08:00Z
-    webUrl: "https://venturebeat.com/ai/oracle-loops-in-nvidias-ai-stack-for-end-to-end-model-development/"
+  - title: "Nvidia Says US Advanced Timeline for Export Curbs of AI Chips to China, Other Countries"
+    excerpt: "Chip designer Nvidia said new US export curbs that block the sale of its high-end artificial intelligence chips to China came into effect on Monday as regulators advanced the timeline."
+    publishedDateTime: 2023-10-24T16:55:00Z
+    webUrl: "https://www.gadgets360.com/laptops/news/nvidia-says-us-advanced-timeline-for-export-curbs-of-ai-chips-to-china-iran-russia-4510576"
+    ampWebUrl: "https://www.gadgets360.com/laptops/news/nvidia-says-us-advanced-timeline-for-export-curbs-of-ai-chips-to-china-iran-russia-4510576/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/laptops/news/nvidia-says-us-advanced-timeline-for-export-curbs-of-ai-chips-to-china-iran-russia-4510576/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 66
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-20-14.04.11-Illustration-of-the-circuit-board-rollercoaster-with-ethereal-clouds-of-data-enveloping-it-while-lines-of-computer-code-represented-as-luminous-gree.png?w=1200&strip=all"
-        width: 1199
-        height: 685
+      - url: "https://i.gadgets360cdn.com/large/nvidia_reuters_1682491698706.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Gcore launches generative AI cluster with Nvidia GPUs"
     excerpt: "Users will have direct access to the AI clusters and deployments using the managed Kubernetes with Nvidia GPU nodes and will be able to set up workspaces in MLOps and large-scale models. \"We at Gcore are immensely proud to be a part of the transformation ..."
@@ -64,80 +82,33 @@ related:
         width: 718
         height: 377
         isCached: true
-  - title: "Yahoo Finance's NEXT: How rivals are taking on Nvidia in the AI chip race"
-    excerpt: "Nvidia (NVDA) is dominating the AI chip market, but it may not hold onto that lead for long. Traditional semiconductor rivals like AMD (AMD) and Intel (INTC) are entering the AI space, but so are Big Tech names like Microsoft (MSFT) and Alphabet (GOOGL)."
-    publishedDateTime: 2023-10-23T19:24:00Z
-    webUrl: "https://www.aol.com/yahoo-finances-next-rivals-taking-192451983.html?ref=biztoc.com"
+  - title: "Nvidia is still the darling of Wall Street analysts, despite new AI chip restrictions. But for how long?"
+    excerpt: "Investors have dumped Nvidia (NVDA) stock aggressively in response to tougher U.S. restrictions on the export of artificial intelligence chips to China."
+    publishedDateTime: 2023-10-20T17:03:00Z
+    webUrl: "https://www.cnbc.com/2023/10/20/nvidia-is-still-the-darling-of-wall-street-despite-new-ai-chip-rules.html"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 50
-  - title: "Nvidia generative AI-focused DGX Cloud launches on Oracle Cloud"
-    excerpt: "Nvidia's DGX Cloud supercomputer is now available in the Oracle Cloud Marketplace. Oracle customers will now be able to access the Nvidia DGX Cloud AI supercomputing service for training generative AI and other workloads,"
-    publishedDateTime: 2023-10-20T16:55:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-generative-ai-focused-dgx-cloud-launches-on-oracle-cloud/"
+      name: CNBC
+      domain: cnbc.com
+    quality: 47
+  - title: "ANALYSIS-US chip curbs give Huawei a chance to fill the Nvidia void in China"
+    excerpt: "While Nvidia NVDA.O has historically been the leading provider of AI chips in China with a market share exceeding 90%, Chinese firms including Huawei have been developing their own versions of Nvidia’s best-selling chips, including the A100 and the H100 graphics processing units (GPU)."
+    publishedDateTime: 2023-10-23T00:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/analysis-us-chip-curbs-give-huawei-a-chance-to-fill-the-nvidia-void-in-china-0"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 41
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/explore-dgx-h100-1cc-d.2e16d0ba.fill-1200x630.jpg"
-        width: 850
-        height: 448
-        isCached: true
-  - title: "NVIDIA AI arrives in Oracle Cloud Marketplace"
-    excerpt: "“We’re accelerating our mission to infuse AI into virtually every academic and research disciplines,” said Thenkurussi (Kesh) Kesavadas, vice president for research and economic development at UAlbany. “We will drive advances in ..."
-    publishedDateTime: 2023-10-20T10:54:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-ai/"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 46
+  - title: "Nvidia comes under US governments radar with its GPU sales in China"
+    excerpt: "Nvidia: In an effort to stymie the growth of artificial intelligence (AI) technology in China, the US government slapped new limits on AI and HPC GPU exports"
+    publishedDateTime: 2023-10-21T12:58:00Z
+    webUrl: "https://technosports.co.in/nvidia-comes-under-us-governments-radar/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/NVIDIA-AI-arrives-in-Oracle-Cloud-Marketplace.jpg"
-        width: 1280
-        height: 678
-        isCached: true
-  - title: "Nvidia research creates Eureka to teach robots complex skills"
-    excerpt: "Nvidia Research has created Eureka, an AI agent that uses a large language model to teach robots complex skills like rapid pen-spinning tricks, or tossing and catching balls at a human level, for the first time."
-    publishedDateTime: 2023-10-21T22:58:00Z
-    webUrl: "https://itwire.com/science-news/automotive/nvidia-research-creates-eureka-to-teach-robots-complex-skills.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/c3fe953590046dd0f1b3f8760e09ca6a_M.jpg"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Nvidia built a massive dual GPU to power models like ChatGPT – Digital Trends"
-    excerpt: "GPU Technology Conference (GTC) usually focuses on advancements in AI, but this year, Nvidia is responding to the massive rise of"
-    publishedDateTime: 2023-10-23T08:49:00Z
-    webUrl: "https://www.inferse.com/767536/nvidia-built-a-massive-dual-gpu-to-power-models-like-chatgpt-digital-trends/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
+      name: TechnoSports
+      domain: technosports.co.in
     quality: 36
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-15058.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "NVIDIA’s breakthrough AI teaches robots human-like complex skills"
-    excerpt: "Eureka not only improves the performance of the bot significantly but also achieves this by planning rewards on the basis of human feedback."
-    publishedDateTime: 2023-10-20T13:00:00Z
-    webUrl: "https://interestingengineering.com/innovation/nvidia-ai-agent-teaches-robots-complex-skills"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
   - title: "Nvidia Announced an AI Agent Powered by GPT-4 That Can Teach Robots Complex Skills"
     excerpt: "NVIDIA Research announced yesterday that it developed an AI agent called Eureka powered by GPT-4 LLM and generative AI. Eureka can teach robots complex skills by writing code that rewards robots for reinforcement learning."
     publishedDateTime: 2023-10-21T06:21:00Z
@@ -152,6 +123,15 @@ related:
         width: 696
         height: 393
         isCached: true
+  - title: "Nvidia said the U.S.'s new AI chip restrictions have already taken effect"
+    excerpt: "New rules restricting Nvidia from selling even the chips it designed for the Chinese market in the country have now taken effect."
+    publishedDateTime: 2023-10-24T19:54:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/10/24/nvidia-says-new-ai-chip-restrictions-in-effect.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 33
 
 secured: "7XY3Ny0j9sl1cYuA5vn/V9acMzlnIcGbB2NZxAVJJP3t9LyDRo2pH2xICifKSdoW2ESuYDJ7pECyffUKaIb3/sirDLB5AB0cK6nWe0gho5TG58IOHrtNyVF7rKJM9W6yMptfgCauPLpx3vNJi6fprr3EZ5gok6NN+ZDAiKtKlVDYNPhJiQmXdiuk+xvjwqE+lbUh3WC+vT320HyX3tRVQif4Qx87rob/4YtvH1UL7fgw4fJI+uTJ1Z5Od74kQm+AIgBIQNUUiYw6E7pBvjFc8X62AxEVh+x413nzN7ZMCRD042VZuMvu7ziuEVa2rdoJA8wnWxfGovJH+qAW6Jq30mFJnZSuO7DEeDVkpm45xIuuO5vESFX78fOFeprxSgxKgJ72pVS7RPpCKcqTOR9YBkAROTHdWv5xTdlnbNkaVzDvtvqXIPJLTNeeJG/kz7M2Fj0phA4J/qIqb1Tgt+G+FD3Du93BMBVZhtP4++Xf4ZfeyYVaL5ISy+adahFSa1LN9ibocy56clHsMvjo2euoVA==;SMFrgibnOsvXwNq2dc2klg=="
 ---

@@ -35,19 +35,14 @@ related:
         height: 1843
         isCached: true
   - title: "AI may disrupt math and computer science classes. Is there an upside?"
-    excerpt: "As schools across the country debate banning AI tools, some math and computer science teachers are embracing the change because of the nature of their discipline."
-    publishedDateTime: 2023-10-24T17:19:00Z
-    webUrl: "https://www.csmonitor.com/USA/Education/2023/1024/AI-may-disrupt-math-and-computer-science-classes.-Is-there-an-upside"
+    excerpt: "Professor Price doesn’t see ChatGPT as a threat, and he’s not alone. Some math professors believe AI, when used correctly, could help strengthen math instruction. And it’s arriving on the scene at a time when math scores are at a national historic low and educators are questioning if math should be taught differently."
+    publishedDateTime: 2023-10-24T17:22:00Z
+    webUrl: "https://www.csmonitor.com/text_edition/USA/Education/2023/1024/AI-may-disrupt-math-and-computer-science-classes.-Is-there-an-upside"
     type: article
     provider:
       name: Christian Science Monitor
       domain: csmonitor.com
-    quality: 54
-    images:
-      - url: "https://images.csmonitor.com/csm/2023/10/1024%20COLLAB9%20CLASSROOM%20LEDE.jpg?alias=standard_900x600"
-        width: 900
-        height: 600
-        isCached: true
+    quality: 36
 
 secured: "+9D9LGipv2LyeWQ5oRDsNOQWtxzph3fKhQROQKDsjNtnWQBpruYRKtv/6NRs0PE/hGUaY3qmfjlbp5hK3EMQSq5uKO5tzOnleEluHE2uafDFtyyOHT5p/eNsLFK2QXa8TnEkvri7CAfmZqCP595t8nW+pooDX5fZVVeVwewkbRrNqHQFMlUVdokzqogg7gOb5HEGOhfoOX978vvYcO40HmjljgIfwz1sqOKQHQfMyDKE2IefDViKGKcUuccvb/NxRxuOM3LjgZyT4xqeeyhoYNoQtPi+raIbpni18ZyrlI2Rwy5V6EDJWfzFLRcE/rZGPDTtYSJBUmkvsEK4DoG2EdJn2yAXoaN3sTcAGnJptBaah1ReKlX05rRsAAApFlAeAeO0tmoF8uWcjiLnuFtiy2I/vWWm04FcYZ6NdtXRu2s8P4yd4+Z2AwKC0Ee1nD6SP6bf5TprWir0gpoTLlK1YrGvr3xq5Eml1MbjL5MSYlGt+b8g77AnEeQ8LJi9b5nne/Y33AXjm9r1664+5ic4Kw==;PX40EXFawcTPZfgUYaL4DQ=="
 ---

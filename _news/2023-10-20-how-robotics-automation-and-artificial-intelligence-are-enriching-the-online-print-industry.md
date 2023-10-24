@@ -114,6 +114,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI May Soon Weigh In on Regulation"
+    excerpt: "How will agencies like the FCC deal with computer-generated public comments?"
+    publishedDateTime: 2023-10-24T19:12:00Z
+    webUrl: "https://www.wsj.com/articles/ai-may-soon-weigh-in-on-regulation-artificial-intelligence-agencies-public-comment-periods-766436ec"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-873788/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Role of CX automation and generative AI"
     excerpt: "Customers expect personalised and efficient service, and the emergence of generative AI has led to a significant shift in the way businesses approach customer service and customer delight. Like human interactions,"
     publishedDateTime: 2023-10-22T09:48:00Z
@@ -220,6 +234,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "How Creative Cloud and Generative AI Are Impacting Higher Education"
+    excerpt: "Tools powered by natural language processing can enhance instruction and prepare students to harness artificial intelligence in their post-college careers."
+    publishedDateTime: 2023-10-24T19:39:00Z
+    webUrl: "https://edtechmagazine.com/higher/article/2023/10/how-creative-cloud-and-generative-ai-are-impacting-higher-education"
+    type: article
+    provider:
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 36
   - title: "How AI and digital transformation are influencing the food and beverage industry"
     excerpt: "Manufacturers and retailers are improving their technology stack through digital transformation strategies and AI to improve operations and address historical food and beverage challenges from ingredient shortages and reformulations to predicting current and future market opportunities."
     publishedDateTime: 2023-10-20T15:03:00Z
@@ -289,6 +312,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The Computing Pioneer Helping AI See"
+    excerpt: "Alexei Efros has spent his career learning how machines see differently from humans. Now he’s helping to bridge the gap."
+    publishedDateTime: 2023-10-24T18:01:00Z
+    webUrl: "https://www.quantamagazine.org/the-computing-pioneer-helping-ai-see-20231024/"
+    type: article
+    provider:
+      name: Quanta Magazine
+      domain: quantamagazine.org
+    quality: 19
   - title: "Shield AI announces multi-year agreement with Sentient Vision to offer AI-enabled real-time situational awareness"
     excerpt: "A groundbreaking AI technology collaboration between Shield AI, an American defence technology company building the world’s best AI pilot, and Sentient Vision Systems (Sentient), an"
     publishedDateTime: 2023-10-23T19:20:00Z
@@ -313,6 +345,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "Qb+36JcZLgB5s17GF845ltvCwsuVowAwKDQUUe6VMDC1rvxii+80F5ySg3LL8jhv/NHpqOlDpy9d/ZCHUN03ukkshZEsvL77ncnw9fYmnP9qw7bki6/PF8co9MnoyK/ZK234STVqX1e13bvcsn15B8VCcsRZ0IvZmC299NY6shHYWdsgBPf89d0Zp4YppaYHWBao/6VKGA535Ldhi7wxceY00JLOrm2E7QZ9cSkM8zKE3ltj9kAHpc/x1RErn0z/344ztLEEfDu2FLcg/NKJoqa2d6Ubg+b7swvFDBcay7J2ceYZVFpOWfhhq11+dWj5EHPB18WGT3vFeDcAHdT1S8CujdycZyrfs53nd4/B4bUiqJm2P3pUG0JOEEQSKJaGfTiuFHqZSFTdLCcM/v/IQAyOGWn+UjXDGgh3fFTgLkujxmmEMqfiOixzK/b4BmwGlEkm9zrWJ1ORE8RW1rNpv6RkuYcexNeUo97+VGdSalDSK2dIkzAGIFyt02WOXnVw0f56Y1uzTiFic5eLzFZDsA==;TCpO8L/5NS7NAKuN32UfZA=="
+secured: "6x58065VYkufUZWtn6yemrkCuwWsT397L3QaCooOeDRqrK2K7U0j4L3KmNODIqo0VQ6eJC40P3uQGGUUcwgCzlftkMFp5/mTOpzF7t3TSdk25I58WZY9Ri6dByYj6BnZ+fKkt5tUJrEdyy5kO+oER9RJoPNtUeFAYOfSWmhmeIuu0uRwgTQLxjBjRbqtWOTBrc10lDpA2p0/Uzs8xXiU9zOMp6YreY2FGMnJ7ip+nDkFCoIsQwDpcczFxXpCgB//1nBGDNle8xtukW3Fl5wRvbqyqbZmnuDNQF8dvmV9G9VvaPLc8VTKlKlwHRx9ANJDhJV74O73gMILEJAWJNQ/4f0b5CAt2EPYXIowln3YRXg=;4LkrQcvI1g3f1V4WTxfTjw=="
 ---
 

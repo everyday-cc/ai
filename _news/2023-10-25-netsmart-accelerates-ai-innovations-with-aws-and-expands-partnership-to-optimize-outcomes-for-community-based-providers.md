@@ -1,30 +1,23 @@
 ---
 category: news
 title: "Netsmart Accelerates AI Innovations with AWS and Expands Partnership to Optimize Outcomes for Community-Based Providers"
-excerpt: "Netsmart today announced the successful development of an artificial intelligence (AI) Data Lab built on Amazon Web Services (AWS) to advance AI for community-based care providers. By combining the sc"
-publishedDateTime: 2023-10-24T17:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/10/b35399786/netsmart-accelerates-ai-innovations-with-aws-and-expands-partnership-to-optimize-outcomes-for-comm"
-webUrl: "https://www.benzinga.com/pressreleases/23/10/b35399786/netsmart-accelerates-ai-innovations-with-aws-and-expands-partnership-to-optimize-outcomes-for-comm"
-ampWebUrl: "https://www.benzinga.com/amp/content/35399786"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35399786"
+excerpt: "Netsmart & AWS launch the AI Data Lab, advancing community-based providers' care delivery and outcomes through predictive analytics, NLP & AI tools."
+publishedDateTime: 2023-10-24T21:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231024585709/en/Netsmart-Accelerates-AI-Innovations-with-AWS-and-Expands-Partnership-to-Optimize-Outcomes-for-Community-Based-Providers"
+webUrl: "https://www.businesswire.com/news/home/20231024585709/en/Netsmart-Accelerates-AI-Innovations-with-AWS-and-Expands-Partnership-to-Optimize-Outcomes-for-Community-Based-Providers"
 type: article
-quality: 50
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
+  - Natural Language Processing
 
 related:
   - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
@@ -71,19 +64,19 @@ related:
         width: 480
         height: 269
         isCached: true
-  - title: "Generative AI Can Write Phishing Emails, But Humans Are Better At It, IBM X-Force Finds"
-    excerpt: "Hacker Stephanie \"Snow\" Carruthers and her team found phishing emails written by security researchers saw a 3% better click rate than phishing emails written by ChatGPT."
-    publishedDateTime: 2023-10-24T11:00:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-phishing-emails-impact/"
+  - title: "IBM expands relationship with AWS to bring generative AI solutions to clients"
+    excerpt: "As part of this, IBM Consulting aims to deepen and expand its generative AI expertise on AWS by training 10,000 consultants by the end of 2024; the two organizations also plan to deliver joint solutions and services upgraded with generative AI capabilities designed to help clients across critical use cases."
+    publishedDateTime: 2023-10-20T07:35:00Z
+    webUrl: "https://africabusinesscommunities.com/tech/tech-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-to-clients/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 61
+      name: africabusinesscommunities.com
+      domain: africabusinesscommunities.com
+    quality: 51
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/01/tr12423-malware-seo-poisoning.jpeg"
-        width: 1400
-        height: 935
+      - url: "http://adserver.20nine.nl/www/delivery/avw.php?zoneid=85&n=238f97b"
+        width: 336
+        height: 280
         isCached: true
   - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
     excerpt: "Commitment to deepening expertise and expanding AWS on watsonx integration IBM has already built extensive expertise with AWS's generative AI services including Amazon SageMaker and Amazon CodeWhisperer, and is one of first AWS Partners to use Amazon ..."
@@ -95,6 +88,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "K91BWG8BRKkFyxa8jd2hSL9R4Hml3XV+vfSkUwgwQs+Ag0fXkL7UZ94QnCJeUlAPpzavAS2Z4Csew0azCVRX32oXA+wGnpsxq0uW9bTlXFVTvD7TsQxO9+tBD4ADBvpE2gOvAPACEMMYnHT3LufTCEurtdAjNoPbrQ6yFQeRyv9rW/R4Un6f1IJXJAaqJ7wRD/HVfq5MOTQIBywbbJSITJDuX60qinS9HDByvIxwQzePg575L0sVC3dvZUags1ZP6Eh49GCtxFbFRq2ahL/H/3Wjvj7kv2ltsUYjzUYcXo6Qh9W8KrtucDv66J0iOuu2AG0amaIL0UsYILFfDN1ZG9XxsCYthroMitJoK4xPvXw=;FZno02X1QddgIc0e8t052Q=="
+secured: "yJuVtcnhws5MwoJeBmai/AAwHr49cdEpoTEg3CbJ2SVFzJ36yxzfmhym5Y8Xj2JuRwPq0lV8cxgE6s0bG1WA/jd6rVYl6CUq1xYzCIOTgAjs01D9YHIgF0S6PXQQkjBHo77hj0FCWSwFO6goQajmtHCWdwoQJEaxsPZhsk9dsD3KDiUjJMg3rgB2QGoMTotPC7jwKEzYADwiIRGVZ/F3bN1O9O265uTsx+TnK0fHPWm4L9BI3sMYTbkmKFDTuuG46r4I6mpRSK3CrxPk/YmMJR/1i0tFOnVIIoZqAWHZXNUz5bzxA6YyBoyZHHKopawguKRbThpo0p6wjKP9ktRVmDhRWqpOmm/Rq/JMwpSYNCtxnHgv4enTvxIuDElQrO56dXudeJvC0oZpQlTmfFBkSXuOT9kigKjwo8y8Zmz8CfKaBQkD+rtGnWt2q32Y/QUseJY1urJk5AXLeJcgmRfIdn0ChBRbRoSa1DU+1XFPkzd4ZX82N21gYsbpd0XeWx29hfCyFQGGpFbi48DfLzu+nA==;qGoQ+SDY6/g0ctchcfazzw=="
 ---
 

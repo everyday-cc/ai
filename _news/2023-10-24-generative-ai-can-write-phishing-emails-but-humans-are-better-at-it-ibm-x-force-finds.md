@@ -29,75 +29,49 @@ images:
     isCached: true
 
 related:
-  - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
-    excerpt: "The purpose of the expanded relationship between IBM Consulting and AWS is “to help more mutual clients operationalize and derive value from generative artificial intelligence,” IBM Consulting stated in a press release. In addition, IBM Consulting ..."
-    publishedDateTime: 2023-10-20T13:27:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
+  - title: "How Generative AI Can Empower Software Engineering Teams"
+    excerpt: "I believe technology leaders should actively encourage their teams to discover and try out these tools to heighten their productivity, creativity and efficiency."
+    publishedDateTime: 2023-10-24T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/tr5423-what-is-generative-ai.jpeg"
-        width: 1400
-        height: 933
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65369e7808401564f7a2c121/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1353
+        height: 900
         isCached: true
-  - title: "IBM and AWS leap deeper into bed for AI love affair"
-    excerpt: "AWS is the latest partner for veteran tech giant IBM. But where does that leave the latter on AI? We ask IBM Consulting’s AI chief."
-    publishedDateTime: 2023-10-23T09:31:00Z
-    webUrl: "https://diginomica.com/ibm-and-aws-leap-deeper-bed-ai-love-affair"
-    ampWebUrl: "https://diginomica.com/ibm-and-aws-leap-deeper-bed-ai-love-affair?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ibm-and-aws-leap-deeper-bed-ai-love-affair?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 74
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-10/BA999656-EE0E-43A6-AC71-5CA79A1311E7.jpeg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "FEDML Nexus AI: The Next-Gen Cloud Services for LLMs and Generative AI"
-    excerpt: "FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML Nexus AI, offering the next generation of cloud services and platform for generative AI.This press release features multimedia."
-    publishedDateTime: 2023-10-24T12:25:00Z
-    webUrl: "https://venturebeat.com/business/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/"
+  - title: "How generative AI is making robots smarter, more capable, and more ready for the mainstream"
+    excerpt: "As generative AI becomes a greater part of robotics, we can expect innovations to happen at a faster pace, moving robots closer to deployment"
+    publishedDateTime: 2023-10-24T17:16:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-is-making-robots-smarter-more-capable-and-more-ready-for-the-mainstream/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://i0.wp.com/mms.businesswire.com/media/20231024932463/en/1922758/4/wideimage.jpg?strip=all&#038;ssl=1"
-        width: 480
-        height: 269
-        isCached: true
-  - title: "Netsmart Accelerates AI Innovations with AWS and Expands Partnership to Optimize Outcomes for Community-Based Providers"
-    excerpt: "Netsmart today announced the successful development of an artificial intelligence (AI) Data Lab built on Amazon Web Services (AWS) to advance AI for community-based care providers. By combining the sc"
-    publishedDateTime: 2023-10-24T17:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/b35399786/netsmart-accelerates-ai-innovations-with-aws-and-expands-partnership-to-optimize-outcomes-for-comm"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35399786"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35399786"
+    quality: 56
+  - title: "CIOs assess generative AI's risk and reward for software engineers"
+    excerpt: "Litan told ZDNET in an interview that now is the time for senior managers to start talking with their personnel about how generative AI might be exploited safely in the longer term. \"Companies need to spend time educating their personnel, including their ..."
+    publishedDateTime: 2023-10-23T18:22:00Z
+    webUrl: "https://www.zdnet.com/article/cios-assess-generative-ais-risk-and-reward-for-software-engineers/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
-    excerpt: "Commitment to deepening expertise and expanding AWS on watsonx integration IBM has already built extensive expertise with AWS's generative AI services including Amazon SageMaker and Amazon CodeWhisperer, and is one of first AWS Partners to use Amazon ..."
-    publishedDateTime: 2023-10-21T18:42:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354349&cat=PR News Wire"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
+  - title: "To excel at engineering design, generative AI must learn to innovate, study finds"
+    excerpt: "A new study reveals the pitfalls of deep generative models when they are tasked with solving engineering design problems. The researchers say if mechanical engineers want help from AI for novel ideas and designs,"
+    publishedDateTime: 2023-10-21T23:51:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231020105644.htm"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 46
 
 secured: "grH60IWbCPWf7Pmkl4tsoI52fEgxgTNjFSa9DBTBSzIcj8jFbfnl4+K8doDvqgLrz1r65R1P6uaN08/JKO2bx4upv1HnkY91YvTfX6PefWeBD9d7e1oV3zVtVYAFLFtbtcMuenEzBrF/40pi5tq+21s8k9RoFLMiumv1jt2IdLO6NZS06zWFWwtZvJmt1xM0PlmtPQyUVcwP35mv/xxsRinN3lzramrIIFSUz1knOHRQU8Fl82UZQ03SJ3Y4gAwUQ6m7tS4NGIeNo+Q9TPOA5SRJeqYaPTWj0icH+4KttxlqyUzw7C9lh9oO1U2Mx+igf7ssEK0ZoduogQ4uk17AoncuEKbpKscQRzEL/SrcickMWSTaqjkxnHxrJON2ECktJR9l3jsSsFBSsJA2kXzCl5EtV474ImUaThhQ0KxvbH939a+bceSlYMD8U1vpml9Epc5ASPZ1pnUKi8B6x3oieEgetCocS6V3zqglN6HpGd5kNq4d3e4mVqvv+wj22Yhvbh7WWhB0dLkXimrbiSb7dg==;C+D0gf6wG9B1vqnMRypDag=="
 ---

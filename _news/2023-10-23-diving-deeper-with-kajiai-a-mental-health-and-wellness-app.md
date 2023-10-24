@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-wi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-with-kajiai-a-mental-health-and-wellness-app/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
     provider:
       name: AOL
       domain: aol.com
+    quality: 17
+  - title: "Bridging Political Divides With Artificial Intelligence"
+    excerpt: "Q: In your new study, an AI chatbot serves as a communication intermediary between two people on different sides of an issue. The chatbot evaluates the language of a question and tweaks it to be constructive to the person receiving the question. What is the basic logic and hypotheses behind creating this experiment?"
+    publishedDateTime: 2023-10-24T19:00:00Z
+    webUrl: "https://www.today.duke.edu/2023/10/bridging-political-divides-artificial-intelligence"
+    type: article
+    provider:
+      name: Chronicle
+      domain: duke.edu
     quality: 17
 
 secured: "7+YJHWkjxJ7TwJ8Zj7eDq1QCXxn9onzyCW+bJPxNKwYA1JfHSNZG9f6Udjj8SBfT+DBLVxvexwA+iOCv0+IBbuOqARhs+fMM3ImmMRweG5gGTElSTRDwBwof8D4jkHeb1eGY4+jrrSvvK1ILAi2rOfd4exdhwKi8+FN+PjUmI2F09oG4qFqHU+By6oAefVMTmnC9lPlpkHf2b0tFLL4gxBZGJK9J/DvvW5p8osM0UlmomTqbbhntyDYbH+sK4FrKn7v7AM/gL0e2XnTTKtr6xAKamQgZ24claWxtyJ4jdkAPLtnA1f2Jl4lJie104096INEo6YyF+89b9REPBxb+tvxY0QCeqCuwNBlvvabe5A46KNPVbo+U8cwa7DYotdn7cCpwr96zSNxTJGc6tWR94KJBshrMxXhd8qaDjMh+mDBHCtzDLl434D7J3mYc+0XXm0lk/oIDmWp4OqnQVl3XWranG8kMFIoU5AAD7mLJi50006n27UuXfJNMBo8mY06qn3YwR00XpYKULxIAkIvWUA==;6JCH34iXe5NSgBC6mjgYGg=="

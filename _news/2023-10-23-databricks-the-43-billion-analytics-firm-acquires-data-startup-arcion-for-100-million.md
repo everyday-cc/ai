@@ -18,34 +18,40 @@ topics:
   - AI
 
 related:
-  - title: "Databricks To Acquire Data Replication Startup Arcion For $100M"
-    excerpt: "Data analytics and AI software maker Databricks has revealed plans to buy enterprise data replication startup Arcion for $100 million including incentives, the two companies revealed on Monday."
-    publishedDateTime: 2023-10-23T22:01:00Z
-    webUrl: "https://www.crn.com/news/storage/databricks-to-acquire-data-replication-startup-arcion-for-100m"
+  - title: "Insurance companies are betting on AI and mass data analytics in a battle against fraud that costs billions"
+    excerpt: "Insurance companies are using AI to flag suspicious claims. One company said their machine-learning system finds three times more fraud than manual or rules-based tools."
+    publishedDateTime: 2023-10-24T20:56:00Z
+    webUrl: "https://www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10"
+    ampWebUrl: "https://www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10?amp"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 22
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
     images:
-      - url: "https://www.crn.com/resources/0281-17f0d3aad674-e746f9a90adb-1000/databricks-2021-logo.jpeg"
-        width: 611
-        height: 458
+      - url: "https://i.insider.com/65382e180487ff031cad4b90?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
         isCached: true
-  - title: "Databricks acquires enterprise data replication startup Arcion for $100M"
-    excerpt: "Enterprise data company Databricks Inc. announced today that it has agreed to acquire Arcion Labs Inc., a provider of enterprise data replication and ingestion technology, in a transaction valued at over $100 million."
-    publishedDateTime: 2023-10-23T16:12:00Z
-    webUrl: "https://siliconangle.com/2023/10/23/databricks-acquires-enterprise-data-replicator-arcion-100m/"
+  - title: "Leading Insurance Company Recruits ‘AI Localization Analyst’"
+    excerpt: "Based in London as part of the AI Business Solutions group, the AI Localization Analyst will be tasked with adapting and optimizing Chubb’s AI systems for “specific cultures, languages and regions to ensure their successful implementation and adoption in different parts of the world.”"
+    publishedDateTime: 2023-10-24T08:20:00Z
+    webUrl: "https://slator.com/leading-insurance-company-recruits-ai-localization-analyst/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
+  - title: "SAS draws from lengthy analytics history to build generative AI tools for expanding use cases"
+    excerpt: "SAS was formed in the late 1960s as a consortium of eight universities in the southern U.S., with a mission to develop a statistical software package that could analyze agricultural data. Decades later, SAS is once again drawing on its lengthy analytics experience to prepare customers for the next chapter in artificial intelligence."
+    publishedDateTime: 2023-10-24T19:11:00Z
+    webUrl: "https://siliconangle.com/2023/10/24/sas-draws-from-lengthy-analytics-history-to-build-generative-ai-tools-for-expanding-use-cases-supercloud4/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 21
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/cybersecurity-hand-reach-binary.jpg"
-        width: 1000
-        height: 666
-        isCached: true
+    quality: 6
 
 secured: "ZqjXs+1g3DkGVT6BQpMzWbdyVxhVTgedvixdUPhHuDx50mDF/g5uPWEvFODIi/hkM9rMvWaOiHwnAHiX0uURQXPrPkmaesKbSzYxQWdksLyxCqXNuoR1B43GcZ4YvkcAkfmFLhvkzO3drwtg+Zw/fFF1I5TVq8PuoYidKc5pTQY8K4fEqAeAcp9pzPUYxkLnZlp5gE4lM2kWXi5PZZCGA+pZUMOFrtU9MkGSJHFj/MbhqowjJuw51UkZke1pY3owyvuj8rHuMv1U/zLG9nMWz5ZN8eMkwVsCshmoRfdodPp8u848ovmlGQYL/YwWODRSpZwZVUaUx9CroOPRwiodktBFLbIfW6ETNz1Kk6273MWNgc+7dYHvmoj5pB4ShV9pJ4RUhg6ov3QCckZesEaC05Sc/3OU+NzhaVRtzFiiPpKXj+qyFCMCwuCNasZ71holgnSDgsjXRegypX6FWRJl9eO1I94R4SHfB65kt8q+lRZKkc5k5yjjm+3GHWZwoQmWKkl2vt+bC9ZUX4ciaM1mNQ==;joI+O4RUIC5943wMKzWl7A=="
 ---

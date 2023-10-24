@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI may disrupt math and computer science classes. Is there an upside?"
-excerpt: "As schools across the country debate banning AI tools, some math and computer science teachers are embracing the change because of the nature of their discipline."
-publishedDateTime: 2023-10-24T17:19:00Z
-originalUrl: "https://www.csmonitor.com/USA/Education/2023/1024/AI-may-disrupt-math-and-computer-science-classes.-Is-there-an-upside"
-webUrl: "https://www.csmonitor.com/USA/Education/2023/1024/AI-may-disrupt-math-and-computer-science-classes.-Is-there-an-upside"
+excerpt: "Professor Price doesn’t see ChatGPT as a threat, and he’s not alone. Some math professors believe AI, when used correctly, could help strengthen math instruction. And it’s arriving on the scene at a time when math scores are at a national historic low and educators are questioning if math should be taught differently."
+publishedDateTime: 2023-10-24T17:22:00Z
+originalUrl: "https://www.csmonitor.com/text_edition/USA/Education/2023/1024/AI-may-disrupt-math-and-computer-science-classes.-Is-there-an-upside"
+webUrl: "https://www.csmonitor.com/text_edition/USA/Education/2023/1024/AI-may-disrupt-math-and-computer-science-classes.-Is-there-an-upside"
 type: article
-quality: 54
+quality: 36
 heat: -1
 published: false
 
@@ -15,14 +15,9 @@ provider:
   domain: csmonitor.com
 
 topics:
+  - Natural Language Processing
   - AI
   - Math for AI
-
-images:
-  - url: "https://images.csmonitor.com/csm/2023/10/1024%20COLLAB9%20CLASSROOM%20LEDE.jpg?alias=standard_900x600"
-    width: 900
-    height: 600
-    isCached: true
 
 related:
   - title: "AI might disrupt math and computer science classes – in a good way"
@@ -49,6 +44,6 @@ related:
       domain: seattletimes.com
     quality: 36
 
-secured: "cOSZsxhzpF/MVgKaBpg1YSoxbCqhuffZoVGjgKPi4yR1+WisfOU9ADUlZRJ4Liy+wyHig6Q8Uwua5/Lc+yuvd9ke8SsbLZBY5szENDLrZVtqS4EyoiODeDs+dJdiqlGp5dqZejFpZHCYOxvGlB6OLsq0MDBF0/Mnd+77TzS08fzwhGgjdk4oUdJDRu4aFVOyVdLORH4eMYT0utq2+vZ9OE8LdMyobbNJSHH2JhHbKe48G/ak8XoGkQejPTRjonZdZXyQNXXzL7sDZAK2wnUb8ZzBJpTh3dSgMErHFyztPlmmK6GiCi9mHv3RNVdWzz/BC+kEoZL/cvPB0wjOCYYw5s8jdEjczF3co9uR9zUd/dA=;ffY4ngDhRMq6GKuYDjKKFA=="
+secured: "tHPkteL0uRxRViiscGaJpmryOz4/2Amh0WK5bO6JKib30iIHOPhM/Pc6QGTrU6R+zMmhvTikr8Qztnj/dQabVuZCpstQLrCqeQ/xk2vxU6sK5z2MkGDHNCPIVTtfcK4Zkac2R2NrTG+nnSgyWBOyxjU3gtp8VM0XcPRRgnCIG2arkOx6lzIf37nIUPzK2Fi30/3pPpcxClfCNeUFgYX19i1FQVqevoPcvTlHqmyPcB5LjPq6cCHAvp1sJiExrwvNKb6/4bJEkpYav/oUCtD1MCSu76nU5vcszJ9/datbshjqv2beKSfzR7hEQ/EVGG5Bvbn90h1NoVLFIMaBnsFRO0bBjPf9E9WXwcsf61bJvNk=;6n1OA0n1ZX2RYdw96OVC1w=="
 ---
 

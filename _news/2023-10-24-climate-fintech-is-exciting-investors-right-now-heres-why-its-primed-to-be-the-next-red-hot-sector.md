@@ -75,22 +75,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Minding the SME gap using fintech"
-    excerpt: "While regulated in each of the markets they operate, financing platforms do not face the same capital constraints as banks do. However, to succeed in the SME lending space, these fintechs must have three critical capabilities: auto verification of data, nuanced credit underwriting, and sufficient access to private credit."
-    publishedDateTime: 2023-10-20T02:52:00Z
-    webUrl: "https://www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10"
-    ampWebUrl: "https://www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 44
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZDk3MjA3NGQtMWE2Yy00/11/1345011011.jpeg?f=3%3A2"
-        width: 859
-        height: 573
-        isCached: true
   - title: "Hong Kong Fintech Week 2023 “Fintech Redefined.”"
     excerpt: "In addition, the cross-boundary Greater Bay Area Day will be resumed on October 31, presenting ample opportunities and synergies between Hong Kong and Shenzhen. A full day forum will be organised in Shenzhen, followed by a series of concurrent company tours to Mainland tech giants."
     publishedDateTime: 2023-10-21T11:27:00Z

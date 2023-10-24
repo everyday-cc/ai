@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-p
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/amp/"
 type: article
 quality: 89
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 19
+  - title: "Elon Musk saved Tesla from ruin by promising self-driving cars. The problem? 700 crashes, 19 deaths and claims of a FAKED promo video. So TOM LEONARD investigates: Is his ..."
+    excerpt: "Tesla, he said, would hold an ‘Autonomy Day’ in a month’s time to show investors that the company was building an entirely self-driving. It would be revolutionary – and surely stave off bankruptcy. However, there was an obvious problem: drivers ..."
+    publishedDateTime: 2023-10-24T18:47:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12655261/Elon-Musk-Tesla-crashes-deaths-faked-promo-video-lawsuits-TOM-LEONARD.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
 
 secured: "Insz8bP+/8hIrFgJhwXv4VYr49jtNPjFEAily+X5/h8+49KbBC6Dv3vzkgcYb23Jvndm+pjgfkYbucb/w/yTQA2PJSsu4F9P9DPHXjrDIth3jEiqLeaTyk9Csj5c7FOMKESXTeQ3rMq3ZvszzEV5tKtqwjlZlEMxucxlYN3vwqV2fwGNiMs4Fm0Ld6EEg4akjBkAWKDye8VFkfBOiugnjTkpGOnl2Z2/+FdZNy5bGsaQkJeg3qWh15wn4hsQ+DWNMrdoOXuCVEP+eUPZ5z+sAXZG19fyARdguhV78sWae17XUQWNSsgpxQlczxO4nrOuokajzqwm7RrC/e4+f5d/O0Lhs2MxAtiTJJKsT8dfFvc=;+jqKHnGFZ7yRgb+KCwAnVA=="
 ---

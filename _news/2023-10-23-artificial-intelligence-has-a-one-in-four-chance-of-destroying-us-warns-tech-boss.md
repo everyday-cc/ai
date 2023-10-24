@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/news/article-12659759/amp/tech-boss-warn
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12659759/amp/tech-boss-warns-artificial-intelligence-one-four-chance-destroying-us.html"
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Godfathers of AI Have a New Warning: Get a Handle on the Tech Before It's Too Late"
+    excerpt: "Two dozen experts warn that 'AI systems could rapidly come to outperform humans in an increasing number of tasks [and] pose a range of societal-scale risks.'"
+    publishedDateTime: 2023-10-24T20:25:00Z
+    webUrl: "https://www.pcmag.com/news/godfathers-of-ai-have-a-new-warning-get-a-handle-on-the-tech-before-its"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 61
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/01k5X7OMVLMscYSAMnDFrbn-1.fit_lim.size_1200x630.v1698176197.jpg"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "L1rwsk8KnkOA+jpO0PWtBbDmKcIMGRCcaSvgjAbYdt3qaYTXkMDZHFymA8ZkkSdhomhw8p1yd+/007D4yQ3Bns0WvR0YdNbuLqWWlf+nnvdrCRD7q95+jjXKq5Elx317EhWe/jjRWkt9dPTXanlHa9L5kBG4dEuRheqZ+PocbO0iOBTlbRJDb0zf5ydLcOvDSl8R2K5useXL5AbPhFmQztcPFChXuBuamQzzCrxBjayMbCx6N7ESXDTXQqIgQvgaPfILeLrQ8KjGiXyZjau3c5g2+P0ZQB93d3DWVrwq061SWRlv6ZQFx03FrW9omdZy6Y18Zu94cXIN9VXml237L6ej0NpLb67tMATfDUgNuZg=;YeqvoqDLiCtzbVa8/fGstw=="
 ---

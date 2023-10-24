@@ -39,20 +39,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Alienware m18 gaming laptop: first with AMD's new flagship Radeon RX 7900M 16GB mobile GPU"
-    excerpt: "Alienware's new m18 gaming laptop is the first to feature AMD's new Radeon RX 7900M 16GB mobile GPU, and with an AMD Ryzen 9 7945HX mobile CPU."
-    publishedDateTime: 2023-10-20T02:08:00Z
-    webUrl: "https://www.tweaktown.com/news/93902/alienware-m18-gaming-laptop-first-with-amds-new-flagship-radeon-rx-7900m-16gb-mobile-gpu/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 29
-    images:
-      - url: "https://static.tweaktown.com/news/9/3/93902_405_alienware-m18-gaming-laptop-first-with-amds-new-flagship-radeon-rx-7900m-16gb-mobile-gpu_full.jpg"
-        width: 1500
-        height: 1124
-        isCached: true
 
 secured: "lwvBn1Hr5pgQfbjXyOLp2fhFCzQZxIyEV10iZbJzsYWgzlrUWii/yLxxc7Fh/LdRhOZjH+P7AOeDoSpb6BU+S8gKVuT8AcErvyWty1muUeDt1e6ipB2QrIK0kECEaxLuo4q0qPxg4prxKxeCTfu3/sGMehYaT2jP68WdHdEejjupwpwlhXMQIH8RDGxm/nNojq11UqVNGLODQcUI9aXp3Ur+vFSP889//6gHY3m85ah/spzNfbN/EOn3h58jAv1Eq/ERTym3CycAPuZTJ4xafKAOOeYkoA0WtLPI0pikWcOSN6UKrCQJTRjBY63reEpyXYnuaVlbT8Vmw4oBWeGChHvuhCsySuLmIoqEq9U9y1fU8KvLS6gKOj0ccoucuFugVBWxeSdzZ2LoN3OgozqcZhHvfecpN4UmEubbDaSA+4XxM5dEv75PcOeTDiWsfHtoKWC/BwfqLfgkwIT6qfLC7IYPe5XDxHj+gOs2CUpwhAX8I6R5fEJekSTnSeGekblz+Vft6UHkCz7M58LZifM8cw==;achVet39BpfurK8mU8s8OA=="
 ---
