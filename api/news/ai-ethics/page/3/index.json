@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-19-generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity.md",
+      "title": "Generative AI Can Impact Jobs By Enhancing Creativity And Productivity",
+      "excerpt": "And as LLMs are adopted more widely, new roles – AI developers, AI content creators and specialists in AI ethics, to name a few – will emerge as well. These are the findings of an extensive analysis examining 19,000 tasks across 867 occupations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/",
+      "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 221,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650801ec10cb53503a01661d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 902,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/",
+      "publishedDateTime": "2023-09-19T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-another-ai-hallucination-that-one-person-could-take-charge.md",
       "title": "Another AI Hallucination: That One Person Could Take Charge",
       "excerpt": "Artificial intelligence may have originated in technology sector, but it’s time for business leaders to step up and take charge.",
@@ -1387,50 +1440,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-google-deepmind-co-founder-says-us-should-enforce-ai-standards-for-ethical-use.md",
-      "title": "Google DeepMind co-founder says US should enforce AI standards for ethical use",
-      "excerpt": "The co-founder of artificial intelligence firm DeepMind, now owned by Google (NASDAQ:GOOG) (NASDAQ:GOOGL), said that the U.S. should let Nvidia's (NASDAQ:NVDA) artificial intelligence chips only ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/4008333-google-deepmind-co-founder-us-should-enforce-ai-standards-for-ethical-use",
-      "originalUrl": "https://seekingalpha.com/news/4008333-google-deepmind-co-founder-us-should-enforce-ai-standards-for-ethical-use",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1464561797/image_1464561797.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

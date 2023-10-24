@@ -1,24 +1,20 @@
 ---
 category: news
 title: "AgEagle Named Top 20 Artificial Intelligence and Robotics Companies Transforming the Agriculture Sector"
-excerpt: "today announced that the Company has been as one of the “Top 20 Artificial Intelligence and Robotics Companies Transforming the Agriculture Sector” by Insider Monkey, a finance website that provides free insider trading and hedge fund data to ordinary ..."
-publishedDateTime: 2023-10-10T12:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the-agriculture-sector-1032692196"
-webUrl: "https://markets.businessinsider.com/news/stocks/ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the-agriculture-sector-1032692196"
+excerpt: "today announced that the Company has been as one of the “Top 20 Artificial Intelligence and Robotics Companies Transforming the Agriculture Sector” by Insider Monkey, a finance website that ..."
+publishedDateTime: 2023-10-10T14:19:00Z
+originalUrl: "https://www.nasdaq.com/press-release/ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the"
+webUrl: "https://www.nasdaq.com/press-release/ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "0tdgXxScip33XAksE/tP7WFRwUSqFHTWzz09Ov5Pu5dBRAdQZn+Ch9AgGxq20GocWC15axykg+G0yD68B9zOvHEoR0y0h0e5vd8bbKPTIIk6S74OWmO5/eId2Mi9Ne/MN/LUm1+Zh5MbL6nbmOx98p/3zZ2HFwAUHRmVH14hrD+R43ND0N3RinuTonc1Ep7zo1jZhjzEJjSzfQtOUILtiPhSBrm1dauphw5ZgDne+T5i5YnDbeRVywWDSfD/OgdJkVveyLSvQ6Nf4XIgqVdS7OBL2OIkHgAT9Vjbb9DsE/BG30G2TVU/Nq16lLTsnIGeBj3Qelb2b4zFiQHSBucUjBG4GOS035nXv6biGK3eqBY=;B+A43YSBX5G03SNRZIWFvg=="
+secured: "T5M6aZ7wK8FQa+U2LncYBGY5hlUSM1XtloDD5Q+RL260HpN0P1eGO/wCsGNHo0siu09QlxvYUmhePuqX2gNUvNGRWm0HwS97CB8oYmKrllLY79mtuHPvsx0Kn1PyeXWlOrJ+LHnHQf7z6oGttPfdju5x6weeDa3JKtn/XHhucHBgSTWKYz9PjKqCzvJ1ChwoirooAtHc32ieZh8Yf8O3bzsqdZ6Z1BpMwObYf0CDMuJ9exi4Tvsu33GSXMnrAcCftBsBb/2w6YDcbe0Vct5e7NL0AolEsm/czAmy6e8zABfKJLMlXnPsT2WLlK3nzgDG9L/LdUXcfohYdgLmXB31KmKeJZKF+BzfoHiFn2kQmRw=;F0OzOOIxEWBSi98MT+j1mA=="
 ---
 

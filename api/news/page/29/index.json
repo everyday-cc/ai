@@ -2,6 +2,101 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-10-02-police-intelligence-tool-quickly-sends-information-on-risk-to-frontline-officers.md",
+      "title": "Police intelligence tool quickly sends information on risk to frontline officers",
+      "excerpt": "using IBM Watson AI and so-called i2 visual tech spun off from IBM. It provides “dramatically more useful” intelligence, especially about firearm threats, the papers said. This is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newstalkzb.co.nz/news/national/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/",
+      "originalUrl": "https://www.newstalkzb.co.nz/news/national/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newstalkzb.co.nz/media/kpknelnw/police-patrol-car-rnz.jpg?rmode=crop&rnd=133407107303770000&height=395&width=635&quality=95&scale=both",
+          "width": 635,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newstalk ZB",
+        "domain": "newstalkzb.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-what-does-generative-ai-mean-for-software-companies.md",
+      "title": "What does generative AI mean for software companies?",
+      "excerpt": "AI and machine learning will boost the creativity and problem-solving abilities of software developers. It will also create a new set of winners across the software industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.html",
+      "originalUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/13/16/sw-blog-image-getty-1170x600-2-100938438-large.jpg?auto=webp&quality=85,70",
+          "width": 1199,
+          "height": 615,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html",
+      "publishedDateTime": "2023-10-02T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-02-building-cars-in-a-changing-world-audis-integrated-approach-with-ibm-planning-analytics.md",
       "title": "Building cars in a changing world: Audi’s Integrated Approach with IBM Planning Analytics",
       "excerpt": "Audi's journey serves as a beacon for organizations navigating the labyrinth of complex planning and decision-making.\nThe post Building cars in a changing world: Audi&#8217;s Integrated Approach with IBM Planning Analytics appeared first on IBM Blog.\n",
@@ -1051,94 +1146,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-artificial-intelligence-ai-faqs.md",
-      "title": "Artificial intelligence (AI) – FAQs",
-      "excerpt": "Q: What was the need of artificial intelligence? A: Out of millions of human beings, only Newton wondered why the apple falls to the ground. Rest of the population was busy blaming each other for ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/04/GSB-pic.jpg",
-          "width": 687,
-          "height": 989,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
-      "publishedDateTime": "2023-09-30T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-us-national-security-agency-unveils-artificial-intelligence-security-centre.md",
-      "title": "US National Security Agency unveils artificial intelligence security centre",
-      "excerpt": "The United States National Security Agency (NSA) has announced the creation of an artificial intelligence security centre that will oversee the development and integration of AI capabilities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/news/2023/9/29/us-national-security-agency-unveils-artificial-intelligence-security-centre",
-      "originalUrl": "https://www.aljazeera.com/news/2023/9/29/us-national-security-agency-unveils-artificial-intelligence-security-centre",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aljazeera.com/wp-content/uploads/2023/09/AP23271693350092-1695953886.jpg?resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/news/2023/9/29/us-national-security-agency-unveils-artificial-intelligence-security-centre",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2023/9/29/us-national-security-agency-unveils-artificial-intelligence-security-centre",
-      "publishedDateTime": "2023-09-30T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

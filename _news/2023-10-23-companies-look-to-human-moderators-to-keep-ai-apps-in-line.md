@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Can Impact Companies"
+    excerpt: "Embracing responsible AI deployment, fostering a culture of innovation and prioritizing continuous learning are essential for businesses to thrive in an AI-driven era."
+    publishedDateTime: 2023-10-23T12:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65329a6eb5a2b7609dec2392/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
   - title: "How Companies Can Embrace Generative AI’s Superpowers"
     excerpt: "Today, generative AI is no longer the elusive domain of tech giants. Even small businesses can afford to use its superpowers."
     publishedDateTime: 2023-10-23T11:01:00Z
@@ -44,71 +60,66 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
-    excerpt: "The purpose of the expanded relationship between IBM Consulting and AWS is “to help more mutual clients operationalize and derive value from generative artificial intelligence,” IBM Consulting stated in a press release. In addition, IBM Consulting ..."
-    publishedDateTime: 2023-10-20T13:27:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
+  - title: "Gartner: How AI Will Impact Work"
+    excerpt: "AI isn't likely to reduce jobs any time soon, Gartner says, but it will impact the way we work. Will you view AI as a teammate?"
+    publishedDateTime: 2023-10-23T17:37:00Z
+    webUrl: "https://www.pcmag.com/articles/gartner-how-ai-will-impact-work"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/tr5423-what-is-generative-ai.jpeg"
-        width: 1400
-        height: 933
+      - url: "https://i.pcmag.com/imagery/articles/02PdGp7OwlXIzFLjyMK8FRI-1.fit_lim.size_1200x630.v1698080183.jpg"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "Why Generative AI Needs Design"
-    excerpt: "With generative AI, computers gain a new set of capabilities: the ability to understand and generate language, code ... With simple prompts, anyone can translate an idea into a visual prototype that a group can riff on. While imperfect, these AI mockups ..."
-    publishedDateTime: 2023-10-23T21:00:00Z
-    webUrl: "https://www.forbes.com/sites/stevevassallo/2023/10/23/why-generative-ai-needs-design/"
+  - title: "How Artificial Intelligence Is Changing Business"
+    excerpt: "Artificial intelligence (AI) has become a transformative force in the business world, revolutionizing the way companies operate and interact with their customers"
+    publishedDateTime: 2023-10-19T15:09:00Z
+    webUrl: "https://thesiliconreview.com/2023/10/how-artificial-intelligence-is-changing-business"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6536db33f0c0d8b1f46f464e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1176
-        height: 900
-        isCached: true
-  - title: "How AI Can Impact Companies"
-    excerpt: "Embracing responsible AI deployment, fostering a culture of innovation and prioritizing continuous learning are essential for businesses to thrive in an AI-driven era."
-    publishedDateTime: 2023-10-23T12:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "TCS’ Obsession With Generative AI"
-    excerpt: "TCS, the IT giant was catching up with generative AI, but now it has gone all in on AI in the last couple of months."
-    publishedDateTime: 2023-10-23T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/tcs-obsession-with-generative-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: thesiliconreview
+      domain: thesiliconreview.com
     quality: 39
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/TCS-Obsession-With-Generative-AI-300x300.jpg"
-        width: 300
-        height: 300
+      - url: "https://thesiliconreview.com/story_image_upload/article/thesiliconreview-how-artificial-intelligence-is-changing-business.jpg"
+        width: 840
+        height: 449
         isCached: true
-  - title: "How companies can assess artificial intelligence through an ESG lens"
-    excerpt: "Use ESG as a lens, suggests Yannick Ouaknine, Head of Sustainability Research at Societe Generale: “The rate of adoption of AI and hence the rate of change will be, and already is, very rapid. But the process can be manageable for corporates if they think about it in a structured and analytical way.”"
-    publishedDateTime: 2023-10-19T10:22:00Z
-    webUrl: "https://www.ft.com/partnercontent/societe-generale/how-companies-can-assess-artificial-intelligence-through-an-esg-lens.html"
+  - title: "PIONEER IN FINTECH DEMONSTRATES IMPACT OF AI IN PAYMENTS AT MASTERCARD EVENT DURING MONEY20/20"
+    excerpt: "Serial fintech founder to address looming industry regulation and how AI can deliver more value to consumers and businesses  LAS"
+    publishedDateTime: 2023-10-23T11:45:00Z
+    webUrl: "https://menafn.com/1107286496/PIONEER-IN-FINTECH-DEMONSTRATES-IMPACT-OF-AI-IN-PAYMENTS-AT-MASTERCARD-EVENT-DURING-MONEY2020"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
     images:
-      - url: "https://www.ft.com/partnercontent/societe-generale/img/2023/8/hero.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?288618"
+        width: 375
+        height: 249
         isCached: true
+  - title: "Music Companies Take Legal Action Against Amazon-Backed AI Startup"
+    excerpt: "A recent legal battle is brewing in the music world. Three top music companies are suing Anthropic, an AI firm. They claim the company's AI, Claude, is using their song lyrics without permission. This"
+    publishedDateTime: 2023-10-20T13:15:00Z
+    webUrl: "https://techround.co.uk/news/music-companies-take-legal-action-against-amazon-backed-ai-startup/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 17
+  - title: "How AI Can Revolutionize Entrepreneurship in 2024"
+    excerpt: "By leveraging the capabilities of AI, entrepreneurs can streamline their operations, mitigate risks, and accelerate growth. Here’s how AI will revolutionize entrepreneurship in 2024."
+    publishedDateTime: 2023-10-22T01:30:00Z
+    webUrl: "https://www.industryleadersmagazine.com/how-ai-can-revolutionize-entrepreneurship-in-2024/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 17
 
 secured: "D96+PGfkTNCSvS/QbEfqHHgZcnHwG4WzaJyuIiKx7rpz+xZ7aeV7A2zg6RT2O1QheKw3uYmqdGpL7nHKKgAzwh8EP8NTxrI6MXMd9iu/kbeJOvy4L44SG1MREEc68OhkTlPIjeia9Bo6fYorxFjVcI6BNWeWRmFLGvmUh3aM2nz2TwDXD1OTXoooQfPgv5b2vjzVFHg4pmjP5Pl2WtNoGngQo/9pXQehU7LH57+CCMICuSWbTgGRmZHw/DAoPc/JDOUGacN3SDjF3Jd3lIKTCcUFcND98HpCIdyVg2LmJu9vRZzLlIv2cXeqsN/pFotuwI4YB0Bd5OWikFEgyf1KfJzU5JGTrwLgjAu86Fysckg=;//mss32FozCZl63v8Ng9wQ=="
 ---

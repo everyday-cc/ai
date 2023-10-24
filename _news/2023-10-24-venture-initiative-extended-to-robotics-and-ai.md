@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "University of Edinburgh AI start-up incubator expanded"
+    excerpt: "The expansion of the University of Edinburgh Venture Builder Incubator (VBI) programme means entrepreneurs from across Scotland working in robotics and artificial intelligence can turn their ideas into commercial reality."
+    publishedDateTime: 2023-10-24T03:46:00Z
+    webUrl: "https://www.heraldscotland.com/news/23874410.university-edinburgh-ai-start-up-incubator-expanded/"
+    type: article
+    provider:
+      name: heraldscotland
+      domain: heraldscotland.com
+    quality: 39
+    images:
+      - url: "https://www.heraldscotland.com/resources/images/17363555/?type=og-image"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "0rfMJvpptMc3EOnxl8lRiqEvjodkoFWtPSYZriBBxvPm7rxsZ0jIGoxeLoxWU3/b2rVhKzLvqLLr4/GiN4Q9fHmlLjUh/MAkKYaypfbEDCIWoOq/YiL+9hqlaVCabvcraJ52xxQOJv4xTY3cHaslTUyw/2Lv6Su73AYUGnk0S6k8xMoNIbSwIJm7ARgYCy+FqVUjMlUNAk60xL0i9SeXGIqWUfH0aWG4O526gRenYsAiSKbQVKAKpnmyEzsIbjbRt0hNdeNrY30wgfwmgA/EJYTYa7s6rSeSJq0mpHDCl6P27XBwsYWxDetv/sipQS0oJgRykXeKTi+8tvBfyEhXNP1QyxaskrnU6W64BUUMxIIc/GhVTamEYCJaKvde/MnBOWJCY0br7+KdyuuWTS0PNCS203J3bEDUct2qgZixqFrCBa78Njcf+jNdJh9DIVFvDJS77Lpjawt0Wnv68g6Dv0TWXeKiNiFfRzwlu8xisT1UwTJ4ZE5OmRADg6d2zehSR+s1636fkUQAUoYu47I16w==;77fKvjBGIeq3I8mLPR1w5w=="
 ---

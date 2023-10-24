@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Companies Can Embrace Generative AI’s Superpowers"
-    excerpt: "Today, generative AI is no longer the elusive domain of tech giants. Even small businesses can afford to use its superpowers."
-    publishedDateTime: 2023-10-23T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647f38c95ad531f8e9178353/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
     excerpt: "The purpose of the expanded relationship between IBM Consulting and AWS is “to help more mutual clients operationalize and derive value from generative artificial intelligence,” IBM Consulting stated in a press release. In addition, IBM Consulting ..."
     publishedDateTime: 2023-10-20T13:27:00Z
@@ -59,57 +43,59 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Companies Look to Human Moderators to Keep AI Apps in Line"
-    excerpt: "Borrowing from social-media platforms, software maker Intuit is hiring content moderators to help keep toxic language and other bad behavior off its AI systems."
-    publishedDateTime: 2023-10-23T16:53:00Z
-    webUrl: "https://www.wsj.com/articles/companies-look-to-human-moderators-to-keep-ai-apps-in-line-9507fa35"
+  - title: "IBM and AWS leap deeper into bed for AI love affair"
+    excerpt: "AWS is the latest partner for veteran tech giant IBM. But where does that leave the latter on AI? We ask IBM Consulting’s AI chief."
+    publishedDateTime: 2023-10-23T09:31:00Z
+    webUrl: "https://diginomica.com/ibm-and-aws-leap-deeper-bed-ai-love-affair"
+    ampWebUrl: "https://diginomica.com/ibm-and-aws-leap-deeper-bed-ai-love-affair?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ibm-and-aws-leap-deeper-bed-ai-love-affair?amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: Diginomica
+      domain: diginomica.com
+    quality: 74
     images:
-      - url: "https://images.wsj.net/im-873723/social"
-        width: 1280
-        height: 640
+      - url: "https://diginomica.com/sites/default/files/images/2023-10/BA999656-EE0E-43A6-AC71-5CA79A1311E7.jpeg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "How AI Can Impact Companies"
-    excerpt: "Embracing responsible AI deployment, fostering a culture of innovation and prioritizing continuous learning are essential for businesses to thrive in an AI-driven era."
-    publishedDateTime: 2023-10-23T12:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/"
+  - title: "IBM expands relationship with AWS to bring generative AI solutions to clients"
+    excerpt: "As part of this, IBM Consulting aims to deepen and expand its generative AI expertise on AWS by training 10,000 consultants by the end of 2024; the two organizations also plan to deliver joint solutions and services upgraded with generative AI capabilities designed to help clients across critical use cases."
+    publishedDateTime: 2023-10-20T07:35:00Z
+    webUrl: "https://africabusinesscommunities.com/tech/tech-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-to-clients/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "TCS’ Obsession With Generative AI"
-    excerpt: "TCS, the IT giant was catching up with generative AI, but now it has gone all in on AI in the last couple of months."
-    publishedDateTime: 2023-10-23T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/tcs-obsession-with-generative-ai/"
+      name: africabusinesscommunities.com
+      domain: africabusinesscommunities.com
+    quality: 51
+    images:
+      - url: "http://adserver.20nine.nl/www/delivery/avw.php?zoneid=85&n=238f97b"
+        width: 336
+        height: 280
+        isCached: true
+  - title: "IBM Expands Relationship with AWS"
+    excerpt: "IBM has expanded its relationship with Amazon Web Services (AWS) to help mutual clients operationalize and derive value from generative artificial intelligence (AI). As part of this relationship,, IBM Consulting plans to deepen its generative AI expertise on AWS by training 10,000 consultants by the end of 2024."
+    publishedDateTime: 2023-10-19T13:05:00Z
+    webUrl: "https://channelvisionmag.com/ibm-expands-relationship-with-aws/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
     quality: 39
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/TCS-Obsession-With-Generative-AI-300x300.jpg"
+      - url: "https://channelvisionmag.com/wp-content/uploads/2023/09/cv_display_ad_jungle.jpg"
         width: 300
-        height: 300
+        height: 250
         isCached: true
-  - title: "How companies can assess artificial intelligence through an ESG lens"
-    excerpt: "Use ESG as a lens, suggests Yannick Ouaknine, Head of Sustainability Research at Societe Generale: “The rate of adoption of AI and hence the rate of change will be, and already is, very rapid. But the process can be manageable for corporates if they think about it in a structured and analytical way.”"
-    publishedDateTime: 2023-10-19T10:22:00Z
-    webUrl: "https://www.ft.com/partnercontent/societe-generale/how-companies-can-assess-artificial-intelligence-through-an-esg-lens.html"
+  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
+    excerpt: "Commitment to deepening expertise and expanding AWS on watsonx integration IBM has already built extensive expertise with AWS's generative AI services including Amazon SageMaker and Amazon CodeWhisperer, and is one of first AWS Partners to use Amazon ..."
+    publishedDateTime: 2023-10-21T18:42:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354349&cat=PR News Wire"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/partnercontent/societe-generale/img/2023/8/hero.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "mIvcZIfUb1Cwlz3aeDHPx4h/h3u8M2nXh3q7rXqcnOaQ0c4xbYUwL4MT1lUIYiL6fM0kgv2c5aFc6Imu6mKUk+x9gUWCz0+N3NfQx4caQQgquCkvww3LsigmqtqGIbLa9sGVSYrxxrnN0Zf4gtGbVugvimHey4zyw+zOGrqv81fBi19ChJnWwCuBiKweobeX7Bv31Zhb/tu0NnJlInRcvbxQNXOB6Jus44HU1mxrXiPA1da4UiG3QWcRWeSLlfu3ZQDImAWjpE7bIEgFz6bHv/XH/vvN3zW38zF3Qmjh8j4mlyUaT3BTg4x7tbnV5i2MuxrngSfKCoVa1pQRlxe8yBiiPPFgsYh7pZCX1ZC/TrI=;JxRRLmzstgnX7wKHHDA17Q=="
 ---

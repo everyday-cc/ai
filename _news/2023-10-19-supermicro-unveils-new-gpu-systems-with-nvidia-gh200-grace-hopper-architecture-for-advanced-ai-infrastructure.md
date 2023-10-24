@@ -39,15 +39,6 @@ related:
         width: 718
         height: 377
         isCached: true
-  - title: "Gcore Launches Generative AI Cluster Powered by NVIDIA GPUs"
-    excerpt: "The new Generative AI Cluster is equipped with servers based on NVIDIA A100 GPUs, the leading data centre AI accelerator. Later this year, Gcore plans to expand with an additional 128 servers powered by the latest NVIDIA H100 GPU to further enhance its infrastructure."
-    publishedDateTime: 2023-10-19T10:53:00Z
-    webUrl: "https://www.afp.com/en/news/1315/gcore-launches-generative-ai-cluster-powered-nvidia-gpus-202310194026371"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 34
   - title: "Neurxcore Introduces Innovative NPU Product Line for AI Inference Applications, Powered by NVIDIA Deep Learning Accelerator Technology"
     excerpt: "Neurxcore, a leading provider of cutting-edge Artificial Intelligence (AI) solutions, today announced the launch of its groundbreaking Neural Processor Unit (NPU) product line for AI inference applications."
     publishedDateTime: 2023-10-20T10:32:00Z

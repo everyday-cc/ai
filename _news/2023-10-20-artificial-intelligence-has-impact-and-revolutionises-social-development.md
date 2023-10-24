@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Revolutionize Entrepreneurship in 2024"
-    excerpt: "By leveraging the capabilities of AI, entrepreneurs can streamline their operations, mitigate risks, and accelerate growth. Here’s how AI will revolutionize entrepreneurship in 2024."
-    publishedDateTime: 2023-10-22T01:30:00Z
-    webUrl: "https://www.industryleadersmagazine.com/how-ai-can-revolutionize-entrepreneurship-in-2024/"
-    type: article
-    provider:
-      name: Leadership
-      domain: industryleadersmagazine.com
-    quality: 17
   - title: "Enterprise software developers prepare for generative AI’s ‘productivity revolution’"
     excerpt: "By all accounts, the impact of generative AI on software development will be profound. A recently published survey by GBH Insights LLC, which does business as GBK Collective, found that 78% of companies expect to use AI for software development within the next three to five years."
     publishedDateTime: 2023-10-23T18:59:00Z

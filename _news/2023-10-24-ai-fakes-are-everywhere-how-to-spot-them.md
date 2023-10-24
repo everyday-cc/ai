@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-fakes-everywhere-how-spot-them.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-fakes-everywhere-how-spot-them.amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Fox News
@@ -30,63 +30,34 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI’s new tool can spot fake AI images, but there’s a catch"
-    excerpt: "AI-generated images can spread misinformation and fool the public, but ChatGPT maker OpenAI says its new tool can root out fake pictures with unerring accuracy."
-    publishedDateTime: 2023-10-19T10:04:00Z
-    webUrl: "https://www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-image-detector/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-image-detector/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-image-detector/?amp"
+  - title: "How to use Windows 11 Copilot — here's what you can do with AI"
+    excerpt: "Microsoft calls Copilot \"AI\" but it's really an evolution of the company's Bing ... whereas if you type open Word it will ask if you want to start Microsoft Word. Currently there's one option you can enable in Windows Copilot's settings menu (which you ..."
+    publishedDateTime: 2023-10-22T03:08:00Z
+    webUrl: "https://www.tomsguide.com/how-to/how-to-use-copilot-to-control-windows"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 37
     images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/08/dalle-3-81.jpg?resize=1200%2C630&p=1"
+      - url: "https://cdn.mos.cms.futurecdn.net/HHrynukdvYZkYEmbRvzXKP-1200-80.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Stanford researchers challenge OpenAI, others on AI transparency in new report"
-    excerpt: "The researchers behind the Foundation Model Transparency Index research paper include primary author Rishi Bommasani, a PhD candidate in computer science at Stanford, and also Kevin Klyman, Shayne Longpre, Sayash Kapoor, Nestor Maslej, Betty Xiong, and Daniel Zhang."
-    publishedDateTime: 2023-10-23T19:59:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/amp/"
+  - title: "Developers are embracing AI-enabled tools. Here’s how that’s changing the way they code"
+    excerpt: "the AI tool doesn’t give him what he needs out of the box, he can just follow up with a refined prompt to get closer to what he needs. Chatbots can also be extremely useful for learning new frameworks and coding languages. As long as the LLM is well ..."
+    publishedDateTime: 2023-10-23T18:03:00Z
+    webUrl: "https://siliconangle.com/2023/10/23/developers-embracing-ai-enabled-tools-heres-thats-changing-way-code/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_windshield_1-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/computer-2557299_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "OpenAI Partners G42 for AI Advancement in the Middle East"
-    excerpt: "G42’s recent partnership with OpenAI shows the company’s dedication to fostering AI adoption in the UAE. In a significant move this July, the company collaborated with Cerebras Systems, a US-based firm, to create the world’s largest AI training supercomputer."
-    publishedDateTime: 2023-10-19T10:03:00Z
-    webUrl: "https://www.coinspeaker.com/openai-partners-g42-for-ai-advancement-in-the-middle-east/"
-    ampWebUrl: "https://www.coinspeaker.com/openai-partners-g42-for-ai-advancement-in-the-middle-east/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/openai-partners-g42-for-ai-advancement-in-the-middle-east/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 59
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/openai-partners-g42-for-ai-advancement-in-the-middle-east.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "While tech companies play with OpenAI’s API, this startup believes small, in-house AI models will win"
-    excerpt: "You can also take advantage of managed cloud services, such as EC2, Vertex Pipelines and SageMaker. ZenML also integrates with open source ML tools from Hugging Face, MLflow, TensorFlow, PyTorch, etc. “ZenML is sort of the thing that brings everything ..."
-    publishedDateTime: 2023-10-23T18:27:00Z
-    webUrl: "https://techcrunch.com/2023/10/23/zenml-empowers-companies-to-build-their-own-ai-stack-based-on-open-source-tools/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
 
 secured: "HzRH/FQ7WfySPBnhKvcUujSRBoAUmcMkYjy8mjf3Nirv3n7uWyC0Y4/7pd79sjimKAzkNAAeGjcytfIiHLJZxOMlnCnT64Fn7g24H35NfuuAOqAByXmctB/cwfJLNIx7efVRBDl/0G6zc3vqBotqEB77TM6O8PKpjWjIISN9VyFfCrkbd/XznFoiuNjHOddIwcs3GzKkkzSsN8lF8E7caTX72jLTTET37PrRE2NAP5LLGsXbHeLdxFErUJLM47l2Sf72nezu3GcfFfwWv4jA8+rBsd2fNT7StlMH5ArRRO18Fr5cBehplK/L0WkcETz3k2rkBmu8BGCOcGJK74IlBZ5dhTaJ9n64RiGaAipGWT4=;W4nuOHNDWPlJYjeBM/flCw=="
 ---

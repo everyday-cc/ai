@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-14-ripcord-the-steve-wozniak-backed-file-scanning-startup-is-raising-new-cash.md",
+      "title": "Ripcord, the Steve Wozniak-backed file scanning startup, is raising new cash",
+      "excerpt": "Ripcord, a startup developing robots that can automatically digitize paper records ... Ripcord — fresh off of an integration partnership with OpenAI — is developing a generative AI tool that the startup had intended to launch in September, according ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/13/ripcord-the-steve-wozniak-backed-file-scanning-startup-is-raising-new-cash/",
+      "originalUrl": "https://techcrunch.com/2023/10/13/ripcord-the-steve-wozniak-backed-file-scanning-startup-is-raising-new-cash/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/maksym-kaharlytskyi-Q9y3LRuuxmg-unsplash.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/13/ripcord-the-steve-wozniak-backed-file-scanning-startup-is-raising-new-cash/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/13/ripcord-the-steve-wozniak-backed-file-scanning-startup-is-raising-new-cash/amp/",
+      "publishedDateTime": "2023-10-13T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-14-centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.md",
       "title": "Centre comes out with strategy on robotics to make India global leader in the field by 2030",
       "excerpt": "India has outlined its ambitious roadmap for its artificial intelligence (AI) and robotics sectors, envisaging it as a pivotal enabler to help take the country’s digital economy hit one trillion dollars in valuation and position India as a global leader in the field of robotics by 2030.",
@@ -758,10 +810,10 @@
     {
       "path": "_news/2023-10-10-ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the-agriculture-sector.md",
       "title": "AgEagle Named Top 20 Artificial Intelligence and Robotics Companies Transforming the Agriculture Sector",
-      "excerpt": "today announced that the Company has been as one of the “Top 20 Artificial Intelligence and Robotics Companies Transforming the Agriculture Sector” by Insider Monkey, a finance website that provides free insider trading and hedge fund data to ordinary ...",
+      "excerpt": "today announced that the Company has been as one of the “Top 20 Artificial Intelligence and Robotics Companies Transforming the Agriculture Sector” by Insider Monkey, a finance website that ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the-agriculture-sector-1032692196",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the-agriculture-sector-1032692196",
+      "webUrl": "https://www.nasdaq.com/press-release/ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the",
+      "originalUrl": "https://www.nasdaq.com/press-release/ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -771,21 +823,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T05:44:00-07:00",
+      "publishedDateTime": "2023-10-10T07:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1278,49 +1321,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-now-dine-with-robot-waiters-as-lucknow-gets-its-1st-robot-restaurant-yellow-house.md",
-      "title": "Now Dine With Robot Waiters As Lucknow Gets Its 1st ‘Robot Restaurant – Yellow House’",
-      "excerpt": "What sets these robo-servers apart is their ability to communicate with diners. When encountering an obstruction, they politely utter “Please excuse me.",
-      "sourceUrl": null,
-      "webUrl": "https://www.india.com/viral/now-dine-with-robot-waiters-as-lucknow-gets-its-1st-robot-restaurant-yellow-house-6386206/",
-      "originalUrl": "https://www.india.com/viral/now-dine-with-robot-waiters-as-lucknow-gets-its-1st-robot-restaurant-yellow-house-6386206/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.india.com/wp-content/uploads/2023/10/robot-restaurant.jpg",
-          "width": 700,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/viral/now-dine-with-robot-waiters-as-lucknow-gets-its-1st-robot-restaurant-yellow-house-6386206/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/now-dine-with-robot-waiters-as-lucknow-gets-its-1st-robot-restaurant-yellow-house-6386206/amp/",
-      "publishedDateTime": "2023-10-06T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

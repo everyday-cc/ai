@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-23-what-ai-wont-replace-in-your-programming.md",
+      "title": "What AI won’t replace in your programming",
+      "excerpt": "Generative AI is great at handling tedium and finding errors, but the expertise and intuition of programmers will always be essential.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.html",
+      "originalUrl": "https://www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/06/18/worried-concerned-programmer-developer-coder-100946865-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.amp.html",
+      "publishedDateTime": "2023-10-23T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-23-khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills.md",
       "title": "Khan Academy: An AI Revolution In Education Or Threat To Human Skills?",
       "excerpt": "Khan Academy has built a teaching assistant that uses a Socratic approach to engage with students. In its own words “Unlike traditional AI, which is often analytical, introverted, direct, and eager to please,",
@@ -62,7 +113,7 @@
       "originalUrl": "https://www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -381,7 +432,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/oct/23/ai-recruitment-job-search-artificial-intelligence-employment",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -867,48 +918,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-21-stanford-study-indicates-ai-chatbots-used-by-health-providers-are-perpetuating-racism.md",
-      "title": "Stanford study indicates AI chatbots used by health providers are perpetuating racism",
-      "excerpt": "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors' notes and analyze health records.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/",
-      "originalUrl": "https://www.cbsnews.com/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/21/4e6a50d0-75dc-414b-9810-f1e98dd12cce/thumbnail/1200x630/bd6fc97710b8b2b2bb4072321ee60167/ap23290859783861.jpg?v=18a5d3569ab1a3ca759fe14d213f7845",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/",
-      "publishedDateTime": "2023-10-20T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-21-jon-stewarts-show-on-apple-tv-is-reportedly-coming-to-an-end-amid-disagreements-around-china-and-ai.md",
       "title": "Jon Stewart's show on Apple TV+ is reportedly coming to an end amid disagreements around China and AI",
       "excerpt": "The longtime talk show host and Apple reportedly parted ways over editorial differences on China and AI.",
@@ -1106,6 +1115,59 @@
       ]
     },
     {
+      "path": "_news/2023-10-21-gartner-it-symposiumxpo-impact-of-generative-ai-on-the-human-machine-relationship.md",
+      "title": "Gartner IT Symposium/Xpo: Impact of Generative AI on the Human-Machine Relationship",
+      "excerpt": "Gartner AI experts and Distinguished VP Analysts address the human-machine relationship and best practices for business leaders in the new AI era.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/gartner-it-symposium-generative-ai-impact/",
+      "originalUrl": "https://www.techrepublic.com/article/gartner-it-symposium-generative-ai-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-21-ibms-new-ai-chip-offers-22x-speedup-with-mind-blowing-energy-efficiency.md",
       "title": "IBM’s new AI chip offers 22X speedup with ‘mind-blowing’ energy efficiency",
       "excerpt": "IBM recently debuted a new prototype artificial intelligence (AI) chip purported to be both faster and far more energy efficient than any chip currently available. According to research published in Science Magazine on Oct. 19, the new chip, dubbed ...",
@@ -1147,58 +1209,6 @@
         "AI Hardware",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-googles-new-ai-powered-tool-helps-users-learn-english-right-in-search.md",
-      "title": "Google's new AI-powered tool helps users learn English right in Search",
-      "excerpt": "Google announced a new English learning tool that goes deeper than the capabilities of Google Translate. Here's how it works.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-new-ai-powered-tool-helps-users-learn-english-right-in-search/",
-      "originalUrl": "https://www.zdnet.com/article/googles-new-ai-powered-tool-helps-users-learn-english-right-in-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9726b7f186525b3165b5469c672e7f1008c6a3d0/2023/10/20/3ae65077-9684-4397-a382-6d831bc30e1a/glangher.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-new-ai-powered-tool-helps-users-learn-english-right-in-search/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-ai-powered-tool-helps-users-learn-english-right-in-search/",
-      "publishedDateTime": "2023-10-20T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

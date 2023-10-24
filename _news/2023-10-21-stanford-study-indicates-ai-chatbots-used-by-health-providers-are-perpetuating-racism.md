@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-suppos
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
 type: article
 quality: 50
-heat: 120
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -26,84 +26,63 @@ images:
     isCached: true
 
 related:
-  - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
-    excerpt: "\"There are very real-world consequences to getting this wrong that can impact health disparities,\" said Stanford University's Dr. Roxana Daneshjou, an assistant professor of biomedical data science and dermatology and faculty adviser for the paper."
-    publishedDateTime: 2023-10-20T19:39:00Z
-    webUrl: "https://sentinelcolorado.com/uncategorized/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism/"
+  - title: "Stanford researchers challenge OpenAI, others on AI transparency in new report"
+    excerpt: "The researchers behind the Foundation Model Transparency Index research paper include primary author Rishi Bommasani, a PhD candidate in computer science at Stanford, and also Kevin Klyman, Shayne Longpre, Sayash Kapoor, Nestor Maslej, Betty Xiong, and Daniel Zhang."
+    publishedDateTime: 2023-10-23T19:59:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/amp/"
     type: article
     provider:
-      name: Sentinel Colorado
-      domain: sentinelcolorado.com
-    quality: 27
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
     images:
-      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/10/AP23290859783861.jpg"
-        width: 1024
-        height: 683
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_windshield_1-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records. But a new study led by Stanford School of Medicine"
-    publishedDateTime: 2023-10-20T15:13:00Z
-    webUrl: "https://kdhnews.com/living/health/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some-are-perpetuating-racism/article_a415445f-ecb8-5c3e-a141-c6c3ff69ba34.html"
+  - title: "AI Models Lack Transparency: Research"
+    excerpt: "Artificial intelligence models lack transparency, according to a study published Wednesday that aims to guide policymakers in regulating the rapidly-growing technology."
+    publishedDateTime: 2023-10-19T15:16:00Z
+    webUrl: "https://www.barrons.com/news/ai-models-lack-transparency-research-13234812?refsec=topics_afp-news"
+    ampWebUrl: "https://www.barrons.com/amp/news/ai-models-lack-transparency-research-13234812"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-models-lack-transparency-research-13234812"
     type: article
     provider:
-      name: Killeen Daily Herald
-      domain: kdhnews.com
-    quality: 25
+      name: Barron's
+      domain: barrons.com
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/7/87/787e434c-798b-58a5-9384-ed40c3aa583e/653243805240e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP5078617444604516448381783324554086861462---1.jpg"
+        width: 768
+        height: 511
         isCached: true
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "Stanford researchers warn chatbots used in health-care settings could spread misconceptions and falsehoods about Black patients SAN FRANCISCO (AP) — […] The post Health providers say AI chatbots could improve care."
-    publishedDateTime: 2023-10-22T16:55:00Z
-    webUrl: "https://www.aol.com/health-providers-ai-chatbots-could-165532828.html"
+  - title: "Research: AI models lack transparency"
+    excerpt: "Artificial intelligence models lack transparency, according to a study published Wednesday that aims to guide policymakers in regulating the"
+    publishedDateTime: 2023-10-20T00:55:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/10/20/research-ai-models-lack-transparency/97330"
+    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2023/10/20/research-ai-models-lack-transparency/97330"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2023/10/20/research-ai-models-lack-transparency/97330"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 25
+      name: malaymail
+      domain: malaymail.com
+    quality: 59
     images:
-      - url: "https://media.zenfs.com/en/aol_thegrio_365/6fd4e3e1e11218c91e257242938cc3fb"
-        width: 900
-        height: 600
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/10/20/156351.jpeg?v=1697767380"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "AI is supposed to improve health care. But research says some are perpetuating racism"
-    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records"
-    publishedDateTime: 2023-10-20T17:58:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167104"
+  - title: "While tech companies play with OpenAI’s API, this startup believes small, in-house AI models will win"
+    excerpt: "You can also take advantage of managed cloud services, such as EC2, Vertex Pipelines and SageMaker. ZenML also integrates with open source ML tools from Hugging Face, MLflow, TensorFlow, PyTorch, etc. “ZenML is sort of the thing that brings everything ..."
+    publishedDateTime: 2023-10-23T18:27:00Z
+    webUrl: "https://techcrunch.com/2023/10/23/zenml-empowers-companies-to-build-their-own-ai-stack-based-on-open-source-tools/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 12
-  - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
-    excerpt: "Stanford School of Medicine researchers have discovered that popular chatbots are responding to questions using race-based, debunked medical ideas."
-    publishedDateTime: 2023-10-20T16:11:00Z
-    webUrl: "https://thegrio.com/2023/10/20/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 7
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records."
-    publishedDateTime: 2023-10-21T14:54:00Z
-    webUrl: "https://www.pressdemocrat.com/article/business/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 5
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "Powered by AI models trained on troves of text pulled from the internet, chatbots such as ChatGPT and Google’s Bard responded to the researchers’ questions with a range of mis"
-    publishedDateTime: 2023-10-22T17:12:00Z
-    webUrl: "https://thegrio.com/2023/10/22/ai-chatbots-risk-spreading-racist-ideas-about-health/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 5
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 34
 
 secured: "pWtRetvH2n6wUUblggqaTiUshbbGbQiWNfusxydLu63cBiWCEpbS/XDp7UKpR11eWmH4jBA/b1I3B1TrV/0TCcm3yvuEfRcHCcc6mbRH0Wy61JSwBC9Uw6+05++xur1mzVLRZWKgg9uyyzCSLT4V4CLo4hyKtXyCJ3YLrznPYeDWBf1Y/lD5AlBJcOOL0EEdnnNzaRYfkMPXjoHJJ90HhASmpu2ti5SwsLFMMgeFPw86CJS5vMF5pFFJGF152zVpLX+ePzKT3VOov+o0ubi2gYa9RzyWTsftnKkHKYtgBXcIhF269gBZYIZQOOpMWoFwYEnq2PGhzcHVzAIVb6b3VroQjoW4P8rgA8hv78s1AaE6FPtGM/BVWiPKzsBwbAh8P1c8a5RBpfndo1y3r6jDxOSiPEEjBQ+1hIMG1y6FaZrGjM4a84FTA5R1/EbHCJVorh1mXoU7lHgmvBw7a4CWNCHAuMnWp+askWx3joyTfBB4cJaEY9Mpiz7013uOD/nX/N8L5ZYdacIJzyqJ3pqetw==;u58NVZMOzc7vbvqEM+f/oA=="
 ---

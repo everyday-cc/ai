@@ -2,6 +2,109 @@
   "page": 124,
   "value": [
     {
+      "path": "_news/2023-07-27-the-indispensable-role-of-agencies-in-the-age-of-ai.md",
+      "title": "The Indispensable Role Of Agencies In The Age Of AI",
+      "excerpt": "Marketing agencies are collectives of creatives who are, above all, tastemakers, curators and trendsetters—in other words, our expertise allows us to recognize quality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1e349dad083538eb4f46/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/",
+      "publishedDateTime": "2023-07-27T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-this-ai-beauty-and-wellness-stock-just-hit-the-markets-should-you-buy-oddity-stock.md",
+      "title": "This AI Beauty and Wellness Stock Just Hit the Markets. Should You Buy Oddity Stock?",
+      "excerpt": "Beauty and wellness company Oddity Tech ( ODD 7.37%) is a company with high-tech AI capabilities in a niche industry that had its initial public offering (IPO) last week. Let's check it out and see if Oddity should make it into your stock portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740690/a-child-putting-blush-on-a-womans-face.jpg",
+          "width": 2122,
+          "height": 1412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-yonyou-unveils-its-large-language-model-for-enterprise-services.md",
       "title": "Yonyou unveils its large language model for enterprise services",
       "excerpt": "Yonyou Network Technology Co Ltd, China's leading software and cloud service provider, on Thursday unveiled the first large language model in the country's enterprise service industry.",
@@ -1065,110 +1168,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-aws-is-ready-to-power-ai-agents-that-can-handle-busywork-instead-of-just-chatting.md",
-      "title": "AWS is ready to power AI agents that can handle busywork instead of just chatting",
-      "excerpt": "Other AWS announcements included bringing generative AI to healthcare through a new service called AWS HealthScribe and a partnership with Nvidia allowing AWS to handle larger amounts of memory and data by using Nvidia H100 Tensor Core GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agents-healthcare-privacy",
-      "originalUrl": "https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agents-healthcare-privacy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/ttBtmyVRGnR5dITVexFJJD6wnOk=/0x0:1600x900/1200x628/filters:focal(800x450:801x451)/cdn.vox-cdn.com/uploads/chorus_asset/file/24812347/AWS_Summit_NY_2023_003.JPG",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-lam-research-sales-forecast-beats-estimates-on-ai-boom.md",
-      "title": "Lam Research sales forecast beats estimates on AI boom",
-      "excerpt": "Chip-making tools supplier Lam Research forecast quarterly revenue above Wall Street estimates, as semiconductor makers scramble to meet a surge in demand fueled by rising adoption of artificial intelligence (AI) technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/lam-research-results/lam-research-sales-forecast-beats-estimates-on-ai-boom-idUSKBN2Z625V",
-      "originalUrl": "https://www.reuters.com/article/lam-research-results/lam-research-sales-forecast-beats-estimates-on-ai-boom-idUSKBN2Z625V",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/g73N9n8Giy_-Z2jEDA54bOOfaAA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VF5N7CEDBJO2NM7U5HEVSNOERQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

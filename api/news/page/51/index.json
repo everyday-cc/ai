@@ -2,6 +2,91 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-09-15-driving-tests-should-be-adapted-to-make-sure-motorists-know-how-to-take-control-of-a-self-driving-car-mps-warn.md",
+      "title": "Driving tests should be adapted to make sure motorists know how to take control of a self-driving car, MPs warn",
+      "excerpt": "Driving tests will have to be adapted to make sure motorists know how to take control of a self-driving car, a report by MPs has warned. The report, by the Commons Transport committee, urged the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-12520833/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-12520833/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/09/15/01/75454361-0-image-m-28_1694736253236.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-12520833/amp/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12520833/amp/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
+      "publishedDateTime": "2023-09-14T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-navigating-the-age-of-ai-the-role-of-a-new-brain-industry.md",
+      "title": "Navigating the Age of AI: The Role of a New Brain Industry",
+      "excerpt": "To harness the benefits of AI and minimize its risks, we outlined an aggressive brain capital industrial strategy in a new research paper from Rice University’s Baker Institute for Public Policy. A mission-oriented approach is an important aspect of our strategy for advancing America’s brain capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-09/pexels-thisisengineering-3861969.jpg?itok=O7b4XPWg",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp",
+      "publishedDateTime": "2023-09-14T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-new-research-reveals-weakness-in-facebooks-fake-news-policies.md",
       "title": "New research reveals weakness in Facebook’s fake news policies",
       "excerpt": "Facebook's design makes it unable to control ... “There is significant attention given to social media platforms and artificial intelligence governance today. \"However, this discussion largely ...",
@@ -1112,108 +1197,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-mind-the-trust-gap-data-concerns-prompt-customer-caution-over-generative-ai.md",
-      "title": "Mind the trust gap: Data concerns prompt customer caution over generative AI",
-      "excerpt": "A general lack of trust in data security and privacy is holding organizations back from going all in with generative artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/mind-the-trust-gap-data-concerns-prompt-customer-caution-over-generative-ai/",
-      "originalUrl": "https://www.zdnet.com/article/mind-the-trust-gap-data-concerns-prompt-customer-caution-over-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b7229e536aa765caeba8e4af11d71c48fdd64669/2023/09/14/ad2626bd-f76f-456d-bf28-e83d8935ee36/ailockgettyimages-1437761046.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mind-the-trust-gap-data-concerns-prompt-customer-caution-over-generative-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mind-the-trust-gap-data-concerns-prompt-customer-caution-over-generative-ai/",
-      "publishedDateTime": "2023-09-14T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-singapore-arms-firefighters-with-ai-glasses.md",
-      "title": "Singapore arms firefighters with AI glasses",
-      "excerpt": "A two-year initiative will see Singapore firefighters using 5G-enabled smart glasses to inspect and identify defects in their equipment, so they can be better prepared to respond to emergencies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-arms-firefighters-with-ai-glasses/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-arms-firefighters-with-ai-glasses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/87371fc7b94eb81e6924f651340f21a41e628750/2023/09/14/11a698c5-ba64-4f23-9643-d3150dbeacd0/punggol-fire-station-facade.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-arms-firefighters-with-ai-glasses/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-arms-firefighters-with-ai-glasses/",
-      "publishedDateTime": "2023-09-14T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

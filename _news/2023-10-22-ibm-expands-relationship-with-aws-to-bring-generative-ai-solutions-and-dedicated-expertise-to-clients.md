@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
+    excerpt: "The purpose of the expanded relationship between IBM Consulting and AWS is “to help more mutual clients operationalize and derive value from generative artificial intelligence,” IBM Consulting stated in a press release. In addition, IBM Consulting ..."
+    publishedDateTime: 2023-10-20T13:27:00Z
+    webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/tr5423-what-is-generative-ai.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "IBM and AWS leap deeper into bed for AI love affair"
     excerpt: "AWS is the latest partner for veteran tech giant IBM. But where does that leave the latter on AI? We ask IBM Consulting’s AI chief."
     publishedDateTime: 2023-10-23T09:31:00Z
@@ -34,6 +48,20 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2023-10/BA999656-EE0E-43A6-AC71-5CA79A1311E7.jpeg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Why Generative AI Needs Design"
+    excerpt: "With generative AI, computers gain a new set of capabilities: the ability to understand and generate language, code ... With simple prompts, anyone can translate an idea into a visual prototype that a group can riff on. While imperfect, these AI mockups ..."
+    publishedDateTime: 2023-10-23T21:00:00Z
+    webUrl: "https://www.forbes.com/sites/stevevassallo/2023/10/23/why-generative-ai-needs-design/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6536db33f0c0d8b1f46f464e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1176
+        height: 900
         isCached: true
   - title: "IBM expands relationship with AWS to bring generative AI solutions to clients"
     excerpt: "As part of this, IBM Consulting aims to deepen and expand its generative AI expertise on AWS by training 10,000 consultants by the end of 2024; the two organizations also plan to deliver joint solutions and services upgraded with generative AI capabilities designed to help clients across critical use cases."

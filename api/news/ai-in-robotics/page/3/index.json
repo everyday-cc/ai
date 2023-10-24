@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-06-now-dine-with-robot-waiters-as-lucknow-gets-its-1st-robot-restaurant-yellow-house.md",
+      "title": "Now Dine With Robot Waiters As Lucknow Gets Its 1st ‘Robot Restaurant – Yellow House’",
+      "excerpt": "What sets these robo-servers apart is their ability to communicate with diners. When encountering an obstruction, they politely utter “Please excuse me.",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/viral/now-dine-with-robot-waiters-as-lucknow-gets-its-1st-robot-restaurant-yellow-house-6386206/",
+      "originalUrl": "https://www.india.com/viral/now-dine-with-robot-waiters-as-lucknow-gets-its-1st-robot-restaurant-yellow-house-6386206/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.india.com/wp-content/uploads/2023/10/robot-restaurant.jpg",
+          "width": 700,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/viral/now-dine-with-robot-waiters-as-lucknow-gets-its-1st-robot-restaurant-yellow-house-6386206/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/now-dine-with-robot-waiters-as-lucknow-gets-its-1st-robot-restaurant-yellow-house-6386206/amp/",
+      "publishedDateTime": "2023-10-06T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-06-how-researchers-trained-a-budget-robot-dog-to-do-tricks.md",
       "title": "How researchers trained a budget robot dog to do tricks",
       "excerpt": "A new 'parkour algorithm' teaches robodogs in virtual settings first.",
@@ -1336,50 +1379,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-spotify-wont-ban-ai-music-tesla-robot-can-now-do-yoga.md",
-      "title": "Spotify won’t ban AI music, Tesla robot can now do yoga",
-      "excerpt": "Share The boss of Spotify says he has no plans to completely ban content created by artificial intelligence from the music streaming platform. Earlier this year the platform pulled a […]",
-      "sourceUrl": null,
-      "webUrl": "https://www.techdigest.tv/2023/09/spotify-wont-ban-ai-music-tesla-robot-can-now-do-yoga.html",
-      "originalUrl": "https://www.techdigest.tv/2023/09/spotify-wont-ban-ai-music-tesla-robot-can-now-do-yoga.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techdigest.tv/wp-content/uploads/2023/09/Optimus-.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Digest",
-        "domain": "techdigest.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

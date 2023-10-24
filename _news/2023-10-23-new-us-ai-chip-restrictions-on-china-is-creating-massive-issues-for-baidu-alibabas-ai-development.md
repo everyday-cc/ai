@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrict
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html/amp"
 type: article
 quality: 60
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
         width: 619
         height: 377
+        isCached: true
+  - title: "China homegrown AI chip development proceeding despite US ban"
+    excerpt: "China's chipmaking industry continues to advance its domestic development of AI chips despite stricter US bans, with companies like Alibaba, Baidu, Huawei, and Tencent developing their own AI chips."
+    publishedDateTime: 2023-10-24T01:41:00Z
+    webUrl: "https://www.digitimes.com/news/a20231023PD228/us-chip-ban-china-huawei-ai-chips-alibaba-baidu-nvidia-tencent.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231023pd228_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "U.S. chip export ban is ‘great news,' says partner at Chinese tech investment fund"
     excerpt: "The U.S. Department of Commerce will prevent the sale of some advanced AI chips to China, a move welcomed by a partner at a Chinese investment fund."

@@ -3,8 +3,8 @@ category: news
 title: "Achronix Announces FPGA-Powered Accelerated Automatic Speech Recognition Solution"
 excerpt: "Join us on October 24 th at 8:30am PST for a LinkedIn Live webinar, moderated by EE Times' Sr. Reporter, Sally Ward-Foxton, that unveils the power of Achronix FP"
 publishedDateTime: 2023-10-11T16:20:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-achronix-announces-fpga-powered-accelerated-automatic-speech-recognition-/2023/10/11/9897068.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-achronix-announces-fpga-powered-accelerated-automatic-speech-recognition-/2023/10/11/9897068.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2023/10/11/9897068.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/10/11/9897068.htm"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 209
     isCached: true
 
-secured: "GS4B1JuQ13M21KaP01ke+0foCyHi2Br+gKNqPaksxwTL3jHPl1F1DVa3dNM/vjR0GA3ucvA79cQJPZQV5GtnklMhEfVdkdMAds8LHA78CYo80wK11B1P5GOUYnRvGEK9XJqUQI3SvvIpAAPFsckiwzhq439SvLRl1QgtVZo+0SQrIFs8FlADnCia4Xo0TaqneRRj99dNdR/or5C1OcDt27EX15FOCWCDJ/kL2qxnUvgvLMdcfuTL6r+43qJ1uggnFXfAfior4YDq68D+Yaw75gow2mB0FwciSsOWLPWBdWWUFwr38YmiJoD4PBg18iO4bArw5F9uf34sO0be30wpnh8i8abnP6yJKmcquWbQWbg=;dpfui5ixvKUVUkGLcyO26g=="
+secured: "glhf2zbGTVjESxi3i50o8Cj2ouNquCI025a9HaYv+DcQuaWRgT3f/C49oi7Xbx8FfM0FFVLnl876GLiB/7YSGci6ARNN0T6En18YRYK2wtZAbol3l8tw41Jrm8ExF0rMznXcEo5ktAzfqJt+Ady+sIOBjMsIIt4YgNQ7LvSLsc7SjrzAlXZ1kO8JFiROPYCXLyck8+JB7ErsXbXndf8GpHzOCsX6ihtH8wA92mB4q9nuBzbssA+++m2A2OjmPhP5XUP0/QLrwMT4ZYVSQrROlC8Wqni+cra1C/RUHmmshWOCFHgKZl+Aodj/OIJ/hmNIw9E0+9/1m0B3eteslVbzgPpD0AL7MiIgFF3xPAIoIAU=;59fou/uu14qNtl4v3eDRag=="
 ---
 

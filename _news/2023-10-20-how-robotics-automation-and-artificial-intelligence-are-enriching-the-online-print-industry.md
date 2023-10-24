@@ -3,10 +3,10 @@ category: news
 title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
 excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
 publishedDateTime: 2023-10-20T16:48:00Z
-originalUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
-webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
+originalUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: automation.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
@@ -185,20 +186,6 @@ related:
       name: The Atlantic
       domain: theatlantic.com
     quality: 47
-  - title: "Eye On AI: Regulation For Artificial Intelligence Is Coming, Perhaps One Industry At A Time"
-    excerpt: "Perhaps the only thing rising faster than the valuations of certain generative AI companies is the talk of regulation around the technology. We look at what SEC Chair Gary Gensler has to say about it."
-    publishedDateTime: 2023-10-19T11:00:00Z
-    webUrl: "https://news.crunchbase.com/ai/sec-regulation-financial-sector-gensler/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 46
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "How governments are approaching the regulation and use of AI"
     excerpt: "“AI is not just about the technology; it’s going to impact aspects of our daily lives that we can’t even imagine right now,” Dillon said. “We need to really concentrate on and address the ethics and the regulations and the workforce concerns and ..."
     publishedDateTime: 2023-10-23T14:13:00Z
@@ -325,6 +312,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "oMfQaVzjcMDpU7bt6H5tmbf//i1yzb79Uj3lxgxRwEixmI7BV4qlCJJvDhZLMRfF2GltcKP/cMZV/PX4/qpuovgOu1ewzp+Av6pmTtUFXnGxlT++vLp9HbkgVlh2T2vAMpvkr8wsIKmH94wYXZIvjAIVKIXiZtWdmB9HzwhZpi8kkW4Xh6HsOFwpDUfA5NbLIcXMK8p+snn1hiGrHfNpPoJVkao5O8ZId92SfAEIK8ECN9qRL0U6zVkMF7dxUtQAFCzMmAw2eRqBkGAgPG8H8lmPiOam5Otr5fi93wYaf8xGBWibdQNeqNa45TgRBX+gJpRJcnoq2N3V7HXOgBBd8Q6/vZBJedP3jXb8V+KLMo4=;FBwhsCAK0ip8Eiaq+sCuKQ=="
+secured: "qHgyc1dwpSzq2IHTGMDSQeS+yJUnBJSfK2q0rT+0q+iMubLjiQQdxoziKfLkCejYWaLKUJi5stxEBj8mjjP6+3fn/NOOIuQr2fqpTDCym9v5B2KGiDkPMY6DTdxBliNwPXxMcULxX8oE+vyHxutr1zEaXPF44OOvmnJ5FZRDmd5OTuLl6ejTEJXnlkgTIRnOoSkhisCOMyQkU6YcsW38jWICDvwWfRjQQEMdiAffW3fvqdCeDBNrftpdLpYA5Px+Utyu6y2b6eMpPXcDZSIQYpAfUaqxTMIAdx+nFKoVoqZoAafdp4noLaw9dcefz6VFAYG92+StBmNIZXmalGWFJBYvET9w+E6Y3+giSIshh+g=;cnZVux4rYYuI1JZvDmzWzA=="
 ---
 

@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-17-study-uncovers-technology-that-enables-integration-of-sensing-control-in-soft-robotics.md",
+      "title": "Study uncovers technology that enables integration of sensing, control in soft robotics",
+      "excerpt": "Washington [US], September 17 (ANI): Soft inflatable robots have emerged as a fascinating paradigm for applications that require inherent safety and adaptability. Integrating sensing and control ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aninews.in/news/science/study-uncovers-technology-that-enables-integration-of-sensing-control-in-soft-robotics20230917113621/",
+      "originalUrl": "https://www.aninews.in/news/science/study-uncovers-technology-that-enables-integration-of-sensing-control-in-soft-robotics20230917113621/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-17T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asian News International",
+        "domain": "aninews.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-16-robots-are-trained-to-help-revive-coral-reefs.md",
       "title": "Robots are trained to help revive coral reefs",
       "excerpt": "But once you get in the water, you see all these tropical species of coral and fish.\" Corals are animals called polyps, found mostly in tropical waters. The soft-bodied polyp forms a hard outer shell by extracting calcium carbonate from the sea.",
@@ -1231,49 +1265,6 @@
       "provider": {
         "name": "Barron's",
         "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-top-5-ai-and-robotics-companies-transforming-the-agriculture-sector.md",
-      "title": "Top 5 AI and Robotics Companies Transforming the Agriculture Sector",
-      "excerpt": "In this article, we will look at the top 5 AI and robotics companies transforming the agriculture sector. If you are interested in reading an in-depth industrial analysis along with a more extensive list of the topic, head straight to the the Top 20 AI and Robotics Companies Transforming the Agriculture Sector .",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/",
-      "originalUrl": "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/10/11061545/Stocks.jpg?auto=format&expires=1725926400&w=400&h=225&fit=crop",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/?amp=1",
-      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/?amp=1",
-      "publishedDateTime": "2023-09-11T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
         "images": null,
         "publishers": null,
         "authors": null

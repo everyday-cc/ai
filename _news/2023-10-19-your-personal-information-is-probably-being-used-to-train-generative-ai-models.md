@@ -90,6 +90,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
+    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
+    publishedDateTime: 2023-10-20T16:48:00Z
+    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 60
+    images:
+      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Role of CX automation and generative AI"
     excerpt: "Customers expect personalised and efficient service, and the emergence of generative AI has led to a significant shift in the way businesses approach customer service and customer delight. Like human interactions,"
     publishedDateTime: 2023-10-22T09:48:00Z
@@ -138,20 +152,6 @@ related:
         width: 1200
         height: 1594
         isCached: true
-  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
-    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
-    publishedDateTime: 2023-10-20T16:48:00Z
-    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 58
-    images:
-      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Bitcoin-centric AI language model aims to drive BTC education and adoption"
     excerpt: "Novel AI language model Spirit of Satoshi trained on Bitcoin-related resources aims to drive education and BTC adoption."
     publishedDateTime: 2023-10-19T13:31:00Z
@@ -184,20 +184,6 @@ related:
       name: The Atlantic
       domain: theatlantic.com
     quality: 47
-  - title: "Eye On AI: Regulation For Artificial Intelligence Is Coming, Perhaps One Industry At A Time"
-    excerpt: "Perhaps the only thing rising faster than the valuations of certain generative AI companies is the talk of regulation around the technology. We look at what SEC Chair Gary Gensler has to say about it."
-    publishedDateTime: 2023-10-19T11:00:00Z
-    webUrl: "https://news.crunchbase.com/ai/sec-regulation-financial-sector-gensler/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 46
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "How governments are approaching the regulation and use of AI"
     excerpt: "“AI is not just about the technology; it’s going to impact aspects of our daily lives that we can’t even imagine right now,” Dillon said. “We need to really concentrate on and address the ethics and the regulations and the workforce concerns and ..."
     publishedDateTime: 2023-10-23T14:13:00Z

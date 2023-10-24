@@ -19,19 +19,19 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Why the EU AI Act Will Influence Marketers' Next Act for Data Privacy"
-    excerpt: "Explore the impact of the upcoming EU AI Act on data management and AI governance. Learn how it sets a global precedent and what U.S. businesses should expect. In the era of data privacy, marketers are increasingly vigilant about the next wave of AI ..."
-    publishedDateTime: 2023-10-19T10:06:00Z
-    webUrl: "https://www.cmswire.com/digital-marketing/why-the-eu-ai-act-will-influence-marketers-next-act-for-data-privacy/"
+  - title: "AI hiring tools keeping skilled professional immigrants out of job market: report"
+    excerpt: "That’s according to a report from immigrant professional placement firm Upwardly Global, which ran the resumes of immigrant and refugee job applicants through an AI-powered resume reading tool designed to assess skills and guide applicants through the job market, comparing skills against labor market data."
+    publishedDateTime: 2023-10-20T17:34:00Z
+    webUrl: "https://www.hcamag.com/us/specialization/hr-technology/ai-hiring-tools-keeping-skilled-professional-immigrants-out-of-job-market-report/463928"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 39
+      name: hcamag.com
+      domain: hcamag.com
+    quality: 34
     images:
-      - url: "https://www.cmswire.com/-/media/ebee0d313f0b4a58aa71de627c025297.ashx"
-        width: 640
-        height: 480
+      - url: "https://cdn-res.keymedia.com/cms/images/us/035/0321_638334200564065278.png"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "Ce3hLQgQgTph5/TrBrsBK2azvcqCCmWrWHPUcCn7q0+/qbQN+kgIVn+7BThNO6qxQGruiHJIFv1b2SoimR/qJ52NCCICzCKJDaWZyFOdca10avC5Str4g8uUVdDp7E42N4ToEmSghHcpZpM19m1wsRHguO7i+w9JihLvuE1GTEXBu+OugtRlQb4I0kKyQoS8vKzDmDc6PgteqKO4+Ncr79GJKRe2h+J7B1uwqFPn0YfpxpgCiZU5iSwAvb8qn5mnYJnXI8zmUfTo0IEik9NdCnp6N5aaSC6GPCpc4mNGKpC1sdvAFD38V4U7soKxmWFu59aQAphaHwCJoQm64eRUyq9mHRDbd31HEsXVftxhrCyYIEyDhL1+mhnvhjLTArIeE5xMu9LJlgSas0DzZYGg7s5T0zWmfebo8xvIJXM+lg9f1VyvZvfrRfplV2G/+1WKFqiiYzdLSqKhHIiwEHJX/XVxEuUs7j09qa9xYq5CIQXFqSgwO0bx16MVxnvFrJPkqK6XNcSwQpVpk0NDT5Qt6Q==;YtdzIt/V6i+7qJYZAySmIg=="

@@ -98,6 +98,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-20-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
+      "title": "China’s Baidu Races Waymo, GM to Develop Self-driving Cars",
+      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane.",
+      "sourceUrl": null,
+      "webUrl": "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
+      "originalUrl": "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thediplomat.com/wp-content/uploads/2022/06/sizes/td-story-s-2/thediplomat_2022-06-29-165744.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Diplomat",
+        "domain": "thediplomat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-tesla-hits-the-brakes-on-evs-but-not-on-ai.md",
       "title": "Tesla Hits the Brakes on EVs, but Not on AI",
       "excerpt": "After years of growing at breakneck speed, the carmaker seems to be slowing down. That puts even more pressure on its big AI bets to deliver results.",
@@ -1334,49 +1377,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers.md",
-      "title": "Tesla Engineer Says ‘Full Self-Driving’ Name Isn’t Meant To Trick Buyers",
-      "excerpt": "An engineer from Tesla has asserted that the car manufacturer did not name its suite of automated driving functions as ‘Full Self-Driving’ in an intentional move to make customers believe the system is more advanced than it currently is.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/",
-      "originalUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2023/10/Tesla-Autopilot-a.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/",
-      "publishedDateTime": "2023-10-09T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

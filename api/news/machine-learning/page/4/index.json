@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-15-ais-next-leap-from-trillions-of-tokens-to-every-word-ever-written.md",
+      "title": "AI’s Next Leap: From Trillions Of Tokens To Every Word Ever Written",
+      "excerpt": "By John Werner At the AI for Impact course at MIT, in a conversation with Dave Blundin of Link Ventures, the trajectory of AI's evolution was laid out in a manner",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/09/14/ais-next-leap-from-trillions-of-tokens-to-every-word-ever-written/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/09/14/ais-next-leap-from-trillions-of-tokens-to-every-word-ever-written/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65033b85fb3035d47a2250b8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/09/14/ais-next-leap-from-trillions-of-tokens-to-every-word-ever-written/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/09/14/ais-next-leap-from-trillions-of-tokens-to-every-word-ever-written/amp/",
+      "publishedDateTime": "2023-09-14T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-why-your-ai-and-machine-learning-strategy-needs-a-solid-foundation.md",
       "title": "Why Your AI And Machine Learning Strategy Needs A Solid Foundation",
       "excerpt": "Organizations need a clear strategy for how and when they will incorporate AI and machine learning, and they need quality, well-governed data to serve as the bedrock for impactful automation, greater efficiencies and innovation.",
@@ -1298,49 +1350,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-04-flow-wfm-wins-the-emerging-leader-in-wfm-award-at-bpo-and-contact-center-summit-2023.md",
-      "title": "FLOW WFM wins the \"Emerging leader in WFM\" award at BPO and Contact Center Summit 2023",
-      "excerpt": "FLOW WFM showcased a plethora of features and benefits that empower contact centers to automate routine tasks, freeing up time to focus on delivering exceptional customer experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1345708&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1345708&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2199922/Emerging_leader_in_WFM.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-03T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

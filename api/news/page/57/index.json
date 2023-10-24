@@ -2,6 +2,109 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-09-12-the-7-best-ai-photo-editors-in-2023-to-retouch-and-elevate-your-photos.md",
+      "title": "The 7 best AI photo editors in 2023 to retouch and elevate your photos",
+      "excerpt": "With the power of AI, you no longer need to painstakingly fine-tune your creations. Here are the best AI photo editors available today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/best-ai-photo-editor-apps-3363313/",
+      "originalUrl": "https://www.androidauthority.com/best-ai-photo-editor-apps-3363313/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/04/dreamstudio-ai-stock-image.jpg",
+          "width": 1919,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T22:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-microsoft-google-and-antitrust-similar-legal-theories-in-a-different-era.md",
+      "title": "Microsoft, Google and Antitrust: Similar Legal Theories in a Different Era",
+      "excerpt": "and Microsoft controlled the software and services that were featured on those Windows PC screens. Google, on the other hand, has to work with and pay partners that make smartphones, browsers and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/09/11/technology/microsoft-google-antitrust.html",
+      "originalUrl": "https://www.nytimes.com/2023/09/11/technology/microsoft-google-antitrust.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/09/11/business/11google-microsoft/11google-microsoft-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-tim-burton-calls-out-ai-its-like-a-robot-taking-your-humanity-your-soul.md",
       "title": "Tim Burton calls out AI: ‘It’s like a robot taking your humanity, your soul’",
       "excerpt": "It’s like a robot taking your ... I could then start doing it.” Christopher Soto and USC poet and professor Jackie Wang have spent months talking about how AI will change writers ...",
@@ -1074,100 +1177,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-the-perils-of-dabbling-ai-and-the-practice-of-law.md",
-      "title": "\"The perils of dabbling\": AI and the practice of law",
-      "excerpt": "Tony Petruzzi and Helena Guye of Tucker Ellis discuss ethical concerns surrounding the use of AI systems that are especially relevant to the practice of law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/legalindustry/perils-dabbling-ai-practice-law-2023-09-11/",
-      "originalUrl": "https://www.reuters.com/legal/legalindustry/perils-dabbling-ai-practice-law-2023-09-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/mwi8AscWpC3YIK-8Mgz5f79k1Ro=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YPONJMTZVNLOPJCN6EO5HVPMQM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-aitxs-subsidiary-robotic-assistance-devices-group-rad-g-announces-solutions-for-emergency-phone-tower-manufacturers.md",
-      "title": "AITX's Subsidiary, Robotic Assistance Devices Group (RAD-G), Announces Solutions for Emergency Phone Tower Manufacturers",
-      "excerpt": "Blue Light Tower Manufacturers Now Have Access to RAD’s Award-Winning AI Analytics and Software SolutionsDetroit, Michigan, Sept. 11, 2023",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/aitx-s-subsidiary-robotic-assistance-devices-group-rad-g-announces-solutions-for-emergency-phone-tower-manufacturers-1032620092",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/aitx-s-subsidiary-robotic-assistance-devices-group-rad-g-announces-solutions-for-emergency-phone-tower-manufacturers-1032620092",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-23T21:44:00Z
 originalUrl: "https://techbullion.com/artificial-intelligence-in-business-explained-top-benefits-that-you-cannot-look-away/"
 webUrl: "https://techbullion.com/artificial-intelligence-in-business-explained-top-benefits-that-you-cannot-look-away/"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/10/Artificial-Intelligence-in-Business-Explained-1000x600.jpg"

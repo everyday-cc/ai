@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-24-rice-robotics-is-shattering-ai-stereotypes-one-friendly-robot-at-a-time.md",
+      "title": "Rice Robotics is Shattering AI Stereotypes, One Friendly Robot at a Time",
+      "excerpt": "While many still look at artificial intelligence (AI) with skepticism, fearing job loss or dystopian nightmares, Rice Robotics is flipping the script. Founded in Hong Kong and deeply rooted in the Japanese market, the start-up aims to redefine how we ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/10/24/rice-robotics-ai-stereotypes-friendly-robots/",
+      "originalUrl": "https://www.gizmochina.com/2023/10/24/rice-robotics-ai-stereotypes-friendly-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-23T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-24-university-of-edinburgh-expands-start-up-incubator-into-robotics.md",
       "title": "University of Edinburgh expands start-up incubator into robotics",
       "excerpt": "The University of Edinburgh is expanding its Venture Builder Incubator (VBI) programme, which helps turn research and innovations in robotics and artificial intelligence (AI) into commercially viable start-ups.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.insider.co.uk/news/university-edinburgh-expands-start-up-31257558",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -253,7 +296,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/oct/23/ai-recruitment-job-search-artificial-intelligence-employment",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1333,58 +1376,6 @@
         "name": "The Korea Times",
         "domain": "koreatimes.co.kr",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-14-ripcord-the-steve-wozniak-backed-file-scanning-startup-is-raising-new-cash.md",
-      "title": "Ripcord, the Steve Wozniak-backed file scanning startup, is raising new cash",
-      "excerpt": "Ripcord, a startup developing robots that can automatically digitize paper records ... Ripcord — fresh off of an integration partnership with OpenAI — is developing a generative AI tool that the startup had intended to launch in September, according ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/13/ripcord-the-steve-wozniak-backed-file-scanning-startup-is-raising-new-cash/",
-      "originalUrl": "https://techcrunch.com/2023/10/13/ripcord-the-steve-wozniak-backed-file-scanning-startup-is-raising-new-cash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/maksym-kaharlytskyi-Q9y3LRuuxmg-unsplash.jpg?resize=1200,798",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/13/ripcord-the-steve-wozniak-backed-file-scanning-startup-is-raising-new-cash/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/13/ripcord-the-steve-wozniak-backed-file-scanning-startup-is-raising-new-cash/amp/",
-      "publishedDateTime": "2023-10-13T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

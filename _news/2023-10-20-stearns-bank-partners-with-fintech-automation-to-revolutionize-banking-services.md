@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "FinTech Innovation Lab New York Opens Applications for 2024 Class"
-    excerpt: "Program founded by Accenture and Partnership Fund for New York City marks $2.6 billion in venture capital funding to date, seeks fintechs leveraging innovative technologies, including generative AI Ap"
-    publishedDateTime: 2023-10-19T09:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/b35324447/fintech-innovation-lab-new-york-opens-applications-for-2024-class"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35324447"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35324447"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Fintech as a Service Provider Wearonize Integrates Onfido’s ID Verification Solution"
     excerpt: "A Fintech as a Service provider selects Onfido for its AI-powered digital identity solution to streamline and secure customer onboarding."
     publishedDateTime: 2023-10-24T00:27:00Z
@@ -50,20 +34,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/ID-Identification.png"
         width: 1200
         height: 1607
-        isCached: true
-  - title: "Applications open for Fintech Innovation Lab NY 2024"
-    excerpt: "Applications are now open for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture and the Partnership Fund for New York City that helps early- and growth-stage fintech companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
-    publishedDateTime: 2023-10-19T15:19:00Z
-    webUrl: "https://www.finextra.com/pressarticle/98471/applications-open-for-fintech-innovation-lab-ny-2024"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
         isCached: true
 
 secured: "843ol/c42qRNQcR+HJKEsHFnVGHX01ytjZFKtD3HSNxhDRjE589BYvQQ6NSvCPn1XnVQNnPKiBsdA7q1GkBEUyQp0CT9/4gfyUSGx+CXb4+d7XCQL5vHgHBQU6DmWk7hiA4QYCjEh0MfLssVIj8B1zNiU/reI/MMknvQ55AUE3Z49yDoj6A0HewmAj1Lji780BgolOq4m7veuAWI5WpEwbHTt1VBbbEbdkdt4smYM7yubcEKxZPHRuci/QUpk8hjDIzh2UIkca/S81X5j4NfDjBQt/stJyquqGQScTRok/thX00mVtyf4fTBcDbY7TvP1GA/0sfdMo8Sa50iiLmhnM0I1AH9k4j2y3oZ8IWARJw=;glDgGdBhvhaScYGYWAs2yw=="

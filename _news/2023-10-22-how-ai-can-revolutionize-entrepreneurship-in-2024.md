@@ -18,29 +18,103 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence has impact and revolutionises social development"
-    excerpt: "Artificial Intelligence (AI) as an enabler of futures poses crucial challenges in the ambit of research and the formation of professionals. In an"
-    publishedDateTime: 2023-10-20T02:31:00Z
-    webUrl: "https://www.pressenza.com/2023/10/artificial-intelligence-has-impact-and-revolutionises-social-development/"
+  - title: "How AI Can Impact Companies"
+    excerpt: "Embracing responsible AI deployment, fostering a culture of innovation and prioritizing continuous learning are essential for businesses to thrive in an AI-driven era."
+    publishedDateTime: 2023-10-23T12:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/amp/"
     type: article
     provider:
-      name: Pressenza
-      domain: pressenza.com
-    quality: 36
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://cdn77.pressenza.com/wp-content/uploads/2023/06/book-catalogue.jpg"
-        width: 360
-        height: 203
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65329a6eb5a2b7609dec2392/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
         isCached: true
-  - title: "Enterprise software developers prepare for generative AI’s ‘productivity revolution’"
-    excerpt: "By all accounts, the impact of generative AI on software development will be profound. A recently published survey by GBH Insights LLC, which does business as GBK Collective, found that 78% of companies expect to use AI for software development within the next three to five years."
-    publishedDateTime: 2023-10-23T18:59:00Z
-    webUrl: "https://siliconangle.com/2023/10/23/enterprise-software-developers-prepare-generative-ais-productivity-revolution/"
+  - title: "How Companies Can Embrace Generative AI’s Superpowers"
+    excerpt: "Today, generative AI is no longer the elusive domain of tech giants. Even small businesses can afford to use its superpowers."
+    publishedDateTime: 2023-10-23T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 12
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647f38c95ad531f8e9178353/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Companies Look to Human Moderators to Keep AI Apps in Line"
+    excerpt: "Borrowing from social-media platforms, software maker Intuit is hiring content moderators to help keep toxic language and other bad behavior off its AI systems."
+    publishedDateTime: 2023-10-23T16:53:00Z
+    webUrl: "https://www.wsj.com/articles/companies-look-to-human-moderators-to-keep-ai-apps-in-line-9507fa35"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-873723/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Gartner: How AI Will Impact Work"
+    excerpt: "AI isn't likely to reduce jobs any time soon, Gartner says, but it will impact the way we work. Will you view AI as a teammate?"
+    publishedDateTime: 2023-10-23T17:37:00Z
+    webUrl: "https://www.pcmag.com/articles/gartner-how-ai-will-impact-work"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02PdGp7OwlXIzFLjyMK8FRI-1.fit_lim.size_1200x630.v1698080183.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "How Artificial Intelligence Is Changing Business"
+    excerpt: "Artificial intelligence (AI) has become a transformative force in the business world, revolutionizing the way companies operate and interact with their customers"
+    publishedDateTime: 2023-10-19T15:09:00Z
+    webUrl: "https://thesiliconreview.com/2023/10/how-artificial-intelligence-is-changing-business"
+    type: article
+    provider:
+      name: thesiliconreview
+      domain: thesiliconreview.com
+    quality: 39
+    images:
+      - url: "https://thesiliconreview.com/story_image_upload/article/thesiliconreview-how-artificial-intelligence-is-changing-business.jpg"
+        width: 840
+        height: 449
+        isCached: true
+  - title: "PIONEER IN FINTECH DEMONSTRATES IMPACT OF AI IN PAYMENTS AT MASTERCARD EVENT DURING MONEY20/20"
+    excerpt: "Serial fintech founder to address looming industry regulation and how AI can deliver more value to consumers and businesses  LAS"
+    publishedDateTime: 2023-10-23T11:45:00Z
+    webUrl: "https://menafn.com/1107286496/PIONEER-IN-FINTECH-DEMONSTRATES-IMPACT-OF-AI-IN-PAYMENTS-AT-MASTERCARD-EVENT-DURING-MONEY2020"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?288618"
+        width: 375
+        height: 249
+        isCached: true
+  - title: "Music Companies Take Legal Action Against Amazon-Backed AI Startup"
+    excerpt: "A recent legal battle is brewing in the music world. Three top music companies are suing Anthropic, an AI firm. They claim the company's AI, Claude, is using their song lyrics without permission. This"
+    publishedDateTime: 2023-10-20T13:15:00Z
+    webUrl: "https://techround.co.uk/news/music-companies-take-legal-action-against-amazon-backed-ai-startup/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 17
 
 secured: "mlUtkEhdQpXKAaFOJJHsVvsb6QnmGhDzcOzLaUyZk5jBT1JmUuELttKG34l59LKRvh4sUTNYB04HgPimzeseaXFI0w4rWrk2/Dhe26OUgY7uBLWHMQtFa0KFneHJ0c/asErR5u53oPNalAhGGNwDPIEJ03GPqvkoL0xrI6iyEBrTm4C6ThKsk6QSi6XAOL58ONXgUYp0X0/e+/Rc7nru2ZgQnrwYtb/Rht5w8Exb2neV+Yvd2xjAWYmXbzM+pdtgMf8CI5NyAxU+fM56/YlIr3WKp5myOw/GlrUrMx5bCWmlrUtCuCOyZnDfD1GonS6KY0D2TZvWjAQDFZlmCdS+OROm00sPYJtCJ4IbU15U2twtpiDuUZulautT4uYpqUMZblDaJhZUVKgLlgwzuepQXZlRYyEe6SEl1RU1RG9BD+cjyobUaUvHYylhbyfbJT5O9H76auWg1IQ6VFQ8VR4uPNwsrJj+ZVu1lEJGWJEGJ1KsTFBDkE+BEGkbH1/O1KPL63s53QmV6H13ghjKh1t5jg==;8GtL9w8MmZFLAYbEv3kzDg=="
 ---

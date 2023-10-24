@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/news/ai-models-lack-transparency-researc
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-models-lack-transparency-research-13234812"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Barron's
@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Stanford researchers find biggest AI models rank low on transparency"
-    excerpt: "In a time when ethics are openness have become a want in AI, Rishi Bommasani, the society lead at CRFM noted that transparency has become a valuable trait. Music publishers sue AI company Anthropic over song lyrics “A lack of transparency has long been ..."
-    publishedDateTime: 2023-10-19T09:55:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/stanford-researchers-find-biggest-ai-models-rank-low-on-transparency/article67437802.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/stanford-researchers-find-biggest-ai-models-rank-low-on-transparency/article67437802.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/stanford-researchers-find-biggest-ai-models-rank-low-on-transparency/article67437802.ece/amp/"
+  - title: "Stanford researchers challenge OpenAI, others on AI transparency in new report"
+    excerpt: "The researchers behind the Foundation Model Transparency Index research paper include primary author Rishi Bommasani, a PhD candidate in computer science at Stanford, and also Kevin Klyman, Shayne Longpre, Sayash Kapoor, Nestor Maslej, Betty Xiong, and Daniel Zhang."
+    publishedDateTime: 2023-10-23T19:59:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/amp/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
     images:
-      - url: "https://th-i.thgim.com/public/incoming/p8b9ua/article67437797.ece/alternates/FREE_1200/2023-10-18T050040Z_198153068_RC2SU3AUSS01_RTRMADP_3_AI-BRITAIN-SUMMIT.JPG"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Top Artificial Intelligence Models Lack Transparency: Study"
-    excerpt: "Artificial intelligence models lack transparency, according to a study published Wednesday that aims to guide policymakers in regulating the rapidly-growing technology."
-    publishedDateTime: 2023-10-19T12:48:00Z
-    webUrl: "https://www.ndtv.com/world-news/top-artificial-intelligence-models-lack-transparency-study-4496928"
-    ampWebUrl: "https://www.ndtv.com/world-news/top-artificial-intelligence-models-lack-transparency-study-4496928/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/top-artificial-intelligence-models-lack-transparency-study-4496928/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://i.ndtvimg.com/i/2016-09/artificial-intelligence_650x400_61475215891.jpg"
-        width: 650
-        height: 400
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_windshield_1-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Research: AI models lack transparency"
     excerpt: "Artificial intelligence models lack transparency, according to a study published Wednesday that aims to guide policymakers in regulating the"
@@ -75,20 +59,31 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Transparency Seems to Die a Death at the Government’s AI Summit"
-    excerpt: "The Government is hosting a high-profile, much advertised AI Safety Summit in November. Among those rumoured to be attending are King Charles, alongside Justin Trudeau, Ursula von der Leyen, Emmanuel Macron,"
-    publishedDateTime: 2023-10-23T10:47:00Z
-    webUrl: "https://bylinetimes.com/2023/10/23/transparency-seems-to-die-a-death-at-the-governments-ai-summit/"
+  - title: "Stanford study indicates AI chatbots used by health providers are perpetuating racism"
+    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors' notes and analyze health records."
+    publishedDateTime: 2023-10-20T21:41:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
     type: article
     provider:
-      name: bylinetimes
-      domain: bylinetimes.com
-    quality: 39
+      name: CBS News
+      domain: cbsnews.com
+    quality: 50
     images:
-      - url: "https://bylinetimes.com/wp-content/uploads/2023/10/2R7ATT4-600x314.jpg"
-        width: 600
-        height: 314
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/21/4e6a50d0-75dc-414b-9810-f1e98dd12cce/thumbnail/1200x630/bd6fc97710b8b2b2bb4072321ee60167/ap23290859783861.jpg?v=18a5d3569ab1a3ca759fe14d213f7845"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "While tech companies play with OpenAI’s API, this startup believes small, in-house AI models will win"
+    excerpt: "You can also take advantage of managed cloud services, such as EC2, Vertex Pipelines and SageMaker. ZenML also integrates with open source ML tools from Hugging Face, MLflow, TensorFlow, PyTorch, etc. “ZenML is sort of the thing that brings everything ..."
+    publishedDateTime: 2023-10-23T18:27:00Z
+    webUrl: "https://techcrunch.com/2023/10/23/zenml-empowers-companies-to-build-their-own-ai-stack-based-on-open-source-tools/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 34
 
 secured: "w7YS/nfJCKAmc7nwrScnKJUdg+Yo9FRs+lJwQ9Eo6Ecc0xwTXuSdUEX26RoCxmi+J4HytTQOo1IzoSFkeDGYCvlsz4mxlpu12qYvutxJ/k0htsfuu2+SKOfJ2BoY8R2rFzTZTGxKG6XZXO6Ov4IiWPmblRlerRDCMxh4ylzR5Q7uAn+QfScQHHKmsIilT6AZTQj3eadiZGtqEQKNCobE4uB9d9wV3GZcPB72YhQGjDWIppbdeurLfPGUNQRKOmop1go1vC6a7z6PHYW4co647kPxyvh7Ga/XmZwiseQwSlBeX8GyZXEoZxgHB+cmdmHpaLiwPDJxsh1SL6dQRdDOUpyRMwdZQNuTzWpgUeg3OEavS8/GmjdxZFPZ813616PgRH/4mSWW/4321WrBTqEfj82QBdyp1IWN0kXUM/Bu0kM3W7BsTIOCeFe1deukI8613E0muLgn4n2RfTFxyPbNCyPgoNrKdvwtn80wVoySqaPKMT8cEhK7HHhVbrI7GshJ7WNBEJMUDRnMXyV64aT0Gw==;QOd2MlGfBu3Tf3uLWcnTUQ=="
 ---

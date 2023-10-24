@@ -2,6 +2,82 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-10-10-retransmission-hive-digital-provides-update-on-gpu-infrastructure-for-ai-and-hpc.md",
+      "title": "RETRANSMISSION: HIVE Digital Provides Update on GPU Infrastructure for AI and HPC",
+      "excerpt": "HIVE President and CEO Aydin Kilic stated, \"We're on track to have 3,200 GPUs, mostly powerful Nvidia A40s, up and running in the AI/HPC space by the end of October.\" Mr. Kilic continued ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/retransmission%3A-hive-digital-provides-update-on-gpu-infrastructure-for-ai-and-hpc",
+      "originalUrl": "https://www.nasdaq.com/press-release/retransmission%3A-hive-digital-provides-update-on-gpu-infrastructure-for-ai-and-hpc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-deploying-applications-built-in-external-ci-through-ibm-cloud-devsecops.md",
+      "title": "Deploying applications built in external CI through IBM Cloud DevSecOps",
+      "excerpt": "What is IBM Cloud DevSecOps and how can it be used to guarantee secure and compliant applications?\nThe post Deploying applications built in external CI through IBM Cloud DevSecOps appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/deploying-applications-built-in-external-ci-through-ibm-cloud-devsecops/",
+      "originalUrl": "https://www.ibm.com/blog/deploying-applications-built-in-external-ci-through-ibm-cloud-devsecops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T05:44:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-ai-animation-art-therapy-and-the-importance-of-childlike-creativity.md",
       "title": "AI animation, art therapy and the importance of childlike creativity",
       "excerpt": "Do you think the future looks bleak? As our lives advance - along with our technology - will we become less creative? Ari Kuschnir, Founder and Managing Partner at m ss ng p eces, thinks not. Instead,",
@@ -767,49 +843,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-10-supernova-festival-how-massacre-unfolded-from-verified-video-and-social-media.md",
-      "title": "Supernova festival: How massacre unfolded from verified video and social media",
-      "excerpt": "They had gathered in a remote area of southern Israel for the Supernova festival - an event that had promised dance, music, art and drinks at a secret location. Ticket holders were told, nearer the time, to head to a site north of the Re'im kibbutz, about 6km (3.7 miles) east of Gaza. The party's organisers promised a \"journey of unity and love\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.the-star.co.ke/news/world/2023-10-10-supernova-festival-how-massacre-unfolded-from-verified-video-and-social-media/",
-      "originalUrl": "https://www.the-star.co.ke/news/world/2023-10-10-supernova-festival-how-massacre-unfolded-from-verified-video-and-social-media/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/0TTOXyzGWzvAifUvS_zT1u8lWdDxPBHORhVW6FqrU2UCgYbY2J2_l43RcAr7VGXM_A0Vkk63tZvauc7K3W2IOvM-0rcA7DNnHDEBDgwUBQ=s1000",
-          "width": 1000,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "the-star.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-10-56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use.md",
       "title": "56% of professionals are unsure if their companies have ethical guidelines for AI use",
       "excerpt": "According to survey respondents in Deloitte's second edition Technology Trust Ethics Report, cognitive technologies such as generative AI have the most potential for both social good and serious ethical risk.",
@@ -1142,49 +1175,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-ey-and-ibm-launch-artificial-intelligence-solution-designed-to-help-increase-productivity-and-drive-efficiencies-within-hr.md",
-      "title": "EY and IBM launch artificial intelligence solution designed to help increase productivity and drive efficiencies within HR",
-      "excerpt": "The EY organization and IBM (NYSE: IBM) today announced the launch of EY.ai Workforce, an innovative HR solution that helps enable organizations to integrate artificial intelligence (AI) into their key HR business processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/10/9895764.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/10/9895764.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1721690/EY_Logo.jpg",
-          "width": 341,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

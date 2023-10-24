@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-24-rice-robotics-is-shattering-ai-stereotypes-one-friendly-robot-at-a-time.md",
+      "title": "Rice Robotics is Shattering AI Stereotypes, One Friendly Robot at a Time",
+      "excerpt": "While many still look at artificial intelligence (AI) with skepticism, fearing job loss or dystopian nightmares, Rice Robotics is flipping the script. Founded in Hong Kong and deeply rooted in the Japanese market, the start-up aims to redefine how we ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/10/24/rice-robotics-ai-stereotypes-friendly-robots/",
+      "originalUrl": "https://www.gizmochina.com/2023/10/24/rice-robotics-ai-stereotypes-friendly-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-23T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-24-analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up.md",
       "title": "Analyst Kuo: $5 Billion on AI Servers in 2024 In Attempt to Catch Up",
       "excerpt": "Apple could spend upwards of $5 billion on servers alone in the next two years as it attempts to catch up with competitors in the generative AI field. On",
@@ -105,7 +148,7 @@
       "originalUrl": "https://www.insider.co.uk/news/university-edinburgh-expands-start-up-31257558",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -148,7 +191,7 @@
       "originalUrl": "https://www.theverge.com/2023/10/23/23929271/pimeyes-facial-recognition-ai-children-privacy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -244,21 +287,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-24-gartner-how-ai-will-impact-work.md",
-      "title": "Gartner: How AI Will Impact Work",
-      "excerpt": "AI isn't likely to reduce jobs any time soon, Gartner says, but it will impact the way we work. Will you view AI as a teammate?",
+      "path": "_news/2023-10-24-stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report.md",
+      "title": "Stanford researchers challenge OpenAI, others on AI transparency in new report",
+      "excerpt": "The researchers behind the Foundation Model Transparency Index research paper include primary author Rishi Bommasani, a PhD candidate in computer science at Stanford, and also Kevin Klyman, Shayne Longpre, Sayash Kapoor, Nestor Maslej, Betty Xiong, and Daniel Zhang.",
       "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/articles/gartner-how-ai-will-impact-work",
-      "originalUrl": "https://www.pcmag.com/articles/gartner-how-ai-will-impact-work",
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 123,
       "tags": null,
       "images": [
         {
-          "url": "https://i.pcmag.com/imagery/articles/02PdGp7OwlXIzFLjyMK8FRI-1.fit_lim.size_1200x630.v1698080183.jpg",
-          "width": 1120,
-          "height": 630,
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_windshield_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -266,16 +309,67 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T10:37:00-07:00",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/amp/",
+      "publishedDateTime": "2023-10-23T12:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-ai-fakes-are-everywhere-how-to-spot-them.md",
+      "title": "AI fakes are everywhere — how to spot them",
+      "excerpt": "Concerns are growing as a new era of AI deepfakes are flooding the internet, learn from a tech expert on how to protect yourself against faked media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-fakes-everywhere-how-spot-them",
+      "originalUrl": "https://www.foxnews.com/tech/ai-fakes-everywhere-how-spot-them",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dde8350b-8144-4602-b6ac-b67e9f23af6a/91159f90-dd88-4977-bef3-6b2b353553e8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-fakes-everywhere-how-spot-them.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-fakes-everywhere-how-spot-them.amp",
+      "publishedDateTime": "2023-10-23T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -448,7 +542,7 @@
       "originalUrl": "https://www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -774,6 +868,58 @@
       ]
     },
     {
+      "path": "_news/2023-10-23-how-ai-can-impact-companies.md",
+      "title": "How AI Can Impact Companies",
+      "excerpt": "Embracing responsible AI deployment, fostering a culture of innovation and prioritizing continuous learning are essential for businesses to thrive in an AI-driven era.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65329a6eb5a2b7609dec2392/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/amp/",
+      "publishedDateTime": "2023-10-23T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-10-23-opinion-big-tech-is-battling-to-put-ai-on-your-pc-laptop-and-smartphone.md",
       "title": "Opinion: Big tech is battling to put AI on your PC, laptop and smartphone",
       "excerpt": "It also has the most robust software ecosystem to enable AI processing of any technology company, with a multiyear head start over any competitor. We haven’t heard much from Nvidia when it comes to on-device, client AI. (Recently Nvidia disclosed a ...",
@@ -873,57 +1019,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-23-how-companies-can-embrace-generative-ais-superpowers.md",
-      "title": "How Companies Can Embrace Generative AI’s Superpowers",
-      "excerpt": "Today, generative AI is no longer the elusive domain of tech giants. Even small businesses can afford to use its superpowers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647f38c95ad531f8e9178353/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/amp/",
-      "publishedDateTime": "2023-10-23T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1106,100 +1201,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-23-ibm-and-aws-leap-deeper-into-bed-for-ai-love-affair.md",
-      "title": "IBM and AWS leap deeper into bed for AI love affair",
-      "excerpt": "AWS is the latest partner for veteran tech giant IBM. But where does that leave the latter on AI? We ask IBM Consulting’s AI chief.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ibm-and-aws-leap-deeper-bed-ai-love-affair",
-      "originalUrl": "https://diginomica.com/ibm-and-aws-leap-deeper-bed-ai-love-affair",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2023-10/BA999656-EE0E-43A6-AC71-5CA79A1311E7.jpeg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ibm-and-aws-leap-deeper-bed-ai-love-affair?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ibm-and-aws-leap-deeper-bed-ai-love-affair?amp",
-      "publishedDateTime": "2023-10-23T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-23-what-ai-wont-replace-in-your-programming.md",
-      "title": "What AI won’t replace in your programming",
-      "excerpt": "Generative AI is great at handling tedium and finding errors, but the expertise and intuition of programmers will always be essential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.html",
-      "originalUrl": "https://www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/06/18/worried-concerned-programmer-developer-coder-100946865-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.amp.html",
-      "publishedDateTime": "2023-10-23T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

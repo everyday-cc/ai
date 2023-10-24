@@ -57,20 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Login.gov to add facial recognition tech"
-    excerpt: "The General Services Administration is changing its digital identity service to allow users to authenticate themselves by matching against a previously submitted government ID."
-    publishedDateTime: 2023-10-19T10:00:00Z
-    webUrl: "https://www.govexec.com/technology/2023/10/logingov-add-facial-recognition-tech/391307/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 39
-    images:
-      - url: "https://cdn.govexec.com/media/img/cd/2023/10/18/101823_getty_ng_facial_recog-1/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Essex Police reassure public on facial recognition in Southend"
     excerpt: "For the first time in Essex, police will be using high-tech cameras in a bid to try to find and arrest wanted crooks."
     publishedDateTime: 2023-10-22T03:19:00Z
@@ -99,15 +85,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Scotland Yard to use facial recognition tech to nab shoplifters in UK"
-    excerpt: "Scotland Yard on Thursday announced plans to use innovative facial recognition technology to identify Londons most prolific retail offenders and shoplifters.The citys Metropolitan Police force said retail crime is responsible for the loss of an estimated 1."
-    publishedDateTime: 2023-10-19T09:51:00Z
-    webUrl: "https://www.devdiscourse.com/article/law-order/2655312-scotland-yard-to-use-facial-recognition-tech-to-nab-shoplifters-in-uk"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 19
   - title: "Met Police roll out facial recognition technology to tackle London’s shoplifting"
     excerpt: "Britain's biggest police force is using facial recognition technology to tackle London's worst shoplifters by matching CCTV stills to mugshots."
     publishedDateTime: 2023-10-19T13:22:00Z

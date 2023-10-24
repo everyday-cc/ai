@@ -1,21 +1,21 @@
 ---
 category: news
 title: "LiveRamp Announces Identity Integration with AWS Entity Resolution to Increase Marketing Interoperability"
-excerpt: "media collaboration in AWS Clean Room collaborations, and artificial intelligence (AI) model development with Amazon SageMaker. RampID also helps brand marketers enrich their cloud data infrastructure by unlocking more granular insights about their customers."
-publishedDateTime: 2023-10-17T13:06:00Z
-originalUrl: "https://www.cmswire.com/the-wire/liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability/"
-webUrl: "https://www.cmswire.com/the-wire/liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability/"
+excerpt: "It supports and enhances cross-channel media measurement workflows in AWS data lakes, media collaboration in AWS Clean Room collaborations, and artificial intelligence (AI) model development with Amazon SageMaker. RampID also helps brand marketers enrich ..."
+publishedDateTime: 2023-10-17T12:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/10/17/9899936.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/10/17/9899936.htm"
 type: article
 
 provider:
-  name: CMS Wire
-  domain: cmswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
   - AI in Marketing
 
-secured: "FWBtW0KlMXYfA+MbuDGZGrQzkOEjfxw7rWCl/q726O1Cw53bO66ZB87Ug6ZWJ3NZl1QyCeytWQau03goq8TCQmCjpSsZ5xgCEeYp+FWf8IyN8axj/sRaSlF2ncRCRsLQqBeNyb/nDUygCudcJRMuLmQNvRO7LIe1uCTZp7M8MSOCzrOZ09KD392fX2iXAomy044pcVwJPlkySR8iPmXFQD+FXg9lg+HnZd4jbSv3ISn8pAWNR9D/nqjT0hKVSbBTCzyikR7dPmP8AsqlVEaD2A0JU8U0A7hxa/NizVyR1r7Y9e3HRirsjSwuBqwSCpah2VqcVpTCB9wzBODcmUtsCRAtqE+rHR27XAb32icchqE=;VOcn1lxaDt99PIcyHVfR9g=="
+secured: "MEMyXLUTct/VdeSBdhcS3+xvc1/9XC0qM/s+4KMOAXADCh3HfbSo57WZXCdbXzHJpAWmWb2yI0OAxGn2owg2vfMiybHZHGGTVLCErKb2vFz3wmtcpApz384oNtbN6Jud1GErSfa5YdpRa5lLM/rWNAkDagj6f/AD2FiZUbww42zhq6ksTo0vdha4W0yL40Q8WeGNEmPQZ+jgouWfVXnlrmpoRy16ro7cpQLVnNaQKHX6Or7+UM6zYgberIfuFvr6SKpS1vsGsAylUZg4quHTQXlG75nkrAPWA6aFSR7l94D4dRbxoHsmB7x6BOLPCEBE4Bbjzg5z5T7WASYYMxvQHBUC+fcSBZS1PrQlGQC0Zk4=;pYzXVyDGL52BjN/gY19R6g=="
 ---
 

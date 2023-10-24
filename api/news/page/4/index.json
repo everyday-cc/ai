@@ -2,21 +2,21 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-10-19-ai-models-lack-transparency-research.md",
-      "title": "AI Models Lack Transparency: Research",
-      "excerpt": "Artificial intelligence models lack transparency, according to a study published Wednesday that aims to guide policymakers in regulating the rapidly-growing technology.",
+      "path": "_news/2023-10-19-tech-live-2023-how-meta-plans-to-connect-you-to-ai-friends.md",
+      "title": "Tech Live 2023: How Meta Plans to Connect You to AI Friends",
+      "excerpt": "Meta runs Facebook, Instagram ... Joanna Stern: But they're AI personas. Chris Cox: Exactly. So the other thing we built is, in doing the research for how do you make these chatbots engaging, what is it that works for people with these chatbots?",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/ai-models-lack-transparency-research-13234812?refsec=topics_afp-news",
-      "originalUrl": "https://www.barrons.com/news/ai-models-lack-transparency-research-13234812?refsec=topics_afp-news",
+      "webUrl": "https://www.wsj.com/podcasts/google-news-update/tech-live-2023-how-meta-plans-to-connect-you-to-ai-friends/50df721b-db21-4bcf-b819-09d9ec1014d4",
+      "originalUrl": "https://www.wsj.com/podcasts/google-news-update/tech-live-2023-how-meta-plans-to-connect-you-to-ai-friends/50df721b-db21-4bcf-b819-09d9ec1014d4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP5078617444604516448381783324554086861462---1.jpg",
-          "width": 768,
-          "height": 511,
+          "url": "https://images.wsj.net/im-375914?width=1280",
+          "width": 1280,
+          "height": 1280,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/ai-models-lack-transparency-research-13234812",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-models-lack-transparency-research-13234812",
-      "publishedDateTime": "2023-10-19T08:16:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T09:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -41,6 +50,110 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-tesla-hits-the-brakes-on-evs-but-not-on-ai.md",
+      "title": "Tesla Hits the Brakes on EVs, but Not on AI",
+      "excerpt": "After years of growing at breakneck speed, the carmaker seems to be slowing down. That puts even more pressure on its big AI bets to deliver results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/business/autos/tesla-is-hitting-the-brakes-on-everything-but-ai-3ef7ce85?mod=hp_lead_pos3",
+      "originalUrl": "https://www.wsj.com/business/autos/tesla-is-hitting-the-brakes-on-everything-but-ai-3ef7ce85?mod=hp_lead_pos3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-869941/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-nvidia-gives-robotics-a-major-upgrade.md",
+      "title": "Nvidia Gives Robotics A Major Upgrade",
+      "excerpt": "According to Nvidia, these releases include more value than all the other releases over the past 10 years combined.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65314c2819c4e506a67ca4d8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1280,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/amp/",
+      "publishedDateTime": "2023-10-19T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -363,7 +476,7 @@
       "originalUrl": "https://www.bbc.com/news/uk-england-london-67149222",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1116,93 +1229,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-evaluating-social-and-ethical-risks-from-generative-ai.md",
-      "title": "Evaluating social and ethical risks from generative AI",
-      "excerpt": "Generative AI systems are already being used to write books, create graphic designs, assist medical practitioners, and are becoming increasingly capable. To ensure these systems are developed and deployed responsibly requires carefully evaluating the potential ethical and social risks they may pose.In",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/evaluating-social-and-ethical-risks-from-generative-ai",
-      "originalUrl": "https://www.deepmind.com/blog/evaluating-social-and-ethical-risks-from-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries.md",
-      "title": "Amazon Introducing Warehouse Overhaul With Robotics to Speed Deliveries",
-      "excerpt": "Amazon.com is introducing an array of new artificial intelligence and robotics capabilities into its warehouse operations that will reduce delivery times and help identify inventory more quickly. The revamp will change the way Amazon moves products through its fulfillment centers with new AI-equipped sortation machines and robotic arms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/special-report/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries-11697632017638.html",
-      "originalUrl": "https://www.livemint.com/special-report/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries-11697632017638.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/im-870484_1697632022016_1697632035154.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/special-report/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries/amp-11697632017638.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/special-report/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries/amp-11697632017638.html",
-      "publishedDateTime": "2023-10-18T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

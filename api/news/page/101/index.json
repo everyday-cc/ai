@@ -2,6 +2,102 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2023-08-11-a-roadmap-to-help-ai-technologies-speak-african-languages.md",
+      "title": "A roadmap to help AI technologies speak African languages",
+      "excerpt": "From text-generating ChatGPT to voice-activated Siri, artificial intelligence-powered tools are designed to aid our everyday life—as long as you speak a language they support. These technologies are out of reach for billions of people who don't use English,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-08-roadmap-ai-technologies-african-languages.html",
+      "originalUrl": "https://phys.org/news/2023-08-roadmap-ai-technologies-african-languages.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/african-language.jpg",
+          "width": 1920,
+          "height": 1238,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-08-roadmap-ai-technologies-african-languages.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-roadmap-ai-technologies-african-languages.amp",
+      "publishedDateTime": "2023-08-11T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency.md",
+      "title": "Amazon Translate enhances its custom terminology to improve translation accuracy and fluency",
+      "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. When you translate from one language to another, you want your machine translation to be accurate, fluent, and most importantly contextual. Domain-specific and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/11/amazon-translate-enhances-fluency.jpg",
+          "width": 908,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T07:59:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-zero-shot-text-classification-with-amazon-sagemaker-jumpstart.md",
       "title": "Zero-shot text classification with Amazon SageMaker JumpStart",
       "excerpt": "Natural language processing (NLP) is the field in machine learning (ML) concerned with giving computers the ability to understand text and spoken words in the same way as human beings can. Recently, state-of-the-art architectures like the transformer architecture are used to achieve near-human performance",
@@ -1082,101 +1178,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-american-airlines-uses-google-ai-to-map-out-environmentally-friendly-flight-paths.md",
-      "title": "American Airlines Uses Google AI to Map Out Environmentally Friendly Flight Paths",
-      "excerpt": "Google Research and AA join forces to create flight paths that produce fewer contrails, the thin white lines you often see behind planes. Early results are promising.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/american-airlines-uses-google-ai-to-map-out-environmentally-friendly-flight",
-      "originalUrl": "https://www.pcmag.com/news/american-airlines-uses-google-ai-to-map-out-environmentally-friendly-flight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/04AAbAeVeJinOoug3fEFQcy-1.fit_lim.size_1200x630.v1691700084.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
-      "title": "Mountain View Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
-      "excerpt": "MOUNTAIN VIEW, Calif., Aug. 10, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by ThoughtSpot in Mountain View. Applications for the no-cost bootcamp are closing soon!",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032542192",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032542192",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 341,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.tomsguide.com/how-to/how-to-use-copilot-to-control-win
 webUrl: "https://www.tomsguide.com/how-to/how-to-use-copilot-to-control-windows"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "Windows 11's Copilot AI gets some useful tweaks - but we hope bigger changes are coming soon"
-    excerpt: "Popular Now: PlayStation 5 Pro specs: CPU clocks higher, heavily beefed-up GPU in 2024 In previous builds, when you clicked on Copilot and the side-panel (which may eventually be expandable) came into view from the right-hand side of the screen, the AI ..."
-    publishedDateTime: 2023-10-19T18:54:00Z
-    webUrl: "https://www.tweaktown.com/news/93894/windows-11s-copilot-ai-gets-some-useful-tweaks-but-we-hope-bigger-changes-are-coming-soon/index.html"
+  - title: "AI fakes are everywhere — how to spot them"
+    excerpt: "Concerns are growing as a new era of AI deepfakes are flooding the internet, learn from a tech expert on how to protect yourself against faked media."
+    publishedDateTime: 2023-10-23T19:28:00Z
+    webUrl: "https://www.foxnews.com/tech/ai-fakes-everywhere-how-spot-them"
+    ampWebUrl: "https://www.foxnews.com/tech/ai-fakes-everywhere-how-spot-them.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-fakes-everywhere-how-spot-them.amp"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 8
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dde8350b-8144-4602-b6ac-b67e9f23af6a/91159f90-dd88-4977-bef3-6b2b353553e8/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Developers are embracing AI-enabled tools. Here’s how that’s changing the way they code"
+    excerpt: "the AI tool doesn’t give him what he needs out of the box, he can just follow up with a refined prompt to get closer to what he needs. Chatbots can also be extremely useful for learning new frameworks and coding languages. As long as the LLM is well ..."
+    publishedDateTime: 2023-10-23T18:03:00Z
+    webUrl: "https://siliconangle.com/2023/10/23/developers-embracing-ai-enabled-tools-heres-thats-changing-way-code/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/computer-2557299_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "g2iwTNj9Wuvy3uwun2A9Gya5KXCztzMsNfHrc3IA/IGTgFWMU5dRD4hB3QP4YCDVZsFAVznDjTukF1Z82nXA0td8NgxUbm2iy9wUqsjXDhU2DkIsJHtpC1NZ6iNmgFUTxyLp5rGVrPkcfD+vmQtlGTNDrMO2dJR1l72jm45jZZVqSIyH1J9V5vCKyJE12sWu/n75oFKW2PYMDT4aX2T2FSF2Vvbfj/iVfYPWYSt3UUTuo158FKpjA/pT62UtxcZ7POMW2wWEaIpzjJlKKVHqvdo8fxkYugw68uNAdRzuzt01SN+LK24Eu4qI1ejVvuDcwB+au327FUdYD6jXofQVKMqe+6G7tyQkc6GD1aRpnao=;fnbV7n6+6gF78c3xkt3y1w=="
 ---

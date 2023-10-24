@@ -2,6 +2,110 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-08-25-how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal.md",
+      "title": "How AI can improve cybersecurity by harnessing diversity, according to Microsoft Security's Vasu Jakkal",
+      "excerpt": "The fusion of AI and diversity in cybersecurity represents a significant shift in the narrative of this field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/",
+      "originalUrl": "https://www.zdnet.com/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/43763dae5d3951cc7789a18bf6ab44f5ce2244b6/2023/08/25/e00132ca-59e5-4e83-9419-2ad192c4a927/maxresdefault.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/",
+      "publishedDateTime": "2023-08-25T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others.md",
+      "title": "Psychologists Reveal Why Some People Are More Welcoming Of The AI Revolution Than Others",
+      "excerpt": "People who feel capable, connected, and in control tend to have more positive attitudes toward AI. Specifically, those who believe they can use technology on their own terms, like Finnish respondents, tend to view AI more favorably.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/",
+      "originalUrl": "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e7d04bc8894ab10a4af6bd/0x0.jpg?format=jpg&crop=3607,1689,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/amp/",
+      "publishedDateTime": "2023-08-25T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup.md",
       "title": "AMD’s Radeon RX 7700 XT and RX 7800 XT fill the gaps in its next-gen GPU lineup",
       "excerpt": "AMD has been slower than Nvidia to fill out its next-generation GPU lineup, and for months there has been a huge gap between the Radeon RX 7900 XT (currently retailing between $750 and $850) and the Radeon RX 7600 (holding steady at $270ish).",
@@ -1090,101 +1194,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-analysts-see-ai-boosting-marvell-but-warn-of-other-headwinds-for-the-chip-stock.md",
-      "title": "Analysts see AI boosting Marvell, but warn of other headwinds for the chip stock",
-      "excerpt": "But analysts are wondering if it can be enough to counteract challenges elsewhere. The semi stock retreated more than 4% in premarket trading despite slightly exceeding Wall Street expectations in its quarterly report delivered Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/25/analysts-see-ai-boosting-marvell-but-warn-of-other-headwinds-for-the-chip-stock.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/25/analysts-see-ai-boosting-marvell-but-warn-of-other-headwinds-for-the-chip-stock.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107247551-1685143839222-Marvell_Santa_Clara_IMG_3241.jpg?v=1692958485&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-the-psychological-impact-of-artificial-intelligence.md",
-      "title": "The Psychological Impact of Artificial Intelligence",
-      "excerpt": "Experts, governmental agencies, and even some of the general public are growing concerned about the evolution of robotic artificial intelligence and its potential impact. How long will it be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-08/Trust%20.png.jpg?itok=5kWRfzwb",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence?amp",
-      "publishedDateTime": "2023-08-25T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
