@@ -1,39 +1,20 @@
 ---
 category: news
 title: "Galileo Payment Risk Platform Now Available to the Entire Financial Services Ecosystem"
-excerpt: "Galileo Financial Technologies, LLC, a leading financial technology company independently owned and operated by SoFi Technologies, Inc. (NASDAQ: SOFI)"
-publishedDateTime: 2023-10-19T16:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231019333126/en/"
-webUrl: "https://www.businesswire.com/news/home/20231019333126/en/"
+excerpt: "Galileo Financial Technologies, LLC ... based on client risk appetite Utilize advanced data elements embedded into enhanced rules and machine learning-based models, taking into account entities such as merchants, channels, geo-locations, etc."
+publishedDateTime: 2023-10-19T12:22:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2023/10/19/galileo-payment-risk-platform-now-available-to-the-entire-financial-services"
+webUrl: "https://stockhouse.com/news/press-releases/2023/10/19/galileo-payment-risk-platform-now-available-to-the-entire-financial-services"
 type: article
-quality: 11
-heat: -1
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Galileo Payment Risk Platform Now Available to the Entire Financial Services Ecosystem"
-    excerpt: "Galileo Financial Technologies, LLC, a leading financial technology company independently owned and operated by SoFi Technologies, Inc., is now offering the Galileo Payment Risk Platform to the entire financial services ecosystem."
-    publishedDateTime: 2023-10-20T06:47:00Z
-    webUrl: "https://financialit.net/news/risk-management/galileo-payment-risk-platform-now-available-entire-financial-services-ecosystem"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 31
-    images:
-      - url: "https://financialit.net/sites/default/files/galileo_0.png"
-        width: 1366
-        height: 768
-        isCached: true
-
-secured: "A5Y3VuxR+/oXFhu+rwD8zh0tYfyXV/dptssDvxKyDFFulgZG4x8vllfLmWWzlRANOf4GlJNDUOMsJTi9uUCpSA3aWla/y57waSxUafzwbC9W3ISyMn87+BTAwE9RjNugIjVDKm8gROqUP1AW2ZBXqqQjq6w4nZzDLxmj1vlRr4XxUl5goGyciNwU17XF/7V56Eep8M3iq+0OpJOBd8FsJYkiPJ7ED1H860BI+xWmUIceBXPjpaiyC+mi+Xzu+EMKSIJt/UwbupPL+6GVBt4sUkBkeLRnFag98a921Oi9e/EQIM3pAEdSCeDCGCq43NR3PLrFpGlbfH9j9lfkF0giJ7Y4CwU5SeErPc9STR8EYGA=;ktMi3+D+7zznqrpV+UkFSA=="
+secured: "is6bfCB/Pd4xQKOiFcK91KDBR0JCEPyIRiEulHrHPPPucjX1hiZ8fqFrzYZsejFzmPBahV4S0L+hVmGIzzaFN56HE3wJpFzigBFEHM3OXSedghWP798s6LS4cxDvgK2sypIqJmVJLcTkkZ4B1oS4CpcWqBqCSDZosA6cy/6PtsKnmqDTuDLsVQ/aVKvemAaggW8S/ox0aix/k3d928+M/5EeHWH2i4W4S3WyB/lNNtoLImcSGlAYpJhp8R0rfeHv3A8fBwTGMfIrVmfkjcyTCKBHtzFMSKcVDCax0VaxHe68lRMeV90JFE2mKedf4B7ht0lC4/zjRnXqrepbqZyCYtanYW1yqfDZtt1mCaan7est0K2WfkgSIKrxF4rhe0A9MqaZ+NgDJL55lFBftBFoqp/h6ytV3ZcW26aOHPTGpJvz/zDc4JOD71zLyhQJMrO1wKF2R3wG4nWVx+FXYTar3o04q9nEg5cGgR3Sg8X1tPvd6mY5ul9fCbby0of5empz6OFFYZPXKYzq60majQjQRA==;0bwuKI0PpQCYJoKMMod4JA=="
 ---
 

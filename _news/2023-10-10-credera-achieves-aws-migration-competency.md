@@ -1,27 +1,20 @@
 ---
 category: news
 title: "Credera achieves AWS Migration Competency"
-excerpt: "Credera is part of Omnicom Precision Marketing Group (OPMG), which aligns digital, data, and customer relationship management capabilities to deliver precisely targeted and meaningful customer experiences at scale leveraging the global reach of Omnicom Group Inc."
-publishedDateTime: 2023-10-10T12:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/credera-achieves-aws-migration-competency-1032691989"
-webUrl: "https://markets.businessinsider.com/news/stocks/credera-achieves-aws-migration-competency-1032691989"
+excerpt: "DALLAS, Oct. 10, 2023 /PRNewswire/ -- Credera, a global, boutique consulting firm focused on strategy, transformation, data, artificial intelligence, and technology, today announced the achievement of the Amazon Web Services (AWS) Migration Competency."
+publishedDateTime: 2023-10-10T14:18:00Z
+originalUrl: "https://www.galvnews.com/news_ap/business/credera-achieves-aws-migration-competency/article_f5b47a64-d1b9-52f6-b2e6-5ed222d19543.html"
+webUrl: "https://www.galvnews.com/news_ap/business/credera-achieves-aws-migration-competency/article_f5b47a64-d1b9-52f6-b2e6-5ed222d19543.html"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Daily News
+  domain: galvnews.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "gj8scpvkTxP4ihltGL2bj5oZE/BIvJ+wt/A+M0DCwsFf4ntuKAUQogmBVha2sMCWfNXtKLskCDgSnPf+MkpVddfT5q/ttU7b3OKURmdGWOIlPAG0+JU2KBZQvxj3q4SlN5f+LYnqttpFVcSDpc7AprE3WgCndnvxi6Dh16B+foypdsNNyh/WC7dgqPymQATUpr/taeyx2Jy5Q72nv6aFPRlfY65JwwmWEn2BHZtGzDME0n3M38kzJzidcAJ1PHmKLg7jr3tgGf5W4yPIeqSh1JuNOCvQTAXrfFcfZy7F+Ax8U1o8zhhWno2XAxoBCDsVdBnNPbxlkzRWTt+7Hyz+HpN28apAIUqvfrUq8LKsxgE=;ESzH75d6Rju9HPyQ5tCYtw=="
+secured: "BOO2GT+rZS92yKYK2qWrxYUXOxIvfpeXWhbCIhs/lwXhVAQWQmiNBaBnSJHJsz7wt60AGNmWqJS1a5Zmwe6VeryX7K7gM9iq8BZMrqQpwAgJSLv7UFqFthfsxw3Nk71OU0RpH5xPNoV35b3nrjdW/q94evEQw5E21waRwXAYPnDXsuD7UBYNtT0d8oMKt1lfmUkc5zg864KyW9/VbqgtgG0s1R7MukYEK8RRA4J1h1+oLceKcjSpkUVC71TsmEW2vxQPgTOYbA+Gae1yfBMjy11fGR5ubIMJLzyEVqKlZaRY3oCRJgCDNgEUFwl5OEx29L2IYA/CPXHdH3qA/HuyHCQoJx0sCBNo4g5yHsbTT/w=;CFmrvaiBr055/p/HqPyQpw=="
 ---
 

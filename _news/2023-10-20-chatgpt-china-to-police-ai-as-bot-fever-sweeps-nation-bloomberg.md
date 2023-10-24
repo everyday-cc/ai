@@ -23,6 +23,17 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "BloombergGPT 50 Billion parameter financial language AI model"
+    excerpt: "Learn more about the new BloombergGPT financial AI model created by Bloomberg offering 570 billion tokens of training data from the archives"
+    publishedDateTime: 2023-10-24T12:29:00Z
+    webUrl: "https://www.geeky-gadgets.com/bloomberggpt-financial-ai-model/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 21
+
 secured: "EKUeAStda2Xc2YCgQn2ljeE+C50hJx2RPt/1WarGsQ0ur5gU0i2wGYKUF2rnUgL1Zut95n1D8f+frfR/+tbK5XsUNgzR/GOJAaVESsx+KcVjZ2T+OvFGsXfnuffubZOgtivo6Mqur+UCb0/7sb0f/sZdiMhdS0UArbFiAR7EPrQ4PA0+0HlSSO1PEsHHMTC6PRNL5c7rsDE8ytoXTc1gMv8ykFCa5AeGJGPEKvQMPx5ERE/vOGXxdjoO83myFUSQOQjAxO3kuxACGiwfq9Mwu0NlpDqZ8ma1vgaq7dFWL16T+riEjh0FojhrHwty3gIHqR3Tk+SHADfaXuGZcUm6aOW8Pkr2fSEzozEB/HuPlsk=;paYkumCzAiQcNxVUIiuyVw=="
 ---
 

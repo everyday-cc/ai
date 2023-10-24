@@ -100,6 +100,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Omega Venture Partners Spearheads the Future of AI Innovation"
+    excerpt: "Omega Venture Partners Strengthens its Stature as the Leading Venture Capital Firm Cultivating Tomorrow's Tech Leaders. PALO ALTO, Calif.,"
+    publishedDateTime: 2023-10-24T13:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/24/9904369.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Artificial intelligence predicts the future of artificial intelligence research"
     excerpt: "In the field of artificial intelligence (AI) and machine learning (ML), the number ... We curated a list with the (what we think) 10 best robotics and AI podcasts - check them out! Also check out our Smartworlder section with articles on all kinds of ..."
     publishedDateTime: 2023-10-20T18:54:00Z

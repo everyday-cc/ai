@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202310/israel-is-using-amazon-reko
 webUrl: "https://www.biometricupdate.com/202310/israel-is-using-amazon-rekognition-to-locate-missing-and-dead"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Biometric Companies
@@ -26,29 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Announcing Rekogniton Custom Moderation: Enhance accuracy of pre-trained Rekognition moderation models with your data"
-    excerpt: "Companies increasingly rely on user-generated images and videos for engagement. From ecommerce platforms encouraging customers to share product images to social media companies promoting user-generated videos and images, using user content for engagement is a powerful strategy. However, it can be challenging"
-    publishedDateTime: 2023-10-19T22:47:25Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-rekogniton-custom-moderation-enhance-accuracy-of-pre-trained-rekognition-moderation-models-with-your-data/"
+  - title: "The Growing Significance of Malaysia and Indonesia’s Non-Recognition of Israel"
+    excerpt: "With more Arab states choosing to normalize relations with Tel Aviv, Jakarta and Kuala Lumpur have emerged as prominent advocates for the Palestinian cause."
+    publishedDateTime: 2023-10-23T15:16:00Z
+    webUrl: "https://thediplomat.com/2023/10/the-growing-significance-of-malaysia-and-indonesias-non-recognition-of-israel/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 83
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 20
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/18/ml-15641-6-1.png"
-        width: 977
-        height: 535
+      - url: "https://thediplomat.com/wp-content/uploads/2023/10/sizes/td-story-s-2/thediplomat_2023-10-23-005042.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "Safety, privacy professionals caution against facial recognition in US schools"
-    excerpt: "As FRT deployments and restrictions proliferate among American schools, observers are calling for sober evaluation of claims made by biometrics vendors."
-    publishedDateTime: 2023-10-20T17:10:00Z
-    webUrl: "https://www.biometricupdate.com/202310/safety-privacy-professionals-caution-against-facial-recognition-in-us-schools"
+  - title: "Israel-Gaza Conflict: When Social Media Fakes Are Rampant, News Verification Is Vital"
+    excerpt: "As news of Palestinian militant group Hamas launching a deadly attack on Israel and Israel's threat of retaliation began to filter across news netwo"
+    publishedDateTime: 2023-10-23T19:13:00Z
+    webUrl: "https://menafn.com/1107289217/Israel-Gaza-Conflict-When-Social-Media-Fakes-Are-Rampant-News-Verification-Is-Vital"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "gN9oIg5xwLuqJWP+5YFnCeHwYK8HEjKARhr3mqjZTClI4VEIZ9rO+E1n93Imm2uMAdKep8AwrUwxniEL5TDYD5inK/nubzQMUQujZV3JQfKJ3YBsYqxWOLKGSOtB/CRt+yKj9tfC3D/MesAHL1w3dj1kr7RoADXxRz3Dz/fGGVvffhGHJMWduyviJjwxybxeaRP/zdPuDjDGOHmo106O7FsQA2jonDLm/0V0ExLPjKtPFR3bziCIkgm56AtAl8FttROO/ixMqF+sm6nuREXx1OAGZXstt1dkT7VsvCw3hPFqm/tsn8DFO3wd8053T0Vexg1JIILHYmzy3B+4RLYDy6rdtnYXYZcHkoAGYJ9hR7M=;PiFBUNBg7k8Qn0spN4obWQ=="
 ---

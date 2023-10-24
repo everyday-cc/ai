@@ -7,7 +7,7 @@ originalUrl: "https://www.politico.eu/article/french-privacy-chief-warns-against
 webUrl: "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Safety, privacy professionals caution against facial recognition in US schools"
+    excerpt: "As FRT deployments and restrictions proliferate among American schools, observers are calling for sober evaluation of claims made by biometrics vendors."
+    publishedDateTime: 2023-10-20T17:10:00Z
+    webUrl: "https://www.biometricupdate.com/202310/safety-privacy-professionals-caution-against-facial-recognition-in-us-schools"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
 
 secured: "8cfvi3k8FRCiZvpZUs2tN0Zs5DjsCmpCvJ6JEOG1wWe2iyUPB9b7/4dU94nXp2hdckC395EGyWQjCJb2PGP6pgulQ5L8RQlPGMYzdQCuboJOKKU4D43S4Bdq8JYgQqkU6z1h7uhNzjkeE5K4TVUWHNtgQYqyTUrm7pfRNEttvVeaqMqhLV6Mg8CiNiHhz+wPDgvPu/ToGDFQiZ0Xmi28R4NP/8detHMNgTncOk8EXDaCfh6mWXRuOhjbYU4aQdbyoKeiVAEnT7lRE485YoeckSLhSLrGmEflTut9HYLDcfoK2Xf2TBtDa3ERVPPp6AvvtnWz1h3z+JEcW9blq4LYWwT2dxlWhGKlcF0Ngcl3Xf8=;gFpeBABjqJzFEcub5Pknog=="
 ---

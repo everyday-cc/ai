@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-10-ibm-northpole-chip-ai-based-imag
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-ibm-northpole-chip-ai-based-image.amp"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM's Brain-Like Chip Reshapes The AI Industry"
-    excerpt: "IBM's new NorthPole chip has gained attention for its ultra-fast AI image recognition capabilities. HONG KONG, CHINA, October 23, 2"
-    publishedDateTime: 2023-10-23T08:54:00Z
-    webUrl: "https://menafn.com/1107285709/IBMs-Brain-Like-Chip-Reshapes-The-AI-Industry"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?899983"
-        width: 375
-        height: 250
-        isCached: true
   - title: "IBM Unveils NorthPole AI Chip, Sets New Benchmarks in Speed, Energy Efficiency"
     excerpt: "IBM has introduced its newest AI chip, NorthPole, which boasts remarkable processing speed and energy efficiency advances, reshaping industry expectations. Energy Efficiency Breakthrough: NorthPoles"
     publishedDateTime: 2023-10-21T04:54:00Z

@@ -132,6 +132,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "As Databricks touts demand for AI services, all eyes are on Microsoft and Alphabet’s Q3 results"
+    excerpt: "We can't wait to find out if these companies will report a material improvement from their investments in AI-related computing tasks and products."
+    publishedDateTime: 2023-10-24T15:34:00Z
+    webUrl: "https://techcrunch.com/2023/10/24/microsoft-alphabet-q3-results-expectations/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-BLU.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft’s Promising Outlook: AI Growth Potential and Azure’s Stability Justify Premium Valuation"
     excerpt: "Analyst Keith Bachman of BMO Capital maintained a Buy rating on Microsoft (MSFT – Research Report), with a price target of $400.00. Keith"
     publishedDateTime: 2023-10-20T11:15:00Z

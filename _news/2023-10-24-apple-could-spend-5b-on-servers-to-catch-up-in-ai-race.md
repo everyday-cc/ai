@@ -65,6 +65,20 @@ related:
         width: 2180
         height: 1453
         isCached: true
+  - title: "Apple May Spend Over $5 Billion By 2024 On Servers In Major Generative AI Push"
+    excerpt: "Ming-Chi Kuo expects Apple to spend 'at least' $620 million on servers in 2023 and an estimated $4.75 billion on servers in 2024."
+    publishedDateTime: 2023-10-24T15:33:00Z
+    webUrl: "https://hothardware.com/news/apple-to-spend-over-5-billion-on-servers"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 35
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62888/content/hero-apple-tim-cook.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Apple expected to spend $4.75 billion on generative AI in 2024 alone"
     excerpt: "After a report said Apple was planning to announce generative AI features next year with iOS 18, analyst Ming-Chi Kuo corroborated that."
     publishedDateTime: 2023-10-23T18:33:00Z

@@ -161,6 +161,20 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "How AI, like ChatGPT and Bard, are changing education"
+    excerpt: "To learn more about how AI could affect education, we spoke with the former chief digital officer for New York City, the Met museum and Columbia University."
+    publishedDateTime: 2023-10-24T14:40:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/how-ai-like-chatgpt-and-bard-are-changing-education/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 54
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/24/e829742b-af85-4107-90d6-be35ca206d19/thumbnail/1200x630/db30b49e80763a7322e5c83f39e1dc9f/a2bc5f7596314e70ebc61c3562e21e7f-0-1698157475482.png?v=4fae59acf57b6bb1efa9da07582ebc40"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI And The Cognitive Revolution"
     excerpt: "Artificial intelligence may be the first innovation to disrupt our way of life on the same scale as the Industrial Revolution."
     publishedDateTime: 2023-10-20T12:30:00Z
@@ -192,20 +206,6 @@ related:
       - url: "https://cdn.cityandstateny.com/media/img/cd/2023/10/20/GettyImages_967906100/open-graph.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Using AI to Improve Nutrition for Cancer Patients"
-    excerpt: "Susan Bratton leverages AI technology to build a better-eating app to support cancer patients going through treatment"
-    publishedDateTime: 2023-10-19T20:12:00Z
-    webUrl: "https://www.scientificamerican.com/custom-media/heroes-of-cancer-care/using-ai-to-improve-nutrition-for-cancer-patients/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/70C9E8EF-2C92-4777-8CB2C669B884145D.jpg"
-        width: 791
-        height: 496
         isCached: true
   - title: "Skyrocketing OpenAI Valuation Ignites AI Revolution"
     excerpt: "San Francisco-based start-up OpenAI is on the verge of finalizing a deal that could value the company at $80 billion or more."
@@ -300,6 +300,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "jYXnmf95zPLzReBaTqtq91T6eHif3DxZxVXj28sAYjJvw2zfbfcXgIiwhXFDTFpJ3l9J6VidJiMviX8F7RQFhX1fLErd/k89sJIAmO0DmEaUD6vXILG344bw0pNGsjQfzsplfDTv29WP2qlaWZUSURn4/BirTqe29y8LKjrFTcHABuPkNeis06NwxkAW7CISCbDfhM8F60/C27PeW+H4htnJED+5j7GYKdd1RhYGnPafqOVrsOF6LcaLmpi0Rn1kozaxfI473A+KtGBDviBLwoP79rYC5lux4iTltCB/DZkj0n7PJ0g1oyvjaqOfLnq8lEvNLuPssUePp9s5YzWtxwO1gRmyOIb73I7sO+4aEJw=;vRdIj1Rz3fVJ06rLhzkuYQ=="
+secured: "C1kPdE5n9Oghdl+oDfIJdnxzAXajkIfZqOvBQeGES7hgg6tzGF2rQAtokOw/0CSVlcx6pani9U2mOS+a0dj/FkDTiJq+VcVTDXVMwvUVZwofb5r1qr/b2M164qUUNmeMbd+4tPn+qOYXF+DH04euVwQ4idzKgwrsZ+Ijy2DYc2J4DiClGtQxZC/zoaBHX0F5SxxmhR3ts1ny6xAjWebPkEpXcx7FpdC8vPds8FstagYOzifMPK1ICR9WejU2U7jZ+Wto5lxwdAhYdga3wGFeRNAl1VpdIc4S9JE13BrKtuMZYqss+igvdMluMDuv8RMK5He8Cfi2xUBSqvjiZLB/eRlNqkr6+0MJOGMfBS2N+V21hPZrrVMBxXqAQ7Ic9LwG3w7BvK5mYz7gApl5R8UeGTABF41P/36Unh7qp4KlGdhIel/XR24kO7W6wtODBt1znS49NTi0UBcdpmUNcrKcB2hv9IrSot7tAS5VSRVajDtC5spQpZKdfHidgAmowzAxXnTeAVoHyShE019TDdE3EQ==;T8yq1NoJaIBAwNdn7lvRKg=="
 ---
 

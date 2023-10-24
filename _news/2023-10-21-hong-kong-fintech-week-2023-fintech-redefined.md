@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "From Healthcare to Finance: Exploring Real-World Applications of Artificial Intelligence"
+    excerpt: "Artificial Intelligence (AI) has swiftly transformed numerous industries, from healthcare to finance, revolutionizing the way we live and work. With its unrivaled ability to process vast amounts of data and identify patterns that elude human perception,"
+    publishedDateTime: 2023-10-20T10:35:00Z
+    webUrl: "https://techbullion.com/from-healthcare-to-finance-exploring-real-world-applications-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 66
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/AI-in-Finance.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "How Fincover (Fintech Company) is using AI and Machine Learning to boost financial Inclusion"
     excerpt: "Fincover, a fintech startup based in Chennai, has quickly emerged as one of the DSAs in the Personal Loan space with their extensive use of technologies like Artificial Intelligence (AI) and Machine Learning (ML),"
     publishedDateTime: 2023-10-23T16:02:00Z
@@ -56,20 +70,6 @@ related:
       - url: "https://assets.telegraphindia.com/telegraph/2023/Oct/1698076869_untitled-design.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "From Healthcare to Finance: Exploring Real-World Applications of Artificial Intelligence"
-    excerpt: "Artificial Intelligence (AI) has swiftly transformed numerous industries, from healthcare to finance, revolutionizing the way we live and work. With its unrivaled ability to process vast amounts of data and identify patterns that elude human perception,"
-    publishedDateTime: 2023-10-20T10:35:00Z
-    webUrl: "https://techbullion.com/from-healthcare-to-finance-exploring-real-world-applications-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 64
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/AI-in-Finance.jpg"
-        width: 1000
-        height: 500
         isCached: true
   - title: "Minding the SME gap using fintech"
     excerpt: "While regulated in each of the markets they operate, financing platforms do not face the same capital constraints as banks do. However, to succeed in the SME lending space, these fintechs must have three critical capabilities: auto verification of data, nuanced credit underwriting, and sufficient access to private credit."

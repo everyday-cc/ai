@@ -9,7 +9,7 @@ ampWebUrl: "https://www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-i
 cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up/201433/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Apple-Store.jpg"
         width: 2180
         height: 1453
+        isCached: true
+  - title: "Apple May Spend Over $5 Billion By 2024 On Servers In Major Generative AI Push"
+    excerpt: "Ming-Chi Kuo expects Apple to spend 'at least' $620 million on servers in 2023 and an estimated $4.75 billion on servers in 2024."
+    publishedDateTime: 2023-10-24T15:33:00Z
+    webUrl: "https://hothardware.com/news/apple-to-spend-over-5-billion-on-servers"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 35
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62888/content/hero-apple-tim-cook.jpg"
+        width: 708
+        height: 398
         isCached: true
   - title: "Apple could spend $5B on servers to catch up in AI race"
     excerpt: "Apple's attempts to catch up with the rest of the market in the generative AI field could cost more than first thought, with it potentially spending more than $5 billion over two years just on servers."

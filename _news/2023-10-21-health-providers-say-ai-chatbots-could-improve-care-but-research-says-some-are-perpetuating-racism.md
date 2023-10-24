@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records."
-publishedDateTime: 2023-10-21T14:54:00Z
-originalUrl: "https://www.pressdemocrat.com/article/business/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some/"
-webUrl: "https://www.pressdemocrat.com/article/business/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some/"
+excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records. But a new study led by Stanford School of Medicine"
+publishedDateTime: 2023-10-20T18:44:00Z
+originalUrl: "https://www.news8000.com/news/national-world/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some-are-perpetuating-racism/article_9509082c-2a5a-5d34-89f6-3c10c18c79db.html"
+webUrl: "https://www.news8000.com/news/national-world/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some-are-perpetuating-racism/article_9509082c-2a5a-5d34-89f6-3c10c18c79db.html"
 type: article
-quality: 5
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Santa Rosa Press Democrat
-  domain: pressdemocrat.com
+  name: News 8000
+  domain: news8000.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/news8000.com/content/tncms/custom/image/e9804a14-651f-11ed-8535-a7d04870c8da.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
@@ -66,6 +72,6 @@ related:
       domain: thegrio.com
     quality: 5
 
-secured: "gmOLTOMMj3bWbqroJVPr/v9PPz1gzTVdf6oGY6rll4mmGNkB3WM7Ku3diTbpnLvcDPUlDelKjBRZ/8BXnprwnatsE2gNoxhS9xm+td2rwM3aPLchK1QbfDEaWONRylUiMZ1TR/GS+M24S867Z8JLX/k1KU9j9Y5uCaF3e5RLba1RpzbMqHwDUy/0ZonGQNwloc7VsrbazMipSqDX5SfNZdLCGDeByC3Wb2rdBrJX8T4MdA/rMU7nTerfIKfgNgdjtHq2TvFIg9AnHxRWpR5vxqUKLvUpPGtVj9qoAhc53h62DGXUHqnZy5uUZ1OH7kxffjbQKjAoWflV/LcixowOvifrZlwgANEcsxFkkmZ8kNdCMgL9h+M0p+3RmI4vf7hKTef+nAgiPPYY2so/HYIRS+qATOWFg/MRmI45eRIes5IbnR2HoFcohOiUGOSFKgvaXkyQpbbcX2duiV1CzyLueyQFX9Ifxp1qhbD3AShKH1qyizGXv8SmTi3qf+xqF+sePOY+HOyzXpzkTJrQiGLBqQ==;ttH5pT/Z8OA3DZ5lEOGnmw=="
+secured: "sII+h3TBpiYVIxhaohJu9ndlAqkqmBwI92OCOZSLqnmYLISJ8F2pnOTXwk/AXQNYVJcP77ahoXEVgaQvoQpDxj3r+bw1UWqa4wM6PMRX0+sw/PvToTUQUezLLbZZVnRN+X5F21v1BNAMA+qTr/UlHFsk+gdRzYzneKFx4XMoqBOJauYdYLda39qLT5JITs/0N21IL0ulB78D2uK2Q/dJ/kt7bbW6wLPJ/goxcI9uYRteRNIqooua/M9ZOBaXcN2l7DpQkfUB0CDTwadtKoDDjpHKpZzOYSZrLs+O+xa2lZIPyU0XMSq8Hq9X3KKADbZwo42qXh5tx+q6kY6eGU43ps6MouLh4WEZ7Jf+7gCNrLI=;hMZP+I4tDVMUnbxiL+yJUg=="
 ---
 

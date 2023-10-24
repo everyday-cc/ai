@@ -1,22 +1,32 @@
 ---
 category: news
 title: "FEDML Nexus AI: The Next-Gen Cloud Services for LLMs and Generative AI"
-excerpt: "Today, FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML"
-publishedDateTime: 2023-10-24T11:56:00Z
-originalUrl: "https://www.01net.it/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/"
-webUrl: "https://www.01net.it/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/"
+excerpt: "FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML Nexus AI, offering the next generation of cloud services and platform for generative AI.This press release features multimedia."
+publishedDateTime: 2023-10-24T12:25:00Z
+originalUrl: "https://venturebeat.com/business/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/"
+webUrl: "https://venturebeat.com/business/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/"
 type: article
-quality: 19
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://i0.wp.com/mms.businesswire.com/media/20231024932463/en/1922758/4/wideimage.jpg?strip=all&#038;ssl=1"
+    width: 480
+    height: 269
+    isCached: true
 
 related:
   - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
@@ -49,34 +59,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Why Generative AI Needs Design"
-    excerpt: "With generative AI, computers gain a new set of capabilities: the ability to understand and generate language, code ... With simple prompts, anyone can translate an idea into a visual prototype that a group can riff on. While imperfect, these AI mockups ..."
-    publishedDateTime: 2023-10-23T21:00:00Z
-    webUrl: "https://www.forbes.com/sites/stevevassallo/2023/10/23/why-generative-ai-needs-design/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6536db33f0c0d8b1f46f464e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1176
-        height: 900
-        isCached: true
-  - title: "Generative AI Can Write Phishing Emails, But Humans Are Better At It, IBM X-Force Finds"
-    excerpt: "Hacker Stephanie \"Snow\" Carruthers and her team found phishing emails written by security researchers saw a 3% better click rate than phishing emails written by ChatGPT."
-    publishedDateTime: 2023-10-24T11:00:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-phishing-emails-impact/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 61
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/01/tr12423-malware-seo-poisoning.jpeg"
-        width: 1400
-        height: 935
-        isCached: true
   - title: "IBM expands relationship with AWS to bring generative AI solutions to clients"
     excerpt: "As part of this, IBM Consulting aims to deepen and expand its generative AI expertise on AWS by training 10,000 consultants by the end of 2024; the two organizations also plan to deliver joint solutions and services upgraded with generative AI capabilities designed to help clients across critical use cases."
     publishedDateTime: 2023-10-20T07:35:00Z
@@ -101,6 +83,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "Jl9nsKHvJwmARXvxkah9CEBhTHaT4SO/dYLFw/rqlwm56nf1cFNO7KMW5MQGaCAzhZBi977ckT0t/QW2JaJiCdnR7VsPBmo0v6zhatyg68e0Qds4B8hg7XI9cwFN1kXQ3qwiGlD8s9Sfs6VBnTHbIbzxD9bNDQdgPIgj1OZN5pm7peLPLUyYN3DooqyW9QosK7loiTm5eXmFZ78atRLJ2NkHIhpWcXYnKaZBA63kc9k4UfreITvZqszCfBaPxbl5OcDWrP/MGzTqJSLl0Ba6XOr1JoINQZzlyWhL4fSDA4NrN3PXa6F3rI9tS1nN6a9ZD7MwFgndtUonbvrbC9Dh4t7me7GM3lmB8iX/2BylxVB19MsTcYRu8JHcnbXuDHnK+3Wowuuf3yOhY9YWTMPzy/eGyx+8yBH6UOEv2gY2GeNUNtTv25RRHiMCsf+DhD0UE74mhP1cwtef5BhHeda/IBYlHUrw0kWel6uBNkBMQoS4vcgIAwZMJ+tIBie0XITk2RHoVL6j4rMndWSSNL7NcA==;N89o9h3aOnwMTt0u/Kx54Q=="
+secured: "p6gsNMrAkq5FuKqEPz7OXxFGtLm7Hi6JrThW+SNSrlrOQ4KlD6Hsd41NEeZOdS38lhm+JQJ/JpxgVtP36/EzG/B+ztsd4Uege1xryKe0bn3IbmhQDcTuWiarFzmrQwReLT8uFUzOtRz5HoyqmeJq9Iu0XMu8omK0x7lnPPpAjseoNWKgTh7lOY2PeHEdhGJFbI7pdxlgehPAaSA1WnkvSM4xFyjNsETL9BGzRCe/f/IPZLZK1dyt9UqX2OLlwrVhte9SdqM/x6mkYJ95AaWaStWQQR1u039qqMC1pTpzMBhCsKpuB7eVUSOeooyYyL47s9YW5R/3cA/VyHBBijGPCbcoDzv1UwFa8V23k5J7rk8=;m3hbnKvernaU32f2+ZxbuQ=="
 ---
 

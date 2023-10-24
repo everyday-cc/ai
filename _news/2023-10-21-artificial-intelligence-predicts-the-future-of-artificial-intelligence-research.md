@@ -94,6 +94,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Omega Venture Partners Spearheads the Future of AI Innovation"
+    excerpt: "Omega Venture Partners Strengthens its Stature as the Leading Venture Capital Firm Cultivating Tomorrow's Tech Leaders. PALO ALTO, Calif.,"
+    publishedDateTime: 2023-10-24T13:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/24/9904369.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Navigating the Future of Fintech: 5 Platforms Shaping Private Market Investment Strategies"
     excerpt: "The private market investment landscape is rapidly evolving, with new platforms and technologies driving change. These platforms play a crucial role in helping businesses and investors make informed decisions."
     publishedDateTime: 2023-10-23T10:42:00Z

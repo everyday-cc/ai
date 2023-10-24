@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 169
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Can Generative AI Be The Smartest Member Of Your Company?"
+    excerpt: "To support the effective, safe and ethical use of generative AI, you'll need a solid foundation of high-quality data underpinned by governance."
+    publishedDateTime: 2023-10-24T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/can-generative-ai-be-the-smartest-member-of-your-company/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "PIONEER IN FINTECH DEMONSTRATES IMPACT OF AI IN PAYMENTS AT MASTERCARD EVENT DURING MONEY20/20"
     excerpt: "Serial fintech founder to address looming industry regulation and how AI can deliver more value to consumers and businesses  LAS"
     publishedDateTime: 2023-10-23T11:45:00Z
@@ -106,6 +115,15 @@ related:
     provider:
       name: Leadership
       domain: industryleadersmagazine.com
+    quality: 17
+  - title: "5 Jobs Artificial Intelligence Can’t Replace"
+    excerpt: "In this article, we will look at the 5 jobs that artificial intelligence can’t replace. We have also discussed the potential impact of artificial intelligence on jobs in another article."
+    publishedDateTime: 2023-10-24T11:49:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
     quality: 17
 
 secured: "lyoC40DWelA5BP+x90tqPZe5Qyvc+jkrhJyAF2n9yfx0qdI1B2pNljX07MmCMRYg6AU9+guyJA7miX+0eai1cEOVAcpvJ/vfAYLKIJfEZQmKJbIXcYxJ/BA/JyBi9nPcvKZo4i8V2tyaiepS8jwnn7ZkSbqVVDPU1iXQFDBtesqV94AKnaOTJowPb7+3y31jmYniXCWWIYdzOxJyOokPpC5MzWQmGPsadNRqkRR9062S3IInQilgn13gSb0ht7eESbFlFUuXxA94oUjBf2GCNpoKqSSw27eDt9SW76olQaSnb7Zml1OJSnCqorKlqiR8jVFQLli9jvbqh0x0oYZsi2k8qJhnmMt7wtsc0D4HHZhj10QRGTkXoeAj53Mg0CMi0ZqK3gfxsFOVRkpdztXFu6zuwCiiCdbWCzfCuXvOB/AeJ1reazBRFnRfrnHP0F/8ogE36AAZi2aFDcDYprx0q9Ddj4I0dNUKeCB9+rcsKoRdD44Htt4RctFHGh/tkLg77mOJgMbhbjYq11+0Fn+s5A==;+hTS9eN8nowQwqbkUeIFLQ=="

@@ -34,6 +34,20 @@ related:
         height: 630
         isCached: true
   - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
+    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records. But a new study led by Stanford School of Medicine"
+    publishedDateTime: 2023-10-20T18:44:00Z
+    webUrl: "https://www.news8000.com/news/national-world/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some-are-perpetuating-racism/article_9509082c-2a5a-5d34-89f6-3c10c18c79db.html"
+    type: article
+    provider:
+      name: News 8000
+      domain: news8000.com
+    quality: 25
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/news8000.com/content/tncms/custom/image/e9804a14-651f-11ed-8535-a7d04870c8da.png?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
     excerpt: "Stanford researchers warn chatbots used in health-care settings could spread misconceptions and falsehoods about Black patients SAN FRANCISCO (AP) — […] The post Health providers say AI chatbots could improve care."
     publishedDateTime: 2023-10-22T16:55:00Z
     webUrl: "https://www.aol.com/health-providers-ai-chatbots-could-165532828.html"
@@ -47,15 +61,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records."
-    publishedDateTime: 2023-10-21T14:54:00Z
-    webUrl: "https://www.pressdemocrat.com/article/business/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 5
   - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
     excerpt: "Powered by AI models trained on troves of text pulled from the internet, chatbots such as ChatGPT and Google’s Bard responded to the researchers’ questions with a range of mis"
     publishedDateTime: 2023-10-22T17:12:00Z

@@ -85,6 +85,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 33
+  - title: "Omega Venture Partners Spearheads the Future of AI Innovation"
+    excerpt: "Omega Venture Partners Strengthens its Stature as the Leading Venture Capital Firm Cultivating Tomorrow's Tech Leaders. PALO ALTO, Calif.,"
+    publishedDateTime: 2023-10-24T13:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/24/9904369.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Artificial intelligence predicts the future of artificial intelligence research"
     excerpt: "In the field of artificial intelligence (AI) and machine learning (ML), the number ... We curated a list with the (what we think) 10 best robotics and AI podcasts - check them out! Also check out our Smartworlder section with articles on all kinds of ..."
     publishedDateTime: 2023-10-20T18:54:00Z
@@ -118,6 +127,6 @@ related:
       domain: exchangewire.com
     quality: 2
 
-secured: "uaBGWi0wCqcIRzm2fpaaZUZVSbG0qKGZ9S/ByjKuEVMmQCC4xfA8lS+hyMdRyj1d3HA0IlGSypg1OoKwXIx2fTRYE4nfCpbOtKg7Lfe1hNJwqE03CqZVPt+oe5VDNg2flbou//kmndWK1ue5vooP6A+giMLj3htqCX8HxVzhZiOyM/Psq2fz+ftXJgIhPI61yFMzU786f/GvFkZqcWp18KO4Z/sXOBdjzjHCz1+0Wd7fm2WnCHwjDM3K09P3nl5ML3OH89Ys3R/TjfVnlJNGyKoHctI8Tv7ELVdT5/j4rY2vYknYn7kaz4SpgNCIefURAOJlL14cqbUUCIX7qHc8Ujcac3cRwH6nitdlJZ7Ud/g=;YFw1pBLScTnMGVW4FQsAVA=="
+secured: "ljNykeTrltVW4+6VuPqGGImMJ5hU2+z9ldULph529i+8BoYCmTdvFtzR3JqhVL348mQIkRRD9rJYoPwi0HhT5vCfLxwlSb1Hj0ims3Pv+cAdNlodcnGlZ9h6yn5DF6sQLcwaaQAICEMGsRI8ho7iTBdiAmohg6G0CHhfkHQk1kUOcwu24n9qoauFz0LesqdfpygWVfqv8NtWyC+S+RSjfUNZ30QN3bUX2zxsqBLYme528UUUE/SrS7idI5uu26BcNNBxny5nR1bZ+ji5smR25Q83Lgg9ZacZMizr6fm0ulUlHi7Oi2nRGApUHXjM8pnY4JxfAZoqP0FflzP1TRStXDCaPs5RBFX5Pj/FLR7xgM5sxWcl+Udl85iXOh1UctYcMQu+S9XdbeANhnAQpKyklT+o6sZqDckYXiiH3kkhGg94T7r8O5m0v2pmEP8/TCo96hf6VLQ1zXWwl16uoJMI8QyjBtGYSGV6KZBQRK8ZmWsp+YzZQNLPrmXijR7GWgzZtydG4gv8NZ5IsrnXXGv+Mw==;5YB6JDam2VHU8Xlh59WGHQ=="
 ---
 

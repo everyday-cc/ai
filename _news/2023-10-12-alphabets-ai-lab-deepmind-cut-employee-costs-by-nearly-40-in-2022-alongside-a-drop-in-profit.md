@@ -3,26 +3,26 @@ category: news
 title: "Alphabet's AI lab, DeepMind, cut employee costs by nearly 40% in 2022, alongside a drop in profit"
 excerpt: "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alongside a drop in profit of more than 40% for the same period, according to a recent filing with a UK government agency."
 publishedDateTime: 2023-10-11T17:02:00Z
-originalUrl: "https://www.nbcconnecticut.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3121745/"
-webUrl: "https://www.nbcconnecticut.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3121745/"
-ampWebUrl: "https://www.nbcconnecticut.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3121745/?amp=1"
-cdnAmpWebUrl: "https://www-nbcconnecticut-com.cdn.ampproject.org/c/s/www.nbcconnecticut.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3121745/?amp=1"
+originalUrl: "https://www.nbcwashington.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3441641/"
+webUrl: "https://www.nbcwashington.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3441641/"
+ampWebUrl: "https://www.nbcwashington.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3441641/?amp=1"
+cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3441641/?amp=1"
 type: article
 
 provider:
-  name: NBC Connecticut
-  domain: nbcconnecticut.com
+  name: NBC Washington
+  domain: nbcwashington.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://media.nbcconnecticut.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.nbcwashington.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
 
-secured: "ox0uattnaqVa4vtsqk1U3BgXjn8hcXbT5qF3ggaH6U1Zt1yMUmwmaw8TRVN5Lx3D11czNcmZ30GsFYGvR0pOQYkC6reuw1ODrGRK6jOr2vIBqjVoHBoMgOBEGwKne1EcRVGTugEGBczIZLs62LsZ00vIIFVaS5y3/46ZSq0VcEaoPvrNiICWZZolsA39nG84cGps9rbgz1vpN3swO9426TKdA54NrH0cqlgYF0KetX0XfZMmwq+pfPe8DMF0Ht+TOYLfEp4fqpvA37uODUc+V61t1xE0a+9tULIHc2xeTCwcyYUfc6kFVyyMAz+fOR2AikSMHO+8QqLjOSaV6iKonDbrj+020Y4B7c0eUDLEOJQ=;FNOdtgTFPQXpwDhSzj0Ylw=="
+secured: "0nDhOzZFvFeC+pJFekymq/yI6YEgsRKht3sDO+rFuctwSdtJyIIu6IkdU7R2nw7QDO1eN6goKP/QxXHWFzaQ95sFDneoUjmTt7Ylk+lNalnVZ0KLshTERArLAd/1/HJdbCT5TYmL/FQNXfhfIpgbdj2pBJg7eHWifScpEW/RaM3LJl1V5zHXMVH4y+adI8G7iBbZzt8HoQYcZe9Jghs5kF6pniDrYqHRSgBbcp6XjUWHk1dVb18iM1dMT8KcQG6rCyyR/SERzytPOFCum8tphpSoxodlulYjCU5AsrXmIE8HqJC2ypCboGYaCgGrRmw7p4cw+anpZaKQB595X30PX1Pfinvi9EC4WCzguRs1XTE=;fGQsBb/OityPCMncm3fnaw=="
 ---
 

@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "KOITO and DENSO Collaborate to Enhance Night Driving Safety"
-    excerpt: "KARIYA, Japan, Oct. 19, 2023 /PRNewswire/ -- KOITO MANUFACTURING CO., LTD., and DENSO CORPORATION announced today they have begun collaborating to develop a system to improve the object recognition rate of vehicle image sensors by coordinating lamps and image sensors, with the aim of improving driving safety at night."
-    publishedDateTime: 2023-10-19T21:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/19/9902519.htm"
+    excerpt: "This partnership will combine KOITO's expertise in lighting technology with DENSO's expertise in image sensor object recognition."
+    publishedDateTime: 2023-10-24T15:00:00Z
+    webUrl: "https://www.aftermarketnews.com/koito-denso-collaborate-night-driving-safety/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
+      name: After Market News
+      domain: aftermarketnews.com
+    quality: 24
+    images:
+      - url: "https://s19538.pcdn.co/wp-content/uploads/2021/08/DENSO.jpg"
+        width: 1400
+        height: 700
+        isCached: true
 
 secured: "go/TsmsoWuhKVzYApbPWmrZ+L724toCxWbkCnpkYOg43uBA3IotwLam9uOfCHi7ozFvNfJbHAp64MOpM9hlA98FGl7aURW2/ISwRJNl9y+SKro/MZMAN5Ea37O2e5Qhr8RbBZMfXm5o31SHyLhhiGaVQkwmecKZDxrmJR2077ePZC5WvJ89xJXci5EwsBr+mWwzoDkFE4ECqQbBRZxn3HFGcg3k2K1e9oss4K/EOg3oCyLO+BUBS1EPxETNV7Q+WWd/6n1MAh32TqFiidIrRiLYi7rVF9pKGWMXKjGWPZjR+ST3ptzoO9OgB00aMLYJpwKFZF2cOLgLO3oWzN6sF9kPPqMQVcuc7nTtMQ9oaRfmEi22QxjXOFNX4C0DtcBrZCy50QJg/LAEWFvP+9MVJPLm2uQ2OKwgPxpnXPb7sTTynNie6TXxJAo4tfPQrUmFBBHUmVF9LIc1how69wQU1MjEm8zY/AVco459270rXx3HQhSiDa/e58KfOIbRaV5rFxkL6HyGvPDm8d3QX3R3GGA==;Bv0EAMuurZlePNS0jcbc1Q=="
 ---

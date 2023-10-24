@@ -52,7 +52,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 64
+    quality: 66
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/10/AI-in-Finance.jpg"
         width: 1000

@@ -1,28 +1,27 @@
 ---
 category: news
 title: "AI Is Already at War"
-excerpt: "The world took a valuable first step when, in November 2021, 193 countries approved a global agreement on the ethics of artificial intelligence—the world’s first. It includes the principle that countries must guarantee human oversight of and agency ..."
-publishedDateTime: 2023-10-24T04:04:00Z
-originalUrl: "https://www.foreignaffairs.com/united-states/ai-already-war-flournoy"
-webUrl: "https://www.foreignaffairs.com/united-states/ai-already-war-flournoy"
+excerpt: "The stakes of slowing AI down are unacceptably high, but so are the stakes of racing ahead without needed precautions."
+publishedDateTime: 2023-10-24T15:47:00Z
+originalUrl: "https://www.cnas.org/publications/commentary/ai-is-already-at-war"
+webUrl: "https://www.cnas.org/publications/commentary/ai-is-already-at-war"
 type: article
-quality: 41
-heat: 41
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Foreign Affairs
-  domain: foreignaffairs.com
+  name: CNAS
+  domain: cnas.org
 
 topics:
-  - AI Ethics
+  - Facebook AI
   - AI
-  - Natural Language Processing
 
 images:
-  - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/10/12/1_MilitaryAI_EMorciano.jpg?itok=vj3Kj6_E"
-    width: 1200
-    height: 630
+  - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/pentagon-getty-hero.jpg"
+    width: 5400
+    height: 3592
     isCached: true
 
 related:
@@ -41,6 +40,6 @@ related:
         height: 675
         isCached: true
 
-secured: "wswwerJzHWc0PbE2u0A+4E9yYHwKKvRL1WelICONShAAoeotJ942D272SB1Ny7GlJA2MDbmcy55GIlCYt/3Qh6ITx3b+7qls0rVJl4UYh+nxfWVTHOw/66aO5sYmmJGp/BwYMRNEuSa0IxP7u8WPSWBrICfv79mrcel4XuqIXmSYVTCf513lvy9x9sfH3gNQy13OrL5cdwC4SHU7F9lfF4zWS/HmOR4O54/6+go25405UfsWBr3ihXM29bOtEBQweW5d34j3QfSrZ1RT5zP8BqoUV20tGHvQ/7Xw+wLobqXscQuobOSFmYFEMZF4rLLWwTEgJYpqCaxtPm7gxsdHKLaXuWCtvJ9fUHTgHjp9b9MiJjz+2kP732+vD9H+7tlXxmo6zYv38ePzwrnXGbo3XAmKAyV6rbXaBeu2C08xRVejhGF2bPhddAMGwMnWBd+c/4Fu89w9ALBSThRYIUljoBTOB2TJrwKaHpOExHE7YWDuqEWd0ML9aGr1Gmwy7SfHlzkfzrangRLVjm/e/OXaSQ==;U8dV5OhkqiTvDMGu1UJPFQ=="
+secured: "urQrMEB2wopPLSgZ9d9jZlj6t92lQaivb6dPIp3DIiSuNSTzTzE6VWF4bJkTYXxm9IZUvPWDZCbD3hG1ej0T3VoyP/HKgaF1gPvkQwQwskEPT6m35H25QRkyfOZzbfnlQyho46xYsZMqszBZSDwp8Axgw32eN2RFfTXBt25wkcvc7Sm5/IRnrGPZL5O1xv2xpasG+JRLUeZis02ymPw1OWrl2N9yH8jdF207OikXChxPR7NRDPBvoiiuprGYoFPjjeELZgY98sp+n+/uP2H02+iXdbKW9dh/Gr30sgAYXidRbCTMC1e28ymWekSAPGEVVSSr8y8KZ9kYeLLY18DPaPnMGNZbKIjLvXtDsPTB34M=;uckfLunOHaDQzslbLNBj/w=="
 ---
 

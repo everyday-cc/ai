@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercebiotech.com/biotech/chutes-ladders-google-deepmi
 webUrl: "https://www.fiercebiotech.com/biotech/chutes-ladders-google-deepmind-vet-join-gsk-vp-artificial-intelligence"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Žiga Avsec of Google Deepmind: AI allows us to grasp the complexity of the genome"
-    excerpt: "Žiga Avsec is the head of a genomics research team at Google DeepMind, Google's research unit for artificial intelligence development. In an interview with the Slovenian Press Agency he discussed his work at Google DeepMind, genome research and other fields where artificial intelligence systems help foster scientific progress."
-    publishedDateTime: 2023-10-21T12:37:00Z
-    webUrl: "https://sloveniatimes.com/39912/ziga-avsec-of-google-deepmind-ai-allows-us-to-grasp-the-complexity-of-the-genome"
+  - title: "AI risk similar to climate crisis, world cannot afford to delay response: Google Deepmind Chief"
+    excerpt: "In a recent interview, Demis Hassabis said that he anticipates the creation of an international body like IPCC and CERN for the regulation of AI."
+    publishedDateTime: 2023-10-24T13:59:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/lite/"
     type: article
     provider:
-      name: sloveniatimes
-      domain: sloveniatimes.com
-    quality: 29
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 62
+    images:
+      - url: "https://images.indianexpress.com/2023/10/Demis-Hassabis-1.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "0+Wxr3Uyn7KOjzhE9FgOMVQnQrkvgL1T3hFdjYGezSkJtRAGkMSRiNEMJzrKBq3FH1l793e8dOwfDyZ4vKARhzcnT5H2EZ/MXTKaKOaBwvV8dkFtQ/Ah0LnlAGVKA3uMJYDrc2xkf0gVmq215DJ0eTyDjrGLoIDxoFNPUijmjODCIvsTM5iFYyGgmsAn4IOXfLSN83R/2pIzZNNjy/kjlwF9p4nzwDBhVlqLJs2PTqgpKuomnPXZjYnymIRCCRMFC661DOErK30HVKH6qikkcttfsNj82/dszaMHFaNzAr2+jg3Tmrn2mp+WSZoyD0Szk+GTV7Bileaayn5xK7z80U67qDuwxDnRH/BMs2/p+X8GNCu+2A7fCvH8UOhtvp96S530mjJAYYTsSx2vGtbgb9phpEFxo/LR0QYj/UkGA6FWKiOIznQGID+H3CPc5G/b3VK01VZ51X4uB/+Ka4XAJSo64HDEmX7o8/eY1wIW/kG7H1wDYTNlTBBl/r77dire3Ds5ciLODobFZnYlKeINrg==;0jsDneMIezqqimmyXUx+SQ=="
 ---

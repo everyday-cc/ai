@@ -62,6 +62,15 @@ related:
         width: 718
         height: 377
         isCached: true
+  - title: "Nvidia Says U.S. Speeded up New Export Curbs on AI Chips"
+    excerpt: "(Reuters) - Chip designer Nvidia said new U.S. export restrictions blocking the sales of its high-end artificial intelligence chips to China had gone into effect on Monday after regulators advanced the timeline on the curbs from its 30-day period."
+    publishedDateTime: 2023-10-24T13:25:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-24/nvidia-says-u-s-speeded-up-new-export-curbs-on-ai-chips"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Nvidia generative AI-focused DGX Cloud launches on Oracle Cloud"
     excerpt: "Nvidia's DGX Cloud supercomputer is now available in the Oracle Cloud Marketplace. Oracle customers will now be able to access the Nvidia DGX Cloud AI supercomputing service for training generative AI and other workloads,"
     publishedDateTime: 2023-10-20T16:55:00Z

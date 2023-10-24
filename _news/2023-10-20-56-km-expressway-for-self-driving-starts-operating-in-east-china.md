@@ -35,20 +35,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Honda to start self-driving taxi service in Tokyo"
-    excerpt: "TOKYO: Honda Motor Co will start a self-driving taxi service in Tokyo in early 2026, in a move that may help alleviate a shortage of cab drivers in one of the world’s most-populous cities. The Japanese automaker has been developing the driverless vehicle ..."
-    publishedDateTime: 2023-10-19T23:02:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2023/10/20/honda-to-start-self-driving-taxi-service-in-tokyo"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/20/2344798.jpg"
-        width: 1240
-        height: 827
-        isCached: true
   - title: "SK Telecom partners with Mars Auto to develop 5G self-driving trucks"
     excerpt: "This week, South Korea’s largest mobile operator SK Telecom (SKT) has signed a new MoU with Mars Auto, a company developing a unique AI solution specifically designed for self-driving trucks."
     publishedDateTime: 2023-10-23T15:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/book-review-brief
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/book-review-brief-history-intelligence-humans-shape-future-104229773"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 992
     height: 558
     isCached: true
+
+related:
+  - title: "'Human-like intelligence': A look at Vancouver's AI-powered robot workforce"
+    excerpt: "A Vancouver company called Sanctuary AI is on a mission to develop the world's-first human-like intelligence in general-purpose robots. Not only are these robots about the size and shape of people, but they also have human-like intelligence. As a result, they have a capacity to respond and adapt to their environments similar to the way humans do."
+    publishedDateTime: 2023-10-24T14:30:00Z
+    webUrl: "https://www.richmond-news.com/technology/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935"
+    type: article
+    provider:
+      name: Richmond News
+      domain: richmond-news.com
+    quality: 52
+    images:
+      - url: "https://www.vmcdn.ca/f/files/via/images/business/ai-robot-vacuum-vancouver-cleaningjpg.png;w=960;h=592;mode=crop"
+        width: 960
+        height: 592
+        isCached: true
 
 secured: "ggK5F7kNbb8sI8J2+B5qkkArUa8aOgthT/S2HZGmzcoM3rZChoH2x7BH76TZ6eA2qnAPQlBb68xUi4GhBKWJVLNp46LBR2msCT63dOI9RKsmvsEQGrvGaiEPjYz+LA7ImqDv5Vhqt9HHIYVUHeTMZBAiA63PwqsAZZSzZ8EYszMKMVmgPPChnW/ZZf2hD/Wr3GVWArqTfOAs88tCMhXg/Fp5ptJccUkVIzYEeWtV7DIgrpvr4s7kZz4Uj5tDvJ/DTHkGqlaavW+K47vrw8CkG/7GziFGhSzQVGGxuLQqX/eX/ZwhcNFCFvDwak4ROZEhGhWmw6ShW8TjKd4zEW5jmH9KOyIxoSd54UPglD8vPGQ=;C6p1NjGlUeUqwAW4EfrNXA=="
 ---

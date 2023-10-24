@@ -78,6 +78,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Can Generative AI Be The Smartest Member Of Your Company?"
+    excerpt: "To support the effective, safe and ethical use of generative AI, you'll need a solid foundation of high-quality data underpinned by governance."
+    publishedDateTime: 2023-10-24T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/can-generative-ai-be-the-smartest-member-of-your-company/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "PIONEER IN FINTECH DEMONSTRATES IMPACT OF AI IN PAYMENTS AT MASTERCARD EVENT DURING MONEY20/20"
     excerpt: "Serial fintech founder to address looming industry regulation and how AI can deliver more value to consumers and businesses  LAS"
     publishedDateTime: 2023-10-23T11:45:00Z
@@ -100,6 +109,15 @@ related:
     provider:
       name: TechRound
       domain: techround.co.uk
+    quality: 17
+  - title: "5 Jobs Artificial Intelligence Can’t Replace"
+    excerpt: "In this article, we will look at the 5 jobs that artificial intelligence can’t replace. We have also discussed the potential impact of artificial intelligence on jobs in another article."
+    publishedDateTime: 2023-10-24T11:49:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
     quality: 17
 
 secured: "mlUtkEhdQpXKAaFOJJHsVvsb6QnmGhDzcOzLaUyZk5jBT1JmUuELttKG34l59LKRvh4sUTNYB04HgPimzeseaXFI0w4rWrk2/Dhe26OUgY7uBLWHMQtFa0KFneHJ0c/asErR5u53oPNalAhGGNwDPIEJ03GPqvkoL0xrI6iyEBrTm4C6ThKsk6QSi6XAOL58ONXgUYp0X0/e+/Rc7nru2ZgQnrwYtb/Rht5w8Exb2neV+Yvd2xjAWYmXbzM+pdtgMf8CI5NyAxU+fM56/YlIr3WKp5myOw/GlrUrMx5bCWmlrUtCuCOyZnDfD1GonS6KY0D2TZvWjAQDFZlmCdS+OROm00sPYJtCJ4IbU15U2twtpiDuUZulautT4uYpqUMZblDaJhZUVKgLlgwzuepQXZlRYyEe6SEl1RU1RG9BD+cjyobUaUvHYylhbyfbJT5O9H76auWg1IQ6VFQ8VR4uPNwsrJj+ZVu1lEJGWJEGJ1KsTFBDkE+BEGkbH1/O1KPL63s53QmV6H13ghjKh1t5jg==;8GtL9w8MmZFLAYbEv3kzDg=="

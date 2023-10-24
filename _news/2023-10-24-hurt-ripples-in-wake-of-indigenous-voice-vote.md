@@ -66,6 +66,15 @@ related:
       name: Washington Times
       domain: washingtontimes.com
     quality: 0
+  - title: "Australia’s rejection of Indigenous Voice in constitutional vote is shameful, supporters say"
+    excerpt: "Indigenous campaigners who wanted Australia to create an advisory body representing its most disadvantaged ethnic minority have said its rejection in a constitutional referendum was a \"shameful act.\""
+    publishedDateTime: 2023-10-24T09:00:00Z
+    webUrl: "https://www.hotsr.com/news/2023/oct/24/australias-rejection-of-indigenous-voice-in/"
+    type: article
+    provider:
+      name: The Sentinel-Record
+      domain: hotsr.com
+    quality: 0
 
 secured: "Rit2jRr+tA66Pals6rmIe6e3GlyLRz+4o1UvQjE2FE4xjFmJA4OWOe/59jSq6yFu2OtMcbrbpv/MvOumDw9FIzFd1y1nBHUeyFZnR8aEBj88Qz1W4SdRUXPR3i8PZKsqu4DOIx+Qwf4QS2Atwjso5qs+gddnKG0jsti1mOtD69EtaAHKSZGlWAMms/mjifGofc1YdxFGMZcDxulLWkcwcxdYzTBvq/L+pwjdcTnlfZnZNk9r8JGYi2qEpRICfIz0S9RXp+CEooi2z+G6kVa/N2cVaaliEtR2AqXYyUgv8vJjGQ++VoAsL3cgxTJSMRML2YGcJ3D7tZcImMfLaCzquH+1TS0RnjbLNF4LLuDJxow=;bpZkxezdfyUIisMl9jZZtg=="
 ---

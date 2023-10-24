@@ -85,6 +85,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Can Generative AI Be The Smartest Member Of Your Company?"
+    excerpt: "To support the effective, safe and ethical use of generative AI, you'll need a solid foundation of high-quality data underpinned by governance."
+    publishedDateTime: 2023-10-24T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/can-generative-ai-be-the-smartest-member-of-your-company/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Music Companies Take Legal Action Against Amazon-Backed AI Startup"
     excerpt: "A recent legal battle is brewing in the music world. Three top music companies are suing Anthropic, an AI firm. They claim the company's AI, Claude, is using their song lyrics without permission. This"
     publishedDateTime: 2023-10-20T13:15:00Z
@@ -102,6 +111,15 @@ related:
     provider:
       name: Leadership
       domain: industryleadersmagazine.com
+    quality: 17
+  - title: "5 Jobs Artificial Intelligence Can’t Replace"
+    excerpt: "In this article, we will look at the 5 jobs that artificial intelligence can’t replace. We have also discussed the potential impact of artificial intelligence on jobs in another article."
+    publishedDateTime: 2023-10-24T11:49:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
     quality: 17
 
 secured: "OUb2pGZQlJ6BCt7rQGuSGh/4f12wTPg6lC9Gce/GkUrHJM2JrEs9e/nzprqr/vBejzylAd/vR6gGbDJqREO2oztqt2tp1qwMN7lJfhoq1+hwZiiNZFy7UVk86PYcMgkaJljJDTx9IdCHMWMiDFrDEolpw4Sr7RmvhPj3fgthq/jc9ELx5suo+iQVozqdMbV73R0cOhLOkzSZKpV2MjIL/oVUgyfLyRCmhkZVt4fuQbthP8rucDS16Vv5GwSE2i7BgUIJe4fpeD7UmNCzRaygmqnSFqhOK6nUKlSPu/ZN2oez5SIvY90fkjjRSCI4xcP4Sgs+VX/95YikuZMbz23T2PhLEtvKiE41S81cSk1MAB0=;OxEwgdlNJ2lHPj/7JSB2SQ=="

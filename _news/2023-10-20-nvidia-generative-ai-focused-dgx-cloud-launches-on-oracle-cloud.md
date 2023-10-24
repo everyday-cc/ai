@@ -77,6 +77,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 50
+  - title: "Nvidia Says U.S. Speeded up New Export Curbs on AI Chips"
+    excerpt: "(Reuters) - Chip designer Nvidia said new U.S. export restrictions blocking the sales of its high-end artificial intelligence chips to China had gone into effect on Monday after regulators advanced the timeline on the curbs from its 30-day period."
+    publishedDateTime: 2023-10-24T13:25:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-24/nvidia-says-u-s-speeded-up-new-export-curbs-on-ai-chips"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "NVIDIA AI arrives in Oracle Cloud Marketplace"
     excerpt: "“We’re accelerating our mission to infuse AI into virtually every academic and research disciplines,” said Thenkurussi (Kesh) Kesavadas, vice president for research and economic development at UAlbany. “We will drive advances in ..."
     publishedDateTime: 2023-10-20T10:54:00Z

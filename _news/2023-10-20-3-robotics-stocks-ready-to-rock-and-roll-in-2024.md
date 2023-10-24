@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-
 webUrl: "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-ready-to-rock-and-roll-in-2024-1032722476"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "The Roborock robot vacuum S8 range is the vac that rocks, and on spooky sale now"
+    excerpt: "You deserve a robot vacuum in your life, and Roborock Technology has a great one for you. The Roborock S8 range brings strong suction, hair tangle resistance, obstacle maneuverability, and more. And it's on sale right now for Halloween."
+    publishedDateTime: 2023-10-24T12:44:00Z
+    webUrl: "https://itwire.com/reviews-sp-288/computers-peripherals/the-roborock-robot-vacuum-s8-range-is-the-vac-that-rocks-and-on-spooky-sale-now.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 14
 
 secured: "gqvlvloPZdnNLuhhC9HanU0Wlv2j9vgQLSNHoLOLRguDuZYaNCuw9mWLhA9tx67IB8sngWrLlL7zNbbHUTxV9PNQ0S/Hem3D77Wqr7ftVhrLk19s70b+UlDV+xmaJeJf347a6AGn1JpTjD5jDSGVd5GtsdGiPT2LQ2sjIAczgipcimHV8HIdydM2WOXYDQPhKDyl8OfuxBi3EAU0ZpWFPC/XfMJq5IdDUz4zRSlnoEl5dxEAv+TQRsVLxw5csw8PUsOpEZZw6W6WWUFu62C7ufELLVxu+hhTB1sM/wMMvr8ggDUCXCgMJpTTPtkXvyhzNl85zgI3G0Ua916/oyPaetsdU4kwLnx5Z+FSyIYGodQ=;hrRsHbRK4PaJOUeG2hHU6Q=="
 ---

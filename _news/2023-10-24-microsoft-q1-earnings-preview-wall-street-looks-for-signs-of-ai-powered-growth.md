@@ -145,6 +145,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "As Databricks touts demand for AI services, all eyes are on Microsoft and Alphabet’s Q3 results"
+    excerpt: "We can't wait to find out if these companies will report a material improvement from their investments in AI-related computing tasks and products."
+    publishedDateTime: 2023-10-24T15:34:00Z
+    webUrl: "https://techcrunch.com/2023/10/24/microsoft-alphabet-q3-results-expectations/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-BLU.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft’s Promising Outlook: AI Growth Potential and Azure’s Stability Justify Premium Valuation"
     excerpt: "Analyst Keith Bachman of BMO Capital maintained a Buy rating on Microsoft (MSFT – Research Report), with a price target of $400.00. Keith"
     publishedDateTime: 2023-10-20T11:15:00Z
@@ -357,6 +371,6 @@ related:
       domain: microsoft.com
     quality: 12
 
-secured: "W1VHUUom+zzPy63krMrMFUeOl1bYVuk+yJvhn373Zusd3GX5VF4WIGvYoEMgFDT2pOBQpEheQgD17dmztSPSqKv4jzNpxUFf1BnNghCooyjOlyl2+anzjfY+ywdrU/GVPHSgOxabDtLC1odVg3f0gsJnHCgxxJOPDesTjbKqocuav7W+PBDYA6DZlitGQcxJCV+VtKFoh9OZ9SOn2L4k4ScbdTNxIWNxs3jqwCtKsWyBgRv2GEaRlEnf2gN8i+h2y7JS0TfW58M2lxdN7kjsHeEcLg15iAsCsn0I1B/dmC6mUYCV3O2/I7fbl+XSBoCuBlWudFIQkLkg3AhmIjmek7hVDj0ULbhYXGJf2Y76EUo=;8GRdpRVOzBBUpT6HzeYABQ=="
+secured: "cd5sWkDj+S1FM6ODmAl+CN+DjNDwsHu+/EZB3z6xoLZAD9yd9j1XXRHvHmuw5WPjVkk2teCVLL4Ph3nLMy/S7Jd13Q7IZxAFQ1/qUrlj53kDLazD8qjuSybE3aAcmGbjiakqefjGN5t4dWNG3YU8LZhEBH2zkWFPjuQSk1I6Xwu3n3PjGAIEKzMmB+xmbzFF3HJ6bO0AmbXB/b/F5gWCpZnucm8mRAtbnYOdMC+dUs7eDpvLwsD7VWuB49xj2xr3lJtlD1FtlYFT9b8kTF6MatyAtbVjBLLCFgVy39m/s4vZRsYWz0RSfITAxToxDsRBWD2XBdwqyag/7iNaxZkx3ml1tM5KjiB87PcCFdnCHgyJjaipqlg/nU1Kq8fNy2pTIPk2lhV4AkDjf5GZpKDO+lLhA/rVvIkxPhiU1wEnFt6R3LzKAfTJM6isQDXAQanv89uB1uZJKj+oleY2A0q4HtRVl0/lfTzWV1u2BX/kEgunyyBFAFRhKl41EMoPDsmb6Nce8rxVGDqBnY2IJOxqrQ==;RxJYa5XMNeNwYw2UTyrfLQ=="
 ---
 

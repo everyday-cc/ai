@@ -40,6 +40,20 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "Security threats in AIs such as ChatGPT revealed by researchers"
+    excerpt: "Artificial intelligence (AI) tools such as ChatGPT can be tricked into producing malicious code, which could be used to launch cyber attacks, according to research from the University of Sheffield."
+    publishedDateTime: 2023-10-24T15:49:00Z
+    webUrl: "https://www.sheffield.ac.uk/news/security-threats-ais-such-chatgpt-revealed-researchers"
+    type: article
+    provider:
+      name: University of Sheffield
+      domain: sheffield.ac.uk
+    quality: 56
+    images:
+      - url: "https://cdn.sheffield.ac.uk/sites/default/files/styles/two_thirds_2x/public/2023-10/GettyImages-1585385780.jpg?h=599ff58f&itok=lGT6jrS3"
+        width: 1504
+        height: 846
+        isCached: true
   - title: "Duo Builds AI Startup For Rs 15,000 Using ChatGPT, Sell It For Rs 1.2 Crore"
     excerpt: "The startup was then bought for $150,000 (over ₹1.2 Crore ... covering areas like education, AI, and finance. She played a pivotal role as the first designer at ClassDojo, where she contributed to its significant growth from 5,000 to 50 million users."
     publishedDateTime: 2023-10-23T07:07:00Z

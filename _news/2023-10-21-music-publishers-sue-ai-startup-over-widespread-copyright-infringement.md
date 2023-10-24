@@ -3,8 +3,8 @@ category: news
 title: "Music Publishers Sue AI Startup Over 'Widespread' Copyright Infringement"
 excerpt: "Universal Music filed a lawsuit against AI startup Anthropic over \"systemic and widespread infringement of their copyrighted song lyrics.\""
 publishedDateTime: 2023-10-20T20:15:00Z
-originalUrl: "https://www.stltoday.com/life-entertainment/nation-world/music/video_895a2147-4724-55ee-918b-004520cf4415.html"
-webUrl: "https://www.stltoday.com/life-entertainment/nation-world/music/video_895a2147-4724-55ee-918b-004520cf4415.html"
+originalUrl: "https://www.stltoday.com/life-entertainment/video_895a2147-4724-55ee-918b-004520cf4415.html"
+webUrl: "https://www.stltoday.com/life-entertainment/video_895a2147-4724-55ee-918b-004520cf4415.html"
 type: article
 quality: 36
 heat: -1
@@ -64,6 +64,6 @@ related:
       domain: axios.com
     quality: 17
 
-secured: "niLDtC94DzmRq///3wdi5PhFtGx78eiX8W08FVqXisI0NuJK5R7NEf4b3pY4QNoDKZJ8pftsuA2HzQTOGzNG1zlawXiWl1Br4qGLPLOwW86dRZpSPYwIZ20wTIhPgIMGD+O0EzllbpawNQYqr3L2juiHLZ0mWJ3OTvpuHT2viJ4p8CErOB2dsVNG64CBK29LE0fB4Gfu1j1y0ndAtGvVIqcklXZBBhmVIr85rqcOJNLgAO2EuM7hXimDgH/OaFD1Uf3JFagv/544dWDBX0/uRVIFe7HXIPrdJnUntdId9kjbmo0vf7k3nIwSHa15bF363eUksnnbDs8JuAoFfP8U/2f+Gw1pdwQNIQfmtqqetedraLEJz7dAzeiPdlqGZ/7ao7JKNG4rDj0DdcrpHSD/YBXMS0QWn93jxBKFM4vekwzA1hKfNFMlIwI26KFxeA0NacriUm7la2hIoC9rwY6X0Pfu+wFKErOlEz6ChNZAKY+xtqfuQkwthNtIGwm5d/JuzPYtF1ALqcgl1UcmSD2spA==;JPWPtsmdFa7w1vJM005NUA=="
+secured: "RW3DvnnCpuCjB9RtcZSoUiCsFV2IGMbC3tL4Z/w8DDD9Gls1Jj04BDPXiZQQA/z4SQsc14hrYdUjUERqJAzJ+bzxKkRSlB7vxKKj23thrte0YbN7IEwmJIjVvRqu/p3x1Bb1LB53WKyHjFiveX9tXHzKCtlJMX4oMUUSh+nrOUfLTTvdBcu/5AyxqoZ+bXGry+HFEv0uJLLCnC+n3/vYDjBA8vrydpW17fNPCPOUXPZbgFmYI60omPII5Utar/jNs9MOMwmKbNUkqqFL497FY9aSDAwlJdJ7nUfE3DZ8Bxfhv8czHs/VW6pLyb7s/2+DcowpIWeTDnaK14jCZWUeEWgJeOUI8QvpDrhOuw9uu8E=;kl7vh5ltU3ns6OoTOg2new=="
 ---
 

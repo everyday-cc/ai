@@ -18,6 +18,17 @@ topics:
   - Microsoft AI
   - AI
 
+related:
+  - title: "Kochava Unveils the Future of AI-Powered Insights Tools to Unlock Your Strategy for Growth"
+    excerpt: "Kochava, the leading real-time data solutions company for omni-channel attribution and measurement, today announced a powerful addition to its robust AI toolset. Kochava AI Prompt unleashes the power of AI to understand multiple languages through the use of natural language processing for global marketers to access and analyze their data."
+    publishedDateTime: 2023-10-24T14:41:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/24/9904352.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
+
 secured: "w8zEOOMavOs9bNtKLBCEPRP5zZZgg/i8nCx0wWg8cIHuA5gbPhKe/FFg71Ued6o8GXjdUzc/cDoF/aorcZPv3d37VLnwycAeONzlPRQgs8P5vZpZIFrzS8iY+V/Hm5Gj0WrMyufC1jC2OO3uU1bs7f4BGMG5f/LCJYw9tw0843WVd1AmZCj8S2F2CQkNULwakFhd18yWXRDQnlmfYYYFixMkDo3zIIicZhYDZgrm84chUlvNTVJuQd322RqJHO9lhmlbxG0SYcwSOL3BvYX90hxFlt4fmtLxmX0zBwgX2CL+Ep+ayPEvFlZAFJz4ZwQiFCHNcLON77L0b5c5UW6u+i2TZiGPtWe3ahBP2rbZKRE=;lqch26kh7U+M+QoWonFugg=="
 ---
 

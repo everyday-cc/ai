@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-20T10:35:00Z
 originalUrl: "https://techbullion.com/from-healthcare-to-finance-exploring-real-world-applications-of-artificial-intelligence/"
 webUrl: "https://techbullion.com/from-healthcare-to-finance-exploring-real-world-applications-of-artificial-intelligence/"
 type: article
-quality: 64
+quality: 66
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ topics:
   - AI
   - AI in Healthcare
   - AI in Finance
+  - AI in Robotics
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/10/AI-in-Finance.jpg"

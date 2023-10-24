@@ -55,33 +55,19 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Why Generative AI Needs Design"
-    excerpt: "With generative AI, computers gain a new set of capabilities: the ability to understand and generate language, code ... With simple prompts, anyone can translate an idea into a visual prototype that a group can riff on. While imperfect, these AI mockups ..."
-    publishedDateTime: 2023-10-23T21:00:00Z
-    webUrl: "https://www.forbes.com/sites/stevevassallo/2023/10/23/why-generative-ai-needs-design/"
+  - title: "FEDML Nexus AI: The Next-Gen Cloud Services for LLMs and Generative AI"
+    excerpt: "FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML Nexus AI, offering the next generation of cloud services and platform for generative AI.This press release features multimedia."
+    publishedDateTime: 2023-10-24T12:25:00Z
+    webUrl: "https://venturebeat.com/business/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6536db33f0c0d8b1f46f464e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1176
-        height: 900
-        isCached: true
-  - title: "Generative AI Can Write Phishing Emails, But Humans Are Better At It, IBM X-Force Finds"
-    excerpt: "Hacker Stephanie \"Snow\" Carruthers and her team found phishing emails written by security researchers saw a 3% better click rate than phishing emails written by ChatGPT."
-    publishedDateTime: 2023-10-24T11:00:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-phishing-emails-impact/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 61
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/01/tr12423-malware-seo-poisoning.jpeg"
-        width: 1400
-        height: 935
+      - url: "https://i0.wp.com/mms.businesswire.com/media/20231024932463/en/1922758/4/wideimage.jpg?strip=all&#038;ssl=1"
+        width: 480
+        height: 269
         isCached: true
   - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
     excerpt: "Commitment to deepening expertise and expanding AWS on watsonx integration IBM has already built extensive expertise with AWS's generative AI services including Amazon SageMaker and Amazon CodeWhisperer, and is one of first AWS Partners to use Amazon ..."
@@ -91,15 +77,6 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
-    quality: 19
-  - title: "FEDML Nexus AI: The Next-Gen Cloud Services for LLMs and Generative AI"
-    excerpt: "Today, FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML"
-    publishedDateTime: 2023-10-24T11:56:00Z
-    webUrl: "https://www.01net.it/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
     quality: 19
 
 secured: "Wo1BgIx6GKBBWTREnw7mbik1WiJy3+QEq5Fgj9P2DSm3AQ+AMCz7JLUxIV1rhGLh/5nBbjzpV3RtcIF9K6kbHTtC8TLdLAA4efeCuMFr0xGgbbOaHCa7t+T0QendfSIBAcI5dIMNPKQlcFRvGfhYGPx1+TUaXgsUPkjamxzdcP2xXat0FRCZedOcVF590zlFczFehUjG22fE46OmXyQvX1rcef7NdOAONFd0SWbF9WtBEOviGaB0eoxPwjoPO53dA2PZoWM8QYTqd+7nLV5Bs1RR7vT96Rf1pFzNDY5Yix4At5zxOo9nLmU9K3+FGVZp8SkowxC/beThsuCuOFwu+PUdG+A6VTLqoSkBAZjOLMqzhDnf3afZpfsz7QYti0OR3jqEHQnnOWuJwC/J8n5BMAam8UtHbYis0kGPKqNv3nNi5yeaNyl1JIyX0dIDFIsyfVrasl8gCgUD80QDtNkoOHbXE53SLsO5aj5n/6AB9Qao3/bWwS2beeUJ+lYIBbDr0miq+z760M/Kpt83XHPlNg==;aPJQXQouPVevK7TnjwLYrw=="

@@ -62,6 +62,15 @@ related:
       name: The Toowoomba Chronicle
       domain: thechronicle.com.au
     quality: 0
+  - title: "Australia’s rejection of Indigenous Voice in constitutional vote is shameful, supporters say"
+    excerpt: "Indigenous campaigners who wanted Australia to create an advisory body representing its most disadvantaged ethnic minority have said its rejection in a constitutional referendum was a \"shameful act.\""
+    publishedDateTime: 2023-10-24T09:00:00Z
+    webUrl: "https://www.hotsr.com/news/2023/oct/24/australias-rejection-of-indigenous-voice-in/"
+    type: article
+    provider:
+      name: The Sentinel-Record
+      domain: hotsr.com
+    quality: 0
 
 secured: "F8FxYV0un2nEKBEi3nU+/44UKakSuamEK9KHZ/OYEGOJpWgqHYgddyu0NNmPmQiS72uHSaEoxh/HUIDmjr4OLQQYvOFogp+PmJx09KRIAKpSspunQ/UpSZIwJX/V0gIvgHocKuHTt48T03TkwfsUAe/dHw8n7SlE0prmOUuEKMdCpdXNZ8NR7Ae/ctKDmFnS/87Gs1p38KkrpMcYIxmjbpISMrK4cl8jKPhoEZ9vPLzg2gyEaIYkbI0pL5WJ0zW6fVcAB/pfQhFfDrtstPcNqHIeVApJD1TrABMj+0TncT3pXZaWXzXfml5jAyev9XP9RDZ8d4J7mBzy2nhhebvvWd1QJbYUBV6lM7sNfaMqnRBV6+BuURHYzNbhXOm1nhjm77j/xtT3d1qNZOwqEQ91Nb6xgPl6bNutY2T9TiaxtbYLaLrr/kDASkrLK6ntBUFeHqaZI3S1B5oAjcw4AJ49/jOyiorSlxavpXEXpgZXyTKiJr2WfX6Js24W5ikz3GImPa0BYo0VYXM9PhGOctOAfA==;MNGCYttbNJ908I6y7yYvdg=="
 ---
