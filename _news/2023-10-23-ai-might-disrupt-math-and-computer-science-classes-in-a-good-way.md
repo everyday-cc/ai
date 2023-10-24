@@ -7,7 +7,7 @@ originalUrl: "https://www.seattletimes.com/education-lab/ai-might-disrupt-math-a
 webUrl: "https://www.seattletimes.com/education-lab/ai-might-disrupt-math-and-computer-science-classes-in-a-good-way/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - Natural Language Processing
   - AI
   - Math for AI
+
+related:
+  - title: "AI might disrupt math and computer science classes – in a good way"
+    excerpt: "While school districts around the country debate whether to ban generative AI, some math and computer science teachers are optimistic that the tools could have a positive impact in their classrooms. AI can serve as a tutor,"
+    publishedDateTime: 2023-10-24T05:00:00Z
+    webUrl: "https://hechingerreport.org/ai-might-disrupt-math-and-computer-science-classes-in-a-good-way/"
+    type: article
+    provider:
+      name: The Hechinger Report
+      domain: hechingerreport.org
+    quality: 56
+    images:
+      - url: "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2023/10/225171_aiuw842625-scaled.jpg?fit=2560%2C1843&ssl=1"
+        width: 2560
+        height: 1843
+        isCached: true
 
 secured: "+9D9LGipv2LyeWQ5oRDsNOQWtxzph3fKhQROQKDsjNtnWQBpruYRKtv/6NRs0PE/hGUaY3qmfjlbp5hK3EMQSq5uKO5tzOnleEluHE2uafDFtyyOHT5p/eNsLFK2QXa8TnEkvri7CAfmZqCP595t8nW+pooDX5fZVVeVwewkbRrNqHQFMlUVdokzqogg7gOb5HEGOhfoOX978vvYcO40HmjljgIfwz1sqOKQHQfMyDKE2IefDViKGKcUuccvb/NxRxuOM3LjgZyT4xqeeyhoYNoQtPi+raIbpni18ZyrlI2Rwy5V6EDJWfzFLRcE/rZGPDTtYSJBUmkvsEK4DoG2EdJn2yAXoaN3sTcAGnJptBaah1ReKlX05rRsAAApFlAeAeO0tmoF8uWcjiLnuFtiy2I/vWWm04FcYZ6NdtXRu2s8P4yd4+Z2AwKC0Ee1nD6SP6bf5TprWir0gpoTLlK1YrGvr3xq5Eml1MbjL5MSYlGt+b8g77AnEeQ8LJi9b5nne/Y33AXjm9r1664+5ic4Kw==;PX40EXFawcTPZfgUYaL4DQ=="
 ---

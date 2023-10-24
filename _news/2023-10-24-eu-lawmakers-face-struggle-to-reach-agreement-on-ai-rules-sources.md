@@ -57,6 +57,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "With Generative AI Advances, The Time to Tackle Responsible AI Is Now"
+    excerpt: "In 2022, companies had an average of 3.8 AI models in production. Today, seven in 10 companies are experimenting with generative AI, meaning that the number of AI models in production will skyrocket over the coming years."
+    publishedDateTime: 2023-10-20T17:09:00Z
+    webUrl: "https://www.unite.ai/with-generative-ai-advances-the-time-to-tackle-responsible-ai-is-now/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/responsible-AI-1000x600.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "EU lawmakers face struggle to reach agreement on AI rules -sources"
     excerpt: "The EU started working on the draft AI Act in 2021. In May this year, the European parliament agreed on draft legislation including new rules around the use of facial recognition, biometric surveillance, and other AI applications. Under the proposals ..."
     publishedDateTime: 2023-10-23T15:23:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.normantranscript.com/news/oklahoma-lawmakers-struggle-to
 cdnAmpWebUrl: "https://www-normantranscript-com.cdn.ampproject.org/c/s/www.normantranscript.com/news/oklahoma-lawmakers-struggle-to-tackle-artificial-intelligence-regulations/article_db878da0-6f5f-11ee-b85c-1bf089b6dd9f.amp.html"
 type: article
 quality: 60
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/3a7a9b8/2147483647/strip/true/crop/770x402+0+21/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F8b%2F30%2F4a5c1d816421a46b210b0da4f13f%2Foklahoma-capitol.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "With Generative AI Advances, The Time to Tackle Responsible AI Is Now"
+    excerpt: "In 2022, companies had an average of 3.8 AI models in production. Today, seven in 10 companies are experimenting with generative AI, meaning that the number of AI models in production will skyrocket over the coming years."
+    publishedDateTime: 2023-10-20T17:09:00Z
+    webUrl: "https://www.unite.ai/with-generative-ai-advances-the-time-to-tackle-responsible-ai-is-now/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/responsible-AI-1000x600.png"
+        width: 1000
+        height: 600
         isCached: true
   - title: "EU lawmakers face struggle to reach agreement on AI rules -sources"
     excerpt: "The EU started working on the draft AI Act in 2021. In May this year, the European parliament agreed on draft legislation including new rules around the use of facial recognition, biometric surveillance, and other AI applications. Under the proposals ..."

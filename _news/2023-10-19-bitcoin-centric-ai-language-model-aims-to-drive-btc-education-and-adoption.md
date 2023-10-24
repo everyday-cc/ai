@@ -90,20 +90,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
-    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
-    publishedDateTime: 2023-10-20T16:48:00Z
-    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 60
-    images:
-      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Role of CX automation and generative AI"
     excerpt: "Customers expect personalised and efficient service, and the emergence of generative AI has led to a significant shift in the way businesses approach customer service and customer delight. Like human interactions,"
     publishedDateTime: 2023-10-22T09:48:00Z
@@ -152,21 +138,19 @@ related:
         width: 1200
         height: 1594
         isCached: true
-  - title: "Your Personal Information Is Probably Being Used to Train Generative AI Models"
-    excerpt: "Companies are training their generative AI models on vast swathes of the Internet—and there’s no real way to stop them"
-    publishedDateTime: 2023-10-19T11:49:00Z
-    webUrl: "https://www.scientificamerican.com/article/your-personal-information-is-probably-being-used-to-train-generative-ai-models/"
-    ampWebUrl: "https://www.scientificamerican.com/article/your-personal-information-is-probably-being-used-to-train-generative-ai-models/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/your-personal-information-is-probably-being-used-to-train-generative-ai-models/?amp=true"
+  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
+    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
+    publishedDateTime: 2023-10-20T16:48:00Z
+    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
     type: article
     provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 53
+      name: Automation
+      domain: automation.com
+    quality: 58
     images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/0446505E-447E-4ECA-A5699DE89F708B8E.jpg"
-        width: 790
-        height: 496
+      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
   - title: "AI And The Cognitive Revolution"
     excerpt: "Artificial intelligence may be the first innovation to disrupt our way of life on the same scale as the Industrial Revolution."

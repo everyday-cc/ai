@@ -38,29 +38,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Inside the ChatGPT race in China – MIT Technology Review"
-    excerpt: "A Chinese ChatGPT alternative won’t pop up overnight—even though many companies may want you to think so.Every once in a while, there’s one thing that gets"
-    publishedDateTime: 2023-10-19T11:16:00Z
-    webUrl: "https://www.inferse.com/762583/inside-the-chatgpt-race-in-china-mit-technology-review/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 24
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12672.png"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "DS Automobiles integrates ChatGPT with speech recognition"
-    excerpt: "DS Automobiles is the first automaker to integrate ChatGPT AI software into in-vehicle speech recognition for European customers. ChatGPT is available in combination with the DS Iris system for all models of the DS 3,"
-    publishedDateTime: 2023-10-19T12:44:00Z
-    webUrl: "https://www.elektroniknet.de/international/ds-automobiles-integrates-chatgpt-with-speech-recognition.210577.html"
-    type: article
-    provider:
-      name: Elektronik Net
-      domain: elektroniknet.de
-    quality: 19
   - title: "ChatGPT, DALL-E 2 and the collapse of the creative process – The Conversation"
     excerpt: "Professor of Philosophy and Director, Applied Ethics Center, UMass Boston Postdoctoral Fellow in Philosophy, UMass Boston The authors do not work for,"
     publishedDateTime: 2023-10-20T19:08:00Z

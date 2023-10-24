@@ -3,10 +3,10 @@ category: news
 title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
 excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
 publishedDateTime: 2023-10-20T16:48:00Z
-originalUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
-webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
+originalUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
+webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
 type: article
-quality: 60
+quality: 58
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: automation.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
@@ -151,22 +150,6 @@ related:
       - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/f7931d22-8980-4b91-b725-9e639aa15576.jpg"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Your Personal Information Is Probably Being Used to Train Generative AI Models"
-    excerpt: "Companies are training their generative AI models on vast swathes of the Internet—and there’s no real way to stop them"
-    publishedDateTime: 2023-10-19T11:49:00Z
-    webUrl: "https://www.scientificamerican.com/article/your-personal-information-is-probably-being-used-to-train-generative-ai-models/"
-    ampWebUrl: "https://www.scientificamerican.com/article/your-personal-information-is-probably-being-used-to-train-generative-ai-models/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/your-personal-information-is-probably-being-used-to-train-generative-ai-models/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 53
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/0446505E-447E-4ECA-A5699DE89F708B8E.jpg"
-        width: 790
-        height: 496
         isCached: true
   - title: "AI And The Cognitive Revolution"
     excerpt: "Artificial intelligence may be the first innovation to disrupt our way of life on the same scale as the Industrial Revolution."
@@ -312,6 +295,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "qHgyc1dwpSzq2IHTGMDSQeS+yJUnBJSfK2q0rT+0q+iMubLjiQQdxoziKfLkCejYWaLKUJi5stxEBj8mjjP6+3fn/NOOIuQr2fqpTDCym9v5B2KGiDkPMY6DTdxBliNwPXxMcULxX8oE+vyHxutr1zEaXPF44OOvmnJ5FZRDmd5OTuLl6ejTEJXnlkgTIRnOoSkhisCOMyQkU6YcsW38jWICDvwWfRjQQEMdiAffW3fvqdCeDBNrftpdLpYA5Px+Utyu6y2b6eMpPXcDZSIQYpAfUaqxTMIAdx+nFKoVoqZoAafdp4noLaw9dcefz6VFAYG92+StBmNIZXmalGWFJBYvET9w+E6Y3+giSIshh+g=;cnZVux4rYYuI1JZvDmzWzA=="
+secured: "yMURbBXXBUAjGKlgxvNwS2zY4QtcFnfPsUvfpqwM2At9eQpHTRrFJZ4G6hJzc8lPgvooRrAQ8aPQgzX6Wbwv7PyaLP4BvgaohuoIiGD/oAhPpT7zp+lKqPikyhOQG6JyFOTSzKhL85GPq7mW8NCvGdO8/wJmwfeKfTGMsNqbE9mwFNIG1xCFwyetXlRVUiBLwQW+zFsWS/9M61gZPpWCpBp1dtcWSNK8F7hSMKkZatjT1CkU92EoTNpbUas1uEzm1+sxNycw83RTwU0tBRZpIhPuAFO2UXeWM6YLzZHg/C7INIyiYYB2MY7SCFHEAiOXKiXildp/NzGowzLFa4B9yWDaOZeA4ThEY9yuQ+CfXoQ=;RpeR+BUk85P2LObP4hAlkw=="
 ---
 

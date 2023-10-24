@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35351309"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35351309"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1043
     height: 1043
     isCached: true
-
-related:
-  - title: "Cleaning Robot Market worth $8.44 Billion by 2025 - Exclusive Report by The Insight Partners"
-    excerpt: "Furthermore, the cleaning robot market is further improved by introducing automation and artificial intelligence (AI) in commercial and residential applications. The AI-powered robots help detect the cleaning areas and can differentiate between dirt and ..."
-    publishedDateTime: 2023-10-19T11:43:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/g35326052/cleaning-robot-market-worth-8-44-billion-by-2025-exclusive-report-by-the-insight-partners"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35326052"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35326052"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "kZCUhtBi4GJUc5bHbE+9qLU3Z9CpDFetQ5MXaf0mloeYUFRAaGLHoC9FBvOADfYcZD6/pH80j2s9M05pewSvwvIndL0JMMz8SmlsJf2aVN87gBMMeIV1r24ij/Xf82pS0FhbJKcJ++HzwaJv5O2x4qsPnRsJSA4o4voj3loZP+hEAvzEetAzaum+2NvcMqYIjO8AzbnsUyDb6dwObk0XqBza3Tp8eh+UYmr4matjp64KmaHTQyipw632qHMFaXO3/CXEn4nxpNfsG9t8mv5/DT9Nf0K5LNBpdRml6OyoHVE1U5cycpaurM7Js2eLa8oQfXzAs8YQYXw1gJrDEh24XPXXmDlOT8ZuLiohanndZqU=;YzNtqWNfwPH5xbm10MMh4A=="
 ---
