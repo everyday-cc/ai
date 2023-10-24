@@ -2,26 +2,26 @@
 category: news
 title: "Is artificial intelligence the new weapon in global threats?"
 excerpt: "Violence in the Middle East is prompting new threats in the U.S. On full display, at protests worldwide there is a deep anger, some experts say soon may be used to harness new ways to try to launch attacks or exploit intelligence in parts of the world bad actors could never set foot in,"
-publishedDateTime: 2023-10-19T17:01:00Z
-originalUrl: "https://newschannel20.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
-webUrl: "https://newschannel20.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
-ampWebUrl: "https://newschannel20.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
-cdnAmpWebUrl: "https://newschannel20-com.cdn.ampproject.org/c/s/newschannel20.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+publishedDateTime: 2023-10-19T21:02:00Z
+originalUrl: "https://news3lv.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+webUrl: "https://news3lv.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+ampWebUrl: "https://news3lv.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+cdnAmpWebUrl: "https://news3lv-com.cdn.ampproject.org/c/s/news3lv.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
 type: article
 quality: 59
 heat: 69
 published: false
 
 provider:
-  name: NewsChannel20
-  domain: newschannel20.com
+  name: News 3 Las Vegas
+  domain: news3lv.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://newschannel20.com/resources/media/32d12674-0eb4-43b9-8838-1dcea66a20c0-medium16x9_AP23291793462047.jpg"
+  - url: "https://news3lv.com/resources/media/32d12674-0eb4-43b9-8838-1dcea66a20c0-medium16x9_AP23291793462047.jpg"
     width: 648
     height: 364
     isCached: true
@@ -37,6 +37,6 @@ related:
       domain: techopedia.com
     quality: 19
 
-secured: "k9IH9ccOihqAmjJ9RNhXARRkplrvAbmYMViZzGL/IV+ludJfCPOFKo47jtU0Tqjie2HKFhwHtSpINNns21y72+NF7uBjhwtReidvwMnVdC2Eam6XiGIjDDEy6UvfiivRYgKOaJRrmJiYYf5dWbqV/er21g4Q9JfzTPabJe1LGmwXoSkSubiPF2fM5ejurQaOCG4puVv3pI6wqJGlDA4JosmMMQYgDMfkk6NZzts7lICn8e/VNE4gpq29MVH15aK3carL9Gbk3aJlH3KpYaxvkrdPJw3MwQK6WutYeRx08hXJyR3ygyadRtkEqZ2OFLqOGeq0bqG2Ov8R02X+SHyUVLUzFej6fEDF5W31xroRjCYQwSkbFSbUmQZl70FlnZgN8ORUxXWw2EBiJkF3ytkvjfnKNQwhouvhKj4RJd4MQ2gD0xA4dGvbR9HW9Fzmoff2eceDrDccMiELphVsC0DQBBEcHmktPYiUrz+o74yCsslJS88OiSJV1AXm5/OLtJcSeON6t8v5kVrqX44jMG7dxw==;3CLBunwRed3qUYHQ98hJVQ=="
+secured: "aDt9Es3hTWuV6Rjp8incSgm1WuJX24fxUe9wnxOxlunjgJEelw1lnt5lRQFgJj/+ZJMoWGX6kvtm86k5dbQfJz0PLhXxMh+JGBTm1skw00JmycBtoAbkX9y5SbPAQz97KpBowxaZB6Kbfh9R/44PLWtuGacUtAwBoHcJ480ehXbKhtYXKCQ60WIlWIiDqkYoi3w/hoXqG/10b8KhtvK6Mv15Apx8UnWQIDcJlIpG2rqsmD5g7nuko2r5WJgCSOt3v3JhW9/ukP1j/0B7uZIpAs4qMubc18hn5jvdxK4i0uNUC/74gpT9tqUtOq947TC6D8a0wRGCNudZNEEtZB7qzJl3/DUaOcbu5JsTq8Ja184=;mUIHE6eMAI66qZj2uXj24g=="
 ---
 

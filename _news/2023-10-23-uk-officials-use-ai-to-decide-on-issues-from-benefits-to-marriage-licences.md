@@ -38,6 +38,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Revealed: Government using AI to decide on benefits and driving licences"
+    excerpt: "Government officials are using artificial intelligence (AI) to help decide on everything from approving marriage licences to who should be given benefits, it has been revealed."
+    publishedDateTime: 2023-10-24T06:50:00Z
+    webUrl: "https://www.aol.com/news/revealed-government-using-ai-decide-064919745.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 38
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/3128803184bdd660a7bb0eff51bb8862"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "SHosCRFvFcJM81NujEI7QcLsxSq/F7UjvgZnTrVIbPmaFjXdP7niNF40gbVjJixlxEuL0J8Ngny9cLtz52vYekxoya37T9DO06xQPPC3HRqV9/fpAYbXCN1rn7mJWHDP0+Exr02Ir1A0H6NJgpKpH+4kZDDj2OWZzDDvJeWoP7buCKa/p9RuuLsOnQvdAKe5uwQs7R/WJkHTyzgrV8Yc66YdxbZ6HJDyjrXM2nRFxj7sIS03OQ2ITCelslqtTXKqglmEnHaxrXDfEKY42ZgtP8L8xSHDEejfma47wQtS0jUeQ2SZD6kbF9XFW589QQcWpRZPceTodLGlUtZ2PQfKkxzPrTsXH05o3hl+iXf9vjiTMDMUYoOYkrkRqp/JaTOA6avAxxaDvxMNQGStqPZBM3Yy59g8MljAMKy1tomc1bBVLSGjKV6WSrHhZfKnvDenvU2XxqGGljQIopGyeq18vp/27JIp+YNE+9q4r0wvsQX6JKPpSI7lVbJAZJXW8wVGciqFWI+TYZCzxNgb2f+6wQ==;TNWEgQB7j1CZVY208TiRdA=="
 ---

@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
+    excerpt: "Stanford researchers warn chatbots used in health-care settings could spread misconceptions and falsehoods about Black patients SAN FRANCISCO (AP) — […] The post Health providers say AI chatbots could improve care."
+    publishedDateTime: 2023-10-22T16:55:00Z
+    webUrl: "https://www.aol.com/health-providers-ai-chatbots-could-165532828.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 25
+    images:
+      - url: "https://media.zenfs.com/en/aol_thegrio_365/6fd4e3e1e11218c91e257242938cc3fb"
+        width: 900
+        height: 600
+        isCached: true
   - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
     excerpt: "Stanford School of Medicine researchers have discovered that popular chatbots are responding to questions using race-based, debunked medical ideas."
     publishedDateTime: 2023-10-20T16:11:00Z
@@ -64,15 +78,6 @@ related:
     provider:
       name: Santa Rosa Press Democrat
       domain: pressdemocrat.com
-    quality: 5
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "Powered by AI models trained on troves of text pulled from the internet, chatbots such as ChatGPT and Google’s Bard responded to the researchers’ questions with a range of mis"
-    publishedDateTime: 2023-10-22T17:12:00Z
-    webUrl: "https://thegrio.com/2023/10/22/ai-chatbots-risk-spreading-racist-ideas-about-health/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
     quality: 5
 
 secured: "bkYUYq0I/5cGXRfaQ5+b+4rNd8AXrP3aFRehff8BDYTndW2u44lj+CqU3zILvA3upehV1cyPjU2cSRQrnyTjA3a162l/MOt+7cVDu1T0qLJQaik0JwY0jCSf8RvJCPsJ7vB8Ptl4xmhxwr9Ge55ZkA9EVpBR4QRI4JV56jQOYQls3+Iihp3NV3WJld6jGrvRrdB5wmlfUnpm7BFOp/aITVUePmnj59ZRQHRt8aVgPuMBv0m4HaB0gzQaZAJqZjcC9Th1FnqCGZ0I94CxfTgMugYT0pKv/cgKP/4w01dYpcKQiX65tdpwqIRtnbfBDZxPx3wAsbBtzSb5AuZbrSn6HN71gFbGoLRQHHPGO6fyAD5co4vpE2KEKwjJsLdtRgz2POvGYey6EY5QWa5x0dR4brTULC5wh0WpxZ8Pt9vXjfpRDou17YcYWS/8+i8+oTzhBHzhikEUf2NkjVDA5cK4V7IrP+KD9LVxY++qGmIQlBpersVCT83bx0erFBSk83WKmHSTA3LHL+ZMSeidEfNAGw==;lRVh/6ZnRwyiGRJvzU51Kg=="

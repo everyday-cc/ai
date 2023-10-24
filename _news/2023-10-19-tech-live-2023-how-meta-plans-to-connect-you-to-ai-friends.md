@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/podcasts/google-news-update/tech-live-2023-how
 webUrl: "https://www.wsj.com/podcasts/google-news-update/tech-live-2023-how-meta-plans-to-connect-you-to-ai-friends/50df721b-db21-4bcf-b819-09d9ec1014d4"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
         width: 400
         height: 511
         isCached: true
-  - title: "Chicago AI Conference 2023: Shaping The Future Of Finance With Responsible AI"
-    excerpt: "Chicago AI Conference Speakers The Chicago AI Conference, organized by the AI 2030 Initiative, FinTech4Good and co-host"
-    publishedDateTime: 2023-10-20T18:43:00Z
-    webUrl: "https://menafn.com/1107278575/Chicago-AI-Conference-2023-Shaping-The-Future-Of-Finance-With-Responsible-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 33
   - title: "IT Arena 2023: The Future of AI, Startups, and Tech Cities"
     excerpt: "Daniel Prieto, former Director of Cybersecurity Strategy at the White House, agrees: \"Generative AI can be used for disinformation and creating deepfakes, which poses a risk.\" IT Arena hosted the battle of the most ambitious startups - Startup Competition."
     publishedDateTime: 2023-10-23T13:48:00Z

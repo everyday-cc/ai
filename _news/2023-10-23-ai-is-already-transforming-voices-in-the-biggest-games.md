@@ -32,7 +32,7 @@ related:
     provider:
       name: Foreign Affairs
       domain: foreignaffairs.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/10/12/1_MilitaryAI_EMorciano.jpg?itok=vj3Kj6_E"
         width: 1200

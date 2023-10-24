@@ -1,20 +1,20 @@
 ---
 category: news
 title: "PurpleCubeAI Introduces Cognitive Data Insights: A Game-Changer in Unstructured Data Processing and Data Governance"
-excerpt: "PurpleCubeAI, the industry's only cloud-native scalable, enterprise-class unified data orchestration platform, today announces its latest offering, Cognitive Data Insights ... is immediately available on both Microsoft Azure and AWS."
-publishedDateTime: 2023-10-17T11:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-purplecubeai-introduces-cognitive-data-insights-game-changer-unstructured-/2023/10/17/9899619.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-purplecubeai-introduces-cognitive-data-insights-game-changer-unstructured-/2023/10/17/9899619.htm"
+excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--PurpleCubeAI, the industry’s only cloud-native scalable, enterprise-class unified data orchestration platform, today announces its latest offering, Cognitive Data ... available on both Microsoft Azure and AWS."
+publishedDateTime: 2023-10-17T11:26:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231016713946/en/PurpleCubeAI-Introduces-Cognitive-Data-Insights-A-Game-Changer-in-Unstructured-Data-Processing-and-Data-Governance"
+webUrl: "https://www.businesswire.com/news/home/20231016713946/en/PurpleCubeAI-Introduces-Cognitive-Data-Insights-A-Game-Changer-in-Unstructured-Data-Processing-and-Data-Governance"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "OKCi1iYkonLX0VUELR7RNcFtDzoNHnt8IR3CbYdfHJ3rIVzFHkGmJwqxP+js7GnEx86XV6gw98pa31kImN3j5fNt/Cm2izsaOTRkIDZodcOJWaan2Rf1BehD7uk5VVOh5n4M2f5xUeLH7pR20r68SuxZrbkCTG8R9Jrdsf1bG7v9ry+N7t8IeXQW0bUVa+J/ya9TcsWxJGrqHVgu//+4IbWCqe2SgChuNeEKlUlrcAoVSSEtsT86Kc/kfmpQenLczJ5dc6dRjGbQlzsRu+KwClB72wuqAw24j4Z9nUtM0OpnvoUq9u5LXRCjAiK8jxsIsA+yFitbQx6i4DYLRrZP0py0dEWetnA5DjoyCkIbdDk=;PVJdPgrIN/ug4CU5HRsBNg=="
+secured: "h9U3Iqi7qa+YiUQAlk9dvYSdMSkkfTh5qHQ/E2ji2vM/GR0uc2D0bbWRFeP6YX1hPWcyspDI60R/en0IR5IRZWEKn2Zhh+oq1e0qIhf9nlhZDMprQu7Fs0VORiqeF1FF3gt84KFR+6dySr58kn06MNSK0LE37C9cWdkvD6wRQNfdBBmj1mH6TZeCN5yZ7YJUp6Nmfq9sa/zA7Xvds2MEzL5jjizPWr/YqK3ktfGaRDKFtsGc94dq0zT1SIQSfo24nG3n8HNpOzPWR5sf13jlQACbcqArTb6XMoLbswCLd4USV5vjt/CWCLE8AlrTObLxhFwCc45/IKgwVepBdNyf4oRHzOX46i+mZgWxc+pddYs=;wQ9Brwfhci1FLkQIH2l4Tg=="
 ---
 

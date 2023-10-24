@@ -35,22 +35,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "World Health Organization Addresses AI In Healthcare Bias, Outlines Guidance For Regulatory Compliance"
-    excerpt: "World Health Organization (WHO) has unveiled a comprehensive publication highlighting critical regulatory considerations for harnessing the potential of"
-    publishedDateTime: 2023-10-19T15:08:00Z
-    webUrl: "https://www.benzinga.com/government/23/10/35330203/world-health-organization-addresses-ai-in-healthcare-bias-outlines-guidance-for-regulatory-complianc"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35330203"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35330203"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/10/19/laboratory-563423_1920.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "3YCkoWzUI4OkOC/kB0kjg+k5Ma+sZj14IuEHBhoF+CXySIvph/rUpN4jeXxTttscJtXPXgsR9lbk2oFi4OJVObYQDn0c8fz8Q3EXsxPOUTIbpScLhrhzpo72Mhx/NKSB7S996CCRPcoryvIOXPAvs5MrRQyxu5yrOfc9VBOt8WTQRedNwS+AwwwG7yWvJUP5ybjffneImI9LcLi0Fo1sWvCm4xY/7ACX01ItQeCQ48b8Ng6YjldQwouUwW9V80ItiVrtACp7kHzYuAJUWiHOu5al7OC/klBAFdl3IwcVZQrDN84U+gN6TegaKF64b102Pmwf9xLHOIdcJMUfju7PidSKJBAgDRRFOPMFMdihTQrO6k5jW+tTtHrQN0MiXoSvFrFhdDcAZ9YKOxfGpNRFsIjvphxfSSI2nFCiN3UQrqPB+K5Xmgn42fLcQdIjDdmycQPUxjcY0TjF3aEC7dQ6uMFDRWeWQJr5NY+CZp3Rz0FWjVJvdpCTwkC3Ep/iaC/rtJyr6kfb0YNjEEoKj2BuSQ==;P92KPo1Fd7lI0gt6sOtElQ=="
 ---

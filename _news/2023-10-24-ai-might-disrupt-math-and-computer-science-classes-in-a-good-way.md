@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-24T05:00:00Z
 originalUrl: "https://hechingerreport.org/ai-might-disrupt-math-and-computer-science-classes-in-a-good-way/"
 webUrl: "https://hechingerreport.org/ai-might-disrupt-math-and-computer-science-classes-in-a-good-way/"
 type: article
-quality: 56
-heat: 66
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - Math for AI
+  - Natural Language Processing
 
 images:
   - url: "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2023/10/225171_aiuw842625-scaled.jpg?fit=2560%2C1843&ssl=1"

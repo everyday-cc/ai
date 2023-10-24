@@ -63,6 +63,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Millionaire uses Artificial Intelligence to develop medicine"
+    excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
+    publishedDateTime: 2023-10-23T14:55:00Z
+    webUrl: "https://www.aol.com/news/meet-millionaire-using-artificial-intelligence-220148874.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/1a966eeed169632ef66240d355698698"
+        width: 976
+        height: 549
+        isCached: true
   - title: "Achieving Data Diversity Through AI in Drug Development"
     excerpt: "AI and machine learning could transform drug discovery, but first, practitioners must overcome ethical challenges en route to medicines for all."
     publishedDateTime: 2023-10-23T04:03:00Z

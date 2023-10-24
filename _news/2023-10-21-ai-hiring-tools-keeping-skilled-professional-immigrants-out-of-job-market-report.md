@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Artificial Intelligence (AI) in Medical Diagnostics Market Worth $3.7 billion | MarketsandMarkets"
-    excerpt: "Artificial Intelligence (AI) in Medical Diagnostics Market in terms of revenue was estimated to be worth $1.3 billion in 2023 and is poised to reach $3.7 billion by 2028, growing"
-    publishedDateTime: 2023-10-19T15:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/19/9902213.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
-
 secured: "/0VBdvRHIK0qWvFgJiDRsklpf+i9rkZ1J4fEjGOIE+eMQ/8WoAKigvXqwEzlRUgxfMif2a5KjDgPesypQKmBii6u4Kd+b/XQnONi5565TgPkRg+v/j5hrKq0CpSGR7SWKgg3BAQShbVfX05IIJJWCOvAC8Pdp6bh4NB7fk5d1h3wOkHD0o82yzB/a4iJ0OsMX4dZ9ghotcJQONMRjgBJsZ4dH814wHRyLCvUqR3JqOKuyZi4dTJMohVmvNTtp9Sqs1UpoUnn5xz0EBm4svH9HmAr8b3XRwFMzhxr+N9g7ipF7bzbhYtYAuLtciQNsNray+vexzrR8B++fNnRaKDO94I8o4uxerlwrxpyEls1aN8=;R0wVtilD3Ezth7YHUtPBDg=="
 ---
 

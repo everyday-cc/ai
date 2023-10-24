@@ -26,34 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Intel's New 'AI PC Acceleration Program' Aims to Rev Up AI Software Development"
-    excerpt: "Bracing for the next big step in the evolution of AI in computing, Intel plans to hold its software-developer partners’ hands the whole way there."
-    publishedDateTime: 2023-10-19T15:01:00Z
-    webUrl: "https://www.pcmag.com/news/intels-new-ai-pc-acceleration-program-aims-to-rev-up-ai-software-development"
+  - title: "The Music Industry’s First Reckoning With AI Is Upon Us"
+    excerpt: "If any company is going to convince the music industry to test out AI, it’s probably YouTube. The relationship between YouTube and the music industry has come a long way. Once reviled as a thief, YouTube has since been embraced as a pivotal partner."
+    publishedDateTime: 2023-10-22T22:01:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-10-22/the-music-industry-s-first-reckoning-with-ai-is-upon-us"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 63
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/065Okl5SsF3hL5tSOFH8Bsb-1.fit_lim.size_1200x630.v1697646882.jpg"
-        width: 947
-        height: 630
-        isCached: true
-  - title: "Quickbase Augments Construction Software No-Code Development with AI"
-    excerpt: "AI brings contextual smarts to Quickbase users developing software applications for construction—plus an update on other recent developments with the platform."
-    publishedDateTime: 2023-10-19T14:43:00Z
-    webUrl: "https://www.forconstructionpros.com/construction-technology/apps/article/22876667/quickbase-quickbase-augments-construction-software-nocode-development-with-ai"
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Dear Matt: Artificial Intelligence in the AV Industry"
+    excerpt: "Dive into AI's impact on the AV industry, its applications and the importance of responsible use from Vistacom's CTO, Matt."
+    publishedDateTime: 2023-10-20T22:22:00Z
+    webUrl: "https://marketscale.com/industries/podcast-network/tech-unraveled/dear-matt-artificial-intelligence-in-the-av-industry/"
     type: article
     provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 39
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2023/10/qb_create_new_app.65304f864a49c.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
+      name: marketscale
+      domain: marketscale.com
+    quality: 19
+  - title: "Dear Matt: Artificial Intelligence in the AV Industry"
+    excerpt: "Vistacom’s Matt Boyer answers a question on artificial intelligence in the AV industry in the latest installment of “Dear Matt,” presented by Vistacom."
+    publishedDateTime: 2023-10-23T14:20:00Z
+    webUrl: "https://marketscale.com/industries/pro-av/ai-in-av/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 17
 
 secured: "x9Cg0MZI/D5UM4UKh1F2/nj8pTbcFPQ+hVPetFrwmRcp5hobQaMqLgqTFXsMVSkcLdA6GOolYiIOlzd6PW4kC2tLj5uQBKL9ewh+JG6NESshDA2GMCz/2/0IBDAYtTUYP9b9qEyW2cP3UgN8bx02GRhh8bf01HFpeB97OjTbV9LG6vnhkqLnT6Mj6f+jZWPy2eB9UFynXEKMHTs+ZIDVmLuo6irmNQz+tNr/n/qteAT9GnzM+I82vyO4h1SdfmcRRobv9TzkEQw6x5AZr4MN1NM3SakEvvznfqlSgltPykVMJbFu58YgsWHXxy9wB2HA7bZ5LMmcyq8OwBBmM6w73Ys4pdQHPndJe81ronE/QUA=;IuTip7eg8h+f3Oq1Ocieiw=="
 ---

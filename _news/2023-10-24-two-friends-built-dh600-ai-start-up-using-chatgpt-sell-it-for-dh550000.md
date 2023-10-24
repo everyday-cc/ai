@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "OCBC to Deploy Generative AI Chatbot Powered by ChatGPT for Staff Globally"
+    excerpt: "OCBC announced that it will deploy a generative artificial intelligence (AI) chatbot to its 30,000 employees globally in November 2023."
+    publishedDateTime: 2023-10-24T06:43:00Z
+    webUrl: "https://fintechnews.sg/79276/ai/ocbc-to-deploy-generative-ai-chatbot-powered-by-chatgpt-for-staff-globally/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 37
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/10/OCBC-to-Deploy-Generative-AI-Chatbot-Powered-by-ChatGPT-for-Staff-Globally.jpg"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "A ChatGPT rival just published a new constitution to level up its AI guardrails, and prevent toxic and racist responses"
     excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Anthropic AI, an Amazon-backed AI startup and rival to OpenAI, has taken a democratic approach to governing its artificial intelligence. The firm, which is behind the ..."
     publishedDateTime: 2023-10-23T19:33:00Z

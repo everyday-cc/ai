@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/book-review-brief
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/book-review-brief-history-intelligence-humans-shape-future-104229773"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 992
     height: 558
     isCached: true
-
-related:
-  - title: "How Artificial Intelligence is Shaping the Future of Programmatic, Thanks to Very Human Intelligence"
-    excerpt: "Artificial intelligence (AI) is the hot new topic on everyone’s lips, but when it comes to the programmatic industry, AI is nothing new. Data scientists, tech teams and traders have been harnessing the power of AI for years, using it to shape the future ..."
-    publishedDateTime: 2023-10-24T02:26:00Z
-    webUrl: "https://www.exchangewire.com/event-videos/how-artificial-intelligence-is-shaping-the-future-of-programmatic-thanks-to-very-human-intelligence/"
-    type: article
-    provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 2
 
 secured: "ggK5F7kNbb8sI8J2+B5qkkArUa8aOgthT/S2HZGmzcoM3rZChoH2x7BH76TZ6eA2qnAPQlBb68xUi4GhBKWJVLNp46LBR2msCT63dOI9RKsmvsEQGrvGaiEPjYz+LA7ImqDv5Vhqt9HHIYVUHeTMZBAiA63PwqsAZZSzZ8EYszMKMVmgPPChnW/ZZf2hD/Wr3GVWArqTfOAs88tCMhXg/Fp5ptJccUkVIzYEeWtV7DIgrpvr4s7kZz4Uj5tDvJ/DTHkGqlaavW+K47vrw8CkG/7GziFGhSzQVGGxuLQqX/eX/ZwhcNFCFvDwak4ROZEhGhWmw6ShW8TjKd4zEW5jmH9KOyIxoSd54UPglD8vPGQ=;C6p1NjGlUeUqwAW4EfrNXA=="
 ---

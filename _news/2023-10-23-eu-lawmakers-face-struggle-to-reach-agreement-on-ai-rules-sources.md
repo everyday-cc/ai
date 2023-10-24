@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Oklahoma lawmakers struggle to tackle artificial intelligence regulations"
-    excerpt: "OKLAHOMA CITY — Oklahoma lawmakers are struggling to regulate the artificial intelligence industry even as interest in the technology and its availability continues to grow."
-    publishedDateTime: 2023-10-21T07:00:00Z
-    webUrl: "https://www.normantranscript.com/news/oklahoma-lawmakers-struggle-to-tackle-artificial-intelligence-regulations/article_db878da0-6f5f-11ee-b85c-1bf089b6dd9f.html"
-    ampWebUrl: "https://www.normantranscript.com/news/oklahoma-lawmakers-struggle-to-tackle-artificial-intelligence-regulations/article_db878da0-6f5f-11ee-b85c-1bf089b6dd9f.amp.html"
-    cdnAmpWebUrl: "https://www-normantranscript-com.cdn.ampproject.org/c/s/www.normantranscript.com/news/oklahoma-lawmakers-struggle-to-tackle-artificial-intelligence-regulations/article_db878da0-6f5f-11ee-b85c-1bf089b6dd9f.amp.html"
-    type: article
-    provider:
-      name: The Norman Transcript
-      domain: normantranscript.com
-    quality: 60
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/assets/v3/editorial/f/fd/ffd152ae-6f5f-11ee-b413-2f51484726fc/6532a13fbcd1d.image.jpg?resize=1024%2C721"
-        width: 1024
-        height: 721
-        isCached: true
   - title: "Oklahoma Lawmakers Struggle to Regulate Growing AI Industry"
     excerpt: "Experts say AI is now present in everything from apps and facial recognition software to ChatGPT, which allows users to ask questions and receive human-like replies based on data harvested from the Internet."
     publishedDateTime: 2023-10-23T17:58:00Z
@@ -57,19 +41,21 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "With Generative AI Advances, The Time to Tackle Responsible AI Is Now"
-    excerpt: "In 2022, companies had an average of 3.8 AI models in production. Today, seven in 10 companies are experimenting with generative AI, meaning that the number of AI models in production will skyrocket over the coming years."
-    publishedDateTime: 2023-10-20T17:09:00Z
-    webUrl: "https://www.unite.ai/with-generative-ai-advances-the-time-to-tackle-responsible-ai-is-now/"
+  - title: "Construction industry to embrace artificial intelligence to stay ahead of the curve"
+    excerpt: "The industry is poised for significant growth in the coming years, with an estimated CAGR of 11% from $8.2 trillion to $17 trillion by 2029, experts say. This growth is driven by certain factors such as government initiatives,"
+    publishedDateTime: 2023-10-21T06:20:00Z
+    webUrl: "https://www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm"
+    ampWebUrl: "https://www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm/amp"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 53
     images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/10/responsible-AI-1000x600.png"
-        width: 1000
-        height: 600
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/03/artificial-intelligence-1019x573.jpg"
+        width: 1019
+        height: 573
         isCached: true
   - title: "EU lawmakers face struggle to reach agreement on AI rules -sources"
     excerpt: "European lawmakers are yet to agree on several issues related to new artificial intelligence rules ahead of a crucial meeting on Tuesday, leaving any deal off the table until December, according to four people familiar with the matter."
@@ -84,6 +70,20 @@ related:
       - url: "https://media.zenfs.com/en/aol_reuters_29/0ca43e1b8ea6f24b6034e0d8cbb568fa"
         width: 800
         height: 534
+        isCached: true
+  - title: "Oklahoma lawmakers struggle to tackle artificial intelligence regulations"
+    excerpt: "OKLAHOMA CITY — Oklahoma lawmakers are struggling to regulate the artificial intelligence industry even as interest in the technology and its availability continues to grow."
+    publishedDateTime: 2023-10-20T22:00:00Z
+    webUrl: "https://www.stwnewspress.com/oklahoma/oklahoma-lawmakers-struggle-to-tackle-artificial-intelligence-regulations/article_0a510130-27b5-532b-8196-9787e1427dd4.html"
+    type: article
+    provider:
+      name: NewsPress
+      domain: stwnewspress.com
+    quality: 38
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/stwnewspress.com/content/tncms/assets/v3/editorial/6/df/6dff3453-e784-549a-8a42-72b0fb592c71/6536f1615c476.image.jpg?resize=400%2C282"
+        width: 400
+        height: 282
         isCached: true
 
 secured: "lENxCMXVyR9qq9WloauuRAGOSMU78xUjWENjnhcnA7mYrfZz3P45Atkd7Ndv3EENm4u/+jPDtZ7vouhAXGlK1+q2Hn3mPvp+9QXc4pS6rSneWEEmPDpKeXv1sgNotYIwWau6iEIH/KfArRKyx6KsBs6tdmLZ62gMMdVmNSPk+D9vOSNfMpKEUglDfwUHAErztOoGpbu1lcJknLWjuGz5V7P6qGSKE5FbVyUd6sHzHYyM3xdlvf7A3tjaBIZN31D5y+0TtkLr0RlOXG7/+YsTjiPOTtVDmJKHpziqJRtzKHwQNRAX/FtLMjBNSDKduZyuCXDzl3QlRHend5/1yJhqOJ05PqvRonKPFcBeGIcsHaw=;4GBhif2VN4f+zN2vdf3GJQ=="

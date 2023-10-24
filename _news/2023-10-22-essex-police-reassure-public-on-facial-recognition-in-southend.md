@@ -7,7 +7,7 @@ originalUrl: "https://www.echo-news.co.uk/news/23867438.essex-police-reassure-pu
 webUrl: "https://www.echo-news.co.uk/news/23867438.essex-police-reassure-public-facial-recognition-southend/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,77 +23,6 @@ images:
     width: 945
     height: 630
     isCached: true
-
-related:
-  - title: "Met Police to keep using facial recognition on prolific shoplifters"
-    excerpt: "The Metropolitan Police plans to use facial recognition technology going forward to try to identify and arrest London's most prolific shoplifters. The technology maps facial features from CCTV stills against custody images in about 60 seconds. So far, 149 suspects have been identified from 302 CCTV stills with some wanted for multiple offences."
-    publishedDateTime: 2023-10-19T13:27:00Z
-    webUrl: "https://www.bbc.com/news/uk-england-london-67149222"
-    ampWebUrl: "https://www.bbc.com/news/uk-england-london-67149222.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-67149222.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D33C/production/_131467045_facialrecognitionstock001.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Met Police roll out facial recognition technology to tackle London's worst shoplifters"
-    excerpt: "She added: \"This technology threatens our privacy and stifles free speech - and we should all be worried about moves to expand its reach. \"We're also concerned about the creep of facial recognition technology into other areas of policing. \"Let's be clear ..."
-    publishedDateTime: 2023-10-20T08:29:00Z
-    webUrl: "https://news.sky.com/story/amp/met-police-roll-out-facial-recognition-technology-to-tackle-londons-worst-shoplifters-12987133"
-    ampWebUrl: "https://news.sky.com/story/amp/met-police-roll-out-facial-recognition-technology-to-tackle-londons-worst-shoplifters-12987133"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/met-police-roll-out-facial-recognition-technology-to-tackle-londons-worst-shoplifters-12987133"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 53
-    images:
-      - url: "https://e3.365dm.com/23/10/1600x900/skynews-security-freshfields_6325352.jpg?20231018081720"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Facial recognition gains for shoplifting investigations jeopardized by policy gaps"
-    excerpt: "Facial recognition is being used to identify shoplifters and criminals in London and in Indiana, but also generating controversy."
-    publishedDateTime: 2023-10-19T22:33:00Z
-    webUrl: "https://www.biometricupdate.com/202310/facial-recognition-gains-for-shoplifting-investigations-jeopardized-by-policy-gaps"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 48
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/11173308/shoplifting-scaled.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
-  - title: "Police pledge shoplifting crackdown with facial recognition to make ‘hostile environment’ for thieves"
-    excerpt: "Police have pledged to attend more shoplifting incidents and use facial recognition technology to catch thieves in a crackdown on Britain’s shoplifting epidemic. The Home Office has announced a new action plan with retailers and police chiefs which they ..."
-    publishedDateTime: 2023-10-23T17:42:00Z
-    webUrl: "https://www.aol.com/police-pledge-shoplifting-crackdown-facial-143930382.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/fe44b02953058aeafb531a1435d29cea"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Met Police roll out facial recognition technology to tackle London’s shoplifting"
-    excerpt: "Britain's biggest police force is using facial recognition technology to tackle London's worst shoplifters by matching CCTV stills to mugshots."
-    publishedDateTime: 2023-10-19T13:22:00Z
-    webUrl: "https://bmmagazine.co.uk/news/met-police-roll-out-facial-recognition-technology-to-tackle-londons-shoplifting/"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 16
 
 secured: "Nr9Bn5PQw7c7oGg5geW9s4Sa1fXfXwcZ4134IjhY8kJtxu4WK3JvMYHbIh4kRuawh3Eo7lhyIucx+EDklWyWArCeDLJKU2wYwMezo/rVNmRBajGR1e9N7RblZx65/IXSw58KofAfFS9bxRxNiLM/uLKztJScxaqOtCwxPIVmROE4R1kv26/HDM1ssNRcvgmMn3pwZTwkQ8ghnQXjDlPB+JfGxp+Rvd/52Y4xBNgfAqoGNb88h+WMkjzy4dyxOp+38BjxTYNs+ipXihyrDhlJeD87ScnjJJQ41O9gBSRbzm5d9Hrwhu1ksscY175ye/HAf0sNm5VPuAhoV+VJ6JfAHKwkuEFLrsSublm6mdQ/Iq4=;6dKASMN1Hb5v1b+IBsqb2A=="
 ---

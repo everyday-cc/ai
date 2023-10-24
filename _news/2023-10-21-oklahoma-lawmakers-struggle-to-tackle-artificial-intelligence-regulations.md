@@ -2,29 +2,26 @@
 category: news
 title: "Oklahoma lawmakers struggle to tackle artificial intelligence regulations"
 excerpt: "OKLAHOMA CITY — Oklahoma lawmakers are struggling to regulate the artificial intelligence industry even as interest in the technology and its availability continues to grow."
-publishedDateTime: 2023-10-21T07:00:00Z
-originalUrl: "https://www.normantranscript.com/news/oklahoma-lawmakers-struggle-to-tackle-artificial-intelligence-regulations/article_db878da0-6f5f-11ee-b85c-1bf089b6dd9f.html"
-webUrl: "https://www.normantranscript.com/news/oklahoma-lawmakers-struggle-to-tackle-artificial-intelligence-regulations/article_db878da0-6f5f-11ee-b85c-1bf089b6dd9f.html"
-ampWebUrl: "https://www.normantranscript.com/news/oklahoma-lawmakers-struggle-to-tackle-artificial-intelligence-regulations/article_db878da0-6f5f-11ee-b85c-1bf089b6dd9f.amp.html"
-cdnAmpWebUrl: "https://www-normantranscript-com.cdn.ampproject.org/c/s/www.normantranscript.com/news/oklahoma-lawmakers-struggle-to-tackle-artificial-intelligence-regulations/article_db878da0-6f5f-11ee-b85c-1bf089b6dd9f.amp.html"
+publishedDateTime: 2023-10-20T22:00:00Z
+originalUrl: "https://www.stwnewspress.com/oklahoma/oklahoma-lawmakers-struggle-to-tackle-artificial-intelligence-regulations/article_0a510130-27b5-532b-8196-9787e1427dd4.html"
+webUrl: "https://www.stwnewspress.com/oklahoma/oklahoma-lawmakers-struggle-to-tackle-artificial-intelligence-regulations/article_0a510130-27b5-532b-8196-9787e1427dd4.html"
 type: article
-quality: 60
-heat: 100
-published: true
+quality: 38
+heat: -1
+published: false
 
 provider:
-  name: The Norman Transcript
-  domain: normantranscript.com
+  name: NewsPress
+  domain: stwnewspress.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI in Autos
+  - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/assets/v3/editorial/f/fd/ffd152ae-6f5f-11ee-b413-2f51484726fc/6532a13fbcd1d.image.jpg?resize=1024%2C721"
-    width: 1024
-    height: 721
+  - url: "https://bloximages.chicago2.vip.townnews.com/stwnewspress.com/content/tncms/assets/v3/editorial/6/df/6dff3453-e784-549a-8a42-72b0fb592c71/6536f1615c476.image.jpg?resize=400%2C282"
+    width: 400
+    height: 282
     isCached: true
 
 related:
@@ -44,19 +41,21 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "With Generative AI Advances, The Time to Tackle Responsible AI Is Now"
-    excerpt: "In 2022, companies had an average of 3.8 AI models in production. Today, seven in 10 companies are experimenting with generative AI, meaning that the number of AI models in production will skyrocket over the coming years."
-    publishedDateTime: 2023-10-20T17:09:00Z
-    webUrl: "https://www.unite.ai/with-generative-ai-advances-the-time-to-tackle-responsible-ai-is-now/"
+  - title: "Construction industry to embrace artificial intelligence to stay ahead of the curve"
+    excerpt: "The industry is poised for significant growth in the coming years, with an estimated CAGR of 11% from $8.2 trillion to $17 trillion by 2029, experts say. This growth is driven by certain factors such as government initiatives,"
+    publishedDateTime: 2023-10-21T06:20:00Z
+    webUrl: "https://www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm"
+    ampWebUrl: "https://www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm/amp"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 53
     images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/10/responsible-AI-1000x600.png"
-        width: 1000
-        height: 600
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/03/artificial-intelligence-1019x573.jpg"
+        width: 1019
+        height: 573
         isCached: true
   - title: "EU lawmakers face struggle to reach agreement on AI rules -sources"
     excerpt: "The EU started working on the draft AI Act in 2021. In May this year, the European parliament agreed on draft legislation including new rules around the use of facial recognition, biometric surveillance, and other AI applications. Under the proposals ..."
@@ -87,6 +86,6 @@ related:
         height: 534
         isCached: true
 
-secured: "Cxy8O1PLG2bqYZOQeBAgjczHRpn8Q9OZCb4pUKysHl7iB4IIFGh/lslB2UvMrQub+ZgjTcPi9/6NwBHGaDCHrpEI1ueFcy8RzDtgA2amRgAm5DND6Yu4SALlJ3ovXuT77buv3335uWBmFuq2qWXn2bx8oU2s7lXPWzl+/yrUfZEeJqf7O3e+s1YpJDlfJBpNptdZw0kfjT4GAeWJt+lan4dvNOQtGXmu3/Hu7Tsfo7QFmGqLwL//8x8gnd4LAX3K4iyODGTqiNGhzpnlRcWYhXhIjMhTVqpgTiO3hsBEaFLiIDyiLlOwaWz+La676pOoFC+fXXbzJTNljXgsKZr0H415AeC1+pYZw0nYiQhyATUipstPj2eRQtLp3s/+yAH1FVeeHnRJlETfdc6OvT8F4rfegvhV15nYfak3fGiONEQkUeQgrzZtWxkFpoxHZyScUBrHv4ZqsD0C1PH23xFR6RaoHrq0BtSJMvmAAhnWHJYKwLgWzzbmPcC/YQM0cLfzI+m6G5MNufbK2D1W89vxZQ==;B7yi+x/roXVGivGiYfe3NA=="
+secured: "zXlXBNlGUs9TjgEhijMn6ou0wjfJBCEfgVJigs5cLP9VQ9TCJpxkX0DhkF0KGShCYOV4TKBW+fgB4euM48NpM53sfG3ZQ9UTB63kLmuedvMarA84lmq/38kH1WAPcrOYVNlsrXHziq6koELnZ7h1SV+pwerL3tUt1SiXWi19oBkeW8T6OEdQnKtFx69bpLf9Egpi3bIjdJm8fPpmO9FeHNu1PJv18+QITMDkP2hla6a4R5bCyQjy0ZJVa9EcBAYJBMQ37qdXVS83ki+59kR+uKW8AMhN6lrTBd5oQrB6dU4B5S0mz3iVVwPedPWdxBM+aaBI6S8a5BWuhba5gccTlcU5PdLxN5MeoSEUxZG/BBI=;X/C3V7m9u31Bg62jm9j44g=="
 ---
 

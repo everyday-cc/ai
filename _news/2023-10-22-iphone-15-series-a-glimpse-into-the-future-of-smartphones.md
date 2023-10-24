@@ -73,34 +73,6 @@ related:
         width: 772
         height: 434
         isCached: true
-  - title: "Apple’s ChatGPT AI rival rumored to hit iPhone next year in iOS 18"
-    excerpt: "After tidbits of the iPhone 16 series, analyst Jeff Pu says iOS 18 could finally add generative AI features for the iPhone in late 2024."
-    publishedDateTime: 2023-10-19T14:47:00Z
-    webUrl: "https://bgr.com/tech/apples-chatgpt-ai-rival-rumored-to-hit-iphone-next-year-in-ios-18/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-226.jpg?quality=82&strip=all"
-        width: 1600
-        height: 885
-        isCached: true
-  - title: "Apple Rumored to Follow ChatGPT With Generative AI Features on iPhone as Soon as iOS 18"
-    excerpt: "In a research note on Wednesday, Pu said his supply chain checks suggest that Apple is likely to build a few hundred AI servers in 2023, and significantly more next year. He believes Apple will offer a combination of cloud-based AI and so-called \"edge AI ..."
-    publishedDateTime: 2023-10-19T14:03:00Z
-    webUrl: "https://www.macrumors.com/2023/10/19/apple-generative-ai-late-2024-jeff-pu/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 31
-    images:
-      - url: "https://images.macrumors.com/t/b9U6_r_1Wk3CZZJYQVme2V-3d2Y=/2250x/article-new/2023/09/iOS-18-Mock-Siri-Feature-Baubles.jpg"
-        width: 2250
-        height: 1266
-        isCached: true
   - title: "I wish the iPhone had the Pixel 8’s generative AI wallpapers"
     excerpt: "The Google Pixel 8 offers generative AI wallpapers, letting you create unique wallpapers with a prompt and I really wish iPhone had it, too."
     publishedDateTime: 2023-10-22T13:02:00Z

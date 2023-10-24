@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "From hype to reality, the true state of AI adoption"
+    excerpt: "Productivity is the magic metric. Productivity numbers at the macro will be a key to the promises of AI being fulfilled. Growth has a way of solving problems and meaningful productivity improvements and revenue acceleration from AI will lift all boats. It hasn’t happened broadly yet."
+    publishedDateTime: 2023-10-21T15:22:00Z
+    webUrl: "https://siliconangle.com/2023/10/21/hype-reality-true-state-ai-adoption/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/AI-Image-Hype-V-Reality.jpeg"
+        width: 5164
+        height: 2905
+        isCached: true
   - title: "FCC Wants to Fight Robocalls With Artificial Intelligence"
     excerpt: "The one thing I know about any battle is you’ve got to go in with optimism,” the FCC chairwoman told AARP. “And so at this point while everyone is talking about AI and th"
     publishedDateTime: 2023-10-23T22:56:00Z

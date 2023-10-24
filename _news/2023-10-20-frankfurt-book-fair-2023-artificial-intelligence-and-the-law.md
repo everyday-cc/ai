@@ -47,15 +47,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 59
-  - title: "Chicago AI Conference 2023: Shaping The Future Of Finance With Responsible AI"
-    excerpt: "Chicago AI Conference Speakers The Chicago AI Conference, organized by the AI 2030 Initiative, FinTech4Good and co-host"
-    publishedDateTime: 2023-10-20T18:43:00Z
-    webUrl: "https://menafn.com/1107278575/Chicago-AI-Conference-2023-Shaping-The-Future-Of-Finance-With-Responsible-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 33
   - title: "IT Arena 2023: The Future of AI, Startups, and Tech Cities"
     excerpt: "Daniel Prieto, former Director of Cybersecurity Strategy at the White House, agrees: \"Generative AI can be used for disinformation and creating deepfakes, which poses a risk.\" IT Arena hosted the battle of the most ambitious startups - Startup Competition."
     publishedDateTime: 2023-10-23T13:48:00Z

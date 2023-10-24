@@ -41,22 +41,6 @@ related:
         width: 1349
         height: 900
         isCached: true
-  - title: "Generative AI and machine learning are engineering the future in these 9 disciplines"
-    excerpt: "All vertical industries continue to adopt emerging tools and methodologies, but the impact of generative AI in engineering disciplines stands out from the rest."
-    publishedDateTime: 2023-10-19T14:15:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-and-machine-learning-are-engineering-the-future-in-these-9-disciplines/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-and-machine-learning-are-engineering-the-future-in-these-9-disciplines/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-and-machine-learning-are-engineering-the-future-in-these-9-disciplines/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 97
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/27166f4fe6a0a8ed0bd0d66a1c471e52e038bd5b/2023/10/16/547003b1-a501-4dff-b489-bb957583060f/gettyimages-1314656208.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How Generative AI Can Improve Communication Within An Organization"
     excerpt: "The natural language interface enables interaction between stakeholders, project owners, QA engineers, designers and developers with the project’s vector knowledge base."
     publishedDateTime: 2023-10-23T11:30:00Z
@@ -72,6 +56,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/601850d37aa9c1404df144b1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
+        isCached: true
+  - title: "FPT Announces Strategic Partnership with Landing AI, Advancing Artificial Intelligence Development and Education"
+    excerpt: "FPT, global technology firm headquartered in Vietnam, and Landing AI, the US's leading computer vision platform and artificial intelligence (AI) software company, today announced a strategic relations"
+    publishedDateTime: 2023-10-24T07:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/b35387738/fpt-announces-strategic-partnership-with-landing-ai-advancing-artificial-intelligence-development-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35387738"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35387738"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 70
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "How marketers are using AI to make the customer-service experience faster, more targeted, and more reliable"
     excerpt: "Conversational AI is at the forefront of innovation for a growing number of quick service restaurant and grocery store food brands."
@@ -136,20 +136,6 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/fuy8sm/article67439978.ece/alternates/FREE_1200/PTI12_6_2014_000132A.JPEG-01abc.jpg"
         width: 1200
         height: 1594
-        isCached: true
-  - title: "Bitcoin-centric AI language model aims to drive BTC education and adoption"
-    excerpt: "Novel AI language model Spirit of Satoshi trained on Bitcoin-related resources aims to drive education and BTC adoption."
-    publishedDateTime: 2023-10-19T13:31:00Z
-    webUrl: "https://cointelegraph.com/news/bitcoin-based-ai-language-model-aims-to-drive-education"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 54
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/f7931d22-8980-4b91-b725-9e639aa15576.jpg"
-        width: 1200
-        height: 799
         isCached: true
   - title: "AI And The Cognitive Revolution"
     excerpt: "Artificial intelligence may be the first innovation to disrupt our way of life on the same scale as the Industrial Revolution."
@@ -295,6 +281,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "yMURbBXXBUAjGKlgxvNwS2zY4QtcFnfPsUvfpqwM2At9eQpHTRrFJZ4G6hJzc8lPgvooRrAQ8aPQgzX6Wbwv7PyaLP4BvgaohuoIiGD/oAhPpT7zp+lKqPikyhOQG6JyFOTSzKhL85GPq7mW8NCvGdO8/wJmwfeKfTGMsNqbE9mwFNIG1xCFwyetXlRVUiBLwQW+zFsWS/9M61gZPpWCpBp1dtcWSNK8F7hSMKkZatjT1CkU92EoTNpbUas1uEzm1+sxNycw83RTwU0tBRZpIhPuAFO2UXeWM6YLzZHg/C7INIyiYYB2MY7SCFHEAiOXKiXildp/NzGowzLFa4B9yWDaOZeA4ThEY9yuQ+CfXoQ=;RpeR+BUk85P2LObP4hAlkw=="
+secured: "BsfI4ZX/r4rkJU8S0KGps1wmOuGBC1nz69vZnj17WtdJMUl3s4+IjkVf7Pop9j2cxIwI1KWt2nyNp1BT0cIqvNrzQIbZPBk686NBrwgsvGw/Ea51RyqRlR4Xj8xz7Jwa8LEWPcu0yxNw30+IOf+etft19xB2MpTwcNlOhcbeJCH5UNzKMojZMJqKwJf+BYk9t1nNkFFRjqe4U7XvwuVNWhFXx9/tSzsFFLuWMPMPy5zznwa2BFNC7Mk6alDpSOGIHU+xDwNaxkM7IQlt8QvHmT+n6nLtmJRcigFRXPhoyIidNO6Uyhium9PDELuNEHVpoKalD0ljiEVt2YO3wpuo5crUotWnw4q2esW+iLyKANrZmzwNT8bZ/Rd3CEHWXTEDcP1Tx+FzHD3iGN0du7UbSrycUcQ2fkl6gVgz84p5n8h1i6h7hNWd0rBbfMls7RNIPEpUzRQSzBCHsRh1DkpLNWl8dg//Mtb6fxA8pGrJ6jAOMPHupMNlttnIJT/0RU8b+ZqW8yi4dZ1kWZdRLzBL8g==;V3mQ6eLV3PAadSxa9549Kw=="
 ---
 

@@ -40,43 +40,6 @@ related:
         width: 1920
         height: 1633
         isCached: true
-  - title: "Universal Music sues AI start-up Anthropic for scraping song lyrics"
-    excerpt: "Universal Music has filed a copyright infringement lawsuit against artificial intelligence start-up Anthropic, as the world’s largest music group battles against chatbots that churn out its artists’ lyrics."
-    publishedDateTime: 2023-10-19T13:38:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/10/universal-music-sues-ai-start-up-anthropic-for-scraping-song-lyrics/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
-  - title: "Universal Music Suit Says Anthropic AI Model Copies Song Lyrics"
-    excerpt: "Universal Music Group and dozens of music publishers sued Anthropic PBC for copyright infringement, alleging the AI startup’s chatbot produced verbatim song lyrics scraped from the internet without permission."
-    publishedDateTime: 2023-10-19T15:12:00Z
-    webUrl: "https://news.bloomberglaw.com/ip-law/universal-music-suit-says-anthropic-ai-model-copies-song-lyrics"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 37
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/1d9d69c/2147483647/legacy_thumbnail/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F90%2Fde%2F1739049047dfb6155d4ae10760eb%2Fgettyimages-518446780.jpg"
-        width: 1024
-        height: 684
-        isCached: true
-  - title: "Universal Music sues AI startup for copyright infrincement over song lyrics"
-    excerpt: "Universal Music sued AI startup Anthropic over “systematic and widespread infringement of their copyrighted song lyrics,” per a filing Wednesday in a Tennessee federal court."
-    publishedDateTime: 2023-10-19T13:41:00Z
-    webUrl: "https://www.aol.com/news/universal-music-sues-ai-startup-134123736.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 35
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/4bnK19G2FE0Y5dQUED8n.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/1b1dffa8cd2cf3c02cc85b08d37f52a9"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Universal Music Group Takes Legal Action Against Anthropic AI for Copyright Infringement"
     excerpt: "Universal Music Group has brought Anthropic PBC to court after accusing it of widespread copyright infringement. The lawsuit was revealed just a day after the announcement of its team-up with BandLabs Technologies"
     publishedDateTime: 2023-10-20T09:22:00Z
@@ -119,6 +82,6 @@ related:
       domain: siliconangle.com
     quality: 9
 
-secured: "8dt9zASYeDWh1LGQsn6F1ipub4qRFtradsJFzZ9hWDk6nXDebrxK1odyqwckX5kCBSwuzdg2ahulkj2gL0IPJDHmFE+UYdXI1ua3RxHB2lQWauP7WYuT5/Jy251QgDNjObFSmZRWDq10/tHHMp3GQmCiNWzsseWAZg9UMXDHEJV0zVkgol/p1VL7QWQAhgvCH7dG4sxjql2tGiB7EQ9f50vY31n58u0nrNvVbSaqAtOTbREmXR2S3YApLZAL6XJrsIQt5oyCJKu4fYfhyXhqnccZpp489NtTYx3ckLzlym4ygfxpsnrM/lb1Q1xYs8bwfDHZLoTYsQUdyknlCjjG/NlFfjuEThd/X3zw6xPN2r0=;aM6J5D0+m2y1dXTqI1bDPA=="
+secured: "niLDtC94DzmRq///3wdi5PhFtGx78eiX8W08FVqXisI0NuJK5R7NEf4b3pY4QNoDKZJ8pftsuA2HzQTOGzNG1zlawXiWl1Br4qGLPLOwW86dRZpSPYwIZ20wTIhPgIMGD+O0EzllbpawNQYqr3L2juiHLZ0mWJ3OTvpuHT2viJ4p8CErOB2dsVNG64CBK29LE0fB4Gfu1j1y0ndAtGvVIqcklXZBBhmVIr85rqcOJNLgAO2EuM7hXimDgH/OaFD1Uf3JFagv/544dWDBX0/uRVIFe7HXIPrdJnUntdId9kjbmo0vf7k3nIwSHa15bF363eUksnnbDs8JuAoFfP8U/2f+Gw1pdwQNIQfmtqqetedraLEJz7dAzeiPdlqGZ/7ao7JKNG4rDj0DdcrpHSD/YBXMS0QWn93jxBKFM4vekwzA1hKfNFMlIwI26KFxeA0NacriUm7la2hIoC9rwY6X0Pfu+wFKErOlEz6ChNZAKY+xtqfuQkwthNtIGwm5d/JuzPYtF1ALqcgl1UcmSD2spA==;JPWPtsmdFa7w1vJM005NUA=="
 ---
 

@@ -28,7 +28,7 @@ related:
     provider:
       name: The Hechinger Report
       domain: hechingerreport.org
-    quality: 56
+    quality: 58
     images:
       - url: "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2023/10/225171_aiuw842625-scaled.jpg?fit=2560%2C1843&ssl=1"
         width: 2560

@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/10/23/databricks-acquires-enterprise
 webUrl: "https://siliconangle.com/2023/10/23/databricks-acquires-enterprise-data-replicator-arcion-100m/"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -22,31 +22,6 @@ images:
     width: 1000
     height: 666
     isCached: true
-
-related:
-  - title: "Databricks To Acquire Data Replication Startup Arcion For $100M"
-    excerpt: "Data analytics and AI software maker Databricks has revealed plans to buy enterprise data replication startup Arcion for $100 million including incentives, the two companies revealed on Monday."
-    publishedDateTime: 2023-10-23T22:01:00Z
-    webUrl: "https://www.crn.com/news/storage/databricks-to-acquire-data-replication-startup-arcion-for-100m"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 22
-    images:
-      - url: "https://www.crn.com/resources/0281-17f0d3aad674-e746f9a90adb-1000/databricks-2021-logo.jpeg"
-        width: 611
-        height: 458
-        isCached: true
-  - title: "Databricks, the $43 billion analytics firm, acquires data startup Arcion for $100 million"
-    excerpt: "Databricks agreed to acquire Arcion, an enterprise data company, for $100 million Monday, including incentives, CEO Ali Ghodsi told CNBC."
-    publishedDateTime: 2023-10-23T12:30:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/databricks-the-43-billion-analytics-firm-acquires-data-startup-arcion-for-100-million/4792693/"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 0
 
 secured: "wmEZ1fyc1KjqwCAWlwzWeWK+dNUCg5k3/dSxjAIj9lprGo8VvSVt+faNxpVik0TF3aUPTWn9jmWSpZTYLvP7Biqv8GbVFRFYxpVA6vF4P2cPU0fZinGURtz16iaDD3WGYHjykSTiTSBodwcQ0CRcbYudEJ8KfEgNcOHO4PJf0NrFgPUxIq+8ZSGKUZYleQdoQS0uMlt2aK+HwRYxYexJmLkPwiq6ax8nAeZoahqKrtrCtSEEf/DFUxHmQFH1P+LQFqZiVJME+wVVNGfaqDpGMIGxKSBhDNTTPpQ/JRcvpjssUbSOzWesga6HfJv2u9GEKgix1WF9OxJ03q1OxiuWD2casAYw3pwXtKI/T03L5Ho=;q3TWbm3xEOUdajaB06mtwg=="
 ---

@@ -77,20 +77,6 @@ related:
         width: 336
         height: 280
         isCached: true
-  - title: "IBM Expands Relationship with AWS"
-    excerpt: "IBM has expanded its relationship with Amazon Web Services (AWS) to help mutual clients operationalize and derive value from generative artificial intelligence (AI). As part of this relationship,, IBM Consulting plans to deepen its generative AI expertise on AWS by training 10,000 consultants by the end of 2024."
-    publishedDateTime: 2023-10-19T13:05:00Z
-    webUrl: "https://channelvisionmag.com/ibm-expands-relationship-with-aws/"
-    type: article
-    provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 39
-    images:
-      - url: "https://channelvisionmag.com/wp-content/uploads/2023/09/cv_display_ad_jungle.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "ohs0lNT6fl/AlYxhuv+gGGfQDn4KIUnLJz2v3335M5+Mbin4s6G3rblcfej4tnvoJyxLG5JbqtLyF8CZb5BcmVm0e1zZWqK9A2apUhQpFCwifmNv4fFK1B2nloemS7ekXs/47r/6s0Q1mWFHnY/H1lHg2sxNg3HT9oK6SLIsGDDjQ2sTHlAeUOelnEneDOsTWhVn2J7tM2QRVMJhVrXdwNmQSdq51EvtxK7inXwbg07u2KKxaVJ4S+fvOWKIcJz5tx390lI8Otac/rJICXoe68lXDJ+DJJE2w0vZsWNcnlc4wtFl/CBMA5LvCAapHRYZO5S98RUWT/HdQPK+p+4sJVjmDmYCUFzbDJO/3g/FCOE=;1ZeTXHMOrQNqBMK0SOID1A=="
 ---

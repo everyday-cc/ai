@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-24T04:04:00Z
 originalUrl: "https://www.foreignaffairs.com/united-states/ai-already-war-flournoy"
 webUrl: "https://www.foreignaffairs.com/united-states/ai-already-war-flournoy"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/10/12/1_MilitaryAI_EMorciano.jpg?itok=vj3Kj6_E"
@@ -40,6 +41,6 @@ related:
         height: 675
         isCached: true
 
-secured: "yqw7e6OfNdy9V40ClM4Wmw6x7hlQNkrLeCQP3+MHHq3CPgoEwWyVZSF45Kf2Q13cIpzRDq8jQiYL4H+yfwBbSb1movPNqIPAqmTGwBPku9wPutLJOjvBXjqxr7U+/lLJSaswb5e+Z6DjsEusEqOGzdkYIWWJ3UmZfZg16PSFv0Ca0A9dmR5uTkgG9llz7HRgZUDOmCAxGW9HOIA3IhW50a3fCzLHibHeHRRNhxto2ojmr138FnGozbXc4TkIdUQBuAQmRePahoCQivjgob/liRsRWKFVI55jXHqpvzL9KSN81mjG7tZzF4rxg66FFh4tekyCRIvhZzV7yYWAhl+SE6FwzO67E4q73USXh+/T6Ws=;FGzW2rrOCUROzif9lrd96w=="
+secured: "wswwerJzHWc0PbE2u0A+4E9yYHwKKvRL1WelICONShAAoeotJ942D272SB1Ny7GlJA2MDbmcy55GIlCYt/3Qh6ITx3b+7qls0rVJl4UYh+nxfWVTHOw/66aO5sYmmJGp/BwYMRNEuSa0IxP7u8WPSWBrICfv79mrcel4XuqIXmSYVTCf513lvy9x9sfH3gNQy13OrL5cdwC4SHU7F9lfF4zWS/HmOR4O54/6+go25405UfsWBr3ihXM29bOtEBQweW5d34j3QfSrZ1RT5zP8BqoUV20tGHvQ/7Xw+wLobqXscQuobOSFmYFEMZF4rLLWwTEgJYpqCaxtPm7gxsdHKLaXuWCtvJ9fUHTgHjp9b9MiJjz+2kP732+vD9H+7tlXxmo6zYv38ePzwrnXGbo3XAmKAyV6rbXaBeu2C08xRVejhGF2bPhddAMGwMnWBd+c/4Fu89w9ALBSThRYIUljoBTOB2TJrwKaHpOExHE7YWDuqEWd0ML9aGr1Gmwy7SfHlzkfzrangRLVjm/e/OXaSQ==;U8dV5OhkqiTvDMGu1UJPFQ=="
 ---
 

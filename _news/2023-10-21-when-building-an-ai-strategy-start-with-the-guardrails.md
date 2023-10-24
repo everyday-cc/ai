@@ -27,15 +27,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
-  - title: "Researchers say guardrails built around AI systems are not so sturdy"
-    excerpt: "SAN FRANCISCO — Before it released the AI chatbot ChatGPT last year, the San Francisco startup OpenAI added digital guardrails meant to prevent its system from doing things such as generating hate speech and disinformation. Google did something similar ..."
-    publishedDateTime: 2023-10-23T13:04:00Z
-    webUrl: "https://www.seattletimes.com/business/researchers-say-guardrails-built-around-ai-systems-are-not-so-sturdy/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "D7d0pkUAudMtnESQ/NgWzD3ONSlvjI8/hNdXp429WsClLWf1NX20NDDfz/nDK6t4uyu6b442WBOw9d32BhLAkFoYRmvetgUtjsriGQylsu/ttfHdK2w3WFx4nm1xSmTAoBMoBFvW8oHw6nRO8UKfE9upPIM9QzOio5JrHJsHdpsBqE0820FWJZDHosh0EMNjMjjvBU4OAvTXBYn1LpeqnDNqE+CcN91eL4UGNuDbFRkBujkKmcDA0E/SgRwbi2FN+m8X8REP7Yr5kKuWPQNBQa5DwOFGlAMGTUrJOfXtl0VIg2uUkhqO/HC+gdrD+zaLhiGcwKnczxmojSDLVAThoBsXuAwn14oohqQK3AzWng7lJskUjFfrnkkuqubrEMTZwr2X2tU5mpZ4WcjAIT1V7tgMjX1Mk/96TriU6bkXDt60inwBM4FBVihcHAy5L9q+e1LTlI4yaqHit53wvkfoUlHMJn7AhuSTfwPYOusOVmv/dHtpjzrK57WMM0WJJJBSYQH3nnpkRpYvzYV5FPgGKQ==;g5zKDIfKGb29H713gZSX8Q=="
 ---

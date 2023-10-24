@@ -55,6 +55,22 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Lambda and VAST Data partner to accelerate AI training across public and private cloud, leveraging NVIDIA technology"
+    excerpt: "Dubai, United Arab Emirates – VAST Data, the AI data platform company and Lambda, a leading Infrastructure-as-a-Service and compute provider for public and private GPU infrastructure, today announced a strategic partnership that will enable the world's ..."
+    publishedDateTime: 2023-10-24T07:30:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/lambda-and-vast-data-partner-to-accelerate-ai-training-across-public-and-private-cloud-leveraging-nvidia-technology-yw4kushl"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/lambda-and-vast-data-partner-to-accelerate-ai-training-across-public-and-private-cloud-leveraging-nvidia-technology-yw4kushl?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/lambda-and-vast-data-partner-to-accelerate-ai-training-across-public-and-private-cloud-leveraging-nvidia-technology-yw4kushl?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 36
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OGUwODc2N2YtMzFhOC00/0/renen-hallak_ceo_vastdata-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Vast Data and Lambda partner to offer optimal cloud-based AI training infrastructure"
     excerpt: "Universal data storage platform provider Vast Data Inc. said today it’s partnering with Lambda Inc. on a new hybrid cloud experience that’s focused on accelerating artificial intelligence training."
     publishedDateTime: 2023-10-24T00:46:00Z

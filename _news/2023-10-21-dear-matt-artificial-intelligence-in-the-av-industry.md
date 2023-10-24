@@ -28,6 +28,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Intel releases the industry’s first AI PC Acceleration Program"
+    excerpt: "Intel unveils its AI PC Acceleration Program, aiming to redefine personal computing by enabling AI capabilities on laptops and devices."
+    publishedDateTime: 2023-10-23T01:07:00Z
+    webUrl: "https://techwireasia.com/2023/10/why-is-intel-planning-an-ai-pc-acceleration-program/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 41
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/10/ai_program_intel-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Dear Matt: Artificial Intelligence in the AV Industry"
     excerpt: "Vistacom’s Matt Boyer answers a question on artificial intelligence in the AV industry in the latest installment of “Dear Matt,” presented by Vistacom."
     publishedDateTime: 2023-10-23T14:20:00Z

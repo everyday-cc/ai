@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/23/uk-officials-use-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Revealed: Government using AI to decide on benefits and driving licences"
+    excerpt: "Government officials are using artificial intelligence (AI) to help decide on everything from approving marriage licences to who should be given benefits, it has been revealed."
+    publishedDateTime: 2023-10-24T06:50:00Z
+    webUrl: "https://www.aol.com/news/revealed-government-using-ai-decide-064919745.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 38
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/3128803184bdd660a7bb0eff51bb8862"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "UK officials use AI to decide on issues from benefits to marriage licences"
     excerpt: "Exclusive: findings show uncontrolled and potentially discriminatory way technology used in Whitehall and some police forces"
     publishedDateTime: 2023-10-23T12:48:00Z

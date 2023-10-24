@@ -20,52 +20,109 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Tech Live 2023: How Meta Plans to Connect You to AI Friends"
-    excerpt: "Meta runs Facebook, Instagram ... Joanna Stern: But they're AI personas. Chris Cox: Exactly. So the other thing we built is, in doing the research for how do you make these chatbots engaging, what is it that works for people with these chatbots?"
-    publishedDateTime: 2023-10-19T16:13:00Z
-    webUrl: "https://www.wsj.com/podcasts/google-news-update/tech-live-2023-how-meta-plans-to-connect-you-to-ai-friends/50df721b-db21-4bcf-b819-09d9ec1014d4"
+  - title: "How AI Is Shaping The Future Of The Luxury Watch Market"
+    excerpt: "Luxury watches are a $75 billion market, with secondhand sales making up roughly $22 billion. Demand is heating up, particularly among Gen Z and Millennials."
+    publishedDateTime: 2023-10-21T01:05:00Z
+    webUrl: "https://www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/"
+    ampWebUrl: "https://www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.wsj.net/im-375914?width=1280"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65331f003ed6d36d5f46f53f/0x0.png?format=png&height=900&width=1600&fit=bounds"
+        width: 800
+        height: 800
+        isCached: true
+  - title: "Microchip Breakthrough Could Reshape Future of AI"
+    excerpt: "A prototype microchip design that was revealed today by IBM could pave the way for a world of much smarter devices that don't rely on the cloud or even the Internet for their intelligence."
+    publishedDateTime: 2023-10-20T17:20:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/microchip-breakthrough-could-reshape-future-of-ai"
+    ampWebUrl: "https://www.govtech.com/artificial-intelligence/microchip-breakthrough-could-reshape-future-of-ai?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/microchip-breakthrough-could-reshape-future-of-ai?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/ec3b0df/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fda%2Fa8%2F0c87e301526b36795a4a5107dcde%2Fshutterstock-592729892.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Artificial intelligence predicts the future of artificial intelligence research"
+    excerpt: "It has become nearly impossible for human researchers to keep track of the overwhelming abundance of scientific publications in the field of artificial intelligence and to stay up-to-date with advances."
+    publishedDateTime: 2023-10-23T13:53:00Z
+    webUrl: "https://techxplore.com/news/2023-10-artificial-intelligence-future.html"
+    ampWebUrl: "https://techxplore.com/news/2023-10-artificial-intelligence-future.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-artificial-intelligence-future.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-77.jpg"
         width: 1280
-        height: 1280
+        height: 731
         isCached: true
-  - title: "Prompts are key in 2023: Twenty-five tips to help you unlock the potential of generative AI"
-    excerpt: "The goal is to use generative AI as a tool in your broader decision-making and brainstorming process. Combining AI's suggestions with your expertise and knowledge of your business and market will yield the best results. By integrating these AI insights, we're not merely keeping up with the times; we're"
-    publishedDateTime: 2023-10-23T15:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/prompts-are-key-in-2023-twenty-five-tips-to-help-you-unlock-the-potential-of-generative-ai/"
+  - title: "Thanks to AI, the future of programming may involve YELLING IN ALL CAPS"
+    excerpt: "In a reply, X user Ivan Vasilev wrote, \"Funny how programming of the future requires yelling at AI in caps.\" In another response, Dr. Eli David wrote, \"At first I laughed reading this. But then I realized this is the future: machines talking to each other,"
+    publishedDateTime: 2023-10-20T19:16:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/10/thanks-to-ai-the-future-of-programming-may-involve-yelling-in-all-caps/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 59
-  - title: "Frankfurt Book Fair 2023: Artificial Intelligence and the Law"
-    excerpt: "The law is usually reactive at best to questions of new technology. That’s still true with AI, but an extensive amount of work is underway to chart an applicable regulatory landscape, explains lawyer Duncan Calow."
-    publishedDateTime: 2023-10-19T17:42:00Z
-    webUrl: "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/93463-frankfurt-book-fair-2023-artificial-intelligence-and-the-law.html"
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
+  - title: "The Future of Applied Artificial Intelligence"
+    excerpt: "Software and consulting expert Andreas Erben pulls back the curtain to imagine a world where generative AI technologies reach further than today's capabilities."
+    publishedDateTime: 2023-10-19T16:52:00Z
+    webUrl: "https://redmondmag.com/articles/2023/10/19/the-future-of-applied-artificial-intelligence.aspx"
     type: article
     provider:
-      name: Publishers Weekly
-      domain: publishersweekly.com
-    quality: 52
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 39
     images:
-      - url: "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/104/104564-1.JPG"
-        width: 400
-        height: 511
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/futurecity.jfif"
+        width: 647
+        height: 450
         isCached: true
-  - title: "IT Arena 2023: The Future of AI, Startups, and Tech Cities"
-    excerpt: "Daniel Prieto, former Director of Cybersecurity Strategy at the White House, agrees: \"Generative AI can be used for disinformation and creating deepfakes, which poses a risk.\" IT Arena hosted the battle of the most ambitious startups - Startup Competition."
-    publishedDateTime: 2023-10-23T13:48:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/35374068/it-arena-2023-the-future-of-ai-startups-and-tech-cities"
+  - title: "Artificial intelligence predicts the future of artificial intelligence research"
+    excerpt: "In the field of artificial intelligence (AI) and machine learning (ML), the number ... We curated a list with the (what we think) 10 best robotics and AI podcasts - check them out! Also check out our Smartworlder section with articles on all kinds of ..."
+    publishedDateTime: 2023-10-20T18:54:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63898.php"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 15
+  - title: "Navigating the Future of Fintech: 5 Platforms Shaping Private Market Investment Strategies"
+    excerpt: "The private market investment landscape is rapidly evolving, with new platforms and technologies driving change. These platforms play a crucial role in helping businesses and investors make informed decisions."
+    publishedDateTime: 2023-10-23T10:42:00Z
+    webUrl: "https://financialit.net/news/investment/navigating-future-fintech-5-platforms-shaping-private-market-investment-strategies"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 14
+    images:
+      - url: "https://financialit.net/sites/default/files/financial_it_-_news_template_updated_1_68.png"
+        width: 900
+        height: 480
+        isCached: true
+  - title: "How Artificial Intelligence is Shaping the Future of Programmatic, Thanks to Very Human Intelligence"
+    excerpt: "Artificial intelligence (AI) is the hot new topic on everyone’s lips, but when it comes to the programmatic industry, AI is nothing new. Data scientists, tech teams and traders have been harnessing the power of AI for years, using it to shape the future ..."
+    publishedDateTime: 2023-10-24T02:26:00Z
+    webUrl: "https://www.exchangewire.com/event-videos/how-artificial-intelligence-is-shaping-the-future-of-programmatic-thanks-to-very-human-intelligence/"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 2
 
 secured: "lPwBqKS3hV1aPhLcitCSR2bFncmMQBNqV4Es2ZhbeUjygsJUMKGcCzdch6Fkzjv+8hh7oWPhpKehlBSMu1v7i5T/sdJIRNNONk5EGxhlVpTjLnUr07bYqLEmDupADHgN6CoNKbPec/iM+RXnWJyxdhKJczLHlz2jN3gJ6BJgzWcKxDzr3qn6EKUdroMLflq+AG5VLogq78RSuK/uwLEM9yd3EBHew9OtZPekRBno8IztpMSrgqaTaB8c8oE2VufXywzq5eLRXsZLs5HXcc0t6s+ACf08PZ7+Z9T0YNBSOneZcwhYutCH4rFMMcUK9B7ukfljPkCqECZ395CA18RGpcwYLOibt0V96ZliRW4m0rc=;L6PG6kHzUYIWIpIIDjsNYA=="
 ---

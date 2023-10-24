@@ -2,19 +2,19 @@
 category: news
 title: "AgEagle Named Top 20 Artificial Intelligence and Robotics Companies Transforming the Agriculture Sector"
 excerpt: "today announced that the Company has been as one of the “Top 20 Artificial Intelligence and Robotics Companies Transforming the Agriculture Sector” by Insider Monkey, a finance website that ..."
-publishedDateTime: 2023-10-10T12:34:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8946525/ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the-agriculture-sector"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8946525/ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the-agriculture-sector"
+publishedDateTime: 2023-10-10T14:19:00Z
+originalUrl: "https://www.nasdaq.com/press-release/ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the"
+webUrl: "https://www.nasdaq.com/press-release/ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "g/+whippbVXpqUu/51rt3ZBTKuvALJ6kMUmbygo44CYl57NIqwQS5C1MOmi+SzlZxFetJtmujYO/ufbD2F1SrZX9yiYf142WU9ZWnIu9BL1jPN13Lgf9JPN7p3u+/pXOHRoywt7tYkpMJCsmfEkaq2CVEtfpw/pPuumVJAZ9FmnkUlIUEZ6NcCHjfKn2Uwom476sTQegBPB9OIUYM2atkQeIXK0WOZ5ftyYD4XDPZKL3OiJhZSDV/MKzvjrB1dRK1ca9GRWEUDbxd0+UeY0sKUwQJ8K3+e/++g7XVqE7ajqkx7KrYWzUDuINVHBOzpnTuif1unNCQWdUeOeggtpt4YLnRlXNMgJptVIx6Ir4fHk=;ivlSMEHM8EkXFdFz9XIFeA=="
+secured: "H30KWYkWe7/tjqzwBxHLJZFzPrbLchUpwIXOSVsHM7eXzu3yIyUzBjc1UZQYzAftMcZyGYFe3jF4XmRM1VvHCgpJeHoPOSUCGXSpAmVVxAIEQlusy6bJAfywlCRd3CKL9+e30Sx4Ll1px0QwNOwD/3Fp+xNQrQiSEEnmzswywCWztC6mwyvBm/gNvA8SA92zES4oALJ9dqaIJ4PecwSn9JdA03SVaJBp+uD9w9vhsyza79+1qYCN6MTV6vbE7gd1u9mHcXVTUO76dVAqcKcnbPHp6OYD+arQmByofZbOOBkNMIhIpqzR2OCta9L7mzJtBdhpX4rw1VSz2RVW70j7dDERrg+0T4hfHD2CLTAJxfM=;OYdPiUi67r0HmusLrOqvDQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://news.sky.com/story/amp/met-police-roll-out-facial-recognitio
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/met-police-roll-out-facial-recognition-technology-to-tackle-londons-worst-shoplifters-12987133"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -26,75 +26,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Met Police to keep using facial recognition on prolific shoplifters"
-    excerpt: "The Metropolitan Police plans to use facial recognition technology going forward to try to identify and arrest London's most prolific shoplifters. The technology maps facial features from CCTV stills against custody images in about 60 seconds. So far, 149 suspects have been identified from 302 CCTV stills with some wanted for multiple offences."
-    publishedDateTime: 2023-10-19T13:27:00Z
-    webUrl: "https://www.bbc.com/news/uk-england-london-67149222"
-    ampWebUrl: "https://www.bbc.com/news/uk-england-london-67149222.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-67149222.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D33C/production/_131467045_facialrecognitionstock001.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Facial recognition gains for shoplifting investigations jeopardized by policy gaps"
-    excerpt: "Facial recognition is being used to identify shoplifters and criminals in London and in Indiana, but also generating controversy."
-    publishedDateTime: 2023-10-19T22:33:00Z
-    webUrl: "https://www.biometricupdate.com/202310/facial-recognition-gains-for-shoplifting-investigations-jeopardized-by-policy-gaps"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 48
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/11173308/shoplifting-scaled.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
-  - title: "Essex Police reassure public on facial recognition in Southend"
-    excerpt: "For the first time in Essex, police will be using high-tech cameras in a bid to try to find and arrest wanted crooks."
-    publishedDateTime: 2023-10-22T03:19:00Z
-    webUrl: "https://www.echo-news.co.uk/news/23867438.essex-police-reassure-public-facial-recognition-southend/"
-    type: article
-    provider:
-      name: Echo news
-      domain: echo-news.co.uk
-    quality: 39
-    images:
-      - url: "https://www.echo-news.co.uk/resources/images/17356874/?type=og-image"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "Police pledge shoplifting crackdown with facial recognition to make ‘hostile environment’ for thieves"
-    excerpt: "Police have pledged to attend more shoplifting incidents and use facial recognition technology to catch thieves in a crackdown on Britain’s shoplifting epidemic. The Home Office has announced a new action plan with retailers and police chiefs which they ..."
-    publishedDateTime: 2023-10-23T17:42:00Z
-    webUrl: "https://www.aol.com/police-pledge-shoplifting-crackdown-facial-143930382.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/fe44b02953058aeafb531a1435d29cea"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Met Police roll out facial recognition technology to tackle London’s shoplifting"
-    excerpt: "Britain's biggest police force is using facial recognition technology to tackle London's worst shoplifters by matching CCTV stills to mugshots."
-    publishedDateTime: 2023-10-19T13:22:00Z
-    webUrl: "https://bmmagazine.co.uk/news/met-police-roll-out-facial-recognition-technology-to-tackle-londons-shoplifting/"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 16
 
 secured: "CY8Ca8loq0LpqgiIE5hdjHwiUKweuPVTVzcDOHiWCuBEcTSj2Ttmlh/tX61jv+Io2a08qpVcZvmfa9W26scc3MLhnA+kzXKha2+DDbqzj96Jdc+jZ9TgntBbaGWq2ZsDdBgrfKUsfkhlXqo81STZL4oPFZhus8cBnpJIs4hSisUS3De8OvmJh+Jv1AsklieI4OZ/IBN92Joqr+xfRVmvg5Cz9kvOB7e2niaDCbbqObUWdwGn2V4AJDhufwDSG1tmMoBMXrH2tDK7fioENRUXug7dpFeuB/erh3v1sECC90/6KaHdvhqr17n/jllrA56RgWct8CLz7upBdijQZ2DY/5vF2r1+bm0raoBdEuNcciM=;jd6pRpR2CYoSJFSn+jBspg=="
 ---

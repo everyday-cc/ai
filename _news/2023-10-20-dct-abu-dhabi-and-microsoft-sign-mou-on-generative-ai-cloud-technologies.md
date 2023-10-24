@@ -101,6 +101,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft earnings preview: Azure cloud segment in focus"
+    excerpt: "Investing.com - Microsoft Corporation (NASDAQ:MSFT) is set to announce its quarterly earnings after the market closes on Tuesday, with Wall Street keenly watching for indications that the company's substantial investments in artificial intelligence (AI) have been beneficial to its pivotal Azure cloud computing division."
+    publishedDateTime: 2023-10-24T05:56:00Z
+    webUrl: "https://au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816"
+    ampWebUrl: "https://m.au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816?ampMode=1"
+    cdnAmpWebUrl: "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816?ampMode=1"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 74
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AM_L.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Microsoft Promises SOC Relief with Coming Security Copilot AI"
     excerpt: "The Security Copilot integration in Microsoft 365 Defender will translate what the attack code does ... which gets generated in the form of the Kusto Query Language. It's also possible for analysts to use Security Copilot to analyze a PowerShell script ..."
     publishedDateTime: 2023-10-20T00:18:00Z
@@ -220,19 +236,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sick of meetings? Microsoft’s new AI assistant will go in your place"
-    excerpt: "From November, those willing to pay $30 a month can have Microsoft’s Copilot integrated into programs like Teams and Outlook."
-    publishedDateTime: 2023-10-19T14:47:00Z
-    webUrl: "https://www.aol.com/sick-meetings-microsoft-ai-assistant-114731497.html"
+  - title: "Cash-Rich Apple Still Needs Billions To Catch Up In Generative AI Race Against Meta Or Microsoft: Analyst Ming-Chi Kuo Reveals Why"
+    excerpt: "According to Kuo's latest survey, Cupertino plans to procure 2,000 to 3,000 AI servers in 2023 and a more substantial 18,000 to 20,000 units in 2024."
+    publishedDateTime: 2023-10-24T06:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cash-rich-apple-still-needs-billions-to-catch-up-in-generative-ai-race-against-meta-or-microsoft-analyst-ming-chi-kuo-reveals-why-1032731676"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/M0xM.OEwHjN.du_sdhIgGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/0abe0903e71c91ee4122f4fb13829c49"
-        width: 1199
-        height: 800
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Apple._Image_Via_Shutterstock_1.jpeg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "“If someone took away my Copilot, I wouldn't know what to do” - Microsoft CEO Satya Nadella on how the AI future will affect us all"
     excerpt: "with Microsoft Azure playing an understandably key part. “The cloud is helping to make that possible,” he added. “Data is also already in the cloud. So, therefore, the adoption of AI is just the next step, and it has compounding effects. But we ..."

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating the Future of Fintech: 5 Platforms Shaping Private Market Investment Strategies"
-    excerpt: "The private market investment landscape is rapidly evolving, with new platforms and technologies driving change. These platforms play a crucial role in helping businesses and investors make informed decisions."
-    publishedDateTime: 2023-10-23T10:42:00Z
-    webUrl: "https://financialit.net/news/investment/navigating-future-fintech-5-platforms-shaping-private-market-investment-strategies"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 14
-    images:
-      - url: "https://financialit.net/sites/default/files/financial_it_-_news_template_updated_1_68.png"
-        width: 900
-        height: 480
-        isCached: true
   - title: "NinjaHoldings Adopts Sparkling Logic SMARTS™ to Deliver Revolutionary FinTech Solutions for the Underbanked"
     excerpt: "Sparkling Logic SMARTS™ is a modern, enterprise-level, application-agnostic, decision-management platform that enables non-technical analysts and SMEs to easily manage business-critical decisions, whether explicit or AI-driven, with minimal IT resources."
     publishedDateTime: 2023-10-19T16:26:00Z

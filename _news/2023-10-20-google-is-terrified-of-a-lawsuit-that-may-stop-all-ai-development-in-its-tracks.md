@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/93892/google-is-terrified-of-lawsui
 webUrl: "https://www.tweaktown.com/news/93892/google-is-terrified-of-lawsuit-that-may-stop-all-ai-development-in-its-tracks/index.html"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1500
     height: 988
     isCached: true
-
-related:
-  - title: "Google urges court to dismiss AI data scraping class action lawsuit"
-    excerpt: "Google has urged a California court to dismiss the class action lawsuit filed against the company for AI data scrapping."
-    publishedDateTime: 2023-10-19T14:26:00Z
-    webUrl: "https://www.cryptopolitan.com/google-court-dismiss-data-scrapping-lawsuit/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 39
-    images:
-      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/IMG_5025.jpeg"
-        width: 1024
-        height: 1024
-        isCached: true
 
 secured: "dWu3keju84doWl/q4nj5eRddMkM6lv7RN97dMSpQTJkCfpMHVF38TbiwSFx9PWBsR90e/HpDV2RC1Vzb/N2soVN7Ixm/lSj+FVV+K7DmlgNrYNZ5ODwnPj3Byn1n/OIT/qTJ4RyF28iRdhxTtFsgFD/CvDjTQszbnnP8akznVFkaL50mOYE//9xjqBfhjkK2ASAqnwZrlrYFGV9imD4zMeohD8Dm4s6LlKm6i4WacBR0FYw9NXDWRSjkkQSKR6j08cgFyuQzZup33jvfgPswWQhgBsVEaaTT9IZxIQ3+tbOmtsQq76zeKoUjMTJpQwxEcbQS2z+OEy4vhLG/7qVe6TUmSxqEFcKHHUNjJ8BqQtZLjwxNNGwr2Dn+jCzD72t90htlblAEsWEg30JHt9AzQ3xe+Zluj/0rR5NWiFYAtehNIidxrJTpSwtJWTwrKLhmzwV/aNPDm839D5B664iUGFqIALq82ZpRGEkQpVASlBvQ5VD5s5JGMgZLhr6q7R24cQ06gbrwC6DgRszsUvLiXQ==;JrRf9IQYP1tXLJeHPl+Pqg=="
 ---

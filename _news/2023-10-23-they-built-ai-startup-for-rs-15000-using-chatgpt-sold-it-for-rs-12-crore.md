@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "OCBC to Deploy Generative AI Chatbot Powered by ChatGPT for Staff Globally"
+    excerpt: "OCBC announced that it will deploy a generative artificial intelligence (AI) chatbot to its 30,000 employees globally in November 2023."
+    publishedDateTime: 2023-10-24T06:43:00Z
+    webUrl: "https://fintechnews.sg/79276/ai/ocbc-to-deploy-generative-ai-chatbot-powered-by-chatgpt-for-staff-globally/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 37
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/10/OCBC-to-Deploy-Generative-AI-Chatbot-Powered-by-ChatGPT-for-Staff-Globally.jpg"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Two Friends Built Dh600 AI Start-Up Using Chatgpt, Sell It For Dh550,000"
     excerpt: "Two budding entrepreneurs and friends took help from ChatGPT and built a start-up with just a modest investment of $185 (Dh600), reported CNBC. The"
     publishedDateTime: 2023-10-23T20:32:00Z

@@ -85,20 +85,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "How Artificial Intelligence Is Changing Business"
-    excerpt: "Artificial intelligence (AI) has become a transformative force in the business world, revolutionizing the way companies operate and interact with their customers"
-    publishedDateTime: 2023-10-19T15:09:00Z
-    webUrl: "https://thesiliconreview.com/2023/10/how-artificial-intelligence-is-changing-business"
-    type: article
-    provider:
-      name: thesiliconreview
-      domain: thesiliconreview.com
-    quality: 39
-    images:
-      - url: "https://thesiliconreview.com/story_image_upload/article/thesiliconreview-how-artificial-intelligence-is-changing-business.jpg"
-        width: 840
-        height: 449
-        isCached: true
   - title: "Music Companies Take Legal Action Against Amazon-Backed AI Startup"
     excerpt: "A recent legal battle is brewing in the music world. Three top music companies are suing Anthropic, an AI firm. They claim the company's AI, Claude, is using their song lyrics without permission. This"
     publishedDateTime: 2023-10-20T13:15:00Z
