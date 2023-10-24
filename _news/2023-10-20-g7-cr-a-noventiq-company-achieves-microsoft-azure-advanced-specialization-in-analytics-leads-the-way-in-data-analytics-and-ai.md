@@ -325,15 +325,6 @@ related:
       name: On MSFT
       domain: onmsft.com
     quality: 45
-  - title: "Opus 5K's latest solution is harnessing Azure Open AI to transform … – Microsoft"
-    excerpt: "By Microsoft News Center Healthcare organisations like hospitals, aged care providers and community care organisations are constantly collecting"
-    publishedDateTime: 2023-10-19T05:32:00Z
-    webUrl: "https://www.inferse.com/762178/opus-5ks-latest-solution-is-harnessing-azure-open-ai-to-transform-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 44
   - title: "Why boomers are catching up with AI faster than Gen Zers, according to Microsoft’s modern work lead"
     excerpt: "stop thinking of AI as a search engine–and start thinking of it as your newest direct report. For the most tenured leaders, with years of people management experience under their belts, this shift has elements that are almost second nature. But for early ..."
     publishedDateTime: 2023-10-20T13:14:00Z

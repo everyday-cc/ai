@@ -41,6 +41,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Stearns Bank Partners with FinTech Automation to Revolutionize Banking Services"
+    excerpt: "Fintech companies stand to gain immensely from this alliance, with the unprecedented opportunity to seamlessly integrate with Stearns Bank and leveraging FTA's IaaS Platform, reducing development cost and time to launch an array of banking services to their customers."
+    publishedDateTime: 2023-10-20T15:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/20/9902685.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "ermG2P2+CY1FyzHjMS2ByDy8RpXulsA2BMu4rl3+Fa7b0E4Pu67i6N8gDCTFnBnncsYJc8xzEI6qhK4cyo2qGNuLR/M4TszO8xpBnqzmu6aRJnYPrdiRVu+oFBJlS51r3wzxYB0tp7FhJf18rdQANrVXnLZVhEusI3s1bPb5M6gfKB0u2LFKDwG+22MKW50x1bI7beznIcy2LiB+l5SDWD90DxjJpNonZbUEyNEtqO9QGmApmNY/jNNv43np19tvlmzgQ8jmBKEmvtm63Ufs3z0AmacgRvHWNKOeOsGniwBX2+uTZqY+hznndEMB8qSRfUHlB476NF7HyVJXPiOZzHVzOfVSwmXX6VUcA6vbr7I=;CoLxalkh/ajqDcP2wDvtng=="
 ---

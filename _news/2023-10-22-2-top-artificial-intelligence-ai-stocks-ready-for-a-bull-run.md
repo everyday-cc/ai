@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/2-top-artificial-intelligence-ai-s
 webUrl: "https://www.nasdaq.com/articles/2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run"
 type: article
 quality: 62
-heat: 82
+heat: 83
 published: true
 
 provider:
@@ -26,7 +26,7 @@ related:
     provider:
       name: The Citizen
       domain: thecitizen.com
-    quality: 43
+    quality: 45
     images:
       - url: "https://d3ebobe8l15pwo.cloudfront.net/wp-content/uploads/2023/10/CFC-ChatGPT-iPad-2023-e1698077479791-768x1024.jpg"
         width: 768

@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-20T13:27:00Z
 originalUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
 webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
 type: article
-quality: 64
+quality: 84
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/tr5423-what-is-generative-ai.jpeg"
+    width: 1400
+    height: 933
+    isCached: true
 
 related:
   - title: "How Companies Can Embrace Generative AI’s Superpowers"
@@ -130,6 +136,6 @@ related:
       domain: 01net.it
     quality: 19
 
-secured: "4n/RqYncDC1hFwn/luhgOdziehcbbA2ze/N6H8UrTKWwu2K9QgK4TRg1+FlNXBws1ZjoEXn07LOn16IJ++RI03ILQeBbqFvIOq0EtJziKXXfriy7pnd1ExrtXmUXoV35Ctl2w/0LMsbmwfUVSxbxvkx7JYNZ3klKjF1PMrV7fxqYaHWEbQIX5NvVrGVdSL90XZVJvQ8nLu796pg5o66FpmOrkP800TD8MfHA2ttFVgQh8ZJHND1VBnMrLDa1+sMxkkow9RmngHPUfk6JzJ5oESz5W8CzBLGaxgbubSi+6VCA4PoCQUeqE47zx7we6ScHgYUN0/lNnmwf21uM/78uTMYflQ0fTrgr8gtjTTSpLEI=;VCIpZLH5dcxYWqaFvdOXYg=="
+secured: "2/alsYaL7h9UYpa04ifoNqa+CAiI2FL+AjTIPOJFMLaG2Fd6hRxh5ph26NeZC7Wpuagiw+vZ4F+UQzndwg/vkKC0Ultu7Z68aD1QN9ZIJVVBAl5eKD7D6kUE8pLWKhaQh932d9AYlV4Dj0YmSHkPuQ9q2flBevuGmF4jHUq5pw4qgi+hH0vnwy7gKyhV6a0iS3mrzEH9MnRYgfPag/9wLiYnDltuK9z84Fn3k8zRePeXwBsLyxFKTEN1G1YCnNUGtLPZtteKR2nQAWsnYcj6spT/R67P2ZvArvw3KbI/9fnIz3KsEKgmXxkmQH13cJjX3KWIOFWkEPK2H6mKE3Ez/brwxV+FzoG3WofS/xEDCU0=;Wi6/0Wu7dUFXVUi0iIcR2w=="
 ---
 

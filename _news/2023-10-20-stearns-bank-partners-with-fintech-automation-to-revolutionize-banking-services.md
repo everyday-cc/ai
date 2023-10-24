@@ -19,21 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "Mozn and UAE-based Astra Tech partner to fortify fintech security via AI-capabilities"
-    excerpt: "UAE - AI powerhouse Mozn, a leader in enterprise AI technologies, has inked a partnership with Astra Tech, a UAE-based tech company. This alliance aims to strengthen their joint ability to tackle unique compliance challenges in local and global markets while setting a course for international expansion."
-    publishedDateTime: 2023-10-19T05:44:00Z
-    webUrl: "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq"
-    ampWebUrl: "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq?amp=1"
+  - title: "FinTech Innovation Lab New York Opens Applications for 2024 Class"
+    excerpt: "Program founded by Accenture and Partnership Fund for New York City marks $2.6 billion in venture capital funding to date, seeks fintechs leveraging innovative technologies, including generative AI Ap"
+    publishedDateTime: 2023-10-19T09:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/b35324447/fintech-innovation-lab-new-york-opens-applications-for-2024-class"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35324447"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35324447"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 69
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NGRiNzMzNDAtMjVhMS00/0/1498385993.jpeg?f=3%3A2"
-        width: 900
-        height: 600
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Applications open for Fintech Innovation Lab NY 2024"
+    excerpt: "Applications are now open for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture and the Partnership Fund for New York City that helps early- and growth-stage fintech companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
+    publishedDateTime: 2023-10-19T15:19:00Z
+    webUrl: "https://www.finextra.com/pressarticle/98471/applications-open-for-fintech-innovation-lab-ny-2024"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "843ol/c42qRNQcR+HJKEsHFnVGHX01ytjZFKtD3HSNxhDRjE589BYvQQ6NSvCPn1XnVQNnPKiBsdA7q1GkBEUyQp0CT9/4gfyUSGx+CXb4+d7XCQL5vHgHBQU6DmWk7hiA4QYCjEh0MfLssVIj8B1zNiU/reI/MMknvQ55AUE3Z49yDoj6A0HewmAj1Lji780BgolOq4m7veuAWI5WpEwbHTt1VBbbEbdkdt4smYM7yubcEKxZPHRuci/QUpk8hjDIzh2UIkca/S81X5j4NfDjBQt/stJyquqGQScTRok/thX00mVtyf4fTBcDbY7TvP1GA/0sfdMo8Sa50iiLmhnM0I1AH9k4j2y3oZ8IWARJw=;glDgGdBhvhaScYGYWAs2yw=="

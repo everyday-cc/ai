@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/soulmate-users-mourn-death-ai-chat
 webUrl: "https://www.businessinsider.com/soulmate-users-mourn-death-ai-chatbots-2023-10"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Business Insider
@@ -42,6 +42,17 @@ related:
         width: 1480
         height: 832
         isCached: true
+  - title: "We Used the Meta AI Chatbot to Plan a Trip. Here’s What It Got Wrong."
+    excerpt: "Meta released an AI chatbot for WhatsApp, Instagram, and Facebook Messenger. We tested it for travel planning."
+    publishedDateTime: 2023-10-23T21:33:00Z
+    webUrl: "https://skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/"
+    ampWebUrl: "https://skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 37
 
 secured: "5WE98QIjOFJYb789xOvhjpOSxg4mO/bO4QRUW1K+F+KS/h+Rp/BN8uEY9Q+Fayi/7ldnP9K9h1n+CrYWSOP+u6ZpWO4WPEoUZ0jTwMutRk/iplSgQJKFRALGJzWDVdqsR+B73R0QpZ+ryn+Lgtz2KXlM+31Vxm3boEi6BP55Ei2g0kBdJuIY0XCcQBF45MWWoM1gt7GN09OQyH6iUhAsJ4hvSl47gLCXtYHYLOJ+8Le+T9bpnMHPRUE1QD7yOSTfbJfA9SDL1uru+KcVw6tvAOG+8H57QAZy+3WGbxqJXUQl1pPUISVFb6dccpmzu1/Lw/9nOrdiqTBDFcqqGD/88x6adXZJKP+dmbctkQQ5NmqvQaGjiFVUicU/ivhxmFicvxrLKXcMnZ1F66Hb2JChtvKYe21niuWHWCUrv6CAuT7C/kQv4oSmz2RLYb/ebfga6QKguFPhECFL2xCPfwQ3h+0E8yAsJpIjzQlvPuyii+o9SWaVW4s0d0CB6yDiuesFrExg3DEYypfsyMdRaleuhw==;pMhucZwBE/pTdFB+zkRaxw=="
 ---

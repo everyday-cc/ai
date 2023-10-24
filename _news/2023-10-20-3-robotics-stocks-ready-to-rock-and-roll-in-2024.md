@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-
 webUrl: "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-ready-to-rock-and-roll-in-2024-1032722476"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "3 Stocks That AI Predicts Will Deliver Triple-Digit Returns in 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While artificial intelligence (AI) has made immense strides, text-based AI"
+    publishedDateTime: 2023-10-23T22:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2024-1032730338"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "Google Bard picks top 5 stocks to buy in 2024"
     excerpt: "The remarkable success of ChatGPT has sparked a fresh wave of enthusiasm in the artificial intelligence (AI) domain, setting off … Continued"
     publishedDateTime: 2023-10-21T11:05:00Z

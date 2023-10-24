@@ -3,10 +3,10 @@ category: news
 title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
 excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
 publishedDateTime: 2023-10-20T16:48:00Z
-originalUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
-webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
+originalUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: automation.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
@@ -269,20 +270,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "AI Platform Alliance: Building a Strong Foundation for At-Scale AI Implementation"
-    excerpt: "The AI Platform Alliance is a venture with a clear purpose: to make AI accessible at scale, streamlined, and sustainable for developers and users alike."
-    publishedDateTime: 2023-10-19T06:58:00Z
-    webUrl: "https://realtybiznews.com/ai-platform-alliance-building-a-strong-foundation-for-at-scale-ai-implementation/98779907/"
-    type: article
-    provider:
-      name: realtybiznews
-      domain: realtybiznews.com
-    quality: 34
-    images:
-      - url: "https://realtybiznews.com/wp-content/uploads/2023/10/Recruiting-Insight-370-x-300-px-2.png"
-        width: 370
-        height: 300
-        isCached: true
   - title: "WHO outlines considerations for regulation of artificial intelligence for health"
     excerpt: "The World Health Organization (WHO) has released a new publication listing key regulatory considerations on artificial intelligence (AI) for health. The publication emphasizes the importance of establishing AI systems’ safety and effectiveness,"
     publishedDateTime: 2023-10-19T08:46:00Z
@@ -367,6 +354,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "2rxiDfrLbRjSdnHWKdSrRBVkz+cJt9V1BCoE5KFkYuFfS4JTVeK5aFpMJU/KLmZrVxaHatOseHeM4krq2Lw7fpX9TXKcyu5aYcFSLAPsicq4bGtrugyYfsvh+Fi3kWdfqCpbBAdlcafD9bchb9+ZUmWGbQWye+oWEorzh7qsliK7glJBdpewMkjkoM5OOlkV1IAwkbGOEG1yK+T+17CO3tH449wxNihN8cPwt6/yxDPVe6DZd2X3DDqn0TIzpFiUAZ3AGclOT1CUXcaxdWR+tXWmsF/J0d96dSYNThERszJKjFZxX5wShK/undjlYYYXUcWWzUW7zzOiLplU/wwEeAKGrSxFB9ULYMgYSss+fIw=;uWS6A3iVLrAssu89I9Ux2Q=="
+secured: "DXYDw1rsg/RRW3q9NbXQxyKY/ZKpJ495gFc/yufDk2dWDXweuNSmwV8ed8iSC7WKs2xsZge6My93nIWXfm0qnmtFIhHz9BPTQGpQum7FfOtzBx//irw8rADYPv3qBAkCKLJjppH00MbATdyGQ5n8qqPq6eDJ225hzihMvj5faEwHWHcU46dELNjwGfI/KMqw+AagSA6q81D6V63r5JwaVuMyp8QQSyZ1T2WPe0Q7zyahoNaK6APhVkZqLeUVDYtwU51wADPr3wHFqra0uQUBinINrc6bkLRvhnJD8kRStmYQ2vrc8s+NbWd+GgL2cd8U3BuUgfKXE8M+JIOn94/WAym69QZmqLJwu/jVJxmLCdE=;8OYBkIFCRxHkJAlIul86cQ=="
 ---
 

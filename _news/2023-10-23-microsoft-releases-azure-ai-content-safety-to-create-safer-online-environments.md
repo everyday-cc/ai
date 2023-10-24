@@ -316,15 +316,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Opus 5K's latest solution is harnessing Azure Open AI to transform … – Microsoft"
-    excerpt: "By Microsoft News Center Healthcare organisations like hospitals, aged care providers and community care organisations are constantly collecting"
-    publishedDateTime: 2023-10-19T05:32:00Z
-    webUrl: "https://www.inferse.com/762178/opus-5ks-latest-solution-is-harnessing-azure-open-ai-to-transform-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 44
   - title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
     excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
     publishedDateTime: 2023-10-19T19:18:00Z

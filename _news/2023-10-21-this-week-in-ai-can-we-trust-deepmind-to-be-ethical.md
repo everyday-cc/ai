@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepm
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/amp/"
 type: article
 quality: 121
-heat: 126
+heat: 121
 published: true
 
 provider:

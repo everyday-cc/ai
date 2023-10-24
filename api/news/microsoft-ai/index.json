@@ -62,7 +62,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 374,
+      "heat": 364,
       "tags": null,
       "images": [
         {
@@ -293,6 +293,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-purplecubeai-introduces-cognitive-data-insights-a-game-changer-in-unstructured-data-processing-and-data-governance.md",
+      "title": "PurpleCubeAI Introduces Cognitive Data Insights: A Game-Changer in Unstructured Data Processing and Data Governance",
+      "excerpt": "PurpleCubeAI, the industry's only cloud-native scalable, enterprise-class unified data orchestration platform, today announces its latest offering, Cognitive Data Insights ... is immediately available on both Microsoft Azure and AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-purplecubeai-introduces-cognitive-data-insights-game-changer-unstructured-/2023/10/17/9899619.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-purplecubeai-introduces-cognitive-data-insights-game-changer-unstructured-/2023/10/17/9899619.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1391,41 +1425,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-artificial-intelligence-in-healthcare-service-market-2023-2030-shows-unbelievable-growth-top-companies-ibm-microsoft-enlitic.md",
-      "title": "Artificial Intelligence In Healthcare Service Market 2023-2030 Shows Unbelievable Growth | Top Companies - IBM, Microsoft, Enlitic",
-      "excerpt": "The market forSmart Waste Management System is anticipated to increase at a CAGR of 37.5% between 2023 and 2030, The Artificial Intelligence in Healthcare Service market is witnessing exponential ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35060129/artificial-intelligence-in-healthcare-service-market-2023-2030-shows-unbelievable-growth-top-compan",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35060129/artificial-intelligence-in-healthcare-service-market-2023-2030-shows-unbelievable-growth-top-compan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

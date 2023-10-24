@@ -38,6 +38,17 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "We Used the Meta AI Chatbot to Plan a Trip. Here’s What It Got Wrong."
+    excerpt: "Meta released an AI chatbot for WhatsApp, Instagram, and Facebook Messenger. We tested it for travel planning."
+    publishedDateTime: 2023-10-23T21:33:00Z
+    webUrl: "https://skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/"
+    ampWebUrl: "https://skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 37
 
 secured: "O8fMCUdSKLxV/1c+VLWHVvh064uwKnxJmd2T8M/qt0gZyGWKgrq7cxli80kKC49wQbXzjoMVa8Dm1XuOVCr6t9qPpZXZMFPEDL74Bc8OSaObhREPjYyIORHQ3+4pw+Md2zz4U00iPsrDfU27sUu7cYbiW3ZcIvAJkXdwInIv9JVn7ta2VDRAcnd+hsMo+QfICLGUY17vh91R8pA1EsERP1SpvDe9IoQ/V0XiU49ZNPBCofOu5/WoMrWEN9aomIdnxE2F+5sdofuOtv2dke+FnPI6pTSyf9B4b9Q+zNu9dfmZ44QL8201zS+j3cRUsF1TcCxEK3kKT8DoI0Wn3wwDySO2kCRWE23ziB0R+TQkQnDUoYjtGONvyYxaH8G5ddfu0EFDKuEhTd3dWvcsEVjrOgEjZPFQKci/6iezqPKLTass7P4ZLeGis++vxF8umoT2PHF++a+O13QZmkKPak3/8VaZ0QEc4u2LE6BK8b9SGWEGlGAV7O5iWlJCM43S92N0IQSQDS8bjIEtnh/kt2Iq2w==;KLPPQSC4odFo2Fe533sj2g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/10/23/databricks-acquires-enterprise
 webUrl: "https://siliconangle.com/2023/10/23/databricks-acquires-enterprise-data-replicator-arcion-100m/"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Databricks To Acquire Data Replication Startup Arcion For $100M"
+    excerpt: "Data analytics and AI software maker Databricks has revealed plans to buy enterprise data replication startup Arcion for $100 million including incentives, the two companies revealed on Monday."
+    publishedDateTime: 2023-10-23T22:01:00Z
+    webUrl: "https://www.crn.com/news/storage/databricks-to-acquire-data-replication-startup-arcion-for-100m"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 22
+    images:
+      - url: "https://www.crn.com/resources/0281-17f0d3aad674-e746f9a90adb-1000/databricks-2021-logo.jpeg"
+        width: 611
+        height: 458
+        isCached: true
   - title: "Databricks, the $43 billion analytics firm, acquires data startup Arcion for $100 million"
     excerpt: "Databricks agreed to acquire Arcion, an enterprise data company, for $100 million Monday, including incentives, CEO Ali Ghodsi told CNBC."
     publishedDateTime: 2023-10-23T12:30:00Z

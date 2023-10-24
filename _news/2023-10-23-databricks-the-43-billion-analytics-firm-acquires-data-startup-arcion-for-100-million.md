@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Databricks To Acquire Data Replication Startup Arcion For $100M"
+    excerpt: "Data analytics and AI software maker Databricks has revealed plans to buy enterprise data replication startup Arcion for $100 million including incentives, the two companies revealed on Monday."
+    publishedDateTime: 2023-10-23T22:01:00Z
+    webUrl: "https://www.crn.com/news/storage/databricks-to-acquire-data-replication-startup-arcion-for-100m"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 22
+    images:
+      - url: "https://www.crn.com/resources/0281-17f0d3aad674-e746f9a90adb-1000/databricks-2021-logo.jpeg"
+        width: 611
+        height: 458
+        isCached: true
   - title: "Databricks acquires enterprise data replication startup Arcion for $100M"
     excerpt: "Enterprise data company Databricks Inc. announced today that it has agreed to acquire Arcion Labs Inc., a provider of enterprise data replication and ingestion technology, in a transaction valued at over $100 million."
     publishedDateTime: 2023-10-23T16:12:00Z

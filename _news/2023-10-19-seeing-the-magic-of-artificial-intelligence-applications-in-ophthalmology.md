@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
+    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
+    publishedDateTime: 2023-10-20T16:48:00Z
+    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 60
+    images:
+      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Role of CX automation and generative AI"
     excerpt: "Customers expect personalised and efficient service, and the emergence of generative AI has led to a significant shift in the way businesses approach customer service and customer delight. Like human interactions,"
     publishedDateTime: 2023-10-22T09:48:00Z
@@ -136,20 +150,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
-    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
-    publishedDateTime: 2023-10-20T16:48:00Z
-    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 58
-    images:
-      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
         isCached: true
   - title: "Bitcoin-centric AI language model aims to drive BTC education and adoption"
     excerpt: "Novel AI language model Spirit of Satoshi trained on Bitcoin-related resources aims to drive education and BTC adoption."
@@ -268,20 +268,6 @@ related:
       - url: "https://images.dmnews.com/wp-content/uploads/2023/10/Open-AI.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "AI Platform Alliance: Building a Strong Foundation for At-Scale AI Implementation"
-    excerpt: "The AI Platform Alliance is a venture with a clear purpose: to make AI accessible at scale, streamlined, and sustainable for developers and users alike."
-    publishedDateTime: 2023-10-19T06:58:00Z
-    webUrl: "https://realtybiznews.com/ai-platform-alliance-building-a-strong-foundation-for-at-scale-ai-implementation/98779907/"
-    type: article
-    provider:
-      name: realtybiznews
-      domain: realtybiznews.com
-    quality: 34
-    images:
-      - url: "https://realtybiznews.com/wp-content/uploads/2023/10/Recruiting-Insight-370-x-300-px-2.png"
-        width: 370
-        height: 300
         isCached: true
   - title: "WHO outlines considerations for regulation of artificial intelligence for health"
     excerpt: "The World Health Organization (WHO) has released a new publication listing key regulatory considerations on artificial intelligence (AI) for health. The publication emphasizes the importance of establishing AI systems’ safety and effectiveness,"

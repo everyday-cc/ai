@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-23T21:10:00Z
 originalUrl: "https://thecitizen.com/2023/10/23/how-i-use-artificial-intelligence-ai-for-my-small-business/"
 webUrl: "https://thecitizen.com/2023/10/23/how-i-use-artificial-intelligence-ai-for-my-small-business/"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d3ebobe8l15pwo.cloudfront.net/wp-content/uploads/2023/10/CFC-ChatGPT-iPad-2023-e1698077479791-768x1024.jpg"
@@ -49,6 +50,6 @@ related:
         height: 2880
         isCached: true
 
-secured: "5S1zerp5ix2wkBeCadNEqen8O8N924M2+Xcv5Q1XZqZtwY3qKwujbmc3JHB1EVbBlDVKn7QVcFKHIlZ3BAQ759Fj4tqNqVbAzg8stJL53mQLPwr5vrh7OC7TCqnpGJtMU357Yob8rwCugKFA0EiRlxow8eXG4/fr/rFYXeUViGKJ9HbnUXIiP0bepyiC7e4rPYPL7FfIxXnoiFVk/+eEcfkU/R6swbEx29MquN1h7dj8GSAyaieN5UlHDCveaV5zdIPSBrKv16uWhNlNrXezLIeNI87aahzHg/PiDPIO8O2CzisNgdqq5JD5FBxETgDslKqDsmS803QulsCDzdUzkfnKoCCMA55ksfvvsDHCmL0=;XvxW9OgVp0whBCpZ5V1dKQ=="
+secured: "LfbGrC3Zn2HdC/N/r+LkKKOF9fLgLSiA8Ys6cGNM4+dHBpxdc+eKN5SHoPIH/ZKMnxC4Y1WtPLRwZJ6iPe26ktcR5SNg7BuiD6kGImWxhdU6amtV8VQiUfMKj+efPUSX706TrB8rNXvbN/Ecju24Oq1V+zjg9vsmofBQ1MPiilOCV3u37j80LkV8C66iOz5PirhPDhZKc4z7IBIdVMTVaDFpUl/OtRAyYtWJSYxhJPGCZFAfmJrJYM/5r1cTnh+1AyfR2dcAA9kWcybUK/6LTnpBCtTn0uFEdT4oByRO2BLHV/FiH1maRZ2FWRlcHxJa7ETSVh8fTE0cwotSEwFKsPSEY+jKk9mQNlq1rrXDwspHILG3pj0nk0qy0+FTw6Zvwt8gBMCOvZAGpONEIXF1oZMGQYrBWGEd9c03jL8+m61thNRijx2iB3sdhGZVVORo3rp9k2k4ztiDj1k1cFWs9zHDWVlRhtNKrUO0PDaLGuo6rQZq5FmqO8MqRq0lSunaOBVgzhJEgVmyDQwigqh7SQ==;A8c3/rwxxmLF8A9Cv0lZRQ=="
 ---
 

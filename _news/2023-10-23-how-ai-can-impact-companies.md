@@ -38,6 +38,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
+    excerpt: "The purpose of the expanded relationship between IBM Consulting and AWS is “to help more mutual clients operationalize and derive value from generative artificial intelligence,” IBM Consulting stated in a press release. In addition, IBM Consulting ..."
+    publishedDateTime: 2023-10-20T13:27:00Z
+    webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/tr5423-what-is-generative-ai.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Why Generative AI Needs Design"
     excerpt: "With generative AI, computers gain a new set of capabilities: the ability to understand and generate language, code ... With simple prompts, anyone can translate an idea into a visual prototype that a group can riff on. While imperfect, these AI mockups ..."
     publishedDateTime: 2023-10-23T21:00:00Z
@@ -66,15 +80,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
-    excerpt: "The purpose of the expanded relationship between IBM Consulting and AWS is “to help more mutual clients operationalize and derive value from generative artificial intelligence,” IBM Consulting stated in a press release. In addition, IBM Consulting ..."
-    publishedDateTime: 2023-10-20T13:27:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 64
   - title: "Generative AI and the passage from India - how TCS, Infosys and HCLTech perceive gen AI's opportunities"
     excerpt: "Meanwhile at HCLTech, CEO C. Vijayakumar cites “hundreds of opportunities in emerging areas like gen AI”, some of which have already converted to wins and are in the implementation phase. The firm is also ‘eating its own dog food’ with internal generative AI adoption, he says:"
     publishedDateTime: 2023-10-19T09:08:00Z

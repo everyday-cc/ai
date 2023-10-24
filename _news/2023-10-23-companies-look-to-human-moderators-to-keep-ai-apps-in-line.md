@@ -44,6 +44,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
+    excerpt: "The purpose of the expanded relationship between IBM Consulting and AWS is “to help more mutual clients operationalize and derive value from generative artificial intelligence,” IBM Consulting stated in a press release. In addition, IBM Consulting ..."
+    publishedDateTime: 2023-10-20T13:27:00Z
+    webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/tr5423-what-is-generative-ai.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Why Generative AI Needs Design"
     excerpt: "With generative AI, computers gain a new set of capabilities: the ability to understand and generate language, code ... With simple prompts, anyone can translate an idea into a visual prototype that a group can riff on. While imperfect, these AI mockups ..."
     publishedDateTime: 2023-10-23T21:00:00Z
@@ -58,15 +72,6 @@ related:
         width: 1176
         height: 900
         isCached: true
-  - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
-    excerpt: "The purpose of the expanded relationship between IBM Consulting and AWS is “to help more mutual clients operationalize and derive value from generative artificial intelligence,” IBM Consulting stated in a press release. In addition, IBM Consulting ..."
-    publishedDateTime: 2023-10-20T13:27:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 64
   - title: "How AI Can Impact Companies"
     excerpt: "Embracing responsible AI deployment, fostering a culture of innovation and prioritizing continuous learning are essential for businesses to thrive in an AI-driven era."
     publishedDateTime: 2023-10-23T12:46:00Z

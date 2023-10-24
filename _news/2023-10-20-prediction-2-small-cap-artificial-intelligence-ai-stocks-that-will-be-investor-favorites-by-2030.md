@@ -42,7 +42,7 @@ related:
     provider:
       name: The Citizen
       domain: thecitizen.com
-    quality: 43
+    quality: 45
     images:
       - url: "https://d3ebobe8l15pwo.cloudfront.net/wp-content/uploads/2023/10/CFC-ChatGPT-iPad-2023-e1698077479791-768x1024.jpg"
         width: 768

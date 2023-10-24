@@ -45,6 +45,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
+    excerpt: "The purpose of the expanded relationship between IBM Consulting and AWS is “to help more mutual clients operationalize and derive value from generative artificial intelligence,” IBM Consulting stated in a press release. In addition, IBM Consulting ..."
+    publishedDateTime: 2023-10-20T13:27:00Z
+    webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/tr5423-what-is-generative-ai.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Companies Look to Human Moderators to Keep AI Apps in Line"
     excerpt: "Borrowing from social-media platforms, software maker Intuit is hiring content moderators to help keep toxic language and other bad behavior off its AI systems."
     publishedDateTime: 2023-10-23T16:53:00Z
@@ -59,15 +73,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
-    excerpt: "The purpose of the expanded relationship between IBM Consulting and AWS is “to help more mutual clients operationalize and derive value from generative artificial intelligence,” IBM Consulting stated in a press release. In addition, IBM Consulting ..."
-    publishedDateTime: 2023-10-20T13:27:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 64
   - title: "How AI Can Impact Companies"
     excerpt: "Embracing responsible AI deployment, fostering a culture of innovation and prioritizing continuous learning are essential for businesses to thrive in an AI-driven era."
     publishedDateTime: 2023-10-23T12:46:00Z
