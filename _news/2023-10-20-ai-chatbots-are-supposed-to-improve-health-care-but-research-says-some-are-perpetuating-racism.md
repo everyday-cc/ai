@@ -79,6 +79,15 @@ related:
       name: Santa Rosa Press Democrat
       domain: pressdemocrat.com
     quality: 5
+  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
+    excerpt: "Powered by AI models trained on troves of text pulled from the internet, chatbots such as ChatGPT and Google’s Bard responded to the researchers’ questions with a range of mis"
+    publishedDateTime: 2023-10-22T17:12:00Z
+    webUrl: "https://thegrio.com/2023/10/22/ai-chatbots-risk-spreading-racist-ideas-about-health/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 5
 
 secured: "1TZsSP7pi4GbOtHffjGzlNEfUD0LKUhU74oBuusWb9TdyG8tSIAnNmZju530TXb0bLwpFcBAUJ6deirBGq+9UQJjvDQR4TRF4S3K/2bU2tHL8C+/VBm1KjAw4zQJA+GSP9OC4+sukU/sYPNphQ/xnWffvoLbMfWQG1cRjXGDHlKXhPwOHM2SXYA6eIrC15YGKyTmj2By7dPlLnLCVuEGEGi/VKmGycv5KfzI4O5a782cL4zIAtgTDAnDqc5FNCWHXQ9zYw2KqivAjWKA18opJzGjQRqby9xM0LeFZ1TQsdvbw+xxUj5QvoOeuknruxDUaqq9+UA6gQ8gByj8tVG1fIGZBcCTFzLKm3l4A/8bTIIkFiV+cZ0qxq3HsSB3UCkzwznRDmXVXJsbUjLwSAPwZ6EpBDLBAYEPi25UzxnlKS3pR+ZgtqR4ST7qX7gh6+24VuZRCUgKEQUP+pJB2ySw5zhr08EbQWyMkS7Eta2eK6XVWZa70cP3sR7fxAON+5xSj5xWCRHjHJCnV+UCm9cdUA==;fnBLEZK67WNqjLVt2hxVpg=="
 ---

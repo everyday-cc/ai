@@ -27,15 +27,6 @@ images:
 related:
   - title: "Sensedia Announces Joint Fintech Solution with Mambu at Money20/20"
     excerpt: "Sensedia, a global leader in delivering API solutions for companies adopting a more digital, connected, and open strategy, today announced it will present during Money20/20 at the Venetian, Las Vegas,"
-    publishedDateTime: 2023-10-19T16:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/19/9902256.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
-  - title: "Sensedia Announces Joint Fintech Solution with Mambu at Money20/20"
-    excerpt: "Sensedia, a global leader in delivering API solutions for companies adopting a more digital, connected, and open strategy, today announced it will present during Money20/20 at the Venetian, Las Vegas,"
     publishedDateTime: 2023-10-19T19:27:00Z
     webUrl: "https://www.businesswire.com/news/home/20231019438906/en/Sensedia-Announces-Joint-Fintech-Solution-with-Mambu-at-Money2020"
     type: article

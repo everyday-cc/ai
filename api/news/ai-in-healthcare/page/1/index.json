@@ -280,6 +280,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-19-fda-grants-fast-track-designation-to-anpd001-autologous-investigational-cell-therapy-for-the-treatment-of-parkinsons-disease.md",
+      "title": "FDA Grants Fast Track Designation to ANPD001, Autologous Investigational Cell Therapy for the Treatment of Parkinson's Disease",
+      "excerpt": "These cells are then evaluated for potential activity using robust quality control assays, including Aspen's proprietary artificial intelligence-based genomics tests, before being implanted. About ANPD001 ANPD001 is an investigational cell therapy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-21111418.html",
+      "originalUrl": "https://www.lelezard.com/en/news-21111418.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-the-chatbot-revolution-transforming-healthcare-with-ai-language-models.md",
       "title": "The Chatbot Revolution: Transforming Healthcare With AI Language Models",
       "excerpt": "ChatGPT and similar chatbot-style artificial intelligence software may soon serve a critical frontline role in the healthcare industry.",
@@ -1346,41 +1389,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-this-artificial-intelligence-ai-stock-is-too-cheap-to-ignore-right-now.md",
-      "title": "This Artificial Intelligence (AI) Stock Is Too Cheap to Ignore Right Now",
-      "excerpt": "Artificial intelligence (AI) has turned out to be a key growth driver for semiconductor stocks in 2023 thanks to the critical role that chips are going to play in the proliferation of this technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/this-artificial-intelligence-ai-stock-is-too-cheap-to-ignore-right-now",
-      "originalUrl": "https://www.nasdaq.com/articles/this-artificial-intelligence-ai-stock-is-too-cheap-to-ignore-right-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

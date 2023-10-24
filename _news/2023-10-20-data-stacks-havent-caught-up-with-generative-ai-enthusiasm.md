@@ -7,7 +7,7 @@ originalUrl: "https://www.ciodive.com/news/generative-AI-chief-data-officers/697
 webUrl: "https://www.ciodive.com/news/generative-AI-chief-data-officers/697218/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "This new data poisoning tool lets artists fight back against generative AI"
-    excerpt: "The tool, called Nightshade, messes up training data in ways that could cause serious damage to image-generating AI models."
-    publishedDateTime: 2023-10-23T17:26:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/amp/"
+  - title: "TCS’ Obsession With Generative AI"
+    excerpt: "TCS, the IT giant was catching up with generative AI, but now it has gone all in on AI in the last couple of months."
+    publishedDateTime: 2023-10-23T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/tcs-obsession-with-generative-ai/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 55
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/poison-corrupts4.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Meet Nightshade, the new tool allowing artists to ‘poison’ AI models with corrupted training data"
-    excerpt: "Nightshade was developed by University of Chicago researchers under computer science professor Ben Zhao and will be added as an option"
-    publishedDateTime: 2023-10-23T23:35:00Z
-    webUrl: "https://venturebeat.com/ai/meet-nightshade-the-new-tool-allowing-artists-to-poison-ai-models-with-corrupted-training-data/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 54
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-23-19.33.25-Illustration-in-a-comic-book-style-depicting-a-humanoid-robot-in-distress.-The-robots-left-hand-is-firmly-placed-on-its-neck-indicating-discomfort.-.png?w=1200&strip=all"
-        width: 1199
-        height: 685
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/TCS-Obsession-With-Generative-AI-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "FLe0qXwju6GBQgicl7VuGRQhIWO/jRd4l9FXQpv1C5vDCHP82u071r68MiN+fKjJsdqPCaRoX9xljq2MEkTDTxpo6DXNflQ4NRow7gCdCsScjWcBtMcA2L3jR9deLf3+m6+z9Ea5Ltk0yXV5vuT3mzisIyVFQ0+qZr4xD5ZPm4qc9dqkTOw3BgzZVsXntvoTlA1tmeu9z2CToG5qxEgD08PNT83no/A5c8hM5H4WSulcwUyrrcNcVtTRRZ99voFEvGBYLIcQCbkwuxTvZ93Y75pl9QhG7NudPfEbYz60Bw6Dy2+50eFku+l7kQcGInJLRzXGXzlgIHBbdnYpl2SbWUQwjT0mfessGl7P91imPiA=;TIJPzgEWjutAn3967cGffg=="

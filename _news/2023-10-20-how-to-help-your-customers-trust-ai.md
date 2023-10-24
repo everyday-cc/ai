@@ -39,22 +39,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "How to land a job in artificial intelligence and cash in on the hype"
-    excerpt: "Looking for a job or career in AI? Recruiters say applicants don't always need college degrees, but should be able to demonstrate AI interest."
-    publishedDateTime: 2023-10-19T16:08:00Z
-    webUrl: "https://www.businessinsider.com/how-to-get-ai-job-career-ibm-nvidia-recruiters-advice-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/how-to-get-ai-job-career-ibm-nvidia-recruiters-advice-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-get-ai-job-career-ibm-nvidia-recruiters-advice-2023-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/6528461468f1d46f52b06af3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "25 of the best free AI courses on edX"
     excerpt: "TL;DR: A wide range of online AI courses are available to take for free on edX. You can find online courses on just about everything at edX. Whether you want to learn about coding, video game development, or economics, edX is worth checking out."
     publishedDateTime: 2023-10-20T04:01:00Z

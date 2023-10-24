@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/meet-nightshade-the-new-tool-allowing-a
 webUrl: "https://venturebeat.com/ai/meet-nightshade-the-new-tool-allowing-artists-to-poison-ai-models-with-corrupted-training-data/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -26,38 +26,6 @@ images:
     width: 1199
     height: 685
     isCached: true
-
-related:
-  - title: "This new data poisoning tool lets artists fight back against generative AI"
-    excerpt: "The tool, called Nightshade, messes up training data in ways that could cause serious damage to image-generating AI models."
-    publishedDateTime: 2023-10-23T17:26:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 55
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/poison-corrupts4.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Data stacks haven’t caught up with generative AI enthusiasm"
-    excerpt: "Data quality, use case fit and a lack of guardrails top the list of key obstacles standing between companies and widespread adoption of generative AI, according to the survey of 334 CDOs, conducted in partnership with the International MIT Chief Data Officer and Information Quality Symposium."
-    publishedDateTime: 2023-10-19T20:55:00Z
-    webUrl: "https://www.ciodive.com/news/generative-AI-chief-data-officers/697218/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/imgproxy/1mRDuz8WYL3tvJvUlBzTYq5UZK2hKydSlMXpnRDNulY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDEyOTIyOTcuanBn.jpg"
-        width: 770
-        height: 435
-        isCached: true
 
 secured: "kiGJmaZMn+UhmVVSW1DNPEuVADunVTAMwn9Byl+W03yVjLPtcCgqhAeFyTEuxShKJ466MUGZ9Nd9Z2YgVo4meD9GQJfcJHtzWNcIcLXm1vR4BmJVSHRvhngCx/i2iiathSCPEdkfLWoIDimCO9PPi64nAZ6zVOswRR9jyfM/+stz/2BUaTAcNGCjFVZK2Y0yV5X75Yrdln6t7Yc7PcrcoluOsvMZF7IRPM9s/yxQ6LKxjAUEc44So8tpRxf+autWzENh+CjBaBFQJ3sUY/BAzoI++ZBSaZUYsUW0m+qQZF/SGvY69Pyshgpcf8jlFsbClqSrH8+J6tqKg0fc+uUgpow7K/UWeIclOWdOdn2/+kFjYv01iKDCeiGWo4SNriVKG5W4hvKbzM0VOQjL8h5QPRFaFZ3sRUxTt4anfNeDjA7lCGI8KtE2PMSuvQw8nsLyGesDqQjJdcPe3hvbVSJPt72+4o+q5grfLW5SX0SkfzPIKcdxNZekq1qgfqSuA7nt0eCtgGB042Jr/uqRPZ5fqg==;lseFkq3DfNwZ+EtFqOj/Dg=="
 ---

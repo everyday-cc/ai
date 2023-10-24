@@ -23,16 +23,16 @@ topics:
 
 related:
   - title: "UK officials use AI to decide on issues from benefits to marriage licences"
-    excerpt: "Marion Oswald, a professor in law at Northumbria University and a former member of the government’s advisory board on data ethics, said: “There is a lack of consistency and transparency in the way that AI is being used in the public sector. A lot of ..."
-    publishedDateTime: 2023-10-24T05:35:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences?trk=public_post_comment-text"
+    excerpt: "Exclusive: findings show uncontrolled and potentially discriminatory way technology used in Whitehall and some police forces"
+    publishedDateTime: 2023-10-23T20:51:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 57
+    quality: 55
     images:
       - url: "https://i.guim.co.uk/img/media/f67ebc8d0858465139589175ab93563fb53a003a/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=39186499043e05877e63f25acf06ca8e"
         width: 620

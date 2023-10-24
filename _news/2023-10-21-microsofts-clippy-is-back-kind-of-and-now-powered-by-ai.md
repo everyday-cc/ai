@@ -223,20 +223,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Microsoft’s new AI will save you time and energy"
-    excerpt: "Microsoft ’s new AI will make virtual meetings much easier for you. The ChatGPT-style AI assistant, the Microsoft 365 Copilot, will be able to attend and summarize Teams meetings for the user, which will eliminate the “drudgery” and optimize workflow."
-    publishedDateTime: 2023-10-19T16:43:00Z
-    webUrl: "https://rollingout.com/2023/10/19/microsoft-new-ai-save-time-and-energy/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 56
-    images:
-      - url: "https://rollingout.com/wp-content/uploads/2023/10/0056238001570442327-135.jpg"
-        width: 1000
-        height: 650
-        isCached: true
   - title: "Cash-Rich Apple Still Needs Billions To Catch Up In Generative AI Race Against Meta Or Microsoft: Analyst Ming-Chi Kuo Reveals Why"
     excerpt: "According to Kuo's latest survey, Cupertino plans to procure 2,000 to 3,000 AI servers in 2023 and a more substantial 18,000 to 20,000 units in 2024."
     publishedDateTime: 2023-10-24T06:03:00Z

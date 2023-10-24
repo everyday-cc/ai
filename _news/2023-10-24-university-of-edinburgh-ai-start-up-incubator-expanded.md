@@ -1,10 +1,10 @@
 ---
 category: news
 title: "University of Edinburgh AI start-up incubator expanded"
-excerpt: "A Scottish university has expanded its incubator programme for robotics and artificial intelligence start-ups. The expansion of the University of Edinburgh Venture Builder Incubator (VBI) programme means entrepreneurs from across Scotland working in ..."
-publishedDateTime: 2023-10-24T05:09:00Z
-originalUrl: "https://www.heraldscotland.com/news/23874410.university-edinburgh-ai-start-up-incubator-expanded/?ref=rss"
-webUrl: "https://www.heraldscotland.com/news/23874410.university-edinburgh-ai-start-up-incubator-expanded/?ref=rss"
+excerpt: "The expansion of the University of Edinburgh Venture Builder Incubator (VBI) programme means entrepreneurs from across Scotland working in robotics and artificial intelligence can turn their ideas into commercial reality."
+publishedDateTime: 2023-10-24T03:46:00Z
+originalUrl: "https://www.heraldscotland.com/news/23874410.university-edinburgh-ai-start-up-incubator-expanded/"
+webUrl: "https://www.heraldscotland.com/news/23874410.university-edinburgh-ai-start-up-incubator-expanded/"
 type: article
 quality: 39
 heat: -1
@@ -53,6 +53,6 @@ related:
       domain: dailybusinessgroup.co.uk
     quality: 69
 
-secured: "R8OBErWfr+afRBRsoCv8thJoW5gpeLQWJ92XlyMFS98+rtKKaiMRhW9IcuB0dfgemBB8FsA5Ll2ntqzAefdtJ605KnpT82inzwSyJAc+GNgQh79E9eX1v5htbDoVje6PYA3NEDZd/QIyrJlqgnnUkdOmEYT92AvSDMGR+s7X1DLsVmKVC15mqw4jqMdGtHYblz6hZork7/nad3rB625aT7R/XmcswQgUrsPRVHYFDPxr7JYFkVjEYxMxxnTK7AkSStMyjedLzAVk4x7AAXT9XTbPUeP/kIG4/aR92f5rfadpaDQSnxuDYu17X+diW5fZcFWfwzzx3SPDTSP3lFR8aDJqr/ZwwDqhJhdOd0OYUrU=;kTXh9EsXUF3thfKhfi82iw=="
+secured: "+aPV3I8PpJdtMt3MPvPT6DRwPLIvX+ogXFE4mYsz6D0tITJwFBn+zs+bTHD28HFwai1jSWeDnUJx9Z0Z6kxtstuOH+SpifIylQQhGk3Y+Di5tfT5SiRtqbW3EHRVgECXeD2LPJUELUKrGoQMrTLQgMo318sJfgRg/2gDflnPQyzNbOqR+SarWCSoJ7S1r4VxxprdvWtqzdQklDBO/8QlGk34YOwlgXfbqXEsGHOUf7TfV0xK5JJs8zZhRSENRn+Viaj4BJVpythZ+zM46lvFosopcdPG8I4tkJnrCwafW9wAH5yTtlcq5XzQ5PUahfqXWzMce8O/yKF9ensEi19F0ZkM0VFwnIj91C9Ha7mk4NA=;G9Tqb4rfjHepvgD60fmsGw=="
 ---
 

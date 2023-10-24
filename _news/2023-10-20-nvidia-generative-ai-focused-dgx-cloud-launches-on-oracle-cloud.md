@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Gives Robotics A Major Upgrade"
-    excerpt: "According to Nvidia, these releases include more value than all the other releases over the past 10 years combined."
-    publishedDateTime: 2023-10-19T15:51:00Z
-    webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/"
-    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65314c2819c4e506a67ca4d8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1280
-        height: 680
-        isCached: true
   - title: "New Nvidia AI agent, powered by GPT-4, can train robots"
     excerpt: "Nvidia Research announced today that it has developed a new AI agent powered by OpenAI's GPT-4 that can teach robots complex skills."
     publishedDateTime: 2023-10-20T20:00:00Z
@@ -56,6 +40,57 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "Oracle loops in Nvidia’s AI stack for end-to-end model development"
+    excerpt: "Nvidia's DGX Cloud and AI Enterprise software both are now available as dedicated apps on the Oracle Cloud Marketplace"
+    publishedDateTime: 2023-10-20T18:08:00Z
+    webUrl: "https://venturebeat.com/ai/oracle-loops-in-nvidias-ai-stack-for-end-to-end-model-development/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-20-14.04.11-Illustration-of-the-circuit-board-rollercoaster-with-ethereal-clouds-of-data-enveloping-it-while-lines-of-computer-code-represented-as-luminous-gree.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
+  - title: "What new U.S. export controls on China mean for Nvidia and other key parts of AI ecosystem"
+    excerpt: "Heightened restrictions on artificial intelligence chip sales to China could have major implications for 2023's AI darling."
+    publishedDateTime: 2023-10-19T17:42:00Z
+    webUrl: "https://www.cnbc.com/2023/10/19/what-new-us-export-controls-on-china-mean-for-nvidia.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 57
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107247052-1685079013413-gettyimages-1257866797-Nvidia_Stock_Soar.jpeg?v=1697742655&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Gcore launches generative AI cluster with Nvidia GPUs"
+    excerpt: "Users will have direct access to the AI clusters and deployments using the managed Kubernetes with Nvidia GPU nodes and will be able to set up workspaces in MLOps and large-scale models. \"We at Gcore are immensely proud to be a part of the transformation ..."
+    publishedDateTime: 2023-10-20T11:29:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/gcore-launches-generative-ai-cluster-with-nvidia-gpus/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/DGX_A100.2e16d0ba.fill-1200x630.png"
+        width: 718
+        height: 377
+        isCached: true
+  - title: "Yahoo Finance's NEXT: How rivals are taking on Nvidia in the AI chip race"
+    excerpt: "Nvidia (NVDA) is dominating the AI chip market, but it may not hold onto that lead for long. Traditional semiconductor rivals like AMD (AMD) and Intel (INTC) are entering the AI space, but so are Big Tech names like Microsoft (MSFT) and Alphabet (GOOGL)."
+    publishedDateTime: 2023-10-23T19:24:00Z
+    webUrl: "https://www.aol.com/yahoo-finances-next-rivals-taking-192451983.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 50
   - title: "NVIDIA AI arrives in Oracle Cloud Marketplace"
     excerpt: "“We’re accelerating our mission to infuse AI into virtually every academic and research disciplines,” said Thenkurussi (Kesh) Kesavadas, vice president for research and economic development at UAlbany. “We will drive advances in ..."
     publishedDateTime: 2023-10-20T10:54:00Z
@@ -84,15 +119,20 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Nvidia comes under US governments radar with its GPU sales in China"
-    excerpt: "Nvidia: In an effort to stymie the growth of artificial intelligence (AI) technology in China, the US government slapped new limits on AI and HPC GPU exports"
-    publishedDateTime: 2023-10-21T12:58:00Z
-    webUrl: "https://technosports.co.in/nvidia-comes-under-us-governments-radar/"
+  - title: "Nvidia built a massive dual GPU to power models like ChatGPT – Digital Trends"
+    excerpt: "GPU Technology Conference (GTC) usually focuses on advancements in AI, but this year, Nvidia is responding to the massive rise of"
+    publishedDateTime: 2023-10-23T08:49:00Z
+    webUrl: "https://www.inferse.com/767536/nvidia-built-a-massive-dual-gpu-to-power-models-like-chatgpt-digital-trends/"
     type: article
     provider:
-      name: TechnoSports
-      domain: technosports.co.in
+      name: Inferse
+      domain: inferse.com
     quality: 36
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-15058.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NVIDIA’s breakthrough AI teaches robots human-like complex skills"
     excerpt: "Eureka not only improves the performance of the bot significantly but also achieves this by planning rewards on the basis of human feedback."
     publishedDateTime: 2023-10-20T13:00:00Z
@@ -102,15 +142,20 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 34
-  - title: "Revolutionizing Robot Learning: NVIDIA’s Eureka Aces Complex Tasks"
-    excerpt: "In a world where technology is ever-evolving, NVIDIA once again demonstrates its prowess with a groundbreaking advancement: the Eureka AI agent. This cutting-edge tool isn't just any AI model – it’s transforming the realm of robotics,"
-    publishedDateTime: 2023-10-23T13:00:00Z
-    webUrl: "https://www.unite.ai/revolutionizing-robot-learning-nvidias-eureka-aces-complex-tasks/"
+  - title: "Nvidia Announced an AI Agent Powered by GPT-4 That Can Teach Robots Complex Skills"
+    excerpt: "NVIDIA Research announced yesterday that it developed an AI agent called Eureka powered by GPT-4 LLM and generative AI. Eureka can teach robots complex skills by writing code that rewards robots for reinforcement learning."
+    publishedDateTime: 2023-10-21T06:21:00Z
+    webUrl: "https://iblnews.org/nvidia-announced-an-ai-agent-powered-by-gpt-4-that-can-teach-robots-complex-skills/"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 19
+      name: IBL News
+      domain: iblnews.org
+    quality: 33
+    images:
+      - url: "https://iblnews.org/wp-content/uploads/2023/10/nvidiabreakthrough-696x393.jpg"
+        width: 696
+        height: 393
+        isCached: true
 
 secured: "cSuz3TyKT1BFReo+1W2Gw3jBzbpwyUvAYLjC+dTkiFf9D9Ukn/Ym/nfByV70WWWgJHxqgM8+hEXCJSKI0/dfQrQ+bWwiqOKSK5WECwqZTE4a8RITA5lM0BYCavZwcwsAlXgPfuD8Y+DheoIdn/tqg9d6dZ7g2im2SE9K0O/8uGMAlLvG0WlEZMUoAd9BSGAqKeXy3IOvXc5hvskf0QWURgBqX4MnzLBH3AMaOr5RLO4vijevwXBbBDMpyy5+NR9bUxuIK3LlKWp2vZP+V3msD8dIJz4/ObAGYMCjxTfL5jOvmL8OP5B1CAqNBZ8n3kGwxVKrqa0XTNquNwZWnYSnByD03won36wPBX51wTEPQR0=;p/xvqaSdVZRdzGSTu9ENgg=="
 ---

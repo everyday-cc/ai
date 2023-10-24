@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/10-out-of-the-1
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/10-out-of-the-13-startups-are-focused-on-ai-deeptech/464109"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Entrepreneur
@@ -26,6 +26,17 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "IT Arena 2023: The Future of AI, Startups, and Tech Cities"
+    excerpt: "Daniel Prieto, former Director of Cybersecurity Strategy at the White House, agrees: \"Generative AI can be used for disinformation and creating deepfakes, which poses a risk.\" IT Arena hosted the battle of the most ambitious startups - Startup Competition."
+    publishedDateTime: 2023-10-23T13:48:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/35374068/it-arena-2023-the-future-of-ai-startups-and-tech-cities"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "QYhJGcRnR2LC5bxlKcVEntyf/j1B0tyGgVL/AkDrSCHQ2tMSyAKQBUc5HavScJlve2l+rmjIHdRjaiXWpH2Sm+j+4YsEoz8De6ESZQX+sdDZsyHOKZItC1Zo2y7vU1uG/iaz3JosLm8Zx61ER64Q3zqA8H0P+KHSv4b04kzw+OVXHisOHuUzUs8OUwOriauII0CeGmXvAOHMCHl9flmCccIIXfrrpsz5xRdLTC5pMzGMGtyEPYTv4ApztAPUsQa7q9mcFn38JLcOwzg/mT85Wxn1R+x0IA3AuiS75BOIV/vlEiDXfjwe8bfaW4K7x/Wx8/vPIvx71pUVb4GNi5vUOsS6zFXFkA9pBBaG4pDK4cU=;byhP7yhYIACnGWtBlaJeSw=="
 ---

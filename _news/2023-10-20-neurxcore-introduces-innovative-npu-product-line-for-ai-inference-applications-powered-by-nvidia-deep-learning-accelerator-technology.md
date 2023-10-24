@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Gcore launches generative AI cluster with Nvidia GPUs"
-    excerpt: "Users will have direct access to the AI clusters and deployments using the managed Kubernetes with Nvidia GPU nodes and will be able to set up workspaces in MLOps and large-scale models. \"We at Gcore are immensely proud to be a part of the transformation ..."
-    publishedDateTime: 2023-10-20T11:29:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/gcore-launches-generative-ai-cluster-with-nvidia-gpus/"
+  - title: "Uncovering the Pioneering Work of India's Foremost Cloud GPU Providers in AI/ML"
+    excerpt: "As organizations and businesses race to adopt Generative AI and Machine Learning technologies, Cloud Computing and, especially, Cloud GPU (Graphics Processing Unit) technology has become the driving force behind creating cutting-edge AI innovation and solutions."
+    publishedDateTime: 2023-10-24T02:32:00Z
+    webUrl: "https://trak.in/stories/uncovering-the-pioneering-work-of-indias-foremost-cloud-gpu-providers-in-ai-ml/"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 69
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/DGX_A100.2e16d0ba.fill-1200x630.png"
-        width: 718
-        height: 377
-        isCached: true
-  - title: "Supermicro Unveils New GPU Systems with NVIDIA GH200 Grace Hopper Architecture for Advanced AI Infrastructure"
-    excerpt: "Supermicro, Inc. is announcing one of the industry's broadest portfolios of new GPU systems based on the NVIDIA"
-    publishedDateTime: 2023-10-19T16:26:00Z
-    webUrl: "https://www.datanami.com/this-just-in/supermicro-unveils-new-gpu-systems-with-nvidia-gh200-grace-hopper-architecture-for-advanced-ai-infrastructure/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 35
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/10/Super_Micro_MGX_1080-300x300.jpg"
-        width: 300
-        height: 300
+      - url: "https://trak.in/stories/wp-content/uploads/2023/10/Untitled-design-1-6-1280x720-1-1024x576-1.png"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "eq7VtSdDcTrJ/n9iXm2aXkmppevbap7Dk1HGh0HsFR73iQnNqqHNmULjYejjf5cb1rzutN3fLwWSTm42wXFnnq1suwxVzrFrdew7ld1wH1L/aBeyFko04rpJaE5s6FXowlMLERoBPlZbwQBt7LK8FIXX9AIND2Rmrv2m10ONdKCn8UzYXflC2Cy3VRp0yQuNzwtpU+hJFKZd2WzuqXc+jheEFwZhd85QTwmRGk+zIQyRjxg9SFvUAJka8VqRChgRpOswNgrCLrFntgLqzoyVLSdZ2y7A0ARxV3QUuThMqkpqP93Ec1wBkH5qjL3c2zy079RPC84VT+ZcQhUo4S5EFd//4hO9sviW9RkARAyTkyNcasDKLl6UA+Ur+wXRBA+LMU3HVsP7d8T1zO6JDdOpa+0O29pCCvoZI1tJpqPKS0Q7oVGDe8sVTmDzvxcWOsEm4sCPo1bENgzIOd4gV6BwZYRGjR3OUq7fMGFEhibegWMem20xWzQsSe30sEDD1cWbLwCph81Z1zbb3xpjz3YHlA==;cBD2alcNYHCotUj3ExrAOg=="

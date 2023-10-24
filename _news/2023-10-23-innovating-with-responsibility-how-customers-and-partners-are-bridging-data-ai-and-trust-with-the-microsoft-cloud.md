@@ -220,20 +220,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Microsoft’s new AI will save you time and energy"
-    excerpt: "Microsoft ’s new AI will make virtual meetings much easier for you. The ChatGPT-style AI assistant, the Microsoft 365 Copilot, will be able to attend and summarize Teams meetings for the user, which will eliminate the “drudgery” and optimize workflow."
-    publishedDateTime: 2023-10-19T16:43:00Z
-    webUrl: "https://rollingout.com/2023/10/19/microsoft-new-ai-save-time-and-energy/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 56
-    images:
-      - url: "https://rollingout.com/wp-content/uploads/2023/10/0056238001570442327-135.jpg"
-        width: 1000
-        height: 650
-        isCached: true
   - title: "Microsoft's Clippy is back, kind of, and now powered by AI"
     excerpt: "A ChatGPT-style AI assistant embedded into Microsoft Office apps will become available to all from 1 November."
     publishedDateTime: 2023-10-21T09:55:00Z

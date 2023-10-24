@@ -77,20 +77,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "The Future of Applied Artificial Intelligence"
-    excerpt: "Software and consulting expert Andreas Erben pulls back the curtain to imagine a world where generative AI technologies reach further than today's capabilities."
-    publishedDateTime: 2023-10-19T16:52:00Z
-    webUrl: "https://redmondmag.com/articles/2023/10/19/the-future-of-applied-artificial-intelligence.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 39
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/futurecity.jfif"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Artificial intelligence predicts the future of artificial intelligence research"
     excerpt: "In the field of artificial intelligence (AI) and machine learning (ML), the number ... We curated a list with the (what we think) 10 best robotics and AI podcasts - check them out! Also check out our Smartworlder section with articles on all kinds of ..."
     publishedDateTime: 2023-10-20T18:54:00Z

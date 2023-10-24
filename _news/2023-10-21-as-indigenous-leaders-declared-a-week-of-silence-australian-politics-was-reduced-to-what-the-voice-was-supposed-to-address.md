@@ -35,20 +35,6 @@ related:
         width: 600
         height: 345
         isCached: true
-  - title: "The Failure of Australia’s Attempt to Create an Indigenous Voice to Parliament"
-    excerpt: "First Nations issues are a prominent part of the country’s public consciousness, so why did a national referendum on giving them constitutional recognition lose?"
-    publishedDateTime: 2023-10-19T16:52:00Z
-    webUrl: "https://www.newyorker.com/news/daily-comment/the-failure-of-australias-attempt-to-create-an-indigenous-voice-to-parliament"
-    type: article
-    provider:
-      name: The New Yorker
-      domain: newyorker.com
-    quality: 35
-    images:
-      - url: "https://media.newyorker.com/photos/652ebe2e23b1c7056b8e0378/16:9/w_1280,c_limit/Zhou-Australia-Referendum.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "After referendum defeat, Indigenous Australian artists reclaim their voice in Adelaide"
     excerpt: "In an incendiary speech, that included claims colonisation had “no ongoing ... the concept of constitutional recognition for Aboriginal people had bipartisan support for decades. As recently as February, the federal opposition leader Peter Dutton ..."
     publishedDateTime: 2023-10-20T11:25:00Z

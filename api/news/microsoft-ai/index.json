@@ -2,6 +2,94 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-24-uncovering-the-pioneering-work-of-indias-foremost-cloud-gpu-providers-in-aiml.md",
+      "title": "Uncovering the Pioneering Work of India's Foremost Cloud GPU Providers in AI/ML",
+      "excerpt": "As organizations and businesses race to adopt Generative AI and Machine Learning technologies, Cloud Computing and, especially, Cloud GPU (Graphics Processing Unit) technology has become the driving force behind creating cutting-edge AI innovation and solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://trak.in/stories/uncovering-the-pioneering-work-of-indias-foremost-cloud-gpu-providers-in-ai-ml/",
+      "originalUrl": "https://trak.in/stories/uncovering-the-pioneering-work-of-indias-foremost-cloud-gpu-providers-in-ai-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://trak.in/stories/wp-content/uploads/2023/10/Untitled-design-1-6-1280x720-1-1024x576-1.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-23T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Trak.in - India Business Blog",
+        "domain": "trak.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-prompts-are-key-in-2023-twenty-five-tips-to-help-you-unlock-the-potential-of-generative-ai.md",
+      "title": "Prompts are key in 2023: Twenty-five tips to help you unlock the potential of generative AI",
+      "excerpt": "The goal is to use generative AI as a tool in your broader decision-making and brainstorming process. Combining AI's suggestions with your expertise and knowledge of your business and market will yield the best results. By integrating these AI insights, we're not merely keeping up with the times; we're",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/prompts-are-key-in-2023-twenty-five-tips-to-help-you-unlock-the-potential-of-generative-ai/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/prompts-are-key-in-2023-twenty-five-tips-to-help-you-unlock-the-potential-of-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-21-amazoncom-recent-earnings-what-investors-should-know.md",
       "title": "Amazon.com Recent Earnings: What Investors Should Know",
       "excerpt": "Get the latest news on Amazon's earnings. Compare the price of Amazon.com's common stock (AMZN) to previous quarters and read analysts' predictions.",
@@ -62,7 +150,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 394,
+      "heat": 384,
       "tags": null,
       "images": [
         {
@@ -1322,92 +1410,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-mphasis-forms-strategic-technology-partnership-with-corestack.md",
-      "title": "Mphasis Forms Strategic Technology Partnership with CoreStack",
-      "excerpt": "Mphasis, (BSE: 526299; NSE: MPHASIS), an Information Technology (IT) solutions provider specializing in cloud and cognitive services, today announces",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231003982144/en/Mphasis-Forms-Strategic-Technology-Partnership-with-CoreStack",
-      "originalUrl": "https://www.businesswire.com/news/home/20231003982144/en/Mphasis-Forms-Strategic-Technology-Partnership-with-CoreStack",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023.md",
-      "title": "Oracle Doubles Down On Generative AI Trend At CloudWorld 2023",
-      "excerpt": "AI Vector Search functionalities include a new vector data type ... though its partnership with Microsoft–arguably the leader in GenAI thus far–currently focuses on Oracle Database@Azure, we can all speculate what that partnership may grow to be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2023/10/03/oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023/",
-      "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/10/03/oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651c19e2eb69afd4ac308520/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2023/10/03/oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/10/03/oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023/amp/",
-      "publishedDateTime": "2023-10-03T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

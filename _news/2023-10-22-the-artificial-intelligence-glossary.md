@@ -35,22 +35,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "How to land a job in artificial intelligence and cash in on the hype"
-    excerpt: "Looking for a job or career in AI? Recruiters say applicants don't always need college degrees, but should be able to demonstrate AI interest."
-    publishedDateTime: 2023-10-19T16:08:00Z
-    webUrl: "https://www.businessinsider.com/how-to-get-ai-job-career-ibm-nvidia-recruiters-advice-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/how-to-get-ai-job-career-ibm-nvidia-recruiters-advice-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-get-ai-job-career-ibm-nvidia-recruiters-advice-2023-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/6528461468f1d46f52b06af3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How To Help Your Customers Trust AI"
     excerpt: "According to a 2023 Dentsu report, over 70% of customers say brands should disclose when they're using AI. Tell customers how you're using AI in your business. Are you training your chatbot to give more empathic answers? Gathering insights to improve your customers' experiences? Be specific about what tasks AI is doing for you."
     publishedDateTime: 2023-10-20T11:30:00Z

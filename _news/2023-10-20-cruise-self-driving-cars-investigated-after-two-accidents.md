@@ -57,20 +57,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "After pedestrian crashes, the feds want to take a closer look at Cruise's self-driving cars"
-    excerpt: "The autonomous vehicles have been operating in Austin since the spring. The GM-backed company says it's cooperating with investigators."
-    publishedDateTime: 2023-10-19T17:05:00Z
-    webUrl: "https://www.kut.org/transportation/2023-10-19/cruise-autonomous-vehicles-hit-pedestrians-federal-investigation"
-    type: article
-    provider:
-      name: KUT
-      domain: kut.org
-    quality: 14
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/fb317df/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0b%2F57%2Fff2cd1d14f509aa0dc8d9347e8f0%2Fcruise-self-driving-mm-081023.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "jp7pUAKHGccuCHWWNuMMW5tEsjxXu59gjR+pcztPAeAzNOvmaWXlOX9zokwzW+ywZu5uCfO09Rjg+NJnDXTXFyssDQNk1dmnuqG4LqYTp7NIQbg2BELm7SXTnWwqN8RhoSnj0vCvp+biyBLCz+RUzKvJ1A2ySn1y4Lia4sj9CeGm7uQ1rJ9aXIVKdgU9iItl+fkdmAr1CwrxkywUwCavFPjSt1RHMj562MoPfLSAfe02IDHOZpDigoA9PrGPYTwxz9CyKqY5J2/zUFd4QcpNrJyMRwl8pcoQCcg+Qj9YrR7agJ61KbeqWBTiD4pC9GV1oRjdop3l2t+Bm0J0yUHYKkHE7E6zq907Wnxj88+rJNqd9npiPoKi4T76ZjodXKix9ysGXw6Pk+ur1SM7vvBJE1hZaZFOd4fiKKfX9uRI0bl6S+HBhdAbAFQmm0Z8w2F7kDRfGdj7/W9CkuGmInfpyjUYIulI36wXtrpzVPh/4IuI1tdB4xkTeti9U5h/krhLe9yRTGY8gtUHK7reySj1fw==;QpzGZseV590HpOKf+YPcIQ=="
 ---

@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-09-02-ai-can-curate-learning-but-ethics-is-catchword.md",
-      "title": "'AI can curate learning, but ethics is catchword'",
-      "excerpt": "Without the ethical mindset, we will go down a dystopian pathway with AI. In a short-term framework, ethics and guidelines are necessary, otherwise before we take over AI it will take over us.\" He also called for responsible harnessing of AI in education ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/ai-can-curate-learning-but-ethics-is-catchword/articleshow/103298213.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/ai-can-curate-learning-but-ethics-is-catchword/articleshow/103298213.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-103298237,width-1070,height-580,imgsize-914122,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/hyderabad/ai-can-curate-learning-but-ethics-is-catchword/amp_articleshow/103298213.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/ai-can-curate-learning-but-ethics-is-catchword/amp_articleshow/103298213.cms",
-      "publishedDateTime": "2023-09-01T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-01-pharma-ceo-dont-halt-ai-research-our-work-is-too-important.md",
       "title": "Pharma CEO: Don't halt AI research, our work is too important",
       "excerpt": "Recursion Pharmaceuticals uses machine learning to develop drugs with Bayer and Genentech. CEO Chris Gibson thinks proceeding with that work outweighs any risks a moratorium might prevent.",
@@ -1431,6 +1388,58 @@
         "name": "Business Wire",
         "domain": "businesswire.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-the-bold-promise-of-mega-personas-as-a-new-shake-up-for-prompt-engineering-generative-ai-techniques.md",
+      "title": "The Bold Promise Of Mega-Personas As A New Shake-Up For Prompt Engineering Generative AI Techniques",
+      "excerpt": "A rising technique in prompt engineering for generative AI consists of invoking mega-personas, a step upward for ordinary multi-personas. Here's how it works and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/08/15/the-bold-promise-of-mega-personas-as-a-new-shake-up-for-prompt-engineering-generative-ai-techniques/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/08/15/the-bold-promise-of-mega-personas-as-a-new-shake-up-for-prompt-engineering-generative-ai-techniques/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64da94ace7c7bdc557635ebc/0x0.jpg?format=jpg&crop=2808,1909,x365,y206,safe&width=1200",
+          "width": 1200,
+          "height": 816,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/08/15/the-bold-promise-of-mega-personas-as-a-new-shake-up-for-prompt-engineering-generative-ai-techniques/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/15/the-bold-promise-of-mega-personas-as-a-new-shake-up-for-prompt-engineering-generative-ai-techniques/amp/",
+      "publishedDateTime": "2023-08-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

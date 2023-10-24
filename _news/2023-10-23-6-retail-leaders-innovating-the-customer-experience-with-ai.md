@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/people-revolutionizing-customer-expe
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10?amp"
 type: article
 quality: 87
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Patients Split on Trust in Artificial Intelligence in Healthcare Experience"
-    excerpt: "A new survey showed that only half of patients trust artificial intelligence (AI) use in the healthcare experience, with many patients admitting they have more to learn that could change their minds."
-    publishedDateTime: 2023-10-19T17:00:00Z
-    webUrl: "https://patientengagementhit.com/news/patients-split-on-trust-in-artificial-intelligence-in-healthcare-experience"
-    type: article
-    provider:
-      name: patientengagementhit
-      domain: patientengagementhit.com
-    quality: 52
-    images:
-      - url: "https://patientengagementhit.com/images/site/article_headers/_normal/Getty_correct_size_streamline.png"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "meZI4ykNeCgycjElf2qWEbV3vvLk6sLv7svf+WaE/zTLWQkzbw3TuqU1pokZX1RMOF0ZcvY/RcnSC2JgugPTNwWs3rCoFvV+EpKS7si+GUo6rVN2xaCNawjuLOAHEWxQ1KVyneGeQkiivS54JOz0l/izt/slExwxSd0f1QhVeA0SDBdZsn4rifarmGHHG5gh2xD6+odUZKj7Y2BSZR9cDpT634US2Ykc/u5Kzp6p7pBdyWoXOZWbRT5EM3vU0f16HcqQwLwqRGlyD5wQRw6B6MOIsKvdoi0wvZLFBQpMM6+Kf1XEVYcBi9zHXJoSwW3mYDQliqPNIksVIbVED1bHqVmAWWrezhd8xZawGSobAcNC9ZHK6nzZsxWz6sJTWd7xu/5f9Wo1huDJPv2NdZSKww8DngTBd3H6EK1hnqYthj9okaaTO9p3DysvcB0mztbTohkJupFNer3Ifwhwn/PtyoXaCXyvbiDDC0ifu8zj7hF3UiZ5D+N8ZTqS/azOPkphRo7KExwKNVdSog689BqQJA==;d5B2B6ok10QEgDDz9yAzhQ=="
 ---

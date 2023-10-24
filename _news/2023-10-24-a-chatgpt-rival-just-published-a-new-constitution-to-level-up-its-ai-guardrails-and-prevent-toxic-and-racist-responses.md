@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How to build a speaking personal AI assistant using Node.js, ChatGPT, ElevenLabs and LangChain"
+    excerpt: "OpenAI, on the other hand, is an artificial intelligence research lab that provides powerful APIs for various AI tasks, including natural language processing and understanding. Watch this video on YouTube. Other articles we have written that you may find ..."
+    publishedDateTime: 2023-10-24T09:05:00Z
+    webUrl: "https://www.geeky-gadgets.com/building-a-personal-ai-assistant-capable-of-speech/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 27
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/How-to-build-a-speaking-AI-assistant-using-Node.jpg"
+        width: 1280
+        height: 717
+        isCached: true
   - title: "Two friends built Dh600 AI start-up using ChatGPT, sell it for Dh550,000"
     excerpt: "Two budding entrepreneurs and friends took help from ChatGPT and built a start-up with just a modest investment of $185 (Dh600), reported CNBC. The two mad.."
     publishedDateTime: 2023-10-23T13:38:00Z

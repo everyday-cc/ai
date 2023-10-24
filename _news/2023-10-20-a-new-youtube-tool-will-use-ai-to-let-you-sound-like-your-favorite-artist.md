@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/a-new-youtube-tool-will-use
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-new-youtube-tool-will-use-ai-to-let-you-sound-like-your-favorite-artist/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "YouTube wants to launch an AI-powered tool that lets you sound like your favorite singer, report says"
-    excerpt: "The launch has been delayed by ongoing talks with record companies about the rights needed to train YouTube's AI software, Bloomberg reported."
-    publishedDateTime: 2023-10-19T16:44:00Z
-    webUrl: "https://www.businessinsider.com/youtube-ai-tool-songs-sound-like-favorite-singer-music-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/youtube-ai-tool-songs-sound-like-favorite-singer-music-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/youtube-ai-tool-songs-sound-like-favorite-singer-music-2023-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/65313f9f96908fd7cdb272c9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Best AI Tools to Launch and Run a YouTube Channel"
     excerpt: "Looking to start a YouTube channel? Check out our list of the best AI tools to help you get started and grow your channel! From video editing to audience research, these tools will help you launch and run a successful YouTube channel."
     publishedDateTime: 2023-10-22T14:31:00Z

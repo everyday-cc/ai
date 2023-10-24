@@ -1,15 +1,15 @@
 ---
 category: news
 title: "UK officials use AI to decide on issues from benefits to marriage licences"
-excerpt: "Marion Oswald, a professor in law at Northumbria University and a former member of the government’s advisory board on data ethics, said: “There is a lack of consistency and transparency in the way that AI is being used in the public sector. A lot of ..."
-publishedDateTime: 2023-10-24T05:35:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences?trk=public_post_comment-text"
-webUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences?trk=public_post_comment-text"
+excerpt: "Exclusive: findings show uncontrolled and potentially discriminatory way technology used in Whitehall and some police forces"
+publishedDateTime: 2023-10-23T20:51:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
+webUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
 type: article
-quality: 57
-heat: 77
+quality: 55
+heat: 75
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -55,6 +54,6 @@ related:
       domain: theguardian.com
     quality: 15
 
-secured: "Zk+D+gnQIav9Cm65N7GfgI4Whkz9BOSbRye0HIg8j9J/DeSPernTsDpU2+6R2tkBSkAoBlRXBoYtHZTxbpt/a6fiO0MXDHm8x83s1OeA0/BybvYgwuWzKZQztf63ICut7FxONV8PCP5x06kYZrhp1BSWH+yXeS1438qEclFS3UjN3WsopZQKsYuUABO5UJz8kfs6WIxSIJOqe462dAPaJdzWJzTRvyoPYlIeyQgPB7KlOfaUwDeoeKTGAxSanoxxkK1LzyAcXzHaGdHpWCBJUWUAL5KXi9BvvEd2DqwigQckL7nm5HsAx3KwgMyBoHiFJDQ9YnsKF8XOGoGqy2la3gxtonlzy6XoJAGMTYyhFRk=;bPBrP8zUIkZvhbIRNc8wfQ=="
+secured: "25Vsdsz4zs8zs6S7ewPqcqk93OXRBaowgWx9oId9EioTeYQlX+76VnMxc5k4OEpB/fRT8FwUnr4DunWSxEtnNZg9GYz8nm+ddde30+5t0RRpzHJpWf4Roxi2asvXi7xNUwP4uO1hZEuzQFPXiR8+Jio6LcZyCjEyWiktRFJLINCMSxuQ5rmyy8NEsV9An70xDYqitj92Bli75NphWlBnGXYbxoi99K/HvT1rGRwTJ7XUEg3GyMlAfEho6LXE7U+8c5vQJTcTgEqQAd/cka/HIsSXN4MAralAnvBCnflu56HjbZr+ecjvVcn9jGVNcBjfu/5pxRGYD4QD7tXrKvU6/I+ShxyZh136/TH1njrnrK4=;eWzwJ5SrLVhPX+82YREXfQ=="
 ---
 

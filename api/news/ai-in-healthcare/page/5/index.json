@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-23-epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs.md",
+      "title": "Epic and Microsoft expand AI partnership to 'address healthcare's most pressing needs'",
+      "excerpt": "And now, they plan to rapidly deploy dozens of AI-powered solutions within Epic's health systems. The companies aim to address critical healthcare needs like \"workforce burnout to staffing shortages.\" New capabilities powered by Microsoft Azure and its AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
+      "originalUrl": "https://www.neowin.net/news/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
+      "publishedDateTime": "2023-08-22T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-insights-into-the-evolving-landscape-of-computer-vision-in-the-healthcare-market-comprehensive-report-researchandmarketscom.md",
       "title": "Insights into the Evolving Landscape of Computer Vision in the Healthcare Market - Comprehensive Report - ResearchAndMarkets.com",
       "excerpt": "The \"Computer Vision in Healthcare - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. The report offers a comprehensive analysis of the global computer vision in healthcare market,",
@@ -1311,49 +1364,6 @@
       "provider": {
         "name": "Honolulu Star-Advertiser",
         "domain": "staradvertiser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-uw-researchers-develop-ai-tool-for-therapy-healthlink.md",
-      "title": "UW researchers develop AI tool for therapy: HealthLink",
-      "excerpt": "SEATTLE — From ChatGPT to AI-generated images, artificial intelligence is in the limelight ... researchers have been developing AI programs as a form of behavioral health therapy, but they are by no means the typical chatbots. One of Althoff's projects ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kgw.com/article/news/health/uw-researchers-ai-therapy-healthlink/281-a9698d4d-40ad-4349-aa3b-60da0bffe961",
-      "originalUrl": "https://www.kgw.com/article/news/health/uw-researchers-ai-therapy-healthlink/281-a9698d4d-40ad-4349-aa3b-60da0bffe961",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kgw.com/assets/KING/images/72818523-77d0-42d8-8788-dc72d25648b3/72818523-77d0-42d8-8788-dc72d25648b3_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kgw.com/amp/article/news/health/uw-researchers-ai-therapy-healthlink/281-a9698d4d-40ad-4349-aa3b-60da0bffe961",
-      "cdnAmpWebUrl": "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/health/uw-researchers-ai-therapy-healthlink/281-a9698d4d-40ad-4349-aa3b-60da0bffe961",
-      "publishedDateTime": "2023-08-04T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KGW8",
-        "domain": "kgw.com",
         "images": null,
         "publishers": null,
         "authors": null

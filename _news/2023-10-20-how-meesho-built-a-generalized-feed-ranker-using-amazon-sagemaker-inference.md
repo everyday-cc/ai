@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automatically redact PII for machine learning using Amazon SageMaker Data Wrangler"
-    excerpt: "Customers increasingly want to use deep learning approaches such as large language models (LLMs) to automate the extraction of data and insights. For many industries, data that is useful for machine learning (ML) may contain personally identifiable information (PII). To ensure customer privacy and maintain"
-    publishedDateTime: 2023-10-19T16:57:49Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/11/sagemaker-pipelines.png"
-        width: 811
-        height: 422
-        isCached: true
   - title: "From text to dream job: Building an NLP-based job recommender at Talent.com with Amazon SageMaker"
     excerpt: "This post is co-authored by Anatoly Khomenko, Machine Learning Engineer, and Abdenour Bezzouh, Chief Technology Officer at Talent.com. Founded in 2011, Talent.com is one of the world’s largest sources of employment. The company combines paid job listings from their clients with public job listings into"
     publishedDateTime: 2023-10-23T21:33:28Z
@@ -56,20 +42,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/16/ml-14927-image001-1260x422.png"
         width: 1260
         height: 422
-        isCached: true
-  - title: "Governing the ML lifecycle at scale, Part 1: A framework for architecting ML workloads using Amazon SageMaker"
-    excerpt: "Customers of every size and industry are innovating on AWS by infusing machine learning (ML) into their products and services. Recent developments in generative AI models have further sped up the need of ML adoption across industries. However, implementing security, data privacy, and governance controls"
-    publishedDateTime: 2023-10-20T17:30:59Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/governing-the-ml-lifecycle-at-scale-part-1-a-framework-for-architecting-ml-workloads-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 87
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/05/image001-1146x630.png"
-        width: 1146
-        height: 630
         isCached: true
 
 secured: "djdkX/CZBR+T8SpFo9ddgtYwBZPFu/EjNC6jdaUjE0ztVInmnXp0gUMQR8gp+50JbqkE7vdk8slgmhHe1E5/K9WZlnkMYUgPmMr2VLxVvDXN9dKAyz4rVghQbIJGy77p2HAiuRK0PdswIEb+SWuihfSLbPRJRVUOR8VuJgIf2CScFNuWL0zClkIfJNyvRYIl0XprfvDVv1EBKsj9nPSrYv9u1tydfp0MUq2/MAn1oMB1arG1sr6ZqhFDy449FnQzakhul5CDbyOOq6b1fdifMjVI1zWP7+6B8zWXGOcZgXYzJOxi2zHpm8hnp7nduislUdeW63EyVhLxBP91i2fjYQigmNIf1k/3dLNZ0YdeUOQ=;hlVmbakyzzvQbksl+THb6Q=="

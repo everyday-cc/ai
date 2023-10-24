@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How to build a speaking personal AI assistant using Node.js, ChatGPT, ElevenLabs and LangChain"
+    excerpt: "OpenAI, on the other hand, is an artificial intelligence research lab that provides powerful APIs for various AI tasks, including natural language processing and understanding. Watch this video on YouTube. Other articles we have written that you may find ..."
+    publishedDateTime: 2023-10-24T09:05:00Z
+    webUrl: "https://www.geeky-gadgets.com/building-a-personal-ai-assistant-capable-of-speech/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 27
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/How-to-build-a-speaking-AI-assistant-using-Node.jpg"
+        width: 1280
+        height: 717
+        isCached: true
   - title: "A ChatGPT rival just published a new constitution to level up its AI guardrails, and prevent toxic and racist responses"
     excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Anthropic AI, an Amazon-backed AI startup and rival to OpenAI, has taken a democratic approach to governing its artificial intelligence. The firm, which is behind the ..."
     publishedDateTime: 2023-10-23T19:33:00Z

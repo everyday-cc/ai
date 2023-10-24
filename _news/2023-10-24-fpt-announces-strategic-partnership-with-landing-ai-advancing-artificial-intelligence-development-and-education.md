@@ -1,31 +1,23 @@
 ---
 category: news
 title: "FPT Announces Strategic Partnership with Landing AI, Advancing Artificial Intelligence Development and Education"
-excerpt: "FPT, global technology firm headquartered in Vietnam, and Landing AI, the US's leading computer vision platform and artificial intelligence (AI) software company, today announced a strategic relations"
+excerpt: "FPT, global technology firm headquartered in Vietnam, and Landing AI, the US's leading computer vision platform and artificial intelligence (AI) softw"
 publishedDateTime: 2023-10-24T07:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/10/b35387738/fpt-announces-strategic-partnership-with-landing-ai-advancing-artificial-intelligence-development-"
-webUrl: "https://www.benzinga.com/pressreleases/23/10/b35387738/fpt-announces-strategic-partnership-with-landing-ai-advancing-artificial-intelligence-development-"
-ampWebUrl: "https://www.benzinga.com/amp/content/35387738"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35387738"
+originalUrl: "https://www.businesswire.com/news/home/20231024035093/en/FPT-Announces-Strategic-Partnership-with-Landing-AI-Advancing-Artificial-Intelligence-Development-and-Education"
+webUrl: "https://www.businesswire.com/news/home/20231024035093/en/FPT-Announces-Strategic-Partnership-with-Landing-AI-Advancing-Artificial-Intelligence-Development-and-Education"
 type: article
-quality: 70
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
+  - AI in Healthcare
   - AI
   - AI in Education
-  - AI in Healthcare
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "The Urgent Need For Marketing AI And Automation Education"
@@ -44,6 +36,15 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "Generative AI and resilient hybrid cloud systems"
+    excerpt: "Generative AI brings in significant productivity gains when augmented with traditional AI and automation for many of the IT Operations tasks.\nThe post Generative AI and resilient hybrid cloud systems appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-24T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/generative-ai-and-resilient-hybrid-cloud-systems/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "How Generative AI Can Improve Communication Within An Organization"
     excerpt: "The natural language interface enables interaction between stakeholders, project owners, QA engineers, designers and developers with the project’s vector knowledge base."
     publishedDateTime: 2023-10-23T11:30:00Z
@@ -75,6 +76,20 @@ related:
       - url: "https://i.insider.com/65314decbe9edfa8eda4cb71?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
+    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
+    publishedDateTime: 2023-10-20T16:48:00Z
+    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 60
+    images:
+      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
   - title: "Role of CX automation and generative AI"
     excerpt: "Customers expect personalised and efficient service, and the emergence of generative AI has led to a significant shift in the way businesses approach customer service and customer delight. Like human interactions,"
@@ -108,36 +123,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Seeing the magic of artificial intelligence applications in ophthalmology"
-    excerpt: "We all know, by now, that Artificial Intelligence (AI ... In fact, we are among the early adopters of AI for health care, and some of the key uses are: Retinal disease diagnosis: AI algorithms can analyse retinal images, such as fundus photographs and ..."
-    publishedDateTime: 2023-10-19T16:55:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/science/seeing-the-magic-of-artificial-intelligence-applications-in-ophthalmology/article67437234.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/science/seeing-the-magic-of-artificial-intelligence-applications-in-ophthalmology/article67437234.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/seeing-the-magic-of-artificial-intelligence-applications-in-ophthalmology/article67437234.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 58
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/fuy8sm/article67439978.ece/alternates/FREE_1200/PTI12_6_2014_000132A.JPEG-01abc.jpg"
-        width: 1200
-        height: 1594
-        isCached: true
-  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
-    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
-    publishedDateTime: 2023-10-20T16:48:00Z
-    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 58
-    images:
-      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "AI And The Cognitive Revolution"
     excerpt: "Artificial intelligence may be the first innovation to disrupt our way of life on the same scale as the Industrial Revolution."
     publishedDateTime: 2023-10-20T12:30:00Z
@@ -169,20 +154,6 @@ related:
       - url: "https://cdn.cityandstateny.com/media/img/cd/2023/10/20/GettyImages_967906100/open-graph.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "The Federal Trade Commission and Artificial Intelligence"
-    excerpt: "Artificial intelligence (AI) burst into the public consciousness less than one year ago, with OpenAI’s highly successful public release of ChatGPT. Since then, AI-enabled products and services have proliferated throughout the economy. AI-enabled tools ..."
-    publishedDateTime: 2023-10-19T15:56:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/the-federal-trade-commission-and-7112281/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 37
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15973_4423.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Using AI to Improve Nutrition for Cancer Patients"
     excerpt: "Susan Bratton leverages AI technology to build a better-eating app to support cancer patients going through treatment"
@@ -282,6 +253,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "07/FPhXcQIzUzOQaleHxzDFkttc7L6PsfSbdRJEcM8fzQagts77yc+Ag3Eq6h5RSzbAFGKIvxlRTCKdIvsEv3/Wobx62MnNBNslKFK8xgwJGRp916olXz+rZzxsYQ+x+ehusAcZaxxco6SWXO/tFWvFypHsuwl/9JKqsei7G1LyI3OcnIObXdILboviOVd5K7dY5I3cir9Kw0aRUiTV9ACJM72CEwepPrk4Mi5IzwPtehPISo3r/dl767d7dYkZ9BIA+UNxNKgK+Q8r63xuzYBy5XcBzrWTO66/SZPFRhhbno/QkTDsRageTsq9wmXzJv1EMlZOOXQMTjkJmbGC/3/vda6x3LHtNBxz5wGyDD44=;JSmbEdoKz9MYnxD5UrQpAg=="
+secured: "yYYVHrTkSfW228MQ9ZBH1pw60JvwSD05/zMxF6iacqmql6rM/dcepq3KfzZdRjz3TMJfIHVss4W0f105TwjIbRoxe+uILDQXF6AscR5qbmUeZUSDDHNCZWinzxQ/72vYRlFxMqrzHqoeDXjUfpG6dWWTbLYi4sHYLM8Sz9GAuL5CW1PywNF+JAz5M+5g++beA8s7QPMCyc919gRBox06BsZ+vUHOVRwZ1Z+fUj79Y9Jq+Mpb7S3aCuF5gx/XtB6xDblqfOc3KxrM9dqnzmk0AMluYYQIQKe8zoMX6KTQs3zJMtSDksEPuoMcyaTls+4NHY47ZEPPG9Tki/UKjujOMJN/Otl57SF7/NZ6P17sG8U2IQ0jbsMqJ27EvHH+uUCrtKb0IIHfKlGC8Z5bendAWaJfKgPJhYTqeAHiwHCbUoB4IhXoMRAu2KPsdlvCDxmI27kUJwx3nwLXMWQZIxQAFNNoy94Qm3ZSUQljRqqZmb21ur5+A10USnkL12pXCM3g2X3WzPsytOxeNnKRYGwtng==;jFHgxWQprIXJVBfIDLEF6A=="
 ---
 

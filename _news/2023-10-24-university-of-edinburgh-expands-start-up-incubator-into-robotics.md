@@ -39,9 +39,9 @@ related:
       domain: dailybusinessgroup.co.uk
     quality: 69
   - title: "University of Edinburgh AI start-up incubator expanded"
-    excerpt: "A Scottish university has expanded its incubator programme for robotics and artificial intelligence start-ups. The expansion of the University of Edinburgh Venture Builder Incubator (VBI) programme means entrepreneurs from across Scotland working in ..."
-    publishedDateTime: 2023-10-24T05:09:00Z
-    webUrl: "https://www.heraldscotland.com/news/23874410.university-edinburgh-ai-start-up-incubator-expanded/?ref=rss"
+    excerpt: "The expansion of the University of Edinburgh Venture Builder Incubator (VBI) programme means entrepreneurs from across Scotland working in robotics and artificial intelligence can turn their ideas into commercial reality."
+    publishedDateTime: 2023-10-24T03:46:00Z
+    webUrl: "https://www.heraldscotland.com/news/23874410.university-edinburgh-ai-start-up-incubator-expanded/"
     type: article
     provider:
       name: heraldscotland

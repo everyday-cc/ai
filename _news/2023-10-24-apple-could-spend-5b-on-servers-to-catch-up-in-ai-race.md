@@ -51,6 +51,20 @@ related:
         width: 1242
         height: 726
         isCached: true
+  - title: "Apple could spend $4.75 billion on Artificial Intelligence in 2024"
+    excerpt: "Apple is looking to catch up with the likes of Microsoft and Google on Artificial Intelligence and the company is apparently planning to spend a"
+    publishedDateTime: 2023-10-24T08:26:00Z
+    webUrl: "https://www.geeky-gadgets.com/apple-could-spend-4-75-billion-on-artificial-intelligence-in-2024-24-10-2023/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Apple-Store.jpg"
+        width: 2180
+        height: 1453
+        isCached: true
   - title: "Apple expected to spend $4.75 billion on generative AI in 2024 alone"
     excerpt: "After a report said Apple was planning to announce generative AI features next year with iOS 18, analyst Ming-Chi Kuo corroborated that."
     publishedDateTime: 2023-10-23T18:33:00Z
