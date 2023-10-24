@@ -25,100 +25,88 @@ images:
     isCached: true
 
 related:
-  - title: "How two friends used ChatGPT to launch an AI startup worth $150,000"
-    excerpt: "In just four days, using only ChatGPT and a modest US$185 (about BDT 20k) investment, Sal Aiello and Monica Powers transformed a side hustle into a highly profitable AI startup. Fast forward to last month,"
-    publishedDateTime: 2023-10-21T09:45:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp"
+  - title: "AI Chatbots Won’t Tell You Who To Vote For, But They Will Create Targeted Political Ads"
+    excerpt: "Chatbots like Bard, Claude, Pi and ChatGPT can spin up a range of campaign material from text messages to TikTok videos, but AI leaders have expressed concern over"
+    publishedDateTime: 2023-10-24T10:31:00Z
+    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/10/23/ai-chatbots-wont-tell-you-who-to-vote-for-but-they-will-create-targeted-political-ads/"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 59
     images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/10/21/dimeadozen_founders.png?itok=yZv34IGL"
-        width: 750
-        height: 393
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6536e716415a919fc9b91512/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Duo Builds AI Startup For Rs 15,000 Using ChatGPT, Sell It For Rs 1.2 Crore"
-    excerpt: "The startup was then bought for $150,000 (over ₹1.2 Crore ... covering areas like education, AI, and finance. She played a pivotal role as the first designer at ClassDojo, where she contributed to its significant growth from 5,000 to 50 million users."
-    publishedDateTime: 2023-10-23T07:07:00Z
-    webUrl: "https://www.ndtv.com/world-news/dimeadozen-salvatore-aiello-and-monica-powers-builds-ai-startup-for-rs-15-000-using-chatgpt-sell-it-for-rs-1-2-crore-4506128"
-    ampWebUrl: "https://www.ndtv.com/world-news/dimeadozen-salvatore-aiello-and-monica-powers-builds-ai-startup-for-rs-15-000-using-chatgpt-sell-it-for-rs-1-2-crore-4506128/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/dimeadozen-salvatore-aiello-and-monica-powers-builds-ai-startup-for-rs-15-000-using-chatgpt-sell-it-for-rs-1-2-crore-4506128/amp/1"
+  - title: "OCBC to roll out generative AI chatbot for its employees globally"
+    excerpt: "Called OCBC ChatGPT, the chatbot is powered by ChatGPT’s large language models. Users can type a query in natural language into OCBC ChatGPT via Microsoft Teams, and the chatbot will produce answers based on accessible text-based information on the web."
+    publishedDateTime: 2023-10-24T06:32:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 55
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
+  - title: "Inside the Underground World of Black Market AI Chatbots"
+    excerpt: "These models are powerful, hard to police, and growing in number. They also mark the emergence of a new battleground in the fight against cybercrime—one that extends even beyond text generators like ChatGPT, and bleeds into the realm of images, audio, and video as well."
+    publishedDateTime: 2023-10-22T02:48:00Z
+    webUrl: "https://www.thedailybeast.com/inside-the-underground-world-of-black-market-ai-chatbots"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
     images:
-      - url: "https://c.ndtvimg.com/2023-10/ofuvd51_monica-powers-salvatore-aiello_625x300_23_October_23.jpg"
-        width: 1200
-        height: 738
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1697736987/231011-dark-web-ai-chatbot-hero_qofzpt"
+        width: 1480
+        height: 832
         isCached: true
-  - title: "They Built AI Startup For Rs 15,000 Using ChatGPT, Sold It For Rs 1.2 Crore"
-    excerpt: "The cost of starting a business can vary greatly, and many successful ventures have begun with minimal initial capital. And, two friends, Sal Aiello and Monica Powers, have done something similar."
-    publishedDateTime: 2023-10-23T07:10:00Z
-    webUrl: "https://special.ndtv.com/making-the-invisible-visible-65/news-detail/dimeadozen-salvatore-aiello-and-monica-powers-builds-ai-startup-for-rs-15-000-using-chatgpt-sell-it-for-rs-1-2-crore-4506128/3"
-    ampWebUrl: "https://www.ndtv.com/world-news/dimeadozen-salvatore-aiello-and-monica-powers-builds-ai-startup-for-rs-15-000-using-chatgpt-sell-it-for-rs-1-2-crore-4506128/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/dimeadozen-salvatore-aiello-and-monica-powers-builds-ai-startup-for-rs-15-000-using-chatgpt-sell-it-for-rs-1-2-crore-4506128/amp/1"
+  - title: "We Used the Meta AI Chatbot to Plan a Trip. Here’s What It Got Wrong."
+    excerpt: "Meta released an AI chatbot for WhatsApp, Instagram, and Facebook Messenger. We tested it for travel planning."
+    publishedDateTime: 2023-10-23T21:33:00Z
+    webUrl: "https://skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/"
+    ampWebUrl: "https://skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/amp/"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 55
-    images:
-      - url: "https://c.ndtvimg.com/2023-10/ofuvd51_monica-powers-salvatore-aiello_625x300_23_October_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "Two Friends Built Dh600 AI Start-Up Using Chatgpt, Sell It For Dh550,000"
-    excerpt: "Two budding entrepreneurs and friends took help from ChatGPT and built a start-up with just a modest investment of $185 (Dh600), reported CNBC. The"
-    publishedDateTime: 2023-10-23T20:32:00Z
-    webUrl: "https://menafn.com/1107289700/Two-Friends-Built-Dh600-AI-Start-Up-Using-Chatgpt-Sell-It-For-Dh550000"
+      name: Skift
+      domain: skift.com
+    quality: 37
+  - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
+    excerpt: "\"There are very real-world consequences to getting this wrong that can impact health disparities,\" said Stanford University's Dr. Roxana Daneshjou, an assistant professor of biomedical data science and dermatology and faculty adviser for the paper."
+    publishedDateTime: 2023-10-20T19:39:00Z
+    webUrl: "https://sentinelcolorado.com/uncategorized/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/23/KT_fa60eimage_story.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How to build a speaking personal AI assistant using Node.js, ChatGPT, ElevenLabs and LangChain"
-    excerpt: "OpenAI, on the other hand, is an artificial intelligence research lab that provides powerful APIs for various AI tasks, including natural language processing and understanding. Watch this video on YouTube. Other articles we have written that you may find ..."
-    publishedDateTime: 2023-10-24T09:05:00Z
-    webUrl: "https://www.geeky-gadgets.com/building-a-personal-ai-assistant-capable-of-speech/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
     quality: 27
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/How-to-build-a-speaking-AI-assistant-using-Node.jpg"
-        width: 1280
-        height: 717
+      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/10/AP23290859783861.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "A ChatGPT rival just published a new constitution to level up its AI guardrails, and prevent toxic and racist responses"
-    excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Anthropic AI, an Amazon-backed AI startup and rival to OpenAI, has taken a democratic approach to governing its artificial intelligence. The firm, which is behind the ..."
-    publishedDateTime: 2023-10-23T19:33:00Z
-    webUrl: "https://www.businessinsider.com/anthropic-new-crowd-sourced-ai-constitution-accuracy-safety-toxic-racist-2023-10"
+  - title: "As chatbots advance, ‘AI agents’ threaten to oust office workers"
+    excerpt: "Researchers are transforming chatbots into online agents that play games, query websites, schedule meetings, build bar charts and do more."
+    publishedDateTime: 2023-10-23T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/as-chatbots-advance-ai-agents-threaten-to-oust-office-workers/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
-  - title: "Two friends built Dh600 AI start-up using ChatGPT, sell it for Dh550,000"
-    excerpt: "Two budding entrepreneurs and friends took help from ChatGPT and built a start-up with just a modest investment of $185 (Dh600), reported CNBC. The two mad.."
-    publishedDateTime: 2023-10-23T13:38:00Z
-    webUrl: "https://www.khaleejtimes.com/business/tech/two-friends-built-dh600-ai-start-up-using-chatgpt-sell-it-for-dh550000"
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
+  - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
+    excerpt: "Stanford School of Medicine researchers have discovered that popular chatbots are responding to questions using race-based, debunked medical ideas."
+    publishedDateTime: 2023-10-20T16:11:00Z
+    webUrl: "https://thegrio.com/2023/10/20/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism/"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 16
+      name: The Grio
+      domain: thegrio.com
+    quality: 7
 
 secured: "OlDBaGM4MoRB2QgDjD29j0vkMvl1BDogA0YqfScH9RkvYyyYhdBqrGn2pPJO/ZJku6jKA2hIZ7Ix8kd5mumGDB4VtfXVRFCf6E4NiXlDiGu2JNFWp6pCA6nSX8uMfyOiUpsKwwC91c1BlzpoSE/eGZe8G6l4L5BVlpLHgu5WGSsOo0JhAMxKARKuxnTBlQpygoGsgGal1GWxJY4f7szbttH105M8lNUlIwYV3eySKrHOc4e1sxO4YuMX5ZYJG6ZzfxxvXo9ESq7sjolO16OWUZfEudbvkrUzZjepzK4+ombidZwf5BqW2Shodiq7SS6JbXufysW6ZimfJufCZdFbk6mq6A4LwcrnyWbCbb4EtZc=;x796iQ3qOPgLs+5rJgoDSA=="
 ---

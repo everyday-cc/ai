@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/amp/"
 type: article
 quality: 104
-heat: 384
+heat: 364
 published: true
 
 provider:
@@ -135,15 +135,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Analysts Are Bullish on Microsoft's Azure and AI Growth Ahead Of Q1 Earnings - Here's Why"
-    excerpt: "He said that Y/Y growth of ~26% for Azure seems realistic, given the uptick in demand for AI services, including access to the enterprise API for OpenAI. While the Street is hoping for Azure growth to level off in 2Q (and potentially accelerate), Materne ..."
-    publishedDateTime: 2023-10-19T18:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/analysts-are-bullish-on-microsoft-s-azure-and-ai-growth-ahead-of-q1-earnings---here-s-why-1032722146"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
   - title: "Microsoft’s Promising Outlook: AI Growth Potential and Azure’s Stability Justify Premium Valuation"
     excerpt: "Analyst Keith Bachman of BMO Capital maintained a Buy rating on Microsoft (MSFT – Research Report), with a price target of $400.00. Keith"
     publishedDateTime: 2023-10-20T11:15:00Z
@@ -320,9 +311,9 @@ related:
       domain: cuinsight.com
     quality: 52
   - title: "Microsoft Q1 earnings preview: Wall Street looks for signs of AI-powered growth"
-    excerpt: "Microsoft will report its Q1 earnings after the bell on Thursday, as investors look for signs that its AI investments are paying off."
+    excerpt: "Microsoft will report its Q1 earnings after the bell on Tuesday, as investors look for signs that its AI investments are paying off."
     publishedDateTime: 2023-10-23T17:25:00Z
-    webUrl: "https://www.aol.com/microsoft-q1-earnings-preview-wall-142544621.html"
+    webUrl: "https://www.aol.com/finance/microsoft-q1-earnings-preview-wall-142544621.html"
     type: article
     provider:
       name: AOL
@@ -351,15 +342,6 @@ related:
       name: On MSFT
       domain: onmsft.com
     quality: 45
-  - title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
-    excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
-    publishedDateTime: 2023-10-19T19:18:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20231019/4130700.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 20
   - title: "Why boomers are catching up with AI faster than Gen Zers, according to Microsoft’s modern work lead"
     excerpt: "stop thinking of AI as a search engine–and start thinking of it as your newest direct report. For the most tenured leaders, with years of people management experience under their belts, this shift has elements that are almost second nature. But for early ..."
     publishedDateTime: 2023-10-20T13:14:00Z

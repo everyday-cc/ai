@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Music publishers sue Amazon-backed AI company over song lyrics"
-    excerpt: "The music publishers’ lawsuit appears to be the first copyright case over AI’s use of song lyrics"
-    publishedDateTime: 2023-10-19T17:12:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/19/music-lawsuit-ai-song-lyrics-anthropic"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
   - title: "Anthropic tests AI rules for the people, by the people"
     excerpt: "Amazon-backed Anthropic, the startup behind the Claude generative AI chatbot, is promoting a new form of responsible AI: A constitution for its large language models based on public input. Why it matters: Who controls and influences AI is controversial given its potential to amplify existing biases and inequalities and to create new ones."
     publishedDateTime: 2023-10-23T09:30:00Z
@@ -72,15 +63,6 @@ related:
       name: Axios
       domain: axios.com
     quality: 17
-  - title: "Universal Music Group sues AI startup Anthropic over song lyric copyright infringement"
-    excerpt: "Universal Music Group filed a copyright infringement lawsuit against artificial intelligence startup Anthropic on Wednesday citing widespread scraping of its client’s song lyrics being used to train its ChatGPT rival chatbot Claude."
-    publishedDateTime: 2023-10-19T18:15:00Z
-    webUrl: "https://siliconangle.com/2023/10/19/universal-music-group-sues-ai-startup-anthropic-song-lyric-copyright-infringement/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 9
 
 secured: "1XJ8ib4RlK/CoM+h9uH8mdfFD3g/l1v/JgX0J+2iiVrRxBgy7yXlsX3XfPhJM0w28WiwnrcKb0SQFYIKJNpvV1Osq+oKYOkwkXANdvpYB983vEo82/oeMX0HNLVfsFAyIB+jMbPZJ/Egkwr+xmBf8+yA9CyfrwUCdTesoF9dbQIR/H6EPQaZVCzsF7pFzYF2ZdtDSwrprFFKRl9bULLmEBCixressWU7q6PGv7eZr1vvMSYjgthG4THM8nuFzKXAmfi2Yf+L1uTklUKR4nLxMgggfdUBo+5TWLzS2EYTmqjvPE7kvYJLNKQpAmP3w9u9UCWrOyJAuVw2KztQDmJydYZLh8hzYZ7TtDoe8LmZPw8=;MuhSUAy8XmX/+3tank0Fiw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-rekognito
 webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-rekogniton-custom-moderation-enhance-accuracy-of-pre-trained-rekognition-moderation-models-with-your-data/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 103
+published: true
 
 provider:
   name: AWS
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Defect detection in high-resolution imagery using two-stage Amazon Rekognition Custom Labels models"
-    excerpt: "High-resolution imagery is very prevalent in today’s world, from satellite imagery to drones and DLSR cameras. From this imagery, we can capture damage due to natural disasters, anomalies in manufacturing equipment, or very small defects such as defects on printed circuit boards (PCBs) or semiconductors."
-    publishedDateTime: 2023-10-19T18:00:36Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/defect-detection-in-high-resolution-imagery-using-two-stage-amazon-rekognition-custom-labels-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 92
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/19/high-resolution-two-stage-1260x630.jpg"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "Israel is using Amazon Rekognition to locate missing and dead"
     excerpt: "Amazon Rekognition is being used in Israel to locate missing and dead after a deadly attack by Palestinian Hamas two weeks ago."
     publishedDateTime: 2023-10-23T14:31:00Z
@@ -67,20 +53,6 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 30
-  - title: "Remarkable recognition a massive step towards reconciliation"
-    excerpt: "At the end of his first speech as Manitoba’s premier, Wab Kinew announced that he was appointing himself as minister for Indigenous reconciliation. “There is a structural change we are bringing into"
-    publishedDateTime: 2023-10-20T00:51:00Z
-    webUrl: "https://www.winnipegfreepress.com/local/2023/10/19/remarkable-recognition-a-massive-step-towards-reconciliation"
-    type: article
-    provider:
-      name: Winnipeg Free Press
-      domain: winnipegfreepress.com
-    quality: 24
-    images:
-      - url: "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2023/10/1781333_web1_231019-cabinet-meeting-0230.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "sVz31NFXW46XYU6nwlLTMJsbBbXuDX8z8Pr2EUxZvZHVjy5FbAo7/YJRs0JiVhjyRJuhHf74IBiZ3PCQFRz7eJq1SLA4cT3DAlDriNfxJsW3GIJkFKCwCsEkYzkP6VGpI3WqKsV9+FQ+B/LEppurARy/TgYLIefcogOPZlPah7Pj6Db46FqPAJnY6mbxzVb9PqrwuLMQVTRonii8ZfooiccwoGeArJuEdNTNkT8xirCYtigAWdO+7N6o+XFIIDtb4u7foF+zZxp6/Z1XGa3A6Y7G/bNnwspvNcApdsBIEkcRQ4LUXXBPkUZEvA6lM8YpI7fxYfWFKuV1NEa78dnP4A/sgSt4WVqi6pts1hr42j4=;anzTKSSWqYpDLf9H0oVVvg=="
 ---

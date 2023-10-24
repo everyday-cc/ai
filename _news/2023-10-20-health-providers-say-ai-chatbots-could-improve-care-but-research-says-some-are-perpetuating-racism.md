@@ -7,7 +7,7 @@ originalUrl: "https://kdhnews.com/living/health/health-providers-say-ai-chatbots
 webUrl: "https://kdhnews.com/living/health/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some-are-perpetuating-racism/article_a415445f-ecb8-5c3e-a141-c6c3ff69ba34.html"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
-    excerpt: "\"There are very real-world consequences to getting this wrong that can impact health disparities,\" said Stanford University's Dr. Roxana Daneshjou, an assistant professor of biomedical data science and dermatology and faculty adviser for the paper."
-    publishedDateTime: 2023-10-20T19:39:00Z
-    webUrl: "https://sentinelcolorado.com/uncategorized/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism/"
-    type: article
-    provider:
-      name: Sentinel Colorado
-      domain: sentinelcolorado.com
-    quality: 27
-    images:
-      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/10/AP23290859783861.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
     excerpt: "Stanford researchers warn chatbots used in health-care settings could spread misconceptions and falsehoods about Black patients SAN FRANCISCO (AP) — […] The post Health providers say AI chatbots could improve care."
     publishedDateTime: 2023-10-22T16:55:00Z
@@ -62,15 +48,6 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 12
-  - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
-    excerpt: "Stanford School of Medicine researchers have discovered that popular chatbots are responding to questions using race-based, debunked medical ideas."
-    publishedDateTime: 2023-10-20T16:11:00Z
-    webUrl: "https://thegrio.com/2023/10/20/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 7
   - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
     excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records."
     publishedDateTime: 2023-10-21T14:54:00Z

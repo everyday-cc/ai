@@ -25,57 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Defect detection in high-resolution imagery using two-stage Amazon Rekognition Custom Labels models"
-    excerpt: "High-resolution imagery is very prevalent in today’s world, from satellite imagery to drones and DLSR cameras. From this imagery, we can capture damage due to natural disasters, anomalies in manufacturing equipment, or very small defects such as defects on printed circuit boards (PCBs) or semiconductors."
-    publishedDateTime: 2023-10-19T18:00:36Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/defect-detection-in-high-resolution-imagery-using-two-stage-amazon-rekognition-custom-labels-models/"
+  - title: "How To Nourish A Culture Of Recognition"
+    excerpt: "Research shows that recognition is the eighth-strongest driver of employee engagement. How can a company foster recognition without being disingenuous or forced?"
+    publishedDateTime: 2023-10-24T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/kevinkruse/2023/10/24/how-to-nourish-a-culture-of-recognition/"
+    ampWebUrl: "https://www.forbes.com/sites/kevinkruse/2023/10/24/how-to-nourish-a-culture-of-recognition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kevinkruse/2023/10/24/how-to-nourish-a-culture-of-recognition/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 92
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/19/high-resolution-two-stage-1260x630.jpg"
-        width: 1260
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652eb4d5f249ec6eb64874bd/0x0.jpg?format=jpg&crop=505,378,x40,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1202
+        height: 900
         isCached: true
-  - title: "Announcing Rekogniton Custom Moderation: Enhance accuracy of pre-trained Rekognition moderation models with your data"
-    excerpt: "Companies increasingly rely on user-generated images and videos for engagement. From ecommerce platforms encouraging customers to share product images to social media companies promoting user-generated videos and images, using user content for engagement is a powerful strategy. However, it can be challenging"
-    publishedDateTime: 2023-10-19T22:47:25Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-rekogniton-custom-moderation-enhance-accuracy-of-pre-trained-rekognition-moderation-models-with-your-data/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 83
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/18/ml-15641-6-1.png"
-        width: 977
-        height: 535
-        isCached: true
-  - title: "Israel is using Amazon Rekognition to locate missing and dead"
-    excerpt: "Amazon Rekognition is being used in Israel to locate missing and dead after a deadly attack by Palestinian Hamas two weeks ago."
-    publishedDateTime: 2023-10-23T14:31:00Z
-    webUrl: "https://www.biometricupdate.com/202310/israel-is-using-amazon-rekognition-to-locate-missing-and-dead"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 56
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
-        isCached: true
-  - title: "Safety, privacy professionals caution against facial recognition in US schools"
-    excerpt: "As FRT deployments and restrictions proliferate among American schools, observers are calling for sober evaluation of claims made by biometrics vendors."
-    publishedDateTime: 2023-10-20T17:10:00Z
-    webUrl: "https://www.biometricupdate.com/202310/safety-privacy-professionals-caution-against-facial-recognition-in-us-schools"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
 
 secured: "Ja9PlZeJu9JzQBhOEdJUsFBLNiwcs7PNbefDv0TRgPh1kctneZ2BAvIGyk0LfEOgBN7BOFJ65VcsvNr96EVM1YS7UjdD0cvaDBEEqbwoDSFGOQ0Nx4lD2ZRVLTQm76E2xJOiPhEYVIQynxT1xLxBNgHn+9gViG9PFVVSEyrBzLruBEMrk3p4XfzTO4lC+YJbHVq63//reW00I0TI18MQSrhM2ivEISP7BRzRj6dRdnvnccBrvnNTmqYRcBLeAYuPbjL0Yo6SpQy2SBHaLZ4pCkBVRLxDAYcvXdgYGOh8aGJ5gslVmD6TXB8Zao2tAVPDPmW0iWOzpl/N+jg4KK6IBfKx8pjUPu0F6LKtJRGB8TQ=;cT9WFl8wDQ00xRAaI17NOQ=="
 ---

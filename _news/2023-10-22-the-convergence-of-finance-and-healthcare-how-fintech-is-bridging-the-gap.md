@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/industry-the-convergence-o
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZDk3MjA3NGQtMWE2Yy00/11/1345011011.jpeg?f=3%3A2"
         width: 859
         height: 573
+        isCached: true
+  - title: "Climate fintech is exciting investors right now. Here's why it's primed to be the next red-hot sector."
+    excerpt: "Fintech startups that speed up decarbonization, manage climate risks, and facilitate renewable energy purchases are gaining traction, according to VCs."
+    publishedDateTime: 2023-10-24T10:01:00Z
+    webUrl: "https://www.businessinsider.com/climate-fintech-red-hot-sector-is-capturing-investor-attention-right-now-2023-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/6531215ebe9edfa8eda489e6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Hong Kong Fintech Week 2023 “Fintech Redefined.”"
     excerpt: "In addition, the cross-boundary Greater Bay Area Day will be resumed on October 31, presenting ample opportunities and synergies between Hong Kong and Shenzhen. A full day forum will be organised in Shenzhen, followed by a series of concurrent company tours to Mainland tech giants."

@@ -85,6 +85,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 33
+  - title: "How AI is reshaping the financial technology landscape"
+    excerpt: "Indeed, artificial intelligence (AI) and machine learning (ML) are increasingly collaborating in solutions, especially in the realm of fintech - and, when they do, the benefits seem unstoppable as this guide explains. AI and SMEs unveiled Years ago ..."
+    publishedDateTime: 2023-10-24T11:06:00Z
+    webUrl: "https://www.finextra.com/blogposting/25085/how-ai-is-reshaping-the-financial-technology-landscape"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
   - title: "Navigating the Future of Fintech: 5 Platforms Shaping Private Market Investment Strategies"
     excerpt: "The private market investment landscape is rapidly evolving, with new platforms and technologies driving change. These platforms play a crucial role in helping businesses and investors make informed decisions."
     publishedDateTime: 2023-10-23T10:42:00Z

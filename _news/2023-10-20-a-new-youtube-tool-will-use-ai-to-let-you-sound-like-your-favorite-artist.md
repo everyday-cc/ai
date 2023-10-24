@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/a-new-youtube-tool-will-use
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-new-youtube-tool-will-use-ai-to-let-you-sound-like-your-favorite-artist/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘You want your senators to read books’: Todd Young talks politics and AI"
+    excerpt: "Existing laws and regulations will help us address most of the risks,” says the Indiana Republican, who’s carving his own path on the Hill."
+    publishedDateTime: 2023-10-24T10:15:00Z
+    webUrl: "https://rollcall.com/2023/10/24/you-want-your-senators-to-read-books-todd-young-talks-politics-and-ai/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 16
 
 secured: "ZL1COxQBygw82a5z+XVytVsOTEiJdAtrKR7Tz5UQR6zdgfeJufwsiwttlxowT/6ojKxXtFi1jEA+e2A/t9bXJqZYEjpJkYaT2vWjgD0iCayfRe+UFH0/t0FagF/89zTM4DJSWn61GdmDxGfUkrydZwHorYbpsue08/PLdc6gYCYgH4WYpAH8Hz1Gn+Saff39DJVcxMvzhRrG1W/u6INjBKRNywsze/obzNlS4seqWUYnZzM5IYw6E/VnBk6eKqaJBSQ9r21NK541GatmsdN7jYhi4/7Jt5HdeVozMW2m0vFO7v1DC+pMcSCu43s8rxPJ+8fGvXjwmqzbuVA9EsmYZzcKYWE2jSXvzmhrPDvn+Ug4mlSeKXLFP5t0VD8CCQ4/cpU1NbFdHOQadx/7DbYl2od8AWt3OFrg9sexs6jOcULZdGxvdTkY66a9QYTZszm+/AwOsnVUgydI19xAqnSB0g9Qp6bYgmOUGbMnILIuIHhUrvV3mE+KX/gKWVnsj9duKZT9SrIiVdRF3kHtGa3joQ==;s6C/kU6PzS7sYiFZj4+U9A=="
 ---

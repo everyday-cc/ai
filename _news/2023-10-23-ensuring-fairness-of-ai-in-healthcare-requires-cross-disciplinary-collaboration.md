@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/10/231020105613.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/10/231020105613.htm"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Healthcare AI regulation is coming into focus"
+    excerpt: "Stakeholders are calling on the FDA to provide more concrete guidance in how clinical AI applications should be implemented."
+    publishedDateTime: 2023-10-24T09:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/ai-healthcare-federal-regulation-fda-onc"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
 
 secured: "JciPqfQzg6I/8WCXBuOo7eoEBrzTwNCpGq2gwcKFDCr3vx8MqwnTbcJIH2wjBr3BNE4cpw0HA5EAaMZhcsPVxYxJ2h/nHDsmS9E9nti2Q+RAXF8LZNogNTd0Cyk+ThYj7e5HXBjis11DNWVjguKlvN5a5RBDimP99njFrkzJXvPDcnpj77ZQCzMiZcAn6fYttwqBXzricf+a3I8BcTEvTKi7XXtPrQwDGOSDjNJIq9Vbl5xbHMexbF3qPDE7Lqdk7OdrbeX8bms+iuZzDIG6R8LM2W04/E0y6oCmUsLvwPC4Lc0trYXZxPD1UQ7cxxKhXsKm/QR/hJVIlLtKJgOesCZc6aimC0bXOMWudbL8VnM=;OTNSbeSiFmOvIte3vaJiag=="
 ---

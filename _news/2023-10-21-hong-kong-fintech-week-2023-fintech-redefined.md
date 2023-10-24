@@ -87,6 +87,20 @@ related:
         width: 859
         height: 573
         isCached: true
+  - title: "Climate fintech is exciting investors right now. Here's why it's primed to be the next red-hot sector."
+    excerpt: "Fintech startups that speed up decarbonization, manage climate risks, and facilitate renewable energy purchases are gaining traction, according to VCs."
+    publishedDateTime: 2023-10-24T10:01:00Z
+    webUrl: "https://www.businessinsider.com/climate-fintech-red-hot-sector-is-capturing-investor-attention-right-now-2023-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/6531215ebe9edfa8eda489e6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "US payments infrastructure fintech Finzly seals $10m funding"
     excerpt: "US payments infrastructure provider Finzly has sealed US$10m's worth of funding, which the fintech will put towards continued expansion"
     publishedDateTime: 2023-10-21T12:42:00Z

@@ -59,6 +59,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Generative AI Can Write Phishing Emails, But Humans Are Better At It, IBM X-Force Finds"
+    excerpt: "Hacker Stephanie \"Snow\" Carruthers and her team found phishing emails written by security researchers saw a 3% better click rate than phishing emails written by ChatGPT."
+    publishedDateTime: 2023-10-24T11:00:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-phishing-emails-impact/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 61
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/01/tr12423-malware-seo-poisoning.jpeg"
+        width: 1400
+        height: 935
+        isCached: true
   - title: "IBM expands relationship with AWS to bring generative AI solutions to clients"
     excerpt: "As part of this, IBM Consulting aims to deepen and expand its generative AI expertise on AWS by training 10,000 consultants by the end of 2024; the two organizations also plan to deliver joint solutions and services upgraded with generative AI capabilities designed to help clients across critical use cases."
     publishedDateTime: 2023-10-20T07:35:00Z
@@ -81,6 +95,15 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
+    quality: 19
+  - title: "FEDML Nexus AI: The Next-Gen Cloud Services for LLMs and Generative AI"
+    excerpt: "Today, FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML"
+    publishedDateTime: 2023-10-24T11:56:00Z
+    webUrl: "https://www.01net.it/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
     quality: 19
 
 secured: "mIvcZIfUb1Cwlz3aeDHPx4h/h3u8M2nXh3q7rXqcnOaQ0c4xbYUwL4MT1lUIYiL6fM0kgv2c5aFc6Imu6mKUk+x9gUWCz0+N3NfQx4caQQgquCkvww3LsigmqtqGIbLa9sGVSYrxxrnN0Zf4gtGbVugvimHey4zyw+zOGrqv81fBi19ChJnWwCuBiKweobeX7Bv31Zhb/tu0NnJlInRcvbxQNXOB6Jus44HU1mxrXiPA1da4UiG3QWcRWeSLlfu3ZQDImAWjpE7bIEgFz6bHv/XH/vvN3zW38zF3Qmjh8j4mlyUaT3BTg4x7tbnV5i2MuxrngSfKCoVa1pQRlxe8yBiiPPFgsYh7pZCX1ZC/TrI=;JxRRLmzstgnX7wKHHDA17Q=="

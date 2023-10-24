@@ -79,6 +79,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 33
+  - title: "How AI is reshaping the financial technology landscape"
+    excerpt: "Indeed, artificial intelligence (AI) and machine learning (ML) are increasingly collaborating in solutions, especially in the realm of fintech - and, when they do, the benefits seem unstoppable as this guide explains. AI and SMEs unveiled Years ago ..."
+    publishedDateTime: 2023-10-24T11:06:00Z
+    webUrl: "https://www.finextra.com/blogposting/25085/how-ai-is-reshaping-the-financial-technology-landscape"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
   - title: "Artificial intelligence predicts the future of artificial intelligence research"
     excerpt: "In the field of artificial intelligence (AI) and machine learning (ML), the number ... We curated a list with the (what we think) 10 best robotics and AI podcasts - check them out! Also check out our Smartworlder section with articles on all kinds of ..."
     publishedDateTime: 2023-10-20T18:54:00Z

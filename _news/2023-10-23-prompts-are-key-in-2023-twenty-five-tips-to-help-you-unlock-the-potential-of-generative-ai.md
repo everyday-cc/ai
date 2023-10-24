@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/prompts-are-key-in-2023-twe
 webUrl: "https://azure.microsoft.com/en-us/blog/prompts-are-key-in-2023-twenty-five-tips-to-help-you-unlock-the-potential-of-generative-ai/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://www.unite.ai/wp-content/uploads/2023/10/responsible-AI-1000x600.png"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Nasscom selects 26 Indian startups to unlock generative AI potential"
-    excerpt: "To empower domestic tech startups in the artificial intelligence (AI) domain, IT industry’s apex body Nasscom on Thursday announced the selection of 26 startups for its inaugural ‘Generative"
-    publishedDateTime: 2023-10-19T17:58:00Z
-    webUrl: "https://www.thehansindia.com/business/nasscom-selects-26-indian-startups-to-unlock-generative-ai-potential-831090"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 37
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/10/19/1390805-nasscom.jpg"
-        width: 1200
-        height: 720
         isCached: true
   - title: "2023 Women CMOs in Fintech Report: Marketing Investments to Remain Strong, CMOs Orchestrating Success, and Generative AI Boosting Efficiency"
     excerpt: "Key findings from this year's Women CMOs in Fintech report include: Marketing investments remain strong: Despite the challenges of reduced venture capital and rising costs, marketing spend is not waning for most fintech brands."

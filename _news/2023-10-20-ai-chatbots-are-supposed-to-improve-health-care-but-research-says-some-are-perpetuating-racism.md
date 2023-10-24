@@ -19,6 +19,70 @@ topics:
   - AI
 
 related:
+  - title: "AI Chatbots Won’t Tell You Who To Vote For, But They Will Create Targeted Political Ads"
+    excerpt: "Chatbots like Bard, Claude, Pi and ChatGPT can spin up a range of campaign material from text messages to TikTok videos, but AI leaders have expressed concern over"
+    publishedDateTime: 2023-10-24T10:31:00Z
+    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/10/23/ai-chatbots-wont-tell-you-who-to-vote-for-but-they-will-create-targeted-political-ads/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 59
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6536e716415a919fc9b91512/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "OCBC to roll out generative AI chatbot for its employees globally"
+    excerpt: "Called OCBC ChatGPT, the chatbot is powered by ChatGPT’s large language models. Users can type a query in natural language into OCBC ChatGPT via Microsoft Teams, and the chatbot will produce answers based on accessible text-based information on the web."
+    publishedDateTime: 2023-10-24T06:32:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
+  - title: "Inside the Underground World of Black Market AI Chatbots"
+    excerpt: "These models are powerful, hard to police, and growing in number. They also mark the emergence of a new battleground in the fight against cybercrime—one that extends even beyond text generators like ChatGPT, and bleeds into the realm of images, audio, and video as well."
+    publishedDateTime: 2023-10-22T02:48:00Z
+    webUrl: "https://www.thedailybeast.com/inside-the-underground-world-of-black-market-ai-chatbots"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1697736987/231011-dark-web-ai-chatbot-hero_qofzpt"
+        width: 1480
+        height: 832
+        isCached: true
+  - title: "OCBC to Deploy Generative AI Chatbot Powered by ChatGPT for Staff Globally"
+    excerpt: "OCBC announced that it will deploy a generative artificial intelligence (AI) chatbot to its 30,000 employees globally in November 2023."
+    publishedDateTime: 2023-10-24T06:43:00Z
+    webUrl: "https://fintechnews.sg/79276/ai/ocbc-to-deploy-generative-ai-chatbot-powered-by-chatgpt-for-staff-globally/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 37
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/10/OCBC-to-Deploy-Generative-AI-Chatbot-Powered-by-ChatGPT-for-Staff-Globally.jpg"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "We Used the Meta AI Chatbot to Plan a Trip. Here’s What It Got Wrong."
+    excerpt: "Meta released an AI chatbot for WhatsApp, Instagram, and Facebook Messenger. We tested it for travel planning."
+    publishedDateTime: 2023-10-23T21:33:00Z
+    webUrl: "https://skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/"
+    ampWebUrl: "https://skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 37
   - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
     excerpt: "\"There are very real-world consequences to getting this wrong that can impact health disparities,\" said Stanford University's Dr. Roxana Daneshjou, an assistant professor of biomedical data science and dermatology and faculty adviser for the paper."
     publishedDateTime: 2023-10-20T19:39:00Z
@@ -33,61 +97,15 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records. But a new study led by Stanford School of Medicine"
-    publishedDateTime: 2023-10-20T15:13:00Z
-    webUrl: "https://kdhnews.com/living/health/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some-are-perpetuating-racism/article_a415445f-ecb8-5c3e-a141-c6c3ff69ba34.html"
+  - title: "As chatbots advance, ‘AI agents’ threaten to oust office workers"
+    excerpt: "Researchers are transforming chatbots into online agents that play games, query websites, schedule meetings, build bar charts and do more."
+    publishedDateTime: 2023-10-23T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/as-chatbots-advance-ai-agents-threaten-to-oust-office-workers/"
     type: article
     provider:
-      name: Killeen Daily Herald
-      domain: kdhnews.com
-    quality: 25
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/7/87/787e434c-798b-58a5-9384-ed40c3aa583e/653243805240e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "Stanford researchers warn chatbots used in health-care settings could spread misconceptions and falsehoods about Black patients SAN FRANCISCO (AP) — […] The post Health providers say AI chatbots could improve care."
-    publishedDateTime: 2023-10-22T16:55:00Z
-    webUrl: "https://www.aol.com/health-providers-ai-chatbots-could-165532828.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 25
-    images:
-      - url: "https://media.zenfs.com/en/aol_thegrio_365/6fd4e3e1e11218c91e257242938cc3fb"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "AI is supposed to improve health care. But research says some are perpetuating racism"
-    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records"
-    publishedDateTime: 2023-10-20T17:58:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167104"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 12
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records."
-    publishedDateTime: 2023-10-21T14:54:00Z
-    webUrl: "https://www.pressdemocrat.com/article/business/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 5
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "Powered by AI models trained on troves of text pulled from the internet, chatbots such as ChatGPT and Google’s Bard responded to the researchers’ questions with a range of mis"
-    publishedDateTime: 2023-10-22T17:12:00Z
-    webUrl: "https://thegrio.com/2023/10/22/ai-chatbots-risk-spreading-racist-ideas-about-health/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 5
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
 
 secured: "1TZsSP7pi4GbOtHffjGzlNEfUD0LKUhU74oBuusWb9TdyG8tSIAnNmZju530TXb0bLwpFcBAUJ6deirBGq+9UQJjvDQR4TRF4S3K/2bU2tHL8C+/VBm1KjAw4zQJA+GSP9OC4+sukU/sYPNphQ/xnWffvoLbMfWQG1cRjXGDHlKXhPwOHM2SXYA6eIrC15YGKyTmj2By7dPlLnLCVuEGEGi/VKmGycv5KfzI4O5a782cL4zIAtgTDAnDqc5FNCWHXQ9zYw2KqivAjWKA18opJzGjQRqby9xM0LeFZ1TQsdvbw+xxUj5QvoOeuknruxDUaqq9+UA6gQ8gByj8tVG1fIGZBcCTFzLKm3l4A/8bTIIkFiV+cZ0qxq3HsSB3UCkzwznRDmXVXJsbUjLwSAPwZ6EpBDLBAYEPi25UzxnlKS3pR+ZgtqR4ST7qX7gh6+24VuZRCUgKEQUP+pJB2ySw5zhr08EbQWyMkS7Eta2eK6XVWZa70cP3sR7fxAON+5xSj5xWCRHjHJCnV+UCm9cdUA==;fnBLEZK67WNqjLVt2hxVpg=="
 ---

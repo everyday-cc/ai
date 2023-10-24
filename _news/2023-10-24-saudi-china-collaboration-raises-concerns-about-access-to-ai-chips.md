@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/2a636cee-b0d2-45c2-a815-11ca32371763?sh
 webUrl: "https://www.ft.com/content/2a636cee-b0d2-45c2-a815-11ca32371763?sharetype=gift"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 377
     isCached: true
 
-secured: "zgcWXD1Z5P/ft3YrDjoIYn7T26BW5R+o8vzE4nHKBCGZ5Ip0ROiqfGUodk0dHwk9uNnSWY0W6BUxwYYPBJveCFCXLCueObbSuR9mULt3hVieXTGfZ01MlPOxkydI0n6xWAMA9YsgLpg7Y5YO5UZrKXtYoWeSCyEb1dlUNLu+a6CxBKrJTV4qdgswUEp3I+A5pt6WpgAq8ikG4koa12uvaqHalNI4u3zJ9tPS8OO2LE8VZtGJ5s6fuDT/AZEQyr6jl666dtqU7XT8ysmusi68ah1CuQixkI27Fz0K2cfhFTqji8LfxR+jJgKUAFYr6Yl4p3UuP/UtcavUIxfN1sng5htcPr79hOOE9QHWHaiUeIU=;2hpjGFXtJY1io/xX1Ej2Lw=="
+related:
+  - title: "China to step up efforts for AI chips"
+    excerpt: "China will step up the development of artificial intelligence chips as part of its efforts to promote fundamental technological breakthroughs in AI and introduce the applications of the cutting-edge technology in more sectors, the country's top industry regulator said on Friday."
+    publishedDateTime: 2023-10-21T00:05:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202310/21/WS65330e19a31090682a5e9dce.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202310/21/653316e4a3109068cafe8e1a.jpeg"
+        width: 588
+        height: 392
+        isCached: true
+
+secured: "LjGkPyfzR5C4sXuEsdl/ggIBSCDwZYWxP/MQzmdnK93QttpoYIQyIQi0n7Nhh0IMwENkfW20mZJh99HcX9N+WXI6wV4lu1BBXuV9un1gCXfI0oh/Jh5/OCIYwJ2duC/5CxleiQnJ5BpkrU53/xrqZmwKep6ZgJlca0WFH+rVjSKac+V6wRrIzdNtO71Wn2t/NTLSAUrN4WedlPZpJ7o2WzvIJpTuwNTqD3pmvt7e/K8Yz64OahrgcGUDqgoVpuaUqsdtRClR8eCV5mKjZJKhUUVQk/XQgACrH1UvFe06hgdFVzuu7ek/dIVenHkAvjE6AQO4mU2vOc11a3wKRQXJtnLc+tag+mQjfUGFFFi+Z78nPxjGnSNy7SylCtb/x0HaP38qwuthMdKltGq2sfsbUataxGm1wnOT3j2j11ZEzlvXEcBEdUtEeIY9BvDN0FYkO+VX/mCKm1gB4Sc8A6jmF6KLzm1jgZ+gHm3oyEUXA2/bjbyNwJV6893VUhxxR03K2BiNYWQhOYFOvUmTpyUGyw==;lRLTo/Qn/0ZluVJPnj1IIg=="
 ---
 

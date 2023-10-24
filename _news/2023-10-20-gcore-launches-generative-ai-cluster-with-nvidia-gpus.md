@@ -53,20 +53,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "What new U.S. export controls on China mean for Nvidia and other key parts of AI ecosystem"
-    excerpt: "Heightened restrictions on artificial intelligence chip sales to China could have major implications for 2023's AI darling."
-    publishedDateTime: 2023-10-19T17:42:00Z
-    webUrl: "https://www.cnbc.com/2023/10/19/what-new-us-export-controls-on-china-mean-for-nvidia.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 57
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107247052-1685079013413-gettyimages-1257866797-Nvidia_Stock_Soar.jpeg?v=1697742655&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Yahoo Finance's NEXT: How rivals are taking on Nvidia in the AI chip race"
     excerpt: "Nvidia (NVDA) is dominating the AI chip market, but it may not hold onto that lead for long. Traditional semiconductor rivals like AMD (AMD) and Intel (INTC) are entering the AI space, but so are Big Tech names like Microsoft (MSFT) and Alphabet (GOOGL)."
     publishedDateTime: 2023-10-23T19:24:00Z

@@ -20,20 +20,31 @@ topics:
   - AI
 
 related:
-  - title: "People are grieving the 'death' of their AI companions after a chatbot app abruptly shut down"
-    excerpt: "Smartphone app Soulmate AI let users create AI-powered friends and lovers. Then it closed down, and its thousands of users are heartbroken."
-    publishedDateTime: 2023-10-20T09:00:00Z
-    webUrl: "https://www.businessinsider.com/soulmate-users-mourn-death-ai-chatbots-2023-10"
+  - title: "AI Chatbots Won’t Tell You Who To Vote For, But They Will Create Targeted Political Ads"
+    excerpt: "Chatbots like Bard, Claude, Pi and ChatGPT can spin up a range of campaign material from text messages to TikTok videos, but AI leaders have expressed concern over"
+    publishedDateTime: 2023-10-24T10:31:00Z
+    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/10/23/ai-chatbots-wont-tell-you-who-to-vote-for-but-they-will-create-targeted-political-ads/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/65319f8396f7540cd0610696?width=1200&format=jpeg"
-        width: 960
-        height: 480
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6536e716415a919fc9b91512/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "OCBC to roll out generative AI chatbot for its employees globally"
+    excerpt: "Called OCBC ChatGPT, the chatbot is powered by ChatGPT’s large language models. Users can type a query in natural language into OCBC ChatGPT via Microsoft Teams, and the chatbot will produce answers based on accessible text-based information on the web."
+    publishedDateTime: 2023-10-24T06:32:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
   - title: "Inside the Underground World of Black Market AI Chatbots"
     excerpt: "These models are powerful, hard to police, and growing in number. They also mark the emergence of a new battleground in the fight against cybercrime—one that extends even beyond text generators like ChatGPT, and bleeds into the realm of images, audio, and video as well."
     publishedDateTime: 2023-10-22T02:48:00Z
@@ -48,6 +59,52 @@ related:
         width: 1480
         height: 832
         isCached: true
+  - title: "OCBC to Deploy Generative AI Chatbot Powered by ChatGPT for Staff Globally"
+    excerpt: "OCBC announced that it will deploy a generative artificial intelligence (AI) chatbot to its 30,000 employees globally in November 2023."
+    publishedDateTime: 2023-10-24T06:43:00Z
+    webUrl: "https://fintechnews.sg/79276/ai/ocbc-to-deploy-generative-ai-chatbot-powered-by-chatgpt-for-staff-globally/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 37
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/10/OCBC-to-Deploy-Generative-AI-Chatbot-Powered-by-ChatGPT-for-Staff-Globally.jpg"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
+    excerpt: "\"There are very real-world consequences to getting this wrong that can impact health disparities,\" said Stanford University's Dr. Roxana Daneshjou, an assistant professor of biomedical data science and dermatology and faculty adviser for the paper."
+    publishedDateTime: 2023-10-20T19:39:00Z
+    webUrl: "https://sentinelcolorado.com/uncategorized/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism/"
+    type: article
+    provider:
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 27
+    images:
+      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/10/AP23290859783861.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "As chatbots advance, ‘AI agents’ threaten to oust office workers"
+    excerpt: "Researchers are transforming chatbots into online agents that play games, query websites, schedule meetings, build bar charts and do more."
+    publishedDateTime: 2023-10-23T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/as-chatbots-advance-ai-agents-threaten-to-oust-office-workers/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
+  - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
+    excerpt: "Stanford School of Medicine researchers have discovered that popular chatbots are responding to questions using race-based, debunked medical ideas."
+    publishedDateTime: 2023-10-20T16:11:00Z
+    webUrl: "https://thegrio.com/2023/10/20/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 7
 
 secured: "vM8dCGBuJqFyGaJiPZ3z3oR3yndSOWtYUMNsz7t520BYxJ/gE9S9S2o+w+eIJuox6QA5HeldeHUzhGIHwkwr5yiuYkiQDHlZTo4Z/i/kPMQHplIRlwL+idiB2pgBvt37JnxY2CL5dU+BoUXXOT/AKKMp72o6FX7+2s8m9Hp2ra+xQTEuPrUrPW097uOIlqfk4zrEtwuG9jkdtkEh7j8kzFQXbbB9gUMLXA6xPxfrBIt2T9K+XekFiKn26B9n9aAv48bKrN0Qr3QC5XlX9UJgmqyxEpXe6Dfk3O8JxGeRaXGbocjn/2HNMg4uoKha7tZh5+Di7vBwWr9Ob1zshotwvaikzp/WHuwR0m858o4h0czODrNZE58vQbTZROHocobxLd9bGeFoP6rEZONme0RVJOjkc+w6NAPCk6TPtZFsY1HwOaJ9oUL5z7BIySUTxFm7V24Cmf0YWld5zRAwrc1hdPSwkOp5t9fXbkJhzNp9Jci5lceWOlym5ctWjixzbOebP23Tqc2NG0ysMNCsSxHPeg==;BPLgmi/UPB79HU6lWEHyeQ=="
 ---

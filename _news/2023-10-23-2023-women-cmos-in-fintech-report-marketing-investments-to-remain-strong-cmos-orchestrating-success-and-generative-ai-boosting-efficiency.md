@@ -59,20 +59,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Nasscom selects 26 Indian startups to unlock generative AI potential"
-    excerpt: "To empower domestic tech startups in the artificial intelligence (AI) domain, IT industry’s apex body Nasscom on Thursday announced the selection of 26 startups for its inaugural ‘Generative"
-    publishedDateTime: 2023-10-19T17:58:00Z
-    webUrl: "https://www.thehansindia.com/business/nasscom-selects-26-indian-startups-to-unlock-generative-ai-potential-831090"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 37
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/10/19/1390805-nasscom.jpg"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "dGr42XfeaQLyyoFoR0Ar0xzTv+6F1JeO9YB8LUyli7ds+LnzFp9kifjF7p03lxoEWZ5QCRzSR38Bn+MghG+xYJ/VpmBJFE0fzpbyKppjh0Z3fftkDZMpPy0wzWQy5oDypGz4VUblBjr2MrhPVk02Wn8A+KB1u1sCU4NeUDi7Idnd6Y43GA/ssc+2u508qoDiMwIADtk6PzjjzBtZ8PY0P4snV3xpnWp8+L7k63cZc7yo9m9tyv2pjgvG4qsVsj+Anorf72TYEbLnBJo47tpB9B1DxTO1fWMxQoHgTktVtyNBvfQn+B76/oayKUS4sjlIlw/VTji4vsZJbBjyJnXbxBxvnTOL0ooo91jgrfBYT10=;4emCkdKTLsSqJo0juZ+o+Q=="
 ---

@@ -23,21 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "Keeping a human in the loop: Managing the ethics of AI in medicine"
-    excerpt: "Artificial intelligence (AI)—of ChatGPT fame—is increasingly used in medicine to improve diagnosis and treatment of diseases, and to avoid unnecessary screening for patients. But AI medical devices could also harm patients and worsen health inequities if they are not designed,"
-    publishedDateTime: 2023-10-20T16:25:00Z
-    webUrl: "https://medicalxpress.com/news/2023-10-human-loop-ethics-ai-medicine.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-10-human-loop-ethics-ai-medicine.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-human-loop-ethics-ai-medicine.amp"
+  - title: "Human-In-The-Loop AI: A Collaborative Teammate In Operations And Incident Management"
+    excerpt: "This perspective holds particular relevance for operations teams and incident management. Rather than replacing human involvement, AI stands to be an ally in these mission-critical domains. Analogous to how automation streamlines repetitive tasks, AI can enhance the problem-solving capacity of operations teams."
+    publishedDateTime: 2023-10-24T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/human-in-the-loop-ai-a-collaborative-teammate-in-operations-and-incident-management/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/human-in-the-loop-ai-a-collaborative-teammate-in-operations-and-incident-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/human-in-the-loop-ai-a-collaborative-teammate-in-operations-and-incident-management/amp/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-5.jpg"
-        width: 1920
-        height: 1358
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65368ab5d4c8226b37a30d03/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
         isCached: true
 
 secured: "Newo8QTuSD2kGkbMkOGVyJWA7I2Mwyw5jGnTLSLjzQKDXPledk+8OKgROHHKgwJUki2/tnKdhExqfuOK0KHn7MfqqpwMzogL5ctCu7/CKcaj3wwCHx24/rDbonc+jI9xFhWQGSBwNvsFvgmLbXd5aQu9IMCNsgznT9Bix4zTkdz4P+q8WLLvhhX6xh+Tl3ZtEze8IgzPD8woGuz1Vj0I381aVUwl3zydOc7vs5iCBUDG00V6SsmtoT0puFuQTXoNJsGya2h1yg4cQHKYgeGD7Bkerr4iTKrn/a/x13jFeNwtP/5OL+F29RZdcuFBBkz7Y1PdZ/qeTravCHg+oaZAXz2nJFGgbjL8V8VRzYpRsdU=;RNxmxVQonLZdSJBMRzbovw=="

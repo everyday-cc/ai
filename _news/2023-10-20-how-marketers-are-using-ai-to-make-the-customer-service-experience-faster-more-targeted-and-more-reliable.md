@@ -71,19 +71,37 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
-    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
-    publishedDateTime: 2023-10-20T16:48:00Z
-    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
+  - title: "Generative AI: Unlocking The Tipping Point For AI In Enterprises"
+    excerpt: "AI is everywhere. Unless you’re living off the grid, there’s a strong chance you hear about ChatGPT, OpenAI and generative AI regularly. New solutions, companies and conversations are popping up around AI because of its ability to democratize information in a way we haven’t seen since the Guttenberg Press."
+    publishedDateTime: 2023-10-24T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/generative-ai-unlocking-the-tipping-point-for-ai-in-enterprises/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/generative-ai-unlocking-the-tipping-point-for-ai-in-enterprises/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/generative-ai-unlocking-the-tipping-point-for-ai-in-enterprises/amp/"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 60
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653684c0b0604170b9eb7aed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "AI and its impact on MBA education"
+    excerpt: "Business schools have incorporated artificial intelligence (AI) tools such as Tableau for data visualization, IBM Watson for analytics and natural language processing, Salesforce Einstein for customer relationship management, Google Analytics for ..."
+    publishedDateTime: 2023-10-24T06:45:00Z
+    webUrl: "https://www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/"
+    ampWebUrl: "https://www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 76
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/image-2023-10-24T114111.709.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Role of CX automation and generative AI"
     excerpt: "Customers expect personalised and efficient service, and the emergence of generative AI has led to a significant shift in the way businesses approach customer service and customer delight. Like human interactions,"
@@ -116,6 +134,34 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
+    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
+    publishedDateTime: 2023-10-20T16:48:00Z
+    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 58
+    images:
+      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+  - title: "The Role of Artificial Intelligence in a BS in Computer Software Technology Education"
+    excerpt: "Education has become the cornerstone of innovation. As the demand for skilled professionals in computer software technology continues to rise, educational institutions are adapting their curricula to meet the industry’s changing needs."
+    publishedDateTime: 2023-10-24T09:56:00Z
+    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-a-bs-in-computer-software-technology-education/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 49
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/The-Role-of-Artificial-Intelligence-in-a-BS-in-Computer-Software-Technology-Education.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "AI And The Cognitive Revolution"
     excerpt: "Artificial intelligence may be the first innovation to disrupt our way of life on the same scale as the Industrial Revolution."

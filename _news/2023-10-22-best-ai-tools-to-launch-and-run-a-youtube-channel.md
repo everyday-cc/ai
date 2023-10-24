@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘You want your senators to read books’: Todd Young talks politics and AI"
+    excerpt: "Existing laws and regulations will help us address most of the risks,” says the Indiana Republican, who’s carving his own path on the Hill."
+    publishedDateTime: 2023-10-24T10:15:00Z
+    webUrl: "https://rollcall.com/2023/10/24/you-want-your-senators-to-read-books-todd-young-talks-politics-and-ai/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 16
 
 secured: "4koXkG4jtvPf8rdJVOqM6Ob2MT68dG+CyR+QpDfKb9CKU00YcONFtOs+h+A713aQMhXIG0ieFLe5jAB7fMxfHG3NX8KbbiIYL7KUjMG8vogUqAxtFovXXnN19PDLh/a5J5VLNPlkWSo16wgiqcuviuAJQ3flg0YxsXs2FKLP5izwnV78G75D+fAfPBwuBu7RAahCsjE3IYWZ+p2b5Nc6aXGRq2ZzHXLlxSlyhN8lpWpPzqMmGDKOY5yTUWrtptGSC3PgASuXNJ6Ez15bRXFMy8FBf85Hy00YJLeCqOYtkcCxvsYI1yESXFAdPCVPYT2lhvmtgp6CrQHkwR/bXAMOJPFEGQypcur5GJrkyvqMf+2osILVHFCIPBfSMCM1e/LngiT7Od4rrSFPL29yIzV8jaExoFFjodJXXbD9qYVnzLsIKBji2+eaNY4GIT4Wl/Q32/kqIq7I4BNvlVMGdop0rzIJz+s6V2Mn6DcZ0eHeN0UQVwY5jrLIAygUnx2UFpKKdUKmFWFmvUSSA4CZfXHdFg==;iQKBxykXdRoEklPvugEXaw=="
 ---

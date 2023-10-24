@@ -63,6 +63,20 @@ related:
         width: 1176
         height: 900
         isCached: true
+  - title: "Generative AI Can Write Phishing Emails, But Humans Are Better At It, IBM X-Force Finds"
+    excerpt: "Hacker Stephanie \"Snow\" Carruthers and her team found phishing emails written by security researchers saw a 3% better click rate than phishing emails written by ChatGPT."
+    publishedDateTime: 2023-10-24T11:00:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-phishing-emails-impact/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 61
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/01/tr12423-malware-seo-poisoning.jpeg"
+        width: 1400
+        height: 935
+        isCached: true
   - title: "IBM expands relationship with AWS to bring generative AI solutions to clients"
     excerpt: "As part of this, IBM Consulting aims to deepen and expand its generative AI expertise on AWS by training 10,000 consultants by the end of 2024; the two organizations also plan to deliver joint solutions and services upgraded with generative AI capabilities designed to help clients across critical use cases."
     publishedDateTime: 2023-10-20T07:35:00Z
@@ -77,6 +91,15 @@ related:
         width: 336
         height: 280
         isCached: true
+  - title: "FEDML Nexus AI: The Next-Gen Cloud Services for LLMs and Generative AI"
+    excerpt: "Today, FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML"
+    publishedDateTime: 2023-10-24T11:56:00Z
+    webUrl: "https://www.01net.it/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 19
 
 secured: "ohs0lNT6fl/AlYxhuv+gGGfQDn4KIUnLJz2v3335M5+Mbin4s6G3rblcfej4tnvoJyxLG5JbqtLyF8CZb5BcmVm0e1zZWqK9A2apUhQpFCwifmNv4fFK1B2nloemS7ekXs/47r/6s0Q1mWFHnY/H1lHg2sxNg3HT9oK6SLIsGDDjQ2sTHlAeUOelnEneDOsTWhVn2J7tM2QRVMJhVrXdwNmQSdq51EvtxK7inXwbg07u2KKxaVJ4S+fvOWKIcJz5tx390lI8Otac/rJICXoe68lXDJ+DJJE2w0vZsWNcnlc4wtFl/CBMA5LvCAapHRYZO5S98RUWT/HdQPK+p+4sJVjmDmYCUFzbDJO/3g/FCOE=;1ZeTXHMOrQNqBMK0SOID1A=="
 ---

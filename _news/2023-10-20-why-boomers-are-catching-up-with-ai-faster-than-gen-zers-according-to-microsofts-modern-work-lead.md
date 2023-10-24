@@ -139,15 +139,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Analysts Are Bullish on Microsoft's Azure and AI Growth Ahead Of Q1 Earnings - Here's Why"
-    excerpt: "He said that Y/Y growth of ~26% for Azure seems realistic, given the uptick in demand for AI services, including access to the enterprise API for OpenAI. While the Street is hoping for Azure growth to level off in 2Q (and potentially accelerate), Materne ..."
-    publishedDateTime: 2023-10-19T18:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/analysts-are-bullish-on-microsoft-s-azure-and-ai-growth-ahead-of-q1-earnings---here-s-why-1032722146"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
   - title: "Microsoft’s Promising Outlook: AI Growth Potential and Azure’s Stability Justify Premium Valuation"
     excerpt: "Analyst Keith Bachman of BMO Capital maintained a Buy rating on Microsoft (MSFT – Research Report), with a price target of $400.00. Keith"
     publishedDateTime: 2023-10-20T11:15:00Z
@@ -324,9 +315,9 @@ related:
       domain: cuinsight.com
     quality: 52
   - title: "Microsoft Q1 earnings preview: Wall Street looks for signs of AI-powered growth"
-    excerpt: "Microsoft will report its Q1 earnings after the bell on Thursday, as investors look for signs that its AI investments are paying off."
+    excerpt: "Microsoft will report its Q1 earnings after the bell on Tuesday, as investors look for signs that its AI investments are paying off."
     publishedDateTime: 2023-10-23T17:25:00Z
-    webUrl: "https://www.aol.com/microsoft-q1-earnings-preview-wall-142544621.html"
+    webUrl: "https://www.aol.com/finance/microsoft-q1-earnings-preview-wall-142544621.html"
     type: article
     provider:
       name: AOL
@@ -355,15 +346,6 @@ related:
       name: On MSFT
       domain: onmsft.com
     quality: 45
-  - title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
-    excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
-    publishedDateTime: 2023-10-19T19:18:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20231019/4130700.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 20
   - title: "Innovating with responsibility: How customers and partners are bridging data, AI and trust with the Microsoft Cloud"
     excerpt: "For the past decade, we have been on a journey with our customers to help them achieve digital transformation, which is business transformation empowered by cloud technology. With increasing excitement around generative AI — both for its potential and the impact it is already having — organizational leaders are eager to prioritize adoption that"
     publishedDateTime: 2023-10-23T13:00:00Z

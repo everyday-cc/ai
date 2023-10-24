@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-10-music-companies-sue-anthropic-ai
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-music-companies-sue-anthropic-ai.amp"
 type: article
 quality: 57
-heat: 107
+heat: 87
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Music publishers sue Amazon-backed AI company over song lyrics"
-    excerpt: "The music publishers’ lawsuit appears to be the first copyright case over AI’s use of song lyrics"
-    publishedDateTime: 2023-10-19T17:12:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/19/music-lawsuit-ai-song-lyrics-anthropic"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
   - title: "Anthropic tests AI rules for the people, by the people"
     excerpt: "Amazon-backed Anthropic, the startup behind the Claude generative AI chatbot, is promoting a new form of responsible AI: A constitution for its large language models based on public input. Why it matters: Who controls and influences AI is controversial given its potential to amplify existing biases and inequalities and to create new ones."
     publishedDateTime: 2023-10-23T09:30:00Z
@@ -72,15 +63,6 @@ related:
       name: Axios
       domain: axios.com
     quality: 17
-  - title: "Universal Music Group sues AI startup Anthropic over song lyric copyright infringement"
-    excerpt: "Universal Music Group filed a copyright infringement lawsuit against artificial intelligence startup Anthropic on Wednesday citing widespread scraping of its client’s song lyrics being used to train its ChatGPT rival chatbot Claude."
-    publishedDateTime: 2023-10-19T18:15:00Z
-    webUrl: "https://siliconangle.com/2023/10/19/universal-music-group-sues-ai-startup-anthropic-song-lyric-copyright-infringement/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 9
 
 secured: "uNIe6Hze+G21pTSnCKnhGcnrhICGNs0fGDimesFNN/UPHWGMd+U4rOHPi3ix0hUGuhvrb1tainfkVKQOnNcpL28++2QCbyumsGLUszTiZiv0EBVK6q7pVPNfTae4V8T1ddLOxxernBaNGC1FH1+bpTFSjqwGhpNGoa/LUvMFGCld83xRT1Vhtb/Zwua/tTxXz+jlnskG3PXOGJXPVHH2dgpbpdFmE7f7LseNwkH5VucCNRf03HhrtjhjcGZsxWCi6rXgaZ80TUiSsYcWIdQxD5wP9jKLitJ+XPciOS9maGBADsGhjBABOhL09w93NMUcmgm/p3Yr4u+SA1XA8bAqsaHrpkb7Gc2tApPfsUmlj3k=;uAyP+Lw6dcEStuHQpTldUw=="
 ---

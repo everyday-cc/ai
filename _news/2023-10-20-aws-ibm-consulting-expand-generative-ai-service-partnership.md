@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generativ
 webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
 type: article
 quality: 84
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
         width: 1176
         height: 900
         isCached: true
+  - title: "Generative AI Can Write Phishing Emails, But Humans Are Better At It, IBM X-Force Finds"
+    excerpt: "Hacker Stephanie \"Snow\" Carruthers and her team found phishing emails written by security researchers saw a 3% better click rate than phishing emails written by ChatGPT."
+    publishedDateTime: 2023-10-24T11:00:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-phishing-emails-impact/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 61
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/01/tr12423-malware-seo-poisoning.jpeg"
+        width: 1400
+        height: 935
+        isCached: true
   - title: "IBM expands relationship with AWS to bring generative AI solutions to clients"
     excerpt: "As part of this, IBM Consulting aims to deepen and expand its generative AI expertise on AWS by training 10,000 consultants by the end of 2024; the two organizations also plan to deliver joint solutions and services upgraded with generative AI capabilities designed to help clients across critical use cases."
     publishedDateTime: 2023-10-20T07:35:00Z
@@ -81,6 +95,15 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
+    quality: 19
+  - title: "FEDML Nexus AI: The Next-Gen Cloud Services for LLMs and Generative AI"
+    excerpt: "Today, FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML"
+    publishedDateTime: 2023-10-24T11:56:00Z
+    webUrl: "https://www.01net.it/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
     quality: 19
 
 secured: "gJKnXjj9bNWl1z7DUyuL4aerYdRrKNLSfz2gZkmLZCpeyCeFOHRGpRHsBa5dsQdBMlUo5ql8oWocmk6RS3ZQeP60MuFO+xf0tNhHcy09R5IXIVeahNPbQN/AcgYyd6/aPb89uvnp3+WvsqSGFfaBsArAPdBP3LRTFSzIVbV2uSJFTt+9llBMKXdtlG0w9HaXiY8ScHneQ0+9eZp5CDP1yXubhVkPavk07qylAptCxfn0c7RhWxvUtrVcBgMqN2Phqn4qyenlKL454AlR1kpVM6cndXeJ42PKa0H5RiXyOAc+Vo8mm+Bp0aOdLtUzwz/Op3/A6WZzhF9m1xmIevmrN6wBkwlWImnIZcGZvQgU+9n/x7K2ycDCyQpnZ5T9XD2eH3KYji+Is0tBzoR3LromKILHWV8v8tOtc6OYawuMI+edt8yF0VHbvmfrqBFZa5cXi18kdR/Ih9PWIfJLLOOXtdGd2dHhBrFYB9lut+YbyLU7z/eJrOzrMuG8DbGz24XuSoLu+igupmk1UBb7ItKRkQ==;fgACZGuZbIKaGamb+hdbSA=="
