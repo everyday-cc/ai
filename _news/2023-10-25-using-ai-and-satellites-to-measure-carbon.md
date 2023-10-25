@@ -24,37 +24,27 @@ images:
     isCached: true
 
 related:
-  - title: "Future of psychometric tests: How AI and machine learning are changing career management"
-    excerpt: "Embracing AI and ML in career management is not just a trend; it’s a strategic advantage in today’s fast-paced world of work. However, the synergy between psychometric tests and AI and Machine Learning can lead to more informed and well-rounded decisions in an increasingly data-driven world."
-    publishedDateTime: 2023-10-22T11:01:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/lite/"
+  - title: "Measuring Mood Through Artificial Intelligence"
+    excerpt: "Whether it’s a parent with a thermometer and children’s Tylenol or a tumor board determining an oncology regimen, such a data-driven approach is usually the best practice in 21 st-century healthcare. Unfortunately, mental health care lags behind ..."
+    publishedDateTime: 2023-10-23T13:41:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/pathways-of-progress/202310/measuring-mood-through-artificial-intelligence"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/pathways-of-progress/202310/measuring-mood-through-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/pathways-of-progress/202310/measuring-mood-through-artificial-intelligence?amp"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 65
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design299.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How AI, like ChatGPT and Bard, are changing education"
-    excerpt: "To learn more about how AI could affect education, we spoke with the former chief digital officer for New York City, the Met museum and Columbia University."
-    publishedDateTime: 2023-10-24T14:40:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/how-ai-like-chatgpt-and-bard-are-changing-education/"
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 39
+  - title: "Measuring Mood Through Artificial Intelligence"
+    excerpt: "Whether it’s a parent with a thermometer and children’s Tylenol or a tumor board determining an oncology regimen, such a data-driven approach is usually the best practice in 21 st-century healthcare. Unfortunately, mental health care lags behind ..."
+    publishedDateTime: 2023-10-23T17:46:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/pathways-of-progress/202310/measuring-mood-through-artificial-intelligence"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 54
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/24/e829742b-af85-4107-90d6-be35ca206d19/thumbnail/1200x630/db30b49e80763a7322e5c83f39e1dc9f/a2bc5f7596314e70ebc61c3562e21e7f-0-1698157475482.png?v=4fae59acf57b6bb1efa9da07582ebc40"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 19
 
-secured: "oOgaI+z1b+CxIoQd1OTpzGLxXvhKEnb3xFk7YlZTg2nBwXwxwazcLQ7D1u8ZD5YuRznRAOc99BYRBbxXn8LgKI9USlOcNkYz7GRreEQ3XO5+8QyTFJ8KByHEnTXwUsgN/g0dZWOwp8vaS0zdRPCbBxdpQ6c36mpFvIXoVPYeSrdrQ7O/I0jk2a9i13JEXSZOCxM45x551mH1xKtv9RfjM1FouCTyy/xfGRMIgsUQjYbD7PNnNEvmJyDn7u0BUWWsoFjpVOl6qodZnZ+gJr3kU0+1DEaIN9hqU2pXb4FMh3MHkCxDIEWDn80EaWeGaVNbBQy2+84hmtWKnl+0c5zCVZl9cqCqx5OfTBqFUBJQyDE=;ETuruN/5i2G3jIVkFhLcVQ=="
+secured: "4i4ABB833TaVJb7y/YeWQRLyE7VBkgxPCPyy3N/cXhwAgccSSWWc3J9yFWY2t+auHyGZbfhu8fRojhS9bL1KiychBCLIXnj3LIwRzRZLkGXvi+gASZq74zBuM/DyLDQsRq9549OqMfp51fCxbRccvDEJ69cifI6jiM4AMCd1CRzDjsEcmQ6ZWBx0MJG6jfA2c9PVCQKy/+KTx0r6YrJNqkeNmPKPY7Es40q/U5OexJZIEtvYYnRZwPyjsUCndrv2rWgoP8xuejcU2/Pvqnqj9hlDUcuBzA5sOcTJ9gajbsCmAGnBWh5IrtoI+gXwt1ck1CBa5vJjHXItpSnRClYpaqvOcGZqeBxEGKLE/qsCd9FPn1bxDaQFiOaDt/765AzacRxoQx+wMY+rUkGGgaFlct5o4/oLVM7lCgt0QFV9Swm29JXUOCy0X1byuRv2WLlWMlxlHUdC8ibciUQtYVSmcE1TQj6niMj4187qMqWGZFhk1S4lWYwYpQUSyt8UHvk8c7yyG4bfWK+szl9OrMXimA==;Of/siSGM3WIGurA/sIVVyQ=="
 ---
 

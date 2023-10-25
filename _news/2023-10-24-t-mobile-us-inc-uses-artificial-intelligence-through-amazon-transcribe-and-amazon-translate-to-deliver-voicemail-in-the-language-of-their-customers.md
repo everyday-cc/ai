@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/t-mobile-us-inc-uses
 webUrl: "https://aws.amazon.com/blogs/machine-learning/t-mobile-us-inc-uses-artificial-intelligence-through-amazon-transcribe-and-amazon-translate-to-deliver-voicemail-in-the-language-of-their-customers-choice/"
 type: article
 quality: 123
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 809
     height: 481
     isCached: true
+
+related:
+  - title: "How To Use AI To Surprise And Delight Your Customers"
+    excerpt: "AI has afforded marketers the opportunity to explore new techniques that we can use to surprise and delight our customers."
+    publishedDateTime: 2023-10-25T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/25/how-to-use-ai-to-surprise-and-delight-your-customers/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/25/how-to-use-ai-to-surprise-and-delight-your-customers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/10/25/how-to-use-ai-to-surprise-and-delight-your-customers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/623427218/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
 
 secured: "KCua+SQGWF7qHqENKoWj+K57wUWYZmTsVvTycWA8Z7tBQ0PYPFsX6YNp7BV3OinUHY5vkytNAQPmX4mtq4pAkGAGR7Rvcubt+GxHwLK1yranklJ6UdhaVMm1dbGj+JealKc9GeWY9kfP0dtOcWHPaQgDU0/Z7qa6tR8tEPjidVeqAtpJ2XDCzzi3USSZN1ahXGdNTstDmcfAjOWkLpV3+1ZQY3eIh2R8QgdF34K+OssuZcy+FvXXTVtaS56WXGspW1cHvvEIDcqz7QWsdnqfk/FxWvhGx6cDpbRPMCk1t/9zymc5NNjO7ij5OMo/5h0B+mD1x3UCd4Ra9IniXjf5Npcg62GxkCMZURZzu3yYe5w=;muosLpDGTuQB4BQ8zvbgwA=="
 ---

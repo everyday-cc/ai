@@ -2,9 +2,9 @@
 category: news
 title: "US orders immediate halt to some AI chip exports to China, says Nvidia"
 excerpt: "Fellow tech company Intel ‘reviewing regulations’ as timing of move brought forward"
-publishedDateTime: 2023-10-25T06:19:00Z
-originalUrl: "https://www.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
-webUrl: "https://www.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
+publishedDateTime: 2023-10-25T09:32:00Z
+originalUrl: "https://www.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
 type: article
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
 
 images:
   - url: "https://i.guim.co.uk/img/media/3117a589c220d76167672d9a42ee95b19ace16b0/43_260_5272_3166/master/5272.jpg?width=620&quality=85&auto=format&fit=max&s=3ed10f47bd5f463494e7bd3d583d1ef9"
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-800x448.jpg"
         width: 800
         height: 448
+        isCached: true
+  - title: "US orders immediate halt to shipping of some AI chips to China, Nvidia says"
+    excerpt: "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October."
+    publishedDateTime: 2023-10-25T03:41:00Z
+    webUrl: "https://www.bbc.com/news/business-67213134"
+    ampWebUrl: "https://www.bbc.com/news/business-67213134.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-67213134.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 102
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10F92/production/_131522596_gettyimages-1258278958-1.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "US orders immediate halt to some AI chip exports to China, Nvidia says"
     excerpt: "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October."
@@ -108,22 +124,6 @@ related:
       - url: "https://i.gadgets360cdn.com/large/nvidia_reuters_1682491698706.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "US orders immediate halt to shipping of some AI chips to China, Nvidia says"
-    excerpt: "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October."
-    publishedDateTime: 2023-10-25T03:41:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-67213134"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-67213134.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67213134.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10F92/production/_131522596_gettyimages-1258278958-1.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Nvidia Says U.S. Speeded up New Export Curbs on AI Chips"
     excerpt: "(Reuters) - Chip designer Nvidia said new U.S. export restrictions blocking the sales of its high-end artificial intelligence chips to China had gone into effect on Monday after regulators advanced the timeline on the curbs from its 30-day period."
@@ -176,6 +176,6 @@ related:
       domain: bizjournals.com
     quality: 33
 
-secured: "3RXJcjShlYeiP4qHv2476E4SH6aq5+/qknF9C0LdjWIhC7Tbce8uj4zH0z9vn0jrnkMCfjWPc7gjH0dyTfNguUKCvOQgfxs8fw/GqOydpabx1dm1tZB6D2g4Urc8iVCIfXrlOpJPSnPQut988MTx4mLxqyt1837o0J+CyiLTb+Kjn8o2LOyCSxLL8StXbDoewAMS3C93XyjstSsrDM/s90g6FVjFVwODMz0DQ95QrdNUZGOEEZxLQsyXvRtU+x16UJ0MnVx6k3Xip9h/LnyPGSBSpDrsJuSDstc9BOsAbVC8xMCkrw1fy150xSf73Q3b2lz8YSEicHc7GyvpCyQmD0MrukWz1nRmft6X5y4pW8I=;+CSjNoa8yroP9u2TDTp9VA=="
+secured: "Z2LIcKZo3xD/sP7R1YSv/CqqsNCS1dmNaChlhzP7j3gG6jLsTs1BTrbzsZ0V3JjeQP1PmicUUznRvGXozTSRKGy9iFbIbWkE6bp49hlNcbW4jm893tpLd3FE4fydu3ZjV77beFs3a6/UUs6NDzsNN/mBswrh64O28SsO/A/u+JUESoaqHLntHFmGdvSa9G0iUzhh2GjwkTFaA727Kf+uLdYuJk8qXyCoGGpcvkv/c3+GR56T8K9AL2IfUxZhLB7Yv60shHb1XR0wFNGwkeC5hasNqPZHUqNbWtpuC0ZJoILGSNPE68Ztnoh2WgndpHSDx2bkDCOnMX7X9hAKamJxaISZSJOHWZmmL6da4O4WN7Y=;VuxChFZ2M8Po7e7VLCmrEQ=="
 ---
 

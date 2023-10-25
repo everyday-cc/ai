@@ -3,22 +3,18 @@ category: news
 title: "National Star College students to gain independence using AI technology"
 excerpt: "The accommodation at National Star College will act as a \"smart house\" and includes voice-activated technology. It will allow students to adapt artificial intelligence (AI) to suit their personal needs. It will be opened later by disability campaigners Jack Thorne and Rachel Mason."
 publishedDateTime: 2023-10-25T05:23:00Z
-originalUrl: "https://www.bbc.com/news/uk-england-gloucestershire-67102641"
-webUrl: "https://www.bbc.com/news/uk-england-gloucestershire-67102641"
-ampWebUrl: "https://www.bbc.com/news/uk-england-gloucestershire-67102641.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-gloucestershire-67102641.amp"
+originalUrl: "https://www.bbc.co.uk/news/uk-england-gloucestershire-67102641"
+webUrl: "https://www.bbc.co.uk/news/uk-england-gloucestershire-67102641"
+ampWebUrl: "https://www.bbc.co.uk/news/uk-england-gloucestershire-67102641.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-gloucestershire-67102641.amp"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -29,6 +25,6 @@ images:
     height: 576
     isCached: true
 
-secured: "YMhHZLPHhfQ4yuU+F3c1P4CZTuvBitwNvw6ydtslIKd6nb0nALh8GenACWXS6TMbvWcflLSItIK7uXI7z2OGHZqCl8ai0UEaMrLdlILa3I7uHhSFLmGGvr0R1TqOqAjb5LcvjEztXxMxUSIQaGssnbT2sqNOxGMjgSPF82LECjRlMlAonsq8aE+T6y6TwNjT2NrfyhjOC6mNM+jxUxeSk8V7ajLhejqHWVFjlbvT3O2YmXhd3ijcXLpTFKMPNwsdI5y1ZZLbZ4k0kbwunqIyNuxK4sypuSYTakMm6oOgBcC7MqZz1f1bTPqY38BPYiuBpTqZQPRYTrBccOZ6b+LwEN3Ie8mvx4p3qFbjbnh387c=;z69lbY2LLOqu8jKQTY7Adw=="
+secured: "OnRROf0uqEX8btVBtBh9JLFLfCxRkuL0VO17QtcaBnjxgGw2qVOBls1F6eeAIIrs7e/Yid8HVrVa3vxJnJEr4Y9GGqWN8nTVJdFjEZ75qIUq7nvUVPeHuk/134Y29WsmS14yf6JE0pYnhwljaURH20nVwjnWq+BpqSkVtiwKo3A5upm0zchIGvhmtcMQdBu20TRBiiLs97avSwaywhv5xUqx3J6s6XfXEBsdIiOhDuzP9Gvma97BcJ5i/ZyZrkyKYN1NxyeO24+yZ3YkYD26qOT1oXjv0Qa7Kejk83WZOcnKylvFqsKQX9CTM+oIMVBZSZ+2uQ6+Zf5E9Frqwr1cECgE9Av4d0ILd0ZT5J7K8Is=;WWU/Xv94TosvgOFrAHGOrQ=="
 ---
 

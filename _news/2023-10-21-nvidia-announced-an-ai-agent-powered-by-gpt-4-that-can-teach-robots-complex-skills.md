@@ -57,6 +57,22 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "US orders immediate halt to shipping of some AI chips to China, Nvidia says"
+    excerpt: "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October."
+    publishedDateTime: 2023-10-25T03:41:00Z
+    webUrl: "https://www.bbc.com/news/business-67213134"
+    ampWebUrl: "https://www.bbc.com/news/business-67213134.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-67213134.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 102
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10F92/production/_131522596_gettyimages-1258278958-1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "US orders immediate halt to some AI chip exports to China, Nvidia says"
     excerpt: "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October."
     publishedDateTime: 2023-10-25T03:41:00Z
@@ -75,8 +91,8 @@ related:
         isCached: true
   - title: "US orders immediate halt to some AI chip exports to China, says Nvidia"
     excerpt: "Fellow tech company Intel ‘reviewing regulations’ as timing of move brought forward"
-    publishedDateTime: 2023-10-25T06:19:00Z
-    webUrl: "https://www.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
+    publishedDateTime: 2023-10-25T09:32:00Z
+    webUrl: "https://www.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia?ref=biztoc.com"
     ampWebUrl: "https://amp.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
     type: article
@@ -118,22 +134,6 @@ related:
       - url: "https://i.gadgets360cdn.com/large/nvidia_reuters_1682491698706.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "US orders immediate halt to shipping of some AI chips to China, Nvidia says"
-    excerpt: "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October."
-    publishedDateTime: 2023-10-25T03:41:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-67213134"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-67213134.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67213134.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10F92/production/_131522596_gettyimages-1258278958-1.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Nvidia Says U.S. Speeded up New Export Curbs on AI Chips"
     excerpt: "(Reuters) - Chip designer Nvidia said new U.S. export restrictions blocking the sales of its high-end artificial intelligence chips to China had gone into effect on Monday after regulators advanced the timeline on the curbs from its 30-day period."

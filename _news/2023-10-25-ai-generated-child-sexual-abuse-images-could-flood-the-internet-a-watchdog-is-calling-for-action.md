@@ -1,28 +1,27 @@
 ---
 category: news
 title: "AI-generated child sexual abuse images could flood the internet. A watchdog is calling for action"
-excerpt: "A new report warns that the proliferation of child sexual abuse images on the internet could become much worse if something is not done to put controls on artificial intelligence tools that generate d"
-publishedDateTime: 2023-10-24T23:10:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/ai-generated-child-sexual-abuse-images-flood-internet-104264515"
-webUrl: "https://abcnews.go.com/Technology/wireStory/ai-generated-child-sexual-abuse-images-flood-internet-104264515"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-generated-child-sexual-abuse-images-flood-internet-104264515"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-generated-child-sexual-abuse-images-flood-internet-104264515"
+excerpt: "A new report warns that the proliferation of child sexual abuse images on the internet could become much worse if something is not done to put controls on artificial intelligence tools that generate deepfake photos."
+publishedDateTime: 2023-10-25T03:30:00Z
+originalUrl: "https://www.clickondetroit.com/business/2023/10/24/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
+webUrl: "https://www.clickondetroit.com/business/2023/10/24/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
 type: article
-quality: 44
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: clickondetroit.com
+  domain: clickondetroit.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_c8f17de56d41f05f55286eb6177138d2_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/H7FYZHX46FHA3DHODXQC4OWGV4.jpg?_a=ATAPphC0"
+    width: 700
+    height: 467
     isCached: true
 
 related:
@@ -57,6 +56,6 @@ related:
         height: 630
         isCached: true
 
-secured: "UPB6UTLaEchBA6MZKAIT0vQN7k0tnhUFK8tHXGhk8Vw1Eeuj/qQ4znHufNICHKcWJ5sp2JuEeA3jWhRnRqen19UEdXLOzNPj6F3Q7nqfZmdvrfAQPKM7K+0Ts/jECo16TYBNF7qla0hUo8n4j3jkuLVUibFBwu/9NYiVOWKXdf+AEzg2CCkQGo2vSW5sLpub6+swxgDt6QqFNIJUHc0G9qBR37zXeqdwaLCW3P2LBdBFLt6+dL+q9G88sU72QcMEVgWqOYAhD+itQJkHA/WWmM/FZCgvq7dQ6+ppcgaLVuQmPzP3LcZQD15tcPQMZJUAE8AM/kX8wLx6lYx0ZuyzUtqdd5OCBP2lU6MpuOJERIM=;0OKFM2FTiNTO3omh2EtOpg=="
+secured: "J3359P3Mk7U3Wk1kbU5RTDpgIRY9m4iW+UYhLornEOFLh5+74wi7+ufcHIKou2J0OZof2yUXSlwOPZBFKn/nWz+t9q5oas+7BTrEj7UJiAkhk1eHF8s1Q2TbVzgv1/B26bRYcatO0E5oP+Jl211VHcA8f31MQkf+DB8AAn0TwvcWy++aIWjRNmYHv+v4y4Oo25P5PNFRgeTkzBjbaOxW9b/+AROj/TxYUt3XvIQFnXqGPxK1ZRfOIj2xkrCmLqkEQHbpFPDQ3Ck/Sp+yEy2P276rHD4Am3yc79hs5zdGF2hAqrmOIPQuFxb+Yvm6gEuV2NSv1jytoBAyy4Emcy67SjhkwWdyVoMu7wwW8GKQIAI=;yoSlMr8REZXsZ4ezREyxUA=="
 ---
 

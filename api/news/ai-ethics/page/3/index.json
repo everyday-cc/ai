@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-09-20-why-managers-must-consider-ethics-when-upskilling-with-ai.md",
-      "title": "Why managers must consider ethics when upskilling with AI",
-      "excerpt": "Not another article about AI!’ I hear you say. Many of us are feeling a level of fatigue when it comes to this topic, such is its prevalence -",
-      "sourceUrl": null,
-      "webUrl": "https://www.trainingzone.co.uk/lead/strategy/why-managers-must-consider-ethics-when-upskilling-with-ai",
-      "originalUrl": "https://www.trainingzone.co.uk/lead/strategy/why-managers-must-consider-ethics-when-upskilling-with-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.trainingzone.co.uk/sites/default/files/istock-1273822907.jpg",
-          "width": 1335,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.trainingzone.co.uk/lead/strategy/why-managers-must-consider-ethics-when-upskilling-with-ai?amp",
-      "cdnAmpWebUrl": "https://www-trainingzone-co-uk.cdn.ampproject.org/c/s/www.trainingzone.co.uk/lead/strategy/why-managers-must-consider-ethics-when-upskilling-with-ai?amp",
-      "publishedDateTime": "2023-09-20T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Training Zone",
-        "domain": "trainingzone.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-20-you-and-ai-techs-role-in-the-world-of-health-care.md",
       "title": "You and AI: Tech's role in the world of health care",
       "excerpt": "“Artificial intelligence, it can be a great friend, but it also can be something that can harm us,” said Dr. Marshall Chin, Richard Parrillo Family Professor of Healthcare Ethics in the Department of Medicine at the University of Chicago. Chin is an ...",
@@ -1431,6 +1388,50 @@
         "AI Ethics",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-09-03-bridging-the-human-ai-coexistence-ethical-landscape.md",
+      "title": "Bridging the human-AI coexistence ethical landscape",
+      "excerpt": "Language translation: AI language translation services can help humans communicate across language barriers, but they still require human oversight to ensure accuracy and cultural sensitivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-bridging-the-human-ai-coexistence-ethical-landscape-3230866/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-bridging-the-human-ai-coexistence-ethical-landscape-3230866/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design209.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-bridging-the-human-ai-coexistence-ethical-landscape-3230866/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-bridging-the-human-ai-coexistence-ethical-landscape-3230866/lite/",
+      "publishedDateTime": "2023-09-02T21:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

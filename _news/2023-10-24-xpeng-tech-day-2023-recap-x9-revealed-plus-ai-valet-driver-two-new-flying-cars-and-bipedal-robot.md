@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/10/24/xpeng-tech-day-2023-recap-x9-ai-val
 webUrl: "https://electrek.co/2023/10/24/xpeng-tech-day-2023-recap-x9-ai-valet-driver-adas-flying-cars-bipedal-robot/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Xpeng Tech Day 2023: first MPV, self-driving timeline, flying cars, and humanoid robots"
+    excerpt: "You can drive the seven-seater, three-row X9 “just like” a regular-sized sports utility vehicle, said CEO He Xiaopeng."
+    publishedDateTime: 2023-10-25T10:21:00Z
+    webUrl: "https://technode.com/2023/10/25/xpeng-tech-day-2023-first-mpv-self-driving-timeline-flying-cars-and-humanoid-robots/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 16
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/10/X9-31-e1698229198346.jpg"
+        width: 2000
+        height: 1246
+        isCached: true
   - title: "XPENG Hosts its 2023 TECH DAY: Advancing Leadership in Intelligent Driving and AI-defined Mobility"
     excerpt: "XPENG has been consistently exploring innovative forms of mobility beyond just cars. XPENG's affiliate company AEROHT has released two development paths for flying cars, namely eVOTL flying cars and modular flying cars, adding more possibilities to XPENG's mobility ecosystem."
     publishedDateTime: 2023-10-24T15:06:00Z

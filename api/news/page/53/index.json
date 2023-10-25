@@ -2,6 +2,40 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-09-15-nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog.md",
+      "title": "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready … – NVIDIA Blog",
+      "excerpt": "NVIDIA today announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/717055/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog/",
+      "originalUrl": "https://www.inferse.com/717055/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-15T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-team-bidens-conga-line-to-china-woke-ai-and-more-from-fox-news-opinion.md",
       "title": "Team Biden's conga line to China, woke AI, and more from Fox News Opinion",
       "excerpt": "FOX News host Sean Hannity argues that the system is rigged and it has always been about protecting Joe Biden in his opening monologue. HANNITY – Fox News host argues that the system is rigged and it has always been about protecting Joe Biden. Continue watching…",
@@ -1110,49 +1144,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-shares-of-ai-chip-designer-arm-jump-25-after-largest-ipo-in-nearly-two-years.md",
-      "title": "Shares of AI chip designer Arm jump 25% after largest IPO in nearly two years",
-      "excerpt": "After a nearly two-year drought in the IPO market, UK-based chip designer Arm made a successful Nasdaq debut on Thursday, finishing the day 25% higher and landing the company with a market cap of around $65 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/09/14/investing/arm-ipo-nasdaq/index.html",
-      "originalUrl": "https://www.cnn.com/2023/09/14/investing/arm-ipo-nasdaq/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-14T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

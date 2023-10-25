@@ -2,6 +2,49 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-10-04-fintech-unicorn-slice-to-merge-with-a-small-finance-bank-karnataka-doubles-down-on-gaming-gst.md",
+      "title": "Fintech unicorn Slice to merge with a small finance bank; Karnataka doubles down on gaming GST",
+      "excerpt": "Credit card and payments unicorn Slice is all set for its banking foray as it prepares to merge with North East Small Finance Bank (NESFB).",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/articleshow/104162928.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/articleshow/104162928.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/msid-104160797,width-280,height-210,imgsize-36962/what-is-aap-mp-sanjay-singhs-link-to-the-delhi-excise-policy-case.jpg",
+          "width": 280,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/amp_articleshow/104162928.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/amp_articleshow/104162928.cms",
+      "publishedDateTime": "2023-10-04T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-google-assistant-is-finally-getting-the-ai-upgrades-it-deserves-heres-whats-new.md",
       "title": "Google Assistant is finally getting the AI upgrades it deserves. Here's what's new",
       "excerpt": "Voice assistants were the pinnacle of AI about a decade ago, but with the rise of generative AI, they have remained somewhat obsolete. Despite needing an upgrade, Google has neglected its voice assistant to pursue more ambitious projects like its Google Bard chatbot -- until now.",
@@ -1113,49 +1156,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-chinese-tech-startups-are-testing-self-driving-cars-on-california-roads.md",
-      "title": "Chinese tech startups are testing self-driving cars on California roads",
-      "excerpt": "Tony Peng, a spokesperson for Baidu’s Apollo ... of stealing proprietary information about self-driving technology while applying to a “China-based autonomous vehicle company,” which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/chinese-tech-startups-testing-self-180000843.html",
-      "originalUrl": "https://www.aol.com/chinese-tech-startups-testing-self-180000843.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/XoyhSfVQzxd3pw.SehMd0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/aba6c86ae36cb91b02dbe453d626ca89",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/chinese-tech-startups-testing-self-180000843.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/chinese-tech-startups-testing-self-180000843.html",
-      "publishedDateTime": "2023-10-03T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

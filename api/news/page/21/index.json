@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-10-10-artificial-intelligence-in-talent-acquisition-how-machine-learning-is-influencing-recruitment.md",
+      "title": "Artificial Intelligence In Talent Acquisition: How Machine Learning Is Influencing Recruitment",
+      "excerpt": "The fusion of new AI and ML technologies has reshaped recruitment, replacing outdated methods with data-driven approaches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/artificial-intelligence-in-talent-acquisition-how-machine-learning-is-influencing-recruitment/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/artificial-intelligence-in-talent-acquisition-how-machine-learning-is-influencing-recruitment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65202b2df0674311519d4b1f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/artificial-intelligence-in-talent-acquisition-how-machine-learning-is-influencing-recruitment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/10/artificial-intelligence-in-talent-acquisition-how-machine-learning-is-influencing-recruitment/amp/",
+      "publishedDateTime": "2023-10-10T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-aws-releases-cloud-institute-virtual-program-to-train-developers.md",
       "title": "AWS releases Cloud Institute virtual program to train developers",
       "excerpt": "In an effort to reduce the scarcity of trained cloud developers, AWS is releasing a new virtual program, dubbed Cloud Institute. AWS Cloud Institute, which is a one-year program with 12 different courses spread across four quarters, has been designed by ...",
@@ -1135,49 +1187,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-hlth-2023-bringing-ai-to-health-responsibly.md",
-      "title": "HLTH 2023: Bringing AI to health responsibly",
-      "excerpt": "Google leaders take the stage at HLTH to discuss the transformative power of AI for health.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/hlth-2023-bringing-ai-to-health-responsibly/",
-      "originalUrl": "https://blog.google/technology/health/hlth-2023-bringing-ai-to-health-responsibly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

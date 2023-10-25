@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp"
 type: article
 quality: 57
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://c.ndtvimg.com/2023-10/ofuvd51_monica-powers-salvatore-aiello_625x300_23_October_23.jpg"
         width: 1200
         height: 738
+        isCached: true
+  - title: "How AI, like ChatGPT and Bard, are changing education"
+    excerpt: "To learn more about how AI could affect education, we spoke with the former chief digital officer for New York City, the Met museum and Columbia University."
+    publishedDateTime: 2023-10-24T14:40:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/how-ai-like-chatgpt-and-bard-are-changing-education/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 54
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/24/e829742b-af85-4107-90d6-be35ca206d19/thumbnail/1200x630/db30b49e80763a7322e5c83f39e1dc9f/a2bc5f7596314e70ebc61c3562e21e7f-0-1698157475482.png?v=4fae59acf57b6bb1efa9da07582ebc40"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Two Friends Built Dh600 AI Start-Up Using Chatgpt, Sell It For Dh550,000"
     excerpt: "Two budding entrepreneurs and friends took help from ChatGPT and built a start-up with just a modest investment of $185 (Dh600), reported CNBC. The"

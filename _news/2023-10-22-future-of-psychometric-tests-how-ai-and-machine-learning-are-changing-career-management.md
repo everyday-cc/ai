@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-fut
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/lite/"
 type: article
 quality: 65
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Financial Express
@@ -27,33 +27,44 @@ images:
     isCached: true
 
 related:
-  - title: "How AI, like ChatGPT and Bard, are changing education"
-    excerpt: "To learn more about how AI could affect education, we spoke with the former chief digital officer for New York City, the Met museum and Columbia University."
-    publishedDateTime: 2023-10-24T14:40:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/how-ai-like-chatgpt-and-bard-are-changing-education/"
+  - title: "Harnessing AI To Streamline Identity Management"
+    excerpt: "While generative artificial intelligence can help boost IAM’s capabilities, there are challenges and limitations to keep in mind as well."
+    publishedDateTime: 2023-10-25T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing-ai-to-streamline-identity-management/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing-ai-to-streamline-identity-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing-ai-to-streamline-identity-management/amp/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/24/e829742b-af85-4107-90d6-be35ca206d19/thumbnail/1200x630/db30b49e80763a7322e5c83f39e1dc9f/a2bc5f7596314e70ebc61c3562e21e7f-0-1698157475482.png?v=4fae59acf57b6bb1efa9da07582ebc40"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1200
-        height: 630
+        height: 900
         isCached: true
-  - title: "Using AI and satellites to measure carbon"
-    excerpt: "Part of the ITN Business programme ‘ Carbon Markets: The Power of Data & Innovation ’, made in partnership with the Climate Action Data Trust (CAD Trust)"
-    publishedDateTime: 2023-10-25T09:21:00Z
-    webUrl: "https://www.newscientist.com/article/2399095-using-ai-and-satellites-to-measure-carbon/"
+  - title: "How To Fill The Looming AI Talent Gap"
+    excerpt: "For even a casual reader of the news, it would be impossible to miss the fact that generative AI is a big part of this transformation."
+    publishedDateTime: 2023-10-23T19:36:00Z
+    webUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/10/23/how-to-fill-the-looming-ai-talent-gap/"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Fintech Extend Adds AI-enhanced Receipt Matching for Streamlined Expense Management, Reconciliation"
+    excerpt: "Extend reportedly uses AI in order “to extract merchant name ... online lending, and other forms of Fintech. Join Crowdfund Insider, the CanadianSecuritiesExchange (CSE), OTC Markets, andcrowdfunding provider DealMaker tolearn about raising ..."
+    publishedDateTime: 2023-10-20T21:55:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/214621-fintech-extend-adds-ai-enhanced-receipt-matching-for-streamlined-expense-management-reconciliation/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 25
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/10/25100539/cad-trust_-gait-global-6.png"
-        width: 1920
-        height: 1080
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Expenses-Receipts-Bills-Payment-Time.jpeg"
+        width: 1133
+        height: 1280
         isCached: true
 
 secured: "Sp4Q7ajwDzEsr92NE9HKtdR9gNhvoh3Qq13UbZWZiqJjun+n0OSi4STv4M3GFxLDO8+evzF2NccEtfnsPgmY/6C+YTXFHsx/Wxcxli4OCywGr940/bKw1LCSAC7ImrTXWWQtSAt1Fz+qQJIU2sTIimcnkZEC6WqCTp55V6wwz18u+ltZMhRd7u2CrZtpKePylUxY+9prFgCtWw+oMM0VoBcKXwloWPfLzKSRb0hzoAFZcKRlRpz7RlS+KJNHMbbrEvM16zUGHBBJYCSv4x9f8VRBNEUbI47keTgabWydXXPsay5l/URTr+Z2JaWCRz4fk74FYfEGTAzvHvEf10admBewNzdu6IRL8CBswNUqJGzYUFyH+ZrzKt0BWLSv4NPvDcl5Jof3q+Bsfh8OTJvS6LHBAkENxRA3j80mZNM/eBaHUiLVnVU1PlWwe7mb6aLWtBNzpwxCVdxrIKIFUpQUmmnASyrncZa6UXz2mxP5fYfY7jpQBuirEqT0vE0FZef52LTRfKJjY125YLpbm47OFQ==;PzwSyo7cM73MNyyUq2lIjw=="

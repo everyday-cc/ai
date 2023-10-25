@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-24-ibm-consulting-accelerates-the-future-of-finops-collaboration-with-apptio.md",
+      "title": "IBM Consulting accelerates the future of FinOps collaboration with Apptio",
+      "excerpt": "By acquiring Apptio Inc., IBM has empowered clients to unlock additional value through the seamless integration of Apptio and IBM.\nThe post IBM Consulting accelerates the future of FinOps collaboration with Apptio appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-consulting-accelerates-the-future-of-finops-collaboration-with-apptio/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-consulting-accelerates-the-future-of-finops-collaboration-with-apptio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T07:48:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-can-a-family-office-backed-acquisition-save-the-healthcare-system.md",
+      "title": "Can A Family Office-Backed Acquisition Save The Healthcare System?",
+      "excerpt": "The economy poses various difficulties for dermatologists and their patients. Many medical practices seek to provide top-notch care while maintaining their independence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652fd94056997d1ea347967a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 640,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/amp/",
+      "publishedDateTime": "2023-10-24T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-24-how-new-voice-technologies-will-change-the-way-we-live-and-do-business.md",
       "title": "How New Voice Technologies Will Change The Way We Live And Do Business",
       "excerpt": "How will new voice technologies change the way we live and do business? Answer by Tobias Dengel, President at WillowTree, a TELUS International Company",
@@ -632,6 +726,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-24-microsoft-earnings-preview-azure-cloud-segment-in-focus.md",
+      "title": "Microsoft earnings preview: Azure cloud segment in focus",
+      "excerpt": "Investing.com - Microsoft Corporation (NASDAQ:MSFT) is set to announce its quarterly earnings after the market closes on Tuesday, with Wall Street keenly watching for indications that the company's substantial investments in artificial intelligence (AI) have been beneficial to its pivotal Azure cloud computing division.",
+      "sourceUrl": null,
+      "webUrl": "https://au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816",
+      "originalUrl": "https://au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AM_L.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816?ampMode=1",
+      "cdnAmpWebUrl": "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816?ampMode=1",
+      "publishedDateTime": "2023-10-23T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-24-google-bard-ai-appears-to-be-censoring-israel-palestine-prompt-responses.md",
       "title": "Google Bard AI appears to be censoring Israel-Palestine prompt responses",
       "excerpt": "Bard won't respond to user queries or prompts about the ongoing crisis in Israel and Palestine over the October 7 Hamas terror attacks.",
@@ -969,7 +1106,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/from-text-to-dream-job-building-an-nlp-based-job-recommender-at-talent-com-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1046,161 +1183,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-samsung-allegedly-wants-the-galaxy-s24-to-be-the-smartest-ai-smartphone-ever.md",
-      "title": "Samsung allegedly wants the Galaxy S24 to be the 'smartest AI smartphone ever'",
-      "excerpt": "An unnamed source says that Samsung wants to one up Google and turn the S24 series into the \"smartest AI smartphones ever.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/samsung-galaxy-s24-ai-3378731/",
-      "originalUrl": "https://www.androidauthority.com/samsung-galaxy-s24-ai-3378731/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/01/samsung-galaxy-s23-series-lined-up-ports-pink.jpg",
-          "width": 1920,
-          "height": 1081,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates.md",
-      "title": "DOJ subpoenas Tesla in probes of AutoPilot and driving range estimates",
-      "excerpt": "According to Reuters, demand for Tesla vehicles could drop if interest rates keep rising, and Tesla could incur further losses if pressure remains to decrease prices to remain competitive. That's partly why Tesla shareholders have pushed Musk to consider investing more in advertising efforts that could spike demand.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1250863346-800x534.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/amp/",
-      "publishedDateTime": "2023-10-23T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report.md",
-      "title": "Stanford researchers challenge OpenAI, others on AI transparency in new report",
-      "excerpt": "The researchers behind the Foundation Model Transparency Index research paper include primary author Rishi Bommasani, a PhD candidate in computer science at Stanford, and also Kevin Klyman, Shayne Longpre, Sayash Kapoor, Nestor Maslej, Betty Xiong, and Daniel Zhang.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_windshield_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/amp/",
-      "publishedDateTime": "2023-10-23T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

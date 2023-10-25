@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/10/23/were-buying-more-shares-of-this-em
 webUrl: "https://www.cnbc.com/2023/10/23/were-buying-more-shares-of-this-emerging-ai-company-on-shortsighted-weakness.html"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Adobe Shares a Sneak Peek of New AI Dubbing Feature"
+    excerpt: "Adobe has framed the feature as enabling “brands to be able to build trust with international audiences”, with Jin describing the auto-dubbing option as a means for content creators to get more views, by “getting content to people who do not speak the language of the video.”"
+    publishedDateTime: 2023-10-25T10:05:00Z
+    webUrl: "https://slator.com/adobe-shares-sneak-peek-new-ai-dubbing-feature/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
 
 secured: "xYbOAoSozf82bRMcHlJDBgTNSLf3UheFjQWn5kNZhPwJGrDGU66Hur0zDajjm/8GXFeYzqPUvZA1zEl97Dfv9jrmsByH6CHWOivEomdXNw/O/iZuztcMOTgzW6BITJncg9TuJFWLoWQ+9MD990hcMhB/QfhBZ8Jyd8SIua0D3MlI9VR2qDDAtGlJsQxQRItFV4riwwfOvdEQbpWum0m98zDyQoJ6ydICF/Qxix0sh8s0HTUy4eBhYxKbNl8wAG+sIbQWHxElZl7cAKFDDFoTcLvynR0+T5GdqOMVwHy262hS3R4P315W9jWhhtOGTmwpfUOZ5SxisWzyulKeq4y4WeBahCEKv/dIh3gR61v+eLXhNb6kxeivXWzxLhC4FvzuRhMI1unaalG6ig/gkPe8xlbB7TMjUte7iESGQUrpiuW8Gm0xd6x3sgBSU78q7qvRI7XJTrYigqJOsb7TtBeCG+5Fd8rPJbwl0kZd2SVFiK+hjB3onmyejX9LTMq4qmHcEsQkrqQwBDB7VXYcX4bTsA==;vOYCmfvMgUUCq1KvTGMUGg=="
 ---

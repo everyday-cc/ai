@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/autonomous-vehicles-the-promise-and-perils
 webUrl: "https://techbullion.com/autonomous-vehicles-the-promise-and-perils-of-self-driving-car-technology-introduction/"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "What Do You Think of Self-Driving Cars?"
-    excerpt: "What Do You Think of Self-Driving Cars? As the world of autonomous vehicles continues to evolve, we sought the insights of twenty industry leaders and professionals, including CEOs and founders, on the topic of self-driving cars."
-    publishedDateTime: 2023-10-20T18:48:00Z
-    webUrl: "https://techbullion.com/what-do-you-think-of-self-driving-cars/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 26
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/What-Do-You-Think-of-Self-Driving-Cars-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "E9CZzNFsa9yPDtgA+q+cfO/wQHOrDiDAwx4NPGRcV9CNQT3x4iw7kO0BnsMekrS/+d7dGulWCx5PyB9IlPvEkyqh+6XrV/GtyQFXdUI80Jt7rAYX1cmRHj4aiJ6KEziQF57NoDuydaE583tt/Tv8yEBHy5DD27GXKpo5hvISFTmqeXe1ZM0iudDsfEehpalwtPX4YedKH1Wdgh0TbI8cCCwhztPH2ieW6oqSiYeTtT39XWw3dg3nStVqaZ07G1turwlsVDpEF75qRZQEnscRW9YVIKOoJL3j2pgQLVYEAAt0NyOcgnr06voDzOZFkFIVW26XhPzZDLWTl/4CvBDN65OKP+pUnRep0aliZ+Zx161ieB/WOVdLwELR21srHFXWPbiYiEoEJG8IlKhsM2MTKdrdPWE3nj1cDaqiWoEsrnFnR0qbN13MJuesyH88MpEVu4jWpw0gL78q7wfxxuK+14tikXy088qUm7HUz4YYJ/NFx7vqn1v6l8YUYJhhjBlE3B7d8fZTEeDlUsmawQwQuw==;X9+L3TomVNn0CCRqSsonzg=="
 ---

@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "How AI, like ChatGPT and Bard, are changing education"
+    excerpt: "To learn more about how AI could affect education, we spoke with the former chief digital officer for New York City, the Met museum and Columbia University."
+    publishedDateTime: 2023-10-24T14:40:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/how-ai-like-chatgpt-and-bard-are-changing-education/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 54
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/24/e829742b-af85-4107-90d6-be35ca206d19/thumbnail/1200x630/db30b49e80763a7322e5c83f39e1dc9f/a2bc5f7596314e70ebc61c3562e21e7f-0-1698157475482.png?v=4fae59acf57b6bb1efa9da07582ebc40"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Two Friends Built Dh600 AI Start-Up Using Chatgpt, Sell It For Dh550,000"
     excerpt: "Two budding entrepreneurs and friends took help from ChatGPT and built a start-up with just a modest investment of $185 (Dh600), reported CNBC. The"
     publishedDateTime: 2023-10-23T20:32:00Z
@@ -145,6 +159,6 @@ related:
       domain: khaleejtimes.com
     quality: 16
 
-secured: "iljCxh7Wx6yFNs3th07UpSdj0i7HEe+794vrWaR0SP0YAJvA+/8FGh4V1ZrlomHxqL0a6rfCR/6jMqmtVI6dquaeHK9S2ff2dJU7wr+rkiNPw40HVH4pm16MM/E5fNjYUCaaSNUxVyvENOQROuyMJMrq9wA60x1mrY1XSg/PCb/mLBXPni8wYXsE5niMzybOyE1uDca6XdORslFeXw0qBcZ8Eesys6W/Z3umhZHc3hvgIef4r+CLQsF9Gt8XMUIti7zZdkrjR/6NdPWBXxzZ+G3CttHZn2vs9Kc+RS0SelHlV4czE/jdShpDu4nmwSjYsvlDObFkdIhGsHNcff2qU9WCCZgOpNNI7qP45PERA+E=;KgEX5PSbVcuJX6JdcmQnnA=="
+secured: "z9LzOTYhiAX3kO4DNoYbs3SpapFJfZyMUElOT5+6B1CXllvJAc6hRusDff/OpvTSj042zIX1RvYi8ISaodnXpgShNanGYGCo3szUXxEklsHeNRAawFz2zuNDXmeNLUC39OrANKjSYmGPLId2z0vznKH/pqCmPhTT3EYtDCzg+cpX4Q8og+6BXWWARcydptbXwY5jR18TcUVj4gKJKNcTfyRsqJMxof5YLMCIQUGxn4i/uovaSh6dwLiRzcttHnWvL9FKyZiLiiPi9h8ble20PZCVc/+9tun/UipMftjlb+4G+GXoPc3bYS9x5qldP+uh5HZC56C4MVlWPJtoFXfuk2klh0Vn063fdL79x0L/fDCZFbaA79W1OtPmBRBHIrrF/mUUbt8BrAKi61TE08ppBEtZ9kDoXkpv+uJvDwADkkg5G7mBQICtodOdtnZSF/kTdC61vEK9BzN4cHh9+gNaOuC5VC04l3sMj6Uk9S+HX6jcI9KNrcb9wfJk5ofpIE3gLb6NkJOp/nEfXzdkPWdvbg==;HfQXnkYvEg5E4xfx0iHJdg=="
 ---
 

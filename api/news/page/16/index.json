@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-10-12-addressing-ethical-issues-in-integrating-ai-systems-expert-opinion-of-intetics-ceo-and-president.md",
+      "title": "Addressing Ethical Issues in Integrating AI Systems: Expert Opinion of Intetics CEO and President",
+      "excerpt": "In the new article, Intetics CEO and President examines the consequences of the integration of AI and ethics. By referring to Isaac Asimov's Three Laws of Robotics, the importance of ethical concerns in AI and the conflicts that may arise from them are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/g35224314/addressing-ethical-issues-in-integrating-ai-systems-expert-opinion-of-intetics-ceo-and-president",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/g35224314/addressing-ethical-issues-in-integrating-ai-systems-expert-opinion-of-intetics-ceo-and-president",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35224314",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35224314",
+      "publishedDateTime": "2023-10-12T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-new-ways-to-get-inspired-with-generative-ai-in-search.md",
       "title": "New ways to get inspired with generative AI in Search",
       "excerpt": "We’re testing new ways to get started on something you need to do — like creating an image that can bring an idea to life, or a written draft when you need a starting po…",
@@ -1129,57 +1172,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-adobe-unveils-firefly-2-and-previews-more-ai-features-what-you-need-to-know.md",
-      "title": "Adobe unveils Firefly 2 and previews more AI features: what you need to know",
-      "excerpt": "Adobe is allowing companies to customize and fine-tune Firefly for their needs, and control how their employees use it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/adobe-unveils-firefly-2-and-previews-more-ai-features-what-you-need-to-know/",
-      "originalUrl": "https://venturebeat.com/ai/adobe-unveils-firefly-2-and-previews-more-ai-features-what-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/Firefly-A-field-full-of-fireflies-atop-a-city-building-67568.jpg?w=1200&strip=all",
-          "width": 1199,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T16:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

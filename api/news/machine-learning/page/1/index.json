@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-10-22-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management.md",
-      "title": "Future of psychometric tests: How AI and machine learning are changing career management",
-      "excerpt": "Embracing AI and ML in career management is not just a trend; it’s a strategic advantage in today’s fast-paced world of work. However, the synergy between psychometric tests and AI and Machine Learning can lead to more informed and well-rounded decisions in an increasingly data-driven world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design299.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/lite/",
-      "publishedDateTime": "2023-10-22T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-21-gartner-it-symposiumxpo-impact-of-generative-ai-on-the-human-machine-relationship.md",
       "title": "Gartner IT Symposium/Xpo: Impact of Generative AI on the Human-Machine Relationship",
       "excerpt": "Gartner AI experts and Distinguished VP Analysts address the human-machine relationship and best practices for business leaders in the new AI era.",
@@ -1375,6 +1332,40 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-3-mighty-machine-learning-stocks-that-will-make-early-investors-rich.md",
+      "title": "3 Mighty Machine Learning Stocks That Will Make Early Investors Rich",
+      "excerpt": "The post 3 Mighty Machine Learning Stocks That Will Make Early Investors Rich appeared first on InvestorPlace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-mighty-machine-learning-stocks-that-will-make-early-investors-rich",
+      "originalUrl": "https://www.nasdaq.com/articles/3-mighty-machine-learning-stocks-that-will-make-early-investors-rich",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

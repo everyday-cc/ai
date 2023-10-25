@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 147
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microchip Breakthrough Could Reshape Future of AI"
-    excerpt: "A prototype microchip design that was revealed today by IBM could pave the way for a world of much smarter devices that don't rely on the cloud or even the Internet for their intelligence."
-    publishedDateTime: 2023-10-20T17:20:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/microchip-breakthrough-could-reshape-future-of-ai"
-    ampWebUrl: "https://www.govtech.com/artificial-intelligence/microchip-breakthrough-could-reshape-future-of-ai?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/microchip-breakthrough-could-reshape-future-of-ai?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/ec3b0df/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fda%2Fa8%2F0c87e301526b36795a4a5107dcde%2Fshutterstock-592729892.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Artificial intelligence predicts the future of artificial intelligence research"
     excerpt: "It has become nearly impossible for human researchers to keep track of the overwhelming abundance of scientific publications in the field of artificial intelligence and to stay up-to-date with advances."
     publishedDateTime: 2023-10-23T13:53:00Z
@@ -71,15 +55,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "Chicago AI Conference 2023: Shaping The Future Of Finance With Responsible AI"
-    excerpt: "Chicago AI Conference Speakers The Chicago AI Conference, organized by the AI 2030 Initiative, FinTech4Good and co-host"
-    publishedDateTime: 2023-10-20T18:43:00Z
-    webUrl: "https://menafn.com/1107278575/Chicago-AI-Conference-2023-Shaping-The-Future-Of-Finance-With-Responsible-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 33
   - title: "How AI is reshaping the financial technology landscape"
     excerpt: "Indeed, artificial intelligence (AI) and machine learning (ML) are increasingly collaborating in solutions, especially in the realm of fintech - and, when they do, the benefits seem unstoppable as this guide explains. AI and SMEs unveiled Years ago ..."
     publishedDateTime: 2023-10-24T11:06:00Z
@@ -98,15 +73,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Artificial intelligence predicts the future of artificial intelligence research"
-    excerpt: "In the field of artificial intelligence (AI) and machine learning (ML), the number ... We curated a list with the (what we think) 10 best robotics and AI podcasts - check them out! Also check out our Smartworlder section with articles on all kinds of ..."
-    publishedDateTime: 2023-10-20T18:54:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63898.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 15
   - title: "Navigating the Future of Fintech: 5 Platforms Shaping Private Market Investment Strategies"
     excerpt: "The private market investment landscape is rapidly evolving, with new platforms and technologies driving change. These platforms play a crucial role in helping businesses and investors make informed decisions."
     publishedDateTime: 2023-10-23T10:42:00Z

@@ -40,6 +40,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "How Generative AI Changes The Way We Work"
+    excerpt: "GenAI’s potential extends beyond mere content generation. Consider warehouses, where delivery notes need to be matched with orders. It can automate this process, reducing manual labor. Productivity is also increased when AI is used for invoice and payment matching, making it faster, more efficiently, and error resistant."
+    publishedDateTime: 2023-10-25T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/10/25/how-generative-ai-changes-the-way-we-work/"
+    ampWebUrl: "https://www.forbes.com/sites/sap/2023/10/25/how-generative-ai-changes-the-way-we-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/10/25/how-generative-ai-changes-the-way-we-work/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6538066a9563650cb3228f03/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1402
+        height: 900
+        isCached: true
   - title: "How Companies Can Embrace Generative AI’s Superpowers"
     excerpt: "Today, generative AI is no longer the elusive domain of tech giants. Even small businesses can afford to use its superpowers."
     publishedDateTime: 2023-10-23T11:01:00Z
@@ -175,20 +191,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "With Generative AI Advances, The Time to Tackle Responsible AI Is Now"
-    excerpt: "In 2022, companies had an average of 3.8 AI models in production. Today, seven in 10 companies are experimenting with generative AI, meaning that the number of AI models in production will skyrocket over the coming years."
-    publishedDateTime: 2023-10-20T17:09:00Z
-    webUrl: "https://www.unite.ai/with-generative-ai-advances-the-time-to-tackle-responsible-ai-is-now/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/10/responsible-AI-1000x600.png"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "‘AI, digital tools make agrifood systems climate-resilient’"
     excerpt: "All the speakers additionally highlighted the importance of responsible use and ethics of these tools and FAO’s Martin recalled the Organization’s signing of the Rome Call for AI Ethics, a document that supports a transparent, inclusive, responsible ..."
     publishedDateTime: 2023-10-22T16:14:00Z

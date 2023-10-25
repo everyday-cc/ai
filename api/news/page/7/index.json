@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-10-19-north-korea-experiments-with-ai-in-cyber-warfare-us-official.md",
+      "title": "North Korea experiments with AI in cyber warfare: US official",
+      "excerpt": "North Korea is escalating its cyber capabilities by harnessing the power of artificial intelligence (AI), according to Deputy National Security Advisor Anne Neuberger.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/north-korea-experiments-with-ai-in-cyber-warfare-us-official/",
+      "originalUrl": "https://venturebeat.com/ai/north-korea-experiments-with-ai-in-cyber-warfare-us-official/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/nuneybits_North_Korean_flag_surrounded_by_computer_code_76aff6aa-f5a5-4a56-b419-52cda6c9feb1-transformed.png?fit=750%2C600&#038;strip=all",
+          "width": 750,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities.md",
       "title": "Mozn and UAE-based Astra Tech partner to fortify fintech security via AI-capabilities",
       "excerpt": "UAE - AI powerhouse Mozn, a leader in enterprise AI technologies, has inked a partnership with Astra Tech, a UAE-based tech company. This alliance aims to strengthen their joint ability to tackle unique compliance challenges in local and global markets while setting a course for international expansion.",
@@ -1167,49 +1218,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-amazon-revamps-warehouses-with-robots-ai-to-reduce-delivery-times.md",
-      "title": "Amazon revamps warehouses with robots, AI to reduce delivery times",
-      "excerpt": "Amazon will add a slew of new robotics and artificial intelligence-technologies into its warehouses in an effort to reduce delivery times and speed up inventory operations, the e-commerce behemoth said Wednesday. The high-tech upgrade — which debuted at ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/10/18/amazon-revamps-warehouses-with-robots-to-reduce-delivery-times/",
-      "originalUrl": "https://nypost.com/2023/10/18/amazon-revamps-warehouses-with-robots-to-reduce-delivery-times/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000061798828.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/10/18/amazon-revamps-warehouses-with-robots-to-reduce-delivery-times/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/10/18/amazon-revamps-warehouses-with-robots-to-reduce-delivery-times/amp/",
-      "publishedDateTime": "2023-10-18T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

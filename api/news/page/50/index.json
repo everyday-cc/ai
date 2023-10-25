@@ -2,6 +2,57 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-09-18-bird-buddy-the-ai-powered-bird-feeder-startup-now-lets-anyone-use-its-app-to-birdwatch.md",
+      "title": "Bird Buddy, the AI-powered bird feeder startup, now lets anyone use its app to birdwatch",
+      "excerpt": "Bird Buddy, the startup behind multiple AI-powered smart bird feeders, including the recently announced smart Hummingbird Feeder and Bird Bath, is today",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/18/bird-buddy-the-ai-powered-bird-feeder-startup-now-lets-anyone-use-its-app-to-birdwatch/",
+      "originalUrl": "https://techcrunch.com/2023/09/18/bird-buddy-the-ai-powered-bird-feeder-startup-now-lets-anyone-use-its-app-to-birdwatch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/09/bird-buddy-explore.jpeg?resize=1200,686",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/18/bird-buddy-the-ai-powered-bird-feeder-startup-now-lets-anyone-use-its-app-to-birdwatch/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/18/bird-buddy-the-ai-powered-bird-feeder-startup-now-lets-anyone-use-its-app-to-birdwatch/amp/",
+      "publishedDateTime": "2023-09-18T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-18-netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence.md",
       "title": "Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence",
       "excerpt": "Prime Minister Benjamin Netanyahu is starting a U.S. trip in California to talk about technology and artificial intelligence with billionaire businessman Elon Musk. The Israeli leader posted ...",
@@ -1102,57 +1153,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-chinas-ai-applications-are-coming-where-it-matters-for-monetization.md",
-      "title": "China's AI applications are coming — where it matters for monetization",
-      "excerpt": "Chinese companies are making announcements about artificial intelligence again – this time about applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-where-it-matters-for-monetization.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-where-it-matters-for-monetization.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107270651-16891871352023-07-12t065357z_76281055_rc2gx1amogo7_rtrmadp_0_china-regulation-ai.jpeg?v=1694969202&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-17T20:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

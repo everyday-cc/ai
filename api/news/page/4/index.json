@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-23-khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills.md",
+      "title": "Khan Academy: An AI Revolution In Education Or Threat To Human Skills?",
+      "excerpt": "Khan Academy has built a teaching assistant that uses a Socratic approach to engage with students. In its own words “Unlike traditional AI, which is often analytical, introverted, direct, and eager to please,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2023/10/23/khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills/",
+      "originalUrl": "https://www.forbes.com/sites/charlestowersclark/2023/10/23/khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6536297c3a7bd071b3ac26f5/0x0.jpg?format=jpg&crop=1021,680,x0,y140,safe&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2023/10/23/khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2023/10/23/khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills/amp/",
+      "publishedDateTime": "2023-10-23T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development.md",
+      "title": "New US AI chip restrictions on China is creating massive issues for Baidu, Alibaba’s AI development",
+      "excerpt": "Several Chinese companies have been trying to create domestic alternatives for NVIDIA's AI chips. However, given the latest series of restrictions by the US on chips and chip making equipment, China's",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html",
+      "originalUrl": "https://www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/wp-content/uploads/2023/10/New-US-AI-chip-restrictions-on-China-is-creating-massive-issues-for-Baidu-Alibabas-AI-development.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html/amp",
+      "publishedDateTime": "2023-10-22T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-23-meet-the-defiant-ai-sex-robot-starring-in-a-new-action-thriller-comic.md",
       "title": "Meet The Defiant AI Sex Robot Starring In A New Action Thriller Comic",
       "excerpt": "In Red Light, a four-part series from AWA Studios, a self-aware android may end up outsmarting her human creators. Forbes talks with Sarah Cho, the comic's writer.",
@@ -286,49 +381,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-22-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management.md",
-      "title": "Future of psychometric tests: How AI and machine learning are changing career management",
-      "excerpt": "Embracing AI and ML in career management is not just a trend; it’s a strategic advantage in today’s fast-paced world of work. However, the synergy between psychometric tests and AI and Machine Learning can lead to more informed and well-rounded decisions in an increasingly data-driven world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design299.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/lite/",
-      "publishedDateTime": "2023-10-22T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-22-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap.md",
       "title": "The convergence of finance and healthcare: How fintech is bridging the gap",
       "excerpt": "By harnessing the power of AI and ML algorithms, and using relevant healthcare and financial data, healthcare-focused fintech can help streamline financial services in the healthcare industry. Technological advancements have successfully paved their way ...",
@@ -370,49 +422,6 @@
         "AI in Finance",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-22-keeping-a-human-in-the-loop-managing-the-ethics-of-ai-in-medicine.md",
-      "title": "Keeping a human in the loop: Managing the ethics of AI in medicine",
-      "excerpt": "Increasingly used in medicine, AI raises both hopes and concerns. An international task force has laid out recommendations to ensure AI medical devices help patients and avoid worsening health inequity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/10/231020105631.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/10/231020105631.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-21T16:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {
@@ -631,7 +640,7 @@
       "originalUrl": "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -717,6 +726,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-21-ibm-unveils-northpole-ai-chip-sets-new-benchmarks-in-speed-energy-efficiency.md",
+      "title": "IBM Unveils NorthPole AI Chip, Sets New Benchmarks in Speed, Energy Efficiency",
+      "excerpt": "IBM has introduced its newest AI chip, NorthPole, which boasts remarkable processing speed and energy efficiency advances, reshaping industry expectations. Energy Efficiency Breakthrough: NorthPoles",
+      "sourceUrl": null,
+      "webUrl": "https://www.econotimes.com/IBM-Unveils-Groundbreaking-AI-Chip-NorthPole-Revolutionizes-Speed-and-Efficiency-1664741",
+      "originalUrl": "https://www.econotimes.com/IBM-Unveils-Groundbreaking-AI-Chip-NorthPole-Revolutionizes-Speed-and-Efficiency-1664741",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://f1.econotimes.com/2023/10/xnha9zd9jb_th_1024x0.jpeg",
+          "width": 1024,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EconoTimes",
+        "domain": "econotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-21-how-ai-is-shaping-the-future-of-the-luxury-watch-market.md",
       "title": "How AI Is Shaping The Future Of The Luxury Watch Market",
       "excerpt": "Luxury watches are a $75 billion market, with secondhand sales making up roughly $22 billion. Demand is heating up, particularly among Gen Z and Millennials.",
@@ -725,7 +777,7 @@
       "originalUrl": "https://www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1172,58 +1224,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-googles-new-ai-powered-tool-helps-users-learn-english-right-in-search.md",
-      "title": "Google's new AI-powered tool helps users learn English right in Search",
-      "excerpt": "Google announced a new English learning tool that goes deeper than the capabilities of Google Translate. Here's how it works.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-new-ai-powered-tool-helps-users-learn-english-right-in-search/",
-      "originalUrl": "https://www.zdnet.com/article/googles-new-ai-powered-tool-helps-users-learn-english-right-in-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9726b7f186525b3165b5469c672e7f1008c6a3d0/2023/10/20/3ae65077-9684-4397-a382-6d831bc30e1a/glangher.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-new-ai-powered-tool-helps-users-learn-english-right-in-search/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-ai-powered-tool-helps-users-learn-english-right-in-search/",
-      "publishedDateTime": "2023-10-20T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

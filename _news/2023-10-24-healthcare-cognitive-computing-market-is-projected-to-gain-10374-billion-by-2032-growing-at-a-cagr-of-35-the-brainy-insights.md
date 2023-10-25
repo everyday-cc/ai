@@ -40,6 +40,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Adobe Shares a Sneak Peek of New AI Dubbing Feature"
+    excerpt: "Adobe has framed the feature as enabling “brands to be able to build trust with international audiences”, with Jin describing the auto-dubbing option as a means for content creators to get more views, by “getting content to people who do not speak the language of the video.”"
+    publishedDateTime: 2023-10-25T10:05:00Z
+    webUrl: "https://slator.com/adobe-shares-sneak-peek-new-ai-dubbing-feature/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
 
 secured: "0lLbmEMcKjZSCPo1P6yPz5iD2TjjayNegaVZlkmdktYb6GfOwqDe4Ep7i2mFWy4fY2byrjl+kCAm6raFSybA990avrnwE5GLBDdZU+Oeg0rAneFJ5NyuZq/9rbepQvBiG9r9Qpy32+9tmDd76yRQ07cJJNTVDgb1BGkm2SPjFDmYLFNIXoE/RdL4q8088+6H6MG0GQERckB23rVSq7kC285fAtzH1DBaUp1ZduKhhjlsC5LRbdI/M64y4lN0/Ou6N+PQp+Hct78T1B0SwBlCB5WBJNh7FpRr+VTzjvOzt5/GymudEXa64ZKio07KZ/Ixxd/ZA+fl+3npNEdiVWBoBzxNxQ7DEMuvmhVCF/c/drk=;68H2vTagUC2jywXCRrIY3g=="
 ---

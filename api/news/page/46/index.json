@@ -2,6 +2,57 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-09-20-foundational-models-at-the-edge.md",
+      "title": "Foundational models at the edge",
+      "excerpt": "Foundational models (FM), which are trained on a broad set of unlabeled data at scale, are driving state-of-the-art artificial intelligence (AI) applications.\nThe post Foundational models at the edge appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/foundational-models-at-the-edge/",
+      "originalUrl": "https://www.ibm.com/blog/foundational-models-at-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/dji_0051-0060.blog-lead-space-2x1-1.jpg",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T08:55:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-venafi-taps-generative-ai-to-streamline-machine-identity-management.md",
       "title": "Venafi taps generative AI to streamline machine identity management",
       "excerpt": "Venafi’s Athena, based on a new large language model (LLM), offers users a natural language interface and provides developers with automated code generation for important integrations.",
@@ -1083,50 +1134,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-ai-bubble-or-revolution-goldman-sachs-research-takes-a-look.md",
-      "title": "AI Bubble Or Revolution? Goldman Sachs Research Takes A Look",
-      "excerpt": "The world currently seems to have entered the artificial intelligence (AI) era which future generations may one day refer to as before AI and after AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/fintech/23/09/34742974/ai-bubble-or-revolution-goldman-sachs-research-takes-a-look",
-      "originalUrl": "https://www.benzinga.com/fintech/23/09/34742974/ai-bubble-or-revolution-goldman-sachs-research-takes-a-look",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/09/19/ai.shutterstock_1065245777.jpg?width=1200&height=800&fit=crop",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34742974",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34742974",
-      "publishedDateTime": "2023-09-19T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

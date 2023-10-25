@@ -3,20 +3,25 @@ category: news
 title: "US orders immediate halt to shipping of some AI chips to China, Nvidia says"
 excerpt: "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October."
 publishedDateTime: 2023-10-25T03:41:00Z
-originalUrl: "https://www.bbc.co.uk/news/business-67213134"
-webUrl: "https://www.bbc.co.uk/news/business-67213134"
-ampWebUrl: "https://www.bbc.co.uk/news/business-67213134.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67213134.amp"
+originalUrl: "https://www.bbc.com/news/business-67213134"
+webUrl: "https://www.bbc.com/news/business-67213134"
+ampWebUrl: "https://www.bbc.com/news/business-67213134.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-67213134.amp"
 type: article
-quality: 55
+quality: 102
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -76,8 +81,8 @@ related:
         isCached: true
   - title: "US orders immediate halt to some AI chip exports to China, says Nvidia"
     excerpt: "Fellow tech company Intel ‘reviewing regulations’ as timing of move brought forward"
-    publishedDateTime: 2023-10-25T06:19:00Z
-    webUrl: "https://www.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
+    publishedDateTime: 2023-10-25T09:32:00Z
+    webUrl: "https://www.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia?ref=biztoc.com"
     ampWebUrl: "https://amp.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
     type: article
@@ -171,6 +176,6 @@ related:
       domain: bizjournals.com
     quality: 33
 
-secured: "WorVgus0sUevI+tlh4U5vmV+pdvp6pnEv/ujOEzu7bBONxsrcggy0rDQo0JXqhCHSNDQrZyNtbp/I9tDBfJSZqLIWlqRX948Br3YXKua/PLcOKDOgVy80tGwDCDwul/x3jpfiTMBW8Yk5KtqTR6m3zDvmoFJ+nMeSnREZ8ET2b7Ik3QSY7wf+okVYgsYFfZvlXqIh69qlncHWhKwCg76ID9HOEE35t1tyE5p6ZDEMBhusMBaHi4ateROR/Z4xVBkAselMlpLg5yvDs1WP4qhgRwwHSfjJQDyJUVGI6iMPQ2RwMAcBzgrYH8j7LfK1piKqK0zZUwgbPG7yEHAzWzh4u3A6BLq4xTERXi4+r6McO5VxMT5xZ91zslcoIVU0LDbz5fYVCWCRA6L5U2Ob9EWOU/Mpvqd6s27ZWWDPMOqFANcPVJy+HqaCBJzyOsduz3uhLwKcqYSuT6iJ1fXwq7nH31p0hTavO2pNK3fHwbTGqVmRs9q+IN+/ZSqJwHnQup3Vr5ETEOWhARkxlZ+jxr3Mg==;fKnEaLU7IIjcq7lene3SQg=="
+secured: "PPSbiojVvMKcqWpJm0I8d2wPQtFvW6ZSWlusmxj3LTivBG/QAy8JnvIg0ZHB1vbHcpEd94YTQO/NxWo3+z1pGPjvN5RJR7ZQQb2Ia4T47ruWcRPDLyIZKCFA7mnPBbcxsSfLF7S4dZLgPI1DB+jomfQ6/vpRqANjuv9pHJYXqwgwuPrhsB2XHlUZOf3aQNj2dxihyH6j5ttJFeTECWtyA+ojPb/7TI00/bHBqOWXN92F19QzUSwyKycnI81WpNv+rGT5LCUBLT2mq5HpgSmzIJ4G7UjJWRxiqB+du5g737bIH9cwv72AuNicozt4kELB3ucVd62/tJ+Jr2P7vnDE4f4g2Z8SIQd1f+pEycap7R8=;oZ4gZ2NBo8YLWyyHygcGqQ=="
 ---
 

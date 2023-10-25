@@ -2,6 +2,57 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-09-12-elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday.md",
+      "title": "Elon Musk and Mark Zuckerberg will talk AI rules in Senate forum on Wednesday",
+      "excerpt": "Senate Majority Leader Chuck Schumer is convening an AI forum on Wednesday, bringing together big names in tech including Mark Zuckerberg and Elon Musk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
+      "originalUrl": "https://www.marketwatch.com/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-849947/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
+      "publishedDateTime": "2023-09-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-how-machine-learning-and-ai-could-solve-drug-shortages.md",
       "title": "How Machine Learning And AI Could Solve Drug Shortages",
       "excerpt": "Although AI’s presence on the public stage has become more prevalent in just the past year, it has been used in the medical field for more than four decades.",
@@ -1141,49 +1192,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-artificial-intelligence-ai-verticals-market-by-size-2031.md",
-      "title": "Artificial Intelligence (AI) Verticals Market by Size | 2031",
-      "excerpt": "Artificial Intelligence (AI) Verticals Market Research Report give analysis of industry development growth opportunities, Trend till 2031. Artificial Intelligence (AI) Verticals Market detailed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34463482/artificial-intelligence-ai-verticals-market-by-size-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34463482/artificial-intelligence-ai-verticals-market-by-size-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34463482",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34463482",
-      "publishedDateTime": "2023-09-11T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

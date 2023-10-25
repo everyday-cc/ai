@@ -3,8 +3,8 @@ category: news
 title: "Cloud Artificial Intelligence Market to Reach $887 Billion, by 2032 at 35.8% CAGR: Allied Market Research"
 excerpt: "The global cloud artificial intelligence is growing rapidly due to an increasing availability of cloud-based AI services, the growing usage of mobile devices, and the surge in technological advancements."
 publishedDateTime: 2023-10-25T06:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/10/25/9904810.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/10/25/9904810.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-cloud-artificial-intelligence-market-reach-887-billion-2032-/2023/10/25/9904810.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cloud-artificial-intelligence-market-reach-887-billion-2032-/2023/10/25/9904810.htm"
 type: article
 quality: 20
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 400
         isCached: true
 
-secured: "8w02Jcbptfk9+EuvS0hfheU+o8Re36omrhclqpO9gKh/6gz4ry4aL6iXhvMZ6uCkjyc7IILAzQa/2Klvke2HpFaLfRga/ofVQDQmQoz4Ng9ss1Jl+hRE8wbTGcw9P3iOAniZMvTHASwbEuQqOcsi5N/Xb9r3++E7keryhZPkL0d587lSxkCvzqx6i1bRqsxuKo77gF2IGL1PLQTPUFYb/L9dMkDcwKMwTyIFv0m1XPQWx9UGKVsTPThO0Eiw8bwb3tErKKT/K0kIG6qcX/p7gOHwPr0ZvxhA+xyrCNyFfAxproFRD3gB8HWhZwfoRVW/uu6bBs+UDVnWo/wUnGoIpwYelEMneRD9WXo+mKYhVPg=;Mc6f1LmY7aM/1NnIAF+0dg=="
+secured: "wZ6uybKnk44nMYdcnRL9Rt0OGzJnIG7SvXJ+eIKkmBMdi0uK5P3AyCOJqJkJOG/43BFrngobrhy5qsdiv0DzaJMjurEJurjdJw8TNJaiA7uUGV8hshlTuZqX2TTAtnTbRveirKVL3CE/9RhYqKojI9VTkn9Wp9NBBeQD2mqlWsl8EniQrdhOKNvqrJCgJt0Vwizi2u3LI8zoAkKC2N4e6ktxBqmpv6KcxAGemdbWzBj6syxbw31kW8XcWhRjR3fViZQ5qV6Nhp1q/lysjAc1jzIvFJCdkcBxVbEoGrIzy1Sox4lYJgY+BG1G083U1Jjp24MQ/NR5AmpSUh4gTJ1Mb1Yq3w6ENfFJCDoTRZ0E1Ds=;ACP2YBDX4yV9tFTbNw4wLA=="
 ---
 

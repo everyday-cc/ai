@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-10-06-researchers-develop-ai-solutions-for-inclusion-of-arabic-and-its-dialects-in-natural-language-processing.md",
+      "title": "Researchers develop AI solutions for inclusion of Arabic and its dialects in Natural Language Processing",
+      "excerpt": "A group of researchers and engineers from the University of Sharjah have developed a deep learning system to utilize the Arabic language and its varieties in applications related to Natural Language Processing (NLP),",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.html",
+      "originalUrl": "https://techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/arabic-text.jpg",
+          "width": 2880,
+          "height": 1617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.amp",
+      "publishedDateTime": "2023-10-05T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-fast-and-cost-effective-llama-2-fine-tuning-with-aws-trainium.md",
       "title": "Fast and cost-effective LLaMA 2 fine-tuning with AWS Trainium",
       "excerpt": "Large language models (LLMs) have captured the imagination and attention of developers, scientists, technologists, entrepreneurs, and executives across several industries. These models can be used for question answering, summarization, translation, and more in applications such as conversational agents",
@@ -1133,49 +1176,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-wordly-launches-trusted-ai-translation.md",
-      "title": "Wordly Launches Trusted AI Translation",
-      "excerpt": "announced the launch of Trusted AI Translation, the easiest, most affordable, and most secure way to make meetings and events more language inclusive and accessible. Wordly Trusted AI Translation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/wordly-launches-trusted-ai-translation/article_cdd65377-c379-5abd-8232-325b85e0a5c9.html",
-      "originalUrl": "https://www.victoriaadvocate.com/wordly-launches-trusted-ai-translation/article_cdd65377-c379-5abd-8232-325b85e0a5c9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/0/2f/02f07c12-bfcb-5d74-8a5e-19f8cd0e80ce/651d6922305ce.image.jpg?crop=1053%2C553%2C107%2C0&resize=1053%2C553&order=crop%2Cresize",
-          "width": 1053,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T21:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

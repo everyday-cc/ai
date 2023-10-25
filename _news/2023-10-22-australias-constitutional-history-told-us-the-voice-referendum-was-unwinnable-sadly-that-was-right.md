@@ -62,15 +62,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "As Indigenous leaders declared a week of silence, Australian politics was reduced to what the Voice was supposed to address"
-    excerpt: "The Voice campaign and its politics have confirmed we're in new political territory, where there seems little restraint or even regard for the truth — not just by fringe players but players central to our politics,"
-    publishedDateTime: 2023-10-20T18:00:00Z
-    webUrl: "https://www.abc.net.au/news/2023-10-21/indigenous-leaders-week-silence-politics-reduced-voice-address/103003780"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 0
 
 secured: "GXzVdRAouLUyjo7j+dBtwK8vyDEPtqz5n+4XTTxYzig6RZU7y0ynB+YXj4RUhC6IUpQiAll8bt2webJl620CJPbtBUXPvUrcnr+dFpqspbQ+fBK+RHMxtXezS9MdZ4rKjBajivApI5VwUY64iFqeQ1WDhIbHbcSKj1P66GgWhniih6pifWr+Ogr5FkjSn0OLRZG0OWYmyraeDH+xjWFIPQYcNnEnIvvVAsmRRt7KUzFe0eV91pm5kN9U4nIIR6758KDKMZpjxk5OIPcTPoai4olgDlJy887M6atVJiUI4FtNuPmeWn3G6+eTmbDLaWWB40PC6LIluxp7R/0S4r1OWM1n7x17aFE8sKo9WEJATDG6sl6VaJOrRVcl2b+izsmFKaDrxTxXGzQegt00omz/Wm5q0I5SE4pseqPYc1hBdRtFIYuOH5wbcFDIIl+uNVO01Tuce65l7TirzmAfWrRROnihWefHQRu3sET3LYLsTkQ107gMzw5y54/Im+UbGB4HtNPTRdQeMYAgf/eaFBpdjw==;H4iyUA4j7PT1xPy347z8Xw=="
 ---

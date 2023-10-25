@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Baidu unveils latest version of LLM, Ernie 4.0"
-excerpt: "Robin Li, co-founder and CEO of Baidu, unveils the latest version of its large language model, Ernie 4.0 at Baidu World 2023 in Beijing, on Oct 17, 2023. [Photo by Zhu Xingxin/chinadaily.com.cn]"
-publishedDateTime: 2023-10-17T05:55:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_3.html"
-webUrl: "https://www.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_3.html"
+excerpt: "Visitors learn about robot products suitable for home application at Baidu World 2023 in Beijing, on Oct 17, 2023. [Photo by Zhu Xingxin/chinadaily.com.cn]"
+publishedDateTime: 2023-10-17T06:45:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_6.html"
+webUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_6.html"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202310/17/652e535da3109068cafe46a2.png"
+  - url: "https://img2.chinadaily.com.cn/images/202310/17/652e535da3109068cafe46a2.png"
     width: 564
     height: 376
     isCached: true
 
-secured: "er96vSNGLi6kX846b+gFtd3orDaPZ7LYlYV1VwElSVOSescH6IExjx7IPt6rbPDFg9Oov7TEoxCa2s1xIOQ0cQZ3vJIDA+Ed17yhvSHwe9d/Abm8adGx6DkAX4DSsTi1L0HjgzhEsMgh77IioF+FlfF+CCdX1v+DEC1+vcSxpUwaRtyF4FRpnCscB+uZ631CDvFyMVw9vSQYWKaUbavwpiVDkRBvZvZMndPnESf7SJFHBP/eGPolD05cvPVx/sh31rJn0srXnpVyObZchr+UlUbDvFYCmULGkNgO7fFZiLO8P1OTZiZG5t/QZc+OnWvjsXd/f0DF1Vf25lA8IpycLnJmosebkJ7cyKZ727DSJDw=;iIqoCGPClxebumWcSqmXew=="
+secured: "YM9gh59mJRCrX21u09Jn7qxrfMqZIrMZp0zqN2dMEnxBzesYtuKC3IiYhtWK4GfCL9VeEAo+Yv4R2weZgJlZ/TtZf/kOQvOEqqtCreOppGkMvLTEy7zwMN0lvtmBwBUgaLtomgG40rbeN78PkFELFub99y7AhZ7qibIMPZfYR7rqIhc1AInBgU48dNdACtxd7M3KX3ZmETOnjJmNBNJsxngeHdyFu0sS+2CFz8alKpoBA47yrtAStTVKe1SwknnsIrhtgO4X/qBdrF811oLJkeYdMFlslwuzk0QxO7fTNvPogxSoN10Htd0ZfGxCiv9X5IVEUNr1/cKGvq7y4iJG6P4DaHCVg0JaxC++v4ypOzY=;nQp30yEjr+NT6TX4b88taA=="
 ---
 
