@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generativ
 webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://i0.wp.com/mms.businesswire.com/media/20231024932463/en/1922758/4/wideimage.jpg?strip=all&#038;ssl=1"
         width: 480
         height: 269
-        isCached: true
-  - title: "IBM expands relationship with AWS to bring generative AI solutions to clients"
-    excerpt: "As part of this, IBM Consulting aims to deepen and expand its generative AI expertise on AWS by training 10,000 consultants by the end of 2024; the two organizations also plan to deliver joint solutions and services upgraded with generative AI capabilities designed to help clients across critical use cases."
-    publishedDateTime: 2023-10-20T07:35:00Z
-    webUrl: "https://africabusinesscommunities.com/tech/tech-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-to-clients/"
-    type: article
-    provider:
-      name: africabusinesscommunities.com
-      domain: africabusinesscommunities.com
-    quality: 51
-    images:
-      - url: "http://adserver.20nine.nl/www/delivery/avw.php?zoneid=85&n=238f97b"
-        width: 336
-        height: 280
         isCached: true
   - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
     excerpt: "Commitment to deepening expertise and expanding AWS on watsonx integration IBM has already built extensive expertise with AWS's generative AI services including Amazon SageMaker and Amazon CodeWhisperer, and is one of first AWS Partners to use Amazon ..."

@@ -1,16 +1,14 @@
 ---
 category: news
 title: "Qualcomm invests further in mobile AI with chips announcements"
-excerpt: "Qualcomm ( QCOM) rolled out a number of key AI announcements today, as the company seeks to cement itself as a major player in mobile chips. Those announcements include a new compute platform, called Snapdragon X Elite, a new central processing unit chip, called the Qualcomm Oryon CP, and a new smartphone chip, named the Snapdragon 8 Gen 3."
-publishedDateTime: 2023-10-24T21:11:00Z
-originalUrl: "https://www.aol.com/qualcomm-invests-further-mobile-ai-211140974.html"
-webUrl: "https://www.aol.com/qualcomm-invests-further-mobile-ai-211140974.html"
-ampWebUrl: "https://www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-211140974.html"
-cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-211140974.html"
+excerpt: "Qualcomm ( QCOM) rolled out a number of key AI announcements today, as the company seeks to cement itself as a major player in mobile chips. Those announcements include a new compute platform, called Snapdragon X Elite; a new central processing unit chip, called the Qualcomm Oryon CPU; and a new smartphone chip, named the Snapdragon 8 Gen 3."
+publishedDateTime: 2023-10-25T00:43:00Z
+originalUrl: "https://www.aol.com/finance/qualcomm-invests-further-mobile-ai-211140974.html"
+webUrl: "https://www.aol.com/finance/qualcomm-invests-further-mobile-ai-211140974.html"
 type: article
-quality: 74
-heat: 194
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
   name: AOL
@@ -54,6 +52,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 59
+  - title: "Qualcomm Snapdragon X Elite Details Leak; Has 4.6 TFLOPs Of GPU Power"
+    excerpt: "Details of Qualcomm's upcoming and next-generation mobile chipset have leaked and we now have a name: the Snapdragon X Elite."
+    publishedDateTime: 2023-10-23T11:01:00Z
+    webUrl: "https://www.lowyat.net/2023/309593/qualcomm-snapdragon-x-elite/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 54
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2023/10/Qualcomm-Snapdragon-X-Elite-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Qualcomm introduces new AI-optimized handset and laptop chips"
     excerpt: "The onboard CPU was designed by Qualcomm’s Nuvia unit, which became part of the company through a $1.4 billion acquisition in 2021. Nuvia was founded two years earlier by former senior members of Apple Inc.’s chip design team. The Snapdragon X Elite’s CPU reportedly features 12 cores that can reach speeds of 3.8 GHz when they’re all active."
     publishedDateTime: 2023-10-24T21:43:00Z
@@ -95,6 +107,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 42
+  - title: "Qualcomm Snapdragon X Elite: 4.6 TFLOPs = more GPU power than Xbox Series S"
+    excerpt: "Meanwhile, the updated Adreno GPU now packs 4.6 TFLOPs of FP32 compute performance ... It also wouldn't be a new chip without AI something, with Qualcomm supporting generative AI through its Hexgon NPU (Neural Processing Unit), which has up to 45 TOPS ..."
+    publishedDateTime: 2023-10-22T23:13:00Z
+    webUrl: "https://www.tweaktown.com/news/93943/qualcomm-snapdragon-elite-4-6-tflops-more-gpu-power-than-xbox-series/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 37
+    images:
+      - url: "https://static.tweaktown.com/news/9/3/93943_201_qualcomm-snapdragon-elite-4-6-tflops-more-gpu-power-than-xbox-series_full.jpg"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "The Snapdragon X Elite is Qualcomm’s new Windows chip built for AI"
     excerpt: "Qualcomm has been doing nothing but perfecting its approach to developing quality SoCs and processors for smartphones and computers."
     publishedDateTime: 2023-10-24T19:01:00Z
@@ -146,6 +172,6 @@ related:
       domain: liliputing.com
     quality: 13
 
-secured: "toEBvVaoxKIA1+PoQbYwO1k1vhsqQfET78a5HyiwT1QPbOVT2Ob/nIF+gdFs7HiBVXYI97OdKPZs6qpz75JH2w5w+b1pAw2zXeynGGons9a9cTZTQFpMDngVKDbA1GTSWFP1HP91UQUpKruXMoIfwTsOGghkYAnrdSsq7hEpA9Fog0aTHARP1x+U4+2pR7wjgED0xtQzHZ34SBUJDCuTLaawyEEzr12XV6c/CHc8mDK7CxMJd4g9dHaY97sfMrPNPmJFiOHSZUAWStV58+Y+zbEfWWAMEaHU3B83QiGPkKYRhiBKbLnVtXHzoJHkSj+aIt98ZkNW8KS4Yrnrs9/VA1Vli/j9t8KKaxZ2ZGUkY9WX14d49tlDn0L68d+7dS9gjizjfWDlp+k2MSNCAAadi+jiEl8wVDUCBaZW3wN9xNGUhpKn9gUebaE+H5Iw3byAK3o+gNUriz3ShZ7ad5rhzmygGIZ+u9kwBFR8RJ5ru0F5Z3FY8GnQ+wEaWVfGWS0RyGrQuC13OVnWwtmEU/mRng==;7fjsqEr5oujzCJ/B1j5r0Q=="
+secured: "0ikbTmrGGiKbftfGtMj5bofZEQtpRUd7KHIzI7UVLygZiNz8JgRSYz+urCZeLbQB2+I0Y128YB3acjknxA4HV4rDiiyniOtk4sOy2aRN/60dPLUTkq79KBEKpwuAq5sHWEKDZy5q2bbFZ1pgm2UQosMERqZMR9SlMsjLuEo/UBMqetV+HbL+MAa66iJ2aPrMW/dDBrjcRzPZCmvqax/QtyCT8aOZjSuweMe+FrNkB4qpoyrcqFafffheQ4Il1nbE66CFkRnfRYp0U2YPbarwN9OTHuCfRwJuCgZJ1Srij6jTNbBFTpzsQSzMbep6S2y/TeC/WWEQyBFQGIsD+xnqUCr+VvUbfnKgj+0D6jaSnto=;nG6XJjfwmgxmPEJt58lEqw=="
 ---
 

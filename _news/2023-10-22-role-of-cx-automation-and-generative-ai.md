@@ -130,20 +130,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
-    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
-    publishedDateTime: 2023-10-20T16:48:00Z
-    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 60
-    images:
-      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Marketers' Increasing Tolerance for AI Lowers Website Translation Costs"
     excerpt: "Digital Marketers are developing a growing trust in AI’s ability to translate websites. For a long time, Artificial Intelligence (AI) has been a mystery. People weren’t sure what it meant or what it did."
     publishedDateTime: 2023-10-23T06:56:00Z
@@ -159,6 +145,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
+    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
+    publishedDateTime: 2023-10-20T16:48:00Z
+    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 58
+    images:
+      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
   - title: "How AI, like ChatGPT and Bard, are changing education"
     excerpt: "To learn more about how AI could affect education, we spoke with the former chief digital officer for New York City, the Met museum and Columbia University."

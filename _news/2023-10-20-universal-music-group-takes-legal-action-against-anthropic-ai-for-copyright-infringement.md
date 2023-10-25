@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/Universal-Music-Group-Takes-Legal-Actio
 webUrl: "https://www.econotimes.com/Universal-Music-Group-Takes-Legal-Action-Against-Anthropic-AI-for-Copyright-Infringement-1664702"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Music companies sue Anthropic AI over song lyrics"
-    excerpt: "Universal and other music publishers have sued artificial intelligence company Anthropic in a US court for using copyrighted lyrics to train its AI systems and in generating answers to user queries."
-    publishedDateTime: 2023-10-20T08:15:00Z
-    webUrl: "https://techxplore.com/news/2023-10-music-companies-sue-anthropic-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2023-10-music-companies-sue-anthropic-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-music-companies-sue-anthropic-ai.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-ai.jpg"
-        width: 1920
-        height: 1633
-        isCached: true
   - title: "Anthropic tests AI rules for the people, by the people"
     excerpt: "Amazon-backed Anthropic, the startup behind the Claude generative AI chatbot, is promoting a new form of responsible AI: A constitution for its large language models based on public input. Why it matters: Who controls and influences AI is controversial given its potential to amplify existing biases and inequalities and to create new ones."
     publishedDateTime: 2023-10-23T09:30:00Z

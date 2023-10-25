@@ -1,29 +1,29 @@
 ---
 category: news
-title: "After The Voice Referendum: How Far Along Are First Nations Treaty Negotiations Across The Country?"
-excerpt: "The Uluru Statement from the Heart called for Voice, treaty and truth. On October 14, Australians said“no” to the Voice to the Parliament , choosing"
-publishedDateTime: 2023-10-24T23:38:00Z
-originalUrl: "https://menafn.com/1107297675/After-The-Voice-Referendum-How-Far-Along-Are-First-Nations-Treaty-Negotiations-Across-The-Country"
-webUrl: "https://menafn.com/1107297675/After-The-Voice-Referendum-How-Far-Along-Are-First-Nations-Treaty-Negotiations-Across-The-Country"
+title: "After the Voice referendum: how far along are First Nations treaty negotiations across the country?"
+excerpt: "The national focus on the Voice to Parliament referendum diverted attention from state-based Treaty processes currently happening across the country."
+publishedDateTime: 2023-10-24T19:19:00Z
+originalUrl: "https://theconversation.com/after-the-voice-referendum-how-far-along-are-first-nations-treaty-negotiations-across-the-country-215159"
+webUrl: "https://theconversation.com/after-the-voice-referendum-how-far-along-are-first-nations-treaty-negotiations-across-the-country-215159"
 type: article
 quality: 10
 heat: 10
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-10/24/TC_3c1caimage_story.jpg"
-    width: 960
-    height: 640
+  - url: "https://images.theconversation.com/files/555147/original/file-20231022-21-k8gipe.jpg?ixlib=rb-1.1.0&rect=38%2C661%2C4330%2C2165&q=45&auto=format&w=1356&h=668&fit=crop"
+    width: 1356
+    height: 668
     isCached: true
 
-secured: "EHItd+Cv/p+NHbDjEYcAR+MA2GDTnd7nMV0l0tAzvAyxMx7QKJQuLVhxQXKjh2LeBowe4t490Khi0yvE+HHRFS8nTEabV5CtT9iyFNM44p5Iqh0nmZuNN8on7mr78Kq3xQpULM5dNvtaaFVFJ7j2dLFoG5Kts1i8KEYqBjfLftwXiys4IwtqHMaFWVWdmcXFV9FGP1vxneXcEj8WAsupKQuEo1dO2DdASl6Po4HKhxJlshB8MS5yGifc+w4HdJmicrbJyovQvOTrkxypTxxwmCHnqTGTJhtNcwnsHv11yZ0lgGRNFfhNwDOLNIpZ2lRvo2kjrMiwpfMYFsurxrXA8mKQ7Bb/lJGVLt6PXp8dsWw=;TcaQdna8l+j2qIEGr6Ikzw=="
+secured: "wux+MqxP3Yajd1hhIIBv8cgukRhO4K6kjEbeSb8mptiDxNjC+7PKt4fAavG3an3EeNmodR8h5HDukGTJucbVF7Q7rAZkmM2J49mgtq1rXPVY6xH9Z59nLsjVBeKApquEKVYlqtiiwQ3estCq8ZbgXZZVxs0BXAFHmMWjumjTRW6WtsaPvmNc/mK2D5gamYi2gnh+OxgcfyezW3E4mue0gwBYrCGzpeV/EDxyqCQikxjW+QFfPVSzwXDNDmdg3w4KKsSkh/3eOKY5e5mg4gkivTdX+CP4HiT5fL6UMXFXRCS9VNuXoFmguhII2UQVoh8j3zRj7QRIS/1a6abtWLq+8zRKipmM46a7TR6ippxAyb8=;Ukj2Lo3QJtaVBqwNac4gZg=="
 ---
 

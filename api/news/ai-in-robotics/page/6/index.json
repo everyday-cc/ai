@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-12-embodied-ai-bridging-the-gap-between-mind-and-matter.md",
+      "title": "Embodied AI: Bridging the Gap Between Mind and Matter",
+      "excerpt": "Amid all the impressive strides artificial intelligence has made, there's one fundamental limitation - its confinement to the digital realm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techopedia.com/embodied-ai-bridging-the-gap-between-mind-and-matter",
+      "originalUrl": "https://www.techopedia.com/embodied-ai-bridging-the-gap-between-mind-and-matter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techopedia",
+        "domain": "techopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-machine-social-network-to-update-air-force-ai-robots-on-the-fly.md",
       "title": "Machine ‘Social Network’ To Update Air Force AI Robots On The Fly",
       "excerpt": "No machine-learning system can be trained on every possible situation, and when it encounters something new it may not be able to deal with it. Dolev says this could be something as simple as an object recognition system seeing snow for the first time and ...",
@@ -1259,49 +1293,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance.md",
-      "title": "Robots Manipulate Objects with Their Whole Bodies with AI Assistance",
-      "excerpt": "Imagine you want to carry a large, heavy box up a flight of stairs. You might spread your fingers out and lift that box with both hands, then hold it on top of your forearms and balance it against your chest,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/",
-      "originalUrl": "https://indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2023/09/MIT-Manipulation-Planning-01-press_0.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/",
-      "publishedDateTime": "2023-09-06T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
         "images": null,
         "publishers": null,
         "authors": null

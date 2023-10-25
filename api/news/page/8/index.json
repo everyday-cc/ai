@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-10-18-us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.md",
+      "title": "US expands chip export curbs to China to throttle AI, supercomputer development",
+      "excerpt": "Chinese officials said that the new US chip restrictions contradict fair trade principles, while immediate response from vendors is muted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.html",
+      "originalUrl": "https://www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/08/chip_trade-war_us_china-100944812-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.amp.html",
+      "publishedDateTime": "2023-10-18T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-ai-low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers.md",
       "title": "AI & Low Code; Can The Two Work Harmoniously To Democratize Coding For Developers?",
       "excerpt": "The synergy between AI and low code is transformative, democratizing coding and expanding the horizons of software development.",
@@ -1109,49 +1152,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-northwestern-researchers-create-robot-designing-ai.md",
-      "title": "Northwestern researchers create robot-designing AI",
-      "excerpt": "The Northwestern team gave the AI a prompt to design a robot that can walk across a flat surface, and used the AI's design as blueprints.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/northwestern-researchers-create-robot-designing-ai/",
-      "originalUrl": "https://www.therobotreport.com/northwestern-researchers-create-robot-designing-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/10/northwestern-AI-designed-robot-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

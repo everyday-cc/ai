@@ -47,6 +47,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-23-ai-startup-giga-ml-raises-36-million-in-seed-funding-from-nexus-venture-partners-y-combinator-others.md",
+      "title": "AI startup Giga ML raises $3.6 million in seed funding from Nexus Venture Partners, Y Combinator, others",
+      "excerpt": "According to GigaML, it helps enterprises with the deployment of AI and LLMs backed solutions for their operations by overcoming challenges around data security associated with the open source.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/sme-ai-startup-giga-ml-raises-3-6-million-in-seed-funding-from-nexus-venture-partners-y-combinator-others-3284241/",
+      "originalUrl": "https://www.financialexpress.com/business/sme-ai-startup-giga-ml-raises-3-6-million-in-seed-funding-from-nexus-venture-partners-y-combinator-others-3284241/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/pexels-tara-winstead-8386440-2.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/sme-ai-startup-giga-ml-raises-3-6-million-in-seed-funding-from-nexus-venture-partners-y-combinator-others-3284241/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/sme-ai-startup-giga-ml-raises-3-6-million-in-seed-funding-from-nexus-venture-partners-y-combinator-others-3284241/lite/",
+      "publishedDateTime": "2023-10-22T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-10-21-gartner-it-symposiumxpo-impact-of-generative-ai-on-the-human-machine-relationship.md",
       "title": "Gartner IT Symposium/Xpo: Impact of Generative AI on the Human-Machine Relationship",
       "excerpt": "Gartner AI experts and Distinguished VP Analysts address the human-machine relationship and best practices for business leaders in the new AI era.",
@@ -161,7 +204,7 @@
       "originalUrl": "https://medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1342,41 +1385,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-3-machine-learning-stocks-ready-to-make-a-move-higher.md",
-      "title": "3 Machine Learning Stocks Ready to Make a Move Higher",
-      "excerpt": "The post 3 Machine Learning Stocks Ready to Make a Move Higher appeared first on InvestorPlace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-ready-to-make-a-move-higher",
-      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-ready-to-make-a-move-higher",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

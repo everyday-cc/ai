@@ -2,57 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-10-24-amazons-ai-powered-van-inspections-give-it-a-powerful-new-data-feed.md",
-      "title": "Amazon’s AI-Powered Van Inspections Give It a Powerful New Data Feed",
-      "excerpt": "Amazon delivery drivers at hundreds of sites around the world will be asked to drive through camera-studded archways that log every dent, scratch, or damaged tire.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/amazons-ai-van-inspections-powerful-data-feed/",
-      "originalUrl": "https://www.wired.com/story/amazons-ai-van-inspections-powerful-data-feed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/653712f92b2e9e5034c69df4/191:100/w_1280,c_limit/Amazon-UVEye-AI-Scan-Business.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-24-how-to-nourish-a-culture-of-recognition.md",
       "title": "How To Nourish A Culture Of Recognition",
       "excerpt": "Research shows that recognition is the eighth-strongest driver of employee engagement. How can a company foster recognition without being disingenuous or forced?",
@@ -1198,6 +1147,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-how-household-restocking-startup-the-rounds-uses-tech-and-ai-to-make-sustainable-e-commerce-profitable.md",
+      "title": "How ‘household restocking’ startup The Rounds uses tech and AI to make sustainable e-commerce profitable",
+      "excerpt": "Now, it’s claiming a significant milestone on the latter, as the startup claims it’s profitable not only at ... This part of The Rounds’ business could be aided by AI. Already, AI is helping maximize the efficiency of The Rounds’ delivery routing ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/23/household-restocking-startup-the-rounds-uses-tech-and-ai-to-make-sustainable-e-commerce-profitable/",
+      "originalUrl": "https://techcrunch.com/2023/10/23/household-restocking-startup-the-rounds-uses-tech-and-ai-to-make-sustainable-e-commerce-profitable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/THE-ROUNDS-9_27-BFURLONG6428.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/23/household-restocking-startup-the-rounds-uses-tech-and-ai-to-make-sustainable-e-commerce-profitable/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/23/household-restocking-startup-the-rounds-uses-tech-and-ai-to-make-sustainable-e-commerce-profitable/amp/",
+      "publishedDateTime": "2023-10-23T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

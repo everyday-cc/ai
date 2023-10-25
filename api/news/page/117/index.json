@@ -2,6 +2,155 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2023-08-02-empowering-ai-to-serve-humanity-outcome-driven-ethical-innovation.md",
+      "title": "Empowering AI To Serve Humanity: Outcome-Driven, Ethical Innovation",
+      "excerpt": "Ethical innovation in AI is a business objective and moral duty. Jobs-to-be-Done empowers businesses to ethically innovate and put human needs at the forefront.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhenkin/2023/08/02/empowering-ai-to-serve-humanity-outcome-driven-ethical-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/davidhenkin/2023/08/02/empowering-ai-to-serve-humanity-outcome-driven-ethical-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bfc025b0bb86b726143287/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhenkin/2023/08/02/empowering-ai-to-serve-humanity-outcome-driven-ethical-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhenkin/2023/08/02/empowering-ai-to-serve-humanity-outcome-driven-ethical-innovation/amp/",
+      "publishedDateTime": "2023-08-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-fox-news-artificial-intelligence-newsletter-restaurant-robot-backlash-ai-regulation.md",
+      "title": "Fox News Artificial Intelligence Newsletter: Restaurant robot backlash, AI regulation",
+      "excerpt": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-restaurant-robot-backlash-ai-regulation",
+      "originalUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-restaurant-robot-backlash-ai-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-restaurant-robot-backlash-ai-regulation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-restaurant-robot-backlash-ai-regulation.amp",
+      "publishedDateTime": "2023-08-02T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning.md",
+      "title": "Transforming Healthcare: The Pioneering Path of Sumedh Datar in Computer Vision and Deep Learning",
+      "excerpt": "Introduction: In the rapidly developing science of machine learning, Deep Learning has emerged as a transformational area of study, captivating the attention of researchers and developers worldwide. Its exceptional pattern recognition capabilities have made it particularly valuable in computer vision applications.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning/",
+      "originalUrl": "https://techbullion.com/transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/08/bb6b4281-0874-40fa-a336-2042bf87d8f2-1000x600.jpeg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-inworld-ai-raises-new-round-at-500m-valuation-for-ai-game-characters.md",
       "title": "Inworld AI raises new round at $500M valuation for AI game characters",
       "excerpt": "Hollywood’s portrayals of AI-controlled Terminator robots once seemed like pure science fiction ... You take engines and you start replicating, taking humans that are working on a factory line, and you replicate them with conveyor belts.",
@@ -1036,127 +1185,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-machine-learning-blockchain-technology-could-help-counter-spread-of-fake-news.md",
-      "title": "Machine learning, blockchain technology could help counter spread of fake news",
-      "excerpt": "A proposed machine learning framework and expanded use of blockchain technology could help counter the spread of fake news by allowing content creators to focus on areas where the misinformation is likely to do the most public harm,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230801172011.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230801172011.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-robot-manicures-and-eyelash-extensions-how-ai-is-attracting-new-beauty-industry-customers.md",
-      "title": "Robot manicures and eyelash extensions: How A.I. is attracting new beauty industry customers",
-      "excerpt": "How artificial intelligence and robotics are transforming the beauty ... In San Francisco, a startup called Clockwork has set out to revolutionize the beauty service experience with its A.I ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/robot-manicures-and-eyelash-extensions-how-a-i-is-attracting-new-beauty-industry-customers/",
-      "originalUrl": "https://www.cbsnews.com/news/robot-manicures-and-eyelash-extensions-how-a-i-is-attracting-new-beauty-industry-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-duke-health-partners-with-microsoft-to-expand-use-of-ai-in-health-care-study-responsible-use.md",
-      "title": "Duke Health partners with Microsoft to expand use of AI in health care, study responsible use",
-      "excerpt": "Artificial intelligence can do everything from writing a social media post to scouring a medical journal, and it’s becoming more common in the health care field. On",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/",
-      "originalUrl": "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cbs17.com/wp-content/uploads/sites/29/2023/03/duke-health.001-e1685671071333.jpeg?w=1280",
-          "width": 974,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/amp/",
-      "cdnAmpWebUrl": "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/amp/",
-      "publishedDateTime": "2023-08-01T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cbs17.com",
-        "domain": "cbs17.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

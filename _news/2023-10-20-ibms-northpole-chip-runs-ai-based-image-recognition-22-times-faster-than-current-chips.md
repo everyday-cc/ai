@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-10-ibm-northpole-chip-ai-based-imag
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-ibm-northpole-chip-ai-based-image.amp"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://f1.econotimes.com/2023/10/xnha9zd9jb_th_1024x0.jpeg"
         width: 1024
         height: 614
+        isCached: true
+  - title: "IBM unveils NorthPole AI chip is 4000x faster than TrueNorth, with 8 years in the making"
+    excerpt: "IBM Research has spent the last 8 years working on its first-ever AI-dedicated chip, which it just unveiled as NorthPole, with the tech giant saying it is 22x faster than any other industry offering."
+    publishedDateTime: 2023-10-25T01:05:00Z
+    webUrl: "https://www.tweaktown.com/news/93966/ibm-unveils-northpole-ai-chip-is-4000x-faster-than-truenorth-with-8-years-in-the-making/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 47
+    images:
+      - url: "https://static.tweaktown.com/news/9/3/93966_906_ibm-unveils-northpole-ai-chip-is-4000x-faster-than-truenorth-with-8-years-in-the-making_full.jpg"
+        width: 1500
+        height: 844
         isCached: true
   - title: "IBM debuts power-efficient NorthPole machine learning processor"
     excerpt: "IBM Corp. today detailed NorthPole, an internally designed artificial intelligence chip that it says is significantly more power-efficient than competing processors. NorthPole was developed over the course of eight years by staffers at the company’s ..."

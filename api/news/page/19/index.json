@@ -2,6 +2,144 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-10-11-huawei-baidu-and-alibabas-mapping-service-help-china-set-standards-for-autonomous-driving-road-infrastructure.md",
+      "title": "Huawei, Baidu and Alibaba’s mapping service help China set standards for autonomous driving road infrastructure",
+      "excerpt": "China’s ambitious self-driving vehicle goals face roadblocks ... including search engine and AI giant Baidu’s robotaxi fleets located in designated areas in cities such as Beijing, Wuhan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/article/3237483/huawei-baidu-and-alibabas-mapping-service-help-china-set-standards-autonomous-driving-road?module=more_top_stories_int&pgtype=homepage",
+      "originalUrl": "https://www.scmp.com/tech/article/3237483/huawei-baidu-and-alibabas-mapping-service-help-china-set-standards-autonomous-driving-road?module=more_top_stories_int&pgtype=homepage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit.md",
+      "title": "Alphabet's AI lab, DeepMind, cut employee costs by nearly 40% in 2022, alongside a drop in profit",
+      "excerpt": "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alongside a drop in profit of more than 40% for the same period, according to a recent filing with a UK government agency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcmiami.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/",
+      "originalUrl": "https://www.nbcmiami.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcmiami.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcmiami.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/?amp=1",
+      "publishedDateTime": "2023-10-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC 6 South Florida",
+        "domain": "nbcmiami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-israel-hospital-uses-facial-recognition-to-identify-dead-and-wounded-from-hamas-war.md",
+      "title": "Israel Hospital Uses Facial Recognition To Identify Dead And Wounded From Hamas War",
+      "excerpt": "Soroka Medical Center, located just east of Gaza in Beersheva, is now using facial recognition to help family members locate their missing loved ones. The software is able to take an image of a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2023/10/11/hospital-uses-facial-recognition-to-identify-israel-hamas-war-dead/",
+      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2023/10/11/hospital-uses-facial-recognition-to-identify-israel-hamas-war-dead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6526bf423a0591b5444f04db/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-new-cyber-algorithm-shuts-down-malicious-robotic-attack.md",
       "title": "New cyber algorithm shuts down malicious robotic attack",
       "excerpt": "cyberattack on an unmanned military robot and shut it down in seconds. In an experiment using deep learning neural networks to simulate the behaviour of the human brain, artificial intelligence ...",
@@ -1061,125 +1199,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-amd-to-acquire-ai-software-startup-as-it-seeks-to-catch-up-with-nvidia.md",
-      "title": "AMD to acquire AI software startup as it seeks to catch up with Nvidia",
-      "excerpt": "AMD will acquire Nod.AI, an open-source artificial intelligence software startup, AMD announced Tuesday. Nod.AI, or Nod Labs, builds open-source technologies for \"future AI systems\" and mainly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/10/10/amd-acquires-nodai-ai-startup-as-it-seeks-to-catch-up-with-nvidia.html",
-      "originalUrl": "https://www.cnbc.com/2023/10/10/amd-acquires-nodai-ai-startup-as-it-seeks-to-catch-up-with-nvidia.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105886340-1556797464536img_1378rrr.jpg?v=1696954253&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/2023/10/10/amd-acquires-nodai-ai-startup-as-it-seeks-to-catch-up-with-nvidia.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/2023/10/10/amd-acquires-nodai-ai-startup-as-it-seeks-to-catch-up-with-nvidia.html",
-      "publishedDateTime": "2023-10-10T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-artificial-intelligence-in-healthcare-market-size-worth-usd-2013-billion-globally-by-2030-at-455-cagr-verified-market-research.md",
-      "title": "Artificial Intelligence In Healthcare Market size worth USD 201.3 Billion, Globally, by 2030 at 45.5% CAGR: Verified Market Research®",
-      "excerpt": "The \"Global Artificial Intelligence In Healthcare Market Size By Offering, By Algorithm, By Application, By End-Use Industry, By Geographic Scope And Forecast\" report has been published by Verified Market Research®. The report provides an in-depth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/10/9895957.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/10/9895957.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the-agriculture-sector.md",
-      "title": "AgEagle Named Top 20 Artificial Intelligence and Robotics Companies Transforming the Agriculture Sector",
-      "excerpt": "today announced that the Company has been as one of the “Top 20 Artificial Intelligence and Robotics Companies Transforming the Agriculture Sector” by Insider Monkey, a finance website that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the",
-      "originalUrl": "https://www.nasdaq.com/press-release/ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

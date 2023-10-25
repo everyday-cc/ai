@@ -2,57 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-10-25-paedophiles-using-ai-to-turn-singers-and-film-stars-into-kids.md",
-      "title": "Paedophiles using AI to turn singers and film stars into kids",
-      "excerpt": "Paedophiles are using artificial intelligence (AI) to create images of celebrities as children. The Internet Watch Foundation (IWF) said images of a well-known female singer reimagined as a child are being shared by predators. On one dark web forum the charity says images of child actors are also being manipulated to make them sexual.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-67172231",
-      "originalUrl": "https://www.bbc.com/news/technology-67172231",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/129A9/production/_131510267_gettyimages-1201670680-1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-67172231.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67172231.amp",
-      "publishedDateTime": "2023-10-24T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-25-lenovo-wants-to-create-your-own-personal-ai-twin.md",
       "title": "Lenovo wants to create your own personal ‘AI twin’",
       "excerpt": "In many ways, Lenovo’s personal AI twin works identically to any AI assistant. With the data it gathers from from a user’s personal device, it will anticipate your needs and offer solutions, proactively and independently, Lenovo CEO Yang Yuanqing said at the Tech World keynote.",
@@ -152,49 +101,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-qualcomm-invests-further-in-mobile-ai-with-chips-announcements.md",
-      "title": "Qualcomm invests further in mobile AI with chips announcements",
-      "excerpt": "Qualcomm ( QCOM) rolled out a number of key AI announcements today, as the company seeks to cement itself as a major player in mobile chips. Those announcements include a new compute platform, called Snapdragon X Elite, a new central processing unit chip, called the Qualcomm Oryon CP, and a new smartphone chip, named the Snapdragon 8 Gen 3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/qualcomm-invests-further-mobile-ai-211140974.html",
-      "originalUrl": "https://www.aol.com/qualcomm-invests-further-mobile-ai-211140974.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/7SSlHirnre3fE3EDG45yYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODk-/https://media.zenfs.com/en/aol_yahoo_finance_433/2e03884ca93cf5e7c132b3ef00d68fc0",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-211140974.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-211140974.html",
-      "publishedDateTime": "2023-10-24T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -455,6 +361,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-qualcomm-says-its-new-chips-are-45-times-faster-at-ai-than-rivals.md",
+      "title": "Qualcomm says its new chips are 4.5 times faster at AI than rivals",
+      "excerpt": "Qualcomm's new Snapdragon processors bring fast generative AI to laptops and phones while keeping your data private and saving power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/new-qualcomm-processors-excel-at-generative-ai/",
+      "originalUrl": "https://www.digitaltrends.com/computing/new-qualcomm-processors-excel-at-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1234,6 +1183,57 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-amazons-ai-powered-van-inspections-give-it-a-powerful-new-data-feed.md",
+      "title": "Amazon’s AI-Powered Van Inspections Give It a Powerful New Data Feed",
+      "excerpt": "Amazon delivery drivers at hundreds of sites around the world will be asked to drive through camera-studded archways that log every dent, scratch, or damaged tire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/amazons-ai-van-inspections-powerful-data-feed/",
+      "originalUrl": "https://www.wired.com/story/amazons-ai-van-inspections-powerful-data-feed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/653712f92b2e9e5034c69df4/191:100/w_1280,c_limit/Amazon-UVEye-AI-Scan-Business.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

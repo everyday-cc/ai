@@ -319,7 +319,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -630,10 +630,10 @@
     {
       "path": "_news/2023-10-17-liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability.md",
       "title": "LiveRamp Announces Identity Integration with AWS Entity Resolution to Increase Marketing Interoperability",
-      "excerpt": "media collaboration in AWS Clean Room collaborations, and artificial intelligence (AI) model development with Amazon SageMaker. RampID also helps brand marketers enrich their cloud data infrastructure by unlocking more granular insights about their customers.",
+      "excerpt": "It supports and enhances cross-channel media measurement workflows in AWS data lakes, media collaboration in AWS Clean Room collaborations, and artificial intelligence (AI) model development with Amazon SageMaker. RampID also helps brand marketers enrich ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/the-wire/liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability/",
-      "originalUrl": "https://www.cmswire.com/the-wire/liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability/",
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/17/9899936.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/17/9899936.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -643,11 +643,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T06:06:00-07:00",
+      "publishedDateTime": "2023-10-17T05:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1173,49 +1173,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-10-supernova-festival-how-massacre-unfolded-from-verified-video-and-social-media.md",
-      "title": "Supernova festival: How massacre unfolded from verified video and social media",
-      "excerpt": "They had gathered in a remote area of southern Israel for the Supernova festival - an event that had promised dance, music, art and drinks at a secret location. Ticket holders were told, nearer the time, to head to a site north of the Re'im kibbutz, about 6km (3.7 miles) east of Gaza. The party's organisers promised a \"journey of unity and love\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.the-star.co.ke/news/world/2023-10-10-supernova-festival-how-massacre-unfolded-from-verified-video-and-social-media/",
-      "originalUrl": "https://www.the-star.co.ke/news/world/2023-10-10-supernova-festival-how-massacre-unfolded-from-verified-video-and-social-media/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/0TTOXyzGWzvAifUvS_zT1u8lWdDxPBHORhVW6FqrU2UCgYbY2J2_l43RcAr7VGXM_A0Vkk63tZvauc7K3W2IOvM-0rcA7DNnHDEBDgwUBQ=s1000",
-          "width": 1000,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "the-star.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-10-artificial-intelligence-in-accounting-market-is-likely-to-experience-a-tremendous-growth-in-near-future-microsoftawsxerointuit.md",
       "title": "Artificial Intelligence in Accounting Market Is Likely to Experience a Tremendous Growth in Near Future | Microsoft,AWS,Xero,Intuit",
       "excerpt": "Global Artificial Intelligence in Accounting Market Size study, byComponent (Solutions,Services) by Deployment mode (Cloud, On-premises) by Technology (Machine Learning and Deep Learning ...",
@@ -1257,6 +1214,49 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-supernova-festival-how-massacre-unfolded-from-verified-video-and-social-media.md",
+      "title": "Supernova festival: How massacre unfolded from verified video and social media",
+      "excerpt": "BBC Verify has pieced together the events of the weekend's festival bloodbath using video and social media posts that we have verified, and facial recognition technology. Some of the festival-goers can be seen in the same footage looking up at the dark wisps above their heads. Others are oblivious and keep dancing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/world-middle-east-67056741?at_medium=RSS&at_campaign=KARANGA",
+      "originalUrl": "https://www.bbc.co.uk/news/world-middle-east-67056741?at_medium=RSS&at_campaign=KARANGA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/12B67/production/_131374667_97b713fd-bb80-4987-b17a-49008c8054fb.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/world-middle-east-67056741.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-middle-east-67056741.amp",
+      "publishedDateTime": "2023-10-09T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {

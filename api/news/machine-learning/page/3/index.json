@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-26-machine-learning-unravels-mysteries-of-atomic-shapes.md",
+      "title": "Machine learning unravels mysteries of atomic shapes",
+      "excerpt": "New research has used machine learning to find the properties of atomic pieces of geometry, in pioneering work that could drive the development of new results in mathematics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230925124814.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230925124814.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-25-machine-learning-unravels-mysteries-of-atomic-geometry.md",
       "title": "Machine learning unravels mysteries of atomic geometry",
       "excerpt": "New research has used machine learning to find the properties of atomic pieces of geometry, in pioneering work that could drive the development of new results in mathematics.",
@@ -1234,50 +1277,6 @@
         "Machine Learning",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks.md",
-      "title": "Machine Learning and AI in Algo trading: Predictive analytics for stocks",
-      "excerpt": "Gain market edge: AI and ML in an algo trading system can be leveraged to automate some of the laborious repetitive processes that were previously done manually. Additionally, AI systems have the ability to continuously watch the stock market around the clock. As a result of their wider reach, traders gain an added advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-15T162227.384.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/lite/",
-      "publishedDateTime": "2023-09-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

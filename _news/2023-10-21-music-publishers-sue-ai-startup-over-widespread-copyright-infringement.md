@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Music companies sue Anthropic AI over song lyrics"
-    excerpt: "Universal and other music publishers have sued artificial intelligence company Anthropic in a US court for using copyrighted lyrics to train its AI systems and in generating answers to user queries."
-    publishedDateTime: 2023-10-20T08:15:00Z
-    webUrl: "https://techxplore.com/news/2023-10-music-companies-sue-anthropic-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2023-10-music-companies-sue-anthropic-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-music-companies-sue-anthropic-ai.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-ai.jpg"
-        width: 1920
-        height: 1633
-        isCached: true
   - title: "Universal Music Group Takes Legal Action Against Anthropic AI for Copyright Infringement"
     excerpt: "Universal Music Group has brought Anthropic PBC to court after accusing it of widespread copyright infringement. The lawsuit was revealed just a day after the announcement of its team-up with BandLabs Technologies"
     publishedDateTime: 2023-10-20T09:22:00Z

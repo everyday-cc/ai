@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "7 Ways AI Can Help Advisors With Wealth Management"
+    excerpt: "AI is not a back-office technology but can be applied to the challenges facing a chief growth officer. The right model framework can be designed to support growth-focused activities such as lead generation and marketing automation by better scoring leads, prioritizing prospect lists and finding referral opportunities."
+    publishedDateTime: 2023-10-25T00:50:00Z
+    webUrl: "https://www.thinkadvisor.com/2023/10/24/7-ways-ai-can-help-advisors-with-wealth-management/"
+    type: article
+    provider:
+      name: Think Advisor
+      domain: thinkadvisor.com
+    quality: 37
+    images:
+      - url: "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2022/05/01_Robo_Advisor_Adobe_640x640.jpg"
+        width: 640
+        height: 640
+        isCached: true
   - title: "Bridging Political Divides With Artificial Intelligence"
     excerpt: "Q: In your new study, an AI chatbot serves as a communication intermediary between two people on different sides of an issue. The chatbot evaluates the language of a question and tweaks it to be constructive to the person receiving the question. What is the basic logic and hypotheses behind creating this experiment?"
     publishedDateTime: 2023-10-24T19:00:00Z

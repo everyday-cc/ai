@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/HnN5cYDZRjZQbFXqCR4grQ-1200-80.jpg"

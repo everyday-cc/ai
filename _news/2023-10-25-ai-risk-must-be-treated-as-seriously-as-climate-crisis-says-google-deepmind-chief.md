@@ -3,10 +3,12 @@ category: news
 title: "AI risk must be treated as seriously as climate crisis, says Google DeepMind chief"
 excerpt: "Demis Hassabis calls for greater regulation to quell existential fears over tech with above-human levels of intelligence"
 publishedDateTime: 2023-10-24T17:07:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation?ref=astrofeather.com"
-webUrl: "https://www.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation?ref=astrofeather.com"
+originalUrl: "https://www.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation?ref=biztoc.com"
+ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation"
 type: article
-quality: 28
+quality: 68
 heat: -1
 published: false
 
@@ -21,6 +23,12 @@ provider:
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/93c2ec47dfa92753188caec7eada3383a593dc5a/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=f95968ad0e4c3d48f26b309e88995955"
+    width: 620
+    height: 372
+    isCached: true
 
 related:
   - title: "This week in AI: Can we trust DeepMind to be ethical?"
@@ -56,6 +64,6 @@ related:
         height: 372
         isCached: true
 
-secured: "H5eNlk/pzyM0mkH+i3+99scQeDdAXGjbi91/8L8O0VovG3F1pA/l9mn1vNMI4K8cjA7iPRQR+yj4LKjniU+skAl+qG8qRaNz+U46KUelnqIqnupw9+RdVnK/7vjBq6mWgoJM2UIdxMiLH5KjgrPZ5KDNgdFbtMDib1y9FryaAfkOJbsMSoK1af16rH1y/rJwTlimgOh6LRfdhxSlRFn9HgeNjD/kvKJ5BNA/eP2lNfHHOUbrZL8C2oaDAq4QJC0D7nvdDc+vtBDBjlLKGIK2sNWu0OXeEKmbMszQWUSiITYVdGuzAMKEAfnF/KG/JLC8J8HCbOJfIauRCAwyihUkoAIWpGsFC3C/oJStc/QGTkXnFLa2Th3Y8ewjOJuJVa0iSeUxEr8OMo3N67hM6bIBhAL8UcswSr7Vm4WE+p+KtHASFLuj2JQKKsybsFMS7wQpz3IOYYu7g2NhM9k9AoeVoSEh1w9RLEie9PN+54uRMi3kP8hHgGilK4HCubY1o35mHHyYWfHK5LV6hK3Utp8lCg==;ORqeTeVOIsO1C+Goha/WEw=="
+secured: "YDO1Syo+TsqNjgL09awG3h5EM3FuF3PKXFNKeSLLZAmNcgkuolsmv/0+RgrsOeJGcWbWCAcXqh/HMD3xl+HOfHzFxtn4TfpHuTacXWHHmyKz3uF6jVtWam38qr94uxqfamYrqQXI9xs/dkncWJAHZNI+3tPI1lr3eTKAUTZopo/RXq4z+raVJIuMDnCPx/+9zyZ/FaGfC9wTbX+8e6/W0yFwM2S4Bu74UGL6lcyd7Z11Dyzil2+h/b0jHgReO9Pe29ykC3vCeR5puroMm8UBLfQOijrWeIt5k04rUmfpT8X41JdsjAELs01TaZS8Y3lIfopP22HCoXEv6YvuugcDFu4HfspBOZo6e3IGLNRSIA8=;jm88P4Xre2mYc9aQeMJg2g=="
 ---
 

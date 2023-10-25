@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-20-bears-qb-justin-fields-clarifies-robotic-comments-im-not-blaming-anything-on-the-coaches.md",
+      "title": "Bears QB Justin Fields clarifies 'robotic' comments: 'I'm not blaming anything on the coaches'",
+      "excerpt": "The Bears quarterback didn't wait long to attempt to control whatever minor damage his quotes might have caused. After saying his coaching staff might be feeding him too much information in attempting to explain his \"robotic\" feeling on the field through ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nfl.com/news/bears-qb-justin-fields-clarifies-robotic-comments-i-m-not-blaming-anything-on-th",
+      "originalUrl": "https://www.nfl.com/news/bears-qb-justin-fields-clarifies-robotic-comments-i-m-not-blaming-anything-on-th",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/szkaquehqxkntny1wotd",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NFL",
+        "domain": "nfl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-nasdaq-cta-artificial-intelligence-robotics-nqrobo.md",
       "title": "Nasdaq CTA Artificial Intelligence & Robotics (NQROBO)",
       "excerpt": "Risk Disclosure: Trading in financial instruments and/or cryptocurrencies involves high risks including the risk of losing some, or all, of your investment amount, and may not be suitable for all ...",
@@ -1248,40 +1291,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-embodied-ai-bridging-the-gap-between-mind-and-matter.md",
-      "title": "Embodied AI: Bridging the Gap Between Mind and Matter",
-      "excerpt": "Amid all the impressive strides artificial intelligence has made, there's one fundamental limitation - its confinement to the digital realm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techopedia.com/embodied-ai-bridging-the-gap-between-mind-and-matter",
-      "originalUrl": "https://www.techopedia.com/embodied-ai-bridging-the-gap-between-mind-and-matter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techopedia",
-        "domain": "techopedia.com",
         "images": null,
         "publishers": null,
         "authors": null

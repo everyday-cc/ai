@@ -41,6 +41,20 @@ related:
         width: 1318
         height: 756
         isCached: true
+  - title: "IBM unveils NorthPole AI chip is 4000x faster than TrueNorth, with 8 years in the making"
+    excerpt: "IBM Research has spent the last 8 years working on its first-ever AI-dedicated chip, which it just unveiled as NorthPole, with the tech giant saying it is 22x faster than any other industry offering."
+    publishedDateTime: 2023-10-25T01:05:00Z
+    webUrl: "https://www.tweaktown.com/news/93966/ibm-unveils-northpole-ai-chip-is-4000x-faster-than-truenorth-with-8-years-in-the-making/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 47
+    images:
+      - url: "https://static.tweaktown.com/news/9/3/93966_906_ibm-unveils-northpole-ai-chip-is-4000x-faster-than-truenorth-with-8-years-in-the-making_full.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "IBM debuts power-efficient NorthPole machine learning processor"
     excerpt: "IBM Corp. today detailed NorthPole, an internally designed artificial intelligence chip that it says is significantly more power-efficient than competing processors. NorthPole was developed over the course of eight years by staffers at the company’s ..."
     publishedDateTime: 2023-10-20T21:58:00Z

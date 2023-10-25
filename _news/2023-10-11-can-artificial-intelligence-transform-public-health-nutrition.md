@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_761339_16970167009832847.jpg"

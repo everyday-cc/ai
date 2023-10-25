@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-10-exploring-brain-basis-concept
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.amp"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 2880
     height: 2017
     isCached: true
-
-related:
-  - title: "Exploring the Brain Basis of Concepts by Using a New Type of Neural Networks"
-    excerpt: "“Neurobiological mechanisms for language, symbols and concepts; Clues from brain-constrained deep neural networks,” Friedemann Pulvermüller, Progress in Neurobiology: https://doi.org/10.1016/j.pneurobio.2023.102511"
-    publishedDateTime: 2023-10-20T08:25:00Z
-    webUrl: "https://idw-online.de/en/news822619"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 51
-    images:
-      - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
-        width: 498
-        height: 259
-        isCached: true
 
 secured: "DxXcXRYmbOGgh3fgC/fOxPbXy6EoZ1IzrIxbGV9gxFoI58zE30f5Uk+X8oAh0VB/EAi+9nyzmkvYaqbIhotxn9FQX7xcdC+/Geg61BcP/JjRy8ucWxu3xa8Y0mDktCKDs/pVvYrpVp0MIDwLxQd3GyiMmlfgb2RriXrC4c7SayTrfQSTRy2qt05ScvT/KXnhi7rvO1GS1lLLzVsC8VD9D96GQOOjp8QJ0zzKaD3w9KCnQh6I4nphqJDCSY4ZtQ9FUO0vHMiO4qAxD1frJ+3j7xd5IJOK9Dk5DcnZJTZ1IfhzwFRihsHlBWQNlZiiE98qJ5aa8x/JLDQ3Hi1BoKwtjX6aFsN4YPbdLhm5I0YhZYFMZEWLVb6rSgE8NLrfwWCKzTfhDu5bVIGMRKvObLYfvsKPaoAo02MKW8yvGS6Tzroba9XGiri2BXwlH98+c1YU/DeE800UAKkQnFXFq17RaxHzZfPB4/3v3UJx2a+gz1X/3yqf2Gv5ZAbBglznhqox6ZjInAkDzT76cqoY5TMtSw==;exHppujKBcapcEpzQo2Jmg=="
 ---

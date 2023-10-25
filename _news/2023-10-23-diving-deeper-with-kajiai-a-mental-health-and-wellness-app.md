@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-wi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-with-kajiai-a-mental-health-and-wellness-app/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/9/89/98962eb0-33c3-5349-9822-94badd66fcde/65369f8fe15a7.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "7 Ways AI Can Help Advisors With Wealth Management"
+    excerpt: "AI is not a back-office technology but can be applied to the challenges facing a chief growth officer. The right model framework can be designed to support growth-focused activities such as lead generation and marketing automation by better scoring leads, prioritizing prospect lists and finding referral opportunities."
+    publishedDateTime: 2023-10-25T00:50:00Z
+    webUrl: "https://www.thinkadvisor.com/2023/10/24/7-ways-ai-can-help-advisors-with-wealth-management/"
+    type: article
+    provider:
+      name: Think Advisor
+      domain: thinkadvisor.com
+    quality: 37
+    images:
+      - url: "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2022/05/01_Robo_Advisor_Adobe_640x640.jpg"
+        width: 640
+        height: 640
         isCached: true
   - title: "NFL implements artificial intelligence for player health and safety"
     excerpt: "The Digital Athlete is an AI tool that helps teams analyze thousands of data points from every play and hit, in a matter of minutes instead of days."

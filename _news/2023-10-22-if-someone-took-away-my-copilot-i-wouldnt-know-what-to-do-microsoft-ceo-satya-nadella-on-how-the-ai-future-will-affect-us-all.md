@@ -188,22 +188,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
-  - title: "Microsoft reports higher profits and revenue powered by cloud computing and AI investments"
-    excerpt: "Microsoft on Tuesday reported a 27% increase in profit for the July-September quarter compared to the same time last year, powered by growth in its cloud computing division"
-    publishedDateTime: 2023-10-24T20:59:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-microsoft-reports-higher-profits-and-revenue-powered-by-cloud-computing-and-ai-investments/"
-    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-microsoft-reports-higher-profits-and-revenue-powered-by-cloud-computing-and-ai-investments/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-microsoft-reports-higher-profits-and-revenue-powered-by-cloud-computing-and-ai-investments/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 66
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/03/cropped-favicon-512px-1.png?strip=1"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Microsoft to Spend $3.2b in Australia as AI Regulation Looms"
     excerpt: "SYDNEY (Reuters) - Microsoft said it will spend A$5 billion ($3.2 billion) expanding its artificial intelligence (AI) and cloud computing abilities in Australia over two years as part of a wide-ranging effort that includes skills training and cyber security."
     publishedDateTime: 2023-10-23T13:05:00Z
@@ -222,6 +206,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 62
+  - title: "Microsoft's AI Bets Boost Cloud Business, Alphabet Yet to Find Silver Lining"
+    excerpt: "Alphabet too has deployed AI in dozens of its products such as its flagship Pixel phones and more recently experimented with adding generative AI to its search engine. Earlier this year, the company launched its generative AI chatbot called Bard that competes with ChatGPT."
+    publishedDateTime: 2023-10-24T23:54:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-24/microsofts-ai-bets-boost-cloud-business-alphabet-yet-to-find-silver-lining"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 61
   - title: "Alibaba, Tencent And Ant Invest $342 Million in AI Startup Zhipu, Eyeing Rivalry with Microsoft's OpenAI"
     excerpt: "Alibaba Group Holding Ltd BABA and Tencent Holdings Ltd TCEHY featured amongst major Chinese investors doling out 2.5 billion yuan ($342 million) in artificial technology startup Beijing Zhipu Huazhang Technology Co. Many Zhipu investors joined a recent $300 million round of financing for Zhipu-rival Baichuan, Bloomberg reports."
     publishedDateTime: 2023-10-20T14:55:00Z
@@ -311,18 +304,18 @@ related:
         height: 512
         isCached: true
   - title: "Microsoft is ‘changing rules of the game on gen AI’ after Q1 earnings"
-    excerpt: "Microsoft is changing the rules of the game on Generative AI … they’re rolling out almost 11 Copilot offerings. That’s a major uplift for Microsoft from the enterprise perspective. The post Microsoft is ‘changing rules of the game on gen AI’ after Q1 earnings appeared first on Invezz."
-    publishedDateTime: 2023-10-24T23:57:00Z
-    webUrl: "https://kalkinemedia.com/us/business-news/latest/microsoft-is-changing-rules-of-the-game-on-gen-ai-after-q1-earnings"
+    excerpt: "Microsoft Corp reports a strong Q1 as Azure growth accelerates. Baird strategist Mortonson discussed its earnings print on Yahoo Finance."
+    publishedDateTime: 2023-10-24T23:35:00Z
+    webUrl: "https://invezz.com/news/2023/10/24/microsoft-q1-earnings-baird-strategist-ted-mortonson/"
     type: article
     provider:
-      name: kalkinemedia
-      domain: kalkinemedia.com
+      name: Invezz
+      domain: invezz.com
     quality: 54
     images:
-      - url: "https://kalkinemedia.com/storage/uploads/large/1698191479_653858777df60_171441221_m_normal_none.jpg"
-        width: 600
-        height: 452
+      - url: "https://invezz.com/wp-content/uploads/2023/04/171441221-m-normal-none-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "DCT Abu Dhabi And Microsoft Sign Mou On Generative AI, Cloud Technologies"
     excerpt: "( MENAFN - Dubai PR Network) DCT Abu Dhabi and Microsoft Sign MoU on Generative AI, Cloud Technologies"
@@ -407,6 +400,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Microsoft reports higher profits and revenue powered by cloud computing and AI investments"
+    excerpt: "Microsoft has reported a 27% increase in profit for the July-September quarter compared to the same time last year."
+    publishedDateTime: 2023-10-25T01:23:00Z
+    webUrl: "https://www.click2houston.com/business/2023/10/24/microsoft-reports-higher-profits-and-revenue-powered-by-cloud-computing-and-ai-investments/"
+    type: article
+    provider:
+      name: Click2Houston
+      domain: click2houston.com
+    quality: 46
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VI5XY6RSCZC6PLLMESP3GOEGHM.jpg?_a=ATAPphC0"
+        width: 700
+        height: 432
+        isCached: true
   - title: "Microsoft releases Azure AI Content Safety to create safer online environments"
     excerpt: "Microsoft has launched Azure AI Content Safety, which uses text and image detection to identify and filter harmful content in applications and services."
     publishedDateTime: 2023-10-23T13:31:00Z

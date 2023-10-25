@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Galileo Payment Risk Platform Now Available to the Entire Financial Services Ecosystem"
-excerpt: "Galileo Financial Technologies, LLC, a leading financial technology company independently owned and operated by SoFi Technologies, Inc. (NASDAQ: SOFI)"
-publishedDateTime: 2023-10-19T16:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231019333126/en/"
-webUrl: "https://www.businesswire.com/news/home/20231019333126/en/"
+excerpt: "Galileo Financial Technologies, LLC ... based on client risk appetite Utilize advanced data elements embedded into enhanced rules and machine learning-based models, taking into account entities such as merchants, channels, geo-locations, etc."
+publishedDateTime: 2023-10-19T13:42:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/10/19/9901855.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/10/19/9901855.htm"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "+cEF3YTrsreXnRR7IvSVHutrA7UwOgneoImNxaVrgccflNPMrKE1yvlQgqTRfd7oQIA/GoIUeGCAkfoPIRNj0jw3un4LfyHYXEn/TSm0nFQs7Yly+poqqyW0LEkRIljsJna1ZhL705dSN6XMEImy7ZX93eQnKIuhGcFU2Zx7A8KEmmlmr3SHbJ+8z4DF9ltxW0WFtmv4VlBXZfSjIqu005d7+XoqabGf+PegslzzYOSvMvj7mBa/7N/wpHoIttWgONOTGAWpxNnUeX6g3Y2GJhOAIUkpPPcGNV4kO0uCEu8w8Lya0tTFn8TqtUlOLxV14dQJfS8b4TAvhq04Ky5QI8PbpI5EnVpR7y3Yf37GWb0=;eCESh1xQHd/GCcozdME2iA=="
+secured: "vnxhCPa3qMBJPCuHFFBGYUN9TNeYdlnE/sbXVBa4MEEkdn1rEDm5uH4UJ5yTYyNx+bhAHNr8MOh7erlwkfntusTW0F0rJg5OxsbrhMAHUKaeUIbHqX2npplAE8s8JLW7KQEvEn4sujsULwtZ8Bz+0/64I7s+9EtyCL5F94I33X1JVPTJ1tZRuJet0BQQcqlKRgTKQpk4MJ0ktm91rY9GUjwkdVOx0bNJPiQrt5w/Hc9vfvrXtUhO24Z4zBH8wGmPhVtviJPScXpCOgnQ9imqm9H/hVHdB2fMpwenydlWWtD0OPdKMpnPeVV5Ql7KC8BJlvpiFyyKmyvdhJTdf6d1lvsvfsXaqhEqwe88a3P0N94=;7jv27RblcCqXL7DlhSH4Pg=="
 ---
 

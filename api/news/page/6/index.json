@@ -2,45 +2,27 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-10-19-new-global-ai-council-pioneers-insights-to-shape-the-future-of-artificial-intelligence.md",
-      "title": "New Global AI Council Pioneers Insights To Shape The Future Of Artificial Intelligence",
-      "excerpt": "AI is all the buzz lately — and for good reason. With AI technology changing the way we think, work, and play, it is no wonder everyone is talking about it.",
+      "path": "_news/2023-10-19-galileo-payment-risk-platform-now-available-to-the-entire-financial-services-ecosystem.md",
+      "title": "Galileo Payment Risk Platform Now Available to the Entire Financial Services Ecosystem",
+      "excerpt": "Galileo Financial Technologies, LLC ... based on client risk appetite Utilize advanced data elements embedded into enhanced rules and machine learning-based models, taking into account entities such as merchants, channels, geo-locations, etc.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/10/19/new-global-ai-council-pioneers-insights-to-shape-the-future-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/10/19/new-global-ai-council-pioneers-insights-to-shape-the-future-of-artificial-intelligence/",
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/19/9901855.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/19/9901855.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652eac762b080ea1724896ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 290,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/10/19/new-global-ai-council-pioneers-insights-to-shape-the-future-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/19/new-global-ai-council-pioneers-insights-to-shape-the-future-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-10-19T07:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T06:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,8 +31,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -197,6 +179,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-ai-models-lack-transparency-research.md",
+      "title": "AI models lack transparency: research",
+      "excerpt": "The best score -- 54 percent -- was given to Llama 2, the AI model launched by Facebook and Instagram ... a researcher at Stanford's Center for Research on Foundation Models, said companies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.enca.com/opinion/ai-models-lack-transparency-research",
+      "originalUrl": "https://www.enca.com/opinion/ai-models-lack-transparency-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.enca.com/sites/default/files/styles/large/public/afp/2023-10/doc-33YM76N-%40photo0.jpg.webp?itok=tKoF250w",
+          "width": 480,
+          "height": 319,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eNCA",
+        "domain": "enca.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -1125,57 +1150,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-how-transparent-are-ai-models-stanford-researchers-found-out.md",
-      "title": "How transparent are AI models? Stanford researchers found out.",
-      "excerpt": "Join us for key insights and networking with leaders in the Data and AI spaces at VB's exclusive after hours event this November! VentureBeat presents: AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-transparent-are-ai-models-stanford-researchers-found-out/",
-      "originalUrl": "https://venturebeat.com/ai/how-transparent-are-ai-models-stanford-researchers-found-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/Untitled-design-2023-10-18T093154.335.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T15:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

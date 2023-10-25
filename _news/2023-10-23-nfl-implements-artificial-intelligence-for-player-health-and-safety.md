@@ -40,6 +40,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "7 Ways AI Can Help Advisors With Wealth Management"
+    excerpt: "AI is not a back-office technology but can be applied to the challenges facing a chief growth officer. The right model framework can be designed to support growth-focused activities such as lead generation and marketing automation by better scoring leads, prioritizing prospect lists and finding referral opportunities."
+    publishedDateTime: 2023-10-25T00:50:00Z
+    webUrl: "https://www.thinkadvisor.com/2023/10/24/7-ways-ai-can-help-advisors-with-wealth-management/"
+    type: article
+    provider:
+      name: Think Advisor
+      domain: thinkadvisor.com
+    quality: 37
+    images:
+      - url: "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2022/05/01_Robo_Advisor_Adobe_640x640.jpg"
+        width: 640
+        height: 640
+        isCached: true
   - title: "NFL implements artificial intelligence for player health and safety"
     excerpt: "The Digital Athlete is an AI tool that helps teams analyze thousands of data points from every play and hit, in a matter of minutes instead of days."
     publishedDateTime: 2023-10-23T18:29:00Z
