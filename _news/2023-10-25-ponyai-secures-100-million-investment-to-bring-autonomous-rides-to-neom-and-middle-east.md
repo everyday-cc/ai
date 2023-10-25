@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/10/25/pony-ai-secures-100-million-investm
 webUrl: "https://electrek.co/2023/10/25/pony-ai-secures-100-million-investment-autonomous-rides-neom-middle-east/"
 type: article
 quality: 58
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -28,17 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI Chip Startup Rebellions Is in Talks to Raise $100 Million"
-    excerpt: "Rebellions Inc. aims to raise about $100 million from global investors to accelerate the development of a next-generation AI chip, banking on growing interest in the hardware needed to run artificial intelligence services."
-    publishedDateTime: 2023-10-24T06:43:00Z
-    webUrl: "https://www.bnnbloomberg.ca/ai-chip-startup-rebellions-is-in-talks-to-raise-100-million-1.1988572"
-    ampWebUrl: "https://www.bnnbloomberg.ca/ai-chip-startup-rebellions-is-in-talks-to-raise-100-million-1.1988572.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/ai-chip-startup-rebellions-is-in-talks-to-raise-100-million-1.1988572.amp.html"
+  - title: "Pony.ai gets $100M, establishes JV with Saudi Arabia’s Neom"
+    excerpt: "Chinese autonomous vehicle startup Pony.ai has scored $100 million from Neom, Saudi Arabia’s futuristic city and development project. As part of the deal, the two plan to establish a joint venture to develop, manufacture and deploy autonomous vehicles ..."
+    publishedDateTime: 2023-10-25T21:15:00Z
+    webUrl: "https://techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/"
+    ampWebUrl: "https://techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/amp/"
     type: article
     provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 54
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/pony-prl-backgroung-v2.jpeg?resize=1200,900"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "3u3dSDu8yD0NrRURcqJ7Oo89rHaf4qY4rud322znWNvlgbuhiArzlLwztwckaH6qNlpOmuZngWp9miOqXWwuuuX+pVfFcJdyflFL3ne5YziyLUiOI2ocH38YB2FzIpTaq1v8q6A8KfDvqaD+2ppjuQd/E8ERZUz0XKYQ8Khha9M4pIrZmZcvKw0ThXIuR5c1/DxtQ/0lbn4nhHLHLmXO7k4BLP9g4eQU4NhO+sSPb9W3woOwd/xIISZSRX/bfbv16kbsYZRDLTZvQLqhdpTiIPWJNfWm/cYQz/744E/eVFnwSO6BkpRI/aOFjsjvkCvKjnLFRYgwMwworL8/gEmhTHW3CnUWXcwu426W878ONl4=;A44ane9AD21BQ/A664Vjmw=="
 ---

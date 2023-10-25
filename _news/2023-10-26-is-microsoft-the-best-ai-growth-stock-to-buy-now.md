@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft In The First Inning Of Artificial Intelligence Opportunity"
+    excerpt: "The very long term target is $482 - $506. For artificial intelligence, the best two of the magnificent seven stocks at this time are Microsoft and Nvidia. Keep in mind that in the world of investments, nothing is cast in stone. Markets are dynamic."
+    publishedDateTime: 2023-10-25T16:30:00Z
+    webUrl: "https://www.benzinga.com/tech/23/10/35420368/microsoft-in-the-first-inning-of-artificial-intelligence-opportunity"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35420368"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35420368"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 78
+    images:
+      - url: "https://cdn.benzinga.com/files/turag-photography-1uqe5biih8w-unsplash_6.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Here's what we hope to see from AI powerhouse Microsoft's quarterly earnings this week"
     excerpt: "When the software giant reports on Tuesday, investors will be looking to see whether its big bet on artificial intelligence is paying off."
     publishedDateTime: 2023-10-23T08:01:00Z
@@ -204,22 +220,6 @@ related:
       - url: "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AM_L.jpg"
         width: 800
         height: 532
-        isCached: true
-  - title: "Microsoft In The First Inning Of Artificial Intelligence Opportunity"
-    excerpt: "The very long term target is $482 - $506. For artificial intelligence, the best two of the magnificent seven stocks at this time are Microsoft and Nvidia. Keep in mind that in the world of investments, nothing is cast in stone. Markets are dynamic."
-    publishedDateTime: 2023-10-25T16:30:00Z
-    webUrl: "https://www.benzinga.com/tech/23/10/35420368/microsoft-in-the-first-inning-of-artificial-intelligence-opportunity"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35420368"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35420368"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://cdn.benzinga.com/files/turag-photography-1uqe5biih8w-unsplash_6.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
         isCached: true
   - title: "As Databricks touts demand for AI services, all eyes are on Microsoft and Alphabet’s Q3 results"
     excerpt: "We can't wait to find out if these companies will report a material improvement from their investments in AI-related computing tasks and products."
@@ -489,6 +489,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft grows cloud business, banks on full-stack AI strategy"
+    excerpt: "Large language models and the generative AI tools they power aren’t the only driver of Azure usage and revenue growth — but the technology has gained traction."
+    publishedDateTime: 2023-10-25T20:47:00Z
+    webUrl: "https://www.ciodive.com/news/Microsoft-AI-full-stack-strategy-Azure-cloud-growth/697831/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 54
+    images:
+      - url: "https://www.ciodive.com/imgproxy/AywSoSDyJzv2tqIvCkZtqQ8rXJeBON6IsbkGoo67ptY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTQ1OTg4NTkzOC5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "DCT Abu Dhabi And Microsoft Sign Mou On Generative AI, Cloud Technologies"
     excerpt: "( MENAFN - Dubai PR Network) DCT Abu Dhabi and Microsoft Sign MoU on Generative AI, Cloud Technologies"
     publishedDateTime: 2023-10-21T05:25:00Z
@@ -609,6 +623,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 42
+  - title: "Microsoft CEO Satya Nadella compares the advent of AI to the birth of atomic energy, calls for global regulation"
+    excerpt: "Satya Nadella traveled to the Axel Springer headquarters to receive the 2023 Axel Springer Award. While he was there, he sat down and had an interview with Axel Springers CEO Mathias Döpfner. The discussion covered a wide range of topics such as leadership, AI, the Activision Blizzard deal, and that canceling the Windows Phone was a mistake."
+    publishedDateTime: 2023-10-25T20:45:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/microsoft-ceo-satya-nadella-compares-the-advent-of-ai-to-the-birth-of-atomic-energy-calls-for-global-regulation"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 35
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2VRy8dMEYDFnkRvdryH6hd-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Wall Street is demanding financial results that support all the AI hype. Microsoft’s latest earnings finally delivered"
     excerpt: "Higher-than-expected AI consumption contributed to revenue growth, Microsoft CFO Amy Hood said during the company’s earnings call."
     publishedDateTime: 2023-10-25T10:16:00Z
@@ -623,6 +651,15 @@ related:
         width: 1199
         height: 892
         isCached: true
+  - title: "Microsoft took a chance by igniting the AI race, but it seems to be working out well for the company"
+    excerpt: "The lesson from Microsoft's strong AI-fueled quarterly financial results is likely to push other companies to charge ahead on AI products, for better or for worse."
+    publishedDateTime: 2023-10-25T19:32:00Z
+    webUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
   - title: "Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
     excerpt: "NDAQ:SPNS) Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
     publishedDateTime: 2023-10-25T12:28:00Z

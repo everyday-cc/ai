@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Zip Named Most Innovative Fintech Solution by 2023 Tech Ascension Awards"
+    excerpt: "Zip Intake-to-Pay Lauded for Modern Approach to Improving Procurement Processes and the Employee Experience Zip, the world's only intake-to-pay platform, today announced its platform was chosen the Mo"
+    publishedDateTime: 2023-10-25T20:32:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/b35426151/zip-named-most-innovative-fintech-solution-by-2023-tech-ascension-awards"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35426151"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35426151"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Michigan fintech accepted into global accelerator from Amazon subsidiary"
     excerpt: "Tiicker Inc.’s recent acceptance into a global financial technology accelerator program will help raise more awareness and position the Grand Rapids-based startup for growth."
     publishedDateTime: 2023-10-24T09:29:00Z

@@ -35,6 +35,17 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 54
+  - title: "AI Chip Startup Rebellions Is in Talks to Raise $100 Million"
+    excerpt: "Rebellions Inc. aims to raise about $100 million from global investors to accelerate the development of a next-generation AI chip, banking on growing interest in the hardware needed to run artificial intelligence services."
+    publishedDateTime: 2023-10-24T06:43:00Z
+    webUrl: "https://www.bnnbloomberg.ca/ai-chip-startup-rebellions-is-in-talks-to-raise-100-million-1.1988572"
+    ampWebUrl: "https://www.bnnbloomberg.ca/ai-chip-startup-rebellions-is-in-talks-to-raise-100-million-1.1988572.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/ai-chip-startup-rebellions-is-in-talks-to-raise-100-million-1.1988572.amp.html"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 54
 
 secured: "RBquOLY12qVUDqzkFkSQNixacvhVfFHIjzjCsPVXP7RsPwSztMiHowUmHKqW78FeWBQ5kQO7RAZRTLXgTjDxTxXeP1gB4MiS/u1mVgtSiJ4Zsnj3B8827XrQFwGvtMGfDnh6mVJ/4GiKQLeCPX0cGFszROwcG5Tpj9Df2HkqrBbDXWrU6fJWDwhCzWfL5gA4hVac62y7ho09zvY3LBgk1CyqygQelrTxGahE3xCEjM+7EBh2dOzSdUeq3cMfqp6iOo09KIhZhWhAp2GcfvoBhZLIJ62OvqH2QnaqqIMg2TdAsp4c1shy/6w719GEYW2R2ypWolqay7WWfBVBfna7rWOL8hrBNGp0l/GNKONicSg1QWCfebmy/btHm6MKZp5bpleFyU8jB7wrhz9Bq8lZDdFuGORfb8tiHgVfHZ4iJVicuKF6p3ka4CG01R9yw2R3/fVTeq9yaH8OI4/b1h7yPKJV2egBw/pHUCoa11ODdTRSADGiUSKLSdQTmaOc7Qwb1JDtw4VgX4g/+HcvktE0hQ==;+CS4w/fT29Nz0yKwiT1x2Q=="
 ---

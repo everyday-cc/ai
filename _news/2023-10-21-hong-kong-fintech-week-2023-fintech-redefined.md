@@ -81,13 +81,13 @@ related:
       domain: fintechmagazine.com
     quality: 4
   - title: "Hong Kong FinTech Week 2023 “Fintech Redefined”"
-    excerpt: "Invest Hong Kong (InvestHK) today (October 18) unveiled details of Hong Kong FinTech Week 2023 (HKFW). The eighth edition of HKFW, themed \"Fintech Redefined.\" will take place from October 30 to November 5."
-    publishedDateTime: 2023-10-25T13:27:00Z
-    webUrl: "https://financefeeds.com/hong-kong-fintech-week-2023-fintech-redefined/"
+    excerpt: "Organised by the Financial Services and the Treasury Bureau (FSTB) and InvestHK, and co-organised by the Hong Kong Monetary Authority (HKMA), the Securities and Futures Commission (SFC) and the Insurance Authority (IA), HKFW is set to attract more than 30 000 attendees and garner over 5 million online views from more than 90 economies."
+    publishedDateTime: 2023-10-25T11:56:00Z
+    webUrl: "https://www.globalbankingandfinance.com/hong-kong-fintech-week-2023-fintech-redefined/"
     type: article
     provider:
-      name: financefeeds
-      domain: financefeeds.com
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
     quality: 4
 
 secured: "hoqFDyb3fJ4UFXzeget1R5DuOcirKC0hszxQTuWtVz7WBO1nafQsbMpXASluK48UHkcK9gh9N/I04LSciqOkTDs0KJBVCn7yQdjvsuL+oX65Y0IcKi5eXvApDFhl9Gba0WgtN00cRmAGeh4Zz7noHzltlZMvmRWIu1EzyZto37VscZQkEEYrVS1DwDNJh95UV/ZWw+ni+Bzoe9PznJb0plPArCeHiLOZxjjdXyuiPh+sfsp0WlMgB/0LuP5fB8qI36HtyHi/uSucIejwothKoZXHy5KmUO7b8rnVG8EwxDaRNhHqxpp/oU19rLz2fCsYRzHIt5A25zn9z8FUUB2ikUpJXLV20y6XPaLU4Nq/XR0=;1LTFFOa2nwj4xIKukQq3Og=="

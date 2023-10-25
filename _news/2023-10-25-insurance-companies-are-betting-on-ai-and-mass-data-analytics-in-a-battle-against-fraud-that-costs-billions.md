@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/insurance-fraud-artificial-intellige
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10?amp"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 6
+  - title: "Data analytics introduced for equine safety"
+    excerpt: "The Horseracing Integrity and Safety Authority (HISA) is collaborating with Amazon Web Services (AWS) to apply data analytics, machine learning and artificial intelligence to enhance equine"
+    publishedDateTime: 2023-10-25T18:07:00Z
+    webUrl: "https://www.kentuckytoday.com/news/data-analytics-introduced-for-equine-safety/article_5d8442ee-7361-11ee-8f80-8f038cd8d329.html"
+    type: article
+    provider:
+      name: Kentucky Today
+      domain: kentuckytoday.com
+    quality: 4
   - title: "Databricks, the $43 billion analytics firm, acquires data startup Arcion for $100 million"
     excerpt: "Databricks agreed to acquire Arcion, an enterprise data company, for $100 million Monday, including incentives, CEO Ali Ghodsi told CNBC."
     publishedDateTime: 2023-10-23T12:30:00Z

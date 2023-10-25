@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/as-developers-learn-the-ins-and-outs
 webUrl: "https://www.zdnet.com/article/as-developers-learn-the-ins-and-outs-of-generative-ai-non-developers-will-follow/"
 type: article
 quality: 62
-heat: 82
+heat: 83
 published: true
 
 provider:
@@ -47,6 +47,6 @@ related:
       domain: siliconangle.com
     quality: 12
 
-secured: "IAu9b7PzEXzAxGsJiXOjYHuLo12sXE7wIew5dafsd32FPk2ou4m2rxGul7kIzTiNExzSSPPa6lvJQe7bt139n6H1oHDBgz5ayFp1j7RTFiamVHpmYUqWWmRG/ccgT+JbpYxqGjlipjzCkGQV4PX2tni4eaOxuOXfH1AgAFf1Z9yKWImc9sU7CJeLtfOCCC22VZpP7AlYovYL0oSakwAHqea9VesehzbHzgLQBzn082fhRjwnqRtcFaHOB7l4BGffKXuZyjMUGBjqQ3UQGm6t+HTHRPC0TjuqVfCKmaewYoMJfwUd6HXeK8H4tHxYc74P0PuutyF6r8LKoGDScKBg1Wcq2ehIRQgbpteuK67GV6o=;mc8vuVVXZcSbjS5F3S7SrQ=="
+secured: "+qILrpD7SKtLR+VJmtcbuCrPlY0H7sXvaxt6N7Y3bORhNin1pB07h0Tur2bdP3z5C1bUhSmH/sOYJJ83hFL1EQR/mCU5p07syHIB8TJHXHVsxvVoEONICB3q7AVFEXvJ5P3Cw10QZCc9KQ56lD36adOaW9K4gjDpo+dKBtGmydv48h5N4+TJ1n487TKFJuT4pr6THu1gUkVZzdjraNhXQYiyaOBTYjHjJdqt8QjHeB+i9Y69L/2xY0OfKyuYpU2v6LEZsaRq3vmPNJeNbAlJHzMga3cGyVlSDHjYeP/OxihG2YR9qR/XgCC6pMAdcsPtGM9d/4E884jI8mPjNwuhxmuOp2wcgcTDULWJzR7z19qd1uEZ9IeQ3Vve4k9A1SyleMyqfLJ3XLZdNxdTYEazqroRttcG41e9ZQOHKoHYnY/80LHWcuLFMq3XKpB+1P4ZGkwuh28+M2dx75TWB6DwBfxnCAmfqPizfoA1O/mc4nOl+vLg/UDOcQwh3cofGcRUjSHes/iJt32EHgIh5aSK7g==;IRitcKlUWeaTvrfrHiN+VQ=="
 ---
 

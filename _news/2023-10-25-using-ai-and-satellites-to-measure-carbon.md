@@ -24,71 +24,75 @@ images:
     isCached: true
 
 related:
-  - title: "The employees secretly using AI at work"
-    excerpt: "Some employers are either tacitly or outright banning access to generative AI tools like ChatGPT. But employees who love them are finding ways to discreetly backchannel."
-    publishedDateTime: 2023-10-25T11:00:00Z
-    webUrl: "https://www.bbc.com/worklife/article/20231017-the-employees-secretly-using-ai-at-work"
+  - title: "UK officials are using AI to make decisions on benefits"
+    excerpt: "‘There is a lack of consistency and transparency in the way that AI is being used in the public sector,’ said Marion Oswald, a professor in law at Northumbria University and a former member of the government’s advisory board on data ethics."
+    publishedDateTime: 2023-10-23T17:19:00Z
+    webUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/?ico=trending-post-strip_item_4"
+    ampWebUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
+      name: Metro
+      domain: metro.co.uk
+    quality: 59
     images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0gm2hff.jpg"
-        width: 624
-        height: 351
+      - url: "https://metro.co.uk/wp-content/uploads/2023/10/GettyImages-1199003735.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
         isCached: true
-  - title: "Demystifying artificial intelligence in video security"
-    excerpt: "Artificial intelligence is transforming video security, yet many misconceptions persist around what AI-driven solutions can and cannot (or should not) do. Part of this stems from the complexity of modern machine learning,"
-    publishedDateTime: 2023-10-24T15:44:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/article/53076147/demystifying-artificial-intelligence-in-video-security"
+  - title: "UK officials use AI to decide on issues from benefits to marriage licences"
+    excerpt: "Exclusive: findings show uncontrolled and potentially discriminatory way technology used in Whitehall and some police forces"
+    publishedDateTime: 2023-10-23T20:51:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 56
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/10/GettyImages_1023344400.6537da7281b01.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+      - url: "https://i.guim.co.uk/img/media/f67ebc8d0858465139589175ab93563fb53a003a/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=39186499043e05877e63f25acf06ca8e"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Millionaire uses Artificial Intelligence to develop medicine"
+    excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
+    publishedDateTime: 2023-10-23T14:55:00Z
+    webUrl: "https://www.aol.com/news/meet-millionaire-using-artificial-intelligence-220148874.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/1a966eeed169632ef66240d355698698"
+        width: 976
+        height: 549
+        isCached: true
+  - title: "Revealed: Government using AI to decide on benefits and driving licences"
+    excerpt: "Government officials are using artificial intelligence (AI) to help decide on everything from approving marriage licences to who should be given benefits, it has been revealed."
+    publishedDateTime: 2023-10-24T06:50:00Z
+    webUrl: "https://www.aol.com/news/revealed-government-using-ai-decide-064919745.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 38
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/3128803184bdd660a7bb0eff51bb8862"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "The Artificial Intelligence Glossary"
-    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
-    publishedDateTime: 2023-10-21T22:47:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/10/21/the-artificial-intelligence-glossary/"
+  - title: "UK officials use AI to decide on issues from benefits to marriage licences"
+    excerpt: "Exclusive: findings show uncontrolled and potentially discriminatory way technology used in Whitehall and some police forces"
+    publishedDateTime: 2023-10-23T12:48:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences?ref=emergentmind"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 43
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "A|I: The AI Times – OpenAI employee secondary values company at least $80 billion"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2023-10-25T09:01:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-openai-employee-secondary-values-company-at-least-80-billion/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 34
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2023/10/tenstorrent_hyundai.jpg"
-        width: 1050
-        height: 700
-        isCached: true
-  - title: "Basis Secures $3.6 Million to Bring AI to Accounting Firms"
-    excerpt: "Basis is an AI platform for accounting firms. Basis sits alongside existing software and gives accountants a team of AI assistants to streamline workflows, helping firms improve the quality and efficiency of their work. The company was founded in 2023 by Mitchell Troyanovsky and Matthew Harpe."
-    publishedDateTime: 2023-10-23T21:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/23/9903664.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
+      name: The Guardian
+      domain: theguardian.com
+    quality: 15
 
 secured: "4i4ABB833TaVJb7y/YeWQRLyE7VBkgxPCPyy3N/cXhwAgccSSWWc3J9yFWY2t+auHyGZbfhu8fRojhS9bL1KiychBCLIXnj3LIwRzRZLkGXvi+gASZq74zBuM/DyLDQsRq9549OqMfp51fCxbRccvDEJ69cifI6jiM4AMCd1CRzDjsEcmQ6ZWBx0MJG6jfA2c9PVCQKy/+KTx0r6YrJNqkeNmPKPY7Es40q/U5OexJZIEtvYYnRZwPyjsUCndrv2rWgoP8xuejcU2/Pvqnqj9hlDUcuBzA5sOcTJ9gajbsCmAGnBWh5IrtoI+gXwt1ck1CBa5vJjHXItpSnRClYpaqvOcGZqeBxEGKLE/qsCd9FPn1bxDaQFiOaDt/765AzacRxoQx+wMY+rUkGGgaFlct5o4/oLVM7lCgt0QFV9Swm29JXUOCy0X1byuRv2WLlWMlxlHUdC8ibciUQtYVSmcE1TQj6niMj4187qMqWGZFhk1S4lWYwYpQUSyt8UHvk8c7yyG4bfWK+szl9OrMXimA==;Of/siSGM3WIGurA/sIVVyQ=="
 ---

@@ -127,6 +127,20 @@ related:
         width: 480
         height: 269
         isCached: true
+  - title: "Honor's Magic 6 Phone Teased With Generative AI and Eye-Tracking"
+    excerpt: "The new chip will allow Magic 6 owners to tap into generative AI wherever they are, even offline. The buzz around generative AI tools started last November when OpenAI released ChatGPT. Since then, companies like Google and Microsoft have been in a rush to ..."
+    publishedDateTime: 2023-10-25T21:42:00Z
+    webUrl: "https://www.cnet.com/tech/mobile/honors-magic-6-phone-teased-with-generative-ai-and-eye-tracking/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 69
+    images:
+      - url: "https://www.cnet.com/a/img/resize/47cb261b2b462fe25aaa3c087244fc80c599f70a/hub/2023/10/25/1d946b27-8f0b-4525-8ed5-42c0a0cb4b3f/screenshot-2023-10-25-at-2-28-54-pm-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Role of CX automation and generative AI"
     excerpt: "Customers expect personalised and efficient service, and the emergence of generative AI has led to a significant shift in the way businesses approach customer service and customer delight. Like human interactions,"
     publishedDateTime: 2023-10-22T09:48:00Z

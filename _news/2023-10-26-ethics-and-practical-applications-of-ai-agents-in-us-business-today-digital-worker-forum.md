@@ -1,0 +1,55 @@
+---
+category: news
+title: "Ethics and Practical Applications of AI Agents in US Business Today: Digital Worker Forum"
+excerpt: "The International Digital Worker Association (IDWA) is thrilled to unveil the Digital Worker Forum, where experts from Microsoft, Google, IBM, NVIDIA, Meta, AutomationAnywhere, UiPath, and other tech giants will answer these and many more questions on November 8, 2023."
+publishedDateTime: 2023-10-25T18:50:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ethics-practical-applications-ai-agents-us-business-today-/2023/10/25/9905397.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ethics-practical-applications-ai-agents-us-business-today-/2023/10/25/9905397.htm"
+type: article
+quality: 25
+heat: -1
+published: false
+
+provider:
+  name: TMCnet
+  domain: tmcnet.com
+
+topics:
+  - AI Ethics
+  - AI
+
+related:
+  - title: "Workshop On Soft Law Governance Of AI Applications Knocks It Out Of The Park And Dazzles With Keen Insights On AI Ethics And AI Legal Impacts"
+    excerpt: "A workshop by the ASU Law School covered key insights about soft law governance of AI applications. Here's a guided tour of what was presented and what you need to know."
+    publishedDateTime: 2023-10-23T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/23/workshop-on-soft-law-governance-of-ai-applications-knocks-it-out-of-the-park-and-dazzles-with-keen-insights-on-ai-ethics-and-ai-legal-impacts/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/23/workshop-on-soft-law-governance-of-ai-applications-knocks-it-out-of-the-park-and-dazzles-with-keen-insights-on-ai-ethics-and-ai-legal-impacts/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/23/workshop-on-soft-law-governance-of-ai-applications-knocks-it-out-of-the-park-and-dazzles-with-keen-insights-on-ai-ethics-and-ai-legal-impacts/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61e26084775e5f976df5226f/0x0.jpg?format=jpg&crop=935,623,x85,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
+  - title: "How governments are approaching the regulation and use of AI"
+    excerpt: "“AI is not just about the technology; it’s going to impact aspects of our daily lives that we can’t even imagine right now,” Dillon said. “We need to really concentrate on and address the ethics and the regulations and the workforce concerns and ..."
+    publishedDateTime: 2023-10-23T14:13:00Z
+    webUrl: "https://www.cityandstateny.com/policy/2023/10/how-governments-are-approaching-regulation-and-use-ai/391389/"
+    type: article
+    provider:
+      name: City & State New York
+      domain: cityandstateny.com
+    quality: 39
+    images:
+      - url: "https://cdn.cityandstateny.com/media/img/cd/2023/10/20/GettyImages_967906100/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+
+secured: "BuuPyCadUmBoIKxU059pB/dWFl8n6Se24XV4TEd1WoX4PIkJf+iiJYUrIcSM0+9/Yf4NrL0+HkEPlBxtEf+ilZvAS3UPH1QQVa8Jf1MdClTJNa5KcR3eEuSXsAjgsJSOx9VYcrrTGeGKLkf3dc8PzrxiGkK/WRcOpe+bvIMxT5c+DNxHz7PhhL/X2FibP0SzGJk9AOwLOFWxD5a/UTIwYUPw/RuiJFkSNxFKmrwAzNoVk8FxhNbhAibLjTDiPYEXwG0o5OSfZ3JsmbOG5JO4nXexSo5r09XHu1FUkIR0c7aeI0UcC4JDFiTeQlJWQp5y+Mw++ppZuZYUIUOA9A0nsUJslcFp1JtwS/Gnp5QHnDc=;uUWGle8ZfZGE/JC5QZGV0Q=="
+---
+

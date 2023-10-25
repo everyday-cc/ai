@@ -116,6 +116,15 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 19
+  - title: "California DMV suspends permits for Cruise’s self-driving robotaxis"
+    excerpt: "California's DMV has suspended GM's permit for AV deployment and testing, alleging the company has \"misrepresented\" the technology's safety"
+    publishedDateTime: 2023-10-25T18:15:00Z
+    webUrl: "https://www.cbtnews.com/california-dmv-suspends-permits-for-cruises-self-driving-robotaxis/"
+    type: article
+    provider:
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 4
 
 secured: "ObnN62q3ucU2numWdmWV53zNNxoqQOvhSX946Yd+CiYbOkZkG2qyPbF87mWOSIwVCH6NwY8lY0z65zymKB7t8achtqKBSc3KORS249zyp19dQaAPT2K0eZ+/4aeO99q6KAzLcr1LcvtOD6Ks+McqMI/sF2xv6jgMPf7g4ta6LTlRgHFNuan0rG+IHiYm/heuAzsSkDFzL5PjlrtQVrWxyoBOeOa2xmDfdDG8PtBMKfOWwfwVwP7h0gikN91lF5voDrx4N3MrNK53lUReq6Lt3XA0rOX1ZEcII5xJqzy4svmaGqJ13i/3Q5cLABLFGeFczHJy6t3WbyMZjL3n2/++SsCMEX/pUsSxnHuaxDsk2sY=;RZCJTsjc95YQNBDMog1wKQ=="
 ---

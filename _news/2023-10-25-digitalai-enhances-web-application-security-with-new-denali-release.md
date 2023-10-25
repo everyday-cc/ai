@@ -28,7 +28,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 62
+    quality: 64
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_expressionist_painting_a_hiker_walks_up_mount_denali_wi_30bc9a64-92d3-464c-aa0b-141add50aee6.png?w=1200&strip=all"
         width: 1200

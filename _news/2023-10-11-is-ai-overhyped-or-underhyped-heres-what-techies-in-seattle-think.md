@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-11-at-8.15.06-AM.png"

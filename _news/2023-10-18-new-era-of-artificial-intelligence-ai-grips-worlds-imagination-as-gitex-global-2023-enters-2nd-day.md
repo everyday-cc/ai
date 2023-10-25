@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New Era Of Artificial Intelligence (AI) Grips World's Imagination As GITEX Global 2023 Enters 2Nd Day"
-excerpt: "Pony, a global robotaxi unicorn, weighs global expansion as the world embraces autonomous mobility; His Excellency Omar Sultan Al Olama, UAE Mini"
+excerpt: "Pony, a global robotaxi unicorn, weighs global expansion as the world embraces autonomous mobility; His Excellency Omar Sultan Al"
 publishedDateTime: 2023-10-17T17:27:00Z
-originalUrl: "https://menafn.com/1107260661/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day"
-webUrl: "https://menafn.com/1107260661/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day"
+originalUrl: "https://menafn.com/1107258220/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day"
+webUrl: "https://menafn.com/1107258220/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?899983"
-    width: 375
-    height: 250
-    isCached: true
-
-secured: "2Yl4nhwRgxYe/tbFG8d1R+uHNCVvyaTGu15A590qDlX3rPnrmWNYHKVeLjJx3IvDEV6r/TZoGKkSDQ9yhry747mtMCTtNK7n89yL5Vsg80jger9RR4YxFPYwXLxUH8bZbqHT6E9QfrarYCHJEwp5H3S2iXJrO+KmEZ75baAMMOrdw/0CCu/cJ13TJlp6dUoELyQ4wV2blplQ0rOv//WmRePTL2gV8ZVCog3TYwnlHjh4z6IpKMeYStJd1N3rUnLl0ag3oodKyStdnxi8J6wI7FDljOJMIMxelvTBBUsZePt3oF75N9BEGnf3cik/G9TEuCiailCkcyFCD+PuHN35dOtcUdDJ0mIa0ZAXSD0OXAg=;Lhm3ZwmOWD+81QSe48teeg=="
+secured: "UkHPJSR4hWXTnBePKclMF/RrN7KypUW3Ed+/e155yWaB+fD5SpPF7nHhBtuVjW+pd7P26kiFPip9h+T4Ri3GIZoN+3O6/j0ior7iQIxWznv0KDMj5yRMacjW7DkFkiuYP3MR67i+lRVBM2nDlGp6w4RBrQC6KVZazcFGbH5KCs3AYV8zfxyk+dfbiior0e5eAl+hYg2lJBcVB+Ea00FFYSB8ykK3rWegeqitxfbfKMK1fE0GTn6LI52pgUF3nAwJ53lsHn2qoOSgk/For8Hy7wdqGeu2/ByK2J0RoTGwquxmi0h1U7yLNk/xjznnaj1I+WfHBGv8CgMdSZ6FFjxdVR6WsifAgMhWfdohcmmpN+o=;5xtRnMaRIUCVU+gnf/FRFQ=="
 ---
 

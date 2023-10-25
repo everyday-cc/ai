@@ -139,6 +139,20 @@ related:
         width: 480
         height: 269
         isCached: true
+  - title: "Honor's Magic 6 Phone Teased With Generative AI and Eye-Tracking"
+    excerpt: "The new chip will allow Magic 6 owners to tap into generative AI wherever they are, even offline. The buzz around generative AI tools started last November when OpenAI released ChatGPT. Since then, companies like Google and Microsoft have been in a rush to ..."
+    publishedDateTime: 2023-10-25T21:42:00Z
+    webUrl: "https://www.cnet.com/tech/mobile/honors-magic-6-phone-teased-with-generative-ai-and-eye-tracking/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 69
+    images:
+      - url: "https://www.cnet.com/a/img/resize/47cb261b2b462fe25aaa3c087244fc80c599f70a/hub/2023/10/25/1d946b27-8f0b-4525-8ed5-42c0a0cb4b3f/screenshot-2023-10-25-at-2-28-54-pm-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Snapdragon 8 Gen 3 Official, Designed With Generative AI in Mind"
     excerpt: "As expected, Qualcomm made the Snapdragon 8 Gen 3 official this week at its annual conference in Hawaii, and no, I’m not there and I’m mad about it. Qualcomm is hyping this chip to be an AI powerhouse,"
     publishedDateTime: 2023-10-24T22:31:00Z

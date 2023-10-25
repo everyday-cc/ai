@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/amazon-develops-lifestyle-imagery-ai-fo
 webUrl: "https://www.pcmag.com/news/amazon-develops-lifestyle-imagery-ai-for-lazy-advertisers"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: PC Magazine
@@ -26,6 +26,17 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "Amazon’s new generative AI tool lets advertisers enhance product images"
+    excerpt: "Amazon is rolling out a new AI image generation tool for advertisers to generate backgrounds based on product descriptions and themes. Amazon is currently Amazon's new AI image generation tool lets advertisers generate backgrounds for product images."
+    publishedDateTime: 2023-10-25T18:53:00Z
+    webUrl: "https://techcrunch.com/2023/10/25/amazons-new-generative-ai-tool-lets-advertisers-enhance-product-images/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
 secured: "ie5w/3P43kA3SxlazBIAMCDphLdy79RcKcsHgH4cPIaoO+/ONpQfXhhYCrb1Vww4Xvtos3YA0oVwriXRFhcMnfyxg6fVHGIhUY8xC4RBnqnaIOcHJ+kzEO6MR45WcURnYG1ThydXbrEkGJlUy1WIvkOUA+AJlVH/UaKgw+sM2h77P9svporZdEWeGGOvYi3jt2zy21fGgL10DYdo3ADCh0mdO8a5N4+lgDnIl1Ces629j1CIsf2ds5n0g39Hl6zibDyIQTkmMeg2YM+t7p8CHJHKF/lFywuDSi0BeTJDUas1VoFHegO7SBvmV8FQ8W26QWLP2JaEFzL1fLO+wB93KZDP8k7o9QVzHqu4b/80mJtUdmMYM8L5VhzWzD5I7afL9YOtk69gVb13b+5uj90eBABTm8+CqF5PiCF7Rg/nkWRl/MgopOgnIBxin1Q4S7l3bz1MLqtyehAlWC/j6theMi4Yoic06Nq4PGeJT77/B7RvO7aMT9HwI1ZIzudHwa0Fe9ALizHWUdl1QwtTALnBPQ==;1PY05Z+qR70XTCCWbTWrVQ=="
 ---

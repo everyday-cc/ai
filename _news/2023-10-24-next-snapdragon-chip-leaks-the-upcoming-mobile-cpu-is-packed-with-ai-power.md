@@ -39,6 +39,15 @@ related:
         width: 1920
         height: 1079
         isCached: true
+  - title: "Android apps will need to moderate AI content to stay in Google Play Store"
+    excerpt: "Developers will also need to follow Google's guidelines for prohibiting and preventing the creation of restricted content."
+    publishedDateTime: 2023-10-25T18:00:00Z
+    webUrl: "https://www.androidauthority.com/android-app-generative-ai-3379388/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 45
 
 secured: "NCYlvpAYNhQz1bHdCeKQemmzxhXaTes6qb/55chC3Cbw/XxYioU5hNC4x56z4GOqz9BhXq5CNcdz0B9l0ajebs1DtOR5fInouoYoyp24BXvuB8K6Lsh7J+KuIqX56icEgBuEig0kWqU65oMvCpWgStkopYBKu5iFH6wYNbQyodwue965NfZrMH/DmukPCaOvtgv1AKAZbe6csQce+F4z1eQN1sFIHHyLh4O0lYvXYDt3dQ8rcc2fRnkWwZBjsUNV4a3hdYhz0P1oYwKp+0nnkREqQbX76DDNTz3SLu1RMdxyhiVO9r6HvD/zduGX9wtcZzzy8wqFyyMwNQnHr/RrvPlNrJ9rGP/G0NQ09K93tn/Lp/NK88nGn7N0nlAfhOQgzZAmMax39RzMwkgTcb4YvZ5/btoXvy+ZTrT20LNQdoJzuqDgvyWJ3LQyUuSrBkuNAsuJlVticEFvFFqKxY43hCVS5/oi+GF25U76cqsNZI/M/X3BoBPW4VHvwRnOj/fT+FVE5J+bNTMNwm0yG3OCSA==;jbZOLCmfzpn3gqMScfNilQ=="
 ---

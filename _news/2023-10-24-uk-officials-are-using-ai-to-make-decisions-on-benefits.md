@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-a
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/3128803184bdd660a7bb0eff51bb8862"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Using AI and satellites to measure carbon"
+    excerpt: "Part of the ITN Business programme ‘ Carbon Markets: The Power of Data & Innovation ’, made in partnership with the Climate Action Data Trust (CAD Trust)"
+    publishedDateTime: 2023-10-25T09:21:00Z
+    webUrl: "https://www.newscientist.com/article/2399095-using-ai-and-satellites-to-measure-carbon/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/10/25100539/cad-trust_-gait-global-6.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "UK officials use AI to decide on issues from benefits to marriage licences"
     excerpt: "Exclusive: findings show uncontrolled and potentially discriminatory way technology used in Whitehall and some police forces"

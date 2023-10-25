@@ -52,6 +52,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 6
+  - title: "Data analytics introduced for equine safety"
+    excerpt: "The Horseracing Integrity and Safety Authority (HISA) is collaborating with Amazon Web Services (AWS) to apply data analytics, machine learning and artificial intelligence to enhance equine"
+    publishedDateTime: 2023-10-25T18:07:00Z
+    webUrl: "https://www.kentuckytoday.com/news/data-analytics-introduced-for-equine-safety/article_5d8442ee-7361-11ee-8f80-8f038cd8d329.html"
+    type: article
+    provider:
+      name: Kentucky Today
+      domain: kentuckytoday.com
+    quality: 4
 
 secured: "ZqjXs+1g3DkGVT6BQpMzWbdyVxhVTgedvixdUPhHuDx50mDF/g5uPWEvFODIi/hkM9rMvWaOiHwnAHiX0uURQXPrPkmaesKbSzYxQWdksLyxCqXNuoR1B43GcZ4YvkcAkfmFLhvkzO3drwtg+Zw/fFF1I5TVq8PuoYidKc5pTQY8K4fEqAeAcp9pzPUYxkLnZlp5gE4lM2kWXi5PZZCGA+pZUMOFrtU9MkGSJHFj/MbhqowjJuw51UkZke1pY3owyvuj8rHuMv1U/zLG9nMWz5ZN8eMkwVsCshmoRfdodPp8u848ovmlGQYL/YwWODRSpZwZVUaUx9CroOPRwiodktBFLbIfW6ETNz1Kk6273MWNgc+7dYHvmoj5pB4ShV9pJ4RUhg6ov3QCckZesEaC05Sc/3OU+NzhaVRtzFiiPpKXj+qyFCMCwuCNasZ71holgnSDgsjXRegypX6FWRJl9eO1I94R4SHfB65kt8q+lRZKkc5k5yjjm+3GHWZwoQmWKkl2vt+bC9ZUX4ciaM1mNQ==;joI+O4RUIC5943wMKzWl7A=="
 ---

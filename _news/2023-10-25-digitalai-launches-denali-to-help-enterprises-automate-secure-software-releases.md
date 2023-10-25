@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-25T13:43:00Z
 originalUrl: "https://venturebeat.com/programming-development/digital-ai-launches-denali-to-help-enterprises-automate-secure-software-releases/"
 webUrl: "https://venturebeat.com/programming-development/digital-ai-launches-denali-to-help-enterprises-automate-secure-software-releases/"
 type: article
-quality: 62
-heat: 72
+quality: 64
+heat: 74
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_expressionist_painting_a_hiker_walks_up_mount_denali_wi_30bc9a64-92d3-464c-aa0b-141add50aee6.png?w=1200&strip=all"
@@ -38,6 +39,6 @@ related:
       domain: siliconangle.com
     quality: 36
 
-secured: "r8yW6nI5DUJ87kBD6TQh1yeZygDVHYALMtbEecYYfE3Myz2x7vMhwGYlYNMxvrKN5DmHo03c2vdmV9LPjQGPMXU7sVwZM+ne8gBhjBWMpD2I0IXvikd7zl3XCNJhqfVLohtrKkDKmBjPL194cJepInmQBK7ATCR0gqKbgjFWYxRNfv9o/pRkS65MHehnrI1d3hfrgx6hPWyV2eubiRKeXr2aiLYQH3sZxOj/NQbyWQ6rNM/zebLDss4MrDnq0ehOGT9/bbqxZ2SI9NNOwhm2AzKpjyCk9kKU6lka1NI3xuuvnoJTXk7Ae6X6OHYb+PGumVLzoaop/aqcNOCUiY9bbnyBPBYysAu7+SKa1xdFk7s=;fu961bU+c+UAuZNDH26+6g=="
+secured: "aVwMhAE6ya0aa86u2wpl9xd1uraeYBZzpALfWoEgEPRbtDrq4M0ON+vlytY+t4imXurKimIhhVvgwg7fCqtD0rVCbFVXyrilNV3RybhK7OXNu2PQ6iM4xdIgJkyMWGSiO0y4n0y2steHyINC6vZ5o/9oxhT77jYUMu/mwIH1uTw+jyEcFIfwpRmGh4NGiiFCfXdefT4krqYjSYz9BIN2Q+5KbVBjdxEX1ojXl5vQ7Q22bwJ07eBp6rBcX6q9z3SzGVQFZ0WNJ8TMWVPyVNUVEVUODDTRw2o33sDHJrUZZrydm/kLgo1ws0qB1zNjWFy8rlN0ndicsLwnp6yQj+XENCoqokx9/TWmCBuEV1vPqNXWsUI/Mo/Mnn/XvFYrbJ79jf1B3m/4LYGzV1daOxeSfMrk6S3NCFbjCv35n/I8C/cXuEOOBvDJmjhoJkJz8r/uxpzE1/ng5lYh45qfYkk+h1xgjo9GCEPxUucsOeYP4995TkkWY7TsXZTQxiGLIipi0JOLmrnKAavFGYgZrA8uzw==;WHMfkRpSQc/a+MotzADsug=="
 ---
 

@@ -82,6 +82,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Using AI and satellites to measure carbon"
+    excerpt: "Part of the ITN Business programme ‘ Carbon Markets: The Power of Data & Innovation ’, made in partnership with the Climate Action Data Trust (CAD Trust)"
+    publishedDateTime: 2023-10-25T09:21:00Z
+    webUrl: "https://www.newscientist.com/article/2399095-using-ai-and-satellites-to-measure-carbon/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/10/25100539/cad-trust_-gait-global-6.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "SHosCRFvFcJM81NujEI7QcLsxSq/F7UjvgZnTrVIbPmaFjXdP7niNF40gbVjJixlxEuL0J8Ngny9cLtz52vYekxoya37T9DO06xQPPC3HRqV9/fpAYbXCN1rn7mJWHDP0+Exr02Ir1A0H6NJgpKpH+4kZDDj2OWZzDDvJeWoP7buCKa/p9RuuLsOnQvdAKe5uwQs7R/WJkHTyzgrV8Yc66YdxbZ6HJDyjrXM2nRFxj7sIS03OQ2ITCelslqtTXKqglmEnHaxrXDfEKY42ZgtP8L8xSHDEejfma47wQtS0jUeQ2SZD6kbF9XFW589QQcWpRZPceTodLGlUtZ2PQfKkxzPrTsXH05o3hl+iXf9vjiTMDMUYoOYkrkRqp/JaTOA6avAxxaDvxMNQGStqPZBM3Yy59g8MljAMKy1tomc1bBVLSGjKV6WSrHhZfKnvDenvU2XxqGGljQIopGyeq18vp/27JIp+YNE+9q4r0wvsQX6JKPpSI7lVbJAZJXW8wVGciqFWI+TYZCzxNgb2f+6wQ==;TNWEgQB7j1CZVY208TiRdA=="
 ---

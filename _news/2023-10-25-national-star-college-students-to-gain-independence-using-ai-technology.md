@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/uk-england-gloucestershire-67102641.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-gloucestershire-67102641.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "The other AI: NBA app adds AI technology to personalize user content"
+    excerpt: "The NBA has added AI technology from Microsoft Azure AI Services to its app to help streamline creating content."
+    publishedDateTime: 2023-10-25T18:27:00Z
+    webUrl: "https://www.sportsbusinessjournal.com/Articles/2023/10/25/nba-ai-app-microsoft-azure.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessjournal.com
+    quality: 19
 
 secured: "OnRROf0uqEX8btVBtBh9JLFLfCxRkuL0VO17QtcaBnjxgGw2qVOBls1F6eeAIIrs7e/Yid8HVrVa3vxJnJEr4Y9GGqWN8nTVJdFjEZ75qIUq7nvUVPeHuk/134Y29WsmS14yf6JE0pYnhwljaURH20nVwjnWq+BpqSkVtiwKo3A5upm0zchIGvhmtcMQdBu20TRBiiLs97avSwaywhv5xUqx3J6s6XfXEBsdIiOhDuzP9Gvma97BcJ5i/ZyZrkyKYN1NxyeO24+yZ3YkYD26qOT1oXjv0Qa7Kejk83WZOcnKylvFqsKQX9CTM+oIMVBZSZ+2uQ6+Zf5E9Frqwr1cECgE9Av4d0ILd0ZT5J7K8Is=;WWU/Xv94TosvgOFrAHGOrQ=="
 ---

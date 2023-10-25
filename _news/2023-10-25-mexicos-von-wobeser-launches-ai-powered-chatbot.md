@@ -27,8 +27,8 @@ images:
 related:
   - title: "Mexican Law Firm Von Wobeser Launches AI-Powered Chatbot"
     excerpt: "The firm plans to use the chatbot as an in-house legal assistant that can field questions and summarize content."
-    publishedDateTime: 2023-10-24T20:58:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/10/24/mexicos-von-wobeser-launches-ai-powered-chatbot-397-78362/"
+    publishedDateTime: 2023-10-25T16:09:00Z
+    webUrl: "https://www.law.com/2023/10/24/mexicos-von-wobeser-launches-ai-powered-chatbot-397-78362/"
     type: article
     provider:
       name: Law

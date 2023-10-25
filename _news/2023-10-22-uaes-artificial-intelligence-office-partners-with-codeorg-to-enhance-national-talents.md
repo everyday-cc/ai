@@ -1,0 +1,53 @@
+---
+category: news
+title: "UAE's Artificial Intelligence Office partners with Code.org to enhance national talents"
+excerpt: "The Artificial Intelligence Digital Economy and Remote Work Applications Office signed a memorandum of understanding MoU with Codeorg a leading"
+publishedDateTime: 2023-10-22T09:12:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/274007200/uae-artificial-intelligence-office-partners-with-codeorg-to-enhance-national-talents"
+webUrl: "https://www.bignewsnetwork.com/news/274007200/uae-artificial-intelligence-office-partners-with-codeorg-to-enhance-national-talents"
+type: article
+quality: 11
+heat: -1
+published: false
+
+provider:
+  name: Big News Network.com
+  domain: bignewsnetwork.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+related:
+  - title: "Most Effective Ways to Enhance Your Business with AI"
+    excerpt: "Exploring enhancement opportunities with the latest technology and AI makes sense. Not every business owner will know the most effective ways to use tech to their advantage, so it doesn't hurt to perform research. Many HR processes can be time-intensive."
+    publishedDateTime: 2023-10-24T09:26:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/most-effective-ways-to-enhance-your-business-with-ai/464153"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1698092347-AI-workforce-1438555256.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "FCC Wants to Fight Robocalls With Artificial Intelligence"
+    excerpt: "The one thing I know about any battle is you’ve got to go in with optimism,” the FCC chairwoman told AARP. “And so at this point while everyone is talking about AI and th"
+    publishedDateTime: 2023-10-23T22:56:00Z
+    webUrl: "https://www.aarp.org/money/scams-fraud/info-2023/fcc-ai-robocalls.html"
+    type: article
+    provider:
+      name: AARP
+      domain: aarp.org
+    quality: 37
+    images:
+      - url: "https://cdn.aarp.net/content/dam/aarp/home-and-family/personal-technology/2023/10/1140-aarp-fcc-chat.jpg"
+        width: 1140
+        height: 655
+        isCached: true
+
+secured: "b5m4gKbW3jv67Y6B4EqxT8wolsSlIvW3J4r4IPsDKiRkCL0jRNP1FMN7f/kvoRUsgfte9olVknZXknsE/a+UxcyoVFGZJh2kTq3dMRVOELW8dTvkEcfM09p9zzlxPXzIumaWEyvX8KD2jyEB2mZ/mS38mO//BOraOYT1lutbf3SO/HLtrZprPv1JSAOx/s244zYaB4fSPdL/y3ThW7z5VAPjZM8Wpe2n0pnfOmU9l6RE9liiKBacrlN0I0XB/L3p0hMWVDv2Ik6WXSDZcGzGxDmkfkL20ild8GNDKnJgXxrewKE/iEXbtXyPOwRXESAEOqL7W08fet7kcyPd2ERB1PSoVEcmfAuqr5PjAjXC5D0=;Tfae2D06JwLhFMniuW7jCA=="
+---
+

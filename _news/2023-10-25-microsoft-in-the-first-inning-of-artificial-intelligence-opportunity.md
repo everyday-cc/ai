@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/tech/23/10/35420368/microsoft-in-the-first-inn
 ampWebUrl: "https://www.benzinga.com/amp/content/35420368"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35420368"
 type: article
-quality: 74
+quality: 78
 heat: -1
 published: false
 
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.benzinga.com/files/turag-photography-1uqe5biih8w-unsplash_6.jpg?width=1200&height=800&fit=crop"
@@ -489,6 +491,20 @@ related:
         width: 1570
         height: 1156
         isCached: true
+  - title: "Microsoft grows cloud business, banks on full-stack AI strategy"
+    excerpt: "Large language models and the generative AI tools they power aren’t the only driver of Azure usage and revenue growth — but the technology has gained traction."
+    publishedDateTime: 2023-10-25T20:47:00Z
+    webUrl: "https://www.ciodive.com/news/Microsoft-AI-full-stack-strategy-Azure-cloud-growth/697831/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 54
+    images:
+      - url: "https://www.ciodive.com/imgproxy/AywSoSDyJzv2tqIvCkZtqQ8rXJeBON6IsbkGoo67ptY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTQ1OTg4NTkzOC5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "DCT Abu Dhabi And Microsoft Sign Mou On Generative AI, Cloud Technologies"
     excerpt: "( MENAFN - Dubai PR Network) DCT Abu Dhabi and Microsoft Sign MoU on Generative AI, Cloud Technologies"
     publishedDateTime: 2023-10-21T05:25:00Z
@@ -609,6 +625,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 42
+  - title: "Microsoft CEO Satya Nadella compares the advent of AI to the birth of atomic energy, calls for global regulation"
+    excerpt: "Satya Nadella traveled to the Axel Springer headquarters to receive the 2023 Axel Springer Award. While he was there, he sat down and had an interview with Axel Springers CEO Mathias Döpfner. The discussion covered a wide range of topics such as leadership, AI, the Activision Blizzard deal, and that canceling the Windows Phone was a mistake."
+    publishedDateTime: 2023-10-25T20:45:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/microsoft-ceo-satya-nadella-compares-the-advent-of-ai-to-the-birth-of-atomic-energy-calls-for-global-regulation"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 35
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2VRy8dMEYDFnkRvdryH6hd-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Wall Street is demanding financial results that support all the AI hype. Microsoft’s latest earnings finally delivered"
     excerpt: "Higher-than-expected AI consumption contributed to revenue growth, Microsoft CFO Amy Hood said during the company’s earnings call."
     publishedDateTime: 2023-10-25T10:16:00Z
@@ -623,6 +653,15 @@ related:
         width: 1199
         height: 892
         isCached: true
+  - title: "Microsoft took a chance by igniting the AI race, but it seems to be working out well for the company"
+    excerpt: "The lesson from Microsoft's strong AI-fueled quarterly financial results is likely to push other companies to charge ahead on AI products, for better or for worse."
+    publishedDateTime: 2023-10-25T19:32:00Z
+    webUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
   - title: "Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
     excerpt: "NDAQ:SPNS) Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
     publishedDateTime: 2023-10-25T12:28:00Z
@@ -660,6 +699,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "lbrCdynypdumVc3dupQSfk+w8SWbGrS3dIlrPJGt3ot7ZnPk2hvmIvoLN3U+/qqa1HjbG2wjVzpzs3a66BEvrCbfdhoLzdTHYilmbUY/CoxzPp1omKyl9E13/apCHQawTnNtAnJn1Ec1jE6z9vDr+uh5gvviobxdUKkwjAB+nLnE6dQX25eB/UXpL60Dx/crnTgwIZYnmdWARV/nZiqvYxoMcztpaBwgJoEPiZxG7OAmFm6VdsHNXW45unBg2+pHLBy0zzbWx6TMa3WyB9KC58k4/IGyN4aicJvMfp98lOAvR2BiW+d0YFOVibj2JjkzA5aGpLn8ZBd8tVM6L6CxAWb0QGud9kiHkB5SFdRvfW4=;wV6VyiLEK0HsokMR+KMJgg=="
+secured: "YiL43QiXGTGCbgNmqrig7jivYIzFJb9qgW7ZdPNsTv6Yu+oxHDlI0VN85B9DAEdxLDTdC06ImEnBwOdUCXmSks8Xdy7/fSw+RujQaSKC8qNKG+WYnxAigjQH/A3C+MG7/old4p34XeGZURPjLRXaBZ9N468QzsZBvnVvfQ9JUJGEa7A9NWholQjoN58RolQS/My74zdabtv+knlSd/601LVWAuIG92uHLyLgTPi/kcpzGYJvCAWMymSl2YHF4M19lmd6/NdOIo3ivSIgWOlYo1WhFE4Xq+8mGpibTKYhzQcHORvq7sO3p7NKD42EUTkIz0T1W9a0pcUx/SUwbpwsIFYq9WFrrFz346sFkuIvGo1ChKun/0sf+ai7kcjP4m6Ha4XxAqGN7fp/GicXxzQ5RnUhcmL3k+a70yEd4hqTZj/qYjV2rWZFEHZyRLOEXJMlCQ+33mPX4W8c/vZdqftv/rFc/0LPC+WIdodoPWQFihZqrSR99lAAMou+pFeGthHghP9Zr48H/VknH++0PqhB/g==;GmKPXegZPQMXSgBi+JN73A=="
 ---
 

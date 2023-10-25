@@ -39,6 +39,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Survival of the Fintech – WFIS to Unveil Indonesia’s Market Leaders"
+    excerpt: "While the stakes are soaring high, fintech companies in Indonesia are vying to get on top and dominate the FSI market."
+    publishedDateTime: 2023-10-25T20:12:00Z
+    webUrl: "https://www.coinspeaker.com/survival-of-the-fintech-wfis-to-unveil-indonesias-market-leaders/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 24
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/survival-of-the-fintech-wfis-to-unveil-indonesias-market-leaders.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "tBiin3722FwOq05aX4mxLq0nWTLFA5Nq6HebHWY+zUY5bBZK1JhUabcZG4dbMRIkzis7Z894RGH77TmwOqOaFZAujkxEkBiFprAEmY6VawHo6PqKR1iOpq+z09Bg3SDhm0OxzAzaRRsgB1MwfbjtNjFnEGWjCFKNHi/iCpXo/EM9cmJy0jBeRtJWFyEaJRLsfL0FtJbZG4eMAJMh63wCGtPi+WrmJsY0GUsi2a1RxJE4s4LCVELr5qBrB0825JG0rr+pFAGneLssWLIGmoPnINJhTE8+VmFgdRzkb4rUS4BFADrBIzYwF0Bqyw89bMoNDQUOZOwfzziStisgdxoTS3g0rOFYlLoGPEe1ZMGJPBV10oJU2OOWGsVYJpRJn9g0NaA3y0NerK8mOvIf4x3slZyrXdgc8YNFamOEJavWaPHrCryFoX8wTfkuIHx4guE82SeIVsKu2rEsBhhhKk8ZfNv+hAXNNjAMcqR3DNKFWsi07fKHxogGEIQU4WbfzL2H3azEEXxQizalcgGMay99kA==;gQxXAbKWN4xoRWKmeD33Qg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/google-pixel-8-pro-foundation-ai-
 webUrl: "https://www.androidauthority.com/google-pixel-8-pro-foundation-ai-models-qualcomm-snapdragon-3379161/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Android apps will need to moderate AI content to stay in Google Play Store"
+    excerpt: "Developers will also need to follow Google's guidelines for prohibiting and preventing the creation of restricted content."
+    publishedDateTime: 2023-10-25T18:00:00Z
+    webUrl: "https://www.androidauthority.com/android-app-generative-ai-3379388/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 45
 
 secured: "MkmqgZ4MRDb+qRXeiJjvm2CgcTJBNQ4pbSvYf6vfwa3YFbaIzziTpDT6PI6bmQ00MJ62Ru0bSLQ9yKkkno3ulzs9tsbYhdXpVUxms1dPU6ebfaMhuX6L258xWllu966nAIK+7dSLP7w6OgSzFQHjlr66YG63kIM1PAckdTZjz1yWS8F9jxG1w6TRMehGDoIKUhsS4GnS6J4n0euM5A00S18ObWSfd1j5nZsdp7fJFuAZcbwHnE75WnCgZKlmR2OuxQKVxnqWiTjilpMSS5bGYOdPqyq9zHXVCZ1jfsLYlsiyAazgAmI2sWDy0D5fLq8a6hkWLdDTkv/kJmpNZa4JfZ95Syy8wUamWHrbnTwXLHbkYsfWyJvU6Wsz18Orsn7IcNQ9Y+Np0nwj5sONdnQ7tlmNDgNlgrqY+yqoQKQm+SwBsmEX8XFGRoIng3lIrgMnMKuCKAfSzWi/Lh3OqgNCy7ICdIcqtEGNnSGO3CgowjL9dpNhhXkkTWxvtV/4eaxkQWfHBmCoFtHWEphIwpMXlQ==;q1HcAKQiIkeW2RIKyKk38w=="
 ---

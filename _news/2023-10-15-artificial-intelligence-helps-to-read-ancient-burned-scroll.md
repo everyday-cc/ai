@@ -5,6 +5,8 @@ excerpt: "The first word from a scroll that was burned nearly two thousand years
 publishedDateTime: 2023-10-15T06:01:00Z
 originalUrl: "https://www.bbc.co.uk/newsround/67103053?at_medium=social&at_bbc_team=editorial&at_link_origin=BBC_News&at_campaign=Social_Flow&at_link_id=8EE17864-6B3E-11EE-8063-B42FD99D5CC3&at_ptr_name=facebook_page&at_format=link&at_link_type=web_link&at_campaign_type=owned"
 webUrl: "https://www.bbc.co.uk/newsround/67103053?at_medium=social&at_bbc_team=editorial&at_link_origin=BBC_News&at_campaign=Social_Flow&at_link_id=8EE17864-6B3E-11EE-8063-B42FD99D5CC3&at_ptr_name=facebook_page&at_format=link&at_link_type=web_link&at_campaign_type=owned"
+ampWebUrl: "https://www.bbc.co.uk/newsround/67103053.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/67103053.amp"
 type: article
 quality: 17
 heat: -1
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/14BCD/production/_131414948_img_0788.jpg"
+    width: 640
+    height: 360
+    isCached: true
 
 related:
   - title: "AI helps decipher first text of “unreadable” ancient Herculaneum scroll"

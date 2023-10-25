@@ -117,6 +117,15 @@ related:
       name: https//carbuzz
       domain: carbuzz.com
     quality: 4
+  - title: "California DMV suspends permits for Cruise’s self-driving robotaxis"
+    excerpt: "California's DMV has suspended GM's permit for AV deployment and testing, alleging the company has \"misrepresented\" the technology's safety"
+    publishedDateTime: 2023-10-25T18:15:00Z
+    webUrl: "https://www.cbtnews.com/california-dmv-suspends-permits-for-cruises-self-driving-robotaxis/"
+    type: article
+    provider:
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 4
 
 secured: "bmkvcUPrJ+I0fV5NvDjzJESw64d8eEl4jO/gy2QbLNIbhEkATeOP7MtxV8ZtdvJP56dWRFGX2k+RUYP58TnU30tBOrmUpealiNH2myI2KzyEe+nu2EYAZk494XcGyKib7Pb26TdElKgZbUeUZbPnsJ0oAdJRAmtCODiIROyeYMSJelcKblg+T4c3fnLn5MHrjlMM4m3SGZj9bRylumKFy/f6b80hQxJiC+qgaNVjqokKv3oii5w6aPtIvOrxBTzi3SdIhEScsrZ8SOKgiiEPsDzaZDvSGBI9heWDsVo1S5Ylz3yodkQIY1HcumOlWoi6r8T3jzWiNiqBey8H25r1JH1FPP1PA/C6AKIKM4e2XkU=;zH6C4UqWbT4xt3vYfEWFkg=="
 ---
