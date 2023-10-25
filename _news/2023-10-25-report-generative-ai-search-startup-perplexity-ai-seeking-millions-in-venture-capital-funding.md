@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google is actively looking to insert different types of ads in its generative AI search"
-    excerpt: "Google is planning to experiment with different native ad formats for its generative AI based search experince."
-    publishedDateTime: 2023-10-25T09:19:00Z
-    webUrl: "https://techcrunch.com/2023/10/25/google-is-actively-looking-to-insert-different-types-of-ads-in-its-generative-ai-search/"
-    ampWebUrl: "https://techcrunch.com/2023/10/25/google-is-actively-looking-to-insert-different-types-of-ads-in-its-generative-ai-search/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/google-is-actively-looking-to-insert-different-types-of-ads-in-its-generative-ai-search/amp/"
+  - title: "AI startup Giga ML raises $3.6 million in seed funding from Nexus Venture Partners, Y Combinator, others"
+    excerpt: "According to GigaML, it helps enterprises with the deployment of AI and LLMs backed solutions for their operations by overcoming challenges around data security associated with the open source."
+    publishedDateTime: 2023-10-23T06:30:00Z
+    webUrl: "https://www.financialexpress.com/business/sme-ai-startup-giga-ml-raises-3-6-million-in-seed-funding-from-nexus-venture-partners-y-combinator-others-3284241/"
+    ampWebUrl: "https://www.financialexpress.com/business/sme-ai-startup-giga-ml-raises-3-6-million-in-seed-funding-from-nexus-venture-partners-y-combinator-others-3284241/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/sme-ai-startup-giga-ml-raises-3-6-million-in-seed-funding-from-nexus-venture-partners-y-combinator-others-3284241/lite/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1207206237.jpg?resize=1200,800"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/pexels-tara-winstead-8386440-2.jpg"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
 
 secured: "7uBJxEviWtIXJSJgL46Kxwox+EVf9P9Nx46ePtUsYJP9wInnkf/4V46K/HR5+ZtJbUc1vZ+e6+CfnItcqkS7zhKB7lxfuJLR8bzbig2WeCafS0n0qDPDROKcAoVkmCBsZeRsYO1dHg/+moIXyHhXekQnreo6w5ao9ni0LZkXjAnXLBWS15FqZIG7ZylRJWJJgm+vhfwjUM7OjD4SJ5jqY6PVJ3ot0ooDEZJMu0u1FGPR2e8jtm1RdHSqiANpOQinWCy+ITUNbCMW/u3WB7I2TVg3n2YG0O6MbB+38uKE3DAvAuZf3BK/VNWfaK+/iS6+7v9CJUQXnM6hOJtW7OXdMwsEFkV7DB9zizj3TYuVqqXhG8HKMnmY59VWeePeGfmpotNMnh7SB1wW4BWAI0CT6DlXSfm/7SKKo9KjG4YJU7Wj/mnJbb4iN/ox0MqvRQQsjgsERqpWWr0ruLB3mgT8Kv3J9QON78686NrMezH1Wq+lpR/RG+TkzKuYuEfuHLJe2fgxOp7LNNM7oSzdXDWezg==;tje9M2/6jPQVDpgEN+Eyjw=="

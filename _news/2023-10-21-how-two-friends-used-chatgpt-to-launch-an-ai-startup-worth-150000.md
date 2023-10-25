@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp"
 type: article
 quality: 57
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/24/e829742b-af85-4107-90d6-be35ca206d19/thumbnail/1200x630/db30b49e80763a7322e5c83f39e1dc9f/a2bc5f7596314e70ebc61c3562e21e7f-0-1698157475482.png?v=4fae59acf57b6bb1efa9da07582ebc40"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Startup Strategy: How We Built a Webinar Using ChatGPT"
+    excerpt: "In this online event, join Brooke Gracey as she spills the beans on how the team at Cvent used ChatGPT to create a webinar that was so good, it had people lining up to attend (virtually, of course). She shares all the juicy details on how they used AI to help fill in the gaps"
+    publishedDateTime: 2023-10-25T16:58:00Z
+    webUrl: "https://techcrunch.com/sponsor/cvent/startup-strategy-how-we-built-a-webinar-using-chatgpt/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 52
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/TechCrunch-LP-Graphic-1500x600-1.png?resize=1200,480"
+        width: 1200
+        height: 480
         isCached: true
   - title: "Two Friends Built Dh600 AI Start-Up Using Chatgpt, Sell It For Dh550,000"
     excerpt: "Two budding entrepreneurs and friends took help from ChatGPT and built a start-up with just a modest investment of $185 (Dh600), reported CNBC. The"

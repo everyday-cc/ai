@@ -3,22 +3,18 @@ category: news
 title: "Bletchley mounted police and drones to patrol AI summit"
 excerpt: "Riders will be supporting security at the UK government's global Artificial Intelligence (AI) summit at Bletchley Park in Milton Keynes, Buckinghamshire. Police horses will patrol near the event which starts on 1 November. Thames Valley Police said they would also have a drone unit in operation throughout the course of the summit."
 publishedDateTime: 2023-10-25T15:43:00Z
-originalUrl: "https://www.bbc.com/news/uk-england-beds-bucks-herts-67209484"
-webUrl: "https://www.bbc.com/news/uk-england-beds-bucks-herts-67209484"
-ampWebUrl: "https://www.bbc.com/news/uk-england-beds-bucks-herts-67209484.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-beds-bucks-herts-67209484.amp"
+originalUrl: "https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-67209484"
+webUrl: "https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-67209484"
+ampWebUrl: "https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-67209484"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-beds-bucks-herts-67209484"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -29,6 +25,6 @@ images:
     height: 576
     isCached: true
 
-secured: "ipvMRLjwbDr3hrKW9weA5qf4FuS+WupIkkXrTciAvNx3taV7YtnBoBpaLWbhuqPfGblY9hWp1Cjs5VTDbZnEf8X9upHXmrP2+eX0+mtV6l8QsZuy/57gEzcXi3dAKmHw9YksniPq5qvWPN6SpdIUnQZFXfoxdvM+glYekoRZWJ23+HXXx6z+5nGaAlAPVgRq6kJey3la+mQrOEVnFrcMGYurJaT2JLmmjE382N8+zL7WWjGqAT3KAThOqarcVjTNEQb7K7OeIic9w5ucWEs6EpiRkLIhL2HXr2SxObtZ/8UwAU/QT0xl2vxVObBcPs7DL8bm+bthxouu8OHosf14mlBM1tidy5hO4AApDcgSJlg=;KtvmhrzyQW513Adp0AfaGw=="
+secured: "HLZVMB/uRluYpPmNManNxs76wtUJ7rZMy1wPs36SjQUzb+npY6EsfYCVbb8TA9pQIwJqdjVHuvCVJxhyxSqBG6dnSOLhS97KPXH229KTmq+xWGRMb9BnBfHkGfHtFuSuVNy47Y3qhOKcePMG3s7+yG4r8MH4g1YovTj0my21cfsDwGmLv8SCzWbJvazoGo3/ksY2ao2uW924kYiLIoFTCTlK4nw5IPkVu614lGYPEmLVjlBZDABj99M+wsWWt8CFyUAyKdx+smVuXhCiS//YVzdFDBL6N2SV21T4X5Mrkw65DLAjx1oRjAR2B6b91ij1Yo0xPYluN4+lE9PmQvsvH88Bo5MVw5fIYCMB3btHP0o=;c8+fIPfIrm6mvEhk79qqRA=="
 ---
 

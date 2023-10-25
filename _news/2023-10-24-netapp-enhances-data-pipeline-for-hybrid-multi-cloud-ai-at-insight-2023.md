@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "NetApp Advances the State of AI & Secure Infrastructure at INSIGHT 2023"
-    excerpt: "NetApp® (NASDAQ: NTAP), a global cloud-led, data centric software company, today announced multiple innovative portfolio updates, including enhancements to the industry’s best data pipeline for hybrid multi-cloud AI and advancements on the most secure data storage against ransomware."
-    publishedDateTime: 2023-10-25T05:20:00Z
-    webUrl: "https://www.businesswireindia.com/netapp-advances-the-state-of-ai-and-secure-infrastructure-at-insight-2023-87139.html"
+    excerpt: "NetApp, a global cloud-led, data centric software company, today announced multiple innovative portfolio updates,"
+    publishedDateTime: 2023-10-25T16:22:00Z
+    webUrl: "https://www.datanami.com/this-just-in/netapp-advances-the-state-of-ai-secure-infrastructure-at-insight-2023/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
+      name: datanami.com
+      domain: datanami.com
     quality: 39
     images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_87139.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.datanami.com/wp-content/uploads/2023/10/netapp-2023-300x210.png"
+        width: 300
+        height: 210
         isCached: true
   - title: "NetApp Advances the State of AI & Secure Infrastructure at INSIGHT 2023"
     excerpt: "NetApp® (NASDAQ: NTAP), a global cloud-led, data centric software company, today announced multiple innovative portfolio updates, including enhancemen"

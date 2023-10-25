@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Leads Alphabet In The Race To Monetize Generative AI"
+    excerpt: "Why the different trajectories of these stocks? Nearly a year after Microsoft launched ChatGPT, the answer is in the cloud."
+    publishedDateTime: 2023-10-25T13:43:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/10/25/microsoft-leads-alphabet-in-the-race-to-monetize-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/10/25/microsoft-leads-alphabet-in-the-race-to-monetize-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/10/25/microsoft-leads-alphabet-in-the-race-to-monetize-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6538bd6db32724b8cff0ecd5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1302
+        height: 900
+        isCached: true
   - title: "Opinion: Microsoft and Alphabet results show Wall Street only cares about AI"
     excerpt: "In addition, AI offerings ranging from chatbots to tools that can streamline the writing of reports require ever more computing power, and both Azure and Google Cloud are starting to offer new software applications to address those needs. Microsoft Chief ..."
     publishedDateTime: 2023-10-25T01:37:00Z
@@ -75,22 +91,6 @@ related:
         width: 610
         height: 458
         isCached: true
-  - title: "Opinion: Big tech is battling to put AI on your PC, laptop and smartphone"
-    excerpt: "It also has the most robust software ecosystem to enable AI processing of any technology company, with a multiyear head start over any competitor. We haven’t heard much from Nvidia when it comes to on-device, client AI. (Recently Nvidia disclosed a ..."
-    publishedDateTime: 2023-10-23T11:43:00Z
-    webUrl: "https://www.marketwatch.com/story/big-tech-is-battling-to-put-ai-on-your-pc-laptop-and-smartphone-fee49dac"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/big-tech-is-battling-to-put-ai-on-your-pc-laptop-and-smartphone-fee49dac"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/big-tech-is-battling-to-put-ai-on-your-pc-laptop-and-smartphone-fee49dac"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
-    images:
-      - url: "https://images.mktw.net/im-773574/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Microsoft to spend $3.2bln on AI in Australia"
     excerpt: "Microsoft said it will spend A$5 billion, or $3.2 billion, expanding its artificial intelligence (AI) and cloud computing abilities in Australia over two years to improve capacity by 250%. Fiona Jones reports."
     publishedDateTime: 2023-10-24T00:41:00Z
@@ -133,6 +133,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google is actively looking to insert different types of ads in its generative AI search"
+    excerpt: "Google is planning to experiment with different native ad formats for its generative AI based search experince."
+    publishedDateTime: 2023-10-25T09:19:00Z
+    webUrl: "https://techcrunch.com/2023/10/25/google-is-actively-looking-to-insert-different-types-of-ads-in-its-generative-ai-search/"
+    ampWebUrl: "https://techcrunch.com/2023/10/25/google-is-actively-looking-to-insert-different-types-of-ads-in-its-generative-ai-search/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/google-is-actively-looking-to-insert-different-types-of-ads-in-its-generative-ai-search/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1207206237.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Here's what we hope to see from AI powerhouse Microsoft's quarterly earnings this week"
     excerpt: "When the software giant reports on Tuesday, investors will be looking to see whether its big bet on artificial intelligence is paying off."
     publishedDateTime: 2023-10-23T08:01:00Z
@@ -162,6 +178,38 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/41F6/production/_131468861_gettyimages-607477465.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Microsoft earnings preview: Azure cloud segment in focus"
+    excerpt: "Investing.com - Microsoft Corporation (NASDAQ:MSFT) is set to announce its quarterly earnings after the market closes on Tuesday, with Wall Street keenly watching for indications that the company's substantial investments in artificial intelligence (AI) have been beneficial to its pivotal Azure cloud computing division."
+    publishedDateTime: 2023-10-24T05:56:00Z
+    webUrl: "https://au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816"
+    ampWebUrl: "https://m.au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816?ampMode=1"
+    cdnAmpWebUrl: "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816?ampMode=1"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 74
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AM_L.jpg"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Microsoft In The First Inning Of Artificial Intelligence Opportunity"
+    excerpt: "The very long term target is $482 - $506. For artificial intelligence, the best two of the magnificent seven stocks at this time are Microsoft and Nvidia. Keep in mind that in the world of investments, nothing is cast in stone. Markets are dynamic."
+    publishedDateTime: 2023-10-25T16:30:00Z
+    webUrl: "https://www.benzinga.com/tech/23/10/35420368/microsoft-in-the-first-inning-of-artificial-intelligence-opportunity"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35420368"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35420368"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://cdn.benzinga.com/files/turag-photography-1uqe5biih8w-unsplash_6.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
   - title: "As Databricks touts demand for AI services, all eyes are on Microsoft and Alphabet’s Q3 results"
     excerpt: "We can't wait to find out if these companies will report a material improvement from their investments in AI-related computing tasks and products."
@@ -193,6 +241,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Why Generative AI Needs Design"
+    excerpt: "With generative AI, computers gain a new set of capabilities: the ability to understand and generate language, code ... With simple prompts, anyone can translate an idea into a visual prototype that a group can riff on. While imperfect, these AI mockups ..."
+    publishedDateTime: 2023-10-23T21:00:00Z
+    webUrl: "https://www.forbes.com/sites/stevevassallo/2023/10/23/why-generative-ai-needs-design/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6536db33f0c0d8b1f46f464e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1176
+        height: 900
+        isCached: true
   - title: "Copilots, AI and Azure drive Microsoft revenue growth"
     excerpt: "Hood said Microsoft’s enterprise mobility and security installed base grew 11% to more than 259 million seats, while the company’s on-premise server business reported revenue growth of 2%, driven by what she said was demand in advance of Windows Server 2012 end of support."
     publishedDateTime: 2023-10-25T06:30:00Z
@@ -222,6 +284,20 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2023-10/Screenshot%202023-10-25%20at%2011.00.35.png"
         width: 1184
         height: 680
+        isCached: true
+  - title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
+    excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
+    publishedDateTime: 2023-10-25T14:58:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 69
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEwXC9NaWNyb3NvZnQtbG9nb182NTM5M2JkMjZkNzFhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft jumps while Google owner Alphabet slips as Wall Street zeroes in on the tech giants' AI efforts"
     excerpt: "Microsoft shares climbed in premarket trading Wednesday, while Alphabet slumped as investors focused on weaker-than-expected cloud revenues."
@@ -264,6 +340,22 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 62
+  - title: "Google Cloud fails to cash in on generative AI"
+    excerpt: "The explosive growth in the demand for generative AI has been a big revenue driver for public clouds. However, while some cloud players are reaping the benefits of user demand, Google Cloud seems to be failing to cash in on one of the biggest technology opportunities in decades."
+    publishedDateTime: 2023-10-25T12:06:00Z
+    webUrl: "https://www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/18/22/google-cloud-services_ai_artificial-intelligence-100765813-large-100943540-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft, OpenAI-Backed AI Safety Forum Names First Director, Plans Advisory Board"
     excerpt: "The Frontier Model Forum is backed by ChatGPT-owner OpenAI, Microsoft, Google's parent Alphabet and AI startup Anthropic."
     publishedDateTime: 2023-10-25T11:34:00Z
@@ -273,6 +365,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 58
+  - title: "Microsoft Q1 Earnings Preview: Analyst Estimates, Video Game Update, Artificial Intelligence Opportunity"
+    excerpt: "Microsoft reports first-quarter financial results after market close Tuesday. Artificial intelligence is likely to be one of the biggest topics covered by the company ..."
+    publishedDateTime: 2023-10-23T16:22:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/10/35375850/microsoft-q1-earnings-preview-analyst-estimates-video-game-update-artificial-intell"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35375850"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35375850"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/10/23/microsoft..image_by_efes_from_pixabay.building-1011876_1920.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft's Clippy is back, kind of, and now powered by AI"
     excerpt: "A ChatGPT-style AI assistant embedded into Microsoft Office apps will become available to all from 1 November."
     publishedDateTime: 2023-10-21T09:55:00Z
@@ -286,6 +394,20 @@ related:
       - url: "https://media.rnztools.nz/rnz/image/upload/s--qJY1-yKa--/t_tohu-badge-facebook/v1644404562/4ME30XD_copyright_image_257161"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Cash-Rich Apple Still Needs Billions To Catch Up In Generative AI Race Against Meta Or Microsoft: Analyst Ming-Chi Kuo Reveals Why"
+    excerpt: "According to Kuo's latest survey, Cupertino plans to procure 2,000 to 3,000 AI servers in 2023 and a more substantial 18,000 to 20,000 units in 2024."
+    publishedDateTime: 2023-10-24T06:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cash-rich-apple-still-needs-billions-to-catch-up-in-generative-ai-race-against-meta-or-microsoft-analyst-ming-chi-kuo-reveals-why-1032731676"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Apple._Image_Via_Shutterstock_1.jpeg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "“If someone took away my Copilot, I wouldn't know what to do” - Microsoft CEO Satya Nadella on how the AI future will affect us all"
     excerpt: "with Microsoft Azure playing an understandably key part. “The cloud is helping to make that possible,” he added. “Data is also already in the cloud. So, therefore, the adoption of AI is just the next step, and it has compounding effects. But we ..."
@@ -329,6 +451,20 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Microsoft is ‘changing rules of the game on gen AI’ after Q1 earnings"
+    excerpt: "Microsoft Corp reports a strong Q1 as Azure growth accelerates. Baird strategist Mortonson discussed its earnings print on Yahoo Finance."
+    publishedDateTime: 2023-10-24T23:35:00Z
+    webUrl: "https://invezz.com/news/2023/10/24/microsoft-q1-earnings-baird-strategist-ted-mortonson/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 54
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/04/171441221-m-normal-none-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "What Microsoft’s earnings tell us about AI and cloud trends"
     excerpt: "The tech giant's latest earnings report is \"front and center for tech investors across the Street,\" according to Wedbush analyst Dan Ives."
     publishedDateTime: 2023-10-25T14:05:00Z
@@ -342,6 +478,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/sJn85qp4OTjArDUYMdUjqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/da9cda8b16214e8c13a01c13ac5c093b"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Is Microsoft the Best AI Growth Stock To Buy Now?"
+    excerpt: "Real-time index price for PHLX Swiss Franc (XDS), along with buy or sell indicators, analysis, charts, historical performance, news and more"
+    publishedDateTime: 2023-10-25T17:54:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/XDS/pressreleases/21417415/is-microsoft-the-best-ai-growth-stock-to-buy-now/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 54
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/ab348a320d1728157cb797ad17e9a222/wdivfjfvciwg9qop.png"
+        width: 1570
+        height: 1156
         isCached: true
   - title: "DCT Abu Dhabi And Microsoft Sign Mou On Generative AI, Cloud Technologies"
     excerpt: "( MENAFN - Dubai PR Network) DCT Abu Dhabi and Microsoft Sign MoU on Generative AI, Cloud Technologies"
@@ -370,6 +520,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-10/22/M_c6004image_story.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Microsoft CEO: China must have say in governance of artificial intelligence"
+    excerpt: "Microsoft’s chief executive is pushing for China to have a seat at the table of leaders deciding global rules for artificial intelligence, as business titans and government bosses jockey to shape the technology’s development. Microsoft CEO Satya ..."
+    publishedDateTime: 2023-10-23T16:31:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/oct/23/satya-nadella-microsoft-ceo-china-must-have-say-go/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 52
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/09/diversity_initiatives-scrutiny_33992_c0-0-5400-3150_s1200x700.jpg?21d13cb2bc6acb968d08b145891571c1670c0358"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Rapid Finance announces from Money20/20 USA That its AI- and ML-Ready Lynx platform is now available on Microsoft’s Azure marketplace"
     excerpt: "Rapid Enterprise, a division of Rapid Finance, an industry leader in delivering automated and scalable Lending-as-a-Service (LaaS) solutions to support"
@@ -472,6 +636,15 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 17
+  - title: "Infosys collaborates with Microsoft to accelerate and democratize … – Infosys"
+    excerpt: "Both companies will help enterprises take an AI-first approach to scale next-generation AI solutions to improve operational efficiencies, drive revenue"
+    publishedDateTime: 2023-10-24T18:20:00Z
+    webUrl: "https://www.inferse.com/769259/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-infosys/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 16
   - title: "Innovating with responsibility: How customers and partners are bridging data, AI and trust with the Microsoft Cloud"
     excerpt: "For the past decade, we have been on a journey with our customers to help them achieve digital transformation, which is business transformation empowered by cloud technology. With increasing excitement around generative AI — both for its potential and the impact it is already having — organizational leaders are eager to prioritize adoption that"
     publishedDateTime: 2023-10-23T13:00:00Z
@@ -481,6 +654,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 12
+  - title: "Revolutionizing Accounts Payable Automation: Gravity Software Unveils Cutting-Edge AI Technology Powered by Microsoft's Cognitive Services AI Engine"
+    excerpt: "As part of its unwavering commitment to enhancing multi-entity accounting efficiency, Gravity Software ® is proud to introduce new AI technology to transform accounts payable processes. This transformative solution uses the Microsoft Cognitive Services AI engine to convert PDFs of vendor bills into Gravity Vouchers,"
+    publishedDateTime: 2023-10-25T16:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-revolutionizing-accounts-payable-automation-gravity-software-unveils-cutting-/2023/10/25/9905159.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "3ufsdkZToV2GbWZST8JSI+22g4XyLxPSNR4Urk0DtTrYk9QmK7pYnZo2V2C1lo0OEh4smX5MPUbqAplbMXZPqrcElNd+as4sYRbb3h3CdzPku3xpf3G56/ReokfN4RRyiKvpzbdD76jdW8y47gnZhzHkwb3+ntdRvSdw1EayxKyoIf8z4llDSzlOriOHo+LC0cnNJnyc8Ig57NohIYSlUiZE7oLavvQDsk0QmVuuDcbGYE+yaZXfM4z7mtmipdTImsqi1tU4hslDmhlcNlWV/w0YNeP9Gc6XUtqF0j1u4XRt/vf7PleiXKLKHMv+CyALEPhf8yfEK+C9fh2GjoM7OTNsWn/eUd+nJse3IRnElYTAknNT3T8A+iaOqkmNu8Dp+QZfLhKUxUpbiOR2gc/32XidYmqtlmAd+L7PFM5R3z+CQRbXAGqqr9dO1tGwF5Uf9lF06tGfUe1ya2xBHAiVdIZd53Ss5Jsz0EItn1OmGsWt/pmaOGU54ETW13BKePuiq/xbs+5tI3/Z/i4JnEN3ag==;Ft5PXXO00Lw8eS1a1heXgQ=="
 ---

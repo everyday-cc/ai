@@ -24,6 +24,17 @@ images:
     height: 270
     isCached: true
 
+related:
+  - title: "Machine Learning for Process Validation"
+    excerpt: "Validating drug production processes need not be a headache, according to AI researchers who say machine learning (ML) could be a single answer to biopharma’s multivariate problem. The FDA defines process validation as consisting of three parts ..."
+    publishedDateTime: 2023-10-25T16:01:00Z
+    webUrl: "https://www.genengnews.com/topics/bioprocessing/machine-learning-for-process-validation/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 19
+
 secured: "R5dWQ6yrnlrFjRvUepdMoLuOkLPsnqZdeLcPy7ZXRQLRFwbUjtIeCpz9B8XVdQdGgC2flSw9MvPl4bs7QZ6WsscQiK93zzR7D7POzmtlREWpyEKm8lBRNts6pVo306LNh0h0xrtBRsi1F6h3jBnN7wmsNVpl4Bo1AtJls1LEgEgErE/dEu7rhQ9skbtesBYLW3nSlFobdPIv1ov9oq8OSVopx5oUlKzb5AKaqa+XOYsGp7xHMRy55nTX5nvrwcC3GJPhZgRyvpFgJ1BIVTJViSwqEe2QMTN71OjsYzscsoFhlIzfMYXlzvdTBPT2kEwklezgLLVWEJTAkm7LCS19+aqMeYjhwk2Xd186omDqW44=;kRX0ucGqseqGEKgApM5VmA=="
 ---
 

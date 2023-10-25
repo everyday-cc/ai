@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/prompts-are-key-in-2023-twe
 webUrl: "https://azure.microsoft.com/en-us/blog/prompts-are-key-in-2023-twenty-five-tips-to-help-you-unlock-the-potential-of-generative-ai/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Microsoft
@@ -39,15 +39,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "2023 Women CMOs in Fintech Report: Marketing Investments to Remain Strong, CMOs Orchestrating Success, and Generative AI Boosting Efficiency"
-    excerpt: "Key findings from this year's Women CMOs in Fintech report include: Marketing investments remain strong: Despite the challenges of reduced venture capital and rising costs, marketing spend is not waning for most fintech brands."
-    publishedDateTime: 2023-10-23T12:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-2023-women-cmos-fintech-report-marketing-investments-rema-/2023/10/23/9903151.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "SEws0Wd0bIEV3GO9zPgZO5XNSxJMsoYNH8dvcgNpAxPlYC2rCTSGcSa4HuoaOH52FbJ3YR/QuKmfssRA+v5Vh/djk135NsPllvulMBAdQMLmA1T6yi3WvIByGgXgiNd5zDOOFcieM3Pz9pFIndBfJebF+auBvQb0foAifMMQppzV+kDOBxtgd9EFIAx8UWV0BDOX76NgJ/ZEafq8TgjFFms28AAArRe+6U7iHibSOvoXgMMJy8k9JjpmMHMPbDZgJZD1Ka9wsKjSt1PCbBjkXPgd2sxNwDNngFJkCkir5G71aZcfeqyATXuzKLy5oGRoYjm0pV44g4Qt/BZ8LUHuDVBbyOLZvifjPcN1yXnxKiQ=;sH9y7R8AFT+nd8oe8+1tZw=="
 ---

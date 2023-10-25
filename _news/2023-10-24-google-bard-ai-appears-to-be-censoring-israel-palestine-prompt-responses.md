@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/google-bard-ai-appears-to-be-censoring-
 webUrl: "https://venturebeat.com/ai/google-bard-ai-appears-to-be-censoring-israel-palestine-prompt-responses/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Artificial Intelligence Is Shaping the Story of the Israel-Gaza War"
+    excerpt: "The discourse on Hamas and Israel has been replete with bias."
+    publishedDateTime: 2023-10-25T12:29:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/artificial-intelligence-shaping-story-israel-gaza-war-207044"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 17
 
 secured: "ejyJZsh5hS6tOXV5UbH8iaOVXnyUsCRejanPqTViTXj0iF5b+jzvIwg9mu0uvzvHh6UuRPIZ/SZpKlsuqXyIO6lAC/+LC7FFD35o74EvPG5ViSSnMJtvietRAk1ammeYjBOzaLOex0GZ6sKefOuAzWR+zzlxu0cdOrP0so8X9GGwfCKkoWe8B+9l8FF8vEvkTXw2T4/hMInElnwb0TskjOwvgOUWQR8p2rW3TeoU3rjV0/c0MAGMHADJHhz3uixXPVXy747SZoC/wUDnHzGUNVR31piuxAxRbW5OsUAB0Jyjp62LLnWj+pLrAN6y4FpwrvMX06DPFPu0nKuOy5x1Wi+9V8M+H3R6FJBTXz6PhHI4P6U1Fw+h48+1Fr4iBpBzv+TdTZTNX5WthLmLjAU2hPUvJdt1QjrcGn4zMY9qQGx/Fk3numJG2V//Q4gkcc+SvhSIyRhAK2Q0sE9yV9aCTJKTySsupB53vVhf361NSUR0Ec5BHksHXT1sZS5zve2ke2lc4LKRxdm8EZElUy6yrA==;YNE24PE+6vVpQ8ve5pQk4A=="
 ---

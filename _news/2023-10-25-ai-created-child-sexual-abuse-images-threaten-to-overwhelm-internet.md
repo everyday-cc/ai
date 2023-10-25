@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-Generated Child Sexual Abuse Images Could Flood the Internet. A Watchdog Is Calling for Action"
+    excerpt: "The already-alarming proliferation of child sexual abuse images on the internet could become much worse if something is not done to put controls on artificial intelligence tools that generate deepfake photos,"
+    publishedDateTime: 2023-10-25T16:36:00Z
+    webUrl: "https://gvwire.com/2023/10/25/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
+    ampWebUrl: "https://gvwire.com/2023/10/25/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/?amp=1"
+    cdnAmpWebUrl: "https://gvwire-com.cdn.ampproject.org/c/s/gvwire.com/2023/10/25/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/?amp=1"
+    type: article
+    provider:
+      name: Bill McEwen
+      domain: gvwire.com
+    quality: 44
+    images:
+      - url: "https://gvwire.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/10/25090717/AP23297714041343-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence Child Sexual Abuse"
     excerpt: "In this picture, the desktop and mobile websites for Stable Diffusion are seen, Tuesday, Oct. 24, 2023, in New York. Computer-generated child sexual abuse images made with artificial intelligence tool"
     publishedDateTime: 2023-10-24T23:00:00Z
@@ -43,20 +59,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/assets/v3/editorial/1/30/130d204c-7363-5ba7-86ab-37cf5ec3ae0c/65385600bf278.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI-generated child sexual abuse images could flood the internet. A watchdog is calling for action"
-    excerpt: "A new report warns that the proliferation of child sexual abuse images on the internet could become much worse if something is not done to put controls on artificial intelligence tools that generate deepfake photos."
-    publishedDateTime: 2023-10-25T04:08:00Z
-    webUrl: "https://www.ksat.com/business/2023/10/24/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 26
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/H7FYZHX46FHA3DHODXQC4OWGV4.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
         isCached: true
 
 secured: "hbV27FqWWRdaV71n2/aXyeRdU5x1ioE7yU4z0kTrkM1wtPCffJEry74SjoxFjKeGKWrfETg46vFcIkqgASeETkJK0oLIuy6Ok6nea6lAtTgeBXw7CmVpmXEvssHTGh+T+1K05eAyM9Lh4Ug+uhed7ASjS9iIBzmt5vySkA9/oXciGwn/FYpd7clPDTwpWqJSInu24y+Lj8lk5my2Vf3cNpk603sweYdStbMMqzqIiXKGb1nshXCqpM7ckWO27vhmy4UA4odjqDPYtCbqQx821JNDeXtBTzaMtR2lMPkMS4hphsAbG6A374OJujBwVpvEWLBowiQECJz3afTEyByPxJBKgmfL2b03/fosGDLUPNo=;MV//sBsqnITof8mGBLRJkw=="

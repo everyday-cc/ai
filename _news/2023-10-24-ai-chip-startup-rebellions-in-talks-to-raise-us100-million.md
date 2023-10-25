@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businesstimes.com.sg/startups-tech/ai-chip-startup-rebel
 cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/startups-tech/ai-chip-startup-rebellions-talks-raise-us100-million?amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Business Times
@@ -21,17 +21,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "AI Chip Startup Rebellions Is in Talks to Raise $100 Million"
-    excerpt: "Rebellions Inc. aims to raise about $100 million from global investors to accelerate the development of a next-generation AI chip, banking on growing interest in the hardware needed to run artificial intelligence services."
-    publishedDateTime: 2023-10-24T06:43:00Z
-    webUrl: "https://www.bnnbloomberg.ca/ai-chip-startup-rebellions-is-in-talks-to-raise-100-million-1.1988572"
-    ampWebUrl: "https://www.bnnbloomberg.ca/ai-chip-startup-rebellions-is-in-talks-to-raise-100-million-1.1988572.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/ai-chip-startup-rebellions-is-in-talks-to-raise-100-million-1.1988572.amp.html"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 54
   - title: "IVP Leads Investment in AI Search Startup Perplexity at $500 Million Valuation"
     excerpt: "Venture capital firm IVP is leading an investment in Perplexity, developer of an artificial intelligence–powered search engine that competes with OpenAI’s ChatGPT and Google’s Bard, according to people with direct knowledge."
     publishedDateTime: 2023-10-24T21:28:00Z

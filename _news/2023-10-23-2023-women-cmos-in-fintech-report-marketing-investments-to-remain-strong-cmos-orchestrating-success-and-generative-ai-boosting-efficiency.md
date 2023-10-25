@@ -20,31 +20,43 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "Prompts are key in 2023: Twenty-five tips to help you unlock the potential of generative AI"
-    excerpt: "The goal is to use generative AI as a tool in your broader decision-making and brainstorming process. Combining AI's suggestions with your expertise and knowledge of your business and market will yield the best results. By integrating these AI insights, we're not merely keeping up with the times; we're"
-    publishedDateTime: 2023-10-23T15:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/prompts-are-key-in-2023-twenty-five-tips-to-help-you-unlock-the-potential-of-generative-ai/"
+  - title: "AI is finally resulting in real growth for big tech"
+    excerpt: "including going up 29% at Azure, three percentage points better than analysts expected. Investors liked that a lot. The market’s reaction to the two sets of data provides their grading, but we care about the AI-related components that went into the top ..."
+    publishedDateTime: 2023-10-25T17:19:00Z
+    webUrl: "https://techcrunch.com/2023/10/25/microsoft-alphabet-earnings-ai-analysis/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 59
-  - title: "This new data poisoning tool lets artists fight back against generative AI"
-    excerpt: "The tool, called Nightshade, messes up training data in ways that could cause serious damage to image-generating AI models."
-    publishedDateTime: 2023-10-23T17:26:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 55
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/poison-corrupts4.jpg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://techcrunch.com/wp-content/uploads/2023/07/microsoft-getty-hacks-government.jpg?resize=1200,816"
+        width: 1200
+        height: 816
         isCached: true
+  - title: "AI is driving divergent paths for big tech stocks"
+    excerpt: "Microsoft's stock rose while Google's fell after the company's reported Q3 earnings. AI is driving the difference in narratives."
+    publishedDateTime: 2023-10-25T17:47:00Z
+    webUrl: "https://www.aol.com/ai-driving-divergent-paths-big-144715761.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/gvfHXDgmfzrT4ZN2o8QOiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzk-/https://media.zenfs.com/en/aol_yahoo_finance_433/8701d5ab7ba3832df84be526f235eb0c"
+        width: 1200
+        height: 779
+        isCached: true
+  - title: "How AI is reshaping the financial technology landscape"
+    excerpt: "Indeed, artificial intelligence (AI) and machine learning (ML) are increasingly collaborating in solutions, especially in the realm of fintech - and, when they do, the benefits seem unstoppable as this guide explains. AI and SMEs unveiled Years ago ..."
+    publishedDateTime: 2023-10-24T11:06:00Z
+    webUrl: "https://www.finextra.com/blogposting/25085/how-ai-is-reshaping-the-financial-technology-landscape"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "dGr42XfeaQLyyoFoR0Ar0xzTv+6F1JeO9YB8LUyli7ds+LnzFp9kifjF7p03lxoEWZ5QCRzSR38Bn+MghG+xYJ/VpmBJFE0fzpbyKppjh0Z3fftkDZMpPy0wzWQy5oDypGz4VUblBjr2MrhPVk02Wn8A+KB1u1sCU4NeUDi7Idnd6Y43GA/ssc+2u508qoDiMwIADtk6PzjjzBtZ8PY0P4snV3xpnWp8+L7k63cZc7yo9m9tyv2pjgvG4qsVsj+Anorf72TYEbLnBJo47tpB9B1DxTO1fWMxQoHgTktVtyNBvfQn+B76/oayKUS4sjlIlw/VTji4vsZJbBjyJnXbxBxvnTOL0ooo91jgrfBYT10=;4emCkdKTLsSqJo0juZ+o+Q=="
 ---

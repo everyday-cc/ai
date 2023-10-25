@@ -26,21 +26,14 @@ images:
 
 related:
   - title: "Amazon Web Services to Launch AWS European Sovereign Cloud"
-    excerpt: "AWS European Sovereign Cloud will be a new, independent cloud for Europe that gives customers in highly regulated industries and the public sector further choice and flexibility to address evolving da"
-    publishedDateTime: 2023-10-25T05:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/b35408217/amazon-web-services-to-launch-aws-european-sovereign-cloud"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35408217"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35408217"
+    excerpt: "Telia uses AWS DeepRacer as part of its program to educate 2,000 staff on artificial intelligence and machine learning with AWS. “Telia Company welcomes the development of the AWS European Sovereign Cloud as a complement to Telia’s trusted cloud ..."
+    publishedDateTime: 2023-10-25T05:32:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231024960766/en/Amazon-Web-Services-to-Launch-AWS-European-Sovereign-Cloud/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
   - title: "Four out of Five European Financial Services Leaders Are Embracing Generative AI"
     excerpt: "Financial services organisations are making significant investments in generative AI to enhance their digital transformation processes."
     publishedDateTime: 2023-10-25T15:45:00Z

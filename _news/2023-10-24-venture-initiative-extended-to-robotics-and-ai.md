@@ -21,36 +21,113 @@ topics:
   - AI
 
 related:
-  - title: "University of Edinburgh expands start-up incubator into robotics"
-    excerpt: "The University of Edinburgh is expanding its Venture Builder Incubator (VBI) programme, which helps turn research and innovations in robotics and artificial intelligence (AI) into commercially viable start-ups."
-    publishedDateTime: 2023-10-23T23:01:00Z
-    webUrl: "https://www.insider.co.uk/news/university-edinburgh-expands-start-up-31257558"
-    ampWebUrl: "https://www.insider.co.uk/news/university-edinburgh-expands-start-up-31257558.amp"
-    cdnAmpWebUrl: "https://www-insider-co-uk.cdn.ampproject.org/c/s/www.insider.co.uk/news/university-edinburgh-expands-start-up-31257558.amp"
+  - title: "Kate Darling on the Future of Robotics and AI Ethics"
+    excerpt: "Our featured interview on this episode is with Dr. Kate Darling, who is joining Marc Raibert in her dream job at the Boston Dynamics AI Institute to head up their AI and ethics research group. We talk to Kate about everything from AI and humanoid robots to her kids’ love affair with the Marty Robot at the local Stop and Shop supermarket."
+    publishedDateTime: 2023-10-25T17:17:00Z
+    webUrl: "https://www.therobotreport.com/kate-darling-on-the-future-of-robotics-and-ai-ethics/"
     type: article
     provider:
-      name: insider
-      domain: insider.co.uk
-    quality: 74
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 116
     images:
-      - url: "https://i2-prod.insider.co.uk/news/article31257539.ece/ALTERNATES/s1200/0_Bayes-Centre-robot-1.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/10/kate-darling-marc-raibert.jpg"
+        width: 770
+        height: 500
         isCached: true
-  - title: "University of Edinburgh AI start-up incubator expanded"
-    excerpt: "The expansion of the University of Edinburgh Venture Builder Incubator (VBI) programme means entrepreneurs from across Scotland working in robotics and artificial intelligence can turn their ideas into commercial reality."
-    publishedDateTime: 2023-10-24T03:46:00Z
-    webUrl: "https://www.heraldscotland.com/news/23874410.university-edinburgh-ai-start-up-incubator-expanded/"
+  - title: "Rice Robotics is Shattering AI Stereotypes, One Friendly Robot at a Time"
+    excerpt: "While many still look at artificial intelligence (AI) with skepticism, fearing job loss or dystopian nightmares, Rice Robotics is flipping the script. Founded in Hong Kong and deeply rooted in the Japanese market, the start-up aims to redefine how we ..."
+    publishedDateTime: 2023-10-24T02:30:00Z
+    webUrl: "https://www.gizmochina.com/2023/10/24/rice-robotics-ai-stereotypes-friendly-robots/"
     type: article
     provider:
-      name: heraldscotland
-      domain: heraldscotland.com
-    quality: 39
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 78
+  - title: "Artificial intelligence predicts the future of artificial intelligence research"
+    excerpt: "It has become nearly impossible for human researchers to keep track of the overwhelming abundance of scientific publications in the field of artificial intelligence and to stay up-to-date with advances."
+    publishedDateTime: 2023-10-23T13:53:00Z
+    webUrl: "https://techxplore.com/news/2023-10-artificial-intelligence-future.html"
+    ampWebUrl: "https://techxplore.com/news/2023-10-artificial-intelligence-future.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-artificial-intelligence-future.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 55
     images:
-      - url: "https://www.heraldscotland.com/resources/images/17363555/?type=og-image"
-        width: 900
-        height: 600
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-77.jpg"
+        width: 1280
+        height: 731
         isCached: true
+  - title: "Good set of ethics, values needed to chart future of AI, forum hears"
+    excerpt: "The formulation of the artificial intelligence (AI) code of ethics, which is expected to be ready by 2024, should not only include the Seven Principles of Responsible AI but also inculcate education and awareness on ethics,"
+    publishedDateTime: 2023-10-21T11:00:00Z
+    webUrl: "https://www.thestar.com.my/news/nation/2023/10/21/good-set-of-ethics-values-needed-to-chart-future-of-ai-forum-hears"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/21/2347774.jpg"
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "Robotics and artificial intelligence to transform O&M tasks in the energy sector"
+    excerpt: "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news"
+    publishedDateTime: 2023-10-25T13:17:00Z
+    webUrl: "https://sciencex.com/wire-news/459680225/robotics-and-artificial-intelligence-to-transform-om-tasks-in-th.html"
+    type: article
+    provider:
+      name: sciencex
+      domain: sciencex.com
+    quality: 44
+  - title: "Artificial Intelligence and Research Ethics"
+    excerpt: "Artificial intelligence can increase efficiency and create novel insights for university research. However, with this new frontier of research practices comes great responsibility for researchers ..."
+    publishedDateTime: 2023-10-24T20:24:00Z
+    webUrl: "https://www.chronicle.com/events/virtual/artificial-intelligence-and-research-ethics"
+    type: article
+    provider:
+      name: The Chronicle of Higher Education
+      domain: chronicle.com
+    quality: 36
+  - title: "State CPA societies offer AI ethics course"
+    excerpt: "The Virginia Society of CPAs is partnering with 10 other state CPA groups to offer a course on artificial intelligence and where it fits in with accounting ethics."
+    publishedDateTime: 2023-10-23T15:11:00Z
+    webUrl: "https://www.accountingtoday.com/news/state-cpa-societies-offer-ai-ethics-course"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 34
+  - title: "Omega Venture Partners Spearheads the Future of AI Innovation"
+    excerpt: "As Omega Venture Partners sails into a new epoch of AI innovation, its unrivaled expertise and proven track record affirm its role as the preferred harbinger of success for the pioneers of tomorrow's technology. See more from Citizens Bank on the Role of AI in Financial Services here."
+    publishedDateTime: 2023-10-24T13:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-omega-venture-partners-spearheads-future-ai-innovation-/2023/10/24/9904369.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
+    excerpt: "GIGABYTE spearheads the launch of Azure AI laptops in partnership with Microsoft and extends this collaboration to hybrid AI application functions, like Microsoft Copilot, integrating related AI services and technologies into existing platforms for a truly ..."
+    publishedDateTime: 2023-10-21T18:42:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354353&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
+  - title: "An interview with Bright Data’s VP of Ethics and Compliance on carving the industry path on ethics, regulation and training AI."
+    excerpt: "As VP of Compliance and Ethics, Rony Shalit is responsible for growing and shaping Bright Data’s ethical approach regarding web data collection and proxy usage for years to come which also sets the standard for the industry."
+    publishedDateTime: 2023-10-23T06:00:00Z
+    webUrl: "https://techbullion.com/an-interview-with-bright-datas-vp-of-ethics-and-compliance-on-carving-the-industry-path-on-ethics-regulation-and-training-ai/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 6
 
 secured: "0rfMJvpptMc3EOnxl8lRiqEvjodkoFWtPSYZriBBxvPm7rxsZ0jIGoxeLoxWU3/b2rVhKzLvqLLr4/GiN4Q9fHmlLjUh/MAkKYaypfbEDCIWoOq/YiL+9hqlaVCabvcraJ52xxQOJv4xTY3cHaslTUyw/2Lv6Su73AYUGnk0S6k8xMoNIbSwIJm7ARgYCy+FqVUjMlUNAk60xL0i9SeXGIqWUfH0aWG4O526gRenYsAiSKbQVKAKpnmyEzsIbjbRt0hNdeNrY30wgfwmgA/EJYTYa7s6rSeSJq0mpHDCl6P27XBwsYWxDetv/sipQS0oJgRykXeKTi+8tvBfyEhXNP1QyxaskrnU6W64BUUMxIIc/GhVTamEYCJaKvde/MnBOWJCY0br7+KdyuuWTS0PNCS203J3bEDUct2qgZixqFrCBa78Njcf+jNdJh9DIVFvDJS77Lpjawt0Wnv68g6Dv0TWXeKiNiFfRzwlu8xisT1UwTJ4ZE5OmRADg6d2zehSR+s1636fkUQAUoYu47I16w==;77fKvjBGIeq3I8mLPR1w5w=="
 ---

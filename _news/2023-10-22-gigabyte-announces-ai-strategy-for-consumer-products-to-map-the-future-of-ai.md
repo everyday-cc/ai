@@ -19,31 +19,115 @@ topics:
   - AI
 
 related:
-  - title: "Kochava Unveils the Future of AI-Powered Insights Tools to Unlock Your Strategy for Growth"
-    excerpt: "Kochava the leading real-time data solutions company for omni-channel attribution and measurement, today announced a powerful addition to its robust AI toolset."
-    publishedDateTime: 2023-10-25T14:06:00Z
-    webUrl: "https://enterprisetalk.com/news/kochava-unveils-the-future-of-ai-powered-insights-tools-to-unlock-your-strategy-for-growth/"
-    ampWebUrl: "https://enterprisetalk.com/news/kochava-unveils-the-future-of-ai-powered-insights-tools-to-unlock-your-strategy-for-growth/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/kochava-unveils-the-future-of-ai-powered-insights-tools-to-unlock-your-strategy-for-growth/amp/"
+  - title: "Kate Darling on the Future of Robotics and AI Ethics"
+    excerpt: "Our featured interview on this episode is with Dr. Kate Darling, who is joining Marc Raibert in her dream job at the Boston Dynamics AI Institute to head up their AI and ethics research group. We talk to Kate about everything from AI and humanoid robots to her kids’ love affair with the Marty Robot at the local Stop and Shop supermarket."
+    publishedDateTime: 2023-10-25T17:17:00Z
+    webUrl: "https://www.therobotreport.com/kate-darling-on-the-future-of-robotics-and-ai-ethics/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 49
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 116
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/10/Kochava-Unveils-the-Future-of-AI-Powered-Insights-Tools-to-Unlock-Your-Strategy-for-Growth.jpg"
-        width: 1500
-        height: 844
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/10/kate-darling-marc-raibert.jpg"
+        width: 770
+        height: 500
         isCached: true
-  - title: "Kochava Unveils the Future of AI-Powered Insights Tools to Unlock Your Strategy for Growth"
-    excerpt: "Kochava, the leading real-time data solutions company for omni-channel attribution and measurement, today announced a powerful addition to its robust AI toolset. Kochava AI Prompt unleashes the power of AI to understand multiple languages through the use of natural language processing for global marketers to access and analyze their data."
-    publishedDateTime: 2023-10-24T14:41:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/24/9904352.htm"
+  - title: "Rice Robotics is Shattering AI Stereotypes, One Friendly Robot at a Time"
+    excerpt: "While many still look at artificial intelligence (AI) with skepticism, fearing job loss or dystopian nightmares, Rice Robotics is flipping the script. Founded in Hong Kong and deeply rooted in the Japanese market, the start-up aims to redefine how we ..."
+    publishedDateTime: 2023-10-24T02:30:00Z
+    webUrl: "https://www.gizmochina.com/2023/10/24/rice-robotics-ai-stereotypes-friendly-robots/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 78
+  - title: "Venture initiative extended to robotics and AI"
+    excerpt: "A venture funding initiative at Edinburgh University has been expanded into robotics and artificial intelligence and has developed a partnership with the National Robotarium at Heriot-Watt."
+    publishedDateTime: 2023-10-23T22:01:00Z
+    webUrl: "https://dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
+    ampWebUrl: "https://dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
+    cdnAmpWebUrl: "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
+    type: article
+    provider:
+      name: dailybusinessgroup
+      domain: dailybusinessgroup.co.uk
+    quality: 69
+  - title: "Artificial intelligence predicts the future of artificial intelligence research"
+    excerpt: "It has become nearly impossible for human researchers to keep track of the overwhelming abundance of scientific publications in the field of artificial intelligence and to stay up-to-date with advances."
+    publishedDateTime: 2023-10-23T13:53:00Z
+    webUrl: "https://techxplore.com/news/2023-10-artificial-intelligence-future.html"
+    ampWebUrl: "https://techxplore.com/news/2023-10-artificial-intelligence-future.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-artificial-intelligence-future.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-77.jpg"
+        width: 1280
+        height: 731
+        isCached: true
+  - title: "Good set of ethics, values needed to chart future of AI, forum hears"
+    excerpt: "The formulation of the artificial intelligence (AI) code of ethics, which is expected to be ready by 2024, should not only include the Seven Principles of Responsible AI but also inculcate education and awareness on ethics,"
+    publishedDateTime: 2023-10-21T11:00:00Z
+    webUrl: "https://www.thestar.com.my/news/nation/2023/10/21/good-set-of-ethics-values-needed-to-chart-future-of-ai-forum-hears"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/21/2347774.jpg"
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "Robotics and artificial intelligence to transform O&M tasks in the energy sector"
+    excerpt: "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news"
+    publishedDateTime: 2023-10-25T13:17:00Z
+    webUrl: "https://sciencex.com/wire-news/459680225/robotics-and-artificial-intelligence-to-transform-om-tasks-in-th.html"
+    type: article
+    provider:
+      name: sciencex
+      domain: sciencex.com
+    quality: 44
+  - title: "Artificial Intelligence and Research Ethics"
+    excerpt: "Artificial intelligence can increase efficiency and create novel insights for university research. However, with this new frontier of research practices comes great responsibility for researchers ..."
+    publishedDateTime: 2023-10-24T20:24:00Z
+    webUrl: "https://www.chronicle.com/events/virtual/artificial-intelligence-and-research-ethics"
+    type: article
+    provider:
+      name: The Chronicle of Higher Education
+      domain: chronicle.com
+    quality: 36
+  - title: "State CPA societies offer AI ethics course"
+    excerpt: "The Virginia Society of CPAs is partnering with 10 other state CPA groups to offer a course on artificial intelligence and where it fits in with accounting ethics."
+    publishedDateTime: 2023-10-23T15:11:00Z
+    webUrl: "https://www.accountingtoday.com/news/state-cpa-societies-offer-ai-ethics-course"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 34
+  - title: "Omega Venture Partners Spearheads the Future of AI Innovation"
+    excerpt: "As Omega Venture Partners sails into a new epoch of AI innovation, its unrivaled expertise and proven track record affirm its role as the preferred harbinger of success for the pioneers of tomorrow's technology. See more from Citizens Bank on the Role of AI in Financial Services here."
+    publishedDateTime: 2023-10-24T13:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-omega-venture-partners-spearheads-future-ai-innovation-/2023/10/24/9904369.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 9
+    quality: 19
+  - title: "An interview with Bright Data’s VP of Ethics and Compliance on carving the industry path on ethics, regulation and training AI."
+    excerpt: "As VP of Compliance and Ethics, Rony Shalit is responsible for growing and shaping Bright Data’s ethical approach regarding web data collection and proxy usage for years to come which also sets the standard for the industry."
+    publishedDateTime: 2023-10-23T06:00:00Z
+    webUrl: "https://techbullion.com/an-interview-with-bright-datas-vp-of-ethics-and-compliance-on-carving-the-industry-path-on-ethics-regulation-and-training-ai/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 6
 
 secured: "w8zEOOMavOs9bNtKLBCEPRP5zZZgg/i8nCx0wWg8cIHuA5gbPhKe/FFg71Ued6o8GXjdUzc/cDoF/aorcZPv3d37VLnwycAeONzlPRQgs8P5vZpZIFrzS8iY+V/Hm5Gj0WrMyufC1jC2OO3uU1bs7f4BGMG5f/LCJYw9tw0843WVd1AmZCj8S2F2CQkNULwakFhd18yWXRDQnlmfYYYFixMkDo3zIIicZhYDZgrm84chUlvNTVJuQd322RqJHO9lhmlbxG0SYcwSOL3BvYX90hxFlt4fmtLxmX0zBwgX2CL+Ep+ayPEvFlZAFJz4ZwQiFCHNcLON77L0b5c5UW6u+i2TZiGPtWe3ahBP2rbZKRE=;lqch26kh7U+M+QoWonFugg=="
 ---

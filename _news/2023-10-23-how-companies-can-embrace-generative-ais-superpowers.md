@@ -126,20 +126,6 @@ related:
         width: 480
         height: 269
         isCached: true
-  - title: "Why Generative AI Needs Design"
-    excerpt: "With generative AI, computers gain a new set of capabilities: the ability to understand and generate language, code ... With simple prompts, anyone can translate an idea into a visual prototype that a group can riff on. While imperfect, these AI mockups ..."
-    publishedDateTime: 2023-10-23T21:00:00Z
-    webUrl: "https://www.forbes.com/sites/stevevassallo/2023/10/23/why-generative-ai-needs-design/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6536db33f0c0d8b1f46f464e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1176
-        height: 900
-        isCached: true
   - title: "Role of CX automation and generative AI"
     excerpt: "Customers expect personalised and efficient service, and the emergence of generative AI has led to a significant shift in the way businesses approach customer service and customer delight. Like human interactions,"
     publishedDateTime: 2023-10-22T09:48:00Z
@@ -155,22 +141,6 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/My-project-2.png"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google Cloud fails to cash in on generative AI"
-    excerpt: "The explosive growth in the demand for generative AI has been a big revenue driver for public clouds. However, while some cloud players are reaping the benefits of user demand, Google Cloud seems to be failing to cash in on one of the biggest technology opportunities in decades."
-    publishedDateTime: 2023-10-25T12:06:00Z
-    webUrl: "https://www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/18/22/google-cloud-services_ai_artificial-intelligence-100765813-large-100943540-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Snapdragon 8 Gen 3 Official, Designed With Generative AI in Mind"
     excerpt: "As expected, Qualcomm made the Snapdragon 8 Gen 3 official this week at its annual conference in Hawaii, and no, I’m not there and I’m mad about it. Qualcomm is hyping this chip to be an AI powerhouse,"
@@ -271,6 +241,20 @@ related:
       name: EdTech
       domain: edtechmagazine.com
     quality: 36
+  - title: "No-code app builder Bubble unveils generative AI and native mobile tools"
+    excerpt: "Using Bubble’s platform, people with little or no coding knowledge can use a visual engine to develop logical flows to design and develop apps. It allows for the easy development of mobile-friendly layouts and dynamic content automatically and handles the scripting behind the scenes for any software."
+    publishedDateTime: 2023-10-25T16:37:00Z
+    webUrl: "https://siliconangle.com/2023/10/25/no-code-app-builder-bubble-unveils-generative-ai-native-mobile-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/technology-791029_1920-KarolinaGrabowska-Pixabay.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Moody's and Google Cloud Partner on Generative AI Applications Tailored for Financial Services Professionals"
     excerpt: "\"Through this partnership, research teams at Moody's and Google Cloud will collaborate on fine-tuned LLMs and AI applications that will enable financial service professionals to produce new, proprietary insights faster than ever before.\" \"Our collaboration ..."
     publishedDateTime: 2023-10-23T19:35:00Z

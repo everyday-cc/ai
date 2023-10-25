@@ -22,37 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "Harnessing AI To Streamline Identity Management"
-    excerpt: "While generative artificial intelligence can help boost IAM’s capabilities, there are challenges and limitations to keep in mind as well."
-    publishedDateTime: 2023-10-25T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing-ai-to-streamline-identity-management/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing-ai-to-streamline-identity-management/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing-ai-to-streamline-identity-management/amp/"
+  - title: "Wanted: People To Fill In The Growing AI Leadership Vacuum"
+    excerpt: "As AI impacts people, processes, and applications, it 'will require careful stewardship and handling – regardless of title or business function'"
+    publishedDateTime: 2023-10-25T16:51:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/10/25/wanted-people-to-fill-in-the-growing-ai-leadership-vacuum/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/10/25/wanted-people-to-fill-in-the-growing-ai-leadership-vacuum/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/10/25/wanted-people-to-fill-in-the-growing-ai-leadership-vacuum/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1200
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62579c7e40a68b70f7243179/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
         height: 900
-        isCached: true
-  - title: "Future of psychometric tests: How AI and machine learning are changing career management"
-    excerpt: "Embracing AI and ML in career management is not just a trend; it’s a strategic advantage in today’s fast-paced world of work. However, the synergy between psychometric tests and AI and Machine Learning can lead to more informed and well-rounded decisions in an increasingly data-driven world."
-    publishedDateTime: 2023-10-22T11:01:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 65
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design299.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "s2jAyE2ajhrsmAeTbUTZ+GSU5rezk9Y9ZTjKhpz5/ImJEXPQFWr1/GIOkH0FQaPb1P9E/ak6AzSyMaEJUy05jwLjTYu1HRUhjPRK1QyDjMXUfjR2s8Kc0fgFUmIVP1g05cEJwBtCnTlzyv1G5bkt52FvEqoc/GOKM92OIERsOLBeH9AJN89fR0S+/MYeZJWhfWoNiNsDrIU2LfG6KiEZMikQAuGAIWWbOel2z4Bd64ASXk1xrOeVI8u6NZxsxDGYFgEtXszunzZBI6ZNlfJ6fV1ynrA3zWHBR7/FTCdmWSjmRHg7MIj7HSKfKDX+dOd0cE+UX5QzKW2L8hCSjoHVGWq5ai3zHMtzzebPENdhUOtvEBEQraP0iBTh0YF4Q8KSkDOuBb5hAhxwxIdETeh9sV0uWxhOXzExW2W9DPN8wCmc24BBqpaUfiDoZMWWm69EE5HdUd7Hwec7gMWhylVmBSfWTyEKEKcd5JGlbxVyo+ddrDStjmRm46wltnnhzxRPqhYUCQp+vChzRjspPACstA==;y0QntmgMliRuKJJ1DHzr+A=="

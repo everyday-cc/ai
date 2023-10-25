@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "How To Fill The Looming AI Talent Gap"
-    excerpt: "For even a casual reader of the news, it would be impossible to miss the fact that generative AI is a big part of this transformation."
-    publishedDateTime: 2023-10-23T19:36:00Z
-    webUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/10/23/how-to-fill-the-looming-ai-talent-gap/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "Sp4Q7ajwDzEsr92NE9HKtdR9gNhvoh3Qq13UbZWZiqJjun+n0OSi4STv4M3GFxLDO8+evzF2NccEtfnsPgmY/6C+YTXFHsx/Wxcxli4OCywGr940/bKw1LCSAC7ImrTXWWQtSAt1Fz+qQJIU2sTIimcnkZEC6WqCTp55V6wwz18u+ltZMhRd7u2CrZtpKePylUxY+9prFgCtWw+oMM0VoBcKXwloWPfLzKSRb0hzoAFZcKRlRpz7RlS+KJNHMbbrEvM16zUGHBBJYCSv4x9f8VRBNEUbI47keTgabWydXXPsay5l/URTr+Z2JaWCRz4fk74FYfEGTAzvHvEf10admBewNzdu6IRL8CBswNUqJGzYUFyH+ZrzKt0BWLSv4NPvDcl5Jof3q+Bsfh8OTJvS6LHBAkENxRA3j80mZNM/eBaHUiLVnVU1PlWwe7mb6aLWtBNzpwxCVdxrIKIFUpQUmmnASyrncZa6UXz2mxP5fYfY7jpQBuirEqT0vE0FZef52LTRfKJjY125YLpbm47OFQ==;PzwSyo7cM73MNyyUq2lIjw=="
 ---

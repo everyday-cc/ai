@@ -41,15 +41,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "An interview with Bright Data’s VP of Ethics and Compliance on carving the industry path on ethics, regulation and training AI."
-    excerpt: "As VP of Compliance and Ethics, Rony Shalit is responsible for growing and shaping Bright Data’s ethical approach regarding web data collection and proxy usage for years to come which also sets the standard for the industry."
-    publishedDateTime: 2023-10-23T06:00:00Z
-    webUrl: "https://techbullion.com/an-interview-with-bright-datas-vp-of-ethics-and-compliance-on-carving-the-industry-path-on-ethics-regulation-and-training-ai/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 6
 
 secured: "NG32kru2ULt0s7MSl3855FWduWlflhAM0pD4ldQtEMa3OQFpZdf74QljDRYSgOiFznZFmowopFDCHuO5g25jYvhjM+pEcQ1+mgr+YoRkdAzgP12nLFDg11wEq7m9v5SLgyZHX+owvDNCBdZAaXpXJpqOAXKGbdM8kPrdFKVRUhwRrEZ5hLewWfEq8H/wGqUhYTJYPVHG7AysU0BBkDYjUHCkbW1Kc62xfeC32jd/wNIAazMrSC45warUCI/Z+WfgthcV7m5Dmxw3+GUHLHDqZhQSZTl3IDc+lBM+WKOfC/4SnfeG9QIcFDc4r2nS/EXIUHBY0C7tSJlqWeOjKXlRpnXc+2i0FQizj1wqWvykhyXl/yEgTK7HhLPtxuXrfVDL88xe67V4Qd8xpZvZFWfe9taD19Of87hEBOinsWZhvEBXrD0ysuiZ071jZo0aF1f2PThvii6DSkMF/6caYFq3OpUmvdiR2QWVrZBDOQcZVMrini0RID9U9T9FisZ2C7EJBVnwASVAs5AJbltSHnInOQ==;ut73Xq0kwC9Xr45UzgFhmQ=="
 ---

@@ -19,79 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "How AI Is Shaping The Future Of The Luxury Watch Market"
-    excerpt: "Luxury watches are a $75 billion market, with secondhand sales making up roughly $22 billion. Demand is heating up, particularly among Gen Z and Millennials."
-    publishedDateTime: 2023-10-21T01:05:00Z
-    webUrl: "https://www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/"
-    ampWebUrl: "https://www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/amp/"
+  - title: "AI is finally resulting in real growth for big tech"
+    excerpt: "including going up 29% at Azure, three percentage points better than analysts expected. Investors liked that a lot. The market’s reaction to the two sets of data provides their grading, but we care about the AI-related components that went into the top ..."
+    publishedDateTime: 2023-10-25T17:19:00Z
+    webUrl: "https://techcrunch.com/2023/10/25/microsoft-alphabet-earnings-ai-analysis/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65331f003ed6d36d5f46f53f/0x0.png?format=png&height=900&width=1600&fit=bounds"
-        width: 800
-        height: 800
+      - url: "https://techcrunch.com/wp-content/uploads/2023/07/microsoft-getty-hacks-government.jpg?resize=1200,816"
+        width: 1200
+        height: 816
         isCached: true
-  - title: "Artificial intelligence predicts the future of artificial intelligence research"
-    excerpt: "It has become nearly impossible for human researchers to keep track of the overwhelming abundance of scientific publications in the field of artificial intelligence and to stay up-to-date with advances."
-    publishedDateTime: 2023-10-23T13:53:00Z
-    webUrl: "https://techxplore.com/news/2023-10-artificial-intelligence-future.html"
-    ampWebUrl: "https://techxplore.com/news/2023-10-artificial-intelligence-future.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-artificial-intelligence-future.amp"
+  - title: "AI is driving divergent paths for big tech stocks"
+    excerpt: "Microsoft's stock rose while Google's fell after the company's reported Q3 earnings. AI is driving the difference in narratives."
+    publishedDateTime: 2023-10-25T17:47:00Z
+    webUrl: "https://www.aol.com/ai-driving-divergent-paths-big-144715761.html"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 55
+      name: AOL
+      domain: aol.com
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-77.jpg"
-        width: 1280
-        height: 731
+      - url: "https://s.yimg.com/ny/api/res/1.2/gvfHXDgmfzrT4ZN2o8QOiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzk-/https://media.zenfs.com/en/aol_yahoo_finance_433/8701d5ab7ba3832df84be526f235eb0c"
+        width: 1200
+        height: 779
         isCached: true
-  - title: "Omega Venture Partners Spearheads the Future of AI Innovation"
-    excerpt: "As Omega Venture Partners sails into a new epoch of AI innovation, its unrivaled expertise and proven track record affirm its role as the preferred harbinger of success for the pioneers of tomorrow's technology. See more from Citizens Bank on the Role of AI in Financial Services here."
-    publishedDateTime: 2023-10-24T13:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-omega-venture-partners-spearheads-future-ai-innovation-/2023/10/24/9904369.htm"
+  - title: "2023 Women CMOs in Fintech Report: Marketing Investments to Remain Strong, CMOs Orchestrating Success, and Generative AI Boosting Efficiency"
+    excerpt: "Key findings from this year's Women CMOs in Fintech report include: Marketing investments remain strong: Despite the challenges of reduced venture capital and rising costs, marketing spend is not waning for most fintech brands."
+    publishedDateTime: 2023-10-23T12:35:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-2023-women-cmos-fintech-report-marketing-investments-rema-/2023/10/23/9903151.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 19
-  - title: "Artificial Intelligence Is Shaping the Story of the Israel-Gaza War"
-    excerpt: "The discourse on Hamas and Israel has been replete with bias."
-    publishedDateTime: 2023-10-25T12:29:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/artificial-intelligence-shaping-story-israel-gaza-war-207044"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 17
-  - title: "Navigating the Future of Fintech: 5 Platforms Shaping Private Market Investment Strategies"
-    excerpt: "The private market investment landscape is rapidly evolving, with new platforms and technologies driving change. These platforms play a crucial role in helping businesses and investors make informed decisions."
-    publishedDateTime: 2023-10-23T10:42:00Z
-    webUrl: "https://financialit.net/news/investment/navigating-future-fintech-5-platforms-shaping-private-market-investment-strategies"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 14
-    images:
-      - url: "https://financialit.net/sites/default/files/financial_it_-_news_template_updated_1_68.png"
-        width: 900
-        height: 480
-        isCached: true
-  - title: "How Artificial Intelligence is Shaping the Future of Programmatic, Thanks to Very Human Intelligence"
-    excerpt: "Artificial intelligence (AI) is the hot new topic on everyone’s lips, but when it comes to the programmatic industry, AI is nothing new. Data scientists, tech teams and traders have been harnessing the power of AI for years, using it to shape the future ..."
-    publishedDateTime: 2023-10-24T02:26:00Z
-    webUrl: "https://www.exchangewire.com/event-videos/how-artificial-intelligence-is-shaping-the-future-of-programmatic-thanks-to-very-human-intelligence/"
-    type: article
-    provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 2
+    quality: 1
 
 secured: "ljNykeTrltVW4+6VuPqGGImMJ5hU2+z9ldULph529i+8BoYCmTdvFtzR3JqhVL348mQIkRRD9rJYoPwi0HhT5vCfLxwlSb1Hj0ims3Pv+cAdNlodcnGlZ9h6yn5DF6sQLcwaaQAICEMGsRI8ho7iTBdiAmohg6G0CHhfkHQk1kUOcwu24n9qoauFz0LesqdfpygWVfqv8NtWyC+S+RSjfUNZ30QN3bUX2zxsqBLYme528UUUE/SrS7idI5uu26BcNNBxny5nR1bZ+ji5smR25Q83Lgg9ZacZMizr6fm0ulUlHi7Oi2nRGApUHXjM8pnY4JxfAZoqP0FflzP1TRStXDCaPs5RBFX5Pj/FLR7xgM5sxWcl+Udl85iXOh1UctYcMQu+S9XdbeANhnAQpKyklT+o6sZqDckYXiiH3kkhGg94T7r8O5m0v2pmEP8/TCo96hf6VLQ1zXWwl16uoJMI8QyjBtGYSGV6KZBQRK8ZmWsp+YzZQNLPrmXijR7GWgzZtydG4gv8NZ5IsrnXXGv+Mw==;5YB6JDam2VHU8Xlh59WGHQ=="
 ---

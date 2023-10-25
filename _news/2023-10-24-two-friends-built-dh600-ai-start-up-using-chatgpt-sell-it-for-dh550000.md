@@ -100,6 +100,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Startup Strategy: How We Built a Webinar Using ChatGPT"
+    excerpt: "In this online event, join Brooke Gracey as she spills the beans on how the team at Cvent used ChatGPT to create a webinar that was so good, it had people lining up to attend (virtually, of course). She shares all the juicy details on how they used AI to help fill in the gaps"
+    publishedDateTime: 2023-10-25T16:58:00Z
+    webUrl: "https://techcrunch.com/sponsor/cvent/startup-strategy-how-we-built-a-webinar-using-chatgpt/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 52
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/TechCrunch-LP-Graphic-1500x600-1.png?resize=1200,480"
+        width: 1200
+        height: 480
+        isCached: true
   - title: "Researchers show ChatGPT, other AI tools can be manipulated to produce malicious code"
     excerpt: "Artificial intelligence (AI) tools such as ChatGPT can be tricked into producing malicious code, which could be used to launch cyber attacks, according to research from the University of Sheffield."
     publishedDateTime: 2023-10-24T17:02:00Z

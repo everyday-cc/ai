@@ -1,27 +1,28 @@
 ---
 category: news
-title: "AI-generated child sexual abuse images could flood the internet. A watchdog is calling for action"
-excerpt: "A new report warns that the proliferation of child sexual abuse images on the internet could become much worse if something is not done to put controls on artificial intelligence tools that generate deepfake photos."
-publishedDateTime: 2023-10-25T04:08:00Z
-originalUrl: "https://www.ksat.com/business/2023/10/24/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
-webUrl: "https://www.ksat.com/business/2023/10/24/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
+title: "AI-Generated Child Sexual Abuse Images Could Flood the Internet. A Watchdog Is Calling for Action"
+excerpt: "The already-alarming proliferation of child sexual abuse images on the internet could become much worse if something is not done to put controls on artificial intelligence tools that generate deepfake photos,"
+publishedDateTime: 2023-10-25T16:36:00Z
+originalUrl: "https://gvwire.com/2023/10/25/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
+webUrl: "https://gvwire.com/2023/10/25/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
+ampWebUrl: "https://gvwire.com/2023/10/25/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/?amp=1"
+cdnAmpWebUrl: "https://gvwire-com.cdn.ampproject.org/c/s/gvwire.com/2023/10/25/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/?amp=1"
 type: article
-quality: 26
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: KSAT
-  domain: ksat.com
+  name: Bill McEwen
+  domain: gvwire.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/H7FYZHX46FHA3DHODXQC4OWGV4.jpg?_a=ATAPphC0"
-    width: 700
-    height: 467
+  - url: "https://gvwire.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/10/25090717/AP23297714041343-1000x600.jpg"
+    width: 1000
+    height: 600
     isCached: true
 
 related:
@@ -56,6 +57,6 @@ related:
         height: 630
         isCached: true
 
-secured: "hwfap1fczz+XxsMXBG500av9E9iuBePtgIfFKhJQA8H3rxDR+q5rflEY05Xy6VkzSD9nCR44zeQtdqZORhHcN3BRlFI8A0/I7JTk7Kj8awp6K0WpON8P0oymOvH4q35J9YaW6mI7nApfqKscUyUAu53a6bZ+Tq21H1WNyx/UPPXfK1YTnt1J6j21xPyIGZFAc7F7yXZ+gZ0JIpW7fCA9VnthSJ4lc2axnTV8bDBYe5qdYSlQIDwwpFR7XiMBYlzaelci+rwFlObL63UPjL0ZH44m0I5PpGZ/5PYeyqcNEwRLAj2Ay+O4c19fDFJpRtqe74MmrQ4ZCuTcvtsW2pk+IC1JdngLT2aV0F7aPI6o7IQ=;hzKsDG5993TNqbR2HEBpjQ=="
+secured: "hcChpTFGEZRRM4CXbHatFd8RJph8EklwBd7DfUENSaVE40JiGt4NIkRbFf5GdwBWWidJgFKhBMmwE1Xksx7+rAWQ/TyQBxo1TGWWm+heU2/mGMWBPriCpPmGZcmOsPCFqZU25J5BlqFPcIkVpUS+uIkc3gtYEUUTTDGAKHKUzqLKYHw6iXpGvCx2q+KjQObGcCvra1QRvXzzuWg1zPmPeVh8+64W8WS2g+JaejFZIEohOLckPdmUPsdRP1szqscZnCoJISC+U1GFCccXbcHxi4FkaLyxQ+y4Eq51j3RpBTrIupQlvbb17ahKcWxa0hnCzOo4xBVqGW0qMrejGG9qSHc583l2OFdqBpt3PWX8o0E=;NeHDb9lmMzWA4rO3a3o/Gg=="
 ---
 

@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Venture initiative extended to robotics and AI"
-    excerpt: "A venture funding initiative at Edinburgh University has been expanded into robotics and artificial intelligence and has developed a partnership with the National Robotarium at Heriot-Watt."
-    publishedDateTime: 2023-10-23T22:01:00Z
-    webUrl: "https://dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
-    ampWebUrl: "https://dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
-    cdnAmpWebUrl: "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
-    type: article
-    provider:
-      name: dailybusinessgroup
-      domain: dailybusinessgroup.co.uk
-    quality: 69
 
 secured: "V5cDZMSMQBRyQhHdzkiUlmF8FZr6XRRvZq/oZoCbD34gi7V9rCMNeGZrTVh6n+S6ZMoA+edC1GNjuKbShvpEThwzY20oESO2WPXCv1wewRBOrRQ54JKRQ3hgrgXrIEL2/PjTRhujSSyqjlxiB5k9oimhnDRjELTUXgWd3CfAxoHgNBRgkpSIor+4C1mW5xCCUoXTOClPEhMtdSAHrXFoeIDy9qR7MLKy0oYfNRAwTf7mKRNLhqPE77czFFrASImFhp4VI9Rq9k2hiZOL1m0Hss8ZuJjOYM7oe9+0sc/db6jvmHBbcH2AyLFVfy0qiqYK4jiaxkg3mbJinALjFU/ROhmEFjqvpipw643SVYRlWlc=;ISNCZv88FhfgvWeMRM1aOg=="
 ---

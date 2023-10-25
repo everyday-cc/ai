@@ -28,7 +28,7 @@ related:
   - title: "Bias in AI Computer Vision Systems Dramatically Reduced with Synthetic Data ‘Digital Humans’"
     excerpt: "LONDON--(BUSINESS WIRE)--Mindtech, the developer of the world's leading end-to-end synthetic data creation platform for training AI vision systems, has announced the launch of its Digital Humans 2.0 within its Data Ops Platform. To improve accuracy in ..."
     publishedDateTime: 2023-10-23T06:34:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231022631671/en/"
+    webUrl: "https://www.businesswire.com/news/home/20231022631671/en/Bias-in-AI-Computer-Vision-Systems-Dramatically-Reduced-with-Synthetic-Data-‘Digital-Humans’/"
     type: article
     provider:
       name: Business Wire

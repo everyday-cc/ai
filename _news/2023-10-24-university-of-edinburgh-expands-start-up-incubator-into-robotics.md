@@ -9,7 +9,7 @@ ampWebUrl: "https://www.insider.co.uk/news/university-edinburgh-expands-start-up
 cdnAmpWebUrl: "https://www-insider-co-uk.cdn.ampproject.org/c/s/www.insider.co.uk/news/university-edinburgh-expands-start-up-31257558.amp"
 type: article
 quality: 74
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Venture initiative extended to robotics and AI"
-    excerpt: "A venture funding initiative at Edinburgh University has been expanded into robotics and artificial intelligence and has developed a partnership with the National Robotarium at Heriot-Watt."
-    publishedDateTime: 2023-10-23T22:01:00Z
-    webUrl: "https://dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
-    ampWebUrl: "https://dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
-    cdnAmpWebUrl: "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
-    type: article
-    provider:
-      name: dailybusinessgroup
-      domain: dailybusinessgroup.co.uk
-    quality: 69
   - title: "University of Edinburgh AI start-up incubator expanded"
     excerpt: "The expansion of the University of Edinburgh Venture Builder Incubator (VBI) programme means entrepreneurs from across Scotland working in robotics and artificial intelligence can turn their ideas into commercial reality."
     publishedDateTime: 2023-10-24T03:46:00Z

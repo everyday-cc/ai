@@ -1,27 +1,27 @@
 ---
 category: news
 title: "NetApp Advances the State of AI & Secure Infrastructure at INSIGHT 2023"
-excerpt: "NetApp® (NASDAQ: NTAP), a global cloud-led, data centric software company, today announced multiple innovative portfolio updates, including enhancements to the industry’s best data pipeline for hybrid multi-cloud AI and advancements on the most secure data storage against ransomware."
-publishedDateTime: 2023-10-25T05:20:00Z
-originalUrl: "https://www.businesswireindia.com/netapp-advances-the-state-of-ai-and-secure-infrastructure-at-insight-2023-87139.html"
-webUrl: "https://www.businesswireindia.com/netapp-advances-the-state-of-ai-and-secure-infrastructure-at-insight-2023-87139.html"
+excerpt: "NetApp, a global cloud-led, data centric software company, today announced multiple innovative portfolio updates,"
+publishedDateTime: 2023-10-25T16:22:00Z
+originalUrl: "https://www.datanami.com/this-just-in/netapp-advances-the-state-of-ai-secure-infrastructure-at-insight-2023/"
+webUrl: "https://www.datanami.com/this-just-in/netapp-advances-the-state-of-ai-secure-infrastructure-at-insight-2023/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_87139.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.datanami.com/wp-content/uploads/2023/10/netapp-2023-300x210.png"
+    width: 300
+    height: 210
     isCached: true
 
 related:
@@ -49,6 +49,6 @@ related:
       domain: businesswire.com
     quality: 21
 
-secured: "kLmx/v9A5RGXqs+/itjirYrb1RkUuPrlVFWHM97Hr6z3H3CjEoAedIpc+xQiGNhOBI9zWt2zYX7lUv880eSyAoeNbH7HCzdAGZLB0SBD2qBRXtL/xmj+kbaO0UgHt5nG87ocorwe2hMFid9/0+vBgWvaMY7xBJhK1E6lAHZn5K/4HkRAXHi+buxxYZLHlTIMuLoC7d7wK4CvBHdwGgP1OLdXmzdIbEWl61q3GnBkb8rypLZb8PiUfGq8ezcOc8g9u1xzL/F3fuoUod1HcqES1m+D3oGNATeLPafoBrovflvbdo6f37Eyd3YBeAkQMMHuVNM2izRWw5Q7Lons6maaMKIcMdf2vDgO+f2A+1tEKJw=;P78HpQVID4XDsjuPC9GDwQ=="
+secured: "Xr1esdBxiVtUqldU5emtDyN1s3pl60H/7W1ri/1x2k4422aG7wwBgtTue4NpHvnTZJHfbtY+Pi4/ahsmu4YMyzaHOEsv/N5myWudVH5+svrsYebWArpZ1cBe4eQ1Tb5HokXKr9x8rFXzdNoiA1cWCdMne/jvC7E36XwBXbLQDwsoYFBPB45jpltgvtmlA1NvyxW5nnYBR2iad/0BSz0aV3hJKPBATkLHVyyaza43rN3gr8atQozCJCeN/Qs5eYMxq76Ro49jyofO7m0oe4ph31RWIo8ze4zq3FxRo5iqDpGJCzd6rAs232S5wNCE1qftjoFyDNME4mGnqpzOuvWsWTt7BCiul/lZptpmkXP2Nag=;J5ctrzzhuPQfw9ttJ3LNiQ=="
 ---
 

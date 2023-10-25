@@ -1,10 +1,10 @@
 ---
 category: news
 title: "EU ‘in touching distance’ of world’s first laws regulating artificial intelligence"
-excerpt: "Dragoș Tudorache, the MEP who has spent four years drafting AI legislation, is optimistic final text can be agreed by Wednesday"
+excerpt: "Dragoș Tudorache, MEP who has spent four years drafting AI legislation, is optimistic final text can be agreed by Wednesday"
 publishedDateTime: 2023-10-24T13:09:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/24/eu-touching-distance-world-first-law-regulating-artificial-intelligence-dragos-tudorache"
-webUrl: "https://www.theguardian.com/technology/2023/oct/24/eu-touching-distance-world-first-law-regulating-artificial-intelligence-dragos-tudorache"
+originalUrl: "https://www.theguardian.com/technology/2023/oct/24/eu-touching-distance-world-first-law-regulating-artificial-intelligence-dragos-tudorache?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2023/oct/24/eu-touching-distance-world-first-law-regulating-artificial-intelligence-dragos-tudorache?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/24/eu-touching-distance-world-first-law-regulating-artificial-intelligence-dragos-tudorache"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/24/eu-touching-distance-world-first-law-regulating-artificial-intelligence-dragos-tudorache"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "mGVXZm2YpZ3w0uThsym84tesqtGTa6H9MoE0NHpr/02mesG+HvegBNBAgpVCcu114okXqaKz+va7+8iM8Bysvfsaai6yHuMzOWGfzfm+hy4aKdlNBJxqqrVE+qYGINr/TeFaEkLB6KuyD+eyKo/YMCD3RI0N6o2pdswNrIlLEP93ObTC3JcDc8Au9FiW7UpU/MzuXjOZzWmqyilAEOw8oMYE+saReD91H72JdPHkUZto9YL9WDinzlXar02SdR+C3L6Zb3HxplUZnJjQXAjwu89XeFUH7ZfdrZGPJNErzlqs5VCzVU2JMA8egmngK7hhRonamrnrjiIZOj2wKI8Z0HGfgjcb0pMSJJiQVcfWAXTPI/kBEIVdtJQF2XZJBTnji1iIjPNbs9vQtoPwLk5Tkqj/v9cPg4EUesBbgox/UUbhIUldss0Z8RpkFvFtuAKXxiHv8v45U4cIZ9IiNqFrRCxeJYMeQK0NkpyxVql8kuC4uCOTCMs7Tq25UE2501yqvj/479cCyPksorqX+ySTpA==;VvURi7dkyx3ZHrfnxTRNfg=="
+secured: "WbsFsnXG/o9FHnuWwGjtluazf4hOZbof2fHXp+P702QGe/DB1/ViHdOh340mCGo8DU52cg20KjMjENEL8Sv0hXmjcJEpNiwl5dNmLY8fOFL4bwgU8v0NUf8JjxFtWB1ldtvmPJma1dOzC681Cig6tqMfgfTd339UNdcyE4px+KC8fuWFeHGuvykVO8ILKPKh7q3Mgkdqel+S0CM24GsVU3upHOsOz95nUnn1ZBveVY06BUuMAmddxkTRJ6GCyW58oBbuWbtYnyD1idPNJz0rG2YjT3ks0vXWSNF6YnT52vhaEzbBMetdC8jHSM9G9/6pQDWbwMWipE3spfzCfKkWY9VscLm7w5ctoSHv0fH4jus=;8qz2yeY1iWSDZ8bTl9kqCg=="
 ---
 

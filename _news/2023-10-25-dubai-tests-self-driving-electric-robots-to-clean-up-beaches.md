@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Dubai Municipality Initiates Testing Of A Self-Driving Electric Vehicle To Clean Up Bicycle Trails On Dubai's Beaches"
+    excerpt: "Dubai Municipality initiated the testing phase of a self-driving electric vehicle dedicated to cleaning bicycle routes along the beaches of Jumei"
+    publishedDateTime: 2023-10-25T17:10:00Z
+    webUrl: "https://menafn.com/1107302644/Dubai-Municipality-Initiates-Testing-Of-A-Self-Driving-Electric-Vehicle-To-Clean-Up-Bicycle-Trails-On-Dubais-Beaches"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 16
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/25/M_3fb0cimage_story.jpg"
+        width: 1272
+        height: 848
+        isCached: true
   - title: "Dubai Municipality initiates testing of a self-driving electric vehicle to clean up bicycle trails on Dubai's beaches"
     excerpt: "In addition to delivering unique experiences for Dubai beachgoers, the Municipality aims to minimize environmental pollutants and carbon emissions using its automated fleet"
     publishedDateTime: 2023-10-25T13:36:00Z

@@ -40,19 +40,21 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AI-generated child sexual abuse images could flood the internet. A watchdog is calling for action"
-    excerpt: "A new report warns that the proliferation of child sexual abuse images on the internet could become much worse if something is not done to put controls on artificial intelligence tools that generate deepfake photos."
-    publishedDateTime: 2023-10-25T04:08:00Z
-    webUrl: "https://www.ksat.com/business/2023/10/24/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
+  - title: "AI-Generated Child Sexual Abuse Images Could Flood the Internet. A Watchdog Is Calling for Action"
+    excerpt: "The already-alarming proliferation of child sexual abuse images on the internet could become much worse if something is not done to put controls on artificial intelligence tools that generate deepfake photos,"
+    publishedDateTime: 2023-10-25T16:36:00Z
+    webUrl: "https://gvwire.com/2023/10/25/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
+    ampWebUrl: "https://gvwire.com/2023/10/25/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/?amp=1"
+    cdnAmpWebUrl: "https://gvwire-com.cdn.ampproject.org/c/s/gvwire.com/2023/10/25/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/?amp=1"
     type: article
     provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 26
+      name: Bill McEwen
+      domain: gvwire.com
+    quality: 44
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/H7FYZHX46FHA3DHODXQC4OWGV4.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
+      - url: "https://gvwire.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/10/25090717/AP23297714041343-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "jzHmoXVwOYo6b6CD6/zv7LA8PEGiM9R28ZnCJxBiYfy85Kk+0+XQWF0UpK0pxc6pnj0ij9SJej6Gex0i5vjTpWYe9DaX8FOZNaA0LUZKcyUyhRF3AcBeDQC3t1M23EzaPChyeXr2/6kO11FIFy2sRGQ5bcbIvNx76WQyI1pY20IdKJ1azNWs1l0eZ6+pWwuhzvvxsiP31IC41Ba0QAkNMt0L8t7m3u/ESD1GBJpoebkTequoOTXZhL3LZo80JTsR91frqS9vyXCtiA4cLiNJHDByeC75brlxpatu0oRhMgpB0wgl86sY5xKLSCVC/jqQvTcF63zCjWhvlC5/BEZBvfsn2muMtTJTCDYfc2R0QmevnFnFBMoibBWO/QaRj/8+oFSM68MeFkEnW2oGr0fseSlKl2nlG+F2PbbE8Gk/X/u0Akbflrhes2nxkErd7hI6cNcL7BE71IJKzNDuiCA38NRuC3jovKY2x9fDzwuhOy0Qya2Y9/BW1FNmLKTi1X3zNqrW05TW/E8JoHExkZbLng==;yMohoP/2EoW7KFU8QGWW2w=="

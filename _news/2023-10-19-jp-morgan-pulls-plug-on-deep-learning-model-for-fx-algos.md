@@ -1,26 +1,26 @@
 ---
 category: news
 title: "JP Morgan pulls plug on deep learning model for FX algos"
-excerpt: "JP Morgan has phased out a model that leverages machine learning technology for foreign exchange algorithmic execution, citing issues with data interpretation and the complexity involved."
-publishedDateTime: 2023-10-18T17:28:00Z
-originalUrl: "https://www.fx-markets.com/tech-and-data/7949034/jp-morgan-pulls-plug-on-deep-learning-model-for-fx-algos"
-webUrl: "https://www.fx-markets.com/tech-and-data/7949034/jp-morgan-pulls-plug-on-deep-learning-model-for-fx-algos"
+excerpt: "JP Morgan has phased out a model that leverages machine learning technology for foreign exchange algorithmic execution, citing issues with data interpretation and the complexity involved. The US bank had implemented what it calls a deep neural network for ..."
+publishedDateTime: 2023-10-19T15:13:00Z
+originalUrl: "https://www.waterstechnology.com/emerging-technologies/7951376/jp-morgan-pulls-plug-on-deep-learning-model-for-fx-algos"
+webUrl: "https://www.waterstechnology.com/emerging-technologies/7951376/jp-morgan-pulls-plug-on-deep-learning-model-for-fx-algos"
 type: article
 
 provider:
-  name: fx-markets
-  domain: fx-markets.com
+  name: WatersTechnology
+  domain: waterstechnology.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.fx-markets.com/sites/default/files/styles/metatag_image_large/public/2023-10/JPM-phases-out-machine-learning-FX-algo.jpg?itok=i6LG47d8"
+  - url: "https://www.waterstechnology.com/sites/default/files/styles/metatag_image_large/public/article_copied_files/JPM-phases-out-machine-learning-FX-algo.jpg?itok=xqR4I3RZ"
     width: 1200
     height: 743
     isCached: true
 
-secured: "QTR+L+kahZhVkFJfFUKztN4SznBfFKId3ZtVmTjjZFNAiDCe7nu3OAozKHDOSIuounHVDnKbyoqq3MizB5pq0VevOdj0cin2zmlw/QN6J6ZcLXGwuhpQYQCvyRp0ye6R7Zq+sr4NstM8j2t5tXcSjpSKwyl8Wq8JsnclpuQtmPftsrwRIicohGF290zDSusiMHW/al5nhEJPfUbjQRBZoeJ7Q0FxMOTk3tMF45QQ5T9ygVh9itdePnd8PvASSpOUs8peWsBJpe3KZNaiSkf1nU4Lbmfb+dBppLkfWOwOz6RmOttQu9uBNNixcpxFHdhE/TESNLCVO3YxPRJGgPtu0vZKcFIG9pwHr5O02PVKtW/KXC1MvRl6VUtpLvQnIW5cDRmCkKrjuV8xE75pUzkTEhmMakKbBPIApW40z7rS42GmD5NL5syLJiHZsRzWGRBCbhn0hXqOUPjCAZ27tRglaOuELe1nCqQI3aWVCMhMB9Gc1J4RfKNxGKkPH5lCWTohIMr19BmndMPnHKtkUnEbHA==;IA29026oGoL9L5+ghN1/Pg=="
+secured: "jT9sNOMFA/kCdFiLBLDF1dhko5si/GNyR+C1Nwrz3AZL9ymbyWEMppHhT8wURXc/m7akDlz+fk6x9bG04LCttbUZF1fn7DvROXQnxhcagvK5W7HBCFqWi+jvlIjelyclelyPj9JzXlPB/z2k7mh5ePkXido0hKdl571ITAavDYGuGbDO8xJzrrqzI7og9/UoFIF2CmY4qS9a0J80qkLqqhKc3726l6zCsGAAUGfIO8d1XxM0kvLgee9c7S71Khmw86x4b735iLUAnqh0uCSKxyxerG3PTf4mAtaSsjtXPAY+kyUPbruMyLEiTrWklgvJGVlUtrucips3HGFQF6HHU//NMp78J+Q//rBLPO9DcqE=;/SxRqa3Av+B/MvKtuIeAQg=="
 ---
 

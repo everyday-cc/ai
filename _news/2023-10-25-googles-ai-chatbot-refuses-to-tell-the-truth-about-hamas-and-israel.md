@@ -40,6 +40,15 @@ related:
         width: 1199
         height: 685
         isCached: true
+  - title: "Artificial Intelligence Is Shaping the Story of the Israel-Gaza War"
+    excerpt: "The discourse on Hamas and Israel has been replete with bias."
+    publishedDateTime: 2023-10-25T12:29:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/artificial-intelligence-shaping-story-israel-gaza-war-207044"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 17
 
 secured: "GDEB5oaSyA309MYbrGPbzDn0foAlG4xOn2iwoDUY9XfOpMjNP0X/Aup8HWbaw05ZrGhkR2ihJgfqRdeop6aFBuWEn/NoFpbT91KP16HuM1NXrGRsRARMhtRc80g8rs751GJGOoUK+SzT7FmXLFEBKSOWOqTxVVZDQiK1Ruhf9Og6hbrTECS69/86ffSoLnvVrR6vYOd+4fhMkjQ2a0xnn5Ezy/l5wAUj8Frk4ut/HzK1v6077OXpbCuhERQrpnVoJwgljb3CSLorwrJHV9L7vJ9Rw8LbzkEWZDUK4TxCcJXG7HXRcFhMgWg9y3R5U5LMfkgSk2lTII+xa9Nnij845Ozo4Atllq3KfRAJOZBIueA=;rVgOiA+9iK28h57FBSrTxw=="
 ---

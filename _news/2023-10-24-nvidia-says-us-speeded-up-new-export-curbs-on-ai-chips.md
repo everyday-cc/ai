@@ -70,6 +70,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "NVIDIA Brings The Power Of Generative AI To The Edge"
+    excerpt: "NVIDIA wants to turn the Jetson family of devices into powerful edge computing devices capable of running state-of-the-art foundation models."
+    publishedDateTime: 2023-10-25T15:43:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/10/25/nvidia-brings-the-power-of-generative-ai-to-the-edge/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/10/25/nvidia-brings-the-power-of-generative-ai-to-the-edge/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/10/25/nvidia-brings-the-power-of-generative-ai-to-the-edge/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653937292c9fb9a0418eaf7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1000
+        height: 546
+        isCached: true
   - title: "US orders immediate halt to some AI chip exports to China, Nvidia says"
     excerpt: "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October."
     publishedDateTime: 2023-10-25T03:41:00Z
@@ -101,6 +117,20 @@ related:
       - url: "https://i.gadgets360cdn.com/large/nvidia_reuters_1682491698706.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "US Government Orders Immediate Stop to Chinese AI Chip Exports"
+    excerpt: "Tech giant Nvidia has announced that President Biden’s administration has ordered it to stop shipping advanced AI chips to China immediately. These restrictions were always in the works and due to start next month. However, for an as-of-yet unknown reason, this date has been brought forward to today."
+    publishedDateTime: 2023-10-25T17:00:00Z
+    webUrl: "https://tech.co/news/us-stop-ai-chip-exports"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 54
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/10/25125830/nvidia-chip.jpg"
+        width: 1920
+        height: 960
         isCached: true
   - title: "ANALYSIS-US chip curbs give Huawei a chance to fill the Nvidia void in China"
     excerpt: "While Nvidia NVDA.O has historically been the leading provider of AI chips in China with a market share exceeding 90%, Chinese firms including Huawei have been developing their own versions of Nvidia’s best-selling chips, including the A100 and the H100 graphics processing units (GPU)."

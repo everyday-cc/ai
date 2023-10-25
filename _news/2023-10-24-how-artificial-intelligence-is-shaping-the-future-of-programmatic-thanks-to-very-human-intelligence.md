@@ -18,78 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "How AI Is Shaping The Future Of The Luxury Watch Market"
-    excerpt: "Luxury watches are a $75 billion market, with secondhand sales making up roughly $22 billion. Demand is heating up, particularly among Gen Z and Millennials."
-    publishedDateTime: 2023-10-21T01:05:00Z
-    webUrl: "https://www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/"
-    ampWebUrl: "https://www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/amp/"
+  - title: "'Human-like intelligence': A look at Vancouver's AI-powered robot workforce"
+    excerpt: "A Vancouver company called Sanctuary AI is on a mission to develop the world's-first human-like intelligence in general-purpose robots. Not only are these robots about the size and shape of people, but they also have human-like intelligence. As a result, they have a capacity to respond and adapt to their environments similar to the way humans do."
+    publishedDateTime: 2023-10-24T14:30:00Z
+    webUrl: "https://www.richmond-news.com/technology/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Richmond News
+      domain: richmond-news.com
+    quality: 52
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65331f003ed6d36d5f46f53f/0x0.png?format=png&height=900&width=1600&fit=bounds"
-        width: 800
-        height: 800
+      - url: "https://www.vmcdn.ca/f/files/via/images/business/ai-robot-vacuum-vancouver-cleaningjpg.png;w=960;h=592;mode=crop"
+        width: 960
+        height: 592
         isCached: true
-  - title: "Artificial intelligence predicts the future of artificial intelligence research"
-    excerpt: "It has become nearly impossible for human researchers to keep track of the overwhelming abundance of scientific publications in the field of artificial intelligence and to stay up-to-date with advances."
-    publishedDateTime: 2023-10-23T13:53:00Z
-    webUrl: "https://techxplore.com/news/2023-10-artificial-intelligence-future.html"
-    ampWebUrl: "https://techxplore.com/news/2023-10-artificial-intelligence-future.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-artificial-intelligence-future.amp"
+  - title: "Book Review: ‘A Brief History of Intelligence’ may help humans shape the future of AI"
+    excerpt: "Answers to those questions and much, much more can be found in the pages of Max Bennett’s new book “A Brief History of Intelligence: Evolution, AI and the Five Breakthroughs that Made Our Brains.” At 365 pages plus 45 more with a glossary, chapter notes and a bibliography, readers can quibble whether it’s indeed brief, but it is certainly thorough."
+    publishedDateTime: 2023-10-23T19:10:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/book-review-brief-history-intelligence-humans-shape-future-104229773"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/book-review-brief-history-intelligence-humans-shape-future-104229773"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/book-review-brief-history-intelligence-humans-shape-future-104229773"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 55
+      name: ABC
+      domain: abcnews.go.com
+    quality: 50
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-77.jpg"
-        width: 1280
-        height: 731
-        isCached: true
-  - title: "How AI is reshaping the financial technology landscape"
-    excerpt: "Indeed, artificial intelligence (AI) and machine learning (ML) are increasingly collaborating in solutions, especially in the realm of fintech - and, when they do, the benefits seem unstoppable as this guide explains. AI and SMEs unveiled Years ago ..."
-    publishedDateTime: 2023-10-24T11:06:00Z
-    webUrl: "https://www.finextra.com/blogposting/25085/how-ai-is-reshaping-the-financial-technology-landscape"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-  - title: "Omega Venture Partners Spearheads the Future of AI Innovation"
-    excerpt: "As Omega Venture Partners sails into a new epoch of AI innovation, its unrivaled expertise and proven track record affirm its role as the preferred harbinger of success for the pioneers of tomorrow's technology. See more from Citizens Bank on the Role of AI in Financial Services here."
-    publishedDateTime: 2023-10-24T13:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-omega-venture-partners-spearheads-future-ai-innovation-/2023/10/24/9904369.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "Artificial Intelligence Is Shaping the Story of the Israel-Gaza War"
-    excerpt: "The discourse on Hamas and Israel has been replete with bias."
-    publishedDateTime: 2023-10-25T12:29:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/artificial-intelligence-shaping-story-israel-gaza-war-207044"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 17
-  - title: "Navigating the Future of Fintech: 5 Platforms Shaping Private Market Investment Strategies"
-    excerpt: "The private market investment landscape is rapidly evolving, with new platforms and technologies driving change. These platforms play a crucial role in helping businesses and investors make informed decisions."
-    publishedDateTime: 2023-10-23T10:42:00Z
-    webUrl: "https://financialit.net/news/investment/navigating-future-fintech-5-platforms-shaping-private-market-investment-strategies"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 14
-    images:
-      - url: "https://financialit.net/sites/default/files/financial_it_-_news_template_updated_1_68.png"
-        width: 900
-        height: 480
+      - url: "https://s.abcnews.com/images/Entertainment/wirestory_0a79496c8bff7c06bb320a96122d95a8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "m/Pt7BQ87mhut3niWguCK8QPIY63C+249RnjCcnQDmRdFlO9mC5M0Dd0F+0r/5YKNjymW/s5BD/QOFp+v+W5MTCdEWGs/m3upwmtl3Ido52QNpO8QAvKyh21kVn0BNQ/4CqFHqqfiGpoXsB9QDVA/9EcRdZVqnyoc4SHdGhNIQ64SRx2tB9rKrHHH7yzN2vDKE9cHjqkYuvyEB/wF9x2yPmzBEoupWysRfy4l8fawPuHQvMDniQVtyK2CgoCl5Tnzy3F+4JLA6EoFisQniN45DGW3EvdI+YEH6UJNTuEQmqYqLG76eabNn+CFu/+GYDcLtxKU0vh4KLYohvmvEqhJ5HNPXHwezfOi4l71Rbb6lM=;K0OHrOf6MhXXuENWBdUyzg=="

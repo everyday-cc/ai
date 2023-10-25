@@ -19,22 +19,40 @@ topics:
   - AI
 
 related:
-  - title: "How AI Is Shaping The Future Of The Luxury Watch Market"
-    excerpt: "Luxury watches are a $75 billion market, with secondhand sales making up roughly $22 billion. Demand is heating up, particularly among Gen Z and Millennials."
-    publishedDateTime: 2023-10-21T01:05:00Z
-    webUrl: "https://www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/"
-    ampWebUrl: "https://www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/amp/"
+  - title: "Kate Darling on the Future of Robotics and AI Ethics"
+    excerpt: "Our featured interview on this episode is with Dr. Kate Darling, who is joining Marc Raibert in her dream job at the Boston Dynamics AI Institute to head up their AI and ethics research group. We talk to Kate about everything from AI and humanoid robots to her kids’ love affair with the Marty Robot at the local Stop and Shop supermarket."
+    publishedDateTime: 2023-10-25T17:17:00Z
+    webUrl: "https://www.therobotreport.com/kate-darling-on-the-future-of-robotics-and-ai-ethics/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 116
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65331f003ed6d36d5f46f53f/0x0.png?format=png&height=900&width=1600&fit=bounds"
-        width: 800
-        height: 800
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/10/kate-darling-marc-raibert.jpg"
+        width: 770
+        height: 500
         isCached: true
+  - title: "Rice Robotics is Shattering AI Stereotypes, One Friendly Robot at a Time"
+    excerpt: "While many still look at artificial intelligence (AI) with skepticism, fearing job loss or dystopian nightmares, Rice Robotics is flipping the script. Founded in Hong Kong and deeply rooted in the Japanese market, the start-up aims to redefine how we ..."
+    publishedDateTime: 2023-10-24T02:30:00Z
+    webUrl: "https://www.gizmochina.com/2023/10/24/rice-robotics-ai-stereotypes-friendly-robots/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 78
+  - title: "Venture initiative extended to robotics and AI"
+    excerpt: "A venture funding initiative at Edinburgh University has been expanded into robotics and artificial intelligence and has developed a partnership with the National Robotarium at Heriot-Watt."
+    publishedDateTime: 2023-10-23T22:01:00Z
+    webUrl: "https://dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
+    ampWebUrl: "https://dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
+    cdnAmpWebUrl: "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
+    type: article
+    provider:
+      name: dailybusinessgroup
+      domain: dailybusinessgroup.co.uk
+    quality: 69
   - title: "Artificial intelligence predicts the future of artificial intelligence research"
     excerpt: "It has become nearly impossible for human researchers to keep track of the overwhelming abundance of scientific publications in the field of artificial intelligence and to stay up-to-date with advances."
     publishedDateTime: 2023-10-23T13:53:00Z
@@ -51,47 +69,65 @@ related:
         width: 1280
         height: 731
         isCached: true
-  - title: "How AI is reshaping the financial technology landscape"
-    excerpt: "Indeed, artificial intelligence (AI) and machine learning (ML) are increasingly collaborating in solutions, especially in the realm of fintech - and, when they do, the benefits seem unstoppable as this guide explains. AI and SMEs unveiled Years ago ..."
-    publishedDateTime: 2023-10-24T11:06:00Z
-    webUrl: "https://www.finextra.com/blogposting/25085/how-ai-is-reshaping-the-financial-technology-landscape"
+  - title: "Good set of ethics, values needed to chart future of AI, forum hears"
+    excerpt: "The formulation of the artificial intelligence (AI) code of ethics, which is expected to be ready by 2024, should not only include the Seven Principles of Responsible AI but also inculcate education and awareness on ethics,"
+    publishedDateTime: 2023-10-21T11:00:00Z
+    webUrl: "https://www.thestar.com.my/news/nation/2023/10/21/good-set-of-ethics-values-needed-to-chart-future-of-ai-forum-hears"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-  - title: "Artificial Intelligence Is Shaping the Story of the Israel-Gaza War"
-    excerpt: "The discourse on Hamas and Israel has been replete with bias."
-    publishedDateTime: 2023-10-25T12:29:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/artificial-intelligence-shaping-story-israel-gaza-war-207044"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 17
-  - title: "Navigating the Future of Fintech: 5 Platforms Shaping Private Market Investment Strategies"
-    excerpt: "The private market investment landscape is rapidly evolving, with new platforms and technologies driving change. These platforms play a crucial role in helping businesses and investors make informed decisions."
-    publishedDateTime: 2023-10-23T10:42:00Z
-    webUrl: "https://financialit.net/news/investment/navigating-future-fintech-5-platforms-shaping-private-market-investment-strategies"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 14
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
     images:
-      - url: "https://financialit.net/sites/default/files/financial_it_-_news_template_updated_1_68.png"
-        width: 900
-        height: 480
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/21/2347774.jpg"
+        width: 1240
+        height: 826
         isCached: true
-  - title: "How Artificial Intelligence is Shaping the Future of Programmatic, Thanks to Very Human Intelligence"
-    excerpt: "Artificial intelligence (AI) is the hot new topic on everyone’s lips, but when it comes to the programmatic industry, AI is nothing new. Data scientists, tech teams and traders have been harnessing the power of AI for years, using it to shape the future ..."
-    publishedDateTime: 2023-10-24T02:26:00Z
-    webUrl: "https://www.exchangewire.com/event-videos/how-artificial-intelligence-is-shaping-the-future-of-programmatic-thanks-to-very-human-intelligence/"
+  - title: "Robotics and artificial intelligence to transform O&M tasks in the energy sector"
+    excerpt: "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news"
+    publishedDateTime: 2023-10-25T13:17:00Z
+    webUrl: "https://sciencex.com/wire-news/459680225/robotics-and-artificial-intelligence-to-transform-om-tasks-in-th.html"
     type: article
     provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 2
+      name: sciencex
+      domain: sciencex.com
+    quality: 44
+  - title: "Artificial Intelligence and Research Ethics"
+    excerpt: "Artificial intelligence can increase efficiency and create novel insights for university research. However, with this new frontier of research practices comes great responsibility for researchers ..."
+    publishedDateTime: 2023-10-24T20:24:00Z
+    webUrl: "https://www.chronicle.com/events/virtual/artificial-intelligence-and-research-ethics"
+    type: article
+    provider:
+      name: The Chronicle of Higher Education
+      domain: chronicle.com
+    quality: 36
+  - title: "State CPA societies offer AI ethics course"
+    excerpt: "The Virginia Society of CPAs is partnering with 10 other state CPA groups to offer a course on artificial intelligence and where it fits in with accounting ethics."
+    publishedDateTime: 2023-10-23T15:11:00Z
+    webUrl: "https://www.accountingtoday.com/news/state-cpa-societies-offer-ai-ethics-course"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 34
+  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
+    excerpt: "GIGABYTE spearheads the launch of Azure AI laptops in partnership with Microsoft and extends this collaboration to hybrid AI application functions, like Microsoft Copilot, integrating related AI services and technologies into existing platforms for a truly ..."
+    publishedDateTime: 2023-10-21T18:42:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354353&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
+  - title: "An interview with Bright Data’s VP of Ethics and Compliance on carving the industry path on ethics, regulation and training AI."
+    excerpt: "As VP of Compliance and Ethics, Rony Shalit is responsible for growing and shaping Bright Data’s ethical approach regarding web data collection and proxy usage for years to come which also sets the standard for the industry."
+    publishedDateTime: 2023-10-23T06:00:00Z
+    webUrl: "https://techbullion.com/an-interview-with-bright-datas-vp-of-ethics-and-compliance-on-carving-the-industry-path-on-ethics-regulation-and-training-ai/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 6
 
 secured: "JMnJTRngvqZAmqI+fBqg16a1MZ2mjU3U2ydnZD7PAEkBdHiE6qvlnCOoNlvgFnJnTpK/guyVeRov4zTyxfgeP7E3K6+NTVDu92kOgCp+OXbn6QuW9l0RR5rJ0oIK7rV/G63kgz96cFZ5Cheoo0zWk14DOp7Rt4u3MLP7znrbExPU0DFzMcpSrQx59d2OImcjx02zf7zDVRpV3p3nu5rFHkccXKaKoXn6golmGpg0Ji0CQmOTAG2LglAmxY/pYpwJaadH8MjZG5qvKZAhaxt5v/cMHY8QPQUHEEm9FYG8ZGsAxLf10KBWNhMGBnrDs9I42zsEG4m2QICLj0ap1BvtONqrEEgpXdqFiJEKeOTCSPY=;nXW0Pupi7aUM6z0btz7TOw=="
 ---

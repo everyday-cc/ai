@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing-ai-to-streamline-identity-management/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How To Fill The Looming AI Talent Gap"
-    excerpt: "For even a casual reader of the news, it would be impossible to miss the fact that generative AI is a big part of this transformation."
-    publishedDateTime: 2023-10-23T19:36:00Z
-    webUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/10/23/how-to-fill-the-looming-ai-talent-gap/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "U+fjKEyXSqjAADesIcG0aMVtFve8jugrUXKHwhG1kq0FkXdFnFrc9zIlc5curIRucp1mUNFwujo52BJRvZdS9kK8dwMB53kWwT1rs96YGYslmzJZjS66jL/eej10BsprKEjnqedC2LFb/hv1vMJZmvEb7kb3jA/sKwVc47oNyads3K6OjavB8YMV96lveF4TZ9czMa84v29/KbUU9JI1Lp2kcb6BZ69FhKgYo5BJnIl/vmeSxHC43zfZIeLTcEQDVu+xu9Dfy9iUwgw3DorOrRybHHkbWTAFAt2YukQp2ghwxISdxW5Ae+MLpKwpIvPlpsJxdNd3hyRz+c0KPq/aVbvYlsjpfYoyAueDrtFa7PA=;M0RYaoxYWgI2EJz/vCmD2w=="
 ---
