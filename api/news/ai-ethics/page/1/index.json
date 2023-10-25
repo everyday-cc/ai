@@ -100,21 +100,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-24-oklahoma-lawmakers-struggle-to-regulate-growing-ai-industry.md",
-      "title": "Oklahoma Lawmakers Struggle to Regulate Growing AI Industry",
-      "excerpt": "Experts say AI is now present in everything from apps and facial recognition software to ChatGPT, which allows users to ask questions and receive human-like replies based on data harvested from the Internet.",
+      "path": "_news/2023-10-24-uk-officials-are-using-ai-to-make-decisions-on-benefits.md",
+      "title": "UK officials are using AI to make decisions on benefits",
+      "excerpt": "‘There is a lack of consistency and transparency in the way that AI is being used in the public sector,’ said Marion Oswald, a professor in law at Northumbria University and a former member of the government’s advisory board on data ethics.",
       "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/artificial-intelligence/oklahoma-lawmakers-struggle-to-regulate-growing-ai-industry",
-      "originalUrl": "https://www.govtech.com/artificial-intelligence/oklahoma-lawmakers-struggle-to-regulate-growing-ai-industry",
+      "webUrl": "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/?ico=trending-post-strip_item_4",
+      "originalUrl": "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/?ico=trending-post-strip_item_4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/3a7a9b8/2147483647/strip/true/crop/770x402+0+21/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F8b%2F30%2F4a5c1d816421a46b210b0da4f13f%2Foklahoma-capitol.jpg",
-          "width": 840,
-          "height": 438,
+          "url": "https://metro.co.uk/wp-content/uploads/2023/10/GettyImages-1199003735.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -122,13 +122,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.govtech.com/artificial-intelligence/oklahoma-lawmakers-struggle-to-regulate-growing-ai-industry?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/oklahoma-lawmakers-struggle-to-regulate-growing-ai-industry?_amp=true",
-      "publishedDateTime": "2023-10-23T10:58:00-07:00",
+      "ampWebUrl": "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/",
+      "publishedDateTime": "2023-10-23T10:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
+        "name": "Metro",
+        "domain": "metro.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -203,7 +203,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {

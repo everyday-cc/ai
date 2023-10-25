@@ -73,20 +73,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
-    excerpt: "\"There are very real-world consequences to getting this wrong that can impact health disparities,\" said Stanford University's Dr. Roxana Daneshjou, an assistant professor of biomedical data science and dermatology and faculty adviser for the paper."
-    publishedDateTime: 2023-10-20T19:39:00Z
-    webUrl: "https://sentinelcolorado.com/uncategorized/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism/"
-    type: article
-    provider:
-      name: Sentinel Colorado
-      domain: sentinelcolorado.com
-    quality: 27
-    images:
-      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/10/AP23290859783861.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "As chatbots advance, ‘AI agents’ threaten to oust office workers"
     excerpt: "Researchers are transforming chatbots into online agents that play games, query websites, schedule meetings, build bar charts and do more."
     publishedDateTime: 2023-10-23T13:00:00Z

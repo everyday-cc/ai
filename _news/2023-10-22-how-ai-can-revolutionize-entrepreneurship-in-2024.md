@@ -147,6 +147,15 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "How AI combats climate change and mitigates its impact"
+    excerpt: "Climate change remains one of the most pressing issues - we discuss how AI combats climate change in this article"
+    publishedDateTime: 2023-10-25T12:05:00Z
+    webUrl: "https://www.openaccessgovernment.org/how-ai-combats-climate-change-and-mitigates-its-impact/168986/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 19
   - title: "5 Jobs Artificial Intelligence Can’t Replace"
     excerpt: "In this article, we will look at the 5 jobs that artificial intelligence can’t replace. We have also discussed the potential impact of artificial intelligence on jobs in another article."
     publishedDateTime: 2023-10-24T11:49:00Z

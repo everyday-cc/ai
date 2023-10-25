@@ -59,6 +59,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "UK launches facial recognition drive against shoplifters"
+    excerpt: "On Monday, the country’s police authorities and representatives of 13 of the UK’s biggest retailers announced the Retail Crime Action Plan."
+    publishedDateTime: 2023-10-25T14:20:00Z
+    webUrl: "https://www.biometricupdate.com/202310/uk-launches-facial-recognition-drive-against-shoplifters"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/06154234/walmart-cctv-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "dTfDDg0JwR0BgNgL4zf1vllQMyz9+IeFN2slmnPIijFnZE8bF1T59eg+7YCR0f9lcQ++3kAbp15rlAS+oz6IeI95jb+90eqK6z2kE9SkhHZRlNjXtY5EotjIBgnQG3BtvEdlKZpvQdXu5fe3b/Dp9eJfYVsEimoHupPjDNv865uDv17Ho4Kn/1ijYc1O5kh9/R0Zr4uQVIlU9R1JlLD+UnNf2DCck7lgwJYAvYkVr7kSp1UJbR5LeVgPrPDs0GDay78jFSPNgmCWG12P1S7OdOFPe1u78lnLlgJc2pvnDJYNbO+5ua1YQcGLnGuu8oMosfYnYQtaW8StpH3OvTa67YTcBdxDVXfX7xffq6sowGQw92jzg/NeQiLcsmnBYiqJ2P0o+zzx3woGjtQa/H47ujVEOEtrrFO44jHhugpVGR+/C+9iBVQRtDStQu7TxRfPrCxQdpU8vh4Rly6Vzoh+WtEOTh1Mfhcm3PjvKAAWJRD4UGojFnVi/0y0ixQiCTFzviKNMnq3rBz2Fyh43xS8gg==;oidnKMNbRQjAWQ+HqhtzFw=="
 ---

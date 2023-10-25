@@ -36,15 +36,6 @@ related:
       domain: bloomberg.com
     quality: 47
   - title: "Dear Matt: Artificial Intelligence in the AV Industry"
-    excerpt: "Dive into AI's impact on the AV industry, its applications and the importance of responsible use from Vistacom's CTO, Matt."
-    publishedDateTime: 2023-10-20T22:22:00Z
-    webUrl: "https://marketscale.com/industries/podcast-network/tech-unraveled/dear-matt-artificial-intelligence-in-the-av-industry/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 19
-  - title: "Dear Matt: Artificial Intelligence in the AV Industry"
     excerpt: "Vistacom’s Matt Boyer answers a question on artificial intelligence in the AV industry in the latest installment of “Dear Matt,” presented by Vistacom."
     publishedDateTime: 2023-10-23T14:20:00Z
     webUrl: "https://marketscale.com/industries/pro-av/ai-in-av/"

@@ -7,7 +7,7 @@ originalUrl: "https://campaignme.com/how-would-you-feel-about-sitting-on-a-panel
 webUrl: "https://campaignme.com/how-would-you-feel-about-sitting-on-a-panel-with-an-ai-robot/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 4051
     height: 4223
     isCached: true
+
+related:
+  - title: "Would You Buy Soap from an AI-Powered Robot Dog?"
+    excerpt: "People who own an aibo can buy them accessories like scarves and leg warmers. They can also buy them “digital food,” which they can watch their aibo eat out of a real dog bowl using augmented reality technology on their smartphone."
+    publishedDateTime: 2023-10-25T13:50:00Z
+    webUrl: "https://www.uml.edu/news/stories/2023/mark-yim-ai-marketing-research.aspx"
+    type: article
+    provider:
+      name: UMass Lowell
+      domain: uml.edu
+    quality: 34
 
 secured: "/GKoKmS3Vx7NjjHtDEet/RDlE/+QIDqpVqAR6mxeUUaBIXkKOaOK35LiShewM7WaO+Zp54ir/t5Agdg/+5A+RkAiBLauNFRDAvZzeF0t9HCNLomqx6rA7+DT/fq5KzrqexgI+cqqau45ehO7eJQTHft2sxh3CBhegpHjaXTADgL3TcL8JouihYwHuMjVEBjHcMp/5tVaJPtvpdIOJIECt+A5hKYpSKqlPPFHusLR4bBG/6FOmpHnUJjCjmAstwGPu/X3SNc6MXoes9XAGAeUuC5X4Yc1Th9sjiUDwhLq9aJvSNgCE6HUslRXp2EtPUSHGL0Bnry32EWG0NCeMNKu3bTVq5NulYn425brxqYYfPg=;tCUGOwWqmviiwn8XtzklCg=="
 ---

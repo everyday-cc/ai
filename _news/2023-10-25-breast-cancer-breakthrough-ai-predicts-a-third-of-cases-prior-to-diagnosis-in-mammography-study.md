@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/health/breast-cancer-breakthrough-ai-predict
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/breast-cancer-breakthrough-ai-predicts-third-cases-diagnosis-mammography-study.amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "AI ‘breakthrough’: neural net has human-like ability to generalize language"
+    excerpt: "A neural-network-based artificial intelligence outperforms ChatGPT at quickly folding new words into its lexicon, a key aspect of human intelligence."
+    publishedDateTime: 2023-10-25T15:10:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-03272-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03272-3/d41586-023-03272-3_26220184.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "zNaf9ANhoPksgpF6UrRTrX8Apz/LUDmFFtldHS8lqGJmdZ5MxlGjZKnwBdqf8cJEY6wCDemo54Sf4ysCWLZkhzJfgSBzCUaDfN0JK3FBNImwedA+NDst6dclCOd0K62wIWBrsltkOwG9X5S6pVBLRijuwQyTike7KwjWGJqhgXiR54Z7hpLSYO/pLs/kI1EqOBa7Gsb09WwI43vdzM9LAjRrhVBTFunYKhvl+Gj6ZYq1KdwB7kMesBbWwm2KaopoaB3MgHKrYDNs53EW+aWMUaCQlusYEisEPSwKalEBoHZSg4ZjhQcIOnsTAkKt9OidX3FbllgKgShGMSmmK3EjNgsmx5iYuGvbZy8yGzlj9Wc=;/NA0Xcde0oLj+RJ92nRcAw=="
 ---

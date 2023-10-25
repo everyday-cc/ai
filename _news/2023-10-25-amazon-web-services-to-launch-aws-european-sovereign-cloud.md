@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35408217"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35408217"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Four out of Five European Financial Services Leaders Are Embracing Generative AI"
+    excerpt: "Financial services organisations are making significant investments in generative AI to enhance their digital transformation processes."
+    publishedDateTime: 2023-10-25T15:45:00Z
+    webUrl: "https://www.bbntimes.com/global-economy/four-out-of-five-european-financial-service-leaders-are-embracing-generative-ai"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 34
+    images:
+      - url: "https://www.bbntimes.com/images/articles/technology/Four_out_of_Five_European_Financial_Services_Leaders_Are_Embracing_Generative_AI.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Almost 80 per cent of European financial services brace themselves for Generative AI impact"
     excerpt: "A reported 77 per cent of European financial services leaders expect Generative AI to significantly affect productivity and change roles."
     publishedDateTime: 2023-10-25T05:00:00Z
@@ -42,6 +56,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "GBXaa5WjtoKP0VxiAxiuBDSLOnpPsZSLr+4yDvJt9PLCoe5uvXUClIf1hdykXiU4L4rHUDe8jTqZR39aXNeMGR/4ITOS29jIUp9nEs8Z3YG3f2WpkX8OKeSm/SGtLva24wq9NKWCUB3AGOR+0sdE+KJ+zBbvzHWIpmzLFhygc3Mz0/QyaWW4rUl4DWvYZaps5eRldMFDSd1e5AU83GcqBZzNrgTcmCWhI8in762ouH5gYKyfZnjoC+uoaZ1mkfRoQndRsQrsR4bTsFVfhbdvXBfHi0HGZyCIqwp2k+7ddhVfdGxZDJgo9BeagFGNmFfBUfdCjKEEPYBeFgmrMbVK2Efh7UDx1GOZVQKQlOs9Yp0=;HyAcWduadlrOrjj+wU0vyQ=="
+secured: "ZnlhlywKG3uGJ2ptOb8dqwwl2SnTVcfhkVZhJABpnv4I31koqJ8Cq/MT50evzoN587k1k/79rdGDcN6inJ7AwMZZ7fNbg/RpIj5AXqEQQhZNPaYiaN7sfcigyHRpxicDSdaGYZYfb3Sz1m+M+SvghGhscz28Rs/ITiBYgN/nihKgg+3p5lNpWUnMdEaN9C4xTi4uDGbXAUurnz7eHWhqy2lM3HfYy4QlM8vR2FX0EjT+PJwX1Wy4sLLsWZVJuSEkiVjatlyu46qkNaiXrXd7BkClNJPB6lwpnpNv6e1c1QI2VkBiUN2EcO5V8b8TLBwck1PIwVf8ZPCKPbT+eB7rzAuEl+CrQB/noXx7WwJzzU8=;a/rP1sq+f60FJuCV6QiwMw=="
 ---
 

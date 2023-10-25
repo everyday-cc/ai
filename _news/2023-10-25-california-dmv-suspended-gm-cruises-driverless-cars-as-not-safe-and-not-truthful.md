@@ -55,6 +55,20 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "Regulators Suspend Cruise's Driverless Taxis From Operating In San Francisco"
+    excerpt: "Driving Taxis The Department of Motor Vehicles has suspended permits that allowed robo-taxi company Cruise to operate in San Francisco. That comes after an incident earlier this month, in which one of the company's fully driverless vehicles hit and dragged a pedestrian."
+    publishedDateTime: 2023-10-25T14:12:00Z
+    webUrl: "https://www.kqed.org/news/11965519/regulators-suspend-cruises-driverless-taxis-from-operating-in-san-francisco"
+    type: article
+    provider:
+      name: KQED
+      domain: kqed.org
+    quality: 36
+    images:
+      - url: "https://ww2.kqed.org/app/uploads/sites/10/2023/08/GettyImages-1556779132-1020x680.jpg"
+        width: 1020
+        height: 680
+        isCached: true
 
 secured: "A5i/tK5VB3lh1PXYFu+YzdFvnRZpfkwiqx+mIJHAthZBEgPOiILyMYND5gt+Cfu22sTJuOjvSsuFS8Lja8RJIIHb8wPPoc9eHBz6z4uQqpHG/EzGDyJHqPc/y9Inrln+L3aALBjMHwDRpA32GsrHsp18peLuLl7SuMF/6Agce8HzQcIPMHTRT3/V+53+paTBFIEblZtzRwHEcAw0xEpp63eibL8KTVRjDsSK/0TF9LS4UsMbVlp/P52mUgtvb4aOK+Puzlt0BZq8AClv29pdDnMd/PtI7nroe7fRVKEliAAZC8JyXZozHxor0BU9s2vmZC/4/3prNsuNgypZtP4S9LN2VtXg8U4Xq4AOsB8P5/Y=;JLAgMG1GL/XZ9bG/8LvYxQ=="
 ---

@@ -26,6 +26,17 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Large Language Models are not a solution for precise data extraction in banking."
+    excerpt: "To be able to appreciate this concern, once must keep in mind that LLMs work on the principle of creating the next string based on a model output that has learnt the language and logic of conceiving answers when prompted to do so."
+    publishedDateTime: 2023-10-25T13:15:00Z
+    webUrl: "https://www.finextra.com/blogposting/24436/large-language-models-are-not-a-solution-for-precise-data-extraction-in-banking"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 0
+
 secured: "dG1FACy6YjSN4KG52QiIOYmli7G44sZZYTjONrOeZitxwtWRewsSnD5sNhmqv1hrzuUGzil5Rjo/uGhHlHCKKqE6QN8CHQ5bRrvaRbw/Yq0QLZa3Okk6FfvMk9YHxxKA6ig3Z3a+7CxTlpAOVQJRsfxHx24/AC756PXQo0jEGXYN2suDriFG9VeYD5TgXl8v4an7uYsX5FQYtQpqowYuKbI9J425NZ19C71I1dquDLSNAd57uiIaU7T2IZas8+qWXBN+f7u/nBAF18A5qyYlL9bH+owlKZ5sc/7w7v/Hst5pAEgZFFSZ1uIEyL8BWaQ+RHrhhPIYF7dLSLgrfthIqK7rE/Cuakr6zrpOIN385hgxrHrJy+VPExfjQQlTdG5xA83j3a/mWvB9sZmG+T6sQXFicusbtD99ls018rMesY7vw2NPXk5QyyyRKRCWQbqWqOi4lZaSTe41GyKMeKeSL8uPcwSkZ/vwQ6T1YomW430tPxSn5y5aLnUWT2qOPOXElCvRDPH56ZUStXvhsfMgrw==;eofj7DpB6bKWW73kvYnCYQ=="
 ---
 

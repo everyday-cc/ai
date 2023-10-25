@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/10/21/viral-photos-of-ha
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/10/21/viral-photos-of-hamas-leaders-accused-of-being-ai-fakes-actually-just-poorly-upscaled/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 40
+  - title: "AI Platform Preserves Stories Of Hamas Massacre Survivors"
+    excerpt: "The Iron Lions website is using artificial intelligence to document the traumatic and heartbreaking testimonies of the October 7 survivors"
+    publishedDateTime: 2023-10-25T12:42:00Z
+    webUrl: "https://nocamels.com/2023/10/ai-platform-preserves-stories-of-hamas-massacre-survivors/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 17
 
 secured: "Oc+QYTeczVTS+nRpl13TVANhNQDRg5wkGaj1B6aDckWTnfqhJuUN8nGbBqEwI/jhOKXoiPyTfUORx9Yt84lr1w9y1sEZ6SINqoYIyy5nNe7kmtHMVn/tGzC8UC7l7v8msejoRHeTgq1mgdgMy8LrvML43Sg5UiiavANbYwqrZHpyN7vemCj25qELt7Q8hfPOCzaRSukUuC6RIiAWwFumToZnkNm5r/u0pJLCEiKjDs01sZgKduyqzE/lZdOvuHZgdySigvMuYnTF0cgGVNY44XLns/an0ppOxCrVNoVN3zXvrcRZfzUeywEmxEDdPWCqmNQBEsIE7E2Od3gR2+ZL8cJ80lyamUQbMnhyE6YrflPTo8Fxn6PbEiD+muKZNTzxUPhykR4/bbmr61MOPRpZaG22Re5iTr9nlbreRQhB3F++muIyutncN+NQd4M4DaONPUletTLalvrE3OB1Kps6U5QaCMTX3hMJr5vvtOgsevxCPhvk06m3Fsbgp+0eGtcxurXXsis5JK0HtMnU3Z9XSA==;9mgvY7HckPnPJxkyXg1BVA=="
 ---

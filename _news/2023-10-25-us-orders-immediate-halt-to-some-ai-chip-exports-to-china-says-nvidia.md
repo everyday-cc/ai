@@ -2,13 +2,11 @@
 category: news
 title: "US orders immediate halt to some AI chip exports to China, says Nvidia"
 excerpt: "Fellow tech company Intel ‘reviewing regulations’ as timing of move brought forward"
-publishedDateTime: 2023-10-25T09:32:00Z
-originalUrl: "https://www.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia?ref=biztoc.com"
-ampWebUrl: "https://amp.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
+publishedDateTime: 2023-10-25T06:19:00Z
+originalUrl: "https://www.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
+webUrl: "https://www.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
@@ -21,14 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Hardware
-
-images:
-  - url: "https://i.guim.co.uk/img/media/3117a589c220d76167672d9a42ee95b19ace16b0/43_260_5272_3166/master/5272.jpg?width=620&quality=85&auto=format&fit=max&s=3ed10f47bd5f463494e7bd3d583d1ef9"
-    width: 620
-    height: 372
-    isCached: true
+  - AI
 
 related:
   - title: "AI chip wars: US curbs Nvidia GPU chip exports sooner than expected"
@@ -94,20 +86,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10F92/production/_131522596_gettyimages-1258278958-1.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "New Nvidia AI agent, powered by GPT-4, can train robots"
-    excerpt: "Nvidia Research announced today that it has developed a new AI agent powered by OpenAI's GPT-4 that can teach robots complex skills."
-    publishedDateTime: 2023-10-20T20:00:00Z
-    webUrl: "https://venturebeat.com/ai/new-nvidia-ai-agent-powered-by-gpt-4-can-train-robots/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/NVIDIA-Eureka-Key-Visual.png?w=1200&strip=all"
-        width: 1199
-        height: 675
         isCached: true
   - title: "Nvidia Says US Advanced Timeline for Export Curbs of AI Chips to China, Other Countries"
     excerpt: "Chip designer Nvidia said new US export curbs that block the sale of its high-end artificial intelligence chips to China came into effect on Monday as regulators advanced the timeline."
@@ -176,6 +154,6 @@ related:
       domain: bizjournals.com
     quality: 33
 
-secured: "Z2LIcKZo3xD/sP7R1YSv/CqqsNCS1dmNaChlhzP7j3gG6jLsTs1BTrbzsZ0V3JjeQP1PmicUUznRvGXozTSRKGy9iFbIbWkE6bp49hlNcbW4jm893tpLd3FE4fydu3ZjV77beFs3a6/UUs6NDzsNN/mBswrh64O28SsO/A/u+JUESoaqHLntHFmGdvSa9G0iUzhh2GjwkTFaA727Kf+uLdYuJk8qXyCoGGpcvkv/c3+GR56T8K9AL2IfUxZhLB7Yv60shHb1XR0wFNGwkeC5hasNqPZHUqNbWtpuC0ZJoILGSNPE68Ztnoh2WgndpHSDx2bkDCOnMX7X9hAKamJxaISZSJOHWZmmL6da4O4WN7Y=;VuxChFZ2M8Po7e7VLCmrEQ=="
+secured: "q7B7mr4qa05+zeVGZyti59qi+JwZtn2nePj1DJE9wYIzVQP9UVGF5IsvFhfIR7sYNUNs/VRZlCNGG5xrIf40nsf56PjLxXJheejo+i9Dc4PXJflB4yqEY6Zbfo5WKExRpZqQ2YRzEYDUxVa3EXNBG46DNQQl+baM6kA2xeezmOBz0yZW6eAbVlZL+0uPx7W2WGaHEukjZ5Lv7R/oeCGBroEGodnB7KJ6VxlBAI00lkomx/OaXpyxFRptkCbi+IeHmcw+xn0G18p8tGFeg2lXQq9Wbpy+cmHh/Ni6VeGt5B9lZgrBtD0WG7RiFhqAdy5flI/m46p04w6EsenZDbhpMdO/P0dr7NEu53EeJLha9quOrPYycxhYrQoRKvnybx9EUd+tKIq23ZPt2FYdWMuZ04sSmSn9+COPzRFPhQEvX6LoP8Og266DmiFQ7uGhJ+LymhplpnvJk0byFx3gm+SK+i3lDUReI9JC1hraAbdfRD6CSzTw4cM+7MQYPqMK146wSFC6VI2iEyDFl10sNwgR3Q==;GBBRW3rZ6Dt8+giWYM+vFg=="
 ---
 

@@ -2,17 +2,17 @@
 category: news
 title: "AI-generated child sexual abuse images could flood the internet. A watchdog is calling for action"
 excerpt: "A new report warns that the proliferation of child sexual abuse images on the internet could become much worse if something is not done to put controls on artificial intelligence tools that generate deepfake photos."
-publishedDateTime: 2023-10-25T03:30:00Z
-originalUrl: "https://www.clickondetroit.com/business/2023/10/24/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
-webUrl: "https://www.clickondetroit.com/business/2023/10/24/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
+publishedDateTime: 2023-10-25T04:08:00Z
+originalUrl: "https://www.ksat.com/business/2023/10/24/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
+webUrl: "https://www.ksat.com/business/2023/10/24/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
 type: article
 quality: 26
 heat: -1
 published: false
 
 provider:
-  name: clickondetroit.com
-  domain: clickondetroit.com
+  name: KSAT
+  domain: ksat.com
 
 topics:
   - Facebook AI
@@ -56,6 +56,6 @@ related:
         height: 630
         isCached: true
 
-secured: "J3359P3Mk7U3Wk1kbU5RTDpgIRY9m4iW+UYhLornEOFLh5+74wi7+ufcHIKou2J0OZof2yUXSlwOPZBFKn/nWz+t9q5oas+7BTrEj7UJiAkhk1eHF8s1Q2TbVzgv1/B26bRYcatO0E5oP+Jl211VHcA8f31MQkf+DB8AAn0TwvcWy++aIWjRNmYHv+v4y4Oo25P5PNFRgeTkzBjbaOxW9b/+AROj/TxYUt3XvIQFnXqGPxK1ZRfOIj2xkrCmLqkEQHbpFPDQ3Ck/Sp+yEy2P276rHD4Am3yc79hs5zdGF2hAqrmOIPQuFxb+Yvm6gEuV2NSv1jytoBAyy4Emcy67SjhkwWdyVoMu7wwW8GKQIAI=;yoSlMr8REZXsZ4ezREyxUA=="
+secured: "hwfap1fczz+XxsMXBG500av9E9iuBePtgIfFKhJQA8H3rxDR+q5rflEY05Xy6VkzSD9nCR44zeQtdqZORhHcN3BRlFI8A0/I7JTk7Kj8awp6K0WpON8P0oymOvH4q35J9YaW6mI7nApfqKscUyUAu53a6bZ+Tq21H1WNyx/UPPXfK1YTnt1J6j21xPyIGZFAc7F7yXZ+gZ0JIpW7fCA9VnthSJ4lc2axnTV8bDBYe5qdYSlQIDwwpFR7XiMBYlzaelci+rwFlObL63UPjL0ZH44m0I5PpGZ/5PYeyqcNEwRLAj2Ay+O4c19fDFJpRtqe74MmrQ4ZCuTcvtsW2pk+IC1JdngLT2aV0F7aPI6o7IQ=;hzKsDG5993TNqbR2HEBpjQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing-ai-to-streamline-identity-management/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Fintech Extend Adds AI-enhanced Receipt Matching for Streamlined Expense Management, Reconciliation"
-    excerpt: "Extend reportedly uses AI in order “to extract merchant name ... online lending, and other forms of Fintech. Join Crowdfund Insider, the CanadianSecuritiesExchange (CSE), OTC Markets, andcrowdfunding provider DealMaker tolearn about raising ..."
-    publishedDateTime: 2023-10-20T21:55:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/214621-fintech-extend-adds-ai-enhanced-receipt-matching-for-streamlined-expense-management-reconciliation/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 25
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Expenses-Receipts-Bills-Payment-Time.jpeg"
-        width: 1133
-        height: 1280
-        isCached: true
 
 secured: "U+fjKEyXSqjAADesIcG0aMVtFve8jugrUXKHwhG1kq0FkXdFnFrc9zIlc5curIRucp1mUNFwujo52BJRvZdS9kK8dwMB53kWwT1rs96YGYslmzJZjS66jL/eej10BsprKEjnqedC2LFb/hv1vMJZmvEb7kb3jA/sKwVc47oNyads3K6OjavB8YMV96lveF4TZ9czMa84v29/KbUU9JI1Lp2kcb6BZ69FhKgYo5BJnIl/vmeSxHC43zfZIeLTcEQDVu+xu9Dfy9iUwgw3DorOrRybHHkbWTAFAt2YukQp2ghwxISdxW5Ae+MLpKwpIvPlpsJxdNd3hyRz+c0KPq/aVbvYlsjpfYoyAueDrtFa7PA=;M0RYaoxYWgI2EJz/vCmD2w=="
 ---

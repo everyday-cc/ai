@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/sme-ai-startup-giga-ml-rai
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/sme-ai-startup-giga-ml-raises-3-6-million-in-seed-funding-from-nexus-venture-partners-y-combinator-others-3284241/lite/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Chinese AI startup Zhipu raises $300M in funding"
-    excerpt: "The company’s funding announcement comes a few days after Baichuan, another Chinese AI startup, disclosed that it has secured a $300 million investment. The raise included contributions from many of the same companies that backed Zhipu, including Alibaba ..."
-    publishedDateTime: 2023-10-20T19:58:00Z
-    webUrl: "https://siliconangle.com/2023/10/20/chinese-ai-startup-zhipu-raises-300m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/unsplash-2-2.png"
-        width: 1032
-        height: 580
-        isCached: true
 
 secured: "K2YR6kpkXyCUikOzq2GpEAIlhQav3E4hTwv7fKBZeR9MUL8bR1JyQZPzfx9lr4N3rjD+UA2uAYotLF7eQzGtLD5TjQpf1DzpuHDN7F5nTR9v82EItwdgszfR8AixTr3JCkUggbryqP44sQgTA5hbiBOaXR6mDd09r8HSAAQDs0d8SuSo43EowFdOVw19l4T9giXquW+pBNoehjOP7gd22rRQIJuhlR8r6T4OyPuttMnGmwxLJ3TrMhQc2lcfeL1/cW9fD6lyDxkKjDdOT7Ld93Tgy1wPyBp1MTFQRsz9gVwwcVCGxOTW1fDNLTg4meysk5d18kzygIG2SUiZQlWKzYrrpo8AgL+XKAZxjlgJeCg=;vh3y08mlWJ5b0HypCgEDoQ=="
 ---

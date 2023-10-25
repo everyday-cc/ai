@@ -50,15 +50,6 @@ related:
         width: 1280
         height: 731
         isCached: true
-  - title: "Thanks to AI, the future of programming may involve YELLING IN ALL CAPS"
-    excerpt: "In a reply, X user Ivan Vasilev wrote, \"Funny how programming of the future requires yelling at AI in caps.\" In another response, Dr. Eli David wrote, \"At first I laughed reading this. But then I realized this is the future: machines talking to each other,"
-    publishedDateTime: 2023-10-20T19:16:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/10/thanks-to-ai-the-future-of-programming-may-involve-yelling-in-all-caps/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
   - title: "How AI is reshaping the financial technology landscape"
     excerpt: "Indeed, artificial intelligence (AI) and machine learning (ML) are increasingly collaborating in solutions, especially in the realm of fintech - and, when they do, the benefits seem unstoppable as this guide explains. AI and SMEs unveiled Years ago ..."
     publishedDateTime: 2023-10-24T11:06:00Z
@@ -77,6 +68,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Artificial Intelligence Is Shaping the Story of the Israel-Gaza War"
+    excerpt: "The discourse on Hamas and Israel has been replete with bias."
+    publishedDateTime: 2023-10-25T12:29:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/artificial-intelligence-shaping-story-israel-gaza-war-207044"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 17
   - title: "Navigating the Future of Fintech: 5 Platforms Shaping Private Market Investment Strategies"
     excerpt: "The private market investment landscape is rapidly evolving, with new platforms and technologies driving change. These platforms play a crucial role in helping businesses and investors make informed decisions."
     publishedDateTime: 2023-10-23T10:42:00Z

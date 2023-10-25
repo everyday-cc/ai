@@ -57,15 +57,6 @@ related:
         width: 1280
         height: 731
         isCached: true
-  - title: "Thanks to AI, the future of programming may involve YELLING IN ALL CAPS"
-    excerpt: "In a reply, X user Ivan Vasilev wrote, \"Funny how programming of the future requires yelling at AI in caps.\" In another response, Dr. Eli David wrote, \"At first I laughed reading this. But then I realized this is the future: machines talking to each other,"
-    publishedDateTime: 2023-10-20T19:16:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/10/thanks-to-ai-the-future-of-programming-may-involve-yelling-in-all-caps/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
   - title: "How AI is reshaping the financial technology landscape"
     excerpt: "Indeed, artificial intelligence (AI) and machine learning (ML) are increasingly collaborating in solutions, especially in the realm of fintech - and, when they do, the benefits seem unstoppable as this guide explains. AI and SMEs unveiled Years ago ..."
     publishedDateTime: 2023-10-24T11:06:00Z
@@ -84,6 +75,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Artificial Intelligence Is Shaping the Story of the Israel-Gaza War"
+    excerpt: "The discourse on Hamas and Israel has been replete with bias."
+    publishedDateTime: 2023-10-25T12:29:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/artificial-intelligence-shaping-story-israel-gaza-war-207044"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 17
   - title: "How Artificial Intelligence is Shaping the Future of Programmatic, Thanks to Very Human Intelligence"
     excerpt: "Artificial intelligence (AI) is the hot new topic on everyone’s lips, but when it comes to the programmatic industry, AI is nothing new. Data scientists, tech teams and traders have been harnessing the power of AI for years, using it to shape the future ..."
     publishedDateTime: 2023-10-24T02:26:00Z

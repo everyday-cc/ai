@@ -36,6 +36,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "From doom to boom: AI is re-energizing San Francisco"
+    excerpt: "Parts of San Francisco are still shells of their original glory three years after the onset of the coronavirus pandemic. After the loss of foot traffic, restaurants"
+    publishedDateTime: 2023-10-25T14:00:00Z
+    webUrl: "https://www.postguam.com/the_globe/nation/from-doom-to-boom-ai-is-re-energizing-san-francisco/article_73b0ad1c-7273-11ee-87bc-a30d1d2cd246.html"
+    type: article
+    provider:
+      name: The Guam Daily Post
+      domain: postguam.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/a/29/a29328d0-7273-11ee-be5a-ef4d9d2d8faa/6537cb25a2ddd.image.jpg?crop=1600%2C840%2C0%2C64&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "California DMV Halts Cruise’s Self-Driving Robotaxis Statewide"
     excerpt: "A Cruise, which is a driverless robot taxi, is seen during operation in San Francisco, California, USA on July 24, 2023. The California Department of Motor Vehicles has yanked Cruise’s permits to operate its autonomous vehicles across the Golden State ..."
     publishedDateTime: 2023-10-24T18:31:00Z

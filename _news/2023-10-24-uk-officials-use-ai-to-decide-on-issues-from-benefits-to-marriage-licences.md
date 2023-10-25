@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/23/uk-officials-use-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -30,6 +30,36 @@ images:
     isCached: true
 
 related:
+  - title: "UK officials are using AI to make decisions on benefits"
+    excerpt: "‘There is a lack of consistency and transparency in the way that AI is being used in the public sector,’ said Marion Oswald, a professor in law at Northumbria University and a former member of the government’s advisory board on data ethics."
+    publishedDateTime: 2023-10-23T17:19:00Z
+    webUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/?ico=trending-post-strip_item_4"
+    ampWebUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 59
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2023/10/GettyImages-1199003735.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Millionaire uses Artificial Intelligence to develop medicine"
+    excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
+    publishedDateTime: 2023-10-23T14:55:00Z
+    webUrl: "https://www.aol.com/news/meet-millionaire-using-artificial-intelligence-220148874.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/1a966eeed169632ef66240d355698698"
+        width: 976
+        height: 549
+        isCached: true
   - title: "Revealed: Government using AI to decide on benefits and driving licences"
     excerpt: "Government officials are using artificial intelligence (AI) to help decide on everything from approving marriage licences to who should be given benefits, it has been revealed."
     publishedDateTime: 2023-10-24T06:50:00Z

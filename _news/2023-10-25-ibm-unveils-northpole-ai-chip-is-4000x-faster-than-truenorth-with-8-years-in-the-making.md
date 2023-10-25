@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 614
         isCached: true
-  - title: "IBM debuts power-efficient NorthPole machine learning processor"
-    excerpt: "IBM Corp. today detailed NorthPole, an internally designed artificial intelligence chip that it says is significantly more power-efficient than competing processors. NorthPole was developed over the course of eight years by staffers at the company’s ..."
-    publishedDateTime: 2023-10-20T21:58:00Z
-    webUrl: "https://siliconangle.com/2023/10/20/ibm-debuts-power-efficient-northpole-machine-learning-processor/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/IBM.png"
-        width: 1031
-        height: 574
-        isCached: true
   - title: "SignalWire Unveils its No-Code AI Agent Builder, Setting a New Benchmark in Voice AI"
     excerpt: "AI Agent Builder offers an intuitive, low-code introduction for those new to the product without limiting experienced developers. The platform is full of advanced programming options and powerful hooks that integrate with our existing APIs, ensuring it remains accessible without sacrificing depth, versatility and complexity for those who want it."
     publishedDateTime: 2023-10-24T18:27:00Z

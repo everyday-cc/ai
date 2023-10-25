@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/industry-the-convergence-o
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
     provider:
       name: fintechmagazine
       domain: fintechmagazine.com
+    quality: 4
+  - title: "Hong Kong FinTech Week 2023 “Fintech Redefined”"
+    excerpt: "Invest Hong Kong (InvestHK) today (October 18) unveiled details of Hong Kong FinTech Week 2023 (HKFW). The eighth edition of HKFW, themed \"Fintech Redefined.\" will take place from October 30 to November 5."
+    publishedDateTime: 2023-10-25T13:27:00Z
+    webUrl: "https://financefeeds.com/hong-kong-fintech-week-2023-fintech-redefined/"
+    type: article
+    provider:
+      name: financefeeds
+      domain: financefeeds.com
     quality: 4
 
 secured: "9SB8MlwyQg3HJmYwnq1TJGLw6Awva2vrkcr1Hxj4Pyy3Nap9V75QWbA5AbVrBck0A7GFdQR2UZ2VTU2u1uqabDUosulBdrZ5erS8M38HnP1j5dFOKmBMIFkYsj8UA9CRvECh3KQXl62AxtXNNd44HaAzujtOzlKs3E8hL7heWveqwKsVq3sZztg7LgmU/Bf9NYscoLlI9Gx0xll7kvxi3JSwfqMMJAlp/jDXD5wg0xbJZ37fdCGeCCwMVgmhuo7P+AjX0fKXNDvUBSX6ohvOByXtNs3j7GOGruzhpk3A6ke0XFPDxy5FmA1zpKEn6FWK5EL0pgHvqh8+YvZpN5PGvq9pyrFqC6H4HI2OGii03QD8PvnIXOXlqNBwr0uIrykAlwVChYebDPeXmjTExnKF4UiFlfavkGfDsj/bNr7MkPOYo88Kk9LS+bEVeYlhjMmGu99bEHaZsHQvvIkC9+qmm4nJjVxlBx7GnlKS2C+AnGhEb2x0TuuKHpU2lAerAJ0fXjxYqdHnS6RpXsEy3RqzhQ==;J2LCyKUzu9Ctb4Juynw2Jg=="

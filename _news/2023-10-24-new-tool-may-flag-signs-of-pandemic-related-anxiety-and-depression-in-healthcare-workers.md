@@ -40,6 +40,15 @@ related:
         width: 2880
         height: 1973
         isCached: true
+  - title: "AI tool effectively detects distress in hospital workers' conversations"
+    excerpt: "An artificial intelligence tool effectively detected distress in hospital workers' conversations with their therapists early in the pandemic, a new study shows, suggesting a potential new technology that screens for depression and anxiety."
+    publishedDateTime: 2023-10-25T13:18:00Z
+    webUrl: "https://www.news-medical.net/news/20231024/AI-tool-effectively-detects-distress-in-hospital-workers-conversations.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 19
 
 secured: "To2mE99R0pAwVZLxCyjKhlaapC2xPIa914WFsUFv2K3i4yel9mHrCmi/5xQaRiMFg2vX24U+a38I2lLeJp0362dUeNeGZVUtfkObKfLlG7k8ymdNV5qx1BKQX7PpdJOM1k+jt0E4NQrQhI8TlN/aGxL5S5KLLZ3/qKKYtlVesjeRv1dKe5QR8wGhNeWDOnpjL4y877kJ9ccZ/I0RrI0lgM5VUOeLDGsq5i9cfTXvyWuJGnXF++mK2Z84/5CfRkGjeInsnOmlmPOmx6+EtgZvAzMTXqsmTe/4hk4RXyN6j1/q3iuycfQdP1cCaWmOltB0P3U9vMAtrZoiCH+ccsNdVL7dCo/w5DTMVnLTEn4IdQTeKdQMGzD/tmam/qr9Ca3/R/cBLXn4eig+Y1LjJ7Ly6YkRhXbJZlMnns/hGSbJy/qSlkVESuu4BYoUpTLzfyqborAZG3lrifchmz7ETyk9qQrOuD1dq2OULzCzQVz83uAh1wiksJG66Nyqc02vkfezjGIHky0XJExcuTHLDRAj+Q==;7Vv3SCyjLyZt2Lz/wM+/aQ=="
 ---

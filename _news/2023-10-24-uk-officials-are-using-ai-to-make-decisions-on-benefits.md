@@ -9,8 +9,8 @@ ampWebUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-a
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Metro
@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Millionaire uses Artificial Intelligence to develop life-saving drugs"
-    excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
-    publishedDateTime: 2023-10-20T22:01:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-67171042"
-    ampWebUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp"
+  - title: "UK officials use AI to decide on issues from benefits to marriage licences"
+    excerpt: "Exclusive: findings show uncontrolled and potentially discriminatory way technology used in Whitehall and some police forces"
+    publishedDateTime: 2023-10-23T20:51:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_131485090_a55e3eb2-ed62-4f08-af1c-a21d2aae3924.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Meet the millionaire using Artificial Intelligence to develop life-saving drugs"
-    excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
-    publishedDateTime: 2023-10-20T22:01:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
-    ampWebUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 100
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_131485090_a55e3eb2-ed62-4f08-af1c-a21d2aae3924.jpg"
-        width: 1024
-        height: 576
+      - url: "https://i.guim.co.uk/img/media/f67ebc8d0858465139589175ab93563fb53a003a/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=39186499043e05877e63f25acf06ca8e"
+        width: 620
+        height: 372
         isCached: true
   - title: "Millionaire uses Artificial Intelligence to develop medicine"
     excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
@@ -73,29 +57,29 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "Achieving Data Diversity Through AI in Drug Development"
-    excerpt: "AI and machine learning could transform drug discovery, but first, practitioners must overcome ethical challenges en route to medicines for all."
-    publishedDateTime: 2023-10-23T04:03:00Z
-    webUrl: "https://www.biospace.com/article/achieving-data-diversity-through-ai-in-drug-development/"
+  - title: "Revealed: Government using AI to decide on benefits and driving licences"
+    excerpt: "Government officials are using artificial intelligence (AI) to help decide on everything from approving marriage licences to who should be given benefits, it has been revealed."
+    publishedDateTime: 2023-10-24T06:50:00Z
+    webUrl: "https://www.aol.com/news/revealed-government-using-ai-decide-064919745.html"
     type: article
     provider:
-      name: BioSpace
-      domain: biospace.com
-    quality: 39
+      name: AOL
+      domain: aol.com
+    quality: 38
     images:
-      - url: "https://www.biospace.com/getasset/60893fe7-d5d2-4941-886d-bcfb553cd38d/;w=625;h=350"
-        width: 625
-        height: 350
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/3128803184bdd660a7bb0eff51bb8862"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Basis Secures $3.6 Million to Bring AI to Accounting Firms"
-    excerpt: "Basis is an AI platform for accounting firms. Basis sits alongside existing software and gives accountants a team of AI assistants to streamline workflows, helping firms improve the quality and efficiency of their work. The company was founded in 2023 by Mitchell Troyanovsky and Matthew Harpe."
-    publishedDateTime: 2023-10-23T21:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/23/9903664.htm"
+  - title: "UK officials use AI to decide on issues from benefits to marriage licences"
+    excerpt: "Exclusive: findings show uncontrolled and potentially discriminatory way technology used in Whitehall and some police forces"
+    publishedDateTime: 2023-10-23T12:48:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences?ref=emergentmind"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
+      name: The Guardian
+      domain: theguardian.com
+    quality: 15
 
 secured: "/gILHvQHVpEIe3DVXaFItM6DiCyunrKF7/vzd2t79mV3VEgoWQTYjawjFDNacIH5VKG7w5ViNiID7QF8XeMAyBkozvwFHBTgMjlGRAZMT0Gl7JnsMGCnBdGNh6qBy05iMxjqwsvO2wjKfdwo5z7Vnu7KJhhhiU2tc3OAnGr1Ecm7tLRbmE44Jal5pPQaPPTCA/WkZO2FBNdTwlwxyysFMfSMrcS4V/3oCvWR71uD0yHlx2DaITMoZtAEKndFR+rza/Itu+T8WQ7yLx6efuZKL/KEaz0PQ2p9OPPQzxyo2MSJ+eV8AyhpKOwueApHJgixyihzDmMTPLMJJGJM9LHN1YLVxpwo8Oj71X5E+X3k7Qs=;uDVkTMqmIaqi+Llb61qCdg=="
 ---

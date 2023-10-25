@@ -18,81 +18,75 @@ topics:
   - AI
 
 related:
-  - title: "Millionaire uses Artificial Intelligence to develop life-saving drugs"
-    excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
-    publishedDateTime: 2023-10-20T22:01:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-67171042"
-    ampWebUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp"
+  - title: "The employees secretly using AI at work"
+    excerpt: "Some employers are either tacitly or outright banning access to generative AI tools like ChatGPT. But employees who love them are finding ways to discreetly backchannel."
+    publishedDateTime: 2023-10-25T11:00:00Z
+    webUrl: "https://www.bbc.com/worklife/article/20231017-the-employees-secretly-using-ai-at-work"
     type: article
     provider:
       name: BBC
       domain: bbc.com
-    quality: 104
+    quality: 67
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_131485090_a55e3eb2-ed62-4f08-af1c-a21d2aae3924.jpg"
-        width: 1024
-        height: 576
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0gm2hff.jpg"
+        width: 624
+        height: 351
         isCached: true
-  - title: "Meet the millionaire using Artificial Intelligence to develop life-saving drugs"
-    excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
-    publishedDateTime: 2023-10-20T22:01:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
-    ampWebUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp"
+  - title: "Demystifying artificial intelligence in video security"
+    excerpt: "Artificial intelligence is transforming video security, yet many misconceptions persist around what AI-driven solutions can and cannot (or should not) do. Part of this stems from the complexity of modern machine learning,"
+    publishedDateTime: 2023-10-24T15:44:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/article/53076147/demystifying-artificial-intelligence-in-video-security"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 100
+      name: Security
+      domain: securityinfowatch.com
+    quality: 56
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_131485090_a55e3eb2-ed62-4f08-af1c-a21d2aae3924.jpg"
-        width: 1024
-        height: 576
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/10/GettyImages_1023344400.6537da7281b01.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "UK officials are using AI to make decisions on benefits"
-    excerpt: "‘There is a lack of consistency and transparency in the way that AI is being used in the public sector,’ said Marion Oswald, a professor in law at Northumbria University and a former member of the government’s advisory board on data ethics."
-    publishedDateTime: 2023-10-23T17:19:00Z
-    webUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/?ico=trending-post-strip_item_4"
-    ampWebUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
+  - title: "The Artificial Intelligence Glossary"
+    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
+    publishedDateTime: 2023-10-21T22:47:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/10/21/the-artificial-intelligence-glossary/"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
+      name: Law
+      domain: law.com
+    quality: 43
     images:
-      - url: "https://metro.co.uk/wp-content/uploads/2023/10/GettyImages-1199003735.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "Millionaire uses Artificial Intelligence to develop medicine"
-    excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
-    publishedDateTime: 2023-10-23T14:55:00Z
-    webUrl: "https://www.aol.com/news/meet-millionaire-using-artificial-intelligence-220148874.html"
+  - title: "Using AI and satellites to measure carbon"
+    excerpt: "Part of the ITN Business programme ‘ Carbon Markets: The Power of Data & Innovation ’, made in partnership with the Climate Action Data Trust (CAD Trust)"
+    publishedDateTime: 2023-10-25T09:21:00Z
+    webUrl: "https://www.newscientist.com/article/2399095-using-ai-and-satellites-to-measure-carbon/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
     images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/1a966eeed169632ef66240d355698698"
-        width: 976
-        height: 549
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/10/25100539/cad-trust_-gait-global-6.png"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Achieving Data Diversity Through AI in Drug Development"
-    excerpt: "AI and machine learning could transform drug discovery, but first, practitioners must overcome ethical challenges en route to medicines for all."
-    publishedDateTime: 2023-10-23T04:03:00Z
-    webUrl: "https://www.biospace.com/article/achieving-data-diversity-through-ai-in-drug-development/"
+  - title: "A|I: The AI Times – OpenAI employee secondary values company at least $80 billion"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2023-10-25T09:01:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-openai-employee-secondary-values-company-at-least-80-billion/"
     type: article
     provider:
-      name: BioSpace
-      domain: biospace.com
-    quality: 39
+      name: BetaKit
+      domain: betakit.com
+    quality: 34
     images:
-      - url: "https://www.biospace.com/getasset/60893fe7-d5d2-4941-886d-bcfb553cd38d/;w=625;h=350"
-        width: 625
-        height: 350
+      - url: "https://cdn.betakit.com/wp-content/uploads/2023/10/tenstorrent_hyundai.jpg"
+        width: 1050
+        height: 700
         isCached: true
 
 secured: "BILd/QJaLhai8X2Xc9w8vQFKBADDU9KvVyqaovh7WUI48pOaUaIR4O8VUTHbtzOFqyHeDb1N0oLCWebWsqu+sl63gcOwRhbQSpco9UQ9ltUZYGr/dPB7XGcRozPDOhuuk6JI3vAzbZ6nyfHQN1rQ+/qnl2pf+kOJ/Dm0Y6f9JG1aNx5N+GMTq5V303AwST0Ct2SXvqxmneZmhTmML6oOjaHF+lvDGU+hp81uPvy3kkxu9RVP+8BNragcw8NFM6Rtdp70e4BW5Ll8C+fnzNTk/CAvlyP5Zer0bqN2OxSVYqbvTQvGRNn5Ae+PdCa3T3eXpSglnm5hSCQnTq9qplXDC4qW6kgRL+GlZ3EdJ7nLUvA=;Ss06XPWi/mu7j7wsXp/Uhg=="

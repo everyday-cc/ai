@@ -39,6 +39,15 @@ related:
         width: 1024
         height: 535
         isCached: true
+  - title: "Automatic Content Recognition Market Soars to US$ 2 Billion in 2021; Projected to Reach US$ 7.9 Billion by 2032"
+    excerpt: "According to a newly released Future Market Insights study, the Automatic Content Recognition sales were expected to be US$ 2 Bn in 2021 and are projected to increase at a CAGR of 13.1% from 2022 to 2032."
+    publishedDateTime: 2023-10-25T13:38:00Z
+    webUrl: "https://www.fmiblog.com/2023/10/25/automatic-content-recognition-market-soars-to-us-2-billion-in-2021-projected-to-reach-us-7-9-billion-by-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "rKAXHCTgr+MgytSOVMxQTEbMOuZ1svAp4BCwzyRDQXrD2oRaaysDkAmPTTMrxjmnSaSBkiZG2EFm496bUPSV/qJWreL8YWE3RrbFw4DbNBnKvUJlOcvpzlQL/KjhFK++CtP3b/UhwFarTBKUQndI2XN1gQZJpNj96AeAIVS+4RyWjK3+vhrfpjTm93LCupkQlFqLdtacq6XIk+KjWYFANnbOSHhVTLuMb66VuHDShcYbJmO4IEnYgri0TK/sXyNYkOzcHtaDHPb8ZmUv8L4EpdCjMnP445vJzOHZiPzeiNVB7vOWDYYP8RB7hQjnIJoAfWn2T/LPtaJgd3IdHRl3QsL92v0fO73f+gbcn7b7WTM=;x/UHhLe4UhEzxHmF5Zr+vQ=="
 ---

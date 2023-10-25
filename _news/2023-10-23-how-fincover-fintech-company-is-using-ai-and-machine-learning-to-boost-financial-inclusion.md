@@ -81,6 +81,15 @@ related:
       name: fintechmagazine
       domain: fintechmagazine.com
     quality: 4
+  - title: "Hong Kong FinTech Week 2023 “Fintech Redefined”"
+    excerpt: "Invest Hong Kong (InvestHK) today (October 18) unveiled details of Hong Kong FinTech Week 2023 (HKFW). The eighth edition of HKFW, themed \"Fintech Redefined.\" will take place from October 30 to November 5."
+    publishedDateTime: 2023-10-25T13:27:00Z
+    webUrl: "https://financefeeds.com/hong-kong-fintech-week-2023-fintech-redefined/"
+    type: article
+    provider:
+      name: financefeeds
+      domain: financefeeds.com
+    quality: 4
 
 secured: "111LK+P9aIFzUpHXusu5frh1GW8p3YccTtDrZW6+5WV3yp2bkJON8xofJ7blZ75Qs5bd0Ipm1qvxFVjifmdcz13SwuSo83P8A/VsT+X1Ek2gul1ujxayoCAZonnB5sFf1/HZZs7jJ15UnOv+Kx6JmleNIF5uUVeZ+YA2T2PFpInzEbLBamSr8FcgcwIW8MWLObNTbid2zPmzmGo6U9DhjP/bAhCU/VaZp3S9NtuXYKZlFLKB81CyLvyxoZqooa0b0gaArizO4+OCAP/dDj+r2K04i/KuHQz2PPU/KJuoV7B6MKvG1DOjQAdhZOqnSdJBv2jFLfblj0cwBNlPzlNm8FHG1kDu6nL6m+gtBaTz2xG5q6JOUe/7cU/H3Mpis/oTGxZYlM1DiCA0rGvNRkETH4kZmNqA140lFETYmLjX2xwmdNT8kI4+YlkMs9Qu1CQxQRb36D/3DejR8/tI1eXRSy9LjxmQA5fp9zZ9yWPm9JEGAeEDVBM925bGEc7bHWI27U3je0GsoZMETQOm4TCkVA==;tm3fylrQp1ULmoJyAqgfEA=="
 ---

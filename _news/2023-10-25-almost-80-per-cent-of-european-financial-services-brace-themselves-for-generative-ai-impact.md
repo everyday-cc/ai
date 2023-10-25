@@ -41,6 +41,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Four out of Five European Financial Services Leaders Are Embracing Generative AI"
+    excerpt: "Financial services organisations are making significant investments in generative AI to enhance their digital transformation processes."
+    publishedDateTime: 2023-10-25T15:45:00Z
+    webUrl: "https://www.bbntimes.com/global-economy/four-out-of-five-european-financial-service-leaders-are-embracing-generative-ai"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 34
+    images:
+      - url: "https://www.bbntimes.com/images/articles/technology/Four_out_of_Five_European_Financial_Services_Leaders_Are_Embracing_Generative_AI.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "Wl4EM/05IdVc9ZgJ/o+v8ePm/3dq/zblD83U+arHWD2KZsqbjdems1ceIGWGAOIw1n4C6rYT6IVy/34p91sgVS5YlGTyzXersvyZ+FckPfPZtBCezRXBH5hGV1HSII7bFyCoSfS/C7t+7BoJMmX2F56dpJcuoBpiCdSgLP8bsq5VrsFT/c5AIqzUOmyYM3RAoy/0WTlXvG4c5kxhOrGcFk8aIrkgn7OKfA9IB/MK28SKxi0oAxKYnqOk9Yo+KGCXw5WqW53FnFC5evmKmCvOqBTbGTA4Kp+C+ghUdkieK874P/REsqhTAnqeiprWj4moRdpoCcbXtkG7kEyofA6sMvsSmqhgeuTV4/UIdSi4Xvg=;Refzk0AXLuVROVBphTZ7uA=="
 ---

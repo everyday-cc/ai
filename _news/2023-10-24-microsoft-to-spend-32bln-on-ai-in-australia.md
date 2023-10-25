@@ -61,6 +61,20 @@ related:
         width: 275
         height: 215
         isCached: true
+  - title: "AWS Q3 Earnings Preview: From Sales Growth, AI To Microsoft"
+    excerpt: "AWS earnings report for Q3 2023 will unveil cloud sales growth, AI wins, Amazon investments and potentially Microsoft discussions. Here’s what to watch for."
+    publishedDateTime: 2023-10-25T15:34:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-q3-earnings-preview-from-sales-growth-ai-to-microsoft"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 88
+    images:
+      - url: "https://www.crn.com/resources/0286-19211b9e6b04-e3722ad90e18-1000/aws-sign-2.jpeg"
+        width: 610
+        height: 458
+        isCached: true
   - title: "Opinion: Big tech is battling to put AI on your PC, laptop and smartphone"
     excerpt: "It also has the most robust software ecosystem to enable AI processing of any technology company, with a multiyear head start over any competitor. We haven’t heard much from Nvidia when it comes to on-device, client AI. (Recently Nvidia disclosed a ..."
     publishedDateTime: 2023-10-23T11:43:00Z
@@ -76,6 +90,20 @@ related:
       - url: "https://images.mktw.net/im-773574/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Microsoft’s AI strategy is paying off with solid cloud revenue growth"
+    excerpt: "Microsoft had originally told investors that  AI wouldn't deliver revenue gains until 2024 when new products will become widely available."
+    publishedDateTime: 2023-10-25T11:32:00Z
+    webUrl: "https://venturebeat.com/ai/microsofts-ai-strategy-is-paying-off-with-solid-cloud-revenue-growth/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_microsoft_ceo_satya_nadella_standing_on_stage_smiling_a_f18ff38c-36a3-4a47-996b-c1ce6ca13445.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
   - title: "Microsoft’s bets on generative AI boost Azure cloud business, as Alphabet’s Google Cloud disappoints"
     excerpt: "Microsoft’s revenue from the Azure cloud-computing platform beat estimates in the September quarter, while Google Cloud’s sales growth ground to its slowest pace in at least 11 quarters."
@@ -195,22 +223,6 @@ related:
         width: 1184
         height: 680
         isCached: true
-  - title: "Microsoft, OpenAI-backed AI safety forum names first director, plans advisory board"
-    excerpt: "The Frontier Model Forum also said it created a fund to back research into the technology, with initial funding commitments of more than $10 million from its backers and partners. It said its first-ever director would be Chris Meserole,"
-    publishedDateTime: 2023-10-25T11:34:00Z
-    webUrl: "https://www.aol.com/microsoft-openai-backed-ai-safety-113536555.html"
-    ampWebUrl: "https://www.aol.com/amphtml/microsoft-openai-backed-ai-safety-113536555.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/microsoft-openai-backed-ai-safety-113536555.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 68
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/2c674fc191fa0d4ec4473c9a91100791"
-        width: 800
-        height: 543
-        isCached: true
   - title: "Microsoft jumps while Google owner Alphabet slips as Wall Street zeroes in on the tech giants' AI efforts"
     excerpt: "Microsoft shares climbed in premarket trading Wednesday, while Alphabet slumped as investors focused on weaker-than-expected cloud revenues."
     publishedDateTime: 2023-10-25T11:22:00Z
@@ -234,6 +246,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Microsoft Leading Alphabet In Race To Monetize Generative AI"
+    excerpt: "Microsoft’s early lead over Alphabet in Generative AI is paying off. How so? After the two tech giants reported third quarter results Tuesday, Microsoft stock rose 6% while Alphabet shares eased 7% in after-hours trading."
+    publishedDateTime: 2023-10-25T13:43:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/10/25/microsoft-leading-alphabet-in-race-to-monetize-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Reddit may block search if it can’t reach an AI deal with Google, Microsoft"
     excerpt: "On Friday, The Washington Post, as spotted by The Verge, said Reddit \"has met with top generative AI companies about being paid for its data,\" citing an anonymous source. Going further, The Washington Post reported that Reddit is ready to play hard ball:"
     publishedDateTime: 2023-10-23T19:48:00Z
@@ -243,6 +264,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 62
+  - title: "Microsoft, OpenAI-Backed AI Safety Forum Names First Director, Plans Advisory Board"
+    excerpt: "The Frontier Model Forum is backed by ChatGPT-owner OpenAI, Microsoft, Google's parent Alphabet and AI startup Anthropic."
+    publishedDateTime: 2023-10-25T11:34:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-25/microsoft-openai-backed-ai-safety-forum-names-first-director-plans-advisory-board"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 58
   - title: "Microsoft's Clippy is back, kind of, and now powered by AI"
     excerpt: "A ChatGPT-style AI assistant embedded into Microsoft Office apps will become available to all from 1 November."
     publishedDateTime: 2023-10-21T09:55:00Z
@@ -298,6 +328,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-10/24/AFP_24a5dimage_story.jpg"
         width: 768
         height: 512
+        isCached: true
+  - title: "What Microsoft’s earnings tell us about AI and cloud trends"
+    excerpt: "The tech giant's latest earnings report is \"front and center for tech investors across the Street,\" according to Wedbush analyst Dan Ives."
+    publishedDateTime: 2023-10-25T14:05:00Z
+    webUrl: "https://www.aol.com/microsoft-earnings-tell-us-ai-110458906.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/sJn85qp4OTjArDUYMdUjqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/da9cda8b16214e8c13a01c13ac5c093b"
+        width: 1200
+        height: 800
         isCached: true
   - title: "DCT Abu Dhabi And Microsoft Sign Mou On Generative AI, Cloud Technologies"
     excerpt: "( MENAFN - Dubai PR Network) DCT Abu Dhabi and Microsoft Sign MoU on Generative AI, Cloud Technologies"
@@ -396,6 +440,15 @@ related:
       name: On MSFT
       domain: onmsft.com
     quality: 45
+  - title: "NobleAI Announces Groundbreaking Collaboration with Microsoft Azure Quantum Elements"
+    excerpt: "Our focus on using Science-Based AI to supercharge the development of new chemicals, formulations, and materials for product development naturally aligns very well with the massive scale and simulation capabilities of Azure Quantum Elements,"
+    publishedDateTime: 2023-10-25T12:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nobleai-announces-groundbreaking-collaboration-with-microsoft-azure-quantum-/2023/10/25/9905013.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 42
   - title: "Wall Street is demanding financial results that support all the AI hype. Microsoft’s latest earnings finally delivered"
     excerpt: "Higher-than-expected AI consumption contributed to revenue growth, Microsoft CFO Amy Hood said during the company’s earnings call."
     publishedDateTime: 2023-10-25T10:16:00Z
@@ -410,6 +463,15 @@ related:
         width: 1199
         height: 892
         isCached: true
+  - title: "Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
+    excerpt: "NDAQ:SPNS) Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
+    publishedDateTime: 2023-10-25T12:28:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/10/25/sapiens-introduces-decision-model-ai-a-generative-ai-solution-to-enhance"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 17
   - title: "Innovating with responsibility: How customers and partners are bridging data, AI and trust with the Microsoft Cloud"
     excerpt: "For the past decade, we have been on a journey with our customers to help them achieve digital transformation, which is business transformation empowered by cloud technology. With increasing excitement around generative AI — both for its potential and the impact it is already having — organizational leaders are eager to prioritize adoption that"
     publishedDateTime: 2023-10-23T13:00:00Z

@@ -43,20 +43,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Oklahoma lawmakers struggle to tackle artificial intelligence regulations"
-    excerpt: "OKLAHOMA CITY — Oklahoma lawmakers are struggling to regulate the artificial intelligence industry even as interest in the technology and its availability continues to grow."
-    publishedDateTime: 2023-10-20T22:00:00Z
-    webUrl: "https://www.stwnewspress.com/oklahoma/oklahoma-lawmakers-struggle-to-tackle-artificial-intelligence-regulations/article_0a510130-27b5-532b-8196-9787e1427dd4.html"
-    type: article
-    provider:
-      name: NewsPress
-      domain: stwnewspress.com
-    quality: 38
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/stwnewspress.com/content/tncms/assets/v3/editorial/6/df/6dff3453-e784-549a-8a42-72b0fb592c71/6536f1615c476.image.jpg?resize=400%2C282"
-        width: 400
-        height: 282
-        isCached: true
 
 secured: "5TNGxAxoQwDIAKvFwNhEvxlUnCrjD8ccoNBR7pdLuvYBWL6JwctLSEZ2qdxRUXJuOtvohBqud9ffbZYeGTY+vRMQrDnPdloPebH+bnDVUadStBzABChIJSmjyMs5HFn5wOQRRTMFLNF5gVI8+JGrGtzZpCdHm1z8k5PQWUQQeOI5GQ4OtAD2uhBgh9mX3KXy4wT6xu59qzK7ua8oHyORMdJeFjOF/2CyP8fWyS29OQF9WkHfLOvC93DauK5W1J1H6/TXPgFjyPokFY3LHfS8aramr4gvNJQKsNmVGnHCGsh+P4T7N//AjZAwBQY34Yb3SAw+3iHJowt7w7C0swVAPA7mHt6iI9k2+H0B29zvr3BWOpZpV9F+8dE5SO7mVhU7YclEnFLnyOiYHSfSHe8JJA5ybwzbsLiX/qQ3hmx5pUe3OhQ9P3pHD2ETljZrm/v5xdio1OExfeUFUeyD5naGxXtRI7KhUMvBRQy9Xp4XFX6hJdLFQdQzWbGh8TvdA0vcHyBZsqoPNQJC8bhWBi9z6A==;ksDDtwT/eItKPYOYK3KT2g=="
 ---

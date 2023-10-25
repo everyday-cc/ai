@@ -47,20 +47,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "IBM debuts power-efficient NorthPole machine learning processor"
-    excerpt: "IBM Corp. today detailed NorthPole, an internally designed artificial intelligence chip that it says is significantly more power-efficient than competing processors. NorthPole was developed over the course of eight years by staffers at the company’s ..."
-    publishedDateTime: 2023-10-20T21:58:00Z
-    webUrl: "https://siliconangle.com/2023/10/20/ibm-debuts-power-efficient-northpole-machine-learning-processor/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/IBM.png"
-        width: 1031
-        height: 574
-        isCached: true
 
 secured: "8EHlSSOp0h7vRXQgm/BBxa+dr4yhGKzW8A3gPsl36fxzSCTXwecmB8YM8rfywqkp/e/v104ulT7D9ilM0ZBAm7QwVf2deHRrySJX6Gw297GMAcTuWy3zE78/DBS2ibRvzK8Edr5cdOIR4OMbTepm3Zok+yplnkeAFYdBkhJv+kID4IW90qm68H/8gkUp0pkZoAUgCiMxlE7p3mGy61C6vXOAG4L0AJic1KijII8M19WEGGuWo9Gvzq9CQ7zFrs5v6yzEOuWy3K5m8Qc6kqhkB0WvgFCES8sqeKbTiu92CGliQCvkf6ukagoGhyE1LxHb7+zBlED7iazetmT2pmGNf5EV6WJf1lzO4FOpPWQVr8mZOHcb+L6jMXFpxkujOLNNgFPuQJijt80bKOQy2ppLUGqUJdsdurTQaajVZwKdSJ/wUie+c5778wEz1LU5TZn+wbMLCaChC/EO767aBc6y0TiVu2h/3pV2N/uDG+nqCDIC15uqFofvXwp1oNth2N2V4Mrg/HbbaMMoMKdqnuMNhA==;2/6ew6oAtWIhGdzmIRahKg=="
 ---

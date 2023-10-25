@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp"
 type: article
 quality: 57
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -157,6 +157,15 @@ related:
       name: Khaleej Times
       domain: khaleejtimes.com
     quality: 16
+  - title: "14 Expert Tips on How to Get the Most Out of ChatGPT Responses"
+    excerpt: "In the fast-paced, continually changing world of artificial intelligence and machine learning, ChatGPT emerges as a standout example of what a"
+    publishedDateTime: 2023-10-25T12:02:00Z
+    webUrl: "https://www.geeky-gadgets.com/14-expert-tips-on-how-to-get-the-most-out-of-chatgpt-responses/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 4
 
 secured: "9ks6o0qBfvSZLx9Y4ebVU2UtB8DFLPETgxWIx++grycruP0SWXYLclx7qEDhunZvquwyE48HgZKRBvM5hq+8BrDX+ndq0epMleLiH+qEobDX7y7Z7lCs9qJPrBSc5lRL/nsIcx0moyx76RfI53ZGf5DnDc41YmtPgQ/NatmhL8au+vWFokUbZlgsVPEPe9H/xDm1CUzN2ba0hBXsct83/6xSlI+vjLjNeYDoSNG+y8hiXWkbTyodG4b/jRynMqUUsrE1tVcxKt3IxoLmn+XA1dop5c9T7x6eR6T47Ym4C1Z+Flt/3SjAf8jvjUoAis635YRJNaSTahDslxwpm0gjcLZucdMKNK4KQtnGfCwXWPJnBvwrqhv493PZCKKJ93UVCpLqoYLABZIj2sdT3/B1j1XtQhERvAWEbVv+gFUXl6AALPqnD0B/ps9dqxWPJU0PbuIRnum+zXCsQ+tOibWP8Pqla7xr+NMgG+p1i6F9Grg7W8Iir7sa6KsSL6o547+OPjx/t5ex7a+IXJPZKSCi2Q==;mtL2lnUmm92Fm1yCarmStg=="
 ---

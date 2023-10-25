@@ -25,77 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Millionaire uses Artificial Intelligence to develop life-saving drugs"
-    excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
-    publishedDateTime: 2023-10-20T22:01:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-67171042"
-    ampWebUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp"
+  - title: "AI Skills-Based Talent Development: A New Productivity Paradigm"
+    excerpt: "Artificial Intelligence is quickly becoming a cornerstone of achieving short-term talent objectives and sustainable, long-term success."
+    publishedDateTime: 2023-10-23T12:22:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/10/23/ai-skills-based-talent-development-a-new-productivity-paradigm/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_131485090_a55e3eb2-ed62-4f08-af1c-a21d2aae3924.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Meet the millionaire using Artificial Intelligence to develop life-saving drugs"
-    excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
-    publishedDateTime: 2023-10-20T22:01:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
-    ampWebUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 100
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_131485090_a55e3eb2-ed62-4f08-af1c-a21d2aae3924.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "UK officials are using AI to make decisions on benefits"
-    excerpt: "‘There is a lack of consistency and transparency in the way that AI is being used in the public sector,’ said Marion Oswald, a professor in law at Northumbria University and a former member of the government’s advisory board on data ethics."
-    publishedDateTime: 2023-10-23T17:19:00Z
-    webUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/?ico=trending-post-strip_item_4"
-    ampWebUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2023/10/GettyImages-1199003735.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Millionaire uses Artificial Intelligence to develop medicine"
-    excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
-    publishedDateTime: 2023-10-23T14:55:00Z
-    webUrl: "https://www.aol.com/news/meet-millionaire-using-artificial-intelligence-220148874.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/1a966eeed169632ef66240d355698698"
-        width: 976
-        height: 549
-        isCached: true
-  - title: "Basis Secures $3.6 Million to Bring AI to Accounting Firms"
-    excerpt: "Basis is an AI platform for accounting firms. Basis sits alongside existing software and gives accountants a team of AI assistants to streamline workflows, helping firms improve the quality and efficiency of their work. The company was founded in 2023 by Mitchell Troyanovsky and Matthew Harpe."
-    publishedDateTime: 2023-10-23T21:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/23/9903664.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "ZUkcFoyqBgX4p5kyxLP+zal1LdtIOleSzdEHAD/jV+2DWkKoJxYV8ZnGeWHihjPLnNqWBiievuVoy8JRs+riK5pHD0qdu3rGitVs0Bc9XtrxHjUxfTGDuQVr0AOMxzrpk7TK+HHR0vapHTb3KKjPjzGLJFRBEsH62g+yc3PcHjt4XwWtxMrfpLZ8NtZcNbIv3rNzlOk9bzwQx1GqBtrSUH3m7hZayNopxm219/Xq/yeAlC4mtI9Oo4M9cVju66a6OreAzkylfz7aOAhEc0MSzMJ46UMotPyX8L1xiW0J6DFYXIBXgKAWt56rXTUzw9s24aGvROkeW1zBjC5R0ZUX/OjnW0G4gkrQ+yvZQ7bbL/jUNhnCiF6gJ1MVuoAeTgnoX9SB05tRJrelZrbA1LoQX7eIoDGZib4VlIUKJn7sfDls/L7VzRZlL87qlR4eAdHfee9mLTd/0ZYi2qX2dj8m0snxxqAs77bWyfWDdkNZdu8t+Q0Fju9jgGnSe5JxoVi+pv2frvsNfjbx39UyFo/Vlg==;71mBbRxTrpprHTo3KD5q4w=="
 ---

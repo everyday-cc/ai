@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -144,6 +144,15 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "How AI combats climate change and mitigates its impact"
+    excerpt: "Climate change remains one of the most pressing issues - we discuss how AI combats climate change in this article"
+    publishedDateTime: 2023-10-25T12:05:00Z
+    webUrl: "https://www.openaccessgovernment.org/how-ai-combats-climate-change-and-mitigates-its-impact/168986/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 19
   - title: "How AI Can Revolutionize Entrepreneurship in 2024"
     excerpt: "By leveraging the capabilities of AI, entrepreneurs can streamline their operations, mitigate risks, and accelerate growth. Here’s how AI will revolutionize entrepreneurship in 2024."
     publishedDateTime: 2023-10-22T01:30:00Z

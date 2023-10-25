@@ -167,6 +167,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Cloud fails to cash in on generative AI"
+    excerpt: "The explosive growth in the demand for generative AI has been a big revenue driver for public clouds. However, while some cloud players are reaping the benefits of user demand, Google Cloud seems to be failing to cash in on one of the biggest technology opportunities in decades."
+    publishedDateTime: 2023-10-25T12:06:00Z
+    webUrl: "https://www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/18/22/google-cloud-services_ai_artificial-intelligence-100765813-large-100943540-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Snapdragon 8 Gen 3 Official, Designed With Generative AI in Mind"
     excerpt: "As expected, Qualcomm made the Snapdragon 8 Gen 3 official this week at its annual conference in Hawaii, and no, I’m not there and I’m mad about it. Qualcomm is hyping this chip to be an AI powerhouse,"
     publishedDateTime: 2023-10-24T22:31:00Z
@@ -228,6 +244,34 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/TCS-Obsession-With-Generative-AI-300x300.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "SAP Makes Generative AI Customer Experience Integration Play"
+    excerpt: "SAP expands its CX suite with AI tools, aiming to streamline customer interactions and emphasizing data security."
+    publishedDateTime: 2023-10-25T14:59:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/sap-makes-generative-ai-customer-experience-integration-play/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/2e820f87eac14eb4a7774358e9833d68.ashx"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Is Your Job AI Resilient?"
+    excerpt: "Leading Wall Street research firm Evercore ISI, in collaboration with venture studio Visionary Future, embarked on a comprehensive study to understand the profound effects of Generative AI on businesses,"
+    publishedDateTime: 2023-10-25T15:09:00Z
+    webUrl: "https://hbr.org/2023/10/is-your-job-ai-resilient?ab=HP-hero-latest-text-1"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_24_1299964472.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How Creative Cloud and Generative AI Are Impacting Higher Education"
     excerpt: "Tools powered by natural language processing can enhance instruction and prepare students to harness artificial intelligence in their post-college careers."

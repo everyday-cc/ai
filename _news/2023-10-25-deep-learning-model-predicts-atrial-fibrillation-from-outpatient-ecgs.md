@@ -24,6 +24,17 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "Cedars-Sinai Deep Learning Tool Accurately Predicts Atrial Fibrillation"
+    excerpt: "New AI model uses routinely acquired outpatient 12-lead electrocardiograms to help clinicians identify abnormal heart rhythms in patients not yet showing symptoms."
+    publishedDateTime: 2023-10-25T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/cedars-sinai-deep-learning-tool-accurately-predicts-atrial-fibrillation"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
+
 secured: "iNcHpEscQ6i/nFAGe+WRxY5rsJKpkShBZvLO9kmrCqyKpcIH425aXa7UqCaRAi2WGKeZof2APxzcnxhAa4gbOjLQ97gLYoCrjbQf9y1zTHWOudE55rlDpOqnLr8BEM4d0/XCTnfI+5J/FIVjTLOOI4UJa5zFnrBJ5c1UwJF9Yroex/IIh6gu1LHsIc7L/Sr9T0vdYkSeCzXnRXfUQd7nemNPUSN14nlzv5Y/cYf7cntBgVJrkeinqbu3HoGIitZU8+WjmWeP2+NGSPwsMu8IXEJCVc9NTVSm0okMHRqtHjHSl5gSv4sIDJ0g6TBkhTgSY6U5bgTGrE/4YNAKJxm7hg0mU+68u9lck8WUneM/L0ZtFE8dTsSuL6M4+vR0KUN07JH/nuKm5ID8BWb0dPTTmlEPA6STysmo+KDsZ8rlgoIv86soaVd8M+5ImboqAtUjfowW3WqE0YuDMOnRh9BPxXDBjidxtbW2c0YW8vNrq1YsNAnvUGwFtP/451lYfYcSvwvuy0sE82FuP4l5ZlbUeQ==;vQv9ZruKr9PgbECcBMKoww=="
 ---
 

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "UK launches facial recognition drive against shoplifters"
+    excerpt: "On Monday, the country’s police authorities and representatives of 13 of the UK’s biggest retailers announced the Retail Crime Action Plan."
+    publishedDateTime: 2023-10-25T14:20:00Z
+    webUrl: "https://www.biometricupdate.com/202310/uk-launches-facial-recognition-drive-against-shoplifters"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/06154234/walmart-cctv-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Australian federal police tested controversial facial recognition search engine, FOI documents reveal"
     excerpt: "Exclusive: The AFP told Senate estimates it is now aware the PimEyes and FaceCheck.ID platforms may have been tested for operational purposes on around 10 occasions The Australian federal police have tested a controversial facial recognition search engine ..."
     publishedDateTime: 2023-10-24T00:56:00Z

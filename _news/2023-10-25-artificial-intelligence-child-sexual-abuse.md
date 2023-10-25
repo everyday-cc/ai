@@ -42,12 +42,12 @@ related:
         isCached: true
   - title: "AI-generated child sexual abuse images could flood the internet. A watchdog is calling for action"
     excerpt: "A new report warns that the proliferation of child sexual abuse images on the internet could become much worse if something is not done to put controls on artificial intelligence tools that generate deepfake photos."
-    publishedDateTime: 2023-10-25T03:30:00Z
-    webUrl: "https://www.clickondetroit.com/business/2023/10/24/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
+    publishedDateTime: 2023-10-25T04:08:00Z
+    webUrl: "https://www.ksat.com/business/2023/10/24/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
     type: article
     provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
+      name: KSAT
+      domain: ksat.com
     quality: 26
     images:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/H7FYZHX46FHA3DHODXQC4OWGV4.jpg?_a=ATAPphC0"
