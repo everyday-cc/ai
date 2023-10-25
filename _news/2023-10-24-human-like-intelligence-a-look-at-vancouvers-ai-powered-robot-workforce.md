@@ -1,18 +1,18 @@
 ---
 category: news
 title: "'Human-like intelligence': A look at Vancouver's AI-powered robot workforce"
-excerpt: "\"Given that more than 98 per cent of all work requires the dexterity of the human hand, one can’t create a truly useful humanoid robot without human-like hands,\" he noted. Rose said the company's focus was to emulate human intelligence rather than focus on appearance."
+excerpt: "A Vancouver company called Sanctuary AI is on a mission to develop the world's-first human-like intelligence in general-purpose robots. Not only are these robots about the size and shape of people, but they also have human-like intelligence. As a result, they have a capacity to respond and adapt to their environments similar to the way humans do."
 publishedDateTime: 2023-10-24T14:30:00Z
-originalUrl: "https://www.vancouverisawesome.com/local-news/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935"
-webUrl: "https://www.vancouverisawesome.com/local-news/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935"
+originalUrl: "https://www.richmond-news.com/technology/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935"
+webUrl: "https://www.richmond-news.com/technology/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935"
 type: article
 quality: 52
 heat: 62
 published: false
 
 provider:
-  name: Vancouver Is Awesome
-  domain: vancouverisawesome.com
+  name: Richmond News
+  domain: richmond-news.com
 
 topics:
   - AI in Robotics
@@ -42,6 +42,6 @@ related:
         height: 558
         isCached: true
 
-secured: "ZPzVJR4O+IS/DjMjPjBVcXEFtvrlk8bbCVYjJrwwyMDFYg+yrh5K4Jn4Y81XJLkoRci6jwB3J5EvHt8M6keSqlPXjWAJlOoWXxk9pRLzWefc1wEEj/wUCj8jxMFK+DqmpXTTeH4cz3wSWEPfPzPcQkMPoUIOhUK6suYqnCGp76WsfssR4tNQBL4T+wUOKcxHQv9eocljSkWYjHJvge1c4ABGAQ/Aoz++v/C4Obf7c073+4EA+k1FQzUQOjbFGJi4fJjoxifmjZfeT8CxVEZty+BB0TRuCdTj6YYF4dwePzT5scQXB13eVk2SzPGuCtqeBeTE0wOFAdhLsVjFATGLtCnS3LRH8jNBmAzbFfG1t7mRxKGw3Qsa5C3RHN2YXBciXY14kaFtPrSU1EdgXhT8YT+dbnuqtcoam9IJHpDaSOEpzTDLxX7Mh2T9sGEH7lOTk6upsmvoN78g6H8R8tIG8AxTcWLKOWOl2XQ7SDDx46816ILcrBx/+Gt0AneX1w1rgCOEKmeITGQNvLvgW/L8Iw==;UN4m7TeNJyu5judJor1/Dw=="
+secured: "WHObbW61fv8CLTLJk/rIN2wt0IlCbxK5HNerej7wKOuO8ckiRWwosp+FErLo3A/9vq1I5xFCO/xvji5J3QjKSY4Pg1frWBXXhlh4Hvt95ujIVtBdWs7vX84M38XgLF09qtCo7QBvhV/uI7dvlUTRFwiVDdBiq3XHSOpHhvSYrb4nWk7hT3K4vuvtp7rrU5TQsFVfF6VVbQIEdzLcwQoCiWcT/nUYAwuZMA2IEp2m7keSWzZzX5nGp55MLWI5TtmG89dByrq6HKiw5ipE7k9+H+k5+FNXwqoMI95B7eO6DcFioD/mhSnj93INFnqrnnvd0kE+X7ECUoQUBGjDSTYaj2RHChgRo9cM1WrkJ0V9VDM=;1kUWQc9XMhqk5yqVCD7YRQ=="
 ---
 

@@ -27,13 +27,13 @@ images:
 
 related:
   - title: "'Human-like intelligence': A look at Vancouver's AI-powered robot workforce"
-    excerpt: "\"Given that more than 98 per cent of all work requires the dexterity of the human hand, one can’t create a truly useful humanoid robot without human-like hands,\" he noted. Rose said the company's focus was to emulate human intelligence rather than focus on appearance."
+    excerpt: "A Vancouver company called Sanctuary AI is on a mission to develop the world's-first human-like intelligence in general-purpose robots. Not only are these robots about the size and shape of people, but they also have human-like intelligence. As a result, they have a capacity to respond and adapt to their environments similar to the way humans do."
     publishedDateTime: 2023-10-24T14:30:00Z
-    webUrl: "https://www.vancouverisawesome.com/local-news/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935"
+    webUrl: "https://www.richmond-news.com/technology/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935"
     type: article
     provider:
-      name: Vancouver Is Awesome
-      domain: vancouverisawesome.com
+      name: Richmond News
+      domain: richmond-news.com
     quality: 52
     images:
       - url: "https://www.vmcdn.ca/f/files/via/images/business/ai-robot-vacuum-vancouver-cleaningjpg.png;w=960;h=592;mode=crop"

@@ -34,20 +34,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "NVIDIA AI arrives in Oracle Cloud Marketplace"
-    excerpt: "“We’re accelerating our mission to infuse AI into virtually every academic and research disciplines,” said Thenkurussi (Kesh) Kesavadas, vice president for research and economic development at UAlbany. “We will drive advances in ..."
-    publishedDateTime: 2023-10-20T10:54:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-ai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/NVIDIA-AI-arrives-in-Oracle-Cloud-Marketplace.jpg"
-        width: 1280
-        height: 678
-        isCached: true
   - title: "NVIDIA’s breakthrough AI teaches robots human-like complex skills"
     excerpt: "Eureka not only improves the performance of the bot significantly but also achieves this by planning rewards on the basis of human feedback."
     publishedDateTime: 2023-10-20T13:00:00Z

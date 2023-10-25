@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=13541
 webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354131&cat=PR News Wire"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -19,22 +19,42 @@ topics:
   - AI
 
 related:
-  - title: "Wadhwani AI gets USD 3.3 mn grant from Google.org for protection of staple food crops"
-    excerpt: "These apps will include features like text-to-speech, speech-to-text, and translation for Indian languages, making it easier for people to access this information using voice commands in multiple languages."
-    publishedDateTime: 2023-10-20T10:58:00Z
-    webUrl: "https://www.devdiscourse.com/article/headlines/2676185-wadhwani-ai-gets-usd-33-mn-grant-from-googleorg-for-protection-of-staple-food-crops"
-    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2676185-wadhwani-ai-gets-usd-33-mn-grant-from-googleorg-for-protection-of-staple-food-crops?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2676185-wadhwani-ai-gets-usd-33-mn-grant-from-googleorg-for-protection-of-staple-food-crops?amp"
+  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
+    excerpt: "GIGABYTE spearheads the launch of Azure AI laptops in partnership with Microsoft and extends this collaboration to hybrid AI application functions, like Microsoft Copilot, integrating related AI services and technologies into existing platforms for a truly ..."
+    publishedDateTime: 2023-10-21T18:42:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354353&cat=PR News Wire"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 52
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/20_10_2023_16_40_42_4967902.jpeg?width=1280"
-        width: 1280
-        height: 1280
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
+  - title: "Kochava Unveils the Future of AI-Powered Insights Tools to Unlock Your Strategy for Growth"
+    excerpt: "Kochava, the leading real-time data solutions company for omni-channel attribution and measurement, today announced a powerful addition to its robust AI toolset. Kochava AI Prompt unleashes the power of AI to understand multiple languages through the use of natural language processing for global marketers to access and analyze their data."
+    publishedDateTime: 2023-10-24T14:41:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/24/9904352.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
+  - title: "Kochava Unveils the Future of AI-Powered Insights Tools to Unlock Your Strategy for Growth"
+    excerpt: "Kochava AI Prompt unleashes the power of AI to understand multiple languages through the use of natural language processing for global marketers to access and analyze their data. Kochava AI Prompt is powered by a secure connection to leading AI models to return a SQL script to run against the data within Kochava."
+    publishedDateTime: 2023-10-24T17:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231024297220/en/Kochava-Unveils-the-Future-of-AI-Powered-Insights-Tools-to-Unlock-Your-Strategy-for-Growth"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
+  - title: "Deel Introduces Deel IQ, an Artificial Intelligence Assistant for International Company Personnel Management"
+    excerpt: "The international human resources platform, Deel, has introduced an artificial intelligence assistant - Deel IQ. It is a tool that will help both small startups and large corporations planning to hire employees from other countries obtain valuable information about local legislation,"
+    publishedDateTime: 2023-10-20T13:32:00Z
+    webUrl: "https://www.baltictimes.com/deel_introduces_deel_iq__an_artificial_intelligence_assistant_for_international_company_personnel_management/"
+    type: article
+    provider:
+      name: The Baltic Times
+      domain: baltictimes.com
+    quality: 0
 
 secured: "SQK0FzUXY+ciu97Cn3pnjWxnaG/eSV1YFA/CT3TH9AXbxop6m+T4n3VDv0vbt4oUmNi7C1L6y4TCOemp1lkubyUABpFGxyt5uw1vEEuuTO8ix2nMLoK1aMntb5ETHDrOpQyhxFfjgv1i4ZUd3YGtLpxmxxYL0dDnf6sBShjTGg+zyjHJkHIosfR7VzMWXuIAEuG+mEp76hgOT5fu7PX2pp2/2+y55EIw9AvgsXAxcnyoKkNmf4/uLoK1js4icGJ1MZW8St6uaVBq5W3vdzmgM59GVOe47c0/FQYiisiXtPA56Ve/2qqgfJB15gBvcW3F+BtMmrAMPcoaR/OQiUmxNO8LfL7BhYM3eVmmEOMSX6yQdzfaCxyQmqsI0dKhJ5aPKsv/noaFeAkUemRB9tOZ7iKgZ0zZBA5WefPewuyZ6+XUzB7pqGDyZm67lIGOnYudMU/VdUdPCyKU2Mpw7GVTZMB6N8/mw6136TEspkV96wLgZLD0x3ERZtw5Nlj5QB/JDU8sHUhSd/qmnNP+/ynsTw==;REoptGbXNuHX/NQXJq19yA=="
 ---

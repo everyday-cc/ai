@@ -3,10 +3,10 @@ category: news
 title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
 excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
 publishedDateTime: 2023-10-20T16:48:00Z
-originalUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
-webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
+originalUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: automation.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
@@ -359,6 +360,6 @@ related:
         height: 250
         isCached: true
 
-secured: "6nE95xjJ/QDTUpNB/z8vMs3DIAMPzjn7tRnOmSJj4Y2BoHVjSRe1e4mrKy0TaQN5U0wXSo/U2bUP5lIkWFGKk31kJcmpanHuEe5/Z+OcuKwf7bRnpN9aSMag2sl3XgZhSr6ARCxAhe2jfJcYARI7B77mYHiJ7y/MYqaB6NAwFLXH4kV5X0bGkinbOTfgeI2reLKOTQI9EZilK1ycRyOP9gfeQJ9VUKvJXfq/q5N5k3XEZqf+ubrBRo7+gLG+Bgy7Ia49dPNENZQ/+xlytRJfmX41Cvrjf6Yg2ynwk6p2lx56krZBZEKTYWZfIOUs24QVUQloQfrXSKhkXnxiH7LjGLfyaumuJQmrGwBUV+Q4Quo=;aBrCbGC6HwCfUxcwJn/K1Q=="
+secured: "LympjNrMCNF74/KaBP8xsgE0jgvo7lb2G73ZCqtuWhbk3D05+33RbBvNmUyO2T1OY4NUlvuygUNZ5tY+5Ycm7PPOIpmnFbG5LYpHdoPuougG4dxCkDypWAYKd6da8hsKz6LCEoihqZBXGQF92GxZPHAdhUvdj/bjbFGk81l5mtQsWtUResWNbDV3lkxaQ0tTIljgUnIWe5PKpFf7EywCj/kNuf8E1CbTzafM4boddjovkjmsBU+mFNGg7A9pN4Ay/DtULC7euvsPmBc3f4bJ78xUUocxV+zTk5wp9j65tIMldd5OMriSf2bCJISJO8crCgt80nqM1VgUVCNHvAoEGhJYAAqLjA4v/Iu8hJrJue4=;1DUAPkEeKiGULjXWGWmIOw=="
 ---
 

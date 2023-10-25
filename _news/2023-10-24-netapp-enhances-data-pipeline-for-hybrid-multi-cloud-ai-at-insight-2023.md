@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Netapp Advances The State Of AI & Secure Infrastructure At INSIGHT 2023"
+    excerpt: "that also include Amazon AWS and Microsoft Azure. With advancements to its cloud machine learning technology, Amazon Sagemaker, already supporting Amazon FSx for NetApp ONTAP, will add Amazon Sagemaker notebooks, which can access AWS FSx for NetApp ONTAP ..."
+    publishedDateTime: 2023-10-24T23:44:00Z
+    webUrl: "https://menafn.com/1107298324/Netapp-Advances-The-State-Of-AI-Secure-Infrastructure-At-INSIGHT-2023"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/24/MON_d8b70image_story.jpeg"
+        width: 800
+        height: 418
+        isCached: true
   - title: "NetApp Advances the State of AI & Secure Infrastructure at INSIGHT 2023"
     excerpt: "NetApp® (NASDAQ: NTAP), a global cloud-led, data centric software company, today announced multiple innovative portfolio updates, including enhancemen"
     publishedDateTime: 2023-10-24T12:00:00Z

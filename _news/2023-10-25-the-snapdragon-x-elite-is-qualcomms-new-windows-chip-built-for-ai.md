@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Qualcomm invests further in mobile AI with chips announcements"
+    excerpt: "Qualcomm ( QCOM) rolled out a number of key AI announcements today, as the company seeks to cement itself as a major player in mobile chips. Those announcements include a new compute platform, called Snapdragon X Elite, a new central processing unit chip, called the Qualcomm Oryon CP, and a new smartphone chip, named the Snapdragon 8 Gen 3."
+    publishedDateTime: 2023-10-25T00:11:00Z
+    webUrl: "https://www.aol.com/qualcomm-invests-further-mobile-ai-211140974.html"
+    ampWebUrl: "https://www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-211140974.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-211140974.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 74
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/7SSlHirnre3fE3EDG45yYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODk-/https://media.zenfs.com/en/aol_yahoo_finance_433/2e03884ca93cf5e7c132b3ef00d68fc0"
+        width: 1200
+        height: 789
+        isCached: true
   - title: "Qualcomm says its new chips are 4.5 times faster at AI than rivals"
     excerpt: "Qualcomm's new Snapdragon processors bring fast generative AI to laptops and phones while keeping your data private and saving power."
     publishedDateTime: 2023-10-24T19:00:00Z
@@ -46,20 +62,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 59
-  - title: "Qualcomm Snapdragon X Elite Details Leak; Has 4.6 TFLOPs Of GPU Power"
-    excerpt: "Details of Qualcomm's upcoming and next-generation mobile chipset have leaked and we now have a name: the Snapdragon X Elite."
-    publishedDateTime: 2023-10-23T11:01:00Z
-    webUrl: "https://www.lowyat.net/2023/309593/qualcomm-snapdragon-x-elite/"
-    type: article
-    provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 54
-    images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2023/10/Qualcomm-Snapdragon-X-Elite-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Qualcomm introduces new AI-optimized handset and laptop chips"
     excerpt: "The onboard CPU was designed by Qualcomm’s Nuvia unit, which became part of the company through a $1.4 billion acquisition in 2021. Nuvia was founded two years earlier by former senior members of Apple Inc.’s chip design team. The Snapdragon X Elite’s CPU reportedly features 12 cores that can reach speeds of 3.8 GHz when they’re all active."
     publishedDateTime: 2023-10-24T21:43:00Z
@@ -73,20 +75,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Snapdragon-X-Elite.jpg"
         width: 678
         height: 381
-        isCached: true
-  - title: "Qualcomm invests further in mobile AI with chips announcements"
-    excerpt: "Qualcomm ( QCOM) rolled out a number of key AI announcements today, as the company seeks to cement itself as a major player in mobile chips. Those announcements include a new compute platform, called Snapdragon X Elite; a new central processing unit chip, called the Qualcomm Oryon CPU; and a new smartphone chip, named the Snapdragon 8 Gen 3."
-    publishedDateTime: 2023-10-25T00:43:00Z
-    webUrl: "https://www.aol.com/finance/qualcomm-invests-further-mobile-ai-211140974.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/7SSlHirnre3fE3EDG45yYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODk-/https://media.zenfs.com/en/aol_yahoo_finance_433/2e03884ca93cf5e7c132b3ef00d68fc0"
-        width: 1200
-        height: 789
         isCached: true
   - title: "Qualcomm's Snapdragon 8 Gen 3 leans heavy into AI new leak reveals"
     excerpt: "A new leak may have revealed the full specs of Qualcomm's next-gen flagship processor, the Snapdragon 8 Gen 3."
@@ -115,20 +103,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 42
-  - title: "Qualcomm Snapdragon X Elite: 4.6 TFLOPs = more GPU power than Xbox Series S"
-    excerpt: "Meanwhile, the updated Adreno GPU now packs 4.6 TFLOPs of FP32 compute performance ... It also wouldn't be a new chip without AI something, with Qualcomm supporting generative AI through its Hexgon NPU (Neural Processing Unit), which has up to 45 TOPS ..."
-    publishedDateTime: 2023-10-22T23:13:00Z
-    webUrl: "https://www.tweaktown.com/news/93943/qualcomm-snapdragon-elite-4-6-tflops-more-gpu-power-than-xbox-series/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 37
-    images:
-      - url: "https://static.tweaktown.com/news/9/3/93943_201_qualcomm-snapdragon-elite-4-6-tflops-more-gpu-power-than-xbox-series_full.jpg"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "Qualcomm’s first Snapdragon X Elite chip for Windows PCs is a 12-core processor with up to 45 TOPS AI performance"
     excerpt: "Qualcomm's first Snapdragon X Elite chip for Windows PCs is a 12-core processor with up to 45 TOPS AI performance"
     publishedDateTime: 2023-10-24T19:26:00Z

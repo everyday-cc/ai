@@ -42,20 +42,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 50
-  - title: "NVIDIA AI arrives in Oracle Cloud Marketplace"
-    excerpt: "“We’re accelerating our mission to infuse AI into virtually every academic and research disciplines,” said Thenkurussi (Kesh) Kesavadas, vice president for research and economic development at UAlbany. “We will drive advances in ..."
-    publishedDateTime: 2023-10-20T10:54:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-ai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/NVIDIA-AI-arrives-in-Oracle-Cloud-Marketplace.jpg"
-        width: 1280
-        height: 678
-        isCached: true
 
 secured: "STEjttpmAxy1/9ybj69+t+E7i3szwf5wVI6Ixt1dWGgnaFYYP4IqHDYjDQa3OVK/thYCyV0QKGGj24I12V5Q+tELt9fHpQAUsnCkr/QWh/L4oAZnzLjhKtIiyMkdRQRRx8aFPLN0Q+trEKb8RcSGMfBHtGYjCXpKXIi9CDlZgnZ/2I1WxLJ+H1fsx6KYAGiR+6llzVXm3+hvi4KcJKdkdY5Op2gqqdv+NoaylHRCbAgN9LET8XIiPG6t5VD+pyTpJCt8V9KkxKgWyS/8Mwz2/hkcXq3osCu8b6ZPO6gVs0yC/c+bufSt7WVMwd7Yyd5cYMRx2NUt3z7dSOJzHmGGnaGymqKpTrdaq0ReHoW+oNnNq8wHOrqhr1x2DVwJ81mcAu/t+vNZGzLDYzBAdETjFk2IxF8UMGtxbGYSkXpGxiGnTehIZGI65z1grTlCTgVfQdrq+vNNRCoMn87EltWdXGQNvbEs5owPsJm8LOdBu/Wwr/YSlmStsQt7ewOUEG/iVf9s3u38or1cs0N/5VjXQw==;7F8qkaKhELE6d5nYcKneWQ=="
 ---

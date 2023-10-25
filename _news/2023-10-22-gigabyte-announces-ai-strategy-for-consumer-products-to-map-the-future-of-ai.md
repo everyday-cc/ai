@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=13543
 webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354353&cat=PR News Wire"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
+    excerpt: "GIGABYTE spearheads the launch of Azure AI laptops in partnership with Microsoft and extends this collaboration to hybrid AI application functions, like Microsoft Copilot, integrating related AI services and technologies into existing platforms for a truly ..."
+    publishedDateTime: 2023-10-20T19:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354131&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
   - title: "Kochava Unveils the Future of AI-Powered Insights Tools to Unlock Your Strategy for Growth"
     excerpt: "Kochava, the leading real-time data solutions company for omni-channel attribution and measurement, today announced a powerful addition to its robust AI toolset. Kochava AI Prompt unleashes the power of AI to understand multiple languages through the use of natural language processing for global marketers to access and analyze their data."
     publishedDateTime: 2023-10-24T14:41:00Z
@@ -37,6 +46,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 9
+  - title: "Deel Introduces Deel IQ, an Artificial Intelligence Assistant for International Company Personnel Management"
+    excerpt: "The international human resources platform, Deel, has introduced an artificial intelligence assistant - Deel IQ. It is a tool that will help both small startups and large corporations planning to hire employees from other countries obtain valuable information about local legislation,"
+    publishedDateTime: 2023-10-20T13:32:00Z
+    webUrl: "https://www.baltictimes.com/deel_introduces_deel_iq__an_artificial_intelligence_assistant_for_international_company_personnel_management/"
+    type: article
+    provider:
+      name: The Baltic Times
+      domain: baltictimes.com
+    quality: 0
 
 secured: "w8zEOOMavOs9bNtKLBCEPRP5zZZgg/i8nCx0wWg8cIHuA5gbPhKe/FFg71Ued6o8GXjdUzc/cDoF/aorcZPv3d37VLnwycAeONzlPRQgs8P5vZpZIFrzS8iY+V/Hm5Gj0WrMyufC1jC2OO3uU1bs7f4BGMG5f/LCJYw9tw0843WVd1AmZCj8S2F2CQkNULwakFhd18yWXRDQnlmfYYYFixMkDo3zIIicZhYDZgrm84chUlvNTVJuQd322RqJHO9lhmlbxG0SYcwSOL3BvYX90hxFlt4fmtLxmX0zBwgX2CL+Ep+ayPEvFlZAFJz4ZwQiFCHNcLON77L0b5c5UW6u+i2TZiGPtWe3ahBP2rbZKRE=;lqch26kh7U+M+QoWonFugg=="
 ---

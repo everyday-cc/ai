@@ -71,6 +71,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Microsoft’s bets on generative AI boost Azure cloud business, as Alphabet’s Google Cloud disappoints"
+    excerpt: "Microsoft’s revenue from the Azure cloud-computing platform beat estimates in the September quarter, while Google Cloud’s sales growth ground to its slowest pace in at least 11 quarters."
+    publishedDateTime: 2023-10-25T03:40:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3239082/microsofts-bets-generative-ai-boost-azure-cloud-business-alphabets-google-cloud-disappoints"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 84
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/25/c93f729d-16a9-4fdf-a119-943be8b3e21e_49cbffc4.jpg?itok=pDSvaiE0&v=1698205075"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft's quarterly results and guidance showcase its AI prowess"
     excerpt: "Microsoft ’s (MSFT) fantastic fiscal first-quarter results and stellar guidance on Tuesday demonstrated once again that the software giant is one of the most formidable contenders in the increasingly competitive AI arms race."
     publishedDateTime: 2023-10-24T21:46:00Z
@@ -144,22 +158,6 @@ related:
       - url: "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AM_L.jpg"
         width: 800
         height: 532
-        isCached: true
-  - title: "DCT Abu Dhabi and Microsoft sign MoU on generative AI, cloud technologies"
-    excerpt: "The alliance enables innovation in key areas such as generative artificial intelligence (AI) and cloud computing and brings together both organisations’ capabilities and resources to enhance the touri"
-    publishedDateTime: 2023-10-20T09:27:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/dct-abu-dhabi-and-microsoft-sign-mou-on-generative-ai-cloud-technologies-pk47jcgw"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/dct-abu-dhabi-and-microsoft-sign-mou-on-generative-ai-cloud-technologies-pk47jcgw?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/dct-abu-dhabi-and-microsoft-sign-mou-on-generative-ai-cloud-technologies-pk47jcgw?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 73
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MDhkNmI0NWItZTNkMS00/0/naimyazbeck-generalmanagerofmicrosoftuaeandheadnanalawadi-supportservicesexecutivedirectorofdctabudhabi-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
         isCached: true
   - title: "As Databricks touts demand for AI services, all eyes are on Microsoft and Alphabet’s Q3 results"
     excerpt: "We can't wait to find out if these companies will report a material improvement from their investments in AI-related computing tasks and products."
@@ -447,6 +445,6 @@ related:
       domain: microsoft.com
     quality: 12
 
-secured: "rzPMT7cxBQZn2xj0/W7xWy+yHlFAlhbzIP0IvubyEcIecj/s4sYalGKCGLZq1VNNoI+s7EEqtbnPuh9OkokLCDd9MYqUE8n6hZmYf10CoCInB+3CRz1sI1OmFLtK4UquymiJM8CIGBTuGDIqim/nPR9xt+McxSU9L1CjJeiHY3fE1B+dL/uR6MF09a4QWgFVyn0t7XMYfRFr1SfwOR+8yk78aNX+5DuBPrHe6+RopV/NQtzeenom8WMBq4oIIf7++TjNIkpu98hfiq/OJ8VGa21MjFptVA0O7MFLcd2oBA0mJD8+LLsshsCQLYIvkRjL88FugSjCMKpTuGAzkrwTU9a4EUAabHO4lxf1q4/2jes=;BKcBwC08lroEECgz9QLi3Q=="
+secured: "uzdd2viuXS+OOuS1nqGiRV5NlXy05seQyjMUcYLlqIXLsNwktzGb0u53wPa4zj24tOJIvJeyXpevNKhHbue9svJAMwSEQeCGgMRZUZCYnBIe8jZOecAy3IYyB64Xd3s0am6OQRp1oQfQzF5nhX0svTuoXrkyN0cb4F34CE7OEpsWP50MXNjnMwXxL4Sz8wtN4D8bo9fnTw6BuZNKZgG35rp1TM/RY4pYBTyZU1AqDRp58dhALqOQ+LkfDmcgw3+tca3jQCKobQyChOE5TYkqmvIUfIum5W8H2jyR/b3G/uY7jdKMtbNG6Jgt+NRRuXF8Vs2+K++VUJQwqHuJFqchAgP/G7XipDTm7EDTQDBzhsG5NS/ERZfcteunTJ4MNKXpqON5a1q08hrdFN2w4uCGn/FaN4W/GJaQooNwJMBE9oE3lD8m56hxqGg79G/QhHoBV1/ZqYiWiiU5OeeBgbBBjy8wIdIO0IuAVKtggYwS6lYwfP5oNe2jr+1J9jHiC53GaXx8jBJD2T+9w26oDN3kdw==;V0xMNXNQpmDU7GbCUKxy+Q=="
 ---
 

@@ -54,6 +54,22 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "US orders immediate halt to shipping of some AI chips to China, Nvidia says"
+    excerpt: "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October."
+    publishedDateTime: 2023-10-25T03:41:00Z
+    webUrl: "https://www.bbc.com/news/business-67213134"
+    ampWebUrl: "https://www.bbc.com/news/business-67213134.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-67213134.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 102
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/FADE/production/_131522246_40a5ca5450ad7139cea01cf7b81856c952f2d5ec.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "New Nvidia AI agent, powered by GPT-4, can train robots"
     excerpt: "Nvidia Research announced today that it has developed a new AI agent powered by OpenAI's GPT-4 that can teach robots complex skills."
     publishedDateTime: 2023-10-20T20:00:00Z

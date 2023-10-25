@@ -21,6 +21,15 @@ topics:
 related:
   - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
     excerpt: "GIGABYTE spearheads the launch of Azure AI laptops in partnership with Microsoft and extends this collaboration to hybrid AI application functions, like Microsoft Copilot, integrating related AI services and technologies into existing platforms for a truly ..."
+    publishedDateTime: 2023-10-20T19:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354131&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
+  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
+    excerpt: "GIGABYTE spearheads the launch of Azure AI laptops in partnership with Microsoft and extends this collaboration to hybrid AI application functions, like Microsoft Copilot, integrating related AI services and technologies into existing platforms for a truly ..."
     publishedDateTime: 2023-10-21T18:42:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354353&cat=PR News Wire"
     type: article
@@ -37,6 +46,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 9
+  - title: "Deel Introduces Deel IQ, an Artificial Intelligence Assistant for International Company Personnel Management"
+    excerpt: "The international human resources platform, Deel, has introduced an artificial intelligence assistant - Deel IQ. It is a tool that will help both small startups and large corporations planning to hire employees from other countries obtain valuable information about local legislation,"
+    publishedDateTime: 2023-10-20T13:32:00Z
+    webUrl: "https://www.baltictimes.com/deel_introduces_deel_iq__an_artificial_intelligence_assistant_for_international_company_personnel_management/"
+    type: article
+    provider:
+      name: The Baltic Times
+      domain: baltictimes.com
+    quality: 0
 
 secured: "SEG2icMd2f9hmpl581wBw8Txj/VaSqmY1XEUjCfMF8KR2MeHrAvm5ibU2B+4ssM1+c9oRDjAHd13EU4Kt5tjYKqpCa+5IYTJCD/+xmSAB6EVBfzvRzgqOVazjC4VibCxN/FhQy1sQfckXN8oFll85F5VmsDsg9IfM4ddT3QWEx/gLqTefRHS5YLX2RBmuWauA30K8widr9RIsw74bJewVk1AOdVk/wG6buRxLHZaGkordfpXE4DbPNpyV023uCq9MspfagBs4Q7pkNVvkLFeg8X2p2+S3ugiArGEECFU9YstqzevsZrXOmHnIh+/oOW6V1a9Tu/ByVql9XR4fhEWA8KenDH5rjhnWIPa6kZmDvc=;/PL1b8seSxGE1LbI1HlQvA=="
 ---

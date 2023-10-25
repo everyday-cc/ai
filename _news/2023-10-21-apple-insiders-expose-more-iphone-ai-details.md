@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6533d758c1840d79ef74453f/0x0.jpg?format=jpg&crop=2147,1209,x239,y41,safe&height=900&width=1600&fit=bounds"
         width: 1598
         height: 900
-        isCached: true
-  - title: "MacRumors: Apple may follow ChatGPT with generative AI features on iPhone as soon as iOS 18"
-    excerpt: "Apple plans to start implementing generative AI technology on the iPhone and iPad in late 2024 at the earliest, according to Jeff Pu, an analyst who covers Apple’s supply chain for Hong Kong-based investment firm Haitong International Securities."
-    publishedDateTime: 2023-10-20T10:30:00Z
-    webUrl: "https://wraltechwire.com/2023/10/20/macrumors-apple-may-follow-chatgpt-with-generative-ai-features-on-iphone-as-soon-as-ios-18/"
-    ampWebUrl: "https://wraltechwire.com/2023/10/20/macrumors-apple-may-follow-chatgpt-with-generative-ai-features-on-iphone-as-soon-as-ios-18/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/20/macrumors-apple-may-follow-chatgpt-with-generative-ai-features-on-iphone-as-soon-as-ios-18/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 47
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
         isCached: true
   - title: "iPhone 15 Series: A Glimpse into the Future of Smartphones"
     excerpt: "Introduction The iPhone has long been a symbol of innovation and excellence in the world of smartphones, and Apple’s commitment to pushing the boundaries of technology is evident with each new release."

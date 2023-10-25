@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "From Healthcare to Finance: Exploring Real-World Applications of Artificial Intelligence"
-    excerpt: "Artificial Intelligence (AI) has swiftly transformed numerous industries, from healthcare to finance, revolutionizing the way we live and work. With its unrivaled ability to process vast amounts of data and identify patterns that elude human perception,"
-    publishedDateTime: 2023-10-20T10:35:00Z
-    webUrl: "https://techbullion.com/from-healthcare-to-finance-exploring-real-world-applications-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 66
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/AI-in-Finance.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Climate fintech is exciting investors right now. Here's why it's primed to be the next red-hot sector."
     excerpt: "Fintech startups that speed up decarbonization, manage climate risks, and facilitate renewable energy purchases are gaining traction, according to VCs."
     publishedDateTime: 2023-10-24T10:01:00Z

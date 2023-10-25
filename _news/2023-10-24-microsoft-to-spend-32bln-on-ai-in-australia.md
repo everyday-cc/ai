@@ -61,6 +61,20 @@ related:
         width: 275
         height: 215
         isCached: true
+  - title: "Microsoft’s bets on generative AI boost Azure cloud business, as Alphabet’s Google Cloud disappoints"
+    excerpt: "Microsoft’s revenue from the Azure cloud-computing platform beat estimates in the September quarter, while Google Cloud’s sales growth ground to its slowest pace in at least 11 quarters."
+    publishedDateTime: 2023-10-25T03:40:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3239082/microsofts-bets-generative-ai-boost-azure-cloud-business-alphabets-google-cloud-disappoints"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 84
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/25/c93f729d-16a9-4fdf-a119-943be8b3e21e_49cbffc4.jpg?itok=pDSvaiE0&v=1698205075"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft's quarterly results and guidance showcase its AI prowess"
     excerpt: "Microsoft ’s (MSFT) fantastic fiscal first-quarter results and stellar guidance on Tuesday demonstrated once again that the software giant is one of the most formidable contenders in the increasingly competitive AI arms race."
     publishedDateTime: 2023-10-24T21:46:00Z
@@ -134,22 +148,6 @@ related:
       - url: "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AM_L.jpg"
         width: 800
         height: 532
-        isCached: true
-  - title: "DCT Abu Dhabi and Microsoft sign MoU on generative AI, cloud technologies"
-    excerpt: "The alliance enables innovation in key areas such as generative artificial intelligence (AI) and cloud computing and brings together both organisations’ capabilities and resources to enhance the touri"
-    publishedDateTime: 2023-10-20T09:27:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/dct-abu-dhabi-and-microsoft-sign-mou-on-generative-ai-cloud-technologies-pk47jcgw"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/dct-abu-dhabi-and-microsoft-sign-mou-on-generative-ai-cloud-technologies-pk47jcgw?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/dct-abu-dhabi-and-microsoft-sign-mou-on-generative-ai-cloud-technologies-pk47jcgw?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 73
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MDhkNmI0NWItZTNkMS00/0/naimyazbeck-generalmanagerofmicrosoftuaeandheadnanalawadi-supportservicesexecutivedirectorofdctabudhabi-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
         isCached: true
   - title: "As Databricks touts demand for AI services, all eyes are on Microsoft and Alphabet’s Q3 results"
     excerpt: "We can't wait to find out if these companies will report a material improvement from their investments in AI-related computing tasks and products."

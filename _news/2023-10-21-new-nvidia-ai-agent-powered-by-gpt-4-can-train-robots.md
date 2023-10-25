@@ -60,6 +60,22 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "US orders immediate halt to shipping of some AI chips to China, Nvidia says"
+    excerpt: "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October."
+    publishedDateTime: 2023-10-25T03:41:00Z
+    webUrl: "https://www.bbc.com/news/business-67213134"
+    ampWebUrl: "https://www.bbc.com/news/business-67213134.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-67213134.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 102
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/FADE/production/_131522246_40a5ca5450ad7139cea01cf7b81856c952f2d5ec.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Nvidia Says US Advanced Timeline for Export Curbs of AI Chips to China, Other Countries"
     excerpt: "Chip designer Nvidia said new US export curbs that block the sale of its high-end artificial intelligence chips to China came into effect on Monday as regulators advanced the timeline."
     publishedDateTime: 2023-10-24T16:55:00Z

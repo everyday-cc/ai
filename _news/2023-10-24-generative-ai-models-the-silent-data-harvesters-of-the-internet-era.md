@@ -7,7 +7,7 @@ originalUrl: "https://www.inferse.com/767980/generative-ai-models-the-silent-dat
 webUrl: "https://www.inferse.com/767980/generative-ai-models-the-silent-data-harvesters-of-the-internet-era/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Generative AI Models Are Sucking Data Up From All Over the Internet, Yours Included"
+    excerpt: "Opened data on the internet includes things like photos uploaded to Flickr, online marketplaces, voter registration databases, government web pages, business sites, probably your employee bio Wikipedia, Reddit research ... Facebook post to train its AI."
+    publishedDateTime: 2023-10-23T00:00:00Z
+    webUrl: "https://www.scientificamerican.com/podcast/episode/generative-ai-models-are-sucking-data-up-from-all-over-the-internet-yours-included/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 33
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/FD801C0A-8D98-4DE8-A90D464937A647E4.gif"
+        width: 790
+        height: 496
+        isCached: true
 
 secured: "BP2OudCOeJBfV+2bcv/5BV2rbZbglWlC5UhR4dw9ZDccT7akzgE5tLsxS3Oj8LRFtK2nvhoAVBMZ1KewIdOuhef2Zjmzb7A7DPIBlLL0Obc9pMwWo8LX37wq5vr0pY8LjDW3KrhWUC1vu18rHs4cBnyg60X46tuhc8cfyqLpQNh6/IwoNUG05Cl7Zj2RQTVsBASArRTXLcbFlAIaj7TjVmyzX7aEqPUMupIEGloxn45ZGW18uOLe7VNuxzmz587zBhEdh5WSB4LceeD6t1Z5VLEa97gs4kw9mSZBAvzDvKKqTLw2demCG1v63xplEWnNEtQiCYPXVamBmlBMqdnpe61di0UpLSTxCDF9wh2Sr25hfxvXcniw7nIVPqrDOje9pWcXMX6MDsSI2tDiEScPocab7H/8MjTwaMEgojzB1MXtN8Rhoj0e0s8nrf/DQ0SP1JpYuR5scWO+sRoQGUFVV16Bik26bTTwI5aQ0z5ClrJr5WKZZcqOgVArLoCDx1T/SoHfKSu9VadxIm1JXlO9vQ==;6UHuCD407LYlqYGxAf9Gyg=="
 ---

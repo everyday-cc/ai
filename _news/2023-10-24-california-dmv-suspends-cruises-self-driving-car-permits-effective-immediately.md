@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "California suspends GM Cruise self-driving vehicles as 'not safe' for the public"
+    excerpt: "California suspended General Motors' Cruise autonomous vehicle deployment and driverless testing permits, effective immediately, citing safety concerns."
+    publishedDateTime: 2023-10-24T18:02:00Z
+    webUrl: "https://www.autoblog.com/2023/10/24/california-dmv-yanks-gm-cruises-license-to-operate-without-a-backup-driver/"
+    ampWebUrl: "https://www.autoblog.com/amp/2023/10/24/california-dmv-yanks-gm-cruises-license-to-operate-without-a-backup-driver/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/10/24/california-dmv-yanks-gm-cruises-license-to-operate-without-a-backup-driver/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 39
+    images:
+      - url: "https://s.aolcdn.com/images/dims3/GLOB/crop/3913x2201+0+368/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2023/10/24140138/2023-10-24T173527Z_1_LYNXMPEJ9N0UE_RTROPTP_4_GM-SELFDRIVING-CRUISE-1.jpg.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "California suspends Cruise self-driving taxis - the service preparing to launch in Dallas"
     excerpt: "Calfornia's decision to suspend General Motors-backed Cruise's permit comes as the company has been running tests in Dallas since June through the Oak"
     publishedDateTime: 2023-10-24T20:34:00Z

@@ -46,22 +46,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Chinese AI Startup Zhipu Secures $342M in Funding from Alibaba, Tencent"
-    excerpt: "Amid the buzzing AI market, Chinese AI startup Zhipu announced that it has secured $342 million (or 2.5 billion yuan) in funding."
-    publishedDateTime: 2023-10-20T10:03:00Z
-    webUrl: "https://www.coinspeaker.com/ai-zhipu-342m-funding/"
-    ampWebUrl: "https://www.coinspeaker.com/ai-zhipu-342m-funding/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/ai-zhipu-342m-funding/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 57
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/ai-zhipu-342m-funding.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "China homegrown AI chip development proceeding despite US ban"
     excerpt: "China's chipmaking industry continues to advance its domestic development of AI chips despite stricter US bans, with companies like Alibaba, Baidu, Huawei, and Tencent developing their own AI chips."
     publishedDateTime: 2023-10-24T01:41:00Z
