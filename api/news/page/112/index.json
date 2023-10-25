@@ -2,6 +2,84 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2023-08-07-beijings-tougher-regulations-thwart-big-techs-electric-vehicle-dreams.md",
+      "title": "Beijing’s tougher regulations thwart Big Tech’s electric vehicle dreams",
+      "excerpt": "Red tape is frustrating the efforts of Big Tech in China to launch electric vehicles, with car rollouts from search giant Baidu, smartphone maker Xiaomi and ride-hailing group Didi all being stalled.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/29d20e6c-29d0-4603-abeb-caf55f5dd9c3?sharetype=gift",
+      "originalUrl": "https://www.ft.com/content/29d20e6c-29d0-4603-abeb-caf55f5dd9c3?sharetype=gift",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-06T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction.md",
+      "title": "How can Multimodal Machine Learning ensure positive digital yield extraction",
+      "excerpt": "Artificial intelligence (AI) induced digital revolution seems to be ascertaining how futuristic global technological progress will happen. With machine learning (ML) models considered important for it,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/",
+      "originalUrl": "https://www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik-2023-08-06T233356.340.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/lite/",
+      "publishedDateTime": "2023-08-06T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-08-07-how-ai-in-education-leads-to-warnings-on-ethics-and-efficacy.md",
       "title": "How AI in Education Leads to Warnings on Ethics and Efficacy",
       "excerpt": "Artificial intelligence (AI) is making its way into San Francisco classrooms to address pandemic-induced learning loss. However, the adoption of AI in education has sparked heated debates over its ethics and effectiveness.",
@@ -1024,102 +1102,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-amazon-cloud-revenue-rises-12-topping-analysts-estimates.md",
-      "title": "Amazon cloud revenue rises 12%, topping analysts' estimates",
-      "excerpt": "During the second quarter AWS introduced Bedrock, a service that organizations can use to deploy generative artificial intelligence models that can compose impressive text and images in response ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/03/aws-q2-earnings-report-2023.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/03/aws-q2-earnings-report-2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
-      "title": "Age of AI: Everything you need to know about artificial intelligence",
-      "excerpt": "Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very recently has blossomed thanks to powerful new computing resources. AI has enabled ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
-      "originalUrl": "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-08-04T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

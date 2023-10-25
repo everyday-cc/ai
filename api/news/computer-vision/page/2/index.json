@@ -2,6 +2,84 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-04-ai-in-computer-vision-market-opportunities-and-demand-in-2024-growth-potentials-and-forthcoming-developments-by-2031.md",
+      "title": "AI in Computer Vision Market: Opportunities and Demand in 2024 | Growth Potentials and Forthcoming Developments by 2031",
+      "excerpt": "What is Market Insights and Analysis? The global AI in Computer Vision market size was valued at USD 4332.54 million in 2022 and is expected to expand at a CAGR of 22.12% during the forecast ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/ai-in-computer-vision-market-opportunities-and-demand-in-2024-growth-potentials-and-forthcoming-developments-by-2031",
+      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/ai-in-computer-vision-market-opportunities-and-demand-in-2024-growth-potentials-and-forthcoming-developments-by-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-technology.md",
+      "title": "Lawsuit: Improper arrest due to misuse of facial recognition technology",
+      "excerpt": "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7news.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/",
+      "originalUrl": "https://abc7news.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13883139_100923-wls-n1-ai-wrongful-arrest-pkg-vid.jpg?w=1600",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7 San Francisco",
+        "domain": "abc7news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-lawsuit-man-claims-he-was-improperly-arrested-because-of-misuse-of-facial-recognition-technology.md",
       "title": "Lawsuit: Man claims he was improperly arrested because of misuse of facial recognition technology",
       "excerpt": "ACLU: False detainment from the software is more likely to affect Black people. A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial ...",
@@ -1167,84 +1245,6 @@
       "provider": {
         "name": "WCTV",
         "domain": "wctv.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-24-ai-powered-security-the-future-of-surveillance-in-india.md",
-      "title": "AI-powered security: The future of surveillance in India",
-      "excerpt": "Key aspects of AI-powered security that are shaping the industry’s future include: Advanced Surveillance: AI-driven smart cameras enable real-time object recognition, behaviour analysis, and anomaly detection. Security systems can proactively identify ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-powered-security-the-future-of-surveillance-in-india-3253290/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-powered-security-the-future-of-surveillance-in-india-3253290/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design244.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-powered-security-the-future-of-surveillance-in-india-3253290/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-powered-security-the-future-of-surveillance-in-india-3253290/lite/",
-      "publishedDateTime": "2023-09-24T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-09-23-ai-in-computer-vision-market-analysis-2023-size-with-share-in-report-by-top-key-players-future-developments-112-pages.md",
-      "title": "AI in Computer Vision Market Analysis 2023 | Size with Share in Report by Top Key Players, Future Developments | 112 Pages",
-      "excerpt": "2023 AI in Computer Vision Market Overview: Insights on [ Automotive, Sports and Entertainment, Consumer, Robotics and Machine Vision, Healthcare, Security and Surveillance, Agriculture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34835521/ai-in-computer-vision-market-analysis-2023-size-with-share-in-report-by-top-key-players-future-deve",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34835521/ai-in-computer-vision-market-analysis-2023-size-with-share-in-report-by-top-key-players-future-deve",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-22T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

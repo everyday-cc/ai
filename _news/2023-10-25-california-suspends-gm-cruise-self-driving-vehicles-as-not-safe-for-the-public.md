@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "California suspends tests of GM's Cruise self-driving car following safety concerns"
+    excerpt: "California authorities on Tuesday suspended testing of Cruise self-driving cars being developed by General Motors, citing safety concerns following a"
+    publishedDateTime: 2023-10-25T04:28:00Z
+    webUrl: "https://timesofindia.indiatimes.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/articleshow/104686865.cms"
+    ampWebUrl: "https://m.timesofindia.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/amp_articleshow/104686865.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/amp_articleshow/104686865.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 38
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-104686923,width-1070,height-580,imgsize-110560,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "California suspends Cruise self-driving taxis - the service preparing to launch in Dallas"
     excerpt: "Calfornia's decision to suspend General Motors-backed Cruise's permit comes as the company has been running tests in Dallas since June through the Oak"
     publishedDateTime: 2023-10-24T20:34:00Z
@@ -78,6 +94,6 @@ related:
       domain: devdiscourse.com
     quality: 1
 
-secured: "1X1pKLGIjPUXn1Q8BI1YbSrCpql/9OK81euW3dXxCX1jo8XsscjJ8YZ3MIZ4HFXBYcanbWhFdQmuPKQvvU8rrI9I9CAp1pf09pnce3eNOH6060WF3B/pkZ1bLr4pZ9uv1MNipbCcD6kDTgv+cqfNB0uuYOvowJd29GudCodLghCV62uPKdwbKc6A0eHaZul0WhPLxwDchcb0BjUpXFwk4GIIjwAa/RgKh95CFM56wj58kPHg2ABoKgAE+7whovT9Bv0WGIFKt4XgLNyvceUUszKxsx8sqlwgn0j5TkxEJFr1gtSDLxDEVEWZUJZL4spy8WVKJXZ3Vpg6bboWYaFAAuPOjChiOLtwsfH4xWQXQ4w=;Ksea8lh+7EDYCoVjHBy7mw=="
+secured: "ji2rOMDMRNHhkL3C6FXG0MpieRf5yRO1i1sj4d04iW7YJfOWaVarM1KfbyCleqWzcH0qJaunnj02slD2ISP+uD3zwmKZk2Uy9K4nb8SNdEjECt0lV4DqQN8HWrMuHFySWALF9Br16tKlU/zMOiRZ3DtWn2/V9Qf+kJG9jeUOlp+hnHZUuLIwdVaRo9qZyfZHLwoEsDq0GQ+eu737jzjOwCK8GPxKW08XXNFNx08nWZXRjrSiJpnqdg38E7gY70XZR8t5yv41q0UGLrGzrhIqBmcb/yhXK44EtFcpU180GCasKR5ZtupexaBjqC+P4f50C8Yym1OT1VSglMWoV19unXN090affWwWqfps6F9f89ts9x3VYZkDG+/HqtSGYMPh9dzWsUWtnHWa6gu1JhKFWUiX9d3azxkhiu+xhyecYhZUS7qzLi1CXw6iITI/zV0do0QBKOufMrsTT8QPHIw8/unsfbkCBsifkMaM7E1he3avU/3sHNT2vdi1DcWXhnkfjksgYAFCPb+KXXSiAsnCVQ==;34355CeTdwJNqKgNbLF7jA=="
 ---
 

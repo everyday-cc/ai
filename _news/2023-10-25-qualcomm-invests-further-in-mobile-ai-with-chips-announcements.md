@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-21114
 cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-211140974.html"
 type: article
 quality: 74
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Snapdragon-X-Elite.jpg"
         width: 678
         height: 381
+        isCached: true
+  - title: "Qualcomm’s new Snapdragon X Elite notebook chips are made with AI in mind"
+    excerpt: "Touting twice the CPU performance compared to competitors and arriving in mid-2024, Qualcomm has revealed its new Snapdragon X Elite chips."
+    publishedDateTime: 2023-10-25T07:51:00Z
+    webUrl: "https://htxt.co.za/2023/10/25/qualcomms-new-snapdragon-x-elite-notebook-chips-are-made-with-ai-in-mind/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 53
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2023/10/SnapdragonXElite_HeroImage.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Qualcomm's Snapdragon 8 Gen 3 leans heavy into AI new leak reveals"
     excerpt: "A new leak may have revealed the full specs of Qualcomm's next-gen flagship processor, the Snapdragon 8 Gen 3."

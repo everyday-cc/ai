@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepm
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/amp/"
 type: article
 quality: 121
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/93c2ec47dfa92753188caec7eada3383a593dc5a/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=f95968ad0e4c3d48f26b309e88995955"
         width: 620
         height: 372
+        isCached: true
+  - title: "Google DeepMind Chief Believes AI Risk Is Similar To Climate Crisis"
+    excerpt: "Demis Hassabis said he wishes to see the creation of an IPCC and CERN-like international body for the regulation of AI."
+    publishedDateTime: 2023-10-25T06:44:00Z
+    webUrl: "https://www.ibtimes.co.uk/google-deepmind-chief-believes-ai-risk-similar-climate-crisis-1720943"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 54
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1720546/artificial-intelligence.jpg"
+        width: 2500
+        height: 1501
         isCached: true
 
 secured: "Dx0nhZ6O8KoE9V83TRD6gBrbvTxuQcy5kvFdlfxa3bYAA5GNzOvdsIDo5XCaK6e/6tS9jhN07j82duxjEy4UDZldj02BjNzdDi932L4ByzKmB5FlCVRL3H4G61U7cB+mk0n6k6b0ZJdZFDWXdi4ielm3D20x494FEzAHQH46VOW2eWmyYGp92TclADRLQhGVoQSbGtZVkLOKmkA4avgQRXClMiCH5bH2Zkq+nf1WLAtKRCqHzDa4yyPOUNGySb3ynEBt4/CbhG5dEq/dyExNZkWWZxmurnhibsUMYzyUWbGm4IQHBdDkeNqlwR49XDpLwpnSQwUEoFrlnr/EvGR/TOv6afKhOySFkPm3Qo1BjWY=;tdy4LBRTDTOQ26+hoYWIgw=="

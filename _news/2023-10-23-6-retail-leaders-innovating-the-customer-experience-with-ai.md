@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/people-revolutionizing-customer-expe
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10?amp"
 type: article
 quality: 87
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How marketers are using AI to make the customer-service experience faster, more targeted, and more reliable"
-    excerpt: "Conversational AI is at the forefront of innovation for a growing number of quick service restaurant and grocery store food brands."
-    publishedDateTime: 2023-10-20T13:37:00Z
-    webUrl: "https://www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/65314decbe9edfa8eda4cb71?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How Gen AI Empowers Human Innovation In The Chemical Industry"
     excerpt: "Chemical industry leaders are exploring how this technology can transform product discovery, supply chain management, demand planning and customer centricity."
     publishedDateTime: 2023-10-24T12:59:00Z

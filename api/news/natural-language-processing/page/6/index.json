@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-31-will-a-bitterly-divided-australia-elevate-the-voice-of-aboriginal-people.md",
+      "title": "Will a Bitterly Divided Australia Elevate the Voice of Aboriginal People?",
+      "excerpt": "A referendum to set up an Indigenous advisory body in Parliament was envisioned as uniting the country. The opposite has happened.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/08/29/world/australia/voice-aboriginal-indigenous.html",
+      "originalUrl": "https://www.nytimes.com/2023/08/29/world/australia/voice-aboriginal-indigenous.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/24/multimedia/00OZ-VOICE-01-kmzh/00OZ-VOICE-01-kmzh-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-harnessing-ai-for-market-research-opportunities-and-challenges.md",
       "title": "Harnessing AI For Market Research: Opportunities And Challenges",
       "excerpt": "Sophisticated natural language processing algorithms ... insights within proper business context to translate findings into strategic recommendations. • Proactively validate findings by triangulating AI output with both quantitative metrics and ...",
@@ -1290,40 +1342,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-the-lex-newsletter-ai-translation-may-supersede-ai-aided-language-learning.md",
-      "title": "The Lex Newsletter: AI translation may supersede AI-aided language learning",
-      "excerpt": "What is included in my trial? During your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages. Standard Digital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/cd30d49c-b38b-4843-a516-aba62e4b347f",
-      "originalUrl": "https://www.ft.com/content/cd30d49c-b38b-4843-a516-aba62e4b347f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

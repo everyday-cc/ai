@@ -2,6 +2,109 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-09-20-telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study.md",
+      "title": "Telling AI model to “take a deep breath” causes math scores to soar in study",
+      "excerpt": "Rather than relying on formal mathematical definitions to perform this task, OPRO uses \"meta-prompts\" described in natural language to set the stage for the optimization process. The LLM then generates candidate solutions based on the problem’s description and previous solutions, and it tests them by assigning each a quality score.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/worried_robot_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/amp/",
+      "publishedDateTime": "2023-09-19T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-5-ways-to-incorporate-ai-into-your-career-plans.md",
+      "title": "5 Ways To Incorporate AI Into Your Career Plans",
+      "excerpt": "If you want to stay relevant to your company’s strategy and put yourself in line for raises and promotions, you'll need AI skills and experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/",
+      "originalUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650a0df6c94fbefd10bba901/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/",
+      "publishedDateTime": "2023-09-19T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-health-care-flat-amid-inflation-bets-health-care-roundup.md",
       "title": "Health Care Flat Amid Inflation Bets -- Health Care Roundup",
       "excerpt": "Health-care companies were more or less flat as traders sought out sectors less susceptible to fears about interest rates and inflation. Drug",
@@ -1125,92 +1228,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-data-and-ai-ethics-market-outlook-with-industry-expansion-strategies-till-2031.md",
-      "title": "Data and AI Ethics Market Outlook with Industry Expansion Strategies till 2031",
-      "excerpt": "Data and AI Ethics Market Snapshot: In this report analysis, we conduct a comprehensive examination of the Data and AI Ethics Market, breaking it down into various segments such as size ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34726647/data-and-ai-ethics-market-outlook-with-industry-expansion-strategies-till-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34726647/data-and-ai-ethics-market-outlook-with-industry-expansion-strategies-till-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34726647",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34726647",
-      "publishedDateTime": "2023-09-19T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-chan-zuckerberg-science-to-build-ai-gpu-cluster-to-model-cell-systems.md",
-      "title": "Chan Zuckerberg Science To Build AI GPU Cluster To Model Cell Systems",
-      "excerpt": "\"AI is creating new opportunities in biomedicine ... especially academic research institutions. The CZI-funded GPU cluster will be one of the first to power openly available models of human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34725290/chan-zuckerberg-science-to-build-ai-gpu-cluster-to-model-cell-systems",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34725290/chan-zuckerberg-science-to-build-ai-gpu-cluster-to-model-cell-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34725290",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34725290",
-      "publishedDateTime": "2023-09-19T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

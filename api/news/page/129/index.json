@@ -2,6 +2,91 @@
   "page": 129,
   "value": [
     {
+      "path": "_news/2023-07-26-what-is-zero-based-budgeting.md",
+      "title": "What is zero-based budgeting?",
+      "excerpt": "Zero-Based Budgeting (ZBB) is a strategic budgeting approach that mandates a fresh evaluation of all expenses during each budgeting cycle.\nThe post What is zero-based budgeting? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-zero-based-budgeting/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-zero-based-budgeting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T06:25:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-self-driving-car-technology-market-study-offers-both-qualitative-and-quantitative-analysis-with-an-estimated-cagr-rate-99-from-2023-2030.md",
+      "title": "Self-driving Car Technology market study offers both qualitative and quantitative analysis with an estimated CAGR rate 9.9% from 2023-2030.",
+      "excerpt": "Mercedes-Benz has focused on creating self-driving trucks, while companies like Google and Baidu are renowned for their extensive research into autonomous driving technology. These companies can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33399165/self-driving-car-technology-market-study-offers-both-qualitative-and-quantitative-analysis-with-an-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33399165/self-driving-car-technology-market-study-offers-both-qualitative-and-quantitative-analysis-with-an-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33399165",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33399165",
+      "publishedDateTime": "2023-07-26T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-a-comprehensive-analysis-including-a-macro-overview-of-the-ai-in-fintech-market-with-a-forecasted-95-cagr-forecasted-from-2023-to-2030.md",
       "title": "A comprehensive analysis including a macro overview of the AI in Fintech market with a forecasted 9.5% CAGR Forecasted from 2023 to 2030",
       "excerpt": "The \"AI in Fintech Market\" report draws on various inferences to analyze the challenges within the industry. The final draught highlights the industry's typical problems as well as the businesses ...",
@@ -1073,83 +1158,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-the-worldwide-ai-speech-recognition-industry-is-currently-experiencing-significant-growth-and-expanding-at-a-51-cagr-from-2023-2030.md",
-      "title": "The worldwide AI Speech Recognition industry is currently experiencing significant growth and expanding at a 5.1% CAGR from 2023 - 2030",
-      "excerpt": "The Global Market Overview of \"AI Speech Recognition Market\" offers a unique insight into key trends shaping the industry world-wide and in the largest markets. Written by some of our most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33385997/the-worldwide-ai-speech-recognition-industry-is-currently-experiencing-significant-growth-and-expan",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33385997/the-worldwide-ai-speech-recognition-industry-is-currently-experiencing-significant-growth-and-expan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33385997",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33385997",
-      "publishedDateTime": "2023-07-25T21:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-tesla-recalls-362000-us-vehicles-over-full-self-driving-software-reuters.md",
-      "title": "Tesla recalls 362000 U.S. vehicles over Full Self-Driving software – Reuters",
-      "excerpt": "Tesla Inc will recall more than 362,000 U.S. vehicles to update its Full Self-Driving (FSD) Beta software after U.S. regulators said on Thursday t",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/638952/tesla-recalls-362000-u-s-vehicles-over-full-self-driving-software-reuters/",
-      "originalUrl": "https://www.inferse.com/638952/tesla-recalls-362000-u-s-vehicles-over-full-self-driving-software-reuters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -108,8 +108,8 @@
       "title": "AI-created child sexual abuse images ‘threaten to overwhelm internet’",
       "excerpt": "Internet Watch Foundation finds 3,000 AI-made abuse images breaking UK law",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet",
-      "originalUrl": "https://www.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet",
+      "webUrl": "https://www.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet?ref=upstract.com",
       "featuredContent": null,
       "highlight": null,
       "heat": 77,
@@ -128,7 +128,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet",
-      "publishedDateTime": "2023-10-24T20:00:00-07:00",
+      "publishedDateTime": "2023-10-24T20:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -163,7 +163,7 @@
       "originalUrl": "https://www.aol.com/qualcomm-invests-further-mobile-ai-211140974.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -611,7 +611,7 @@
       "originalUrl": "https://www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1181,21 +1181,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-24-ai-risk-similar-to-climate-crisis-world-cannot-afford-to-delay-response-google-deepmind-chief.md",
-      "title": "AI risk similar to climate crisis, world cannot afford to delay response: Google Deepmind Chief",
-      "excerpt": "In a recent interview, Demis Hassabis said that he anticipates the creation of an international body like IPCC and CERN for the regulation of AI.",
+      "path": "_news/2023-10-24-how-this-berlin-startup-deploys-ai-to-make-preventative-healthcare-accessible.md",
+      "title": "How this Berlin startup deploys AI to make preventative healthcare accessible",
+      "excerpt": "There are plenty of conversations around how AI can progress healthcare. And indeed, it has numerous applications in the form of diagnostics and accelerated drug discovery. However, wouldn’t it be eve",
       "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/",
-      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/",
+      "webUrl": "https://thenextweb.com/news/how-berlin-startup-deploys-ai-preventative-healthcare-accessible",
+      "originalUrl": "https://thenextweb.com/news/how-berlin-startup-deploys-ai-preventative-healthcare-accessible",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://images.indianexpress.com/2023/10/Demis-Hassabis-1.jpg",
-          "width": 1600,
-          "height": 900,
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FHealthCaters-Team-e1698154782374.jpg&signature=b7e6d2b3a3308b6a055c9e66bae6b0fb",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1203,14 +1203,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/lite/",
-      "publishedDateTime": "2023-10-24T06:59:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T06:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1219,7 +1228,7 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "AI in Healthcare",
         "AI"
       ]
     }

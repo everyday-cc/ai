@@ -70,6 +70,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "FPT buys stake in US computer vision, AI company"
+    excerpt: "Tech giant FPT has invested in leading American computer vision and AI company Landing AI and become its strategic partner."
+    publishedDateTime: 2023-10-25T05:55:00Z
+    webUrl: "https://e.vnexpress.net/news/business/companies/fpt-buys-stake-in-us-computer-vision-ai-company-4668913.html"
+    ampWebUrl: "https://ampe.vnexpress.net/news/business/companies/fpt-buys-stake-in-us-computer-vision-ai-company-4668913.html"
+    cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/business/companies/fpt-buys-stake-in-us-computer-vision-ai-company-4668913.html"
+    type: article
+    provider:
+      name: VN Express
+      domain: vnexpress.net
+    quality: 74
+    images:
+      - url: "https://i1-english.vnecdn.net/2023/10/25/hoptacchienluocfptlanding39908-6268-5357-1698213279.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=FEcJUTI9TdQmDT19f-NfTw"
+        width: 680
+        height: 408
+        isCached: true
   - title: "Companies Look to Human Moderators to Keep AI Apps in Line"
     excerpt: "Borrowing from social-media platforms, software maker Intuit is hiring content moderators to help keep toxic language and other bad behavior off its AI systems."
     publishedDateTime: 2023-10-23T16:53:00Z
@@ -126,15 +142,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Music Companies Take Legal Action Against Amazon-Backed AI Startup"
-    excerpt: "A recent legal battle is brewing in the music world. Three top music companies are suing Anthropic, an AI firm. They claim the company's AI, Claude, is using their song lyrics without permission. This"
-    publishedDateTime: 2023-10-20T13:15:00Z
-    webUrl: "https://techround.co.uk/news/music-companies-take-legal-action-against-amazon-backed-ai-startup/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 17
   - title: "How AI Can Revolutionize Entrepreneurship in 2024"
     excerpt: "By leveraging the capabilities of AI, entrepreneurs can streamline their operations, mitigate risks, and accelerate growth. Here’s how AI will revolutionize entrepreneurship in 2024."
     publishedDateTime: 2023-10-22T01:30:00Z

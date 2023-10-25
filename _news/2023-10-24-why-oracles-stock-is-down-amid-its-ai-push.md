@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/why-oracles-stock-down-amid-172837737.html?ref
 webUrl: "https://www.aol.com/why-oracles-stock-down-amid-172837737.html?ref=biztoc.com"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "NVDA Stock: 4 Reasons Why This AI Chipmaker Is Poised to Dominate the Future"
-    excerpt: "But data centers are also using AI themselves. Indeed, according to the well-respected research firm Gartner, they are utilizing AI to help solve many of their problems, such as “increasing inflation, rising energy costs, and persistent labor shortages.”"
-    publishedDateTime: 2023-10-20T13:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvda-stock-4-reasons-why-this-ai-chipmaker-is-poised-to-dominate-the-future-1032724339"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
 
 secured: "4IUPdUPaBCi2hHRRuGnTWXjlF9D33mkVWncbaPqW7+86Zd/2oPOl3livLSUsRxBrFd0xvbWve1Tj4x/Zy/WCSRefb85OqN+7fmbVYE8+DyvhSG6z0CTTwGw9XcZCbmqRPavuvmYWn6LgTRfZHs44z0NLeHWnGtkTfOsBYkx9dbfDXbezVz/7Dt8z9SMaBctVzgzLhTBO73htpgv0HYSwDsqQzwEyhetdoXiWBbSBwkq04a3bCZgmO/DIXweQxtzsStoUd8tIIzI3X13DHTH6F+HIcn2oUXUR006saFpggnD02WKjD7xS8AUpyhAxtSVTAGs9r/7GIKT7C2m3f8AFm2RY5uVY64ax1IX8CS/gat0=;dhkPKsAeD/OTXBgDI+fMTg=="
 ---

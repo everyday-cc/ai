@@ -46,15 +46,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 9
-  - title: "Deel Introduces Deel IQ, an Artificial Intelligence Assistant for International Company Personnel Management"
-    excerpt: "The international human resources platform, Deel, has introduced an artificial intelligence assistant - Deel IQ. It is a tool that will help both small startups and large corporations planning to hire employees from other countries obtain valuable information about local legislation,"
-    publishedDateTime: 2023-10-20T13:32:00Z
-    webUrl: "https://www.baltictimes.com/deel_introduces_deel_iq__an_artificial_intelligence_assistant_for_international_company_personnel_management/"
-    type: article
-    provider:
-      name: The Baltic Times
-      domain: baltictimes.com
-    quality: 0
 
 secured: "w8zEOOMavOs9bNtKLBCEPRP5zZZgg/i8nCx0wWg8cIHuA5gbPhKe/FFg71Ued6o8GXjdUzc/cDoF/aorcZPv3d37VLnwycAeONzlPRQgs8P5vZpZIFrzS8iY+V/Hm5Gj0WrMyufC1jC2OO3uU1bs7f4BGMG5f/LCJYw9tw0843WVd1AmZCj8S2F2CQkNULwakFhd18yWXRDQnlmfYYYFixMkDo3zIIicZhYDZgrm84chUlvNTVJuQd322RqJHO9lhmlbxG0SYcwSOL3BvYX90hxFlt4fmtLxmX0zBwgX2CL+Ep+ayPEvFlZAFJz4ZwQiFCHNcLON77L0b5c5UW6u+i2TZiGPtWe3ahBP2rbZKRE=;lqch26kh7U+M+QoWonFugg=="
 ---

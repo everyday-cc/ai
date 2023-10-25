@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Security
+  - AI in Autos
 
 images:
   - url: "https://onecms-res.cloudinary.com/image/upload/s--7tX_n-gO--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/biden-72026-jpg-1613715668.jpg?itok=dmFnOHlf"

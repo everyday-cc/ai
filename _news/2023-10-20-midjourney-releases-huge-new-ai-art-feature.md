@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/10/20/midjourney-rele
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/10/20/midjourney-releases-huge-new-ai-art-feature/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence journey has barely begun"
-    excerpt: "Regulation will hit the AI industry hard, believes Michael Borelli co-founder of AI & Partners, but won’t derail technological development. Drinking a cup of coffee – with “plenty of"
-    publishedDateTime: 2023-10-20T14:09:00Z
-    webUrl: "https://www.pwmnet.com/artificial-intelligence-journey-has-barely-begun"
-    type: article
-    provider:
-      name: pwmnet.com
-      domain: pwmnet.com
-    quality: 37
-    images:
-      - url: "https://www.pwmnet.com/wp-content/uploads/2023/10/Michael-Borrelli-AIPartners-Photo.jpg"
-        width: 2316
-        height: 1546
-        isCached: true
   - title: "Midjourney Halloween prompt ideas for scary, haunting AI images"
     excerpt: "AI art generator such as Midjourney and DallE 3 recently made ... are not only visually striking but also evoke a sense of unease and dread. Offering a great start when writing prompts to generate eerie and unsettling images, perfect for the Halloween ..."
     publishedDateTime: 2023-10-24T08:28:00Z

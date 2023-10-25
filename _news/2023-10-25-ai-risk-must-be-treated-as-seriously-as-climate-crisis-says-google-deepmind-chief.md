@@ -63,6 +63,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Google DeepMind Chief Believes AI Risk Is Similar To Climate Crisis"
+    excerpt: "Demis Hassabis said he wishes to see the creation of an IPCC and CERN-like international body for the regulation of AI."
+    publishedDateTime: 2023-10-25T06:44:00Z
+    webUrl: "https://www.ibtimes.co.uk/google-deepmind-chief-believes-ai-risk-similar-climate-crisis-1720943"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 54
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1720546/artificial-intelligence.jpg"
+        width: 2500
+        height: 1501
+        isCached: true
 
 secured: "Swuzsvc/A/iU+qMzHeWblUaGjtrSqYWxF0AWSKvfuDbkcvq7raIqZuOJw4g7YTqG/TCro0mpWG7zHTkbSrbCD/KbVqH7T+XpYzlf43oacaBLVJz+9kYzr8kVgaTSprVW9jP2Q9nzJVncvFAXOnaP889LmP1fW7PChbaPym46KlSKcCLXlWdUxv3AfT3PaglugcbT/bCd8lxStlIr4kAPOGyybQSBWjBsQvALB2nVTTykbDuo55zqS1ssINZa7jstHVelmr6kN/n0IS/0X1eEUYFzm0xnnUDyToYL2qbkfihGW80frRT3WkIj8IixTzThnZUdIUYi4Xk59JxzF1DZc9IHYSvYAUNtbPmMkxDwm7gn09NSAsU6vACeQExRtlPBt/1sliXGRSM4jtQQ5NHV7hMPhmTKnjazmwEvyf65v3hXe0pEAS7SzU32bUpi9o+vmch9embFcaJkoto4q+p3leYiBjQQErN8aMtC4bHhHlnz2X6aDMSLl0hUX3YBK7kPgTPbMIePGKQ0ZQ3Ym7KTRg==;Ho39ED1WefojbhTgVRFynQ=="
 ---

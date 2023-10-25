@@ -40,20 +40,6 @@ related:
         width: 1404
         height: 900
         isCached: true
-  - title: "Artificial intelligence journey has barely begun"
-    excerpt: "Regulation will hit the AI industry hard, believes Michael Borelli co-founder of AI & Partners, but won’t derail technological development. Drinking a cup of coffee – with “plenty of"
-    publishedDateTime: 2023-10-20T14:09:00Z
-    webUrl: "https://www.pwmnet.com/artificial-intelligence-journey-has-barely-begun"
-    type: article
-    provider:
-      name: pwmnet.com
-      domain: pwmnet.com
-    quality: 37
-    images:
-      - url: "https://www.pwmnet.com/wp-content/uploads/2023/10/Michael-Borrelli-AIPartners-Photo.jpg"
-        width: 2316
-        height: 1546
-        isCached: true
 
 secured: "SDxou+QzxwuuQVZBEWqdAGERWVL0eZZX2mbUnZiQAG45YtxENhj+hWyRJEvAwdKPdPl/aVOrWg4MQT+ZrLWaNWC/3Xev/prVK5iv61Z4xUMak+2bOIzkh6QBG52QWjLfPiEM+rp6JSnmLSr3Bhf4tUdS4G859OCmIF+Ax9ZYXwVB9kv6AxEFlVBJmCM6u4PHeSZQUKBy2wezbngObJXM+Me6RmkKLt+zUrrZN6PVav4CXaqrAFv0ajzcyfjE52N+phwRV3Bs3bbqXPnVyke4i9ecMTyL8N8ATE1LRyFlDWXNyv51ubOlvtTJy+Y8bG+cK7dsgXQ7ag2hGs0/HC5jVK+ROaksQcAB7lKSftl+9Qw=;avQjYhr+HH0QPF7SdLTSEw=="
 ---

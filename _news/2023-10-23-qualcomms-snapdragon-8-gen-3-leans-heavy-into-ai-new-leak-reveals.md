@@ -112,6 +112,20 @@ related:
         width: 678
         height: 381
         isCached: true
+  - title: "Qualcomm’s new Snapdragon X Elite notebook chips are made with AI in mind"
+    excerpt: "Touting twice the CPU performance compared to competitors and arriving in mid-2024, Qualcomm has revealed its new Snapdragon X Elite chips."
+    publishedDateTime: 2023-10-25T07:51:00Z
+    webUrl: "https://htxt.co.za/2023/10/25/qualcomms-new-snapdragon-x-elite-notebook-chips-are-made-with-ai-in-mind/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 53
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2023/10/SnapdragonXElite_HeroImage.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Qualcomm's Snapdragon X Elite brings more AI power to your next PC"
     excerpt: "The Snapdragon X Elite supports generative AI models with over 13 billion parameters. PCs powered by the new processor are expected from vendors in mid-2024."
     publishedDateTime: 2023-10-24T19:00:00Z

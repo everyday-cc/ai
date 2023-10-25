@@ -2,6 +2,92 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-10-14-centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.md",
+      "title": "Centre comes out with strategy on robotics to make India global leader in the field by 2030",
+      "excerpt": "India has outlined its ambitious roadmap for its artificial intelligence (AI) and robotics sectors, envisaging it as a pivotal enabler to help take the country’s digital economy hit one trillion dollars in valuation and position India as a global leader in the field of robotics by 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.html",
+      "originalUrl": "https://www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/2018/january/robot-robotics-intelligence-3d-rendering-ai-robot-think-computer.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.amp.html",
+      "publishedDateTime": "2023-10-13T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-nvidia-will-release-the-best-ai-chips-faster-buy-the-stock.md",
+      "title": "Nvidia Will Release the Best AI Chips Faster. Buy the Stock.",
+      "excerpt": "BofA Global Research analyst Vivek Arya reiterated his \"Top Pick\" Buy rating for the stock and reaffirmed his target of $650 for the price.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96",
+      "originalUrl": "https://www.barrons.com/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-91984761/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96",
+      "publishedDateTime": "2023-10-13T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-gen-z-doesnt-know-how-to-write-emails-ai-is-coming-to-outlook-so-it-might-help.md",
       "title": "Gen Z doesn't know how to write emails. AI is coming to Outlook, so it might help.",
       "excerpt": "Microsoft's AI assistant could come to the rescue of soft skills-challenged Gen Z workers",
@@ -1116,109 +1202,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-governments-race-to-regulate-ai-tools.md",
-      "title": "Governments race to regulate AI tools",
-      "excerpt": "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-13/",
-      "originalUrl": "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/EqVujEAwDTH__rAL3dKCIl0vKFg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJ7VVLBOAZNETDZF34KQ7NPIJ4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-1-artificial-intelligence-stock-to-buy-hand-over-fist-in-october-and-1-to-avoid.md",
-      "title": "1 Artificial Intelligence Stock to Buy Hand Over Fist in October and 1 to Avoid",
-      "excerpt": "One of these players could win in AI -- and in the healthcare market, in general. Artificial intelligence (AI) could revolutionize the world by automating tedious tasks, reducing errors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/13/1-artificial-intelligence-stock-to-buy-1-to-avoid/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/13/1-artificial-intelligence-stock-to-buy-1-to-avoid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/750715/an-ai-powered-robotic-finger-and-a-human-finger-touch.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Amazon Web Services to Launch AWS European Sovereign Cloud"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), today announced it will launch the AWS European Sovereign Cloud, a new, independent cloud for Europe designed to help public sector customers and those in highly regulated industries meet the most stringent regulatory data residency and operational requirements."
+    excerpt: "As with existing AWS Regions, customers will have the control and assurance that AWS will not access or use customer data for any purpose without their agreement, as well as access to the strongest sovereignty controls among leading cloud providers."
     publishedDateTime: 2023-10-25T05:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/25/9904788.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-amazon-web-services-launch-aws-european-sovereign-cloud-/2023/10/25/9904788.htm"
     type: article
     provider:
       name: TMCnet

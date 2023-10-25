@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Amazon Web Services to Launch AWS European Sovereign Cloud"
-excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), today announced it will launch the AWS European Sovereign Cloud, a new, independent cloud for Europe designed to help public sector customers and those in highly regulated industries meet the most stringent regulatory data residency and operational requirements."
+excerpt: "As with existing AWS Regions, customers will have the control and assurance that AWS will not access or use customer data for any purpose without their agreement, as well as access to the strongest sovereignty controls among leading cloud providers."
 publishedDateTime: 2023-10-25T05:26:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/10/25/9904788.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/10/25/9904788.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-amazon-web-services-launch-aws-european-sovereign-cloud-/2023/10/25/9904788.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-amazon-web-services-launch-aws-european-sovereign-cloud-/2023/10/25/9904788.htm"
 type: article
 quality: 34
 heat: 34
@@ -34,6 +34,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "Y4kqw+glPluwsXwJz4rnzI3GErxls0X+JEQHuMyxR1+xU++56gSWuic3KlT2jb75W3UmV+306/wMELdGvvwuQWLxZtVRw8z2CYg0a1YesP4cfGr75kR1sAnp7uAM+pXxgmmhjHs6nqEStj/+BMEFDzUhlkQJ4BXt8T5yc+BOKWi+HRMtMGQ073dL8UM/k8jX/QGno1wQVuP3o/MCq8Qwy2O6G+gsP1hYBb0uEuXbbkCj1PzkaGExalhXssPFrm7NraR6eTJb3oq1yF5KljNEnkonNrYgBxDa2PHMzLLYALo4IKWOQBSdxqF3sImOrSQcqr2ILtr619p4tKD0BWSMPWlePNfNTJBkU5fIpP9pivI=;40Cu6rlF863uLmxfUrZIRQ=="
+secured: "Bn62CbaxOYDjdSSIs2V3F6NGdH7E3opLI2SQMzCgnkhphjhDNNidOgn5kwVpOBBhMfygq63zSmcsIpNg0lXJZAZPumPHvUxsf/H1bVRN+8TiLaOuTBJSDn05MWAfebjsFWY3e6K1VeaCbUrh8bQpExd89MPgzE+IuehSBJnjGCikHHXD8vvJQGRP63M8Vh3R+XkSSisg2GHlaQF+Af1+ByZFT77levOnwckVObckgO6z9CuasWcp676wwuU6mwn2um5Wr8WyNhyE1Bx0gp1h+Na8ZSCguW7wcD8Zq5qqsg42XB8aUhhYV6KeAL8HbCxcmClXiGBvVP9uFCOnYUhJfvf2xBvGEhs3ZBi9e5t8qY8=;3lZ3xfvOsSqXbYXAJtI+RA=="
 ---
 

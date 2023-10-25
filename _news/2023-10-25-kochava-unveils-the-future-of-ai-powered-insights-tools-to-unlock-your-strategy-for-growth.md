@@ -46,15 +46,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 9
-  - title: "Deel Introduces Deel IQ, an Artificial Intelligence Assistant for International Company Personnel Management"
-    excerpt: "The international human resources platform, Deel, has introduced an artificial intelligence assistant - Deel IQ. It is a tool that will help both small startups and large corporations planning to hire employees from other countries obtain valuable information about local legislation,"
-    publishedDateTime: 2023-10-20T13:32:00Z
-    webUrl: "https://www.baltictimes.com/deel_introduces_deel_iq__an_artificial_intelligence_assistant_for_international_company_personnel_management/"
-    type: article
-    provider:
-      name: The Baltic Times
-      domain: baltictimes.com
-    quality: 0
 
 secured: "SEG2icMd2f9hmpl581wBw8Txj/VaSqmY1XEUjCfMF8KR2MeHrAvm5ibU2B+4ssM1+c9oRDjAHd13EU4Kt5tjYKqpCa+5IYTJCD/+xmSAB6EVBfzvRzgqOVazjC4VibCxN/FhQy1sQfckXN8oFll85F5VmsDsg9IfM4ddT3QWEx/gLqTefRHS5YLX2RBmuWauA30K8widr9RIsw74bJewVk1AOdVk/wG6buRxLHZaGkordfpXE4DbPNpyV023uCq9MspfagBs4Q7pkNVvkLFeg8X2p2+S3ugiArGEECFU9YstqzevsZrXOmHnIh+/oOW6V1a9Tu/ByVql9XR4fhEWA8KenDH5rjhnWIPa6kZmDvc=;/PL1b8seSxGE1LbI1HlQvA=="
 ---

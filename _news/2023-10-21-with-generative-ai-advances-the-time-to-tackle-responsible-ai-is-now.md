@@ -82,20 +82,6 @@ related:
         width: 1353
         height: 900
         isCached: true
-  - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
-    excerpt: "The purpose of the expanded relationship between IBM Consulting and AWS is “to help more mutual clients operationalize and derive value from generative artificial intelligence,” IBM Consulting stated in a press release. In addition, IBM Consulting ..."
-    publishedDateTime: 2023-10-20T13:27:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/tr5423-what-is-generative-ai.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Human-In-The-Loop AI: A Collaborative Teammate In Operations And Incident Management"
     excerpt: "This perspective holds particular relevance for operations teams and incident management. Rather than replacing human involvement, AI stands to be an ally in these mission-critical domains. Analogous to how automation streamlines repetitive tasks, AI can enhance the problem-solving capacity of operations teams."
     publishedDateTime: 2023-10-24T11:30:00Z

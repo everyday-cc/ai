@@ -202,22 +202,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 61
-  - title: "Alibaba, Tencent And Ant Invest $342 Million in AI Startup Zhipu, Eyeing Rivalry with Microsoft's OpenAI"
-    excerpt: "Alibaba Group Holding Ltd BABA and Tencent Holdings Ltd TCEHY featured amongst major Chinese investors doling out 2.5 billion yuan ($342 million) in artificial technology startup Beijing Zhipu Huazhang Technology Co. Many Zhipu investors joined a recent $300 million round of financing for Zhipu-rival Baichuan, Bloomberg reports."
-    publishedDateTime: 2023-10-20T14:55:00Z
-    webUrl: "https://www.benzinga.com/news/23/10/35349943/alibaba-tencent-and-ant-invest-342-million-in-ai-startup-zhipu-eyeing-rivalry-with-microsofts-openai"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35349943"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35349943"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/10/20/artificial_intelligence_ai.jpg?width=1200&height=800&fit=crop"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Microsoft Q1 Earnings Preview: Analyst Estimates, Video Game Update, Artificial Intelligence Opportunity"
     excerpt: "Microsoft reports first-quarter financial results after market close Tuesday. Artificial intelligence is likely to be one of the biggest topics covered by the company ..."
     publishedDateTime: 2023-10-23T16:22:00Z
@@ -424,15 +408,20 @@ related:
       name: On MSFT
       domain: onmsft.com
     quality: 45
-  - title: "Why boomers are catching up with AI faster than Gen Zers, according to Microsoft’s modern work lead"
-    excerpt: "stop thinking of AI as a search engine–and start thinking of it as your newest direct report. For the most tenured leaders, with years of people management experience under their belts, this shift has elements that are almost second nature. But for early ..."
-    publishedDateTime: 2023-10-20T13:14:00Z
-    webUrl: "https://www.aol.com/why-boomers-catching-ai-faster-110017635.html"
+  - title: "Wall Street is demanding financial results that support all the AI hype. Microsoft’s latest earnings finally delivered"
+    excerpt: "Microsoft's growth in the most recent quarter stemmed from the business unit the company labels “Azure and other cloud services,” which houses its investments in AI. Of the segment’s 29% growth from the previous fiscal year, 3 points come from AI ser ..."
+    publishedDateTime: 2023-10-25T06:59:00Z
+    webUrl: "https://www.aol.com/finance/wall-street-demanding-financial-results-031607173.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 20
+    quality: 30
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/q2JruvQYfWXT8ZwpND_zMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTI-/https://media.zenfs.com/en/aol_fortune_385/a163d4c667364fe9a742427a3f7c3a9e"
+        width: 1199
+        height: 892
+        isCached: true
   - title: "Infosys collaborates with Microsoft to accelerate and democratize … – Infosys"
     excerpt: "Both companies will help enterprises take an AI-first approach to scale next-generation AI solutions to improve operational efficiencies, drive revenue"
     publishedDateTime: 2023-10-24T18:20:00Z

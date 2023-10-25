@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-25T05:50:00Z
 originalUrl: "https://www.phoneworld.com.pk/metas-mind-reading-ai-system-can-replicate-images-you-are-thinking-about-heres-how/"
 webUrl: "https://www.phoneworld.com.pk/metas-mind-reading-ai-system-can-replicate-images-you-are-thinking-about-heres-how/"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.phoneworld.com.pk/wp-content/uploads/2023/10/OIP-9.jpeg"
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "CfzTOhanfyHNAlGLzwzmqp1f+VKyzDritVwm4JC5wNMIwzKCkTwEe98VJP4+I4Y4AdJSepvLzi8CDuf7ctIZC3N2kneu/UvJpWWoO1fXvITkAKWsTnCa3doU6F1PKpXDyicY3n8nBjHgcv5x/psry5svJ7tN31R0eA+f45su4faBa/TnJdOHrZCcGFltNghRUvWwUZ0CU+yUweo3y6VIIlDhfrllmvonfxUOLou9PeKd8E6EJwC4VbU+cA/80Vu7ns4dotbTyfikmix38g+7rg1QthdTjTDhkb/8/88fMio4iEz4z38uh/nUWGX8gvXQv0IsEE185zi3RHEfAWG2XlwYAp00bc6mqq9K4YUIVxs=;CLtLJiXTKuSPuNwByOGX7A=="
+secured: "YOaPdCaXFVb+K2/udhxpinnaCpRI3QQ9K6ewgf9nlmEAtGOlXlK3zjwlcFi4IX0pGOMzeYAS3HKoVqm6dOHkYC0uerw41x9kTl54rkhAQYUbBmMGIU1mQac7tj/+HiR/e9+JCx3YkBhnEvyotMBpr1A8E2/iyC7J+YXOkdCYlDAgZA8hC7eIyg1E/0IAa2LwPTQx5sTD9yNX7wtZ1kVL7RvpWXXRMSW/l7/sEUj23bMFA2AZDyzOuzCyoreSVWeBLWy/IzjqwvX+V/+MLLf7rRiG7ay3rA14loQoJaqsqOUSYMrcRg9lkSbd3WDYiX3NksrGjnMflHg5vDQBzl6XzELu92s6wScaHnkU/ZybIcHnX4oI72kRikuXPUYygZHeaiJTSYak5ZW5AdnB4CceURYRRVOcrG/HUyWhYYy++PGq8pkP5+0XMk5noSHRZMA4RH4unGYWBaQaASVWmS24J9TwOV0e05hLJ7U1vTBFbwc9hNVV20Z5RoF4YE68y0BNlu5P3QvE+QTgkruH6w3sDA==;M9hLpmiX+ULiHwU9lrX+Gw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://cointelegraph.com/news/ibm-new-ai-chip-22-x-speedup-mind-b
 webUrl: "https://cointelegraph.com/news/ibm-new-ai-chip-22-x-speedup-mind-blowing-energy-efficiency"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 799
     isCached: true
+
+related:
+  - title: "IBM Unveils NorthPole AI Chip, Sets New Benchmarks in Speed, Energy Efficiency"
+    excerpt: "IBM has introduced its newest AI chip, NorthPole, which boasts remarkable processing speed and energy efficiency advances, reshaping industry expectations. Energy Efficiency Breakthrough: NorthPoles"
+    publishedDateTime: 2023-10-21T04:54:00Z
+    webUrl: "https://www.econotimes.com/IBM-Unveils-Groundbreaking-AI-Chip-NorthPole-Revolutionizes-Speed-and-Efficiency-1664741"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 50
+    images:
+      - url: "https://f1.econotimes.com/2023/10/xnha9zd9jb_th_1024x0.jpeg"
+        width: 1024
+        height: 614
+        isCached: true
 
 secured: "0/pI0mBxmLpXtIAulx+L9xi6/2EdSvO3aGzQm5Qj48FbzeYckmtOBr6do2431ZahGJFYQI7hANa7+sFa5RKi7CPO4L33iHbgpkiptdWe+b1aLQvLo8xPPSQFbbZCSqwvGMeC0+ZCQx2gLmxuobjFnkSePqF+2KbTmj17SAdDaxJBIxTy0gSEIyPTo1+o9ZHI4UGMvgywGsNado+HDrnHmbos3YM9HLn7zoNVsmwkDr8/dYt0uihBi9pJ21kGVOwEEGku8oZZMIXYdlr7Bf9fu7gSk0C3nUiWoEfSn9R5akPLDHnzKiQpsxn+L/2p3bfDJvjf102XCqcGaucaeNNYAaDj+CNm+1Rc9bnpVjIYXb5ho9pF3TD5eEz3CGy+GKDXn2yTmXy1xceIdsDYoMoeAw4zwcJKdOcMWQXc+R6ocnRfKc884eY+lict76Zwwk4hI1I0n6G7Fm1+HIp5nWQL1UpIX9QFE8Ve8vRrPRPz6TaFmWXQ/cB8AGvOq4pWsU30lLGLTmJkkTv7DnBLzuxBkg==;eecb1W3YSm0Ps1wQYi0wig=="
 ---

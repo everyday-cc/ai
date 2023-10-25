@@ -2,9 +2,9 @@
 category: news
 title: "AI-created child sexual abuse images ‘threaten to overwhelm internet’"
 excerpt: "Internet Watch Foundation finds 3,000 AI-made abuse images breaking UK law"
-publishedDateTime: 2023-10-25T03:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet"
-webUrl: "https://www.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet"
+publishedDateTime: 2023-10-25T03:51:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet"
 type: article
@@ -61,6 +61,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Wq2h3M1aIMSq8e4CBtoYvEz0C5yi/1I0rCPYz82KtDU1rcyy0S7CYDoMAkfjcpJMfbAeaudLUxuQS/ttWj2WbRYN+ho8+eczLzyT8Kud1LKoNdPp0TaDyI6Z2MGYVz/YWa3tkbgsusgHPv+ub9dCt20tks+uok5uJ4VXed5Hjckg3Lmpq5WHMsr9VXN8QWLqi7i8ntCB2jXgs2VdzIHmztgD8G1x2d55Z+ARNaXgnyRrQrU7OS7nJ/lupFUleajFgK/BLCXC77QPcaMoffq8FY4FbDI2Sw5lNg8UTHep2ADfDBTQjL6hpA1vqd4KTiG+JFh16FDJFG/7BWiKsTeqVT9vLuCHJL/yLH2buqfa9Xo=;iR93SpwyO3YSOqPuhpA5aQ=="
+secured: "hbV27FqWWRdaV71n2/aXyeRdU5x1ioE7yU4z0kTrkM1wtPCffJEry74SjoxFjKeGKWrfETg46vFcIkqgASeETkJK0oLIuy6Ok6nea6lAtTgeBXw7CmVpmXEvssHTGh+T+1K05eAyM9Lh4Ug+uhed7ASjS9iIBzmt5vySkA9/oXciGwn/FYpd7clPDTwpWqJSInu24y+Lj8lk5my2Vf3cNpk603sweYdStbMMqzqIiXKGb1nshXCqpM7ckWO27vhmy4UA4odjqDPYtCbqQx821JNDeXtBTzaMtR2lMPkMS4hphsAbG6A374OJujBwVpvEWLBowiQECJz3afTEyByPxJBKgmfL2b03/fosGDLUPNo=;MV//sBsqnITof8mGBLRJkw=="
 ---
 

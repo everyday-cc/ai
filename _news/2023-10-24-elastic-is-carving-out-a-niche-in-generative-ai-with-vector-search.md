@@ -46,20 +46,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Generative AI could be the next frontier for smartphone chip design"
-    excerpt: "Generative AI is the hot trend in the smartphone space at the moment, and this tech is shaping 2024's mobile hardware."
-    publishedDateTime: 2023-10-20T14:00:00Z
-    webUrl: "https://www.androidauthority.com/smartphone-hardware-adapt-power-generative-ai-2024-3373668/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 84
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/02/Stable-Diffusion-Qualcomm-Doggo.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "The AI-Generated Child Abuse Nightmare Is Here"
     excerpt: "Thousands of child abuse images are being created with AI. New images of old victims are appearing, as criminals trade datasets."
     publishedDateTime: 2023-10-24T23:01:00Z
