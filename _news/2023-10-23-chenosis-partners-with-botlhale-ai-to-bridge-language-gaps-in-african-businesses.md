@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-23T06:27:00Z
 originalUrl: "https://africabusinesscommunities.com/tech/tech-news/chenosis-partners-with-botlhale-ai-to-bridge-language-gaps-in-african-businesses/"
 webUrl: "https://africabusinesscommunities.com/tech/tech-news/chenosis-partners-with-botlhale-ai-to-bridge-language-gaps-in-african-businesses/"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
 images:
   - url: "http://adserver.20nine.nl/www/delivery/avw.php?zoneid=85&n=238f97b"
@@ -24,6 +25,6 @@ images:
     height: 280
     isCached: true
 
-secured: "/VC+l1IeoAB2vE1TR40DF0/3kYnkmsEoWT+E2YxqM5b44XyC1PJN1QCaxVWCWBnBvv9Fa26KyQcu9Qo/Ludb46D+DdDdvWya9ymkgWZ6pv2IaW379aYdJ1P2kjTT74kOfkTShMFKPQxUjY85NboeCASSF3H779FyqECeI19On+pN4fLuH4G3eB5+Exd6dKmdCBfl4PvpduJ/4z7phgkFKr/1QN933+OtpmQ0T3l67AbYAGP6klOfzVYWKcWSqBAIy9YRX54joNTlF3n3IEDcutg+oxSCMNRVozzGKcZQHiog9QBnj15i2Pgk1MSaoaGmVl4rj/oKd/hBLvlAKTws4xaSw9VUVhklxb44FzJE1n0=;ydjWaU7UeFke+Sq9wlB8AQ=="
+secured: "D738TKnSsrNZw/Q7qX8x8NawrtWoUbHI+6ftCRQg8eA2CkzJDaartv150UPQz4NbqlyIyXXHOPtKsuSD7sohz8LOQqwFNOaQdBHk77zLFZXtYVMUi9R7R6U6fRkddo9/CcQ8y7q6Qb9FOAvGC5V4KzK41BN98xxXZo44TqO+Vs5jKGqUwLzEZ0RSWVrgiAeM6ACNMX9yOEUTfh6u066vOjM2QzA1KOSx6LQjo011tfr9tmGmilN1gzZ30z5N8H4RufNAYVLh+htEbtBcAsXu+TzQWF46aVMK0dHzdQfhsx8qpwp7UUoNec2nEMHetWBby78QPJfS2fzY0SSHmUSDAvxJeljmNdhvar5Wby8AI9ZEjJCMMMTuu7gJsYlKex0XKhgJflkXynmTt3djZgRv5yJWPxMAX7oUgH9W5DnquZ4ql9b37lNJscZNVpEUQOTbA32FGGlkoSmQaBG468i70FJ79U99uZxW50UseqJKEfq1TfjYJXiEz/71N1Wje/fcnqHxj9ddxvrOzHFAJdnlLg==;eWxTNTPq5vO5Gv1Yjk0Ciw=="
 ---
 

@@ -143,6 +143,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "Qualcomm's New Snapdragon Elite X Chip Aims to Surpass Apple's Mac in AI Capabilities"
+    excerpt: "Qualcomm provided details about its latest chip designed for Microsoft Windows-based laptops. The company promises this chip will outperform Apples Mac chips in certain tasks. The Snapdragon Elite X chip,"
+    publishedDateTime: 2023-10-25T08:50:00Z
+    webUrl: "https://www.econotimes.com/Qualcomm-Unveils-New-Chip-for-Windows-based-Laptops-Claims-Superiority-over-Apples-Mac-Chips-1664945"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 47
+    images:
+      - url: "https://f1.econotimes.com/2023/10/s88xpux647_th_1024x0.jpeg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "The Snapdragon X Elite is Qualcomm’s new Windows chip built for AI"
     excerpt: "Qualcomm has been doing nothing but perfecting its approach to developing quality SoCs and processors for smartphones and computers."
     publishedDateTime: 2023-10-24T19:01:00Z

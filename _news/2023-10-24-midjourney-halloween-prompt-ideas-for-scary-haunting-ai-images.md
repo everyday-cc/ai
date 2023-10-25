@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/midjourney-halloween-prompt-ideas/"
 webUrl: "https://www.geeky-gadgets.com/midjourney-halloween-prompt-ideas/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 480
     height: 360
     isCached: true
-
-related:
-  - title: "Midjourney Releases Huge New AI Art Feature"
-    excerpt: "Midjourney massively increases the resolution of its AI-generated images, with the option to upscale images to 4K"
-    publishedDateTime: 2023-10-20T15:56:00Z
-    webUrl: "https://www.forbes.com/sites/barrycollins/2023/10/20/midjourney-releases-huge-new-ai-art-feature/"
-    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/10/20/midjourney-releases-huge-new-ai-art-feature/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/10/20/midjourney-releases-huge-new-ai-art-feature/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6532a227997a8dfb9491fb37/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1404
-        height: 900
-        isCached: true
 
 secured: "SDxou+QzxwuuQVZBEWqdAGERWVL0eZZX2mbUnZiQAG45YtxENhj+hWyRJEvAwdKPdPl/aVOrWg4MQT+ZrLWaNWC/3Xev/prVK5iv61Z4xUMak+2bOIzkh6QBG52QWjLfPiEM+rp6JSnmLSr3Bhf4tUdS4G859OCmIF+Ax9ZYXwVB9kv6AxEFlVBJmCM6u4PHeSZQUKBy2wezbngObJXM+Me6RmkKLt+zUrrZN6PVav4CXaqrAFv0ajzcyfjE52N+phwRV3Bs3bbqXPnVyke4i9ecMTyL8N8ATE1LRyFlDWXNyv51ubOlvtTJy+Y8bG+cK7dsgXQ7ag2hGs0/HC5jVK+ROaksQcAB7lKSftl+9Qw=;avQjYhr+HH0QPF7SdLTSEw=="
 ---

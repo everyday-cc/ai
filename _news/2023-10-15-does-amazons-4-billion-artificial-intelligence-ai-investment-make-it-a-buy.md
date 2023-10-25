@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 related:
   - title: "Does Amazon's Artificial Intelligence (AI) Investment Make It a Buy?"

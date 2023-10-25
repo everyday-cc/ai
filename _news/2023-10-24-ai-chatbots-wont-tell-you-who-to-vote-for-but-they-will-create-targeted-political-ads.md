@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/rashishrivastava/2023/10/23/ai-chatbo
 webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/10/23/ai-chatbots-wont-tell-you-who-to-vote-for-but-they-will-create-targeted-political-ads/"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -101,15 +101,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 19
-  - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
-    excerpt: "Stanford School of Medicine researchers have discovered that popular chatbots are responding to questions using race-based, debunked medical ideas."
-    publishedDateTime: 2023-10-20T16:11:00Z
-    webUrl: "https://thegrio.com/2023/10/20/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 7
 
 secured: "4x2xr8kbGUayZBZUYD3tqDPvH3rH3B3E+EKJAO8OSeYq0Yov4Jq18ob3jCcHx5lT8gWHWEE/tGL86AyZHwAgOcQB1TPdDB2lbzLo11Yc3JHWgDfLYAOKTp+TYPmiA+tk+nn/0Rk+3LKNRj+8ES1GcvOb6pZi9iAHNFVWmpS5sl8BAvf7bR6DGL4to/0JFWo5EhfIWt7lPbPibk98SvE7ezF3SZUQwTpj8jJA7llAFXm5L40VIn+QWh5X8LzXgD8UHw+zoAj9oelXt6mLXoGTWiyb68yJkKE3IsbuAJKK3M7LHmmzGK34A3Ua/79s3/AjrquUuTOnA85QKg1zwFOW1yFXZgCzJTMd+FELcTQUkSA=;QYW5QvfxXVfRvmO16h+qUQ=="
 ---

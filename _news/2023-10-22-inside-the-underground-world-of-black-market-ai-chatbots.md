@@ -97,15 +97,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 19
-  - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
-    excerpt: "Stanford School of Medicine researchers have discovered that popular chatbots are responding to questions using race-based, debunked medical ideas."
-    publishedDateTime: 2023-10-20T16:11:00Z
-    webUrl: "https://thegrio.com/2023/10/20/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 7
 
 secured: "O8fMCUdSKLxV/1c+VLWHVvh064uwKnxJmd2T8M/qt0gZyGWKgrq7cxli80kKC49wQbXzjoMVa8Dm1XuOVCr6t9qPpZXZMFPEDL74Bc8OSaObhREPjYyIORHQ3+4pw+Md2zz4U00iPsrDfU27sUu7cYbiW3ZcIvAJkXdwInIv9JVn7ta2VDRAcnd+hsMo+QfICLGUY17vh91R8pA1EsERP1SpvDe9IoQ/V0XiU49ZNPBCofOu5/WoMrWEN9aomIdnxE2F+5sdofuOtv2dke+FnPI6pTSyf9B4b9Q+zNu9dfmZ44QL8201zS+j3cRUsF1TcCxEK3kKT8DoI0Wn3wwDySO2kCRWE23ziB0R+TQkQnDUoYjtGONvyYxaH8G5ddfu0EFDKuEhTd3dWvcsEVjrOgEjZPFQKci/6iezqPKLTass7P4ZLeGis++vxF8umoT2PHF++a+O13QZmkKPak3/8VaZ0QEc4u2LE6BK8b9SGWEGlGAV7O5iWlJCM43S92N0IQSQDS8bjIEtnh/kt2Iq2w==;KLPPQSC4odFo2Fe533sj2g=="
 ---

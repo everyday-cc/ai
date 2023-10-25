@@ -97,15 +97,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
-    excerpt: "Stanford School of Medicine researchers have discovered that popular chatbots are responding to questions using race-based, debunked medical ideas."
-    publishedDateTime: 2023-10-20T16:11:00Z
-    webUrl: "https://thegrio.com/2023/10/20/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 7
 
 secured: "fKwHsTKHuOy2GF2RS33qcNiNEqKiveTW6MvZfHiq6EswmQY82OkkT9VrCzAMzcniP9aFds+iu6zeBbHd+2rrxukmPKszodB2aCa1laTfI50xZwyxAN2Jw4zPe8IEH8Fjapxtb/xu1wsKMANosI1tEeJUZ7jLX8cIf0su93vme46rvdTvl3G4iRpwtkJGe/iCAcmWTXUqe4iiFbIiablc/6mfTVlTGjuSXPyzHDTcFt4XQX9Xs/Gvbo0IN26Hw8WPKe9ZtB8cRIKRDGgiGPh+tRGzVlCC4iks1Faa8Qar/MUY6Vq2pkU5o8sjaNCmzlmA3srsb7ZD9cHKXrRHFPcSqCjYYcn/d0k1zZufsJXIXlbs130YspDjnqkQsuGgWBSR/0T3Sf2RF3c+sWVbRcS6fBQHNcg9FtEqCJsEaKVDH/6mxpHHen2cIzg90RqXWSB9FQdFmz70mRDLgoiB2OmOcfj3XWI0Jf7CthGwMY85UvCgne1pumGoOTsayXSKaRsXdRsD7L+45eN5F2RLDkd+Cw==;9pwvjsDmzLV7HQR9ZMNSgA=="
 ---

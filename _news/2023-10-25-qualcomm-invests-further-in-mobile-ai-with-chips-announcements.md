@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-21114
 cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-211140974.html"
 type: article
 quality: 74
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -132,6 +132,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "Qualcomm's New Snapdragon Elite X Chip Aims to Surpass Apple's Mac in AI Capabilities"
+    excerpt: "Qualcomm provided details about its latest chip designed for Microsoft Windows-based laptops. The company promises this chip will outperform Apples Mac chips in certain tasks. The Snapdragon Elite X chip,"
+    publishedDateTime: 2023-10-25T08:50:00Z
+    webUrl: "https://www.econotimes.com/Qualcomm-Unveils-New-Chip-for-Windows-based-Laptops-Claims-Superiority-over-Apples-Mac-Chips-1664945"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 47
+    images:
+      - url: "https://f1.econotimes.com/2023/10/s88xpux647_th_1024x0.jpeg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Meet Snapdragon X Elite: Qualcomm Touts Big AI, Compute Gains on Arm Laptop CPUs"
     excerpt: "Qualcomm's flagship next-gen processor for laptops, based on a new CPU core, looks to be a high-performance efficiency monster—if you believe the hype. We'll be checking it out this week at the company's annual Snapdragon Summit."
     publishedDateTime: 2023-10-24T19:06:00Z

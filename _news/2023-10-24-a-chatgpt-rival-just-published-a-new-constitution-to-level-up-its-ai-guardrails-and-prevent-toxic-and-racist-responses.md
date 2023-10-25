@@ -123,6 +123,20 @@ related:
         width: 1280
         height: 717
         isCached: true
+  - title: "What’s Up with ChatGPT Enterprise"
+    excerpt: "Just a year post-launch of ChatGPT, Salesforce, Morgan Stanley, and Wix, who were its early customers, have decided to explore other options."
+    publishedDateTime: 2023-10-25T08:13:00Z
+    webUrl: "https://analyticsindiamag.com/whats-up-with-chatgpt-enterprise/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/gpt-1.gif"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Two friends built Dh600 AI start-up using ChatGPT, sell it for Dh550,000"
     excerpt: "Two budding entrepreneurs and friends took help from ChatGPT and built a start-up with just a modest investment of $185 (Dh600), reported CNBC. The two mad.."
     publishedDateTime: 2023-10-23T13:38:00Z

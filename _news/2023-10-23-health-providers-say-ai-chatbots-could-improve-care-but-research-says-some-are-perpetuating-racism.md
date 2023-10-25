@@ -21,20 +21,6 @@ topics:
 related:
   - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
     excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records. But a new study led by Stanford School of Medicine"
-    publishedDateTime: 2023-10-20T15:13:00Z
-    webUrl: "https://kdhnews.com/living/health/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some-are-perpetuating-racism/article_a415445f-ecb8-5c3e-a141-c6c3ff69ba34.html"
-    type: article
-    provider:
-      name: Killeen Daily Herald
-      domain: kdhnews.com
-    quality: 25
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/7/87/787e434c-798b-58a5-9384-ed40c3aa583e/653243805240e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records. But a new study led by Stanford School of Medicine"
     publishedDateTime: 2023-10-20T18:44:00Z
     webUrl: "https://www.news8000.com/news/national-world/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some-are-perpetuating-racism/article_9509082c-2a5a-5d34-89f6-3c10c18c79db.html"
     type: article

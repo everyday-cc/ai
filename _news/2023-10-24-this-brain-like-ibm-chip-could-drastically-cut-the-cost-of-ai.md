@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/?amp=1"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM works out how to boost AI chips"
+    excerpt: "NorthPole inspired by the brain  A brain-inspired computer chip that could supercharge artificial intelligence by working faster with much less power has been developed by researchers at IBM. Biggish's Blue's huge NorthPole processor chip eliminates the need to frequently access"
+    publishedDateTime: 2023-10-23T10:22:00Z
+    webUrl: "https://www.fudzilla.com/news/57810-ibm-works-out-how-to-boost-ai-chips"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 58
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/103470178e8a8c3106f52079f8bf69c0_L.jpg"
+        width: 620
+        height: 496
+        isCached: true
   - title: "IBM's Brain-Like Chip Reshapes The AI Industry"
     excerpt: "IBM's new NorthPole chip has gained attention for its ultra-fast AI image recognition capabilities. HONG KONG, CHINA, October 23, 2"
     publishedDateTime: 2023-10-23T08:54:00Z

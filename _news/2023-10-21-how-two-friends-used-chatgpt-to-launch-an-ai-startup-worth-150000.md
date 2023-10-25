@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp"
 type: article
 quality: 57
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/How-to-build-a-speaking-AI-assistant-using-Node.jpg"
         width: 1280
         height: 717
+        isCached: true
+  - title: "What’s Up with ChatGPT Enterprise"
+    excerpt: "Just a year post-launch of ChatGPT, Salesforce, Morgan Stanley, and Wix, who were its early customers, have decided to explore other options."
+    publishedDateTime: 2023-10-25T08:13:00Z
+    webUrl: "https://analyticsindiamag.com/whats-up-with-chatgpt-enterprise/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/gpt-1.gif"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "A ChatGPT rival just published a new constitution to level up its AI guardrails, and prevent toxic and racist responses"
     excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Anthropic AI, an Amazon-backed AI startup and rival to OpenAI, has taken a democratic approach to governing its artificial intelligence. The firm, which is behind the ..."

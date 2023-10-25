@@ -42,6 +42,20 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "IBM works out how to boost AI chips"
+    excerpt: "NorthPole inspired by the brain  A brain-inspired computer chip that could supercharge artificial intelligence by working faster with much less power has been developed by researchers at IBM. Biggish's Blue's huge NorthPole processor chip eliminates the need to frequently access"
+    publishedDateTime: 2023-10-23T10:22:00Z
+    webUrl: "https://www.fudzilla.com/news/57810-ibm-works-out-how-to-boost-ai-chips"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 58
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/103470178e8a8c3106f52079f8bf69c0_L.jpg"
+        width: 620
+        height: 496
+        isCached: true
   - title: "IBM Unveils Super-Efficient AI Chip 8 Years in the Making"
     excerpt: "IBM has pulled the wraps off an entirely new chip architecture it says will allow systems used for AI-based workloads to scale while also being extremely energy efficient. It calls its new chip NorthPole,"
     publishedDateTime: 2023-10-24T12:15:00Z

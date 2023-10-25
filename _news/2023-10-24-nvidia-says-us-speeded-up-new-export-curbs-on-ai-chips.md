@@ -70,6 +70,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "US orders immediate halt to some AI chip exports to China, says Nvidia"
+    excerpt: "Fellow tech company Intel ‘reviewing regulations’ as timing of move brought forward"
+    publishedDateTime: 2023-10-25T06:19:00Z
+    webUrl: "https://www.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
+    ampWebUrl: "https://amp.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 74
+    images:
+      - url: "https://i.guim.co.uk/img/media/3117a589c220d76167672d9a42ee95b19ace16b0/43_260_5272_3166/master/5272.jpg?width=620&quality=85&auto=format&fit=max&s=3ed10f47bd5f463494e7bd3d583d1ef9"
+        width: 620
+        height: 372
+        isCached: true
   - title: "New Nvidia AI agent, powered by GPT-4, can train robots"
     excerpt: "Nvidia Research announced today that it has developed a new AI agent powered by OpenAI's GPT-4 that can teach robots complex skills."
     publishedDateTime: 2023-10-20T20:00:00Z
@@ -116,15 +132,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Nvidia is still the darling of Wall Street analysts, despite new AI chip restrictions. But for how long?"
-    excerpt: "Investors have dumped Nvidia (NVDA) stock aggressively in response to tougher U.S. restrictions on the export of artificial intelligence chips to China."
-    publishedDateTime: 2023-10-20T17:03:00Z
-    webUrl: "https://www.cnbc.com/2023/10/20/nvidia-is-still-the-darling-of-wall-street-despite-new-ai-chip-rules.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 47
   - title: "ANALYSIS-US chip curbs give Huawei a chance to fill the Nvidia void in China"
     excerpt: "While Nvidia NVDA.O has historically been the leading provider of AI chips in China with a market share exceeding 90%, Chinese firms including Huawei have been developing their own versions of Nvidia’s best-selling chips, including the A100 and the H100 graphics processing units (GPU)."
     publishedDateTime: 2023-10-23T00:00:00Z

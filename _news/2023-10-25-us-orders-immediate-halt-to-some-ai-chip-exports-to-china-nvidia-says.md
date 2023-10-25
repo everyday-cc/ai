@@ -59,6 +59,22 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "US orders immediate halt to some AI chip exports to China, says Nvidia"
+    excerpt: "Fellow tech company Intel ‘reviewing regulations’ as timing of move brought forward"
+    publishedDateTime: 2023-10-25T06:19:00Z
+    webUrl: "https://www.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
+    ampWebUrl: "https://amp.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 74
+    images:
+      - url: "https://i.guim.co.uk/img/media/3117a589c220d76167672d9a42ee95b19ace16b0/43_260_5272_3166/master/5272.jpg?width=620&quality=85&auto=format&fit=max&s=3ed10f47bd5f463494e7bd3d583d1ef9"
+        width: 620
+        height: 372
+        isCached: true
   - title: "New Nvidia AI agent, powered by GPT-4, can train robots"
     excerpt: "Nvidia Research announced today that it has developed a new AI agent powered by OpenAI's GPT-4 that can teach robots complex skills."
     publishedDateTime: 2023-10-20T20:00:00Z
@@ -105,15 +121,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Nvidia is still the darling of Wall Street analysts, despite new AI chip restrictions. But for how long?"
-    excerpt: "Investors have dumped Nvidia (NVDA) stock aggressively in response to tougher U.S. restrictions on the export of artificial intelligence chips to China."
-    publishedDateTime: 2023-10-20T17:03:00Z
-    webUrl: "https://www.cnbc.com/2023/10/20/nvidia-is-still-the-darling-of-wall-street-despite-new-ai-chip-rules.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 47
   - title: "Nvidia Says U.S. Speeded up New Export Curbs on AI Chips"
     excerpt: "(Reuters) - Chip designer Nvidia said new U.S. export restrictions blocking the sales of its high-end artificial intelligence chips to China had gone into effect on Monday after regulators advanced the timeline on the curbs from its 30-day period."
     publishedDateTime: 2023-10-24T13:25:00Z
@@ -165,6 +172,6 @@ related:
       domain: bizjournals.com
     quality: 33
 
-secured: "SaS5sIk4cwmp9bAfuPWRlEDsJ66OXEW22U3nXfuhIzg17NqQ8KpMFxVb6B9Eros0UzXINvcS+wOoGBxKn+spPXueM3/B0qENDd80YuaxCbMJbqPSdIPF0xMU2OmcWRc/METkA7BlE9TRdsVdQ0JTuk4QQn/XRWEuFngySmgz0vYIXV24nNcPY+mMAyIYjbjIlgcx9llI/o+CxbwytlV5WeEmd+OiY8QLxDLwc/MPZE0QLDtxbHcLg+G4jzXL6EXWrlVXPwWjxAl2i+YVLh4g+Z5unaFMz0HH6RVzQUetW6PyIImM8QNCIRLuFELwy9q+ApHt9xxSm9X40CbpSoxvCIHyQ0uz9zARDZKaIRCiFbU=;RJj5GmXvvN+HiYrLXWdq5Q=="
+secured: "IAz5q2lfReP4lJOIyZoRvMLefpn1DhfQGBPaIf2lv5gVs6hsOUDra4OSFLu4RvmKKKUVFB2kPEjOrJHd1bDZ7SItQNy8B6goN4ZFUs03Fdd4GN3vf00+XYVKLvstNzDbHo6Qlxa40Zi3IRA6566IKYJX3zh4R815PcxKXM9faR17AS+OVtJtZhTjF05dWZI899ozQdbxa2why0Jqi1eb92u8R/O1OoAuwCnoQGxCLqPmCaam4TtKWcwBH69Nb97yFwcOxFU939r035TTSFTnnRPWK2zUGKPpg+bwXHsny4q9Rxtw5GJd/DbmfcCuCbqID8eBfl/3EbB4A3zCRU3pl6FZVQHXcMxfWD/RFZW5/2zWMQJqruN01JdI9n95W9mD2xTuVpIidU0WQrS7wKHLDRsKXD+u3HcXxjBUFBQ/DJIX4BEbhtGVM/eCe2N/0prBKvl4wJJgiT0bQmx4ivjrT50Qc2YS+5TIZQ6ehl+OaZMBQFL57t12L+D0H/k9Jei1obAo3Ti92Ja36MRGVPyiLA==;ifANkvtZU/NYoOYlN2IPxQ=="
 ---
 

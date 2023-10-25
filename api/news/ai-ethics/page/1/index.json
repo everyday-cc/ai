@@ -351,22 +351,22 @@
       ]
     },
     {
-      "path": "_news/2023-10-23-ensuring-fairness-of-ai-in-healthcare-requires-cross-disciplinary-collaboration.md",
-      "title": "Ensuring fairness of AI in healthcare requires cross-disciplinary collaboration",
-      "excerpt": "New perspective argues pursuing fair AI for healthcare requires cross-disciplinary collaboration to translate methods into real-world benefits.",
+      "path": "_news/2023-10-22-keeping-a-human-in-the-loop-managing-the-ethics-of-ai-in-medicine.md",
+      "title": "Keeping a human in the loop: Managing the ethics of AI in medicine",
+      "excerpt": "Increasingly used in medicine, AI raises both hopes and concerns. An international task force has laid out recommendations to ensure AI medical devices help patients and avoid worsening health inequity.",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/10/231020105613.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/10/231020105613.htm",
+      "webUrl": "https://www.sciencedaily.com/releases/2023/10/231020105631.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/10/231020105631.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-22T14:28:00-07:00",
+      "publishedDateTime": "2023-10-21T16:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Science Daily",
@@ -390,8 +390,7 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {

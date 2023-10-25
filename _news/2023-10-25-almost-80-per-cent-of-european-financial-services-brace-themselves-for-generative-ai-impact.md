@@ -26,14 +26,21 @@ images:
 
 related:
   - title: "Amazon Web Services to Launch AWS European Sovereign Cloud"
-    excerpt: "As with existing AWS Regions, customers will have the control and assurance that AWS will not access or use customer data for any purpose without their agreement, as well as access to the strongest sovereignty controls among leading cloud providers."
-    publishedDateTime: 2023-10-25T05:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-amazon-web-services-launch-aws-european-sovereign-cloud-/2023/10/25/9904788.htm"
+    excerpt: "AWS European Sovereign Cloud will be a new, independent cloud for Europe that gives customers in highly regulated industries and the public sector further choice and flexibility to address evolving da"
+    publishedDateTime: 2023-10-25T05:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/b35408217/amazon-web-services-to-launch-aws-european-sovereign-cloud"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35408217"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35408217"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "Wl4EM/05IdVc9ZgJ/o+v8ePm/3dq/zblD83U+arHWD2KZsqbjdems1ceIGWGAOIw1n4C6rYT6IVy/34p91sgVS5YlGTyzXersvyZ+FckPfPZtBCezRXBH5hGV1HSII7bFyCoSfS/C7t+7BoJMmX2F56dpJcuoBpiCdSgLP8bsq5VrsFT/c5AIqzUOmyYM3RAoy/0WTlXvG4c5kxhOrGcFk8aIrkgn7OKfA9IB/MK28SKxi0oAxKYnqOk9Yo+KGCXw5WqW53FnFC5evmKmCvOqBTbGTA4Kp+C+ghUdkieK874P/REsqhTAnqeiprWj4moRdpoCcbXtkG7kEyofA6sMvsSmqhgeuTV4/UIdSi4Xvg=;Refzk0AXLuVROVBphTZ7uA=="
 ---

@@ -3,20 +3,26 @@ category: news
 title: "Music Publishers Sue AI Startup Over 'Widespread' Copyright Infringement"
 excerpt: "Universal Music filed a lawsuit against AI startup Anthropic over \"systemic and widespread infringement of their copyrighted song lyrics.\""
 publishedDateTime: 2023-10-20T20:15:00Z
-originalUrl: "https://www.stltoday.com/life-entertainment/nation-world/music/music-publishers-sue-ai-startup-over-widespread-copyright-infringement/video_895a2147-4724-55ee-918b-004520cf4415.html"
-webUrl: "https://www.stltoday.com/life-entertainment/nation-world/music/music-publishers-sue-ai-startup-over-widespread-copyright-infringement/video_895a2147-4724-55ee-918b-004520cf4415.html"
+originalUrl: "https://omaha.com/life-entertainment/video_9edebfb2-91cf-5418-9602-12939a471745.html"
+webUrl: "https://omaha.com/life-entertainment/video_9edebfb2-91cf-5418-9602-12939a471745.html"
 type: article
-quality: 16
-heat: 16
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI
 
-secured: "P5n6aboYzkGs54hekO0t7XHacACQLlOYz8+GAcSXDMm/UdSs3qTosL8+wYlgD1Jr9TC3PgMxOQOgrPHq409hR+OAqTrup+6eJBRrjd695U5y6YXZax8aYm5iwMeMCbf9M3gEiNySD76wkwDlxTNgWNpYAZmkpM4YXJcjneDLmn6274KS/V0X0VDyWgRjgXDxztk+hd64XyAQVgNgna/hg97yikSf/LcX8OT6Vc/t0FmrYs2F4oGEWDwE+xGCbjxR7CNfhVHOzRP+ccY5WvaH5r421/4TS4/OtEel2GlpsYD144RF5+2KBsIlG+uBWpnDzhS9YSwBOp0Aa6Os8D03F+J2EDB7/PZ+g+19OqOXGKfhxbQ9KJqVLestNAEqDbJn2YhcX3uCMRPYbuwWZSeJGGXzDqju7+W5d4Wv7p2jvvsonGJIIsLkeoHLm3F5LwJU96Br3P/19+Q7Nl8uv01PICuLFDz5MuIQPhRpqGjAwsj/z1lMZQbnxcystsjP0H6V+iXaqyZA9amtJMr01VlFFA==;CSV9migQXtYsYKnyJ6hy2Q=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/ed/9edebfb2-91cf-5418-9602-12939a471745/6532a7ae0d29a.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "NC4iQHUlBDa8R0jL7NgIzbZBuyoOCOdS5sqx+aUmBTlED7DDw4tKFraovbKL3DRYFd4vjum3uvyUNZagtVHDpMJaA0JX4yTa+6IqTtZiJXkOnHiIIcEX9fjVoZkzSB5g+uP9qYTdpapX2uZyL/acLXnhjG+QI5o9Wp+c5MR/McUrsX7IzuzbED3gtHLum4sSwLF7zqXeD2UzJrNLUhISxMqf+3yLcxzJgZeeCN7awg22M6QnQ9bkTYRaqqzcCMejkqUNPIkvEtTFuePIn5FUryq0v05NF80mvHNsUpyJ0N98h59JWJXYjZ/Kr9yHQZOH3t9NZs4ytFtH8Q1U8l2KrG6TAKKSfW1iANQavE4hJMU=;+6yHbwIse0qlFrbH/ZCaDA=="
 ---
 

@@ -1,0 +1,34 @@
+---
+category: news
+title: "Breast cancer breakthrough: AI predicts a third of cases prior to diagnosis in mammography study"
+excerpt: "Artificial intelligence predicted one-third of breast cancer cases prior to diagnosis in a new study from Norway. Experts weigh in on how this could impact the future of cancer care."
+publishedDateTime: 2023-10-25T09:30:00Z
+originalUrl: "https://www.foxnews.com/health/breast-cancer-breakthrough-ai-predicts-third-cases-diagnosis-mammography-study"
+webUrl: "https://www.foxnews.com/health/breast-cancer-breakthrough-ai-predicts-third-cases-diagnosis-mammography-study"
+ampWebUrl: "https://www.foxnews.com/health/breast-cancer-breakthrough-ai-predicts-third-cases-diagnosis-mammography-study.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/breast-cancer-breakthrough-ai-predicts-third-cases-diagnosis-mammography-study.amp"
+type: article
+quality: 74
+heat: 74
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b958b3a6-465c-4c29-8487-1765b643f1cb/abb17cca-3860-450a-9b48-16cbd58eb925/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "zNaf9ANhoPksgpF6UrRTrX8Apz/LUDmFFtldHS8lqGJmdZ5MxlGjZKnwBdqf8cJEY6wCDemo54Sf4ysCWLZkhzJfgSBzCUaDfN0JK3FBNImwedA+NDst6dclCOd0K62wIWBrsltkOwG9X5S6pVBLRijuwQyTike7KwjWGJqhgXiR54Z7hpLSYO/pLs/kI1EqOBa7Gsb09WwI43vdzM9LAjRrhVBTFunYKhvl+Gj6ZYq1KdwB7kMesBbWwm2KaopoaB3MgHKrYDNs53EW+aWMUaCQlusYEisEPSwKalEBoHZSg4ZjhQcIOnsTAkKt9OidX3FbllgKgShGMSmmK3EjNgsmx5iYuGvbZy8yGzlj9Wc=;/NA0Xcde0oLj+RJ92nRcAw=="
+---
+

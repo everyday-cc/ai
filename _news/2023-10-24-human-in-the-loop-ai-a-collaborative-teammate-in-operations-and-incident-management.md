@@ -88,6 +88,15 @@ related:
         width: 1353
         height: 900
         isCached: true
+  - title: "What CIOs and CTOs should consider before adopting generative AI for application modernization"
+    excerpt: "Explore why human resource departments should be at the center of your organization’s strategy for generative AI adoption.\nThe post What CIOs and CTOs should consider before adopting generative AI for application modernization appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-25T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/what-cios-and-ctos-should-consider-before-adopting-generative-ai-for-application-modernization/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 87
   - title: "FEDML Nexus AI: The Next-Gen Cloud Services for LLMs and Generative AI"
     excerpt: "FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML Nexus AI, offering the next generation of cloud services and platform for generative AI.This press release features multimedia."
     publishedDateTime: 2023-10-24T12:25:00Z
@@ -166,20 +175,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "Nvidia generative AI-focused DGX Cloud launches on Oracle Cloud"
-    excerpt: "Nvidia's DGX Cloud supercomputer is now available in the Oracle Cloud Marketplace. Oracle customers will now be able to access the Nvidia DGX Cloud AI supercomputing service for training generative AI and other workloads,"
-    publishedDateTime: 2023-10-20T16:55:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-generative-ai-focused-dgx-cloud-launches-on-oracle-cloud/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 41
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/explore-dgx-h100-1cc-d.2e16d0ba.fill-1200x630.jpg"
-        width: 850
-        height: 448
-        isCached: true
   - title: "With Generative AI Advances, The Time to Tackle Responsible AI Is Now"
     excerpt: "In 2022, companies had an average of 3.8 AI models in production. Today, seven in 10 companies are experimenting with generative AI, meaning that the number of AI models in production will skyrocket over the coming years."
     publishedDateTime: 2023-10-20T17:09:00Z

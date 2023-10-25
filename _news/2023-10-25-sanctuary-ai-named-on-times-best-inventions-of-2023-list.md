@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/sanctuary-ai-named
 webUrl: "https://markets.businessinsider.com/news/stocks/sanctuary-ai-named-on-time-s-best-inventions-of-2023-list-1032734498"
 type: article
 quality: 71
-heat: 71
+heat: 91
 published: true
 
 provider:
@@ -28,6 +28,36 @@ images:
     width: 266
     height: 400
     isCached: true
+
+related:
+  - title: "5 Best AI Video Generators 2023"
+    excerpt: "or $23 billed monthly Synthesia is a leading generative AI startup that helps users transform text scripts and instructions into videos. The solution is particularly well-known for its AI avatars: Users can choose between more than 140 AI avatars — or ..."
+    publishedDateTime: 2023-10-24T16:37:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/best-ai-video-generators/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/10/ew_20231018-best-ai-video-generators.png"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "Stable Audio AI music creator makes TIME Best Inventions of 2023 list"
+    excerpt: "Stable Audio, a product of Stability AI’s generative audio research lab, Harmonai, leverages this technology to generate high-quality, 44.1 kHz music for commercial use. The model is conditioned on text metadata, audio file duration, and start time ..."
+    publishedDateTime: 2023-10-25T08:11:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-music-creator/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Stable-Audio-AI-music-creator.jpg"
+        width: 1280
+        height: 717
+        isCached: true
 
 secured: "hR1JFcrBJtQb88UvTyWrpwPavjchjqNmaEeSNFv9uvatfWKkL4L167EjcUYfRNjSOYdg3MDZ6+0gp91jdxSZPbiKVX3lup5sIvU8LkEHavJNeuzsWQ89mgxpWdQlwJQuXwt4tmoLB46XgxMSZ84m/OTjkR57w8FJ81n2XeFdP3bxa4xZqUWZnvT5yXQwsEpzdcXmuVrrAlduKEXZftUYWQP4PZkE1frbJPwWyyeJ+l4bM7XsdPeC0V7SyK765H6PiFFCTMHGSC1Q5hIjnyaUWBOLvb8HnpvmRQo+rpyzqK5XbC/TolviNkK1El7dyJosBxdeJYhoW/szEjA6MH95ubtM9RfT8yD9LQm5HV6GTumMOtjMF4lKw+6fVbhN8O51VkLMJJ4AqLrkI00hBTCMbdjPqu1+yabRD01Ow21CPhOiFDXUADVNmmV+lx8tBG0+dOZcQq8E2XrO91xxaFR1nSHpgYUyc5iefbDZklTBLVKuQizkQuBYw61Yg3w0kSksrMDBM+YgynVfFrIXDB7kgw==;IGVfrn2r23ednGZneRIuXA=="
 ---

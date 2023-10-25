@@ -27,75 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "How to choose the best AI platform"
-    excerpt: "AI platforms drive a range of benefits for your business, such as increased automation, scale, security and more.\nThe post How to choose the best AI platform appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-20T15:27:45Z
-    webUrl: "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/"
+  - title: "This Brain-Like IBM Chip Could Drastically Cut the Cost of AI"
+    excerpt: "The brain-like chip triumphed over state-of-the-art GPUs in several head-to-head tests while using up to 96 percent less energy."
+    publishedDateTime: 2023-10-24T14:00:00Z
+    webUrl: "https://singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/"
+    ampWebUrl: "https://singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/?amp=1"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "5 Best AI Video Generators 2023"
-    excerpt: "or $23 billed monthly Synthesia is a leading generative AI startup that helps users transform text scripts and instructions into videos. The solution is particularly well-known for its AI avatars: Users can choose between more than 140 AI avatars — or ..."
-    publishedDateTime: 2023-10-24T16:37:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/best-ai-video-generators/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 74
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/10/ew_20231018-best-ai-video-generators.png"
-        width: 1400
-        height: 900
+      - url: "https://singularityhub.com/wp-content/uploads/2023/10/IBM-north-pole-brain-chip-for-ai.jpeg"
+        width: 1068
+        height: 601
         isCached: true
-  - title: "How To Fill The Looming AI Talent Gap"
-    excerpt: "For even a casual reader of the news, it would be impossible to miss the fact that generative AI is a big part of this transformation."
-    publishedDateTime: 2023-10-23T19:36:00Z
-    webUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/10/23/how-to-fill-the-looming-ai-talent-gap/"
+  - title: "IBM's Brain-Like Chip Reshapes The AI Industry"
+    excerpt: "IBM's new NorthPole chip has gained attention for its ultra-fast AI image recognition capabilities. HONG KONG, CHINA, October 23, 2"
+    publishedDateTime: 2023-10-23T08:54:00Z
+    webUrl: "https://menafn.com/1107285709/IBMs-Brain-Like-Chip-Reshapes-The-AI-Industry"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "The Artificial Intelligence Glossary"
-    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
-    publishedDateTime: 2023-10-21T22:47:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/10/21/the-artificial-intelligence-glossary/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 43
+      name: Mena FN
+      domain: menafn.com
+    quality: 56
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?899983"
+        width: 375
+        height: 250
         isCached: true
-  - title: "How to Use Artificial Intelligence in Your Portfolio"
-    excerpt: "Artificial intelligence (AI) is the simulation of human intelligence by machines. This is accomplished by software that attempts to replicate a human process. While artificial intelligence can entail very sophisticated applications, such as OpenAI’s ..."
-    publishedDateTime: 2023-10-23T00:00:00Z
-    webUrl: "https://www.investopedia.com/how-to-use-artificial-intelligence-in-your-investing-7973810"
+  - title: "IBM Unveils Super-Efficient AI Chip 8 Years in the Making"
+    excerpt: "IBM has pulled the wraps off an entirely new chip architecture it says will allow systems used for AI-based workloads to scale while also being extremely energy efficient. It calls its new chip NorthPole,"
+    publishedDateTime: 2023-10-24T12:15:00Z
+    webUrl: "https://www.extremetech.com/computing/ibm-unveils-super-efficient-ai-chip-8-years-in-the-making"
     type: article
     provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 39
-    images:
-      - url: "https://www.investopedia.com/thmb/gBkD8UB_17yTFTJ7TQxoIxRWTQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1170744055-5c9eb1a4a716473699af8e0aa9b9fa32.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "How to Use Artificial Intelligence in Your Portfolio"
-    excerpt: "Artificial intelligence (AI) is the simulation of human intelligence by machines. This is accomplished by software that attempts to replicate a human process. While artificial intelligence can entail very sophisticated applications, such as OpenAI’s ..."
-    publishedDateTime: 2023-10-23T19:33:00Z
-    webUrl: "https://www.investopedia.com/how-to-use-artificial-intelligence-in-your-investing-7973810"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 19
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 36
 
 secured: "Kici2sXx5BpvPRBE3tIm5OJxOQ7sEWbADqWhDy/efeSo52g2TuXjnikJGP6w7i/cZWhNjQicCmvQv6pss18JYqjzCDUNbIdGCKMddWbkFkO3bzB4+PWha7dlZcuKjeCBB5Htzd/+uwxXRZZAwtysgo2HazRvZBgk+ioD7w+AHvlurP6b8joHNwyWU6/LkJU3jRX1bIVylE2lhHMCbSU0J1p/lzwn8i/QQF4P3ErfDYa/07t4JPZFmCEdGkqS2XQBPpOT3Xikdcl2/n7X2dWozScie9X4HQdEVuI0DV5jcnSH+VXqJjEbbl6qsA7Ldz/kS64/cXz29/oxzOiYLuRAUMU+oZLhATs/tp3QgKmSAqa+tS4h/dSTmdGs/9mRICmB9gVCsP9gEqSelXoy1lGPZTS1tsMfaKblOhyJoPNExbdmufOFvjfsT0q40dpNjyWkenLPqUCTRYLKNZV8EBV2IYDa3pUiNQQEpeM4iurDTPeJMJlv6OBgBWpMtZH8oAXhDOaHfp5YiengpZKO+LYIqw==;9zjA6Y2QQj/K+9Rq9uMZSA=="
 ---

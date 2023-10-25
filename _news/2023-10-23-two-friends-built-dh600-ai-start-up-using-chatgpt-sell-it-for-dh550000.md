@@ -119,6 +119,20 @@ related:
         width: 1280
         height: 717
         isCached: true
+  - title: "What’s Up with ChatGPT Enterprise"
+    excerpt: "Just a year post-launch of ChatGPT, Salesforce, Morgan Stanley, and Wix, who were its early customers, have decided to explore other options."
+    publishedDateTime: 2023-10-25T08:13:00Z
+    webUrl: "https://analyticsindiamag.com/whats-up-with-chatgpt-enterprise/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/gpt-1.gif"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "A ChatGPT rival just published a new constitution to level up its AI guardrails, and prevent toxic and racist responses"
     excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Anthropic AI, an Amazon-backed AI startup and rival to OpenAI, has taken a democratic approach to governing its artificial intelligence. The firm, which is behind the ..."
     publishedDateTime: 2023-10-23T19:33:00Z

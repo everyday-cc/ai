@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Amazon Web Services to Launch AWS European Sovereign Cloud"
-excerpt: "As with existing AWS Regions, customers will have the control and assurance that AWS will not access or use customer data for any purpose without their agreement, as well as access to the strongest sovereignty controls among leading cloud providers."
-publishedDateTime: 2023-10-25T05:26:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-amazon-web-services-launch-aws-european-sovereign-cloud-/2023/10/25/9904788.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-amazon-web-services-launch-aws-european-sovereign-cloud-/2023/10/25/9904788.htm"
+excerpt: "AWS European Sovereign Cloud will be a new, independent cloud for Europe that gives customers in highly regulated industries and the public sector further choice and flexibility to address evolving da"
+publishedDateTime: 2023-10-25T05:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/10/b35408217/amazon-web-services-to-launch-aws-european-sovereign-cloud"
+webUrl: "https://www.benzinga.com/pressreleases/23/10/b35408217/amazon-web-services-to-launch-aws-european-sovereign-cloud"
+ampWebUrl: "https://www.benzinga.com/amp/content/35408217"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35408217"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Almost 80 per cent of European financial services brace themselves for Generative AI impact"
@@ -34,6 +42,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "Bn62CbaxOYDjdSSIs2V3F6NGdH7E3opLI2SQMzCgnkhphjhDNNidOgn5kwVpOBBhMfygq63zSmcsIpNg0lXJZAZPumPHvUxsf/H1bVRN+8TiLaOuTBJSDn05MWAfebjsFWY3e6K1VeaCbUrh8bQpExd89MPgzE+IuehSBJnjGCikHHXD8vvJQGRP63M8Vh3R+XkSSisg2GHlaQF+Af1+ByZFT77levOnwckVObckgO6z9CuasWcp676wwuU6mwn2um5Wr8WyNhyE1Bx0gp1h+Na8ZSCguW7wcD8Zq5qqsg42XB8aUhhYV6KeAL8HbCxcmClXiGBvVP9uFCOnYUhJfvf2xBvGEhs3ZBi9e5t8qY8=;3lZ3xfvOsSqXbYXAJtI+RA=="
+secured: "GBXaa5WjtoKP0VxiAxiuBDSLOnpPsZSLr+4yDvJt9PLCoe5uvXUClIf1hdykXiU4L4rHUDe8jTqZR39aXNeMGR/4ITOS29jIUp9nEs8Z3YG3f2WpkX8OKeSm/SGtLva24wq9NKWCUB3AGOR+0sdE+KJ+zBbvzHWIpmzLFhygc3Mz0/QyaWW4rUl4DWvYZaps5eRldMFDSd1e5AU83GcqBZzNrgTcmCWhI8in762ouH5gYKyfZnjoC+uoaZ1mkfRoQndRsQrsR4bTsFVfhbdvXBfHi0HGZyCIqwp2k+7ddhVfdGxZDJgo9BeagFGNmFfBUfdCjKEEPYBeFgmrMbVK2Efh7UDx1GOZVQKQlOs9Yp0=;HyAcWduadlrOrjj+wU0vyQ=="
 ---
 

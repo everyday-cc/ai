@@ -7,7 +7,7 @@ originalUrl: "https://www.wkow.com/news/how-ai-is-helping-baby-boomers-find-kids
 webUrl: "https://www.wkow.com/news/how-ai-is-helping-baby-boomers-find-kids-who-need-a-mentor/article_badca189-aa5c-54d0-b910-1318bc6c6350.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "How AI is helping disadvantaged UK young people get into top universities"
+    excerpt: "Dataiku’s AI tooling is helping UK Higher Education access charity The Brilliant Club better identify students at risk of failing - reducing their chances of getting into university"
+    publishedDateTime: 2023-10-25T09:12:00Z
+    webUrl: "https://diginomica.com/how-ai-helping-disadvantaged-uk-young-people-get-top-universities"
+    ampWebUrl: "https://diginomica.com/how-ai-helping-disadvantaged-uk-young-people-get-top-universities?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-helping-disadvantaged-uk-young-people-get-top-universities?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 58
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-05/7A011687-ABD8-454C-938D-6D686AFD5F9B.jpeg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "f682NOAmiWY+SGuy7YLZLPP+ff7Y4xhohmSToBXbA6eCNCfrs7WvVbXqmyy+QHxiFMNkB/WMsq98BOduhhbeFNtr3E13o89+/lJdT2PKJUobb/w+ENmNjE+K9x4XmcWpGh/qqlTr5j0sJWzHW+inOTMu4AVJmAhxztzwUmyuKn8ShR7WzYb8TChN92FcEatMdO6b0skRoPRaLL8ScbJeVLIMrKH92I/0IDtCTFBCp+luZuJPD+UE8SBb3DQUH38l++aJ+MLsc5CpAurCnQZYKODYjFtkSZk3d9yJuoDlMnx5hPlkMv872LPalwy45JC3k+zkiLHqKESUHI8Uu9Iv4C5tyjyAR8ZawE55HcNkk1Y=;6ihZVSB87aoB2yRg8avQtA=="
 ---
