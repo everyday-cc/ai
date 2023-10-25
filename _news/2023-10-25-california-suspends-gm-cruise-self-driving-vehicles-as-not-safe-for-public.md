@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "California DMV suspends Cruise's self-driving car permits, effective immediately"
+    excerpt: "The California Department of Motor Vehicles on Tuesday suspended Cruise’s deployment and testing permits for its autonomous vehicles, effective immediately."
+    publishedDateTime: 2023-10-24T10:55:00Z
+    webUrl: "https://www.nbclosangeles.com/news/national-international/california-dmv-suspends-cruises-self-driving-car-permits-effective-immediately/3251051/"
+    ampWebUrl: "https://www.nbclosangeles.com/news/business/money-report/california-dmv-suspends-cruises-self-driving-car-permits-effective-immediately/3251051/?amp=1"
+    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/business/money-report/california-dmv-suspends-cruises-self-driving-car-permits-effective-immediately/3251051/?amp=1"
+    type: article
+    provider:
+      name: NBC Los Angeles
+      domain: nbclosangeles.com
+    quality: 39
+    images:
+      - url: "https://media.nbclosangeles.com/2023/10/107282661-16914113762023-08-07t100638z_978946371_rc2xi2ar2cgn_rtrmadp_0_usa-autos-autonomous-san-francisco-1.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "California suspends Cruise self-driving taxis - the service preparing to launch in Dallas"
     excerpt: "Calfornia's decision to suspend General Motors-backed Cruise's permit comes as the company has been running tests in Dallas since June through the Oak"
     publishedDateTime: 2023-10-24T20:34:00Z

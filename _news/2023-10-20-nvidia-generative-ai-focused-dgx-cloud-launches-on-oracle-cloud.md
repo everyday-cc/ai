@@ -86,6 +86,36 @@ related:
         width: 1176
         height: 900
         isCached: true
+  - title: "The AI-Generated Child Abuse Nightmare Is Here"
+    excerpt: "Thousands of child abuse images are being created with AI. New images of old victims are appearing, as criminals trade datasets."
+    publishedDateTime: 2023-10-24T23:01:00Z
+    webUrl: "https://www.wired.com/story/generative-ai-images-child-sexual-abuse/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/6538482ff6398a9e9f0f6825/191:100/w_1280,c_limit/102423-security-csam-generative-ai.png"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Snapdragon 8 Gen 3 Official, Designed With Generative AI in Mind"
+    excerpt: "As expected, Qualcomm made the Snapdragon 8 Gen 3 official this week at its annual conference in Hawaii, and no, I’m not there and I’m mad about it. Qualcomm is hyping this chip to be an AI powerhouse,"
+    publishedDateTime: 2023-10-24T22:31:00Z
+    webUrl: "https://www.droid-life.com/2023/10/24/snapdragon-8-gen-3-official-designed-with-generative-ai-in-mind/"
+    ampWebUrl: "https://www.droid-life.com/2023/10/24/snapdragon-8-gen-3-official-designed-with-generative-ai-in-mind/amp/"
+    cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2023/10/24/snapdragon-8-gen-3-official-designed-with-generative-ai-in-mind/amp/"
+    type: article
+    provider:
+      name: Droid Life
+      domain: droid-life.com
+    quality: 59
+    images:
+      - url: "https://www.droid-life.com/wp-content/uploads/2023/10/Snapdragon-8-Gen-3-600x315-cropped.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "With Generative AI Advances, The Time to Tackle Responsible AI Is Now"
     excerpt: "In 2022, companies had an average of 3.8 AI models in production. Today, seven in 10 companies are experimenting with generative AI, meaning that the number of AI models in production will skyrocket over the coming years."
     publishedDateTime: 2023-10-20T17:09:00Z

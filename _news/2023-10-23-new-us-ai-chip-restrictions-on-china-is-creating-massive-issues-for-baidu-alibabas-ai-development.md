@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrict
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html/amp"
 type: article
 quality: 60
-heat: 120
+heat: 100
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tightened US rules throttle Alibaba and Baidu’s AI chip development"
-    excerpt: "Chinese tech groups restricted to using outdated processors as Washington aims to curtail Beijing’s artificial intelligence ambitions"
-    publishedDateTime: 2023-10-20T05:57:00Z
-    webUrl: "https://www.ft.com/content/ef157204-a204-4512-8c50-fe60e166b41e"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "China homegrown AI chip development proceeding despite US ban"
     excerpt: "China's chipmaking industry continues to advance its domestic development of AI chips despite stricter US bans, with companies like Alibaba, Baidu, Huawei, and Tencent developing their own AI chips."
     publishedDateTime: 2023-10-24T01:41:00Z
@@ -103,17 +89,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Alibaba, Tencent join big backers for Chinese AI startup Zhipu"
-    excerpt: "Alibaba Group Holding Ltd. and Tencent Holdings Ltd. are among the influential Chinese investors that invested 2.5 billion yuan ($468.9 million) in AI startup Zhipu this year, part of a wave of capital flowing into a red-hot arena."
-    publishedDateTime: 2023-10-20T05:37:00Z
-    webUrl: "https://www.theedgesingapore.com/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 37
 
 secured: "oe7/n+FSFrHv9aJTmqT8/3UoUXvVnOLgBGbMABfYy6qztz7fFMaWKrJz5DaiUFl/leSfMECFtt3rSsNZD3DYHx5s+SeQnalbzikuBU/um2rILupMDddXh05HdMJXklwRIRdGIPOzTk0J/NqUsAC211wA915luhITi4/ZJXTHGMcvgsXAqU/nRcQVXz1lGb/YpNPeVQC0nAzb2a/ZeDDmx0HCrKgzURBBrb4NV5KjteZCYhhB16veRlVMuGci/icsYwgN+bFqWkVo2RNZoSLYgTKm+wSV8XimLNpRyRHm/bvWbWzJfOWF6NPM1aGRE+oGtHTfriqvzw38wWxgSYBQPJNlYta7WfrUkLbMHpYrXzMb4khAQ27uQTxl+TQFU/JJibGWNGiNZU06jGmF8mtWryt1BROLF4/YjUK5E+eMIdIddlfDpgk4qHhxd7H01hlYvZ9mJI5GT9b+kkFbOYCA9wQOaApgHqXORhTuNCCEFtD+pE6PBCnNqnTu0eLE2iQOe9XIqyWAjYKZqfebsqIuAw==;Q1nGBELVDs9YX2PS7ufYUg=="
 ---

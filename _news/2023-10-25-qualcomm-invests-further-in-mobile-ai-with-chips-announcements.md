@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-21114
 cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-211140974.html"
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 59
+  - title: "Qualcomm introduces new AI-optimized handset and laptop chips"
+    excerpt: "The onboard CPU was designed by Qualcomm’s Nuvia unit, which became part of the company through a $1.4 billion acquisition in 2021. Nuvia was founded two years earlier by former senior members of Apple Inc.’s chip design team. The Snapdragon X Elite’s CPU reportedly features 12 cores that can reach speeds of 3.8 GHz when they’re all active."
+    publishedDateTime: 2023-10-24T21:43:00Z
+    webUrl: "https://siliconangle.com/2023/10/24/qualcomm-introduces-new-ai-optimized-handset-laptop-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Snapdragon-X-Elite.jpg"
+        width: 678
+        height: 381
+        isCached: true
   - title: "Qualcomm's Snapdragon 8 Gen 3 leans heavy into AI new leak reveals"
     excerpt: "A new leak may have revealed the full specs of Qualcomm's next-gen flagship processor, the Snapdragon 8 Gen 3."
     publishedDateTime: 2023-10-23T15:16:00Z
@@ -132,6 +146,6 @@ related:
       domain: liliputing.com
     quality: 13
 
-secured: "71Y9CVrsu1qXbPKs2QelomWmRDP0893Eb3rzCdI0XVH9FAfojnib8sJa3fvLJuNS+OENQpkQIbtmaI/Hp9XXMBHEkR6f24fj3nuZ/GdkxiCqgh8Xu9UJKZ81/PgzR6ygDB7XD8emDkztvxzkeswubXiVV66ukyfcGf5wMtoZV/vFmyGPHJ7T0lPzwwHWxrwwHbBcqzNXJ2VTIwU+gRZMFsYEPPcVYclZAuauJStHsNlEKKbPo0m/OkugjBgehCnfCv8WNiy5rrGLYp5SlD0gTLzbjobLKKgPRVU8HyGswfM5Kzr+ESTie0iZ/P+yJMN4ciYrJ3qKg50vs2W+E8uhT2nFnEUCWGQbYJsMT3ykCtA=;X+WVghkv36f336b3MgsFFg=="
+secured: "toEBvVaoxKIA1+PoQbYwO1k1vhsqQfET78a5HyiwT1QPbOVT2Ob/nIF+gdFs7HiBVXYI97OdKPZs6qpz75JH2w5w+b1pAw2zXeynGGons9a9cTZTQFpMDngVKDbA1GTSWFP1HP91UQUpKruXMoIfwTsOGghkYAnrdSsq7hEpA9Fog0aTHARP1x+U4+2pR7wjgED0xtQzHZ34SBUJDCuTLaawyEEzr12XV6c/CHc8mDK7CxMJd4g9dHaY97sfMrPNPmJFiOHSZUAWStV58+Y+zbEfWWAMEaHU3B83QiGPkKYRhiBKbLnVtXHzoJHkSj+aIt98ZkNW8KS4Yrnrs9/VA1Vli/j9t8KKaxZ2ZGUkY9WX14d49tlDn0L68d+7dS9gjizjfWDlp+k2MSNCAAadi+jiEl8wVDUCBaZW3wN9xNGUhpKn9gUebaE+H5Iw3byAK3o+gNUriz3ShZ7ad5rhzmygGIZ+u9kwBFR8RJ5ru0F5Z3FY8GnQ+wEaWVfGWS0RyGrQuC13OVnWwtmEU/mRng==;7fjsqEr5oujzCJ/B1j5r0Q=="
 ---
 

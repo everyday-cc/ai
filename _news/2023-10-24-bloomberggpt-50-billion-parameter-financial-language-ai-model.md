@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-24T12:29:00Z
 originalUrl: "https://www.geeky-gadgets.com/bloomberggpt-financial-ai-model/"
 webUrl: "https://www.geeky-gadgets.com/bloomberggpt-financial-ai-model/"
 type: article
-quality: 21
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -19,22 +19,12 @@ topics:
   - AI
   - Natural Language Processing
 
-related:
-  - title: "ChatGPT: China to Police AI as Bot Fever Sweeps Nation – Bloomberg"
-    excerpt: "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial"
-    publishedDateTime: 2023-10-20T06:54:00Z
-    webUrl: "https://www.inferse.com/763906/chatgpt-china-to-police-ai-as-bot-fever-sweeps-nation-bloomberg/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 37
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-13307.png"
-        width: 1200
-        height: 800
-        isCached: true
+images:
+  - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/BloombergGPT-financial-language-AI-model.jpg"
+    width: 1280
+    height: 717
+    isCached: true
 
-secured: "FAVe2YtI8gTAZh0tn2Rgw6fP1SwLC8zv5wjUMvw6Yt2gnfPh+F37+8Cs9F3AYyCSqVzK8/mYfeLaHlp+lzUbQ6HVBlQ+TGK+91BKHfB+jBuyTs9CFMpsbwF17PpJsl0Tm1RyxMQGBkdr0jinsjfhJGhiaDpjdozNM5YHBpgpH8D5S6d1Jexoz5C/PRo9/QcWWdhvhPd/IxdNwoIz6o9FETa9Axx06/HGrs/KgrR4GvCwNvWueUvlIsWPevMTGmTx45+9MYemXKEoFkLZcC4/bPwEfbLQEQnSvyLjaeiI1sVXQA5TqdX/F0KbRub4/q0ExV1G/SCX1FZC2IM8RCfXQBuq1w4CPGrrdt/Cdeq4JJo=;37HM/qDfDNSFeBiYV84qZQ=="
+secured: "bhI7OZC3UBdiy37C02fvo8cZrpmRRzu1egmNS0rYIDdLP4BnKS4m8UqkWzX/G0KxZclbgCoVITtwuk+p1+8n1JgRYH4QgZPKhU+FstPHFxVUNnQjn8K3lV5EIsiXNhYNMGLV7kaiCWRE11pxOnqNniG9UbBJ55VEoq3xcMPXAEswJ/ZppbAVlUy2K6B18iSsK7+0xQouFh/bkQPC6Q07LoKE35NcSQW1BI+1Uemzky5+pKZGPGTfOkeKrqgzFarKqaQFIs2imXVlUs2skw/SIWDDEkxxial5tpr0i4zIBmEFherRC2E1H8L5nj5UygcxQqoiTNyrNfxv7lM7ZEs+AN9J3S3GmQ1pUYvgBk3sbfQ=;ib7OZK8RFiuNBeftyOl2ew=="
 ---
 

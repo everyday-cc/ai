@@ -3,10 +3,10 @@ category: news
 title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
 excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
 publishedDateTime: 2023-10-20T16:48:00Z
-originalUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
-webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
+originalUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: automation.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
@@ -344,7 +345,21 @@ related:
       name: AOL
       domain: aol.com
     quality: 17
+  - title: "NC1 AI: Pioneering Business-Centric AI Deployment To Propel Enterprises Into A New Era Of Innovation And Efficiency"
+    excerpt: "NC1 AI NC1 AI Redefines AI Deployment for Businesses, Paving the Way for a Future-Ready Landscape LOS ANGELES, CA, UNITED STATES,"
+    publishedDateTime: 2023-10-24T22:01:00Z
+    webUrl: "https://menafn.com/1107297404/NC1-AI-Pioneering-Business-Centric-AI-Deployment-To-Propel-Enterprises-Into-A-New-Era-Of-Innovation-And-Efficiency"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 17
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?343697"
+        width: 358
+        height: 250
+        isCached: true
 
-secured: "6x58065VYkufUZWtn6yemrkCuwWsT397L3QaCooOeDRqrK2K7U0j4L3KmNODIqo0VQ6eJC40P3uQGGUUcwgCzlftkMFp5/mTOpzF7t3TSdk25I58WZY9Ri6dByYj6BnZ+fKkt5tUJrEdyy5kO+oER9RJoPNtUeFAYOfSWmhmeIuu0uRwgTQLxjBjRbqtWOTBrc10lDpA2p0/Uzs8xXiU9zOMp6YreY2FGMnJ7ip+nDkFCoIsQwDpcczFxXpCgB//1nBGDNle8xtukW3Fl5wRvbqyqbZmnuDNQF8dvmV9G9VvaPLc8VTKlKlwHRx9ANJDhJV74O73gMILEJAWJNQ/4f0b5CAt2EPYXIowln3YRXg=;4LkrQcvI1g3f1V4WTxfTjw=="
+secured: "HuUuF/gMtv46jqanbCUGOZFKz2DCJQMyTczOCz5lQ9xuBUHV49qUhQMg2tr5Ykm6WFACEIQZ+dC10ufkbbJAfA8xr8xyJUnI+9kStqYRo9nSXeOLzGgJe1L7vVBL8pFEX74Sva5sRn3w3NvBCrQrsrL4IYOHsjmuYzTCYVzYAg+6F4ADwBkhRSkQCIN3Mbba1P8uyp3eS91U57ar2cbXNDZ/l2SDaIlmFhMBWV5iJxraMsCPMkQO899wMsJ3sOQUqya66tCqLQQgk5tES3YLnZtCZhUAEnrNPDKtB8GThGOMkWR3GzezC4U4xohbHC3eHyhHIjh8PeFsU5v0Dw43AFVlfNLOV2wuf8QdJosepX0=;ZCWorqoPjTrG2p+YyNvFxw=="
 ---
 

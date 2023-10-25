@@ -47,6 +47,34 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "California suspends Cruise self-driving vehicles in blow to GM"
+    excerpt: "California's auto regulator said on Tuesday it has suspended General Motors' Cruise autonomous vehicle deployment and driverless testing permits, saying it had misrepresented information related to the safety of the autonomous technology."
+    publishedDateTime: 2023-10-24T21:37:00Z
+    webUrl: "https://www.carsifu.my/news/california-suspends-cruise-self-driving-vehicles-in-blow-to-gm"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 24
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/10/2023-08-22-23_33_10-dpa-news-_-Photos-Release-2.17.7-Brave.png"
+        width: 800
+        height: 452
+        isCached: true
+  - title: "Cruise Loses Self-Driving Permit in San Francisco Over Withheld Crash Footage"
+    excerpt: "The California DMV, investigating a pedestrian injury caused by one of Cruise’s self-driving cars, says it wasn’t shown the whole video of the incident."
+    publishedDateTime: 2023-10-24T21:24:00Z
+    webUrl: "https://www.thedailybeast.com/cruise-loses-self-driving-permit-in-san-francisco-over-withheld-crash-footage"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 21
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2614,w_4647,x_0,y_62/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1698180667/2023-10-17T092636Z_202569337_RC28U3AEF7IS_RTRMADP_3_CRUISE-INVESTIGATION_cu6vjp"
+        width: 1480
+        height: 833
+        isCached: true
   - title: "From doom to boom: AI is slowly re-energizing San Francisco"
     excerpt: "It is not only reinvigorating the tech community, but it is also triggering a movement of people to the city and office-space rentals by companies."
     publishedDateTime: 2023-10-23T17:54:00Z
@@ -66,6 +94,6 @@ related:
       domain: carbuzz.com
     quality: 4
 
-secured: "+6SLwk6hcTdHYAGVNymoSP3OgDwf4XHEOMDPMgN/nLtkUg+Jq8RVcnYaXEX/aNOmgPjz6tUoI8KzpjlkOLfCAqe30ESnIzXIhlZ0xeIsBK66OJApbe8ovBhynKZ54aGifgGjSm8fvuENIt96Xr6Q9SXL3rm8k7XzSaBGJrw40qIc4F9YmvQd1lVk+1JbXs0DyfBRhfkI7oU3MpjZJ24uimKr4VQUSwW0pwqqilVmw1B3sLklvNj/S3PfIr6IXnYO0rjhzm/TvA1P1YfVdpKWIdB4ntJsyMAyjOdcPHATWC0jLH/2Yq3WM739E14hVu+CDqVVg3wFD79giN6qPJKoU2hyRtG0Bcf/sDwoHpLOUyQ=;qpk194yEWNHdGHjXc5G2fA=="
+secured: "GlrQCAh8qWy2urAEiz4rkhWMG/Gebvj56P83EXiW2N7OYOVEK3+5QOAkN9Q1jENWav1mXRdZh0GutG2sM18pU7IEOoB4qaro8qBBlO0pj9qVKYoDr2JTYXro822fptT+ZbKLL0gjZnHhq5JS2bIu1zDEeRUAyGymAMuiATeLGtu8KQsylOA4gvaKiWA0mZxVr9mMm0rStzNVIhXoEJ/RzbKkydegcQjjso1BXtEObueih2baUMBDNo5r6LX/2+iYrqELs8vYj42sow8fZpQjh6ojfHJ6iLgZy+iZQ725BzLxR+LGcuewZPkvyIDN/z1yWTNWBWoch4P/2IbYXSe3y0+BWDKChHXcMci0JNckVd1EbdCDq8qGf2dOLp/+9y7eKJjqqnmgdE9PHO63E0wbjEkPRv3l+JGqMDIdgySKtfhldfS00W8/ITlxK8SYYygEyhWMkOaDTjcE2+nx1F5aQGYvD91KnBSqz9+HB+Q+9PGgl2OkBpgCwTVvrDjkSVDrwtjTxsSxipDs8xf/qUm3Dg==;xgoD1WC0W9+ySUc8u5ELZA=="
 ---
 

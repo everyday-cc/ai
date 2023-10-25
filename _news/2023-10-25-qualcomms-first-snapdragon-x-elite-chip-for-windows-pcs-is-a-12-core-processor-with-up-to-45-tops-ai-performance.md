@@ -68,6 +68,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 59
+  - title: "Qualcomm introduces new AI-optimized handset and laptop chips"
+    excerpt: "The onboard CPU was designed by Qualcomm’s Nuvia unit, which became part of the company through a $1.4 billion acquisition in 2021. Nuvia was founded two years earlier by former senior members of Apple Inc.’s chip design team. The Snapdragon X Elite’s CPU reportedly features 12 cores that can reach speeds of 3.8 GHz when they’re all active."
+    publishedDateTime: 2023-10-24T21:43:00Z
+    webUrl: "https://siliconangle.com/2023/10/24/qualcomm-introduces-new-ai-optimized-handset-laptop-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Snapdragon-X-Elite.jpg"
+        width: 678
+        height: 381
+        isCached: true
   - title: "Qualcomm's Snapdragon 8 Gen 3 leans heavy into AI new leak reveals"
     excerpt: "A new leak may have revealed the full specs of Qualcomm's next-gen flagship processor, the Snapdragon 8 Gen 3."
     publishedDateTime: 2023-10-23T15:16:00Z
@@ -132,6 +146,6 @@ related:
       domain: liliputing.com
     quality: 13
 
-secured: "8oD//8h8VExUKjmDcZSLa/x5mvIADgvMiukp3zZ/YJ+o1twwf4X65zYkkiHP6Fnn9Nc80e8kAuJAv02QQq8gsukUybsvLx+4WyB8rJzeUL7EeBrRz/8PsebETnxeqvryQrNSRjwBmtqm+s7dck0yn6wjbw46NAfd6EzrNZzl8ChO5nWvT+a9VgxcTa4L8BPe4LU16ZL5b8jgQqVVyCoaDpUXI+tGibsBmXUY9FufJSbVzt+BUwXzmnhbY9qV/VJf8ZATthlfy967zkxPtjuOgrBv7rSRsOEXeK91z8ONBf0Kbz/wiG7fEM5jLcXvapBafoumL2ANU1aTMBunuRm3kQwlK88X5lSp1+qcgjR36do=;zHtFt6Q+kisKCZytj6Mgig=="
+secured: "9bRhzMvsig5jjRmZDKOQyOvxAxoXWpORTtcXGHBDxhj/u1O1M1miC0lAuWa4bYFtWG7RScJh9DWx1f68LRddSJ7icPhijO6LaiPeuu1c8+85JFloTyHyfDwQeOb+Mg3VlK7TvfABakhyRnBakjIbkWjZP6yoGy5WVjG/6lH565KV1v0Lwa9pm5KpyQlrWJiCE8+NSNqHaIPJLk0chJFwRSvV4r//1tggWjvGjlGo+Pbi4gPmiOJ4Nv5mXjNrUyQ4aYXY3SDWUQt5/3WugfH+Sc0T14OtoR2ukuk/eil1FwQRf3dJSP688z9K3ZPJ35uWdWhduSd+TnhtMm5SO0X6gsd4oV1g3Z+/QX6ri+Mlf0+Gmh4aGSw9NouoHfYkcJvjqZKxcj88FZUBCfXm7SLjtuggwqPaEtzT1u3WaZXQbzytiWucVeozg3F6I0X+zgzNMVKBqA+k+/xvA6ZHo6B6yf5du9i09nQpf+dBCTaHxv97sipyPzPe4+HBhQ6mpHrGDrPQIaQG6YdjxUMqEdPUew==;Uk4QUAU7ZioDWKETrVmDog=="
 ---
 

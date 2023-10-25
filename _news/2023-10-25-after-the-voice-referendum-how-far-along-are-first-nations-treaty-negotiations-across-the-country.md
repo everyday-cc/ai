@@ -1,23 +1,29 @@
 ---
 category: news
-title: "After the Voice referendum: how far along are First Nations treaty negotiations across the country?"
-excerpt: "The national focus on the Voice to Parliament referendum diverted attention from state-based Treaty processes currently happening across the country."
-publishedDateTime: 2023-10-24T19:19:00Z
-originalUrl: "https://theconversation.com/after-the-voice-referendum-how-far-along-are-first-nations-treaty-negotiations-across-the-country-215159"
-webUrl: "https://theconversation.com/after-the-voice-referendum-how-far-along-are-first-nations-treaty-negotiations-across-the-country-215159"
+title: "After The Voice Referendum: How Far Along Are First Nations Treaty Negotiations Across The Country?"
+excerpt: "The Uluru Statement from the Heart called for Voice, treaty and truth. On October 14, Australians said“no” to the Voice to the Parliament , choosing"
+publishedDateTime: 2023-10-24T23:38:00Z
+originalUrl: "https://menafn.com/1107297675/After-The-Voice-Referendum-How-Far-Along-Are-First-Nations-Treaty-Negotiations-Across-The-Country"
+webUrl: "https://menafn.com/1107297675/After-The-Voice-Referendum-How-Far-Along-Are-First-Nations-Treaty-Negotiations-Across-The-Country"
 type: article
-quality: 0
-heat: 0
+quality: 10
+heat: 10
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "tZu+h6d1q+9xe3ikwhgbMBGV4GCd78qvHpxNo8oLjrSE+3xSiX/nT7lWmeBKiHyh+QiZwuQV9nqgw250i6UHiP5tECAKi/tu1fCrCjGLpiY+GHcjjWCVQTwdxladCce3Zzssvc+YwlY36upJSmidBo886brPplxlPoUp1qA9sUNiYDERP7r8Y4pR7ZmdA2APaM0BKd6f8pyR0OqCbk9ZOVBvBBAL06okAmQsoUa4bDYnLZDVNFj/exwCq9HZyEB9DnA943rOXbROSznmChcUPHuqvEFFrEiKVoJLYWtI1+Mk1d9gJJIuLn4zQ9caWlVXgWTvgEs2Oiq2tv8z+iU0DKmhcFStzrhZQHigT/2wfTOq1J7LaAaFvw1okkLVCZ3TeFb6WRYM2QBVCrasVE4E0Fj7pqH8S+6G1D/ptQ1d+dM1FLO5qmbotGbVMtB3+12qZhRFLsUznzw81dUsEzOSJdFyr06RpU2Xix2zFzS20UolWZXH42zChzt6K4lZy9VtT/101cDzT39PcmCuMeBg7g==;KmANl4MV7m66L9IeSh8xEw=="
+images:
+  - url: "https://menafn.com/updates/pr/2023-10/24/TC_3c1caimage_story.jpg"
+    width: 960
+    height: 640
+    isCached: true
+
+secured: "EHItd+Cv/p+NHbDjEYcAR+MA2GDTnd7nMV0l0tAzvAyxMx7QKJQuLVhxQXKjh2LeBowe4t490Khi0yvE+HHRFS8nTEabV5CtT9iyFNM44p5Iqh0nmZuNN8on7mr78Kq3xQpULM5dNvtaaFVFJ7j2dLFoG5Kts1i8KEYqBjfLftwXiys4IwtqHMaFWVWdmcXFV9FGP1vxneXcEj8WAsupKQuEo1dO2DdASl6Po4HKhxJlshB8MS5yGifc+w4HdJmicrbJyovQvOTrkxypTxxwmCHnqTGTJhtNcwnsHv11yZ0lgGRNFfhNwDOLNIpZ2lRvo2kjrMiwpfMYFsurxrXA8mKQ7Bb/lJGVLt6PXp8dsWw=;TcaQdna8l+j2qIEGr6Ikzw=="
 ---
 

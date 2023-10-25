@@ -6,9 +6,9 @@ publishedDateTime: 2023-10-24T18:00:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/sanctuary-ai-named-on-time-s-best-inventions-of-2023-list-1032734498"
 webUrl: "https://markets.businessinsider.com/news/stocks/sanctuary-ai-named-on-time-s-best-inventions-of-2023-list-1032734498"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Business Insider
@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mma.prnewswire.com/media/2256181/Sanctuary_Cognitive_Systems_Corporation_AI_Phoenix.jpg"
@@ -28,6 +29,6 @@ images:
     height: 400
     isCached: true
 
-secured: "r7OYeejPHPv7rFrv1z66vCJwGYCUfygjEXlHiBBkrxw9dA3L/f5iNWXGBn2fYe5FormKrHDyEPXYs/35sEQ0C1sjKodws4qHol7klwy/HT4KgnQsZMUVZj0o8OFz/5cwUXG3S0XjVI3inchNsu6saBIZRymrn6/SseiN0tAPhRv3wPdsohFykEulZ2CIYi1mthJ+gjExgs139mvr5BGU2WMvADYc2QAADLrtO+5mo5Y4w7Q7RmVqLE53jlg9T/m7hyW7Ojx5cR0keR+5+CujFdfiKpr9Sh6vSf8tz3Rqdz4ibWmo5bVKYV4WnAhQYTwgvYGJXQVpkCItJ5l2Mat9zrC8+aygv4PMG3fRSiq3rsI=;aFh7H/6IrulGsa+rb6BkkA=="
+secured: "hR1JFcrBJtQb88UvTyWrpwPavjchjqNmaEeSNFv9uvatfWKkL4L167EjcUYfRNjSOYdg3MDZ6+0gp91jdxSZPbiKVX3lup5sIvU8LkEHavJNeuzsWQ89mgxpWdQlwJQuXwt4tmoLB46XgxMSZ84m/OTjkR57w8FJ81n2XeFdP3bxa4xZqUWZnvT5yXQwsEpzdcXmuVrrAlduKEXZftUYWQP4PZkE1frbJPwWyyeJ+l4bM7XsdPeC0V7SyK765H6PiFFCTMHGSC1Q5hIjnyaUWBOLvb8HnpvmRQo+rpyzqK5XbC/TolviNkK1El7dyJosBxdeJYhoW/szEjA6MH95ubtM9RfT8yD9LQm5HV6GTumMOtjMF4lKw+6fVbhN8O51VkLMJJ4AqLrkI00hBTCMbdjPqu1+yabRD01Ow21CPhOiFDXUADVNmmV+lx8tBG0+dOZcQq8E2XrO91xxaFR1nSHpgYUyc5iefbDZklTBLVKuQizkQuBYw61Yg3w0kSksrMDBM+YgynVfFrIXDB7kgw==;IGVfrn2r23ednGZneRIuXA=="
 ---
 

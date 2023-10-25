@@ -128,6 +128,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
+    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
+    publishedDateTime: 2023-10-20T16:48:00Z
+    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 60
+    images:
+      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Role of CX automation and generative AI"
     excerpt: "Customers expect personalised and efficient service, and the emergence of generative AI has led to a significant shift in the way businesses approach customer service and customer delight. Like human interactions,"
     publishedDateTime: 2023-10-22T09:48:00Z
@@ -159,20 +173,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
-    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
-    publishedDateTime: 2023-10-20T16:48:00Z
-    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 58
-    images:
-      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
         isCached: true
   - title: "How AI, like ChatGPT and Bard, are changing education"
     excerpt: "To learn more about how AI could affect education, we spoke with the former chief digital officer for New York City, the Met museum and Columbia University."
@@ -344,6 +344,20 @@ related:
       name: AOL
       domain: aol.com
     quality: 17
+  - title: "NC1 AI: Pioneering Business-Centric AI Deployment To Propel Enterprises Into A New Era Of Innovation And Efficiency"
+    excerpt: "NC1 AI NC1 AI Redefines AI Deployment for Businesses, Paving the Way for a Future-Ready Landscape LOS ANGELES, CA, UNITED STATES,"
+    publishedDateTime: 2023-10-24T22:01:00Z
+    webUrl: "https://menafn.com/1107297404/NC1-AI-Pioneering-Business-Centric-AI-Deployment-To-Propel-Enterprises-Into-A-New-Era-Of-Innovation-And-Efficiency"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 17
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?343697"
+        width: 358
+        height: 250
+        isCached: true
 
 secured: "/iH9K1oaXbN7GgOZFfKl4Ux9hQ+reQQLIEcXAZ4G9csaaQ5T/cfg6diDA50eO5S7hNaCvB5Swv3kwNT03sbImVmrSwUh31+Gtf9XcQIplDrRji0S4LwyJBru3R5vgZk8pS/c4E4f01NXTRYT3oMkY4lg5CgHdiYXQrO8PvLyjAneLePyqR4zKHutOupmb+CNvGaWYIfxu9TAhAUsqbzzfGn9Z4ZE3osEpoJR6pXcXu93j1VZH62k4KZxaVIOJnYLS1aKxrBadFjZ0DP1dlGPV5MbBJWWTn8jCCzswxK5LXGGLvaXqczMA6Yh8aNVd/1N8/X49J4ugg4CUKFBFrdTjxYY3AAyFZV9scmUU/XG88k=;+/aUlBrblhUEEGPw+ilqPg=="
 ---

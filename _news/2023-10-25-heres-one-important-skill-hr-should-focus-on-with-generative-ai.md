@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-import
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -74,6 +74,36 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6536db33f0c0d8b1f46f464e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1176
         height: 900
+        isCached: true
+  - title: "The AI-Generated Child Abuse Nightmare Is Here"
+    excerpt: "Thousands of child abuse images are being created with AI. New images of old victims are appearing, as criminals trade datasets."
+    publishedDateTime: 2023-10-24T23:01:00Z
+    webUrl: "https://www.wired.com/story/generative-ai-images-child-sexual-abuse/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/6538482ff6398a9e9f0f6825/191:100/w_1280,c_limit/102423-security-csam-generative-ai.png"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Snapdragon 8 Gen 3 Official, Designed With Generative AI in Mind"
+    excerpt: "As expected, Qualcomm made the Snapdragon 8 Gen 3 official this week at its annual conference in Hawaii, and no, I’m not there and I’m mad about it. Qualcomm is hyping this chip to be an AI powerhouse,"
+    publishedDateTime: 2023-10-24T22:31:00Z
+    webUrl: "https://www.droid-life.com/2023/10/24/snapdragon-8-gen-3-official-designed-with-generative-ai-in-mind/"
+    ampWebUrl: "https://www.droid-life.com/2023/10/24/snapdragon-8-gen-3-official-designed-with-generative-ai-in-mind/amp/"
+    cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2023/10/24/snapdragon-8-gen-3-official-designed-with-generative-ai-in-mind/amp/"
+    type: article
+    provider:
+      name: Droid Life
+      domain: droid-life.com
+    quality: 59
+    images:
+      - url: "https://www.droid-life.com/wp-content/uploads/2023/10/Snapdragon-8-Gen-3-600x315-cropped.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Nvidia generative AI-focused DGX Cloud launches on Oracle Cloud"
     excerpt: "Nvidia's DGX Cloud supercomputer is now available in the Oracle Cloud Marketplace. Oracle customers will now be able to access the Nvidia DGX Cloud AI supercomputing service for training generative AI and other workloads,"

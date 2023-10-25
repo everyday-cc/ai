@@ -3,11 +3,11 @@ category: news
 title: "Tarjama launches CleverSo 3.0 - The first TMS with an Arabic UI and powered by Arabic AI"
 excerpt: "With CleverSo 3.0, Tarjama introduces a new tiered pricing structure and makes it available both as a cloud service and for on-premises installations, providing flexibility for businesses of all sizes with varying security needs."
 publishedDateTime: 2023-10-24T06:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/10/24/9903766.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/10/24/9903766.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-tarjama-launches-cleverso-30-first-tms-with-an-/2023/10/24/9903766.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-tarjama-launches-cleverso-30-first-tms-with-an-/2023/10/24/9903766.htm"
 type: article
-quality: 10
-heat: 10
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "1HzW6BH5IcmyVl31dRnXYtFv9HCQN9s9MISIFQ6Q2FgNywm9j7b+TAkhG96YJ+KeCEMSEuUM2bmjzt683cJrJnDoJCN4VfdWwdwpI57/nlZhyCsGf3EO2nlIHSD+xwofdDcNj2Mkr+NE6uqYiqBDZ+YmwmdfYU4cN29teOijkWZiUeUipLHOzIbvGjyEDKefnjNkamlHG9EH35xCk5x/pC6SHFpYWn7V6vOMp3odTsVfurybePa7N0ha0lK3ySX3DBuGP+xvOBBWdC9TSBxWESmnikex5fk96Ioy+GD9erUVrzyZKaDE+5CjD3Gg7wfxXCvNv7/X9seHfoHKa8Ipy35PiCtu8aDUCLq2FRIlGsdS2U1x6nBJT4jdApcXegz2PKwjet3hYpDqIAhesg8ANW6YGtjHWW23QQfb+UnuDOPi9gNTeGOEQscxlnljYjnTqK+3pjv4jwuQ6+Zeu6FgFOSuZ60kGvLCBXsetOjUajf2dKqe3xkq91biBYCRkzWRO0/P20AefpNMTooI++Z3ag==;jBwDTlrNy/mDXtF4QWtWzA=="
+images:
+  - url: "https://mma.prnewswire.com/media/2255080/Tarjama_CleverSo.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "rz+R2jLLM8KiOIDWS0/vhMkjSY+/Yy9l1hDzeDjXrcRZWJ6CeNKWz79ggbNF5mQ2NhpBU7v098DVMAUd31LenJzv9xStxK3THR5MRHPWeNmjVB8ZaOyGUXSW97mkVrcP4amlMHNX9pmvAwcewEj91pLCvxzJ9xJq1TEGdh627IUxnkkCEPDKY7PXzsmDRxm2roKOtg6y5Ayt+M+Wk8FFhLW17kwb9Xr31PkeyVBWrU8Q3tGQvzvfBeemsN9xG8fbNPalhE8PnOmSWn1+MwU6Ce5AxzmOBwi4J+nlghWYO/H12Uk/be7Fn55c04Bd9OHlZGNImNLl38haSru+eyLP5AcNLQhpwDYUWLgIBnFx1Eo=;Y4unqIV1IgTsY7FKlI2u8w=="
 ---
 

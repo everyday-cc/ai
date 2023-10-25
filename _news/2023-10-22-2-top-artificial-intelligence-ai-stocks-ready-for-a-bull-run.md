@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/2-top-artificial-intelligence-ai-s
 webUrl: "https://www.nasdaq.com/articles/2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run"
 type: article
 quality: 62
-heat: 73
+heat: 72
 published: true
 
 provider:

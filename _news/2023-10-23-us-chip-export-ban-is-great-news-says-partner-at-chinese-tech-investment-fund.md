@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tightened US rules throttle Alibaba and Baidu’s AI chip development"
-    excerpt: "Chinese tech groups restricted to using outdated processors as Washington aims to curtail Beijing’s artificial intelligence ambitions"
-    publishedDateTime: 2023-10-20T05:57:00Z
-    webUrl: "https://www.ft.com/content/ef157204-a204-4512-8c50-fe60e166b41e"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "China homegrown AI chip development proceeding despite US ban"
     excerpt: "China's chipmaking industry continues to advance its domestic development of AI chips despite stricter US bans, with companies like Alibaba, Baidu, Huawei, and Tencent developing their own AI chips."
     publishedDateTime: 2023-10-24T01:41:00Z
@@ -103,17 +89,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Alibaba, Tencent join big backers for Chinese AI startup Zhipu"
-    excerpt: "Alibaba Group Holding Ltd. and Tencent Holdings Ltd. are among the influential Chinese investors that invested 2.5 billion yuan ($468.9 million) in AI startup Zhipu this year, part of a wave of capital flowing into a red-hot arena."
-    publishedDateTime: 2023-10-20T05:37:00Z
-    webUrl: "https://www.theedgesingapore.com/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 37
 
 secured: "kilYqKhwQ11u23klncQBxE2LFHzL0ANqxRHO8E7GUZXA/DPgsYIKqrSqSHS3ufDP9tdnyFrauLTy0w1v3RgyGmqd7tW0hL8msYdQLHhbsmKT7kYoiMcR1d9je93x54Xyp8TH0R9IKM4Z306b+vNVIyzi7snoFdu/0NYvNYkfrNnCg0BV4JZ24nNc+a3/FoB0vUcSQyGbbsrvReOwj6CrNmRADxGQStjyQ9gjPPxk7yMZwc5nMJvTO46QF6Xn1vabwtOfU6Y0GMBvKi0HuO6f2Ia8kAzWY4SHNcVdfL1ihmoe/+ZJECIQnk0m3zghX3xCVuQyCTcxZXIDngHwKAnMHUsq7+y54UFkgj9twMUbgbXMx6/S/OO+L2Z2VRW8RrRP7TtEZQd0K+hHocptQo0MVFXKLv9sQeakBbnuxAZBHm18uGGWpViqJ3GPafo7UUSPoa8E9lY2OfhHi6SK5WiUbz1S6M0Q2CxlK9F5QhbOlRsZFeZvOq9XcjUSFiD4wRNpuYS5AFPDIkJyGnEiflkvWA==;6lUc37X+rtyf7kcHEy4wgw=="
 ---

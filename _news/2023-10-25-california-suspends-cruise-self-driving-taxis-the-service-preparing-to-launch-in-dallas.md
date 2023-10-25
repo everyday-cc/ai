@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dallasnews.com/business/autos/2023/10/24/california-susp
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/?outputType=amp"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "California DMV suspends Cruise's self-driving car permits, effective immediately"
+    excerpt: "The California Department of Motor Vehicles on Tuesday suspended Cruise’s deployment and testing permits for its autonomous vehicles, effective immediately."
+    publishedDateTime: 2023-10-24T10:55:00Z
+    webUrl: "https://www.nbclosangeles.com/news/national-international/california-dmv-suspends-cruises-self-driving-car-permits-effective-immediately/3251051/"
+    ampWebUrl: "https://www.nbclosangeles.com/news/business/money-report/california-dmv-suspends-cruises-self-driving-car-permits-effective-immediately/3251051/?amp=1"
+    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/business/money-report/california-dmv-suspends-cruises-self-driving-car-permits-effective-immediately/3251051/?amp=1"
+    type: article
+    provider:
+      name: NBC Los Angeles
+      domain: nbclosangeles.com
+    quality: 39
+    images:
+      - url: "https://media.nbclosangeles.com/2023/10/107282661-16914113762023-08-07t100638z_978946371_rc2xi2ar2cgn_rtrmadp_0_usa-autos-autonomous-san-francisco-1.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "California Halts Cruise's Self-Driving Cars Citing 'Risk to Public Safety'"
     excerpt: "California’s DMV is suspending Cruise’s permit to test self-driving cars in the state over concerns the vehicles pose a risk to public safety."
     publishedDateTime: 2023-10-24T19:04:00Z
@@ -46,6 +62,6 @@ related:
       domain: devdiscourse.com
     quality: 1
 
-secured: "g5i0pKzM0YCBKSGU8r8niGcEAcNYpawRAfZLDEttIymZE4PNW17xv0ifPuYj+AWgzFqmpLu1c5slyUx0pRJ7M/CYQTu76XFdwjOKYiCZoi2wBwpr+X0IZNR4aQPe/gLbjD2PUEMoaJ0PnYDi1cMO/pYL40oH4wtQDEqJMo3thXUKaPKV1jdgiDy86Irs3Pmo5CZnykDkiwyA4eJeUkuR9GjYR3Ua3/NqFvMScCoLD6bJU4OwQM4ALvqsWZZhdwHcwjfu4NxL3b9txRiFPb6IIju6kMtG/kjj802CUhiZu0wG3+8WtnoQwWEV172FhzVj+RV8mmyB2Ny2ZyQQgLwZzPwcilp5mAMZbghXJK5eGFc=;hifF8gcV4oNSe4GTLnP+tQ=="
+secured: "LrO1AaU+/YXhivozIv+tUxZC8LHarIOsnrpFDSv+kiuaRo0kSFrhD3xDdnLvFW21kRg+rqITHsGNqt2ekwIfFA9sQ7yp++REC9voaR1ONyhaZ23B/EXq+qkinGa/r9y+SKrgyhUxOS1JNmcAKisaxwBD0JXCNiBi01IOeGosnqT9siHX8XrobOY3sxIs7q4LwIyfj+DMpFA39B2XwIgBh1s38ifi+P2yWmsJGVpkpLkzNztbTEWJ7BSAHVkvPSHzCGeokJamB11Pt73GZK8DjeclUDHNtlYn9DnROnXPm/5eraWCM/qkAh/fECBoCB+EJgSHonGn0j+zXbdvhE5PZsFN3qqukUyMFDCOCCzq/wgIZdp5gCAVzqZfVTqBfJTivG06Ytu22RxrHJRiGA4bL0qrQp5Dgm5B8utOZlIRtwF6v82lvEoWqgwtt1iQZ37LXoNSua5nPYADZdMaLosUNAl9qTZ0N9a+QdWaMBe023lwZtRHxPBXpFLsMcoVIZv9FD/UzmMzeNhzjwlivFqKaw==;v6EcxiKbJREatmbSI++qlg=="
 ---
 

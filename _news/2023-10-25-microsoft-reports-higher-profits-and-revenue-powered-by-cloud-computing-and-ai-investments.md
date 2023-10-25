@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Microsoft reports higher profits and revenue powered by cloud computing and AI investments"
-excerpt: "Microsoft has reported a 27% increase in profit for the July-September quarter compared to the same time last year."
-publishedDateTime: 2023-10-24T20:23:00Z
-originalUrl: "https://www.clickondetroit.com/business/2023/10/24/microsoft-reports-higher-profits-and-revenue-powered-by-cloud-computing-and-ai-investments/"
-webUrl: "https://www.clickondetroit.com/business/2023/10/24/microsoft-reports-higher-profits-and-revenue-powered-by-cloud-computing-and-ai-investments/"
+excerpt: "Microsoft on Tuesday reported a 27% increase in profit for the July-September quarter compared to the same time last year, powered by growth in its cloud computing division"
+publishedDateTime: 2023-10-24T20:59:00Z
+originalUrl: "https://thehill.com/homenews/ap/ap-technology/ap-microsoft-reports-higher-profits-and-revenue-powered-by-cloud-computing-and-ai-investments/"
+webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-microsoft-reports-higher-profits-and-revenue-powered-by-cloud-computing-and-ai-investments/"
+ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-microsoft-reports-higher-profits-and-revenue-powered-by-cloud-computing-and-ai-investments/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-microsoft-reports-higher-profits-and-revenue-powered-by-cloud-computing-and-ai-investments/amp/"
 type: article
-quality: 46
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: clickondetroit.com
-  domain: clickondetroit.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - Facebook AI
@@ -20,9 +22,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VI5XY6RSCZC6PLLMESP3GOEGHM.jpg?_a=ATAPphC0"
-    width: 700
-    height: 432
+  - url: "https://thehill.com/wp-content/uploads/sites/2/2023/03/cropped-favicon-512px-1.png?strip=1"
+    width: 512
+    height: 512
     isCached: true
 
 related:
@@ -71,6 +73,20 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/65368bb1e4b020a9bcf00815?location=LANDSCAPE"
         width: 960
         height: 540
+        isCached: true
+  - title: "Microsoft's quarterly results and guidance showcase its AI prowess"
+    excerpt: "Microsoft ’s (MSFT) fantastic fiscal first-quarter results and stellar guidance on Tuesday demonstrated once again that the software giant is one of the most formidable contenders in the increasingly competitive AI arms race."
+    publishedDateTime: 2023-10-24T21:46:00Z
+    webUrl: "https://www.cnbc.com/2023/10/24/microsofts-quarterly-results-and-guidance-showcase-its-ai-prowess-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 84
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107303118-1695140793195-gettyimages-1676978506-Omarques_19092023_TECHKRK_5_of_14.jpeg?v=1698191189&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Microsoft Analyst Bullish On AI Leadership, Retains Caution Given High Interest Rates"
     excerpt: "Also Read: Analysts Are Bullish on Microsoft's Azure and AI Growth Ahead Of Q1 Earnings - Here's Why On this basis, Turits expects an overall in-line Q1. However, he retained some caution given the ongoing high-rate environment, macro concerns expressed in ..."
@@ -277,6 +293,34 @@ related:
         width: 473
         height: 315
         isCached: true
+  - title: "Alphabet and Microsoft see earnings rise on AI-infused cloud"
+    excerpt: "Google parent Alphabet and computing colossus Microsoft Tuesday reported that quarterly profits climbed on demand for cloud computing enhanced wit"
+    publishedDateTime: 2023-10-24T23:37:00Z
+    webUrl: "https://menafn.com/1107297667/Alphabet-and-Microsoft-see-earnings-rise-on-AI-infused-cloud"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/24/AFP_24a5dimage_story.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "Microsoft is ‘changing rules of the game on gen AI’ after Q1 earnings"
+    excerpt: "Microsoft is changing the rules of the game on Generative AI … they’re rolling out almost 11 Copilot offerings. That’s a major uplift for Microsoft from the enterprise perspective. The post Microsoft is ‘changing rules of the game on gen AI’ after Q1 earnings appeared first on Invezz."
+    publishedDateTime: 2023-10-24T23:57:00Z
+    webUrl: "https://kalkinemedia.com/us/business-news/latest/microsoft-is-changing-rules-of-the-game-on-gen-ai-after-q1-earnings"
+    type: article
+    provider:
+      name: kalkinemedia
+      domain: kalkinemedia.com
+    quality: 54
+    images:
+      - url: "https://kalkinemedia.com/storage/uploads/large/1698191479_653858777df60_171441221_m_normal_none.jpg"
+        width: 600
+        height: 452
+        isCached: true
   - title: "DCT Abu Dhabi And Microsoft Sign Mou On Generative AI, Cloud Technologies"
     excerpt: "( MENAFN - Dubai PR Network) DCT Abu Dhabi and Microsoft Sign MoU on Generative AI, Cloud Technologies"
     publishedDateTime: 2023-10-21T05:25:00Z
@@ -397,6 +441,6 @@ related:
       domain: microsoft.com
     quality: 12
 
-secured: "vtsK6oEYq0pso5Zq4+HeAYBrdoBunCU7ChmsG/fXb5nC4iOVRkvD9BmxzWpwa8QgfpDh+PY8YDUef4BkOsbyO6iJo9dsdjy16153JyCZj2kMd2uhRCqa2UAdkoP0hxncMOEM8+gZ6zqthbj3iuJAY08ttxCPqSVGjtoeFh0MshNT+5FjB0VcyeFBYmMFzZmtEOt5/GXynQiZFlhKFPvDOD6LcebmCPTiXnAWQbRw88GliywMREHNq3FWgZjl1T+mjm8AV0PSKpuxMOtdft8AzVz+sOsb12LuDwGdc5g73JYJweKPGAn6O4EpN+aWSBHytKbq+/0xFkrdMmaU1EUmNoX8oHLQ2Vdap+Jvhf+/7KU=;eXo/jPf3qJaO1oY/gLlCLQ=="
+secured: "G4Lu52tDQfqFBv7W2s4C809b8/LbnHaS103CAVi4qi6tbMd2MkFvrZAdAGT3PH1U6XyTWSl2Ll91YfXIYcdKis46guaP+9cFY34L6CZQ6CdvGmzWy25e+T8PhrmBHiX515GCApbub3iw/HVng5FBzeLa8nWjDwtAStIdAy7PhG6QiuAe9ctdHQGX7w/aFS4zQK9IBTlmwJ4uX8Gbqga2IkY9MHRItSywftjg0GudW8og2U13atiJuF2+luACKb4mFOCE9PGMPLreFP49Jmy7Q4eZMRk2DRt+086ALGdpthmBeuTAMUwRvbfa1i7iSTBUL+mhrr+Ujd+W8hW3J+WRMpksaPV4zmC2idwcKcCiNDQ=;1DcFdKA1zGI5MHkhZ/iMHw=="
 ---
 

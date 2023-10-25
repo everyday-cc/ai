@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tightened US rules throttle Alibaba and Baidu’s AI chip development"
-    excerpt: "Chinese tech groups restricted to using outdated processors as Washington aims to curtail Beijing’s artificial intelligence ambitions"
-    publishedDateTime: 2023-10-20T05:57:00Z
-    webUrl: "https://www.ft.com/content/ef157204-a204-4512-8c50-fe60e166b41e"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "U.S. chip export ban is ‘great news,' says partner at Chinese tech investment fund"
     excerpt: "The U.S. Department of Commerce will prevent the sale of some advanced AI chips to China, a move welcomed by a partner at a Chinese investment fund."
     publishedDateTime: 2023-10-23T05:08:00Z
@@ -103,17 +89,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Alibaba, Tencent join big backers for Chinese AI startup Zhipu"
-    excerpt: "Alibaba Group Holding Ltd. and Tencent Holdings Ltd. are among the influential Chinese investors that invested 2.5 billion yuan ($468.9 million) in AI startup Zhipu this year, part of a wave of capital flowing into a red-hot arena."
-    publishedDateTime: 2023-10-20T05:37:00Z
-    webUrl: "https://www.theedgesingapore.com/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 37
 
 secured: "f6VQQeoERU/kH0P7oxBcTNJ54sEjaN/LSGmm9q1Fi0hSMWFNC8q4iBF0IXLHESB0iBauYyYzo47WFavdH3z5o3KVQu6HMWVjKeFO1wLGxCTDVTNLtf9+dakZxBA4QOJww2PfgWPqfsrr/xTFHwsLtGvM24B1rM/xLQPvluWqAuFaPTBhDoX4GBBoQ1EXTX7TvflouSyu9r8PxVJP6UUMd6urUqM6XWb6tbNk2JTpJ+jyQtX9ObWZvFDN0tBPDrEGQSBiLrHFz30pmjKvcXQBtgBGceGnAKQ4qgmbO3KerhjmoEBaXpieXyMZpNRXyDRAVBfNFkWjbZNgMvoXIiVImWY/lkvG5ISEpsp+7tj6YwxGNJi3RzuUxNBZuBfoBJuz3s9BVK6mXMh55pC9pjdqKSDRYo1Qu/YfKzqwJJ9+8nsRzLvOaE2XOIFAEkGCgBhPkbK1icGuzskwRPr8AXGuS6lA5Bx5KnLC+TLGPo5v87aucs+iT+g1/tZhDvOKxbJELdZZym9dNZZGjm43napBAw==;bBlIfTHr5JnYyQ9DKApZJw=="
 ---
