@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 789
         isCached: true
+  - title: "Qualcomm leans into Gen AI to beat chip competition. Can it?"
+    excerpt: "Qualcomm on Tuesday made a series of announcements that highlights the chipmaker’s pivot to generative AI. All the products it unveiled were aimed at supporting gen AI applications so mobile units can perform AI-based tasks on device. This is testament to the fact that use cases for gen AI are only set to rise exponentially."
+    publishedDateTime: 2023-10-25T05:27:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/qualcomm-leans-into-gen-ai-to-beat-chip-competition-can-it/article67456544.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/qualcomm-leans-into-gen-ai-to-beat-chip-competition-can-it/article67456544.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/qualcomm-leans-into-gen-ai-to-beat-chip-competition-can-it/article67456544.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/uiojd4/article67456525.ece/alternates/FREE_1200/QUALCOMM-BOARD"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Qualcomm says its new chips are 4.5 times faster at AI than rivals"
     excerpt: "Qualcomm's new Snapdragon processors bring fast generative AI to laptops and phones while keeping your data private and saving power."
     publishedDateTime: 2023-10-24T19:00:00Z
@@ -57,6 +73,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Qualcomm announces Windows laptop AI-powered chip to outpace Apple's Mac processors in select tasks"
+    excerpt: "This revelation follows a recent Reuters report indicating that Microsoft has urged Qualcomm, Nvidia, and Advanced Micro Devices to develop new chips capable of accommodating a range of innovative AI features in Windows, the world's most widely used PC operating system."
+    publishedDateTime: 2023-10-25T05:29:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/qualcomm-announces-windows-laptop-ai-powered-chip-to-outpace-apples-mac-processors-in-select-tasks-11698210532100.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/qualcomm-announces-windows-laptop-ai-powered-chip-to-outpace-apples-mac-processors-in-select-tasks/amp-11698210532100.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/qualcomm-announces-windows-laptop-ai-powered-chip-to-outpace-apples-mac-processors-in-select-tasks/amp-11698210532100.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 60
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/10/25/1600x900/AUTOTALKS-M-A-QUALCOMM-0_1698211703241_1698211724194.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Qualcomm introduces new AI-optimized handset and laptop chips"
     excerpt: "The onboard CPU was designed by Qualcomm’s Nuvia unit, which became part of the company through a $1.4 billion acquisition in 2021. Nuvia was founded two years earlier by former senior members of Apple Inc.’s chip design team. The Snapdragon X Elite’s CPU reportedly features 12 cores that can reach speeds of 3.8 GHz when they’re all active."
     publishedDateTime: 2023-10-24T21:43:00Z

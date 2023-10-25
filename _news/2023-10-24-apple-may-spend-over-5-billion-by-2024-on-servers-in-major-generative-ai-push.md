@@ -25,37 +25,88 @@ images:
     isCached: true
 
 related:
-  - title: "Analyst Kuo: $5 Billion on AI Servers in 2024 In Attempt to Catch Up"
-    excerpt: "Apple could spend upwards of $5 billion on servers alone in the next two years as it attempts to catch up with competitors in the generative AI field. On"
-    publishedDateTime: 2023-10-24T00:36:00Z
-    webUrl: "https://www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up/201433/"
-    ampWebUrl: "https://www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up/201433/amp/"
-    cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up/201433/amp/"
+  - title: "AI May Soon Weigh In on Regulation"
+    excerpt: "How will agencies like the FCC deal with computer-generated public comments?"
+    publishedDateTime: 2023-10-24T19:12:00Z
+    webUrl: "https://www.wsj.com/articles/ai-may-soon-weigh-in-on-regulation-artificial-intelligence-agencies-public-comment-periods-766436ec"
     type: article
     provider:
-      name: iDrop News
-      domain: idropnews.com
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-873788/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "MOLEG seeks expanded role in setting rules for artificial intelligence"
+    excerpt: "The need to regulate the unlimited possibilities and risks of artificial intelligence (AI) is increasing in tandem with the expanding domain of the new technology."
+    publishedDateTime: 2023-10-22T07:24:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/nation/2023/10/356_361568.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361568"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361568"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
     quality: 59
     images:
-      - url: "https://cdn.idropnews.com/wp-content/uploads/2018/04/20150559/Artificial-Intelligence.jpg"
-        width: 1000
-        height: 600
+      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/16975f1463e24016a4f508f58fa7f1b4.jpg"
+        width: 750
+        height: 677
         isCached: true
-  - title: "Ming-Chi Kuo: Apple Could Spend Several Billion on AI Servers in 2023 & 2024"
-    excerpt: "Apple industry analyst Ming-Chi Kuo says Apple will spend several billion on hardware to facilitate its artificial intelligence efforts in 2024."
-    publishedDateTime: 2023-10-23T23:53:00Z
-    webUrl: "https://www.mactrast.com/2023/10/ming-chi-kuo-apple-could-spend-several-billion-on-ai-servers-in-2023-2024/"
-    ampWebUrl: "https://www.mactrast.com/2023/10/ming-chi-kuo-apple-could-spend-several-billion-on-ai-servers-in-2023-2024/amp/"
-    cdnAmpWebUrl: "https://www-mactrast-com.cdn.ampproject.org/c/s/www.mactrast.com/2023/10/ming-chi-kuo-apple-could-spend-several-billion-on-ai-servers-in-2023-2024/amp/"
+  - title: "AI Takes on Expiration Dates"
+    excerpt: "Food can go rancid when it’s exposed to the air for a while—a process called oxidation. In fact, many common ingredients, but especially lipids, which are fats and oils, react with oxygen. The presence of heat or UV light can accelerate the process."
+    publishedDateTime: 2023-10-22T12:00:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/10/ai-food-preservation-chemistry-rancidity-detection/675723/"
     type: article
     provider:
-      name: Mactrast
-      domain: mactrast.com
-    quality: 56
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 47
+  - title: "Artificial intelligence may help predict infection risks after implant-based breast reconstruction"
+    excerpt: "Artificial intelligence (AI) techniques may provide a more accurate approach to predicting the risk of periprosthetic infection after implant-based breast reconstruction, reports a study in the Novemb"
+    publishedDateTime: 2023-10-24T20:30:00Z
+    webUrl: "https://medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 45
     images:
-      - url: "https://www.mactrast.com/wp-content/uploads/2020/12/Siri-in-iOS-14.jpg"
-        width: 1242
-        height: 726
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/breast-implant.jpg"
+        width: 2880
+        height: 1925
+        isCached: true
+  - title: "EU lawmakers face struggle to reach agreement on AI rules -sources"
+    excerpt: "The EU started working on the draft AI Act in 2021. In May this year, the European parliament agreed on draft legislation including new rules around the use of facial recognition, biometric surveillance, and other AI applications. Under the proposals ..."
+    publishedDateTime: 2023-10-23T15:23:00Z
+    webUrl: "https://www.aol.com/news/eu-lawmakers-face-struggle-reach-143724731.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/0ca43e1b8ea6f24b6034e0d8cbb568fa"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "EU lawmakers face struggle to reach agreement on AI rules -sources"
+    excerpt: "European lawmakers are yet to agree on several issues related to new artificial intelligence rules ahead of a crucial meeting on Tuesday, leaving any deal off the table until December, according to four people familiar with the matter."
+    publishedDateTime: 2023-10-23T17:37:00Z
+    webUrl: "https://www.aol.com/eu-lawmakers-face-struggle-reach-143724731.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/0ca43e1b8ea6f24b6034e0d8cbb568fa"
+        width: 800
+        height: 534
         isCached: true
   - title: "Apple could spend $4.75 billion on Artificial Intelligence in 2024"
     excerpt: "Apple is looking to catch up with the likes of Microsoft and Google on Artificial Intelligence and the company is apparently planning to spend a"
@@ -71,24 +122,24 @@ related:
         width: 2180
         height: 1453
         isCached: true
-  - title: "Apple could spend $5B on servers to catch up in AI race"
-    excerpt: "Apple's attempts to catch up with the rest of the market in the generative AI field could cost more than first thought, with it potentially spending more than $5 billion over two years just on servers."
-    publishedDateTime: 2023-10-23T18:43:00Z
-    webUrl: "https://appleinsider.com/articles/23/10/23/apple-could-spend-5b-on-servers-to-catch-up-in-ai-race"
+  - title: "Key considerations for regulating artificial intelligence in healthcare"
+    excerpt: "The World Health Organisation (WHO) has released a new publication listing key regulatory considerations for artificial intelligence (AI) in health."
+    publishedDateTime: 2023-10-21T18:50:00Z
+    webUrl: "https://www.thedailystar.net/star-health/news/key-considerations-regulating-artificial-intelligence-healthcare-3449616"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 19
-  - title: "Kuo: Apple Could Spend $4.75 Billion on AI Servers in 2024"
-    excerpt: "Apple is expected to spend several billion on hardware to support its artificial intelligence development in 2024, according to speculation"
-    publishedDateTime: 2023-10-23T18:55:00Z
-    webUrl: "https://www.macrumors.com/2023/10/23/apple-ai-server-spending-2024/"
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 34
+  - title: "Healthcare AI regulation is coming into focus"
+    excerpt: "Stakeholders are calling on the FDA to provide more concrete guidance in how clinical AI applications should be implemented."
+    publishedDateTime: 2023-10-24T09:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/ai-healthcare-federal-regulation-fda-onc"
     type: article
     provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 19
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
 
 secured: "mmQjlc/RDo8BZmvMmrT+HPEIfwqG6zumXC1mrI9Q9R/RmOpnPhkD2dQYTggxwtSuXtZibhQwCITyOylRWQUsjPZgbBCH08Yow4QQroRA4L/ZZsxzqNW0177TWo17f9JrY5eLKibi+nwk0M5XIXe/KsDeXJiAMpPSWhqPFqODlWwK8rTGzngOhR/r+huB5rqAJxNF4OnWcL/Cv1u3xToKHZni9lUFiAEp7ovfsvEmWxwtBwB2UbOMU9gb2kJTjX6V9sdTfchvKCC8MJfa3NeGJL3L/YwJMjkJ+6fI+LbO/C3/KgsE1wMM4Po36LW+Vh/oqh5BbeFS82p1MVf6IUORMXV+KmAFMjsbkQKi01R4KCH3q2gMkTT6Rs3lexTwU1lf2uJDiGlb/DjyjiaRyUNS3Jik4RrvRjZK/ZAsBAiFYX5/+DYnKBis8sUhzvS1Rw73shgh/HEEsTH20uUX4a5vBJMCxcOWNLKPBP+YxdBKMh81BHQUsBHcV/OwzPHVSFFYJmB0Tp4hXQ0CzVVSNQqBew==;4FZS7u+NuAFFYDKIym3S8w=="
 ---

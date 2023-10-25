@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Netapp Advances The State Of AI & Secure Infrastructure At INSIGHT 2023"
-excerpt: "that also include Amazon AWS and Microsoft Azure. With advancements to its cloud machine learning technology, Amazon Sagemaker, already supporting Amazon FSx for NetApp ONTAP, will add Amazon Sagemaker notebooks, which can access AWS FSx for NetApp ONTAP ..."
-publishedDateTime: 2023-10-24T23:44:00Z
-originalUrl: "https://menafn.com/1107298324/Netapp-Advances-The-State-Of-AI-Secure-Infrastructure-At-INSIGHT-2023"
-webUrl: "https://menafn.com/1107298324/Netapp-Advances-The-State-Of-AI-Secure-Infrastructure-At-INSIGHT-2023"
+title: "NetApp Advances the State of AI & Secure Infrastructure at INSIGHT 2023"
+excerpt: "NetApp® (NASDAQ: NTAP), a global cloud-led, data centric software company, today announced multiple innovative portfolio updates, including enhancements to the industry’s best data pipeline for hybrid multi-cloud AI and advancements on the most secure data storage against ransomware."
+publishedDateTime: 2023-10-25T05:20:00Z
+originalUrl: "https://www.businesswireindia.com/netapp-advances-the-state-of-ai-and-secure-infrastructure-at-insight-2023-87139.html"
+webUrl: "https://www.businesswireindia.com/netapp-advances-the-state-of-ai-and-secure-infrastructure-at-insight-2023-87139.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
-  - Microsoft AI
+  - AWS AI
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-10/24/MON_d8b70image_story.jpeg"
-    width: 800
-    height: 418
+  - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_87139.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -49,6 +49,6 @@ related:
       domain: businesswire.com
     quality: 21
 
-secured: "Eni5DuxBZteLI1Wr0i1uanxnBVrgfMhPLfEBFGC6P9iqhEPTsPRxrusGRBA4nikCiyBPsw/d0ZN8hdoKj/C3cm6yJ8rhy8gaRbxKBeUSSXaBkjqQJ06OgmIck0Fyjpj1F+96aHDhtKExk+tBu/ELjw6fnm/NClmkQfQg1L0rakyV3EVNGiskkcQnvC/cvJNPxh+DwimH8NDYA3QUz9fF8hhf0xaAqelH4AvcnLxbC5SugtIC7ByKaKMfaBKge/HednQBQDvO+F4RWo7cxFAV+dgdGxTTeW+pWOzxzO9qwr8lyb3ESpXdZ53lA2GZq4DoIYMwGsV44ERRcqzudZNhXIXAg/vGcI8b0ZPtMVONBjU=;Q+CxzZpuOvtdxlTQ/V6hjw=="
+secured: "kLmx/v9A5RGXqs+/itjirYrb1RkUuPrlVFWHM97Hr6z3H3CjEoAedIpc+xQiGNhOBI9zWt2zYX7lUv880eSyAoeNbH7HCzdAGZLB0SBD2qBRXtL/xmj+kbaO0UgHt5nG87ocorwe2hMFid9/0+vBgWvaMY7xBJhK1E6lAHZn5K/4HkRAXHi+buxxYZLHlTIMuLoC7d7wK4CvBHdwGgP1OLdXmzdIbEWl61q3GnBkb8rypLZb8PiUfGq8ezcOc8g9u1xzL/F3fuoUod1HcqES1m+D3oGNATeLPafoBrovflvbdo6f37Eyd3YBeAkQMMHuVNM2izRWw5Q7Lons6maaMKIcMdf2vDgO+f2A+1tEKJw=;P78HpQVID4XDsjuPC9GDwQ=="
 ---
 

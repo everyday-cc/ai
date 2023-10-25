@@ -2,7 +2,7 @@
 category: news
 title: "AI models lack transparency: research"
 excerpt: "The best score -- 54 percent -- was given to Llama 2, the AI model launched by Facebook and Instagram ... a researcher at Stanford's Center for Research on Foundation Models, said companies ..."
-publishedDateTime: 2023-10-19T13:17:00Z
+publishedDateTime: 2023-10-19T00:00:00Z
 originalUrl: "https://www.enca.com/opinion/ai-models-lack-transparency-research"
 webUrl: "https://www.enca.com/opinion/ai-models-lack-transparency-research"
 type: article
@@ -21,6 +21,6 @@ images:
     height: 319
     isCached: true
 
-secured: "E2rLkVilSjGPIrq+0aaBudfcX6L7E+9prRhKQUwFfyYGWLUDlDhZYW3XoDCvvMdzQWsDYXlbbVlW8h3IzxWngOv9aOVgv+UYFMMM7r8mDunn4LhTSdwlvqicnrEe6lcdHEeO/+JhXsDymJ3AdhBRdXV26Nh60gVbuALRynXuOGWgFFC8zLp1JphfbW8c13gr7nV59Vi9vE8EPC8WlTwlCauVlVj8bhhfH4yvK+CQrkbqdCS1n/VyFarZKuAjLt2K6dg75zvMeAuKSVY6SHvCpQWLGic1tg0NsN9kT3meKJfWa0aLF/wIaj/42lPAi6e13r19x2cQxnNgOOTYmcITcKlY6KJI6c0jriUWix4qT/A=;wh3SQAe/rIQNnwxI5Is0bw=="
+secured: "Z8ml1xwfYXRfVHyBdjlBP0Y5EHR62KCPL6DYwZt3p1HjH+fVZU9m29MNnwDZn+s21EGsgVEs0WkYMpU6zANmfAQvg6ABBj35BrrJfpDM9B58gND1dV8l2wXR0smAwy0kThdg+OqKcmI6mpvnD0trlaSqX0yz7jMPj9bBVDF/ei4dULPF2PIz48gLidLX0r3QZcH8HvXXYatMd9DsRqdxq4ZuEZNabmMcwVaxsQmoAMrotRsfjlvxryDE4yKPBWO/T09XasWeFOaWT4Z5OZly31qiE3jNFHlTd6myc5DHDjXbK19C/H/S+bgehRmaSpLCLBhG2wm3rSVnzwW4e2q+5eBV6OUsiATskcmGHyZTSYw=;q0Waf9v6uD3mbKdMuT1StQ=="
 ---
 

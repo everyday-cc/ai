@@ -35,6 +35,20 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "How governments are approaching the regulation and use of AI"
+    excerpt: "“AI is not just about the technology; it’s going to impact aspects of our daily lives that we can’t even imagine right now,” Dillon said. “We need to really concentrate on and address the ethics and the regulations and the workforce concerns and ..."
+    publishedDateTime: 2023-10-23T14:13:00Z
+    webUrl: "https://www.cityandstateny.com/policy/2023/10/how-governments-are-approaching-regulation-and-use-ai/391389/"
+    type: article
+    provider:
+      name: City & State New York
+      domain: cityandstateny.com
+    quality: 39
+    images:
+      - url: "https://cdn.cityandstateny.com/media/img/cd/2023/10/20/GettyImages_967906100/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "q9PFgqSFkyvouetWlRE9N8p8IsbSNOK4BST/CqGXinfgzzhOQr6TpG73YF50xMFC9gMziyrHhZAHefNB/oHbPwx3jdsRgLStlQIN11TMv1KC4ij6qgTU7x7gT5mBi2a6G4POS/a7BlQxT0Bs2zOXKmwgAHpW8ScZaWeKb7f6acq/eGm2kvOC5/aLe+ANDIE3E+0jgRTGrTmi0jZDYDJbwQ4VLktroXPImXc5mVPRsNwdDR1XJynW+subdyGUKjqIttCb4LLwqOgHey7EWztYtdW5K7xlNn+vRTLaM3Cw95yDe57Q6rd6OGPcwAGRWT6szTXA7WU54qvpscDH649hcNMhMp7A9oWdqEByYJNzn055cZM/aR5W4Qs460wT9o1A8TaGWJlGCbW8e5PfVJDJDdjvUgl7oZdhFb5f6Pl9smcUWhKSMb8iGewNclM5+hdN94E8DuDfY6E2PzsPObhnj7FgAjX5y4msAHxatP6HBvBQTfJ73Ux6n20R17FEYhJ4Y410X2NdkC4tsOkCNi+aQg==;Slp1WTkHfH0QCMVPztitcw=="
 ---

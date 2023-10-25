@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-21114
 cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-211140974.html"
 type: article
 quality: 74
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Qualcomm leans into Gen AI to beat chip competition. Can it?"
+    excerpt: "Qualcomm on Tuesday made a series of announcements that highlights the chipmaker’s pivot to generative AI. All the products it unveiled were aimed at supporting gen AI applications so mobile units can perform AI-based tasks on device. This is testament to the fact that use cases for gen AI are only set to rise exponentially."
+    publishedDateTime: 2023-10-25T05:27:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/qualcomm-leans-into-gen-ai-to-beat-chip-competition-can-it/article67456544.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/qualcomm-leans-into-gen-ai-to-beat-chip-competition-can-it/article67456544.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/qualcomm-leans-into-gen-ai-to-beat-chip-competition-can-it/article67456544.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/uiojd4/article67456525.ece/alternates/FREE_1200/QUALCOMM-BOARD"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Qualcomm says its new chips are 4.5 times faster at AI than rivals"
     excerpt: "Qualcomm's new Snapdragon processors bring fast generative AI to laptops and phones while keeping your data private and saving power."
     publishedDateTime: 2023-10-24T19:00:00Z
@@ -45,6 +61,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Qualcomm announces Windows laptop AI-powered chip to outpace Apple's Mac processors in select tasks"
+    excerpt: "This revelation follows a recent Reuters report indicating that Microsoft has urged Qualcomm, Nvidia, and Advanced Micro Devices to develop new chips capable of accommodating a range of innovative AI features in Windows, the world's most widely used PC operating system."
+    publishedDateTime: 2023-10-25T05:29:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/qualcomm-announces-windows-laptop-ai-powered-chip-to-outpace-apples-mac-processors-in-select-tasks-11698210532100.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/qualcomm-announces-windows-laptop-ai-powered-chip-to-outpace-apples-mac-processors-in-select-tasks/amp-11698210532100.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/qualcomm-announces-windows-laptop-ai-powered-chip-to-outpace-apples-mac-processors-in-select-tasks/amp-11698210532100.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 60
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/10/25/1600x900/AUTOTALKS-M-A-QUALCOMM-0_1698211703241_1698211724194.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Qualcomm's new Snapdragon 8 Gen 3 mobile chip brings generative AI to smartphones"
     excerpt: "The new premium system on a chip has been designed to enhance on-device artificial intelligence, productivity, gaming, and more."
     publishedDateTime: 2023-10-24T19:00:00Z
@@ -146,6 +178,6 @@ related:
       domain: liliputing.com
     quality: 13
 
-secured: "U2ZhafwJJpocWkN9rMhJNvq4+nOczMTCMYljY/WxcktnHK+RoYrt3TSnru2RulOetEz9XaqL0HU7RbC36t8M0fTGkGnMBIrx6f4WVWmNfLcdsXlVjMHULEV6xiOHWKyRzy2F+OwIGSr9+oo8EMfVzpZfhRJTZ+islXiJYYgCdU/kGp+L8pQvLcTyxbV48qVOR8PhIEcGj/6qJhFTDVlZaHnwFN+tmUOS63IJKqPC8MW3XO+a2CJjSrElejW6IBFmdSGiPS88pPeer1p4VOOaar5nmPt2MyQVbtf1kn7IOxPoTn9ah3KCEVwRd8f4aGTFqdfDh6MiaYQhUfnavuEwo66oAt1arnjrOjyut/AhyGE=;gI3aCFY4Z/jjT8GmqykB3g=="
+secured: "WNJuw7Oa9FwvxmOHTRQWMVmtkcKsNQSZ/ArZmH8+LUnkDuGhTngYLDsjXbeBnhsmN4XawnRm27dzTL3t+wLzo+TDm28sA6aKJqmJPucgrGA6Og0r/d5i95coNceoHnytE/T/taJ0QS2K3HOYmJDQhRgF0Bg793Tf4TCjhrvwlwPCj8T4HlYeSk8kNB9O5mmp04nqby60Q1yvOht91aESvEwD+xOv8r/ePiZndo5wqSHWAKtMZ/VO3L/O7s63vnH7Y6ibXUpoQ4pExtm7YVedmhcDQMgBKrRHSuZdDlSPlSjI2LG9k5AKXoe4BF4Lvi/UVe3Cb+xpxiQXM29gXpknuQGoco8wP+nproS7pMPtJXDjqPZbQOe5bKfZz9TSlpSyx310domr48yZMpGl+OiOSZSMmyG1+eqo/GZKsQugaQ4dVG87PJl9FNNggHFWQv3FAlaXre+gD3zTVIfKLT7E27qdOeuC0FxuAGJdO8iFBKjzMv25dEtrV90FOldELl0IgDHWXlfpaEly0UGNIRUH8g==;1DFj+kJvd+Mr6YqBtHpB/A=="
 ---
 

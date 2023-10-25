@@ -57,34 +57,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "EU lawmakers face struggle to reach agreement on AI rules -sources"
-    excerpt: "The EU started working on the draft AI Act in 2021. In May this year, the European parliament agreed on draft legislation including new rules around the use of facial recognition, biometric surveillance, and other AI applications. Under the proposals ..."
-    publishedDateTime: 2023-10-23T15:23:00Z
-    webUrl: "https://www.aol.com/news/eu-lawmakers-face-struggle-reach-143724731.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/0ca43e1b8ea6f24b6034e0d8cbb568fa"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "EU lawmakers face struggle to reach agreement on AI rules -sources"
-    excerpt: "European lawmakers are yet to agree on several issues related to new artificial intelligence rules ahead of a crucial meeting on Tuesday, leaving any deal off the table until December, according to four people familiar with the matter."
-    publishedDateTime: 2023-10-23T17:37:00Z
-    webUrl: "https://www.aol.com/eu-lawmakers-face-struggle-reach-143724731.html?ref=biztoc.com"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/0ca43e1b8ea6f24b6034e0d8cbb568fa"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "ROL8/WgnitSkaKmbY8CGCWnkv3ab9b2fjZ1aVkzTgNO6HHC0zch8kinWF+UCevyZoU1ZJyLEipbGF5gMSnc0JFPa8z1VlRuyyruvw4HGdNP2+n1xhHHOb//VpiBxgQSoQARw3LdvMD7e4/Qx25Scr9+2r65Mlz1TaDnPQ91ox53Xnw4Nr69Yuagv+xGQcQdFe0o5gg10yvJCLcG1lkND3xjpn8ySu78MDjArJY6L2fRtD4JQFgN3BU11YCiGJeT8VsaB7oz8V4V8wSBc087HMiZIts7eZbW1mavsZd2Du+dP6IDUJSSJ6SuJ1E6FAqRJFjlzO9cPXX/ftnVC/TilWJ1rdWqZ9FuDrWKtr2w18fCJqTX8XS24+HyAb3hn+VY2zUA+vN3hoNB5W1ZwUd6wUZvuZmhrkgpmWV8XDvx3istHv40FVf/VOjfQRxKQbS4yOj//aHfxCT2IOGvV4gte1Aek8r9D5/Nq9GfIZ5SBbpH76OrNHHn9Fznj0nJ/9nMfm14ZuqqE03JERunVQmTwuQ==;dn7+VQBPiMHJRROAbab9Sw=="
 ---

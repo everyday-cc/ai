@@ -52,19 +52,19 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "US orders immediate halt to shipping of some AI chips to China, Nvidia says"
+  - title: "US orders immediate halt to some AI chip exports to China, Nvidia says"
     excerpt: "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October."
     publishedDateTime: 2023-10-25T03:41:00Z
-    webUrl: "https://www.bbc.com/news/business-67213134"
-    ampWebUrl: "https://www.bbc.com/news/business-67213134.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-67213134.amp"
+    webUrl: "https://www.bbc.co.uk/news/business-67213134?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-67213134.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67213134.amp"
     type: article
     provider:
       name: BBC
-      domain: bbc.com
-    quality: 102
+      domain: bbc.co.uk
+    quality: 74
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/FADE/production/_131522246_40a5ca5450ad7139cea01cf7b81856c952f2d5ec.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10F92/production/_131522596_gettyimages-1258278958-1.jpg"
         width: 1024
         height: 576
         isCached: true
@@ -98,19 +98,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Gcore launches generative AI cluster with Nvidia GPUs"
-    excerpt: "Users will have direct access to the AI clusters and deployments using the managed Kubernetes with Nvidia GPU nodes and will be able to set up workspaces in MLOps and large-scale models. \"We at Gcore are immensely proud to be a part of the transformation ..."
-    publishedDateTime: 2023-10-20T11:29:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/gcore-launches-generative-ai-cluster-with-nvidia-gpus/"
+  - title: "US orders immediate halt to shipping of some AI chips to China, Nvidia says"
+    excerpt: "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October."
+    publishedDateTime: 2023-10-25T03:41:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-67213134"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-67213134.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67213134.amp"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/DGX_A100.2e16d0ba.fill-1200x630.png"
-        width: 718
-        height: 377
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10F92/production/_131522596_gettyimages-1258278958-1.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Nvidia is still the darling of Wall Street analysts, despite new AI chip restrictions. But for how long?"
     excerpt: "Investors have dumped Nvidia (NVDA) stock aggressively in response to tougher U.S. restrictions on the export of artificial intelligence chips to China."

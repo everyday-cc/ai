@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Opinion: Microsoft and Alphabet results show Wall Street only cares about AI"
+    excerpt: "In addition, AI offerings ranging from chatbots to tools that can streamline the writing of reports require ever more computing power, and both Azure and Google Cloud are starting to offer new software applications to address those needs. Microsoft Chief ..."
+    publishedDateTime: 2023-10-25T01:37:00Z
+    webUrl: "https://www.marketwatch.com/story/microsoft-and-alphabet-results-show-wall-street-only-cares-about-ai-65202238"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/microsoft-and-alphabet-results-show-wall-street-only-cares-about-ai-65202238"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-and-alphabet-results-show-wall-street-only-cares-about-ai-65202238"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 101
+    images:
+      - url: "https://images.mktw.net/im-870352/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft, Google post starkly different results for cloud, AI sales"
     excerpt: "Microsoft's revenue rose 13 per cent to $56.5 billion in the quarter ended Sept. 30, while Google Cloud's third-quarter revenue rose 22.5 per cent to $8.41 billion."
     publishedDateTime: 2023-10-24T21:43:00Z
@@ -163,15 +179,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft’s Promising Outlook: AI Growth Potential and Azure’s Stability Justify Premium Valuation"
-    excerpt: "Analyst Keith Bachman of BMO Capital maintained a Buy rating on Microsoft (MSFT – Research Report), with a price target of $400.00. Keith"
-    publishedDateTime: 2023-10-20T11:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-promising-outlook-ai-growth-potential-and-azure-s-stability-justify-premium-valuation-1032724070"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
   - title: "Microsoft to Spend $3.2b in Australia as AI Regulation Looms"
     excerpt: "SYDNEY (Reuters) - Microsoft said it will spend A$5 billion ($3.2 billion) expanding its artificial intelligence (AI) and cloud computing abilities in Australia over two years as part of a wide-ranging effort that includes skills training and cyber security."
     publishedDateTime: 2023-10-23T13:05:00Z
@@ -449,6 +456,6 @@ related:
       domain: microsoft.com
     quality: 12
 
-secured: "C556e8SywLqyNBVYAgEJZ8c1EStYu1yahhuGc8vOd38ByNqmQh9AggYuyhgK888IxxtbnfmRQNjdGk3LziZbWJBSSrMEgNCfd/AIbu6SdNMBSTW0tcuFjD+U9Le7HRnvGET026CAVx++yur6Qqkief30qoUpmfWADm04u3sjiYFfUeDikCeIGlErf1VNYZUtr8PyNemf+QqUcYgZPUwq8Xz6mVUtcUZnDC+EYneWCwVkROYLqHRQXJuStBoR8vsb6+F3wt5iJCzuOpstRTmdgewXWFaQDwwITBL3Ir6wPM0nmP/Kx4kzSMgMfwCMmyAiv/V0D2QARbECmisXvx6VslBXZaF1ZoTqgz+wzJKDx5c=;yFGgJ0iurtjjEs5UXC6+vQ=="
+secured: "4PX5GatUqurGjUwycTf9B3Izt3CiehEjRazn7yMUbg6n24XMMTZ4afyZjbNKqMyoCdDNJPhUiTakIqp+WUqnfuYk4GAo2eqvMksmAmpN2xOmp/xpgpjKW/4zKSDdO7Om2Eu7IbrG7QXxGpHvkGueqjqJEcTG8rJJmL9CYdweUK8UxcoxcLw07nCqEe258gFY6TorsD5tqhbvR5InL0lTboTxv602arPD6Ksa4TVVDhlsfaMcZk3YcZ/aiWrOfXMIchGzY0sJ07A5s8sOa2zyW4S2gK42zdpq2bEJ5e/kAygpygY8+waqTpIA7e68CI2YGfaJADycRCm4Avi/PNs2kjXMVZBsWzZyxL15TlQg4BzsHdbQHHIbBckeJB7IV9j6wB0TZEsxiKD/+7FLEyBCyHKO2HVm6qb58iGbkbu6c9NmvpQQqt5QgL0I5Q+KUYNMp8viXoFTPHkZlFtrX0Je/RUi40AqeI9LmubznqQxDUQlPKgD9xM05vAoZ0qNIK6pDAmkgRkBX1JubcJvm2+xfQ==;bjtnbE6Wv8gmZ5dWk77OmA=="
 ---
 

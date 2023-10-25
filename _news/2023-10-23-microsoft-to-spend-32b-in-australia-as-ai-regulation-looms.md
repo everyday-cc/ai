@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Opinion: Microsoft and Alphabet results show Wall Street only cares about AI"
+    excerpt: "In addition, AI offerings ranging from chatbots to tools that can streamline the writing of reports require ever more computing power, and both Azure and Google Cloud are starting to offer new software applications to address those needs. Microsoft Chief ..."
+    publishedDateTime: 2023-10-25T01:37:00Z
+    webUrl: "https://www.marketwatch.com/story/microsoft-and-alphabet-results-show-wall-street-only-cares-about-ai-65202238"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/microsoft-and-alphabet-results-show-wall-street-only-cares-about-ai-65202238"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-and-alphabet-results-show-wall-street-only-cares-about-ai-65202238"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 101
+    images:
+      - url: "https://images.mktw.net/im-870352/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft, Google post starkly different results for cloud, AI sales"
     excerpt: "Microsoft's revenue rose 13 per cent to $56.5 billion in the quarter ended Sept. 30, while Google Cloud's third-quarter revenue rose 22.5 per cent to $8.41 billion."
     publishedDateTime: 2023-10-24T21:43:00Z
@@ -171,15 +187,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft’s Promising Outlook: AI Growth Potential and Azure’s Stability Justify Premium Valuation"
-    excerpt: "Analyst Keith Bachman of BMO Capital maintained a Buy rating on Microsoft (MSFT – Research Report), with a price target of $400.00. Keith"
-    publishedDateTime: 2023-10-20T11:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-promising-outlook-ai-growth-potential-and-azure-s-stability-justify-premium-valuation-1032724070"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
   - title: "Reddit may block search if it can’t reach an AI deal with Google, Microsoft"
     excerpt: "On Friday, The Washington Post, as spotted by The Verge, said Reddit \"has met with top generative AI companies about being paid for its data,\" citing an anonymous source. Going further, The Washington Post reported that Reddit is ready to play hard ball:"
     publishedDateTime: 2023-10-23T19:48:00Z

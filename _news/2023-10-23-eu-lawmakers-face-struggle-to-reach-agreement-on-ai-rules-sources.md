@@ -25,37 +25,60 @@ images:
     isCached: true
 
 related:
-  - title: "Oklahoma Lawmakers Struggle to Regulate Growing AI Industry"
-    excerpt: "Experts say AI is now present in everything from apps and facial recognition software to ChatGPT, which allows users to ask questions and receive human-like replies based on data harvested from the Internet."
-    publishedDateTime: 2023-10-23T17:58:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/oklahoma-lawmakers-struggle-to-regulate-growing-ai-industry"
-    ampWebUrl: "https://www.govtech.com/artificial-intelligence/oklahoma-lawmakers-struggle-to-regulate-growing-ai-industry?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/oklahoma-lawmakers-struggle-to-regulate-growing-ai-industry?_amp=true"
+  - title: "AI May Soon Weigh In on Regulation"
+    excerpt: "How will agencies like the FCC deal with computer-generated public comments?"
+    publishedDateTime: 2023-10-24T19:12:00Z
+    webUrl: "https://www.wsj.com/articles/ai-may-soon-weigh-in-on-regulation-artificial-intelligence-agencies-public-comment-periods-766436ec"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-873788/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "MOLEG seeks expanded role in setting rules for artificial intelligence"
+    excerpt: "The need to regulate the unlimited possibilities and risks of artificial intelligence (AI) is increasing in tandem with the expanding domain of the new technology."
+    publishedDateTime: 2023-10-22T07:24:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/nation/2023/10/356_361568.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361568"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361568"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
     quality: 59
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/3a7a9b8/2147483647/strip/true/crop/770x402+0+21/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F8b%2F30%2F4a5c1d816421a46b210b0da4f13f%2Foklahoma-capitol.jpg"
-        width: 840
-        height: 438
+      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/16975f1463e24016a4f508f58fa7f1b4.jpg"
+        width: 750
+        height: 677
         isCached: true
-  - title: "Construction industry to embrace artificial intelligence to stay ahead of the curve"
-    excerpt: "The industry is poised for significant growth in the coming years, with an estimated CAGR of 11% from $8.2 trillion to $17 trillion by 2029, experts say. This growth is driven by certain factors such as government initiatives,"
-    publishedDateTime: 2023-10-21T06:20:00Z
-    webUrl: "https://www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm"
-    ampWebUrl: "https://www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm/amp"
+  - title: "AI Takes on Expiration Dates"
+    excerpt: "Food can go rancid when it’s exposed to the air for a while—a process called oxidation. In fact, many common ingredients, but especially lipids, which are fats and oils, react with oxygen. The presence of heat or UV light can accelerate the process."
+    publishedDateTime: 2023-10-22T12:00:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/10/ai-food-preservation-chemistry-rancidity-detection/675723/"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 53
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 47
+  - title: "Artificial intelligence may help predict infection risks after implant-based breast reconstruction"
+    excerpt: "Artificial intelligence (AI) techniques may provide a more accurate approach to predicting the risk of periprosthetic infection after implant-based breast reconstruction, reports a study in the Novemb"
+    publishedDateTime: 2023-10-24T20:30:00Z
+    webUrl: "https://medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 45
     images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/03/artificial-intelligence-1019x573.jpg"
-        width: 1019
-        height: 573
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/breast-implant.jpg"
+        width: 2880
+        height: 1925
         isCached: true
   - title: "EU lawmakers face struggle to reach agreement on AI rules -sources"
     excerpt: "European lawmakers are yet to agree on several issues related to new artificial intelligence rules ahead of a crucial meeting on Tuesday, leaving any deal off the table until December, according to four people familiar with the matter."
@@ -71,20 +94,52 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Oklahoma lawmakers struggle to tackle artificial intelligence regulations"
-    excerpt: "OKLAHOMA CITY — Oklahoma lawmakers are struggling to regulate the artificial intelligence industry even as interest in the technology and its availability continues to grow."
-    publishedDateTime: 2023-10-20T22:00:00Z
-    webUrl: "https://www.stwnewspress.com/oklahoma/oklahoma-lawmakers-struggle-to-tackle-artificial-intelligence-regulations/article_0a510130-27b5-532b-8196-9787e1427dd4.html"
+  - title: "Apple could spend $4.75 billion on Artificial Intelligence in 2024"
+    excerpt: "Apple is looking to catch up with the likes of Microsoft and Google on Artificial Intelligence and the company is apparently planning to spend a"
+    publishedDateTime: 2023-10-24T08:26:00Z
+    webUrl: "https://www.geeky-gadgets.com/apple-could-spend-4-75-billion-on-artificial-intelligence-in-2024-24-10-2023/"
     type: article
     provider:
-      name: NewsPress
-      domain: stwnewspress.com
-    quality: 38
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/stwnewspress.com/content/tncms/assets/v3/editorial/6/df/6dff3453-e784-549a-8a42-72b0fb592c71/6536f1615c476.image.jpg?resize=400%2C282"
-        width: 400
-        height: 282
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Apple-Store.jpg"
+        width: 2180
+        height: 1453
         isCached: true
+  - title: "Apple May Spend Over $5 Billion By 2024 On Servers In Major Generative AI Push"
+    excerpt: "Ming-Chi Kuo expects Apple to spend 'at least' $620 million on servers in 2023 and an estimated $4.75 billion on servers in 2024."
+    publishedDateTime: 2023-10-24T15:33:00Z
+    webUrl: "https://hothardware.com/news/apple-to-spend-over-5-billion-on-servers"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 35
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62888/content/hero-apple-tim-cook.jpg"
+        width: 708
+        height: 398
+        isCached: true
+  - title: "Key considerations for regulating artificial intelligence in healthcare"
+    excerpt: "The World Health Organisation (WHO) has released a new publication listing key regulatory considerations for artificial intelligence (AI) in health."
+    publishedDateTime: 2023-10-21T18:50:00Z
+    webUrl: "https://www.thedailystar.net/star-health/news/key-considerations-regulating-artificial-intelligence-healthcare-3449616"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 34
+  - title: "Healthcare AI regulation is coming into focus"
+    excerpt: "Stakeholders are calling on the FDA to provide more concrete guidance in how clinical AI applications should be implemented."
+    publishedDateTime: 2023-10-24T09:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/ai-healthcare-federal-regulation-fda-onc"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
 
 secured: "lENxCMXVyR9qq9WloauuRAGOSMU78xUjWENjnhcnA7mYrfZz3P45Atkd7Ndv3EENm4u/+jPDtZ7vouhAXGlK1+q2Hn3mPvp+9QXc4pS6rSneWEEmPDpKeXv1sgNotYIwWau6iEIH/KfArRKyx6KsBs6tdmLZ62gMMdVmNSPk+D9vOSNfMpKEUglDfwUHAErztOoGpbu1lcJknLWjuGz5V7P6qGSKE5FbVyUd6sHzHYyM3xdlvf7A3tjaBIZN31D5y+0TtkLr0RlOXG7/+YsTjiPOTtVDmJKHpziqJRtzKHwQNRAX/FtLMjBNSDKduZyuCXDzl3QlRHend5/1yJhqOJ05PqvRonKPFcBeGIcsHaw=;4GBhif2VN4f+zN2vdf3GJQ=="
 ---

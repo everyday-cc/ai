@@ -1,0 +1,40 @@
+---
+category: news
+title: "Almost 80 per cent of European financial services brace themselves for Generative AI impact"
+excerpt: "A reported 77 per cent of European financial services leaders expect Generative AI to significantly affect productivity and change roles."
+publishedDateTime: 2023-10-25T05:00:00Z
+originalUrl: "https://www.cityam.com/almost-80-per-cent-of-european-financial-services-brace-for-generative-ai-impact/"
+webUrl: "https://www.cityam.com/almost-80-per-cent-of-european-financial-services-brace-for-generative-ai-impact/"
+type: article
+quality: 29
+heat: -1
+published: false
+
+provider:
+  name: City A.M.
+  domain: cityam.com
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://www.cityam.com/wp-content/uploads/2021/11/artificial-intelligence-g2bb4b502b_1920-scaled-1.jpg"
+    width: 1600
+    height: 1067
+    isCached: true
+
+related:
+  - title: "Amazon Web Services to Launch AWS European Sovereign Cloud"
+    excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), today announced it will launch the AWS European Sovereign Cloud, a new, independent cloud for Europe designed to help public sector customers and those in highly regulated industries meet the most stringent regulatory data residency and operational requirements."
+    publishedDateTime: 2023-10-25T05:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/25/9904788.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+
+secured: "Wl4EM/05IdVc9ZgJ/o+v8ePm/3dq/zblD83U+arHWD2KZsqbjdems1ceIGWGAOIw1n4C6rYT6IVy/34p91sgVS5YlGTyzXersvyZ+FckPfPZtBCezRXBH5hGV1HSII7bFyCoSfS/C7t+7BoJMmX2F56dpJcuoBpiCdSgLP8bsq5VrsFT/c5AIqzUOmyYM3RAoy/0WTlXvG4c5kxhOrGcFk8aIrkgn7OKfA9IB/MK28SKxi0oAxKYnqOk9Yo+KGCXw5WqW53FnFC5evmKmCvOqBTbGTA4Kp+C+ghUdkieK874P/REsqhTAnqeiprWj4moRdpoCcbXtkG7kEyofA6sMvsSmqhgeuTV4/UIdSi4Xvg=;Refzk0AXLuVROVBphTZ7uA=="
+---
+

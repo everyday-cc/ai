@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/blogposting/25007/a-glimpse-into-the-futu
 webUrl: "https://www.finextra.com/blogposting/25007/a-glimpse-into-the-future-next-gen-ai-and-llm-in-aml-compliance"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "The Role of Artificial Intelligence in a BS in Computer Software Technology Education"
+    excerpt: "Education has become the cornerstone of innovation. As the demand for skilled professionals in computer software technology continues to rise, educational institutions are adapting their curricula to meet the industry’s changing needs."
+    publishedDateTime: 2023-10-24T09:56:00Z
+    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-a-bs-in-computer-software-technology-education/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 49
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/The-Role-of-Artificial-Intelligence-in-a-BS-in-Computer-Software-Technology-Education.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "9HVgp8hzfApSolotZS/t4LK6WfDrqoHa3mktdlh4eUtxcDyoGjoXp95HSJW7MiCZ9EykJyBnm4bG+EjyH46Wipwpvrzj5D63bLnCgV+jrBNg3L6cRJCWOho9x0HaL7Qr1xaMZy3crxdRZ1ks1+GwNF47U73Cw+jGLfRQ5fhBiRg9jha+2cC0Wl5FUftlKCR5T0MzhgwSxQzWlnJx0vGCWvRFerLQHP0/f874TmWWKTaQFk/L2MozCGF7yrtFrEcKZbTBeplv+JTPYqDT2o6G8Wr6k2Yp3CchvzuT4EjS9E7fT9X3z+WQBMGs0n4WBRKiiUetbey5fX4y1UysEThKBp+XD0TOfBsm7rpZ+S5kf+CSC6lw/UGF0nvcSK6V1d1CRslcjwtnMIGbL8ivQRVsxODNf/jcy2SARw4fHVpwYFYnWfk0Mts8qu/+8v/Ekqk+syrp7a7G5RJ5Tx5tVLveepqq3mP35f1QfrEBxweq2fiyeDoQt2m4NDnEAYdXjvD5Tw4h8ENjv50rx4alr/dGKg==;ptJvWc/JMh44L7/wDWLhfw=="
 ---

@@ -1,0 +1,61 @@
+---
+category: news
+title: "California DMV Suspended GM Cruise’s Driverless Cars as Not Safe and Not Truthful"
+excerpt: "A Cruise’s driverless cars struck a pedestrian in downtown San ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting ..."
+publishedDateTime: 2023-10-24T21:13:00Z
+originalUrl: "https://www.nextbigfuture.com/2023/10/california-dmv-suspended-gm-cruises-driverless-cars-as-not-safe-and-not-truthful.html"
+webUrl: "https://www.nextbigfuture.com/2023/10/california-dmv-suspended-gm-cruises-driverless-cars-as-not-safe-and-not-truthful.html"
+type: article
+quality: 34
+heat: -1
+published: false
+
+provider:
+  name: NextBigFuture
+  domain: nextbigfuture.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/10/Screen-Shot-2023-10-24-at-2.11.36-PM.jpg"
+    width: 1330
+    height: 1008
+    isCached: true
+
+related:
+  - title: "The Same Tech Used in Driverless Cars Is Helping Public Works"
+    excerpt: "Cities are turning to the same type of technology that allows robotaxis to navigate roadways to identify potholes and errant drivers. The technology is helping to remove humans from potentially dangerous tasks."
+    publishedDateTime: 2023-10-24T22:00:00Z
+    webUrl: "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works"
+    ampWebUrl: "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/63a88b7/2147483647/strip/true/crop/8095x4221+0+1178/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F97%2Fba%2Fd8068ed24c1dbd77ae58f1fbb0db%2Fshutterstock-2274798647.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "UH-Maui hits the gas on driverless tech"
+    excerpt: "UNIVERSITY OF HAWAII photo The University of Hawaii Maui College is making history as it helps develop driverless vehicle ... Passon said. Like artificial intelligence, the software requires ..."
+    publishedDateTime: 2023-10-23T01:07:00Z
+    webUrl: "https://www.mauinews.com/news/local-news/2022/01/uh-maui-hits-the-gas-on-driverless-tech/"
+    type: article
+    provider:
+      name: The Maui News
+      domain: mauinews.com
+    quality: 39
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.mauinews.com/images/2022/01/15052516/os-uhmc-driverless-AI-Racing-Tech.jpg"
+        width: 600
+        height: 399
+        isCached: true
+
+secured: "A5i/tK5VB3lh1PXYFu+YzdFvnRZpfkwiqx+mIJHAthZBEgPOiILyMYND5gt+Cfu22sTJuOjvSsuFS8Lja8RJIIHb8wPPoc9eHBz6z4uQqpHG/EzGDyJHqPc/y9Inrln+L3aALBjMHwDRpA32GsrHsp18peLuLl7SuMF/6Agce8HzQcIPMHTRT3/V+53+paTBFIEblZtzRwHEcAw0xEpp63eibL8KTVRjDsSK/0TF9LS4UsMbVlp/P52mUgtvb4aOK+Puzlt0BZq8AClv29pdDnMd/PtI7nroe7fRVKEliAAZC8JyXZozHxor0BU9s2vmZC/4/3prNsuNgypZtP4S9LN2VtXg8U4Xq4AOsB8P5/Y=;JLAgMG1GL/XZ9bG/8LvYxQ=="
+---
+

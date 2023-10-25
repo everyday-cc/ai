@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dallasnews.com/business/local-companies/2023/10/20/cruis
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/local-companies/2023/10/20/cruise-faces-federal-inquiry-as-self-driving-vehicles-hit-north-texas-roads/?outputType=amp"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 830
     height: 467
     isCached: true
-
-related:
-  - title: "Cruise self-driving cars investigated after two accidents"
-    excerpt: "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway ..."
-    publishedDateTime: 2023-10-20T11:18:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-67133409?at_medium=RSS"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-67133409.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67133409.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 44
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/15775/production/_131452978_7e3d1fdb1b5333cb30725406171ba9623b469785525_528_1084_6101084x610.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "What Do You Think of Self-Driving Cars?"
-    excerpt: "What Do You Think of Self-Driving Cars? As the world of autonomous vehicles continues to evolve, we sought the insights of twenty industry leaders and professionals, including CEOs and founders, on the topic of self-driving cars."
-    publishedDateTime: 2023-10-20T18:48:00Z
-    webUrl: "https://techbullion.com/what-do-you-think-of-self-driving-cars/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 26
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/What-Do-You-Think-of-Self-Driving-Cars-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "Adq7CGPN7DFatTPPhZNlCnRrMDqk58lhCnMQDrOYb57cjmxD4DShV3rkuBEVhiWTPs5FfRByFyf5YuE3tOltUdNStVSE5V8kz0H3/wMTq6jzRHwmAfPpn6z8cS5n5apANdip81/3+unze5OxHF/dkDidd6xo4WO2tv1fad2hqnJApOUIBus4h+oc4xuyoPKbudwjrCjqxKGIM9we3q1fHL6gEIj3WukDqo9b98VkDRpdBOuqjSGpM/huk8fJADQ2cEpj4mRzDa1fGE7gtolIz09m51N/kriWWrOnXe2prcgq4HIurus/rVlRQS5D9Llr6NPFNNBk+zjKPVF2JqbmM3qxKNqNfQGGHvBxw2zIFRX+cLrCob90S7aXWTRwDmkCAJv7wfBOSzozs/7+wOwlt8BVlgYxZcSbpH79iwzRzj7+91cJRJA3ZpPs+t2dQKFC2kWOI5gjOsV9klj4Sg4quGkD3X/yMmq8rQH7fMJIgtuECiOo2ajpU5KBaWO2uVdlH47T9VUHTlWy0upIvk8TzA==;uPKFUfsbS9bIFTjex7BGrw=="
 ---

@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apple Generative AI Features and Smarter Siri Could Launch Next Year"
-    excerpt: "Apple is developing a large array of features that use generative AI, according to Bloomberg's Mark Gurman. In his latest \"Power"
-    publishedDateTime: 2023-10-22T12:52:00Z
-    webUrl: "https://www.macrumors.com/2023/10/22/apple-generative-ai-features-and-smarter-siri/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 19
 
 secured: "ZqmoMfXaL2TYaPe0YY4NITGJWuEwZZ8Aza2pjRz96OLrEoEHZRbIgUCpWGj0U4PO25nnxy+zrWvZcsaacdjtPAuuQRt6Jr0+xYtiiVibGfsup70G/PCsqDYdgh2tMz5liXrcUXtN4aJvd22/hJDlid5loqhQaptM/0liImeWA/2zH4FR5cEf6onDXyCIM7mK+PNfn/SFAFHi0ju1QRxa9Ir0bkad0eaE8Q0+XZU13s/H9HTtXnqzAz5qyxg5+XvZ5uEC9wgiSdPkz9pu/k786Rv54J/zQstHT+1C8u/wk/+ADGV12jmTXzZsQ4/KWsQzb8B4Bz1W1tHiaxtyEqXQcR+i5Rx+zGTgHhCauV9PW4Y=;aajd6xQXXSUgEcrFqFPDGA=="
 ---

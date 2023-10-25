@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/generative-ai-phishing-emails
 webUrl: "https://www.techrepublic.com/article/generative-ai-phishing-emails-impact/"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -27,51 +27,6 @@ images:
     width: 1400
     height: 935
     isCached: true
-
-related:
-  - title: "How Generative AI Can Empower Software Engineering Teams"
-    excerpt: "I believe technology leaders should actively encourage their teams to discover and try out these tools to heighten their productivity, creativity and efficiency."
-    publishedDateTime: 2023-10-24T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65369e7808401564f7a2c121/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
-        height: 900
-        isCached: true
-  - title: "How generative AI is making robots smarter, more capable, and more ready for the mainstream"
-    excerpt: "As generative AI becomes a greater part of robotics, we can expect innovations to happen at a faster pace, moving robots closer to deployment"
-    publishedDateTime: 2023-10-24T17:16:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-is-making-robots-smarter-more-capable-and-more-ready-for-the-mainstream/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 56
-  - title: "CIOs assess generative AI's risk and reward for software engineers"
-    excerpt: "Litan told ZDNET in an interview that now is the time for senior managers to start talking with their personnel about how generative AI might be exploited safely in the longer term. \"Companies need to spend time educating their personnel, including their ..."
-    publishedDateTime: 2023-10-23T18:22:00Z
-    webUrl: "https://www.zdnet.com/article/cios-assess-generative-ais-risk-and-reward-for-software-engineers/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
-  - title: "To excel at engineering design, generative AI must learn to innovate, study finds"
-    excerpt: "A new study reveals the pitfalls of deep generative models when they are tasked with solving engineering design problems. The researchers say if mechanical engineers want help from AI for novel ideas and designs,"
-    publishedDateTime: 2023-10-21T23:51:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/10/231020105644.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 46
 
 secured: "grH60IWbCPWf7Pmkl4tsoI52fEgxgTNjFSa9DBTBSzIcj8jFbfnl4+K8doDvqgLrz1r65R1P6uaN08/JKO2bx4upv1HnkY91YvTfX6PefWeBD9d7e1oV3zVtVYAFLFtbtcMuenEzBrF/40pi5tq+21s8k9RoFLMiumv1jt2IdLO6NZS06zWFWwtZvJmt1xM0PlmtPQyUVcwP35mv/xxsRinN3lzramrIIFSUz1knOHRQU8Fl82UZQ03SJ3Y4gAwUQ6m7tS4NGIeNo+Q9TPOA5SRJeqYaPTWj0icH+4KttxlqyUzw7C9lh9oO1U2Mx+igf7ssEK0ZoduogQ4uk17AoncuEKbpKscQRzEL/SrcickMWSTaqjkxnHxrJON2ECktJR9l3jsSsFBSsJA2kXzCl5EtV474ImUaThhQ0KxvbH939a+bceSlYMD8U1vpml9Epc5ASPZ1pnUKi8B6x3oieEgetCocS6V3zqglN6HpGd5kNq4d3e4mVqvv+wj22Yhvbh7WWhB0dLkXimrbiSb7dg==;C+D0gf6wG9B1vqnMRypDag=="
 ---

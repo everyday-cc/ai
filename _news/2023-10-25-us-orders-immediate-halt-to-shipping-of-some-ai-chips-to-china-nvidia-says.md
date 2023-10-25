@@ -3,29 +3,24 @@ category: news
 title: "US orders immediate halt to shipping of some AI chips to China, Nvidia says"
 excerpt: "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October."
 publishedDateTime: 2023-10-25T03:41:00Z
-originalUrl: "https://www.bbc.com/news/business-67213134"
-webUrl: "https://www.bbc.com/news/business-67213134"
-ampWebUrl: "https://www.bbc.com/news/business-67213134.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-67213134.amp"
+originalUrl: "https://www.bbc.co.uk/news/business-67213134"
+webUrl: "https://www.bbc.co.uk/news/business-67213134"
+ampWebUrl: "https://www.bbc.co.uk/news/business-67213134.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67213134.amp"
 type: article
-quality: 102
+quality: 55
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/FADE/production/_131522246_40a5ca5450ad7139cea01cf7b81856c952f2d5ec.jpg"
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10F92/production/_131522596_gettyimages-1258278958-1.jpg"
     width: 1024
     height: 576
     isCached: true
@@ -63,6 +58,22 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "US orders immediate halt to some AI chip exports to China, Nvidia says"
+    excerpt: "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October."
+    publishedDateTime: 2023-10-25T03:41:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-67213134?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-67213134.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67213134.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10F92/production/_131522596_gettyimages-1258278958-1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "New Nvidia AI agent, powered by GPT-4, can train robots"
     excerpt: "Nvidia Research announced today that it has developed a new AI agent powered by OpenAI's GPT-4 that can teach robots complex skills."
     publishedDateTime: 2023-10-20T20:00:00Z
@@ -92,20 +103,6 @@ related:
       - url: "https://i.gadgets360cdn.com/large/nvidia_reuters_1682491698706.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Gcore launches generative AI cluster with Nvidia GPUs"
-    excerpt: "Users will have direct access to the AI clusters and deployments using the managed Kubernetes with Nvidia GPU nodes and will be able to set up workspaces in MLOps and large-scale models. \"We at Gcore are immensely proud to be a part of the transformation ..."
-    publishedDateTime: 2023-10-20T11:29:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/gcore-launches-generative-ai-cluster-with-nvidia-gpus/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/DGX_A100.2e16d0ba.fill-1200x630.png"
-        width: 718
-        height: 377
         isCached: true
   - title: "Nvidia is still the darling of Wall Street analysts, despite new AI chip restrictions. But for how long?"
     excerpt: "Investors have dumped Nvidia (NVDA) stock aggressively in response to tougher U.S. restrictions on the export of artificial intelligence chips to China."
@@ -167,6 +164,6 @@ related:
       domain: bizjournals.com
     quality: 33
 
-secured: "CqM4Ioq1NQLoFulgKh1uHNNrVNRKAqEraocZqrO5T+B4IjM+k8Cx7Di1IUrrABZazrAYHo33KTQsNFKNsR/c6P2iXez58VcYesOab1ofSo7uUpkQOQg+Eevey30GRt0CKZxpgTTJPSMto1+h0Xbx+zm15P4ud9ENemQxEPpwNjAizFo6ynmGLRet+DHs31HsV3HufnbFHPxIATuawYg3iTu439j5NBezc+HjBoajRmCwI5JGLxFqkHtgt9Qq5TqeK8Su/zaT14JEmM7180OLwPJoE7lc77XOQOIT2Hh4djSYLSIJf90zS0N6YJwEZyLAazHxRazx3P2BjQdZ9p8IUyFGJ70bJkI68Q6rYajJLGQ=;w4UvQbODyrVZytBBK6ybww=="
+secured: "MObUNm3addS8Bk8dLeq++XGIZhPRjeJzK2QRWj7oMNRtsWsgQNil+ajZ56clSY7WW+KD8ZTbty4fZC1uIcbemTkPzUzwKTY93rdlzytmJrKTWI16W2pHja6hY2IrftyT15hEtwtBwxqXZe3iF9Lkm4hcSrXJgOAdHz9thWECZqrPuMc0ef/0mlN69CX9t+s+hnMMZy8Z+i3A+SKNVZNt9+j5TGaXJfUZcmsmI7BGd9mc8xc5k622io11McZnP2U7SL23vs6R3G+cXhFZiF4lNHS+s+DmCPRHPnVj+5yIkrfGsN7enXTNcGKEEmxx+aEz+n26N/qe4cmbVwp7trG/p/DXNJ13xEwqNyG0POsAw+Q=;vxLrIsIjWw2iq0zHRkeDZA=="
 ---
 

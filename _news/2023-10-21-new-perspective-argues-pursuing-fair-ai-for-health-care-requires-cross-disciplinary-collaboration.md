@@ -37,15 +37,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 62
-  - title: "Healthcare AI regulation is coming into focus"
-    excerpt: "Stakeholders are calling on the FDA to provide more concrete guidance in how clinical AI applications should be implemented."
-    publishedDateTime: 2023-10-24T09:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/ai-healthcare-federal-regulation-fda-onc"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
 
 secured: "BURt5GYQY1v8inyszoVXu3Hfo23u73hmll1KIRc+SloiG6u71wmK5zlEysWsONfZaiZ+2ukktpurwHVta1iz4vOrGOzWcovqMYmexYdcwc4W/3NgOt74hmS6k5SHfn8IihgjdyuvyZ8bQ4wkahHzYJR40P+FeKbXMz4SeB2KaQTLTBFV6q8VyT/0WhOGTrv9Hf70Ak9J4Re75Jf/iGJK2qPFYNqLKSwZitPbY/0qdLsGn5RDYxyJSdMMN9QOXYEugE91atZJpBnN4bEsOsSwYRvCbdzjdJEyG7WXURPQ1x5+tbEPMI/Nw2PHVWZmgLXtCDVvEu6qUCiHE3/q9yPEOmgA1qaNiUr3g1tHhlPKGJG8NM52yh3LCbfzLNEsOcPbDjWvAx/17ltG/AYI5mbr4NptbojMOr0W3RmfRKIiinLQTJYREndvpIvycyZFMiVy5ObBIRZJXPdC55s9xU+rfRSB5qubfEjnXOXhA+I06aWFW0Os+ON/B6WCem9gtCqJ0od9BHnS85ALuCzipCfC8Q==;ULxih/6D6elY84NsAnwg8A=="
 ---

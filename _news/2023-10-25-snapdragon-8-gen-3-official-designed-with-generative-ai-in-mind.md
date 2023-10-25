@@ -27,51 +27,106 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s One Important Skill HR Should Focus On With Generative AI"
-    excerpt: "As AI increases in the workplace, 53 percent of workers say they’re more concerned about their jobs being replaced by robots than immigration and outsourcing."
-    publishedDateTime: 2023-10-24T20:01:00Z
-    webUrl: "https://www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/amp/"
+  - title: "Generative AI and resilient hybrid cloud systems"
+    excerpt: "Generative AI brings in significant productivity gains when augmented with traditional AI and automation for many of the IT Operations tasks.\nThe post Generative AI and resilient hybrid cloud systems appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-24T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/generative-ai-and-resilient-hybrid-cloud-systems/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Elastic Is Carving Out A Niche In Generative AI With Vector Search"
-    excerpt: "Customers are deploying Elasticsearch Relevance Engine as their platform for building generative AI applications using vector search and hybrid search capabilities."
-    publishedDateTime: 2023-10-24T16:25:00Z
-    webUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/10/24/elastic-is-carving-out-a-niche-in-generative-ai-with-vector-search/"
-    ampWebUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/10/24/elastic-is-carving-out-a-niche-in-generative-ai-with-vector-search/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/10/24/elastic-is-carving-out-a-niche-in-generative-ai-with-vector-search/amp/"
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "How Companies Can Embrace Generative AI’s Superpowers"
+    excerpt: "Today, generative AI is no longer the elusive domain of tech giants. Even small businesses can afford to use its superpowers."
+    publishedDateTime: 2023-10-23T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6537e25d5f72f6b95a4d46a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1200
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647f38c95ad531f8e9178353/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "Generative AI could be the next frontier for smartphone chip design"
-    excerpt: "Generative AI is the hot trend in the smartphone space at the moment, and this tech is shaping 2024's mobile hardware."
-    publishedDateTime: 2023-10-20T14:00:00Z
-    webUrl: "https://www.androidauthority.com/smartphone-hardware-adapt-power-generative-ai-2024-3373668/"
+  - title: "Generative AI: Unlocking The Tipping Point For AI In Enterprises"
+    excerpt: "AI is everywhere. Unless you’re living off the grid, there’s a strong chance you hear about ChatGPT, OpenAI and generative AI regularly. New solutions, companies and conversations are popping up around AI because of its ability to democratize information in a way we haven’t seen since the Guttenberg Press."
+    publishedDateTime: 2023-10-24T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/generative-ai-unlocking-the-tipping-point-for-ai-in-enterprises/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/generative-ai-unlocking-the-tipping-point-for-ai-in-enterprises/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/generative-ai-unlocking-the-tipping-point-for-ai-in-enterprises/amp/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653684c0b0604170b9eb7aed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "How Generative AI Can Empower Software Engineering Teams"
+    excerpt: "I believe technology leaders should actively encourage their teams to discover and try out these tools to heighten their productivity, creativity and efficiency."
+    publishedDateTime: 2023-10-24T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65369e7808401564f7a2c121/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1353
+        height: 900
+        isCached: true
+  - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
+    excerpt: "The purpose of the expanded relationship between IBM Consulting and AWS is “to help more mutual clients operationalize and derive value from generative artificial intelligence,” IBM Consulting stated in a press release. In addition, IBM Consulting ..."
+    publishedDateTime: 2023-10-20T13:27:00Z
+    webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
     quality: 84
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/02/Stable-Diffusion-Qualcomm-Doggo.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/tr5423-what-is-generative-ai.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Human-In-The-Loop AI: A Collaborative Teammate In Operations And Incident Management"
+    excerpt: "This perspective holds particular relevance for operations teams and incident management. Rather than replacing human involvement, AI stands to be an ally in these mission-critical domains. Analogous to how automation streamlines repetitive tasks, AI can enhance the problem-solving capacity of operations teams."
+    publishedDateTime: 2023-10-24T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/human-in-the-loop-ai-a-collaborative-teammate-in-operations-and-incident-management/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/human-in-the-loop-ai-a-collaborative-teammate-in-operations-and-incident-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/human-in-the-loop-ai-a-collaborative-teammate-in-operations-and-incident-management/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65368ab5d4c8226b37a30d03/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
+  - title: "FEDML Nexus AI: The Next-Gen Cloud Services for LLMs and Generative AI"
+    excerpt: "FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML Nexus AI, offering the next generation of cloud services and platform for generative AI.This press release features multimedia."
+    publishedDateTime: 2023-10-24T12:25:00Z
+    webUrl: "https://venturebeat.com/business/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://i0.wp.com/mms.businesswire.com/media/20231024932463/en/1922758/4/wideimage.jpg?strip=all&#038;ssl=1"
+        width: 480
+        height: 269
         isCached: true
   - title: "Why Generative AI Needs Design"
     excerpt: "With generative AI, computers gain a new set of capabilities: the ability to understand and generate language, code ... With simple prompts, anyone can translate an idea into a visual prototype that a group can riff on. While imperfect, these AI mockups ..."
@@ -87,20 +142,40 @@ related:
         width: 1176
         height: 900
         isCached: true
-  - title: "The AI-Generated Child Abuse Nightmare Is Here"
-    excerpt: "Thousands of child abuse images are being created with AI. New images of old victims are appearing, as criminals trade datasets."
-    publishedDateTime: 2023-10-24T23:01:00Z
-    webUrl: "https://www.wired.com/story/generative-ai-images-child-sexual-abuse/"
+  - title: "Role of CX automation and generative AI"
+    excerpt: "Customers expect personalised and efficient service, and the emergence of generative AI has led to a significant shift in the way businesses approach customer service and customer delight. Like human interactions,"
+    publishedDateTime: 2023-10-22T09:48:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-role-of-cx-automation-and-generative-ai-3283107/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-role-of-cx-automation-and-generative-ai-3283107/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-role-of-cx-automation-and-generative-ai-3283107/lite/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
     images:
-      - url: "https://media.wired.com/photos/6538482ff6398a9e9f0f6825/191:100/w_1280,c_limit/102423-security-csam-generative-ai.png"
-        width: 1280
-        height: 670
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/My-project-2.png"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "How generative AI is making robots smarter, more capable, and more ready for the mainstream"
+    excerpt: "As generative AI becomes a greater part of robotics, we can expect innovations to happen at a faster pace, moving robots closer to deployment"
+    publishedDateTime: 2023-10-24T17:16:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-is-making-robots-smarter-more-capable-and-more-ready-for-the-mainstream/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 56
+  - title: "CIOs assess generative AI's risk and reward for software engineers"
+    excerpt: "Litan told ZDNET in an interview that now is the time for senior managers to start talking with their personnel about how generative AI might be exploited safely in the longer term. \"Companies need to spend time educating their personnel, including their ..."
+    publishedDateTime: 2023-10-23T18:22:00Z
+    webUrl: "https://www.zdnet.com/article/cios-assess-generative-ais-risk-and-reward-for-software-engineers/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "Nvidia generative AI-focused DGX Cloud launches on Oracle Cloud"
     excerpt: "Nvidia's DGX Cloud supercomputer is now available in the Oracle Cloud Marketplace. Oracle customers will now be able to access the Nvidia DGX Cloud AI supercomputing service for training generative AI and other workloads,"
     publishedDateTime: 2023-10-20T16:55:00Z
@@ -129,6 +204,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "‘AI, digital tools make agrifood systems climate-resilient’"
+    excerpt: "All the speakers additionally highlighted the importance of responsible use and ethics of these tools and FAO’s Martin recalled the Organization’s signing of the Rome Call for AI Ethics, a document that supports a transparent, inclusive, responsible ..."
+    publishedDateTime: 2023-10-22T16:14:00Z
+    webUrl: "https://businessmirror.com.ph/2023/10/23/ai-digital-tools-make-agrifood-systems-climate-resilient/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 39
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/05/BusinessMirror-A-broader-look-at-todays-business.jpg"
+        width: 2100
+        height: 1120
+        isCached: true
   - title: "TCS’ Obsession With Generative AI"
     excerpt: "TCS, the IT giant was catching up with generative AI, but now it has gone all in on AI in the last couple of months."
     publishedDateTime: 2023-10-23T06:30:00Z
@@ -143,15 +232,65 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Apple expected to spend $4.75 billion on generative AI in 2024 alone"
-    excerpt: "After a report said Apple was planning to announce generative AI features next year with iOS 18, analyst Ming-Chi Kuo corroborated that."
-    publishedDateTime: 2023-10-23T18:33:00Z
-    webUrl: "https://bgr.com/tech/apple-expected-to-spend-4-75-billion-on-generative-ai-in-2024-alone/"
+  - title: "How Creative Cloud and Generative AI Are Impacting Higher Education"
+    excerpt: "Tools powered by natural language processing can enhance instruction and prepare students to harness artificial intelligence in their post-college careers."
+    publishedDateTime: 2023-10-24T19:39:00Z
+    webUrl: "https://edtechmagazine.com/higher/article/2023/10/how-creative-cloud-and-generative-ai-are-impacting-higher-education"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 36
+  - title: "Moody's and Google Cloud Partner on Generative AI Applications Tailored for Financial Services Professionals"
+    excerpt: "\"Through this partnership, research teams at Moody's and Google Cloud will collaborate on fine-tuned LLMs and AI applications that will enable financial service professionals to produce new, proprietary insights faster than ever before.\" \"Our collaboration ..."
+    publishedDateTime: 2023-10-23T19:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/moody-s-and-google-cloud-partner-on-generative-ai-applications-tailored-for-financial-services-professionals-1032730108"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+  - title: "Apple Generative AI Features and Smarter Siri Could Launch Next Year"
+    excerpt: "Apple is developing a large array of features that use generative AI, according to Bloomberg's Mark Gurman. In his latest \"Power"
+    publishedDateTime: 2023-10-22T12:52:00Z
+    webUrl: "https://www.macrumors.com/2023/10/22/apple-generative-ai-features-and-smarter-siri/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
     quality: 19
+  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
+    excerpt: "Commitment to deepening expertise and expanding AWS on watsonx integration IBM has already built extensive expertise with AWS's generative AI services including Amazon SageMaker and Amazon CodeWhisperer, and is one of first AWS Partners to use Amazon ..."
+    publishedDateTime: 2023-10-21T18:42:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354349&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
+  - title: "Shield AI announces multi-year agreement with Sentient Vision to offer AI-enabled real-time situational awareness"
+    excerpt: "A groundbreaking AI technology collaboration between Shield AI, an American defence technology company building the world’s best AI pilot, and Sentient Vision Systems (Sentient), an"
+    publishedDateTime: 2023-10-23T19:20:00Z
+    webUrl: "https://www.suasnews.com/2023/10/shield-ai-announces-multi-year-agreement-with-sentient-vision-to-offer-ai-enabled-real-time-situational-awareness/"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 18
+    images:
+      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2023/10/shield-AI-sentient.jpg?fit=1200%2C800&ssl=1"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Featurespace leverages upside of Generative AI to deliver hammer blow to online credit card fraudsters"
+    excerpt: "It is a large-scale, self-supervised, pre-trained model designed to power the next generation of AI applications for the financial protection of consumers. TallierLTM has shown improvements of up to 71 per cent in fraud value detection when compared to industry standard models operating at an industry-typical 5:1 False Positive Ratio."
+    publishedDateTime: 2023-10-24T13:03:00Z
+    webUrl: "https://www.businessweekly.co.uk/news/hi-tech/featurespace-leverages-upside-generative-ai-deliver-hammer-blow-online-credit-card"
+    type: article
+    provider:
+      name: Business Weekly
+      domain: businessweekly.co.uk
+    quality: 3
 
 secured: "G+xEOSUo/LPf4G3OML21WbOUG0cfYQqr5vnI3qaHFp2ykUbAsTJu8afYSQrL3ulgUY48M2K9PFX7tWkcHvRsNuWrtcoZR6TsyYixTh7wFtQwt49a/UqN7wX/FpbthHCN8eot9yo7DHJ7Af4aAjO1fjj1HLc7XPlnFDmiA61Lg7Cdd1aso6tV0Mbt+zz1wc+ZFv8OTv1lhc9Mr26sVkIYpH3NYU9PrI+hr2Zg+Mk/gnFgsV5HvxL0gFFqvZy40nG4n60eGWHHYo2zpxd3iWkWA8KNHiYMBhLjdB/R3RFYYnakcBasuN6tszg9D8ahh01DYHt2UkzpoLZqkngEXt99rD2Sbqr5Mih341W5cXyT/G4CLPgsdEXdo+JxVv9VYlI2gJUX+4SGoGsJT0XY+tpaIUvD/dCjQFpWih1u4eeCJUtuj+XxH6y/NzCBJiJsVcUBrU7TwLgKHNVYsoO5xtDJp8fXZd/cmc6xiJEKw6xUzr0E4gFgzFRpWttw8Vb/J5iTGrbu3NKn7TiWyi4ao5G3ww==;SqosBJXdjAEF+PiFn1QdLQ=="
 ---

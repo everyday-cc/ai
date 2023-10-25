@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How marketers are using AI to make the customer-service experience faster, more targeted, and more reliable"
+    excerpt: "Conversational AI is at the forefront of innovation for a growing number of quick service restaurant and grocery store food brands."
+    publishedDateTime: 2023-10-20T13:37:00Z
+    webUrl: "https://www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10"
+    ampWebUrl: "https://www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/65314decbe9edfa8eda4cb71?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "O2C75EKFZqhG56+jGGNATscFk//jDnqw4xqzsZeA9Tod/+2qcgiDOxwM9MGJoMysdOGNsyub+5FmEnfNYcqcupTLz74X30ajwP2odO2FGy7PQ0HY+kzy5HhKZjyXw1OrCWEtK8abanJ1WzS5HIWtAYg/6I8HYVN6bqrv7tmKUOM6PJxBe5cgSZU+NCBTVjDI1asy9xeZHYMkNau1/9rDhxlfjx9/oR9b1e2YcKyIH6UlbnEGJp2Ia0UKAdiuWrc9mty5F7btU5Z9l18O8mCQmrWl/2zEWymGaYwerEPcNFJvMiHHAm/G0GE8z1//EN/wVx+wn3kbRmda5NRF1rVobR46iLYmpXNrd0ipeQ4TLJzKWoMKNi6+lEjdPBbTore2JpVtydyLYvwGa/jowBZPXEBtj+E8uS6t8/OG67KFN3QBRhj/ExKS+g19rpGyLCbX2GR68JJVWNAf+Tt36/hBSWI+IwmM3GojwFhXLHG1g/xW26WRU6zSFE2cDnHRN4PERx1Klp+j8YbJFdTVjtDNMg==;+Bq2+Umv8UFIVgQTmndnZQ=="
 ---

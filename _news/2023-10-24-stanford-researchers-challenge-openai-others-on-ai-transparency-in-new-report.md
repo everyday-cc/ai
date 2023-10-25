@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/stanford-rese
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/21/4e6a50d0-75dc-414b-9810-f1e98dd12cce/thumbnail/1200x630/bd6fc97710b8b2b2bb4072321ee60167/ap23290859783861.jpg?v=18a5d3569ab1a3ca759fe14d213f7845"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Skyrocketing OpenAI Valuation Ignites AI Revolution"
+    excerpt: "San Francisco-based start-up OpenAI is on the verge of finalizing a deal that could value the company at $80 billion or more."
+    publishedDateTime: 2023-10-21T07:29:00Z
+    webUrl: "https://www.dmnews.com/skyrocketing-openai-valuation-ignites-ai-revolution/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 37
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/Open-AI.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "While tech companies play with OpenAI’s API, this startup believes small, in-house AI models will win"
     excerpt: "You can also take advantage of managed cloud services, such as EC2, Vertex Pipelines and SageMaker. ZenML also integrates with open source ML tools from Hugging Face, MLflow, TensorFlow, PyTorch, etc. “ZenML is sort of the thing that brings everything ..."

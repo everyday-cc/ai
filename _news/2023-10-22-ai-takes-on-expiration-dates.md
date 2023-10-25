@@ -22,95 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "The Urgent Need For Marketing AI And Automation Education"
-    excerpt: "Businesses of all sizes are using these technologies to streamline their operations, improve their customer targeting, and boost their sales."
-    publishedDateTime: 2023-10-20T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/"
-    ampWebUrl: "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6531a96f07309fd411a35a66/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
-        height: 900
-        isCached: true
-  - title: "Generative AI and resilient hybrid cloud systems"
-    excerpt: "Generative AI brings in significant productivity gains when augmented with traditional AI and automation for many of the IT Operations tasks.\nThe post Generative AI and resilient hybrid cloud systems appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-24T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/generative-ai-and-resilient-hybrid-cloud-systems/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "How Generative AI Can Improve Communication Within An Organization"
-    excerpt: "The natural language interface enables interaction between stakeholders, project owners, QA engineers, designers and developers with the project’s vector knowledge base."
-    publishedDateTime: 2023-10-23T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/601850d37aa9c1404df144b1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Generative AI: Unlocking The Tipping Point For AI In Enterprises"
-    excerpt: "AI is everywhere. Unless you’re living off the grid, there’s a strong chance you hear about ChatGPT, OpenAI and generative AI regularly. New solutions, companies and conversations are popping up around AI because of its ability to democratize information in a way we haven’t seen since the Guttenberg Press."
-    publishedDateTime: 2023-10-24T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/generative-ai-unlocking-the-tipping-point-for-ai-in-enterprises/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/generative-ai-unlocking-the-tipping-point-for-ai-in-enterprises/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/generative-ai-unlocking-the-tipping-point-for-ai-in-enterprises/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/653684c0b0604170b9eb7aed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "AI and its impact on MBA education"
-    excerpt: "Business schools have incorporated artificial intelligence (AI) tools such as Tableau for data visualization, IBM Watson for analytics and natural language processing, Salesforce Einstein for customer relationship management, Google Analytics for ..."
-    publishedDateTime: 2023-10-24T06:45:00Z
-    webUrl: "https://www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/"
-    ampWebUrl: "https://www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 76
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/image-2023-10-24T114111.709.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How marketers are using AI to make the customer-service experience faster, more targeted, and more reliable"
-    excerpt: "Conversational AI is at the forefront of innovation for a growing number of quick service restaurant and grocery store food brands."
-    publishedDateTime: 2023-10-20T13:37:00Z
-    webUrl: "https://www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/65314decbe9edfa8eda4cb71?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI May Soon Weigh In on Regulation"
     excerpt: "How will agencies like the FCC deal with computer-generated public comments?"
     publishedDateTime: 2023-10-24T19:12:00Z
@@ -125,139 +36,93 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
-    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
-    publishedDateTime: 2023-10-20T16:48:00Z
-    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
+  - title: "MOLEG seeks expanded role in setting rules for artificial intelligence"
+    excerpt: "The need to regulate the unlimited possibilities and risks of artificial intelligence (AI) is increasing in tandem with the expanding domain of the new technology."
+    publishedDateTime: 2023-10-22T07:24:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/nation/2023/10/356_361568.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361568"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361568"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 60
-    images:
-      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
-  - title: "Role of CX automation and generative AI"
-    excerpt: "Customers expect personalised and efficient service, and the emergence of generative AI has led to a significant shift in the way businesses approach customer service and customer delight. Like human interactions,"
-    publishedDateTime: 2023-10-22T09:48:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-role-of-cx-automation-and-generative-ai-3283107/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-role-of-cx-automation-and-generative-ai-3283107/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-role-of-cx-automation-and-generative-ai-3283107/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
+      name: The Korea Times
+      domain: koreatimes.co.kr
     quality: 59
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/My-project-2.png"
-        width: 1200
-        height: 675
+      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/16975f1463e24016a4f508f58fa7f1b4.jpg"
+        width: 750
+        height: 677
         isCached: true
-  - title: "Marketers' Increasing Tolerance for AI Lowers Website Translation Costs"
-    excerpt: "Digital Marketers are developing a growing trust in AI’s ability to translate websites. For a long time, Artificial Intelligence (AI) has been a mystery. People weren’t sure what it meant or what it did."
-    publishedDateTime: 2023-10-23T06:56:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35367308/marketers-increasing-tolerance-for-ai-lowers-website-translation-costs"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35367308"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35367308"
+  - title: "Artificial intelligence may help predict infection risks after implant-based breast reconstruction"
+    excerpt: "Artificial intelligence (AI) techniques may provide a more accurate approach to predicting the risk of periprosthetic infection after implant-based breast reconstruction, reports a study in the Novemb"
+    publishedDateTime: 2023-10-24T20:30:00Z
+    webUrl: "https://medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 45
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/breast-implant.jpg"
+        width: 2880
+        height: 1925
         isCached: true
-  - title: "How AI, like ChatGPT and Bard, are changing education"
-    excerpt: "To learn more about how AI could affect education, we spoke with the former chief digital officer for New York City, the Met museum and Columbia University."
-    publishedDateTime: 2023-10-24T14:40:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/how-ai-like-chatgpt-and-bard-are-changing-education/"
+  - title: "EU lawmakers face struggle to reach agreement on AI rules -sources"
+    excerpt: "The EU started working on the draft AI Act in 2021. In May this year, the European parliament agreed on draft legislation including new rules around the use of facial recognition, biometric surveillance, and other AI applications. Under the proposals ..."
+    publishedDateTime: 2023-10-23T15:23:00Z
+    webUrl: "https://www.aol.com/news/eu-lawmakers-face-struggle-reach-143724731.html"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 54
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/24/e829742b-af85-4107-90d6-be35ca206d19/thumbnail/1200x630/db30b49e80763a7322e5c83f39e1dc9f/a2bc5f7596314e70ebc61c3562e21e7f-0-1698157475482.png?v=4fae59acf57b6bb1efa9da07582ebc40"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Role of Artificial Intelligence in a BS in Computer Software Technology Education"
-    excerpt: "Education has become the cornerstone of innovation. As the demand for skilled professionals in computer software technology continues to rise, educational institutions are adapting their curricula to meet the industry’s changing needs."
-    publishedDateTime: 2023-10-24T09:56:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-a-bs-in-computer-software-technology-education/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 49
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/The-Role-of-Artificial-Intelligence-in-a-BS-in-Computer-Software-Technology-Education.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "AI And The Cognitive Revolution"
-    excerpt: "Artificial intelligence may be the first innovation to disrupt our way of life on the same scale as the Industrial Revolution."
-    publishedDateTime: 2023-10-20T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/20/ai-and-the-cognitive-revolution/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "How governments are approaching the regulation and use of AI"
-    excerpt: "“AI is not just about the technology; it’s going to impact aspects of our daily lives that we can’t even imagine right now,” Dillon said. “We need to really concentrate on and address the ethics and the regulations and the workforce concerns and ..."
-    publishedDateTime: 2023-10-23T14:13:00Z
-    webUrl: "https://www.cityandstateny.com/policy/2023/10/how-governments-are-approaching-regulation-and-use-ai/391389/"
-    type: article
-    provider:
-      name: City & State New York
-      domain: cityandstateny.com
+      name: AOL
+      domain: aol.com
     quality: 39
     images:
-      - url: "https://cdn.cityandstateny.com/media/img/cd/2023/10/20/GettyImages_967906100/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://media.zenfs.com/en/aol_reuters_29/0ca43e1b8ea6f24b6034e0d8cbb568fa"
+        width: 800
+        height: 534
         isCached: true
-  - title: "Skyrocketing OpenAI Valuation Ignites AI Revolution"
-    excerpt: "San Francisco-based start-up OpenAI is on the verge of finalizing a deal that could value the company at $80 billion or more."
-    publishedDateTime: 2023-10-21T07:29:00Z
-    webUrl: "https://www.dmnews.com/skyrocketing-openai-valuation-ignites-ai-revolution/"
+  - title: "EU lawmakers face struggle to reach agreement on AI rules -sources"
+    excerpt: "European lawmakers are yet to agree on several issues related to new artificial intelligence rules ahead of a crucial meeting on Tuesday, leaving any deal off the table until December, according to four people familiar with the matter."
+    publishedDateTime: 2023-10-23T17:37:00Z
+    webUrl: "https://www.aol.com/eu-lawmakers-face-struggle-reach-143724731.html?ref=biztoc.com"
     type: article
     provider:
-      name: Direct Marketing News
-      domain: dmnews.com
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/0ca43e1b8ea6f24b6034e0d8cbb568fa"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Apple could spend $4.75 billion on Artificial Intelligence in 2024"
+    excerpt: "Apple is looking to catch up with the likes of Microsoft and Google on Artificial Intelligence and the company is apparently planning to spend a"
+    publishedDateTime: 2023-10-24T08:26:00Z
+    webUrl: "https://www.geeky-gadgets.com/apple-could-spend-4-75-billion-on-artificial-intelligence-in-2024-24-10-2023/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 37
     images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/Open-AI.jpg"
-        width: 1000
-        height: 667
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Apple-Store.jpg"
+        width: 2180
+        height: 1453
         isCached: true
-  - title: "How Creative Cloud and Generative AI Are Impacting Higher Education"
-    excerpt: "Tools powered by natural language processing can enhance instruction and prepare students to harness artificial intelligence in their post-college careers."
-    publishedDateTime: 2023-10-24T19:39:00Z
-    webUrl: "https://edtechmagazine.com/higher/article/2023/10/how-creative-cloud-and-generative-ai-are-impacting-higher-education"
+  - title: "Apple May Spend Over $5 Billion By 2024 On Servers In Major Generative AI Push"
+    excerpt: "Ming-Chi Kuo expects Apple to spend 'at least' $620 million on servers in 2023 and an estimated $4.75 billion on servers in 2024."
+    publishedDateTime: 2023-10-24T15:33:00Z
+    webUrl: "https://hothardware.com/news/apple-to-spend-over-5-billion-on-servers"
     type: article
     provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 36
-  - title: "How AI and digital transformation are influencing the food and beverage industry"
-    excerpt: "Manufacturers and retailers are improving their technology stack through digital transformation strategies and AI to improve operations and address historical food and beverage challenges from ingredient shortages and reformulations to predicting current and future market opportunities."
-    publishedDateTime: 2023-10-20T15:03:00Z
-    webUrl: "https://www.foodnavigator-usa.com/Article/2023/10/20/futureproofing-the-food-system-summit-how-ai-and-digital-transformation-are-influencing-the-food-and-beverage-industry"
-    type: article
-    provider:
-      name: Food
-      domain: foodnavigator-usa.com
-    quality: 34
+      name: HotHardware
+      domain: hothardware.com
+    quality: 35
     images:
-      - url: "https://www.foodnavigator-usa.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-usa.com/news/markets/futureproofing-the-food-system-summit-how-ai-and-digital-transformation-are-influencing-the-food-and-beverage-industry/16854042-1-eng-GB/Futureproofing-the-Food-System-Summit-How-AI-and-digital-transformation-are-influencing-the-food-and-beverage-industry.png"
-        width: 517
-        height: 271
+      - url: "https://images.hothardware.com/contentimages/newsitem/62888/content/hero-apple-tim-cook.jpg"
+        width: 708
+        height: 398
         isCached: true
   - title: "Key considerations for regulating artificial intelligence in healthcare"
     excerpt: "The World Health Organisation (WHO) has released a new publication listing key regulatory considerations for artificial intelligence (AI) in health."
@@ -268,98 +133,15 @@ related:
       name: The Daily Star
       domain: thedailystar.net
     quality: 34
-  - title: "USD 88.2 Billion Artificial Intelligence In Education Market Expected Reach By 2032 | Growth Drivers & Future Scenarios"
-    excerpt: "Artificial Intelligence in Education Market Type Booming smartphone penetration to complement APAC industry. PORTLAND, PORTLAND, O"
-    publishedDateTime: 2023-10-23T02:40:00Z
-    webUrl: "https://menafn.com/1107284165/USD-882-Billion-Artificial-Intelligence-In-Education-Market-Expected-Reach-By-2032-Growth-Drivers-Future-Scenarios"
+  - title: "Healthcare AI regulation is coming into focus"
+    excerpt: "Stakeholders are calling on the FDA to provide more concrete guidance in how clinical AI applications should be implemented."
+    publishedDateTime: 2023-10-24T09:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/ai-healthcare-federal-regulation-fda-onc"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?917387"
-        width: 487
-        height: 250
-        isCached: true
-  - title: "FPT Announces Strategic Partnership with Landing AI, Advancing Artificial Intelligence Development and Education"
-    excerpt: "FPT, global technology firm headquartered in Vietnam, and Landing AI, the US's leading computer vision platform and artificial intelligence (AI) softw"
-    publishedDateTime: 2023-10-24T07:23:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231024035093/en/FPT-Announces-Strategic-Partnership-with-Landing-AI-Advancing-Artificial-Intelligence-Development-and-Education"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 30
-  - title: "Moody's and Google Cloud Partner on Generative AI Applications Tailored for Financial Services Professionals"
-    excerpt: "\"Through this partnership, research teams at Moody's and Google Cloud will collaborate on fine-tuned LLMs and AI applications that will enable financial service professionals to produce new, proprietary insights faster than ever before.\" \"Our collaboration ..."
-    publishedDateTime: 2023-10-23T19:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/moody-s-and-google-cloud-partner-on-generative-ai-applications-tailored-for-financial-services-professionals-1032730108"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
-  - title: "Generative AI and evolving enterprise needs: How Amazon approaches the future of technology"
-    excerpt: "Generative artificial intelligence is a rapidly advancing technology that is merging hype and reality. It’s poised to have a huge impact on next-generation cloud technologies."
-    publishedDateTime: 2023-10-24T17:26:00Z
-    webUrl: "https://siliconangle.com/2023/10/24/generative-ai-evolving-enterprise-needs-amazon-approaches-future-technology-supercloud4/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 29
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Bratin-Saha-Supercloud-4-2023.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "The Computing Pioneer Helping AI See"
-    excerpt: "Alexei Efros has spent his career learning how machines see differently from humans. Now he’s helping to bridge the gap."
-    publishedDateTime: 2023-10-24T18:01:00Z
-    webUrl: "https://www.quantamagazine.org/the-computing-pioneer-helping-ai-see-20231024/"
-    type: article
-    provider:
-      name: Quanta Magazine
-      domain: quantamagazine.org
-    quality: 19
-  - title: "Shield AI announces multi-year agreement with Sentient Vision to offer AI-enabled real-time situational awareness"
-    excerpt: "A groundbreaking AI technology collaboration between Shield AI, an American defence technology company building the world’s best AI pilot, and Sentient Vision Systems (Sentient), an"
-    publishedDateTime: 2023-10-23T19:20:00Z
-    webUrl: "https://www.suasnews.com/2023/10/shield-ai-announces-multi-year-agreement-with-sentient-vision-to-offer-ai-enabled-real-time-situational-awareness/"
-    type: article
-    provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 18
-    images:
-      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2023/10/shield-AI-sentient.jpg?fit=1200%2C800&ssl=1"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Why actors are fighting for AI protections"
-    excerpt: "Actors on strike amid contract negotiations with production studios are fighting for protections from artificial intelligence (AI), but the concerns they’re highlighting raise risks beyond the scope of movies and television."
-    publishedDateTime: 2023-10-23T13:00:00Z
-    webUrl: "https://www.aol.com/news/why-actors-fighting-ai-protections-100000324.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
-  - title: "NC1 AI: Pioneering Business-Centric AI Deployment To Propel Enterprises Into A New Era Of Innovation And Efficiency"
-    excerpt: "NC1 AI NC1 AI Redefines AI Deployment for Businesses, Paving the Way for a Future-Ready Landscape LOS ANGELES, CA, UNITED STATES,"
-    publishedDateTime: 2023-10-24T22:01:00Z
-    webUrl: "https://menafn.com/1107297404/NC1-AI-Pioneering-Business-Centric-AI-Deployment-To-Propel-Enterprises-Into-A-New-Era-Of-Innovation-And-Efficiency"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 17
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?343697"
-        width: 358
-        height: 250
-        isCached: true
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
 
 secured: "G3sWEM+QhTTwA73LQEViRkNv5vKGSSavxWbdzzIKr6KpK4lo6JNIcaVDtsd0rdWgZOjluJSuQCBlGuW4VujasHfKvL3Pbwnt2nYcbDglD6Eu34lPYL/WX2QCc0be+0Ftnm+pXXDqGeD1/ICY0uWx+HvZTacTmI0CQwpRKqIlUiHpc87hhPB8lEazHyeRUynqdyexDkUEG5RKkfXf9/9tk4r4n+HMYzbHoZliCBC641KJAOUoSRq/wOEcBytBvrxmLa/bxggHn1CmdhCkakhzvOQLPibh/aICAe0n3um+JVltKv/OyHDHYU+Gapxmy+D0QhtdcVx7Mhw9DQinynAvppnunoWiwbutc24fv/2Ua4vlZ8Jq85tEam5WJoY3sMsL78EluKl21YVVY8+smLlyoNbby2+CtcEU3SReZaG9apEirhcC8r/3F8nHL3Rw7uM/lDxsmxBRabZDs38VdNgqyPKhl43Nx6ZEbUEnuGgNTiUli4EsJoy+5BRkdcxF6FrGRewN3G6IGnLew3cyPcoraA==;VnpWiuPTWdJSYuvxaUBVkQ=="
 ---

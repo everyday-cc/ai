@@ -41,6 +41,20 @@ related:
         width: 932
         height: 622
         isCached: true
+  - title: "FPT Announces Strategic Partnership with Landing AI, Advancing Artificial Intelligence Development and Education"
+    excerpt: "FPT Announces Strategic Partnership with Landing AI Advancing Artificial Intelligence Development and Education"
+    publishedDateTime: 2023-10-25T05:05:00Z
+    webUrl: "https://www.businesswireindia.com/fpt-announces-strategic-partnership-with-landing-ai-advancing-artificial-intelligence-development-and-education-87135.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 50
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_87135.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Lambda and VAST Data in Cloud AI Training Partnership with NVIDIA Technology"
     excerpt: "AI data platform company VAST Data and Lambda, an infrastructure-as-a-service and compute provider for public and private NVIDIA GPU infrastructure, today announced a partnership intended to enable a hybrid cloud experience dedicated to AI and deep learning workloads."
     publishedDateTime: 2023-10-23T19:50:00Z
@@ -99,6 +113,15 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "FPT Announces Strategic Partnership with Landing AI, Advancing Artificial Intelligence Development and Education"
+    excerpt: "FPT, global technology firm headquartered in Vietnam, and Landing AI, the US's leading computer vision platform and artificial intelligence (AI) softw"
+    publishedDateTime: 2023-10-24T07:23:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231024035093/en/FPT-Announces-Strategic-Partnership-with-Landing-AI-Advancing-Artificial-Intelligence-Development-and-Education"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 30
 
 secured: "MmX1mPP/Z4icrCHO+f7ij4ucylyUMnKKhzLtO7Byn8Yuy2GLp+zjHbmj7fteK/Z4Rzt6K/JMBi60mzxnJE6t4IQs4tZKQL/6+zbLOTnRyZGg1PBSrlfy2xdYc9sYdNSt39v7Lx6cUv6MwA03LqK80QxZsznqbYnn6ipqjpmJ9MBhBfmPw/1LLmPdtD3Rh9qevCZ261YZXvhgj7tVy7Pf6gGlU0NLEDz7DGtVFEhMNoC95icKGxXfZH2jLkYZuUerB4N3WEaTXHZSjR/Otsg/veyttGNY6q+w/2KiVJXlOeaSWRk64GWGmgk7DB+ISXrRJCPzan9WXY6woANAhq6IWvTayYjC4n43ZWtcn6NAxiU=;8u0056GuQXJBcGxa0jLr0w=="
 ---

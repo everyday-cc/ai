@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Government Technology
@@ -40,6 +40,20 @@ related:
       - url: "https://ogden_images.s3.amazonaws.com/www.mauinews.com/images/2022/01/15052516/os-uhmc-driverless-AI-Racing-Tech.jpg"
         width: 600
         height: 399
+        isCached: true
+  - title: "California DMV Suspended GM Cruise’s Driverless Cars as Not Safe and Not Truthful"
+    excerpt: "A Cruise’s driverless cars struck a pedestrian in downtown San ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting ..."
+    publishedDateTime: 2023-10-24T21:13:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/10/california-dmv-suspended-gm-cruises-driverless-cars-as-not-safe-and-not-truthful.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 34
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/10/Screen-Shot-2023-10-24-at-2.11.36-PM.jpg"
+        width: 1330
+        height: 1008
         isCached: true
 
 secured: "c4UcqGnmQLIsYXxEOFK9ReJHv08GaG5scQyWGPFWMldrkGAxrCg/5a3AtiUGXqNuSsJ8OznZjtyJyvdeGN+6dIv0IRruzaXKfIXP0R3podR9hdzuxwhodqxBeIHAtbpm6V9O08MQeGIc8fuKiXfVWu2/aQpF+zvCc7jHCgv86XsuAoF5kIHSP9US7zyC5rjR3v3yFj6qWBMDH1DvAYW7hJAVKrq0x0TIqZLhjt/Fed1qDOYxOc2zzWq9dkdWyp8tNaQ2SKN3vwaZJsFwMzzlqYC8KDEkRHk9NSkk2Kh7SKis6+woT7sDr4QZqfPyf5LFLq6VIt3SWVQjzJf0e/Pdzm476tZMBaS53YEfRtTIZ4LXBQl6AKyNzcrrUsojQ7FqxWO1Bmd+cR6rAM/4m0xDwN2WXdUo8TZROrVlZJfWij+z8IdZA8Ad77STGFLSM6Qmx3lBUnpWRNpfe2LSo4ABCe2pgwc0+HueFbmV9qkjpWcznEzy8E6K2wKT66punkY/VA1RoBzo90erRZ3FWvujtw==;V3MZav8+rkKQybttog/oIA=="

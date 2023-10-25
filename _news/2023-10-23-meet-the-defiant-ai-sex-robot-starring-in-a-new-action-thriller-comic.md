@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2023/10/22/meet-the-defiant-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/10/22/meet-the-defiant-ai-sex-robot-starring-in-a-new-action-thriller-comic/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1080
         height: 567
         isCached: true
+  - title: "The Computing Pioneer Helping AI See"
+    excerpt: "Alexei Efros has spent his career learning how machines see differently from humans. Now he’s helping to bridge the gap."
+    publishedDateTime: 2023-10-24T18:01:00Z
+    webUrl: "https://www.quantamagazine.org/the-computing-pioneer-helping-ai-see-20231024/"
+    type: article
+    provider:
+      name: Quanta Magazine
+      domain: quantamagazine.org
+    quality: 19
 
 secured: "LDWpO7ZnXq7HMCt32wjHMepjPDmgLfa2usvNlRgR3HXF6wQoCUJnoMYBZtimjmmrFzXyCVJFEb+kMxxHa9TX5DaWOsjqz17k2zBHYozBCxwyBbyZRF76dpw8Ty/KVPyWG5bb2a+uetot+fldYfsTq0vuJdEcCO/pEhK/UKqOIwnyqV7PWZQQKR+4oyPgt3ABuf99p+i4kJSXK4UV/+Ei/PqolW3mK0uF96mSNM7sK0VArGRVhU6s86GEloNqIWZpq6vQcA6K630gP2PJZH8h6jbEEd9+dni6jLkIPes0M7BAi6FB5ct9Fbon+lm6Fn3RFA9PnZyHydYLQ6w8kctqi0c1SLfeIIG8dmlWc33U+PJOck1Hv4WSk+DUacTYub8lQ2xvxXY1362JF5fUQiv/LFPwpHiQRTq4bt0/7u5p1h2WqRPcIs+afCUOe4moHA9BXnsv1oFlKTyU8tYSrgQn63fhRgwqZnijnu87FrR0AMwiAu9FuuQUro595GIF8iBcqzpNljFzp8rVa7Y/sPKWUQ==;O5tX0k/s8zBuKvG+00ng7Q=="
 ---

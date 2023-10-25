@@ -42,6 +42,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Skyrocketing OpenAI Valuation Ignites AI Revolution"
+    excerpt: "San Francisco-based start-up OpenAI is on the verge of finalizing a deal that could value the company at $80 billion or more."
+    publishedDateTime: 2023-10-21T07:29:00Z
+    webUrl: "https://www.dmnews.com/skyrocketing-openai-valuation-ignites-ai-revolution/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 37
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/Open-AI.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "While tech companies play with OpenAI’s API, this startup believes small, in-house AI models will win"
     excerpt: "You can also take advantage of managed cloud services, such as EC2, Vertex Pipelines and SageMaker. ZenML also integrates with open source ML tools from Hugging Face, MLflow, TensorFlow, PyTorch, etc. “ZenML is sort of the thing that brings everything ..."
     publishedDateTime: 2023-10-23T18:27:00Z

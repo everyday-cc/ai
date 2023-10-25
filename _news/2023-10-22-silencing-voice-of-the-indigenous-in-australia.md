@@ -41,20 +41,6 @@ related:
         width: 600
         height: 345
         isCached: true
-  - title: "After referendum defeat, Indigenous Australian artists reclaim their voice in Adelaide"
-    excerpt: "In an incendiary speech, that included claims colonisation had “no ongoing ... the concept of constitutional recognition for Aboriginal people had bipartisan support for decades. As recently as February, the federal opposition leader Peter Dutton ..."
-    publishedDateTime: 2023-10-20T11:25:00Z
-    webUrl: "https://www.theartnewspaper.com/2023/10/20/after-referendum-defeat-indigenous-australian-artists-reclaim-their-voice-in-adelaide-exhibition"
-    type: article
-    provider:
-      name: The Art Newspaper
-      domain: theartnewspaper.com
-    quality: 31
-    images:
-      - url: "https://cdn.sanity.io/images/cxgd3urn/production/7d4ba20b2abeaa229e1f1289b31c0a6eae7918c0-2000x1261.jpg?rect=0,30,2000,1200&w=1200&h=720&q=85&fit=crop&auto=format"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Australia’s constitutional history told us the voice referendum was unwinnable. Sadly, that was right"
     excerpt: "There are other ways to achieve Indigenous recognition that can’t be claimed to confer special rights on any Australians – and would gain much more support"
     publishedDateTime: 2023-10-22T13:00:00Z

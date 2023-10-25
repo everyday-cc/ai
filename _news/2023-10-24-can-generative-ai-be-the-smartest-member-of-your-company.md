@@ -38,21 +38,37 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "How Companies Can Embrace Generative AI’s Superpowers"
-    excerpt: "Today, generative AI is no longer the elusive domain of tech giants. Even small businesses can afford to use its superpowers."
-    publishedDateTime: 2023-10-23T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/amp/"
+  - title: "How Generative AI Can Improve Communication Within An Organization"
+    excerpt: "The natural language interface enables interaction between stakeholders, project owners, QA engineers, designers and developers with the project’s vector knowledge base."
+    publishedDateTime: 2023-10-23T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647f38c95ad531f8e9178353/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/601850d37aa9c1404df144b1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
+        isCached: true
+  - title: "AI and its impact on MBA education"
+    excerpt: "Business schools have incorporated artificial intelligence (AI) tools such as Tableau for data visualization, IBM Watson for analytics and natural language processing, Salesforce Einstein for customer relationship management, Google Analytics for ..."
+    publishedDateTime: 2023-10-24T06:45:00Z
+    webUrl: "https://www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/"
+    ampWebUrl: "https://www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 76
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/image-2023-10-24T114111.709.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Companies Look to Human Moderators to Keep AI Apps in Line"
     excerpt: "Borrowing from social-media platforms, software maker Intuit is hiring content moderators to help keep toxic language and other bad behavior off its AI systems."

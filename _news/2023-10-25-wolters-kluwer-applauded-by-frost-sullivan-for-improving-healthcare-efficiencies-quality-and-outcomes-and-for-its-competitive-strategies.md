@@ -28,17 +28,6 @@ images:
     height: 367
     isCached: true
 
-related:
-  - title: "Wolters Kluwer to hold Artificial Intelligence technology showcase session at user conference"
-    excerpt: "Attendees at 19 th annual CCH Connections User Conference to experience how AI-powered tools are enabling tax, accounting and audit professionals to elevate their services"
-    publishedDateTime: 2023-10-20T12:24:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/10/20/wolters-kluwer-to-hold-artificial-intelligence-technology-showcase-session-at"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 8
-
 secured: "Tkcm2yni7wNAmCS0jCBEkTd7dHm9DGYCWOHZAwIJZydNQNFiEtqdOk2xW4wa5eWIFsI4MAfgfT8hW1c2+ypWz+3s/T8b6C5mRiWgO2teKaPAW3BmJm9g4AEqKNIwgK+ISxJWKbANi8Skv1dNBKEXyIQk6+6N905sKZyLbREi7VQBWC+qqroAaECazdZhojD0ASTUGUUCQwYmvHiDy4QnDsDe8+ljD/bURlmlSsOyEfy2MtsyoFklG6Cn+cnPcKMdb+GOFW/Ut1TXXK3MBJ0iM9bxFB48T+G2TZmyKKvq0noFNWQyNIjixkq8VSA54hvYLiBMMs9eMU+Mg3x51OGIivzS8XZaQGCitIxBmGEstFC7Kh6gjTsQ8Ye7o265bpqSe9BOegLOwACPR0twJQKgKcwAtdUrg5rPOnco2FjWXaFi2JiTCaZtY+VgpO1tARh21HEa+fsI8eGEVeHFoDBH2wnA+igs2FtYI8hd9Rf5C/5xmgneIjnTUk2I0Chva+xzlR4pgWRs/E6dhuVz7H0o7Q==;ypcuVxUcszcXRZad/eIBbQ=="
 ---
 

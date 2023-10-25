@@ -31,45 +31,20 @@ images:
     isCached: true
 
 related:
-  - title: "The Urgent Need For Marketing AI And Automation Education"
-    excerpt: "Businesses of all sizes are using these technologies to streamline their operations, improve their customer targeting, and boost their sales."
-    publishedDateTime: 2023-10-20T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/"
-    ampWebUrl: "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/amp/"
+  - title: "How AI Can Impact Companies"
+    excerpt: "Embracing responsible AI deployment, fostering a culture of innovation and prioritizing continuous learning are essential for businesses to thrive in an AI-driven era."
+    publishedDateTime: 2023-10-23T12:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 121
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6531a96f07309fd411a35a66/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
-        height: 900
-        isCached: true
-  - title: "Generative AI and resilient hybrid cloud systems"
-    excerpt: "Generative AI brings in significant productivity gains when augmented with traditional AI and automation for many of the IT Operations tasks.\nThe post Generative AI and resilient hybrid cloud systems appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-24T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/generative-ai-and-resilient-hybrid-cloud-systems/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "Generative AI: Unlocking The Tipping Point For AI In Enterprises"
-    excerpt: "AI is everywhere. Unless you’re living off the grid, there’s a strong chance you hear about ChatGPT, OpenAI and generative AI regularly. New solutions, companies and conversations are popping up around AI because of its ability to democratize information in a way we haven’t seen since the Guttenberg Press."
-    publishedDateTime: 2023-10-24T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/generative-ai-unlocking-the-tipping-point-for-ai-in-enterprises/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/generative-ai-unlocking-the-tipping-point-for-ai-in-enterprises/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/generative-ai-unlocking-the-tipping-point-for-ai-in-enterprises/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/653684c0b0604170b9eb7aed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65329a6eb5a2b7609dec2392/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
         height: 900
         isCached: true
   - title: "AI and its impact on MBA education"
@@ -88,280 +63,98 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How marketers are using AI to make the customer-service experience faster, more targeted, and more reliable"
-    excerpt: "Conversational AI is at the forefront of innovation for a growing number of quick service restaurant and grocery store food brands."
-    publishedDateTime: 2023-10-20T13:37:00Z
-    webUrl: "https://www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/65314decbe9edfa8eda4cb71?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "AI May Soon Weigh In on Regulation"
-    excerpt: "How will agencies like the FCC deal with computer-generated public comments?"
-    publishedDateTime: 2023-10-24T19:12:00Z
-    webUrl: "https://www.wsj.com/articles/ai-may-soon-weigh-in-on-regulation-artificial-intelligence-agencies-public-comment-periods-766436ec"
+  - title: "Companies Look to Human Moderators to Keep AI Apps in Line"
+    excerpt: "Borrowing from social-media platforms, software maker Intuit is hiring content moderators to help keep toxic language and other bad behavior off its AI systems."
+    publishedDateTime: 2023-10-23T16:53:00Z
+    webUrl: "https://www.wsj.com/articles/companies-look-to-human-moderators-to-keep-ai-apps-in-line-9507fa35"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 67
     images:
-      - url: "https://images.wsj.net/im-873788/social"
+      - url: "https://images.wsj.net/im-873723/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
-    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
-    publishedDateTime: 2023-10-20T16:48:00Z
-    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
+  - title: "Gartner: How AI Will Impact Work"
+    excerpt: "AI isn't likely to reduce jobs any time soon, Gartner says, but it will impact the way we work. Will you view AI as a teammate?"
+    publishedDateTime: 2023-10-23T17:37:00Z
+    webUrl: "https://www.pcmag.com/articles/gartner-how-ai-will-impact-work"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 60
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
-  - title: "Role of CX automation and generative AI"
-    excerpt: "Customers expect personalised and efficient service, and the emergence of generative AI has led to a significant shift in the way businesses approach customer service and customer delight. Like human interactions,"
-    publishedDateTime: 2023-10-22T09:48:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-role-of-cx-automation-and-generative-ai-3283107/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-role-of-cx-automation-and-generative-ai-3283107/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-role-of-cx-automation-and-generative-ai-3283107/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/My-project-2.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Marketers' Increasing Tolerance for AI Lowers Website Translation Costs"
-    excerpt: "Digital Marketers are developing a growing trust in AI’s ability to translate websites. For a long time, Artificial Intelligence (AI) has been a mystery. People weren’t sure what it meant or what it did."
-    publishedDateTime: 2023-10-23T06:56:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35367308/marketers-increasing-tolerance-for-ai-lowers-website-translation-costs"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35367308"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35367308"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "How AI, like ChatGPT and Bard, are changing education"
-    excerpt: "To learn more about how AI could affect education, we spoke with the former chief digital officer for New York City, the Met museum and Columbia University."
-    publishedDateTime: 2023-10-24T14:40:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/how-ai-like-chatgpt-and-bard-are-changing-education/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 54
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/24/e829742b-af85-4107-90d6-be35ca206d19/thumbnail/1200x630/db30b49e80763a7322e5c83f39e1dc9f/a2bc5f7596314e70ebc61c3562e21e7f-0-1698157475482.png?v=4fae59acf57b6bb1efa9da07582ebc40"
-        width: 1200
+      - url: "https://i.pcmag.com/imagery/articles/02PdGp7OwlXIzFLjyMK8FRI-1.fit_lim.size_1200x630.v1698080183.jpg"
+        width: 1120
         height: 630
         isCached: true
-  - title: "The Role of Artificial Intelligence in a BS in Computer Software Technology Education"
-    excerpt: "Education has become the cornerstone of innovation. As the demand for skilled professionals in computer software technology continues to rise, educational institutions are adapting their curricula to meet the industry’s changing needs."
-    publishedDateTime: 2023-10-24T09:56:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-a-bs-in-computer-software-technology-education/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 49
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/The-Role-of-Artificial-Intelligence-in-a-BS-in-Computer-Software-Technology-Education.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "AI And The Cognitive Revolution"
-    excerpt: "Artificial intelligence may be the first innovation to disrupt our way of life on the same scale as the Industrial Revolution."
-    publishedDateTime: 2023-10-20T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/20/ai-and-the-cognitive-revolution/"
+  - title: "Can Generative AI Be The Smartest Member Of Your Company?"
+    excerpt: "To support the effective, safe and ethical use of generative AI, you'll need a solid foundation of high-quality data underpinned by governance."
+    publishedDateTime: 2023-10-24T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/can-generative-ai-be-the-smartest-member-of-your-company/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI Takes on Expiration Dates"
-    excerpt: "Food can go rancid when it’s exposed to the air for a while—a process called oxidation. In fact, many common ingredients, but especially lipids, which are fats and oils, react with oxygen. The presence of heat or UV light can accelerate the process."
-    publishedDateTime: 2023-10-22T12:00:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/10/ai-food-preservation-chemistry-rancidity-detection/675723/"
+  - title: "How AI is poised to impact government — and vice versa"
+    excerpt: "The future is now, and the public and private sector are both working together and at cross-purposes to meet the moment. Here's how governments are approaching the regulation and use of artificial intelligence."
+    publishedDateTime: 2023-10-24T13:41:00Z
+    webUrl: "https://technical.ly/civic-news/ai-government-use-regulations/"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 47
-  - title: "How governments are approaching the regulation and use of AI"
-    excerpt: "“AI is not just about the technology; it’s going to impact aspects of our daily lives that we can’t even imagine right now,” Dillon said. “We need to really concentrate on and address the ethics and the regulations and the workforce concerns and ..."
-    publishedDateTime: 2023-10-23T14:13:00Z
-    webUrl: "https://www.cityandstateny.com/policy/2023/10/how-governments-are-approaching-regulation-and-use-ai/391389/"
-    type: article
-    provider:
-      name: City & State New York
-      domain: cityandstateny.com
+      name: Technical
+      domain: technical.ly
     quality: 39
     images:
-      - url: "https://cdn.cityandstateny.com/media/img/cd/2023/10/20/GettyImages_967906100/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Skyrocketing OpenAI Valuation Ignites AI Revolution"
-    excerpt: "San Francisco-based start-up OpenAI is on the verge of finalizing a deal that could value the company at $80 billion or more."
-    publishedDateTime: 2023-10-21T07:29:00Z
-    webUrl: "https://www.dmnews.com/skyrocketing-openai-valuation-ignites-ai-revolution/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 37
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/Open-AI.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "How Creative Cloud and Generative AI Are Impacting Higher Education"
-    excerpt: "Tools powered by natural language processing can enhance instruction and prepare students to harness artificial intelligence in their post-college careers."
-    publishedDateTime: 2023-10-24T19:39:00Z
-    webUrl: "https://edtechmagazine.com/higher/article/2023/10/how-creative-cloud-and-generative-ai-are-impacting-higher-education"
-    type: article
-    provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 36
-  - title: "How AI and digital transformation are influencing the food and beverage industry"
-    excerpt: "Manufacturers and retailers are improving their technology stack through digital transformation strategies and AI to improve operations and address historical food and beverage challenges from ingredient shortages and reformulations to predicting current and future market opportunities."
-    publishedDateTime: 2023-10-20T15:03:00Z
-    webUrl: "https://www.foodnavigator-usa.com/Article/2023/10/20/futureproofing-the-food-system-summit-how-ai-and-digital-transformation-are-influencing-the-food-and-beverage-industry"
-    type: article
-    provider:
-      name: Food
-      domain: foodnavigator-usa.com
-    quality: 34
-    images:
-      - url: "https://www.foodnavigator-usa.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-usa.com/news/markets/futureproofing-the-food-system-summit-how-ai-and-digital-transformation-are-influencing-the-food-and-beverage-industry/16854042-1-eng-GB/Futureproofing-the-Food-System-Summit-How-AI-and-digital-transformation-are-influencing-the-food-and-beverage-industry.png"
-        width: 517
-        height: 271
-        isCached: true
-  - title: "Key considerations for regulating artificial intelligence in healthcare"
-    excerpt: "The World Health Organisation (WHO) has released a new publication listing key regulatory considerations for artificial intelligence (AI) in health."
-    publishedDateTime: 2023-10-21T18:50:00Z
-    webUrl: "https://www.thedailystar.net/star-health/news/key-considerations-regulating-artificial-intelligence-healthcare-3449616"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 34
-  - title: "USD 88.2 Billion Artificial Intelligence In Education Market Expected Reach By 2032 | Growth Drivers & Future Scenarios"
-    excerpt: "Artificial Intelligence in Education Market Type Booming smartphone penetration to complement APAC industry. PORTLAND, PORTLAND, O"
-    publishedDateTime: 2023-10-23T02:40:00Z
-    webUrl: "https://menafn.com/1107284165/USD-882-Billion-Artificial-Intelligence-In-Education-Market-Expected-Reach-By-2032-Growth-Drivers-Future-Scenarios"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?917387"
-        width: 487
-        height: 250
-        isCached: true
-  - title: "FPT Announces Strategic Partnership with Landing AI, Advancing Artificial Intelligence Development and Education"
-    excerpt: "FPT, global technology firm headquartered in Vietnam, and Landing AI, the US's leading computer vision platform and artificial intelligence (AI) softw"
-    publishedDateTime: 2023-10-24T07:23:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231024035093/en/FPT-Announces-Strategic-Partnership-with-Landing-AI-Advancing-Artificial-Intelligence-Development-and-Education"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 30
-  - title: "Moody's and Google Cloud Partner on Generative AI Applications Tailored for Financial Services Professionals"
-    excerpt: "\"Through this partnership, research teams at Moody's and Google Cloud will collaborate on fine-tuned LLMs and AI applications that will enable financial service professionals to produce new, proprietary insights faster than ever before.\" \"Our collaboration ..."
-    publishedDateTime: 2023-10-23T19:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/moody-s-and-google-cloud-partner-on-generative-ai-applications-tailored-for-financial-services-professionals-1032730108"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
-  - title: "Generative AI and evolving enterprise needs: How Amazon approaches the future of technology"
-    excerpt: "Generative artificial intelligence is a rapidly advancing technology that is merging hype and reality. It’s poised to have a huge impact on next-generation cloud technologies."
-    publishedDateTime: 2023-10-24T17:26:00Z
-    webUrl: "https://siliconangle.com/2023/10/24/generative-ai-evolving-enterprise-needs-amazon-approaches-future-technology-supercloud4/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 29
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Bratin-Saha-Supercloud-4-2023.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "The Computing Pioneer Helping AI See"
-    excerpt: "Alexei Efros has spent his career learning how machines see differently from humans. Now he’s helping to bridge the gap."
-    publishedDateTime: 2023-10-24T18:01:00Z
-    webUrl: "https://www.quantamagazine.org/the-computing-pioneer-helping-ai-see-20231024/"
-    type: article
-    provider:
-      name: Quanta Magazine
-      domain: quantamagazine.org
-    quality: 19
-  - title: "Shield AI announces multi-year agreement with Sentient Vision to offer AI-enabled real-time situational awareness"
-    excerpt: "A groundbreaking AI technology collaboration between Shield AI, an American defence technology company building the world’s best AI pilot, and Sentient Vision Systems (Sentient), an"
-    publishedDateTime: 2023-10-23T19:20:00Z
-    webUrl: "https://www.suasnews.com/2023/10/shield-ai-announces-multi-year-agreement-with-sentient-vision-to-offer-ai-enabled-real-time-situational-awareness/"
-    type: article
-    provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 18
-    images:
-      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2023/10/shield-AI-sentient.jpg?fit=1200%2C800&ssl=1"
+      - url: "https://technical.ly/wp-content/uploads/2023/10/AI-government-cities-pexels-google-deepmind-17483907.jpg"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Why actors are fighting for AI protections"
-    excerpt: "Actors on strike amid contract negotiations with production studios are fighting for protections from artificial intelligence (AI), but the concerns they’re highlighting raise risks beyond the scope of movies and television."
-    publishedDateTime: 2023-10-23T13:00:00Z
-    webUrl: "https://www.aol.com/news/why-actors-fighting-ai-protections-100000324.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
-  - title: "NC1 AI: Pioneering Business-Centric AI Deployment To Propel Enterprises Into A New Era Of Innovation And Efficiency"
-    excerpt: "NC1 AI NC1 AI Redefines AI Deployment for Businesses, Paving the Way for a Future-Ready Landscape LOS ANGELES, CA, UNITED STATES,"
-    publishedDateTime: 2023-10-24T22:01:00Z
-    webUrl: "https://menafn.com/1107297404/NC1-AI-Pioneering-Business-Centric-AI-Deployment-To-Propel-Enterprises-Into-A-New-Era-Of-Innovation-And-Efficiency"
+  - title: "PIONEER IN FINTECH DEMONSTRATES IMPACT OF AI IN PAYMENTS AT MASTERCARD EVENT DURING MONEY20/20"
+    excerpt: "Serial fintech founder to address looming industry regulation and how AI can deliver more value to consumers and businesses  LAS"
+    publishedDateTime: 2023-10-23T11:45:00Z
+    webUrl: "https://menafn.com/1107286496/PIONEER-IN-FINTECH-DEMONSTRATES-IMPACT-OF-AI-IN-PAYMENTS-AT-MASTERCARD-EVENT-DURING-MONEY2020"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 17
+    quality: 27
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?343697"
-        width: 358
-        height: 250
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?288618"
+        width: 375
+        height: 249
         isCached: true
+  - title: "Music Companies Take Legal Action Against Amazon-Backed AI Startup"
+    excerpt: "A recent legal battle is brewing in the music world. Three top music companies are suing Anthropic, an AI firm. They claim the company's AI, Claude, is using their song lyrics without permission. This"
+    publishedDateTime: 2023-10-20T13:15:00Z
+    webUrl: "https://techround.co.uk/news/music-companies-take-legal-action-against-amazon-backed-ai-startup/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 17
+  - title: "How AI Can Revolutionize Entrepreneurship in 2024"
+    excerpt: "By leveraging the capabilities of AI, entrepreneurs can streamline their operations, mitigate risks, and accelerate growth. Here’s how AI will revolutionize entrepreneurship in 2024."
+    publishedDateTime: 2023-10-22T01:30:00Z
+    webUrl: "https://www.industryleadersmagazine.com/how-ai-can-revolutionize-entrepreneurship-in-2024/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 17
+  - title: "5 Jobs Artificial Intelligence Can’t Replace"
+    excerpt: "In this article, we will look at the 5 jobs that artificial intelligence can’t replace. We have also discussed the potential impact of artificial intelligence on jobs in another article."
+    publishedDateTime: 2023-10-24T11:49:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 17
 
 secured: "81HUkCwtt+T819D5w3hQS3S98hLNlDGNGOamiVOQSXqXJiKJDE5W9uGEAMJXDjZfYFVeUE3dE1RGDlKDwzdAqKbojcqTG+aqdoUhwvWO4RNh2vkq7uzktxYZLfgjbq1wQBuriXf2an1iz8VPHLitH5Quesr296pGr2EznrBCwJx3bmAiPoXCxygM/M6lI5fbCEEmi8/0PdDmP0ckZrqMidar9dEabzkZxnmqwb5KRMAbr2YSYyk9iuyFYftnvCMiw4bQAvlLux7EUJXSpLc7MNvxfA8q9McGEu/c4Kxzx8RF1mBhW4a7ODmcOTpt9mrvzASaoNtnHdr1JsnUHm7RaSlBdI2hbb/dK+ZqeiOBVyBHacOuoT3IlAo3YN0/jriPXeTTkZCDZyX/W3JTyCY0mXwJdlQQwnHjFkArIhs+oeSfMNlkpHIE8VYfh5rtN+KN0Q2XFBlkcwIWDBVxL3ZfZxT3EcxqEg8/x4IreBIrgGzHMTed2zWSXJDfBDc7YUy5zF4N2ZcCLmUXizfjpsVpqQ==;HMJiYgN53qqhFdLrh1TRiQ=="
 ---

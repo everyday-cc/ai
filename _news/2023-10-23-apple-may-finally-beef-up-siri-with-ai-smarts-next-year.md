@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/apple-generative-ai-siri-app
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/apple-generative-ai-siri-apps-services/?amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Apple Generative AI Features and Smarter Siri Could Launch Next Year"
-    excerpt: "Apple is developing a large array of features that use generative AI, according to Bloomberg's Mark Gurman. In his latest \"Power"
-    publishedDateTime: 2023-10-22T12:52:00Z
-    webUrl: "https://www.macrumors.com/2023/10/22/apple-generative-ai-features-and-smarter-siri/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 19
 
 secured: "XTA4a+LSdASi3qUDzVJN4Wg6IzHaZkPAXuR4gl3/t3HvkEOwaeqfxC4u3aqXkJK2jO8uvdPFuHNrXFcGqD8BLzuJoQobWC2NjBhnTcyi4z3lFX0mhHoBUckijPWO66YrZxLGqutYdvzh5ougQPth67tQuUaEuzIRsDk7q2WshxACn7CzIqId93+wG/tccZU4vPJ+lCiF+ShIEzOGo76uoy41PAvFGqbNlYY34k1De6p5JsyvArmAnmlmF7p0WGDyt2lNhKVvANvMpmFieYTkv4zA+zF334Sn5jCvzPpYqVPGW5cgERGbTCLf3khx7tFY5K+7YA1s72C4ikgs2WeM0SLgmdl3sSvmi41sYpc3bPI=;5SCYce9I3+8M532ZxoU7Zg=="
 ---

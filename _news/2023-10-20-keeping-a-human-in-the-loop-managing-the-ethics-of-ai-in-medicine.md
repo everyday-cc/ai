@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-10-human-loop-ethics-ai-medicine
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-human-loop-ethics-ai-medicine.amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1920
     height: 1358
     isCached: true
+
+related:
+  - title: "Keeping a human in the loop: Managing the ethics of AI in medicine"
+    excerpt: "Increasingly used in medicine, AI raises both hopes and concerns. An international task force has laid out recommendations to ensure AI medical devices help patients and avoid worsening health inequity."
+    publishedDateTime: 2023-10-21T23:51:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231020105631.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
 
 secured: "1rwHcDoQ39A8GDVcfK67DEtm6eNfQ1n2xe2ITP+DL8Osr4TS5Gvx6ldWegR8iwMmFYUNFxOotARcBU60fUy/AgO7BTtapCCxYB1Yu7RFQ+49xC/e5DQF0GOhYjA51Bma6tXJzPny0qccpXqPrM44mahsY4zEFA3xigJtHJvcgPQHOq3P6ddbZuEkDdaoJWthkKCQqhcp8Hd11GMDfpSqaQcWx8GwM+OuXXM7jixwxBGeChM11tuFtEPxOzj/Zc0Mc/qmuJCBtJYxR80YP9FEysQ7+7WQ3cqlV6wqEMRu/aWeX+O7otjvlY0p+sQz7LlqPVmTAooavO6mBMaDX+++zHpoNjnms2EdBjmZlPBNlcsHlcgg5rJFSUIYoiTDEADfs1YY/ukvys82Af5iNwXIWxRL4TsK918IkBHUBp37jMEjVcZ/6hkB1vGeDxvxFN2QZaRNb2UuM1WoA6YSvO5y3ElUP8EDpcegaJ7Ofkm7ORSWVW7SycD59DgmvMSlhE+Yi7TT1ZMKs52TlAJ776bPgg==;4YI/7hpZ0Z/Y9xOKgHKJtA=="
 ---
