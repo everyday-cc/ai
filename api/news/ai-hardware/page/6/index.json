@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-07-qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup.md",
+      "title": "Qualcomm Upgrades And Expands Its Handheld Gaming Chip Lineup",
+      "excerpt": "Today, Microsoft and Nvidia rule the cloud gaming space ... Moor Insights & Strategy provides or has provided paid services to technology companies like all research and tech industry analyst firms. These services include research, analysis, advising ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f8db50a1eda175c6dcb95f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/amp/",
+      "publishedDateTime": "2023-09-06T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-synopsys-opens-the-next-chapter-of-ai-tools-for-chip-design-and-manufacturing.md",
       "title": "Synopsys Opens The Next Chapter Of AI Tools For Chip Design And Manufacturing",
       "excerpt": "The EDA leader has generated over $500M to date in AI tools and technologies. Now a new data analytics solution applies data management, curation, and analysis across the entire pipeline of chip creation. Synopsys was the first EDA company to apply ...",
@@ -1358,49 +1411,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-google-launches-ai-chip-to-handle-faster-training-performance-of-llms.md",
-      "title": "Google launches AI chip to handle faster training performance of LLMs",
-      "excerpt": "It is claimed to deliver “up to 2x higher training performance per dollar and up to 2.5x inference performance per dollar for LLMs and gen AI models compared to Cloud TPU v4.” Google said the new chip is a combination of performance and flexibility ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-launches-ai-chip-to-handle-faster-training-performance-of-llms/articleshow/103202968.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-launches-ai-chip-to-handle-faster-training-performance-of-llms/articleshow/103202968.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-103203041/103203041.jpg",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-launches-ai-chip-to-handle-faster-training-performance-of-llms/amp_articleshow/103202968.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-launches-ai-chip-to-handle-faster-training-performance-of-llms/amp_articleshow/103202968.cms",
-      "publishedDateTime": "2023-08-30T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

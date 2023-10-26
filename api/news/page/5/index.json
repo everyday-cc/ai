@@ -2,6 +2,255 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-10-24-vast-data-extends-ai-infrastructure-leadership-with-lambda-labs-partnership.md",
+      "title": "VAST Data Extends AI Infrastructure Leadership with Lambda Labs Partnership",
+      "excerpt": "VAST Data and Lambda Labs have embarked on a new strategic partnership to develop an elite hybrid cloud service tailored specifically for AI and deep learning operations. Lambda has chosen the VAST Data Platform to bolster its On-Demand GPU Cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/23/vast-data-extends-ai-infrastructure-leadership-with-lambda-labs-partnership/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/23/vast-data-extends-ai-infrastructure-leadership-with-lambda-labs-partnership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6536ae50439b77a61ad8d7a4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 932,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/23/vast-data-extends-ai-infrastructure-leadership-with-lambda-labs-partnership/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/23/vast-data-extends-ai-infrastructure-leadership-with-lambda-labs-partnership/amp/",
+      "publishedDateTime": "2023-10-23T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-uk-officials-are-using-ai-to-make-decisions-on-benefits.md",
+      "title": "UK officials are using AI to make decisions on benefits",
+      "excerpt": "‘There is a lack of consistency and transparency in the way that AI is being used in the public sector,’ said Marion Oswald, a professor in law at Northumbria University and a former member of the government’s advisory board on data ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/?ico=trending-post-strip_item_4",
+      "originalUrl": "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/?ico=trending-post-strip_item_4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2023/10/GettyImages-1199003735.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/",
+      "publishedDateTime": "2023-10-23T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-why-business-leaders-should-view-artificial-intelligence-as-a-co-pilot.md",
+      "title": "Why Business Leaders Should View Artificial Intelligence As A Co-Pilot",
+      "excerpt": "Rather than viewing AI as a direct replacement for jobs, business leaders should treat AI like a co-pilot. When companies leverage AI strategically, they can help their employees work differently in more productive ways, yielding better results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/23/why-business-leaders-should-view-artificial-intelligence-as-a-co-pilot/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/23/why-business-leaders-should-view-artificial-intelligence-as-a-co-pilot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6532e6f112c5a22522be4ca9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/23/why-business-leaders-should-view-artificial-intelligence-as-a-co-pilot/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/23/why-business-leaders-should-view-artificial-intelligence-as-a-co-pilot/amp/",
+      "publishedDateTime": "2023-10-23T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-how-household-restocking-startup-the-rounds-uses-tech-and-ai-to-make-sustainable-e-commerce-profitable.md",
+      "title": "How ‘household restocking’ startup The Rounds uses tech and AI to make sustainable e-commerce profitable",
+      "excerpt": "Now, it’s claiming a significant milestone on the latter, as the startup claims it’s profitable not only at ... This part of The Rounds’ business could be aided by AI. Already, AI is helping maximize the efficiency of The Rounds’ delivery routing ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/23/household-restocking-startup-the-rounds-uses-tech-and-ai-to-make-sustainable-e-commerce-profitable/",
+      "originalUrl": "https://techcrunch.com/2023/10/23/household-restocking-startup-the-rounds-uses-tech-and-ai-to-make-sustainable-e-commerce-profitable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/THE-ROUNDS-9_27-BFURLONG6428.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/23/household-restocking-startup-the-rounds-uses-tech-and-ai-to-make-sustainable-e-commerce-profitable/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/23/household-restocking-startup-the-rounds-uses-tech-and-ai-to-make-sustainable-e-commerce-profitable/amp/",
+      "publishedDateTime": "2023-10-23T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-6-retail-leaders-innovating-the-customer-experience-with-ai.md",
+      "title": "6 retail leaders innovating the customer experience with AI",
+      "excerpt": "Here's Insider's list of innovative retail leaders who are revolutionizing the customer experience with AI, from GE, Instacart, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10",
+      "originalUrl": "https://www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6532961996f7540cd0618e44?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10?amp",
+      "publishedDateTime": "2023-10-23T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-23-how-marc-andreessen-is-like-robert-moses-its-time-to-build-ai-the-ai-beat.md",
       "title": "How Marc Andreessen is like Robert Moses: ‘It’s time to build’ AI | The AI Beat",
       "excerpt": "Marc Andreessen and Robert Moses both said 'It's time to build.' But are the Techno-Optimists destined for a Moses-style reckoning?",
@@ -551,7 +800,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/10/23/workshop-on-soft-law-governance-of-ai-applications-knocks-it-out-of-the-park-and-dazzles-with-keen-insights-on-ai-ethics-and-ai-legal-impacts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -979,238 +1228,6 @@
         "Facebook AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-23-diving-deeper-with-kajiai-a-mental-health-and-wellness-app.md",
-      "title": "Diving Deeper With KAJI.ai, A Mental Health And Wellness App",
-      "excerpt": "This article explores KAJI.ai, a health and wellness app that uses generative AI and supports B2C & B2Bcustomers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-with-kajiai-a-mental-health-and-wellness-app/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-with-kajiai-a-mental-health-and-wellness-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/653570b28d9f73ba65d59235/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-with-kajiai-a-mental-health-and-wellness-app/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-with-kajiai-a-mental-health-and-wellness-app/amp/",
-      "publishedDateTime": "2023-10-22T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-22-2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run.md",
-      "title": "2 Top Artificial Intelligence (AI) Stocks Ready for A Bull Run",
-      "excerpt": "Many artificial intelligence (AI) stocks are soaring this year. The introduction of powerful and user-friendly chatbots such as Google Bard and OpenAI's ChatGPT took the world by storm, and now everybody wants a finger in that tasty pie.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run",
-      "originalUrl": "https://www.nasdaq.com/articles/2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-22T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-22-apple-insiders-expose-iphone-16-pros-chaotic-ai-plans.md",
-      "title": "Apple Insiders Expose iPhone 16 Pro’s Chaotic AI Plans",
-      "excerpt": "The details come from noted supply chain analyst Jeff Pu, who reports that Apple is looking to build a significant number of AI servers in 2023 before scaling up to “significantly more” during 2024. These will offer two broad forms of AI support: cloud-based AI and “edge AI” which supports on-device AI data processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/",
-      "originalUrl": "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6533d758c1840d79ef74453f/0x0.jpg?format=jpg&crop=2147,1209,x239,y41,safe&height=900&width=1600&fit=bounds",
-          "width": 1598,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
-      "publishedDateTime": "2023-10-22T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-22-recruitment-by-robot-how-ai-is-changing-the-way-australians-get-jobs.md",
-      "title": "Recruitment by robot: how AI is changing the way Australians get jobs",
-      "excerpt": "Artificial intelligence is increasingly being used by employers to help decide who to hire. What does it mean for candidates – and their future bosses?",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/oct/23/ai-recruitment-job-search-artificial-intelligence-employment",
-      "originalUrl": "https://www.theguardian.com/technology/2023/oct/23/ai-recruitment-job-search-artificial-intelligence-employment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c2d5317d9c0d51e4c97b627af427b393b89a0de7/0_179_8289_4973/master/8289.jpg?width=620&quality=85&auto=format&fit=max&s=858e6e6b1827b94addd2cd140fef16a0",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/23/ai-recruitment-job-search-artificial-intelligence-employment",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/23/ai-recruitment-job-search-artificial-intelligence-employment",
-      "publishedDateTime": "2023-10-22T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-22-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap.md",
-      "title": "The convergence of finance and healthcare: How fintech is bridging the gap",
-      "excerpt": "By harnessing the power of AI and ML algorithms, and using relevant healthcare and financial data, healthcare-focused fintech can help streamline financial services in the healthcare industry. Technological advancements have successfully paved their way ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/",
-      "originalUrl": "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-06T160116.656.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/",
-      "publishedDateTime": "2023-10-22T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -322,7 +322,7 @@ related:
   - title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
     excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
     publishedDateTime: 2023-10-25T14:58:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca&region=ca"
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
     type: article
     provider:
       name: Proactiveinvestors
@@ -679,6 +679,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 42
+  - title: "FRISS to use Microsoft Azure OpenAI Service for Enhanced AI Fraud Model Explanations"
+    excerpt: "MASON, Ohio--(BUSINESS WIRE)--FRISS, one of the world’s most implemented solutions for trust automation at P&C carriers, has recently collaborated with Microsoft to enhance its AI fraud model explanations using Microsoft Azure OpenAI Service. As a ..."
+    publishedDateTime: 2023-10-26T14:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231026052793/en/FRISS-to-use-Microsoft-Azure-OpenAI-Service-for-Enhanced-AI-Fraud-Model-Explanations"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 42
   - title: "Microsoft to help Rockwell Automation to leverage generative AI and accelerate automation design"
     excerpt: "Rockwell Automation and Microsoft are expanding their partnership to accelerate industrial automation design and development using generative artificial intelligence. Microsoft’s Azure OpenAI Service will be added to Rockwell Automation’s FactoryTalk Design Studio to help users accelerate time-to-market when building industrial automation systems."
     publishedDateTime: 2023-10-26T15:27:00Z
@@ -803,6 +812,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 10
+  - title: "Rockwell Automation and Microsoft Expand Partnership to Leverage Generative AI Capabilities for Enhanced Productivity and Faster Time-to-Market"
+    excerpt: "Rockwell Automation, Inc. (NYSE: ROK) and Microsoft Corp. (NASDAQ: MSFT) today announced an extension of their longstanding relationship to accelerate"
+    publishedDateTime: 2023-10-26T10:59:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231026300444/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "t7vX9wcE5OzrtTwWsA5sqjz8ozXFkwJJv6Eq14RSaaGcajUTBkQyrz93YIsVUvYhlY1Za23op81NxTW9V24lzFEDPNuxFW9+NhitZad1Y91bYqdHFUelQ64mHx4pGQ1TGmx3ODh427L76HTVNMKD/ZcUFPd3DD3PvrxEUxhu3xN28RljeOwcY3ix8Hg+tW4bK5g3r6NPorU1wm6iGGngINF0+vZascm2bbIZDfoIDqZdDr2cfxpEA+u5lYqdMJ8tMYIHmkRFmj9SKTyzqWLJPJdv6vKnx3tf5swO5DsAuwhwOKsfcwcJByy/rsdtp6pO+FE6sInclcuZKYxVhd+wLYxDo9wbi4gddB7a9g178hCH7B36Ps+DF/W6zUAMlz1CCNVwgTkylu39i8cIcqJUwD9dJW6HL72EEC99vIvOw2c2HE8Ts0pEPgYwJEtdAaWnRPaMrl9cfFt3jzmsETRnZYedNbW+WVuIWZdzkOHS2Ak6gn/LalIsJjPNbHn4AHZ+wXmRJ6j4OuI5/o9Y+mkMpQ==;ZYTgoZVe7LWh+rEmNHUEmA=="
 ---

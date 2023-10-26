@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2023/10/25/artificial-intelligence-in-the-c
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/25/artificial-intelligence-in-the-c-suite-a-senior-leaders-guide-for-maximizing-ais-potential/?amp=1"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
         width: 800
         height: 431
         isCached: true
-  - title: "The Power of Machine Learning and AI for Carriers"
-    excerpt: "T8N’s Mike Robinson details the power of machine learning and AI to help facilitate logistics for carriers on this episode of Retail Refined."
-    publishedDateTime: 2023-10-26T11:56:00Z
-    webUrl: "https://marketscale.com/industries/retail/machine-learning-and-ai-carriers/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 34
 
 secured: "skB5bsZnaV56+s1fBVb+B8LSJEL+QMX4BhlLDoXeYX1VngnnY1MJZBjoNWSjRnicXJV7npMQ79I37zvQWwgiUOh29z0rGXg74zAWfBjQqQAc8MjJDtbh/SXegdDZTQBteYDTPWxPLoIpoDZm7oywv6wywoB7DCDEKd8tWYZL/Erl+KFSwXnIk7B35Tu/WWbYA4Orsfuy7HxlXWFMHlKSOXcDWAwCykMAGzp86RlYjH0ra+IKc3m5tAW5KAb7huQPOyI9aMJn2O/CZ+p1LbrSxJDdB2HiQ3QBGK8BHnEeVYOUJfKZfvih6HMFomfJvjRrP11kigC6SZfzzzcOEGaqjuZSWLO92cDpj7zQu3kBK/DtRflQADDY8YDvQpdHM7xPeYfX4GQcTU21+XEQzq6rhQzZd+cXokZ5ppBB37dg8cDz9W8XiSsduoSFsFgZm6R6XDc80/h37gFWfb+NU/v99JWErXtg/Cs8HsPwHLKfx3tbjD0EAHqT1Yrl0Mh3SNd0M2NhOcZcQj1XB/VTrU7Jfw==;RLWe2OSqkU4SPdDFcEuDYA=="
 ---

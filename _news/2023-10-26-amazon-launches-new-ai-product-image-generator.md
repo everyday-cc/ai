@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/amazon-launches-new-ai-product-image-ge
 webUrl: "https://venturebeat.com/ai/amazon-launches-new-ai-product-image-generator/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meta Executive on AI Products"
+    excerpt: "At WSJ's Tech Live conference, Meta Platforms Chief Product Officer Chris Cox explains how deepfakes influenced the development of Meta's AI assistant products. Photo: Nikki Ritcher for The Wall Stree"
+    publishedDateTime: 2023-10-26T16:55:00Z
+    webUrl: "https://www.wsj.com/video/meta-executive-on-ai-products/91C4A798-C22E-4FDA-B089-82A79BF987B7"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "http://images.wsj.net/im-870644?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Artists Can Now Sabotage AI Image Generators to Fight Art Theft"
     excerpt: "It’s the newest—and potentially most powerful—tool to stop developers from using creatives’ work without their permission to train their models."
     publishedDateTime: 2023-10-24T18:24:00Z

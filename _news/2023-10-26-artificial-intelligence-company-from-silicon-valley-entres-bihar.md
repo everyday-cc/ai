@@ -42,6 +42,17 @@ related:
         width: 1280
         height: 723
         isCached: true
+  - title: "In a 1st, artificial intelligence company from Silicon Valley enters Bihar"
+    excerpt: "A Silicon Valley-based Artificial Intelligence company has opened an office in Bihar, making it the first IT company from the US to enter the state."
+    publishedDateTime: 2023-10-26T17:15:00Z
+    webUrl: "https://www.business-standard.com/companies/news/in-a-1st-artificial-intelligence-company-from-silicon-valley-enters-bihar-123102600201_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/in-a-1st-artificial-intelligence-company-from-silicon-valley-enters-bihar-123102600201_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/in-a-1st-artificial-intelligence-company-from-silicon-valley-enters-bihar-123102600201_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 35
 
 secured: "11mMfGEbalzqEYnaQRIjYBQhSbUALNRaYzAvAGMPp/mxkE8jBD6jgA7tXkXJFbG4vRaeJcFb062zUHj0CU2mwsHBaVWszJnNF6XmV7kINIjz5hndlG0Nmxd7/FohkJAT5OVe2YSRklDEIVl51k4OJ6/YOTRhHnQHFRStji5BxPYLRsLcijnAGqYTiZyzNMGCy6DmQ/POio4kX9MyS+251eXbK83TfJWWhpay6NlQT2cchgWcKzL/7Eez19b8tB9dLhFtW+chcG4kKvjOCewXIStxTiCWHfqMsSk7YeZBjLNRFwGnoikBo9w0L0SOyh3O3AOMp4g2008d5scvzV/q4cAFQGEVuUnReWaV2T+iuhQ=;ZUkMJYIp5R4xzHpwyMFwvg=="
 ---

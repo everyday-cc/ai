@@ -2,6 +2,238 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-10-23-diving-deeper-with-kajiai-a-mental-health-and-wellness-app.md",
+      "title": "Diving Deeper With KAJI.ai, A Mental Health And Wellness App",
+      "excerpt": "This article explores KAJI.ai, a health and wellness app that uses generative AI and supports B2C & B2Bcustomers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-with-kajiai-a-mental-health-and-wellness-app/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-with-kajiai-a-mental-health-and-wellness-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/653570b28d9f73ba65d59235/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-with-kajiai-a-mental-health-and-wellness-app/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-with-kajiai-a-mental-health-and-wellness-app/amp/",
+      "publishedDateTime": "2023-10-22T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-22-2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run.md",
+      "title": "2 Top Artificial Intelligence (AI) Stocks Ready for A Bull Run",
+      "excerpt": "Many artificial intelligence (AI) stocks are soaring this year. The introduction of powerful and user-friendly chatbots such as Google Bard and OpenAI's ChatGPT took the world by storm, and now everybody wants a finger in that tasty pie.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run",
+      "originalUrl": "https://www.nasdaq.com/articles/2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-22T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-22-apple-insiders-expose-iphone-16-pros-chaotic-ai-plans.md",
+      "title": "Apple Insiders Expose iPhone 16 Pro’s Chaotic AI Plans",
+      "excerpt": "The details come from noted supply chain analyst Jeff Pu, who reports that Apple is looking to build a significant number of AI servers in 2023 before scaling up to “significantly more” during 2024. These will offer two broad forms of AI support: cloud-based AI and “edge AI” which supports on-device AI data processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/",
+      "originalUrl": "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6533d758c1840d79ef74453f/0x0.jpg?format=jpg&crop=2147,1209,x239,y41,safe&height=900&width=1600&fit=bounds",
+          "width": 1598,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
+      "publishedDateTime": "2023-10-22T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-22-recruitment-by-robot-how-ai-is-changing-the-way-australians-get-jobs.md",
+      "title": "Recruitment by robot: how AI is changing the way Australians get jobs",
+      "excerpt": "Artificial intelligence is increasingly being used by employers to help decide who to hire. What does it mean for candidates – and their future bosses?",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/oct/23/ai-recruitment-job-search-artificial-intelligence-employment",
+      "originalUrl": "https://www.theguardian.com/technology/2023/oct/23/ai-recruitment-job-search-artificial-intelligence-employment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c2d5317d9c0d51e4c97b627af427b393b89a0de7/0_179_8289_4973/master/8289.jpg?width=620&quality=85&auto=format&fit=max&s=858e6e6b1827b94addd2cd140fef16a0",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/23/ai-recruitment-job-search-artificial-intelligence-employment",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/23/ai-recruitment-job-search-artificial-intelligence-employment",
+      "publishedDateTime": "2023-10-22T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-22-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap.md",
+      "title": "The convergence of finance and healthcare: How fintech is bridging the gap",
+      "excerpt": "By harnessing the power of AI and ML algorithms, and using relevant healthcare and financial data, healthcare-focused fintech can help streamline financial services in the healthcare industry. Technological advancements have successfully paved their way ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/",
+      "originalUrl": "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-06T160116.656.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/",
+      "publishedDateTime": "2023-10-22T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-10-22-viral-photos-of-hamas-leaders-allegedly-ai-fakes-are-actually-just-poorly-upscaled-images.md",
       "title": "Viral Photos Of Hamas Leaders Allegedly AI Fakes Are Actually Just Poorly Upscaled Images",
       "excerpt": "Photos of Hamas leadership enjoying \"luxurious lifestyles\" went viral on Friday, but many internet users noticed something weird about the images.",
@@ -989,221 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-how-to-choose-the-best-ai-platform.md",
-      "title": "How to choose the best AI platform",
-      "excerpt": "AI platforms drive a range of benefits for your business, such as increased automation, scale, security and more.\nThe post How to choose the best AI platform appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T08:27:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-exploring-the-brain-basis-of-concepts-by-using-a-new-type-of-neural-network.md",
-      "title": "Exploring the brain basis of concepts by using a new type of neural network",
-      "excerpt": "The influence of language on human thinking could be stronger than previously assumed. This is the result of a new study by Professor Friedemann Pulvermüller and his team from the Brain Language Laboratory at Freie Universität Berlin.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/exploring-the-brain-ba-1.jpg",
-          "width": 2880,
-          "height": 2017,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.amp",
-      "publishedDateTime": "2023-10-20T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-robotics-manufacturing-institute-helps-build-defense-submarines.md",
-      "title": "Robotics Manufacturing Institute Helps Build Defense Submarines",
-      "excerpt": "Pittsburgh's Advanced Robotics for Manufacturing Institute is supporting efforts to build submarines and tactical alloys for the U.S. military through a relatively new Department of Defense community initiative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/robotics-manufacturing-institute-helps-build-defense-submarines",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/robotics-manufacturing-institute-helps-build-defense-submarines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/d2f1634/2147483647/strip/true/crop/3840x2002+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F9f%2F95%2F9767293f44d4b7dddc95b06f83e3%2Fshutterstock-2130995300.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/higher-ed/robotics-manufacturing-institute-helps-build-defense-submarines?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/robotics-manufacturing-institute-helps-build-defense-submarines?_amp=true",
-      "publishedDateTime": "2023-10-20T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-ibms-northpole-chip-runs-ai-based-image-recognition-22-times-faster-than-current-chips.md",
-      "title": "IBM's NorthPole chip runs AI-based image recognition 22 times faster than current chips",
-      "excerpt": "A large team of computer scientists and engineers at IBM Research has developed a dedicated computer chip that is able to run AI-based image recognition apps 22 times as fast as chips that are currently on the market.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-10-ibm-northpole-chip-ai-based-image.html",
-      "originalUrl": "https://techxplore.com/news/2023-10-ibm-northpole-chip-ai-based-image.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ibms-northpole-chip-ru.jpg",
-          "width": 1318,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-10-ibm-northpole-chip-ai-based-image.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-ibm-northpole-chip-ai-based-image.amp",
-      "publishedDateTime": "2023-10-20T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-best-gpu-stocks-for-2023.md",
-      "title": "Best GPU Stocks for 2023",
-      "excerpt": "While gaming remains a key growth driver for the industry, AI may end up being more important in the long run. GPU companies design semiconductor chips that feature a large number of cores capable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/gpu-stocks/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/gpu-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

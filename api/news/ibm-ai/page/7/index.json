@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-08-03-artificial-intelligence-in-security-market-size-latest-trends-key-players-revenue-report-and-forecast-2031.md",
-      "title": "Artificial Intelligence in Security Market Size, Latest Trends, Key Players, Revenue, Report, and Forecast 2031",
-      "excerpt": "IBM and MIT are investing in MIT-IBM Watson AI Lab which is focusing towards developing AI algorithms and new applications of AI in various fields such as healthcare and cybersecurity. Recently in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33541086/artificial-intelligence-in-security-market-size-latest-trends-key-players-revenue-report-and-foreca",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33541086/artificial-intelligence-in-security-market-size-latest-trends-key-players-revenue-report-and-foreca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33541086",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33541086",
-      "publishedDateTime": "2023-08-02T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-08-03-ibm-and-nasa-open-source-largest-geospatial-ai-foundation-model-on-hugging-face.md",
       "title": "IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face",
       "excerpt": "As part of a Space Act Agreement with NASA, IBM set out earlier this year to build an AI foundation model for geospatial data. And now, by making a geospatial foundation model available via ...",

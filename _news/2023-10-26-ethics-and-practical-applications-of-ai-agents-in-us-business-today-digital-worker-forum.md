@@ -35,20 +35,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "How governments are approaching the regulation and use of AI"
-    excerpt: "“AI is not just about the technology; it’s going to impact aspects of our daily lives that we can’t even imagine right now,” Dillon said. “We need to really concentrate on and address the ethics and the regulations and the workforce concerns and ..."
-    publishedDateTime: 2023-10-23T14:13:00Z
-    webUrl: "https://www.cityandstateny.com/policy/2023/10/how-governments-are-approaching-regulation-and-use-ai/391389/"
-    type: article
-    provider:
-      name: City & State New York
-      domain: cityandstateny.com
-    quality: 39
-    images:
-      - url: "https://cdn.cityandstateny.com/media/img/cd/2023/10/20/GettyImages_967906100/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Real Insights on Artificial Intelligence"
     excerpt: "AI could disrupt all aspects of daily life – transforming how we work, live and play. What’s its true potential, and how do we manage the risks?"
     publishedDateTime: 2023-10-25T16:10:00Z

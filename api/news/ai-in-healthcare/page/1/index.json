@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-26-artificial-intelligence-what-will-it-do-to-us-in-2024.md",
+      "title": "Artificial Intelligence – what will it do to us in 2024?",
+      "excerpt": "CEBU, Philippines — Artificial Intelligence (AI) will take an oversized role in enterprise tech strategies in 2024. It therefore makes sense to look at coming AI developments:",
+      "sourceUrl": null,
+      "webUrl": "https://www.philstar.com/the-freeman/cebu-business/2023/10/27/2306914/artificial-intelligence-what-will-it-do-us-2024",
+      "originalUrl": "https://www.philstar.com/the-freeman/cebu-business/2023/10/27/2306914/artificial-intelligence-what-will-it-do-us-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.philstar.com/photos/2023/10/24/tcl_2023-10-24_14-44-06854_thumbnail.jpg",
+          "width": 686,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.philstar.com/the-freeman/cebu-business/2023/10/27/2306914/artificial-intelligence-what-will-it-do-us-2024/amp/",
+      "cdnAmpWebUrl": "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/the-freeman/cebu-business/2023/10/27/2306914/artificial-intelligence-what-will-it-do-us-2024/amp/",
+      "publishedDateTime": "2023-10-26T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "philstar.com",
+        "domain": "philstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-south-korea-artificial-intelligence-ai-in-healthcare-market-worth-236-billion-by-2032-themarketpublicist.md",
       "title": "South Korea Artificial Intelligence (AI) In Healthcare Market Worth $2.36 Billion By 2032 Themarketpublicist",
       "excerpt": "( MENAFN - Ameliorate Digital Consultancy) South Korea Artificial Intelligence (AI) in Healthcare Market size was crossed over USD 100 Million in 2022 and is projected to record more than 37.2% growth rate from 2023 – 2032, reaching a valuation of approximately USD 2.36 Billion by the end of the forecast period.",
@@ -1334,51 +1377,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-new-jersey-establishes-artificial-intelligence-task-force.md",
-      "title": "New Jersey Establishes Artificial Intelligence Task Force",
-      "excerpt": "Gov. Phil Murphy signed an executive order Tuesday charging the task force with studying artificial intelligence and recommending government actions to support ethical use of the rapidly evolving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force",
-      "originalUrl": "https://www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/fc67728/2147483647/strip/true/crop/380x258+0+0/resize/380x258!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F6b%2Fbb%2F563a07814eeb91f2117dfaa725ec%2F1-main-logo-for-digital-use-only.png%20%281%292.png",
-          "width": 380,
-          "height": 258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force?_amp=true",
-      "publishedDateTime": "2023-10-10T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

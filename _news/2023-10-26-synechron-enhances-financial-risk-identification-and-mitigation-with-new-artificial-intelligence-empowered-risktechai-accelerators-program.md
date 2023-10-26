@@ -53,6 +53,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Bloomfire Redefines Enterprise Knowledge Management with Advanced AI Features"
+    excerpt: "Enterprise Search enables organizations to easily scale access to company knowledge through a single AI-powered search engine that integrates with SharePoint and Microsoft Teams document libraries. Streamline content and document management with automated processes for curating, migrating, and updating content in bulk."
+    publishedDateTime: 2023-10-26T16:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bloomfire-redefines-enterprise-knowledge-management-with-advanced-ai-features-1032744759"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
 
 secured: "F3qtRvb183bYKWTGhAIQWXmvy5hWJNeKzZWzdbK2YiW4a1HnNSARaBdl3inzEIqStp8A02w769NyI0LXE3lnxF6SNE3oNP0o6ec0g71cjq4XoCCic7j2nY76CEwwUvDXdiXitd5VjVKaJcnqfyupdTjbKIJCj0QGVIZnODk1nrv9F/iI7uLAHn55tlIjQpwycvcUpIg5m20FdyYaNBndSd4JOGoAKsPWUWXkXcsIscWByutaCn0p3K7YM0RasX226hl9czytoacXrF8pGv/mF3wgdMgUSuHTniZkdx+x5T9cp7SUfINCc350DQa47/3RDCbcgle3pN4BwtIdlDbiz8oMX4FwB9v7yzc8PGxDwqpMVLfRKmB3fvnqRZiCs+Q3RlBV0JpRFmZwJv2lL0XBuJlbHcSbA73Aibf+n0Fk7uJHGfwiq/1nuKkcb1TbxkQ1tM7UMiYxsWvZBhfSDExc1Ijv7FvgY+r/imJr52FDTzbr7LWg7VTqdFfqME7jTS8l3XVSF9zWK6gG1ASWQXtB2A==;g3oPnshX6e2yWi7pqvKbMQ=="
 ---

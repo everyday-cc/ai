@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Bloomfire Redefines Enterprise Knowledge Management with Advanced AI Features"
+    excerpt: "Enterprise Search enables organizations to easily scale access to company knowledge through a single AI-powered search engine that integrates with SharePoint and Microsoft Teams document libraries. Streamline content and document management with automated processes for curating, migrating, and updating content in bulk."
+    publishedDateTime: 2023-10-26T16:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bloomfire-redefines-enterprise-knowledge-management-with-advanced-ai-features-1032744759"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
   - title: "Synechron Enhances Financial Risk Identification and Mitigation With New Artificial Intelligence-empowered RiskTech.AI Accelerators Program"
     excerpt: "Through research and development initiatives in our FinLabs we develop solutions for modernization, from Artificial Intelligence and Blockchain to Data Science models, Digital Underwriting, mobile-first applications and more. Over the last 20+ years ..."
     publishedDateTime: 2023-10-26T09:11:00Z

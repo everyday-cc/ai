@@ -50,6 +50,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Inviting China to UK AI summit a mistake, Truss tells Sunak – as it happened"
+    excerpt: "The PM announced an AI safety institute during a speech in London but said the UK would not be heavy-handed with regulation"
+    publishedDateTime: 2023-10-26T15:15:00Z
+    webUrl: "https://www.theguardian.com/politics/live/2023/oct/26/rishi-sunak-ai-summit-conservatives-labour-keir-starmer-latest-news?filterKeyEvents=false&page=with:block-653a89928f0808b5315bc17d"
+    ampWebUrl: "https://amp.theguardian.com/politics/live/2023/oct/26/rishi-sunak-ai-summit-conservatives-labour-keir-starmer-latest-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/live/2023/oct/26/rishi-sunak-ai-summit-conservatives-labour-keir-starmer-latest-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
+    images:
+      - url: "https://i.guim.co.uk/img/media/5f0d0564afe019a189e278a4a3d2ba3ba5fa77d9/0_53_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=e2ff342aa540014160df1d49942c5c49"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Rishi Sunak says AI has threats and risks - but outlines its potential"
     excerpt: "Mr Sunak said among the risks outlined in the report was that AI could be used by terrorist groups \"to spread fear and disruption on an even greater scale\". Mitigating the risk of human extinction from AI should be a \"global priority\", he said."
     publishedDateTime: 2023-10-26T11:32:00Z

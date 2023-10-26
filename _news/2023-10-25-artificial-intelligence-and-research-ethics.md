@@ -79,6 +79,20 @@ related:
       name: sciencex
       domain: sciencex.com
     quality: 44
+  - title: "Artificial Intelligence and the Role of Appellate Counsel"
+    excerpt: "This perspective is based on a query the author gave to his Appellate Advocacy class concerning artificial intelligence and the role of appellate counsel, especially for indigent defendants."
+    publishedDateTime: 2023-10-26T14:07:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2023/10/26/artificial-intelligence-and-the-role-of-appellate-counsel/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/389/2023/10/DanteApuzzo.photo-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "State CPA societies offer AI ethics course"
     excerpt: "The Virginia Society of CPAs is partnering with 10 other state CPA groups to offer a course on artificial intelligence and where it fits in with accounting ethics."
     publishedDateTime: 2023-10-23T15:11:00Z

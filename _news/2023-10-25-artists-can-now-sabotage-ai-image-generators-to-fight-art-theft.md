@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta Executive on AI Products"
+    excerpt: "At WSJ's Tech Live conference, Meta Platforms Chief Product Officer Chris Cox explains how deepfakes influenced the development of Meta's AI assistant products. Photo: Nikki Ritcher for The Wall Stree"
+    publishedDateTime: 2023-10-26T16:55:00Z
+    webUrl: "https://www.wsj.com/video/meta-executive-on-ai-products/91C4A798-C22E-4FDA-B089-82A79BF987B7"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "http://images.wsj.net/im-870644?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "uymCpdcOrjxzIC2ikLFN5WZ1LzNAXpcDRmrdXPpO3ySqy4iTebivg6I3UJT6qPdpDg1dyBSArWsKhFDGsYOfQaHwnGbCh39dC/nurxhtB8VGQcPraZola4VoSqnxwSgxPWXFP9S2gQatAT3DDtgBQ1LhKDkXWvTxV9uPQM0ePjcH+7W5bnMo6OvH8wUsnL+i4CbimPE2sYjaU9jlrXWQwrB905TCPZfF0iNazT9imP/2eTcUiLIFWSQXz6d9FMm2s7fiyT4Bq9N3v978TyRRRF8gu2SwOuX4Y7Yfvk7eCy2gsoZdfFb7JAiwKUDw6v0W7GnB/AlREfa12jseeMlYyK7dxUU4ItwB6AJ0nst3X2W3JuVGWGlKZJbAcbfiT1mCqCBtWOPcu9+Dc4P2Qhogr/jEuFKTmu/1C/ghhGnKggnHBMinXt3TYbM5r6K3aglFf8gRtn6IK7oQ1cU+y9OTSGJJuJ8nDPvK49L9wz5jdWpraIgdVHsTH1OV7W0KqIK9DcY416x67C/sLfLW7voO1A==;OschP18c6VdQowG2k4GMsQ=="
 ---

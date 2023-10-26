@@ -2,6 +2,399 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-09-22-ai-driven-autonomous-needle-robot-aims-to-revolutionize-lung-cancer-treatment.md",
+      "title": "AI-Driven Autonomous Needle Robot Aims to Revolutionize Lung Cancer Treatment",
+      "excerpt": "A recent study published in Science Robotics examines how a tiny robot can maneuver through lung tissue with the goal of attacking cancerous tumors that su | Technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.labroots.com/trending/technology/25942/ai-driven-autonomous-needle-robot-aims-revolutionize-lung-cancer-treatment-2",
+      "originalUrl": "https://www.labroots.com/trending/technology/25942/ai-driven-autonomous-needle-robot-aims-revolutionize-lung-cancer-treatment-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.labroots.com/_public/_files/system/ck/trending/Low-Res_Stages_In_The_Lungs_aabf97fd32ed2a6228f11a9be28e6c28.png",
+          "width": 700,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.labroots.com/trending/technology/25942/ai-driven-autonomous-needle-robot-aims-revolutionize-lung-cancer-treatment-2/amp",
+      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/25942/ai-driven-autonomous-needle-robot-aims-revolutionize-lung-cancer-treatment-2/amp",
+      "publishedDateTime": "2023-09-21T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Labroots",
+        "domain": "labroots.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-ai-stocks-list-3-artificial-intelligence-plays-worth-watching.md",
+      "title": "AI Stocks List: 3 Artificial Intelligence Plays Worth Watching",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Since the release of ChatGPT in November 2022, organizations have been",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-21T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-waabis-robot-trucks-move-from-the-virtual-world-to-uber-freights-network.md",
+      "title": "Waabi’s Robot Trucks Move From The Virtual World To Uber Freight’s Network",
+      "excerpt": "And while robot trucking was seen as an easier market to crack ... along with Softbank’s recent $1 billion investment in autonomous trucking startup Stack AI, much-needed good news for the segment. (Stack was created by the founders of Argo AI, a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2023/09/21/waabis-robot-trucks-move-from-the-virtual-world-to-uber-freights-network/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2023/09/21/waabis-robot-trucks-move-from-the-virtual-world-to-uber-freights-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650a4b3a9d9c7bf807bba901/0x0.jpg?format=jpg&crop=2500,1406,x0,y214,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-21T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-lenovos-vision-for-the-future-of-edge-computing.md",
+      "title": "Lenovo’s Vision For The Future Of Edge Computing",
+      "excerpt": "Lenovo is advancing edge computing with its TruScale IaaS specialized servers. Focusing on real-time analytics, data privacy, and bandwidth efficiency to democratize AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevendickens/2023/09/21/lenovos-vision-for-the-future-of-edge-computing/",
+      "originalUrl": "https://www.forbes.com/sites/stevendickens/2023/09/21/lenovos-vision-for-the-future-of-edge-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650cab4aca9f84eb9bb094e8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevendickens/2023/09/21/lenovos-vision-for-the-future-of-edge-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevendickens/2023/09/21/lenovos-vision-for-the-future-of-edge-computing/amp/",
+      "publishedDateTime": "2023-09-21T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-why-open-source-is-the-cradle-of-artificial-intelligence.md",
+      "title": "Why open source is the cradle of artificial intelligence",
+      "excerpt": "In the wildly competitive business of AI, is open source doomed to be always a bridesmaid, never a bride? Think again.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3dd166699052b2cfc4b30930ced69da1bb2d36dc/2023/05/25/1ff6a155-2b9e-49c7-9dfb-8c4ea6c8ba04/keep-ai-open-source-smaller-may-2023.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
+      "publishedDateTime": "2023-09-21T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-ai-showdown-part-2-chatgpt-claude-bing-and-bard-tackle-blogging.md",
+      "title": "AI Showdown, Part 2: ChatGPT, Claude, Bing, And Bard Tackle Blogging",
+      "excerpt": "Which AI chatbot will win the blogging segment of the AI Showdown? From the creative brief to chatbot questions and from model confusion to the drafts, it's a blast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/renaegregoire/2023/09/21/ai-showdown-part-2-chatgpt-claude-bing-and-bard-tackle-blogging/",
+      "originalUrl": "https://www.forbes.com/sites/renaegregoire/2023/09/21/ai-showdown-part-2-chatgpt-claude-bing-and-bard-tackle-blogging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650c869f4d49617eeabd08d7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/renaegregoire/2023/09/21/ai-showdown-part-2-chatgpt-claude-bing-and-bard-tackle-blogging/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renaegregoire/2023/09/21/ai-showdown-part-2-chatgpt-claude-bing-and-bard-tackle-blogging/amp/",
+      "publishedDateTime": "2023-09-21T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-cisco-to-buy-splunk-in-28b-bid-to-secure-enterprises-in-ai-era.md",
+      "title": "Cisco to buy Splunk in $28B bid to secure enterprises in AI era",
+      "excerpt": "Also: The ethics of generative AI: How we can harness this powerful technology To help companies do this, he pitched the need for Cisco Security Cloud, which offers visibility into various forms of security data, including network data, identifies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cisco-to-buy-splunk-in-28b-bid-to-secure-enterprises-in-ai-era/",
+      "originalUrl": "https://www.zdnet.com/article/cisco-to-buy-splunk-in-28b-bid-to-secure-enterprises-in-ai-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/af69a2fe3e020d89f854584e008659cc11bb768b/2023/09/21/3767bdf3-4701-472e-b096-a7390597c741/gettyimages-1601469810.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cisco-to-buy-splunk-in-28b-bid-to-secure-enterprises-in-ai-era/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-to-buy-splunk-in-28b-bid-to-secure-enterprises-in-ai-era/",
+      "publishedDateTime": "2023-09-21T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-deepmind-ai-hunts-down-the-dna-mutations-behind-genetic-disease.md",
+      "title": "DeepMind AI Hunts Down the DNA Mutations Behind Genetic Disease",
+      "excerpt": "A new DeepMind algorithm scanned 89 percent of the 71 million possible single-letter genetic typos and categorized them as either benign or pathogenic.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/09/21/deepmind-ai-hunts-down-the-dna-mutations-behind-genetic-disease/",
+      "originalUrl": "https://singularityhub.com/2023/09/21/deepmind-ai-hunts-down-the-dna-mutations-behind-genetic-disease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2023/09/deepmind-dna-double-helix-visualization.jpeg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2023/09/21/deepmind-ai-hunts-down-the-dna-mutations-behind-genetic-disease/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/09/21/deepmind-ai-hunts-down-the-dna-mutations-behind-genetic-disease/?amp=1",
+      "publishedDateTime": "2023-09-21T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-how-to-safely-integrate-large-language-models-into-health-care.md",
       "title": "How to Safely Integrate Large Language Models into Health Care",
       "excerpt": "that encompass natural language processing. Large language models are a specific subset of machine learning designed to understand and generate human language by enabling computers to convert language and unstructured text into machine-readable ...",
@@ -806,358 +1199,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-top-indian-actor-wins-landmark-case-against-ai.md",
-      "title": "Top Indian actor wins landmark case against AI",
-      "excerpt": "Anil Kapoor, one of India's leading actors and most recognizable faces, has just won a landmark ruling against artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/anil-kapoor-artificial-intelligence-landmark-caase",
-      "originalUrl": "https://mashable.com/article/anil-kapoor-artificial-intelligence-landmark-caase",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/02oJ3Q5kNMdqJONzAJUpzK1/hero-image.fill.size_1200x675.v1695287936.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T02:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-fintech-saas-startup-perfios-acquires-open-finance-platform-fegoai.md",
-      "title": "Fintech SaaS Startup Perfios Acquires Open Finance Platform Fego.ai",
-      "excerpt": "Fintech SaaS startup Perfios has acquired Chennai-based open finance platform Fego.ai. Fego.ai is Perfios’ third acquisition, having picked up Karza Technologies in 2022 and FinTechLabs in 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/",
-      "originalUrl": "https://inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.inc42.com/wp-content/uploads/2023/09/Acquisition.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/amp/",
-      "publishedDateTime": "2023-09-21T00:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-ds-smith-plc-ds-smith-selects-aws-as-its-preferred-cloud-provider-to-accelerate-digital-transformation-and-support-sustainable-solutions.md",
-      "title": "DS Smith plc: DS Smith selects AWS as its preferred cloud provider to accelerate digital transformation and support sustainable solutions",
-      "excerpt": "Leading sustainable packaging provider, DS Smith plc, today announced it has selected Amazon Web Services (AWS) as its preferred cloud provider to accelerate innovation, drive efficiencies, and suppor",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-09/60167956-ds-smith-plc-ds-smith-selects-aws-as-its-preferred-cloud-provider-to-accelerate-digital-transformation-and-support-sustainable-solutions-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-09/60167956-ds-smith-plc-ds-smith-selects-aws-as-its-preferred-cloud-provider-to-accelerate-digital-transformation-and-support-sustainable-solutions-004.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace.md",
-      "title": "6 Ways Leaders Are Using AI To Drive Innovation In The Workplace",
-      "excerpt": "What can leaders do to implement AI in a way that enables people to do their best work, instead of substituting talent or compromising ethics? Read on for six strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/",
-      "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650bd0ae09a39873da8b5730/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/amp/",
-      "publishedDateTime": "2023-09-20T22:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-a-randomized-trial-of-robot-assisted-laparoscopic-radical-cystectomy.md",
-      "title": "A Randomized Trial of Robot-Assisted Laparoscopic Radical Cystectomy",
-      "excerpt": "We report the results of a randomized, controlled trial (ClinicalTrials.gov number, NCT01076387) designed to assess whether robot-assisted laparoscopic radical cystectomy would be associated with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc1405213",
-      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc1405213",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New England Journal of Medicine",
-        "domain": "nejm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-nvidia-gives-updates-on-new-gpu-technologies-at-gtc-conference.md",
-      "title": "NVIDIA gives updates on new GPU technologies at GTC conference",
-      "excerpt": "and edge AI systems. It combines the transformer engine of Hopper, the GPU of Ada, and the CPU of Grace. Another update is the Nemo LLM Service, which is a cloud service to adapt pretrained LLMs ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/nvidia-gives-updates-on-new-gpu-technologies-at-gtc-conference/",
-      "originalUrl": "https://sdtimes.com/ai/nvidia-gives-updates-on-new-gpu-technologies-at-gtc-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2022/09/gtc22-fall-web-keynote-blog-image-jhh-rtx4090-1280x680-r2-1.jpg",
-          "width": 1280,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-why-driverless-cars-may-still-need-a-human-hand-generative-ai-may-help.md",
-      "title": "Why driverless cars may still need a human hand; Generative AI may help",
-      "excerpt": "As this example demonstrates, keeping humans in the loop will help address questions about trust and accountability, even though it may not please tech companies or the shareholders of these companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/mint-top-newsletter/techtalk22092023.html",
-      "originalUrl": "https://www.livemint.com/mint-top-newsletter/techtalk22092023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/07/20/original/TechTalk_logo_1658338696231.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-phrasee-appoints-new-ceo-to-head-into-the-future-of-ai-based-marketing.md",
-      "title": "Phrasee appoints new CEO to head into the future of AI-based marketing",
-      "excerpt": "Phrasee, a digital marketing firm in London, said it has appointed Dan Head as CEO to help guide content marketers through the AI revolution.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/phrasee-appoints-new-ceo-to-head-into-the-future-of-ai-based-marketing/",
-      "originalUrl": "https://venturebeat.com/ai/phrasee-appoints-new-ceo-to-head-into-the-future-of-ai-based-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/Dashboard_BlogMasthead-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

@@ -2,6 +2,317 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-26-the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit.md",
+      "title": "The UK Lists Top Nightmare AI Scenarios Ahead of Its Big Tech Summit",
+      "excerpt": "Ahead of a global summit on how to keep artificial intelligence from doing harm, a UK government report warns that the tech could be used to help create bioweapons, or escape human control altogether.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/",
+      "originalUrl": "https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6539900d34195a696cda346b/191:100/w_1280,c_limit/AI-biz-GettyImages-582780248.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Google AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market.md",
+      "title": "How AI And Blockchain Are Fighting Counterfeiting In The Luxury Market",
+      "excerpt": "AI is only ever as good as the information fed to its algorithm ... they are linked to the physical item in question by an attached near field communication chip (NFC) in the case of Margiela accessories like the brand’s Tabi shoes or quick response ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/",
+      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65397ff6f9ac734e121b7ea1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1265,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/amp/",
+      "publishedDateTime": "2023-10-25T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-ai-is-in-the-workplace-more-than-employees-know.md",
+      "title": "AI Is In The Workplace More Than Employees Know",
+      "excerpt": "You don’t have to work directly on the technology to have your career be affected by AI. Be proactive — learn about AI and understand how your employer is using it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/",
+      "originalUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/653985367f7af9aad3aa260d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 896,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/amp/",
+      "publishedDateTime": "2023-10-25T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-singapore-based-fintech-youtrip-picks-up-50m-led-by-lightspeed.md",
+      "title": "Singapore-based fintech YouTrip picks up $50M led by Lightspeed",
+      "excerpt": "YouTrip, a Singapore-based fintech that offers multi-currency wallet for consumers ... In terms of product development, YouTrip plans to increase its used of AI and other emerging technologies for personalized features like smart budgeting and customized ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/25/youtrip-lightspeed/",
+      "originalUrl": "https://techcrunch.com/2023/10/25/youtrip-lightspeed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/YouTrip-SG.png?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/25/youtrip-lightspeed/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/youtrip-lightspeed/amp/",
+      "publishedDateTime": "2023-10-25T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade.md",
+      "title": "University of Chicago researchers seek to “poison” AI art generators with Nightshade",
+      "excerpt": "On Friday, a team of researchers at the University of Chicago released a research paper outlining \"Nightshade,\" a data poisoning technique aimed at disrupting the training process for AI models, reports MIT Technology Review and VentureBeat.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/robot_poison_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/amp/",
+      "publishedDateTime": "2023-10-25T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-ponyai-gets-100m-establishes-jv-with-saudi-arabias-neom.md",
+      "title": "Pony.ai gets $100M, establishes JV with Saudi Arabia’s Neom",
+      "excerpt": "Chinese autonomous vehicle startup Pony.ai has scored $100 million from Neom, Saudi Arabia’s futuristic city and development project. As part of the deal, the two plan to establish a joint venture to develop, manufacture and deploy autonomous vehicles ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/",
+      "originalUrl": "https://techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/pony-prl-backgroung-v2.jpeg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/amp/",
+      "publishedDateTime": "2023-10-25T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit.md",
       "title": "AI dangers must be faced ‘head on’, Rishi Sunak to tell tech summit",
       "excerpt": "Government document says impossible to rule out technology poses existential threat",
@@ -10,7 +321,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -267,7 +578,7 @@
       "originalUrl": "https://www.therobotreport.com/kate-darling-on-the-future-of-robotics-and-ai-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -716,7 +1027,7 @@
       "originalUrl": "https://www.forbes.com/sites/petercohan/2023/10/25/microsoft-leads-alphabet-in-the-race-to-monetize-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 694,
+      "heat": 714,
       "tags": null,
       "images": [
         {
@@ -872,7 +1183,7 @@
       "originalUrl": "https://wraltechwire.com/2023/10/25/artificial-intelligence-in-the-c-suite-a-senior-leaders-guide-for-maximizing-ais-potential/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -954,296 +1265,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-breast-cancer-breakthrough-ai-predicts-a-third-of-cases-prior-to-diagnosis-in-mammography-study.md",
-      "title": "Breast cancer breakthrough: AI predicts a third of cases prior to diagnosis in mammography study",
-      "excerpt": "Artificial intelligence predicted one-third of breast cancer cases prior to diagnosis in a new study from Norway. Experts weigh in on how this could impact the future of cancer care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/breast-cancer-breakthrough-ai-predicts-third-cases-diagnosis-mammography-study",
-      "originalUrl": "https://www.foxnews.com/health/breast-cancer-breakthrough-ai-predicts-third-cases-diagnosis-mammography-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b958b3a6-465c-4c29-8487-1765b643f1cb/abb17cca-3860-450a-9b48-16cbd58eb925/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/breast-cancer-breakthrough-ai-predicts-third-cases-diagnosis-mammography-study.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/breast-cancer-breakthrough-ai-predicts-third-cases-diagnosis-mammography-study.amp",
-      "publishedDateTime": "2023-10-25T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-how-ai-is-helping-disadvantaged-uk-young-people-get-into-top-universities.md",
-      "title": "How AI is helping disadvantaged UK young people get into top universities",
-      "excerpt": "Dataiku’s AI tooling is helping UK Higher Education access charity The Brilliant Club better identify students at risk of failing - reducing their chances of getting into university",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/how-ai-helping-disadvantaged-uk-young-people-get-top-universities",
-      "originalUrl": "https://diginomica.com/how-ai-helping-disadvantaged-uk-young-people-get-top-universities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2023-05/7A011687-ABD8-454C-938D-6D686AFD5F9B.jpeg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/how-ai-helping-disadvantaged-uk-young-people-get-top-universities?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-helping-disadvantaged-uk-young-people-get-top-universities?amp",
-      "publishedDateTime": "2023-10-25T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-pixel-8-pros-gen-ai-models-are-coming-to-more-android-phones-with-snapdragon.md",
-      "title": "Pixel 8 Pro's Gen-AI models are coming to more Android phones with Snapdragon",
-      "excerpt": "Google’s VP of engineering for Android, Dave Burke, also joined the conversation on stage during the Snapdragon 8 Gen 3 launch to confirm that the company’s partnership with Qualcomm will enable complex AI models to run on-device on Android phones, removing the need for internet connectivity and round trips to cloud servers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-pixel-8-pro-foundation-ai-models-qualcomm-snapdragon-3379161/",
-      "originalUrl": "https://www.androidauthority.com/google-pixel-8-pro-foundation-ai-models-qualcomm-snapdragon-3379161/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/10/Google-Qualcomm-on-device-AI.jpg",
-          "width": 1920,
-          "height": 1079,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-ai-created-child-sexual-abuse-images-threaten-to-overwhelm-internet.md",
-      "title": "AI-created child sexual abuse images ‘threaten to overwhelm internet’",
-      "excerpt": "Internet Watch Foundation finds 3,000 AI-made abuse images breaking UK law",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet?ref=upstract.com",
-      "originalUrl": "https://www.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3c328a09668acd9bdcb834c0f299dbddb5d2bc75/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=7c5c370b440ef54ca12319d2baeaa923",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet",
-      "publishedDateTime": "2023-10-24T20:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-lenovo-wants-to-create-your-own-personal-ai-twin.md",
-      "title": "Lenovo wants to create your own personal ‘AI twin’",
-      "excerpt": "In many ways, Lenovo’s personal AI twin works identically to any AI assistant. With the data it gathers from from a user’s personal device, it will anticipate your needs and offer solutions, proactively and independently, Lenovo CEO Yang Yuanqing said at the Tech World keynote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/lenovos-personal-ai-twin-gives-users-control-of-their-data/",
-      "originalUrl": "https://www.digitaltrends.com/computing/lenovos-personal-ai-twin-gives-users-control-of-their-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/10/lenovo-AI-twin.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/lenovos-personal-ai-twin-gives-users-control-of-their-data/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/lenovos-personal-ai-twin-gives-users-control-of-their-data/?amp",
-      "publishedDateTime": "2023-10-24T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-the-same-tech-used-in-driverless-cars-is-helping-public-works.md",
-      "title": "The Same Tech Used in Driverless Cars Is Helping Public Works",
-      "excerpt": "Cities are turning to the same type of technology that allows robotaxis to navigate roadways to identify potholes and errant drivers. The technology is helping to remove humans from potentially dangerous tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works",
-      "originalUrl": "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/63a88b7/2147483647/strip/true/crop/8095x4221+0+1178/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F97%2Fba%2Fd8068ed24c1dbd77ae58f1fbb0db%2Fshutterstock-2274798647.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works?_amp=true",
-      "publishedDateTime": "2023-10-24T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

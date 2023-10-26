@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-04-why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat.md",
+      "title": "Why AI is teetering on the edge of a disillusionment cliff | The AI Beat",
+      "excerpt": "while reportedly “VCs dangle AI chips to woo founders,” who claim to know what humanity will go hog-wild for. That’s not enough. We need more than these vague pronouncements. For AI to succeed, humanity needs to get on board. And after decades of ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-03-at-2.45.29-PM.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-03-slovakias-election-deepfakes-show-ai-is-a-danger-to-democracy.md",
       "title": "Slovakia’s Election Deepfakes Show AI Is a Danger to Democracy",
       "excerpt": "Fact-checkers scrambled to deal with faked audio recordings released days before a tight election, in a warning for other countries with looming votes.",
@@ -1335,59 +1388,6 @@
         "AI",
         "Microsoft AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-troubling-trend-of-woke-ai-is-a-big-threat-to-free-speech.md",
-      "title": "Troubling trend of woke AI is a big threat to free speech",
-      "excerpt": "The troubling trend of woke AI is a big threat to free speech. Big Tech’s AI is biased both by employees and the datasets it uses. Result endangers future of American ingenuity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech",
-      "originalUrl": "https://www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07e0adc6-497f-4055-9c14-d3c3b47544ba/1261eb20-6365-4070-9874-dcf187ad6798/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech.amp",
-      "publishedDateTime": "2023-09-13T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Ethics"
       ]
     }
   ],

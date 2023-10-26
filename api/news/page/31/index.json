@@ -2,6 +2,374 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2023-10-04-the-new-ai-photo-tricks-on-the-pixel-8-are-blowing-my-mind.md",
+      "title": "The New AI Photo Tricks on the Pixel 8 Are Blowing My Mind",
+      "excerpt": "Magic Editor and Audio Magic Eraser give you exciting (and kind of scary) new powers over your photos and videos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-pixel-8-magic-editor-audio-magic-eraser-best-take/",
+      "originalUrl": "https://www.wired.com/story/google-pixel-8-magic-editor-audio-magic-eraser-best-take/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/651d744423339ccd9867d712/191:100/w_1280,c_limit/Pixel-8-Pro_Bay-SOURCE-Google-Gear.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-money-machines-and-meeting-goals-healthier-cash-flow-with-ai.md",
+      "title": "Money, Machines And Meeting Goals: Healthier Cash Flow With AI",
+      "excerpt": "Plus, predictive analytics provided by AI and ML further fortify the company’s financial position through accurate forecasting. Samuel’s approach—combining traditional financial acumen with modern fintech solutions—illustrates how I believe you can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/04/money-machines-and-meeting-goals-healthier-cash-flow-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/04/money-machines-and-meeting-goals-healthier-cash-flow-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651c364909d97bda96db65c6/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/04/money-machines-and-meeting-goals-healthier-cash-flow-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/04/money-machines-and-meeting-goals-healthier-cash-flow-with-ai/amp/",
+      "publishedDateTime": "2023-10-04T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability.md",
+      "title": "Fashion’s New Frontier: Exploring The Role Of AI In Apparel And Sustainability",
+      "excerpt": "The impact is a self-healing supply chain that learns from its mistakes faster, takes action and then feeds its new decisions and processes back to the AI brain. Wash, rinse, repeat. These feedback loops—an essential building block for AI systems—are where humans just can’t compete.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644923fd6eac23cc20a3babc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/04/fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability/amp/",
+      "publishedDateTime": "2023-10-04T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-seven-key-insights-on-graphql-trends.md",
+      "title": "Seven key insights on GraphQL trends",
+      "excerpt": "Seven key insights on GraphQL trends for the coming years based on learnings from GraphQLConf 2023.\nThe post Seven key insights on GraphQL trends appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/seven-key-insights-on-graphql-trends/",
+      "originalUrl": "https://www.ibm.com/blog/seven-key-insights-on-graphql-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T05:48:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-achieve-your-ai-goals-with-an-open-data-lakehouse-approach.md",
+      "title": "Achieve your AI goals with an open data lakehouse approach",
+      "excerpt": "Artificial intelligence (AI) is now at the forefront of how enterprises work with data to help reinvent operations to be more efficient\nThe post Achieve your AI goals with an open data lakehouse approach appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/achieve-your-ai-goals-with-an-open-data-lakehouse-approach/",
+      "originalUrl": "https://www.ibm.com/blog/achieve-your-ai-goals-with-an-open-data-lakehouse-approach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-common-grounds-unleashing-innovation-and-growth-through-partnership.md",
+      "title": "Common Grounds: Unleashing innovation and growth through partnership",
+      "excerpt": "At IBM, we believe we can make greater progress together. Our purpose is to be the catalyst that makes the world work better&#8212;and our partners are key to this mission. Together with our partners and clients, we work to solve the most complex challenges with AI and hybrid cloud. Last year, we launched",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/common-grounds-unleashing-innovation-and-growth-through-partnership/",
+      "originalUrl": "https://www.ibm.com/blog/common-grounds-unleashing-innovation-and-growth-through-partnership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-google-deepmind-open-sources-largest-ever-robotics-dataset.md",
+      "title": "Google DeepMind Open-Sources Largest-Ever Robotics Dataset",
+      "excerpt": "Google DeepMind has launched a new set of resources for general-purpose robotics learning after teaming up with 33 academic labs",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/google-deepmind-open-sources-largest-ever-robotics-dataset/",
+      "originalUrl": "https://analyticsindiamag.com/google-deepmind-open-sources-largest-ever-robotics-dataset/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/Screenshot-2023-10-04-at-5.15.44-PM-1300x737.png",
+          "width": 1300,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-theres-a-new-squishy-robot-in-town-and-was-created-by-ai.md",
+      "title": "There's a new squishy robot in town, and was created by AI",
+      "excerpt": "A team of scientists has developed the first artificial intelligence to date that can intelligently design robots from scratch.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/squishy-robot-created-by-ai",
+      "originalUrl": "https://interestingengineering.com/innovation/squishy-robot-created-by-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/10/04/image/jpeg/lpjqpQ4hbD10M0P5HFUPjV3GSoeRlligUwK3eE85.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-the-ai-transformation-is-the-tip-of-the-tech-spear.md",
       "title": "The AI Transformation Is The Tip Of The Tech Spear",
       "excerpt": "The global artificial intelligence transformation is well underway, and investors have increasingly come around to the disruptive potential this technology carries both for personal and commercial uses. However, it won’t just be the end applications of ...",
@@ -789,393 +1157,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-tech-analyst-dan-ives-microsoft-azure-is-seeing-a-clear-uptick-in-artificial-intelligence-ai-spending-heres-what-it-means-for-the-stock.md",
-      "title": "Tech Analyst Dan Ives: Microsoft Azure Is Seeing a \"Clear Uptick\" in Artificial Intelligence (AI) Spending. Here's What It Means for the Stock.",
-      "excerpt": "Ives said that based on recent checks, Microsoft's monetization of AI is \"happening quicker than expected.\" He goes on to note that \"our latest Azure checks also show a clear uptick in activity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/03/dan-ives-microsoft-azure-artificial-intelligence/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/03/dan-ives-microsoft-azure-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/749617/the-virtual-button-with-the-letters-ai-in-a-circle-hovering-above-a-keyboard-about-to-be-clicked-by-a-cursor.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-san-francisco-self-driving-car-involved-in-serious-accident.md",
-      "title": "San Francisco self-driving car involved in serious accident",
-      "excerpt": "A self-driving car operated by US company Cruise ran over a woman after she was first knocked in front of it by a hit-and-run driver in San Francisco late Monday, video showed.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.html",
-      "originalUrl": "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/chevrolet-cruise-auton.jpg",
-          "width": 1280,
-          "height": 820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.amp",
-      "publishedDateTime": "2023-10-03T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-closing-the-gap-addressing-ethical-issues-in-integrating-ai-systems.md",
-      "title": "Closing the Gap: Addressing Ethical Issues in Integrating AI Systems.",
-      "excerpt": "The purpose of this article is to examine the consequences of the integration of AI and ethics. By referring to Isaac Asimov's Three Laws of Robotics, the importance of ethical concerns in AI and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920",
-      "originalUrl": "https://www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2286759/earth-space.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920?amp=1",
-      "publishedDateTime": "2023-10-03T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-mphasis-forms-strategic-technology-partnership-with-corestack.md",
-      "title": "Mphasis Forms Strategic Technology Partnership with CoreStack",
-      "excerpt": "Mphasis, (BSE: 526299; NSE: MPHASIS), an Information Technology (IT) solutions provider specializing in cloud and cognitive services, today announces",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231003982144/en/Mphasis-Forms-Strategic-Technology-Partnership-with-CoreStack",
-      "originalUrl": "https://www.businesswire.com/news/home/20231003982144/en/Mphasis-Forms-Strategic-Technology-Partnership-with-CoreStack",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat.md",
-      "title": "Why AI is teetering on the edge of a disillusionment cliff | The AI Beat",
-      "excerpt": "while reportedly “VCs dangle AI chips to woo founders,” who claim to know what humanity will go hog-wild for. That’s not enough. We need more than these vague pronouncements. For AI to succeed, humanity needs to get on board. And after decades of ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-03-at-2.45.29-PM.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-ai-has-always-had-a-hardware-problemuntil-now.md",
-      "title": "AI Has Always Had A Hardware Problem...Until Now",
-      "excerpt": "With such an unprecedented show of how generative AI can conduct very human-like conversations and provide (mostly) accurate answers, every other tech company from Microsoft to Google to Salesforce suddenly jumped into the fray with their products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/10/03/ai-has-always-had-a-hardware-problemuntil-now/",
-      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/10/03/ai-has-always-had-a-hardware-problemuntil-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651bebb5e15343b946b1459d/0x0.jpg?format=jpg&width=1200",
-          "width": 994,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/10/03/ai-has-always-had-a-hardware-problemuntil-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/10/03/ai-has-always-had-a-hardware-problemuntil-now/amp/",
-      "publishedDateTime": "2023-10-03T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-asana-announces-new-ai-capabilities-to-increase-productivity-and-innovation.md",
-      "title": "Asana Announces New AI Capabilities To Increase Productivity And Innovation",
-      "excerpt": "I had the privilege of interviewing Dr. Rebecca Hinds, Head of The Work Innovation Lab at Asana to learn more about their research on productivity, innovation and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lucianapaulise/2023/10/03/asana-announces-new-ai-capabilities-to-increase-productivity-and-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/lucianapaulise/2023/10/03/asana-announces-new-ai-capabilities-to-increase-productivity-and-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651c451313a33fa8fa34ad6f/0x0.jpg?format=jpg&width=1200",
-          "width": 1044,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lucianapaulise/2023/10/03/asana-announces-new-ai-capabilities-to-increase-productivity-and-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lucianapaulise/2023/10/03/asana-announces-new-ai-capabilities-to-increase-productivity-and-innovation/amp/",
-      "publishedDateTime": "2023-10-03T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-researchers-show-how-easy-it-is-to-defeat-ai-watermarks.md",
-      "title": "Researchers show how easy it is to defeat AI watermarks",
-      "excerpt": "“Watermarking at first sounds like a noble and promising solution, but its real-world applications fail from the onset when they can be easily faked, removed, or ignored,” Ben Colman, the CEO of AI-detection startup Reality Defender, says. “Watermark ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/?ref=upstract.com",
-      "originalUrl": "https://arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai-watermark-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/?ref=upstract.com&amp",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/?ref=upstract.com&amp",
-      "publishedDateTime": "2023-10-03T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

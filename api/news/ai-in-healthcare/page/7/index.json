@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-26-make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system.md",
+      "title": "Make The Doctor’s Office Fair! AI Can Help Create A More Equitable Healthcare System",
+      "excerpt": "Bringing a level of scrutiny to AI processes in healthcare, Marzyeh Ghassemi has some solutions for harmful bias in systems that, as a society, we want to root out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c033dd228eb00488105e80/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/amp/",
+      "publishedDateTime": "2023-07-25T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-artificial-intelligence-is-rewriting-the-rules-of-us200-billion-video-games-industry.md",
       "title": "Artificial intelligence is rewriting the rules of US$200 billion video games industry",
       "excerpt": "From San Francisco to Tokyo and Hong Kong, the companies that power the digital entertainment sphere are responding to decades of escalating costs and stagnant prices by adopting and developing new AI tools.",

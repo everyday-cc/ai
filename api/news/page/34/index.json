@@ -2,6 +2,403 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-10-03-tom-hanks-disavows-ai-clone-amid-hollywoods-robot-reckoning.md",
+      "title": "Tom Hanks disavows AI clone amid Hollywood’s robot reckoning",
+      "excerpt": "studios and streaming companies are bulking up on AI staff. Aug. 2, 2023 But when actors’ consent is taken out of the picture, people start to get worried. That’s what happened with Tom Hanks’ illegitimate dental endorsement, but also what’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/entertainment-arts/business/story/2023-10-02/tom-hanks-pushes-back-on-ai-clone-amid-hollywoods-robot-reckoning",
+      "originalUrl": "https://www.latimes.com/entertainment-arts/business/story/2023-10-02/tom-hanks-pushes-back-on-ai-clone-amid-hollywoods-robot-reckoning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/83d78b1/2147483647/strip/true/crop/6000x3150+0+328/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F95%2Fb35aabcb4a418adf0c2acc15d4d3%2Fharvard-tom-hanks-98733.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember.md",
+      "title": "What AI forgets could kill us, but new research is helping it remember",
+      "excerpt": "A better understanding how the human brain makes memories could help us to reduce neural networks' habit of 'catastrophic' forgetting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
+      "originalUrl": "https://www.zdnet.com/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7f343b9e762783bd928da1f94d55f75a23ac3c10/2023/10/02/92fcf4f1-8fd7-4fff-b75a-c5c675994e60/girl-stringgettyimages-668677129.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
+      "publishedDateTime": "2023-10-02T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-beware-of-bing-chat-and-its-ai-conversations-that-can-lure-you-into-malware-traps.md",
+      "title": "Beware of Bing Chat and its AI conversations that can lure you into malware traps",
+      "excerpt": "Hackers are sneaking in malicious ads through Bing Chat. Kurt \"CyberGuy\" Knutsson explains how it works and shares tips on how to keep your data secure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/beware-bing-chat-ai-conversations-lure-malware-traps",
+      "originalUrl": "https://www.foxnews.com/tech/beware-bing-chat-ai-conversations-lure-malware-traps",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e36333e0-16e6-4b62-a7c8-93de40acbe14/f11b36d6-c1f8-4589-acfa-24c41de9814a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/beware-bing-chat-ai-conversations-lure-malware-traps.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/beware-bing-chat-ai-conversations-lure-malware-traps.amp",
+      "publishedDateTime": "2023-10-02T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-build-an-end-to-end-mlops-pipeline-for-visual-quality-inspection-at-the-edge-part-1.md",
+      "title": "Build an end-to-end MLOps pipeline for visual quality inspection at the edge – Part 1",
+      "excerpt": "A successful deployment of a machine learning (ML) model in a production environment heavily relies on an end-to-end ML pipeline. Although developing such a pipeline can be challenging, it becomes even more complex when dealing with an edge ML use case. Machine learning at the edge is a concept that",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-mlops-pipeline-for-visual-quality-inspection-at-the-edge-part-1/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-mlops-pipeline-for-visual-quality-inspection-at-the-edge-part-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/21/ML-6965-pipeline-scribble-820x630.jpg",
+          "width": 820,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T09:31:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-humata-ai-summarizes-and-answers-questions-about-your-pdfs.md",
+      "title": "Humata AI summarizes and answers questions about your PDFs",
+      "excerpt": "Humata AI, a startup developing a platform to summarize and answer questions about documents, has raised seed capital from GV and others.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/02/humata-ai-raises-to-summarize-docs/",
+      "originalUrl": "https://techcrunch.com/2023/10/02/humata-ai-raises-to-summarize-docs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1218924349.jpg?resize=1200,1021",
+          "width": 1200,
+          "height": 1021,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/02/humata-ai-raises-to-summarize-docs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/02/humata-ai-raises-to-summarize-docs/amp/",
+      "publishedDateTime": "2023-10-02T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight.md",
+      "title": "Microsoft’s ‘top choice’: supply of Nvidia AI GPUs improved but still tight",
+      "excerpt": "He mentioned that the situation regarding GPU supply has improved compared to a few months back, although it is still tight. Previously, the demand for Nvidia’s GPUs for AI and HPC applications exceeded the supply capacity of the entire ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.onmsft.com/news/microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight/",
+      "originalUrl": "https://www.onmsft.com/news/microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2022/01/ARM-Nvidia.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "On MSFT",
+        "domain": "onmsft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-on-how-the-tech-advances.md",
+      "title": "Generative AI will far surpass what ChatGPT can do. Here's everything on how the tech advances",
+      "excerpt": "What does the future of generative AI hold? Multi-modality will move a primitive ChatGPT demo to interpersonal collaboration, advanced robotics -- and maybe even the AI dream of continuous learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-you-need-to-know-how-the-tech-advances/",
+      "originalUrl": "https://www.zdnet.com/article/generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-you-need-to-know-how-the-tech-advances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1e357b9efc0f2faf4e0028af5b5311a9eda2e8e6/2023/08/01/33ef6d99-0191-4885-a987-0d94405d417a/chatbot-ai.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-you-need-to-know-how-the-tech-advances/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-you-need-to-know-how-the-tech-advances/",
+      "publishedDateTime": "2023-10-02T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-an-ai-experts-guide-to-customer-delight.md",
+      "title": "An AI Expert's Guide To Customer Delight",
+      "excerpt": "The emergence of large language models means that the bar is even higher for chatbot technology. Customers will come to expect open-ended prompts and humanlike responses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/an-ai-experts-guide-to-customer-delight/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/an-ai-experts-guide-to-customer-delight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648728901a0300c8f3f4b947/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/an-ai-experts-guide-to-customer-delight/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/02/an-ai-experts-guide-to-customer-delight/amp/",
+      "publishedDateTime": "2023-10-02T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-02-ai-innovation-or-speculation-a-guide-to-understanding-the-difference.md",
       "title": "AI Innovation Or Speculation: A Guide To Understanding The Difference",
       "excerpt": "Here are three criteria we can use to help evaluate the innovative potential of AI companies, products and services so we can best assess their potential impact.",
@@ -779,386 +1176,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-artificial-intelligence-risk-factors.md",
-      "title": "Artificial Intelligence Risk Factors",
-      "excerpt": "A discussion of public company risk factor disclosure relating to artificial intelligence (AI), machine learning, and generative AI, including ChatGPT, Google Bard, and similar technologies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/practical-law-the-journal/legalindustry/artificial-intelligence-risk-factors-2023-10-02/",
-      "originalUrl": "https://www.reuters.com/practical-law-the-journal/legalindustry/artificial-intelligence-risk-factors-2023-10-02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/KB7Be1g0wU5DvkxyUxj8DEGBok0=/1340x701/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GVAIZBXPTND3JDYGB2S4ZRCRLE.jpg",
-          "width": 1340,
-          "height": 701,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-01T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-deepmb-a-deep-learning-framework-for-high-quality-optoacoustic-imaging-in-real-time.md",
-      "title": "DeepMB: a deep learning framework for high-quality optoacoustic imaging in real-time",
-      "excerpt": "Researchers at Helmholtz Munich and the Technical University of Munich have made significant progress in advancing high-resolution optoacoustic imaging for clinical use. Their innovative deep-learning framework,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1003410",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1003410",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-10-blockbuster-ai-ma-deals-on-the-horizon.md",
-      "title": "10 Blockbuster AI M&A Deals On The Horizon",
-      "excerpt": "Hugging Face is often described as the “GitHub of AI.” It is an apt comparison. GitHub and Hugging Face are both open-source repositories where developers can share and explore one another’s work—code in the case of GitHub, AI models and datasets in the case of Hugging Face.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-deals-on-the-horizon/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-deals-on-the-horizon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65185bfe96699717e8614931/0x0.jpg?format=jpg&crop=1744,981,x0,y49,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-deals-on-the-horizon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-deals-on-the-horizon/amp/",
-      "publishedDateTime": "2023-10-01T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers.md",
-      "title": "New police intelligence tool speedily sending information on risk to frontline officers",
-      "excerpt": "using IBM Watson AI and so-called i2 visual tech spun off from IBM. It provides “dramatically more useful” intelligence, especially about firearm threats, the papers said. This is disclosed in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nzherald.co.nz/nz/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/WEHYMECHMJEAHDE2YKTA676JVE/",
-      "originalUrl": "https://www.nzherald.co.nz/nz/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/WEHYMECHMJEAHDE2YKTA676JVE/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nzherald.co.nz/resizer/lG4iwT4o0_nv5-b1l_S9aLPpo2Y=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/O34OTTPSBBANLDKXXNGHTA7LCY.JPG",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-01T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Zealand Herald",
-        "domain": "nzherald.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-3-robotics-stocks-set-to-explode-higher.md",
-      "title": "3 Robotics Stocks Set to Explode Higher",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The AI boom has been nothing short of remarkable, with companies like OpenAI",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-set-to-explode-higher-1032668473",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-set-to-explode-higher-1032668473",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-01T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-can-ai-tear-down-healthcares-data-silos.md",
-      "title": "Can AI Tear Down Healthcare’s Data Silos?",
-      "excerpt": "AI has a potentially large role to play in making sense of the data pieces. Some of the earliest widespread applications may be where the bar isn’t daunting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenwunker/2023/10/01/can-ai-tear-down-healthcares-data-silos/",
-      "originalUrl": "https://www.forbes.com/sites/stephenwunker/2023/10/01/can-ai-tear-down-healthcares-data-silos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6519b37e747725fd8ee62144/0x0.png?format=png&width=1200",
-          "width": 1200,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenwunker/2023/10/01/can-ai-tear-down-healthcares-data-silos/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/10/01/can-ai-tear-down-healthcares-data-silos/amp/",
-      "publishedDateTime": "2023-10-01T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-01-ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social-email.md",
-      "title": "AI Showdown, Part 3: ChatGPT, Claude, Bing, And Bard On Social & Email",
-      "excerpt": "In this finale, four generative AI chatbots tackle content distribution by writing social content and emails to promote blog posts. Find out who won the AI Showdown!",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/",
-      "originalUrl": "https://www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651829d4d7d9789d5dd0259f/0x0.jpg?format=jpg&crop=3544,1995,x0,y183,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/amp/",
-      "publishedDateTime": "2023-10-01T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-01-ai-chatbots-let-you-interview-historical-figures-like-harriet-tubman-thats-probably-not-a-good-idea.md",
-      "title": "AI chatbots let you 'interview' historical figures like Harriet Tubman. That's probably not a good idea.",
-      "excerpt": "the founder and a principal researcher at Montreal AI Ethics Institute, told Insider by email. Tiraana Bains, an assistant professor of history at Brown University, said the bots can close off ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-chatbots-ethics-dangers-historical-figures-2023-10",
-      "originalUrl": "https://www.businessinsider.com/ai-chatbots-ethics-dangers-historical-figures-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/651933ec5640b20019d795a8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-chatbots-ethics-dangers-historical-figures-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chatbots-ethics-dangers-historical-figures-2023-10?amp",
-      "publishedDateTime": "2023-10-01T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

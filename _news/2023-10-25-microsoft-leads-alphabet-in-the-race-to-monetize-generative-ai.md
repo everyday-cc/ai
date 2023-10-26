@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/10/25/microsoft-leads-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/10/25/microsoft-leads-alphabet-in-the-race-to-monetize-generative-ai/amp/"
 type: article
 quality: 104
-heat: 694
+heat: 714
 published: true
 
 provider:
@@ -318,7 +318,7 @@ related:
   - title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
     excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
     publishedDateTime: 2023-10-25T14:58:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca&region=ca"
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
     type: article
     provider:
       name: Proactiveinvestors
@@ -675,6 +675,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 42
+  - title: "FRISS to use Microsoft Azure OpenAI Service for Enhanced AI Fraud Model Explanations"
+    excerpt: "MASON, Ohio--(BUSINESS WIRE)--FRISS, one of the world’s most implemented solutions for trust automation at P&C carriers, has recently collaborated with Microsoft to enhance its AI fraud model explanations using Microsoft Azure OpenAI Service. As a ..."
+    publishedDateTime: 2023-10-26T14:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231026052793/en/FRISS-to-use-Microsoft-Azure-OpenAI-Service-for-Enhanced-AI-Fraud-Model-Explanations"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 42
   - title: "Microsoft to help Rockwell Automation to leverage generative AI and accelerate automation design"
     excerpt: "Rockwell Automation and Microsoft are expanding their partnership to accelerate industrial automation design and development using generative artificial intelligence. Microsoft’s Azure OpenAI Service will be added to Rockwell Automation’s FactoryTalk Design Studio to help users accelerate time-to-market when building industrial automation systems."
     publishedDateTime: 2023-10-26T15:27:00Z
@@ -808,6 +817,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 10
+  - title: "Rockwell Automation and Microsoft Expand Partnership to Leverage Generative AI Capabilities for Enhanced Productivity and Faster Time-to-Market"
+    excerpt: "Rockwell Automation, Inc. (NYSE: ROK) and Microsoft Corp. (NASDAQ: MSFT) today announced an extension of their longstanding relationship to accelerate"
+    publishedDateTime: 2023-10-26T10:59:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231026300444/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "qh9WH9mavbzqK3QRu9P7fzHwa3LzFtRJbChHRPizKAaYG4t1KvFNN2r59hgDBSzjjTNThipnc8159v9UzHZ8HMBU3ojUB2Qr/yDB+GeZYRHyt/OybBBvVlXx/zLRVEy1d4d6E2lCWXWGoumoVRJYWhNIMOSBAEYbv+J7sj/2e5eFqakZef5hxsgTrmS12unY/yqNuiQpNt5Sh8V24YAvfLZab5jhfo+PvmW5SQHnC8m5ZeU/Sc3uPrg0eclw4Kf9mRO1g3H+CIHpViw4Cp0FMkKE1pXqAfYofDlVbsRPlixX8M9PMTnP0kgGk74uV573L/5IYbVZUrpQaxBt6GBJpojv5IkX1MEd43SVDtBb5hPPyp0tLP7ka9/+sFVv6c4AlfORw/QmUtSXUF/6x4DYM6w/Eut1IVXjdaIkiVII1tqDoarau4XnDLdmGxN2gYspW+lJphYzTV9NZvoeX8FhuextKrl8HdXQzZoXlycrnlmXN9Eo2XJXSn1Zbb5cA50ZE/13ji4zwRnm89LKOj/g9A==;P0dVlrNSby3rMRScELt4kA=="
 ---

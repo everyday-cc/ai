@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Consulting accelerates the future of FinOps collaboration with Apptio"
-    excerpt: "By acquiring Apptio Inc., IBM has empowered clients to unlock additional value through the seamless integration of Apptio and IBM.\nThe post IBM Consulting accelerates the future of FinOps collaboration with Apptio appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-24T14:48:24Z
-    webUrl: "https://www.ibm.com/blog/ibm-consulting-accelerates-the-future-of-finops-collaboration-with-apptio/"
+  - title: "Union Bank chooses Red Hat OpenShift Service on AWS to increase innovation, speed to market"
+    excerpt: "Red Hat, Inc., the world’s leading provider of open source solutions, today announced that Philippines’ UnionBank is using Red Hat OpenShift Service on Amazon Web Services (AWS) to accelerate the migration of mission-critical workloads from on-premises environments to AWS,"
+    publishedDateTime: 2023-10-25T11:30:00Z
+    webUrl: "https://manilastandard.net/tech/314383642/union-bank-chooses-red-hat-openshift-service-on-aws-to-increase-innovation-speed-to-market.html"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 81
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 46
+    images:
+      - url: "https://cdn.manilastandard.net/wp-content/uploads/2023/10/redhat-1.png"
+        width: 562
+        height: 331
+        isCached: true
 
 secured: "n31qOplj1MlW+nMvNKNVeakCyJ6+dnstUAuho0aZ0gpDzDPLqWi1Ha91hGG8SsJEWnRTOz3iLXOe+3FTk/NcrYvRHjxCzYpZLMUo8R//LaFTNco1gLh89OT17GsEe3tkxU2vSdCVUFjWJekxn6sV5TjaJMV7sQujLUB/vKhCXsZnIwKjwrszGYjWVcMaCrYESllQmQVT9gqvhQHM8zqRflj6SVxLRKSZXWUw1jRzWQHpC3TRaZEGlwUzyU3IIYeUJHK3H3lQZWlTfzsv1KnYYRt8izvySkAs93At8BoqudKRJ0itBNZ9DXVeH+rsjOTW6yR4xuacj4Tjdf804HNbVGbPI8Y7elDvoB6HcUHSS2Q=;E9vWKNH5T3O0LpslaJnnLQ=="
 ---

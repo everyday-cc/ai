@@ -499,6 +499,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-14-google-has-sent-internet-into-spiral-of-decline-claims-deepmind-co-founder.md",
+      "title": "Google has sent internet into ‘spiral of decline’, claims DeepMind co-founder",
+      "excerpt": "Mustafa Suleyman, the British entrepreneur who co-founded DeepMind, said: “The business model that Google had broke the internet.” He said search results had become plagued with “clickbait ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/",
+      "originalUrl": "https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/business/2023/10/14/TELEMMGLPICT000352917632_16972923076300_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-14T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-14-ai-is-top-of-mind-for-leaders-the-pros-and-cons-according-to-execs-from-pwc-google-deepmind-slack-and-ibm.md",
       "title": "AI is top of mind for leaders. The pros and cons, according to execs from PwC, Google DeepMind, Slack, and IBM",
       "excerpt": "At the Fortune Most Powerful Women Summit in Laguna Niguel, Calif., executives from PwC, Google DeepMind, Slack, and IBM addressed the risks and potential rewards of AI for leaders and companies. Slack CEO Lidiane Jones said she is optimistic about how AI ...",
@@ -1362,49 +1405,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-deepmind-ai-revolutionizes-genetic-disease-research-with-alphamissense.md",
-      "title": "DeepMind AI Revolutionizes Genetic Disease Research with AlphaMissense",
-      "excerpt": "Emerging gene-editing tools like CRISPR offer the possibility of correcting these genetic errors, offering hope for life-changing treatments. However, the challenge has been daunting. With over 70 million potential permutations of DNA letter swaps within the human genome,",
-      "sourceUrl": null,
-      "webUrl": "https://www.indrastra.com/2023/09/deepmind-ai-revolutionizes-genetic.html",
-      "originalUrl": "https://www.indrastra.com/2023/09/deepmind-ai-revolutionizes-genetic.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTT0c1wRp_5UVtle_fd8e6_6BycUjCqrrBtWl7N6taLWKVY7l9K1Tyk79tTeNg0JWppTnv1CboVj0cWHcWvuS_UhhvlcoPzZFnAnFitIwYgcQT7xlZmod4f63h9XVEMsUciDYFTwvVL0p-y2B8WhuZK9h1MljPcvZPg58SaKUagbq06TzcT0kVP-PaeM0/w640-h360/deepmind.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "indrastra",
-        "domain": "indrastra.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

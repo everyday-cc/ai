@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-26-intelligently-search-drupal-content-using-amazon-kendra.md",
+      "title": "Intelligently search Drupal content using Amazon Kendra",
+      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra helps you easily aggregate content from a variety of content repositories into a centralized index that lets you quickly search all your enterprise data and find the most accurate answer. Drupal is a content",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-drupal-content-using-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-drupal-content-using-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/20/ml-13088-image003-1178x630.jpg",
+          "width": 1178,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T10:37:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-intuitivo-achieves-higher-throughput-while-saving-on-aiml-costs-using-aws-inferentia-and-pytorch.md",
+      "title": "Intuitivo achieves higher throughput while saving on AI/ML costs using AWS Inferentia and PyTorch",
+      "excerpt": "This is a guest post by Jose Benitez, Founder and Director of AI and Mattias Ponchon, Head of Infrastructure at Intuitivo. Intuitivo, a pioneer in retail innovation, is revolutionizing shopping with its cloud-based AI and machine learning (AI/ML) transactional processing system. This groundbreaking technology",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intuitivo-achieves-higher-throughput-while-saving-on-ai-ml-costs-using-aws-inferentia-and-pytorch/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intuitivo-achieves-higher-throughput-while-saving-on-ai-ml-costs-using-aws-inferentia-and-pytorch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/23/ML15012_APop-842x630.png",
+          "width": 842,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T10:23:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-3-ways-to-migrate-and-deploy-ibm-maximo-on-aws-cloud.md",
       "title": "3 ways to migrate and deploy IBM Maximo on AWS Cloud",
       "excerpt": "Migrating to cloud helps organizations drive operational resiliency and reliability while keeping software updated with effort.\nThe post 3 ways to migrate and deploy IBM Maximo on AWS Cloud appeared first on IBM Blog.\n",
@@ -264,7 +370,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/from-text-to-dream-job-building-an-nlp-based-job-recommender-at-talent-com-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1175,25 +1281,43 @@
     {
       "path": "_news/2023-10-10-supernova-festival-how-massacre-unfolded-from-verified-video-and-social-media.md",
       "title": "Supernova festival: How massacre unfolded from verified video and social media",
-      "excerpt": "BBC Verify has pieced together the events of the weekend's festival bloodbath using video and social media posts that we have verified, and facial recognition technology. Some of the festival-goers can be seen in the same footage looking up at the dark wisps above their heads. Others are oblivious and keep dancing.",
+      "excerpt": "They had gathered in a remote area of southern Israel for the Supernova festival - an event that had promised dance, music, art and drinks at a secret location. Ticket holders were told, nearer the time, to head to a site north of the Re'im kibbutz, about 6km (3.7 miles) east of Gaza. The party's organisers promised a \"journey of unity and love\".",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/world-middle-east-67056741.amp",
-      "originalUrl": "https://www.bbc.co.uk/news/world-middle-east-67056741.amp",
+      "webUrl": "https://www.bbc.com/news/world-middle-east-67056741.amp",
+      "originalUrl": "https://www.bbc.com/news/world-middle-east-67056741.amp",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/12B67/production/_131374667_97b713fd-bb80-4987-b17a-49008c8054fb.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.bbc.com/news/world-middle-east-67056741.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-middle-east-67056741.amp",
       "publishedDateTime": "2023-10-10T09:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1334,113 +1458,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-survey-challenges-and-solutions-in-generative-ai-adoption.md",
-      "title": "Survey: Challenges and Solutions in Generative AI Adoption",
-      "excerpt": "Most surveyed companies prefer a mix of public and private generative AI models. Security risks and technical complexity slows adoption down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/",
-      "originalUrl": "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg",
-          "width": 270,
-          "height": 203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-improve-prediction-quality-in-custom-classification-models-with-amazon-comprehend.md",
-      "title": "Improve prediction quality in custom classification models with Amazon Comprehend",
-      "excerpt": "In this post, we explain how to build and optimize a custom classification model using Amazon Comprehend. We demonstrate this using an Amazon Comprehend custom classification to build a multi-label custom classification model, and provide guidelines on how to prepare the training dataset and tune the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-prediction-quality-in-custom-classification-models-with-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-prediction-quality-in-custom-classification-models-with-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/14/ml-13080-image5.png",
-          "width": 824,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-05T10:21:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

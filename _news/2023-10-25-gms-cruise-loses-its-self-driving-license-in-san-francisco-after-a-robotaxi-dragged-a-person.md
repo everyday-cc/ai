@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The case against self-driving taxis isn't worse than the average driver"
+    excerpt: "But in San Francisco, state officials are not so sure. This week the state of California pulled the permits of self-driving taxis, stating that they represented an “unreasonable risk” to public safety. In other words, the City by the Bay was at risk of ..."
+    publishedDateTime: 2023-10-26T17:31:00Z
+    webUrl: "https://www.aol.com/case-against-self-driving-taxis-093121684.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_gannett_aggregated_707/901af0441de95c7f5e9ecf98f188bee2"
+        width: 300
+        height: 400
+        isCached: true
   - title: "Accelerate SF: Meet the former tech employees who want to use AI for social good in San Francisco"
     excerpt: "Accelerate SF aims to harness the power of artificial intelligence to solve some of San Francisco’s most pressing public sector challenges."
     publishedDateTime: 2023-10-23T13:00:00Z

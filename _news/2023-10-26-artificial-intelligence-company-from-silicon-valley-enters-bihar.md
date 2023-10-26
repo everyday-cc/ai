@@ -9,8 +9,8 @@ ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2682311-art
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: devdiscourse
@@ -42,6 +42,17 @@ related:
         width: 609
         height: 427
         isCached: true
+  - title: "In a 1st, artificial intelligence company from Silicon Valley enters Bihar"
+    excerpt: "A Silicon Valley-based Artificial Intelligence company has opened an office in Bihar, making it the first IT company from the US to enter the state."
+    publishedDateTime: 2023-10-26T17:15:00Z
+    webUrl: "https://www.business-standard.com/companies/news/in-a-1st-artificial-intelligence-company-from-silicon-valley-enters-bihar-123102600201_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/in-a-1st-artificial-intelligence-company-from-silicon-valley-enters-bihar-123102600201_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/in-a-1st-artificial-intelligence-company-from-silicon-valley-enters-bihar-123102600201_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 35
 
 secured: "F6Qlk654IQammj2hohQuuww0+XCTqufjAM7lORoQ1qFETxrHFVKrBY4r656lVRgoqxHdG+tKx6YIbh2Lq+beOQ/ZrwB3owu32AhuuA7eFElFxcHN5P9HH+6wkD1PqvDvgibH2Aly+t/yoXHvBebmYcnqnFmAyv2E5sblgOXZhtS+kz7yEo73jtukjRz7fk1DkpIKrcsSO17Ri18M1adwbooxKAPW8y/xtc93S3/58n9ryZ8tQ5SbP8gMJsq5ew3d4e5+6ZnTa3cVi6FaH9yzKlyjs+51J6j5iWStmw6NMmygx71P8/Yt5DFM3LuDEbrT2lEhXw9pKptHGqqM9SUm97QAt4qzsuW5l1F9Gkd2ngo=;oAlP/njskmpomBwHMlfN2A=="
 ---

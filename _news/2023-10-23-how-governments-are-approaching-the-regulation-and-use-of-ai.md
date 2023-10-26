@@ -25,45 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "Workshop On Soft Law Governance Of AI Applications Knocks It Out Of The Park And Dazzles With Keen Insights On AI Ethics And AI Legal Impacts"
-    excerpt: "A workshop by the ASU Law School covered key insights about soft law governance of AI applications. Here's a guided tour of what was presented and what you need to know."
-    publishedDateTime: 2023-10-23T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/23/workshop-on-soft-law-governance-of-ai-applications-knocks-it-out-of-the-park-and-dazzles-with-keen-insights-on-ai-ethics-and-ai-legal-impacts/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/23/workshop-on-soft-law-governance-of-ai-applications-knocks-it-out-of-the-park-and-dazzles-with-keen-insights-on-ai-ethics-and-ai-legal-impacts/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/23/workshop-on-soft-law-governance-of-ai-applications-knocks-it-out-of-the-park-and-dazzles-with-keen-insights-on-ai-ethics-and-ai-legal-impacts/amp/"
+  - title: "Exploring the details of an energy-saving AI chip"
+    excerpt: "Hussam Amrouch has developed an AI-ready architecture that is twice as powerful as comparable in-memory computing approaches. As reported in the journal Nature Communications, the professor at the Technical University of Munich (TUM) applies a new computational paradigm using special circuits known as ferroelectric field effect transistors (FeFETs)."
+    publishedDateTime: 2023-10-26T16:38:00Z
+    webUrl: "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.html"
+    ampWebUrl: "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61e26084775e5f976df5226f/0x0.jpg?format=jpg&crop=935,623,x85,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/an-energy-saving-ai-ch.jpg"
+        width: 1750
+        height: 1466
         isCached: true
-  - title: "Real Insights on Artificial Intelligence"
-    excerpt: "AI could disrupt all aspects of daily life – transforming how we work, live and play. What’s its true potential, and how do we manage the risks?"
-    publishedDateTime: 2023-10-25T16:10:00Z
-    webUrl: "https://www.washingtonpost.com/creativegroup/intel/real-insights-on-artificial-intelligence/"
+  - title: "TUM professor develops an energy-saving AI chip"
+    excerpt: "Home > Pressemitteilung: TUM professor develops an ..."
+    publishedDateTime: 2023-10-26T17:54:00Z
+    webUrl: "https://idw-online.de/de/news822986"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
+      name: idw
+      domain: idw-online.de
+    quality: 54
+    images:
+      - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
+        width: 498
+        height: 259
+        isCached: true
+  - title: "Measuring Mood Through Artificial Intelligence"
+    excerpt: "Whether it’s a parent with a thermometer and children’s Tylenol or a tumor board determining an oncology regimen, such a data-driven approach is usually the best practice in 21 st-century healthcare. Unfortunately, mental health care lags behind ..."
+    publishedDateTime: 2023-10-23T13:41:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/pathways-of-progress/202310/measuring-mood-through-artificial-intelligence"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/pathways-of-progress/202310/measuring-mood-through-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/pathways-of-progress/202310/measuring-mood-through-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
     quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/creativegroup/uploads/2023/10/25170703/16970419297931697041929720-e1698253672489.png?rand=196"
-        width: 460
-        height: 441
-        isCached: true
-  - title: "Ethics and Practical Applications of AI Agents in US Business Today: Digital Worker Forum"
-    excerpt: "The International Digital Worker Association (IDWA) is thrilled to unveil the Digital Worker Forum, where experts from Microsoft, Google, IBM, NVIDIA, Meta, AutomationAnywhere, UiPath, and other tech giants will answer these and many more questions on November 8, 2023."
-    publishedDateTime: 2023-10-25T18:50:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ethics-practical-applications-ai-agents-us-business-today-/2023/10/25/9905397.htm"
+  - title: "The Power of Machine Learning and AI for Carriers"
+    excerpt: "T8N’s Mike Robinson details the power of machine learning and AI to help facilitate logistics for carriers on this episode of Retail Refined."
+    publishedDateTime: 2023-10-26T11:56:00Z
+    webUrl: "https://marketscale.com/industries/retail/machine-learning-and-ai-carriers/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
+      name: marketscale
+      domain: marketscale.com
+    quality: 34
+  - title: "Measuring Mood Through Artificial Intelligence"
+    excerpt: "Whether it’s a parent with a thermometer and children’s Tylenol or a tumor board determining an oncology regimen, such a data-driven approach is usually the best practice in 21 st-century healthcare. Unfortunately, mental health care lags behind ..."
+    publishedDateTime: 2023-10-23T17:46:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/pathways-of-progress/202310/measuring-mood-through-artificial-intelligence"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 19
 
 secured: "NG32kru2ULt0s7MSl3855FWduWlflhAM0pD4ldQtEMa3OQFpZdf74QljDRYSgOiFznZFmowopFDCHuO5g25jYvhjM+pEcQ1+mgr+YoRkdAzgP12nLFDg11wEq7m9v5SLgyZHX+owvDNCBdZAaXpXJpqOAXKGbdM8kPrdFKVRUhwRrEZ5hLewWfEq8H/wGqUhYTJYPVHG7AysU0BBkDYjUHCkbW1Kc62xfeC32jd/wNIAazMrSC45warUCI/Z+WfgthcV7m5Dmxw3+GUHLHDqZhQSZTl3IDc+lBM+WKOfC/4SnfeG9QIcFDc4r2nS/EXIUHBY0C7tSJlqWeOjKXlRpnXc+2i0FQizj1wqWvykhyXl/yEgTK7HhLPtxuXrfVDL88xe67V4Qd8xpZvZFWfe9taD19Of87hEBOinsWZhvEBXrD0ysuiZ071jZo0aF1f2PThvii6DSkMF/6caYFq3OpUmvdiR2QWVrZBDOQcZVMrini0RID9U9T9FisZ2C7EJBVnwASVAs5AJbltSHnInOQ==;ut73Xq0kwC9Xr45UzgFhmQ=="
 ---

@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-11-new-jersey-establishes-artificial-intelligence-task-force.md",
+      "title": "New Jersey Establishes Artificial Intelligence Task Force",
+      "excerpt": "Gov. Phil Murphy signed an executive order Tuesday charging the task force with studying artificial intelligence and recommending government actions to support ethical use of the rapidly evolving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force",
+      "originalUrl": "https://www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/fc67728/2147483647/strip/true/crop/380x258+0+0/resize/380x258!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F6b%2Fbb%2F563a07814eeb91f2117dfaa725ec%2F1-main-logo-for-digital-use-only.png%20%281%292.png",
+          "width": 380,
+          "height": 258,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force?_amp=true",
+      "publishedDateTime": "2023-10-10T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-microsoft-targets-healthcare-with-new-cloud-based-data-ai-solutions.md",
       "title": "Microsoft Targets Healthcare with New Cloud-Based Data & AI Solutions",
       "excerpt": "Microsoft introduces cloud-based health care analytics platform, healthcare-focused AI models, and AI-driven tools to simplify the clinician experience.",
@@ -1339,49 +1384,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-45-million-granted-to-nu-cancer-therapy-device-project.md",
-      "title": "$45 million granted to NU cancer therapy device project",
-      "excerpt": "The Advanced Research Projects Agency for Health awarded researchers at Northwestern and seven other institutions a $45 million grant to continue developing a small, implantable device that could detect and treat cancer,",
-      "sourceUrl": null,
-      "webUrl": "https://dailynorthwestern.com/2023/09/26/campus/45-million-granted-to-nu-cancer-therapy-device-project/",
-      "originalUrl": "https://dailynorthwestern.com/2023/09/26/campus/45-million-granted-to-nu-cancer-therapy-device-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailynorthwestern.com/wp-content/uploads/2023/09/TECH_FILE_AvaMandoli_7.jpg",
-          "width": 2001,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Northwestern",
-        "domain": "dailynorthwestern.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

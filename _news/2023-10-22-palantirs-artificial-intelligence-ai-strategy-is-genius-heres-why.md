@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pr
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/21322117/palantirs-artificial-intelligence-ai-strategy-is-genius-heres-why/"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 5120
     height: 2880
     isCached: true
+
+related:
+  - title: "Palantir Ranked No. 1 Vendor in AI, Data Science, and Machine Learning"
+    excerpt: "Palantir Technologies Inc. (NYSE: PLTR), a leading provider of AI systems, today announced it had been recognized as a top performer by Dresner Adviso"
+    publishedDateTime: 2023-10-26T14:59:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231026655252/en/Palantir-Ranked-No.-1-Vendor-in-AI-Data-Science-and-Machine-Learning"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
 
 secured: "lpJxILTsZLkY8XkU4n9MgbNlMONad7YYTLGeJuM2DqtqRog0IBzpU280ViDaFK/0Vd9Xt4o/YXlGUz4MehX9LxmtQc6xVQWlOsxnMcHr6YC7i9fY9ib2k+cBQOSl1cv+yljeqet3qF0TqEESPS4Q0RL5pgF7jcN3F3QH06c2wYgyMes8MEuS0eiNTw8TvNNV4HHYRc2F/i3L+TQZ8WYw6OYlbL8+WszYUKENm6rYHboRYZgyVCCzIRsmQRLiZJl/6rEG9LESlrNf4SaCymJF05e9poyTLh1v9npEu/r+yKhmORlhg3yeMDlvktHpyKRXKxTriZUJiaWo/F+YA+WxUsdchk0A0W+yJhKoc8SGBoo=;BwR65+NEDv7BCY8pLHqQfQ=="
 ---

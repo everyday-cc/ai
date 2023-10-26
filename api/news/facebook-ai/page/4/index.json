@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-29-academia-vs-industry-ai-showdown.md",
+      "title": "Academia Vs. Industry: AI Showdown",
+      "excerpt": "Does the scale of AI research make it hard for academia to contribute ... versus an academic approach to hardware structuring and innovative GPU design. “People even had this crazy idea that maybe you could run computation on the GPUs, not just render ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ecfd321e4fef49de4af6c3/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/amp/",
+      "publishedDateTime": "2023-08-28T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-the-34-most-promising-ai-startups-of-2023-according-to-top-vcs.md",
       "title": "The 34 most promising AI startups of 2023, according to top VCs",
       "excerpt": "Insider asked dozens of top VCs to name one promising AI startup they invested in and one they didn't but were hearing good things about.",
@@ -1425,40 +1478,6 @@
         "AI in Robotics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-air-force-research-laboratory-touts-first-successful-valkyrie-flight-powered-by-ai.md",
-      "title": "Air Force Research Laboratory touts first successful Valkyrie flight powered by AI",
-      "excerpt": "The Air Force Research Laboratory (AFRL) conducted its first successful flight of a Valkyrie jet controlled by artificial intelligence (AI) last month, the Air Force announced Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/defense/4138280-air-force-research-laboratory-touts-first-successful-valkyrie-flight-powered-by-ai/",
-      "originalUrl": "https://thehill.com/policy/defense/4138280-air-force-research-laboratory-touts-first-successful-valkyrie-flight-powered-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/defense/4138280-air-force-research-laboratory-touts-first-successful-valkyrie-flight-powered-by-ai/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/4138280-air-force-research-laboratory-touts-first-successful-valkyrie-flight-powered-by-ai/amp/",
-      "publishedDateTime": "2023-08-04T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

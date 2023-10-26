@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Symposium in Little Rock examines impact of technology on health care in Arkansas"
-excerpt: "of health care,\" he said. The use of artificial intelligence can benefit patients, he said. For example, he mentioned the use of sensors and cameras in hospital rooms to indicate whether the room had been sanitized. \"So you're capturing all of that data ..."
-publishedDateTime: 2023-10-26T09:30:00Z
-originalUrl: "https://www.nwaonline.com/news/2023/oct/26/symposium-in-little-rock-examines-impact-of/"
-webUrl: "https://www.nwaonline.com/news/2023/oct/26/symposium-in-little-rock-examines-impact-of/"
+excerpt: "As president of Bioventures, the technology licensing office and business incubator based at the University of Arkansas for Medical Sciences, Dr. Kevin Sexton helps researchers in the health care field turn their ideas into startups."
+publishedDateTime: 2023-10-26T09:40:00Z
+originalUrl: "https://www.arkansasonline.com/news/2023/oct/26/symposium-in-little-rock-examines-impact-of/"
+webUrl: "https://www.arkansasonline.com/news/2023/oct/26/symposium-in-little-rock-examines-impact-of/"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: Northwest Arkansas Democrat Gazette
-  domain: nwaonline.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - AI in Healthcare
@@ -24,6 +24,6 @@ images:
     height: 399
     isCached: true
 
-secured: "WMR/Ag4O27MdAhRjBtzJdcbe1pjqj4xJeJUiRbgP2XWxqpgqEOeBrIQOeVyiW06xJRUkTqqwsuw2ffrcl01u6mu9n9Jf95tsoLn8eax5Kn8vo437vzCv8EWSNmcX4VEPj/k8U2luHHH7qP4CCCRt7pI+KPrh3nAAt5qZrkL3TbIZ3TpBjveFUBWyGUuOV9B5q/oVrPORa5/qvKFEwxMXHFNezYS9QWW4rxGVYBqpgLkrqAo1zhwdaaQQJuCHpyGYQmd0PLaHesVI6BYoPDUSOLTFEGLQCKbgpSqCqjnSwC6Tjr8N0YJj38hdn8vTRYbJKdBbijJRUEA7jE3GQGjVDpLijLl87cHyqIoPLWw1qafX/HRJtAwlhOCpJYnTmZxpAKAIhxkeJ7F2O1HxPdNCUMihb1ZVSD3paFtcD/WxXvWLuIkBPKc8MUBMYFa+l7/2gAHfbWzDlvCc3GI8NRvHUr5tRNodutIKxgQmIqHYKppaMoPZJk5Gra/0HZgB6aQnku7f9dAl+zhFVprGZDunZA==;BTfRtFhus0B4D4m1cdBnEA=="
+secured: "sCAwGOpszEZNxJeRLj5++rvcC4m1rzwhSDsXloGaj6hwNPhWRI1hynVwvtntT+Qm3b8N5+d9K8FbTA1zOk20e8ghJWbUnqBjoyWSgUNxMo8sbAiTlIqbgMUUNKSQVb/fah4T9FKyNABl3ch7XiblNgDPSU4CWSSyiQrEpRd96tFb+1dqC5EoaJOIvAlzGdnczmYPTDzbrWxVK/wcpuKxOw3Q8gGIMkolCKdImMeu/a5v+HnRzpkinla8ofahHkr6vHdlh67803qtXWlBiy1wo+nsoL/XbVliiBelqTwWhD2OxSqADH03rVdzlAOys5eYKG1xJWbj4E16N7U+Fc/TdbKz71jMevcmFLkV1952Es8=;PoCbRhB9bzkccfOZ+dhSnw=="
 ---
 

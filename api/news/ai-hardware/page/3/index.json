@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-06-samsung-exynos-2400-detailed-70-faster-cpu-xclipse-940-gpu-with-amd-rdna-3-graphics.md",
+      "title": "Samsung Exynos 2400 detailed – 70% faster CPU, Xclipse 940 GPU with AMD RDNA 3 graphics",
+      "excerpt": "The upcoming flagship chipset was introduced at Samsung System LSI Tech Day in San Jose, California. Samsung Semiconductor held its System LSI Tech",
+      "sourceUrl": null,
+      "webUrl": "https://www.gsmarena.com/samsung_exynos_2400_detailed__70_faster_cpu_xclipse_940_gpu_with_amd_rdna_3_graphics-news-60133.php",
+      "originalUrl": "https://www.gsmarena.com/samsung_exynos_2400_detailed__70_faster_cpu_xclipse_940_gpu_with_amd_rdna_3_graphics-news-60133.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fdn.gsmarena.com/imgroot/news/23/10/samsung-details-exynos-2400/-1220x526/gsmarena_00.jpg",
+          "width": 1220,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.gsmarena.com/samsung_exynos_2400_detailed__70_faster_cpu_xclipse_940_gpu_with_amd_rdna_3_graphics-amp-60133.php",
+      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_exynos_2400_detailed__70_faster_cpu_xclipse_940_gpu_with_amd_rdna_3_graphics-amp-60133.php",
+      "publishedDateTime": "2023-10-06T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GSM Arena",
+        "domain": "gsmarena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-06-samsung-accelerates-efforts-to-lead-ai-chip-market.md",
       "title": "Samsung accelerates efforts to lead AI chip market",
       "excerpt": "Samsung Electronics made a series of announcements demonstrating its competitiveness in semiconductor production, as the chip industry expands alongside artificial intelligence (AI) and the emergence of ChatGPT.",
@@ -1378,50 +1421,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-rebellions-ai-chip-to-undergo-ibm-quality-testing.md",
-      "title": "Rebellions' AI chip to undergo IBM quality testing",
-      "excerpt": "Korean AI semiconductor startup Rebellions said Monday that its chips were set to undergo quality testing at data centers of IBM Research's AI Hardware Center in New York. IBM Research's AI Hardware Center conducts exhaustive quality testing for enterprise-grade data center processors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20230925000638",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20230925000638",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F09%2F25%2F20230925000591_0.jpg",
-          "width": 630,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20230925000638",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230925000638",
-      "publishedDateTime": "2023-09-24T23:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

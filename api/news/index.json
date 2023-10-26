@@ -2,6 +2,300 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-26-intelligently-search-drupal-content-using-amazon-kendra.md",
+      "title": "Intelligently search Drupal content using Amazon Kendra",
+      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra helps you easily aggregate content from a variety of content repositories into a centralized index that lets you quickly search all your enterprise data and find the most accurate answer. Drupal is a content",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-drupal-content-using-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-drupal-content-using-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/20/ml-13088-image003-1178x630.jpg",
+          "width": 1178,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T10:37:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-intuitivo-achieves-higher-throughput-while-saving-on-aiml-costs-using-aws-inferentia-and-pytorch.md",
+      "title": "Intuitivo achieves higher throughput while saving on AI/ML costs using AWS Inferentia and PyTorch",
+      "excerpt": "This is a guest post by Jose Benitez, Founder and Director of AI and Mattias Ponchon, Head of Infrastructure at Intuitivo. Intuitivo, a pioneer in retail innovation, is revolutionizing shopping with its cloud-based AI and machine learning (AI/ML) transactional processing system. This groundbreaking technology",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intuitivo-achieves-higher-throughput-while-saving-on-ai-ml-costs-using-aws-inferentia-and-pytorch/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intuitivo-achieves-higher-throughput-while-saving-on-ai-ml-costs-using-aws-inferentia-and-pytorch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/23/ML15012_APop-842x630.png",
+          "width": 842,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T10:23:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-exploring-the-details-of-an-energy-saving-ai-chip.md",
+      "title": "Exploring the details of an energy-saving AI chip",
+      "excerpt": "Hussam Amrouch has developed an AI-ready architecture that is twice as powerful as comparable in-memory computing approaches. As reported in the journal Nature Communications, the professor at the Technical University of Munich (TUM) applies a new computational paradigm using special circuits known as ferroelectric field effect transistors (FeFETs).",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.html",
+      "originalUrl": "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/an-energy-saving-ai-ch.jpg",
+          "width": 1750,
+          "height": 1466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp",
+      "publishedDateTime": "2023-10-26T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-come-together-new-ai-enhanced-beatles-song-drops-nov-2.md",
+      "title": "Come Together: New, AI-Enhanced Beatles Song Drops Nov. 2",
+      "excerpt": "Now and Then' is based on a demo John Lennon made before his death. It was on ice for more than 25 years until an AI algorithm and director Peter Jackson helped bring it back to life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/come-together-ai-enhanced-final-beatles-song-drops-nov-2",
+      "originalUrl": "https://www.pcmag.com/news/come-together-ai-enhanced-final-beatles-song-drops-nov-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/06DbI1PxJepQPAShKsR0cVI-1.fit_lim.size_1200x630.v1698333667.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-artificial-intelligence-what-will-it-do-to-us-in-2024.md",
+      "title": "Artificial Intelligence – what will it do to us in 2024?",
+      "excerpt": "CEBU, Philippines — Artificial Intelligence (AI) will take an oversized role in enterprise tech strategies in 2024. It therefore makes sense to look at coming AI developments:",
+      "sourceUrl": null,
+      "webUrl": "https://www.philstar.com/the-freeman/cebu-business/2023/10/27/2306914/artificial-intelligence-what-will-it-do-us-2024",
+      "originalUrl": "https://www.philstar.com/the-freeman/cebu-business/2023/10/27/2306914/artificial-intelligence-what-will-it-do-us-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.philstar.com/photos/2023/10/24/tcl_2023-10-24_14-44-06854_thumbnail.jpg",
+          "width": 686,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.philstar.com/the-freeman/cebu-business/2023/10/27/2306914/artificial-intelligence-what-will-it-do-us-2024/amp/",
+      "cdnAmpWebUrl": "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/the-freeman/cebu-business/2023/10/27/2306914/artificial-intelligence-what-will-it-do-us-2024/amp/",
+      "publishedDateTime": "2023-10-26T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "philstar.com",
+        "domain": "philstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-operationalize-and-automate-finops-with-apptio-cloudability-and-ibm-turbonomic.md",
+      "title": "Operationalize and automate FinOps with Apptio Cloudability and IBM Turbonomic",
+      "excerpt": "From traditional enterprises to the most innovative startups, organizations are using the public cloud. In fact, ESG Research found that 91% of all applications will eventually be hosted in the public cloud. That much investment has necessitated the FinOps movement, a cloud financial management discipline",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/operationalize-and-automate-finops-with-apptio-cloudability-and-ibm-turbonomic/",
+      "originalUrl": "https://www.ibm.com/blog/operationalize-and-automate-finops-with-apptio-cloudability-and-ibm-turbonomic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/10/turbonomic-finops-automation-in-page.png",
+          "width": 7536,
+          "height": 4320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T08:33:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-how-computer-vision-increases-productivity-and-sustainability-in-agriculture.md",
       "title": "How computer vision increases productivity and sustainability in agriculture",
       "excerpt": "Computer vision is extending the human senses. Whether it’s allowing cars to drive themselves, automating production lines for safety and efficiency, or allowing us to unlock our phones with our faces, computer vision can help make human work more productive and accurate.",
@@ -147,7 +441,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/26/google-maps-is-getting-new-ai-powered-search-updates-an-enhanced-navigation-interface-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -291,7 +585,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/26/ggv-capital-arteria-ai-digital-financial-documents/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -417,48 +711,6 @@
       "topics": [
         "IBM AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-architect-to-operationalize-your-sustainability-goals.md",
-      "title": "Architect to operationalize your sustainability goals",
-      "excerpt": "A well-structured sustainability architecture is the cornerstone of an organization's journey toward meeting its ESG goals.\nThe post Architect to operationalize your sustainability goals appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/architect-to-operationalize-your-sustainability-goals/",
-      "originalUrl": "https://www.ibm.com/blog/architect-to-operationalize-your-sustainability-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     },
     {
@@ -661,7 +913,7 @@
       "originalUrl": "https://venturebeat.com/ai/amazon-launches-new-ai-product-image-generator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -692,6 +944,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-artificial-intelligence-company-from-silicon-valley-enters-bihar.md",
+      "title": "Artificial Intelligence company from Silicon Valley enters Bihar",
+      "excerpt": "Tiger Analytics is primarily a consulting company in the field of artificial intelligence and machine learning.We hope that taking this lead into account, many more companies will come to Bihar in the same way,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar",
+      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_46_53_9831308.png?width=1280",
+          "width": 1280,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar?amp",
+      "publishedDateTime": "2023-10-25T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -889,317 +1183,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit.md",
-      "title": "The UK Lists Top Nightmare AI Scenarios Ahead of Its Big Tech Summit",
-      "excerpt": "Ahead of a global summit on how to keep artificial intelligence from doing harm, a UK government report warns that the tech could be used to help create bioweapons, or escape human control altogether.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/",
-      "originalUrl": "https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6539900d34195a696cda346b/191:100/w_1280,c_limit/AI-biz-GettyImages-582780248.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market.md",
-      "title": "How AI And Blockchain Are Fighting Counterfeiting In The Luxury Market",
-      "excerpt": "AI is only ever as good as the information fed to its algorithm ... they are linked to the physical item in question by an attached near field communication chip (NFC) in the case of Margiela accessories like the brand’s Tabi shoes or quick response ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/",
-      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65397ff6f9ac734e121b7ea1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1265,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/amp/",
-      "publishedDateTime": "2023-10-25T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-ai-is-in-the-workplace-more-than-employees-know.md",
-      "title": "AI Is In The Workplace More Than Employees Know",
-      "excerpt": "You don’t have to work directly on the technology to have your career be affected by AI. Be proactive — learn about AI and understand how your employer is using it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/",
-      "originalUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/653985367f7af9aad3aa260d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/amp/",
-      "publishedDateTime": "2023-10-25T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-singapore-based-fintech-youtrip-picks-up-50m-led-by-lightspeed.md",
-      "title": "Singapore-based fintech YouTrip picks up $50M led by Lightspeed",
-      "excerpt": "YouTrip, a Singapore-based fintech that offers multi-currency wallet for consumers ... In terms of product development, YouTrip plans to increase its used of AI and other emerging technologies for personalized features like smart budgeting and customized ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/25/youtrip-lightspeed/",
-      "originalUrl": "https://techcrunch.com/2023/10/25/youtrip-lightspeed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/YouTrip-SG.png?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/25/youtrip-lightspeed/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/youtrip-lightspeed/amp/",
-      "publishedDateTime": "2023-10-25T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade.md",
-      "title": "University of Chicago researchers seek to “poison” AI art generators with Nightshade",
-      "excerpt": "On Friday, a team of researchers at the University of Chicago released a research paper outlining \"Nightshade,\" a data poisoning technique aimed at disrupting the training process for AI models, reports MIT Technology Review and VentureBeat.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/robot_poison_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/amp/",
-      "publishedDateTime": "2023-10-25T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-ponyai-gets-100m-establishes-jv-with-saudi-arabias-neom.md",
-      "title": "Pony.ai gets $100M, establishes JV with Saudi Arabia’s Neom",
-      "excerpt": "Chinese autonomous vehicle startup Pony.ai has scored $100 million from Neom, Saudi Arabia’s futuristic city and development project. As part of the deal, the two plan to establish a joint venture to develop, manufacture and deploy autonomous vehicles ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/",
-      "originalUrl": "https://techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/pony-prl-backgroung-v2.jpeg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/amp/",
-      "publishedDateTime": "2023-10-25T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

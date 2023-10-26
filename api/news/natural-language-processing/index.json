@@ -513,7 +513,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/from-text-to-dream-job-building-an-nlp-based-job-recommender-at-talent-com-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1101,15 +1101,15 @@
       "title": "StreamText Releases Update With Enhanced Artificial Intelligence Language Translation Captions",
       "excerpt": "MADISON, Wis., Oct. 16, 2023 /PRNewswire/ -- StreamText's latest Automatic Speech Recognition update includes enhanced artificial intelligence (AI) language translation. Over ten years ago ...",
       "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/streamtext-releases-update-with-enhanced-artificial-intelligence-language-translation-captions/article_a2bab54b-20f1-5458-8a68-4c8888e02577.html",
-      "originalUrl": "https://www.news-journal.com/streamtext-releases-update-with-enhanced-artificial-intelligence-language-translation-captions/article_a2bab54b-20f1-5458-8a68-4c8888e02577.html",
+      "webUrl": "https://www.victoriaadvocate.com/streamtext-releases-update-with-enhanced-artificial-intelligence-language-translation-captions/article_bd093bbb-c7fe-51cd-a773-f63ddaac34b8.html",
+      "originalUrl": "https://www.victoriaadvocate.com/streamtext-releases-update-with-enhanced-artificial-intelligence-language-translation-captions/article_bd093bbb-c7fe-51cd-a773-f63ddaac34b8.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/b/33/b33c23eb-a3f3-501e-8f06-ed423bc61868/6508430e6b8c8.image.jpg?crop=905%2C475%2C372%2C0&resize=905%2C475&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/7/2c/72cfcb11-21e6-5156-a54b-85315bdfd695/650842ec1e74e.image.jpg?crop=905%2C475%2C372%2C0&resize=905%2C475&order=crop%2Cresize",
           "width": 905,
           "height": 475,
           "title": null,
@@ -1121,11 +1121,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T06:27:00-07:00",
+      "publishedDateTime": "2023-10-16T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
         "images": null,
         "publishers": null,
         "authors": null
