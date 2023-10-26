@@ -134,6 +134,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why Nvidia Is Still the AI Chip Champ Despite U.S.-China Tiff"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) has been a darling of the stock market throughout"
+    publishedDateTime: 2023-10-25T19:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-is-still-the-ai-chip-champ-despite-u-s-china-tiff-1032740345"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "US Government Orders Immediate Stop to Chinese AI Chip Exports"
     excerpt: "Tech giant Nvidia has announced that President Biden’s administration has ordered it to stop shipping advanced AI chips to China immediately. These restrictions were always in the works and due to start next month. However, for an as-of-yet unknown reason, this date has been brought forward to today."
     publishedDateTime: 2023-10-25T17:00:00Z
@@ -162,6 +171,15 @@ related:
         width: 1252
         height: 704
         isCached: true
+  - title: "US tightens rules on AI chip sales to China in blow to Nvidia"
+    excerpt: "US tightens rules on AI chip sales to China in blow to Nvidia on facebook (opens in a new window) US tightens rules on AI chip sales to China in blow to Nvidia on linkedin (opens in a new window)"
+    publishedDateTime: 2023-10-26T13:23:00Z
+    webUrl: "https://www.ft.com/content/be680102-5543-4867-9996-6fc071cb9212?sharetype=gift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 51
   - title: "ANALYSIS-US chip curbs give Huawei a chance to fill the Nvidia void in China"
     excerpt: "While Nvidia NVDA.O has historically been the leading provider of AI chips in China with a market share exceeding 90%, Chinese firms including Huawei have been developing their own versions of Nvidia’s best-selling chips, including the A100 and the H100 graphics processing units (GPU)."
     publishedDateTime: 2023-10-23T00:00:00Z
@@ -193,6 +211,15 @@ related:
     provider:
       name: The Guardian
       domain: theguardian.com
+    quality: 34
+  - title: "US Government Orders Nvidia to Halt AI Chip Shipments to China"
+    excerpt: "The US government has instructed semiconductor designer Nvidia to cease the shipment of certain high-end artificial intelligence chips to China, according to a company filing disclosed on Tuesday."
+    publishedDateTime: 2023-10-26T13:21:00Z
+    webUrl: "https://www.tasnimnews.com/en/news/2023/10/26/2978558/us-government-orders-nvidia-to-halt-ai-chip-shipments-to-china"
+    type: article
+    provider:
+      name: Tasnim News Agency
+      domain: tasnimnews.com
     quality: 34
   - title: "Nvidia said the U.S.'s new AI chip restrictions have already taken effect"
     excerpt: "New rules restricting Nvidia from selling even the chips it designed for the Chinese market in the country have now taken effect."

@@ -197,6 +197,15 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Qualcomm invests further in mobile AI with chip announcements"
+    excerpt: "Qualcomm ( QCOM) rolled out a number of key AI announcements today, as the company seeks to cement itself as a major player in mobile chips. Those announcements include a new compute platform, called Snapdragon X Elite, a new central processing unit chip, called the Qualcomm Oryon CP, and a new smartphone chip, named the Snapdragon 8 Gen 3."
+    publishedDateTime: 2023-10-25T00:43:00Z
+    webUrl: "https://www.aol.com/qualcomm-invests-further-mobile-ai-211140974.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
   - title: "The Snapdragon X Elite is Qualcomm’s new Windows chip built for AI"
     excerpt: "Qualcomm has been doing nothing but perfecting its approach to developing quality SoCs and processors for smartphones and computers."
     publishedDateTime: 2023-10-24T19:01:00Z
@@ -248,6 +257,6 @@ related:
       domain: liliputing.com
     quality: 13
 
-secured: "bquxRF6YpIvvoWy5GAM/AqJNqpEGDa9IP8OSoyQZAhNRYYPhp/Kd0+2sJTU5y/D6nJZJnfOUJxSQenTb94EAcEkw4lijGBl/QUzYJuvUOeKDDC9UdEgLCe/NKM0mmWex/c15UqqRVW+qVBi11YQCa30XDoCuOz/OZGKQjgt9+ifexK12PLRDan7Hs+p10mTMiqRu7jXiF7pkZB9q/e0SKz/vsIiVQDhH5mEZgjyILZGl9pbI+g3XtOWNZjKtUPkPfnDOksWEHmk8/H6nnWs+1QBx21dpiwOelVHLB6PLhzSkFR5M/qV+FEW0Wat7n678hleiBgXtq1Xe4Y5rB4gR92BqFS2JcN8dvuOC+6ksNdc=;trD9JpipB1rIGzEHMcqjTQ=="
+secured: "nfYikzoU0w13Wz40hhreWNuH2fMtx1ek7RN8evW/5CA4vxjDAgxCCFyRg3s1RIUdLi1DhD244vtH3YRpdNRFBArjusbyXiq2CnwEVHC9hP9WdG8THbS8xYK0TNqkLzxsIJ/5lEftcZDQsRoNfXY+5Q/GXatoTb8wNVqVjeTcie57ZqdkCN4jtw7l/Eve+R/d9Z+Yy1NQVlAXX08kR4WI8P5w6JUmw8uTA74bBvL6rr3G21A2TVHAhoL3z3mLk2GWodLep+mEnDcY3DiBx6uyoEgkYGBpMoOFHtrUeXVooWXRw404ca2qGAiHB34V/Cy3VmaqEk+gKlRXYKsDATPbQT0ogkJ3A3CmI1DeXJg/hVhNiaMiSuxBzJuIKSihXzq3PyOvuAXl737ZwikCROeTWHdLD6nVElxB2U8t29Y3k6aBjCR3V2X5/Vr7Nw9+VnZxfof31t+ko+y1+ilLG38zth0qP2ygvgol4PWEyiJ+UfGEaHJIyT3C0x8vRsxaWcemBJfvwDQA3AswLoSpXYhkPg==;yEaFBn6BN062DPNuUpxtwA=="
 ---
 

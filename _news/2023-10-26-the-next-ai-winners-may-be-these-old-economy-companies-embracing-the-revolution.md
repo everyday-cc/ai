@@ -60,6 +60,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Only 9% Of Surveyed Companies Are Ready To Manage Risks Posed By AI"
+    excerpt: "The results of new research about the dangers posed by AI should be a wake-up call for all companies and organizations."
+    publishedDateTime: 2023-10-26T15:37:00Z
+    webUrl: "https://www.forbes.com/sites/edwardsegal/2023/10/26/only-9-of-surveyed-companies-are-ready-to-manage-risks-posed-by-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/edwardsegal/2023/10/26/only-9-of-surveyed-companies-are-ready-to-manage-risks-posed-by-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edwardsegal/2023/10/26/only-9-of-surveyed-companies-are-ready-to-manage-risks-posed-by-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65393a57196e796a19069411/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "AI and its impact on MBA education"
     excerpt: "Business schools have incorporated artificial intelligence (AI) tools such as Tableau for data visualization, IBM Watson for analytics and natural language processing, Salesforce Einstein for customer relationship management, Google Analytics for ..."
     publishedDateTime: 2023-10-24T06:45:00Z
@@ -143,6 +159,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How AI Can Help Leaders Make Better Decisions Under Pressure"
+    excerpt: "More and more businesses are turning to AI-powered technologies to help close the data-insight gap and improve their decision-making capabilities in time-critical, high-pressure situations. These technologies encompass a wide range of tools,"
+    publishedDateTime: 2023-10-26T12:25:00Z
+    webUrl: "https://hbr.org/2023/10/how-ai-can-help-leaders-make-better-decisions-under-pressure?ab=HP-hero-latest-text-1"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_26_Beatrice-Caciotti.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "PIONEER IN FINTECH DEMONSTRATES IMPACT OF AI IN PAYMENTS AT MASTERCARD EVENT DURING MONEY20/20"
     excerpt: "Serial fintech founder to address looming industry regulation and how AI can deliver more value to consumers and businesses  LAS"
     publishedDateTime: 2023-10-23T11:45:00Z
@@ -194,6 +224,6 @@ related:
       domain: insidermonkey.com
     quality: 17
 
-secured: "MrAw3i15dPG1cl/NdJiSGQW5GsXfPv9DB4FsLjb0vDUb2AvFIY6G+WFgP0Rrb4sjyRxUl74egbqmViCG5DIRfPc9wPatCGuXgTCZQ6yVCzPbuwHJX8SFyQtCMM+Vtx2emgZFfK4+zk55EAg9bRmnB6DNyWIdjy23z2T1Uy/I6FCDBoynZZKqmkF6E3nJoqnYvM0UEp+nYnwnib1GBDpv8Ke7aGhpQA7Mbq6v1xTMKNN3G5cPMTtISY2NXJipg4y0KyvMczUMYQM4VnY52dpdmGKiUCg58Xvn9MUgZY8QYcetRJvmrDaIxirU7dpSq4HF3868c51DOdEd7K9KT178v1qLIMfyXNrnnjg2lKSZYec=;iX7ZbCVzFRcwZ+3LDtOn+w=="
+secured: "C6ekLBiogMU7R+I0yTN5s5wmeSwVuvPAohEAJ4uG0bBHZnWa8I2h/YeTJW3sTReZ5XOvSRL7kzPHrtDy/bgekJg0c7VzvX0Aoe7M4z7cu9srLJXbvproXy57wgQnz6H0/SLT8I8GgMZ/SsLw6d/rJ2Tuiq9gXOvonEBFnpwV7jKQMT//AOxgOpbBTFCsXUMB7xECKRVT46MjO3YZy8LdmzoO6sUGk19hLtYxOjMqnHzRcVp5YMcqSDYib+y9Do26ZwAHbCFXOYrVmDIZg818TDDwNxwzT4fg4mQQh8gIqbw6u2aID+1dTpQsXfPpVx9QWXHBvURPuufXrFp/yCkDRB8sLc9nhrs/BIAwucTUG75rh8O9ASDh5RCFHV3fBaKPz75TRvHADek9WB7hBNUVNUcpFLb/z+aKy9Nk+O/RgAel+t+1WziMjqE8KJNpeKlZhZYL/NGHzWWJT7fyinZfXvzvaDOhOg7ZhJ3Zos2T4YGEzkcD6IOwZ6kCXNTzr/f8BXoSwNFtRczc/JArRFUdCw==;1kOrfZU9rO60dccPbbWRfQ=="
 ---
 

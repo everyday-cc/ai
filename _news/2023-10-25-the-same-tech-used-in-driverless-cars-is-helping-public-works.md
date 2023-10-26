@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works?_amp=true"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://ogden_images.s3.amazonaws.com/www.mauinews.com/images/2022/01/15052516/os-uhmc-driverless-AI-Racing-Tech.jpg"
         width: 600
         height: 399
+        isCached: true
+  - title: "Pilot programs put more driverless vehicles on the road"
+    excerpt: "Pilot programs promoting the use of artificial intelligence in the transport sector have made significant progress, Ministry of Transport officials said on Thursday, with the commercial operation of driverless vehicles being tested in Beijing, Shanghai and Guangzhou, and more smart roads being planned and built."
+    publishedDateTime: 2023-10-26T15:00:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202310/26/WS653a745fa31090682a5eaf61.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202310/26/653a745fa3109068cafee7bc.jpeg"
+        width: 720
+        height: 480
         isCached: true
   - title: "Regulators Suspend Cruise's Driverless Taxis From Operating In San Francisco"
     excerpt: "Driving Taxis The Department of Motor Vehicles has suspended permits that allowed robo-taxi company Cruise to operate in San Francisco. That comes after an incident earlier this month, in which one of the company's fully driverless vehicles hit and dragged a pedestrian."

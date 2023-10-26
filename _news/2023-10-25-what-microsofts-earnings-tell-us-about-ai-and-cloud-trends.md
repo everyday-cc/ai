@@ -328,7 +328,7 @@ related:
   - title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
     excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
     publishedDateTime: 2023-10-25T14:58:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca&region=ca"
     type: article
     provider:
       name: Proactiveinvestors
@@ -671,6 +671,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 42
+  - title: "Microsoft to help Rockwell Automation to leverage generative AI and accelerate automation design"
+    excerpt: "Rockwell Automation and Microsoft are expanding their partnership to accelerate industrial automation design and development using generative artificial intelligence. Microsoft’s Azure OpenAI Service will be added to Rockwell Automation’s FactoryTalk Design Studio to help users accelerate time-to-market when building industrial automation systems."
+    publishedDateTime: 2023-10-26T15:27:00Z
+    webUrl: "https://www.technologyrecord.com/article/microsoft-to-help-rockwell-automation-to-leverage-generative-ai-and-accelerate-automation-design"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 41
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4687/Rockwell-Automation-Microsoft-Photo.jpg"
+        width: 1920
+        height: 1028
+        isCached: true
   - title: "Microsoft took a chance by igniting the AI race, but it seems to be working out well for the company"
     excerpt: "The lesson from Microsoft's strong AI-fueled quarterly financial results is likely to push other companies to charge ahead on AI products, for better or for worse."
     publishedDateTime: 2023-10-25T19:32:00Z
@@ -699,6 +713,24 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Context Labs Deploys Platform on Microsoft Azure"
+    excerpt: "The Context Labs platform is now deployed on Azure, with its enhanced security and Azure OpenAI Service tooling, delivering customer value in the energy transition. The initial target markets for these solutions include various energy industry verticals, multiple energy transition segments and natural asset management for climate regeneration."
+    publishedDateTime: 2023-10-26T13:02:00Z
+    webUrl: "https://channelvisionmag.com/context-labs-deploys-platform-on-microsoft-azure/"
+    type: article
+    provider:
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
+    quality: 34
+  - title: "Microsoft CEO: AI Copilot Is the New Windows Start Button"
+    excerpt: "Microsoft has already integrated its AI assistant into Bing, Edge, and Windows 11 itself with Copilot. Credit: Microsoft Addressing Copilot specifically, Nadella said he sees it as the new Start button for Windows users. He means that when you sit down at ..."
+    publishedDateTime: 2023-10-26T14:45:00Z
+    webUrl: "https://www.extremetech.com/computing/microsoft-ceo-ai-copilot-is-the-new-windows-start-button"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
   - title: "Microsoft says AI investments already paying off"
     excerpt: "Wall Street is now laser-focused on how companies like Google and Microsoft will make money from AI. Why it matters: After nearly a year of hyping up AI, tech giants are facing greater scrutiny of their plans to launch expensive generative AI products and services."
     publishedDateTime: 2023-10-25T22:51:00Z

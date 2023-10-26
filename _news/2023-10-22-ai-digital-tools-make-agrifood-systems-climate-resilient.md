@@ -217,6 +217,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "Generative AI Is Generating Hype But Can It Generate Value?"
+    excerpt: "With investors looking for the next Nvidia, mentions of AI product roadmaps have increased on earnings announcements as warnings about the AI hype surge in response."
+    publishedDateTime: 2023-10-26T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/lawrencewintermeyer/2023/10/26/generative-ai-is-generating-hype-but-can-it-generate-value/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "TCS’ Obsession With Generative AI"
     excerpt: "TCS, the IT giant was catching up with generative AI, but now it has gone all in on AI in the last couple of months."
     publishedDateTime: 2023-10-23T06:30:00Z
@@ -291,6 +300,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
+  - title: "New Infosys Report Shows Generative AI Creates Enterprise Agility, Yet Data And Skills Threaten Progress"
+    excerpt: "The meteoric rise of generative AI in the last few months as a consumer tool has driven optimism about its transformative potential for businesses. This"
+    publishedDateTime: 2023-10-26T15:33:00Z
+    webUrl: "https://www.datanami.com/2023/10/26/new-infosys-report-shows-generative-ai-creates-enterprise-agility-yet-data-and-skills-threaten-progress/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 22
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/AI_shutterstock_Gorodenkoff.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Apple Generative AI Features and Smarter Siri Could Launch Next Year"
     excerpt: "Apple is developing a large array of features that use generative AI, according to Bloomberg's Mark Gurman. In his latest \"Power"
     publishedDateTime: 2023-10-22T12:52:00Z

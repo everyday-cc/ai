@@ -35,6 +35,15 @@ related:
         width: 1400
         height: 1050
         isCached: true
+  - title: "OSU’s Fisher College Launches Fintech Micro-Credential"
+    excerpt: "COLUMBUS, Ohio – A new graduate credential offering from The Ohio State University’s Max M. Fisher College of Business is preparing professionals with introductory-level knowledge of the emerging financial technology that organizations are using to improve and automate the delivery of financial services."
+    publishedDateTime: 2023-10-26T08:52:00Z
+    webUrl: "https://businessjournaldaily.com/osus-fisher-college-launches-fintech-micro-credential/"
+    type: article
+    provider:
+      name: Business Journal Daily
+      domain: businessjournaldaily.com
+    quality: 4
   - title: "Michigan fintech accepted into global accelerator from Amazon subsidiary"
     excerpt: "Tiicker Inc.’s recent acceptance into a global financial technology accelerator program will help raise more awareness and position the Grand Rapids-based startup for growth."
     publishedDateTime: 2023-10-24T09:29:00Z

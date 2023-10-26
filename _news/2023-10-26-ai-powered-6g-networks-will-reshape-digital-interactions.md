@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/10/26/1082028/ai-powered-6g-ne
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/26/1082028/ai-powered-6g-networks-will-reshape-digital-interactions/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon’s AI-Powered Van Inspections Give It a Powerful New Data Feed"
-    excerpt: "Amazon delivery drivers at hundreds of sites around the world will be asked to drive through camera-studded archways that log every dent, scratch, or damaged tire."
-    publishedDateTime: 2023-10-24T11:00:00Z
-    webUrl: "https://www.wired.com/story/amazons-ai-van-inspections-powerful-data-feed/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/653712f92b2e9e5034c69df4/191:100/w_1280,c_limit/Amazon-UVEye-AI-Scan-Business.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "AI-powered 6G networks will reshape digital interactions"
     excerpt: "The convergence of AI and communication technologies will create 6G networks that make hyperconnectivity and immersive experiences an everyday reality for consumers."
     publishedDateTime: 2023-10-24T16:16:00Z
@@ -50,6 +36,6 @@ related:
       domain: technologyreview.com
     quality: 17
 
-secured: "wd5P0W9FnXn5z7eQcE1FtE55LqdlaOFNZkVfQFW13Ey0oSUmnEWlzsla0xkdShVeJc6RzpXDznCyc6FpVP7qIJGBmyj1BXsDNhpBNfDb5sJk6kwa+YlsAWry0/Q/HXUPwNm0XYES0JR7e6IVXilqOjXORuWWn1RvvGpt5lM6vpr48cxGNdiWqIw71TTtwHEceCLeQUKAdK4AsCBUPh9s95GsPEkBnakFo65HIT4bXLqks27V9ruQxqw4G2HCkBzZwNlLMSrMeyhF5BRZcSHWSxaSPNNshU9PwPYu5zCrHiN0xT48Mwk69l8V4qvFrSKxF7YRX7yMp7qEhCcP1jrfh++Hf79AZ06XlNHN4Xy09cE=;dLbqUCsf3ERcomedzeV+1Q=="
+secured: "tzWRCAI1zrZsYc5sqmQT4Q4Wz19sUMBaobV2zm6JO4e0qSq97UrwW2V3SSPKWCXAeOzabAEsm6f7s2qsXC0BwnWqp0KvgR8sCzISfcafUFrE9fvlQoZa/VKwUs/8l9UHcWcGATUeFF50UH0rq/FcEGvBZMrmJkc8pj4mjlcKA7pPob7JhowIfaOtyavbtZGmnzXJUw+pk1et8klYA3xQh27j1zss4OvdzPsNuz9/1GcvMqpD2e5KWO1d9Mip6E+BNfzyjvMhVB4WZ8K3uFSATJgDCNuLjIjdg2S4CesIWi2n6TJyPBt0dP79QXMahN3CubPTFAByfWsXskN9wJ/sFXJ4I35rrB3MGIW+ijDvQyb24pWGHM4eBFNlhnZ2BK/IzydzGsndeJixokj3Yor9BMLbAWAbfEdXG7iV70vH+xLT3kgxGbvJ+Ew38ye1BNu1yPj2qyiSwhyAqzluSEP1Vr8MFDI8aDLE28deQDVY7epESwLY1FHUMqyPndGjCkFK1YIWJMxVgYsDaGlhL7EHJw==;Ki0ve50Lt7SNdH12RFlAsg=="
 ---
 

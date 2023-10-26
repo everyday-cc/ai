@@ -46,6 +46,15 @@ related:
         width: 649
         height: 400
         isCached: true
+  - title: "We Need To Address The Ethics of AI in Video Games"
+    excerpt: "It's time to strike a balance between the remarkable potential of artificial intelligence and the ethics of AI in video games."
+    publishedDateTime: 2023-10-26T13:44:00Z
+    webUrl: "https://www.techopedia.com/ethics-of-ai-in-video-games"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 34
 
 secured: "BILd/QJaLhai8X2Xc9w8vQFKBADDU9KvVyqaovh7WUI48pOaUaIR4O8VUTHbtzOFqyHeDb1N0oLCWebWsqu+sl63gcOwRhbQSpco9UQ9ltUZYGr/dPB7XGcRozPDOhuuk6JI3vAzbZ6nyfHQN1rQ+/qnl2pf+kOJ/Dm0Y6f9JG1aNx5N+GMTq5V303AwST0Ct2SXvqxmneZmhTmML6oOjaHF+lvDGU+hp81uPvy3kkxu9RVP+8BNragcw8NFM6Rtdp70e4BW5Ll8C+fnzNTk/CAvlyP5Zer0bqN2OxSVYqbvTQvGRNn5Ae+PdCa3T3eXpSglnm5hSCQnTq9qplXDC4qW6kgRL+GlZ3EdJ7nLUvA=;Ss06XPWi/mu7j7wsXp/Uhg=="
 ---

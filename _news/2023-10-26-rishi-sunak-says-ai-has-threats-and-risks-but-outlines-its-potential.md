@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Rishi Sunak says AI has threats and risks - but outlines its potential"
-excerpt: "He said the UK's approach should be proportionate while also encouraging innovation. But Prof Carissa Veliz, associate professor in philosophy, Institute of Ethics in AI, at the University of Oxford, said unlike the EU the UK had so far been \"notoriously ..."
-publishedDateTime: 2023-10-26T11:17:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-67225158.amp"
-webUrl: "https://www.bbc.co.uk/news/uk-67225158.amp"
-ampWebUrl: "https://www.bbc.co.uk/news/uk-67225158.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-67225158.amp"
+excerpt: "Mr Sunak said among the risks outlined in the report was that AI could be used by terrorist groups \"to spread fear and disruption on an even greater scale\". Mitigating the risk of human extinction from AI should be a \"global priority\", he said."
+publishedDateTime: 2023-10-26T11:32:00Z
+originalUrl: "https://www.aol.com/ai-risks-bio-weapons-jobs-094202449.html"
+webUrl: "https://www.aol.com/ai-risks-bio-weapons-jobs-094202449.html"
 type: article
-quality: 59
-heat: 89
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: BBC
-  domain: bbc.co.uk
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10D45/production/_131533986_sunak-top-pa.jpg"
-    width: 1024
-    height: 576
-    isCached: true
 
 related:
   - title: "AI dangers must be faced ‘head on’, Rishi Sunak to tell tech summit"
@@ -69,6 +61,6 @@ related:
       domain: ft.com
     quality: 14
 
-secured: "TAFY2PHh6gJE8JVAAjfXan50OerX5DgXI9/1K3Of5DENaEOBcuaBkBBFm2iHKRx/whP1f7urOdeqwrWsEX09yWcFTQXYTnt50A4VJLJN+QQ9S4YbBrh2MrRjmbG78YJEe+Dud4UBiDPWjWopTU/uih7nV7wm2wwNvxc3MVU5qkAZKm7MJiI7MOf6FwuO+FWX554dhdCVr2xMm8jv3ZGQs36Tp/iGGNF9R8S8r1/adQPbKNuRWAFLgg0a4qvuWjW8vN6SgOmW027WXXQnhX4Q8T46mmkBBhVG/+qSwNPdtRnn+9wLl+Lo0oFNxP5jaO72a2QYThL4Q9AqaAal/lzS1ACFwakn1woaTZp8w+QYEFE=;PBrTjBb1VDrwI/tO3ZyqYA=="
+secured: "W5YQwGs7TpoRK6BUz+rWCj+kCc7+d1b+3deqGTUlrBSFj1KtPNNp2DWX86mRbD1Noz3VvMKWgu6c45mAg3HfKk9ccaymQ62m/PhgVOaTA8QRq1fHBB/RaTifezlmwGPd7tVkql57kPBXWJSEhQojI1bYOIqClqOXnkz6N7yaURCl5WEepHpRHAzIOeZLAaaZGOBe8dbdcNPt2N48f1azmZJePRbQPwFNtWpmtZHxajTmSmqV9GktGgDgYSKhurOACV48UMus4lKeVrobB2h+eZ7xktEHd+G4a1ljG9a83Cy/fc1Z46yBzCdBYCL5qzR9oILKaytcXUor+C1Jgmh8/AJEc2NANbsAhXAzD3ikRhk=;3/2KVAa4ATWpoE3v//tYhA=="
 ---
 

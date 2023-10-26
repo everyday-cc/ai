@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/articles/c51jzy42p19o.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/c51jzy42p19o.amp"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -117,6 +117,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Essex Police facial recognition technology op in Southend"
+    excerpt: "Three people have been arrested, including one on suspicion of rape, as police used facial recognition technology in two Essex high streets this week. Live Facial Recognition technology was utilised for the first time in Essex in Southend High Street on ..."
+    publishedDateTime: 2023-10-26T12:51:00Z
+    webUrl: "https://www.echo-news.co.uk/news/23881211.essex-police-facial-recognition-technology-op-southend/"
+    type: article
+    provider:
+      name: Echo news
+      domain: echo-news.co.uk
+    quality: 19
 
 secured: "yeT1meNrChd4/4QmHY4IYoSc7Sltq22YjIh/lcxCSJNaJ/MdhKNsmeCS/JSLXEcfejcmo8PuBrRZ3s9xuU/aIJAf3Q0oCXKg8vAh10bb8gS0tJ4AU0UySMAiW/yu0WG0gHoBECY2rn/HxdeLruqwzdLU//rJGvw1Z1D/necQVCDel0SCSTesodt4ZNNVwRd2BDsNWN5bawkSy377xTxnoZjcJ6njORdm/RMXzRix9uaY7Eg/61KC60fEDpM1dWAaUJuld1Avxzd6csPY6wiPrLM5FRhB6OAynMPaldGcFKcyiVr374vSN3fKQK9lWj7lrdE0NrqeUGL8TFq9AVHyGHFzSxg/DKiDR/SB7VTRx8g=;hjrpMgbGPW8393VHd9nU2A=="
 ---

@@ -2,6 +2,230 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-09-22-amazon-to-run-ads-with-prime-video-shows-unless-you-pay-more.md",
+      "title": "Amazon to run ads with Prime Video shows — unless you pay more",
+      "excerpt": "If you want to watch Amazon Prime Video shows and movies without advertisements, the service is about to get more expensive — about $3 more per month, or $36 a year. Amazon on Friday said it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/amazon-prime-video-ads-subscription-increase-for-no-ads/",
+      "originalUrl": "https://www.cbsnews.com/news/amazon-prime-video-ads-subscription-increase-for-no-ads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/05/21e663bc-051f-4128-803b-058a35deec24/thumbnail/1200x630/97749d2596f4a8ce8671abfb176985b4/gettyimages-1242123707-prime-video-channels-amazon-prime-day-2023-streaming-deals.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/amazon-prime-video-ads-subscription-increase-for-no-ads/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amazon-prime-video-ads-subscription-increase-for-no-ads/",
+      "publishedDateTime": "2023-09-22T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-natural-language-processing-nlp-market-worth-681-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
+      "title": "Natural Language Processing (NLP) Market worth $68.1 billion by 2028 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "The deep integration of NLP with AI, enhanced comprehension of human language, and proliferation of applications across numerous",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-nlp-market-worth-68-1-billion-by-2028---exclusive-report-by-marketsandmarkets-301935892.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-nlp-market-worth-68-1-billion-by-2028---exclusive-report-by-marketsandmarkets-301935892.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
+          "width": 666,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-3-ways-ai-can-help-communities-adapt-to-climate-change-in-africa.md",
+      "title": "3 ways AI can help communities adapt to climate change in Africa",
+      "excerpt": "Last week at the inaugural Africa Climate Summit (ACS) in Nairobi, Kenya, we joined African leaders and shared our commitment to advance AI solutions to address the clim…",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-africa/3-ways-ai-can-help-africans-adapt-to-climate-change/",
+      "originalUrl": "https://blog.google/around-the-globe/google-africa/3-ways-ai-can-help-africans-adapt-to-climate-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales.md",
+      "title": "Step Up To The Plate: 6 Tips To Leverage AI For A Grand Slam In Sales",
+      "excerpt": "In this game, AI isn't just part of the team; it's the MVP that ensures your sales strategy always brings you home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650ca351b274591a581ff99d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/amp/",
+      "publishedDateTime": "2023-09-22T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-grand-theft-auto-holds-the-key-to-self-driving-revolution-in-five-years.md",
+      "title": "Grand Theft Auto holds the key to self-driving revolution in five years",
+      "excerpt": "A Scots scientist behind the project says cars, taxis and buses could be ditched for self-driving machines using artificial intelligence by 2023. While US companies such as Tesla are developing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.heraldscotland.com/news/15901630.grand-theft-auto-holds-key-self-driving-revolution-five-years/",
+      "originalUrl": "https://www.heraldscotland.com/news/15901630.grand-theft-auto-holds-key-self-driving-revolution-five-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.heraldscotland.com/resources/images/7329226/?type=og-image",
+          "width": 752,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "heraldscotland",
+        "domain": "heraldscotland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-face-recognition-systems-industry-2023-market-research-with-size-growth-key-players-segments-and-forecast-till-2030.md",
       "title": "Face Recognition Systems Industry - 2023 Market Research with Size, Growth, Key-Players, Segments and Forecast Till 2030",
       "excerpt": "Global Face Recognition Systems Market (2023-2030) research report helps to recognize the market challenges and opportunities. Global Face Recognition Systems Market report contains the recent ...",
@@ -942,238 +1166,6 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-how-to-safely-integrate-large-language-models-into-health-care.md",
-      "title": "How to Safely Integrate Large Language Models into Health Care",
-      "excerpt": "that encompass natural language processing. Large language models are a specific subset of machine learning designed to understand and generate human language by enabling computers to convert language and unstructured text into machine-readable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aei.org/articles/how-to-safely-integrate-large-language-models-into-health-care/",
-      "originalUrl": "https://www.aei.org/articles/how-to-safely-integrate-large-language-models-into-health-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Enterprise Institute",
-        "domain": "aei.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-nasas-mars-rovers-could-inspire-a-more-ethical-future-for-ai.md",
-      "title": "NASA's Mars Rovers Could Inspire A More Ethical Future For AI",
-      "excerpt": "Since ChatGPT's release in late 2022, many news outlets have reported on the ethical threats posed by artificial intelligence. Tech pundits have iss",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107113753/NASAs-Mars-Rovers-Could-Inspire-A-More-Ethical-Future-For-AI",
-      "originalUrl": "https://menafn.com/1107113753/NASAs-Mars-Rovers-Could-Inspire-A-More-Ethical-Future-For-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-09/21/TC_b1ba0image_story.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-how-to-use-operas-built-in-ai-chatbot-and-why-you-should.md",
-      "title": "How to use Opera's built-in AI chatbot (and why you should)",
-      "excerpt": "Using Aria is very simple. Click the Aria icon (it looks like a white A in a purple square) in the sidebar. This will open Aria, where you can type your prompt at the bottom right of the screen. Aria will take a moment and then display the results of your prompt in the sidebar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-to-use-operas-built-in-ai-chatbot-and-why-you-should/",
-      "originalUrl": "https://www.zdnet.com/article/how-to-use-operas-built-in-ai-chatbot-and-why-you-should/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/38f48cbb98b0a35aa492d917631e58f4592958fc/2023/09/21/2bbdef98-30e3-4dcc-9b07-18765fac0f85/metaverse-gettyimages-1367338352.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-use-operas-built-in-ai-chatbot-and-why-you-should/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-operas-built-in-ai-chatbot-and-why-you-should/",
-      "publishedDateTime": "2023-09-21T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-how-united-airlines-built-a-cost-efficient-optical-character-recognition-active-learning-pipeline.md",
-      "title": "How United Airlines built a cost-efficient Optical Character Recognition active learning pipeline",
-      "excerpt": "In this post, we discuss how United Airlines, in collaboration with the Amazon Machine Learning Solutions Lab, build an active learning framework on AWS to automate the processing of passenger documents. “In order to deliver the best flying experience for our passengers and make our internal business",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-united-airlines-built-a-cost-efficient-optical-character-recognition-active-learning-pipeline/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-united-airlines-built-a-cost-efficient-optical-character-recognition-active-learning-pipeline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/08/ML-13977-02-903x630.png",
-          "width": 903,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T09:53:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-optimize-generative-ai-workloads-for-environmental-sustainability.md",
-      "title": "Optimize generative AI workloads for environmental sustainability",
-      "excerpt": "To add to our guidance for optimizing deep learning workloads for sustainability on AWS, this post provides recommendations that are specific to generative AI workloads. In particular, we provide practical best practices for different customization scenarios, including training models from scratch, fine-tuning",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-generative-ai-workloads-for-environmental-sustainability/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-generative-ai-workloads-for-environmental-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/11/Optimize_generative_AI_workloads_for_Sustainabilit_11092023_1-1.png",
-          "width": 906,
-          "height": 412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T09:48:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

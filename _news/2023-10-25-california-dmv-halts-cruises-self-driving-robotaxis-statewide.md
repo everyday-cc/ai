@@ -129,6 +129,15 @@ related:
       name: cbtnews
       domain: cbtnews.com
     quality: 4
+  - title: "The Cruise robotaxi reckoning highlights tensions over self-driving cars and how we regulate them"
+    excerpt: "The DMV suspended state permits for autonomous vehicle operator Cruise, saying the company omitted key information about a collision that injured a pedestrian."
+    publishedDateTime: 2023-10-26T13:44:00Z
+    webUrl: "https://www.latimes.com/california/newsletter/2023-10-26/the-cruise-robotaxi-reckoning-highlights-tensions-over-self-driving-cars-and-how-we-regulate-them-essential-california"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 0
 
 secured: "0CnN8Sott6I7XTMfNuNy6lDeT5SvlcM0WcfSwMAbzUautiuZzbHaNDT5PbtPrrxS6RLjpAnF8lm/tp8erYjzx8VaklgUxOqFgOy2F7QQUPkW6vrSUEhCwm97tqnG2NzQPR9nTdeg/xNzjdwWSCAq6Bgh3zRlvLqUSYvAwK1/mNC8Oo9/RVZWL/dRW8lSz7Xfzg/RRTWufWXPWzG70AqHC8/z2rEF8mt4o3qZYJS30IPUyrDFLOXvS0fPnPkb3KJMaj+U4nqJU5E+xzMdXPkLg00zJMFNbiSKrH+Q/1CvskVap8Wy5X8V0spxeOHrnoje2NbOOeiS6V0z9cARHNiUkqEmT32Zv7cLoV+uxiv8Ikg=;PQJuQNd1aJ30QlZjK75xKQ=="
 ---

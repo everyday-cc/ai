@@ -56,6 +56,20 @@ related:
         width: 1280
         height: 717
         isCached: true
+  - title: "DBusiness Daily Update: Sharrow Propeller Named to Time’s Best Inventions of 2023 List, and More"
+    excerpt: "Our roundup of the latest news from metro Detroit and Michigan businesses as well as announcements from government agencies."
+    publishedDateTime: 2023-10-26T14:53:00Z
+    webUrl: "https://www.dbusiness.com/daily-news/dbusiness-daily-update-sharrow-propeller-named-to-times-best-inventions-of-2023-list-and-more/"
+    type: article
+    provider:
+      name: DBusiness Magazine
+      domain: dbusiness.com
+    quality: 26
+    images:
+      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2023/10/UpdateSharrow800.jpg"
+        width: 800
+        height: 610
+        isCached: true
 
 secured: "wthWGSkWnxm4qiHCu9DP1AcKb3VIEILpeHB2Lh2yni1MQAAWHBmagPixqi8nPduNs/Tc211ULVBgu0iZvi+2zS3OGLpYXImOwxvX2UcN+GLXv1gnQ5401hEfAkZfQnCG0Ohb3JMXfdPG0Hu/eH0lq8+Lv8ZFfFHoa9nahIL/0egX0OLb/4wBAnyjWSdcDjGMMBhgRCSdA37SaYvg+nDUkPQan1o2L2vYHTwiq1bKjAdSEFSV7VrflmBXMt72mKAPUPjfKUI4a0LwhxlptOXjAOKNQaeBxx6vJ9NOBuzBvBQG2+J2Qx4DmLHi6uCcaS5arb9XqBWdbWaBZV+uGqcDP9qu19UMAVgd/KmkIKovZ+k=;Qni6fSbHCzF0rI63fD7wMw=="
 ---

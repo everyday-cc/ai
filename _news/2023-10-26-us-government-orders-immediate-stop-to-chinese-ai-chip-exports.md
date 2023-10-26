@@ -137,6 +137,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why Nvidia Is Still the AI Chip Champ Despite U.S.-China Tiff"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) has been a darling of the stock market throughout"
+    publishedDateTime: 2023-10-25T19:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-is-still-the-ai-chip-champ-despite-u-s-china-tiff-1032740345"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "US tells Nvidia to immediately cease AI chip exports to China"
     excerpt: "US chip giant Nvidia revealed that the US government has instructed it to immediately halt the export of certain high-end artificial intelligence chips to China."
     publishedDateTime: 2023-10-26T09:52:00Z
@@ -151,6 +160,15 @@ related:
         width: 1252
         height: 704
         isCached: true
+  - title: "US tightens rules on AI chip sales to China in blow to Nvidia"
+    excerpt: "US tightens rules on AI chip sales to China in blow to Nvidia on facebook (opens in a new window) US tightens rules on AI chip sales to China in blow to Nvidia on linkedin (opens in a new window)"
+    publishedDateTime: 2023-10-26T13:23:00Z
+    webUrl: "https://www.ft.com/content/be680102-5543-4867-9996-6fc071cb9212?sharetype=gift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 51
   - title: "Nvidia Says U.S. Speeded up New Export Curbs on AI Chips"
     excerpt: "(Reuters) - Chip designer Nvidia said new U.S. export restrictions blocking the sales of its high-end artificial intelligence chips to China had gone into effect on Monday after regulators advanced the timeline on the curbs from its 30-day period."
     publishedDateTime: 2023-10-24T13:25:00Z
@@ -191,6 +209,15 @@ related:
     provider:
       name: The Guardian
       domain: theguardian.com
+    quality: 34
+  - title: "US Government Orders Nvidia to Halt AI Chip Shipments to China"
+    excerpt: "The US government has instructed semiconductor designer Nvidia to cease the shipment of certain high-end artificial intelligence chips to China, according to a company filing disclosed on Tuesday."
+    publishedDateTime: 2023-10-26T13:21:00Z
+    webUrl: "https://www.tasnimnews.com/en/news/2023/10/26/2978558/us-government-orders-nvidia-to-halt-ai-chip-shipments-to-china"
+    type: article
+    provider:
+      name: Tasnim News Agency
+      domain: tasnimnews.com
     quality: 34
   - title: "Nvidia said the U.S.'s new AI chip restrictions have already taken effect"
     excerpt: "New rules restricting Nvidia from selling even the chips it designed for the Chinese market in the country have now taken effect."

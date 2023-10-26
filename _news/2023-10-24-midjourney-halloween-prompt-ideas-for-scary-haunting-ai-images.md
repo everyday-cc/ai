@@ -23,6 +23,17 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "Airbnb using Artificial Intelligence to crack down on unwanted Halloween parties"
+    excerpt: "The company says its state-of-the-art system works to prevent certain higher risk one and two night whole home bookings."
+    publishedDateTime: 2023-10-26T13:32:00Z
+    webUrl: "https://longisland.news12.com/airbnb-using-artificial-intelligence-to-crack-down-on-unwanted-halloween-parties"
+    type: article
+    provider:
+      name: News 12 Networks
+      domain: news12.com
+    quality: 27
+
 secured: "SDxou+QzxwuuQVZBEWqdAGERWVL0eZZX2mbUnZiQAG45YtxENhj+hWyRJEvAwdKPdPl/aVOrWg4MQT+ZrLWaNWC/3Xev/prVK5iv61Z4xUMak+2bOIzkh6QBG52QWjLfPiEM+rp6JSnmLSr3Bhf4tUdS4G859OCmIF+Ax9ZYXwVB9kv6AxEFlVBJmCM6u4PHeSZQUKBy2wezbngObJXM+Me6RmkKLt+zUrrZN6PVav4CXaqrAFv0ajzcyfjE52N+phwRV3Bs3bbqXPnVyke4i9ecMTyL8N8ATE1LRyFlDWXNyv51ubOlvtTJy+Y8bG+cK7dsgXQ7ag2hGs0/HC5jVK+ROaksQcAB7lKSftl+9Qw=;avQjYhr+HH0QPF7SdLTSEw=="
 ---
 

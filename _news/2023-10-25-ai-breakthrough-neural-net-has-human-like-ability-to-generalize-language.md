@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI 'Breakthrough': Neural Net Has Human-Like Ability to Generalize Language"
+    excerpt: "A neural-network-based artificial intelligence outperforms ChatGPT at quickly folding new words into its lexicon, a key aspect of human intelligence."
+    publishedDateTime: 2023-10-26T15:04:00Z
+    webUrl: "https://cacm.acm.org/news/277576-ai-breakthrough-neural-net-has-human-like-ability-to-generalize-language"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
 
 secured: "rVkUvWnVKhg1lqqPjL466Io0Y7uBsF5m9cWV1HV3qfjZAmfTHXqxXVupdsPxli5mO3C4ku7t5934olk44ksQW6e2ir9bPNSimRvlAJPdvqeJENThqXfxYXifefUW557g/hUDnaO52uG+ddqiBd4UouqPMSF9ndu/UYUUKAau4FVabAf2HuMeNQMVJmC1NB+6E7L/5P2htbovbG8fcJHbssJOuTOpuNAMezPVw+asfS0epI5SZEqMe4FZh2DBoaLEFoCbb9D/MIZ1nODwZYYOdHzYUozSMYB6PGeQD/pTX/VjhfTfyYG3D7HLWBbr2TBRItIWGMKqE43VGeXHaGEYUyijLBmjT8JR+ZfsWsXF04laHS/sjb8VIsWtSXazf+7NC57Qjawj3bd77WEvdt16QUQHHKHykBHcuiif1wEMgnqz/jgxPyQ2M6329vroFH0aku8vrqPobjKCaK8uvlMZhZiNJwwfYLJuFb4AE2GlFjRcDc1l9NGrJtOt8BcfLCeHDnBK/OvWyGfJqSeUipAt9Q==;rkE09U3z+8HHGpwk3NhC7w=="
 ---

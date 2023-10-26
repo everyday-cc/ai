@@ -125,6 +125,15 @@ related:
       name: https//carbuzz
       domain: carbuzz.com
     quality: 4
+  - title: "The Cruise robotaxi reckoning highlights tensions over self-driving cars and how we regulate them"
+    excerpt: "The DMV suspended state permits for autonomous vehicle operator Cruise, saying the company omitted key information about a collision that injured a pedestrian."
+    publishedDateTime: 2023-10-26T13:44:00Z
+    webUrl: "https://www.latimes.com/california/newsletter/2023-10-26/the-cruise-robotaxi-reckoning-highlights-tensions-over-self-driving-cars-and-how-we-regulate-them-essential-california"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 0
 
 secured: "XvYGOpJ15BjdF+qnxn2AL0qsyzP839m1ENGmtc/jKTr5RLaVy4edHtUhM3sJozH0Q43hSMfdXgsozVNSEjHS2E2WKopzl5yRljKEHtWCSP0sQHdJunXSt0i8qkZhDRsdU/cctEMQ45Ld9RJZqhqMctiy2uqnsN2ARckMBZEjPhNJXWqaT48J0FWpOMh0c9xhDy/pyladtmOXdad+E1n/D/XF5OmY2VL8a+JvUUNutAFf4RTmyhj8Zb30H1Gqdg9T2Jb6aDWmjEbkPF2V3BMSpumUzTs7MdaOmISu60yeU4Gdv5dvkR7bqy8pJqlQ3AwyF2jvGEaIaW+KYY/QaAzdgpmzGAltMhyD/xTH2b5/L2c=;oidLjI9h9E5dEAIhbCbcxA=="
 ---

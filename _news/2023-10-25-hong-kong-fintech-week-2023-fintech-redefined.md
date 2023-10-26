@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Hong Kong FinTech Week 2023 “Fintech Redefined”"
-excerpt: "Organised by the Financial Services and the Treasury Bureau (FSTB) and InvestHK, and co-organised by the Hong Kong Monetary Authority (HKMA), the Securities and Futures Commission (SFC) and the Insurance Authority (IA), HKFW is set to attract more than 30 000 attendees and garner over 5 million online views from more than 90 economies."
-publishedDateTime: 2023-10-25T11:56:00Z
-originalUrl: "https://www.globalbankingandfinance.com/hong-kong-fintech-week-2023-fintech-redefined/"
-webUrl: "https://www.globalbankingandfinance.com/hong-kong-fintech-week-2023-fintech-redefined/"
+excerpt: "Invest Hong Kong (InvestHK) today (October 18) unveiled details of Hong Kong FinTech Week 2023 (HKFW). The eighth edition of HKFW, themed \"Fintech Redefined.\" will take place from October 30 to November 5."
+publishedDateTime: 2023-10-25T13:35:00Z
+originalUrl: "https://financefeeds.com/hong-kong-fintech-week-2023-fintech-redefined/"
+webUrl: "https://financefeeds.com/hong-kong-fintech-week-2023-fintech-redefined/"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: List of Banks in Belarus
-  domain: globalbankingandfinance.com
+  name: financefeeds
+  domain: financefeeds.com
 
 topics:
   - AI in Finance
@@ -66,6 +66,6 @@ related:
         height: 600
         isCached: true
 
-secured: "TZUMuiLBdj+TodYiBWMS4Cb54xmOZYI8wGsdGjLKP1gIb2F1RHnM23lz8+QywVtWNhxk293wgXNv5/iulBP/cNPSzAxZoGKUfb1AU49k2uZ6JOqsdnrL/9M4jyMK2iuAPkxPHHB88+nAto30dx5Iw+eEPjwhNnnpa7qKZBDfcCpaQIBnd4pKhSQaKzckC2meuvbSxJ36q5y2m9S2e+41+Z4mW4fnEvkghXijjWQ5T9O1MEIbNt1yQkr3Q469JucdOCnTcqGVz88XGGWJh2G3F0EGbJzaShh9upD1/RAnxcQOJuEmpwqUe4/VCg4kGPDhfYncwgIsk6UsvbQCgqDpZnR8tNDT8wre/JhOgIAugTO0+TXOBvFkKGsVF5g8NQ6pati521lH8d+g6CDxE7AZK1mSgOo773sdnN3C0Oycw8VZHjhlBK1VnEs3Lo/AGtC2/5H9QISAYso8aQxcyZtQsMKlj0cIH4vYyShZFEUtWvmdU6VVp0q17gvntnfz/CQEBst/52IoU9J0Wqsr3KDwJA==;2yulGkucWp96CDIDMyXA1Q=="
+secured: "/0D4hmQ5+6aCD1eIzPe8qQqPGrgVYS9FTilT1uIX8cAAX2Au1MDf8S5hU1M/Ux3JnLzcZet+bS8ij1OSzrfqrQ6ejCs/eXxQPWZugPdb+T6d8DTbPhnVQND9yFkuayG3azSuZpTZw2DXGob+FAka30q68waw+GLhyzSCdtNiNeC6VN1jEA89RG/FAOfXo6YiBNUn0QAY4tH2aqJUg8MxGcPjVPJeEogacJtDRPZtKMNgHKVEHQs1Ef7qJ/qrERFPMX078E1MArZ9QGkF0dAYXm5gu8M4T2wPpXqGleBaxPMs8JrdjpVWnsgQunJIb4wdtPCLEgByjo049GiAOw9Osktd2+vmU/JG2QMm/+WAzx6bNXND1QFpT/i7pbLG9Jb2DfW/0tPUOdtcXwCyxya3nFFEcHCFZnqoMAB64qtKnk+pwM8VTfZwBff2miPek/uuMF44fclNzmu+uLAAxxAMq+H6Eb3Eopbok0GeapUokDCGYAsZ0ieK2DCvmI4kaWssr5v+pX/ZqURkRFfGP/885w==;OCDpNmk5BwBkr+SU5oMpAQ=="
 ---
 

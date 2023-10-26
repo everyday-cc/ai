@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vision via sound for the blind"
+    excerpt: "Smart glasses that use a technique similar to a bat's echolocation could help blind and low-vision people navigate their surroundings, according to researchers."
+    publishedDateTime: 2023-10-25T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231025223433.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
 
 secured: "uPc4Nyb5wNClCk4sr5NYi9+asB6gcAZ+4W5iyJaFUgn0w1BGE8HnzFfLA36AbhjbmTqA/XUQf7YOpBUgcASS5ySAItbEB/L4eQ7gKW5QIMhM79QKD0EMAKyD3QhSVCKIu5C1VM9AzwuXzDIbzhKHcgZWsUATJBQ2xRxHEguV7rnl39QpY8V8+zBqIQvebBa5ZcilzFNbhGZo7Yr0PbA47UBjyUcKNKglCWC1I3/FhMSqaMOjZVuVHU5250HdrAO861Ux9tvMxSAX5oF0O41dUxQx28QyYn6K9b0RNA0mO0eC16/1O73AMirpvY75hKHmGAsSRNKIVhFn0/8zjOnkIBFmBOfjygNETjy0idKb9eus7EsQ69nsFa5M/pSzyDxB2V8HhrCp63VaBjSED0M+fQBUYS7P9kb2qdYK+SJAJLQB0JETBIiIX5CFPeu8yptbkbXvVKdR8TWvf7tsLa8hSrkM0X+JpYsd6RhcuWFJYLGVoj0BrJw22uaoJe1AGhKjeE9wEmxFb39xatep5otlfw==;2NB2Kc+7qYl2UrDgFXJpEQ=="
 ---

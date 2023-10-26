@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "We Need To Address The Ethics of AI in Video Games"
+    excerpt: "It's time to strike a balance between the remarkable potential of artificial intelligence and the ethics of AI in video games."
+    publishedDateTime: 2023-10-26T13:44:00Z
+    webUrl: "https://www.techopedia.com/ethics-of-ai-in-video-games"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 34
   - title: "Basis Secures $3.6 Million to Bring AI to Accounting Firms"
     excerpt: "Basis is an AI platform for accounting firms. Basis sits alongside existing software and gives accountants a team of AI assistants to streamline workflows, helping firms improve the quality and efficiency of their work. The company was founded in 2023 by Mitchell Troyanovsky and Matthew Harpe."
     publishedDateTime: 2023-10-23T21:09:00Z

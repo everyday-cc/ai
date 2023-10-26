@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2023/10/22/meet-the-defiant-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/10/22/meet-the-defiant-ai-sex-robot-starring-in-a-new-action-thriller-comic/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/4e/44eb6900-d3c7-57bf-a0c5-fe2d0078bc1d/6524a0f5c1871.image.jpg?crop=1080%2C567%2C0%2C101&resize=1080%2C567&order=crop%2Cresize"
         width: 1080
         height: 567
+        isCached: true
+  - title: "Put artificial intelligence on the ballot"
+    excerpt: "Similarly, the 2006 midterm theoretically amounted to a vote on the Iraq War. If Congress rushes to regulate artificial intelligence, then the upcoming election could, in part, be a proxy election on that AI policy. Given the potential of AI to upend our ..."
+    publishedDateTime: 2023-10-26T13:56:00Z
+    webUrl: "https://www.thetelegraph.com/opinion/article/put-artificial-intelligence-ballot-18449412.php"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: thetelegraph.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/72/10/23831100/3/rawImage.jpg"
+        width: 595
+        height: 429
         isCached: true
   - title: "The Computing Pioneer Helping AI See"
     excerpt: "Alexei Efros has spent his career learning how machines see differently from humans. Now he’s helping to bridge the gap."

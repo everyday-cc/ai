@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/1005961"
 webUrl: "https://www.eurekalert.org/news-releases/1005961"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deep learning speeds up galactic calculations"
+    excerpt: "Supernovae, or exploding stars, play a critical role in the formation and evolution of galaxies. However, key aspects of these phenomena are notoriously difficult to simulate accurately in reasonably short amounts of time."
+    publishedDateTime: 2023-10-26T14:00:00Z
+    webUrl: "https://phys.org/news/2023-10-deep-galactic.html"
+    ampWebUrl: "https://phys.org/news/2023-10-deep-galactic.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-deep-galactic.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-speeds-u.jpg"
+        width: 1280
+        height: 1027
+        isCached: true
   - title: "Deep learning speeds up galactic calculations - A new way to simulate supernovae may help shed light on our cosmic origins"
     excerpt: "Supernovae, exploding stars, play a critical role in the formation and evolution of galaxies. However, key aspects of them are notoriously difficult"
     publishedDateTime: 2023-10-26T01:54:00Z

@@ -50,6 +50,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Only 9% Of Surveyed Companies Are Ready To Manage Risks Posed By AI"
+    excerpt: "The results of new research about the dangers posed by AI should be a wake-up call for all companies and organizations."
+    publishedDateTime: 2023-10-26T15:37:00Z
+    webUrl: "https://www.forbes.com/sites/edwardsegal/2023/10/26/only-9-of-surveyed-companies-are-ready-to-manage-risks-posed-by-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/edwardsegal/2023/10/26/only-9-of-surveyed-companies-are-ready-to-manage-risks-posed-by-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edwardsegal/2023/10/26/only-9-of-surveyed-companies-are-ready-to-manage-risks-posed-by-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65393a57196e796a19069411/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "AI and its impact on MBA education"
     excerpt: "Business schools have incorporated artificial intelligence (AI) tools such as Tableau for data visualization, IBM Watson for analytics and natural language processing, Salesforce Einstein for customer relationship management, Google Analytics for ..."
     publishedDateTime: 2023-10-24T06:45:00Z
@@ -144,6 +160,20 @@ related:
     quality: 39
     images:
       - url: "https://technical.ly/wp-content/uploads/2023/10/AI-government-cities-pexels-google-deepmind-17483907.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How AI Can Help Leaders Make Better Decisions Under Pressure"
+    excerpt: "More and more businesses are turning to AI-powered technologies to help close the data-insight gap and improve their decision-making capabilities in time-critical, high-pressure situations. These technologies encompass a wide range of tools,"
+    publishedDateTime: 2023-10-26T12:25:00Z
+    webUrl: "https://hbr.org/2023/10/how-ai-can-help-leaders-make-better-decisions-under-pressure?ab=HP-hero-latest-text-1"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_26_Beatrice-Caciotti.jpg"
         width: 1200
         height: 675
         isCached: true

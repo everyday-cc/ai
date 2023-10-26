@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361643"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361643"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 750
     height: 465
     isCached: true
-
-related:
-  - title: "Thailand Working to Harness (AI) Artificial Intelligence"
-    excerpt: "Thailand is not an exception to the trend of artificial intelligence (AI) being a major engine of innovation and development in many nations. Thailand, a country renowned for its breathtaking scenery,"
-    publishedDateTime: 2023-10-21T20:55:00Z
-    webUrl: "https://www.chiangraitimes.com/business/thailand-working-to-harness-ai-artificial-intelligence/"
-    type: article
-    provider:
-      name: Chiangrai Times
-      domain: chiangraitimes.com
-    quality: 54
-    images:
-      - url: "https://www.chiangraitimes.com/wp-content/uploads/2023/10/Artificial-Intelligence-Thailand.jpg"
-        width: 1000
-        height: 561
-        isCached: true
 
 secured: "9KSMVw4kQjQRiXUr3Mb36NWUe0B0NdxZl6F/ybEwT7jR0nY6ELhcZIjl3VOmBKbqbMnH/44tKSBidehW38Sn1Rz9ZBb4rOhSbO8pdFgYZZ9tFzX7aVML/rLkiqRSVUjpzhmGIfKfPWFd6fu9GJON9/lxg1kZ4B5kJ5/14yqaubBemDwotc4Pb9+YiQYO3MeAuXg3PnaYLLJQZYN13YEmmoDmgKtWLW+0j8T4tkYnC3GKHoNBVZz/qUBoT9zYpmbsYuQZG7CyyqyoQiKXiLZw10ne8dGeJSSH6kHnN+uVzruOhBnl5AMHGWUa927NTNqfCBeFVaMUXOzHRkkj8UwtaMHxTylfSkfi1I7ss2s5QWA=;acfmDgD8b+2q+K9hA0R2nQ=="
 ---

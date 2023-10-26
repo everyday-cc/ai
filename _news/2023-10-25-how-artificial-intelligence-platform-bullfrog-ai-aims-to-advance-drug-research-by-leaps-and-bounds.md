@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "I took this free AI course for developers in one weekend and highly recommend it"
+    excerpt: "These 13 free AI courses, from OpenAI and DeepLearning, range from beginner to intermediate, and did we mention they're free?"
+    publishedDateTime: 2023-10-26T06:17:00Z
+    webUrl: "https://www.zdnet.com/article/i-took-this-free-ai-course-for-developers-in-one-weekend-and-highly-recommend-it/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 42
   - title: "Enterprise software developers prepare for generative AI’s ‘productivity revolution’"
     excerpt: "By all accounts, the impact of generative AI on software development will be profound. A recently published survey by GBH Insights LLC, which does business as GBK Collective, found that 78% of companies expect to use AI for software development within the next three to five years."
     publishedDateTime: 2023-10-23T18:59:00Z

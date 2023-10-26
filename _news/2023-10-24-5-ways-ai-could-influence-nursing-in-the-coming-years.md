@@ -41,6 +41,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Put artificial intelligence on the ballot"
+    excerpt: "Similarly, the 2006 midterm theoretically amounted to a vote on the Iraq War. If Congress rushes to regulate artificial intelligence, then the upcoming election could, in part, be a proxy election on that AI policy. Given the potential of AI to upend our ..."
+    publishedDateTime: 2023-10-26T13:56:00Z
+    webUrl: "https://www.thetelegraph.com/opinion/article/put-artificial-intelligence-ballot-18449412.php"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: thetelegraph.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/72/10/23831100/3/rawImage.jpg"
+        width: 595
+        height: 429
+        isCached: true
   - title: "The Computing Pioneer Helping AI See"
     excerpt: "Alexei Efros has spent his career learning how machines see differently from humans. Now he’s helping to bridge the gap."
     publishedDateTime: 2023-10-24T18:01:00Z

@@ -113,6 +113,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Essex Police facial recognition technology op in Southend"
+    excerpt: "Three people have been arrested, including one on suspicion of rape, as police used facial recognition technology in two Essex high streets this week. Live Facial Recognition technology was utilised for the first time in Essex in Southend High Street on ..."
+    publishedDateTime: 2023-10-26T12:51:00Z
+    webUrl: "https://www.echo-news.co.uk/news/23881211.essex-police-facial-recognition-technology-op-southend/"
+    type: article
+    provider:
+      name: Echo news
+      domain: echo-news.co.uk
+    quality: 19
 
 secured: "AReuQ1PhX3TzzYlQGl66POHhta8M9Gzh75M/VnogueGRJv5H045W/fsQ3BdKGSNOMzprCg3cIcnW7s7IHBiREBWY0WKd5rSCXzS7v/nV7BMM6wemy7PA7AzmJI6veq9kq5HNRx0oKpVMD51gO0sTWtDUd69SoeSi0nw8OOgWYeGQEjv2I96nCt5R2ZxcYaby4htEveUafXLRDecFBNSlB/m+D1C2vHRYORLAsO9xm4tWdv4Mp6Ue0Hm0gKOKa0A4ZTjIIlNMFV+C/Nn+irpy36HogFEYXafyWjam01GP7twMUAgdvPWoOeGSfZuHP+Uq3YNx7yWLYTVALTKoDhlZRWMKITtrStrJiUnSfficIb78/byER8SUX0fNeITkOjOfxFUSLVteX4Re7P8U0WQSZ1uhFwYsWwal+nRD3x7n+YVFSuWo4V0H1mT3KQ0hJTFfaSfLCGFYysEy7f7o0g32d1K0WODGlyL0O3dTOZB6enOKkkFVWSqNadkivaliKJ6Z9WEWrBKy44mRutOx+olLKQ==;rb5Z3xND04zybDNr+Re3JQ=="
 ---

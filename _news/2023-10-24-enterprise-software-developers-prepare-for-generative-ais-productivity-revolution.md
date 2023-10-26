@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "I took this free AI course for developers in one weekend and highly recommend it"
+    excerpt: "These 13 free AI courses, from OpenAI and DeepLearning, range from beginner to intermediate, and did we mention they're free?"
+    publishedDateTime: 2023-10-26T06:17:00Z
+    webUrl: "https://www.zdnet.com/article/i-took-this-free-ai-course-for-developers-in-one-weekend-and-highly-recommend-it/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 42
   - title: "How Artificial Intelligence Platform BullFrog AI Aims To Advance Drug Research By Leaps And Bounds"
     excerpt: "BullFrog is an artificial intelligence company that has developed AI technology it calls bfLEAP. The platform is designed to transform the field of precision medicine by applying predictive analytics to all stages of drug development. In doing so the company aims to improve the lives of every patient."
     publishedDateTime: 2023-10-25T12:33:00Z

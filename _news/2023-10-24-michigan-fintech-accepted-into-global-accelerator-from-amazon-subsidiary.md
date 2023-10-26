@@ -35,6 +35,15 @@ related:
         width: 1400
         height: 1050
         isCached: true
+  - title: "OSU’s Fisher College Launches Fintech Micro-Credential"
+    excerpt: "COLUMBUS, Ohio – A new graduate credential offering from The Ohio State University’s Max M. Fisher College of Business is preparing professionals with introductory-level knowledge of the emerging financial technology that organizations are using to improve and automate the delivery of financial services."
+    publishedDateTime: 2023-10-26T08:52:00Z
+    webUrl: "https://businessjournaldaily.com/osus-fisher-college-launches-fintech-micro-credential/"
+    type: article
+    provider:
+      name: Business Journal Daily
+      domain: businessjournaldaily.com
+    quality: 4
   - title: "Zip Named Most Innovative Fintech Solution by 2023 Tech Ascension Awards"
     excerpt: "Zip, the world’s only intake-to-pay platform, today announced its platform was chosen the Most Innovative Fintech Solution by the 2023 Tech Ascension"
     publishedDateTime: 2023-10-25T20:32:00Z

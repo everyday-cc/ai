@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/26/make-a-deepfake-of-y
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/26/make-a-deepfake-of-yourself-that-is-a-truefake-via-using-prompt-engineering-in-generative-ai-to-craft-your-conversational-digital-twin/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/26/make-a-deepfake-of-yourself-that-is-a-truefake-via-using-prompt-engineering-in-generative-ai-to-craft-your-conversational-digital-twin/amp/"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6539cef6e919730c0fb17943/0x0.jpg?format=jpg&crop=2240,1260,x16,y56,safe&height=900&width=1600&fit=bounds"
@@ -46,6 +47,6 @@ related:
         height: 675
         isCached: true
 
-secured: "WTA4wXcwOxF15WgHypCarrKP6Ih+wkngoe/WLMEg7OOOYYvUB/CGKe2J4f4ndJZHsaCsKDZr5LW9RJjr3Ishx+fNnKj89XJStmiNQM8bO9v1oYyAdwx7nlOT+78X1/d2m2Ykdg6UXeE31KYeao2uiuh7tLLnXvjDO7oE/1ftAwE/lFYDwsJhKZwpDgMKfje5HdbHmFgnOhZRhgx7BHe2XRBxL3sf/DQVUI5BNiWD21OHonLEsKTUe23zSsDIyp2K2uZUgaaPnlI3Y54S7b5/fhzqnjwk4vL3oGOpaF9Esg51JDZ9jZV7DoFWqXTtK4LkezxzSj4Rl3o4I/pPJZuRPeCpcBE7Vxu5TMN/tkhTlQM=;SOpG2ZNtmZWyDmmuE/LpfA=="
+secured: "RFl+Oe7LGoZKQ18Tmf4/8nt+HGnFvIuvhALQB8jY738AAkuEvSmbzh/z8281YFrvEAE1FUjFpdNOf4o/1YyntFqrjy2TFkSdLOzUxx0oznV85x3DXRFm/b4Erld3eTnVKaRN6bQ8/9hQsHtdQiGorFA5ty7k5ZY2K9N1x22vV+Dntg/l4AznHDV4SenbZKVoHNEdcGcte6XGlR8JcuaO/LtFvipTDSiLGlnnQLaxuAhft5GskVEywtWR/mIe7FqoAKK/8VdUvN1P+PC9bRZvMR9DI27KRJ/JXYhnxxkg2/25FF4npLziWawK8FbvUUHG7E7PaGaPreLF52+La4eB159XzWPCztm4fCrwZS7WKfL/wEMA9pcx1NDBjWdGVduXasQQi27bOYMMx6lawXRLfV7n9+sAYsQ9fhKagNc8pEReBO0cVQ44TkGfr4Tp6MsEAaEIi6XROW+47hemBUiDmOcxopCNjoYoselsGXWFjC9BjbHR4RN4Xmibq86d4cWCIm4e5RbdYZ7abgvUfFwkVQ==;9o7xqA2Ci9H/5JO81msYRQ=="
 ---
 

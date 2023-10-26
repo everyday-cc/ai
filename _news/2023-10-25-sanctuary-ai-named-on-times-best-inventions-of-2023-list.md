@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/sanctuary-ai-named
 webUrl: "https://markets.businessinsider.com/news/stocks/sanctuary-ai-named-on-time-s-best-inventions-of-2023-list-1032734498"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Stable-Audio-AI-music-creator.jpg"
         width: 1280
         height: 717
+        isCached: true
+  - title: "DBusiness Daily Update: Sharrow Propeller Named to Time’s Best Inventions of 2023 List, and More"
+    excerpt: "Our roundup of the latest news from metro Detroit and Michigan businesses as well as announcements from government agencies."
+    publishedDateTime: 2023-10-26T14:53:00Z
+    webUrl: "https://www.dbusiness.com/daily-news/dbusiness-daily-update-sharrow-propeller-named-to-times-best-inventions-of-2023-list-and-more/"
+    type: article
+    provider:
+      name: DBusiness Magazine
+      domain: dbusiness.com
+    quality: 26
+    images:
+      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2023/10/UpdateSharrow800.jpg"
+        width: 800
+        height: 610
         isCached: true
 
 secured: "hR1JFcrBJtQb88UvTyWrpwPavjchjqNmaEeSNFv9uvatfWKkL4L167EjcUYfRNjSOYdg3MDZ6+0gp91jdxSZPbiKVX3lup5sIvU8LkEHavJNeuzsWQ89mgxpWdQlwJQuXwt4tmoLB46XgxMSZ84m/OTjkR57w8FJ81n2XeFdP3bxa4xZqUWZnvT5yXQwsEpzdcXmuVrrAlduKEXZftUYWQP4PZkE1frbJPwWyyeJ+l4bM7XsdPeC0V7SyK765H6PiFFCTMHGSC1Q5hIjnyaUWBOLvb8HnpvmRQo+rpyzqK5XbC/TolviNkK1El7dyJosBxdeJYhoW/szEjA6MH95ubtM9RfT8yD9LQm5HV6GTumMOtjMF4lKw+6fVbhN8O51VkLMJJ4AqLrkI00hBTCMbdjPqu1+yabRD01Ow21CPhOiFDXUADVNmmV+lx8tBG0+dOZcQq8E2XrO91xxaFR1nSHpgYUyc5iefbDZklTBLVKuQizkQuBYw61Yg3w0kSksrMDBM+YgynVfFrIXDB7kgw==;IGVfrn2r23ednGZneRIuXA=="

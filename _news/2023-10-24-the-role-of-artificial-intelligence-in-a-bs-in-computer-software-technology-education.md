@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Norfolk Southern launches AI train inspection technology"
+    excerpt: "The project aims to supercharge Norfolk Southern's safety infrastructure and inspection processes with over a dozen portals to be deployed by the end of 2024. Norfolk Southern leveraged GTRI's expertise in advanced technology solutions that has already helped further national security and economic development."
+    publishedDateTime: 2023-10-26T12:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/norfolk-southern-launches-ai-train-inspection-technology-1032743505"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "A Glimpse into the Future: Next-Gen AI and LLM in AML Compliance"
     excerpt: "Regarding AI or LLM use cases more specific to AML, KYC, and KYB compliance, the most interesting areas we are seeing are in translation, natural language interfaces, understanding of unstructured text and data, adverse media processing and automation of e-regulations and policies. Let’s look at each one of them in more detail."
     publishedDateTime: 2023-10-24T10:27:00Z

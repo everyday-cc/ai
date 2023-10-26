@@ -55,6 +55,20 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "Pilot programs put more driverless vehicles on the road"
+    excerpt: "Pilot programs promoting the use of artificial intelligence in the transport sector have made significant progress, Ministry of Transport officials said on Thursday, with the commercial operation of driverless vehicles being tested in Beijing, Shanghai and Guangzhou, and more smart roads being planned and built."
+    publishedDateTime: 2023-10-26T15:00:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202310/26/WS653a745fa31090682a5eaf61.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202310/26/653a745fa3109068cafee7bc.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "California DMV Suspended GM Cruise’s Driverless Cars as Not Safe and Not Truthful"
     excerpt: "A Cruise’s driverless cars struck a pedestrian in downtown San ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting ..."
     publishedDateTime: 2023-10-24T21:13:00Z

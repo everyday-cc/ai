@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Amazon’s AI-Powered Van Inspections Give It a Powerful New Data Feed"
-    excerpt: "Amazon delivery drivers at hundreds of sites around the world will be asked to drive through camera-studded archways that log every dent, scratch, or damaged tire."
-    publishedDateTime: 2023-10-24T11:00:00Z
-    webUrl: "https://www.wired.com/story/amazons-ai-van-inspections-powerful-data-feed/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/653712f92b2e9e5034c69df4/191:100/w_1280,c_limit/Amazon-UVEye-AI-Scan-Business.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "AI-powered 6G networks will reshape digital interactions"
     excerpt: "The convergence of AI and communication technologies will create 6G networks that make hyperconnectivity and immersive experiences an everyday reality for consumers."
     publishedDateTime: 2023-10-26T10:11:00Z

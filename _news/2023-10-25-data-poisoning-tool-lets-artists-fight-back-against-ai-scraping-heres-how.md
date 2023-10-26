@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/data-poisoning-tool-lets-artists-fig
 webUrl: "https://www.zdnet.com/article/data-poisoning-tool-lets-artists-fight-back-against-ai-scraping-heres-how/"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -22,15 +22,52 @@ topics:
   - AI
 
 related:
-  - title: "The Download: poisoning generative AI, and heat-storing batteries"
-    excerpt: "What’s happening: A new tool lets artists make invisible changes to the pixels in their art before they upload it online so that if it’s scraped into an AI training set, it can cause the resulting model to break in chaotic and unpredictable ways."
-    publishedDateTime: 2023-10-24T12:11:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/24/1082255/the-download-poisoning-generative-ai-and-heat-storing-batteries/"
+  - title: "New Tool ‘Poisons’ AI Data To Shield Artists From Having Their Work Stolen"
+    excerpt: "Nightshade, out of the University of Chicago, protects pixels by \"poisoning\" digital images with subtle, invisible changes that cause AI algorithms to misinterpret them."
+    publishedDateTime: 2023-10-26T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen/"
+    ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6539fd5333db20dc243fc149/0x0.jpg?format=jpg&crop=3136,1765,x65,y459,safe&height=900&width=1600&fit=bounds"
+        width: 1599
+        height: 900
+        isCached: true
+  - title: "This new data poisoning tool lets artists fight back against generative AI"
+    excerpt: "The tool, called Nightshade, messes up training data in ways that could cause serious damage to image-generating AI models."
+    publishedDateTime: 2023-10-23T17:26:00Z
+    webUrl: "https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/amp/"
     type: article
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 17
+    quality: 55
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/poison-corrupts4.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "Meet Nightshade, the new tool allowing artists to ‘poison’ AI models with corrupted training data"
+    excerpt: "Nightshade was developed by University of Chicago researchers under computer science professor Ben Zhao and will be added as an option"
+    publishedDateTime: 2023-10-23T23:35:00Z
+    webUrl: "https://venturebeat.com/ai/meet-nightshade-the-new-tool-allowing-artists-to-poison-ai-models-with-corrupted-training-data/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 54
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-23-19.33.25-Illustration-in-a-comic-book-style-depicting-a-humanoid-robot-in-distress.-The-robots-left-hand-is-firmly-placed-on-its-neck-indicating-discomfort.-.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
 
 secured: "cQEVV5BWSThjCXGI1Dw7tfrh1E10oiVLRmgNAfEe4jR5U/pwywNQx9tLVHvH60R92CeBhxg76lV5XKCtsvdNDwcphRdrInBdgcplCl9XxCHvrDPYk9eugg7hjWTqaNXBL2+WI8umGZtD2DhcSqh+IUDkpkVrZuQsu7awgbkQYVA865YNIXMxyP5DECGKc0BbszsilvD8FDg6CWR7sCUMSJlsJ9P/fqIJwvay2xnBe8D8gmDcGHPOLDTgdE7Mma6fLnUK286vfTjAH0E+ZJeqq96XZK1Y5ti7W9vLwrkeFfXqdron3GKyq/OG1syWbtv5MMaQ+g2WEyLHOHQBuDeNqOguPeSlnFXHic6cXn1G6QHkTvgOwaTcwyEMnm6yGfQvAPUwHg19mbOxCTr4WFT1R6e8yumYlo+V7zAUg3Uh30CrWipMGOJvMcHAucO7inEndWcnLd363YUghTVJHvHgo7Y38R/AOIk3fgJl0Fz9cEIxugUJh1eIZS/1bMjYKE7YVYtqsN3O62MpgmNqn7J44A==;IIMyCdzUaaAnLimi2kHS7Q=="
 ---

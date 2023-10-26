@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/newsarticle/43170/chatgpt-interprets-fed-
 webUrl: "https://www.finextra.com/newsarticle/43170/chatgpt-interprets-fed-speak-to-predict-direction-of-interest-rates"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 480
     height: 270
     isCached: true
+
+related:
+  - title: "Datasaur launches LLM Lab to help enterprises build custom ChatGPT-like applications"
+    excerpt: "Datasaur LLM Lab gives an all-in-one interface for handling different aspects of AI app development, right from data ingestion, data preparation, RAG, embedded model selection, and similarity search optimization to enhancing the LLM’s responses."
+    publishedDateTime: 2023-10-26T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/datasaur-launches-llm-lab-to-help-enterprises-build-custom-chatgpt-like-applications/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cute_blue_colored_dinosaur_playing_with_data_in_-e1698261357923.jpg?w=1200&strip=all"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "gta0pJLsEbQClC/L0zXbjjwJltBhiVjxmHrCBUi3/9wdrdnWnqZZBMcqnmlHYSmWDx+Lqcs6Bl1M5g1DGplIGcLQp9hAfGKktaXfb5Fc+DA+3/EXmNyTaCfYmEzCmsvVra0+MQZga3XXzX5ysX8WZ6u4pYCyKMEiZbHvXWBqf3FHMhJ0rhE1UH8PO8r/j4/g321Lcnc0Kk5csaAVEY4p6LHdLa4cjX0wL1naE2GwNUbGsmhiQLySFBCapk9EaTjVkyrhTv8KsSK19NioFMVwaT4HHamP3YR5MP8SYIw+MCTPKsrZvH6tIYGlSJO7RrCvg1L1OFShz4MViT8hzRT+kx0Dy/bPkq1w2jLbW4Qv1aFNh4p9n22diOOHEM6jsZ6zwA5M9u/TwWMuw8RWJCLhjnnUPuAy58Mii7VjQUK3MF3QPSyXUeZANCCr/lI3cAQXXyaBME8jXTmBg8RsWH17tW3Rp6Y9n0l/hXAcvSLOQx1Ss716BwFta6JDsTa7atK3NwqEbmT2XN4ic2N1vHvW+g==;pn54/yswHk+vJia8M4EjXw=="
 ---

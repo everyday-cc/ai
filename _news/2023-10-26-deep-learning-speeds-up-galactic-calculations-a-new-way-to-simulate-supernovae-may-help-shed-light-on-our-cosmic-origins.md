@@ -26,6 +26,22 @@ images:
 
 related:
   - title: "Deep learning speeds up galactic calculations"
+    excerpt: "Supernovae, or exploding stars, play a critical role in the formation and evolution of galaxies. However, key aspects of these phenomena are notoriously difficult to simulate accurately in reasonably short amounts of time."
+    publishedDateTime: 2023-10-26T14:00:00Z
+    webUrl: "https://phys.org/news/2023-10-deep-galactic.html"
+    ampWebUrl: "https://phys.org/news/2023-10-deep-galactic.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-deep-galactic.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-speeds-u.jpg"
+        width: 1280
+        height: 1027
+        isCached: true
+  - title: "Deep learning speeds up galactic calculations"
     excerpt: "For the first time, a team of researchers, including those from The University of Tokyo, apply deep learning to the problem of supernova simulation. Their approach can speed up the simulation of supernovae, and therefore of galaxy formation and evolution ..."
     publishedDateTime: 2023-10-25T00:00:00Z
     webUrl: "https://www.eurekalert.org/news-releases/1005961"

@@ -38,6 +38,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "How to Write AI Art Prompts Effectively with Examples"
+    excerpt: "PREMIUM: Consider creating an AI ethics policy before using AI art tools. It’s also a good idea to visit AI art platforms like NightCafe and Craiyon, which allow you to see the prompts used for any of the images posted. If you’d like to leave the work ..."
+    publishedDateTime: 2023-10-26T15:40:00Z
+    webUrl: "https://www.techrepublic.com/article/how-to-write-ai-art-prompts/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/05/Aminu-2.jpg?x96515"
+        width: 884
+        height: 900
+        isCached: true
   - title: "UAE's Artificial Intelligence Office partners with Code.org to enhance national talents"
     excerpt: "The Artificial Intelligence Digital Economy and Remote Work Applications Office signed a memorandum of understanding MoU with Codeorg a leading"
     publishedDateTime: 2023-10-22T09:12:00Z

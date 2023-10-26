@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Rishi Sunak says AI has threats and risks - but outlines its potential"
-    excerpt: "He said the UK's approach should be proportionate while also encouraging innovation. But Prof Carissa Veliz, associate professor in philosophy, Institute of Ethics in AI, at the University of Oxford, said unlike the EU the UK had so far been \"notoriously ..."
-    publishedDateTime: 2023-10-26T11:17:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-67225158.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/uk-67225158.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-67225158.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10D45/production/_131533986_sunak-top-pa.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI dangers must be faced ‘head on’, Rishi Sunak to tell tech summit"
     excerpt: "Government document says impossible to rule out technology poses existential threat"
     publishedDateTime: 2023-10-25T20:30:00Z
@@ -66,6 +50,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Rishi Sunak says AI has threats and risks - but outlines its potential"
+    excerpt: "Mr Sunak said among the risks outlined in the report was that AI could be used by terrorist groups \"to spread fear and disruption on an even greater scale\". Mitigating the risk of human extinction from AI should be a \"global priority\", he said."
+    publishedDateTime: 2023-10-26T11:32:00Z
+    webUrl: "https://www.aol.com/ai-risks-bio-weapons-jobs-094202449.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
 
 secured: "8b6OQBwaHWl8l5vm2q7NUNB98knsTGKQDkXpylmGNqzxoco5hx/g9vXC08wVO8W6IRb05FkaE2qzIaiNQcphQdB/V/uogYn/ZagU6+hKhVFzxz4WKKtA6B7NxOslK1fwE4qYxnW/joCqUXqO989IIAolLsRlMyF3HhQg/rhF9bxo5thCfBj/hFtQMdhpYdVQm3z+X5SHjfoqPLueyKJkbwrgAWbZoulErEnQxIt0I6o2lkZACd3EfiQOFz1qqOHvyUFwNMsikqweX1KFImSRfTgUnL0ld9hcHlWaS2WCAU3YnpE4rnBijmW5I9iLpc81LchwZIJixeV9WK2DnwYAXArPPkGeGLptka3fq2zVfis2qyIG0Lt5zfRu/FnGUOTmTkt6p//bGhVhfixel/ttV6/+DIZYD4UtSMr4ZkuQSC5hvX48sMVDpB4aZY+cNXd/cx3jHe2oqi/1lYo4wUcwEvCVGbAJoRv86wofTfQEX+IbksOt6VzODA0ePjBIIqMgtYjCX+wBrCD2LKmP4VfENA==;JDnJcie+VcSdNbzhFzwvoQ=="
 ---

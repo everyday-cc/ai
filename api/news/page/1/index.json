@@ -2,6 +2,194 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-26-how-computer-vision-increases-productivity-and-sustainability-in-agriculture.md",
+      "title": "How computer vision increases productivity and sustainability in agriculture",
+      "excerpt": "Computer vision is extending the human senses. Whether it’s allowing cars to drive themselves, automating production lines for safety and efficiency, or allowing us to unlock our phones with our faces, computer vision can help make human work more productive and accurate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/how-computer-vision-increases-productivity-and-sustainability-in-agriculture/",
+      "originalUrl": "https://www.therobotreport.com/how-computer-vision-increases-productivity-and-sustainability-in-agriculture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/10/john-deere-sprayer-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-deep-learning-speeds-up-galactic-calculations.md",
+      "title": "Deep learning speeds up galactic calculations",
+      "excerpt": "Supernovae, or exploding stars, play a critical role in the formation and evolution of galaxies. However, key aspects of these phenomena are notoriously difficult to simulate accurately in reasonably short amounts of time.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-10-deep-galactic.html",
+      "originalUrl": "https://phys.org/news/2023-10-deep-galactic.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-speeds-u.jpg",
+          "width": 1280,
+          "height": 1027,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-10-deep-galactic.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-deep-galactic.amp",
+      "publishedDateTime": "2023-10-26T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen.md",
+      "title": "New Tool ‘Poisons’ AI Data To Shield Artists From Having Their Work Stolen",
+      "excerpt": "Nightshade, out of the University of Chicago, protects pixels by \"poisoning\" digital images with subtle, invisible changes that cause AI algorithms to misinterpret them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen/",
+      "originalUrl": "https://www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6539fd5333db20dc243fc149/0x0.jpg?format=jpg&crop=3136,1765,x65,y459,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen/amp/",
+      "publishedDateTime": "2023-10-26T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-google-maps-is-getting-new-ai-powered-search-updates-an-enhanced-navigation-interface-and-more.md",
+      "title": "Google Maps is getting new AI-powered search updates, an enhanced navigation interface and more",
+      "excerpt": "Google is rolling out new updates for Maps, including AI-powered features that are designed to make it easier to search and explore.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/26/google-maps-is-getting-new-ai-powered-search-updates-an-enhanced-navigation-interface-and-more/",
+      "originalUrl": "https://techcrunch.com/2023/10/26/google-maps-is-getting-new-ai-powered-search-updates-an-enhanced-navigation-interface-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/google-maps-ios-icon.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/26/google-maps-is-getting-new-ai-powered-search-updates-an-enhanced-navigation-interface-and-more/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/26/google-maps-is-getting-new-ai-powered-search-updates-an-enhanced-navigation-interface-and-more/amp/",
+      "publishedDateTime": "2023-10-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-artificial-intelligence-what-you-need-to-know-about-next-months-ai-safety-summit.md",
       "title": "Artificial intelligence: What you need to know about next month's AI Safety Summit",
       "excerpt": "The UK government will host the first major global summit on AI safety at the start of next month as the world attempts to deal with the challenges being created by artificial intelligence. The AI Safety Summit will take place on 1 and 2 November at ...",
@@ -91,49 +279,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-rishi-sunak-says-ai-has-threats-and-risks-but-outlines-its-potential.md",
-      "title": "Rishi Sunak says AI has threats and risks - but outlines its potential",
-      "excerpt": "He said the UK's approach should be proportionate while also encouraging innovation. But Prof Carissa Veliz, associate professor in philosophy, Institute of Ethics in AI, at the University of Oxford, said unlike the EU the UK had so far been \"notoriously ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/uk-67225158.amp",
-      "originalUrl": "https://www.bbc.co.uk/news/uk-67225158.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/10D45/production/_131533986_sunak-top-pa.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/uk-67225158.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-67225158.amp",
-      "publishedDateTime": "2023-10-26T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -369,7 +514,7 @@
       "originalUrl": "https://newatlas.com/technology/acoustic-touch-glasses-help-the-blind-vision-impaired-see-using-sound/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -421,7 +566,7 @@
       "originalUrl": "https://www.bbc.com/news/articles/c51jzy42p19o",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -965,7 +1110,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1040,160 +1185,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-another-legal-ai-startup-eve-launches-with-funding-from-menlo-lightspeed.md",
-      "title": "Another legal AI startup, Eve, launches with funding from Menlo, Lightspeed",
-      "excerpt": "The legal artificial intelligence market is getting more crowded as new startups continue to woo investors. The latest entrant, Eve, launched on Wednesday with $14 million in seed funding led by venture capital firms Lightspeed Venture Partners and Menlo Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/transactional/another-legal-ai-startup-eve-launches-with-funding-menlo-lightspeed-2023-10-25/",
-      "originalUrl": "https://www.reuters.com/legal/transactional/another-legal-ai-startup-eve-launches-with-funding-menlo-lightspeed-2023-10-25/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/1xFt8ajGQYFLK_Qr5m-NWtZKBBI=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7WAFDYWTLFNM3HJCYG67HXOT3U.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-experts-from-accenture-and-aws-on-optimizing-cloud-and-ai.md",
-      "title": "Experts from Accenture and AWS on Optimizing Cloud and AI",
-      "excerpt": "Providing insight are Chris Niederman, Managing Director, Global Systems Integrators at Amazon Web Services; and Chris Wegmann, Global Technology Lead of AWS Business Group at Accenture. eWEEK content and product recommendations are editorially independent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/accenture-and-aws-on-optimizing-cloud-ai/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/accenture-and-aws-on-optimizing-cloud-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/10/eSPEAKS-thumbnail-aws-accenture.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-as-developers-learn-the-ins-and-outs-of-generative-ai-non-developers-will-follow.md",
-      "title": "As developers learn the ins and outs of generative AI, non-developers will follow",
-      "excerpt": "AI-driven productivity tools 'are remaking software development in radical ways. But that value doesn't come for free.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/as-developers-learn-the-ins-and-outs-of-generative-ai-non-developers-will-follow/",
-      "originalUrl": "https://www.zdnet.com/article/as-developers-learn-the-ins-and-outs-of-generative-ai-non-developers-will-follow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6a0106c672fdec52b9ad74e1489febc21701bb22/2023/10/25/b4532830-55f5-4ee1-91bb-5e273150648e/gettyimages-1488321343.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
