@@ -377,20 +377,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft's Clippy is back, kind of, and now powered by AI"
-    excerpt: "A ChatGPT-style AI assistant embedded into Microsoft Office apps will become available to all from 1 November."
-    publishedDateTime: 2023-10-21T09:55:00Z
-    webUrl: "https://www.rnz.co.nz/news/world/500733/microsoft-s-clippy-is-back-kind-of-and-now-powered-by-ai"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 56
-    images:
-      - url: "https://media.rnztools.nz/rnz/image/upload/s--qJY1-yKa--/t_tohu-badge-facebook/v1644404562/4ME30XD_copyright_image_257161"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cash-Rich Apple Still Needs Billions To Catch Up In Generative AI Race Against Meta Or Microsoft: Analyst Ming-Chi Kuo Reveals Why"
     excerpt: "According to Kuo's latest survey, Cupertino plans to procure 2,000 to 3,000 AI servers in 2023 and a more substantial 18,000 to 20,000 units in 2024."
     publishedDateTime: 2023-10-24T06:03:00Z
@@ -725,6 +711,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "BbP5lwWWfumXNCss7rDQukg8OgKiC9Kj0E3MITo3gBLLY45HMq5qS7LzVN4a1ZCQinq3w20vUwZVJ0Dbj+eS/1isX3ujU9+zbtPlgxEsIyGg6P9ikqtx1FoWTjfBVoIOwWYgH7Scbsy9mjJBz8Q3CwRag5nF7RWc50Wva672Pj91r1tUP0opQ9u5eiOEc8mKaJMFrm1YqbsfNVefCT5NNdQcs3XNKKah8OFWJD6ufIOz5MgWCWlOki0iYaYxCpak/ubPDFR7np23YA549aHGfO9w6J1zfYzt+KCDWrlOgJSEvZnFOU43E5dICOndyv5IFTJPrZGcwUJmX65rdKalmS51RstzSbvSGReAgd39Thc=;HkEIqXZoBAAtEB+eN3qceg=="
+secured: "3bNCzt0WEVtjaYB8Vr4HC+Q3cPCFDPdMffAFkLvQyBxRjZohRAN0lgekODqUSQNPsaNI1LUrOktssXN36VECOKbOD4836ANLTnieNOLyjzqBL7FF7ZOa9xt5MCMOK3vNP9MxsVQ0YjH9TGPT5eKSaMtsYKWEigXnL02ihGZ/sLcqII5CuugCQzOAgW2jrZBQr2+jpsPbx1xygpiMvNpN4Td6EOqM4IEeKPD60rTf61c/ZuYyvFOSMdzRqeBkYYUH292imK+hLv+qyP3QXMEQu4pgCkJdEsgXcCUf/zkIJ8VmADGb+jF5hptXnP9AfZDuGL9Ku7HdumcP7ZwAXSKEchb2QMI/cHbLayJ0At2NqQZmvhrKz147ZeFdZMZFsq6iZEBt2V+10kXStHkabLkOJjop/Xv1XR7ympXRCu2KY6nwp38PodFKKeJs+CH/uLiuOO8xNMnHiAWmQQPHLrwUxeuHykmzBKBp8xY/jZ5+LZzE2Pi0tou+O/UB+Tb3R+tnf9BfpXzCYIjt2mLVepCuZw==;AQ9coxLB+JCFVoeKD0tGrA=="
 ---
 

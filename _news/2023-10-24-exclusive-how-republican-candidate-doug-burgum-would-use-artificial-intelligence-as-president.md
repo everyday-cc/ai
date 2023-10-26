@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Exclusive: SoftBank takes Indian founders on AI tour in Silicon Valley"
+    excerpt: "Indian startup founders at SoftBank’s office in Silicon Valley. Earlier this week, a group of 20 founders and CXOs from some of India’s biggest start-ups backed by SoftBank engaged in discussions with top executives of leading artificial intelligence (AI) firms in Silicon Valley."
+    publishedDateTime: 2023-10-26T02:48:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley-11599711.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley-11599711.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley-11599711.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/10/softbank-580x435.jpeg"
+        width: 580
+        height: 435
+        isCached: true
   - title: "Exclusive: Rhizome raises $2.5M for utility risk AI"
     excerpt: "Rhizome, which makes software to help utilities navigate climate risks, has raised a $2.5 million round, the company told Axios. Why it matters: The funding marks the startup's official launch, at a time when utilities are seeing more extreme weather and soaring demand for clean electricity."
     publishedDateTime: 2023-10-24T12:00:00Z

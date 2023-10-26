@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107302644/Dubai-Municipality-Initiates-Testing
 webUrl: "https://menafn.com/1107302644/Dubai-Municipality-Initiates-Testing-Of-A-Self-Driving-Electric-Vehicle-To-Clean-Up-Bicycle-Trails-On-Dubais-Beaches"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai tests self-driving electric robots to clean up beaches"
-    excerpt: "Dubai is testing the use of self-driving electric robot vehicles to clean beaches in the city. Dubai Municipality initiated the testing phase of a self-driving electric vehicle dedicated to cleaning bicycle routes along the beaches of Jumeirah and Umm Suqeim."
-    publishedDateTime: 2023-10-25T13:36:00Z
-    webUrl: "https://www.arabianbusiness.com/culture-society/dubai-tests-self-driving-electric-robots-to-clean-up-beaches"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
-  - title: "Arizona closely monitoring use of self-driving vehicles"
-    excerpt: "\"When needed to safeguard public safety, ADOT will make any needed adjustments to a company's ability to test and operate self-driving vehicles in Arizona,\" the department said. California on Tuesday ordered GM's Cruise unit to remove its driverless cars from state roads,"
-    publishedDateTime: 2023-10-25T17:54:00Z
-    webUrl: "https://www.aol.com/news/arizona-closely-monitoring-self-driving-175410320.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
   - title: "Dubai Municipality initiates testing of a self-driving electric vehicle to clean up bicycle trails on Dubai's beaches"
     excerpt: "In addition to delivering unique experiences for Dubai beachgoers, the Municipality aims to minimize environmental pollutants and carbon emissions using its automated fleet"
     publishedDateTime: 2023-10-25T13:36:00Z

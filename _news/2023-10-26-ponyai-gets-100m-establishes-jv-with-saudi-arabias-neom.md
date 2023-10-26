@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehic
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/10/Pony.ai-NEOM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Pony.ai announces large investment from NEOM"
+    excerpt: "Chinese self-driving startup Pony.ai announced on Wednesday that it has obtained an investment of $100 million from NEOM - a smart city being built in northwestern Saudi Arabia - and the NEOM Investment Fund."
+    publishedDateTime: 2023-10-26T02:55:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202310/26/WS6539cf06a31090682a5ead93.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202310/26/6539cf06a3109068cafedd62.jpeg"
+        width: 720
+        height: 404
         isCached: true
 
 secured: "CJoFzJsIlRWsJQP1tg6xVZFgRTLCjmqmC9+LZFBicH+f/XrjI73NRun9NV+lwai8LdqqlBdQNVRF3E/SC5NZK9jqso8vup6AjFBUk3dzpJNPEkVbmagXBHtxirljRJ98HuHekz1SneSHoCVlNVcF2U/plOD1ll40iZOCOSOCpKR5Y/7JESSphrX3by/4yzzqSM4IlF4qt4RVXRUxVvn7o3SHhKRu5zLTjMpGUula731Gw/MoRYwPjBqIVyv3JppoDHkhujgTVQ41IKQZmkU1fROfpYcTkgZf5AiMHrYmgPHQh/kP0JMmErT4VzSTcVJ+6T1m5J99GLbLj/uovfRzDE4thLCWcPbcDCzsrpzAOlM=;hOtDgi8cZ27D2BoLXjTGnQ=="

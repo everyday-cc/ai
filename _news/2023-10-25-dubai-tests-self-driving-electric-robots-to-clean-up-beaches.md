@@ -7,7 +7,7 @@ originalUrl: "https://www.arabianbusiness.com/culture-society/dubai-tests-self-d
 webUrl: "https://www.arabianbusiness.com/culture-society/dubai-tests-self-driving-electric-robots-to-clean-up-beaches"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,19 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Dubai Municipality Initiates Testing Of A Self-Driving Electric Vehicle To Clean Up Bicycle Trails On Dubai's Beaches"
-    excerpt: "Dubai Municipality initiated the testing phase of a self-driving electric vehicle dedicated to cleaning bicycle routes along the beaches of Jumei"
-    publishedDateTime: 2023-10-25T17:10:00Z
-    webUrl: "https://menafn.com/1107302644/Dubai-Municipality-Initiates-Testing-Of-A-Self-Driving-Electric-Vehicle-To-Clean-Up-Bicycle-Trails-On-Dubais-Beaches"
+  - title: "Triad man researches self-driving vehicles"
+    excerpt: "Mother asks drivers to pay attention on year after child hit, killed on Halloween in Oak Ridge"
+    publishedDateTime: 2023-10-25T20:05:00Z
+    webUrl: "https://myfox8.com/video/triad-man-researches-self-driving-vehicles/9116234/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: WGHP
+      domain: myfox8.com
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/myfox8.com/wp-content/uploads/sites/17/2023/10/AB79C6EC143E641313B051A624A3E85E.jpg?w=2000&#038;ssl=1"
+        width: 645
+        height: 363
+        isCached: true
+  - title: "Autonomous Vehicles: The Promise and Perils of Self-Driving Car Technology Introduction"
+    excerpt: "Autonomous vehicles have emerged as a revolutionary force, promising a future where cars can navigate the roads without human intervention. This cutting-edge technology has the potential to transform the way we travel,"
+    publishedDateTime: 2023-10-23T00:20:00Z
+    webUrl: "https://techbullion.com/autonomous-vehicles-the-promise-and-perils-of-self-driving-car-technology-introduction/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
     quality: 16
     images:
-      - url: "https://menafn.com/updates/pr/2023-10/25/M_3fb0cimage_story.jpg"
-        width: 1272
-        height: 848
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/Autonomous-Vehicles-The-Promise-and-Perils-of-Self-Driving-Car-Technology-Introduction.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "Arizona closely monitoring use of self-driving vehicles"
     excerpt: "\"When needed to safeguard public safety, ADOT will make any needed adjustments to a company's ability to test and operate self-driving vehicles in Arizona,\" the department said. California on Tuesday ordered GM's Cruise unit to remove its driverless cars from state roads,"
@@ -42,15 +56,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 4
-  - title: "Dubai Municipality initiates testing of a self-driving electric vehicle to clean up bicycle trails on Dubai's beaches"
-    excerpt: "In addition to delivering unique experiences for Dubai beachgoers, the Municipality aims to minimize environmental pollutants and carbon emissions using its automated fleet"
-    publishedDateTime: 2023-10-25T13:36:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-municipality-initiates-testing-of-a-self-driving-electric-vehicle-to-clean-up-bicycle-trails-on-dubais-beaches-ttzhn90b"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 0
 
 secured: "xUDEfSV3ojjXJdQif/eH+hoET97qosegnN5HG8OrwQHpaa99ETvK7FEGgF5D1adWW635VlXUf8i0nF1QzE6RctbBcA9fGtQdfcqubUiVW77+EHpWO+TygQ9zqzOgaeFWAe8qQrH2mjVNXFICfJRnAu34rjDO1JQyYAf+4wOzLHjDFTdF3D18AJNIg/0X3wsMoTAFHM9kJY2t7R2mmqQVDfvrX4eB27z3jWM6alNnRjW4Y6X4+nxy59WgoaZhuvy9XDuRiolb5AvoyEvRuTL5P9X1lF+0zSDx52PUywrNf7M6666v9fhSaVLGX9l/TbM40VPazK9ZTke8/OvcLN5qX1hgtxHgpjD8MxoaHvcSwa9S7hoaDQKsx6G5ZZex8wKLgJmxbCRNk0g4VnwxSdTkamomZM32z8efL6RKJmphTv35F/Bnp9GlDZmSqyIx6S9ukOTqg/MPxLPctFhaCrQB1hn2EHreTLV7NaYhqAI5UkzwM4m2S6LHZAUb2Hpaxzm6r27zB7xdD4NUB718njMARg==;+nzAFerLvMx+RoK2SqhLsw=="
 ---

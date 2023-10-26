@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Pony.ai announces large investment from NEOM"
+    excerpt: "Chinese self-driving startup Pony.ai announced on Wednesday that it has obtained an investment of $100 million from NEOM - a smart city being built in northwestern Saudi Arabia - and the NEOM Investment Fund."
+    publishedDateTime: 2023-10-26T02:55:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202310/26/WS6539cf06a31090682a5ead93.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202310/26/6539cf06a3109068cafedd62.jpeg"
+        width: 720
+        height: 404
+        isCached: true
 
 secured: "3u3dSDu8yD0NrRURcqJ7Oo89rHaf4qY4rud322znWNvlgbuhiArzlLwztwckaH6qNlpOmuZngWp9miOqXWwuuuX+pVfFcJdyflFL3ne5YziyLUiOI2ocH38YB2FzIpTaq1v8q6A8KfDvqaD+2ppjuQd/E8ERZUz0XKYQ8Khha9M4pIrZmZcvKw0ThXIuR5c1/DxtQ/0lbn4nhHLHLmXO7k4BLP9g4eQU4NhO+sSPb9W3woOwd/xIISZSRX/bfbv16kbsYZRDLTZvQLqhdpTiIPWJNfWm/cYQz/744E/eVFnwSO6BkpRI/aOFjsjvkCvKjnLFRYgwMwworL8/gEmhTHW3CnUWXcwu426W878ONl4=;A44ane9AD21BQ/A664Vjmw=="
 ---

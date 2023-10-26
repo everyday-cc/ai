@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Galileo Payment Risk Platform Now Available to the Entire Financial Services Ecosystem"
-excerpt: "Galileo Financial Technologies, LLC, a leading financial technology company independently owned and operated by SoFi Technologies, Inc. (NASDAQ: SOFI)"
-publishedDateTime: 2023-10-19T16:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231019333126/en/"
-webUrl: "https://www.businesswire.com/news/home/20231019333126/en/"
+excerpt: "Galileo Financial Technologies, LLC ... based on client risk appetite Utilize advanced data elements embedded into enhanced rules and machine learning-based models, taking into account entities such as merchants, channels, geo-locations, etc."
+publishedDateTime: 2023-10-19T12:22:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2023/10/19/galileo-payment-risk-platform-now-available-to-the-entire-financial-services"
+webUrl: "https://stockhouse.com/news/press-releases/2023/10/19/galileo-payment-risk-platform-now-available-to-the-entire-financial-services"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "42uoWypbT76dXOu58H4EzAPryHfTRm0SlfhotLhAyHlj0V34Q6QcTK/Hl5cGsG70L7G9GQrmN9DyDTH4A5/2z4+oMzTrwzA/Z9Uciq/vjGWgiQb4vLwtZNwB7HpSP+cMPIa4IqZt3xGVAwUyPHsInUbwoLiYN7ZXvEY4Hwvywbl6fWeT+sa8NydNCwDl7cZjMG8pBfe5/2JlFm62/6vsdIJMkxdY2T21snYRo4pmraSVwJgMoDnybx+gV9F/IWpm1EL3MSK5nYheo2feGwriLOOD1WiE1j0PzMdaKcBBYJEucKTHvZysOOkZ1heKX5wYezjCeW4jEwJ84VEAjNlHQIVHGHdPC1uYGmNpBnYTEzU=;jBHZ8d4jDSqv2+Ipto1SGg=="
+secured: "W9VjIxwXpDap/wJPsEbyTSuiyjF5GjZZOIJitvFvqwpxG/XIQPlgUrPj+IG93Ld9DxKihEQbqOR5C33ZEddHftJHmXuvIsepdqbgBIc/wUt6tTiRiT45D/WsOEH3jIU5oGZqVkTYLFP+MUrPdvuZFFv6Y9Uolg62HXEQTJgwNvvWp2Wilux928w5S8pmYmRpDZ8swp++wNLggGEt5lwrk3Elp9zzCZ/uBw2ofw/BHdWNatL/n+TI4QwWDCfePfpwX0BC/ks1hTQy93ghnWTTqpk5gmGPPJGvCVJYtn02PtCalTh/ROX4QcvNAai11pO10mBEqjtur+hZMdau8Cf7BFxYn2H+fj7ZyiAFyhcZB4QjG6oawkR/qaRoeOFCkg78xDgN3fXmNFdLL+t7DxJDEbyBWP8wfL2hp3RgvrfoUmW20ds5s278PWrmJSVSCCMOQo7K4g4oPoPKTZHencJ/sqDxvIOlWl2OSZ02IFcifwAFbuI8ptm1LgK0INCpROYWfxVZiYJI28cYS0C7CbGuHQ==;Ws5VeFJxK5Rz73N+53o4Rw=="
 ---
 

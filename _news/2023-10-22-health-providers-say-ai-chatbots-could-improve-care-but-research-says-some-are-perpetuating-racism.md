@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "Powered by AI models trained on troves of text pulled from the internet, chatbots such as ChatGPT and Google’s Bard responded to the researchers’ questions with a range of mis"
-    publishedDateTime: 2023-10-22T17:12:00Z
-    webUrl: "https://thegrio.com/2023/10/22/ai-chatbots-risk-spreading-racist-ideas-about-health/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 5
 
 secured: "uPxFe2Isb/VsWQsPUJIgfXXu6G7yC5qM/R5fRF2Bryq60NF58IeMtDNiDtSFhcyMNP92fBfOIXgi6Zaduuo6s1TLCxhT2ExUOLO+xkMCxhWaQTc2e6OT1oNE33yvHpvb347J4BZY/mPpeheNmPtQpc9PGX5B+mfRDQddpHEADXUrEfa10q4FeKl8IyBUPg9GBZjFC22OGNtaWDEZX7gl0C3wSVAoU72RXTfutuVdk60ZdEupcX4yntEw4JjWOvloEomzhgjJQCZEXzyqZSJGL+gLOf8j75Qt5dq/dZE13KfIHLQFWZjXoSrBmJ4FTgP4jhlSrUQ/lN0TNa7zkmE0BZbABnStLYJ3QhlPScL7j4dzoQyQRisyzJWBtW4r+dnllRO/Qw7tFc8hdILqMxsLIu4t97izJ5qYaXsLq4A/cvdGmUHsKt2hLJ4EsY4lMfCPBADUVTRTY3Ya86WAq7y68aHmnjSOMffx8hUslA1/O24CjiBXnv1kocCG1v4szj7VI2L8OekWGjZ1thLNSdCEUQ==;T6jF1nKh0f/MwaILreaASA=="
 ---

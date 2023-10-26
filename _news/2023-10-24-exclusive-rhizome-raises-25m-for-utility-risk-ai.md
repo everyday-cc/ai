@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/pro/climate-deals/2023/10/24/rhizome-utility
 webUrl: "https://www.axios.com/pro/climate-deals/2023/10/24/rhizome-utility-risk-ai"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Exclusive: SoftBank takes Indian founders on AI tour in Silicon Valley"
+    excerpt: "Indian startup founders at SoftBank’s office in Silicon Valley. Earlier this week, a group of 20 founders and CXOs from some of India’s biggest start-ups backed by SoftBank engaged in discussions with top executives of leading artificial intelligence (AI) firms in Silicon Valley."
+    publishedDateTime: 2023-10-26T02:48:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley-11599711.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley-11599711.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley-11599711.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/10/softbank-580x435.jpeg"
+        width: 580
+        height: 435
+        isCached: true
   - title: "Exclusive: How Republican Candidate Doug Burgum Would Use Artificial Intelligence as President"
     excerpt: "The North Dakota Governor and longtime entrepreneur says his White House would embrace the efficiencies of A.I."
     publishedDateTime: 2023-10-24T14:00:00Z

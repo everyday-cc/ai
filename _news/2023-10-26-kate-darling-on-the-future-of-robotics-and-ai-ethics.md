@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/kate-darling-on-the-future-of-robot
 webUrl: "https://www.therobotreport.com/kate-darling-on-the-future-of-robotics-and-ai-ethics/"
 type: article
 quality: 116
-heat: 216
+heat: 206
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-77.jpg"
         width: 1280
         height: 731
-        isCached: true
-  - title: "Good set of ethics, values needed to chart future of AI, forum hears"
-    excerpt: "The formulation of the artificial intelligence (AI) code of ethics, which is expected to be ready by 2024, should not only include the Seven Principles of Responsible AI but also inculcate education and awareness on ethics,"
-    publishedDateTime: 2023-10-21T11:00:00Z
-    webUrl: "https://www.thestar.com.my/news/nation/2023/10/21/good-set-of-ethics-values-needed-to-chart-future-of-ai-forum-hears"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/21/2347774.jpg"
-        width: 1240
-        height: 826
         isCached: true
   - title: "Robotics and artificial intelligence to transform O&M tasks in the energy sector"
     excerpt: "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news"

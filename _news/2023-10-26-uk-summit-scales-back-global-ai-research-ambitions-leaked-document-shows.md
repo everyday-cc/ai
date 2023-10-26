@@ -1,0 +1,29 @@
+---
+category: news
+title: "UK summit scales back global AI research ambitions, leaked document shows"
+excerpt: "Countries attending the summit will agree to look further into the risks of powerful AI, but could do so using existing institutions."
+publishedDateTime: 2023-10-26T02:32:00Z
+originalUrl: "https://www.politico.eu/article/document-uk-summit-scales-back-global-ai-research-ambitions/"
+webUrl: "https://www.politico.eu/article/document-uk-summit-scales-back-global-ai-research-ambitions/"
+type: article
+quality: 38
+heat: 38
+published: false
+
+provider:
+  name: Politico Europe
+  domain: politico.eu
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/10/25/GettyImages-1258631814.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "Opqzv+cdinB/Y4nc6XDH1b07rj4KDTyJe9k93GYXS8WgFbntKk6wtM/UuVD73Yq6MukQYp7IqwL6mERKRJHhUuuigETNUt10E/BK+1bsv+nw0CopdaytY7ng125ai3o4L+QbhsKMZJK0RZL/bujcGxndiry21mXox3VeBet/xtI3VzH6mP24U6aQOTzapfMsS8A1lODleLOdYuUORLllTLRF0bzheEAVW1ZL5f/icFFUV8LDDN4z/OsXFQMMECmM0pPwQGQDOgAuREojqbjTj5klhKxEqXETOlzuxg9Tda5kkscvtLfa6NQxwePm4ffB0U9qAPmeSIMp4AlxGDbANcrrwkxMk/YHlrxc2MZWb8o=;0rVyyl8OKMCjiY/PPb8hag=="
+---
+

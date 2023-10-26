@@ -43,6 +43,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "IBM beats expectations as AI powers software revenue growth"
+    excerpt: "IBM also reported net income of $1.7 billion for the quarter, swinging to a profit after recording a $3.2 billion loss in the year-ago period, when it was hit by a $5.9 billion pension settlement charge."
+    publishedDateTime: 2023-10-26T00:54:00Z
+    webUrl: "https://siliconangle.com/2023/10/25/ibm-beats-expectations-ai-powers-software-revenue-growth/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Krishna-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
 
 secured: "+Jb3DhBGgRQwjt9bvz3crprc4Tu9iTql7p2DY6ApSDqjEHr3g53wpuTNgJnU/eZmKcMow+JJAU5LJGgO7Y1AOZlKwwUB44qTSMyrfZuSFkCuaYfaPbWqLoyXoSr/OFjT7fPrZNUkg3q4SgK/Kyi73nWbT5RqnXojhJS+wp6X9mnkisWizEIk7Mx+ou/s+pBVd0aDo/6KyLW9ZYe42zQ6LKPVIlgbxCVtsmGC96+5+d8KOzqH6UVxYlfcuakiVmIVftrwun6l1rjvspjY1/2cz/BEMbBowQPEZPIuJhloICV8QsoMMbmbE3U5cK93rSHTO1bgMz3hlkXFUTZ+yB/uPkEE5gJGPgFU/hDUSXMfyuI=;3Yo3TAn0OZxmvjKTJjMOQw=="
 ---

@@ -396,20 +396,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft's Clippy is back, kind of, and now powered by AI"
-    excerpt: "A ChatGPT-style AI assistant embedded into Microsoft Office apps will become available to all from 1 November."
-    publishedDateTime: 2023-10-21T09:55:00Z
-    webUrl: "https://www.rnz.co.nz/news/world/500733/microsoft-s-clippy-is-back-kind-of-and-now-powered-by-ai"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 56
-    images:
-      - url: "https://media.rnztools.nz/rnz/image/upload/s--qJY1-yKa--/t_tohu-badge-facebook/v1644404562/4ME30XD_copyright_image_257161"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "“If someone took away my Copilot, I wouldn't know what to do” - Microsoft CEO Satya Nadella on how the AI future will affect us all"
     excerpt: "with Microsoft Azure playing an understandably key part. “The cloud is helping to make that possible,” he added. “Data is also already in the cloud. So, therefore, the adoption of AI is just the next step, and it has compounding effects. But we ..."
     publishedDateTime: 2023-10-21T17:32:00Z

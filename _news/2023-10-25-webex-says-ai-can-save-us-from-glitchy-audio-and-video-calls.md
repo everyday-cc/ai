@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/webex-says-ai-can-save-us-from-glitchy-
 webUrl: "https://www.pcmag.com/news/webex-says-ai-can-save-us-from-glitchy-audio-and-video-calls"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Cisco Unveils Webex AI Strategy At Webexone"
+    excerpt: "Reimagining Communication with Webex's Pervasive AI  News Summary:   <li /> New Real-Time Media Models (RMMs) in Webex har"
+    publishedDateTime: 2023-10-26T02:54:00Z
+    webUrl: "https://menafn.com/1107304815/Cisco-Unveils-Webex-AI-Strategy-At-Webexone"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/25/PN_b9d2a18c-0_Image_In_Body.jpg"
+        width: 480
+        height: 360
+        isCached: true
 
 secured: "ueJoopNWP/57ZfgqFiBTcj3jFjlyc1IGM8D5hgMfRkmCDp+R0w6ClHcy5fzhn01pm4IEI2xAJm1d96/TXi1V6rBCfkg7AU7ITaQflYw00psD+KuplqVNTWe63ltj74P7yOUC5Xy8xHHgjVVIcNryl6941ARtmFLGz1sR+X8H/1RgUR2OiJGc7nmcF2Fup04RVwNXXIafbOQEL2mcCgOs2rojQOgHZ3ubziNOuzes1eYlNzNUh33qNGC89BkW2XQxew1H3im7Z6M0u7X6G4LnVVvlY/c+Tb2zrfCRAmL7Q92tBzsjglnuaYxdWXgUwWrwQYgWmiV3dwRKEeHhhCbJC9F5vR9iAqiOWkSsrEvUlnI=;dp+iejOrokm7O4LP4E1b2Q=="
 ---

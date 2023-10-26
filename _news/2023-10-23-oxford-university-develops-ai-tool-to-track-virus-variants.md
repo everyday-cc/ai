@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/uk-england-hampshire-67173334.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-hampshire-67173334.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Governments race to regulate artificial intelligence tools"
+    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
+    publishedDateTime: 2023-10-24T13:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/governments-race-to-regulate-artificial-intelligence-tools/articleshow/104677130.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 17
 
 secured: "5361Lmki1VbjEog161gXFOfmf09aVimfaLzHWRoYRZmzhPqiqcgnFKb8UIYFXjA0Lv7RoNDF1Rzr71G+3GzY5CRaxJg6KaL8LnjhUkxqyfdifSkdCckQF3l/fuiy3vN8ZcEiLzCbqGVnObxuBoAhD7Hs4RiqLbv4Gy+f7ZTHZL/+xuz3M5Iu6nGfNq0UAIIJ49enXnXTeh/vN2Q27kudoi/Ye0e7xaJEvRsFNl1adlH4coNJJWaA+rM6+xBoMQ8msmjJQkyLjgE67N6fc04tJhKQKgv4CBQi3SOy997QqLlh9khdmogh8+z5YPM24+qA15ij0spglvErdqEb0meqZ4Qu0p1/HPiq9LH58yGJ9HQhgqouv5dfEa/Ix7s9ybZPrey5UH90PS7n9U4Ddwio7ron8U5QLTWtKjuhUKSRX9SYcmNStl2tvNPyliK8vaxwkMJN8rvPAWZfIZOFG7krSHhbpcKX0qyLVuCGPUpwGgsvDv9iIwYSgyhMj39Id6fX5fI0Sj5lqnrNPmqPjxfbPQ==;cZcsBplbMqNA+3G4liSQ0Q=="
 ---

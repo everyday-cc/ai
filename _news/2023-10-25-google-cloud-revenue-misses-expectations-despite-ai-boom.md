@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/24/alphabet-q3-earni
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/24/alphabet-q3-earnings-google-ai"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM beats expectations as AI powers software revenue growth"
+    excerpt: "IBM also reported net income of $1.7 billion for the quarter, swinging to a profit after recording a $3.2 billion loss in the year-ago period, when it was hit by a $5.9 billion pension settlement charge."
+    publishedDateTime: 2023-10-26T00:54:00Z
+    webUrl: "https://siliconangle.com/2023/10/25/ibm-beats-expectations-ai-powers-software-revenue-growth/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Krishna-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "Google’s ad business beat expectations but Cloud miss knocks stock in after-hours trading"
     excerpt: "Google released its Q3 earnings on Tuesday that largely beat Wall Street's expectations, although a miss on cloud revenue sent its stock sliding in after hours trading."
     publishedDateTime: 2023-10-25T01:51:00Z
