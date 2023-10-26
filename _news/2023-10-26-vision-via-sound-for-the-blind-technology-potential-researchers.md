@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/it-industry-news/development/‘vision-via-soun
 webUrl: "https://itwire.com/it-industry-news/development/‘vision-via-sound’-for-the-blind-technology-potential-researchers.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 281
     isCached: true
 
-secured: "R2VBMWnIE+p5Al5ZMKQcc9cslXcPnjHuJKv7pRRaZv5SsCUgC0xxVVbjWg6RvMJd6I3rrpQom/q9P42ESQbgDvNLBZStS0M38Uk+ySsO17BNTJQxFAWOwX0M2CW642tfZHM3+CvPq8X9u/oE1Qh5Sq2MPjwDzrKBpCnsw7ZcN//bTIR0volkerxM8cnL4VBrRvxiKYNvnA93aNbkV7cIvUFXKxG4s4Ln+Lm7wLQwaGn2hZGZw5ZplGUuvNdJs6b8ZrwSgMfkDBnfuJIvuevok0/fXS4hjLcW/dKzMMpD1rJmCaHB1C48mgnp3Y2YHqSCWSWz/mw7ZccwdlDNrl5mjU5sTmU5784ZYdyBN4UCLbo=;TXsQ3relIcexF6U8z8i4ew=="
+related:
+  - title: "Bat-inspired glasses help the blind & vision-impaired ‘see’ using sound"
+    excerpt: "Inspired by bats’ use of echolocation, researchers have developed smart glasses that transform visual information into unique sound representations that enhance the ability of blind and vision-impaired people to navigate their surroundings."
+    publishedDateTime: 2023-10-26T06:04:00Z
+    webUrl: "https://newatlas.com/technology/acoustic-touch-glasses-help-the-blind-vision-impaired-see-using-sound/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 69
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/aa5d338/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1b%2F68%2F07b3ff5049e0b3386b528aacc7b9%2Fimg-20220510-145947717-hdr.jpg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "uPc4Nyb5wNClCk4sr5NYi9+asB6gcAZ+4W5iyJaFUgn0w1BGE8HnzFfLA36AbhjbmTqA/XUQf7YOpBUgcASS5ySAItbEB/L4eQ7gKW5QIMhM79QKD0EMAKyD3QhSVCKIu5C1VM9AzwuXzDIbzhKHcgZWsUATJBQ2xRxHEguV7rnl39QpY8V8+zBqIQvebBa5ZcilzFNbhGZo7Yr0PbA47UBjyUcKNKglCWC1I3/FhMSqaMOjZVuVHU5250HdrAO861Ux9tvMxSAX5oF0O41dUxQx28QyYn6K9b0RNA0mO0eC16/1O73AMirpvY75hKHmGAsSRNKIVhFn0/8zjOnkIBFmBOfjygNETjy0idKb9eus7EsQ69nsFa5M/pSzyDxB2V8HhrCp63VaBjSED0M+fQBUYS7P9kb2qdYK+SJAJLQB0JETBIiIX5CFPeu8yptbkbXvVKdR8TWvf7tsLa8hSrkM0X+JpYsd6RhcuWFJYLGVoj0BrJw22uaoJe1AGhKjeE9wEmxFb39xatep5otlfw==;2NB2Kc+7qYl2UrDgFXJpEQ=="
 ---
 

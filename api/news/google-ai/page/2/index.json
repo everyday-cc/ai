@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-22-3-ways-ai-can-help-communities-adapt-to-climate-change-in-africa.md",
+      "title": "3 ways AI can help communities adapt to climate change in Africa",
+      "excerpt": "Last week at the inaugural Africa Climate Summit (ACS) in Nairobi, Kenya, we joined African leaders and shared our commitment to advance AI solutions to address the clim…",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-africa/3-ways-ai-can-help-africans-adapt-to-climate-change/",
+      "originalUrl": "https://blog.google/around-the-globe/google-africa/3-ways-ai-can-help-africans-adapt-to-climate-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-deepmind-ai-hunts-down-the-dna-mutations-behind-genetic-disease.md",
       "title": "DeepMind AI Hunts Down the DNA Mutations Behind Genetic Disease",
       "excerpt": "A new DeepMind algorithm scanned 89 percent of the 71 million possible single-letter genetic typos and categorized them as either benign or pathogenic.",
@@ -1404,58 +1447,6 @@
         "Machine Learning",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-brainchip-sees-gold-in-sequential-data-analysis-at-the-edge.md",
-      "title": "BrainChip Sees Gold In Sequential Data Analysis At The Edge",
-      "excerpt": "BrainChip has singled out such data processing needs as a key opportunity to apply its Akida technology, which specializes in Event-Based Processing and Spiking",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/08/22/brainchip-sees-gold-in-sequential-data-analysis-at-the-edge/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/08/22/brainchip-sees-gold-in-sequential-data-analysis-at-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d5277aba68f18673d9eed6/0x0.jpg?format=jpg&width=1200",
-          "width": 822,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/08/22/brainchip-sees-gold-in-sequential-data-analysis-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/08/22/brainchip-sees-gold-in-sequential-data-analysis-at-the-edge/amp/",
-      "publishedDateTime": "2023-08-22T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

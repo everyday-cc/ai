@@ -32,6 +32,20 @@ related:
         width: 728
         height: 381
         isCached: true
+  - title: "Finnish startup secures €330K pre-seed funding to tackle organizational knowledge fragmentation with cutting-edge AI"
+    excerpt: "Helsinki-based startup Wudpecker has secured €330,000 pre-seed funding from investors, including Trind Ventures, Accelerace, and Sofokus Ventures. The funding"
+    publishedDateTime: 2023-10-26T06:38:00Z
+    webUrl: "https://arcticstartup.com/wudpecker-raises-e330k-pre-seed/"
+    type: article
+    provider:
+      name: ArcticStartup
+      domain: arcticstartup.com
+    quality: 14
+    images:
+      - url: "https://arcticstartup.com/wp-content/uploads/2023/10/wudpecker-raises-e330k-pre-seed.jpeg"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "NP/QqnhHLfa5r9oPbA/Tv/hG82ztNMoHdURZlmhBaiWWOO9Ea3kFxVzrAqZIcxT0ndRl79msGzQT7JTHUf3ZA36yYCk8tTvCbC2kY81fA9iV9PeM2K9PpQsLymDF857jWZR4Ds0tMTVfCJ6/iMLYa7Q7jp6n2H+lpMS2becH9XOkdGY1C4NPUXzluTA7Sm2hKacNKAlKVq5EqgidCZ5txX3PmEEuFjJCyLhdEkd4Zk9/lnytTqzKvneflUohWvIQLV/zea+oVrDblI82msC/rVTQUeiEgd+ByeQ03/DMmF2YAK5dbPjFDtNjXUt9P+RSVuV0RTF93KhJvBo3+fgBS27yIHGE/8BhPMHx3+AiP3E=;vXO2zIoME5+UQI1zdSgc6A=="
 ---

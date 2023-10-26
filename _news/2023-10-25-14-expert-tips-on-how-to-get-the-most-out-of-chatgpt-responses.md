@@ -81,6 +81,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 23
+  - title: "How to Create a Resume Using ChatGPT A Step-by-Step Guide to the Perfect Resume in Under 90 Seconds"
+    excerpt: "In the early 2000’s, it was common for people to say things like, “the internet? Oh I don’t care for any of that fancy tech stuff.” Fast forward 10 years later and nearly everyone in the world was using the internet on a daily basis."
+    publishedDateTime: 2023-10-26T06:35:00Z
+    webUrl: "https://techbullion.com/how-to-create-a-resume-using-chatgpt-a-step-by-step-guide-to-the-perfect-resume-in-under-90-seconds/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 10
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/2-5-450x270.png"
+        width: 450
+        height: 270
+        isCached: true
   - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
     excerpt: "Powered by AI models trained on troves of text pulled from the internet, chatbots such as ChatGPT and Google’s Bard responded to the researchers’ questions with a range of mis"
     publishedDateTime: 2023-10-22T17:12:00Z

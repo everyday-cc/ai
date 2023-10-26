@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/transactional/another-legal-ai-start
 webUrl: "https://www.reuters.com/legal/transactional/another-legal-ai-startup-eve-launches-with-funding-menlo-lightspeed-2023-10-25/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 17
+  - title: "Finnish startup secures €330K pre-seed funding to tackle organizational knowledge fragmentation with cutting-edge AI"
+    excerpt: "Helsinki-based startup Wudpecker has secured €330,000 pre-seed funding from investors, including Trind Ventures, Accelerace, and Sofokus Ventures. The funding"
+    publishedDateTime: 2023-10-26T06:38:00Z
+    webUrl: "https://arcticstartup.com/wudpecker-raises-e330k-pre-seed/"
+    type: article
+    provider:
+      name: ArcticStartup
+      domain: arcticstartup.com
+    quality: 14
+    images:
+      - url: "https://arcticstartup.com/wp-content/uploads/2023/10/wudpecker-raises-e330k-pre-seed.jpeg"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "QaZP+r78OQES4tM1CwbjrYBzer55anMZ5i331TxXNG6VsRqsGfnOEhdecrJu0P0ABPy4hlWkEdrKslNQ2F5e8f0vrOY0DrBnNj600p2VHJx5JWNbfQ8tSMILGDBmrvrIMZNYOYncEquTHi1+YrFpnLgPUiB6d4YZc5nAuAz0m50PAvKzVDAJbqOQqezfvK3mQyG0Qa0ABM9gxa8vDh/P7GomZO4ymhXGlbgcGiRVVqwPwI8esSI2JUuxSnnTfM1GQl0fUDi9zOjQEFBZayvSLcuDuKzBATWkw3LuDnIu3qW25ABIV09K+ODOcommH/llK8RzUb0OLo+usMvJKZjJFfgLHHCVxHg9Px5uy4hw5JLk9yJvkuC1NN1Gn6/vCC2cDql9ai+3O1njmhcb2e0tv1qjp7omul9A57KkE8kzKV/FwrLOs57/093EXKN1OLstCYwS43A5qQJ0u8STW9/F8tBL5ZxVnqt7VY0EcX1ZxYadP6wB8UnhjdxmzC7oFAV4yAfzLCdqepV/HjcafWaNvg==;XsRwrhUywwfG9mduLfD+5g=="
 ---

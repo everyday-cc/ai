@@ -40,6 +40,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "How artificial intelligence is shaping the college application process"
+    excerpt: "College admissions are facing a new challenge in the form of generative AI in the college application process. How are universities dealing with this?"
+    publishedDateTime: 2023-10-26T06:06:00Z
+    webUrl: "https://interestingengineering.com/culture/ai-artificial-intelligence-college-application-process"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/25/image/jpeg/OO4THCCxc4PRHgCOdhZiA7CW9F0PtYx8zm7USysR.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "f682NOAmiWY+SGuy7YLZLPP+ff7Y4xhohmSToBXbA6eCNCfrs7WvVbXqmyy+QHxiFMNkB/WMsq98BOduhhbeFNtr3E13o89+/lJdT2PKJUobb/w+ENmNjE+K9x4XmcWpGh/qqlTr5j0sJWzHW+inOTMu4AVJmAhxztzwUmyuKn8ShR7WzYb8TChN92FcEatMdO6b0skRoPRaLL8ScbJeVLIMrKH92I/0IDtCTFBCp+luZuJPD+UE8SBb3DQUH38l++aJ+MLsc5CpAurCnQZYKODYjFtkSZk3d9yJuoDlMnx5hPlkMv872LPalwy45JC3k+zkiLHqKESUHI8Uu9Iv4C5tyjyAR8ZawE55HcNkk1Y=;6ihZVSB87aoB2yRg8avQtA=="
 ---

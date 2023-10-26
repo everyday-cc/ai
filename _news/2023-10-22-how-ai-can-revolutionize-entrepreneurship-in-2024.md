@@ -156,6 +156,15 @@ related:
       name: openaccessgovernment
       domain: openaccessgovernment.org
     quality: 19
+  - title: "Companies integrating AI to build innovative solutions"
+    excerpt: "Artificial Intelligence has seeped into our lives and how. AI based Virtual assistants like Siri or Alexa are great for entertainment, whereas e-commerce portals are utilising the full potential of"
+    publishedDateTime: 2023-10-26T07:34:00Z
+    webUrl: "https://www.pcquest.com/companies-integrating-ai-to-build-innovative-solutions/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 19
   - title: "5 Jobs Artificial Intelligence Can’t Replace"
     excerpt: "In this article, we will look at the 5 jobs that artificial intelligence can’t replace. We have also discussed the potential impact of artificial intelligence on jobs in another article."
     publishedDateTime: 2023-10-24T11:49:00Z

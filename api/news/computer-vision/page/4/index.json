@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-11-ai-exploits-our-social-media-habits-to-supercharge-scam-attacks.md",
+      "title": "AI Exploits Our Social Media Habits To Supercharge Scam Attacks",
+      "excerpt": "Even new technologies aren't safe from AI-based attacks. Over the past three years, banks worldwide have introduced biometrics to enhance security. The two most common attributes were face profiles and voice samples.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-exploits-our-social-media-habits-to-supercharge-scam-attacks/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-exploits-our-social-media-habits-to-supercharge-scam-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62630f412ad721ef13d25f23/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-exploits-our-social-media-habits-to-supercharge-scam-attacks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-exploits-our-social-media-habits-to-supercharge-scam-attacks/amp/",
+      "publishedDateTime": "2023-09-11T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-a-vision-of-ai-enhanced-test-automation.md",
       "title": "A Vision Of AI-Enhanced Test Automation",
       "excerpt": "To further increase testing precision, one could employ feature recognition bolstered by computer vision libraries that can categorize and identify UI elements within application screenshots. Convolutional neural networks (CNNs) step in, classifying ...",
@@ -1286,49 +1338,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-cyngns-proprietary-computer-vision-achieves-araucos-complex-application-requirements-by-utilizing-ouster-lidar-in-a-multi-sensor-system.md",
-      "title": "Cyngn's Proprietary Computer Vision Achieves Arauco's Complex Application Requirements by Utilizing Ouster Lidar in a Multi-Sensor System",
-      "excerpt": "Cyngn developed proprietary computer vision algorithms that are bundled into a Pallet Stack Attribute Estimation sub-system within the DriveMod perception stack. DriveMod also uses lidar to inform the location of its vehicles within the site. Fusing sensor data from lidar and other sensors, DriveMod's advanced autonomy software enables:",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/22/9867923.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/22/9867923.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2190873/Cyngn_x_Ouster.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

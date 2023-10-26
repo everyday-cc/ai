@@ -703,10 +703,10 @@
     {
       "path": "_news/2023-10-17-baidu-unveils-latest-version-of-llm-ernie-40.md",
       "title": "Baidu unveils latest version of LLM, Ernie 4.0",
-      "excerpt": "Visitors learn about the autonomous vehicles at Baidu World 2023 in Beijing, on Oct 17, 2023. [Photo by Zhu Xingxin/chinadaily.com.cn]",
+      "excerpt": "Visitors learn about robot products suitable for home application at Baidu World 2023 in Beijing, on Oct 17, 2023. [Photo by Zhu Xingxin/chinadaily.com.cn]",
       "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_9.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_9.html",
+      "webUrl": "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_6.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_6.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1256,6 +1256,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-12-the-pinnacle-of-artificial-intelligence-navigating-the-technological-odyssey.md",
+      "title": "The Pinnacle of Artificial Intelligence: Navigating the Technological Odyssey",
+      "excerpt": "Artificial Intelligence (AI), an ever-evolving paradigm, has traversed a remarkable trajectory since its inception.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/science/the-pinnacle-of-artificial-intelligence-navigating-the-technological-odyssey",
+      "originalUrl": "https://www.bbntimes.com/science/the-pinnacle-of-artificial-intelligence-navigating-the-technological-odyssey",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Pinnacle_of_Artificial_Intelligence.jpeg",
+          "width": 720,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-is-artificial-intelligence-right-for-your-business.md",
       "title": "Is Artificial Intelligence Right For Your Business?",
       "excerpt": "Artificial intelligence (AI) has evolved to become a cornerstone of the business landscape, driving transformational changes across industries. As a business leader, you will find yourself at a crossroads, contemplating whether to embrace AI and if so ...",
@@ -1303,50 +1346,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-artificial-intelligence-ai-in-ultrasound-imaging-market-analysis-research-growth-and-forecast-to-2030.md",
-      "title": "Artificial Intelligence (AI) in Ultrasound Imaging Market Analysis, Research, Growth and Forecast to 2030",
-      "excerpt": "With A CAGR Of Approximately 9.67%, The Global Artificial Intelligence (AI) in Ultrasound Imaging Market, Valued At USD 917.11 Million In 2023, Is Forecasted To Expand To USD 1750 Million By 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35197746/artificial-intelligence-ai-in-ultrasound-imaging-market-analysis-research-growth-and-forecast-to-20",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35197746/artificial-intelligence-ai-in-ultrasound-imaging-market-analysis-research-growth-and-forecast-to-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35197746",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35197746",
-      "publishedDateTime": "2023-10-11T19:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI",
         "AI in Autos"
       ]

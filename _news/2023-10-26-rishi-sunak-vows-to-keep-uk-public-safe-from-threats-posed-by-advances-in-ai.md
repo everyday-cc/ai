@@ -37,7 +37,7 @@ related:
   - title: "AI dangers must be faced ‘head on’, Rishi Sunak to warn ahead of tech summit"
     excerpt: "Government document says impossible to rule out technology poses existential threat"
     publishedDateTime: 2023-10-25T22:02:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit?ref=biztoc.com"
+    webUrl: "https://www.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit"
     type: article

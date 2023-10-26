@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/how-ai-helping-disadvantaged-uk-young-people-
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-helping-disadvantaged-uk-young-people-get-top-universities?amp"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Diginomica
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence is shaping the college application process"
+    excerpt: "College admissions are facing a new challenge in the form of generative AI in the college application process. How are universities dealing with this?"
+    publishedDateTime: 2023-10-26T06:06:00Z
+    webUrl: "https://interestingengineering.com/culture/ai-artificial-intelligence-college-application-process"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/25/image/jpeg/OO4THCCxc4PRHgCOdhZiA7CW9F0PtYx8zm7USysR.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How AI is helping Baby Boomers find kids who need a mentor"
     excerpt: "Mentors are reading ‘Harry Potter,’ learning to play video games and using AI to make art The challenges younger generations face aren’t the only things mentors are learning through Eldera. Some mentors have formed a book club to start reading Harry ..."
     publishedDateTime: 2023-10-23T16:38:00Z

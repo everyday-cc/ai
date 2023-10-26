@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-26T04:13:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise-application-modernization-1032741098"
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise-application-modernization-1032741098"
 type: article
-quality: 35
-heat: 35
+quality: 52
+heat: 62
 published: false
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Natural Language Processing
   - AI
   - Facebook AI
+  - IBM AI
 
 images:
   - url: "https://mma.prnewswire.com/media/2258171/ansible_multitask__2.jpg"
@@ -40,6 +41,6 @@ related:
       domain: ummid.com
     quality: 34
 
-secured: "7Fx9v5xdn2N03dC74ZCIW4G4mMTkXDGTzsFI5fEWsmGC4SLm1caPBVEKnYt+CJkZYVhqUl9SDMXbwn23p2dRSeLP2M2E0+UnEqvv5AwpZpSFtKzkJg55YrEsYhQu/nnVmvBsEnCQp/csGYRyvkoGnrgHTocmDFsgCs0Gq2sS6b2e6EXjU0HAiPbMGlxL2mKUGDV3psGLBhc4k0kX9yqKOIG6/zVK9jBnvq6b+vR2+64BNUHcTMcRBdHXFj0HR5myyftU8P8F+apRuwPj7PapoCZVP3a30HhR2erXvNkXaVRpnWjMA/2KBsF1wEmIlgEQLrhJ0aJUEeFM8qEC+L3bY0HtWRXW5Yamt554VrZWbv0=;7kNKEfGlbcWcMFHJl6DHxQ=="
+secured: "xov6WcF1FnZrOkg3oVWBN1SPbKAFgRM1btywYvpiSN/Hry/AUEGLUXV5BHyK81ZT0pi6ylOivgrxZH4grl29ZZmBlC7romILZL+DJdEv/UFS3T4VB7yPoPwsDBq868Ty2fgPIRsFIWXtZZUkyHDQRQ3HFeygXRlM943eQ5pHcc73Akw+MWU4jVjSQP1nShN1QDIMtvKgiAPNs1vp2dIa/axU5wU9AYIyvpKOL6Ro6uxkD2xJh0s5QQxAlHJFDOZ7/JI93yr0r0jzcr2vrkEeT1r22CUrAJeBHZoG7Fr+ArMjoePVJTd917d0eNdqj74A/rCnKYR+3mfibaPNUPDphldVAsYgjAPEmpjLg/w1vQQMHk1FTIO3cUP1Vc56g+R2NNgw8WFHcWJ7yaHO8mFx8SwqB1aL3tBWlWUoZdlBB9LSTz7vepNm487ZVnIY4v7koAk5SjVuIIlkShA27pdoW2tN+86I1OHSJrjcbRYlP+eKRgpCjb1EysKFNv593OiYbc5vvYD8Q7h3RSETLOVD4g==;Tq4gq5E/IWIqQ7jgx7dgTg=="
 ---
 

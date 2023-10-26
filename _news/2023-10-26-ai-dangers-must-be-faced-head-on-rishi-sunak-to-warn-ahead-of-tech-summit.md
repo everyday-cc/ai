@@ -3,8 +3,8 @@ category: news
 title: "AI dangers must be faced ‘head on’, Rishi Sunak to warn ahead of tech summit"
 excerpt: "Government document says impossible to rule out technology poses existential threat"
 publishedDateTime: 2023-10-25T22:02:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit?ref=biztoc.com"
+originalUrl: "https://www.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit"
+webUrl: "https://www.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit"
 type: article
@@ -56,6 +56,6 @@ related:
       domain: ft.com
     quality: 14
 
-secured: "PmtVBLcDn1nigty5Ts/cn95H0mptN7eXUgw3iFjFHNvvWNWbu7DNkJLRXdJN9WNVEqQM3eIZRMYDQ7VSxVVnI93BILdrlgIZwdfhTLQP8a0WcK9IF+pNaNKLkUzXmsVsJ6fDJOnMTMH1XvQ2mEDPP58itQfjd8227UV99xTE/njN+qhOmZLhJUSzCXQyzi/99OtqDzI7JJCK/8poc6SB9BQgxr0OmKK7mb4Fy2srmI0yvpS4rdapQpz8uCZdHi1/CRVqhVRgnwvWyoomUDNZ6Z7aP360TSOcLUTLwPpfBNm4LLprwCOOdkKkunDrQtOcYlE4p0QktLechb6nn4WwaPI5CymZsA+Y+rbPN+Ut+Oey7FicHPH/06c8U5hFlxDHEEAFxCgW7EPV8QQgkvlKTY4SMOKx2N/kR/3gWlfXaiwyOxKCf7OqoWYS+/GTisDICcrQFUjG//IO8zCKIGz7LkwfZA2Gn2ukx7E6WuZ+TeVGfpIIt07pTmYG392UdoByJwkfmW5fsJzrrOwptK21PQ==;zHFo+P/YKg/qkNaVBNwZSQ=="
+secured: "vu26VR2+Bok1Hsya6nKoU2eQaYUgazy2/hnMWj4SIA6ZNNfrv308gOZACM3fdKLLEM1K9oz6L2QZgi6DqLV/MUZkL7hHnUetoKzgOtGhVF+3Uo8rF1X+tUVxNMqJXQbbFyGnEH+7EX9E1mH8JNIXPATNzT8czWNsgPymyrj4gT88xjy+BUymKpWQhEnN//OAvTjvsSPteCQXJ2BwNPh1KnxX3+8HHvr6mkvOJy8BDN14VaL8gPBBF3DFdXyeUMHkorlzs5N1kfKMrTqfAy5+4eaxL/E3DLhQ8P00uT49HV1TBc6r78kkZ2u5LCfDvZUrOzOR0mIAfu661BZOjeiF4n+bPXUIlclFlDXPu/UICIA=;lVJDDOodbgTIGal8Nd/tYw=="
 ---
 

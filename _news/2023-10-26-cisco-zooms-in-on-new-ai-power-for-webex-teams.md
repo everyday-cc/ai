@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/virtual/cisco-zooms-in-on-new-ai-power-for
 webUrl: "https://venturebeat.com/virtual/cisco-zooms-in-on-new-ai-power-for-webex-teams/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/03/ipad_lifestyle_video-still-shot_-image-3-100938875-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Cisco Unveils New AI Strategy For Its Collaboration Platform Webex"
+    excerpt: "Global networking giant Cisco has unveiled a new AI strategy for its collaboration platform Webex that will improve real"
+    publishedDateTime: 2023-10-26T07:05:00Z
+    webUrl: "https://menafn.com/1107307570/Cisco-Unveils-New-AI-Strategy-For-Its-Collaboration-Platform-Webex"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/26/I_19d2bimage_story.jpg"
+        width: 479
+        height: 246
         isCached: true
 
 secured: "OElEJgvMM5jZIDIJs9gUeIKpnA+7FgCH6BOlPScQunpdDKxLnVqHoJH3qSLRglr4EGWmIiMfeh2idXkuXMKlrClt88pScFpZw1PQh5RMGpV2aA20w49VZ/fgf7YtVpd8ZR4X4OYEqkJAnWd4HPpZnrVkwVC667hLVOf3clZAVwe94n/ax/lQ1sPUI5uFIhDJEAikMlNQ1ePgt1iq3+HSMgXmMsWAgIw2C4oSGcqXaGi3RF4vlMR41K7L8TV3gSQZlL3kd2qibcuD6LFIkUMqJO/FRF5pS++h/I+moaG3z3/vE4r2Pc2/K/IUjYo8rIRH4CGIskFWgeImx9WSRPbkwdPwjlX1W3YzSsFJTSCfUDMD6t8kyXd3K/axDcv87V7CGxhXDLJT2dkSjK0g30J53klGeZ3rD5bcQREJA7Bg9qbUrmElDF1keazgfB0xJMOaNcyqpaJBZGoDTxJtUd50NYGy+YDxuUoxz93o5RsN3bo488WiEiQgCkq3QwlzsKtazdIwmcMs6/bdWsNY+AZubg==;NlQW5hHuBILAETRnYsZU6Q=="

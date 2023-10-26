@@ -3,8 +3,8 @@ category: news
 title: "Microsoft took a chance by igniting the AI race, but it seems to be working out well for the company"
 excerpt: "The lesson from Microsoft's strong AI-fueled quarterly financial results is likely to push other companies to charge ahead on AI products, for better or for worse."
 publishedDateTime: 2023-10-25T19:32:00Z
-originalUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html?ref=biztoc.com"
-webUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html?ref=biztoc.com"
+originalUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html"
+webUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html"
 type: article
 quality: 39
 heat: -1
@@ -607,6 +607,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Frontier Model Forum $10 million AI safety fund – OpenAI, Anthropic, Google, & Microsoft"
+    excerpt: "The Frontier Model Forum, an industry body that includes companies such as OpenAI, Anthropic, Google, and Microsoft. Dedicated to AI safety"
+    publishedDateTime: 2023-10-26T07:12:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-frontier-model-forum/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 47
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/OpenAI-Frontier-Model-Forum-updates.jpg"
+        width: 1280
+        height: 717
+        isCached: true
   - title: "Microsoft reports higher profits and revenue powered by cloud computing and AI investments"
     excerpt: "Microsoft has reported a 27% increase in profit for the July-September quarter compared to the same time last year."
     publishedDateTime: 2023-10-25T01:23:00Z
@@ -727,6 +741,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "UiehhNIKois3HvOdz3oK1QSprkRr7VQ5VGqWEQthLPCsLXr3LY/AxkbHJJXFmBDbLGCIg2uNZhUZmmUtrw2WnrZyQZwSQKBZHiGVNbeHz/lAaJ1rJantKYseHxUq7Vo7AEz7I8Vymz4RwyFPIPQmXr2ayRe14zVOak1U7juq9Rjy6XuTGURFFh1yMLlEhM5GBwFvoSly4pGsH2i5KhYwXI6KVhXRH6ph2nJ1ALU8fDU3jqjZvWfAWo5TwVuDxrq6XnXkzQ+tgG5kYD5IyK72BWEc8aYBf68QZ2LdL7vujCM1WvP7y1WM0iRt+W1DzuIUSiizRZzYKK3eKY5jkG4fLv95BEkLuaTGzYK58Job/fs=;EobNlfXuObNInkvjwQxSMw=="
+secured: "hzUobZoKRP8Qx+eNfLkAUlTUC4R/cunSQADvo8og72LwfKcW8tasEdzS2ZPbL5wlS1uJiXrk+nPcnu9q0gkdLeIORAd+wzhhT1ALUwTE6fGJhoaho+22PeW1/lxBrJzgx/hcSe8K03Yd8hAQzTyqgLzUddjk0bIF97aJ9DBMjJcmNA5MBQHfx0FU0cMG1iRyNekpn/Rg8Xcu/MS9qi/TmelRe8XxZb2yA41SVeETXmJ5DaVPZqR7k5RkjzSx+80QVmQcVujWO6CH/a4FQl9g41n18veOGlfAFIhAQ071U7RGreDlVyDAkt1CJxjhwzi2iwWY0e7qRvooU29zdW9nvYvX7BToO6FyWp4qAFxGdfk=;x8MDEZm9MrKMjXxpmPy7jA=="
 ---
 

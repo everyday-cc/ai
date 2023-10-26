@@ -27,7 +27,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 35
+    quality: 52
     images:
       - url: "https://mma.prnewswire.com/media/2258171/ansible_multitask__2.jpg"
         width: 400

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-25-how-ai-is-helping-disadvantaged-uk-young-people-get-into-top-universities.md",
+      "title": "How AI is helping disadvantaged UK young people get into top universities",
+      "excerpt": "Dataiku’s AI tooling is helping UK Higher Education access charity The Brilliant Club better identify students at risk of failing - reducing their chances of getting into university",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/how-ai-helping-disadvantaged-uk-young-people-get-top-universities",
+      "originalUrl": "https://diginomica.com/how-ai-helping-disadvantaged-uk-young-people-get-top-universities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2023-05/7A011687-ABD8-454C-938D-6D686AFD5F9B.jpeg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/how-ai-helping-disadvantaged-uk-young-people-get-top-universities?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-helping-disadvantaged-uk-young-people-get-top-universities?amp",
+      "publishedDateTime": "2023-10-25T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-25-insurance-companies-are-betting-on-ai-and-mass-data-analytics-in-a-battle-against-fraud-that-costs-billions.md",
       "title": "Insurance companies are betting on AI and mass data analytics in a battle against fraud that costs billions",
       "excerpt": "Insurance companies are using AI to flag suspicious claims. One company said their machine-learning system finds three times more fraud than manual or rules-based tools.",
@@ -1475,49 +1518,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-contentengine-ce-researchhub-accelerates-research-report-acquisition-with-ai-automation-and-the-power-of-amazon-marketplace.md",
-      "title": "ContentEngine (CE) ResearchHub Accelerates Research Report Acquisition with AI Automation and the power of Amazon Marketplace",
-      "excerpt": "MIAMI, Oct. 2, 2023 /PRNewswire/ -- ContentEngine (CE), industry leader in market research report aggregation, is pleased to announce AI Automation to take the heavy lifting out of the research ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/contentengine-ce-researchhub-accelerates-research-report-acquisition-with-ai-automation-and-the-power-of-amazon-marketplace-1032671810",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/contentengine-ce-researchhub-accelerates-research-report-acquisition-with-ai-automation-and-the-power-of-amazon-marketplace-1032671810",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

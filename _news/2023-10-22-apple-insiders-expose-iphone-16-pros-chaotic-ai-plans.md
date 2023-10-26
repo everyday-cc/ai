@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Forbes
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Insiders Expose More iPhone AI Details"
-    excerpt: "The details come from noted supply chain analyst Jeff Pu, who reports that Apple is looking to build a significant number of AI servers in 2023 before scaling up to “significantly more” during 2024. These will offer two broad forms of AI support: cloud-based AI and “edge AI” which supports on-device AI data processing."
-    publishedDateTime: 2023-10-21T13:59:00Z
-    webUrl: "https://www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6533d758c1840d79ef74453f/0x0.jpg?format=jpg&crop=2147,1209,x239,y41,safe&height=900&width=1600&fit=bounds"
-        width: 1598
-        height: 900
-        isCached: true
   - title: "iPhone 15 Series: A Glimpse into the Future of Smartphones"
     excerpt: "Introduction The iPhone has long been a symbol of innovation and excellence in the world of smartphones, and Apple’s commitment to pushing the boundaries of technology is evident with each new release."
     publishedDateTime: 2023-10-22T03:22:00Z

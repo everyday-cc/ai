@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-29-googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e.md",
+      "title": "Google’s RT-2 AI model brings us one step closer to WALL-E",
+      "excerpt": "On Friday, Google DeepMind announced Robotic Transformer 2 (RT-2), a \"first-of-its-kind\" vision-language-action (VLA) model that uses data scraped from the Internet to enable better robotic ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/rt2_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/amp/",
+      "publishedDateTime": "2023-07-28T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-speaking-robot-our-new-ai-model-translates-vision-and-language-into-robotic-actions.md",
       "title": "Speaking robot: Our new AI model translates vision and language into robotic actions",
       "excerpt": "Google DeepMind introduces a new vision-language-action model for improving robotics.",

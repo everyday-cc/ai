@@ -607,6 +607,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Frontier Model Forum $10 million AI safety fund – OpenAI, Anthropic, Google, & Microsoft"
+    excerpt: "The Frontier Model Forum, an industry body that includes companies such as OpenAI, Anthropic, Google, and Microsoft. Dedicated to AI safety"
+    publishedDateTime: 2023-10-26T07:12:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-frontier-model-forum/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 47
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/OpenAI-Frontier-Model-Forum-updates.jpg"
+        width: 1280
+        height: 717
+        isCached: true
   - title: "Microsoft reports higher profits and revenue powered by cloud computing and AI investments"
     excerpt: "Microsoft has reported a 27% increase in profit for the July-September quarter compared to the same time last year."
     publishedDateTime: 2023-10-25T01:23:00Z
@@ -642,7 +656,7 @@ related:
   - title: "Microsoft took a chance by igniting the AI race, but it seems to be working out well for the company"
     excerpt: "The lesson from Microsoft's strong AI-fueled quarterly financial results is likely to push other companies to charge ahead on AI products, for better or for worse."
     publishedDateTime: 2023-10-25T19:32:00Z
-    webUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html?ref=biztoc.com"
+    webUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html"
     type: article
     provider:
       name: AOL
@@ -727,6 +741,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "gCXRwiTTNxtUaGrPiz+HFS3PhyIl+gQcWzmh73oN4X074chroW5Hd7iqzB0WMxdxLv/9zwsQIIUFTZT4Xf+k8GmxblprgGFY7qA3T75CYCdZTpVKs/Q0EKFdkiW7Sxs3S7eWf7POIUX0f+5nO0ZKzvBy0TJqY3X/czvRa0HzOJZ/iQIqWOSsLddmQNwPisf87CZL0eHaU7135kdHDj0zuIei/NDc04/8/k2i9XNX6Xa8EOpohnbTXFe8qitfv6yV2R/SS9CZSSh3VgZN/1v1eUA9eL+y2bINsVGfVDOgr+heZVB0azizvvY5oITPYVVVSjIBrVmO+KjdwO+5TSBHgEV5V2XZu0+MhYwWvjmetJI=;Q/dIcNSpddnh4MPejwByUA=="
+secured: "RTxhsht1nfVJLRo8BRw3razLZfFVnYlmYGk+Q07IxEkqir03qgUTAKN1T2weicpHnw5F8XhjqaQbAAMmXneB08I0f/eW6XYbGMM76frmCNxHLxLCnfreeOLhIj4HfrCf19/C8VhanqWbJBxxazVFCNA18i09iNlSGAGZndPZX4nOCOgvzGwomL7LElqP696OifeNKPFSANK1X7z9krQcuG5NjTC5oAw9+BJDZAQR3lLlWm4WIBi5DP30JBtqeDL1U+SB9QUro8Fh2vLhCIjrDUhVJdH0h6MjoT9YFZZaTQhqcDQOgO9wXXe+yni/kNH0chgezMR1c0+Jz6rxnh2JTKvWcLJKaMwYsOO6zNtdxbwkadpxQdUoXv9Ix+uM5BP9jHJqCAFU20AL+ZinNYDjjlZaVCw0vs0ADqdcTZEdbt21OgZZrEXgHostUR7EnAQ/FaZmUQtVbr1axBtAdR/8VMFfm8MYTfyp8RaFGBMRZ5a2nLRMrl/ap7eO5h0E9doWM0U0XGJYo7sO7BsdhBzBqw==;Xq2HbJlVfIHX6JlxOFxlJg=="
 ---
 

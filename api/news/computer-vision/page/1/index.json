@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-26-bat-inspired-glasses-help-the-blind-vision-impaired-see-using-sound.md",
+      "title": "Bat-inspired glasses help the blind & vision-impaired ‘see’ using sound",
+      "excerpt": "Inspired by bats’ use of echolocation, researchers have developed smart glasses that transform visual information into unique sound representations that enhance the ability of blind and vision-impaired people to navigate their surroundings.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/technology/acoustic-touch-glasses-help-the-blind-vision-impaired-see-using-sound/",
+      "originalUrl": "https://newatlas.com/technology/acoustic-touch-glasses-help-the-blind-vision-impaired-see-using-sound/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/aa5d338/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1b%2F68%2F07b3ff5049e0b3386b528aacc7b9%2Fimg-20220510-145947717-hdr.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T23:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-police-force-trials-facial-recognition-technology.md",
       "title": "Police force trials facial recognition technology",
       "excerpt": "Facial recognition technology can be used by police to scan large groups of people and by running photos through an image database known as a \"watch list\". Chris Philp, MP for Croydon South and minister for crime, policing and fire said the technology was being used by the Metropolitan Police at large events such as football matches.",
@@ -1349,49 +1401,6 @@
       "provider": {
         "name": "Hindustan Times",
         "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-man-was-arrested-held-for-six-days-over-faulty-facial-recognition-tech-lawsuit.md",
-      "title": "Man was arrested, held for six days over faulty facial recognition tech: lawsuit",
-      "excerpt": "A black man visiting his mother in Atlanta was wrongfully arrested and held for six days after facial recognition technology incorrectly identified him as a fraudster and thief in Louisiana ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/10/04/man-was-arrested-for-six-days-over-faulty-facial-recognition-tech-lawsuit/",
-      "originalUrl": "https://nypost.com/2023/10/04/man-was-arrested-for-six-days-over-faulty-facial-recognition-tech-lawsuit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000044822397.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/10/04/man-was-arrested-for-six-days-over-faulty-facial-recognition-tech-lawsuit/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/10/04/man-was-arrested-for-six-days-over-faulty-facial-recognition-tech-lawsuit/amp/",
-      "publishedDateTime": "2023-10-04T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
         "images": null,
         "publishers": null,
         "authors": null

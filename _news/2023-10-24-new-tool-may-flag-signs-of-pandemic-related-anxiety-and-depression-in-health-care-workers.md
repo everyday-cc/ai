@@ -45,6 +45,20 @@ related:
       name: News Medical
       domain: news-medical.net
     quality: 19
+  - title: "Unique Workplace Concerns Tied to Health Worker Depression, Anxiety During Pandemic"
+    excerpt: "For health care workers (HCWs) seeking psychotherapy treatment during spring 2020, workplace-related concerns were associated with moderate-to-severe anxiety and depression symptoms, according to a study published online Oct."
+    publishedDateTime: 2023-10-26T06:31:00Z
+    webUrl: "https://www.physiciansweekly.com/unique-workplace-concerns-tied-to-health-worker-depression-anxiety-during-pandemic/"
+    type: article
+    provider:
+      name: Too Old to Operate
+      domain: physiciansweekly.com
+    quality: 18
+    images:
+      - url: "https://www.physiciansweekly.com/wp-content/uploads/2023/10/image1698301870.jpg"
+        width: 1456
+        height: 1080
+        isCached: true
 
 secured: "XF5r69/5hrwg2Lfse1OSMnav20dfVlSZz7PI9olbAXEllcU9P0e40vfHQwJZYYjd9dCPUR9HcrwtjzouQeOsRep96y+n/Pugk72uz3Y1c3z3572JSIhHF1sJy+fNjjBJYtTieGyMvittgMW8QbwrE9VgJ41IhiZ4LfYLrvhdqmxTnRSsweL3dcyWS3r/guJRDmRiKNsJ+ySvdemCwNz8FCM8F0iPgJp3H2+ngcCqdc4JVMZFq+dZ7lUns/cxmqVf4QN/Lnmp/6dLOYw7leI7WGH4v4vZuW95Hct5tCatHDw36rPRWgfeNL9KBvO2c52FBz8aL5dsIlwZGxngVf056FvtEWnrlSTMqh91GbrE5oq1R4OrLZzJr8bHgztDarRpIFW3pkY3iRZIXi2zHQOy7A7nz7WKD3n+Zb3+96Cys7YNoQRMwBZlNi6yyMCrD9BVMnuWlfV/bhivPTWUTtCQyfNMCHGoGymZm4J1ZWci1NMiPBkxOu86oSz1sIJn+Z4f6fg9xnyqL9g5vzx7aec22g==;MD8EUJNNcud/viQiE0drvQ=="
 ---

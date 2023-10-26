@@ -593,6 +593,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Frontier Model Forum $10 million AI safety fund – OpenAI, Anthropic, Google, & Microsoft"
+    excerpt: "The Frontier Model Forum, an industry body that includes companies such as OpenAI, Anthropic, Google, and Microsoft. Dedicated to AI safety"
+    publishedDateTime: 2023-10-26T07:12:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-frontier-model-forum/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 47
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/OpenAI-Frontier-Model-Forum-updates.jpg"
+        width: 1280
+        height: 717
+        isCached: true
   - title: "Microsoft reports higher profits and revenue powered by cloud computing and AI investments"
     excerpt: "Microsoft has reported a 27% increase in profit for the July-September quarter compared to the same time last year."
     publishedDateTime: 2023-10-25T01:23:00Z
@@ -628,7 +642,7 @@ related:
   - title: "Microsoft took a chance by igniting the AI race, but it seems to be working out well for the company"
     excerpt: "The lesson from Microsoft's strong AI-fueled quarterly financial results is likely to push other companies to charge ahead on AI products, for better or for worse."
     publishedDateTime: 2023-10-25T19:32:00Z
-    webUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html?ref=biztoc.com"
+    webUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html"
     type: article
     provider:
       name: AOL

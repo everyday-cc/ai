@@ -41,6 +41,20 @@ related:
         width: 1199
         height: 685
         isCached: true
+  - title: "Cisco Unveils New AI Strategy For Its Collaboration Platform Webex"
+    excerpt: "Global networking giant Cisco has unveiled a new AI strategy for its collaboration platform Webex that will improve real"
+    publishedDateTime: 2023-10-26T07:05:00Z
+    webUrl: "https://menafn.com/1107307570/Cisco-Unveils-New-AI-Strategy-For-Its-Collaboration-Platform-Webex"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/26/I_19d2bimage_story.jpg"
+        width: 479
+        height: 246
+        isCached: true
 
 secured: "TaqkG56omm/+TGK/di4dLlMU7PlXv2dTBsfJKHxYwFbKmPZtELGHvz3V9OcJFpPm/td4zIiSY76AeAXjQpOfDloLtThh4UhvzkShlLuD83Vny/zF/cDx8voL74yO5strm85l0/qLxAQhEbqckvSjGbAwSNfyoDfif5KSoNhNbvfOO8v/tyr/oLKudHvflyTeuowCvi0uUxod+AkhqN31uGhJU0HGcSbfulWrRcZojlyDYUjBK73N8WaPOT8ILYyOsf93iMCDKugW3IDYm3IL/mpV3UTDJ+PCkvZM3aQB87NzxHQFkPSp7X2WPtfe0uZdKbhpZTpto7G8tWB4jiZpbgUFk/UUO+DQ6hiqRZJrhx3IjkpjTxoLe6NZ4pCxNJDHY+c86BwQdspLmXoooVSFbj03Tdx+M1qZvdeAoPKkvySs8YkCeplA3myze921x/NiU5h/ww7P80nrvel5OEmcCgypwdVxrTA5xz1XpIEciRkyjDDSWcx6Q8wSTP45dfopPCLvX08QxePGVAuPB9tksw==;TmWt+AYXnXByB9AfFxdwQQ=="
 ---

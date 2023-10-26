@@ -152,6 +152,15 @@ related:
       name: openaccessgovernment
       domain: openaccessgovernment.org
     quality: 19
+  - title: "Companies integrating AI to build innovative solutions"
+    excerpt: "Artificial Intelligence has seeped into our lives and how. AI based Virtual assistants like Siri or Alexa are great for entertainment, whereas e-commerce portals are utilising the full potential of"
+    publishedDateTime: 2023-10-26T07:34:00Z
+    webUrl: "https://www.pcquest.com/companies-integrating-ai-to-build-innovative-solutions/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 19
   - title: "How AI Can Revolutionize Entrepreneurship in 2024"
     excerpt: "By leveraging the capabilities of AI, entrepreneurs can streamline their operations, mitigate risks, and accelerate growth. Here’s how AI will revolutionize entrepreneurship in 2024."
     publishedDateTime: 2023-10-22T01:30:00Z

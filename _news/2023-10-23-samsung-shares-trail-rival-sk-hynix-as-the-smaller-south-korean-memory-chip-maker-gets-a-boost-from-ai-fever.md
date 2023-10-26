@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "SK hynix cuts losses in Q3 on higher AI memory chip sales"
+    excerpt: "SK hynix posted an operating loss of 1.79 trillion won ($1.31 billion) in the third quarter, but the memory chip maker was able to reduce its deficit by focusing on high-priced and high-performance AI memory chips such as high-bandwidth memory (HBM),"
+    publishedDateTime: 2023-10-26T06:59:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/10/129_361933.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361933"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361933"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 91
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/336d93b73d2a4d70b2f47a9328f5ba29.jpg"
+        width: 601
+        height: 338
+        isCached: true
   - title: "SK Hynix says AI boom will drive profits after third-quarter loss narrows"
     excerpt: "SK Hynix said its business selling DRAM chips, had returned to profit in the third quarter, after reporting losses in the first two quarters of this year."
     publishedDateTime: 2023-10-25T23:59:00Z
