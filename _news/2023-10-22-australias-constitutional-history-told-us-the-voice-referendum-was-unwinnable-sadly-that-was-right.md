@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/oct/22/australias-con
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/oct/22/australias-constitutional-history-told-us-the-voice-referendum-was-unwinnable-sadly-that-was-right-malcolm-turnbull"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Australian ‘Voice’ Referendum & Possible Learnings For The People Of Sri Lanka"
-    excerpt: "The ‘Voice’ Referendum. Australians voted in a referendum on the 14 th of October 2023 on whether or not to alter the country’s Constitution. The proposed amendment had two"
-    publishedDateTime: 2023-10-21T07:18:00Z
-    webUrl: "https://www.colombotelegraph.com/index.php/australian-voice-referendum-possible-learnings-for-the-people-of-sri-lanka/"
-    ampWebUrl: "https://www.colombotelegraph.com/index.php/australian-voice-referendum-possible-learnings-for-the-people-of-sri-lanka/amp/"
-    cdnAmpWebUrl: "https://www-colombotelegraph-com.cdn.ampproject.org/c/s/www.colombotelegraph.com/index.php/australian-voice-referendum-possible-learnings-for-the-people-of-sri-lanka/amp/"
-    type: article
-    provider:
-      name: Colombo Telegraph
-      domain: colombotelegraph.com
-    quality: 40
-    images:
-      - url: "https://i1.wp.com/www.colombotelegraph.com/wp-content/uploads/2023/10/Australian-eferendum.jpg?fit=600%2C345&ssl=1"
-        width: 600
-        height: 345
-        isCached: true
   - title: "Silencing ‘Voice’ of the Indigenous in Australia"
     excerpt: "This body was to be called the “Voice to Parliament.” It was to have no legislative ... Supporters of the amendment argued that native peoples would gain recognition and respect as well as securing their rights and gaining the feeling that they belong ..."
     publishedDateTime: 2023-10-22T15:46:00Z
@@ -61,6 +45,50 @@ related:
       - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/opinion/2023/10/22/indigenous.ashx?h=450&w=750&hash=A8B0D96D2FCFC4A1E1664F16AF9263C9"
         width: 750
         height: 450
+        isCached: true
+  - title: "Australia’s rejection of Indigenous Voice labelled ‘shameful’"
+    excerpt: "Indigenous campaigners who wanted Australia to create an advisory body representing its most disadvantaged ethnic minority have said its rejection in a constitutional referendum was a “shameful act”."
+    publishedDateTime: 2023-10-23T05:46:00Z
+    webUrl: "https://www.dunfermlinepress.com/news/national/23872149.australias-rejection-indigenous-voice-labelled-shameful/"
+    type: article
+    provider:
+      name: Dunfermline Press
+      domain: dunfermlinepress.com
+    quality: 24
+    images:
+      - url: "https://www.dunfermlinepress.com/resources/images/17360133/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Will Australia's global reputation 'take a hit' due to the Voice referendum result?"
+    excerpt: "The resounding defeat of the Voice to Parliament proposal made headlines across the globe, though the result may have implications for how Australia is viewed, experts say."
+    publishedDateTime: 2023-10-23T04:34:00Z
+    webUrl: "https://www.sbs.com.au/language/english/en/article/rights-have-been-permanently-denied-no-votes-victory-felt-around-the-world/tako2ws9f"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 18
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/a444bf1/2147483647/strip/true/crop/8256x4644+0+430/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fb9%2Fa8%2Fd16ab4034d9cbfcd58f5db990c3a%2Fflagsflags.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "What Yes campaign leaders REALLY mean with open letter slamming Australia's 8.6million No voters - as they announce the Voice may happen anyway and hint at their next priority"
+    excerpt: "Rejection of constitutional recognition will not deter us from speaking up to governments ... agenda for justice in pursuit of our First Nations rights that sorely need a Voice - we will continue to follow our law and our ways, as our Elders and Ancestors ..."
+    publishedDateTime: 2023-10-23T09:03:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12659907/Voice-Aboriginal-leaders-open-letter.html?mibextid=Zxz2cZ"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-12659907/amp/Voice-Aboriginal-leaders-open-letter.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12659907/amp/Voice-Aboriginal-leaders-open-letter.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 7
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/10/22/23/76871745-0-image-m-13_1698014060531.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "GXzVdRAouLUyjo7j+dBtwK8vyDEPtqz5n+4XTTxYzig6RZU7y0ynB+YXj4RUhC6IUpQiAll8bt2webJl620CJPbtBUXPvUrcnr+dFpqspbQ+fBK+RHMxtXezS9MdZ4rKjBajivApI5VwUY64iFqeQ1WDhIbHbcSKj1P66GgWhniih6pifWr+Ogr5FkjSn0OLRZG0OWYmyraeDH+xjWFIPQYcNnEnIvvVAsmRRt7KUzFe0eV91pm5kN9U4nIIR6758KDKMZpjxk5OIPcTPoai4olgDlJy887M6atVJiUI4FtNuPmeWn3G6+eTmbDLaWWB40PC6LIluxp7R/0S4r1OWM1n7x17aFE8sKo9WEJATDG6sl6VaJOrRVcl2b+izsmFKaDrxTxXGzQegt00omz/Wm5q0I5SE4pseqPYc1hBdRtFIYuOH5wbcFDIIl+uNVO01Tuce65l7TirzmAfWrRROnihWefHQRu3sET3LYLsTkQ107gMzw5y54/Im+UbGB4HtNPTRdQeMYAgf/eaFBpdjw==;H4iyUA4j7PT1xPy347z8Xw=="

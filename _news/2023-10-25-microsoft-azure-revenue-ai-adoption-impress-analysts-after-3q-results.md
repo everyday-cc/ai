@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
 excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
 publishedDateTime: 2023-10-25T14:58:00Z
-originalUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
-webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
+originalUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca&region=ca"
+webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca&region=ca"
 type: article
 quality: 69
 heat: -1
@@ -725,6 +725,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "LzQ0q1Le1U6dDDT5uFZSbn+8+IS98iQ80mUbiNOBwhSuABR3RzvVUEnW4fcSZWyJyowOL0J7O1fMp1MbUSEfPlCITk4eoY9yDsm8aqcXVqXcF9hNAGraBMhCe7olsxNQWVMBvEMAU2CXiJ1QeBBV6PQa3xXqgfz0tH+sYetBmYr60sH1pYmG7t8W7tBmI75m0LaUzo2BJPzvPgFj4JXGO6WKLBeuA0NlFnTxIzJYfepcYm4j6HUbKbRF1XcLuz3NDeNYAUdPG4iy3c4HGDUu4A9WfbIaltn5fmV63YXf/4l1MwmMripDG9srEHaWCcnEqjUp5L7xTLh45bsvBXDbbA/qYatGU7P36hKYBB6stfH/5TKq7xf2zO64FnlVrPyvcdHrAUeZUDkMfC9TEQsEKUg8cfsym2rqsjpo6JifWixftR4tHjLj5+6M7opxIFnljRtoVh+eENjwpTisxD8722omC+O6aKOpRauEIZijidZjTvSWKug1FSN4syBFrA5HEqULIV8Es+j7DPfnjQ+vHQ==;3Y8N6P0sWYa3cDNiB/K6Bw=="
+secured: "BbP5lwWWfumXNCss7rDQukg8OgKiC9Kj0E3MITo3gBLLY45HMq5qS7LzVN4a1ZCQinq3w20vUwZVJ0Dbj+eS/1isX3ujU9+zbtPlgxEsIyGg6P9ikqtx1FoWTjfBVoIOwWYgH7Scbsy9mjJBz8Q3CwRag5nF7RWc50Wva672Pj91r1tUP0opQ9u5eiOEc8mKaJMFrm1YqbsfNVefCT5NNdQcs3XNKKah8OFWJD6ufIOz5MgWCWlOki0iYaYxCpak/ubPDFR7np23YA549aHGfO9w6J1zfYzt+KCDWrlOgJSEvZnFOU43E5dICOndyv5IFTJPrZGcwUJmX65rdKalmS51RstzSbvSGReAgd39Thc=;HkEIqXZoBAAtEB+eN3qceg=="
 ---
 

@@ -298,7 +298,7 @@ related:
   - title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
     excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
     publishedDateTime: 2023-10-25T14:58:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca&region=ca"
     type: article
     provider:
       name: Proactiveinvestors
@@ -725,6 +725,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "0GwCOFuNmMH2DV9EXsPzZ6KLV8Rnmnr6P7IT2DcLJ2q0ESWamMn3oC1iJdrPENBV9Has5zpEMxeJ8pbgwSynt2Zt+PDc1eGK1s2mOHI9KJ+MHYkuhxCulJUp3rdqBVbNGVYGnW1Kwol8lpJwR4MceknONEPmT+cwx2usmapePbNj2yHKYvy1qK8j8OCXdiYSJRrO1kT/osm+GUEEpKR+rKpDEM8X3I7ZoxgNhmIj9Rj2o9znypYR4fDJL5jC2HZBGgMmxvIfZzv97Rn/nUvmLUBDn8TC5CLHaPBTxFTgRxKTBIHPrNaZq+ThRT8PttHAFLlvsL6l19lPhwZY8m0J/ySbfwL5/89gozUztR/FNXk=;Kq95YgzXmkl/nqId5pHptg=="
+secured: "/fnU72sF75y7t7bByVdnrrckb7mAHGKNugcKPUrLI70kklIxPvN1RepM8elvcJxX02GGGQ4qrKWfALjaH/enw9g3LsopI/1fW1AjxZXj4bSNPSVd45Ambg0zMTIVYYGtFz90UWG5dldr4j2Ms7qeBzjYRTk/ISSj/A7X5gthqsE5inEJBZ7wXsz8TnQCdkbUxgXhV+VYwlea40CNSJf6CE5FSXELIfnGpmwE9IkDA/5+B5HW5r6LKtci9jDh/x0RB5WtxViN6fUqy/XHOkMNb5TAr9AnbKxr0kctDbMo/O07SUSJ88A69xuLheeHpUZp6RaO70XIgEkDZSkIfptSBLOfCYtVUFxY0plvBJv7mvLd2gPfcG0l1C24POEL6izyhTOxMHYXsKxm1b/Ug85j8QtnTATe/1B+q9OobYgGiPzD6sNyKSAQYC3vhHei2jjuYoNwBxsGiFN3YGXoHl2Oc6gI9nDY7TZFTQgyr+MuQa7ZbYNo0f/P9WRvSaKRxRqNssNLQL8y5modjYhM34ziSA==;SdA4r1xFLibXy2cZS6I6LA=="
 ---
 

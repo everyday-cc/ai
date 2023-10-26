@@ -6,9 +6,9 @@ publishedDateTime: 2023-10-25T22:38:00Z
 originalUrl: "https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/"
 webUrl: "https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Wired
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Google AI
 
 images:
   - url: "https://media.wired.com/photos/6539900d34195a696cda346b/191:100/w_1280,c_limit/AI-biz-GettyImages-582780248.jpg"
@@ -28,6 +29,6 @@ images:
     height: 670
     isCached: true
 
-secured: "Xik1xpBoOlOAi7ldM1euAFykPW5VhLU9WAbBjEqMfToNH8G9F6O0fWynMHXJi+wXn+XpTcwGg2b3aZjuwx5msXPhHXulTGZn6YmTmnG3ogkAHOVXN/N/VBkx6jtWytdjPv4c0CVQHXUy6GHJklWIxwKzCLkUmMRdGTA3JFvFnvfdo9IOIC150ja+uPXm3fFKYPI7V8fwm7T6FFsMANp2FfKAf81XzdED80w8Lm2q6NyJzIJ+Vw8LfW3ZU98JTpyme1QZdHtakSfoC6t74C41zco8knAY+cB/U4WUzFsgOkR2djhgEkoJ0dHMa8uw+kmZ1XjPOYv/vwtalLBvGWirgbi3ewsJ7dBOb3mjgW4R4ew=;tD5adwAbahBJzdn77yLjwg=="
+secured: "4XdtzG24MzvWha6cJSKV/9Fc9JSLtAAPJbQ2ICHQOrREd7vGFZaWwWZI2txp/85Kn2nPlu5Swlkku9XTwFFe1uadF2djyeVXsATJ191aKOtdb2yevQdnyHDZOIH7DX3ECIBP527FjBR2wqXTdiQFuqmF4ZWZa/yOCAf5STVuBvJ3dmYWkA2vl9LxczsJvN9BP4TWEGhOYGna6Ke/0sFE7K6GgMXvK3PErcTFczlYxUZ3gkwehC6SGYKcSfrvYBwvQL4uNdKO9pleX/c8+F4XVL1C5bCsi7Uye+5puPZBnSZf+o+pgZjYiKM9x/kePQKna4KQi8F9qIgFlSt0EDouWLJaKmWfzN5gw/kwavnFGiHPS4nTC/KMjI5layMftLqFbTEQR/JnIk3EORgD+JUuWkG6PGAUgtOx5HhMYNTKG/iJmPjYJuYcFKyT2tudxyGYS3oibLhFJA5jHNV4JeFGhKFeTjp+3ThscXIvNnOIFuB2SQAf4ZNPNZzISDf3VmpfmJbdOe5F4UlRRJP5xdgCVg==;w63k3YKKYtjEklPNdHS6fA=="
 ---
 

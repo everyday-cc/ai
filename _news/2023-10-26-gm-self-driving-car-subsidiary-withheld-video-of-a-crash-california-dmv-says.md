@@ -98,6 +98,22 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 32
+  - title: "Automated car company planning to launch in Dallas has self-driving permit revoked in California"
+    excerpt: "A driverless vehicle company planning to launch Dallas is halting operations in California after the state yanked its license over safety concerns."
+    publishedDateTime: 2023-10-26T01:23:00Z
+    webUrl: "https://www.fox4news.com/news/cruise-automated-car-company-license-revoked-california-dallas"
+    ampWebUrl: "https://www.fox4news.com/news/cruise-automated-car-company-license-revoked-california-dallas.amp"
+    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/cruise-automated-car-company-license-revoked-california-dallas.amp"
+    type: article
+    provider:
+      name: KDFW
+      domain: fox4news.com
+    quality: 31
+    images:
+      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/10/932/470/102023-DALLAS-CRUIS-AUTONOMOUS-VEHICLES-LORI-PKG-L_00.01.49.04.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "California suspends GM Cruise self-driving vehicles as 'not safe' for public"
     excerpt: "The automaker reported on Tuesday that it lost $723 million on Cruise during the third quarter. The DMV added that Tuesday's \"decision does not impact the company's permit for testing with a safety driver."
     publishedDateTime: 2023-10-24T19:32:00Z
