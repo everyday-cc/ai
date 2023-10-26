@@ -113,6 +113,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 87
+  - title: "In 2024, APAC Firms Will Be Inspired By The Generative AI Wave"
+    excerpt: "The APAC region is bracing itself for a year of exploration and potential growth, with genAI at the center of it all."
+    publishedDateTime: 2023-10-26T05:01:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65397e34a8e118b302b844b9/0x0.jpg?format=jpg&crop=2999,1686,x0,y154,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "FEDML Nexus AI: The Next-Gen Cloud Services for LLMs and Generative AI"
     excerpt: "FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML Nexus AI, offering the next generation of cloud services and platform for generative AI.This press release features multimedia."
     publishedDateTime: 2023-10-24T12:25:00Z

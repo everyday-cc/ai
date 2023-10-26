@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Police force trials facial recognition technology"
+    excerpt: "Facial recognition technology can be used by police to scan large groups of people and by running photos through an image database known as a \"watch list\". Chris Philp, MP for Croydon South and minister for crime, policing and fire said the technology was being used by the Metropolitan Police at large events such as football matches."
+    publishedDateTime: 2023-10-26T05:51:00Z
+    webUrl: "https://www.bbc.com/news/articles/c51jzy42p19o"
+    ampWebUrl: "https://www.bbc.com/news/articles/c51jzy42p19o.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/c51jzy42p19o.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9b65/live/d1e43770-7370-11ee-8623-0398dceccf41.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Massive facial recognition search engine now blocks searches for children’s faces"
     excerpt: "PimEyes, a public search engine that uses facial recognition to match online photos of people, has banned searches of minors over concerns it endangers children, reports The New York Times."
     publishedDateTime: 2023-10-23T22:24:00Z
@@ -45,20 +61,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Face Search Engine PimEyes Blocks Searches of Children’s Faces"
-    excerpt: "Concerns about children’s privacy have led PimEyes, the public face search engine, to ban searches of minors. The PimEyes chief executive, Giorgi Gobronidze, who is based in Tbilisi, Georgia, said that technical measures had been put in place to block such searches as part of a “no harm policy.”"
-    publishedDateTime: 2023-10-23T16:52:00Z
-    webUrl: "https://www.nytimes.com/2023/10/23/technology/pimeyes-blocks-searches-childrens-faces.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: "https://static01.nyt.com/images/2023/10/20/multimedia/00PimEyes-Children-qhwb/00PimEyes-Children-qhwb-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "UK launches facial recognition drive against shoplifters"
     excerpt: "On Monday, the country’s police authorities and representatives of 13 of the UK’s biggest retailers announced the Retail Crime Action Plan."
     publishedDateTime: 2023-10-25T14:20:00Z
@@ -70,6 +72,48 @@ related:
     quality: 54
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/06154234/walmart-cctv-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Essex Police reassure public on facial recognition in Southend"
+    excerpt: "For the first time in Essex, police will be using high-tech cameras in a bid to try to find and arrest wanted crooks."
+    publishedDateTime: 2023-10-22T03:19:00Z
+    webUrl: "https://www.echo-news.co.uk/news/23867438.essex-police-reassure-public-facial-recognition-southend/"
+    type: article
+    provider:
+      name: Echo news
+      domain: echo-news.co.uk
+    quality: 39
+    images:
+      - url: "https://www.echo-news.co.uk/resources/images/17356874/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Essex police use intrusive facial recognition for first time"
+    excerpt: "LIVE facial recognition was introduced in Essex for the first time this week as police across Britain ramp up use of the intrusive technology. Southend officers carried out targeted operations with the camera system on Tuesday, while Chelmsford police followed suit today."
+    publishedDateTime: 2023-10-25T16:16:00Z
+    webUrl: "https://morningstaronline.co.uk/article/essex-police-use-intrusive-facial-recognition-for-first-time"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 39
+    images:
+      - url: "https://morningstaronline.co.uk/sites/default/files/PA-40271538.jpg"
+        width: 1185
+        height: 789
+        isCached: true
+  - title: "Travel industry adoption of facial recognition grows"
+    excerpt: "Travelers are most likely to be among the first to experience the mass worldwide commercial deployment of facial recognition."
+    publishedDateTime: 2023-10-25T15:26:00Z
+    webUrl: "https://www.biometricupdate.com/202310/travel-industry-adoption-of-facial-recognition-grows"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/28114521/airport-passenger-processing-scaled.jpg"
         width: 2048
         height: 1365
         isCached: true

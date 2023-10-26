@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-import
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6537e25d5f72f6b95a4d46a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1200
+        height: 900
+        isCached: true
+  - title: "Google's Generative AI Revolutionizes Digital Assistants Everywhere"
+    excerpt: "In this photo illustration, the logo of Google is seen displayed on a mobile phone screen with AI ... [+] (artificial intelligence)(Photo Illustration by Idrees Abbas/SOPA Images/LightRocket via ) It's happening."
+    publishedDateTime: 2023-10-26T04:07:00Z
+    webUrl: "https://www.forbes.com/sites/jonmarkman/2023/10/26/googles-generative-ai-revolutionizes-digital-assistants-everywhere/"
+    ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/10/26/googles-generative-ai-revolutionizes-digital-assistants-everywhere/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/26/googles-generative-ai-revolutionizes-digital-assistants-everywhere/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6539e510dbfaa6ef2a57a223/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1543
         height: 900
         isCached: true
   - title: "The AI-Generated Child Abuse Nightmare Is Here"

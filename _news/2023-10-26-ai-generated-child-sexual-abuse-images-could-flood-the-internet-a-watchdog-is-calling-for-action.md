@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AI-generated child sexual abuse images could flood the internet. A watchdog is calling for action"
-excerpt: "\"We're not talking about the harm it might do,\" said Dan Sexton, the watchdog group's chief technology officer. \"This is happening right now and it needs to be addressed right now.\""
-publishedDateTime: 2023-10-25T22:51:00Z
-originalUrl: "https://sentinelcolorado.com/uncategorized/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
-webUrl: "https://sentinelcolorado.com/uncategorized/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
+excerpt: "The already-alarming proliferation of child sexual abuse images on the internet could become much worse if something is not done to put controls on artificial intelligence tools that generate deepfake photos,"
+publishedDateTime: 2023-10-26T05:14:00Z
+originalUrl: "https://www.texarkanagazette.com/news/2023/oct/25/ai-generated-child-sexual-abuse-images-could/"
+webUrl: "https://www.texarkanagazette.com/news/2023/oct/25/ai-generated-child-sexual-abuse-images-could/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Sentinel Colorado
-  domain: sentinelcolorado.com
+  name: Texarkana Gazette
+  domain: texarkanagazette.com
 
 topics:
   - AI
 
 images:
-  - url: "https://sentinelcolorado.com/wp-content/uploads/2023/10/AP23297714041343.jpg"
-    width: 1024
-    height: 683
+  - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205653484_205653484-367415f8ab7f4fcab836e00765fc3410_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+    width: 600
+    height: 400
     isCached: true
 
 related:
@@ -94,6 +94,6 @@ related:
       domain: aol.com
     quality: 15
 
-secured: "F5vOr05thRvqN14tRCEYeB6HiaFGdOd5kh03lGgi9irAaXDXSrs195XXE7nyP9hOrPUmT3+sAkL+arqPkh6TIZTIg+874gAvcULg2S1VfWw593BGuMVHeOTfPg4t0X/pMXRt7MrSOEVmhmnGnkWB6ogdH+sCR/0JSl8yQwwaflc7vrIQ1D2nj/iPBxqpkf+yCX76iUoyB456I/bHyj4b4MjsEq3rN34bvPHdimC2iKcWHS7ZrdVxRxkl/zhiEOvZerglJNki//pz8KIndeH4RBkoxpwYWgNDFiE6U6PgsnW5uq1hqn1oIZRE22FiJ1VTFwy6WXlgAzPAU+UrGqMFVNw5X2PfO1VUv442kjBUJQQ=;AO+F/sPAz9+kHzyI+BJ8cA=="
+secured: "GSzenyMLHXR8woDIsUczHqAOEtEl0jhG/0a1IdzL8V0dQcf5VXTsrEFo/laolo3+pFIDG84VweG2g/7XfLVGyJqFPg65E0VZfR6mJHN778l25CnaybxrgCEJGjCqkfT/xOJ44GAfo0U4ibWfC0KDd62T6ybx3Vm+kAs5QzWwUjan2MaGC/Gz3JuYp7DT7a8EH6FBfbQCJnMNWxukdi9eEC18JaNIKk7uvqjZY1l1d3iVGgVACN1T3CFmmEducRQU6anp5pxPIiNj09MP7mz93PDnLCUMpIGQ+d8LrWlE9PqZaJnEjnjlw1arfJXn8l7Fl0iUZp48r0kZK4ZqueQipLia2F1nZvTtYh/oE3ll2vQ=;5E+gUiv2YOdi7gRd8eFXSg=="
 ---
 

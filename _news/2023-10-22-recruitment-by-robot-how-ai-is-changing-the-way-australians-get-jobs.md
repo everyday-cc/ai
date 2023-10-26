@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/23/ai-recruitment-jo
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/23/ai-recruitment-job-search-artificial-intelligence-employment"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "From AI timber to a turtle robot: Three new tech developments"
+    excerpt: "Cross-laminated timber that uses artificial intelligence to fit together; an advanced form of machine vision; a device that can make"
+    publishedDateTime: 2023-10-26T04:04:00Z
+    webUrl: "https://createdigital.org.au/ai-timber-turtle-robot-three-tech-developments/"
+    ampWebUrl: "https://createdigital.org.au/ai-timber-turtle-robot-three-tech-developments/amp/"
+    cdnAmpWebUrl: "https://createdigital-org-au.cdn.ampproject.org/c/s/createdigital.org.au/ai-timber-turtle-robot-three-tech-developments/amp/"
+    type: article
+    provider:
+      name: createdigital
+      domain: createdigital.org.au
+    quality: 74
+    images:
+      - url: "https://createdigital.org.au/wp-content/uploads/2023/10/TW-October-1024x718.png"
+        width: 1024
+        height: 718
+        isCached: true
 
 secured: "jD1AFz3IP/DtHa7EtaOJt9010ojfeEvf1c2ymPjnnxt3r1895zABRwMd/AMjp5rAd5q2HosKYd+o5VpmG5ozSc8LpTWB95NYdi9Wv6eqaEFt1BxQZ9vNOzBpjg+wyRZCIh5IXjnPxi1IgOcHXlj8jmWf0rYSDI5xvu13Dd/vDFZk061wQVnluJ1TdQOh2HAv9e/8NY1Gp8/ehi25g5bARIk9yNvBzi1HMZj2qru9fQfEXdVM+Vw1zwQEmIPu+/MyLNLif4L/e75lAgQzBnbv7ZrUzgb9gr57m14us5GKVdU8Q7TY6P+5EPalWRCr9oECk3nOK9LFBfETVFnqRJIXro6vbGMl770dUyeryNU88q8ckU0ZB1q3WrFedthcqe3U2I2Zf5v6ZovovEUdu+IXEPFBtUit5XqsYKlC7P+ON7P+Hrb1yEIYeBdiJdKe4RrqXFsgYod1KMLguFkDpiY6ZvXuKZR4QDJiQ49lcGsbhKr3+GDTCicRe7OBO2aofPGbku1UXJdYNaYj2VWDF2AWmA==;VSyluUCjrZtIasFzuBEWYw=="
 ---

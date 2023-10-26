@@ -7,7 +7,7 @@ originalUrl: "https://themiamihurricane.com/2023/10/22/ai-and-college-admissions
 webUrl: "https://themiamihurricane.com/2023/10/22/ai-and-college-admissions-a-question-of-accessibility-or-ethics/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 375
     height: 250
     isCached: true
+
+related:
+  - title: "The potential role of artificial intelligence in college admissions, advising"
+    excerpt: "Researchers, college advisors and admissions staff discuss the potential space for artificial intelligence in college admissions."
+    publishedDateTime: 2023-10-26T00:01:00Z
+    webUrl: "https://www.browndailyherald.com/article/2023/10/the-potential-role-of-artificial-intelligence-in-college-admissions-advising"
+    type: article
+    provider:
+      name: The Brown Daily Herald
+      domain: browndailyherald.com
+    quality: 34
+    images:
+      - url: "https://snworksceo.imgix.net/bdh/99ebdbc7-bf69-40d3-a50f-4e2e793e5951.sized-1000x1000.jpg?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "rvvjkBHXUWio5jgvR5mlf0rAf4KmLOYb0ORG9PKZUhexdc5GyG7Rvu25XMCqpdKH/UvyUtNEv3cz8SzEVcE+38Dy34IjVa+8RKnVqnqVX1EZ1kbQbTNwp4VI9KfCDYZGb+wbp/N23bizRrDAg75V5c7bwwwQcbhgXRq50LnceuxBBQLk40QD65ToavsqT/ErCpORyVhNbPpp5PfnAzAhxFD2NJJhirE2084N0fKFU1yIJf1t1gFJCakZQVGJZ3Rn3yOppx+m0CnfGhgm7irS71Om9LpPR7rx8llR1zqCAAdU8flnofHbb7PRdOXelKPELSpm8Bcl3Q1KUEFZOenQs+9N57YWhdlClbMgjxisRVI=;OokQjAoHBBl3o2BKrAO6rg=="
 ---

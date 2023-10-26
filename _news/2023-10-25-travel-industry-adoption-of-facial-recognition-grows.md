@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202310/travel-industry-adoption-of
 webUrl: "https://www.biometricupdate.com/202310/travel-industry-adoption-of-facial-recognition-grows"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,96 @@ images:
     width: 2048
     height: 1365
     isCached: true
+
+related:
+  - title: "Police force trials facial recognition technology"
+    excerpt: "Facial recognition technology can be used by police to scan large groups of people and by running photos through an image database known as a \"watch list\". Chris Philp, MP for Croydon South and minister for crime, policing and fire said the technology was being used by the Metropolitan Police at large events such as football matches."
+    publishedDateTime: 2023-10-26T05:51:00Z
+    webUrl: "https://www.bbc.com/news/articles/c51jzy42p19o"
+    ampWebUrl: "https://www.bbc.com/news/articles/c51jzy42p19o.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/c51jzy42p19o.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9b65/live/d1e43770-7370-11ee-8623-0398dceccf41.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Massive facial recognition search engine now blocks searches for children’s faces"
+    excerpt: "PimEyes, a public search engine that uses facial recognition to match online photos of people, has banned searches of minors over concerns it endangers children, reports The New York Times."
+    publishedDateTime: 2023-10-23T22:24:00Z
+    webUrl: "https://www.theverge.com/2023/10/23/23929271/pimeyes-facial-recognition-ai-children-privacy"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 64
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/BGiV0yH1fr1ml6eEI_3eQoyyx0g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22512651/acastro_210512_1777_deepfake_0003.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "UK launches facial recognition drive against shoplifters"
+    excerpt: "On Monday, the country’s police authorities and representatives of 13 of the UK’s biggest retailers announced the Retail Crime Action Plan."
+    publishedDateTime: 2023-10-25T14:20:00Z
+    webUrl: "https://www.biometricupdate.com/202310/uk-launches-facial-recognition-drive-against-shoplifters"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/06154234/walmart-cctv-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Australian federal police tested controversial facial recognition search engine, FOI documents reveal"
+    excerpt: "Exclusive: The AFP told Senate estimates it is now aware the PimEyes and FaceCheck.ID platforms may have been tested for operational purposes on around 10 occasions The Australian federal police have tested a controversial facial recognition search engine ..."
+    publishedDateTime: 2023-10-24T00:56:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/oct/24/australian-federal-police-afp-pimeyes-facial-recognition-facecheck-id-search-engine-platform"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/24/australian-federal-police-afp-pimeyes-facial-recognition-facecheck-id-search-engine-platform"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/24/australian-federal-police-afp-pimeyes-facial-recognition-facecheck-id-search-engine-platform"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/f591462e6065a76b1337826ff063af5b2b490c82/0_0_3186_1912/master/3186.jpg?width=620&quality=85&auto=format&fit=max&s=43d6ac665c02d55854e5ff650b15dac8"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Essex Police reassure public on facial recognition in Southend"
+    excerpt: "For the first time in Essex, police will be using high-tech cameras in a bid to try to find and arrest wanted crooks."
+    publishedDateTime: 2023-10-22T03:19:00Z
+    webUrl: "https://www.echo-news.co.uk/news/23867438.essex-police-reassure-public-facial-recognition-southend/"
+    type: article
+    provider:
+      name: Echo news
+      domain: echo-news.co.uk
+    quality: 39
+    images:
+      - url: "https://www.echo-news.co.uk/resources/images/17356874/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Essex police use intrusive facial recognition for first time"
+    excerpt: "LIVE facial recognition was introduced in Essex for the first time this week as police across Britain ramp up use of the intrusive technology. Southend officers carried out targeted operations with the camera system on Tuesday, while Chelmsford police followed suit today."
+    publishedDateTime: 2023-10-25T16:16:00Z
+    webUrl: "https://morningstaronline.co.uk/article/essex-police-use-intrusive-facial-recognition-for-first-time"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 39
+    images:
+      - url: "https://morningstaronline.co.uk/sites/default/files/PA-40271538.jpg"
+        width: 1185
+        height: 789
+        isCached: true
 
 secured: "a9qnW24UBkWhIo16YwRLkYDRUbq215k/BvkggYb82ze2R0QS7XTxaud4dQnW4nEs5NmD0E+TXDC7XI3/GUMYYFzmH2cHk6eJT0PFc7gasxNGmmbsT2dxkBX8WAr6jFOSbsjN9Tcg4ZpWLQEN4TtxYbBwYOMGMEdhrw/nKzY61uUhpRLrP7ogIJ6Yzmt5yDx5XbaXFnDxh4qO/xx0m92dRyD4OKwRO1dYI0I+lPaXpGpj5owe/Aqh/jgb3fn1JQ4eTpRh9b2AnpW28Yr0OW5I4Pb5RG375CMAH89D7K05eKFoGSDivmZNYXwA1+9rLfaPvvAJ2aYaT7Wa5B7gwPLGE135lEGOxrlpzd+6VgeYBsLujTRWI2eT6B5QrAhmE44bZMgKLMZRhFMaCd0xRDrs3b6pSJZcU+8u7RB5Wp44v+miZ1O2U9wuWk0ZSIz+BhJqGnFZDCx1/cl1dxJsfZzOMSLX6kPv891fyeWYbcm8ka9s6CXpQzJbNes+YTuGE6bMExnvhou70+tzEz7MPSz1pw==;k4RqJzKE/FikLm8LZ3aYXQ=="
 ---

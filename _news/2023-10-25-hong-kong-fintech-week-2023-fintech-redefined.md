@@ -65,29 +65,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Hong Kong Fintech Week 2023 “Fintech Redefined.”"
-    excerpt: "In addition, the cross-boundary Greater Bay Area Day will be resumed on October 31, presenting ample opportunities and synergies between Hong Kong and Shenzhen. A full day forum will be organised in Shenzhen, followed by a series of concurrent company tours to Mainland tech giants."
-    publishedDateTime: 2023-10-21T11:27:00Z
-    webUrl: "https://menafn.com/1107279654/Hong-Kong-Fintech-Week-2023-Fintech-Redefined"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?849512"
-        width: 375
-        height: 249
-        isCached: true
-  - title: "US payments infrastructure fintech Finzly seals $10m funding"
-    excerpt: "US payments infrastructure provider Finzly has sealed US$10m's worth of funding, which the fintech will put towards continued expansion"
-    publishedDateTime: 2023-10-21T12:42:00Z
-    webUrl: "https://fintechmagazine.com/articles/us-payments-infrastructure-fintech-finzly-seals-10m-funding"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
 
 secured: "TZUMuiLBdj+TodYiBWMS4Cb54xmOZYI8wGsdGjLKP1gIb2F1RHnM23lz8+QywVtWNhxk293wgXNv5/iulBP/cNPSzAxZoGKUfb1AU49k2uZ6JOqsdnrL/9M4jyMK2iuAPkxPHHB88+nAto30dx5Iw+eEPjwhNnnpa7qKZBDfcCpaQIBnd4pKhSQaKzckC2meuvbSxJ36q5y2m9S2e+41+Z4mW4fnEvkghXijjWQ5T9O1MEIbNt1yQkr3Q469JucdOCnTcqGVz88XGGWJh2G3F0EGbJzaShh9upD1/RAnxcQOJuEmpwqUe4/VCg4kGPDhfYncwgIsk6UsvbQCgqDpZnR8tNDT8wre/JhOgIAugTO0+TXOBvFkKGsVF5g8NQ6pati521lH8d+g6CDxE7AZK1mSgOo773sdnN3C0Oycw8VZHjhlBK1VnEs3Lo/AGtC2/5H9QISAYso8aQxcyZtQsMKlj0cIH4vYyShZFEUtWvmdU6VVp0q17gvntnfz/CQEBst/52IoU9J0Wqsr3KDwJA==;2yulGkucWp96CDIDMyXA1Q=="
 ---

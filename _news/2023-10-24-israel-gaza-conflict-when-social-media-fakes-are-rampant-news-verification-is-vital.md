@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-23T19:13:00Z
 originalUrl: "https://menafn.com/1107289217/Israel-Gaza-Conflict-When-Social-Media-Fakes-Are-Rampant-News-Verification-Is-Vital"
 webUrl: "https://menafn.com/1107289217/Israel-Gaza-Conflict-When-Social-Media-Fakes-Are-Rampant-News-Verification-Is-Vital"
 type: article
-quality: 0
+quality: 17
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://menafn.com/updates/pr/2023-10/23/TC_6821dimage_story.jpg"
+    width: 960
+    height: 591
+    isCached: true
 
 related:
   - title: "Israel is using Amazon Rekognition to locate missing and dead"
@@ -48,6 +54,6 @@ related:
         height: 400
         isCached: true
 
-secured: "kmBdeIPeTsHVwEJC0tMsgaks0e0RH56VqMpP8X8ow9/f9axAG3UmIbUnAUWwqSx8R3yXRKHF5wl6+V55Ptc4ogKi44ykHe4aDdgqgJvx6tg4OoqMmOm2yNm4LmX8QXopZ2+XXYruE3HFqD/9EGfAhYcHrLZAiNA00ctJCGIBMSHpWjS2hj9f3FRwA7juPvkzNAcyUqDu4R8nLlQBJ0RrsHCSAzNZ01yxEJXGzc/D8V3xKSpxTvMYmpYo9s7cYoEsiTYP9QGRklpdTOl5cO0Ahei9VrwTtEK83545HvHT+7QClzbhPaFxkX+eHueIDAxS2jqiKAor9KTX7mdm6V6wz8MihlXE6q2phbvKgOPFdmw=;ySVaucI4RnumVzRNLz1x8w=="
+secured: "BmCCbmWsxRLEsANX4BzuLqHOqk7GFG2ydU7mToE5Ykrb8MkP4pgCFpsZP4+A9JG2RmaZcDFRme8yOimd/le3in5uLLnZgJD9Gu9hpcH4EOkM12pAwR/7/tjQ/svplkHYlUraicUA4j+z0jr5ToCyHhJVUXl0fgLc2SZa/vUcRUJRFTHqUrM6/lgvKL4eGPzxk+YyRAQLSrfbGo16IL5AhgHUZ0uT08bBolWZR4cWApiWJBCAEG10iiA9qjEferd5cpjd5dRuUY0FGOfsYV8joR6MNw5ZZBgxjJw1QFE2hWdlywN/zJaxcFDfdO9qo+kd7nD76rloHK6m6xwglLA00bI/vlTNu1tZpVG4jtv8jw4=;BlXuVSdsRRmS8PAZYC/W4w=="
 ---
 

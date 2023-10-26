@@ -19,18 +19,32 @@ topics:
   - AI
 
 related:
-  - title: "USD 88.2 Billion Artificial Intelligence In Education Market Expected Reach By 2032 | Growth Drivers & Future Scenarios"
-    excerpt: "Artificial Intelligence in Education Market Type Booming smartphone penetration to complement APAC industry. PORTLAND, PORTLAND, O"
-    publishedDateTime: 2023-10-23T02:40:00Z
-    webUrl: "https://menafn.com/1107284165/USD-882-Billion-Artificial-Intelligence-In-Education-Market-Expected-Reach-By-2032-Growth-Drivers-Future-Scenarios"
+  - title: "South Korea Artificial Intelligence (AI) In Healthcare Market Worth $2.36 Billion By 2032 Themarketpublicist"
+    excerpt: "( MENAFN - Ameliorate Digital Consultancy) South Korea Artificial Intelligence (AI) in Healthcare Market size was crossed over USD 100 Million in 2022 and is projected to record more than 37.2% growth rate from 2023 – 2032, reaching a valuation of approximately USD 2.36 Billion by the end of the forecast period."
+    publishedDateTime: 2023-10-26T05:12:00Z
+    webUrl: "https://menafn.com/1107307150/South-Korea-Artificial-Intelligence-AI-In-Healthcare-Market-Worth-236-Billion-By-2032-Themarketpublicist"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 30
+    quality: 50
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?917387"
-        width: 487
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?393847"
+        width: 328
+        height: 250
+        isCached: true
+  - title: "North America Artificial Intelligence (AI) In Military Market Size 2032 Themarketpublicist"
+    excerpt: "( MENAFN - Ameliorate Digital Consultancy) North America Artificial Intelligence (AI) in Military Market size was crossed over USD XX Billion in 2022 and is projected to record more than 21.2% growth rate from 2023 – 2032, reaching a valuation of approximately USD XX Billion by the end of the forecast period."
+    publishedDateTime: 2023-10-26T04:50:00Z
+    webUrl: "https://menafn.com/1107307153/North-America-Artificial-Intelligence-AI-In-Military-Market-Size-2032-Themarketpublicist"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 44
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?393847"
+        width: 328
         height: 250
         isCached: true
   - title: "Robotic Vision Market To Surpass USD 4.84 Billion By 2030"
@@ -46,6 +60,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-10/24/I_f6957image_story.png"
         width: 1024
         height: 535
+        isCached: true
+  - title: "Healthcare Analytical Testing Services Market Envisions US$ 49.6 Billion Valuation by 2032| Future Market Insights,Inc."
+    excerpt: "The global Healthcare Analytical Testing Services Market was estimated by Future Market Insights to be worth roughly US$ 11.9 billion in 2021. The market is anticipated to grow at a CAGR of 14% over the following ten years,"
+    publishedDateTime: 2023-10-25T04:39:00Z
+    webUrl: "https://www.fmiblog.com/2023/10/25/healthcare-analytical-testing-services-market-envisions-us-49-6-billion-valuation-by-2032-future-market-insightsinc/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 15
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/10/Healthcare-Analytical-Testing-Services-Market.jpeg"
+        width: 1688
+        height: 1125
         isCached: true
 
 secured: "iviwchuDUbOEX0qtHOPJKqZX9ZUWVfnwr0IO6zdjmHaIDSA3Pq0wo9b6XDuBpNu5hvshCjGpBBf0PiVvk8S7IHr7OtVUUBR/JkNV4Lp8ho37TFfsACCvWQaXjPd2c+/IMX1bre759ZqZlSTs1tf8rm6TZSRrkVYNx/RHKn173wqqUpnJOI/9KyUzR1YA9nv0zGJepc2HQ1ifs2+8UXN7bdg27StoJf7jBSxwqXwLvXGoJIeKO/arCwm5+PNrUQKbjnmyXn85Kc4nW2OT/7KXkdJ7bwxLhOU0EBxjx87VSdeijOUSTNOjC1uGEUJaGwFnY08OaahSvnkRUfvO9MHohFpppmGAsCaUxPrNr4tys0o=;EtKW82Tg4I8UfqdXdLOIRw=="

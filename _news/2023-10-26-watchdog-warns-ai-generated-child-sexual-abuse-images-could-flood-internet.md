@@ -79,18 +79,18 @@ related:
         height: 800
         isCached: true
   - title: "AI-generated child sexual abuse images could flood the internet. A watchdog is calling for action"
-    excerpt: "\"We're not talking about the harm it might do,\" said Dan Sexton, the watchdog group's chief technology officer. \"This is happening right now and it needs to be addressed right now.\""
-    publishedDateTime: 2023-10-25T22:51:00Z
-    webUrl: "https://sentinelcolorado.com/uncategorized/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
+    excerpt: "The already-alarming proliferation of child sexual abuse images on the internet could become much worse if something is not done to put controls on artificial intelligence tools that generate deepfake photos,"
+    publishedDateTime: 2023-10-26T05:14:00Z
+    webUrl: "https://www.texarkanagazette.com/news/2023/oct/25/ai-generated-child-sexual-abuse-images-could/"
     type: article
     provider:
-      name: Sentinel Colorado
-      domain: sentinelcolorado.com
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
     quality: 24
     images:
-      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/10/AP23297714041343.jpg"
-        width: 1024
-        height: 683
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205653484_205653484-367415f8ab7f4fcab836e00765fc3410_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "NghpIBPdihTGUV5ZeOHVi+yK1AsGmFLUdm+7pFED8S87Ce/NAmjmsFfBf12qlY7o+6DmZsxMNZRpjQ7AtPHapwfJ/FmZTHUIlhCFPxaZKm/7w9K/EgDLFfRfZJ0hVAglx+KD2dtV/eM9ZL/7//AdohgmGyi/+G9QMBlKC6OB7PsxkgUoBAGQCi5PXimN1TE5dvpGVUvXMhYoSHzbrmzxmsw0XMg/gTS1sO/9KFQLA996qBiwWaboIUgqyxlI5ulo17GFH39e9V6nqYEtK6hvJpgBkRT7Ldv8+el/DUodEENVz/94ELxbofG7qpZRz9LwfRPwRcw6ozYeDQkxXF6SBFj4yPQ9sPCmI+M/4YBnRo5w/SMAntQ9AjKaD5e2rinPFtzD14J44F1Yt8WSHz8/HKP3vTvASt30/p44KrICV/QRtLqQsdcYlkRkBq7Fm5gbQAgRUl2u5qa931JWbJuRXTsK6cCIVi+hpRERKND5MOMVVYssz4+vGoOJK8g+erFITc7wPh+z72aYFTkKpPG+mw==;r/Z0rHAZW1I0R0iI80YIPA=="

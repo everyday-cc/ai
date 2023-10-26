@@ -35,6 +35,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Silicon Valley-based Artificial Intelligence company Tiger Analytics opens first office in Bihar"
+    excerpt: "A Silicon Valley-based Artificial Intelligence company has opened an office in Bihar, making it the first IT company from the US to enter the state. Tiger Analytics, headquartered in Santa Clara, has opened its first office in Patna this month."
+    publishedDateTime: 2023-10-26T05:20:00Z
+    webUrl: "https://www.telegraphindia.com/business/silicon-valley-based-artificial-intelligence-company-tiger-analytics-opens-first-office-in-bihar/cid/1975455"
+    ampWebUrl: "https://www.telegraphindia.com/amp/business/silicon-valley-based-artificial-intelligence-company-tiger-analytics-opens-first-office-in-bihar/cid/1975455"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/silicon-valley-based-artificial-intelligence-company-tiger-analytics-opens-first-office-in-bihar/cid/1975455"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 44
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Oct/1696310862_office.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "SAS draws from lengthy analytics history to build generative AI tools for expanding use cases"
     excerpt: "SAS was formed in the late 1960s as a consortium of eight universities in the southern U.S., with a mission to develop a statistical software package that could analyze agricultural data. Decades later, SAS is once again drawing on its lengthy analytics experience to prepare customers for the next chapter in artificial intelligence."
     publishedDateTime: 2023-10-24T19:11:00Z

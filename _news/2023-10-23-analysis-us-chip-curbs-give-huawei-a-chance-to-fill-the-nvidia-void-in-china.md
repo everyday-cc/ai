@@ -99,6 +99,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google, Nvidia back AI startup that helps combat chip shortage"
+    excerpt: "CentML, which builds software to help machine learning systems work more efficiently, raised $27 million from investors including Google’s Gradient Ventures and Radical Ventures."
+    publishedDateTime: 2023-10-26T05:23:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-11601091.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-11601091.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-11601091.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Collage-Maker-20-Jul-2023-05-16-PM-636.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Nvidia Says US Advanced Timeline for Export Curbs of AI Chips to China, Other Countries"
     excerpt: "Chip designer Nvidia said new US export curbs that block the sale of its high-end artificial intelligence chips to China came into effect on Monday as regulators advanced the timeline."
     publishedDateTime: 2023-10-24T16:55:00Z
@@ -138,15 +154,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "Nvidia comes under US governments radar with its GPU sales in China"
-    excerpt: "Nvidia: In an effort to stymie the growth of artificial intelligence (AI) technology in China, the US government slapped new limits on AI and HPC GPU exports"
-    publishedDateTime: 2023-10-21T12:58:00Z
-    webUrl: "https://technosports.co.in/nvidia-comes-under-us-governments-radar/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 36
   - title: "US orders immediate halt to some AI chip exports to China, says Nvidia"
     excerpt: "Fellow tech company Intel ‘reviewing regulations’ as timing of move brought forward"
     publishedDateTime: 2023-10-25T06:19:00Z

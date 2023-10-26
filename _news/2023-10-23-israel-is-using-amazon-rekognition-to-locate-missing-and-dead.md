@@ -48,7 +48,12 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 0
+    quality: 17
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/23/TC_6821dimage_story.jpg"
+        width: 960
+        height: 591
+        isCached: true
 
 secured: "gN9oIg5xwLuqJWP+5YFnCeHwYK8HEjKARhr3mqjZTClI4VEIZ9rO+E1n93Imm2uMAdKep8AwrUwxniEL5TDYD5inK/nubzQMUQujZV3JQfKJ3YBsYqxWOLKGSOtB/CRt+yKj9tfC3D/MesAHL1w3dj1kr7RoADXxRz3Dz/fGGVvffhGHJMWduyviJjwxybxeaRP/zdPuDjDGOHmo106O7FsQA2jonDLm/0V0ExLPjKtPFR3bziCIkgm56AtAl8FttROO/ixMqF+sm6nuREXx1OAGZXstt1dkT7VsvCw3hPFqm/tsn8DFO3wd8053T0Vexg1JIILHYmzy3B+4RLYDy6rdtnYXYZcHkoAGYJ9hR7M=;PiFBUNBg7k8Qn0spN4obWQ=="
 ---

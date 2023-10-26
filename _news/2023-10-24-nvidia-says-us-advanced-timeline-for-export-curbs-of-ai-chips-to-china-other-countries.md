@@ -107,6 +107,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google, Nvidia back AI startup that helps combat chip shortage"
+    excerpt: "CentML, which builds software to help machine learning systems work more efficiently, raised $27 million from investors including Google’s Gradient Ventures and Radical Ventures."
+    publishedDateTime: 2023-10-26T05:23:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-11601091.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-11601091.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-11601091.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Collage-Maker-20-Jul-2023-05-16-PM-636.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "US Government Orders Immediate Stop to Chinese AI Chip Exports"
     excerpt: "Tech giant Nvidia has announced that President Biden’s administration has ordered it to stop shipping advanced AI chips to China immediately. These restrictions were always in the works and due to start next month. However, for an as-of-yet unknown reason, this date has been brought forward to today."
     publishedDateTime: 2023-10-25T17:00:00Z
@@ -139,15 +155,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 46
-  - title: "Nvidia comes under US governments radar with its GPU sales in China"
-    excerpt: "Nvidia: In an effort to stymie the growth of artificial intelligence (AI) technology in China, the US government slapped new limits on AI and HPC GPU exports"
-    publishedDateTime: 2023-10-21T12:58:00Z
-    webUrl: "https://technosports.co.in/nvidia-comes-under-us-governments-radar/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 36
   - title: "US orders immediate halt to some AI chip exports to China, says Nvidia"
     excerpt: "Fellow tech company Intel ‘reviewing regulations’ as timing of move brought forward"
     publishedDateTime: 2023-10-25T06:19:00Z

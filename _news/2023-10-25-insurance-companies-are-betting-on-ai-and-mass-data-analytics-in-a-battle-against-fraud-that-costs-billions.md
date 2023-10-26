@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/insurance-fraud-artificial-intellige
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10?amp"
 type: article
 quality: 71
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Silicon Valley-based Artificial Intelligence company Tiger Analytics opens first office in Bihar"
+    excerpt: "A Silicon Valley-based Artificial Intelligence company has opened an office in Bihar, making it the first IT company from the US to enter the state. Tiger Analytics, headquartered in Santa Clara, has opened its first office in Patna this month."
+    publishedDateTime: 2023-10-26T05:20:00Z
+    webUrl: "https://www.telegraphindia.com/business/silicon-valley-based-artificial-intelligence-company-tiger-analytics-opens-first-office-in-bihar/cid/1975455"
+    ampWebUrl: "https://www.telegraphindia.com/amp/business/silicon-valley-based-artificial-intelligence-company-tiger-analytics-opens-first-office-in-bihar/cid/1975455"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/silicon-valley-based-artificial-intelligence-company-tiger-analytics-opens-first-office-in-bihar/cid/1975455"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 44
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Oct/1696310862_office.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Leading Insurance Company Recruits ‘AI Localization Analyst’"
     excerpt: "Based in London as part of the AI Business Solutions group, the AI Localization Analyst will be tasked with adapting and optimizing Chubb’s AI systems for “specific cultures, languages and regions to ensure their successful implementation and adoption in different parts of the world.”"
     publishedDateTime: 2023-10-24T08:20:00Z

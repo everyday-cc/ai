@@ -3,8 +3,8 @@ category: news
 title: "Microsoft took a chance by igniting the AI race, but it seems to be working out well for the company"
 excerpt: "The lesson from Microsoft's strong AI-fueled quarterly financial results is likely to push other companies to charge ahead on AI products, for better or for worse."
 publishedDateTime: 2023-10-25T19:32:00Z
-originalUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html"
-webUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html"
+originalUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html?ref=biztoc.com"
+webUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html?ref=biztoc.com"
 type: article
 quality: 39
 heat: -1
@@ -220,6 +220,22 @@ related:
       - url: "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AM_L.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Beyond Start Button! How AI may reshape Microsoft Windows 12"
+    excerpt: "In a tech landscape where AI-powered capabilities are becoming increasingly vital, Microsoft aims to position itself at the forefront of the AI revolution. This starts with the seamless integration of advanced software support into its flagship product."
+    publishedDateTime: 2023-10-26T05:49:00Z
+    webUrl: "https://tech.hindustantimes.com/laptops-pc/news/beyond-start-button-how-ai-may-reshape-microsoft-windows-12-71698298942966.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/laptops-pc/news/beyond-start-button-how-ai-may-reshape-microsoft-windows-12-71698298942966.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/laptops-pc/news/beyond-start-button-how-ai-may-reshape-microsoft-windows-12-71698298942966.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/10/26/1600x900/Microsoft_Windows_12_1698299072127_1698299072379.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "As Databricks touts demand for AI services, all eyes are on Microsoft and Alphabet’s Q3 results"
     excerpt: "We can't wait to find out if these companies will report a material improvement from their investments in AI-related computing tasks and products."
@@ -663,7 +679,7 @@ related:
   - title: "Microsoft gains $70 billion and Alphabet loses more than twice as much as Satya Nadella steals Sundar Pichai’s thunder on AI"
     excerpt: "Microsoft's market value soared while Alphabet's tumbled after earnings on Tuesday told different stories about their cloud businesses and potential AI might."
     publishedDateTime: 2023-10-25T22:24:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-gains-70-billion-alphabet-192443872.html"
+    webUrl: "https://www.aol.com/microsoft-gains-70-billion-alphabet-192443872.html"
     type: article
     provider:
       name: AOL
@@ -711,6 +727,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "wwBEQbig2anIopmxUHCKPsJ/bI2enG7JGIebn3ZrZgwWu16HHwa+yJrWya9ds09bn5boFf2TIJ09RirrDqO2xyqYKVXSUlIQbYYrtfKKL1UyOxnvHAgk2rpj1VOBQ3ql52sjRxUzkE+CqOX5z/PekoVjzM9hkpGWnKaME78aVm7SdyneFibMVRustaqKPUfzV/HUdwjCjOAZYQZKkNM8R0q9gLHUqEaUugcLtn1VpdjsQJAJKqtuSUJD3NaPvlPzcd/9xARlmT/st4yfBoxpcGmzSe8pJZHsaiEvYMFdiLuEgy7cq85NCtyeDEwR5pmjNTf6G0MaqLHCvO0kHrWiuXXFvabicTGdeshWy98ccG5Hy9wtxlewVJ08oEIftigaZNH8sHCDOmVN2cZwqeA6woewmBOyqIqnfgftXxBADnZNsBdVEKnSxoDSVQozCUu4CJFB0+2/U5Dh99j2OWGWLBgMQPEztiwqoPVanEJdoLxLgYrSKyC3pqYc1f4v/uPkWlInWUzg8VQ3rZJj7tdBew==;4AYfYnQ45QG5VAnef6y9bw=="
+secured: "UiehhNIKois3HvOdz3oK1QSprkRr7VQ5VGqWEQthLPCsLXr3LY/AxkbHJJXFmBDbLGCIg2uNZhUZmmUtrw2WnrZyQZwSQKBZHiGVNbeHz/lAaJ1rJantKYseHxUq7Vo7AEz7I8Vymz4RwyFPIPQmXr2ayRe14zVOak1U7juq9Rjy6XuTGURFFh1yMLlEhM5GBwFvoSly4pGsH2i5KhYwXI6KVhXRH6ph2nJ1ALU8fDU3jqjZvWfAWo5TwVuDxrq6XnXkzQ+tgG5kYD5IyK72BWEc8aYBf68QZ2LdL7vujCM1WvP7y1WM0iRt+W1DzuIUSiizRZzYKK3eKY5jkG4fLv95BEkLuaTGzYK58Job/fs=;EobNlfXuObNInkvjwQxSMw=="
 ---
 

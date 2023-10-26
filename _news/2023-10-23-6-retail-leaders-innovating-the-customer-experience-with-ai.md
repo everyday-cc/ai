@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/people-revolutionizing-customer-experie
 ampWebUrl: "https://www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10?amp"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/6532961996f7540cd0618e44?width=1200&format=jpeg"
