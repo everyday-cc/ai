@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/10/23/23929271/pimeyes-facial-recogn
 webUrl: "https://www.theverge.com/2023/10/23/23929271/pimeyes-facial-recognition-ai-children-privacy"
 type: article
 quality: 64
-heat: 95
+heat: 94
 published: true
 
 provider:

@@ -2,14 +2,14 @@
 category: news
 title: "AI Skills for All: How IBM Is Helping To Close the Digital Divide"
 excerpt: "For instance, in one hands-on simulation, learners build and run a machine learning model with IBM Watson Studio. Beyond the fundamentals, we recently announced a new generative AI roadmap that ..."
-publishedDateTime: 2023-10-18T18:03:00Z
-originalUrl: "https://www.morningstar.com/news/accesswire/794271msn/ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide"
-webUrl: "https://www.morningstar.com/news/accesswire/794271msn/ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide"
+publishedDateTime: 2023-10-18T19:26:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-10/60404533-ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide-200.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2023-10/60404533-ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide-200.htm"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - IBM AI
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "WcbhX1BK8SJcyu74Vwjkzx4f0zXw2FRc6mx8L32x2Js8m4r7AfjBu4so+ne8ISnLczUPv+JoUGN0DISMhLhhGP0YpM2LVksj/yTeoFkNQ9L1CZPJ0rb+ScF70z+kGR2RFstDgAXPqtpb9YhS7XVhMBYbujb2ZqS98a2XuwUlyqwl+RZnealkIP2ZK8pg0Ke8iUS2Uu0fCxSMQzw2dWlN1R6bDHDOE4+hjc7+ebFI24ZHuEpoEKzhZcVptBJCXet/wCMGlDPc4GHLtAPyiskGuUwKrv4eGBvwvOdYmo5Py7EnY7r/zJ9/Sy5+nasIQflKFIa0ihWaMPBCt4ZgRMiLwBIINjToRadQhxaWJ+lGT+A=;N+kI2tbP4OEMAL3mprPyYw=="
+secured: "jEoNpfbfK3kzgI4k+QWNojakUIjLq3hFFwqxbpp3WRvqQyGsI4mmkaT5kAqwzt8IQz4NJA97csMBOyrtybeyRohzOb9wf02ra4ZtgN36V7CKBnk50onavzvGdsRB9ifD2ocXDaekBudIPUVOdL208AvYwtHB6p/2xJ+hyQqZ755wV7bRKTOsBpwYGjaRLdlmUo7g8Lwo53c8WD4jvVGTLOJZftcZvh8/PMPqGn4SRDG6vTISRIMnyeD9fCu3cKU6LfM5RGco/cAbEaRF0LBDNQHaTtYouctLCoKlRc6IuVtl67jEsywe4PgcuSEe+R94TZz2y/cyt2bvfQHkup9VdDIG6ZvLs/GorxmQUFSt40k=;A5cCFGQFXdSuoSIhSgqBhg=="
 ---
 

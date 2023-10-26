@@ -7,7 +7,7 @@ originalUrl: "https://marketscale.com/industries/pro-av/ai-in-av/"
 webUrl: "https://marketscale.com/industries/pro-av/ai-in-av/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,31 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "The Music Industry’s First Reckoning With AI Is Upon Us"
-    excerpt: "If any company is going to convince the music industry to test out AI, it’s probably YouTube. The relationship between YouTube and the music industry has come a long way. Once reviled as a thief, YouTube has since been embraced as a pivotal partner."
-    publishedDateTime: 2023-10-22T22:01:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-10-22/the-music-industry-s-first-reckoning-with-ai-is-upon-us"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Intel releases the industry’s first AI PC Acceleration Program"
-    excerpt: "Intel unveils its AI PC Acceleration Program, aiming to redefine personal computing by enabling AI capabilities on laptops and devices."
-    publishedDateTime: 2023-10-23T01:07:00Z
-    webUrl: "https://techwireasia.com/2023/10/why-is-intel-planning-an-ai-pc-acceleration-program/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 41
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/10/ai_program_intel-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "NpwoLmPUBBsRiRKUtWJiQPqit2PXc0+GOFTiAy9RgdptWz6VDNDDjXF7bwm9ShaKEpqJZqNKpUPl9/5QJgB8DvMmkbG3WAj2nP5ur9pu13qh1CTJgRdJKXma8NF9jmzE55GjN8s2tbnhLD042rgfqAyrx+L00zaF95Z6Yfus9ZA2gAuc7NXMVaTCHBOJm7JB+nu5PhiZ2FBAi5WqCB4C8ikpn9ljl0cGIe1cesr7FBteKtvxbVV7xoox+Z4Iy6N9b7INRMJpJFHNQjXqnlX0xqwX1hkt9b7EscHWSIux+aT9zMcVMNFtVDtuSrr6LTgJmGnYGbNQSdpjNk4xOZ6dMH15ODn/mRsVQa4CbWUhM+U=;wq2o54WdvNixj1RMrKgm9g=="
 ---

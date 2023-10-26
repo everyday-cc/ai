@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Zip Named Most Innovative Fintech Solution by 2023 Tech Ascension Awards"
-excerpt: "Zip Intake-to-Pay Lauded for Modern Approach to Improving Procurement Processes and the Employee Experience Zip, the world's only intake-to-pay platform, today announced its platform was chosen the Mo"
+excerpt: "Zip, the world’s only intake-to-pay platform, today announced its platform was chosen the Most Innovative Fintech Solution by the 2023 Tech Ascension"
 publishedDateTime: 2023-10-25T20:32:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/10/b35426151/zip-named-most-innovative-fintech-solution-by-2023-tech-ascension-awards"
-webUrl: "https://www.benzinga.com/pressreleases/23/10/b35426151/zip-named-most-innovative-fintech-solution-by-2023-tech-ascension-awards"
-ampWebUrl: "https://www.benzinga.com/amp/content/35426151"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35426151"
+originalUrl: "https://www.businesswire.com/news/home/20231025067897/en/Zip-Named-Most-Innovative-Fintech-Solution-by-2023-Tech-Ascension-Awards"
+webUrl: "https://www.businesswire.com/news/home/20231025067897/en/Zip-Named-Most-Innovative-Fintech-Solution-by-2023-Tech-Ascension-Awards"
 type: article
-quality: 43
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Cleo Joins American Fintech Council"
@@ -53,6 +45,6 @@ related:
       domain: crainsgrandrapids.com
     quality: 3
 
-secured: "tBBlD2Whjuzb+LBf5SSHHQVK4vqyYB6OkfuYfIrK8mtgcvgWEwEBImpn6nqt47wAMNGyN+9d49IQW+ZjyjSBhtbYFNxAZuvfrKQdX4cIFqml3Of76AtgcTpjckvNqy0hsalCEwe5uAdwTTU8JLl9Y5p5eh8Xy+LJSoiWKQZdgcNFJOGn6Kb3u/aFBkcCe2uCYfkpbH6gO/fW2xB1fTWIvmwSO5opx9335Ab82Veg3M7sy5a1LY0V8VJ+2+t7tzN+NlydUwOxlb3WMC+tn6RrOyZ9wvAU/x0F/In4ZI1ro1aI4llSn6QLn5hRrhqFFkq0ZV+txDGhdn+mVnDToibCc81KaWOnrV5af1+NXswOm8A=;Oif/9ws5eJ3zicdUuFziIg=="
+secured: "kd0AWezEh7vmR19nyAsRehAbKrJDGt5WJrN3jc6tO/Xsdqfr3l6ST6/KCk2qXSnVdBlXOMcCultsSCaGEGsftH8iKEdPo87MXzWOEYf9JnNvCdXcNlV011T6ZK+3Lf7E48Tv0y14oUOF39t/TQbQzpkY258/wRA9oCUHGA9C/eJPeTFG/B617GUScXYgsWpOkKuBR4NSaMAKS88E818Mo7ogNjhF0sMDURIcQ3Xua/2789ZgCs9LtEBnM2/HJ3qE5hBISIgNLnSwOOog1rNVdfOHeQwivh/g5swmHctedJzG6RNII0HjGQUAqy1RxN2h/6fpdWV1ONqzQyNZb4lEVxsWBy2yKgo+IJbeRdQT/LgJNSX10qpc2fhrX+9Fc5JjUczP20Wf5RmlBnpaprWfCC5n6r0N7prj1XbVWsjrJm/d26yZ1jSgL3m4qb5wm0SAAsM2QQPj2c0NPf66LhDgMHrTc6MPK6UlC7uSa3QYFG3Y34+R8HRdd/UwtFYnpShSOtxursSn/IRTudya/Y5R/w==;uBe3s/rylp122t7tLWkIIA=="
 ---
 

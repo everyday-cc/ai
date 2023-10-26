@@ -84,6 +84,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 32
+  - title: "GM self-driving car subsidiary withheld video of a crash, California DMV says"
+    excerpt: "The California Department of Motor Vehicles Tuesday revoked Cruise’s permits to test and operate fully driverless vehicles on the state’s roads. The California DMV said, in part, it was because Cruise,"
+    publishedDateTime: 2023-10-25T21:52:00Z
+    webUrl: "https://www.erienewsnow.com/story/49882209/gm-self-driving-car-subsidiary-withheld-video-of-a-crash-california-dmv-says"
+    type: article
+    provider:
+      name: Erie News Now
+      domain: erienewsnow.com
+    quality: 21
+    images:
+      - url: "https://CNNWIRE.images.worldnow.com/images/25332846_G.jpg?lastEditedDate=1698163547000"
+        width: 500
+        height: 333
+        isCached: true
   - title: "California suspends GM Cruise self-driving vehicles as 'not safe' for public"
     excerpt: "The automaker reported on Tuesday that it lost $723 million on Cruise during the third quarter. The DMV added that Tuesday's \"decision does not impact the company's permit for testing with a safety driver."
     publishedDateTime: 2023-10-24T19:32:00Z

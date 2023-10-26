@@ -3,23 +3,23 @@ category: news
 title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
 excerpt: "Popular chatbots are perpetuating racist, debunked medical ideas that could worsen health disparities for Black patients, a new study finds."
 publishedDateTime: 2023-10-25T21:15:00Z
-originalUrl: "https://omaha.com/news/nation-world/business/health-care/ai-chatbots-racist-medicine-chatgpt-google-bard/article_d5e53e4c-a52b-5e93-9e32-e93acd863862.html"
-webUrl: "https://omaha.com/news/nation-world/business/health-care/ai-chatbots-racist-medicine-chatgpt-google-bard/article_d5e53e4c-a52b-5e93-9e32-e93acd863862.html"
+originalUrl: "https://napavalleyregister.com/news/nation-world/business/health-care/ai-chatbots-racist-medicine-chatgpt-google-bard/article_ea122c04-d5fd-500c-803e-3eef830feb10.html"
+webUrl: "https://napavalleyregister.com/news/nation-world/business/health-care/ai-chatbots-racist-medicine-chatgpt-google-bard/article_ea122c04-d5fd-500c-803e-3eef830feb10.html"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Napa Valley Register
+  domain: napavalleyregister.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/5e/d5e53e4c-a52b-5e93-9e32-e93acd863862/65354cb513d7c.preview.jpg?crop=1576%2C827%2C0%2C75&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/e/a1/ea122c04-d5fd-500c-803e-3eef830feb10/65354cb45e890.preview.jpg?crop=1576%2C827%2C0%2C75&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -49,6 +49,6 @@ related:
       domain: thegrio.com
     quality: 5
 
-secured: "I/JiA9rYTSISO2RDjzv2URLyt/j9lLu20hRuUmn3DnprzbJ3Ms17CNaXZB0eScdvnlZ/GH9Jw2MlMzGFbo1OcePr9cZk9tGcLzaxEyviyDa6q7cGIleNStk+esrW5+lGTT4PvSXSyq0uwPF7YVJDWLqXIRhQA9yw0VLhjwICOE6kKDvnxRQlcDukL4PpE80YJz0bsUjV80FSNo97WBhbn1095/gGxDwWCkbefY5nNwU7pyUesWwKVvkCm71l8y+UDwqUh2ZFECUc+2x+LMyDSTS7WkMoW9XB33OgVELKkR0+EspadeIiZmG0/o1t+HcBVOiQVrtwa7p8k28rLVDOMy/U/3Hw8bHweUj8TEXZaSE=;gasKLi2XicN/moZfU5Iw/w=="
+secured: "A/icpvg3QlMpvpKnHJiQI8m3/f9dlqtVyFc4vZlSN/VtHNUmJ0L5kKJIxCmCK9nYQahPJ5w7IHuf32bCUNfR3mki6S8nfQj/XtH+DqAjnuv1IcE2pRZSndLkLe4MUvMqBTmJVM19OucdWynkW6DHfcpW/eebA52sBnyR7Lu0Qnl5ZbotWYpYId7LXRI+M0VXnCKsbJtQOhBWd4khd+dTMnEuQojqBWCnWFJjqzzVJFtgYBq0Khl+uCu8A4APd082U2BwbyE6S72y6GXPzFdwEc5jVI7hIlIBVaCXtLnuRWiufJ1deN9jB723LZz01RoTCp2vOBIlR61Lnbf0QJsFL5g87gyd1uFmF0ylphmmswM=;yYYGBr3/vN3DMY1aDve8hg=="
 ---
 

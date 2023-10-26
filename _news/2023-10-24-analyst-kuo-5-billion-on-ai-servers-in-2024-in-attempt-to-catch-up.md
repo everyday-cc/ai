@@ -9,7 +9,7 @@ ampWebUrl: "https://www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-i
 cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up/201433/amp/"
 type: article
 quality: 59
-heat: 90
+heat: 89
 published: true
 
 provider:

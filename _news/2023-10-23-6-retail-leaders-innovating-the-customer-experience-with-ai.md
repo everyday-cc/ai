@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/people-revolutionizing-customer-expe
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10?amp"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

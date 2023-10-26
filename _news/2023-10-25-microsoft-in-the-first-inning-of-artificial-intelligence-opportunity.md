@@ -491,6 +491,20 @@ related:
         width: 1570
         height: 1156
         isCached: true
+  - title: "Microsoft Earnings Call Highlights Latest In AI For Search & Ads"
+    excerpt: "Explore Microsoft's latest AI developments in search and upcoming plans for Bing in the company's most recent earnings call."
+    publishedDateTime: 2023-10-25T22:38:00Z
+    webUrl: "https://www.searchenginejournal.com/microsoft-earnings-call-highlights-latest-in-ai-for-search-ads/499361/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 54
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/10/microsoft-earnings-call-6539964cd5545-sej.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Microsoft grows cloud business, banks on full-stack AI strategy"
     excerpt: "Large language models and the generative AI tools they power aren’t the only driver of Azure usage and revenue growth — but the technology has gained traction."
     publishedDateTime: 2023-10-25T20:47:00Z
@@ -504,20 +518,6 @@ related:
       - url: "https://www.ciodive.com/imgproxy/AywSoSDyJzv2tqIvCkZtqQ8rXJeBON6IsbkGoo67ptY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTQ1OTg4NTkzOC5qcGc.jpg"
         width: 770
         height: 435
-        isCached: true
-  - title: "DCT Abu Dhabi And Microsoft Sign Mou On Generative AI, Cloud Technologies"
-    excerpt: "( MENAFN - Dubai PR Network) DCT Abu Dhabi and Microsoft Sign MoU on Generative AI, Cloud Technologies"
-    publishedDateTime: 2023-10-21T05:25:00Z
-    webUrl: "https://menafn.com/1107279443/DCT-Abu-Dhabi-And-Microsoft-Sign-Mou-On-Generative-AI-Cloud-Technologies"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 53
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/21/DPN_8c5a9image_story.jpg"
-        width: 580
-        height: 380
         isCached: true
   - title: "DCT Abu Dhabi And Microsoft Sign Mou On Generative AI, Cloud Technologies"
     excerpt: "The combination of the Microsoft Azure Intelligent Data Platform and Azure OpenAI Service will significantly improve operational insights, and the use of AI-powered Microsoft 365 tools will streamline workflows, enhance productivity, and elevate the ..."
@@ -625,6 +625,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 42
+  - title: "Microsoft took a chance by igniting the AI race, but it seems to be working out well for the company"
+    excerpt: "The lesson from Microsoft's strong AI-fueled quarterly financial results is likely to push other companies to charge ahead on AI products, for better or for worse."
+    publishedDateTime: 2023-10-25T19:32:00Z
+    webUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/U1EerTWyXWaME7oEkDdKVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/f8855f5ee8c7a64b5c49738dd4801c17"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft CEO Satya Nadella compares the advent of AI to the birth of atomic energy, calls for global regulation"
     excerpt: "Satya Nadella traveled to the Axel Springer headquarters to receive the 2023 Axel Springer Award. While he was there, he sat down and had an interview with Axel Springers CEO Mathias Döpfner. The discussion covered a wide range of topics such as leadership, AI, the Activision Blizzard deal, and that canceling the Windows Phone was a mistake."
     publishedDateTime: 2023-10-25T20:45:00Z
@@ -639,6 +653,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft says AI investments already paying off"
+    excerpt: "Wall Street is now laser-focused on how companies like Google and Microsoft will make money from AI. Why it matters: After nearly a year of hyping up AI, tech giants are facing greater scrutiny of their plans to launch expensive generative AI products and services."
+    publishedDateTime: 2023-10-25T22:51:00Z
+    webUrl: "https://www.axios.com/2023/10/25/microsoft-google-ai-earnings-cloud"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 34
   - title: "Wall Street is demanding financial results that support all the AI hype. Microsoft’s latest earnings finally delivered"
     excerpt: "Higher-than-expected AI consumption contributed to revenue growth, Microsoft CFO Amy Hood said during the company’s earnings call."
     publishedDateTime: 2023-10-25T10:16:00Z
@@ -653,15 +676,20 @@ related:
         width: 1199
         height: 892
         isCached: true
-  - title: "Microsoft took a chance by igniting the AI race, but it seems to be working out well for the company"
-    excerpt: "The lesson from Microsoft's strong AI-fueled quarterly financial results is likely to push other companies to charge ahead on AI products, for better or for worse."
-    publishedDateTime: 2023-10-25T19:32:00Z
-    webUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html"
+  - title: "Microsoft gains $70 billion and Alphabet loses more than twice as much as Satya Nadella steals Sundar Pichai’s thunder on AI"
+    excerpt: "Microsoft's market value soared while Alphabet's tumbled after earnings on Tuesday told different stories about their cloud businesses and potential AI might."
+    publishedDateTime: 2023-10-25T22:24:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-gains-70-billion-alphabet-192443872.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 19
+    quality: 27
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/sst8s2XD_hwhnVn.TxABCQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/aol_fortune_385/c1f5fb3725ab3f750d5709aff1ebec30"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
     excerpt: "NDAQ:SPNS) Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
     publishedDateTime: 2023-10-25T12:28:00Z

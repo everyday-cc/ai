@@ -165,20 +165,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 34
-  - title: "Nvidia Announced an AI Agent Powered by GPT-4 That Can Teach Robots Complex Skills"
-    excerpt: "NVIDIA Research announced yesterday that it developed an AI agent called Eureka powered by GPT-4 LLM and generative AI. Eureka can teach robots complex skills by writing code that rewards robots for reinforcement learning."
-    publishedDateTime: 2023-10-21T06:21:00Z
-    webUrl: "https://iblnews.org/nvidia-announced-an-ai-agent-powered-by-gpt-4-that-can-teach-robots-complex-skills/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 33
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2023/10/nvidiabreakthrough-696x393.jpg"
-        width: 696
-        height: 393
-        isCached: true
 
 secured: "ZFXXUWbujiXIR0xJtC0mUnbA4XxE4HkJffkCfpaqsCjxNAHeNkIFa72HglaWNo2KMln487ENwIPB9DyQxVifFEeavbD8G7n5WQ2seupLSi0QBMbRbdzFVddpoIzTDI8IdyQo+VEtn4rYPHlt/PvYDhJtViYeriqZAOMFvwN9+3kRxsnq83Q5GFwau2ioaAtobAkNhDqViD5gfPyyBThCnZcr6n6StCzNCcTTzfF75zSpJRd8iLgCKEzDaa1svad0QOryaOUwXn6YXEq0WS0kPBE2GPlq/QXUSdUMuX3EZFBljrK2kB8wLxxFZmFxdfFhIqojoIbPAww5+v7xAj1BVGz1IcddxOtc+FkM0uw9yo2yJA3pOsdgqmqZLMb/WNwxq2j4bmwhi5ncL0osnNTdjGQP/bdsY7Zl6YvfLivyrSQ8S+jKmdSVgPd8AlD6wWMcgQ5f3L+GN6TNmUFxo7jDnDTpaSKKoUA9UACjFKKwdC/DZlDuylA0WwIvyVtaEh/5/N7FzunpxLfXQSNsrGamew==;dt/GLtielcJ4uuZFjO1ISg=="
 ---

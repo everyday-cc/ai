@@ -36,14 +36,14 @@ related:
   - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
     excerpt: "Popular chatbots are perpetuating racist, debunked medical ideas that could worsen health disparities for Black patients, a new study finds."
     publishedDateTime: 2023-10-25T21:15:00Z
-    webUrl: "https://omaha.com/news/nation-world/business/health-care/ai-chatbots-racist-medicine-chatgpt-google-bard/article_d5e53e4c-a52b-5e93-9e32-e93acd863862.html"
+    webUrl: "https://napavalleyregister.com/news/nation-world/business/health-care/ai-chatbots-racist-medicine-chatgpt-google-bard/article_ea122c04-d5fd-500c-803e-3eef830feb10.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: Napa Valley Register
+      domain: napavalleyregister.com
     quality: 25
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/5e/d5e53e4c-a52b-5e93-9e32-e93acd863862/65354cb513d7c.preview.jpg?crop=1576%2C827%2C0%2C75&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/e/a1/ea122c04-d5fd-500c-803e-3eef830feb10/65354cb45e890.preview.jpg?crop=1576%2C827%2C0%2C75&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

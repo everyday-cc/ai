@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/25/ai-dangers-must-b
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -29,6 +29,17 @@ images:
     height: 372
     isCached: true
 
-secured: "scg64YAGyHwpL75mQevvzqhdWHYm6n1DXtYu33MzpPJd0xofvo07ojH1uxrWoNkcLa38HIIYvCZcnck+TJVjfLZSupAjKRslov7L0tiwOggdOI5ONE1ZiF/0w6K+edTnmGHf8RuIK6PQ4b8nB7M2lFzagEdp81mCqkPYCYbwlwHsC9kV+fhB4KJFettfLin5/apw7xzF1dw5zYdvhWLzwCkyyhyk0tCgvLrhFZsmSTu0QUnzKy7kK0To8TEy3169bqL1LLu2lzfnGE3PErEAPg68xdOMpLLJXpTSoRNDIRHJ66EAzBO4+4AIIajMbFPCMDBI12x0P5KcA6SJlcOTIDCD5O6NlJDTNTIggGnK0xk=;kPYjefW1tzk8LpcLAFU0HA=="
+related:
+  - title: "Rishi Sunak vows to keep UK public safe from threats posed by advances in AI"
+    excerpt: "Rishi Sunak will seek to reassure the public on Thursday about the risk posed by artificial intelligence, as the UK government sets out a possible scenario in which advances in automation lead to increased unemployment and poverty by 2030."
+    publishedDateTime: 2023-10-25T21:31:00Z
+    webUrl: "https://www.ft.com/content/fe97b4f3-72e2-4de5-8fa2-7512902d2df3"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 14
+
+secured: "43vllZ0U5NOztsf15C6UKPbvAnrDCMprTWcmESpS1x+zHKe/pPTwYudPyI26QFgupoHoX84hyglKp/r/u2GmrpclTabngcKL8cdOwz6gxh5rm8wadKV+blX6SGc5pEjV1/+MIBHL3UZOJV4LNYFk/L80V37YwqF0GYIHfDgF9tKEcmnVypSoJzWK8Ia3gYvGrTcfFWe65rnv5KfDtrifv+60Ho9JrlDf1VaU1fbIv6Cw23FDmN+BSCH25U6nMmNAr/aOwi1Ar43vkBwxfZVOMaEuP2dLDC1G/vuef02X34lAIdTI6swZ+d5L7atFeGDWhELa7osb32W0sTqzWNnt64Pdp8P4QReXnVTeFmsHRCMgsJn4Ua1Tw6oYorksuQ+lE//21m3nanAVIP7Q5M9iXcgC5HmpgBg/y5Ua/Kdxnbg9PYf/g5sqz9v0y5+NZjV6nijRFfyku6OJ4d3ec1Eym5iLKnucS5NZtwDwSmVziYycNviSIWqhejQ9VmN1WQR9QDsA/ylZyYYm8sHRt80ewg==;/sIRiPVXIfGpFzXICeExSA=="
 ---
 

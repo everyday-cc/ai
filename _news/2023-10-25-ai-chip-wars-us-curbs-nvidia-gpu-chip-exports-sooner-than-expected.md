@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/"
 type: article
 quality: 119
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -161,20 +161,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 34
-  - title: "Nvidia Announced an AI Agent Powered by GPT-4 That Can Teach Robots Complex Skills"
-    excerpt: "NVIDIA Research announced yesterday that it developed an AI agent called Eureka powered by GPT-4 LLM and generative AI. Eureka can teach robots complex skills by writing code that rewards robots for reinforcement learning."
-    publishedDateTime: 2023-10-21T06:21:00Z
-    webUrl: "https://iblnews.org/nvidia-announced-an-ai-agent-powered-by-gpt-4-that-can-teach-robots-complex-skills/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 33
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2023/10/nvidiabreakthrough-696x393.jpg"
-        width: 696
-        height: 393
-        isCached: true
   - title: "Nvidia said the U.S.'s new AI chip restrictions have already taken effect"
     excerpt: "New rules restricting Nvidia from selling even the chips it designed for the Chinese market in the country have now taken effect."
     publishedDateTime: 2023-10-24T19:54:00Z

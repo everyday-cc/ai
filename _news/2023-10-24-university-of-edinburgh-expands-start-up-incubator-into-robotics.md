@@ -9,7 +9,7 @@ ampWebUrl: "https://www.insider.co.uk/news/university-edinburgh-expands-start-up
 cdnAmpWebUrl: "https://www-insider-co-uk.cdn.ampproject.org/c/s/www.insider.co.uk/news/university-edinburgh-expands-start-up-31257558.amp"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

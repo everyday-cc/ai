@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/snoop-dogg-sentient-ai-and-the-arrival-
 webUrl: "https://venturebeat.com/ai/snoop-dogg-sentient-ai-and-the-arrival-mind-paradox/"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

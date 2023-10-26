@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3709131/cisco-unveils-new-ai-s
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709131/cisco-unveils-new-ai-strategy-for-its-webex-video-platform.amp.html"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Cisco zooms in on new AI power for Webex teams"
+    excerpt: "Providing automated support such as tone modification when writing messages, suggested responses to received messages, and meeting summaries"
+    publishedDateTime: 2023-10-25T23:41:00Z
+    webUrl: "https://venturebeat.com/virtual/cisco-zooms-in-on-new-ai-power-for-webex-teams/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-25-10.37.16-Photo-of-a-person-of-Hispanic-descent-engrossed-in-a-video-chat-with-a-futuristic-robot-on-the-laptop.-The-laptop-creates-a-mild-illusion-of-echoing-.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
 
 secured: "TaqkG56omm/+TGK/di4dLlMU7PlXv2dTBsfJKHxYwFbKmPZtELGHvz3V9OcJFpPm/td4zIiSY76AeAXjQpOfDloLtThh4UhvzkShlLuD83Vny/zF/cDx8voL74yO5strm85l0/qLxAQhEbqckvSjGbAwSNfyoDfif5KSoNhNbvfOO8v/tyr/oLKudHvflyTeuowCvi0uUxod+AkhqN31uGhJU0HGcSbfulWrRcZojlyDYUjBK73N8WaPOT8ILYyOsf93iMCDKugW3IDYm3IL/mpV3UTDJ+PCkvZM3aQB87NzxHQFkPSp7X2WPtfe0uZdKbhpZTpto7G8tWB4jiZpbgUFk/UUO+DQ6hiqRZJrhx3IjkpjTxoLe6NZ4pCxNJDHY+c86BwQdspLmXoooVSFbj03Tdx+M1qZvdeAoPKkvySs8YkCeplA3myze921x/NiU5h/ww7P80nrvel5OEmcCgypwdVxrTA5xz1XpIEciRkyjDDSWcx6Q8wSTP45dfopPCLvX08QxePGVAuPB9tksw==;TmWt+AYXnXByB9AfFxdwQQ=="
 ---
