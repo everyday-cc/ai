@@ -44,20 +44,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 39
-  - title: "Inside the Underground World of Black Market AI Chatbots"
-    excerpt: "These models are powerful, hard to police, and growing in number. They also mark the emergence of a new battleground in the fight against cybercrime—one that extends even beyond text generators like ChatGPT, and bleeds into the realm of images, audio, and video as well."
-    publishedDateTime: 2023-10-22T02:48:00Z
-    webUrl: "https://www.thedailybeast.com/inside-the-underground-world-of-black-market-ai-chatbots"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1697736987/231011-dark-web-ai-chatbot-hero_qofzpt"
-        width: 1480
-        height: 832
-        isCached: true
   - title: "OCBC to Deploy Generative AI Chatbot Powered by ChatGPT for Staff Globally"
     excerpt: "OCBC announced that it will deploy a generative artificial intelligence (AI) chatbot to its 30,000 employees globally in November 2023."
     publishedDateTime: 2023-10-24T06:43:00Z

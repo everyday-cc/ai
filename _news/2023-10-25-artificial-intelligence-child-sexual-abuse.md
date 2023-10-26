@@ -93,6 +93,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 15
+  - title: "AI-generated child sexual abuse images could flood the internet. A watchdog is calling for action"
+    excerpt: "The proliferation of child sexual abuse images online could dramatically worsen if more controls aren’t placed on artificial intelligence tools that generate deepfake photos, a new report warns."
+    publishedDateTime: 2023-10-26T18:45:00Z
+    webUrl: "https://omaha.com/news/nation-world/ai-artificial-intelligence-child-sexual-abuse-deepfake/article_6b155ca6-7a1f-5236-8412-dd2e90a27f32.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 4
 
 secured: "jzHmoXVwOYo6b6CD6/zv7LA8PEGiM9R28ZnCJxBiYfy85Kk+0+XQWF0UpK0pxc6pnj0ij9SJej6Gex0i5vjTpWYe9DaX8FOZNaA0LUZKcyUyhRF3AcBeDQC3t1M23EzaPChyeXr2/6kO11FIFy2sRGQ5bcbIvNx76WQyI1pY20IdKJ1azNWs1l0eZ6+pWwuhzvvxsiP31IC41Ba0QAkNMt0L8t7m3u/ESD1GBJpoebkTequoOTXZhL3LZo80JTsR91frqS9vyXCtiA4cLiNJHDByeC75brlxpatu0oRhMgpB0wgl86sY5xKLSCVC/jqQvTcF63zCjWhvlC5/BEZBvfsn2muMtTJTCDYfc2R0QmevnFnFBMoibBWO/QaRj/8+oFSM68MeFkEnW2oGr0fseSlKl2nlG+F2PbbE8Gk/X/u0Akbflrhes2nxkErd7hI6cNcL7BE71IJKzNDuiCA38NRuC3jovKY2x9fDzwuhOy0Qya2Y9/BW1FNmLKTi1X3zNqrW05TW/E8JoHExkZbLng==;yMohoP/2EoW7KFU8QGWW2w=="
 ---

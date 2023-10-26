@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How to use Windows 11 Copilot — here's what you can do with AI"
-    excerpt: "Microsoft calls Copilot \"AI\" but it's really an evolution of the company's Bing ... whereas if you type open Word it will ask if you want to start Microsoft Word. Currently there's one option you can enable in Windows Copilot's settings menu (which you ..."
-    publishedDateTime: 2023-10-22T03:08:00Z
-    webUrl: "https://www.tomsguide.com/how-to/how-to-use-copilot-to-control-windows"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HHrynukdvYZkYEmbRvzXKP-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "QFnMvdnx9vzbUhhW6Hr+S6pUnru44ZHHbhoB9rLD0SbX1B5jpb64EJLPtqy9LNg59Bv6+KgBFz6xHgyn4GI3yuSim8NYCffrySJqn7fz4XdCV0Tx3fXI4sPNZ8P8WUqentqg/KwPgZpxHnX4LtMWzfFoCEiN/W6dCCYc3a+h/MZ5qZPyDbK1nYvHTLsnT1DNsSVfDL1wCkI9oSueJ/OAIvn3vKMzeNnVM7y4irm+ndF7/2Sw4pr4C31WTIkmBAwUvOw1h/a1KvZ8hlxfYEWp1THvyE3rozdXGLuydpiZvV2uixTNHRdZuKheO0kZpN4Ue/+gAEntMgJ465RLNDFAC8ekbNfCkdrCyA83o3N8zUo=;F8Z7suB7TERmbKM/KbXXAQ=="
 ---

@@ -328,7 +328,7 @@ related:
   - title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
     excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
     publishedDateTime: 2023-10-25T14:58:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca&region=ca"
     type: article
     provider:
       name: Proactiveinvestors
@@ -467,6 +467,24 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Keith Bachman’s Bullish Outlook on Microsoft: Azure’s Growth, AI Potential, and Copilot Integration Drive Buy Rating"
+    excerpt: "Furthermore, the performance of AI services provided a substantial boost to Azure’s growth. In addition to Azure, Bachman sees potential in Microsoft Office. While its current growth aligns with forecasts, he expects a surge in its growth with the ..."
+    publishedDateTime: 2023-10-25T02:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/keith-bachman-s-bullish-outlook-on-microsoft-azure-s-growth-ai-potential-and-copilot-integration-drive-buy-rating-1032740486"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+  - title: "Microsoft launches a new Excel add-in to help with business forecasts via machine learning"
+    excerpt: "If you are looking to use your Excel spreadsheet program for more than just number crunching, Microsoft has announced a new add-on for the app that will help businesses create better forecasts with the help of machine learning and AI. In a post on the ..."
+    publishedDateTime: 2023-10-26T19:35:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-launches-a-new-excel-add-in-to-help-with-business-forecasts-via-machine-learning/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 56
   - title: "Microsoft makes record $5B investment for Aussie AI infrastructure"
     excerpt: "“They will not only enable a safer and more secure digital economy, but also provide a platform to foster growth and innovation in the era of AI,” he added. Last week, Microsoft announced the general availability of its Azure AI Content Safety ..."
     publishedDateTime: 2023-10-24T00:45:00Z
@@ -748,6 +766,15 @@ related:
     provider:
       name: Axios
       domain: axios.com
+    quality: 34
+  - title: "Rockwell, Microsoft expand partnership with generative AI"
+    excerpt: "Milwaukee-based Rockwell Automation Inc. is expanding its partnership with Microsoft Corp. “to accelerate automation design and development through"
+    publishedDateTime: 2023-10-26T17:46:00Z
+    webUrl: "https://biztimes.com/rockwell-microsoft-expand-partnership-with-generative-ai/"
+    type: article
+    provider:
+      name: BizTimes
+      domain: biztimes.com
     quality: 34
   - title: "Wall Street is demanding financial results that support all the AI hype. Microsoft’s latest earnings finally delivered"
     excerpt: "Higher-than-expected AI consumption contributed to revenue growth, Microsoft CFO Amy Hood said during the company’s earnings call."

@@ -34,20 +34,6 @@ related:
         width: 1598
         height: 900
         isCached: true
-  - title: "iPhone 15 Series: A Glimpse into the Future of Smartphones"
-    excerpt: "Introduction The iPhone has long been a symbol of innovation and excellence in the world of smartphones, and Apple’s commitment to pushing the boundaries of technology is evident with each new release."
-    publishedDateTime: 2023-10-22T03:22:00Z
-    webUrl: "https://techbullion.com/iphone-15-series-a-glimpse-into-the-future-of-smartphones/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/Minister-event-450x270.png"
-        width: 450
-        height: 270
-        isCached: true
   - title: "I wish the iPhone had the Pixel 8’s generative AI wallpapers"
     excerpt: "The Google Pixel 8 offers generative AI wallpapers, letting you create unique wallpapers with a prompt and I really wish iPhone had it, too."
     publishedDateTime: 2023-10-22T13:02:00Z

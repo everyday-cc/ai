@@ -75,6 +75,24 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
+  - title: "Humanity Could 'Lose Control' Of Artificial Intelligence, Warns Rishi Sunak"
+    excerpt: "Humanity could “lose control” of Artificial Intelligence, Rishi Sunak has warned as he set out a series of grim scenarios for the future of mankind. The prime minister said AI could make it easier to create weapons of mass destruction, help terrorist ..."
+    publishedDateTime: 2023-10-26T19:46:00Z
+    webUrl: "https://www.huffingtonpost.co.uk/entry/humanity-could-lose-control-of-ai-super-intelligence-warn-rishi-sunak_uk_653a2692e4b0783c4b9feba3?d_id=6565772&ncid_tag=fcbklnkukhpmg00000008"
+    type: article
+    provider:
+      name: Huffington Post UK
+      domain: huffingtonpost.co.uk
+    quality: 15
+  - title: "Liz Truss Savages Rishi Sunak For Inviting China To Artificial Intelligence Summit"
+    excerpt: "Liz Truss has called on Rishi Sunak to withdraw his invitation for China to attend next week’s Artificial Intelligence (AI) summit. The former prime minister said she was “deeply disturbed” to find out that the UK had asked the Chinese government to ..."
+    publishedDateTime: 2023-10-26T19:46:00Z
+    webUrl: "https://www.huffingtonpost.co.uk/entry/liz-truss-savages-rishi-sunak-for-inviting-china-to-artificial-intelligence-summit_uk_653a60cee4b0c85561046146?d_id=6566483&ncid_tag=fcbklnkukhpmg00000008"
+    type: article
+    provider:
+      name: Huffington Post UK
+      domain: huffingtonpost.co.uk
+    quality: 11
 
 secured: "8b6OQBwaHWl8l5vm2q7NUNB98knsTGKQDkXpylmGNqzxoco5hx/g9vXC08wVO8W6IRb05FkaE2qzIaiNQcphQdB/V/uogYn/ZagU6+hKhVFzxz4WKKtA6B7NxOslK1fwE4qYxnW/joCqUXqO989IIAolLsRlMyF3HhQg/rhF9bxo5thCfBj/hFtQMdhpYdVQm3z+X5SHjfoqPLueyKJkbwrgAWbZoulErEnQxIt0I6o2lkZACd3EfiQOFz1qqOHvyUFwNMsikqweX1KFImSRfTgUnL0ld9hcHlWaS2WCAU3YnpE4rnBijmW5I9iLpc81LchwZIJixeV9WK2DnwYAXArPPkGeGLptka3fq2zVfis2qyIG0Lt5zfRu/FnGUOTmTkt6p//bGhVhfixel/ttV6/+DIZYD4UtSMr4ZkuQSC5hvX48sMVDpB4aZY+cNXd/cx3jHe2oqi/1lYo4wUcwEvCVGbAJoRv86wofTfQEX+IbksOt6VzODA0ePjBIIqMgtYjCX+wBrCD2LKmP4VfENA==;JDnJcie+VcSdNbzhFzwvoQ=="
 ---

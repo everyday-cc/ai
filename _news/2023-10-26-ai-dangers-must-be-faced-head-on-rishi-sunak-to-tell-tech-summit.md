@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/25/ai-dangers-must-b
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit"
 type: article
 quality: 57
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
+  - title: "Humanity Could 'Lose Control' Of Artificial Intelligence, Warns Rishi Sunak"
+    excerpt: "Humanity could “lose control” of Artificial Intelligence, Rishi Sunak has warned as he set out a series of grim scenarios for the future of mankind. The prime minister said AI could make it easier to create weapons of mass destruction, help terrorist ..."
+    publishedDateTime: 2023-10-26T19:46:00Z
+    webUrl: "https://www.huffingtonpost.co.uk/entry/humanity-could-lose-control-of-ai-super-intelligence-warn-rishi-sunak_uk_653a2692e4b0783c4b9feba3?d_id=6565772&ncid_tag=fcbklnkukhpmg00000008"
+    type: article
+    provider:
+      name: Huffington Post UK
+      domain: huffingtonpost.co.uk
+    quality: 15
   - title: "Rishi Sunak vows to keep UK public safe from threats posed by advances in AI"
     excerpt: "Rishi Sunak will seek to reassure the public on Thursday about the risk posed by artificial intelligence, as the UK government sets out a possible scenario in which advances in automation lead to increased unemployment and poverty by 2030."
     publishedDateTime: 2023-10-25T21:31:00Z
@@ -80,6 +89,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 14
+  - title: "Liz Truss Savages Rishi Sunak For Inviting China To Artificial Intelligence Summit"
+    excerpt: "Liz Truss has called on Rishi Sunak to withdraw his invitation for China to attend next week’s Artificial Intelligence (AI) summit. The former prime minister said she was “deeply disturbed” to find out that the UK had asked the Chinese government to ..."
+    publishedDateTime: 2023-10-26T19:46:00Z
+    webUrl: "https://www.huffingtonpost.co.uk/entry/liz-truss-savages-rishi-sunak-for-inviting-china-to-artificial-intelligence-summit_uk_653a60cee4b0c85561046146?d_id=6566483&ncid_tag=fcbklnkukhpmg00000008"
+    type: article
+    provider:
+      name: Huffington Post UK
+      domain: huffingtonpost.co.uk
+    quality: 11
 
 secured: "43vllZ0U5NOztsf15C6UKPbvAnrDCMprTWcmESpS1x+zHKe/pPTwYudPyI26QFgupoHoX84hyglKp/r/u2GmrpclTabngcKL8cdOwz6gxh5rm8wadKV+blX6SGc5pEjV1/+MIBHL3UZOJV4LNYFk/L80V37YwqF0GYIHfDgF9tKEcmnVypSoJzWK8Ia3gYvGrTcfFWe65rnv5KfDtrifv+60Ho9JrlDf1VaU1fbIv6Cw23FDmN+BSCH25U6nMmNAr/aOwi1Ar43vkBwxfZVOMaEuP2dLDC1G/vuef02X34lAIdTI6swZ+d5L7atFeGDWhELa7osb32W0sTqzWNnt64Pdp8P4QReXnVTeFmsHRCMgsJn4Ua1Tw6oYorksuQ+lE//21m3nanAVIP7Q5M9iXcgC5HmpgBg/y5Ua/Kdxnbg9PYf/g5sqz9v0y5+NZjV6nijRFfyku6OJ4d3ec1Eym5iLKnucS5NZtwDwSmVziYycNviSIWqhejQ9VmN1WQR9QDsA/ylZyYYm8sHRt80ewg==;/sIRiPVXIfGpFzXICeExSA=="
 ---

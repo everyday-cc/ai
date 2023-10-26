@@ -42,6 +42,22 @@ related:
         width: 1599
         height: 900
         isCached: true
+  - title: "Poison pill tool could break AI systems stealing unauthorized data, allowing artists to safeguard their works"
+    excerpt: "AI image generators have been accused of ripping off artists' creative styles. This new tool promises to protect artists' creations and poison machines trying to copy them."
+    publishedDateTime: 2023-10-26T20:30:00Z
+    webUrl: "https://www.foxnews.com/tech/poison-pill-tool-break-ai-systems-stealing-unauthorized-data-allowing-artists-safeguard-works"
+    ampWebUrl: "https://www.foxnews.com/tech/poison-pill-tool-break-ai-systems-stealing-unauthorized-data-allowing-artists-safeguard-works.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/poison-pill-tool-break-ai-systems-stealing-unauthorized-data-allowing-artists-safeguard-works.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 68
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f374d9dc-6e87-4d19-8004-08237cdc91fd/c4466187-c4f8-4c9c-a7f6-dca6d6859bf2/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meet Nightshade, the new tool allowing artists to ‘poison’ AI models with corrupted training data"
     excerpt: "Nightshade was developed by University of Chicago researchers under computer science professor Ben Zhao and will be added as an option"
     publishedDateTime: 2023-10-23T23:35:00Z

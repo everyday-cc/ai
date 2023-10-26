@@ -38,6 +38,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "New Beatles song 'Now and Then' gets a little help from AI"
+    excerpt: "Years after his death, Lennon's widow Yoko Ono handed a set of recordings including \"Now and Then\" to the other Beatles, who added their own parts to it. But technological limitations meant Lennon's vocals and piano could not be separated to produce the clear mix required to finish the song."
+    publishedDateTime: 2023-10-26T21:54:00Z
+    webUrl: "https://www.reuters.com/lifestyle/now-then-beatles-release-new-song-with-lennons-voice-2023-10-26/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/9XTXhj2iK1uQMlCsXsNY2BGX_EM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EFIY37DP5ZO3PGGQDOPHVYHREU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Last Beatles song, \"Now And Then,\" will be released Nov. 2 with help from AI"
     excerpt: "The last \"new\" Beatles song, called \"Now And Then,\" will be part of a single paired with \"Love Me Do,\" the first Beatles single from 1962."
     publishedDateTime: 2023-10-26T17:06:00Z

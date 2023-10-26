@@ -34,6 +34,15 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Building a full-stack robotics company in the age of large AI models"
+    excerpt: "Electric Sheep Robotics' Nag Murty dives into some of the challenges startups face when looking to scale their operations."
+    publishedDateTime: 2023-10-26T17:15:00Z
+    webUrl: "https://www.therobotreport.com/building-a-full-stack-robotics-company-in-the-age-of-large-ai-models/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 79
   - title: "Rice Robotics is Shattering AI Stereotypes, One Friendly Robot at a Time"
     excerpt: "While many still look at artificial intelligence (AI) with skepticism, fearing job loss or dystopian nightmares, Rice Robotics is flipping the script. Founded in Hong Kong and deeply rooted in the Japanese market, the start-up aims to redefine how we ..."
     publishedDateTime: 2023-10-24T02:30:00Z

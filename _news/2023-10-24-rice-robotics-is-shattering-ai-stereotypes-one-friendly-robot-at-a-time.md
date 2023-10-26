@@ -37,6 +37,15 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Building a full-stack robotics company in the age of large AI models"
+    excerpt: "Electric Sheep Robotics' Nag Murty dives into some of the challenges startups face when looking to scale their operations."
+    publishedDateTime: 2023-10-26T17:15:00Z
+    webUrl: "https://www.therobotreport.com/building-a-full-stack-robotics-company-in-the-age-of-large-ai-models/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 79
   - title: "Venture initiative extended to robotics and AI"
     excerpt: "A venture funding initiative at Edinburgh University has been expanded into robotics and artificial intelligence and has developed a partnership with the National Robotarium at Heriot-Watt."
     publishedDateTime: 2023-10-23T22:01:00Z

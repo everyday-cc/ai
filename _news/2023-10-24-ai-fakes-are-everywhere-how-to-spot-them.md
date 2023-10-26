@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-fakes-everywhere-how-spot-them.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-fakes-everywhere-how-spot-them.amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to use Windows 11 Copilot — here's what you can do with AI"
-    excerpt: "Microsoft calls Copilot \"AI\" but it's really an evolution of the company's Bing ... whereas if you type open Word it will ask if you want to start Microsoft Word. Currently there's one option you can enable in Windows Copilot's settings menu (which you ..."
-    publishedDateTime: 2023-10-22T03:08:00Z
-    webUrl: "https://www.tomsguide.com/how-to/how-to-use-copilot-to-control-windows"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HHrynukdvYZkYEmbRvzXKP-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Developers are embracing AI-enabled tools. Here’s how that’s changing the way they code"
     excerpt: "the AI tool doesn’t give him what he needs out of the box, he can just follow up with a refined prompt to get closer to what he needs. Chatbots can also be extremely useful for learning new frameworks and coding languages. As long as the LLM is well ..."
     publishedDateTime: 2023-10-23T18:03:00Z

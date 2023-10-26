@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2023/10/26/9905911.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/10/26/9905911.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Wearable Devices Unveils New Gesture and Voice-Controlled Interface for its Mudra Band for Apple Watch"
+    excerpt: "an interface that utilizes both voice and gesture recognition as an input method is an essential integration for our technology. To date, we’ve been able to develop a revolutionary product that allows for natural and touchless interaction with connected ..."
+    publishedDateTime: 2023-10-26T20:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wearable-devices-unveils-new-gesture-and-voice-controlled-interface-for-its-mudra-band-for-apple-watch-1032743573"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 18
 
 secured: "xioTzVLixeH2Uvn6EYZN/AVennAwAszPpWUR/FSb0TA5vvMci/OEeSqd172hcAbQ7AFXjsMy0dYW6Hflpg6/NOEQjVa01FyYHFpGmWANidFkiErG7NCt6Xu+FMdvwDPYvkbx84CoL0/ohz0TUVVjBEZYbFA9L1ZtWWdlltKWtynBAQqossD0+3wyKHDY9Ul61iY7UAcBynVnKozx/3wxt7FBf0Qt/dxixjNJg+4E/osBIs0NRVqB78LgFAbhPYeOwRJIZnhd2WtQbMP42GonXc0Xx9OTWLqYW4X9ebjd7n6DITDHci66iOoHO1v8JCGLb2DTX3PuaBUyWOs9drC74PRI6P2WO0/J/FQ69aD8kBU=;ZAPLEk466t0hA6GBK/Il9Q=="
 ---

@@ -2,25 +2,27 @@
 category: news
 title: "Rise of artificial intelligence creates heavy workload"
 excerpt: "Internet giants, power networks and communications companies are being urged to consider the massive load that comes with the rise of artificial intelligence."
-publishedDateTime: 2023-10-16T03:22:00Z
-originalUrl: "https://www.perthnow.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218192"
-webUrl: "https://www.perthnow.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218192"
+publishedDateTime: 2023-10-16T03:23:00Z
+originalUrl: "https://thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210"
+webUrl: "https://thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210"
+ampWebUrl: "https://thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210.amp"
+cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210.amp"
 type: article
 
 provider:
-  name: Perth Now
-  domain: perthnow.com.au
+  name: The West Australian
+  domain: thewest.com.au
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.perthnow.com.au/publication/C-12218192/d051b7f903dfb1b2696983c637662c5ffe1d7619-16x9-x0y0w1280h720.jpg?imwidth=1200"
+  - url: "https://images.thewest.com.au/publication/C-12218210/d051b7f903dfb1b2696983c637662c5ffe1d7619-16x9-x0y0w1280h720.jpg?imwidth=1200"
     width: 1200
     height: 675
     isCached: true
 
-secured: "LtD9VYDHvq64lHnP1q+LGH3GA+2JNT5X0DZxPdXc+iSbJYaR+72SmjVUXKQTB0F5ezQVElzJBrdWXILhcMppF4K40Xw+Bgs9LrmQKYLY+LXMYXR+pb6xISFtBkGqmWBn387qu0peyYRR54bX44zz213TIbKZ7i9yeDYU+Qmb+PcTibRDinXZ1ovKLnHIFxGTuUEAMIUq03cl7LceNkRv2Gef87Jd0/fLKqMe/LqmHIz0dohHL18+UU8d6A6wuIhz8KpTRyCYAYS+xqTbWFCe1bbsXeqRLGHV37PBPbaqw+A8HnrsmlDtM1E4amc6UfbqYDiWVWsHm4B1MeXye2jTT7ql9Dqv1yv3clDAwWKUkRHsVNOcJe0O5cQ9oZ9eYl0MxaNYXDLsE/kHQ8dCqCoBKHK81Hx+Ia1iyTBzCWRYyLMuvvCc8+DX4AfNeH4E+vkUzqoqJn88q8R6tsHgz/TpzxOBNoGlwHDc/SAvvEFH6yvUSQTBkXe/k4d+UlSPKxJLvKanJjFb/Deane1RnXWqyg==;vTK6tqG6QlO6m1uZyB6xPw=="
+secured: "G4x+u54/PTaP0XVr34Iq+e/gMh6VvU0NreBuRswY5IOU0DeE+eWAIANb4LeBKKloUlLySP5v4LB+5iBNm0tN8qHD4rAtZE9lk6dfm5NeMRssHfQZLVf6FkESiShbyc503kgp2BvG1E+ncPqp6euNrPTPqdh1+VC7Qmq0BgJtnTrHmxQaPFO4BuKtfM0FvPterT5vRTNJmW74Cd+cIQ+f6oDJulC5A3DmqD0pmGtur7/g1FWxUZ4GgyY6sBgS3cYF+a0fbEF5k8ZVKeOnDsQD26zx+RdyMCudAqxYJG+acqvJonuqHNNaK/YjSRIOyYlqgMqasRc35VQ8+WM9vpX8TEfj/MjhghTXHBfwjyoEeno=;T6uR9nXKxN34aYymtZohZA=="
 ---
 

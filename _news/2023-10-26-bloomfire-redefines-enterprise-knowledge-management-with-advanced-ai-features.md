@@ -53,6 +53,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Google Maps Immersive View Update Adds AI-Enhanced 3D View of Your Route"
+    excerpt: "Immersive View for routes gives you a multidimensional preview of a journey, allowing you to pan around the area you're navigating whether you're walking, cycling, or driving."
+    publishedDateTime: 2023-10-26T20:39:00Z
+    webUrl: "https://www.pcmag.com/news/google-maps-immersive-view-update-adds-ai-enhanced-3d-view-of-your-route"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 66
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04ya0mBShudSueMdHJRCEMt-2.fit_lim.size_1200x630.v1698352019.png"
+        width: 841
+        height: 473
+        isCached: true
   - title: "Synechron Enhances Financial Risk Identification and Mitigation With New Artificial Intelligence-empowered RiskTech.AI Accelerators Program"
     excerpt: "Through research and development initiatives in our FinLabs we develop solutions for modernization, from Artificial Intelligence and Blockchain to Data Science models, Digital Underwriting, mobile-first applications and more. Over the last 20+ years ..."
     publishedDateTime: 2023-10-26T09:11:00Z

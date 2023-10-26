@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 779
         isCached: true
+  - title: "Unlocking AI's Full Potential Requires Maturity Assessment, Info-Tech Research Group Highlights in New Industry Resource"
+    excerpt: "The firm's latest research explains that with the rapid adoption of AI across business functions, IT and business leaders must gauge their readiness. Those who fail to assess their AI maturity could be outpaced in this transforming landscape. TORONTO ..."
+    publishedDateTime: 2023-10-26T19:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/unlocking-ai-s-full-potential-requires-maturity-assessment-info-tech-research-group-highlights-in-new-industry-resource-1032745345"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
   - title: "How AI is reshaping the financial technology landscape"
     excerpt: "Indeed, artificial intelligence (AI) and machine learning (ML) are increasingly collaborating in solutions, especially in the realm of fintech - and, when they do, the benefits seem unstoppable as this guide explains. AI and SMEs unveiled Years ago ..."
     publishedDateTime: 2023-10-24T11:06:00Z

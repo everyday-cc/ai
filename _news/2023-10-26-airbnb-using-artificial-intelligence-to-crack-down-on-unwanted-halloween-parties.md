@@ -32,6 +32,15 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "NASA sees Jupiter clouds form spooky face just in time for Halloween"
+    excerpt: "Even Jupiter is getting into the Halloween spirit. While flying 4,800 miles above the Gas Giant's cloud tops on Sept. 7, NASA's Juno mission captured Jupiter's swirling storm clouds form what appears to be a ghoulish face. The space agency released the image to the public on Wednesday, just in time for All Hallows' Eve ."
+    publishedDateTime: 2023-10-26T19:44:00Z
+    webUrl: "https://www.chron.com/news/space/article/nasa-jupiter-face-18450197.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 4
 
 secured: "NVallJJXBdq+7IMUf1er8N1aRanrQfNgoWoHH8RJU+gNQI4UCFALaq14pfgMcOuMlVjIBqk0jGg7ErdjsZY/j3m7mITTgfXh2kryM9FGTW3tkZPWNU+QKk87MoarJhblZMQO6rEGc4/FysAIFw4uL2rFqG/nCnokI5w+LnefXQ6VaGrQ1U2A669LOyObbPt7+b+NfWrLO/QMXazwn9UbfJoxO2vOmetbxxa4SXNDwpvdiDiDAADCXuqtoZfu+ILhZYTLwJ9EhL+E43J8+VLvzclinpOXOwOWSvcZKVdtB1j0nusH7RREHEoohW0zhWnXRGPR+/Yu+Y5z/iFPAL7HLe7uACYhWSyLOlN3MjVZYDU=;5S4lnN5QUbB5sF2O/vrZzA=="
 ---

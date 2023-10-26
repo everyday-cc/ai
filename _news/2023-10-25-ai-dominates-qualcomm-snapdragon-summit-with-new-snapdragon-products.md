@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/"
 type: article
 quality: 91
-heat: 291
+heat: 301
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 59
+  - title: "Qualcomm Claims Snapdragon X Elite Platform for Windows PCs Will Rival Apple Chips"
+    excerpt: "Generative AI workloads will be able to run on-chip in the Snapdragon X Elite. Qualcomm claims the platform beats Apple's M2 Max chip."
+    publishedDateTime: 2023-10-26T19:30:00Z
+    webUrl: "https://www.techrepublic.com/article/qualcomm-snapdragon-x-elite-processor/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 58
   - title: "Qualcomm Snapdragon X Elite Details Leak; Has 4.6 TFLOPs Of GPU Power"
     excerpt: "Details of Qualcomm's upcoming and next-generation mobile chipset have leaked and we now have a name: the Snapdragon X Elite."
     publishedDateTime: 2023-10-23T11:01:00Z

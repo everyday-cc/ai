@@ -71,6 +71,15 @@ related:
       name: The Sentinel-Record
       domain: hotsr.com
     quality: 0
+  - title: "Australia just voted down a voice for First Nations in its Constitution. What comes next for the Indigenous rights movement?"
+    excerpt: "After the defeat of “The Voice” referendum, there is still an opportunity for Australians to reckon with their past. Catholics worldwide should also seek reconciliation with Indigenous peoples."
+    publishedDateTime: 2023-10-26T18:05:00Z
+    webUrl: "https://www.americamagazine.org/politics-society/2023/10/26/australia-first-nations-voice-constitution-246326"
+    type: article
+    provider:
+      name: America Magazine
+      domain: americamagazine.org
+    quality: 0
 
 secured: "GlBpMtG51hI5SppqAyVucGfCT/pQQ06KHMLrRIeAjJGyaIjMRxBWzJzTudFBMjba2gT1JlmX86NZ2+I7NB6yhL3otJo749UGN9YG44o9hwM5v50FPd5TwT0+roa5ytMPLQLHArBORnipz6I8MhoWDriehF6tWvBtQNdqgyEG5uPit+w6nTgzbyCert1Hq29/omSnfCffix60g2nP4ZfDDuoeyqEUIjPBiCRMJQH2fvHBCFVkaZ64IMhR8uuayJJe/b3Bl+ii1s/u2in8BEVkViiZtxH+NS/ZUkblsj9q5o9/oNyPvw7375GUjz69olPd4Rgd1an7z9Pv+/Wg/xSbTA+xzAAQtq1MUUXWVd3X8O2SW2Sa635Nc6tG+dZgoWN0U6lGLITCml8F6Pcywqo5MdVbTv/iCUlnciNQaHrRtcTV2sN5C0/ff1y1mHdIPP7Es7/9bc8tU2xq+F5J1cFB3V6qDYY8F3WYa2eRiJizXyLAGgdc4VlSVTfnksZIjGoLF8WmgrQZz3FfDKaLqvXQEw==;+f7BSvR9eImyJUdKaHji0g=="
 ---

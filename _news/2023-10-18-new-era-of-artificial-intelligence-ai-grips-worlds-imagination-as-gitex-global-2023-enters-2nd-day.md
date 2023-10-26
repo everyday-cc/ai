@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New Era Of Artificial Intelligence (AI) Grips World's Imagination As GITEX Global 2023 Enters 2Nd Day"
-excerpt: "Pony, a global robotaxi unicorn, weighs global expansion as the world embraces autonomous mobility; His Excellency Omar Sultan Al"
+excerpt: "Pony, a global robotaxi unicorn, weighs global expansion as the world embraces autonomous mobility; His Excellency Omar Sultan Al Olama, UAE Mini"
 publishedDateTime: 2023-10-17T17:27:00Z
-originalUrl: "https://menafn.com/1107258220/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day"
-webUrl: "https://menafn.com/1107258220/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day"
+originalUrl: "https://menafn.com/1107260661/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day"
+webUrl: "https://menafn.com/1107260661/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?680993"
-    width: 444
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?206925"
+    width: 345
     height: 250
     isCached: true
 
-secured: "VxmoZ9o+y3KK1io/ghc9GFutwmhWjHxf7xxgmIAOnJxeers+4MjkEneC/pJani5YTpv8aJiBWcxdKjeJpg6fbx/yTEUUd8ttRWpv01mQPN79u0BKv9Z8L4xUZSHWi5Bbx2EZP0DB2Fx/sA3BRLYH0Xm3Z8qLiGpCmumfC/z8gn8PqLRGwKq9R/ek4RaHSxI0YMAQVOG0JSmC9S/44CTgg2plFnH8CxXVqmxIhvsatCZNGrL+4057+W4K0xGqi8gOIRgF7HK/PkeM9e0CpHzGFDd5LbbYsMGeR9nIv1vCutQIBQLBYgns/x0s03beoTfIzxp8MKe6ShE04i/faRvIhB0GdTrH3BMrMtRSSHIxDAk=;ukFaX8uJYiF1IPL1HkjEFg=="
+secured: "/r3RVc692Ybyds5a6UjAv7Aw4CQkpOi38aJrYiDCsOHvKCKJEBh3nAXOEi+hK4XWSxZWtca47UCkI81tPkZttOEHIgsEeSYYFFU04lFbHJqhxDmRshX0nMZ419dyBFlUYEffzRcWc2oHC4FXLUVEwh9xZxxEeigp/ryig3vQifcQgd91unF/Zw7E6S08Y0LWdTMOWWNayVnM0nouo4bsYkf6mEbml4Yoi2zfUx/KHcqJU1d2bTDrQ95KJDMi+8TGxNT3Jj4EoOlPjYmhfrvdAx+dl6ABqu9FtqL9eCvd9GspVrPEhy9TBLbDW56X9N+Vp5HtYrO89CBX7/DQ5XMiCDcapnwoAxf1sReBXJJ+7Ko=;MZIs3YnFi1sudjrorTMIcQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-26T15:35:00Z
 originalUrl: "https://siliconangle.com/2023/10/26/data-poisoning-latest-threat-generative-ai-models/"
 webUrl: "https://siliconangle.com/2023/10/26/data-poisoning-latest-threat-generative-ai-models/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/ai-generated-8126653_1280.jpg"
@@ -35,6 +36,6 @@ related:
       domain: microsoft.com
     quality: 59
 
-secured: "6Ec0KgUyJcj6kKGrldQnvriGQWBcRGeCNPz5wOb7W7FEpTUHvCt7jP5fcqQCo9BUsEWOiGlhASuxRIM0L8L+ElFe84D+dipnfQPrjj7R6fjrYv+5hA4YP0gxTHGR8ZTrxHnkByZYaRTxJeI9ooAAj9IqZpZ6qce0gc+FHNzTqgtOp0A3gGSo592K1G46LxJowvS89HsaMar9y8hOlRq1k1J0RuGoarKQ8aXN899XyUyXwn/+7p8bWnIsN8UT9xZleTK+k1JP0gbCMQ89lPmIaObPTJXfRHVF5UxosgJfkDjePh5Qb9nYRDd+YqvvB5wei4x3Ubdup0a29sisPFg8D6MbE/mvzRD/8lbdacdb8V4=;xXfHmAq7yTL/rTYTwwfEFQ=="
+secured: "c44R7IsBlLoL3fWwTHWgQLgFaWBMPHbX8MMTsWYsOMdLKQOpTARBqxf6GnRnhNaS4I1GiDV3qLZ7/lytEj8+SqgSr3XPSlshEh1oRNTx1HKECDSP/kSF01KKIfoGRcoxZPqIZP1KtxGAizQRCYar23u6/SiUX1DKtfoaYAMtF8ZwvL7QbJMxXJCWbySs/Ou/A5bjkCFNKgOeDkPc/yBCw0kuPMzyR83a+TNsM8QB3VXtCIe1n9RN1Kx/WkrYWU3WXwTMxtmf/amkfL7VCvaZFzj15h4K0N/ZPjKrM+rVpKC1dbSvWo8tNQYU+6QEAyxppAntk039hy2cXueM/VE1xn7yTHqlvUUozx46eZWmWuBrky2vQxMRC9MXTN206rfHW3mxsIqmFyUTewRZAlbwdyyodCHd2rk2htDXyJ8IRoR1J4vngeeb3gcaw0DLCIFPYhxyRGIvukS7uYZspabi0pKzFFK/hOcCwbo8C8kpEvuOexfRXpdVMGjaxGpR7ZD5EjHZiz6u/UnVC1oG/4FagA==;zXvh3T8kFtdIWzsjaCSZJg=="
 ---
 

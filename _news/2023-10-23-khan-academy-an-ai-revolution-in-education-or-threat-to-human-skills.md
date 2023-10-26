@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charlestowersclark/2023/10/23/khan-acad
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2023/10/23/khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1351
     height: 900
     isCached: true
+
+related:
+  - title: "Navigating the AI Revolution: Education and Ethics Take Center Stage"
+    excerpt: "David Reed from University of Florida’s Artificial Intelligence Academic Initiative Center, and Andrew Pass from A Pass Educational Group, dissect the implications of education’s most disruptive techn"
+    publishedDateTime: 2023-10-26T18:14:00Z
+    webUrl: "https://www.ecampusnews.com/innovation-insights/2023/10/26/florida-higher-ed-ai/"
+    type: article
+    provider:
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 51
 
 secured: "hWOO9L33dqyRyktlmDINa8k2dKzqEKr5TPiTd6TPGhSHr8zPi2gSbPfK/+rekQ5BetgoR78rPzr5FFYNbIBkB/E/fxwMSXchkwJRzCleOQHaRsScGtYJ5Ki0f870yvlDndGlJqeZV9lC+tXnaLsefZsAjb5SqJjQh8iQ33EJ83iu4yosuTDnIF9bK3i3xA3VIOPRjV2mh0Xq/mnkkOi+BlrpHra6Y7ZjUP1RQTmIA1iZLB1DKuIQ8Mvo9Rz5sZG7vAyBmcZKwS8W9TwQkzahqp6a1YV2GufsNILnP33DRUoHV8U2B/vmapSK0al31gbrOHt3m7GtOh9GupCnTy15cEC1iKfhpIzIZXXq6mr2F3E=;V9aDQWChCBAMPjgKDNTBBA=="
 ---

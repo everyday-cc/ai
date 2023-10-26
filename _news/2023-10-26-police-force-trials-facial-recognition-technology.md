@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/articles/c51jzy42p19o.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/c51jzy42p19o.amp"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/f591462e6065a76b1337826ff063af5b2b490c82/0_0_3186_1912/master/3186.jpg?width=620&quality=85&auto=format&fit=max&s=43d6ac665c02d55854e5ff650b15dac8"
         width: 620
         height: 372
-        isCached: true
-  - title: "Essex Police reassure public on facial recognition in Southend"
-    excerpt: "For the first time in Essex, police will be using high-tech cameras in a bid to try to find and arrest wanted crooks."
-    publishedDateTime: 2023-10-22T03:19:00Z
-    webUrl: "https://www.echo-news.co.uk/news/23867438.essex-police-reassure-public-facial-recognition-southend/"
-    type: article
-    provider:
-      name: Echo news
-      domain: echo-news.co.uk
-    quality: 39
-    images:
-      - url: "https://www.echo-news.co.uk/resources/images/17356874/?type=og-image"
-        width: 945
-        height: 630
         isCached: true
   - title: "Essex police use intrusive facial recognition for first time"
     excerpt: "LIVE facial recognition was introduced in Essex for the first time this week as police across Britain ramp up use of the intrusive technology. Southend officers carried out targeted operations with the camera system on Tuesday, while Chelmsford police followed suit today."

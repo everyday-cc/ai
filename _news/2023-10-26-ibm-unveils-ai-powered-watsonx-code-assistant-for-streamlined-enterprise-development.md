@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/technology/ibm-unveils-ai-powered-watsonx-c
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/ibm-unveils-ai-powered-watsonx-code-assistant-for-streamlined-enterprise-development-18157131.htm/amp"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       name: Ummid
       domain: ummid.com
     quality: 34
+  - title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
+    excerpt: "Today IBM launched watsonx Code Assistant, a generative AI-powered assistant that helps enterprise developers and IT"
+    publishedDateTime: 2023-10-26T21:37:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise-application-modernization/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 3
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
+        width: 300
+        height: 235
+        isCached: true
 
 secured: "7L1XfoFp0gqBPDUINjXoMvbA0qerVQPGt6d437RRbWYy6IJiHOQoRlPSdzp/wHqIZXHBhzPtzOaLHvFG3+GQgbScXZeAeCTwTbm5a7h3P589mHsiI7ZvYd0ahsgTDtllI8BjQIxwO0VZ0a8/I3ap4KPn5/tENweDPPwgDIlE3HQRydF6zGDPN7vqctY9ze3PKdOZZQvkajB0ZohCbZPXejnZE+HTWMAv6+WSB5whzxDRwgbjzpfPMcnby4JY/1I22/RU7lazB3vJIBfTATSV+39ciuqVSOiJNdMriEw1M2L3uI9X7CtV6+16yovgh/axvmzA/I1G34GpfyfqHcC3YqR/Pz+bv02PNgdU+e4STbhgMxGhVcNDo48LsDjaulq6Th8Y9XmnNRf9fn7HrGfHBtZD6PQ03OJdxSdRHUrqg4XlRflczRsEban7B2vG/KH9RgXNYEok4SBWMbyh5DAidLVoeqa56BCNOp1+3nDnYHX0YpUIf9wFoXm8ycjvz9UPT7FjC0wH+8AgHBfj6WpcKg==;xa25NVOuuKSO6XY7nv4zZA=="
 ---

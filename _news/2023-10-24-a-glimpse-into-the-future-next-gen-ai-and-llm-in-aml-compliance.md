@@ -42,6 +42,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Denver-area tech unicorn Guild just made a big investment in AI education"
+    excerpt: "The AI skilling bundle includes more than 40 programs tackling how AI works and how to use it. Some programs address topics like technological ethics and how leaders can use AI. Others will teach technical programming so that a worker can build AI tools ..."
+    publishedDateTime: 2023-10-26T21:10:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2023/10/26/guild-ai-education-upskilling-workforce.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 35
 
 secured: "9HVgp8hzfApSolotZS/t4LK6WfDrqoHa3mktdlh4eUtxcDyoGjoXp95HSJW7MiCZ9EykJyBnm4bG+EjyH46Wipwpvrzj5D63bLnCgV+jrBNg3L6cRJCWOho9x0HaL7Qr1xaMZy3crxdRZ1ks1+GwNF47U73Cw+jGLfRQ5fhBiRg9jha+2cC0Wl5FUftlKCR5T0MzhgwSxQzWlnJx0vGCWvRFerLQHP0/f874TmWWKTaQFk/L2MozCGF7yrtFrEcKZbTBeplv+JTPYqDT2o6G8Wr6k2Yp3CchvzuT4EjS9E7fT9X3z+WQBMGs0n4WBRKiiUetbey5fX4y1UysEThKBp+XD0TOfBsm7rpZ+S5kf+CSC6lw/UGF0nvcSK6V1d1CRslcjwtnMIGbL8ivQRVsxODNf/jcy2SARw4fHVpwYFYnWfk0Mts8qu/+8v/Ekqk+syrp7a7G5RJ5Tx5tVLveepqq3mP35f1QfrEBxweq2fiyeDoQt2m4NDnEAYdXjvD5Tw4h8ENjv50rx4alr/dGKg==;ptJvWc/JMh44L7/wDWLhfw=="
 ---

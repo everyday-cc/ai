@@ -85,20 +85,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Essex Police reassure public on facial recognition in Southend"
-    excerpt: "For the first time in Essex, police will be using high-tech cameras in a bid to try to find and arrest wanted crooks."
-    publishedDateTime: 2023-10-22T03:19:00Z
-    webUrl: "https://www.echo-news.co.uk/news/23867438.essex-police-reassure-public-facial-recognition-southend/"
-    type: article
-    provider:
-      name: Echo news
-      domain: echo-news.co.uk
-    quality: 39
-    images:
-      - url: "https://www.echo-news.co.uk/resources/images/17356874/?type=og-image"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Travel industry adoption of facial recognition grows"
     excerpt: "Travelers are most likely to be among the first to experience the mass worldwide commercial deployment of facial recognition."
     publishedDateTime: 2023-10-25T15:26:00Z

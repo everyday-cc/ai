@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Maps Immersive View Update Adds AI-Enhanced 3D View of Your Route"
+    excerpt: "Immersive View for routes gives you a multidimensional preview of a journey, allowing you to pan around the area you're navigating whether you're walking, cycling, or driving."
+    publishedDateTime: 2023-10-26T20:39:00Z
+    webUrl: "https://www.pcmag.com/news/google-maps-immersive-view-update-adds-ai-enhanced-3d-view-of-your-route"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 66
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04ya0mBShudSueMdHJRCEMt-2.fit_lim.size_1200x630.v1698352019.png"
+        width: 841
+        height: 473
+        isCached: true
   - title: "Bloomfire Redefines Enterprise Knowledge Management with Advanced AI Features"
     excerpt: "Enterprise Search enables organizations to easily scale access to company knowledge through a single AI-powered search engine that integrates with SharePoint and Microsoft Teams document libraries. Streamline content and document management with automated processes for curating, migrating, and updating content in bulk."
     publishedDateTime: 2023-10-26T16:35:00Z

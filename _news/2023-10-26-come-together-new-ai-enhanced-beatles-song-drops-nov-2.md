@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/come-together-ai-enhanced-final-beatles
 webUrl: "https://www.pcmag.com/news/come-together-ai-enhanced-final-beatles-song-drops-nov-2"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "New Beatles song 'Now and Then' gets a little help from AI"
+    excerpt: "Years after his death, Lennon's widow Yoko Ono handed a set of recordings including \"Now and Then\" to the other Beatles, who added their own parts to it. But technological limitations meant Lennon's vocals and piano could not be separated to produce the clear mix required to finish the song."
+    publishedDateTime: 2023-10-26T21:54:00Z
+    webUrl: "https://www.reuters.com/lifestyle/now-then-beatles-release-new-song-with-lennons-voice-2023-10-26/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/9XTXhj2iK1uQMlCsXsNY2BGX_EM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EFIY37DP5ZO3PGGQDOPHVYHREU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Last Beatles song, \"Now And Then,\" will be released Nov. 2 with help from AI"
     excerpt: "The last \"new\" Beatles song, called \"Now And Then,\" will be part of a single paired with \"Love Me Do,\" the first Beatles single from 1962."
     publishedDateTime: 2023-10-26T17:06:00Z
@@ -59,6 +73,6 @@ related:
         height: 792
         isCached: true
 
-secured: "B2RYsVO8xYPcIKJjZEAF0t3CKjuk3yh0IkbmjS8z449vZshmW9d3jCFM1xqmGQ5PGDUTAiFRPIZfoiVAPMJvWCbxrHfVRXos3CnG3lpNjXwwpk3PNZNDl7J4ssMO5DxVj+r+Gg7G+ptZT4Mtcphe/08OpdKx70Gtvgo3awfsCBjP8N4LuTkB9UN7bt/ivh6UM2I3DMcynezPeL92oVyYtUn+SibfJnn5paw4VLh/5R+3d2BVn4/IJcBvgRJVl5WRrhz/qCJzWEtDD4t4QZ4QvRwkjN6olShcAXEugrAUm0lBmPmRIHU4wKP17DvVPNfEjRl/LIqeQscJ1DaoeCMr+on3/RSnx6u1KoOgIKdp8QA=;g+ApJ0Y5QYE8fb/0NaQWag=="
+secured: "aQyC9aOJVrsSjZ13nEZbalNmhJla8MyP/03NNSTyMBQQl0WS3OthsjMC3XMRXi6lXaDQaOENvHBtLl5hdYtr/GN8EQKwDMSevY3b2f1RHQaIXHqZ6plSwmmJ6lWEQ31YR7se4wWlUBzbfQNCI/xXFwovLeP21T/G34txVglwyL4o/ySyy7PH9gY8tfHHsbcCIBdCUkSC4J6kLyjx9yc/q5qcio07t6BzaEIrBmxA19bSsnIj0zBp3ySgXASf5oYY7EZYkKuXbpM0w6nYYGdwDifEan3m0AHql1L8RFq3F5UhQgitaugf4BLaeXZY2UAmuFbYPUplbw984uK1PzGxXU8JWwli1DJKO1OCGAvlu4meUTcf0yQ13kg6VhGhmYe0IcZEFQSEXzw9EeLv3YyWk9S/ISgtnMZDnao9DYfjOnkU9+JLVOwv21pugKIDs8hxFGK1pR3Q3Q5eloNvnXAqpTbd469luNNoRYjI5sExP14sMTLHKL7ZFbHWHsQfuHZc63ZW+7TY3mhUugE5oJ4UnQ==;ftm8OmpgrbpdIJAalT4cRg=="
 ---
 

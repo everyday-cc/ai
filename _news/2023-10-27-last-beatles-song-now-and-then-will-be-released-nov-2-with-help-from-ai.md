@@ -40,6 +40,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "New Beatles song 'Now and Then' gets a little help from AI"
+    excerpt: "Years after his death, Lennon's widow Yoko Ono handed a set of recordings including \"Now and Then\" to the other Beatles, who added their own parts to it. But technological limitations meant Lennon's vocals and piano could not be separated to produce the clear mix required to finish the song."
+    publishedDateTime: 2023-10-26T21:54:00Z
+    webUrl: "https://www.reuters.com/lifestyle/now-then-beatles-release-new-song-with-lennons-voice-2023-10-26/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/9XTXhj2iK1uQMlCsXsNY2BGX_EM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EFIY37DP5ZO3PGGQDOPHVYHREU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The last Beatles song: How artificial intelligence brought the Fab Four together one final time"
     excerpt: "For many years, Paul McCartney, Ringo Starr and George Harrison toiled over what they knew would be the last ever Beatles song. Haunted by the voice of their late bandmate, John Lennon, who sang gently at his piano from his home in New York, the surviving ..."
     publishedDateTime: 2023-10-26T14:00:00Z
@@ -55,6 +69,6 @@ related:
         height: 792
         isCached: true
 
-secured: "X7DmflPc/OfWu4aImhVuaICcG63AdOcfLEot3ZBien2BZ0hQjsJIsD9Gj6nNhufKEv20FlXoX7cs4c28ZGoGwo3rfgwhxqz5EVIRzaQQb2MyaFLOjd+TFcjmejHBgAruk35EM8AVrN7aDlGLXZ4QQBpPX6IW+qRsdbhPnyo0mgZa7ISdlsuXT+i7Bjg4uD7xAcfkLhqpSP8q8a5nL3eXSNT0wGFyZ8yY+4qpQ01EUMgm4Rya1jtMujfaoojLuyKSQ39Edq7Eb18hJEq1Lu8Py4DaLHsnNkgFXq2u6ze7r9zP6rYi39S+CrigRMDGQ8cmTliCdqwl0rGSBwFy1WRO4bCcmYA+nw0HngaZngLOC0g=;wG5Xr6Qs3xth+2THHWVPBw=="
+secured: "INczc9DCYWu6xecakkWsqj3uatSvHj2Crao+19qR5qkBUO3kktLYIwSZwTMA/JtgdzSR9/jhiXJnwMjjfPxohsSoAWfGxhvDAdwHD3hj9ydPW41ww/Wj8F5JvHVYz2zpEJOGHeTGJFhwX01BSo4AbSSuAykdaq7micChn1MU9748aInYD1L5X44IChBEjyegBn8UU7j7aLgrwe/yxUDL1DWUCqxEZ5wl58Mz5jIyfpBnT1XJ5X0SxphvLBfbZFWo3/Rca9wHG0j2u83BsSgQJAp/+g589uh2Kut1bV5c83n5ZJt0xGD/aCKYkFip1VjEOEvPlwvBe97Yii48SdnMdxqoJEfxFSbLnjmQcvmoIssqyjKv0xRGltGgGZ3rdXFBW0sVwGrQ2BzVMXT3tDpE6tumcX45tfijdWHH2ZOldPlkrV1c+2tIlyssSYsp9hJ3PX8fzalYLKvUjSDMhqXCnX+Y0OKmOjGwVQznczGeksw+XPRHbbbhCxyiLQohaFTlf30ZnCsNqAWfcDIyScQDIw==;eXZfM0L5E0EJBGozB00vaw=="
 ---
 

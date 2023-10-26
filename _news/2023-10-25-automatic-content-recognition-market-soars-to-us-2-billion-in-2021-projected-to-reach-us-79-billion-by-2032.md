@@ -75,6 +75,15 @@ related:
         width: 1688
         height: 1125
         isCached: true
+  - title: "Cloud AI Market Size to Grow USD 887 Billion by 2032 at a CAGR of 35.8% | Valuates Reports"
+    excerpt: "The Global Cloud Artificial Intelligence Market was valued at USD 42.7 Billion in 2022 and is projected to reach USD 887 Billion by 2032, growing at a CAGR of 35.8% from 2023 to 2032."
+    publishedDateTime: 2023-10-26T20:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cloud-ai-market-size-grow-usd-887-billion-/2023/10/26/9906473.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "iviwchuDUbOEX0qtHOPJKqZX9ZUWVfnwr0IO6zdjmHaIDSA3Pq0wo9b6XDuBpNu5hvshCjGpBBf0PiVvk8S7IHr7OtVUUBR/JkNV4Lp8ho37TFfsACCvWQaXjPd2c+/IMX1bre759ZqZlSTs1tf8rm6TZSRrkVYNx/RHKn173wqqUpnJOI/9KyUzR1YA9nv0zGJepc2HQ1ifs2+8UXN7bdg27StoJf7jBSxwqXwLvXGoJIeKO/arCwm5+PNrUQKbjnmyXn85Kc4nW2OT/7KXkdJ7bwxLhOU0EBxjx87VSdeijOUSTNOjC1uGEUJaGwFnY08OaahSvnkRUfvO9MHohFpppmGAsCaUxPrNr4tys0o=;EtKW82Tg4I8UfqdXdLOIRw=="
 ---

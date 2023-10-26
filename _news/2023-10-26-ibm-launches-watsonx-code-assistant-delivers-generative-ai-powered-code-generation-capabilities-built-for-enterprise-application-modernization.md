@@ -56,6 +56,20 @@ related:
       name: Ummid
       domain: ummid.com
     quality: 34
+  - title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
+    excerpt: "Today IBM launched watsonx Code Assistant, a generative AI-powered assistant that helps enterprise developers and IT"
+    publishedDateTime: 2023-10-26T21:37:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise-application-modernization/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 3
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
+        width: 300
+        height: 235
+        isCached: true
 
 secured: "xov6WcF1FnZrOkg3oVWBN1SPbKAFgRM1btywYvpiSN/Hry/AUEGLUXV5BHyK81ZT0pi6ylOivgrxZH4grl29ZZmBlC7romILZL+DJdEv/UFS3T4VB7yPoPwsDBq868Ty2fgPIRsFIWXtZZUkyHDQRQ3HFeygXRlM943eQ5pHcc73Akw+MWU4jVjSQP1nShN1QDIMtvKgiAPNs1vp2dIa/axU5wU9AYIyvpKOL6Ro6uxkD2xJh0s5QQxAlHJFDOZ7/JI93yr0r0jzcr2vrkEeT1r22CUrAJeBHZoG7Fr+ArMjoePVJTd917d0eNdqj74A/rCnKYR+3mfibaPNUPDphldVAsYgjAPEmpjLg/w1vQQMHk1FTIO3cUP1Vc56g+R2NNgw8WFHcWJ7yaHO8mFx8SwqB1aL3tBWlWUoZdlBB9LSTz7vepNm487ZVnIY4v7koAk5SjVuIIlkShA27pdoW2tN+86I1OHSJrjcbRYlP+eKRgpCjb1EysKFNv593OiYbc5vvYD8Q7h3RSETLOVD4g==;Tq4gq5E/IWIqQ7jgx7dgTg=="
 ---

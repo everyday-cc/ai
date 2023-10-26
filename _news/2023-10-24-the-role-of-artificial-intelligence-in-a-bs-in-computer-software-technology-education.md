@@ -35,6 +35,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Denver-area tech unicorn Guild just made a big investment in AI education"
+    excerpt: "The AI skilling bundle includes more than 40 programs tackling how AI works and how to use it. Some programs address topics like technological ethics and how leaders can use AI. Others will teach technical programming so that a worker can build AI tools ..."
+    publishedDateTime: 2023-10-26T21:10:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2023/10/26/guild-ai-education-upskilling-workforce.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 35
   - title: "A Glimpse into the Future: Next-Gen AI and LLM in AML Compliance"
     excerpt: "Regarding AI or LLM use cases more specific to AML, KYC, and KYB compliance, the most interesting areas we are seeing are in translation, natural language interfaces, understanding of unstructured text and data, adverse media processing and automation of e-regulations and policies. Let’s look at each one of them in more detail."
     publishedDateTime: 2023-10-24T10:27:00Z

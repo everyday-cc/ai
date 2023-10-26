@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/?amp=1"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "IBM Unveils Super-Efficient AI Chip 8 Years in the Making"
-    excerpt: "IBM has pulled the wraps off an entirely new chip architecture it says will allow systems used for AI-based workloads to scale while also being extremely energy efficient. It calls its new chip NorthPole,"
-    publishedDateTime: 2023-10-24T12:15:00Z
-    webUrl: "https://www.extremetech.com/computing/ibm-unveils-super-efficient-ai-chip-8-years-in-the-making"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 36
 
 secured: "JNWsRrM1A+S4w0WWzkb2BWFgn1xHlZYX1h4Wg6LSVOWlTX1xjqo97Ws2dzXUD5CpBZcXQCKuHyOboIivmACaEbd0ZqB/IkNoHvAfclALsqu75xAR2y5bdb1u/ewEtAdaXNfx7guxHbdUOj+6cqm2uIvHbvN3Up0NJ4GUZTeL+UosxhXBx7aKbpp9uZvZp3369Ig8wfMruEc+Zl9Hlq+b0txvbII9nrf+J+R8qBtWZbgazkTubhoUX35Nin28sl65VWKTPB2XGI8AK4vZ+t2k9MspW4CHmeowNakymFmdRZDfjRS87UfeKUd1RFcMSsHztVgFec9cWDQwHZ4UXi2lq1zNTWYz3hO+ZVyErcXviJucyZIWgYFACseROVpE7keqbv0OcNqMoNbKEz2wYlEWhXKR3dATbqDfTLuZf30Xh4G1ccKmMMwgQoJcLXVfd+rYNgskwLSaBJ7zK8YXSuTbChEV/ApZJjV5U3pWBraJRiDpfCToIfNMyJ9u40b2qqNGLuqJ83OH1+McxMsRPgE9hw==;cGaJkWAyBPVoOhNsOjvbUA=="
 ---

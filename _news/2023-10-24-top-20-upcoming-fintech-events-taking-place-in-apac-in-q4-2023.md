@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "For disease detection to fintech, startup show in Bengaluru has them all"
+    excerpt: "Bengaluru: Around 50 startups representing fintech, senior citizens healthcare, EV transportation services, and AI-based disease detection showcased their services at the annual 'Startup Mela' on Thursday. Organised by the Entrepreneurship Cell ..."
+    publishedDateTime: 2023-10-26T21:00:00Z
+    webUrl: "https://www.deccanherald.com/india/karnataka/bengaluru/for-disease-detection-to-fintech-startup-show-in-bengaluru-has-them-all-2743985"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 23
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2023-10%2Ffdf271d9-3cdd-47db-b377-9becca500554%2Ffile7sjyc7skyl41fu6op4tz.jpg?rect=0%2C0%2C3874%2C2034&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "r2/s9EpFfReB3uVS0T3JGfKvTIXJGLjqiduZlgH6JQxkn5fwTvxv97hUB9CNOqLu1XcURslwJlWzddwz8Wy4+fPlE3uEU+qbgQZip6iphGprcNI83ktrPWNs/WHYOcPMXZ5XZA+dOiHYGd7KqgHNHqHTSFuvEDasfa6er0u5h1tScMKd3ixKAXWl2Nj8tmicnIVazbEQ+hmN2QADECR/whWqLYqp7CoKfi+9OLqk94cvexjgPjJA4k3QicAlLAjZd0oCiu8IqIBHd3S9OpZ+bpwxubBCzOZqrPqfc+uXL6IuIIxVBlrNDvc7IrCh4WhBKkAnSagqmi7Q/mlVjR0TJTIGnSZVIOmUrjUcR65TVoU+xmRLKsPidisvf5Qoc0JrbergcHFicx4JwZUAdaDjGSrgXNJ7UuJE8FKRHNa3uaaDoiPXEuF4umc8EZ15sgXSy9sZbsTM/Hbj92Z2qBg7SsbejygJiyfL6M21A7uUjnXGjTSWG8Tpt/cOrUhYwET5RbvnGZwAlYojf3oOctH8sw==;hz5Tjg0t34Yau9aGCnZ2fw=="
 ---

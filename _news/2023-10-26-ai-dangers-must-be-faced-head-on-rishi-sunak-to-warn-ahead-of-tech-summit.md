@@ -71,6 +71,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
+  - title: "Humanity Could 'Lose Control' Of Artificial Intelligence, Warns Rishi Sunak"
+    excerpt: "Humanity could “lose control” of Artificial Intelligence, Rishi Sunak has warned as he set out a series of grim scenarios for the future of mankind. The prime minister said AI could make it easier to create weapons of mass destruction, help terrorist ..."
+    publishedDateTime: 2023-10-26T19:46:00Z
+    webUrl: "https://www.huffingtonpost.co.uk/entry/humanity-could-lose-control-of-ai-super-intelligence-warn-rishi-sunak_uk_653a2692e4b0783c4b9feba3?d_id=6565772&ncid_tag=fcbklnkukhpmg00000008"
+    type: article
+    provider:
+      name: Huffington Post UK
+      domain: huffingtonpost.co.uk
+    quality: 15
   - title: "Rishi Sunak vows to keep UK public safe from threats posed by advances in AI"
     excerpt: "Rishi Sunak will seek to reassure the public on Thursday about the risk posed by artificial intelligence, as the UK government sets out a possible scenario in which advances in automation lead to increased unemployment and poverty by 2030."
     publishedDateTime: 2023-10-25T21:31:00Z
@@ -80,6 +89,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 14
+  - title: "Liz Truss Savages Rishi Sunak For Inviting China To Artificial Intelligence Summit"
+    excerpt: "Liz Truss has called on Rishi Sunak to withdraw his invitation for China to attend next week’s Artificial Intelligence (AI) summit. The former prime minister said she was “deeply disturbed” to find out that the UK had asked the Chinese government to ..."
+    publishedDateTime: 2023-10-26T19:46:00Z
+    webUrl: "https://www.huffingtonpost.co.uk/entry/liz-truss-savages-rishi-sunak-for-inviting-china-to-artificial-intelligence-summit_uk_653a60cee4b0c85561046146?d_id=6566483&ncid_tag=fcbklnkukhpmg00000008"
+    type: article
+    provider:
+      name: Huffington Post UK
+      domain: huffingtonpost.co.uk
+    quality: 11
 
 secured: "vu26VR2+Bok1Hsya6nKoU2eQaYUgazy2/hnMWj4SIA6ZNNfrv308gOZACM3fdKLLEM1K9oz6L2QZgi6DqLV/MUZkL7hHnUetoKzgOtGhVF+3Uo8rF1X+tUVxNMqJXQbbFyGnEH+7EX9E1mH8JNIXPATNzT8czWNsgPymyrj4gT88xjy+BUymKpWQhEnN//OAvTjvsSPteCQXJ2BwNPh1KnxX3+8HHvr6mkvOJy8BDN14VaL8gPBBF3DFdXyeUMHkorlzs5N1kfKMrTqfAy5+4eaxL/E3DLhQ8P00uT49HV1TBc6r78kkZ2u5LCfDvZUrOzOR0mIAfu661BZOjeiF4n+bPXUIlclFlDXPu/UICIA=;lVJDDOodbgTIGal8Nd/tYw=="
 ---

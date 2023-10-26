@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/23/household-restocking-startup-the-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/23/household-restocking-startup-the-rounds-uses-tech-and-ai-to-make-sustainable-e-commerce-profitable/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How ‘household restocking’ startup The Rounds uses tech and AI to make sustainable e-commerce profitable"
+    excerpt: "The Rounds, a sustainable \"household restocking\" service, wants to prove that last-mile logistics can be done both efficiently and profitably. Now, it's"
+    publishedDateTime: 2023-10-23T22:14:00Z
+    webUrl: "https://techcrunch.com/2023/10/23/household-restocking-startup-the-rounds-uses-tech-and-ai-to-make-sustainable-e-commerce-profitable/?tpcc=TCdailynewsletter"
+    ampWebUrl: "https://techcrunch.com/2023/10/23/household-restocking-startup-the-rounds-uses-tech-and-ai-to-make-sustainable-e-commerce-profitable/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/23/household-restocking-startup-the-rounds-uses-tech-and-ai-to-make-sustainable-e-commerce-profitable/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 70
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/THE-ROUNDS-9_27-BFURLONG6428.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "JJDMyCJ9JyoOP9BLnaLlURImW+MhsZ9TRUs6ZEard43w/bu6bnAguHukJzKpbDVNo2SGO7lbMf4ZQScCa1edIDoN7KY9ty5dgiNdODP7NOzT6ZstlOyoxAFW7CJg7Won2YuyhMv9lEbSWYvdajd0dORDsh2c5SyirMzJ2N0fkV3FNQ059StS4FIIK0fZj3bWDUAnMsN1Ho6RxvrXH75gJIfw+fBMy2N7beQi4DPrz2ynRE1QVLLJEd+/kd5ZhtFBJ42dQC/JTNGhMCjPDjm3JmB2gRf+lGTYqcprzi0qkjvH611zZTKpLZNPvlsscZDLQM7bRp65vQVwadfreI34ZwfYlPNcdRzOT19BH46XywY=;lfFQHDHDRxmkqDKaTpDjJw=="
 ---

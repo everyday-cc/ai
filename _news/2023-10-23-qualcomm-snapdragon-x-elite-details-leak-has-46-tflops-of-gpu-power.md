@@ -100,6 +100,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 59
+  - title: "Qualcomm Claims Snapdragon X Elite Platform for Windows PCs Will Rival Apple Chips"
+    excerpt: "Generative AI workloads will be able to run on-chip in the Snapdragon X Elite. Qualcomm claims the platform beats Apple's M2 Max chip."
+    publishedDateTime: 2023-10-26T19:30:00Z
+    webUrl: "https://www.techrepublic.com/article/qualcomm-snapdragon-x-elite-processor/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 58
   - title: "Qualcomm introduces new AI-optimized handset and laptop chips"
     excerpt: "The onboard CPU was designed by Qualcomm’s Nuvia unit, which became part of the company through a $1.4 billion acquisition in 2021. Nuvia was founded two years earlier by former senior members of Apple Inc.’s chip design team. The Snapdragon X Elite’s CPU reportedly features 12 cores that can reach speeds of 3.8 GHz when they’re all active."
     publishedDateTime: 2023-10-24T21:43:00Z

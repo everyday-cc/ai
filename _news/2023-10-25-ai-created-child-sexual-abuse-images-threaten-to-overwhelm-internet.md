@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/25/ai-created-child-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -97,6 +97,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 15
+  - title: "AI-generated child sexual abuse images could flood the internet. A watchdog is calling for action"
+    excerpt: "The proliferation of child sexual abuse images online could dramatically worsen if more controls aren’t placed on artificial intelligence tools that generate deepfake photos, a new report warns."
+    publishedDateTime: 2023-10-26T18:45:00Z
+    webUrl: "https://omaha.com/news/nation-world/ai-artificial-intelligence-child-sexual-abuse-deepfake/article_6b155ca6-7a1f-5236-8412-dd2e90a27f32.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 4
 
 secured: "hbV27FqWWRdaV71n2/aXyeRdU5x1ioE7yU4z0kTrkM1wtPCffJEry74SjoxFjKeGKWrfETg46vFcIkqgASeETkJK0oLIuy6Ok6nea6lAtTgeBXw7CmVpmXEvssHTGh+T+1K05eAyM9Lh4Ug+uhed7ASjS9iIBzmt5vySkA9/oXciGwn/FYpd7clPDTwpWqJSInu24y+Lj8lk5my2Vf3cNpk603sweYdStbMMqzqIiXKGb1nshXCqpM7ckWO27vhmy4UA4odjqDPYtCbqQx821JNDeXtBTzaMtR2lMPkMS4hphsAbG6A374OJujBwVpvEWLBowiQECJz3afTEyByPxJBKgmfL2b03/fosGDLUPNo=;MV//sBsqnITof8mGBLRJkw=="
 ---
