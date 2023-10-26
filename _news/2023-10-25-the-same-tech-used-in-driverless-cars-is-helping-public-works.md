@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works?_amp=true"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
         width: 1330
         height: 1008
         isCached: true
+  - title: "The case against self-driving taxis isn't worse than the average driver"
+    excerpt: "San Francisco is outlawing driver-less taxis. But columnist Tim Rowland notes that the average driver does worse daily than the robotaxis do."
+    publishedDateTime: 2023-10-26T09:32:00Z
+    webUrl: "https://www.heraldmailmedia.com/story/opinion/columns/2023/10/26/have-you-seen-other-drivers-robotaxis-really-arent-that-bad-tim-rowland/71313133007/"
+    type: article
+    provider:
+      name: The Herald-Mail
+      domain: heraldmailmedia.com
+    quality: 19
 
 secured: "c4UcqGnmQLIsYXxEOFK9ReJHv08GaG5scQyWGPFWMldrkGAxrCg/5a3AtiUGXqNuSsJ8OznZjtyJyvdeGN+6dIv0IRruzaXKfIXP0R3podR9hdzuxwhodqxBeIHAtbpm6V9O08MQeGIc8fuKiXfVWu2/aQpF+zvCc7jHCgv86XsuAoF5kIHSP9US7zyC5rjR3v3yFj6qWBMDH1DvAYW7hJAVKrq0x0TIqZLhjt/Fed1qDOYxOc2zzWq9dkdWyp8tNaQ2SKN3vwaZJsFwMzzlqYC8KDEkRHk9NSkk2Kh7SKis6+woT7sDr4QZqfPyf5LFLq6VIt3SWVQjzJf0e/Pdzm476tZMBaS53YEfRtTIZ4LXBQl6AKyNzcrrUsojQ7FqxWO1Bmd+cR6rAM/4m0xDwN2WXdUo8TZROrVlZJfWij+z8IdZA8Ad77STGFLSM6Qmx3lBUnpWRNpfe2LSo4ABCe2pgwc0+HueFbmV9qkjpWcznEzy8E6K2wKT66punkY/VA1RoBzo90erRZ3FWvujtw==;V3MZav8+rkKQybttog/oIA=="
 ---

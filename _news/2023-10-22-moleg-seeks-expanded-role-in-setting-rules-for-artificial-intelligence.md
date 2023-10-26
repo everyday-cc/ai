@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "UK regulators report back on AI and Machine Learning consultation"
+    excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
+    publishedDateTime: 2023-10-26T11:30:00Z
+    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
+    type: article
+    provider:
+      name: Asset Servicing Times
+      domain: assetservicingtimes.com
+    quality: 56
+    images:
+      - url: "https://www.assetservicingtimes.com/assetservicesnews/images/ThursdayOctober2620231698319657.jpg"
+        width: 990
+        height: 640
+        isCached: true
   - title: "AI Takes on Expiration Dates"
     excerpt: "Food can go rancid when it’s exposed to the air for a while—a process called oxidation. In fact, many common ingredients, but especially lipids, which are fats and oils, react with oxygen. The presence of heat or UV light can accelerate the process."
     publishedDateTime: 2023-10-22T12:00:00Z
@@ -122,15 +136,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Key considerations for regulating artificial intelligence in healthcare"
-    excerpt: "The World Health Organisation (WHO) has released a new publication listing key regulatory considerations for artificial intelligence (AI) in health."
-    publishedDateTime: 2023-10-21T18:50:00Z
-    webUrl: "https://www.thedailystar.net/star-health/news/key-considerations-regulating-artificial-intelligence-healthcare-3449616"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 34
   - title: "Healthcare AI regulation is coming into focus"
     excerpt: "Stakeholders are calling on the FDA to provide more concrete guidance in how clinical AI applications should be implemented."
     publishedDateTime: 2023-10-24T09:00:00Z

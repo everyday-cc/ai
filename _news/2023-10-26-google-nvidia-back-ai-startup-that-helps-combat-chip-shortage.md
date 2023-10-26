@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Google, Nvidia back AI startup that helps combat chip shortage"
-excerpt: "CentML, which builds software to help machine learning systems work more efficiently, raised $27 million from investors including Google’s Gradient Ventures and Radical Ventures."
-publishedDateTime: 2023-10-26T05:23:00Z
-originalUrl: "https://www.moneycontrol.com/news/world/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-11601091.html"
-webUrl: "https://www.moneycontrol.com/news/world/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-11601091.html"
-ampWebUrl: "https://www.moneycontrol.com/news/world/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-11601091.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-11601091.html/amp"
+title: "Google, Nvidia Back AI Startup That Helps Combat Chip Shortage"
+excerpt: "Nvidia Corp. and a Google venture fund have joined a seed round of funding for a startup that helps developers squeeze more computing power out of specialized processors used to train AI, potentially alleviating a major logjam for the burgeoning field."
+publishedDateTime: 2023-10-26T10:41:00Z
+originalUrl: "https://tech.hindustantimes.com/tech/news/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-71698313263541.html"
+webUrl: "https://tech.hindustantimes.com/tech/news/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-71698313263541.html"
+ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-71698313263541.html"
+cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-71698313263541.html"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: Hindustan Times Tech
+  domain: hindustantimes.com
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Collage-Maker-20-Jul-2023-05-16-PM-636.jpg"
-    width: 1280
-    height: 720
+  - url: "https://images.hindustantimes.com/tech/img/2023/10/26/1600x900/EU-ALPHABET-BARD-0_1689231827645_1698316716775.JPG"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -137,6 +137,20 @@ related:
         width: 1920
         height: 960
         isCached: true
+  - title: "US tells Nvidia to immediately cease AI chip exports to China"
+    excerpt: "US chip giant Nvidia revealed that the US government has instructed it to immediately halt the export of certain high-end artificial intelligence chips to China."
+    publishedDateTime: 2023-10-26T09:52:00Z
+    webUrl: "https://technode.com/2023/10/26/us-tells-nvidia-to-immediately-cease-ai-chip-exports-to-china/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 54
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/10/data-denter-dgx-a100-tour-1cC-L@2x.jpg"
+        width: 1252
+        height: 704
+        isCached: true
   - title: "Nvidia Says U.S. Speeded up New Export Curbs on AI Chips"
     excerpt: "(Reuters) - Chip designer Nvidia said new U.S. export restrictions blocking the sales of its high-end artificial intelligence chips to China had gone into effect on Monday after regulators advanced the timeline on the curbs from its 30-day period."
     publishedDateTime: 2023-10-24T13:25:00Z
@@ -188,6 +202,6 @@ related:
       domain: bizjournals.com
     quality: 33
 
-secured: "BQiIQJ83KBs+HH9qkKkFRkPeDbp+D/6cfO2RKoH5m5elprnzhqUhfycHJd9ozvScvnG3ISlbSbMLhwWgadlTgIHc9HfEeGhrND9DGh7OfFve3wB4mRZ9usV433XC3m2Ait0pp8Fs3XvGCmZTaoOsiguzszxG8Xv58nE0PNF7ttBnhAAspmrEcVa/Mho4fESm4xBO41NPos+u+cAU/L2LkM3ZOiH+GKT/FyEJwrWKmy+lCPzDEuaxrd4gteUVJ4uaKc4OE6NhhCuluw19hLy7GgTv1cza0ZBqREzwL1LxnSPqFIsQXpImg0v6iwJFvpctTnkSS5/IEK1wa3B9c9JeIq94BQ4XiELM+C711cjAuF4=;JpQ9AKOGF8N8e0e8Y+80cw=="
+secured: "MhGOW79rqYOvJLRkYlBMlurjna3RVd21jTi8y17PGSek6r0MlK0RbxHUDGRxegumQP6uJ70fIjHEda1TMAHGPOuoJQk/1YLmKeFITw3bJo2fdky5jkonA88kaIHRFpdC0R3Dn97zT5PNDZ0jHZSkIiQNea82gs1PqXd/2wwDn4v7Xr6BmxlZS/3cOViFqzZgWMeZxiS5ZphLKkER6Iqz0UQY5znKizWNZH1HFwYD77k/klS7xcHQAUzBQq1uKyFPkeRkOY0PiCm8Daqji/ybzkgMezFoe75pcnchLEIstz3Tl306HbP+HhGE3GRp+dS/rfbF39IXKF4D3I3Gwi96azm6gqkChp3hLnLDi/Ie/Ik=;Y+faYWXvJi5CU2Hi43x5Dw=="
 ---
 

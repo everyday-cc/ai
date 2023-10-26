@@ -69,6 +69,15 @@ related:
         width: 1020
         height: 680
         isCached: true
+  - title: "The case against self-driving taxis isn't worse than the average driver"
+    excerpt: "San Francisco is outlawing driver-less taxis. But columnist Tim Rowland notes that the average driver does worse daily than the robotaxis do."
+    publishedDateTime: 2023-10-26T09:32:00Z
+    webUrl: "https://www.heraldmailmedia.com/story/opinion/columns/2023/10/26/have-you-seen-other-drivers-robotaxis-really-arent-that-bad-tim-rowland/71313133007/"
+    type: article
+    provider:
+      name: The Herald-Mail
+      domain: heraldmailmedia.com
+    quality: 19
 
 secured: "A5i/tK5VB3lh1PXYFu+YzdFvnRZpfkwiqx+mIJHAthZBEgPOiILyMYND5gt+Cfu22sTJuOjvSsuFS8Lja8RJIIHb8wPPoc9eHBz6z4uQqpHG/EzGDyJHqPc/y9Inrln+L3aALBjMHwDRpA32GsrHsp18peLuLl7SuMF/6Agce8HzQcIPMHTRT3/V+53+paTBFIEblZtzRwHEcAw0xEpp63eibL8KTVRjDsSK/0TF9LS4UsMbVlp/P52mUgtvb4aOK+Puzlt0BZq8AClv29pdDnMd/PtI7nroe7fRVKEliAAZC8JyXZozHxor0BU9s2vmZC/4/3prNsuNgypZtP4S9LN2VtXg8U4Xq4AOsB8P5/Y=;JLAgMG1GL/XZ9bG/8LvYxQ=="
 ---

@@ -49,6 +49,20 @@ related:
         width: 750
         height: 677
         isCached: true
+  - title: "UK regulators report back on AI and Machine Learning consultation"
+    excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
+    publishedDateTime: 2023-10-26T11:30:00Z
+    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
+    type: article
+    provider:
+      name: Asset Servicing Times
+      domain: assetservicingtimes.com
+    quality: 56
+    images:
+      - url: "https://www.assetservicingtimes.com/assetservicesnews/images/ThursdayOctober2620231698319657.jpg"
+        width: 990
+        height: 640
+        isCached: true
   - title: "AI Takes on Expiration Dates"
     excerpt: "Food can go rancid when it’s exposed to the air for a while—a process called oxidation. In fact, many common ingredients, but especially lipids, which are fats and oils, react with oxygen. The presence of heat or UV light can accelerate the process."
     publishedDateTime: 2023-10-22T12:00:00Z
@@ -130,15 +144,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Key considerations for regulating artificial intelligence in healthcare"
-    excerpt: "The World Health Organisation (WHO) has released a new publication listing key regulatory considerations for artificial intelligence (AI) in health."
-    publishedDateTime: 2023-10-21T18:50:00Z
-    webUrl: "https://www.thedailystar.net/star-health/news/key-considerations-regulating-artificial-intelligence-healthcare-3449616"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 34
 
 secured: "fKaALKNw4czZ0p8bLecgA4bj22i/eVuHs2UWPWhdVX+25+EQmSN2HsEPTIgVUHOoDrSbrX/rGrfjelSbiGorNzk5sZDbNoQ1b7FLPp8N7uU2cY/5DJiB/SAYRQTD9YsrVmbCCLNVWWtMIfvPRXf41dq+wPoK9YIDJnLNlyQVlXWBL1HVSXoBZMq0nBraa5SEMv8wXavprquIoD//vyGMCYcTm8lFaalCDDfAxD2cnGstXVdnMARys6hFwvsGR6Qn3+O0f2XlFwTAjOLxHvIlo3ziKU4jYOh6LPhogRWiz8G2Qa3NzWo3Zq7sOUakS8Mket4C5aQvNXxNbcxTN9jN4IdSsjH/Hv4J7uiqfvkuDBklYM3Bovg6J3Sn9mTzA0bSYsX0+e6AC0M72mA4PrqbYHfu9rl6pIfEQ33zzrWdHgBAJLkka8h9DYpcOikDAgjD5Sk8TSqXuzWiEzAS8cfYEiIUnBqNtPEPLa5PK7qGJh7mxYbE/yodC8JNX4gUED1NA/5+cDG4cO/cJcNpZlS1ag==;rqbFfOEJ5cLi44ipLPEK5A=="
 ---

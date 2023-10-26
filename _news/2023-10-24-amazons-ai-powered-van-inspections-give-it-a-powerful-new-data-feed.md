@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/amazons-ai-van-inspections-powerful-da
 webUrl: "https://www.wired.com/story/amazons-ai-van-inspections-powerful-data-feed/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered 6G networks will reshape digital interactions"
+    excerpt: "The convergence of AI and communication technologies will create 6G networks that make hyperconnectivity and immersive experiences an everyday reality for consumers."
+    publishedDateTime: 2023-10-26T10:11:00Z
+    webUrl: "https://www.technologyreview.com/2023/10/26/1082028/ai-powered-6g-networks-will-reshape-digital-interactions/"
+    ampWebUrl: "https://www.technologyreview.com/2023/10/26/1082028/ai-powered-6g-networks-will-reshape-digital-interactions/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/26/1082028/ai-powered-6g-networks-will-reshape-digital-interactions/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/imag_1-3.jpg"
+        width: 1510
+        height: 1200
+        isCached: true
   - title: "AI-powered 6G networks will reshape digital interactions"
     excerpt: "The convergence of AI and communication technologies will create 6G networks that make hyperconnectivity and immersive experiences an everyday reality for consumers."
     publishedDateTime: 2023-10-24T16:16:00Z

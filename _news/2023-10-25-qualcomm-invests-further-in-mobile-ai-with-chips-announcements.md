@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Qualcomm invests further in mobile AI with chips announcements"
-excerpt: "Qualcomm ( QCOM) rolled out a number of key AI announcements today, as the company seeks to cement itself as a major player in mobile chips. Those announcements include a new compute platform, called Snapdragon X Elite, a new central processing unit chip, called the Qualcomm Oryon CP, and a new smartphone chip, named the Snapdragon 8 Gen 3."
-publishedDateTime: 2023-10-25T00:11:00Z
-originalUrl: "https://www.aol.com/qualcomm-invests-further-mobile-ai-211140974.html"
-webUrl: "https://www.aol.com/qualcomm-invests-further-mobile-ai-211140974.html"
-ampWebUrl: "https://www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-211140974.html"
-cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-211140974.html"
+excerpt: "Qualcomm rolled out a number of key AI announcements today, as the company seeks to cement itself as a major player in mobile chips. Those announcements include a new compute plat"
+publishedDateTime: 2023-10-24T21:11:00Z
+originalUrl: "https://www.aol.com/qualcomm-invests-further-mobile-ai-211140974.html?ref=biztoc.com"
+webUrl: "https://www.aol.com/qualcomm-invests-further-mobile-ai-211140974.html?ref=biztoc.com"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
@@ -250,6 +248,6 @@ related:
       domain: liliputing.com
     quality: 13
 
-secured: "WNJuw7Oa9FwvxmOHTRQWMVmtkcKsNQSZ/ArZmH8+LUnkDuGhTngYLDsjXbeBnhsmN4XawnRm27dzTL3t+wLzo+TDm28sA6aKJqmJPucgrGA6Og0r/d5i95coNceoHnytE/T/taJ0QS2K3HOYmJDQhRgF0Bg793Tf4TCjhrvwlwPCj8T4HlYeSk8kNB9O5mmp04nqby60Q1yvOht91aESvEwD+xOv8r/ePiZndo5wqSHWAKtMZ/VO3L/O7s63vnH7Y6ibXUpoQ4pExtm7YVedmhcDQMgBKrRHSuZdDlSPlSjI2LG9k5AKXoe4BF4Lvi/UVe3Cb+xpxiQXM29gXpknuQGoco8wP+nproS7pMPtJXDjqPZbQOe5bKfZz9TSlpSyx310domr48yZMpGl+OiOSZSMmyG1+eqo/GZKsQugaQ4dVG87PJl9FNNggHFWQv3FAlaXre+gD3zTVIfKLT7E27qdOeuC0FxuAGJdO8iFBKjzMv25dEtrV90FOldELl0IgDHWXlfpaEly0UGNIRUH8g==;1DFj+kJvd+Mr6YqBtHpB/A=="
+secured: "bquxRF6YpIvvoWy5GAM/AqJNqpEGDa9IP8OSoyQZAhNRYYPhp/Kd0+2sJTU5y/D6nJZJnfOUJxSQenTb94EAcEkw4lijGBl/QUzYJuvUOeKDDC9UdEgLCe/NKM0mmWex/c15UqqRVW+qVBi11YQCa30XDoCuOz/OZGKQjgt9+ifexK12PLRDan7Hs+p10mTMiqRu7jXiF7pkZB9q/e0SKz/vsIiVQDhH5mEZgjyILZGl9pbI+g3XtOWNZjKtUPkPfnDOksWEHmk8/H6nnWs+1QBx21dpiwOelVHLB6PLhzSkFR5M/qV+FEW0Wat7n678hleiBgXtq1Xe4Y5rB4gR92BqFS2JcN8dvuOC+6ksNdc=;trD9JpipB1rIGzEHMcqjTQ=="
 ---
 

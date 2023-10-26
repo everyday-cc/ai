@@ -97,15 +97,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
-    excerpt: "GIGABYTE spearheads the launch of Azure AI laptops in partnership with Microsoft and extends this collaboration to hybrid AI application functions, like Microsoft Copilot, integrating related AI services and technologies into existing platforms for a truly ..."
-    publishedDateTime: 2023-10-21T18:42:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354353&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 16
   - title: "An interview with Bright Data’s VP of Ethics and Compliance on carving the industry path on ethics, regulation and training AI."
     excerpt: "As VP of Compliance and Ethics, Rony Shalit is responsible for growing and shaping Bright Data’s ethical approach regarding web data collection and proxy usage for years to come which also sets the standard for the industry."
     publishedDateTime: 2023-10-23T06:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://campaignme.com/how-would-you-feel-about-sitting-on-a-panel
 webUrl: "https://campaignme.com/how-would-you-feel-about-sitting-on-a-panel-with-an-ai-robot/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Would You Buy Soap from an AI-Powered Robot Dog?"
-    excerpt: "People who own an aibo can buy them accessories like scarves and leg warmers. They can also buy them “digital food,” which they can watch their aibo eat out of a real dog bowl using augmented reality technology on their smartphone."
-    publishedDateTime: 2023-10-25T13:50:00Z
-    webUrl: "https://www.uml.edu/news/stories/2023/mark-yim-ai-marketing-research.aspx"
+  - title: "Artificial intelligence: What you need to know about next month's AI Safety Summit"
+    excerpt: "The UK government will host the first major global summit on AI safety at the start of next month as the world attempts to deal with the challenges being created by artificial intelligence. The AI Safety Summit will take place on 1 and 2 November at ..."
+    publishedDateTime: 2023-10-26T11:45:00Z
+    webUrl: "https://news.sky.com/story/artificial-intelligence-what-you-need-to-know-about-next-months-ai-safety-summit-12987104?dcmp=snt-sf-twitter"
+    ampWebUrl: "https://news.sky.com/story/amp/artificial-intelligence-what-you-need-to-know-about-next-months-ai-safety-summit-12987104"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-what-you-need-to-know-about-next-months-ai-safety-summit-12987104"
     type: article
     provider:
-      name: UMass Lowell
-      domain: uml.edu
-    quality: 34
+      name: Sky
+      domain: sky.com
+    quality: 66
+    images:
+      - url: "https://e3.365dm.com/23/08/1600x900/skynews-ai-artificial-intelligence_6245426.jpg?20230809140349"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "/GKoKmS3Vx7NjjHtDEet/RDlE/+QIDqpVqAR6mxeUUaBIXkKOaOK35LiShewM7WaO+Zp54ir/t5Agdg/+5A+RkAiBLauNFRDAvZzeF0t9HCNLomqx6rA7+DT/fq5KzrqexgI+cqqau45ehO7eJQTHft2sxh3CBhegpHjaXTADgL3TcL8JouihYwHuMjVEBjHcMp/5tVaJPtvpdIOJIECt+A5hKYpSKqlPPFHusLR4bBG/6FOmpHnUJjCjmAstwGPu/X3SNc6MXoes9XAGAeUuC5X4Yc1Th9sjiUDwhLq9aJvSNgCE6HUslRXp2EtPUSHGL0Bnry32EWG0NCeMNKu3bTVq5NulYn425brxqYYfPg=;tCUGOwWqmviiwn8XtzklCg=="
 ---

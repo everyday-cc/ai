@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/10/25/riding-wave-gen-ai-aws-outline
 webUrl: "https://siliconangle.com/2023/10/25/riding-wave-gen-ai-aws-outlines-advances-supercloud-4-supercloud4/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Learn how generative AI transforms every industry at theCUBE’s Supercloud 4 event, Oct. 24-25"
-    excerpt: "Mushrooming enterprise interest in gen AI has fostered the growth of numerous startups seeking to gain an edge in the market by providing new technologies to improve use of the tool and generate results. One example of this can be found in the startup ..."
-    publishedDateTime: 2023-10-21T18:34:00Z
-    webUrl: "https://siliconangle.com/2023/10/15/learn-generative-ai-transforms-every-industry-thecubes-supercloud-4-event-oct-24-25-supercloud4/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 6
 
 secured: "ueBqmY6NuTnZnJf4nL5+GQNLv0BqTSuzJNsEKk3hOK54BbnlfQQ4jRNt+xUpe+8oSJQCBe7YQROFeiuEm/E7m2/Ciok3AOGlK2hRGYV+mrvByIn0ymna5uaBqMkaM43nWHwXLVMwvvY1L/Mv31B3fZdVHeRwm9L2BDDPz86tWXhqiuznVyyDbJl9ooZtfxkrOO7ZeKpl3uJtYRmb0SqZ7kgjZw0mCyPQ579gP6DBzvLWNTuZV/BFp47Gp6mKGEMiCL+GP+VkOMU2SAzjeF7NAlQbgjAmY275+J1VU5XNWVe/hUc1ysQN+3mA4v75Uhix3435qN9t1ma7AgcwsCdPhAfi4vmw1PtfbgE6nU9HPOAGovTK6oVqCkdCfKYuDd6wunyTs/YkyuKM1fbBqukxed0PTd4je6zRBCIuDHPLmONrpHULbsjF2dGThlCKnSDURPoinvqgVJSzlAETr7aCt2xiM51/2vXmKGXY7CKeqlbNwXsyWTQ5u3TKDGDEJwq2UXRPxg1X8cRiT3hJI0g03g==;Fwh/sbUthsz0Gpj8yQOLTA=="
 ---

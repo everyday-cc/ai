@@ -38,22 +38,6 @@ related:
         width: 936
         height: 560
         isCached: true
-  - title: "Qualcomm invests further in mobile AI with chips announcements"
-    excerpt: "Qualcomm ( QCOM) rolled out a number of key AI announcements today, as the company seeks to cement itself as a major player in mobile chips. Those announcements include a new compute platform, called Snapdragon X Elite, a new central processing unit chip, called the Qualcomm Oryon CP, and a new smartphone chip, named the Snapdragon 8 Gen 3."
-    publishedDateTime: 2023-10-25T00:11:00Z
-    webUrl: "https://www.aol.com/qualcomm-invests-further-mobile-ai-211140974.html"
-    ampWebUrl: "https://www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-211140974.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/qualcomm-invests-further-mobile-ai-211140974.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 74
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/7SSlHirnre3fE3EDG45yYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODk-/https://media.zenfs.com/en/aol_yahoo_finance_433/2e03884ca93cf5e7c132b3ef00d68fc0"
-        width: 1200
-        height: 789
-        isCached: true
   - title: "Qualcomm leans into Gen AI to beat chip competition. Can it?"
     excerpt: "Qualcomm on Tuesday made a series of announcements that highlights the chipmaker’s pivot to generative AI. All the products it unveiled were aimed at supporting gen AI applications so mobile units can perform AI-based tasks on device. This is testament to the fact that use cases for gen AI are only set to rise exponentially."
     publishedDateTime: 2023-10-25T05:27:00Z
@@ -140,6 +124,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Snapdragon-X-Elite.jpg"
         width: 678
         height: 381
+        isCached: true
+  - title: "Qualcomm invests further in mobile AI with chips announcements"
+    excerpt: "Qualcomm rolled out a number of key AI announcements today, as the company seeks to cement itself as a major player in mobile chips. Those announcements include a new compute plat"
+    publishedDateTime: 2023-10-24T21:11:00Z
+    webUrl: "https://www.aol.com/qualcomm-invests-further-mobile-ai-211140974.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/7SSlHirnre3fE3EDG45yYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODk-/https://media.zenfs.com/en/aol_yahoo_finance_433/2e03884ca93cf5e7c132b3ef00d68fc0"
+        width: 1200
+        height: 789
         isCached: true
   - title: "Qualcomm’s new Snapdragon X Elite notebook chips are made with AI in mind"
     excerpt: "Touting twice the CPU performance compared to competitors and arriving in mid-2024, Qualcomm has revealed its new Snapdragon X Elite chips."

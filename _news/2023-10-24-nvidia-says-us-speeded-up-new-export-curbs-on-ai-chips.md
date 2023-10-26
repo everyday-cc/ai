@@ -102,21 +102,21 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Google, Nvidia back AI startup that helps combat chip shortage"
-    excerpt: "CentML, which builds software to help machine learning systems work more efficiently, raised $27 million from investors including Google’s Gradient Ventures and Radical Ventures."
-    publishedDateTime: 2023-10-26T05:23:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-11601091.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-11601091.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-11601091.html/amp"
+  - title: "Google, Nvidia Back AI Startup That Helps Combat Chip Shortage"
+    excerpt: "Nvidia Corp. and a Google venture fund have joined a seed round of funding for a startup that helps developers squeeze more computing power out of specialized processors used to train AI, potentially alleviating a major logjam for the burgeoning field."
+    publishedDateTime: 2023-10-26T10:41:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-71698313263541.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-71698313263541.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-71698313263541.html"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
     quality: 74
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Collage-Maker-20-Jul-2023-05-16-PM-636.jpg"
-        width: 1280
-        height: 720
+      - url: "https://images.hindustantimes.com/tech/img/2023/10/26/1600x900/EU-ALPHABET-BARD-0_1689231827645_1698316716775.JPG"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Nvidia Says US Advanced Timeline for Export Curbs of AI Chips to China, Other Countries"
     excerpt: "Chip designer Nvidia said new US export curbs that block the sale of its high-end artificial intelligence chips to China came into effect on Monday as regulators advanced the timeline."
@@ -147,6 +147,20 @@ related:
       - url: "https://images.tech.co/wp-content/uploads/2023/10/25125830/nvidia-chip.jpg"
         width: 1920
         height: 960
+        isCached: true
+  - title: "US tells Nvidia to immediately cease AI chip exports to China"
+    excerpt: "US chip giant Nvidia revealed that the US government has instructed it to immediately halt the export of certain high-end artificial intelligence chips to China."
+    publishedDateTime: 2023-10-26T09:52:00Z
+    webUrl: "https://technode.com/2023/10/26/us-tells-nvidia-to-immediately-cease-ai-chip-exports-to-china/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 54
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/10/data-denter-dgx-a100-tour-1cC-L@2x.jpg"
+        width: 1252
+        height: 704
         isCached: true
   - title: "ANALYSIS-US chip curbs give Huawei a chance to fill the Nvidia void in China"
     excerpt: "While Nvidia NVDA.O has historically been the leading provider of AI chips in China with a market share exceeding 90%, Chinese firms including Huawei have been developing their own versions of Nvidia’s best-selling chips, including the A100 and the H100 graphics processing units (GPU)."

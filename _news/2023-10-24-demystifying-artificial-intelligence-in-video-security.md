@@ -7,8 +7,8 @@ originalUrl: "https://www.securityinfowatch.com/video-surveillance/article/53076
 webUrl: "https://www.securityinfowatch.com/video-surveillance/article/53076147/demystifying-artificial-intelligence-in-video-security"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Security
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Heavyweights eye bolstered AI security with safety fund"
+    excerpt: "The group aims to appoint an advisory board in the “coming months”. Frontier Model Forum was founded as an increasing number of authorities and major industry names expressed concerns on the pace of development and AI ethics."
+    publishedDateTime: 2023-10-26T11:10:00Z
+    webUrl: "https://www.mobileworldlive.com/ai-cloud/heavyweights-eye-bolstered-ai-security-with-safety-fund/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 56
+    images:
+      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2022/03/16114538/MWL_digital_dollar_cash_650.jpg"
+        width: 649
+        height: 400
+        isCached: true
   - title: "Basis Secures $3.6 Million to Bring AI to Accounting Firms"
     excerpt: "Basis is an AI platform for accounting firms. Basis sits alongside existing software and gives accountants a team of AI assistants to streamline workflows, helping firms improve the quality and efficiency of their work. The company was founded in 2023 by Mitchell Troyanovsky and Matthew Harpe."
     publishedDateTime: 2023-10-23T21:09:00Z

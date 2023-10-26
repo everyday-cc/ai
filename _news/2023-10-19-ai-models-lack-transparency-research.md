@@ -1,28 +1,26 @@
 ---
 category: news
 title: "AI models lack transparency: research"
-excerpt: "The best score -- 54 percent -- was given to Llama 2, the AI model launched by Facebook and Instagram owner Meta in July ... Rishi Bommasani, a researcher at Stanford's Center for Research on Foundation Models, said companies should strive for a score ..."
-publishedDateTime: 2023-10-19T15:34:00Z
-originalUrl: "https://www.zawya.com/en/world/americas/ai-models-lack-transparency-research-gvsndgdm"
-webUrl: "https://www.zawya.com/en/world/americas/ai-models-lack-transparency-research-gvsndgdm"
-ampWebUrl: "https://www.zawya.com/en/world/americas/ai-models-lack-transparency-research-gvsndgdm?amp=1"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/americas/ai-models-lack-transparency-research-gvsndgdm?amp=1"
+excerpt: "The best score -- 54 percent -- was given to Llama 2, the AI model launched by Facebook and Instagram ... a researcher at Stanford's Center for Research on Foundation Models, said companies ..."
+publishedDateTime: 2023-10-19T13:17:00Z
+originalUrl: "https://www.enca.com/opinion/ai-models-lack-transparency-research"
+webUrl: "https://www.enca.com/opinion/ai-models-lack-transparency-research"
 type: article
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: eNCA
+  domain: enca.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://static.zawya.com/view/acePublic/alias/contentid/ODlhYjQwYzItOGUzZS00/0/afp_33xf6xa-jpg.jpeg?f=3%3A2"
-    width: 898
-    height: 599
+  - url: "https://www.enca.com/sites/default/files/styles/large/public/afp/2023-10/doc-33YM76N-%40photo0.jpg.webp?itok=tKoF250w"
+    width: 480
+    height: 319
     isCached: true
 
-secured: "10qtLRfq3oDJh8QA92TmopmOsCCOGiZp9bKANXQEp5mEkqtoL83ijoHhruzegfZsmSmgkgOYv1nYQ+u0oHI9/Hey8uvNinY/sK/orQA1KaHBon4EQPIEv9iRleGNFHn2WxTeskMd3fM2CEMbVfLgNGJbpZvrzlRiFeo4F2ks9WkKQmvBgzKbF3feVeehOgTenGhn1SKt8v3ZpUOYbgZXLIZuFlzqrbMz1M+U3P2TRl9cNyM9S60DXbU4IxqJgNE5JZTx8qd6c6mF4YRJd6cAz75NfCTZXV29hCURcPPVTM+SIyBimXbxZ7Gj5hqP4Glbz+RhiSlBlut2N76BZCw+AuNo5jGTewInmfk4gNgrED8=;RZxPCloTzUhdm1xF2f8x1w=="
+secured: "ixJgguU20/yTxl+4Oe5pKLXUpVsss55ytCM+/D9vWbrw5t8tEmdhOuD54URFXUhdO1Z9TwhwNWbygRjpgsrMe9jskJZwxZoX4TzzdimIAqcULrUGWdM95cKZiTgdUc8zNqNGFECYD7z5aXBN/0NW30H9osNkag23SafFxpmA3bt3/4G9ASVuRAOVHGDsXrMW+ifxj9/t7QlxF+Wz7cfXUWZbAEvJukoD9oNiwgh3xFNMpPgJ24DLmAepZwkijw46C8TWP9VAn+fZfYxML27qUy9umdJBUDWH2of1pi1YiTCfCUZwgJgMjfrvlHkHPmShZ2r4oTAFL2bWQUHoCEl0xLaY1B2ZqQwweanFG+Tr7t0=;0KF06V3UCqqQw7/4f//7uQ=="
 ---
 

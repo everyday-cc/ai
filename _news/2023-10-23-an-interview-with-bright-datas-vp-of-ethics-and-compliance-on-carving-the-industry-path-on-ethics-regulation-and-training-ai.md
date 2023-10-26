@@ -105,15 +105,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
-    excerpt: "GIGABYTE spearheads the launch of Azure AI laptops in partnership with Microsoft and extends this collaboration to hybrid AI application functions, like Microsoft Copilot, integrating related AI services and technologies into existing platforms for a truly ..."
-    publishedDateTime: 2023-10-21T18:42:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354353&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 16
 
 secured: "q9PFgqSFkyvouetWlRE9N8p8IsbSNOK4BST/CqGXinfgzzhOQr6TpG73YF50xMFC9gMziyrHhZAHefNB/oHbPwx3jdsRgLStlQIN11TMv1KC4ij6qgTU7x7gT5mBi2a6G4POS/a7BlQxT0Bs2zOXKmwgAHpW8ScZaWeKb7f6acq/eGm2kvOC5/aLe+ANDIE3E+0jgRTGrTmi0jZDYDJbwQ4VLktroXPImXc5mVPRsNwdDR1XJynW+subdyGUKjqIttCb4LLwqOgHey7EWztYtdW5K7xlNn+vRTLaM3Cw95yDe57Q6rd6OGPcwAGRWT6szTXA7WU54qvpscDH649hcNMhMp7A9oWdqEByYJNzn055cZM/aR5W4Qs460wT9o1A8TaGWJlGCbW8e5PfVJDJDdjvUgl7oZdhFb5f6Pl9smcUWhKSMb8iGewNclM5+hdN94E8DuDfY6E2PzsPObhnj7FgAjX5y4msAHxatP6HBvBQTfJ73Ux6n20R17FEYhJ4Y410X2NdkC4tsOkCNi+aQg==;Slp1WTkHfH0QCMVPztitcw=="
 ---

@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Heavyweights eye bolstered AI security with safety fund"
+    excerpt: "The group aims to appoint an advisory board in the “coming months”. Frontier Model Forum was founded as an increasing number of authorities and major industry names expressed concerns on the pace of development and AI ethics."
+    publishedDateTime: 2023-10-26T11:10:00Z
+    webUrl: "https://www.mobileworldlive.com/ai-cloud/heavyweights-eye-bolstered-ai-security-with-safety-fund/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 56
+    images:
+      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2022/03/16114538/MWL_digital_dollar_cash_650.jpg"
+        width: 649
+        height: 400
+        isCached: true
 
 secured: "BILd/QJaLhai8X2Xc9w8vQFKBADDU9KvVyqaovh7WUI48pOaUaIR4O8VUTHbtzOFqyHeDb1N0oLCWebWsqu+sl63gcOwRhbQSpco9UQ9ltUZYGr/dPB7XGcRozPDOhuuk6JI3vAzbZ6nyfHQN1rQ+/qnl2pf+kOJ/Dm0Y6f9JG1aNx5N+GMTq5V303AwST0Ct2SXvqxmneZmhTmML6oOjaHF+lvDGU+hp81uPvy3kkxu9RVP+8BNragcw8NFM6Rtdp70e4BW5Ll8C+fnzNTk/CAvlyP5Zer0bqN2OxSVYqbvTQvGRNn5Ae+PdCa3T3eXpSglnm5hSCQnTq9qplXDC4qW6kgRL+GlZ3EdJ7nLUvA=;Ss06XPWi/mu7j7wsXp/Uhg=="
 ---

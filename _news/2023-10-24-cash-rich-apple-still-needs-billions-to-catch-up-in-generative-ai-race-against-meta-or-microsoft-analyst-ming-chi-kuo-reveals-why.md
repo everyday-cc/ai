@@ -148,6 +148,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft Stock: AI Tailwind Sets the Scene for Further Gains"
+    excerpt: "“As we look out into CY24, we believe that AI will be a tailwind as Microsoft starts implementing its M365 Copilot monetization strategy, as will continued traction in Azure and the integration of ATVI into Microsoft’s gaming business.” All ..."
+    publishedDateTime: 2023-10-26T11:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-ai-tailwind-sets-the-scene-for-further-gains-1032743380"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/10/image-663-1024x520.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 1024
+        height: 520
+        isCached: true
   - title: "Google is actively looking to insert different types of ads in its generative AI search"
     excerpt: "Google is planning to experiment with different native ad formats for its generative AI based search experince."
     publishedDateTime: 2023-10-25T09:19:00Z
@@ -319,7 +333,7 @@ related:
   - title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
     excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
     publishedDateTime: 2023-10-25T14:58:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca&region=ca"
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
     type: article
     provider:
       name: Proactiveinvestors
@@ -329,6 +343,22 @@ related:
       - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEwXC9NaWNyb3NvZnQtbG9nb182NTM5M2JkMjZkNzFhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
         width: 1200
         height: 630
+        isCached: true
+  - title: "Amazon Earnings Preview: All eyes on AWS after Microsoft cloud's high and Google's low"
+    excerpt: "Amazon.com Inc is set to release its Q3 earnings on Thursday, a day after Microsoft and Google's results. Microsoft experienced growth in its Azure platform, while Google's cloud division had tempered growth."
+    publishedDateTime: 2023-10-26T11:30:00Z
+    webUrl: "https://www.cnbctv18.com/earnings/amazon-earnings-preview-all-eyes-on-aws-after-microsoft-clouds-high-and-googles-low-18156181.htm"
+    ampWebUrl: "https://www.cnbctv18.com/earnings/amazon-earnings-preview-all-eyes-on-aws-after-microsoft-clouds-high-and-googles-low-18156181.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/earnings/amazon-earnings-preview-all-eyes-on-aws-after-microsoft-clouds-high-and-googles-low-18156181.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 68
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2022/11/amazon-image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft jumps while Google owner Alphabet slips as Wall Street zeroes in on the tech giants' AI efforts"
     excerpt: "Microsoft shares climbed in premarket trading Wednesday, while Alphabet slumped as investors focused on weaker-than-expected cloud revenues."
@@ -427,20 +457,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/10/23/microsoft..image_by_efes_from_pixabay.building-1011876_1920.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
-        isCached: true
-  - title: "“If someone took away my Copilot, I wouldn't know what to do” - Microsoft CEO Satya Nadella on how the AI future will affect us all"
-    excerpt: "with Microsoft Azure playing an understandably key part. “The cloud is helping to make that possible,” he added. “Data is also already in the cloud. So, therefore, the adoption of AI is just the next step, and it has compounding effects. But we ..."
-    publishedDateTime: 2023-10-21T17:32:00Z
-    webUrl: "https://www.techradar.com/pro/if-someone-took-away-my-copilot-i-wouldnt-know-what-to-do-microsoft-ceo-satya-nadella-on-how-the-ai-future-will-affect-us-all"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/MUXHxJnneKGoPxEjnQjrmS-1200-80.jpg"
-        width: 1200
-        height: 674
         isCached: true
   - title: "Microsoft makes record $5B investment for Aussie AI infrastructure"
     excerpt: "“They will not only enable a safer and more secure digital economy, but also provide a platform to foster growth and innovation in the era of AI,” he added. Last week, Microsoft announced the general availability of its Azure AI Content Safety ..."
