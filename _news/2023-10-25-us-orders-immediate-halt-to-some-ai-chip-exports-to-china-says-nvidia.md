@@ -167,6 +167,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 46
+  - title: "Additional Chinese orders for Nvidia AI chips cut short as US ends 30-day notice period"
+    excerpt: "Nvidia disclosed in a document submitted to the US Securities and Exchange Commission (SEC) that the 30-day notice period for the 2023 export controls update by the Biden Administration had been cut short."
+    publishedDateTime: 2023-10-26T05:05:00Z
+    webUrl: "https://www.digitimes.com/news/a20231026PD212/china-nvidia-server-ipc-cloud-computing-iot.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 46
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231026pd212_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Nvidia said the U.S.'s new AI chip restrictions have already taken effect"
     excerpt: "New rules restricting Nvidia from selling even the chips it designed for the Chinese market in the country have now taken effect."
     publishedDateTime: 2023-10-24T19:54:00Z

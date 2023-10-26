@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2682311-art
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar?amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1280
     height: 723
     isCached: true
+
+related:
+  - title: "Artificial Intelligence company from Silicon Valley entres Bihar"
+    excerpt: "A Silicon Valley-based Artificial Intelligence company has opened an office in Bihar, making it the first IT company from the US"
+    publishedDateTime: 2023-10-26T09:36:00Z
+    webUrl: "https://www.orissapost.com/artificial-intelligence-company-from-silicon-valley-entres-bihar/"
+    ampWebUrl: "https://www.orissapost.com/artificial-intelligence-company-from-silicon-valley-entres-bihar/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/artificial-intelligence-company-from-silicon-valley-entres-bihar/"
+    type: article
+    provider:
+      name: orissapost
+      domain: orissapost.com
+    quality: 57
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2023/10/Tiger-Analytics.jpg"
+        width: 609
+        height: 427
+        isCached: true
 
 secured: "F6Qlk654IQammj2hohQuuww0+XCTqufjAM7lORoQ1qFETxrHFVKrBY4r656lVRgoqxHdG+tKx6YIbh2Lq+beOQ/ZrwB3owu32AhuuA7eFElFxcHN5P9HH+6wkD1PqvDvgibH2Aly+t/yoXHvBebmYcnqnFmAyv2E5sblgOXZhtS+kz7yEo73jtukjRz7fk1DkpIKrcsSO17Ri18M1adwbooxKAPW8y/xtc93S3/58n9ryZ8tQ5SbP8gMJsq5ew3d4e5+6ZnTa3cVi6FaH9yzKlyjs+51J6j5iWStmw6NMmygx71P8/Yt5DFM3LuDEbrT2lEhXw9pKptHGqqM9SUm97QAt4qzsuW5l1F9Gkd2ngo=;oAlP/njskmpomBwHMlfN2A=="
 ---

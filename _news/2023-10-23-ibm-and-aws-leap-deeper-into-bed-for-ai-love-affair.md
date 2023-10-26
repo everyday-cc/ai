@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Experts from Accenture and AWS on Optimizing Cloud and AI"
-    excerpt: "Providing insight are Chris Niederman, Managing Director, Global Systems Integrators at Amazon Web Services; and Chris Wegmann, Global Technology Lead of AWS Business Group at Accenture. eWEEK content and product recommendations are editorially independent."
-    publishedDateTime: 2023-10-25T17:54:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/accenture-and-aws-on-optimizing-cloud-ai/"
+  - title: "3 ways to migrate and deploy IBM Maximo on AWS Cloud"
+    excerpt: "Migrating to cloud helps organizations drive operational resiliency and reliability while keeping software updated with effort.\nThe post 3 ways to migrate and deploy IBM Maximo on AWS Cloud appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-26T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/3-ways-to-migrate-and-deploy-ibm-maximo-on-aws-cloud/"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/10/eSPEAKS-thumbnail-aws-accenture.png"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: IBM
+      domain: ibm.com
+    quality: 99
 
 secured: "n5Jbr2xFPrbQhLPFLodHpYo/uq0+erq7pdwRDgnuQ2i2491d/ubQJRQMMa2qiPrC2LC4YYPQI84gvg6lnNnpyIqlUu3jsyyG3qkPOm7b66DBXFgmmn5kDNfI4rOw8iaD39fWv9k105bh7zbwHT152b/dD8qcpLDmZowjvDTI9klta+gajPsKDMuXEJPqZjZQSlfzL/oNDDYL2Z4PscXr/oeCaruXA3HAaCk2dL8WMY6TQH7BdNe8ORv1iUJ3VCDfmFN0iRimPCTAWBnLjQeuf74nGI7uvqfgT0LkYhfAupb/RiHiJZSsDuv8pTNNmvWzeHA0/DzeJ0TFfMVwcjRjJPk2Py4/yVaKzv+Np7yuBvg=;v9SOjqocAxa791WzUIvEjw=="
 ---

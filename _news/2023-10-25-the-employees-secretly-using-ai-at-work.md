@@ -34,6 +34,22 @@ related:
         width: 1600
         height: 896
         isCached: true
+  - title: "AI will eat the world"
+    excerpt: "ChatGPT is synonymous with AI today. But there will be millions of “AIs” all solving different problems—like Google’s new AI healthcare tool that can tell doctors about their patients’ medical histories."
+    publishedDateTime: 2023-10-26T09:00:00Z
+    webUrl: "https://www.mauldineconomics.com/editorial/ai-will-eat-the-world"
+    ampWebUrl: "https://www.mauldineconomics.com/editorial/amp/ai-will-eat-the-world"
+    cdnAmpWebUrl: "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/editorial/amp/ai-will-eat-the-world"
+    type: article
+    provider:
+      name: MauldinEconomics.com
+      domain: mauldineconomics.com
+    quality: 59
+    images:
+      - url: "https://images.mauldineconomics.com/uploads/newsletters/Joltmauldin_20231025_Feature.jpg"
+        width: 725
+        height: 363
+        isCached: true
 
 secured: "q5qcJgqkgTDas//PqN6MligzU4fDX5Vfg2Pt25evE3vi0oY4Xyra4zJFZMpJohTQ6lFIcMokIFzom6FRt1glbTl2R4uwf32GZuT9fNgrrCJ5buzTLZ2+RYwSbhp7AVAk6C2ewEnbek1PfFZ4vxnoqo9exGCoPnlEs978f//35baloiWHIAmdsHYohhcoGjEVBUqiIl0lQUs7N4DVSUnLMRQ1N+IpsRulE3IFwQp/RMyTtANdUtwefraD+QAttin2h4BOgPM8iaOyn+U5dHYq4hcVL10SxNMqa/BUwHvfMnEvOLKvhg7uRfisUWYnJxecAa/tnH80fBb9eIpPNRUvZ7HRsFGm74AvD0RQVoGcRfYEeAeXhO8OTiSW7YTTlyjMHNT9iioxFrRkBxRIJuxDq29kc59VynOnByVFJXMuTk9PiraA1j0FVkR2/lGenplxqJ5qAJGJYYIlN7kz+gzHWMGi7mghrTqMxywXEVR4HFrij29SslZXLl/wNT2ruDxzjjQlo2QXv8eg7afIIs4TuQ==;36prVEBnFZE3C0ZThIEdvw=="
 ---

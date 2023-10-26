@@ -2,6 +2,135 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-29-ibm-cloud-inactive-identities-ideas-for-automated-processing.md",
+      "title": "IBM Cloud inactive identities: Ideas for automated processing",
+      "excerpt": "Identities that are inactive should be cleaned up for security reasons. Learn how to automatically tackle the problem on IBM Cloud.\nThe post IBM Cloud inactive identities: Ideas for automated processing appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-cloud-inactive-identities-ideas-for-automated-processing/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-inactive-identities-ideas-for-automated-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-29T04:53:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models.md",
+      "title": "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models",
+      "excerpt": "28, 2023 /CNW/ -- Today, IBM IBM announced the general availability of the first models in the watsonx Granite model series — a collection of generative AI models to advance the infusion of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34968073/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-mode",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34968073/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-mode",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-25-rebellions-ai-chip-to-undergo-ibm-quality-testing.md",
+      "title": "Rebellions' AI chip to undergo IBM quality testing",
+      "excerpt": "Korean AI semiconductor startup Rebellions said Monday that its chips were set to undergo quality testing at data centers of IBM Research's AI Hardware Center in New York. IBM Research's AI Hardware Center conducts exhaustive quality testing for enterprise-grade data center processors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20230925000638",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20230925000638",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F09%2F25%2F20230925000591_0.jpg",
+          "width": 630,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20230925000638",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230925000638",
+      "publishedDateTime": "2023-09-24T23:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-09-23-smes-need-to-be-careful-in-using-ai-for-learning-and-development.md",
       "title": "SMEs need to be careful in using AI for learning and development",
       "excerpt": "Embracing AI offers SMEs an opportunity to enhance skills, boost productivity and stay competitive but they have to be watchful of cost, data privacy and relying too much on tech among other issues",
@@ -1185,144 +1314,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-the-best-smart-watches-in-2023-2024-from-blood-sugar-monitoring-to-ai-personal-training.md",
-      "title": "The Best Smart Watches In 2023 / 2024: From Blood Sugar Monitoring To AI Personal Training",
-      "excerpt": "Discover the future on your wrist with 2023/2024's top smartwatches, featuring groundbreaking advancements such as non-invasive blood glucose monitoring and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/13/the-best-smart-watches-in-2023--2024-from-blood-sugar-monitoring-to-ai-personal-training/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/13/the-best-smart-watches-in-2023--2024-from-blood-sugar-monitoring-to-ai-personal-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65015a9ae9ddcd7ea0e63cdb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/13/the-best-smart-watches-in-2023--2024-from-blood-sugar-monitoring-to-ai-personal-training/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/13/the-best-smart-watches-in-2023--2024-from-blood-sugar-monitoring-to-ai-personal-training/amp/",
-      "publishedDateTime": "2023-09-12T23:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-ai-model-speeds-up-high-resolution-computer-vision.md",
-      "title": "AI model speeds up high-resolution computer vision",
-      "excerpt": "An autonomous vehicle must rapidly and accurately recognize objects that it encounters, from an idling delivery truck parked at the corner to a cyclist whizzing toward an approaching intersection.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-09-ai-high-resolution-vision.html",
-      "originalUrl": "https://techxplore.com/news/2023-09-ai-high-resolution-vision.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/ai-model-speeds-up-hig.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-09-ai-high-resolution-vision.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-ai-high-resolution-vision.amp",
-      "publishedDateTime": "2023-09-12T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-uk-government-tests-frictionless-trade-models-with-ecosystem-of-trust-pilots.md",
-      "title": "UK Government tests frictionless trade models with Ecosystem of Trust pilots",
-      "excerpt": "Novel, digital, risk-based methods for border control can provide higher quality data and could decrease decision-making.\nThe post UK Government tests frictionless trade models with Ecosystem of Trust pilots appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/uk-government-tests-frictionless-trade-models-with-ecosystem-of-trust-pilots/",
-      "originalUrl": "https://www.ibm.com/blog/uk-government-tests-frictionless-trade-models-with-ecosystem-of-trust-pilots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -1,28 +1,48 @@
 ---
 category: news
 title: "StackPath Launches GPU-Accelerated Edge Compute Instances"
-excerpt: "Low-Latency VMs and Containers Leveraging NVIDIA GPUs Now AvailableDALLAS, Oct. 25, 2023 /PRNewswire/ -- StackPath, the industry-leading edge"
-publishedDateTime: 2023-10-25T19:27:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/stackpath-launches-gpu-accelerated-edge-compute-instances-1032740231"
-webUrl: "https://markets.businessinsider.com/news/stocks/stackpath-launches-gpu-accelerated-edge-compute-instances-1032740231"
+excerpt: "DALLAS, Oct. 25, 2023 /PRNewswire/ -- StackPath, the industry-leading edge computing platform, today announced the addition of NVIDIA GPU-Accelerated Instances to its Virtual Machine (VM) and Container product options."
+publishedDateTime: 2023-10-25T19:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-stackpath-launches-gpu-accelerated-edge-compute-instances-/2023/10/25/9905503.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-stackpath-launches-gpu-accelerated-edge-compute-instances-/2023/10/25/9905503.htm"
 type: article
-quality: 51
-heat: 51
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - AI Hardware
+  - AI
 
-secured: "wDHGBQU4h4+eMLaAo5APuZE0Ppnt+2kQbyRN4Pj1pD2FPc3h196Iccd/G6Nw/8Xbb77r1UOi9RrdqDmpX+uF0ywn6bTXfDteDGa8wkZXPEubqTMLr/LX8GgfmXpjKnyzFtf48j1KJJhQYoPJ2cDC7iy0a937Ko2SJAFba5/EYfbHjr8+HxEMCjUbJ2qm1Fj3vtNMgHAnIcgOsw7/VmBrQrHzBGcUoZclTQa0KL9/E+8Ftz/uZkDHmSKZuqTti0WuAec3ujbNSJvi6qJyC6svFcAfmsSIXFquwQTb1a3DOhSIZFVpUrwGj+rCWEKsKDsiTf9rk+G29XG/r9ZbOkBjpw6vP9NKnlO3aALtGjJIVqk=;DemLZPQuqNnsSPqkDVpizg=="
+related:
+  - title: "CoreWeave Chooses DDN Storage to Power Accelerated Computing and AI in the Cloud"
+    excerpt: "DDN Storage Accelerates Generative AI and Large Language Models with CoreWeave's GPU Cloud and NVIDIA AICHATSWORTH, Calif., Oct. 25, 2023"
+    publishedDateTime: 2023-10-25T10:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/coreweave-chooses-ddn-storage-to-power-accelerated-computing-and-ai-in-the-cloud-1032737969"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://mma.prnewswire.com/media/2256851/DDN_Logo.jpg"
+        width: 283
+        height: 400
+        isCached: true
+  - title: "GPU Cloud CoreWeave Chooses DDN for Accelerated Computing and AI"
+    excerpt: "High performance data storage company DDN today announced that CoreWeave has selected DDN’s EXAScaler storage for its NVIDIA GPU cloud offering. By incorporating DDN’s parallel filesystem with systems based on NVIDIA H100 Tensor Core GPUs into the on-demand multi-node GPU cloud  service,"
+    publishedDateTime: 2023-10-25T18:09:00Z
+    webUrl: "https://insidehpc.com/2023/10/gpu-cloud-coreweave-chooses-ddn-for-accelerated-computing-and-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 34
+
+secured: "pCNbzQ3MBJ2hcEfxkX1UuX2/eRZopeKMyVINBmnI6xYjvOEvsXXW1+F5OloJr3VhBdXE5We4QTmWeCA5bAxMVg/7b2nMEDfU8oR6LQ/ejl/QC9r/FH0AYRcTUzM4xqAY+GBt9WNEC1lszJso/azYzywVSjeq8w+Ea4iVoGcv/Kqx5BBsM8OuxksBIMlEirB4SpCgP3wUmYG2inwwDeySvR3oGK6KQP0MPu65dMFaqFJJzkM5WKWQyLYWWVfocMWgZEPgGkFlyXJ10Fi2YOjX3YUuViFyXF6xqaTactOjaE2tIXeTtnVQS29tXOmDdZ1SC7TP0RRbbqzHjv75Q36aLsmeLsZsyBgCcIo0XghyM0E=;S7yPm8ePqqs6vsNelKCRsw=="
 ---
 

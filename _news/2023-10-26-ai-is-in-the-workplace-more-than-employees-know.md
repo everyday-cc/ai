@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI will eat the world"
+    excerpt: "ChatGPT is synonymous with AI today. But there will be millions of “AIs” all solving different problems—like Google’s new AI healthcare tool that can tell doctors about their patients’ medical histories."
+    publishedDateTime: 2023-10-26T09:00:00Z
+    webUrl: "https://www.mauldineconomics.com/editorial/ai-will-eat-the-world"
+    ampWebUrl: "https://www.mauldineconomics.com/editorial/amp/ai-will-eat-the-world"
+    cdnAmpWebUrl: "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/editorial/amp/ai-will-eat-the-world"
+    type: article
+    provider:
+      name: MauldinEconomics.com
+      domain: mauldineconomics.com
+    quality: 59
+    images:
+      - url: "https://images.mauldineconomics.com/uploads/newsletters/Joltmauldin_20231025_Feature.jpg"
+        width: 725
+        height: 363
+        isCached: true
   - title: "The employees secretly using AI at work"
     excerpt: "Some employers are either tacitly or outright banning access to generative AI tools like ChatGPT. But employees who love them are finding ways to discreetly backchannel."
     publishedDateTime: 2023-10-25T14:49:00Z

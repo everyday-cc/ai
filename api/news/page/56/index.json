@@ -2,6 +2,102 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-09-15-ai-and-machine-learning-usage-up-155-among-marketing-teams-snowflake-modern-marketing-data-stack-report-finds.md",
+      "title": "AI and Machine Learning Usage up 15.5% Among Marketing Teams, Snowflake Modern Marketing Data Stack Report Finds",
+      "excerpt": "No-Headquarters/BOZEMAN, Mont. — Snowflake (NYSE: SNOW), the Data Cloud company, today released its Modern Marketing Data Stack 2023: How Data-Forward Marketers Are Redefining Strategies to Unify, Analyze, and Activate Data to Boost Revenue report.",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ai-and-machine-learning-usage-up-15-5-among-marketing-teams-snowflake-modern-marketing-data-stack-report-finds",
+      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ai-and-machine-learning-usage-up-15-5-among-marketing-teams-snowflake-modern-marketing-data-stack-report-finds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/09/bw20230914222851_snowflake_mmds_2023_leaders.jpeg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-private-ai-summit-with-senate-titans-of-tech-garners-controversy.md",
+      "title": "Private AI summit with Senate, titans of tech garners controversy",
+      "excerpt": "\"This is the room you pull together when your staffers want pictures with tech industry AI celebrities. It's not the room you'd assemble when you want to better understand what AI is, how (and for whom) it functions,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/zuckerberg_insight_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/amp/",
+      "publishedDateTime": "2023-09-14T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-2023-self-driving-truck-technology-market-size-restricted-information-analysis-forecast-2030.md",
       "title": "2023 | Self-Driving Truck Technology Market Size, Restricted Information Analysis Forecast 2030",
       "excerpt": "\"Self-Driving Truck Technology Market\" Size, Share, Growth Report 2023-2030 | | No. of pages: 98 Report which offers an in-depth analysis Grounded on Applications (Transport, Mining, Military ...",
@@ -1137,100 +1233,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-identity-theft-and-the-emergence-of-artificial-intelligence.md",
-      "title": "Identity theft and the emergence of artificial intelligence",
-      "excerpt": "As tech leaders Bill Gates, Elon Musk and Mark Zuckerberg meet in Washington D.C. to discuss the potential future of artificial intelligence, the tools utilizing AI are sweeping the world; but our",
-      "sourceUrl": null,
-      "webUrl": "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/",
-      "originalUrl": "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.khon2.com/wp-content/uploads/sites/8/2023/09/GettyImages-1239742765.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-09-14T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHON2",
-        "domain": "khon2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-neil-serebryany-creates-calypsoai-to-make-ai-more-secure.md",
-      "title": "Neil Serebryany Creates CalypsoAI To Make AI More Secure",
-      "excerpt": "Co-Founded in 2018 by the then 19-year-old Neil Serebryany, CalypsoAI provides a platform to create security protocols to secure AI model algorithms and data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucerogers/2023/09/14/neil-serebryany-creates-calypsoai-to-make-ai-more-secure/",
-      "originalUrl": "https://www.forbes.com/sites/brucerogers/2023/09/14/neil-serebryany-creates-calypsoai-to-make-ai-more-secure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65031ed4e9a948a49e3e675d/0x0.jpg?format=jpg&crop=1247,702,x0,y325,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2023/09/14/neil-serebryany-creates-calypsoai-to-make-ai-more-secure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2023/09/14/neil-serebryany-creates-calypsoai-to-make-ai-more-secure/amp/",
-      "publishedDateTime": "2023-09-14T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -34,29 +34,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 19
-  - title: "Autonomous Vehicles: The Promise and Perils of Self-Driving Car Technology Introduction"
-    excerpt: "Autonomous vehicles have emerged as a revolutionary force, promising a future where cars can navigate the roads without human intervention. This cutting-edge technology has the potential to transform the way we travel,"
-    publishedDateTime: 2023-10-23T00:20:00Z
-    webUrl: "https://techbullion.com/autonomous-vehicles-the-promise-and-perils-of-self-driving-car-technology-introduction/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 16
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/Autonomous-Vehicles-The-Promise-and-Perils-of-Self-Driving-Car-Technology-Introduction.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Arizona closely monitoring use of self-driving vehicles"
-    excerpt: "\"When needed to safeguard public safety, ADOT will make any needed adjustments to a company's ability to test and operate self-driving vehicles in Arizona,\" the department said. California on Tuesday ordered GM's Cruise unit to remove its driverless cars from state roads,"
-    publishedDateTime: 2023-10-25T17:54:00Z
-    webUrl: "https://www.aol.com/news/arizona-closely-monitoring-self-driving-175410320.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
 
 secured: "rwM2iHwGo6wq0avkfhHfUDzSd6JmkAYX8xCCRKuk+WiftAbCHcFGKICNMGtoY09z0gO6l2mtVuR1kCt6knd4sPIBNDCo6uh9ptw73h29NjyYFfsQaNkOiMfSI6qGxEQ/jBmjGyn8IBNmsQ6rkGOb9RERftZJmtZ64lbcVYvDrh4kUHCuj8plFR8yo10VCWIiAjpz4VXvQIfzHl777Akx7S5f3PF9nU1NpqJ2VCmwR1ZA7Ax5eEMN/Lqu0/qXbAnPGim5xwTI3GIkDMtSmK+O0+j+ONVOB5rGb3LBtb9I5DDOF+gGSZvNZjAW7A3f509Fd1/acqKO6X5M0D3xscOHvU813Y1tUbuzZi7SGQ8EKWmT8uVCP+zXRSG//AHb1t4DGGjUaNHSRUxsCGiTlxI0Nhtf1ubryxo2PjzUJnLJt1m28C2KhJKExt20hEDYh7woJd+m0Ys0z5dDJ6X0pNMqjpPQADp1N4aVPnmkjyCb/E55NS2BJbArmwGV+BkBkW1eWvvntCmSDpVEVaxZbj0HyQ==;IUKeeKNc9goGS3bwCvNN6A=="
 ---

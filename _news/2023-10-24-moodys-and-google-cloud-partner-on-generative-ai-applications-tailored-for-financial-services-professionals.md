@@ -312,6 +312,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "The Strange and Unique Ways You Can Use Generative AI"
+    excerpt: "Generative AI has become the talk of the year, be it in business, social, or even religious circles. And some uses are stranger than others."
+    publishedDateTime: 2023-10-26T07:48:00Z
+    webUrl: "https://www.techopedia.com/strange-and-unique-ways-you-can-use-generative-ai"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 19
   - title: "Shield AI announces multi-year agreement with Sentient Vision to offer AI-enabled real-time situational awareness"
     excerpt: "A groundbreaking AI technology collaboration between Shield AI, an American defence technology company building the world’s best AI pilot, and Sentient Vision Systems (Sentient), an"
     publishedDateTime: 2023-10-23T19:20:00Z

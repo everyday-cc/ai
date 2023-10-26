@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "IBM unveils AI-powered watsonx Code Assistant for streamlined enterprise development"
+    excerpt: "This product is said to cater to two specific enterprise use cases: IT Automation with watsonx Code Assistant for Red Hat Ansible Lightspeed and mainframe application modernisation with watsonx Code Assistant for Z."
+    publishedDateTime: 2023-10-26T09:18:00Z
+    webUrl: "https://www.cnbctv18.com/technology/ibm-unveils-ai-powered-watsonx-code-assistant-for-streamlined-enterprise-development-18157131.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/ibm-unveils-ai-powered-watsonx-code-assistant-for-streamlined-enterprise-development-18157131.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/ibm-unveils-ai-powered-watsonx-code-assistant-for-streamlined-enterprise-development-18157131.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 67
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/02/IBM-Source-Reuters-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
     excerpt: "Watsonx Code Assistant for Red Hat Ansible Lightspeed and watsonx Code Assistant for Z are now availableARMONK, N.Y., Oct. 26, 2023 /PRNewswire/"
     publishedDateTime: 2023-10-26T04:13:00Z

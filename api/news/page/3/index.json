@@ -2,6 +2,143 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-25-heres-one-important-skill-hr-should-focus-on-with-generative-ai.md",
+      "title": "Here’s One Important Skill HR Should Focus On With Generative AI",
+      "excerpt": "As AI increases in the workplace, 53 percent of workers say they’re more concerned about their jobs being replaced by robots than immigration and outsourcing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/amp/",
+      "publishedDateTime": "2023-10-24T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-ai-may-soon-weigh-in-on-regulation.md",
+      "title": "AI May Soon Weigh In on Regulation",
+      "excerpt": "How will agencies like the FCC deal with computer-generated public comments?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-may-soon-weigh-in-on-regulation-artificial-intelligence-agencies-public-comment-periods-766436ec",
+      "originalUrl": "https://www.wsj.com/articles/ai-may-soon-weigh-in-on-regulation-artificial-intelligence-agencies-public-comment-periods-766436ec",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-873788/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-metas-fair-team-releases-3-tools-for-robotics-researchers.md",
+      "title": "Meta’s FAIR team releases 3 tools for robotics researchers",
+      "excerpt": "The tools include a simulator, datasets, and an affordable technology stack that encompasses both hardware and software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/metas-fair-team-releases-3-tools-for-robotics-researchers/",
+      "originalUrl": "https://www.therobotreport.com/metas-fair-team-releases-3-tools-for-robotics-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-25-sanctuary-ai-named-on-times-best-inventions-of-2023-list.md",
       "title": "Sanctuary AI Named on TIME's Best Inventions of 2023 List",
       "excerpt": "The recognition is for Phoenix™, the only humanoid general-purpose robot on the list, and comes just weeks after being recognized as a LinkedIn",
@@ -946,40 +1083,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-24-ai-chip-startup-rebellions-in-talks-to-raise-us100-million.md",
-      "title": "AI chip startup rebellions in talks to raise US$100 million",
-      "excerpt": "REBELLIONS aims to raise about US$100 million from global investors to accelerate the development of a next-generation AI chip, banking on growing interest in the hardware needed to run artificial intelligence services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstimes.com.sg/startups-tech/ai-chip-startup-rebellions-talks-raise-us100-million",
-      "originalUrl": "https://www.businesstimes.com.sg/startups-tech/ai-chip-startup-rebellions-talks-raise-us100-million",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesstimes.com.sg/startups-tech/ai-chip-startup-rebellions-talks-raise-us100-million?amp",
-      "cdnAmpWebUrl": "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/startups-tech/ai-chip-startup-rebellions-talks-raise-us100-million?amp",
-      "publishedDateTime": "2023-10-24T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Times",
-        "domain": "businesstimes.com.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-10-24-most-effective-ways-to-enhance-your-business-with-ai.md",
       "title": "Most Effective Ways to Enhance Your Business with AI",
       "excerpt": "Exploring enhancement opportunities with the latest technology and AI makes sense. Not every business owner will know the most effective ways to use tech to their advantage, so it doesn't hurt to perform research. Many HR processes can be time-intensive.",
@@ -1040,7 +1143,7 @@
       "originalUrl": "https://www.ibm.com/blog/generative-ai-and-resilient-hybrid-cloud-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 339,
+      "heat": 349,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1114,108 +1217,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-oxolo-bags-13m-for-gen-ai-driven-video-platform-which-can-optimise-engagement-on-the-fly.md",
-      "title": "Oxolo bags €13M for Gen AI-driven video platform which can optimise engagement on the fly",
-      "excerpt": "Much has been made of AI-powered videos which can either make a real person speak different words or other languages, or generate a synthetic person which As a result of this rather magic approach, Oxolo has now raised a €13 million Series A funding round led by DN Capital.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/24/oxolo-bags-e13m-for-gen-ai-driven-video-platform-which-can-optimise-engagement-on-the-fly/",
-      "originalUrl": "https://techcrunch.com/2023/10/24/oxolo-bags-e13m-for-gen-ai-driven-video-platform-which-can-optimise-engagement-on-the-fly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/Oxolo-founders.jpg?w=678",
-          "width": 678,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/24/oxolo-bags-e13m-for-gen-ai-driven-video-platform-which-can-optimise-engagement-on-the-fly/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/24/oxolo-bags-e13m-for-gen-ai-driven-video-platform-which-can-optimise-engagement-on-the-fly/amp/",
-      "publishedDateTime": "2023-10-24T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-google-bard-ai-appears-to-be-censoring-israel-palestine-prompt-responses.md",
-      "title": "Google Bard AI appears to be censoring Israel-Palestine prompt responses",
-      "excerpt": "Bard won't respond to user queries or prompts about the ongoing crisis in Israel and Palestine over the October 7 Hamas terror attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/google-bard-ai-appears-to-be-censoring-israel-palestine-prompt-responses/",
-      "originalUrl": "https://venturebeat.com/ai/google-bard-ai-appears-to-be-censoring-israel-palestine-prompt-responses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-23-18.12.55-An-illustration-of-a-newspaper-in-16_9-aspect-ratio.-The-main-headlines-across-the-top-and-center-are-hidden-behind-large-black-bars-indicating-censo.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

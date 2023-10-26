@@ -341,6 +341,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Copilot is ready for takeoff: Microsoft rolls out artificial intelligence for Windows"
+    excerpt: "AI is coming to Windows environments — which can be a big asset when implemented correctly and a security nightmare when it’s not."
+    publishedDateTime: 2023-10-26T09:00:00Z
+    webUrl: "https://www.csoonline.com/article/657083/copilot-is-ready-for-takeoff-microsoft-rolls-out-artificial-intelligence-for-windows.html"
+    ampWebUrl: "https://www.csoonline.com/article/657083/copilot-is-ready-for-takeoff-microsoft-rolls-out-artificial-intelligence-for-windows.html/amp/"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/657083/copilot-is-ready-for-takeoff-microsoft-rolls-out-artificial-intelligence-for-windows.html/amp/"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 67
+    images:
+      - url: "https://www.csoonline.com/wp-content/uploads/2023/10/windows-copilot-icon-100941325-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 580
+        isCached: true
   - title: "Microsoft to Spend $3.2b in Australia as AI Regulation Looms"
     excerpt: "SYDNEY (Reuters) - Microsoft said it will spend A$5 billion ($3.2 billion) expanding its artificial intelligence (AI) and cloud computing abilities in Australia over two years as part of a wide-ranging effort that includes skills training and cyber security."
     publishedDateTime: 2023-10-23T13:05:00Z
@@ -642,7 +658,7 @@ related:
   - title: "Microsoft took a chance by igniting the AI race, but it seems to be working out well for the company"
     excerpt: "The lesson from Microsoft's strong AI-fueled quarterly financial results is likely to push other companies to charge ahead on AI products, for better or for worse."
     publishedDateTime: 2023-10-25T19:32:00Z
-    webUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html"
+    webUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html?ref=biztoc.com"
     type: article
     provider:
       name: AOL

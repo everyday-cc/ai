@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-05-fast-and-cost-effective-llama-2-fine-tuning-with-aws-trainium.md",
+      "title": "Fast and cost-effective LLaMA 2 fine-tuning with AWS Trainium",
+      "excerpt": "Large language models (LLMs) have captured the imagination and attention of developers, scientists, technologists, entrepreneurs, and executives across several industries. These models can be used for question answering, summarization, translation, and more in applications such as conversational agents",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fast-and-cost-effective-llama-2-fine-tuning-with-aws-trainium/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fast-and-cost-effective-llama-2-fine-tuning-with-aws-trainium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/05/fast-cost-effective-llama.jpg",
+          "width": 892,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T10:14:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-network-security-gurus-5-bets-on-azure-aws-and-cisco-splunk.md",
       "title": "Network Security Guru’s 5 Bets On Azure, AWS And Cisco-Splunk",
       "excerpt": "Microsoft Azure, AWS and Cisco’s acquisition of Splunk are big bets for Sentinel Technologies around increasing network security and services sales.",
@@ -1275,40 +1327,6 @@
       "provider": {
         "name": "Business Standard",
         "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-ds-smith-plc-ds-smith-selects-aws-as-its-preferred-cloud-provider-to-accelerate-digital-transformation-and-support-sustainable-solutions.md",
-      "title": "DS Smith plc: DS Smith selects AWS as its preferred cloud provider to accelerate digital transformation and support sustainable solutions",
-      "excerpt": "Leading sustainable packaging provider, DS Smith plc, today announced it has selected Amazon Web Services (AWS) as its preferred cloud provider to accelerate innovation, drive efficiencies, and suppor",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-09/60167956-ds-smith-plc-ds-smith-selects-aws-as-its-preferred-cloud-provider-to-accelerate-digital-transformation-and-support-sustainable-solutions-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-09/60167956-ds-smith-plc-ds-smith-selects-aws-as-its-preferred-cloud-provider-to-accelerate-digital-transformation-and-support-sustainable-solutions-004.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
         "images": null,
         "publishers": null,
         "authors": null

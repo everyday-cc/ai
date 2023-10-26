@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-25T22:38:00Z
 originalUrl: "https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/"
 webUrl: "https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI Ethics
   - AI
   - Google AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/6539900d34195a696cda346b/191:100/w_1280,c_limit/AI-biz-GettyImages-582780248.jpg"

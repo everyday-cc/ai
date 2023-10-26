@@ -24,28 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip startup rebellions in talks to raise US$100 million"
-    excerpt: "REBELLIONS aims to raise about US$100 million from global investors to accelerate the development of a next-generation AI chip, banking on growing interest in the hardware needed to run artificial intelligence services."
-    publishedDateTime: 2023-10-24T09:34:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/ai-chip-startup-rebellions-talks-raise-us100-million"
-    ampWebUrl: "https://www.businesstimes.com.sg/startups-tech/ai-chip-startup-rebellions-talks-raise-us100-million?amp"
-    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/startups-tech/ai-chip-startup-rebellions-talks-raise-us100-million?amp"
+  - title: "AI sees multibillion-dollar investment boom"
+    excerpt: "While tech startups weather a dip in funding, generative AI reaps rewards at companies from Meta to Microsoft"
+    publishedDateTime: 2023-10-26T08:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/26/ai-artificial-intelligence-investment-boom?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/26/ai-artificial-intelligence-investment-boom"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/26/ai-artificial-intelligence-investment-boom"
     type: article
     provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 54
-  - title: "AI Chip Startup Rebellions Is in Talks to Raise $100 Million"
-    excerpt: "Rebellions Inc. aims to raise about $100 million from global investors to accelerate the development of a next-generation AI chip, banking on growing interest in the hardware needed to run artificial intelligence services."
-    publishedDateTime: 2023-10-24T06:43:00Z
-    webUrl: "https://www.bnnbloomberg.ca/ai-chip-startup-rebellions-is-in-talks-to-raise-100-million-1.1988572"
-    ampWebUrl: "https://www.bnnbloomberg.ca/ai-chip-startup-rebellions-is-in-talks-to-raise-100-million-1.1988572.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/ai-chip-startup-rebellions-is-in-talks-to-raise-100-million-1.1988572.amp.html"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 54
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/7b765cf1c81886993722a68f6f1f48c77dd8145d/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=473c511ffbeb1b2dd9803b7244ee7ac9"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "RBquOLY12qVUDqzkFkSQNixacvhVfFHIjzjCsPVXP7RsPwSztMiHowUmHKqW78FeWBQ5kQO7RAZRTLXgTjDxTxXeP1gB4MiS/u1mVgtSiJ4Zsnj3B8827XrQFwGvtMGfDnh6mVJ/4GiKQLeCPX0cGFszROwcG5Tpj9Df2HkqrBbDXWrU6fJWDwhCzWfL5gA4hVac62y7ho09zvY3LBgk1CyqygQelrTxGahE3xCEjM+7EBh2dOzSdUeq3cMfqp6iOo09KIhZhWhAp2GcfvoBhZLIJ62OvqH2QnaqqIMg2TdAsp4c1shy/6w719GEYW2R2ypWolqay7WWfBVBfna7rWOL8hrBNGp0l/GNKONicSg1QWCfebmy/btHm6MKZp5bpleFyU8jB7wrhz9Bq8lZDdFuGORfb8tiHgVfHZ4iJVicuKF6p3ka4CG01R9yw2R3/fVTeq9yaH8OI4/b1h7yPKJV2egBw/pHUCoa11ODdTRSADGiUSKLSdQTmaOc7Qwb1JDtw4VgX4g/+HcvktE0hQ==;+CS4w/fT29Nz0yKwiT1x2Q=="
 ---

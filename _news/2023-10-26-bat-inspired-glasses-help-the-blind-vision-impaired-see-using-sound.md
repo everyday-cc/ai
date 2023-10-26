@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/technology/acoustic-touch-glasses-help-the-bl
 webUrl: "https://newatlas.com/technology/acoustic-touch-glasses-help-the-blind-vision-impaired-see-using-sound/"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:
@@ -44,6 +44,6 @@ related:
         height: 281
         isCached: true
 
-secured: "A2qE+pXdvDucCy2L3A9Ts17h7r7IOdfUYMKRT2KWUoYrypscal5yN83/H9c1Qvc6rzSR6797qlqUmsPlC50mSlaaqMG+bZzKRJiqfLRxHcZrOvuKXsQYKMpuWhRfwwBdCrsq9GoFylVqwijpOM+uY9lUZvFRbrlzHiKLNVMfREt+GzmghEgl/pDVHwcpMk8eVFe1WUehEBE9n/vdN4TjH5QYAwl1Uj8vpaePfGf6YWFG5pn1ZTA7IAOS44ehU1kTADu1CttmZzy4CQbfDBpp+ILoT7N3gwxFwxQ2Qi4cPbcN3VV3q5ZW7kc8VTcsBfC7nc50imEfXGWuxrZQFlKNRicoRa3GQssw5oqH0obPSb8=;FCHWK2HjG6nz4QIKsIMEpg=="
+secured: "Krcf6XBwxmSm8pFg7kq2l+/Q0HWLmwPz4E3cP63gMV956XBBmPo3JujATglEGV3h6Ey+2oA32dDc8r0a0tN1xsA04bCMGSKQj28VydouD78sxwnS2i+FSCIa5MIKGpPgSTqjwfY8Mv2QtJ+UW1mf34jlfDau4H4o9AOIIkiYa9Zkc0oxZBfLNhJoNrvJbA7w5i3MXsjGtVoo3j+k469hKGX7Eg58KIFNVO5SyNxNir5z7PykYTPs7IjuRXDJpeAoZCATI+Ro0XcO3vpzicy/yP4GaMGy+FHjysyTUULeJWfM+zqmpqIES7DCcWiucpIFwCZ4nBHUBKOdZKVjpeGufVYJXQogq6J9HIzGbledzAbVJ4DyB9g1mbQJZbn2kA6zHqBeWJE6jHWLKcalVcW6O3dNCOyyYAgESBugoe9TD83WH+edlwMgcrITCqF5kp22nNNc3GZs31mbyn4tXMNgmhDc/+zoMBKvApqD35Er2p51Smtml8kox4ShO/De6n/Utf10VzWNuaWgMZXxggsmqQ==;XUIlzLeqdmoCv+/sNLsoRw=="
 ---
 

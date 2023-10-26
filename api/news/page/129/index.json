@@ -2,6 +2,110 @@
   "page": 129,
   "value": [
     {
+      "path": "_news/2023-07-27-meta-rallies-as-ai-powered-ad-sales-drive-monster-forecast.md",
+      "title": "Meta rallies as AI-powered ad sales drive 'monster' forecast",
+      "excerpt": "Meta shares surged nearly 8% on Thursday as a rosy revenue forecast showed that artificial intelligence was helping the social media giant boost engagement and ad sales even in an uncertain economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/meta-rallies-ai-powered-ad-sales-drive-monster-forecast-2023-07-27/",
+      "originalUrl": "https://www.reuters.com/technology/meta-rallies-ai-powered-ad-sales-drive-monster-forecast-2023-07-27/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/QKGxuAo_1W3C9opZRPfdNE6gkEE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X3SJL6Z3BBLZFA52SP7F7SQ5O4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead.md",
+      "title": "Samsung extends cut in memory chip production, will focus on high-end AI chips instead",
+      "excerpt": "Samsung Electronics extends to cut back its memory chip production and double down on its high-performance chips used in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/",
+      "originalUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/20230228_145519.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/",
+      "publishedDateTime": "2023-07-27T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-3-autonomous-driving-stocks-to-buy-before-elon-musk-goes-all-in.md",
       "title": "3 Autonomous Driving Stocks to Buy Before Elon Musk Goes All In",
       "excerpt": "The article \" 3 Autonomous Driving Stocks to Buy Before Elon Musk Goes All In \" first appeared on MarketBeat.",
@@ -1091,110 +1195,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-use-stable-diffusion-xl-with-amazon-sagemaker-jumpstart-in-amazon-sagemaker-studio.md",
-      "title": "Use Stable Diffusion XL with Amazon SageMaker JumpStart in Amazon SageMaker Studio",
-      "excerpt": "Today we are excited to announce that Stable Diffusion XL 1.0 (SDXL 1.0) is available for customers through Amazon SageMaker JumpStart. SDXL 1.0 is the latest image generation model from Stability AI. SDXL 1.0 enhancements include native 1024-pixel image generation at a variety of aspect ratios. It’s",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-stable-diffusion-xl-with-amazon-sagemaker-jumpstart-in-amazon-sagemaker-studio/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-stable-diffusion-xl-with-amazon-sagemaker-jumpstart-in-amazon-sagemaker-studio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/ml-15160-image018-share.jpg",
-          "width": 894,
-          "height": 447,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T14:09:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-we-will-inevitably-lose-skills-to-ai-but-do-the-benefits-outweigh-the-risks.md",
-      "title": "We Will Inevitably Lose Skills to AI, But Do The Benefits Outweigh The Risks?",
-      "excerpt": "The concern arises from the idea that as AI becomes proficient in tasks such as language translation, content generation and even coding, these skills might gradually become obsolete for humans. Imagine the revered art of translation. It's a task that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/growing-a-business/we-will-inevitably-lose-skills-to-ai-but-do-the-benefits/456338",
-      "originalUrl": "https://www.entrepreneur.com/growing-a-business/we-will-inevitably-lose-skills-to-ai-but-do-the-benefits/456338",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1690304062-artificial-intelligence-risks-benefits-0723-g1394953811.jpg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

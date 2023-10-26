@@ -3,8 +3,8 @@ category: news
 title: "Microsoft took a chance by igniting the AI race, but it seems to be working out well for the company"
 excerpt: "The lesson from Microsoft's strong AI-fueled quarterly financial results is likely to push other companies to charge ahead on AI products, for better or for worse."
 publishedDateTime: 2023-10-25T19:32:00Z
-originalUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html"
-webUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html"
+originalUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html?ref=biztoc.com"
+webUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html?ref=biztoc.com"
 type: article
 quality: 39
 heat: -1
@@ -338,6 +338,22 @@ related:
       - url: "https://i.insider.com/6538e2fd96f7540cd064eae8?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Copilot is ready for takeoff: Microsoft rolls out artificial intelligence for Windows"
+    excerpt: "AI is coming to Windows environments — which can be a big asset when implemented correctly and a security nightmare when it’s not."
+    publishedDateTime: 2023-10-26T09:00:00Z
+    webUrl: "https://www.csoonline.com/article/657083/copilot-is-ready-for-takeoff-microsoft-rolls-out-artificial-intelligence-for-windows.html"
+    ampWebUrl: "https://www.csoonline.com/article/657083/copilot-is-ready-for-takeoff-microsoft-rolls-out-artificial-intelligence-for-windows.html/amp/"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/657083/copilot-is-ready-for-takeoff-microsoft-rolls-out-artificial-intelligence-for-windows.html/amp/"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 67
+    images:
+      - url: "https://www.csoonline.com/wp-content/uploads/2023/10/windows-copilot-icon-100941325-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 580
         isCached: true
   - title: "Microsoft to Spend $3.2b in Australia as AI Regulation Looms"
     excerpt: "SYDNEY (Reuters) - Microsoft said it will spend A$5 billion ($3.2 billion) expanding its artificial intelligence (AI) and cloud computing abilities in Australia over two years as part of a wide-ranging effort that includes skills training and cyber security."
@@ -741,6 +757,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "hzUobZoKRP8Qx+eNfLkAUlTUC4R/cunSQADvo8og72LwfKcW8tasEdzS2ZPbL5wlS1uJiXrk+nPcnu9q0gkdLeIORAd+wzhhT1ALUwTE6fGJhoaho+22PeW1/lxBrJzgx/hcSe8K03Yd8hAQzTyqgLzUddjk0bIF97aJ9DBMjJcmNA5MBQHfx0FU0cMG1iRyNekpn/Rg8Xcu/MS9qi/TmelRe8XxZb2yA41SVeETXmJ5DaVPZqR7k5RkjzSx+80QVmQcVujWO6CH/a4FQl9g41n18veOGlfAFIhAQ071U7RGreDlVyDAkt1CJxjhwzi2iwWY0e7qRvooU29zdW9nvYvX7BToO6FyWp4qAFxGdfk=;x8MDEZm9MrKMjXxpmPy7jA=="
+secured: "NAHlwwQBSPT3Av92LFvbklT5kbffT5VqP6MJFPZ3KSQGJxIUtihWtADNPxfdXDJPtMe2wB9yBKzCtoEVFYn+W9bB7coY1eYsAPfXJEmKQuTicjMV6peU2USrnPTpzpEkrr3JR7A0HW+f/99yLJ+dPvdzcJ0MUsi6Ww5NeoFWWAXdPlW3IaMrhN/KmlPr0JHeaMB/JYS0eehX4+ajXib36unnlAClQqxskHFjNIRnSVdlDY2xfE/OwB4fGjVWnP8pMWqN4ksdxeugntcq4rGLdbyAT4r30Si2jkZpXpVGYtQ0ILB3W4WK6+QwIOxyVGeJYOXA3Fe/P3/9MH6PBrFfn76ZbZxg+33rTH6hICFnhbE=;XVZDt/LSa4hC2YezR3ar3A=="
 ---
 
