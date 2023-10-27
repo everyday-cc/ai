@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Baidu unveils latest version of LLM, Ernie 4.0"
-excerpt: "Visitors learn about robot products suitable for home application at Baidu World 2023 in Beijing, on Oct 17, 2023. [Photo by Zhu Xingxin/chinadaily.com.cn]"
-publishedDateTime: 2023-10-17T06:45:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_6.html"
-webUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_6.html"
+excerpt: "Robin Li, co-founder and CEO of Baidu, unveils the latest version of its large language model, Ernie 4.0 at Baidu World 2023 in Beijing, on Oct 17, 2023. [Photo by Zhu Xingxin/chinadaily.com.cn]"
+publishedDateTime: 2023-10-17T05:55:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_3.html"
+webUrl: "https://www.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_3.html"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://img2.chinadaily.com.cn/images/202310/17/652e535da3109068cafe46a2.png"
-    width: 564
-    height: 376
-    isCached: true
-
-secured: "9RfKJd3mEM79D1cj7nPDDba+rzfL0EZs1/xun7yRnRHThXO79HyXXCmPmz8FHxRljafsUCKK16olOj8ggISQw2XouiWaXk/6yQr5mrYUjjJ4GSnoe44/vMysrVInBkgRbkGfOoo3AOnKs+EVpYRV8WENBnR1koiMTDxuELzHUHA4HSu/OLC+swP7W9wdk8fDOC+iyarqd/eZIlWDytvd0e2zRK/Gvbw2GpigxhVHfSHYExvgpe7w9tu0tGOt2NrpMjq68wuQ+Zba7bzBB4/9pOUMmw/0rQb9ByonJoYS9CkmFTrUzePqqHs0Es6Y2XCr0KmGDXNku/+3b688qwl7jqA+PFa+st75qLPKtk2Nndk=;Ahw3/st1e+CY60BRkfcHJA=="
+secured: "WjRr9dwW5X6aIZmVmeuNlPv1L4sGFntBXc1NqbqaAfPYqyGAVb8O3JM2UjJJMAhz1A++ttGSSgMzBZwhZ/tHstUlIXbrvgdcaSpmRACkiFw5vw1IrSmvSOLLfwwpAXwuPZy/NiQbO0G5KqWI7TEDmFvist1mdCxuXLbjbfipQ/8creZYNPAKFa9XakNolKbgV/8ZcZPTNI5mB4Gbe5q4oHxULAlXiQjJ3tlTeZrvhJUEJ5SD6cwtGjruBO4IsxdnDdt2SRl2afgjQlxONS1ECwTXCtKlqVEKwB0DIXxIZcdETkR6O8EE2mEKvEdJLj9PMrBrQlE5+BrZG0rgj4auU1YaGAl+xOmGm8e1r2zSIws=;iQdaCgbh51UpCGa59LlgcQ=="
 ---
 

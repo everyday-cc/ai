@@ -15,12 +15,6 @@ topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://www.enca.com/sites/default/files/styles/large/public/afp/2023-10/doc-33YM76N-%40photo0.jpg.webp?itok=tKoF250w"
-    width: 480
-    height: 319
-    isCached: true
-
-secured: "/qsZjdBNgoS8a/NmD1aYb/nAJGY/Mc3nLs0xiNerRTXlOwAUXbQZtbVmPeyGCIWMaaSpyNZcxJTGCtrFJJXW22dlYFxfm/Gb7C5LdUrU7Jga6hJLmvE+RDfGMaU1Bc7NFuaFG7lm6xFH+A6PrGiux1KDpGJI6GcBFBaEX41MVHcFzdDQWlt5kflsV8T7U3ny1dQATNwsp+PShzkmROvhKP4DbfpAJY5kI+mc97tlRcOCc0D9t/2bUapM0kRY8ESyX91/VB4z48fijzyqsdm9lweFRTz94un7SlDzkqto1LuVMolgCpasfsK3LYbUVP1tBSscWkjGuaDHyu0kQFK+9mj1P07p1V1hS0u9/AcR+/k=;oWBw/88AiTk3M57vnEIQdg=="
+secured: "ENd6ZB7EwV2acXp2xcbljIHqUaWRPFeL+cNeoydzPcLapNsxm7v+LHHbHzVNUpD08ixe2Ys9cISqcn89iXRE2jb0CPt9sg7omgAswpAmI1OMhOinOgnUJh6DIb/l3fdqoW3+Z2g4rLHPTI95d2OMe3ARLkgCPFc64Ze3ZHk9YhhHgsvmm5pAT1DPEW4P9d5JIh/0yC+TbE0/IlJzQ90NbOfN3rt3jIS6RG3yJc09rI38Hi/0O7p1sgYdbLK9BePUKjv818hsRFA7Dh605yty/LGZfnsVNpojnakJXo+o+dEZiys3n/3XML2RPN0QJzlmYaFL9kcMNdRdkh+AP2qj0d/a8tiiIJE7hXpsnKbqaEo=;8rJCsIhHNjaEBG53clSs1g=="
 ---
 

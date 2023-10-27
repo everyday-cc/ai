@@ -5,12 +5,7 @@ excerpt: "The media company Gannett denied that it published material created by
 publishedDateTime: 2023-10-26T23:09:00Z
 originalUrl: "https://abcnews.go.com/Business/wireStory/gannett-denies-marketing-partner-artificial-intelligence-shopping-website-104393509"
 webUrl: "https://abcnews.go.com/Business/wireStory/gannett-denies-marketing-partner-artificial-intelligence-shopping-website-104393509"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/gannett-denies-marketing-partner-artificial-intelligence-shopping-website-104393509"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/gannett-denies-marketing-partner-artificial-intelligence-shopping-website-104393509"
 type: article
-quality: 62
-heat: 62
-published: false
 
 provider:
   name: ABC
@@ -20,12 +15,6 @@ topics:
   - AI
   - AI in Marketing
 
-images:
-  - url: "https://s.abcnews.com/images/Business/wirestory_4fe6da583217293f8fa2bd5d0b74d285_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
-secured: "nA3iqhn7Rl36+fdo1xW19YRoqGaP5VbD8H8gsPHkdjFeRAWMxHSXbf5tPLJpzpruAaFIOATpDoNPhGtL4zoouPWfT15losq+XvKJAH8uOcChJyAN/Qw3McS6Rmj5tFFDP0UEB+RUi+7Omj2aVo3VvWRSJiC67OIqFU8sPdZcMOlt/wVDVNR3ca2KetNpn182TEH1aBgt30pGp8rJsKc5IIM2bL4YVvEFi/1hAl/rxBt5zIF0RWoMevD/udCuwAddkuP0KFN6/N7cWlE25AGJfEIhBR1xvbuYxszIssYfPevBhusitmotiLojFXgt3Y+ChBCOTnFSVjTcXge2XpibHzeYbpUvOOeVjN25yk0fdJe5hV1cw7/mkT3CSiwlttkmzcmkg1VGTBYq9IAYW32uMrEel+VsR7AaDXdmDwT1NYiMWXP3WIsFyTrl+2NU4CRtqzwWqedRGPMTExUwYPogOqjBeH3Us+mTPYpQ97WVxfD2ofK/rzULsUvuKKnPW3utuxJ67pdQ/4/ZMzF7OZ/HRw==;atbp0KUlKUXrLAc//0vQLw=="
+secured: "16lEYJDUyVEDAB5gq2O8Ctb2ev+tg1T4rj2OiOKgzgx/IN+5O4w+CDvoeMVymFP3/BdPHDf5viBbkRpOO8yS28RbrYkcfWmL3lfZKj/Nld4uiYUAUM9Sjqn85EqilfotgoHWJc/vtINyx6QCDvhIbOj1pkKgz5mGHMYFRXv9eXoHySXZr9HgMn4PbrAGekfJmdQmDnNMkY1yQxeTgllulYkEBb5mRQG/9IeS76uY2bTB00o3t1PxPkYwDyCoHya75WPkgJfuL6IZBGfoxnIYCbFwmqZWU1RTDaACIA1wlusvOCA2bGny8xKhlIpyijjWeeW0lUTAYQPtLASW1X+hvUHr6wtpM2U4eay1R13u9i7twYrlxIHfWRvi3OkJSV5vgC+bP+uO6Kos8JUi91qn2yfU4bokVWpKs8BKHEEPSxr/OJMkQRvWLO+dX/IJpio7Ndt5B7gH3Lofa9oAY3hQ2zMOK5+heTdbMUMhJP2Z//MSyNN72zJiYgf6uYAeYRPqhBUm+FB6kCfCI1gSaeiJnQ==;T08HznuuDU75/ArcOvsW+g=="
 ---
 

@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15723_926.jpg"

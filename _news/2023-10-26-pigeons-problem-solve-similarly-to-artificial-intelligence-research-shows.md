@@ -2,13 +2,10 @@
 category: news
 title: "Pigeons problem-solve similarly to artificial intelligence, research shows"
 excerpt: "The intelligent birds, thought to be a nuisance by some, learn from consequences and can recognize resemblance between objects"
-publishedDateTime: 2023-10-26T16:06:00Z
-originalUrl: "https://www.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning?ref=upstract.com"
-webUrl: "https://www.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning?ref=upstract.com"
+publishedDateTime: 2023-10-26T15:06:00Z
+originalUrl: "https://www.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning?ref=astrofeather.com"
+webUrl: "https://www.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning?ref=astrofeather.com"
 type: article
-quality: 15
-heat: -1
-published: false
 
 provider:
   name: The Guardian
@@ -21,22 +18,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "UK summit scales back global AI research ambitions, leaked document shows"
-    excerpt: "Countries attending the summit will agree to look further into the risks of powerful AI, but could do so using existing institutions."
-    publishedDateTime: 2023-10-26T02:32:00Z
-    webUrl: "https://www.politico.eu/article/document-uk-summit-scales-back-global-ai-research-ambitions/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 38
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/10/25/GettyImages-1258631814.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "BF0sI5sqPLuVbw9X0fmrzMVGzA0Vj5SEiTlPQQXyFApigC/Ff78YH9FikOweY1bVrhrH15A9x/1eKTX5YbK1ciShVJECBRvCf9jTv7txWoMQCergZ4i3LWTlhsEMALY454t4SNcgNPOCDbIAoPW6maPjcA7kPhw5mZBTYl6BF59i91yNRXbzJWi9wAxfTtT6olZrzZGKss9HB/agIz8zAd03sUhneaeQ4+OK4yRIKga8ZiO96d0PF+Q5oQEiLT5ecS0lm869DPVADmMigVq8ZGuUXf6lWZ5aGuSSZG2OGgiQtejLTz00zcCIKPr2tP2QXCUqIi5oiLocL3rSJF72BX48pAOR9QShrxqyRV3SOpRT8LUinuWSEbQDKa5YW/RTkPSTk8PJM939hla92FVW4sMMUMrjdKbF2prgvJM6qbp+bQj4pxWSK+ouRPYoTzXPFvfYoo2IeX2XaSrpB7XXIbgDOhILnJpuNt4Z4KCPkSTAb8A54Z23S7jsQwbl1pozDlxwBCISrw5fCaZB2ZnteA==;1jnuuMdB+A0ScichdZqLGA=="
+secured: "fM+Toa91PcinqUmS9piwkizJ3fCZEaJaHFp8+lubkIY4Jz9PghkmzQ/QLkJhjSVgZRsvL4BKRKA6tiX30N/wSqiJv1pQH9/IGrFL0OY4hxDQ9+5Q+gOZeL585bKb0PDDYToES1evfv2B1qot1B8lo150z0yO4LRQexdGmSo8Etk8vS9Tl2QSuuwAU45NvSAqT7R1oP8L33qLUNpBxuK2MvfqWaTdOJle7oHJLdME8YVasVqEGI8L5OAVpijq89eLwCyJ7qbKGR0BxPWgAk1fZMOucwW1S6SB11PWfbGkq2AtypqEPYT+/lhyYGX6cN7FYEVs2fVFXWy/hj7osgp9rWE/vTzI6VyTuihwOQcmn9ZWSEZCjEZrlLOk+i3668OTTTUvIInkMrjGaXJS/r2DwWFGIf+UqsSkTyzoBgZUxO+srOqGPlhBZ8SIFmym/7VIl1RntppSiVNGdEk2FhV5Ev6PJZ61S/8DxTUr30SWYoT8nxww40LvlpXD0vIizt66/TY5vcyudD4BhKWXshY2PA==;vqXIrrt4lDH08mLMDTsh8g=="
 ---
 

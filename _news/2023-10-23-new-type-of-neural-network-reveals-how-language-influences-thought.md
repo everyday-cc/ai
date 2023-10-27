@@ -1,14 +1,11 @@
 ---
 category: news
 title: "New Type of Neural Network Reveals How Language Influences Thought"
-excerpt: "The influence of language on human thinking could be stronger than previously assumed this is the result of a new study. Researchers examined the modeling of human concept formation and the impact of language mechanisms on the emergence of concepts."
-publishedDateTime: 2023-10-23T09:01:00Z
-originalUrl: "https://www.technologynetworks.com/tn/news/new-type-of-neural-network-reveals-how-language-influences-thought-380166"
-webUrl: "https://www.technologynetworks.com/tn/news/new-type-of-neural-network-reveals-how-language-influences-thought-380166"
+excerpt: "However, classic artificial neural networks are not sufficient because the structure and function of these networks are often dissimilar to the anatomy and physiology of real brains. Therefore, Pulvermüller and his research team are developing a new type ..."
+publishedDateTime: 2023-10-23T09:03:00Z
+originalUrl: "https://www.technologynetworks.com/neuroscience/news/new-type-of-neural-network-reveals-how-language-influences-thought-380166"
+webUrl: "https://www.technologynetworks.com/neuroscience/news/new-type-of-neural-network-reveals-how-language-influences-thought-380166"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: technologynetworks
@@ -18,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://assets.technologynetworks.com/production/dynamic/images/content/380166/new-type-of-neural-network-reveals-how-language-influences-thought-380166-640x360.jpg?cb=20231023"
-    width: 640
-    height: 360
-    isCached: true
-
-secured: "+mOzXdrBtqCvIPqeEhFJjzlkd5BJbNvXrit6BhkkjsaRNd4H0YAob6AmIZ+/A9zlztHe92A4Ge3ZLzuuyTC3p+8Jo4DYmft0RyvVRmrgND/tp+yatuRw7bEIG/TDzLfbWzmffdqewDRVJyMXuht2PRCaTnswyq1vJvE0aa24a49/u9FGVVxxpeXDiKXB9KqoTrPKl+j/Nzw0+TP2kzYvXXfQH6ddL2wua6+mliJ2BKIBaJhA341Ka8rQxkX82CxSCwk9tHlG+xd9wHM5xUJVsevZtNICmbngzPZR7M/TLbO0ZkTSs+O46xL03X0nwURPBBSEuGNbsc77rKGRbceGNHw8/dxD2Uz6JVwis8gSn5E2MN7okWaPgfUhE2+OZdgyUvKX1zAwmc6x07aul3sa+sqCQzq0AW4h7gUxvyDqp1rsEAc8kgZHjcGUTMyE2Vawuyfq2dB5bhu+9iEDixsC9rQ/hznY74PcWFTJi6lB9VHBYNOXWz6HsYfLJ5D4Sv6C1/I1yrtwASRDWcw6X+Hwsw==;mkv0pzgIQ8ijteh8wdglig=="
+secured: "BS8oPgyqYLWqcmlE1VJw1eJVuSfajJVCTjCWnDnXQ+H1xIU/3+EiLCJhVU2yiK/APLr3Y9nlLWrHTfc5Mg0/1cvy0LxExuV5TjSqoElYotFERUU9JK8OL6FXsa7bLctoGgQE4pxmYG+emMP/ysa5/iWx5wxLPbUL8zOzSSNdgrV9Q1yu2Bn8zA3bmbO4e5bO8qaiaPKag57f1MdTs2tEf7Wgd12N9kWuFNLlOvLWbR45ZSy5U/1vXjOvWlnQ3xiYXISXU8KtbzmnNXU5R/a/nTy9vudgOp1dwu+bjd5bdP3flj8arSzwBF586F34GyO/ctY8GdiB3EMzGbdSZhtAcIdSDm59o11BV9wer9xgd/Ud36v5t/ClZB0buqhCYqPjFjY2DV+ihdUZ8yghv3opcafvxzRs+Y7tKK5IEWIKtlafCP50mlZyPdSrtsUpUiJHXCcmEBzXvbsV+jbEuSbIb79FjnCNgWxXK6rDi62Wb+Y8ftrweHxY1MHiq8DLim6+1xtQ2b3dCub8DYz5komgMw==;leNMAHP42VATb+8hBUdCZg=="
 ---
 
