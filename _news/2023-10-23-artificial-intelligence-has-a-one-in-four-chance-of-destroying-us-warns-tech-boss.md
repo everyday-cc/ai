@@ -41,6 +41,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "The Future of Machine Learning: A New Breakthrough Technique"
+    excerpt: "Research shows new promise for “compositional generalization” Humans innately understand how to relate concepts; once they learn the notion of \"skip,\" they instantly grasp what \"skip twice around the room\" or \"skip with your hands up\" entails."
+    publishedDateTime: 2023-10-27T10:35:00Z
+    webUrl: "https://scitechdaily.com/the-future-of-machine-learning-a-new-breakthrough-technique/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 19
 
 secured: "L1rwsk8KnkOA+jpO0PWtBbDmKcIMGRCcaSvgjAbYdt3qaYTXkMDZHFymA8ZkkSdhomhw8p1yd+/007D4yQ3Bns0WvR0YdNbuLqWWlf+nnvdrCRD7q95+jjXKq5Elx317EhWe/jjRWkt9dPTXanlHa9L5kBG4dEuRheqZ+PocbO0iOBTlbRJDb0zf5ydLcOvDSl8R2K5useXL5AbPhFmQztcPFChXuBuamQzzCrxBjayMbCx6N7ESXDTXQqIgQvgaPfILeLrQ8KjGiXyZjau3c5g2+P0ZQB93d3DWVrwq061SWRlv6ZQFx03FrW9omdZy6Y18Zu94cXIN9VXml237L6ej0NpLb67tMATfDUgNuZg=;YeqvoqDLiCtzbVa8/fGstw=="
 ---

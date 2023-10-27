@@ -35,6 +35,22 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "AI And The Future Of Work: Adapting To A Changing Landscape"
+    excerpt: "Nvidia, a leading technology company, recently announced a significant increase in earnings, with their revenue doubling due to the high demand for its AI chips that power new machine learning applications;"
+    publishedDateTime: 2023-10-27T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6307744cdf865cb5591b5fd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Building a full-stack robotics company in the age of large AI models"
     excerpt: "Electric Sheep Robotics' Nag Murty dives into some of the challenges startups face when looking to scale their operations."
     publishedDateTime: 2023-10-26T17:15:00Z
@@ -61,7 +77,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 56
+    quality: 73
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/10/3d-ics-in-emerging-technologies-consumer-electronics-ml-ai-featured-1280x720-1-1000x600.jpg"
         width: 1000

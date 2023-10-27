@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/people-revolutionizing-customer-expe
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10?amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "John Chambers, AI & innovation: Going one-on-one with a tech legend"
+    excerpt: "Is artificial intelligence the future? I could not think of a better person to share insights on this topic than John Chambers who led Cisco from $20 million to $47 billon in 20 years and acquired 180 companies along the way."
+    publishedDateTime: 2023-10-27T11:04:00Z
+    webUrl: "https://wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/"
+    ampWebUrl: "https://wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/11/unnamed-3-e1584727177725.jpg"
+        width: 2815
+        height: 1585
+        isCached: true
   - title: "How Gen AI Empowers Human Innovation In The Chemical Industry"
     excerpt: "Chemical industry leaders are exploring how this technology can transform product discovery, supply chain management, demand planning and customer centricity."
     publishedDateTime: 2023-10-24T12:59:00Z

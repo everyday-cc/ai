@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/godfathers-of-ai-have-a-new-warning-get
 webUrl: "https://www.pcmag.com/news/godfathers-of-ai-have-a-new-warning-get-a-handle-on-the-tech-before-its"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Future of Machine Learning: A New Breakthrough Technique"
+    excerpt: "Research shows new promise for “compositional generalization” Humans innately understand how to relate concepts; once they learn the notion of \"skip,\" they instantly grasp what \"skip twice around the room\" or \"skip with your hands up\" entails."
+    publishedDateTime: 2023-10-27T10:35:00Z
+    webUrl: "https://scitechdaily.com/the-future-of-machine-learning-a-new-breakthrough-technique/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 19
 
 secured: "mGbjFSZm7kwmMAiA4sO8Kj27wu7AAlmvjuKrlj+ghLHXf3qZoIuSiFWUf80F7rnmr08qga5NbTtBgCNm5i8flzkIqWHv9N2esLK6aiz97FOuGWStIXjgyNqDdUaQtGKMLmrh9ImyubEbzxz5TwgCIhuZdCfpG1W5KjDsTiV0n/44mWY6QmHbOrwPTWyeSRnFOqL/qElAl8yx9Got7Mn+i9pDufNUnW0cI87yykI+LBD6IcT8n2DMEU5jLgOhM1MK1GhrlgttcTzGsEAF2+qXMFrMcHtqUFMa7joZ/BFyIn9SoqpxU79bel0XgQYqOEfC3g8/VmMfGqoya5OWeJrALzPfIv5fVhefkhg08aZfGAE=;CDNlkT+VedmLwMUe2TABzg=="
 ---

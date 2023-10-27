@@ -37,6 +37,22 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "AI And The Future Of Work: Adapting To A Changing Landscape"
+    excerpt: "Nvidia, a leading technology company, recently announced a significant increase in earnings, with their revenue doubling due to the high demand for its AI chips that power new machine learning applications;"
+    publishedDateTime: 2023-10-27T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6307744cdf865cb5591b5fd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Building a full-stack robotics company in the age of large AI models"
     excerpt: "Electric Sheep Robotics' Nag Murty dives into some of the challenges startups face when looking to scale their operations."
     publishedDateTime: 2023-10-26T17:15:00Z
@@ -46,6 +62,20 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 79
+  - title: "IC Chips in AI and Machine Learning: Defining the Future of Electronics"
+    excerpt: "Just by looking at the current trends, artificial intelligence, and machine learning are poised to be the drivers of the next generation of technology. This statement is not far-fetched anymore as in recent years,"
+    publishedDateTime: 2023-10-27T09:52:00Z
+    webUrl: "https://techbullion.com/ic-chips-in-ai-and-machine-learning-defining-the-future-of-electronics/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 73
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/3d-ics-in-emerging-technologies-consumer-electronics-ml-ai-featured-1280x720-1-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Venture initiative extended to robotics and AI"
     excerpt: "A venture funding initiative at Edinburgh University has been expanded into robotics and artificial intelligence and has developed a partnership with the National Robotarium at Heriot-Watt."
     publishedDateTime: 2023-10-23T22:01:00Z
@@ -57,20 +87,6 @@ related:
       name: dailybusinessgroup
       domain: dailybusinessgroup.co.uk
     quality: 69
-  - title: "IC Chips in AI and Machine Learning: Defining the Future of Electronics"
-    excerpt: "Just by looking at the current trends, artificial intelligence, and machine learning are poised to be the drivers of the next generation of technology. This statement is not far-fetched anymore as in recent years,"
-    publishedDateTime: 2023-10-27T09:52:00Z
-    webUrl: "https://techbullion.com/ic-chips-in-ai-and-machine-learning-defining-the-future-of-electronics/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 56
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/3d-ics-in-emerging-technologies-consumer-electronics-ml-ai-featured-1280x720-1-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Artificial intelligence predicts the future of artificial intelligence research"
     excerpt: "It has become nearly impossible for human researchers to keep track of the overwhelming abundance of scientific publications in the field of artificial intelligence and to stay up-to-date with advances."
     publishedDateTime: 2023-10-23T13:53:00Z

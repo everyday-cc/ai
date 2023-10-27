@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "John Chambers, AI & innovation: Going one-on-one with a tech legend"
+    excerpt: "Is artificial intelligence the future? I could not think of a better person to share insights on this topic than John Chambers who led Cisco from $20 million to $47 billon in 20 years and acquired 180 companies along the way."
+    publishedDateTime: 2023-10-27T11:04:00Z
+    webUrl: "https://wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/"
+    ampWebUrl: "https://wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/11/unnamed-3-e1584727177725.jpg"
+        width: 2815
+        height: 1585
+        isCached: true
   - title: "Innovating with responsibility: How customers and partners are bridging data, AI and trust with the Microsoft Cloud"
     excerpt: "For the past decade, we have been on a journey with our customers to help them achieve digital transformation, which is business transformation empowered by cloud technology. With increasing excitement around generative AI — both for its potential and the impact it is already having — organizational leaders are eager to prioritize adoption that"
     publishedDateTime: 2023-10-23T13:00:00Z

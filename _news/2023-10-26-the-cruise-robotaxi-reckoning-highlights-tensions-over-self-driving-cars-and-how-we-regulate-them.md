@@ -65,6 +65,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 32
+  - title: "1 year of Twitter under Musk, Cruise pulls all self-driving cars"
+    excerpt: "Elon Musk wrote of buying Twitter that he “didn’t do it because it would be easy”. That's one of the few certainties about his ownership"
+    publishedDateTime: 2023-10-27T10:55:00Z
+    webUrl: "https://www.techdigest.tv/2023/10/1-year-of-twitter-under-musk-cruise-pulls-all-self-driving-cars.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 24
+    images:
+      - url: "https://www.techdigest.tv/wp-content/uploads/2023/10/slt-update-apr-2023-hero-test1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Self-driving operator Cruise's operations in AZ unaffected, despite CA permit suspension"
     excerpt: "The company's driverless permits were suspended in California, but the move does not affect Arizona operations."
     publishedDateTime: 2023-10-26T20:19:00Z

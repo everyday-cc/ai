@@ -135,6 +135,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "The Standard View: The Met's use of facial recognition technology fights crime and raises hackles"
+    excerpt: "Facial recognition technology — indeed any form of artificial intelligence — has a habit of raising hackles. Its use by police, even to prevent crime and protect people from harm, is no different. But should it be? The Standard reveals today that the ..."
+    publishedDateTime: 2023-10-27T11:05:00Z
+    webUrl: "https://www.standard.co.uk/comment/metropolitan-police-facial-recognition-technology-arsenal-tottenham-b1116393.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 41
+    images:
+      - url: "https://static.standard.co.uk/2023/10/27/10/01/BARRY%20DOWNARD%20SECURITY.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Essex police use intrusive facial recognition for first time"
     excerpt: "LIVE facial recognition was introduced in Essex for the first time this week as police across Britain ramp up use of the intrusive technology. Southend officers carried out targeted operations with the camera system on Tuesday, while Chelmsford police followed suit today."
     publishedDateTime: 2023-10-25T16:16:00Z

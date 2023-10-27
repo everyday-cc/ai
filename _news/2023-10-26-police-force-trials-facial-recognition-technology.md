@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/articles/c51jzy42p19o.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/c51jzy42p19o.amp"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/f591462e6065a76b1337826ff063af5b2b490c82/0_0_3186_1912/master/3186.jpg?width=620&quality=85&auto=format&fit=max&s=43d6ac665c02d55854e5ff650b15dac8"
         width: 620
         height: 372
+        isCached: true
+  - title: "The Standard View: The Met's use of facial recognition technology fights crime and raises hackles"
+    excerpt: "Facial recognition technology — indeed any form of artificial intelligence — has a habit of raising hackles. Its use by police, even to prevent crime and protect people from harm, is no different. But should it be? The Standard reveals today that the ..."
+    publishedDateTime: 2023-10-27T11:05:00Z
+    webUrl: "https://www.standard.co.uk/comment/metropolitan-police-facial-recognition-technology-arsenal-tottenham-b1116393.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 41
+    images:
+      - url: "https://static.standard.co.uk/2023/10/27/10/01/BARRY%20DOWNARD%20SECURITY.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 801
         isCached: true
   - title: "Essex police use intrusive facial recognition for first time"
     excerpt: "LIVE facial recognition was introduced in Essex for the first time this week as police across Britain ramp up use of the intrusive technology. Southend officers carried out targeted operations with the camera system on Tuesday, while Chelmsford police followed suit today."

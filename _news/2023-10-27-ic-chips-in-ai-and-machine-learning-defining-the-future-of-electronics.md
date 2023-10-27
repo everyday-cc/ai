@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-27T09:52:00Z
 originalUrl: "https://techbullion.com/ic-chips-in-ai-and-machine-learning-defining-the-future-of-electronics/"
 webUrl: "https://techbullion.com/ic-chips-in-ai-and-machine-learning-defining-the-future-of-electronics/"
 type: article
-quality: 56
+quality: 73
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - Machine Learning
+  - AI Hardware
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/10/3d-ics-in-emerging-technologies-consumer-electronics-ml-ai-featured-1280x720-1-1000x600.jpg"
@@ -39,6 +40,22 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2023/10/kate-darling-marc-raibert.jpg"
         width: 770
         height: 500
+        isCached: true
+  - title: "AI And The Future Of Work: Adapting To A Changing Landscape"
+    excerpt: "Nvidia, a leading technology company, recently announced a significant increase in earnings, with their revenue doubling due to the high demand for its AI chips that power new machine learning applications;"
+    publishedDateTime: 2023-10-27T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6307744cdf865cb5591b5fd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Building a full-stack robotics company in the age of large AI models"
     excerpt: "Electric Sheep Robotics' Nag Murty dives into some of the challenges startups face when looking to scale their operations."
@@ -145,6 +162,6 @@ related:
       domain: techbullion.com
     quality: 6
 
-secured: "1a8SK5IvGPlzBI6HUdKb9FYr6vvSdyQCPBWYtT8WOcGv/lxPeUalEzcg11oTjjIT0Abfl2EbCIp0WwCs7oeEPjIgFR/MWJlXjfdnLBESXJzI4nStnnxALRE7nTIol4nm0hrjX9m4ep2/3yxZWw7n3CmEwR0uXmF9T/0jI37MHu6mr88RSfz+KxDLHUyQdVFTG0aiLzBGDThEVaKD4TGfsJNyVJTWoFxLl56C8uNDeti6I5INAdBrHvkfXYj8vMgBoQVkhEwc72q4ot23qaNWLYVQ75TC4p2oWggU7LDFghSCTDXUVYZnnw+stOCZf8gMID4QL31rrZCVqHwYJo7e5XC9kELNjJ4xz8sa1lMTMNw=;XJ9fv8auPlgviSIolfFqng=="
+secured: "HlJvcJ3oBntlc5qOdmJ32D6ex3vdcH6dlbsENbHJRyn27ZI8+2+bdPNYI+DGZCf9nqL5m/HWP6rD+oJWymAP1t2XB9Mpz+Y7do+bTrC9cSwZMB4hnpvhYn/FKvEZxv8gNWU/2gnWFqY4gxNmkrFOsp15qu9zxqOMZ1WCvXTGu4g89yDexWaoH4ZpoYdmddqRu1HMsvl/yi4FUPSBVkiWS/qDMvC3S56Hw1aETrrkYHAnFQFxgAZXCHxAmomOcDOKf/1lUJEBgUftaqBpd0P585sDE/GY/djrfEsFK6tyZvKnNBlxVkOe+ClOeC3LpfgLqmaKZ7PqVNvuvRE31I/zSXaQFQpG/A5x9AyjISU3GrCLG5bAdTKkWRxUXbdq+vpd+ysuf1Gk27G9dBvp4fOL6GVOIY3IEsFHxlcOzcRmBueeG9hlAo9crXAjIjjmMIf63ezOdO7AiuepN7hyTZdKXdu0ocaNZ/tJccmEWWBAcgieO3rayjireBm0447m8ZLsmSXkipvaaNmBLQJyypqVRA==;s8AJNnE7rSgkvU5/UeiNwg=="
 ---
 

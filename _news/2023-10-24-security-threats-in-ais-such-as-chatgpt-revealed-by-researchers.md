@@ -7,8 +7,8 @@ originalUrl: "https://www.sheffield.ac.uk/news/security-threats-ais-such-chatgpt
 webUrl: "https://www.sheffield.ac.uk/news/security-threats-ais-such-chatgpt-revealed-researchers"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: University of Sheffield
@@ -35,15 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 23
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "Powered by AI models trained on troves of text pulled from the internet, chatbots such as ChatGPT and Google’s Bard responded to the researchers’ questions with a range of mis"
-    publishedDateTime: 2023-10-22T17:12:00Z
-    webUrl: "https://thegrio.com/2023/10/22/ai-chatbots-risk-spreading-racist-ideas-about-health/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 5
 
 secured: "x/2ULTE+CFeB77G2kwddzr2pZAOY9Y94XYQ6e0MrVtmQWq2DokO1zL7peuS74w5Tz4PNg9/WvXlYPew1fRnsQmFcYZjFqroEXzdb+VKIjvZY0phirrnLqQyFVnTwUqZ437fr72yBX4zGFtCYWsu+0uSUAlveuVXqHOyDnzMVp0NAlc0lz4r76JJ3goxH90PICObXTiEzqG+kuD/J2CHsSYhq2sbSwDtM02/LBzY3gtuScT/wSy512eUobplA3ptma/ZYJ86jc3rLtrazTibcxm+Nqsmmo2KbRTNgtSbwq/0XWHZEm+YmVeuY/jC80LM5HP5VWEr/c7asHwLDLTLJvYVa/USU7UHdgqhbQ5IFk4A=;ZBOd1raY9QJ8+Ivoft1FFw=="
 ---

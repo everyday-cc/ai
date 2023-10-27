@@ -38,20 +38,6 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 49
-  - title: "Artificial Intelligence improves cybersecurity with pattern recognition"
-    excerpt: "In the ever-evolving digital realm, businesses invest significant time and resources to protect themselves from an array of digital threats, such as"
-    publishedDateTime: 2023-10-22T17:30:00Z
-    webUrl: "https://menafn.com/1107283039/Artificial-Intelligence-improves-cybersecurity-with-pattern-recognition"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_145.jpg"
-        width: 1920
-        height: 1285
-        isCached: true
 
 secured: "SfGCjZqT/HOFNeW6/ovQE23pZVZCwV3ysql6GMXE/mA0Xbne279mET//RnONqZRuQU3y5IoSm8OExgZlrdLv+ddHRMVmb5aHnKmpRpy+m41Z2EgPZdS0HDr8DR5TqaoEPhuLYPvJ314QdF50aJmGgnfWDjDA3DUR2qYLmMAj7IjUho+nJN/8FltGSd/+DRQjjvYEtF3pMUN7Dg4dAs5NWZeRE7t0O/UbEYxaOj0B0n9x/lvjIvjFaLQbuTSemckf3nI5JEAeDizUv7rLu8MSmin36O8HdYgobMC9XIuowjN+l1Vn9ksjekspnhlJtI1OOHCHI0XtA6JfqaKBJdYArEkHv+hbUEFkf4Zi5rw8vESyG6Jfo9LZYD8/C3xTG6IK1Zz6pDl+Jf5fWTSHfS6q3HBQNlNrAc2TyP31tZ3kyvXY2XwGhOaHT+F00pGY4okcKp5L4lClrOQyAtrPYz9INQ5QTSKiZbabdNOM59xVCDAHFeZwY0WboiRMrVd/gJM4ggw9d2Nq8a9nKxwbE5zREQ==;uTqc9KeFE5U2sxNi+/xjcg=="
 ---

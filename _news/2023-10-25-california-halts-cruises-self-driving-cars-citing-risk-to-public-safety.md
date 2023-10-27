@@ -60,6 +60,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "1 year of Twitter under Musk, Cruise pulls all self-driving cars"
+    excerpt: "Elon Musk wrote of buying Twitter that he “didn’t do it because it would be easy”. That's one of the few certainties about his ownership"
+    publishedDateTime: 2023-10-27T10:55:00Z
+    webUrl: "https://www.techdigest.tv/2023/10/1-year-of-twitter-under-musk-cruise-pulls-all-self-driving-cars.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 24
+    images:
+      - url: "https://www.techdigest.tv/wp-content/uploads/2023/10/slt-update-apr-2023-hero-test1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The Cruise robotaxi reckoning highlights tensions over self-driving cars and how we regulate them"
     excerpt: "The DMV suspended state permits for autonomous vehicle operator Cruise, saying the company omitted key information about a collision that injured a pedestrian."
     publishedDateTime: 2023-10-26T13:44:00Z

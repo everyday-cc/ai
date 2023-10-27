@@ -38,20 +38,6 @@ related:
         width: 2880
         height: 2689
         isCached: true
-  - title: "Artificial Intelligence improves cybersecurity with pattern recognition"
-    excerpt: "In the ever-evolving digital realm, businesses invest significant time and resources to protect themselves from an array of digital threats, such as"
-    publishedDateTime: 2023-10-22T17:30:00Z
-    webUrl: "https://menafn.com/1107283039/Artificial-Intelligence-improves-cybersecurity-with-pattern-recognition"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_145.jpg"
-        width: 1920
-        height: 1285
-        isCached: true
 
 secured: "PYcEs3eMQ/IYAPeGDWn77dkkIkBg+BzubId0Ya43jPbCLtyW42MLnCeXPYi3CE72E2Q+a8vXKgmBfiZde+Z5eh2ByI8gr02ztnOrqD7xsArcMbDc8XujjdWqycyRFvyRyyUOfldwBRKScoXjWsU961/zzJDLH0xJg/Q2frjv/03zTzatC+g07nxwKPlBEt8Df4PPrIDfqikd8Y3mpVU0WymGXYR7TnasRUZDMK0oohFChYnah1kqlRe99avc5SzWskS3C9k4FofpRe2FcQbmYPyBhMuOt4ooCh+NWiDd0ZM0BeWJJOq9vXYHDDqgWP1OWb0J2iJzTYJebYdhRPRSErgVw1/YejxsRaFopMrkuEo=;wTI1q94Y6vpiOa4gtElSUg=="
 ---

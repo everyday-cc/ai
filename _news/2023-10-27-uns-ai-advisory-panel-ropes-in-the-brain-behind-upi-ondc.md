@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "What the U.N.’s AI Advisory Group Will Do"
+    excerpt: "While the body will have little power itself, its recommendations could shape a future U.N. agency for AI governance"
+    publishedDateTime: 2023-10-26T18:12:00Z
+    webUrl: "https://time.com/6328861/un-advisory-group-ai/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/10/un-ai-advisory-board.jpg?quality=85"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "UN Announces Advisory Body on Artificial Intelligence"
     excerpt: "The United Nations has begun an effort to help the world manage the risks and benefits of artificial intelligence. UN Secretary-General Antonio Guterres on Thursday launched a 39-member advisory body of tech company executives, government officials and ..."
     publishedDateTime: 2023-10-26T23:34:00Z
@@ -34,15 +48,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "DeepBrain AI Announces Strategic Collaboration Agreement With AWS"
-    excerpt: "DeepBrain AI , a leading provider of generative artificial intelligence (AI) video synthesis and virtual human technology, announced today the signing of a multi-year Strategic Collaboration Agreement"
-    publishedDateTime: 2023-10-24T15:38:00Z
-    webUrl: "https://www.cmswire.com/the-wire/deepbrain-ai-announces-strategic-collaboration-agreement-with-aws/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 34
 
 secured: "efIiqu5Oicq11ML619kqldVUXBhwuXIdNj44l2onBD/rxiFe4IhBnAO7aMI8GgLczA6NmdqGgzDwu4enufenLQlbWnEmc3bdoPNv/jrG/iqp24QGiDz9lOEa5ft6x4BQ+yi5mhC7maxDjX1xwrEFENhcMNgKgXJeZmP6zNjc+yGc98EXj5FzCn6f4ncLxgbfoKQJWC3DcLmIsZjfQvW7V7zYpW5rl5MOPQk+K5sC0ALKZOAu5SOUj6BESzVltYqaN/vResLejVbMd/eQteUhMbBLubj2N+0ft/3Uc2OkxAE4JHlXU4RT2YpESSpWUIiGqRH8/hesA+SXWJm6uNMV+d8ScuGAHV8Ew8kvC7CcGJbWNksokOxRjvCwSjIOs//yO/x+kIkwiBLoGtTdMhK6KBtbmZDjsfdstxJzpTNyWl92hxSTd+lSXqO/rtz++0rDYCqKw3Bny5rLzj7MPOR1dmj/9yb/6P3uHfFiHKQSFmlU2x+WYoUQGDIowOqAwvnegebBYdgqDp8k+P9WBVXwPg==;cwUt3gezWnpNSCuZMNifIw=="
 ---
