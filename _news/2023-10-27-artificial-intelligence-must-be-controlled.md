@@ -7,7 +7,7 @@ originalUrl: "https://www.timesenterprise.com/opinion/artificial-intelligence-mu
 webUrl: "https://www.timesenterprise.com/opinion/artificial-intelligence-must-be-controlled/article_9d57c190-74cc-11ee-8492-0bc6bcd48d83.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Cellular Data Controlled Robot"
-    excerpt: "[Jatinderjit] sent along the latest in LEGO robotics. The cell phone controlled robot. It’s based on a LEGO Excavator kit with a few spare parts via ebay. The controller is a Nokia phone running ..."
-    publishedDateTime: 2023-10-23T00:00:00Z
-    webUrl: "https://hackaday.com/2008/02/02/cellular-data-controlled-robot/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "http://hackaday.com/wp-content/uploads/2008/02/cell-bot-nokia.jpg"
-        width: 262
-        height: 325
-        isCached: true
 
 secured: "9dtcF2a+/txZrL0RsY+wmlerP3t/et6A8nLsxzJmt5PleWPeFBadOC+RACPwZYodQ4w6ifdqMYD0ilaehHqhsjjqP8qtRIk0n0J1quFZG9drkTPSXjnXBOkMDiEn6RnT1IV4G7sM+YcvbLqwWADoReet8xcSgTlF15cEq0fB2sIh6sS+S5n5IimwRSaZ1/evJtbTQ2aHeV7PxYneS3FMagokhWn3RzCR72k0uCExvxhn01vEr4BmS9ubipTs2vurZanH/tQPoiFQfcKjlz3PUp25OmWXL8oBiiO0HsnYdbYwJeNsAhsd/FvrTOKlkK8GwW3EUZlpiZHHcyuWdyAQ0lOwHeDpHDDuN49fSpAZAHU=;uVvZsQvf65MOl4RizBKGGw=="
 ---

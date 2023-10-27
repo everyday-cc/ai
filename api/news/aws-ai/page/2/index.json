@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-10-credera-achieves-aws-migration-competency.md",
+      "title": "Credera achieves AWS Migration Competency",
+      "excerpt": "DALLAS, Oct. 10, 2023 /PRNewswire/ -- Credera, a global, boutique consulting firm focused on strategy, transformation, data, artificial intelligence, and technology, today announced the achievement of the Amazon Web Services (AWS) Migration Competency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.galvnews.com/news_ap/business/credera-achieves-aws-migration-competency/article_f5b47a64-d1b9-52f6-b2e6-5ed222d19543.html",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/credera-achieves-aws-migration-competency/article_f5b47a64-d1b9-52f6-b2e6-5ed222d19543.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily News",
+        "domain": "galvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-aws-releases-cloud-institute-virtual-program-to-train-developers.md",
       "title": "AWS releases Cloud Institute virtual program to train developers",
       "excerpt": "In an effort to reduce the scarcity of trained cloud developers, AWS is releasing a new virtual program, dubbed Cloud Institute. AWS Cloud Institute, which is a one-year program with 12 different courses spread across four quarters, has been designed by ...",
@@ -1306,49 +1340,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-amazon-to-run-ads-with-prime-video-shows-unless-you-pay-more.md",
-      "title": "Amazon to run ads with Prime Video shows — unless you pay more",
-      "excerpt": "If you want to watch Amazon Prime Video shows and movies without advertisements, the service is about to get more expensive — about $3 more per month, or $36 a year. Amazon on Friday said it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/amazon-prime-video-ads-subscription-increase-for-no-ads/",
-      "originalUrl": "https://www.cbsnews.com/news/amazon-prime-video-ads-subscription-increase-for-no-ads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/05/21e663bc-051f-4128-803b-058a35deec24/thumbnail/1200x630/97749d2596f4a8ce8671abfb176985b4/gettyimages-1242123707-prime-video-channels-amazon-prime-day-2023-streaming-deals.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/amazon-prime-video-ads-subscription-increase-for-no-ads/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amazon-prime-video-ads-subscription-increase-for-no-ads/",
-      "publishedDateTime": "2023-09-22T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

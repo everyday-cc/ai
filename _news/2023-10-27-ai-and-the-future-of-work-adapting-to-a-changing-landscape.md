@@ -168,6 +168,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "The future of AI in Dallas and around the world"
+    excerpt: "Business leaders focused on technology discuss how AI is going to change the face of business, work, and technology moving forward."
+    publishedDateTime: 2023-10-27T17:11:00Z
+    webUrl: "https://www.bizjournals.com/dallas/news/2023/10/27/the-future-of-ai-in-dallas-and-around-the-world.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "An interview with Bright Data’s VP of Ethics and Compliance on carving the industry path on ethics, regulation and training AI."
     excerpt: "As VP of Compliance and Ethics, Rony Shalit is responsible for growing and shaping Bright Data’s ethical approach regarding web data collection and proxy usage for years to come which also sets the standard for the industry."
     publishedDateTime: 2023-10-23T06:00:00Z

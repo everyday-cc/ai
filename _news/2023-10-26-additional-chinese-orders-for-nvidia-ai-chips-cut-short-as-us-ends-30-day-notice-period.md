@@ -220,15 +220,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "ANALYSIS-US chip curbs give Huawei a chance to fill the Nvidia void in China"
-    excerpt: "While Nvidia NVDA.O has historically been the leading provider of AI chips in China with a market share exceeding 90%, Chinese firms including Huawei have been developing their own versions of Nvidia’s best-selling chips, including the A100 and the H100 graphics processing units (GPU)."
-    publishedDateTime: 2023-10-23T00:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/analysis-us-chip-curbs-give-huawei-a-chance-to-fill-the-nvidia-void-in-china-0"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 46
   - title: "US orders immediate halt to some AI chip exports to China, says Nvidia"
     excerpt: "Fellow tech company Intel ‘reviewing regulations’ as timing of move brought forward"
     publishedDateTime: 2023-10-25T06:19:00Z
@@ -256,6 +247,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
+  - title: "Nvidia RTX 4090 GPU Prices Skyrocketed in the Past 2 Weeks"
+    excerpt: "Recently, the US government ratcheted up its demands that Nvidia immediately halt shipments of certain AI accelerators to China, causing a panic that beefy GPUs like the RTX 4090 would also become banned,"
+    publishedDateTime: 2023-10-27T16:29:00Z
+    webUrl: "https://www.extremetech.com/gaming/nvidia-rtx-4090-gpu-prices-skyrocketed-in-the-past-2-weeks"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "HbzgRQn/ImSfHuQSmSYdf/iXoWZoYNjdgGw0Gkc/FtX8hFXg9sUSJyGS6nt5awv3sKEdVWwZOF7gP0B3gPFhFFaRnZCK7S9qsvZGSq8tBqJdhhBnNqe9lKTDrQpsBz+BanJawqxZLoxy7oOhCigPgZ/8rlUmLP7Qgrs2SRxeqQFUui8nJKqHPpsfWOFBRiqiVQtNCEnygprDWp4NNPtEfPOWxIZli9q5egRG9hmoiBrGgDu+pOqNO04YXVQv4SYBLKdozGw+sjVgmYDMcX8bjpu2IvzxNiI8z3/kHrLuwX7YUpZu3ZkfSIFRvAtpgg0YhpWyuU4Yjgt3mYFP2uitH/4C1Ne6/pwin2rogjFDu6hyGiPmDoljJ5tR5g2WcKkNwJ7/+1gi9y6qO7mftG9z7oQlcQ4yRr5PHMKXYudFe85iXYw+z1h3LKzTQbU0/wWiFUPwAozxqpbVgmrlAVj6HK+/IL+u5ZJbX+Va+XRklN7KWfT0FU/7UlIBdoJBQ0UO8GuX9wHDYiE2oYtJAA4FPw==;8M6KIIXCfJaGyAouPF18Fg=="
 ---

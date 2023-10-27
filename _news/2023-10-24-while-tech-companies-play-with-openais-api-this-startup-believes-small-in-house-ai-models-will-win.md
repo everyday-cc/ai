@@ -39,6 +39,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "OpenAI AI safety measures for advanced artificial intelligence systems"
+    excerpt: "The creation of advanced artificial intelligence (AI) systems brings with it a host of opportunities, but also significant risks. In response to this, OpenAI has embarked on the development of AI safety measures and risk preparedness for advanced ..."
+    publishedDateTime: 2023-10-27T07:47:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-ai-safety-measures/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 52
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/AI-safety-measures-for-advanced-artificial-intelligence-systems.jpg"
+        width: 1280
+        height: 832
+        isCached: true
 
 secured: "WNsbc33B0G8hsQvGstMbBOf/w9sohqOdbpXIL4AqEN867Sh61/q1dMTCrZoEr38rDFfFeSnfVxCnGVWBCvz7cVzzMwDaKiXWkvoIoNDbbQZNpI8k6GQ/qg6N3wGoFGYU9D2Tfd/mhU1ab4Ovrn5i5an/cQvGNLsL3igD6IRARdnqCYcWeaEJGgQLWA0j6BB8boknxHJtjtkiT2BDsEXbr/RXF3WIp/5N/ClcnYtaMP+yPEwE4azJ+9kYlKXGk7H2VKlhI5Tm3xhUWzNUzLjmJEW1v0Q04Vpv9a0/3J3rgTju6XpElBye5prNwVZGkva1IhZUT97iA+b4MQz1oxA6XE6E8pvKORu4gCCfyK1X7qs=;oESsy9ETMXaSDXyJqvK2sg=="
 ---

@@ -200,20 +200,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 42
-  - title: "Qualcomm Snapdragon X Elite: 4.6 TFLOPs = more GPU power than Xbox Series S"
-    excerpt: "Meanwhile, the updated Adreno GPU now packs 4.6 TFLOPs of FP32 compute performance ... It also wouldn't be a new chip without AI something, with Qualcomm supporting generative AI through its Hexgon NPU (Neural Processing Unit), which has up to 45 TOPS ..."
-    publishedDateTime: 2023-10-22T23:13:00Z
-    webUrl: "https://www.tweaktown.com/news/93943/qualcomm-snapdragon-elite-4-6-tflops-more-gpu-power-than-xbox-series/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 37
-    images:
-      - url: "https://static.tweaktown.com/news/9/3/93943_201_qualcomm-snapdragon-elite-4-6-tflops-more-gpu-power-than-xbox-series_full.jpg"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "The Snapdragon X Elite is Qualcomm’s new Windows chip built for AI"
     excerpt: "Qualcomm has been doing nothing but perfecting its approach to developing quality SoCs and processors for smartphones and computers."
     publishedDateTime: 2023-10-24T19:01:00Z

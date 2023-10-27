@@ -81,15 +81,6 @@ related:
         width: 3024
         height: 1964
         isCached: true
-  - title: "Synechron Enhances Financial Risk Identification and Mitigation With New Artificial Intelligence-empowered RiskTech.AI Accelerators Program"
-    excerpt: "Through research and development initiatives in our FinLabs we develop solutions for modernization, from Artificial Intelligence and Blockchain to Data Science models, Digital Underwriting, mobile-first applications and more. Over the last 20+ years ..."
-    publishedDateTime: 2023-10-26T09:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/synechron-enhances-financial-risk-identification-and-mitigation-with-new-artificial-intelligence-empowered-risktech-ai-accelerators-program-1032742916"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
 
 secured: "B7D4OXVDX+VYrzFK/lhgfl+u3i7D26dl9oSysQg2TEQkZN+W39V0gwGMWrQt5BU0Txq0fEmBBOCfUfduxIVD6y40f9duRQkN5egZZFGqOYgiJnVvGFcJbE6ONLVX/XWK7zOY+rdVO2NqC2quDrnu5lmlSfr4RQwuJGzpzr5nPrgsLhlFELkkBYw9n+SbEU6HV02hXVKDL7QTwsm+iLhhNUb4imNVuRNh4EM82Ka4GQuNWtSCB6G1XGHiSUbD0bVMYANkccbG4GlUXJzZnR+dU9d0Rzu8z3vPswfcRkBCWQQDKrBpwJtDOC96O2Kmsrd9PuUxV/34zERhEb6Ie4W3QpQRsSURckhTlDioHNQnvjA23nayZZrQ1HsNxByZwDdlCfoph8e27aoOlNlI74LMZJ2P191VBtd9YKFby22jMBnCa33AP7wq174dIwtKr2oF2oxy+iIBRSCs62bIlvVi2qVRqSPICC4Hhf7daSeCv5tJWEwAWNghkqTqOG2C+9+mi7a+cF6l6PJKaL8EhN1L7Q==;nReGpRSXhRNd/qJ9bxbS2A=="
 ---

@@ -469,6 +469,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Amazon rallies on cloud recovery as it chases Microsoft for AI business"
+    excerpt: "Amazon.com rose 7% on Friday on a pick up in growth at its most profitable cloud business as it aims for a larger share of the booming artificial intelligence market in a race with Microsoft. The e-commerce giant was on track to add almost $90 billion to its market capitalization based on its last traded share price of $128."
+    publishedDateTime: 2023-10-27T16:50:00Z
+    webUrl: "https://www.aol.com/amazon-rallies-cloud-recovery-chases-103731340.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/fcfe4b7e140c5c82616cb8e73ed19a74"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Rockwell and Microsoft to deliver generative AI for Industry 4.0 design"
     excerpt: "Rockwell and Microsoft said they will combine tech to accelerate Industry 4.0 design with “industry-first” generative AI – and also to “empower” workers."
     publishedDateTime: 2023-10-27T14:27:00Z
@@ -627,15 +641,6 @@ related:
       name: BizTimes
       domain: biztimes.com
     quality: 34
-  - title: "Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
-    excerpt: "NDAQ:SPNS) Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
-    publishedDateTime: 2023-10-25T12:28:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/10/25/sapiens-introduces-decision-model-ai-a-generative-ai-solution-to-enhance"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 17
   - title: "Revolutionizing Accounts Payable Automation: Gravity Software Unveils Cutting-Edge AI Technology Powered by Microsoft's Cognitive Services AI Engine"
     excerpt: "As part of its unwavering commitment to enhancing multi-entity accounting efficiency, Gravity Software ® is proud to introduce new AI technology to transform accounts payable processes. This transformative solution uses the Microsoft Cognitive Services AI engine to convert PDFs of vendor bills into Gravity Vouchers,"
     publishedDateTime: 2023-10-25T16:26:00Z

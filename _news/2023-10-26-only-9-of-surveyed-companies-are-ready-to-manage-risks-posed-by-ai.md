@@ -46,19 +46,19 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "How Generative AI Can Improve Communication Within An Organization"
-    excerpt: "The natural language interface enables interaction between stakeholders, project owners, QA engineers, designers and developers with the project’s vector knowledge base."
-    publishedDateTime: 2023-10-23T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/amp/"
+  - title: "How Companies Can Embrace Generative AI’s Superpowers"
+    excerpt: "Today, generative AI is no longer the elusive domain of tech giants. Even small businesses can afford to use its superpowers."
+    publishedDateTime: 2023-10-23T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/601850d37aa9c1404df144b1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647f38c95ad531f8e9178353/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
         isCached: true
@@ -187,6 +187,20 @@ related:
         width: 542
         height: 384
         isCached: true
+  - title: "How AI can help to save endangered species"
+    excerpt: "Scientists are using artificial intelligence to fight biodiversity loss by analysing vast amounts of data, monitoring ecosystems and spotting trends over time."
+    publishedDateTime: 2023-10-27T17:11:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-03328-4"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03328-4/d41586-023-03328-4_26225544.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "PIONEER IN FINTECH DEMONSTRATES IMPACT OF AI IN PAYMENTS AT MASTERCARD EVENT DURING MONEY20/20"
     excerpt: "Serial fintech founder to address looming industry regulation and how AI can deliver more value to consumers and businesses  LAS"
     publishedDateTime: 2023-10-23T11:45:00Z
@@ -209,15 +223,6 @@ related:
     provider:
       name: openaccessgovernment
       domain: openaccessgovernment.org
-    quality: 19
-  - title: "Companies integrating AI to build innovative solutions"
-    excerpt: "Artificial Intelligence has seeped into our lives and how. AI based Virtual assistants like Siri or Alexa are great for entertainment, whereas e-commerce portals are utilising the full potential of"
-    publishedDateTime: 2023-10-26T07:34:00Z
-    webUrl: "https://www.pcquest.com/companies-integrating-ai-to-build-innovative-solutions/"
-    type: article
-    provider:
-      name: PCQuest
-      domain: pcquest.com
     quality: 19
   - title: "5 Jobs Artificial Intelligence Can’t Replace"
     excerpt: "In this article, we will look at the 5 jobs that artificial intelligence can’t replace. We have also discussed the potential impact of artificial intelligence on jobs in another article."

@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New Tool Could Poison DALL-E and Other AI to Help Artists"
+    excerpt: "Researchers from the University of Chicago introduce a new tool, dubbed Nightshade, that can 'poison' AI and ruin its data set, leading it to generate inaccurate results."
+    publishedDateTime: 2023-10-27T16:40:00Z
+    webUrl: "https://www.pcmag.com/news/new-tool-could-poison-dall-e-and-other-ai-to-help-artists"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02u2amN1Nki4vahj6kWuggR-1.fit_lim.size_1200x630.v1698421852.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "This new data poisoning tool lets artists fight back against generative AI"
     excerpt: "The tool, called Nightshade, messes up training data in ways that could cause serious damage to image-generating AI models."
     publishedDateTime: 2023-10-23T17:26:00Z

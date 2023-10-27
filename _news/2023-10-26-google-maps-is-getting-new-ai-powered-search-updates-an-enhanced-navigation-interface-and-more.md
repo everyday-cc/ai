@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/26/google-maps-is-getting-new-ai-powe
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/26/google-maps-is-getting-new-ai-powered-search-updates-an-enhanced-navigation-interface-and-more/amp/"
 type: article
 quality: 75
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
         width: 3024
         height: 1964
         isCached: true
-  - title: "Synechron Enhances Financial Risk Identification and Mitigation With New Artificial Intelligence-empowered RiskTech.AI Accelerators Program"
-    excerpt: "Through research and development initiatives in our FinLabs we develop solutions for modernization, from Artificial Intelligence and Blockchain to Data Science models, Digital Underwriting, mobile-first applications and more. Over the last 20+ years ..."
-    publishedDateTime: 2023-10-26T09:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/synechron-enhances-financial-risk-identification-and-mitigation-with-new-artificial-intelligence-empowered-risktech-ai-accelerators-program-1032742916"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
 
 secured: "h1aGQxonfThP5bgFQ59z3GLsJ/CLL0UwUHN81ig/6zJ30h2d18Dnr9u0NLTvq/I3fgb4/I4s/V1GfJpH2fvJ6J6j2RoV8lI9RBboRuACVzbh/gf4Rjrof8W3wVDBcEAEWymhSpWK6cCIsWDfynrY/aLeC57+mNpVbcAFZqbNS4X4qFxXmYYBqO5hU0chjhJz8TF6C34OoXOW6ZvC077Z6xUA2iVIbZKg9e7ejN5J2OEYWST409d4OVflZpSJjJf17/l5k6BHhmbTMMLUuyXDWQpaP/9RF0Jr9iRl/WuG3fmmp6rM1LKdgp8n5GKt4eU0R56d/M8Y6p7YZQbQ/pH2Q5x2de9Aos4olidNJEO9AvqiDUkLEPbeI1egLkWwNxJfL8qjlm70K19d/tp4L5Og7ApfOWtn7zI1yxwhj7i2wqrfsfTL00H97wMQcN6fZh9H7xFnDWVLNnedJo5WubD6qHDSKQwU3onht5pHOW2L3SVNTvdK1Cbcw/emNmtmjgwu+eTLWFSBrSYHt5A8z0icfw==;I2oro28pYjvGms5+jGkVcw=="
 ---

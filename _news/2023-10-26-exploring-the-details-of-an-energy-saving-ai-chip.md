@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp"
 type: article
 quality: 74
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 39
+  - title: "5 ways AI could influence nursing in the coming years"
+    excerpt: "Artificial intelligence comprises various technologies in almost ... health care AI companies have attracted more investments and equity deals than any other sector except driverless vehicles and other transportation-related work, according to the OECD.AI ..."
+    publishedDateTime: 2023-10-24T04:54:00Z
+    webUrl: "https://omaha.com/news/nation-world/business/health-care/5-ways-ai-could-influence-nursing-in-the-coming-years/collection_a92fb518-d167-5ad5-be29-7acd95451f76.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/4e/44eb6900-d3c7-57bf-a0c5-fe2d0078bc1d/6524a0f5c1871.image.jpg?crop=1080%2C567%2C0%2C101&resize=1080%2C567&order=crop%2Cresize"
+        width: 1080
+        height: 567
+        isCached: true
   - title: "The Power of Machine Learning and AI for Carriers"
     excerpt: "T8N’s Mike Robinson details the power of machine learning and AI to help facilitate logistics for carriers on this episode of Retail Refined."
     publishedDateTime: 2023-10-26T11:56:00Z
@@ -83,6 +97,15 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
+    quality: 19
+  - title: "The Computing Pioneer Helping AI See"
+    excerpt: "Alexei Efros has spent his career learning how machines see differently from humans. Now he’s helping to bridge the gap."
+    publishedDateTime: 2023-10-24T18:01:00Z
+    webUrl: "https://www.quantamagazine.org/the-computing-pioneer-helping-ai-see-20231024/"
+    type: article
+    provider:
+      name: Quanta Magazine
+      domain: quantamagazine.org
     quality: 19
 
 secured: "rfETqbwxwqmK8RVK826/zeY44IQy69kSIY9AAqMmfGGeIX3Fd8BjowP0ueYyo5IzefS9T9OhEM174ywEDd67WVU6/VfrQgbgOxZ9SM9e1ZAcwdEn8BzfmotKH4bd3CrUN477KPstQInK+5GgS6xtbymcvbBkDAcFT3xS5b/SH10LC8YX3WlzGOxrMtHJgoTerQMYvU96tfVCW2Na2gVSQDxeI3bT5vaZ01FfoNPcg5DwNA+LPvoBLnbPsdsJN7SQ/MZ3m5R9Ar3UaVyzqHYhde/NarpHhNc3ltDSwLakYdYNgMNSXjwI0VhLVFpZFEBPjeOyYBv7a2XaRIex2cZyA6TNSvpLB1CZn9nh3HMR8CobZs7loBebLfeNxdujHNfVrbfHEI1x3ZO6M7Qn7gUks3ZIVSH4Y0m3hQtjzlHhwaugILLrgW/STen7FGAzWTcHufTXu8vX3/0L9R9McGb06q1XIiuG2T7X6TgR8gTmFrd1fo3LQFA/kIH7kobByat8dh/jOKrGC0HhBLehUFW+aA==;u2pS44TVffOMwSgHONuaDg=="

@@ -41,6 +41,20 @@ related:
         width: 1800
         height: 1000
         isCached: true
+  - title: "Scientists build on artificial intelligence to create next-generation gastric acid treatment"
+    excerpt: "Researchers at Nagoya University in Japan created and improved artificial intelligence (AI ... in collaboration with Intage Healthcare Corporation and the SPring-8 radiation facility, took a novel approach to drug development. They focused on the steric ..."
+    publishedDateTime: 2023-10-26T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1006117"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 28
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/220132c7-28e1-4b83-917a-2326c7902f45/Rendition/low-res/Content/Public"
+        width: 700
+        height: 389
+        isCached: true
 
 secured: "NVeS2YOjbM3lsLI/nDD2RapihxXwLheWGQDjCGzGrL4nE8d9TA6wFGFoM45az5oD47SmFGG3SHafx+wtH+MLMgsEnyHpjdQ0N9ggODAZCrD0GV++R2jb1JoRYuqSgq2KczKnNcDJHHoBKb+aQLsfrj3h1MNA+h/r9VSvdIg2wzc2IadnQC/5Wr+9coxtalSvDwmdH7+iwJ2O84wJzDWvWQoJcUZS04ZLvKuTSWDkUR5x33NMXIBLVMEzeSEK7IJXXMyylTTeVMdLKlKAGkkCAjIQ9gvlFIbBhL7jJbjwT7SOPq4OvDQeXEQ5IfM+eryn99wwS5QuyF5RN90QT6zrk3y6ItbXGhmqnkQ2+76Xb4A=;GVnzA3Z8UjeSljv9nMqTqw=="
 ---

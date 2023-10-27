@@ -2,6 +2,83 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-09-26-infosys-microsoft-to-jointly-develop-genai-solutions.md",
+      "title": "Infosys, Microsoft to jointly develop GenAI solutions",
+      "excerpt": "Infosys partners with Microsoft for new AI solutions. Infosys, India’s second-largest IT services exporter, is collaborating with Microsoft to jointly develop industry-leading s",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/enterprise-story/2023/09/infosys-and-microsoft-to-jointly-develop-genai-solutions",
+      "originalUrl": "https://yourstory.com/enterprise-story/2023/09/infosys-and-microsoft-to-jointly-develop-genai-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/120/220356402d6d11e9aa979329348d4c3e/exp-24-1695740487293.png?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-artificial-intelligence-ai-in-healthcare-market-overview-and-forecast-2023-2031-mapping-future-expansion-strategies.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market Overview and Forecast 2023-2031 | Mapping Future Expansion Strategies",
+      "excerpt": "In the dynamic landscape of the global Artificial Intelligence (AI) in Healthcare market from 2023 to 2031, a treasure trove of strategic insights awaits. This comprehensive report offers a deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34912878/artificial-intelligence-ai-in-healthcare-market-overview-and-forecast-2023-2031-mapping-future-expa",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34912878/artificial-intelligence-ai-in-healthcare-market-overview-and-forecast-2023-2031-mapping-future-expa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34912878",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34912878",
+      "publishedDateTime": "2023-09-26T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-postcards-from-the-edge-cloud-to-edge-consistency-is-everything-says-aws.md",
       "title": "Postcards from the edge | Cloud-to-edge consistency is everything, says AWS",
       "excerpt": "How do you divvy-up 5G workloads across the edge and cloud? AWS argues for consistency across the whole lot, unsurprisingly; but its response is also measured.",
@@ -963,101 +1040,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-partners-with-microsoft-to-step-up-enterprise-adoption-of-generative-ai.md",
-      "title": "Infosys partners with Microsoft to step up enterprise adoption of generative AI",
-      "excerpt": "Infosys said Topaz is using Azure OpenAI Service and Azure Cognitive Services to help enterprise customers transition from digital to AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/infosys-partners-with-microsoft-to-step-up-enterprise-adoption-of-generative-ai-11431871.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/infosys-partners-with-microsoft-to-step-up-enterprise-adoption-of-generative-ai-11431871.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/05/Infosys.jpg",
-          "width": 765,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-spotify-is-launching-an-eerie-new-ai-led-feature-that-mimics-podcasters-voices-and-translates-them-into-different-languages.md",
-      "title": "Spotify is launching an eerie new AI-led feature that mimics podcasters' voices and translates them into different languages",
-      "excerpt": "Spotify is working with podcasters like Lex Fridman, Bill Simmons, and Steven Bartlett to release AI-generated translations of some podcast episodes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/spotify-ai-podcasters-clone-voices-translate-different-languages-2023-9",
-      "originalUrl": "https://www.businessinsider.com/spotify-ai-podcasters-clone-voices-translate-different-languages-2023-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6512999b82a83a00194b76de?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/spotify-ai-podcasters-clone-voices-translate-different-languages-2023-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/spotify-ai-podcasters-clone-voices-translate-different-languages-2023-9?amp",
-      "publishedDateTime": "2023-09-26T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -74,6 +74,20 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 39
+  - title: "5 ways AI could influence nursing in the coming years"
+    excerpt: "Artificial intelligence comprises various technologies in almost ... health care AI companies have attracted more investments and equity deals than any other sector except driverless vehicles and other transportation-related work, according to the OECD.AI ..."
+    publishedDateTime: 2023-10-24T04:54:00Z
+    webUrl: "https://omaha.com/news/nation-world/business/health-care/5-ways-ai-could-influence-nursing-in-the-coming-years/collection_a92fb518-d167-5ad5-be29-7acd95451f76.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/4e/44eb6900-d3c7-57bf-a0c5-fe2d0078bc1d/6524a0f5c1871.image.jpg?crop=1080%2C567%2C0%2C101&resize=1080%2C567&order=crop%2Cresize"
+        width: 1080
+        height: 567
+        isCached: true
   - title: "Measuring Mood Through Artificial Intelligence"
     excerpt: "Whether it’s a parent with a thermometer and children’s Tylenol or a tumor board determining an oncology regimen, such a data-driven approach is usually the best practice in 21 st-century healthcare. Unfortunately, mental health care lags behind ..."
     publishedDateTime: 2023-10-23T17:46:00Z
@@ -82,6 +96,15 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
+    quality: 19
+  - title: "The Computing Pioneer Helping AI See"
+    excerpt: "Alexei Efros has spent his career learning how machines see differently from humans. Now he’s helping to bridge the gap."
+    publishedDateTime: 2023-10-24T18:01:00Z
+    webUrl: "https://www.quantamagazine.org/the-computing-pioneer-helping-ai-see-20231024/"
+    type: article
+    provider:
+      name: Quanta Magazine
+      domain: quantamagazine.org
     quality: 19
 
 secured: "cA5IZcrIroei1u4QCNwsXOhKxly/3Nt1y/mkK1VjARBJS78SP8xoBWQQtr7uhD5Fm+H+Kr/zqVkIY3skq9lgHSN/0IceQIHGjwjaEpuDe6ubvZIbfbRMZv2j5hH02Eo+6X3W7yq4TSw+p7S2nzINqU7S9n/G9/veo6BFY5UQktWqb97Tj4Raza3Q1xu9AZQlOzAtbKMbe0zlZ/TAfw6yY+xNMz0N5TAIWavj0wO+0dpQpuF3VumKopJOalNiGk2Go7Y9zeg8gbU2d7Zx+MbAbwwWW7MyBT5lCPy6a9jWLKREHejMRRnnJaWN+izbsVeJivJDUQwTdtTuPIM63HbB/Rqy9hvh13ezdWaFQwNRrNY=;7Fr1TImfWkQd8jW/hCtezg=="

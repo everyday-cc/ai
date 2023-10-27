@@ -7,7 +7,7 @@ originalUrl: "https://www.aa.com.tr/en/p/duyurular/1002/amazon-web-services-to-l
 webUrl: "https://www.aa.com.tr/en/p/duyurular/1002/amazon-web-services-to-launch-aws-european-sovereign-cloud"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -34,20 +34,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 34
-  - title: "Four out of Five European Financial Services Leaders Are Embracing Generative AI"
-    excerpt: "Financial services organisations are making significant investments in generative AI to enhance their digital transformation processes."
-    publishedDateTime: 2023-10-25T15:45:00Z
-    webUrl: "https://www.bbntimes.com/global-economy/four-out-of-five-european-financial-service-leaders-are-embracing-generative-ai"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 34
-    images:
-      - url: "https://www.bbntimes.com/images/articles/technology/Four_out_of_Five_European_Financial_Services_Leaders_Are_Embracing_Generative_AI.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Almost 80 per cent of European financial services brace themselves for Generative AI impact"
     excerpt: "A reported 77 per cent of European financial services leaders expect Generative AI to significantly affect productivity and change roles."
     publishedDateTime: 2023-10-25T05:00:00Z

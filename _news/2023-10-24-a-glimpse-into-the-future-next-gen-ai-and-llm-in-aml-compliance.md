@@ -19,38 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "The Role of Artificial Intelligence in a BS in Computer Software Technology Education"
-    excerpt: "Education has become the cornerstone of innovation. As the demand for skilled professionals in computer software technology continues to rise, educational institutions are adapting their curricula to meet the industry’s changing needs."
-    publishedDateTime: 2023-10-24T09:56:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-a-bs-in-computer-software-technology-education/"
+  - title: "FEDML Nexus AI: The Next-Gen Cloud Services for LLMs and Generative AI"
+    excerpt: "FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML Nexus AI, offering the next generation of cloud services and platform for generative AI.This press release features multimedia."
+    publishedDateTime: 2023-10-24T12:25:00Z
+    webUrl: "https://venturebeat.com/business/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 49
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/The-Role-of-Artificial-Intelligence-in-a-BS-in-Computer-Software-Technology-Education.jpg"
-        width: 600
-        height: 400
+      - url: "https://i0.wp.com/mms.businesswire.com/media/20231024932463/en/1922758/4/wideimage.jpg?strip=all&#038;ssl=1"
+        width: 480
+        height: 269
         isCached: true
-  - title: "Norfolk Southern launches AI train inspection technology"
-    excerpt: "The project aims to supercharge Norfolk Southern's safety infrastructure and inspection processes with over a dozen portals to be deployed by the end of 2024. Norfolk Southern leveraged GTRI's expertise in advanced technology solutions that has already helped further national security and economic development."
-    publishedDateTime: 2023-10-26T12:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/norfolk-southern-launches-ai-train-inspection-technology-1032743505"
+  - title: "Riding the wave of gen AI: AWS outlines advances at Supercloud 4"
+    excerpt: "Saha spoke with theCUBE industry analyst John Furrier (left) at Supercloud 4, during an exclusive broadcast on theCUBE, SiliconANGLE Media’s livestreaming studio. They discussed how companies are using the AI models and moving into production at scale."
+    publishedDateTime: 2023-10-25T20:45:00Z
+    webUrl: "https://siliconangle.com/2023/10/25/riding-wave-gen-ai-aws-outlines-advances-supercloud-4-supercloud4/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Denver-area tech unicorn Guild just made a big investment in AI education"
-    excerpt: "The AI skilling bundle includes more than 40 programs tackling how AI works and how to use it. Some programs address topics like technological ethics and how leaders can use AI. Others will teach technical programming so that a worker can build AI tools ..."
-    publishedDateTime: 2023-10-26T21:10:00Z
-    webUrl: "https://www.bizjournals.com/denver/news/2023/10/26/guild-ai-education-upskilling-workforce.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 35
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Bratin-Saha-Supercloud-2023-V2.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "9HVgp8hzfApSolotZS/t4LK6WfDrqoHa3mktdlh4eUtxcDyoGjoXp95HSJW7MiCZ9EykJyBnm4bG+EjyH46Wipwpvrzj5D63bLnCgV+jrBNg3L6cRJCWOho9x0HaL7Qr1xaMZy3crxdRZ1ks1+GwNF47U73Cw+jGLfRQ5fhBiRg9jha+2cC0Wl5FUftlKCR5T0MzhgwSxQzWlnJx0vGCWvRFerLQHP0/f874TmWWKTaQFk/L2MozCGF7yrtFrEcKZbTBeplv+JTPYqDT2o6G8Wr6k2Yp3CchvzuT4EjS9E7fT9X3z+WQBMGs0n4WBRKiiUetbey5fX4y1UysEThKBp+XD0TOfBsm7rpZ+S5kf+CSC6lw/UGF0nvcSK6V1d1CRslcjwtnMIGbL8ivQRVsxODNf/jcy2SARw4fHVpwYFYnWfk0Mts8qu/+8v/Ekqk+syrp7a7G5RJ5Tx5tVLveepqq3mP35f1QfrEBxweq2fiyeDoQt2m4NDnEAYdXjvD5Tw4h8ENjv50rx4alr/dGKg==;ptJvWc/JMh44L7/wDWLhfw=="
 ---

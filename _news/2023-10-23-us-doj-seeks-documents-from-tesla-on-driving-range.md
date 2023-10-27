@@ -37,6 +37,17 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Tesla Faces Automated Driving Rival in Geely and Baidu EV"
+    excerpt: "Competition is intensifying in China’s automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc."
+    publishedDateTime: 2023-10-27T15:38:00Z
+    webUrl: "https://www.bnnbloomberg.ca/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-1.1990420"
+    ampWebUrl: "https://www.bnnbloomberg.ca/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-1.1990420.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-1.1990420.amp.html"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 54
   - title: "Tesla driving range documents subpoenaed by U.S. Justice Department"
     excerpt: "The automaker also said in a regulatory filing that the Justice Department was looking into its self-driving feature, personal benefits and personnel decisions, in a move that marked intensifying regulatory scrutiny of the Elon Musk-led company."
     publishedDateTime: 2023-10-23T14:16:00Z

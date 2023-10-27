@@ -66,6 +66,20 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 39
+  - title: "5 ways AI could influence nursing in the coming years"
+    excerpt: "Artificial intelligence comprises various technologies in almost ... health care AI companies have attracted more investments and equity deals than any other sector except driverless vehicles and other transportation-related work, according to the OECD.AI ..."
+    publishedDateTime: 2023-10-24T04:54:00Z
+    webUrl: "https://omaha.com/news/nation-world/business/health-care/5-ways-ai-could-influence-nursing-in-the-coming-years/collection_a92fb518-d167-5ad5-be29-7acd95451f76.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/4e/44eb6900-d3c7-57bf-a0c5-fe2d0078bc1d/6524a0f5c1871.image.jpg?crop=1080%2C567%2C0%2C101&resize=1080%2C567&order=crop%2Cresize"
+        width: 1080
+        height: 567
+        isCached: true
   - title: "The Power of Machine Learning and AI for Carriers"
     excerpt: "T8N’s Mike Robinson details the power of machine learning and AI to help facilitate logistics for carriers on this episode of Retail Refined."
     publishedDateTime: 2023-10-26T11:56:00Z
@@ -83,6 +97,15 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
+    quality: 19
+  - title: "The Computing Pioneer Helping AI See"
+    excerpt: "Alexei Efros has spent his career learning how machines see differently from humans. Now he’s helping to bridge the gap."
+    publishedDateTime: 2023-10-24T18:01:00Z
+    webUrl: "https://www.quantamagazine.org/the-computing-pioneer-helping-ai-see-20231024/"
+    type: article
+    provider:
+      name: Quanta Magazine
+      domain: quantamagazine.org
     quality: 19
 
 secured: "NG32kru2ULt0s7MSl3855FWduWlflhAM0pD4ldQtEMa3OQFpZdf74QljDRYSgOiFznZFmowopFDCHuO5g25jYvhjM+pEcQ1+mgr+YoRkdAzgP12nLFDg11wEq7m9v5SLgyZHX+owvDNCBdZAaXpXJpqOAXKGbdM8kPrdFKVRUhwRrEZ5hLewWfEq8H/wGqUhYTJYPVHG7AysU0BBkDYjUHCkbW1Kc62xfeC32jd/wNIAazMrSC45warUCI/Z+WfgthcV7m5Dmxw3+GUHLHDqZhQSZTl3IDc+lBM+WKOfC/4SnfeG9QIcFDc4r2nS/EXIUHBY0C7tSJlqWeOjKXlRpnXc+2i0FQizj1wqWvykhyXl/yEgTK7HhLPtxuXrfVDL88xe67V4Qd8xpZvZFWfe9taD19Of87hEBOinsWZhvEBXrD0ysuiZ071jZo0aF1f2PThvii6DSkMF/6caYFq3OpUmvdiR2QWVrZBDOQcZVMrini0RID9U9T9FisZ2C7EJBVnwASVAs5AJbltSHnInOQ==;ut73Xq0kwC9Xr45UzgFhmQ=="

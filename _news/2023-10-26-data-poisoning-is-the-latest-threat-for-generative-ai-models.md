@@ -26,15 +26,47 @@ images:
     isCached: true
 
 related:
-  - title: "Prompts are key in 2023: Twenty-five tips to help you unlock the potential of generative AI"
-    excerpt: "The goal is to use generative AI as a tool in your broader decision-making and brainstorming process. Combining AI's suggestions with your expertise and knowledge of your business and market will yield the best results. By integrating these AI insights, we're not merely keeping up with the times; we're"
-    publishedDateTime: 2023-10-23T15:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/prompts-are-key-in-2023-twenty-five-tips-to-help-you-unlock-the-potential-of-generative-ai/"
+  - title: "Generative AI In Real Estate: Emphasizing What’s Human In Housing"
+    excerpt: "Here are a few ways generative AI can enhance the housing industry from a resources and processes perspective."
+    publishedDateTime: 2023-10-27T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653add73b8a4fb3de24d55c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1247
+        height: 810
+        isCached: true
+  - title: "La Rosa Holdings Revolutionizing Real Estate With Artificial Intelligence"
+    excerpt: "We’re in the initial stages of a game-changing, disruptive artificial intelligence (AI) boom. Grand View Research says we could be looking at a $1.8 trillion opportunity by 2030. Even better, generative AI could add between $2.6 trillion and $4.4 ..."
+    publishedDateTime: 2023-10-26T13:45:00Z
+    webUrl: "https://www.benzinga.com/markets/emerging-markets/23/10/35440225/la-rosa-holdings-revolutionizing-real-estate-with-artificial-intelligence"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35440225"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35440225"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/10/26/shutterstock_2169216027.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Top Ways To Trade The Real Estate Artificial Intelligence Boom"
+    excerpt: "Top Ways to Trade the Real Estate Artificial Intelligence Boom We're in the initial stages of a game-changing, disruptive artificial intelligence"
+    publishedDateTime: 2023-10-26T19:48:00Z
+    webUrl: "https://menafn.com/1107313130/Top-Ways-To-Trade-The-Real-Estate-Artificial-Intelligence-Boom"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 17
 
 secured: "c44R7IsBlLoL3fWwTHWgQLgFaWBMPHbX8MMTsWYsOMdLKQOpTARBqxf6GnRnhNaS4I1GiDV3qLZ7/lytEj8+SqgSr3XPSlshEh1oRNTx1HKECDSP/kSF01KKIfoGRcoxZPqIZP1KtxGAizQRCYar23u6/SiUX1DKtfoaYAMtF8ZwvL7QbJMxXJCWbySs/Ou/A5bjkCFNKgOeDkPc/yBCw0kuPMzyR83a+TNsM8QB3VXtCIe1n9RN1Kx/WkrYWU3WXwTMxtmf/amkfL7VCvaZFzj15h4K0N/ZPjKrM+rVpKC1dbSvWo8tNQYU+6QEAyxppAntk039hy2cXueM/VE1xn7yTHqlvUUozx46eZWmWuBrky2vQxMRC9MXTN206rfHW3mxsIqmFyUTewRZAlbwdyyodCHd2rk2htDXyJ8IRoR1J4vngeeb3gcaw0DLCIFPYhxyRGIvukS7uYZspabi0pKzFFK/hOcCwbo8C8kpEvuOexfRXpdVMGjaxGpR7ZD5EjHZiz6u/UnVC1oG/4FagA==;zXvh3T8kFtdIWzsjaCSZJg=="
 ---

@@ -33,20 +33,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Autonomous Vehicles: The Promise and Perils of Self-Driving Car Technology Introduction"
-    excerpt: "Autonomous vehicles have emerged as a revolutionary force, promising a future where cars can navigate the roads without human intervention. This cutting-edge technology has the potential to transform the way we travel,"
-    publishedDateTime: 2023-10-23T00:20:00Z
-    webUrl: "https://techbullion.com/autonomous-vehicles-the-promise-and-perils-of-self-driving-car-technology-introduction/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 16
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/Autonomous-Vehicles-The-Promise-and-Perils-of-Self-Driving-Car-Technology-Introduction.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Arizona says closely monitoring use of self-driving vehicles"
     excerpt: "The Arizona Department of Transportation said it was aware of the announcement from California and was closely monitoring the situation. \"Public safety is our highest priority, and we are in regular communication with and closely monitoring Cruise and other companies testing and operating self-driving vehicles in Arizona,"
     publishedDateTime: 2023-10-25T21:58:00Z

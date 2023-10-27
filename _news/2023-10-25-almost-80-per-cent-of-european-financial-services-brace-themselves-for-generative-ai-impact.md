@@ -48,20 +48,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 34
-  - title: "Four out of Five European Financial Services Leaders Are Embracing Generative AI"
-    excerpt: "Financial services organisations are making significant investments in generative AI to enhance their digital transformation processes."
-    publishedDateTime: 2023-10-25T15:45:00Z
-    webUrl: "https://www.bbntimes.com/global-economy/four-out-of-five-european-financial-service-leaders-are-embracing-generative-ai"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 34
-    images:
-      - url: "https://www.bbntimes.com/images/articles/technology/Four_out_of_Five_European_Financial_Services_Leaders_Are_Embracing_Generative_AI.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Top 10 national European fintech associations"
     excerpt: "We count down the top European fintech associations by country, order by the total addressable market of the countries in which they operate"
     publishedDateTime: 2023-10-26T13:56:00Z

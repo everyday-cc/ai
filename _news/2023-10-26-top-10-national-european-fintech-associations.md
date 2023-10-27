@@ -48,20 +48,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 34
-  - title: "Four out of Five European Financial Services Leaders Are Embracing Generative AI"
-    excerpt: "Financial services organisations are making significant investments in generative AI to enhance their digital transformation processes."
-    publishedDateTime: 2023-10-25T15:45:00Z
-    webUrl: "https://www.bbntimes.com/global-economy/four-out-of-five-european-financial-service-leaders-are-embracing-generative-ai"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 34
-    images:
-      - url: "https://www.bbntimes.com/images/articles/technology/Four_out_of_Five_European_Financial_Services_Leaders_Are_Embracing_Generative_AI.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Almost 80 per cent of European financial services brace themselves for Generative AI impact"
     excerpt: "A reported 77 per cent of European financial services leaders expect Generative AI to significantly affect productivity and change roles."
     publishedDateTime: 2023-10-25T05:00:00Z
@@ -77,6 +63,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "dHkFwAXxrbKsTzYDKDWtBPBycBIRNg+fW+nfNQxz6bKyN7FEzN3B/p1gysBNh5iijl9vsb/ViKDg1MotAokxoHqerNJQDOynBgspJBbTrwhevaNgtFL8fWQVD9IVFfdC1TjX4o42tRRTqEGLK4o8NRFB2ngVFki9g21Euv0JhYbsiZjx5cOK1Hk2zWka23vw0MEUOb6vOSNpGiqb0/VGna2F0yTb1aaPmmjfkHsMkAMso0UiYFg3Z15h36KTzE+1Um4vIiDdk4hgetldE3ugV1Bh0a12AstPlnwjjwlwVozH9Ie+s7GAhL8EXOapbdWJoyqT2TC8BUQfYfLG+9RTvJAUTaF0XY+seJHpFx76ldY=;/h+MFTHWB9FrXRk0SAFOaA=="
+secured: "cJuEM9Yh44aG0LGYJI4zRc71JfF4vnhcJ87QUNS6qaYrqSWLjA6t+z/XSog3ipxNMN4w2VYInnxh9DS+uTIXJON8f5XZBrYAVdNGZ0I049i65ztnYYORdVPNZvPKPQj2n4C0Qa3WnnBB0qEooJX8K4dsmLXZr5D43iyQHwAoGRCoahL8feZS2O05YVSYmbn3phhL9+tGFkQxVQMaLD1zxe/MnzrFi7iLXkXYPiMYlBtzOy+QVY7WSGT5wgHWQUDUSsBx8n7K5YYVKXUZisAv0E/k6qbOsfs62WdMvvU9cfs7XOq9nFiP6wGey+osRi9DZ+y7oGdu667asGMYdfCPoJpq/KhWInfuVOKfOwl50Dz6lkxWqZrkmsWyHv07b3bH2zYyP2NfH26dAQu4IZCG8oowswWLWA4n3p0mtRecDe8ep0mDXUvwXGoeLj88UHX7Lf4vWAcxvy9GfL0k33SIobLP/YbWEkdHqB8AE7xTR7uxc9cuk4p4jyW2rqKIhGHWqlyw6kDX2EdpUOqy8+xVXQ==;/vgDkMmY6T4vJVqZdssmVw=="
 ---
 

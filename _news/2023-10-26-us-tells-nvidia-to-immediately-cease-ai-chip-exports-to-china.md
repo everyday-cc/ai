@@ -206,15 +206,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "ANALYSIS-US chip curbs give Huawei a chance to fill the Nvidia void in China"
-    excerpt: "While Nvidia NVDA.O has historically been the leading provider of AI chips in China with a market share exceeding 90%, Chinese firms including Huawei have been developing their own versions of Nvidia’s best-selling chips, including the A100 and the H100 graphics processing units (GPU)."
-    publishedDateTime: 2023-10-23T00:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/analysis-us-chip-curbs-give-huawei-a-chance-to-fill-the-nvidia-void-in-china-0"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 46
   - title: "Additional Chinese orders for Nvidia AI chips cut short as US ends 30-day notice period"
     excerpt: "Nvidia disclosed in a document submitted to the US Securities and Exchange Commission (SEC) that the 30-day notice period for the 2023 export controls update by the Biden Administration had been cut short."
     publishedDateTime: 2023-10-26T05:05:00Z
@@ -256,6 +247,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
+  - title: "Nvidia RTX 4090 GPU Prices Skyrocketed in the Past 2 Weeks"
+    excerpt: "Recently, the US government ratcheted up its demands that Nvidia immediately halt shipments of certain AI accelerators to China, causing a panic that beefy GPUs like the RTX 4090 would also become banned,"
+    publishedDateTime: 2023-10-27T16:29:00Z
+    webUrl: "https://www.extremetech.com/gaming/nvidia-rtx-4090-gpu-prices-skyrocketed-in-the-past-2-weeks"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "MRT/zp2y77WyNWgEhhq+l6PWAZe6QWzWzmYibsJe8n2uV+mCt+EeyUoXtLP+sj3BJ82Q2hOtggfT6JtVMM6RUUtTum4lXATRGgHE86iFOyZAnx9wxjOevOCuLRIhhXR+pU46t71CGqV+mXiHqxFiEJP1gkYjDuyUAd36sVNiPjnBdrKHG06skrxbNG7KCOJIFGmy8sxpdiau4bp+IM+hPyiryx8fp83vJw1ZQ8XPo1zUS2pEkW58+cA+hLvlbbMldaqbilj9T1+NvpSEm3Cd+tjDGfPjBeadRWeWy99HWIT3H3bETxGygEm6HITiwI5y8NqcELR1EgoMxKuKH8Gs5Nnnmb7weAyAWZGJzE6g/LfAhHYMZ7/hKkqVbK21e9GnF5cl0Z0NvnmPiZA++bJFB9wVV3VTwCi/bxmnmJj1ajBA3CmUEoigg1FH9i8r9akd+YAe9qs+tTUPC/4pEPYYw9xgL0T9/uMQ4rT8PkTY/2t5M2oPNrVIQ/cdj7ycZFo3ZO7i3IZSueELQnjDKdrtww==;jhX9tcJmlODyZLON0zqn1w=="
 ---

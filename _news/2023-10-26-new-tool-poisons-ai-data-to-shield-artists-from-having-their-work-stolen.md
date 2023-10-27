@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen/amp/"
 type: article
 quality: 85
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f374d9dc-6e87-4d19-8004-08237cdc91fd/c4466187-c4f8-4c9c-a7f6-dca6d6859bf2/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
+        isCached: true
+  - title: "New Tool Could Poison DALL-E and Other AI to Help Artists"
+    excerpt: "Researchers from the University of Chicago introduce a new tool, dubbed Nightshade, that can 'poison' AI and ruin its data set, leading it to generate inaccurate results."
+    publishedDateTime: 2023-10-27T16:40:00Z
+    webUrl: "https://www.pcmag.com/news/new-tool-could-poison-dall-e-and-other-ai-to-help-artists"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02u2amN1Nki4vahj6kWuggR-1.fit_lim.size_1200x630.v1698421852.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "This new data poisoning tool lets artists fight back against generative AI"
     excerpt: "The tool, called Nightshade, messes up training data in ways that could cause serious damage to image-generating AI models."

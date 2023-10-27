@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists build on artificial intelligence to create next-generation gastric acid treatment"
+    excerpt: "Researchers at Nagoya University in Japan created and improved artificial intelligence (AI ... in collaboration with Intage Healthcare Corporation and the SPring-8 radiation facility, took a novel approach to drug development. They focused on the steric ..."
+    publishedDateTime: 2023-10-26T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1006117"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 28
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/220132c7-28e1-4b83-917a-2326c7902f45/Rendition/low-res/Content/Public"
+        width: 700
+        height: 389
+        isCached: true
   - title: "NC1 AI: Pioneering Business-Centric AI Deployment To Propel Enterprises Into A New Era Of Innovation And Efficiency"
     excerpt: "NC1 AI NC1 AI Redefines AI Deployment for Businesses, Paving the Way for a Future-Ready Landscape LOS ANGELES, CA, UNITED STATES,"
     publishedDateTime: 2023-10-24T22:01:00Z
@@ -42,6 +56,6 @@ related:
         height: 250
         isCached: true
 
-secured: "ZNX8vzY17Oi//IHrauONp0Px151FEjkYad9RyhMJbzqpzHD9Um3d5E6sxQga8e/zL2/z6BnV6SifrEoSYxVuGQsVzHE56X0p55rH9dfbzBjPV1HCo0CGOVCCsIis7c8Aj2G5DvS+2qqTkKyn3jBdKaLlGuilGILTGf5hLWjkgGn48TPHhFuxknBvHFfOhKCKoCPr4JuObgg3uA8RDSsGg83kP2Uj+k1TWglbq3eEzAl0GoewNbZ1E6STI2eG2n4yJIg9dk47aFFF8wqqs/vLeEniSnP2BPwvK4aKrEFRShDxCIVpJ1IFWNMv9rCHBAzwRuIxUrMPCkTyuK8qPy39VPYgUAAIQCt0TpTJ8Tilmsk=;KVnplwqFzKktGFfSBRve1Q=="
+secured: "Fn6MVm/H4nD9cVt+Oe+Sy2MBvZK0xdUqiuQw7px/P3mnXeRjxFyQSnAC9g2tx0dl7sDmOtRcoRICFxz8sdm6VdBIfr+tH0AiULpFXODNm2K7dWGFgffRqnL+Kk4a4z2sQcZmtBI4p3ns5keZoWnbsJFsKKCqPq/MzeVya7th176NZM49wd2qEHErHUfp2HPdayEcBw01CLinnOP04TZMon37JywwiNmuOJggK3n3XPnHw/o00+ZufyidkaCPOSEaxLlFwwd8SO/LuuaRf+nIUvt6oE73yJ5dg34Gyzpfmkamua7DAG9CgFBR3/wqfEWXPApJOQ+McNDogSnWtDXc/i9w3iW5KJc4GJHOkR/LiFWyEdppd+jgygqJLm0JljSDb0Jg0Tk8gtyJzJrJJeitYEsOfX6FhM3ba/TrhrQjYs31NQoIn5N5ShtZH8/wnyCE6BMblif2ZLKlhlqAFG4T3kCulCm6YCk6AvSWRu7wZwSo1zKSNPF0xIN/qhsbHRfSqEwAwKDVbrRiB8hpTC7Giw==;csFFMxLgnzAKzjsjid2jDg=="
 ---
 

@@ -463,6 +463,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Amazon rallies on cloud recovery as it chases Microsoft for AI business"
+    excerpt: "Amazon.com rose 7% on Friday on a pick up in growth at its most profitable cloud business as it aims for a larger share of the booming artificial intelligence market in a race with Microsoft. The e-commerce giant was on track to add almost $90 billion to its market capitalization based on its last traded share price of $128."
+    publishedDateTime: 2023-10-27T16:50:00Z
+    webUrl: "https://www.aol.com/amazon-rallies-cloud-recovery-chases-103731340.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/fcfe4b7e140c5c82616cb8e73ed19a74"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Rockwell and Microsoft to deliver generative AI for Industry 4.0 design"
     excerpt: "Rockwell and Microsoft said they will combine tech to accelerate Industry 4.0 design with “industry-first” generative AI – and also to “empower” workers."
     publishedDateTime: 2023-10-27T14:27:00Z
@@ -635,15 +649,6 @@ related:
         width: 1199
         height: 892
         isCached: true
-  - title: "Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
-    excerpt: "NDAQ:SPNS) Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
-    publishedDateTime: 2023-10-25T12:28:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/10/25/sapiens-introduces-decision-model-ai-a-generative-ai-solution-to-enhance"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 17
   - title: "Rockwell Automation and Microsoft Expand Partnership to Leverage Generative AI Capabilities for Enhanced Productivity and Faster Time-to-Market"
     excerpt: "Rockwell Automation, Inc. (NYSE: ROK) and Microsoft Corp. (NASDAQ: MSFT) today announced an extension of their longstanding relationship to accelerate"
     publishedDateTime: 2023-10-26T10:59:00Z

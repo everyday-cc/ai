@@ -77,15 +77,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
-  - title: "Synechron Enhances Financial Risk Identification and Mitigation With New Artificial Intelligence-empowered RiskTech.AI Accelerators Program"
-    excerpt: "Through research and development initiatives in our FinLabs we develop solutions for modernization, from Artificial Intelligence and Blockchain to Data Science models, Digital Underwriting, mobile-first applications and more. Over the last 20+ years ..."
-    publishedDateTime: 2023-10-26T09:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/synechron-enhances-financial-risk-identification-and-mitigation-with-new-artificial-intelligence-empowered-risktech-ai-accelerators-program-1032742916"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
 
 secured: "CWEIMpEJWnbXxe+W8Tl3jULNErPicSefRvcmnBY6FMme4uzoR9VJnCXXq9ADz4fb7ElLwbi1+x0aFrbRTZo7xGoan9un+wCSVOnoI695dkozxAaR3Gu88x1gVPf0IObixrZ+iOxZpoYYtPj03kCWKaW3ovO6h6nSRvo60khYYTehWWjZ7xBPJ4uArabd4TySHsfFofNNO4W7vnUpoDUJ6GFJ7rXGdnTeYHtUCBtsUZN47UqDF6g4F6wI3j4loIVKvouq2cgMZHnnj6Pap6+JVaqUqNFivuE3Xtr6NEdkKGBOVZUbN1MQQua3ndps94FlbaVobQP4jcBBH4S1qKbU0gHY8n2tP/UJAOVGG8pC+nc=;Sxclivbaqc0iX7R9kUueUg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/info-tech-research
 webUrl: "https://markets.businessinsider.com/news/stocks/info-tech-research-group-s-new-gen-ai-blueprint-paves-the-way-for-rethinking-solution-delivery-1032730110"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -21,31 +21,6 @@ provider:
 topics:
   - Facebook AI
   - AI
-
-related:
-  - title: "Generative AI Poised to Revolutionize Healthcare Delivery & Life Sciences Research"
-    excerpt: "Generative AI may transform healthcare delivery and life sciences productivity by improving patient outcomes and increasing clinical/medical research efficiency"
-    publishedDateTime: 2023-10-26T09:00:00Z
-    webUrl: "https://www.physiciansweekly.com/generative-ai-poised-to-revolutionize-healthcare-delivery-life-sciences-research/"
-    type: article
-    provider:
-      name: Too Old to Operate
-      domain: physiciansweekly.com
-    quality: 48
-    images:
-      - url: "https://www.physiciansweekly.com/wp-content/uploads/2023/10/artificial-intelligence-ChatGPT.jpg"
-        width: 1778
-        height: 1000
-        isCached: true
-  - title: "Citi used generative AI to read 1,089 pages of new capital rules"
-    excerpt: "Increasingly, bank executives argue artificial intelligence will make their staffers more efficient. Like when federal regulators dropped 1,089 pages of new capital rules on the US banking sector, Citigroup combed through the document word by word using generative AI."
-    publishedDateTime: 2023-10-27T13:40:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/citi-used-generative-ai-to-read-1-089-pages-of-new-capital-rules-71698409783553.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 19
 
 secured: "8+0PL3J+2OQu1/Ru4xrS4SCQGSux1gPrOFFM4JNVPZ3VoCIqbx+sELYYP20DcP+OOwHC6OhwXeJAXQLM9dNuxOYp7f8Kbf4q+VgjtEC6i1G4TzZv6he0CsFR/0GHamyw/QSLcZfn6KyEdDrQoonj+927BW4KHZMZ0OazxJtP/PBO12mDJ+66a6ZPRkkUPeXG4qbLhFCGo7nHausKMLRAj79JGo82Tga5fmgyr/qDM9wN1R2zyfE7HwA6iSjpH5tnoD7TpDhCn7bfMG6h9CqfS63w036mo81yfq89sZs2d6yPjw7xTl0J6peOzaYtRhGxMHusvkawMphfWEqKQVSLmN66M8C6v6AeBQ8yPBGdRs2OsM+q088IpB8o83tTJEeuTWfaQsTgBi0nDuKkpGxq/xxUO9CmaZ3txMEDoBpCo3N6ySCtNv3GeUVp6lNuy4B4Qww2HKRJEc/LFmw+ETR7PTXtRWXhoyheyb2T51nhWMkbZVNDBYg26f6tRcKI/DvkLHVEj39Jy/HekWkMo00xSg==;Calg3yp4sVrOMqb41qfS9w=="
 ---
