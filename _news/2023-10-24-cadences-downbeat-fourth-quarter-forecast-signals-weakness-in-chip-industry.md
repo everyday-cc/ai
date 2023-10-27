@@ -22,6 +22,22 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "Chip Industry Week In Review"
+    excerpt: "U.S. tech hubs; new restrictions hit NVIDIA, ASML; Cadence DSPs; Rambus memory controller; Infineon ion trap; Intel high-NA EUV plans; Advantest's self-heating auto chip fix; prismatic batteries; Ansys simulation AI;"
+    publishedDateTime: 2023-10-27T07:01:00Z
+    webUrl: "https://semiengineering.com/chip-industry-week-in-review-8/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/2019/08/Blue-Complex-Chip-636447976-03-31-19.jpg?fit=723%2C483&ssl=1"
+        width: 723
+        height: 483
+        isCached: true
+
 secured: "HiPOg2R6Y3lbCs4PdvVKdPCV5b+fD5187G3+64nmJ+SaivJUYuY42iTdfYxrX9hdfQSO4rDSp9D7lARxDd0xdCdRzVYdBJ94NE9L9BamfVLx1v4vXGOvItbfgU4wfudhTwMUjLvIBzaSQUyTfN7h41rz/Wf/nwgwR4e2CahT5utRzQgijfm4iUBHWC8Hg0s9HvIeZ9YiLllMhnLvNr9UFjn3CVGfzAPBkADfSmLnADkhhbuwUi1zrc+aZ1XUwPMzB+LdY1PqcKKrRrj9dAxDYV457NTxjNcok/4dPFs8UZ26ui9h77IsaeHJPUP8Iu5CFhwNJyiAuxVnHFSNylbG/bv35svhnOy+zYJS7CXk2jhcqvGqcW7kkSpDFmOZH3UFxE8NVCfoLsJOrwJn6BjyzVl0/is7BguHfkEyIh5viqrqZKrGMBV5jAbe6xNdzo0yiD6gS4LhOqdlwsv244Jw46e+45gHUNrjMpz76ezfj9spuL6m4cKH0tFJmDYCJtNhn25rHmjgEeYkZGPyY2utvA==;MGsfe4Txu9uSFVbk6zDNxw=="
 ---
 

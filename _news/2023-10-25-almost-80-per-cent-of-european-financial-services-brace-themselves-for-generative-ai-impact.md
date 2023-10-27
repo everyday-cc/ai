@@ -26,6 +26,20 @@ images:
 
 related:
   - title: "Amazon Web Services to Launch AWS European Sovereign Cloud"
+    excerpt: "AWS European Sovereign Cloud will be a new, independent cloud for Europe that gives customers in highly regulated industries and the public sector further choice and flexibility t"
+    publishedDateTime: 2023-10-27T06:12:00Z
+    webUrl: "https://www.aa.com.tr/en/p/duyurular/1002/amazon-web-services-to-launch-aws-european-sovereign-cloud"
+    type: article
+    provider:
+      name: Anadolu Ajansi
+      domain: aa.com.tr
+    quality: 54
+    images:
+      - url: "https://cdnassets.aa.com.tr/assets/newVersion/images/sharing-logo.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Amazon Web Services to Launch AWS European Sovereign Cloud"
     excerpt: "Telia uses AWS DeepRacer as part of its program to educate 2,000 staff on artificial intelligence and machine learning with AWS. “Telia Company welcomes the development of the AWS European Sovereign Cloud as a complement to Telia’s trusted cloud ..."
     publishedDateTime: 2023-10-25T05:32:00Z
     webUrl: "https://www.businesswire.com/news/home/20231024960766/en/Amazon-Web-Services-to-Launch-AWS-European-Sovereign-Cloud/"

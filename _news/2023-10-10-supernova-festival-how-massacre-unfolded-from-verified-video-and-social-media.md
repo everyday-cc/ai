@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Supernova festival: How massacre unfolded from verified video and social media"
-excerpt: "BBC Verify has pieced together the events of the weekend's festival bloodbath using video and social media posts that we have verified, and facial recognition technology. Some of the festival-goers can be seen in the same footage looking up at the dark wisps above their heads. Others are oblivious and keep dancing."
+excerpt: "They had gathered in a remote area of southern Israel for the Supernova festival - an event that had promised dance, music, art and drinks at a secret location. Ticket holders were told, nearer the time, to head to a site north of the Re'im kibbutz, about 6km (3.7 miles) east of Gaza. The party's organisers promised a \"journey of unity and love\"."
 publishedDateTime: 2023-10-10T16:01:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-middle-east-67056741.amp"
-webUrl: "https://www.bbc.co.uk/news/world-middle-east-67056741.amp"
+originalUrl: "https://www.bbc.co.uk/news/world-middle-east-67056741?trk=public_post_comment-text"
+webUrl: "https://www.bbc.co.uk/news/world-middle-east-67056741?trk=public_post_comment-text"
 ampWebUrl: "https://www.bbc.co.uk/news/world-middle-east-67056741.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-middle-east-67056741.amp"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 576
     isCached: true
 
-secured: "8gQuk25EWSvw3cYZjR2GAZtAgzz0E8e6zPkrOvupyqflELYW3WVyycDhvL3V2LUwwXW45RMHmm3c96P/LQ+lwPADrMg1pa3+/KcduxodTKrHdxikrokUJ1xOx8+Hg3CyGdMx8ZCNgPLGl6EqtLl25pdS9uahSYNVlgDBaykHFacd5qqqmeep4C8aGAlgiE7bq9J7bMscnnWWzlVXStTZKDxzX3f9oi2gQ+UNBUC8EOjVcHXB4QYW93IDI4TAx4naZOFnreI7fOkLE/T+Zm/7lH+FwmwyqRyQxZNDImMYYJLBLf5HixTBInkR1xzDX3YDRTwt4sTelDWJzkNm3mI6P9XquJ8pvUJG5jlQLLBy1XKRjZOV69+X8/ShhyPMo9CaTPHbGMkZVmGNWQgM4dJKY5nJ1WdkB4qW26SIXSLCzP3D/dv/wGpEXmx0bPw6W/p/Dnh6ZcrIHFZxylnaZA2h9WyMyUz8G1JBE400Zsbr9KWJ/FVcRPL7z8vCV40/BtvxY5x4r4zQyUzZB++9Wf6WYg==;KRwp9Nb+sBlo6TW/VaIIQA=="
+secured: "8DDUE8Cp/ZVmqbQu26sliPR0Q8g56m5w8pb7u4r+xjU6iIKwnEuQaGInXgUFvI6W/WiN/62QWDFgtolew3ijjYiYMZ9a0zYh0J7PqRLhf20HGce48FHtb/e2d1+fpsNWpsiDLXLnf4Us1c3V1PbnBHXgxKKnQPW6FQY3vPTMe7mCF6tCAKxFrf7hHNyIKGTDYiNwgPWB552hKS5h2xBYYQFiltB6jJi8V2quDdFeuZ8nj8BEQNLTB5q4nA5F4NbexQz5lA6U076a9Kvb/p4Pxy8+RFQP370cL261ooDbYyCJGLm/4gCIpHsrP21J+GNLlUWFEslLZmPvuu/CXFK/AGdrynDvQ9xdR6VxfaY3hAk=;rLxDM2FJrSUfxOaat0Ce3g=="
 ---
 

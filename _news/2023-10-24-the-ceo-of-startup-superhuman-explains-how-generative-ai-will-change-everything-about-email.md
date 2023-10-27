@@ -2,9 +2,9 @@
 category: news
 title: "The CEO of startup Superhuman explains how generative AI will change ‘everything’ about email"
 excerpt: "For me personally, one of the most fundamental use cases for generative AI thus far seems to be email. Which is why I pinged Rahul Vohra, the CEO of Superhuman, a few weeks ago. I’m a Superhuman user myself, so I was curious how many people were using the AI features I had seen the company roll out into my inbox earlier this year."
-publishedDateTime: 2023-10-24T14:43:00Z
-originalUrl: "https://www.aol.com/finance/ceo-startup-superhuman-explains-generative-114354432.html"
-webUrl: "https://www.aol.com/finance/ceo-startup-superhuman-explains-generative-114354432.html"
+publishedDateTime: 2023-10-24T11:43:00Z
+originalUrl: "https://www.aol.com/ceo-startup-superhuman-explains-generative-114354432.html"
+webUrl: "https://www.aol.com/ceo-startup-superhuman-explains-generative-114354432.html"
 type: article
 quality: 26
 heat: 26
@@ -23,6 +23,6 @@ images:
     height: 980
     isCached: true
 
-secured: "HyCrZ9pBD5e8FSDwPpTheQOWCsGMUi5q2AI5O9NwTmU1GBLUUHs+ghBA4m6A/xubF34k0tX1yqR3GNJ1uaBKDqG7M/2XKe29wH5PuQQZ45Dk7N2IgaxzD/r31FR0SMyJ2bm/+yfbtih3itSLgu6U8lSfR/54Eg9m+ExOO7593zWCVVkryLJCUfgiUNyumoXQZeVGQ/zK65dX0mHbHN6U4AKlwVDfMh9gw8f0x9Z+oQhoiEtb0Ni1PCqVlC6w7sgfaNAwJp2GioHbGoze5/1b+PKNP9Xy/wJ13zBdJPk9Qqe/VrPJOomvG4L2jWNZyuMhOjHnbJbAM5Yqmwgjht/G61BavSMz+uExfl9Bf6+WtbGceGXBERobWJAWen45VKWJ7g565C3PVaQTKHKRTWraNmsVYEdp924PxScYqhlJLzdxpGafGqLbwwhoSAVmCq3wvAgxn1vxBLtu+gPDHOHPGRKCPXOp3oUpLhfXuhGcQ8my/3bsZdGtrCdDAqbBG+dquxxOHEb/KZLi4Sv+qPGqYQ==;CLs745FefzOOgPYRr8gj6w=="
+secured: "sIkeume+JfDpXRFNGVtSjwBG8xeBrOiH28Dla+y5vVh2EPlxupCF76lE/Un7Sgi1NR17ahK/fAssWOvxH4RPDE5wrfnHnxU502CicZKeJtfycRUDmdTOZGFRqbikwMzYHnZyIkoxeGk6Akg/Q2uxugHp0ag2Y55yJ7SNj3srymbjdgQ1pvrB4fK0t/zSh6oIXFw/aChqUGvS9Zb//pi0MUqFaCmDmrNDufceaGzFydBE5XujFl+GqdvejQOgH+UuL46VfqzJL6zvuMc9ktfy1wCCIklHuneFLIntH5eDclle8QrARV4ab3C4/rHtm7jDltRzog7cMvm9iuKV86fR6F7/VEjP4RNJjB5aWGA2CSE=;1FEwl49EqcqDOo4FXz7KxQ=="
 ---
 

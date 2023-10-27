@@ -7,7 +7,7 @@ originalUrl: "https://www.biospace.com/article/achieving-data-diversity-through-
 webUrl: "https://www.biospace.com/article/achieving-data-diversity-through-ai-in-drug-development/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 625
     height: 350
     isCached: true
-
-related:
-  - title: "AI Skills-Based Talent Development: A New Productivity Paradigm"
-    excerpt: "Artificial Intelligence is quickly becoming a cornerstone of achieving short-term talent objectives and sustainable, long-term success."
-    publishedDateTime: 2023-10-23T12:22:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/10/23/ai-skills-based-talent-development-a-new-productivity-paradigm/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "ZUkcFoyqBgX4p5kyxLP+zal1LdtIOleSzdEHAD/jV+2DWkKoJxYV8ZnGeWHihjPLnNqWBiievuVoy8JRs+riK5pHD0qdu3rGitVs0Bc9XtrxHjUxfTGDuQVr0AOMxzrpk7TK+HHR0vapHTb3KKjPjzGLJFRBEsH62g+yc3PcHjt4XwWtxMrfpLZ8NtZcNbIv3rNzlOk9bzwQx1GqBtrSUH3m7hZayNopxm219/Xq/yeAlC4mtI9Oo4M9cVju66a6OreAzkylfz7aOAhEc0MSzMJ46UMotPyX8L1xiW0J6DFYXIBXgKAWt56rXTUzw9s24aGvROkeW1zBjC5R0ZUX/OjnW0G4gkrQ+yvZQ7bbL/jUNhnCiF6gJ1MVuoAeTgnoX9SB05tRJrelZrbA1LoQX7eIoDGZib4VlIUKJn7sfDls/L7VzRZlL87qlR4eAdHfee9mLTd/0ZYi2qX2dj8m0snxxqAs77bWyfWDdkNZdu8t+Q0Fju9jgGnSe5JxoVi+pv2frvsNfjbx39UyFo/Vlg==;71mBbRxTrpprHTo3KD5q4w=="
 ---

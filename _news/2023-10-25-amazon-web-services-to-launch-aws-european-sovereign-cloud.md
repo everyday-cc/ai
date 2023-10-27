@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20231024960766/en/Amazon-We
 webUrl: "https://www.businesswire.com/news/home/20231024960766/en/Amazon-Web-Services-to-Launch-AWS-European-Sovereign-Cloud/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Amazon Web Services to Launch AWS European Sovereign Cloud"
+    excerpt: "AWS European Sovereign Cloud will be a new, independent cloud for Europe that gives customers in highly regulated industries and the public sector further choice and flexibility t"
+    publishedDateTime: 2023-10-27T06:12:00Z
+    webUrl: "https://www.aa.com.tr/en/p/duyurular/1002/amazon-web-services-to-launch-aws-european-sovereign-cloud"
+    type: article
+    provider:
+      name: Anadolu Ajansi
+      domain: aa.com.tr
+    quality: 54
+    images:
+      - url: "https://cdnassets.aa.com.tr/assets/newVersion/images/sharing-logo.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Four out of Five European Financial Services Leaders Are Embracing Generative AI"
     excerpt: "Financial services organisations are making significant investments in generative AI to enhance their digital transformation processes."
     publishedDateTime: 2023-10-25T15:45:00Z

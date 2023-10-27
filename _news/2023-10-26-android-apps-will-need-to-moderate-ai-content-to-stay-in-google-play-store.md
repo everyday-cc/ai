@@ -50,6 +50,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Apple reportedly spending $1 billion a year on AI — here’s what it could bring your iPhone and more"
+    excerpt: "We've heard about Apple researching generative AI for some time, and now the company is reportedly on track to invest up to $1 billion a year in the tech in an effort to compete with the likes of Google and Microsoft."
+    publishedDateTime: 2023-10-23T19:13:00Z
+    webUrl: "https://www.tomsguide.com/news/apple-reportedly-spending-dollar1-billion-a-year-on-ai-heres-what-it-could-bring-your-iphone-and-more"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 3
 
 secured: "f2SfUi3UGQb/4MJ8JhFL6Q0eiIVRfiFP5GtAhwplTnAip9kr+Z5QvP04QowKst7bo3nfPQW/WpsvABLBZLtUI7nNweOTZD+vrmnTonEvwUijenUpuPId4VdIsXNnDB8aJ5gJl+86XSTX/cPa7z7CW/YzTi9IWR5yubmkpIY/UsPXtRiI7/eV4EfTMNxRGsOk9m4XnLyaDoyQZ5r+DkB8tWmqTwjxYvnAygLMBvE9BZ6vHCPSgH8Dt+oFpkD4+dfYIpS5DMBjEqetTxx7bohcIhJu7e1BPBjDBjdmffkJf1FrePNH+hJ7+Njrg1gMFGawj3zFBMikRfn5eBjPeyCU6ZmyB776grLMtRtMnQD+BekI1gBB7pTseYPI+tc+fUAF1hp6CSXYNGV8hSyzxTDYEMo+eZqamdaEKLGN689aIGAo9Q56ci1GCdDmKkAOdIYyO2fKskVpFWwfw4gIN5HB61f5zqrn9Lvdmnfdk+lX6EAkj92z+ioiInlLW9HYR2jXpbeZvWhcDJaBMXyQen2dnA==;oH9aza/K1Fo8hjMSeG0GLQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works?_amp=true"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "GM Cruise Unit Suspends All Driverless Operations After California Ban"
+    excerpt: "A Cruise self-driving car, which is owned by General Motors Corp, is seen outside the company’s headquarters in San Francisco where it does most of its testing, in California, U.S., September 26, 2018. REUTERS/Heather Somerville/File photo Reuters"
+    publishedDateTime: 2023-10-26T20:38:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-26/us-auto-safety-agency-investigating-two-new-gm-cruise-crash-reports"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "GM's Cruise Pauses Driverless Operations Across All Fleets"
     excerpt: "FILE PHOTO: A self-driving GM Bolt EV is seen during a media event where Cruise, GM's autonomous car unit, showed off its self-driving cars in San Francisco, California, U.S. November 28, 2017. REUTERS/Elijah Nouvelage/File Photo Reuters"
     publishedDateTime: 2023-10-27T01:35:00Z

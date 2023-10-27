@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-27T05:57:00Z
 originalUrl: "https://www.thecrimson.com/article/2023/10/27/editorial-harvard-bcg-ai/"
 webUrl: "https://www.thecrimson.com/article/2023/10/27/editorial-harvard-bcg-ai/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2023/10/25/001538_1366288.jpg.2000x1333_q95_crop-smart_upscale.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1333
     isCached: true
 
-secured: "gIwwtCm4Vg+BFci/ZeKrsY0XB3SENJprI9Fq9M4qAMh5z0R/Jc1LFrcRdQ+Pe36Xs0iK7eyWHlGRDdb4oNNOB4bH36SpT5V21ctX5i2BNwZ7fdMMqDmnQNj0jtyZ1BfoquAiIYRF8u1onmmoFAkBwlpjj+TAPRZRhoshvZ8eBEMUqDxzcMe6naEz/bKyO18a3Z/NX2cWxDBW2KoX62MCJEGlgfm7R6XV0pv1SCMkN6PRRA0QfNo/saIXDWS4Pli30QtzIanEsn7wFdfJqAE3hD+GHfE8T5qfHYzw0GtQAhlHd5ThtYdGgsRKb2lU+e4hon9faYWxxrtVxn2ajPIbHZvPgYCPVKLCL9lRFOtzbqA=;L9Ppo3Yu/6WN3aukOoo8ZQ=="
+secured: "oWGseBf/gT1dDd1wC5Qg0Pa61YqKOPTkdhAhVAEKUAuuRal10eqRzGWB+vUsmgLuWQ0JHj4Qk8LkhJQt++tqdoC369iBzIYEM87iNC1WJr4Hb4xzGVNh8bEdWjByitHPOPnqYufENUV5A1wybMFwA7miAn+cHZ7Sz+wLUe3z5/zyVZmCt36oCqAcDRVWAOAtePJXCiSb3IgY5zYCF/WMBeE76Ffvq2EVq0FxG79NzQNx/oe7Q5ES8Zx9qelETYm74odywZfrUb3L+wceUfSXtQkd1rUFJFMW24Z01GjZoCA+52DaA04LRYhKQMyCmVpyoWtTDlBJLTmqPupqMW61is5UmK6CycNCNniJCZiSDneswJPuW4Fn4YiVLq7Iulsrz2s88eOs/PiY1SDidMQ+W80pAoYWVBKzK5eR3A/0LYr1c4cZMHxA+EOCoCnmxY9mG/usQ1CgVr0SqZNQ20VC6eVU99eNnlk6krreQzkgbtDx+wDbHlUvIuQEC9IFtuy03G690dODbMGRfbUwXCKJxg==;pqZqlo7tKzgZVAzXCpmK1Q=="
 ---
 

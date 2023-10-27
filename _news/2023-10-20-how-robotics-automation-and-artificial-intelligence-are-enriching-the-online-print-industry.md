@@ -3,8 +3,8 @@ category: news
 title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
 excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
 publishedDateTime: 2023-10-20T16:48:00Z
-originalUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
-webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
+originalUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
 type: article
 
 provider:
@@ -14,7 +14,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-  - AI in Autos
 
 images:
   - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
@@ -22,6 +21,6 @@ images:
     height: 313
     isCached: true
 
-secured: "DAZuwIPPp54IzDQQoPRQ3iJEj1xKyjLuVeSrlfPc3AlHKYnPuLfPzFq0f5bA2ILR+LLb2Sur1Z/W45gAY08BFmoejz4IUcBmxDB8RMrwx643QXxQq+q++qeRLwAlEnZP5rpDc9cBtFqSG0tlyTPTBDu2Tz/fIVTIvJE6ylp0rW40jDC10J9lbfrgihTVJP4vORYD62FeD4T+gIexfslc5aDtfmcJ/XB5TfoDeUwejncOiRh4lL1a/T9N/O8cvoCjEUIVzd9pVtoahnflWVwHeIldF5yHf63+Vq4cTRpHinDg8iT9dGwG0G8ZjHOJozPLfmALH9dDmSyW215VZhtqPYzZvjSLz3O63EDUf2YitXRkLBwrUWywt/oVR4IyYvHcc4uAIa0tVWJpOLjU5hRp6O9nUklPloriLFq6B7S0YDOlUygS+281a1kRPnY+EU+ae7gPut7mDfR/N/ymcyaVZZy6yHfGjSfPY0H7X0qQhAhnMSwhDoHgTpCB961w8SqtmGDzFIkYYhSdrSVztuD40A==;1MHTI0YpydIREjsAfGux1w=="
+secured: "VMj57gwTObuJuXFYoYD1tkIuJBW4NK1/Xpb7/sweLfcZbqZ7bnM455CMODkbr5ia4ElkrX1xxvhzDnBZJpNqCXPh2FgO/1WsnhkV7R2SRhMy+tWb9olMX+FUuLzSHSX99+yqNskxPlE8prWvorSN8DKMsw5kVyc1ozh18eMFhhhnpRSZ9pv8wvstQ6OqKQDTMcQRu6pIp1vkOP0aSLvhSH5jsGd/P31XLes6eUVH9FdslwfRKpmO+ZbyVjl2MGB1wPeQu1i48EqbPPuKcAOtQsywbm1y3H4Y8j+FUVVke/bFc/fdrT1ofJSWMdhn12/IyfkNf0fmYBTMC6KcfLoeF6SuzPQXlPKD4fs2BeU/RnY=;dD0gA4ODeEr/Q9722oHxGg=="
 ---
 
