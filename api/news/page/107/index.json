@@ -2,6 +2,48 @@
   "page": 107,
   "value": [
     {
+      "path": "_news/2023-08-11-mlops-and-the-evolution-of-data-science.md",
+      "title": "MLOps and the evolution of data science",
+      "excerpt": "Machine learning (ML), a subset of artificial intelligence (AI), is an important piece of data-driven innovation.\nThe post MLOps and the evolution of data science appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/mlops-and-the-evolution-of-data-science/",
+      "originalUrl": "https://www.ibm.com/blog/mlops-and-the-evolution-of-data-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T11:45:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-12-miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon.md",
       "title": "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
       "excerpt": "MIAMI, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Miami Dade College in Miami. Applications for the no-cost bootcamp are closing soon!",
@@ -1165,58 +1207,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce.md",
-      "title": "Can AI Bring Sales Out Of “The Paleolithic Age Of E-Commerce”?",
-      "excerpt": "Businesses want customers to increasingly use digital channels, but customers often crave personalized guidance. Can these two competing imperatives be reconciled?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenwunker/2023/08/11/can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce/",
-      "originalUrl": "https://www.forbes.com/sites/stephenwunker/2023/08/11/can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.spot.im/loader.png",
-          "width": 375,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenwunker/2023/08/11/can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/08/11/can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce/amp/",
-      "publishedDateTime": "2023-08-11T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

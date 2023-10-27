@@ -2,6 +2,48 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2023-08-01-incident-management-vs-problem-management-whats-the-difference.md",
+      "title": "Incident management vs. problem management: What’s the difference?",
+      "excerpt": "incident and problem management are two important processes for issue and error control, maintaining uptime, and delivering a great service to customers.\nThe post Incident management vs. problem management: What’s the difference? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/incident-management-vs-problem-management/",
+      "originalUrl": "https://www.ibm.com/blog/incident-management-vs-problem-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T08:18:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-ibm-study-reveals-how-ai-automation-protect-enterprises-against-data-breaches.md",
       "title": "IBM study reveals how AI, automation protect enterprises against data breaches",
       "excerpt": "The more integrated AI, automation and threat intelligence are across tech stacks and SecOps teams, the stronger they make an enterprise against breaches. Follow-on benefits include greater cyber-resilience,",
@@ -1123,57 +1165,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-generative-ai-is-quickly-infiltrating-organizations-mckinsey-reports.md",
-      "title": "Generative AI is quickly infiltrating organizations, McKinsey reports",
-      "excerpt": "So far, North America-based respondents lead the globe in terms of gen AI adoption for work, with 28% of them using the tech in their jobs and outside of work, compared to 24% of European respondents and 22% of Asia-Pacific respondents (Greater China was just 19%).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/generative-ai-is-quickly-infiltrating-organizations-mckinsey-reports/",
-      "originalUrl": "https://venturebeat.com/ai/generative-ai-is-quickly-infiltrating-organizations-mckinsey-reports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_woman_stares_in_awe_at_a_computer_screen_emitting_3D_ch_0ac4b32e-4db7-4f09-b48d-cafb845ae23b-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-31T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

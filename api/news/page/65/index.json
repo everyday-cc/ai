@@ -2,6 +2,49 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-09-11-artificial-intelligence-and-machine-learning-news-and-features.md",
+      "title": "Artificial Intelligence and Machine Learning – News and Features",
+      "excerpt": "A convolutional neural network is a type of artificial neural network in which the neurons are organized into receptive fields in a very similar way to neurons in the visual cortex of a biological brain. A new study examines the phenomenon of visual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/genomics/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/134",
+      "originalUrl": "https://www.technologynetworks.com/genomics/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/134",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230923",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-sundar-pichai-on-googles-ai-microsofts-ai-openai-and-did-we-mention-ai.md",
       "title": "Sundar Pichai on Google’s AI, Microsoft’s AI, OpenAI, and … Did We Mention AI?",
       "excerpt": "The tech giant is 25 years old. In a chatbot war. On trial for antitrust. But its CEO says Google is good for 25 more.",
@@ -1084,41 +1127,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-10-2-ai-stocks-to-transform-your-portfolio.md",
-      "title": "2 AI Stocks to Transform Your Portfolio",
-      "excerpt": "Data from Grand View Research indicates a strong growth trajectory, with AI industry revenue expected to mushroom to $1.181 trillion by 2030, based on a CAGR of 37.3%. Additionally, Accenture's recent findings underscore the potential for enterprise applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio",
-      "originalUrl": "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-10T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

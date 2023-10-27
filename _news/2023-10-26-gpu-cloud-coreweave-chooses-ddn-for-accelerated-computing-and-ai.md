@@ -33,6 +33,20 @@ related:
         width: 283
         height: 400
         isCached: true
+  - title: "CoreWeave to use DDN ExaScaler storage for GPU cloud"
+    excerpt: "AI-focused GPU-cloud company CoreWeave has selected DDN's ExaScaler storage solution for its Nvidia GPU cloud offering. CoreWeave will be incorporating DDN's parallel filesystem with its systems, based on Nvidia's H100 GPUs, into its cloud service."
+    publishedDateTime: 2023-10-27T09:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/coreweave-to-use-ddn-exascaler-storage-for-gpu-cloud/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/coreweave.2e16d0ba.fill-1200x630.png"
+        width: 994
+        height: 523
+        isCached: true
   - title: "StackPath Launches GPU-Accelerated Edge Compute Instances"
     excerpt: "DALLAS, Oct. 25, 2023 /PRNewswire/ -- StackPath, the industry-leading edge computing platform, today announced the addition of NVIDIA GPU-Accelerated Instances to its Virtual Machine (VM) and Container product options."
     publishedDateTime: 2023-10-25T19:15:00Z

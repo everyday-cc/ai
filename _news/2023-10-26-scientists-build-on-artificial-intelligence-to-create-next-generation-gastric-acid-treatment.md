@@ -238,6 +238,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 56
+  - title: "OpenAI AI safety measures for advanced artificial intelligence systems"
+    excerpt: "The creation of advanced artificial intelligence (AI) systems brings with it a host of opportunities, but also significant risks. In response to this, OpenAI has embarked on the development of AI safety measures and risk preparedness for advanced ..."
+    publishedDateTime: 2023-10-27T07:47:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-ai-safety-measures/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 52
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/AI-safety-measures-for-advanced-artificial-intelligence-systems.jpg"
+        width: 1280
+        height: 832
+        isCached: true
   - title: "CIOs assess generative AI's risk and reward for software engineers"
     excerpt: "Litan told ZDNET in an interview that now is the time for senior managers to start talking with their personnel about how generative AI might be exploited safely in the longer term. \"Companies need to spend time educating their personnel, including their ..."
     publishedDateTime: 2023-10-23T18:22:00Z
@@ -256,20 +270,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "‘AI, digital tools make agrifood systems climate-resilient’"
-    excerpt: "All the speakers additionally highlighted the importance of responsible use and ethics of these tools and FAO’s Martin recalled the Organization’s signing of the Rome Call for AI Ethics, a document that supports a transparent, inclusive, responsible ..."
-    publishedDateTime: 2023-10-22T16:14:00Z
-    webUrl: "https://businessmirror.com.ph/2023/10/23/ai-digital-tools-make-agrifood-systems-climate-resilient/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 39
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/05/BusinessMirror-A-broader-look-at-todays-business.jpg"
-        width: 2100
-        height: 1120
-        isCached: true
   - title: "TCS’ Obsession With Generative AI"
     excerpt: "TCS, the IT giant was catching up with generative AI, but now it has gone all in on AI in the last couple of months."
     publishedDateTime: 2023-10-23T06:30:00Z

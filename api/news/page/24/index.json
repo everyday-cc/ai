@@ -2,6 +2,57 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-10-10-adobe-unveils-firefly-image-2-ai-at-max-conference.md",
+      "title": "Adobe Unveils Firefly Image 2 AI at Max Conference",
+      "excerpt": "New generative AI for vector images, AI template design, lens blur in Lightroom, direct social publishing in Premiere Pro, and the GenStudio enterprise workflow solution were also covered.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/adobe-unveils-firefly-image-2-ai-at-max-conference",
+      "originalUrl": "https://www.pcmag.com/news/adobe-unveils-firefly-image-2-ai-at-max-conference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05WgEg7RjQu7K4RunRWAmRA-1.fit_lim.size_1200x630.v1696882852.png",
+          "width": 1117,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-supernova-festival-how-massacre-unfolded-from-verified-video-and-social-media.md",
       "title": "Supernova festival: How massacre unfolded from verified video and social media",
       "excerpt": "They had gathered in a remote area of southern Israel for the Supernova festival - an event that had promised dance, music, art and drinks at a secret location. Ticket holders were told, nearer the time, to head to a site north of the Re'im kibbutz, about 6km (3.7 miles) east of Gaza. The party's organisers promised a \"journey of unity and love\".",
@@ -1121,49 +1172,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-razorpay-introduces-optimizer-ai-powered-payment-routing-system.md",
-      "title": "Razorpay introduces 'Optimizer': AI-powered payment routing system",
-      "excerpt": "The 'Optimizer' seamless integration into more than 100 payment solutions, spanning Payment Aggregators, Payment Gateways, UPI, Banks, and other payment methods, businesses can enjoy a consolidated and thorough view of their payment processes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news/razorpay-s-new-ai-powered-system-optimizer-revolutionizes-payment-routing-2023-10-10-897113",
-      "originalUrl": "https://www.indiatvnews.com/technology/news/razorpay-s-new-ai-powered-system-optimizer-revolutionizes-payment-routing-2023-10-10-897113",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/10/razorpay-1696926402.jpg",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/razorpay-s-new-ai-powered-system-optimizer-revolutionizes-payment-routing-2023-10-10-897113",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/razorpay-s-new-ai-powered-system-optimizer-revolutionizes-payment-routing-2023-10-10-897113",
-      "publishedDateTime": "2023-10-10T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

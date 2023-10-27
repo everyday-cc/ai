@@ -2,6 +2,49 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-09-12-facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets.md",
+      "title": "Facing supply glut for chips, Apple-supplier IQE targets Asian and AI markets",
+      "excerpt": "IQE offers GaN Power electronics which aims to serve power hungry AI infrastructure as the likes of generative AI ChatGPT consumes a lot more energy.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/articleshow/103604444.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/articleshow/103604444.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-78466,msid-103604505/chips-istock.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/amp_articleshow/103604444.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/amp_articleshow/103604444.cms",
+      "publishedDateTime": "2023-09-12T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-ai-chip-startup-enfabrica-raises-125-mln-with-backing-from-nvidia.md",
       "title": "AI chip startup Enfabrica raises $125 mln, with backing from Nvidia",
       "excerpt": "Enfabrica, a Silicon Valley chip startup working on networking chips for artificial intelligence data centers, said on Tuesday that it has raised $125 million in venture capital, with Nvidia joining as a strategic investor.",
@@ -1130,57 +1173,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-ai-app-characterai-is-catching-up-to-chatgpt-in-the-us.md",
-      "title": "AI app Character.ai is catching up to ChatGPT in the U.S.",
-      "excerpt": "That’s notable growth following Character.ai’s May 2023 launch, when the startup shared it had topped 1.7 million installs in its first week. Of course, installs don’t equate to users, much less active ones. In fact, the average mobile app has a 30 ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/",
-      "originalUrl": "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 287,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/characterai-Mobile-App.png?w=1011",
-          "width": 1011,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/",
-      "publishedDateTime": "2023-09-11T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

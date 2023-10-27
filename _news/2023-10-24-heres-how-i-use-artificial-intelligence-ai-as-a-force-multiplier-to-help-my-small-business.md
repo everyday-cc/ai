@@ -7,7 +7,7 @@ originalUrl: "https://thecitizen.com/2023/10/23/how-i-use-artificial-intelligenc
 webUrl: "https://thecitizen.com/2023/10/23/how-i-use-artificial-intelligence-ai-for-my-small-business/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 768
     height: 1024
     isCached: true
-
-related:
-  - title: "2 Top Artificial Intelligence (AI) Stocks Ready for A Bull Run"
-    excerpt: "Many artificial intelligence (AI) stocks are soaring this year. The introduction of powerful and user-friendly chatbots such as Google Bard and OpenAI's ChatGPT took the world by storm, and now everybody wants a finger in that tasty pie."
-    publishedDateTime: 2023-10-22T15:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 62
 
 secured: "LfbGrC3Zn2HdC/N/r+LkKKOF9fLgLSiA8Ys6cGNM4+dHBpxdc+eKN5SHoPIH/ZKMnxC4Y1WtPLRwZJ6iPe26ktcR5SNg7BuiD6kGImWxhdU6amtV8VQiUfMKj+efPUSX706TrB8rNXvbN/Ecju24Oq1V+zjg9vsmofBQ1MPiilOCV3u37j80LkV8C66iOz5PirhPDhZKc4z7IBIdVMTVaDFpUl/OtRAyYtWJSYxhJPGCZFAfmJrJYM/5r1cTnh+1AyfR2dcAA9kWcybUK/6LTnpBCtTn0uFEdT4oByRO2BLHV/FiH1maRZ2FWRlcHxJa7ETSVh8fTE0cwotSEwFKsPSEY+jKk9mQNlq1rrXDwspHILG3pj0nk0qy0+FTw6Zvwt8gBMCOvZAGpONEIXF1oZMGQYrBWGEd9c03jL8+m61thNRijx2iB3sdhGZVVORo3rp9k2k4ztiDj1k1cFWs9zHDWVlRhtNKrUO0PDaLGuo6rQZq5FmqO8MqRq0lSunaOBVgzhJEgVmyDQwigqh7SQ==;A8c3/rwxxmLF8A9Cv0lZRQ=="
 ---

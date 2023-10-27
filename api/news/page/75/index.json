@@ -2,6 +2,58 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2023-09-05-intel-wants-to-beat-bias-ai-training-data.md",
+      "title": "Intel wants to beat bias AI training data",
+      "excerpt": "He optimistically noted that, despite Nvidia's lead, it won't take long for Intel to start racking up orders for AI chips. \"They're doing well. We all have to give them credit,\" Gelsinger said. \"But we're going to show up.\" Plus, with Intel's recent debut ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias-ai-training-data/",
+      "originalUrl": "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias-ai-training-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/746485/featured-daily-upside-image.png",
+          "width": 1390,
+          "height": 927,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-04T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-04-stradvision-and-horizon-robotics-joined-forces-for-efficient-adas-solutions.md",
       "title": "STRADVISION and Horizon Robotics Joined Forces for Efficient ADAS Solutions",
       "excerpt": "STRADVISION's SVNet is now available on Horizon Robotics Journey series computing solutions. Together, both companies will work together to accelerate the mobility transformation of the automobile industry and bring more value to consumers with an enhanced driving experience that prioritizes safety, convenience, and enjoyment.",
@@ -1125,49 +1177,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-03-this-startup-wants-to-use-ai-to-improve-your-morning-commute.md",
-      "title": "This Startup Wants to Use AI to Improve Your Morning Commute",
-      "excerpt": "Single-occupancy self-driving cars? \"I don't think it's going to be better for society overall,\" says Oxa's chief technology officer.",
-      "sourceUrl": null,
-      "webUrl": "https://decrypt.co/154729/oxa-startup-using-ai-to-improve-morning-commute",
-      "originalUrl": "https://decrypt.co/154729/oxa-startup-using-ai-to-improve-morning-commute",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/09/Beep-Oxa-16x9-1-gID_7.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-02T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "decrypt",
-        "domain": "decrypt.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

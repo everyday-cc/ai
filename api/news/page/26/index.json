@@ -2,6 +2,48 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-10-09-16-year-old-pranjali-awasthi-owner-of-ai-startup-delvai-raises-37-crore-funding.md",
+      "title": "16-year-old Pranjali Awasthi, owner of AI startup Delv.AI, raises ₹3.7 crore funding",
+      "excerpt": "Sixteen-year-old Indian girl Pranjali Awasthi, the owner of artificial intelligence (AI) startup Delv.AI has successfully secured a funding of around ₹ 3.7 crore, said a report by Indiatoday.in. At a Miami Tech Week event, Pranjali revealed that Delv.AI was founded by her in January 2022, as per the report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding-11696863120768.html",
+      "originalUrl": "https://www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding-11696863120768.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/10/09/1600x900/The-words-Artificial-Intelligence-are-seen-in-an-i_1685385941309_1696863759427.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding/amp-11696863120768.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding/amp-11696863120768.html",
+      "publishedDateTime": "2023-10-09T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-ai-and-ethics-with-animesh-mukherjee.md",
       "title": "AI and ethics with Animesh Mukherjee",
       "excerpt": "He has received many notable awards and fellowships including the Facebook ethics for AI research award, India, Google course award for the course AI and Ethics, IBM faculty award, Humboldt Fellowship for Experienced Researchers, Simons Associateship ...",
@@ -1134,49 +1176,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-08-google-claims-their-ai-innovation-far-beyond-rivals.md",
-      "title": "Google claims their AI innovation far beyond rivals",
-      "excerpt": "A company executive, while introducing their latest flagship smartphones, emphasized that Google's artificial intelligence technology has surged",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news",
-      "originalUrl": "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2023/10/08/thumbs/800x531/295624.jpg",
-          "width": 1600,
-          "height": 1062,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp",
-      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp",
-      "publishedDateTime": "2023-10-08T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sabah",
-        "domain": "dailysabah.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

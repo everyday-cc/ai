@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-10-19-honda-gm-cruise-plan-to-begin-japan-driverless-ride-service-in-early-2026.md",
+      "title": "Honda, GM, Cruise plan to begin Japan driverless ride service in early 2026",
+      "excerpt": "TOKYO (Reuters) - Honda Motor said on Thursday that it aims to set up a joint venture with General Motors and Cruise to begin a driverless ride service in Japan in early 2026.",
+      "sourceUrl": null,
+      "webUrl": "https://dunyanews.tv/en/Technology/763900-Honda,-GM,-Cruise-plan-to-begin-Japan-driverless-ride-service-in-early-2",
+      "originalUrl": "https://dunyanews.tv/en/Technology/763900-Honda,-GM,-Cruise-plan-to-begin-Japan-driverless-ride-service-in-early-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.dunyanews.tv/news/2023/October/10-19-23/news_big_images/763900_28879140.jpg",
+          "width": 752,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dunyanews.tv/amp/english/763900.php",
+      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/763900.php",
+      "publishedDateTime": "2023-10-18T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dunya News",
+        "domain": "dunyanews.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-baidu-to-integrate-ernie-40-which-rivals-gpt-4-into-search.md",
       "title": "Baidu to integrate ERNIE 4.0, which ‘rivals’ GPT-4, into Search",
       "excerpt": "Search Engine Land » PPC » Baidu to integrate ERNIE 4.0, which ‘rivals’ GPT-4, into Search Baidu has unveiled the latest edition of its generative AI model, ERNIE 4.0. The Chinese technology ...",
@@ -723,8 +766,8 @@
       "title": "AI Skills for All: How IBM Is Helping To Close the Digital Divide",
       "excerpt": "For instance, in one hands-on simulation, learners build and run a machine learning model with IBM Watson Studio. Beyond the fundamentals, we recently announced a new generative AI roadmap that ...",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/accesswire/794271msn/ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide",
-      "originalUrl": "https://www.morningstar.com/news/accesswire/794271msn/ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide",
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60404533-ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60404533-ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide-200.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -743,11 +786,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T11:03:00-07:00",
+      "publishedDateTime": "2023-10-18T12:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1130,58 +1173,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-the-microsoft-azure-incubations-team-launches-radius-a-new-open-application-platform-for-the-cloud.md",
-      "title": "The Microsoft Azure Incubations Team launches Radius, a new open application platform for the cloud",
-      "excerpt": "The Microsoft Azure Incubations team is excited to announce Radius, a cloud-native application platform that enables developers and platform engineers who support them to collaborate on delivering and managing cloud-native applications that follow corporate best practices for cost, operations, and security,",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/the-microsoft-azure-incubations-team-launches-radius-a-new-open-application-platform-for-the-cloud/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/the-microsoft-azure-incubations-team-launches-radius-a-new-open-application-platform-for-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/10/Mark-Russ-Pic-2.png",
-          "width": 928,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

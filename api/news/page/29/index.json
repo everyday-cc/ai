@@ -2,6 +2,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-10-06-ai-facial-recognition-campaigners-and-mps-call-for-ban.md",
+      "title": "AI facial recognition: Campaigners and MPs call for ban",
+      "excerpt": "Police and private companies should \"immediately stop\" the use of facial recognition surveillance, says a group of politicians and privacy campaigners. They have raised concerns around human rights, potential for discrimination and \"the lack of a democratic mandate\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/ai-facial-recognition-campaigners-mps-230159524.html",
+      "originalUrl": "https://www.aol.com/ai-facial-recognition-campaigners-mps-230159524.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_bbc_articles_618/656ea96363e253c179d5d40cd8be9320",
+          "width": 976,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T19:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-06-us-poised-to-tighten-restrictions-on-chip-equipment-exports-to-china.md",
       "title": "US poised to tighten restrictions on chip equipment exports to China",
       "excerpt": "A rule aimed at restricting exports of U.S. chipmaking equipment to China is in the final stages of review, suggesting the Biden administration is tightening restrictions on Beijing.",
@@ -1099,57 +1142,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-jpmorgan-ceo-jamie-dimon-says-ai-could-ultimately-reduce-the-workweek-to-35-daysbut-theres-a-catch.md",
-      "title": "JPMorgan CEO Jamie Dimon Says AI Could Ultimately Reduce The Workweek To 3.5 Days—But There’s A Catch",
-      "excerpt": "JPMorgan CEO Jamie Dimon predicts that artificial intelligence will lead to a three-and-a-half-day workweek for the next generation of employees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/10/05/jpmorgan-ceo-jamie-dimon-says-ai-could-ultimately-reduce-the-workweek-to-35-days-but-theres-a-catch/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/10/05/jpmorgan-ceo-jamie-dimon-says-ai-could-ultimately-reduce-the-workweek-to-35-days-but-theres-a-catch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651ee11751addfab8a33165f/0x0.jpg?format=jpg&crop=8191,4605,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/10/05/jpmorgan-ceo-jamie-dimon-says-ai-could-ultimately-reduce-the-workweek-to-35-days-but-theres-a-catch/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/10/05/jpmorgan-ceo-jamie-dimon-says-ai-could-ultimately-reduce-the-workweek-to-35-days-but-theres-a-catch/amp/",
-      "publishedDateTime": "2023-10-05T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

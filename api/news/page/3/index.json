@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-25-alberta-investing-in-ai-that-predicts-where-wildfires-may-ignite.md",
+      "title": "Alberta investing in AI that predicts where wildfires may ignite",
+      "excerpt": "“It’s a next-day fire-likelihood forecast,” said Graham Erickson, senior lead machine learning developer with AltaML, which uses Microsoft’s Azure AI technology to build its own software. Erickson said wildfire officers put people ...",
+      "sourceUrl": null,
+      "webUrl": "https://globalnews.ca/news/10047983/alberta-investing-in-ai-that-predicts-where-wildfires-may-ignite/",
+      "originalUrl": "https://globalnews.ca/news/10047983/alberta-investing-in-ai-that-predicts-where-wildfires-may-ignite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://globalnews.ca/wp-content/uploads/2023/10/2023102315100-6536c30e420cce621d2d804ejpeg-1.jpg?quality=85&#038;strip=all",
+          "width": 1024,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://globalnews.ca/news/10047983/alberta-investing-in-ai-that-predicts-where-wildfires-may-ignite/amp/",
+      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/10047983/alberta-investing-in-ai-that-predicts-where-wildfires-may-ignite/amp/",
+      "publishedDateTime": "2023-10-25T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-25-amazon-develops-lifestyle-imagery-ai-for-lazy-advertisers.md",
       "title": "Amazon Develops 'Lifestyle Imagery' AI for Lazy Advertisers",
       "excerpt": "The Amazon Ads team is launching a new image generation service in beta, which takes advantage of generative AI to place products in realistic, but completely fake settings with a short description and the push of a button. If it proves popular, we should hopefully never see a photo of a toaster or an air fryer on a white background again.",
@@ -459,7 +502,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/coreweave-chooses-ddn-storage-to-power-accelerated-computing-and-ai-in-the-cloud-1032737969",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1196,57 +1239,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-godfathers-of-ai-have-a-new-warning-get-a-handle-on-the-tech-before-its-too-late.md",
-      "title": "Godfathers of AI Have a New Warning: Get a Handle on the Tech Before It's Too Late",
-      "excerpt": "Two dozen experts warn that 'AI systems could rapidly come to outperform humans in an increasing number of tasks [and] pose a range of societal-scale risks.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/godfathers-of-ai-have-a-new-warning-get-a-handle-on-the-tech-before-its",
-      "originalUrl": "https://www.pcmag.com/news/godfathers-of-ai-have-a-new-warning-get-a-handle-on-the-tech-before-its",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01k5X7OMVLMscYSAMnDFrbn-1.fit_lim.size_1200x630.v1698176197.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

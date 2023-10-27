@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/coreweave-chooses-
 webUrl: "https://markets.businessinsider.com/news/stocks/coreweave-chooses-ddn-storage-to-power-accelerated-computing-and-ai-in-the-cloud-1032737969"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "CoreWeave to use DDN ExaScaler storage for GPU cloud"
+    excerpt: "AI-focused GPU-cloud company CoreWeave has selected DDN's ExaScaler storage solution for its Nvidia GPU cloud offering. CoreWeave will be incorporating DDN's parallel filesystem with its systems, based on Nvidia's H100 GPUs, into its cloud service."
+    publishedDateTime: 2023-10-27T09:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/coreweave-to-use-ddn-exascaler-storage-for-gpu-cloud/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/coreweave.2e16d0ba.fill-1200x630.png"
+        width: 994
+        height: 523
+        isCached: true
   - title: "GPU Cloud CoreWeave Chooses DDN for Accelerated Computing and AI"
     excerpt: "High performance data storage company DDN today announced that CoreWeave has selected DDN’s EXAScaler storage for its NVIDIA GPU cloud offering. By incorporating DDN’s parallel filesystem with systems based on NVIDIA H100 Tensor Core GPUs into the on-demand multi-node GPU cloud  service,"
     publishedDateTime: 2023-10-25T18:09:00Z

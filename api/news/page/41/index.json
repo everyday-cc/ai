@@ -2,6 +2,49 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-09-27-iisc-project-to-bridge-language-gap-to-tech-access.md",
+      "title": "IISc project to bridge language gap to tech access",
+      "excerpt": "REcognising SPeech in INdian languages (RESPIN) was conceived to address the issue of inadequate speech data in Indian languages and cater to the large majority of users who can communicate only through spoken languages and dialects. Launched in May 2021, RESPIN is set for completion by the end of 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanherald.com/india/karnataka/bengaluru/iisc-project-to-bridge-language-gap-to-tech-access-2702157",
+      "originalUrl": "https://www.deccanherald.com/india/karnataka/bengaluru/iisc-project-to-bridge-language-gap-to-tech-access-2702157",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.deccanherald.com/deccanherald%2F2023-09%2F9c101620-d1f6-4ebd-bfce-e36258305507%2FIISc_Bangalore_DH_1547756621.jpg?rect=0%2C20%2C1000%2C525&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Herald",
+        "domain": "deccanherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-oracles-transformation-is-clicking-cloudworld-recap.md",
       "title": "Oracle’s Transformation Is Clicking: CloudWorld Recap",
       "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, gives his insights on Oracle over the last couple of weeks including Oracle CloudWorld.",
@@ -1005,50 +1048,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-artificial-intelligence-systems-spending-market-growing-trends-and-demands-analysis-forecast-2023-to-2030-google-microsoft-facebook.md",
-      "title": "Artificial Intelligence Systems Spending Market Growing Trends and Demands Analysis Forecast 2023 to 2030 | Google, Microsoft, Facebook",
-      "excerpt": "The Market Research Report 2023-2030 ... Who are the Top key players in the Artificial Intelligence Systems Spending market? Google, Microsoft, Facebook, IBM, Apple, Amazon, Intel, Infosys ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34903899/artificial-intelligence-systems-spending-market-growing-trends-and-demands-analysis-forecast-2023-t",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34903899/artificial-intelligence-systems-spending-market-growing-trends-and-demands-analysis-forecast-2023-t",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34903899",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34903899",
-      "publishedDateTime": "2023-09-26T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

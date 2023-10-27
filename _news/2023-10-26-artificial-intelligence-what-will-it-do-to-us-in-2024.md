@@ -9,7 +9,7 @@ ampWebUrl: "https://www.philstar.com/the-freeman/cebu-business/2023/10/27/230691
 cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/the-freeman/cebu-business/2023/10/27/2306914/artificial-intelligence-what-will-it-do-us-2024/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

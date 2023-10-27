@@ -2,11 +2,11 @@
 category: news
 title: "AI risk similar to climate crisis, world cannot afford to delay response: Google Deepmind Chief"
 excerpt: "In a recent interview, Demis Hassabis said that he anticipates the creation of an international body like IPCC and CERN for the regulation of AI."
-publishedDateTime: 2023-10-24T13:59:00Z
-originalUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/"
-webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/"
-ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/lite/"
-cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/lite/"
+publishedDateTime: 2023-10-24T13:58:00Z
+originalUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-similar-to-climate-crisis-world-cannot-afford-to-delay-response-google-deepmind-chief-8997821/"
+webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-similar-to-climate-crisis-world-cannot-afford-to-delay-response-google-deepmind-chief-8997821/"
+ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc/lite/"
 type: article
 quality: 62
 heat: -1
@@ -73,7 +73,21 @@ related:
         width: 2500
         height: 1501
         isCached: true
+  - title: "AI risks are as bad as climate change"
+    excerpt: "Google boss calls for an oversight bodyThe world must treat the risks from artificial intelligence as seriously as the climate crisis and cannot afford to delay its response, one of the technology's leading figures has warned."
+    publishedDateTime: 2023-10-27T09:43:00Z
+    webUrl: "https://www.fudzilla.com/news/57841-ai-risks-are-as-bad-as-climate-change"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/8a813a8dba441a235fb517ad1601db69_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
-secured: "jn7cxXJbiUTWWqNKzqEUseGA5Uimm/dny7PlbYt45A1Io/62SeFT+6J0IefCLBWonmT5EgzpJycTAnXYkt9m41Vd0UG4tpn/mAf9ncW6qTzqNAnrS604s1mP5GU274oCEydoM1KeAb8RFGmZh7pGkb8K5mqG7/VC7lHLNlKJ9Q/nRolAozCzD1SL63v9PXuNkJ6b5GXBiBXZNUHbm1HGuTu/DuxEAOHRADHJlrZC1NXMesVEoN7aypJwd1xMchXhYbFHlKmVZ/eqUk6h7cyyS0eA4qyat6sU6GMptXYvG9UMmMDp7DwDK8WQvz5ycP58sI2nfPS8ueAvw4CNySbyRfHCmsdUVmBt/L9iXDkVeSrvzd9b9JiJoY1HRLUBmiYWGYcFf2o46Tz2cDW2HLEwyP/rFbEYVzQlERfsqn9G4XgFOqonszwerSiGV6fq02Tu7REUar/fBUoqtzzxfHSfsmO/WUysb+wrAsqApwiFonRwWaq9M4DmG+mn3IdVoJSWOmITeNiOJ/3MpAPGAqnnfw==;P7Olnp0LC2Dip+DjbK+Obg=="
+secured: "z3ODCBEcQSqpWSc2dCY2NSAAdx9womcJwW8ayP5LlYhdXKSYrdoexSRi76d3BpyVXN5LEQDyENKytKrHw3UKfIprMm5eiMgtAt/hRAoWuQF9+IvHc7butLOxCmNMUdkzNzjod7XY5p7jSAN+UPzmn3LI53C+dhFrz/C8SV4wN2qOQSN+Lm2cAkkq3MPK38WcuPcx5pqQpX4T9iUFsbYnOLijh5aOd+n0AzPWCeC8/vQGapzcyiAvNY7tnxllXUnZ04ZmXTXuOy8W0kOg7iugzyVwxRpL0Nm2jtDRwg7gfQHcj7uVx0nGLg7bBfzpNUKQyspnvT7ZcralI3+V08OIQZjd3MO7dMq02seyNGHWTI0=;4DyAz/4rCStQSDolhQ/bBA=="
 ---
 
