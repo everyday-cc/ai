@@ -21,19 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Security threats in AIs such as ChatGPT revealed by researchers"
-    excerpt: "Artificial intelligence (AI) tools such as ChatGPT can be tricked into producing malicious code, which could be used to launch cyber attacks, according to research from the University of Sheffield."
-    publishedDateTime: 2023-10-24T15:49:00Z
-    webUrl: "https://www.sheffield.ac.uk/news/security-threats-ais-such-chatgpt-revealed-researchers"
+  - title: "Boston Dynamics uses ChatGPT to create a robot tour guide"
+    excerpt: "Check out the British butler guide at the start of the video, for example ... him over to an early version of Spot among Boston Dynamics’ display of robots. Klingensmith says AI might make it possible for robots “not just to follow our commands ..."
+    publishedDateTime: 2023-10-27T02:20:00Z
+    webUrl: "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/"
+    ampWebUrl: "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp"
     type: article
     provider:
-      name: University of Sheffield
-      domain: sheffield.ac.uk
-    quality: 56
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
     images:
-      - url: "https://cdn.sheffield.ac.uk/sites/default/files/styles/two_thirds_2x/public/2023-10/GettyImages-1585385780.jpg?h=599ff58f&itok=lGT6jrS3"
-        width: 1504
-        height: 846
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/10/boston-dynamics-spot-AI.jpeg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How AI, like ChatGPT and Bard, are changing education"
     excerpt: "To learn more about how AI could affect education, we spoke with the former chief digital officer for New York City, the Met museum and Columbia University."
@@ -49,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "OCBC to Deploy Generative AI Chatbot Powered by ChatGPT for Staff Globally"
+    excerpt: "OCBC announced that it will deploy a generative artificial intelligence (AI) chatbot to its 30,000 employees globally in November 2023."
+    publishedDateTime: 2023-10-24T06:43:00Z
+    webUrl: "https://fintechnews.sg/79276/ai/ocbc-to-deploy-generative-ai-chatbot-powered-by-chatgpt-for-staff-globally/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 37
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/10/OCBC-to-Deploy-Generative-AI-Chatbot-Powered-by-ChatGPT-for-Staff-Globally.jpg"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "What’s Up with ChatGPT Enterprise"
     excerpt: "Just a year post-launch of ChatGPT, Salesforce, Morgan Stanley, and Wix, who were its early customers, have decided to explore other options."
     publishedDateTime: 2023-10-25T08:13:00Z
@@ -63,15 +79,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "A ChatGPT rival just published a new constitution to level up its AI guardrails, and prevent toxic and racist responses"
-    excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Anthropic AI, an Amazon-backed AI startup and rival to OpenAI, has taken a democratic approach to governing its artificial intelligence. The firm, which is behind the ..."
-    publishedDateTime: 2023-10-23T19:33:00Z
-    webUrl: "https://www.businessinsider.com/anthropic-new-crowd-sourced-ai-constitution-accuracy-safety-toxic-racist-2023-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
   - title: "How to Create a Resume Using ChatGPT A Step-by-Step Guide to the Perfect Resume in Under 90 Seconds"
     excerpt: "In the early 2000’s, it was common for people to say things like, “the internet? Oh I don’t care for any of that fancy tech stuff.” Fast forward 10 years later and nearly everyone in the world was using the internet on a daily basis."
     publishedDateTime: 2023-10-26T06:35:00Z
@@ -86,15 +93,6 @@ related:
         width: 450
         height: 270
         isCached: true
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "Powered by AI models trained on troves of text pulled from the internet, chatbots such as ChatGPT and Google’s Bard responded to the researchers’ questions with a range of mis"
-    publishedDateTime: 2023-10-22T17:12:00Z
-    webUrl: "https://thegrio.com/2023/10/22/ai-chatbots-risk-spreading-racist-ideas-about-health/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 5
   - title: "14 Expert Tips on How to Get the Most Out of ChatGPT Responses"
     excerpt: "In the fast-paced, continually changing world of artificial intelligence and machine learning, ChatGPT emerges as a standout example of what a"
     publishedDateTime: 2023-10-25T12:02:00Z

@@ -44,20 +44,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 39
-  - title: "OCBC to Deploy Generative AI Chatbot Powered by ChatGPT for Staff Globally"
-    excerpt: "OCBC announced that it will deploy a generative artificial intelligence (AI) chatbot to its 30,000 employees globally in November 2023."
-    publishedDateTime: 2023-10-24T06:43:00Z
-    webUrl: "https://fintechnews.sg/79276/ai/ocbc-to-deploy-generative-ai-chatbot-powered-by-chatgpt-for-staff-globally/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 37
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/10/OCBC-to-Deploy-Generative-AI-Chatbot-Powered-by-ChatGPT-for-Staff-Globally.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "We Used the Meta AI Chatbot to Plan a Trip. Here’s What It Got Wrong."
     excerpt: "Meta released an AI chatbot for WhatsApp, Instagram, and Facebook Messenger. We tested it for travel planning."
     publishedDateTime: 2023-10-23T21:33:00Z

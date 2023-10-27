@@ -53,6 +53,20 @@ related:
         width: 328
         height: 250
         isCached: true
+  - title: "Internet of Robotics Things Market: Anticipated Growth of US$ 210 Billion by 2032 with a 25.6% CAGR"
+    excerpt: "The internet of robotic things (IoRT)  market revenue was estimated at US$ 21.4 billion in 2022 and is anticipated to grow at a CAGR of 25.6 % from 2022 to 2032. By the end of 2032, the IoRT market is expected to reach a valuation of US$ 210 billion."
+    publishedDateTime: 2023-10-27T02:33:00Z
+    webUrl: "https://www.fmiblog.com/2023/10/27/internet-of-robotics-things-market-anticipated-growth-of-us-210-billion-by-2032-with-a-25-6-cagr/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 40
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/10/Internet-of-Robotics-Things-Market.jpg"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Healthcare Analytical Testing Services Market Envisions US$ 49.6 Billion Valuation by 2032| Future Market Insights,Inc."
     excerpt: "The global Healthcare Analytical Testing Services Market was estimated by Future Market Insights to be worth roughly US$ 11.9 billion in 2021. The market is anticipated to grow at a CAGR of 14% over the following ten years,"
     publishedDateTime: 2023-10-25T04:39:00Z

@@ -23,15 +23,22 @@ topics:
   - AI
 
 related:
-  - title: "Yahoo Finance's NEXT: How rivals are taking on Nvidia in the AI chip race"
-    excerpt: "Nvidia (NVDA) is dominating the AI chip market, but it may not hold onto that lead for long. Traditional semiconductor rivals like AMD (AMD) and Intel (INTC) are entering the AI space, but so are Big Tech names like Microsoft (MSFT) and Alphabet (GOOGL)."
-    publishedDateTime: 2023-10-23T19:24:00Z
-    webUrl: "https://www.aol.com/yahoo-finances-next-rivals-taking-192451983.html?ref=biztoc.com"
+  - title: "AI startup Twelve Labs attracts $10 mil. from Nvidia, Intel, others"
+    excerpt: "Twelve Labs, Korea's generative artificial intelligence (AI) startup, has attracted a combined $10 million from U.S. chip design company Nvidia, U.S. chipmaker Intel and two others, according to the company Friday."
+    publishedDateTime: 2023-10-27T01:02:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/10/129_361984.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361984"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361984"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 50
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 57
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/4c37929bae5d4357a93bfea34f1e49f4.jpg"
+        width: 500
+        height: 312
+        isCached: true
   - title: "Google, Nvidia invest in AI startup CentML"
     excerpt: "CentML – a Toronto-based AI startup has received new funding from Nvidia Corp (NASDAQ: NVDA) and Alphabet Inc’s (NASDAQ: GOOGL) Google. On Wednesday, the artificial intelligence company said it secured a total of $27 million from names that also include Radical Ventures, Deloitte Ventures, and Thomson Reuters Ventures."
     publishedDateTime: 2023-10-25T18:07:00Z

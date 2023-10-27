@@ -9,8 +9,8 @@ ampWebUrl: "https://www.telegraphindia.com/amp/brand-studio/how-fincover-fintech
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: The Telegraph
@@ -28,36 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "The convergence of finance and healthcare: How fintech is bridging the gap"
-    excerpt: "By harnessing the power of AI and ML algorithms, and using relevant healthcare and financial data, healthcare-focused fintech can help streamline financial services in the healthcare industry. Technological advancements have successfully paved their way ..."
-    publishedDateTime: 2023-10-22T09:31:00Z
-    webUrl: "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/"
-    ampWebUrl: "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/"
+  - title: "Phoenix AZ’s Smart Home Revolution: The Future of FinTech in Housing"
+    excerpt: "The housing market in Phoenix, Arizona is embracing smart home technology and financial technology (fintech) at a rapid pace. Experts predict over 75% of new homes built in Phoenix will include smart home technology by 2025."
+    publishedDateTime: 2023-10-23T10:40:00Z
+    webUrl: "https://techbullion.com/phoenix-azs-smart-home-revolution-the-future-of-fintech-in-housing/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-06T160116.656.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Climate fintech is exciting investors right now. Here's why it's primed to be the next red-hot sector."
-    excerpt: "Fintech startups that speed up decarbonization, manage climate risks, and facilitate renewable energy purchases are gaining traction, according to VCs."
-    publishedDateTime: 2023-10-24T10:01:00Z
-    webUrl: "https://www.businessinsider.com/climate-fintech-red-hot-sector-is-capturing-investor-attention-right-now-2023-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/6531215ebe9edfa8eda489e6?width=1200&format=jpeg"
-        width: 1200
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/HBSB-Holdings-1000x600.jpg"
+        width: 1000
         height: 600
         isCached: true
+  - title: "UAE fintech Maly to launch AI-powered tools to boost long-term investment and saving plans in the GCC"
+    excerpt: "The startup’s aggressive move comes amid the UAE – as well as Saudi Arabia – kicking off initiatives to implement pension and other financial security plans in the employment sector"
+    publishedDateTime: 2023-10-24T10:18:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/banking-finance/uae-fintech-maly-to-launch-ai-powered-tools-to-boost-long-term-investment-and-saving-plans-in-the-gcc"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 4
   - title: "Hong Kong FinTech Week 2023 “Fintech Redefined”"
     excerpt: "Invest Hong Kong (InvestHK) today (October 18) unveiled details of Hong Kong FinTech Week 2023 (HKFW). The eighth edition of HKFW, themed \"Fintech Redefined.\" will take place from October 30 to November 5."
     publishedDateTime: 2023-10-25T13:35:00Z
@@ -66,6 +59,15 @@ related:
     provider:
       name: financefeeds
       domain: financefeeds.com
+    quality: 4
+  - title: "OSU’s Fisher College Launches Fintech Micro-Credential"
+    excerpt: "COLUMBUS, Ohio – A new graduate credential offering from The Ohio State University’s Max M. Fisher College of Business is preparing professionals with introductory-level knowledge of the emerging financial technology that organizations are using to improve and automate the delivery of financial services."
+    publishedDateTime: 2023-10-26T08:52:00Z
+    webUrl: "https://businessjournaldaily.com/osus-fisher-college-launches-fintech-micro-credential/"
+    type: article
+    provider:
+      name: Business Journal Daily
+      domain: businessjournaldaily.com
     quality: 4
 
 secured: "111LK+P9aIFzUpHXusu5frh1GW8p3YccTtDrZW6+5WV3yp2bkJON8xofJ7blZ75Qs5bd0Ipm1qvxFVjifmdcz13SwuSo83P8A/VsT+X1Ek2gul1ujxayoCAZonnB5sFf1/HZZs7jJ15UnOv+Kx6JmleNIF5uUVeZ+YA2T2PFpInzEbLBamSr8FcgcwIW8MWLObNTbid2zPmzmGo6U9DhjP/bAhCU/VaZp3S9NtuXYKZlFLKB81CyLvyxoZqooa0b0gaArizO4+OCAP/dDj+r2K04i/KuHQz2PPU/KJuoV7B6MKvG1DOjQAdhZOqnSdJBv2jFLfblj0cwBNlPzlNm8FHG1kDu6nL6m+gtBaTz2xG5q6JOUe/7cU/H3Mpis/oTGxZYlM1DiCA0rGvNRkETH4kZmNqA140lFETYmLjX2xwmdNT8kI4+YlkMs9Qu1CQxQRb36D/3DejR8/tI1eXRSy9LjxmQA5fp9zZ9yWPm9JEGAeEDVBM925bGEc7bHWI27U3je0GsoZMETQOm4TCkVA==;tm3fylrQp1ULmoJyAqgfEA=="

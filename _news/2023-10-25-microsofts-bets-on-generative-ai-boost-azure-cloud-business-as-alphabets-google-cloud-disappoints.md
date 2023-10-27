@@ -2,9 +2,9 @@
 category: news
 title: "Microsoft’s bets on generative AI boost Azure cloud business, as Alphabet’s Google Cloud disappoints"
 excerpt: "Microsoft’s revenue from the Azure cloud-computing platform beat estimates in the September quarter, while Google Cloud’s sales growth ground to its slowest pace in at least 11 quarters."
-publishedDateTime: 2023-10-25T03:40:00Z
-originalUrl: "https://www.scmp.com/tech/big-tech/article/3239082/microsofts-bets-generative-ai-boost-azure-cloud-business-alphabets-google-cloud-disappoints"
-webUrl: "https://www.scmp.com/tech/big-tech/article/3239082/microsofts-bets-generative-ai-boost-azure-cloud-business-alphabets-google-cloud-disappoints"
+publishedDateTime: 2023-10-25T11:39:00Z
+originalUrl: "https://www.scmp.com/tech/big-tech/article/3239082/microsofts-bets-generative-ai-boost-azure-cloud-business-alphabets-google-cloud-disappoints?module=live&pgtype=homepage"
+webUrl: "https://www.scmp.com/tech/big-tech/article/3239082/microsofts-bets-generative-ai-boost-azure-cloud-business-alphabets-google-cloud-disappoints?module=live&pgtype=homepage"
 type: article
 quality: 84
 heat: -1
@@ -678,6 +678,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "4PX5GatUqurGjUwycTf9B3Izt3CiehEjRazn7yMUbg6n24XMMTZ4afyZjbNKqMyoCdDNJPhUiTakIqp+WUqnfuYk4GAo2eqvMksmAmpN2xOmp/xpgpjKW/4zKSDdO7Om2Eu7IbrG7QXxGpHvkGueqjqJEcTG8rJJmL9CYdweUK8UxcoxcLw07nCqEe258gFY6TorsD5tqhbvR5InL0lTboTxv602arPD6Ksa4TVVDhlsfaMcZk3YcZ/aiWrOfXMIchGzY0sJ07A5s8sOa2zyW4S2gK42zdpq2bEJ5e/kAygpygY8+waqTpIA7e68CI2YGfaJADycRCm4Avi/PNs2kjXMVZBsWzZyxL15TlQg4BzsHdbQHHIbBckeJB7IV9j6wB0TZEsxiKD/+7FLEyBCyHKO2HVm6qb58iGbkbu6c9NmvpQQqt5QgL0I5Q+KUYNMp8viXoFTPHkZlFtrX0Je/RUi40AqeI9LmubznqQxDUQlPKgD9xM05vAoZ0qNIK6pDAmkgRkBX1JubcJvm2+xfQ==;bjtnbE6Wv8gmZ5dWk77OmA=="
+secured: "44+7FmijVtiF00e1P5vBkEz0S2bC6qh5b7gvhXpkus2QeP5G6BwIbVys4tV8q4mV/ubWJRQ2OaroxhFo4TAWoAqH2BTYQ0Ys4E6KDaLRK8+dmL2LuMDrAEHMUisDaTFWqM21Lt1x6y3DSbZB+4HFNoHYdJ3EZOeBvKlCpI1Ucr+PrzqWPxNotRPvXCADZKGsoUrRp7ASal9TsJM86Zmxc1Ur5AUEI9bWP4w7hUtim8ddnlUmcd4UeRTuGo6S4A1qoIJ/+23/ZM70s9ErRaAzrSQlTnWYpZ2u3QGoGFbP3aVPikNetTx7hYlntoWbZUK7V9f5YJ9KOpx3p/hY/59UBf5figCgL7KsHX9LknW5tdQ=;ur/YtVH3phPUleLbzOfAlA=="
 ---
 

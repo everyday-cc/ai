@@ -127,6 +127,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "8 Generative AI Lessons From The Classroom"
+    excerpt: "Continuous Adaptation, Effective Prompting, Experimentation, Critical Thinking, Effective Platforms, Privacy, Beyond Text Generation, Defining Boundaries, Assessment"
+    publishedDateTime: 2023-10-27T02:04:00Z
+    webUrl: "https://www.forbes.com/sites/beatajones/2023/10/26/8-generative-ai-lessons-from-the-classroom/"
+    ampWebUrl: "https://www.forbes.com/sites/beatajones/2023/10/26/8-generative-ai-lessons-from-the-classroom/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/beatajones/2023/10/26/8-generative-ai-lessons-from-the-classroom/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653722c37ff5cf851975b8e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1353
+        height: 900
+        isCached: true
   - title: "Human-In-The-Loop AI: A Collaborative Teammate In Operations And Incident Management"
     excerpt: "This perspective holds particular relevance for operations teams and incident management. Rather than replacing human involvement, AI stands to be an ally in these mission-critical domains. Analogous to how automation streamlines repetitive tasks, AI can enhance the problem-solving capacity of operations teams."
     publishedDateTime: 2023-10-24T11:30:00Z
@@ -170,22 +186,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6536db33f0c0d8b1f46f464e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1176
         height: 900
-        isCached: true
-  - title: "Role of CX automation and generative AI"
-    excerpt: "Customers expect personalised and efficient service, and the emergence of generative AI has led to a significant shift in the way businesses approach customer service and customer delight. Like human interactions,"
-    publishedDateTime: 2023-10-22T09:48:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-role-of-cx-automation-and-generative-ai-3283107/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-role-of-cx-automation-and-generative-ai-3283107/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-role-of-cx-automation-and-generative-ai-3283107/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/My-project-2.png"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Google Cloud fails to cash in on generative AI"
     excerpt: "The explosive growth in the demand for generative AI has been a big revenue driver for public clouds. However, while some cloud players are reaping the benefits of user demand, Google Cloud seems to be failing to cash in on one of the biggest technology opportunities in decades."

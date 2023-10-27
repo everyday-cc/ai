@@ -3,16 +3,16 @@ category: news
 title: "Self-driving operator Cruise's operations in AZ unaffected, despite CA permit suspension"
 excerpt: "The company's driverless permits were suspended in California, but the move does not affect Arizona operations."
 publishedDateTime: 2023-10-26T20:19:00Z
-originalUrl: "https://www.usatoday.com/story/money/business/tech/2023/10/26/self-driving-car-operator-cruise-will-continue-operations-in-arizona/71332901007/"
-webUrl: "https://www.usatoday.com/story/money/business/tech/2023/10/26/self-driving-car-operator-cruise-will-continue-operations-in-arizona/71332901007/"
+originalUrl: "https://www.statesman.com/story/money/business/tech/2023/10/26/self-driving-car-operator-cruise-will-continue-operations-in-arizona/71332901007/"
+webUrl: "https://www.statesman.com/story/money/business/tech/2023/10/26/self-driving-car-operator-cruise-will-continue-operations-in-arizona/71332901007/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - AI in Autos
@@ -111,7 +111,7 @@ related:
   - title: "California DMV suspends permits for self-driving taxis"
     excerpt: "The DMV said its autonomous vehicle regulations “provide a framework to facilitate the safe testing and deployment” of autonomous vehicle technology on California’s public roads. “When there is an unreasonable risk to public safety, the DMV can immediately suspend or revoke permits,” the DMV said."
     publishedDateTime: 2023-10-25T10:57:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/"
+    webUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/?lv=true"
     ampWebUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
     cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
     type: article
@@ -143,6 +143,6 @@ related:
       domain: devdiscourse.com
     quality: 1
 
-secured: "NcJrnQCNzSQLmj85owEh82wWLd0bYKueN14ieYFeOKb5DMH+MVeOubSUIT8zrwCH1ziqo4oOuwhzQUspF53z1hIKmWzsBv+MAj23Ej6+1YIzKvMLmyMhsStVRFXqszqEjWCPkZgEgH7T+cdTa7XERmL665rI99jXWg1w0/nqGQaKj8gglqoS8sg00ekLvzbYyG0ZuiIYgmp5JRkCSiN6skD4Y3l8+SfRIRTuVYzTN/A4McKlCGzuwjAgohpQrXJDQyTiHMAezg++CzoYsEg3Y4/mz51iIyw1LVXHdp41NrNK9YzPeUUQPQUAPj3lKWfUDvbMQcZmQRCpjApnsAfvyXfk+epSrE3XLZ/kEvaxkLFz4sJFZxSCX6dfQSBnkjkRmkz9zgtDZJ80nMy994aaElfvzsJJjrlg+bvG/6sB8D4EqU/zvjxrLGkgvfkvhUJDoSFtrgsr5lx4Wm79/PWdtdcFX1CA9cciHH/KjY+AbENOca4drJbAhM9t/EeOgX3b6WHCJqFTAj0w503BHUzegw==;2kvBaFCz2MqF9BEbwx921g=="
+secured: "LwkmPYCjwftNuDVjdIWNvRDgltpKoUB7qA1FF4IR0tq9UcARUygLmB1tG4kU9mafU4PpKpTeGTNKROMBKo8TWEBszLO5VqAHAQiUGGEac4MEhZbUkDP4ruKcFPIjvh5juMvxEYpIC4cDMARTxrZqdSLSmuovRxawCIVVnlmEnSCTYizyst4Tw+dG+QP2FUKudCwZt9/h5FAbnRGg3IG/mjaFLX7oXdVkuL8UCcStZZoGqsKRAfsLhy19JBc83aZSgNX9CFXNC0V9Tb484wXxJ2RanYVVuvgBCik+21PZPiruneItJQzjuwF+ScqO/Nb+4+XVweHuJoQ5PQtt/hZ4cHsYgDZU5PaeyEQC+HPongrY7isL0V7pbeycDMKlV4unvLDxsiBcU9s6yA+IqpOLMQWdVnBoRc5H1XE0VxdLsaQ9jkA/s8TzeobplHrFFyA0Qhw/GFvtzGvYdeOkao7zFK0JohfLYkJdSN8Bg+bSLIDs9ZyBcFbW0O2JHMjrFJEQyH+lzrqHIPidfj8IUEmg1Q==;tDGTVqJrkL97RBZ+/FhH0Q=="
 ---
 

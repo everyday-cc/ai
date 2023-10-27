@@ -57,15 +57,6 @@ related:
         width: 1140
         height: 655
         isCached: true
-  - title: "UAE's Artificial Intelligence Office partners with Code.org to enhance national talents"
-    excerpt: "The Artificial Intelligence Digital Economy and Remote Work Applications Office signed a memorandum of understanding MoU with Codeorg a leading"
-    publishedDateTime: 2023-10-22T09:12:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/274007200/uae-artificial-intelligence-office-partners-with-codeorg-to-enhance-national-talents"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 11
 
 secured: "3CyLHolxVYZ10vyVJgOAfx2OWsDaf7t8ab49Cec+ntDxzN545ivAGax6U62ArU7FPyPy39hIBAlLCUSI/00dl4lUs5ebMd0ZtnBoMApCsBOhiZc054Nf6e2dvEkchVyTrSyXuhn7xbDzgJHbf2Y0BKWSMpuBerTFv0td79SCmpEPyv4Bxysw/430IBUsjEmdnyvLdFZdfZrvcmcSca9Yy6TGXcvyjNxBvRf35N90VPwZBeBGdYUuRWyTHt85tTd53umm+3C0pPlv+ImRVS6rHV0pbw+emSsBD5o3IBGFLrOo0ir4DfnmVZOevQiQqT9eP+cRu03pAPy7T8sl8zg2LaCNUgKL9SJtu+I/NMwTLOOOPYC2aoCeB7p1EtL+AIUWUeB70RgvV1irXGc3/c10s/trdf5Ny1rsk7PMqrlg+QUCoI4oiEig8ew7bLAMxIbaCbKscFTUMyF9LlwhvPNVcYFm8IOhl3nFnK73jXFUkR7IPyxCIi6kDpNHdgx27cVc2XojX/8fpjdDqx3D2slpmQ==;wwnJoxfwgJq+078EEibpDw=="
 ---

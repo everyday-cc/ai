@@ -25,51 +25,84 @@ images:
     isCached: true
 
 related:
-  - title: "AI Chatbots Won’t Tell You Who To Vote For, But They Will Create Targeted Political Ads"
-    excerpt: "Chatbots like Bard, Claude, Pi and ChatGPT can spin up a range of campaign material from text messages to TikTok videos, but AI leaders have expressed concern over"
-    publishedDateTime: 2023-10-24T10:31:00Z
-    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/10/23/ai-chatbots-wont-tell-you-who-to-vote-for-but-they-will-create-targeted-political-ads/"
+  - title: "Boston Dynamics uses ChatGPT to create a robot tour guide"
+    excerpt: "Check out the British butler guide at the start of the video, for example ... him over to an early version of Spot among Boston Dynamics’ display of robots. Klingensmith says AI might make it possible for robots “not just to follow our commands ..."
+    publishedDateTime: 2023-10-27T02:20:00Z
+    webUrl: "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/"
+    ampWebUrl: "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 59
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6536e716415a919fc9b91512/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/10/boston-dynamics-spot-AI.jpeg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "OCBC to roll out generative AI chatbot for its employees globally"
-    excerpt: "Called OCBC ChatGPT, the chatbot is powered by ChatGPT’s large language models. Users can type a query in natural language into OCBC ChatGPT via Microsoft Teams, and the chatbot will produce answers based on accessible text-based information on the web."
-    publishedDateTime: 2023-10-24T06:32:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
+  - title: "How AI, like ChatGPT and Bard, are changing education"
+    excerpt: "To learn more about how AI could affect education, we spoke with the former chief digital officer for New York City, the Met museum and Columbia University."
+    publishedDateTime: 2023-10-24T14:40:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/how-ai-like-chatgpt-and-bard-are-changing-education/"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
-  - title: "We Used the Meta AI Chatbot to Plan a Trip. Here’s What It Got Wrong."
-    excerpt: "Meta released an AI chatbot for WhatsApp, Instagram, and Facebook Messenger. We tested it for travel planning."
-    publishedDateTime: 2023-10-23T21:33:00Z
-    webUrl: "https://skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/"
-    ampWebUrl: "https://skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/amp/"
+      name: CBS News
+      domain: cbsnews.com
+    quality: 54
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/24/e829742b-af85-4107-90d6-be35ca206d19/thumbnail/1200x630/db30b49e80763a7322e5c83f39e1dc9f/a2bc5f7596314e70ebc61c3562e21e7f-0-1698157475482.png?v=4fae59acf57b6bb1efa9da07582ebc40"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Researchers show ChatGPT, other AI tools can be manipulated to produce malicious code"
+    excerpt: "Artificial intelligence (AI) tools such as ChatGPT can be tricked into producing malicious code, which could be used to launch cyber attacks, according to research from the University of Sheffield."
+    publishedDateTime: 2023-10-24T17:02:00Z
+    webUrl: "https://techxplore.com/news/2023-10-chatgpt-ai-tools-malicious-code.html"
+    ampWebUrl: "https://techxplore.com/news/2023-10-chatgpt-ai-tools-malicious-code.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-chatgpt-ai-tools-malicious-code.amp"
     type: article
     provider:
-      name: Skift
-      domain: skift.com
-    quality: 37
-  - title: "As chatbots advance, ‘AI agents’ threaten to oust office workers"
-    excerpt: "Researchers are transforming chatbots into online agents that play games, query websites, schedule meetings, build bar charts and do more."
-    publishedDateTime: 2023-10-23T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/as-chatbots-advance-ai-agents-threaten-to-oust-office-workers/"
+      name: techxplore
+      domain: techxplore.com
+    quality: 32
+  - title: "What’s Up with ChatGPT Enterprise"
+    excerpt: "Just a year post-launch of ChatGPT, Salesforce, Morgan Stanley, and Wix, who were its early customers, have decided to explore other options."
+    publishedDateTime: 2023-10-25T08:13:00Z
+    webUrl: "https://analyticsindiamag.com/whats-up-with-chatgpt-enterprise/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/gpt-1.gif"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "How to Create a Resume Using ChatGPT A Step-by-Step Guide to the Perfect Resume in Under 90 Seconds"
+    excerpt: "In the early 2000’s, it was common for people to say things like, “the internet? Oh I don’t care for any of that fancy tech stuff.” Fast forward 10 years later and nearly everyone in the world was using the internet on a daily basis."
+    publishedDateTime: 2023-10-26T06:35:00Z
+    webUrl: "https://techbullion.com/how-to-create-a-resume-using-chatgpt-a-step-by-step-guide-to-the-perfect-resume-in-under-90-seconds/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 10
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/2-5-450x270.png"
+        width: 450
+        height: 270
+        isCached: true
+  - title: "14 Expert Tips on How to Get the Most Out of ChatGPT Responses"
+    excerpt: "In the fast-paced, continually changing world of artificial intelligence and machine learning, ChatGPT emerges as a standout example of what a"
+    publishedDateTime: 2023-10-25T12:02:00Z
+    webUrl: "https://www.geeky-gadgets.com/14-expert-tips-on-how-to-get-the-most-out-of-chatgpt-responses/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 4
 
 secured: "OlDBaGM4MoRB2QgDjD29j0vkMvl1BDogA0YqfScH9RkvYyyYhdBqrGn2pPJO/ZJku6jKA2hIZ7Ix8kd5mumGDB4VtfXVRFCf6E4NiXlDiGu2JNFWp6pCA6nSX8uMfyOiUpsKwwC91c1BlzpoSE/eGZe8G6l4L5BVlpLHgu5WGSsOo0JhAMxKARKuxnTBlQpygoGsgGal1GWxJY4f7szbttH105M8lNUlIwYV3eySKrHOc4e1sxO4YuMX5ZYJG6ZzfxxvXo9ESq7sjolO16OWUZfEudbvkrUzZjepzK4+ombidZwf5BqW2Shodiq7SS6JbXufysW6ZimfJufCZdFbk6mq6A4LwcrnyWbCbb4EtZc=;x796iQ3qOPgLs+5rJgoDSA=="
 ---

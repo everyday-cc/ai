@@ -106,7 +106,7 @@ related:
   - title: "California DMV suspends permits for self-driving taxis"
     excerpt: "The DMV said its autonomous vehicle regulations “provide a framework to facilitate the safe testing and deployment” of autonomous vehicle technology on California’s public roads. “When there is an unreasonable risk to public safety, the DMV can immediately suspend or revoke permits,” the DMV said."
     publishedDateTime: 2023-10-25T10:57:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/"
+    webUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/?lv=true"
     ampWebUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
     cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
     type: article
@@ -140,11 +140,11 @@ related:
   - title: "Self-driving operator Cruise's operations in AZ unaffected, despite CA permit suspension"
     excerpt: "The company's driverless permits were suspended in California, but the move does not affect Arizona operations."
     publishedDateTime: 2023-10-26T20:19:00Z
-    webUrl: "https://www.usatoday.com/story/money/business/tech/2023/10/26/self-driving-car-operator-cruise-will-continue-operations-in-arizona/71332901007/"
+    webUrl: "https://www.statesman.com/story/money/business/tech/2023/10/26/self-driving-car-operator-cruise-will-continue-operations-in-arizona/71332901007/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Austin American-Statesman
+      domain: statesman.com
     quality: 0
 
 secured: "urrKHnFsmEpCopJ5P+U7NwX2+NWbP2j1NbxTeSIjmNeA+Porrm2Am8P/5hl8L81ukMVrwRiQ85QUJKzudSZe8lJhK6iflHkJUKbpOBc3LVW3PrwCb0yFcT0ninkB1QHXUX8UumgeuLNKTdljSs0MUL46FAQsB1IyWtXZTkrnyzJif6CKPl1m86nAWkUBaelFR+I5YoCgpia6uHWCCCWFhqjWiQ4MCsX/ecvNeCbZbHO+54fZ5UiTcSoRYULWSLv94q096WZiSaNZacSh95JcJVH8eJFdxa1LoUxUMINRb+OYUVDYXMHjX3/hOeBFnFQpwe5TV8Aq6PiEpk0ClKqBFtIsTas50YacCbXOaPzSZoxfneV+ohNJlBT0podlSNq8G6QY3xzus4zLx9H+8zFw1CgnLdu1fVOAcP9uXVGFIiEMDE7Dm0qe662io1YIBGPwnE7EPLX4DriQbGOwR/J5elortDXYl1NLWWYFzBCnVlu/it3vx7yVU3v+zH2MFRuXWk4fWyGTxizxe8gcvBVoig==;H9jh8VXrrWekhXmqpiRGNA=="

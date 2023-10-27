@@ -29,7 +29,7 @@ related:
   - title: "Veracode Reveals Automation and Training Are Key Drivers of Software Security for Financial Services"
     excerpt: "Veracode, a leading global provider of intelligent software security, today released new research that unveils the key factors influencing flaw introduction and accumulation in the Financial Services sector."
     publishedDateTime: 2023-10-25T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/25/9904994.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm"
     type: article
     provider:
       name: TMCnet

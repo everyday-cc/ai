@@ -118,8 +118,8 @@ related:
         isCached: true
   - title: "Microsoft’s bets on generative AI boost Azure cloud business, as Alphabet’s Google Cloud disappoints"
     excerpt: "Microsoft’s revenue from the Azure cloud-computing platform beat estimates in the September quarter, while Google Cloud’s sales growth ground to its slowest pace in at least 11 quarters."
-    publishedDateTime: 2023-10-25T03:40:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3239082/microsofts-bets-generative-ai-boost-azure-cloud-business-alphabets-google-cloud-disappoints"
+    publishedDateTime: 2023-10-25T11:39:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3239082/microsofts-bets-generative-ai-boost-azure-cloud-business-alphabets-google-cloud-disappoints?module=live&pgtype=homepage"
     type: article
     provider:
       name: scmp.com
@@ -675,6 +675,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "qY0d7B5pjZL9KgS/mODQFOlb2lne/4sW/ixYC8M540HxQcu7dCARYy3KnKR9kqglkO51GDTIboE8ex3SLD/VOaqormcOb0gxSzSIpgikkkULoZnIRExn8peMXOGMpFVkpeB8buaisazvPk88+ekuc9XZEciK+Yrd2shrKvaTzAs7qHkuAWooyswk3Kn2tPrq7x3P6p4HN6DuYb+vorxXRbYrThGteNZG9yKWeOQ+VgbVof90fRALtfQmLSqeCOOQIbbblU4F7VjW7MjNJq4CNBgTLMol6W/leqDTxCEHP6ZHwdRYS9c3zzXmlfRKaVwMD9d35U8DvQKDEIX6Wx+elCrJSjtrrCYkj9Q8diUnVCs=;nNQUFGMOHK//v3E9JBmt8w=="
+secured: "aEZz+qyAUhxVqoQYiL+OzmytBIrofvqIccNWzRWhTgb5erfFrwSlcbfnxK4Y2b1ygbs6ypScoqJ2Z8Lg45OG5O+fr/J0uQG3IYiODzSW0eclzPbFjzTCv4zJJ4X76ZC7m3mO0SGXLPzEI3e5WAOigqxAvq7rqnWSuw48lsDW66fE5mEyDADj803jVbvIT3nTY17VoN83T+i4Cn7ZojrQGwjbNZRcX0Y6ls8sZ4ItHyzDX36MhiuNowPujxdUyNA3AGnY/nJus2oq7Z1S3FSckBd6fptEadH53s81CuGimbUiM21GIurhG73+0C2IOGoHrYWkigrIid3rK+1HW1CWobUzHN97o9TvVTqwlvq8C4h07Xhvl8wBJBIbNfG1loyRx2LnNC9E1zxkpwIM/Cv0D3XtxI9J7oNUbYfxreJAw6FciFu0i3TBmQeltgW+LJn6P1ba6sb7a1g5SjM7shyr4USjKA2UfxbDhRUJqOs6IQkHaSjNR88WylGFvw0l6fAKvE+hsPZL4uKETeXvs2CI8A==;uWwvDIPObYSmHS5ZGt194Q=="
 ---
 

@@ -1,30 +1,21 @@
 ---
 category: news
 title: "Artificial Intelligence, Workforce Globalization Are Returning Power to Employers"
-excerpt: "ISG presentation at All Day DevOps focuses on the trends changing the global IT talent market, skill acquisition and job stability"
-publishedDateTime: 2023-10-26T18:41:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/10/b35448723/artificial-intelligence-workforce-globalization-are-returning-power-to-employers"
-webUrl: "https://www.benzinga.com/pressreleases/23/10/b35448723/artificial-intelligence-workforce-globalization-are-returning-power-to-employers"
-ampWebUrl: "https://www.benzinga.com/amp/content/35448723"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35448723"
+excerpt: "DevOps event today, ISG Partner Ola Chowning said new AI technologies and globalization are shifting the global IT talent market."
+publishedDateTime: 2023-10-26T22:41:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231026584840/en/Artificial-Intelligence-Workforce-Globalization-Are-Returning-Power-to-Employers/"
+webUrl: "https://www.businesswire.com/news/home/20231026584840/en/Artificial-Intelligence-Workforce-Globalization-Are-Returning-Power-to-Employers/"
 type: article
-quality: 54
-heat: 64
+quality: 12
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI in Autos
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "The AI workforce: Coming soon to an office near you"
@@ -37,6 +28,6 @@ related:
       domain: venturebeat.com
     quality: 49
 
-secured: "zpJVXZI6zEUNz+VfF9oU3MJ+GNSvDnscCsAwSMTRXHv2rC9wJAb62FHgTf3yQTAhuawfpYrNdZqeWwDPFiYHKl2YPIsTbc2iZyvs/XjP1VIpukx5/7GZrLaWxhy8P8l9mqaxLbyi1HpPojcU39rqs3AU4NTVX376ao223eaaQlhEAEQAOS2TVVFSWAXJnkH2GUbGRcRhdrZMNnbyX4ko8zXYTPY2uGM535/m66cz/vAyid0ccEusWA+e98F7tRqL63DqY90nvBzQu4byLH7eHtJd/4sJXVeSa3Typd9oU/SNN2RJMtlHPIa7ag2xaVmtw6Xz4q7zVjOpA9gAVbzmedQjtUe547Uhm3Ke9bozvTU=;liBFXdl+1fDseqeGv2Ddlg=="
+secured: "oMul0u5atvZ4uHQRqfHBVqKe/L83CjzaFIWUGDaar7b3e6Kq9P94lCghnfQdTWUa4+ghcD6DSvZ+3j/16cLBU7jacAqN73L1W26uqeCnswxguxq8HK8sKzwXoYFcXhraAphopl4vND+wUN+VykS4piO6FdbCERu9WGhuDyGmlBhukDtdqKgSPRV7w0bN9Rn1DUu/im9Yk0/FAAjdMso3SlrFqHgULB1mCTv8imtG3s/DnHq6TkYAVZig3SsPGerakA1ymuu752QI39Hpz2R/JkptthoBmXOvqAZlM/Gu76qhWZUC++Oll/AcDi135lkKbT2zXeAGOP+JBmnVWzfmSSSkOPE0iRofR6mCM3RKwQXMeK2hyVjD4jEIGofsA0XlQj9mS7+dlkVN+1Er6wVFBvJnnYjpFhOMjLK3kfXpFzwx8ypisNCEIHxlD4pHvHkl+S9UR+6Iyzz1QrVEH4dEKM02WMqPwDWTO3wDKK80ydx8Qf6kuUO4izdQMH8tew8/iKxaZxG+KJ92gGoSUNR/kA==;ypWegZ1Xio7S/D1Dy03cTg=="
 ---
 

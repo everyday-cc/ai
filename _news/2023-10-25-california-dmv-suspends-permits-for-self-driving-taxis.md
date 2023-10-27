@@ -3,8 +3,8 @@ category: news
 title: "California DMV suspends permits for self-driving taxis"
 excerpt: "The DMV said its autonomous vehicle regulations “provide a framework to facilitate the safe testing and deployment” of autonomous vehicle technology on California’s public roads. “When there is an unreasonable risk to public safety, the DMV can immediately suspend or revoke permits,” the DMV said."
 publishedDateTime: 2023-10-25T10:57:00Z
-originalUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/"
-webUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/"
+originalUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/?lv=true"
+webUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/?lv=true"
 ampWebUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
 type: article
@@ -136,13 +136,13 @@ related:
   - title: "Self-driving operator Cruise's operations in AZ unaffected, despite CA permit suspension"
     excerpt: "The company's driverless permits were suspended in California, but the move does not affect Arizona operations."
     publishedDateTime: 2023-10-26T20:19:00Z
-    webUrl: "https://www.usatoday.com/story/money/business/tech/2023/10/26/self-driving-car-operator-cruise-will-continue-operations-in-arizona/71332901007/"
+    webUrl: "https://www.statesman.com/story/money/business/tech/2023/10/26/self-driving-car-operator-cruise-will-continue-operations-in-arizona/71332901007/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Austin American-Statesman
+      domain: statesman.com
     quality: 0
 
-secured: "c/OPak2dZCVP/fOwjxhqx9rsJHyzbjpdUCxmqgVI9K7wW6tAf63O0PQ+6lDozTI8rozWle+cO6YMCVaUytQCtALo5D3B/Eu4GvA78ygnF/2NNUjng6SRCGdoatZrC4xGIbE4T5DyAo7gOgi/c8u7zD9RMSP8LFwEuU34/GJbIJQjZBy4XXIsDI0grd3cP6U85/PF6le5iIFf5xaFpmmTfdnADzubBN/HSSd7Ll17Pg8ucJj9lqiT78Y0j78Nad5u3kEk8b+cjqx9l0xzp6wG7LSLGPpPx4s4lEvEW6+B3GkBJZKPCxnB5eW42XpYkGMYmhcV7gGBfx1MTxrBQb+yXrlU9CQ+ZKAQth9yj37HXmXHqQSxnmW0kYiL4NsOgkb6qph0BNnHR6Ot053AqxfXls7bWHkp/xBpolc1JtZ6y0SkqeQv8JMExTpSDgYQXgJGTAy9FH+Rwu7HfwyTAPZ6aMFC1Hj3el1XzhIoxFHDnrlIgl/AS+07sO6m1BFDBd2f98ZODeknzY2LnO5yM8y1Hw==;uZW14Sl+Q1G+m0fCoisSFQ=="
+secured: "eyCT7BDfnO/Bjg1wOyUh+HyfHbWrg8KPh/81J93UpgyQc/B/ZdlQMRKiEbjv4fPov8XEfDh6StjclcHa3ijqJu/Q0AKUUdnBRCAlECgnFYlhdq9CA5zhAqvdmMhZaFfqr3LXTqvHR4LNQSZniREczNPuVErkEu9a2G1UDX1VDWh0sDY0DZcycZI8egvpu/cDGUGIyBCCAB7tDFDjWUbjsl3YPPz3e3QrnMLpX0Iwem1BiwT46i6W1JUDE3EDFkIRzGH58bYIUTsOBsj47AVHHk0cKIL6dT3bYI7zp8PqTS2kq0/LBwaqZTAipF88ADT/kHNa8eDWV3PnLhfekuyz1Ca4albAqMxu53wMCg01ilU2LobsPqVb1qEJFI5wHEvdBefD0JOeAXe8R6f/Q4U9bsjSeFzf8oZRebTCqUMb01SchYgKDbK7eqYL8o4cCEnijeQMWxWjkf18qyp9ar6LVwyeuHHYGBj3pdJ+OwjPU+EwCe26uytU5hwyiXZPOMW8jWotNxnPQ0hSiCQ9H+2jhg==;heftwXhPmI4w0u6aajlTtA=="
 ---
 

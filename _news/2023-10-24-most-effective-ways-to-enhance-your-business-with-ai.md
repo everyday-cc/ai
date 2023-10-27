@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/most-effective-way
 webUrl: "https://www.entrepreneur.com/science-technology/most-effective-ways-to-enhance-your-business-with-ai/464153"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1140
         height: 655
         isCached: true
-  - title: "UAE's Artificial Intelligence Office partners with Code.org to enhance national talents"
-    excerpt: "The Artificial Intelligence Digital Economy and Remote Work Applications Office signed a memorandum of understanding MoU with Codeorg a leading"
-    publishedDateTime: 2023-10-22T09:12:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/274007200/uae-artificial-intelligence-office-partners-with-codeorg-to-enhance-national-talents"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 11
 
 secured: "VRp+IqGCHWkMTshRRI4HmvhEcxCfW38h33W//3HeRVYPP9cdVtRXlAJehnRRMmqW2ZKE6XjVt8oOQfk7qybI84wIrG3FLODUp5beHImugyNcLmpe/WDkD5v/jVWhsvwQk0hVwOPTPw66ClohlXsBX23ratZCct3YprfAmTU7/Xl/npow8syuPr+03I+wLi4aIyWDyrNfssidOuaZzzBuO3npL1Zo9hZwJnCVBe+Bn5erM7noPGDTu4v+fqCVNYqRqNPdtTp+HFFQ12+im+gzCBf/mSeBuK2zhebRIrJBhMItfzIEZ7r6b7E/HA0sn//qhqRUnjzaIJbqRJ8SsX8wVusN//lm8QLKIu78D216J8s=;3qJ82XQXCj7sLmKzy4aHww=="
 ---

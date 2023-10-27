@@ -184,6 +184,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Music companies are suing this AI startup over their song lyrics"
+    excerpt: "Major record companies claim Anthropic’s chatbot spits out the same lyrics as their copyrighted songs. Legal experts say they have a good case."
+    publishedDateTime: 2023-10-27T02:10:00Z
+    webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/hamas-ai-chuck-d-film/anthropic"
+    type: article
+    provider:
+      name: KCRW
+      domain: kcrw.com
+    quality: 37
+    images:
+      - url: "https://www.kcrw.com/++theme++kcrw.theme/images/KCRW_Logo_White.png"
+        width: 542
+        height: 384
+        isCached: true
   - title: "How AI combats climate change and mitigates its impact"
     excerpt: "Climate change remains one of the most pressing issues - we discuss how AI combats climate change in this article"
     publishedDateTime: 2023-10-25T12:05:00Z

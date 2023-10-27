@@ -103,7 +103,7 @@ related:
   - title: "California DMV suspends permits for self-driving taxis"
     excerpt: "The DMV said its autonomous vehicle regulations “provide a framework to facilitate the safe testing and deployment” of autonomous vehicle technology on California’s public roads. “When there is an unreasonable risk to public safety, the DMV can immediately suspend or revoke permits,” the DMV said."
     publishedDateTime: 2023-10-25T10:57:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/"
+    webUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/?lv=true"
     ampWebUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
     cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
     type: article
@@ -137,11 +137,11 @@ related:
   - title: "Self-driving operator Cruise's operations in AZ unaffected, despite CA permit suspension"
     excerpt: "The company's driverless permits were suspended in California, but the move does not affect Arizona operations."
     publishedDateTime: 2023-10-26T20:19:00Z
-    webUrl: "https://www.usatoday.com/story/money/business/tech/2023/10/26/self-driving-car-operator-cruise-will-continue-operations-in-arizona/71332901007/"
+    webUrl: "https://www.statesman.com/story/money/business/tech/2023/10/26/self-driving-car-operator-cruise-will-continue-operations-in-arizona/71332901007/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Austin American-Statesman
+      domain: statesman.com
     quality: 0
 
 secured: "peWvoIfip4x1behU0jaiv6aiS0k7HR/k/bYZt2v7LZL7BqPMTBTOl+xemplHuiyCjAMME9W05QTmjP0HGLCay/0xgmE5vB6D8CJDamemODGX1iHiy636cl8E2RYBPFFI3UTPc9wL9uA0ozmvS9EaV9GPkTcgffwYR5eXzn6PAGtOj6QvY5W1djBSttvnPFF524VFBvTlPuHtoh5FbYW41JS8TVIzswYqw4Skpt8IvC7zk33GUX282PBDXpTXbzvkDAphTW35MHZQf+6Xr37BmjbhggBmds3HvxN38ag01UOl6wwJy1DhJOotEAtGXVfBFwauDmToGIrrC8yvAANiq9It55OAzkQj1Eotn8JuI0IJnN8qyapl3wLbEHUrJQGVxSVxvKfpD3bf3zsVvFGs4caakEcKYslzlx/WSOqE+Tzjqi5EEH7YHPBqRfdRNmOCBnXEO+ibsSFDH1/W75ioKimBr2BG9rKaFyufgnPXeZb5GtX9bjUCgtqwbFjnjobDHbFvKcMmf472GZ72yzbFgw==;42JPdrHR3ULe054SfKEyNg=="

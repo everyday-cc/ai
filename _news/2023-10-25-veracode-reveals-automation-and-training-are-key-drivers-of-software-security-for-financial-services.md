@@ -3,8 +3,8 @@ category: news
 title: "Veracode Reveals Automation and Training Are Key Drivers of Software Security for Financial Services"
 excerpt: "Veracode, a leading global provider of intelligent software security, today released new research that unveils the key factors influencing flaw introduction and accumulation in the Financial Services sector."
 publishedDateTime: 2023-10-25T12:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/10/25/9904994.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/10/25/9904994.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm"
 type: article
 quality: 21
 heat: -1
@@ -35,6 +35,6 @@ related:
         height: 512
         isCached: true
 
-secured: "Jv8yqDnkEijWOYY6TO5/LKYSp8aARDY6LLAZ2eJwLX0l+l5Pq5xn8c58Bi96qFbLIVRsyCqI4V99vYhobzsaz4Q7LcsmTMorD4UQkOX9DocyWV0CUKGy8NxqsRP7uLQI8NshOG+WzNdSM/DN+VymqxzclhUgvTx+NN+GDzegs8VfnNCJLjCMckli5Cv9aXqbYfuHJCsOfla6fxVZCzu0avOw+9fNAXimnsyH4knxUYt0in3w8/w0yhIE+YZQpkhjoP/Fma6/oLX1e/akODke7OSt8NOWOpCDWBU4UWn8nOzBjd4R6bo/O6qJjaaQkh7W17oPMeJs3Yk3dk7wI1ELiSgd1vom5RQyaqHEx+Gotd7sDbdpVnZAM7r822TEZC1oo/mBULL6chOXy7UQBVoSnU7vJG9pwtXx0YE5MOcQ6vrQivPpKo76QftSfy8Vjucdoq8U8G67HOwD11JwOFMqPKPeUyYtz8YlEzn3H00m+nSmzhr8KjWLg7cyTxH5ISAcVfxlmwUWWTySPNPVpXkfKw==;DkqUlreDwyFrBBzDFKZwHg=="
+secured: "Lue0eB3rDxCWg+avrusZf5jNZATyU4A55OA0ivuB/fkj+Y5IcHOatAL1vyuIQIzDmNQLlEXGTzlhRtuHKc6XJDcBfUYOYtsVA5+D6o0esAPBDtc0/+N1xGmhaKYo9tvYp9uMi8l6eu5jOuxUmfp9G0RZHveTvcj9DQYdazFbCajOoJg/KRzL+Z/AOovtd8XPV+LWVJnCifhyVuXA6QQSxZW8UUSmhql94JyaKGv2ZnBNVOBgFg6gJQxM7RF4PDUXYO4NFypCuqRJKTpG2btXjy7jKDQ3QlDx+9vioDXm7ldtVmxgUfzoWul9/FxQ3ExXp+0YbDEOHeK6buwu/hzRq9txSM8SURXexOrEa4+Q3e8O0HAUcVUfpU3Emvr33NmYtwVdNl6Z1B7ddYjafCC84BCN8+w2lWG+xnJ3OA0XSf5Dlq42yEQyyum91+iU6x//YhwWSg92DgbM5TT8ahDtkbWoIWWhPLTHjqMH1SXRz3M8KZR9bHnpOEhNriqgBE+0Zw7hDdhPeSr55whwRv75Bg==;NshEUz6apZOej8f/DyQxRw=="
 ---
 

@@ -41,6 +41,15 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "GM's Cruise Pauses Driverless Operations Across All Fleets"
+    excerpt: "FILE PHOTO: A self-driving GM Bolt EV is seen during a media event where Cruise, GM's autonomous car unit, showed off its self-driving cars in San Francisco, California, U.S. November 28, 2017. REUTERS/Elijah Nouvelage/File Photo Reuters"
+    publishedDateTime: 2023-10-27T01:35:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-26/gms-cruise-pauses-driverless-operations-across-all-fleets"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "UH-Maui hits the gas on driverless tech"
     excerpt: "UNIVERSITY OF HAWAII photo The University of Hawaii Maui College is making history as it helps develop driverless vehicle ... Passon said. Like artificial intelligence, the software requires ..."
     publishedDateTime: 2023-10-23T01:07:00Z

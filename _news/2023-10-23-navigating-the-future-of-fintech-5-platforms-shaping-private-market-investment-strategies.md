@@ -25,18 +25,18 @@ images:
     isCached: true
 
 related:
-  - title: "Phoenix AZ’s Smart Home Revolution: The Future of FinTech in Housing"
-    excerpt: "The housing market in Phoenix, Arizona is embracing smart home technology and financial technology (fintech) at a rapid pace. Experts predict over 75% of new homes built in Phoenix will include smart home technology by 2025."
-    publishedDateTime: 2023-10-23T10:40:00Z
-    webUrl: "https://techbullion.com/phoenix-azs-smart-home-revolution-the-future-of-fintech-in-housing/"
+  - title: "Climate fintech is exciting investors right now. Here's why it's primed to be the next red-hot sector."
+    excerpt: "Fintech startups that speed up decarbonization, manage climate risks, and facilitate renewable energy purchases are gaining traction, according to VCs."
+    publishedDateTime: 2023-10-24T10:01:00Z
+    webUrl: "https://www.businessinsider.com/climate-fintech-red-hot-sector-is-capturing-investor-attention-right-now-2023-10"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/HBSB-Holdings-1000x600.jpg"
-        width: 1000
+      - url: "https://i.insider.com/6531215ebe9edfa8eda489e6?width=1200&format=jpeg"
+        width: 1200
         height: 600
         isCached: true
 

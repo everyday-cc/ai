@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "OSU’s Fisher College Launches Fintech Micro-Credential"
-    excerpt: "COLUMBUS, Ohio – A new graduate credential offering from The Ohio State University’s Max M. Fisher College of Business is preparing professionals with introductory-level knowledge of the emerging financial technology that organizations are using to improve and automate the delivery of financial services."
-    publishedDateTime: 2023-10-26T08:52:00Z
-    webUrl: "https://businessjournaldaily.com/osus-fisher-college-launches-fintech-micro-credential/"
-    type: article
-    provider:
-      name: Business Journal Daily
-      domain: businessjournaldaily.com
-    quality: 4
   - title: "Michigan fintech accepted into global accelerator from Amazon subsidiary"
     excerpt: "Tiicker Inc.’s recent acceptance into a global financial technology accelerator program will help raise more awareness and position the Grand Rapids-based startup for growth."
     publishedDateTime: 2023-10-24T09:29:00Z
@@ -44,15 +35,6 @@ related:
     provider:
       name: crainsgrandrapids
       domain: crainsgrandrapids.com
-    quality: 3
-  - title: "Zip Named Most Innovative Fintech Solution by 2023 Tech Ascension Awards"
-    excerpt: "Zip, the world’s only intake-to-pay platform, today announced its platform was chosen the Most Innovative Fintech Solution by the 2023 Tech Ascension"
-    publishedDateTime: 2023-10-25T20:32:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231025067897/en/Zip-Named-Most-Innovative-Fintech-Solution-by-2023-Tech-Ascension-Awards"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
     quality: 3
 
 secured: "TCuKSpG0401VSTcvkrnn+64K6FhKvWTEm/tiQ5y9e/79tBLCr7aaKqBpCI9MZ2o6ULtpW3lcjhq450fWHCXBx5UOrrLYntz9BAJm1yUQnn0Rl0qAVyH1I+mlu3kTgocKw2cpfe119Wb1lTarxnzBQTqYtsfjSo8r3XQ0NbkkTvUnYlxai/i1flLB6gWh3oHKTbEx8vdETgBsQIpIAdfsYZ2slE44+V8ar3m65eLhyzcvkcOcr+DTr03tMJhYvlA/Clz0G8X5O1uIIuXU2YvxLavYhnUXDWsAagK/FqwFZQKscJ73yGxcQYG1TRxC1hQr7X/IQ89S4L59BIgeOd4m/q+bA+hDaI1Ati9yiuS2+T73MUuPlVtHhlKvRU2A9FYlfuPw7ZOosHXE0YcShvaxjDNt08sNjOR9DWiw5xI5RjsTYTbaXXQupzSOpjHWieql1UpgcBSRAgQp+9zOxwmKUorgMxjlPjXqx0vYSIEqQq35CEMzjSZ/JSwvCWwSbz5SGRCVz5NGRMJ38KmFGfwq6A==;v96pPKX4mpC8QvqqCH5Cgg=="

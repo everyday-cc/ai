@@ -135,8 +135,8 @@ related:
         isCached: true
   - title: "Microsoft’s bets on generative AI boost Azure cloud business, as Alphabet’s Google Cloud disappoints"
     excerpt: "Microsoft’s revenue from the Azure cloud-computing platform beat estimates in the September quarter, while Google Cloud’s sales growth ground to its slowest pace in at least 11 quarters."
-    publishedDateTime: 2023-10-25T03:40:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3239082/microsofts-bets-generative-ai-boost-azure-cloud-business-alphabets-google-cloud-disappoints"
+    publishedDateTime: 2023-10-25T11:39:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3239082/microsofts-bets-generative-ai-boost-azure-cloud-business-alphabets-google-cloud-disappoints?module=live&pgtype=homepage"
     type: article
     provider:
       name: scmp.com

@@ -41,6 +41,15 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "GM's Cruise Pauses Driverless Operations Across All Fleets"
+    excerpt: "FILE PHOTO: A self-driving GM Bolt EV is seen during a media event where Cruise, GM's autonomous car unit, showed off its self-driving cars in San Francisco, California, U.S. November 28, 2017. REUTERS/Elijah Nouvelage/File Photo Reuters"
+    publishedDateTime: 2023-10-27T01:35:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-26/gms-cruise-pauses-driverless-operations-across-all-fleets"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Pilot programs put more driverless vehicles on the road"
     excerpt: "Pilot programs promoting the use of artificial intelligence in the transport sector have made significant progress, Ministry of Transport officials said on Thursday, with the commercial operation of driverless vehicles being tested in Beijing, Shanghai and Guangzhou, and more smart roads being planned and built."
     publishedDateTime: 2023-10-26T15:00:00Z
