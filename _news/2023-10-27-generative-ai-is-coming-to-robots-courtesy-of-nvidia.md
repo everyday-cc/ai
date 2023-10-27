@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-26T18:27:00Z
 originalUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-robots-nvidia/"
 webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-robots-nvidia/"
 type: article
-quality: 86
+quality: 88
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Robotics
+  - AI Hardware
 
 images:
   - url: "https://www.eweek.com/wp-content/uploads/2023/09/ew_09272023-will-ai-replace-jobs.png"

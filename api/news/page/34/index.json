@@ -2,6 +2,300 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-10-03-outpacing-competition-how-lunartech-is-redefining-the-future-of-ai-and-machine-learning.md",
+      "title": "Outpacing Competition: How LunarTech is Redefining the Future of AI and Machine Learning",
+      "excerpt": "The bootcamp covers a wide array of topics, from machine learning to Python programming and cloud computing, and places a strong emphasis on hands-on, practical projects. \"Our bootcamps can be attended either in-person or remotely. We've developed tools to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/ka/business-news/outpacing-competition-how-lunartech-is-redefining-the/463038",
+      "originalUrl": "https://www.entrepreneur.com/ka/business-news/outpacing-competition-how-lunartech-is-redefining-the/463038",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png?auto=webp?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-shares-in-aurrigo-rise-after-agreement-on-self-driving-vehicle-trial-with-iag.md",
+      "title": "Shares in Aurrigo Rise After Agreement on Self-Driving Vehicle Trial With IAG",
+      "excerpt": "Shares in Aurrigo International rose after it said it has agreed on a partnership with International Consolidated Airlines Group aimed at deploying its self-driving baggage and air-freight vehicles in the U.K. Shares at 0730 GMT were up 20 pence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/shares-in-aurrigo-rise-after-agreement-on-self-driving-vehicle-trial-with-iag-d850fac4",
+      "originalUrl": "https://www.marketwatch.com/story/shares-in-aurrigo-rise-after-agreement-on-self-driving-vehicle-trial-with-iag-d850fac4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/shares-in-aurrigo-rise-after-agreement-on-self-driving-vehicle-trial-with-iag-d850fac4",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/shares-in-aurrigo-rise-after-agreement-on-self-driving-vehicle-trial-with-iag-d850fac4",
+      "publishedDateTime": "2023-10-03T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-the-10-biggest-trends-revolutionizing-healthcare-in-2024.md",
+      "title": "The 10 Biggest Trends Revolutionizing Healthcare In 2024",
+      "excerpt": "These are the key societal drivers that will impact healthcare in 2024. Their convergence means we are heading into uncharted waters. On the technology side, artificial intelligence (AI) promises to dramatically change everything from the way we develop ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/03/the-10-biggest-trends-revolutionizing-healthcare-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/03/the-10-biggest-trends-revolutionizing-healthcare-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651bbeb1c78cc403f92a6abd/0x0.jpg?format=jpg&crop=2500,1405,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/03/the-10-biggest-trends-revolutionizing-healthcare-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/03/the-10-biggest-trends-revolutionizing-healthcare-in-2024/amp/",
+      "publishedDateTime": "2023-10-03T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-computer-vision-market-forecast-2023key-factors-considered-2031.md",
+      "title": "Computer Vision Market Forecast 2023|Key Factors Considered 2031",
+      "excerpt": "Global |104 Pages| Updated Report on \"Computer Vision Market\" offers a detailed Research In-Depth Analysis (2023-2031) which is expected to witness remarkable growth in the coming years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35048601/computer-vision-market-forecast-2023-key-factors-considered-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35048601/computer-vision-market-forecast-2023-key-factors-considered-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-japan-to-give-micron-technology-128-billion-aid-for-chip-project-at-hiroshima-plant.md",
+      "title": "Japan to Give Micron Technology $1.28 Billion Aid for Chip Project at Hiroshima Plant",
+      "excerpt": "By Kosaku Narioka The Japanese government will give an aid of over a billion dollars to Micron Technology's memory chip project at its Hiroshima plant,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/japan-to-give-micron-technology-1-28-billion-aid-for-chip-project-at-hiroshima-plant-b24b02bd",
+      "originalUrl": "https://www.marketwatch.com/story/japan-to-give-micron-technology-1-28-billion-aid-for-chip-project-at-hiroshima-plant-b24b02bd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/japan-to-give-micron-technology-1-28-billion-aid-for-chip-project-at-hiroshima-plant-b24b02bd",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/japan-to-give-micron-technology-1-28-billion-aid-for-chip-project-at-hiroshima-plant-b24b02bd",
+      "publishedDateTime": "2023-10-02T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-instant-evolution-ai-designs-new-robot-from-scratch-in-seconds.md",
+      "title": "Instant evolution: AI designs new robot from scratch in seconds",
+      "excerpt": "Northwestern researchers developed the first AI to date that can intelligently design robots from scratch by compressing billions of years of evolution into mere seconds. It's not only fast but also runs on a lightweight computer and designs wholly novel structures from scratch — without human-labeled,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1003605",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1003605",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/9315799f-c3fc-4baa-b3c4-2d4c58566290/Rendition/thumbnail/Content/Public",
+          "width": 300,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-03-scaling-up-learning-across-many-different-robot-types.md",
       "title": "Scaling up learning across many different robot types",
       "excerpt": "We are launching a new set of resources for general-purpose robotics learning across different robot types, or embodiments. Together with partners from 34 academic labs we have pooled data from 22 different robot types to create the Open X-Embodiment dataset. We also release RT-1-X, a robotics transformer",
@@ -922,281 +1216,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-freedom-on-the-net-report-highlights-dangers-of-ai.md",
-      "title": "Freedom On The Net Report Highlights Dangers Of AI",
-      "excerpt": "According to Freedom House’s new report, Freedom on the Net 2023: The Repressive Power of Artificial Intelligence, governments are using automated systems to ramp up online censorship, while distributors of disinformation are using AI tools to fabricate images, audio and text.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651a8dc65c8025d4ba1aee21/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 833,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/amp/",
-      "publishedDateTime": "2023-10-02T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-report-outlines-uses-of-ai-in-healthcare-education-financial-systems-and-agriculture.md",
-      "title": "Report outlines uses of AI in healthcare, education, financial systems and agriculture",
-      "excerpt": "A report, titled 'South Africa and Artificial Intelligence' published by Boston Consulting Group (BCG), the University of the Witwatersrand (Wits) Business School and Microsoft South Africa has highlighted currently possible uses for artificial intelligence (AI) systems to make a positive impact on South Africa's healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engineeringnews.co.za/article/report-outlines-uses-of-ai-in-healthcare-education-financial-systems-and-agriculture-2023-10-02",
-      "originalUrl": "https://www.engineeringnews.co.za/article/report-outlines-uses-of-ai-in-healthcare-education-financial-systems-and-agriculture-2023-10-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.creamermedia.com/assets/articles/images/resized/0001090830_resized_digitaltechinmedicine1022.jpg",
-          "width": 1022,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering News",
-        "domain": "engineeringnews.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-police-intelligence-tool-quickly-sends-information-on-risk-to-frontline-officers.md",
-      "title": "Police intelligence tool quickly sends information on risk to frontline officers",
-      "excerpt": "using IBM Watson AI and so-called i2 visual tech spun off from IBM. It provides “dramatically more useful” intelligence, especially about firearm threats, the papers said. This is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newstalkzb.co.nz/news/national/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/",
-      "originalUrl": "https://www.newstalkzb.co.nz/news/national/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newstalkzb.co.nz/media/kpknelnw/police-patrol-car-rnz.jpg?rmode=crop&rnd=133407107303770000&height=395&width=635&quality=95&scale=both",
-          "width": 635,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newstalk ZB",
-        "domain": "newstalkzb.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-what-does-generative-ai-mean-for-software-companies.md",
-      "title": "What does generative AI mean for software companies?",
-      "excerpt": "AI and machine learning will boost the creativity and problem-solving abilities of software developers. It will also create a new set of winners across the software industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.html",
-      "originalUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/13/16/sw-blog-image-getty-1170x600-2-100938438-large.jpg?auto=webp&quality=85,70",
-          "width": 1199,
-          "height": 615,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html",
-      "publishedDateTime": "2023-10-02T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-building-cars-in-a-changing-world-audis-integrated-approach-with-ibm-planning-analytics.md",
-      "title": "Building cars in a changing world: Audi’s Integrated Approach with IBM Planning Analytics",
-      "excerpt": "Audi's journey serves as a beacon for organizations navigating the labyrinth of complex planning and decision-making.\nThe post Building cars in a changing world: Audi&#8217;s Integrated Approach with IBM Planning Analytics appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/building-cars-in-a-changing-world-audi/",
-      "originalUrl": "https://www.ibm.com/blog/building-cars-in-a-changing-world-audi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-ai-robotics-northern-europe.md",
-      "title": "AI Robotics - Northern Europe",
-      "excerpt": "The market size in the AI Robotics market is projected to reach US$0.64bn in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 13.88%, resulting in a market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/northern-europe",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/northern-europe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T01:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

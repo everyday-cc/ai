@@ -152,6 +152,20 @@ related:
         width: 480
         height: 269
         isCached: true
+  - title: "Why Generative AI Needs Design"
+    excerpt: "With generative AI, computers gain a new set of capabilities: the ability to understand and generate language, code ... With simple prompts, anyone can translate an idea into a visual prototype that a group can riff on. While imperfect, these AI mockups ..."
+    publishedDateTime: 2023-10-23T21:00:00Z
+    webUrl: "https://www.forbes.com/sites/stevevassallo/2023/10/23/why-generative-ai-needs-design/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6536db33f0c0d8b1f46f464e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1176
+        height: 900
+        isCached: true
   - title: "Honor's Magic 6 Phone Teased With Generative AI and Eye-Tracking"
     excerpt: "The new chip will allow Magic 6 owners to tap into generative AI wherever they are, even offline. The buzz around generative AI tools started last November when OpenAI released ChatGPT. Since then, companies like Google and Microsoft have been in a rush to ..."
     publishedDateTime: 2023-10-25T21:42:00Z
@@ -181,6 +195,22 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/My-project-2.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google Cloud fails to cash in on generative AI"
+    excerpt: "The explosive growth in the demand for generative AI has been a big revenue driver for public clouds. However, while some cloud players are reaping the benefits of user demand, Google Cloud seems to be failing to cash in on one of the biggest technology opportunities in decades."
+    publishedDateTime: 2023-10-25T12:06:00Z
+    webUrl: "https://www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/18/22/google-cloud-services_ai_artificial-intelligence-100765813-large-100943540-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Snapdragon 8 Gen 3 Official, Designed With Generative AI in Mind"
     excerpt: "As expected, Qualcomm made the Snapdragon 8 Gen 3 official this week at its annual conference in Hawaii, and no, I’m not there and I’m mad about it. Qualcomm is hyping this chip to be an AI powerhouse,"
@@ -304,6 +334,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
+  - title: "Scientists build on artificial intelligence to create next-generation gastric acid treatment"
+    excerpt: "Researchers at Nagoya University in Japan created and improved artificial intelligence (AI ... in collaboration with Intage Healthcare Corporation and the SPring-8 radiation facility, took a novel approach to drug development. They focused on the steric ..."
+    publishedDateTime: 2023-10-26T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1006117"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 28
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/220132c7-28e1-4b83-917a-2326c7902f45/Rendition/low-res/Content/Public"
+        width: 700
+        height: 389
+        isCached: true
   - title: "New Infosys Report Shows Generative AI Creates Enterprise Agility, Yet Data And Skills Threaten Progress"
     excerpt: "The meteoric rise of generative AI in the last few months as a consumer tool has driven optimism about its transformative potential for businesses. This"
     publishedDateTime: 2023-10-26T15:33:00Z

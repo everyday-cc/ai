@@ -2,6 +2,241 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-31-cognitive-services-market-outlooks-2023-size-cost-structures-growth-rate-forecast-to-2030.md",
+      "title": "Cognitive Services Market Outlooks 2023 Size, Cost Structures, Growth rate Forecast to 2030",
+      "excerpt": "Get a Sample Copy of the Cognitive Services Market Report 2023 Regions are covered: North America (Canada, Mexico, United States, Cuba) Europe (United Kingdom, France, Russia, Germany) Asia ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/34151047/cognitive-services-market-outlooks-2023-size-cost-structures-growth-rate-forecast-to-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/34151047/cognitive-services-market-outlooks-2023-size-cost-structures-growth-rate-forecast-to-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34151047",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34151047",
+      "publishedDateTime": "2023-08-31T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-us.md",
+      "title": "OpenAI-backed language learning app Speak raises $16M to expand to the U.S.",
+      "excerpt": "Prior to starting Speak, the pair spent a year studying and researching machine learning and developing accent detection ... which gave Speak not only financing but early access to OpenAI systems and Azure resources from Microsoft, OpenAI’s close ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/",
+      "originalUrl": "https://techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/ebmpqh7x7jgqejg6uglz.jpg?resize=1196,1200",
+          "width": 1196,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/amp/",
+      "publishedDateTime": "2023-08-31T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-launch-into-satellite-applications-with-microsoft-azure.md",
+      "title": "Launch into satellite applications with Microsoft Azure",
+      "excerpt": "Microsoft’s Azure Space platform and Azure Orbital Space SDK are taking edge computing to the final frontier, starting with satellite image processing, geospatial, and communications applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.html",
+      "originalUrl": "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/08/shutterstock_2291065933-100945245-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.amp.html",
+      "publishedDateTime": "2023-08-31T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-you-need-to-authenticate-to-microsoft-services-error-on-minecraft.md",
+      "title": "You Need To Authenticate To Microsoft Services Error On Minecraft",
+      "excerpt": "The error “You need to authenticate to Microsoft services” pops up when you try to log in to external servers and realms. When it shows up, the player won’t be ...",
+      "sourceUrl": null,
+      "webUrl": "https://thedroidguy.com/authenticate-to-microsoft-services-1158670",
+      "originalUrl": "https://thedroidguy.com/authenticate-to-microsoft-services-1158670",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thedroidguy.com/wp-content/uploads/2021/08/you-need-to-authenticate-to-Microsoft-services.png",
+          "width": 785,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Droid Guy",
+        "domain": "thedroidguy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-presentation-translator-lets-you-add-live-subtitles-and-translate-presentations.md",
+      "title": "Presentation Translator lets you add live subtitles and translate presentations",
+      "excerpt": "Presentation Translator is built on Microsoft Translator API and powered by Microsoft Cognitive Services. It actively uses Machine Learning to teach itself from your voice and speech. If you start ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thewindowsclub.com/presentation-translator-powepoint-addon",
+      "originalUrl": "https://www.thewindowsclub.com/presentation-translator-powepoint-addon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thewindowsclub.com/wp-content/uploads/2017/07/PowerPoint-Translator-Windows.jpg",
+          "width": 700,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-connecting-a-distributed-workforce-with-employee-experience-platforms.md",
       "title": "Connecting A Distributed Workforce With Employee Experience Platforms",
       "excerpt": "This means Applaud users can easily integrate with Microsoft Teams, Salesforce, SAP SuccessFactors and many others. In short, the platform unites existing data and knowledge sources to bring users' services and tasks into one place. The EXP connection ...",
@@ -1134,231 +1369,6 @@
       "provider": {
         "name": "The Hill",
         "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-microsoft-to-sell-off-activision-cloud-gaming-rights-to-ubisoft-in-bid-for-uk-approval.md",
-      "title": "Microsoft to sell off Activision cloud gaming rights to Ubisoft in bid for UK approval",
-      "excerpt": "Microsoft won’t be able to exclusively control the licensing terms of Activision Blizzard games on rival services, either. Instead, Ubisoft will control the streaming rights to Activision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/8/22/23828302/microsoft-activision-blizzard-acquisition-ubisoft-cloud-gaming-rights-uk-cma",
-      "originalUrl": "https://www.theverge.com/2023/8/22/23828302/microsoft-activision-blizzard-acquisition-ubisoft-cloud-gaming-rights-uk-cma",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/TckDaeLCCmwuXDsjZAmU41I9lqg=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24755330/WJoel_STK156_1.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs.md",
-      "title": "Epic and Microsoft expand AI partnership to 'address healthcare's most pressing needs'",
-      "excerpt": "And now, they plan to rapidly deploy dozens of AI-powered solutions within Epic's health systems. The companies aim to address critical healthcare needs like \"workforce burnout to staffing shortages.\" New capabilities powered by Microsoft Azure and its AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
-      "originalUrl": "https://www.neowin.net/news/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
-      "publishedDateTime": "2023-08-22T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-microsoft-changes-its-takeover-of-call-of-duty-developer-in-attempt-to-get-it-approved.md",
-      "title": "Microsoft changes its takeover of Call of Duty developer in attempt to get it approved",
-      "excerpt": "Microsoft has made a major change to its proposed ... or to exclusively control the licensing terms of Activision Blizzard games for rival services.” It marks a new twist in the case, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/microsoft-activision-takeover-call-of-duty-blizzard-cma-b2397452.html",
-      "originalUrl": "https://www.independent.co.uk/tech/microsoft-activision-takeover-call-of-duty-blizzard-cma-b2397452.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2023/08/22/08/9122c881340d912b875badd0cb3d590bY29udGVudHNlYXJjaGFwaSwxNjkyNzczMzc4-2.9744146.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/tech/microsoft-activision-takeover-call-of-duty-blizzard-cma-b2397452.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/microsoft-activision-takeover-call-of-duty-blizzard-cma-b2397452.html",
-      "publishedDateTime": "2023-08-22T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-how-microsoft-is-looking-to-ease-uk-antitrust-worries-over-75b-activision-deal.md",
-      "title": "How Microsoft is looking to ease UK antitrust worries over $75B Activision deal",
-      "excerpt": "Ubisoft games are distributed through services such as Amazon Luna and Nvidia’s GeForce Now — consoles that are in direct competition with Microsoft’s Xbox. By bringing Ubisoft into the ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/08/22/microsoft-looks-to-ease-uk-antitrust-worries-over-activision-deal/",
-      "originalUrl": "https://nypost.com/2023/08/22/microsoft-looks-to-ease-uk-antitrust-worries-over-activision-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-5grqt4wsg-1692715112760.jpg?quality=75&strip=all&1692700791&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/08/22/microsoft-looks-to-ease-uk-antitrust-worries-over-activision-deal/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/22/microsoft-looks-to-ease-uk-antitrust-worries-over-activision-deal/amp/",
-      "publishedDateTime": "2023-08-22T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-leanix-partners-with-microsoft-to-bring-generative-ai-to-enterprise-architecture.md",
-      "title": "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture",
-      "excerpt": "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data",
-      "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/press-releases/article278479764.html",
-      "originalUrl": "https://www.charlotteobserver.com/press-releases/article278479764.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
         "images": null,
         "publishers": null,
         "authors": null

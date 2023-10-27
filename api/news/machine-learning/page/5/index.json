@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-10-machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating.md",
+      "title": "Machine learning can level the playing field against match fixing – helping regulators spot cheating",
+      "excerpt": "Read more about Machine learning can level the playing field against match fixing – helping regulators spot cheating on Devdiscourse",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating",
+      "originalUrl": "https://www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/15_10_2019_12_39_45_6163034.jpg?width=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating?amp",
+      "publishedDateTime": "2023-09-09T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-10-automated-machine-learning-automl-market-forecast-report-2023-2030-103-pages-report.md",
       "title": "Automated Machine Learning (AutoML) Market Forecast Report 2023-2030 | 103 Pages Report",
       "excerpt": "The Global Automated Machine Learning (AutoML) market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at a steady ...",
@@ -1247,40 +1290,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-an-introspective-ai-finds-diversity-improves-performance.md",
-      "title": "An ‘introspective’ AI finds diversity improves performance",
-      "excerpt": "An artificial intelligence with the ability to look inward and fine tune its own neural network performs better when it chooses diversity over lack of diversity, a new study finds. The resulting diverse neural networks were particularly effective at solving complex tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1000224",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1000224",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

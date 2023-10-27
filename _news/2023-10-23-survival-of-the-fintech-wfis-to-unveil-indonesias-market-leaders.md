@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Money20/20 unveils fintech intelligence platform for investors"
-    excerpt: "Money20/20, the world’s leading fintech show and the place where money does business, is launching Twentyfold at Money20/20 USA in Las Vegas held on October 22-26."
-    publishedDateTime: 2023-10-23T20:40:00Z
-    webUrl: "https://www.finextra.com/pressarticle/98506/money2020-unveils-fintech-intelligence-platform-for-investors"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Survival of the Fintech – WFIS to Unveil Indonesia’s Market Leaders"
     excerpt: "While the stakes are soaring high, fintech companies in Indonesia are vying to get on top and dominate the FSI market."
     publishedDateTime: 2023-10-25T20:12:00Z

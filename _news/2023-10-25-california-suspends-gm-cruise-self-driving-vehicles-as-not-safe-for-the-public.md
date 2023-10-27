@@ -103,7 +103,7 @@ related:
   - title: "California DMV suspends permits for self-driving taxis"
     excerpt: "The DMV said its autonomous vehicle regulations “provide a framework to facilitate the safe testing and deployment” of autonomous vehicle technology on California’s public roads. “When there is an unreasonable risk to public safety, the DMV can immediately suspend or revoke permits,” the DMV said."
     publishedDateTime: 2023-10-25T10:57:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/?lv=true"
+    webUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/"
     ampWebUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
     cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
     type: article
@@ -134,6 +134,15 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 1
+  - title: "Self-driving operator Cruise's operations in AZ unaffected, despite CA permit suspension"
+    excerpt: "The company's driverless permits were suspended in California, but the move does not affect Arizona operations."
+    publishedDateTime: 2023-10-26T20:19:00Z
+    webUrl: "https://www.usatoday.com/story/money/business/tech/2023/10/26/self-driving-car-operator-cruise-will-continue-operations-in-arizona/71332901007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 0
 
 secured: "ji2rOMDMRNHhkL3C6FXG0MpieRf5yRO1i1sj4d04iW7YJfOWaVarM1KfbyCleqWzcH0qJaunnj02slD2ISP+uD3zwmKZk2Uy9K4nb8SNdEjECt0lV4DqQN8HWrMuHFySWALF9Br16tKlU/zMOiRZ3DtWn2/V9Qf+kJG9jeUOlp+hnHZUuLIwdVaRo9qZyfZHLwoEsDq0GQ+eu737jzjOwCK8GPxKW08XXNFNx08nWZXRjrSiJpnqdg38E7gY70XZR8t5yv41q0UGLrGzrhIqBmcb/yhXK44EtFcpU180GCasKR5ZtupexaBjqC+P4f50C8Yym1OT1VSglMWoV19unXN090affWwWqfps6F9f89ts9x3VYZkDG+/HqtSGYMPh9dzWsUWtnHWa6gu1JhKFWUiX9d3azxkhiu+xhyecYhZUS7qzLi1CXw6iITI/zV0do0QBKOufMrsTT8QPHIw8/unsfbkCBsifkMaM7E1he3avU/3sHNT2vdi1DcWXhnkfjksgYAFCPb+KXXSiAsnCVQ==;34355CeTdwJNqKgNbLF7jA=="
 ---

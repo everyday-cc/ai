@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "AI Could Help Detect Schizophrenia From People's Speech"
+    excerpt: "A recent study published in the Proceedings of the National Academy of Sciences (PNAS) shows the potential of using artificial intelligence (AI) language models to find speech signatures in patients with schizophrenia."
+    publishedDateTime: 2023-10-27T00:06:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202310/can-ai-detect-schizophrenia-from-speech"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 37
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/pic88.jpg?itok=Xp5Wa4Eu"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Why actors are fighting for AI protections"
     excerpt: "Actors on strike amid contract negotiations with production studios are fighting for protections from artificial intelligence (AI), but the concerns they’re highlighting raise risks beyond the scope of movies and television."
     publishedDateTime: 2023-10-23T13:00:00Z

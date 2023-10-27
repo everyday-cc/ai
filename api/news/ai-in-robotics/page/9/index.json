@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-08-24-these-ai-powered-robot-arms-are-delicate-enough-to-pick-up-pringles-chips.md",
+      "title": "These AI-powered robot arms are delicate enough to pick up Pringles chips",
+      "excerpt": "Using deep reinforcement learning and 'proprioception,' the two robotic limbs can pick up extremely fragile objects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/robot-arms-pringles/",
+      "originalUrl": "https://www.popsci.com/technology/robot-arms-pringles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/08/24/2023_0627_17125000.jpg?auto=webp",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/robot-arms-pringles/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/robot-arms-pringles/?amp",
+      "publishedDateTime": "2023-08-24T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-building-a-running-robot-dog.md",
       "title": "Building a running Robot Dog",
       "excerpt": "I wanted to engineer a robot with animal characteristics, bearing in mind that animals – like humans – move in a huge variety of ways,”",
@@ -1307,58 +1351,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-13-robots-ai-are-here-to-stay-in-restaurant-industry-one-business-owner-says-despite-customer-pushback.md",
-      "title": "Robots, AI are here to stay in restaurant industry, one business owner says, despite customer pushback",
-      "excerpt": "One restaurant owner whose robot server became the subject of small town scorn says AI is here to stay. New small business survey results suggest she's correct.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/tech-sad-reality-restaurant-industrys-future-business-owner-says-robot-works-12-hours-day",
-      "originalUrl": "https://www.foxnews.com/media/tech-sad-reality-restaurant-industrys-future-business-owner-says-robot-works-12-hours-day",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31bebe45-782f-4b1c-a841-736695a22921/0a8e08e5-6077-4c1b-a8f5-2f7645837724/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/tech-sad-reality-restaurant-industrys-future-business-owner-says-robot-works-12-hours-day.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tech-sad-reality-restaurant-industrys-future-business-owner-says-robot-works-12-hours-day.amp",
-      "publishedDateTime": "2023-08-13T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

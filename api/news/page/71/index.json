@@ -2,6 +2,317 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2023-09-07-5-neat-ai-startups-from-y-combinators-winter-2023-batch.md",
+      "title": "5 neat AI startups from Y Combinator’s Winter 2023 batch",
+      "excerpt": "Another intriguing Y Combinator startup tackling challenges in AI operations is Ceralyze, founded by ex-Peloton AI engineer Sarang Zambare. Ceralyze is Zambare’s second YC go-around after leading the AI team at cashier-less retail startup Caper.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/",
+      "originalUrl": "https://techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/y-combinator-gears1.png?resize=1200,674",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/amp/",
+      "publishedDateTime": "2023-09-06T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-intelligently-search-adobe-experience-manager-content-using-amazon-kendra.md",
+      "title": "Intelligently search Adobe Experience Manager content using Amazon Kendra",
+      "excerpt": "This post shows you how to configure the Amazon Kendra AEM connector to index your content and search your AEM assets and pages. The connector also ingests the access control list (ACL) information for each document. The ACL information is used to show search results filtered by what a user has access",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-adobe-experience-manager-content-using-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-adobe-experience-manager-content-using-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/06/featured-images-ML-13597-1120x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T10:28:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-fine-tune-llama-2-for-text-generation-on-amazon-sagemaker-jumpstart.md",
+      "title": "Fine-tune Llama 2 for text generation on Amazon SageMaker JumpStart",
+      "excerpt": "Today, we are excited to announce the capability to fine-tune Llama 2 models by Meta using Amazon SageMaker JumpStart. The Llama 2 family of large language models (LLMs) is a collection of pre-trained and fine-tuned generative text models ranging in scale from 7 billion to 70 billion parameters. Fine-tuned",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-2-for-text-generation-on-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-2-for-text-generation-on-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/05/featured-images-l-ml-15376-1120x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T10:19:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-emerging-non-volatile-memories-enable-iot-and-ai-growth.md",
+      "title": "Emerging Non-Volatile Memories Enable IoT And AI Growth",
+      "excerpt": "MRAM and other emerging memory revenues could approach $1B and drive capital equipment revenues to $2.2B by 2033.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/",
+      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f8b28ea1eda175c6dcb951/0x0.png?format=png&width=1200",
+          "width": 968,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/amp/",
+      "publishedDateTime": "2023-09-06T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-what-is-the-vulnerability-management-process.md",
+      "title": "What is the vulnerability management process?",
+      "excerpt": "Unpack the steps that make up the vulnerability management lifecycle, and learn how to build an effective vulnerability management program for your organization.\nThe post What is the vulnerability management process? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-the-vulnerability-management-process/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-the-vulnerability-management-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/GettyImages-1489414966.jpg",
+          "width": 2400,
+          "height": 1266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-ai-took-my-job-literallygizmodo-fires-spanish-staff-amid-switch-to-ai-translator.md",
+      "title": "“AI took my job, literally”—Gizmodo fires Spanish staff amid switch to AI translator",
+      "excerpt": "It's easy to imagine even more embarrassing mistakes due to autonomous translation between languages. So far, we've seen in our AI coverage that automated publishing does not tend to go well ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_translator_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/amp/",
+      "publishedDateTime": "2023-09-06T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-tennis-football-and-ibm-watsonx.md",
       "title": "Tennis, football, and IBM watsonx",
       "excerpt": "The process of introducing new features to the US Open digital experience has never been smoother than it was this year, thanks to watsonx.\nThe post Tennis, football, and IBM watsonx appeared first on IBM Blog.\n",
@@ -859,275 +1170,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-nvidia-why-this-phenomenal-artificial-intelligence-ai-stalwart-is-still-a-screaming-buy.md",
-      "title": "Nvidia: Why This Phenomenal Artificial Intelligence (AI) Stalwart Is Still a Screaming Buy",
-      "excerpt": "According to the Financial Times (via Tom's Hardware), Nvidia could ship 550,000 of its H100 data center graphics processing units (GPUs) for AI workloads in 2023. Given that the cheapest version of this GPU is sold for around $30,000, Nvidia could ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nvidia:-why-this-phenomenal-artificial-intelligence-ai-stalwart-is-still-a-screaming-buy",
-      "originalUrl": "https://www.nasdaq.com/articles/nvidia:-why-this-phenomenal-artificial-intelligence-ai-stalwart-is-still-a-screaming-buy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-exclusive-ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.md",
-      "title": "Exclusive: AI chip startup d-Matrix raises $110 mln with backing from Microsoft",
-      "excerpt": "Silicon Valley-based artificial intelligence chip startup d-Matrix has raised $110 million from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-chip-startup-d-matrix-raises-110-mln-with-backing-microsoft-2023-09-06/",
-      "originalUrl": "https://www.reuters.com/technology/ai-chip-startup-d-matrix-raises-110-mln-with-backing-microsoft-2023-09-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/wGOVN9VOmABurktWbqvXa9yCre8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VP35N4V2DRKPDFZB2DP2TS7BQY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-data-is-essential-building-an-effective-generative-ai-marketing-strategy.md",
-      "title": "Data is essential: Building an effective generative AI marketing strategy",
-      "excerpt": "Generative AI for text, visuals and video have the potential to create a more personalized and engaging experience.\nThe post Data is essential: Building an effective generative AI marketing strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/data-is-essential-building-an-effective-generative-ai-marketing-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/data-is-essential-building-an-effective-generative-ai-marketing-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-baidu-launches-a-slew-of-ai-applications-after-its-ernie-chatbot-gets-public-approval.md",
-      "title": "Baidu launches a slew of AI applications after its Ernie chatbot gets public approval",
-      "excerpt": "Baidu also announced that more than 6 million users have used an AI-powered tool that sits inside its Google drive-like cloud product. At Tuesday's event, Baidu also showed off displayed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/05/baidu-launches-more-ai-apps-after-ernie-chatbot-gets-public-approval.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/05/baidu-launches-more-ai-apps-after-ernie-chatbot-gets-public-approval.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107295593-1693900544756-gettyimages-1251294603-PGONCHAR_7724.jpeg?v=1693906127",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/05/baidu-launches-more-ai-apps-after-ernie-chatbot-gets-public-approval.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/05/baidu-launches-more-ai-apps-after-ernie-chatbot-gets-public-approval.html",
-      "publishedDateTime": "2023-09-06T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-banks-must-promote-more-research-on-ai-usage-says-sbis-cto.md",
-      "title": "Banks must promote more research on AI usage, says SBI's CTO",
-      "excerpt": "“There is a need to promote more AI research and researchers in the banking and finance sector,” Balaji Rajagopalan, chief technical officer at the State Bank of India, told Moneycontrol on the sidelines of the Global Fintech Festival in Mumbai on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/08/SBI.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html/amp",
-      "publishedDateTime": "2023-09-06T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-delhi-high-court-approves-stem-cell-therapy-for-autism-treatment.md",
-      "title": "Delhi High Court Approves Stem Cell Therapy for Autism Treatment",
-      "excerpt": "Delhi High Court has authorized stem cell therapy as a treatment option for two children diagnosed with Autism Spectrum Disorder (ASD).",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/delhi-high-court-approves-stem-cell-therapy-for-autism-treatment-213369-1.htm",
-      "originalUrl": "https://www.medindia.net/news/delhi-high-court-approves-stem-cell-therapy-for-autism-treatment-213369-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/can-suramin-emerge-as-a-treatment-for-autism-spectrum-disorders-asd.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/delhi-high-court-approves-stem-cell-therapy-for-autism-treatment-213369-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/delhi-high-court-approves-stem-cell-therapy-for-autism-treatment-213369-1.htm",
-      "publishedDateTime": "2023-09-05T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

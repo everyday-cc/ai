@@ -117,7 +117,7 @@ related:
   - title: "California DMV suspends permits for self-driving taxis"
     excerpt: "The DMV said its autonomous vehicle regulations “provide a framework to facilitate the safe testing and deployment” of autonomous vehicle technology on California’s public roads. “When there is an unreasonable risk to public safety, the DMV can immediately suspend or revoke permits,” the DMV said."
     publishedDateTime: 2023-10-25T10:57:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/?lv=true"
+    webUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/"
     ampWebUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
     cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
     type: article
@@ -134,6 +134,15 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 1
+  - title: "Self-driving operator Cruise's operations in AZ unaffected, despite CA permit suspension"
+    excerpt: "The company's driverless permits were suspended in California, but the move does not affect Arizona operations."
+    publishedDateTime: 2023-10-26T20:19:00Z
+    webUrl: "https://www.usatoday.com/story/money/business/tech/2023/10/26/self-driving-car-operator-cruise-will-continue-operations-in-arizona/71332901007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 0
 
 secured: "DKF2/xkgnJA5CvCXavFAIHZu+a7yk6KFyMx+wrmRUm2xpXVIEiDI269MHsnWemOXKDa9LvpOE8ajcet8mBaP3bFCHGBkUmGlnGw5tbwc7iRvjH6q2scmw52FqqykxoyC6LQKg+h4yK1Zv94Q+mJbNiciV44YA/RcU31bgX9uZBvUcBoUCpZ8KlEVCkSto+JTUIypDcjjhwYuSXeikv3vOQOmQ94/d4ZFvdwa/dwxjoTP09gydFHyAbuOwYVIAVThw8UmfeQSSQy/vq3avGVs2qqVJBXv02tX7sIq2BBgCVOoxSMfpEAxiOZ+ej5Nm3xILCZjx/C51A9Yc9wE3/xx8Z+J89xfRileI7e3Gm4AquM=;jdM1gC+OhsagzS49Pr98Jg=="
 ---

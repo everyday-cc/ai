@@ -41,22 +41,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "UN chief appoints 39-member panel to advise on international governance of artificial intelligence"
-    excerpt: "U.N. Secretary-General António Guterres on Thursday announced the appointment of a 39-member global advisory panel to report on international governance of artificial"
-    publishedDateTime: 2023-10-26T23:06:00Z
-    webUrl: "https://www.kxnet.com/news/national-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/"
-    ampWebUrl: "https://www.kxnet.com/news/national-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-kxnet-com.cdn.ampproject.org/c/s/www.kxnet.com/news/national-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: KX News
-      domain: kxnet.com
-    quality: 45
-    images:
-      - url: "https://www.kxnet.com/wp-content/uploads/sites/16/2020/09/cropped-Google-logo.png?strip=1"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Ethics and Practical Applications of AI Agents in US Business Today: Digital Worker Forum"
     excerpt: "The International Digital Worker Association (IDWA) is thrilled to unveil the Digital Worker Forum, where experts from Microsoft, Google, IBM, NVIDIA, Meta, AutomationAnywhere, UiPath, and other tech giants will answer these and many more questions on November 8, 2023."
     publishedDateTime: 2023-10-25T18:50:00Z
@@ -65,6 +49,17 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 25
+  - title: "UN chief appoints 39-member panel to advise on international governance of artificial intelligence"
+    excerpt: "U.N. Secretary-General António Guterres on Thursday announced the appointment of a 39-member global advisory panel to report on international governance of artificial"
+    publishedDateTime: 2023-10-26T23:06:00Z
+    webUrl: "https://thehill.com/homenews/ap/ap-u-s-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/"
+    ampWebUrl: "https://thehill.com/homenews/ap/ap-u-s-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-u-s-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
     quality: 25
 
 secured: "4/W+jwNnkixiBUK7XhBu8yxuHONuLdIgk6AXPH/7E+xTgGY8CgdUl6OsXlXSg2a4ayTpGvvJkZEHygOwrebBfSHHVUi20KoR9KlV90LJ6qO2Sw0ouhKbag/d++ma14LYuSlRuKaq2dbkDdwjBchuMjU+nA1zOQPJZO2W3srrUalEcbCv/pfpopxQifELCeFn9VspsZcKlzvBHtbashwnmgVUv9BHAaFSVv2aWomz76vnKBrdRncI/sKQJWv6T5yKkA1JehhA8g8PqKnDI/vlVNuFMkDtI2TAPTo6tEf3CdfqALzfGD9NTW261M8/MB2nRWLQak3T1dNfUQmLWYRAt7TEOo9yaGiDIEy6unN7GCknAwd0qyjBjeG5h3+HBZgpsCczCfC9g/zPn/oeLtLhf2lZ47dpg2M5vyZZvQHJqzUsTypIT902Qe3inNwcmd+xZo9NDICWd5Hd6Hjq6YyfKx+/cnVv/a7GcrId5mOggypH8Mz6+1u6kXgLfGOEFeOyOeiI3dwkSYjeAVW4+DZiHA==;pja1CMMSQqtfTvzgO35hMw=="

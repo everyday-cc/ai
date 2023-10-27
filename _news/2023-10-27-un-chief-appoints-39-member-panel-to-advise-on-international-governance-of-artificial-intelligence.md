@@ -3,28 +3,22 @@ category: news
 title: "UN chief appoints 39-member panel to advise on international governance of artificial intelligence"
 excerpt: "U.N. Secretary-General António Guterres on Thursday announced the appointment of a 39-member global advisory panel to report on international governance of artificial"
 publishedDateTime: 2023-10-26T23:06:00Z
-originalUrl: "https://www.kxnet.com/news/national-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/"
-webUrl: "https://www.kxnet.com/news/national-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/"
-ampWebUrl: "https://www.kxnet.com/news/national-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/"
-cdnAmpWebUrl: "https://www-kxnet-com.cdn.ampproject.org/c/s/www.kxnet.com/news/national-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/"
+originalUrl: "https://thehill.com/homenews/ap/ap-u-s-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/"
+webUrl: "https://thehill.com/homenews/ap/ap-u-s-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/"
+ampWebUrl: "https://thehill.com/homenews/ap/ap-u-s-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-u-s-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/"
 type: article
-quality: 45
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: KX News
-  domain: kxnet.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
-  - AI in Healthcare
+  - Facebook AI
   - AI
-
-images:
-  - url: "https://www.kxnet.com/wp-content/uploads/sites/16/2020/09/cropped-Google-logo.png?strip=1"
-    width: 512
-    height: 512
-    isCached: true
 
 related:
   - title: "Workshop On Soft Law Governance Of AI Applications Knocks It Out Of The Park And Dazzles With Keen Insights On AI Ethics And AI Legal Impacts"
@@ -67,6 +61,6 @@ related:
       domain: tmcnet.com
     quality: 25
 
-secured: "AB/U3SHEavgvadPuF6jf/LisgtnizSHoJXyQ+o7M7nbUX+QUT+uzN9FVlFqsc+8VZCTPu+gxoPKKhvaF3R2+3JJECvgU7dp/T/T6g1y9+kDyOZ9HegGHfVjriMRPL1cjAkJS9+GsbT7uPtzxZnmr0n2p43IEzJhAD/g7GftRtsT9L9T+XlJygl87RnlUu6hQUJOwjy+Y4msXvLYiQSJp0CQbGR9EgM+vRLMpme14tYsnqgOlUOS8disseuHSHRKsX9ArerY+DHLg8eBCneEfdIq4PZq5N7/uk2/RFAdNXeah89cQXiD9gDQmesMqW8OniuQ/YQC0FatrSe9N4Z6bY5iqZSUKLktN4h90mQTY2/k=;jY5L+8V+IsZhE3uQ0rGOJQ=="
+secured: "qzhU16HZYGjPxKPERrdl8C/bf0rY8sDtVunPJCZ6mctGTcmsq2z5YW8nD09KqpX5NTHC74tCctPPNYYkXt/fnLPgaxmCQNCMabZ13tddOX47arCGmsulJ9FNat4yZApAOwABKBz6Zri441NCt+F+Y7LQ8Zj2bkqzK3JZlX9cCUKxdxg13Q7IeqJKZlEGT9WUSfJUmFhzbftkSnrdQO2Ps60EML/WemJEL/5mskhdeEF8Zb8lbTPqInz93sfwDSxHtuSf6qKlU8PaGBw8L0tQWvgyebsQCiUzqEBlxH4uYeF9nhRXgmP7HpdZjFWztSkBvwqidwXZSKxVWQHW9jRsn7pkTmuqxazHcDl2KWwC/0I=;Vd/bVM11wX7MTLgvlmzTOA=="
 ---
 

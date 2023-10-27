@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 629
         isCached: true
+  - title: "AI could predict Alberta forest fires before they start"
+    excerpt: "The project is an extension of GovLab, a public AI lab formed through a partnership of the Alberta government, software company AltaML, and non-profit innovation hub Mitacs. Predicting where wildfires will start is nothing new. Wildfire officers are in ..."
+    publishedDateTime: 2023-10-27T00:10:00Z
+    webUrl: "https://mobilesyrup.com/2023/10/26/ai-could-predict-alberta-forest-fires-before-they-start/"
+    type: article
+    provider:
+      name: MobileSyrup
+      domain: mobilesyrup.com
+    quality: 37
+    images:
+      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2023/10/wildfire-scaled.jpg"
+        width: 2560
+        height: 1439
+        isCached: true
 
 secured: "n6VI+i7N1msivfdOR4wI4AClynEY7vL1k8rdU/bZzF0HX870wxqeMZhI7hJQg+h/eqmC7OafvW/1PCAXIyXTwW5wK/5NIkoXEw8jVD7gNhrGe9hrLBeaAT068j1n5ffjwRiNUixRfezNfZl0+4ii1Mow5PxBmZ+dDINrBWZow1Ew7irhNWUVpRSD6K5cj85ZAG5249MjtcE6TeWpGkwPTmUW1pATiXW3huvYFGe7ve/B8nfOzo/5bAM0W+qUigHlN5mHtxMnr4Q+CFnKbs4XKrcJcBxzvqCN03h3+SBbNgCDOgRD0uRNSd0DkH1OIf4/B7yn9naNfJXaDlCqbSu0e5hi03N786I1GlL+RA1y8yE=;gmnfKboGtARcKVTyPd/B2g=="
 ---

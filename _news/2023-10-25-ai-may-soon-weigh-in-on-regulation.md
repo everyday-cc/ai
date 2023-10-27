@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-may-soon-weigh-in-on-regulation-ar
 webUrl: "https://www.wsj.com/articles/ai-may-soon-weigh-in-on-regulation-artificial-intelligence-agencies-public-comment-periods-766436ec"
 type: article
 quality: 67
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "MOLEG seeks expanded role in setting rules for artificial intelligence"
-    excerpt: "The need to regulate the unlimited possibilities and risks of artificial intelligence (AI) is increasing in tandem with the expanding domain of the new technology."
-    publishedDateTime: 2023-10-22T07:24:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/nation/2023/10/356_361568.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361568"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361568"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 59
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/16975f1463e24016a4f508f58fa7f1b4.jpg"
-        width: 750
-        height: 677
-        isCached: true
   - title: "UK regulators report back on AI and Machine Learning consultation"
     excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
     publishedDateTime: 2023-10-26T11:30:00Z

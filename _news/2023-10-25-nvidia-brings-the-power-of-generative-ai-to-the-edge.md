@@ -86,7 +86,7 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://www.eweek.com/wp-content/uploads/2023/09/ew_09272023-will-ai-replace-jobs.png"
         width: 1400

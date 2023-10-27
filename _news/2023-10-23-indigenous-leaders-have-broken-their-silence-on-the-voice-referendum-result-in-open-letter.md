@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "‘A shameful act’: Voice leaders break silence"
-    excerpt: "In a bruising statement, Indigenous leaders have blamed “appalling and mean-spirited” decision-making for the defeat of this month’s referendum."
-    publishedDateTime: 2023-10-22T08:01:00Z
-    webUrl: "https://www.afr.com/politics/federal/a-shameful-act-voice-leaders-break-silence-20231022-p5ee5z"
+  - title: "Anonymous letter-writing Indigenous leaders to blame for Voice loss: Liddle"
+    excerpt: "Liddle delivering a speech in September, 2022.Credit ... and that it was the “legitimacy of the non-Indigenous occupation in this country that requires recognition”. “For people that claim to have spent a week in mourning, you would have hoped ..."
+    publishedDateTime: 2023-10-25T04:17:00Z
+    webUrl: "https://www.smh.com.au/politics/federal/anonymous-letter-writing-indigenous-leaders-to-blame-for-voice-loss-liddle-20231025-p5eeum.html"
+    ampWebUrl: "https://amp.smh.com.au/politics/federal/anonymous-letter-writing-indigenous-leaders-to-blame-for-voice-loss-liddle-20231025-p5eeum.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/anonymous-letter-writing-indigenous-leaders-to-blame-for-voice-loss-liddle-20231025-p5eeum.html"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.25%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_87%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/64056cf67aff77337de9bcc5ed08633e829390db"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 22
 
 secured: "AYcWv9nnmzLlNtmISZQ9TOB9HesTfw94I+1Urc4Smu/gNNJaj3SMjS+HHn6bAqBbuFmnDpmD5m6hQeEddri3IE1t5XkMcHxYEWQqHXxSPzWYxnxh6CtvzWkBuMW93J24nC76UyKP5yWIrlLkYVQoNFCfhy0HQebrS3c0d+4lbNZtkQCLJVDjiCy/OKeT2S4EqRJka5eg5Xm/9AIXv1IGgP2/5PKkUcb5NfogC4gsKlvzaQ7fYYj6vPGM6voZv+K+cUOlYsyalF4h+qG4WZtEL9B+PNGNUbAFyPjS+/SuM11qLsYwLqg6WP2GWhTdMwtfRz5WTP0Kj0oBPL8sTC1LX+Iy9uRXcD+V7zZi+Pj8UDxRLrENAhaSjJJFQOcOHDydlN+K+1gA+ILbjcMb4JtwCrR+AOO52HDpneg//be1cIqpYqA8eHBtayx03dp0hT7iBDo/37O0g1qQDhjVzo6+p5vkJbwUx1Bn5j++oND8YM2M5mwhq+IGMslpW7wOLR85bP0tz1gRpS0kdEi2tIDVvQ==;FGPwd22trJbcvtms5/+Vfw=="
 ---

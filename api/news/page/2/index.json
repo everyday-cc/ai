@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-26-exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley.md",
+      "title": "Exclusive: SoftBank takes Indian founders on AI tour in Silicon Valley",
+      "excerpt": "Indian startup founders at SoftBank’s office in Silicon Valley. Earlier this week, a group of 20 founders and CXOs from some of India’s biggest start-ups backed by SoftBank engaged in discussions with top executives of leading artificial intelligence (AI) firms in Silicon Valley.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley-11599711.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley-11599711.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/10/softbank-580x435.jpeg",
+          "width": 580,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley-11599711.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley-11599711.html/amp",
+      "publishedDateTime": "2023-10-25T19:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-cisco-zooms-in-on-new-ai-power-for-webex-teams.md",
       "title": "Cisco zooms in on new AI power for Webex teams",
       "excerpt": "Providing automated support such as tone modification when writing messages, suggested responses to received messages, and meeting summaries",
@@ -914,6 +957,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-25-alberta-investing-in-ai-that-predicts-where-wildfires-may-ignite.md",
+      "title": "Alberta investing in AI that predicts where wildfires may ignite",
+      "excerpt": "“It’s a next-day fire-likelihood forecast,” said Graham Erickson, senior lead machine learning developer with AltaML, which uses Microsoft’s Azure AI technology to build its own software. Erickson said wildfire officers put people ...",
+      "sourceUrl": null,
+      "webUrl": "https://globalnews.ca/news/10047983/alberta-investing-in-ai-that-predicts-where-wildfires-may-ignite/",
+      "originalUrl": "https://globalnews.ca/news/10047983/alberta-investing-in-ai-that-predicts-where-wildfires-may-ignite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://globalnews.ca/wp-content/uploads/2023/10/2023102315100-6536c30e420cce621d2d804ejpeg-1.jpg?quality=85&#038;strip=all",
+          "width": 1024,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://globalnews.ca/news/10047983/alberta-investing-in-ai-that-predicts-where-wildfires-may-ignite/amp/",
+      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/10047983/alberta-investing-in-ai-that-predicts-where-wildfires-may-ignite/amp/",
+      "publishedDateTime": "2023-10-25T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-25-amazon-develops-lifestyle-imagery-ai-for-lazy-advertisers.md",
       "title": "Amazon Develops 'Lifestyle Imagery' AI for Lazy Advertisers",
       "excerpt": "The Amazon Ads team is launching a new image generation service in beta, which takes advantage of generative AI to place products in realistic, but completely fake settings with a short description and the push of a button. If it proves popular, we should hopefully never see a photo of a toaster or an air fryer on a white background again.",
@@ -1162,111 +1248,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-microsoft-leads-alphabet-in-the-race-to-monetize-generative-ai.md",
-      "title": "Microsoft Leads Alphabet In The Race To Monetize Generative AI",
-      "excerpt": "Why the different trajectories of these stocks? Nearly a year after Microsoft launched ChatGPT, the answer is in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2023/10/25/microsoft-leads-alphabet-in-the-race-to-monetize-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/10/25/microsoft-leads-alphabet-in-the-race-to-monetize-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 764,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6538bd6db32724b8cff0ecd5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1302,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/10/25/microsoft-leads-alphabet-in-the-race-to-monetize-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/10/25/microsoft-leads-alphabet-in-the-race-to-monetize-generative-ai/amp/",
-      "publishedDateTime": "2023-10-25T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-worried-about-ai-gobbling-up-your-job-start-doing-these-3-things-now.md",
-      "title": "Worried about AI gobbling up your job? Start doing these 3 things now",
-      "excerpt": "If your job relies on a complex set of rules or codes, such as tax accounting or financial analysis, then it might be among the first to go. But don't lose hope yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/worried-about-ai-gobbling-up-your-job-start-doing-these-3-things-now/",
-      "originalUrl": "https://www.zdnet.com/article/worried-about-ai-gobbling-up-your-job-start-doing-these-3-things-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ece25b17c3d0f4c5eae17d6f6ff4d0b6f27cbbc2/2023/09/11/ae4b992f-5484-4575-903c-b526b207a3db/gettyimages-1475355709.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing"
       ]
     }
   ],

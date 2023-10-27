@@ -2,6 +2,278 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2023-09-01-google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards.md",
+      "title": "Google DeepMind co-founder wants US to link AI chip sales to minimum artificial intelligence standards",
+      "excerpt": "DeepMind's co-founder, Mustafa Suleyman, has called on the US government to enforce minimum standards for AI companies to be eligible to purchase Nvidia's AI chips. He believes that buyers should agree to ethically use the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/articleshow/103290407.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/articleshow/103290407.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-103290407,imgsize-24318,width-800/103290407.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/amp_articleshow/103290407.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/amp_articleshow/103290407.cms",
+      "publishedDateTime": "2023-09-01T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model.md",
+      "title": "Cerebras and Abu Dhabi build world's most powerful Arabic-language AI model",
+      "excerpt": "The language disparity in AI has been observed and given considerable attention ... but even languages with prevalent translation material such as Greek and Icelandic. And so-called multi-modal programs such as the NLLB successor, SeamlessM4T from Meta ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model/",
+      "originalUrl": "https://www.zdnet.com/article/cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/482ef735b9e3d7e3f787fd6aae61832874a0a4e8/2023/08/31/b450a6fc-3314-4c7a-8815-89fcd8aed339/neural-net-as-calligraphy-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-ai-technology-lets-you-talk-to-jesus-or-satan-what-do-they-say.md",
+      "title": "AI technology lets you talk to Jesus or Satan. What do they say?",
+      "excerpt": "the AI version of Jesus’ Mother Mary identifies herself as an AI language model and says we should approach the topic “with empathy and respect for different viewpoints.” If exchanging texts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2023/09/01/ai-technology-lets-you-talk-to-jesus-or-satan-what-do-they-say/",
+      "originalUrl": "https://www.eastbaytimes.com/2023/09/01/ai-technology-lets-you-talk-to-jesus-or-satan-what-do-they-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-google-deepmind-co-founder-says-us-should-enforce-ai-standards-for-ethical-use.md",
+      "title": "Google DeepMind co-founder says US should enforce AI standards for ethical use",
+      "excerpt": "The co-founder of artificial intelligence firm DeepMind, now owned by Google (NASDAQ:GOOG) (NASDAQ:GOOGL), said that the U.S. should let Nvidia's (NASDAQ:NVDA) artificial intelligence chips only ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/4008333-google-deepmind-co-founder-us-should-enforce-ai-standards-for-ethical-use",
+      "originalUrl": "https://seekingalpha.com/news/4008333-google-deepmind-co-founder-us-should-enforce-ai-standards-for-ethical-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1464561797/image_1464561797.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-korean-internet-giant-naver-explores-robotics-ai-and-autonomous-driving.md",
+      "title": "Korean internet giant Naver explores robotics, AI and autonomous driving",
+      "excerpt": "Naver, maker of the search engine known as the \"Google of South Korea,\" opened its new second headquarters, Naver 1784. The building's",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/01/korean-internet-giant-naver-explores-robotics-ai-and-autonomous-driving/",
+      "originalUrl": "https://techcrunch.com/2023/09/01/korean-internet-giant-naver-explores-robotics-ai-and-autonomous-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-donald-trump-appears-to-shut-down-ai-interview-theories.md",
+      "title": "Donald Trump Appears to Shut Down AI Interview Theories",
+      "excerpt": "The former president shared a clip of the interview after facing speculation it was faked, but did not address questions about its authenticity explicitly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-artificial-intelligence-interview-theory-1823934",
+      "originalUrl": "https://www.newsweek.com/donald-trump-artificial-intelligence-interview-theory-1823934",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2277139/donald-trump.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-artificial-intelligence-interview-theory-1823934?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-artificial-intelligence-interview-theory-1823934?amp=1",
+      "publishedDateTime": "2023-09-01T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-automated-machine-learning-automl-market-size-regional-status-and-outlook-2023-2030.md",
       "title": "Automated Machine Learning (AutoML) Market Size, Regional Status and Outlook 2023-2030",
       "excerpt": "The Automated Machine Learning (AutoML) Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments ...",
@@ -890,271 +1162,6 @@
       "provider": {
         "name": "Insider Monkey",
         "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-natural-language-processing-nlp-market-outlook-2023-2030-latest-trends-opportunities-and-future-growth-predictions.md",
-      "title": "Natural Language Processing (NLP) Market Outlook 2023-2030: Latest Trends, Opportunities, and Future Growth Predictions",
-      "excerpt": "The \"Natural Language Processing (NLP) Market\" Research Report 2023: incorporates a thorough qualitative and quantitative analysis along with several market dynamics. Global Natural Language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/34148637/natural-language-processing-nlp-market-outlook-2023-2030-latest-trends-opportunities-and-future-gro",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/34148637/natural-language-processing-nlp-market-outlook-2023-2030-latest-trends-opportunities-and-future-gro",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34148637",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34148637",
-      "publishedDateTime": "2023-08-31T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-speech-voice-recognition-systems-market-trends-report-2023-2030-115-pages-report.md",
-      "title": "Speech & Voice Recognition Systems Market Trends Report 2023-2030 | 115 Pages Report",
-      "excerpt": "The Global Speech and Voice Recognition Systems market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at a steady ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/34140061/speech-voice-recognition-systems-market-trends-report-2023-2030-115-pages-report",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/34140061/speech-voice-recognition-systems-market-trends-report-2023-2030-115-pages-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34140061",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34140061",
-      "publishedDateTime": "2023-08-31T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-ai-drone-beats-pro-drone-racers-at-their-own-game.md",
-      "title": "AI drone beats pro drone racers at their own game",
-      "excerpt": "An AI drone has beaten pro drone racers at their own game in a world first that could have implications for other drone-related tasks such as search and rescue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/",
-      "originalUrl": "https://www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/08/drone-race-AI.jpeg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/?amp",
-      "publishedDateTime": "2023-08-31T18:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-book-review-robot-souls-programming-in-humanity-by-eve-poole.md",
-      "title": "Book review: Robot Souls: Programming in humanity by Eve Poole",
-      "excerpt": "Experts in the complex intellectual areas that she covers — AI history and development, philosophy of mind ... us to use and control its power virtuously. Poole’s more whimsical solution is to programme virtues or “souls” into robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.churchtimes.co.uk/articles/2023/1-september/books-arts/book-reviews/book-review-robot-souls-programming-in-humanity-by-eve-poole",
-      "originalUrl": "https://www.churchtimes.co.uk/articles/2023/1-september/books-arts/book-reviews/book-review-robot-souls-programming-in-humanity-by-eve-poole",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.churchtimes.co.uk/media/5692391/poolee_robotsouls-20230824151609494_web.jpg?center=0.33412322274881517,0.58510638297872342&mode=crop&width=600&height=314&rnd=133379472460000000",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Church Times",
-        "domain": "churchtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-how-the-gc-of-a-startup-building-harmless-ai-balances-risks-rewards.md",
-      "title": "How the GC of a Startup Building 'Harmless' AI Balances Risks, Rewards",
-      "excerpt": "It’s a surprisingly full time job at times . . . to really deeply understand where we're willing to tolerate more risk in service of our mission and where we're more sensitive to risk, Anthropic AI legal chief Brian Israel said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/therecorder/2023/08/30/how-the-gc-of-a-startup-building-harmless-ai-balances-risks-rewards/",
-      "originalUrl": "https://www.law.com/therecorder/2023/08/30/how-the-gc-of-a-startup-building-harmless-ai-balances-risks-rewards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/390/2023/08/Risk-Investment-767x633.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-baidu-ai-leader-of-china.md",
-      "title": "Baidu: AI Leader Of China",
-      "excerpt": "Baidu leads in machine learning and AI patents in China, with 13,993 active patent families in 2022. Chinese government support, including investments of $32.5 billion in AI initiatives, has ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4631728-baidu-ai-leader-of-china",
-      "originalUrl": "https://seekingalpha.com/article/4631728-baidu-ai-leader-of-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/488987708/image_488987708.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null

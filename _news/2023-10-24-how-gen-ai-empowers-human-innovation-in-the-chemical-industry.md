@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Innovating with responsibility: How customers and partners are bridging data, AI and trust with the Microsoft Cloud"
+    excerpt: "For the past decade, we have been on a journey with our customers to help them achieve digital transformation, which is business transformation empowered by cloud technology. With increasing excitement around generative AI — both for its potential and the impact it is already having — organizational leaders are eager to prioritize adoption that"
+    publishedDateTime: 2023-10-23T13:00:00Z
+    webUrl: "https://blogs.microsoft.com/blog/2023/10/23/innovating-with-responsibility-how-customers-and-partners-are-bridging-data-ai-and-trust-with-the-microsoft-cloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 12
 
 secured: "O2C75EKFZqhG56+jGGNATscFk//jDnqw4xqzsZeA9Tod/+2qcgiDOxwM9MGJoMysdOGNsyub+5FmEnfNYcqcupTLz74X30ajwP2odO2FGy7PQ0HY+kzy5HhKZjyXw1OrCWEtK8abanJ1WzS5HIWtAYg/6I8HYVN6bqrv7tmKUOM6PJxBe5cgSZU+NCBTVjDI1asy9xeZHYMkNau1/9rDhxlfjx9/oR9b1e2YcKyIH6UlbnEGJp2Ia0UKAdiuWrc9mty5F7btU5Z9l18O8mCQmrWl/2zEWymGaYwerEPcNFJvMiHHAm/G0GE8z1//EN/wVx+wn3kbRmda5NRF1rVobR46iLYmpXNrd0ipeQ4TLJzKWoMKNi6+lEjdPBbTore2JpVtydyLYvwGa/jowBZPXEBtj+E8uS6t8/OG67KFN3QBRhj/ExKS+g19rpGyLCbX2GR68JJVWNAf+Tt36/hBSWI+IwmM3GojwFhXLHG1g/xW26WRU6zSFE2cDnHRN4PERx1Klp+j8YbJFdTVjtDNMg==;+Bq2+Umv8UFIVgQTmndnZQ=="
 ---

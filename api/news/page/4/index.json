@@ -2,6 +2,147 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-24-t-mobile-us-inc-uses-artificial-intelligence-through-amazon-transcribe-and-amazon-translate-to-deliver-voicemail-in-the-language-of-their-customers.md",
+      "title": "T-Mobile US, Inc. uses artificial intelligence through Amazon Transcribe and Amazon Translate to deliver voicemail in the language of their customers’ choice",
+      "excerpt": "This post is co-authored by Dhurjati Brahma, Senior Systems Architect at T-Mobile US, Inc and Jim Chao, Principal Engineer/Architect at T-Mobile US, Inc and Nicholas Zellerhoff Associate Systems Architect at T-Mobile US, Inc. T-Mobile US, Inc. provides a Voicemail to Text service to its customers, which",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/t-mobile-us-inc-uses-artificial-intelligence-through-amazon-transcribe-and-amazon-translate-to-deliver-voicemail-in-the-language-of-their-customers-choice/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/t-mobile-us-inc-uses-artificial-intelligence-through-amazon-transcribe-and-amazon-translate-to-deliver-voicemail-in-the-language-of-their-customers-choice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/24/t-mobile-voicemail.jpg",
+          "width": 809,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T09:23:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-security-threats-in-ais-such-as-chatgpt-revealed-by-researchers.md",
+      "title": "Security threats in AIs such as ChatGPT revealed by researchers",
+      "excerpt": "Artificial intelligence (AI) tools such as ChatGPT can be tricked into producing malicious code, which could be used to launch cyber attacks, according to research from the University of Sheffield.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sheffield.ac.uk/news/security-threats-ais-such-chatgpt-revealed-researchers",
+      "originalUrl": "https://www.sheffield.ac.uk/news/security-threats-ais-such-chatgpt-revealed-researchers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sheffield.ac.uk/sites/default/files/styles/two_thirds_2x/public/2023-10/GettyImages-1585385780.jpg?h=599ff58f&itok=lGT6jrS3",
+          "width": 1504,
+          "height": 846,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "University of Sheffield",
+        "domain": "sheffield.ac.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-demystifying-artificial-intelligence-in-video-security.md",
+      "title": "Demystifying artificial intelligence in video security",
+      "excerpt": "Artificial intelligence is transforming video security, yet many misconceptions persist around what AI-driven solutions can and cannot (or should not) do. Part of this stems from the complexity of modern machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/video-surveillance/article/53076147/demystifying-artificial-intelligence-in-video-security",
+      "originalUrl": "https://www.securityinfowatch.com/video-surveillance/article/53076147/demystifying-artificial-intelligence-in-video-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/10/GettyImages_1023344400.6537da7281b01.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-10-24-xpeng-tech-day-2023-recap-x9-revealed-plus-ai-valet-driver-two-new-flying-cars-and-bipedal-robot.md",
       "title": "XPeng Tech Day 2023 recap: X9 revealed, plus AI valet driver, two new flying cars, and bipedal robot",
       "excerpt": "In addition to the two-in-one model, XPeng has also introduced a rugged Cybertruck-esque EV with 6×6 all-wheel drive that houses a separate eVTOL aircraft in its rear. An extended range hybrid system can even recharge the aircraft while driving, giving owners the ability to cruise to elevation, park, and unload the EV’s “human-piloted air module.”",
@@ -669,7 +810,7 @@
       "originalUrl": "https://www.ibm.com/blog/generative-ai-and-resilient-hybrid-cloud-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 359,
+      "heat": 389,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -794,6 +935,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-microsoft-earnings-preview-azure-cloud-segment-in-focus.md",
+      "title": "Microsoft earnings preview: Azure cloud segment in focus",
+      "excerpt": "Investing.com - Microsoft Corporation (NASDAQ:MSFT) is set to announce its quarterly earnings after the market closes on Tuesday, with Wall Street keenly watching for indications that the company's substantial investments in artificial intelligence (AI) have been beneficial to its pivotal Azure cloud computing division.",
+      "sourceUrl": null,
+      "webUrl": "https://au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816",
+      "originalUrl": "https://au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AM_L.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816?ampMode=1",
+      "cdnAmpWebUrl": "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816?ampMode=1",
+      "publishedDateTime": "2023-10-23T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1028,214 +1212,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-23-from-text-to-dream-job-building-an-nlp-based-job-recommender-at-talentcom-with-amazon-sagemaker.md",
-      "title": "From text to dream job: Building an NLP-based job recommender at Talent.com with Amazon SageMaker",
-      "excerpt": "This post is co-authored by Anatoly Khomenko, Machine Learning Engineer, and Abdenour Bezzouh, Chief Technology Officer at Talent.com. Founded in 2011, Talent.com is one of the world’s largest sources of employment. The company combines paid job listings from their clients with public job listings into",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/from-text-to-dream-job-building-an-nlp-based-job-recommender-at-talent-com-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/from-text-to-dream-job-building-an-nlp-based-job-recommender-at-talent-com-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/16/ml-14927-image001-1260x422.png",
-          "width": 1260,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T14:33:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-samsung-allegedly-wants-the-galaxy-s24-to-be-the-smartest-ai-smartphone-ever.md",
-      "title": "Samsung allegedly wants the Galaxy S24 to be the 'smartest AI smartphone ever'",
-      "excerpt": "An unnamed source says that Samsung wants to one up Google and turn the S24 series into the \"smartest AI smartphones ever.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/samsung-galaxy-s24-ai-3378731/",
-      "originalUrl": "https://www.androidauthority.com/samsung-galaxy-s24-ai-3378731/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/01/samsung-galaxy-s23-series-lined-up-ports-pink.jpg",
-          "width": 1920,
-          "height": 1081,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates.md",
-      "title": "DOJ subpoenas Tesla in probes of AutoPilot and driving range estimates",
-      "excerpt": "According to Reuters, demand for Tesla vehicles could drop if interest rates keep rising, and Tesla could incur further losses if pressure remains to decrease prices to remain competitive. That's partly why Tesla shareholders have pushed Musk to consider investing more in advertising efforts that could spike demand.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1250863346-800x534.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/amp/",
-      "publishedDateTime": "2023-10-23T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report.md",
-      "title": "Stanford researchers challenge OpenAI, others on AI transparency in new report",
-      "excerpt": "The researchers behind the Foundation Model Transparency Index research paper include primary author Rishi Bommasani, a PhD candidate in computer science at Stanford, and also Kevin Klyman, Shayne Longpre, Sayash Kapoor, Nestor Maslej, Betty Xiong, and Daniel Zhang.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_windshield_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/amp/",
-      "publishedDateTime": "2023-10-23T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

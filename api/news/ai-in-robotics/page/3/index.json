@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-11-new-cyber-algorithm-shuts-down-malicious-robotic-attack.md",
+      "title": "New cyber algorithm shuts down malicious robotic attack",
+      "excerpt": "cyberattack on an unmanned military robot and shut it down in seconds. In an experiment using deep learning neural networks to simulate the behaviour of the human brain, artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/10/231011202416.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/10/231011202416.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-the-best-walmart-anti-prime-day-deals-include-laptops-robot-vacuums-and-luggage.md",
       "title": "The best Walmart anti-Prime Day deals include laptops, robot vacuums and luggage",
       "excerpt": "The best anti-Prime-Day deals we're following at Walmart is the 15.6-inch HP laptop shown above. The Windows 11 device features an Intel Pentium N200 processor, 4GB of RAM and 128 GB of storage. Regularly $249,",
@@ -1288,49 +1331,6 @@
         "AI",
         "Google AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-tom-hanks-disavows-ai-clone-amid-hollywoods-robot-reckoning.md",
-      "title": "Tom Hanks disavows AI clone amid Hollywood’s robot reckoning",
-      "excerpt": "studios and streaming companies are bulking up on AI staff. Aug. 2, 2023 But when actors’ consent is taken out of the picture, people start to get worried. That’s what happened with Tom Hanks’ illegitimate dental endorsement, but also what’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/business/story/2023-10-02/tom-hanks-pushes-back-on-ai-clone-amid-hollywoods-robot-reckoning",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/business/story/2023-10-02/tom-hanks-pushes-back-on-ai-clone-amid-hollywoods-robot-reckoning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/83d78b1/2147483647/strip/true/crop/6000x3150+0+328/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F95%2Fb35aabcb4a418adf0c2acc15d4d3%2Fharvard-tom-hanks-98733.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

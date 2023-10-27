@@ -33,6 +33,17 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "UN’s AI Advisory Panel Ropes In The Brain Behind UPI, ONDC"
+    excerpt: "SPIRT Foundation’s cofounder Sharad Sharma has been chosen as a member of the newly launched UN's high-level advisory body on AI."
+    publishedDateTime: 2023-10-27T01:30:00Z
+    webUrl: "https://inc42.com/buzz/uns-ai-advisory-panel-ropes-in-the-brain-behind-upi-ondc/"
+    ampWebUrl: "https://inc42.com/buzz/uns-ai-advisory-panel-ropes-in-the-brain-behind-upi-ondc/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/uns-ai-advisory-panel-ropes-in-the-brain-behind-upi-ondc/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 37
 
 secured: "0R95HdyoRI5pHSKyoMa9NcQQXmAblBudQmvmwBINNeJLfYSO3ApmtWQPmXMS5zcGBtJ4aPvqqsUts5av5L97SPvSNUCrzk6lcjYyMcw4kVRlLNiVmTtc67v0HrpxboWgst96DEaPbh3ytNUiOPPje4YqFxuvPzShdcIVBuHZuQnVFdTGJqk5ba1PcdK4WKmf1h9AdtP7MKY/U2PrX/JCVGF0WbuKOoSlnM/lUs7jbpsERfhUpb+heoW53eG/kuNO4FbY2j5NxhM2Dl1x1KOzIc8lI40ZEqcIunFJ06JRxcSOt4orrBwsrDFFNvlKO9xghvQgEuvU/1vF4xSluijPUQKEiGn0vxAKEuriq1m5d+4=;2zKGS8E51Xdr1tug9Nl5fQ=="
 ---

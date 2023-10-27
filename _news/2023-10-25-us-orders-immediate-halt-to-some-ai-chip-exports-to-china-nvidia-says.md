@@ -75,6 +75,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Generative AI is Coming to Robots, Courtesy of NVIDIA"
+    excerpt: "As generative AI continues to revolutionize text and natural language processing, it’s also impacting computer vision. This transformative technology is expected to bring advancements in autonomous machines and robotics, where cameras play a pivotal role."
+    publishedDateTime: 2023-10-26T18:27:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-robots-nvidia/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 88
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/09/ew_09272023-will-ai-replace-jobs.png"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "NVIDIA Brings The Power Of Generative AI To The Edge"
     excerpt: "NVIDIA wants to turn the Jetson family of devices into powerful edge computing devices capable of running state-of-the-art foundation models."
     publishedDateTime: 2023-10-25T15:43:00Z
@@ -90,20 +104,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/653937292c9fb9a0418eaf7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1000
         height: 546
-        isCached: true
-  - title: "Generative AI is Coming to Robots, Courtesy of NVIDIA"
-    excerpt: "As generative AI continues to revolutionize text and natural language processing, it’s also impacting computer vision. This transformative technology is expected to bring advancements in autonomous machines and robotics, where cameras play a pivotal role."
-    publishedDateTime: 2023-10-26T18:27:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-robots-nvidia/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 86
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/09/ew_09272023-will-ai-replace-jobs.png"
-        width: 1400
-        height: 900
         isCached: true
   - title: "Google, Nvidia Back AI Startup That Helps Combat Chip Shortage"
     excerpt: "Nvidia Corp. and a Google venture fund have joined a seed round of funding for a startup that helps developers squeeze more computing power out of specialized processors used to train AI, potentially alleviating a major logjam for the burgeoning field."

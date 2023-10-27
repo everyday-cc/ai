@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-27-microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development.md",
+      "title": "Microsoft, Rockwell Automation to bring Gen AI to robotics development",
+      "excerpt": "The companies will add Microsoft's Azure OpenAI Service into FactoryTalk Design Studio to accelerate time-to-market for their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development/",
+      "originalUrl": "https://www.therobotreport.com/microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 616,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/10/microsoft-rockwell-collaboration.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-27-ai-machine-learning-and-robotics-are-making-the-retail-supply-chain-more-efficient-and-resilient-a-welcome-shift-after-several-rocky-years.md",
       "title": "AI, machine learning, and robotics are making the retail supply chain more efficient and resilient — a welcome shift after several rocky years",
       "excerpt": "AI, machine learning, and robotics are improving retail supply chains. They help with productivity, production costs, meeting consumer demand, and more.",
@@ -1327,49 +1371,6 @@
       "sourceUrl": null,
       "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/apac",
       "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/apac",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-ai-service-robotics-apac.md",
-      "title": "AI Service Robotics - APAC",
-      "excerpt": "The market size in the AI Service Robotics market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market volume of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/apac",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/apac",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

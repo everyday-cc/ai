@@ -2,6 +2,251 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-08-cognitive-science-in-education.md",
+      "title": "Cognitive Science in Education",
+      "excerpt": "In the Cognitive Science in Education program, students examine the cognitive mechanisms that underlie learning and thinking in school and non-school settings. Our program trains students in basic theories of human cognition, the practice and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tc.columbia.edu/human-development/cognitive-studies-in-education/",
+      "originalUrl": "https://www.tc.columbia.edu/human-development/cognitive-studies-in-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tc.columbia.edu/media/media-library-2018/tc-general-badge.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tc.columbia.edu",
+        "domain": "columbia.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-ibm-expands-cloud-security-and-compliance-center.md",
+      "title": "IBM Expands Cloud Security and Compliance Center",
+      "excerpt": "IBM added features around data protection for workloads and AI data repositories to its Cloud Security and Compliance Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-expands-cloud-security-and-compliance-center/",
+      "originalUrl": "https://www.techrepublic.com/article/ibm-expands-cloud-security-and-compliance-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09072023-ibm-expands-cloud-security-and-compliance-center.jpg",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-microsoft-to-reveal-ai-plans-for-onedrive-in-october-event.md",
+      "title": "Microsoft to reveal AI plans for OneDrive in October event",
+      "excerpt": "Mark your calendar if you want a \"sneak peek\" at how AI will fuel new search, sharing, and queries for your OneDrive files.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 334,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/52621c88ff4f85caa000cfcdc623220ec0f8ea17/2023/09/07/3d33de39-0d04-4ce2-9326-cfb83bf94a84/onedrive-event.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
+      "publishedDateTime": "2023-09-07T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 339,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "publishedDateTime": "2023-09-07T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.md",
+      "title": "AI chip startup d-Matrix raises $110 mln with backing from Microsoft",
+      "excerpt": "Microsoft: Nvidia's dominant position in the AI chip market due to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-103460231,imgsize-1539213,width-1200,height=765,overlay-etbrandequity/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "publishedDateTime": "2023-09-07T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-chinese-operatives-are-using-ai-photos-to-trick-american-voters-and-turn-them-against-each-other-microsoft-says.md",
       "title": "Chinese operatives are using AI photos to trick American voters and turn them against each other, Microsoft says",
       "excerpt": "China has since March been using generative AI to create viral content that divides ... In July, cybersecurity research firm Mandiant said that it found Chinese-affiliated operatives had paid ...",
@@ -1223,241 +1468,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-cognitive-services-market-outlooks-2023-size-cost-structures-growth-rate-forecast-to-2030.md",
-      "title": "Cognitive Services Market Outlooks 2023 Size, Cost Structures, Growth rate Forecast to 2030",
-      "excerpt": "Get a Sample Copy of the Cognitive Services Market Report 2023 Regions are covered: North America (Canada, Mexico, United States, Cuba) Europe (United Kingdom, France, Russia, Germany) Asia ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/34151047/cognitive-services-market-outlooks-2023-size-cost-structures-growth-rate-forecast-to-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/34151047/cognitive-services-market-outlooks-2023-size-cost-structures-growth-rate-forecast-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34151047",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34151047",
-      "publishedDateTime": "2023-08-31T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-us.md",
-      "title": "OpenAI-backed language learning app Speak raises $16M to expand to the U.S.",
-      "excerpt": "Prior to starting Speak, the pair spent a year studying and researching machine learning and developing accent detection ... which gave Speak not only financing but early access to OpenAI systems and Azure resources from Microsoft, OpenAI’s close ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/",
-      "originalUrl": "https://techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/ebmpqh7x7jgqejg6uglz.jpg?resize=1196,1200",
-          "width": 1196,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/amp/",
-      "publishedDateTime": "2023-08-31T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-launch-into-satellite-applications-with-microsoft-azure.md",
-      "title": "Launch into satellite applications with Microsoft Azure",
-      "excerpt": "Microsoft’s Azure Space platform and Azure Orbital Space SDK are taking edge computing to the final frontier, starting with satellite image processing, geospatial, and communications applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.html",
-      "originalUrl": "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/08/shutterstock_2291065933-100945245-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.amp.html",
-      "publishedDateTime": "2023-08-31T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-you-need-to-authenticate-to-microsoft-services-error-on-minecraft.md",
-      "title": "You Need To Authenticate To Microsoft Services Error On Minecraft",
-      "excerpt": "The error “You need to authenticate to Microsoft services” pops up when you try to log in to external servers and realms. When it shows up, the player won’t be ...",
-      "sourceUrl": null,
-      "webUrl": "https://thedroidguy.com/authenticate-to-microsoft-services-1158670",
-      "originalUrl": "https://thedroidguy.com/authenticate-to-microsoft-services-1158670",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thedroidguy.com/wp-content/uploads/2021/08/you-need-to-authenticate-to-Microsoft-services.png",
-          "width": 785,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Droid Guy",
-        "domain": "thedroidguy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-presentation-translator-lets-you-add-live-subtitles-and-translate-presentations.md",
-      "title": "Presentation Translator lets you add live subtitles and translate presentations",
-      "excerpt": "Presentation Translator is built on Microsoft Translator API and powered by Microsoft Cognitive Services. It actively uses Machine Learning to teach itself from your voice and speech. If you start ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewindowsclub.com/presentation-translator-powepoint-addon",
-      "originalUrl": "https://www.thewindowsclub.com/presentation-translator-powepoint-addon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thewindowsclub.com/wp-content/uploads/2017/07/PowerPoint-Translator-Windows.jpg",
-          "width": 700,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

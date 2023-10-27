@@ -40,22 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "MOLEG seeks expanded role in setting rules for artificial intelligence"
-    excerpt: "The need to regulate the unlimited possibilities and risks of artificial intelligence (AI) is increasing in tandem with the expanding domain of the new technology."
-    publishedDateTime: 2023-10-22T07:24:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/nation/2023/10/356_361568.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361568"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361568"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 59
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/16975f1463e24016a4f508f58fa7f1b4.jpg"
-        width: 750
-        height: 677
-        isCached: true
   - title: "AI Takes on Expiration Dates"
     excerpt: "Food can go rancid when it’s exposed to the air for a while—a process called oxidation. In fact, many common ingredients, but especially lipids, which are fats and oils, react with oxygen. The presence of heat or UV light can accelerate the process."
     publishedDateTime: 2023-10-22T12:00:00Z

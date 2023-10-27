@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "UN’s AI Advisory Panel Ropes In The Brain Behind UPI, ONDC"
+    excerpt: "SPIRT Foundation’s cofounder Sharad Sharma has been chosen as a member of the newly launched UN's high-level advisory body on AI."
+    publishedDateTime: 2023-10-27T01:30:00Z
+    webUrl: "https://inc42.com/buzz/uns-ai-advisory-panel-ropes-in-the-brain-behind-upi-ondc/"
+    ampWebUrl: "https://inc42.com/buzz/uns-ai-advisory-panel-ropes-in-the-brain-behind-upi-ondc/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/uns-ai-advisory-panel-ropes-in-the-brain-behind-upi-ondc/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 37
   - title: "DeepBrain AI Announces Strategic Collaboration Agreement With AWS"
     excerpt: "DeepBrain AI , a leading provider of generative artificial intelligence (AI) video synthesis and virtual human technology, announced today the signing of a multi-year Strategic Collaboration Agreement"
     publishedDateTime: 2023-10-24T15:38:00Z

@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-18-how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart.md",
+      "title": "How real-time machine learning can make the self-driving cars more smart",
+      "excerpt": "Real-time machine learning and compression techniques are essential for the advancement of self-driving technology. These techniques enable vehicles to make split-second decisions, such as predicting a pedestrian's movements or adjusting paths for cyclists.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/articleshow/103765140.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/articleshow/103765140.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-91232,msid-103765145/the-system-or-algorithm-works-on-deep-reinforcement-learning-drl-a-machine-learning-technique-to-adapt-to-new-conditions-on-the-route-.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms",
+      "publishedDateTime": "2023-09-18T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-09-18-5-blue-chip-growth-stocks-to-buy-according-to-ai.md",
       "title": "5 Blue-Chip Growth Stocks to Buy According to AI",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get",
@@ -1349,49 +1393,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-10-machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating.md",
-      "title": "Machine learning can level the playing field against match fixing – helping regulators spot cheating",
-      "excerpt": "Read more about Machine learning can level the playing field against match fixing – helping regulators spot cheating on Devdiscourse",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating",
-      "originalUrl": "https://www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/15_10_2019_12_39_45_6163034.jpg?width=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating?amp",
-      "publishedDateTime": "2023-09-09T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-05-revolutionising-finance-heres-how-ai-is-shaping-fintechs-future.md",
+      "title": "Revolutionising Finance: Here's How AI Is Shaping Fintech's Future",
+      "excerpt": "One of the most significant ways AI is transforming the fintech industry is through personalised financial services",
+      "sourceUrl": null,
+      "webUrl": "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805",
+      "originalUrl": "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/04/4062998364edbb2a8edeadc34f6a364f1696423944483314_original.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805/amp",
+      "cdnAmpWebUrl": "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805/amp",
+      "publishedDateTime": "2023-10-04T17:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abp LIVE",
+        "domain": "abplive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-fintech-unicorn-slice-to-merge-with-a-small-finance-bank-karnataka-doubles-down-on-gaming-gst.md",
       "title": "Fintech unicorn Slice to merge with a small finance bank; Karnataka doubles down on gaming GST",
       "excerpt": "Credit card and payments unicorn Slice is all set for its banking foray as it prepares to merge with North East Small Finance Bank (NESFB).",
@@ -1322,50 +1365,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-natural-language-processing-for-finance-market-share-report-2023-2030.md",
-      "title": "Natural Language Processing for Finance Market Share Report 2023-2030",
-      "excerpt": "The Global Natural Language Processing for Finance market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34515154/natural-language-processing-for-finance-market-share-report-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34515154/natural-language-processing-for-finance-market-share-report-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34515154",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34515154",
-      "publishedDateTime": "2023-09-12T19:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],
