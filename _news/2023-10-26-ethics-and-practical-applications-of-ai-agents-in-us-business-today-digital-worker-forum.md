@@ -35,22 +35,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "UN chief appoints 39-member panel to advise on international governance of artificial intelligence"
-    excerpt: "U.N. Secretary-General António Guterres on Thursday announced the appointment of a 39-member global advisory panel to report on international governance of artificial"
-    publishedDateTime: 2023-10-26T23:06:00Z
-    webUrl: "https://www.kxnet.com/news/national-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/"
-    ampWebUrl: "https://www.kxnet.com/news/national-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-kxnet-com.cdn.ampproject.org/c/s/www.kxnet.com/news/national-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: KX News
-      domain: kxnet.com
-    quality: 45
-    images:
-      - url: "https://www.kxnet.com/wp-content/uploads/sites/16/2020/09/cropped-Google-logo.png?strip=1"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Real Insights on Artificial Intelligence"
     excerpt: "AI could disrupt all aspects of daily life – transforming how we work, live and play. What’s its true potential, and how do we manage the risks?"
     publishedDateTime: 2023-10-25T16:10:00Z
@@ -65,6 +49,15 @@ related:
         width: 460
         height: 441
         isCached: true
+  - title: "UN Chief Appoints 39-Member Panel to Advise on International Governance of Artificial Intelligence"
+    excerpt: "U.N. Secretary-General António Guterres has announced the appointment of a 39-member global advisory panel to report on international governance of artificial intelligence and its risks, challenges an"
+    publishedDateTime: 2023-10-26T23:06:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2023-10-26/un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 33
 
 secured: "BuuPyCadUmBoIKxU059pB/dWFl8n6Se24XV4TEd1WoX4PIkJf+iiJYUrIcSM0+9/Yf4NrL0+HkEPlBxtEf+ilZvAS3UPH1QQVa8Jf1MdClTJNa5KcR3eEuSXsAjgsJSOx9VYcrrTGeGKLkf3dc8PzrxiGkK/WRcOpe+bvIMxT5c+DNxHz7PhhL/X2FibP0SzGJk9AOwLOFWxD5a/UTIwYUPw/RuiJFkSNxFKmrwAzNoVk8FxhNbhAibLjTDiPYEXwG0o5OSfZ3JsmbOG5JO4nXexSo5r09XHu1FUkIR0c7aeI0UcC4JDFiTeQlJWQp5y+Mw++ppZuZYUIUOA9A0nsUJslcFp1JtwS/Gnp5QHnDc=;uUWGle8ZfZGE/JC5QZGV0Q=="
 ---

@@ -44,6 +44,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Microsoft gaining ground in cloud race with AWS, Google"
+    excerpt: "Microsoft is pulling ahead of its chief rivals, Amazon.com and Google, in the burgeoning cloud services market."
+    publishedDateTime: 2023-10-27T05:14:00Z
+    webUrl: "https://techcentral.co.za/microsoft-gaining-cloud-race-aws-google/234097/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 71
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2021/09/cloud-2156-1120-6-1024x532.jpg"
+        width: 1024
+        height: 532
+        isCached: true
   - title: "Microsoft Q1 Earnings Preview: Analyst Estimates, Video Game Update, Artificial Intelligence Opportunity"
     excerpt: "Microsoft reports first-quarter financial results after market close Tuesday. Artificial intelligence is likely to be one of the biggest topics covered by the company ..."
     publishedDateTime: 2023-10-23T16:22:00Z

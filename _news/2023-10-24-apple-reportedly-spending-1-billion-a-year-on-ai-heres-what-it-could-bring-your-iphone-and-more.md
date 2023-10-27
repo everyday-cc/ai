@@ -34,15 +34,6 @@ related:
         width: 1598
         height: 900
         isCached: true
-  - title: "I wish the iPhone had the Pixel 8’s generative AI wallpapers"
-    excerpt: "The Google Pixel 8 offers generative AI wallpapers, letting you create unique wallpapers with a prompt and I really wish iPhone had it, too."
-    publishedDateTime: 2023-10-22T13:02:00Z
-    webUrl: "https://bgr.com/tech/i-wish-the-iphone-had-the-pixel-8s-generative-ai-wallpapers/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
 
 secured: "MGPe8lI2TWkvjF8QSL3Rdsc6a0tZTDnnZ23S4N3nCt2puSGeh6jhCy+JMDgHMMbjwLlrnHWcZ+XnmMkJAQ3uIDMIuI9G7Lk+3Nf5haS7S7U0duRBHrH/yREs7sWVfXM35pBmbIVAJlPJgqpJqqoh/JRiQV5ika5Hw7ivPq+utNbmEeFIi43GN9pRN6k8rcFxtNd9zcOSbdH1EKCneWf9bLH/Z5DhNM7kRIjXqbAYOFKWRgmJOTvbByirYqHnW44pitNCEUb8A9KFIbfkiOI4iqvTrkQRb49dRLqVdV+huKO2WSUHpnozIVeHiMwYH2phJysG43Mc8mP6AF3uokJn0tTnrBxR7cKEF3D2vpe560Di3ENvnp3weN9Ta4dyIBDF7mft294IO03PSgrQ95fdarmFiE6BkxIsvXcQiJBs2XmfKFFCQ13Rl6tvXn0MHPDPEXfLlDJvGgMmW73jvSG9ONL1oEaFnEWitRda+txJy6Dsh8c1y6H4tnMGNeUuhKbgpYOa+w53k/GX99vi7ebw5A==;KP2hAWkd97NdUp0WeevtHg=="
 ---

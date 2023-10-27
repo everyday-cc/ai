@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-may-soon-weigh-in-on-regulation-ar
 webUrl: "https://www.wsj.com/articles/ai-may-soon-weigh-in-on-regulation-artificial-intelligence-agencies-public-comment-periods-766436ec"
 type: article
 quality: 67
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 990
         height: 640
         isCached: true
-  - title: "AI Takes on Expiration Dates"
-    excerpt: "Food can go rancid when it’s exposed to the air for a while—a process called oxidation. In fact, many common ingredients, but especially lipids, which are fats and oils, react with oxygen. The presence of heat or UV light can accelerate the process."
-    publishedDateTime: 2023-10-22T12:00:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/10/ai-food-preservation-chemistry-rancidity-detection/675723/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 47
   - title: "Artificial intelligence may help predict infection risks after implant-based breast reconstruction"
     excerpt: "Artificial intelligence (AI) techniques may provide a more accurate approach to predicting the risk of periprosthetic infection after implant-based breast reconstruction, reports a study in the Novemb"
     publishedDateTime: 2023-10-24T20:30:00Z

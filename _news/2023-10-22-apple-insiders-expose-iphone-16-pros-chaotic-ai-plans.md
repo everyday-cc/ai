@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "I wish the iPhone had the Pixel 8’s generative AI wallpapers"
-    excerpt: "The Google Pixel 8 offers generative AI wallpapers, letting you create unique wallpapers with a prompt and I really wish iPhone had it, too."
-    publishedDateTime: 2023-10-22T13:02:00Z
-    webUrl: "https://bgr.com/tech/i-wish-the-iphone-had-the-pixel-8s-generative-ai-wallpapers/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
   - title: "Apple reportedly spending $1 billion a year on AI — here’s what it could bring your iPhone and more"
     excerpt: "We've heard about Apple researching generative AI for some time, and now the company is reportedly on track to invest up to $1 billion a year in the tech in an effort to compete with the likes of Google and Microsoft."
     publishedDateTime: 2023-10-23T19:13:00Z

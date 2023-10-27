@@ -366,15 +366,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Apple Generative AI Features and Smarter Siri Could Launch Next Year"
-    excerpt: "Apple is developing a large array of features that use generative AI, according to Bloomberg's Mark Gurman. In his latest \"Power"
-    publishedDateTime: 2023-10-22T12:52:00Z
-    webUrl: "https://www.macrumors.com/2023/10/22/apple-generative-ai-features-and-smarter-siri/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 19
   - title: "Shield AI announces multi-year agreement with Sentient Vision to offer AI-enabled real-time situational awareness"
     excerpt: "A groundbreaking AI technology collaboration between Shield AI, an American defence technology company building the world’s best AI pilot, and Sentient Vision Systems (Sentient), an"
     publishedDateTime: 2023-10-23T19:20:00Z

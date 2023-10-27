@@ -75,15 +75,6 @@ related:
         width: 830
         height: 467
         isCached: true
-  - title: "California Halts Cruise's Self-Driving Cars Citing 'Risk to Public Safety'"
-    excerpt: "California’s DMV is suspending Cruise’s permit to test self-driving cars in the state over concerns the vehicles pose a risk to public safety."
-    publishedDateTime: 2023-10-24T19:04:00Z
-    webUrl: "https://www.pcmag.com/news/california-halts-cruises-self-driving-cars-citing-risk-to-public-safety"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 32
   - title: "Automated car company planning to launch in Dallas has self-driving permit revoked in California"
     excerpt: "A driverless vehicle company planning to launch Dallas is halting operations in California after the state yanked its license over safety concerns."
     publishedDateTime: 2023-10-26T01:23:00Z
@@ -111,6 +102,34 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 24
+  - title: "California suspends Cruise self-driving vehicles in blow to GM"
+    excerpt: "California's auto regulator said on Tuesday it has suspended General Motors' Cruise autonomous vehicle deployment and driverless testing permits, saying it had misrepresented information related to the safety of the autonomous technology."
+    publishedDateTime: 2023-10-24T21:37:00Z
+    webUrl: "https://www.carsifu.my/news/california-suspends-cruise-self-driving-vehicles-in-blow-to-gm"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 24
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/10/2023-08-22-23_33_10-dpa-news-_-Photos-Release-2.17.7-Brave.png"
+        width: 800
+        height: 452
+        isCached: true
+  - title: "GM Subsidiary Cruise’S Self-Driving Car Permit Suspended In San Francisco"
+    excerpt: "In a significant move, the California Department of Motor Vehicles (DMV) has immediately suspended GM self-driving car s"
+    publishedDateTime: 2023-10-25T05:49:00Z
+    webUrl: "https://menafn.com/1107298885/GM-Subsidiary-CruiseS-Self-Driving-Car-Permit-Suspended-In-San-Francisco"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/25/I_97b1aimage_story.jpeg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "GM self-driving car subsidiary withheld video of a crash, California DMV says"
     excerpt: "The California Department of Motor Vehicles Tuesday revoked Cruise’s permits to test and operate fully driverless vehicles on the state’s roads. The California DMV said, in part, it was because Cruise,"
     publishedDateTime: 2023-10-25T21:52:00Z
@@ -125,6 +144,15 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "California DMV suspends permits for Cruise’s self-driving robotaxis"
+    excerpt: "California's DMV has suspended GM's permit for AV deployment and testing, alleging the company has \"misrepresented\" the technology's safety"
+    publishedDateTime: 2023-10-25T18:15:00Z
+    webUrl: "https://www.cbtnews.com/california-dmv-suspends-permits-for-cruises-self-driving-robotaxis/"
+    type: article
+    provider:
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 4
   - title: "California suspends GM Cruise self-driving vehicles as 'not safe' for public"
     excerpt: "The automaker reported on Tuesday that it lost $723 million on Cruise during the third quarter. The DMV added that Tuesday's \"decision does not impact the company's permit for testing with a safety driver."
     publishedDateTime: 2023-10-24T19:32:00Z
@@ -134,15 +162,6 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 1
-  - title: "Self-driving operator Cruise's operations in AZ unaffected, despite CA permit suspension"
-    excerpt: "The company's driverless permits were suspended in California, but the move does not affect Arizona operations."
-    publishedDateTime: 2023-10-26T20:19:00Z
-    webUrl: "https://www.statesman.com/story/money/business/tech/2023/10/26/self-driving-car-operator-cruise-will-continue-operations-in-arizona/71332901007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 0
 
 secured: "ixwD8e63VELKlyLp3NFJlP0UqYpeopf6U9q8PyFW/mJ8Gt3DcJj4W4I+CAgNwz2aZGRk/+Tw2w8dfWkMSMArBtLi65O4s8XgteoaPWIuP8ur3FFSvPM6n/ra7+jvy+fGL8bpmwnkUdvnpNq9oRjM5xeMhqH5e6C37t6Ji+i1auQK/jHa0GrfLMwPzmkMCyaSWaJaWYhUJtp0Tr04eGE6ygmyA0HeyCeXIBd6MEltVwJ1d1fgb09M4uuKH+ljekw+6X7x4TydcsbBCRWJ3uCowe6SVudEhVMthZsoPUe8Pdk3yPr5DylihXkWvePzYPFwqrwD8hmtReAeBgl0v64WvcVoSUFKy0wYiOfZ+Dtq4iVFgCZIK78P1n24XtZt01KYchxqt47Q8m2yxYp69U7nXm/xjzdIUYcmMfTn4oUwpTmpabusn1VNnITrPe3IDrvp6lyHUlq+Pwfu6cSUBGFeVS5fKFs9IIAsT/H7sVjyW6v/ZG3AdkRsOqCUPWrXtB+yTdPzIVssPdxb4bB24olOng==;BAgrp3BA0vJZQ9r1y29odQ=="
 ---

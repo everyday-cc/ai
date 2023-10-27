@@ -25,66 +25,97 @@ images:
     isCached: true
 
 related:
-  - title: "GM's Cruise Loses Its Self-Driving License in San Francisco After a Robotaxi Dragged a Person"
-    excerpt: "The California DMV says the company's autonomous taxis are “not safe” and that Cruise “misrepresented” safety information about its self-driving vehicle technology."
-    publishedDateTime: 2023-10-24T20:31:00Z
-    webUrl: "https://www.wired.com/story/cruise-robotaxi-self-driving-permit-revoked-california/"
+  - title: "California DMV suspends Cruise's self-driving car permits, effective immediately"
+    excerpt: "The California Department of Motor Vehicles on Tuesday suspended Cruise’s deployment and testing permits for its autonomous vehicles, effective immediately."
+    publishedDateTime: 2023-10-24T10:55:00Z
+    webUrl: "https://www.nbclosangeles.com/news/national-international/california-dmv-suspends-cruises-self-driving-car-permits-effective-immediately/3251051/"
+    ampWebUrl: "https://www.nbclosangeles.com/news/business/money-report/california-dmv-suspends-cruises-self-driving-car-permits-effective-immediately/3251051/?amp=1"
+    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/business/money-report/california-dmv-suspends-cruises-self-driving-car-permits-effective-immediately/3251051/?amp=1"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 43
-    images:
-      - url: "https://media.wired.com/photos/65380a56bcdea1ef152933b0/191:100/w_1280,c_limit/cruise-biz-sf-GettyImages-1556779082.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "From doom to boom: AI is re-energizing San Francisco"
-    excerpt: "Parts of San Francisco are still shells of their original glory three years after the onset of the coronavirus pandemic. After the loss of foot traffic, restaurants"
-    publishedDateTime: 2023-10-25T14:00:00Z
-    webUrl: "https://www.postguam.com/the_globe/nation/from-doom-to-boom-ai-is-re-energizing-san-francisco/article_73b0ad1c-7273-11ee-87bc-a30d1d2cd246.html"
-    type: article
-    provider:
-      name: The Guam Daily Post
-      domain: postguam.com
+      name: NBC Los Angeles
+      domain: nbclosangeles.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/a/29/a29328d0-7273-11ee-be5a-ef4d9d2d8faa/6537cb25a2ddd.image.jpg?crop=1600%2C840%2C0%2C64&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://media.nbclosangeles.com/2023/10/107282661-16914113762023-08-07t100638z_978946371_rc2xi2ar2cgn_rtrmadp_0_usa-autos-autonomous-san-francisco-1.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "The case against self-driving taxis isn't worse than the average driver"
-    excerpt: "But in San Francisco, state officials are not so sure. This week the state of California pulled the permits of self-driving taxis, stating that they represented an “unreasonable risk” to public safety. In other words, the City by the Bay was at risk of ..."
-    publishedDateTime: 2023-10-26T17:31:00Z
-    webUrl: "https://www.aol.com/case-against-self-driving-taxis-093121684.html"
+  - title: "California suspends GM Cruise self-driving vehicles as 'not safe' for the public"
+    excerpt: "California suspended General Motors' Cruise autonomous vehicle deployment and driverless testing permits, effective immediately, citing safety concerns."
+    publishedDateTime: 2023-10-24T18:02:00Z
+    webUrl: "https://www.autoblog.com/2023/10/24/california-dmv-yanks-gm-cruises-license-to-operate-without-a-backup-driver/"
+    ampWebUrl: "https://www.autoblog.com/amp/2023/10/24/california-dmv-yanks-gm-cruises-license-to-operate-without-a-backup-driver/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/10/24/california-dmv-yanks-gm-cruises-license-to-operate-without-a-backup-driver/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: Autoblog
+      domain: autoblog.com
     quality: 39
     images:
-      - url: "https://media.zenfs.com/en/aol_gannett_aggregated_707/901af0441de95c7f5e9ecf98f188bee2"
-        width: 300
-        height: 400
+      - url: "https://s.aolcdn.com/images/dims3/GLOB/crop/3913x2201+0+368/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2023/10/24140138/2023-10-24T173527Z_1_LYNXMPEJ9N0UE_RTROPTP_4_GM-SELFDRIVING-CRUISE-1.jpg.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Accelerate SF: Meet the former tech employees who want to use AI for social good in San Francisco"
-    excerpt: "Accelerate SF aims to harness the power of artificial intelligence to solve some of San Francisco’s most pressing public sector challenges."
-    publishedDateTime: 2023-10-23T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/accelerate-sf-meet-the-former-tech-employees-who-want-to-use-ai-for-social-good-in-san-francisco/"
+  - title: "California suspends tests of GM's Cruise self-driving car following safety concerns"
+    excerpt: "California authorities on Tuesday suspended testing of Cruise self-driving cars being developed by General Motors, citing safety concerns following a"
+    publishedDateTime: 2023-10-25T04:28:00Z
+    webUrl: "https://timesofindia.indiatimes.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/articleshow/104686865.cms"
+    ampWebUrl: "https://m.timesofindia.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/amp_articleshow/104686865.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/amp_articleshow/104686865.cms"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
-  - title: "California DMV Halts Cruise’s Self-Driving Robotaxis Statewide"
-    excerpt: "A Cruise, which is a driverless robot taxi, is seen during operation in San Francisco, California, USA on July 24, 2023. The California Department of Motor Vehicles has yanked Cruise’s permits to operate its autonomous vehicles across the Golden State ..."
-    publishedDateTime: 2023-10-24T18:31:00Z
-    webUrl: "https://www.forbes.com/sites/cyrusfarivar/2023/10/24/california-dmv-halts-cruises-self-driving-robotaxis-statewide/"
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 38
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-104686923,width-1070,height-580,imgsize-110560,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
+  - title: "California suspends Cruise self-driving taxis - the service preparing to launch in Dallas"
+    excerpt: "Calfornia's decision to suspend General Motors-backed Cruise's permit comes as the company has been running tests in Dallas since June through the Oak"
+    publishedDateTime: 2023-10-24T20:34:00Z
+    webUrl: "https://www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/"
+    ampWebUrl: "https://www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/?outputType=amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 35
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/xahx3h403lIg1Jd-iz3n2Mi5jkI=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/LQ34RSW3KKK24OH7KW2YYF5OVM.jpg"
+        width: 830
+        height: 467
+        isCached: true
+  - title: "Automated car company planning to launch in Dallas has self-driving permit revoked in California"
+    excerpt: "A driverless vehicle company planning to launch Dallas is halting operations in California after the state yanked its license over safety concerns."
+    publishedDateTime: 2023-10-26T01:23:00Z
+    webUrl: "https://www.fox4news.com/news/cruise-automated-car-company-license-revoked-california-dallas"
+    ampWebUrl: "https://www.fox4news.com/news/cruise-automated-car-company-license-revoked-california-dallas.amp"
+    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/cruise-automated-car-company-license-revoked-california-dallas.amp"
+    type: article
+    provider:
+      name: KDFW
+      domain: fox4news.com
+    quality: 31
+    images:
+      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/10/932/470/102023-DALLAS-CRUIS-AUTONOMOUS-VEHICLES-LORI-PKG-L_00.01.49.04.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "California DMV suspends permits for self-driving taxis"
+    excerpt: "The DMV said its autonomous vehicle regulations “provide a framework to facilitate the safe testing and deployment” of autonomous vehicle technology on California’s public roads. “When there is an unreasonable risk to public safety, the DMV can immediately suspend or revoke permits,” the DMV said."
+    publishedDateTime: 2023-10-25T10:57:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/?lv=true"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 24
   - title: "California suspends Cruise self-driving vehicles in blow to GM"
     excerpt: "California's auto regulator said on Tuesday it has suspended General Motors' Cruise autonomous vehicle deployment and driverless testing permits, saying it had misrepresented information related to the safety of the autonomous technology."
     publishedDateTime: 2023-10-24T21:37:00Z
@@ -99,38 +130,20 @@ related:
         width: 800
         height: 452
         isCached: true
-  - title: "Cruise Loses Self-Driving Permit in San Francisco Over Withheld Crash Footage"
-    excerpt: "The California DMV, investigating a pedestrian injury caused by one of Cruise’s self-driving cars, says it wasn’t shown the whole video of the incident."
-    publishedDateTime: 2023-10-24T21:24:00Z
-    webUrl: "https://www.thedailybeast.com/cruise-loses-self-driving-permit-in-san-francisco-over-withheld-crash-footage"
+  - title: "GM self-driving car subsidiary withheld video of a crash, California DMV says"
+    excerpt: "The California Department of Motor Vehicles Tuesday revoked Cruise’s permits to test and operate fully driverless vehicles on the state’s roads. The California DMV said, in part, it was because Cruise,"
+    publishedDateTime: 2023-10-25T21:52:00Z
+    webUrl: "https://www.erienewsnow.com/story/49882209/gm-self-driving-car-subsidiary-withheld-video-of-a-crash-california-dmv-says"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
+      name: Erie News Now
+      domain: erienewsnow.com
     quality: 21
     images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2614,w_4647,x_0,y_62/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1698180667/2023-10-17T092636Z_202569337_RC28U3AEF7IS_RTRMADP_3_CRUISE-INVESTIGATION_cu6vjp"
-        width: 1480
-        height: 833
+      - url: "https://CNNWIRE.images.worldnow.com/images/25332846_G.jpg?lastEditedDate=1698163547000"
+        width: 500
+        height: 333
         isCached: true
-  - title: "From doom to boom: AI is slowly re-energizing San Francisco"
-    excerpt: "It is not only reinvigorating the tech community, but it is also triggering a movement of people to the city and office-space rentals by companies."
-    publishedDateTime: 2023-10-23T17:54:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/10/23/from-doom-to-boom-ai-is-slowly-re-energizing-san-francisco/71291481007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
-  - title: "Cruise Self-Driving Robotaxi Going Global Amid US Backlash"
-    excerpt: "GM's Cruise and Honda have signed a Memorandum of Understanding, seeking to create a joint venture that will put self-driving Robotaxis on Japan's roads. This development comes amid much backlash against Cruise's Chevy Bolt EV autonomous vehicles (AV ..."
-    publishedDateTime: 2023-10-22T13:50:00Z
-    webUrl: "https://carbuzz.com/news/cruise-self-driving-robotaxi-going-global-amid-us-backlash"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 4
   - title: "California DMV suspends permits for Cruise’s self-driving robotaxis"
     excerpt: "California's DMV has suspended GM's permit for AV deployment and testing, alleging the company has \"misrepresented\" the technology's safety"
     publishedDateTime: 2023-10-25T18:15:00Z
@@ -140,15 +153,15 @@ related:
       name: cbtnews
       domain: cbtnews.com
     quality: 4
-  - title: "The Cruise robotaxi reckoning highlights tensions over self-driving cars and how we regulate them"
-    excerpt: "The DMV suspended state permits for autonomous vehicle operator Cruise, saying the company omitted key information about a collision that injured a pedestrian."
-    publishedDateTime: 2023-10-26T13:44:00Z
-    webUrl: "https://www.latimes.com/california/newsletter/2023-10-26/the-cruise-robotaxi-reckoning-highlights-tensions-over-self-driving-cars-and-how-we-regulate-them-essential-california"
+  - title: "California suspends GM Cruise self-driving vehicles as 'not safe' for public"
+    excerpt: "The automaker reported on Tuesday that it lost $723 million on Cruise during the third quarter. The DMV added that Tuesday's \"decision does not impact the company's permit for testing with a safety driver."
+    publishedDateTime: 2023-10-24T19:32:00Z
+    webUrl: "https://www.devdiscourse.com/article/headlines/2680696-california-suspends-gm-cruise-self-driving-vehicles-as-not-safe-for-public"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 0
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 1
 
 secured: "qSxuxGP3HNrCF+5GLDuv1PMLgvI6TBJkUyriYaAvTYwySC6HvCFKxuTGqXn6TsRMgoweDmkHL3HP2c4wzlpzHkv7BD+x8lQaVTmGm4eVIlWQAnaad8NMDgoTs3pieQVTqIbdwzNKqSa9IbDQEbAkFRtTj2F9RPnByyRciuVfQkeoYO54ko/TqlSE8Z15NTyjJirTfESTHJUiHIWtXj0TcR0q8VgG9sfLFz85JWIXgCXNcVh7i9UJ0qx7Py67RbxJGlwoZPtKJp0Og+WGfQru032xlwPlJwdTIyNgY2TBPkTo3IBLmTrUVZtROkyXY3WEg4vJzZOdgLT1ShjVFM8FrsSr3SWGI5yy+JLI4zHTNr4=;l7pr0pljMJkEqI0iV8Se4A=="
 ---

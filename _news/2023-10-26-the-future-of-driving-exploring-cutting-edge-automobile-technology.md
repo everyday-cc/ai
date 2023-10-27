@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/the-future-of-driving-exploring-cutting-ed
 webUrl: "https://techbullion.com/the-future-of-driving-exploring-cutting-edge-automobile-technology/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,18 +25,18 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous Vehicles: The Promise and Perils of Self-Driving Car Technology Introduction"
-    excerpt: "Autonomous vehicles have emerged as a revolutionary force, promising a future where cars can navigate the roads without human intervention. This cutting-edge technology has the potential to transform the way we travel,"
-    publishedDateTime: 2023-10-23T00:20:00Z
-    webUrl: "https://techbullion.com/autonomous-vehicles-the-promise-and-perils-of-self-driving-car-technology-introduction/"
+  - title: "The case against self-driving taxis isn't worse than the average driver"
+    excerpt: "But in San Francisco, state officials are not so sure. This week the state of California pulled the permits of self-driving taxis, stating that they represented an “unreasonable risk” to public safety. In other words, the City by the Bay was at risk of ..."
+    publishedDateTime: 2023-10-26T17:31:00Z
+    webUrl: "https://www.aol.com/case-against-self-driving-taxis-093121684.html"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 16
+      name: AOL
+      domain: aol.com
+    quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/Autonomous-Vehicles-The-Promise-and-Perils-of-Self-Driving-Car-Technology-Introduction.jpg"
-        width: 600
+      - url: "https://media.zenfs.com/en/aol_gannett_aggregated_707/901af0441de95c7f5e9ecf98f188bee2"
+        width: 300
         height: 400
         isCached: true
   - title: "Arizona closely monitoring use of self-driving vehicles"
@@ -48,15 +48,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 4
-  - title: "Arizona says closely monitoring use of self-driving vehicles"
-    excerpt: "The Arizona Department of Transportation said it was aware of the announcement from California and was closely monitoring the situation. \"Public safety is our highest priority, and we are in regular communication with and closely monitoring Cruise and other companies testing and operating self-driving vehicles in Arizona,"
-    publishedDateTime: 2023-10-25T21:58:00Z
-    webUrl: "https://www.aol.com/arizona-closely-monitoring-self-driving-175410320.html"
+  - title: "Self-driving taxis challenged by LA City Councilman; 'LA should not be a test subject for the tech industry'"
+    excerpt: "Los Angeles City Councilman Hugo Soto-Martinez is urging state officials to address the public safety issues associated with autonomous, or self-driving, vehicles."
+    publishedDateTime: 2023-10-25T19:07:00Z
+    webUrl: "https://www.foxla.com/news/self-driving-taxis-uber-los-angeles"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
+      name: KTTV
+      domain: foxla.com
+    quality: 0
 
 secured: "BV+IoECVkMqlGQHrizfgzvdyasEK+Zh3TOztM7q1l+bMaYMwZ3xp5zI1s1E2uS8e1Xv+vsbRsq+DnML3/NW+detSVSzKHGyL9YYn7XfdwLWdhry0dJSTq53z/RiKCMYwP7pkmsSgA44EFfbVz+s+BwGiERt32TsSKrVTIGMcEXJR8gqHVnaVpEwabCq/NkbU17UGyUXEq/MW8Avvb3gQJrg9S+eq7dQt/YsYlKXv0IgN8lynurRvL1fLyLwtb8+WxR3DxFMbTMxXdSSZATXOS/n+LdUw83aFFr8uR03v5E5WaJoANWOhvNDSc5tTxNuJe1NheqPH+lg7gInkbZhP3UM+cAlTY+EHegqhsn8FgkJCQWMwfOiELs/K2UE7yryRD9BKg0TJIhacSuYuAQXSw7374Zl+pXFuYCizeqNh3hLm4DLJBqxfShcOL6yC5q5fgSyCxE8qMtMMkcrlRGLPDnVGr9s7AfodkcjExjmGbZ635tTM1mH2pp7SDpYv5H6fgeoyJ8UfYDxgSAZf6RL5RQ==;i1Uji0+jlyMG8ZRxyjYOkg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/midjourney-halloween-prompt-ideas/"
 webUrl: "https://www.geeky-gadgets.com/midjourney-halloween-prompt-ideas/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Airbnb using artificial intelligence in states like Texas to crack down on Halloween parties"
+    excerpt: "Last Halloween, the company says it stopped around 11,000 parties in Texas on Halloween night, with about 1,500 of those being in Austin."
+    publishedDateTime: 2023-10-27T03:14:00Z
+    webUrl: "https://www.newswest9.com/article/money/austin-airbnb-ai-halloween-parties/269-4f51969c-e747-4eda-99ef-8acaec6ac545"
+    ampWebUrl: "https://www.newswest9.com/amp/article/money/austin-airbnb-ai-halloween-parties/269-4f51969c-e747-4eda-99ef-8acaec6ac545"
+    cdnAmpWebUrl: "https://www-newswest9-com.cdn.ampproject.org/c/s/www.newswest9.com/amp/article/money/austin-airbnb-ai-halloween-parties/269-4f51969c-e747-4eda-99ef-8acaec6ac545"
+    type: article
+    provider:
+      name: NewsWest 9
+      domain: newswest9.com
+    quality: 61
+    images:
+      - url: "https://media.newswest9.com/assets/KVUE/images/76c7fca8-66df-4657-94f9-f7b3d9ee4b45/76c7fca8-66df-4657-94f9-f7b3d9ee4b45_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Airbnb using Artificial Intelligence to crack down on unwanted Halloween parties"
     excerpt: "The company says its state-of-the-art system works to prevent certain higher risk one and two night whole home bookings."
     publishedDateTime: 2023-10-26T13:32:00Z
@@ -33,15 +49,6 @@ related:
       name: News 12 Networks
       domain: news12.com
     quality: 27
-  - title: "NASA sees Jupiter clouds form spooky face just in time for Halloween"
-    excerpt: "Even Jupiter is getting into the Halloween spirit. While flying 4,800 miles above the Gas Giant's cloud tops on Sept. 7, NASA's Juno mission captured Jupiter's swirling storm clouds form what appears to be a ghoulish face. The space agency released the image to the public on Wednesday, just in time for All Hallows' Eve ."
-    publishedDateTime: 2023-10-26T19:44:00Z
-    webUrl: "https://www.chron.com/news/space/article/nasa-jupiter-face-18450197.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 4
 
 secured: "SDxou+QzxwuuQVZBEWqdAGERWVL0eZZX2mbUnZiQAG45YtxENhj+hWyRJEvAwdKPdPl/aVOrWg4MQT+ZrLWaNWC/3Xev/prVK5iv61Z4xUMak+2bOIzkh6QBG52QWjLfPiEM+rp6JSnmLSr3Bhf4tUdS4G859OCmIF+Ax9ZYXwVB9kv6AxEFlVBJmCM6u4PHeSZQUKBy2wezbngObJXM+Me6RmkKLt+zUrrZN6PVav4CXaqrAFv0ajzcyfjE52N+phwRV3Bs3bbqXPnVyke4i9ecMTyL8N8ATE1LRyFlDWXNyv51ubOlvtTJy+Y8bG+cK7dsgXQ7ag2hGs0/HC5jVK+ROaksQcAB7lKSftl+9Qw=;avQjYhr+HH0QPF7SdLTSEw=="
 ---

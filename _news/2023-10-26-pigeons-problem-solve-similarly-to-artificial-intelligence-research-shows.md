@@ -2,9 +2,9 @@
 category: news
 title: "Pigeons problem-solve similarly to artificial intelligence, research shows"
 excerpt: "The intelligent birds, thought to be a nuisance by some, learn from consequences and can recognize resemblance between objects"
-publishedDateTime: 2023-10-26T15:06:00Z
-originalUrl: "https://www.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning?ref=astrofeather.com"
-webUrl: "https://www.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning?ref=astrofeather.com"
+publishedDateTime: 2023-10-26T16:06:00Z
+originalUrl: "https://www.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning?ref=upstract.com"
+webUrl: "https://www.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 630
         isCached: true
 
-secured: "EeU4IMaG6ACZvuN3axOPrctj0plJLNEECFUy0q5ZtQh65k2SbRUPLUoYKhM/+yCtFnSJuXzUT+pv6ho4Z7gXEbOmQrRwI+1K3vkTFKZ2c6Gl1He/gyZq2DXtqKt5YM9POV2I8dL4pSZ/hh/B0MGHmiquBDraQJwIHDc4IMmSlkfdv80/H/Zbdm9E3BcPZ6vBGok84+2oxRXpl1cHuoNVZCyXHcCscTkvD0CbGQeBqPareLD8T149rBWG1CAIDje/jSM1U/5k3jZ2+nXeQ6o6zqd3Xn7jjj8QVRNEhgwxLNBR8peKuQAcjWoS98OOFchCrIvmor3zHC2aOPUdt8MPQzztZ3NS40+W/ww292B5NhE=;savRUqrv36iWtN2EOKd04Q=="
+secured: "mvGv76+P8kaDTqitNm0ZxsCoEViYI2rUPbabmMInS6mVumiNhqoxSgila/YGVxukWkv5v0MYz1wLRYsu4h9WWQzw4xu1UFC0b+1GDJGXo6FhRYAmoBtMDwpPcI2/TilQen7UvxvXOlPpRja0pQuj7MGFPgiaYF0e7XsX+S7yPPnF1LJNKObQK3W5HlemF2G2G2HemRIsv8Rumb5FAq3AAAskOoPGLG30m2utLP+KYx/RcaNuguOdyDfy4BPt6EzwYLKmO9Xgv7IBXvgvRT1mNzu9WpOyoBwh3Ym37dW/9CQ/Gku6BmRdAhtYln4NcgJHLq36wqd+qxadItd00DGAeszXCTRGZLjyK0G0OktWQSQ=;B0bGcLKGs3x/s4hvb2nyNA=="
 ---
 

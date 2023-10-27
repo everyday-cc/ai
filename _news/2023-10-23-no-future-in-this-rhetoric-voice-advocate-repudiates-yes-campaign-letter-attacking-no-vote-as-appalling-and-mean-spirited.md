@@ -26,6 +26,24 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "What Yes campaign leaders REALLY mean with open letter slamming Australia's 8.6million No voters - as they announce the Voice may happen anyway and hint at their next priority"
+    excerpt: "Rejection of constitutional recognition will not deter us from speaking up to governments ... agenda for justice in pursuit of our First Nations rights that sorely need a Voice - we will continue to follow our law and our ways, as our Elders and Ancestors ..."
+    publishedDateTime: 2023-10-23T09:03:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12659907/Voice-Aboriginal-leaders-open-letter.html?mibextid=Zxz2cZ"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-12659907/amp/Voice-Aboriginal-leaders-open-letter.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12659907/amp/Voice-Aboriginal-leaders-open-letter.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 7
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/10/22/23/76871745-0-image-m-13_1698014060531.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "/ryr0brSFG09b5ld3Wmqmtf5di97kO9uKW11w3/rn02gMwwXkHt2c46B8BDz3vGP2Marn/dcUeDDAQPDiyp7QCWRjxlqHF8/v7Uzd82BSfFExqPL7CDkBLItXyQqWh6dEysEEXxPgC7cowz81oP8z1UiulOw3RLMscg9CU6AnqllNSdGnZtz3rrztffIR9dzCbojD48YiQEd6AWMdlGZrnFymbi4KAE5/WuIyaS3pABTEMx5z2/zgEpHoPbnL0XNjxK/k3zVWJK2F3Lws+AGfl+X0xBdfabtHifbWgWEJr0BAv2ArpXA212wR9YC1YNBmByH7KPNQQV8mMUV2MccitLAPsBTaJCSgCuZNThoc2A=;bo0EFSSUSf4xEVm5i1kXXQ=="
 ---
 

@@ -55,15 +55,6 @@ related:
         width: 990
         height: 640
         isCached: true
-  - title: "AI Takes on Expiration Dates"
-    excerpt: "Food can go rancid when it’s exposed to the air for a while—a process called oxidation. In fact, many common ingredients, but especially lipids, which are fats and oils, react with oxygen. The presence of heat or UV light can accelerate the process."
-    publishedDateTime: 2023-10-22T12:00:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/10/ai-food-preservation-chemistry-rancidity-detection/675723/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 47
   - title: "EU lawmakers face struggle to reach agreement on AI rules -sources"
     excerpt: "The EU started working on the draft AI Act in 2021. In May this year, the European parliament agreed on draft legislation including new rules around the use of facial recognition, biometric surveillance, and other AI applications. Under the proposals ..."
     publishedDateTime: 2023-10-23T15:23:00Z

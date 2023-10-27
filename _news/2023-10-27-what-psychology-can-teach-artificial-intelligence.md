@@ -8,8 +8,8 @@ webUrl: "https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202
 ampWebUrl: "https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202310/what-psychology-can-teach-artificial-intelligence?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202310/what-psychology-can-teach-artificial-intelligence?amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/Screenshot%202023-10-26%20212308.jpg?itok=tFdJ1R7I"

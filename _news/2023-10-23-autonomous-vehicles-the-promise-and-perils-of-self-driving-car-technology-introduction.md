@@ -25,29 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Driving: Exploring Cutting-Edge Automobile Technology"
-    excerpt: "Are you ready to buckle up and take a look into the exciting world of futuristic driving? From self-driving cars that seem straight out of science fiction to advanced safety features designed to protect us on the road,"
-    publishedDateTime: 2023-10-26T08:23:00Z
-    webUrl: "https://techbullion.com/the-future-of-driving-exploring-cutting-edge-automobile-technology/"
+  - title: "Triad man researches self-driving vehicles"
+    excerpt: "Mother asks drivers to pay attention on year after child hit, killed on Halloween in Oak Ridge"
+    publishedDateTime: 2023-10-25T20:05:00Z
+    webUrl: "https://myfox8.com/video/triad-man-researches-self-driving-vehicles/9116234/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: WGHP
+      domain: myfox8.com
     quality: 24
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/Electric-Vehicle-1.jpg"
-        width: 1000
-        height: 500
+      - url: "https://i0.wp.com/myfox8.com/wp-content/uploads/sites/17/2023/10/AB79C6EC143E641313B051A624A3E85E.jpg?w=2000&#038;ssl=1"
+        width: 645
+        height: 363
         isCached: true
-  - title: "Arizona closely monitoring use of self-driving vehicles"
-    excerpt: "\"When needed to safeguard public safety, ADOT will make any needed adjustments to a company's ability to test and operate self-driving vehicles in Arizona,\" the department said. California on Tuesday ordered GM's Cruise unit to remove its driverless cars from state roads,"
-    publishedDateTime: 2023-10-25T17:54:00Z
-    webUrl: "https://www.aol.com/news/arizona-closely-monitoring-self-driving-175410320.html"
+  - title: "Dubai tests self-driving electric robots to clean up beaches"
+    excerpt: "Dubai is testing the use of self-driving electric robot vehicles to clean beaches in the city. Dubai Municipality initiated the testing phase of a self-driving electric vehicle dedicated to cleaning bicycle routes along the beaches of Jumeirah and Umm Suqeim."
+    publishedDateTime: 2023-10-25T13:36:00Z
+    webUrl: "https://www.arabianbusiness.com/culture-society/dubai-tests-self-driving-electric-robots-to-clean-up-beaches"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
   - title: "Arizona says closely monitoring use of self-driving vehicles"
     excerpt: "The Arizona Department of Transportation said it was aware of the announcement from California and was closely monitoring the situation. \"Public safety is our highest priority, and we are in regular communication with and closely monitoring Cruise and other companies testing and operating self-driving vehicles in Arizona,"
     publishedDateTime: 2023-10-25T21:58:00Z

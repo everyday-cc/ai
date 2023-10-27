@@ -89,15 +89,6 @@ related:
         width: 830
         height: 467
         isCached: true
-  - title: "California Halts Cruise's Self-Driving Cars Citing 'Risk to Public Safety'"
-    excerpt: "California’s DMV is suspending Cruise’s permit to test self-driving cars in the state over concerns the vehicles pose a risk to public safety."
-    publishedDateTime: 2023-10-24T19:04:00Z
-    webUrl: "https://www.pcmag.com/news/california-halts-cruises-self-driving-cars-citing-risk-to-public-safety"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 32
   - title: "Automated car company planning to launch in Dallas has self-driving permit revoked in California"
     excerpt: "A driverless vehicle company planning to launch Dallas is halting operations in California after the state yanked its license over safety concerns."
     publishedDateTime: 2023-10-26T01:23:00Z
@@ -125,6 +116,43 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 24
+  - title: "California suspends Cruise self-driving vehicles in blow to GM"
+    excerpt: "California's auto regulator said on Tuesday it has suspended General Motors' Cruise autonomous vehicle deployment and driverless testing permits, saying it had misrepresented information related to the safety of the autonomous technology."
+    publishedDateTime: 2023-10-24T21:37:00Z
+    webUrl: "https://www.carsifu.my/news/california-suspends-cruise-self-driving-vehicles-in-blow-to-gm"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 24
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/10/2023-08-22-23_33_10-dpa-news-_-Photos-Release-2.17.7-Brave.png"
+        width: 800
+        height: 452
+        isCached: true
+  - title: "GM Subsidiary Cruise’S Self-Driving Car Permit Suspended In San Francisco"
+    excerpt: "In a significant move, the California Department of Motor Vehicles (DMV) has immediately suspended GM self-driving car s"
+    publishedDateTime: 2023-10-25T05:49:00Z
+    webUrl: "https://menafn.com/1107298885/GM-Subsidiary-CruiseS-Self-Driving-Car-Permit-Suspended-In-San-Francisco"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/25/I_97b1aimage_story.jpeg"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "California DMV suspends permits for Cruise’s self-driving robotaxis"
+    excerpt: "California's DMV has suspended GM's permit for AV deployment and testing, alleging the company has \"misrepresented\" the technology's safety"
+    publishedDateTime: 2023-10-25T18:15:00Z
+    webUrl: "https://www.cbtnews.com/california-dmv-suspends-permits-for-cruises-self-driving-robotaxis/"
+    type: article
+    provider:
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 4
   - title: "California suspends GM Cruise self-driving vehicles as 'not safe' for public"
     excerpt: "The automaker reported on Tuesday that it lost $723 million on Cruise during the third quarter. The DMV added that Tuesday's \"decision does not impact the company's permit for testing with a safety driver."
     publishedDateTime: 2023-10-24T19:32:00Z
@@ -134,15 +162,6 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 1
-  - title: "Self-driving operator Cruise's operations in AZ unaffected, despite CA permit suspension"
-    excerpt: "The company's driverless permits were suspended in California, but the move does not affect Arizona operations."
-    publishedDateTime: 2023-10-26T20:19:00Z
-    webUrl: "https://www.statesman.com/story/money/business/tech/2023/10/26/self-driving-car-operator-cruise-will-continue-operations-in-arizona/71332901007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 0
 
 secured: "DKF2/xkgnJA5CvCXavFAIHZu+a7yk6KFyMx+wrmRUm2xpXVIEiDI269MHsnWemOXKDa9LvpOE8ajcet8mBaP3bFCHGBkUmGlnGw5tbwc7iRvjH6q2scmw52FqqykxoyC6LQKg+h4yK1Zv94Q+mJbNiciV44YA/RcU31bgX9uZBvUcBoUCpZ8KlEVCkSto+JTUIypDcjjhwYuSXeikv3vOQOmQ94/d4ZFvdwa/dwxjoTP09gydFHyAbuOwYVIAVThw8UmfeQSSQy/vq3avGVs2qqVJBXv02tX7sIq2BBgCVOoxSMfpEAxiOZ+ej5Nm3xILCZjx/C51A9Yc9wE3/xx8Z+J89xfRileI7e3Gm4AquM=;jdM1gC+OhsagzS49Pr98Jg=="
 ---
