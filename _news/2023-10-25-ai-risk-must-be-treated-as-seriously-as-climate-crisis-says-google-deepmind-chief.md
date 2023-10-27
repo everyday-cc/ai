@@ -47,6 +47,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "AI risk similar to climate crisis, world cannot afford to delay response: Google Deepmind Chief"
+    excerpt: "In a recent interview, Demis Hassabis said that he anticipates the creation of an international body like IPCC and CERN for the regulation of AI."
+    publishedDateTime: 2023-10-24T13:58:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-similar-to-climate-crisis-world-cannot-afford-to-delay-response-google-deepmind-chief-8997821/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 62
+    images:
+      - url: "https://images.indianexpress.com/2023/10/Demis-Hassabis-1.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Google DeepMind Chief Believes AI Risk Is Similar To Climate Crisis"
     excerpt: "Demis Hassabis said he wishes to see the creation of an IPCC and CERN-like international body for the regulation of AI."
     publishedDateTime: 2023-10-25T06:44:00Z
@@ -75,15 +91,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "AI risk similar to climate crisis, world cannot afford to delay response: Google Deepmind Chief"
-    excerpt: "In a recent interview, Demis Hassabis said that he anticipates the creation of an international body like IPCC and CERN for the regulation of AI."
-    publishedDateTime: 2023-10-24T13:58:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-similar-to-climate-crisis-world-cannot-afford-to-delay-response-google-deepmind-chief-8997821/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 22
 
 secured: "Swuzsvc/A/iU+qMzHeWblUaGjtrSqYWxF0AWSKvfuDbkcvq7raIqZuOJw4g7YTqG/TCro0mpWG7zHTkbSrbCD/KbVqH7T+XpYzlf43oacaBLVJz+9kYzr8kVgaTSprVW9jP2Q9nzJVncvFAXOnaP889LmP1fW7PChbaPym46KlSKcCLXlWdUxv3AfT3PaglugcbT/bCd8lxStlIr4kAPOGyybQSBWjBsQvALB2nVTTykbDuo55zqS1ssINZa7jstHVelmr6kN/n0IS/0X1eEUYFzm0xnnUDyToYL2qbkfihGW80frRT3WkIj8IixTzThnZUdIUYi4Xk59JxzF1DZc9IHYSvYAUNtbPmMkxDwm7gn09NSAsU6vACeQExRtlPBt/1sliXGRSM4jtQQ5NHV7hMPhmTKnjazmwEvyf65v3hXe0pEAS7SzU32bUpi9o+vmch9embFcaJkoto4q+p3leYiBjQQErN8aMtC4bHhHlnz2X6aDMSLl0hUX3YBK7kPgTPbMIePGKQ0ZQ3Ym7KTRg==;Ho39ED1WefojbhTgVRFynQ=="
 ---

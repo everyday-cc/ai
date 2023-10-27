@@ -101,6 +101,20 @@ related:
         width: 610
         height: 458
         isCached: true
+  - title: "The generative AI hype hasn't translated to cloud sales yet, as customers don't know if they should jump in. Microsoft is the one exception."
+    excerpt: "Microsoft reported 3% of its sales growth came from generative AI last quarter."
+    publishedDateTime: 2023-10-27T18:51:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-amazon-google-ai-aws-artificial-intelligence-cloud-sales-2023-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/653bf764356802a56be6251b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft to spend $3.2bln on AI in Australia"
     excerpt: "Microsoft said it will spend A$5 billion, or $3.2 billion, expanding its artificial intelligence (AI) and cloud computing abilities in Australia over two years to improve capacity by 250%. Fiona Jones reports."
     publishedDateTime: 2023-10-24T00:41:00Z
@@ -494,6 +508,15 @@ related:
       name: RCR Wireless News
       domain: rcrwireless.com
     quality: 54
+  - title: "Microsoft's AI boost helped cloud business outpace rivals Amazon and Google in latest quarter"
+    excerpt: "Large cloud vendors are still helping clients work through necessary cost cuts, but Microsoft Azure has gotten a boost from artificial intelligence"
+    publishedDateTime: 2023-10-27T16:34:00Z
+    webUrl: "https://www.cnbc.com/2023/10/27/microsoft-azure-outpaced-aws-and-google-cloud-in-latest-quarter.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 53
   - title: "Microsoft's cloud revenue rebounds as AI boosts sales"
     excerpt: "\"We are making the age of AI real for people and businesses everywhere,\" Microsoft CEO Satya Nadella said in the company's latest earnings report."
     publishedDateTime: 2023-10-24T21:39:00Z

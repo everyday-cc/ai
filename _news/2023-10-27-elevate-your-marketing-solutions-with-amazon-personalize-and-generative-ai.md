@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/elevate-your-marketi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/elevate-your-marketing-solutions-with-amazon-personalize-and-generative-ai/"
 type: article
 quality: 119
-heat: 439
+heat: 469
 published: true
 
 provider:
@@ -225,6 +225,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 56
+  - title: "AI-powered healthcare personalization company raises $5M"
+    excerpt: "RadiantGraph, an artificial intelligence-powered platform designed to ... biometric data and medication history to improve healthcare consumer engagement. The company will use the capital to fuel growth and partnerships with new healthcare organizations ..."
+    publishedDateTime: 2023-10-27T21:49:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/ai-powered-healthcare-personalization-company-raises-5m.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
     excerpt: "Watsonx Code Assistant for Red Hat Ansible Lightspeed and watsonx Code Assistant for Z are now availableARMONK, N.Y., Oct. 26, 2023 /PRNewswire/"
     publishedDateTime: 2023-10-26T04:13:00Z
@@ -350,6 +364,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Privacy Concerns at the Intersection of Generative AI and Healthcare"
+    excerpt: "Artificial intelligence that can create new texts, images, and other content (or“generative AI”) is revolutionizing every industry, and healthcare is no exception. Doctors are experimenting with using generative AI to improve their patient ..."
+    publishedDateTime: 2023-10-27T18:32:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/privacy-concerns-at-the-intersection-of-2303686/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 34
   - title: "Moody's and Google Cloud Partner on Generative AI Applications Tailored for Financial Services Professionals"
     excerpt: "\"Through this partnership, research teams at Moody's and Google Cloud will collaborate on fine-tuned LLMs and AI applications that will enable financial service professionals to produce new, proprietary insights faster than ever before.\" \"Our collaboration ..."
     publishedDateTime: 2023-10-23T19:35:00Z
@@ -427,6 +450,15 @@ related:
     provider:
       name: Techopedia
       domain: techopedia.com
+    quality: 19
+  - title: "Generative AI Is Social Engineering on Steroids"
+    excerpt: "Generative AI is the biggest breakthrough technology seen since the smartphone. Though still in its infancy in terms of widespread business adoption, cybercriminals have already begun leveraging tools like ChatGPT to advance the sophistication,"
+    publishedDateTime: 2023-10-27T19:40:00Z
+    webUrl: "https://www.inc.com/inc-masters/generative-ai-is-social-egineering-on-steroids.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
     quality: 19
   - title: "Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
     excerpt: "NDAQ:SPNS) Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"

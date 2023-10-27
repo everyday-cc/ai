@@ -51,6 +51,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Android Circuit: Qualcomm Launches SnapDragon 8 Gen 3, Xiaomi 14’s Superb Screen, Honor Magic 6 AI Secrets"
+    excerpt: "This week’s Android headlines; Samsung Galaxy S24 benchmarks, Qualcomm launches Snapdragon 8 Gen 3, Honor Magic6’s AI power, Dimensity 9300 performance, Pixel 8 Pro screen details, Xiaomi 14 released,"
+    publishedDateTime: 2023-10-27T20:13:00Z
+    webUrl: "https://www.forbes.com/sites/ewanspence/2023/10/27/android-headlines-galaxy-s24-pixel-8-pro-qualcomm-snapdragon-dimensity-xiaomi-honor-whatsapp/"
+    ampWebUrl: "https://www.forbes.com/sites/ewanspence/2023/10/27/android-headlines-galaxy-s24-pixel-8-pro-qualcomm-snapdragon-dimensity-xiaomi-honor-whatsapp/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/27/android-headlines-galaxy-s24-pixel-8-pro-qualcomm-snapdragon-dimensity-xiaomi-honor-whatsapp/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653c15e6acef4b0c967885cc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
+  - title: "Qualcomm’s Snapdragon 8 Gen 3 Wants to Compete for AI Dominance on Android"
+    excerpt: "Everything Qualcomm’s offering, including a new Snapdragon X Elite chip for PCs, is centered around artificial intelligence and beating both Apple and Google."
+    publishedDateTime: 2023-10-27T20:49:00Z
+    webUrl: "https://gizmodo.com/qualcomm-s-snapdragon-8-gen-3-wants-to-compete-for-ai-d-1850968148"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 65
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/293bf65844f7eac55034b4a26f4d93d1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Qualcomm says its new chips are 4.5 times faster at AI than rivals"
     excerpt: "Qualcomm's new Snapdragon processors bring fast generative AI to laptops and phones while keeping your data private and saving power."
     publishedDateTime: 2023-10-24T19:00:00Z

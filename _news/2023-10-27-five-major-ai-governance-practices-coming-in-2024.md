@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/featured/five-major-ai-governance-practic
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/five-major-ai-governance-practices-coming-in-2024/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1240
         height: 697
         isCached: true
+  - title: "Navigating the AI Revolution In Finance: Three Steps To Ethical Integration And Win-Win, Profitable Outcomes"
+    excerpt: "While the integration of AI in the realm of finance has provided it with a much-needed boost by streamlining processes, enhancing efficiency, and enabling the delivery of tailored services, several ethical implications have come with its usage."
+    publishedDateTime: 2023-10-27T19:02:00Z
+    webUrl: "https://www.benzinga.com/23/10/35471921/navigating-the-ai-revolution-in-finance-three-steps-to-ethical-integration-and-win-win-profitable-ou"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
   - title: "Governments must not rush into policing AI"
     excerpt: "Regulators must be prepared to react quickly if needed, but should not be rushed into setting rules or building institutions that turn out to be unnecessary or harmful. Too little is known about the direction of generative AI to understand the risks associated with it, let alone manage them."
     publishedDateTime: 2023-10-26T12:35:00Z

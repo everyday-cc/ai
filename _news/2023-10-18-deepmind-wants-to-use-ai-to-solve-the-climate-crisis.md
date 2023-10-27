@@ -15,6 +15,12 @@ topics:
   - Google AI
   - AI
 
-secured: "/cs2ANKDhgfpcB2SZIkriLd2xuPPiuRUjawwVS2ELCkDAxV8k7cByX/CJC6hpzlxgjLbgXi6n50gpKuu+crcxaAceKOWETGJAdYyG3dxAyvCK1mJ/7ZpEf0T4Lz0XDtZBX7h33qpwi0JKZLMdRqDjIzz1O2IJ6JABuKA7pkSHBeIC9F3ZClL1FMI5hZFqaMYCplPO0oDTuXFHbY/hpMlJuxtm0FvPTGVRSUnR6lEzYKizOgb+HjZru4Xm4cV7Gmp585iZu+O8Ryvk28F/IkDrhGEJDiUODEcJQpqt7amRdCSk1v829rolezAVXZp/qIuR8NnO9yvVNOGh9DnTH3YEUM2GZboO5gh3iYZce3gvVU=;lQr34Y057LZU5/TJydByjg=="
+images:
+  - url: "https://media.wired.co.uk/photos/652eadf475839a12b76f0625/16:9/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "YlOk/HcUQx9ZmM19xoi1st1zABfCTublLKUddIBk3OY1CrQ8rjBkMy3CzvCbtv04HtoKxo6Mwmae7AXQjX/u9WIrgu9Xn7LwQr5VvDxR03KisVcukAWxQg1jRno2vfcaUZh84uLnV1CX8cVtLouRIaKdFkwywusL/lw17gOVxrBjJsrDnjSRkzncGemf3Y8UrJ/UfylJ/jhfypnQd9n2n3s9Be+4VaDByTH1yIHScaBeWSSj+SP8FCKcSfnwVwhaj/EegfxUjxNmZC21VG/qUuZgvr3x/rTF9SuNcSBXLMz4O9NGm8XlMvZ8v8fTnscd7DL+nWoVeuJAggXTrlNCRybLhdpsQzh8lGPkfumc6jI=;KrwV12rrOOj9RsFHfT8prw=="
 ---
 

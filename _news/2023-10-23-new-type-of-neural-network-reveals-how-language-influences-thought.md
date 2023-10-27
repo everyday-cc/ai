@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-23T09:03:00Z
 originalUrl: "https://www.technologynetworks.com/neuroscience/news/new-type-of-neural-network-reveals-how-language-influences-thought-380166"
 webUrl: "https://www.technologynetworks.com/neuroscience/news/new-type-of-neural-network-reveals-how-language-influences-thought-380166"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: technologynetworks

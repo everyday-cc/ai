@@ -32,6 +32,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 50
+  - title: "Big Tech earnings highlighted big spending on artificial intelligence. Here's what it means for AI king Nvidia"
+    excerpt: "This week's slate of tech earnings left little doubt that, as more Nvidia chips become available, there will be a place inside data centers for them to go."
+    publishedDateTime: 2023-10-27T16:37:00Z
+    webUrl: "https://www.cnbc.com/2023/10/27/big-tech-earnings-highlighted-big-spending-on-ai-what-it-means-for-nvidia.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 42
 
 secured: "A8T4+IfRM4LV4h8W3rrBqj3uOrQ4WAKr6if76LrwYk0XUxPh3HjuWxsJJP2fq1b/GLjB1UMP43B2LVXshcQw0q7xU42c9caU+N8AgWwbszmfo1dmdbfQcXAUK7FUad37meyt1JSCpbO80c7pZtYwattv4KEjH2O6eTWqE4JyQ1oopADgSghMmnCxZZMdnSNYBBjKv1Zp2Eq6apYuX8ZtzfPO10FLpa/Ikd+m0Trf1paB22N3ASAK40YAVPtzQ7Vlm+PDIFbxcTjQ362UPIOnxFBr0GAFho11+YMqgdGzRPwMCah8Js5eaHrsECo1rGs2jNOy8AIIqCQXYZ39gOiKXbpn8Sn6klZKGPAHwCwIb9V4bzOgL99WgiO0lKklh6Wz6H46+Z55+Reg8gRi8PdbGcfN5RiCaeYTxuJ5gjk5qplkKgLsa4xJ8Fr+d4WIJBhTjIUjth2lGgW/pxmlFOmv+ISBGafhSo0ASFzf4X+3U9Py2HPJY2jNvC10eLhYIG1LAYFiw5EcxMiG5pRV5G5g5A==;kShJ6zWTBjnLHtmrBO84hg=="
 ---

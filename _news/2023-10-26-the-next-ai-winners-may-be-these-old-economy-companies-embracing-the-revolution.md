@@ -136,6 +136,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "5 Jobs Artificial Intelligence Can’t Replace"
+    excerpt: "In this article, we will look at the 5 jobs that artificial intelligence can’t replace. We have also discussed the potential impact of artificial intelligence on jobs in another article."
+    publishedDateTime: 2023-10-24T11:49:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/"
+    ampWebUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/?amp=1"
+    cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/?amp=1"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 59
+    images:
+      - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2016/11/25220327/22074401_m.jpg?auto=format&expires=1729900800&w=400&h=225&fit=crop"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Can Generative AI Be The Smartest Member Of Your Company?"
     excerpt: "To support the effective, safe and ethical use of generative AI, you'll need a solid foundation of high-quality data underpinned by governance."
     publishedDateTime: 2023-10-24T12:15:00Z
@@ -224,15 +240,6 @@ related:
       name: openaccessgovernment
       domain: openaccessgovernment.org
     quality: 19
-  - title: "5 Jobs Artificial Intelligence Can’t Replace"
-    excerpt: "In this article, we will look at the 5 jobs that artificial intelligence can’t replace. We have also discussed the potential impact of artificial intelligence on jobs in another article."
-    publishedDateTime: 2023-10-24T11:49:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 17
 
 secured: "C6ekLBiogMU7R+I0yTN5s5wmeSwVuvPAohEAJ4uG0bBHZnWa8I2h/YeTJW3sTReZ5XOvSRL7kzPHrtDy/bgekJg0c7VzvX0Aoe7M4z7cu9srLJXbvproXy57wgQnz6H0/SLT8I8GgMZ/SsLw6d/rJ2Tuiq9gXOvonEBFnpwV7jKQMT//AOxgOpbBTFCsXUMB7xECKRVT46MjO3YZy8LdmzoO6sUGk19hLtYxOjMqnHzRcVp5YMcqSDYib+y9Do26ZwAHbCFXOYrVmDIZg818TDDwNxwzT4fg4mQQh8gIqbw6u2aID+1dTpQsXfPpVx9QWXHBvURPuufXrFp/yCkDRB8sLc9nhrs/BIAwucTUG75rh8O9ASDh5RCFHV3fBaKPz75TRvHADek9WB7hBNUVNUcpFLb/z+aKy9Nk+O/RgAel+t+1WziMjqE8KJNpeKlZhZYL/NGHzWWJT7fyinZfXvzvaDOhOg7ZhJ3Zos2T4YGEzkcD6IOwZ6kCXNTzr/f8BXoSwNFtRczc/JArRFUdCw==;1kOrfZU9rO60dccPbbWRfQ=="
 ---

@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://nypost.com/wp-content/uploads/sites/2/2023/10/newspress-collage-xekxgk5dw-1698009109977.jpg?quality=75&strip=all&1697994770&w=1024"

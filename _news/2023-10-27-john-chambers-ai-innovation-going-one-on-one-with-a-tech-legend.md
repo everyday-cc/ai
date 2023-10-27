@@ -51,6 +51,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "3 Ways Leaders Can Start Unlocking the Benefits of Artificial Intelligence"
+    excerpt: "After decades of hype and hysteria, artificial intelligence is finally ready for primetime. To date, A.I. has largely been reserved for the largest companies. But now, with the advent of generative pre-trained A."
+    publishedDateTime: 2023-10-27T20:32:00Z
+    webUrl: "https://www.inc.com/joe-galvin/3-ways-leaders-can-start-unlocking-benefits-of-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 15
   - title: "Innovating with responsibility: How customers and partners are bridging data, AI and trust with the Microsoft Cloud"
     excerpt: "For the past decade, we have been on a journey with our customers to help them achieve digital transformation, which is business transformation empowered by cloud technology. With increasing excitement around generative AI — both for its potential and the impact it is already having — organizational leaders are eager to prioritize adoption that"
     publishedDateTime: 2023-10-23T13:00:00Z

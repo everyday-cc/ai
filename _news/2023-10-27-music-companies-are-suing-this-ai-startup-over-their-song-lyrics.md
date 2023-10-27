@@ -146,6 +146,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "5 Jobs Artificial Intelligence Can’t Replace"
+    excerpt: "In this article, we will look at the 5 jobs that artificial intelligence can’t replace. We have also discussed the potential impact of artificial intelligence on jobs in another article."
+    publishedDateTime: 2023-10-24T11:49:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/"
+    ampWebUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/?amp=1"
+    cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/?amp=1"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 59
+    images:
+      - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2016/11/25220327/22074401_m.jpg?auto=format&expires=1729900800&w=400&h=225&fit=crop"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Can Generative AI Be The Smartest Member Of Your Company?"
     excerpt: "To support the effective, safe and ethical use of generative AI, you'll need a solid foundation of high-quality data underpinned by governance."
     publishedDateTime: 2023-10-24T12:15:00Z
@@ -220,15 +236,6 @@ related:
       name: openaccessgovernment
       domain: openaccessgovernment.org
     quality: 19
-  - title: "5 Jobs Artificial Intelligence Can’t Replace"
-    excerpt: "In this article, we will look at the 5 jobs that artificial intelligence can’t replace. We have also discussed the potential impact of artificial intelligence on jobs in another article."
-    publishedDateTime: 2023-10-24T11:49:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 17
 
 secured: "4EF+EvwFn9QSzM9y5ipfXWptEQm+FL9HwdCoGmAExOesH+VN2ZmhDCQ0CpkG+rsYPbBAtK3kWO0o9wHQjVZykpjUVVdM9e01KepGhZE5010AdGoqG8HQf5RIN9W+g6aAm8SogOT8/wTK9IyGVp6HOZNtoN0DZFEwJUv/s5QC/1eGK3P5lFIBYK6L8IgVWoxgy0mQV7A+dgCMsnMYv0O9VHv5uz5udPLQxB4hkRT2BUF14b2ravDLSct9+C+FuAThajzwEXySJpwWQq6UUOvqteeTeqAEsq+ReF0US/kmiWVK3N7LU17ERSuDMK+oiWepxb04j4fcNNrY1e+2yBr8TBg1F4/J3pq6CfVxzH6ePm0=;DJV60Z9/6Az4ky/Ac87MEA=="
 ---

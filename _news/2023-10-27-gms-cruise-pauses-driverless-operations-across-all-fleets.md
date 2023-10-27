@@ -64,20 +64,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "UH-Maui hits the gas on driverless tech"
-    excerpt: "UNIVERSITY OF HAWAII photo The University of Hawaii Maui College is making history as it helps develop driverless vehicle ... Passon said. Like artificial intelligence, the software requires ..."
-    publishedDateTime: 2023-10-23T01:07:00Z
-    webUrl: "https://www.mauinews.com/news/local-news/2022/01/uh-maui-hits-the-gas-on-driverless-tech/"
-    type: article
-    provider:
-      name: The Maui News
-      domain: mauinews.com
-    quality: 39
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.mauinews.com/images/2022/01/15052516/os-uhmc-driverless-AI-Racing-Tech.jpg"
-        width: 600
-        height: 399
-        isCached: true
   - title: "Pilot programs put more driverless vehicles on the road"
     excerpt: "Pilot programs promoting the use of artificial intelligence in the transport sector have made significant progress, Ministry of Transport officials said on Thursday, with the commercial operation of driverless vehicles being tested in Beijing, Shanghai and Guangzhou, and more smart roads being planned and built."
     publishedDateTime: 2023-10-26T15:00:00Z

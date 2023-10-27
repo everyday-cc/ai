@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-19-ai-and-machine-learning-can-successfully-diagnose-polycystic-ovary-syndrome.md",
+      "title": "AI and machine learning can successfully diagnose polycystic ovary syndrome",
+      "excerpt": "Artificial intelligence (AI) and machine learning (ML) can effectively detect and diagnose Polycystic Ovary Syndrome (PCOS), which is the most common hormone disorder among women, typically between ages 15 and 45,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230918153140.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230918153140.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-18-orchestrate-ray-based-machine-learning-workflows-using-amazon-sagemaker.md",
       "title": "Orchestrate Ray-based machine learning workflows using Amazon SageMaker",
       "excerpt": "Machine learning (ML) is becoming increasingly complex as customers try to solve more and more challenging problems. This complexity often leads to the need for distributed ML, where multiple machines are used to train a single model. Although this enables parallelization of tasks across multiple nodes,",
@@ -1350,49 +1393,6 @@
       "provider": {
         "name": "technologynetworks",
         "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating.md",
-      "title": "Machine learning can level the playing field against match fixing – helping regulators spot cheating",
-      "excerpt": "The study shows that machine learning can be utilised to help safeguard the integrity of sports competitions, and to assist regulatory bodies, sports organisations and law enforcement agencies maintain fairness and public trust.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/09/11/1600x900/Data_Science_Course_1686915589627_1694397187884.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html",
-      "publishedDateTime": "2023-09-10T18:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
         "images": null,
         "publishers": null,
         "authors": null

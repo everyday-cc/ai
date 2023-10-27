@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "AI in the C-Suite? Why We’ll Need New Laws to Govern AI Agents in Business"
+    excerpt: "Two legal experts are calling for us to adapt laws to the possibility of AI agents operating in business and even running companies."
+    publishedDateTime: 2023-10-27T18:40:00Z
+    webUrl: "https://singularityhub.com/2023/10/27/ai-in-the-c-suite-why-well-need-new-laws-to-govern-ai-agents-in-business/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 17
 
 secured: "XnqTBn7ygyLg4wsMpnTRB0VJsnXCus/HKNz/dSH+JgaP3OZWX+ADadzeK66lB5C2WbYdCAyqIr/K5cp8Bho/2lzAS+H4QSEo36danLuOV1BQCUAaLbIFNqbyh65yUGr/uQ1B8moBqAh56/yc7WxXWuRSCrpLqNFY0sko4UPFOO0StbWYLeGR44krcvk/aqUlMfkpAr8si3WDa2zcP0lwZWV2oLtozuoJlXl7ls1oeDQ6SsiNX2ft6oj0R+5xkvQInkCAqNZ8+gqQQMqjkE4nhOY7wrd8oDD5s8aQluc+8ak620OkCdocuOgIqsiahX+/82PKXB2eFoie2YLoqG4Y+uoKsuZVamygcab1lBryI7txb8nsRyLtalRo/RMDJF2QDxJxYcoBKZmuou+H6rKo3tncROqyfzrAu6b3Lod+7DFmTLlLJlKWIiFsaPERpEQ+azQdXE29Glj1n7dnAlLPk0xukZXw6qYTuH2oUwXYNXs/r5qa8Cc1Tdtp/l+Md461rQIVgIFmsQNRK7YvCTbWXQ==;dn75TbTpZYYRd+EgjqmYxA=="
 ---

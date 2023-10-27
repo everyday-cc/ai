@@ -144,6 +144,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "5 Jobs Artificial Intelligence Can’t Replace"
+    excerpt: "In this article, we will look at the 5 jobs that artificial intelligence can’t replace. We have also discussed the potential impact of artificial intelligence on jobs in another article."
+    publishedDateTime: 2023-10-24T11:49:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/"
+    ampWebUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/?amp=1"
+    cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/?amp=1"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 59
+    images:
+      - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2016/11/25220327/22074401_m.jpg?auto=format&expires=1729900800&w=400&h=225&fit=crop"
+        width: 400
+        height: 225
+        isCached: true
   - title: "How AI is poised to impact government — and vice versa"
     excerpt: "The future is now, and the public and private sector are both working together and at cross-purposes to meet the moment. Here's how governments are approaching the regulation and use of artificial intelligence."
     publishedDateTime: 2023-10-24T13:41:00Z
@@ -223,15 +239,6 @@ related:
       name: openaccessgovernment
       domain: openaccessgovernment.org
     quality: 19
-  - title: "5 Jobs Artificial Intelligence Can’t Replace"
-    excerpt: "In this article, we will look at the 5 jobs that artificial intelligence can’t replace. We have also discussed the potential impact of artificial intelligence on jobs in another article."
-    publishedDateTime: 2023-10-24T11:49:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 17
 
 secured: "6xyeea/3PsyXXfTENtSSRtiV63Hj9K+QnITg4I92nBPLa3+qmRSOVAFO8X0Rwl19rc1A+aWMBrRUmAIvFDj5fNa5bk7NxvmzXrEwPSQCCELxNOpKiBq6dUspubqUv6CXtFc4/MkDfyO44yYFySmdb72vzRDwBL0E682MpbJK7jz/D9f1XVFKZVHvrsKWu3lFwUQWpRwSZhmeotlLQJXNvGogorrNPS+oOZOJSfIT4DxWM2mFjDVWjDa1vLpH7sStoJg5+kxxVA5Q/I7+SbMjGWFGZap0bkfidKhFVdrBbLMGx+l5iXRI4h2Tp28j7iPDZWlreZa1+agVlrMWioKhLDpE9LBGuTbFjdwygHhZu7S5By0KmsodNI9CsOsAIJBMFVSZqToHU+drubanxGdKs8/V4QgozyCbW4hpCJ0ssTs54EgPm+fTUbDTp9rRjecHGQDApmR1uz1g/bgxumYigvy6Kr9fQuDoJ1A6/bdIXnK6zidGhbpliFlSM+DscBrNGfH8ejWB+T185zyb7fpHFA==;0lTzoI0PztBKCbQLWdb0LQ=="
 ---

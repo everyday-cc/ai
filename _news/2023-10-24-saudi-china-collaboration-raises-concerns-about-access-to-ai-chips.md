@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/2a636cee-b0d2-45c2-a815-11ca32371763?sh
 webUrl: "https://www.ft.com/content/2a636cee-b0d2-45c2-a815-11ca32371763?sharetype=gift"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,42 @@ images:
     width: 619
     height: 377
     isCached: true
+
+related:
+  - title: "Top 10 Questions About Artificial Intelligence"
+    excerpt: "As an independent career and executive coach, this is becoming increasingly important to me, because it is to my clients – and now to readers."
+    publishedDateTime: 2023-10-27T19:26:00Z
+    webUrl: "https://www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-about-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-about-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-about-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653c0eab8f630a1e0234e2f5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Why actors are fighting for AI protections"
+    excerpt: "Actors on strike amid contract negotiations with production studios are fighting for protections from artificial intelligence (AI), but the concerns they’re highlighting raise risks beyond the scope of movies and television."
+    publishedDateTime: 2023-10-23T13:00:00Z
+    webUrl: "https://www.aol.com/news/why-actors-fighting-ai-protections-100000324.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
+  - title: "The fingerprints on a letter to Congress about AI"
+    excerpt: "Sy Damle, a Washington lawyer representing OpenAI in copyright lawsuits, covertly organized a letter from tech groups and academics urging Congress to avoid new laws on AI and copyright."
+    publishedDateTime: 2023-10-23T19:39:00Z
+    webUrl: "https://www.politico.com/news/2023/10/23/tech-lawyer-ai-letter-congress-00122857"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 17
 
 secured: "LjGkPyfzR5C4sXuEsdl/ggIBSCDwZYWxP/MQzmdnK93QttpoYIQyIQi0n7Nhh0IMwENkfW20mZJh99HcX9N+WXI6wV4lu1BBXuV9un1gCXfI0oh/Jh5/OCIYwJ2duC/5CxleiQnJ5BpkrU53/xrqZmwKep6ZgJlca0WFH+rVjSKac+V6wRrIzdNtO71Wn2t/NTLSAUrN4WedlPZpJ7o2WzvIJpTuwNTqD3pmvt7e/K8Yz64OahrgcGUDqgoVpuaUqsdtRClR8eCV5mKjZJKhUUVQk/XQgACrH1UvFe06hgdFVzuu7ek/dIVenHkAvjE6AQO4mU2vOc11a3wKRQXJtnLc+tag+mQjfUGFFFi+Z78nPxjGnSNy7SylCtb/x0HaP38qwuthMdKltGq2sfsbUataxGm1wnOT3j2j11ZEzlvXEcBEdUtEeIY9BvDN0FYkO+VX/mCKm1gB4Sc8A6jmF6KLzm1jgZ+gHm3oyEUXA2/bjbyNwJV6893VUhxxR03K2BiNYWQhOYFOvUmTpyUGyw==;lRLTo/Qn/0ZluVJPnj1IIg=="
 ---

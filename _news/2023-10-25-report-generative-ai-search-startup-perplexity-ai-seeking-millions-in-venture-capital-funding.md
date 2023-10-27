@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google Expands Bug Bounty Program to Include Generative AI Attacks"
+    excerpt: "Expanding to include AI threats 'will incentivize research around AI safety and security, and bring potential issues to light that will ultimately make AI safer for everyone,' Google says."
+    publishedDateTime: 2023-10-27T19:55:00Z
+    webUrl: "https://www.pcmag.com/news/google-expands-bug-bounty-program-to-include-generative-ai-attacks"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00Z41UTjyP9OYB16T5CQypG-1.fit_lim.size_1200x630.v1698432209.jpg"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "7uBJxEviWtIXJSJgL46Kxwox+EVf9P9Nx46ePtUsYJP9wInnkf/4V46K/HR5+ZtJbUc1vZ+e6+CfnItcqkS7zhKB7lxfuJLR8bzbig2WeCafS0n0qDPDROKcAoVkmCBsZeRsYO1dHg/+moIXyHhXekQnreo6w5ao9ni0LZkXjAnXLBWS15FqZIG7ZylRJWJJgm+vhfwjUM7OjD4SJ5jqY6PVJ3ot0ooDEZJMu0u1FGPR2e8jtm1RdHSqiANpOQinWCy+ITUNbCMW/u3WB7I2TVg3n2YG0O6MbB+38uKE3DAvAuZf3BK/VNWfaK+/iS6+7v9CJUQXnM6hOJtW7OXdMwsEFkV7DB9zizj3TYuVqqXhG8HKMnmY59VWeePeGfmpotNMnh7SB1wW4BWAI0CT6DlXSfm/7SKKo9KjG4YJU7Wj/mnJbb4iN/ox0MqvRQQsjgsERqpWWr0ruLB3mgT8Kv3J9QON78686NrMezH1Wq+lpR/RG+TkzKuYuEfuHLJe2fgxOp7LNNM7oSzdXDWezg==;tje9M2/6jPQVDpgEN+Eyjw=="
 ---

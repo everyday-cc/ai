@@ -57,6 +57,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "AI risk similar to climate crisis, world cannot afford to delay response: Google Deepmind Chief"
+    excerpt: "In a recent interview, Demis Hassabis said that he anticipates the creation of an international body like IPCC and CERN for the regulation of AI."
+    publishedDateTime: 2023-10-24T13:58:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-similar-to-climate-crisis-world-cannot-afford-to-delay-response-google-deepmind-chief-8997821/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 62
+    images:
+      - url: "https://images.indianexpress.com/2023/10/Demis-Hassabis-1.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "AI risks are as bad as climate change"
     excerpt: "Google boss calls for an oversight bodyThe world must treat the risks from artificial intelligence as seriously as the climate crisis and cannot afford to delay its response, one of the technology's leading figures has warned."
     publishedDateTime: 2023-10-27T09:43:00Z
@@ -71,15 +87,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "AI risk similar to climate crisis, world cannot afford to delay response: Google Deepmind Chief"
-    excerpt: "In a recent interview, Demis Hassabis said that he anticipates the creation of an international body like IPCC and CERN for the regulation of AI."
-    publishedDateTime: 2023-10-24T13:58:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-similar-to-climate-crisis-world-cannot-afford-to-delay-response-google-deepmind-chief-8997821/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 22
 
 secured: "0SM1uRfYcSDFgrdB1MfrM5aJZEg/u3yodtSSOteysKdsfuwly5KHCOzwLEbPNIrg7buj1lUaTL2zNcvQLr2lXlm3aSsb1WVsfd1WpQpgGH9NIyk4WZ2sSbz8InHudUZZEDPJndX35qEUllwmjQUhdJhVMHI5twCXidqowvNshj48d+bx/yjOI2we7cCFx+iAcAdVdqEwH3erY4MsNe+RnLIiwAuIkpD6OhPOCFlt9g2htamk+/DpvsXNjhxpZuAomv/xx/sDYBivwlYqiBRCmt1nAlRI41IH8WRnhZTpQlBCtBnJa7RcE/EOJe3yGLRWw4QtK0EC5ekRRHLmLDUnqxcNddnJLlLna9SKmeQ76d5k8CxV06rSccTeGvf8UKjwHmNXQMqK/lRJnv+PYsXtTw/IMi3DE3l9K/mBx1wgf2hZ5b7Xw/lhJS5FGlDsElLMjJib6XTXLTKsqaUoPNox7wVIWk6DSOKGE3WZaftGv2gmWSfxvnW+Bg3GlTLc3jmlSAKLa9BB0POjIUZjpPKvFQ==;oNOkNxCCbF0ZcBMaoXvosw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-27T18:50:00Z
 originalUrl: "https://thedailyrecord.com/2023/10/27/abc-news-president-to-give-morgan-st-s-fall-commencement-speech/"
 webUrl: "https://thedailyrecord.com/2023/10/27/abc-news-president-to-give-morgan-st-s-fall-commencement-speech/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Daily Record (Maryland)

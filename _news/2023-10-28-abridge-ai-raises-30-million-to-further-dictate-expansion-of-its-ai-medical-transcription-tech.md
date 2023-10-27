@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-27T19:58:00Z
 originalUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/10/27/abridge-ai-raises-30-million-funding-round.html"
 webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/10/27/abridge-ai-raises-30-million-funding-round.html"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: The Business Journals

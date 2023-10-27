@@ -41,6 +41,15 @@ related:
         width: 528
         height: 352
         isCached: true
+  - title: "Frankfurt airport rolls out facial recognition across all terminals"
+    excerpt: "Frankfurt airport has introduced facial recognition technology across all terminals, a move following biometric trials by Lufthansa. The technology, provided by SITA and NEC, allows passengers to traverse the airport by simply scanning their face,"
+    publishedDateTime: 2023-10-27T04:00:00Z
+    webUrl: "https://www.businesstravelnewseurope.com/Air-Travel/Frankfurt-airport-rolls-out-facial-recognition-across-all-terminals"
+    type: article
+    provider:
+      name: businesstravelnewseurope
+      domain: businesstravelnewseurope.com
+    quality: 34
 
 secured: "izyjniXwuGygWYI5J/Tg+uRlU3ay2QB5m4Hj/AExvRZ7xlR2KvtkiD/YNKLPcsUJl+jUineI2fleOUl49GOmYHJanWQxhHktkzzuqNAtX0kfQiwbM3NN+M+NPNsqh3ahMcZL+d8ZLCNxT8sNmKc5Ii632tSA1F33D02CDrhn4KPxjbh+MU6OUMTWl+Cl8BrBuns0QOe43mnaUImyxwOxPz5T8Bjy8UOq6Z2gVkCDHl3H9Np7gCPA9Z3m3bfZ1yPZBUbZBn0UEDA9g34PNDXrJkNX8jLyvmHUEm6tXaEh7rzjatLLGCPNBtl8wfai8i5EcJy4xTn9kU26iPYUvJ6QTYKeTkS0awUIaT1i5sq873o=;twqlyIGrpafNcw0ccJ4Xuw=="
 ---

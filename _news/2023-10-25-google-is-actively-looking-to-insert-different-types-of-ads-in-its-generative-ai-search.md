@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/25/google-is-actively-looking-to-inse
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/google-is-actively-looking-to-insert-different-types-of-ads-in-its-generative-ai-search/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google Expands Bug Bounty Program to Include Generative AI Attacks"
+    excerpt: "Expanding to include AI threats 'will incentivize research around AI safety and security, and bring potential issues to light that will ultimately make AI safer for everyone,' Google says."
+    publishedDateTime: 2023-10-27T19:55:00Z
+    webUrl: "https://www.pcmag.com/news/google-expands-bug-bounty-program-to-include-generative-ai-attacks"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00Z41UTjyP9OYB16T5CQypG-1.fit_lim.size_1200x630.v1698432209.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Report: Generative AI search startup Perplexity AI seeking millions in venture capital funding"
     excerpt: "The generative artificial intelligence search engine Perplexity AI is said to be on the verge of landing a massive funding round that will leave it valued at around $500 million, up from its $150 million post-investment valuation in March."
     publishedDateTime: 2023-10-25T00:55:00Z

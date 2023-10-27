@@ -105,6 +105,20 @@ related:
         width: 610
         height: 458
         isCached: true
+  - title: "The generative AI hype hasn't translated to cloud sales yet, as customers don't know if they should jump in. Microsoft is the one exception."
+    excerpt: "Microsoft reported 3% of its sales growth came from generative AI last quarter."
+    publishedDateTime: 2023-10-27T18:51:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-amazon-google-ai-aws-artificial-intelligence-cloud-sales-2023-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/653bf764356802a56be6251b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft’s AI strategy is paying off with solid cloud revenue growth"
     excerpt: "Microsoft had originally told investors that  AI wouldn't deliver revenue gains until 2024 when new products will become widely available."
     publishedDateTime: 2023-10-25T11:32:00Z
@@ -484,6 +498,15 @@ related:
       name: RCR Wireless News
       domain: rcrwireless.com
     quality: 54
+  - title: "Microsoft's AI boost helped cloud business outpace rivals Amazon and Google in latest quarter"
+    excerpt: "Large cloud vendors are still helping clients work through necessary cost cuts, but Microsoft Azure has gotten a boost from artificial intelligence"
+    publishedDateTime: 2023-10-27T16:34:00Z
+    webUrl: "https://www.cnbc.com/2023/10/27/microsoft-azure-outpaced-aws-and-google-cloud-in-latest-quarter.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 53
   - title: "Microsoft's AI bets boost cloud business, Alphabet yet to find silver lining"
     excerpt: "Google-parent Alphabet's cloud business suffered as long-time rival Microsoft's took off in the September quarter, demonstrating early signs that the Windows maker's investment in artificial intelligence was paying off."
     publishedDateTime: 2023-10-25T11:56:00Z

@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-07-110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market.md",
+      "title": "$110M In Funding Will Help d-Matrix Get Generative AI Inference Platform To Market",
+      "excerpt": "made possible by testing on earlier chips that demonstrated the in-memory architecture. d-Matrix roadmap: all roads lead to Corsair, the company's first scalable AI solution. \"We're entering the production phase when large language model (LLM) inference ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f8a35ebb4b3e7bae86eae0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/amp/",
+      "publishedDateTime": "2023-09-06T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup.md",
       "title": "Qualcomm Upgrades And Expands Its Handheld Gaming Chip Lineup",
       "excerpt": "Today, Microsoft and Nvidia rule the cloud gaming space ... Moor Insights & Strategy provides or has provided paid services to technology companies like all research and tech industry analyst firms. These services include research, analysis, advising ...",
@@ -1369,58 +1421,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-is-amd-the-dark-horse-of-the-ai-silicon-race.md",
-      "title": "Is AMD The Dark Horse Of The AI Silicon Race?",
-      "excerpt": "This has turned the spotlight on companies that make graphics processing units, the de-facto chips for running AI-related workloads. Nvidia - the dominant player in the GPU space - has been the biggest beneficiary of the trend thus far. Nvidia stock is up ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/08/30/is-amd-the-dark-horse-of-the-ai-silicon-race/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/08/30/is-amd-the-dark-horse-of-the-ai-silicon-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64eed67d6101a172f40ed9fe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/08/30/is-amd-the-dark-horse-of-the-ai-silicon-race/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/08/30/is-amd-the-dark-horse-of-the-ai-silicon-race/amp/",
-      "publishedDateTime": "2023-08-30T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

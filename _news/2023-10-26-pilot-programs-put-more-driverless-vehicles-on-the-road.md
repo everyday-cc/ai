@@ -75,20 +75,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "UH-Maui hits the gas on driverless tech"
-    excerpt: "UNIVERSITY OF HAWAII photo The University of Hawaii Maui College is making history as it helps develop driverless vehicle ... Passon said. Like artificial intelligence, the software requires ..."
-    publishedDateTime: 2023-10-23T01:07:00Z
-    webUrl: "https://www.mauinews.com/news/local-news/2022/01/uh-maui-hits-the-gas-on-driverless-tech/"
-    type: article
-    provider:
-      name: The Maui News
-      domain: mauinews.com
-    quality: 39
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.mauinews.com/images/2022/01/15052516/os-uhmc-driverless-AI-Racing-Tech.jpg"
-        width: 600
-        height: 399
-        isCached: true
   - title: "Regulators Suspend Cruise's Driverless Taxis From Operating In San Francisco"
     excerpt: "Driving Taxis The Department of Motor Vehicles has suspended permits that allowed robo-taxi company Cruise to operate in San Francisco. That comes after an incident earlier this month, in which one of the company's fully driverless vehicles hit and dragged a pedestrian."
     publishedDateTime: 2023-10-25T14:12:00Z

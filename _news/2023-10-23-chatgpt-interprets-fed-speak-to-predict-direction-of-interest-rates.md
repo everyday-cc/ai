@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Datasaur Launches LLM Lab to Build and Train Custom ChatGPT and Similar Models"
+    excerpt: "Datasaur, a leading natural language processing (NLP) data-labeling platform, launched LLM Lab, an all-in-one comprehensive interface for"
+    publishedDateTime: 2023-10-27T20:09:00Z
+    webUrl: "https://www.datanami.com/this-just-in/datasaur-launches-llm-lab-to-build-and-train-custom-chatgpt-and-similar-models/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 35
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/datasaur-ai-square-300x272.png"
+        width: 300
+        height: 272
+        isCached: true
 
 secured: "gta0pJLsEbQClC/L0zXbjjwJltBhiVjxmHrCBUi3/9wdrdnWnqZZBMcqnmlHYSmWDx+Lqcs6Bl1M5g1DGplIGcLQp9hAfGKktaXfb5Fc+DA+3/EXmNyTaCfYmEzCmsvVra0+MQZga3XXzX5ysX8WZ6u4pYCyKMEiZbHvXWBqf3FHMhJ0rhE1UH8PO8r/j4/g321Lcnc0Kk5csaAVEY4p6LHdLa4cjX0wL1naE2GwNUbGsmhiQLySFBCapk9EaTjVkyrhTv8KsSK19NioFMVwaT4HHamP3YR5MP8SYIw+MCTPKsrZvH6tIYGlSJO7RrCvg1L1OFShz4MViT8hzRT+kx0Dy/bPkq1w2jLbW4Qv1aFNh4p9n22diOOHEM6jsZ6zwA5M9u/TwWMuw8RWJCLhjnnUPuAy58Mii7VjQUK3MF3QPSyXUeZANCCr/lI3cAQXXyaBME8jXTmBg8RsWH17tW3Rp6Y9n0l/hXAcvSLOQx1Ss716BwFta6JDsTa7atK3NwqEbmT2XN4ic2N1vHvW+g==;pn54/yswHk+vJia8M4EjXw=="
 ---

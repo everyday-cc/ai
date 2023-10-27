@@ -15,6 +15,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "BKAroVlB83k6tGL80d3L1j/BELQDPaIN9+Ni+DmolEqxfNKCgQeIPUtxtkL3Z9BKqADd5TKL/woqGxNcfVwdannLeJhus055VOHjxmMsYpRMsUiEaxQnZwv25fuF6MuEssd6V2n193EIRTX8TPp2ZFMf3uDguHI6lAqs6XfKpEZvzleMy1mamqajcKTln2c5c6TZG9LmzzZTq/nVbQHA8368TMjc9XLXHXCIWPzXX6546yJhcybfcAL4lFiZ0ytDvKFJV3Jo1quZBC3xmqDMEFkbOkxEmY1pxmIh+ZHDuMsaukXt2oCMtDHAbMDqpVI9i0VSeGfbaqGYp4fiyruNge02keRkMCIIRrmeG34Hcxc=;C1NP+r9T8UH8moo6zufOLg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/b/33/b33c23eb-a3f3-501e-8f06-ed423bc61868/6508430e6b8c8.image.jpg?crop=905%2C475%2C372%2C0&resize=905%2C475&order=crop%2Cresize"
+    width: 905
+    height: 475
+    isCached: true
+
+secured: "xRiBcv1ELTcjaQLBmiDDKrjkI8R1Bnuy9tCOcjxo2fml2QO25rn14ao7OCQ02fT8zx0IF3YyEc/i/gV9GADx1ITasgh4gf+8mbL/mZ3m/irh2HJESd1fz12zWWQgezZfAPzEYeudUYvNn2gxAaSZWgOeDAujZOWLKR6is01OfTRkrtqw5VuCan+671D0p4wuIzehtWT3Pw4vurXQdOj5abNQsjdpnYV6UDk8Ut62+hc1g8z/1rnS90SKaDjTVqNWwbB6kJUVX9jGm2ww9E5VF5B1xF64HMvMyEfEw4s81+bspwEAFz4Cyv5SA5fXPuhyo58bobiNa8YRzL7JYjC2oUCgx0Cm/NohFyJHqYIAXLo=;AslADYXKXUdlDr7MWmM0HQ=="
 ---
 

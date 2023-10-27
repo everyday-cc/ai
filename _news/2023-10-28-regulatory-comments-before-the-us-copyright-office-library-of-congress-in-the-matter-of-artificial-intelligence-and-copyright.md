@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-27T19:31:00Z
 originalUrl: "https://www.rstreet.org/outreach/regulatory-comments-before-the-u-s-copyright-office-library-of-congress-in-the-matter-of-artificial-intelligence-and-copyright/"
 webUrl: "https://www.rstreet.org/outreach/regulatory-comments-before-the-u-s-copyright-office-library-of-congress-in-the-matter-of-artificial-intelligence-and-copyright/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: R Street Institute

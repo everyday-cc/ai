@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2023/10/25/artificial-intelligence-in-the-c
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/25/artificial-intelligence-in-the-c-suite-a-senior-leaders-guide-for-maximizing-ais-potential/?amp=1"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 800
         height: 431
         isCached: true
+  - title: "AI in the C-Suite? Why We’ll Need New Laws to Govern AI Agents in Business"
+    excerpt: "Two legal experts are calling for us to adapt laws to the possibility of AI agents operating in business and even running companies."
+    publishedDateTime: 2023-10-27T18:40:00Z
+    webUrl: "https://singularityhub.com/2023/10/27/ai-in-the-c-suite-why-well-need-new-laws-to-govern-ai-agents-in-business/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 17
 
 secured: "skB5bsZnaV56+s1fBVb+B8LSJEL+QMX4BhlLDoXeYX1VngnnY1MJZBjoNWSjRnicXJV7npMQ79I37zvQWwgiUOh29z0rGXg74zAWfBjQqQAc8MjJDtbh/SXegdDZTQBteYDTPWxPLoIpoDZm7oywv6wywoB7DCDEKd8tWYZL/Erl+KFSwXnIk7B35Tu/WWbYA4Orsfuy7HxlXWFMHlKSOXcDWAwCykMAGzp86RlYjH0ra+IKc3m5tAW5KAb7huQPOyI9aMJn2O/CZ+p1LbrSxJDdB2HiQ3QBGK8BHnEeVYOUJfKZfvih6HMFomfJvjRrP11kigC6SZfzzzcOEGaqjuZSWLO92cDpj7zQu3kBK/DtRflQADDY8YDvQpdHM7xPeYfX4GQcTU21+XEQzq6rhQzZd+cXokZ5ppBB37dg8cDz9W8XiSsduoSFsFgZm6R6XDc80/h37gFWfb+NU/v99JWErXtg/Cs8HsPwHLKfx3tbjD0EAHqT1Yrl0Mh3SNd0M2NhOcZcQj1XB/VTrU7Jfw==;RLWe2OSqkU4SPdDFcEuDYA=="
 ---

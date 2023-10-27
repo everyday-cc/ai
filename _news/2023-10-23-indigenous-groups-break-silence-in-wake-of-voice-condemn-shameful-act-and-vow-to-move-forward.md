@@ -28,22 +28,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 34
-  - title: "Australians' rejection of the Indigenous Voice in constitutional vote is shameful, supporters say"
-    excerpt: "Indigenous campaigners who wanted Australia to create an advisory body representing its most disadvantaged ethnic minority say its rejection in a constitutional referendum was a “shameful act.”"
-    publishedDateTime: 2023-10-23T04:39:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/australians-rejection-indigenous-voice-constitutional-vote-shameful-supporters-104215038"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-rejection-indigenous-voice-constitutional-vote-shameful-supporters-104215038"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-rejection-indigenous-voice-constitutional-vote-shameful-supporters-104215038"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 31
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_f08e92769a8a052c791b711116fa1a7c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Australians’ rejection of the Indigenous Voice in constitutional vote is shameful, supporters say"
     excerpt: "said he accepted the public’s verdict on the Voice. “The Australian people always get the answer right and the government absolutely accepts the result of the referendum, so we will not be moving forward with constitutional recognition,” Marles told ..."
     publishedDateTime: 2023-10-23T18:01:00Z

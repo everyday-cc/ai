@@ -1,18 +1,18 @@
 ---
 category: news
 title: "indie Semiconductor Launches Breakthrough Computer Vision Processor"
-excerpt: "indie Semiconductor (Nasdaq: INDI), an Autotech solutions innovator, has expanded its automotive camera video processor portfolio with the commercial release of iND87540, a highly integrated system-on-chip (SoC) that enables viewing and sensing capability at the vehicle's edge."
-publishedDateTime: 2023-10-24T15:41:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/10/24/9904313.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/10/24/9904313.htm"
+excerpt: "The SoC provides computer vision processing that can run a range of algorithms, enabling ADAS functions including pedestrian detection, object detection, blind spot detection, cross traffic alerts ..."
+publishedDateTime: 2023-10-24T16:33:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231024598737/en/indie-Semiconductor-Launches-Breakthrough-Computer-Vision-Processor"
+webUrl: "https://www.businesswire.com/news/home/20231024598737/en/indie-Semiconductor-Launches-Breakthrough-Computer-Vision-Processor"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Computer Vision
@@ -29,6 +29,6 @@ related:
       domain: imveurope.com
     quality: 18
 
-secured: "KvFV3K4hokJs+DApaZ3bSW7tD5oeU3HtLorQQBDQPwY8mY6YDVLMLcAgmQki/FvKLeu/hV0IhwY75TTXxUCxViw5uHkZ+0XcRD63I8rIhmTxvU5EjP3dSLJcmrIBDS2mqXMDk1FFeXKXGXtYSSitbWYvDuVjdwqWi/xBRo1R28Ldqz9Nla1bOJHsn1ALJ4/wOmmABASrscoSlRMEd7McF/Yd/TD7rJDWyNDY/EyPsWQA6Ll/+Pjwc6H2Ux8lvowwXUfLXB3pM0QxThV3ch9f8PiXWBTB/Cq1OX+U4T7TFe6m0NaI1HP0pywMQbKi5h9OfC238JmVmLq8GgarCovCxI/y/SHxVYoKtdCXeEBNhTQ=;gbS3bHdvq7udbcPMIASuXQ=="
+secured: "arLBr15ofvkxP9TbElPqScLxtYxa8/d6y7hLZzoPTGZYiOQAPbp0AWltlT6akhMeGjlz3ejoyGdgkH6dQaL7Dm4g1uZgU6DX0CJrHQ02LhslQYyCrP2fNINqC2cJRGSI3csk1JJtSH4QPNx2XSshx26PqLcRMrVciLbKdP9yZXffgBkwpgU/GTsjvTsR5fuufbGZv3l04lsWcMdoxfa89oa1m5tIk9pcKKeFbVQxqeObwWSKKJ9D6Lg415GkNwz9lCy14RHogeduVnWcuBptQY13TUpgdcVK4P7VLWOyANgHqmKJkhhBlTtRCHXpMtV4/PeZAKqgQtm1gSMmwyQMHBFQ11KIQMtd8u9ga7oeRps=;32NcL5pAC9sr/L4DZr5yKA=="
 ---
 

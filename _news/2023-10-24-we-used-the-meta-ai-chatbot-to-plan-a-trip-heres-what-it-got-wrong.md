@@ -34,6 +34,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Poe wants to be the App Store of conversational AI, will pay chatbot creators"
+    excerpt: "Ultimately, Poe wants rapid innovation across the entire conversational AI space, not to constrain progress to what it can handle internally."
+    publishedDateTime: 2023-10-27T16:56:00Z
+    webUrl: "https://venturebeat.com/ai/poe-wants-to-be-the-app-store-of-conversational-ai-will-pay-chatbot-creators/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 46
   - title: "OCBC to roll out generative AI chatbot for its employees globally"
     excerpt: "Called OCBC ChatGPT, the chatbot is powered by ChatGPT’s large language models. Users can type a query in natural language into OCBC ChatGPT via Microsoft Teams, and the chatbot will produce answers based on accessible text-based information on the web."
     publishedDateTime: 2023-10-24T06:32:00Z

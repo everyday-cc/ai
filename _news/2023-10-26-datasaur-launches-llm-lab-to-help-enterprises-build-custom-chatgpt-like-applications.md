@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Datasaur Launches LLM Lab to Build and Train Custom ChatGPT and Similar Models"
+    excerpt: "Datasaur, a leading natural language processing (NLP) data-labeling platform, launched LLM Lab, an all-in-one comprehensive interface for"
+    publishedDateTime: 2023-10-27T20:09:00Z
+    webUrl: "https://www.datanami.com/this-just-in/datasaur-launches-llm-lab-to-build-and-train-custom-chatgpt-and-similar-models/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 35
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/datasaur-ai-square-300x272.png"
+        width: 300
+        height: 272
+        isCached: true
   - title: "ChatGPT interprets 'Fed speak' to predict direction of interest rates"
     excerpt: "This has major implications for forecasting policy decisions and modelling economic expectations. By leveraging natural language processing and textual analysis, ChatGPT demonstrated proficiency in classifying the nuanced language of central bankers ..."
     publishedDateTime: 2023-10-23T10:26:00Z

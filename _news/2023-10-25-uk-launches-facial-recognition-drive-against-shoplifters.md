@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Police force trials facial recognition technology"
-    excerpt: "Facial recognition technology can be used by police to scan large groups of people and by running photos through an image database known as a \"watch list\". Chris Philp, MP for Croydon South and minister for crime, policing and fire said the technology was being used by the Metropolitan Police at large events such as football matches."
-    publishedDateTime: 2023-10-26T05:51:00Z
-    webUrl: "https://www.bbc.com/news/articles/c51jzy42p19o"
-    ampWebUrl: "https://www.bbc.com/news/articles/c51jzy42p19o.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/c51jzy42p19o.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9b65/live/d1e43770-7370-11ee-8623-0398dceccf41.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Massive facial recognition search engine now blocks searches for children’s faces"
     excerpt: "PimEyes, a public search engine that uses facial recognition to match online photos of people, has banned searches of minors over concerns it endangers children, reports The New York Times."
     publishedDateTime: 2023-10-23T22:24:00Z
@@ -55,10 +39,10 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Three arrests after force trials facial recognition"
+  - title: "Police force trials facial recognition technology"
     excerpt: "Facial recognition technology can be used by police to scan large groups of people and by running photos through an image database known as a \"watch list\". Chris Philp, MP for Croydon South and minister for crime, policing and fire said the technology was being used by the Metropolitan Police at large events such as football matches."
-    publishedDateTime: 2023-10-26T06:50:00Z
-    webUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o?at_medium=RSS&at_campaign=KARANGA"
+    publishedDateTime: 2023-10-26T05:51:00Z
+    webUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o?at_medium=social&at_ptr_name=facebook_page&at_campaign_type=owned&at_campaign=Social_Flow&at_link_origin=BBC_News%3A_East_of_England&at_link_type=web_link&at_bbc_team=editorial&at_link_id=E9BB4184-73CC-11EE-8964-CFE5D89D5CC3&at_format=image"
     ampWebUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
     type: article
@@ -70,22 +54,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9b65/live/d1e43770-7370-11ee-8623-0398dceccf41.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "TTD EO launches facial recognition attendance"
-    excerpt: "Tirupati: Facial Recognition Attendance System for TTD employees was launched at TTD Administration Building in Tirupati on Thursday.Starting the system, TTD EO AV Dharma Reddy said that more"
-    publishedDateTime: 2023-10-27T03:34:00Z
-    webUrl: "https://www.thehansindia.com/news/cities/tirupathi/ttd-eo-launches-facial-recognition-attendance-832694"
-    ampWebUrl: "https://www.thehansindia.com/amp/news/cities/tirupathi/ttd-eo-launches-facial-recognition-attendance-832694"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/tirupathi/ttd-eo-launches-facial-recognition-attendance-832694"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/10/27/1392674-facial-recognition-attendance-system.jpg"
-        width: 1200
-        height: 720
         isCached: true
   - title: "TTD introduces facial recognition for employees"
     excerpt: "The Tirumala Tirupati Devasthanams (TTD) management formally introduced Facial Recognition System (FRS) for its employees at its administrative building on Thursday. Executive Officer A.V. Dharma Reddy, who formally launched the system, announced that the ..."
@@ -103,21 +71,19 @@ related:
         width: 1200
         height: 882
         isCached: true
-  - title: "TTD starts facial recognition system for marking attendance"
-    excerpt: "The TTD EO underlined that facial recognition system will eliminate the potential for time fraud and human errors that occurred in the traditional attendance system. \"This technology marks attendance by identifying facial features. It not only saves time but also ensures that attendance records are accurate,\" he stated."
-    publishedDateTime: 2023-10-26T21:02:00Z
-    webUrl: "https://www.deccanchronicle.com/nation/in-other-news/271023/ttd-starts-facial-recognition-system-for-marking-attendance.html"
-    ampWebUrl: "https://www.deccanchronicle.com/amp/nation/in-other-news/271023/ttd-starts-facial-recognition-system-for-marking-attendance.html"
-    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/in-other-news/271023/ttd-starts-facial-recognition-system-for-marking-attendance.html"
+  - title: "Face Search Engine PimEyes Blocks Searches of Children’s Faces"
+    excerpt: "Concerns about children’s privacy have led PimEyes, the public face search engine, to ban searches of minors. The PimEyes chief executive, Giorgi Gobronidze, who is based in Tbilisi, Georgia, said that technical measures had been put in place to block such searches as part of a “no harm policy.”"
+    publishedDateTime: 2023-10-23T16:52:00Z
+    webUrl: "https://www.nytimes.com/2023/10/23/technology/pimeyes-blocks-searches-childrens-faces.html"
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 59
+      name: The New York Times
+      domain: nytimes.com
+    quality: 54
     images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-652ovhkibhg82kh6on274ihkn1-20180205010800.Medi.jpeg"
-        width: 800
-        height: 448
+      - url: "https://static01.nyt.com/images/2023/10/20/multimedia/00PimEyes-Children-qhwb/00PimEyes-Children-qhwb-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Australian federal police tested controversial facial recognition search engine, FOI documents reveal"
     excerpt: "Exclusive: The AFP told Senate estimates it is now aware the PimEyes and FaceCheck.ID platforms may have been tested for operational purposes on around 10 occasions The Australian federal police have tested a controversial facial recognition search engine ..."
@@ -135,66 +101,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "The Standard View: The Met's use of facial recognition technology fights crime and raises hackles"
-    excerpt: "Facial recognition technology — indeed any form of artificial intelligence — has a habit of raising hackles. Its use by police, even to prevent crime and protect people from harm, is no different. But should it be? The Standard reveals today that the ..."
-    publishedDateTime: 2023-10-27T11:05:00Z
-    webUrl: "https://www.standard.co.uk/comment/metropolitan-police-facial-recognition-technology-arsenal-tottenham-b1116393.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 41
-    images:
-      - url: "https://static.standard.co.uk/2023/10/27/10/01/BARRY%20DOWNARD%20SECURITY.jpg?width=1200&width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Essex police use intrusive facial recognition for first time"
-    excerpt: "LIVE facial recognition was introduced in Essex for the first time this week as police across Britain ramp up use of the intrusive technology. Southend officers carried out targeted operations with the camera system on Tuesday, while Chelmsford police followed suit today."
-    publishedDateTime: 2023-10-25T16:16:00Z
-    webUrl: "https://morningstaronline.co.uk/article/essex-police-use-intrusive-facial-recognition-for-first-time"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 39
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/PA-40271538.jpg"
-        width: 1185
-        height: 789
-        isCached: true
-  - title: "Travel industry adoption of facial recognition grows"
-    excerpt: "Travelers are most likely to be among the first to experience the mass worldwide commercial deployment of facial recognition."
-    publishedDateTime: 2023-10-25T15:26:00Z
-    webUrl: "https://www.biometricupdate.com/202310/travel-industry-adoption-of-facial-recognition-grows"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/28114521/airport-passenger-processing-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Essex Police facial recognition technology op in Southend"
-    excerpt: "Three people have been arrested, including one on suspicion of rape, as police used facial recognition technology in two Essex high streets this week. Live Facial Recognition technology was utilised for the first time in Essex in Southend High Street on ..."
-    publishedDateTime: 2023-10-26T12:51:00Z
-    webUrl: "https://www.echo-news.co.uk/news/23881211.essex-police-facial-recognition-technology-op-southend/"
-    type: article
-    provider:
-      name: Echo news
-      domain: echo-news.co.uk
-    quality: 19
-  - title: "Can facial recognition be justified for espionage in war?"
-    excerpt: "With military conflicts asserting themselves into the story of the twenty-first century, a parallel debate is being waged about the uses for FRT in warfare."
-    publishedDateTime: 2023-10-27T11:30:00Z
-    webUrl: "https://www.biometricupdate.com/202310/can-facial-recognition-be-justified-for-espionage-in-war"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
 
 secured: "AReuQ1PhX3TzzYlQGl66POHhta8M9Gzh75M/VnogueGRJv5H045W/fsQ3BdKGSNOMzprCg3cIcnW7s7IHBiREBWY0WKd5rSCXzS7v/nV7BMM6wemy7PA7AzmJI6veq9kq5HNRx0oKpVMD51gO0sTWtDUd69SoeSi0nw8OOgWYeGQEjv2I96nCt5R2ZxcYaby4htEveUafXLRDecFBNSlB/m+D1C2vHRYORLAsO9xm4tWdv4Mp6Ue0Hm0gKOKa0A4ZTjIIlNMFV+C/Nn+irpy36HogFEYXafyWjam01GP7twMUAgdvPWoOeGSfZuHP+Uq3YNx7yWLYTVALTKoDhlZRWMKITtrStrJiUnSfficIb78/byER8SUX0fNeITkOjOfxFUSLVteX4Re7P8U0WQSZ1uhFwYsWwal+nRD3x7n+YVFSuWo4V0H1mT3KQ0hJTFfaSfLCGFYysEy7f7o0g32d1K0WODGlyL0O3dTOZB6enOKkkFVWSqNadkivaliKJ6Z9WEWrBKy44mRutOx+olLKQ==;rb5Z3xND04zybDNr+Re3JQ=="
 ---

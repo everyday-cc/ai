@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-27T19:02:00Z
 originalUrl: "https://venturebeat.com/ai/confessions-of-an-ai-deepfake-propagandist-using-elevenlabs-to-clone-jill-bidens-voice/"
 webUrl: "https://venturebeat.com/ai/confessions-of-an-ai-deepfake-propagandist-using-elevenlabs-to-clone-jill-bidens-voice/"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: VentureBeat

@@ -5,8 +5,10 @@ excerpt: "In this article, we will look at the 5 jobs that artificial intelligen
 publishedDateTime: 2023-10-24T11:49:00Z
 originalUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/"
 webUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/"
+ampWebUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/?amp=1"
+cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/?amp=1"
 type: article
-quality: 17
+quality: 59
 heat: -1
 published: false
 
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2016/11/25220327/22074401_m.jpg?auto=format&expires=1729900800&w=400&h=225&fit=crop"
+    width: 400
+    height: 225
+    isCached: true
 
 related:
   - title: "How AI Can Impact Companies"
@@ -229,6 +238,6 @@ related:
       domain: openaccessgovernment.org
     quality: 19
 
-secured: "/L4JpWcN/bfgdLsTaqVNzhBKmbAui0TNc/qIwvBB+XvSk7/gsI/z990nRDTx20/HmoebK8G7I/S9p4phY0ZAGtISwlz2/jImvraJRDvpnlXdyXfgaYP5+67Ux8qSCJt2QLIeSaJyA5vofszSWQd/M2NHnevNmJXHV8DUVjGd+drNxB01Bi+4j70LeXVrsuCxZVU0Wj3n/4qCy9Vd2YxPr5ikTOcI/PUq901r/rGH95My2w5Hqv/K/ubvW+1lY4eXgo64JjHfnx34WwwDU4T2TiZ+3A7yhKccAJas9zGPoHLr3cDN0Jz2RU4RkltokgO4bDIZUJxdO4EzkNA6h3TOTaaE7xurNlgU7GyKH1LkX3oIVWpf1y4+jrBeG2FFc7uj8eAeGU6h975SbS4kndWzgDUFAEPJHORgm4xSkBEWTWxNKTCtY2jzOmy0hnxU37o0Rb6d22H9cwGh+iDRkseiKFBLgcjHXaVCkjoJQipIyvhHXAPSsZh8qMX5ebiCf2/Mm4CKxdjDQzOFLmucPiiP4Q==;S3lqLQfCQNbprz2WjZUNKA=="
+secured: "TBdipY2dzNk7RNzojR4yZEa2NWTxrGSyalFz2U4sk0uGigCpo8avvFndZoNo+pQmZ4ws0Xgu88yFOXu3bF70IqZNCzQZkQOQUkoKO4cTQEVOS7YL05tonVxwEF3MdKlPxpzf5LhjOBoD+Mw2QkWZ8za5tC2z1qopvdNblb4fRzDN9ONanxOlr529nTaN0TsKMd0nYWT2PK9q4DzvQTayq/9lpHAhdmzAiIaAsqXHytX00gussl9RsDTMxZln9oQvTbjQduyn+Gt5Wj4vY4dx7N/XQtbQJXsPsW74G0Mc0Xta+vsbICcBuJSkH7rwuxCHuGC75FEl31BlGCPo4ltrTLdudM7yLBPKT0eTcnW1C6M=;G4Au6RQBIi0z4ehRFqGccw=="
 ---
 

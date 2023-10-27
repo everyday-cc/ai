@@ -18,22 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Oxford University develops AI tool to track virus variants"
-    excerpt: "An artificial intelligence tool has been developed to predict new variants of viruses before they emerge. Researchers at the University of Oxford and Harvard Medical School claim the model could have predicted mutations of the Covid-19 virus during the pandemic."
-    publishedDateTime: 2023-10-23T05:05:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-england-hampshire-67173334"
-    ampWebUrl: "https://www.bbc.co.uk/news/uk-england-hampshire-67173334.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-hampshire-67173334.amp"
+  - title: "AI Needs to Be Regulated Like Nuclear Energy"
+    excerpt: "AI labs compare AI risk on par with the existential and safety risks of nuclear, yet they dismiss regulations."
+    publishedDateTime: 2023-10-24T15:48:00Z
+    webUrl: "https://time.com/6327635/ai-needs-to-be-regulated-like-nuclear-weapons/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/14FC1/production/_125435958_capture.png"
-        width: 1024
-        height: 576
-        isCached: true
+      name: Time
+      domain: time.com
+    quality: 47
 
 secured: "ZTXaumFuRcSJtaf3c0Lr9YQEqwS92gj8T61VGeaPwL651eqLi2op2tPJ6Apv2GuH2gLvocqZs/sp2hUspRHRPc7LFc11fN4bFeiLcCpPm17QSJyVB5T52vZrXIi/DN+lXz518EwO3PR/S0wqdxg5wWHOQ8yb+ssQ50fuK6zaqTVONwg0pEwMew0lyFYuO4gh1DEJSDNGvEubtjkpST9unAp/IJM6y1/c7luRzsHx29BpADuv8DY9Cq6hhO4CuUJONb+gjDt6UBU+nYYIRUhk7VLsxWitoHMbNjg0o8DMv7VVw7v+Nu26O976ySagg3mrZZVYnr6TDJgJyuWpII1FJvYLpXSGELqh0vl/x/gnXVTa/NlJmYWPusJ8hKnc9XrdVm4H7/UwXY5vnXR1nXu+sOsCsYg47BfE9fr9x6cpfTee7s/uv+ZiMtGjDUAEuSMJEu/VCl2/NytQ0PwCMZgOPWEYSJ8ky18o8BFDs50Pd+bo4EgnjzyC5jNOgyh9yiI8BS2nFroonTYn9Gz0AqwFUg==;9ZTcwrTf6lYQrlp9IvApdw=="
 ---

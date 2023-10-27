@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-23-facial-recognition-tech-helps-nab-86-year-old-man-who-stole-dead-brothers-identity-in-1965.md",
+      "title": "Facial recognition tech helps nab 86-year-old man who stole dead brother's identity in 1965",
+      "excerpt": "An 86-year-old man accused of assuming his brother’s identity decades ago and using it to double dip on Social Security benefits has been convicted of several charges, caught by facial recognition technology that matched the same face to two different identities,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnewyork.com/news/national-international/maine-man-86-convicted-of-assuming-dead-brothers-identity-in-1965/4616931/",
+      "originalUrl": "https://www.nbcnewyork.com/news/national-international/maine-man-86-convicted-of-assuming-dead-brothers-identity-in-1965/4616931/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC New York",
+        "domain": "nbcnewyork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-facial-recognition-saw-through-man-who-stole-dead-brothers-identity.md",
+      "title": "Facial Recognition Saw Through Man Who Stole Dead Brother’s Identity",
+      "excerpt": "Guillermo Gonzalez died as an infant in 1939, but his brother Napoleon, now 86, used his identity for decades. He was convicted of fraud last week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/08/23/us/napoleon-gonzalez-identity-fraud-brother-maine.html",
+      "originalUrl": "https://www.nytimes.com/2023/08/23/us/napoleon-gonzalez-identity-fraud-brother-maine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/23/us/oakImage-1692801408659/oakImage-1692801408659-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-he-assumed-his-dead-brothers-identity-in-1965-facial-recognition-technology-caught-him.md",
       "title": "He assumed his dead brother’s identity in 1965. Facial recognition technology caught him",
       "excerpt": "Oct. 26, 2022 The facial recognition technology is used by the Maine Bureau of Motor Vehicles to ensure that no one obtains multiple credentials or credentials under someone else’s name ...",
@@ -1173,92 +1259,6 @@
       "provider": {
         "name": "ABC",
         "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-real-estate-computer-vision-leader-restbai-named-2023-innovation-award-winner-for-technology.md",
-      "title": "Real estate computer vision leader Restb.ai named 2023 Innovation Award Winner for Technology",
-      "excerpt": "LAS VEGAS, Aug. 10, 2023 (GLOBE NEWSWIRE) -- Restb.ai, a global leader in computer vision and artificial intelligence (AI) solutions for the real estate industry, was named the 2023 Inman Innovator Award Winner for Top Technology, besting hundreds of nominations of leading technology firms.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/10/9862987.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/10/9862987.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml.globenewswire.com/Resource/Download/680d4129-1a79-4cf7-a00c-970eceb3e11b",
-          "width": 2701,
-          "height": 1618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-ai-in-computer-vision-market-size-industry-report-and-forecast-to-2030.md",
-      "title": "AI in Computer Vision Market Size, industry Report and Forecast to 2030",
-      "excerpt": "The global AI in Computer Vision market size was valued at USD 4332.54 million in 2022 and is expected to expand at a CAGR of 22.12 Percentage during the forecast period, reaching USD 14367.51 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33707994/ai-in-computer-vision-market-size-industry-report-and-forecast-to-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33707994/ai-in-computer-vision-market-size-industry-report-and-forecast-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33707994",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33707994",
-      "publishedDateTime": "2023-08-10T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

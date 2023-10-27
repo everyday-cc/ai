@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-07-researchers-turn-to-harry-potter-to-make-ai-forget-about-copyrighted-material.md",
+      "title": "Researchers turn to Harry Potter to make AI forget about copyrighted material",
+      "excerpt": "Their unlearning technique may also be more effective for fictional texts than non-fiction, since fictional worlds contain more",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/researchers-turn-to-harry-potter-to-make-ai-forget-about-copyright-material/",
+      "originalUrl": "https://venturebeat.com/ai/researchers-turn-to-harry-potter-to-make-ai-forget-about-copyright-material/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_child_wizard_with_dark_hair_and_glasses_waves_a_wand_an_5e85ac77-f867-4fde-84ed-22aa8c214dc4.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-06T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-10-06-samsung-exynos-2400-detailed-70-faster-cpu-xclipse-940-gpu-with-amd-rdna-3-graphics.md",
       "title": "Samsung Exynos 2400 detailed – 70% faster CPU, Xclipse 940 GPU with AMD RDNA 3 graphics",
       "excerpt": "The upcoming flagship chipset was introduced at Samsung System LSI Tech Day in San Jose, California. Samsung Semiconductor held its System LSI Tech",
@@ -1387,40 +1440,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-vultr-launches-gpu-stack-and-container-registry-for-ai-model-acceleration-worldwide.md",
-      "title": "Vultr Launches GPU Stack and Container Registry for AI Model Acceleration Worldwide",
-      "excerpt": "Vultr, the world’s largest privately-held cloud computing platform, announced the launch of the Vultr GPU Stack and Container Registry to enabl",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230926776516/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230926776516/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

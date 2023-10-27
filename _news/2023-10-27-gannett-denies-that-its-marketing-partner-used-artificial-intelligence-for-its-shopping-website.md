@@ -5,7 +5,12 @@ excerpt: "The media company Gannett denied that it published material created by
 publishedDateTime: 2023-10-26T23:09:00Z
 originalUrl: "https://abcnews.go.com/Business/wireStory/gannett-denies-marketing-partner-artificial-intelligence-shopping-website-104393509"
 webUrl: "https://abcnews.go.com/Business/wireStory/gannett-denies-marketing-partner-artificial-intelligence-shopping-website-104393509"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/gannett-denies-marketing-partner-artificial-intelligence-shopping-website-104393509"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/gannett-denies-marketing-partner-artificial-intelligence-shopping-website-104393509"
 type: article
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: ABC
@@ -15,6 +20,12 @@ topics:
   - AI
   - AI in Marketing
 
-secured: "16lEYJDUyVEDAB5gq2O8Ctb2ev+tg1T4rj2OiOKgzgx/IN+5O4w+CDvoeMVymFP3/BdPHDf5viBbkRpOO8yS28RbrYkcfWmL3lfZKj/Nld4uiYUAUM9Sjqn85EqilfotgoHWJc/vtINyx6QCDvhIbOj1pkKgz5mGHMYFRXv9eXoHySXZr9HgMn4PbrAGekfJmdQmDnNMkY1yQxeTgllulYkEBb5mRQG/9IeS76uY2bTB00o3t1PxPkYwDyCoHya75WPkgJfuL6IZBGfoxnIYCbFwmqZWU1RTDaACIA1wlusvOCA2bGny8xKhlIpyijjWeeW0lUTAYQPtLASW1X+hvUHr6wtpM2U4eay1R13u9i7twYrlxIHfWRvi3OkJSV5vgC+bP+uO6Kos8JUi91qn2yfU4bokVWpKs8BKHEEPSxr/OJMkQRvWLO+dX/IJpio7Ndt5B7gH3Lofa9oAY3hQ2zMOK5+heTdbMUMhJP2Z//MSyNN72zJiYgf6uYAeYRPqhBUm+FB6kCfCI1gSaeiJnQ==;T08HznuuDU75/ArcOvsW+g=="
+images:
+  - url: "https://s.abcnews.com/images/Business/wirestory_4fe6da583217293f8fa2bd5d0b74d285_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+secured: "e4enSpYrrFMy1S0w4Yw80FMyNocayIiUn5vycZnhFTFgBzXiEwBEjCL+hRMrYB7g58cs7NyGosaQs+kUbAyh8o545hbZ9WWSksX/+B7pLN1PRs643dVsNxlF2d6U9GFvRJvfiDO/ft5ApZwrkuY1qKqXAd64SvQgARiMCBpJT1Wm+4EZ5rETvIgWUCnSBmrLa6K6D5NBhyffi7fV+bpcWZv21nmxHRr8Qgy3ZbwGIvKFTqdU76YO1oFJ7CMBs3q8petH+tEdMMxZlGkRKH8CAIXQIohixInXGLvQGlcCNjWXOpD8/5XPvrEHjhTxIlz99gkL4jNbkWWemc7ZN3B7ZkzMK/qpgWON2dN/1tJ4cfc=;gqjdg21BATmsdgp7PEyJ7A=="
 ---
 

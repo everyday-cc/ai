@@ -64,6 +64,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "3 Ways Leaders Can Start Unlocking the Benefits of Artificial Intelligence"
+    excerpt: "After decades of hype and hysteria, artificial intelligence is finally ready for primetime. To date, A.I. has largely been reserved for the largest companies. But now, with the advent of generative pre-trained A."
+    publishedDateTime: 2023-10-27T20:32:00Z
+    webUrl: "https://www.inc.com/joe-galvin/3-ways-leaders-can-start-unlocking-benefits-of-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 15
 
 secured: "w5pd3gk+nIN/6FdGybQid9C5tlezhi6qtxWk5YthZJbU/cTTR5LH1igXflLWm6XAFC14MiCF88w3c+EU764aUQdedckFSHQus0ZUejPJwoEicZe7DCgkhmQz02A0SLYT7i2WYRX7LPTV9uXhZJPXDk5tbobPuhtBNmvibidzeCH8h2EgKcroVs3vSkVvtnuWQV+Pqhx8vRXk8Ir8eLfTHZUuGm2ce4PrTYv6RpzYIZqibPFNV555ZhEN215vbnHWemfvCNqNiHofB6aPYlA9cH2tIFHlaUHmn57qigRb2DrM1Y1z3sAEAqO3xK/DOGoAZGNAnsMgJGGpRg69WxyeJar8JSHcZquX0gWZ7NGuloZpBceoby2kMcHvsnfMJybuRRBuj21bzWyqm17pAK9GyheXCbpDc2XE6/8eZnpxjDjwRTrsMk66VAMg0sNPQq3+lWmIJFAci5TlXoqkoocwwaolD9nQE70DiDNyMh/dJ7Vx7zzW73LgsI2+wYsCEzQPJts1v5F9n+QVld87i421ug==;6ELrJztuLdJTGZ82XrUVkw=="
 ---

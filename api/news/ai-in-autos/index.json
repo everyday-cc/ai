@@ -62,7 +62,7 @@
       "originalUrl": "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -814,49 +814,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-17-baidu-unveils-latest-version-of-llm-ernie-40.md",
-      "title": "Baidu unveils latest version of LLM, Ernie 4.0",
-      "excerpt": "Visitors learn about robot products suitable for home application at Baidu World 2023 in Beijing, on Oct 17, 2023. [Photo by Zhu Xingxin/chinadaily.com.cn]",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_6.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202310/17/652e535da3109068cafe46a2.png",
-          "width": 564,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T23:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-17-baidu-says-its-ai-is-in-the-same-league-as-gpt-4.md",
       "title": "Baidu says its AI is in the same league as GPT-4",
       "excerpt": "Hong Kong CNN — Chinese tech giant Baidu is officially taking on GPT-4. On Tuesday, the company unveiled ERNIE 4.0, the newest version of its artificial intelligence chatbot that it directly ...",
@@ -920,6 +877,40 @@
       "provider": {
         "name": "Seattle Times",
         "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-baidu-unveils-latest-version-of-llm-ernie-40.md",
+      "title": "Baidu unveils latest version of LLM, Ernie 4.0",
+      "excerpt": "Robin Li, co-founder and CEO of Baidu, unveils the latest version of its large language model, Ernie 4.0 at Baidu World 2023 in Beijing, on Oct 17, 2023. [Photo by Zhu Xingxin/chinadaily.com.cn]",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_3.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1040,19 +1031,62 @@
       ]
     },
     {
-      "path": "_news/2023-10-16-rise-of-artificial-intelligence-creates-heavy-workload.md",
-      "title": "Rise of artificial intelligence creates heavy workload",
-      "excerpt": "Internet giants, power networks and communications companies are being urged to consider the massive load that comes with the rise of artificial intelligence.",
+      "path": "_news/2023-10-16-gitex-global-2023-self-driving-police-patrol-unveiled-in-dubai.md",
+      "title": "Gitex Global 2023: Self-driving police patrol unveiled in Dubai",
+      "excerpt": "Vehicle can detect criminal behaviour, recognise faces, and read car number plates Dubai: At the Gitex Global 2023 tech show in Dubai, the Dubai Police today unveiled its self-driving security ...",
       "sourceUrl": null,
-      "webUrl": "https://thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210",
-      "originalUrl": "https://thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210",
+      "webUrl": "https://gulfnews.com/technology/consumer-electronics/gitex-global-2023-self-driving-police-patrol-unveiled-in-dubai-1.98781602",
+      "originalUrl": "https://gulfnews.com/technology/consumer-electronics/gitex-global-2023-self-driving-police-patrol-unveiled-in-dubai-1.98781602",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.thewest.com.au/publication/C-12218210/d051b7f903dfb1b2696983c637662c5ffe1d7619-16x9-x0y0w1280h720.jpg?imwidth=1200",
+          "url": "https://imagevars.gulfnews.com/2023/10/16/Dubai_Police_Boost_Residential_Security_with_Self-Driving_Patrols1-1697454310268_18b3829439a_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/technology/consumer-electronics/gitex-global-2023-self-driving-police-patrol-unveiled-in-dubai-1.98781602",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/consumer-electronics/gitex-global-2023-self-driving-police-patrol-unveiled-in-dubai-1.98781602",
+      "publishedDateTime": "2023-10-16T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-rise-of-artificial-intelligence-creates-heavy-workload.md",
+      "title": "Rise of artificial intelligence creates heavy workload",
+      "excerpt": "Internet giants, power networks and communications companies are being urged to consider the massive load that comes with the rise of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.perthnow.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218192",
+      "originalUrl": "https://www.perthnow.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218192",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.perthnow.com.au/publication/C-12218192/d051b7f903dfb1b2696983c637662c5ffe1d7619-16x9-x0y0w1280h720.jpg?imwidth=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -1062,13 +1096,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210.amp",
-      "cdnAmpWebUrl": "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210.amp",
-      "publishedDateTime": "2023-10-15T20:23:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-15T20:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The West Australian",
-        "domain": "thewest.com.au",
+        "name": "Perth Now",
+        "domain": "perthnow.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1312,49 +1346,6 @@
       "provider": {
         "name": "Government Technology",
         "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-the-latest-trends-improving-the-automotive-industry.md",
-      "title": "The Latest Trends Improving the Automotive Industry",
-      "excerpt": "Here are the latest trends improving the automotive industry. 1. AI, 2. Electric Vehicle Adoption, 3. Vehicle Purchases Shift Online, 4. Autonomous Driving",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/featured/the-latest-trends-improving-the-automotive-industry/",
-      "originalUrl": "https://enterprisetalk.com/featured/the-latest-trends-improving-the-automotive-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/10/The-Latest-Trends-Improving-the-Automotive-Industry-2.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/featured/the-latest-trends-improving-the-automotive-industry/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/the-latest-trends-improving-the-automotive-industry/amp/",
-      "publishedDateTime": "2023-10-12T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
         "images": null,
         "publishers": null,
         "authors": null

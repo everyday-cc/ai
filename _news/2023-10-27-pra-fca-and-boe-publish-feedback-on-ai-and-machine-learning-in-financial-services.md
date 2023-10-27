@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-27T16:07:00Z
 originalUrl: "https://www.jdsupra.com/legalnews/pra-fca-and-boe-publish-feedback-on-ai-1675178/"
 webUrl: "https://www.jdsupra.com/legalnews/pra-fca-and-boe-publish-feedback-on-ai-1675178/"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:

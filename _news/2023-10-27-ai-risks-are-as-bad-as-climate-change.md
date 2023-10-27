@@ -56,6 +56,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "AI risk similar to climate crisis, world cannot afford to delay response: Google Deepmind Chief"
+    excerpt: "In a recent interview, Demis Hassabis said that he anticipates the creation of an international body like IPCC and CERN for the regulation of AI."
+    publishedDateTime: 2023-10-24T13:58:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-similar-to-climate-crisis-world-cannot-afford-to-delay-response-google-deepmind-chief-8997821/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 62
+    images:
+      - url: "https://images.indianexpress.com/2023/10/Demis-Hassabis-1.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Google DeepMind Chief Believes AI Risk Is Similar To Climate Crisis"
     excerpt: "Demis Hassabis said he wishes to see the creation of an IPCC and CERN-like international body for the regulation of AI."
     publishedDateTime: 2023-10-25T06:44:00Z
@@ -70,15 +86,6 @@ related:
         width: 2500
         height: 1501
         isCached: true
-  - title: "AI risk similar to climate crisis, world cannot afford to delay response: Google Deepmind Chief"
-    excerpt: "In a recent interview, Demis Hassabis said that he anticipates the creation of an international body like IPCC and CERN for the regulation of AI."
-    publishedDateTime: 2023-10-24T13:58:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-similar-to-climate-crisis-world-cannot-afford-to-delay-response-google-deepmind-chief-8997821/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 22
 
 secured: "cwEpVFZ2Z9bBYp50jRMwpi1XvRRzbmHZ/11TBKqDTl2rKKqKrulCNMfsV42XHL+KCeHsNKG7qIVqq3jvWMQ4lQqn2VeDVE7g9nyK9eys3JE7JkPD0woKf+8GucJEvogPQP1PqpOFugakfLmyjj75Xx24kUdGijwEPSI5XRD2CFWVx9FMdHSjjNg+9MLVDAC5NFUh7wgv0KdxhFTJ7ZB8QDUu3ndVmhKvATtzq1YvvAUs/QbyD54Gxmw3//dwuoh8uxHquv+v/RTpPLO2GTs0nfeQeXpULTU8PS/1LtRQ3tcsuq60FK3BDfNSfdAk1b8UYrSGWVxWLV4dreAZd7fu80D8v2TbRiR06bD9S/cwPU4=;2t1VvG2d0gZHVgaIrYbPgA=="
 ---

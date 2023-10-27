@@ -141,6 +141,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "5 Jobs Artificial Intelligence Can’t Replace"
+    excerpt: "In this article, we will look at the 5 jobs that artificial intelligence can’t replace. We have also discussed the potential impact of artificial intelligence on jobs in another article."
+    publishedDateTime: 2023-10-24T11:49:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/"
+    ampWebUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/?amp=1"
+    cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/?amp=1"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 59
+    images:
+      - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2016/11/25220327/22074401_m.jpg?auto=format&expires=1729900800&w=400&h=225&fit=crop"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Can Generative AI Be The Smartest Member Of Your Company?"
     excerpt: "To support the effective, safe and ethical use of generative AI, you'll need a solid foundation of high-quality data underpinned by governance."
     publishedDateTime: 2023-10-24T12:15:00Z
@@ -220,15 +236,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "5 Jobs Artificial Intelligence Can’t Replace"
-    excerpt: "In this article, we will look at the 5 jobs that artificial intelligence can’t replace. We have also discussed the potential impact of artificial intelligence on jobs in another article."
-    publishedDateTime: 2023-10-24T11:49:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 17
 
 secured: "bcZoGMFxdf/z9V2lMOOPaArBrYW3YOc+SCyMqB+FhBqNmnWUdVXaar894NVtgGtafEe2IMLDsH8qR5p+NcL2wqJT2+c1VWJbAnWYoLmi/Lz8QMIHMEsvMMaIyE4pXtJq0Y7lLEAjpBQ0tqrOxvSLVCFiBD/hJQp7h32ew0+D9rf1RphJgofBDgXX1YiLUFRhfJ+aTknRhAto8NTL7JbtYvVBj3dNvcr1Faz7OtMrk4B4IeHN2dUngujMpg95oU3eQDCrxs2xu64K7m4dxApzs8f5Ur9bSBUCiXpAJp70r/a75vY53HjE8r+5Oiq6+hA6utfkFViH4yQviAzXUKEIdahaQaRAyZSTtN7K3J/yKUmNo74Js81EnLyFwG9w0Sj9Oel1SeUm22kBCMrEhqEMUERz/Lj/1oG0he0v5w6i7S6UeR/hjxgM3XYF4BOpbCcwOZYy0rkEy509kG0f8qBhA83+Ns4xPBvBP07BipjDYo1CAdgMUUDTSNUKOxUhxJllOqtpA4YadoEZjPmKBiTu2A==;DVZQIblyg0BubDCn9hqV+g=="
 ---

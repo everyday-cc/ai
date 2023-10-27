@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/2023/10/23/anthropic-ai-guardrails-constitut
 webUrl: "https://www.axios.com/2023/10/23/anthropic-ai-guardrails-constitution"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Google agrees to invest up to $2 bln in AI startup Anthropic -WSJ"
+    excerpt: "Oct 27 (Reuters) - Alphabet’s Google agreed to invest up to $2 billion in artificial intelligence startup Anthropic, the Wall Street Journal reported on Friday, citing people familiar with the matter. (Reporting by Chavi Mehta in Bengaluru; Editing by ..."
+    publishedDateTime: 2023-10-27T20:17:00Z
+    webUrl: "https://www.reuters.com/article/google-antrhopic-idUSL4N3BX52Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "AB8ezvO8XR61qMEzbulm//8ycjhzCCarssGKCV7+/WT6nTHm2iLX1qRzmtnkJ4AzMjp6MXM5UBrGz6bg85z1FU0ZWf9HmLS6PTlQ1EoKsztJt9NTvIwpanH0HW1R5FstCM49azju6hcL0q8nbi2VdU8+ZgJCXebgEhcqf1Vn//ZCCmESDnWfCfYbDm9bTJKMuqhefrpF4OjL1bO+xpB/k0rEftwmgwyHje8qZB+LQtq463SZ11Ds0J595DOkX4dIwfIrRAUedX9y3jlYRDO4xcEeeb1juKoPDHzyk+OJhtgJ8znR+mewZsmbgDoUBTEm7h7NPSv6BuzidWBzke3Rk650Q6QyYTAeori5Q9n95Fzv3tyIXUKkcwHYJA0b0udc5pWrnfwA8m7R57XJOEhx9e+3t+MDqJpd/EjwAdxq6kw0/2LQWknqrSBT7XrpVlO8AoWg9RNv+NKFkT942dE9p35cZcf6zcXux+Om5OGfMxymUKXoJVcU5fXcHIKwM9n8N+0GHxVh2eZU+PiaPz024Q==;wxCXYJQ+HKoo3Bwd+/jdiw=="
 ---

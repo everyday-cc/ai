@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/brand-studio/how-fincover-fintech
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036"
 type: article
 quality: 65
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
       name: Business Journal Daily
       domain: businessjournaldaily.com
     quality: 4
+  - title: "Unlocking Career Potential in the Digital Age: Harnessing Fintech Innovations through Aptitude Mastery"
+    excerpt: "The digital age has ushered in an era wherein technology is at the forefront of nearly every industry. Fintech—a portmanteau for the term financial technology—is one of the most dynamic and fastest-evolving sectors in this digital revolution."
+    publishedDateTime: 2023-10-27T17:49:00Z
+    webUrl: "https://techbullion.com/unlocking-career-potential-in-the-digital-age-harnessing-fintech-innovations-through-aptitude-mastery/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
 
 secured: "111LK+P9aIFzUpHXusu5frh1GW8p3YccTtDrZW6+5WV3yp2bkJON8xofJ7blZ75Qs5bd0Ipm1qvxFVjifmdcz13SwuSo83P8A/VsT+X1Ek2gul1ujxayoCAZonnB5sFf1/HZZs7jJ15UnOv+Kx6JmleNIF5uUVeZ+YA2T2PFpInzEbLBamSr8FcgcwIW8MWLObNTbid2zPmzmGo6U9DhjP/bAhCU/VaZp3S9NtuXYKZlFLKB81CyLvyxoZqooa0b0gaArizO4+OCAP/dDj+r2K04i/KuHQz2PPU/KJuoV7B6MKvG1DOjQAdhZOqnSdJBv2jFLfblj0cwBNlPzlNm8FHG1kDu6nL6m+gtBaTz2xG5q6JOUe/7cU/H3Mpis/oTGxZYlM1DiCA0rGvNRkETH4kZmNqA140lFETYmLjX2xwmdNT8kI4+YlkMs9Qu1CQxQRb36D/3DejR8/tI1eXRSy9LjxmQA5fp9zZ9yWPm9JEGAeEDVBM925bGEc7bHWI27U3je0GsoZMETQOm4TCkVA==;tm3fylrQp1ULmoJyAqgfEA=="
 ---
