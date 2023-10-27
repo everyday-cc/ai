@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-10-23-meet-the-defiant-ai-sex-robot-starring-in-a-new-action-thriller-comic.md",
+      "title": "Meet The Defiant AI Sex Robot Starring In A New Action Thriller Comic",
+      "excerpt": "In Red Light, a four-part series from AWA Studios, a self-aware android may end up outsmarting her human creators. Forbes talks with Sarah Cho, the comic's writer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lesliekatz/2023/10/22/meet-the-defiant-ai-sex-robot-starring-in-a-new-action-thriller-comic/",
+      "originalUrl": "https://www.forbes.com/sites/lesliekatz/2023/10/22/meet-the-defiant-ai-sex-robot-starring-in-a-new-action-thriller-comic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6535ac2c7208568eccd7fe21/0x0.jpg?format=jpg&crop=1500,844,x0,y368,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lesliekatz/2023/10/22/meet-the-defiant-ai-sex-robot-starring-in-a-new-action-thriller-comic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/10/22/meet-the-defiant-ai-sex-robot-starring-in-a-new-action-thriller-comic/amp/",
+      "publishedDateTime": "2023-10-22T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-10-23-dance-therapy-class-aims-to-help-children-with-disabilities-express-themselves.md",
       "title": "Dance therapy class aims to help children with disabilities express themselves",
       "excerpt": "Dance can help children with disabilities express themselves when words fail, according to Timmins autism specialist and dance teacher Jessica Croussette.",
@@ -1173,50 +1225,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-how-robotics-automation-and-artificial-intelligence-are-enriching-the-online-print-industry.md",
-      "title": "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry",
-      "excerpt": "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online",
-      "originalUrl": "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

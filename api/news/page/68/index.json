@@ -2,6 +2,57 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2023-09-08-a-startups-ai-that-made-3d-models-from-2d-art-actually-used-human-workers.md",
+      "title": "A startup's AI that made 3D models from 2D art actually used human workers",
+      "excerpt": "A hot potato: Producing 3D artwork for video games or other projects can be grueling and tedious – a job ideal for AI automation. A young startup is attempting to fulfill that niche, but a recent report alleges that it exports the work to low-wage ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/100076-startup-ai-made-3d-models-2d-art-actually.html",
+      "originalUrl": "https://www.techspot.com/news/100076-startup-ai-made-3d-models-2d-art-actually.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2022/09/2022-09-13-image-20.jpg",
+          "width": 1919,
+          "height": 1885,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-underestimated-unprepared-are-we-ready-for-the-next-stage-of-ai.md",
       "title": "Underestimated & Unprepared: Are We Ready For The Next Stage Of AI",
       "excerpt": "Are we grossly underestimating AI's potential? In my mind, yes we are. The global community is largely unprepared for the magnitude of change AI might bring",
@@ -1150,58 +1201,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-making-a-sales-call-otterai-wants-to-listen-summarize-and-help.md",
-      "title": "Making a sales call? Otter.ai wants to listen, summarize, and help",
-      "excerpt": "This week, the 7-year-old company debuted OtterPilot for Sales, an AI assistant that automatically listens to sales calls,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/making-a-sales-call-otter-ai-wants-to-listen-summarize-and-help/",
-      "originalUrl": "https://venturebeat.com/ai/making-a-sales-call-otter-ai-wants-to-listen-summarize-and-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_an_otter_wearing_a_suit_makes_a_phone_call_1ddd067d-d43a-4df3-a6bc-a3e2b78589fe.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

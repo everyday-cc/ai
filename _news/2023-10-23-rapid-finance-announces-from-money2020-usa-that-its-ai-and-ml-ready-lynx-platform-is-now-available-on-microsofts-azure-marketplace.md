@@ -324,7 +324,7 @@ related:
   - title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
     excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
     publishedDateTime: 2023-10-25T14:58:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca&region=ca"
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
     type: article
     provider:
       name: Proactiveinvestors
@@ -408,6 +408,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 62
+  - title: "Despite the AI hype, Amazon, Microsoft, and Google are seeing cloud growth rates stall as customers try to cut costs"
+    excerpt: "Cloud customers are still scrutinizing budgets amid an uncertain economic environment."
+    publishedDateTime: 2023-10-26T22:39:00Z
+    webUrl: "https://www.businessinsider.com/amazon-microsoft-google-cloud-sales-growth-stalled-2023-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/653ab6aa0487ff031cafa92d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google Cloud fails to cash in on generative AI"
     excerpt: "The explosive growth in the demand for generative AI has been a big revenue driver for public clouds. However, while some cloud players are reaping the benefits of user demand, Google Cloud seems to be failing to cash in on one of the biggest technology opportunities in decades."
     publishedDateTime: 2023-10-25T12:06:00Z
@@ -712,6 +726,20 @@ related:
       - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4687/Rockwell-Automation-Microsoft-Photo.jpg"
         width: 1920
         height: 1028
+        isCached: true
+  - title: "Rockwell Automation and Microsoft to Leverage Generative AI Capabilities for Faster Time-to-Market"
+    excerpt: "Rockwell Automation, Inc. and Microsoft Corp. have announced an extension of their longstanding relationship to accelerate industrial automation design and development through generative artificial intelligence (AI)."
+    publishedDateTime: 2023-10-26T22:21:00Z
+    webUrl: "https://www.automation.com/en-us/articles/october-2023/rockwell-automation-microsoft-ai-productivity"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 40
+    images:
+      - url: "https://www.automation.com/getmedia/79f631fb-4257-4886-aa65-a87627bd3a27/Microsoft-news-Oct-26-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
   - title: "Microsoft took a chance by igniting the AI race, but it seems to be working out well for the company"
     excerpt: "The lesson from Microsoft's strong AI-fueled quarterly financial results is likely to push other companies to charge ahead on AI products, for better or for worse."

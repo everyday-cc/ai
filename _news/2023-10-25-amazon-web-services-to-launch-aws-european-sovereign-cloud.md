@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Amazon Web Services to Launch AWS European Sovereign Cloud"
-excerpt: "As with existing AWS Regions, customers will have the control and assurance that AWS will not access or use customer data for any purpose without their agreement, as well as access to the strongest sovereignty controls among leading cloud providers."
-publishedDateTime: 2023-10-25T05:26:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-amazon-web-services-launch-aws-european-sovereign-cloud-/2023/10/25/9904788.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-amazon-web-services-launch-aws-european-sovereign-cloud-/2023/10/25/9904788.htm"
+excerpt: "Telia uses AWS DeepRacer as part of its program to educate 2,000 staff on artificial intelligence and machine learning with AWS. “Telia Company welcomes the development of the AWS European Sovereign Cloud as a complement to Telia’s trusted cloud ..."
+publishedDateTime: 2023-10-25T05:32:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231024960766/en/Amazon-Web-Services-to-Launch-AWS-European-Sovereign-Cloud/"
+webUrl: "https://www.businesswire.com/news/home/20231024960766/en/Amazon-Web-Services-to-Launch-AWS-European-Sovereign-Cloud/"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
@@ -48,6 +48,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "t+NEi22SUc9bMdpwgXdy4ZEJOTR1Cbo9IFnUF62kugY4cd2UTxx9wAHtXi/yJJgDIrE08uWzjyQDxrq9C80LL4Vrm9GWXZJB2H7JLPfV/YBL6ntAaK0n3nqh6U/seH2Z/mTSvYVyC5ezPQxChHtvlAxC5dFo0JhFDJEpIaXJeJRfylTlKSe0Kr0xkBCeJg/SXjqIyX/Ujnp2b7vVgGBS/ikOLIILxfwNoGbS/pa0yi+xintdfPPHU7ckEJy8ZXixVl/jmWvLyCg4my1pOwz69EskY2AkLkQp+QiXbkVx8VHAzYZTVp4TyaKIabtLw3vQg8ECytF7E3y6+LYHiylUIlmnBfu0UfELuNsyX4QSnL8=;5YIywiDUo4yTkUaKfsg61g=="
+secured: "4Jf8lE4oTZ4A2Z+q9jqv9z6lkTKLWdQZjGWdSw+xKWsY+fjPK9pzLxTD9RCqvDrpGPjyWcmAWteih77WdBsTfjnaAlXpw5Jw7fhtSOTqMrL8TPxDuew5OQjV3sgM7OEtod4+0gA6ybUE0iJ9OIivGiIlrM/4VydLyYLqFy9nmtEDiAI15WIKBqof7kCvj4rj/k5BeagLDgQjumi0oj2pq1O2XnYCzcds7iS8V2P0Of5fjJG/30oc/WKtqTPcgn6an9o9q2ao0qAHEQEKTv/yBFQUOfdA10KyF9f82fGb0dsGWGycHcXBvdNeT7RUW6IS5KnSZcgE5Ao5bKCduPocXTdzqCUTUMB/cDH3siT0uCs=;CuNNq2B8PBsmN1BW5lmlJg=="
 ---
 

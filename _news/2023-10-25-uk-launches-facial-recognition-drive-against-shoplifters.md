@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Three arrests after force trials facial recognition"
+    excerpt: "Facial recognition technology can be used by police to scan large groups of people and by running photos through an image database known as a \"watch list\". Chris Philp, MP for Croydon South and minister for crime, policing and fire said the technology was being used by the Metropolitan Police at large events such as football matches."
+    publishedDateTime: 2023-10-26T06:50:00Z
+    webUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9b65/live/d1e43770-7370-11ee-8623-0398dceccf41.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Australian federal police tested controversial facial recognition search engine, FOI documents reveal"
     excerpt: "Exclusive: The AFP told Senate estimates it is now aware the PimEyes and FaceCheck.ID platforms may have been tested for operational purposes on around 10 occasions The Australian federal police have tested a controversial facial recognition search engine ..."
     publishedDateTime: 2023-10-24T00:56:00Z

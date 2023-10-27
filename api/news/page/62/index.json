@@ -2,6 +2,58 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-09-12-customer-service-and-sales-ais-role-alongside-its-human-counterparts.md",
+      "title": "Customer Service And Sales: AI’s Role Alongside Its Human Counterparts",
+      "excerpt": "As AI becomes more sophisticated, how will we maintain the symbiotic relationship between its technological capabilities and human expertise?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/09/12/customer-service-and-sales-ais-role-alongside-its-human-counterparts/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/09/12/customer-service-and-sales-ais-role-alongside-its-human-counterparts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff17f7a604d2697273b636/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/09/12/customer-service-and-sales-ais-role-alongside-its-human-counterparts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/09/12/customer-service-and-sales-ais-role-alongside-its-human-counterparts/amp/",
+      "publishedDateTime": "2023-09-12T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-is-facial-recognition-technology-racist.md",
       "title": "Is facial recognition technology racist?",
       "excerpt": "Facial recognition technology is an increasingly common part of modern life, used for everything from unlocking iPhones to advanced surveillance technology. But concerns are being raised that face ...",
@@ -1129,49 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-pwc-wins-2023-digital-innovation-of-the-year-at-international-accounting-forum-awards.md",
-      "title": "PwC wins ‘2023 Digital Innovation of the Year’ at International Accounting Forum & Awards",
-      "excerpt": "PwC was awarded the 2023 ‘Digital Innovation of the Year Award’ at the 12th annual International Accounting Forum & Awards in London, June 29, for its global suite of AI services in support of its auditors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thaipr.net/en/finance_en/3381783",
-      "originalUrl": "https://www.thaipr.net/en/finance_en/3381783",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thaipr.net/wp-content/uploads/2023/09/พื้นที่สร้างโอกาส-1.jpg",
-          "width": 705,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thaipr.net",
-        "domain": "thaipr.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

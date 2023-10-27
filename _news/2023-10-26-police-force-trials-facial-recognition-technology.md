@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/articles/c51jzy42p19o.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/c51jzy42p19o.amp"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/BGiV0yH1fr1ml6eEI_3eQoyyx0g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22512651/acastro_210512_1777_deepfake_0003.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Three arrests after force trials facial recognition"
+    excerpt: "Facial recognition technology can be used by police to scan large groups of people and by running photos through an image database known as a \"watch list\". Chris Philp, MP for Croydon South and minister for crime, policing and fire said the technology was being used by the Metropolitan Police at large events such as football matches."
+    publishedDateTime: 2023-10-26T06:50:00Z
+    webUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9b65/live/d1e43770-7370-11ee-8623-0398dceccf41.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "UK launches facial recognition drive against shoplifters"
     excerpt: "On Monday, the country’s police authorities and representatives of 13 of the UK’s biggest retailers announced the Retail Crime Action Plan."

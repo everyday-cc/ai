@@ -2,6 +2,58 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2023-08-18-google-deepmind-testing-personal-life-coach-ai-tool.md",
+      "title": "Google DeepMind testing ‘personal life coach’ AI tool",
+      "excerpt": "DeepMind, the tech firm’s artificial intelligence arm, has announced it is testing a new tool that could soon become a “personal life coach”. The project will use generative AI to perform at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool?ref=futurepedia",
+      "originalUrl": "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool?ref=futurepedia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4f5a645fc459c27cf1563fa0cb1cfd11d656d6b4/0_238_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=9435453c1931bf79d36121e3a30ec686",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool",
+      "publishedDateTime": "2023-08-17T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-the-30-young-leaders-who-are-forging-a-new-future-for-the-healthcare-industry-in-2023.md",
       "title": "The 30 young leaders who are forging a new future for the healthcare industry in 2023",
       "excerpt": "Christie also advises state and private organizations on increasing access to midwifery services and helped push for a Rhode ... dark glasses and headphones she's designing for people with mild cognitive impairment, Alzheimer's, and Parkinson's.",
@@ -1175,58 +1227,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-how-ai-marketing-makes-some-firms-dumber-others-far-smarter-6-critical-factors-for-competitive-advantage.md",
-      "title": "How AI Marketing Makes Some Firms Dumber & Others Far Smarter: 6 Critical Factors For Competitive Advantage",
-      "excerpt": "Explains how firms are experiementing and succeeding with GenAI algorithms, foundational data overlays, prompts, KPIs and talent profiles for the best business results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/",
-      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ddd00702083dc4d53d5165/0x0.jpg?format=jpg&width=1200",
-          "width": 1140,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/amp/",
-      "publishedDateTime": "2023-08-17T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

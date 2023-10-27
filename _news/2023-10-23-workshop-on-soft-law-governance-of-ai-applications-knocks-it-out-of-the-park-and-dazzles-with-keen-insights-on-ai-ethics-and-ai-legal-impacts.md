@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/23/workshop-on-soft-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/23/workshop-on-soft-law-governance-of-ai-applications-knocks-it-out-of-the-park-and-dazzles-with-keen-insights-on-ai-ethics-and-ai-legal-impacts/amp/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "UN chief appoints 39-member panel to advise on international governance of artificial intelligence"
+    excerpt: "U.N. Secretary-General António Guterres on Thursday announced the appointment of a 39-member global advisory panel to report on international governance of artificial"
+    publishedDateTime: 2023-10-26T23:06:00Z
+    webUrl: "https://www.kxnet.com/news/national-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/"
+    ampWebUrl: "https://www.kxnet.com/news/national-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-kxnet-com.cdn.ampproject.org/c/s/www.kxnet.com/news/national-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: KX News
+      domain: kxnet.com
+    quality: 45
+    images:
+      - url: "https://www.kxnet.com/wp-content/uploads/sites/16/2020/09/cropped-Google-logo.png?strip=1"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Real Insights on Artificial Intelligence"
     excerpt: "AI could disrupt all aspects of daily life – transforming how we work, live and play. What’s its true potential, and how do we manage the risks?"
     publishedDateTime: 2023-10-25T16:10:00Z

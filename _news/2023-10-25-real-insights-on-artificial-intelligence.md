@@ -41,6 +41,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "UN chief appoints 39-member panel to advise on international governance of artificial intelligence"
+    excerpt: "U.N. Secretary-General António Guterres on Thursday announced the appointment of a 39-member global advisory panel to report on international governance of artificial"
+    publishedDateTime: 2023-10-26T23:06:00Z
+    webUrl: "https://www.kxnet.com/news/national-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/"
+    ampWebUrl: "https://www.kxnet.com/news/national-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-kxnet-com.cdn.ampproject.org/c/s/www.kxnet.com/news/national-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: KX News
+      domain: kxnet.com
+    quality: 45
+    images:
+      - url: "https://www.kxnet.com/wp-content/uploads/sites/16/2020/09/cropped-Google-logo.png?strip=1"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Ethics and Practical Applications of AI Agents in US Business Today: Digital Worker Forum"
     excerpt: "The International Digital Worker Association (IDWA) is thrilled to unveil the Digital Worker Forum, where experts from Microsoft, Google, IBM, NVIDIA, Meta, AutomationAnywhere, UiPath, and other tech giants will answer these and many more questions on November 8, 2023."
     publishedDateTime: 2023-10-25T18:50:00Z

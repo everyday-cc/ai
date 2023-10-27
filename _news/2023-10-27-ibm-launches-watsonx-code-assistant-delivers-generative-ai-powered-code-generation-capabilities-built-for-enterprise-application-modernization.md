@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-26T21:37:00Z
 originalUrl: "https://www.datanami.com/this-just-in/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise-application-modernization/"
 webUrl: "https://www.datanami.com/this-just-in/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise-application-modernization/"
 type: article
-quality: 3
+quality: 20
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
@@ -65,6 +66,6 @@ related:
       domain: ummid.com
     quality: 34
 
-secured: "C70ITOGzSsF+mIWwXvJQ5Tx0qqcQpexxA6juKvpFElxcLFRRx/Skxh/NcerstcMq55yMqPGYXpbuYbuy5BzowgL+8uDLntkuSFc1PpNxC/u8XOv22+5ge8BtqFQ4FOoPBUcRANscqA0bMXwdSZB2SWKqNs8lc3RdZWUzWs8cOuBzXNwZTZ5ua4BmqMxhVH96Jr8tOmGvzCR5/Z7XoXbzAathzADq6jZLyJp3S7bmWLXNmMUce81iaq1mYPCvWYqPr2aF7wTYxxmaKuofXveV3To4Ls/rKWkyZ8LYI6+kUOXLooMdgb/78RrF2lpGnDYQE8ADDJVOVYqs2gKqNkjkPXG0M2bWxWQPQhHk4PBcs3E=;bo9UwOaSApKWUSEPDfZrrg=="
+secured: "VD2gxysiQtLKyoc42bUGLYHWmO/XYYH2MvWclxtKLuNbDGSuRxFx8ucmnNUyPFybyIPTNqXkcN2UHSiLMD6bAELSyJGqz7AmHSnlFoNIJ61tefKWc0CXSdCKc6FfvDeyrNLJq7wR5AjQhpzQy8I0xU/5y4gvuY8k7MDpWWyUmR1lbwk7ga1tDJjcFroshCx6nSCml1BxSMNqqKyZlVGkBu62+H8c3dHYZRCI8cyJW/blJ4AOD3NYy5SnDNAymbWpvdtOACuwgQ9FC1UD09dete9eAh5EbMKDqdkBcOykYnL12Nc6PGHgASrg0v2vLv71Ra5SscIrLilfqOUYQx2ETOkP4oRwX+ahGrMz6L1kEuBi2yso3Q8QWpGkKdU8AF7sAsFaVW1QdDWyiw+KZAu3xYMYrcrv2PhHCOL0olcHbNLsf8/eofmPGTuWD720WP/qggkr2BZg9GMeomEkOr01k6Q2pBwQH7IQOGVrYgHeyvbuwKSeTe3zO4rATKnNRVShNOMzBn7Hq6AS5NLucOMZ2A==;WLUc5z0Su18ln0AD5ai3gw=="
 ---
 

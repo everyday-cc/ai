@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-26T19:22:00Z
 originalUrl: "https://www.americanbanker.com/news/ibms-ceo-arvind-krishna-outlines-pivot-to-generative-ai"
 webUrl: "https://www.americanbanker.com/news/ibms-ceo-arvind-krishna-outlines-pivot-to-generative-ai"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://arizent.brightspotcdn.com/dims4/default/70a3049/2147483647/strip/true/crop/4000x2100+0+281/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fef%2F82%2Ffd2313f840418f43a3c84a8e2a30%2F403488784.jpg"

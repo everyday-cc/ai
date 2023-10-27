@@ -2,6 +2,49 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2023-08-06-artificial-intelligence-gains-state-lawmakers-attention.md",
+      "title": "Artificial intelligence gains state lawmakers’ attention",
+      "excerpt": "HARTFORD, Conn. >> As state lawmakers rush to get a handle on fast-evolving artificial intelligence technology, they’re often focusing first on their own state governments before imposing restrictions on the private sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.staradvertiser.com/2023/08/05/breaking-news/artificial-intelligence-gains-state-lawmakers-attention/",
+      "originalUrl": "https://www.staradvertiser.com/2023/08/05/breaking-news/artificial-intelligence-gains-state-lawmakers-attention/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.staradvertiser.com/wp-content/uploads/2023/08/web1_14071682-e35665bc86274e58855471163d80553f.jpg",
+          "width": 760,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.staradvertiser.com/2023/08/05/breaking-news/artificial-intelligence-gains-state-lawmakers-attention/amp/",
+      "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/08/05/breaking-news/artificial-intelligence-gains-state-lawmakers-attention/amp/",
+      "publishedDateTime": "2023-08-05T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Honolulu Star-Advertiser",
+        "domain": "staradvertiser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-06-self-driving-shuttles-headed-to-detroit-select-residents-will-qualify-for-free-rides.md",
       "title": "Self-driving shuttles headed to Detroit; select residents will qualify for free rides",
       "excerpt": "A number of Detroit’s older residents and those with disabilities who don’t qualify for paratransit services could have a chance beginning next year to use self-driving shuttles to get to ...",
@@ -1133,49 +1176,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-toyota-companies-ponyai-partner-to-advance-production-of-driverless-robotaxis.md",
-      "title": "Toyota companies, Pony.ai partner to advance production of driverless robotaxis",
-      "excerpt": "WHAT IS ARTIFICIAL INTELLIGENCE (AI)? They will run on Pony.ai’s robotaxi network platform, PonyPilot+. \"The joint venture combines Pony.ai's world-class autonomous driving technology and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/fox-news-tech/toyota-companies-ponyai-partner-advance-production-driverless-robotaxis",
-      "originalUrl": "https://www.foxbusiness.com/fox-news-tech/toyota-companies-ponyai-partner-advance-production-driverless-robotaxis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/cd282e2b-89bc-4ef6-acdc-d616ea7c9d90/40696e12-42cf-43da-809a-a40e73dd2660/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/fox-news-tech/toyota-companies-ponyai-partner-advance-production-driverless-robotaxis.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/fox-news-tech/toyota-companies-ponyai-partner-advance-production-driverless-robotaxis.amp",
-      "publishedDateTime": "2023-08-04T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

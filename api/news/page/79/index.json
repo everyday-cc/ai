@@ -2,6 +2,58 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2023-08-31-kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers.md",
+      "title": "KX ACCELERATES REAL-TIME ANALYTICS, AI, AND MACHINE LEARNING FOR GOOGLE CLOUD CUSTOMERS",
+      "excerpt": "With native support for Python, SQL, and the ability to process time series and vector data in real-time, KX's technology gives data scientists, data engineers, and application developers the ability to combine real-time, historical, and vector embeddings for smarter, faster business decision making.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers-1032596010",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers-1032596010",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1866445/KX_Logo.jpg",
+          "width": 400,
+          "height": 204,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-accessing-your-on-premises-network-and-ibm-cloud-vpc-using-a-single-vpn-connection.md",
       "title": "Accessing your on-premises network and IBM Cloud VPC using a single VPN connection",
       "excerpt": "How to connect to your IBM Cloud and on-premises environments using a single Client-to-Site VPN connection.\nThe post Accessing your on-premises network and IBM Cloud VPC using a single VPN connection appeared first on IBM Blog.\n",
@@ -1097,49 +1149,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-chinas-baidu-rolls-out-chatgpt-rival-to-public.md",
-      "title": "China's Baidu rolls out ChatGPT rival to public",
-      "excerpt": "China's Baidu rolled out its ChatGPT rival ERNIE Bot to the public on Thursday, in a major leap for the country's tech sector as it aims to cash i",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106989699/Chinas-Baidu-rolls-out-ChatGPT-rival-to-public",
-      "originalUrl": "https://menafn.com/1106989699/Chinas-Baidu-rolls-out-ChatGPT-rival-to-public",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-08/31/AFP_efbb8image_story.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

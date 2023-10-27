@@ -2,6 +2,57 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-10-04-the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence.md",
+      "title": "The Amazing Ways Chinese Tech Giant Alibaba Uses Generative Artificial Intelligence",
+      "excerpt": "Not to be outdone in the generative artificial intelligence (AI) race, China-based tech giant Alibaba has recently unveiled a number of its own tools and models. Its flagship is its ChatGPT challenging large language model (LLM) called Tongyi Qianwen ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651d0310ebb3a26f024bea02/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-10-03T23:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-lawsuit-man-claims-he-was-improperly-arrested-because-of-misuse-of-facial-recognition-technology.md",
       "title": "Lawsuit: Man claims he was improperly arrested because of misuse of facial recognition technology",
       "excerpt": "ACLU: False detainment from the software is more likely to affect Black people. A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial ...",
@@ -1136,49 +1187,6 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-ibm-and-espn-use-ai-models-built-with-watsonx-to-transform-fantasy-football-data-into-insight.md",
-      "title": "IBM and ESPN use AI models built with watsonx to transform fantasy football data into insight",
-      "excerpt": "Discover how ESPN and IBM Watson are serving up billions of AI-powered insights to the 11 million people who play fantasy football.\nThe post IBM and ESPN use AI models built with watsonx to transform fantasy football data into insight appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-watson-and-espn-use-ai-to-transform-fantasy-football-data-into-insight/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-watson-and-espn-use-ai-to-transform-fantasy-football-data-into-insight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T05:00:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

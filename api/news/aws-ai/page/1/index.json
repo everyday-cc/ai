@@ -1335,25 +1335,43 @@
     {
       "path": "_news/2023-10-10-supernova-festival-how-massacre-unfolded-from-verified-video-and-social-media.md",
       "title": "Supernova festival: How massacre unfolded from verified video and social media",
-      "excerpt": "BBC Verify has pieced together the events of the weekend's festival bloodbath using video and social media posts that we have verified, and facial recognition technology. Some of the festival-goers can be seen in the same footage looking up at the dark wisps above their heads. Others are oblivious and keep dancing.",
+      "excerpt": "They had gathered in a remote area of southern Israel for the Supernova festival - an event that had promised dance, music, art and drinks at a secret location. Ticket holders were told, nearer the time, to head to a site north of the Re'im kibbutz, about 6km (3.7 miles) east of Gaza. The party's organisers promised a \"journey of unity and love\".",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/world-middle-east-67056741.amp",
-      "originalUrl": "https://www.bbc.co.uk/news/world-middle-east-67056741.amp",
+      "webUrl": "https://www.bbc.com/news/world-middle-east-67056741.amp",
+      "originalUrl": "https://www.bbc.com/news/world-middle-east-67056741.amp",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/12B67/production/_131374667_97b713fd-bb80-4987-b17a-49008c8054fb.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.bbc.com/news/world-middle-east-67056741.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-middle-east-67056741.amp",
       "publishedDateTime": "2023-10-10T09:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

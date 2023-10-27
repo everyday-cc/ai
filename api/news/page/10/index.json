@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-10-19-amazon-is-finally-offering-free-drone-delivery-for-prescriptions.md",
+      "title": "Amazon is finally offering free drone delivery for prescriptions",
+      "excerpt": "If you order your medications through Amazon Pharmacy, you could soon have a drone deliver them for free within 60 minutes of ordering. With this service, Amazon seeks to reduce the time window between consumers feeling sick and getting treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amazon-is-finally-offering-free-drone-delivery-for-prescriptions/",
+      "originalUrl": "https://www.zdnet.com/article/amazon-is-finally-offering-free-drone-delivery-for-prescriptions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b7df58db92ebf3c2d9ceabcfdb1235323535f7e1/2023/10/18/b90bc1db-fabe-403a-a2e4-2f1586e92ddf/12321.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-is-finally-offering-free-drone-delivery-for-prescriptions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-is-finally-offering-free-drone-delivery-for-prescriptions/",
+      "publishedDateTime": "2023-10-18T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai.md",
       "title": "TED AI 2023: A historic symposium on benefits, risks, and applications of AI",
       "excerpt": "Hosted by Anderson and entrepreneur Sam De Brouwer, the first day of TED AI 2023 featured a marathon of speakers split into four blocks by general subject: Intelligence & Scale, Synthetics & Realities,",
@@ -1135,57 +1187,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-chatgpt-creator-partners-with-abu-dhabis-g42-in-middle-east-ai-push.md",
-      "title": "ChatGPT Creator Partners With Abu Dhabi’s G42 in Middle East AI Push",
-      "excerpt": "The partnership with G42, which is chaired by the UAE’s influential national security adviser Sheikh Tahnoon bin Zayed Al Nahyan, will focus on delivering OpenAI’s generative AI models across sectors spanning financial services to energy and healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6325389/chatgpt-openai-g42/",
-      "originalUrl": "https://time.com/6325389/chatgpt-openai-g42/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2023/10/AP23157511535295.jpg?quality=85",
-          "width": 7082,
-          "height": 4722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

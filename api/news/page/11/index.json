@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-10-18-chatgpt-creator-partners-with-abu-dhabis-g42-in-middle-east-ai-push.md",
+      "title": "ChatGPT Creator Partners With Abu Dhabi’s G42 in Middle East AI Push",
+      "excerpt": "The partnership with G42, which is chaired by the UAE’s influential national security adviser Sheikh Tahnoon bin Zayed Al Nahyan, will focus on delivering OpenAI’s generative AI models across sectors spanning financial services to energy and healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6325389/chatgpt-openai-g42/",
+      "originalUrl": "https://time.com/6325389/chatgpt-openai-g42/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/10/AP23157511535295.jpg?quality=85",
+          "width": 7082,
+          "height": 4722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-ey-and-ibm-team-up-on-ai-to-automate-hr-processes.md",
       "title": "EY and IBM team up on AI to automate HR processes",
       "excerpt": "EY plans to tap IBM's Watsonx Orchestrate to automate HR processes like drafting job descriptons and analyzing employee feedback surveys.",
@@ -243,6 +294,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-18-deepmind-wants-to-use-ai-to-solve-the-climate-crisis.md",
+      "title": "DeepMind Wants to Use AI to Solve the Climate Crisis",
+      "excerpt": "DeepMind, the Google-owned artificial intelligence lab, has been using its AI expertise to tackle the climate change problem in three different ways, as Sims Witherspoon, DeepMind’s climate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/wired-impact-deepmind-ai-climate-change",
+      "originalUrl": "https://www.wired.co.uk/article/wired-impact-deepmind-ai-climate-change",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/652eadf475839a12b76f0625/16:9/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us.md",
       "title": "AI needs a strong code of ethics to keep its dark side from overtaking us",
       "excerpt": "A more ethically responsible tech industry and AI products and services are possible. With the stakes so high, it has to be worth it. Ann Skeet and Brian Green are authors of \"Ethics in the Age of ...",
@@ -410,58 +504,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-deepmind-wants-to-use-ai-to-solve-the-climate-crisis.md",
-      "title": "DeepMind Wants to Use AI to Solve the Climate Crisis",
-      "excerpt": "WIRED spoke with DeepMind’s climate lead about techno-utopianism, ways AI can help fight climate change, and what’s currently standing in the way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/wired-impact-deepmind-ai-climate-change/",
-      "originalUrl": "https://www.wired.com/story/wired-impact-deepmind-ai-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/652eb3f04e4619c8054877c0/191:100/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     },
@@ -1101,49 +1143,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-ai-industrial-robotics-apac.md",
-      "title": "AI Industrial Robotics - APAC",
-      "excerpt": "The market size in the AI Industrial Robotics market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market volume ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/apac",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/apac",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-10-02-natural-language-processing-northern-europe.md",
+      "title": "Natural Language Processing - Northern Europe",
+      "excerpt": "The market size in the Natural Language Processing market is projected to reach US$0.96bn in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 16.22%, resulting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/northern-europe",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/northern-europe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-02-speech-recognition-northern-europe.md",
       "title": "Speech Recognition - Northern Europe",
       "excerpt": "The market size in the Speech Recognition market is projected to reach US$0.28bn in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 17.19%, resulting in a ...",
@@ -1087,40 +1130,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-205-awesome-chatgpt-prompts-you-need-to-try.md",
-      "title": "205 Awesome ChatGPT Prompts You Need to Try",
-      "excerpt": "When it comes to chatbots, the quality of the output is determined by the quality of the input! Use these ChatGPT prompts, tweak them to your business' unique needs, and leverage the power of AI and LLMs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/outlook-spotlight/205-awesome-chatgpt-prompts-you-need-to-try-news-321422",
-      "originalUrl": "https://www.outlookindia.com/outlook-spotlight/205-awesome-chatgpt-prompts-you-need-to-try-news-321422",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-29T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

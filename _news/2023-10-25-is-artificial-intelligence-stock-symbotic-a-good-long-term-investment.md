@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-25T11:31:00Z
 originalUrl: "https://www.fool.com/investing/2023/10/25/is-artificial-intelligence-stock-symbotic-a-good/"
 webUrl: "https://www.fool.com/investing/2023/10/25/is-artificial-intelligence-stock-symbotic-a-good/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/751403/artificial_intelligence_robot_examined_by_technician-gettyimages-1705905917.jpg"

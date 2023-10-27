@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/as-developers-learn-the-ins-and-outs
 webUrl: "https://www.zdnet.com/article/as-developers-learn-the-ins-and-outs-of-generative-ai-non-developers-will-follow/"
 type: article
 quality: 62
-heat: 93
+heat: 92
 published: true
 
 provider:

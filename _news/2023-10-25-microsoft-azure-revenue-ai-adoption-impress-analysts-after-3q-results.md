@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
 excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
 publishedDateTime: 2023-10-25T14:58:00Z
-originalUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca&region=ca"
-webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca&region=ca"
+originalUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
+webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
 type: article
 quality: 69
 heat: -1
@@ -398,6 +398,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 62
+  - title: "Despite the AI hype, Amazon, Microsoft, and Google are seeing cloud growth rates stall as customers try to cut costs"
+    excerpt: "Cloud customers are still scrutinizing budgets amid an uncertain economic environment."
+    publishedDateTime: 2023-10-26T22:39:00Z
+    webUrl: "https://www.businessinsider.com/amazon-microsoft-google-cloud-sales-growth-stalled-2023-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/653ab6aa0487ff031cafa92d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google Cloud fails to cash in on generative AI"
     excerpt: "The explosive growth in the demand for generative AI has been a big revenue driver for public clouds. However, while some cloud players are reaping the benefits of user demand, Google Cloud seems to be failing to cash in on one of the biggest technology opportunities in decades."
     publishedDateTime: 2023-10-25T12:06:00Z
@@ -712,6 +726,20 @@ related:
         width: 1920
         height: 1028
         isCached: true
+  - title: "Rockwell Automation and Microsoft to Leverage Generative AI Capabilities for Faster Time-to-Market"
+    excerpt: "Rockwell Automation, Inc. and Microsoft Corp. have announced an extension of their longstanding relationship to accelerate industrial automation design and development through generative artificial intelligence (AI)."
+    publishedDateTime: 2023-10-26T22:21:00Z
+    webUrl: "https://www.automation.com/en-us/articles/october-2023/rockwell-automation-microsoft-ai-productivity"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 40
+    images:
+      - url: "https://www.automation.com/getmedia/79f631fb-4257-4886-aa65-a87627bd3a27/Microsoft-news-Oct-26-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Microsoft took a chance by igniting the AI race, but it seems to be working out well for the company"
     excerpt: "The lesson from Microsoft's strong AI-fueled quarterly financial results is likely to push other companies to charge ahead on AI products, for better or for worse."
     publishedDateTime: 2023-10-25T19:32:00Z
@@ -850,6 +878,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "4WuTwFlsYc36VyZFcw7iTdr8S0/DmqFbp9iT1n8FL2COqmjho5+A/WEs5aW5vLifXFkZOMXVX2jJhjSkb2MOvLSGJA4rgu6FGhuMsQrq9t4l2wJhfQfvPPO2ROeO14TeElONjEwBL8kTYeOZMOrCGDI6mOZGv2/8yYrs7y1TpmxE3MYpGIpTnj3vU1PUEHyJqjMpvdANnM+pF98nmiaIuATH9TRBd8qEiYcxhJ7QShn6wntQE7TLQzZ970iCW3imYx6ATTk4Va5XoDsR0hAQep+v5BGIZP/QRfWfwxkbAtEPtCpmSbOJ/ZaQMbyx3UTjyQe4c76t1AHHF5o9KB0DNbDMkIEtfhFC41sdnWrQTYs=;jtH45dvXj6DX9JUCNUalOw=="
+secured: "8isCws4adPX+3vbtTmHxe6sESDVpotSFV+un68UCGnusJ9URYgYuGEqEsKNhG/vxnALokq1yABCTqg62ayTl9ANphcpoaCIsBIKqP0wtYSbl1BBOZ2IVFUtQMdj6K5WtKoqMnwRMzvRSc+RaZ37SdeaCPturWoYTnJtEap6eK6iQJ5X94Gw7rRkcgFtFtvMfCYbxpiwGM5iOiB7tchfb5ldP9PNriDLu8IGduAiAaFZ2d3aDjQf9i4nbaEYrq9l/t5AgBa8cwA7k2zwW0uv+NvLXph56hFVOzrOV6a8AvBgkUQnUhxk4hOK3XdyX6mWIV6ri4OvQKOgw8PgK+o+d8xeij02Pc12n54qqTSoDcD4=;2f3yLey2L9vz1dVbR55RxA=="
 ---
 

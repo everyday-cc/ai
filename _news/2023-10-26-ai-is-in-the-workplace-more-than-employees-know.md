@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

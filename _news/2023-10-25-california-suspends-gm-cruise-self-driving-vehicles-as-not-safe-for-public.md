@@ -108,6 +108,17 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "California DMV suspends permits for self-driving taxis"
+    excerpt: "The DMV said its autonomous vehicle regulations “provide a framework to facilitate the safe testing and deployment” of autonomous vehicle technology on California’s public roads. “When there is an unreasonable risk to public safety, the DMV can immediately suspend or revoke permits,” the DMV said."
+    publishedDateTime: 2023-10-25T10:57:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/?lv=true"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 24
   - title: "GM self-driving car subsidiary withheld video of a crash, California DMV says"
     excerpt: "The California Department of Motor Vehicles Tuesday revoked Cruise’s permits to test and operate fully driverless vehicles on the state’s roads. The California DMV said, in part, it was because Cruise,"
     publishedDateTime: 2023-10-25T21:52:00Z

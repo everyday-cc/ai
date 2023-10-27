@@ -2,6 +2,48 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-10-11-researchers-develop-age-prediction-model-for-human-brain-tissue-using-artificial-intelligence.md",
+      "title": "Researchers develop age prediction model for human brain tissue using artificial intelligence",
+      "excerpt": "The aging brain undergoes structural and cellular changes that can impact function and increase susceptibility to neurodegenerative disorders like Alzheimer's disease. Age acceleration—or the differences between biological and chronological age—in the brain can reveal insights about mechanisms and normal functions of one of the body's most important organs.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-first-to-d.jpg",
+          "width": 2030,
+          "height": 1259,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.amp",
+      "publishedDateTime": "2023-10-10T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-the-best-walmart-anti-prime-day-deals-include-laptops-robot-vacuums-and-luggage.md",
       "title": "The best Walmart anti-Prime Day deals include laptops, robot vacuums and luggage",
       "excerpt": "The best anti-Prime-Day deals we're following at Walmart is the 15.6-inch HP laptop shown above. The Windows 11 device features an Intel Pentium N200 processor, 4GB of RAM and 128 GB of storage. Regularly $249,",
@@ -491,25 +533,43 @@
     {
       "path": "_news/2023-10-10-supernova-festival-how-massacre-unfolded-from-verified-video-and-social-media.md",
       "title": "Supernova festival: How massacre unfolded from verified video and social media",
-      "excerpt": "BBC Verify has pieced together the events of the weekend's festival bloodbath using video and social media posts that we have verified, and facial recognition technology. Some of the festival-goers can be seen in the same footage looking up at the dark wisps above their heads. Others are oblivious and keep dancing.",
+      "excerpt": "They had gathered in a remote area of southern Israel for the Supernova festival - an event that had promised dance, music, art and drinks at a secret location. Ticket holders were told, nearer the time, to head to a site north of the Re'im kibbutz, about 6km (3.7 miles) east of Gaza. The party's organisers promised a \"journey of unity and love\".",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/world-middle-east-67056741.amp",
-      "originalUrl": "https://www.bbc.co.uk/news/world-middle-east-67056741.amp",
+      "webUrl": "https://www.bbc.com/news/world-middle-east-67056741.amp",
+      "originalUrl": "https://www.bbc.com/news/world-middle-east-67056741.amp",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/12B67/production/_131374667_97b713fd-bb80-4987-b17a-49008c8054fb.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.bbc.com/news/world-middle-east-67056741.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-middle-east-67056741.amp",
       "publishedDateTime": "2023-10-10T09:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1092,59 +1152,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-ai-and-the-economy-better-marketing-and-sales-good-for-consumers-but-not-statistics.md",
-      "title": "AI And The Economy: Better Marketing And Sales Good For Consumers But Not Statistics",
-      "excerpt": "Use of AI in marketing and sales will improve consumer satisfaction, with lower prices, but will not stimulate total consumer spending.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/billconerly/2023/10/10/ai-and-the-economy-better-marketing-and-sales-good-for-consumers-but-not-statistics/",
-      "originalUrl": "https://www.forbes.com/sites/billconerly/2023/10/10/ai-and-the-economy-better-marketing-and-sales-good-for-consumers-but-not-statistics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65247641829d7dd89f80f9fe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/billconerly/2023/10/10/ai-and-the-economy-better-marketing-and-sales-good-for-consumers-but-not-statistics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/10/10/ai-and-the-economy-better-marketing-and-sales-good-for-consumers-but-not-statistics/amp/",
-      "publishedDateTime": "2023-10-10T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
       ]
     }
   ],

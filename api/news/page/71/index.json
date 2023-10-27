@@ -2,6 +2,48 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2023-09-06-tennis-football-and-ibm-watsonx.md",
+      "title": "Tennis, football, and IBM watsonx",
+      "excerpt": "The process of introducing new features to the US Open digital experience has never been smoother than it was this year, thanks to watsonx.\nThe post Tennis, football, and IBM watsonx appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/tennis-football-and-ibm-watsonx/",
+      "originalUrl": "https://www.ibm.com/blog/tennis-football-and-ibm-watsonx/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T09:24:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-20-effective-ways-small-businesses-can-leverage-generative-ai.md",
       "title": "20 Effective Ways Small Businesses Can Leverage Generative AI",
       "excerpt": "From communications to customer service to coding, tech experts see a lot of ways that generative AI can boost a small business.",
@@ -1086,40 +1128,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-with-ai-future-of-hearing-aids-might-include-language-translation.md",
-      "title": "With AI, future of hearing aids might include language translation",
-      "excerpt": "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html",
-      "originalUrl": "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T21:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pacific Daily News",
-        "domain": "guampdn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

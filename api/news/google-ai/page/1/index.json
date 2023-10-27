@@ -302,19 +302,19 @@
     {
       "path": "_news/2023-10-18-deepmind-wants-to-use-ai-to-solve-the-climate-crisis.md",
       "title": "DeepMind Wants to Use AI to Solve the Climate Crisis",
-      "excerpt": "WIRED spoke with DeepMind’s climate lead about techno-utopianism, ways AI can help fight climate change, and what’s currently standing in the way.",
+      "excerpt": "DeepMind, the Google-owned artificial intelligence lab, has been using its AI expertise to tackle the climate change problem in three different ways, as Sims Witherspoon, DeepMind’s climate ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/wired-impact-deepmind-ai-climate-change/",
-      "originalUrl": "https://www.wired.com/story/wired-impact-deepmind-ai-climate-change/",
+      "webUrl": "https://www.wired.co.uk/article/wired-impact-deepmind-ai-climate-change",
+      "originalUrl": "https://www.wired.co.uk/article/wired-impact-deepmind-ai-climate-change",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/652eb3f04e4619c8054877c0/191:100/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg",
+          "url": "https://media.wired.co.uk/photos/652eadf475839a12b76f0625/16:9/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg",
           "width": 1280,
-          "height": 670,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -324,21 +324,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T04:00:00-07:00",
+      "publishedDateTime": "2023-10-18T04:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },

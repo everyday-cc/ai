@@ -57,7 +57,7 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 3
+    quality: 20
     images:
       - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
         width: 300

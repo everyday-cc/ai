@@ -2,6 +2,58 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2023-08-17-how-ai-marketing-makes-some-firms-dumber-others-far-smarter-6-critical-factors-for-competitive-advantage.md",
+      "title": "How AI Marketing Makes Some Firms Dumber & Others Far Smarter: 6 Critical Factors For Competitive Advantage",
+      "excerpt": "Explains how firms are experiementing and succeeding with GenAI algorithms, foundational data overlays, prompts, KPIs and talent profiles for the best business results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/",
+      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ddd00702083dc4d53d5165/0x0.jpg?format=jpg&width=1200",
+          "width": 1140,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/amp/",
+      "publishedDateTime": "2023-08-17T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-08-17-google-expanding-ai-capabilities-with-life-advice-tool-report.md",
       "title": "Google expanding AI capabilities with life advice tool: Report",
       "excerpt": "Google had previously showcased its first vision-language-action (VLA) model for robot control in July. This model displayed improved capabilities in terms of generalization and understanding beyond the specific robotic data it had been exposed to.",
@@ -1105,40 +1157,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-the-machine-economy-and-the-convergence-of-web3-ai-and-fintech.md",
-      "title": "The Machine Economy and the Convergence of Web3, AI and Fintech",
-      "excerpt": "Humans, software machines, and our ever-evolving hybrids are connected through fintech financial networks and anchored to blockchains. Digital production, powered and accelerated by generative AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-machine-economy-and-the-convergence-of-web3-ai-and-fintech",
-      "originalUrl": "https://www.nasdaq.com/articles/the-machine-economy-and-the-convergence-of-web3-ai-and-fintech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

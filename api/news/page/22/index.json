@@ -2,6 +2,57 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-10-11-amd-acquires-ai-software-startup-nodai-to-enhance-its-open-source-ai-capabilities.md",
+      "title": "AMD acquires AI software startup Nod.AI to enhance its Open-Source AI Capabilities",
+      "excerpt": "Advanced Micro Devices (AMD) locked its second AI software acquisition deal to compete against Nvidia’s AI prowess. The company quired Nod.AI which develop AI solution to optimize compiler-based automation software for startups,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/10/11/amd-acquires-ai-software-startup-nod-ai-to-enhance-its-open-source-ai-capabilities/",
+      "originalUrl": "https://www.gizmochina.com/2023/10/11/amd-acquires-ai-software-startup-nod-ai-to-enhance-its-open-source-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/10/amd-logo-Large.jpeg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T00:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-most-people-the-support-need-for-trustworthy-and-regulated-ai.md",
       "title": "Most people the support need for trustworthy and regulated AI",
       "excerpt": "New research outlines the benefits and risks of AI - and shows how people in different coutries have varied perceptions on the impact of regulations and governance.",
@@ -1125,48 +1176,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-researchers-develop-age-prediction-model-for-human-brain-tissue-using-artificial-intelligence.md",
-      "title": "Researchers develop age prediction model for human brain tissue using artificial intelligence",
-      "excerpt": "The aging brain undergoes structural and cellular changes that can impact function and increase susceptibility to neurodegenerative disorders like Alzheimer's disease. Age acceleration—or the differences between biological and chronological age—in the brain can reveal insights about mechanisms and normal functions of one of the body's most important organs.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-first-to-d.jpg",
-          "width": 2030,
-          "height": 1259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.amp",
-      "publishedDateTime": "2023-10-10T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
