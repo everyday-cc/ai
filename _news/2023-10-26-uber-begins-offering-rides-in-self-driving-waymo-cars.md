@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Uber begins offering rides in self-driving Waymo cars"
-excerpt: "Uber partnered with the autonomous car company Waymo, owned by Google parent Alphabet, in May. Phoenix is the first city where Uber has publicly rolled out access to Waymo's cars, in part because it is \"the largest fully autonomous service area in the world,\" according to a release."
-publishedDateTime: 2023-10-26T13:58:00Z
-originalUrl: "https://www.nbcnewyork.com/news/national-international/uber-begins-offering-rides-in-self-driving-waymo-cars/4803249/"
-webUrl: "https://www.nbcnewyork.com/news/national-international/uber-begins-offering-rides-in-self-driving-waymo-cars/4803249/"
-ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/uber-begins-offering-rides-in-self-driving-waymo-cars/4803249/?amp=1"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/uber-begins-offering-rides-in-self-driving-waymo-cars/4803249/?amp=1"
+excerpt: "Uber users in Phoenix, Arizona, will be able to ride in a fully autonomous car, Uber announced Thursday. This is the live rollout of the partnership announced in May between Uber and Waymo, the autonomous vehicle company owned by Alphabet."
+publishedDateTime: 2023-10-26T06:58:00Z
+originalUrl: "https://www.nbclosangeles.com/news/national-international/uber-begins-offering-rides-in-self-driving-waymo-cars/3252975/"
+webUrl: "https://www.nbclosangeles.com/news/national-international/uber-begins-offering-rides-in-self-driving-waymo-cars/3252975/"
 type: article
-quality: 59
-heat: 69
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: NBC Los Angeles
+  domain: nbclosangeles.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://media.nbcnewyork.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Uber just launched self-driving rides in Arizona"
@@ -42,6 +34,6 @@ related:
         height: 683
         isCached: true
 
-secured: "uf8fRiS0r0oBbiB7YEvny/kMRXbt+losOgxmZq66HMP6X2QaJ+E1B0/nnbEXQADvyAn3nYJzQPDwzjuFnacb5VJyS8TOT65x+cldYsCLJtEy69rrODNORa4IZuBLA0dWDtDtGF2CMe6raFAMU+s87oxBuqZGvaj0zm3h2kigvCoLb2qrC3/b+MXmGV/Ksmllx3mkvk3JXxWSUMwuoov7DWjUoDE6TXcWCxyUfhnPs6MXqqOHUs9HDVW9ON9xTNFYqPAydW+QGC8VYBePsEDnED6smIwpjkSfYwSAMFUTXQa0vERT2v58djkT6GwH89669H3/uApdedhWX9qKdCA1YQ6l2HZwMvE5h0r2RcTlNulhQyjsxguBLKKrd8vHVkmF7LbsBOAJ/z+gWbI2ea1n+w0cJUm9g82G5cFePwqiemt5LnfN1Mbffi2gC2TSBdkdhCn50ZJCXoa+xivbD0t5Q9kIverdwmn28lytpIX0EWDLnBfZqt1+iHYM9FH6S0eCx87eYuFd2LnSSs9SzvJ7Iw==;+GFK0hx33hKaRk27P4GpLw=="
+secured: "lDnFK6rPDh3QeQ0bZ1592w+SXT/HaS67w3Of8+298n9RNpJnBDUOFhI3ew5yrcx4TM5I+nlG+E8sFziJu8dxoBAiOgblTxvvfVxwt8id1jAnAJHue6+nqB1WZJKSO59sxeY/AfYbdo25x2EuGdz6gDBWTB6QqyWSVTIGupHgq6VGkj6URrsz/2/CMXC6jcdi30uvwf8+YtA3JcmCgQnRhJ3w0ir4vcYR9oAkpREwns+N3hJ77/zY3AHOXoxAztAWwBp0BeFnBYDZ33frlj2CXZq5Qlkdaow6M3R3VZbPnl9W/+chkhYvNRpGqIUlpOvo9QXYn4QPAv/Sy8r3XymR0AYK7SmL5FDG5eD6DYgpm+MzlMqKx4Sw8UN2GYWoY3vcYsnl8w6MZvZvrxKRgOoj9czoKxwJ2SpDmDuN6yid1KioUrWYt6c+6ZTWUwMyNg4s17UIBTQFxZwqkvRjgMSAEPVk9UlDuAvAng6rYwoJI29aNz/GirK9V6OrY9Q8VnQmIlGoWkIIlgLPjzG2K0KICg==;3UYpMQ2sBlej7rduGOt9Bw=="
 ---
 

@@ -67,6 +67,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
+  - title: "Google Maps Gains Immersive View for Routes and Other AI Features"
+    excerpt: "Google Maps is getting a new Immersive View for routes that uses artificial intelligence, Street View, and aerial images to preview every step of"
+    publishedDateTime: 2023-10-27T11:58:00Z
+    webUrl: "https://www.macrumors.com/2023/10/27/google-maps-immersive-view-for-routes/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 37
+    images:
+      - url: "https://images.macrumors.com/t/b0F9UHiXJJWqAqUQ4L9sNejSue8=/3024x/article-new/2023/10/google-maps-immersive-view-routes.jpg"
+        width: 3024
+        height: 1964
+        isCached: true
   - title: "Synechron Enhances Financial Risk Identification and Mitigation With New Artificial Intelligence-empowered RiskTech.AI Accelerators Program"
     excerpt: "Through research and development initiatives in our FinLabs we develop solutions for modernization, from Artificial Intelligence and Blockchain to Data Science models, Digital Underwriting, mobile-first applications and more. Over the last 20+ years ..."
     publishedDateTime: 2023-10-26T09:11:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/microsoft-rockwell-automation-to-br
 webUrl: "https://www.therobotreport.com/microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development/"
 type: article
 quality: 116
-heat: 616
+heat: 606
 published: true
 
 provider:
@@ -187,22 +187,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107303118-1695140793195-gettyimages-1676978506-Omarques_19092023_TECHKRK_5_of_14.jpeg?v=1698055261&w=1920&h=1080"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Microsoft's new AI assistant can go to meetings for you"
-    excerpt: "Carissa Veliz, associate professor at Oxford University's Institute for Ethics in AI, said she was also concerned about people becoming overly dependent on such tools. \"What happens if the tech fails, or it might be hacked? There might be a glitch ..."
-    publishedDateTime: 2023-10-22T22:59:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-67103536.amp?trk=public_post_comment-text"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-67103536.amp?trk=public_post_comment-text"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67103536.amp?trk=public_post_comment-text"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 76
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/41F6/production/_131468861_gettyimages-607477465.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Beyond Start Button! How AI may reshape Microsoft Windows 12"
     excerpt: "In a tech landscape where AI-powered capabilities are becoming increasingly vital, Microsoft aims to position itself at the forefront of the AI revolution. This starts with the seamless integration of advanced software support into its flagship product."
@@ -472,20 +456,17 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "DCT Abu Dhabi And Microsoft Sign Mou On Generative AI, Cloud Technologies"
-    excerpt: "The combination of the Microsoft Azure Intelligent Data Platform and Azure OpenAI Service will significantly improve operational insights, and the use of AI-powered Microsoft 365 tools will streamline workflows, enhance productivity, and elevate the ..."
-    publishedDateTime: 2023-10-22T19:41:00Z
-    webUrl: "https://menafn.com/1107283879/DCT-Abu-Dhabi-And-Microsoft-Sign-Mou-On-Generative-AI-Cloud-Technologies"
+  - title: "Rockwell and Microsoft to deliver generative AI for Industry 4.0 design"
+    excerpt: "Rockwell and Microsoft said they will combine tech to accelerate Industry 4.0 design with “industry-first” generative AI – and also to “empower” workers."
+    publishedDateTime: 2023-10-27T14:27:00Z
+    webUrl: "https://www.rcrwireless.com/20231027/internet-of-things-4/rockwell-and-microsoft-to-deliver-generative-ai-for-industry-4-0-design"
+    ampWebUrl: "https://www.rcrwireless.com/20231027/internet-of-things-4/rockwell-and-microsoft-to-deliver-generative-ai-for-industry-4-0-design/amp"
+    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20231027/internet-of-things-4/rockwell-and-microsoft-to-deliver-generative-ai-for-industry-4-0-design/amp"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 53
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/22/M_c6004image_story.jpg"
-        width: 900
-        height: 600
-        isCached: true
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 54
   - title: "Microsoft's AI bets boost cloud business, Alphabet yet to find silver lining"
     excerpt: "Google-parent Alphabet's cloud business suffered as long-time rival Microsoft's took off in the September quarter, demonstrating early signs that the Windows maker's investment in artificial intelligence was paying off."
     publishedDateTime: 2023-10-25T11:56:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Analysis-As baby boomers retire, German businesses turn to robots"
 excerpt: "With Germany's acute labour shortage leaving few candidates to take on the skilled but dirty and hazardous manual work, the company will replace him with a robot. Other small and medium-sized companies are also turning to automation as the gradual exit from the workplace of Germany's post-war \"baby boom\" generation tightens the labour squeeze."
-publishedDateTime: 2023-10-27T11:05:00Z
-originalUrl: "https://www.aol.com/news/analysis-baby-boomers-retire-german-080558256.html"
-webUrl: "https://www.aol.com/news/analysis-baby-boomers-retire-german-080558256.html"
+publishedDateTime: 2023-10-27T08:05:00Z
+originalUrl: "https://www.aol.com/analysis-baby-boomers-retire-german-080558256.html?ref=biztoc.com"
+webUrl: "https://www.aol.com/analysis-baby-boomers-retire-german-080558256.html?ref=biztoc.com"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 600
     isCached: true
 
-secured: "ru5UyziLEpj2Nm7bAxkv3mnWE6jAEP6na5pUaSum0PaKWxhSKlkBa1bT6js9SsopdDT+VW40jBYjgV1lqDOMEeV+vogzdFOxtDJGQdBEMhD6V2PWBP+d4OGt2LGAecxsfglXYdIkCeRXu6/ckgMto5wSqIh4hm7BzdPPkbQJ2xocCps9aYvoAqbKHfkNSJoiYC7IxELgxE3ofmG7hOKTL1jySBGm/8tjkps0Vc54MXjAW1ZWdw6x3fNfADHaEiEoPROO9zESh400Fh+aK/clHzNNacknZcS2kIFns9gFuaJEfBOS0KAENIVrPW92HK+kMCmUJusGm1kMOxrjkiXIPuixZ0ilNJ9c9BW25Wsae2w=;PwufTIoiMdAteVMMU4NHzg=="
+secured: "Z0j9nEqFk+aTydtUS3zo7VSI6EES4Zp3cwZ75j+q4NwQuLRnF/3zgAncuzESkkjRpqsqmAiuckfhr+EHztuNRHRTLOa5MrFdemKwiD5ekAEsc8F9zCYTnRV7HCM2oSGumjYMqSjp7Nd7x8+Ki19rTfBr9gQvVnrzfgalSQCaqkwikBr8sdig2fm13Fe+BBXyeoCH+Xl2zmcdWQ5Y9nvubpLJLcgeA3LidEqrEn2mxTatjbR+xIbWaaiPXXuvVc1ad6XYIq0MCWdI+r4oj8T2HS3inu0btLGsLB20eOv22wbdQ3hO95ZK+1YKceWKHFBjuYvoFj/DdsPSr0C9K1lDm48hxJeT/jT9RtZniY5i89o=;OypzF/L/dQJacVRlPWeygw=="
 ---
 

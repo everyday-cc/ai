@@ -75,22 +75,6 @@ related:
         width: 1069
         height: 580
         isCached: true
-  - title: "California suspends Cruise self-driving taxis - the service preparing to launch in Dallas"
-    excerpt: "Calfornia's decision to suspend General Motors-backed Cruise's permit comes as the company has been running tests in Dallas since June through the Oak"
-    publishedDateTime: 2023-10-24T20:34:00Z
-    webUrl: "https://www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/"
-    ampWebUrl: "https://www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 35
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/xahx3h403lIg1Jd-iz3n2Mi5jkI=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/LQ34RSW3KKK24OH7KW2YYF5OVM.jpg"
-        width: 830
-        height: 467
-        isCached: true
   - title: "California DMV suspends permits for self-driving taxis"
     excerpt: "The DMV said its autonomous vehicle regulations “provide a framework to facilitate the safe testing and deployment” of autonomous vehicle technology on California’s public roads. “When there is an unreasonable risk to public safety, the DMV can immediately suspend or revoke permits,” the DMV said."
     publishedDateTime: 2023-10-25T10:57:00Z
@@ -102,34 +86,6 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 24
-  - title: "California suspends Cruise self-driving vehicles in blow to GM"
-    excerpt: "California's auto regulator said on Tuesday it has suspended General Motors' Cruise autonomous vehicle deployment and driverless testing permits, saying it had misrepresented information related to the safety of the autonomous technology."
-    publishedDateTime: 2023-10-24T21:37:00Z
-    webUrl: "https://www.carsifu.my/news/california-suspends-cruise-self-driving-vehicles-in-blow-to-gm"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 24
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/10/2023-08-22-23_33_10-dpa-news-_-Photos-Release-2.17.7-Brave.png"
-        width: 800
-        height: 452
-        isCached: true
-  - title: "GM Subsidiary Cruise’S Self-Driving Car Permit Suspended In San Francisco"
-    excerpt: "In a significant move, the California Department of Motor Vehicles (DMV) has immediately suspended GM self-driving car s"
-    publishedDateTime: 2023-10-25T05:49:00Z
-    webUrl: "https://menafn.com/1107298885/GM-Subsidiary-CruiseS-Self-Driving-Car-Permit-Suspended-In-San-Francisco"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 23
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/25/I_97b1aimage_story.jpeg"
-        width: 960
-        height: 540
-        isCached: true
   - title: "GM self-driving car subsidiary withheld video of a crash, California DMV says"
     excerpt: "The California Department of Motor Vehicles Tuesday revoked Cruise’s permits to test and operate fully driverless vehicles on the state’s roads. The California DMV said, in part, it was because Cruise,"
     publishedDateTime: 2023-10-25T21:52:00Z
@@ -144,15 +100,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "California DMV suspends permits for Cruise’s self-driving robotaxis"
-    excerpt: "California's DMV has suspended GM's permit for AV deployment and testing, alleging the company has \"misrepresented\" the technology's safety"
-    publishedDateTime: 2023-10-25T18:15:00Z
-    webUrl: "https://www.cbtnews.com/california-dmv-suspends-permits-for-cruises-self-driving-robotaxis/"
-    type: article
-    provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 4
   - title: "California suspends GM Cruise self-driving vehicles as 'not safe' for public"
     excerpt: "The automaker reported on Tuesday that it lost $723 million on Cruise during the third quarter. The DMV added that Tuesday's \"decision does not impact the company's permit for testing with a safety driver."
     publishedDateTime: 2023-10-24T19:32:00Z

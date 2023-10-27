@@ -54,6 +54,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The Beatles to release new song with help of AI"
+    excerpt: "A new Beatles song, featuring the voice of late member John Lennon and developed using artificial intelligence, will be released next week, record company Universal said on Thursday (October 26)."
+    publishedDateTime: 2023-10-27T13:41:00Z
+    webUrl: "https://www.reuters.com/video/watch/idRW346027102023RP1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
   - title: "The last Beatles song: How artificial intelligence brought the Fab Four together one final time"
     excerpt: "For many years, Paul McCartney, Ringo Starr and George Harrison toiled over what they knew would be the last ever Beatles song. Haunted by the voice of their late bandmate, John Lennon, who sang gently at his piano from his home in New York, the surviving ..."
     publishedDateTime: 2023-10-26T14:00:00Z

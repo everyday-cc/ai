@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Samsung teases possible AI camera features coming to Galaxy S24 series"
+    excerpt: "Samsung is teasing new AI camera features enabled by a 200MP sensor and the Snapdragon 8 Gen 3 chip. That combo screams Galaxy S24 series."
+    publishedDateTime: 2023-10-27T11:04:00Z
+    webUrl: "https://www.androidauthority.com/samsung-galaxy-s24-ai-camera-features-zoom-anyplace-3379977/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/Samsung-Galaxy-S24-Ultra-Leaked-Render-2-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Samsung allegedly wants the Galaxy S24 to be the 'smartest AI smartphone ever'"
     excerpt: "An unnamed source says that Samsung wants to one up Google and turn the S24 series into the \"smartest AI smartphones ever.\""
     publishedDateTime: 2023-10-23T20:40:00Z

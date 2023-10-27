@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/articles/c51jzy42p19o.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/c51jzy42p19o.amp"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -189,6 +189,15 @@ related:
     provider:
       name: Echo news
       domain: echo-news.co.uk
+    quality: 19
+  - title: "Can facial recognition be justified for espionage in war?"
+    excerpt: "With military conflicts asserting themselves into the story of the twenty-first century, a parallel debate is being waged about the uses for FRT in warfare."
+    publishedDateTime: 2023-10-27T11:30:00Z
+    webUrl: "https://www.biometricupdate.com/202310/can-facial-recognition-be-justified-for-espionage-in-war"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 19
 
 secured: "yeT1meNrChd4/4QmHY4IYoSc7Sltq22YjIh/lcxCSJNaJ/MdhKNsmeCS/JSLXEcfejcmo8PuBrRZ3s9xuU/aIJAf3Q0oCXKg8vAh10bb8gS0tJ4AU0UySMAiW/yu0WG0gHoBECY2rn/HxdeLruqwzdLU//rJGvw1Z1D/necQVCDel0SCSTesodt4ZNNVwRd2BDsNWN5bawkSy377xTxnoZjcJ6njORdm/RMXzRix9uaY7Eg/61KC60fEDpM1dWAaUJuld1Avxzd6csPY6wiPrLM5FRhB6OAynMPaldGcFKcyiVr374vSN3fKQK9lWj7lrdE0NrqeUGL8TFq9AVHyGHFzSxg/DKiDR/SB7VTRx8g=;hjrpMgbGPW8393VHd9nU2A=="

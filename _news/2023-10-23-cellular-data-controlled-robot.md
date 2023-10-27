@@ -24,6 +24,17 @@ images:
     height: 325
     isCached: true
 
+related:
+  - title: "Artificial Intelligence must be controlled"
+    excerpt: "There’s no doubt we live in an age of incredible technological advancement. In fact, it’s not too far of a stretch to say that we are now living smack dab"
+    publishedDateTime: 2023-10-27T13:28:00Z
+    webUrl: "https://www.timesenterprise.com/opinion/artificial-intelligence-must-be-controlled/article_9d57c190-74cc-11ee-8492-0bc6bcd48d83.html"
+    type: article
+    provider:
+      name: Thomasville Times-Enterprise
+      domain: timesenterprise.com
+    quality: 19
+
 secured: "c4DFm5/HQFhyG9PYitI/JrrLiozmDX0EbXAb8JnYk5nfs2yzH+VOOb5XRP+tZ2OC5OYqpznpWOFjXdfGDUsGcd5d04mOFECZX6n07i7gXp8e5qPSq/tnRqpINmUnXeBx/RCvMKRsGzH1hbJ+xPFZB3Hg3OiJRmqxg2Woh3v/Vv4dGGvUAKef3t7S5LMolJQTpyhYCgisYjnrBxEynomnoNF8gRwoLuF4dPxpd+ipu6lMxyDyovg80MNXDvuvoSTtCYXNx/Ivwp2oX+rMMp8P6We3arQZvoY6BK0+qKtpJoD5YfnR/oL6KfJIVjSkZKUmiV9+p9HuY+XgQPTb/xF2AVDp2UHybPYRPDyLzwBO298=;usxrXVU3w84Wf2T3SbLNtg=="
 ---
 

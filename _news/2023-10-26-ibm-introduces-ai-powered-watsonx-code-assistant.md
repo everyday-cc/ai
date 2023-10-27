@@ -35,6 +35,15 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "IBM launches AI-powered Watsonx Code Assistant for translating COBOL programs into Java code"
+    excerpt: "IBM is launching a new AI-powered service designed to \"assist\" companies and programmers in transitioning ancient COBOL code into the modern, cloud-centric era. Watsonx Code Assistant"
+    publishedDateTime: 2023-10-27T12:42:00Z
+    webUrl: "https://www.techspot.com/news/100644-ibm-launches-ai-powered-watsonx-code-assistant-translating.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 53
   - title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
     excerpt: "Watsonx Code Assistant for Red Hat Ansible Lightspeed and watsonx Code Assistant for Z are now availableARMONK, N.Y., Oct. 26, 2023 /PRNewswire/"
     publishedDateTime: 2023-10-26T04:13:00Z

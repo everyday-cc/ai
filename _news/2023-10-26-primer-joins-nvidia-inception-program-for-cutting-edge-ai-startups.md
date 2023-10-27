@@ -48,6 +48,15 @@ related:
       name: Invezz
       domain: invezz.com
     quality: 17
+  - title: "Twelve Labs Secures $10M from Nvidia, Intel, Others for AI Video Analysis"
+    excerpt: "Twelve Labs, a generative artificial intelligence (AI) startup based in South Korea, has secured a combined investment of $10 million. Nvidia Corp., Intel Corp., Samsung Next, and Korean Investment Partners are the"
+    publishedDateTime: 2023-10-27T11:39:00Z
+    webUrl: "https://www.econotimes.com/Twelve-Labs-Secures-10M-Investment-from-Nvidia-Intel-Samsung-and-Korean-Investment-Partners-1665100"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 16
 
 secured: "XehmdvM4idIV1fQi78kCTHeUDRs/8LZFdls+AnuKBGFq42GhRSGu4SE4rkPMvlU3m0XCMhI29U2k6zOozQSfN61pwvZt7+A1BS4Mp7owZ2aQVCeFJmY/tQwr8JI/Z8vuFSQ0rD4q2xEJrXlY80gXVyf+hNOf8AO3HCH/SMZKj48bXoVFMhI6jHn+aVHzbrOJFsqwHpBd51yPLHPtCtvJ6nAWmdXKpHPel00ThK9fvyMHgrCx2gePoGSv3XwJcWa+Q1g+fmO7RhyCojaPeNi2aMT6TJMPlWuZde5ld8rQKVAFTB4lNCaM4fkFJRE/VeQB7/3IDG1kDbDqsAABwtBPnGbe2J/p5923lXkFfg1XB1Y=;GGK9M2WnYB3MUcHzi4LuQQ=="
 ---

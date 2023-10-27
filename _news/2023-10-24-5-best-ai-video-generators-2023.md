@@ -70,6 +70,15 @@ related:
         width: 800
         height: 610
         isCached: true
+  - title: "It’s time to put Artificial Intelligence on the ballot"
+    excerpt: "Elections are often described as being “referendums” on recent policy decisions. The 2010 midterm supposedly signaled the public’s views on the Affordable Care Act. Similarly, the 2006 midterm theoretically amounted to a vote on the Iraq War."
+    publishedDateTime: 2023-10-27T13:41:00Z
+    webUrl: "https://www.gulftoday.ae/opinion/2023/10/27/it-is-time-to-put-artificial-intelligence-on-the-ballot"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 19
 
 secured: "wthWGSkWnxm4qiHCu9DP1AcKb3VIEILpeHB2Lh2yni1MQAAWHBmagPixqi8nPduNs/Tc211ULVBgu0iZvi+2zS3OGLpYXImOwxvX2UcN+GLXv1gnQ5401hEfAkZfQnCG0Ohb3JMXfdPG0Hu/eH0lq8+Lv8ZFfFHoa9nahIL/0egX0OLb/4wBAnyjWSdcDjGMMBhgRCSdA37SaYvg+nDUkPQan1o2L2vYHTwiq1bKjAdSEFSV7VrflmBXMt72mKAPUPjfKUI4a0LwhxlptOXjAOKNQaeBxx6vJ9NOBuzBvBQG2+J2Qx4DmLHi6uCcaS5arb9XqBWdbWaBZV+uGqcDP9qu19UMAVgd/KmkIKovZ+k=;Qni6fSbHCzF0rI63fD7wMw=="
 ---

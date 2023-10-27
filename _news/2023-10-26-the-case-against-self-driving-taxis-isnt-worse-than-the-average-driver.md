@@ -35,6 +35,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Cruise, GM’s robotaxi service, suspends all driverless operations nationwide"
+    excerpt: "The California Department of Motor Vehicles revoked the license for Cruise, which recently began transporting passengers throughout San Francisco, this week."
+    publishedDateTime: 2023-10-27T15:09:00Z
+    webUrl: "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/"
+    ampWebUrl: "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/?outputType=amp"
+    cdnAmpWebUrl: "https://www-nbc29-com.cdn.ampproject.org/c/s/www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/?outputType=amp"
+    type: article
+    provider:
+      name: NBC29
+      domain: nbc29.com
+    quality: 56
+    images:
+      - url: "https://gray-wvir-prod.cdn.arcpublishing.com/resizer/4oAIyjh_qTZ6jYSNDVYNzSiiShc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/A76YDPE6SNE2BHVQMV5X3VKYRE.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "GM Cruise Unit Suspends All Driverless Operations After California Ban"
     excerpt: "A Cruise self-driving car, which is owned by General Motors Corp, is seen outside the company’s headquarters in San Francisco where it does most of its testing, in California, U.S., September 26, 2018. REUTERS/Heather Somerville/File photo Reuters"
     publishedDateTime: 2023-10-26T20:38:00Z

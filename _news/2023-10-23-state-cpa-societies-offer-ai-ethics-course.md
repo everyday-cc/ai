@@ -131,6 +131,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Artificial Intelligence and the Future of Trucking"
+    excerpt: "You’ve been hearing a lot about Artificial Intelligence lately. Is it just another computer system? Or as revolutionary as the experts say?"
+    publishedDateTime: 2023-10-27T14:30:00Z
+    webUrl: "https://www.truckinginfo.com/10209095/artificial-intelligence-and-the-future-of-trucking"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 37
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/blogpost/2023-10/pexels-google-deepmind-hdt-truck-tech-__-1200x630-s.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence and Research Ethics"
     excerpt: "Artificial intelligence can increase efficiency and create novel insights for university research. However, with this new frontier of research practices comes great responsibility for researchers ..."
     publishedDateTime: 2023-10-24T20:24:00Z

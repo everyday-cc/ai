@@ -7,8 +7,8 @@ originalUrl: "https://www.androidauthority.com/samsung-galaxy-s24-ai-3378731/"
 webUrl: "https://www.androidauthority.com/samsung-galaxy-s24-ai-3378731/"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Android Authority
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung teases possible AI camera features coming to Galaxy S24 series"
+    excerpt: "Samsung is teasing new AI camera features enabled by a 200MP sensor and the Snapdragon 8 Gen 3 chip. That combo screams Galaxy S24 series."
+    publishedDateTime: 2023-10-27T11:04:00Z
+    webUrl: "https://www.androidauthority.com/samsung-galaxy-s24-ai-camera-features-zoom-anyplace-3379977/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/Samsung-Galaxy-S24-Ultra-Leaked-Render-2-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Generative AI like ChatGPT is coming to Samsung’s Galaxy S24"
     excerpt: "Samsung has reportedly prepared plenty of ChatGPT-like AI features for the Galaxy S24 phones - what you need to know."
     publishedDateTime: 2023-10-24T17:59:00Z

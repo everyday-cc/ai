@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/health/breast-cancer-breakthrough-ai-predict
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/breast-cancer-breakthrough-ai-predicts-third-cases-diagnosis-mammography-study.amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03272-3/d41586-023-03272-3_26220184.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "AskEllyn Bridges the Support Gap for Breast Cancer Patients Through AI"
+    excerpt: "In a world increasingly reliant on technology, the realm of healthcare is witnessing an unparalleled fusion of innovation and compassion. Enter AskEllyn, a groundbreaking conversational AI tool specifically designed to cater to the multifaceted needs of those impacted by breast cancer."
+    publishedDateTime: 2023-10-27T15:46:00Z
+    webUrl: "https://www.unite.ai/askellyn-bridges-the-support-gap-for-breast-cancer-patients-through-ai/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/Screenshot-2023-10-27-at-12.41.49-PM-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "AI 'Breakthrough': Neural Net Has Human-Like Ability to Generalize Language"
     excerpt: "A neural-network-based artificial intelligence outperforms ChatGPT at quickly folding new words into its lexicon, a key aspect of human intelligence."

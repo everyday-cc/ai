@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/sanctuary-ai-named
 webUrl: "https://markets.businessinsider.com/news/stocks/sanctuary-ai-named-on-time-s-best-inventions-of-2023-list-1032734498"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 800
         height: 610
         isCached: true
+  - title: "It’s time to put Artificial Intelligence on the ballot"
+    excerpt: "Elections are often described as being “referendums” on recent policy decisions. The 2010 midterm supposedly signaled the public’s views on the Affordable Care Act. Similarly, the 2006 midterm theoretically amounted to a vote on the Iraq War."
+    publishedDateTime: 2023-10-27T13:41:00Z
+    webUrl: "https://www.gulftoday.ae/opinion/2023/10/27/it-is-time-to-put-artificial-intelligence-on-the-ballot"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 19
 
 secured: "hR1JFcrBJtQb88UvTyWrpwPavjchjqNmaEeSNFv9uvatfWKkL4L167EjcUYfRNjSOYdg3MDZ6+0gp91jdxSZPbiKVX3lup5sIvU8LkEHavJNeuzsWQ89mgxpWdQlwJQuXwt4tmoLB46XgxMSZ84m/OTjkR57w8FJ81n2XeFdP3bxa4xZqUWZnvT5yXQwsEpzdcXmuVrrAlduKEXZftUYWQP4PZkE1frbJPwWyyeJ+l4bM7XsdPeC0V7SyK765H6PiFFCTMHGSC1Q5hIjnyaUWBOLvb8HnpvmRQo+rpyzqK5XbC/TolviNkK1El7dyJosBxdeJYhoW/szEjA6MH95ubtM9RfT8yD9LQm5HV6GTumMOtjMF4lKw+6fVbhN8O51VkLMJJ4AqLrkI00hBTCMbdjPqu1+yabRD01Ow21CPhOiFDXUADVNmmV+lx8tBG0+dOZcQq8E2XrO91xxaFR1nSHpgYUyc5iefbDZklTBLVKuQizkQuBYw61Yg3w0kSksrMDBM+YgynVfFrIXDB7kgw==;IGVfrn2r23ednGZneRIuXA=="
 ---

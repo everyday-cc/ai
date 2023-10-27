@@ -185,6 +185,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Can facial recognition be justified for espionage in war?"
+    excerpt: "With military conflicts asserting themselves into the story of the twenty-first century, a parallel debate is being waged about the uses for FRT in warfare."
+    publishedDateTime: 2023-10-27T11:30:00Z
+    webUrl: "https://www.biometricupdate.com/202310/can-facial-recognition-be-justified-for-espionage-in-war"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
 
 secured: "2PpTkdhRKI+0Teu4Tgu5p1lnSN4CRF5LnpbyiGXRa/4K4z+1ZN8mfPoApwWZTSVvt+A+FS3I2tIIr+coYB6ZGIC8tUt3UZ7wl2Xnq2m0CQpumjMYn4nRXGGdmjg2rWvsJrobbUdZsSqoA87ag+28j+hCUXYnBDx0EJsPC4PN9oMYyu6i8n0g4qLh5veV7LUl2amxKEJMEXKcybOozvyJGtDIR72GDiJlu7OdBaak0peXj7risdltVsizmD8HGR5NlmuZJJwnkme+8ibJ8chLdcz10JKcfXgNwhQ1uuRvIr3SYCbn7LosWh2/PqOsQtnMQL+5ZpEeb/D60eZ1kgttvLGeD/zqvssSdTtMBYYIKhY=;k/wqBRAkCMbKuOZaVXgiqA=="
 ---

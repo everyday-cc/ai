@@ -186,6 +186,15 @@ related:
       name: Echo news
       domain: echo-news.co.uk
     quality: 19
+  - title: "Can facial recognition be justified for espionage in war?"
+    excerpt: "With military conflicts asserting themselves into the story of the twenty-first century, a parallel debate is being waged about the uses for FRT in warfare."
+    publishedDateTime: 2023-10-27T11:30:00Z
+    webUrl: "https://www.biometricupdate.com/202310/can-facial-recognition-be-justified-for-espionage-in-war"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
 
 secured: "XILhB32mwUCMTXEvSGsEeOoZO+s+hQttXLwhLT1KQRq+w75G5Dfr3ZFbNHz2UptBrhQyuV72jxvCAHb55rvxip7QSl98IPIJ6IEKHnMhlgiiXRUit2gP0UYaBXHBUGJBmFKrG8IgwxRVbZlFg8VUVGcNorHbwJuqbusKjZZlPlsD8nxk4q7Pu28nRuxeLqAqgUIMImoQkWj04x/KjeGzLOlc+TrztjqcbXnU1V7KOAl33HzC3lxua87/kkWVl/eBpi5DXmyDZnYZ8dL92hFEFOD/8EmbK+dA9sPRiVk5KlioLYeGGlNIzU0D5tPsv6vpvyCyCmlDfBOm+/nG8aAohIMIpdxBNepwGnzNQc3qIjGYbd5x2QrXVjhgPOFklH9LE33DsKZLqjmJBNlTLdI+kHnmexj6TOVqblm363TJTa5oKUYzIu5BpCCbWdpYY/F5IRXBdgOnnQ8JhUKjuA9/z1pTPz66BSoBmrsFuzaL4GQ+C+asTc2O5O0tPSl4HTzinQZghb8IBAnpA5xAB9FfiA==;nKwlMkl9BNhnQYRWyHBCHw=="
 ---

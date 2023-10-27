@@ -2,11 +2,11 @@
 category: news
 title: "UK regulators report back on AI and Machine Learning consultation"
 excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
-publishedDateTime: 2023-10-26T12:24:00Z
-originalUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
-webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
+publishedDateTime: 2023-10-26T11:30:00Z
+originalUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
+webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
 type: article
-quality: 56
+quality: 36
 heat: -1
 published: false
 
@@ -18,12 +18,6 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
-
-images:
-  - url: "https://www.assetservicingtimes.com/assetservicesnews/images/ThursdayOctober2620231698319657.jpg"
-    width: 990
-    height: 640
-    isCached: true
 
 related:
   - title: "AI May Soon Weigh In on Regulation"
@@ -122,6 +116,6 @@ related:
       domain: modernhealthcare.com
     quality: 34
 
-secured: "PTZwM6QOQh5S5cRp4FxRxq1qLNU8ifZXvsYng6V01H+gqu9eEBUR12aISHjT9dDwu6nbc2m46EKT73jqA86AgYqMEjV1/dHmtCJm8r9uKZVb5ejoX1CY7+UM9v1x9kUy8n7oLWVVcqo2uIxntzqWzb2do9EvLmn2aL+3e/ohW/Pt/wzQk5Cn3IxAC8Q6J8dIUODQqBKPjOUllQde/uIVN0G9G8u07lqt00mMzvcCHI+nsq5GrA2rd1WK0oaH/3nwD5pWm8LNGojnOh0Nkc+pEmDEAr6F/uzD/9t0fXT681d7j/560W9modqGTHfkPjMOYcqYMqDMUYjYNozw87fxU0Bk7SWumxDSmBsY3nBAaEE=;Ar3P7qi3w7N/hRrvncFPBQ=="
+secured: "7P70qpfmbf+oQE08Y/a1iPtDRdUkBLtOw1Gg5Q7k0AttAI9jaCTUiBoPTSS0Bbs5EMRpAuIoE1FTBsk0rwvehH6yIi97x4CuiruId/6mdce756C1dK9nZiKk8X9n6uwE8sGvw8sre36fb2ZBtEccdcjrlx8Yt8Ydfagy/2Lh4v9oYyQfZe2MuSpxnXVPKkUZC7GxucPOC7n9G0QibXJLzpV7zt7o/C2U3MjZm0/0nORsAUfIvKFZtZ1RR8BQauyS27vpoWO1BpO1jRuuHlzA1ixPoDZNBvt70n0qDdvqogKtSpmx8qHKJTMuzd7sUuG7ljpRZFBME7na4fqjCr3ZLw62LegSc1SkrwroJRzi9dM=;JtmkzskpR5MIUB5A9JVKKw=="
 ---
 

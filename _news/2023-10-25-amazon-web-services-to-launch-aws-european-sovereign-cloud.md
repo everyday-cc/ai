@@ -61,6 +61,20 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Top 10 national European fintech associations"
+    excerpt: "We count down the top European fintech associations by country, order by the total addressable market of the countries in which they operate"
+    publishedDateTime: 2023-10-26T13:56:00Z
+    webUrl: "https://fintechmagazine.com/top10/top-10-european-fintech-associations-and-trade-bodies"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/0c7aa9b98827c83a03b6b78db2c56f5a:06a8d61f0193852bea373a2dfc0d769f/gettyimages-1189818245.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4Jf8lE4oTZ4A2Z+q9jqv9z6lkTKLWdQZjGWdSw+xKWsY+fjPK9pzLxTD9RCqvDrpGPjyWcmAWteih77WdBsTfjnaAlXpw5Jw7fhtSOTqMrL8TPxDuew5OQjV3sgM7OEtod4+0gA6ybUE0iJ9OIivGiIlrM/4VydLyYLqFy9nmtEDiAI15WIKBqof7kCvj4rj/k5BeagLDgQjumi0oj2pq1O2XnYCzcds7iS8V2P0Of5fjJG/30oc/WKtqTPcgn6an9o9q2ao0qAHEQEKTv/yBFQUOfdA10KyF9f82fGb0dsGWGycHcXBvdNeT7RUW6IS5KnSZcgE5Ao5bKCduPocXTdzqCUTUMB/cDH3siT0uCs=;CuNNq2B8PBsmN1BW5lmlJg=="
 ---

@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 723
         isCached: true
+  - title: "From The Jersey Shore To Silicon Valley: How Two Tech Companies Are Reimagining Recruiting, Job Descriptions And Interview Questions With AI"
+    excerpt: "To many people, it might come as a surprise that southern New Jersey, located 15 miles west of the Jersey Shore beaches, boasts a top tech company. iCIMS—short for Internet Collaborative Information Management Systems—is a cloud-based human resources and recruiting software company that provides recruiting solutions to organizations."
+    publishedDateTime: 2023-10-27T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/jackkelly/2023/10/27/from-the-jersey-shore-to-silicon-valley-how-two-tech-companies-are-reimagining-recruiting-job-descriptions-and-interview-questions-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/10/27/from-the-jersey-shore-to-silicon-valley-how-two-tech-companies-are-reimagining-recruiting-job-descriptions-and-interview-questions-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/10/27/from-the-jersey-shore-to-silicon-valley-how-two-tech-companies-are-reimagining-recruiting-job-descriptions-and-interview-questions-with-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653ac9ed0a5631b800562beb/0x0.jpg?format=jpg&crop=3118,2077,x369,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
   - title: "In a 1st, artificial intelligence company from Silicon Valley enters Bihar"
     excerpt: "A Silicon Valley-based Artificial Intelligence company has opened an office in Bihar, making it the first IT company from the US to enter the state."
     publishedDateTime: 2023-10-26T17:15:00Z

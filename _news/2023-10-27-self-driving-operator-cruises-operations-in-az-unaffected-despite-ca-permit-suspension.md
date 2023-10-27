@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Cruise Halts All Self-Driving Taxi Operations to 'Rebuild Public Trust'"
+    excerpt: "We think it’s the right thing to do during a period when we need to be extra vigilant when it comes to risk,' Cruise says after California's DMV suspended the company's self-driving permit."
+    publishedDateTime: 2023-10-27T13:59:00Z
+    webUrl: "https://au.pcmag.com/cars-auto/102335/cruise-halts-all-self-driving-taxi-operations-to-rebuild-public-trust"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 54
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/c/cruise-hal/cruise-halts-all-self-driving-taxi-operations-to-rebuild-pub_fkz4.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "GM’s Cruise Halts Self-Driving Operations Across the US After Regulator Safety Fears"
     excerpt: "Two days after safety fears led California regulators to shutdown Cruise’s robotaxis in San Francisco, the company says its fleet in Austin and other US cities will now operate with human supervision."
     publishedDateTime: 2023-10-27T03:18:00Z
@@ -33,29 +47,22 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "GM's Cruise Loses Its Self-Driving License in San Francisco After a Robotaxi Dragged a Person"
-    excerpt: "The California DMV says the company's autonomous taxis are “not safe” and that Cruise “misrepresented” safety information about its self-driving vehicle technology."
-    publishedDateTime: 2023-10-24T20:31:00Z
-    webUrl: "https://www.wired.com/story/cruise-robotaxi-self-driving-permit-revoked-california/"
+  - title: "California suspends Cruise self-driving taxis - the service preparing to launch in Dallas"
+    excerpt: "Calfornia's decision to suspend General Motors-backed Cruise's permit comes as the company has been running tests in Dallas since June through the Oak"
+    publishedDateTime: 2023-10-24T20:34:00Z
+    webUrl: "https://www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/"
+    ampWebUrl: "https://www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/?outputType=amp"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 43
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 35
     images:
-      - url: "https://media.wired.com/photos/65380a56bcdea1ef152933b0/191:100/w_1280,c_limit/cruise-biz-sf-GettyImages-1556779082.jpg"
-        width: 1280
-        height: 670
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/xahx3h403lIg1Jd-iz3n2Mi5jkI=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/LQ34RSW3KKK24OH7KW2YYF5OVM.jpg"
+        width: 830
+        height: 467
         isCached: true
-  - title: "California DMV Halts Cruise’s Self-Driving Robotaxis Statewide"
-    excerpt: "A Cruise, which is a driverless robot taxi, is seen during operation in San Francisco, California, USA on July 24, 2023. The California Department of Motor Vehicles has yanked Cruise’s permits to operate its autonomous vehicles across the Golden State ..."
-    publishedDateTime: 2023-10-24T18:31:00Z
-    webUrl: "https://www.forbes.com/sites/cyrusfarivar/2023/10/24/california-dmv-halts-cruises-self-driving-robotaxis-statewide/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
   - title: "California Halts Cruise's Self-Driving Cars Citing 'Risk to Public Safety'"
     excerpt: "California’s DMV is suspending Cruise’s permit to test self-driving cars in the state over concerns the vehicles pose a risk to public safety."
     publishedDateTime: 2023-10-24T19:04:00Z
@@ -65,28 +72,14 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 32
-  - title: "1 year of Twitter under Musk, Cruise pulls all self-driving cars"
-    excerpt: "Elon Musk wrote of buying Twitter that he “didn’t do it because it would be easy”. That's one of the few certainties about his ownership"
-    publishedDateTime: 2023-10-27T10:55:00Z
-    webUrl: "https://www.techdigest.tv/2023/10/1-year-of-twitter-under-musk-cruise-pulls-all-self-driving-cars.html"
+  - title: "Self-driving car company Cruise halts fleets in Houston, elsewhere in bid to ‘rebuild public trust’ amid feds’ probe"
+    excerpt: "The self-driving car and driverless rides company Cruise said Thursday that it is halting its driverless operations across its fleets -- including in Houston -- as it said on Twitter that it is taking steps to “rebuild public trust,"
+    publishedDateTime: 2023-10-27T12:07:00Z
+    webUrl: "https://www.click2houston.com/news/local/2023/10/27/self-driving-car-company-cruise-halts-fleets-in-houston-elsewhere-in-bid-to-rebuild-public-trust-amid-feds-probe/"
     type: article
     provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 24
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2023/10/slt-update-apr-2023-hero-test1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "The Cruise robotaxi reckoning highlights tensions over self-driving cars and how we regulate them"
-    excerpt: "The DMV suspended state permits for autonomous vehicle operator Cruise, saying the company omitted key information about a collision that injured a pedestrian."
-    publishedDateTime: 2023-10-26T13:44:00Z
-    webUrl: "https://www.latimes.com/california/newsletter/2023-10-26/the-cruise-robotaxi-reckoning-highlights-tensions-over-self-driving-cars-and-how-we-regulate-them-essential-california"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
+      name: Click2Houston
+      domain: click2houston.com
     quality: 0
 
 secured: "j2DEphQn9KsW4cnG4mylv9yufhhJWpGE9VyT/sHpiPb5Jp/55R3TpCeYBsTtgf3Ps2WU0sOdJtNySXck3YthMHj9sRIWLOfxdG/u2MY/Rk4ySnBLjRBRB7+/ipzPM4FOH4XO20Ke7Xuh4goIVmdX6Fivg9Su9pP5B2sYhlG5osQyAkocP94CqpRjySufLob+yUcbWWuuSAdEKx4dpCHtXRnrDEiSCfr8XMZHy23u5I2DTbVzzOWu2sXlwjjWVG7CtlAZVVX0BsKSW+Qk2aXCGGjPnG0bWTppWrZC/bXu6aQyiM6a4GgXK22bKoIgXRAArs2DP1pV8Lht/Ytg6tpOZCVSYJ9xmRIMf5fql/i1zPnOsH0H8gHsABqbHdJHsV+J7LEYaRGv3P9ITu7HMAVspH7QlgZzt45tWzBBDRLf6+ud2zyNOQtIPSQu/bl2iqWDz+ZUo0DOFPYkxaz0xgcBYBQ1CSWt/OBFv4nYiVVCbYxD7z1jauXa1rKGOTMxQRiJptS8LlWh5sTYNhRIZE1Yeg==;01Bw6OVPcaB5dlCjK+T9WQ=="

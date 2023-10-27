@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/transforming-the-writing-process-harnessin
 webUrl: "https://techbullion.com/transforming-the-writing-process-harnessing-ai-for-efficiency-and-accuracy/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning for Process Validation"
-    excerpt: "Validating drug production processes need not be a headache, according to AI researchers who say machine learning (ML) could be a single answer to biopharma’s multivariate problem. The FDA defines process validation as consisting of three parts ..."
-    publishedDateTime: 2023-10-25T16:01:00Z
-    webUrl: "https://www.genengnews.com/topics/bioprocessing/machine-learning-for-process-validation/"
+  - title: "techUK perspective: harnessing AI in transport"
+    excerpt: "As the industry responsible for the movement of people and goods, the transport sector affects everyone in society and is a foundation of our economy. Artificial intelligence (AI) has the potential to drive huge improvements in this space, from improving efficiency and environmental performance, to creating better passenger experiences."
+    publishedDateTime: 2023-10-27T15:57:00Z
+    webUrl: "https://www.techuk.org/resource/techuk-perspective-harnessing-ai-in-transport.html"
     type: article
     provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 19
+      name: techUK
+      domain: techuk.org
+    quality: 39
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/1b564d0d-42e9-4eba-8bad60dcb9a60074/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/City-light-113155288-web-1500px.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "R5dWQ6yrnlrFjRvUepdMoLuOkLPsnqZdeLcPy7ZXRQLRFwbUjtIeCpz9B8XVdQdGgC2flSw9MvPl4bs7QZ6WsscQiK93zzR7D7POzmtlREWpyEKm8lBRNts6pVo306LNh0h0xrtBRsi1F6h3jBnN7wmsNVpl4Bo1AtJls1LEgEgErE/dEu7rhQ9skbtesBYLW3nSlFobdPIv1ov9oq8OSVopx5oUlKzb5AKaqa+XOYsGp7xHMRy55nTX5nvrwcC3GJPhZgRyvpFgJ1BIVTJViSwqEe2QMTN71OjsYzscsoFhlIzfMYXlzvdTBPT2kEwklezgLLVWEJTAkm7LCS19+aqMeYjhwk2Xd186omDqW44=;kRX0ucGqseqGEKgApM5VmA=="
 ---

@@ -127,6 +127,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Artificial Intelligence and the Future of Trucking"
+    excerpt: "You’ve been hearing a lot about Artificial Intelligence lately. Is it just another computer system? Or as revolutionary as the experts say?"
+    publishedDateTime: 2023-10-27T14:30:00Z
+    webUrl: "https://www.truckinginfo.com/10209095/artificial-intelligence-and-the-future-of-trucking"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 37
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/blogpost/2023-10/pexels-google-deepmind-hdt-truck-tech-__-1200x630-s.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence and Research Ethics"
     excerpt: "Artificial intelligence can increase efficiency and create novel insights for university research. However, with this new frontier of research practices comes great responsibility for researchers ..."
     publishedDateTime: 2023-10-24T20:24:00Z
@@ -164,6 +178,6 @@ related:
       domain: techbullion.com
     quality: 6
 
-secured: "p+XkUi5swLPZhgxdAHRLneffrqhpoqo55nMMghq63EAgPmc/OLNSKEGJWby/rt9ajnCEUN+MhHp2wAdIskN6I0lnYWEfb+1LkoVOQ1SFQpJEvtq6rqs+hCaFpp8XrMkEZF616F8KTPYp74MZgRAi1Zr0FJkjxiS+mrymItaC4OR5NYUTVvp5m5+SeZEG6zo12u5/Z51myTtnL4kN1TBk6gdsmHnAgz2mmIyn8ysC2+07Qq+D26AIL1o4+/uXPgBMyvTAzdnHFwT/fUiJlPq6CNZ02FidY2nRDceAHetCBHw6fXsc6jhuiOVfOQIz3B4sP1SI7VHmaYNq09svBaARIAsAO0udA4RbGMv3+F6YY0k=;UU9MR7J/OTZskntiESZPdg=="
+secured: "c80+h0uKGsmgFQkIAhn6BzFNm+vuHjHaz3hIOb8UpuopuPScq7ktBxIj1eu6usuz5putu5QcUQu2tZaEALux/JU7XXVcEpjV06iDi2ISlDnZkHwx21u5chzA/VBCmSXy6H5ixdDM19MabMKYBdNUpk/Pi4/k34Q/EI7QPsWnhpngZJtXTv5GlRxrVicUS1FU/XkKMzaBnWdQExwyJAAhSX4uMHVDqN/+TD/uF3ArbCBU94+EwNg2QCQo6x3Rc+4tK0ffey2mWK7haLTaijx9QlhOdscyllsH5U0SrCxWtzj2wXzhuKyKGml0Aaoeh8PIAhT8ezRzT7zcM6VGHXWJHlqjEhwCYZTOAaYGOiBwcRebNn7vgSHcSUpdT+whnGUpz7R68asMcS16sfCWMupIQ67qxlcMAWWH2KNKQ9Guu32EyG3lmiNLoW9b/yVipCfrlb21JPQqoIC1fc9MZQ0a+Opf9TFm8vSdwTUUgWY6SbhtcOZAa7TIG/OymUe1LxtoItB3yWjE1aZyGtZ0RISVFw==;Bi8HsIMq2qRTaDwdLzt5TA=="
 ---
 

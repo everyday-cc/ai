@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/"
 type: article
 quality: 119
-heat: 289
+heat: 299
 published: true
 
 provider:
@@ -177,6 +177,20 @@ related:
       - url: "https://technode.com/wp-content/uploads/2023/10/data-denter-dgx-a100-tour-1cC-L@2x.jpg"
         width: 1252
         height: 704
+        isCached: true
+  - title: "China's tech giants race to secure last Nvidia's AI chips amid US ban"
+    excerpt: "China’s tech firms are allegedly racing to secure Nvidia's crucial graphics processing units (GPUs) after the latest embargo by the US on the components that support AI tech."
+    publishedDateTime: 2023-10-27T14:13:00Z
+    webUrl: "https://interestingengineering.com/culture/china-tech-giants-race-nvidias-ai-us-ban"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/27/image/jpeg/o7LvvME7W1xXvMsAFQxALvaDrC56NatME6ukKzVE.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "US tightens rules on AI chip sales to China in blow to Nvidia"
     excerpt: "US tightens rules on AI chip sales to China in blow to Nvidia on facebook (opens in a new window) US tightens rules on AI chip sales to China in blow to Nvidia on linkedin (opens in a new window)"

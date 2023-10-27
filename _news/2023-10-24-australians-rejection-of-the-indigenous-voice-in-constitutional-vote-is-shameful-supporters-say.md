@@ -53,15 +53,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 0
-  - title: "Indigenous Yes supporters unleash on No voters in open letter ending week of silence to mourn Voice result"
-    excerpt: "A group of Indigenous Yes supporters have attacked No voters, the media, Coalition MPs and conservative think tanks, accusing them of fuelling a “racist” campaign against the Voice."
-    publishedDateTime: 2023-10-22T20:18:00Z
-    webUrl: "https://www.thechronicle.com.au/news/national/indigenous-yes-supporters-unleash-on-no-voters-in-anonymous-open-letter-ending-week-of-silence-to-mourn-voice-result/news-story/523ccf1867413b8d7faae95ddd11ef46"
-    type: article
-    provider:
-      name: The Toowoomba Chronicle
-      domain: thechronicle.com.au
-    quality: 0
   - title: "Australia’s rejection of Indigenous Voice in constitutional vote is shameful, supporters say"
     excerpt: "Indigenous campaigners who wanted Australia to create an advisory body representing its most disadvantaged ethnic minority have said its rejection in a constitutional referendum was a \"shameful act.\""
     publishedDateTime: 2023-10-24T09:00:00Z

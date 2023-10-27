@@ -76,6 +76,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
+  - title: "Google Maps Gains Immersive View for Routes and Other AI Features"
+    excerpt: "Google Maps is getting a new Immersive View for routes that uses artificial intelligence, Street View, and aerial images to preview every step of"
+    publishedDateTime: 2023-10-27T11:58:00Z
+    webUrl: "https://www.macrumors.com/2023/10/27/google-maps-immersive-view-for-routes/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 37
+    images:
+      - url: "https://images.macrumors.com/t/b0F9UHiXJJWqAqUQ4L9sNejSue8=/3024x/article-new/2023/10/google-maps-immersive-view-routes.jpg"
+        width: 3024
+        height: 1964
+        isCached: true
 
 secured: "F3qtRvb183bYKWTGhAIQWXmvy5hWJNeKzZWzdbK2YiW4a1HnNSARaBdl3inzEIqStp8A02w769NyI0LXE3lnxF6SNE3oNP0o6ec0g71cjq4XoCCic7j2nY76CEwwUvDXdiXitd5VjVKaJcnqfyupdTjbKIJCj0QGVIZnODk1nrv9F/iI7uLAHn55tlIjQpwycvcUpIg5m20FdyYaNBndSd4JOGoAKsPWUWXkXcsIscWByutaCn0p3K7YM0RasX226hl9czytoacXrF8pGv/mF3wgdMgUSuHTniZkdx+x5T9cp7SUfINCc350DQa47/3RDCbcgle3pN4BwtIdlDbiz8oMX4FwB9v7yzc8PGxDwqpMVLfRKmB3fvnqRZiCs+Q3RlBV0JpRFmZwJv2lL0XBuJlbHcSbA73Aibf+n0Fk7uJHGfwiq/1nuKkcb1TbxkQ1tM7UMiYxsWvZBhfSDExc1Ijv7FvgY+r/imJr52FDTzbr7LWg7VTqdFfqME7jTS8l3XVSF9zWK6gG1ASWQXtB2A==;g3oPnshX6e2yWi7pqvKbMQ=="
 ---

@@ -52,6 +52,20 @@ related:
         width: 884
         height: 900
         isCached: true
+  - title: "Free Report: How to Use AI to Launch and Grow Your Business"
+    excerpt: "The power of artificial intelligence (AI) to save time, money, and resources has created a new era of entrepreneurship — and it is available to anyone right now who is ready to take a giant leap forward. From content creation to financial analysis, AI is getting things done faster, smarter, and for less money than we could ever dream."
+    publishedDateTime: 2023-10-27T12:00:00Z
+    webUrl: "https://www.entrepreneur.com/page/free-report-how-to-use-ai-to-launch-and-grow-your-business/464366"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1698337418-ScreenShot2023-10-26at122205PM.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "/OzPB2Ox058N2BwG2zXY7ewxsgJ22JUNRqN0sW9Oagsk1Q4NAwScaj1ePYRf+STjoXRHPShxUJke33ZX4308sdX+V5Szb4jBpMJ4d1jyr5gZoNVnbdx2UYtuCCmxt065fHT08YzeoWvoWpfBduyP1MDmFefKkIvqT++nGxFfPo6lLNe44lqEIkpd0o+toI4CtBj8L2M3VB07MVbbq+558KZNpNDyLVnuUGhTyLsktjECje2HaZGXm52L0wsEEpEzqqx7B26BPVseGKdzdWAwRCN1Saz8JtdS8A2wSqdwJ6yshWc9umcBav6vNng2AR2wvGa/zxhxHsxtsI07SPvH/iOOEaan+C83Fvrz43ZOoKAI0kW+joFsj9lE53+HGhkHWbqG8NUiV96xGwMFcEgSZhVluNr8C7TF6P8pxoS67+AuISsL0BzbJ5XXN5CYZD5fboYt3dgmWIMy0GyBWj5KX53FDjtsYJZI+gAXfNyYIrEUJrt/j5Cf+ENKATubie5xVPg355mriZme6Wdz5Cp5Tg==;Zv2i9AUFZ6O/Pp2q8sYjGg=="
 ---

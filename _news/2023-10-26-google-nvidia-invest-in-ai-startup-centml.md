@@ -43,6 +43,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Twelve Labs Secures $10M from Nvidia, Intel, Others for AI Video Analysis"
+    excerpt: "Twelve Labs, a generative artificial intelligence (AI) startup based in South Korea, has secured a combined investment of $10 million. Nvidia Corp., Intel Corp., Samsung Next, and Korean Investment Partners are the"
+    publishedDateTime: 2023-10-27T11:39:00Z
+    webUrl: "https://www.econotimes.com/Twelve-Labs-Secures-10M-Investment-from-Nvidia-Intel-Samsung-and-Korean-Investment-Partners-1665100"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 16
 
 secured: "s8oPuxKg0sI5ecGK1ztswCOh5wQn8Sf1pE8yNiHVx3SaOP4vpZCdyCpiImr+7WcoHLlHK30bK+HiLexfm+9qw9p5vN+bsBR88WMusc28V7NFPysDtANCVtlZUWFySFXN7vMo7vRPiNafdp1CDKDuJYdcwyGh2fl5aEDLEEPsVt2N6S/mAlC7iBL1BqMvdp1VDOHPSwZ5oIhv6HYsX0wLzS9Ci5+ySdxcrAqXWX4k79oT0e2vKLkczIZ4VthxzQ3jWdhEnwvGRHrAC+sbc5UzxZ7g3Sxqg7aXZFveTzU2zBiFZ/AfFGZK6rIbCZJzCxzCqhG5hdCb26mhRkZsO2cg6Jmacsou3jCfzoTTdh4N7cU=;mJRpzU6A8FjRVihFWUi2+w=="
 ---

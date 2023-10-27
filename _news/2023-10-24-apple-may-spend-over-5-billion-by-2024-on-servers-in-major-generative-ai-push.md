@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "UK regulators report back on AI and Machine Learning consultation"
-    excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
-    publishedDateTime: 2023-10-26T12:24:00Z
-    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
-    type: article
-    provider:
-      name: Asset Servicing Times
-      domain: assetservicingtimes.com
-    quality: 56
-    images:
-      - url: "https://www.assetservicingtimes.com/assetservicesnews/images/ThursdayOctober2620231698319657.jpg"
-        width: 990
-        height: 640
-        isCached: true
   - title: "Artificial intelligence may help predict infection risks after implant-based breast reconstruction"
     excerpt: "Artificial intelligence (AI) techniques may provide a more accurate approach to predicting the risk of periprosthetic infection after implant-based breast reconstruction, reports a study in the Novemb"
     publishedDateTime: 2023-10-24T20:30:00Z
@@ -111,6 +97,15 @@ related:
         width: 2180
         height: 1453
         isCached: true
+  - title: "UK regulators report back on AI and Machine Learning consultation"
+    excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
+    publishedDateTime: 2023-10-26T11:30:00Z
+    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
+    type: article
+    provider:
+      name: Asset Servicing Times
+      domain: assetservicingtimes.com
+    quality: 36
   - title: "Healthcare AI regulation is coming into focus"
     excerpt: "Stakeholders are calling on the FDA to provide more concrete guidance in how clinical AI applications should be implemented."
     publishedDateTime: 2023-10-24T09:00:00Z

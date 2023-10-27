@@ -2,13 +2,11 @@
 category: news
 title: "AI risk similar to climate crisis, world cannot afford to delay response: Google Deepmind Chief"
 excerpt: "In a recent interview, Demis Hassabis said that he anticipates the creation of an international body like IPCC and CERN for the regulation of AI."
-publishedDateTime: 2023-10-24T13:59:00Z
-originalUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/"
-webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/"
-ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/lite/"
-cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/lite/"
+publishedDateTime: 2023-10-24T13:58:00Z
+originalUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-similar-to-climate-crisis-world-cannot-afford-to-delay-response-google-deepmind-chief-8997821/"
+webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-similar-to-climate-crisis-world-cannot-afford-to-delay-response-google-deepmind-chief-8997821/"
 type: article
-quality: 62
+quality: 22
 heat: -1
 published: false
 
@@ -19,12 +17,6 @@ provider:
 topics:
   - Google AI
   - AI
-
-images:
-  - url: "https://images.indianexpress.com/2023/10/Demis-Hassabis-1.jpg"
-    width: 1600
-    height: 900
-    isCached: true
 
 related:
   - title: "AI risk must be treated as seriously as climate crisis, says Google DeepMind chief"
@@ -88,6 +80,6 @@ related:
         height: 465
         isCached: true
 
-secured: "/StVwluUscaMdTRX1PjCegbB7QjpfCxqb6nWtGgeE2yHQiiNQP2XBZKzwB36ZdGMnKd4ht94fP0CZYBIfEb71OIsRvDscOi7gA3IlI0LOCwfNYhmU1vlvBx6laIm7JcgJIEJx0dTCctRDGEcMT43QO4YNm+FGjxlzgGIdH1u0mUJeWIjJ9Og+AXBZSQDrQZTSVeqrn4hpo7UA38LbruQdEYlBRwDnWLGAl61c7szGuhXIpiLnAN8QEA6VcgJwktCuLvS9LMaWNAslsnDIrxk3z+IsDmM4UFSJAowNIDq/LJQiScG6gW+Ih0VyaMgvKahSCLUecCPZ+/dyUFyYdVtnWa8i1WbnLak+J96U7Rf0/0=;Ozg9B9rZTDzMtSwjHJSdfw=="
+secured: "xjn/oZoHNefOTUQ4LQNIA7P/z21nOpnYYqmldHWvtUXpw4GkBQomCrJl8ZV6aS1+ZctC3SWocp7Cimwvv17ZkoiuOJ38Rf7zamnb8L9/DDPxtAWTEDnRs+ta8CY2uFCm0XvDMAUms/FJumdX7JrLqtxUfvTUzrsByf5CpWJd6fNANhpsrRafHUZirhRDvzsATt3bAHyzFUrSgfVsuEt3lpu/2re0UB+5pctSk8TYo2oSL1jEuo+kXmMjn914fPfZDF0TSqRGBp1AI6y9BHifDTzyuF+JO49NC1U0b+F3EN2C1E8oQMKwQHE87wr59oCyjd6acL+sFWAI4eXRkHHoV9EMAbL2eJXBPEp9JNeSfUEtewLYyI9WeX+4cw9+uzEinluEEnRxM9VW/jprL7sdBBUD5WRXxxgAcPQW3lcCSZkK91TZ//4sjK6jFpEU/4PPfGdw3Wt8F5j2u2n8A0rp5yCitOkXM9TjNrecRDeV+M2tf9mL2DAdGnLStw2X4jOfFDgp+XsLf7lgsHFmWfOPaQ==;jJwNFpXksFEVrBtdTlEJ7A=="
 ---
 

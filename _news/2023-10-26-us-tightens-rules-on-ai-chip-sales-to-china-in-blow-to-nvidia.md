@@ -183,6 +183,20 @@ related:
         width: 1252
         height: 704
         isCached: true
+  - title: "China's tech giants race to secure last Nvidia's AI chips amid US ban"
+    excerpt: "China’s tech firms are allegedly racing to secure Nvidia's crucial graphics processing units (GPUs) after the latest embargo by the US on the components that support AI tech."
+    publishedDateTime: 2023-10-27T14:13:00Z
+    webUrl: "https://interestingengineering.com/culture/china-tech-giants-race-nvidias-ai-us-ban"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/27/image/jpeg/o7LvvME7W1xXvMsAFQxALvaDrC56NatME6ukKzVE.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Nvidia Says U.S. Speeded up New Export Curbs on AI Chips"
     excerpt: "(Reuters) - Chip designer Nvidia said new U.S. export restrictions blocking the sales of its high-end artificial intelligence chips to China had gone into effect on Monday after regulators advanced the timeline on the curbs from its 30-day period."
     publishedDateTime: 2023-10-24T13:25:00Z

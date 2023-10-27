@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 20 Upcoming Fintech Events Taking Place in APAC in Q4 2023"
-    excerpt: "As the fintech industry continues to grow and evolve in APAC, an abundance of fintech conferences and gatherings are being organized in the region to showcase local talents and developments.Today, we look at the top upcoming fintech events taking place in APAC in the last quarter of 2023."
-    publishedDateTime: 2023-10-24T05:35:00Z
-    webUrl: "https://fintechnews.sg/79093/events/top-20-upcoming-fintech-events-taking-place-in-apac-in-q4-2023/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/10/Top-20-Upcoming-Fintech-Events-Taking-Place-in-APAC-in-Q4-2023.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "For disease detection to fintech, startup show in Bengaluru has them all"
     excerpt: "Bengaluru: Around 50 startups representing fintech, senior citizens healthcare, EV transportation services, and AI-based disease detection showcased their services at the annual 'Startup Mela' on Thursday. Organised by the Entrepreneurship Cell ..."
     publishedDateTime: 2023-10-26T21:00:00Z
