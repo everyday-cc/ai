@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "FPT Announces Strategic Partnership with Landing AI, Advancing Artificial Intelligence Development and Education"
+    excerpt: "FPT Announces Strategic Partnership with Landing AI Advancing Artificial Intelligence Development and Education"
+    publishedDateTime: 2023-10-25T05:05:00Z
+    webUrl: "https://www.businesswireindia.com/fpt-announces-strategic-partnership-with-landing-ai-advancing-artificial-intelligence-development-and-education-87135.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 50
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_87135.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "UuVnCsRmhvsUpgr1Q/pjVzlDI+osowweTJKZK/dYZUvaRKFfs/Bz9hVAauJohegxV4wtiaTFUOSveYABzEy7gCV5lrzECVx8zjvm1iORsiq0BZ2o/O8Xo6ghE6qBfrLIJNETTx9AJlrKG/5+efrQxPYX0R83OvHlSwnIDavIr8XERaYkc5ZAODlFJAW6G+CirbhwOExWaSzJhgT9s+WMRp73LOC+tBFtsjNH/NvHeLCsRK8Y+mbap4f388AzuDtfIoU4Ehn35vnlx5yfABNtwuGl4i8XYcxHbkrqJeEP8E8oVSvuM8XvRTL27Bd3Rn14wVXn7EShaeFzU8X0TLwur1wCULCFZBvC7Z02u116rd8=;K6UWUzyU4Kh0U6RDLCSXYQ=="
 ---

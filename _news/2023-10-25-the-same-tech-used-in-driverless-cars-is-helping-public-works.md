@@ -46,7 +46,7 @@ related:
   - title: "Where's AI steering driverless cars?"
     excerpt: "GM's Cruise taxis were banned from California roads after the state said the driverless car company misrepresented safety data."
     publishedDateTime: 2023-10-27T23:25:00Z
-    webUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/?ref=biztoc.com"
+    webUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/"
     type: article
     provider:
       name: Marketplace

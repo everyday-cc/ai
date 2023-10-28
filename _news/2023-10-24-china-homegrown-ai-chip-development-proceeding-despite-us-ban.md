@@ -7,8 +7,8 @@ originalUrl: "https://www.digitimes.com/news/a20231023PD228/us-chip-ban-china-hu
 webUrl: "https://www.digitimes.com/news/a20231023PD228/us-chip-ban-china-huawei-ai-chips-alibaba-baidu-nvidia-tencent.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Digi Times
@@ -38,6 +38,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/caledonianrecord.com/content/tncms/assets/v3/editorial/a/06/a0685493-1b95-5a6d-be05-0d4b2067230a/653802ab53d97.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
         width: 720
         height: 378
+        isCached: true
+  - title: "FPT Announces Strategic Partnership with Landing AI, Advancing Artificial Intelligence Development and Education"
+    excerpt: "FPT Announces Strategic Partnership with Landing AI Advancing Artificial Intelligence Development and Education"
+    publishedDateTime: 2023-10-25T05:05:00Z
+    webUrl: "https://www.businesswireindia.com/fpt-announces-strategic-partnership-with-landing-ai-advancing-artificial-intelligence-development-and-education-87135.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 50
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_87135.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "f6VQQeoERU/kH0P7oxBcTNJ54sEjaN/LSGmm9q1Fi0hSMWFNC8q4iBF0IXLHESB0iBauYyYzo47WFavdH3z5o3KVQu6HMWVjKeFO1wLGxCTDVTNLtf9+dakZxBA4QOJww2PfgWPqfsrr/xTFHwsLtGvM24B1rM/xLQPvluWqAuFaPTBhDoX4GBBoQ1EXTX7TvflouSyu9r8PxVJP6UUMd6urUqM6XWb6tbNk2JTpJ+jyQtX9ObWZvFDN0tBPDrEGQSBiLrHFz30pmjKvcXQBtgBGceGnAKQ4qgmbO3KerhjmoEBaXpieXyMZpNRXyDRAVBfNFkWjbZNgMvoXIiVImWY/lkvG5ISEpsp+7tj6YwxGNJi3RzuUxNBZuBfoBJuz3s9BVK6mXMh55pC9pjdqKSDRYo1Qu/YfKzqwJJ9+8nsRzLvOaE2XOIFAEkGCgBhPkbK1icGuzskwRPr8AXGuS6lA5Bx5KnLC+TLGPo5v87aucs+iT+g1/tZhDvOKxbJELdZZym9dNZZGjm43napBAw==;bBlIfTHr5JnYyQ9DKApZJw=="

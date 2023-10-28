@@ -40,15 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "While tech companies play with OpenAI’s API, this startup believes small, in-house AI models will win"
-    excerpt: "You can also take advantage of managed cloud services, such as EC2, Vertex Pipelines and SageMaker. ZenML also integrates with open source ML tools from Hugging Face, MLflow, TensorFlow, PyTorch, etc. “ZenML is sort of the thing that brings everything ..."
-    publishedDateTime: 2023-10-23T18:27:00Z
-    webUrl: "https://techcrunch.com/2023/10/23/zenml-empowers-companies-to-build-their-own-ai-stack-based-on-open-source-tools/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
 
 secured: "cbXxWeXWzvjjtlkulyYC+/C2WBbjsF2Oi1zyb5dD931vLVQgeOpWpG+Y5i2g4FA4VpTmO1H23Zu/IzKjkfWqSbiRpe9gYGCah9FUEmTnQoQIfPTtF/MOjSatNgqHve/HBW9FAFPx4ePiboTfTHPiSQc6AYXY27W1ebFyRIpF3qUutAA5kEWIrJv0qcSLHNt/LjtAtpje74XWpojfgwXHN/V6VrKGZ7b+RLN4PQWUWZp4cOgPIkqqIJMm2xsFEvqaS/9RgyJwUaQvlVrAq5BtGEe2y0XrHxbW7tFpQcuf5L8K0tFl0nYC51Oc5Ufathz7pUePVk9DHAujAx2A+a1c72QzJlUH+BAXGxUTJftwREE=;mNnCZmt1GGjKyQWq4lSSBw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/yahoo-finances-next-rivals-taking-192451983.ht
 webUrl: "https://www.aol.com/yahoo-finances-next-rivals-taking-192451983.html?ref=biztoc.com"
 type: article
 quality: 50
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 42
+  - title: "Lambda and VAST Data in Cloud AI Training Partnership with NVIDIA Technology"
+    excerpt: "AI data platform company VAST Data and Lambda, an infrastructure-as-a-service and compute provider for public and private NVIDIA GPU infrastructure, today announced a partnership intended to enable a hybrid cloud experience dedicated to AI and deep learning workloads."
+    publishedDateTime: 2023-10-23T19:50:00Z
+    webUrl: "https://insidehpc.com/2023/10/lambda-and-vast-data-in-cloud-ai-training-partnership-with-nvidia-technology/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 36
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/10/AI-artificial-intelligence-machine-learning-deep-learning-shutterstock-701349271.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "NK77hGmILkNUfRI2xx5RMK7VD8MbFnFnB2MOYOtSNEJxAD3n4bUqO/zKeaVGsr9v5umgVG95I8JWwhLkEsJuhdyQK7IcYWyHtA9MRr3etosUJdDoC8ICiWTeqoNrJV/+b1weeT8FhCfGQIEezu1h9WVrDilnjEQHMolwqUeM2gjwfP9FVR4InOqFUOqfnyDPD0qNBM41bXwYD38dNOe+o32/whryRO5DRIUrl7zhSClYn1PCKDFCvc1L9pd3616215vUoDTWjgneWQ7B6OvWcW/8Z7tqAFi4F6iZEnFFXX1kI/ZEqgpTZiIRf7e7TgoLBa7XSC6o8gcHPkMGiVekvUkQGgTpAwsN37mxA0J/AGJx00rrHWBmbNjQMn70aIiAeIovEy2HuG2frZipvooAvGuW53CUVXQVTLSeD0Qr/B5Z2pVmTSD5cTLV3TruJVJ1qSHp6tyqCKGda5dPUV6FM4C0YNS9zP7WACQqZrxExtJwD0JbicOL9bniSlyuPfAelA+5TJOX0GPcMZRXl7sNgQ==;pRVij7uK5JCifKNTBSVJIg=="
 ---

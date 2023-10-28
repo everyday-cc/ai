@@ -28,15 +28,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 34
-  - title: "Australians’ rejection of the Indigenous Voice in constitutional vote is shameful, supporters say"
-    excerpt: "said he accepted the public’s verdict on the Voice. “The Australian people always get the answer right and the government absolutely accepts the result of the referendum, so we will not be moving forward with constitutional recognition,” Marles told ..."
-    publishedDateTime: 2023-10-23T18:01:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/oct/23/australians-rejection-of-indigenous-voice-in-const/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 0
   - title: "Australia just voted down a voice for First Nations in its Constitution. What comes next for the Indigenous rights movement?"
     excerpt: "After the defeat of “The Voice” referendum, there is still an opportunity for Australians to reckon with their past. Catholics worldwide should also seek reconciliation with Indigenous peoples."
     publishedDateTime: 2023-10-26T18:05:00Z

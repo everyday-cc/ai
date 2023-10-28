@@ -2,6 +2,83 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-09-15-artificial-intelligence-robotics-market-2023-2030-latest-report-reveals-worldwide-industry-growth-development.md",
+      "title": "Artificial Intelligence Robotics Market [2023-2030] | Latest Report Reveals Worldwide Industry Growth & Development",
+      "excerpt": "Global Artificial Intelligence Robotics Market (2023-2030) research report provides precise information related to business development, advanced growth plans, and trends predictions. It discusses ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34612071/artificial-intelligence-robotics-market-2023-2030-latest-report-reveals-worldwide-industry-growth-d",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34612071/artificial-intelligence-robotics-market-2023-2030-latest-report-reveals-worldwide-industry-growth-d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34612071",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34612071",
+      "publishedDateTime": "2023-09-15T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-face-recognition-technology-industry-global-market-size-share-supply-demand-segments-and-forecast-2023-2030.md",
+      "title": "Face Recognition Technology Industry Global Market Size, Share, Supply, Demand, Segments and Forecast 2023-2030",
+      "excerpt": "Global Face Recognition Technology Market (2023-2030) research report provides industry Share, Size, CAGR, Production, Consumption, Revenue, Gross Margin, Cost, and Market Influencing factors of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34612102/face-recognition-technology-industry-global-market-size-share-supply-demand-segments-and-forecast-2",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34612102/face-recognition-technology-industry-global-market-size-share-supply-demand-segments-and-forecast-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-15T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-face-recognition-technology-market-research-report-on-regional-size-and-status-2023-2030.md",
       "title": "Face Recognition Technology Market Research Report on Regional Size and Status 2023-2030",
       "excerpt": "The Face Recognition Technology Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments ...",
@@ -1049,102 +1126,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-ai-and-machine-learning-usage-up-155-among-marketing-teams-snowflake-modern-marketing-data-stack-report-finds.md",
-      "title": "AI and Machine Learning Usage up 15.5% Among Marketing Teams, Snowflake Modern Marketing Data Stack Report Finds",
-      "excerpt": "No-Headquarters/BOZEMAN, Mont. — Snowflake (NYSE: SNOW), the Data Cloud company, today released its Modern Marketing Data Stack 2023: How Data-Forward Marketers Are Redefining Strategies to Unify, Analyze, and Activate Data to Boost Revenue report.",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ai-and-machine-learning-usage-up-15-5-among-marketing-teams-snowflake-modern-marketing-data-stack-report-finds",
-      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ai-and-machine-learning-usage-up-15-5-among-marketing-teams-snowflake-modern-marketing-data-stack-report-finds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/09/bw20230914222851_snowflake_mmds_2023_leaders.jpeg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-14T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-private-ai-summit-with-senate-titans-of-tech-garners-controversy.md",
-      "title": "Private AI summit with Senate, titans of tech garners controversy",
-      "excerpt": "\"This is the room you pull together when your staffers want pictures with tech industry AI celebrities. It's not the room you'd assemble when you want to better understand what AI is, how (and for whom) it functions,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/zuckerberg_insight_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/amp/",
-      "publishedDateTime": "2023-09-14T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

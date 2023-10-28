@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
 excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
 publishedDateTime: 2023-10-25T14:58:00Z
-originalUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
-webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
+originalUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca&region=ca"
+webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca&region=ca"
 type: article
 quality: 69
 heat: -1
@@ -665,6 +665,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "+Dz/ULdvB8aozkMDAFEQ1mNdvd7ic98grPAe22dRcEjOSCBt9isi4FBmD0w5A6z5Th1z0WTkfREyxZ5qr9VeD+qrLX+dzS2H+yrajj/2P3GK26S4eGa3dyjv5ezU5ZBVmCueXHdrfuahq47WDGMU6gyhKYqV3gytMNANaGEn3KhyZ+TKFoL2FSE+rteL8A63eFTjCuUcfSa+jq9CNA5nScgjKYtVTzcH/OH5nQKdGszJ+XVn3zs8eAdWtZ3ko+u48CsE9ydX2+FSbqTRHKw2fafGYO7mnAKxOr3czIv6Y+HA3h2Nz96wLZexNh5XPFux+T0RYHCIRqvdxGgBF1CsLKE0KrruXhcFE1FKXU1iKBJJ8hhYYTmEo6LWrxCVCVHRXNW47W+VHcwin4KuUP7OLrdXy2aCxgWK1QgkjgX1TP2Td42wAjQmVs6VtWDn54Nf5llyp7un7vr2af+G0mK4NMFdUkkzw0Z3yMBeKLRLNNMLlfAX6CjyAYwPloSabvKWddqysDWnX+Q0mva/A4AOgQ==;NDOgFXALwR2YQVie4fb3ig=="
+secured: "eAeI79TWMF68fJMkFb3W3Q3iBOcn6Cae12FRXl6juq/CqcmrV66SPgOmdbILSO8CHe3J9SyY8aUNfdot96eypwyaWPkLJlsNUFmvVqwZxGshQ8RuHd/xnb9oxa18PzgtxMnLnNT3OaSn8RLFhXy4vo2Xwn0s87fFtv/u6z05hxrvSqodY7J4TnkpmAKZl7QlVV4Sg1fFXZouDDJJzzd+zifeUx216vyixXXVq50NPRANvhiFwKXD1nqyEElEcmaePP3MwM+UEkq4Q4tCXU/zMY31PYMDP1zpmgxsQyJLe0GBuTg0+8wZ/fcwYPnI/X4BJiI/fNuXa9Sa1rDF2fzC5C7n8YPQfdA69Gw/TD2aiec=;W8HU7ZPA35+8gCbcV0Qczg=="
 ---
 

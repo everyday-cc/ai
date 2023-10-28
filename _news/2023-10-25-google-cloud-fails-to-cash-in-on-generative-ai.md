@@ -57,15 +57,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Apple expected to spend $4.75 billion on generative AI in 2024 alone"
-    excerpt: "After a report said Apple was planning to announce generative AI features next year with iOS 18, analyst Ming-Chi Kuo corroborated that."
-    publishedDateTime: 2023-10-23T18:33:00Z
-    webUrl: "https://bgr.com/tech/apple-expected-to-spend-4-75-billion-on-generative-ai-in-2024-alone/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 19
 
 secured: "cJolwuv60bj+QR5qB0T0tucNAK3KBUNCz2C4BruzOgHI8WFyPqnpLMs1xoXUKTQe+GPcOBhjWJIld5LON9JCGhMwUvrckSTIVXYMm/IFWNFIPnTd5R5M0d6adjJ2lVtJX4xvv2D8dL311mHMjpfaSCRCkeWqCA6flOiEBB9KhDoFLxE/kwwyEGnAaGpNS0eEjcVGx9RqeggV1bnsB+uVyksAKA32a+RUWkVGKU/a+eMHdWbAEY6HZ08ZdK8/IIkFWch9tD/6AP0cXTCx888uSre1ZgygX9NAcKBQ1Yu3tMkaPlrTX9YuHCT/yxQ1fblnc1zeY9vSZMHZBJPyGZvYlE+R4fv4gJnwhuU2JB7PBaU=;iE+JE0CfN3Q18nVi8did4w=="
 ---

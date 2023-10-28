@@ -26,89 +26,34 @@ images:
     isCached: true
 
 related:
-  - title: "VAST Data Extends AI Infrastructure Leadership with Lambda Labs Partnership"
-    excerpt: "VAST Data and Lambda Labs have embarked on a new strategic partnership to develop an elite hybrid cloud service tailored specifically for AI and deep learning operations. Lambda has chosen the VAST Data Platform to bolster its On-Demand GPU Cloud ..."
-    publishedDateTime: 2023-10-23T17:36:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/23/vast-data-extends-ai-infrastructure-leadership-with-lambda-labs-partnership/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/23/vast-data-extends-ai-infrastructure-leadership-with-lambda-labs-partnership/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/23/vast-data-extends-ai-infrastructure-leadership-with-lambda-labs-partnership/amp/"
+  - title: "China homegrown AI chip development proceeding despite US ban"
+    excerpt: "China's chipmaking industry continues to advance its domestic development of AI chips despite stricter US bans, with companies like Alibaba, Baidu, Huawei, and Tencent developing their own AI chips."
+    publishedDateTime: 2023-10-24T01:41:00Z
+    webUrl: "https://www.digitimes.com/news/a20231023PD228/us-chip-ban-china-huawei-ai-chips-alibaba-baidu-nvidia-tencent.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6536ae50439b77a61ad8d7a4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 932
-        height: 622
+      - url: "https://img.digitimes.com/newsshow/20231023pd228_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Lambda and VAST Data in Cloud AI Training Partnership with NVIDIA Technology"
-    excerpt: "AI data platform company VAST Data and Lambda, an infrastructure-as-a-service and compute provider for public and private NVIDIA GPU infrastructure, today announced a partnership intended to enable a hybrid cloud experience dedicated to AI and deep learning workloads."
-    publishedDateTime: 2023-10-23T19:50:00Z
-    webUrl: "https://insidehpc.com/2023/10/lambda-and-vast-data-in-cloud-ai-training-partnership-with-nvidia-technology/"
+  - title: "Chloe Wang of Yang Cheng Fund Optimistic about US Ban on AI Chip Exports"
+    excerpt: "Chloe Wang, a partner at the Chinese investment fund Yang Cheng Fund, welcomed the news of the US banning exports of certain AI chips. Wang said this move could stimulate China's domestic chipmaking ecosystem to become less reliant on components from abroad."
+    publishedDateTime: 2023-10-24T16:14:00Z
+    webUrl: "https://www.caledonianrecord.com/news/national/chloe-wang-of-yang-cheng-fund-optimistic-about-us-ban-on-ai-chip-exports/video_a0685493-1b95-5a6d-be05-0d4b2067230a.html"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 36
+      name: The Caledonian Record
+      domain: caledonianrecord.com
+    quality: 53
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/10/AI-artificial-intelligence-machine-learning-deep-learning-shutterstock-701349271.jpg"
-        width: 650
-        height: 433
+      - url: "https://bloximages.newyork1.vip.townnews.com/caledonianrecord.com/content/tncms/assets/v3/editorial/a/06/a0685493-1b95-5a6d-be05-0d4b2067230a/653802ab53d97.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
+        width: 720
+        height: 378
         isCached: true
-  - title: "Lambda and VAST Data partner to accelerate AI training across public and private cloud, leveraging NVIDIA technology"
-    excerpt: "Dubai, United Arab Emirates – VAST Data, the AI data platform company and Lambda, a leading Infrastructure-as-a-Service and compute provider for public and private GPU infrastructure, today announced a strategic partnership that will enable the world's ..."
-    publishedDateTime: 2023-10-24T07:30:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/lambda-and-vast-data-partner-to-accelerate-ai-training-across-public-and-private-cloud-leveraging-nvidia-technology-yw4kushl"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/lambda-and-vast-data-partner-to-accelerate-ai-training-across-public-and-private-cloud-leveraging-nvidia-technology-yw4kushl?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/lambda-and-vast-data-partner-to-accelerate-ai-training-across-public-and-private-cloud-leveraging-nvidia-technology-yw4kushl?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 36
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OGUwODc2N2YtMzFhOC00/0/renen-hallak_ceo_vastdata-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "VAST Data Elevates GPU Cloud Capabilities in Strategic Partnership with Lambda"
-    excerpt: "Oct. 23, 2023 — VAST Data and Lambda, a leading Infrastructure-as-a-Service and compute provider for public and private NVIDIA GPU infrastructure, today announced a strategic partnership that will enable a hybrid cloud experience dedicated to AI and deep ..."
-    publishedDateTime: 2023-10-23T17:43:00Z
-    webUrl: "https://www.datanami.com/this-just-in/vast-data-elevates-gpu-cloud-capabilities-in-strategic-partnership-with-lambda/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 35
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/11/VAST-logo-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Vast Data and Lambda partner to offer optimal cloud-based AI training infrastructure"
-    excerpt: "Universal data storage platform provider Vast Data Inc. said today it’s partnering with Lambda Inc. on a new hybrid cloud experience that’s focused on accelerating artificial intelligence training."
-    publishedDateTime: 2023-10-24T00:46:00Z
-    webUrl: "https://siliconangle.com/2023/10/23/vast-data-lambda-partner-offer-optimal-cloud-based-ai-training-infrastructure/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/25964.jpg"
-        width: 1500
-        height: 857
-        isCached: true
-  - title: "FPT Announces Strategic Partnership with Landing AI, Advancing Artificial Intelligence Development and Education"
-    excerpt: "FPT, global technology firm headquartered in Vietnam, and Landing AI, the US's leading computer vision platform and artificial intelligence (AI) softw"
-    publishedDateTime: 2023-10-24T07:23:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231024035093/en/FPT-Announces-Strategic-Partnership-with-Landing-AI-Advancing-Artificial-Intelligence-Development-and-Education"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 30
 
 secured: "Uv54N6N9cMNLoZ8XhZPvdFWi3Di8/EpoKmrnkkYg8NnlTKIjFELCw92g8K0DEWUAhcuSRbGohNYhrQzD+3nKXbqyjxhkFBzxYKuDpminCWT0FGuuI5OfAP+dN/hJnBPg3P1DFVvPxJp+SfUl8r6sNyWEHdu9CJ4NnLzHNI0TFnwIWHLiK12uAABu6QVhvxTADAAHHucxZjCclA63aC+7o/Ydt16erHVFP7mCJmIT4FORpdIftL/Yf2bq/ERv3ZP+LLWsOD+BbxLcw3yyl6ODjf3TKLPyNsIGdeqg1X7bMJZtnjzIJFv8+a2tXfGMcU/0KOqcl46DTGsMdkb/W+upWYXDgE5tL4Jbb47u6zTWi9Y=;O0NNc/uh0C13P/ozrS6VBw=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 1750
         height: 1466
         isCached: true
+  - title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
+    excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
+    publishedDateTime: 2023-10-28T10:05:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 72
+    images:
+      - url: "https://i.guim.co.uk/img/media/53285d0e16ba8ce49782d1e34d9d4e78f37991dd/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=4c1a22e3a11bda4c35e304748e0175b9"
+        width: 620
+        height: 372
+        isCached: true
   - title: "5 ways AI could influence nursing in the coming years"
     excerpt: "Artificial intelligence comprises various technologies in almost ... health care AI companies have attracted more investments and equity deals than any other sector except driverless vehicles and other transportation-related work, according to the OECD.AI ..."
     publishedDateTime: 2023-10-24T04:54:00Z
@@ -64,15 +80,6 @@ related:
       name: marketscale
       domain: marketscale.com
     quality: 34
-  - title: "Measuring Mood Through Artificial Intelligence"
-    excerpt: "Whether it’s a parent with a thermometer and children’s Tylenol or a tumor board determining an oncology regimen, such a data-driven approach is usually the best practice in 21 st-century healthcare. Unfortunately, mental health care lags behind ..."
-    publishedDateTime: 2023-10-23T17:46:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/pathways-of-progress/202310/measuring-mood-through-artificial-intelligence"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 19
   - title: "The Computing Pioneer Helping AI See"
     excerpt: "Alexei Efros has spent his career learning how machines see differently from humans. Now he’s helping to bridge the gap."
     publishedDateTime: 2023-10-24T18:01:00Z

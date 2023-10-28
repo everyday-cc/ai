@@ -1178,7 +1178,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1218,7 +1218,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

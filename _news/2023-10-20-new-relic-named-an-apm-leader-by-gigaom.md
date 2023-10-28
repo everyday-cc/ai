@@ -1,31 +1,20 @@
 ---
 category: news
 title: "New Relic Named an APM Leader by GigaOm"
-excerpt: "New Relic is closest to the center of the 2023 GigaOm Radar for APM, representing the highest overall value to customers and its leadership in innovation New Relic NEWR, the all-in-one observability platform for every engineer, announced it has been named ..."
-publishedDateTime: 2023-10-20T15:02:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/10/b35351970/new-relic-named-an-apm-leader-by-gigaom"
-webUrl: "https://www.benzinga.com/pressreleases/23/10/b35351970/new-relic-named-an-apm-leader-by-gigaom"
-ampWebUrl: "https://www.benzinga.com/amp/content/35351970"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35351970"
+excerpt: "\"New Relic presents a strong APM solution embedded within a platform of other tools. Full stack analysis to the code level will be appealing to developers, while other features of the platform may be useful to IT operations in general,\" wrote GigaOm Principal Analyst Ron Williams."
+publishedDateTime: 2023-10-20T15:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/10/20/9902785.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/10/20/9902785.htm"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "u/llxgrSN/XmWMt1GZCTgdLW7iZ+NYP0xMU7yM0jb74IFao4x5nUjUDrLpwhYZJD7t0PnmhN7hHxhS9tky38/vDXbC1b6jPIrEuzkLkKoh+gNgZikMLGDQ4Oz6uDDQjhdouNNkGElhhGTg3bR/GRoQimlsAISQ90/Q9a7qNjFOQ4edVkULmjwHKQh4K2Hbi8sKh2BVSTejJP32c4VZ3U4ew0lfpxB78XK/Z1MqLCGZPQnOsitTCP886KVoU6EFyJfLceJNMM2e+898l8psCxtd2/yLF4VOt4BwGB2PSV7M/LNt4+FayiRUnlYn4TQoXXPJlN6sM45GGZ8AiAKcKgBDPYUsv3poqO6JrqwB9h1zA=;o5YPbr35JeX93m3Ger5sAg=="
+secured: "oYnF9HgEPvPmckKeFJ9tJ95oyk3wukcmOkFZwz7O0gmXl5A7bqtrTU89Q+oCRofMCGyyWDzmKCO9IcNwJtBXKb4f7ADPsZ7/SUPz+flSSXoLcej2U+FxiBvwuAMryijG97xhn/BlyGGImJMqI1Hr0DtDsRiBlgzvcahN0H0si32Vu5nH4w+obIUSOMgJrG09NAuYzicyvexbHNR93FLnVPQL1ZJTWovRot+ud2BjGZgMq8QIuUJCKlrA4pDlRUAGCfsx7a45ZB4BPDJDTAuqWbqhzwyjD0acgCYXhrsiWecXfLseAR1MBe4pYOCKheEMQvbHLbYI9OWjrDuaqcNle32Mz7UV5brHeMb9W6MSqe4=;Sxc7wrdWdF0q5V3TT+YecQ=="
 ---
 

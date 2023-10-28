@@ -7,7 +7,7 @@ originalUrl: "https://hbr.org/2023/10/how-ai-can-help-leaders-make-better-decisi
 webUrl: "https://hbr.org/2023/10/how-ai-can-help-leaders-make-better-decisions-under-pressure?ab=HP-hero-latest-text-1"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,52 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "UK officials are using AI to make decisions on benefits"
-    excerpt: "‘There is a lack of consistency and transparency in the way that AI is being used in the public sector,’ said Marion Oswald, a professor in law at Northumbria University and a former member of the government’s advisory board on data ethics."
-    publishedDateTime: 2023-10-23T17:19:00Z
-    webUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/?ico=trending-post-strip_item_4"
-    ampWebUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
+  - title: "How AI can help to save endangered species"
+    excerpt: "Scientists are using artificial intelligence to fight biodiversity loss by analysing vast amounts of data, monitoring ecosystems and spotting trends over time."
+    publishedDateTime: 2023-10-27T17:11:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-03328-4"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
+      name: Nature
+      domain: nature.com
+    quality: 37
     images:
-      - url: "https://metro.co.uk/wp-content/uploads/2023/10/GettyImages-1199003735.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03328-4/d41586-023-03328-4_26225544.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "UK officials use AI to decide on issues from benefits to marriage licences"
-    excerpt: "Exclusive: findings show uncontrolled and potentially discriminatory way technology used in Whitehall and some police forces"
-    publishedDateTime: 2023-10-23T20:51:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
+  - title: "Apple Ready To Spend Billions To Catch AI Leaders: Report"
+    excerpt: "Apple execs apparently were caught off guard by the AI fever gripping the industry and have been scrambling since late last year in an effort to play catch-up with first movers in the technology."
+    publishedDateTime: 2023-10-24T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/apple-ready-to-spend-billions-to-catch-ai-leaders-report-178729.html"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/f67ebc8d0858465139589175ab93563fb53a003a/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=39186499043e05877e63f25acf06ca8e"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Revealed: Government using AI to decide on benefits and driving licences"
-    excerpt: "Government officials are using artificial intelligence (AI) to help decide on everything from approving marriage licences to who should be given benefits, it has been revealed."
-    publishedDateTime: 2023-10-24T06:50:00Z
-    webUrl: "https://www.aol.com/news/revealed-government-using-ai-decide-064919745.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 38
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/3128803184bdd660a7bb0eff51bb8862"
-        width: 1200
-        height: 800
-        isCached: true
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 19
 
 secured: "tOQ62u68UOq1Eq1QgMthdn+TPSfzN8mgCe5pPooKXyaEAF8Ie/bk+x+tf/AExGkYXEd/fCl+sFvdjXRezWkJuNMJFKwPH9p0Lc6TAuHt54KZt66AyC+bRbWPMpojWHmbV1XWZfTWj84w50OXp1wyW/2ijGrOBlgRHxSfbZ+BwKaLPvTNgNml0arwu9cQPJuYm5Mm+R8oHVLf+zUOAfSoblYSG92jP4fLoxchLKvfjuIkZ52uqfTPZvx6X5vAsVeiXhTmFtjnHwbUZdIQd179vBxPpL4W44sl8YJ7MBtQPh/dHqORqDxV/rHqyEYrQeeSYAOhKMfiAIpROBJvCfjRRQDreWcC70YMgnDzaeI1QX5qZeZel0Xd9ZAV1DGl3R2H/B5ToutU13zpOCmGRA0ueF2MEw/GjdhAEBFmRrljfp3D6SGvuv0ILGv8cBWuLt8EL643XJt59cCmWvOLX8J++/ggQmVnuVj8eiolJLmf4Vt6/v+5lq4YCn+KuTwmt5MyicXRC/iha3zQxVOoRpX3CA==;KZFd6vunixlbWyn8ALEJug=="
 ---

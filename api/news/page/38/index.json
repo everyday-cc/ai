@@ -2,6 +2,92 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-09-30-205-awesome-chatgpt-prompts-you-need-to-try.md",
+      "title": "205 Awesome ChatGPT Prompts You Need to Try",
+      "excerpt": "When it comes to chatbots, the quality of the output is determined by the quality of the input! Use these ChatGPT prompts, tweak them to your business' unique needs, and leverage the power of AI and LLMs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/outlook-spotlight/205-awesome-chatgpt-prompts-you-need-to-try-news-321422",
+      "originalUrl": "https://www.outlookindia.com/outlook-spotlight/205-awesome-chatgpt-prompts-you-need-to-try-news-321422",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-29T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-30-5-hot-ai-jobs-to-consider-for-2024.md",
+      "title": "5 Hot AI Jobs To Consider For 2024",
+      "excerpt": "It’s clear that AI (artificial intelligence) is here to stay and these are 5 AI jobs that will be in-demand in the future",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shodewan/2023/09/29/5-ai-jobs-to-consider-for-2024/",
+      "originalUrl": "https://www.forbes.com/sites/shodewan/2023/09/29/5-ai-jobs-to-consider-for-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651751537e5abdefd7b1f0bc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shodewan/2023/09/29/5-ai-jobs-to-consider-for-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2023/09/29/5-ai-jobs-to-consider-for-2024/amp/",
+      "publishedDateTime": "2023-09-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-30-waymos-self-driving-cars-on-miami-streets-as-company-tests-its-technology.md",
       "title": "Waymo's self driving cars on Miami streets as company tests its technology",
       "excerpt": "To improve their next generation of software, company officials have returned along with their vehicles to the streets of Miami. While the cars will be in autonomous mode at times, there will be an operator inside of them, officials said.",
@@ -1022,101 +1108,6 @@
         "name": "The Telegraph",
         "domain": "telegraphindia.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-industries-that-ai-can-revolutionize.md",
-      "title": "Industries that AI Can Revolutionize",
-      "excerpt": "Artificial Intelligence is no longer the stuff of science fiction or a tech buzzword. For some businesses and individuals today, it is already a reality and a seemingly permanent fixture in their work or education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.econotimes.com/Industries-that-AI-Can-Revolutionize-1663526",
-      "originalUrl": "https://www.econotimes.com/Industries-that-AI-Can-Revolutionize-1663526",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png",
-          "width": 400,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EconoTimes",
-        "domain": "econotimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts.md",
-      "title": "Meta's new AI assistant trained on public Facebook and Instagram posts",
-      "excerpt": "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/metas-new-ai-chatbot-trained-public-facebook-instagram-posts-2023-09-28/",
-      "originalUrl": "https://www.reuters.com/technology/metas-new-ai-chatbot-trained-public-facebook-instagram-posts-2023-09-28/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/9umQxyWxG3O8-0gjnSZRKqO-gK4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6MU52GVI4VNMVPKK2OQC25LKC4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T19:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

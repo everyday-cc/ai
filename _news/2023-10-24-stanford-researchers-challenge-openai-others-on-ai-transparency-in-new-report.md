@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/stanford-rese
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1280
         height: 832
         isCached: true
-  - title: "While tech companies play with OpenAI’s API, this startup believes small, in-house AI models will win"
-    excerpt: "You can also take advantage of managed cloud services, such as EC2, Vertex Pipelines and SageMaker. ZenML also integrates with open source ML tools from Hugging Face, MLflow, TensorFlow, PyTorch, etc. “ZenML is sort of the thing that brings everything ..."
-    publishedDateTime: 2023-10-23T18:27:00Z
-    webUrl: "https://techcrunch.com/2023/10/23/zenml-empowers-companies-to-build-their-own-ai-stack-based-on-open-source-tools/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
 
 secured: "nHYOcIUvAXNs+bLe8KaVX1hrV1/s7d/CVP/d2Ac+9ysROLH/aczwa5E89TLt2PoA9n3rO45ZjhjXmS4FBXMCEDO6DKgWyKBD359NcUVov8VC4zDK6Y1UjxYgpE1GlmYQAp2hkRg8pGBCBBRB7+4fh67JvFzFh7E5JADtke+Fbz6vAQA/QzU+9DPEIIK9y0T00Zm/F5ZFS12Ut2h/Lq9WRBqgYWqgtELrG6L86ir4jt4CKH0wrFZD3iAdJiyUUFDKxNDvCYBhW/4pBZx1b9UQV/9aHLVCpB/z8gfYnLQJSTa9yX3hZV/hAYfOBr8HCWR36iqYxPriThfVadEiAZiagpGdu9LdhMB9DRRBg8W+ilnjdbj1HUPLA6iGjQIawgMogDzxzqQpRf1shkMpDPgrsUqGtUmVZMGUHsAqXme4vqsBP5QR6nkEuZ7qUkXPVkrDLST2/+qDFAKATgPihwF+wCLeSQnb2e0vsdusA9XLHphl+jqsjULPUcwZfL1VBSH3nuKlp58IDEa71YLGGe5mfQ==;5YVpVnjXfMtvnwDtfT/EZw=="
 ---

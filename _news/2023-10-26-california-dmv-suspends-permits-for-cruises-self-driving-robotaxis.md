@@ -112,15 +112,6 @@ related:
         width: 1480
         height: 833
         isCached: true
-  - title: "From doom to boom: AI is slowly re-energizing San Francisco"
-    excerpt: "It is not only reinvigorating the tech community, but it is also triggering a movement of people to the city and office-space rentals by companies."
-    publishedDateTime: 2023-10-23T17:54:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/10/23/from-doom-to-boom-ai-is-slowly-re-energizing-san-francisco/71291481007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
   - title: "The Cruise robotaxi reckoning highlights tensions over self-driving cars and how we regulate them"
     excerpt: "The DMV suspended state permits for autonomous vehicle operator Cruise, saying the company omitted key information about a collision that injured a pedestrian."
     publishedDateTime: 2023-10-26T13:44:00Z

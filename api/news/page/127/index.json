@@ -2,6 +2,102 @@
   "page": 127,
   "value": [
     {
+      "path": "_news/2023-07-31-how-is-machine-learning-different-from-deep-learning.md",
+      "title": "How is machine learning different from deep learning?",
+      "excerpt": "The confusion between machine learning and deep learning is an obvious one. Oftentimes, many people use the two interchangeably. However, these are",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/general-knowledge/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
+      "originalUrl": "https://www.jagranjosh.com/general-knowledge/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com/images/2023/July/3172023/AnalyticsVidhya-1_11zon.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
+      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
+      "publishedDateTime": "2023-07-30T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jagranjosh.com",
+        "domain": "jagranjosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-the-first-self-driving-car-fatality-case-put-to-rest-who-was-responsible-for-killing-a-pedestrian-in-this-case-it-was-not-the-robot.md",
+      "title": "The first self-driving car fatality case put to rest who was responsible for killing a pedestrian. In this case, it was not the robot.",
+      "excerpt": "Rafaela Vasquez, who was behind the wheel of a self-driving Uber that killed a pedestrian in 2018, pleaded guilty to endangerment on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7",
+      "originalUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64c6e413048ff200190dc4ee?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp",
+      "publishedDateTime": "2023-07-30T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms.md",
       "title": "Generative AI Exposure Widens Return Gap Between Tech And Traditional Firms",
       "excerpt": "A new study from the National Bureau of Economic Research reveals that recent advances in generative AI are accelerating the divergence in stock market performance.",
@@ -1081,92 +1177,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-google-deepmind-enables-robots-to-perform-novel-tasks.md",
-      "title": "Google DeepMind enables robots to perform novel tasks",
-      "excerpt": "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic and visual understanding beyond the robotic data it was exposed to.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-29T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-artificial-intelligence-heralds-new-digital-revolution-in-investment-and-trading.md",
-      "title": "Artificial Intelligence Heralds New Digital Revolution in Investment and Trading",
-      "excerpt": "Artificial intelligence, big data, and machine learning have revolutionized the financial markets, facilitating rapid analysis of large volumes",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-heralds-new-digital-revolution-in-investment-and-trading-1032491451",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-heralds-new-digital-revolution-in-investment-and-trading-1032491451",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/hRDRdnMaMyatndx4VvIkA5ajDjK2/1690551810174-0.jpg",
-          "width": 800,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

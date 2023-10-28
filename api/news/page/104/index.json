@@ -2,6 +2,92 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2023-08-15-sex-in-self-driving-cars-passengers-are-reportedly-hooking-up-in-san-franciscos-driverless-taxis.md",
+      "title": "Sex in self-driving cars: Passengers are reportedly hooking up in San Francisco's driverless taxis",
+      "excerpt": "People are reportedly having sex during their driverless taxi rides in Cruise vehicles, despite company rules against \"inappropriate behavior.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8",
+      "originalUrl": "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64db8f675e5d5a00195e5656?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sex-in-san-francisco-driverless-car-robotaxis-report-2023-8?amp",
+      "publishedDateTime": "2023-08-15T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution.md",
+      "title": "Nutanix Simplifies Adoption of Generative AI with New GPT-in-a-Box Solution",
+      "excerpt": "Nutanix (NASDAQ: NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box™ solution for customers l",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2023/08/nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution/",
+      "originalUrl": "https://www.itnewsafrica.com/2023/08/nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-suzhou-universal-chain-technologys-digital-reshaping-with-ibm-hybrid-cloud-and-ai-software.md",
       "title": "Suzhou Universal Chain Technology’s digital reshaping with IBM hybrid cloud and AI software",
       "excerpt": "A look at the development of Suzhou Universal Chain’s enterprise application integration platform and business process automation management platform.\nThe post Suzhou Universal Chain Technology’s digital reshaping with IBM hybrid cloud and AI software appeared first on IBM Blog.\n",
@@ -1096,110 +1182,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-random-noise-generation-in-tff.md",
-      "title": "Random noise generation in TFF",
-      "excerpt": "This tutorial will discuss the recommended best practices for random noise generation in TFF. Random noise generation is an important component of many privacy protection techniques in federated learning algorithms, e.g., differential privacy. Run the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/federated/tutorials/random_noise_generation",
-      "originalUrl": "https://www.tensorflow.org/federated/tutorials/random_noise_generation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-vsbltys-ai-driven-weapons-detection-software-is-faster-more-reliable-with-intels-gpu-flex-170.md",
-      "title": "VSBLTY'S AI-DRIVEN WEAPONS DETECTION SOFTWARE IS FASTER & MORE RELIABLE WITH INTEL'S GPU FLEX 170",
-      "excerpt": "VSBLTY's AI-driven software Vector provides early threat detection using enhanced facial recognition, and the ability to identify weapons, utilizing surveillance cameras to observe a wide area around protected sites.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-driven-weapons-detection-software-is-faster-more-reliable-with-intel-s-gpu-flex-170-1032553856",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-driven-weapons-detection-software-is-faster-more-reliable-with-intel-s-gpu-flex-170-1032553856",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/817114/VSBLTY_Logo.jpg",
-          "width": 400,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

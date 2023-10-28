@@ -54,15 +54,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 22
-  - title: "Enterprise software developers prepare for generative AI’s ‘productivity revolution’"
-    excerpt: "By all accounts, the impact of generative AI on software development will be profound. A recently published survey by GBH Insights LLC, which does business as GBK Collective, found that 78% of companies expect to use AI for software development within the next three to five years."
-    publishedDateTime: 2023-10-23T18:59:00Z
-    webUrl: "https://siliconangle.com/2023/10/23/enterprise-software-developers-prepare-generative-ais-productivity-revolution/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 12
 
 secured: "VM8CVCHwtVrMg2OTPmpZ7hEXRUp/0JwM+C49leRSlFTuoHX6TQMJhF0GmhNE9osFrGPI8kNNws9SC100mlkAO+6DJknTul9rpDBqfD3t7SSM5DZdCeKG3dV1H7Wot9t3PKlJc4i1cVsUJO2txrsZomEgpBHHqgUOXtRLix1JBJz1irFUPaPnEYpenC20I9xd6nuiZdVDBZJ7DwVEUHd9FhL7Ps5pLgNEfNIXHKDnvL8qmB2t6SWWIF24rL9L7x0R86i3urWl5oc3kXMuyqZrUX+dI8B8zn/5Iyma1UKub2OXZjPhsbUhsmC3jfu/W/o5Av8yACELg4CKK8ChW8H4CX1LOfrHkfcXvfeDILYyxbT0tE8hqqgf4k8et1WM+yiahZuOcUVPaApOy7zgVSb541sBkySyJB+m8mh/AbgqNEABnAk0blzmmPEEHgoBUs4GB0suVU6Ar1B8snrKIwXNFPB/cE7pwntws+EBb61ZdaM37NFa2iW/wG7SA3sGSVgqs5cTX9ECkLpBcNV2nWce+Q==;02hKD0dFN/3dvqyX6zbMGA=="
 ---

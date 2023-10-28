@@ -52,15 +52,6 @@ related:
         width: 1400
         height: 935
         isCached: true
-  - title: "CIOs assess generative AI's risk and reward for software engineers"
-    excerpt: "Litan told ZDNET in an interview that now is the time for senior managers to start talking with their personnel about how generative AI might be exploited safely in the longer term. \"Companies need to spend time educating their personnel, including their ..."
-    publishedDateTime: 2023-10-23T18:22:00Z
-    webUrl: "https://www.zdnet.com/article/cios-assess-generative-ais-risk-and-reward-for-software-engineers/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
 
 secured: "7QwquhYuqOj/MorQEgW2EeGruKGihfdd3/i8jKdPIX8A18BIpIc4lCusXnGpaqpLSpXM0s0qPPo/tKVp4w9UfyiqSmGU+Fo+tFZov4uYpDLB4OImU5dycIMyR+JRtL17ky4XRbwqB8h/73FWMTa/aUalQ3sUP//VNKOL/D4dAjUseE9ltIbU2UtK9zaSk377zMZzud7UGsqTkfN1fUn4T86dO9EodWdwY7y/aLXikVOx1vrFjZW9zXHhR96Y1jJ7V1QuyoSJb6zMhglbfKsQnin4NUVdmZi339rrPhV2mFEhaNte/WcDR3DePr0Q3bukHDGJIHnb8V98BH2//3Lhomnkv6D7f6jRfeY4OmHMr10R+2xvmf/n2agfbj74d+SK0MZskrwQ9h1wnGuHtUKa4qAj4nidVy6iyOM2oWnHdCxc3NkB2lS9CC1KRs7c5zm9GeFCC+pfNZS8beLP/Gm1rYyBMbaX/oxN0hZi0537Y7mJy3LAHRWL3LvWoVEQSooNAXKqXpbvRsHJxHeI6gEe4g==;L1NWgP/ruz8g6jnY43MK4g=="
 ---

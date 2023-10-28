@@ -2,12 +2,12 @@
 category: news
 title: "UK regulators report back on AI and Machine Learning consultation"
 excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
-publishedDateTime: 2023-10-26T11:30:00Z
-originalUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
-webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
+publishedDateTime: 2023-10-26T12:24:00Z
+originalUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
+webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
 type: article
-quality: 56
-heat: 66
+quality: 36
+heat: -1
 published: false
 
 provider:
@@ -18,12 +18,6 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
-
-images:
-  - url: "https://www.assetservicingtimes.com/assetservicesnews/images/ThursdayOctober2620231698319657.jpg"
-    width: 990
-    height: 640
-    isCached: true
 
 related:
   - title: "PRA, FCA and BoE publish feedback on AI and Machine Learning in financial services"
@@ -41,6 +35,6 @@ related:
         height: 900
         isCached: true
 
-secured: "oygLD11fN1OGtM9ZnDpr0UtDqUALHD/QdahLxMO3J7bgjIShzo1KAliKovhe/dE9WGQ7wq+7g8pUi6OwSvaL4pvh+hOyR+S6urxsyum1I3fg+B+DFXL6rV5M+0fMaINtJKazyWQ1vOSIRfFA/71bw+Zb7ewOMDsnrb3Q0rC90TDh9+cGZMPAo0Se7lHPQkzEoxWKWWRzwxHBDivGh89r0GrqyLomXfcMd36T2mQ//UisLYSnHjTYVtfkBNHukzZO0wHv1483YF4mUAeJbhgLRolOyC215IoTHtEO7h08WNx9sdi7cruQAJhrSHha6+3Yvy82vK0EqMvzN5yV5BBXdNu7HPwsy0Jz2kO7O7tzQE4=;QKqrUT4i89mzEPgg1yNQQg=="
+secured: "V2xQNBM2a1b3CpfAde81nOVEE0auNnGiab/SVPWA7HsfH2FrGYw2ZNEVwyPKxmOSgEgkqKvi2pUIYGtZClCKj8dAs7ItmxLXIxmxHXJSV+e42NrMtZR/TxS3J3FxJxK/ydI2jPjvHscuHHQi05kVBebacWC4j11PMTbJjXA4Qpf8PtBalmE1i7/cZGOKnp3UFu5Vc6oLZ/6y3yQoNwi0gAmnudt2YSVXxGqxgadUvTp1eB8HmdBzs5JqTMLeTf7y3tH1AGgHL2e06GBARWwEnmT2/Wqb4daNF7V1yLb69R/bn371xXTAQGSnkgqS2tEkfQccEJ6cH3luORoHriUGPvv2IhPxogHELjwMarj9urw=;fpdqakNz8Hd2knPefIwjMw=="
 ---
 

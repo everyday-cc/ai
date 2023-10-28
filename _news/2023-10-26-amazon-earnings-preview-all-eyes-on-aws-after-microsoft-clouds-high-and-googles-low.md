@@ -83,20 +83,6 @@ related:
         width: 703
         height: 492
         isCached: true
-  - title: "Microsoft Q1 earnings preview: Wall Street looks for signs of AI-powered growth"
-    excerpt: "Microsoft will report its Q1 earnings after the bell on Tuesday, as investors look for signs that its AI investments are paying off."
-    publishedDateTime: 2023-10-23T17:25:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-q1-earnings-preview-wall-142544621.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 50
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/_kE2Rk62ZPR_h8gCPPpHFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/f4268d76d6e33ea8599bd8f7fc1290f5"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Meta Platforms Stock Q3 Earnings Preview: Analysts See 2023 The Return Of Ad Dominance, Artificial Intelligence Plans On Watch"
     excerpt: "Artificial intelligence is key for the future of Meta with more AI-driven products being rolled out, Kessler added. JP Morgan: Overweight rating, lowered price target from $425 to $400 Wells Fargo: Overweight rating, lowered price target from $389 to $ ..."
     publishedDateTime: 2023-10-24T17:18:00Z

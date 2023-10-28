@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK officials are using AI to make decisions on benefits"
-    excerpt: "‘There is a lack of consistency and transparency in the way that AI is being used in the public sector,’ said Marion Oswald, a professor in law at Northumbria University and a former member of the government’s advisory board on data ethics."
-    publishedDateTime: 2023-10-23T17:19:00Z
-    webUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/?ico=trending-post-strip_item_4"
-    ampWebUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2023/10/GettyImages-1199003735.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
-        isCached: true
   - title: "UK officials use AI to decide on issues from benefits to marriage licences"
     excerpt: "Exclusive: findings show uncontrolled and potentially discriminatory way technology used in Whitehall and some police forces"
     publishedDateTime: 2023-10-23T20:51:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/f67ebc8d0858465139589175ab93563fb53a003a/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=39186499043e05877e63f25acf06ca8e"
         width: 620
         height: 372
-        isCached: true
-  - title: "How AI Can Help Leaders Make Better Decisions Under Pressure"
-    excerpt: "More and more businesses are turning to AI-powered technologies to help close the data-insight gap and improve their decision-making capabilities in time-critical, high-pressure situations. These technologies encompass a wide range of tools,"
-    publishedDateTime: 2023-10-26T12:25:00Z
-    webUrl: "https://hbr.org/2023/10/how-ai-can-help-leaders-make-better-decisions-under-pressure?ab=HP-hero-latest-text-1"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_26_Beatrice-Caciotti.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "ABNUmF3bSfjcgIje/JKYfbxwguKdTWgeF3Ewa+Lmb9bwyaDOZ4OvrrM9qtGtAXLU02FHD2I6GBL0aVLaC+GD3mFUIgbiEr0d7G1+nsRk5nGvI9NgM7O4t2gCgg4xjFJScxcA/FV9R3047UTb8exLOtXlD9HpE0hW2hlEU5wV1u5wHdNjzhu6TVZCVdzWrjLsaWDuIPMkVjBq82Aaf8RhgHVURmHCr630MByqZ06prZrlNM4txtTQriqVSisZyXFS91kJpgVsVk6kqJ/eQSPoe3YpXmL/MesCGSWqPFWY3VSYDrCS3sH8zNh96AMFlSW2ViUDZySP30iDnmKYEJyYKLqGG8NplSiVOIoFQ1PrstM0GkTibpGmoSifCrvXz9iq09+71b6mXX0K3/IYsdo7O5snog8TJKQlC/F+9SAs9COAiOm2p4UcFUvQp8i7FerRCozajJTDh0BkepbdJYgUHYL+9QOXbXxH9L8+bo89YbGzBsG5F8NSexc3j+8yLS8hCtvgqk9ywesnwX+CtV8NfA==;DOEZ6WZW7d6MPT8a6xCLGg=="

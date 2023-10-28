@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-t
 ampWebUrl: "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/"
 type: article
-quality: 86
-heat: 126
+quality: 88
+heat: 128
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800"

@@ -1,22 +1,34 @@
 ---
 category: news
-title: "The Computing Pioneer Helping AI See"
-excerpt: "Alexei Efros has spent his career learning how machines see differently from humans. Now he’s helping to bridge the gap."
-publishedDateTime: 2023-10-24T18:01:00Z
-originalUrl: "https://www.quantamagazine.org/the-computing-pioneer-helping-ai-see-20231024/"
-webUrl: "https://www.quantamagazine.org/the-computing-pioneer-helping-ai-see-20231024/"
+title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
+excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
+publishedDateTime: 2023-10-28T10:05:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 type: article
-quality: 19
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Quanta Magazine
-  domain: quantamagazine.org
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
+  - Machine Learning
   - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/53285d0e16ba8ce49782d1e34d9d4e78f37991dd/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=4c1a22e3a11bda4c35e304748e0175b9"
+    width: 620
+    height: 372
+    isCached: true
 
 related:
   - title: "Exploring the details of an energy-saving AI chip"
@@ -34,22 +46,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/an-energy-saving-ai-ch.jpg"
         width: 1750
         height: 1466
-        isCached: true
-  - title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
-    excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
-    publishedDateTime: 2023-10-28T10:05:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 72
-    images:
-      - url: "https://i.guim.co.uk/img/media/53285d0e16ba8ce49782d1e34d9d4e78f37991dd/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=4c1a22e3a11bda4c35e304748e0175b9"
-        width: 620
-        height: 372
         isCached: true
   - title: "TUM professor develops an energy-saving AI chip"
     excerpt: "Home > Pressemitteilung: TUM professor develops an ..."
@@ -88,6 +84,15 @@ related:
       name: marketscale
       domain: marketscale.com
     quality: 34
+  - title: "The Computing Pioneer Helping AI See"
+    excerpt: "Alexei Efros has spent his career learning how machines see differently from humans. Now he’s helping to bridge the gap."
+    publishedDateTime: 2023-10-24T18:01:00Z
+    webUrl: "https://www.quantamagazine.org/the-computing-pioneer-helping-ai-see-20231024/"
+    type: article
+    provider:
+      name: Quanta Magazine
+      domain: quantamagazine.org
+    quality: 19
   - title: "3 Ways Leaders Can Start Unlocking the Benefits of Artificial Intelligence"
     excerpt: "After decades of hype and hysteria, artificial intelligence is finally ready for primetime. To date, A.I. has largely been reserved for the largest companies. But now, with the advent of generative pre-trained A."
     publishedDateTime: 2023-10-27T20:32:00Z
@@ -98,6 +103,6 @@ related:
       domain: inc.com
     quality: 15
 
-secured: "bWzEHo+B5Stb4ydvYJK6Pqg5Lgwnzqq+/ozyTeY/jV+Lgcgwbb5Zs+BjhAXD1ayRewv4VJW5PRU5z77wqwkUdDNZleV86cZ7I/Ov/XZzWrhug5XRBnDqsyEIYnKnZabGJ7NVSPOCsfnjdzMZvu2Hml5+zRl4aF1K2QST0VCKHRx0yYBWubSwedi0oZdm9S7SWtVMc1JMmionzWAMBIsGIHrzTrpQa7Qo5qbqjb2iH5z5jimqIKq/1hIh3rdg8YoYkaRrHr6ohTq5Dz9ES4ySDXlDVgTp4VQZTFAUR87dDHjcH5s/slbui+/+BznBZE13hT0zFgsLQcMzfIWOp6xdTsaJNcaq81VYckrvWG8tgjI=;PB0eSpMGsYO+SRIfrzrKsw=="
+secured: "DjEbEntcsuLwChFzS3b/02UDsL2i3xZogvbDzx8oq0VYehVT6F2hjZzJ6OfZvYK0RRcqI2NY+N68KBBUlGUDarkMGx6ljx+EWkwJ9z9fLAhYWMB6KX6GHZJ22aoOlHkmRlBAcJ7EMb6MhoGNbOa3aYvXcX1tSv/hbYvxJZ55Sr/axbO13kg5W2ic7SwfV5y6MU6EKYYmx/nCxtXRha1WJxvJ597OM1mMkmTIntt9HvXwVR2yWVnqNGhswKrw7xaib8aRbrUVlKb1+xDtx2Sc0jIWVi54kOzhG86QVrnogO+5/87CeTCNzFrSQONUHt+WZtuP+axN6hJDtSmLfl/znviXr5XS9J/Izp/f3zI+4o4=;Ylh82dKtd9JhKDeBCK8TJQ=="
 ---
 

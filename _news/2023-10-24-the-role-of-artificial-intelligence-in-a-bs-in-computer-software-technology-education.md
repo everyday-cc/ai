@@ -51,6 +51,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "FPT Announces Strategic Partnership with Landing AI, Advancing Artificial Intelligence Development and Education"
+    excerpt: "FPT, global technology firm headquartered in Vietnam, and Landing AI, the US's leading computer vision platform and artificial intelligence (AI) softw"
+    publishedDateTime: 2023-10-24T07:23:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231024035093/en/FPT-Announces-Strategic-Partnership-with-Landing-AI-Advancing-Artificial-Intelligence-Development-and-Education"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 30
 
 secured: "C1kPdE5n9Oghdl+oDfIJdnxzAXajkIfZqOvBQeGES7hgg6tzGF2rQAtokOw/0CSVlcx6pani9U2mOS+a0dj/FkDTiJq+VcVTDXVMwvUVZwofb5r1qr/b2M164qUUNmeMbd+4tPn+qOYXF+DH04euVwQ4idzKgwrsZ+Ijy2DYc2J4DiClGtQxZC/zoaBHX0F5SxxmhR3ts1ny6xAjWebPkEpXcx7FpdC8vPds8FstagYOzifMPK1ICR9WejU2U7jZ+Wto5lxwdAhYdga3wGFeRNAl1VpdIc4S9JE13BrKtuMZYqss+igvdMluMDuv8RMK5He8Cfi2xUBSqvjiZLB/eRlNqkr6+0MJOGMfBS2N+V21hPZrrVMBxXqAQ7Ic9LwG3w7BvK5mYz7gApl5R8UeGTABF41P/36Unh7qp4KlGdhIel/XR24kO7W6wtODBt1znS49NTi0UBcdpmUNcrKcB2hv9IrSot7tAS5VSRVajDtC5spQpZKdfHidgAmowzAxXnTeAVoHyShE019TDdE3EQ==;T8yq1NoJaIBAwNdn7lvRKg=="
 ---

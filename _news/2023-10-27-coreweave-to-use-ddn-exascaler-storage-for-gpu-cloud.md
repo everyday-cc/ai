@@ -51,7 +51,7 @@ related:
   - title: "StackPath Launches GPU-Accelerated Edge Compute Instances"
     excerpt: "DALLAS, Oct. 25, 2023 /PRNewswire/ -- StackPath, the industry-leading edge computing platform, today announced the addition of NVIDIA GPU-Accelerated Instances to its Virtual Machine (VM) and Container product options."
     publishedDateTime: 2023-10-25T19:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/25/9905503.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-stackpath-launches-gpu-accelerated-edge-compute-instances-/2023/10/25/9905503.htm"
     type: article
     provider:
       name: TMCnet

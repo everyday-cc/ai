@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen/amp/"
 type: article
 quality: 85
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/02u2amN1Nki4vahj6kWuggR-1.fit_lim.size_1200x630.v1698421852.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "This new data poisoning tool lets artists fight back against generative AI"
-    excerpt: "The tool, called Nightshade, messes up training data in ways that could cause serious damage to image-generating AI models."
-    publishedDateTime: 2023-10-23T17:26:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 55
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/poison-corrupts4.jpg?w=3000"
-        width: 3000
-        height: 1688
         isCached: true
   - title: "Meet Nightshade, the new tool allowing artists to ‘poison’ AI models with corrupted training data"
     excerpt: "Nightshade was developed by University of Chicago researchers under computer science professor Ben Zhao and will be added as an option"

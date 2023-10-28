@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-import
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Apple expected to spend $4.75 billion on generative AI in 2024 alone"
-    excerpt: "After a report said Apple was planning to announce generative AI features next year with iOS 18, analyst Ming-Chi Kuo corroborated that."
-    publishedDateTime: 2023-10-23T18:33:00Z
-    webUrl: "https://bgr.com/tech/apple-expected-to-spend-4-75-billion-on-generative-ai-in-2024-alone/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 19
 
 secured: "69HloMvjD35RVhQmSeXjXJfDJMQ82v1QBcI78K0yCCbanPEN1J1xewaNzySnkZ+7wslxyTK/Nis4Fmwi0grdpYGhisCXmaX2J4r/3R9RDi/TNYUbzIB0NzjBHuWblRifY7o2J1pPkoJjRfC25u5FYYOES0vUYrUoTeu1sEdAoeief4TL2U6qXGf6wF6HOmlimm6QqTsYmEmRm64sayOzKMxv8d+66Kf8xTWpNf4ADWQe+xyZnsJFRBLCgJFT9viUaAYiH7NfT5njlvxS3ckuSt0Cpdq+eULC+mFBlMcq4s/i2O16QZnsw/aG9cCJPns1Jl2QBokjHLtHNKbZtbzJkBstU7XjfySiKS7BMteeS3I=;gHQc5OVpcNlKLEL/ZryjTQ=="
 ---

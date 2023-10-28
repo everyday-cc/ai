@@ -70,24 +70,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Apple could spend $5B on servers to catch up in AI race"
-    excerpt: "Apple's attempts to catch up with the rest of the market in the generative AI field could cost more than first thought, with it potentially spending more than $5 billion over two years just on servers."
-    publishedDateTime: 2023-10-23T18:43:00Z
-    webUrl: "https://appleinsider.com/articles/23/10/23/apple-could-spend-5b-on-servers-to-catch-up-in-ai-race"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 19
-  - title: "Kuo: Apple Could Spend $4.75 Billion on AI Servers in 2024"
-    excerpt: "Apple is expected to spend several billion on hardware to support its artificial intelligence development in 2024, according to speculation"
-    publishedDateTime: 2023-10-23T18:55:00Z
-    webUrl: "https://www.macrumors.com/2023/10/23/apple-ai-server-spending-2024/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 19
 
 secured: "ANlgIoG7Zg8xRrQvyIXh1Xa+4R/Ad+WvjnN+FyUYxbe9sUDQ39tksATm5wyB+0tfp3HpBaJo3CUrJeWfttGcY5KCt9sDNXs7g3DX57cRsrYWODCaNIyXoOUnVB9M7dUHWWtm9p/w5W1havjCL54dQ6NHDGYPcy7hhCXhykrYIG0Y1sDwDrrjvbEZfgS8jhJC3MKg1OvjJpJPGrTpgBkZFsSlw39UeAbcHfgKUTwMysoav04RCIluc9wncjKAnlzVwYvh8kDEradcX1AS0AuEinRP5yw+KlNw+GIFS+kdD+i00mgGbQCz1AUzLWDHXM+jg0rUZMxreobhjE5Bdr2jamNv5575yPsVLRzdLmyHAWZC3Yn5IYgtm5QWP+Gq+YyapMDTbfqVPvOIDQDslrrNm4BRGaKoSkInFoC3FQd9QhDpFFiCxOXTXgrn6nQYca4yX24G3UP+mkHSUBiy8DZQrzrSU0wYvV4vMfeGvLT4g5GiYlzt2iH8l0XFKQ3XXNOORQMp5MOln3kf4iJs/hKQ6g==;hVcqJeqouaAa2p2vmQh7BA=="
 ---

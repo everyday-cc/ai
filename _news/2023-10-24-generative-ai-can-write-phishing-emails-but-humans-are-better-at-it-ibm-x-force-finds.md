@@ -45,15 +45,6 @@ related:
         width: 1353
         height: 900
         isCached: true
-  - title: "CIOs assess generative AI's risk and reward for software engineers"
-    excerpt: "Litan told ZDNET in an interview that now is the time for senior managers to start talking with their personnel about how generative AI might be exploited safely in the longer term. \"Companies need to spend time educating their personnel, including their ..."
-    publishedDateTime: 2023-10-23T18:22:00Z
-    webUrl: "https://www.zdnet.com/article/cios-assess-generative-ais-risk-and-reward-for-software-engineers/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
   - title: "Augmented Human: How Generative AI Can Be An Extension Of Ourselves"
     excerpt: "With LLMs, we have the possibility to explore dense datasets like biosignals, which measure the functions of the human body."
     publishedDateTime: 2023-10-26T12:44:00Z
