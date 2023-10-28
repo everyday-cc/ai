@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Three arrests after force trials facial recognition"
-excerpt: "A police force which used live facial recognition (LFR) technology for the first time said it had led to three arrests, including one on suspicion of rape. Essex Police trialled LFR on high streets in Chelmsford and Southend this week."
-publishedDateTime: 2023-10-26T14:34:00Z
-originalUrl: "https://www.bbc.com/news/articles/c51jzy42p19o"
-webUrl: "https://www.bbc.com/news/articles/c51jzy42p19o"
+excerpt: "Facial recognition technology can be used by police to scan large groups of people and by running photos through an image database known as a \"watch list\". Chris Philp, MP for Croydon South and minister for crime, policing and fire said the technology was being used by the Metropolitan Police at large events such as football matches."
+publishedDateTime: 2023-10-26T06:50:00Z
+originalUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o?at_medium=RSS&at_campaign=KARANGA"
+ampWebUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 59
+heat: 149
+published: true
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9b65/live/d1e43770-7370-11ee-8623-0398dceccf41.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "TTD EO launches facial recognition attendance"
@@ -71,6 +75,20 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "Essex police use intrusive facial recognition for first time"
+    excerpt: "LIVE facial recognition was introduced in Essex for the first time this week as police across Britain ramp up use of the intrusive technology. Southend officers carried out targeted operations with the camera system on Tuesday, while Chelmsford police followed suit today."
+    publishedDateTime: 2023-10-25T16:16:00Z
+    webUrl: "https://morningstaronline.co.uk/article/essex-police-use-intrusive-facial-recognition-for-first-time"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 39
+    images:
+      - url: "https://morningstaronline.co.uk/sites/default/files/PA-40271538.jpg"
+        width: 1185
+        height: 789
+        isCached: true
   - title: "Travel industry adoption of facial recognition grows"
     excerpt: "Travelers are most likely to be among the first to experience the mass worldwide commercial deployment of facial recognition."
     publishedDateTime: 2023-10-25T15:26:00Z
@@ -85,7 +103,53 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Russia illegally used facial recognition to arrest protestor, human rights court rules"
+    excerpt: "Russia's use of facial recognition technology to arrest a protester on the Moscow subway violated his human rights, the European Court of Human Rights (ECHR) ruled Tuesday. \"The use of facial-recognition technology in his case ha[s] been incompatible with ..."
+    publishedDateTime: 2023-10-26T12:25:00Z
+    webUrl: "https://www.politico.eu/article/russia-illegally-used-facial-recognition-to-arrest-protestor-european-human-rights-court-rules/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 31
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/07/04/GettyImages-1208074535-scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "‘A threat to our fundamental freedoms’ – MPs and peers voice opposition to live facial recognition"
+    excerpt: "Large group of parliamentarians calls for all police forces and private companies to immediately stop using surveillance technology, which senior Conservative MP describes as a 'threat to our civil li"
+    publishedDateTime: 2023-10-24T10:48:00Z
+    webUrl: "https://www.publictechnology.net/2023/10/24/public-order-justice-and-rights/a-threat-to-our-fundamental-freedoms-mps-and-peers-voice-opposition-to-live-facial-recognition/"
+    type: article
+    provider:
+      name: Public Technology
+      domain: publictechnology.net
+    quality: 27
+    images:
+      - url: "https://www.publictechnology.net/wp-content/uploads/2023/10/monitoring-1305045-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Essex Police facial recognition technology op in Southend"
+    excerpt: "Three people have been arrested, including one on suspicion of rape, as police used facial recognition technology in two Essex high streets this week. Live Facial Recognition technology was utilised for the first time in Essex in Southend High Street on ..."
+    publishedDateTime: 2023-10-26T12:51:00Z
+    webUrl: "https://www.echo-news.co.uk/news/23881211.essex-police-facial-recognition-technology-op-southend/"
+    type: article
+    provider:
+      name: Echo news
+      domain: echo-news.co.uk
+    quality: 19
+  - title: "Can facial recognition be justified for espionage in war?"
+    excerpt: "With military conflicts asserting themselves into the story of the twenty-first century, a parallel debate is being waged about the uses for FRT in warfare."
+    publishedDateTime: 2023-10-27T11:30:00Z
+    webUrl: "https://www.biometricupdate.com/202310/can-facial-recognition-be-justified-for-espionage-in-war"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
 
-secured: "32+j2x82i3yVl/hzLxxBEK7ZDTcXV8A4BgIowDaX0ii3mGmb99Wk2oZqocihKazUpWnP6SCVdy6LFt0PBC3weoM/ogSi46HgtZ+6gnpn2LhDrnRUPBd66hUyuXLtQaYqM9w0mih1JMkI4yAD45hH5zpot6CByFu/i+3jyPMXl2k3AgGWwYE/V5Lvayj7rgkR98D9pSoMcKilBpRav2GZ/l7XHweu85mwQM7kd50eqMKcNPC/FbPERM8MfLwupef0vbDmsMKdS5KmwUnizyOmwc0y0MGLCUlwx9/dI9n2Lt4OQKgiN/ToPEew1w64y9ghDQMx2GIPYqYR1IwlZCTM9YQ1bfOipiF9hqCgBQRvxUoYNXWvq7h7GsWCcPIyI1Iy1Z2AGAG4w9o/uPAsYK8F/mtGZhPxdWhMlMqD52CKh+PibvzvZsVeXrdXNNpTcUmqdonOQKTFswWtlrbDasID7cSOO9Co1ludwtfxn9OuJGLAiuiMKVdUX18JvUdtyZ/MEI6ElWZdgZl/pkJAZAfhrQ==;fNWsmVcqb3tmjLfYHIbxeA=="
+secured: "YwVZVB2mm+/aZ0uxr0mgOoeMucx8UyutKTzYWIqLkOzS8fCGq9Yu6jC0uO/IzMcP9oL5FJsSNeW47N8cY020Be4UO5M9fT6D1PCOdOOZfU+Un0mufAGsvQ3sJcirUeCVL/b1Gs3pchrZBzUtUSs02xvp01ZU0GUxXGkJbU4hD2Qyi95CpWK9i9tucTZDnOTXyeElRGNgjsy3BFSms0JrwYBDhxOQKo7Tq/NRei/59r912z8fcC+wEftMOsWlF4RfRkgDN1yKtsh7ee4LajFCtQq/9qw1XNwFAqtOuol2DcmaFU1k/mZKhyHA7WWwQDOTMeyz/PgaNAnNKccNgUm1VfezAeeMMD+VyuVNVCehKsI=;1s7IKt+7m3K6DV8dBn5Hxg=="
 ---
 

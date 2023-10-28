@@ -2,6 +2,40 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2023-08-03-2-options-to-trade-the-hype-around-artificial-intelligence.md",
+      "title": "2 Options to Trade the Hype Around Artificial Intelligence",
+      "excerpt": "Either way, traders can consider playing the trend with the Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF (UBOT). Global investment firms like Goldman Sachs are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-options-to-trade-the-hype-around-artificial-intelligence",
+      "originalUrl": "https://www.nasdaq.com/articles/2-options-to-trade-the-hype-around-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-substance-use-linked-to-long-lasting-brain-changes-cognitive-decline.md",
       "title": "Substance use linked to long-lasting brain changes, cognitive decline",
       "excerpt": "Beyond the well-documented health risks, addiction to these substances detrimentally affects our cognitive flexibility, which is the ability to adapt and switch between different tasks or strategies.",
@@ -1131,58 +1165,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-inworld-ai-raises-new-round-at-500m-valuation-for-ai-game-characters.md",
-      "title": "Inworld AI raises new round at $500M valuation for AI game characters",
-      "excerpt": "Hollywood’s portrayals of AI-controlled Terminator robots once seemed like pure science fiction ... You take engines and you start replicating, taking humans that are working on a factory line, and you replicate them with conveyor belts.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/inworld-ai-raises-new-round-at-500m-valuation-for-ai-game-characters/",
-      "originalUrl": "https://venturebeat.com/games/inworld-ai-raises-new-round-at-500m-valuation-for-ai-game-characters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/inworld.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

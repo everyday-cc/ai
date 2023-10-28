@@ -7,7 +7,7 @@ originalUrl: "https://techwireasia.com/2023/10/is-ai-ethical-barracudas-insight-
 webUrl: "https://techwireasia.com/2023/10/is-ai-ethical-barracudas-insight-on-dual-use-technologies/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -25,29 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Pioneers in Ethical Artificial Intelligence"
-    excerpt: "BIDMC's Yuri Quintana, PhD collaborated with AMIA to host a two-day symposium to explore the issues surrounding AI in the healthcare setting. Read more."
-    publishedDateTime: 2023-10-23T23:59:00Z
-    webUrl: "https://www.bidmc.org/about-bidmc/news/2023/10/pioneers-in-ethical-artificial-intelligence"
+  - title: "Real Insights on Artificial Intelligence"
+    excerpt: "AI could disrupt all aspects of daily life – transforming how we work, live and play. What’s its true potential, and how do we manage the risks?"
+    publishedDateTime: 2023-10-25T16:10:00Z
+    webUrl: "https://www.washingtonpost.com/creativegroup/intel/real-insights-on-artificial-intelligence/"
     type: article
     provider:
-      name: Beth Israel Deaconess Medical Center
-      domain: bidmc.org
-    quality: 56
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
     images:
-      - url: "https://www.bidmc.org/-/media/images/beth-israel-org/about-bidmc/news/kidney-donation-fenway-1000x565px/bidmc-quincy-ambulatory-center-1000x565px/blood-pressure-article-1456835439-1000x565px/ai-conf-group-1000x565px.jpg"
-        width: 1000
-        height: 565
+      - url: "https://www.washingtonpost.com/creativegroup/uploads/2023/10/25170703/16970419297931697041929720-e1698253672489.png?rand=196"
+        width: 460
+        height: 441
         isCached: true
-  - title: "Ethics and Practical Applications of AI Agents in US Business Today: Digital Worker Forum"
-    excerpt: "The International Digital Worker Association (IDWA) is thrilled to unveil the Digital Worker Forum, where experts from Microsoft, Google, IBM, NVIDIA, Meta, AutomationAnywhere, UiPath, and other tech giants will answer these and many more questions on November 8, 2023."
-    publishedDateTime: 2023-10-25T18:50:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ethics-practical-applications-ai-agents-us-business-today-/2023/10/25/9905397.htm"
+  - title: "Bridging Political Divides With Artificial Intelligence"
+    excerpt: "Q: In your new study, an AI chatbot serves as a communication intermediary between two people on different sides of an issue. The chatbot evaluates the language of a question and tweaks it to be constructive to the person receiving the question. What is the basic logic and hypotheses behind creating this experiment?"
+    publishedDateTime: 2023-10-24T19:00:00Z
+    webUrl: "https://www.today.duke.edu/2023/10/bridging-political-divides-artificial-intelligence"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
+      name: Chronicle
+      domain: duke.edu
+    quality: 17
 
 secured: "NBdOyp2u8f3Beuf0ZOvK8iKltCKwckll2eCea4qzyGrVvuBIlckquIprIo8ehLi1UTqv2VoErELYTrEe76unDCDks8oaK5mHn6+exf9zorPsfYdQt1IMhpYvH7HKF2BdVzmSHJm7dX22CbIj9OIKVPZxQ9x8h0BYvZIRNPdxHFU1dI6tK1HhzjBCWCChkMNFcWa7qIWK0/1LJF3MjDP/aK6KnCknKQ0uzvCSDjthkV8KgkhIrrrQSaphqEbga78u90FEs4YbzJ2DeWmhYmvfaFSqCGpQGSPqUUFT4vW17Cq0lRO78p7KbvVpGGr6CCDZZH5hV70cIVyA2jxJ3MFZKP+P9Gkv51dh12YM6DCJ0NM=;Gsl917KPznf0F44IiLu+bA=="
 ---

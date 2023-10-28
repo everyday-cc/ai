@@ -48,15 +48,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 24
-  - title: "How AI is reshaping the financial technology landscape"
-    excerpt: "Indeed, artificial intelligence (AI) and machine learning (ML) are increasingly collaborating in solutions, especially in the realm of fintech - and, when they do, the benefits seem unstoppable as this guide explains. AI and SMEs unveiled Years ago ..."
-    publishedDateTime: 2023-10-24T11:06:00Z
-    webUrl: "https://www.finextra.com/blogposting/25085/how-ai-is-reshaping-the-financial-technology-landscape"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "guFMqXwflUo5pJqAkMLTp7VQLhE5lmKkz6MC0zLNTlsnozMjLCYycTvQn8xovfST3PYc2hxvKYteCrl/E2MD72YdvTWi/YvZ7I9a+R3Vcjz0i0inhgCeTOV04CO5C8/XmrxIa+28YmX5ELXSpjoQ4f5DMJvmasPJCkHJTS2jAEGApAiyI8FN2SohZvcos17ynx1WScu/gbkeY7XXcSUmbWvHOyFbR39cOV8NPNcVEcvsWfsKr1t9R1OhMb26faVx6KnmV8VfdNuWWIW6chhZzQf5w0wrvZMAJOyB8HlaJNPulfj+SsMJoTBeyIOR3lPJ40oW5kzd3IVmgvrUg32pBnCiwkWY6z67xqGvBPGzMCA=;Fgm993yH/0TmS2zylH5nNA=="
 ---

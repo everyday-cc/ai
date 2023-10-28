@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-23-fish-controlled-robot-opens-up-a-whole-new-world.md",
+      "title": "Fish-controlled robot opens up a whole new world",
+      "excerpt": "This newsletter may contain advertising, deals, or affiliate links. Subscribing to a newsletter indicates your consent to our Terms of Use and Privacy Policy. You may ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/fish-controlled-robot",
+      "originalUrl": "https://mashable.com/article/fish-controlled-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/025Fw5y0ypmON4H7RQxKGBY/hero-image.fill.size_1200x675.v1614266929.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-23-paralyzed-man-walks-using-mind-controlled-robot.md",
+      "title": "Paralyzed man walks using mind-controlled robot",
+      "excerpt": "A man paralyzed from the shoulders down has been able to walk using a pioneering four-limb robotic system, or exoskeleton, that is commanded and controlled by signals from his brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idRCV007BNU",
+      "originalUrl": "https://www.reuters.com/video/watch/idRCV007BNU",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20191004&i=RCV007BNU&r=RCV007BNU&t=2",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-how-ai-will-change-the-job-of-the-junior-banker-and-raise-the-bar-to-entry.md",
       "title": "How AI will change the job of the junior banker and raise the bar to entry",
       "excerpt": "Want a job as an investment banker? Generative AI is about to change everything, from the job itself to the skills required to be an analyst.",
@@ -1247,101 +1342,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-fans-startled-seeing-ai-robots-at-the-los-angeles-chargers-miami-dolphins-game.md",
-      "title": "Fans startled seeing AI robots at the Los Angeles Chargers-Miami Dolphins game",
-      "excerpt": "The robots were seen on the sideline, walking inside the concourse and while others sat in seats throughout the stadium.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oregonlive.com/sports/2023/09/fans-startled-seeing-ai-robots-at-the-los-angeles-chargers-miami-dolphins-game.html",
-      "originalUrl": "https://www.oregonlive.com/sports/2023/09/fans-startled-seeing-ai-robots-at-the-los-angeles-chargers-miami-dolphins-game.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KW563FWD65CH7E4PHD2HNAPE4Y.png",
-          "width": 1940,
-          "height": 1195,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.oregonlive.com/sports/2023/09/fans-startled-seeing-ai-robots-at-the-los-angeles-chargers-miami-dolphins-game.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/sports/2023/09/fans-startled-seeing-ai-robots-at-the-los-angeles-chargers-miami-dolphins-game.html?outputType=amp",
-      "publishedDateTime": "2023-09-14T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oregonian",
-        "domain": "oregonlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-drinks-company-appoints-ai-robot-as-experimental-ceo.md",
-      "title": "Drinks company appoints AI robot as 'experimental CEO'",
-      "excerpt": "A drinks company has appointed what it says is the world's first artificial intelligence \"experimental\" chief executive to work in Poland. Angela Johnston explains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idRW182413092023RP1",
-      "originalUrl": "https://www.reuters.com/video/watch/idRW182413092023RP1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20230914&i=RW182413092023RP1&r=RW182413092023RP1&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-14T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

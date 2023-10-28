@@ -9,7 +9,7 @@ ampWebUrl: "https://techround.co.uk/news/ai-takes-centre-stage-in-uk-government-
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/ai-takes-centre-stage-in-uk-government-affairs/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,19 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "These Nightmare AI Scenarios Have the UK Government Spooked"
-    excerpt: "Ahead of a global summit on how to keep artificial intelligence from doing harm, a UK government report warns that the tech could be used to help create bioweapons, or escape human control altogether."
-    publishedDateTime: 2023-10-25T22:38:00Z
-    webUrl: "https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/"
+  - title: "How AI Can Help Leaders Make Better Decisions Under Pressure"
+    excerpt: "More and more businesses are turning to AI-powered technologies to help close the data-insight gap and improve their decision-making capabilities in time-critical, high-pressure situations. These technologies encompass a wide range of tools,"
+    publishedDateTime: 2023-10-26T12:25:00Z
+    webUrl: "https://hbr.org/2023/10/how-ai-can-help-leaders-make-better-decisions-under-pressure?ab=HP-hero-latest-text-1"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
     images:
-      - url: "https://media.wired.com/photos/6539900d34195a696cda346b/191:100/w_1280,c_limit/AI-biz-GettyImages-582780248.jpg"
-        width: 1280
-        height: 670
+      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_26_Beatrice-Caciotti.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "iKY7rr7lsvmVPLZLr6yaSmTyFGOy3IOmEZIRdF2eMOlN5d8BIFkWs3N9pwA0XVmT7mJngwo8StCpPS/lYo2imTl8d9KSy74AadWThRUDgVafbqc52nfzgSaLJFSXCB5B5csJk+osPCYfa7DYzplgGYhy+Vvh37Of7EoWBS0zJsjUALoftjllX8Bll0UpkodJI01KsRNLEZoxOcUpdxVmOsIYuSKRlbK482J++E0AYiRtE1PgOlj0JjZDvcJoA6mToSWcgLjS0ljjyce5AWpsG3o9Cf1etY0DGFimHEj2HX0qrWRs0I4QNufs4sFHcJhieKhpK7ooxV+9/1HGLK97Dx+cqouSyNLVa+r5LFjFEZYwbPbfawQ2CrKDcsO5OQQwPF6Cy3Bo3EEbm6RV0hxZJd5hfLzvQ31/Uex2YS9swCF+9GgFA4GPZ4NxO7DIazI+zVu1c67c0tAzfKBwyiVWFH7kC6/vRn8TGpt1JwMBWo763TP42jplRfXUlVZzJPWtJAGDi+LvvtW8Xu+rgcTESQ==;ZrfaCGEf2gctrSbt266QSQ=="

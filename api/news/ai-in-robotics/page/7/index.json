@@ -2,6 +2,83 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-09-08-guide-to-artificial-intelligence-etfs.md",
+      "title": "Guide to Artificial Intelligence ETFs",
+      "excerpt": "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs-0?time=1694101680",
+      "originalUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs-0?time=1694101680",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030.md",
+      "title": "Artificial Intelligence (AI) Robots Market Size, Trend, Analysis 2023-2030",
+      "excerpt": "Artificial Intelligence (AI) Robots Market 2023 with 117 Pages Report and enhance with extents shares into sub-counties are covered in this market. Artificial Intelligence (AI) Robots Market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34317861/artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34317861/artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34317861",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34317861",
+      "publishedDateTime": "2023-09-07T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-keralas-sastra-robotics-to-export-150-robots-to-britain.md",
       "title": "Kerala’s Sastra Robotics to export 150 robots to Britain",
       "excerpt": "Kochi: Sastra Robotics, a startup incubating under Kerala Startup Mission (KSUM), will export 150 robots to Britain following an agreement with one of the top IT companies in the United Kingdom (UK).",
@@ -1283,92 +1360,6 @@
         "AI in Robotics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-best-ai-etfs-in-september-2023.md",
-      "title": "Best AI ETFs in September 2023",
-      "excerpt": "This ETF debuted in September 2016, tracking the Indxx Global Robotics & Artificial Intelligence Thematic Index. It holds companies that are poised to benefit from increased adoption of not only ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/money/blueprint/investing/best-ai-etfs/",
-      "originalUrl": "https://www.usatoday.com/money/blueprint/investing/best-ai-etfs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.usatoday.com/money/blueprint/images/uploads/2023/08/09032927/GettyImages-1495043596.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-book-review-robot-souls-programming-in-humanity-by-eve-poole.md",
-      "title": "Book review: Robot Souls: Programming in humanity by Eve Poole",
-      "excerpt": "Experts in the complex intellectual areas that she covers — AI history and development, philosophy of mind ... us to use and control its power virtuously. Poole’s more whimsical solution is to programme virtues or “souls” into robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.churchtimes.co.uk/articles/2023/1-september/books-arts/book-reviews/book-review-robot-souls-programming-in-humanity-by-eve-poole",
-      "originalUrl": "https://www.churchtimes.co.uk/articles/2023/1-september/books-arts/book-reviews/book-review-robot-souls-programming-in-humanity-by-eve-poole",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.churchtimes.co.uk/media/5692391/poolee_robotsouls-20230824151609494_web.jpg?center=0.33412322274881517,0.58510638297872342&mode=crop&width=600&height=314&rnd=133379472460000000",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Church Times",
-        "domain": "churchtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -3,8 +3,8 @@ category: news
 title: "‘It’s just a matter of time’: why AI could help Europe create its own Apple or Google"
 excerpt: "Silicon Valley overshadows its transatlantic rivals. But as artificial intelligence grows – and with a global summit on it this week – some think it could offer a Euro startup the chance to become a n"
 publishedDateTime: 2023-10-28T11:03:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/28/its-just-a-matter-of-time-why-ai-could-help-europe-create-its-own-apple-or-google?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2023/oct/28/its-just-a-matter-of-time-why-ai-could-help-europe-create-its-own-apple-or-google?ref=biztoc.com"
+originalUrl: "https://www.theguardian.com/technology/2023/oct/28/its-just-a-matter-of-time-why-ai-could-help-europe-create-its-own-apple-or-google?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2023/oct/28/its-just-a-matter-of-time-why-ai-could-help-europe-create-its-own-apple-or-google?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/its-just-a-matter-of-time-why-ai-could-help-europe-create-its-own-apple-or-google"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/its-just-a-matter-of-time-why-ai-could-help-europe-create-its-own-apple-or-google"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 413
     isCached: true
 
-secured: "2F4lBKACMihJIUSqaDHtjSDirpDMjYUdrMLMQ+dIU4ZSDBgFWFc6oj7f9KnB3COAc3QMe+MswhQjmrVmNw+58Qpe93XH+vYu+oEK8i0z50B/eOpvYSjYFMNnApfdWf7tRkILfDk3SwpoxzLReko0xQhAQf3Z1iXjbhDFv2AW8TAKyUp8fLWBFnjsJDSb1KyrkBfYhFD1WYK+W1l2XPRuYqZsBWzZGiIr2MS/hfvKxNPNTdTxDIKq/rSsFeLpz71z38TCjzdVo2S23b4TnCBmszeYbV+vCmtADQm3vgb6KqCnJpHROkrRCFSt4XklP4NIU36nEAxwY2/gnNvgnvaCcgxou794TtjGciM+S4rP6j0=;EaUIA3r3sZkO95Y3ldxi2Q=="
+secured: "PlgwRhftlyXUZ9mH/NgFXgBhALZ0fg6y282qND9iWIEtkXDk+Yv43UrlM/GOq1InffYp1IgLzmk5kcgLcRQ+/ka/kt8nhfL87m78h+Vpwvo1KCMhQ5Qvfj95mHl3+dxhD+0v562eBNDyRgexY0gMkdJ8thPNTEBuLi2VwxT/RVxtNzW0+fyEweMZxhwL1nnEqQBsaDCYOwG/WKMApTPIaOfShFpbZ+nmHLyakRx9sDN670TdVQCKOdnvRR0YnvLLp7SmaR5CT1BP9N/yv0TNOIhrAgILzhP0SMJdxef84Myy5uiLqxDjXiHUoHqPxsrCnZrt5wMzgnykcohg8EwFDqONjgyu8tqFzDc1y2jJvyM=;D3cgCuWTCswgKTo+SuHODg=="
 ---
 

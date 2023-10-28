@@ -2,6 +2,59 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-09-20-the-financial-costs-of-deep-learning-what-businesses-should-consider.md",
+      "title": "The Financial Costs Of Deep Learning: What Businesses Should Consider",
+      "excerpt": "The moral of the story is that businesses shouldn’t buy into the hype around LLMs and start using them without identifying business problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/the-financial-costs-of-deep-learning-what-businesses-should-consider/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/the-financial-costs-of-deep-learning-what-businesses-should-consider/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649f2a00eb04efff54d23657/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/the-financial-costs-of-deep-learning-what-businesses-should-consider/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/20/the-financial-costs-of-deep-learning-what-businesses-should-consider/amp/",
+      "publishedDateTime": "2023-09-20T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-what-can-ai-and-generative-ai-do-for-governments.md",
       "title": "What can AI and generative AI do for governments?",
       "excerpt": "The five fundamental properties for trustworthy AI: explainability, fairness, transparency, robustness and privacy.\nThe post What can AI and generative AI do for governments? appeared first on IBM Blog.\n",
@@ -1101,59 +1154,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-how-virtuswap-accelerates-their-pandas-based-trading-simulations-with-an-amazon-sagemaker-studio-custom-container-and-aws-gpu-instances.md",
-      "title": "How VirtuSwap accelerates their pandas-based trading simulations with an Amazon SageMaker Studio custom container and AWS GPU instances",
-      "excerpt": "This post is written in collaboration with Dima Zadorozhny and&nbsp;Fuad Babaev from VirtuSwap. VirtuSwap is a startup company developing innovative technology for decentralized exchange of assets on blockchains. VirtuSwap’s technology provides more efficient trading for assets that don’t have a direct",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-virtuswap-accelerates-their-pandas-based-trading-simulations-with-an-amazon-sagemaker-studio-custom-container-and-aws-gpu-instances/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-virtuswap-accelerates-their-pandas-based-trading-simulations-with-an-amazon-sagemaker-studio-custom-container-and-aws-gpu-instances/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/19/virtuswap-sagemaker-studio.jpg",
-          "width": 892,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T09:16:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI Hardware"
       ]
     }
   ],

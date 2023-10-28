@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Commits $2 Billion To AI Startup Anthropic"
+    excerpt: "Anthropic is a rival to OpenAI the creator of popular AI chatbot ChatGPT. While the investment is certainly a large one, Anthropic has also signed up for a multiyear deal with Google Cloud worth $3 billion, so that money will flow back to Google over the next few years."
+    publishedDateTime: 2023-10-28T17:50:00Z
+    webUrl: "https://au.pcmag.com/ai/102357/google-commits-2-billion-to-ai-startup-anthropic"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/g/google-com/google-commits-2-billion-to-ai-startup-anthropic_jdbj.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Bets $2 Billion on AI Startup Anthropic, Inks Cloud Deal"
     excerpt: "Google has committed to invest $2 billion in the artificial intelligence company Anthropic, solidifying its relationship with the startup darling and stoking the Silicon Valley frenzy for AI."
     publishedDateTime: 2023-10-28T07:21:00Z

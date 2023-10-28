@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meet Nightshade, the new tool allowing artists to ‘poison’ AI models with corrupted training data"
-    excerpt: "Nightshade was developed by University of Chicago researchers under computer science professor Ben Zhao and will be added as an option"
-    publishedDateTime: 2023-10-23T23:35:00Z
-    webUrl: "https://venturebeat.com/ai/meet-nightshade-the-new-tool-allowing-artists-to-poison-ai-models-with-corrupted-training-data/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 54
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-23-19.33.25-Illustration-in-a-comic-book-style-depicting-a-humanoid-robot-in-distress.-The-robots-left-hand-is-firmly-placed-on-its-neck-indicating-discomfort.-.png?w=1200&strip=all"
-        width: 1199
-        height: 685
-        isCached: true
   - title: "Data poisoning tool lets artists fight back against AI scraping. Here's how"
     excerpt: "Called Nightshade, the tool messes with training data pixels to confuse image-generating AI models."
     publishedDateTime: 2023-10-24T18:41:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.richmond-news.com/technology/vancouver-robot-vacuum-wo
 webUrl: "https://www.richmond-news.com/technology/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 960
     height: 592
     isCached: true
-
-related:
-  - title: "How Artificial Intelligence is Shaping the Future of Programmatic, Thanks to Very Human Intelligence"
-    excerpt: "Artificial intelligence (AI) is the hot new topic on everyone’s lips, but when it comes to the programmatic industry, AI is nothing new. Data scientists, tech teams and traders have been harnessing the power of AI for years, using it to shape the future ..."
-    publishedDateTime: 2023-10-24T02:26:00Z
-    webUrl: "https://www.exchangewire.com/event-videos/how-artificial-intelligence-is-shaping-the-future-of-programmatic-thanks-to-very-human-intelligence/"
-    type: article
-    provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 2
 
 secured: "WHObbW61fv8CLTLJk/rIN2wt0IlCbxK5HNerej7wKOuO8ckiRWwosp+FErLo3A/9vq1I5xFCO/xvji5J3QjKSY4Pg1frWBXXhlh4Hvt95ujIVtBdWs7vX84M38XgLF09qtCo7QBvhV/uI7dvlUTRFwiVDdBiq3XHSOpHhvSYrb4nWk7hT3K4vuvtp7rrU5TQsFVfF6VVbQIEdzLcwQoCiWcT/nUYAwuZMA2IEp2m7keSWzZzX5nGp55MLWI5TtmG89dByrq6HKiw5ipE7k9+H+k5+FNXwqoMI95B7eO6DcFioD/mhSnj93INFnqrnnvd0kE+X7ECUoQUBGjDSTYaj2RHChgRo9cM1WrkJ0V9VDM=;1kUWQc9XMhqk5yqVCD7YRQ=="
 ---

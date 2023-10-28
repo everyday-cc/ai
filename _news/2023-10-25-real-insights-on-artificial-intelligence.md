@@ -25,35 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "The AI Revolution: Surgeons Share Insights on Integrating AI into Surgical Care"
-    excerpt: "Unprecedented AI integration is changing the landscape of surgery, drawing on data-driven insights to enhance patient outcomesBOSTON, Oct. 27,"
-    publishedDateTime: 2023-10-27T17:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-ai-revolution-surgeons-share-insights-on-integrating-ai-into-surgical-care-1032749253"
+  - title: "Navigating the ethical AI dilemma with Barracuda’s insight on dual-use technologies"
+    excerpt: "AI technologies shape the future of cybersecurity. Barracuda's CTO, Fleming Shi, shares the company's approach and ethical considerations."
+    publishedDateTime: 2023-10-26T23:30:00Z
+    webUrl: "https://techwireasia.com/2023/10/is-ai-ethical-barracudas-insight-on-dual-use-technologies/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-  - title: "Revolutionizing India's Financial Sector: Alok Bansal CEO of Visionet BPS on the Power of AI and ML"
-    excerpt: "The surge in the incorporation of Artificial Intelligence (AI) and Machine Learning (ML) across various economic domains can be attributed to several factors, notably the increasing abundance of digital data and enhanced computational capabilities."
-    publishedDateTime: 2023-10-27T09:00:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/revolutionizing-india-s-financial-sector-alok-bansal-ceo-of-visionet-bps-on-the-power-of-ai-and-ml-123102700492_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/content/press-releases-ani/revolutionizing-india-s-financial-sector-alok-bansal-ceo-of-visionet-bps-on-the-power-of-ai-and-ml-123102700492_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/content/press-releases-ani/revolutionizing-india-s-financial-sector-alok-bansal-ceo-of-visionet-bps-on-the-power-of-ai-and-ml-123102700492_1.html"
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 48
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/10/Barracudas-pioneering-vision-for-generative-AI-in-cybersecurity-scaled-e1698306425985.jpg"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Bridging Political Divides With Artificial Intelligence"
+    excerpt: "Q: In your new study, an AI chatbot serves as a communication intermediary between two people on different sides of an issue. The chatbot evaluates the language of a question and tweaks it to be constructive to the person receiving the question. What is the basic logic and hypotheses behind creating this experiment?"
+    publishedDateTime: 2023-10-24T19:00:00Z
+    webUrl: "https://www.today.duke.edu/2023/10/bridging-political-divides-artificial-intelligence"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 42
-  - title: "Revolutionizing India's Financial Sector: Alok Bansal CEO of Visionet BPS on the Power of AI and ML"
-    excerpt: "Aligned with the expansion of AI and ML, major global banks are actively integrating these into their existing business ecosystem. According to data from the intelligence startup Evident, J P Morgan Chase stands number one in incorporating and advancing AI and machine learning,"
-    publishedDateTime: 2023-10-27T20:47:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20231027/4133406.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 22
+      name: Chronicle
+      domain: duke.edu
+    quality: 17
 
 secured: "4/W+jwNnkixiBUK7XhBu8yxuHONuLdIgk6AXPH/7E+xTgGY8CgdUl6OsXlXSg2a4ayTpGvvJkZEHygOwrebBfSHHVUi20KoR9KlV90LJ6qO2Sw0ouhKbag/d++ma14LYuSlRuKaq2dbkDdwjBchuMjU+nA1zOQPJZO2W3srrUalEcbCv/pfpopxQifELCeFn9VspsZcKlzvBHtbashwnmgVUv9BHAaFSVv2aWomz76vnKBrdRncI/sKQJWv6T5yKkA1JehhA8g8PqKnDI/vlVNuFMkDtI2TAPTo6tEf3CdfqALzfGD9NTW261M8/MB2nRWLQak3T1dNfUQmLWYRAt7TEOo9yaGiDIEy6unN7GCknAwd0qyjBjeG5h3+HBZgpsCczCfC9g/zPn/oeLtLhf2lZ47dpg2M5vyZZvQHJqzUsTypIT902Qe3inNwcmd+xZo9NDICWd5Hd6Hjq6YyfKx+/cnVv/a7GcrId5mOggypH8Mz6+1u6kXgLfGOEFeOyOeiI3dwkSYjeAVW4+DZiHA==;pja1CMMSQqtfTvzgO35hMw=="
 ---

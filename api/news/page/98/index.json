@@ -2,6 +2,48 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2023-08-20-ngo-trains-lagos-secondary-schools-girls-on-artificial-intelligence.md",
+      "title": "NGO trains Lagos secondary schools girls on Artificial Intelligence",
+      "excerpt": "A Non-Governmental Organisation (NGO), Women Technology Empowerment Centre (W.TEC), has completed an Artificial Intelligence (AI) empowerment summer camp for 24 girls drawn from some secondary schools in Lagos. The training tagged: “SheCreatesCamp ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pulse.ng/news/local/ngo-trains-lagos-secondary-schools-girls-on-artificial-intelligence/ykg5r6p",
+      "originalUrl": "https://www.pulse.ng/news/local/ngo-trains-lagos-secondary-schools-girls-on-artificial-intelligence/ykg5r6p",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ocdn.eu/pulscms-transforms/1/ycGktkpTURBXy8wNDJlOGM0NDAxZWVjYjJjMDk4NmVhNDljMDlmMjkzYi5wbmeSlQMAzELNBKLNApuTBc0EsM0Cdg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pulse.ng/news/local/ngo-trains-lagos-secondary-schools-girls-on-artificial-intelligence/ykg5r6p.amp",
+      "cdnAmpWebUrl": "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/news/local/ngo-trains-lagos-secondary-schools-girls-on-artificial-intelligence/ykg5r6p.amp",
+      "publishedDateTime": "2023-08-20T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Naija Gist - Latest",
+        "domain": "pulse.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-20-artificial-intelligence-and-machine-learning-news-and-features.md",
       "title": "Artificial Intelligence and Machine Learning – News and Features",
       "excerpt": "Researchers have shown that it is possible to train artificial neural networks directly on an optical chip. The significant breakthrough demonstrates that an optical circuit can perform a critical function of an electronics-based artificial neural network ...",
@@ -1157,40 +1199,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-8-best-artificial-intelligence-stocks-under-10.md",
-      "title": "8 Best Artificial Intelligence Stocks Under $10",
-      "excerpt": "Looking for the best AI stocks to buy now? You might have to get in line — artificial intelligence is one of 2023's hottest market trends, and several companies in the industry have already seen massive growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/8-best-artificial-intelligence-stocks-under-$10",
-      "originalUrl": "https://www.nasdaq.com/articles/8-best-artificial-intelligence-stocks-under-$10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

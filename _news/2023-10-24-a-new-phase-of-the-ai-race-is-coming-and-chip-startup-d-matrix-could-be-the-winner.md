@@ -39,15 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Navigating the AI Revolution: Education and Ethics Take Center Stage"
-    excerpt: "David Reed from University of Florida’s Artificial Intelligence Academic Initiative Center, and Andrew Pass from A Pass Educational Group, dissect the implications of education’s most disruptive techn"
-    publishedDateTime: 2023-10-26T18:14:00Z
-    webUrl: "https://www.ecampusnews.com/innovation-insights/2023/10/26/florida-higher-ed-ai/"
-    type: article
-    provider:
-      name: ecampusnews.com
-      domain: ecampusnews.com
-    quality: 51
   - title: "The AI revolution may take longer than you think"
     excerpt: "Fintech, pharma, automotive and retail are all industries poised to profit from the great AI disruption. Avi Goldfarb explains how to get in on the act."
     publishedDateTime: 2023-10-26T15:41:00Z

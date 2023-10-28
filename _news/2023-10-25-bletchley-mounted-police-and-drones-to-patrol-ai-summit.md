@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-67209484"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-beds-bucks-herts-67209484"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "How Sunak’s Bletchley Park summit aims to shape global AI safety"
+    excerpt: "Emphasising the high stakes ahead of next week’s summit at Bletchley Park, Sunak warned in a speech on Thursday that “humanity could lose control of AI completely” if the technology was not given proper oversight, even as it created new opportunities."
+    publishedDateTime: 2023-10-27T15:16:00Z
+    webUrl: "https://www.ft.com/content/e0574e79-d723-4d94-9681-fae22648e3ad?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "HLZVMB/uRluYpPmNManNxs76wtUJ7rZMy1wPs36SjQUzb+npY6EsfYCVbb8TA9pQIwJqdjVHuvCVJxhyxSqBG6dnSOLhS97KPXH229KTmq+xWGRMb9BnBfHkGfHtFuSuVNy47Y3qhOKcePMG3s7+yG4r8MH4g1YovTj0my21cfsDwGmLv8SCzWbJvazoGo3/ksY2ao2uW924kYiLIoFTCTlK4nw5IPkVu614lGYPEmLVjlBZDABj99M+wsWWt8CFyUAyKdx+smVuXhCiS//YVzdFDBL6N2SV21T4X5Mrkw65DLAjx1oRjAR2B6b91ij1Yo0xPYluN4+lE9PmQvsvH88Bo5MVw5fIYCMB3btHP0o=;c8+fIPfIrm6mvEhk79qqRA=="
 ---

@@ -26,22 +26,6 @@ images:
     height: 1043
     isCached: true
 
-related:
-  - title: "Healthcare Cognitive Computing Market Is Projected To Gain $103.74 Billion By 2032, Growing At A CAGR Of 35%: The Brainy Insights"
-    excerpt: "Some elements contributing to such a large market share are high-tech technology businesses, continuous expenditures in research and development, stricter reimbursement rules, and widespread use of information technology to improve patient care and reduce healthcare costs."
-    publishedDateTime: 2023-10-23T23:59:00Z
-    webUrl: "https://menafn.com/1107290181/Healthcare-Cognitive-Computing-Market-Is-Projected-To-Gain-10374-Billion-By-2032-Growing-At-A-CAGR-Of-35-The-Brainy-Insights"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?165590"
-        width: 375
-        height: 250
-        isCached: true
-
 secured: "2XrGTXoKc15+tDv0zTfnGeHzNA4pbAIH43yiDEJasC6EosSVGRbuhFhuermilRZg73wVwozryyysnuPCaks/sYIbypgjj+E1nZEmx4j5tHkEPy2dfBM+Obf4PNHCr+DGp/zBozeLeTeY8oN2ZVMIIgSeCHVWlHV6HXVPaiBB7S5qI2+uJ3hNGY58Qs/NwwDjQiGbhYwy06msCnFNnsQ6fxmvSx8MLZcMuU7Puwu+9GqE4RQ1F0I0yTm6TAShgx4hhjWBP5fkGD6AnLVrX1Z9TSBYf0NpqrJf7Yitp22lqIF0JwdFv135F5FWYT9MW8XX/ZH6mek5+R3TCalZksuLjru6npgvGz6Bt2T+dJiF5NE=;hD3Ei4uijo6iQGmqiEIJNA=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-09-25-ai-race-gets-hotter-as-amazon-to-invest-up-to-4b-in-startup-anthropic.md",
+      "title": "AI Race Gets Hotter As Amazon To Invest Up To $4B In Startup Anthropic",
+      "excerpt": "Amazon has agreed to invest up to $4 billion in AI startup Anthropic. The new investment gives the Seattle-based e-commerce and cloud titan a minority stake in the ChatGPT rival.",
+      "sourceUrl": null,
+      "webUrl": "https://news.crunchbase.com/ai-robotics/amzn-investment-startup-anthropic/",
+      "originalUrl": "https://news.crunchbase.com/ai-robotics/amzn-investment-startup-anthropic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.crunchbase.com/wp-content/uploads/Money_Scan.jpg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.crunchbase",
+        "domain": "crunchbase.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-25-these-new-tools-could-make-ai-vision-systems-less-biased.md",
       "title": "These new tools could make AI vision systems less biased",
       "excerpt": "Thong and Xiang’s team developed a tool— shared exclusively with MIT Technology Review—that expands the skin-tone scale into two dimensions, measuring both skin color (from light to dark) and skin hue (from red to yellow). Sony is making the tool freely available online .",
@@ -1030,57 +1073,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-amazon-invests-billions-in-ai-startup-anthropic.md",
-      "title": "Amazon Invests Billions in AI Startup Anthropic",
-      "excerpt": "The AI company focused on responsible and safe use of artificial intelligence is now partially owned by Amazon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/amazon-invests-billions-in-ai-startup-anthropic",
-      "originalUrl": "https://www.pcmag.com/news/amazon-invests-billions-in-ai-startup-anthropic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03ubuVablSmDAm6pXq2Yndl-1.fit_lim.size_1200x630.v1695635805.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

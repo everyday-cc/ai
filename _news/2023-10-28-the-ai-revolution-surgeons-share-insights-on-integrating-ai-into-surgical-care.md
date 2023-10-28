@@ -34,20 +34,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 42
-  - title: "Real Insights on Artificial Intelligence"
-    excerpt: "AI could disrupt all aspects of daily life – transforming how we work, live and play. What’s its true potential, and how do we manage the risks?"
-    publishedDateTime: 2023-10-25T16:10:00Z
-    webUrl: "https://www.washingtonpost.com/creativegroup/intel/real-insights-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/creativegroup/uploads/2023/10/25170703/16970419297931697041929720-e1698253672489.png?rand=196"
-        width: 460
-        height: 441
-        isCached: true
   - title: "Revolutionizing India's Financial Sector: Alok Bansal CEO of Visionet BPS on the Power of AI and ML"
     excerpt: "Aligned with the expansion of AI and ML, major global banks are actively integrating these into their existing business ecosystem. According to data from the intelligence startup Evident, J P Morgan Chase stands number one in incorporating and advancing AI and machine learning,"
     publishedDateTime: 2023-10-27T20:47:00Z

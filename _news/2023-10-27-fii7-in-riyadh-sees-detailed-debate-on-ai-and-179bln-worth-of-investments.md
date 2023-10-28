@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/wealth/wealth-management/fii7-in-riyadh-see
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/wealth/wealth-management/fii7-in-riyadh-sees-detailed-debate-on-ai-and-179bln-worth-of-investments-ujsy5de9?amp=1"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 739
     height: 493
     isCached: true
+
+related:
+  - title: "Final day of FII7 in Riyadh sees detailed debate on AI and trillions in investments for environment unlocked ahead of COP28 summit"
+    excerpt: "Special AI summit explored how AI will change finance, industry and human societyCarbon summit saw Global South come together to shape carbon"
+    publishedDateTime: 2023-10-28T16:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/final-day-of-fii7-in-riyadh-sees-detailed-debate-on-ai-and-trillions-in-investments-for-environment-unlocked-ahead-of-cop28-summit-1032750464"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 19
 
 secured: "ABFIaa99DYijtHYE2NlBcW4wUR5/8DsuWFBQZS3K3UZi3y28LaVThL7TJdse5YQPXRowL11Q+tpRmlkrRMRgdpJFytyPtSyoqkwqnT8lrioMt6Rg8jhIQJEYM7Gvz3ah3TmX0Gbi6HJPp7DmmHtlzVSnLp+//EkqlRBIYp5zQ9SVau+6nrz3FdyuKp4SeKaX0T2hhwCpglLuvVlBLg8GiAnpyDBvybnUgordXQ6R3U5URF3OT+DCQjcHNKPAmr5iGW6FJJKcRea8OxxCLMV6PsoGnwoTHJyCKnQCkp7+Gt5ePaRxvXRdpoOXlU8tOPDlrs466E8VMx+Qbv4e7BtIppGBvnbAMeQNEpWZhxwqBLM=;H4fx4zPl6ZmKInBF+ZDL7Q=="
 ---

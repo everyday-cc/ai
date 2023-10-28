@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/featured/five-major-ai-governance-practic
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/five-major-ai-governance-practices-coming-in-2024/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2023/10/24/2353272.jpg"
         width: 1240
         height: 697
+        isCached: true
+  - title: "Apple May Spend Over $5 Billion By 2024 On Servers In Major Generative AI Push"
+    excerpt: "Ming-Chi Kuo expects Apple to spend 'at least' $620 million on servers in 2023 and an estimated $4.75 billion on servers in 2024."
+    publishedDateTime: 2023-10-24T15:33:00Z
+    webUrl: "https://hothardware.com/news/apple-to-spend-over-5-billion-on-servers"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 35
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62888/content/hero-apple-tim-cook.jpg"
+        width: 708
+        height: 398
         isCached: true
   - title: "Navigating the AI Revolution In Finance: Three Steps To Ethical Integration And Win-Win, Profitable Outcomes"
     excerpt: "While the integration of AI in the realm of finance has provided it with a much-needed boost by streamlining processes, enhancing efficiency, and enabling the delivery of tailored services, several ethical implications have come with its usage."

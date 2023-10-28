@@ -3,22 +3,22 @@ category: news
 title: "UN chief appoints 39-member panel to advise on international governance of artificial intelligence"
 excerpt: "U.N. Secretary-General António Guterres has announced the appointment of a 39-member global advisory panel to report on international governance of artificial intelligence and its risks, challenges and key opportunities."
 publishedDateTime: 2023-10-28T12:29:00Z
-originalUrl: "https://scnow.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_8d1c9e4b-7421-57a5-89f3-69656a27fa89.html"
-webUrl: "https://scnow.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_8d1c9e4b-7421-57a5-89f3-69656a27fa89.html"
+originalUrl: "https://www.stltoday.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_f104e140-35c2-5225-b64d-7a01bae73259.html"
+webUrl: "https://www.stltoday.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_f104e140-35c2-5225-b64d-7a01bae73259.html"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: SCNow
-  domain: scnow.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/assets/v3/editorial/8/d1/8d1c9e4b-7421-57a5-89f3-69656a27fa89/653bc59985d05.preview.jpg?crop=1747%2C918%2C3%2C85&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/10/f104e140-35c2-5225-b64d-7a01bae73259/653bc59991b54.preview.jpg?crop=1747%2C918%2C3%2C85&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -34,6 +34,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "4KHRRb51rVORpdClqalcFv1FAOBSp6IM5dznMqmXAdpP5MktuTiuMAhR7stFr3AKSZGEz3f7+AFHJqMoVC6uwN6QYsYBVhD/1/syKfI/3ecok9XykkBgMMEhlCwV7Z4AqQIpejjita0AymAyNAKpiBQiectQoR+NDwh7M2g8GMHEfb3n0Eg9ZHrL2t67QqeUBGWFNWi3Hyh5SLl8dy9/usN2m9Di1QIPSAyvMETSox4h5BlAzjdZXSJKi5YaI+0FHcTPTKujYekviNZi+ixNQcSZ0WKe91t6B8agapyn4UA91/IWG+6LUG2gH0Ia06Fe3w0G2WnmJfReBcR9R56IfzwzfL0TlaJ53Rs1PWv4rjY=;yQ7Y3JGA4jt9G45oz6zuOw=="
+secured: "pE3rjX/44HlpVDOGOH7FDgNbZU/WKi4vmAqaJYH3Pd6O8dO3B3RMo6YvfXuShc09jm2drVdWo0JDfwzfGC3RsVxpvXD0zV24XQBG2//SbGe/yxkOeIczLZSOYDfcXlmv/W5a4d8udgH9cA0FDHajOm2R5dmw6vVb2euu/dkqCgOJ9josGZo1hoMfNe53UmusKTfFpy0cIOwJzy4jW7wOCDDuYT3ZxXm+ANvPoe5Jqsvh5Cc8+m04nSl8jOKanzf2wTzWXNhs27wH7BnvQIL8oE3Kxc7GaLrnRq87I/cMTlAfeICeJ6Jpvy0mlkvfaNqENzAFy6Rvrc/Oqqg4hYgGvpR2KXc5UK/L2SeKAUPUWHU=;ZOwtzxpkKXece0bpd/kFvw=="
 ---
 

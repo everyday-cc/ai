@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/10/25/microsoft-alphabet-earnings-ai-a
 webUrl: "https://techcrunch.com/2023/10/25/microsoft-alphabet-earnings-ai-analysis/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 24
-  - title: "How AI is reshaping the financial technology landscape"
-    excerpt: "Indeed, artificial intelligence (AI) and machine learning (ML) are increasingly collaborating in solutions, especially in the realm of fintech - and, when they do, the benefits seem unstoppable as this guide explains. AI and SMEs unveiled Years ago ..."
-    publishedDateTime: 2023-10-24T11:06:00Z
-    webUrl: "https://www.finextra.com/blogposting/25085/how-ai-is-reshaping-the-financial-technology-landscape"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "bZFLCcbeoTMPRwfVvOd6Sv/fZconx+cO6tnEcy/VUL7Eu4rVc33lNaAGd2y5fhHbA2Df6jIJKsaOB8T+xUXwlqvYDvQERokzyRahy84MnQkX9EHWlxKR06AdHpxVEgCZuCyvuOXeyEu3WvBkslvLSHvuqDrwM6T8wYrkV3YnnE+gs6jEtw5wplVqad3MX7VD34gd0jYgO11sWz3M8s+cW2uufSqmhIjORr+SpIg1qt2ASmfl71m1soYsoMRnAqmani2Qa7DKuX6JMSDcxGxUM7KCKFOy33kx68s//z+LwWgG1yV0TDGwot+BwsnHYKM5UoJIp4ftVeBFt+ZF/+Hav6Ez1azIZs+ry8XKlJ83Bc8=;8c1YPmFqLkFMHnA0tr2FUw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/apple-could-spend-4-75-billion-on-ar
 webUrl: "https://www.geeky-gadgets.com/apple-could-spend-4-75-billion-on-artificial-intelligence-in-2024-24-10-2023/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,54 +22,6 @@ images:
     width: 2180
     height: 1453
     isCached: true
-
-related:
-  - title: "Analyst Kuo: $5 Billion on AI Servers in 2024 In Attempt to Catch Up"
-    excerpt: "Apple could spend upwards of $5 billion on servers alone in the next two years as it attempts to catch up with competitors in the generative AI field. On"
-    publishedDateTime: 2023-10-24T00:36:00Z
-    webUrl: "https://www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up/201433/"
-    ampWebUrl: "https://www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up/201433/amp/"
-    cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up/201433/amp/"
-    type: article
-    provider:
-      name: iDrop News
-      domain: idropnews.com
-    quality: 59
-    images:
-      - url: "https://cdn.idropnews.com/wp-content/uploads/2018/04/20150559/Artificial-Intelligence.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Ming-Chi Kuo: Apple Could Spend Several Billion on AI Servers in 2023 & 2024"
-    excerpt: "Apple industry analyst Ming-Chi Kuo says Apple will spend several billion on hardware to facilitate its artificial intelligence efforts in 2024."
-    publishedDateTime: 2023-10-23T23:53:00Z
-    webUrl: "https://www.mactrast.com/2023/10/ming-chi-kuo-apple-could-spend-several-billion-on-ai-servers-in-2023-2024/"
-    ampWebUrl: "https://www.mactrast.com/2023/10/ming-chi-kuo-apple-could-spend-several-billion-on-ai-servers-in-2023-2024/amp/"
-    cdnAmpWebUrl: "https://www-mactrast-com.cdn.ampproject.org/c/s/www.mactrast.com/2023/10/ming-chi-kuo-apple-could-spend-several-billion-on-ai-servers-in-2023-2024/amp/"
-    type: article
-    provider:
-      name: Mactrast
-      domain: mactrast.com
-    quality: 56
-    images:
-      - url: "https://www.mactrast.com/wp-content/uploads/2020/12/Siri-in-iOS-14.jpg"
-        width: 1242
-        height: 726
-        isCached: true
-  - title: "Apple May Spend Over $5 Billion By 2024 On Servers In Major Generative AI Push"
-    excerpt: "Ming-Chi Kuo expects Apple to spend 'at least' $620 million on servers in 2023 and an estimated $4.75 billion on servers in 2024."
-    publishedDateTime: 2023-10-24T15:33:00Z
-    webUrl: "https://hothardware.com/news/apple-to-spend-over-5-billion-on-servers"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 35
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62888/content/hero-apple-tim-cook.jpg"
-        width: 708
-        height: 398
-        isCached: true
 
 secured: "ANlgIoG7Zg8xRrQvyIXh1Xa+4R/Ad+WvjnN+FyUYxbe9sUDQ39tksATm5wyB+0tfp3HpBaJo3CUrJeWfttGcY5KCt9sDNXs7g3DX57cRsrYWODCaNIyXoOUnVB9M7dUHWWtm9p/w5W1havjCL54dQ6NHDGYPcy7hhCXhykrYIG0Y1sDwDrrjvbEZfgS8jhJC3MKg1OvjJpJPGrTpgBkZFsSlw39UeAbcHfgKUTwMysoav04RCIluc9wncjKAnlzVwYvh8kDEradcX1AS0AuEinRP5yw+KlNw+GIFS+kdD+i00mgGbQCz1AUzLWDHXM+jg0rUZMxreobhjE5Bdr2jamNv5575yPsVLRzdLmyHAWZC3Yn5IYgtm5QWP+Gq+YyapMDTbfqVPvOIDQDslrrNm4BRGaKoSkInFoC3FQd9QhDpFFiCxOXTXgrn6nQYca4yX24G3UP+mkHSUBiy8DZQrzrSU0wYvV4vMfeGvLT4g5GiYlzt2iH8l0XFKQ3XXNOORQMp5MOln3kf4iJs/hKQ6g==;hVcqJeqouaAa2p2vmQh7BA=="
 ---

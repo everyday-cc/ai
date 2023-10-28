@@ -2,6 +2,58 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-10-01-how-general-ai-will-eventually-reshape-everything.md",
+      "title": "How General AI Will Eventually Reshape Everything",
+      "excerpt": "This article discusses General AI and highlights how the AI industry is unfolding advancing efforts to develop General AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/09/30/how-general-ai-will-eventually-reshape-everything/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/09/30/how-general-ai-will-eventually-reshape-everything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ae0066bacde4972dcc7317/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/09/30/how-general-ai-will-eventually-reshape-everything/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/09/30/how-general-ai-will-eventually-reshape-everything/amp/",
+      "publishedDateTime": "2023-09-30T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-01-eu-examines-nvidia-dominated-ai-chip-markets-alleged-abuses-bloomberg-reports.md",
       "title": "EU examines Nvidia-dominated AI chip market's alleged abuses, Bloomberg reports",
       "excerpt": "The European Union is examining alleged anticompetitive practices in chips used for artificial intelligence, a market that Nvidia dominates, Bloomberg News reported on Friday, citing people familiar with the matter.",
@@ -1085,49 +1137,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-meta-used-public-instagram-facebook-posts-to-train-its-new-ai-assistant.md",
-      "title": "Meta Used Public Instagram, Facebook Posts to Train Its New AI Assistant",
-      "excerpt": "Meta Platforms used public Facebook and Instagram posts to train parts of its new Meta AI virtual assistant, but excluded private posts shared only with family and friends in an effort to respect consumers' privacy, the company's top policy executive told Reuters in an interview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgets360.com/social-networking/news/meta-ai-virtual-assistant-training-public-facebook-instagram-posts-4434949",
-      "originalUrl": "https://www.gadgets360.com/social-networking/news/meta-ai-virtual-assistant-training-public-facebook-instagram-posts-4434949",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.gadgets360cdn.com/large/meta_ai_reuters_1695979644451.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgets360.com/social-networking/news/meta-ai-virtual-assistant-training-public-facebook-instagram-posts-4434949/amp",
-      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/social-networking/news/meta-ai-virtual-assistant-training-public-facebook-instagram-posts-4434949/amp",
-      "publishedDateTime": "2023-09-29T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadgets360",
-        "domain": "gadgets360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

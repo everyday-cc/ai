@@ -2,6 +2,49 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2023-08-11-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran.md",
+      "title": "Best of artificial intelligence, machine learning will be deployed at Air India: Chandrasekaran",
+      "excerpt": "Tata Sons Chairman N Chandrasekaran on Thursday said the best of artificial intelligence and machine learning will be deployed at Air India and emphasised that the airline is not just another business for the group but a passion and a national mission.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran-71691691379963.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran-71691691379963.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/08/11/1600x900/INDIA-AIR-INDIA-5_1691716811984_1691716831312.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran-71691691379963.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran-71691691379963.html",
+      "publishedDateTime": "2023-08-10T18:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-education-20-is-the-rise-of-writing-services-and-ai-writing-tools-beneficial-or-detrimental.md",
       "title": "Education 2.0: Is The Rise Of Writing Services And AI Writing Tools Beneficial Or Detrimental?",
       "excerpt": "Dive into an exploration of how digital aides, like PerfectEssayWriter.ai, ChatGPT, etc., are altering the student experience. Also, discover whether they're leading us to a brighter future or casting shadows on the very essence of education.",
@@ -1128,49 +1171,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.md",
-      "title": "Biden fuels tech trade war with China, banning AI, chip, and quantum system investments",
-      "excerpt": "US President Joe Biden is escalating the tech trade war with China with an executive order to restrict investment in specific sectors including semiconductors and microelectronics, quantum information technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html",
-      "originalUrl": "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/08/china_us_chip_semiconductor-100944587-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html",
-      "publishedDateTime": "2023-08-10T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

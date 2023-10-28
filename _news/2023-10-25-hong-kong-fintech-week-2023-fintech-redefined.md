@@ -35,22 +35,6 @@ related:
         width: 1400
         height: 1433
         isCached: true
-  - title: "Fintech as a Service Provider Wearonize Integrates Onfido’s ID Verification Solution"
-    excerpt: "A Fintech as a Service provider selects Onfido for its AI-powered digital identity solution to streamline and secure customer onboarding."
-    publishedDateTime: 2023-10-24T00:27:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/214758-fintech-as-a-service-provider-wearonize-integrates-onfidos-id-verification-solution/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/214758-fintech-as-a-service-provider-wearonize-integrates-onfidos-id-verification-solution/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214758-fintech-as-a-service-provider-wearonize-integrates-onfidos-id-verification-solution/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 37
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/ID-Identification.png"
-        width: 1200
-        height: 1607
-        isCached: true
   - title: "OSU’s Fisher College Launches Fintech Micro-Credential"
     excerpt: "COLUMBUS, Ohio – A new graduate credential offering from The Ohio State University’s Max M. Fisher College of Business is preparing professionals with introductory-level knowledge of the emerging financial technology that organizations are using to improve and automate the delivery of financial services."
     publishedDateTime: 2023-10-26T08:52:00Z

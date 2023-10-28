@@ -40,20 +40,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 42
-  - title: "Real Insights on Artificial Intelligence"
-    excerpt: "AI could disrupt all aspects of daily life – transforming how we work, live and play. What’s its true potential, and how do we manage the risks?"
-    publishedDateTime: 2023-10-25T16:10:00Z
-    webUrl: "https://www.washingtonpost.com/creativegroup/intel/real-insights-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/creativegroup/uploads/2023/10/25170703/16970419297931697041929720-e1698253672489.png?rand=196"
-        width: 460
-        height: 441
-        isCached: true
 
 secured: "xB+CCog+ZDM+KWocl/s2h4cHQ4xsaoSAQU+yWBdHFj3x4uLpeFjB5TeqQzxyD5RXKT7RBSfDZ5KhEdWmZxMsoJvvdC88ImQ/27yJ7pYvaLhY33GiG6hNO0yp6p2B636qj0taXP0H4/+dBqwCgVUz7yB8rjw42w9UOnj454q5Eb4IP1y52+rZcK76mwSXASqTQ8tcBe4m1yIgbJMF+zvyS16hro5D34Mr14XUaf4v/w6Jj3j8MXesMP9aB9VVyozX76GUK+Z8lKFeZfLjCAiUSEcsH52Q1DHGnanvD9bxVp/AcrS99nQqr59Xwt2pmMRqV1aUOgsF8XkCcKIsg32G7cxAkg9GcloQ5ecS+VajRuQ=;YOrP8sKeU+80gteVOyOkfg=="
 ---

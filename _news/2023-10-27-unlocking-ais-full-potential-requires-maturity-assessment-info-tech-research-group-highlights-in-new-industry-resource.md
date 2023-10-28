@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 779
         isCached: true
-  - title: "How AI is reshaping the financial technology landscape"
-    excerpt: "Indeed, artificial intelligence (AI) and machine learning (ML) are increasingly collaborating in solutions, especially in the realm of fintech - and, when they do, the benefits seem unstoppable as this guide explains. AI and SMEs unveiled Years ago ..."
-    publishedDateTime: 2023-10-24T11:06:00Z
-    webUrl: "https://www.finextra.com/blogposting/25085/how-ai-is-reshaping-the-financial-technology-landscape"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "Qtfpl67DTtokE59/IPI8hDoRSTmfOXiyawLVD+OK3/ivCWDn48WdaD7HAi7VxqN3V/aiZGl4+1XcTlrOcSlcP+N5/8PFkmMbEwr8GzAtBZs9krY36jpvo6Sw1jm2UxIZWeDPO0vhxGv65S2MIhgLkt5f9WVdL8IY7wZu/zg/J3Yukya+EtmZmhCBdVT349QQLHwJvctl55lBXHBqvnjmANZBZIFByYzN+ZEpZxlc3+GMeCCjSAGnTmrv8sFwMrhvLQelreC7SBjpgbOOcIcAfltyhzVGjcrSSzv0IR3jbCHKnrnxxSk5eU904YpxKUcpiUn8IeUTIC7aHm09elwSCWSs6cqAzyjPptfvujFF4qywMsmwwE8xbmTrgT/j3wkaFsCsoyZz0IWESag/70xMwb4p2XNigypDxv+yXapff886ZZYmL4RfkA6n/wEyNICXW3DfjSg+/VjjmOt3PXlc3+s/IsOpzDvX8nlAJyrk/XzXhG9IV8fjsbI9ja+LyDFbedb3eZ34cJQPuMUtWLY9Lg==;QhbW6vvNX+hFF6NvNtIbEQ=="
 ---

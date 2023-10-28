@@ -6,8 +6,8 @@
       "title": "Major UK retailers urged to quit ‘authoritarian’ police facial recognition strategy",
       "excerpt": "Human rights campaigners say the Pegasus initiative wrongly criminalises people of colour, women and LGBTQ+ people",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy",
-      "originalUrl": "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy",
+      "webUrl": "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy?ref=upstract.com",
       "featuredContent": null,
       "highlight": null,
       "heat": 88,
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy",
-      "publishedDateTime": "2023-10-28T07:00:00-07:00",
+      "publishedDateTime": "2023-10-28T08:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -159,100 +159,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-28-tesla-faces-automated-driving-rival-in-geely-and-baidu-ev.md",
-      "title": "Tesla Faces Automated Driving Rival in Geely and Baidu EV",
-      "excerpt": "Competition is intensifying in China's automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/10/28/1600x900/tesla_ap_1698454433725_1698454450395.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html",
-      "publishedDateTime": "2023-10-27T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-28-can-rishi-sunaks-big-summit-save-us-from-ai-nightmare.md",
-      "title": "Can Rishi Sunak’s big summit save us from AI nightmare?",
-      "excerpt": "Perhaps surprisingly, given this nightmarish backdrop, Prime Minister Rishi Sunak urged people \"not to lose sleep\". He has a plan, and it's an ambitious one. He wants to position the UK as the global leader for AI safety.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-67172230",
-      "originalUrl": "https://www.bbc.com/news/technology-67172230",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/13662/production/_131485497_gettyimages-842197198.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-67172230.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67172230.amp",
-      "publishedDateTime": "2023-10-27T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-28-ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b.md",
       "title": "AI’s proxy war heats up as Google reportedly backs Anthropic with $2B",
       "excerpt": "With a massive $2 billion reported investment from Google, Anthropic joins OpenAI in reaping the benefits of leadership in the artificial intelligence",
@@ -261,7 +167,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -343,6 +249,58 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-28-geely-and-baidu-officially-launch-jiyue-01-robocar-with-ai-and-voice-activated-parking.md",
+      "title": "Geely and Baidu officially launch JiYue 01 ROBOCAR with AI and voice-activated parking",
+      "excerpt": "Just over two months after announcing a restructuring of its business partnership to bring its AI-powered 01 ROBOCAR to",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/10/27/geely-baidu-launch-jiyue-01-robocar-ai-voice-activated-parking-ev-china/",
+      "originalUrl": "https://electrek.co/2023/10/27/geely-baidu-launch-jiyue-01-robocar-ai-voice-activated-parking-ev-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/10/01-ROBOCAR-debut.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -563,7 +521,7 @@
       "originalUrl": "https://enterprisetalk.com/featured/five-major-ai-governance-practices-coming-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -855,48 +813,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-27-john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend.md",
-      "title": "John Chambers, AI & innovation: Going one-on-one with a tech legend",
-      "excerpt": "Is artificial intelligence the future? I could not think of a better person to share insights on this topic than John Chambers who led Cisco from $20 million to $47 billon in 20 years and acquired 180 companies along the way.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/",
-      "originalUrl": "https://wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2019/11/unnamed-3-e1584727177725.jpg",
-          "width": 2815,
-          "height": 1585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/?amp=1",
-      "publishedDateTime": "2023-10-27T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-27-samsung-teases-possible-ai-camera-features-coming-to-galaxy-s24-series.md",
       "title": "Samsung teases possible AI camera features coming to Galaxy S24 series",
       "excerpt": "Samsung is teasing new AI camera features enabled by a 200MP sensor and the Snapdragon 8 Gen 3 chip. That combo screams Galaxy S24 series.",
@@ -948,20 +864,20 @@
       ]
     },
     {
-      "path": "_news/2023-10-27-ai-and-the-future-of-workhow-gen-ai-will-impact-your-job-search.md",
-      "title": "AI And The Future Of Work—How Gen AI Will Impact Your Job Search",
-      "excerpt": "Since ChatGPT amassed millions of users within months, it has had serious implications for job seekers. Here are some things you need to know about Gen AI.",
+      "path": "_news/2023-10-27-ai-and-the-future-of-work-adapting-to-a-changing-landscape.md",
+      "title": "AI And The Future Of Work: Adapting To A Changing Landscape",
+      "excerpt": "Nvidia, a leading technology company, recently announced a significant increase in earnings, with their revenue doubling due to the high demand for its AI chips that power new machine learning applications;",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rachelwells/2023/10/27/ai-and-the-future-of-work-how-gen-ai-will-impact-your-job-search/",
-      "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/10/27/ai-and-the-future-of-work-how-gen-ai-will-impact-your-job-search/",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 199,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/653b92c8d8a3cb4a0793857b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1385,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6307744cdf865cb5591b5fd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
           "height": 900,
           "title": null,
           "attribution": null,
@@ -970,9 +886,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2023/10/27/ai-and-the-future-of-work-how-gen-ai-will-impact-your-job-search/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/10/27/ai-and-the-future-of-work-how-gen-ai-will-impact-your-job-search/amp/",
-      "publishedDateTime": "2023-10-27T03:42:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
+      "publishedDateTime": "2023-10-27T03:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -995,6 +911,7 @@
         "news"
       ],
       "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1179,21 +1096,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-27-ttd-eo-launches-facial-recognition-attendance.md",
-      "title": "TTD EO launches facial recognition attendance",
-      "excerpt": "Tirupati: Facial Recognition Attendance System for TTD employees was launched at TTD Administration Building in Tirupati on Thursday.Starting the system, TTD EO AV Dharma Reddy said that more",
+      "path": "_news/2023-10-27-airbnb-using-artificial-intelligence-in-states-like-texas-to-crack-down-on-halloween-parties.md",
+      "title": "Airbnb using artificial intelligence in states like Texas to crack down on Halloween parties",
+      "excerpt": "Last Halloween, the company says it stopped around 11,000 parties in Texas on Halloween night, with about 1,500 of those being in Austin.",
       "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/news/cities/tirupathi/ttd-eo-launches-facial-recognition-attendance-832694",
-      "originalUrl": "https://www.thehansindia.com/news/cities/tirupathi/ttd-eo-launches-facial-recognition-attendance-832694",
+      "webUrl": "https://www.newswest9.com/article/money/austin-airbnb-ai-halloween-parties/269-4f51969c-e747-4eda-99ef-8acaec6ac545",
+      "originalUrl": "https://www.newswest9.com/article/money/austin-airbnb-ai-halloween-parties/269-4f51969c-e747-4eda-99ef-8acaec6ac545",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.thehansindia.com/h-upload/2023/10/27/1392674-facial-recognition-attendance-system.jpg",
-          "width": 1200,
-          "height": 720,
+          "url": "https://media.newswest9.com/assets/KVUE/images/76c7fca8-66df-4657-94f9-f7b3d9ee4b45/76c7fca8-66df-4657-94f9-f7b3d9ee4b45_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1201,13 +1118,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/tirupathi/ttd-eo-launches-facial-recognition-attendance-832694",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/tirupathi/ttd-eo-launches-facial-recognition-attendance-832694",
-      "publishedDateTime": "2023-10-26T20:34:00-07:00",
+      "ampWebUrl": "https://www.newswest9.com/amp/article/money/austin-airbnb-ai-halloween-parties/269-4f51969c-e747-4eda-99ef-8acaec6ac545",
+      "cdnAmpWebUrl": "https://www-newswest9-com.cdn.ampproject.org/c/s/www.newswest9.com/amp/article/money/austin-airbnb-ai-halloween-parties/269-4f51969c-e747-4eda-99ef-8acaec6ac545",
+      "publishedDateTime": "2023-10-26T20:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
+        "name": "NewsWest 9",
+        "domain": "newswest9.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1217,7 +1134,110 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide.md",
+      "title": "Boston Dynamics uses ChatGPT to create a robot tour guide",
+      "excerpt": "Check out the British butler guide at the start of the video, for example ... him over to an early version of Spot among Boston Dynamics’ display of robots. Klingensmith says AI might make it possible for robots “not just to follow our commands ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/",
+      "originalUrl": "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/10/boston-dynamics-spot-AI.jpeg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp",
+      "publishedDateTime": "2023-10-26T19:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-opinion-amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch.md",
+      "title": "Opinion: Amazon’s AI talk is making Wall Street drool, but there seems to be a catch",
+      "excerpt": "Its Azure cloud business reported a better-than-expected quarter earlier this week, and the company has an investment in and partnership with OpenAI, the creator of ChatGPT. Microsoft also has promising early AI offerings, including Copilot for its GitHub ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
+      "originalUrl": "https://www.marketwatch.com/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-867942/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
+      "publishedDateTime": "2023-10-26T18:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

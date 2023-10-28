@@ -10,7 +10,7 @@
       "originalUrl": "https://enterprisetalk.com/featured/five-major-ai-governance-practices-coming-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -97,21 +97,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-26-kate-darling-on-the-future-of-robotics-and-ai-ethics.md",
-      "title": "Kate Darling on the Future of Robotics and AI Ethics",
-      "excerpt": "Our featured interview on this episode is with Dr. Kate Darling, who is joining Marc Raibert in her dream job at the Boston Dynamics AI Institute to head up their AI and ethics research group. We talk to Kate about everything from AI and humanoid robots to her kids’ love affair with the Marty Robot at the local Stop and Shop supermarket.",
+      "path": "_news/2023-10-26-the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit.md",
+      "title": "The UK Lists Top Nightmare AI Scenarios Ahead of Its Big Tech Summit",
+      "excerpt": "Ahead of a global summit on how to keep artificial intelligence from doing harm, a UK government report warns that the tech could be used to help create bioweapons, or escape human control altogether.",
       "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/kate-darling-on-the-future-of-robotics-and-ai-ethics/",
-      "originalUrl": "https://www.therobotreport.com/kate-darling-on-the-future-of-robotics-and-ai-ethics/",
+      "webUrl": "https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/",
+      "originalUrl": "https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 236,
+      "heat": 93,
       "tags": null,
       "images": [
         {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/10/kate-darling-marc-raibert.jpg",
-          "width": 770,
-          "height": 500,
+          "url": "https://media.wired.com/photos/6539900d34195a696cda346b/191:100/w_1280,c_limit/AI-biz-GettyImages-582780248.jpg",
+          "width": 1280,
+          "height": 670,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -121,12 +121,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T10:17:00-07:00",
+      "publishedDateTime": "2023-10-25T15:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -137,7 +146,8 @@
       "topics": [
         "AI Ethics",
         "AI",
-        "AI in Robotics"
+        "Google AI",
+        "Facebook AI"
       ]
     },
     {

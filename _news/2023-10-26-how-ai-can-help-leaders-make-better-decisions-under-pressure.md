@@ -7,7 +7,7 @@ originalUrl: "https://hbr.org/2023/10/how-ai-can-help-leaders-make-better-decisi
 webUrl: "https://hbr.org/2023/10/how-ai-can-help-leaders-make-better-decisions-under-pressure?ab=HP-hero-latest-text-1"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,20 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "How AI can help to save endangered species"
-    excerpt: "Scientists are using artificial intelligence to fight biodiversity loss by analysing vast amounts of data, monitoring ecosystems and spotting trends over time."
-    publishedDateTime: 2023-10-27T17:11:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-03328-4"
+  - title: "AI Now Making More Critical Decisions in UK Government Functions"
+    excerpt: "The UK government has turned to artificial intelligence to make critical decisions. These range from deciding who gets financial help from the state to who can get married. The Guardian's investigatio"
+    publishedDateTime: 2023-10-27T09:45:00Z
+    webUrl: "https://techround.co.uk/news/ai-takes-centre-stage-in-uk-government-affairs/"
+    ampWebUrl: "https://techround.co.uk/news/ai-takes-centre-stage-in-uk-government-affairs/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/ai-takes-centre-stage-in-uk-government-affairs/amp/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03328-4/d41586-023-03328-4_26225544.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: TechRound
+      domain: techround.co.uk
+    quality: 39
 
 secured: "tOQ62u68UOq1Eq1QgMthdn+TPSfzN8mgCe5pPooKXyaEAF8Ie/bk+x+tf/AExGkYXEd/fCl+sFvdjXRezWkJuNMJFKwPH9p0Lc6TAuHt54KZt66AyC+bRbWPMpojWHmbV1XWZfTWj84w50OXp1wyW/2ijGrOBlgRHxSfbZ+BwKaLPvTNgNml0arwu9cQPJuYm5Mm+R8oHVLf+zUOAfSoblYSG92jP4fLoxchLKvfjuIkZ52uqfTPZvx6X5vAsVeiXhTmFtjnHwbUZdIQd179vBxPpL4W44sl8YJ7MBtQPh/dHqORqDxV/rHqyEYrQeeSYAOhKMfiAIpROBJvCfjRRQDreWcC70YMgnDzaeI1QX5qZeZel0Xd9ZAV1DGl3R2H/B5ToutU13zpOCmGRA0ueF2MEw/GjdhAEBFmRrljfp3D6SGvuv0ILGv8cBWuLt8EL643XJt59cCmWvOLX8J++/ggQmVnuVj8eiolJLmf4Vt6/v+5lq4YCn+KuTwmt5MyicXRC/iha3zQxVOoRpX3CA==;KZFd6vunixlbWyn8ALEJug=="
 ---
