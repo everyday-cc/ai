@@ -2,9 +2,9 @@
 category: news
 title: "UK regulators report back on AI and Machine Learning consultation"
 excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
-publishedDateTime: 2023-10-26T11:30:00Z
-originalUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
-webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
+publishedDateTime: 2023-10-26T12:24:00Z
+originalUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
+webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
 type: article
 quality: 56
 heat: -1
@@ -84,6 +84,20 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Real Insights on Artificial Intelligence"
+    excerpt: "AI could disrupt all aspects of daily life – transforming how we work, live and play. What’s its true potential, and how do we manage the risks?"
+    publishedDateTime: 2023-10-25T16:10:00Z
+    webUrl: "https://www.washingtonpost.com/creativegroup/intel/real-insights-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/creativegroup/uploads/2023/10/25170703/16970419297931697041929720-e1698253672489.png?rand=196"
+        width: 460
+        height: 441
+        isCached: true
   - title: "Apple could spend $4.75 billion on Artificial Intelligence in 2024"
     excerpt: "Apple is looking to catch up with the likes of Microsoft and Google on Artificial Intelligence and the company is apparently planning to spend a"
     publishedDateTime: 2023-10-24T08:26:00Z
@@ -112,16 +126,7 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Healthcare AI regulation is coming into focus"
-    excerpt: "Stakeholders are calling on the FDA to provide more concrete guidance in how clinical AI applications should be implemented."
-    publishedDateTime: 2023-10-24T09:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/ai-healthcare-federal-regulation-fda-onc"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
 
-secured: "71qjU7BnjvTGH+0MPeh/tNanib2E/aeXo6fpmnn5uK6k48zekhFjKXTu8KNBHIurWpm/jcl4lAcj4LASXZR4acL5B46YYS+7MRoR21466viodq1JHw8xf7WgiSC02QhUK2ey3JqDsXsEylpwQPTy0JAk3CEhaZw9VHoI1dhamF6WipyodTgD025ZQCO/kUKmXNDJPRA6V04COuTDZ3hxNafY/7M9NzLS+Flh2ana6JZjGlRI9Oi4b+Aj7oj0yzJHP/UmkJHTONrFdG+7eio41h3KjduXxH2I1dIqdx6VlD8gaIodm/cB+IINevU2Dqma4rS5mkEqoanjOqokCuJitNFCfC8Nt24eibDfWr1069A=;S6aiAXE0iapKLP+jCqbBeQ=="
+secured: "ekR7KGAeb1wArePhjVAT4phzhSyGmGsGWz5oV28AuvwAXJewRDyuFd1cUsypJHstJHAo0uMIkKEAr+kzIlGw/v2dKepwcWnauFVplwMn9Y3/L1VGwmpLpKLLGHFq83YJ7f95PAWxqCVo03NOfe8Yvxb0ViLNZeY0rmFZIS+wNHDjtM/jUuCAh1rCTYfsa+op1GB68gFKvHsmjzPVdgypRE8nulR23ThOL8wjoChldsd3wO9ZBejovYLSksqa9tud0xJA6EV9JU70y5HE6+1Ixxe1HS8taDFyorZU7O0s32EgoQXl9qM8kSmiNL9+FUbKExv+qgDpogWh7T+U0cjQ1COcOwNv2K0hXAa724PHs0s=;1sGa7an4nAfEnsxJpmDM9w=="
 ---
 

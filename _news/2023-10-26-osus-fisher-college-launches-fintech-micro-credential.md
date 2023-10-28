@@ -35,20 +35,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Phoenix AZ’s Smart Home Revolution: The Future of FinTech in Housing"
-    excerpt: "The housing market in Phoenix, Arizona is embracing smart home technology and financial technology (fintech) at a rapid pace. Experts predict over 75% of new homes built in Phoenix will include smart home technology by 2025."
-    publishedDateTime: 2023-10-23T10:40:00Z
-    webUrl: "https://techbullion.com/phoenix-azs-smart-home-revolution-the-future-of-fintech-in-housing/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/HBSB-Holdings-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "UAE fintech Maly to launch AI-powered tools to boost long-term investment and saving plans in the GCC"
     excerpt: "The startup’s aggressive move comes amid the UAE – as well as Saudi Arabia – kicking off initiatives to implement pension and other financial security plans in the employment sector"
     publishedDateTime: 2023-10-24T10:18:00Z

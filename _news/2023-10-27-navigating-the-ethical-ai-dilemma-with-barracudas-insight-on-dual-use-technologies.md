@@ -39,6 +39,15 @@ related:
         width: 1000
         height: 565
         isCached: true
+  - title: "Ethics and Practical Applications of AI Agents in US Business Today: Digital Worker Forum"
+    excerpt: "The International Digital Worker Association (IDWA) is thrilled to unveil the Digital Worker Forum, where experts from Microsoft, Google, IBM, NVIDIA, Meta, AutomationAnywhere, UiPath, and other tech giants will answer these and many more questions on November 8, 2023."
+    publishedDateTime: 2023-10-25T18:50:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ethics-practical-applications-ai-agents-us-business-today-/2023/10/25/9905397.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
 
 secured: "NBdOyp2u8f3Beuf0ZOvK8iKltCKwckll2eCea4qzyGrVvuBIlckquIprIo8ehLi1UTqv2VoErELYTrEe76unDCDks8oaK5mHn6+exf9zorPsfYdQt1IMhpYvH7HKF2BdVzmSHJm7dX22CbIj9OIKVPZxQ9x8h0BYvZIRNPdxHFU1dI6tK1HhzjBCWCChkMNFcWa7qIWK0/1LJF3MjDP/aK6KnCknKQ0uzvCSDjthkV8KgkhIrrrQSaphqEbga78u90FEs4YbzJ2DeWmhYmvfaFSqCGpQGSPqUUFT4vW17Cq0lRO78p7KbvVpGGr6CCDZZH5hV70cIVyA2jxJ3MFZKP+P9Gkv51dh12YM6DCJ0NM=;Gsl917KPznf0F44IiLu+bA=="
 ---

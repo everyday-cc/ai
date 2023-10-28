@@ -57,20 +57,6 @@ related:
         width: 300
         height: 272
         isCached: true
-  - title: "ChatGPT interprets 'Fed speak' to predict direction of interest rates"
-    excerpt: "This has major implications for forecasting policy decisions and modelling economic expectations. By leveraging natural language processing and textual analysis, ChatGPT demonstrated proficiency in classifying the nuanced language of central bankers ..."
-    publishedDateTime: 2023-10-23T10:26:00Z
-    webUrl: "https://www.finextra.com/newsarticle/43170/chatgpt-interprets-fed-speak-to-predict-direction-of-interest-rates"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5283.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "WLtu8JaUhJ8LctsuPm6xCK3Hx0KPcVi1Bp9/GSNhKCDfz6D33YXbg3fXXLCBXoSqVDKpu8UAZ7W9JNvwalBKGVK4IX11miBlTAw/ojIkqGOSBs0FHuRBAOAGygJzqVLDmmv8jL3sOs1VQSmmjHh8WstMi0WyJOvSYIkGI3LqAlM2nV8w3rDjSnxiMhzhbMQubUOtSr4ZL3VLGNymibLDPi9Q/bjj2Zi4QBgpzHj4hnuTzdyIMcq2jRUmyXJODsNY/m0KC/v1qLC5j8aYQLDlsoE+NQ88TDGId0Tgvnh5riaEjb1ThkcmctNvgjFSj/Gk+7AMmeBTyXWvb5asusUjdIEz0SndGsD695tGfsifEuA=;Y0RseaIiIVI1aOPR2/9BAQ=="
 ---

@@ -35,6 +35,15 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "Kochava Adds Multi-Language AI Analysis Tool"
+    excerpt: "Real-time cross-media attribution and measurement firm Kochava has enhanced its AI tool set with the launch of AI Prompt, which it says uses natural language processing to understand multiple languages and help marketers access and analyze their data."
+    publishedDateTime: 2023-10-26T23:59:00Z
+    webUrl: "https://www.mrweb.com/drno/news35843.htm"
+    type: article
+    provider:
+      name: MrWeb
+      domain: mrweb.com
+    quality: 19
 
 secured: "DUUKybghiECeHSDiDlNJ1mb+9wdgUHsEFjnycbAxwkMkQxZRfTFwiuj1yw/Dk+M0NvUMZnLJCYITr18zfZR8JijGO0pSuavtPKsG9Fr3Z7clQHZ7+qS+tIJJIrVErkIzcHOAYOodUgmVOB/NvsFBbmvWntfvqk5Z3CO+ZpXyijJSh3PDf5ecTsWqMcGNXBaMclj5RjfS8g9qSVLiFuKpXaq4BrBZdVptDGAAZ0Yt5M8FttsQALyQe85V/n9L1/F5ckUpzDcKrixKsLF2Q0vU2N1LKShBfJaJvncizxVeIlcqRto2cuk+At3xRSPEvkpaMvZtCHOtjeP25zGss38T/RA0LPx4IthR5xOqtdDyEfw=;bkq7PtHdnWu4JUmvnMQhbA=="
 ---

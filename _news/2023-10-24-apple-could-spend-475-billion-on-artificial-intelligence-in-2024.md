@@ -40,8 +40,8 @@ related:
         isCached: true
   - title: "UK regulators report back on AI and Machine Learning consultation"
     excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
-    publishedDateTime: 2023-10-26T11:30:00Z
-    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
+    publishedDateTime: 2023-10-26T12:24:00Z
+    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
     type: article
     provider:
       name: Asset Servicing Times
@@ -96,6 +96,20 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Real Insights on Artificial Intelligence"
+    excerpt: "AI could disrupt all aspects of daily life – transforming how we work, live and play. What’s its true potential, and how do we manage the risks?"
+    publishedDateTime: 2023-10-25T16:10:00Z
+    webUrl: "https://www.washingtonpost.com/creativegroup/intel/real-insights-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/creativegroup/uploads/2023/10/25170703/16970419297931697041929720-e1698253672489.png?rand=196"
+        width: 460
+        height: 441
+        isCached: true
   - title: "Apple May Spend Over $5 Billion By 2024 On Servers In Major Generative AI Push"
     excerpt: "Ming-Chi Kuo expects Apple to spend 'at least' $620 million on servers in 2023 and an estimated $4.75 billion on servers in 2024."
     publishedDateTime: 2023-10-24T15:33:00Z
@@ -110,15 +124,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Healthcare AI regulation is coming into focus"
-    excerpt: "Stakeholders are calling on the FDA to provide more concrete guidance in how clinical AI applications should be implemented."
-    publishedDateTime: 2023-10-24T09:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/ai-healthcare-federal-regulation-fda-onc"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
 
 secured: "ANlgIoG7Zg8xRrQvyIXh1Xa+4R/Ad+WvjnN+FyUYxbe9sUDQ39tksATm5wyB+0tfp3HpBaJo3CUrJeWfttGcY5KCt9sDNXs7g3DX57cRsrYWODCaNIyXoOUnVB9M7dUHWWtm9p/w5W1havjCL54dQ6NHDGYPcy7hhCXhykrYIG0Y1sDwDrrjvbEZfgS8jhJC3MKg1OvjJpJPGrTpgBkZFsSlw39UeAbcHfgKUTwMysoav04RCIluc9wncjKAnlzVwYvh8kDEradcX1AS0AuEinRP5yw+KlNw+GIFS+kdD+i00mgGbQCz1AUzLWDHXM+jg0rUZMxreobhjE5Bdr2jamNv5575yPsVLRzdLmyHAWZC3Yn5IYgtm5QWP+Gq+YyapMDTbfqVPvOIDQDslrrNm4BRGaKoSkInFoC3FQd9QhDpFFiCxOXTXgrn6nQYca4yX24G3UP+mkHSUBiy8DZQrzrSU0wYvV4vMfeGvLT4g5GiYlzt2iH8l0XFKQ3XXNOORQMp5MOln3kf4iJs/hKQ6g==;hVcqJeqouaAa2p2vmQh7BA=="
 ---

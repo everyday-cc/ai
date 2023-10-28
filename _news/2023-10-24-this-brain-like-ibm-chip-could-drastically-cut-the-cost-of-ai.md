@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1068
     height: 601
     isCached: true
-
-related:
-  - title: "IBM works out how to boost AI chips"
-    excerpt: "NorthPole inspired by the brain  A brain-inspired computer chip that could supercharge artificial intelligence by working faster with much less power has been developed by researchers at IBM. Biggish's Blue's huge NorthPole processor chip eliminates the need to frequently access"
-    publishedDateTime: 2023-10-23T10:22:00Z
-    webUrl: "https://www.fudzilla.com/news/57810-ibm-works-out-how-to-boost-ai-chips"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 58
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/103470178e8a8c3106f52079f8bf69c0_L.jpg"
-        width: 620
-        height: 496
-        isCached: true
 
 secured: "JNWsRrM1A+S4w0WWzkb2BWFgn1xHlZYX1h4Wg6LSVOWlTX1xjqo97Ws2dzXUD5CpBZcXQCKuHyOboIivmACaEbd0ZqB/IkNoHvAfclALsqu75xAR2y5bdb1u/ewEtAdaXNfx7guxHbdUOj+6cqm2uIvHbvN3Up0NJ4GUZTeL+UosxhXBx7aKbpp9uZvZp3369Ig8wfMruEc+Zl9Hlq+b0txvbII9nrf+J+R8qBtWZbgazkTubhoUX35Nin28sl65VWKTPB2XGI8AK4vZ+t2k9MspW4CHmeowNakymFmdRZDfjRS87UfeKUd1RFcMSsHztVgFec9cWDQwHZ4UXi2lq1zNTWYz3hO+ZVyErcXviJucyZIWgYFACseROVpE7keqbv0OcNqMoNbKEz2wYlEWhXKR3dATbqDfTLuZf30Xh4G1ccKmMMwgQoJcLXVfd+rYNgskwLSaBJ7zK8YXSuTbChEV/ApZJjV5U3pWBraJRiDpfCToIfNMyJ9u40b2qqNGLuqJ83OH1+McxMsRPgE9hw==;cGaJkWAyBPVoOhNsOjvbUA=="
 ---

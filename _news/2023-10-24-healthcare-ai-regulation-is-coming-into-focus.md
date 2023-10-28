@@ -19,106 +19,70 @@ topics:
   - AI
 
 related:
-  - title: "AI May Soon Weigh In on Regulation"
-    excerpt: "How will agencies like the FCC deal with computer-generated public comments?"
-    publishedDateTime: 2023-10-24T19:12:00Z
-    webUrl: "https://www.wsj.com/articles/ai-may-soon-weigh-in-on-regulation-artificial-intelligence-agencies-public-comment-periods-766436ec"
+  - title: "AI for Health Institute Emerges to Foster the Expanding Intersection of Artificial Intelligence and Healthcare"
+    excerpt: "Advanced artificial intelligence (AI) tools and techniques allow researchers to use the vast amounts of data now available from electronic health records and wearables to help solve complex health problems and improve population health."
+    publishedDateTime: 2023-10-27T21:38:00Z
+    webUrl: "https://indiaeducationdiary.in/ai-for-health-institute-emerges-to-foster-the-expanding-intersection-of-artificial-intelligence-and-healthcare/"
+    ampWebUrl: "https://indiaeducationdiary.in/ai-for-health-institute-emerges-to-foster-the-expanding-intersection-of-artificial-intelligence-and-healthcare/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ai-for-health-institute-emerges-to-foster-the-expanding-intersection-of-artificial-intelligence-and-healthcare/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 69
     images:
-      - url: "https://images.wsj.net/im-873788/social"
-        width: 1280
-        height: 640
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/05/Washington-University-in-St.Louis_.jpg"
+        width: 910
+        height: 560
         isCached: true
-  - title: "UK regulators report back on AI and Machine Learning consultation"
-    excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
-    publishedDateTime: 2023-10-26T11:30:00Z
-    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
-    type: article
-    provider:
-      name: Asset Servicing Times
-      domain: assetservicingtimes.com
-    quality: 56
-    images:
-      - url: "https://www.assetservicingtimes.com/assetservicesnews/images/ThursdayOctober2620231698319657.jpg"
-        width: 990
-        height: 640
-        isCached: true
-  - title: "Artificial intelligence may help predict infection risks after implant-based breast reconstruction"
-    excerpt: "Artificial intelligence (AI) techniques may provide a more accurate approach to predicting the risk of periprosthetic infection after implant-based breast reconstruction, reports a study in the Novemb"
-    publishedDateTime: 2023-10-24T20:30:00Z
-    webUrl: "https://medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.amp"
+  - title: "The blind use of AI in health care can lead to invisible discrimination"
+    excerpt: "Artificial intelligence can help health care systems under pressure allocate limited resources, but also lead to more unequal access. This is demonstrated by a research collaboration between the University of Copenhagen,"
+    publishedDateTime: 2023-10-26T20:54:00Z
+    webUrl: "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.amp"
     type: article
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 45
+    quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/breast-implant.jpg"
-        width: 2880
-        height: 1925
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/ai.jpg"
+        width: 1920
+        height: 1636
         isCached: true
-  - title: "EU lawmakers face struggle to reach agreement on AI rules -sources"
-    excerpt: "The EU started working on the draft AI Act in 2021. In May this year, the European parliament agreed on draft legislation including new rules around the use of facial recognition, biometric surveillance, and other AI applications. Under the proposals ..."
-    publishedDateTime: 2023-10-23T15:23:00Z
-    webUrl: "https://www.aol.com/news/eu-lawmakers-face-struggle-reach-143724731.html"
+  - title: "Feds Warn Healthcare Sector of AI-Augmented Phishing Threats"
+    excerpt: "Hospitals, clinics and doctor practices have long fallen victim to cyberattacks and breaches kicked off with phishing emails. But with the advent of AI-augmented"
+    publishedDateTime: 2023-10-27T21:41:00Z
+    webUrl: "https://www.inforisktoday.com/feds-warn-healthcare-sector-ai-augmented-phishing-threats-a-23419"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
+      name: Info Risk Today
+      domain: inforisktoday.com
+    quality: 54
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/0ca43e1b8ea6f24b6034e0d8cbb568fa"
-        width: 800
-        height: 534
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/ai-augmented-phishing-alert-showcase_image-4-a-23419.jpg"
+        width: 860
+        height: 520
         isCached: true
-  - title: "EU lawmakers face struggle to reach agreement on AI rules -sources"
-    excerpt: "European lawmakers are yet to agree on several issues related to new artificial intelligence rules ahead of a crucial meeting on Tuesday, leaving any deal off the table until December, according to four people familiar with the matter."
-    publishedDateTime: 2023-10-23T17:37:00Z
-    webUrl: "https://www.aol.com/eu-lawmakers-face-struggle-reach-143724731.html?ref=biztoc.com"
+  - title: "AI Advertising Announces Publication of “AI for Advertising Blueprint” White Paper with the Marketing Artificial Intelligence Institute"
+    excerpt: "AI Advertising Announces Publication of “AI for Advertising Blueprint” White Paper with the Marketing Artificial Intelligence Institute"
+    publishedDateTime: 2023-10-27T16:31:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231027316417/en/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/0ca43e1b8ea6f24b6034e0d8cbb568fa"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Apple could spend $4.75 billion on Artificial Intelligence in 2024"
-    excerpt: "Apple is looking to catch up with the likes of Microsoft and Google on Artificial Intelligence and the company is apparently planning to spend a"
-    publishedDateTime: 2023-10-24T08:26:00Z
-    webUrl: "https://www.geeky-gadgets.com/apple-could-spend-4-75-billion-on-artificial-intelligence-in-2024-24-10-2023/"
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+  - title: "The Opportunities at the Intersection of AI, Sustainability, and Project Management"
+    excerpt: "There are unprecedented opportunities at the intersection of AI, project management, and sustainability. Unfortunately, without proper execution, projects to implement AI come with complexities, costs and a carbon footprint that undermine sustainability goals."
+    publishedDateTime: 2023-10-27T12:16:00Z
+    webUrl: "https://hbr.org/2023/10/the-opportunities-at-the-intersection-of-ai-sustainability-and-project-management"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 37
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Apple-Store.jpg"
-        width: 2180
-        height: 1453
-        isCached: true
-  - title: "Apple May Spend Over $5 Billion By 2024 On Servers In Major Generative AI Push"
-    excerpt: "Ming-Chi Kuo expects Apple to spend 'at least' $620 million on servers in 2023 and an estimated $4.75 billion on servers in 2024."
-    publishedDateTime: 2023-10-24T15:33:00Z
-    webUrl: "https://hothardware.com/news/apple-to-spend-over-5-billion-on-servers"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 35
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62888/content/hero-apple-tim-cook.jpg"
-        width: 708
-        height: 398
-        isCached: true
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 11
 
 secured: "fKaALKNw4czZ0p8bLecgA4bj22i/eVuHs2UWPWhdVX+25+EQmSN2HsEPTIgVUHOoDrSbrX/rGrfjelSbiGorNzk5sZDbNoQ1b7FLPp8N7uU2cY/5DJiB/SAYRQTD9YsrVmbCCLNVWWtMIfvPRXf41dq+wPoK9YIDJnLNlyQVlXWBL1HVSXoBZMq0nBraa5SEMv8wXavprquIoD//vyGMCYcTm8lFaalCDDfAxD2cnGstXVdnMARys6hFwvsGR6Qn3+O0f2XlFwTAjOLxHvIlo3ziKU4jYOh6LPhogRWiz8G2Qa3NzWo3Zq7sOUakS8Mket4C5aQvNXxNbcxTN9jN4IdSsjH/Hv4J7uiqfvkuDBklYM3Bovg6J3Sn9mTzA0bSYsX0+e6AC0M72mA4PrqbYHfu9rl6pIfEQ33zzrWdHgBAJLkka8h9DYpcOikDAgjD5Sk8TSqXuzWiEzAS8cfYEiIUnBqNtPEPLa5PK7qGJh7mxYbE/yodC8JNX4gUED1NA/5+cDG4cO/cJcNpZlS1ag==;rqbFfOEJ5cLi44ipLPEK5A=="
 ---

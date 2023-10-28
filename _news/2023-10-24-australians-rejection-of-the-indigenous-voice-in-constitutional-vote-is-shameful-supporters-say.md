@@ -28,15 +28,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 34
-  - title: "Indigenous groups break silence in wake of Voice, condemn ‘shameful act’ and vow to move forward"
-    excerpt: "Indigenous leaders have broken their silence in the wake of the failed Voice referendum expressing their shock and disbelief over the “vitriol and hatred” run through the campaign."
-    publishedDateTime: 2023-10-23T09:53:00Z
-    webUrl: "https://www.theaustralian.com.au/breaking-news/indigenous-groups-break-silence-in-wake-of-voice-condemn-no-vitriol-and-vow-to-move-forward/news-story/2419db03f2394293c10c2ed3c44696e9"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
   - title: "Australia’s rejection of Indigenous Voice in constitutional vote is shameful, supporters say"
     excerpt: "Indigenous campaigners who wanted Australia to create an advisory body representing its most disadvantaged ethnic minority have said its rejection in a constitutional referendum was a \"shameful act.\""
     publishedDateTime: 2023-10-24T09:00:00Z

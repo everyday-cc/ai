@@ -19,6 +19,36 @@ topics:
   - AI
 
 related:
+  - title: "Can Rishi Sunak’s big summit save us from AI nightmare?"
+    excerpt: "Perhaps surprisingly, given this nightmarish backdrop, Prime Minister Rishi Sunak urged people \"not to lose sleep\". He has a plan, and it's an ambitious one. He wants to position the UK as the global leader for AI safety."
+    publishedDateTime: 2023-10-28T00:08:00Z
+    webUrl: "https://www.bbc.com/news/technology-67172230"
+    ampWebUrl: "https://www.bbc.com/news/technology-67172230.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67172230.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13662/production/_131485497_gettyimages-842197198.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "The UK Lists Top Nightmare AI Scenarios Ahead of Its Big Tech Summit"
+    excerpt: "Ahead of a global summit on how to keep artificial intelligence from doing harm, a UK government report warns that the tech could be used to help create bioweapons, or escape human control altogether."
+    publishedDateTime: 2023-10-25T22:38:00Z
+    webUrl: "https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 73
+    images:
+      - url: "https://media.wired.com/photos/6539900d34195a696cda346b/191:100/w_1280,c_limit/AI-biz-GettyImages-582780248.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "AI dangers must be faced ‘head on’, Rishi Sunak to tell tech summit"
     excerpt: "Government document says impossible to rule out technology poses existential threat"
     publishedDateTime: 2023-10-25T20:30:00Z
@@ -67,6 +97,31 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "No 10 plays down worries about Sunak’s AI safety summit having few top leaders"
+    excerpt: "Questions remain about gathering unlikely to help PM fulfil aspiration of UK shaping global approach"
+    publishedDateTime: 2023-10-27T14:55:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/27/no-10-rishi-sunaks-ai-safety-summit-world-leaders"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/27/no-10-rishi-sunaks-ai-safety-summit-world-leaders"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/27/no-10-rishi-sunaks-ai-safety-summit-world-leaders"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 53
+    images:
+      - url: "https://i.guim.co.uk/img/media/86692a0363695e54e4dec5aa93b0f36f97110d17/271_219_3082_1848/master/3082.jpg?width=620&quality=85&auto=format&fit=max&s=acf063ae8948554c6db715ce06cd89fe"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "How Sunak’s Bletchley Park summit aims to shape global AI safety"
+    excerpt: "Emphasising the high stakes ahead of next week’s summit at Bletchley Park, Sunak warned in a speech on Thursday that “humanity could lose control of AI completely” if the technology was not given proper oversight, even as it created new opportunities."
+    publishedDateTime: 2023-10-27T04:00:00Z
+    webUrl: "https://www.ft.com/content/e0574e79-d723-4d94-9681-fae22648e3ad"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
   - title: "Humanity Could 'Lose Control' Of Artificial Intelligence, Warns Rishi Sunak"
     excerpt: "Humanity could “lose control” of Artificial Intelligence, Rishi Sunak has warned as he set out a series of grim scenarios for the future of mankind. The prime minister said AI could make it easier to create weapons of mass destruction, help terrorist ..."
     publishedDateTime: 2023-10-26T19:46:00Z

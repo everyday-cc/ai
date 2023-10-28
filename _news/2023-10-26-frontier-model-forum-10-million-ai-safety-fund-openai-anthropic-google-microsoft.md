@@ -26,20 +26,61 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft jumps while Google owner Alphabet slips as Wall Street zeroes in on the tech giants' AI efforts"
-    excerpt: "Microsoft shares climbed in premarket trading Wednesday, while Alphabet slumped as investors focused on weaker-than-expected cloud revenues."
-    publishedDateTime: 2023-10-25T11:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stock-market-outlook-ai-chatgpt-bard-microsoft-google-alphabet-shares-2023-10"
+  - title: "AI’s proxy war heats up as Google reportedly backs Anthropic with $2B"
+    excerpt: "With a massive $2 billion reported investment from Google, Anthropic joins OpenAI in reaping the benefits of leadership in the artificial intelligence"
+    publishedDateTime: 2023-10-27T21:51:00Z
+    webUrl: "https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/"
+    ampWebUrl: "https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/anthropic-header.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google agrees to invest up to $2 bln in AI startup Anthropic -WSJ"
+    excerpt: "Oct 27 (Reuters) - Alphabet’s Google agreed to invest up to $2 billion in artificial intelligence startup Anthropic, the Wall Street Journal reported on Friday, citing people familiar with the matter. (Reporting by Chavi Mehta in Bengaluru; Editing by ..."
+    publishedDateTime: 2023-10-27T20:17:00Z
+    webUrl: "https://www.reuters.com/article/google-antrhopic-idUSL4N3BX52Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 67
     images:
-      - url: "https://i.insider.com/6538e2fd96f7540cd064eae8?width=1200&format=jpeg"
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
+  - title: "After Amazon, Google doubles down on AI; set to invest 2 billion in OpenAI rival startup Antropic"
+    excerpt: "Google has committed to investing $2 billion in AI startup Anthropic separate from previous investment in the company."
+    publishedDateTime: 2023-10-28T03:41:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/after-amazon-google-doubles-down-on-ai-set-to-invest-2-billion-in-openai-rival-startup-antropic-11698460928342.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/after-amazon-google-doubles-down-on-ai-set-to-invest-2-billion-in-openai-rival-startup-antropic/amp-11698460928342.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/after-amazon-google-doubles-down-on-ai-set-to-invest-2-billion-in-openai-rival-startup-antropic/amp-11698460928342.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/10/28/1600x900/UNVRSL-MUSIC-GRP--ANTHROPIC--0_1698460999211_1698461481777.JPG"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Google bets US$2 billion on AI startup Anthropic, inks cloud deal"
+    excerpt: "GOOGLE has committed to invest US$2 billion in the artificial intelligence (AI) company Anthropic, solidifying its relationship with the startup darling and stoking the Silicon Valley frenzy for AI. Read more at The Business Times."
+    publishedDateTime: 2023-10-28T01:16:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/google-bets-us2-billion-ai-startup-anthropic-inks-cloud-deal"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 17
 
 secured: "IhyIxWvUCNRLrSLOIMREgmBKLU6mmX7z5oEQWWB09vefd0xwmIKC85lLWPRTJK87Hs9d3YJc9617pnWSJP3Wx/CxWS/2TGb6YOA5RqYsyH1dmygDsZ9KFd6t4wWD9zvvXo+e53az3IfJkfGEFUFRXYcEWpjXGLw0iseI/fU4Y4lKhP0NOUxPMpm4DbA74r6W4lBO3A3qCbwHCCM37ndmkooytWq54XuSJwX6YgUlGsFytWyowzr8ddLMeK0MXldRYz0jz/lKVj6kFFMuHdnHMXVi0lNFzTLlZoj5aE/Gf9nwHpwPAONUMpFArrtWS64xwNOP5vhFXexKvxlLzcaM4mKV0caHdvrzkrUGTbauCQ4=;J3DhqneayMgwcR7yt/VQog=="
 ---

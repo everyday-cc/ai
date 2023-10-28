@@ -7,7 +7,7 @@ originalUrl: "https://au.pcmag.com/cars-auto/102335/cruise-halts-all-self-drivin
 webUrl: "https://au.pcmag.com/cars-auto/102335/cruise-halts-all-self-driving-taxi-operations-to-rebuild-public-trust"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -68,6 +68,17 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 32
+  - title: "Cruise suspends self-driving robo-taxi service in Houston, nationwide"
+    excerpt: "HOUSTON - Two weeks after launching services in Houston, Cruise suspended its self-driving vehicle operations nationwide."
+    publishedDateTime: 2023-10-28T03:25:00Z
+    webUrl: "https://www.fox26houston.com/news/cruise-suspends-self-driving-robo-taxi-service-in-houston-nationwide"
+    ampWebUrl: "https://www.fox26houston.com/news/cruise-suspends-self-driving-robo-taxi-service-in-houston-nationwide.amp"
+    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/cruise-suspends-self-driving-robo-taxi-service-in-houston-nationwide.amp"
+    type: article
+    provider:
+      name: KRIV
+      domain: fox26houston.com
+    quality: 24
   - title: "Self-driving car company Cruise halts fleets in Houston, elsewhere in bid to ‘rebuild public trust’ amid feds’ probe"
     excerpt: "The self-driving car and driverless rides company Cruise said Thursday that it is halting its driverless operations across its fleets -- including in Houston -- as it said on Twitter that it is taking steps to “rebuild public trust,"
     publishedDateTime: 2023-10-27T12:07:00Z

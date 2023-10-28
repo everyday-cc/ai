@@ -139,20 +139,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 58
-  - title: "Qualcomm Snapdragon X Elite Details Leak; Has 4.6 TFLOPs Of GPU Power"
-    excerpt: "Details of Qualcomm's upcoming and next-generation mobile chipset have leaked and we now have a name: the Snapdragon X Elite."
-    publishedDateTime: 2023-10-23T11:01:00Z
-    webUrl: "https://www.lowyat.net/2023/309593/qualcomm-snapdragon-x-elite/"
-    type: article
-    provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 54
-    images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2023/10/Qualcomm-Snapdragon-X-Elite-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Qualcomm invests further in mobile AI with chips announcements"
     excerpt: "Qualcomm rolled out a number of key AI announcements today, as the company seeks to cement itself as a major player in mobile chips. Those announcements include a new compute plat"
     publishedDateTime: 2023-10-24T21:11:00Z

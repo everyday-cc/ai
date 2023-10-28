@@ -50,6 +50,38 @@ related:
         width: 725
         height: 363
         isCached: true
+  - title: "AI in the Mental Health Field"
+    excerpt: "AI has the potential to transform and revolutionize the mental health field. Psychologists regard AI not as a replacement for real, face-to-face therapy, but as an additional source of support in a world in which artificial intelligence becomes more pervasive in our lives and mental health resources are becoming increasingly sought after."
+    publishedDateTime: 2023-10-27T22:56:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-10/shantanu-kumar-xvdkNBaja90-unsplash.jpg?itok=50YsNbXe"
+        width: 1528
+        height: 800
+        isCached: true
+  - title: "How artificial intelligence is monitoring employee performance in the workplace"
+    excerpt: "Artificial intelligence has been around for years, but the technology is being used in new ways, including to monitor your performance on the job."
+    publishedDateTime: 2023-10-28T03:09:00Z
+    webUrl: "https://nbc-2.com/features/tech/2023/10/27/how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace/"
+    ampWebUrl: "https://nbc-2.com/features/tech/2023/10/27/how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace/"
+    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2023/10/27/how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace/"
+    type: article
+    provider:
+      name: NBC2
+      domain: nbc-2.com
+    quality: 53
+    images:
+      - url: "https://nbc-2.com/wp-content/uploads/2023/10/ashley-nbc-10.27.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "q5qcJgqkgTDas//PqN6MligzU4fDX5Vfg2Pt25evE3vi0oY4Xyra4zJFZMpJohTQ6lFIcMokIFzom6FRt1glbTl2R4uwf32GZuT9fNgrrCJ5buzTLZ2+RYwSbhp7AVAk6C2ewEnbek1PfFZ4vxnoqo9exGCoPnlEs978f//35baloiWHIAmdsHYohhcoGjEVBUqiIl0lQUs7N4DVSUnLMRQ1N+IpsRulE3IFwQp/RMyTtANdUtwefraD+QAttin2h4BOgPM8iaOyn+U5dHYq4hcVL10SxNMqa/BUwHvfMnEvOLKvhg7uRfisUWYnJxecAa/tnH80fBb9eIpPNRUvZ7HRsFGm74AvD0RQVoGcRfYEeAeXhO8OTiSW7YTTlyjMHNT9iioxFrRkBxRIJuxDq29kc59VynOnByVFJXMuTk9PiraA1j0FVkR2/lGenplxqJ5qAJGJYYIlN7kz+gzHWMGi7mghrTqMxywXEVR4HFrij29SslZXLl/wNT2ruDxzjjQlo2QXv8eg7afIIs4TuQ==;36prVEBnFZE3C0ZThIEdvw=="
 ---

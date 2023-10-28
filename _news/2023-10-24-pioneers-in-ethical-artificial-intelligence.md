@@ -7,8 +7,8 @@ originalUrl: "https://www.bidmc.org/about-bidmc/news/2023/10/pioneers-in-ethical
 webUrl: "https://www.bidmc.org/about-bidmc/news/2023/10/pioneers-in-ethical-artificial-intelligence"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Beth Israel Deaconess Medical Center
@@ -40,6 +40,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Ethics and Practical Applications of AI Agents in US Business Today: Digital Worker Forum"
+    excerpt: "The International Digital Worker Association (IDWA) is thrilled to unveil the Digital Worker Forum, where experts from Microsoft, Google, IBM, NVIDIA, Meta, AutomationAnywhere, UiPath, and other tech giants will answer these and many more questions on November 8, 2023."
+    publishedDateTime: 2023-10-25T18:50:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ethics-practical-applications-ai-agents-us-business-today-/2023/10/25/9905397.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
 
 secured: "vsQhIPuV0X3hXnSQ4kXtLZFktR3fNMqCaGYtjWKP2vcPY/ckAmDn7SmD1luENILJx5iA5IW6ebdrrY39XB7nr1gz2kfmO9FDcP+d4zL3vhPxVFPvkyExRy4w3hR6pXyxU0YMyVDG29IyfByTtMJrq0+hDti6zFwS+M4sEKkpd5Vq5eKRPwuMVjkHp0XDA+RVfgrckXP1iJtXE10b8QXVzXf+FFn9I8pSZLZzi2VpPcdvGva77K4e8qiu45XJXHhC8VjkpE4VOZIbYUY9tN9yD1umUz54clDcaIXfEPL9LBULR9cEyMs7+ZbYO9e97RBUN68bq7nxmrqKUxp/pF6/1oKVGQdoAYQJRveY0v4KtOs=;InJobHTQa9gaNgJMMkitBw=="
 ---

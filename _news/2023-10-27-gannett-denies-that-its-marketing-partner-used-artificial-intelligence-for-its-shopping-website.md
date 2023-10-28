@@ -1,26 +1,31 @@
 ---
 category: news
 title: "Gannett denies that its marketing partner used artificial intelligence for its shopping website"
-excerpt: "The media company Gannett denied that it published material created by artificial intelligence on a shopping website that it owns."
-publishedDateTime: 2023-10-27T02:02:00Z
-originalUrl: "https://www.newsday.com/business/gannett-denies-that-its-marketing-partner-used-artificial-intelligence-for-its-shopping-website-m5xwk6bz"
-webUrl: "https://www.newsday.com/business/gannett-denies-that-its-marketing-partner-used-artificial-intelligence-for-its-shopping-website-m5xwk6bz"
-ampWebUrl: "https://www.newsday.com/amp/business/gannett-denies-that-its-marketing-partner-used-artificial-intelligence-for-its-shopping-website-m5xwk6bz"
-cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/gannett-denies-that-its-marketing-partner-used-artificial-intelligence-for-its-shopping-website-m5xwk6bz"
+excerpt: "The media company Gannett denied that it published material created by artificial intelligence on a shopping website that it owns"
+publishedDateTime: 2023-10-26T23:09:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/gannett-denies-marketing-partner-artificial-intelligence-shopping-website-104393509"
+webUrl: "https://abcnews.go.com/Business/wireStory/gannett-denies-marketing-partner-artificial-intelligence-shopping-website-104393509"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/gannett-denies-marketing-partner-artificial-intelligence-shopping-website-104393509"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/gannett-denies-marketing-partner-artificial-intelligence-shopping-website-104393509"
 type: article
-quality: 44
-heat: 44
+quality: 62
+heat: 62
 published: false
 
 provider:
-  name: Newsday
-  domain: newsday.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI in Robotics
   - AI
   - AI in Marketing
 
-secured: "a7+Rd68Z2qHk6a5DW9WzmJ4Q83lVD5S1P9YYl/vk9etQ+JbWTd2vm3FuTnl/V8yaVyhN6JOt4rvPASiegAOn1o4bI4Galyr+4Mqc8ks6Vg4fZffR5yGBpUib/D5WXDiTwUtTSSW7yab5yn/MwtsOCkkVt+En/21ld4xk2D6cRglu37S22a5g4EFuAUZt8mM0eM+KV86Hbd8LGXArwnXh11mtHMiCKiP6Xch/+WqKTjiirGbqOxVr9aVxIDOM24wW4Ui89SA/2Ll5iQ4eTUV9takPA4hHU2Z48NrmaO1uBghOTDhzj2zKvW4aEzOEDTID8XK6ElnHiRwErMZ54cI2ZvqUZzDjnfbhLO2oDBsVErTl9NNihNMlhIWXO43UUVsBBy/fDAQ2+/pwYLMYAhlWtgBG+D0uplSg4ZpxDepjJ0yBE8sqg1OgPpHPMhhNd5+Q+u9S/CXqDIveYZ6O7hmC+WLBsNGyn53UKhc7lmySXWG67xQ+KqZ4H5jkaiMHz/OxKaQr2z9UHnQ+WpSy6RlDxQ==;OnUC5esNphxZoCP3E8MlkQ=="
+images:
+  - url: "https://s.abcnews.com/images/Business/wirestory_4fe6da583217293f8fa2bd5d0b74d285_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+secured: "Y/A5Ps7dKLwzYlgbmFCBgj4OX9JEyvJNPDNA78F7DJfv8nSzCHY4bJQVGXk9XKtAAe15mCQ4BPEL6PoJRK0mMy/pNfQP4vxOwLKY1jIK+CcHLvxFb0gNnTwbiH086F9ddZxV3btQVSQQZD+0n3Bb2csLN3W3Jc19EFlBLNtltSaPlAJOQoNNwYNaizqpYCeZGRxPal3PXOykTQcj61kVqFyzbVWoBcqE9YIKrEvubMTDdclQ/0CiV1FWWejrrM+6SYfehkul/M0fIVvxiaCFCQLGg23b4kPtNUSxMGJyly4CR3KhiT8JI3qupZEW68P/mGZ6lhaeBDQ5SvHqWf1sJh86RHhsoSmJZSgSnt1nWIQ=;kUsuDR56YQhKHYZUVaWzhg=="
 ---
 

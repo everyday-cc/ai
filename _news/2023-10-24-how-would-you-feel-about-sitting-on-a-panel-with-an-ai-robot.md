@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "No 10 plays down worries about Sunak’s AI safety summit having few top leaders"
-    excerpt: "Questions remain about gathering unlikely to help PM fulfil aspiration of UK shaping global approach"
-    publishedDateTime: 2023-10-27T14:55:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/27/no-10-rishi-sunaks-ai-safety-summit-world-leaders"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/27/no-10-rishi-sunaks-ai-safety-summit-world-leaders"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/27/no-10-rishi-sunaks-ai-safety-summit-world-leaders"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 53
-    images:
-      - url: "https://i.guim.co.uk/img/media/86692a0363695e54e4dec5aa93b0f36f97110d17/271_219_3082_1848/master/3082.jpg?width=620&quality=85&auto=format&fit=max&s=acf063ae8948554c6db715ce06cd89fe"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "/GKoKmS3Vx7NjjHtDEet/RDlE/+QIDqpVqAR6mxeUUaBIXkKOaOK35LiShewM7WaO+Zp54ir/t5Agdg/+5A+RkAiBLauNFRDAvZzeF0t9HCNLomqx6rA7+DT/fq5KzrqexgI+cqqau45ehO7eJQTHft2sxh3CBhegpHjaXTADgL3TcL8JouihYwHuMjVEBjHcMp/5tVaJPtvpdIOJIECt+A5hKYpSKqlPPFHusLR4bBG/6FOmpHnUJjCjmAstwGPu/X3SNc6MXoes9XAGAeUuC5X4Yc1Th9sjiUDwhLq9aJvSNgCE6HUslRXp2EtPUSHGL0Bnry32EWG0NCeMNKu3bTVq5NulYn425brxqYYfPg=;tCUGOwWqmviiwn8XtzklCg=="
 ---
