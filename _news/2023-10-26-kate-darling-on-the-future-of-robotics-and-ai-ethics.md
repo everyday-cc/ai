@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/kate-darling-on-the-future-of-robot
 webUrl: "https://www.therobotreport.com/kate-darling-on-the-future-of-robotics-and-ai-ethics/"
 type: article
 quality: 116
-heat: 256
+heat: 246
 published: true
 
 provider:
@@ -174,15 +174,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "An interview with Bright Data’s VP of Ethics and Compliance on carving the industry path on ethics, regulation and training AI."
-    excerpt: "As VP of Compliance and Ethics, Rony Shalit is responsible for growing and shaping Bright Data’s ethical approach regarding web data collection and proxy usage for years to come which also sets the standard for the industry."
-    publishedDateTime: 2023-10-23T06:00:00Z
-    webUrl: "https://techbullion.com/an-interview-with-bright-datas-vp-of-ethics-and-compliance-on-carving-the-industry-path-on-ethics-regulation-and-training-ai/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 6
 
 secured: "kwKlqtFpkoUh5akt47HdX/pd3hRW2Qu+gIcWJYDp2wvmfNUOtVIUAF4VWJrAj59fzCo6BGNvo+3Mh2SnMykrpEAj0G2MzXKZ7DnSt4lqn7zTJ10NbeD2BK3s2ilvjYpgxpE0VxKPwvesR1XtvPA6O8s2OkDKY7CeteOcV59jOHh9iXNPBsulafoq6pmjkSY4ddhV5n4k13quu41TLzjJh7RYh2rHM1kKc92lsSG5rd+yivhnQa4zUDXcEyCrxY0EDy7nyp7Y4eRC4Jh2ZbN25iwiSf2SYIuU+URW2EdUODRLwPfSvpjIQn2bEirvBctzwSSsJZTe9L5eW194LxXCWSB/pjB80ipHv3X8lmwi0j8HRYvahWQ6imQ5jIYMFo7E2DqyRppgK1aeNGyNLJYYob+d7a2WvZgCKjd6C2FIv3NTb1G7tyLXnm5vHBu+bNo3BBN06AYEBjs47ySPPTZnaBnzogIWFa89ABn9yYoxMEOpsbwNq75m2qiYge9auPDrHNIxE957RBGHObKHRSRK2w==;vllD0xLR4QbE9PB+UtiwJg=="
 ---

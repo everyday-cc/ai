@@ -278,6 +278,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-16-streamtext-releases-update-with-enhanced-artificial-intelligence-language-translation-captions.md",
+      "title": "StreamText Releases Update With Enhanced Artificial Intelligence Language Translation Captions",
+      "excerpt": "MADISON, Wis., Oct. 16, 2023 /PRNewswire/ -- StreamText's latest Automatic Speech Recognition update includes enhanced artificial intelligence (AI) language translation. Over ten years ago ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/streamtext-releases-update-with-enhanced-artificial-intelligence-language-translation-captions/article_a2bab54b-20f1-5458-8a68-4c8888e02577.html",
+      "originalUrl": "https://www.news-journal.com/streamtext-releases-update-with-enhanced-artificial-intelligence-language-translation-captions/article_a2bab54b-20f1-5458-8a68-4c8888e02577.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/b/33/b33c23eb-a3f3-501e-8f06-ed423bc61868/6508430e6b8c8.image.jpg?crop=905%2C475%2C372%2C0&resize=905%2C475&order=crop%2Cresize",
+          "width": 905,
+          "height": 475,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.md",
       "title": "U.S. tackles loopholes in curbs on AI chip exports to China",
       "excerpt": "The new rules will be added to sweeping U.S. restrictions on shipments of advanced chips and chipmaking equipment to China unveiled last October.",
@@ -1087,49 +1130,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-14-google-has-sent-internet-into-spiral-of-decline-claims-deepmind-co-founder.md",
-      "title": "Google has sent internet into ‘spiral of decline’, claims DeepMind co-founder",
-      "excerpt": "Mustafa Suleyman, the British entrepreneur who co-founded DeepMind, said: “The business model that Google had broke the internet.” He said search results had become plagued with “clickbait ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/",
-      "originalUrl": "https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/business/2023/10/14/TELEMMGLPICT000352917632_16972923076300_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-14T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

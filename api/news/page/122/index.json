@@ -2,6 +2,58 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2023-08-02-empowering-ai-to-serve-humanity-outcome-driven-ethical-innovation.md",
+      "title": "Empowering AI To Serve Humanity: Outcome-Driven, Ethical Innovation",
+      "excerpt": "Ethical innovation in AI is a business objective and moral duty. Jobs-to-be-Done empowers businesses to ethically innovate and put human needs at the forefront.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhenkin/2023/08/02/empowering-ai-to-serve-humanity-outcome-driven-ethical-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/davidhenkin/2023/08/02/empowering-ai-to-serve-humanity-outcome-driven-ethical-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bfc025b0bb86b726143287/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhenkin/2023/08/02/empowering-ai-to-serve-humanity-outcome-driven-ethical-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhenkin/2023/08/02/empowering-ai-to-serve-humanity-outcome-driven-ethical-innovation/amp/",
+      "publishedDateTime": "2023-08-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-fox-news-artificial-intelligence-newsletter-restaurant-robot-backlash-ai-regulation.md",
       "title": "Fox News Artificial Intelligence Newsletter: Restaurant robot backlash, AI regulation",
       "excerpt": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
@@ -1132,49 +1184,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-machine-learning-blockchain-technology-could-help-counter-spread-of-fake-news.md",
-      "title": "Machine learning, blockchain technology could help counter spread of fake news",
-      "excerpt": "A proposed machine learning framework and expanded use of blockchain technology could help counter the spread of fake news by allowing content creators to focus on areas where the misinformation is likely to do the most public harm,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230801172011.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230801172011.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

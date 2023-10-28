@@ -172,15 +172,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "An interview with Bright Data’s VP of Ethics and Compliance on carving the industry path on ethics, regulation and training AI."
-    excerpt: "As VP of Compliance and Ethics, Rony Shalit is responsible for growing and shaping Bright Data’s ethical approach regarding web data collection and proxy usage for years to come which also sets the standard for the industry."
-    publishedDateTime: 2023-10-23T06:00:00Z
-    webUrl: "https://techbullion.com/an-interview-with-bright-datas-vp-of-ethics-and-compliance-on-carving-the-industry-path-on-ethics-regulation-and-training-ai/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 6
 
 secured: "+p7Y4q+S5SZl4iiKzrwJyjjX1tUnaAbO36DUNtWPBOeQ/VNkckJ/PVKIrQb5ooFFWVKRdwhDAiuB0sBFiCHzZMRqxs8ty9uUtqVL/Wxdnq3PtijRQXmYAlO/BQZXfyEt/RPf703i3ossOCO27QQV/68pCxVWdWRU/xD2jRSmsYY0rNZrGJMnsN4zMZTjlmS47JX9BHo55hJ3ZVYBDDpMG1c6JsrgXFWyz7Q5HakwenRsQ41Y8Oy6Q/GfNER14xcayOa6O8n9ubMG8d7CrxxsX5F0U6E9LBFK7Z+SGyemzV6w0Bv5BjEFKYkDJwMmU+HIhmOSzXUbBpWQMYjPtSSL3d4p3ZZeCwxHQDT79Y6UVak=;/IPD49K7TdumErHKXJaHtQ=="
 ---

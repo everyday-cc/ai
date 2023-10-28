@@ -48,6 +48,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
+  - title: "Restoring Vision: Blind “See” Through Sound with Smart Glasses"
+    excerpt: "Researchers pioneered \"acoustic touch\" technology, allowing individuals with blindness or low vision to \"see\" using unique sound icons."
+    publishedDateTime: 2023-10-27T20:23:00Z
+    webUrl: "https://neurosciencenews.com/vision-restoration-smart-glasses-neurotech-25114/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 24
+    images:
+      - url: "https://neurosciencenews.com/files/2023/10/vision-auditoy-smart-glasses-neurosicnce.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "uPc4Nyb5wNClCk4sr5NYi9+asB6gcAZ+4W5iyJaFUgn0w1BGE8HnzFfLA36AbhjbmTqA/XUQf7YOpBUgcASS5ySAItbEB/L4eQ7gKW5QIMhM79QKD0EMAKyD3QhSVCKIu5C1VM9AzwuXzDIbzhKHcgZWsUATJBQ2xRxHEguV7rnl39QpY8V8+zBqIQvebBa5ZcilzFNbhGZo7Yr0PbA47UBjyUcKNKglCWC1I3/FhMSqaMOjZVuVHU5250HdrAO861Ux9tvMxSAX5oF0O41dUxQx28QyYn6K9b0RNA0mO0eC16/1O73AMirpvY75hKHmGAsSRNKIVhFn0/8zjOnkIBFmBOfjygNETjy0idKb9eus7EsQ69nsFa5M/pSzyDxB2V8HhrCp63VaBjSED0M+fQBUYS7P9kb2qdYK+SJAJLQB0JETBIiIX5CFPeu8yptbkbXvVKdR8TWvf7tsLa8hSrkM0X+JpYsd6RhcuWFJYLGVoj0BrJw22uaoJe1AGhKjeE9wEmxFb39xatep5otlfw==;2NB2Kc+7qYl2UrDgFXJpEQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/technology/acoustic-touch-glasses-help-the-bl
 webUrl: "https://newatlas.com/technology/acoustic-touch-glasses-help-the-blind-vision-impaired-see-using-sound/"
 type: article
 quality: 69
-heat: 90
+heat: 99
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://itwire.com/media/k2/items/cache/0622a9c44b21707cb0571e71edf3e91d_M.jpg"
         width: 375
         height: 281
+        isCached: true
+  - title: "Restoring Vision: Blind “See” Through Sound with Smart Glasses"
+    excerpt: "Researchers pioneered \"acoustic touch\" technology, allowing individuals with blindness or low vision to \"see\" using unique sound icons."
+    publishedDateTime: 2023-10-27T20:23:00Z
+    webUrl: "https://neurosciencenews.com/vision-restoration-smart-glasses-neurotech-25114/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 24
+    images:
+      - url: "https://neurosciencenews.com/files/2023/10/vision-auditoy-smart-glasses-neurosicnce.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "Krcf6XBwxmSm8pFg7kq2l+/Q0HWLmwPz4E3cP63gMV956XBBmPo3JujATglEGV3h6Ey+2oA32dDc8r0a0tN1xsA04bCMGSKQj28VydouD78sxwnS2i+FSCIa5MIKGpPgSTqjwfY8Mv2QtJ+UW1mf34jlfDau4H4o9AOIIkiYa9Zkc0oxZBfLNhJoNrvJbA7w5i3MXsjGtVoo3j+k469hKGX7Eg58KIFNVO5SyNxNir5z7PykYTPs7IjuRXDJpeAoZCATI+Ro0XcO3vpzicy/yP4GaMGy+FHjysyTUULeJWfM+zqmpqIES7DCcWiucpIFwCZ4nBHUBKOdZKVjpeGufVYJXQogq6J9HIzGbledzAbVJ4DyB9g1mbQJZbn2kA6zHqBeWJE6jHWLKcalVcW6O3dNCOyyYAgESBugoe9TD83WH+edlwMgcrITCqF5kp22nNNc3GZs31mbyn4tXMNgmhDc/+zoMBKvApqD35Er2p51Smtml8kox4ShO/De6n/Utf10VzWNuaWgMZXxggsmqQ==;XUIlzLeqdmoCv+/sNLsoRw=="

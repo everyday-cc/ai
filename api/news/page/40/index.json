@@ -2,6 +2,60 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-09-28-10-top-artificial-intelligence-certifications-2023.md",
+      "title": "10 Top Artificial Intelligence Certifications 2023",
+      "excerpt": "It is best for Artificial Intelligence, Machine Learning, or Deep Learning enthusiasts ... Each course may have individual prerequisites. Azure AI Engineer Associate is a certification offered by Microsoft that validates an individual’s skills in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-certifications/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-certifications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/09/tr_09262023-ai-certifications.png",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-microsoft-technology-chief-says-supply-of-nvidias-ai-chips-is-improving.md",
       "title": "Microsoft technology chief says supply of Nvidia's AI chips is improving",
       "excerpt": "Kevin Scott, Microsoft's chief technology officer, said supply of Nvidia's graphics processing units is improving now that generative AI hype has cooled a bit.",
@@ -1051,40 +1105,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-uaes-falcon-180b-breaks-boundaries.md",
-      "title": "UAE’s Falcon 180B breaks boundaries",
-      "excerpt": "Falcon 180B, the most advanced open Large Language Model (LLM) is available via Amazon SageMaker Jumpstart Dubai, UAE – In a monumental stride for the Middle East's technology landscape, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-k6erlmyy",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-k6erlmyy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

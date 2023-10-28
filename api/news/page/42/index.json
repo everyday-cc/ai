@@ -2,6 +2,49 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-09-27-spotify-using-ai-to-translate-podcasters-original-voices-to-additional-languages.md",
+      "title": "Spotify Using AI to Translate Podcasters' Original Voices to Additional Languages",
+      "excerpt": "Spotify this week announced an AI translation feature for podcasters that could give it an edge over Apple's podcasting platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macrumors.com/2023/09/26/spotify-ai-voice-translation/",
+      "originalUrl": "https://www.macrumors.com/2023/09/26/spotify-ai-voice-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.macrumors.com/t/7-nfr3K2_BPQYeb0zBLJE8hdAb0=/2500x/article-new/2021/08/General-Spotify-Feature.jpg",
+          "width": 2500,
+          "height": 1407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacRumors",
+        "domain": "macrumors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-lightbits-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Lightbits Now Available in the Microsoft Azure Marketplace",
       "excerpt": "Lightbits today announced the availability of the Lightbits Cloud Data Platform in the Microsoft Azure Marketplace, an",
@@ -977,49 +1020,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-fis-of-all-sizes-can-harness-the-transformative-power-of-ai-with-the-help-of-fintech-partners.md",
-      "title": "FIs of All Sizes Can Harness the Transformative Power of AI with the Help of FinTech Partners",
-      "excerpt": "For too long, smaller banks and credit unions have been challenged by unequal access to AI technology. From conference agendas to marketing materials, community financial institutions with less than $500 million of assets have been segregated and treated  differently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/blogposting/24938/fis-of-all-sizes-can-harness-the-transformative-power-of-ai-with-the-help-of-fintech-partners",
-      "originalUrl": "https://www.finextra.com/blogposting/24938/fis-of-all-sizes-can-harness-the-transformative-power-of-ai-with-the-help-of-fintech-partners",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/visible_pictures/2f40bf95-205d-4aa9-bb2d-f19476075c53.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

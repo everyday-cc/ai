@@ -7,7 +7,7 @@ originalUrl: "https://www.caledonianrecord.com/news/national/chloe-wang-of-yang-
 webUrl: "https://www.caledonianrecord.com/news/national/chloe-wang-of-yang-cheng-fund-optimistic-about-us-ban-on-ai-chip-exports/video_a0685493-1b95-5a6d-be05-0d4b2067230a.html"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Chloe Wang of Yang Cheng Fund Optimistic about US Ban on AI Chip Exports"
-    excerpt: "Chloe Wang, a partner at the Chinese investment fund Yang Cheng Fund, welcomed the news of the US banning exports of certain AI chips. Wang said this move could stimulate"
-    publishedDateTime: 2023-10-24T17:13:00Z
-    webUrl: "https://www.djournal.com/news/national/chloe-wang-of-yang-cheng-fund-optimistic-about-us-ban-on-ai-chip-exports/video_e0bf8d12-44b1-54f5-b059-018da2755cdb.html"
+  - title: "China homegrown AI chip development proceeding despite US ban"
+    excerpt: "China's chipmaking industry continues to advance its domestic development of AI chips despite stricter US bans, with companies like Alibaba, Baidu, Huawei, and Tencent developing their own AI chips."
+    publishedDateTime: 2023-10-24T01:41:00Z
+    webUrl: "https://www.digitimes.com/news/a20231023PD228/us-chip-ban-china-huawei-ai-chips-alibaba-baidu-nvidia-tencent.html"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 33
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231023pd228_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "UuVnCsRmhvsUpgr1Q/pjVzlDI+osowweTJKZK/dYZUvaRKFfs/Bz9hVAauJohegxV4wtiaTFUOSveYABzEy7gCV5lrzECVx8zjvm1iORsiq0BZ2o/O8Xo6ghE6qBfrLIJNETTx9AJlrKG/5+efrQxPYX0R83OvHlSwnIDavIr8XERaYkc5ZAODlFJAW6G+CirbhwOExWaSzJhgT9s+WMRp73LOC+tBFtsjNH/NvHeLCsRK8Y+mbap4f388AzuDtfIoU4Ehn35vnlx5yfABNtwuGl4i8XYcxHbkrqJeEP8E8oVSvuM8XvRTL27Bd3Rn14wVXn7EShaeFzU8X0TLwur1wCULCFZBvC7Z02u116rd8=;K6UWUzyU4Kh0U6RDLCSXYQ=="
 ---

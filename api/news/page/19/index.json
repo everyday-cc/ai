@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-10-13-exclusive-biden-considers-extending-ai-chip-curbs-to-chinese-companies-abroad.md",
+      "title": "Exclusive-Biden considers extending AI chip curbs to Chinese companies abroad",
+      "excerpt": "The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/exclusive-biden-eyes-adding-ai-011933046.html",
+      "originalUrl": "https://www.aol.com/news/exclusive-biden-eyes-adding-ai-011933046.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_reuters_29/d49b82dbd5d182554af466c6fd5f35c0",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-13T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-applications-cloud-silicon-the-ai-trifecta-and-its-impact-on-winning-in-the-ai-era.md",
       "title": "Applications, Cloud, Silicon: The AI Trifecta And Its Impact On Winning In The AI Era",
       "excerpt": "There’s no way around it—committing to AI is committing to a big vision and a big disruption in the way that your company operates, at least to some degree.",
@@ -1162,50 +1205,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar.md",
-      "title": "Government to support development of AI chips in PPP model: Rajeev Chandrasekhar",
-      "excerpt": "A government panel has also called for using the public-private partnership model to create computing infrastructure of graphics processing units for startups and researchers",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Rajeev-Chandrasekhar-1-770x433-1.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html/amp",
-      "publishedDateTime": "2023-10-12T23:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

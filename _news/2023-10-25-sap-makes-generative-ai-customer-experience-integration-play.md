@@ -294,20 +294,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "TCS’ Obsession With Generative AI"
-    excerpt: "TCS, the IT giant was catching up with generative AI, but now it has gone all in on AI in the last couple of months."
-    publishedDateTime: 2023-10-23T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/tcs-obsession-with-generative-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/TCS-Obsession-With-Generative-AI-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "How artificial intelligence is shaping the college application process"
     excerpt: "College admissions are facing a new challenge in the form of generative AI in the college application process. How are universities dealing with this?"
     publishedDateTime: 2023-10-26T06:06:00Z

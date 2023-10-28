@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-07-ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.md",
+      "title": "AI chip startup d-Matrix raises $110 mln with backing from Microsoft",
+      "excerpt": "Microsoft: Nvidia's dominant position in the AI chip market due to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-103460231,imgsize-1539213,width-1200,height=765,overlay-etbrandequity/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "publishedDateTime": "2023-09-07T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market.md",
       "title": "$110M In Funding Will Help d-Matrix Get Generative AI Inference Platform To Market",
       "excerpt": "made possible by testing on earlier chips that demonstrated the in-memory architecture. d-Matrix roadmap: all roads lead to Corsair, the company's first scalable AI solution. \"We're entering the production phase when large language model (LLM) inference ...",
@@ -1378,49 +1422,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip.md",
-      "title": "Google unveils enterprise artificial intelligence tools, new AI chip",
-      "excerpt": "File Google unveiled a swath of fresh artificial-intelligence technology and partnerships on Tuesday that were geared toward bringing more of the growing technology to large businesses. The batch of announcements from its Google Next conference in San ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646",
-      "originalUrl": "https://www.telegraphindia.com/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2023/Jun/1687781299_google.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646",
-      "publishedDateTime": "2023-08-30T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

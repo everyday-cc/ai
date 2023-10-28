@@ -75,6 +75,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Progress toward a driverless future hits the brakes"
+    excerpt: "Building Artificial Intelligence We Can Trust.” “There are just too many outliers, so it’s like playing a game of whack-a-mole,” he said. He said the challenges of driverless cars could have lessons for other applications of machine learning ..."
+    publishedDateTime: 2023-10-27T23:29:00Z
+    webUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 39
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/10/GettyImages-1626054002-e1698443650973.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Regulators Suspend Cruise's Driverless Taxis From Operating In San Francisco"
     excerpt: "Driving Taxis The Department of Motor Vehicles has suspended permits that allowed robo-taxi company Cruise to operate in San Francisco. That comes after an incident earlier this month, in which one of the company's fully driverless vehicles hit and dragged a pedestrian."
     publishedDateTime: 2023-10-25T14:12:00Z

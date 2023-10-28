@@ -2,7 +2,7 @@
 category: news
 title: "StreamText Releases Update With Enhanced Artificial Intelligence Language Translation Captions"
 excerpt: "MADISON, Wis., Oct. 16, 2023 /PRNewswire/ -- StreamText's latest Automatic Speech Recognition update includes enhanced artificial intelligence (AI) language translation. Over ten years ago ..."
-publishedDateTime: 2023-10-16T13:27:00Z
+publishedDateTime: 2023-10-16T00:00:00Z
 originalUrl: "https://www.news-journal.com/streamtext-releases-update-with-enhanced-artificial-intelligence-language-translation-captions/article_a2bab54b-20f1-5458-8a68-4c8888e02577.html"
 webUrl: "https://www.news-journal.com/streamtext-releases-update-with-enhanced-artificial-intelligence-language-translation-captions/article_a2bab54b-20f1-5458-8a68-4c8888e02577.html"
 type: article
@@ -21,6 +21,6 @@ images:
     height: 475
     isCached: true
 
-secured: "xRiBcv1ELTcjaQLBmiDDKrjkI8R1Bnuy9tCOcjxo2fml2QO25rn14ao7OCQ02fT8zx0IF3YyEc/i/gV9GADx1ITasgh4gf+8mbL/mZ3m/irh2HJESd1fz12zWWQgezZfAPzEYeudUYvNn2gxAaSZWgOeDAujZOWLKR6is01OfTRkrtqw5VuCan+671D0p4wuIzehtWT3Pw4vurXQdOj5abNQsjdpnYV6UDk8Ut62+hc1g8z/1rnS90SKaDjTVqNWwbB6kJUVX9jGm2ww9E5VF5B1xF64HMvMyEfEw4s81+bspwEAFz4Cyv5SA5fXPuhyo58bobiNa8YRzL7JYjC2oUCgx0Cm/NohFyJHqYIAXLo=;AslADYXKXUdlDr7MWmM0HQ=="
+secured: "6Stm8iQVqikifR2vD83u3Flb1Wpju/Mo8K3C7F1nRUkpQVN1UQBE7mS2zKDrTBtwUAYixL8E0s9pbYYHf25kA6BFTbuzp5jIU+F3M8o3dv0tjGFx90XR9sHnPWm/PYer+mkE1xce07ZxIydmFOsa/KiPgTM+rxttnGb/qzcndDCjN/Bx2O/EXgkM/UVuvVECpqeVshZlD6ac3FgR1l+YOtY3d9Ve9iwYgUZKmz+BlFl57ma7Ya123m/960+C/ztnj0SJAviqNWNioqYILqLxhI5Fj33+w9lghaZvBK5W5k00mHglTUyz7QYPrRx/q2mBQby/tUUVRTP2VR1hanVdczhmMQ2uLLU1GZtemtmmKHk=;m6z/QUcwdDWz1BXd1Zj+ag=="
 ---
 

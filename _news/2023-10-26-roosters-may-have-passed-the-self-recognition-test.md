@@ -38,6 +38,20 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 49
+  - title: "A rare recognition: Iredell lawyer T.C. Homesley honored with induction into hall of fame"
+    excerpt: "County attorney T.C. Homesley was inducted into the North Carolina Bar Association Legal Practice Hall of Fame Thursday."
+    publishedDateTime: 2023-10-27T22:00:00Z
+    webUrl: "https://statesville.com/news/local/law-attorney-bar-associaton-courts/article_de2699bc-74d1-11ee-bae1-5f9bef87a0cb.html"
+    type: article
+    provider:
+      name: Statesville Record & Landmark
+      domain: statesville.com
+    quality: 15
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/statesville.com/content/tncms/assets/v3/editorial/d/e2/de2699bc-74d1-11ee-bae1-5f9bef87a0cb/653bca7058a9e.preview.jpg?crop=1765%2C927%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SfGCjZqT/HOFNeW6/ovQE23pZVZCwV3ysql6GMXE/mA0Xbne279mET//RnONqZRuQU3y5IoSm8OExgZlrdLv+ddHRMVmb5aHnKmpRpy+m41Z2EgPZdS0HDr8DR5TqaoEPhuLYPvJ314QdF50aJmGgnfWDjDA3DUR2qYLmMAj7IjUho+nJN/8FltGSd/+DRQjjvYEtF3pMUN7Dg4dAs5NWZeRE7t0O/UbEYxaOj0B0n9x/lvjIvjFaLQbuTSemckf3nI5JEAeDizUv7rLu8MSmin36O8HdYgobMC9XIuowjN+l1Vn9ksjekspnhlJtI1OOHCHI0XtA6JfqaKBJdYArEkHv+hbUEFkf4Zi5rw8vESyG6Jfo9LZYD8/C3xTG6IK1Zz6pDl+Jf5fWTSHfS6q3HBQNlNrAc2TyP31tZ3kyvXY2XwGhOaHT+F00pGY4okcKp5L4lClrOQyAtrPYz9INQ5QTSKiZbabdNOM59xVCDAHFeZwY0WboiRMrVd/gJM4ggw9d2Nq8a9nKxwbE5zREQ==;uTqc9KeFE5U2sxNi+/xjcg=="
 ---

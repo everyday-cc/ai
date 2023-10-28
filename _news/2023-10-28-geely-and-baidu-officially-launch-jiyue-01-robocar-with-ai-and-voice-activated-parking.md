@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/10/27/geely-baidu-launch-jiyue-01-robocar
 webUrl: "https://electrek.co/2023/10/27/geely-baidu-launch-jiyue-01-robocar-ai-voice-activated-parking-ev-china/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu and Geely's Self-Driving EV Delivery Begins"
+    excerpt: "Baidu and Geely's joint venture has started delivering a self-driving electric vehicle (EV) to compete with Tesla's Model Y in China's market. The JiYue 01 SUV, priced from 249,000 yuan to 339,900 yuan,"
+    publishedDateTime: 2023-10-27T23:28:00Z
+    webUrl: "https://www.futurecar.com/11659/Baidu-and-Geelys-Self-Driving-EV-Delivery-Begins"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 39
+    images:
+      - url: "https://img.futurecar.com/202310/27/l_653c479bca7c4."
+        width: 512
+        height: 512
+        isCached: true
   - title: "Geely and Baidu, in challenge to Tesla, launch autonomous EV"
     excerpt: "The Jiyue 01, the first EV from a Geely-Baidu joint venture, is equipped with Baidu’s Apollo platform, which has been in development for 10 years and used on driverless vehicles since 2016."
     publishedDateTime: 2023-10-27T15:09:00Z
@@ -39,6 +53,6 @@ related:
       domain: autonews.com
     quality: 34
 
-secured: "KJqMYw/y6tABcoKj8OQiMMsswCM2yjGitne0yyJDpdQ6ToysAgB23MyilnGFN8JNDSJXjjkeD/AZBTpfFro5YzpI2kU0OH7MhsklJsHVMKaS0bq3RHEtM7zCrjV6xGPMvj2M80D0jCYti8srpG5BNi4hy2Km7LpjAtEVZfMP0WfL9qB7mTITERBOMGmHbQ4K4MSf8faqacGw2BiswGlMnT+S4OCDZVAiWSA/5jy1bMhLS3ioVP9Puf7Q7Lsk438WReAdVypMkoLAWabzyK1g8tysAxBOUXHEwauTfvkZ2ByESs44zGqdiROt0euqh64PHvFgw4fAd0dw8uUgdyyo1iAWLjCPy1zBivXIY/zCrvg=;aBDeMK56hMSFzwmuhohLRA=="
+secured: "UQ+rFJc4OlwNmG0qpVkTLl/cylgSLo7qY3qtw66418Qxc45En5Rx07jafDei7jhApfYCkxyCmVGmQivhWT9LOdlLuG3s1eprQlHl9VE9DMfVyvqGi0KWesJdPdz5aDPXOyTCnnzm/fXh+UOvU0BNaFR1DFzhlsgSRk13mmNulb3NosSMyL7QSDeA+WZOPdFDb7Kum6w5YF2K5b2vNNVGTkUcWIGkObw+Yxcb9wG0+ayxQPo78FO7gIbSGKGIqQXEVwUqMFnS1x73RJF0/okzC00poej9dpdb4unJlM2QXM8ZO2FLWjx8LIlPpSRlI+u1kfzgpcyyMo+VgaZGscuMWDvHhA9FKAjbiLKd2pmBA000iuputvmAWyd0uUGEyGxfSfgLsgp8icQNGYNqInL+HRWpUqujg9Xn89UVjK50WhVJ/T0NRHMRPUui1sZKyJrT3AQzB7AKYBUE7/6583LiR6sZvJxvxTkHxu5LKnQFbcrjcfPorVi7rbn2uY3EE+OKTk9155SChDgmCy335asWdQ==;nLEdGlZ+DkTYsHJ/6/PEOg=="
 ---
 

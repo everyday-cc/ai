@@ -89,6 +89,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Progress toward a driverless future hits the brakes"
+    excerpt: "Building Artificial Intelligence We Can Trust.” “There are just too many outliers, so it’s like playing a game of whack-a-mole,” he said. He said the challenges of driverless cars could have lessons for other applications of machine learning ..."
+    publishedDateTime: 2023-10-27T23:29:00Z
+    webUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 39
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/10/GettyImages-1626054002-e1698443650973.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "California DMV Suspended GM Cruise’s Driverless Cars as Not Safe and Not Truthful"
     excerpt: "A Cruise’s driverless cars struck a pedestrian in downtown San ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting ..."
     publishedDateTime: 2023-10-24T21:13:00Z

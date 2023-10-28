@@ -24,6 +24,22 @@ images:
     height: 391
     isCached: true
 
+related:
+  - title: "AI expert: 'It’s the age of AI right now in health care'"
+    excerpt: "During a routine visit with the medical oncologist, a cancer patient brings up a new symptom that could be a side effect of cancer treatment."
+    publishedDateTime: 2023-10-27T20:59:00Z
+    webUrl: "https://www.thedailystar.com/news/local_news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_9cccec76-7500-11ee-a5de-4772174b54fb.html"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thedailystar.com/content/tncms/assets/v3/editorial/7/33/733969c8-7502-11ee-ad2b-03934a4a645e/653c1523d246e.image.jpg?resize=400%2C391"
+        width: 400
+        height: 391
+        isCached: true
+
 secured: "trzDJRBwA2MBp3AE+ugswjuJmiikueal95haxvNJxUET9q3EF/E2wmij++iwtzpFHzhEW3L3k7YVhTkbmGA4BwH8rk6mMR38xmFRF6XsVJvlh6+eazv9KTk08hVlaXc1oqe1T/cw9svMrNBYlOreUkyvNOipKBqbngz77ZBGm47anSMT5DRdwrcH73SNP7dxNCfcfkFI98f9HwH+yyYgfKbmUV5j7gbZdnaWKKw8992sWPUrNxv1C2b0XTKtqOXEddAeN8VmraIqTHBeiSJrhcSHRKkmkXgG1bRxVAh8GX6LWMxdhMm/I+xB51k855NqxTAKRrDer9cIGlTuUnl/fTjdw/8X77Ob+wI74L3soyn7xjMBnFw7QB7YuJNQpeYX6pv1t+wZ3bwyE/kLkbvwLbv3M+DnHt1/YNqL74iXw75N6wJuGlttCB9xu4Ulaju1eiY79jVV7zkLTQPVk0H02SJajN7wI+L1DiJrX7RVLPi+q2pbBQFxJ8xV6cLn5XV5lN4SF2pmLHyUU4pwAqSGyg==;Uivw5BZ8dH27FNbkd7z0VQ=="
 ---
 

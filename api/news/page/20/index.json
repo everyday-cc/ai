@@ -2,6 +2,50 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-10-13-government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar.md",
+      "title": "Government to support development of AI chips in PPP model: Rajeev Chandrasekhar",
+      "excerpt": "A government panel has also called for using the public-private partnership model to create computing infrastructure of graphics processing units for startups and researchers",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Rajeev-Chandrasekhar-1-770x433-1.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html/amp",
+      "publishedDateTime": "2023-10-12T23:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds.md",
       "title": "\"Instant Evolution\": New AI Tool Can Design Robots From Scratch In Seconds",
       "excerpt": "\"We discovered a very fast AI-driven design algorithm that bypasses the traffic jams of evolution, without falling back on the bias of human designers,\" Northwestern University's Sam Kriegman, who led the work, was quoted as saying by university's website.",
@@ -1109,57 +1153,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-in-a-new-era-of-deepfakes-ai-makes-real-news-anchors-report-fake-stories.md",
-      "title": "In A New Era Of Deepfakes, AI Makes Real News Anchors Report Fake Stories",
-      "excerpt": "“Videos of news anchors is a compelling vessel for delivering disinformation,” said Hany Farid, a professor at UC Berkeley’s School of Information who has testified before Congress on deepfakes. “In many cases, the anchors are known to viewers and trusted, and even if not, the general news format is familiar and therefore more trusted.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexandralevine/2023/10/12/in-a-new-era-of-deepfakes-ai-makes-real-news-anchors-report-fake-stories/",
-      "originalUrl": "https://www.forbes.com/sites/alexandralevine/2023/10/12/in-a-new-era-of-deepfakes-ai-makes-real-news-anchors-report-fake-stories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6527443d30644766927a21cd/0x0.jpg?format=jpg&crop=3690,2073,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-12T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

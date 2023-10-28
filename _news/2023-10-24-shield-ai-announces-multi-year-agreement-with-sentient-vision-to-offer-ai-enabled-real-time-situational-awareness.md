@@ -71,6 +71,20 @@ related:
         width: 640
         height: 640
         isCached: true
+  - title: "A step-by-step guide to implementing AI at work"
+    excerpt: "Vinay Gidwaney, chief product officer at OneDigital shares how companies can ease themselves — and their employees — into AI."
+    publishedDateTime: 2023-10-27T22:55:00Z
+    webUrl: "https://www.benefitnews.com/news/this-hr-executive-explains-how-his-business-began-implementing-ai"
+    type: article
+    provider:
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/7184cf0/2147483647/strip/true/crop/5799x3044+0+411/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fed%2F8b%2Fae6658c74980a96129791eb77b5c%2Fpexels-thirdman-7652039.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/iH9K1oaXbN7GgOZFfKl4Ux9hQ+reQQLIEcXAZ4G9csaaQ5T/cfg6diDA50eO5S7hNaCvB5Swv3kwNT03sbImVmrSwUh31+Gtf9XcQIplDrRji0S4LwyJBru3R5vgZk8pS/c4E4f01NXTRYT3oMkY4lg5CgHdiYXQrO8PvLyjAneLePyqR4zKHutOupmb+CNvGaWYIfxu9TAhAUsqbzzfGn9Z4ZE3osEpoJR6pXcXu93j1VZH62k4KZxaVIOJnYLS1aKxrBadFjZ0DP1dlGPV5MbBJWWTn8jCCzswxK5LXGGLvaXqczMA6Yh8aNVd/1N8/X49J4ugg4CUKFBFrdTjxYY3AAyFZV9scmUU/XG88k=;+/aUlBrblhUEEGPw+ilqPg=="
 ---

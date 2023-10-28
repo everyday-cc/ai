@@ -2,6 +2,58 @@
   "page": 130,
   "value": [
     {
+      "path": "_news/2023-07-28-chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth.md",
+      "title": "Chip-equipment suppliers rally after Lam says AI servers will drive growth",
+      "excerpt": "Semiconductor-related stocks surged Thursday, and leading the pack were stocks of the companies that make the equipment used to make chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth-87ada70b",
+      "originalUrl": "https://www.marketwatch.com/story/chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth-87ada70b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-473098/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth-87ada70b",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth-87ada70b",
+      "publishedDateTime": "2023-07-27T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-rsa-survey-reveals-identity-security-knowledge-gaps-and-ais-role-in-improving-protection.md",
       "title": "RSA Survey Reveals Identity Security Knowledge Gaps And AI's Role In Improving Protection",
       "excerpt": "A new report from RSA highlights concerning gaps in the knowledge of self-identified identity professionals, and shares insight on the future of identity security.",
@@ -1147,49 +1199,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition.md",
-      "title": "Digital rights group NOYB challenges Ryanair's use of facial recognition",
-      "excerpt": "The Irish airline, Europe's largest by passenger numbers, says on its website that in order to comply with safety and security requirements it must verify the identity of passengers' booking.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/articleshow/102176987.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/articleshow/102176987.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-16906,msid-102177109/ryanair-facial-technology.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/amp_articleshow/102176987.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/amp_articleshow/102176987.cms",
-      "publishedDateTime": "2023-07-27T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

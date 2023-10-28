@@ -378,6 +378,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Intel is reportedly taking on Microsoft and OpenAI in the AI race"
+    excerpt: "While companies like Microsoft and OpenAI have placed all bets on the emerging generative AI technology in the past few years, Intel has remained quiet with a keen focus on what it knows how to do best: hardware."
+    publishedDateTime: 2023-10-27T22:58:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/intel-is-reportedly-taking-on-microsoft-and-openai-in-the-ai-race"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 56
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/abWCpt2hk3hsHtTKvRaXH7-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft makes record $5B investment for Aussie AI infrastructure"
     excerpt: "“They will not only enable a safer and more secure digital economy, but also provide a platform to foster growth and innovation in the era of AI,” he added. Last week, Microsoft announced the general availability of its Azure AI Content Safety ..."
     publishedDateTime: 2023-10-24T00:45:00Z
@@ -690,6 +704,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "VqVL2ODZ1Bt0RH50y1EH90hcwkpu9j42bswN4B6XsuzljIZVuY1o+F9G5K+UQILxzjmv+1v4YC3CaqIlCNq5rDZ/ue1WYWko6/TKuBPN45aC4B+UmwQ31wjYhs2lySvN25ucJD7v+iOUjymzEv4OIStF1lwwdZ7tvbg16CwtPgKqtiskXhy8nkIzFSbcKY7fH9jFjUhRSVIgs3/rgwQB3lQvylFzTlpj2untyYCZ5nSGBg+ZpiLfxrAz+oD3/Hm6eri061TxXEhQHegyA5Eq7wXH5AHQZ7u8Mb21gNXEF+/vESdvdSBQYvaR8NBK8mJ8fps91jr1AjJDe1bxJi0uE8KAJo4xW79DZklcpZQEXhQ=;cI7XywWYSKH1xyGvOjBMww=="
+secured: "T016nNw1AdwcvV7/jaMlZC+fQl1dmVhpSLFIBRvNrvR4qC/Itbf0OuYsIS0XgmcTShbaBGO4Nul4ecXrd/etRf235+f/Gsrpj3BMrEdyKJ8abbWAkq5s9iZBfl7vUpsZT7cFjDdGcgxrHpbZa8P71BuwTMFsT3Pd4J1TEK2LwrLWWbt5ik4gqCmqLRDno4rUvV5YpUgofQfqa4uM/K7i84iLOuYEWVYM0VwDVk2cw1tR1mbqW7+06wvC7+1OLjXPPrXR9GicAw9/Eg6VNj2q2tuaaYkKHhL+BLYm9r8oG6b/OV1zCYzmpdIParjumTO9yjoEaHraTnLVRac3RBalTry5PKQkHinCvgDGZIWCKJ5NIURaXrJBtBAlQnqg+UYL6KRlG3h/+YOmtokaX2Y3N67HzUHar0JxZelmPNLPJ6azgYrp9ZswoH+L0ib/FksNqTjWMR9d5dKuHbw7/69OgH31rljl/sloUvunghcYeuiEYQUdlIlLMPeV/XYvgLqpFBMLPihR7taHjKOWOl/0Xw==;pP3p46zjxwIVfgsYniqKnw=="
 ---
 

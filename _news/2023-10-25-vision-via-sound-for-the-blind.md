@@ -51,6 +51,20 @@ related:
         width: 375
         height: 281
         isCached: true
+  - title: "Restoring Vision: Blind “See” Through Sound with Smart Glasses"
+    excerpt: "Researchers pioneered \"acoustic touch\" technology, allowing individuals with blindness or low vision to \"see\" using unique sound icons."
+    publishedDateTime: 2023-10-27T20:23:00Z
+    webUrl: "https://neurosciencenews.com/vision-restoration-smart-glasses-neurotech-25114/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 24
+    images:
+      - url: "https://neurosciencenews.com/files/2023/10/vision-auditoy-smart-glasses-neurosicnce.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "+K0eeShIBD+nhAZbYRk2it8jx3kEQzcgwsVC3IlUpIhx3wV/3Db2qJdc1v4ocek+peKCrnq00JXy8H940Q1O4CU81OCi0yfxZpYg84xemETaTMaF/sTL8Rukb7e3Z27Ogs87Bk1OpkZNnbh2kUu9eYqLIxQKl9JsS121Rxp8co/Esns97pN1t/G8eFU9rQ3VL2xkJLinhKNsvWUKLhGT7wWfahDCFEwhBO/U85kdyoPvelxzexY564McyffoksGDS/bhN4Dz2XX8VQcTdsYrDm04pZjL99o5bGfIFaoTDlJB7qxBxRO5pTGNzoVyGybkfU+l2TWIRdufnyHmYTw/BxW9z2D6B6V8u0DOeJAbwqk=;IzfyaokOwdES5f3dhkFJQw=="
 ---

@@ -2,6 +2,48 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-09-29-real-time-transaction-data-analysis-with-ibm-event-automation.md",
+      "title": "Real-time transaction data analysis with IBM Event Automation",
+      "excerpt": "How real-time transaction data can be put to work in IBM Event Automation.\nThe post Real-time transaction data analysis with IBM Event Automation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/real-time-transaction-data-analysis-with-ibm-event-automation/",
+      "originalUrl": "https://www.ibm.com/blog/real-time-transaction-data-analysis-with-ibm-event-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-29T04:55:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-29-ibm-cloud-inactive-identities-ideas-for-automated-processing.md",
       "title": "IBM Cloud inactive identities: Ideas for automated processing",
       "excerpt": "Identities that are inactive should be cleaned up for security reasons. Learn how to automatically tackle the problem on IBM Cloud.\nThe post IBM Cloud inactive identities: Ideas for automated processing appeared first on IBM Blog.\n",
@@ -1002,49 +1044,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs.md",
-      "title": "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs",
-      "excerpt": "20, 2023, in Atlanta. Reid says the use of facial recognition technology by a sheriff’s detective in Louisiana led to his arrest for crimes he did not commit. (AP Photo/John Bazemore ...",
-      "sourceUrl": null,
-      "webUrl": "https://thegrio.com/2023/09/26/facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs/",
-      "originalUrl": "https://thegrio.com/2023/09/26/facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thegrio.com/wp-content/uploads/2023/09/AP23263542093669.jpg?w=788&h=0&crop=1",
-          "width": 788,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Grio",
-        "domain": "thegrio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

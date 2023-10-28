@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-27-ai-chip-startup-kneron-secures-49m-investment.md",
+      "title": "AI chip startup Kneron secures $49M investment",
+      "excerpt": "Startup Kneron Inc., which develops artificial intelligence ... San Diego-based Kneron develops chips that can be used to equip smart cars, robots and other connected devices with AI features. Its chips are specifically optimized for inference, or the ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/09/26/ai-chip-startup-kneron-secures-49m-investment/",
+      "originalUrl": "https://siliconangle.com/2023/09/26/ai-chip-startup-kneron-secures-49m-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Kneron.png",
+          "width": 718,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-vultr-launches-gpu-stack-and-container-registry-for-ai-model-acceleration-worldwide.md",
       "title": "Vultr Launches GPU Stack and Container Registry for AI Model Acceleration Worldwide",
       "excerpt": "Vultr, the world’s largest privately-held cloud computing platform, announced the launch of the Vultr GPU Stack and Container Registry to enabl",
@@ -1332,58 +1376,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design.md",
-      "title": "Renesas Taps Cadence For ChipGPT-Like AI-Powered Semiconductor Design",
-      "excerpt": "Generative AI has once again proven itself capable of alleviating semiconductor design teams from large portions of iterative optimization and verification work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6501fe561c9dae31705e700f/Renesas-SVP-And-CTO--Shinichi-Yoshioka/960x0.jpg?height=532&width=711&fit=bounds",
-          "width": 711,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/amp/",
-      "publishedDateTime": "2023-09-13T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

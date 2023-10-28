@@ -2,6 +2,58 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2023-09-02-ai-is-not-a-threat-to-human-jobs-its-a-catalyst-for-growth-and-innovation.md",
+      "title": "AI is not a threat to human jobs. It’s a catalyst for growth and innovation",
+      "excerpt": "The workforce will change, but it won’t be replaced. And what AI will help humanity generate is well worth getting excited about.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-is-not-a-threat-to-human-jobs-its-a-catalyst-for-growth-and-innovation/",
+      "originalUrl": "https://venturebeat.com/ai/ai-is-not-a-threat-to-human-jobs-its-a-catalyst-for-growth-and-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_expressionist_painting_white_collar_workers_typing_on_l_5476dd74-cce5-4596-a125-177e6821aebd.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-02T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-02-revealed-home-office-secretly-lobbied-for-facial-recognition-spy-company.md",
       "title": "Revealed: Home Office secretly lobbied for facial recognition ‘spy’ company",
       "excerpt": "Officials reflected policing minister’s enthusiasm to roll out controversial technology across the country, particularly in retail settings",
@@ -1144,58 +1196,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-microsoft-wants-us-to-wear-ai-powered-backpacks.md",
-      "title": "Microsoft Wants Us to Wear AI-Powered Backpacks",
-      "excerpt": "Microsoft's latest idea for a wearable takes the form of an AI-powered backpack full of sensors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/microsoft-wants-us-to-wear-ai-powered-backpacks",
-      "originalUrl": "https://www.pcmag.com/news/microsoft-wants-us-to-wear-ai-powered-backpacks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/04m1q6ExleLlFkZ9ZkSKumS-1.fit_lim.size_1200x630.v1693581639.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

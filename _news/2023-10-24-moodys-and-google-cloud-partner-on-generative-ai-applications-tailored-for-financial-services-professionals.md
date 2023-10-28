@@ -292,20 +292,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "TCS’ Obsession With Generative AI"
-    excerpt: "TCS, the IT giant was catching up with generative AI, but now it has gone all in on AI in the last couple of months."
-    publishedDateTime: 2023-10-23T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/tcs-obsession-with-generative-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/TCS-Obsession-With-Generative-AI-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "SAP Makes Generative AI Customer Experience Integration Play"
     excerpt: "SAP expands its CX suite with AI tools, aiming to streamline customer interactions and emphasizing data security."
     publishedDateTime: 2023-10-25T14:59:00Z

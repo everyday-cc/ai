@@ -7,7 +7,7 @@ originalUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/10/resea
 webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/10/researchers-working-to-translate-human-experiences-for-ai-tools/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Marketers' Increasing Tolerance for AI Lowers Website Translation Costs"
-    excerpt: "Digital Marketers are developing a growing trust in AI’s ability to translate websites. For a long time, Artificial Intelligence (AI) has been a mystery. People weren’t sure what it meant or what it did."
-    publishedDateTime: 2023-10-23T06:56:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35367308/marketers-increasing-tolerance-for-ai-lowers-website-translation-costs"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35367308"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35367308"
+  - title: "Governments race to regulate artificial intelligence tools"
+    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
+    publishedDateTime: 2023-10-24T13:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/governments-race-to-regulate-artificial-intelligence-tools/articleshow/104677130.cms"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 17
 
 secured: "KSer+Lt/ayxdHDQz/tDp+hFrGWEWQt5TJSKeCaX71k++xdWfl2GX8RPgO7x4en4Q1XBwPT37js0FqdJ4ZDZ3D84PlfaWe2Pd9e6euCY6V7wIq2tlekLwaVsECVqDJiv49LgW2K/wVAQ5Tyq1O4yFT0i8Ay6R6qU56X71tPdFmg1DZH4I/SIaLciZVBNdJQvMFyWD0tgYtISXYTT8Ld8s1ZHGQuByxL1iWAvrc6Cpv3NlvkkZin4pT+XPSIutnlqA2z6+4I92VeKPmuayN2UY6kWMCjnWCxFDoucCV+wgifRMy6huWQ0IHRF+IiWoyr0DHopwcqfgFRlV2Xo8loUSjdKokCKnp1jE12W86HhG1DgJHVACuhZnHyD6Dm2yli6tOeWHYNj0jWzuTt68Fqp93wSASwWRet82W4kwA1Yi/CGS7GDIAQwUSMFSXSgMo97VP2WwMfn+1fziXnlytDNkT8ijNUhR0KV7uhQUxgOkJj6EFp9AsFvrlfRf3sQLe0RziJ03nuSdQkK8GwQaWqRCFA==;6fetJvDwpxxbStoP+Q0r9Q=="
 ---

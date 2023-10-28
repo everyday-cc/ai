@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-08-cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip.md",
+      "title": "Cramer Says 'Will Not Sell' Nvidia Stock On 'Misinformation' About Microsoft AI Chip",
+      "excerpt": "Cramer shrugged off a report that said Microsoft is prepping to give Nvidia a run for its money with an in-house designed AI chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/equities/23/10/35137068/cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip",
+      "originalUrl": "https://www.benzinga.com/markets/equities/23/10/35137068/cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Nvidia,Investment,Growth,And,Profit,Trading,Concept.,Nvidia,Company,Logo.jpeg?width=1200&height=800&fit=crop",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35137068",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35137068",
+      "publishedDateTime": "2023-10-07T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-07-researchers-turn-to-harry-potter-to-make-ai-forget-about-copyrighted-material.md",
       "title": "Researchers turn to Harry Potter to make AI forget about copyrighted material",
       "excerpt": "Their unlearning technique may also be more effective for fictional texts than non-fiction, since fictional worlds contain more",
@@ -1396,50 +1440,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-ai-chip-startup-kneron-secures-49m-investment.md",
-      "title": "AI chip startup Kneron secures $49M investment",
-      "excerpt": "Startup Kneron Inc., which develops artificial intelligence ... San Diego-based Kneron develops chips that can be used to equip smart cars, robots and other connected devices with AI features. Its chips are specifically optimized for inference, or the ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/09/26/ai-chip-startup-kneron-secures-49m-investment/",
-      "originalUrl": "https://siliconangle.com/2023/09/26/ai-chip-startup-kneron-secures-49m-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Kneron.png",
-          "width": 718,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

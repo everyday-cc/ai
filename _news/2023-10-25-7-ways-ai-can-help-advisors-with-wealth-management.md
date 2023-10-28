@@ -56,6 +56,20 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "A step-by-step guide to implementing AI at work"
+    excerpt: "Vinay Gidwaney, chief product officer at OneDigital shares how companies can ease themselves — and their employees — into AI."
+    publishedDateTime: 2023-10-27T22:55:00Z
+    webUrl: "https://www.benefitnews.com/news/this-hr-executive-explains-how-his-business-began-implementing-ai"
+    type: article
+    provider:
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/7184cf0/2147483647/strip/true/crop/5799x3044+0+411/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fed%2F8b%2Fae6658c74980a96129791eb77b5c%2Fpexels-thirdman-7652039.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Shield AI announces multi-year agreement with Sentient Vision to offer AI-enabled real-time situational awareness"
     excerpt: "A groundbreaking AI technology collaboration between Shield AI, an American defence technology company building the world’s best AI pilot, and Sentient Vision Systems (Sentient), an"
     publishedDateTime: 2023-10-23T19:20:00Z

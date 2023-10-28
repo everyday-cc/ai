@@ -380,6 +380,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Intel is reportedly taking on Microsoft and OpenAI in the AI race"
+    excerpt: "While companies like Microsoft and OpenAI have placed all bets on the emerging generative AI technology in the past few years, Intel has remained quiet with a keen focus on what it knows how to do best: hardware."
+    publishedDateTime: 2023-10-27T22:58:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/intel-is-reportedly-taking-on-microsoft-and-openai-in-the-ai-race"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 56
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/abWCpt2hk3hsHtTKvRaXH7-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft makes record $5B investment for Aussie AI infrastructure"
     excerpt: "“They will not only enable a safer and more secure digital economy, but also provide a platform to foster growth and innovation in the era of AI,” he added. Last week, Microsoft announced the general availability of its Azure AI Content Safety ..."
     publishedDateTime: 2023-10-24T00:45:00Z

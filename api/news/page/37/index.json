@@ -2,6 +2,49 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-10-01-new-york-bans-use-of-facial-recognition-technology-in-schools.md",
+      "title": "New York bans use of facial recognition technology in schools",
+      "excerpt": "The state’s education commissioner, Betty A. Rosa, announced on Wednesday that she would be banning the use of facial recognition technology in schools across the state. It follows a 49-page ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgrz.com/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
+      "originalUrl": "https://www.wgrz.com/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wgrz.com/assets/WGRZ/images/b8e41be7-fb05-4843-8f1a-3030ee4de98c/b8e41be7-fb05-4843-8f1a-3030ee4de98c_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
+      "cdnAmpWebUrl": "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
+      "publishedDateTime": "2023-10-01T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGRZ",
+        "domain": "wgrz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-01-my-way-or-the-ai-way-companies-approach-govt-for-infra-amid-gpu-scarcity.md",
       "title": "My way or the AI way: Companies approach govt for infra amid GPU scarcity",
       "excerpt": "GPUs are the highways AI requires. Companies are therefore petitioning the Centre to invest in the vital compute infrastructure so that local startups can compete and win meaningfully in the frenetic global AI race.",
@@ -1099,48 +1142,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-real-time-transaction-data-analysis-with-ibm-event-automation.md",
-      "title": "Real-time transaction data analysis with IBM Event Automation",
-      "excerpt": "How real-time transaction data can be put to work in IBM Event Automation.\nThe post Real-time transaction data analysis with IBM Event Automation appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/real-time-transaction-data-analysis-with-ibm-event-automation/",
-      "originalUrl": "https://www.ibm.com/blog/real-time-transaction-data-analysis-with-ibm-event-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-29T04:55:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

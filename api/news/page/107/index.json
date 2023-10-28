@@ -2,6 +2,49 @@
   "page": 107,
   "value": [
     {
+      "path": "_news/2023-08-12-ai-this-week-was-all-about-chips-and-china-investment-rules.md",
+      "title": "AI This Week Was All About Chips and China Investment Rules",
+      "excerpt": "President Joe Biden issued an executive order to take effect next year that will limit US investments in China, focused on chips, quantum computing and AI companies. The UK is considering whether to follow suit, citing a need to strike a balance between promoting national security with the economic necessity of trading with China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-08-12/ai-news-this-week-chips-and-china-investment-rules",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-08-12/ai-news-this-week-chips-and-china-investment-rules",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-12-foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats.md",
       "title": "Foundations seek to advance AI for good — and also protect the world from its threats",
       "excerpt": "Gebru launched the Distributed Artificial Intelligence Research Institute in 2021 to ... Open Philanthropy, a foundation started by Facebook co-founder Dustin Moskovitz and his wife, Cari Tuna ...",
@@ -1091,58 +1134,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-which-companies-will-be-winners-in-the-ai-arms-race.md",
-      "title": "Which Companies Will Be Winners in the AI Arms Race?",
-      "excerpt": "While AI is in the early innings, Palantir and Meta are already separating from the pack. One of my favorite technology research analysts ... higher monetization on Facebook and Instagram.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/08/11/which-companies-will-be-winners-in-the-ai-arms-rac/",
-      "originalUrl": "https://www.fool.com/investing/2023/08/11/which-companies-will-be-winners-in-the-ai-arms-rac/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/742168/artificial-intelligence-ai.jpg",
-          "width": 2102,
-          "height": 1426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

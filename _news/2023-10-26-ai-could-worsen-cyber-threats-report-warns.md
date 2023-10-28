@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/technology-67221117.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67221117.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Booz Allen views artificial intelligence and cyber as inherently linked"
+    excerpt: "Artificial intelligence is the enabler of larger systems and it's cyber that protects them, so Booz Allen Hamilton tells investors to think of them as going together when considering the firm's strategy."
+    publishedDateTime: 2023-10-27T23:18:00Z
+    webUrl: "https://washingtontechnology.com/companies/2023/10/booz-allen-views-artificial-intelligence-and-cyber-inherently-linked/391572/"
+    type: article
+    provider:
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 37
+    images:
+      - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/10/27/AI_tech_concept/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "GwDmZXBsR+T9aQJMirCWqcgcm3X53wmoQEV2ssIfpNd4xa1lM3ceYS5xYb2kenrA9YfOYb/V/yUQ+pBJGnwhHjtfX/3CUkACkQjGTJ1EBnUBsCoH2ZjkIJLZc7rLeB/LGSt4TrPBljP2twtnx2mhbKjMitly4VHNbtmUTIHmRwH7suP6UT5PVd5LLQvY5apl+sJfdVOukiXF9ZF00XLNesTI+Kj3/Y8gpLlyvC1yUFh46en9TbuQN8zV2FKrcXMkinyMKg0t+6hs7dhQyt/6RZ+V8T8JgfGE5ZBH5BEe30n4TE2VphYaxygMqLUF4m/hrArmhatYPa8e1gBvdfo2fWvx9Jky/tOIs2Cn3v3xJuY=;GT1pSwPTDlDVhlDnxsTcWg=="
 ---

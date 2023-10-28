@@ -2,6 +2,57 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-08-31-rapid-growth-of-ai-systems-prompts-us-copyright-office-to-seek-public-input.md",
+      "title": "“Rapid growth” of AI systems prompts US Copyright Office to seek public input",
+      "excerpt": "Specifically, the Office is interested in four main areas: the use of copyrighted materials to train AI models and whether this constitutes infringement; the extent to which AI-generated content should or could be copyrighted,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/08/rapid-growth-of-ai-systems-prompts-us-copyright-office-to-seek-public-input/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/08/rapid-growth-of-ai-systems-prompts-us-copyright-office-to-seek-public-input/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/homemade_robot_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/08/rapid-growth-of-ai-systems-prompts-us-copyright-office-to-seek-public-input/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/rapid-growth-of-ai-systems-prompts-us-copyright-office-to-seek-public-input/amp/",
+      "publishedDateTime": "2023-08-30T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-5-reasons-why-you-should-bring-ai-to-your-data.md",
       "title": "5 Reasons Why You Should Bring AI To Your Data",
       "excerpt": "One thing that’s certain: the importance of data in the generative AI era. AI requires lots of high-quality data—and the emergence of generative AI has only reinforced this point. Unlocking generative AI’s full potential lies in an organization’s ability to use it alongside its own proprietary data.",
@@ -1184,58 +1235,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-voxel-uses-computer-vision-to-increase-workplace-safety.md",
-      "title": "Voxel uses computer vision to increase workplace safety",
-      "excerpt": "The International Labour Organization estimates that there are 340 million workplace incidents every year. Voxel was created to increase workplace safety The International Labour Organization estimates that there are 340 million workplace incidents every year.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/30/voxel/",
-      "originalUrl": "https://techcrunch.com/2023/08/30/voxel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/voxel_nearmiss_video_laptop.png?resize=1200,693",
-          "width": 1200,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/30/voxel/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/30/voxel/amp/",
-      "publishedDateTime": "2023-08-30T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

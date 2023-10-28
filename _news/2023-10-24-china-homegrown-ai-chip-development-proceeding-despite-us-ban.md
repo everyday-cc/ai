@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20231023PD228/us-chip-ban-china-hu
 webUrl: "https://www.digitimes.com/news/a20231023PD228/us-chip-ban-china-huawei-ai-chips-alibaba-baidu-nvidia-tencent.html"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,37 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "New US AI chip restrictions on China is creating massive issues for Baidu, Alibaba’s AI development"
-    excerpt: "Several Chinese companies have been trying to create domestic alternatives for NVIDIA's AI chips. However, given the latest series of restrictions by the US on chips and chip making equipment, China's"
-    publishedDateTime: 2023-10-23T06:23:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html/amp"
+  - title: "Chloe Wang of Yang Cheng Fund Optimistic about US Ban on AI Chip Exports"
+    excerpt: "Chloe Wang, a partner at the Chinese investment fund Yang Cheng Fund, welcomed the news of the US banning exports of certain AI chips. Wang said this move could stimulate China's domestic chipmaking ecosystem to become less reliant on components from abroad."
+    publishedDateTime: 2023-10-24T16:14:00Z
+    webUrl: "https://www.caledonianrecord.com/news/national/chloe-wang-of-yang-cheng-fund-optimistic-about-us-ban-on-ai-chip-exports/video_a0685493-1b95-5a6d-be05-0d4b2067230a.html"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 60
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/10/New-US-AI-chip-restrictions-on-China-is-creating-massive-issues-for-Baidu-Alibabas-AI-development.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "U.S. chip export ban is ‘great news,' says partner at Chinese tech investment fund"
-    excerpt: "The U.S. Department of Commerce will prevent the sale of some advanced AI chips to China, a move welcomed by a partner at a Chinese investment fund."
-    publishedDateTime: 2023-10-23T05:08:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/u-s-chip-export-ban-is-great-news-says-partner-at-chinese-tech-investment-fund/4791932/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/u-s-chip-export-ban-is-great-news-says-partner-at-chinese-tech-investment-fund/4791932/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/u-s-chip-export-ban-is-great-news-says-partner-at-chinese-tech-investment-fund/4791932/?amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: The Caledonian Record
+      domain: caledonianrecord.com
     quality: 53
     images:
-      - url: "https://media.nbcnewyork.com/2023/10/107319805-1697705417593-gettyimages-1359683935-dsc00086.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://bloximages.newyork1.vip.townnews.com/caledonianrecord.com/content/tncms/assets/v3/editorial/a/06/a0685493-1b95-5a6d-be05-0d4b2067230a/653802ab53d97.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
+        width: 720
+        height: 378
         isCached: true
 
 secured: "f6VQQeoERU/kH0P7oxBcTNJ54sEjaN/LSGmm9q1Fi0hSMWFNC8q4iBF0IXLHESB0iBauYyYzo47WFavdH3z5o3KVQu6HMWVjKeFO1wLGxCTDVTNLtf9+dakZxBA4QOJww2PfgWPqfsrr/xTFHwsLtGvM24B1rM/xLQPvluWqAuFaPTBhDoX4GBBoQ1EXTX7TvflouSyu9r8PxVJP6UUMd6urUqM6XWb6tbNk2JTpJ+jyQtX9ObWZvFDN0tBPDrEGQSBiLrHFz30pmjKvcXQBtgBGceGnAKQ4qgmbO3KerhjmoEBaXpieXyMZpNRXyDRAVBfNFkWjbZNgMvoXIiVImWY/lkvG5ISEpsp+7tj6YwxGNJi3RzuUxNBZuBfoBJuz3s9BVK6mXMh55pC9pjdqKSDRYo1Qu/YfKzqwJJ9+8nsRzLvOaE2XOIFAEkGCgBhPkbK1icGuzskwRPr8AXGuS6lA5Bx5KnLC+TLGPo5v87aucs+iT+g1/tZhDvOKxbJELdZZym9dNZZGjm43napBAw==;bBlIfTHr5JnYyQ9DKApZJw=="
