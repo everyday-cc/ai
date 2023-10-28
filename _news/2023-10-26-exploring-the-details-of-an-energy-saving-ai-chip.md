@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
         width: 498
         height: 259
-        isCached: true
-  - title: "5 ways AI could influence nursing in the coming years"
-    excerpt: "Artificial intelligence comprises various technologies in almost ... health care AI companies have attracted more investments and equity deals than any other sector except driverless vehicles and other transportation-related work, according to the OECD.AI ..."
-    publishedDateTime: 2023-10-24T04:54:00Z
-    webUrl: "https://omaha.com/news/nation-world/business/health-care/5-ways-ai-could-influence-nursing-in-the-coming-years/collection_a92fb518-d167-5ad5-be29-7acd95451f76.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/4e/44eb6900-d3c7-57bf-a0c5-fe2d0078bc1d/6524a0f5c1871.image.jpg?crop=1080%2C567%2C0%2C101&resize=1080%2C567&order=crop%2Cresize"
-        width: 1080
-        height: 567
         isCached: true
   - title: "The Power of Machine Learning and AI for Carriers"
     excerpt: "T8N’s Mike Robinson details the power of machine learning and AI to help facilitate logistics for carriers on this episode of Retail Refined."

@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-28T16:34:00Z
 originalUrl: "https://techbullion.com/a-historical-dive-into-the-birth-of-artificial-intelligence/"
 webUrl: "https://techbullion.com/a-historical-dive-into-the-birth-of-artificial-intelligence/"
 type: article
-quality: 41
-heat: 41
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -18,6 +18,9 @@ topics:
   - Machine Learning
   - AI
   - Natural Language Processing
+  - AI in Autos
+  - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/10/AI-3.jpg"
@@ -25,6 +28,6 @@ images:
     height: 500
     isCached: true
 
-secured: "Y1F90X6Kk41aych9Wf5+4++d3nON9NKBM+mSBa3noohxqyAtcfb04cbbMprNdPi57oIMsxYIzdlHIXHzzIRQZSAa7oKsWbViFjoZ6tK7SqpjEReAxPh1wC15vxCrzJi4T2En97N2KTcqrErG8tqFOu21AJ825lMfLjridGBEhhWqwZ7wTTY5wEOZQTllRMkmPz04OaH1KYqcmg7ZEK7uCIgjHMdXZAwNuxDcsnF5f+LmtOBAuP70+wOegr5ZmKDToNHgVXfnMoT9WOb/nasN3RpEpWrM5LIcpbWXmSSM7tdg2K9bGO2d+6S/2juHFOnVDvNmms9Z1Wn9jZ4XaTd8P+62Jd4PVA12zSQmH6vTNfA=;jBVT/6gezCPR2/tILF4VCw=="
+secured: "K8eLMbXcH+lrgaBrC5zo/B4yOp7GWKdRbETfHKPKP8n+MhWbv99aFHrqkmo0vIbQ8GAhs9OgnFzc6AC07JIfj9JAtu4CTyG7gNeeT4fBRH78waMvgW+FiBJ+QPOn3CI/q2R0uJujeE7pVV9FGnQ0qrJExKZqLc3GlgDUHdqr/0xv5pDGMVM3UrT+sD1omI9eaPI4Qi5xjpVvmDi32FTFcvW3gG/ygiDj123gldzM6IzjQJ12zJr/QSZXRnk9pGiklvb9mDGLeLfg3g8cJcOvR9q6FBM0wTdlZXfZ5E4fE7AIj4qCywzUZs/j9f0r6yRQq3wLP5Et2rSaiLWS2aY+ZXg6rmwShXmbTRCaresiL+DNsQJ9NGcDhWS1EF9BpOfEOEEkjAeFqE/m5WMlB6tIT73Q94cQ0YRkoI8oeNVZ892CAmDcbtEDyT2TU9a+jDqE5KTEiVCq4uTS9X3hjMBAde0bnmFB+o/XPwzSrZBZ9OkzISI1CSJWcyU3iIJ06keXZ/rC1vBdRyvimAAJbOklSw==;iiXbhDgIKi5PwgYvKSzwgw=="
 ---
 

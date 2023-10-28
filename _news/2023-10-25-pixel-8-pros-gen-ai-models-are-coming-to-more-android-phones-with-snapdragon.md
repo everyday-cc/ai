@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/google-pixel-8-pro-foundation-ai-
 webUrl: "https://www.androidauthority.com/google-pixel-8-pro-foundation-ai-models-qualcomm-snapdragon-3379161/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Next Snapdragon Chip Leaks: The Upcoming Mobile CPU Is Packed with AI Power"
-    excerpt: "For individuals looking to create content, on-device AI offers a more affordable, personalized, and private alternative."
-    publishedDateTime: 2023-10-24T01:20:00Z
-    webUrl: "https://decrypt.co/202905/snapdragon-8-generation-3-artificial-intelligence-smartphone-chip"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 52
-    images:
-      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/10/aichip-gID_7.png"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Android apps will need to moderate AI content to stay in Google Play Store"
     excerpt: "Developers will also need to follow Google's guidelines for prohibiting and preventing the creation of restricted content."
     publishedDateTime: 2023-10-25T18:00:00Z

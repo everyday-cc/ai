@@ -9,7 +9,7 @@ ampWebUrl: "https://news.sky.com/story/amp/artificial-intelligence-what-you-need
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-what-you-need-to-know-about-next-months-ai-safety-summit-12987104"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How would you feel about sitting on a panel with an AI robot?"
-    excerpt: "A first for the region will take place next month when an AI robot will take part in a panel discussion in Saudi Arabia. FIRE, an AI-powered robot created by The Hanging House, will appear at Athar, Festival of Creativity in November."
-    publishedDateTime: 2023-10-24T04:00:00Z
-    webUrl: "https://campaignme.com/how-would-you-feel-about-sitting-on-a-panel-with-an-ai-robot/"
-    type: article
-    provider:
-      name: Campaign Middle East
-      domain: campaignme.com
-    quality: 54
-    images:
-      - url: "https://campaignme.com/wp-content/uploads/2023/10/FIRE.png"
-        width: 4051
-        height: 4223
-        isCached: true
   - title: "No 10 plays down worries about Sunak’s AI safety summit having few top leaders"
     excerpt: "Questions remain about gathering unlikely to help PM fulfil aspiration of UK shaping global approach"
     publishedDateTime: 2023-10-27T14:55:00Z

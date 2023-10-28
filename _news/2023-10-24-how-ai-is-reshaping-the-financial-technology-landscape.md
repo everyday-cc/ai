@@ -81,15 +81,15 @@ related:
         isCached: true
   - title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
     excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
-    publishedDateTime: 2023-10-28T10:05:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+    publishedDateTime: 2023-10-28T12:47:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?trk=public_post_comment-text"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 70
+    quality: 72
     images:
       - url: "https://i.guim.co.uk/img/media/53285d0e16ba8ce49782d1e34d9d4e78f37991dd/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=4c1a22e3a11bda4c35e304748e0175b9"
         width: 620
@@ -157,15 +157,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "How Artificial Intelligence is Shaping the Future of Programmatic, Thanks to Very Human Intelligence"
-    excerpt: "Artificial intelligence (AI) is the hot new topic on everyone’s lips, but when it comes to the programmatic industry, AI is nothing new. Data scientists, tech teams and traders have been harnessing the power of AI for years, using it to shape the future ..."
-    publishedDateTime: 2023-10-24T02:26:00Z
-    webUrl: "https://www.exchangewire.com/event-videos/how-artificial-intelligence-is-shaping-the-future-of-programmatic-thanks-to-very-human-intelligence/"
-    type: article
-    provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 2
 
 secured: "ljNykeTrltVW4+6VuPqGGImMJ5hU2+z9ldULph529i+8BoYCmTdvFtzR3JqhVL348mQIkRRD9rJYoPwi0HhT5vCfLxwlSb1Hj0ims3Pv+cAdNlodcnGlZ9h6yn5DF6sQLcwaaQAICEMGsRI8ho7iTBdiAmohg6G0CHhfkHQk1kUOcwu24n9qoauFz0LesqdfpygWVfqv8NtWyC+S+RSjfUNZ30QN3bUX2zxsqBLYme528UUUE/SrS7idI5uu26BcNNBxny5nR1bZ+ji5smR25Q83Lgg9ZacZMizr6fm0ulUlHi7Oi2nRGApUHXjM8pnY4JxfAZoqP0FflzP1TRStXDCaPs5RBFX5Pj/FLR7xgM5sxWcl+Udl85iXOh1UctYcMQu+S9XdbeANhnAQpKyklT+o6sZqDckYXiiH3kkhGg94T7r8O5m0v2pmEP8/TCo96hf6VLQ1zXWwl16uoJMI8QyjBtGYSGV6KZBQRK8ZmWsp+YzZQNLPrmXijR7GWgzZtydG4gv8NZ5IsrnXXGv+Mw==;5YB6JDam2VHU8Xlh59WGHQ=="
 ---

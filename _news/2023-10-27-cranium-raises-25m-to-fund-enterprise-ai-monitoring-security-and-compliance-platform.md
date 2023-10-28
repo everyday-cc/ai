@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/cranium-raises-25m-to-fund-enterp
 webUrl: "https://venturebeat.com/security/cranium-raises-25m-to-fund-enterprise-ai-monitoring-security-and-compliance-platform/"
 type: article
 quality: 80
-heat: 81
+heat: 82
 published: true
 
 provider:

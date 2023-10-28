@@ -81,15 +81,15 @@ related:
         isCached: true
   - title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
     excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
-    publishedDateTime: 2023-10-28T10:05:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+    publishedDateTime: 2023-10-28T12:47:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?trk=public_post_comment-text"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 70
+    quality: 72
     images:
       - url: "https://i.guim.co.uk/img/media/53285d0e16ba8ce49782d1e34d9d4e78f37991dd/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=4c1a22e3a11bda4c35e304748e0175b9"
         width: 620
@@ -157,15 +157,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "How Artificial Intelligence is Shaping the Future of Programmatic, Thanks to Very Human Intelligence"
-    excerpt: "Artificial intelligence (AI) is the hot new topic on everyone’s lips, but when it comes to the programmatic industry, AI is nothing new. Data scientists, tech teams and traders have been harnessing the power of AI for years, using it to shape the future ..."
-    publishedDateTime: 2023-10-24T02:26:00Z
-    webUrl: "https://www.exchangewire.com/event-videos/how-artificial-intelligence-is-shaping-the-future-of-programmatic-thanks-to-very-human-intelligence/"
-    type: article
-    provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 2
 
 secured: "85OpwKfQQDa3j/H4z5fOzOT35JAFJfUEJrnkIllTvMEEiRmXr6YZFzb6kvRRf6yU2vTU6ql68p+IpeK/NbjHpcBd6/wa61TTvvfkhYKct2pCwfHVP4WRQsWaBSKjd37NykCERDjSH3fU36Uoh2qJXfGjjs8NpV9VMEFNZBuPb4QSNJOC3Owui7DtRdKe2L8hd2au1gpSAMrqpnELuEHShsgX9j60qHJ0Jecj1o5+7N75ynzBcaM+y6G7Dc73uRyL2mLUDuGjhhcjZLq+m1ggkfhHYIMPophksOySAKQMvXnpqgQ8woZQHhPlP5pvxQkkELwJRO6Rb+E+qL/pzJVdsChO/KLiWI1swbsXwrRQk17rlMHa5aoyJBwUiDrShLvInLSQyI5taMKgHfCw4RW7jD9acWffLluyJAvAPclrfk/KKUYqoeqpS4F+T/SPiQxZBXLFG58bs4MIB1y4WsT32rcpR7kRSefHO1w9kuc0R0h72iEwDXv/LbWuQNFj/orrWIahHNz/15n8LV2U2/CXng==;xJZGnk6pCOjAIBvXtqNCnA=="
 ---

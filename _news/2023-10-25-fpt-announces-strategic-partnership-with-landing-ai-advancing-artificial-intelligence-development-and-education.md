@@ -7,8 +7,8 @@ originalUrl: "https://www.businesswireindia.com/fpt-announces-strategic-partners
 webUrl: "https://www.businesswireindia.com/fpt-announces-strategic-partnership-with-landing-ai-advancing-artificial-intelligence-development-and-education-87135.html"
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: Business Wire
@@ -26,34 +26,24 @@ images:
     isCached: true
 
 related:
-  - title: "China homegrown AI chip development proceeding despite US ban"
-    excerpt: "China's chipmaking industry continues to advance its domestic development of AI chips despite stricter US bans, with companies like Alibaba, Baidu, Huawei, and Tencent developing their own AI chips."
-    publishedDateTime: 2023-10-24T01:41:00Z
-    webUrl: "https://www.digitimes.com/news/a20231023PD228/us-chip-ban-china-huawei-ai-chips-alibaba-baidu-nvidia-tencent.html"
+  - title: "DeepBrain AI Announces Strategic Collaboration Agreement With AWS"
+    excerpt: "DeepBrain AI , a leading provider of generative artificial intelligence (AI) video synthesis and virtual human technology, announced today the signing of a multi-year Strategic Collaboration Agreement"
+    publishedDateTime: 2023-10-24T15:38:00Z
+    webUrl: "https://www.cmswire.com/the-wire/deepbrain-ai-announces-strategic-collaboration-agreement-with-aws/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231023pd228_files/1_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Chloe Wang of Yang Cheng Fund Optimistic about US Ban on AI Chip Exports"
-    excerpt: "Chloe Wang, a partner at the Chinese investment fund Yang Cheng Fund, welcomed the news of the US banning exports of certain AI chips. Wang said this move could stimulate China's domestic chipmaking ecosystem to become less reliant on components from abroad."
-    publishedDateTime: 2023-10-24T16:14:00Z
-    webUrl: "https://www.caledonianrecord.com/news/national/chloe-wang-of-yang-cheng-fund-optimistic-about-us-ban-on-ai-chip-exports/video_a0685493-1b95-5a6d-be05-0d4b2067230a.html"
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 34
+  - title: "Viettel announces successful development of 5G Chips and AI Assistant at VIIE 2023"
+    excerpt: "PANO - On October 27, the Military Industry and Telecoms Group (Viettel), announced that they have successfully developed 5G chips and an artificial intelligence (AI) assistant, emphasizing the message \"Technology with heart\" at the ongoing Vietnam International Innovation Expo 2023 (VIIE 2023)."
+    publishedDateTime: 2023-10-28T15:12:00Z
+    webUrl: "https://en.qdnd.vn/economy/military-businesses/viettel-announces-successful-development-of-5g-chips-and-ai-assistant-at-viie-2023-557820"
     type: article
     provider:
-      name: The Caledonian Record
-      domain: caledonianrecord.com
-    quality: 53
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/caledonianrecord.com/content/tncms/assets/v3/editorial/a/06/a0685493-1b95-5a6d-be05-0d4b2067230a/653802ab53d97.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
-        width: 720
-        height: 378
-        isCached: true
+      name: en.qdnd
+      domain: qdnd.vn
+    quality: 28
 
 secured: "Uv54N6N9cMNLoZ8XhZPvdFWi3Di8/EpoKmrnkkYg8NnlTKIjFELCw92g8K0DEWUAhcuSRbGohNYhrQzD+3nKXbqyjxhkFBzxYKuDpminCWT0FGuuI5OfAP+dN/hJnBPg3P1DFVvPxJp+SfUl8r6sNyWEHdu9CJ4NnLzHNI0TFnwIWHLiK12uAABu6QVhvxTADAAHHucxZjCclA63aC+7o/Ydt16erHVFP7mCJmIT4FORpdIftL/Yf2bq/ERv3ZP+LLWsOD+BbxLcw3yyl6ODjf3TKLPyNsIGdeqg1X7bMJZtnjzIJFv8+a2tXfGMcU/0KOqcl46DTGsMdkb/W+upWYXDgE5tL4Jbb47u6zTWi9Y=;O0NNc/uh0C13P/ozrS6VBw=="
 ---

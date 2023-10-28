@@ -2,13 +2,13 @@
 category: news
 title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
 excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
-publishedDateTime: 2023-10-28T10:05:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
-webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+publishedDateTime: 2023-10-28T12:47:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?trk=public_post_comment-text"
+webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?trk=public_post_comment-text"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 type: article
-quality: 70
+quality: 72
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -161,16 +162,7 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "How Artificial Intelligence is Shaping the Future of Programmatic, Thanks to Very Human Intelligence"
-    excerpt: "Artificial intelligence (AI) is the hot new topic on everyone’s lips, but when it comes to the programmatic industry, AI is nothing new. Data scientists, tech teams and traders have been harnessing the power of AI for years, using it to shape the future ..."
-    publishedDateTime: 2023-10-24T02:26:00Z
-    webUrl: "https://www.exchangewire.com/event-videos/how-artificial-intelligence-is-shaping-the-future-of-programmatic-thanks-to-very-human-intelligence/"
-    type: article
-    provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 2
 
-secured: "qTH6YlVuPZVfaILW1HdsiubdIJ20EgbwKFkg4sEUyziSxoqzrbaAL78mSBCHBnl5gR+CWAyEh6UqkmMBFkeGIZCDB4RGu4QYtuQ9gxxTD5fmWQEKPOIahYZ8DFywySILoOxNJx1vGTQO4A3SuBtu/VLM6dKzZ9vqiEUaOGebQlkHSSsqprkTcZIsPq6T1KBBtFd2bN1PLxsfaKuPx+gC5Vgia9bRQb5HcWGSbxaqqjKH8DBUEbv2YIuRw9CH0hvaD06yYvd6if8lBYoE6QVxFnWeNoJH7p2aaoJuDlJP/ZtDfGO5zj+Sqhqtq6803ixZl1qbwJfoaNdS7PQNQyrITI2zP9gA0J/XhoWbLA7Lv2g=;miw+0jeCWuu5ViZAsrVTXA=="
+secured: "f7MO/pIVyUjn1OU/ZARb2K2C8OJ1J2lxfLzeWo2JFzIgsJWN4sxeMGkEtEJ8xiFQwAqIQqCgUZlrmRyMRNm1t+fG+KRnIUm5Z1201Fht+CMsnX8CoQSMkfyPBMXQXly1vhAT2M/UzmYxxYA7Z3ghwiG3b08ZZILhTLHskAGvmX1lw3z+m3i/hDwEQMhhYyDzzoYzTEHic/LXiLZnol+mHHpz+uxcSd9T+qYxeThGeVSDALPsp4qWPtzuG5EnS+EId7bgkJviusSkJySpIGXVcb9fAtBn6LdFjrmEgv/eoBocxvN+18OT13VtiZx36/g3qT/gJv2ehAVOVjDuDpivCq20jaMzfQWQCKVwYf4vShM=;oUTmDtdhtjT9X9bp803P6g=="
 ---
 

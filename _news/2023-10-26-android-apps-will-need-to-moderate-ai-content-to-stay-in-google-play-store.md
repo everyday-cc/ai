@@ -36,20 +36,6 @@ related:
         width: 1920
         height: 1079
         isCached: true
-  - title: "Next Snapdragon Chip Leaks: The Upcoming Mobile CPU Is Packed with AI Power"
-    excerpt: "For individuals looking to create content, on-device AI offers a more affordable, personalized, and private alternative."
-    publishedDateTime: 2023-10-24T01:20:00Z
-    webUrl: "https://decrypt.co/202905/snapdragon-8-generation-3-artificial-intelligence-smartphone-chip"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 52
-    images:
-      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/10/aichip-gID_7.png"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "f2SfUi3UGQb/4MJ8JhFL6Q0eiIVRfiFP5GtAhwplTnAip9kr+Z5QvP04QowKst7bo3nfPQW/WpsvABLBZLtUI7nNweOTZD+vrmnTonEvwUijenUpuPId4VdIsXNnDB8aJ5gJl+86XSTX/cPa7z7CW/YzTi9IWR5yubmkpIY/UsPXtRiI7/eV4EfTMNxRGsOk9m4XnLyaDoyQZ5r+DkB8tWmqTwjxYvnAygLMBvE9BZ6vHCPSgH8Dt+oFpkD4+dfYIpS5DMBjEqetTxx7bohcIhJu7e1BPBjDBjdmffkJf1FrePNH+hJ7+Njrg1gMFGawj3zFBMikRfn5eBjPeyCU6ZmyB776grLMtRtMnQD+BekI1gBB7pTseYPI+tc+fUAF1hp6CSXYNGV8hSyzxTDYEMo+eZqamdaEKLGN689aIGAo9Q56ci1GCdDmKkAOdIYyO2fKskVpFWwfw4gIN5HB61f5zqrn9Lvdmnfdk+lX6EAkj92z+ioiInlLW9HYR2jXpbeZvWhcDJaBMXyQen2dnA==;oH9aza/K1Fo8hjMSeG0GLQ=="
 ---

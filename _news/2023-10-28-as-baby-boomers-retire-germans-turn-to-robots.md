@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "As baby boomers retire, German businesses turn to robots"
+    excerpt: "BERLIN (Reuters) - At machine parts producer S&D Blech, the head of the grinding unit is retiring. With Germany's acute labour shortage leaving few candidates to take on the skilled but dirty and hazardous manual work, the company will replace him with a robot."
+    publishedDateTime: 2023-10-28T21:46:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/766358-As-baby-boomers-retire,-German-businesses-turn-to-robots"
+    ampWebUrl: "https://dunyanews.tv/amp/english/766358.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/766358.php"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 59
+    images:
+      - url: "https://img.dunyanews.tv/news/2023/October/10-28-23/news_big_images/766358_11599002.jpg"
+        width: 752
+        height: 423
+        isCached: true
   - title: "Analysis-As baby boomers retire, German businesses turn to robots"
     excerpt: "With Germany's acute labour shortage leaving few candidates to take on the skilled but dirty and hazardous manual work, the company will replace him with a robot. Other small and medium-sized companies are also turning to automation as the gradual exit from the workplace of Germany's post-war \"baby boom\" generation tightens the labour squeeze."
     publishedDateTime: 2023-10-27T08:05:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Google Commits $2 Billion To AI Startup Anthropic"
 excerpt: "Anthropic is a rival to OpenAI the creator of popular AI chatbot ChatGPT. While the investment is certainly a large one, Anthropic has also signed up for a multiyear deal with Google Cloud worth $3 billion, so that money will flow back to Google over the next few years."
 publishedDateTime: 2023-10-28T17:50:00Z
-originalUrl: "https://au.pcmag.com/ai/102357/google-commits-2-billion-to-ai-startup-anthropic"
-webUrl: "https://au.pcmag.com/ai/102357/google-commits-2-billion-to-ai-startup-anthropic"
+originalUrl: "https://uk.pcmag.com/ai/149374/google-commits-2-billion-to-ai-startup-anthropic"
+webUrl: "https://uk.pcmag.com/ai/149374/google-commits-2-billion-to-ai-startup-anthropic"
 type: article
 quality: 67
 heat: -1
@@ -22,7 +22,7 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_au/news/g/google-com/google-commits-2-billion-to-ai-startup-anthropic_jdbj.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/g/google-com/google-commits-2-billion-to-ai-startup-anthropic_x48v.1200.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -144,6 +144,6 @@ related:
       domain: businesstimes.com.sg
     quality: 17
 
-secured: "1kkrvpxlVn+Vkh+ztC97KVUmjzXepeJFDN6OdR1XctCllhIOiYLBRsSs++IRJS2Q7adtGaYOeA8y+fnelTrdM2EispS7SYzNqUTi+6cRt87XTFZUEoh7wJQFo370ZGGzjOq4dTy9BQUcThFpsXBUZeJF8E/miKevt56+xdEw9LJrwSvw3ZWz5iJyB/OJzA83vvpaL1X4DT9I+M0p+D4eKdk8lM5K2nnBrO8sn5mmeBfSeD5kTbWupFLEXIL8xAQKnzKnBM5FaVQOTR1BKc5HIKXWPeQIa29VSdz6+/gkv6Z5hdROeWdfcPkqF7v0Wcf9ODAjgVaAHGf7JzDrwygYPePpEOTUb8EJ+v5+DRQ5+nM=;/QurZCTCWFvXxJ2MpA9o0A=="
+secured: "+j0lMmW47PY9f7FxtNsTU6YHxIySXmWfCUDhbl02xbKACah+q/NqL32nSOpJDJLW6/pHnkkItLz5qU/JNQ3uuHAYC9+aEXp3LkK+k+RQ4GomCm3RdIqJysQMG6ppAtlcYWyAVfe86In9capVa1idnj59K4hUIkASXJMpZlFrhGuVOxHU3fSQU+sAno/MinBzPebhXIDeG7954TFZzWX6P3bGtM4jbfiFRKQMBflgkjLmlWBeY85Yy8hbIaSOjhg60YLmvdmeK9yv22mGY6TaIuIl7ZpyePpZwiu6HQYbBhZi5o0AxhTUEnYvHxpcEP5h/6kbr8gFyibk1H3BItOxuTvtEsX4/8VaH9O79/j8IGU=;mHRVZb19rw8zY+HsrBKVHg=="
 ---
 

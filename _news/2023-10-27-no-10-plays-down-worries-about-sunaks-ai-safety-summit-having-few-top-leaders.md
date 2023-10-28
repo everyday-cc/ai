@@ -46,20 +46,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "How would you feel about sitting on a panel with an AI robot?"
-    excerpt: "A first for the region will take place next month when an AI robot will take part in a panel discussion in Saudi Arabia. FIRE, an AI-powered robot created by The Hanging House, will appear at Athar, Festival of Creativity in November."
-    publishedDateTime: 2023-10-24T04:00:00Z
-    webUrl: "https://campaignme.com/how-would-you-feel-about-sitting-on-a-panel-with-an-ai-robot/"
-    type: article
-    provider:
-      name: Campaign Middle East
-      domain: campaignme.com
-    quality: 54
-    images:
-      - url: "https://campaignme.com/wp-content/uploads/2023/10/FIRE.png"
-        width: 4051
-        height: 4223
-        isCached: true
 
 secured: "u3t1nWw1dFosZDSHAhjfKlQWr0CX/uUPjnN/nqNtKUNhEVwcM8JwJuwB3bFCsIkYo7G7+fVytAMFGx3wGTQJqmWZ6+/XP3y/dTPS0F8GGIfQ/A5G9Qpi/EqPwaNAmN+q3nOPEHWNv2Aoxoo/TRQDa1ErlJvNPpvO9n8VTPVdfNur/YFzWBf6vOr95T3CfetfGZzedo9RuWDWcUQNYBu1xZlEjT2uH00CTk2Kyr5McFeSwCtw5MRABpdwwBxc/lYrhLP2OAr363rcb/5eoz2kaNo0KyVUfHK0xt3XYhq5C+7uZ3zD+CB+ELtsjeLb5XcPVc+s6CWKEjjXtsd/IA3SNlcB1ok5a+V6GNATyCuMDg9bIlXynw9z2IlG/kgzfVF7mlfEwG2ml+cCHc7Xb1vZq82i7qoUjMmIppkDFl95+J/ZLYYkMHcp+ArPvlSFgG+BWru9FaC2bnGpV0iUZEcLGwsirLr4LlZqYa7rMSB3Tmiigcd5TYnDX1RGtfEf4xsBesTA/eSdYM2M2kBdAbLH4g==;fyKLOkgGzRkALiZbhJKH6g=="
 ---

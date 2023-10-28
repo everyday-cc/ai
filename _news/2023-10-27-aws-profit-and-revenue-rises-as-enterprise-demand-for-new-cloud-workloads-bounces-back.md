@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-27T07:23:00Z
 originalUrl: "https://www.computerweekly.com/news/366557316/AWS-profit-and-revenue-rises-as-enterprise-demand-for-new-cloud-workloads-bounces-back"
 webUrl: "https://www.computerweekly.com/news/366557316/AWS-profit-and-revenue-rises-as-enterprise-demand-for-new-cloud-workloads-bounces-back"
 type: article
-quality: 11
-heat: 11
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "A3CLQdwTbz1cMjmR7Z8ILu0UKvpFsT4qo+ERGoaEQlfYIz9Kgh7m4WHIP1B2Ff2LBHiwHLv9R806/weTxg1H9NLC1Vgpt80dgnogf0DXGfGbdUxeTh/NPhbAQWBx1Qd0MLxYcC/VcdttzvDS0tem/7a4A6PJFVCFm3WG6VVQ6c4O9fypHa93VLri3nMX2K22QMPCbN759o5K6+2/feNfAoZ1qCZYXM/kyRj0Dirc3qON79X57l+MG4cNABulK/e2Ru+D+YiB9kvDJiChQjEaTfLl1yQfjGfxuP3NL+6PvCkWHDrkpp3Ha9dgC0Bb3AnAf0rK6ynJCJJMx6jwkh/o3vsdAEWRkXroBT5Vy1hBo8g=;74ACUmBtaTLHs2HMwu2KLw=="
+images:
+  - url: "https://cdn.ttgtmedia.com/visuals/LeMagIT/hero_article/Cloud-blue-AdobeStock_253306630_Shutter2U_cloud_hero.jpg"
+    width: 1200
+    height: 400
+    isCached: true
+
+secured: "urOxe9YBtiLPtWpX4DvZLn1xU8fQ5+QOEIcuiZXuSVSAJtB9kMq1EFpo1NI1zG8v9ApFcybAINqj0QpZXFbL+5gRBj3mjR5EOCgdK+a8KgYojtB80c7ujQy/9H3eKmQrL1DrexxtT4N+e7NKXZa96k7IFFWDtoPDbnXdURU8py0KxOZnltsX+meJegFevhO54NbupvDsOWWX1eIrW0ZPWnUIMCwfC/y1nn+fZHtgjLH/8y0s82jafYHS5yYF2D+dEyvgIW2fViwsuPyE6TwQ6aa7O0WtQqM1LlaW5ZgPkbERF3H3YHACrig6o7rJftkjsiciN3yI3W0HqqU7sQnBGJc/zaSKBgYMxsZb18J9/1c=;38uec7/tcW5j9A8z/133OA=="
 ---
 

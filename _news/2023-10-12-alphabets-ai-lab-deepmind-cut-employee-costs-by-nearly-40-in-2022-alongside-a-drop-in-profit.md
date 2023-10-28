@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Alphabet's AI lab, DeepMind, cut employee costs by nearly 40% in 2022, alongside a drop in profit"
-excerpt: "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alongside a drop in profit of more than 40% for the same period, according to a recent filing with a UK government agency."
-publishedDateTime: 2023-10-11T17:02:00Z
-originalUrl: "https://www.nbcwashington.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3441641/"
-webUrl: "https://www.nbcwashington.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3441641/"
-ampWebUrl: "https://www.nbcwashington.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3441641/?amp=1"
-cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3441641/?amp=1"
+excerpt: "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alongside a drop in profit of more than 40% for the same period, according to a recent filing with a U.K. government agency."
+publishedDateTime: 2023-10-11T22:01:00Z
+originalUrl: "https://www.cnbc.com/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html"
+webUrl: "https://www.cnbc.com/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html"
+ampWebUrl: "https://www.cnbc.com/amp/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html"
 type: article
 
 provider:
-  name: NBC Washington
-  domain: nbcwashington.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://media.nbcwashington.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675"
-    width: 1200
-    height: 675
+  - url: "https://image.cnbcfm.com/api/v1/image/105099255-DeepMind_Hassabis_WechatIMG253.jpg?v=1697043587"
+    width: 4189
+    height: 2792
     isCached: true
 
-secured: "ijbJHMo1eEI+zcVgjZ+14pLslG6aVnQBc3E+LHd/hafKH+tXAWv0ys5ChnnenMqEc+uSzs428YqD/oqAxQtPqmuwNGgk0qg0D50XWI5oK+cLmAmFxVXrJRH4QJPUKOwoXdAJok4+D/2QM8LhwppNMB607+EuAoN/V2k5vMr9wtgeSujB2PepdpWZK34yW2b2/oCGt+s4X5miYGnb26fHIHYDiHj82/Vm4l79HcfSP44aeuPD+thq/r06hd43yYf3QiLWEIT3Wc332tB2W+GixLF73mLzgP3CH7qh3erelc1DeOzEevX08tzLvC65eEWDSOZA79Oggd4Q8dwVYSXqVoeZUSjA/l1TtEPkNA78mGY=;Naxhz8sW7ScRHXSTWbynWA=="
+secured: "EaANOxIGH2lyVhFdgRg/fX13qTcUE2sHLNZUdjTVPWZHEKm6reucdTWBRkCZLWn+3J3XB0mpSftqssxoOBHjMev8tWRIChLkMeFc57bnZukG5UgMd1OJAiKfFDGv7o7HA0OmvKcPfG32vaEFSmGEloM+JIcNLNYSY1fIvFiZ3T44MIsnLfEQyCaKWuNvZKV0HqCaRvuqWkpMN+GmfdY4VuuwTQ1kRMeGXToB55iMz8VfTN975U9spQHahk7WGEL7nbwXz/neSNT4/CtuGV4cpqvHeV8UCVkI22wYfZYAl11kdkOOflJHWC+GHaKpMu1wjwFrj6zuw3tWF2WjFBvqNqt1UtV61p1cRm6v5Tq8Hzo=;Qfa4tWp12bGD8YjWZ1XUSQ=="
 ---
 
