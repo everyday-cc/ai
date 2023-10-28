@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "UAE fintech Maly to launch AI-powered tools to boost long-term investment and saving plans in the GCC"
+    excerpt: "The startup’s aggressive move comes amid the UAE – as well as Saudi Arabia – kicking off initiatives to implement pension and other financial security plans in the employment sector"
+    publishedDateTime: 2023-10-24T10:18:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/banking-finance/uae-fintech-maly-to-launch-ai-powered-tools-to-boost-long-term-investment-and-saving-plans-in-the-gcc"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 4
 
 secured: "0GiIeXLaG44KINxdFShxBrLkv1k0uFMlK39rkN8p4SI4RHmoGwDgkxyHhLmbsD7P7s5+qXNtUJ9DRTbMBJ90dRM0o32IOtEZOtWrrxyhO6Vd2qB3NVsQ0iBO4/dX4TxG38EQ/JhZ5mJjWeekOLV8sOSCiKm+5hbI0aE+CKAQEMNaSE5yhGyTdC0vESlySJ/vCi9sx7175YtnvZM8UH19oR9quOQGTu5/6nT62HtaQ5Z9syy+2VXh1NB7QJYoS0n8agCyCYXqbpc8kDhJW6YEra0dP1PVq/BTewmvh12OH6bCOWkJ/nOakeV82pFfafZL0R19c/Y8wUOHDyA8uYuXSw8KyW6JgLkMcqtsmikg0A8=;0jiHUry3fapQsKmNhYYAAg=="
 ---

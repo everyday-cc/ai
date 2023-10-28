@@ -72,6 +72,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "The Fate or Wealth of Nations: AI, Robotics and Automation"
+    excerpt: "What contributes to the wealth of a nation? Gross national income (GNI) and gross domestic product (GDP) are two well-known measures of a country’s economic growth. One measures the earnings of a country,"
+    publishedDateTime: 2023-10-24T16:34:00Z
+    webUrl: "https://mises.org/wire/fate-or-wealth-nations-ai-robotics-and-automation"
+    type: article
+    provider:
+      name: Mises Institute
+      domain: mises.org
+    quality: 69
+    images:
+      - url: "https://cdn.mises.org/styles/social_media_1200_x_1200/s3/machine-fb.jpg?itok=2_G0__k7"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Venture initiative extended to robotics and AI"
     excerpt: "A venture funding initiative at Edinburgh University has been expanded into robotics and artificial intelligence and has developed a partnership with the National Robotarium at Heriot-Watt."
     publishedDateTime: 2023-10-23T22:01:00Z
@@ -129,15 +143,6 @@ related:
       name: The Chronicle of Higher Education
       domain: chronicle.com
     quality: 36
-  - title: "State CPA societies offer AI ethics course"
-    excerpt: "The Virginia Society of CPAs is partnering with 10 other state CPA groups to offer a course on artificial intelligence and where it fits in with accounting ethics."
-    publishedDateTime: 2023-10-23T15:11:00Z
-    webUrl: "https://www.accountingtoday.com/news/state-cpa-societies-offer-ai-ethics-course"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 34
   - title: "Omega Venture Partners Spearheads the Future of AI Innovation"
     excerpt: "As Omega Venture Partners sails into a new epoch of AI innovation, its unrivaled expertise and proven track record affirm its role as the preferred harbinger of success for the pioneers of tomorrow's technology. See more from Citizens Bank on the Role of AI in Financial Services here."
     publishedDateTime: 2023-10-24T13:43:00Z

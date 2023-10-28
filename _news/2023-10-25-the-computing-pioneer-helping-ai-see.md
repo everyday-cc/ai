@@ -81,6 +81,15 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 19
+  - title: "3 Ways Leaders Can Start Unlocking the Benefits of Artificial Intelligence"
+    excerpt: "After decades of hype and hysteria, artificial intelligence is finally ready for primetime. To date, A.I. has largely been reserved for the largest companies. But now, with the advent of generative pre-trained A."
+    publishedDateTime: 2023-10-27T20:32:00Z
+    webUrl: "https://www.inc.com/joe-galvin/3-ways-leaders-can-start-unlocking-benefits-of-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 15
 
 secured: "bWzEHo+B5Stb4ydvYJK6Pqg5Lgwnzqq+/ozyTeY/jV+Lgcgwbb5Zs+BjhAXD1ayRewv4VJW5PRU5z77wqwkUdDNZleV86cZ7I/Ov/XZzWrhug5XRBnDqsyEIYnKnZabGJ7NVSPOCsfnjdzMZvu2Hml5+zRl4aF1K2QST0VCKHRx0yYBWubSwedi0oZdm9S7SWtVMc1JMmionzWAMBIsGIHrzTrpQa7Qo5qbqjb2iH5z5jimqIKq/1hIh3rdg8YoYkaRrHr6ohTq5Dz9ES4ySDXlDVgTp4VQZTFAUR87dDHjcH5s/slbui+/+BznBZE13hT0zFgsLQcMzfIWOp6xdTsaJNcaq81VYckrvWG8tgjI=;PB0eSpMGsYO+SRIfrzrKsw=="
 ---

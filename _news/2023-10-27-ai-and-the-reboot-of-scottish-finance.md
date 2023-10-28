@@ -2,30 +2,28 @@
 category: news
 title: "AI and the reboot of Scottish finance"
 excerpt: "The prospects for artificial intelligence are a big challenge and opportunity, most obviously in the workplace."
-publishedDateTime: 2023-10-27T09:11:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-scotland-scotland-politics-67238079"
-webUrl: "https://www.bbc.co.uk/news/uk-scotland-scotland-politics-67238079"
-ampWebUrl: "https://www.bbc.co.uk/news/uk-scotland-scotland-politics-67238079.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-scotland-scotland-politics-67238079.amp"
+publishedDateTime: 2023-10-27T12:11:00Z
+originalUrl: "https://www.aol.com/finance/ai-reboot-scottish-finance-091134469.html"
+webUrl: "https://www.aol.com/finance/ai-reboot-scottish-finance-091134469.html"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: BBC
-  domain: bbc.co.uk
+  name: AOL
+  domain: aol.com
 
 topics:
-  - AI
   - AI in Finance
+  - AI
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/809C/production/_131542923_gettyimages-1614147302.jpg"
-    width: 1024
-    height: 576
+  - url: "https://media.zenfs.com/en/aol_bbc_articles_618/70109e35cb2d4ea702ed251363856bb3"
+    width: 976
+    height: 549
     isCached: true
 
-secured: "p+gPyvMlizinBGAYPpFsW6PvvpuJljSq4sO63BexJ/8ssdlhZaGEw9jjtaSsZe36sVYElCR47ITym0GPsavjhSImQ4yLCOEzX7dRZ4XIvvZmX9mvdzssx1oqbGOSR6UjkIcULpRH4SJ8ajqVhhyJ2YmZOqolTs4Uu1iRHWfiXJEUq/ZhCvDuFVQZtG9FjahX0e+rGWBJxfudIqLVKTpf+mdclb97RAUsDDxZqQJ7EXI19DTbRA3TFftN8bhU1JU1icG4+aavsHQyVIlw8jSmlIn+dvMrS6LoRUKLODuLJJ1R2RzEs4+e2QJ7ck38SYUGqndRv1hU2ijKzkG2hrU6NE0Ui8Dz4tO0HWZ+VeMI1pI=;H1Mq7ftTZ/lqGxWJLPSOew=="
+secured: "Y//iSiS+qKKiF8hqYU5XG5wAswJO78B/DR7IoZCbZ3gjmqp3AxIwDtSR5J02pc/KB4VqhApkLIPt+D7TtUuy0QnE75uA2JHv+1i/isiT6fOME+5ZAimUTJ0AdrqTfr1KivDBvH9d6214kGz6J5TZT8J5vmQXludy3j8codvCDCFJhnV5EdqZDYfqpmpg5+IDxhz9tv3iWrMDo1WMHiMiQCU59qIZ8m4hlMWXUx4oogPy6O70cSrH8eZyglfVpAd2JNeL4rrjbLoqJmyRtYec7jk4CxhVPOzcnebpAfEAxnmJGYSgKSP4MyB0tWZPC5/4YB8/RZ0B8YsgWltXmt1gRtju3dZkF1jRBatTNYo5YFo=;qJ5sLsm0mlflXwqZYMU1YA=="
 ---
 

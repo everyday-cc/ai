@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 149
 published: true
 
 provider:
@@ -114,6 +114,6 @@ related:
       domain: businesstimes.com.sg
     quality: 17
 
-secured: "yGaUaxDKDWCMd7RIMH8Vcs/88XXk9B7mq1MRiez3R4JHBGbSOAaGAHvwtAnNJAbN/XtxNs/0z++rKxmgg7mbYt1UKnJSVGXUG4D7xq7ihhTDfCzSQ8hFKS9aD1Rp5jhujbUbjbztTobERvDLGfnqSQ/qOdL3J/cxkA7vdKj4166mOaCwDCOX+z+ZRs+2OV89PkWH5NSW+b2iABYeMv1LAB0wf8JyeWjvrgUk1cf4vEe8DFSKEqncyVEZoZnuEJmVmU0ZOrYjPqaoHDKmgp0TG2V3sHBC4M7tv72oouAEkHV2NxGYYq4+pRQAZWphXdLfIa07/8F8q9DqokMvlhOspmrMMOC6lFYK4OROBmMI/uE=;TTLujR7O2fEFEjDpb5TAtw=="
+secured: "Zk8Pg4rXG9sX8ORtREF5nL/aacM+vOcfX0yO7ngDxnPbJb9E+1Qco0LrHT+tYj0xYCMmlRFg0Smrr+f+NXJhSwIFn+3TobZ46csw/i9e+Brh6VGGrsCzURt6IFWhhr++xUaBuGF0wKCAf6cyiCltuzja4y2F7XkX5zXxFvjpdffGaX9sorNZrlsGESu592FURaD7gVvFDwzxEkgtGiWkG7C3hOIz2cgms7NyQMe3MaqWFHccznHGaO6VIOa0E/S4PNykFwXhqgHws6oyI/7ejkJo6MDxL3Bl7vO5OZKV2spz5kw11UpIb/rls6PZ8RE9/9eV4Tjl6xowettNwufS09Ju/8TSohrRlYcN1K43OT5Bq73vaeRENyUmuCRHpD8OmANbsUq4rQ+QJlvsjbVJR9eJiWwpbZivvLKkgrPB64OBSF5L3fZxqQItqDXD11gh3O5NdL2/X07PuZeDcrgm4a4r8qMB77DkuaNajI8Z1dvDrOaBlYAZK0XeFahuW0TeWUgA0YHTUHP79FOZ7xpDxA==;W7Hv6zBD1+NZrhXZGMhLTQ=="
 ---
 

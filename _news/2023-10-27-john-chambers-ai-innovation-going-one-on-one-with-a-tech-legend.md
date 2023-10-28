@@ -9,8 +9,8 @@ ampWebUrl: "https://wraltechwire.com/2023/10/27/john-chambers-ai-innovation-goin
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/?amp=1"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: WRAL TechWire
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "6 retail leaders innovating the customer experience with AI"
-    excerpt: "Here's Insider's list of innovative retail leaders who are revolutionizing the customer experience with AI, from GE, Instacart, and more."
-    publishedDateTime: 2023-10-23T16:29:00Z
-    webUrl: "https://www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/6532961996f7540cd0618e44?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How Gen AI Empowers Human Innovation In The Chemical Industry"
     excerpt: "Chemical industry leaders are exploring how this technology can transform product discovery, supply chain management, demand planning and customer centricity."
     publishedDateTime: 2023-10-24T12:59:00Z
@@ -51,15 +35,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "3 Ways Leaders Can Start Unlocking the Benefits of Artificial Intelligence"
-    excerpt: "After decades of hype and hysteria, artificial intelligence is finally ready for primetime. To date, A.I. has largely been reserved for the largest companies. But now, with the advent of generative pre-trained A."
-    publishedDateTime: 2023-10-27T20:32:00Z
-    webUrl: "https://www.inc.com/joe-galvin/3-ways-leaders-can-start-unlocking-benefits-of-artificial-intelligence.html"
+  - title: "Will the Fusion of Bitcoin and Artificial Intelligence Fast-track Innovation?"
+    excerpt: "Check out the opportunities and challenges that arise when bitcoin and artificial intelligence come together in an unlimited landscape of innovation."
+    publishedDateTime: 2023-10-28T05:27:00Z
+    webUrl: "https://www.cryptopolitan.com/bitcoin-and-artificial-intelligence-fusion/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 15
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 36
+    images:
+      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/1254.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "IXDDpDR1mZS+MawkOXA3FKFUm2Ck/ve9rzTru+WdclWSG0naHgrAuY5FDqHsRxJyaOwGRZxWpP05ZP0+pRhx29vIvz/nxtEPUqBp9Camlwsj/tVwIS/dzl9EsLOq2EaWE82IzlPmhi2AlGY0CoJ4MsPljqw/gaj8xpEXesTGxDQj+gSJI4qcXyAJ7S7n5pmgKW+RujlfTjrRmLV893CZnUI15E3MVRnZap3SS4qPJmI7PtGIPCXLMZ9N6bmvsmcDHHKWeJmfi6YZQKn6fsahHIjlbSjhyokXv8XR/t4FAeUu9jHgHU1PQ9OpwZXuF5ZgS6iYz3ygCajKiVnZo/8nnDyDi5ecBi0hSsbvja5Ksjo=;DbyUCIReJNHjJbbycflOgg=="
 ---

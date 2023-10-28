@@ -2,28 +2,26 @@
 category: news
 title: "AI not ready for prime time in mental health care, experts say"
 excerpt: "Although several uses of artificial intelligence in mental health are showing some success, experts say the jury is still out on its capabilities for wider use."
-publishedDateTime: 2023-10-28T06:00:00Z
-originalUrl: "https://www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.html"
-webUrl: "https://www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.html"
-ampWebUrl: "https://www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.amp.html"
-cdnAmpWebUrl: "https://www-meridianstar-com.cdn.ampproject.org/c/s/www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.amp.html"
+publishedDateTime: 2023-10-28T09:15:00Z
+originalUrl: "https://www.somerset-kentucky.com/news/lifestyles/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_d18a2758-7e6d-5fb1-8e5b-1032477e45e1.html"
+webUrl: "https://www.somerset-kentucky.com/news/lifestyles/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_d18a2758-7e6d-5fb1-8e5b-1032477e45e1.html"
 type: article
-quality: 59
-heat: 99
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: The Meridian Star
-  domain: meridianstar.com
+  name: Commonwealth Journal
+  domain: somerset-kentucky.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/meridianstar.com/content/tncms/assets/v3/editorial/8/d4/8d428b2a-3439-518d-871a-32ae632f6de5/653a96620fa35.image.jpg"
-    width: 509
-    height: 497
+  - url: "https://bloximages.chicago2.vip.townnews.com/somerset-kentucky.com/content/tncms/assets/v3/editorial/6/88/688933a0-49e2-59dc-857e-c5098c1790c6/653bd8a75440f.image.jpg?resize=400%2C391"
+    width: 400
+    height: 391
     isCached: true
 
 related:
@@ -84,6 +82,6 @@ related:
         height: 360
         isCached: true
 
-secured: "fvcUiutdK00PUHhTIOjpV6oyQmeZv9V2AeAvEiM/A33sERcK4s2X3u39xH0h9Y3z+fgTKK5uQyXG5//RQ2fCofsnQRk6dsYpASL6xawTnIvQb3Afl+oyzfXEYGqen7bPYPrV4pJW4sJXPNJ6nKKI45Q7jkIC8RjR04KiluLaJ59+oWnbtoHcYf4RiiK0a3M6qUPBUIAa5jN69oGJXGd30+NcPTYVFP5MGXEv86fhmmWbXotBTmTJRROFX8Uwiug43/P8cET5wmVcZTND+eXPQ/pHULn/0vF+DeYIrWuIrfgltz8ggCNuizIF6N8r7QV+70qJlqcUa03eJlLmgd3Zn+BlFAKLHpOCujQEyGKiRg0=;yfYOcXz/xDeIFvS7BhtfWQ=="
+secured: "ZYbHOY6hSYmwoZ3UKtcCQmsD1AKRZkphlrtrG6Khw6A042ehR5KnJ+6KV+R5kyggjJFGcjZBTAQaTx8zOrxTo2kevtPtl6oMb35/+NQISFO6VKjAP6Dz6cMpJABRSsJh7WDP3IeGBfiGeuUF4OOYZ6Bt+2GpdGdCL+0b9Vb+0jkpaXhKWhcuRSPQXSppxKleANQFDra4SV9ThP0iHEz75/5VeAgTlO/apF7J4WE5x6vsZFttURQLi2nFweIIZ/ptf1S1j/100ZieK4bKc/pG/LhTkqOkeg61dL70zvHi+rSiml+cNlqeSHzxQ33+LenZPqgUOD94ENDc+OMMf5Ok6XgIUOQ8jp1i2uwrPKpWFws=;/KgRV6sxHT1BCchHJkk6Bg=="
 ---
 

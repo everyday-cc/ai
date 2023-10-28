@@ -167,15 +167,6 @@ related:
         width: 1200
         height: 789
         isCached: true
-  - title: "Qualcomm's Snapdragon 8 Gen 3 leans heavy into AI new leak reveals"
-    excerpt: "A new leak may have revealed the full specs of Qualcomm's next-gen flagship processor, the Snapdragon 8 Gen 3."
-    publishedDateTime: 2023-10-23T15:16:00Z
-    webUrl: "https://www.androidauthority.com/snapdragon-8-gen-3-leaked-specs-3378618/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 49
   - title: "Qualcomm's Snapdragon X Elite brings more AI power to your next PC"
     excerpt: "The Snapdragon X Elite supports generative AI models with over 13 billion parameters. PCs powered by the new processor are expected from vendors in mid-2024."
     publishedDateTime: 2023-10-24T19:00:00Z

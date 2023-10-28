@@ -19,49 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "How Fincover (Fintech Company) is using AI and Machine Learning to boost financial Inclusion"
-    excerpt: "Fincover, a fintech startup based in Chennai, has quickly emerged as one of the DSAs in the Personal Loan space with their extensive use of technologies like Artificial Intelligence (AI) and Machine Learning (ML),"
-    publishedDateTime: 2023-10-23T16:02:00Z
-    webUrl: "https://www.telegraphindia.com/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036"
-    ampWebUrl: "https://www.telegraphindia.com/amp/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036"
+  - title: "Climate fintech is exciting investors right now. Here's why it's primed to be the next red-hot sector."
+    excerpt: "Fintech startups that speed up decarbonization, manage climate risks, and facilitate renewable energy purchases are gaining traction, according to VCs."
+    publishedDateTime: 2023-10-24T10:01:00Z
+    webUrl: "https://www.businessinsider.com/climate-fintech-red-hot-sector-is-capturing-investor-attention-right-now-2023-10"
     type: article
     provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 65
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
     images:
-      - url: "https://assets.telegraphindia.com/telegraph/2023/Oct/1698076869_untitled-design.jpg"
-        width: 900
+      - url: "https://i.insider.com/6531215ebe9edfa8eda489e6?width=1200&format=jpeg"
+        width: 1200
         height: 600
         isCached: true
-  - title: "Hong Kong FinTech Week 2023 “Fintech Redefined”"
-    excerpt: "Invest Hong Kong (InvestHK) today (October 18) unveiled details of Hong Kong FinTech Week 2023 (HKFW). The eighth edition of HKFW, themed \"Fintech Redefined.\" will take place from October 30 to November 5."
-    publishedDateTime: 2023-10-25T13:35:00Z
-    webUrl: "https://financefeeds.com/hong-kong-fintech-week-2023-fintech-redefined/"
+  - title: "Money20/20 unveils fintech intelligence platform for investors"
+    excerpt: "Money20/20, the world’s leading fintech show and the place where money does business, is launching Twentyfold at Money20/20 USA in Las Vegas held on October 22-26."
+    publishedDateTime: 2023-10-23T20:40:00Z
+    webUrl: "https://www.finextra.com/pressarticle/98506/money2020-unveils-fintech-intelligence-platform-for-investors"
     type: article
     provider:
-      name: financefeeds
-      domain: financefeeds.com
-    quality: 4
-  - title: "OSU’s Fisher College Launches Fintech Micro-Credential"
-    excerpt: "COLUMBUS, Ohio – A new graduate credential offering from The Ohio State University’s Max M. Fisher College of Business is preparing professionals with introductory-level knowledge of the emerging financial technology that organizations are using to improve and automate the delivery of financial services."
-    publishedDateTime: 2023-10-26T08:52:00Z
-    webUrl: "https://businessjournaldaily.com/osus-fisher-college-launches-fintech-micro-credential/"
-    type: article
-    provider:
-      name: Business Journal Daily
-      domain: businessjournaldaily.com
-    quality: 4
-  - title: "Unlocking Career Potential in the Digital Age: Harnessing Fintech Innovations through Aptitude Mastery"
-    excerpt: "The digital age has ushered in an era wherein technology is at the forefront of nearly every industry. Fintech—a portmanteau for the term financial technology—is one of the most dynamic and fastest-evolving sectors in this digital revolution."
-    publishedDateTime: 2023-10-27T17:49:00Z
-    webUrl: "https://techbullion.com/unlocking-career-potential-in-the-digital-age-harnessing-fintech-innovations-through-aptitude-mastery/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 0
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "PdRpiSa2gNTzKcIweRk9TKsn4kturw3qK4mWzTgwmRtom8m2K/JFet5S8HY3Kwqt7gwWJLOQwaJZzR4TqdOT2wMWsJEOWT7pVpIM/AK/AONz+FbnEWiR+rEbYOOntJFlnZoe23AfcwI2bMo1PrTiQ/YCWKG/V9xiJFRqpglE9DbQCJgy2SFugGMDHSGez20+24WW8Hjm893GOa/O2wUREwN/y+QKdfPoFsFZL6CEUmDGSZ1jfajyGx0Rfy+PCvfJu29bs7ZHq4dZe4nn0mGTYGQWbt4PqOsT00tJAJXo2+iCcunWQ6ljiA2NHZh30YcbKMtVFmGg1vHT4VnO3TMtA/D64THRJJR6g3xxENZPec3jx5hwWgxZoB86DDFj3bKApW/9ew9x14tnUiUt9BXiblE5+LhGljOOUAzHEoBs4JaLd6Hc0upJZiEQ0i9cbIEdgazZgb+/16bP0am3KUQFgP1jSTolqN2pT7PwgsYSm+zT+F6g925qvCzoy3zTo6h0ShV8Pbikd/fF0ljxM7BdSg==;sfx/6w+CHAtwoAnVkiDHIw=="
 ---

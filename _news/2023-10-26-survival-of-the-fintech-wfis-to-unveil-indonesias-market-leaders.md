@@ -24,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "The Growing Significance of Malaysia and Indonesia’s Non-Recognition of Israel"
-    excerpt: "With more Arab states choosing to normalize relations with Tel Aviv, Jakarta and Kuala Lumpur have emerged as prominent advocates for the Palestinian cause."
-    publishedDateTime: 2023-10-23T15:16:00Z
-    webUrl: "https://thediplomat.com/2023/10/the-growing-significance-of-malaysia-and-indonesias-non-recognition-of-israel/"
-    type: article
-    provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 20
-    images:
-      - url: "https://thediplomat.com/wp-content/uploads/2023/10/sizes/td-story-s-2/thediplomat_2023-10-23-005042.jpg"
-        width: 600
-        height: 400
-        isCached: true
-
 secured: "agP9U3gkBuRC5FJcbwXVgd/blB5X8PFy68Hxhc3mA8HmW+cxEm46fBRAMHIvYadBLUpWURRVYRJQsINR5DHP+9/mmJKuljWYlM61wKm+MI7bvnJKP+y3ya/JEAciwvBsupHlMwd48GV+vPlHMpQV2vgJZ7LDPr/loJyLtquVXk2m6lWBzXxJqo5G9dVTMqXLQ8HAmJVURnLCE09S48B+5u6hfRJP/Ni9D78U727WH7JWVSsZiqLFaUsdxho3waLTHXIfo5SQehU6LdpR+PlrNbcjCySXjBj/+S02S5gIhd0MkhXWvoLyI1AV2gNdb+5Rluu/zAxabdwMm8bliGvnyPwKBiZ1Fh2K9c2KEKxocgaUVeM+TtN/Gkj44a77wxieV6YfyeQVHvc2QqfwyDWpXXEZhIC1HdA57/D+OX9yr7NTvoyKJa1HlBV4peZc/Qw/KouCHd/dbCBBF7HQgVJ7QcA0BUn/1RbCkKXXjQSSJd/4AsY4fRewJ3MV3GEH7NGIiUFR3WVC5FyZo/+tVSb+yQ==;nxsc/hcwi4+Tqnk0kVkY5A=="
 ---
 

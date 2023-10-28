@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
       name: Quanta Magazine
       domain: quantamagazine.org
     quality: 19
+  - title: "3 Ways Leaders Can Start Unlocking the Benefits of Artificial Intelligence"
+    excerpt: "After decades of hype and hysteria, artificial intelligence is finally ready for primetime. To date, A.I. has largely been reserved for the largest companies. But now, with the advent of generative pre-trained A."
+    publishedDateTime: 2023-10-27T20:32:00Z
+    webUrl: "https://www.inc.com/joe-galvin/3-ways-leaders-can-start-unlocking-benefits-of-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 15
 
 secured: "rfETqbwxwqmK8RVK826/zeY44IQy69kSIY9AAqMmfGGeIX3Fd8BjowP0ueYyo5IzefS9T9OhEM174ywEDd67WVU6/VfrQgbgOxZ9SM9e1ZAcwdEn8BzfmotKH4bd3CrUN477KPstQInK+5GgS6xtbymcvbBkDAcFT3xS5b/SH10LC8YX3WlzGOxrMtHJgoTerQMYvU96tfVCW2Na2gVSQDxeI3bT5vaZ01FfoNPcg5DwNA+LPvoBLnbPsdsJN7SQ/MZ3m5R9Ar3UaVyzqHYhde/NarpHhNc3ltDSwLakYdYNgMNSXjwI0VhLVFpZFEBPjeOyYBv7a2XaRIex2cZyA6TNSvpLB1CZn9nh3HMR8CobZs7loBebLfeNxdujHNfVrbfHEI1x3ZO6M7Qn7gUks3ZIVSH4Y0m3hQtjzlHhwaugILLrgW/STen7FGAzWTcHufTXu8vX3/0L9R9McGb06q1XIiuG2T7X6TgR8gTmFrd1fo3LQFA/kIH7kobByat8dh/jOKrGC0HhBLehUFW+aA==;u2pS44TVffOMwSgHONuaDg=="
 ---

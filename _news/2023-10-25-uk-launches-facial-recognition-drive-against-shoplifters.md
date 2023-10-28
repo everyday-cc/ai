@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 882
         isCached: true
-  - title: "Face Search Engine PimEyes Blocks Searches of Children’s Faces"
-    excerpt: "Concerns about children’s privacy have led PimEyes, the public face search engine, to ban searches of minors. The PimEyes chief executive, Giorgi Gobronidze, who is based in Tbilisi, Georgia, said that technical measures had been put in place to block such searches as part of a “no harm policy.”"
-    publishedDateTime: 2023-10-23T16:52:00Z
-    webUrl: "https://www.nytimes.com/2023/10/23/technology/pimeyes-blocks-searches-childrens-faces.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: "https://static01.nyt.com/images/2023/10/20/multimedia/00PimEyes-Children-qhwb/00PimEyes-Children-qhwb-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Australian federal police tested controversial facial recognition search engine, FOI documents reveal"
     excerpt: "Exclusive: The AFP told Senate estimates it is now aware the PimEyes and FaceCheck.ID platforms may have been tested for operational purposes on around 10 occasions The Australian federal police have tested a controversial facial recognition search engine ..."
     publishedDateTime: 2023-10-24T00:56:00Z

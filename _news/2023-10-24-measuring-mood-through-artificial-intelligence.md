@@ -81,6 +81,15 @@ related:
       name: Quanta Magazine
       domain: quantamagazine.org
     quality: 19
+  - title: "3 Ways Leaders Can Start Unlocking the Benefits of Artificial Intelligence"
+    excerpt: "After decades of hype and hysteria, artificial intelligence is finally ready for primetime. To date, A.I. has largely been reserved for the largest companies. But now, with the advent of generative pre-trained A."
+    publishedDateTime: 2023-10-27T20:32:00Z
+    webUrl: "https://www.inc.com/joe-galvin/3-ways-leaders-can-start-unlocking-benefits-of-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 15
 
 secured: "2nS3HO1gbkxIegioJryq/nq1vI3ZqU1TgR1h4aMq3FGtd/JLJhHl01h7B2NbJ7Vk95AC35KRIruV/A1z+bBhLXJYx8rQgwA4JUsS0467CYCWAaBvvgommy4vaS16lH5RF0TS0z7T3a44qXamnoRza7sYETlVE/r3IZoZK7UIohmnHA0G/j3jnqepNLVwXkzOPOTyl9bXfxqTTxHjyD3PFoSSaFNI+E0GWWDv3eSeHMIZFBXrLvuXjyerQ8RfgpljosvZUhVjP9LhJphZ4fQMUD66OI0OoOKcSGyqV+prlQNXyWt5DUWEDSXAAwzAYRMRPyScm2PWePy1DxGHB+oQuInEifgkEwDRRbzNA4nqRT0=;U7c1O0Tuh5bNNO4vpnnAcQ=="
 ---

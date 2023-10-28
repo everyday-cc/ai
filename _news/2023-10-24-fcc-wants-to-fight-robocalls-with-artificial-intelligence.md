@@ -66,6 +66,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Will generative AI transform business?"
+    excerpt: "Generative AI is developing rapidly both in terms of usage and sophistication. Since the public release in November 2022 of ChatGPT, OpenAI’s large language-based chatbot, the number of people who have experimented with generative AI has grown rapidly. In its first five days the platform had more than one million users."
+    publishedDateTime: 2023-10-26T04:00:00Z
+    webUrl: "https://www.ft.com/content/647fdf88-d757-45e4-a640-9654673b7ece"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F3a3122bc-5236-470f-beea-412817ff61bd.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "/OzPB2Ox058N2BwG2zXY7ewxsgJ22JUNRqN0sW9Oagsk1Q4NAwScaj1ePYRf+STjoXRHPShxUJke33ZX4308sdX+V5Szb4jBpMJ4d1jyr5gZoNVnbdx2UYtuCCmxt065fHT08YzeoWvoWpfBduyP1MDmFefKkIvqT++nGxFfPo6lLNe44lqEIkpd0o+toI4CtBj8L2M3VB07MVbbq+558KZNpNDyLVnuUGhTyLsktjECje2HaZGXm52L0wsEEpEzqqx7B26BPVseGKdzdWAwRCN1Saz8JtdS8A2wSqdwJ6yshWc9umcBav6vNng2AR2wvGa/zxhxHsxtsI07SPvH/iOOEaan+C83Fvrz43ZOoKAI0kW+joFsj9lE53+HGhkHWbqG8NUiV96xGwMFcEgSZhVluNr8C7TF6P8pxoS67+AuISsL0BzbJ5XXN5CYZD5fboYt3dgmWIMy0GyBWj5KX53FDjtsYJZI+gAXfNyYIrEUJrt/j5Cf+ENKATubie5xVPg355mriZme6Wdz5Cp5Tg==;Zv2i9AUFZ6O/Pp2q8sYjGg=="
 ---

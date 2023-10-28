@@ -19,31 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "How Fincover (Fintech Company) is using AI and Machine Learning to boost financial Inclusion"
-    excerpt: "Fincover, a fintech startup based in Chennai, has quickly emerged as one of the DSAs in the Personal Loan space with their extensive use of technologies like Artificial Intelligence (AI) and Machine Learning (ML),"
-    publishedDateTime: 2023-10-23T16:02:00Z
-    webUrl: "https://www.telegraphindia.com/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036"
-    ampWebUrl: "https://www.telegraphindia.com/amp/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036"
+  - title: "Fintech Platform Zafin, the SaaS and Pricing Solution Provider for Banks, Launches New Products"
+    excerpt: "Zafin IO deploys accelerators, “leveraging well-known design patterns and low-code approaches, with Microsoft Azure Open AI-powered Zafin Copilot ... and other forms of Fintech. Join Crowdfund Insider, the CanadianSecuritiesExchange (CSE), OTC ..."
+    publishedDateTime: 2023-10-27T02:21:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/214884-fintech-platform-zafin-the-saas-and-pricing-solution-provider-for-banks-launches-new-products/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/214884-fintech-platform-zafin-the-saas-and-pricing-solution-provider-for-banks-launches-new-products/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214884-fintech-platform-zafin-the-saas-and-pricing-solution-provider-for-banks-launches-new-products/amp/"
     type: article
     provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 65
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 47
     images:
-      - url: "https://assets.telegraphindia.com/telegraph/2023/Oct/1698076869_untitled-design.jpg"
-        width: 900
-        height: 600
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/New-and-Improved-2.jpeg"
+        width: 1400
+        height: 1433
         isCached: true
-  - title: "UAE fintech Maly to launch AI-powered tools to boost long-term investment and saving plans in the GCC"
-    excerpt: "The startup’s aggressive move comes amid the UAE – as well as Saudi Arabia – kicking off initiatives to implement pension and other financial security plans in the employment sector"
-    publishedDateTime: 2023-10-24T10:18:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/banking-finance/uae-fintech-maly-to-launch-ai-powered-tools-to-boost-long-term-investment-and-saving-plans-in-the-gcc"
+  - title: "Fintech as a Service Provider Wearonize Integrates Onfido’s ID Verification Solution"
+    excerpt: "A Fintech as a Service provider selects Onfido for its AI-powered digital identity solution to streamline and secure customer onboarding."
+    publishedDateTime: 2023-10-24T00:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/214758-fintech-as-a-service-provider-wearonize-integrates-onfidos-id-verification-solution/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/214758-fintech-as-a-service-provider-wearonize-integrates-onfidos-id-verification-solution/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214758-fintech-as-a-service-provider-wearonize-integrates-onfidos-id-verification-solution/amp/"
     type: article
     provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 4
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 37
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/ID-Identification.png"
+        width: 1200
+        height: 1607
+        isCached: true
   - title: "Hong Kong FinTech Week 2023 “Fintech Redefined”"
     excerpt: "Invest Hong Kong (InvestHK) today (October 18) unveiled details of Hong Kong FinTech Week 2023 (HKFW). The eighth edition of HKFW, themed \"Fintech Redefined.\" will take place from October 30 to November 5."
     publishedDateTime: 2023-10-25T13:35:00Z
@@ -53,15 +60,15 @@ related:
       name: financefeeds
       domain: financefeeds.com
     quality: 4
-  - title: "Unlocking Career Potential in the Digital Age: Harnessing Fintech Innovations through Aptitude Mastery"
-    excerpt: "The digital age has ushered in an era wherein technology is at the forefront of nearly every industry. Fintech—a portmanteau for the term financial technology—is one of the most dynamic and fastest-evolving sectors in this digital revolution."
-    publishedDateTime: 2023-10-27T17:49:00Z
-    webUrl: "https://techbullion.com/unlocking-career-potential-in-the-digital-age-harnessing-fintech-innovations-through-aptitude-mastery/"
+  - title: "Zip Named Most Innovative Fintech Solution by 2023 Tech Ascension Awards"
+    excerpt: "Zip, the world’s only intake-to-pay platform, today announced its platform was chosen the Most Innovative Fintech Solution by the 2023 Tech Ascension"
+    publishedDateTime: 2023-10-25T20:32:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231025067897/en/Zip-Named-Most-Innovative-Fintech-Solution-by-2023-Tech-Ascension-Awards"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 0
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
 
 secured: "Za632KxpRgPJjFG0lW0rttm7426o/9pOjPYnmZ3Q0FeO46gNKkw5K180rSVaJq2IqerkSGB6qrPo/f4K6RABCNI9Cer3PeDL4DqJEAJbmiKPsxz6qSvlHxP37vc74ehbI3voVz6QPN6fp+gaoTovSbMPKVUqUWa3VLdoMnYummJhaHaNyIDStYzekjxCwZpMyRcPbRDa/PPc1ijSzK4X924v2bWiQ/KHS1wRXWH9X4PtV6U+IBCqkAWqtLk3M+dNHiSZU6D0N3lXo2Ec20glKkqla5wLIJuvrpcQ7gPTApLEEu8uBqptvEtM8c0/uBG5GGp87fStRXvLLDSTp5Clzsu+hiuoSEJUsq8Xqex4PnTlvNg3EWg1er7ziZzL8yKkxDX419tJtIcPVzzZ7VDGzEWt15wwJemzbUn0hMBkISeul6zdVSOYDk8+dE8umy507NZrW0jCCGrIxlQUX0zJeMReZRCEQO4EY3VpQCQtEaiHxHoA4eLiRt7bx9ayX3gxaqLaSakw4G0qLIamk4U4RA==;R8kywifi1dARncE7BaDAEQ=="
 ---

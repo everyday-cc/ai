@@ -3,10 +3,10 @@ category: news
 title: "Novel AI Method Shows More Human-Like Cognition"
 excerpt: "A study published in Nature unveils meta-learning for compositionality (MLC), a new AI technique that endows neural networks with more human-like language generalization ability—a milestone achievement in pursuing artificial general intelligence (AGI)."
 publishedDateTime: 2023-10-27T21:21:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202310/novel-ai-method-shows-more-human-like-cognition"
-webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202310/novel-ai-method-shows-more-human-like-cognition"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202310/novel-ai-method-shows-more-human-like-cognition?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202310/novel-ai-method-shows-more-human-like-cognition?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202310/novel-ai-method-shows-more-human-like-cognition"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202310/novel-ai-method-shows-more-human-like-cognition"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202310/novel-ai-method-shows-more-human-like-cognition?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202310/novel-ai-method-shows-more-human-like-cognition?amp"
 type: article
 quality: 59
 heat: 69
@@ -42,6 +42,6 @@ related:
         height: 355
         isCached: true
 
-secured: "iXXpS98VIVyldrYHvGUldM9ewi3v/AAe8aevpECsxdvoFdoKIRx+4K3LwAxIDK5nc79AVe2vcioPony7GnnRY1NuP0GdEx/SrZeSsH2DGNO8iugaeYlUU+C5HPpqSZWQBD4mbf9/mw/UArRmDkb9yylQa0uesD8WNs6OQvL5DlNIXDZDggLiPxMSTXcRh9df5QsP6+/MYSUYt9VYFjDaTXOtFBex+KwkJCcTYV5DB7sTOIXuZYUxJ2DPJYb/LFRLazJDcaxOKkq6TZhWkhiEbyML12zqvdBXseQU03odDCcLbGCYpQkn0H+j62GQoceSBnAiNYRw9d1jz7e9y0uLAVdx3C4rrafbABB3cyjYwpc=;GXjXmDJkR0ULAtXruqKqeQ=="
+secured: "qlWLw1xRzx3HkVcH4CSHS1q8FTBRcH/PuDFxHFUGhTJudCwNjoVXQdmJrIiV29osSZUd84R+n+BuP86e5Nc7Aa8BYDtovrNGpOt1kexpM9wedgpNN9lDuynq/wMmt+Rw6wxEldKGAywbPHxG7nh3qT9BNN0QHcyqMJtdQ/uLdL+x8Msb5q5JCJnK0SC0MG6Yp8YmUo7M5WqwuQ6vokm8KAySLn6qA7AevZ+PYSAo1dnUrnVeybIhlILxJTGGZ3FbqksM9uaBkfby6sywQ4xuXwEAtuX5N1N2n26xl+maeeVpQ4EatjbsXVcFiZsFGMmje31D/ujDoFKBtdJCxeKCwJmlna4337Nn7X1xe4yyiKg=;s5aXLCk7L1NNKb6wSocOnQ=="
 ---
 

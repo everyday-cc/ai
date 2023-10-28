@@ -43,6 +43,24 @@ related:
         width: 1200
         height: 1607
         isCached: true
+  - title: "Hong Kong FinTech Week 2023 “Fintech Redefined”"
+    excerpt: "Invest Hong Kong (InvestHK) today (October 18) unveiled details of Hong Kong FinTech Week 2023 (HKFW). The eighth edition of HKFW, themed \"Fintech Redefined.\" will take place from October 30 to November 5."
+    publishedDateTime: 2023-10-25T13:35:00Z
+    webUrl: "https://financefeeds.com/hong-kong-fintech-week-2023-fintech-redefined/"
+    type: article
+    provider:
+      name: financefeeds
+      domain: financefeeds.com
+    quality: 4
+  - title: "OSU’s Fisher College Launches Fintech Micro-Credential"
+    excerpt: "COLUMBUS, Ohio – A new graduate credential offering from The Ohio State University’s Max M. Fisher College of Business is preparing professionals with introductory-level knowledge of the emerging financial technology that organizations are using to improve and automate the delivery of financial services."
+    publishedDateTime: 2023-10-26T08:52:00Z
+    webUrl: "https://businessjournaldaily.com/osus-fisher-college-launches-fintech-micro-credential/"
+    type: article
+    provider:
+      name: Business Journal Daily
+      domain: businessjournaldaily.com
+    quality: 4
   - title: "Zip Named Most Innovative Fintech Solution by 2023 Tech Ascension Awards"
     excerpt: "Zip, the world’s only intake-to-pay platform, today announced its platform was chosen the Most Innovative Fintech Solution by the 2023 Tech Ascension"
     publishedDateTime: 2023-10-25T20:32:00Z

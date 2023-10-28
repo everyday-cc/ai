@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/10/23/23929271/pimeyes-facial-recogn
 webUrl: "https://www.theverge.com/2023/10/23/23929271/pimeyes-facial-recognition-ai-children-privacy"
 type: article
 quality: 64
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://th-i.thgim.com/public/migration_catalog/53lqo4/article51151968.ece/alternates/FREE_1200/HY27-TPT_GED6NGTLG.1%2BHY27-TPT.jpg"
         width: 1200
         height: 882
-        isCached: true
-  - title: "Face Search Engine PimEyes Blocks Searches of Children’s Faces"
-    excerpt: "Concerns about children’s privacy have led PimEyes, the public face search engine, to ban searches of minors. The PimEyes chief executive, Giorgi Gobronidze, who is based in Tbilisi, Georgia, said that technical measures had been put in place to block such searches as part of a “no harm policy.”"
-    publishedDateTime: 2023-10-23T16:52:00Z
-    webUrl: "https://www.nytimes.com/2023/10/23/technology/pimeyes-blocks-searches-childrens-faces.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: "https://static01.nyt.com/images/2023/10/20/multimedia/00PimEyes-Children-qhwb/00PimEyes-Children-qhwb-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "UK launches facial recognition drive against shoplifters"
     excerpt: "On Monday, the country’s police authorities and representatives of 13 of the UK’s biggest retailers announced the Retail Crime Action Plan."

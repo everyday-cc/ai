@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/how-computer-vision-increases-produ
 webUrl: "https://www.therobotreport.com/how-computer-vision-increases-productivity-and-sustainability-in-agriculture/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://cdn.manilastandard.net/wp-content/uploads/2023/10/Energy-Experts-dashboard-shows-carbon-footprint-of-temporary-construction-at-the-Olympic-Esports-Week-1024x548.png"
         width: 1024
         height: 548
+        isCached: true
+  - title: "Unleashing the Power of Gender Diversity: How it Impacts Team Productivity"
+    excerpt: "The course will look at the cognitive advantages, creativity boosts ... This, in turn, leads to more effective marketing strategies and the development of products and services that resonate with a wider customer base. Case studies abound with examples ..."
+    publishedDateTime: 2023-10-28T07:50:00Z
+    webUrl: "https://www.ictsd.org/unleashing-the-power-of-gender-diversity-how-it-impacts-team-productivity/"
+    type: article
+    provider:
+      name: ICTSD
+      domain: ictsd.org
+    quality: 22
+    images:
+      - url: "https://i.pinimg.com/originals/ce/d1/b0/ced1b019fac471c63ecb880f8c85938a.png"
+        width: 480
+        height: 369
         isCached: true
 
 secured: "+R/MMYfz5aUDJ4DKm/l9Dojh0PMDuDZ+lRnXwX7EKNDbjBqL2Bp3YEzKXJgxNsJMLRw+FiCy3ovmp17W03+RkVCL3JS+uDNUBs7MZ+/jgoue3ZTfeXD00Osw2YgqLQXtpnwNfEaFWMxQmOwZe3JYfooEZW1cDxm8DqhfZ75j7JZYlT2hMOsDAM4+GYfSqKkHQ7Ks6/Gm+nV0ZbvQsXP5eNdxYrgffqUUaSBijYeElzWcCChoYUnjMT9jXdgjck3oYsGJbzb4YRJVxFata8p0fXHssMtIbIrdprU+PTMHkixVweBAPixmu48r85sx321rrRzusp5kVeKmKiYPYh13JtYx52ogK8QQTXiPT+nSG6pn5IEboPYLiWHSaT4tEXEe62B5efPnBLuRtJPuqVHXSkcMnPoyDLPk6FXB2EU9Wkr0NPGIkKjNKskVvSMOTrTjRDI8Os1DMR0NOjjLfptCjdhB2veLr8OU+agttfFQ4jJfAE9C8gJGtH/CO+dwQqfefjZrVdcYG4lVLzteGqOcaA==;4NVV2vVv2NkrOhPWmOlRnw=="

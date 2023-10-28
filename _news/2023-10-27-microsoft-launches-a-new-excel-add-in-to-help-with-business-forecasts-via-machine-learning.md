@@ -70,22 +70,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft Q1 Earnings Preview: Analyst Estimates, Video Game Update, Artificial Intelligence Opportunity"
-    excerpt: "Microsoft reports first-quarter financial results after market close Tuesday. Artificial intelligence is likely to be one of the biggest topics covered by the company ..."
-    publishedDateTime: 2023-10-23T16:22:00Z
-    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/10/35375850/microsoft-q1-earnings-preview-analyst-estimates-video-game-update-artificial-intell"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35375850"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35375850"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/10/23/microsoft..image_by_efes_from_pixabay.building-1011876_1920.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft clocks $56.5Bn in revenue in Q1 FY24, Intelligent Cloud revenue up by 19%"
     excerpt: "Microsoft's Q1 2024 earnings beat expectations with $56.5 billion in revenue as its AI ambitions yield rich results."
     publishedDateTime: 2023-10-26T05:01:00Z

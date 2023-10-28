@@ -56,6 +56,20 @@ related:
         width: 884
         height: 900
         isCached: true
+  - title: "Will generative AI transform business?"
+    excerpt: "Generative AI is developing rapidly both in terms of usage and sophistication. Since the public release in November 2022 of ChatGPT, OpenAI’s large language-based chatbot, the number of people who have experimented with generative AI has grown rapidly. In its first five days the platform had more than one million users."
+    publishedDateTime: 2023-10-26T04:00:00Z
+    webUrl: "https://www.ft.com/content/647fdf88-d757-45e4-a640-9654673b7ece"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F3a3122bc-5236-470f-beea-412817ff61bd.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
+        width: 700
+        height: 394
+        isCached: true
   - title: "FCC Wants to Fight Robocalls With Artificial Intelligence"
     excerpt: "The one thing I know about any battle is you’ve got to go in with optimism,” the FCC chairwoman told AARP. “And so at this point while everyone is talking about AI and th"
     publishedDateTime: 2023-10-23T22:56:00Z

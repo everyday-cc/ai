@@ -7,7 +7,7 @@ originalUrl: "https://www.aftermarketnews.com/koito-denso-collaborate-night-driv
 webUrl: "https://www.aftermarketnews.com/koito-denso-collaborate-night-driving-safety/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1400
     height: 700
     isCached: true
-
-related:
-  - title: "Koito and Denso Collaborate on Night Driving Safety Project"
-    excerpt: "Koito Manufacturing Co. and Denso Corp., have begun collaborating on a system to improving driving safety at night."
-    publishedDateTime: 2023-10-23T15:33:00Z
-    webUrl: "https://www.dbusiness.com/daily-news/koito-and-denso-collaborate-on-night-driving-safety-project/"
-    type: article
-    provider:
-      name: DBusiness Magazine
-      domain: dbusiness.com
-    quality: 24
-    images:
-      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2023/10/Denso800.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "ttSkgFP6pLy0D2PGpOKUlexi/+ZRlRSdTbgU/UTeaHoPR46PJWr3h0KKbqeA2zxo46T7dJ/UFNZqpd5PLSUGVH3OAZMJlxxCFLxKeImr5NGk7FLaN8f/7H6TGnfYw6BZ/g7wWc7ScGCataKVIBDATc0OgaKX4ky8uZqlcJ762z2fEGv0RjX2e3BTAxf9FsFC9QCgF5v43yQAuTnnmsRFWEfffR+D0clFZ9IHnRfwsYJaRCWY81KfpuGCeGDv9hjPWRLSetoEXa5Jq/JW7N14nJkW9Cqk9AVPC+qzgls1ZxVTi46FaZBcLRdEqnnFFptVkiFUWLNqY4SSw/ISCk98xfgs38qB55aJWTZsqHqHcCbiA9M4o7ymdv+dH0VmQ1wROvinjIJO9CSyCn9H4qYq5amJspafbIRHYbl5a+mfpi7R9ijWpRxDSsbKzvJLk2k4CkRaMxzNORh6I27F2j+NKZ4UnQOiDdE6ysiXID9uXBon+eN8k8NljhTCwb2lv0GXIZ+FnFQAil/EngKU6Ukqfw==;JL7B0fyunGS+TXgMxeT3QA=="
 ---

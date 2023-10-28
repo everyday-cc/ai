@@ -179,15 +179,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Qualcomm's Snapdragon 8 Gen 3 leans heavy into AI new leak reveals"
-    excerpt: "A new leak may have revealed the full specs of Qualcomm's next-gen flagship processor, the Snapdragon 8 Gen 3."
-    publishedDateTime: 2023-10-23T15:16:00Z
-    webUrl: "https://www.androidauthority.com/snapdragon-8-gen-3-leaked-specs-3378618/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 49
   - title: "Qualcomm's New Snapdragon Elite X Chip Aims to Surpass Apple's Mac in AI Capabilities"
     excerpt: "Qualcomm provided details about its latest chip designed for Microsoft Windows-based laptops. The company promises this chip will outperform Apples Mac chips in certain tasks. The Snapdragon Elite X chip,"
     publishedDateTime: 2023-10-25T08:50:00Z
