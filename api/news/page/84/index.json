@@ -2,6 +2,290 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2023-08-30-this-healthcare-stock-has-been-a-hotter-buy-than-amazon-and-alphabet-this-year.md",
+      "title": "This Healthcare Stock Has Been a Hotter Buy Than Amazon and Alphabet This Year",
+      "excerpt": "Artificial intelligence is exciting, but there are also big opportunities in healthcare, specifically in the market for clear aligners. Align Technology is a big company in that space, and its growth rate picked up this year. A look at share prices in 2023 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/08/30/healthcare-stock-hotter-buy-amazon-alphabet/",
+      "originalUrl": "https://www.fool.com/investing/2023/08/30/healthcare-stock-hotter-buy-amazon-alphabet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/745587/investor-pointing-at-a-chart.jpg",
+          "width": 3000,
+          "height": 2001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-meet-jais-the-worlds-most-advanced-arabic-large-language-model-open-sourced-by-g42s-inception.md",
+      "title": "Meet “Jais”, the world’s most advanced Arabic large language model open sourced by G42’s inception",
+      "excerpt": "MBZUAI offers various graduate programs designed to pursue advanced, specialized knowledge and skills in artificial intelligence, including computer vision, machine learning, natural language processing, robotics, and computer science. For more information ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/meet-jais-the-worlds-most-advanced-arabic-large-language-model-open-sourced-by-g42s-inception-kn6ea200",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/meet-jais-the-worlds-most-advanced-arabic-large-language-model-open-sourced-by-g42s-inception-kn6ea200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/meet-jais-the-worlds-most-advanced-arabic-large-language-model-open-sourced-by-g42s-inception-kn6ea200?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/meet-jais-the-worlds-most-advanced-arabic-large-language-model-open-sourced-by-g42s-inception-kn6ea200?amp=1",
+      "publishedDateTime": "2023-08-30T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-google-launches-ai-chip-to-handle-faster-training-performance-of-llms.md",
+      "title": "Google launches AI chip to handle faster training performance of LLMs",
+      "excerpt": "It is claimed to deliver “up to 2x higher training performance per dollar and up to 2.5x inference performance per dollar for LLMs and gen AI models compared to Cloud TPU v4.” Google said the new chip is a combination of performance and flexibility ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-launches-ai-chip-to-handle-faster-training-performance-of-llms/articleshow/103202968.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-launches-ai-chip-to-handle-faster-training-performance-of-llms/articleshow/103202968.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-103203041/103203041.jpg",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-launches-ai-chip-to-handle-faster-training-performance-of-llms/amp_articleshow/103202968.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-launches-ai-chip-to-handle-faster-training-performance-of-llms/amp_articleshow/103202968.cms",
+      "publishedDateTime": "2023-08-30T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-tech-war-china-exploring-ways-to-make-its-own-ai-memory-chips-despite-us-sanctions-sources-say.md",
+      "title": "Tech war: China exploring ways to make its own AI memory chips despite US sanctions, sources say",
+      "excerpt": "China is exploring ways to produce its own high-bandwidth memory (HBM), the next-generation of memory chips tailored for artificial intelligence (AI) processors, as it pushes ahead with a semiconductor self-sufficiency drive amid US sanctions, industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3232572/tech-war-china-exploring-ways-make-its-own-ai-memory-chips-despite-us-sanctions-sources-say",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3232572/tech-war-china-exploring-ways-make-its-own-ai-memory-chips-despite-us-sanctions-sources-say",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/28/89c22c98-89dc-4375-961d-4890592a1140_dbf13453.jpg?itok=q1LwE16L&v=1693216774",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-loom-launches-ai-upgrades-to-maintain-lead-async-communication-space.md",
+      "title": "Loom Launches AI Upgrades To Maintain Lead Async Communication Space",
+      "excerpt": "Video messaging platform Loom unveiled several generative-AI focused upgrades this week, as it aims to stay ahead of the competition in the red-hot asynchronous",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/30/loom-launches-ai-upgrades-to-maintain-lead-async-communication-space/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/30/loom-launches-ai-upgrades-to-maintain-lead-async-communication-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64eed1d70a6722fa073b0616/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/30/loom-launches-ai-upgrades-to-maintain-lead-async-communication-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/30/loom-launches-ai-upgrades-to-maintain-lead-async-communication-space/amp/",
+      "publishedDateTime": "2023-08-29T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-gpunet-raises-500k-from-momentum-6-alphablockz-nvidia-backs-testnet-launch.md",
+      "title": "GPU.Net Raises 500K from Momentum 6 & Alphablockz. Nvidia Backs Testnet Launch",
+      "excerpt": "Backed by a substantial $500,000 investment from Momentum 6 & Alphablockz, GPU.Net is empowered to take its ambitions to new heights. This infusion of capital not only validates the platform's potential but also enables the team to enhance their efforts in creating a robust infrastructure that meets the global GPU resource challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gpu-net-raises-500k-from-momentum-6-alphablockz-nvidia-backs-testnet-launch-1032590957",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gpu-net-raises-500k-from-momentum-6-alphablockz-nvidia-backs-testnet-launch-1032590957",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsroom.submitmypressrelease.com/system/media_files/images/000/042/685/original_jpeg/image.jpg",
+          "width": 936,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T22:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-precision-and-progress-surgical-robots-drive-growth-in-the-global-healthcare-robotics-market.md",
       "title": "Precision And Progress: Surgical Robots Drive Growth In The Global Healthcare Robotics Market",
       "excerpt": "Continuresearch and development efforts in healthcare robots result in technological advances and new inventions. From better imaging and sensors to the incorporation of artificial intelligence and machine learning, these advancements improve the ...",
@@ -868,299 +1152,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-alphabet-moonshots-are-ready-for-launch.md",
-      "title": "Alphabet moonshots are ready for launch",
-      "excerpt": "Alphabet is poised to welcome the autumn harvest. Ruth Porat, the web search giant’s chief financial officer and a former technology investment banker at Morgan Stanley , will move into a new role next month that includes overseeing “other bets,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/breakingviews/alphabet-moonshots-are-ready-launch-2023-08-29/",
-      "originalUrl": "https://www.reuters.com/breakingviews/alphabet-moonshots-are-ready-launch-2023-08-29/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/6BZ_M1xmfmKf-naYUfDkr3m-TnI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7WGL4ZKKPBKZ5LNRR4IRTVLA4Q.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft.md",
-      "title": "Delafield-based AI startup Synthetaic announces strategic partnership with Microsoft",
-      "excerpt": "Delafield-based artificial intelligence startup Synthetaic announced this week a new strategic partnership with Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/",
-      "originalUrl": "https://biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.biztimes.com/2023/04/News-Interview-Corey-Synthetaic-0053.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/?amp",
-      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/?amp",
-      "publishedDateTime": "2023-08-29T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTimes",
-        "domain": "biztimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-10-great-colleges-for-studying-artificial-intelligence.md",
-      "title": "10 Great Colleges For Studying Artificial Intelligence",
-      "excerpt": "The debut of ChatGPT in November created angst for college admission officers and professors worried they would be flooded by student essays written with the undisclosed assistance of artificial intelligence. But the explosion of interest in AI has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simtumay/2023/08/29/10-great-colleges-for-studying-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/simtumay/2023/08/29/10-great-colleges-for-studying-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e6631830146af009b191e9/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-ai-bros-are-at-war-over-declarations-that-googles-upcoming-gemini-ai-model-smashes-openais-gpt-4.md",
-      "title": "AI bros are at war over declarations that Google's upcoming Gemini AI model smashes OpenAI's GPT-4",
-      "excerpt": "Declarations that Google's upcoming Gemini AI model outflanks OpenAI's GPT-4 set the tech world alight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8",
-      "originalUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64edd5319664cf0019e7f4fa?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp",
-      "publishedDateTime": "2023-08-29T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-deepmind-says-it-has-a-way-to-identify-ai-imagesbut-only-on-google.md",
-      "title": "DeepMind Says It Has a Way to Identify AI Images...but Only on Google",
-      "excerpt": "We may earn a commission from links on this page. DeepMind says its SynthID system can install a watermark on AI images that won’t be removed via color filters or other image manipulation.Image ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/deepmind-ai-watermark-duet-google-cloud-next-1850783568",
-      "originalUrl": "https://gizmodo.com/deepmind-ai-watermark-duet-google-cloud-next-1850783568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c6ebab563b7a7c1816be76efed12c4d6.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-artificial-intelligence-ai-in-cancer-diagnostics-market-to-surpass-usd-208434-million-by-2032.md",
-      "title": "Artificial Intelligence (AI) in Cancer Diagnostics Market to Surpass USD 2,084.34 Million by 2032",
-      "excerpt": "Ottawa, Aug. 29, 2023 (GLOBE NEWSWIRE) -- The global artificial intelligence (AI) in cancer diagnostics market revenue is projected to reach around USD 1,466.72 million by 2029, a Study published by Towards Healthcare a sister firm of Precedence Research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/g34095294/artificial-intelligence-ai-in-cancer-diagnostics-market-to-surpass-usd-2-084-34-million-by-2032",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/g34095294/artificial-intelligence-ai-in-cancer-diagnostics-market-to-surpass-usd-2-084-34-million-by-2032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34095294",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34095294",
-      "publishedDateTime": "2023-08-29T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

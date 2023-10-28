@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/10/25/wanted-people-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/10/25/wanted-people-to-fill-in-the-growing-ai-leadership-vacuum/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How To Fill The Looming AI Talent Gap"
-    excerpt: "For even a casual reader of the news, it would be impossible to miss the fact that generative AI is a big part of this transformation."
-    publishedDateTime: 2023-10-23T19:36:00Z
-    webUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/10/23/how-to-fill-the-looming-ai-talent-gap/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "To Win The AI Race, Invest In Your People"
     excerpt: "Executives must earn the confidence of their organizations by investing in small projects that will serve as proof points for what AI can bring to the table."
     publishedDateTime: 2023-10-27T13:30:00Z

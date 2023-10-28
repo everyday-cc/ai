@@ -9,7 +9,7 @@ ampWebUrl: "https://www.philstar.com/the-freeman/cebu-business/2023/10/27/230691
 cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/the-freeman/cebu-business/2023/10/27/2306914/artificial-intelligence-what-will-it-do-us-2024/amp/"
 type: article
 quality: 59
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Stocks That AI Predicts Will Deliver Triple-Digit Returns in 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While artificial intelligence (AI) has made immense strides, text-based AI"
-    publishedDateTime: 2023-10-23T22:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2024-1032730338"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "What AI Skill Sets Should Your Organization Train And Hire For In 2024?"
     excerpt: "Artificial intelligence is already having an impact on corporate roles across the board. Is your company preparing your workforce accordingly?"
     publishedDateTime: 2023-10-25T12:15:00Z

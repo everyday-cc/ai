@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/samsung-galaxy-s24-ai-camera-feat
 webUrl: "https://www.androidauthority.com/samsung-galaxy-s24-ai-camera-features-zoom-anyplace-3379977/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung allegedly wants the Galaxy S24 to be the 'smartest AI smartphone ever'"
-    excerpt: "An unnamed source says that Samsung wants to one up Google and turn the S24 series into the \"smartest AI smartphones ever.\""
-    publishedDateTime: 2023-10-23T20:40:00Z
-    webUrl: "https://www.androidauthority.com/samsung-galaxy-s24-ai-3378731/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 65
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/01/samsung-galaxy-s23-series-lined-up-ports-pink.jpg"
-        width: 1920
-        height: 1081
-        isCached: true
   - title: "Generative AI like ChatGPT is coming to Samsung’s Galaxy S24"
     excerpt: "Samsung has reportedly prepared plenty of ChatGPT-like AI features for the Galaxy S24 phones - what you need to know."
     publishedDateTime: 2023-10-24T17:59:00Z

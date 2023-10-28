@@ -38,6 +38,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Thinking about artificial intelligence"
+    excerpt: "A recent on-stage discussion between Salesforce chief executive Marc Benioff and OpenAI boss Sam Altman suggested subtly differing attitudes to artificial intelligence. Jason Walsh reports from Dreamf"
+    publishedDateTime: 2023-10-28T15:19:00Z
+    webUrl: "https://www.businesspost.ie/connected/thinking-about-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 37
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=1b411525-ceab-512b-9ae1-995e875cbaca&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=6300&height=3544&x=1.0E-5&y=0.07865"
+        width: 3000
+        height: 1687
+        isCached: true
 
 secured: "BVV0/bWZmNu3tn0obcBAtWMN27A5K2u6M9nJPfjTBTsKToz+GO/epphPcw2XD0T080eQnWigqrL5XyLHJcy86JCki8/r/IP1eKqHJtnjwtMTghR//BnWEK+vIrAqIvWG315CW9SJvESV6bvFj4V94hq9YMG2XrhyAv/KWB4EfmiMfOYoNzoid8a0C50AeTrwtqw6H4gSUD8NSFAeb10ATfnQedWaxaJ5g0kTXUHVmrIejVB7HKzMKqFlOnS7lWWqKLpJ7RpznJoKApAklRcahWGUmrQnDT4U/Hvoi8JPAIG9ormmkwLmJK8XdiiPs5sz8YMoSCjzO9oViRvNQSm/1pVV0HwMPfn0vsJGSCbf/ji0nsrl2tunC+lz79rNnuN+SfgFqG++sN50FpchRfpH1MMsqzWuXHmMBReFcYoUAFkPXZE2V33oy5er+GGDqM7J5NPllMlHkjOjyGj0czjELXiQTrRdituwtLAO6K4s3DnOg4BrVdVG6Jy3KB4RPIxr/NHTPLAL5LKKydzZM+Vorw==;qEss3KdKmS/XNHfRgXdzPQ=="
 ---

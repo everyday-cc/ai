@@ -2,9 +2,9 @@
 category: news
 title: "UK regulators report back on AI and Machine Learning consultation"
 excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
-publishedDateTime: 2023-10-26T12:24:00Z
-originalUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
-webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
+publishedDateTime: 2023-10-26T00:00:00Z
+originalUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
+webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
 type: article
 quality: 36
 heat: -1
@@ -35,6 +35,6 @@ related:
         height: 900
         isCached: true
 
-secured: "V2xQNBM2a1b3CpfAde81nOVEE0auNnGiab/SVPWA7HsfH2FrGYw2ZNEVwyPKxmOSgEgkqKvi2pUIYGtZClCKj8dAs7ItmxLXIxmxHXJSV+e42NrMtZR/TxS3J3FxJxK/ydI2jPjvHscuHHQi05kVBebacWC4j11PMTbJjXA4Qpf8PtBalmE1i7/cZGOKnp3UFu5Vc6oLZ/6y3yQoNwi0gAmnudt2YSVXxGqxgadUvTp1eB8HmdBzs5JqTMLeTf7y3tH1AGgHL2e06GBARWwEnmT2/Wqb4daNF7V1yLb69R/bn371xXTAQGSnkgqS2tEkfQccEJ6cH3luORoHriUGPvv2IhPxogHELjwMarj9urw=;fpdqakNz8Hd2knPefIwjMw=="
+secured: "+dfYhjm/QTBef9B2+7Mi60hD8H442i6Vu4nNQJOfa+/SKl4HyCC3H6ctj/dRdQpsxzqVyVlCwTWpLe903R72xNJDzReURdaMkWvznZF9SxPDYysPHm23E3KCoU6jeDRXOD1nng8mxEehAEZU999jjr4/aiqr2a2OtTgx57VQIQB7JPdLylDKRYz2Q+QVqstKQKafHRcPGEff3BTkIIMamgKH3dsYjAir/AxDvavTiWzJCglTO6e4RtWkkG3I3UF2AHIT7RZGTnSyGbGEW6oWeTNR8aQsiPZZoUf0IW3ToUO4vIUFJe2uFTTMWcfJQ2nt/B3QI5mbyld/qLwSc6UOHjW026cUe4oBkiKZzDbXUfE=;jELLtN/XtO+n15HcMxBz8w=="
 ---
 

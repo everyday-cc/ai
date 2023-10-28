@@ -155,20 +155,6 @@ related:
         width: 971
         height: 630
         isCached: true
-  - title: "Why Generative AI Needs Design"
-    excerpt: "With generative AI, computers gain a new set of capabilities: the ability to understand and generate language, code ... With simple prompts, anyone can translate an idea into a visual prototype that a group can riff on. While imperfect, these AI mockups ..."
-    publishedDateTime: 2023-10-23T21:00:00Z
-    webUrl: "https://www.forbes.com/sites/stevevassallo/2023/10/23/why-generative-ai-needs-design/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6536db33f0c0d8b1f46f464e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1176
-        height: 900
-        isCached: true
   - title: "The new AI imperative: Unlock repeatable value for your organization with LLMOps  "
     excerpt: "The series will examine what makes Generative AI so unique and how it can meet current business challenges, as well as how it drives new forms of collaboration between teams working to build the next generation of apps and services. The series will also ground organizations in responsible AI approaches"
     publishedDateTime: 2023-10-26T16:00:00Z
@@ -351,15 +337,6 @@ related:
       name: JD Supra
       domain: jdsupra.com
     quality: 34
-  - title: "Moody's and Google Cloud Partner on Generative AI Applications Tailored for Financial Services Professionals"
-    excerpt: "\"Through this partnership, research teams at Moody's and Google Cloud will collaborate on fine-tuned LLMs and AI applications that will enable financial service professionals to produce new, proprietary insights faster than ever before.\" \"Our collaboration ..."
-    publishedDateTime: 2023-10-23T19:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/moody-s-and-google-cloud-partner-on-generative-ai-applications-tailored-for-financial-services-professionals-1032730108"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
   - title: "Aprimo Leads Next Generation of Collaboration with Groundbreaking AI-Powered Innovations"
     excerpt: "This pragmatic approach empowers businesses of all sizes to advance into a future characterized by enhanced collaboration and innovation.” A pivotal element of this journey is the launch of Content Collaboration,"
     publishedDateTime: 2023-10-25T13:00:00Z

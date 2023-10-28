@@ -95,17 +95,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Venture initiative extended to robotics and AI"
-    excerpt: "A venture funding initiative at Edinburgh University has been expanded into robotics and artificial intelligence and has developed a partnership with the National Robotarium at Heriot-Watt."
-    publishedDateTime: 2023-10-23T22:01:00Z
-    webUrl: "https://dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
-    ampWebUrl: "https://dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
-    cdnAmpWebUrl: "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
-    type: article
-    provider:
-      name: dailybusinessgroup
-      domain: dailybusinessgroup.co.uk
-    quality: 69
   - title: "Artificial Intelligence and the Role of Appellate Counsel"
     excerpt: "This perspective is based on a query the author gave to his Appellate Advocacy class concerning artificial intelligence and the role of appellate counsel, especially for indigent defendants."
     publishedDateTime: 2023-10-26T14:07:00Z
@@ -128,7 +117,7 @@ related:
     provider:
       name: Truckinginfo
       domain: truckinginfo.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/blogpost/2023-10/pexels-google-deepmind-hdt-truck-tech-__-1200x630-s.jpg"
         width: 1120
@@ -161,6 +150,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "The future of artificial intelligence – a future I helped create – keeps me up at night"
+    excerpt: "AI capabilities are advancing so quickly, they could surpass us in a matter of years, says . But we have a moral responsibility to both protect our society and reap the benefits, and Canada should pla"
+    publishedDateTime: 2023-10-28T08:00:00Z
+    webUrl: "https://www.theglobeandmail.com/opinion/article-the-future-of-artificial-intelligence-a-future-i-helped-create-keeps/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 11
 
 secured: "+p7Y4q+S5SZl4iiKzrwJyjjX1tUnaAbO36DUNtWPBOeQ/VNkckJ/PVKIrQb5ooFFWVKRdwhDAiuB0sBFiCHzZMRqxs8ty9uUtqVL/Wxdnq3PtijRQXmYAlO/BQZXfyEt/RPf703i3ossOCO27QQV/68pCxVWdWRU/xD2jRSmsYY0rNZrGJMnsN4zMZTjlmS47JX9BHo55hJ3ZVYBDDpMG1c6JsrgXFWyz7Q5HakwenRsQ41Y8Oy6Q/GfNER14xcayOa6O8n9ubMG8d7CrxxsX5F0U6E9LBFK7Z+SGyemzV6w0Bv5BjEFKYkDJwMmU+HIhmOSzXUbBpWQMYjPtSSL3d4p3ZZeCwxHQDT79Y6UVak=;/IPD49K7TdumErHKXJaHtQ=="
 ---

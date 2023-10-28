@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/10/NVIDIA-Eureka-Key-Visual.png?w=1200&strip=all"

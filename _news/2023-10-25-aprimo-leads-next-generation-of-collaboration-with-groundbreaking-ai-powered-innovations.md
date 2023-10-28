@@ -151,20 +151,6 @@ related:
         width: 971
         height: 630
         isCached: true
-  - title: "Why Generative AI Needs Design"
-    excerpt: "With generative AI, computers gain a new set of capabilities: the ability to understand and generate language, code ... With simple prompts, anyone can translate an idea into a visual prototype that a group can riff on. While imperfect, these AI mockups ..."
-    publishedDateTime: 2023-10-23T21:00:00Z
-    webUrl: "https://www.forbes.com/sites/stevevassallo/2023/10/23/why-generative-ai-needs-design/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6536db33f0c0d8b1f46f464e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1176
-        height: 900
-        isCached: true
   - title: "Honor's Magic 6 Phone Teased With Generative AI and Eye-Tracking"
     excerpt: "The new chip will allow Magic 6 owners to tap into generative AI wherever they are, even offline. The buzz around generative AI tools started last November when OpenAI released ChatGPT. Since then, companies like Google and Microsoft have been in a rush to ..."
     publishedDateTime: 2023-10-25T21:42:00Z
@@ -361,15 +347,6 @@ related:
       name: JD Supra
       domain: jdsupra.com
     quality: 34
-  - title: "Moody's and Google Cloud Partner on Generative AI Applications Tailored for Financial Services Professionals"
-    excerpt: "\"Through this partnership, research teams at Moody's and Google Cloud will collaborate on fine-tuned LLMs and AI applications that will enable financial service professionals to produce new, proprietary insights faster than ever before.\" \"Our collaboration ..."
-    publishedDateTime: 2023-10-23T19:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/moody-s-and-google-cloud-partner-on-generative-ai-applications-tailored-for-financial-services-professionals-1032730108"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
   - title: "Synechron Enhances Financial Risk Identification and Mitigation With New Artificial Intelligence-empowered RiskTech.AI Accelerators Program"
     excerpt: "Through research and development initiatives in our FinLabs we develop solutions for modernization, from Artificial Intelligence and Blockchain to Data Science models, Digital Underwriting, mobile-first applications and more. Over the last 20+ years ..."
     publishedDateTime: 2023-10-26T09:11:00Z

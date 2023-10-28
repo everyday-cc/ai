@@ -7,7 +7,7 @@ originalUrl: "https://www.dailymail.co.uk/news/article-12655261/Elon-Musk-Tesla-
 webUrl: "https://www.dailymail.co.uk/news/article-12655261/Elon-Musk-Tesla-crashes-deaths-faked-promo-video-lawsuits-TOM-LEONARD.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,51 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "DOJ subpoenas Tesla in probes of AutoPilot and driving range estimates"
-    excerpt: "According to Reuters, demand for Tesla vehicles could drop if interest rates keep rising, and Tesla could incur further losses if pressure remains to decrease prices to remain competitive. That's partly why Tesla shareholders have pushed Musk to consider investing more in advertising efforts that could spike demand."
-    publishedDateTime: 2023-10-23T20:25:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/"
-    ampWebUrl: "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1250863346-800x534.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Tesla Faces Automated Driving Rival in Geely and Baidu EV"
-    excerpt: "Competition is intensifying in China's automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc."
-    publishedDateTime: 2023-10-28T01:00:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 74
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/10/28/1600x900/tesla_ap_1698454433725_1698454450395.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Tesla Faces Automated Driving Rival in Geely and Baidu EV"
-    excerpt: "Competition is intensifying in China’s automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc."
-    publishedDateTime: 2023-10-27T15:38:00Z
-    webUrl: "https://www.bnnbloomberg.ca/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-1.1990420"
-    ampWebUrl: "https://www.bnnbloomberg.ca/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-1.1990420.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-1.1990420.amp.html"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 54
 
 secured: "cRjxlk+HTJolNaQ9uZxhkdmoNUTmnyrs2Awp6gKMdoAmoCLQihIHbGnJQ5akR6t3MSdWa+yMEO4npBASYD9L+ulfaWeR4eC8vDMvoVIWohxFrOJ7g8aXHxd/4c5ipg6lQKoTEtmIf1+BtI75PBoqVYP6PXSqsFXoxa6MqNveXQvWE7dIVvRFXxjL1v4Wv3N8iglRuGjL/++FRzZSws3uahm51ULhLFJoOn6lqyGk+18803IAMw5xPHBUza+ANMG3jJR3UiU+VoM+zpFiiYw3/Cce+VLAHNZRWQhBn3N/lm6N9O+sqtcAblSOkJfcv7dqyVO491CA2IOUUpIJZznVT1aP87NjIDqOLsvU6XZTgIK713cgeA4ZKY8u/UikklY/gr6yrD1j1SaXMzwJFgJtoHFwG74BvNyeFS4AisIA7TIwHAELTj/G1BgqJbtt5miphoxWXUUZ+ZfYhd7+wXK1dqNJhlFEpvDzuN7h4KJPOoSOY0A4HdkDZB8jZSB9DBhV3GyRfRzGZz3S9+xgRmWFBg==;9FAch/UEqqz6EVWjeeon+A=="
 ---

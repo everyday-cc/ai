@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/safety-security/google-ai-security-
 webUrl: "https://blog.google/technology/safety-security/google-ai-security-expansion/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Basis Secures $3.6 Million to Bring AI to Accounting Firms"
-    excerpt: "Basis is an AI platform for accounting firms. Basis sits alongside existing software and gives accountants a team of AI assistants to streamline workflows, helping firms improve the quality and efficiency of their work. The company was founded in 2023 by Mitchell Troyanovsky and Matthew Harpe."
-    publishedDateTime: 2023-10-23T21:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/23/9903664.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "sPd26fsEmeRDFmdIdng34Jw7QA7XicUjockffdV5itr3xW5Cdr6sFC+V9V6vKr1iZBKKFxOQixTtboSR+tjIIywwpWJzzXiSu3JPke3mPbjoqkUXzwf9WNRbaGJ1qu4lPUfa+spHjDjxQSxFLwM1NULz0lUHAq6Lv2jLhP4iR74jq9bTwgB6Gna2qrL/9PLRcz4Zr5NPu21FkMRhyEHGPNb9UiCRyIIwf6d5w7Ym9XfvHSG5d8d7LnnYc7uzG6GObuY9Swz91+QV4N29Ov4J1RbROXpFjfIgXoIevyFsdugCTjIoBwBy7l9icUm1/UySvdMacaZ1foX1yoc3W89wvfjjQYyg8Q0cf0tHruRSEfY=;MSHTfHMY86cuO4nxfj3OYw=="
 ---

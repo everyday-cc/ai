@@ -38,15 +38,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Apple Ready To Spend Billions To Catch AI Leaders: Report"
-    excerpt: "Apple execs apparently were caught off guard by the AI fever gripping the industry and have been scrambling since late last year in an effort to play catch-up with first movers in the technology."
-    publishedDateTime: 2023-10-24T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/apple-ready-to-spend-billions-to-catch-ai-leaders-report-178729.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 19
 
 secured: "tOQ62u68UOq1Eq1QgMthdn+TPSfzN8mgCe5pPooKXyaEAF8Ie/bk+x+tf/AExGkYXEd/fCl+sFvdjXRezWkJuNMJFKwPH9p0Lc6TAuHt54KZt66AyC+bRbWPMpojWHmbV1XWZfTWj84w50OXp1wyW/2ijGrOBlgRHxSfbZ+BwKaLPvTNgNml0arwu9cQPJuYm5Mm+R8oHVLf+zUOAfSoblYSG92jP4fLoxchLKvfjuIkZ52uqfTPZvx6X5vAsVeiXhTmFtjnHwbUZdIQd179vBxPpL4W44sl8YJ7MBtQPh/dHqORqDxV/rHqyEYrQeeSYAOhKMfiAIpROBJvCfjRRQDreWcC70YMgnDzaeI1QX5qZeZel0Xd9ZAV1DGl3R2H/B5ToutU13zpOCmGRA0ueF2MEw/GjdhAEBFmRrljfp3D6SGvuv0ILGv8cBWuLt8EL643XJt59cCmWvOLX8J++/ggQmVnuVj8eiolJLmf4Vt6/v+5lq4YCn+KuTwmt5MyicXRC/iha3zQxVOoRpX3CA==;KZFd6vunixlbWyn8ALEJug=="
 ---

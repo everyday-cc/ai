@@ -2,6 +2,126 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-05-using-artificial-intelligence-scientists-develop-self-driving-microscopy-technique.md",
+      "title": "Using artificial intelligence, scientists develop self-driving microscopy technique",
+      "excerpt": "Inspired by this notion, scientists are harnessing the power of artificial intelligence (AI ... Argonne National Laboratory have developed an autonomous, or self-driving, microscopy technique. It uses AI to selectively target points of interest for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=63783.php",
+      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=63783.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nanowerk.com/news2/robotics/id63783_1.jpg",
+          "width": 534,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023.md",
+      "title": "The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023",
+      "excerpt": "The post The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023 appeared first on InvestorPlace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023",
+      "originalUrl": "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-driverless-cars-are-multiplying-on-texas-roads-heres-what-you-should-know.md",
+      "title": "Driverless cars are multiplying on Texas roads. Here’s what you should know.",
+      "excerpt": "Here’s what you need to know about driverless vehicles in Texas ... The data from these sensors feed the car’s artificial intelligence brain in real time, enabling it to make decisions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.texastribune.org/2023/10/05/texas-driverless-cars-autonomous-vehicles-cruise/",
+      "originalUrl": "https://www.texastribune.org/2023/10/05/texas-driverless-cars-autonomous-vehicles-cruise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbnails.texastribune.org/3_yawwd97JZ2d2F_jbDy8Tc3cw4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/e351a86d0a0f9d690b1f766810f9f8c3/0926%20Driverless%20Cars%20TT%20JS%2006.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Texas Tribune",
+        "domain": "texastribune.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-china-leads-way-with-self-driving-vehicle-tech.md",
       "title": "China leads way with self-driving vehicle tech",
       "excerpt": "There are reports that Tesla, a global leader in autonomous driving, could be getting ready to test its full self-driving technology in China. The company is forming a 20-member operation team to promote and deploy its proprietary full self-driving technology in the country and has already dispatched engineers from its headquarters for training.",
@@ -1255,136 +1375,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-the-future-of-artificial-intelligence-in-the-travel-industry.md",
-      "title": "The Future of Artificial Intelligence in the Travel Industry",
-      "excerpt": "Artificial intelligence (AI) is disrupting the travel industry by promoting speed, efficiency, safety and accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/the-future-of-artificial-intelligence-in-the-travel-industry",
-      "originalUrl": "https://www.bbntimes.com/technology/the-future-of-artificial-intelligence-in-the-travel-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Future_of_Artificial_Intelligence_in_the_Travel_Industry.jpg",
-          "width": 1280,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-driverless-ice-cream-trucks-3d-avatar-booths-hangzhou-shows-off-tech-innovations-at-asian-games.md",
-      "title": "Driverless ice cream trucks, 3D avatar booths: Hangzhou shows off tech innovations at Asian Games",
-      "excerpt": "The city of 12 million is using the Asian Games as a window to showcase China’s cutting-edge technologies, including big data, artificial intelligence, and virtual reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/asia/asian-games-hangzhou-technology-innovation-3797816",
-      "originalUrl": "https://www.channelnewsasia.com/asia/asian-games-hangzhou-technology-innovation-3797816",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--DOOQoOm4--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/26/screenshot_2198.png?itok=8MYxyMd8",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-spotify-wont-ban-ai-music-tesla-robot-can-now-do-yoga.md",
-      "title": "Spotify won’t ban AI music, Tesla robot can now do yoga",
-      "excerpt": "Share The boss of Spotify says he has no plans to completely ban content created by artificial intelligence from the music streaming platform. Earlier this year the platform pulled a […]",
-      "sourceUrl": null,
-      "webUrl": "https://www.techdigest.tv/2023/09/spotify-wont-ban-ai-music-tesla-robot-can-now-do-yoga.html",
-      "originalUrl": "https://www.techdigest.tv/2023/09/spotify-wont-ban-ai-music-tesla-robot-can-now-do-yoga.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techdigest.tv/wp-content/uploads/2023/09/Optimus-.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Digest",
-        "domain": "techdigest.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

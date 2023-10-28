@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Massive facial recognition search engine now blocks searches for children’s faces"
-    excerpt: "PimEyes, a public search engine that uses facial recognition to match online photos of people, has banned searches of minors over concerns it endangers children, reports The New York Times."
-    publishedDateTime: 2023-10-23T22:24:00Z
-    webUrl: "https://www.theverge.com/2023/10/23/23929271/pimeyes-facial-recognition-ai-children-privacy"
+  - title: "Major UK retailers urged to quit ‘authoritarian’ police facial recognition strategy"
+    excerpt: "Human rights campaigners say the Pegasus initiative wrongly criminalises people of colour, women and LGBTQ+ people"
+    publishedDateTime: 2023-10-28T14:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 64
+      name: The Guardian
+      domain: theguardian.com
+    quality: 68
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/BGiV0yH1fr1ml6eEI_3eQoyyx0g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22512651/acastro_210512_1777_deepfake_0003.jpg"
-        width: 1200
-        height: 628
+      - url: "https://i.guim.co.uk/img/media/dffbee9c5f049baaeeed939ac4528da0e9dc68f8/0_128_3840_2304/master/3840.jpg?width=620&quality=85&auto=format&fit=max&s=8b6272dc0108bbd9094cf3fa37774e85"
+        width: 620
+        height: 372
         isCached: true
   - title: "Police force trials facial recognition technology"
     excerpt: "Facial recognition technology can be used by police to scan large groups of people and by running photos through an image database known as a \"watch list\". Chris Philp, MP for Croydon South and minister for crime, policing and fire said the technology was being used by the Metropolitan Police at large events such as football matches."
@@ -54,38 +56,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9b65/live/d1e43770-7370-11ee-8623-0398dceccf41.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "TTD introduces facial recognition for employees"
-    excerpt: "The Tirumala Tirupati Devasthanams (TTD) management formally introduced Facial Recognition System (FRS) for its employees at its administrative building on Thursday. Executive Officer A.V. Dharma Reddy, who formally launched the system, announced that the ..."
-    publishedDateTime: 2023-10-27T01:55:00Z
-    webUrl: "https://www.thehindu.com/news/national/andhra-pradesh/ttd-introduces-facial-recognition-for-employees/article67462205.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/andhra-pradesh/ttd-introduces-facial-recognition-for-employees/article67462205.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/ttd-introduces-facial-recognition-for-employees/article67462205.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th-i.thgim.com/public/migration_catalog/53lqo4/article51151968.ece/alternates/FREE_1200/HY27-TPT_GED6NGTLG.1%2BHY27-TPT.jpg"
-        width: 1200
-        height: 882
-        isCached: true
-  - title: "Australian federal police tested controversial facial recognition search engine, FOI documents reveal"
-    excerpt: "Exclusive: The AFP told Senate estimates it is now aware the PimEyes and FaceCheck.ID platforms may have been tested for operational purposes on around 10 occasions The Australian federal police have tested a controversial facial recognition search engine ..."
-    publishedDateTime: 2023-10-24T00:56:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/oct/24/australian-federal-police-afp-pimeyes-facial-recognition-facecheck-id-search-engine-platform"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/24/australian-federal-police-afp-pimeyes-facial-recognition-facecheck-id-search-engine-platform"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/24/australian-federal-police-afp-pimeyes-facial-recognition-facecheck-id-search-engine-platform"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 44
-    images:
-      - url: "https://i.guim.co.uk/img/media/f591462e6065a76b1337826ff063af5b2b490c82/0_0_3186_1912/master/3186.jpg?width=620&quality=85&auto=format&fit=max&s=43d6ac665c02d55854e5ff650b15dac8"
-        width: 620
-        height: 372
         isCached: true
 
 secured: "AReuQ1PhX3TzzYlQGl66POHhta8M9Gzh75M/VnogueGRJv5H045W/fsQ3BdKGSNOMzprCg3cIcnW7s7IHBiREBWY0WKd5rSCXzS7v/nV7BMM6wemy7PA7AzmJI6veq9kq5HNRx0oKpVMD51gO0sTWtDUd69SoeSi0nw8OOgWYeGQEjv2I96nCt5R2ZxcYaby4htEveUafXLRDecFBNSlB/m+D1C2vHRYORLAsO9xm4tWdv4Mp6Ue0Hm0gKOKa0A4ZTjIIlNMFV+C/Nn+irpy36HogFEYXafyWjam01GP7twMUAgdvPWoOeGSfZuHP+Uq3YNx7yWLYTVALTKoDhlZRWMKITtrStrJiUnSfficIb78/byER8SUX0fNeITkOjOfxFUSLVteX4Re7P8U0WQSZ1uhFwYsWwal+nRD3x7n+YVFSuWo4V0H1mT3KQ0hJTFfaSfLCGFYysEy7f7o0g32d1K0WODGlyL0O3dTOZB6enOKkkFVWSqNadkivaliKJ6Z9WEWrBKy44mRutOx+olLKQ==;rb5Z3xND04zybDNr+Re3JQ=="

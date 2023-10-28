@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/openai-assembles-team-of-experts-to-
 webUrl: "https://www.zdnet.com/article/openai-assembles-team-of-experts-to-fight-catastrophic-ai-risks-including-nuclear-war/"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI AI safety measures for advanced artificial intelligence systems"
+    excerpt: "The creation of advanced artificial intelligence (AI) systems brings with it a host of opportunities, but also significant risks. In response to this, OpenAI has embarked on the development of AI safety measures and risk preparedness for advanced ..."
+    publishedDateTime: 2023-10-27T07:47:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-ai-safety-measures/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 52
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/AI-safety-measures-for-advanced-artificial-intelligence-systems.jpg"
+        width: 1280
+        height: 832
+        isCached: true
   - title: "Google expands bug bounty program to include rewards for AI attack scenarios"
     excerpt: "The tech giant issued over $12 million in rewards to security researchers as part of its bug bounty program in 2022."
     publishedDateTime: 2023-10-27T06:20:00Z

@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Money20/20 unveils fintech intelligence platform for investors"
-    excerpt: "Money20/20, the world’s leading fintech show and the place where money does business, is launching Twentyfold at Money20/20 USA in Las Vegas held on October 22-26."
-    publishedDateTime: 2023-10-23T20:40:00Z
-    webUrl: "https://www.finextra.com/pressarticle/98506/money2020-unveils-fintech-intelligence-platform-for-investors"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "PdRpiSa2gNTzKcIweRk9TKsn4kturw3qK4mWzTgwmRtom8m2K/JFet5S8HY3Kwqt7gwWJLOQwaJZzR4TqdOT2wMWsJEOWT7pVpIM/AK/AONz+FbnEWiR+rEbYOOntJFlnZoe23AfcwI2bMo1PrTiQ/YCWKG/V9xiJFRqpglE9DbQCJgy2SFugGMDHSGez20+24WW8Hjm893GOa/O2wUREwN/y+QKdfPoFsFZL6CEUmDGSZ1jfajyGx0Rfy+PCvfJu29bs7ZHq4dZe4nn0mGTYGQWbt4PqOsT00tJAJXo2+iCcunWQ6ljiA2NHZh30YcbKMtVFmGg1vHT4VnO3TMtA/D64THRJJR6g3xxENZPec3jx5hwWgxZoB86DDFj3bKApW/9ew9x14tnUiUt9BXiblE5+LhGljOOUAzHEoBs4JaLd6Hc0upJZiEQ0i9cbIEdgazZgb+/16bP0am3KUQFgP1jSTolqN2pT7PwgsYSm+zT+F6g925qvCzoy3zTo6h0ShV8Pbikd/fF0ljxM7BdSg==;sfx/6w+CHAtwoAnVkiDHIw=="
 ---

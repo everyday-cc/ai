@@ -71,20 +71,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "FCC Wants to Fight Robocalls With Artificial Intelligence"
-    excerpt: "The one thing I know about any battle is you’ve got to go in with optimism,” the FCC chairwoman told AARP. “And so at this point while everyone is talking about AI and th"
-    publishedDateTime: 2023-10-23T22:56:00Z
-    webUrl: "https://www.aarp.org/money/scams-fraud/info-2023/fcc-ai-robocalls.html"
-    type: article
-    provider:
-      name: AARP
-      domain: aarp.org
-    quality: 37
-    images:
-      - url: "https://cdn.aarp.net/content/dam/aarp/home-and-family/personal-technology/2023/10/1140-aarp-fcc-chat.jpg"
-        width: 1140
-        height: 655
-        isCached: true
 
 secured: "3CyLHolxVYZ10vyVJgOAfx2OWsDaf7t8ab49Cec+ntDxzN545ivAGax6U62ArU7FPyPy39hIBAlLCUSI/00dl4lUs5ebMd0ZtnBoMApCsBOhiZc054Nf6e2dvEkchVyTrSyXuhn7xbDzgJHbf2Y0BKWSMpuBerTFv0td79SCmpEPyv4Bxysw/430IBUsjEmdnyvLdFZdfZrvcmcSca9Yy6TGXcvyjNxBvRf35N90VPwZBeBGdYUuRWyTHt85tTd53umm+3C0pPlv+ImRVS6rHV0pbw+emSsBD5o3IBGFLrOo0ir4DfnmVZOevQiQqT9eP+cRu03pAPy7T8sl8zg2LaCNUgKL9SJtu+I/NMwTLOOOPYC2aoCeB7p1EtL+AIUWUeB70RgvV1irXGc3/c10s/trdf5Ny1rsk7PMqrlg+QUCoI4oiEig8ew7bLAMxIbaCbKscFTUMyF9LlwhvPNVcYFm8IOhl3nFnK73jXFUkR7IPyxCIi6kDpNHdgx27cVc2XojX/8fpjdDqx3D2slpmQ==;wwnJoxfwgJq+078EEibpDw=="
 ---

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-26-can-a-simple-eye-exam-help-diagnose-autism.md",
+      "title": "Can a simple eye exam help diagnose autism?",
+      "excerpt": "Females are often underdiagnosed with being on the autism spectrum because they often mask their symptoms more successfully than males. The key to understanding why may be in a simple eye exam.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-09-simple-eye-exam-autism.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-09-simple-eye-exam-autism.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/can-a-simple-eye-exam.jpg",
+          "width": 1524,
+          "height": 1966,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-09-simple-eye-exam-autism.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-09-simple-eye-exam-autism.amp",
+      "publishedDateTime": "2023-09-25T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-ai-in-computer-vision-market-size-new-report-forecast-report-2023-2031.md",
       "title": "AI in Computer Vision Market Size (New Report) Forecast Report 2023-2031",
       "excerpt": "Short Summery About AI in Computer Vision Market: The AI in Computer Vision market has witnessed a growth from USD million to USD million from 2017 to 2023. With a CAGR of Persent, this market is ...",
@@ -1207,40 +1250,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-09-14T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-wrongly-arrested-because-of-facial-recognition-why-new-police-tech-risks-serious-miscarriages-of-justice.md",
-      "title": "Wrongly arrested because of facial recognition: Why new police tech risks serious miscarriages of justice",
-      "excerpt": "She later learned police identified her as a suspect after running security footage through the department’s facial recognition software, relying on a 2015 mugshot from a past traffic arrest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/news/world/americas/crime/facial-recognition-technology-police-arrests-b2402940.html",
-      "originalUrl": "https://www.independent.co.uk/news/world/americas/crime/facial-recognition-technology-police-arrests-b2402940.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T17:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Independent",

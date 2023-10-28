@@ -1,0 +1,29 @@
+---
+category: news
+title: "Artificial intelligence poses risks in public policymaking"
+excerpt: "The public needs to be educated about AI risks in public policy. In the absence of regulation, organizations must emphasize ethics and the common good."
+publishedDateTime: 2023-10-28T15:02:00Z
+originalUrl: "https://iowacapitaldispatch.com/2023/10/28/artificial-intelligence-poses-risks-in-public-policymaking/"
+webUrl: "https://iowacapitaldispatch.com/2023/10/28/artificial-intelligence-poses-risks-in-public-policymaking/"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: Iowa Capital Dispatch
+  domain: iowacapitaldispatch.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://iowacapitaldispatch.com/wp-content/uploads/2023/10/empty-jail-cell-with-open-door.jpg"
+    width: 1000
+    height: 680
+    isCached: true
+
+secured: "N55JyvxTfSjPlF/3t/iWTNp3Eg5S2cj+5/yQ+jQl5Z0Nj8KNypCwmodw03Dgi2pyYDiWgUlp0RNsCeJOYRmPwLLH8brRNof2UgqswZZrctACUa0+VNwjWFQmTTPEODN3HvRfF/j8paKUmqdSMxv8e3rPhoT3ZQHb0eTWZKWBB+RUuXQJdsYPTr6WfohVn48bY+Vvo1fPJb+GeokjQ+zVbfFz6hM32aN4x7SPpt5ReZodcqC7E0bu1OuMEV9cnQtVntnUvHSVTuiDFFPLBfXyqxxdLYSv4HS8MTunUNQa8MWpepcsx9X1RLkbTi9s4Hb7eD+HetLO2Tx4m4fGJNRMeu8vTIocN7+0S/qwQjAPJAw=;0rHU5itEYsQzh4PwXqL04w=="
+---
+

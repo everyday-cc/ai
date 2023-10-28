@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/10/23/vast-data-lambda-partner-offer
 webUrl: "https://siliconangle.com/2023/10/23/vast-data-lambda-partner-offer-optimal-cloud-based-ai-training-infrastructure/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Lambda and VAST Data partner to accelerate AI training across public and private cloud, leveraging NVIDIA technology"
-    excerpt: "Dubai, United Arab Emirates – VAST Data, the AI data platform company and Lambda, a leading Infrastructure-as-a-Service and compute provider for public and private GPU infrastructure, today announced a strategic partnership that will enable the world's ..."
-    publishedDateTime: 2023-10-24T07:30:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/lambda-and-vast-data-partner-to-accelerate-ai-training-across-public-and-private-cloud-leveraging-nvidia-technology-yw4kushl"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/lambda-and-vast-data-partner-to-accelerate-ai-training-across-public-and-private-cloud-leveraging-nvidia-technology-yw4kushl?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/lambda-and-vast-data-partner-to-accelerate-ai-training-across-public-and-private-cloud-leveraging-nvidia-technology-yw4kushl?amp=1"
+  - title: "Virtana recognized in eight Gartner® reports for innovation in Infrastructure Monitoring and Artificial Intelligence for IT Operations (AIOps)"
+    excerpt: "PALO ALTO, Calif., Oct. 26, 2023 /PRNewswire/ -- Virtana, a leading provider of Artificial Intelligence (AI)-driven observability for hybrid-cloud infrastructure, today announced that it has been recognized by Gartner 1 across eight recent reports related to infrastructure monitoring, AIOps, and digital transformation."
+    publishedDateTime: 2023-10-26T11:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/26/9905890.htm"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 36
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OGUwODc2N2YtMzFhOC00/0/renen-hallak_ceo_vastdata-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "PxOfN3OPEEg6ROvipp7tEOXLyh4yRM7QbJ2FYp5PZmMT+rCYFmKnpl25ZJtChsOw8+PIcOa+VOMLptvJ39m80yGG9+Z1/DGxmcfVvFOu8sPPX/Ug3f7EMDNVVdOh1TZykNdlgFut9b51opjTWTrWlUzfymaOv2DfJ0CJFqLFbtLLuaE1yYddZs3GaFqW/0So9djRzdQ6Cs2VAkmi2RyIEPtHEhnAkiBiQ+R98OHbWmwRMsUfp+yrrpQqvMMIZDT5MYIjH1zVXUawdNtQ2WEEZGNkhGFOaKVP/elN8W6iB5O9hOgHW+/pSbls5P8l9DNNTrrSpusc1wIyBiaKOVdxF272PkkwdqrbcsZh6XsCJJl1VXwckN7kTQ/GM0O7OG9YFIpJbQJIBl4XI8BSMwwtynGR0lBq9eYTFC339TPo9nxYAHab4Eu/woeVaPizpzHyIGvatzRCIxwxRfhaI0XSwLGep6Y9tD5rJr2dfTWJ+PqcxMWoBH3wwV6Vo3T3XLoDwA7KOH0tcti2JmtxTespgA==;9xyO8ov5Ys92D25XtqFzTw=="
 ---

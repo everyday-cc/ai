@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Shield AI announces multi-year agreement with Sentient Vision to offer AI-enabled real-time situational awareness"
-    excerpt: "A groundbreaking AI technology collaboration between Shield AI, an American defence technology company building the world’s best AI pilot, and Sentient Vision Systems (Sentient), an"
-    publishedDateTime: 2023-10-23T19:20:00Z
-    webUrl: "https://www.suasnews.com/2023/10/shield-ai-announces-multi-year-agreement-with-sentient-vision-to-offer-ai-enabled-real-time-situational-awareness/"
-    type: article
-    provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 18
-    images:
-      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2023/10/shield-AI-sentient.jpg?fit=1200%2C800&ssl=1"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "KHdRuAAMTP0Gn3Qfb2Twlly8qTO45TjivQpxVrXFNcWOgpB5CKyAzbEIhNhCg4SWvXmDV93uNoe8J6jh+kkbaEPxaKV+DL4qyQVhtyp7AXSSt9aznHcwKJc5rRtB+AkWE5AaKUhlzT56Ok5qeYzR3He1T1z4eyHaH/xOpQwV+5oI9q2pgj6UZgds7YAyoi5+UQJ9U9e31UBjkSpRZh5OJOGKESSV1JjFGHJSZliyZ8EljfF+vBTiSJCzC5T/YgB3uqbl7N2eTqw2qSJ3CgYQuH6qe5ji1E/VDEaKofJkFzkcHMwvw60e9ME6B5S5vO6KrQexxsrBBQDczoPOwT8x24h6OxEzMq7V6lU9xx+zjrc=;F3Proz9lPpLUwS/YOMIKog=="
 ---

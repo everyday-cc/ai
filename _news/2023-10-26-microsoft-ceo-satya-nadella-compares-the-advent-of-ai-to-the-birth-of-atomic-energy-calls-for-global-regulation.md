@@ -317,15 +317,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Reddit may block search if it can’t reach an AI deal with Google, Microsoft"
-    excerpt: "On Friday, The Washington Post, as spotted by The Verge, said Reddit \"has met with top generative AI companies about being paid for its data,\" citing an anonymous source. Going further, The Washington Post reported that Reddit is ready to play hard ball:"
-    publishedDateTime: 2023-10-23T19:48:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/10/reddit-may-block-search-if-it-cant-reach-an-ai-deal-with-google-microsoft/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 62
   - title: "Despite the AI hype, Amazon, Microsoft, and Google are seeing cloud growth rates stall as customers try to cut costs"
     excerpt: "Cloud customers are still scrutinizing budgets amid an uncertain economic environment."
     publishedDateTime: 2023-10-26T22:39:00Z

@@ -58,17 +58,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 39
-  - title: "We Used the Meta AI Chatbot to Plan a Trip. Here’s What It Got Wrong."
-    excerpt: "Meta released an AI chatbot for WhatsApp, Instagram, and Facebook Messenger. We tested it for travel planning."
-    publishedDateTime: 2023-10-23T21:33:00Z
-    webUrl: "https://skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/"
-    ampWebUrl: "https://skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 37
 
 secured: "y9uP76HQ7PxnPaQ7QRrROwcjYm91F8h/Dhl11Cp6lXL979wrrkKN8T1fnMtAUiNr7eW+mkytyk/US63oc2eNVrecJb69UHw8dloAJA9HbpbgP0vlDN8L6QyjCFaa+BXHjaMeo6HMtWNDYfaKJ3zzMybAgm2Mre/FQtuwfOVuNyqQu5Sp27+8cUgLHg60ihQR8fokRN+uS/t+viWgNw7lEXLPJHKmfvtAf44jxCd3uGo8nEsv+wRZwmwft0doS0uta4+B9CBlT3Q82MGWEw3wFvuxO0lzJCNDpTzLfk0tpz02CRN+xsnB0HtYrIw+NUhRa/TRlltzIfxGo1B7XUEFNGz6WAUpca0ODbpAO60pugQRBG6mI44zqB8P7cvpkHQ1Hf74g6ZiSQinUifpUkrTKjwtCSJ/yN77wQgAWZZylPVL2DkvpgzZSV8LP3osqJ2s880ETbo3xyOBJ000AajkjJr/nk/tOlaoml+8pY2TkOWxbqU0yvMymQ7749phK821gccNECe0QtQApQU7lNcTYw==;jTRBlQxJ2R9cfeJemtT3AQ=="
 ---

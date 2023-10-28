@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-27T14:30:00Z
 originalUrl: "https://www.truckinginfo.com/10209095/artificial-intelligence-and-the-future-of-trucking"
 webUrl: "https://www.truckinginfo.com/10209095/artificial-intelligence-and-the-future-of-trucking"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/blogpost/2023-10/pexels-google-deepmind-hdt-truck-tech-__-1200x630-s.jpg"
@@ -100,17 +101,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Venture initiative extended to robotics and AI"
-    excerpt: "A venture funding initiative at Edinburgh University has been expanded into robotics and artificial intelligence and has developed a partnership with the National Robotarium at Heriot-Watt."
-    publishedDateTime: 2023-10-23T22:01:00Z
-    webUrl: "https://dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
-    ampWebUrl: "https://dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
-    cdnAmpWebUrl: "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2023/10/venture-initiative-extended-to-robotics-and-ai/"
-    type: article
-    provider:
-      name: dailybusinessgroup
-      domain: dailybusinessgroup.co.uk
-    quality: 69
   - title: "Robotics and artificial intelligence to transform O&M tasks in the energy sector"
     excerpt: "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news"
     publishedDateTime: 2023-10-25T13:17:00Z
@@ -161,6 +151,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "The future of artificial intelligence – a future I helped create – keeps me up at night"
+    excerpt: "AI capabilities are advancing so quickly, they could surpass us in a matter of years, says . But we have a moral responsibility to both protect our society and reap the benefits, and Canada should pla"
+    publishedDateTime: 2023-10-28T08:00:00Z
+    webUrl: "https://www.theglobeandmail.com/opinion/article-the-future-of-artificial-intelligence-a-future-i-helped-create-keeps/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 11
 
 secured: "DKVZXbU+X45DmFhuoi5Aefm0/7cvt5aI/RLeDSqKTwCyM9R7W1lZ8fDWeoZj8EtIk67bkE5VzsX1NQuycRuwXn1fMyx2pGCs96v/JJ6w+veTcOEcw5Jj5pUPjqlTNdMhMeiOcJttIszV2L+THsauoNESh7Ibzraz6TUxVv8KG0SvohUtaksQCCqcXedr05FuaZMoR7rKjvoq6KVa8W69X5xzQcrnMKmUq9KpCV91XYqNo2EhBs+ZjVkgRXPO6KbiywcW2mPxlLiMP7TPsHjS1StSVszkR4LyEC9UEolWCRDj9hxCIKqrwnpA983xG5WZBnYTtTjRghKxJUru8v9q1OcMQrJu9pVox571MPEo858=;56eYq8o+duThkha1fVsQsg=="
 ---

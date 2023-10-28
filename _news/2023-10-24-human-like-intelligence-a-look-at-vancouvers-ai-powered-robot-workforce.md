@@ -7,8 +7,8 @@ originalUrl: "https://www.richmond-news.com/technology/vancouver-robot-vacuum-wo
 webUrl: "https://www.richmond-news.com/technology/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Richmond News
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Book Review: ‘A Brief History of Intelligence’ may help humans shape the future of AI"
-    excerpt: "Answers to those questions and much, much more can be found in the pages of Max Bennett’s new book “A Brief History of Intelligence: Evolution, AI and the Five Breakthroughs that Made Our Brains.” At 365 pages plus 45 more with a glossary, chapter notes and a bibliography, readers can quibble whether it’s indeed brief, but it is certainly thorough."
-    publishedDateTime: 2023-10-23T19:10:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/book-review-brief-history-intelligence-humans-shape-future-104229773"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/book-review-brief-history-intelligence-humans-shape-future-104229773"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/book-review-brief-history-intelligence-humans-shape-future-104229773"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 50
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/wirestory_0a79496c8bff7c06bb320a96122d95a8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "How Artificial Intelligence is Shaping the Future of Programmatic, Thanks to Very Human Intelligence"
     excerpt: "Artificial intelligence (AI) is the hot new topic on everyone’s lips, but when it comes to the programmatic industry, AI is nothing new. Data scientists, tech teams and traders have been harnessing the power of AI for years, using it to shape the future ..."
     publishedDateTime: 2023-10-24T02:26:00Z

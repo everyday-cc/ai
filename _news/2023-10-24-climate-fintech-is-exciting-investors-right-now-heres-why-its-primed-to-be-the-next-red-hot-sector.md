@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Money20/20 unveils fintech intelligence platform for investors"
-    excerpt: "Money20/20, the world’s leading fintech show and the place where money does business, is launching Twentyfold at Money20/20 USA in Las Vegas held on October 22-26."
-    publishedDateTime: 2023-10-23T20:40:00Z
-    webUrl: "https://www.finextra.com/pressarticle/98506/money2020-unveils-fintech-intelligence-platform-for-investors"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "UAE fintech Maly to launch AI-powered tools to boost long-term investment and saving plans in the GCC"
     excerpt: "The startup’s aggressive move comes amid the UAE – as well as Saudi Arabia – kicking off initiatives to implement pension and other financial security plans in the employment sector"
     publishedDateTime: 2023-10-24T10:18:00Z

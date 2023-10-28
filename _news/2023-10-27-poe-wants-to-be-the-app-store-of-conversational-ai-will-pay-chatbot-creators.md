@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/poe-wants-to-be-the-app-store-of-conver
 webUrl: "https://venturebeat.com/ai/poe-wants-to-be-the-app-store-of-conversational-ai-will-pay-chatbot-creators/"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -54,17 +54,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 39
-  - title: "We Used the Meta AI Chatbot to Plan a Trip. Here’s What It Got Wrong."
-    excerpt: "Meta released an AI chatbot for WhatsApp, Instagram, and Facebook Messenger. We tested it for travel planning."
-    publishedDateTime: 2023-10-23T21:33:00Z
-    webUrl: "https://skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/"
-    ampWebUrl: "https://skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 37
   - title: "OCBC launches AI chatbot to support productivity of its employees globally"
     excerpt: "OCBC announced today (Tuesday, 24 October 2023) that it will avail a generative artificial intelligence (AI) chatbot to its 30,000 employees globally in November 2023, which will assist them with writing, research and ideation."
     publishedDateTime: 2023-10-24T13:49:00Z

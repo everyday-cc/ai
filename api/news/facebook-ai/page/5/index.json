@@ -2,6 +2,111 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-09-the-future-of-recruitment-how-to-use-ai-to-make-the-hiring-process-more-inclusive.md",
+      "title": "The Future Of Recruitment: How To Use AI To Make The Hiring Process More Inclusive",
+      "excerpt": "cutting out time-consuming research and simplifying administrative processes. In this way, employees can concentrate on more creative initiatives and focus on becoming experts in their areas. Still, generative AI requires the human touch. While it can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/the-future-of-recruitment-how-to-use-ai-to-make-the-hiring-process-more-inclusive/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/the-future-of-recruitment-how-to-use-ai-to-make-the-hiring-process-more-inclusive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649459616a526619b13cb26b/0x0.jpg?format=jpg&width=1200",
+          "width": 1007,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/09/the-future-of-recruitment-how-to-use-ai-to-make-the-hiring-process-more-inclusive/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/09/the-future-of-recruitment-how-to-use-ai-to-make-the-hiring-process-more-inclusive/amp/",
+      "publishedDateTime": "2023-08-09T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-inside-the-secret-google-deepmind-mafia-of-founders-working-on-new-stealth-ai-startups.md",
+      "title": "Inside the secret Google DeepMind mafia of founders working on new stealth AI startups",
+      "excerpt": "Alphabet's AI research lab DeepMind nurtures the industry's top talent. It's also spawned a wave of secretive new startups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stealth-ai-startups-emerge-from-google-deepmind-2023-7",
+      "originalUrl": "https://www.businessinsider.com/stealth-ai-startups-emerge-from-google-deepmind-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5beb0fed01b12d5fed0bff43?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-ai-is-ruining-the-internet.md",
       "title": "AI is ruining the internet",
       "excerpt": "From way more spam to sneakier scams, AI is going to make even the most basic online tasks more annoying — and unreliable.",

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/amp/"
 type: article
 quality: 87
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -87,6 +87,22 @@ related:
     quality: 44
     images:
       - url: "https://www.livemint.com/lm-img/img/2023/10/28/1600x900/UNVRSL-MUSIC-GRP--ANTHROPIC--0_1698460999211_1698461481777.JPG"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "5 things about AI you may have missed today: AI deepfakes, Google to invest $2 Bn in Anthropic, more"
+    excerpt: "In the first incident, a new report has found that due to the possibility of AI-based deepfakes, people online are questioning even genuine videos and photos that are coming from the ground zero in Gaza."
+    publishedDateTime: 2023-10-28T15:54:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/5-things-about-ai-you-may-have-missed-today-ai-deepfakes-google-to-invest-2-bn-in-anthropic-more-71698508012375.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-ai-deepfakes-google-to-invest-2-bn-in-anthropic-more-71698508012375.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-ai-deepfakes-google-to-invest-2-bn-in-anthropic-more-71698508012375.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 42
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/10/28/1600x900/ai-generated-8311089_1280_1698405624458_1698508082222.jpg"
         width: 1600
         height: 900
         isCached: true

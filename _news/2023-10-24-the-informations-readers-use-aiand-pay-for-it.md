@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Sam Altman on the Future of AI—and How to Navigate the Tricky Path Forward"
-    excerpt: "Open AI’s Altman and Mira Murati say artificial intelligence will be ‘the best tool humanity has yet created,’ but the key will be to manage the transition."
-    publishedDateTime: 2023-10-23T19:28:00Z
-    webUrl: "https://www.wsj.com/tech/ai/sam-altman-openai-future-artificial-intelligence-f3727ba1"
+  - title: "Humans Absorb Bias from AI—And Keep It after They Stop Using the Algorithm"
+    excerpt: "People may learn from and replicate the skewed perspective of an artificial intelligence algorithm, and they carry this bias beyond their interactions with the AI"
+    publishedDateTime: 2023-10-26T11:31:00Z
+    webUrl: "https://www.scientificamerican.com/article/humans-absorb-bias-from-ai-and-keep-it-after-they-stop-using-the-algorithm/"
+    ampWebUrl: "https://www.scientificamerican.com/article/humans-absorb-bias-from-ai-and-keep-it-after-they-stop-using-the-algorithm/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/humans-absorb-bias-from-ai-and-keep-it-after-they-stop-using-the-algorithm/?amp=true"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 65
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 55
     images:
-      - url: "https://images.wsj.net/im-870888/social"
-        width: 1280
-        height: 640
+      - url: "https://static.scientificamerican.com/sciam/cache/file/9645D223-B8AE-4CCA-A3E877074BED18B2.jpg"
+        width: 790
+        height: 496
         isCached: true
 
 secured: "HyAcUBWRcXcqfKe0qZqFdpgZuc6Zlj8hHr/kZYnNvp3xXOomXlFOYeiinROH40PD7CNyAPCd/TpH/HuXLKWZMgiI+JBv7hLDmcVms+3ZYVPCrW4uGKQtV7vc1Xw/BfwcZabrtgK7Ov5/cLlhGwLwhh58oG8Pe5+hVOUFI6Z/MYwnD6QaQLWmlNkWcJFANyeAqzj6ntGvPzs2t0dciQdekAmDvNbzKfws5l3pUVYHMh7Hn1kwxDvcfMKMPKv7oRIMRUk93qKVDJF+eunkDD2sPdTq+D1a/5vpqBm4IFkEwtJcq+HeS7qMYffzwuDT+f0K1MU1Oy8C3iQCBYOhUKqn2lEeDci1xB/99RkxaKVi2Uw=;tqe3XbcNqjSLSWxKNtFEzQ=="

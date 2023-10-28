@@ -2,6 +2,83 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-10-20-new-relic-named-an-apm-leader-by-gigaom.md",
+      "title": "New Relic Named an APM Leader by GigaOm",
+      "excerpt": "New Relic is closest to the center of the 2023 GigaOm Radar for APM, representing the highest overall value to customers and its leadership in innovation New Relic NEWR, the all-in-one observability platform for every engineer, announced it has been named ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/b35351970/new-relic-named-an-apm-leader-by-gigaom",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/b35351970/new-relic-named-an-apm-leader-by-gigaom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35351970",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35351970",
+      "publishedDateTime": "2023-10-20T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-eu-wants-google-facebook-to-start-labeling-ai-generated-content.md",
+      "title": "EU wants Google, Facebook to start labeling AI-generated content",
+      "excerpt": "BRUSSELS — In a bid to clamp down on disinformation online, the European Commission wants tech companies like Google, Facebook and TikTok to start labeling content created by artificial intelligence without waiting for digital laws to come into effect.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/chatgpt-dalle-google-facebook-microsoft-eu-wants-to-start-labeling-ai-generated-content/",
+      "originalUrl": "https://www.politico.eu/article/chatgpt-dalle-google-facebook-microsoft-eu-wants-to-start-labeling-ai-generated-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-20-ibms-northpole-chip-runs-ai-based-image-recognition-22-times-faster-than-current-chips.md",
       "title": "IBM's NorthPole chip runs AI-based image recognition 22 times faster than current chips",
       "excerpt": "A large team of computer scientists and engineers at IBM Research has developed a dedicated computer chip that is able to run AI-based image recognition apps 22 times as fast as chips that are currently on the market.",
@@ -138,6 +215,40 @@
         "AI",
         "AI in Marketing",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in-the-world-3-stocks-to-buy-right-now.md",
+      "title": "Cathie Wood Says Autonomous Driving Is the Biggest Artificial Intelligence (AI) Project In the World -- 3 Stocks to Buy Right Now",
+      "excerpt": "Ark Investment Management is one of the most bullish firms on Wall Street when it comes to the potential of artificial intelligence ... autonomous self-driving vehicles. In an interview on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in",
+      "originalUrl": "https://www.nasdaq.com/articles/cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -328,21 +439,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-20-cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in-the-world-3-stocks-to-buy-right-now.md",
-      "title": "Cathie Wood Says Autonomous Driving Is the Biggest Artificial Intelligence (AI) Project In the World -- 3 Stocks to Buy Right Now",
-      "excerpt": "Ark Investment Management is one of the most bullish firms on Wall Street when it comes to the potential of artificial intelligence ... autonomous self-driving vehicles. In an interview on ...",
+      "path": "_news/2023-10-20-ai-models-lack-transparency-research.md",
+      "title": "AI models lack transparency: research",
+      "excerpt": "The best score – 54% – was given to Llama 2, the AI model launched by Facebook and Instagram owner ... a researcher at Stanford's Center for Research on Foundation Models, said companies ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/20/cathie-wood-autonomous-driving-ai-3-stocks-buy-now/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/20/cathie-wood-autonomous-driving-ai-3-stocks-buy-now/",
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/10/20/ai-models-lack-transparency-research",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/10/20/ai-models-lack-transparency-research",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/editorial/images/751371/a-digital-render-of-a-self-driving-car-stopped-at-a-cross-walk-surrounded-by-people.jpg",
-          "width": 4200,
-          "height": 2800,
+          "url": "https://apicms.thestar.com.my/uploads/images/2023/10/20/2345472.jpg",
+          "width": 1240,
+          "height": 827,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -352,21 +463,55 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T23:45:00-07:00",
+      "publishedDateTime": "2023-10-19T23:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-artificial-intelligence-hiring-activity-dropped-in-the-apparel-industry-in-q3-2023.md",
+      "title": "Artificial Intelligence hiring activity dropped in the apparel industry in Q3 2023",
+      "excerpt": "The global apparel industry experienced a 29% drop in new job postings related to artificial intelligence in Q3 2023 compared with the previous quarter, according to GlobalData’s Job Analytics. This compares to a 61% decrease versus Q3 2022. GlobalData ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-style.com/uncategorized/artificialintelligence-hiring-apparel-industry/",
+      "originalUrl": "https://www.just-style.com/uncategorized/artificialintelligence-hiring-apparel-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-style.com/wp-content/themes/goodlife-wp-B2B/assets/img/report.png",
+          "width": 388,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Companies",
+        "domain": "just-style.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -984,188 +1129,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-is-artificial-intelligence-the-new-weapon-in-global-threats.md",
-      "title": "Is artificial intelligence the new weapon in global threats?",
-      "excerpt": "Violence in the Middle East is prompting new threats in the U.S. On full display, at protests worldwide there is a deep anger, some experts say soon may be used to harness new ways to try to launch attacks or exploit intelligence in parts of the world bad actors could never set foot in,",
-      "sourceUrl": null,
-      "webUrl": "https://newschannel20.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university",
-      "originalUrl": "https://newschannel20.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://newschannel20.com/resources/media/32d12674-0eb4-43b9-8838-1dcea66a20c0-medium16x9_AP23291793462047.jpg",
-          "width": 648,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newschannel20.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university",
-      "cdnAmpWebUrl": "https://newschannel20-com.cdn.ampproject.org/c/s/newschannel20.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university",
-      "publishedDateTime": "2023-10-19T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NewsChannel20",
-        "domain": "newschannel20.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler.md",
-      "title": "Automatically redact PII for machine learning using Amazon SageMaker Data Wrangler",
-      "excerpt": "Customers increasingly want to use deep learning approaches such as large language models (LLMs) to automate the extraction of data and insights. For many industries, data that is useful for machine learning (ML) may contain personally identifiable information (PII). To ensure customer privacy and maintain",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/11/sagemaker-pipelines.png",
-          "width": 811,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T09:57:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-tech-live-2023-how-meta-plans-to-connect-you-to-ai-friends.md",
-      "title": "Tech Live 2023: How Meta Plans to Connect You to AI Friends",
-      "excerpt": "Meta runs Facebook, Instagram ... Joanna Stern: But they're AI personas. Chris Cox: Exactly. So the other thing we built is, in doing the research for how do you make these chatbots engaging, what is it that works for people with these chatbots?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/podcasts/google-news-update/tech-live-2023-how-meta-plans-to-connect-you-to-ai-friends/50df721b-db21-4bcf-b819-09d9ec1014d4",
-      "originalUrl": "https://www.wsj.com/podcasts/google-news-update/tech-live-2023-how-meta-plans-to-connect-you-to-ai-friends/50df721b-db21-4bcf-b819-09d9ec1014d4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-375914?width=1280",
-          "width": 1280,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-galileo-payment-risk-platform-now-available-to-the-entire-financial-services-ecosystem.md",
-      "title": "Galileo Payment Risk Platform Now Available to the Entire Financial Services Ecosystem",
-      "excerpt": "Galileo Financial Technologies, LLC, a leading financial technology company independently owned and operated by SoFi Technologies, Inc. (NASDAQ: SOFI)",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231019333126/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20231019333126/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

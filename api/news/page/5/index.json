@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-10-25-godfathers-of-ai-have-a-new-warning-get-a-handle-on-the-tech-before-its-too-late.md",
+      "title": "Godfathers of AI Have a New Warning: Get a Handle on the Tech Before It's Too Late",
+      "excerpt": "Two dozen experts warn that 'AI systems could rapidly come to outperform humans in an increasing number of tasks [and] pose a range of societal-scale risks.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/godfathers-of-ai-have-a-new-warning-get-a-handle-on-the-tech-before-its",
+      "originalUrl": "https://www.pcmag.com/news/godfathers-of-ai-have-a-new-warning-get-a-handle-on-the-tech-before-its",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01k5X7OMVLMscYSAMnDFrbn-1.fit_lim.size_1200x630.v1698176197.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-25-heres-one-important-skill-hr-should-focus-on-with-generative-ai.md",
       "title": "Here’s One Important Skill HR Should Focus On With Generative AI",
       "excerpt": "As AI increases in the workplace, 53 percent of workers say they’re more concerned about their jobs being replaced by robots than immigration and outsourcing.",
@@ -423,49 +474,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-human-like-intelligence-a-look-at-vancouvers-ai-powered-robot-workforce.md",
-      "title": "'Human-like intelligence': A look at Vancouver's AI-powered robot workforce",
-      "excerpt": "A Vancouver company called Sanctuary AI is on a mission to develop the world's-first human-like intelligence in general-purpose robots. Not only are these robots about the size and shape of people, but they also have human-like intelligence. As a result, they have a capacity to respond and adapt to their environments similar to the way humans do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.richmond-news.com/technology/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935",
-      "originalUrl": "https://www.richmond-news.com/technology/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.vmcdn.ca/f/files/via/images/business/ai-robot-vacuum-vancouver-cleaningjpg.png;w=960;h=592;mode=crop",
-          "width": 960,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Richmond News",
-        "domain": "richmond-news.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -999,7 +1007,7 @@
       "originalUrl": "https://www.entrepreneur.com/science-technology/most-effective-ways-to-enhance-your-business-with-ai/464153",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {

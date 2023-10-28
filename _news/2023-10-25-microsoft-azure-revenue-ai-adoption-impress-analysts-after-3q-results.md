@@ -302,15 +302,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Reddit may block search if it can’t reach an AI deal with Google, Microsoft"
-    excerpt: "On Friday, The Washington Post, as spotted by The Verge, said Reddit \"has met with top generative AI companies about being paid for its data,\" citing an anonymous source. Going further, The Washington Post reported that Reddit is ready to play hard ball:"
-    publishedDateTime: 2023-10-23T19:48:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/10/reddit-may-block-search-if-it-cant-reach-an-ai-deal-with-google-microsoft/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 62
   - title: "Despite the AI hype, Amazon, Microsoft, and Google are seeing cloud growth rates stall as customers try to cut costs"
     excerpt: "Cloud customers are still scrutinizing budgets amid an uncertain economic environment."
     publishedDateTime: 2023-10-26T22:39:00Z
@@ -665,6 +656,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "eAeI79TWMF68fJMkFb3W3Q3iBOcn6Cae12FRXl6juq/CqcmrV66SPgOmdbILSO8CHe3J9SyY8aUNfdot96eypwyaWPkLJlsNUFmvVqwZxGshQ8RuHd/xnb9oxa18PzgtxMnLnNT3OaSn8RLFhXy4vo2Xwn0s87fFtv/u6z05hxrvSqodY7J4TnkpmAKZl7QlVV4Sg1fFXZouDDJJzzd+zifeUx216vyixXXVq50NPRANvhiFwKXD1nqyEElEcmaePP3MwM+UEkq4Q4tCXU/zMY31PYMDP1zpmgxsQyJLe0GBuTg0+8wZ/fcwYPnI/X4BJiI/fNuXa9Sa1rDF2fzC5C7n8YPQfdA69Gw/TD2aiec=;W8HU7ZPA35+8gCbcV0Qczg=="
+secured: "lWsQ6PazCeJ56gjEFVoVwY32Yzx8qhhXb6ZdykvEz88Jwm61bcVsIh/yIZ9i30K/e8oz6e2dqvfLrivi0Tk/Mw7YbnXfjrEO999G56rkZTZF7UguRaVL6qLVcxtAlDeUlNzvk3VGmOCiUiNTVdIg1ggKU5/zlSQMuRD/rlTgH4hPlIMEo2+/wA4TNej5bYDnfONbefc+XLWEPT6cJxE/Q8JD4Ae74MXGhIpDGKc3evQRyZKvVJmF0y//4AIfLhlHxwDSPz/P5TGrfg1Hs1vIQ07y6iUOlZuqSRzQ8NlP4gMJLa6j6X2GssjN7fitKWmRj1O1QsHQAE3UASQiDne0I51Gzq9GJPAv2ZTuekH9H6cnwgzcfnLXNVJ8hiYRqc7o/9K86X76viY4me3BstPNp5IMCGphn+3fQ5NvmJO6DZy8p8WcAB98oZZBr5DnhyOmlOj2Q07dgbUlCLKjL12GLW9fdF0u8OYftpi/GfRYvUJJBiZ3JqGIllmFydD/ZI7twgny7Dgc+HOFAHTw/V/bBg==;xyjMB8RMMmqaRBBfdAfh8g=="
 ---
 

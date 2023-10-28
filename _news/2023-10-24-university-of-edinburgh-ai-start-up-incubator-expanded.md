@@ -7,7 +7,7 @@ originalUrl: "https://www.heraldscotland.com/news/23874410.university-edinburgh-
 webUrl: "https://www.heraldscotland.com/news/23874410.university-edinburgh-ai-start-up-incubator-expanded/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 900
     height: 600
     isCached: true
-
-related:
-  - title: "University of Edinburgh expands start-up incubator into robotics"
-    excerpt: "The University of Edinburgh is expanding its Venture Builder Incubator (VBI) programme, which helps turn research and innovations in robotics and artificial intelligence (AI) into commercially viable start-ups."
-    publishedDateTime: 2023-10-23T23:01:00Z
-    webUrl: "https://www.insider.co.uk/news/university-edinburgh-expands-start-up-31257558"
-    ampWebUrl: "https://www.insider.co.uk/news/university-edinburgh-expands-start-up-31257558.amp"
-    cdnAmpWebUrl: "https://www-insider-co-uk.cdn.ampproject.org/c/s/www.insider.co.uk/news/university-edinburgh-expands-start-up-31257558.amp"
-    type: article
-    provider:
-      name: insider
-      domain: insider.co.uk
-    quality: 74
-    images:
-      - url: "https://i2-prod.insider.co.uk/news/article31257539.ece/ALTERNATES/s1200/0_Bayes-Centre-robot-1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "V5cDZMSMQBRyQhHdzkiUlmF8FZr6XRRvZq/oZoCbD34gi7V9rCMNeGZrTVh6n+S6ZMoA+edC1GNjuKbShvpEThwzY20oESO2WPXCv1wewRBOrRQ54JKRQ3hgrgXrIEL2/PjTRhujSSyqjlxiB5k9oimhnDRjELTUXgWd3CfAxoHgNBRgkpSIor+4C1mW5xCCUoXTOClPEhMtdSAHrXFoeIDy9qR7MLKy0oYfNRAwTf7mKRNLhqPE77czFFrASImFhp4VI9Rq9k2hiZOL1m0Hss8ZuJjOYM7oe9+0sc/db6jvmHBbcH2AyLFVfy0qiqYK4jiaxkg3mbJinALjFU/ROhmEFjqvpipw643SVYRlWlc=;ISNCZv88FhfgvWeMRM1aOg=="
 ---

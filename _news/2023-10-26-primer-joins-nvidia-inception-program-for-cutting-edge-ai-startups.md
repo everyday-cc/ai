@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/primer-joins-nvidi
 webUrl: "https://markets.businessinsider.com/news/stocks/primer-joins-nvidia-inception-program-for-cutting-edge-ai-startups-1032743089"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Yahoo Finance's NEXT: How rivals are taking on Nvidia in the AI chip race"
-    excerpt: "Nvidia (NVDA) is dominating the AI chip market, but it may not hold onto that lead for long. Traditional semiconductor rivals like AMD (AMD) and Intel (INTC) are entering the AI space, but so are Big Tech names like Microsoft (MSFT) and Alphabet (GOOGL)."
-    publishedDateTime: 2023-10-23T19:24:00Z
-    webUrl: "https://www.aol.com/yahoo-finances-next-rivals-taking-192451983.html?ref=biztoc.com"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 50
   - title: "AI chip startup Graphcore was meant to be a hot Nvidia rival. Industry insiders now think it's up for sale."
     excerpt: "While the fortunes of AI chip market leader Nvidia have soared, British rival Graphcore has laid off staff and shut offices."
     publishedDateTime: 2023-10-27T12:05:00Z
@@ -50,19 +41,21 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 42
-  - title: "Lambda and VAST Data in Cloud AI Training Partnership with NVIDIA Technology"
-    excerpt: "AI data platform company VAST Data and Lambda, an infrastructure-as-a-service and compute provider for public and private NVIDIA GPU infrastructure, today announced a partnership intended to enable a hybrid cloud experience dedicated to AI and deep learning workloads."
-    publishedDateTime: 2023-10-23T19:50:00Z
-    webUrl: "https://insidehpc.com/2023/10/lambda-and-vast-data-in-cloud-ai-training-partnership-with-nvidia-technology/"
+  - title: "Lambda and VAST Data partner to accelerate AI training across public and private cloud, leveraging NVIDIA technology"
+    excerpt: "Dubai, United Arab Emirates – VAST Data, the AI data platform company and Lambda, a leading Infrastructure-as-a-Service and compute provider for public and private GPU infrastructure, today announced a strategic partnership that will enable the world's ..."
+    publishedDateTime: 2023-10-24T07:30:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/lambda-and-vast-data-partner-to-accelerate-ai-training-across-public-and-private-cloud-leveraging-nvidia-technology-yw4kushl"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/lambda-and-vast-data-partner-to-accelerate-ai-training-across-public-and-private-cloud-leveraging-nvidia-technology-yw4kushl?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/lambda-and-vast-data-partner-to-accelerate-ai-training-across-public-and-private-cloud-leveraging-nvidia-technology-yw4kushl?amp=1"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
+      name: Zawya
+      domain: zawya.com
     quality: 36
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/10/AI-artificial-intelligence-machine-learning-deep-learning-shutterstock-701349271.jpg"
-        width: 650
-        height: 433
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OGUwODc2N2YtMzFhOC00/0/renen-hallak_ceo_vastdata-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "XehmdvM4idIV1fQi78kCTHeUDRs/8LZFdls+AnuKBGFq42GhRSGu4SE4rkPMvlU3m0XCMhI29U2k6zOozQSfN61pwvZt7+A1BS4Mp7owZ2aQVCeFJmY/tQwr8JI/Z8vuFSQ0rD4q2xEJrXlY80gXVyf+hNOf8AO3HCH/SMZKj48bXoVFMhI6jHn+aVHzbrOJFsqwHpBd51yPLHPtCtvJ6nAWmdXKpHPel00ThK9fvyMHgrCx2gePoGSv3XwJcWa+Q1g+fmO7RhyCojaPeNi2aMT6TJMPlWuZde5ld8rQKVAFTB4lNCaM4fkFJRE/VeQB7/3IDG1kDbDqsAABwtBPnGbe2J/p5923lXkFfg1XB1Y=;GGK9M2WnYB3MUcHzi4LuQQ=="

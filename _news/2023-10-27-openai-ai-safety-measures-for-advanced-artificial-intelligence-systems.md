@@ -24,22 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Stanford researchers challenge OpenAI, others on AI transparency in new report"
-    excerpt: "The researchers behind the Foundation Model Transparency Index research paper include primary author Rishi Bommasani, a PhD candidate in computer science at Stanford, and also Kevin Klyman, Shayne Longpre, Sayash Kapoor, Nestor Maslej, Betty Xiong, and Daniel Zhang."
-    publishedDateTime: 2023-10-23T19:59:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/amp/"
+  - title: "OpenAI assembles team of experts to fight 'catastrophic' AI risks - including nuclear war"
+    excerpt: "Also: Google expands bug bounty program to include rewards for AI attack scenarios"
+    publishedDateTime: 2023-10-27T14:01:00Z
+    webUrl: "https://www.zdnet.com/article/openai-assembles-team-of-experts-to-fight-catastrophic-ai-risks-including-nuclear-war/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
+      name: ZDNet
+      domain: zdnet.com
+    quality: 60
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_windshield_1-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.zdnet.com/a/img/resize/10f4f32351c78c3f40531c8e5c121d03662d90fd/2023/10/27/592eb986-c6fa-47fe-a735-d509e751ebdd/gettyimages-1288727526.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Google expands bug bounty program to include rewards for AI attack scenarios"
+    excerpt: "The tech giant issued over $12 million in rewards to security researchers as part of its bug bounty program in 2022."
+    publishedDateTime: 2023-10-27T06:20:00Z
+    webUrl: "https://www.zdnet.com/article/google-expands-bug-bounty-program-to-include-rewards-for-ai-attack-scenarios/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 44
 
 secured: "cbXxWeXWzvjjtlkulyYC+/C2WBbjsF2Oi1zyb5dD931vLVQgeOpWpG+Y5i2g4FA4VpTmO1H23Zu/IzKjkfWqSbiRpe9gYGCah9FUEmTnQoQIfPTtF/MOjSatNgqHve/HBW9FAFPx4ePiboTfTHPiSQc6AYXY27W1ebFyRIpF3qUutAA5kEWIrJv0qcSLHNt/LjtAtpje74XWpojfgwXHN/V6VrKGZ7b+RLN4PQWUWZp4cOgPIkqqIJMm2xsFEvqaS/9RgyJwUaQvlVrAq5BtGEe2y0XrHxbW7tFpQcuf5L8K0tFl0nYC51Oc5Ufathz7pUePVk9DHAujAx2A+a1c72QzJlUH+BAXGxUTJftwREE=;mNnCZmt1GGjKyQWq4lSSBw=="
 ---

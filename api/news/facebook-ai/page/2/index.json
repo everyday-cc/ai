@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-07-datastax-tools-up-vector-database-for-generative-ai-application-development.md",
+      "title": "DataStax Tools-Up Vector Database For Generative AI Application Development",
+      "excerpt": "As the hurly-burly surrounding development of generative AI (gen-AI) with its use of open Large Language Model (LLM) technologies designed to create ever more",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6520216ce19ce79d5fac2df5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/amp/",
+      "publishedDateTime": "2023-10-06T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-graphcore-was-the-uks-ai-championnow-its-scrambling-to-survive.md",
+      "title": "Graphcore Was the UK's AI Champion—Now It’s Scrambling to Survive",
+      "excerpt": "The British chipmaker wanted to challenge the dominance of Nvidia, but having been left out of government AI projects, is urgently looking to raise money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/?n=@",
+      "originalUrl": "https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/?n=@",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/651ff4404baa20ea53f1cbf7/191:100/w_1280,c_limit/shutterstock_1459527239.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-06T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-users-find-that-facebooks-new-ai-stickers-can-generate-elmo-with-a-knife.md",
       "title": "Users find that Facebook’s new AI stickers can generate Elmo with a knife",
       "excerpt": "Less than a week after Meta unveiled AI-generated stickers in its Facebook Messenger app, users are already abusing it to create awkward images of copyright-protected characters and sharing the ...",
@@ -1291,110 +1395,6 @@
         "Facebook AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-craigslist-founder-craig-newmark-is-pouring-millions-of-dollars-into-combating-ais-dark-side.md",
-      "title": "Craigslist founder Craig Newmark is pouring millions of dollars into combating AI's dark side",
-      "excerpt": "Craig Newmark has just donated $3 million to fund a new artificial intelligence and education initiative from Common Sense Media, as he fears future of AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/14/craigslists-craig-newmark-funding-common-sense-media-ai-project.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/14/craigslists-craig-newmark-funding-common-sense-media-ai-project.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103751892-CN-4_Craig_Newmark_Photo_credit_Bleacher+Everard.jpg?v=1694703601",
-          "width": 800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/14/craigslists-craig-newmark-funding-common-sense-media-ai-project.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/14/craigslists-craig-newmark-funding-common-sense-media-ai-project.html",
-      "publishedDateTime": "2023-09-14T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-chatgpt-made-history-this-year-2-magnificent-artificial-intelligence-ai-growth-stocks-to-buy-now-and-hold-through-the-boom.md",
-      "title": "ChatGPT Made History This Year: 2 Magnificent Artificial Intelligence (AI) Growth Stocks to Buy Now and Hold Through the Boom",
-      "excerpt": "Second, Alphabet has decades of artificial intelligence research under its belt ... director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/09/14/chatgpt-made-history-2-ai-growth-stocks-to-buy-now/",
-      "originalUrl": "https://www.fool.com/investing/2023/09/14/chatgpt-made-history-2-ai-growth-stocks-to-buy-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/747367/artificial-intelligence-12.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-14T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

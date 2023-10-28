@@ -2,6 +2,305 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2023-08-17-generative-ai-tops-gartners-top-25-emerging-technologies-for-2023.md",
+      "title": "Generative AI tops Gartner's top 25 emerging technologies for 2023",
+      "excerpt": "The research firm also identified developer experience, pervasive cloud, human-centric privacy, and security as four emerging technology trend themes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/",
+      "originalUrl": "https://www.zdnet.com/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ec058f75a594480c4345f453fc3ae0691ac6c89f/2023/08/16/d74b157c-f68a-475f-8520-d77af4df3293/gettyimages-1404640492.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-tops-gartners-top-25-emerging-technologies-list-for-2023/",
+      "publishedDateTime": "2023-08-16T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-openai-acquires-ai-design-studio-global-illumination.md",
+      "title": "OpenAI acquires AI design studio Global Illumination",
+      "excerpt": "OpenAI, the AI company behind the viral AI-powered chatbot ChatGPT, has acquired Global Illumination, a New York-based startup leveraging AI to build creative tools, infrastructure and digital experiences. It’s OpenAI’s first public acquisition in its ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/",
+      "originalUrl": "https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/amp/",
+      "publishedDateTime": "2023-08-16T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-opera-adds-ai-chatbot-to-its-iphone-browser.md",
+      "title": "Opera adds AI chatbot to its iPhone browser",
+      "excerpt": "AI in Opera is also an opt-in experience. You can choose to enable or disable it depending on your preferences. Your chats are saved for 30 days, allowing you to access and resume a previous conversation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/opera-adds-ai-chatbot-to-its-iphone-browser/",
+      "originalUrl": "https://www.zdnet.com/article/opera-adds-ai-chatbot-to-its-iphone-browser/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a20bea777a6b3f02ce0d1bf37dce3c93cb0d38da/2023/08/16/ea0c354c-5064-417e-8746-3366e44b302f/figure-top-opera-adds-ai-chatbot-to-its-iphone-browser.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-its-iphone-browser/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/opera-adds-ai-chatbot-to-its-iphone-browser/",
+      "publishedDateTime": "2023-08-16T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-ai-generated-books-are-sneaking-into-online-bookstores-heres-how-to-spot-them.md",
+      "title": "AI-generated books are sneaking into online bookstores. Here's how to spot them",
+      "excerpt": "As a reader, here are a couple of things you can try to spot AI-generated books before purchasing: Check the author's name and do a quick Google search: If an author actually wrote this book, it should be easy to find it on the author's official website, in the news of the book launch, in reader and book club forums, and in online libraries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-generated-books-are-sneaking-into-online-bookstores-heres-how-to-spot-them/",
+      "originalUrl": "https://www.zdnet.com/article/ai-generated-books-are-sneaking-into-online-bookstores-heres-how-to-spot-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1e6955a4ba3a31de61f9dd1277a428b2e42b70dc/2023/08/16/675b5100-32e0-4db2-88fb-64b4cfa7278e/robothands.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-generated-books-are-sneaking-into-online-bookstores-heres-how-to-spot-them/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-generated-books-are-sneaking-into-online-bookstores-heres-how-to-spot-them/",
+      "publishedDateTime": "2023-08-16T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-robotics-part-of-mid-year-success-for-ids-imaging.md",
+      "title": "Robotics part of mid-year success for IDS Imaging",
+      "excerpt": "IDS Imaging Development Systems, a leading industrial camera manufacturer, far exceeded industry expectations in the first half of 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/robotics-part-of-mid-year-success-ids-imaging/",
+      "originalUrl": "https://www.therobotreport.com/robotics-part-of-mid-year-success-ids-imaging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/08/growth-2023.jpeg",
+          "width": 780,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-5-blue-chip-stocks-ai-thinks-will-double-your-money-by-2027.md",
+      "title": "5 Blue-Chip Stocks AI Thinks Will Double Your Money by 2027",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In June, I introduced five stocks that AI predicted could double a portfolio",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-stocks-ai-thinks-will-double-your-money-by-2027-1032560778",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-stocks-ai-thinks-will-double-your-money-by-2027-1032560778",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/07/marketmaster-performance-1.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-the-machine-economy-and-the-convergence-of-web3-ai-and-fintech.md",
       "title": "The Machine Economy and the Convergence of Web3, AI and Fintech",
       "excerpt": "Humans, software machines, and our ever-evolving hybrids are connected through fintech financial networks and anchored to blockchains. Digital production, powered and accelerated by generative AI ...",
@@ -829,302 +1128,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-the-world-isnt-ready-for-the-next-decade-of-ai.md",
-      "title": "The World Isn’t Ready for the Next Decade of AI",
-      "excerpt": "Mustafa Suleyman, cofounder of DeepMind and Inflection AI, talks about how AI and other technologies will take over everything—and possibly threaten the very structure of the nation-state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
-      "originalUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64dbb4a1eb3f06fa8140d23f/191:100/w_1280,c_limit/081523-HANF-Mustafa-Suleyman.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI",
-        "Google AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-companies-put-ai-to-work-outside-the-cloud-trimming-costs.md",
-      "title": "Companies Put AI to Work Outside the Cloud, Trimming Costs",
-      "excerpt": "Advances in networking and algorithms are pushing computing-intensive apps beyond data centers and closer to the edge, CIOs say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/companies-put-ai-to-work-outside-the-cloud-trimming-costs-453b649e",
-      "originalUrl": "https://www.wsj.com/articles/companies-put-ai-to-work-outside-the-cloud-trimming-costs-453b649e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-836202/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt.md",
-      "title": "Saudi Arabia and UAE Compete for Nvidia Chips to Build More Powerful AI Tool Than ChatGPT",
-      "excerpt": "Saudi Arabia and the United Arab Emirates (UAE) are buying large quantities of high-performance Nvidia chips, which are essential for developing",
-      "sourceUrl": null,
-      "webUrl": "https://propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/",
-      "originalUrl": "https://propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://propakistani.pk/wp-content/uploads/2023/08/Nvidia.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/amp/",
-      "publishedDateTime": "2023-08-16T00:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-worlds-first-mass-produced-humanoid-robot-china-start-up-fourier-intelligence-eyes-two-legged-robots-with-ai-brains.md",
-      "title": "World’s first mass-produced humanoid robot? China start-up Fourier Intelligence eyes two-legged robots with AI brains",
-      "excerpt": "When Fourier Intelligence unveiled its lanky, jet-black humanoid robot GR-1 at the World Artificial Intelligence Conference (WAIC) in Shanghai in July, it instantly stole the show. While the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3230850/worlds-first-mass-produced-humanoid-robot-china-start-fourier-intelligence-eyes-two-legged-robots-ai",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3230850/worlds-first-mass-produced-humanoid-robot-china-start-fourier-intelligence-eyes-two-legged-robots-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/11/8945fe8e-9967-46d4-881b-bf54fdddf29d_b80c6778.jpg?itok=qSSd2jDl&v=1691761856",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3230850/worlds-first-mass-produced-humanoid-robot-china-start-fourier-intelligence-eyes-two-legged-robots-ai",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3230850/worlds-first-mass-produced-humanoid-robot-china-start-fourier-intelligence-eyes-two-legged-robots-ai",
-      "publishedDateTime": "2023-08-15T20:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-scientists-discover-external-protein-network-can-help-stabilize-neural-connections.md",
-      "title": "Scientists discover external protein network can help stabilize neural connections",
-      "excerpt": "used biochemical and genetic methods to explore the complex network of extracellular proteins maintaining the localization of AMPA-type glutamate receptors at neural synapses. The researchers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230816114059.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230816114059.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-superglue-benchmark-challenges-natural-language-processing-tasks.md",
-      "title": "SuperGLUE benchmark challenges natural language processing tasks",
-      "excerpt": "Artificial intelligence researchers want to advance natural language processing with the release of SuperGLUE. SuperGLUE builds off of the previous General Language Understanding Evaluation (GLUE ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/superglue-benchmark-challenges-natural-language-processing-tasks/",
-      "originalUrl": "https://sdtimes.com/ai/superglue-benchmark-challenges-natural-language-processing-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/08/wood-glue-596161_640.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

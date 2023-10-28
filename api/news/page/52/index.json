@@ -2,6 +2,265 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-09-20-what-can-ai-and-generative-ai-do-for-governments.md",
+      "title": "What can AI and generative AI do for governments?",
+      "excerpt": "The five fundamental properties for trustworthy AI: explainability, fairness, transparency, robustness and privacy.\nThe post What can AI and generative AI do for governments? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-governments/",
+      "originalUrl": "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-governments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-ai-in-computer-vision-market-analysis-trends-and-top-key-players-2023-to-2030.md",
+      "title": "AI In Computer Vision Market Analysis Trends and Top Key Players 2023 to 2030",
+      "excerpt": "The Global AI In Computer Vision Market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2031. In 2021, the market is growing at a steady rate and with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34753345/ai-in-computer-vision-market-analysis-trends-and-top-key-players-2023-to-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34753345/ai-in-computer-vision-market-analysis-trends-and-top-key-players-2023-to-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34753345",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34753345",
+      "publishedDateTime": "2023-09-20T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-oracle-unveils-its-api-led-generative-ai-service-with-coheres-llms.md",
+      "title": "Oracle unveils its API-led generative AI service with Cohere’s LLMs",
+      "excerpt": "The new generative AI service, which is built on Oracle Cloud Infrastructure, is currently in limited availability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.html",
+      "originalUrl": "https://www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/09/ocw-crowd2-100946179-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.amp.html",
+      "publishedDateTime": "2023-09-20T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai-capabilities.md",
+      "title": "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities",
+      "excerpt": "MySQL HeatWave AutoML MySQL HeatWave provides in-database machine learning with a fully automated pipeline for training models. Customers don't need to move data to a separate machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai",
+      "originalUrl": "https://www.nasdaq.com/press-release/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-machine-learning-as-a-service-mlaas-market-research-report-2023-2030-104-pages-report.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Research Report 2023-2030 | 104 Pages Report",
+      "excerpt": "The Machine Learning as a Service (MLaaS) market has witnessed ... the analysis encompasses ongoing advancements and pivotal financial metrics. Readers will also have the opportunity to access ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34751304/machine-learning-as-a-service-mlaas-market-research-report-2023-2030-104-pages-report",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34751304/machine-learning-as-a-service-mlaas-market-research-report-2023-2030-104-pages-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-cathie-wood-says-tesla-is-the-biggest-ai-opportunity-in-the-world-today.md",
+      "title": "Cathie Wood says Tesla is the 'biggest AI opportunity in the world' today",
+      "excerpt": "Ark Invest CEO Cathie Wood says she believes that Tesla is the \"biggest AI opportunity in the world\" today. \"So we think it has miles to go, it has just started,\" she told CNBC's \"Squawk Box Europe\" on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/20/cathie-wood-says-tesla-is-the-biggest-ai-opportunity-in-the-world.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/20/cathie-wood-says-tesla-is-the-biggest-ai-opportunity-in-the-world.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107200361-16775195062023-02-27t173330z_1026225286_rc2rjz96tfne_rtrmadp_0_usa-stocks.jpeg?v=1695202650&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-why-managers-must-consider-ethics-when-upskilling-with-ai.md",
       "title": "Why managers must consider ethics when upskilling with AI",
       "excerpt": "Not another article about AI!’ I hear you say. Many of us are feeling a level of fatigue when it comes to this topic, such is its prevalence -",
@@ -895,307 +1154,6 @@
         "AI",
         "AWS AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-ai-code-generation-software-what-it-is-and-how-it-works.md",
-      "title": "AI code-generation software: What it is and how it works",
-      "excerpt": "Using AI code generation software is straightforward, available for many programming languages and accessible to both developers and non-developers.\nThe post AI code-generation software: What it is and how it works appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ai-code-generation/",
-      "originalUrl": "https://www.ibm.com/blog/ai-code-generation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T09:04:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-how-we-interact-with-information-the-new-era-of-search.md",
-      "title": "How we interact with information: The new era of search",
-      "excerpt": "In today's rapidly evolving technological landscape, generative AI, and especially Large Language Models (LLMs), are ushering in a significant inflection point.\nThe post How we interact with information: The new era of search appeared first on Azure Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/how-we-interact-with-information-the-new-era-of-search/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/how-we-interact-with-information-the-new-era-of-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/09/Picture2.png",
-          "width": 720,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-using-data-and-ai-to-track-progress-toward-the-un-global-goals.md",
-      "title": "Using data and AI to track progress toward the UN Global Goals",
-      "excerpt": "Data Commons works with the UN and ONE to track progress toward the SDGs.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-ai-data-un-global-goals/",
-      "originalUrl": "https://blog.google/technology/ai/google-ai-data-un-global-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_Hero_GlobalPovertySDGProgress_v2.width-1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-ai-data-un-global-goals/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-ai-data-un-global-goals/amp/",
-      "publishedDateTime": "2023-09-19T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-hiddenlayer-raises-50m-to-bolster-defenses-of-enterprise-ai-models.md",
-      "title": "HiddenLayer raises $50M to bolster defenses of enterprise AI models",
-      "excerpt": "Texas-based cybersecurity startup born out of a cyberattack that exploited machine learning code at the founders’ prior company, has announced a $50 million Series A funding round today to further harden the defenses of the rapidly growing number of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/hiddenlayer-raises-50m-to-bolster-defenses-of-enterprise-ai-models/",
-      "originalUrl": "https://venturebeat.com/security/hiddenlayer-raises-50m-to-bolster-defenses-of-enterprise-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/nuneybits_zero_trust_in_cybsecurity_acdae9a1-c7e2-4fba-9143-c1af5bde2caf.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics.md",
-      "title": "Intel's 'Meteor Lake' On-Chip GPU Unveiled: Arc Hits Integrated Graphics",
-      "excerpt": "Meteor Lake processors' Arc-based silicon leverages new process technology to rival a low-end discrete GPU. (It even supports ray tracing.)",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/processors/148711/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics",
-      "originalUrl": "https://uk.pcmag.com/processors/148711/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/i/intels-met/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated_cq7q.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-intel-announces-new-core-ultra-cpu-with-ai-processing-engine-coming-in-december.md",
-      "title": "Intel announces new Core Ultra CPU with AI processing engine coming in December",
-      "excerpt": "Intel announced its newest processors, the Intel Core Ultra series, during the Intel Innovation keynote on Tuesday, which it says will usher in the age of the \"AI PC\" later this year when the chip hits the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/computing/cpu/intel-announces-new-core-ultra-cpu-with-ai-processing-engine-to-launch-this-year",
-      "originalUrl": "https://www.techradar.com/computing/cpu/intel-announces-new-core-ultra-cpu-with-ai-processing-engine-to-launch-this-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/HAvq6okpT4ZUYNJxoz4KsL-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -45,15 +45,20 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "The fingerprints on a letter to Congress about AI"
-    excerpt: "Sy Damle, a Washington lawyer representing OpenAI in copyright lawsuits, covertly organized a letter from tech groups and academics urging Congress to avoid new laws on AI and copyright."
-    publishedDateTime: 2023-10-23T19:39:00Z
-    webUrl: "https://www.politico.com/news/2023/10/23/tech-lawyer-ai-letter-congress-00122857"
+  - title: "Chatbot Gone Awry Starts Conversations About AI Ethics in South Korea"
+    excerpt: "The “Luda” AI chatbot sparked a necessary debate about AI ethics as South Korea places new emphasis on the technology. In Spike Jonze’s 2013 film, “Her,” the protagonist falls in love ..."
+    publishedDateTime: 2023-10-26T23:59:00Z
+    webUrl: "https://thediplomat.com/2021/01/chatbot-gone-awry-starts-conversations-about-ai-ethics-in-south-korea/"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 17
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 54
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2021/01/sizes/td-story-s-2/thediplomat-2021-01-15-12.jpg"
+        width: 600
+        height: 310
+        isCached: true
 
 secured: "srN/51tUwLsepcdWBCBSaHM8XT/lCyQMtEPt9XIfrnHSDt870CC4qaDC/MstET9VV3IEig7Fv+vCREstyCZx7X8kzcGIj1D+Ur6ssURVLi2U11qk9ZBxf9ogsZ1gBXVUJvswvRPIC8tuWnfoJDal/6AHBZafp3sFVj555iP4RD0UKmVTpLludLPGVHHJPui+xboYp3O1euMbGoiuk2BS8VYITWRJD0Vrscb+mg+dlnhtfqbHkMJse2dbqR4HhZShsFQMUO66vMyzvZBCqgQ4LGuqXnRvxmcygIP9gDjZsSizhqu8IXVTx8uRj3sbKj2oRQMXscJOhyE+UrkWlu9sHeuYrg/d3p17YHm3pZ+ubADM/Z2rV/nkRo2eteyWbAEiUjir5fWb1I5YDUBoacrbH77VEdWEdFG2AUV1QOpEPriLUliRhuIWY7IDAikP2GQYsf29Nu/EN52FBX75c0z9Qe2eoSJZ20kVaL58Wd0FB2kc46N5MTujUrkkFo+YbKq0RXObapJrrvJkOL492NM1gg==;1q/cLG01e9Q7zstbfP51Cw=="
 ---

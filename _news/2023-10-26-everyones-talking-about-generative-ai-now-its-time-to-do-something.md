@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/26/everyones-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/26/everyones-talking-about-generative-ai-now-its-time-to-do-something/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 47
+  - title: "Thinking about artificial intelligence"
+    excerpt: "A recent on-stage discussion between Salesforce chief executive Marc Benioff and OpenAI boss Sam Altman suggested subtly differing attitudes to artificial intelligence. Jason Walsh reports from Dreamf"
+    publishedDateTime: 2023-10-28T15:19:00Z
+    webUrl: "https://www.businesspost.ie/connected/thinking-about-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 37
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=1b411525-ceab-512b-9ae1-995e875cbaca&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=6300&height=3544&x=1.0E-5&y=0.07865"
+        width: 3000
+        height: 1687
+        isCached: true
 
 secured: "XJYMYit8gZ+/nehMqa0UMREu2rrJFKwphid513dmnj6f2iwAeGDQX4VmIwiig7GoNAbdUcTVnvsl7kD0HZDk19jL/rpYErLxDXepBeUMj/BG7qx/5f2TPcBFGM40tSYxgpcduVVlvTD1pAzkGSEGVohJKDRzuhXHi1VuVf+XuzkAUylhUcMxgNU3ClgRzU/P8N4hKq9WWFbb8Z/48X79UD7nQZAchWsYhwPfDD0ObAHSyYuMY4fq1z+WXOjOoCHLjlPc950KfkU6ZOUmTimdFqnJh2MU+iGoQoHp8wMz56LTQp0x/GMKSIy5iZXHpolVfJjLALo3nxn3QvQZLbtBqhxZoZKpC9wXbtHwpmA7S3E=;RkX/5T1pCtaVzjAaZyTOuQ=="
 ---
