@@ -2,9 +2,9 @@
 category: news
 title: "AI and the reboot of Scottish finance"
 excerpt: "The prospects for artificial intelligence are a big challenge and opportunity, most obviously in the workplace."
-publishedDateTime: 2023-10-27T09:11:00Z
-originalUrl: "https://www.aol.com/ai-reboot-scottish-finance-091134469.html"
-webUrl: "https://www.aol.com/ai-reboot-scottish-finance-091134469.html"
+publishedDateTime: 2023-10-27T12:11:00Z
+originalUrl: "https://www.aol.com/finance/ai-reboot-scottish-finance-091134469.html"
+webUrl: "https://www.aol.com/finance/ai-reboot-scottish-finance-091134469.html"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 549
     isCached: true
 
-secured: "IZuW1LtQ1ODPiOrbZgrB2qd5zfWuP13uQXSDnz8y4dJelDLEi5RArFCBJMEwPRMvcyAnUNCNyIhz5sY4N/m0jZDF+6x+U2r2Hi2uGS7994mDveQtDKDmDObcshsyImvQxGXBGfBeJtklHB2ocs/cDDkH0st/mecz7EJpk4EnuZJtzPLUTGKDT70l4xqk4Pt8DKRQVI2E6NVtwYmPa6MK0FX9DKY6P6Rrh9n9DfJicfw7c8UlAqzRZbVpxah5gFVFfKyKxCK5sk2zwr7Ns+km8j/JWSN7duYGvrgajShtu3OwiKBaFc9ObvixoIJpUoITkvLkS93Ez3R14XsiuJ6sFLQvkGh9/4HM9J1inwwv6CY=;2wX8Ylq/n3FoOK/b1XrXrg=="
+secured: "p5cmIBVH1EftP61lSR4iShkU+a7FG5QP3TiVirbJfkGEreX+YiY8V8Zk8zKBRJqShx15dhzqyxi/TYiy27QHQU9be1EfGykP1d9W4eib4FHLCrT6BQFUuAAeDdBbggLgaocoF5HLg9EuVPv0CK/VNRETaIVh9p5MJwY7gRf8RCAykwsUDV4DPS9mKfNBQnW1P4MxzvY4Yr+xti8sg3zp/Zs7FJHh5jDY0TpAvTwa/Va9cQ9X1r7okLuWZsZTEQgWDBSadva3VZ9xCux9ei/2r0Jd3//k//h4APJoYhXIFzo1oGpCTwwR3KNx59NAO/6YAr6ykFOYpRoZPfTSLxFF9wB0yizcUoJ1bvStybEuCCU=;f6QFvaTejXYP35pYvA6Lcw=="
 ---
 

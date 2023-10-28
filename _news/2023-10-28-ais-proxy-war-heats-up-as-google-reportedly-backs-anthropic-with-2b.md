@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/10/28/1600x900/UNVRSL-MUSIC-GRP--ANTHROPIC--0_1698460999211_1698461481777.JPG"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Google to invest another $2B into AI firm Anthropic: Report"
+    excerpt: "Google has agreed to invest another $2 billion in AI startup Anthropic, considered to be one of OpenAI’s biggest competitors. It follows Amazon’s $4 billion investment in Anthropic last month."
+    publishedDateTime: 2023-10-28T05:01:00Z
+    webUrl: "https://cointelegraph.com/news/google-to-invest-another-two-billion-in-ai-firm-anthropic"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 37
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/4bc2bae7-c2a5-49e4-a675-199fd094cd1f.jpg"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Google bets US$2 billion on AI startup Anthropic, inks cloud deal"
     excerpt: "GOOGLE has committed to invest US$2 billion in the artificial intelligence (AI) company Anthropic, solidifying its relationship with the startup darling and stoking the Silicon Valley frenzy for AI. Read more at The Business Times."

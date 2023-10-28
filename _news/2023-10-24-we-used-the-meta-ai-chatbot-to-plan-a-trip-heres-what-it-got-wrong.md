@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Poe wants to be the App Store of conversational AI, will pay chatbot creators"
+    excerpt: "Ultimately, Poe wants rapid innovation across the entire conversational AI space, not to constrain progress to what it can handle internally."
+    publishedDateTime: 2023-10-27T16:56:00Z
+    webUrl: "https://venturebeat.com/ai/poe-wants-to-be-the-app-store-of-conversational-ai-will-pay-chatbot-creators/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_surreal_sci-fi_magazine_a_man_looks_intently_at_a_smart_ba1569ff-9052-456e-a9aa-6a66ec7d3e79.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "AI Chatbots Won’t Tell You Who To Vote For, But They Will Create Targeted Political Ads"
     excerpt: "Chatbots like Bard, Claude, Pi and ChatGPT can spin up a range of campaign material from text messages to TikTok videos, but AI leaders have expressed concern over"
     publishedDateTime: 2023-10-24T10:31:00Z
@@ -34,15 +48,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Poe wants to be the App Store of conversational AI, will pay chatbot creators"
-    excerpt: "Ultimately, Poe wants rapid innovation across the entire conversational AI space, not to constrain progress to what it can handle internally."
-    publishedDateTime: 2023-10-27T16:56:00Z
-    webUrl: "https://venturebeat.com/ai/poe-wants-to-be-the-app-store-of-conversational-ai-will-pay-chatbot-creators/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
   - title: "OCBC to roll out generative AI chatbot for its employees globally"
     excerpt: "Called OCBC ChatGPT, the chatbot is powered by ChatGPT’s large language models. Users can type a query in natural language into OCBC ChatGPT via Microsoft Teams, and the chatbot will produce answers based on accessible text-based information on the web."
     publishedDateTime: 2023-10-24T06:32:00Z
@@ -54,15 +59,15 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 39
-  - title: "As chatbots advance, ‘AI agents’ threaten to oust office workers"
-    excerpt: "Researchers are transforming chatbots into online agents that play games, query websites, schedule meetings, build bar charts and do more."
-    publishedDateTime: 2023-10-23T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/as-chatbots-advance-ai-agents-threaten-to-oust-office-workers/"
+  - title: "OCBC launches AI chatbot to support productivity of its employees globally"
+    excerpt: "OCBC announced today (Tuesday, 24 October 2023) that it will avail a generative artificial intelligence (AI) chatbot to its 30,000 employees globally in November 2023, which will assist them with writing, research and ideation."
+    publishedDateTime: 2023-10-24T13:49:00Z
+    webUrl: "https://www.humanresourcesonline.net/ocbc-launches-ai-chatbot-to-support-productivity-of-its-employees-globally"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
+      name: Human Resources Online
+      domain: humanresourcesonline.net
+    quality: 17
 
 secured: "vM8dCGBuJqFyGaJiPZ3z3oR3yndSOWtYUMNsz7t520BYxJ/gE9S9S2o+w+eIJuox6QA5HeldeHUzhGIHwkwr5yiuYkiQDHlZTo4Z/i/kPMQHplIRlwL+idiB2pgBvt37JnxY2CL5dU+BoUXXOT/AKKMp72o6FX7+2s8m9Hp2ra+xQTEuPrUrPW097uOIlqfk4zrEtwuG9jkdtkEh7j8kzFQXbbB9gUMLXA6xPxfrBIt2T9K+XekFiKn26B9n9aAv48bKrN0Qr3QC5XlX9UJgmqyxEpXe6Dfk3O8JxGeRaXGbocjn/2HNMg4uoKha7tZh5+Di7vBwWr9Ob1zshotwvaikzp/WHuwR0m858o4h0czODrNZE58vQbTZROHocobxLd9bGeFoP6rEZONme0RVJOjkc+w6NAPCk6TPtZFsY1HwOaJ9oUL5z7BIySUTxFm7V24Cmf0YWld5zRAwrc1hdPSwkOp5t9fXbkJhzNp9Jci5lceWOlym5ctWjixzbOebP23Tqc2NG0ysMNCsSxHPeg==;BPLgmi/UPB79HU6lWEHyeQ=="
 ---

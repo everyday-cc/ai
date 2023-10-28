@@ -24,202 +24,66 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Impact Companies"
-    excerpt: "Embracing responsible AI deployment, fostering a culture of innovation and prioritizing continuous learning are essential for businesses to thrive in an AI-driven era."
-    publishedDateTime: 2023-10-23T12:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/amp/"
+  - title: "UK officials are using AI to make decisions on benefits"
+    excerpt: "‘There is a lack of consistency and transparency in the way that AI is being used in the public sector,’ said Marion Oswald, a professor in law at Northumbria University and a former member of the government’s advisory board on data ethics."
+    publishedDateTime: 2023-10-23T17:19:00Z
+    webUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/?ico=trending-post-strip_item_4"
+    ampWebUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65329a6eb5a2b7609dec2392/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
-  - title: "Only 9% Of Surveyed Companies Are Ready To Manage Risks Posed By AI"
-    excerpt: "The results of new research about the dangers posed by AI should be a wake-up call for all companies and organizations."
-    publishedDateTime: 2023-10-26T15:37:00Z
-    webUrl: "https://www.forbes.com/sites/edwardsegal/2023/10/26/only-9-of-surveyed-companies-are-ready-to-manage-risks-posed-by-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/edwardsegal/2023/10/26/only-9-of-surveyed-companies-are-ready-to-manage-risks-posed-by-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edwardsegal/2023/10/26/only-9-of-surveyed-companies-are-ready-to-manage-risks-posed-by-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65393a57196e796a19069411/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "AI and its impact on MBA education"
-    excerpt: "Business schools have incorporated artificial intelligence (AI) tools such as Tableau for data visualization, IBM Watson for analytics and natural language processing, Salesforce Einstein for customer relationship management, Google Analytics for ..."
-    publishedDateTime: 2023-10-24T06:45:00Z
-    webUrl: "https://www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/"
-    ampWebUrl: "https://www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 76
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/image-2023-10-24T114111.709.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "FPT buys stake in US computer vision, AI company"
-    excerpt: "Tech giant FPT has invested in leading American computer vision and AI company Landing AI and become its strategic partner."
-    publishedDateTime: 2023-10-25T05:55:00Z
-    webUrl: "https://e.vnexpress.net/news/business/companies/fpt-buys-stake-in-us-computer-vision-ai-company-4668913.html"
-    ampWebUrl: "https://ampe.vnexpress.net/news/business/companies/fpt-buys-stake-in-us-computer-vision-ai-company-4668913.html"
-    cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/business/companies/fpt-buys-stake-in-us-computer-vision-ai-company-4668913.html"
-    type: article
-    provider:
-      name: VN Express
-      domain: vnexpress.net
-    quality: 74
-    images:
-      - url: "https://i1-english.vnecdn.net/2023/10/25/hoptacchienluocfptlanding39908-6268-5357-1698213279.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=FEcJUTI9TdQmDT19f-NfTw"
-        width: 680
-        height: 408
-        isCached: true
-  - title: "Companies Look to Human Moderators to Keep AI Apps in Line"
-    excerpt: "Borrowing from social-media platforms, software maker Intuit is hiring content moderators to help keep toxic language and other bad behavior off its AI systems."
-    publishedDateTime: 2023-10-23T16:53:00Z
-    webUrl: "https://www.wsj.com/articles/companies-look-to-human-moderators-to-keep-ai-apps-in-line-9507fa35"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-873723/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Gartner: How AI Will Impact Work"
-    excerpt: "AI isn't likely to reduce jobs any time soon, Gartner says, but it will impact the way we work. Will you view AI as a teammate?"
-    publishedDateTime: 2023-10-23T17:37:00Z
-    webUrl: "https://www.pcmag.com/articles/gartner-how-ai-will-impact-work"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02PdGp7OwlXIzFLjyMK8FRI-1.fit_lim.size_1200x630.v1698080183.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "The next AI winners may be these old economy companies embracing the revolution"
-    excerpt: "Investor Nancy Tengler says a search for more traditional companies embracing digitization could help investors find less ovious beneficiaries of the AI boom."
-    publishedDateTime: 2023-10-26T11:46:00Z
-    webUrl: "https://www.cnbc.com/2023/10/26/next-ai-winners-may-be-old-companies-embracing-digital-revolution.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 63
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105780978-1551987674187rtx6q3h2.jpg?v=1698320788&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "5 Jobs Artificial Intelligence Can’t Replace"
-    excerpt: "In this article, we will look at the 5 jobs that artificial intelligence can’t replace. We have also discussed the potential impact of artificial intelligence on jobs in another article."
-    publishedDateTime: 2023-10-24T11:49:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/"
-    ampWebUrl: "https://www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/?amp=1"
-    cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/5-jobs-artificial-intelligence-cant-replace-1209694/?amp=1"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
+      name: Metro
+      domain: metro.co.uk
     quality: 59
     images:
-      - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2016/11/25220327/22074401_m.jpg?auto=format&expires=1729900800&w=400&h=225&fit=crop"
-        width: 400
-        height: 225
+      - url: "https://metro.co.uk/wp-content/uploads/2023/10/GettyImages-1199003735.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
         isCached: true
-  - title: "Can Generative AI Be The Smartest Member Of Your Company?"
-    excerpt: "To support the effective, safe and ethical use of generative AI, you'll need a solid foundation of high-quality data underpinned by governance."
-    publishedDateTime: 2023-10-24T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/can-generative-ai-be-the-smartest-member-of-your-company/"
+  - title: "UK officials use AI to decide on issues from benefits to marriage licences"
+    excerpt: "Exclusive: findings show uncontrolled and potentially discriminatory way technology used in Whitehall and some police forces"
+    publishedDateTime: 2023-10-23T20:51:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "How AI is poised to impact government — and vice versa"
-    excerpt: "The future is now, and the public and private sector are both working together and at cross-purposes to meet the moment. Here's how governments are approaching the regulation and use of artificial intelligence."
-    publishedDateTime: 2023-10-24T13:41:00Z
-    webUrl: "https://technical.ly/civic-news/ai-government-use-regulations/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 39
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
     images:
-      - url: "https://technical.ly/wp-content/uploads/2023/10/AI-government-cities-pexels-google-deepmind-17483907.jpg"
+      - url: "https://i.guim.co.uk/img/media/f67ebc8d0858465139589175ab93563fb53a003a/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=39186499043e05877e63f25acf06ca8e"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Millionaire uses Artificial Intelligence to develop medicine"
+    excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
+    publishedDateTime: 2023-10-23T14:55:00Z
+    webUrl: "https://www.aol.com/news/meet-millionaire-using-artificial-intelligence-220148874.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/1a966eeed169632ef66240d355698698"
+        width: 976
+        height: 549
+        isCached: true
+  - title: "Revealed: Government using AI to decide on benefits and driving licences"
+    excerpt: "Government officials are using artificial intelligence (AI) to help decide on everything from approving marriage licences to who should be given benefits, it has been revealed."
+    publishedDateTime: 2023-10-24T06:50:00Z
+    webUrl: "https://www.aol.com/news/revealed-government-using-ai-decide-064919745.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 38
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/3128803184bdd660a7bb0eff51bb8862"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Music companies are suing this AI startup over their song lyrics"
-    excerpt: "Major record companies claim Anthropic’s chatbot spits out the same lyrics as their copyrighted songs. Legal experts say they have a good case."
-    publishedDateTime: 2023-10-27T02:10:00Z
-    webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/hamas-ai-chuck-d-film/anthropic"
-    type: article
-    provider:
-      name: KCRW
-      domain: kcrw.com
-    quality: 37
-    images:
-      - url: "https://www.kcrw.com/++theme++kcrw.theme/images/KCRW_Logo_White.png"
-        width: 542
-        height: 384
-        isCached: true
-  - title: "How AI can help to save endangered species"
-    excerpt: "Scientists are using artificial intelligence to fight biodiversity loss by analysing vast amounts of data, monitoring ecosystems and spotting trends over time."
-    publishedDateTime: 2023-10-27T17:11:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-03328-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03328-4/d41586-023-03328-4_26225544.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "PIONEER IN FINTECH DEMONSTRATES IMPACT OF AI IN PAYMENTS AT MASTERCARD EVENT DURING MONEY20/20"
-    excerpt: "Serial fintech founder to address looming industry regulation and how AI can deliver more value to consumers and businesses  LAS"
-    publishedDateTime: 2023-10-23T11:45:00Z
-    webUrl: "https://menafn.com/1107286496/PIONEER-IN-FINTECH-DEMONSTRATES-IMPACT-OF-AI-IN-PAYMENTS-AT-MASTERCARD-EVENT-DURING-MONEY2020"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?288618"
-        width: 375
-        height: 249
-        isCached: true
-  - title: "How AI combats climate change and mitigates its impact"
-    excerpt: "Climate change remains one of the most pressing issues - we discuss how AI combats climate change in this article"
-    publishedDateTime: 2023-10-25T12:05:00Z
-    webUrl: "https://www.openaccessgovernment.org/how-ai-combats-climate-change-and-mitigates-its-impact/168986/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 19
 
 secured: "tOQ62u68UOq1Eq1QgMthdn+TPSfzN8mgCe5pPooKXyaEAF8Ie/bk+x+tf/AExGkYXEd/fCl+sFvdjXRezWkJuNMJFKwPH9p0Lc6TAuHt54KZt66AyC+bRbWPMpojWHmbV1XWZfTWj84w50OXp1wyW/2ijGrOBlgRHxSfbZ+BwKaLPvTNgNml0arwu9cQPJuYm5Mm+R8oHVLf+zUOAfSoblYSG92jP4fLoxchLKvfjuIkZ52uqfTPZvx6X5vAsVeiXhTmFtjnHwbUZdIQd179vBxPpL4W44sl8YJ7MBtQPh/dHqORqDxV/rHqyEYrQeeSYAOhKMfiAIpROBJvCfjRRQDreWcC70YMgnDzaeI1QX5qZeZel0Xd9ZAV1DGl3R2H/B5ToutU13zpOCmGRA0ueF2MEw/GjdhAEBFmRrljfp3D6SGvuv0ILGv8cBWuLt8EL643XJt59cCmWvOLX8J++/ggQmVnuVj8eiolJLmf4Vt6/v+5lq4YCn+KuTwmt5MyicXRC/iha3zQxVOoRpX3CA==;KZFd6vunixlbWyn8ALEJug=="
 ---

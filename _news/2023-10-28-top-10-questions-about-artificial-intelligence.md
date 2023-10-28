@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-ab
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-about-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "Why actors are fighting for AI protections"
-    excerpt: "Actors on strike amid contract negotiations with production studios are fighting for protections from artificial intelligence (AI), but the concerns they’re highlighting raise risks beyond the scope of movies and television."
-    publishedDateTime: 2023-10-23T13:00:00Z
-    webUrl: "https://www.aol.com/news/why-actors-fighting-ai-protections-100000324.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
   - title: "The fingerprints on a letter to Congress about AI"
     excerpt: "Sy Damle, a Washington lawyer representing OpenAI in copyright lawsuits, covertly organized a letter from tech groups and academics urging Congress to avoid new laws on AI and copyright."
     publishedDateTime: 2023-10-23T19:39:00Z

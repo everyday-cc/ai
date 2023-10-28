@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/people-revolutionizing-customer-expe
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10?amp"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -65,15 +65,6 @@ related:
       name: Inc
       domain: inc.com
     quality: 15
-  - title: "Innovating with responsibility: How customers and partners are bridging data, AI and trust with the Microsoft Cloud"
-    excerpt: "For the past decade, we have been on a journey with our customers to help them achieve digital transformation, which is business transformation empowered by cloud technology. With increasing excitement around generative AI — both for its potential and the impact it is already having — organizational leaders are eager to prioritize adoption that"
-    publishedDateTime: 2023-10-23T13:00:00Z
-    webUrl: "https://blogs.microsoft.com/blog/2023/10/23/innovating-with-responsibility-how-customers-and-partners-are-bridging-data-ai-and-trust-with-the-microsoft-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 12
 
 secured: "meZI4ykNeCgycjElf2qWEbV3vvLk6sLv7svf+WaE/zTLWQkzbw3TuqU1pokZX1RMOF0ZcvY/RcnSC2JgugPTNwWs3rCoFvV+EpKS7si+GUo6rVN2xaCNawjuLOAHEWxQ1KVyneGeQkiivS54JOz0l/izt/slExwxSd0f1QhVeA0SDBdZsn4rifarmGHHG5gh2xD6+odUZKj7Y2BSZR9cDpT634US2Ykc/u5Kzp6p7pBdyWoXOZWbRT5EM3vU0f16HcqQwLwqRGlyD5wQRw6B6MOIsKvdoi0wvZLFBQpMM6+Kf1XEVYcBi9zHXJoSwW3mYDQliqPNIksVIbVED1bHqVmAWWrezhd8xZawGSobAcNC9ZHK6nzZsxWz6sJTWd7xu/5f9Wo1huDJPv2NdZSKww8DngTBd3H6EK1hnqYthj9okaaTO9p3DysvcB0mztbTohkJupFNer3Ifwhwn/PtyoXaCXyvbiDDC0ifu8zj7hF3UiZ5D+N8ZTqS/azOPkphRo7KExwKNVdSog689BqQJA==;d5B2B6ok10QEgDDz9yAzhQ=="
 ---

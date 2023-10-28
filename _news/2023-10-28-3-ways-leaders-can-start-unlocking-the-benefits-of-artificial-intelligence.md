@@ -59,15 +59,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Innovating with responsibility: How customers and partners are bridging data, AI and trust with the Microsoft Cloud"
-    excerpt: "For the past decade, we have been on a journey with our customers to help them achieve digital transformation, which is business transformation empowered by cloud technology. With increasing excitement around generative AI — both for its potential and the impact it is already having — organizational leaders are eager to prioritize adoption that"
-    publishedDateTime: 2023-10-23T13:00:00Z
-    webUrl: "https://blogs.microsoft.com/blog/2023/10/23/innovating-with-responsibility-how-customers-and-partners-are-bridging-data-ai-and-trust-with-the-microsoft-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 12
 
 secured: "ffnMmN+r4I+ykPhYEofvu/qaURUe/+Q6J3oXbFbuWVEhRt5mBg2L5R8A32+ct4SSSVgz4ulrJ5Y2XJdWb/ki/TdF1BErKgcJqGucQRnbCkoSXLzWviBG2G/Dhixo6HTYoMMT2gzzR+sz9kNp1FUGF9oQPG6v5+Cxwa5KlAY+NiR1qfWr5kAe7ijJlkXfzTijso8tgdSDUyrXLXU5ID7yJaLeSrVn8VTp6T/RwoS71NJU/D8u76EN7F+bzon6ZXswI20ozY+7EtbNroMAY38pnQfGi0/Q0IFVLif2/q3ypnbttDiQEQFp7EL5pM9BlZCnDLebvPpMAU1dgVSmNL9gdM+wt1u/iKiX8MuQFIhVDH378dU+4c52IIk4ddeRdZKvSlSm2vIurEbgdVcLDC2g1Us+lYnfGcKM8pVfEiSri3nb9TRgRaS3AE9dpXJyxmU1lNy+kJob0Qq0vOX7fTSggqr4voPtkfz1GobQwi3JeJuD+sRwou1K1R8kCcVvDrg/NjDOiY/WkRbWdxzdcg2Yaw==;Kihj5vl3tgLxROrxPtpYdQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/10/25/microsoft-alphabet-earnings-ai-a
 webUrl: "https://techcrunch.com/2023/10/25/microsoft-alphabet-earnings-ai-analysis/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "2023 Women CMOs in Fintech Report: Marketing Investments to Remain Strong, CMOs Orchestrating Success, and Generative AI Boosting Efficiency"
-    excerpt: "Key findings from this year's Women CMOs in Fintech report include: Marketing investments remain strong: Despite the challenges of reduced venture capital and rising costs, marketing spend is not waning for most fintech brands."
-    publishedDateTime: 2023-10-23T12:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-2023-women-cmos-fintech-report-marketing-investments-rema-/2023/10/23/9903151.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "bZFLCcbeoTMPRwfVvOd6Sv/fZconx+cO6tnEcy/VUL7Eu4rVc33lNaAGd2y5fhHbA2Df6jIJKsaOB8T+xUXwlqvYDvQERokzyRahy84MnQkX9EHWlxKR06AdHpxVEgCZuCyvuOXeyEu3WvBkslvLSHvuqDrwM6T8wYrkV3YnnE+gs6jEtw5wplVqad3MX7VD34gd0jYgO11sWz3M8s+cW2uufSqmhIjORr+SpIg1qt2ASmfl71m1soYsoMRnAqmani2Qa7DKuX6JMSDcxGxUM7KCKFOy33kx68s//z+LwWgG1yV0TDGwot+BwsnHYKM5UoJIp4ftVeBFt+ZF/+Hav6Ez1azIZs+ry8XKlJ83Bc8=;8c1YPmFqLkFMHnA0tr2FUw=="
 ---

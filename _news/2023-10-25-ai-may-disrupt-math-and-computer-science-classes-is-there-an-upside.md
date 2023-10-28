@@ -34,15 +34,6 @@ related:
         width: 2560
         height: 1843
         isCached: true
-  - title: "AI might disrupt math and computer science classes — in a good way"
-    excerpt: "AI can serve as a tutor, giving a student who is floundering ... seeing how different methods can give different or the same answers and how to translate those answers into decisions about the world. “ChatGPT, just like the calculator and just like ..."
-    publishedDateTime: 2023-10-23T13:04:00Z
-    webUrl: "https://www.seattletimes.com/education-lab/ai-might-disrupt-math-and-computer-science-classes-in-a-good-way/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 36
 
 secured: "tHPkteL0uRxRViiscGaJpmryOz4/2Amh0WK5bO6JKib30iIHOPhM/Pc6QGTrU6R+zMmhvTikr8Qztnj/dQabVuZCpstQLrCqeQ/xk2vxU6sK5z2MkGDHNCPIVTtfcK4Zkac2R2NrTG+nnSgyWBOyxjU3gtp8VM0XcPRRgnCIG2arkOx6lzIf37nIUPzK2Fi30/3pPpcxClfCNeUFgYX19i1FQVqevoPcvTlHqmyPcB5LjPq6cCHAvp1sJiExrwvNKb6/4bJEkpYav/oUCtD1MCSu76nU5vcszJ9/datbshjqv2beKSfzR7hEQ/EVGG5Bvbn90h1NoVLFIMaBnsFRO0bBjPf9E9WXwcsf61bJvNk=;6n1OA0n1ZX2RYdw96OVC1w=="
 ---

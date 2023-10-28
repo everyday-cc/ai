@@ -7,8 +7,8 @@ originalUrl: "https://www.ecampusnews.com/innovation-insights/2023/10/26/florida
 webUrl: "https://www.ecampusnews.com/innovation-insights/2023/10/26/florida-higher-ed-ai/"
 type: article
 quality: 51
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: ecampusnews.com
@@ -20,29 +20,34 @@ topics:
   - AI in Education
 
 related:
-  - title: "The Role of Artificial Intelligence in a BS in Computer Software Technology Education"
-    excerpt: "Education has become the cornerstone of innovation. As the demand for skilled professionals in computer software technology continues to rise, educational institutions are adapting their curricula to meet the industry’s changing needs."
-    publishedDateTime: 2023-10-24T09:56:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-a-bs-in-computer-software-technology-education/"
+  - title: "The next AI winners may be these old economy companies embracing the revolution"
+    excerpt: "Investor Nancy Tengler says a search for more traditional companies embracing digitization could help investors find less ovious beneficiaries of the AI boom."
+    publishedDateTime: 2023-10-26T11:46:00Z
+    webUrl: "https://www.cnbc.com/2023/10/26/next-ai-winners-may-be-old-companies-embracing-digital-revolution.html"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 49
+      name: CNBC
+      domain: cnbc.com
+    quality: 63
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/The-Role-of-Artificial-Intelligence-in-a-BS-in-Computer-Software-Technology-Education.jpg"
-        width: 600
-        height: 400
+      - url: "https://image.cnbcfm.com/api/v1/image/105780978-1551987674187rtx6q3h2.jpg?v=1698320788&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "The AI Revolution: Surgeons Share Insights on Integrating AI into Surgical Care"
-    excerpt: "Unprecedented AI integration is changing the landscape of surgery, drawing on data-driven insights to enhance patient outcomesBOSTON, Oct. 27,"
-    publishedDateTime: 2023-10-27T17:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-ai-revolution-surgeons-share-insights-on-integrating-ai-into-surgical-care-1032749253"
+  - title: "A new phase of the AI race is coming — and chip startup d-Matrix could be the winner"
+    excerpt: "Yahoo Finance sat down with d-Matrix CEO and founder Sid Sheth to talk about how the company is planning to compete with Nvidia, the next chapter of the AI race, and when the chip shortage may finally come to an end. The below interview has been edited for brevity and clarity."
+    publishedDateTime: 2023-10-24T14:58:00Z
+    webUrl: "https://www.aol.com/phase-ai-race-coming-chip-115849826.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
+      name: AOL
+      domain: aol.com
+    quality: 47
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/rRcP8cO6rp0r751y23Ul6A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/aol_yahoo_finance_433/da66589505d6af4063c6633be997ef78"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "The AI revolution may take longer than you think"
     excerpt: "Fintech, pharma, automotive and retail are all industries poised to profit from the great AI disruption. Avi Goldfarb explains how to get in on the act."
     publishedDateTime: 2023-10-26T15:41:00Z
@@ -57,15 +62,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "Enterprise software developers prepare for generative AI’s ‘productivity revolution’"
-    excerpt: "By all accounts, the impact of generative AI on software development will be profound. A recently published survey by GBH Insights LLC, which does business as GBK Collective, found that 78% of companies expect to use AI for software development within the next three to five years."
-    publishedDateTime: 2023-10-23T18:59:00Z
-    webUrl: "https://siliconangle.com/2023/10/23/enterprise-software-developers-prepare-generative-ais-productivity-revolution/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 12
 
 secured: "E88BBXmEjKARCAg3O5e5NDVFKXFljx8VtSJOynTagvjtUe6bs30yWm8zke1f0PXwLEIUSbZLRj1SO1BcLP7zMKi/y9M1vzBfBwll48sOKV6HXijln8CfdXbdxkO/rt15wRXlyCNJMk0KS8rUX1T4rNmbeehNXs8o/Oop2LfG4RilphQ64yKmPGUvZbO3SZv4/IImY2ae8BgfBpSh3jhjSG9kqv8kisIucQ6RD+Pqe5JcyiS4wdLIbvVosfCpr2sKmarivk1mHQfsVeKUXPI81YrNuyEAEiyRq27s4ciQVajd3xGd3GBGk1oauFg+RaBrAsjKWAgiXsHQMRFGhCCFq4cBkR9EtHHwryzB3iGYfW8M8oMW0LvuLViivECQAGqSmW4kZh4QVGj2G1WQqIGxhh4vcL0hw3f2MWiIBRqbhFlVFAVcWn6QXScEtT4dqxdvXo9iLtpMIdZEwl5gLloSC328O+mDZG2ek9vKWN+MqOopbr+lG6kDonqjFNgeHTopxvNgJFJuaJ/XhKGwTUPwSg==;e0xucj+yVGIcZjXEjhFYfw=="
 ---

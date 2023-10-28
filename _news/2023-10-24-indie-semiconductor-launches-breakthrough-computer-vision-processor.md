@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Indie Semiconductor computer vision processor boosts automotive ADAS"
+    excerpt: "Indie Semiconductor has expanded its automotive camera video processor portfolio with the commercial release of iND87540, a highly integrated system-on-chip (SoC) that enables improved viewing and sensing capability."
+    publishedDateTime: 2023-10-28T05:25:00Z
+    webUrl: "https://www.imveurope.com/article/indie-semiconductor-computer-vision-processor-advance-automotive-adas"
+    type: article
+    provider:
+      name: imveurope.com
+      domain: imveurope.com
+    quality: 19
   - title: "Indie Semiconductor computer vision processor to advance automotive ADAS"
     excerpt: "Indie Semiconductor has expanded its automotive camera video processor portfolio with the commercial release of iND87540, a highly integrated system-on-chip (SoC) that enables improved viewing and sensing capability."
     publishedDateTime: 2023-10-27T11:49:00Z
@@ -29,6 +38,6 @@ related:
       domain: imveurope.com
     quality: 18
 
-secured: "ZGchCN0p0D3Jtf1RBI6yvosZQr3isseLQ48liKsw2pe4NuuJdhsjmo+/IKXCVGZWs+oIN5LQK2JIG+f5TlZcmQ73upXFEGsESIS9BM9Esdmq0yM5ph7zB/ETPnMrcZx3AYxVnXuSXro5lvbSsBkc571c6QynVclO1dWcJUG1VdePIV6NrUeZ3rm2oNV9xtiM3qU04NkSvARPdmbwWxxmOl1FreQ6hUVlCqCnntIbxMrEWCwdmm0nDAhUVUmHc3VIdD8ioAd9E9kyCgibcRFrE7X0kCI5opW7UanRqiXWERpNYlaUMUI9L4rG8HeH2yUXoWfz7W74FRWsi6QJZ+B2pFu49zPRU69sRkxcj1+csc0=;z+nYOlr1wlJfgceA625BAg=="
+secured: "y7H4wRBiyLEEZoVGCLsw3MKyJ8WHXpYT9nkVdNtdLnYpJo3yknDCRM1HDBmNeHaP6qrQEEtEd6kfaELiGTQXKQkc3hezl6VA45Hn5ljMA38Af44jnnQdIlWu3pgPdA49SjRgPMCN4xdI2I37uANHwlk3fqu6SeZnAh7VzS8L/j1htubMHR6YunzhZpFdn1b0vzBi5lmoTKiOcxraJqoVI9coD3K5QVaG12p/BVVoYn7S8ftNZigQk+e5ohOt0l8+GyEmEm6h/2GdZn0ltWYj3KcLs2rVO2xnWgmp9E2gmlUHmkAnIArKmU2v+fUY6nkwScKnefGYjjqp/5ILEuxihD6trZqkjn3nWlCVisYtK/4=;TFat35dbP0pDvx6aBwUCCQ=="
 ---
 

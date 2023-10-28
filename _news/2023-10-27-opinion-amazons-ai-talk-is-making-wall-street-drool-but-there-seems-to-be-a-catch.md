@@ -9,8 +9,8 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/amazons-ai-talk-is-making-wall
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: MarketWatch
@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: Big tech is battling to put AI on your PC, laptop and smartphone"
-    excerpt: "It also has the most robust software ecosystem to enable AI processing of any technology company, with a multiyear head start over any competitor. We haven’t heard much from Nvidia when it comes to on-device, client AI. (Recently Nvidia disclosed a ..."
-    publishedDateTime: 2023-10-23T11:43:00Z
-    webUrl: "https://www.marketwatch.com/story/big-tech-is-battling-to-put-ai-on-your-pc-laptop-and-smartphone-fee49dac"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/big-tech-is-battling-to-put-ai-on-your-pc-laptop-and-smartphone-fee49dac"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/big-tech-is-battling-to-put-ai-on-your-pc-laptop-and-smartphone-fee49dac"
+  - title: "Analysis: Amazon earnings show AWS’ importance, but it needs gen AI production workloads"
+    excerpt: "AWS has lots of work to do to convert its partner ecosystem leadership into AI-backed strategic partnerships and client engagements. It’s expected to continue its effort in laying the groundwork for the “long game” of the cloud wars and the next phase of cloud computing where AI will be the expectation in all aspects of cloud workloads."
+    publishedDateTime: 2023-10-27T01:46:00Z
+    webUrl: "https://siliconangle.com/2023/10/26/analysis-amazon-earnings-show-aws-importance-needs-gen-ai-production-workloads/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 47
     images:
-      - url: "https://images.mktw.net/im-773574/social"
-        width: 1280
-        height: 640
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/46600198075_8477bdd292_k-1-2.jpg"
+        width: 2048
+        height: 1366
         isCached: true
 
 secured: "96JUi9j9RYOLpha+szR7Y4GgUQDEhNDz4XF+rhS/FGchZTjgVvrgvI44F9MkaiA+feV1CMTAY25OftGzhqxgdF9Q4KYhG+0iJUbcL/hlxIVYMUqW5K1m+PVXXFYssyG8pSgj6GUWasXpK2fTL7lj5ma+2FHYHiLpqXvJ1EsSV3vNUYFBxHBiJ5nPmn0hxAKWPON9y6Cv0l2kS3WNPqZ/ixd7bunoQ+TEFkPd/ZO/cjiYH0LoFdNWcE89eld0YLJgA15UGqkeIEv7HBeNQsJIQjOy47PZSP5bMEYxTlVjCyLBNyL9ZX2Gqqrb1lRYsp2Ay/PjVsUF+RnFljAPgYri3VQ1w6rIanJP7XRBupcLoh0=;nQxQ6cdsixelr/6umP6V2A=="

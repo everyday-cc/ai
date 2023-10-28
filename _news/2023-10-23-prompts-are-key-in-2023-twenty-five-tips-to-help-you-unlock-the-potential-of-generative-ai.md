@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Believe it or not, these jobs and industries will be most positively impacted by AI."
-    excerpt: "His column “Datafication Nation” is part of WRAL TechWire’s Startup Monday package. RALEIGH – Last week I wrote about concerns in the public that artificial intelligence (AI) will eliminate jobs. In particular, this emerging technology is ..."
-    publishedDateTime: 2023-10-23T12:36:00Z
-    webUrl: "https://wraltechwire.com/2023/10/23/believe-it-or-not-these-jobs-and-industries-will-be-most-positively-impacted-by-ai/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 10
 
 secured: "SEws0Wd0bIEV3GO9zPgZO5XNSxJMsoYNH8dvcgNpAxPlYC2rCTSGcSa4HuoaOH52FbJ3YR/QuKmfssRA+v5Vh/djk135NsPllvulMBAdQMLmA1T6yi3WvIByGgXgiNd5zDOOFcieM3Pz9pFIndBfJebF+auBvQb0foAifMMQppzV+kDOBxtgd9EFIAx8UWV0BDOX76NgJ/ZEafq8TgjFFms28AAArRe+6U7iHibSOvoXgMMJy8k9JjpmMHMPbDZgJZD1Ka9wsKjSt1PCbBjkXPgd2sxNwDNngFJkCkir5G71aZcfeqyATXuzKLy5oGRoYjm0pV44g4Qt/BZ8LUHuDVBbyOLZvifjPcN1yXnxKiQ=;sH9y7R8AFT+nd8oe8+1tZw=="
 ---

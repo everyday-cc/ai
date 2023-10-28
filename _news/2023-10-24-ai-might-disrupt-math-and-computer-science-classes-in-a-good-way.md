@@ -7,8 +7,8 @@ originalUrl: "https://hechingerreport.org/ai-might-disrupt-math-and-computer-sci
 webUrl: "https://hechingerreport.org/ai-might-disrupt-math-and-computer-science-classes-in-a-good-way/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: The Hechinger Report
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI might disrupt math and computer science classes — in a good way"
-    excerpt: "AI can serve as a tutor, giving a student who is floundering ... seeing how different methods can give different or the same answers and how to translate those answers into decisions about the world. “ChatGPT, just like the calculator and just like ..."
-    publishedDateTime: 2023-10-23T13:04:00Z
-    webUrl: "https://www.seattletimes.com/education-lab/ai-might-disrupt-math-and-computer-science-classes-in-a-good-way/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 36
   - title: "AI may disrupt math and computer science classes. Is there an upside?"
     excerpt: "Professor Price doesn’t see ChatGPT as a threat, and he’s not alone. Some math professors believe AI, when used correctly, could help strengthen math instruction. And it’s arriving on the scene at a time when math scores are at a national historic low and educators are questioning if math should be taught differently."
     publishedDateTime: 2023-10-24T17:22:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.jdsupra.com/legalnews/pra-fca-and-boe-publish-feedback
 webUrl: "https://www.jdsupra.com/legalnews/pra-fca-and-boe-publish-feedback-on-ai-1675178/"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "UK regulators report back on AI and Machine Learning consultation"
+    excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
+    publishedDateTime: 2023-10-26T11:30:00Z
+    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
+    type: article
+    provider:
+      name: Asset Servicing Times
+      domain: assetservicingtimes.com
+    quality: 56
+    images:
+      - url: "https://www.assetservicingtimes.com/assetservicesnews/images/ThursdayOctober2620231698319657.jpg"
+        width: 990
+        height: 640
+        isCached: true
 
 secured: "g64er307M1IAMMKjGbIyyyuGLl/qzu40LcgdjzPcHknbz3YNhax/bqCHje58XcZmF2ruyrFmCCUksES4UT8aiHhPCXndz9qXBIDdAbZj/8KsLXrx/m78QdDhLS8ClKnPAkWVMFBS4a7Nm5nIyu3l14uionHdgzOxap9X0Xswv6igAYXUAbmdKkLVqB7dH/cf3qwFbEVGEn5bypOsE34lzhJYx6Wz7vo6k6ih2ghX8pHQtaVOjHSWVOeZDufDD573WERf8QsUN5dSWkIlAUlTxeUZCzFkZWtEbrHPU9NzEOJZKcgquPlH38FrukzIpaVks33YH1FsaJmolQzpfavSzQH3PVGsMl3NDa1nrFsSeIY=;V/SZE4Fi9d4GvHxoMHGoeQ=="
 ---

@@ -21,75 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "UK officials are using AI to make decisions on benefits"
-    excerpt: "‘There is a lack of consistency and transparency in the way that AI is being used in the public sector,’ said Marion Oswald, a professor in law at Northumbria University and a former member of the government’s advisory board on data ethics."
-    publishedDateTime: 2023-10-23T17:19:00Z
-    webUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/?ico=trending-post-strip_item_4"
-    ampWebUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
+  - title: "These Nightmare AI Scenarios Have the UK Government Spooked"
+    excerpt: "Ahead of a global summit on how to keep artificial intelligence from doing harm, a UK government report warns that the tech could be used to help create bioweapons, or escape human control altogether."
+    publishedDateTime: 2023-10-25T22:38:00Z
+    webUrl: "https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
+      name: Wired
+      domain: wired.com
+    quality: 69
     images:
-      - url: "https://metro.co.uk/wp-content/uploads/2023/10/GettyImages-1199003735.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
+      - url: "https://media.wired.com/photos/6539900d34195a696cda346b/191:100/w_1280,c_limit/AI-biz-GettyImages-582780248.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "UK officials use AI to decide on issues from benefits to marriage licences"
-    excerpt: "Exclusive: findings show uncontrolled and potentially discriminatory way technology used in Whitehall and some police forces"
-    publishedDateTime: 2023-10-23T20:51:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/f67ebc8d0858465139589175ab93563fb53a003a/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=39186499043e05877e63f25acf06ca8e"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Millionaire uses Artificial Intelligence to develop medicine"
-    excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
-    publishedDateTime: 2023-10-23T14:55:00Z
-    webUrl: "https://www.aol.com/news/meet-millionaire-using-artificial-intelligence-220148874.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/1a966eeed169632ef66240d355698698"
-        width: 976
-        height: 549
-        isCached: true
-  - title: "Revealed: Government using AI to decide on benefits and driving licences"
-    excerpt: "Government officials are using artificial intelligence (AI) to help decide on everything from approving marriage licences to who should be given benefits, it has been revealed."
-    publishedDateTime: 2023-10-24T06:50:00Z
-    webUrl: "https://www.aol.com/news/revealed-government-using-ai-decide-064919745.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 38
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/3128803184bdd660a7bb0eff51bb8862"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "UK officials use AI to decide on issues from benefits to marriage licences"
-    excerpt: "Exclusive: findings show uncontrolled and potentially discriminatory way technology used in Whitehall and some police forces"
-    publishedDateTime: 2023-10-23T12:48:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences?ref=emergentmind"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 15
 
 secured: "iKY7rr7lsvmVPLZLr6yaSmTyFGOy3IOmEZIRdF2eMOlN5d8BIFkWs3N9pwA0XVmT7mJngwo8StCpPS/lYo2imTl8d9KSy74AadWThRUDgVafbqc52nfzgSaLJFSXCB5B5csJk+osPCYfa7DYzplgGYhy+Vvh37Of7EoWBS0zJsjUALoftjllX8Bll0UpkodJI01KsRNLEZoxOcUpdxVmOsIYuSKRlbK482J++E0AYiRtE1PgOlj0JjZDvcJoA6mToSWcgLjS0ljjyce5AWpsG3o9Cf1etY0DGFimHEj2HX0qrWRs0I4QNufs4sFHcJhieKhpK7ooxV+9/1HGLK97Dx+cqouSyNLVa+r5LFjFEZYwbPbfawQ2CrKDcsO5OQQwPF6Cy3Bo3EEbm6RV0hxZJd5hfLzvQ31/Uex2YS9swCF+9GgFA4GPZ4NxO7DIazI+zVu1c67c0tAzfKBwyiVWFH7kC6/vRn8TGpt1JwMBWo763TP42jplRfXUlVZzJPWtJAGDi+LvvtW8Xu+rgcTESQ==;ZrfaCGEf2gctrSbt266QSQ=="
 ---

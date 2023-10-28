@@ -57,15 +57,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "2023 Women CMOs in Fintech Report: Marketing Investments to Remain Strong, CMOs Orchestrating Success, and Generative AI Boosting Efficiency"
-    excerpt: "Key findings from this year's Women CMOs in Fintech report include: Marketing investments remain strong: Despite the challenges of reduced venture capital and rising costs, marketing spend is not waning for most fintech brands."
-    publishedDateTime: 2023-10-23T12:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-2023-women-cmos-fintech-report-marketing-investments-rema-/2023/10/23/9903151.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "guFMqXwflUo5pJqAkMLTp7VQLhE5lmKkz6MC0zLNTlsnozMjLCYycTvQn8xovfST3PYc2hxvKYteCrl/E2MD72YdvTWi/YvZ7I9a+R3Vcjz0i0inhgCeTOV04CO5C8/XmrxIa+28YmX5ELXSpjoQ4f5DMJvmasPJCkHJTS2jAEGApAiyI8FN2SohZvcos17ynx1WScu/gbkeY7XXcSUmbWvHOyFbR39cOV8NPNcVEcvsWfsKr1t9R1OhMb26faVx6KnmV8VfdNuWWIW6chhZzQf5w0wrvZMAJOyB8HlaJNPulfj+SsMJoTBeyIOR3lPJ40oW5kzd3IVmgvrUg32pBnCiwkWY6z67xqGvBPGzMCA=;Fgm993yH/0TmS2zylH5nNA=="
 ---

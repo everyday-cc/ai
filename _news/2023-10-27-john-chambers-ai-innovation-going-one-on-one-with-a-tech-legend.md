@@ -60,15 +60,6 @@ related:
       name: Inc
       domain: inc.com
     quality: 15
-  - title: "Innovating with responsibility: How customers and partners are bridging data, AI and trust with the Microsoft Cloud"
-    excerpt: "For the past decade, we have been on a journey with our customers to help them achieve digital transformation, which is business transformation empowered by cloud technology. With increasing excitement around generative AI — both for its potential and the impact it is already having — organizational leaders are eager to prioritize adoption that"
-    publishedDateTime: 2023-10-23T13:00:00Z
-    webUrl: "https://blogs.microsoft.com/blog/2023/10/23/innovating-with-responsibility-how-customers-and-partners-are-bridging-data-ai-and-trust-with-the-microsoft-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 12
 
 secured: "IXDDpDR1mZS+MawkOXA3FKFUm2Ck/ve9rzTru+WdclWSG0naHgrAuY5FDqHsRxJyaOwGRZxWpP05ZP0+pRhx29vIvz/nxtEPUqBp9Camlwsj/tVwIS/dzl9EsLOq2EaWE82IzlPmhi2AlGY0CoJ4MsPljqw/gaj8xpEXesTGxDQj+gSJI4qcXyAJ7S7n5pmgKW+RujlfTjrRmLV893CZnUI15E3MVRnZap3SS4qPJmI7PtGIPCXLMZ9N6bmvsmcDHHKWeJmfi6YZQKn6fsahHIjlbSjhyokXv8XR/t4FAeUu9jHgHU1PQ9OpwZXuF5ZgS6iYz3ygCajKiVnZo/8nnDyDi5ecBi0hSsbvja5Ksjo=;DbyUCIReJNHjJbbycflOgg=="
 ---

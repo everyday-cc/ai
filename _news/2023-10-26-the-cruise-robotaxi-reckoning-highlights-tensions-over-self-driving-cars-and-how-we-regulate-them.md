@@ -61,15 +61,6 @@ related:
         width: 300
         height: 400
         isCached: true
-  - title: "Accelerate SF: Meet the former tech employees who want to use AI for social good in San Francisco"
-    excerpt: "Accelerate SF aims to harness the power of artificial intelligence to solve some of San Francisco’s most pressing public sector challenges."
-    publishedDateTime: 2023-10-23T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/accelerate-sf-meet-the-former-tech-employees-who-want-to-use-ai-for-social-good-in-san-francisco/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
   - title: "California DMV Halts Cruise’s Self-Driving Robotaxis Statewide"
     excerpt: "A Cruise, which is a driverless robot taxi, is seen during operation in San Francisco, California, USA on July 24, 2023. The California Department of Motor Vehicles has yanked Cruise’s permits to operate its autonomous vehicles across the Golden State ..."
     publishedDateTime: 2023-10-24T18:31:00Z

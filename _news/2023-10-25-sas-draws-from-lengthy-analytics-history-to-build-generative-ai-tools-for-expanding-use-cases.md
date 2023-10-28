@@ -68,15 +68,6 @@ related:
       name: Kentucky Today
       domain: kentuckytoday.com
     quality: 4
-  - title: "Databricks, the $43 billion analytics firm, acquires data startup Arcion for $100 million"
-    excerpt: "Databricks agreed to acquire Arcion, an enterprise data company, for $100 million Monday, including incentives, CEO Ali Ghodsi told CNBC."
-    publishedDateTime: 2023-10-23T12:30:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/databricks-the-43-billion-analytics-firm-acquires-data-startup-arcion-for-100-million/4792693/"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 0
 
 secured: "JbijHgqQ1nfFG7X+Kczvo618pUSchLWFxGgmFuDzQA9BI232l7+SWtIZQxnSrSDpIP+G6UsQplIJQi8XNjYjZGlHgARR2cu5K0BbEeeHHDQDsF5OqZkACVY/yhawUiVyjNInxN5HS1rjtbMJPxpIhmPYhzPTyyOEGwPZ/ADbJjY+KOFEPJXYAbK5EZaAP9o3bLW4+cqDIodTZ2MOYMEBxiiWrWyYv2Ai1cOt278P2Mz3TMHi5XH00VEm5nLKK+8CRoFJ8DQNw9fX8XLOGxda29c10TMTGbBGfaaQdu0EEAmIPF2rsSAvDIVyxvrmmGoKTp0l+ayaAvcoZf+sOwa0jaTboPlzqorfjfMCL7itMtdNYQjwM62owVzZtzo6WdtWKIPY7DdQtRrDuNRM8jwIcdv5Poq9nHyJzIt4AXB3IEQEzoDBwa10JIchwvWmPFeBudGmAQR6oNapeW/RtxmVozWi7o/erffNAxXUrRP+v9JSbRTDMsH6RIdQgZ1yLTVrHKwkPU2E+dhyXccP+c2Xwg==;mCwQMS19XG9ISFduWiwU9g=="
 ---

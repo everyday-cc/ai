@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "10 out of the 13 startups are focused on AI & Deeptech"
-    excerpt: "\"As we kick start new company-building journeys with our Surge 09 founders, it is clear that we are witnessing the incredible growth of AI and deeptech innovation, as well as the abundant talent in these sectors emerging from Asia. We are thrilled to be at ..."
-    publishedDateTime: 2023-10-23T12:42:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/10-out-of-the-13-startups-are-focused-on-ai-deeptech/464109"
+  - title: "The Future Of Fintech Summit 2023: Join Leading-Edge Forbes Cyprus Event"
+    excerpt: "Aivitam Ventures, together with Forbes Cyprus, invite you to Forbes Cyprus The Future of Fintech Summit, a global offline fintech event on December 7-8. We’ve been bringing fintech executives, investors,"
+    publishedDateTime: 2023-10-27T10:21:00Z
+    webUrl: "https://financialit.net/news/fintech-startups/future-fintech-summit-2023-join-leading-edge-forbes-cyprus-event"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
+      name: Financial IT
+      domain: financialit.net
+    quality: 23
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1698063814-IMG-1433.jpeg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
+      - url: "https://financialit.net/sites/default/files/tfofs_cover.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "6X7a5DeSC7Ll33z0eOKSlvPJdzhHBMzLFUgXEt+ReVK8oidawcptoh9XhNlCg8lOE4jttqta1ra6YQNQYV5GYo04rm1dLSNTIsZWcSM4RzW7R6rOTQJZlXHsAK+iuqNo+P1uPKnP6Qt96ztOxFXuJw/Jx7iA59Y8tpRuJCGZ8cLpWvONdtVJ0Cbz5AYkw7SzfanIsRHY81KItphaTLpVBIMdL4nWEwGVCf5NLRTUxk3UTiCV2AKKQYtbY3ugR+h8bt/WDIToPb09pklIatlfI/AMjkNB0XhFIEA91R8Fo8zShHtEqB+fE5HhzJpN43lFaqRzftz1OaSu1u1awWtEZ6yTb8sWl8yV+0aLpWOObcA=;uSVBzVshNRjgh/kdQ0+nlA=="

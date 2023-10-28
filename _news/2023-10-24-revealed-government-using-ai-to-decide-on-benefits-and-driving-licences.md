@@ -71,26 +71,20 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "AI Now Making More Critical Decisions in UK Government Functions"
-    excerpt: "The UK government has turned to artificial intelligence to make critical decisions. These range from deciding who gets financial help from the state to who can get married. The Guardian's investigatio"
-    publishedDateTime: 2023-10-27T09:45:00Z
-    webUrl: "https://techround.co.uk/news/ai-takes-centre-stage-in-uk-government-affairs/"
-    ampWebUrl: "https://techround.co.uk/news/ai-takes-centre-stage-in-uk-government-affairs/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/ai-takes-centre-stage-in-uk-government-affairs/amp/"
+  - title: "How AI Can Help Leaders Make Better Decisions Under Pressure"
+    excerpt: "More and more businesses are turning to AI-powered technologies to help close the data-insight gap and improve their decision-making capabilities in time-critical, high-pressure situations. These technologies encompass a wide range of tools,"
+    publishedDateTime: 2023-10-26T12:25:00Z
+    webUrl: "https://hbr.org/2023/10/how-ai-can-help-leaders-make-better-decisions-under-pressure?ab=HP-hero-latest-text-1"
     type: article
     provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 39
-  - title: "UK officials use AI to decide on issues from benefits to marriage licences"
-    excerpt: "Exclusive: findings show uncontrolled and potentially discriminatory way technology used in Whitehall and some police forces"
-    publishedDateTime: 2023-10-23T12:48:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences?ref=emergentmind"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 15
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_26_Beatrice-Caciotti.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ABNUmF3bSfjcgIje/JKYfbxwguKdTWgeF3Ewa+Lmb9bwyaDOZ4OvrrM9qtGtAXLU02FHD2I6GBL0aVLaC+GD3mFUIgbiEr0d7G1+nsRk5nGvI9NgM7O4t2gCgg4xjFJScxcA/FV9R3047UTb8exLOtXlD9HpE0hW2hlEU5wV1u5wHdNjzhu6TVZCVdzWrjLsaWDuIPMkVjBq82Aaf8RhgHVURmHCr630MByqZ06prZrlNM4txtTQriqVSisZyXFS91kJpgVsVk6kqJ/eQSPoe3YpXmL/MesCGSWqPFWY3VSYDrCS3sH8zNh96AMFlSW2ViUDZySP30iDnmKYEJyYKLqGG8NplSiVOIoFQ1PrstM0GkTibpGmoSifCrvXz9iq09+71b6mXX0K3/IYsdo7O5snog8TJKQlC/F+9SAs9COAiOm2p4UcFUvQp8i7FerRCozajJTDh0BkepbdJYgUHYL+9QOXbXxH9L8+bo89YbGzBsG5F8NSexc3j+8yLS8hCtvgqk9ywesnwX+CtV8NfA==;DOEZ6WZW7d6MPT8a6xCLGg=="
 ---

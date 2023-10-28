@@ -65,15 +65,6 @@ related:
         width: 300
         height: 400
         isCached: true
-  - title: "Accelerate SF: Meet the former tech employees who want to use AI for social good in San Francisco"
-    excerpt: "Accelerate SF aims to harness the power of artificial intelligence to solve some of San Francisco’s most pressing public sector challenges."
-    publishedDateTime: 2023-10-23T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/accelerate-sf-meet-the-former-tech-employees-who-want-to-use-ai-for-social-good-in-san-francisco/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
   - title: "California suspends Cruise self-driving vehicles in blow to GM"
     excerpt: "California's auto regulator said on Tuesday it has suspended General Motors' Cruise autonomous vehicle deployment and driverless testing permits, saying it had misrepresented information related to the safety of the autonomous technology."
     publishedDateTime: 2023-10-24T21:37:00Z

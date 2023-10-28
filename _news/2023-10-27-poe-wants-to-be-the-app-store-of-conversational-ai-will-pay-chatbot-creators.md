@@ -6,9 +6,9 @@ publishedDateTime: 2023-10-27T16:56:00Z
 originalUrl: "https://venturebeat.com/ai/poe-wants-to-be-the-app-store-of-conversational-ai-will-pay-chatbot-creators/"
 webUrl: "https://venturebeat.com/ai/poe-wants-to-be-the-app-store-of-conversational-ai-will-pay-chatbot-creators/"
 type: article
-quality: 46
-heat: -1
-published: false
+quality: 66
+heat: 106
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +21,12 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_surreal_sci-fi_magazine_a_man_looks_intently_at_a_smart_ba1569ff-9052-456e-a9aa-6a66ec7d3e79.png?w=1200&strip=all"
+    width: 1200
+    height: 672
+    isCached: true
 
 related:
   - title: "AI Chatbots Won’t Tell You Who To Vote For, But They Will Create Targeted Political Ads"
@@ -59,16 +65,16 @@ related:
       name: Skift
       domain: skift.com
     quality: 37
-  - title: "As chatbots advance, ‘AI agents’ threaten to oust office workers"
-    excerpt: "Researchers are transforming chatbots into online agents that play games, query websites, schedule meetings, build bar charts and do more."
-    publishedDateTime: 2023-10-23T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/as-chatbots-advance-ai-agents-threaten-to-oust-office-workers/"
+  - title: "OCBC launches AI chatbot to support productivity of its employees globally"
+    excerpt: "OCBC announced today (Tuesday, 24 October 2023) that it will avail a generative artificial intelligence (AI) chatbot to its 30,000 employees globally in November 2023, which will assist them with writing, research and ideation."
+    publishedDateTime: 2023-10-24T13:49:00Z
+    webUrl: "https://www.humanresourcesonline.net/ocbc-launches-ai-chatbot-to-support-productivity-of-its-employees-globally"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
+      name: Human Resources Online
+      domain: humanresourcesonline.net
+    quality: 17
 
-secured: "Qm//tWymZqNNY0QztNDOAwN+56cYx5nZ0Tml3PMVmQH/Ou8dyrOAtl3PebV+u1NLekKzUOUZtpNqB/wX0EyLnr0MTG989lGTjzj+8ytIGv6VPnkxRvZNDWIhcW5xlosPM6D3LnJGEYm5qGTO8gxFWDhrLffVCV0AeIYcpPzMpyRrM03sI/l4w6ofgz80UrytEs+ARXmX6D7fholSzlazrnxBkZgyBp8nTuYvBRyuQisIkgVbaG/kz9HNGT8FpxpPXoYesT5ODELYsxkCkwXzhJ6dExHk8W3eq9Hx97A+OYSmBPoksxauWbDuzC8daDSg5rTJvouNjYQ7ebZ85Ctc6tJ9TZvqAF64p9tPmXsH2z4=;9mQKBQcmwFKAnBFkpA6iBA=="
+secured: "tI3/DiKm1LyVo4fA69TJFmw+gK7fh1tzv9gQXiWt+PslMEkxYzY/453ktOPj3i8dWNOGQOT5lGEUKuJAQIvwrIvEF3p4gzadw8xPG7V8Q1n19hqhvXnLVMdXmE4pimtw07UfLj9r7smzW6RJJebOh4XLVWt7aLQlHa/HZHf1wEN3ctwp0mMUi9zf0hFjPJ6MlNYl+XRGXyqlUA6uZnbf86oq9sXs+ax08zWp+qJvUzLL2+v5R5TY1RZ5okXO5e9hxoPOmCDDcmu25rRu2NoiSkF2z2RODf3x77/Oni7NvnLw7wpJ9Vw6zx+QzEhRVuMLS3PJ/tDt5VxZ1uwVPdqbt/tkEoh6pQ7z2a1hk9jQMP4=;w7n0JDzrYFIzF95DXMfNuw=="
 ---
 

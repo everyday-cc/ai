@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-a
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -57,17 +57,6 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "AI Now Making More Critical Decisions in UK Government Functions"
-    excerpt: "The UK government has turned to artificial intelligence to make critical decisions. These range from deciding who gets financial help from the state to who can get married. The Guardian's investigatio"
-    publishedDateTime: 2023-10-27T09:45:00Z
-    webUrl: "https://techround.co.uk/news/ai-takes-centre-stage-in-uk-government-affairs/"
-    ampWebUrl: "https://techround.co.uk/news/ai-takes-centre-stage-in-uk-government-affairs/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/ai-takes-centre-stage-in-uk-government-affairs/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 39
   - title: "Revealed: Government using AI to decide on benefits and driving licences"
     excerpt: "Government officials are using artificial intelligence (AI) to help decide on everything from approving marriage licences to who should be given benefits, it has been revealed."
     publishedDateTime: 2023-10-24T06:50:00Z
@@ -82,15 +71,20 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "UK officials use AI to decide on issues from benefits to marriage licences"
-    excerpt: "Exclusive: findings show uncontrolled and potentially discriminatory way technology used in Whitehall and some police forces"
-    publishedDateTime: 2023-10-23T12:48:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences?ref=emergentmind"
+  - title: "How AI Can Help Leaders Make Better Decisions Under Pressure"
+    excerpt: "More and more businesses are turning to AI-powered technologies to help close the data-insight gap and improve their decision-making capabilities in time-critical, high-pressure situations. These technologies encompass a wide range of tools,"
+    publishedDateTime: 2023-10-26T12:25:00Z
+    webUrl: "https://hbr.org/2023/10/how-ai-can-help-leaders-make-better-decisions-under-pressure?ab=HP-hero-latest-text-1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 15
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_26_Beatrice-Caciotti.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "/gILHvQHVpEIe3DVXaFItM6DiCyunrKF7/vzd2t79mV3VEgoWQTYjawjFDNacIH5VKG7w5ViNiID7QF8XeMAyBkozvwFHBTgMjlGRAZMT0Gl7JnsMGCnBdGNh6qBy05iMxjqwsvO2wjKfdwo5z7Vnu7KJhhhiU2tc3OAnGr1Ecm7tLRbmE44Jal5pPQaPPTCA/WkZO2FBNdTwlwxyysFMfSMrcS4V/3oCvWR71uD0yHlx2DaITMoZtAEKndFR+rza/Itu+T8WQ7yLx6efuZKL/KEaz0PQ2p9OPPQzxyo2MSJ+eV8AyhpKOwueApHJgixyihzDmMTPLMJJGJM9LHN1YLVxpwo8Oj71X5E+X3k7Qs=;uDVkTMqmIaqi+Llb61qCdg=="
 ---

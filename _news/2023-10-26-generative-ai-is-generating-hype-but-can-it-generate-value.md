@@ -45,22 +45,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "How Generative AI Can Improve Communication Within An Organization"
-    excerpt: "The natural language interface enables interaction between stakeholders, project owners, QA engineers, designers and developers with the project’s vector knowledge base."
-    publishedDateTime: 2023-10-23T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/601850d37aa9c1404df144b1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "How Generative AI Changes The Way We Work"
     excerpt: "GenAI’s potential extends beyond mere content generation. Consider warehouses, where delivery notes need to be matched with orders. It can automate this process, reducing manual labor. Productivity is also increased when AI is used for invoice and payment matching, making it faster, more efficiently, and error resistant."
     publishedDateTime: 2023-10-25T11:30:00Z
@@ -268,6 +252,20 @@ related:
         width: 1778
         height: 1000
         isCached: true
+  - title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
+    excerpt: "Watsonx Code Assistant for Red Hat Ansible Lightspeed and watsonx Code Assistant for Z are now availableARMONK, N.Y., Oct. 26, 2023 /PRNewswire/"
+    publishedDateTime: 2023-10-26T04:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise-application-modernization-1032741098"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://mma.prnewswire.com/media/2258171/ansible_multitask__2.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Amazon’s new generative AI tool lets advertisers enhance product images"
     excerpt: "Amazon is rolling out a new AI image generation tool for advertisers to generate backgrounds based on product descriptions and themes. Amazon is currently Amazon's new AI image generation tool lets advertisers generate backgrounds for product images."
     publishedDateTime: 2023-10-25T18:53:00Z
@@ -438,20 +436,6 @@ related:
       name: Inc
       domain: inc.com
     quality: 19
-  - title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
-    excerpt: "Watsonx Code Assistant for Red Hat Ansible Lightspeed and watsonx Code Assistant for Z are now available ARMONK, N.Y., Oct. 26, 2023 /PRNewswire/ -- Today IBM (NYSE: IBM) launched watsonx Code Assistant,"
-    publishedDateTime: 2023-10-26T04:12:00Z
-    webUrl: "https://www.asiaone.com/business/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 18
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2023/ansible_multitask__2.jpg?h=c66d06c9&itok=FhmyrN6f"
-        width: 600
-        height: 316
-        isCached: true
   - title: "Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
     excerpt: "NDAQ:SPNS) Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
     publishedDateTime: 2023-10-25T12:28:00Z

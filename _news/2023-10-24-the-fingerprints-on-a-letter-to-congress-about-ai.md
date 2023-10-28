@@ -48,15 +48,6 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "Why actors are fighting for AI protections"
-    excerpt: "Actors on strike amid contract negotiations with production studios are fighting for protections from artificial intelligence (AI), but the concerns they’re highlighting raise risks beyond the scope of movies and television."
-    publishedDateTime: 2023-10-23T13:00:00Z
-    webUrl: "https://www.aol.com/news/why-actors-fighting-ai-protections-100000324.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
 
 secured: "qA7hPoiB5szS7bvSQ/VMqWjs76KkrStHvuaY/wGB6JP8Gs9tbaPYd6Y6hMP0R8UHrxMP04bf4KwzQr7+Wj6j+l1xrClVovabc6au9HnPQ6Lsy1wAi3r56+Qg5LgENUHDcurU3MV12Dye+RYcnUfwhd2PkYjEzy2PzxTJvYEmSfKIhlgV8nWyY8rf6VObfE2R3zx+9sj1M+eA1Ap/v0Jig/qKmffK7wKHUhKEKRQhcIyOfut4qK6M6YBswk/uebG2XGnSJPryjGzlkbiAxOHXhNZ9XT/Wj+/wvEdEHDXGjFBrgbO4ndmCVnCzB/HlP8iUESjwz1qT5nxG9TXzKNNd+JhqUwYUv2/L+XHXtIr+YR87MiVlTC/3EyGYvPSHcgILFW8tQv3fTkDqzwdLqtk/NKynDOTbUkr2VWxopGnxCB+Z9R1TxFuX1rPBU0F4VaqehcB/1ecnV66UKEO2FJ4U0xexGBtilbs22u3nOeFOkYEczGPKyJJbDCNiB3gVRYxJvkBd2zbi51DfzDkz2TR4uw==;zGC03VFTCG2qQhU7Q0FXOw=="
 ---

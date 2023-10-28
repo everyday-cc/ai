@@ -305,15 +305,6 @@ related:
         width: 1024
         height: 580
         isCached: true
-  - title: "Microsoft to Spend $3.2b in Australia as AI Regulation Looms"
-    excerpt: "SYDNEY (Reuters) - Microsoft said it will spend A$5 billion ($3.2 billion) expanding its artificial intelligence (AI) and cloud computing abilities in Australia over two years as part of a wide-ranging effort that includes skills training and cyber security."
-    publishedDateTime: 2023-10-23T13:05:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-23/microsoft-to-spend-3-2b-in-australia-as-ai-regulation-looms"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "Reddit may block search if it can’t reach an AI deal with Google, Microsoft"
     excerpt: "On Friday, The Washington Post, as spotted by The Verge, said Reddit \"has met with top generative AI companies about being paid for its data,\" citing an anonymous source. Going further, The Washington Post reported that Reddit is ready to play hard ball:"
     publishedDateTime: 2023-10-23T19:48:00Z

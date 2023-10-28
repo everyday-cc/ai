@@ -69,15 +69,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 6
-  - title: "Databricks, the $43 billion analytics firm, acquires data startup Arcion for $100 million"
-    excerpt: "Databricks agreed to acquire Arcion, an enterprise data company, for $100 million Monday, including incentives, CEO Ali Ghodsi told CNBC."
-    publishedDateTime: 2023-10-23T12:30:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/databricks-the-43-billion-analytics-firm-acquires-data-startup-arcion-for-100-million/4792693/"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 0
 
 secured: "fxnhaNFbHDtLHU0RXGwSQSKg5LQ4Ogicdfhn/nxXXicfQzrTtpMyhieWySUIAidNp/LCuUUwhgoHXtZDPxshwZz2UFskPgt7Afr6yNJxbCSEFcsiAx2mbLFlTh1movyii7t9azDizhlE8r4dR7G1CYSvZOUgnPQmeyJ3MK+QeFCifovDUnh+LLD+9oMuYsKwiA8pr/NZKwtWlTLGQgKDAuhHsRqOj2XWmJua+cDG2CxcYNgZhJr4lhNg2oQ0MJPox53pPKC0BVIzsF57yiPcjbcQbyx0XbjaawedHZXu0Ntb+kErtUN++FbQYe++p3xD1Q4wxEBsGzEIS8jzOvM2/QjSY0ep/VAJz4W3qHXtqZ/C3YRKr29Uh877xBgbihQlKGx1K6BBSVuVqnCe7hqQyNli/S+IihTDZNxaF7N6DTYjqT8YtkI0M1ntBL0XyAnRoFMnEhYHsU0Y0B8ZHdKpz4YE+FSqDYMQnrYiPo57QNktVx27FWBZxe3+Ruj0VF17GF/zjtpQc5cP+dnYXbNVOA==;skajNlTCGVKdPXt/AelhAw=="
 ---

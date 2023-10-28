@@ -70,6 +70,20 @@ related:
         width: 1280
         height: 717
         isCached: true
+  - title: "Google to invest another $2B into AI firm Anthropic: Report"
+    excerpt: "Google has agreed to invest another $2 billion in AI startup Anthropic, considered to be one of OpenAI’s biggest competitors. It follows Amazon’s $4 billion investment in Anthropic last month."
+    publishedDateTime: 2023-10-28T05:01:00Z
+    webUrl: "https://cointelegraph.com/news/google-to-invest-another-two-billion-in-ai-firm-anthropic"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 37
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/4bc2bae7-c2a5-49e4-a675-199fd094cd1f.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Google bets US$2 billion on AI startup Anthropic, inks cloud deal"
     excerpt: "GOOGLE has committed to invest US$2 billion in the artificial intelligence (AI) company Anthropic, solidifying its relationship with the startup darling and stoking the Silicon Valley frenzy for AI. Read more at The Business Times."
     publishedDateTime: 2023-10-28T01:16:00Z
@@ -80,6 +94,6 @@ related:
       domain: businesstimes.com.sg
     quality: 17
 
-secured: "5U1qkxRPMfcyiC/w3n56biJEGM83VyWOaMr/hGkSmJ59f/+5XcYgqvy4NLuV+p/EtZ3N9lQpwcTEFOwH4li8szqgWJcS9lMF0+Q/SKzmWVysHJR3pZIysccNH3/y0X4GzkR3jspsHqbVbtoaHKtl07m7kK1oNyoBo9R0MUugydQ62GoAaLConWrSTXFe0ibHJVT5hGzcE6x0c39POBWpn7xf55RNxZz4JP8eg1Jk/wAG/hxdPwBqc3LqwhiZBW7IxX+Rbe/wy1H/dYb/V2ViRByNgIpq1lMoL/GmOXoDiVZcXoWHa2bMT3N/XgI/J9HiuP0lscd0MmgEVuSac/dkVS8kn8C5I10HcjpAK55lAnc=;6+TKrvnO9/TNkTFjcqm3Yw=="
+secured: "0QJpGAAzPsEqDFm8WfiPKw4ZtYknSgy1fu+WH0Tlh8DODUA5WZ4COOnViHl/cR6ieEszPvfb0T3nl8aV07YbF6kW08PNgIntPKsV0zawlgrZkA9TnUBmbmpOlfs7MIRUXAt+NL+MKaxksQuG/S8VsA3VPbByUaA40d8Xv/dxxkIBYLG9gPrPnVHqdja2/bsTeZxqlxlPIqopfrV9bZpTdcXZi+pHnLiMWfcTSm0eRmIywK7/g2HAKZTzPG75tiNZCHKVQEYeE5djAPHl9DTATp6oASY9I4pSF1Q9XUdTQhXKpxIr0dpwp9wrMUgC4OKCVZQhSYUBMHatL5c+SJLt7mX/KzZ19Vb9ogNXGlLk3zW889E/FyidBSLjdVCpRrQ5Ond7JTUTbWbbFTKCMj1UgX4e4uWL+qOujp0602fsa75EQ+VGHBe/KaZNkhFUdaQ9Ti7DsyZmcXChvDMwvQdwl5o7nN5Mw5Eg+e1w8sJRtxtlRfT4xAfFQsrYQsEb3XUNgzbG7OVKjf/Hnv5Jzn/rAg==;94BQYvMHJcIh6fy0I5RUeg=="
 ---
 

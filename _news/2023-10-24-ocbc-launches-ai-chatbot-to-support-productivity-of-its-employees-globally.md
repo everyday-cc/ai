@@ -19,20 +19,56 @@ topics:
   - AI
 
 related:
-  - title: "OCBC to deploy generative AI bot for all 30,000 staff globally"
-    excerpt: "Bank introduces Generative Artificial Intelligence (Gen AI) bot to all its 30,000 workers including coders, call center agents and executives Read more at straitstimes.com."
-    publishedDateTime: 2023-10-24T09:32:00Z
-    webUrl: "https://www.straitstimes.com/business/ocbc-to-deploy-generative-ai-bot-for-all-30000-staff-globally"
+  - title: "Poe wants to be the App Store of conversational AI, will pay chatbot creators"
+    excerpt: "Ultimately, Poe wants rapid innovation across the entire conversational AI space, not to constrain progress to what it can handle internally."
+    publishedDateTime: 2023-10-27T16:56:00Z
+    webUrl: "https://venturebeat.com/ai/poe-wants-to-be-the-app-store-of-conversational-ai-will-pay-chatbot-creators/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
     images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/10/24/An20employee20using20OCBC20GPT.jpg"
-        width: 860
-        height: 573
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_surreal_sci-fi_magazine_a_man_looks_intently_at_a_smart_ba1569ff-9052-456e-a9aa-6a66ec7d3e79.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
+  - title: "AI Chatbots Won’t Tell You Who To Vote For, But They Will Create Targeted Political Ads"
+    excerpt: "Chatbots like Bard, Claude, Pi and ChatGPT can spin up a range of campaign material from text messages to TikTok videos, but AI leaders have expressed concern over"
+    publishedDateTime: 2023-10-24T10:31:00Z
+    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/10/23/ai-chatbots-wont-tell-you-who-to-vote-for-but-they-will-create-targeted-political-ads/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 59
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6536e716415a919fc9b91512/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "OCBC to roll out generative AI chatbot for its employees globally"
+    excerpt: "Called OCBC ChatGPT, the chatbot is powered by ChatGPT’s large language models. Users can type a query in natural language into OCBC ChatGPT via Microsoft Teams, and the chatbot will produce answers based on accessible text-based information on the web."
+    publishedDateTime: 2023-10-24T06:32:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
+  - title: "We Used the Meta AI Chatbot to Plan a Trip. Here’s What It Got Wrong."
+    excerpt: "Meta released an AI chatbot for WhatsApp, Instagram, and Facebook Messenger. We tested it for travel planning."
+    publishedDateTime: 2023-10-23T21:33:00Z
+    webUrl: "https://skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/"
+    ampWebUrl: "https://skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/10/23/we-used-the-meta-ai-chatbot-to-plan-a-trip-heres-what-it-got-wrong/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 37
 
 secured: "y9uP76HQ7PxnPaQ7QRrROwcjYm91F8h/Dhl11Cp6lXL979wrrkKN8T1fnMtAUiNr7eW+mkytyk/US63oc2eNVrecJb69UHw8dloAJA9HbpbgP0vlDN8L6QyjCFaa+BXHjaMeo6HMtWNDYfaKJ3zzMybAgm2Mre/FQtuwfOVuNyqQu5Sp27+8cUgLHg60ihQR8fokRN+uS/t+viWgNw7lEXLPJHKmfvtAf44jxCd3uGo8nEsv+wRZwmwft0doS0uta4+B9CBlT3Q82MGWEw3wFvuxO0lzJCNDpTzLfk0tpz02CRN+xsnB0HtYrIw+NUhRa/TRlltzIfxGo1B7XUEFNGz6WAUpca0ODbpAO60pugQRBG6mI44zqB8P7cvpkHQ1Hf74g6ZiSQinUifpUkrTKjwtCSJ/yN77wQgAWZZylPVL2DkvpgzZSV8LP3osqJ2s880ETbo3xyOBJ000AajkjJr/nk/tOlaoml+8pY2TkOWxbqU0yvMymQ7749phK821gccNECe0QtQApQU7lNcTYw==;jTRBlQxJ2R9cfeJemtT3AQ=="
 ---

@@ -26,47 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating the AI Revolution: Education and Ethics Take Center Stage"
-    excerpt: "David Reed from University of Florida’s Artificial Intelligence Academic Initiative Center, and Andrew Pass from A Pass Educational Group, dissect the implications of education’s most disruptive techn"
-    publishedDateTime: 2023-10-26T18:14:00Z
-    webUrl: "https://www.ecampusnews.com/innovation-insights/2023/10/26/florida-higher-ed-ai/"
+  - title: "FPT buys stake in US computer vision, AI company"
+    excerpt: "Tech giant FPT has invested in leading American computer vision and AI company Landing AI and become its strategic partner."
+    publishedDateTime: 2023-10-25T05:55:00Z
+    webUrl: "https://e.vnexpress.net/news/business/companies/fpt-buys-stake-in-us-computer-vision-ai-company-4668913.html"
+    ampWebUrl: "https://ampe.vnexpress.net/news/business/companies/fpt-buys-stake-in-us-computer-vision-ai-company-4668913.html"
+    cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/business/companies/fpt-buys-stake-in-us-computer-vision-ai-company-4668913.html"
     type: article
     provider:
-      name: ecampusnews.com
-      domain: ecampusnews.com
-    quality: 51
-  - title: "The AI Revolution: Surgeons Share Insights on Integrating AI into Surgical Care"
-    excerpt: "Unprecedented AI integration is changing the landscape of surgery, drawing on data-driven insights to enhance patient outcomesBOSTON, Oct. 27,"
-    publishedDateTime: 2023-10-27T17:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-ai-revolution-surgeons-share-insights-on-integrating-ai-into-surgical-care-1032749253"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-  - title: "The AI revolution may take longer than you think"
-    excerpt: "Fintech, pharma, automotive and retail are all industries poised to profit from the great AI disruption. Avi Goldfarb explains how to get in on the act."
-    publishedDateTime: 2023-10-26T15:41:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/10/the-ai-revolution-may-take-longer-than-you-think/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
+      name: VN Express
+      domain: vnexpress.net
+    quality: 74
     images:
-      - url: "https://eandt.theiet.org/media/22469/web_ai-concept_credit_istock-1473078026.jpg?center=0.23777777777777778,0.46333333333333332&mode=crop&width=1200&height=450&rnd=133408950550000000"
-        width: 1200
-        height: 450
+      - url: "https://i1-english.vnecdn.net/2023/10/25/hoptacchienluocfptlanding39908-6268-5357-1698213279.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=FEcJUTI9TdQmDT19f-NfTw"
+        width: 680
+        height: 408
         isCached: true
-  - title: "Enterprise software developers prepare for generative AI’s ‘productivity revolution’"
-    excerpt: "By all accounts, the impact of generative AI on software development will be profound. A recently published survey by GBH Insights LLC, which does business as GBK Collective, found that 78% of companies expect to use AI for software development within the next three to five years."
-    publishedDateTime: 2023-10-23T18:59:00Z
-    webUrl: "https://siliconangle.com/2023/10/23/enterprise-software-developers-prepare-generative-ais-productivity-revolution/"
+  - title: "Can Generative AI Be The Smartest Member Of Your Company?"
+    excerpt: "To support the effective, safe and ethical use of generative AI, you'll need a solid foundation of high-quality data underpinned by governance."
+    publishedDateTime: 2023-10-24T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/can-generative-ai-be-the-smartest-member-of-your-company/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 12
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "C1kPdE5n9Oghdl+oDfIJdnxzAXajkIfZqOvBQeGES7hgg6tzGF2rQAtokOw/0CSVlcx6pani9U2mOS+a0dj/FkDTiJq+VcVTDXVMwvUVZwofb5r1qr/b2M164qUUNmeMbd+4tPn+qOYXF+DH04euVwQ4idzKgwrsZ+Ijy2DYc2J4DiClGtQxZC/zoaBHX0F5SxxmhR3ts1ny6xAjWebPkEpXcx7FpdC8vPds8FstagYOzifMPK1ICR9WejU2U7jZ+Wto5lxwdAhYdga3wGFeRNAl1VpdIc4S9JE13BrKtuMZYqss+igvdMluMDuv8RMK5He8Cfi2xUBSqvjiZLB/eRlNqkr6+0MJOGMfBS2N+V21hPZrrVMBxXqAQ7Ic9LwG3w7BvK5mYz7gApl5R8UeGTABF41P/36Unh7qp4KlGdhIel/XR24kO7W6wtODBt1znS49NTi0UBcdpmUNcrKcB2hv9IrSot7tAS5VSRVajDtC5spQpZKdfHidgAmowzAxXnTeAVoHyShE019TDdE3EQ==;T8yq1NoJaIBAwNdn7lvRKg=="
 ---

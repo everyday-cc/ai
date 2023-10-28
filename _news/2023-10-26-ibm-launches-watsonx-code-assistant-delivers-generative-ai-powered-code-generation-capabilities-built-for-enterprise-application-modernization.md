@@ -1,27 +1,31 @@
 ---
 category: news
 title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
-excerpt: "Watsonx Code Assistant for Red Hat Ansible Lightspeed and watsonx Code Assistant for Z are now available ARMONK, N.Y., Oct. 26, 2023 /PRNewswire/ -- Today IBM (NYSE: IBM) launched watsonx Code Assistant,"
-publishedDateTime: 2023-10-26T04:12:00Z
-originalUrl: "https://www.asiaone.com/business/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation"
-webUrl: "https://www.asiaone.com/business/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation"
+excerpt: "Watsonx Code Assistant for Red Hat Ansible Lightspeed and watsonx Code Assistant for Z are now availableARMONK, N.Y., Oct. 26, 2023 /PRNewswire/"
+publishedDateTime: 2023-10-26T04:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise-application-modernization-1032741098"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise-application-modernization-1032741098"
 type: article
-quality: 18
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2023/ansible_multitask__2.jpg?h=c66d06c9&itok=FhmyrN6f"
-    width: 600
-    height: 316
+  - url: "https://mma.prnewswire.com/media/2258171/ansible_multitask__2.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -48,22 +52,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "How Generative AI Can Improve Communication Within An Organization"
-    excerpt: "The natural language interface enables interaction between stakeholders, project owners, QA engineers, designers and developers with the project’s vector knowledge base."
-    publishedDateTime: 2023-10-23T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/601850d37aa9c1404df144b1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "How Generative AI Changes The Way We Work"
     excerpt: "GenAI’s potential extends beyond mere content generation. Consider warehouses, where delivery notes need to be matched with orders. It can automate this process, reducing manual labor. Productivity is also increased when AI is used for invoice and payment matching, making it faster, more efficiently, and error resistant."
     publishedDateTime: 2023-10-25T11:30:00Z
@@ -460,6 +448,6 @@ related:
       domain: stockhouse.com
     quality: 17
 
-secured: "gnW83nFztYyWG1ASDLN3COlnVlXxZVFJ/GSd0EtCcWFXR08zv3MpERpUHCTBqQJ8D1v6snZX9G9pZMg65dXJZm5LUpmkdSE/UnDl/qVWoBkBTJRCIJMNkNAnE3i+OVgunM7gEo7bjlox0DYzM3MUGMoHg+Ms9az8AT4/CT9PRQoL3KpaNKElp+bpjh1UkxkjIrdsgz8gr4WsnASmS+ZwgpGBCKWFIEff1dKtlpD6bUvS8BCqENly39XPboOSWRsbr31G8L8YdKYdyCd2TV4ZMm86USFawSEGzd28Se0/hhoaVazqydvNK/jMHBZd42SZO/Rp6cBrneiXE0vKFFefpLCtOvojJ75vqmrG+SzRxVimu6nWtXn33DVaILA+WrW7l+CEFjLUvQOxDwa5s8Kjp5Sr5VAneCi+sOB4ezCH6df5PXFs+kW30aX4TTuZ8kCpfCRo4ZIyO3fT3VLt0siaBFVv6fQqZYGD+9VXjfrqYeg5Sw1vwXpVc4QWbg/sDEFdH7woIzRoVnruhWFuOhGiTg==;r5LWA4ckFap29XAPMVrS2A=="
+secured: "OWvn6mdLcXt2oxFeBBRWVsQr6wTFcwS4kBu/C8C/0YKiNvFG99dWi9p/DNOQ9rRCKQoLSf+Kk6yCkDkP1UTTf781pw+xfPjFxmfpGJQyHqxOgUb5pou3HppZqU6aVSdIC/ymgA7T6Ui7Z56pL86FLUOESYZ8QKAciopBQKmO//3hiXEkv/5+JrPB3hUhBk9i0dfouMfxyZtvGma3xEAfmJEdTlFHdl4XKPhuHq6TcBJxxh/1ftSZKtA1aUN4IU353aIQqTpqEV9MM2/AulBXXcRGjS02PbiLWrvJQVx+5LA2inNBaL5JFQvuXbu5ubolzJ/iMArtwbtgtL4U5DXobMgc1vU46f9NRhQn7zSAEMo=;2aqS9Uac+IdHLXSXoFC+hA=="
 ---
 

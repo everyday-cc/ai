@@ -39,6 +39,34 @@ related:
         width: 400
         height: 391
         isCached: true
+  - title: "The Rise of AI | Tech expert: 'It’s the age of AI right now in health care'"
+    excerpt: "Artificial intelligence tools are already improving patient care at hospitals across the country, and there is plenty more on the horizon, experts say."
+    publishedDateTime: 2023-10-28T02:43:00Z
+    webUrl: "https://www.tribdem.com/news/the-rise-of-ai-tech-expert-it-s-the-age-of-ai-right-now-in/article_ca1957f0-727b-11ee-b824-8b0423f14cd0.html"
+    type: article
+    provider:
+      name: The Tribune-Democrat
+      domain: tribdem.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tribdem.com/content/tncms/assets/v3/editorial/f/f4/ff40fbd6-7262-11ee-bfe9-b3d0feb8fb6e/6537af646c097.image.jpg?crop=1700%2C893%2C0%2C70&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Rise of AI | Jury still out on new tech's use in mental health care, experts say"
+    excerpt: "Although several uses of artificial intelligence in mental health are showing some success, experts say the jury is still out on its capabilities for more extensive use."
+    publishedDateTime: 2023-10-28T02:00:00Z
+    webUrl: "https://www.tribdem.com/news/the-rise-of-ai-jury-still-out-on-new-techs-use-in-mental-health-care/article_6e7d3b4e-72af-11ee-aecf-cf45057a2028.html"
+    type: article
+    provider:
+      name: The Tribune-Democrat
+      domain: tribdem.com
+    quality: 32
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tribdem.com/content/tncms/assets/v3/editorial/3/ef/3ef9b3ce-74ea-11ee-9d61-73086af6427a/653bf8160c99a.image.png?resize=640%2C360"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "trzDJRBwA2MBp3AE+ugswjuJmiikueal95haxvNJxUET9q3EF/E2wmij++iwtzpFHzhEW3L3k7YVhTkbmGA4BwH8rk6mMR38xmFRF6XsVJvlh6+eazv9KTk08hVlaXc1oqe1T/cw9svMrNBYlOreUkyvNOipKBqbngz77ZBGm47anSMT5DRdwrcH73SNP7dxNCfcfkFI98f9HwH+yyYgfKbmUV5j7gbZdnaWKKw8992sWPUrNxv1C2b0XTKtqOXEddAeN8VmraIqTHBeiSJrhcSHRKkmkXgG1bRxVAh8GX6LWMxdhMm/I+xB51k855NqxTAKRrDer9cIGlTuUnl/fTjdw/8X77Ob+wI74L3soyn7xjMBnFw7QB7YuJNQpeYX6pv1t+wZ3bwyE/kLkbvwLbv3M+DnHt1/YNqL74iXw75N6wJuGlttCB9xu4Ulaju1eiY79jVV7zkLTQPVk0H02SJajN7wI+L1DiJrX7RVLPi+q2pbBQFxJ8xV6cLn5XV5lN4SF2pmLHyUU4pwAqSGyg==;Uivw5BZ8dH27FNbkd7z0VQ=="
 ---

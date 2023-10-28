@@ -33,6 +33,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Music companies are suing this AI startup over their song lyrics"
+    excerpt: "Major record companies claim Anthropic’s chatbot spits out the same lyrics as their copyrighted songs. Legal experts say they have a good case."
+    publishedDateTime: 2023-10-27T02:10:00Z
+    webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/hamas-ai-chuck-d-film/anthropic"
+    type: article
+    provider:
+      name: KCRW
+      domain: kcrw.com
+    quality: 37
+    images:
+      - url: "https://www.kcrw.com/++theme++kcrw.theme/images/KCRW_Logo_White.png"
+        width: 542
+        height: 384
+        isCached: true
   - title: "Healthcare Cognitive Computing Market Is Projected To Gain $103.74 Billion By 2032, Growing At A CAGR Of 35%: The Brainy Insights"
     excerpt: "Some elements contributing to such a large market share are high-tech technology businesses, continuous expenditures in research and development, stricter reimbursement rules, and widespread use of information technology to improve patient care and reduce healthcare costs."
     publishedDateTime: 2023-10-23T23:59:00Z

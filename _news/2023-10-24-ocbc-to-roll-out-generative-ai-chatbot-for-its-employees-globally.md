@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Poe wants to be the App Store of conversational AI, will pay chatbot creators"
+    excerpt: "Ultimately, Poe wants rapid innovation across the entire conversational AI space, not to constrain progress to what it can handle internally."
+    publishedDateTime: 2023-10-27T16:56:00Z
+    webUrl: "https://venturebeat.com/ai/poe-wants-to-be-the-app-store-of-conversational-ai-will-pay-chatbot-creators/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_surreal_sci-fi_magazine_a_man_looks_intently_at_a_smart_ba1569ff-9052-456e-a9aa-6a66ec7d3e79.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "AI Chatbots Won’t Tell You Who To Vote For, But They Will Create Targeted Political Ads"
     excerpt: "Chatbots like Bard, Claude, Pi and ChatGPT can spin up a range of campaign material from text messages to TikTok videos, but AI leaders have expressed concern over"
     publishedDateTime: 2023-10-24T10:31:00Z
@@ -35,15 +49,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Poe wants to be the App Store of conversational AI, will pay chatbot creators"
-    excerpt: "Ultimately, Poe wants rapid innovation across the entire conversational AI space, not to constrain progress to what it can handle internally."
-    publishedDateTime: 2023-10-27T16:56:00Z
-    webUrl: "https://venturebeat.com/ai/poe-wants-to-be-the-app-store-of-conversational-ai-will-pay-chatbot-creators/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
   - title: "We Used the Meta AI Chatbot to Plan a Trip. Here’s What It Got Wrong."
     excerpt: "Meta released an AI chatbot for WhatsApp, Instagram, and Facebook Messenger. We tested it for travel planning."
     publishedDateTime: 2023-10-23T21:33:00Z
@@ -55,15 +60,15 @@ related:
       name: Skift
       domain: skift.com
     quality: 37
-  - title: "As chatbots advance, ‘AI agents’ threaten to oust office workers"
-    excerpt: "Researchers are transforming chatbots into online agents that play games, query websites, schedule meetings, build bar charts and do more."
-    publishedDateTime: 2023-10-23T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/as-chatbots-advance-ai-agents-threaten-to-oust-office-workers/"
+  - title: "OCBC launches AI chatbot to support productivity of its employees globally"
+    excerpt: "OCBC announced today (Tuesday, 24 October 2023) that it will avail a generative artificial intelligence (AI) chatbot to its 30,000 employees globally in November 2023, which will assist them with writing, research and ideation."
+    publishedDateTime: 2023-10-24T13:49:00Z
+    webUrl: "https://www.humanresourcesonline.net/ocbc-launches-ai-chatbot-to-support-productivity-of-its-employees-globally"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
+      name: Human Resources Online
+      domain: humanresourcesonline.net
+    quality: 17
 
 secured: "XtKBrpCNamOW7+2/LbxmXZ715A6O9YyRD5TXlLBf1TvdEfHLovD/Rp9u4dv9E3RZpGc+Pt3FJIaN2bBre2aUGM2CIC/nhkVEoa9fNdEsLVHPC8YL4rk4j78dKs36CWYoGvxGSY44wuK5gVFP0ewqPQBifC32hSWYAB/7q3zpxLBZHTIc0eRHF6tY1QxC9/dIG5yFKs9bzNOR8hgOK4Pz0IrArEwvhLTPwuz5+buuJVz+PRQ9CMDgQGVTv7wKpWQNhWd34ipNu01f+HcXtDy2k6EeRmfJpJoda2D+bDZ5uOQKiRaSxMH+HbTX/B5wYlMncFH69djaQvuY1oyhYQDsIt11zruTv8i43YAzRI90bsrhL4+7MFSvUGV2fwfEGGuFPIl1EYp2oqW4cwzjGis2zBFQyafzQWDctCF/KLaGYudoqe35xHmRo0lDJoZHbHtGYajExYTu9ZI2zhOYzy9xrHk/m3+V32UxUydBtpw6g1tXQsaKdCWZlXzCbJMN8GOcvmlMp8F2Tl8EXre6Q3BPlw==;WrSW9MUZSbu5N7oOic8d1Q=="
 ---

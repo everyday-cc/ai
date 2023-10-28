@@ -56,15 +56,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 24
-  - title: "2023 Women CMOs in Fintech Report: Marketing Investments to Remain Strong, CMOs Orchestrating Success, and Generative AI Boosting Efficiency"
-    excerpt: "Key findings from this year's Women CMOs in Fintech report include: Marketing investments remain strong: Despite the challenges of reduced venture capital and rising costs, marketing spend is not waning for most fintech brands."
-    publishedDateTime: 2023-10-23T12:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-2023-women-cmos-fintech-report-marketing-investments-rema-/2023/10/23/9903151.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "ljNykeTrltVW4+6VuPqGGImMJ5hU2+z9ldULph529i+8BoYCmTdvFtzR3JqhVL348mQIkRRD9rJYoPwi0HhT5vCfLxwlSb1Hj0ims3Pv+cAdNlodcnGlZ9h6yn5DF6sQLcwaaQAICEMGsRI8ho7iTBdiAmohg6G0CHhfkHQk1kUOcwu24n9qoauFz0LesqdfpygWVfqv8NtWyC+S+RSjfUNZ30QN3bUX2zxsqBLYme528UUUE/SrS7idI5uu26BcNNBxny5nR1bZ+ji5smR25Q83Lgg9ZacZMizr6fm0ulUlHi7Oi2nRGApUHXjM8pnY4JxfAZoqP0FflzP1TRStXDCaPs5RBFX5Pj/FLR7xgM5sxWcl+Udl85iXOh1UctYcMQu+S9XdbeANhnAQpKyklT+o6sZqDckYXiiH3kkhGg94T7r8O5m0v2pmEP8/TCo96hf6VLQ1zXWwl16uoJMI8QyjBtGYSGV6KZBQRK8ZmWsp+YzZQNLPrmXijR7GWgzZtydG4gv8NZ5IsrnXXGv+Mw==;5YB6JDam2VHU8Xlh59WGHQ=="
 ---

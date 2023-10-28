@@ -3,8 +3,8 @@ category: news
 title: "Growth in A.I. Powers IBM To Q3 Earnings Beat"
 excerpt: "Technology giant IBM (IBM) has reported third-quarter financial results that beat Wall Street forecasts on the top and bottom lines. For the quarter ended Sept. 30, IBM reported earnings per share (EPS) of $2."
 publishedDateTime: 2023-10-26T13:23:00Z
-originalUrl: "https://www.baystreet.ca/articles/techinsider/91892/Growth-in-AI-Powers-IBM-To-Q3-Earnings-Beat"
-webUrl: "https://www.baystreet.ca/articles/techinsider/91892/Growth-in-AI-Powers-IBM-To-Q3-Earnings-Beat"
+originalUrl: "https://www.baystreet.ca/techinsider/3840/Growth-in-AI-Powers-IBM-To-Q3-Earnings-Beat"
+webUrl: "https://www.baystreet.ca/techinsider/3840/Growth-in-AI-Powers-IBM-To-Q3-Earnings-Beat"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Aj3TxOtntWCyQibYDhWfF+B1b8SnLvgi9WE4+kMmGRCaXkqsy93+SJw5FLebfyI4VcF/egBtgYIOnljB/IZFb2MQtbnQB51NAHR+hQl1SYJRILl2pff/Q3aA2xZ2zm5pdWaf7w5wXhUpxjRRapWe1e7GKagux2U3q5h0B2PPTOE4Us588eXTQB+4GyxDIZb8bBFAbCdq9isiCIS7HnOIzqf9rsPqYjldL2/ZiWuW4sVAE5VZuo53sw/O/XqkF5D71teGuSqXxO4J+y0y/QXzON1pXbTt5s+w21i5vGSsEhhFnokdPFT1NPwchOUP/Qf+i9YdRqqYGoqdpn6QFSUT+Vu447MrJJ+7sveBGD4JwWA=;ZFFyGvvYoZ6+BFL+0D0bQQ=="
+secured: "bCJE8ut+9JsHeWoT44k5MfZsgq6vx3/8PxXUHlr8Ja41JDiwBbuiM3YwKwK2Q7WUPutJxBmY7cdGadi5sGeEWO74V32gpkOZNdtgkcCZEgMoVHCneeOhc6UBHnRSBbA8Zz/tY8G0WJ1HJN5UhX7FNV39jpjo6d9wvHp+gPWsqFAp1SlqrP0Mocrb3a7sizX4IOnezKpq/3zO4LJyIuzVtox+jS4ijuA0D1bi0FvV1BEvb3ckaC/MHXP9SmuTOPfwcoJqV0qP99X7b1MAdzBBjE6TMHG4JnU5anGyuGZQ0wwUHnqzF7hBPiUXn7UbJwSVO9a/NiAk04vdYRwdi/phNaPVgxO9r+gZfZVNreRLm/g=;WD87eMu0T0qIac1d4+q4Hg=="
 ---
 

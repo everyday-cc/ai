@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI May Soon Weigh In on Regulation"
-    excerpt: "How will agencies like the FCC deal with computer-generated public comments?"
-    publishedDateTime: 2023-10-24T19:12:00Z
-    webUrl: "https://www.wsj.com/articles/ai-may-soon-weigh-in-on-regulation-artificial-intelligence-agencies-public-comment-periods-766436ec"
+  - title: "Oklahoma Lawmakers Struggle to Regulate Growing AI Industry"
+    excerpt: "Experts say AI is now present in everything from apps and facial recognition software to ChatGPT, which allows users to ask questions and receive human-like replies based on data harvested from the Internet."
+    publishedDateTime: 2023-10-23T17:58:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/oklahoma-lawmakers-struggle-to-regulate-growing-ai-industry"
+    ampWebUrl: "https://www.govtech.com/artificial-intelligence/oklahoma-lawmakers-struggle-to-regulate-growing-ai-industry?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/oklahoma-lawmakers-struggle-to-regulate-growing-ai-industry?_amp=true"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://images.wsj.net/im-873788/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "UK regulators report back on AI and Machine Learning consultation"
-    excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
-    publishedDateTime: 2023-10-26T12:24:00Z
-    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
-    type: article
-    provider:
-      name: Asset Servicing Times
-      domain: assetservicingtimes.com
-    quality: 56
-    images:
-      - url: "https://www.assetservicingtimes.com/assetservicesnews/images/ThursdayOctober2620231698319657.jpg"
-        width: 990
-        height: 640
-        isCached: true
-  - title: "Artificial intelligence may help predict infection risks after implant-based breast reconstruction"
-    excerpt: "Artificial intelligence (AI) techniques may provide a more accurate approach to predicting the risk of periprosthetic infection after implant-based breast reconstruction, reports a study in the Novemb"
-    publishedDateTime: 2023-10-24T20:30:00Z
-    webUrl: "https://medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 45
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/breast-implant.jpg"
-        width: 2880
-        height: 1925
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/3a7a9b8/2147483647/strip/true/crop/770x402+0+21/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F8b%2F30%2F4a5c1d816421a46b210b0da4f13f%2Foklahoma-capitol.jpg"
+        width: 840
+        height: 438
         isCached: true
   - title: "EU lawmakers face struggle to reach agreement on AI rules -sources"
     excerpt: "European lawmakers are yet to agree on several issues related to new artificial intelligence rules ahead of a crucial meeting on Tuesday, leaving any deal off the table until December, according to four people familiar with the matter."
@@ -82,48 +54,6 @@ related:
       - url: "https://media.zenfs.com/en/aol_reuters_29/0ca43e1b8ea6f24b6034e0d8cbb568fa"
         width: 800
         height: 534
-        isCached: true
-  - title: "Real Insights on Artificial Intelligence"
-    excerpt: "AI could disrupt all aspects of daily life – transforming how we work, live and play. What’s its true potential, and how do we manage the risks?"
-    publishedDateTime: 2023-10-25T16:10:00Z
-    webUrl: "https://www.washingtonpost.com/creativegroup/intel/real-insights-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/creativegroup/uploads/2023/10/25170703/16970419297931697041929720-e1698253672489.png?rand=196"
-        width: 460
-        height: 441
-        isCached: true
-  - title: "Apple could spend $4.75 billion on Artificial Intelligence in 2024"
-    excerpt: "Apple is looking to catch up with the likes of Microsoft and Google on Artificial Intelligence and the company is apparently planning to spend a"
-    publishedDateTime: 2023-10-24T08:26:00Z
-    webUrl: "https://www.geeky-gadgets.com/apple-could-spend-4-75-billion-on-artificial-intelligence-in-2024-24-10-2023/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 37
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Apple-Store.jpg"
-        width: 2180
-        height: 1453
-        isCached: true
-  - title: "Apple May Spend Over $5 Billion By 2024 On Servers In Major Generative AI Push"
-    excerpt: "Ming-Chi Kuo expects Apple to spend 'at least' $620 million on servers in 2023 and an estimated $4.75 billion on servers in 2024."
-    publishedDateTime: 2023-10-24T15:33:00Z
-    webUrl: "https://hothardware.com/news/apple-to-spend-over-5-billion-on-servers"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 35
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62888/content/hero-apple-tim-cook.jpg"
-        width: 708
-        height: 398
         isCached: true
 
 secured: "lENxCMXVyR9qq9WloauuRAGOSMU78xUjWENjnhcnA7mYrfZz3P45Atkd7Ndv3EENm4u/+jPDtZ7vouhAXGlK1+q2Hn3mPvp+9QXc4pS6rSneWEEmPDpKeXv1sgNotYIwWau6iEIH/KfArRKyx6KsBs6tdmLZ62gMMdVmNSPk+D9vOSNfMpKEUglDfwUHAErztOoGpbu1lcJknLWjuGz5V7P6qGSKE5FbVyUd6sHzHYyM3xdlvf7A3tjaBIZN31D5y+0TtkLr0RlOXG7/+YsTjiPOTtVDmJKHpziqJRtzKHwQNRAX/FtLMjBNSDKduZyuCXDzl3QlRHend5/1yJhqOJ05PqvRonKPFcBeGIcsHaw=;4GBhif2VN4f+zN2vdf3GJQ=="

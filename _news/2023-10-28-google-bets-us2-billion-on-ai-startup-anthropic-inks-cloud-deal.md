@@ -78,6 +78,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Google to invest another $2B into AI firm Anthropic: Report"
+    excerpt: "Google has agreed to invest another $2 billion in AI startup Anthropic, considered to be one of OpenAI’s biggest competitors. It follows Amazon’s $4 billion investment in Anthropic last month."
+    publishedDateTime: 2023-10-28T05:01:00Z
+    webUrl: "https://cointelegraph.com/news/google-to-invest-another-two-billion-in-ai-firm-anthropic"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 37
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/4bc2bae7-c2a5-49e4-a675-199fd094cd1f.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "bW3nZBlatPxIsweZssGPUQ5equ7lVqxCC85W24LIf/0q8AOEJ2B/7AtkSErDERgDELRMP071BigmxAtdtpsoVh40wu7kd/jagVDpQXUtm7QqZcgaBiDfPUvV7bXCR0BHO2lbPcnBj88CDZBjkIxL8XOYpjGJwhYmFV5s+yWch+r3s36GFdGlsMN+Qz1s2AMdWCOcH68tcHHRS4zw0nFv80jbVYrmxYP1/Uf1ufWu2+jAPfq3NlSQLaIvA5kqtshsy3HrP0ntARzBaq4pcmfHoYqCdhTmdegxxWZ2HgXoM8PK4xBo0xDGSIZeO0rkhmTaEJMWXouVkvV4OhwT4lJua7K5EkigST2xiiUZd0rLAvpD5ZKVAZAqJmg8GFNyyTG0jAfx70VNY0ctBePid6g865Jnrln4tw5BL7F/nJ9KdPfJt8A6jZHLGtZ52R5pIaObZSyRZztd2D8d19EZ065fpZnk+hvxsN5euURAU/iuKOUPvXkx8mrXLMkfOUZkNw2eef74nfgf+fl1dw3yyRjltw==;xfMKpfaR/SZdYDuUKuuUjA=="
 ---

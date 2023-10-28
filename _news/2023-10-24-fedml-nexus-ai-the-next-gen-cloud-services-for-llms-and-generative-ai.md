@@ -1,32 +1,22 @@
 ---
 category: news
 title: "FEDML Nexus AI: The Next-Gen Cloud Services for LLMs and Generative AI"
-excerpt: "FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML Nexus AI, offering the next generation of cloud services and platform for generative AI.This press release features multimedia."
-publishedDateTime: 2023-10-24T12:25:00Z
-originalUrl: "https://venturebeat.com/business/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/"
-webUrl: "https://venturebeat.com/business/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/"
+excerpt: "Today, FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML Nexus AI, offering the next generation of cloud services and platform for generative AI. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20231024932463/en/"
+publishedDateTime: 2023-10-24T11:24:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fedml-nexus-ai-next-gen-cloud-services-llms-/2023/10/24/9903909.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fedml-nexus-ai-next-gen-cloud-services-llms-/2023/10/24/9903909.htm"
 type: article
-quality: 69
-heat: 89
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://i0.wp.com/mms.businesswire.com/media/20231024932463/en/1922758/4/wideimage.jpg?strip=all&#038;ssl=1"
-    width: 480
-    height: 269
-    isCached: true
 
 related:
   - title: "Riding the wave of gen AI: AWS outlines advances at Supercloud 4"
@@ -43,16 +33,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A Glimpse into the Future: Next-Gen AI and LLM in AML Compliance"
-    excerpt: "Regarding AI or LLM use cases more specific to AML, KYC, and KYB compliance, the most interesting areas we are seeing are in translation, natural language interfaces, understanding of unstructured text and data, adverse media processing and automation of e-regulations and policies. Let’s look at each one of them in more detail."
-    publishedDateTime: 2023-10-24T10:27:00Z
-    webUrl: "https://www.finextra.com/blogposting/25007/a-glimpse-into-the-future-next-gen-ai-and-llm-in-aml-compliance"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
-secured: "p6gsNMrAkq5FuKqEPz7OXxFGtLm7Hi6JrThW+SNSrlrOQ4KlD6Hsd41NEeZOdS38lhm+JQJ/JpxgVtP36/EzG/B+ztsd4Uege1xryKe0bn3IbmhQDcTuWiarFzmrQwReLT8uFUzOtRz5HoyqmeJq9Iu0XMu8omK0x7lnPPpAjseoNWKgTh7lOY2PeHEdhGJFbI7pdxlgehPAaSA1WnkvSM4xFyjNsETL9BGzRCe/f/IPZLZK1dyt9UqX2OLlwrVhte9SdqM/x6mkYJ95AaWaStWQQR1u039qqMC1pTpzMBhCsKpuB7eVUSOeooyYyL47s9YW5R/3cA/VyHBBijGPCbcoDzv1UwFa8V23k5J7rk8=;m3hbnKvernaU32f2+ZxbuQ=="
+secured: "aazMGPxXNZPefn1xrb86iP7GgmUQ5/vc9xtuBmcRJyqSgZAT9kHNdqe1TRUv1meNhcZHK3NQO1ZWgpBgux2pki77eHK/p495TnY4+lWgx3EHpUOHuHz5IOND+lnrrS+BF9ziQPosj9DlPY6gsLNUUGKAZOwdzExYjhaKeaoXMA/ynTXtR+JXq4oExXfl11AxO4FAwNjYKzOB7T1oOvLr24Nmgrn/4Cixr6E4/KOhDtSkLsXnYRtCFWR+DsGQZULqX4LVf72+Fp4FYjCOVW52Wk+neP066o150uPJqDSc8gComCtHx5/DKXEyb6wdeIfg5W1F/oZHnVUv7sit+ByksJXb9I3KExMjC+lY0tglAx3iZBYBUJi5bEG54XAx6aSOF/98n870UCi6Q3BxM3kl88uLpVnyMUpLIA4jV6YSv7PkV/wfZkveWKawowFtmEA3qRJ1uANDsxi7WQgNGB3CDHeD5bTJ5YoORNGdQLc1C8Hf0VqtR3V93LAMoeQtL36ABiLvJofvImZbtqA+V3qblA==;9zkxahzNMog+iY1QYObIXw=="
 ---
 

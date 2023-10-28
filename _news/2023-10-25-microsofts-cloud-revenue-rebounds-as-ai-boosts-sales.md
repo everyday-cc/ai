@@ -302,15 +302,6 @@ related:
         width: 1024
         height: 580
         isCached: true
-  - title: "Microsoft to Spend $3.2b in Australia as AI Regulation Looms"
-    excerpt: "SYDNEY (Reuters) - Microsoft said it will spend A$5 billion ($3.2 billion) expanding its artificial intelligence (AI) and cloud computing abilities in Australia over two years as part of a wide-ranging effort that includes skills training and cyber security."
-    publishedDateTime: 2023-10-23T13:05:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-23/microsoft-to-spend-3-2b-in-australia-as-ai-regulation-looms"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "Microsoft Leading Alphabet In Race To Monetize Generative AI"
     excerpt: "Microsoft’s early lead over Alphabet in Generative AI is paying off. How so? After the two tech giants reported third quarter results Tuesday, Microsoft stock rose 6% while Alphabet shares eased 7% in after-hours trading."
     publishedDateTime: 2023-10-25T13:43:00Z
