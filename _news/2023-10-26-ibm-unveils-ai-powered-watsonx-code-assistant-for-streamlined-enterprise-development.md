@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/technology/ibm-unveils-ai-powered-watsonx-c
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/ibm-unveils-ai-powered-watsonx-code-assistant-for-streamlined-enterprise-development-18157131.htm/amp"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Launches Gen-AI-powered Watsonx Code Assistant for Enterprise"
+    excerpt: "Technical preview indicates increased productivity by 20-45%, with an impressive overall average acceptance rate of 85%."
+    publishedDateTime: 2023-10-27T06:55:00Z
+    webUrl: "https://analyticsindiamag.com/ibm-launches-gen-ai-powered-watsonx-code-assistant-for-enterprise/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2017/08/IBM-Watson.jpg"
+        width: 1395
+        height: 930
+        isCached: true
   - title: "IBM launches AI-powered Watsonx Code Assistant for translating COBOL programs into Java code"
     excerpt: "IBM is launching a new AI-powered service designed to \"assist\" companies and programmers in transitioning ancient COBOL code into the modern, cloud-centric era. Watsonx Code Assistant"
     publishedDateTime: 2023-10-27T12:42:00Z

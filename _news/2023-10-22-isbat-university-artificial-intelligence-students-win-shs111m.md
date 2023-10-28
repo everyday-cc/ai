@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.monitor.co.ug/resource/blob/4409384/aa1430a9bed9a05f7bec1aa37feae92e/latest03pix-data.jpg"

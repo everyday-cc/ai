@@ -44,15 +44,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Prompts are key in 2023: Twenty-five tips to help you unlock the potential of generative AI"
-    excerpt: "The goal is to use generative AI as a tool in your broader decision-making and brainstorming process. Combining AI's suggestions with your expertise and knowledge of your business and market will yield the best results. By integrating these AI insights, we're not merely keeping up with the times; we're"
-    publishedDateTime: 2023-10-23T15:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/prompts-are-key-in-2023-twenty-five-tips-to-help-you-unlock-the-potential-of-generative-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 59
 
 secured: "Ii39ud5Tu/RFi4ILr4RgHAYsh7LiaOb4gJkos9IlKc9gWWZJ8fRH74DmK/AL0jTdQz4qVf4AHton5vbEH2ZEgDSRuHB15/OQtmF9mvuhase5hVnmhkNgsUFBQ7zhBh3tKsjriKbGmzYnxYLnkPd3W/BUcWKgQFVxBFRY560WnLrQN3fWLmoQ4ORi8JCb311pHPJTT9mVs2iRmAJlS3YoirDwTFbDKsI8bVo8J05hWofN3hkqlFZbDt2Cfal6cv3AAM0/licsewOWkbAiKrGf/OU51HUqCX0fXZ/auu1jeTFpvSyNV1aRGiCjPIT49XskJHr9iSQqGdpgcrW9RrHk20NK/nhiugA9bFBEMDQJzHYkbzVlBuVzIumrBTrEhwEc792HZm/RjaF8YwIsFha4x/4MaoqY0gYBVvfVy4cVz9nGnvm3q33CgXckayftT/UmSre0vcNF+PyLIpmJ+s2j9ZQVqhYlOOaOfYBhV0dx1QEBXhu9aFqOCGsd2k93zUCiJ69E2gjF42hLxosy3HL1EQ==;t9ZgeuEMpDbIzTnEwHYIjw=="
 ---

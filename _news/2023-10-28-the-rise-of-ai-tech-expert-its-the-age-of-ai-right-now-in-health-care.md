@@ -27,6 +27,22 @@ images:
 related:
   - title: "AI not ready for prime time in mental health care, experts say"
     excerpt: "Although several uses of artificial intelligence in mental health are showing some success, experts say the jury is still out on its capabilities for wider use."
+    publishedDateTime: 2023-10-28T06:00:00Z
+    webUrl: "https://www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.html"
+    ampWebUrl: "https://www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.amp.html"
+    cdnAmpWebUrl: "https://www-meridianstar-com.cdn.ampproject.org/c/s/www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.amp.html"
+    type: article
+    provider:
+      name: The Meridian Star
+      domain: meridianstar.com
+    quality: 59
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/meridianstar.com/content/tncms/assets/v3/editorial/8/d4/8d428b2a-3439-518d-871a-32ae632f6de5/653a96620fa35.image.jpg"
+        width: 509
+        height: 497
+        isCached: true
+  - title: "AI not ready for prime time in mental health care, experts say"
+    excerpt: "Although several uses of artificial intelligence in mental health are showing some success, experts say the jury is still out on its capabilities for wider use."
     publishedDateTime: 2023-10-26T09:14:00Z
     webUrl: "https://www.tahlequahdailypress.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_d6836250-bb9c-5049-bfa3-704d8480a3e4.html"
     type: article
@@ -68,6 +84,6 @@ related:
         height: 360
         isCached: true
 
-secured: "bqRJhh/3X4QZBqZW06tvM5qKlx3MX/rHPUZ8yqaruISmBPHt4qnHkQ3bXYaPaFfKFjlkuZOg6Pnc+etvNv9n3kPpVfW9RjLWWv3v5d6mM2w3sZL0OcREHmMRAnthPHDrNJn+Qt0O7JEcnSqzN0HgN7+waMBxsX2jy9SQUMUfx4YwaEWm+zUEnIGc8DpXHAz5G8Ml6cO/mEJmJrvRPY2esoM2+acvMgk3ZP4016y1JZwIMX1vyiDtb1R1/Ws3B3B3pnWDxmYMxLd4jRHXWtCklFZw3VmqyV6LDw0+vArND7C/wIOtzR25gEm1Z4ZjbdTfhNeRNy/wU5h8KK/Xa5mp6C5D4xpIZ6ORGNMgNtG2VTI=;NR65cjvgCtnOOp4ABBmiqw=="
+secured: "Z+DRM7gs+1bxUH/GwmZRjcdOEBMiqDOB1py2mDovVf9M2z5I3yo5BgcEfrbDALjWvk0gePeNUVHcidZ9+XatHsjrFvl1HQzh4YpLWQGW+pC4b6Yrjo80v7tJn7lrfRkxSweLG+p3yJBQ86TCcrlFUIHsGNYfh8YwphyBfLGbBZU/BYopkVwFsoLoRYR3I5xk4ywDBrQF+JEQ8XhJ1oHu5qTbxua53caVFAIAD4T4D58ydC12UlzOhW81U1EH3dJv45+hvedMi+R6OjmPTAbRb4B1KrIftdcLunslnAc82+CWkdYEyHSnjfsP9CFEfDAENu9k9+zXrGLovagyEneiFoZrGoNeuIqr/wNumbA3HSvo69tf9ror9vtVOIm3JT29a6vQISndkaVNV9RcyZkVjXEB5NfeL611zxmGk90eriIvSJA1Yhix2rcayhbnY8/4KFyvftxTnRhkXiqwF7TVPjcqBCLJD4hFEgSSWOae1aRps43OFcoeSWsveYgUAH5Y03L+jPskUwJAFTy39PH02A==;1kTbWe3HRi6yD/ArnRskPg=="
 ---
 

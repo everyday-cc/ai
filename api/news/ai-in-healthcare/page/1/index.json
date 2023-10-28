@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-28-ai-not-ready-for-prime-time-in-mental-health-care-experts-say.md",
+      "title": "AI not ready for prime time in mental health care, experts say",
+      "excerpt": "Although several uses of artificial intelligence in mental health are showing some success, experts say the jury is still out on its capabilities for wider use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.html",
+      "originalUrl": "https://www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/meridianstar.com/content/tncms/assets/v3/editorial/8/d4/8d428b2a-3439-518d-871a-32ae632f6de5/653a96620fa35.image.jpg",
+          "width": 509,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.amp.html",
+      "cdnAmpWebUrl": "https://www-meridianstar-com.cdn.ampproject.org/c/s/www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.amp.html",
+      "publishedDateTime": "2023-10-27T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Meridian Star",
+        "domain": "meridianstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-28-ai-for-health-institute-emerges-to-foster-the-expanding-intersection-of-artificial-intelligence-and-healthcare.md",
       "title": "AI for Health Institute Emerges to Foster the Expanding Intersection of Artificial Intelligence and Healthcare",
       "excerpt": "Advanced artificial intelligence (AI) tools and techniques allow researchers to use the vast amounts of data now available from electronic health records and wearables to help solve complex health problems and improve population health.",
@@ -1342,49 +1385,6 @@
       "provider": {
         "name": "Mena FN",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-everbridge-opens-2023-common-alerting-protocol-cap-workshop-in-switzerland-with-presentation-on-artificial-intelligence-for-emergency-warning.md",
-      "title": "Everbridge Opens 2023 Common Alerting Protocol (CAP) Workshop in Switzerland with Presentation on Artificial Intelligence for Emergency Warning",
-      "excerpt": "\"Artificial intelligence and machine learning have accelerated to ... at 02:05 ENHERTU® Approved in the EU as the First HER2 Directed Therapy for Patients with HER2 Mutant Advanced Non-Small Cell Lung Cancer ENHERTU® (trastuzumab deruxtecan) has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-21100568.html",
-      "originalUrl": "https://www.lelezard.com/en/news-21100568.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-12T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null

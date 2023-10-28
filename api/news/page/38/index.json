@@ -2,6 +2,100 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-09-30-waymos-self-driving-cars-on-miami-streets-as-company-tests-its-technology.md",
+      "title": "Waymo's self driving cars on Miami streets as company tests its technology",
+      "excerpt": "To improve their next generation of software, company officials have returned along with their vehicles to the streets of Miami. While the cars will be in autonomous mode at times, there will be an operator inside of them, officials said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/miami/news/waymos-self-driving-cars-on-miami-streets-as-company-tests-its-technology/",
+      "originalUrl": "https://www.cbsnews.com/miami/news/waymos-self-driving-cars-on-miami-streets-as-company-tests-its-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2021/08/31/2decdf36-b00e-4972-8ab9-96992453c9a8/thumbnail/1200x630/ae72ef8ccc3824360c6317c4fc32f677/waymotestdrive.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/miami/news/waymos-self-driving-cars-on-miami-streets-as-company-tests-its-technology/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/waymos-self-driving-cars-on-miami-streets-as-company-tests-its-technology/",
+      "publishedDateTime": "2023-09-29T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-30-can-generative-ai-solve-computer-sciences-greatest-unsolved-problem.md",
+      "title": "Can generative AI solve computer science's greatest unsolved problem?",
+      "excerpt": "Does P = NP? -- is a grand theoretical challenge. Scientists took the approach of spoon-feeding ideas to GPT-4 to seek an answer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/can-generative-ai-solve-computer-sciences-greatest-unsolved-problem/",
+      "originalUrl": "https://www.zdnet.com/article/can-generative-ai-solve-computer-sciences-greatest-unsolved-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2a2f4ea75ba97a05d420448e3fbda0449abec4e7/2023/09/29/1cf390aa-8895-4a67-8373-05221dc63edb/an-incredibly-complex-computer-the-size-of-a-room-with-hundreds-of-gears-levers-and-dials-and-a-dig-clipdrop-variants-clipdrop-enhance.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-generative-ai-solve-computer-sciences-greatest-unsolved-problem/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-generative-ai-solve-computer-sciences-greatest-unsolved-problem/",
+      "publishedDateTime": "2023-09-29T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-30-the-synergy-of-artificial-intelligence-and-robots-in-medical-practice.md",
       "title": "The Synergy Of Artificial Intelligence And Robots In Medical Practice",
       "excerpt": "This story is part of a series on the current progression in Regenerative Medicine. This piece discusses advances in the use of artificial intelligence in medical robotics. In 1999, I defined regenerative medicine as the collection of interventions that ...",
@@ -1032,83 +1126,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-infosys-collaborates-with-microsoft-to-develop-generative-ai.md",
-      "title": "Infosys collaborates with Microsoft to develop generative AI",
-      "excerpt": "Infosys and Microsoft, two leaders in the technology industry, have announced a collaboration to develop industry-leading AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theindianwire.com/software/infosys-collaborates-with-microsoft-to-develop-generative-ai-341411/",
-      "originalUrl": "https://www.theindianwire.com/software/infosys-collaborates-with-microsoft-to-develop-generative-ai-341411/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Wire",
-        "domain": "theindianwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study.md",
-      "title": "AI language models can exceed PNG and FLAC in lossless compression, says study",
-      "excerpt": "In an arXiv research paper titled \"Language Modeling Is Compression,\" researchers detail their discovery that the DeepMind large language model (LLM) called Chinchilla 70B can perform lossless ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

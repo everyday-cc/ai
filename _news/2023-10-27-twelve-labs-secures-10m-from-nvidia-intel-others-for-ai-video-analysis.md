@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "CentML lands $27M from Nvidia, others to make AI models run more efficiently"
+    excerpt: "CentML, a startup building tools to enable AI models to run more efficiently on existing hardware, has raised $27 million in a venture funding round."
+    publishedDateTime: 2023-10-25T15:43:00Z
+    webUrl: "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/"
+    ampWebUrl: "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI startup Twelve Labs attracts $10 mil. from Nvidia, Intel, others"
     excerpt: "Twelve Labs, Korea's generative artificial intelligence (AI) startup, has attracted a combined $10 million from U.S. chip design company Nvidia, U.S. chipmaker Intel and two others, according to the company Friday."
     publishedDateTime: 2023-10-27T01:02:00Z
@@ -34,15 +50,15 @@ related:
         width: 500
         height: 312
         isCached: true
-  - title: "Primer Joins NVIDIA Inception Program for Cutting-Edge AI Startups"
-    excerpt: "Primer offers trusted AI solutions to the U.S. government, strategic allies, and large enterprises. Powered by its proprietary natural language processing (NLP) technology, Primer's solutions enable leaders, operators, and analysts to access and analyze ..."
-    publishedDateTime: 2023-10-26T11:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/primer-joins-nvidia-inception-program-for-cutting-edge-ai-startups-1032743089"
+  - title: "Google and Nvidia-backed CentML secures $37 million CAD to help companies deploy AI amid chip shortages"
+    excerpt: "As companies race to adopt AI amid chip shortages, Toronto-based CentML is developing a solution to help customers make the most of existing supplies."
+    publishedDateTime: 2023-10-25T13:00:00Z
+    webUrl: "https://betakit.com/google-and-nvidia-backed-centml-secures-37-million-cad-to-help-companies-deploy-ai-amid-chip-shortages/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: BetaKit
+      domain: betakit.com
+    quality: 18
   - title: "Google, Nvidia invest in AI startup CentML"
     excerpt: "CentML – a Toronto-based AI startup has received new funding from Nvidia Corp (NASDAQ: NVDA) and Alphabet Inc’s (NASDAQ: GOOGL) Google. On Wednesday, the artificial intelligence company said it secured a total of $27 million from names that also include Radical Ventures, Deloitte Ventures, and Thomson Reuters Ventures."
     publishedDateTime: 2023-10-25T18:07:00Z

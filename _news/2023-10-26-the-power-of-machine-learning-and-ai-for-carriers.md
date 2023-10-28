@@ -49,31 +49,6 @@ related:
         width: 498
         height: 259
         isCached: true
-  - title: "How governments are approaching the regulation and use of AI"
-    excerpt: "“AI is not just about the technology; it’s going to impact aspects of our daily lives that we can’t even imagine right now,” Dillon said. “We need to really concentrate on and address the ethics and the regulations and the workforce concerns and ..."
-    publishedDateTime: 2023-10-23T14:13:00Z
-    webUrl: "https://www.cityandstateny.com/policy/2023/10/how-governments-are-approaching-regulation-and-use-ai/391389/"
-    type: article
-    provider:
-      name: City & State New York
-      domain: cityandstateny.com
-    quality: 39
-    images:
-      - url: "https://cdn.cityandstateny.com/media/img/cd/2023/10/20/GettyImages_967906100/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Measuring Mood Through Artificial Intelligence"
-    excerpt: "Whether it’s a parent with a thermometer and children’s Tylenol or a tumor board determining an oncology regimen, such a data-driven approach is usually the best practice in 21 st-century healthcare. Unfortunately, mental health care lags behind ..."
-    publishedDateTime: 2023-10-23T13:41:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/pathways-of-progress/202310/measuring-mood-through-artificial-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/pathways-of-progress/202310/measuring-mood-through-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/pathways-of-progress/202310/measuring-mood-through-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 39
   - title: "5 ways AI could influence nursing in the coming years"
     excerpt: "Artificial intelligence comprises various technologies in almost ... health care AI companies have attracted more investments and equity deals than any other sector except driverless vehicles and other transportation-related work, according to the OECD.AI ..."
     publishedDateTime: 2023-10-24T04:54:00Z

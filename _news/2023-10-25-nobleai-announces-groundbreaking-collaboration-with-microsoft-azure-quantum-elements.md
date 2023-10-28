@@ -539,15 +539,6 @@ related:
         width: 700
         height: 432
         isCached: true
-  - title: "Microsoft releases Azure AI Content Safety to create safer online environments"
-    excerpt: "Microsoft has launched Azure AI Content Safety, which uses text and image detection to identify and filter harmful content in applications and services."
-    publishedDateTime: 2023-10-23T13:31:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-releases-azure-ai-content-safety-to-create-safer-online-environments/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 45
   - title: "FRISS to use Microsoft Azure OpenAI Service for Enhanced AI Fraud Model Explanations"
     excerpt: "MASON, Ohio--(BUSINESS WIRE)--FRISS, one of the world’s most implemented solutions for trust automation at P&C carriers, has recently collaborated with Microsoft to enhance its AI fraud model explanations using Microsoft Azure OpenAI Service. As a ..."
     publishedDateTime: 2023-10-26T14:22:00Z

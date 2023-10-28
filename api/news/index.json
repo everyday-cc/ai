@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-28-ai-not-ready-for-prime-time-in-mental-health-care-experts-say.md",
+      "title": "AI not ready for prime time in mental health care, experts say",
+      "excerpt": "Although several uses of artificial intelligence in mental health are showing some success, experts say the jury is still out on its capabilities for wider use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.html",
+      "originalUrl": "https://www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/meridianstar.com/content/tncms/assets/v3/editorial/8/d4/8d428b2a-3439-518d-871a-32ae632f6de5/653a96620fa35.image.jpg",
+          "width": 509,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.amp.html",
+      "cdnAmpWebUrl": "https://www-meridianstar-com.cdn.ampproject.org/c/s/www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.amp.html",
+      "publishedDateTime": "2023-10-27T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Meridian Star",
+        "domain": "meridianstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-28-automated-ai-multichannel-multilingual-marketing-brain-for-smb-growth-announced.md",
       "title": "Automated AI Multichannel, Multilingual Marketing Brain For SMB Growth Announced",
       "excerpt": "New AI-powered dynamics geared toward lead conversion for small and midsize businesses have been announced - with mBrain bringing forward new",
@@ -115,7 +158,7 @@
       "originalUrl": "https://www.bbc.com/news/technology-67172230",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -166,7 +209,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -957,6 +1000,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-27-ai-and-the-reboot-of-scottish-finance.md",
+      "title": "AI and the reboot of Scottish finance",
+      "excerpt": "The prospects for artificial intelligence are a big challenge and opportunity, most obviously in the workplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/uk-scotland-scotland-politics-67238079",
+      "originalUrl": "https://www.bbc.co.uk/news/uk-scotland-scotland-politics-67238079",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/809C/production/_131542923_gettyimages-1614147302.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/uk-scotland-scotland-politics-67238079.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-scotland-scotland-politics-67238079.amp",
+      "publishedDateTime": "2023-10-27T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-10-27-unified-endpoint-management-vs-device-lifecycle-management-what-do-they-have-in-common.md",
       "title": "Unified Endpoint Management vs. device lifecycle management: what do they have in common?",
       "excerpt": "Both protect corporate data, ensure a great user experience, enhance cybersecurity overall and create a great digital workspace.\nThe post Unified Endpoint Management vs. device lifecycle management: what do they have in common? appeared first on IBM Blog.\n",
@@ -1132,110 +1218,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide.md",
-      "title": "Boston Dynamics uses ChatGPT to create a robot tour guide",
-      "excerpt": "Check out the British butler guide at the start of the video, for example ... him over to an early version of Spot among Boston Dynamics’ display of robots. Klingensmith says AI might make it possible for robots “not just to follow our commands ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/",
-      "originalUrl": "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/10/boston-dynamics-spot-AI.jpeg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp",
-      "publishedDateTime": "2023-10-26T19:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-opinion-amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch.md",
-      "title": "Opinion: Amazon’s AI talk is making Wall Street drool, but there seems to be a catch",
-      "excerpt": "Its Azure cloud business reported a better-than-expected quarter earlier this week, and the company has an investment in and partnership with OpenAI, the creator of ChatGPT. Microsoft also has promising early AI offerings, including Copilot for its GitHub ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
-      "originalUrl": "https://www.marketwatch.com/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-867942/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
-      "publishedDateTime": "2023-10-26T18:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -17,6 +17,13 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://www.nanowerk.com/news2/robotics/id63898_1.jpg"
+    width: 800
+    height: 457
+    isCached: true
 
 related:
   - title: "How AI Is Shaping The Future Of The Luxury Watch Market"

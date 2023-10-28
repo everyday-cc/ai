@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-p
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -58,26 +58,6 @@ related:
       name: bnnbloomberg
       domain: bnnbloomberg.ca
     quality: 54
-  - title: "U.S. DOJ seeks documents from Tesla on driving range"
-    excerpt: "The automaker also said in a regulatory filing that the Justice Department was looking into its self-driving feature, personal benefits and personnel decisions, in a move that marked intensifying regulatory scrutiny of the Elon Musk-led company."
-    publishedDateTime: 2023-10-23T14:18:00Z
-    webUrl: "https://www.autoblog.com/2023/10/23/tesla-doj-driving-range-estimates/"
-    ampWebUrl: "https://www.autoblog.com/amp/2023/10/23/tesla-doj-driving-range-estimates/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/10/23/tesla-doj-driving-range-estimates/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 39
-  - title: "Tesla driving range documents subpoenaed by U.S. Justice Department"
-    excerpt: "The automaker also said in a regulatory filing that the Justice Department was looking into its self-driving feature, personal benefits and personnel decisions, in a move that marked intensifying regulatory scrutiny of the Elon Musk-led company."
-    publishedDateTime: 2023-10-23T14:16:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/tesla-subpoenaed-driving-range-documents"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
   - title: "Elon Musk saved Tesla from ruin by promising self-driving cars. The problem? 700 crashes, 19 deaths and claims of a FAKED promo video. So TOM LEONARD investigates: Is his ..."
     excerpt: "Tesla, he said, would hold an ‘Autonomy Day’ in a month’s time to show investors that the company was building an entirely self-driving. It would be revolutionary – and surely stave off bankruptcy. However, there was an obvious problem: drivers ..."
     publishedDateTime: 2023-10-24T18:47:00Z

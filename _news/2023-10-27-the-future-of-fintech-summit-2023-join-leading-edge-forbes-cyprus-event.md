@@ -24,17 +24,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "IT Arena 2023: The Future of AI, Startups, and Tech Cities"
-    excerpt: "Daniel Prieto, former Director of Cybersecurity Strategy at the White House, agrees: \"Generative AI can be used for disinformation and creating deepfakes, which poses a risk.\" IT Arena hosted the battle of the most ambitious startups - Startup Competition."
-    publishedDateTime: 2023-10-23T13:48:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/35374068/it-arena-2023-the-future-of-ai-startups-and-tech-cities"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
-
 secured: "9PYjwj7zux7rc8JRHOKIFN+ELCoMQCgAhEgAbFeUtF1/8MwPNq/KThp/bhfokvtYIZ5D7GzlrRaJDTcY+WMHlts3Lr26M1CggD8w0gDk9sBI2rszn6XYMcMLPnD8ln2pCz6xEIjcdCMJjdnQoPszGNTrJ/CnfuznjWrUF3z/POe01SUJvJr+mLj7bcdaBgHLlYvIgEGfCFnNhMSNF3Injq84UPFuXaP9Phgz4Yj1k9Zgn2YXD4PDLl265i62FtFPamBwl4+NTxkmiuAzqv3+6yJhTmZLyzHJDAjIoOrAK0991waRfbfdW11HS5vl627jqMrkaO3eDesG4yhKOAsAmEyUKRIEpTvLRR1yiA/9C+geW9Www7egd8uNOuFJgCNfzXF7I1jl+w8cuIk8tbr/E+9fF0Ibp98Je7Pp6nYTWr/VReku1SXo1htfdlVtQErNMuTOM4rs6kYiTqid1rbIyG50EcYdQ3CQipDaLmW9xlq4s9Tqb2IBPKBsXViMvJnbDiAgBuPxtYrnP5mqUjccpw==;ev2bJHKIEGfa3eTDLnDAUw=="
 ---
 

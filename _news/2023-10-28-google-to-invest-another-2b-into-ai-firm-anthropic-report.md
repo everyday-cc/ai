@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google Bets $2 Billion on AI Startup Anthropic, Inks Cloud Deal"
+    excerpt: "Google has committed to invest $2 billion in the artificial intelligence company Anthropic, solidifying its relationship with the startup darling and stoking the Silicon Valley frenzy for AI."
+    publishedDateTime: 2023-10-28T07:21:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/google-bets-2-billion-on-ai-startup-anthropic-inks-cloud-deal-71698464385769.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-bets-2-billion-on-ai-startup-anthropic-inks-cloud-deal-71698464385769.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-bets-2-billion-on-ai-startup-anthropic-inks-cloud-deal-71698464385769.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/10/28/1600x900/67bbde00-68bf-11ed-b05f-f3a699bb92b4_1670237121513_1670237121513_1698477220153.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Frontier Model Forum $10 million AI safety fund – OpenAI, Anthropic, Google, & Microsoft"
     excerpt: "The Frontier Model Forum, an industry body that includes companies such as OpenAI, Anthropic, Google, and Microsoft. Dedicated to AI safety"
     publishedDateTime: 2023-10-26T07:12:00Z
@@ -94,6 +110,6 @@ related:
       domain: businesstimes.com.sg
     quality: 17
 
-secured: "ev6V2/26uIfRiUAFuEFsdQkgHux3RqhceeHgWGw0w7rIz7KogCpLhEP0PaeSDkR1ku0foiX8NEQyPRDECb+bDkcdHt63unPxHuPS6Tc98Zw+30UqnOQfVAM3ny5iQ5po11PJYHBog7ItwhUr71wJnMj4Ids/iPKuqCU6sjwH1349BKIA8lXnpYLODsxrStOo8n4yLD+khTNC5UWm3RVIi6AJnalrq9c28Axv0ZQV50CjyzTzZNXLuz1z1Bh0yJNTf0pY6IMZjNrS9VgzbbxkiJLw+cGM5bE+THe6pG0B7uQLXHr/hClI3u2bQbUZs/2x5oHs7kMSyLUm0ablj6dXABFR6WtJsI6GGOMYh0ghUZ0=;IQLVtw2uwiRVzGpzc3hvkg=="
+secured: "4rOOTmuN3ydeEBo9lqfxwEZ+V0TSWCSls/TBqapI1gPFZYl2C+muJPAb09epWZiyQpBw0ACgquJ0Jk0gskFbg7O5ZKJsNCrphWLl4uu7UGmEDVPFj3JANLqDdvyP0Gqle3EfmkH4LPkp/pj7mgYla6KSovWJW0Lf4mfXvgEQ7RJ53aBsH5794p2VVkkHVwI2bX6Y0M/1psbcZq2ABp/crLKaOw2gTBH7FnXy7v+CDvKKU14z7mMS8FCly6Wl+QuJ1l/QLbBItAY9o1QOffAyI6nJo5hq5f8eKPtr68sjBrHGE+bNAQHrqRAPyxz19/ub1MWJ4+EXPTxabDVv5WnjPFdazsLhDyPKxpTpE5mdPDx9q2Tr7+lu0TUYW2blGEy1OnkKjRTd5osajufyLzYNaZHGtV9xYlY3iLFgUWZDQc1X4FbVWmdVzuSFXmze3FOJucF4MGUoyVWydfYVFOflDckm4tou2Yqd6r9i17NPZl2h4jNqcFBTDh9NIouF9Se+5wjWql4BzztcxcwhLsIeOw==;irxBCKoYrJoUHL6sOpKagw=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-26-3-ways-to-migrate-and-deploy-ibm-maximo-on-aws-cloud.md",
+      "title": "3 ways to migrate and deploy IBM Maximo on AWS Cloud",
+      "excerpt": "Migrating to cloud helps organizations drive operational resiliency and reliability while keeping software updated with effort.\nThe post 3 ways to migrate and deploy IBM Maximo on AWS Cloud appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/3-ways-to-migrate-and-deploy-ibm-maximo-on-aws-cloud/",
+      "originalUrl": "https://www.ibm.com/blog/3-ways-to-migrate-and-deploy-ibm-maximo-on-aws-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-sk-hynix-cuts-losses-in-q3-on-higher-ai-memory-chip-sales.md",
       "title": "SK hynix cuts losses in Q3 on higher AI memory chip sales",
       "excerpt": "SK hynix posted an operating loss of 1.79 trillion won ($1.31 billion) in the third quarter, but the memory chip maker was able to reduce its deficit by focusing on high-priced and high-performance AI memory chips such as high-bandwidth memory (HBM),",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/10/129_361933.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -192,7 +235,7 @@
       "originalUrl": "https://www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -980,7 +1023,7 @@
       "originalUrl": "https://www.therobotreport.com/kate-darling-on-the-future-of-robotics-and-ai-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -1013,57 +1056,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-startup-strategy-how-we-built-a-webinar-using-chatgpt.md",
-      "title": "Startup Strategy: How We Built a Webinar Using ChatGPT",
-      "excerpt": "In this online event, join Brooke Gracey as she spills the beans on how the team at Cvent used ChatGPT to create a webinar that was so good, it had people lining up to attend (virtually, of course). She shares all the juicy details on how they used AI to help fill in the gaps",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/cvent/startup-strategy-how-we-built-a-webinar-using-chatgpt/",
-      "originalUrl": "https://techcrunch.com/sponsor/cvent/startup-strategy-how-we-built-a-webinar-using-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/TechCrunch-LP-Graphic-1500x600-1.png?resize=1200,480",
-          "width": 1200,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {

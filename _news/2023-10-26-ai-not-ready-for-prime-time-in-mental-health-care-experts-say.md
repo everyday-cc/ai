@@ -7,7 +7,7 @@ originalUrl: "https://www.tahlequahdailypress.com/ai-not-ready-for-prime-time-in
 webUrl: "https://www.tahlequahdailypress.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_d6836250-bb9c-5049-bfa3-704d8480a3e4.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI not ready for prime time in mental health care, experts say"
+    excerpt: "Although several uses of artificial intelligence in mental health are showing some success, experts say the jury is still out on its capabilities for wider use."
+    publishedDateTime: 2023-10-28T06:00:00Z
+    webUrl: "https://www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.html"
+    ampWebUrl: "https://www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.amp.html"
+    cdnAmpWebUrl: "https://www-meridianstar-com.cdn.ampproject.org/c/s/www.meridianstar.com/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_6f88af2f-1704-5a59-bd04-69571bd800c9.amp.html"
+    type: article
+    provider:
+      name: The Meridian Star
+      domain: meridianstar.com
+    quality: 59
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/meridianstar.com/content/tncms/assets/v3/editorial/8/d4/8d428b2a-3439-518d-871a-32ae632f6de5/653a96620fa35.image.jpg"
+        width: 509
+        height: 497
+        isCached: true
   - title: "AI expert: 'It’s the age of AI right now in health care'"
     excerpt: "During a routine visit with the medical oncologist, a cancer patient brings up a new symptom that could be a side effect of cancer treatment."
     publishedDateTime: 2023-10-27T20:59:00Z

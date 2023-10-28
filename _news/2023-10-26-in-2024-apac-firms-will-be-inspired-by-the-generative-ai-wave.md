@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Prompts are key in 2023: Twenty-five tips to help you unlock the potential of generative AI"
-    excerpt: "The goal is to use generative AI as a tool in your broader decision-making and brainstorming process. Combining AI's suggestions with your expertise and knowledge of your business and market will yield the best results. By integrating these AI insights, we're not merely keeping up with the times; we're"
-    publishedDateTime: 2023-10-23T15:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/prompts-are-key-in-2023-twenty-five-tips-to-help-you-unlock-the-potential-of-generative-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 59
 
 secured: "xLUcZtI35N1XiQwM8I+GhJNAhLngP8E+tluBpSb7xONNh9XL0s+mf5B3NqTfUX3de+psYKNG9FzC8AsjsZz0lpAnDa/xGvYXjfxBwGo0SysCDFQXDwf4vMS2A6czCvVsCH3DPPVf1zEXi3YmgORAWQc+eVABlmDTemDmF8V6yL9T07wDSN0hqYF0ht1z14McJjk4cFIPT5YGABnuITny+h85AKP4O5H5+lOEJf0IHNyyU6TZ2nZMXWEV1tQ1VrpzrfycQaFAN1DcthgHI8C7ujoeA9eQUdJTZo5lPIdWmqGaeZ/dhEzgUYiD+Oyo8FdSXFSuOfCVgaQ1dqFrkz2rz6WIDSlIOVzeSQHuTLJZroon4rgIJ0tdv5UsgwjG00m+VywW0eIZxvfFIPdd4bGGc5dWZPrXLzmBEW0WHRmeVCUYuTM/kuXkp+Z0MDncfMedajx2Uyoz9UTJwiw172pbV+hEQUHAdMdqQjB/44BkRmQfzayOfyJL05iY+YrZJvGUf8sA9gdk1rjYuyTSzHoXBA==;KwjeQ6979/QI0MpkJIQ4fA=="
 ---

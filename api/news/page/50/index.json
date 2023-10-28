@@ -2,6 +2,109 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-09-21-with-a-little-help-from-my-bot-joining-forces-with-ai.md",
+      "title": "With A Little Help From My Bot: Joining Forces With AI",
+      "excerpt": "Here are some ways in which workers across roles and industries will feel the benefits of generative AI in their jobs, professional development and career trajectories.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/with-a-little-help-from-my-bot-joining-forces-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/with-a-little-help-from-my-bot-joining-forces-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d54262188e017c56d9d11b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/with-a-little-help-from-my-bot-joining-forces-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/21/with-a-little-help-from-my-bot-joining-forces-with-ai/amp/",
+      "publishedDateTime": "2023-09-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-21-broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier.md",
+      "title": "Broadcom Shares Fall on Report Google Looks to Drop It as AI Chip Supplier",
+      "excerpt": "By Colin Kellaher Shares of Broadcom moved lower in premarket trading Thursday following a published report that Alphabet's Google unit is looking to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier-f1d21a67",
+      "originalUrl": "https://www.marketwatch.com/story/broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier-f1d21a67",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier-f1d21a67",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier-f1d21a67",
+      "publishedDateTime": "2023-09-21T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-21-edtech-convegenius-builds-swiftchat-conversational-ai-platform-on-aws.md",
       "title": "Edtech ConveGenius builds SwiftChat conversational AI platform on AWS",
       "excerpt": "India on Thursday announced that edtech social enterprise ConveGenius has built a conversational artificial intelligence (AI) chatbot on its platform for government schools and low-free private schools.",
@@ -1038,92 +1141,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-google-deepminds-ai-tool-could-pinpoint-our-genetic-faults.md",
-      "title": "Google DeepMind’s AI Tool Could Pinpoint Our Genetic Faults",
-      "excerpt": "Case in point: new work by Alphabet’s AI subsidiary, Google DeepMind, that promises to help winnow down the genetic causes of disease. Get a curated selection of 10 of our best stories in your ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2023/09/20/google-deepmind-s-ai-tool-could-pinpoint-our-genetic-faults/2e7785e8-57c7-11ee-bf64-cd88fe7adc71_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/2023/09/20/google-deepmind-s-ai-tool-could-pinpoint-our-genetic-faults/2e7785e8-57c7-11ee-bf64-cd88fe7adc71_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-big-data-analytics-and-the-future-of-financial-services.md",
-      "title": "Big Data Analytics and the Future of Financial Services",
-      "excerpt": "In an era marked by exponential growth in data generation, the financial services industry stands on the brink of a transformative revolution. Big Data Analytics, with its immense potential to extract valuable insights from vast datasets,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/big-data-analytics-and-the-future-of-financial-services/",
-      "originalUrl": "https://techbullion.com/big-data-analytics-and-the-future-of-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-20T165620.361.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

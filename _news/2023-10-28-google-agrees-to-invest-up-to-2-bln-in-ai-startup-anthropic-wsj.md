@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Bets $2 Billion on AI Startup Anthropic, Inks Cloud Deal"
+    excerpt: "Google has committed to invest $2 billion in the artificial intelligence company Anthropic, solidifying its relationship with the startup darling and stoking the Silicon Valley frenzy for AI."
+    publishedDateTime: 2023-10-28T07:21:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/google-bets-2-billion-on-ai-startup-anthropic-inks-cloud-deal-71698464385769.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-bets-2-billion-on-ai-startup-anthropic-inks-cloud-deal-71698464385769.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-bets-2-billion-on-ai-startup-anthropic-inks-cloud-deal-71698464385769.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/10/28/1600x900/67bbde00-68bf-11ed-b05f-f3a699bb92b4_1670237121513_1670237121513_1698477220153.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Frontier Model Forum $10 million AI safety fund – OpenAI, Anthropic, Google, & Microsoft"
     excerpt: "The Frontier Model Forum, an industry body that includes companies such as OpenAI, Anthropic, Google, and Microsoft. Dedicated to AI safety"
     publishedDateTime: 2023-10-26T07:12:00Z

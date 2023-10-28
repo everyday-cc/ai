@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-27-chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines.md",
+      "title": "‘ChatGPT for robots’: Microsoft vets lead new startup that helps create instructions for machines",
+      "excerpt": "The product includes an AI foundation model for robotics, synthetic data generation, and a tool for orchestration, training, and fine tuning. For example, customers can use the startup’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines/",
+      "originalUrl": "https://www.geekwire.com/2023/chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/09/90649193-B6A1-4701-9A67-B11908DA337B_4_5005_c.jpeg",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-cognitive-collaboration-market-outlook-report-2023-2030-cisco-microsoft-bluescape.md",
       "title": "Cognitive Collaboration Market Outlook Report 2023-2030 | Cisco, Microsoft , Bluescape",
       "excerpt": "id=728177&Mode=SS Key Player Spotlight for Cognitive Collaboration Market: Cisco (US), Microsoft (US), Slack ... We are specialized in offering services in various industry verticals to recognize ...",
@@ -1209,49 +1262,6 @@
       "provider": {
         "name": "cnbctv18",
         "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-partners-with-microsoft-to-drive-enterprise-generative-ai-adoption.md",
-      "title": "Infosys Partners with Microsoft to Drive Enterprise Generative AI Adoption",
-      "excerpt": "Indian IT and consulting firm, Infosys announced its partnership with Microsoft aimed at accelerating the widespread adoption of generative AI across various industries.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/infosys-partners-with-microsoft-to-drive-enterprise-generative-ai-adoption/",
-      "originalUrl": "https://analyticsindiamag.com/infosys-partners-with-microsoft-to-drive-enterprise-generative-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/infosys-thrill-1.jpeg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
         "images": null,
         "publishers": null,
         "authors": null

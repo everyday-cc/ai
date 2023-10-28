@@ -23,40 +23,33 @@ topics:
   - AI
 
 related:
-  - title: "AI startup Twelve Labs attracts $10 mil. from Nvidia, Intel, others"
-    excerpt: "Twelve Labs, Korea's generative artificial intelligence (AI) startup, has attracted a combined $10 million from U.S. chip design company Nvidia, U.S. chipmaker Intel and two others, according to the company Friday."
-    publishedDateTime: 2023-10-27T01:02:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/10/129_361984.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361984"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361984"
+  - title: "Yahoo Finance's NEXT: How rivals are taking on Nvidia in the AI chip race"
+    excerpt: "Nvidia (NVDA) is dominating the AI chip market, but it may not hold onto that lead for long. Traditional semiconductor rivals like AMD (AMD) and Intel (INTC) are entering the AI space, but so are Big Tech names like Microsoft (MSFT) and Alphabet (GOOGL)."
+    publishedDateTime: 2023-10-23T19:24:00Z
+    webUrl: "https://www.aol.com/yahoo-finances-next-rivals-taking-192451983.html?ref=biztoc.com"
     type: article
     provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 57
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/4c37929bae5d4357a93bfea34f1e49f4.jpg"
-        width: 500
-        height: 312
-        isCached: true
-  - title: "Google, Nvidia invest in AI startup CentML"
-    excerpt: "CentML – a Toronto-based AI startup has received new funding from Nvidia Corp (NASDAQ: NVDA) and Alphabet Inc’s (NASDAQ: GOOGL) Google. On Wednesday, the artificial intelligence company said it secured a total of $27 million from names that also include Radical Ventures, Deloitte Ventures, and Thomson Reuters Ventures."
-    publishedDateTime: 2023-10-25T18:07:00Z
-    webUrl: "https://invezz.com/news/2023/10/25/google-nvidia-invest-ai-startup-centml/"
+      name: AOL
+      domain: aol.com
+    quality: 50
+  - title: "AI chip startup Graphcore was meant to be a hot Nvidia rival. Industry insiders now think it's up for sale."
+    excerpt: "While the fortunes of AI chip market leader Nvidia have soared, British rival Graphcore has laid off staff and shut offices."
+    publishedDateTime: 2023-10-27T12:05:00Z
+    webUrl: "https://www.businessinsider.com/graphcore-nvidia-chip-rival-hopeful-may-be-up-for-sale-2023-10"
     type: article
     provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 17
-  - title: "Twelve Labs Secures $10M from Nvidia, Intel, Others for AI Video Analysis"
-    excerpt: "Twelve Labs, a generative artificial intelligence (AI) startup based in South Korea, has secured a combined investment of $10 million. Nvidia Corp., Intel Corp., Samsung Next, and Korean Investment Partners are the"
-    publishedDateTime: 2023-10-27T11:39:00Z
-    webUrl: "https://www.econotimes.com/Twelve-Labs-Secures-10M-Investment-from-Nvidia-Intel-Samsung-and-Korean-Investment-Partners-1665100"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+  - title: "Big Tech earnings highlighted big spending on artificial intelligence. Here's what it means for AI king Nvidia"
+    excerpt: "This week's slate of tech earnings left little doubt that, as more Nvidia chips become available, there will be a place inside data centers for them to go."
+    publishedDateTime: 2023-10-27T16:37:00Z
+    webUrl: "https://www.cnbc.com/2023/10/27/big-tech-earnings-highlighted-big-spending-on-ai-what-it-means-for-nvidia.html"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 16
+      name: CNBC
+      domain: cnbc.com
+    quality: 42
 
 secured: "XehmdvM4idIV1fQi78kCTHeUDRs/8LZFdls+AnuKBGFq42GhRSGu4SE4rkPMvlU3m0XCMhI29U2k6zOozQSfN61pwvZt7+A1BS4Mp7owZ2aQVCeFJmY/tQwr8JI/Z8vuFSQ0rD4q2xEJrXlY80gXVyf+hNOf8AO3HCH/SMZKj48bXoVFMhI6jHn+aVHzbrOJFsqwHpBd51yPLHPtCtvJ6nAWmdXKpHPel00ThK9fvyMHgrCx2gePoGSv3XwJcWa+Q1g+fmO7RhyCojaPeNi2aMT6TJMPlWuZde5ld8rQKVAFTB4lNCaM4fkFJRE/VeQB7/3IDG1kDbDqsAABwtBPnGbe2J/p5923lXkFfg1XB1Y=;GGK9M2WnYB3MUcHzi4LuQQ=="
 ---

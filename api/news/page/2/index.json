@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-10-27-ai-startup-twelve-labs-attracts-10-mil-from-nvidia-intel-others.md",
-      "title": "AI startup Twelve Labs attracts $10 mil. from Nvidia, Intel, others",
-      "excerpt": "Twelve Labs, Korea's generative artificial intelligence (AI) startup, has attracted a combined $10 million from U.S. chip design company Nvidia, U.S. chipmaker Intel and two others, according to the company Friday.",
+      "path": "_news/2023-10-27-boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide.md",
+      "title": "Boston Dynamics uses ChatGPT to create a robot tour guide",
+      "excerpt": "Check out the British butler guide at the start of the video, for example ... him over to an early version of Spot among Boston Dynamics’ display of robots. Klingensmith says AI might make it possible for robots “not just to follow our commands ...",
       "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/10/129_361984.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/10/129_361984.html",
+      "webUrl": "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/",
+      "originalUrl": "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 149,
       "tags": null,
       "images": [
         {
-          "url": "https://img.koreatimes.co.kr/upload/thumbnailV2/4c37929bae5d4357a93bfea34f1e49f4.jpg",
-          "width": 500,
-          "height": 312,
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/10/boston-dynamics-spot-AI.jpeg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361984",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361984",
-      "publishedDateTime": "2023-10-26T18:02:00-07:00",
+      "ampWebUrl": "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp",
+      "publishedDateTime": "2023-10-26T19:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,6 +49,59 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-opinion-amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch.md",
+      "title": "Opinion: Amazon’s AI talk is making Wall Street drool, but there seems to be a catch",
+      "excerpt": "Its Azure cloud business reported a better-than-expected quarter earlier this week, and the company has an investment in and partnership with OpenAI, the creator of ChatGPT. Microsoft also has promising early AI offerings, including Copilot for its GitHub ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
+      "originalUrl": "https://www.marketwatch.com/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-867942/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
+      "publishedDateTime": "2023-10-26T18:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -52,7 +114,7 @@
       "originalUrl": "https://www.therobotreport.com/microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 616,
+      "heat": 606,
       "tags": null,
       "images": [
         {
@@ -411,7 +473,7 @@
       "originalUrl": "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1128,7 +1190,7 @@
       "originalUrl": "https://www.cnbctv18.com/technology/ibm-unveils-ai-powered-watsonx-code-assistant-for-streamlined-enterprise-development-18157131.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1160,49 +1222,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-3-ways-to-migrate-and-deploy-ibm-maximo-on-aws-cloud.md",
-      "title": "3 ways to migrate and deploy IBM Maximo on AWS Cloud",
-      "excerpt": "Migrating to cloud helps organizations drive operational resiliency and reliability while keeping software updated with effort.\nThe post 3 ways to migrate and deploy IBM Maximo on AWS Cloud appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/3-ways-to-migrate-and-deploy-ibm-maximo-on-aws-cloud/",
-      "originalUrl": "https://www.ibm.com/blog/3-ways-to-migrate-and-deploy-ibm-maximo-on-aws-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AWS AI"
       ]
     }
   ],

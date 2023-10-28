@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361933"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361933"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 3543
         height: 2362
         isCached: true
-  - title: "Samsung shares trail rival SK Hynix as the smaller South Korean memory chip maker gets a boost from AI fever"
-    excerpt: "SK Hynix has surged 67 per cent compared with 24 per cent for Samsung owing to the smaller firm’s Nvidia deal and lead in AI-optimised high-bandwidth memory."
-    publishedDateTime: 2023-10-23T13:45:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3238857/samsung-shares-trail-rival-sk-hynix-smaller-south-korean-memory-chip-maker-gets-boost-ai-fever"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 45
 
 secured: "FO2f99uhhmQ8Nlg7mtatOJYVhauFRiVanAp/lyiXsUf9qc+7WWGQ2VdKY2EajvBC2tehe18xk97ozvR8fWkt6zoC54e8EJI50vQz5m+duuPEVL9D7fXGP13ris2eqZs1yfV2r4CuHGr3j5yhhSu+FYOgheOasUGrCLTYRtBpvsQ4W45wjrThfNNjms+eEITvUwZ4mE8sRQC0yEHUYI9lbkTUCiXOSPSr4QKQkDSu0eYz8nVyjiKVw3VbGTjaCqpoZnms0i3Rran6v2n0PVbwvgUwwl/ldpSQ2YF1bQqol9hzNjhtfN009X0Zli+D3aS05FNp7CMjNbw3PCUiw70cgPrrH3G+3EhnlgcUmbcBtRQ=;WTO/rt8Di4R9xBbBuq00VA=="
 ---

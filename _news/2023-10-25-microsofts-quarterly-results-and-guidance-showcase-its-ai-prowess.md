@@ -535,15 +535,6 @@ related:
         width: 700
         height: 432
         isCached: true
-  - title: "Microsoft releases Azure AI Content Safety to create safer online environments"
-    excerpt: "Microsoft has launched Azure AI Content Safety, which uses text and image detection to identify and filter harmful content in applications and services."
-    publishedDateTime: 2023-10-23T13:31:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-releases-azure-ai-content-safety-to-create-safer-online-environments/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 45
   - title: "NobleAI Announces Groundbreaking Collaboration with Microsoft Azure Quantum Elements"
     excerpt: "Our focus on using Science-Based AI to supercharge the development of new chemicals, formulations, and materials for product development naturally aligns very well with the massive scale and simulation capabilities of Azure Quantum Elements,"
     publishedDateTime: 2023-10-25T12:05:00Z

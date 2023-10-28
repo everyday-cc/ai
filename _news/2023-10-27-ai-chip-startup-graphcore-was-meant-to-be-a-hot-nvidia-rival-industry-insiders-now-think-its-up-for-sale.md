@@ -32,6 +32,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 50
+  - title: "Primer Joins NVIDIA Inception Program for Cutting-Edge AI Startups"
+    excerpt: "Primer offers trusted AI solutions to the U.S. government, strategic allies, and large enterprises. Powered by its proprietary natural language processing (NLP) technology, Primer's solutions enable leaders, operators, and analysts to access and analyze ..."
+    publishedDateTime: 2023-10-26T11:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/primer-joins-nvidia-inception-program-for-cutting-edge-ai-startups-1032743089"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Big Tech earnings highlighted big spending on artificial intelligence. Here's what it means for AI king Nvidia"
     excerpt: "This week's slate of tech earnings left little doubt that, as more Nvidia chips become available, there will be a place inside data centers for them to go."
     publishedDateTime: 2023-10-27T16:37:00Z

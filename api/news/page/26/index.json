@@ -2,6 +2,109 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-10-10-new-ways-were-helping-reduce-transportation-and-energy-emissions.md",
+      "title": "New ways we’re helping reduce transportation and energy emissions",
+      "excerpt": "These new product features and expansions help people, city planners and policy makers take action toward building a sustainable future.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/sustainability/google-transportation-energy-emissions-reduction/",
+      "originalUrl": "https://blog.google/outreach-initiatives/sustainability/google-transportation-energy-emissions-reduction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2023-10-09_at_2.07.54_PM.width-1300.png",
+          "width": 1300,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-superopsai-returns-to-its-backers-to-raise-another-12-million.md",
+      "title": "SuperOps.ai Returns To Its Backers To Raise Another $12 Million",
+      "excerpt": "SuperOps.ai aims to build a one-stop-shop for managed services providers looking for tools to run their customers' IT",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2023/10/10/superopsai-returns-to-its-backers-to-raise-another-12-million/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2023/10/10/superopsai-returns-to-its-backers-to-raise-another-12-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65251ad6393acaba72a9bd20/0x0.jpg?format=jpg&crop=2512,1176,x421,y1059,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2023/10/10/superopsai-returns-to-its-backers-to-raise-another-12-million/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/10/10/superopsai-returns-to-its-backers-to-raise-another-12-million/amp/",
+      "publishedDateTime": "2023-10-10T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-artificial-intelligence-in-talent-acquisition-how-machine-learning-is-influencing-recruitment.md",
       "title": "Artificial Intelligence In Talent Acquisition: How Machine Learning Is Influencing Recruitment",
       "excerpt": "The fusion of new AI and ML technologies has reshaped recruitment, replacing outdated methods with data-driven approaches.",
@@ -1101,92 +1204,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-a-prompt-by-any-other-name-ibms-watsonx-gets-a-generative-ai-enhancement.md",
-      "title": "A Prompt by Any Other Name: IBM's Watsonx Gets a Generative AI Enhancement",
-      "excerpt": "IBM is set to integrate a prompt tuner into a component of its watsonx enterprise AI and data platform. Our editor in chief wonders if prompt engineering really is a 'game-changing skill,' and why some companies paying those who have it so much money?",
-      "sourceUrl": null,
-      "webUrl": "https://adtmag.com/blogs/watersworks/2023/10/a-prompt-by-any-other-name.aspx",
-      "originalUrl": "https://adtmag.com/blogs/watersworks/2023/10/a-prompt-by-any-other-name.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://adtmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/ai.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "adtmag.com",
-        "domain": "adtmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-hlth-2023-bringing-ai-to-health-responsibly.md",
-      "title": "HLTH 2023: Bringing AI to health responsibly",
-      "excerpt": "Google leaders take the stage at HLTH to discuss the transformative power of AI for health.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/hlth-2023-bringing-ai-to-health-responsibly/",
-      "originalUrl": "https://blog.google/technology/health/hlth-2023-bringing-ai-to-health-responsibly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

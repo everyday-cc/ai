@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-a
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/f67ebc8d0858465139589175ab93563fb53a003a/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=39186499043e05877e63f25acf06ca8e"
         width: 620
         height: 372
-        isCached: true
-  - title: "Millionaire uses Artificial Intelligence to develop medicine"
-    excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
-    publishedDateTime: 2023-10-23T14:55:00Z
-    webUrl: "https://www.aol.com/news/meet-millionaire-using-artificial-intelligence-220148874.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/1a966eeed169632ef66240d355698698"
-        width: 976
-        height: 549
         isCached: true
   - title: "Revealed: Government using AI to decide on benefits and driving licences"
     excerpt: "Government officials are using artificial intelligence (AI) to help decide on everything from approving marriage licences to who should be given benefits, it has been revealed."

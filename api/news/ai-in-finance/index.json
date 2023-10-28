@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-27-ai-and-the-reboot-of-scottish-finance.md",
+      "title": "AI and the reboot of Scottish finance",
+      "excerpt": "The prospects for artificial intelligence are a big challenge and opportunity, most obviously in the workplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/uk-scotland-scotland-politics-67238079",
+      "originalUrl": "https://www.bbc.co.uk/news/uk-scotland-scotland-politics-67238079",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/809C/production/_131542923_gettyimages-1614147302.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/uk-scotland-scotland-politics-67238079.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-scotland-scotland-politics-67238079.amp",
+      "publishedDateTime": "2023-10-27T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley.md",
       "title": "Exclusive: SoftBank takes Indian founders on AI tour in Silicon Valley",
       "excerpt": "Indian startup founders at SoftBank’s office in Silicon Valley. Earlier this week, a group of 20 founders and CXOs from some of India’s biggest start-ups backed by SoftBank engaged in discussions with top executives of leading artificial intelligence (AI) firms in Silicon Valley.",
@@ -105,7 +148,7 @@
       "originalUrl": "https://www.aol.com/yahoo-finances-next-rivals-taking-192451983.html?ref=biztoc.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1281,49 +1324,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform.md",
-      "title": "Fintech Lendbuzz Raises $345M to Expand its AI-Powered Auto Finance Platform",
-      "excerpt": "Lendbuzz, a financial technology company, raised $345M in a combination of $45 million in equity funding and $300 million in a forward flow facility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2015/11/Money-in-Wallet-100.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/amp/",
-      "publishedDateTime": "2023-10-05T19:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

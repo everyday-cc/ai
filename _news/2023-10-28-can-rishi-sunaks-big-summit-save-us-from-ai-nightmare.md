@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-67172230.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67172230.amp"
 type: article
 quality: 87
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/86692a0363695e54e4dec5aa93b0f36f97110d17/271_219_3082_1848/master/3082.jpg?width=620&quality=85&auto=format&fit=max&s=acf063ae8948554c6db715ce06cd89fe"
         width: 620
         height: 372
+        isCached: true
+  - title: "How Rishi Sunak convinced the world to worry about AI"
+    excerpt: "LONDON — Whisper it, but British Prime Minister Rishi Sunak might just be winning the argument on artificial intelligence. When the United Kingdom first announced its much-hyped global AI summit — focused on creating guardrails around the emerging ..."
+    publishedDateTime: 2023-10-25T11:09:00Z
+    webUrl: "https://www.politico.eu/article/rishi-sunak-convince-world-worry-artificial-intelligence-ai/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 39
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/09/15/11605203.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Rishi Sunak says AI has threats and risks - but outlines its potential"
     excerpt: "Mr Sunak said among the risks outlined in the report was that AI could be used by terrorist groups \"to spread fear and disruption on an even greater scale\". Mitigating the risk of human extinction from AI should be a \"global priority\", he said."

@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/yahoo-finances-next-rivals-taking-192451983.ht
 webUrl: "https://www.aol.com/yahoo-finances-next-rivals-taking-192451983.html?ref=biztoc.com"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -20,6 +20,15 @@ topics:
   - AI in Finance
 
 related:
+  - title: "Primer Joins NVIDIA Inception Program for Cutting-Edge AI Startups"
+    excerpt: "Primer offers trusted AI solutions to the U.S. government, strategic allies, and large enterprises. Powered by its proprietary natural language processing (NLP) technology, Primer's solutions enable leaders, operators, and analysts to access and analyze ..."
+    publishedDateTime: 2023-10-26T11:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/primer-joins-nvidia-inception-program-for-cutting-edge-ai-startups-1032743089"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "AI chip startup Graphcore was meant to be a hot Nvidia rival. Industry insiders now think it's up for sale."
     excerpt: "While the fortunes of AI chip market leader Nvidia have soared, British rival Graphcore has laid off staff and shut offices."
     publishedDateTime: 2023-10-27T12:05:00Z

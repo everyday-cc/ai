@@ -26,43 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "We're buying more shares of this emerging AI company on shortsighted weakness"
-    excerpt: "Revenue gains from AI are coming, providing us confidence in management's ability to deliver on its fiscal 2026 financial goals."
-    publishedDateTime: 2023-10-23T13:47:00Z
-    webUrl: "https://www.cnbc.com/2023/10/23/were-buying-more-shares-of-this-emerging-ai-company-on-shortsighted-weakness.html"
+  - title: "Palletizing Robots Market Surging with a Robust 5.0% CAGR: Crossing the US$ 2.39 Million Mark by 2033 | Future Market Insights, Inc."
+    excerpt: "Palletizing robots are designed to automate stacking and organizing ... It is developed by adopting artificial intelligence. Nikhil Kaitwade (Associate Vice President at Future Market Insights, Inc.) has over a decade of experience in market research ..."
+    publishedDateTime: 2023-10-26T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/g35444803/palletizing-robots-market-surging-with-a-robust-5-0-cagr-crossing-the-us-2-39-million-mark-by-2033"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35444803"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35444803"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 64
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107315281-1697038510810-gettyimages-1719184818-AFP_33Y297J.jpeg?v=1698076071&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Music companies are suing this AI startup over their song lyrics"
-    excerpt: "Major record companies claim Anthropic’s chatbot spits out the same lyrics as their copyrighted songs. Legal experts say they have a good case."
-    publishedDateTime: 2023-10-27T02:10:00Z
-    webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/hamas-ai-chuck-d-film/anthropic"
-    type: article
-    provider:
-      name: KCRW
-      domain: kcrw.com
-    quality: 37
-    images:
-      - url: "https://www.kcrw.com/++theme++kcrw.theme/images/KCRW_Logo_White.png"
-        width: 542
-        height: 384
-        isCached: true
-  - title: "Adobe Shares a Sneak Peek of New AI Dubbing Feature"
-    excerpt: "Adobe has framed the feature as enabling “brands to be able to build trust with international audiences”, with Jin describing the auto-dubbing option as a means for content creators to get more views, by “getting content to people who do not speak the language of the video.”"
-    publishedDateTime: 2023-10-25T10:05:00Z
-    webUrl: "https://slator.com/adobe-shares-sneak-peek-new-ai-dubbing-feature/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
 
 secured: "0lLbmEMcKjZSCPo1P6yPz5iD2TjjayNegaVZlkmdktYb6GfOwqDe4Ep7i2mFWy4fY2byrjl+kCAm6raFSybA990avrnwE5GLBDdZU+Oeg0rAneFJ5NyuZq/9rbepQvBiG9r9Qpy32+9tmDd76yRQ07cJJNTVDgb1BGkm2SPjFDmYLFNIXoE/RdL4q8088+6H6MG0GQERckB23rVSq7kC285fAtzH1DBaUp1ZduKhhjlsC5LRbdI/M64y4lN0/Ou6N+PQp+Hct78T1B0SwBlCB5WBJNh7FpRr+VTzjvOzt5/GymudEXa64ZKio07KZ/Ixxd/ZA+fl+3npNEdiVWBoBzxNxQ7DEMuvmhVCF/c/drk=;68H2vTagUC2jywXCRrIY3g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/kate-darling-on-the-future-of-robot
 webUrl: "https://www.therobotreport.com/kate-darling-on-the-future-of-robotics-and-ai-ethics/"
 type: article
 quality: 116
-heat: 246
+heat: 236
 published: true
 
 provider:
@@ -85,22 +85,6 @@ related:
       name: dailybusinessgroup
       domain: dailybusinessgroup.co.uk
     quality: 69
-  - title: "Artificial intelligence predicts the future of artificial intelligence research"
-    excerpt: "It has become nearly impossible for human researchers to keep track of the overwhelming abundance of scientific publications in the field of artificial intelligence and to stay up-to-date with advances."
-    publishedDateTime: 2023-10-23T13:53:00Z
-    webUrl: "https://techxplore.com/news/2023-10-artificial-intelligence-future.html"
-    ampWebUrl: "https://techxplore.com/news/2023-10-artificial-intelligence-future.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-artificial-intelligence-future.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-77.jpg"
-        width: 1280
-        height: 731
-        isCached: true
   - title: "Robotics and artificial intelligence to transform O&M tasks in the energy sector"
     excerpt: "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news"
     publishedDateTime: 2023-10-25T13:17:00Z

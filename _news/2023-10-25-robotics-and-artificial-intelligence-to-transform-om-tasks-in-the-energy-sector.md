@@ -92,22 +92,6 @@ related:
       name: dailybusinessgroup
       domain: dailybusinessgroup.co.uk
     quality: 69
-  - title: "Artificial intelligence predicts the future of artificial intelligence research"
-    excerpt: "It has become nearly impossible for human researchers to keep track of the overwhelming abundance of scientific publications in the field of artificial intelligence and to stay up-to-date with advances."
-    publishedDateTime: 2023-10-23T13:53:00Z
-    webUrl: "https://techxplore.com/news/2023-10-artificial-intelligence-future.html"
-    ampWebUrl: "https://techxplore.com/news/2023-10-artificial-intelligence-future.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-artificial-intelligence-future.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-77.jpg"
-        width: 1280
-        height: 731
-        isCached: true
   - title: "Artificial Intelligence and the Role of Appellate Counsel"
     excerpt: "This perspective is based on a query the author gave to his Appellate Advocacy class concerning artificial intelligence and the role of appellate counsel, especially for indigent defendants."
     publishedDateTime: 2023-10-26T14:07:00Z

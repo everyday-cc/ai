@@ -2,6 +2,109 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2023-08-30-watch-out-grammarly-google-docs-gets-ai-proofreading.md",
+      "title": "Watch out, Grammarly — Google Docs gets AI proofreading",
+      "excerpt": "For the $30 monthly fee, enterprise users get advanced AI features in many Workspace apps, including Google Docs, Sheets, Slides, Gmail, Meet, and more. After a slow start, Google is moving quickly with its AI rollout. Google Duet with Proofread launched ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/google-docs-gets-ai-proofreading-via-duet/",
+      "originalUrl": "https://www.digitaltrends.com/computing/google-docs-gets-ai-proofreading-via-duet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/05/google-docs-smart-features-2.jpeg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/google-docs-gets-ai-proofreading-via-duet/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/google-docs-gets-ai-proofreading-via-duet/?amp",
+      "publishedDateTime": "2023-08-30T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-nvidia-l40s-a-datacenter-gpu-for-omniverse-and-graphics-that-can-also-accelerate-ai-training-inference.md",
+      "title": "NVIDIA L40S: A Datacenter GPU For Omniverse And Graphics That Can Also Accelerate AI Training & Inference",
+      "excerpt": "And it is. But the NVIDIA website makes it clear that this GPU is more than a high-end cloud gaming rig and Omniverse platform; it supports training and inference processing of Large Language Models for Generative AI. Given that the NVIDIA H100 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/08/30/nvidia-l40s-a-datacenter-gpu-for-omniverse-and-graphics-that-can-also-accelerate-ai-training--inference/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/08/30/nvidia-l40s-a-datacenter-gpu-for-omniverse-and-graphics-that-can-also-accelerate-ai-training--inference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e8e727cf65a0952b4af6bb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/08/30/nvidia-l40s-a-datacenter-gpu-for-omniverse-and-graphics-that-can-also-accelerate-ai-training--inference/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/08/30/nvidia-l40s-a-datacenter-gpu-for-omniverse-and-graphics-that-can-also-accelerate-ai-training--inference/amp/",
+      "publishedDateTime": "2023-08-30T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-unveiling-global-warmings-impact-on-daily-precipitation-with-deep-learning.md",
       "title": "Unveiling global warming's impact on daily precipitation with deep learning",
       "excerpt": "A collaborative international research team led by Professor Yoo-Geun Ham from Chonnam National University and Professor Seung-Ki Min from Pohang University of Science and Technology (POSTECH) has made a discovery on the impact of global warming on global daily precipitation.",
@@ -1078,92 +1181,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-baidu-leads-public-rollout-of-ai-chatbots-in-china.md",
-      "title": "Baidu Leads Public Rollout Of AI Chatbots In China",
-      "excerpt": "When asked about Taiwan, a self-ruling island that China claims as its territory ... it has also looked to grow its cloud computing business and develop autonomous driving technology. Baidu shares were up 3.2 percent in Hong Kong at around 0430 GMT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "originalUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP9640123735043191226260508873486149274090---1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "publishedDateTime": "2023-08-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-ibm-bids-farewell-to-watson-health-assets.md",
-      "title": "IBM Bids Farewell to Watson Health Assets",
-      "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/ibm-bids-farewell-watson-health-assets",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/ibm-bids-farewell-watson-health-assets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/IBM%20corporate%20headquarters%20sign.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/sponsor/cvent/startup-strategy-how-we-built
 webUrl: "https://techcrunch.com/sponsor/cvent/startup-strategy-how-we-built-a-webinar-using-chatgpt/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: TechCrunch
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Two friends built Dh600 AI start-up using ChatGPT, sell it for Dh550,000"
-    excerpt: "Two budding entrepreneurs and friends took help from ChatGPT and built a start-up with just a modest investment of $185 (Dh600), reported CNBC. The two mad.."
-    publishedDateTime: 2023-10-23T13:38:00Z
-    webUrl: "https://www.khaleejtimes.com/business/tech/two-friends-built-dh600-ai-start-up-using-chatgpt-sell-it-for-dh550000"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 16
 
 secured: "V/rHEhmoibgT87bcjsLVq2JSQHU7m/PHFK8oyKcm6i5N+cZ92ZOxmrB/50ad61mWWfBClhkLw6nuFc37azovTM84Wse/0pl4MCNZSV2Y9aylMGrQhNRbHvJamjg/fDkv66TQxzKmaLRge9IOBC9bYjvE/XZkLtJL5sfmb0UIPrFiy9LV01mJwKqMSQnb0isl9iEh9N3AntvAJYsfuoHXpghyDbIj4TIX/kTSkRM/IIJ9h+mul+4pFj3+oL20nwMugsEA7G6J/WqjArDXEhrhtwlgRD2kO4fO5vYv7UBsSZM1RWkMvZlW06X0WjJbgPvByxIBOwmNkYVsRgiC+4fImHVtIEx3FeYpBPKsqTZv1K8=;0093qpVljQXsROPugvGnCw=="
 ---

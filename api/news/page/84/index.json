@@ -2,6 +2,92 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2023-08-30-baidu-leads-public-rollout-of-ai-chatbots-in-china.md",
+      "title": "Baidu Leads Public Rollout Of AI Chatbots In China",
+      "excerpt": "When asked about Taiwan, a self-ruling island that China claims as its territory ... it has also looked to grow its cloud computing business and develop autonomous driving technology. Baidu shares were up 3.2 percent in Hong Kong at around 0430 GMT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
+      "originalUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP9640123735043191226260508873486149274090---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
+      "publishedDateTime": "2023-08-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-ibm-bids-farewell-to-watson-health-assets.md",
+      "title": "IBM Bids Farewell to Watson Health Assets",
+      "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/ibm-bids-farewell-watson-health-assets",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/ibm-bids-farewell-watson-health-assets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IBM%20corporate%20headquarters%20sign.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-knightscopes-k5-robot-stops-crime-before-it-happens.md",
       "title": "Knightscope's K5 Robot Stops Crime Before it Happens",
       "excerpt": "The K5 can monitor spaces such as parking lots and structures for suspicious activity and go where it predicts a crime is likely to happen. (Image source: Knightscope) It's not part man, it's all machine, but this robot can still be a cop. Robotics company ...",
@@ -1101,103 +1187,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-finance-transformation-with-ai-and-open-banking.md",
-      "title": "Finance Transformation With AI And Open Banking",
-      "excerpt": "Oracle Cloud is one good choice, but Amazon Web Services (AWS), Azure, Google Cloud Platform or a combination ... Guardrails And Governance: Applying STAGE And TOTAL Security To Machine Learning If you need to read more on the banking STAGE framework ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-better-artificial-intelligence-ai-stock-amazon-vs-nvidia.md",
-      "title": "Better Artificial Intelligence (AI) Stock: Amazon vs. Nvidia",
-      "excerpt": "Amazon is rapidly expanding its software and hardware offerings in AI. Nvidia has achieved a majority market share in AI chips. You’re reading a free article with opinions that may differ from The Motley Fool’s Premium Investing Services. Become a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/08/29/better-artificial-intelligence-ai-stock-amazon-vs/",
-      "originalUrl": "https://www.fool.com/investing/2023/08/29/better-artificial-intelligence-ai-stock-amazon-vs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/745445/group-of-three-with-laptop.jpg",
-          "width": 4000,
-          "height": 2250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
