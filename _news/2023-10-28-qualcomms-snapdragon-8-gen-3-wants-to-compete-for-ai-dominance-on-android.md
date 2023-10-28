@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-27T20:49:00Z
 originalUrl: "https://gizmodo.com/qualcomm-s-snapdragon-8-gen-3-wants-to-compete-for-ai-d-1850968148"
 webUrl: "https://gizmodo.com/qualcomm-s-snapdragon-8-gen-3-wants-to-compete-for-ai-d-1850968148"
 type: article
-quality: 65
+quality: 67
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/293bf65844f7eac55034b4a26f4d93d1.jpg"

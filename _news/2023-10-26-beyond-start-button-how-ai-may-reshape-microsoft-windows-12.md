@@ -203,20 +203,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Here's what we hope to see from AI powerhouse Microsoft's quarterly earnings this week"
-    excerpt: "When the software giant reports on Tuesday, investors will be looking to see whether its big bet on artificial intelligence is paying off."
-    publishedDateTime: 2023-10-23T08:01:00Z
-    webUrl: "https://www.cnbc.com/2023/10/23/what-we-are-looking-for-in-microsoft-quarterly-earnings-this-week.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 76
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107303118-1695140793195-gettyimages-1676978506-Omarques_19092023_TECHKRK_5_of_14.jpeg?v=1698055261&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "As Databricks touts demand for AI services, all eyes are on Microsoft and Alphabet’s Q3 results"
     excerpt: "We can't wait to find out if these companies will report a material improvement from their investments in AI-related computing tasks and products."
     publishedDateTime: 2023-10-24T15:34:00Z

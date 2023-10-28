@@ -43,20 +43,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "IBM's Brain-Like Chip Reshapes The AI Industry"
-    excerpt: "IBM's new NorthPole chip has gained attention for its ultra-fast AI image recognition capabilities. HONG KONG, CHINA, October 23, 2"
-    publishedDateTime: 2023-10-23T08:54:00Z
-    webUrl: "https://menafn.com/1107285709/IBMs-Brain-Like-Chip-Reshapes-The-AI-Industry"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?899983"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "Kici2sXx5BpvPRBE3tIm5OJxOQ7sEWbADqWhDy/efeSo52g2TuXjnikJGP6w7i/cZWhNjQicCmvQv6pss18JYqjzCDUNbIdGCKMddWbkFkO3bzB4+PWha7dlZcuKjeCBB5Htzd/+uwxXRZZAwtysgo2HazRvZBgk+ioD7w+AHvlurP6b8joHNwyWU6/LkJU3jRX1bIVylE2lhHMCbSU0J1p/lzwn8i/QQF4P3ErfDYa/07t4JPZFmCEdGkqS2XQBPpOT3Xikdcl2/n7X2dWozScie9X4HQdEVuI0DV5jcnSH+VXqJjEbbl6qsA7Ldz/kS64/cXz29/oxzOiYLuRAUMU+oZLhATs/tp3QgKmSAqa+tS4h/dSTmdGs/9mRICmB9gVCsP9gEqSelXoy1lGPZTS1tsMfaKblOhyJoPNExbdmufOFvjfsT0q40dpNjyWkenLPqUCTRYLKNZV8EBV2IYDa3pUiNQQEpeM4iurDTPeJMJlv6OBgBWpMtZH8oAXhDOaHfp5YiengpZKO+LYIqw==;9zjA6Y2QQj/K+9Rq9uMZSA=="
 ---

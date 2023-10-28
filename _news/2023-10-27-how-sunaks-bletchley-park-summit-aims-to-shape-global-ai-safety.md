@@ -2,9 +2,9 @@
 category: news
 title: "How Sunak’s Bletchley Park summit aims to shape global AI safety"
 excerpt: "Emphasising the high stakes ahead of next week’s summit at Bletchley Park, Sunak warned in a speech on Thursday that “humanity could lose control of AI completely” if the technology was not given proper oversight, even as it created new opportunities."
-publishedDateTime: 2023-10-27T15:16:00Z
-originalUrl: "https://www.ft.com/content/e0574e79-d723-4d94-9681-fae22648e3ad?shareType=nongift"
-webUrl: "https://www.ft.com/content/e0574e79-d723-4d94-9681-fae22648e3ad?shareType=nongift"
+publishedDateTime: 2023-10-27T04:00:00Z
+originalUrl: "https://www.ft.com/content/e0574e79-d723-4d94-9681-fae22648e3ad"
+webUrl: "https://www.ft.com/content/e0574e79-d723-4d94-9681-fae22648e3ad"
 type: article
 quality: 17
 heat: -1
@@ -35,6 +35,6 @@ related:
         height: 576
         isCached: true
 
-secured: "FfPLYpCdKunwRMlrc5Y1v29p9qo6yzOyIWX4JRx7qNih6pCcQoT0ED1nbYmCQgAgz8JLeP3tqHpxwEMKpA8YTFZLHz7fxsk5rptRmFzuU2ZLzPNSVHxkf+b2/DOBgDO1KiX1mxHp00purhLMqnWkndWNI0+reRgNa25JPfDWhfx6eeuXNAAal7lXCEgly0IVyJRduvDaYngfXaoc8SyLLJIh5KCQB9YqBXQlAU22xaWSyKErWqactLggwSxlFvDozh8Eu/b2cRvjmcO333LxNMXyWrst2eMG3FCZ72dooCAHJ6BH+lVBeeLSeTlz6pnufu9HIkInZ8wiAsD4qjLLC2n51DcSZCfJwdwtCB2z0sZA8X3AG9fO1Yz14wMd6sTfCHIcrZf3/Cj5NwBCYf/5iPlsV2Q6F0rtR8U7innEVm9MT42+O+zrf3Lyg6O0hztYWulY2OhLz2zDrwigP3b5U3oeSUUYC3AyEA38j/8IFcEtwR5C1v03gLpxZo2AbaCYdgaL0UmeguPRj3luAmig2Q==;7zu7PXD1Yd2sHr2hXxKyzQ=="
+secured: "U8hXl6Wd4pkXr6sz5AXd7Dm/2eV1G5KelhrwhaV0inu3uoJ/NXxRrfgQI75dyO9JJluO3t/CU9WYCgCQGaydCWwROYYTIl/0MgsOkIDDfsdf6KrkdyEzKICl8H0YumV9n7mVAwFJwg/CBB/+K2/oaikLtssEFOACTxCIrVNjTOKlqsomFGfauVJeDwsKN/rOVulYLw/NHA0x3Clmcjv6qRbjiZVFaH27rnN2Njv1hslAFkevEw3xTmntI2xswDBEEVbrya1TsukS2j7nulayzogzOTEnWKqR9LqziORK60hm5t2/5B1y/I0mVt+wksGh7/2+hInh+ANwzGInSehLnnIRzUsLpANUarpTuPBnOlk+bhKkA/jXlJ3MUUAY+nKovd5vR74lBsq0e1L832OrGGdXvx3YU2Rk4TUtZNXJgXf0YI4TIRC6wN9oKyz9hCHmI81tHr37XGONtKMXnyHvrX5uaMMD2m/qOeV9OlTdZnz8mcWb6p3/zcEvzEcAWTJszK074n1EN1jXW4EH2ME3PA==;ef3qxbjtD1OsVr9Y+O4XOw=="
 ---
 

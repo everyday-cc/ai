@@ -25,6 +25,29 @@ images:
     isCached: true
 
 related:
+  - title: "Navigating the AI Revolution: Education and Ethics Take Center Stage"
+    excerpt: "David Reed from University of Florida’s Artificial Intelligence Academic Initiative Center, and Andrew Pass from A Pass Educational Group, dissect the implications of education’s most disruptive techn"
+    publishedDateTime: 2023-10-26T18:14:00Z
+    webUrl: "https://www.ecampusnews.com/innovation-insights/2023/10/26/florida-higher-ed-ai/"
+    type: article
+    provider:
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 51
+  - title: "The Role of Artificial Intelligence in a BS in Computer Software Technology Education"
+    excerpt: "Education has become the cornerstone of innovation. As the demand for skilled professionals in computer software technology continues to rise, educational institutions are adapting their curricula to meet the industry’s changing needs."
+    publishedDateTime: 2023-10-24T09:56:00Z
+    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-a-bs-in-computer-software-technology-education/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 49
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/The-Role-of-Artificial-Intelligence-in-a-BS-in-Computer-Software-Technology-Education.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "The AI Revolution: Surgeons Share Insights on Integrating AI into Surgical Care"
     excerpt: "Unprecedented AI integration is changing the landscape of surgery, drawing on data-driven insights to enhance patient outcomesBOSTON, Oct. 27,"
     publishedDateTime: 2023-10-27T17:02:00Z
@@ -34,26 +57,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
-  - title: "Revolutionizing India's Financial Sector: Alok Bansal CEO of Visionet BPS on the Power of AI and ML"
-    excerpt: "The surge in the incorporation of Artificial Intelligence (AI) and Machine Learning (ML) across various economic domains can be attributed to several factors, notably the increasing abundance of digital data and enhanced computational capabilities."
-    publishedDateTime: 2023-10-27T09:00:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/revolutionizing-india-s-financial-sector-alok-bansal-ceo-of-visionet-bps-on-the-power-of-ai-and-ml-123102700492_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/content/press-releases-ani/revolutionizing-india-s-financial-sector-alok-bansal-ceo-of-visionet-bps-on-the-power-of-ai-and-ml-123102700492_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/content/press-releases-ani/revolutionizing-india-s-financial-sector-alok-bansal-ceo-of-visionet-bps-on-the-power-of-ai-and-ml-123102700492_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 42
-  - title: "Revolutionizing India's Financial Sector: Alok Bansal CEO of Visionet BPS on the Power of AI and ML"
-    excerpt: "Aligned with the expansion of AI and ML, major global banks are actively integrating these into their existing business ecosystem. According to data from the intelligence startup Evident, J P Morgan Chase stands number one in incorporating and advancing AI and machine learning,"
-    publishedDateTime: 2023-10-27T20:47:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20231027/4133406.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 22
   - title: "Enterprise software developers prepare for generative AI’s ‘productivity revolution’"
     excerpt: "By all accounts, the impact of generative AI on software development will be profound. A recently published survey by GBH Insights LLC, which does business as GBK Collective, found that 78% of companies expect to use AI for software development within the next three to five years."
     publishedDateTime: 2023-10-23T18:59:00Z

@@ -1,33 +1,27 @@
 ---
 category: news
 title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
-excerpt: "Watsonx Code Assistant for Red Hat Ansible Lightspeed and watsonx Code Assistant for Z are now availableARMONK, N.Y., Oct. 26, 2023 /PRNewswire/"
-publishedDateTime: 2023-10-26T04:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise-application-modernization-1032741098"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise-application-modernization-1032741098"
+excerpt: "Watsonx Code Assistant for Red Hat Ansible Lightspeed and watsonx Code Assistant for Z are now available ARMONK, N.Y., Oct. 26, 2023 /PRNewswire/ -- Today IBM (NYSE: IBM) launched watsonx Code Assistant,"
+publishedDateTime: 2023-10-26T04:12:00Z
+originalUrl: "https://www.asiaone.com/business/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation"
+webUrl: "https://www.asiaone.com/business/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation"
 type: article
-quality: 52
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Asia One
+  domain: asiaone.com
 
 topics:
-  - Natural Language Processing
-  - AI
-  - Facebook AI
   - IBM AI
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2258171/ansible_multitask__2.jpg"
-    width: 400
-    height: 225
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2023/ansible_multitask__2.jpg?h=c66d06c9&itok=FhmyrN6f"
+    width: 600
+    height: 316
     isCached: true
 
 related:
@@ -201,6 +195,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The new AI imperative: Unlock repeatable value for your organization with LLMOps  "
+    excerpt: "The series will examine what makes Generative AI so unique and how it can meet current business challenges, as well as how it drives new forms of collaboration between teams working to build the next generation of apps and services. The series will also ground organizations in responsible AI approaches"
+    publishedDateTime: 2023-10-26T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/the-new-ai-imperative-unlock-repeatable-value-for-your-organization-with-llmops/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
   - title: "As developers learn the ins and outs of generative AI, non-developers will follow"
     excerpt: "AI-driven productivity tools 'are remaking software development in radical ways. But that value doesn't come for free.'"
     publishedDateTime: 2023-10-25T17:43:00Z
@@ -457,6 +460,6 @@ related:
       domain: stockhouse.com
     quality: 17
 
-secured: "xov6WcF1FnZrOkg3oVWBN1SPbKAFgRM1btywYvpiSN/Hry/AUEGLUXV5BHyK81ZT0pi6ylOivgrxZH4grl29ZZmBlC7romILZL+DJdEv/UFS3T4VB7yPoPwsDBq868Ty2fgPIRsFIWXtZZUkyHDQRQ3HFeygXRlM943eQ5pHcc73Akw+MWU4jVjSQP1nShN1QDIMtvKgiAPNs1vp2dIa/axU5wU9AYIyvpKOL6Ro6uxkD2xJh0s5QQxAlHJFDOZ7/JI93yr0r0jzcr2vrkEeT1r22CUrAJeBHZoG7Fr+ArMjoePVJTd917d0eNdqj74A/rCnKYR+3mfibaPNUPDphldVAsYgjAPEmpjLg/w1vQQMHk1FTIO3cUP1Vc56g+R2NNgw8WFHcWJ7yaHO8mFx8SwqB1aL3tBWlWUoZdlBB9LSTz7vepNm487ZVnIY4v7koAk5SjVuIIlkShA27pdoW2tN+86I1OHSJrjcbRYlP+eKRgpCjb1EysKFNv593OiYbc5vvYD8Q7h3RSETLOVD4g==;Tq4gq5E/IWIqQ7jgx7dgTg=="
+secured: "+Oi/mbytxbdAszHkrWiLfuBE+AwjuJnyMLVAPZd0kiBqCcuK+e1ZOgcpKM8fQO7o0UcEO1WIQqc+dRYXcWlDXc2pQI/te7Vv87kG9dMeSvpp5UhXpSmFfWYOxC6Htc178JrOEueBH1DIxiTGy0JWULQ95ice+Pj9fxinmZRItHBv1mO0Zr7cshhCmVHWsICgDyV7lFhb85F0Lbn+8ZxG0cG+vrBAdyA/3ipOENcYO0LHsw//UqRJnvkBAFVKaoQ6zm+sB80RQ8vLpwLwsXxZ2uWR1C9gjwtGHgwcHCIlGpd4VUqwijm9HJHUJP8vWrS3gLAAf14YV34dFtN2PSCcDRu1x2JaJnB/23kn30qqYX8=;KJM7rQz450YZxCysyJNAQg=="
 ---
 

@@ -36,6 +36,22 @@ related:
         height: 534
         isCached: true
   - title: "Tesla Faces Automated Driving Rival in Geely and Baidu EV"
+    excerpt: "Competition is intensifying in China's automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc."
+    publishedDateTime: 2023-10-28T01:00:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/10/28/1600x900/tesla_ap_1698454433725_1698454450395.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Tesla Faces Automated Driving Rival in Geely and Baidu EV"
     excerpt: "Competition is intensifying in China’s automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc."
     publishedDateTime: 2023-10-27T15:38:00Z
     webUrl: "https://www.bnnbloomberg.ca/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-1.1990420"

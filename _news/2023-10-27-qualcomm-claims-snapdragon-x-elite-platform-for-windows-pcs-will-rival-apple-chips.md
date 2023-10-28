@@ -79,7 +79,7 @@ related:
     provider:
       name: Gizmodo
       domain: gizmodo.com
-    quality: 65
+    quality: 67
     images:
       - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/293bf65844f7eac55034b4a26f4d93d1.jpg"
         width: 1200

@@ -206,20 +206,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Here's what we hope to see from AI powerhouse Microsoft's quarterly earnings this week"
-    excerpt: "When the software giant reports on Tuesday, investors will be looking to see whether its big bet on artificial intelligence is paying off."
-    publishedDateTime: 2023-10-23T08:01:00Z
-    webUrl: "https://www.cnbc.com/2023/10/23/what-we-are-looking-for-in-microsoft-quarterly-earnings-this-week.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 76
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107303118-1695140793195-gettyimages-1676978506-Omarques_19092023_TECHKRK_5_of_14.jpeg?v=1698055261&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Beyond Start Button! How AI may reshape Microsoft Windows 12"
     excerpt: "In a tech landscape where AI-powered capabilities are becoming increasingly vital, Microsoft aims to position itself at the forefront of the AI revolution. This starts with the seamless integration of advanced software support into its flagship product."
     publishedDateTime: 2023-10-26T05:49:00Z

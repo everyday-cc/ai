@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/norfolk-southern-l
 webUrl: "https://markets.businessinsider.com/news/stocks/norfolk-southern-launches-ai-train-inspection-technology-1032743505"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,31 +21,6 @@ provider:
 topics:
   - Facebook AI
   - AI
-
-related:
-  - title: "The Role of Artificial Intelligence in a BS in Computer Software Technology Education"
-    excerpt: "Education has become the cornerstone of innovation. As the demand for skilled professionals in computer software technology continues to rise, educational institutions are adapting their curricula to meet the industry’s changing needs."
-    publishedDateTime: 2023-10-24T09:56:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-a-bs-in-computer-software-technology-education/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 49
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/The-Role-of-Artificial-Intelligence-in-a-BS-in-Computer-Software-Technology-Education.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Denver-area tech unicorn Guild just made a big investment in AI education"
-    excerpt: "The AI skilling bundle includes more than 40 programs tackling how AI works and how to use it. Some programs address topics like technological ethics and how leaders can use AI. Others will teach technical programming so that a worker can build AI tools ..."
-    publishedDateTime: 2023-10-26T21:10:00Z
-    webUrl: "https://www.bizjournals.com/denver/news/2023/10/26/guild-ai-education-upskilling-workforce.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 35
 
 secured: "MiwftCxOAUxSy8I9lRfS5fVdOASYL/LUW4D4Ure8UsOOPWnILMd9hY7Dz5NZO0WQsFbnO9k73c3O282qcBCgwt8KLuGT2Uqnvui2CHGndUIP0V3k0eyp3i4WNab7Vo4tw9cHcK1BCwdW2ziBch/RL5L5UdvAwmiqi8eartv/+BPsnlwhJcLon73GYD2+xf8iI4/+gs5QWwGl9lLt+81yn4dd9pcIqFHdTJ4c9nsBqJ0Gv1AIrarqYxTt4RRzzNr0JbVlHMo0YdLVRH4UjyoR/WFw1oaOTgb4nlW5MjOHqf8UArDm8dqLLgr0SX7ao3KR0HH9PzEXOzExU9WQzBwb/M5Cu3/nB9e/tf5JOeZE6PE=;iCD+7uhOcUrbWDFk4EJ6kA=="
 ---

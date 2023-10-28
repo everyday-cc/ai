@@ -28,8 +28,8 @@ images:
 related:
   - title: "How Sunak’s Bletchley Park summit aims to shape global AI safety"
     excerpt: "Emphasising the high stakes ahead of next week’s summit at Bletchley Park, Sunak warned in a speech on Thursday that “humanity could lose control of AI completely” if the technology was not given proper oversight, even as it created new opportunities."
-    publishedDateTime: 2023-10-27T15:16:00Z
-    webUrl: "https://www.ft.com/content/e0574e79-d723-4d94-9681-fae22648e3ad?shareType=nongift"
+    publishedDateTime: 2023-10-27T04:00:00Z
+    webUrl: "https://www.ft.com/content/e0574e79-d723-4d94-9681-fae22648e3ad"
     type: article
     provider:
       name: The Financial Times

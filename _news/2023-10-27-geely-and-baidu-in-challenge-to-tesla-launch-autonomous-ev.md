@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Baidu and Geely’s Collaborative Electric SUV, JiYue 01 has an Impressive 720 km Range"
+    excerpt: "Geely owns 65% of Jiyue Automotive, focused on car assembly, while Baidu holds the remaining 35% of the company"
+    publishedDateTime: 2023-10-28T00:43:00Z
+    webUrl: "https://www.gizmochina.com/2023/10/28/baidu-geely-new-electric-car-launch/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 42
   - title: "Baidu and Geely's Self-Driving EV Delivery Begins"
     excerpt: "Baidu and Geely's joint venture has started delivering a self-driving electric vehicle (EV) to compete with Tesla's Model Y in China's market. The JiYue 01 SUV, priced from 249,000 yuan to 339,900 yuan,"
     publishedDateTime: 2023-10-27T23:28:00Z

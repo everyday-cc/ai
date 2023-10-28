@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/video-surveillance/article/53076
 webUrl: "https://www.securityinfowatch.com/video-surveillance/article/53076147/demystifying-artificial-intelligence-in-video-security"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
       name: Techopedia
       domain: techopedia.com
     quality: 34
-  - title: "Basis Secures $3.6 Million to Bring AI to Accounting Firms"
-    excerpt: "Basis is an AI platform for accounting firms. Basis sits alongside existing software and gives accountants a team of AI assistants to streamline workflows, helping firms improve the quality and efficiency of their work. The company was founded in 2023 by Mitchell Troyanovsky and Matthew Harpe."
-    publishedDateTime: 2023-10-23T21:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/23/9903664.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "AsHPkylimhrJu7CtdzoJ04C84cUou3FknQ0JzT78voiRByDmEYOrYbTBQaNESw1CC9YNm2ymiAbiAPiJrltkGzj2Fq9SSr9INFwHK0dnHL52ZPEjMEdynUn4DQWJhwmckdDgyboyBd92h0txffUGh+4RQgTCIsZ6vJ8JEP/sHwF2cR5BuwyKMbgiUV/ItKT+mNGUxWXwjYnH6Ms2XuWg4LN8LRhr1DiEW1/RZl0i/RvpB1mfOahSSwZWqvC5KBFYetY3hUuggsb5VUL2CO2qRyTpovmwW8JxUfwlq86t7jNnpbIqP3UxJDCVsM8iOt/qn9JhkI+w3ZPz0DnjA3SsEvHB8Ers0kekE5W4UhoJR2KxWg2oyFgjcUkCYMD/hPrtHzEb2XPYjn5tSpJssYpjPDL+pfhgiCfWDVvpvU3peqdkmhlKYRLTAfaMh+s6O0jzhXrlhqOXL8jHTzPTM876s/cd1uP+ZS3djtgAFIn5NuFRo+mzhJWlY0zT7CVMllbeTSQnExT3J9YG73lym7Jrag==;wKHaIk41u7/mz+x48yf5Tg=="
 ---

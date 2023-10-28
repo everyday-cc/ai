@@ -1,31 +1,26 @@
 ---
 category: news
 title: "Gannett denies that its marketing partner used artificial intelligence for its shopping website"
-excerpt: "The media company Gannett denied that it published material created by artificial intelligence on a shopping website that it owns"
-publishedDateTime: 2023-10-26T23:09:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/gannett-denies-marketing-partner-artificial-intelligence-shopping-website-104393509"
-webUrl: "https://abcnews.go.com/Business/wireStory/gannett-denies-marketing-partner-artificial-intelligence-shopping-website-104393509"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/gannett-denies-marketing-partner-artificial-intelligence-shopping-website-104393509"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/gannett-denies-marketing-partner-artificial-intelligence-shopping-website-104393509"
+excerpt: "The media company Gannett denied that it published material created by artificial intelligence on a shopping website that it owns."
+publishedDateTime: 2023-10-27T02:02:00Z
+originalUrl: "https://www.newsday.com/business/gannett-denies-that-its-marketing-partner-used-artificial-intelligence-for-its-shopping-website-m5xwk6bz"
+webUrl: "https://www.newsday.com/business/gannett-denies-that-its-marketing-partner-used-artificial-intelligence-for-its-shopping-website-m5xwk6bz"
+ampWebUrl: "https://www.newsday.com/amp/business/gannett-denies-that-its-marketing-partner-used-artificial-intelligence-for-its-shopping-website-m5xwk6bz"
+cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/gannett-denies-that-its-marketing-partner-used-artificial-intelligence-for-its-shopping-website-m5xwk6bz"
 type: article
-quality: 62
-heat: 62
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Newsday
+  domain: newsday.com
 
 topics:
+  - AI in Robotics
   - AI
   - AI in Marketing
 
-images:
-  - url: "https://s.abcnews.com/images/Business/wirestory_4fe6da583217293f8fa2bd5d0b74d285_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
-secured: "FODIfu/44GOUI3sEmvSJ79L5g1PM9qVnMa3w3ROCpDWQH5kfsF+VFjiQ2Q9cYJrcTW1GqM8aT042mqHW4IwWu11Bdw85pRSNkTbFVJG2my4RVIS1WON6yEAtKj1D0d4G1ZQppHeEK0Ufa6lYDgX63Vdq4gEq9EwcNypEIuk7ac3FQ+8n5FMOomTlsCBFOVNb8/yKec/80EeDhjHkNlW4HqBp2aVsM7Q6Yx0O04mb7A/Krz8J3TYynUlo+kIKH9gy2In5GcpcGkiZM6RvjeirlDal3Z7H1dVg342mhQkboXRWsmSnHsSZcRUd2ImHS7tNUcwI0gKsJmP+TJ581eYh6G8n7P1KqfIVc7lBLYlXEm6ua+mYad5MTrHWEaOv0OzvvR0JmjqOQ3HIVdFAoj77/424GKXXG8lv5o/UaD8IW1aFo3gpap46ZkpGQH+3I8DC5b8HsKPf9QLtSyUZCox8eV71DKrvGMGB2MlZSJaGTpR1QTe6mjA3OtyN/5mDfCNwte3oK8jfCw1R+gmN/IIwlA==;vwqrMg9PV3gUVCCL3h5DSg=="
+secured: "a7+Rd68Z2qHk6a5DW9WzmJ4Q83lVD5S1P9YYl/vk9etQ+JbWTd2vm3FuTnl/V8yaVyhN6JOt4rvPASiegAOn1o4bI4Galyr+4Mqc8ks6Vg4fZffR5yGBpUib/D5WXDiTwUtTSSW7yab5yn/MwtsOCkkVt+En/21ld4xk2D6cRglu37S22a5g4EFuAUZt8mM0eM+KV86Hbd8LGXArwnXh11mtHMiCKiP6Xch/+WqKTjiirGbqOxVr9aVxIDOM24wW4Ui89SA/2Ll5iQ4eTUV9takPA4hHU2Z48NrmaO1uBghOTDhzj2zKvW4aEzOEDTID8XK6ElnHiRwErMZ54cI2ZvqUZzDjnfbhLO2oDBsVErTl9NNihNMlhIWXO43UUVsBBy/fDAQ2+/pwYLMYAhlWtgBG+D0uplSg4ZpxDepjJ0yBE8sqg1OgPpHPMhhNd5+Q+u9S/CXqDIveYZ6O7hmC+WLBsNGyn53UKhc7lmySXWG67xQ+KqZ4H5jkaiMHz/OxKaQr2z9UHnQ+WpSy6RlDxQ==;OnUC5esNphxZoCP3E8MlkQ=="
 ---
 

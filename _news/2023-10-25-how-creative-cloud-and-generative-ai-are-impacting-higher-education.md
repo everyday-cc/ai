@@ -190,6 +190,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The new AI imperative: Unlock repeatable value for your organization with LLMOps  "
+    excerpt: "The series will examine what makes Generative AI so unique and how it can meet current business challenges, as well as how it drives new forms of collaboration between teams working to build the next generation of apps and services. The series will also ground organizations in responsible AI approaches"
+    publishedDateTime: 2023-10-26T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/the-new-ai-imperative-unlock-repeatable-value-for-your-organization-with-llmops/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
   - title: "As developers learn the ins and outs of generative AI, non-developers will follow"
     excerpt: "AI-driven productivity tools 'are remaking software development in radical ways. But that value doesn't come for free.'"
     publishedDateTime: 2023-10-25T17:43:00Z
@@ -242,20 +251,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
-    excerpt: "Watsonx Code Assistant for Red Hat Ansible Lightspeed and watsonx Code Assistant for Z are now availableARMONK, N.Y., Oct. 26, 2023 /PRNewswire/"
-    publishedDateTime: 2023-10-26T04:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise-application-modernization-1032741098"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/2258171/ansible_multitask__2.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "Generative AI Poised to Revolutionize Healthcare Delivery & Life Sciences Research"
     excerpt: "Generative AI may transform healthcare delivery and life sciences productivity by improving patient outcomes and increasing clinical/medical research efficiency"
@@ -441,6 +436,20 @@ related:
       name: Inc
       domain: inc.com
     quality: 19
+  - title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
+    excerpt: "Watsonx Code Assistant for Red Hat Ansible Lightspeed and watsonx Code Assistant for Z are now available ARMONK, N.Y., Oct. 26, 2023 /PRNewswire/ -- Today IBM (NYSE: IBM) launched watsonx Code Assistant,"
+    publishedDateTime: 2023-10-26T04:12:00Z
+    webUrl: "https://www.asiaone.com/business/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 18
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2023/ansible_multitask__2.jpg?h=c66d06c9&itok=FhmyrN6f"
+        width: 600
+        height: 316
+        isCached: true
   - title: "Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
     excerpt: "NDAQ:SPNS) Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
     publishedDateTime: 2023-10-25T12:28:00Z

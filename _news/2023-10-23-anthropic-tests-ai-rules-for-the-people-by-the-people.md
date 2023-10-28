@@ -32,6 +32,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google bets US$2 billion on AI startup Anthropic, inks cloud deal"
+    excerpt: "GOOGLE has committed to invest US$2 billion in the artificial intelligence (AI) company Anthropic, solidifying its relationship with the startup darling and stoking the Silicon Valley frenzy for AI. Read more at The Business Times."
+    publishedDateTime: 2023-10-28T01:16:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/google-bets-us2-billion-ai-startup-anthropic-inks-cloud-deal"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 17
 
 secured: "AB8ezvO8XR61qMEzbulm//8ycjhzCCarssGKCV7+/WT6nTHm2iLX1qRzmtnkJ4AzMjp6MXM5UBrGz6bg85z1FU0ZWf9HmLS6PTlQ1EoKsztJt9NTvIwpanH0HW1R5FstCM49azju6hcL0q8nbi2VdU8+ZgJCXebgEhcqf1Vn//ZCCmESDnWfCfYbDm9bTJKMuqhefrpF4OjL1bO+xpB/k0rEftwmgwyHje8qZB+LQtq463SZ11Ds0J595DOkX4dIwfIrRAUedX9y3jlYRDO4xcEeeb1juKoPDHzyk+OJhtgJ8znR+mewZsmbgDoUBTEm7h7NPSv6BuzidWBzke3Rk650Q6QyYTAeori5Q9n95Fzv3tyIXUKkcwHYJA0b0udc5pWrnfwA8m7R57XJOEhx9e+3t+MDqJpd/EjwAdxq6kw0/2LQWknqrSBT7XrpVlO8AoWg9RNv+NKFkT942dE9p35cZcf6zcXux+Om5OGfMxymUKXoJVcU5fXcHIKwM9n8N+0GHxVh2eZU+PiaPz024Q==;wxCXYJQ+HKoo3Bwd+/jdiw=="
 ---

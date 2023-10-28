@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Few APAC firms will benefit from AI due to doubt and data management"
+    excerpt: "Just a third of organizations in Asia-Pacific will be able to benefit from AI, with the rest held back by some key issues, predicts research firm Forrester."
+    publishedDateTime: 2023-10-27T17:00:00Z
+    webUrl: "https://www.zdnet.com/article/few-apac-firms-will-benefit-from-ai-due-to-doubt-and-data-management/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/20fd55532e0932e653a02eb5f760aaa32755b3f6/2023/10/26/94f21486-b237-4444-a097-46414d3f26d7/gettyimages-1304033196.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Prompts are key in 2023: Twenty-five tips to help you unlock the potential of generative AI"
     excerpt: "The goal is to use generative AI as a tool in your broader decision-making and brainstorming process. Combining AI's suggestions with your expertise and knowledge of your business and market will yield the best results. By integrating these AI insights, we're not merely keeping up with the times; we're"
     publishedDateTime: 2023-10-23T15:00:00Z

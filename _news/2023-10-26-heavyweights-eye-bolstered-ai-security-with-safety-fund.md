@@ -49,15 +49,6 @@ related:
       name: Techopedia
       domain: techopedia.com
     quality: 34
-  - title: "Basis Secures $3.6 Million to Bring AI to Accounting Firms"
-    excerpt: "Basis is an AI platform for accounting firms. Basis sits alongside existing software and gives accountants a team of AI assistants to streamline workflows, helping firms improve the quality and efficiency of their work. The company was founded in 2023 by Mitchell Troyanovsky and Matthew Harpe."
-    publishedDateTime: 2023-10-23T21:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/23/9903664.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "Wp3ifCvCVgfpLl2UWsA8Qv3eeQE2zLyS40jXxF9NsdyH+zubdhYAjDXyu4dmx34rl53u2fECaEBr0wWNnvLUguEAgnbdv6sJ4aB4O95SoRRo04+O5qnveVJXQLrb3D0zMoiMdvW4PQZrhb+vzexdnpRIL4T+VygM1gymvuy5Ud+Zh6efym/d4HJuouFIDSs9pNwlLa216sIS95gWt77bXQH03obaDB1vQewS79QHrXHvcn2+K0+xjCFHXnOla1LEl+lnrXEut4Ki80lVDfKsnOLXKqC1OppsZ2v0O4diuHCo/OgbQx8JIP+/t52YBTxHVQFWnwaD9hAWWvSYi5AT7cwsFrbrMnDBww4QHZpbpyk=;GfWMmVVzDKsjTH7TGOwo6A=="
 ---

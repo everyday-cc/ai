@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/google-antrhopic-idUSL4N3BX52Q"
 webUrl: "https://www.reuters.com/article/google-antrhopic-idUSL4N3BX52Q"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
     provider:
       name: Axios
       domain: axios.com
+    quality: 17
+  - title: "Google bets US$2 billion on AI startup Anthropic, inks cloud deal"
+    excerpt: "GOOGLE has committed to invest US$2 billion in the artificial intelligence (AI) company Anthropic, solidifying its relationship with the startup darling and stoking the Silicon Valley frenzy for AI. Read more at The Business Times."
+    publishedDateTime: 2023-10-28T01:16:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/google-bets-us2-billion-ai-startup-anthropic-inks-cloud-deal"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
     quality: 17
 
 secured: "NyKdr0DB1BZs4+sNG6pgsVFGUZgPag4pD4sLbV+nV20OIjW/XfdnhimMY9BNx/xh34/ojJ7pS12JBX8957/Twc6nc0NWEoFDvUldBJSaWrmcirgDpDJrUm9GtMIG3LtC202dzJIXRV/oUDmXOZam79DvBRuHaetQarlhx9x4/dagUCcy5B2V4yYp/6XkTKyXGo4l0bBqORGLIP+8PNQc9fwGnko5Ap3XbosuZrD+4kIfx1sSI7KzeIYcbvwM3TycZrktXZwIRGW9utwE0vQ5LTLoV5okdUs3NiKkljLDdK5A4SfYPQ6I4vQ7YMuRGzBiCzyEAkc1XsHijNU4tshQy6Ya4M3gy/11afXkq6iIPxM=;KKzYwXLZUAbTt1SVqZ553A=="

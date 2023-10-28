@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "What AI won’t replace in your programming"
-    excerpt: "Generative AI is great at handling tedium and finding errors, but the expertise and intuition of programmers will always be essential."
-    publishedDateTime: 2023-10-23T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.html"
-    ampWebUrl: "https://www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.amp.html"
+  - title: "Aprimo Adds AI to Its DAM Product Portfolio"
+    excerpt: "Real-time language translation and localization. Advanced security measures to safeguard sensitive content and ensure compliance with data protection regulations. \"Generative AI is driving foundational changes for content operations. Aprimo is committed to ..."
+    publishedDateTime: 2023-10-25T14:44:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Aprimo-Adds-AI-to-Its-DAM-Product-Portfolio-161159.aspx"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 39
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/06/18/worried-concerned-programmer-developer-coder-100946865-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/157834-0923_WF_NICE_480x610-ORG.png"
+        width: 480
+        height: 610
         isCached: true
 
 secured: "dMQeaoUdaPo7g8I7ffMUpIlBHiyhtGyaZI3PWc6dj7C1EqxamuZNlTHJ45LuhyA0DDVmDTfzNlWv6WzAkDZp+n1E1AIvrZaPc8MjYzGNfKYNWKkgRG6ToSEP2hL4Fy4GhtAwjBKN8bN0Z3NYdT/WUKSeSccJ/bwdQ+Wh6uZoVglnGmEEK4MXaZTXLuOikpehIupnnQJXf4OhiNPFtFQScRb5K3bUuh90sVg6BHZ548nYtMitDTVJ/rqZhwexGZPsWvezkWsoFYje6w4y28zzOmUvPrzwY+8Z+rQ/tIf5DXvsZWkiwjtZwAfTkpwI2pB3BUlNvaPSMn+W3Aed6nH8oayFaaCmlkiENMeAOieHVxI=;ax5BXbZmpjaO4ITvgSzb/Q=="

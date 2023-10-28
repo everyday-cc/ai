@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Baidu and Geely’s Collaborative Electric SUV, JiYue 01 has an Impressive 720 km Range"
+    excerpt: "Geely owns 65% of Jiyue Automotive, focused on car assembly, while Baidu holds the remaining 35% of the company"
+    publishedDateTime: 2023-10-28T00:43:00Z
+    webUrl: "https://www.gizmochina.com/2023/10/28/baidu-geely-new-electric-car-launch/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 42
   - title: "Geely and Baidu, in challenge to Tesla, launch autonomous EV"
     excerpt: "The Jiyue 01, the first EV from a Geely-Baidu joint venture, is equipped with Baidu’s Apollo platform, which has been in development for 10 years and used on driverless vehicles since 2016."
     publishedDateTime: 2023-10-27T15:09:00Z
@@ -49,6 +58,6 @@ related:
       domain: autonews.com
     quality: 34
 
-secured: "fqE1Vi2s1bQZTy/AvSSo7oouugEA4eGzFrm142oFAUd42XNtTeT6dVEOVBjgXO7xmevNUsQRG0vdGn/aTkDcR3l69AnW8ZGrQnn/wcVhkkY3kAN11hzb6m/Mv0PxNhFPbiBSxEkOfXboED+wM2COeyJBRzjtXsDeEqsLlgVW0Fu+PmKOh+Edlz+BcGGVz1exvZJ/xTsxFSaKZrnYvIyoQUAepVcM8TUJ7h2B323F4C4PHSHKQzWVgLs2ldmTNQSUqQwUuRQ9a/naWYFCaZ0TMlDuPDakgygm+CF3lthJGOHZv+CF0ByF2cfdtmAwtl3OC2t+kb/g081RqFpZUtrzamtVDhB9MSO4gp2dakqy+/A=;18ymSeP4sxKyqhNruOYOaw=="
+secured: "wr/ELZCnz/dGslbqpuQYlLuXS3dpkWbzbCTYGJY5u7aU764CdVbtmsbh9DUuXaErzc30hCa8Epl2W9A5MqEolyIZB7l1TVbTwKpJYIN093S6uvwvIHwjajFrMLBQ9JDKoBcD5oduNa0BYqGMFCjg2m/Q0PKHvsLq8JwzDpfYjCKNPMvOl7VImug/7tBsjkQK6zXnYyjwphfvQ1Pqzm91hdo2m+5zYev0Fd6qOXp0Vq4palx5pntTK/QOrPjmWVle98ijOmyaYPq2jKNoUX0jJaB+5qwRQTIn6cVM5LPci2vBcVm46a9GtmJdOTlzTwSk/wWuJ6yajqMaL+ECAvVlaMcURh46DXtfiJQsrKopRN6ljOZtUztPAVgGIiSz1DfaJbRwkkcKLV6BnodlENXAgkdHZ5hLomPI+iQXJeEhSJ1HpamnPUE3j4Z6AKLYjRLkTqe/8J2dW0TiMfgPo3S7uljX1MbGlPbnNMuo2AbBW6C6Hp2tESHKt6zgwRVgFwM51bAv1oe8eMisRBLMfnN9NA==;Jopa73UdpsaLEXGUNR1v9Q=="
 ---
 
