@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/elevate-your-marketi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/elevate-your-marketing-solutions-with-amazon-personalize-and-generative-ai/"
 type: article
 quality: 119
-heat: 429
+heat: 419
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6537e25d5f72f6b95a4d46a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1200
-        height: 900
-        isCached: true
-  - title: "Generative AI: Unlocking The Tipping Point For AI In Enterprises"
-    excerpt: "AI is everywhere. Unless you’re living off the grid, there’s a strong chance you hear about ChatGPT, OpenAI and generative AI regularly. New solutions, companies and conversations are popping up around AI because of its ability to democratize information in a way we haven’t seen since the Guttenberg Press."
-    publishedDateTime: 2023-10-24T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/generative-ai-unlocking-the-tipping-point-for-ai-in-enterprises/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/generative-ai-unlocking-the-tipping-point-for-ai-in-enterprises/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/generative-ai-unlocking-the-tipping-point-for-ai-in-enterprises/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/653684c0b0604170b9eb7aed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
         height: 900
         isCached: true
   - title: "What CIOs and CTOs should consider before adopting generative AI for application modernization"

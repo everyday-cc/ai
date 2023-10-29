@@ -25,14 +25,14 @@ related:
   - title: "UN chief appoints 39-member panel to advise on international governance of artificial intelligence"
     excerpt: "U.N. Secretary-General António Guterres has announced the appointment of a 39-member global advisory panel to report on international governance of artificial intelligence and its risks, challenges and key opportunities."
     publishedDateTime: 2023-10-28T12:29:00Z
-    webUrl: "https://www.stltoday.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_f104e140-35c2-5225-b64d-7a01bae73259.html"
+    webUrl: "https://heraldcourier.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_d963c6e6-9fbc-59a1-9fbe-e6ba8187153f.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Bristol Herald Courier
+      domain: heraldcourier.com
     quality: 23
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/10/f104e140-35c2-5225-b64d-7a01bae73259/653bc59991b54.preview.jpg?crop=1747%2C918%2C3%2C85&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/assets/v3/editorial/d/96/d963c6e6-9fbc-59a1-9fbe-e6ba8187153f/653bc5980d3db.preview.jpg?crop=1747%2C918%2C3%2C85&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

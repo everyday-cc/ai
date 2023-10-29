@@ -38,6 +38,20 @@ related:
         width: 2815
         height: 1585
         isCached: true
+  - title: "Will the Fusion of Bitcoin and Artificial Intelligence Fast-track Innovation?"
+    excerpt: "Check out the opportunities and challenges that arise when bitcoin and artificial intelligence come together in an unlimited landscape of innovation."
+    publishedDateTime: 2023-10-28T05:27:00Z
+    webUrl: "https://www.cryptopolitan.com/bitcoin-and-artificial-intelligence-fusion/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 38
+    images:
+      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/1254.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "O2C75EKFZqhG56+jGGNATscFk//jDnqw4xqzsZeA9Tod/+2qcgiDOxwM9MGJoMysdOGNsyub+5FmEnfNYcqcupTLz74X30ajwP2odO2FGy7PQ0HY+kzy5HhKZjyXw1OrCWEtK8abanJ1WzS5HIWtAYg/6I8HYVN6bqrv7tmKUOM6PJxBe5cgSZU+NCBTVjDI1asy9xeZHYMkNau1/9rDhxlfjx9/oR9b1e2YcKyIH6UlbnEGJp2Ia0UKAdiuWrc9mty5F7btU5Z9l18O8mCQmrWl/2zEWymGaYwerEPcNFJvMiHHAm/G0GE8z1//EN/wVx+wn3kbRmda5NRF1rVobR46iLYmpXNrd0ipeQ4TLJzKWoMKNi6+lEjdPBbTore2JpVtydyLYvwGa/jowBZPXEBtj+E8uS6t8/OG67KFN3QBRhj/ExKS+g19rpGyLCbX2GR68JJVWNAf+Tt36/hBSWI+IwmM3GojwFhXLHG1g/xW26WRU6zSFE2cDnHRN4PERx1Klp+j8YbJFdTVjtDNMg==;+Bq2+Umv8UFIVgQTmndnZQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/how-genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Can Write Phishing Emails, But Humans Are Better At It, IBM X-Force Finds"
-    excerpt: "Hacker Stephanie \"Snow\" Carruthers and her team found phishing emails written by security researchers saw a 3% better click rate than phishing emails written by ChatGPT."
-    publishedDateTime: 2023-10-24T11:00:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-phishing-emails-impact/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 61
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/01/tr12423-malware-seo-poisoning.jpeg"
-        width: 1400
-        height: 935
-        isCached: true
   - title: "Augmented Human: How Generative AI Can Be An Extension Of Ourselves"
     excerpt: "With LLMs, we have the possibility to explore dense datasets like biosignals, which measure the functions of the human body."
     publishedDateTime: 2023-10-26T12:44:00Z

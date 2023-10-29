@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI in the Mental Health Field"
-excerpt: "AI has the potential to transform and revolutionize the mental health field. Psychologists regard AI not as a replacement for real, face-to-face therapy, but as an additional source of support in a world in which artificial intelligence becomes more pervasive in our lives and mental health resources are becoming increasingly sought after."
+excerpt: "Although the world may not quite reach the level of dependency depicted in the Pixar movie, a future involving heavy reliance on artificial intelligence appears more probable than ever as AI becomes more entangled with our daily lives."
 publishedDateTime: 2023-10-27T22:56:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field"
-webUrl: "https://www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-now/202310/ai-in-the-mental-health-field"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-now/202310/ai-in-the-mental-health-field"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-now/202310/ai-in-the-mental-health-field?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-now/202310/ai-in-the-mental-health-field?amp"
 type: article
 quality: 59
 heat: -1
@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Exploring the Benefits of Using AI PDF Reader in the Workplace"
+    excerpt: "Embracing new tech in the workplace can be a game-changer. And one such tool that’s winning rave reviews is the AI PDF reader. This nifty gadget is making reading and deciphering digital documents a walk in the park."
+    publishedDateTime: 2023-10-28T17:16:00Z
+    webUrl: "https://techbullion.com/exploring-the-benefits-of-using-ai-pdf-reader-in-the-workplace/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 37
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/1-39-1000x600.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "The employees secretly using AI at work"
     excerpt: "Some employers are either tacitly or outright banning access to generative AI tools like ChatGPT. But employees who love them are finding ways to discreetly backchannel."
     publishedDateTime: 2023-10-25T14:49:00Z
@@ -85,6 +99,6 @@ related:
       domain: bbc.co.uk
     quality: 17
 
-secured: "PZUPmS6R+p/pnAMIRT+0zzioGCO0ehJdT8sSF3fgEmJYZ4JJ5d0fIDiHfUFU6rZ8nZeAu3JAiBKFXSYowlF5b30SjQqKwXnosGfnO3V0m3bjlbAjC9Z82nEf5NtFxAMQIeedGl30HKE3rmlCbI8Rz1JeZV+UFJPKPEGNKczvXklmtLrAsCPs0JKAnLUW+ibN3yJbGRiWhz6hMnr+sH+9trcdA08ci0m6HGw65HB5jZb1BSOAXKvTUIRto/cQ98khvOq/zpByCX9mtfg8SG0vDONskzPSiPgrulaxWQ1c1IDzGRHMZ7HAA8VCH/UTqDGueq2thtX8+Ryy0Xi7M1VsEuUy2VfNURNnE+tIyHK35XQ=;FZDZ/7o3IwB9M+A79wI99g=="
+secured: "WTnCMz0dC97IGToQBAHpw18u+z+403faPvWzq1Hgojk8dKVlZFeBiA2bk8OcF/uf+bIxcyX4pW6xyVumWyyYTqwjq/Uirfi2EYF0JmhLDuHKHuRSrI9TV30NLlKuWgmo8d3yPb0/QeAb3R5RGmLDw+HpaJrZsOcuRHlORO0yOroeXW5Qo+NG4FEJLDCl3ZPGf9a9+O3LDSx5pUB92gehLY0jK+QpIhy86UXrumWQvRs783di+W+6jgQvlVwJ+9uCxwonr8tAHucMlsBk5wiKt6ROaHUdNAHp+V1jsxPkf5HOMKTs4S87JdWp54PPzJChygwpb9bZeO/CN0d/WRPwUoxYuN0tO5iahyXnlvudDH0=;9Vd46R9wazz+g3GAQHruGQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/10/26/next-ai-winners-may-be-old-compani
 webUrl: "https://www.cnbc.com/2023/10/26/next-ai-winners-may-be-old-companies-embracing-digital-revolution.html"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Navigating the AI Revolution: Education and Ethics Take Center Stage"
+    excerpt: "David Reed from University of Florida’s Artificial Intelligence Academic Initiative Center, and Andrew Pass from A Pass Educational Group, dissect the implications of education’s most disruptive techn"
+    publishedDateTime: 2023-10-26T18:14:00Z
+    webUrl: "https://www.ecampusnews.com/innovation-insights/2023/10/26/florida-higher-ed-ai/"
+    type: article
+    provider:
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 51
   - title: "A new phase of the AI race is coming — and chip startup d-Matrix could be the winner"
     excerpt: "Yahoo Finance sat down with d-Matrix CEO and founder Sid Sheth to talk about how the company is planning to compete with Nvidia, the next chapter of the AI race, and when the chip shortage may finally come to an end. The below interview has been edited for brevity and clarity."
     publishedDateTime: 2023-10-24T14:58:00Z

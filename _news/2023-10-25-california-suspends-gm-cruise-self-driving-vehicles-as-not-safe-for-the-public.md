@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autoblog.com/amp/2023/10/24/california-dmv-yanks-gm-crui
 cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/10/24/california-dmv-yanks-gm-cruises-license-to-operate-without-a-backup-driver/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "California DMV suspends Cruise's self-driving car permits, effective immediately"
-    excerpt: "The California Department of Motor Vehicles on Tuesday suspended Cruise’s deployment and testing permits for its autonomous vehicles, effective immediately."
-    publishedDateTime: 2023-10-24T10:55:00Z
-    webUrl: "https://www.nbclosangeles.com/news/national-international/california-dmv-suspends-cruises-self-driving-car-permits-effective-immediately/3251051/"
-    ampWebUrl: "https://www.nbclosangeles.com/news/business/money-report/california-dmv-suspends-cruises-self-driving-car-permits-effective-immediately/3251051/?amp=1"
-    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/business/money-report/california-dmv-suspends-cruises-self-driving-car-permits-effective-immediately/3251051/?amp=1"
-    type: article
-    provider:
-      name: NBC Los Angeles
-      domain: nbclosangeles.com
-    quality: 39
-    images:
-      - url: "https://media.nbclosangeles.com/2023/10/107282661-16914113762023-08-07t100638z_978946371_rc2xi2ar2cgn_rtrmadp_0_usa-autos-autonomous-san-francisco-1.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "California suspends tests of GM's Cruise self-driving car following safety concerns"
     excerpt: "California authorities on Tuesday suspended testing of Cruise self-driving cars being developed by General Motors, citing safety concerns following a"
     publishedDateTime: 2023-10-25T04:28:00Z
@@ -100,6 +84,24 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Arizona closely monitoring use of self-driving vehicles"
+    excerpt: "\"When needed to safeguard public safety, ADOT will make any needed adjustments to a company's ability to test and operate self-driving vehicles in Arizona,\" the department said. California on Tuesday ordered GM's Cruise unit to remove its driverless cars from state roads,"
+    publishedDateTime: 2023-10-25T17:54:00Z
+    webUrl: "https://www.aol.com/news/arizona-closely-monitoring-self-driving-175410320.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 4
+  - title: "Arizona says closely monitoring use of self-driving vehicles"
+    excerpt: "The Arizona Department of Transportation said it was aware of the announcement from California and was closely monitoring the situation. \"Public safety is our highest priority, and we are in regular communication with and closely monitoring Cruise and other companies testing and operating self-driving vehicles in Arizona,"
+    publishedDateTime: 2023-10-25T21:58:00Z
+    webUrl: "https://www.aol.com/arizona-closely-monitoring-self-driving-175410320.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 4
   - title: "California suspends GM Cruise self-driving vehicles as 'not safe' for public"
     excerpt: "The automaker reported on Tuesday that it lost $723 million on Cruise during the third quarter. The DMV added that Tuesday's \"decision does not impact the company's permit for testing with a safety driver."
     publishedDateTime: 2023-10-24T19:32:00Z

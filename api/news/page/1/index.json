@@ -192,49 +192,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-28-tesla-faces-automated-driving-rival-in-geely-and-baidu-ev.md",
-      "title": "Tesla Faces Automated Driving Rival in Geely and Baidu EV",
-      "excerpt": "Competition is intensifying in China's automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/10/28/1600x900/tesla_ap_1698454433725_1698454450395.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html",
-      "publishedDateTime": "2023-10-28T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-28-automated-ai-multichannel-multilingual-marketing-brain-for-smb-growth-announced.md",
       "title": "Automated AI Multichannel, Multilingual Marketing Brain For SMB Growth Announced",
       "excerpt": "New AI-powered dynamics geared toward lead conversion for small and midsize businesses have been announced - with mBrain bringing forward new",
@@ -434,6 +391,58 @@
       ]
     },
     {
+      "path": "_news/2023-10-28-geely-and-baidu-officially-launch-jiyue-01-robocar-with-ai-and-voice-activated-parking.md",
+      "title": "Geely and Baidu officially launch JiYue 01 ROBOCAR with AI and voice-activated parking",
+      "excerpt": "Just over two months after announcing a restructuring of its business partnership to bring its AI-powered 01 ROBOCAR to",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/10/27/geely-baidu-launch-jiyue-01-robocar-ai-voice-activated-parking-ev-china/",
+      "originalUrl": "https://electrek.co/2023/10/27/geely-baidu-launch-jiyue-01-robocar-ai-voice-activated-parking-ev-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/10/01-ROBOCAR-debut.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-28-apple-loop-iphone-16-price-shock-apples-missing-ai-mystery-imac-launch.md",
       "title": "Apple Loop: iPhone 16 Price Shock, Apple’s Missing AI, Mystery iMac Launch",
       "excerpt": "This week’s Apple headlines; a shocking iPhone price rise, the release of iOS 17.1, Apple’s Scary Fast event, plans for a new iMac and MacBook Pro, iPad Air details leak, Apple’s missing AI, and",
@@ -537,6 +546,57 @@
       ]
     },
     {
+      "path": "_news/2023-10-28-big-techs-massive-ad-businesses-are-getting-a-boost-from-ai.md",
+      "title": "Big tech’s massive ad businesses are getting a boost from AI",
+      "excerpt": "As the American economy posts impressive growth, we take a look at how much money big tech companies raked in from advertising in Q3.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/27/big-tech-advertising-ai/",
+      "originalUrl": "https://techcrunch.com/2023/10/27/big-tech-advertising-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/visa.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-27-poe-wants-to-be-the-app-store-of-conversational-ai-will-pay-chatbot-creators.md",
       "title": "Poe wants to be the App Store of conversational AI, will pay chatbot creators",
       "excerpt": "Ultimately, Poe wants rapid innovation across the entire conversational AI space, not to constrain progress to what it can handle internally.",
@@ -545,7 +605,7 @@
       "originalUrl": "https://venturebeat.com/ai/poe-wants-to-be-the-app-store-of-conversational-ai-will-pay-chatbot-creators/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -597,7 +657,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/elevate-your-marketing-solutions-with-amazon-personalize-and-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 429,
+      "heat": 419,
       "tags": null,
       "images": [
         {
@@ -942,6 +1002,48 @@
       ]
     },
     {
+      "path": "_news/2023-10-27-john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend.md",
+      "title": "John Chambers, AI & innovation: Going one-on-one with a tech legend",
+      "excerpt": "Is artificial intelligence the future? I could not think of a better person to share insights on this topic than John Chambers who led Cisco from $20 million to $47 billon in 20 years and acquired 180 companies along the way.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/",
+      "originalUrl": "https://wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2019/11/unnamed-3-e1584727177725.jpg",
+          "width": 2815,
+          "height": 1585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/?amp=1",
+      "publishedDateTime": "2023-10-27T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-27-samsung-teases-possible-ai-camera-features-coming-to-galaxy-s24-series.md",
       "title": "Samsung teases possible AI camera features coming to Galaxy S24 series",
       "excerpt": "Samsung is teasing new AI camera features enabled by a 200MP sensor and the Snapdragon 8 Gen 3 chip. That combo screams Galaxy S24 series.",
@@ -993,20 +1095,20 @@
       ]
     },
     {
-      "path": "_news/2023-10-27-ai-and-the-future-of-work-adapting-to-a-changing-landscape.md",
-      "title": "AI And The Future Of Work: Adapting To A Changing Landscape",
-      "excerpt": "Nvidia, a leading technology company, recently announced a significant increase in earnings, with their revenue doubling due to the high demand for its AI chips that power new machine learning applications;",
+      "path": "_news/2023-10-27-ai-and-the-future-of-workhow-gen-ai-will-impact-your-job-search.md",
+      "title": "AI And The Future Of Work—How Gen AI Will Impact Your Job Search",
+      "excerpt": "Since ChatGPT amassed millions of users within months, it has had serious implications for job seekers. Here are some things you need to know about Gen AI.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
+      "webUrl": "https://www.forbes.com/sites/rachelwells/2023/10/27/ai-and-the-future-of-work-how-gen-ai-will-impact-your-job-search/",
+      "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/10/27/ai-and-the-future-of-work-how-gen-ai-will-impact-your-job-search/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6307744cdf865cb5591b5fd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/653b92c8d8a3cb4a0793857b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1385,
           "height": 900,
           "title": null,
           "attribution": null,
@@ -1015,9 +1117,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
-      "publishedDateTime": "2023-10-27T03:15:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2023/10/27/ai-and-the-future-of-work-how-gen-ai-will-impact-your-job-search/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/10/27/ai-and-the-future-of-work-how-gen-ai-will-impact-your-job-search/amp/",
+      "publishedDateTime": "2023-10-27T03:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1040,7 +1142,6 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1127,101 +1228,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-entering-ai-era-taiwan-chip-industry-urges-renewables-push.md",
-      "title": "Entering AI era, Taiwan chip industry urges renewables push",
-      "excerpt": "Taiwan's chip industry is ready to work with the government to achieve its 2050 net-zero goal but development of renewable energy sources needs to be hastened as demand for artificial intelligence booms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/taiwan-chips/entering-ai-era-taiwan-chip-industry-urges-speeding-up-renewables-push-idUSKBN31R0J7",
-      "originalUrl": "https://www.reuters.com/article/taiwan-chips/entering-ai-era-taiwan-chip-industry-urges-speeding-up-renewables-push-idUSKBN31R0J7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/BqMZjFvBErtuAEPgUfNCBJiZytk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P5YGAWUJGJIQFBBFJS4HMWBVSA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-amazon-web-services-to-launch-aws-european-sovereign-cloud.md",
-      "title": "Amazon Web Services to Launch AWS European Sovereign Cloud",
-      "excerpt": "AWS European Sovereign Cloud will be a new, independent cloud for Europe that gives customers in highly regulated industries and the public sector further choice and flexibility t",
-      "sourceUrl": null,
-      "webUrl": "https://www.aa.com.tr/en/p/duyurular/1002/amazon-web-services-to-launch-aws-european-sovereign-cloud",
-      "originalUrl": "https://www.aa.com.tr/en/p/duyurular/1002/amazon-web-services-to-launch-aws-european-sovereign-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnassets.aa.com.tr/assets/newVersion/images/sharing-logo.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Anadolu Ajansi",
-        "domain": "aa.com.tr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

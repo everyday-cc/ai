@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon’s AI-Powered Van Inspections Give It a Powerful New Data Feed"
-    excerpt: "Amazon delivery drivers at hundreds of sites around the world will be asked to drive through camera-studded archways that log every dent, scratch, or damaged tire."
-    publishedDateTime: 2023-10-24T11:00:00Z
-    webUrl: "https://www.wired.com/story/amazons-ai-van-inspections-powerful-data-feed/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/653712f92b2e9e5034c69df4/191:100/w_1280,c_limit/Amazon-UVEye-AI-Scan-Business.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Google Maps Immersive View Update Adds AI-Enhanced 3D View of Your Route"
     excerpt: "Immersive View for routes gives you a multidimensional preview of a journey, allowing you to pan around the area you're navigating whether you're walking, cycling, or driving."
     publishedDateTime: 2023-10-26T20:39:00Z

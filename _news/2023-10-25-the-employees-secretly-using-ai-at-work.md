@@ -51,11 +51,11 @@ related:
         height: 363
         isCached: true
   - title: "AI in the Mental Health Field"
-    excerpt: "AI has the potential to transform and revolutionize the mental health field. Psychologists regard AI not as a replacement for real, face-to-face therapy, but as an additional source of support in a world in which artificial intelligence becomes more pervasive in our lives and mental health resources are becoming increasingly sought after."
+    excerpt: "Although the world may not quite reach the level of dependency depicted in the Pixar movie, a future involving heavy reliance on artificial intelligence appears more probable than ever as AI becomes more entangled with our daily lives."
     publishedDateTime: 2023-10-27T22:56:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field?amp"
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-now/202310/ai-in-the-mental-health-field"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-now/202310/ai-in-the-mental-health-field?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-now/202310/ai-in-the-mental-health-field?amp"
     type: article
     provider:
       name: Psychology Today
@@ -81,6 +81,20 @@ related:
       - url: "https://nbc-2.com/wp-content/uploads/2023/10/ashley-nbc-10.27.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Exploring the Benefits of Using AI PDF Reader in the Workplace"
+    excerpt: "Embracing new tech in the workplace can be a game-changer. And one such tool that’s winning rave reviews is the AI PDF reader. This nifty gadget is making reading and deciphering digital documents a walk in the park."
+    publishedDateTime: 2023-10-28T17:16:00Z
+    webUrl: "https://techbullion.com/exploring-the-benefits-of-using-ai-pdf-reader-in-the-workplace/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 37
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/1-39-1000x600.png"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "q5qcJgqkgTDas//PqN6MligzU4fDX5Vfg2Pt25evE3vi0oY4Xyra4zJFZMpJohTQ6lFIcMokIFzom6FRt1glbTl2R4uwf32GZuT9fNgrrCJ5buzTLZ2+RYwSbhp7AVAk6C2ewEnbek1PfFZ4vxnoqo9exGCoPnlEs978f//35baloiWHIAmdsHYohhcoGjEVBUqiIl0lQUs7N4DVSUnLMRQ1N+IpsRulE3IFwQp/RMyTtANdUtwefraD+QAttin2h4BOgPM8iaOyn+U5dHYq4hcVL10SxNMqa/BUwHvfMnEvOLKvhg7uRfisUWYnJxecAa/tnH80fBb9eIpPNRUvZ7HRsFGm74AvD0RQVoGcRfYEeAeXhO8OTiSW7YTTlyjMHNT9iioxFrRkBxRIJuxDq29kc59VynOnByVFJXMuTk9PiraA1j0FVkR2/lGenplxqJ5qAJGJYYIlN7kz+gzHWMGi7mghrTqMxywXEVR4HFrij29SslZXLl/wNT2ruDxzjjQlo2QXv8eg7afIIs4TuQ==;36prVEBnFZE3C0ZThIEdvw=="

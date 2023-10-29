@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon’s AI-Powered Van Inspections Give It a Powerful New Data Feed"
-    excerpt: "Amazon delivery drivers at hundreds of sites around the world will be asked to drive through camera-studded archways that log every dent, scratch, or damaged tire."
-    publishedDateTime: 2023-10-24T11:00:00Z
-    webUrl: "https://www.wired.com/story/amazons-ai-van-inspections-powerful-data-feed/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/653712f92b2e9e5034c69df4/191:100/w_1280,c_limit/Amazon-UVEye-AI-Scan-Business.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Bloomfire Redefines Enterprise Knowledge Management with Advanced AI Features"
     excerpt: "Enterprise Search enables organizations to easily scale access to company knowledge through a single AI-powered search engine that integrates with SharePoint and Microsoft Teams document libraries. Streamline content and document management with automated processes for curating, migrating, and updating content in bulk."
     publishedDateTime: 2023-10-26T16:35:00Z

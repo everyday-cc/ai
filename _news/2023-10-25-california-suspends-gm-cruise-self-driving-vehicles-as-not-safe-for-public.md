@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "California DMV suspends Cruise's self-driving car permits, effective immediately"
-    excerpt: "The California Department of Motor Vehicles on Tuesday suspended Cruise’s deployment and testing permits for its autonomous vehicles, effective immediately."
-    publishedDateTime: 2023-10-24T10:55:00Z
-    webUrl: "https://www.nbclosangeles.com/news/national-international/california-dmv-suspends-cruises-self-driving-car-permits-effective-immediately/3251051/"
-    ampWebUrl: "https://www.nbclosangeles.com/news/business/money-report/california-dmv-suspends-cruises-self-driving-car-permits-effective-immediately/3251051/?amp=1"
-    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/business/money-report/california-dmv-suspends-cruises-self-driving-car-permits-effective-immediately/3251051/?amp=1"
-    type: article
-    provider:
-      name: NBC Los Angeles
-      domain: nbclosangeles.com
-    quality: 39
-    images:
-      - url: "https://media.nbclosangeles.com/2023/10/107282661-16914113762023-08-07t100638z_978946371_rc2xi2ar2cgn_rtrmadp_0_usa-autos-autonomous-san-francisco-1.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "California suspends GM Cruise self-driving vehicles as 'not safe' for the public"
     excerpt: "California suspended General Motors' Cruise autonomous vehicle deployment and driverless testing permits, effective immediately, citing safety concerns."
     publishedDateTime: 2023-10-24T18:02:00Z
@@ -108,6 +92,24 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Arizona closely monitoring use of self-driving vehicles"
+    excerpt: "\"When needed to safeguard public safety, ADOT will make any needed adjustments to a company's ability to test and operate self-driving vehicles in Arizona,\" the department said. California on Tuesday ordered GM's Cruise unit to remove its driverless cars from state roads,"
+    publishedDateTime: 2023-10-25T17:54:00Z
+    webUrl: "https://www.aol.com/news/arizona-closely-monitoring-self-driving-175410320.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 4
+  - title: "Arizona says closely monitoring use of self-driving vehicles"
+    excerpt: "The Arizona Department of Transportation said it was aware of the announcement from California and was closely monitoring the situation. \"Public safety is our highest priority, and we are in regular communication with and closely monitoring Cruise and other companies testing and operating self-driving vehicles in Arizona,"
+    publishedDateTime: 2023-10-25T21:58:00Z
+    webUrl: "https://www.aol.com/arizona-closely-monitoring-self-driving-175410320.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 4
 
 secured: "TedXpEJumnhAOiWG9AomOIXV7IOFGNNzr6zfEA6IcZPBJRsS88564+41+KwUC+Z+76h8O+c0aRbhuYAIUroSjAOCshpISEIYvFWmkfzmJ4QN1rGL8opmR/Nq8ZmmNbl7kJehuze2nLhVs0PBDuogG0jaHIFvouYA/3dUvnatD1YMZxoCw7sZN50T2QmAnsYc3fzC80UCPNiyusSVsndaJvTWCaoq7Mk/2k7OmIMHm6K4DiceGTAL90vBbwNzKJUZBh+3L+ZDm0QY0idq/nbn5Gy9cllqEjcjtFu2fLScG80tjS7OUeu0ais1YQsY9RskuvoiKMlA8+PI96cJih8V9G8auZsDiaczI5HOcOuk5uI=;GRzlRQIZ4xgxfkT8sCELgA=="
 ---

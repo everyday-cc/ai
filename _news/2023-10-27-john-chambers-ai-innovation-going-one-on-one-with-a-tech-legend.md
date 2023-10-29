@@ -9,8 +9,8 @@ ampWebUrl: "https://wraltechwire.com/2023/10/27/john-chambers-ai-innovation-goin
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/?amp=1"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: WRAL TechWire
@@ -35,6 +35,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Will the Fusion of Bitcoin and Artificial Intelligence Fast-track Innovation?"
+    excerpt: "Check out the opportunities and challenges that arise when bitcoin and artificial intelligence come together in an unlimited landscape of innovation."
+    publishedDateTime: 2023-10-28T05:27:00Z
+    webUrl: "https://www.cryptopolitan.com/bitcoin-and-artificial-intelligence-fusion/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 38
+    images:
+      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/1254.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "IXDDpDR1mZS+MawkOXA3FKFUm2Ck/ve9rzTru+WdclWSG0naHgrAuY5FDqHsRxJyaOwGRZxWpP05ZP0+pRhx29vIvz/nxtEPUqBp9Camlwsj/tVwIS/dzl9EsLOq2EaWE82IzlPmhi2AlGY0CoJ4MsPljqw/gaj8xpEXesTGxDQj+gSJI4qcXyAJ7S7n5pmgKW+RujlfTjrRmLV893CZnUI15E3MVRnZap3SS4qPJmI7PtGIPCXLMZ9N6bmvsmcDHHKWeJmfi6YZQKn6fsahHIjlbSjhyokXv8XR/t4FAeUu9jHgHU1PQ9OpwZXuF5ZgS6iYz3ygCajKiVnZo/8nnDyDi5ecBi0hSsbvja5Ksjo=;DbyUCIReJNHjJbbycflOgg=="
 ---

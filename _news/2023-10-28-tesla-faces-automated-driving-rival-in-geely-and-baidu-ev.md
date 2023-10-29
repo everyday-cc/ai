@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Tesla Faces Automated Driving Rival in Geely and Baidu EV"
-excerpt: "Competition is intensifying in China's automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc."
-publishedDateTime: 2023-10-28T12:29:00Z
-originalUrl: "https://tech.hindustantimes.com/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html"
-webUrl: "https://tech.hindustantimes.com/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html"
-ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html"
-cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html"
+title: "Tesla faces automated driving rival in Geely and Baidu EV"
+excerpt: "SHANGHAI: Competition is intensifying in China’s automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc."
+publishedDateTime: 2023-10-28T16:05:00Z
+originalUrl: "https://www.carsifu.my/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev"
+webUrl: "https://www.carsifu.my/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev"
 type: article
-quality: 74
-heat: 134
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Hindustan Times Tech
-  domain: hindustantimes.com
+  name: CarSifu
+  domain: carsifu.my
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.hindustantimes.com/tech/img/2023/10/28/1600x900/tesla_ap_1698454433725_1698454450395.jpg"
-    width: 1600
-    height: 900
+  - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/10/JIYUE01_2.jpg"
+    width: 1024
+    height: 676
     isCached: true
 
 related:
@@ -52,20 +50,6 @@ related:
       name: bnnbloomberg
       domain: bnnbloomberg.ca
     quality: 54
-  - title: "Baidu and Geely's self-driving EV delivery begins, challenging Tesla's Model Y"
-    excerpt: "Baidu and Geely's joint venture has started delivering a self-driving electric vehicle (EV) to compete with Tesla's Model Y. The EV, called JiYue 01, is a premium SUV with autonomous driving and voice-activated control technology."
-    publishedDateTime: 2023-10-27T16:32:00Z
-    webUrl: "https://www.futurecar.com/11649/Baidu-and-Geelys-self-driving-EV-delivery-begins-challenging-Teslas-Model-Y"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 50
-    images:
-      - url: "https://img.futurecar.com/202310/27/l_653be6237402b."
-        width: 512
-        height: 512
-        isCached: true
   - title: "Baidu and Geely’s Collaborative Electric SUV, JiYue 01 has an Impressive 720 km Range"
     excerpt: "Geely owns 65% of Jiyue Automotive, focused on car assembly, while Baidu holds the remaining 35% of the company"
     publishedDateTime: 2023-10-28T00:43:00Z
@@ -99,6 +83,6 @@ related:
       domain: autonews.com
     quality: 34
 
-secured: "FX2a6Zjke07KGtYVCQILEyGZOHKl56opqp65RrEMLIBCpMU71RsQbN5NrCjHwoYYfVZhv98z7wbnP36K4gLLQdgOuFLO8anggv/PJDg6nTTh+Gr4OXD7uNVTW3pUg7c8NDRNZGX25DUTCv4LWi/dF0frZbdmG/7k4T5b4cfTVJERC3UAOO1fKL7U508xKN8vjlXRNM7xcmZQUYr6CkvSNc3gBkwWsBotdj7mB1OA5DihPeavrRwHDHVHwQUT6Zv5IJg52Y179bziPnBE8tElOsAjvncOyXEUvcm8Br+VbPEMu6E2AJtlB3R+/jTZU0UE1nMMok88fYfX48biXdLXKe35a0YKV1iSs2O3ztnh3lE=;7neJVna/pW6fr/3uXQRA6Q=="
+secured: "8WEWPOqWwoZs5iAxy2MqQ2PHSYpivEUsel2F+oj2fMQIdKZ1/sU4kT4wx2ZDJtVESHhAeRgV+rOYlbdFyele2D2Et1jN7MZEPlgFLfV7SSJ4vgWLUAkF25e9xbZpeEEhGqCWl7K2iCp54nbe5M5ihJQ9V+wULRnrl4O6SfvbrZhSh6BD2a/rHqMMWc5aZoJraZ68PUh5K7opLK4seIolRG4V7tBEbSEhZ2sbYpawmLDFAWbmW+kRpIsO/QX0K8U5Ia2yDXNux4hauSZ4xs4Kh5Ahxx9GsUWLb8z1TZF18sfDbuiavK0JjS6aQod6Wn4/IIVVGivw9Ync/fMpATx7ccpcowJssuyh3WpZZAyA5ys=;i6L/H+P1z1b4Dj7ozgskKA=="
 ---
 

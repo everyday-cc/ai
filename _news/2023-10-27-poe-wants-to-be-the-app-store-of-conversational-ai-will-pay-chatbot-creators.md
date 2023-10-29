@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/poe-wants-to-be-the-app-store-of-conver
 webUrl: "https://venturebeat.com/ai/poe-wants-to-be-the-app-store-of-conversational-ai-will-pay-chatbot-creators/"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Chatbots Won’t Tell You Who To Vote For, But They Will Create Targeted Political Ads"
-    excerpt: "Chatbots like Bard, Claude, Pi and ChatGPT can spin up a range of campaign material from text messages to TikTok videos, but AI leaders have expressed concern over"
-    publishedDateTime: 2023-10-24T10:31:00Z
-    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/10/23/ai-chatbots-wont-tell-you-who-to-vote-for-but-they-will-create-targeted-political-ads/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 59
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6536e716415a919fc9b91512/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Google’s AI chatbot refuses to tell the truth about Hamas and Israel"
     excerpt: "The company describes its chatbot, “Bard,” as a “conversational AI tool” that can be used “to brainstorm ideas, spark creativity, and accelerate productivity.”"
     publishedDateTime: 2023-10-24T23:54:00Z

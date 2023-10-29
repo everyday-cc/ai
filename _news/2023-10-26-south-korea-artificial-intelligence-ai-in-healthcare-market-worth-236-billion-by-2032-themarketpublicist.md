@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107307150/South-Korea-Artificial-Intelligence-
 webUrl: "https://menafn.com/1107307150/South-Korea-Artificial-Intelligence-AI-In-Healthcare-Market-Worth-236-Billion-By-2032-Themarketpublicist"
 type: article
 quality: 50
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://www.fmiblog.com/wp-content/uploads/2023/10/Internet-of-Robotics-Things-Market.jpg"
         width: 1000
         height: 562
-        isCached: true
-  - title: "Robotic Vision Market To Surpass USD 4.84 Billion By 2030"
-    excerpt: "In 2022, the Robotic Vision Market Size stood at USD 2.29 billion, with estimates indicating growth to USD 4.84 billion by 2030, at a CAGR of 9.8% during the forecast period from 2023 to 2030."
-    publishedDateTime: 2023-10-24T10:07:00Z
-    webUrl: "https://menafn.com/1107292808/Robotic-Vision-Market-To-Surpass-USD-484-Billion-By-2030"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/24/I_f6957image_story.png"
-        width: 1024
-        height: 535
         isCached: true
   - title: "Healthcare Analytical Testing Services Market Envisions US$ 49.6 Billion Valuation by 2032| Future Market Insights,Inc."
     excerpt: "The global Healthcare Analytical Testing Services Market was estimated by Future Market Insights to be worth roughly US$ 11.9 billion in 2021. The market is anticipated to grow at a CAGR of 14% over the following ten years,"

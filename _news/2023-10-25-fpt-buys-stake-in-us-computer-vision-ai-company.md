@@ -9,7 +9,7 @@ ampWebUrl: "https://ampe.vnexpress.net/news/business/companies/fpt-buys-stake-in
 cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/business/companies/fpt-buys-stake-in-us-computer-vision-ai-company-4668913.html"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Role of Artificial Intelligence in a BS in Computer Software Technology Education"
-    excerpt: "Education has become the cornerstone of innovation. As the demand for skilled professionals in computer software technology continues to rise, educational institutions are adapting their curricula to meet the industry’s changing needs."
-    publishedDateTime: 2023-10-24T09:56:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-a-bs-in-computer-software-technology-education/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 49
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/The-Role-of-Artificial-Intelligence-in-a-BS-in-Computer-Software-Technology-Education.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Can Generative AI Be The Smartest Member Of Your Company?"
     excerpt: "To support the effective, safe and ethical use of generative AI, you'll need a solid foundation of high-quality data underpinned by governance."
     publishedDateTime: 2023-10-24T12:15:00Z

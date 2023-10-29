@@ -38,20 +38,6 @@ related:
         width: 680
         height: 408
         isCached: true
-  - title: "The Role of Artificial Intelligence in a BS in Computer Software Technology Education"
-    excerpt: "Education has become the cornerstone of innovation. As the demand for skilled professionals in computer software technology continues to rise, educational institutions are adapting their curricula to meet the industry’s changing needs."
-    publishedDateTime: 2023-10-24T09:56:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-a-bs-in-computer-software-technology-education/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 49
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/The-Role-of-Artificial-Intelligence-in-a-BS-in-Computer-Software-Technology-Education.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "6xyeea/3PsyXXfTENtSSRtiV63Hj9K+QnITg4I92nBPLa3+qmRSOVAFO8X0Rwl19rc1A+aWMBrRUmAIvFDj5fNa5bk7NxvmzXrEwPSQCCELxNOpKiBq6dUspubqUv6CXtFc4/MkDfyO44yYFySmdb72vzRDwBL0E682MpbJK7jz/D9f1XVFKZVHvrsKWu3lFwUQWpRwSZhmeotlLQJXNvGogorrNPS+oOZOJSfIT4DxWM2mFjDVWjDa1vLpH7sStoJg5+kxxVA5Q/I7+SbMjGWFGZap0bkfidKhFVdrBbLMGx+l5iXRI4h2Tp28j7iPDZWlreZa1+agVlrMWioKhLDpE9LBGuTbFjdwygHhZu7S5By0KmsodNI9CsOsAIJBMFVSZqToHU+drubanxGdKs8/V4QgozyCbW4hpCJ0ssTs54EgPm+fTUbDTp9rRjecHGQDApmR1uz1g/bgxumYigvy6Kr9fQuDoJ1A6/bdIXnK6zidGhbpliFlSM+DscBrNGfH8ejWB+T185zyb7fpHFA==;0lTzoI0PztBKCbQLWdb0LQ=="
 ---
