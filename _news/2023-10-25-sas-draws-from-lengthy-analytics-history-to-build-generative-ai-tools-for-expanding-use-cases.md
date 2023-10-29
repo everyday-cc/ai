@@ -50,15 +50,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Leading Insurance Company Recruits ‘AI Localization Analyst’"
-    excerpt: "Based in London as part of the AI Business Solutions group, the AI Localization Analyst will be tasked with adapting and optimizing Chubb’s AI systems for “specific cultures, languages and regions to ensure their successful implementation and adoption in different parts of the world.”"
-    publishedDateTime: 2023-10-24T08:20:00Z
-    webUrl: "https://slator.com/leading-insurance-company-recruits-ai-localization-analyst/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
   - title: "Data analytics introduced for equine safety"
     excerpt: "The Horseracing Integrity and Safety Authority (HISA) is collaborating with Amazon Web Services (AWS) to apply data analytics, machine learning and artificial intelligence to enhance equine"
     publishedDateTime: 2023-10-25T18:07:00Z

@@ -131,6 +131,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Policing minister urges forces to double use of facial recognition software"
+    excerpt: "It comes despite a cross-party group of MPs and peers calling for the use of live facial recognition technology to stop immediately."
+    publishedDateTime: 2023-10-28T23:01:00Z
+    webUrl: "https://www.aol.com/policing-minister-urges-forces-double-230100510.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Gv7ibKR0n33629I2u0B3ZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/852d31ebe147c4c57fa930c26e662ac1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Policing minister calls for greater use of facial recognition technology to track down offenders"
     excerpt: "Chris Philp says the advances would allow police to 'stay one step ahead of criminals' and make Britain's streets safer"
     publishedDateTime: 2023-10-28T23:01:00Z
@@ -155,6 +169,6 @@ related:
       domain: echo-news.co.uk
     quality: 19
 
-secured: "f90H2hBG//JYNbtN+ezXceVVTvBFdHma8g+zAxDIXCeHS+9mT17wbEw7Euu+0Pq8YhPULxAq5MrnL139jQmw62UnCYP4HFt6oJdvX6wDqcjX7Au+Cp6+bfSExzEwQf4RWzq+kTH2feNdhLyXI+thRnGtsIeA6xtko0KNO2uQcvHneO2NX8oDXZlUJpCD/G20CeHR4+0UQPI1AkljcttRlKh0epP8DGzJKedOgE81TthvCeyPU7Jqxky/B1tPerCQObLWd60xqq+tDKRuq0CluyASj26LgMerxEAKg/newFpxBCJcL5r26lVAt1XNYmbqqu+hHdo3MbZaQeTTtirwkwhK7my6ulJx01eOptYs5/c=;XndtzOtyT4HBnVBC4LjDBw=="
+secured: "F/cI8LAXYPkfvcWAC17OzizoxCHeGy55/ZO9qoPuuZaLkHmNGPVuLfk+JrWcQxGsxLzBHC/dwiyTLziFfVEr5hJhWsWvWzkaG92g13C1B82WlI6bfLsmWAK6o94D0DK6hDtCuGPi/bsQX96zc3Uezt9+yLbrxWmAvX8VX06Eo7KiQrbZ5ABUptFM1UK3aGWkJq334PuCNhviECa+AhWUwecKbMt2MsRkU6Gw7paKiwc3hejBEnUrmHNqL2nzS/8IputvbzuXKmOXFJDiSzgrPHV/agSbmdPCxAmhXrv69znHRAtzhuXoOmjT1EiXxy/YmyzxfW7ysmshDMgGbd3Kcet8pj5tpFFNRRhjtt0TKdbnqmqEhFjPifwmJ9K0oZnMXP1kiiFlUPctqtSb0S3T30omnlTrjsuhVx8pUppMJqU3RjEQtrPrS5F4/yxhPYpynp2qCy0uohwPIJUQtlIdulZL8agfJQyjjEYF2YOTtRoSTmfVSyiR6iESr9XpY20TMpzyHLbbs9MnEmwX+LXsoA==;fHD2nDidnMqapulvm/LktA=="
 ---
 

@@ -117,6 +117,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Policing minister urges forces to double use of facial recognition software"
+    excerpt: "It comes despite a cross-party group of MPs and peers calling for the use of live facial recognition technology to stop immediately."
+    publishedDateTime: 2023-10-28T23:01:00Z
+    webUrl: "https://www.aol.com/policing-minister-urges-forces-double-230100510.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Gv7ibKR0n33629I2u0B3ZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/852d31ebe147c4c57fa930c26e662ac1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Universal Orlando Resort Tests Facial Recognition Technology for Guest Entry"
     excerpt: "Universal Orlando Resort has begun testing a new facial recognition technology, dubbed “Photo Validation,” as a potential replacement for the current thumbprint scan used at park entrances. The technology is designed to streamline park operations"
     publishedDateTime: 2023-10-28T22:46:00Z

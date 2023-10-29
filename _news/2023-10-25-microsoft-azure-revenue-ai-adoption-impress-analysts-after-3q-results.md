@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
 excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
 publishedDateTime: 2023-10-25T14:58:00Z
-originalUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca&region=ca"
-webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca&region=ca"
+originalUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca"
+webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca"
 type: article
 quality: 69
 heat: -1
@@ -614,6 +614,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "lWsQ6PazCeJ56gjEFVoVwY32Yzx8qhhXb6ZdykvEz88Jwm61bcVsIh/yIZ9i30K/e8oz6e2dqvfLrivi0Tk/Mw7YbnXfjrEO999G56rkZTZF7UguRaVL6qLVcxtAlDeUlNzvk3VGmOCiUiNTVdIg1ggKU5/zlSQMuRD/rlTgH4hPlIMEo2+/wA4TNej5bYDnfONbefc+XLWEPT6cJxE/Q8JD4Ae74MXGhIpDGKc3evQRyZKvVJmF0y//4AIfLhlHxwDSPz/P5TGrfg1Hs1vIQ07y6iUOlZuqSRzQ8NlP4gMJLa6j6X2GssjN7fitKWmRj1O1QsHQAE3UASQiDne0I51Gzq9GJPAv2ZTuekH9H6cnwgzcfnLXNVJ8hiYRqc7o/9K86X76viY4me3BstPNp5IMCGphn+3fQ5NvmJO6DZy8p8WcAB98oZZBr5DnhyOmlOj2Q07dgbUlCLKjL12GLW9fdF0u8OYftpi/GfRYvUJJBiZ3JqGIllmFydD/ZI7twgny7Dgc+HOFAHTw/V/bBg==;xyjMB8RMMmqaRBBfdAfh8g=="
+secured: "CBADYQiEEmwLu2MH7Dd3dlM1XKSretD3BDTBI+/mCnxvfwDaFS16h/VOOLI+msoAPehIJCgzCM4vfx4zx0Rbgcp/U4pRyaRgJ/J3j//l0eaH3ZzkGSS8+cQqMQ525NQbX6o1orEpES4nW6BdsaZy8/NryvGLI3IoPBJIwB7Zg4U8db5/oMppWxR/A1XYLCq/nB3ogCeXqoDE4gsqfxFceMc5oJS7An76HMO1xRdvInpCoKbz47y6pIv27jeVWBnXPG8kXtImp7Pnsmez9uQuOzKRqsqHAasVru2u3YLvnMDMzuah2qmhdwZmA1CZmOR3R/jdjLYjwft6bwSj1V8VnyOkka5mhyGNfM0JqIfSEjE=;xMTnLkDsVo1s+qjQND4XyA=="
 ---
 

@@ -2,11 +2,11 @@
 category: news
 title: "UK regulators report back on AI and Machine Learning consultation"
 excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
-publishedDateTime: 2023-10-26T12:24:00Z
-originalUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
-webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
+publishedDateTime: 2023-10-26T00:00:00Z
+originalUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
+webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
 type: article
-quality: 56
+quality: 36
 heat: -1
 published: false
 
@@ -18,12 +18,6 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
-
-images:
-  - url: "https://www.assetservicingtimes.com/assetservicesnews/images/ThursdayOctober2620231698319657.jpg"
-    width: 990
-    height: 640
-    isCached: true
 
 related:
   - title: "AI May Soon Weigh In on Regulation"
@@ -70,20 +64,6 @@ related:
         width: 460
         height: 441
         isCached: true
-  - title: "Apple could spend $4.75 billion on Artificial Intelligence in 2024"
-    excerpt: "Apple is looking to catch up with the likes of Microsoft and Google on Artificial Intelligence and the company is apparently planning to spend a"
-    publishedDateTime: 2023-10-24T08:26:00Z
-    webUrl: "https://www.geeky-gadgets.com/apple-could-spend-4-75-billion-on-artificial-intelligence-in-2024-24-10-2023/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 37
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Apple-Store.jpg"
-        width: 2180
-        height: 1453
-        isCached: true
   - title: "Apple May Spend Over $5 Billion By 2024 On Servers In Major Generative AI Push"
     excerpt: "Ming-Chi Kuo expects Apple to spend 'at least' $620 million on servers in 2023 and an estimated $4.75 billion on servers in 2024."
     publishedDateTime: 2023-10-24T15:33:00Z
@@ -99,6 +79,6 @@ related:
         height: 398
         isCached: true
 
-secured: "dMy+i2uV5D/nrzxVACLQ7yRxH1QpQl8jFtGM2pr9XTQf6aMEc7bvCOP+6iAJ4RjeBq59jQ6wSh7jUHTc7EiC+wDnxEFDxqJUfeC92Yat2vIGsgTyYlWvWbXmt9axK58xCpfisbvRWS6DDLiKFCE9O0Yfsr4KLSKEz/trdJpfofgYE7NTtNFTezumlgFaw6LoGWDeMOYAW4P5jQTdQDKNhgbjnbWUgywuBf8m7mfXMNfUDfraUISleNQbbkgvLK21cJmiLMpwUSH7fyOxtvzSCZo2YqGxIcbYsEDiVWIwhV44v2flJWPTLAEwZ8PR6hqYoH/Q5FRhnNun7+jlaPByVgAICbPWZaws1l1UVjNyGGo=;pSaDAzUoXygMnoOLP1ilyw=="
+secured: "3E6ZymCvwTXjNOzPbyZfus2LzJZUuiwH/EYd0irrJVPDZMX1OoI651Lj/I2kMpDa6R4UuzQAwmsAPh0EgV39H4u3ZuFDJeKsr7ApJoPr4pUj1iko7D4BbET5sjKa8Lnf96XNIij9R73z2+OQzcycUHK0ZgoQc8SvVEJ9gkK4hdmsWLNPL8xAP0PgEu0wO6vzy6rseRK1yy1JV/xwWzsRfnuckVhZEp6Ht8qSXZa8NXoVnVdCvKCtFx2LCSKlhMe8bwE/rgOt/hMuKzyX6zKuobqQ3LP3CG2pqr5HqLe7HzdnGxabVEsM9xQEPmEVq26kYoJVfUVHtwef41h0GJ6zFfhGzKccIs4ATFggF8gF6eA=;29TRssw3hQ9YNsps1Fz1eA=="
 ---
 

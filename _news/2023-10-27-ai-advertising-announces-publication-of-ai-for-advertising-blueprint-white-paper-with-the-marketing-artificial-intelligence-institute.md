@@ -65,15 +65,6 @@ related:
         width: 860
         height: 520
         isCached: true
-  - title: "Healthcare AI regulation is coming into focus"
-    excerpt: "Stakeholders are calling on the FDA to provide more concrete guidance in how clinical AI applications should be implemented."
-    publishedDateTime: 2023-10-24T09:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/ai-healthcare-federal-regulation-fda-onc"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
   - title: "The Opportunities at the Intersection of AI, Sustainability, and Project Management"
     excerpt: "There are unprecedented opportunities at the intersection of AI, project management, and sustainability. Unfortunately, without proper execution, projects to implement AI come with complexities, costs and a carbon footprint that undermine sustainability goals."
     publishedDateTime: 2023-10-27T12:16:00Z

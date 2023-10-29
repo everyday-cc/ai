@@ -2,6 +2,147 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2023-08-03-scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker.md",
+      "title": "Scale training and inference of thousands of ML models with Amazon SageMaker",
+      "excerpt": "Training and serving thousands of models requires a robust and scalable infrastructure, which is where Amazon SageMaker can help. SageMaker is a fully managed platform that enables developers and data scientists to build, train, and deploy ML models quickly, while also offering the cost-saving benefits",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/21/ML_14247_001-982x630.jpg",
+          "width": 982,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T08:05:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition.md",
+      "title": "Build and train computer vision models to detect car positions in images using Amazon SageMaker and Amazon Rekognition",
+      "excerpt": "Computer vision (CV) is one of the most common applications of machine learning (ML) and deep learning. Use cases range from self-driving cars, content moderation on social media platforms, cancer detection, and automated defect detection. Amazon Rekognition is a fully managed service that can perform",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/03/ML-5922-demo-v2-1253x630.jpg",
+          "width": 1253,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T07:53:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars.md",
+      "title": "How MIT's Liquid Neural Networks Can Solve AI Problems from Robotics to Self-Driving Cars",
+      "excerpt": "In the current artificial intelligence (AI) landscape, the buzz around large language models (LLMs) has led to a race toward creating increasingly larger neural networks. However, not every application can support the computational and memory demands of very large deep learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/news/275198-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars",
+      "originalUrl": "https://cacm.acm.org/news/275198-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators.md",
       "title": "This Talent Collective Helps Businesses Access Top AI Talent From OpenAI, Google, And Other Innovators",
       "excerpt": "In the rapidly evolving world of AI and machine learning, businesses are trying to keep up with ever-changing needs.",
@@ -1015,127 +1156,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-intelligent-speech-recognition-software-market-latest-trends-demands-and-advancements-2023-to-2029.md",
-      "title": "Intelligent Speech Recognition Software Market Latest Trends, Demands and Advancements 2023 to 2029",
-      "excerpt": "The Global Intelligent Speech Recognition Software Market report focuses on an comprehensive analysis of the current and future prospects of the Intelligent Speech Recognition Software industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33542189/intelligent-speech-recognition-software-market-latest-trends-demands-and-advancements-2023-to-2029",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33542189/intelligent-speech-recognition-software-market-latest-trends-demands-and-advancements-2023-to-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-natural-language-processing-market-size-outlook-prominent-players-share-challenges-and-forecast-2031.md",
-      "title": "Natural Language Processing Market Size, Outlook, Prominent Players, Share, Challenges and Forecast 2031",
-      "excerpt": "The latest intelligence report published by Report Ocean, titled \"Global Natural Language Processing Market 2023: Increase in Demand and Opportunities,\" offers valuable insights into the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33541955/natural-language-processing-market-size-outlook-prominent-players-share-challenges-and-forecast-203",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33541955/natural-language-processing-market-size-outlook-prominent-players-share-challenges-and-forecast-203",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T23:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-artificial-intelligence-in-security-market-size-latest-trends-key-players-revenue-report-and-forecast-2031.md",
-      "title": "Artificial Intelligence in Security Market Size, Latest Trends, Key Players, Revenue, Report, and Forecast 2031",
-      "excerpt": "IBM and MIT are investing in MIT-IBM Watson AI Lab which is focusing towards developing AI algorithms and new applications of AI in various fields such as healthcare and cybersecurity. Recently in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33541086/artificial-intelligence-in-security-market-size-latest-trends-key-players-revenue-report-and-foreca",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33541086/artificial-intelligence-in-security-market-size-latest-trends-key-players-revenue-report-and-foreca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33541086",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33541086",
-      "publishedDateTime": "2023-08-02T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

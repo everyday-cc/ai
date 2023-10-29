@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newswest9.com/amp/article/money/austin-airbnb-ai-hallowe
 cdnAmpWebUrl: "https://www-newswest9-com.cdn.ampproject.org/c/s/www.newswest9.com/amp/article/money/austin-airbnb-ai-halloween-parties/269-4f51969c-e747-4eda-99ef-8acaec6ac545"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Midjourney Halloween prompt ideas for scary, haunting AI images"
-    excerpt: "AI art generator such as Midjourney and DallE 3 recently made ... are not only visually striking but also evoke a sense of unease and dread. Offering a great start when writing prompts to generate eerie and unsettling images, perfect for the Halloween ..."
-    publishedDateTime: 2023-10-24T08:28:00Z
-    webUrl: "https://www.geeky-gadgets.com/midjourney-halloween-prompt-ideas/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 37
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJOMNd11zplQ%2F0.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Airbnb using Artificial Intelligence to crack down on unwanted Halloween parties"
     excerpt: "The company says its state-of-the-art system works to prevent certain higher risk one and two night whole home bookings."
     publishedDateTime: 2023-10-26T13:32:00Z

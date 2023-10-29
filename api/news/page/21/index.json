@@ -2,6 +2,92 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-10-13-meity-discloses-the-draft-national-strategy-on-robotics.md",
+      "title": "MeitY discloses the Draft National Strategy on Robotics",
+      "excerpt": "According to the draft, the Indian government’s ‘India AI’ is an umbrella program that takes into account current AI initiatives",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-meity-discloses-the-draft-national-strategy-on-robotics-3271674/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-meity-discloses-the-draft-national-strategy-on-robotics-3271674/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-13T130618.987.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-meity-discloses-the-draft-national-strategy-on-robotics-3271674/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-meity-discloses-the-draft-national-strategy-on-robotics-3271674/lite/",
+      "publishedDateTime": "2023-10-13T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-ceva-to-use-robots-from-boston-dynamics-in-los-angeles-facility.md",
+      "title": "CEVA to use robots from Boston Dynamics in Los Angeles facility",
+      "excerpt": "Robots from Boston Dynamics - Stretch and Spot — to support efficiency & security at CEVA's 135,000-sq.-ft. warehouse",
+      "sourceUrl": null,
+      "webUrl": "https://www.stattimes.com/logistics/ceva-to-use-robots-from-boston-dynamics-in-los-angeles-facility-1350070",
+      "originalUrl": "https://www.stattimes.com/logistics/ceva-to-use-robots-from-boston-dynamics-in-los-angeles-facility-1350070",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.stattimes.com/h-upload/2023/10/13/56839-ceva-to-use-robots-from-boston-dynamics-in-los-angeles-facility.jpg",
+          "width": 2500,
+          "height": 1498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.stattimes.com/amp/logistics/ceva-to-use-robots-from-boston-dynamics-in-los-angeles-facility-1350070",
+      "cdnAmpWebUrl": "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/amp/logistics/ceva-to-use-robots-from-boston-dynamics-in-los-angeles-facility-1350070",
+      "publishedDateTime": "2023-10-13T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "air cargo",
+        "domain": "stattimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-artificial-intelligence-is-disrupting-higher-education.md",
       "title": "Artificial intelligence is disrupting higher education",
       "excerpt": "Traditional contact universities need to adapt faster and find creative ways of exploring and exploiting AI, or lose their dominant position.",
@@ -470,40 +556,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-12-deepmind-looks-at-ways-to-make-ai-training-less-of-a-power-drain.md",
-      "title": "DeepMind Looks at Ways to Make AI Training Less of a Power Drain",
-      "excerpt": "It's completely free and we guarantee you'll learn something new every day. DeepMind wants to trim the fat. Google's AI arm filed a patent application in recent months for a system to allocate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/deepmind-looks-at-ways-to-make-ai-training-less-of-a-power-drain",
-      "originalUrl": "https://www.nasdaq.com/articles/deepmind-looks-at-ways-to-make-ai-training-less-of-a-power-drain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-12T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-12-81-of-companies-have-generative-ai-teams-smaller-enterprises-lead.md",
       "title": "81% Of Companies Have Generative AI Teams: Smaller Enterprises Lead",
       "excerpt": "Smaller companies are leading the charge while larger enterprises lag behind, however. Executives at companies with $50-200 million in revenue personally use generative AI frequently, with 57% reporting using it weekly. Executives at larger organizations, however, distrust the technology, mainly due to accuracy concerns.",
@@ -594,6 +646,58 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-deepmind-looks-at-ways-to-make-ai-training-less-of-a-power-drain.md",
+      "title": "DeepMind Looks at Ways to Make AI Training Less of a Power Drain",
+      "excerpt": "Learn More DeepMind wants to trim the fat. Google's AI arm filed a patent application in recent months for a system to allocate computing resources... For more crisp and insightful business and economic news, subscribe to The Daily Upside newsletter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/10/12/deepmind-looks-at-ways-to-make-ai-training-less-of/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/12/deepmind-looks-at-ways-to-make-ai-training-less-of/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/750756/featured-daily-upside-image.png",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -1052,109 +1156,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp.md",
-      "title": "Entrepreneurship In The AI Era: Spearheading Transformation And The Essential Route To An MVP",
-      "excerpt": "For businesses looking to navigate the surging tide of AI, they'll need to map out their journey from the inception of an idea to the creation of an MVP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62a396a0ec5f519b6147255f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1339,
-          "height": 893,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/amp/",
-      "publishedDateTime": "2023-10-12T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-is-artificial-intelligence-right-for-your-business.md",
-      "title": "Is Artificial Intelligence Right For Your Business?",
-      "excerpt": "Artificial intelligence (AI) has evolved to become a cornerstone of the business landscape, driving transformational changes across industries. As a business leader, you will find yourself at a crossroads, contemplating whether to embrace AI and if so ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/10/12/is-artificial-intelligence-right-for-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/10/12/is-artificial-intelligence-right-for-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65008f371bd6db82125e7015/0x0.jpg?format=jpg&crop=1750,1312,x473,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/10/12/is-artificial-intelligence-right-for-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/10/12/is-artificial-intelligence-right-for-your-business/amp/",
-      "publishedDateTime": "2023-10-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-ab
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-about-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Saudi-China collaboration raises concerns about access to AI chips"
-    excerpt: "The US has expanded export licence requirements for graphics processing units made by Nvidia and AMD, preventing Chinese entities from accessing the cutting-edge chips that are vital in building generative AI models. But the Biden administration has ..."
-    publishedDateTime: 2023-10-24T08:58:00Z
-    webUrl: "https://www.ft.com/content/2a636cee-b0d2-45c2-a815-11ca32371763?sharetype=gift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "Chatbot Gone Awry Starts Conversations About AI Ethics in South Korea"
     excerpt: "The “Luda” AI chatbot sparked a necessary debate about AI ethics as South Korea places new emphasis on the technology. In Spike Jonze’s 2013 film, “Her,” the protagonist falls in love ..."
     publishedDateTime: 2023-10-26T23:59:00Z

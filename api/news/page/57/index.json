@@ -2,6 +2,136 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-09-18-amazon-unveils-new-cloud-storage-offerings-at-aws-storage-day.md",
+      "title": "Amazon Unveils New Cloud Storage Offerings at AWS Storage Day",
+      "excerpt": "Amazon Web Services AWS announced new features at AWS Storage Day, updating FSx for Lustre, air-gap backups for AWS Backup, and expanded AWS DataSync targets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/09/17/amazon-unveils-new-cloud-storage-offerings-unveiled-at-aws-storage-day/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/09/17/amazon-unveils-new-cloud-storage-offerings-unveiled-at-aws-storage-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65077956e2206c3c22fdab65/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/09/17/amazon-unveils-new-cloud-storage-offerings-unveiled-at-aws-storage-day/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/09/17/amazon-unveils-new-cloud-storage-offerings-unveiled-at-aws-storage-day/amp/",
+      "publishedDateTime": "2023-09-17T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-progress-or-peril-the-brave-new-world-of-self-driving-science-labs.md",
+      "title": "Progress or peril? The brave new world of self-driving science labs",
+      "excerpt": "The relentless march of technology has brought us to the doorstep of another unprecedented revolution: self-driving laboratories (SDLs). Picture a bustling lab, humming with activity but devoid of ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/technology/4205109-progress-or-peril-the-brave-new-world-of-self-driving-science-labs/",
+      "originalUrl": "https://thehill.com/opinion/technology/4205109-progress-or-peril-the-brave-new-world-of-self-driving-science-labs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/technology/4205109-progress-or-peril-the-brave-new-world-of-self-driving-science-labs/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/4205109-progress-or-peril-the-brave-new-world-of-self-driving-science-labs/amp/",
+      "publishedDateTime": "2023-09-17T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-wrongly-arrested-because-of-facial-recognition-why-new-police-tech-risks-serious-miscarriages-of-justice.md",
+      "title": "Wrongly arrested because of facial recognition: Why new police tech risks serious miscarriages of justice",
+      "excerpt": "The latest generation of police surveillance tools are overused, underregulated and often completely wrong, opponents tell Josh Marcus and Alex Woodward",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/wrongly-arrested-because-facial-recognition-191508983.html",
+      "originalUrl": "https://www.aol.com/wrongly-arrested-because-facial-recognition-191508983.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/a9a13a30e578ba01fc9dfffc05413da5",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-17T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-17-experts-say-artificial-intelligence-is-coming-into-the-workplace-faster-than-previously-thought.md",
       "title": "Experts say Artificial Intelligence is coming into the workplace faster than previously thought",
       "excerpt": "Artificial intelligence (AI) is growing in popularity in almost everything we see and touch. Now is the time for workers to get ahead and improve their skills to be a valuable commodity within the ...",
@@ -952,143 +1082,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-16-object-recognition-imaging-systems-market-research-report-on-regional-size-and-status-2023-2030.md",
-      "title": "Object Recognition Imaging Systems Market Research Report on Regional Size and Status 2023-2030",
-      "excerpt": "The Object Recognition Imaging Systems Market Report is an impressive PDF 115 pages long document that includes a comprehensive table of contents, a list of figures, tables, and charts, as well as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34637875/object-recognition-imaging-systems-market-research-report-on-regional-size-and-status-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34637875/object-recognition-imaging-systems-market-research-report-on-regional-size-and-status-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34637875",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34637875",
-      "publishedDateTime": "2023-09-15T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-16-honda-planning-self-driving-electric-vehicle-fitted-with-ai.md",
-      "title": "Honda planning self-driving electric vehicle fitted with AI",
-      "excerpt": "Honda Motor Co. said it is developing a self-driving compact electric car equipped with artificial intelligence (AI) that automatically picks up passengers at any location of their choosing. Honda ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asahi.com/ajw/articles/14760121",
-      "originalUrl": "https://www.asahi.com/ajw/articles/14760121",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://p.potaufeu.asahi.com/c996-p/picture/27207743/e21cf678151f1180730d954a38af462c.jpg",
-          "width": 660,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "朝日新聞社",
-        "domain": "asahi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-16-how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions.md",
-      "title": "How AI Is Helping Big Fleet Operators Cut Greenhouse Gas Emissions",
-      "excerpt": "The trend is accelerating as artificial intelligence and machine learning help fleet management services deliver new efficiencies that weren’t previously possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/",
-      "originalUrl": "https://www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6504e2b2ce4f66f9f328ff09/0x0.jpg?format=jpg&crop=780,439,x0,y193,safe&width=1200",
-          "width": 780,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/amp/",
-      "publishedDateTime": "2023-09-15T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

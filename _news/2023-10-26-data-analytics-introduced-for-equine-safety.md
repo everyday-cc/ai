@@ -51,15 +51,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Leading Insurance Company Recruits ‘AI Localization Analyst’"
-    excerpt: "Based in London as part of the AI Business Solutions group, the AI Localization Analyst will be tasked with adapting and optimizing Chubb’s AI systems for “specific cultures, languages and regions to ensure their successful implementation and adoption in different parts of the world.”"
-    publishedDateTime: 2023-10-24T08:20:00Z
-    webUrl: "https://slator.com/leading-insurance-company-recruits-ai-localization-analyst/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
   - title: "SAS draws from lengthy analytics history to build generative AI tools for expanding use cases"
     excerpt: "SAS was formed in the late 1960s as a consortium of eight universities in the southern U.S., with a mission to develop a statistical software package that could analyze agricultural data. Decades later, SAS is once again drawing on its lengthy analytics experience to prepare customers for the next chapter in artificial intelligence."
     publishedDateTime: 2023-10-24T19:11:00Z

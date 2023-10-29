@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "UK regulators report back on AI and Machine Learning consultation"
-    excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
-    publishedDateTime: 2023-10-26T12:24:00Z
-    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
-    type: article
-    provider:
-      name: Asset Servicing Times
-      domain: assetservicingtimes.com
-    quality: 56
-    images:
-      - url: "https://www.assetservicingtimes.com/assetservicesnews/images/ThursdayOctober2620231698319657.jpg"
-        width: 990
-        height: 640
-        isCached: true
   - title: "Artificial intelligence may help predict infection risks after implant-based breast reconstruction"
     excerpt: "Artificial intelligence (AI) techniques may provide a more accurate approach to predicting the risk of periprosthetic infection after implant-based breast reconstruction, reports a study in the Novemb"
     publishedDateTime: 2023-10-24T20:30:00Z
@@ -69,20 +55,15 @@ related:
         width: 2880
         height: 1925
         isCached: true
-  - title: "Apple could spend $4.75 billion on Artificial Intelligence in 2024"
-    excerpt: "Apple is looking to catch up with the likes of Microsoft and Google on Artificial Intelligence and the company is apparently planning to spend a"
-    publishedDateTime: 2023-10-24T08:26:00Z
-    webUrl: "https://www.geeky-gadgets.com/apple-could-spend-4-75-billion-on-artificial-intelligence-in-2024-24-10-2023/"
+  - title: "UK regulators report back on AI and Machine Learning consultation"
+    excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
+    publishedDateTime: 2023-10-26T00:00:00Z
+    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 37
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Apple-Store.jpg"
-        width: 2180
-        height: 1453
-        isCached: true
+      name: Asset Servicing Times
+      domain: assetservicingtimes.com
+    quality: 36
   - title: "Apple May Spend Over $5 Billion By 2024 On Servers In Major Generative AI Push"
     excerpt: "Ming-Chi Kuo expects Apple to spend 'at least' $620 million on servers in 2023 and an estimated $4.75 billion on servers in 2024."
     publishedDateTime: 2023-10-24T15:33:00Z

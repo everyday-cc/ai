@@ -41,20 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Saudi-China collaboration raises concerns about access to AI chips"
-    excerpt: "The US has expanded export licence requirements for graphics processing units made by Nvidia and AMD, preventing Chinese entities from accessing the cutting-edge chips that are vital in building generative AI models. But the Biden administration has ..."
-    publishedDateTime: 2023-10-24T08:58:00Z
-    webUrl: "https://www.ft.com/content/2a636cee-b0d2-45c2-a815-11ca32371763?sharetype=gift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
-        width: 619
-        height: 377
-        isCached: true
 
 secured: "kE1aGZuAjutfwW6ra8WQN9/HDolHGJ+HlFbkGvT3I5rrKBSxUWgokxTMWvYgAMWDabVtkG2EihFdzmxV6elQS1rMJFEPSsE5JGeZvzDjofeg1ir9L4TpryJ5osEJrN0+MVHKRFLqmt8+iLtG5mHd96HufSv2e1YTn2fe7PM0y5qCqfZ6ZlOZuVOYa7D6v6f6hfjjYbeiuGisxRrjZCDUXkrN/bq7sWVZvXK7WyNK4obpK4Lm7rF7J3qh9Iay5vNrM8D02eHCGiez/SVN1L5ADqv1BucaicTbbCnfrkIK3duSyXVDpfB9B4VYGK6Uy5FePu7PQvq5SiGhBxz6n5HVsQFIBuUhXpXOrG0A2YukT/A=;2J1/zK6Wd6t+XLUN3/5nbw=="
 ---

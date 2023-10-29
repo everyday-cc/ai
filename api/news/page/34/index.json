@@ -2,6 +2,133 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-10-04-seven-key-insights-on-graphql-trends.md",
+      "title": "Seven key insights on GraphQL trends",
+      "excerpt": "Seven key insights on GraphQL trends for the coming years based on learnings from GraphQLConf 2023.\nThe post Seven key insights on GraphQL trends appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/seven-key-insights-on-graphql-trends/",
+      "originalUrl": "https://www.ibm.com/blog/seven-key-insights-on-graphql-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T05:48:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-achieve-your-ai-goals-with-an-open-data-lakehouse-approach.md",
+      "title": "Achieve your AI goals with an open data lakehouse approach",
+      "excerpt": "Artificial intelligence (AI) is now at the forefront of how enterprises work with data to help reinvent operations to be more efficient\nThe post Achieve your AI goals with an open data lakehouse approach appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/achieve-your-ai-goals-with-an-open-data-lakehouse-approach/",
+      "originalUrl": "https://www.ibm.com/blog/achieve-your-ai-goals-with-an-open-data-lakehouse-approach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-common-grounds-unleashing-innovation-and-growth-through-partnership.md",
+      "title": "Common Grounds: Unleashing innovation and growth through partnership",
+      "excerpt": "At IBM, we believe we can make greater progress together. Our purpose is to be the catalyst that makes the world work better&#8212;and our partners are key to this mission. Together with our partners and clients, we work to solve the most complex challenges with AI and hybrid cloud. Last year, we launched",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/common-grounds-unleashing-innovation-and-growth-through-partnership/",
+      "originalUrl": "https://www.ibm.com/blog/common-grounds-unleashing-innovation-and-growth-through-partnership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-google-deepmind-open-sources-largest-ever-robotics-dataset.md",
       "title": "Google DeepMind Open-Sources Largest-Ever Robotics Dataset",
       "excerpt": "Google DeepMind has launched a new set of resources for general-purpose robotics learning after teaming up with 33 academic labs",
@@ -1023,144 +1150,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-mphasis-forms-strategic-technology-partnership-with-corestack.md",
-      "title": "Mphasis Forms Strategic Technology Partnership with CoreStack",
-      "excerpt": "Mphasis, (BSE: 526299; NSE: MPHASIS), an Information Technology (IT) solutions provider specializing in cloud and cognitive services, today announces",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231003982144/en/Mphasis-Forms-Strategic-Technology-Partnership-with-CoreStack",
-      "originalUrl": "https://www.businesswire.com/news/home/20231003982144/en/Mphasis-Forms-Strategic-Technology-Partnership-with-CoreStack",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat.md",
-      "title": "Why AI is teetering on the edge of a disillusionment cliff | The AI Beat",
-      "excerpt": "while reportedly “VCs dangle AI chips to woo founders,” who claim to know what humanity will go hog-wild for. That’s not enough. We need more than these vague pronouncements. For AI to succeed, humanity needs to get on board. And after decades of ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-03-at-2.45.29-PM.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-ai-has-always-had-a-hardware-problemuntil-now.md",
-      "title": "AI Has Always Had A Hardware Problem...Until Now",
-      "excerpt": "With such an unprecedented show of how generative AI can conduct very human-like conversations and provide (mostly) accurate answers, every other tech company from Microsoft to Google to Salesforce suddenly jumped into the fray with their products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/10/03/ai-has-always-had-a-hardware-problemuntil-now/",
-      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/10/03/ai-has-always-had-a-hardware-problemuntil-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651bebb5e15343b946b1459d/0x0.jpg?format=jpg&width=1200",
-          "width": 994,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/10/03/ai-has-always-had-a-hardware-problemuntil-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/10/03/ai-has-always-had-a-hardware-problemuntil-now/amp/",
-      "publishedDateTime": "2023-10-03T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

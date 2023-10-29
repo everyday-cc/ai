@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/cindygordon/2023/10/28/are-you-ready-for-l
 ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/10/28/are-you-ready-for-leading-and-sustaining-ai-responsibly-1/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/10/28/are-you-ready-for-leading-and-sustaining-ai-responsibly-1/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 90
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/653d7780074f968810f8b729/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"

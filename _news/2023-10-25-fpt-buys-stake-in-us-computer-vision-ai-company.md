@@ -9,7 +9,7 @@ ampWebUrl: "https://ampe.vnexpress.net/news/business/companies/fpt-buys-stake-in
 cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/business/companies/fpt-buys-stake-in-us-computer-vision-ai-company-4668913.html"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "FPT Announces Strategic Partnership with Landing AI, Advancing Artificial Intelligence Development and Education"
-    excerpt: "FPT, global technology firm headquartered in Vietnam, and Landing AI, the US's leading computer vision platform and artificial intelligence (AI) softw"
-    publishedDateTime: 2023-10-24T07:23:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231024035093/en/FPT-Announces-Strategic-Partnership-with-Landing-AI-Advancing-Artificial-Intelligence-Development-and-Education"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 30
 
 secured: "J+QoEjV3WMqP+lRzHRzJcensKgLmEvZkAkknqeWyBFwxpCrsBs0TxuKnaf3WflfXtLY5aLJgbJ4yGLoL2NPcUjQ2lCPS2nHqB4k5LGjhFzYQ4eFVe4rNDIp65BgrA0OcPAG/SmcSNvE5gJnlkcB29vj3Rb/1LWVs+gVj8XdUu8y3HdH+HGelfAxsHJs2JEgqwMOgUo+BgPKpO2jk5IqRXHjAo+8SKclXLUH3ABfaUdQHiQSzcl6q7WncigwGXEAxlQMDIpd087RCDTsmbsFAWtmT+n84rBDM8u4YjCbcxEEXa1JhJppmgy1Nd/vCIn+gME9vks3EFNWR60w8It5Mfjv+C6UWzJkYx/kB8lhKJR8=;4VhiDbRqb6JoH7Cxl5qUdQ=="
 ---

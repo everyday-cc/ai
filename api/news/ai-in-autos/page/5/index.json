@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-19-chinas-capital-city-is-letting-the-public-take-fully-driverless-robotaxis-and-has-bigger-rollout-plans-startup-ponyai-says.md",
+      "title": "China's capital city is letting the public take fully driverless robotaxis — and has bigger rollout plans, startup Pony.ai says",
+      "excerpt": "As of Tuesday, the suburban Beijing city district of Yizhuang is officially letting local robotaxi operators — primarily Baidu and startup Pony.ai — charge fares for fully autonomous taxis ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/19/chinas-capital-city-beijing-has-big-plans-for-robotaxis-ponyai-says.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/19/chinas-capital-city-beijing-has-big-plans-for-robotaxis-ponyai-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107100111-1659921398203-Image_from_iOS_64.jpg?v=1695097460",
+          "width": 1919,
+          "height": 1279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/19/chinas-capital-city-beijing-has-big-plans-for-robotaxis-ponyai-says.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/19/chinas-capital-city-beijing-has-big-plans-for-robotaxis-ponyai-says.html",
+      "publishedDateTime": "2023-09-18T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-engineering-whistleblower-explains-why-safe-full-self-driving-cant-ever-happen.md",
       "title": "Engineering whistleblower explains why safe Full Self-Driving can't ever happen",
       "excerpt": "Pulled from the pages of science fiction, self-driving cars seem to be on the way to becoming real. Cruise and Waymo are expanding their reach with their autonomous taxi experiment and Tesla ...",
@@ -1255,40 +1308,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-ai-seeps-into-everyday-life-in-china.md",
-      "title": "AI seeps into everyday life in China",
-      "excerpt": "The country's strategic rivalry with the United States is threatening to curtail its ambitions. Read more at straitstimes.com.",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/asia/east-asia/ai-seeps-into-everyday-life-in-china",
-      "originalUrl": "https://www.straitstimes.com/asia/east-asia/ai-seeps-into-everyday-life-in-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-10T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

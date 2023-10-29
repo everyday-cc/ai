@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cisco’s Patel: Our AI, Networking Prowess Makes Webex ‘Categorically The Best’ Collaboration Platform"
+    excerpt: "The Cisco Webex collaboration platform is getting more powerful because it’s leveraging the strength the tech giant has in AI, networking, security and observability, Cisco Systems’ executives said at WebexOne 2023."
+    publishedDateTime: 2023-10-25T16:01:00Z
+    webUrl: "https://www.crn.com/news/networking/cisco-s-patel-our-ai-networking-prowess-makes-webex-categorically-the-best-collaboration-platform"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 24
+    images:
+      - url: "https://www.crn.com/resources/0286-1950de30a932-bb766d19010d-1000/genai_on_display_at_webexone_2023.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "JsOT0mU78ZJamVdo/x+CZKGTDf5UjavZt0hbd73t3M2BfEXgvornBsvcTEOXsmJ52NXbjI7Z5DD0MLMClErDbMyfH7RatbakAUzDutGjtxtnQadjkyubBv7+wJyoQrmc7oS77RlcgKl+naFpQ9w/j1f5zwjWHJ9NDJR5pCVcJRMmJPg2qFp2e9QqCa49LtCuihaRw8JaAiPVcCraz2/4m1xhq8UQU7qprIRBIOAUjXJFmV/DA3m5lmajdQCMmQ7J4C6JETAEUGVrEBDxZJXgUFK58veP06igq2J15wz2EjLrgZMS75X7ESn9I9swh/ADTr73YxzpE5qHbFuP34ZVLih17LLssWjdpdVDq6HCzS4=;mmcmbwH8NRC2Z68EjSTwLA=="
 ---

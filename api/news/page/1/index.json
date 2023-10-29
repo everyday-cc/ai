@@ -10,7 +10,7 @@
       "originalUrl": "https://www.thesun.co.uk/tech/24560289/police-facial-recognition-technology-criminals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -53,7 +53,7 @@
       "originalUrl": "https://dunyanews.tv/en/Technology/766358-As-baby-boomers-retire,-German-businesses-turn-to-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -96,7 +96,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/10/28/are-you-ready-for-leading-and-sustaining-ai-responsibly-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -135,7 +135,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -143,8 +144,8 @@
       "title": "Major UK retailers urged to quit ‘authoritarian’ police facial recognition strategy",
       "excerpt": "Human rights campaigners say the Pegasus initiative wrongly criminalises people of colour, women and LGBTQ+ people",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy?ref=upstract.com",
-      "originalUrl": "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy?ref=upstract.com",
+      "webUrl": "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy",
+      "originalUrl": "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy",
       "featuredContent": null,
       "highlight": null,
       "heat": 78,
@@ -163,7 +164,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy",
-      "publishedDateTime": "2023-10-28T08:08:00-07:00",
+      "publishedDateTime": "2023-10-28T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -187,6 +188,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-28-tesla-faces-automated-driving-rival-in-geely-and-baidu-ev.md",
+      "title": "Tesla Faces Automated Driving Rival in Geely and Baidu EV",
+      "excerpt": "Competition is intensifying in China's automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/10/28/1600x900/tesla_ap_1698454433725_1698454450395.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html",
+      "publishedDateTime": "2023-10-28T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -355,7 +399,7 @@
       "originalUrl": "https://indiaeducationdiary.in/ai-for-health-institute-emerges-to-foster-the-expanding-intersection-of-artificial-intelligence-and-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -386,58 +430,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-28-geely-and-baidu-officially-launch-jiyue-01-robocar-with-ai-and-voice-activated-parking.md",
-      "title": "Geely and Baidu officially launch JiYue 01 ROBOCAR with AI and voice-activated parking",
-      "excerpt": "Just over two months after announcing a restructuring of its business partnership to bring its AI-powered 01 ROBOCAR to",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/10/27/geely-baidu-launch-jiyue-01-robocar-ai-voice-activated-parking-ev-china/",
-      "originalUrl": "https://electrek.co/2023/10/27/geely-baidu-launch-jiyue-01-robocar-ai-voice-activated-parking-ev-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/10/01-ROBOCAR-debut.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -501,7 +493,7 @@
       "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -605,7 +597,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/elevate-your-marketing-solutions-with-amazon-personalize-and-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 439,
+      "heat": 429,
       "tags": null,
       "images": [
         {

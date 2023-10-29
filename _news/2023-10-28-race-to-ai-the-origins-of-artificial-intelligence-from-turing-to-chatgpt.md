@@ -3,12 +3,12 @@ category: news
 title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
 excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
 publishedDateTime: 2023-10-28T12:47:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
-webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+originalUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?trk=public_post_comment-text"
+webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?trk=public_post_comment-text"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 type: article
-quality: 70
+quality: 72
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -162,6 +163,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "ha7vIVZKvNtczi55dLgxB3l5N1qwltfbqfESrBKjy7/m0CZtpt9yEhXnBIkw1p8dCHmvFn/vnCHdfQs78W5qoYEOZ6Z+X4mR3vXMriooz1qdIWA90s/SG5ikZhMgBpcqpRW6JUEemjBzdiTjv8IhiIycXGf5GD4fkG/7d1zOV7TGRjJKdL2YsvWuiw4tjwPAtCuFzPayJP6ksiyTn2WhOwlgdICEWVdwU2um99FA1/njxmMd3rr5TCgKB1A9Xxgctuz0pl8/cEz9reZgA/AN3cHFOO9fe1HI/vxIziNX7IycDVYIVl1ivNZCxNYvEvFPVbwmeS5++wXLGcjRHdJny++gVHVNfCNMvSlUSlptILw=;P2DwiNFvC6XIw6Xx6ZDtxA=="
+secured: "q0h01S8RXGH12ZO8Ehyr41IzbHGxpFfUwop0SQtG2+3rfLG9wqwpcD5rufHVHk5gb/7oE6k7qKJI73hmMk3rjGzZI4DPMSXgxmylqjCyFtoLVy5JcOGZaU92LBXfW6Fqmi9HMGzc1XZBdjuLdJYYTIF15rkzIxTXfu+A5cUstG96len6zR35y07SAiquCtv58oZD7xdlIKHTEDEmrfiQZvKUjM68xqQyNlV9RhFbYh1jktdTu5MgUXnPA/14J0Tvyb8wETXIWC2+DO3t0kiksmG5QJL5z7+rv1zXnScN4xjp6/OkRpUCnCsuSGQD/OjWvWTqFm8oZyk6IwTRwKTdIsXwWRQ+W7UAusX0S03oZw0=;j+I8zTZL+UvPC598Emk3pg=="
 ---
 

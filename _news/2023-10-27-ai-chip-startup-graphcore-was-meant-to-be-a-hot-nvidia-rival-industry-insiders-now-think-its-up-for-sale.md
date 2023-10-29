@@ -41,22 +41,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 42
-  - title: "Lambda and VAST Data partner to accelerate AI training across public and private cloud, leveraging NVIDIA technology"
-    excerpt: "Dubai, United Arab Emirates – VAST Data, the AI data platform company and Lambda, a leading Infrastructure-as-a-Service and compute provider for public and private GPU infrastructure, today announced a strategic partnership that will enable the world's ..."
-    publishedDateTime: 2023-10-24T07:30:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/lambda-and-vast-data-partner-to-accelerate-ai-training-across-public-and-private-cloud-leveraging-nvidia-technology-yw4kushl"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/lambda-and-vast-data-partner-to-accelerate-ai-training-across-public-and-private-cloud-leveraging-nvidia-technology-yw4kushl?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/lambda-and-vast-data-partner-to-accelerate-ai-training-across-public-and-private-cloud-leveraging-nvidia-technology-yw4kushl?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 36
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OGUwODc2N2YtMzFhOC00/0/renen-hallak_ceo_vastdata-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "A8T4+IfRM4LV4h8W3rrBqj3uOrQ4WAKr6if76LrwYk0XUxPh3HjuWxsJJP2fq1b/GLjB1UMP43B2LVXshcQw0q7xU42c9caU+N8AgWwbszmfo1dmdbfQcXAUK7FUad37meyt1JSCpbO80c7pZtYwattv4KEjH2O6eTWqE4JyQ1oopADgSghMmnCxZZMdnSNYBBjKv1Zp2Eq6apYuX8ZtzfPO10FLpa/Ikd+m0Trf1paB22N3ASAK40YAVPtzQ7Vlm+PDIFbxcTjQ362UPIOnxFBr0GAFho11+YMqgdGzRPwMCah8Js5eaHrsECo1rGs2jNOy8AIIqCQXYZ39gOiKXbpn8Sn6klZKGPAHwCwIb9V4bzOgL99WgiO0lKklh6Wz6H46+Z55+Reg8gRi8PdbGcfN5RiCaeYTxuJ5gjk5qplkKgLsa4xJ8Fr+d4WIJBhTjIUjth2lGgW/pxmlFOmv+ISBGafhSo0ASFzf4X+3U9Py2HPJY2jNvC10eLhYIG1LAYFiw5EcxMiG5pRV5G5g5A==;kShJ6zWTBjnLHtmrBO84hg=="
 ---

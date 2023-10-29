@@ -2,6 +2,40 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-08-02-robot-manicures-and-eyelash-extensions-how-ai-is-attracting-new-beauty-industry-customers.md",
+      "title": "Robot manicures and eyelash extensions: How A.I. is attracting new beauty industry customers",
+      "excerpt": "How artificial intelligence and robotics are transforming the beauty ... In San Francisco, a startup called Clockwork has set out to revolutionize the beauty service experience with its A.I ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/robot-manicures-and-eyelash-extensions-how-a-i-is-attracting-new-beauty-industry-customers/",
+      "originalUrl": "https://www.cbsnews.com/news/robot-manicures-and-eyelash-extensions-how-a-i-is-attracting-new-beauty-industry-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-how-artificial-intelligence-and-robotics-are-transforming-the-beauty-industry.md",
       "title": "How artificial intelligence and robotics are transforming the beauty industry",
       "excerpt": "The market for A.I. in beauty and cosmetics will hit more than $13 billion dollars by 2030, according to one study. Companies are already rolling out A.I. robots that aim to make services like manicures quicker and cheaper.",
@@ -1299,49 +1333,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-marc-raibert-on-the-future-of-robotics.md",
-      "title": "Marc Raibert on the future of robotics",
-      "excerpt": "In this episode, we replay the keynote fireside chat between Steve Crowe and Marc Raibert from the 2023 Robotics Summit & Expo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/marc-raibert-on-the-future-of-robotics/",
-      "originalUrl": "https://www.therobotreport.com/marc-raibert-on-the-future-of-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/marc-raibert-SC-RS23-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -64,15 +64,6 @@ related:
         width: 860
         height: 520
         isCached: true
-  - title: "Healthcare AI regulation is coming into focus"
-    excerpt: "Stakeholders are calling on the FDA to provide more concrete guidance in how clinical AI applications should be implemented."
-    publishedDateTime: 2023-10-24T09:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/ai-healthcare-federal-regulation-fda-onc"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
   - title: "AI Advertising Announces Publication of “AI for Advertising Blueprint” White Paper with the Marketing Artificial Intelligence Institute"
     excerpt: "AI Advertising Announces Publication of “AI for Advertising Blueprint” White Paper with the Marketing Artificial Intelligence Institute"
     publishedDateTime: 2023-10-27T16:31:00Z

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "indie Semiconductor Launches Breakthrough Computer Vision Processor"
-excerpt: "The SoC provides computer vision processing that can run a range of algorithms, enabling ADAS functions including pedestrian detection, object detection, blind spot detection, cross traffic alerts ..."
-publishedDateTime: 2023-10-24T16:33:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231024598737/en/indie-Semiconductor-Launches-Breakthrough-Computer-Vision-Processor"
-webUrl: "https://www.businesswire.com/news/home/20231024598737/en/indie-Semiconductor-Launches-Breakthrough-Computer-Vision-Processor"
+excerpt: "indie Semiconductor (Nasdaq: INDI), an Autotech solutions innovator, has expanded its automotive camera video processor portfolio with the commercial release of iND87540, a highly integrated system-on-chip (SoC) that enables viewing and sensing capability at the vehicle's edge."
+publishedDateTime: 2023-10-24T15:41:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/10/24/9904313.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/10/24/9904313.htm"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
@@ -38,6 +38,6 @@ related:
       domain: imveurope.com
     quality: 18
 
-secured: "tu9BzFBLkX35cJBy5CEaeZ5YTOD/ckI3mcup7aPQaELyNN1rgqr7oGtbI5HYcPHVar/r3HB2CRiiC74QNdyVTouVLKyoeUEPjmPKcb/RfhZmcrG5HNQeCQx0MF+3OYrP7cgVFghwLp5nj60XdLrRWvzOMKZD7Rcj3E4iNl4fdLKMMTuE2JVjRBRnTUTB9wjurLCf3uSAzZqUD2mUMaEickMsHShlawhFj53AZQ+GYBCspUVg9VhMzWDbiWvZ5V0BhXDIS3fXabaF76iYmFG7KpVikNgmpjamNz+aQFTg0rqwSBzgz81YpAEJF7R3a00bjhvmhNgSsujgTiJXAgh/bOoJ5s9O23Pou7vKgz2beD4=;4y922HBbkCU8/t0ywcS4EA=="
+secured: "BmHLhjEdATHGqE/R21JRZ7OOQ9vbQWxIAB5n+S3vDCbfFchV2+ElAYHZv+cfvc6+yWTj3NF1jbORaxZWFGCRuYuOOzxRNN2OX4mBLGheWMJJbxRAq97THyIBKv7Xu5Zhpj2T7gAydfQzev7KNnUFkGqUWTRJThd/kMzbec+x+eStDkzR4zf4qzGLse88z6x9jAjAOSNg1JoUc03H1GDTfCtBhmgemsi0q35jkxm3DD+OjJrovK1qk/83sB3t1lF/Ij+sZUSu0/t/cdlD33sphV7dQpBG0+d0EAMSYALNxR50528h3hfGu0kIaWDrgwC8/d6srr4bcMNmtKluAZLt18SQpIahAiOo9Ed1frbi5XU=;0f/SiLtfrp1ebxuhL6S/Lg=="
 ---
 

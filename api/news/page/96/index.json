@@ -2,6 +2,153 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2023-08-22-will-generative-ai-make-the-digital-twin-promise-real-in-the-energy-and-utilities-industry.md",
+      "title": "Will generative AI make the digital twin promise real in the energy and utilities industry?",
+      "excerpt": "A digital twin is the digital representation of a physical asset. It uses real-world data (both real time and historical) combined with engineering, simulation or machine learning (ML) models to enhance operations and support human decision-making. Overcome hurdles to optimize digital twin benefits To",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-promise-real-in-the-energy-and-utilities-industry/",
+      "originalUrl": "https://www.ibm.com/blog/will-generative-ai-make-the-digital-twin-promise-real-in-the-energy-and-utilities-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-21-at-9.48.15-AM.png",
+          "width": 1164,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt-the-new-york-times.md",
+      "title": "Microsoft to Invest $10 Billion in OpenAI, the Creator of ChatGPT – The New York Times",
+      "excerpt": "Microsoft said on Monday that it was making a “multiyear, multibillion-dollar” investment in OpenAI, the San Francisco artificial intelligence lab behind the experimental online chatbot ChatGPT. The companies did not disclose the specific financial terms of the deal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/686505/microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt-the-new-york-times/",
+      "originalUrl": "https://www.inferse.com/686505/microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt-the-new-york-times/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-1018.png",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-oneplus-seems-to-be-testing-several-generative-ai-powered-tools.md",
+      "title": "OnePlus seems to be testing several generative AI-powered tools",
+      "excerpt": "OnePlus' ideas for generative AI include a short video creation app, a personal education app, and more. OnePlus is surveying users in North America, Europe, and India to ask about the usefulness of new generative AI tools. The AI solutions include a video creation app, an education app, a caption generator, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/oneplus-generative-ai-features-3356957/",
+      "originalUrl": "https://www.androidauthority.com/oneplus-generative-ai-features-3356957/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2019/05/OnePlus-7-Pro-back-logo.jpg",
+          "width": 1919,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T01:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization.md",
       "title": "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization",
       "excerpt": "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ...",
@@ -980,135 +1127,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-google-tests-ai-assistant-that-offers-life-advice.md",
-      "title": "Google Tests AI Assistant That Offers Life Advice",
-      "excerpt": "Google is testing generative artificial intelligence (AI) technology programmed to serve as a life coach following the merger of its U.K.-based DeepMind research laboratory with its Brain AI development team in Silicon Valley.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice/fulltext",
-      "originalUrl": "https://cacm.acm.org/news/275606-google-tests-ai-assistant-that-offers-life-advice/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-deepminds-ai-life-coach-can-be-your-new-personal-advisor.md",
-      "title": "DeepMind’s AI Life Coach Can Be Your New Personal Advisor",
-      "excerpt": "DeepMind, the AI arm of tech giant Google, has developed an innovative project with the potential to serve as your personal life coach. This groundbreaking initiative leverages the power of generative AI to carry out an array of professional and personal ...",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/news/deepminds-ai-life-coach-can-be-your-new-personal-advisor/",
-      "originalUrl": "https://techreport.com/news/deepminds-ai-life-coach-can-be-your-new-personal-advisor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techreport.com/wp-content/uploads/2023/08/shutterstock_2126090702_Easy-Resize.com_.jpg",
-          "width": 1280,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-bingx-announces-strategic-investment-in-ai-and-web3-startup-moonbox.md",
-      "title": "BingX Announces Strategic Investment in AI and Web3 Startup Moonbox",
-      "excerpt": "Through its investment arm, Bing Ventures, BingX has strategically invested in Moonbox, a pioneering AI and Web3 startup. Moonbox has a unique approach to reshaping the digital landscape. Licensed to use the intellectual property of most popular classic ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/bingx-announces-strategic-investment-in-ai-and-web3-startup-moonbox-1032570458",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/bingx-announces-strategic-investment-in-ai-and-web3-startup-moonbox-1032570458",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2190285/1920.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

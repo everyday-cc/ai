@@ -121,6 +121,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Policing minister urges forces to double use of facial recognition software"
+    excerpt: "It comes despite a cross-party group of MPs and peers calling for the use of live facial recognition technology to stop immediately."
+    publishedDateTime: 2023-10-28T23:01:00Z
+    webUrl: "https://www.aol.com/policing-minister-urges-forces-double-230100510.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Gv7ibKR0n33629I2u0B3ZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/852d31ebe147c4c57fa930c26e662ac1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Universal Orlando Resort Tests Facial Recognition Technology for Guest Entry"
     excerpt: "Universal Orlando Resort has begun testing a new facial recognition technology, dubbed “Photo Validation,” as a potential replacement for the current thumbprint scan used at park entrances. The technology is designed to streamline park operations"
     publishedDateTime: 2023-10-28T22:46:00Z
@@ -159,6 +173,6 @@ related:
       domain: echo-news.co.uk
     quality: 19
 
-secured: "kRLmB6tWVHGQJWluIZX5k03eD58YjTlYLbaCYGxGZd3HAVnWJPyyEjTkvCINg6yzI2Wl2BtMvn/C/ALeFCrSJNama8/Agu/54mFRtAsWBST3PrzUJRntarxp5neAnQCz8Z12LpC/4TINaZRlj917+mcW6PSUZrYrWkAyhS8/Qi66oZP1buflhVWLdFmb0CDO/ez1IqwfdBfFVH/7Euo/mCR4c2mH07HotqNmzWcWJ20TiuR8Ic2Ra+nXFcxhDb4tjeVg0VaPmGBewSOCufYx7qea66SALRb+pIu6KD6951exWgADOu4EDHlvN+fGPW5MUyn4rgirDRP9CP+7UEEFCfS39+z4Lnj0j5wPQjdXmCI=;chGe2uLQbvG61XkiMnfRKg=="
+secured: "XHgu1Km26tbAycV9gEmEMSmnrqSUl+qHmP8qzIKXgqHC6vbHbUch0F8vf7OREjn8R56Mw50zbSt/V0+y2ShC5AxR1evUMd/ZBJcpuQhEVgPZtN4GrIBJEFSfSuYnJHZyF73yZ+S4u/B5Gm/qDSQxBPxuMGxFCPYGOSD1qdNM+NOx8Gd16qdC+8GN8Ii/ICYh+f2SkmWiCRYFsvcchM7jakgaMp2ojTVkeE+ScJg2PtiDYqQ6o3BEUtvEpJPU4GS6KqHYUkbs0OEm4yCBDFqV3JRPccT8Ues7GShuHfnuuX3VjGJtLy1I/Bg4evOkcMOIzs9eSksKxzi0GxC1mx4iwvcyxQpLANSYq2d7Rt8PLfjIGSfyo7cdmrSAFDR7kO5IX85PfRsjGkUtCKqvJKRAgeZasKaToXIkkBZ4a0w41xkwcAKBZdfW75sQakT51eS/Sa7uaZvLVcVotSv+sEjN5g/bPTz0s9zAPv17YihtaRnEDiE5Vvp5+QAyQkHxCtEo4HRnhTCwWz93IvBLBvYXHA==;UjUoKyQfAgZcb9lOrpjzXw=="
 ---
 

@@ -25,14 +25,14 @@ related:
   - title: "UN chief appoints 39-member panel to advise on international governance of artificial intelligence"
     excerpt: "U.N. Secretary-General António Guterres has announced the appointment of a 39-member global advisory panel to report on international governance of artificial intelligence and its risks, challenges and key opportunities."
     publishedDateTime: 2023-10-28T12:29:00Z
-    webUrl: "https://wcfcourier.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_e9588896-9394-5125-a247-39478f3e5fb5.html"
+    webUrl: "https://www.stltoday.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_f104e140-35c2-5225-b64d-7a01bae73259.html"
     type: article
     provider:
-      name: The Waterloo-Cedar Falls Courier
-      domain: wcfcourier.com
-    quality: 25
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 23
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/e/95/e9588896-9394-5125-a247-39478f3e5fb5/653bc599f35bc.preview.jpg?crop=1747%2C918%2C3%2C85&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/10/f104e140-35c2-5225-b64d-7a01bae73259/653bc59991b54.preview.jpg?crop=1747%2C918%2C3%2C85&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

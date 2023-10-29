@@ -2,6 +2,101 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-10-10-supernova-festival-how-massacre-unfolded-from-verified-video-and-social-media.md",
+      "title": "Supernova festival: How massacre unfolded from verified video and social media",
+      "excerpt": "They had gathered in a remote area of southern Israel for the Supernova festival - an event that had promised dance, music, art and drinks at a secret location. Ticket holders were told, nearer the time, to head to a site north of the Re'im kibbutz, about 6km (3.7 miles) east of Gaza. The party's organisers promised a \"journey of unity and love\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/world-middle-east-67056741?trk=public_post_comment-text",
+      "originalUrl": "https://www.bbc.co.uk/news/world-middle-east-67056741?trk=public_post_comment-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/12B67/production/_131374667_97b713fd-bb80-4987-b17a-49008c8054fb.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/world-middle-east-67056741.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-middle-east-67056741.amp",
+      "publishedDateTime": "2023-10-10T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine.md",
+      "title": "Adobe’s Project Stardust is a sneak preview of its next-gen AI photo editing engine",
+      "excerpt": "The latest version of Adobe's Project Stardust AI photo editor already thoroughly leaked earlier this month, but at its MAX conference, the company now",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine/",
+      "originalUrl": "https://techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/04/adobe_logo.jpg?resize=1200,725",
+          "width": 1200,
+          "height": 725,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine/amp/",
+      "publishedDateTime": "2023-10-10T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-the-chipmaker-powering-the-ai-revolution-has-canceled-a-2500-person-conference-in-tel-aviv-due-to-the-israel-hamas-war.md",
       "title": "The chipmaker powering the AI revolution has canceled a 2,500 person conference in Tel Aviv due to the Israel-Hamas war",
       "excerpt": "Nvidia's AI Summit was scheduled for 15 and 16 October with speakers from Microsoft, Amazon Web Services, and Lenovo.",
@@ -1069,92 +1164,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-us-tech-company-raises-funding-to-build-swarming-robot-boats.md",
-      "title": "U.S. Tech Company Raises Funding To Build Swarming Robot Boats",
-      "excerpt": "Drone boat makers Saronic today announced today a new funding round to help develop and mass-produce large numbers of autonomous boats for the U.S. Navy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2023/10/10/us-tech-company-raises-funding-to-build-swarming-robot-boats/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2023/10/10/us-tech-company-raises-funding-to-build-swarming-robot-boats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65250764b82b860c469297a6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2023/10/10/us-tech-company-raises-funding-to-build-swarming-robot-boats/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2023/10/10/us-tech-company-raises-funding-to-build-swarming-robot-boats/amp/",
-      "publishedDateTime": "2023-10-10T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-hive-digital-provides-update-on-gpu-infrastructure-for-ai-and-hpc.md",
-      "title": "HIVE Digital Provides Update on GPU Infrastructure for AI and HPC",
-      "excerpt": "HIVE President and CEO Aydin Kilic stated, \"We're on track to have 3,200 GPUs, mostly powerful Nvidia A40s, up and running in the AI/HPC space by the end of October.\" Mr. Kilic continued ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/hive-digital-provides-update-on-gpu-infrastructure-for-ai-and-hpc-2023-10-10",
-      "originalUrl": "https://www.nasdaq.com/press-release/hive-digital-provides-update-on-gpu-infrastructure-for-ai-and-hpc-2023-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

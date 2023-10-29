@@ -1,20 +1,28 @@
 ---
 category: news
 title: "New Relic Named an APM Leader by GigaOm"
-excerpt: "\"New Relic presents a strong APM solution embedded within a platform of other tools. Full stack analysis to the code level will be appealing to developers, while other features of the platform may be useful to IT operations in general,\" wrote GigaOm Principal Analyst Ron Williams."
-publishedDateTime: 2023-10-20T15:56:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/10/20/9902785.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/10/20/9902785.htm"
+excerpt: "New Relic is closest to the center of the 2023 GigaOm Radar for APM, representing the highest overall value to customers and its leadership in innovation New Relic NEWR, the all-in-one observability platform for every engineer, announced it has been named ..."
+publishedDateTime: 2023-10-20T15:02:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/10/b35351970/new-relic-named-an-apm-leader-by-gigaom"
+webUrl: "https://www.benzinga.com/pressreleases/23/10/b35351970/new-relic-named-an-apm-leader-by-gigaom"
+ampWebUrl: "https://www.benzinga.com/amp/content/35351970"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35351970"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "2mMIM+45KSgHnZPhao3hlvSg/V//cKdMSQ9se+L3nLNMK2PQS8engoo3/5ae3fsP8rlBI0WTb+bm9YnHxk79/PAP8IeZLpziYeiBfYa/UUK6xxJlK1rLvSjCYpU6+gyRiObiDhRNuYVFxjTivSKKauI3sic6Bq8KyZ5H0FGAaSP0P2++5Ij2yDVdBoospA55UlmP44HmBBXibvB6uQn65z/2KrbxjgB58cvxCpnSBDRjeixT9563SBPtQpkVaQkf01jyX8xyIuJohxQcyjM1MyHyJBIrtcp0y8iFhvt00fXwiO4rJtNAOnE4xJhXfluIwKDzWyJViiCVgz6bW0+CeMXZv/E4pfXi+ZJGvkn0JlM=;+aQtzN1tvCR+ZFUM9tmg1g=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "cRUBvMDDDQl+2RRRpLM0YOr2V48UaT//Yfocm0Sjia1+woeUC6LL2UcHR/e0MhV21c92bR4UJksyMG+B0k/eQYzHyEp6drbUCe2Zrm1gLc0w8i8jUkAhvx8QNMkffyRfymCwNUZT/xKkIPXAcyEmnSXZnN2TEMia+knN6OQENbQqH7tl/IyhJ4Gp4F389aY1JwVxDf3D0VmEYlg1UmLk/CmR7k+aP5YN2qg19qLQw1lTNpMqe4eO2V1ECEqzqOpzSC0ABzuPIr5FgBa+0LRtefiJbYmDYvvke67SxXVGz5xepsy66Rc6eLPk0DtqFXiyXgGCzME58LQQx1c9aOs1FbKs5bjI1kwy0d512vDnqPM=;e36/JIzbiyb70SSzZJI7UQ=="
 ---
 

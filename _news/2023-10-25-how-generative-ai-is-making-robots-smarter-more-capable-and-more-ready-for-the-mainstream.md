@@ -38,15 +38,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Generative AI and resilient hybrid cloud systems"
-    excerpt: "Generative AI brings in significant productivity gains when augmented with traditional AI and automation for many of the IT Operations tasks.\nThe post Generative AI and resilient hybrid cloud systems appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-24T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/generative-ai-and-resilient-hybrid-cloud-systems/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
   - title: "How Generative AI Changes The Way We Work"
     excerpt: "GenAI’s potential extends beyond mere content generation. Consider warehouses, where delivery notes need to be matched with orders. It can automate this process, reducing manual labor. Productivity is also increased when AI is used for invoice and payment matching, making it faster, more efficiently, and error resistant."
     publishedDateTime: 2023-10-25T11:30:00Z

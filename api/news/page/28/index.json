@@ -2,6 +2,100 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-10-09-ai-and-ethics-with-animesh-mukherjee.md",
+      "title": "AI and ethics with Animesh Mukherjee",
+      "excerpt": "He has received many notable awards and fellowships including the Facebook ethics for AI research award, India, Google course award for the course AI and Ethics, IBM faculty award, Humboldt Fellowship for Experienced Researchers, Simons Associateship ...",
+      "sourceUrl": null,
+      "webUrl": "https://physicsworld.com/a/ai-and-ethics-with-animesh-mukherjee/",
+      "originalUrl": "https://physicsworld.com/a/ai-and-ethics-with-animesh-mukherjee/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://physicsworld.com/wp-content/uploads/2023/10/Book-cover-image.jpg",
+          "width": 2102,
+          "height": 1449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Physics World",
+        "domain": "physicsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-clio-unveils-clio-duo-empowering-legal-professionals-with-ai-driven-innovation.md",
+      "title": "Clio Unveils Clio Duo: Empowering Legal Professionals with AI-Driven Innovation",
+      "excerpt": "\"The future of AI powered solutions start with privacy and security at their core,\" said Jonathan Watson, Chief Technology Officer at Clio. \"We are confident that with responsible data privacy guardrails in place, AI will transform every aspect of how ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/clio-unveils-clio-duo-empowering-legal-professionals-with-ai-driven-innovation-1032689348",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/clio-unveils-clio-duo-empowering-legal-professionals-with-ai-driven-innovation-1032689348",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2241332/Clio_Clio_Unveils_Clio_Duo__Empowering_Legal_Professionals_with.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers.md",
       "title": "Tesla Engineer Says ‘Full Self-Driving’ Name Isn’t Meant To Trick Buyers",
       "excerpt": "An engineer from Tesla has asserted that the car manufacturer did not name its suite of automated driving functions as ‘Full Self-Driving’ in an intentional move to make customers believe the system is more advanced than it currently is.",
@@ -701,6 +795,40 @@
       ]
     },
     {
+      "path": "_news/2023-10-09-soc-boosts-speech-recognition-systems.md",
+      "title": "SoC boosts speech-recognition systems",
+      "excerpt": "With the development and maturity of speech compression/ decompression and recognition, speech processing is becoming an important form of man-machine interface. Currently, these systems in laboratories are mostly large and complex. These implementations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/articles/15198/soc-boosts-speech-recognition-systems.html",
+      "originalUrl": "https://www.design-reuse.com/articles/15198/soc-boosts-speech-recognition-systems.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-text-to-video-retrieval-with-s3d-mil-nce.md",
       "title": "Text-to-Video retrieval with S3D MIL-NCE",
       "excerpt": "This tutorial demonstrates how to use the S3D MIL-NCE model from TensorFlow Hub to do text-to-video retrieval to find the most similar videos for a given text query. The model has 2 signatures, one for generating video embeddings and one for generating ...",
@@ -1041,145 +1169,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-08-google-claims-their-ai-innovation-far-beyond-rivals.md",
-      "title": "Google claims their AI innovation far beyond rivals",
-      "excerpt": "A company executive, while introducing their latest flagship smartphones, emphasized that Google's artificial intelligence technology has surged",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news",
-      "originalUrl": "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2023/10/08/thumbs/800x531/295624.jpg",
-          "width": 1600,
-          "height": 1062,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp",
-      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp",
-      "publishedDateTime": "2023-10-08T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sabah",
-        "domain": "dailysabah.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-08-cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip.md",
-      "title": "Cramer Says 'Will Not Sell' Nvidia Stock On 'Misinformation' About Microsoft AI Chip",
-      "excerpt": "Cramer shrugged off a report that said Microsoft is prepping to give Nvidia a run for its money with an in-house designed AI chip.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/equities/23/10/35137068/cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip",
-      "originalUrl": "https://www.benzinga.com/markets/equities/23/10/35137068/cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Nvidia,Investment,Growth,And,Profit,Trading,Concept.,Nvidia,Company,Logo.jpeg?width=1200&height=800&fit=crop",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35137068",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35137068",
-      "publishedDateTime": "2023-10-07T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-08-generative-ai-unleashed-charting-the-enterprise-future.md",
-      "title": "Generative AI Unleashed: Charting The Enterprise Future",
-      "excerpt": "Generative AI is rapidly emerging and represents a turning point for businesses in nearly every industry. Article offers a blueprint for leaders to ride this wave.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6521b9ec75d709eee0dd5adb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/amp/",
-      "publishedDateTime": "2023-10-07T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
