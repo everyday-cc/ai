@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/ai-for-health-institute-emerges-to-fo
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ai-for-health-institute-emerges-to-foster-the-expanding-intersection-of-artificial-intelligence-and-healthcare/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/ai-augmented-phishing-alert-showcase_image-4-a-23419.jpg"
         width: 860
         height: 520
+        isCached: true
+  - title: "MPAI Start New Project On 'AI For Health'"
+    excerpt: "MPAI, the international, non-profit, and unaffiliated organisation developing AI-based data coding standards has concluded"
+    publishedDateTime: 2023-10-29T05:53:00Z
+    webUrl: "https://menafn.com/1107323535/MPAI-Start-New-Project-On-AI-For-Health"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?555534"
+        width: 458
+        height: 250
         isCached: true
   - title: "AI Advertising Announces Publication of “AI for Advertising Blueprint” White Paper with the Marketing Artificial Intelligence Institute"
     excerpt: "AI Advertising Announces Publication of “AI for Advertising Blueprint” White Paper with the Marketing Artificial Intelligence Institute"

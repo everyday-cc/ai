@@ -2,9 +2,9 @@
 category: news
 title: "Nvidia said the U.S.'s new AI chip restrictions have already taken effect"
 excerpt: "New rules restricting Nvidia from selling even the chips it designed for the Chinese market in the country have now taken effect."
-publishedDateTime: 2023-10-24T19:54:00Z
-originalUrl: "https://www.bizjournals.com/sanjose/news/2023/10/24/nvidia-says-new-ai-chip-restrictions-in-effect.html"
-webUrl: "https://www.bizjournals.com/sanjose/news/2023/10/24/nvidia-says-new-ai-chip-restrictions-in-effect.html"
+publishedDateTime: 2023-10-24T21:13:00Z
+originalUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/10/24/nvidia-says-new-ai-chip-restrictions-in-effect.html"
+webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/10/24/nvidia-says-new-ai-chip-restrictions-in-effect.html"
 type: article
 quality: 33
 heat: -1
@@ -256,6 +256,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "ZFXXUWbujiXIR0xJtC0mUnbA4XxE4HkJffkCfpaqsCjxNAHeNkIFa72HglaWNo2KMln487ENwIPB9DyQxVifFEeavbD8G7n5WQ2seupLSi0QBMbRbdzFVddpoIzTDI8IdyQo+VEtn4rYPHlt/PvYDhJtViYeriqZAOMFvwN9+3kRxsnq83Q5GFwau2ioaAtobAkNhDqViD5gfPyyBThCnZcr6n6StCzNCcTTzfF75zSpJRd8iLgCKEzDaa1svad0QOryaOUwXn6YXEq0WS0kPBE2GPlq/QXUSdUMuX3EZFBljrK2kB8wLxxFZmFxdfFhIqojoIbPAww5+v7xAj1BVGz1IcddxOtc+FkM0uw9yo2yJA3pOsdgqmqZLMb/WNwxq2j4bmwhi5ncL0osnNTdjGQP/bdsY7Zl6YvfLivyrSQ8S+jKmdSVgPd8AlD6wWMcgQ5f3L+GN6TNmUFxo7jDnDTpaSKKoUA9UACjFKKwdC/DZlDuylA0WwIvyVtaEh/5/N7FzunpxLfXQSNsrGamew==;dt/GLtielcJ4uuZFjO1ISg=="
+secured: "1GeENTce4t3h3rHcodKDoShuIhmHIryLkvD1qv4r/xIdUteGkI3AqcajyDjZMXNkvu4DuVB4qqr4wfNXNFwouVYtD6h34VNX0+RcNzPM58q5IpwVQl7e28tiuh/XwvlX4Xkwq6/wjA9Ug7BcpIzibdV6Hp1DteIRj3eCje64zP0WuthXX3H/7wNZw2DBkhh68QKt5w+meMULXj12Bvc5WTqszxT03E6d33a2I433W6gFXCSIXePX84cDo0exwtypg9W+TXo0eDj2g32u0FCm/VwBo5cIss8cWbwk+bhwCcoejjX+Ban/PKJTYlEXeIaig2ttUAT3YmqbUqKtVVIdrnpmvbzqgIiJAHdCR7s7TMl4Cu/Q/AIasnMRcNubelntBR3RoNQ1p+BhCackgVxWW1pfqhHyuKmwhnlOWFlInjubAWtITx6kH9Q06XBQ6nJ4hRCzdernFP+UaE9IR3YU9fWevF2YImPFM5oH9D5X2nqdUK0QIGna/DBarMDFRX4uLtGbffdlRoRRF5JyWtFuiA==;Cw1R3RLPerAgFxwR9weq9g=="
 ---
 

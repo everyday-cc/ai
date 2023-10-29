@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Three arrests after force trials facial recognition"
-excerpt: "Facial recognition technology can be used by police to scan large groups of people and by running photos through an image database known as a \"watch list\". Chris Philp, MP for Croydon South and minister for crime, policing and fire said the technology was being used by the Metropolitan Police at large events such as football matches."
-publishedDateTime: 2023-10-26T06:50:00Z
-originalUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o?at_medium=RSS&at_campaign=KARANGA"
-ampWebUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
+excerpt: "A police force which used live facial recognition (LFR) technology for the first time said it had led to three arrests, including one on suspicion of rape. Essex Police trialled LFR on high streets in Chelmsford and Southend this week."
+publishedDateTime: 2023-10-26T14:34:00Z
+originalUrl: "https://www.bbc.com/news/articles/c51jzy42p19o"
+webUrl: "https://www.bbc.com/news/articles/c51jzy42p19o"
+ampWebUrl: "https://www.bbc.com/news/articles/c51jzy42p19o.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/c51jzy42p19o.amp"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 89
+heat: 229
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -59,35 +63,67 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "UK police urged to double use of facial recognition software"
-    excerpt: "Policing minister Chris Philp suggests target of more than 200,000 searches over next six months"
-    publishedDateTime: 2023-10-28T22:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
+  - title: "TTD EO launches facial recognition attendance"
+    excerpt: "Tirupati: Facial Recognition Attendance System for TTD employees was launched at TTD Administration Building in Tirupati on Thursday.Starting the system, TTD EO AV Dharma Reddy said that more"
+    publishedDateTime: 2023-10-27T03:34:00Z
+    webUrl: "https://www.thehansindia.com/news/cities/tirupathi/ttd-eo-launches-facial-recognition-attendance-832694"
+    ampWebUrl: "https://www.thehansindia.com/amp/news/cities/tirupathi/ttd-eo-launches-facial-recognition-attendance-832694"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/tirupathi/ttd-eo-launches-facial-recognition-attendance-832694"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: The Hans India
+      domain: thehansindia.com
     quality: 59
     images:
-      - url: "https://i.guim.co.uk/img/media/95a14cc3e6df2b855f7a5b457f4c774e403429c0/330_1615_5597_3358/master/5597.jpg?width=620&quality=85&auto=format&fit=max&s=3a2aced8200d4b784aafadf52d4284b8"
-        width: 620
-        height: 372
+      - url: "https://assets.thehansindia.com/h-upload/2023/10/27/1392674-facial-recognition-attendance-system.jpg"
+        width: 1200
+        height: 720
         isCached: true
-  - title: "The Standard View: The Met's use of facial recognition technology fights crime and raises hackles"
-    excerpt: "Facial recognition technology — indeed any form of artificial intelligence — has a habit of raising hackles. Its use by police, even to prevent crime and protect people from harm, is no different. But should it be? The Standard reveals today that the ..."
-    publishedDateTime: 2023-10-27T11:05:00Z
-    webUrl: "https://www.standard.co.uk/comment/metropolitan-police-facial-recognition-technology-arsenal-tottenham-b1116393.html"
+  - title: "TTD introduces facial recognition for employees"
+    excerpt: "The Tirumala Tirupati Devasthanams (TTD) management formally introduced Facial Recognition System (FRS) for its employees at its administrative building on Thursday. Executive Officer A.V. Dharma Reddy, who formally launched the system, announced that the ..."
+    publishedDateTime: 2023-10-27T01:55:00Z
+    webUrl: "https://www.thehindu.com/news/national/andhra-pradesh/ttd-introduces-facial-recognition-for-employees/article67462205.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/andhra-pradesh/ttd-introduces-facial-recognition-for-employees/article67462205.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/ttd-introduces-facial-recognition-for-employees/article67462205.ece/amp/"
     type: article
     provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 41
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
     images:
-      - url: "https://static.standard.co.uk/2023/10/27/10/01/BARRY%20DOWNARD%20SECURITY.jpg?width=1200&width=1200&auto=webp&quality=75"
+      - url: "https://th-i.thgim.com/public/migration_catalog/53lqo4/article51151968.ece/alternates/FREE_1200/HY27-TPT_GED6NGTLG.1%2BHY27-TPT.jpg"
         width: 1200
-        height: 801
+        height: 882
+        isCached: true
+  - title: "TTD starts facial recognition system for marking attendance"
+    excerpt: "The TTD EO underlined that facial recognition system will eliminate the potential for time fraud and human errors that occurred in the traditional attendance system. \"This technology marks attendance by identifying facial features. It not only saves time but also ensures that attendance records are accurate,\" he stated."
+    publishedDateTime: 2023-10-26T21:02:00Z
+    webUrl: "https://www.deccanchronicle.com/nation/in-other-news/271023/ttd-starts-facial-recognition-system-for-marking-attendance.html"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/nation/in-other-news/271023/ttd-starts-facial-recognition-system-for-marking-attendance.html"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/in-other-news/271023/ttd-starts-facial-recognition-system-for-marking-attendance.html"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 59
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-652ovhkibhg82kh6on274ihkn1-20180205010800.Medi.jpeg"
+        width: 800
+        height: 448
+        isCached: true
+  - title: "UK launches facial recognition drive against shoplifters"
+    excerpt: "On Monday, the country’s police authorities and representatives of 13 of the UK’s biggest retailers announced the Retail Crime Action Plan."
+    publishedDateTime: 2023-10-25T14:20:00Z
+    webUrl: "https://www.biometricupdate.com/202310/uk-launches-facial-recognition-drive-against-shoplifters"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/06154234/walmart-cctv-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Essex police use intrusive facial recognition for first time"
     excerpt: "LIVE facial recognition was introduced in Essex for the first time this week as police across Britain ramp up use of the intrusive technology. Southend officers carried out targeted operations with the camera system on Tuesday, while Chelmsford police followed suit today."
@@ -145,6 +181,20 @@ related:
         width: 1440
         height: 900
         isCached: true
+  - title: "Russia illegally used facial recognition to arrest protestor, human rights court rules"
+    excerpt: "Russia's use of facial recognition technology to arrest a protester on the Moscow subway violated his human rights, the European Court of Human Rights (ECHR) ruled Tuesday. \"The use of facial-recognition technology in his case ha[s] been incompatible with ..."
+    publishedDateTime: 2023-10-26T12:25:00Z
+    webUrl: "https://www.politico.eu/article/russia-illegally-used-facial-recognition-to-arrest-protestor-european-human-rights-court-rules/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 31
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/07/04/GettyImages-1208074535-scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Policing minister calls for greater use of facial recognition technology to track down offenders"
     excerpt: "Chris Philp says the advances would allow police to 'stay one step ahead of criminals' and make Britain's streets safer"
     publishedDateTime: 2023-10-28T23:01:00Z
@@ -168,7 +218,16 @@ related:
       name: Echo news
       domain: echo-news.co.uk
     quality: 19
+  - title: "Can facial recognition be justified for espionage in war?"
+    excerpt: "With military conflicts asserting themselves into the story of the twenty-first century, a parallel debate is being waged about the uses for FRT in warfare."
+    publishedDateTime: 2023-10-27T11:30:00Z
+    webUrl: "https://www.biometricupdate.com/202310/can-facial-recognition-be-justified-for-espionage-in-war"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
 
-secured: "gyFgsFZfQJkHxYi2wXAJxywakTYeO+LGPutdwhGAtT93TpeSjmDDIETU8COTlIhBGZXWJM3km0nGp8MAkOT1Il6UKeiQNTXRSnauiTy9p9BJMIChfjfo3q7PApnDI+0eAj6SFHQycV0GhgWeN+AJT6z1nhFQ3Ywx42ky8Ig0qEimw5grIg7LCDy+n5JVlgzrZBGtPn0S6cgAXJGiXqSRk7Et09u94rWaw6ukvVclEqVic0dZ/9bXjJ1B18u6jJbGCCtO05Wl912y0m994cLCq5Qr7/SEHvtvqg2EdOWIZi+ZGK9vUAIvE/yMICazHMu/NywL5PdiLPje06dFNIfH1UXc3GgFNys1Ecr0QLYhkKZA1RiiPXeaVvDhVj1AIu4Q3pTJNWkOA4K+kqLe8OWkL0Ckq0QLqp3selrGGtyCkt6f/AO751fYfttQxWj/WQbjGbiX0/n74rIZUzAVGhgyp90v6cPEW9xln2W3uMHTSRCZXFieKb9kaWEXBEyEc9tnnA/H73nRHnNuc4LP1b+XTw==;iYWCLH7d9o15SP40bOuh/w=="
+secured: "s9B+D2YZOKsKB2XLnQSQycY5mkx0O3rjr5dYVEMxzCK/JWqH2JJHruhIiOjvEQQM4KS9H7DDsmKmlMgso52618asNj6tPXevTe0jKPt0Ey3Ncdt53UhtDobpZUwUkORLG94MLCH+Fb77gIDFVJsDPyOEsVRA+bm+V0pgWG/YDouFjOfu+fJaGHmXPcP8ka+7f125FtPN657OxzrKzekLZEbeaHGB2q7WQs4K/Hty4y7xK0uA5+6Z8491mpLOcYfXqdLj22IrVoPF96UzsyTB6qvxLylv2JdifS6gxrwuof9121eqCgkMojswqvIT1O+yOF3e5dmXdD99WlexyHdRoasQ2GNCvL2l3dK40iMZn+k=;o9gTO7c0U6ZwJpIxVcp8+w=="
 ---
 

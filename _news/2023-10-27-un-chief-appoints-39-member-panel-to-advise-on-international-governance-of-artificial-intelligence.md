@@ -25,14 +25,14 @@ related:
   - title: "UN chief appoints 39-member panel to advise on international governance of artificial intelligence"
     excerpt: "U.N. Secretary-General António Guterres has announced the appointment of a 39-member global advisory panel to report on international governance of artificial intelligence and its risks, challenges and key opportunities."
     publishedDateTime: 2023-10-28T12:29:00Z
-    webUrl: "https://heraldcourier.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_d963c6e6-9fbc-59a1-9fbe-e6ba8187153f.html"
+    webUrl: "https://wcfcourier.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_e9588896-9394-5125-a247-39478f3e5fb5.html"
     type: article
     provider:
-      name: Bristol Herald Courier
-      domain: heraldcourier.com
-    quality: 23
+      name: The Waterloo-Cedar Falls Courier
+      domain: wcfcourier.com
+    quality: 25
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/assets/v3/editorial/d/96/d963c6e6-9fbc-59a1-9fbe-e6ba8187153f/653bc5980d3db.preview.jpg?crop=1747%2C918%2C3%2C85&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/e/95/e9588896-9394-5125-a247-39478f3e5fb5/653bc599f35bc.preview.jpg?crop=1747%2C918%2C3%2C85&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

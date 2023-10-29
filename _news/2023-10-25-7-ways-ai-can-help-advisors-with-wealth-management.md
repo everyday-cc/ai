@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Human-In-The-Loop AI: A Collaborative Teammate In Operations And Incident Management"
-    excerpt: "This perspective holds particular relevance for operations teams and incident management. Rather than replacing human involvement, AI stands to be an ally in these mission-critical domains. Analogous to how automation streamlines repetitive tasks, AI can enhance the problem-solving capacity of operations teams."
-    publishedDateTime: 2023-10-24T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/human-in-the-loop-ai-a-collaborative-teammate-in-operations-and-incident-management/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/human-in-the-loop-ai-a-collaborative-teammate-in-operations-and-incident-management/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/human-in-the-loop-ai-a-collaborative-teammate-in-operations-and-incident-management/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65368ab5d4c8226b37a30d03/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
   - title: "A step-by-step guide to implementing AI at work"
     excerpt: "Vinay Gidwaney, chief product officer at OneDigital shares how companies can ease themselves — and their employees — into AI."
     publishedDateTime: 2023-10-27T22:55:00Z

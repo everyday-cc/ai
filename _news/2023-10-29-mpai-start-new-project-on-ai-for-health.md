@@ -1,22 +1,27 @@
 ---
 category: news
-title: "AI Advertising Announces Publication of “AI for Advertising Blueprint” White Paper with the Marketing Artificial Intelligence Institute"
-excerpt: "AI Advertising Announces Publication of “AI for Advertising Blueprint” White Paper with the Marketing Artificial Intelligence Institute"
-publishedDateTime: 2023-10-27T16:31:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231027316417/en/"
-webUrl: "https://www.businesswire.com/news/home/20231027316417/en/"
+title: "MPAI Start New Project On 'AI For Health'"
+excerpt: "MPAI, the international, non-profit, and unaffiliated organisation developing AI-based data coding standards has concluded"
+publishedDateTime: 2023-10-29T05:53:00Z
+originalUrl: "https://menafn.com/1107323535/MPAI-Start-New-Project-On-AI-For-Health"
+webUrl: "https://menafn.com/1107323535/MPAI-Start-New-Project-On-AI-For-Health"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI
-  - AI in Marketing
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?555534"
+    width: 458
+    height: 250
+    isCached: true
 
 related:
   - title: "AI for Health Institute Emerges to Foster the Expanding Intersection of Artificial Intelligence and Healthcare"
@@ -65,20 +70,15 @@ related:
         width: 860
         height: 520
         isCached: true
-  - title: "MPAI Start New Project On 'AI For Health'"
-    excerpt: "MPAI, the international, non-profit, and unaffiliated organisation developing AI-based data coding standards has concluded"
-    publishedDateTime: 2023-10-29T05:53:00Z
-    webUrl: "https://menafn.com/1107323535/MPAI-Start-New-Project-On-AI-For-Health"
+  - title: "AI Advertising Announces Publication of “AI for Advertising Blueprint” White Paper with the Marketing Artificial Intelligence Institute"
+    excerpt: "AI Advertising Announces Publication of “AI for Advertising Blueprint” White Paper with the Marketing Artificial Intelligence Institute"
+    publishedDateTime: 2023-10-27T16:31:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231027316417/en/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?555534"
-        width: 458
-        height: 250
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
   - title: "The Opportunities at the Intersection of AI, Sustainability, and Project Management"
     excerpt: "There are unprecedented opportunities at the intersection of AI, project management, and sustainability. Unfortunately, without proper execution, projects to implement AI come with complexities, costs and a carbon footprint that undermine sustainability goals."
     publishedDateTime: 2023-10-27T12:16:00Z
@@ -89,6 +89,6 @@ related:
       domain: hbr.org
     quality: 11
 
-secured: "z3omt8vVPvN++EHnh/N8JgKRBV8XqiBsdGZpCCVMXVhDDyztuypv19ySrnwT19azyQLx4qWXSk1kM0dCstLVcLNOdidxiSzwNoMm2B+FpERShfn6inM7w7FzSfBJimSjonc0mRdcC73m1zYk2kxW+ouL+wyZZZvB76n6BVhVYtqlT8CcabKGLMKuCQzuDLn0SxgHCqRiXx16p79d2N/lUQoV/APqlSqvs4MfM2WeznzRdquiM0+g5XuGHQvmxJkJM4/wNNKR7S1HmpfMEsyS9D8opjoxrycjOZ2/QX0bqWwT76jc3EztpJVa+apnx9nhX6ZD0sQ41/45DBWl/REJ53z35nxLCHdAes+D4uI2I6c=;756gQgEvJjy69TqnBCrXLg=="
+secured: "eoK/LtxhPI80vNgGyDp1b9n/U/6FEznmwokfsMQ7wZbHLNO/rikuEyRE8LnOUFhIuN/SV/dmcMQav9itgfqo3sYKyPTI4WuehinGR5+rQrUwzAJKs1znRGZS3qkOslfgAJIOxEnAoUkQQoOYEnn9nvzgm6k0kF3enAJTuzFwuy3/ioYZBq61khUfWwC9DDBk5jgBqACj3KAHAhwtNvuqgs//kxIX1jNQPszdSB6ELNJyGDQuMXfscC/ln/jk88dhKwv1tlQjfUz9y6o9iDFTZDlNfETPNzj20bd1ktCjJXcujeiNhzkm5H6iV2ktR3LJUvM/ggoqDUDaTE3aE9Kba5avBugjiCVEHXHDp5em28c=;Ti/E7cfrQenZQraX7D8UTg=="
 ---
 

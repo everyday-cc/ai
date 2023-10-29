@@ -248,8 +248,8 @@ related:
     quality: 34
   - title: "Nvidia said the U.S.'s new AI chip restrictions have already taken effect"
     excerpt: "New rules restricting Nvidia from selling even the chips it designed for the Chinese market in the country have now taken effect."
-    publishedDateTime: 2023-10-24T19:54:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/10/24/nvidia-says-new-ai-chip-restrictions-in-effect.html"
+    publishedDateTime: 2023-10-24T21:13:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/10/24/nvidia-says-new-ai-chip-restrictions-in-effect.html"
     type: article
     provider:
       name: The Business Journals

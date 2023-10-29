@@ -9,8 +9,8 @@ ampWebUrl: "https://wraltechwire.com/2023/10/27/john-chambers-ai-innovation-goin
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/?amp=1"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: WRAL TechWire
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Gen AI Empowers Human Innovation In The Chemical Industry"
-    excerpt: "Chemical industry leaders are exploring how this technology can transform product discovery, supply chain management, demand planning and customer centricity."
-    publishedDateTime: 2023-10-24T12:59:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/10/24/how-gen-ai-empowers-human-innovation-in-the-chemical-industry/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Will the Fusion of Bitcoin and Artificial Intelligence Fast-track Innovation?"
     excerpt: "Check out the opportunities and challenges that arise when bitcoin and artificial intelligence come together in an unlimited landscape of innovation."
     publishedDateTime: 2023-10-28T05:27:00Z

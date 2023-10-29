@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-machine-learning-robotics-retail-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-machine-learning-robotics-retail-supply-chain-technology-2023-10?amp"
 type: article
 quality: 109
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM Unveils Super-Efficient AI Chip 8 Years in the Making"
-    excerpt: "IBM has pulled the wraps off an entirely new chip architecture it says will allow systems used for AI-based workloads to scale while also being extremely energy efficient. It calls its new chip NorthPole,"
-    publishedDateTime: 2023-10-24T12:15:00Z
-    webUrl: "https://www.extremetech.com/computing/ibm-unveils-super-efficient-ai-chip-8-years-in-the-making"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 36
 
 secured: "QEnlFJROXBrj3ei8nlR+Pr144GzScSCvbDzIj/hmlPZHcqcZD396sN7I+w6QihjdsCE16QU1miN0M3mnpJrXm3ktaLeBd7bXAvKozvJLdAVvIQw6k9oBR//YYQto0wTAhO4Rq4IBWGyRPVWwnUnNpU1OHj3lcxKFrzvSHLS1ZK7Joh2N5fV4YYergjiz8Ka2feFgbUCPS+QZQrPr/WPyAuEn4bMgnvPoUGbMMLOjhd2U5fp6fXu3PCOxONhmAaiF9Rl8/XZZdQVhcFdRXoORdWxXaahCuKQQNbCPPL9xOdF95ZOFyKDEK4MBbCqHs3yPLI4r6Eo+GfX2lmbSPBy5lFjy3VWmsIU2yKIuD1GjXMYINezqP4aa2CoBZzTzy9yWDeDcFEpUD7VZ8ivsWi/070PsrmKkwGOcb8HNTe43UTrm+9QDczg2AJXFuxlCKGg8eHKjXTQ5hU0QWxPQSZHanwVj4ArN5j6wHcQo6k75YvEoeq481BxROQMd6FbhtwNObZo7t8f9Jozghmz9Vw5YxQ==;IsKTVMTY0hddSZS73JZD3g=="
 ---

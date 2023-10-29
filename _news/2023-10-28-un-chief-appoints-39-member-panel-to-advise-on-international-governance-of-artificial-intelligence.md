@@ -3,22 +3,23 @@ category: news
 title: "UN chief appoints 39-member panel to advise on international governance of artificial intelligence"
 excerpt: "U.N. Secretary-General António Guterres has announced the appointment of a 39-member global advisory panel to report on international governance of artificial intelligence and its risks, challenges and key opportunities."
 publishedDateTime: 2023-10-28T12:29:00Z
-originalUrl: "https://heraldcourier.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_d963c6e6-9fbc-59a1-9fbe-e6ba8187153f.html"
-webUrl: "https://heraldcourier.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_d963c6e6-9fbc-59a1-9fbe-e6ba8187153f.html"
+originalUrl: "https://wcfcourier.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_e9588896-9394-5125-a247-39478f3e5fb5.html"
+webUrl: "https://wcfcourier.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_e9588896-9394-5125-a247-39478f3e5fb5.html"
 type: article
-quality: 23
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Bristol Herald Courier
-  domain: heraldcourier.com
+  name: The Waterloo-Cedar Falls Courier
+  domain: wcfcourier.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/assets/v3/editorial/d/96/d963c6e6-9fbc-59a1-9fbe-e6ba8187153f/653bc5980d3db.preview.jpg?crop=1747%2C918%2C3%2C85&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/e/95/e9588896-9394-5125-a247-39478f3e5fb5/653bc599f35bc.preview.jpg?crop=1747%2C918%2C3%2C85&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -34,6 +35,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "ynYZQ+tzfHKCn9EpJFl5kRTf5flz5XsdFsjbft4BLKih1d2Ym4Ch9j8pkd3Vj40r+MHS6iXHDcD8JRgFmAMlPHSdO87RETJkHRnPiyBKHv6c1dTkjcem+HZdvJVUzenAUIthg4Uh7wSwr3FR5gXR6Vz6gcbdkG+SOYyKEZGB5vzyqUdCHRyz8mS8u5A2txBHCC8uiagn8iWEKuedosaKsr1q9F1yVif7sT6tmjlBbJY7Ob90g/JRBN1CmC4VHjazTLq0FZkgLhtsB4f0n0NV+aWXNKqnDfYoPTjXy4Zs7/c57wD/4lam3mlq/uzQio5ll9P+mf00nsoahRI/x3D7+NKQBzx7x2ReyWXwsk8T2HU=;u3QszbsqJx+eKZjBO/kV9w=="
+secured: "9OzOZchFQJ/Jo2f8KW7Kh3xwAlqFF5GZaEVJ/13PI2KdxH1UYz1WL5HqkiPsJyfqNmc86C3vd0xUCosnNirLPzx82ZtYfOHSPdNkAnaJRYN6U8uhrc+4TeFDQHqdJ92Zr9NfGPceLH7imqgmGckqhWJEtHKiKAS3gCcLx588TGC30IYYr615kYDoHm6Rp+nKYDv0q4o2iOG098GOuSKmk8oLuBrntCBFCNUObrrosaZfI/wjUCPOhRRmF0qejsVCIc8EfHP6sMJfg3xeDZ9JvZvzen6UBQHdvs2u/eh5Z6bp1g6j06LOoRsXL0i1XDLF6rUD8PD5criDdEzQ4s/ElfH9R4DzwcwQbNHlvD2ey5A=;QKGWvZ/ebBMUOI8DydCoTQ=="
 ---
 

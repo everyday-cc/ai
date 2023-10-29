@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/exclusive-softbank-takes-
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley-11599711.html/amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive: Rhizome raises $2.5M for utility risk AI"
-    excerpt: "Rhizome, which makes software to help utilities navigate climate risks, has raised a $2.5 million round, the company told Axios. Why it matters: The funding marks the startup's official launch, at a time when utilities are seeing more extreme weather and soaring demand for clean electricity."
-    publishedDateTime: 2023-10-24T12:00:00Z
-    webUrl: "https://www.axios.com/pro/climate-deals/2023/10/24/rhizome-utility-risk-ai"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
   - title: "Exclusive: How Republican Candidate Doug Burgum Would Use Artificial Intelligence as President"
     excerpt: "The North Dakota Governor and longtime entrepreneur says his White House would embrace the efficiencies of A.I."
     publishedDateTime: 2023-10-24T14:00:00Z

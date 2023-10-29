@@ -42,15 +42,6 @@ related:
         width: 2815
         height: 1585
         isCached: true
-  - title: "How Gen AI Empowers Human Innovation In The Chemical Industry"
-    excerpt: "Chemical industry leaders are exploring how this technology can transform product discovery, supply chain management, demand planning and customer centricity."
-    publishedDateTime: 2023-10-24T12:59:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/10/24/how-gen-ai-empowers-human-innovation-in-the-chemical-industry/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "9VSevTVMO4A9IprSRZ28zeESYgouMx29rScxbvQ4O5ZS+SQR0cFRq9dmxPYGxtQZK6UxsCxazYmvqzU9/YU7xMXvlqhcApfc+FtC0Gjv6RKNZk/p+UV+G4vKC78IwY9Wjo66GEz9YYf3wmpiO4RUxBf0Yz1x1uFKNGGzSKZVGiQBkkpgTScHcNZ30ogyfzuI+++7NtM4ZGQjAwaOisYM2ltPsBecdA1GVP57laWWtspx5f2xVGoTI9GcFMgUtR9URqCAmSYkqmcMdy04411obrlxMQIG7m69tiC0SbKXNTEnnIltxfjNzMh3wwP7FZLOXx/Cz9G7s5poljPGT6psfZlO7DGXoZEu16LkeYsqqGYCQpuzdjfu6xirI/l77RWgxZP5ZWwqgINz6SMwik/Zqz4SF50ml1LLmMdNBXzJTyQHtD6Uhs+CuULWsXsUJF4mjw0D4s6sdycl8l8vt+TcICnUb3Y1XPpiL6lYIOM1HBVqBarcBNPxvfP8P1aPcKdKSY+1N42Nyy5kr1nJgbudHw==;/vElmplvvsAbIc0BstQJ2A=="
 ---

@@ -34,15 +34,6 @@ related:
         width: 580
         height: 435
         isCached: true
-  - title: "Exclusive: Rhizome raises $2.5M for utility risk AI"
-    excerpt: "Rhizome, which makes software to help utilities navigate climate risks, has raised a $2.5 million round, the company told Axios. Why it matters: The funding marks the startup's official launch, at a time when utilities are seeing more extreme weather and soaring demand for clean electricity."
-    publishedDateTime: 2023-10-24T12:00:00Z
-    webUrl: "https://www.axios.com/pro/climate-deals/2023/10/24/rhizome-utility-risk-ai"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
 secured: "BCh43qYhbxE5KHjbd1qb/ooICjdRJsJOH19+rMKXfdFOhLyQsjfahAFWyJ77zhDCWWxBENzEcRniCS7HUQ3UQkPTQ6M05hTbTDnYtY/7JkxQG5QPjhSrvt7RfrSGwP7nC+HLvP7wRgIYWZWKMbeeafRu4VXO9tt+N/4Vi5MDXP3d3eqYFhFGuiwYvkHbGlXlYG0hrlj6seUOIucECpezcxT1ZWN1+gKx6zB3BwbYCyPUeW/m4wwNDG7ABtqOIA9iBCWw2SzAggIF4HUuRErmskb5HYbTkGKA//DU1zv4yY/D/1U2uKGK+PuCr3FbxLrAv5fh0KhWrInhyHKy49nGHk+U6L4vBM4n70Z7lBIfn69kuLkdxVHLUiTJdcGqAlJRaNLBTgGutTqeQ0gaER2QmgY/TWjC87Wi0np+uLUIun+IJpeGgXCsdwebEQbGpRXd2striPGFjfqM9UugW5/2AmbhKH2zC2M9t+zQb3M6I6BqjEoPDHhtc0KhWqhQpYbr7tS0dxyZbQ5laiPNaeFWcA==;C/cRn7UxBs0BWhskGUbGPg=="
 ---

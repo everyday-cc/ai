@@ -64,6 +64,20 @@ related:
         width: 860
         height: 520
         isCached: true
+  - title: "MPAI Start New Project On 'AI For Health'"
+    excerpt: "MPAI, the international, non-profit, and unaffiliated organisation developing AI-based data coding standards has concluded"
+    publishedDateTime: 2023-10-29T05:53:00Z
+    webUrl: "https://menafn.com/1107323535/MPAI-Start-New-Project-On-AI-For-Health"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?555534"
+        width: 458
+        height: 250
+        isCached: true
   - title: "AI Advertising Announces Publication of “AI for Advertising Blueprint” White Paper with the Marketing Artificial Intelligence Institute"
     excerpt: "AI Advertising Announces Publication of “AI for Advertising Blueprint” White Paper with the Marketing Artificial Intelligence Institute"
     publishedDateTime: 2023-10-27T16:31:00Z

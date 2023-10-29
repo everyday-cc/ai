@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "IBM Unveils Super-Efficient AI Chip 8 Years in the Making"
-    excerpt: "IBM has pulled the wraps off an entirely new chip architecture it says will allow systems used for AI-based workloads to scale while also being extremely energy efficient. It calls its new chip NorthPole,"
-    publishedDateTime: 2023-10-24T12:15:00Z
-    webUrl: "https://www.extremetech.com/computing/ibm-unveils-super-efficient-ai-chip-8-years-in-the-making"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 36
 
 secured: "xnwJumllldYMul3q1jygvo3VcosEhDFMEkPT7DWamQvFRjxNr8u5hr1q/YjJmFVxOzRSQEbAeZKchDYpjIvf52yiTK78qiNh9WjX7H6TDau4kuYKC2vKxDp/7me7bkGi1KOkYDnCSNMd6e264q8NYssEV4ElULZs3uXjaqnqUKpcynNwK54bWV84MCS34d2KPnNyMTNGiyDzmsuKvK6MH67vVk7iCz6JgXu3aWIZhiUuiWHQvyycCEXmLNp478v/XltFOtj0UfKxp92Vg8+5UiL8hdnoIW+Xv8/63mJmO6Kt/ke9pdGsmpwFaSCSz/LWpM0CYjE/sq5AcEQG8RwcvRsyMQfAPo0WQ9AQNOvsiTu/C7Sc1QHqSRz963elQ9g1iwWs3jvaTxc223ya11QsxPtkLWq/Sk9mIgt6SScb1nb7255uc+Mx7aOsA5jHAHIyNebaK2plCD8HVMSoS/TV3d1aZy6VMy6wtZlm8+vBXwkby50aP/cLxtJJM2f83qD+MkgYqsAGLXvLZtZq8z8HTw==;ouounekP3w8mKXf2zjL3Cw=="
 ---
