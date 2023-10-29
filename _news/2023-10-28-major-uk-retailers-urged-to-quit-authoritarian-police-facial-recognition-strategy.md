@@ -2,14 +2,14 @@
 category: news
 title: "Major UK retailers urged to quit ‘authoritarian’ police facial recognition strategy"
 excerpt: "Human rights campaigners say the Pegasus initiative wrongly criminalises people of colour, women and LGBTQ+ people"
-publishedDateTime: 2023-10-28T14:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
-webUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
+publishedDateTime: 2023-10-28T15:08:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Police force trials facial recognition technology"
-    excerpt: "Facial recognition technology can be used by police to scan large groups of people and by running photos through an image database known as a \"watch list\". Chris Philp, MP for Croydon South and minister for crime, policing and fire said the technology was being used by the Metropolitan Police at large events such as football matches."
-    publishedDateTime: 2023-10-26T05:51:00Z
-    webUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o?at_medium=social&at_ptr_name=facebook_page&at_campaign_type=owned&at_campaign=Social_Flow&at_link_origin=BBC_News%3A_East_of_England&at_link_type=web_link&at_bbc_team=editorial&at_link_id=E9BB4184-73CC-11EE-8964-CFE5D89D5CC3&at_format=image"
-    ampWebUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9b65/live/d1e43770-7370-11ee-8623-0398dceccf41.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "UK launches facial recognition drive against shoplifters"
     excerpt: "On Monday, the country’s police authorities and representatives of 13 of the UK’s biggest retailers announced the Retail Crime Action Plan."
     publishedDateTime: 2023-10-25T14:20:00Z
@@ -62,6 +46,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "dhDH7HY3nxGLgQ/51Hysg/e0x8jPTL2Fqgsph7PRsK/HZbAk/IK6Gv892SLcZEcNglhYilk4CJhUp2ae9IrSi19B6PU3pdyJ4TFDQcDyXuskSv02PtXpsiyv2ejLzk7bacy+TQUHJIzwOQz7kdcZ7+9YhTpT0PyGx6711mZ5ijvvha+/Iqk5FkBZxZOC9AmiSPUGZVUGZArMsuSERXIOWFgXuQNPVHFKve8+igPBMfXIoMmrtaxuY3TKKvm60IEZ7y5+aOTsP8poBDp1Qs9gXHGzGeRdR8zxBTSxbYWjnJ2AWaJEX+Nvd+7HlA9lU4p7cbsiMjg4Y0D5YpnYbbvZKH8CGwNRh9UFkUaQLJnUPbc=;2G20J6IkIvzMDEetiDcNnA=="
+secured: "T33Mw8cXoSWQmxkcXc9rs5hdQcg60mgQab31vXXj11NUylZPghdU3BK4WXAlTbZzgwQWuWCfTZ/SvPq3fKRAdijN182rDBQuIKNV2mV6GXV+mjaTD70s8NWtDXb/ng9ARa3Go/JMOWpOd+pOa7FajHXR4snfeTsnFL40q8HNRcuyT2VUfKZ0EjKvBI4W+IMYmVRWmrhKpvkSNUTIG25yUizuOXk9LQbjuJTSHyI1Q0BpGxubvR+b6g227UAocOr8G8O4fi//6juTg61s0NiLG0kQgNywHeArAoNCQxPSKlJigldU8czrz4PevgDjn7BsU2fY6LwN49NAvl6rkcFEbvkUFpzXXg1MyXPjKcBzfOg=;+whggfoduJS5U8jI5xoINw=="
 ---
 

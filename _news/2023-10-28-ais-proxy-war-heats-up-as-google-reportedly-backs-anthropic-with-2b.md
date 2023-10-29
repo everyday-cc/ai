@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/amp/"
 type: article
 quality: 87
-heat: 169
+heat: 171
 published: true
 
 provider:

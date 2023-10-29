@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newswest9.com/amp/article/money/austin-airbnb-ai-hallowe
 cdnAmpWebUrl: "https://www-newswest9-com.cdn.ampproject.org/c/s/www.newswest9.com/amp/article/money/austin-airbnb-ai-halloween-parties/269-4f51969c-e747-4eda-99ef-8acaec6ac545"
 type: article
 quality: 61
-heat: 83
+heat: 81
 published: true
 
 provider:

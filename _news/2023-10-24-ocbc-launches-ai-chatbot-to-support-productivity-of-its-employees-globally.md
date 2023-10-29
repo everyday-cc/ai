@@ -47,17 +47,22 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "OCBC to roll out generative AI chatbot for its employees globally"
-    excerpt: "Called OCBC ChatGPT, the chatbot is powered by ChatGPT’s large language models. Users can type a query in natural language into OCBC ChatGPT via Microsoft Teams, and the chatbot will produce answers based on accessible text-based information on the web."
-    publishedDateTime: 2023-10-24T06:32:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/news/ocbc-roll-out-generative-ai-chatbot-its-employees-globally"
+  - title: "Google’s AI chatbot refuses to tell the truth about Hamas and Israel"
+    excerpt: "The company describes its chatbot, “Bard,” as a “conversational AI tool” that can be used “to brainstorm ideas, spark creativity, and accelerate productivity.”"
+    publishedDateTime: 2023-10-24T23:54:00Z
+    webUrl: "https://nypost.com/2023/10/24/opinion/googles-ai-chatbot-refuses-to-tell-the-truth-about-hamas-and-israel/"
+    ampWebUrl: "https://nypost.com/2023/10/24/opinion/googles-ai-chatbot-refuses-to-tell-the-truth-about-hamas-and-israel/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/10/24/opinion/googles-ai-chatbot-refuses-to-tell-the-truth-about-hamas-and-israel/amp/"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/10/iStock-1491247092-e1698191577331.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "y9uP76HQ7PxnPaQ7QRrROwcjYm91F8h/Dhl11Cp6lXL979wrrkKN8T1fnMtAUiNr7eW+mkytyk/US63oc2eNVrecJb69UHw8dloAJA9HbpbgP0vlDN8L6QyjCFaa+BXHjaMeo6HMtWNDYfaKJ3zzMybAgm2Mre/FQtuwfOVuNyqQu5Sp27+8cUgLHg60ihQR8fokRN+uS/t+viWgNw7lEXLPJHKmfvtAf44jxCd3uGo8nEsv+wRZwmwft0doS0uta4+B9CBlT3Q82MGWEw3wFvuxO0lzJCNDpTzLfk0tpz02CRN+xsnB0HtYrIw+NUhRa/TRlltzIfxGo1B7XUEFNGz6WAUpca0ODbpAO60pugQRBG6mI44zqB8P7cvpkHQ1Hf74g6ZiSQinUifpUkrTKjwtCSJ/yN77wQgAWZZylPVL2DkvpgzZSV8LP3osqJ2s880ETbo3xyOBJ000AajkjJr/nk/tOlaoml+8pY2TkOWxbqU0yvMymQ7749phK821gccNECe0QtQApQU7lNcTYw==;jTRBlQxJ2R9cfeJemtT3AQ=="
 ---

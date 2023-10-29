@@ -3,12 +3,12 @@ category: news
 title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
 excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
 publishedDateTime: 2023-10-28T12:47:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?trk=public_post_comment-text"
-webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?trk=public_post_comment-text"
+originalUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 type: article
-quality: 72
+quality: 70
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -163,6 +162,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "f7MO/pIVyUjn1OU/ZARb2K2C8OJ1J2lxfLzeWo2JFzIgsJWN4sxeMGkEtEJ8xiFQwAqIQqCgUZlrmRyMRNm1t+fG+KRnIUm5Z1201Fht+CMsnX8CoQSMkfyPBMXQXly1vhAT2M/UzmYxxYA7Z3ghwiG3b08ZZILhTLHskAGvmX1lw3z+m3i/hDwEQMhhYyDzzoYzTEHic/LXiLZnol+mHHpz+uxcSd9T+qYxeThGeVSDALPsp4qWPtzuG5EnS+EId7bgkJviusSkJySpIGXVcb9fAtBn6LdFjrmEgv/eoBocxvN+18OT13VtiZx36/g3qT/gJv2ehAVOVjDuDpivCq20jaMzfQWQCKVwYf4vShM=;oUTmDtdhtjT9X9bp803P6g=="
+secured: "ha7vIVZKvNtczi55dLgxB3l5N1qwltfbqfESrBKjy7/m0CZtpt9yEhXnBIkw1p8dCHmvFn/vnCHdfQs78W5qoYEOZ6Z+X4mR3vXMriooz1qdIWA90s/SG5ikZhMgBpcqpRW6JUEemjBzdiTjv8IhiIycXGf5GD4fkG/7d1zOV7TGRjJKdL2YsvWuiw4tjwPAtCuFzPayJP6ksiyTn2WhOwlgdICEWVdwU2um99FA1/njxmMd3rr5TCgKB1A9Xxgctuz0pl8/cEz9reZgA/AN3cHFOO9fe1HI/vxIziNX7IycDVYIVl1ivNZCxNYvEvFPVbwmeS5++wXLGcjRHdJny++gVHVNfCNMvSlUSlptILw=;P2DwiNFvC6XIw6Xx6ZDtxA=="
 ---
 

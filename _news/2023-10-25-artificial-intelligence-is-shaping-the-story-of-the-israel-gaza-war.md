@@ -7,7 +7,7 @@ originalUrl: "https://nationalinterest.org/blog/buzz/artificial-intelligence-sha
 webUrl: "https://nationalinterest.org/blog/buzz/artificial-intelligence-shaping-story-israel-gaza-war-207044"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,35 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Google Bard AI appears to be censoring Israel-Palestine prompt responses"
-    excerpt: "Bard won't respond to user queries or prompts about the ongoing crisis in Israel and Palestine over the October 7 Hamas terror attacks."
-    publishedDateTime: 2023-10-24T05:19:00Z
-    webUrl: "https://venturebeat.com/ai/google-bard-ai-appears-to-be-censoring-israel-palestine-prompt-responses/"
+  - title: "Data Journalism Top 10: Visualizing War in Israel and Gaza; Australia’s Indigenous Voice Vote, Aging Taiwan, Romance Novel Covers"
+    excerpt: "This edition of our Data Journalism Top 10 — covering stories published between October 9 and October 22 — includes The New York Times’ graphic analysis of the waiting periods before Israeli civilians received any IDF response following Hamas attacks on October 7."
+    publishedDateTime: 2023-10-27T09:48:00Z
+    webUrl: "https://gijn.org/data-journalism-top-10-visualizing-war-israel-gaza-australias-indigenous-voice-vote-aging-taiwan/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
+      name: gijn.org
+      domain: gijn.org
+    quality: 10
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-23-18.12.55-An-illustration-of-a-newspaper-in-16_9-aspect-ratio.-The-main-headlines-across-the-top-and-center-are-hidden-behind-large-black-bars-indicating-censo.png?w=1200&strip=all"
-        width: 1199
-        height: 685
-        isCached: true
-  - title: "Google’s AI chatbot refuses to tell the truth about Hamas and Israel"
-    excerpt: "The company describes its chatbot, “Bard,” as a “conversational AI tool” that can be used “to brainstorm ideas, spark creativity, and accelerate productivity.”"
-    publishedDateTime: 2023-10-24T23:54:00Z
-    webUrl: "https://nypost.com/2023/10/24/opinion/googles-ai-chatbot-refuses-to-tell-the-truth-about-hamas-and-israel/"
-    ampWebUrl: "https://nypost.com/2023/10/24/opinion/googles-ai-chatbot-refuses-to-tell-the-truth-about-hamas-and-israel/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/10/24/opinion/googles-ai-chatbot-refuses-to-tell-the-truth-about-hamas-and-israel/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/10/iStock-1491247092-e1698191577331.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 681
+      - url: "https://gijn.org/wp-content/uploads/2023/10/Australia-Indigenous-Voice-Vote-breakdown-771x521.png"
+        width: 771
+        height: 521
         isCached: true
 
 secured: "Y20V/J6Jx2GLWeNUUXmyIsFhAfGTeLmX4aB24NxS3syPM+SIeuQ+2Ap4ESj0vRi8TBVgr12Uy/fxZ4qMYexykOxEjAdYp5cvrPPQs4JDusE0HEAOd6EKH4ZKrCqEJ6ZaGHpmSSj4ismNYAH24RxiWOMTJtoLtlw95h7pNEBdqXT3npkTZZnT9E7BopqfPm3STspbggfd2cH+y3ymzTyfH7KGQ9jQbh/yHHcO2edgML0s3XxaqcY7tIus0sif7vFexT4KKlrphTLQrvdKU6M/jgZ9ORlvnOLYDfLOtHL2jNuiRbvVjJYcxni5EDXhlPEFG1tub0tPicpoTecI+FANmaXB5ID6TPBA43kEy3EN6Ox+OxT+TGfUUiHbJ6E/w1vAaJcCp7dXLHXVclpEWu1zjT88LqO3ww2X8fIhW+TnX16drzyTUi2iP6nz6nA2mpUWtoQptgBcG7DvLb506FTIq8xz/4pkkZ/cC7Cplf6ugxtnJOqahMxG188lR8EcQlVcwhC0d0HNhrsqPrgUfLZ6FA==;w1+n49HUvfFpChfOtRX7VA=="

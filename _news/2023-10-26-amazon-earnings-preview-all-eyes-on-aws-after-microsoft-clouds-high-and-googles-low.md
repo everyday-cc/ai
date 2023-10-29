@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft earnings preview: Azure cloud segment in focus"
-    excerpt: "Investing.com - Microsoft Corporation (NASDAQ:MSFT) is set to announce its quarterly earnings after the market closes on Tuesday, with Wall Street keenly watching for indications that the company's substantial investments in artificial intelligence (AI) have been beneficial to its pivotal Azure cloud computing division."
-    publishedDateTime: 2023-10-24T05:56:00Z
-    webUrl: "https://au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816"
-    ampWebUrl: "https://m.au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816?ampMode=1"
-    cdnAmpWebUrl: "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816?ampMode=1"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 74
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AM_L.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "Microsoft gaining ground in cloud race with AWS, Google"
     excerpt: "Microsoft is pulling ahead of its chief rivals, Amazon.com and Google, in the burgeoning cloud services market."
     publishedDateTime: 2023-10-27T05:14:00Z
@@ -57,6 +41,20 @@ related:
       - url: "https://techcentral.co.za/wp-content/uploads/2021/09/cloud-2156-1120-6-1024x532.jpg"
         width: 1024
         height: 532
+        isCached: true
+  - title: "Microsoft jumps while Google owner Alphabet slips as Wall Street zeroes in on the tech giants' AI efforts"
+    excerpt: "Microsoft shares climbed in premarket trading Wednesday, while Alphabet slumped as investors focused on weaker-than-expected cloud revenues."
+    publishedDateTime: 2023-10-25T11:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/stock-market-outlook-ai-chatgpt-bard-microsoft-google-alphabet-shares-2023-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/6538e2fd96f7540cd064eae8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Microsoft launches a new Excel add-in to help with business forecasts via machine learning"
     excerpt: "If you are looking to use your Excel spreadsheet program for more than just number crunching, Microsoft has announced a new add-on for the app that will help businesses create better forecasts with the help of machine learning and AI. In a post on the ..."
@@ -83,15 +81,29 @@ related:
         width: 703
         height: 492
         isCached: true
-  - title: "Meta Platforms Stock Q3 Earnings Preview: Analysts See 2023 The Return Of Ad Dominance, Artificial Intelligence Plans On Watch"
-    excerpt: "Artificial intelligence is key for the future of Meta with more AI-driven products being rolled out, Kessler added. JP Morgan: Overweight rating, lowered price target from $425 to $400 Wells Fargo: Overweight rating, lowered price target from $389 to $ ..."
-    publishedDateTime: 2023-10-24T17:18:00Z
-    webUrl: "https://www.benzinga.com/trading-ideas/previews/23/10/35397692/meta-platforms-stock-q3-earnings-preview-analysts-see-2023-the-return-of-ad-dominance-arti"
+  - title: "Foundry for AI by Rackspace Partners with Straits Interactive to Launch AI Data Protection Officer on Microsoft Azure OpenAI Service"
+    excerpt: "Development of the APJ’s first AI Data Protection Officer Assistant with Rackspace Technology’s secure multicloud solutions and integration with Microsoft Azure OpenAI Service  Philippines – Rackspace Technology— a leading end-to-end,"
+    publishedDateTime: 2023-10-27T08:07:00Z
+    webUrl: "https://manilastandard.net/spotlight/314384434/foundry-for-ai-by-rackspace-partners-with-straits-interactive-to-launch-ai-data-protection-officer-on-microsoft-azure-openai-service.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 38
+    images:
+      - url: "https://cdn.manilastandard.net/wp-content/uploads/2023/10/Foundry.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Infosys collaborates with Microsoft to accelerate and democratize … – Infosys"
+    excerpt: "Both companies will help enterprises take an AI-first approach to scale next-generation AI solutions to improve operational efficiencies, drive revenue"
+    publishedDateTime: 2023-10-24T18:20:00Z
+    webUrl: "https://www.inferse.com/769259/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-infosys/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 16
 
 secured: "I9TRAfS4DDs1OiSLPQ8Ty+i1YaJRUzcnWZNhHu6IxFQ29h/bFicqFy0zFEN1H9i3tWf3P+UQ4ncygKAEjJNIDhR6US4gIm97Bb0lDfA+CgBxiQLWcsKmxqe3IssnkDXD/j6XlCuvrIiLCDVv1u7n/3OORmMDT9cqx3otCwiem4lWyYaMGOgwoix8rORs4SotlsztiBKhP1wAEPS++RFXtXdmFrjaiY1g9WDdm8FBIwgMYO+8Z+D9ap2LgP0MSe2SnzvAURLbn6aO+rVqmaozNIJivGyPBPRhj+mnuYjgj774mwcwB6hmff7BIiSSztsmv6Nhs24SXzyqBuMdtg7WF1y3R9EcvhjTxHJ7mu6ZFpV4TMK4A505zz4kuej1tXHn4dUCrxgnx9nyfUlxMgCydxWbizPJNM84r16aJSBui6Za0ZsIYqh0lK4rmd70ndH53EKboNFRA178CIlIsgSOexlAmBzNSlDuvNUFTDnrqrOv3ASKL4qTtbqGom9nRgb+aCngiEd3qNsYK32aSxI5Xg==;Q8EIiwNhQpB9ineyrfK2TQ=="
 ---

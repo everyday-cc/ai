@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/taiwan-chips/entering-ai-era-taiwa
 webUrl: "https://www.reuters.com/article/taiwan-chips/entering-ai-era-taiwan-chip-industry-urges-speeding-up-renewables-push-idUSKBN31R0J7"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Taiwan-based Neuchips targets AI inference chip market with energy-efficient solutions"
-    excerpt: "Ken Lau, CEO of Neuchips, shared his views on the AI chip sector in a recent interview with. He said while Nvidia seems to be the main supplier of general-purpose GPUs, which are mostly used for AI training,"
-    publishedDateTime: 2023-10-24T06:50:00Z
-    webUrl: "https://www.digitimes.com/news/a20231023PD205/neuchips-ai-chips+components.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 46
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231023pd205_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "4Db21ON74fYDw1V1lspR99Knj91C9O3arjBwyqZx3ZMUyZhlGEuBGRrb5bmuFVq4VXuHvgfncMoLmCNUP3TtgwF6+1yXrM4Hd1TUMJ5wjaEyNKFYyzQbyP7tmEpTphcrUwp8OXl5rQ8Vc76U02ONTKc9PvqgD2z8w/Ehhpqr/4wSZsZhxKVZCnJEjYQLeHYrOEcWNtJBI+cMtFLZqFRX3fzsLmoBODIdV/46NFpl75bbsMkiPCrIT1tyD6JzJ5GTUJewBtiJqhokqrY6PtXjN767ILQ2/dcAZ93RHluYM/X3BLgdmUKrYvdoIAVWflg+eULB8Z++X03dxKZRBMiy3SVqxsj6UnScJFOmxmPtPsUYHyMKTTexD6ET+3Uz7Lme70oE343F6vm/cDyIlqSUMbqzI+g4OIQHn7QuKwIxkRkEqtnA95t0Z3cc38o0jzJrIjwfWzcOct4QFLQBbiN34IyVWTTAobsHydv4YSpt56cGPXcXyKC5PFywRHB7U+j105ij2cKv4MJ6VtzRPIu5tg==;aaojAOrPMhWbg7jnZgzhgQ=="
 ---

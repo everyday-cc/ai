@@ -27,36 +27,133 @@ images:
     isCached: true
 
 related:
-  - title: "Major UK retailers urged to quit ‘authoritarian’ police facial recognition strategy"
-    excerpt: "Human rights campaigners say the Pegasus initiative wrongly criminalises people of colour, women and LGBTQ+ people"
-    publishedDateTime: 2023-10-28T14:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
+  - title: "Police told to double use of facial recognition technology to nail criminals"
+    excerpt: "POLICE have been told to double their use of facial recognition technology to nail criminals. Policing Minister Chris Philp wants 200,000 Police National Database searches a year by early summer."
+    publishedDateTime: 2023-10-28T22:17:00Z
+    webUrl: "https://www.thesun.co.uk/tech/24560289/police-facial-recognition-technology-criminals/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/24560289/police-facial-recognition-technology-criminals/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/24560289/police-facial-recognition-technology-criminals/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 71
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/10/illustration-scan-855692808.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Three arrests after force trials facial recognition"
+    excerpt: "Facial recognition technology can be used by police to scan large groups of people and by running photos through an image database known as a \"watch list\". Chris Philp, MP for Croydon South and minister for crime, policing and fire said the technology was being used by the Metropolitan Police at large events such as football matches."
+    publishedDateTime: 2023-10-26T06:50:00Z
+    webUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9b65/live/d1e43770-7370-11ee-8623-0398dceccf41.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "UK police urged to double use of facial recognition software"
+    excerpt: "Policing minister Chris Philp suggests target of more than 200,000 searches over next six months"
+    publishedDateTime: 2023-10-28T22:01:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 68
+    quality: 59
     images:
-      - url: "https://i.guim.co.uk/img/media/dffbee9c5f049baaeeed939ac4528da0e9dc68f8/0_128_3840_2304/master/3840.jpg?width=620&quality=85&auto=format&fit=max&s=8b6272dc0108bbd9094cf3fa37774e85"
+      - url: "https://i.guim.co.uk/img/media/95a14cc3e6df2b855f7a5b457f4c774e403429c0/330_1615_5597_3358/master/5597.jpg?width=620&quality=85&auto=format&fit=max&s=3a2aced8200d4b784aafadf52d4284b8"
         width: 620
         height: 372
         isCached: true
-  - title: "UK launches facial recognition drive against shoplifters"
-    excerpt: "On Monday, the country’s police authorities and representatives of 13 of the UK’s biggest retailers announced the Retail Crime Action Plan."
-    publishedDateTime: 2023-10-25T14:20:00Z
-    webUrl: "https://www.biometricupdate.com/202310/uk-launches-facial-recognition-drive-against-shoplifters"
+  - title: "The Standard View: The Met's use of facial recognition technology fights crime and raises hackles"
+    excerpt: "Facial recognition technology — indeed any form of artificial intelligence — has a habit of raising hackles. Its use by police, even to prevent crime and protect people from harm, is no different. But should it be? The Standard reveals today that the ..."
+    publishedDateTime: 2023-10-27T11:05:00Z
+    webUrl: "https://www.standard.co.uk/comment/metropolitan-police-facial-recognition-technology-arsenal-tottenham-b1116393.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 41
+    images:
+      - url: "https://static.standard.co.uk/2023/10/27/10/01/BARRY%20DOWNARD%20SECURITY.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Essex police use intrusive facial recognition for first time"
+    excerpt: "LIVE facial recognition was introduced in Essex for the first time this week as police across Britain ramp up use of the intrusive technology. Southend officers carried out targeted operations with the camera system on Tuesday, while Chelmsford police followed suit today."
+    publishedDateTime: 2023-10-25T16:16:00Z
+    webUrl: "https://morningstaronline.co.uk/article/essex-police-use-intrusive-facial-recognition-for-first-time"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 39
+    images:
+      - url: "https://morningstaronline.co.uk/sites/default/files/PA-40271538.jpg"
+        width: 1185
+        height: 789
+        isCached: true
+  - title: "Travel industry adoption of facial recognition grows"
+    excerpt: "Travelers are most likely to be among the first to experience the mass worldwide commercial deployment of facial recognition."
+    publishedDateTime: 2023-10-25T15:26:00Z
+    webUrl: "https://www.biometricupdate.com/202310/travel-industry-adoption-of-facial-recognition-grows"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 54
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/06154234/walmart-cctv-facial-recognition-scaled.jpg"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/28114521/airport-passenger-processing-scaled.jpg"
         width: 2048
         height: 1365
         isCached: true
+  - title: "Universal Orlando Resort Tests Facial Recognition Technology for Guest Entry"
+    excerpt: "Universal Orlando Resort has begun testing a new facial recognition technology, dubbed “Photo Validation,” as a potential replacement for the current thumbprint scan used at park entrances. The technology is designed to streamline park operations"
+    publishedDateTime: 2023-10-28T22:46:00Z
+    webUrl: "https://hoteltechnologynews.com/2023/10/universal-orlando-resort-tests-facial-recognition-technology-for-guest-entry/"
+    type: article
+    provider:
+      name: hoteltechnologynews
+      domain: hoteltechnologynews.com
+    quality: 36
+    images:
+      - url: "https://hoteltechnologynews.com/wp-content/uploads/2023/10/sapphire-falls.jpg"
+        width: 1440
+        height: 900
+        isCached: true
+  - title: "Policing minister calls for greater use of facial recognition technology to track down offenders"
+    excerpt: "Chris Philp says the advances would allow police to 'stay one step ahead of criminals' and make Britain's streets safer"
+    publishedDateTime: 2023-10-28T23:01:00Z
+    webUrl: "https://inews.co.uk/news/policing-minister-calls-for-greater-use-of-facial-recognition-to-track-down-offenders-2719070"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 26
+    images:
+      - url: "https://wp.inews.co.uk/wp-content/uploads/2023/10/SEI_172752555.jpg?w=1024&h=675&crop=1"
+        width: 1024
+        height: 675
+        isCached: true
+  - title: "Essex Police facial recognition technology op in Southend"
+    excerpt: "Three people have been arrested, including one on suspicion of rape, as police used facial recognition technology in two Essex high streets this week. Live Facial Recognition technology was utilised for the first time in Essex in Southend High Street on ..."
+    publishedDateTime: 2023-10-26T12:51:00Z
+    webUrl: "https://www.echo-news.co.uk/news/23881211.essex-police-facial-recognition-technology-op-southend/"
+    type: article
+    provider:
+      name: Echo news
+      domain: echo-news.co.uk
+    quality: 19
 
 secured: "ggGu9g7HE8jMPuODX7sidJXa4xzkQ9LRAIP/e4B0t2bpDnmoJqetUbFa14HvgViq5OB1L71BoiPe+eLw7WrOaF5NjiXBk/pOpjZrTNyUjkfguLfhMqxNIZC5s8GELopaXn8QFBrWmlUiP2jtPI7qhF0F7DI26TW29zFf974pj2fItqJO/RdTIj5K/nqoKC0BWsnWteN/Syt6ynQ/So2TXAvtPThrs0HKpE/Ff2LWC7VBByJq8X0W6sc/iay82W59HDu/W4zuutKE900uNt3tRWQRn72AN7dUnOAH41JzWtUdmkAKaNY6HlabpguzZTuG9uU7g0lGAjpsZ29QN490tzKi/l7BYQUuYir2dqh2cTQswgJCQtoeydkHkjnbO+Z65Q4EQfzxHY+vKmXzqdSKufb1OcM4wxUR+Gjb4ndqPGi8X6+odCTHG4QYxH7mAFX8XWVmDtFSsPfXBeXexsUzTPcRV4eKI9UaUnmAq30iA74jdetq33nPZk0PwxtM6XqySiQN1do5KyUKp1SmoMo62w==;tIH/o0Msk4SrjYld8cM96A=="
 ---

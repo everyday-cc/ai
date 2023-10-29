@@ -2,19 +2,19 @@
 category: news
 title: "To our readers: How we are using AI in our newsrooms"
 excerpt: "It is important to let you know about the technology and automation being utilized in an effort to better serve you."
-publishedDateTime: 2023-10-27T18:29:00Z
-originalUrl: "https://www.miamiherald.com/article280707640.html"
-webUrl: "https://www.miamiherald.com/article280707640.html"
-ampWebUrl: "https://amp.miamiherald.com/article280707640.html"
-cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/article280707640.html"
+publishedDateTime: 2023-10-27T17:29:00Z
+originalUrl: "https://www.kansascity.com/news/nation-world/national/article280707640.html"
+webUrl: "https://www.kansascity.com/news/nation-world/national/article280707640.html"
+ampWebUrl: "https://amp.kansascity.com/news/nation-world/national/article280707640.html"
+cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/nation-world/national/article280707640.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Kansas City Star
+  domain: kansascity.com
 
 topics:
   - AI Ethics
@@ -31,6 +31,6 @@ related:
       domain: technewsworld.com
     quality: 19
 
-secured: "KKElj51hCrO9lSKVdgPNZ11vB9NoniYMwlbHf0qj4lBIAVMaFxW+lM0Gq9afFeYWgPd2aep6totgKNSL+rJIBsbmS4ZcuhqBSh8/+EerwctWmJ/Gqc6GycWn8EQSQ6ji9QEbJxMgQPU07BUl4qcWJzdDuoeYABIm186cIUIRS9ZFOQk6Of4ptVjOCXXBwnkm5F26/10veQarQYOfol8yKTPXvMY3HoaBbmZ6Ti+/t1CcXOOaBJCTzxSvjUut0tQ/0zLDju53owqVQQSTk8LAh7wLs1MkOPJkSXir2bCOvbbBRaavPo1NBz+0ZnP4cVEdXz5Vfed/5VEOLvYvD5Y+WVcTPH9XuJBlJ+YZ5cQ5iZpDy3dOFouUbMS6jn4dnBxj3bGsngoSpNrHOhuoQ94Eq5+4aSgUthugLcYJs/qZMVdfHuJJOdVMfx50P9B/hMg33+kVPB3JebtdlLNMMW/0lYXhjKFRQ2FbDMUuMCMZdj9mDy1XlsNO6cQXE78XeBZJ8NTVMvxgV50Ti9BZ1aV3PQ==;37F3xwQkul37Oxahf8wTyg=="
+secured: "F0IfEYYTmLOa0sIfaOU3FVriojSXoYiP219ytokOCXFgWBP/cfq8l7drTfXpjSJVK1c5P6UKRjSeIweymnnuklWrB/5I9jhKgl0RctzjdTZgoOnxZZAbQNxaidt0VxvHI4bKXxLomete5Cp312ZUhqpymtym96Hi5cv9u84XsM+0JqpUrfj1Na7eRwshzkdlM1McSkXKyIaU44Iv4LU9Xejn1+1M5r5QqE6CabvhSsh3h1b/z+hKM6lHMdqmoMd5tQ8GtUfsfxBY8lq8VE72XRLNPTVUCm+OT3wYzavA7bboHVZE3zJGMwS6hFwyFAeUGnwqlQID+rUy09xB1eW2FqjGZ2DM/PtOWXpSavAak8E8pL698bQys/jpm0h9uBE/qioIRYSTR5vQUx9XIgOOf/hYbVpct6MNauR/UjGX+kjFl0Z4mDmu2qRUfTiRyVLVHj6o4trHgM9qCImTlKCvjd96H58fc2c+FAOBKp+2E/fEE9lgk5YDSK02tjbo9x2+0Vb9ZWRjh1Q3i5CRCsy5UA==;2mvx7RrnG8jCiYAU3tWqzA=="
 ---
 

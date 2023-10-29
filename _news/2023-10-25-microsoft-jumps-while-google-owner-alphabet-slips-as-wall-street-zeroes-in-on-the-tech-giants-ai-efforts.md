@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/stock-market-outlo
 webUrl: "https://markets.businessinsider.com/news/stocks/stock-market-outlook-ai-chatgpt-bard-microsoft-google-alphabet-shares-2023-10"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,86 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Microsoft gaining ground in cloud race with AWS, Google"
+    excerpt: "Microsoft is pulling ahead of its chief rivals, Amazon.com and Google, in the burgeoning cloud services market."
+    publishedDateTime: 2023-10-27T05:14:00Z
+    webUrl: "https://techcentral.co.za/microsoft-gaining-cloud-race-aws-google/234097/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 71
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2021/09/cloud-2156-1120-6-1024x532.jpg"
+        width: 1024
+        height: 532
+        isCached: true
+  - title: "Amazon Earnings Preview: All eyes on AWS after Microsoft cloud's high and Google's low"
+    excerpt: "Amazon.com Inc is set to release its Q3 earnings on Thursday, a day after Microsoft and Google's results. Microsoft experienced growth in its Azure platform, while Google's cloud division had tempered growth."
+    publishedDateTime: 2023-10-26T11:30:00Z
+    webUrl: "https://www.cnbctv18.com/earnings/amazon-earnings-preview-all-eyes-on-aws-after-microsoft-clouds-high-and-googles-low-18156181.htm"
+    ampWebUrl: "https://www.cnbctv18.com/earnings/amazon-earnings-preview-all-eyes-on-aws-after-microsoft-clouds-high-and-googles-low-18156181.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/earnings/amazon-earnings-preview-all-eyes-on-aws-after-microsoft-clouds-high-and-googles-low-18156181.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 68
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2022/11/amazon-image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Microsoft launches a new Excel add-in to help with business forecasts via machine learning"
+    excerpt: "If you are looking to use your Excel spreadsheet program for more than just number crunching, Microsoft has announced a new add-on for the app that will help businesses create better forecasts with the help of machine learning and AI. In a post on the ..."
+    publishedDateTime: 2023-10-26T19:35:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-launches-a-new-excel-add-in-to-help-with-business-forecasts-via-machine-learning/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 56
+  - title: "Microsoft clocks $56.5Bn in revenue in Q1 FY24, Intelligent Cloud revenue up by 19%"
+    excerpt: "Microsoft's Q1 2024 earnings beat expectations with $56.5 billion in revenue as its AI ambitions yield rich results."
+    publishedDateTime: 2023-10-26T05:01:00Z
+    webUrl: "https://thetechportal.com/2023/10/26/microsoft-revenue-cloud-earnings-q1-2024/"
+    ampWebUrl: "https://thetechportal.com/2023/10/26/microsoft-revenue-cloud-earnings-q1-2024/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/10/26/microsoft-revenue-cloud-earnings-q1-2024/?amp"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 53
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2022/01/msft-logo-building_0.jpg"
+        width: 703
+        height: 492
+        isCached: true
+  - title: "Foundry for AI by Rackspace Partners with Straits Interactive to Launch AI Data Protection Officer on Microsoft Azure OpenAI Service"
+    excerpt: "Development of the APJ’s first AI Data Protection Officer Assistant with Rackspace Technology’s secure multicloud solutions and integration with Microsoft Azure OpenAI Service  Philippines – Rackspace Technology— a leading end-to-end,"
+    publishedDateTime: 2023-10-27T08:07:00Z
+    webUrl: "https://manilastandard.net/spotlight/314384434/foundry-for-ai-by-rackspace-partners-with-straits-interactive-to-launch-ai-data-protection-officer-on-microsoft-azure-openai-service.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 38
+    images:
+      - url: "https://cdn.manilastandard.net/wp-content/uploads/2023/10/Foundry.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Infosys collaborates with Microsoft to accelerate and democratize … – Infosys"
+    excerpt: "Both companies will help enterprises take an AI-first approach to scale next-generation AI solutions to improve operational efficiencies, drive revenue"
+    publishedDateTime: 2023-10-24T18:20:00Z
+    webUrl: "https://www.inferse.com/769259/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-infosys/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 16
 
 secured: "TdqX1b7nGlqPRPwLgsgBpd9KXroOARrejEe9zRuA1OTLxZGgF2vq71gH+XgPRvsV8H6WKkCeEHeuG7KEoU9wAGwOiNdj104raTwSa18sl6Jdm8S3Qd4bGmQYpY1JgPYl92tSwF/Vg5aLeoyGLQRgTrRspS8meNyanuJh9RpZ4RfNc6uF2l16yM2QasQJexJY8zMRevG1qIl9dcY4qiR0ZtI2+XGpho/8cIM9vd1n4C6ja6fYHlmPbSIGBJjFQ84oq4Nt7DrtCTuCk0FngYRY1oKPpWJQa9sgzHkEEgtcwW9VVk7nw6vKmnNggI/350gwqisdLKVYA1jYh3JnP/SDZ8sWmMOKs+A394qjAayR6C0=;280jBwOlALFveKVYVSnqEA=="
 ---

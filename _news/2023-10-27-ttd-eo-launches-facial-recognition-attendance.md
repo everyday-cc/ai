@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/news/cities/tirupathi/ttd-eo-launch
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/tirupathi/ttd-eo-launches-facial-recognition-attendance-832694"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Hans India
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Three arrests after force trials facial recognition"
-    excerpt: "Facial recognition technology can be used by police to scan large groups of people and by running photos through an image database known as a \"watch list\". Chris Philp, MP for Croydon South and minister for crime, policing and fire said the technology was being used by the Metropolitan Police at large events such as football matches."
-    publishedDateTime: 2023-10-26T06:50:00Z
-    webUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9b65/live/d1e43770-7370-11ee-8623-0398dceccf41.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "TTD introduces facial recognition for employees"
     excerpt: "The Tirumala Tirupati Devasthanams (TTD) management formally introduced Facial Recognition System (FRS) for its employees at its administrative building on Thursday. Executive Officer A.V. Dharma Reddy, who formally launched the system, announced that the ..."
     publishedDateTime: 2023-10-27T01:55:00Z
@@ -75,80 +59,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "Essex police use intrusive facial recognition for first time"
-    excerpt: "LIVE facial recognition was introduced in Essex for the first time this week as police across Britain ramp up use of the intrusive technology. Southend officers carried out targeted operations with the camera system on Tuesday, while Chelmsford police followed suit today."
-    publishedDateTime: 2023-10-25T16:16:00Z
-    webUrl: "https://morningstaronline.co.uk/article/essex-police-use-intrusive-facial-recognition-for-first-time"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 39
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/PA-40271538.jpg"
-        width: 1185
-        height: 789
-        isCached: true
-  - title: "Travel industry adoption of facial recognition grows"
-    excerpt: "Travelers are most likely to be among the first to experience the mass worldwide commercial deployment of facial recognition."
-    publishedDateTime: 2023-10-25T15:26:00Z
-    webUrl: "https://www.biometricupdate.com/202310/travel-industry-adoption-of-facial-recognition-grows"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/28114521/airport-passenger-processing-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Russia illegally used facial recognition to arrest protestor, human rights court rules"
-    excerpt: "Russia's use of facial recognition technology to arrest a protester on the Moscow subway violated his human rights, the European Court of Human Rights (ECHR) ruled Tuesday. \"The use of facial-recognition technology in his case ha[s] been incompatible with ..."
-    publishedDateTime: 2023-10-26T12:25:00Z
-    webUrl: "https://www.politico.eu/article/russia-illegally-used-facial-recognition-to-arrest-protestor-european-human-rights-court-rules/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 31
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/07/04/GettyImages-1208074535-scaled.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "‘A threat to our fundamental freedoms’ – MPs and peers voice opposition to live facial recognition"
-    excerpt: "Large group of parliamentarians calls for all police forces and private companies to immediately stop using surveillance technology, which senior Conservative MP describes as a 'threat to our civil li"
-    publishedDateTime: 2023-10-24T10:48:00Z
-    webUrl: "https://www.publictechnology.net/2023/10/24/public-order-justice-and-rights/a-threat-to-our-fundamental-freedoms-mps-and-peers-voice-opposition-to-live-facial-recognition/"
-    type: article
-    provider:
-      name: Public Technology
-      domain: publictechnology.net
-    quality: 27
-    images:
-      - url: "https://www.publictechnology.net/wp-content/uploads/2023/10/monitoring-1305045-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Essex Police facial recognition technology op in Southend"
-    excerpt: "Three people have been arrested, including one on suspicion of rape, as police used facial recognition technology in two Essex high streets this week. Live Facial Recognition technology was utilised for the first time in Essex in Southend High Street on ..."
-    publishedDateTime: 2023-10-26T12:51:00Z
-    webUrl: "https://www.echo-news.co.uk/news/23881211.essex-police-facial-recognition-technology-op-southend/"
-    type: article
-    provider:
-      name: Echo news
-      domain: echo-news.co.uk
-    quality: 19
-  - title: "Can facial recognition be justified for espionage in war?"
-    excerpt: "With military conflicts asserting themselves into the story of the twenty-first century, a parallel debate is being waged about the uses for FRT in warfare."
-    publishedDateTime: 2023-10-27T11:30:00Z
-    webUrl: "https://www.biometricupdate.com/202310/can-facial-recognition-be-justified-for-espionage-in-war"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
 
 secured: "XILhB32mwUCMTXEvSGsEeOoZO+s+hQttXLwhLT1KQRq+w75G5Dfr3ZFbNHz2UptBrhQyuV72jxvCAHb55rvxip7QSl98IPIJ6IEKHnMhlgiiXRUit2gP0UYaBXHBUGJBmFKrG8IgwxRVbZlFg8VUVGcNorHbwJuqbusKjZZlPlsD8nxk4q7Pu28nRuxeLqAqgUIMImoQkWj04x/KjeGzLOlc+TrztjqcbXnU1V7KOAl33HzC3lxua87/kkWVl/eBpi5DXmyDZnYZ8dL92hFEFOD/8EmbK+dA9sPRiVk5KlioLYeGGlNIzU0D5tPsv6vpvyCyCmlDfBOm+/nG8aAohIMIpdxBNepwGnzNQc3qIjGYbd5x2QrXVjhgPOFklH9LE33DsKZLqjmJBNlTLdI+kHnmexj6TOVqblm363TJTa5oKUYzIu5BpCCbWdpYY/F5IRXBdgOnnQ8JhUKjuA9/z1pTPz66BSoBmrsFuzaL4GQ+C+asTc2O5O0tPSl4HTzinQZghb8IBAnpA5xAB9FfiA==;nKwlMkl9BNhnQYRWyHBCHw=="
 ---

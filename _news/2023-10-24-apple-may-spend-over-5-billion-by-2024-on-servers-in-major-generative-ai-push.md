@@ -25,54 +25,78 @@ images:
     isCached: true
 
 related:
-  - title: "Five Major AI Governance Practices Coming in 2024"
-    excerpt: "The widespread adoption of AI tools has created many questions about AI biases, ethics, and challenges. The ongoing attempt to enforce compliance and regulations in AI adoption should change all that by 2024. By then, enterprise leaders using AI will have ..."
-    publishedDateTime: 2023-10-27T15:02:00Z
-    webUrl: "https://enterprisetalk.com/featured/five-major-ai-governance-practices-coming-in-2024/"
-    ampWebUrl: "https://enterprisetalk.com/featured/five-major-ai-governance-practices-coming-in-2024/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/five-major-ai-governance-practices-coming-in-2024/amp/"
+  - title: "AI May Soon Weigh In on Regulation"
+    excerpt: "How will agencies like the FCC deal with computer-generated public comments?"
+    publishedDateTime: 2023-10-24T19:12:00Z
+    webUrl: "https://www.wsj.com/articles/ai-may-soon-weigh-in-on-regulation-artificial-intelligence-agencies-public-comment-periods-766436ec"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 59
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/10/Five-Major-AI-Governance-Practices-Coming-in-2024.jpg"
-        width: 1500
-        height: 844
+      - url: "https://images.wsj.net/im-873788/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Teachers feel overwhelmed by advances in artificial intelligence"
-    excerpt: "The arrival of generative artificial intelligence tools like ChatGPT in the world of education raises many questions about academic integrity. Teachers are on the front line of this revolution, but many of them feel overwhelmed by this technology's arrival in the classroom."
-    publishedDateTime: 2023-10-25T03:30:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/25/teachers-feel-overwhelmed-by-advances-in-artificial-intelligence"
+  - title: "UK regulators report back on AI and Machine Learning consultation"
+    excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
+    publishedDateTime: 2023-10-26T12:24:00Z
+    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Asset Servicing Times
+      domain: assetservicingtimes.com
+    quality: 56
+    images:
+      - url: "https://www.assetservicingtimes.com/assetservicesnews/images/ThursdayOctober2620231698319657.jpg"
+        width: 990
+        height: 640
+        isCached: true
+  - title: "Artificial intelligence may help predict infection risks after implant-based breast reconstruction"
+    excerpt: "Artificial intelligence (AI) techniques may provide a more accurate approach to predicting the risk of periprosthetic infection after implant-based breast reconstruction, reports a study in the Novemb"
+    publishedDateTime: 2023-10-24T20:30:00Z
+    webUrl: "https://medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-artificial-intelligence-infection-implant-based-breast.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 45
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/breast-implant.jpg"
+        width: 2880
+        height: 1925
+        isCached: true
+  - title: "Real Insights on Artificial Intelligence"
+    excerpt: "AI could disrupt all aspects of daily life – transforming how we work, live and play. What’s its true potential, and how do we manage the risks?"
+    publishedDateTime: 2023-10-25T16:10:00Z
+    webUrl: "https://www.washingtonpost.com/creativegroup/intel/real-insights-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/creativegroup/uploads/2023/10/25170703/16970419297931697041929720-e1698253672489.png?rand=196"
+        width: 460
+        height: 441
+        isCached: true
+  - title: "Apple could spend $4.75 billion on Artificial Intelligence in 2024"
+    excerpt: "Apple is looking to catch up with the likes of Microsoft and Google on Artificial Intelligence and the company is apparently planning to spend a"
+    publishedDateTime: 2023-10-24T08:26:00Z
+    webUrl: "https://www.geeky-gadgets.com/apple-could-spend-4-75-billion-on-artificial-intelligence-in-2024-24-10-2023/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 37
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/24/2353272.jpg"
-        width: 1240
-        height: 697
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Apple-Store.jpg"
+        width: 2180
+        height: 1453
         isCached: true
-  - title: "Navigating the AI Revolution In Finance: Three Steps To Ethical Integration And Win-Win, Profitable Outcomes"
-    excerpt: "While the integration of AI in the realm of finance has provided it with a much-needed boost by streamlining processes, enhancing efficiency, and enabling the delivery of tailored services, several ethical implications have come with its usage."
-    publishedDateTime: 2023-10-27T19:02:00Z
-    webUrl: "https://www.benzinga.com/23/10/35471921/navigating-the-ai-revolution-in-finance-three-steps-to-ethical-integration-and-win-win-profitable-ou"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
-  - title: "Governments must not rush into policing AI"
-    excerpt: "Regulators must be prepared to react quickly if needed, but should not be rushed into setting rules or building institutions that turn out to be unnecessary or harmful. Too little is known about the direction of generative AI to understand the risks associated with it, let alone manage them."
-    publishedDateTime: 2023-10-26T12:35:00Z
-    webUrl: "https://www.economist.com/leaders/2023/10/26/governments-must-not-rush-into-policing-ai"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 19
 
 secured: "mmQjlc/RDo8BZmvMmrT+HPEIfwqG6zumXC1mrI9Q9R/RmOpnPhkD2dQYTggxwtSuXtZibhQwCITyOylRWQUsjPZgbBCH08Yow4QQroRA4L/ZZsxzqNW0177TWo17f9JrY5eLKibi+nwk0M5XIXe/KsDeXJiAMpPSWhqPFqODlWwK8rTGzngOhR/r+huB5rqAJxNF4OnWcL/Cv1u3xToKHZni9lUFiAEp7ovfsvEmWxwtBwB2UbOMU9gb2kJTjX6V9sdTfchvKCC8MJfa3NeGJL3L/YwJMjkJ+6fI+LbO/C3/KgsE1wMM4Po36LW+Vh/oqh5BbeFS82p1MVf6IUORMXV+KmAFMjsbkQKi01R4KCH3q2gMkTT6Rs3lexTwU1lf2uJDiGlb/DjyjiaRyUNS3Jik4RrvRjZK/ZAsBAiFYX5/+DYnKBis8sUhzvS1Rw73shgh/HEEsTH20uUX4a5vBJMCxcOWNLKPBP+YxdBKMh81BHQUsBHcV/OwzPHVSFFYJmB0Tp4hXQ0CzVVSNQqBew==;4FZS7u+NuAFFYDKIym3S8w=="
 ---

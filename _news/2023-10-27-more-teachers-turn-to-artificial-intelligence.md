@@ -7,7 +7,7 @@ originalUrl: "https://madison.com/more-teachers-turn-to-artificial-intelligence/
 webUrl: "https://madison.com/more-teachers-turn-to-artificial-intelligence/article_bd01072d-f7f8-59a3-b1a5-ff4b79ecf3de.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,15 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Governments, Firms Should Spend More on AI Safety, Top Researchers Say"
-    excerpt: "\"Governments should also mandate that companies are legally liable for harms from their frontier AI systems that can be reasonably foreseen and prevented,\" according to the letter, signed by three Turing Award winners, a Nobel laureate, and more than a dozen top AI academics."
-    publishedDateTime: 2023-10-24T06:56:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-24/governments-firms-should-spend-more-on-ai-safety-top-researchers-say"
+  - title: "One AI Device to Rule Them All"
+    excerpt: "Hi, welcome to your Weekend.It’s been 10 years since the movie “Her” introduced us to a queasy future in which a man falls in love with his AI-powered digital assistant. Guess who loved that movie? Yup,"
+    publishedDateTime: 2023-10-28T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/one-ai-device-to-rule-them-all"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
+      name: The Information
+      domain: theinformation.com
+    quality: 17
 
 secured: "SGA+SUoSsm5T1jWZ5mYuXUZH9PsJowCF647DdReNv1xdsKujRG0yq9rahMt1lVhArK+I2uNWjjq3s3rQ1KpjQs4tg7srsmVVhyhMmJKk73cdrzVZnPrxpUUJrA1s83fTN17IYdv+YR4DKr/K/u/kM/RbIs9J0U9+BGkmaIzlgmLZSL8JKdX7m96R24NBnho3bwvDafTzOiBuwdKQizWYh+qVbqeintZIpGPqk8RY3qDDcrKPnmfLDhO1aB/lsfxN2iSe24dZIpKRa+FIyoiMNwaPgW49/S7j1aK6sTYLksfK/9p5Vlp4j+r32LuAHU0olh0FHN0KX2bW/V2TVnDKvmAygcqTi57e5topWiKOMLWJMSZzh4eVUsJtnGwwDn1PITlC8ViOamj+XLiYJwxWY46LBUXadNmbptSyFl8JfHM8Qwve1kQnZ5jBsd23zbqnZCeCxOdMktavo0c241s/yt/92o7tddooiMfSZ+ICS2L3LoHbjEkw/jsgsdIanu4FyQJwuM0HTfPHmQeTIwoolA==;6VTr2pP5ygYyzdH7/dFcUg=="
 ---

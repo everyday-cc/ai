@@ -48,6 +48,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Automating Machine Translation Quality Estimation Gains Traction"
+    excerpt: "Machine translation quality estimation is firmly in the spotlight as big tech is experimenting with ways to auto-evaluate machine translation output. The focus on MTQE is justifie"
+    publishedDateTime: 2023-10-26T09:35:00Z
+    webUrl: "https://slator.com/automating-machine-translation-quality-estimation-gains-traction/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 34
 
 secured: "E88BBXmEjKARCAg3O5e5NDVFKXFljx8VtSJOynTagvjtUe6bs30yWm8zke1f0PXwLEIUSbZLRj1SO1BcLP7zMKi/y9M1vzBfBwll48sOKV6HXijln8CfdXbdxkO/rt15wRXlyCNJMk0KS8rUX1T4rNmbeehNXs8o/Oop2LfG4RilphQ64yKmPGUvZbO3SZv4/IImY2ae8BgfBpSh3jhjSG9kqv8kisIucQ6RD+Pqe5JcyiS4wdLIbvVosfCpr2sKmarivk1mHQfsVeKUXPI81YrNuyEAEiyRq27s4ciQVajd3xGd3GBGk1oauFg+RaBrAsjKWAgiXsHQMRFGhCCFq4cBkR9EtHHwryzB3iGYfW8M8oMW0LvuLViivECQAGqSmW4kZh4QVGj2G1WQqIGxhh4vcL0hw3f2MWiIBRqbhFlVFAVcWn6QXScEtT4dqxdvXo9iLtpMIdZEwl5gLloSC328O+mDZG2ek9vKWN+MqOopbr+lG6kDonqjFNgeHTopxvNgJFJuaJ/XhKGwTUPwSg==;e0xucj+yVGIcZjXEjhFYfw=="
 ---

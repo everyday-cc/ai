@@ -26,28 +26,42 @@ images:
     isCached: true
 
 related:
-  - title: "Google Bard AI appears to be censoring Israel-Palestine prompt responses"
-    excerpt: "Bard won't respond to user queries or prompts about the ongoing crisis in Israel and Palestine over the October 7 Hamas terror attacks."
-    publishedDateTime: 2023-10-24T05:19:00Z
-    webUrl: "https://venturebeat.com/ai/google-bard-ai-appears-to-be-censoring-israel-palestine-prompt-responses/"
+  - title: "Poe wants to be the App Store of conversational AI, will pay chatbot creators"
+    excerpt: "Ultimately, Poe wants rapid innovation across the entire conversational AI space, not to constrain progress to what it can handle internally."
+    publishedDateTime: 2023-10-27T16:56:00Z
+    webUrl: "https://venturebeat.com/ai/poe-wants-to-be-the-app-store-of-conversational-ai-will-pay-chatbot-creators/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 66
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-23-18.12.55-An-illustration-of-a-newspaper-in-16_9-aspect-ratio.-The-main-headlines-across-the-top-and-center-are-hidden-behind-large-black-bars-indicating-censo.png?w=1200&strip=all"
-        width: 1199
-        height: 685
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_surreal_sci-fi_magazine_a_man_looks_intently_at_a_smart_ba1569ff-9052-456e-a9aa-6a66ec7d3e79.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
-  - title: "Artificial Intelligence Is Shaping the Story of the Israel-Gaza War"
-    excerpt: "The discourse on Hamas and Israel has been replete with bias."
-    publishedDateTime: 2023-10-25T12:29:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/artificial-intelligence-shaping-story-israel-gaza-war-207044"
+  - title: "AI Chatbots Won’t Tell You Who To Vote For, But They Will Create Targeted Political Ads"
+    excerpt: "Chatbots like Bard, Claude, Pi and ChatGPT can spin up a range of campaign material from text messages to TikTok videos, but AI leaders have expressed concern over"
+    publishedDateTime: 2023-10-24T10:31:00Z
+    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/10/23/ai-chatbots-wont-tell-you-who-to-vote-for-but-they-will-create-targeted-political-ads/"
     type: article
     provider:
-      name: The National Interest
-      domain: nationalinterest.org
+      name: Forbes
+      domain: forbes.com
+    quality: 59
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6536e716415a919fc9b91512/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "OCBC launches AI chatbot to support productivity of its employees globally"
+    excerpt: "OCBC announced today (Tuesday, 24 October 2023) that it will avail a generative artificial intelligence (AI) chatbot to its 30,000 employees globally in November 2023, which will assist them with writing, research and ideation."
+    publishedDateTime: 2023-10-24T13:49:00Z
+    webUrl: "https://www.humanresourcesonline.net/ocbc-launches-ai-chatbot-to-support-productivity-of-its-employees-globally"
+    type: article
+    provider:
+      name: Human Resources Online
+      domain: humanresourcesonline.net
     quality: 17
 
 secured: "GDEB5oaSyA309MYbrGPbzDn0foAlG4xOn2iwoDUY9XfOpMjNP0X/Aup8HWbaw05ZrGhkR2ihJgfqRdeop6aFBuWEn/NoFpbT91KP16HuM1NXrGRsRARMhtRc80g8rs751GJGOoUK+SzT7FmXLFEBKSOWOqTxVVZDQiK1Ruhf9Og6hbrTECS69/86ffSoLnvVrR6vYOd+4fhMkjQ2a0xnn5Ezy/l5wAUj8Frk4ut/HzK1v6077OXpbCuhERQrpnVoJwgljb3CSLorwrJHV9L7vJ9Rw8LbzkEWZDUK4TxCcJXG7HXRcFhMgWg9y3R5U5LMfkgSk2lTII+xa9Nnij845Ozo4Atllq3KfRAJOZBIueA=;rVgOiA+9iK28h57FBSrTxw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/worried-about-ai-gobbling-up-your-jo
 webUrl: "https://www.zdnet.com/article/worried-about-ai-gobbling-up-your-job-start-doing-these-3-things-now/"
 type: article
 quality: 71
-heat: 72
+heat: 73
 published: true
 
 provider:

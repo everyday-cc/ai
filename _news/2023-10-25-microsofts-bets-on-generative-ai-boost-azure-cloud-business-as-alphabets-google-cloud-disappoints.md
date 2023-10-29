@@ -3,8 +3,8 @@ category: news
 title: "Microsoft’s bets on generative AI boost Azure cloud business, as Alphabet’s Google Cloud disappoints"
 excerpt: "Microsoft’s revenue from the Azure cloud-computing platform beat estimates in the September quarter, while Google Cloud’s sales growth ground to its slowest pace in at least 11 quarters."
 publishedDateTime: 2023-10-25T11:39:00Z
-originalUrl: "https://www.scmp.com/tech/big-tech/article/3239082/microsofts-bets-generative-ai-boost-azure-cloud-business-alphabets-google-cloud-disappoints?module=live&pgtype=homepage"
-webUrl: "https://www.scmp.com/tech/big-tech/article/3239082/microsofts-bets-generative-ai-boost-azure-cloud-business-alphabets-google-cloud-disappoints?module=live&pgtype=homepage"
+originalUrl: "https://www.scmp.com/tech/big-tech/article/3239082/microsofts-bets-generative-ai-boost-azure-cloud-business-alphabets-google-cloud-disappoints"
+webUrl: "https://www.scmp.com/tech/big-tech/article/3239082/microsofts-bets-generative-ai-boost-azure-cloud-business-alphabets-google-cloud-disappoints"
 type: article
 quality: 84
 heat: -1
@@ -315,20 +315,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 58
-  - title: "Cash-Rich Apple Still Needs Billions To Catch Up In Generative AI Race Against Meta Or Microsoft: Analyst Ming-Chi Kuo Reveals Why"
-    excerpt: "According to Kuo's latest survey, Cupertino plans to procure 2,000 to 3,000 AI servers in 2023 and a more substantial 18,000 to 20,000 units in 2024."
-    publishedDateTime: 2023-10-24T06:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cash-rich-apple-still-needs-billions-to-catch-up-in-generative-ai-race-against-meta-or-microsoft-analyst-ming-chi-kuo-reveals-why-1032731676"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Apple._Image_Via_Shutterstock_1.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Intel is reportedly taking on Microsoft and OpenAI in the AI race"
     excerpt: "While companies like Microsoft and OpenAI have placed all bets on the emerging generative AI technology in the past few years, Intel has remained quiet with a keen focus on what it knows how to do best: hardware."
     publishedDateTime: 2023-10-27T22:58:00Z
@@ -632,6 +618,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "UVSWunAoQ70HtDeNdOeXY8ALI5HUi3ZMZos9GFwArav/sxgwCS/FmuQaG+NzPNndTnNAyDLecFdzUJIcKm4MOhix7c11wm5cKsGn182gj/G0MtopZ+twm9jBQM6Ds8kjV2HCm+UaF8XH3JeXwMFnQDfbb4T4OxD5nZz6wu36c0UzYGh/1CpVsphMgpqmT3NIcMA8NQBZhZ72px9gq+RQiSMGEHzurkHIuybP+NGbdVPesHcdRnBW1Cm0kq7gno/IRhtRuZwRZB/jcJzKP0kFuVn1VQ2HyVFACJ98ut7GC0SNqITW45LLqWQ33x8qvIUaZOeI5pnInnoRFMaFDK9lHO8rl9ovHsm67k8geGHPEYpE6eg7g4oYrAAE+OmCfOu/0mW/wvGFm3LVHZjFoZcrCK0+2WKbTrWHOjHugHLsM5/sz9B9y4HlwmH2KoQl7DQWpKbRZQAHwhuKK7L5meqbrXmMFNTrb6G0cFmrgiAn4sOPeITg/K/nhU9lR5p3zABYwf5lvz7u36c4jKt00NijLw==;cYNxESswqU+kdWovR1er3g=="
+secured: "heoEGQLkJk8Z4CAkVjqyxt/kTg5hjoEszWm+jn9jsPbbVG7Ly7/03FYQOdifoEojtaXf/q72M7N5W0U14dLGDkfQTl/ZYyDk5uIuABRKMAqverrX5S7ZDTyFiowCtSO7CxDDX4ff8nzYihf8KjSkGeKaVdvQ7PZPrjP6n4xCs6d5Y1h2R3yKRnH5I/oUr3xcsFPQAd0TvHBJSes2j2709E5pmFodLm89+l9wemZJpn44CMIskGtwBNPvpENhSlWu1oOxf+JwytaLIT+y4gWE1neP7jyNPkUSWpS+hMPLzDRfK2IBvg4Ewu+TPGLPFdmfduW4kFi5336duYAEwAneGkTIPWmCw03zdRQN2jjOXgY=;BbV//pmljuDzET9n18jx4w=="
 ---
 

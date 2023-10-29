@@ -49,6 +49,15 @@ related:
       name: ecampusnews.com
       domain: ecampusnews.com
     quality: 51
+  - title: "Automating Machine Translation Quality Estimation Gains Traction"
+    excerpt: "Machine translation quality estimation is firmly in the spotlight as big tech is experimenting with ways to auto-evaluate machine translation output. The focus on MTQE is justifie"
+    publishedDateTime: 2023-10-26T09:35:00Z
+    webUrl: "https://slator.com/automating-machine-translation-quality-estimation-gains-traction/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 34
 
 secured: "9VSevTVMO4A9IprSRZ28zeESYgouMx29rScxbvQ4O5ZS+SQR0cFRq9dmxPYGxtQZK6UxsCxazYmvqzU9/YU7xMXvlqhcApfc+FtC0Gjv6RKNZk/p+UV+G4vKC78IwY9Wjo66GEz9YYf3wmpiO4RUxBf0Yz1x1uFKNGGzSKZVGiQBkkpgTScHcNZ30ogyfzuI+++7NtM4ZGQjAwaOisYM2ltPsBecdA1GVP57laWWtspx5f2xVGoTI9GcFMgUtR9URqCAmSYkqmcMdy04411obrlxMQIG7m69tiC0SbKXNTEnnIltxfjNzMh3wwP7FZLOXx/Cz9G7s5poljPGT6psfZlO7DGXoZEu16LkeYsqqGYCQpuzdjfu6xirI/l77RWgxZP5ZWwqgINz6SMwik/Zqz4SF50ml1LLmMdNBXzJTyQHtD6Uhs+CuULWsXsUJF4mjw0D4s6sdycl8l8vt+TcICnUb3Y1XPpiL6lYIOM1HBVqBarcBNPxvfP8P1aPcKdKSY+1N42Nyy5kr1nJgbudHw==;/vElmplvvsAbIc0BstQJ2A=="
 ---

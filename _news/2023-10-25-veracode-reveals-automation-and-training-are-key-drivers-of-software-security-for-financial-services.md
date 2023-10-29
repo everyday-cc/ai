@@ -2,22 +2,28 @@
 category: news
 title: "Veracode Reveals Automation and Training Are Key Drivers of Software Security for Financial Services"
 excerpt: "Veracode, a leading global provider of intelligent software security, today released new research that unveils the key factors influencing flaw introduction and accumulation in the Financial Services sector."
-publishedDateTime: 2023-10-25T12:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm"
+publishedDateTime: 2023-10-25T11:50:00Z
+originalUrl: "https://www.valdostadailytimes.com/ap/business/veracode-reveals-automation-and-training-are-key-drivers-of-software-security-for-financial-services/article_4aa5cf18-78f0-5f55-baaf-43cb8220ba27.html"
+webUrl: "https://www.valdostadailytimes.com/ap/business/veracode-reveals-automation-and-training-are-key-drivers-of-software-security-for-financial-services/article_4aa5cf18-78f0-5f55-baaf-43cb8220ba27.html"
 type: article
-quality: 21
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AI in Finance
   - AI
   - AI in Security
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/0/2e/02e963d5-3562-5299-8939-adf08df936eb/65390183d8369.image.jpg?crop=1789%2C939%2C198%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Veracode Reveals Automation And Training Are Key Drivers Of Software Security For Financial Services"
@@ -35,6 +41,6 @@ related:
         height: 512
         isCached: true
 
-secured: "Lue0eB3rDxCWg+avrusZf5jNZATyU4A55OA0ivuB/fkj+Y5IcHOatAL1vyuIQIzDmNQLlEXGTzlhRtuHKc6XJDcBfUYOYtsVA5+D6o0esAPBDtc0/+N1xGmhaKYo9tvYp9uMi8l6eu5jOuxUmfp9G0RZHveTvcj9DQYdazFbCajOoJg/KRzL+Z/AOovtd8XPV+LWVJnCifhyVuXA6QQSxZW8UUSmhql94JyaKGv2ZnBNVOBgFg6gJQxM7RF4PDUXYO4NFypCuqRJKTpG2btXjy7jKDQ3QlDx+9vioDXm7ldtVmxgUfzoWul9/FxQ3ExXp+0YbDEOHeK6buwu/hzRq9txSM8SURXexOrEa4+Q3e8O0HAUcVUfpU3Emvr33NmYtwVdNl6Z1B7ddYjafCC84BCN8+w2lWG+xnJ3OA0XSf5Dlq42yEQyyum91+iU6x//YhwWSg92DgbM5TT8ahDtkbWoIWWhPLTHjqMH1SXRz3M8KZR9bHnpOEhNriqgBE+0Zw7hDdhPeSr55whwRv75Bg==;NshEUz6apZOej8f/DyQxRw=="
+secured: "aQYNa0mEV1pYPyioAxfAQMeoAGFiu7+OFOQv30i9ztmvbF0UKuL3QYTJXUlmULphfBahELD4lJ5xeC0wcV91Jmk7jLK4tWilvp+A0oq3/GYCrHgxGTtqK191/LVzHvPIhOMiEO6Ipgin8rBZduvbKHltUACfTy4CUU9XnpU9gQNzRxhbHlvmt6iCj4TFydB6XsIX89akH7i/ldTtczmgrtkd79QIHFGUQh0LrCGSda9lzIp/k3VO3MKTFgktUBSlwTeltjvTY9Z6ASpsPe7Jo9qeuxNCmO+A1xkhx2wtVUYsSwEqfCofDozxkviXluNgzrsknFwmr0TQMk+cLP4y17if4ruDuwc4C3P/fH01FD8=;KPvOGxeMODa7kWkaOSIDPA=="
 ---
 

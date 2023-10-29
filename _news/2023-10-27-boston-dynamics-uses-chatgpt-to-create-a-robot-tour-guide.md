@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-c
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/24/e829742b-af85-4107-90d6-be35ca206d19/thumbnail/1200x630/db30b49e80763a7322e5c83f39e1dc9f/a2bc5f7596314e70ebc61c3562e21e7f-0-1698157475482.png?v=4fae59acf57b6bb1efa9da07582ebc40"
         width: 1200
         height: 630
-        isCached: true
-  - title: "OCBC to Deploy Generative AI Chatbot Powered by ChatGPT for Staff Globally"
-    excerpt: "OCBC announced that it will deploy a generative artificial intelligence (AI) chatbot to its 30,000 employees globally in November 2023."
-    publishedDateTime: 2023-10-24T06:43:00Z
-    webUrl: "https://fintechnews.sg/79276/ai/ocbc-to-deploy-generative-ai-chatbot-powered-by-chatgpt-for-staff-globally/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 37
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/10/OCBC-to-Deploy-Generative-AI-Chatbot-Powered-by-ChatGPT-for-Staff-Globally.jpg"
-        width: 1024
-        height: 567
         isCached: true
   - title: "Researchers show ChatGPT, other AI tools can be manipulated to produce malicious code"
     excerpt: "Artificial intelligence (AI) tools such as ChatGPT can be tricked into producing malicious code, which could be used to launch cyber attacks, according to research from the University of Sheffield."

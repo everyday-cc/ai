@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-29-police-told-to-double-use-of-facial-recognition-technology-to-nail-criminals.md",
+      "title": "Police told to double use of facial recognition technology to nail criminals",
+      "excerpt": "POLICE have been told to double their use of facial recognition technology to nail criminals. Policing Minister Chris Philp wants 200,000 Police National Database searches a year by early summer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/tech/24560289/police-facial-recognition-technology-criminals/",
+      "originalUrl": "https://www.thesun.co.uk/tech/24560289/police-facial-recognition-technology-criminals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/10/illustration-scan-855692808.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/24560289/police-facial-recognition-technology-criminals/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/24560289/police-facial-recognition-technology-criminals/amp/",
+      "publishedDateTime": "2023-10-28T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-29-as-baby-boomers-retire-german-businesses-turn-to-robots.md",
       "title": "As baby boomers retire, German businesses turn to robots",
       "excerpt": "BERLIN (Reuters) - At machine parts producer S&D Blech, the head of the grinding unit is retiring. With Germany's acute labour shortage leaving few candidates to take on the skilled but dirty and hazardous manual work, the company will replace him with a robot.",
@@ -100,11 +143,11 @@
       "title": "Major UK retailers urged to quit ‘authoritarian’ police facial recognition strategy",
       "excerpt": "Human rights campaigners say the Pegasus initiative wrongly criminalises people of colour, women and LGBTQ+ people",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy",
-      "originalUrl": "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy",
+      "webUrl": "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy?ref=upstract.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -120,7 +163,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy",
-      "publishedDateTime": "2023-10-28T07:00:00-07:00",
+      "publishedDateTime": "2023-10-28T08:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -261,7 +304,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -615,7 +658,7 @@
       "originalUrl": "https://enterprisetalk.com/featured/five-major-ai-governance-practices-coming-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1103,7 +1146,7 @@
       "originalUrl": "https://www.reuters.com/article/taiwan-chips/entering-ai-era-taiwan-chip-industry-urges-speeding-up-renewables-push-idUSKBN31R0J7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1186,48 +1229,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-airbnb-using-artificial-intelligence-in-states-like-texas-to-crack-down-on-halloween-parties.md",
-      "title": "Airbnb using artificial intelligence in states like Texas to crack down on Halloween parties",
-      "excerpt": "Last Halloween, the company says it stopped around 11,000 parties in Texas on Halloween night, with about 1,500 of those being in Austin.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswest9.com/article/money/austin-airbnb-ai-halloween-parties/269-4f51969c-e747-4eda-99ef-8acaec6ac545",
-      "originalUrl": "https://www.newswest9.com/article/money/austin-airbnb-ai-halloween-parties/269-4f51969c-e747-4eda-99ef-8acaec6ac545",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.newswest9.com/assets/KVUE/images/76c7fca8-66df-4657-94f9-f7b3d9ee4b45/76c7fca8-66df-4657-94f9-f7b3d9ee4b45_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newswest9.com/amp/article/money/austin-airbnb-ai-halloween-parties/269-4f51969c-e747-4eda-99ef-8acaec6ac545",
-      "cdnAmpWebUrl": "https://www-newswest9-com.cdn.ampproject.org/c/s/www.newswest9.com/amp/article/money/austin-airbnb-ai-halloween-parties/269-4f51969c-e747-4eda-99ef-8acaec6ac545",
-      "publishedDateTime": "2023-10-26T20:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NewsWest 9",
-        "domain": "newswest9.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

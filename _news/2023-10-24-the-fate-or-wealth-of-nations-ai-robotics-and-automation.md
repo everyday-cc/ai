@@ -7,7 +7,7 @@ originalUrl: "https://mises.org/wire/fate-or-wealth-nations-ai-robotics-and-auto
 webUrl: "https://mises.org/wire/fate-or-wealth-nations-ai-robotics-and-automation"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Automating Machine Translation Quality Estimation Gains Traction"
+    excerpt: "Machine translation quality estimation is firmly in the spotlight as big tech is experimenting with ways to auto-evaluate machine translation output. The focus on MTQE is justifie"
+    publishedDateTime: 2023-10-26T09:35:00Z
+    webUrl: "https://slator.com/automating-machine-translation-quality-estimation-gains-traction/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 34
 
 secured: "cG7qXnRT+VBg+dPED3CpYvqmjbv9dU6MSA1t2hSp9+lz7mW8o7rCo/5o/L2zUlBPg8XhM2ce0+8v8PwVzKyPPn4nGSGQRf0kQ6+Ac1318IPfC90Lud8b6vSWBSPR5L2S8n4ahkaAmQsMDeK9WXEAxM64oBR8USFqfYnslosS9TMWt3uQlvy46pWGHL+276CkWcjaVYpqzvgxgtYnt3ex4WMB2rVXMDIgpwHCNzSYNVDsiBD569slN6Qhn0RNzyB6XoZk+8ZctiJmuPqoZ5FpYfUc3O8qPYJF0k7p4AQj/Rm/RMZjwpDdM+V6EnCKEZIbevXtzw6y/VKhlHUsYxTklc3+APhQGJ47lHMFqIgMjUWGWVk+uZWTICx8awn3vFwlf+C5f3BGg32oOcOlMCWLzH8ZyQFmDuX8xknkGWr0TiWTcRUeYIIcSFNt3+EtRQd6YgmVnEIaRKrWoyuk2sb7/iQYGhOsyWk/4sEyVXb9Ah9lzV4+NfOwJzw5XuOysgqYcSdimehdSrGt8e7BR4gQ2Q==;uBkQnYJpyXdwfjkqAQfUEg=="
 ---

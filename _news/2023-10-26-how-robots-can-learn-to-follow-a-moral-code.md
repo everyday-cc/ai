@@ -24,6 +24,22 @@ images:
     height: 676
     isCached: true
 
+related:
+  - title: "Good robots must not be made to learn from bad human habits"
+    excerpt: "Generative AI should follow the signals from driverless cars that behave better on the roads than we do. Read more at straitstimes.com."
+    publishedDateTime: 2023-10-28T21:00:00Z
+    webUrl: "https://www.straitstimes.com/opinion/good-robots-must-not-be-made-to-learn-from-bad-human-habits"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/10/29/US-AUTOMOBILE-LIFESTYLE-191954.jpg"
+        width: 860
+        height: 573
+        isCached: true
+
 secured: "v9nJ1C7rXK2eFUSNyBN65jsPszNaqDV1+51kXOK7h90NJCz2aD57vvhVKQBJ0t8Z6xe1hNd5zKvLixJ7o01YgyjpyRt7gULsyLpztm+DQH07SlNXOBD0naF9JaXlVqtDtAW28rI3fIJRibr0PP8HLRtLAod33qDVHVDhZcXd38CL2MPrspxWJnr/boig2ri8uU3N/2pcRNp+K038VY7THEOqe+Vjfs+mN1nA9ET1IaqKAAWr3AjpjZcX155ElU0Yj+vWdFBcDwuFAU4nJmahkUf5WncMJMBTEndzyLnfqZ1asMd1iDrYFVQGAxCc4HvVY7U28V9WoKMgdvgDRC15786D831zUI3EYtP2/fW7pME=;/mXlGzJ6QIS+RgU0gHbFTg=="
 ---
 

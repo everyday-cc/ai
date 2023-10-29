@@ -50,20 +50,6 @@ related:
         width: 1240
         height: 697
         isCached: true
-  - title: "Apple May Spend Over $5 Billion By 2024 On Servers In Major Generative AI Push"
-    excerpt: "Ming-Chi Kuo expects Apple to spend 'at least' $620 million on servers in 2023 and an estimated $4.75 billion on servers in 2024."
-    publishedDateTime: 2023-10-24T15:33:00Z
-    webUrl: "https://hothardware.com/news/apple-to-spend-over-5-billion-on-servers"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 35
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62888/content/hero-apple-tim-cook.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Governments must not rush into policing AI"
     excerpt: "Regulators must be prepared to react quickly if needed, but should not be rushed into setting rules or building institutions that turn out to be unnecessary or harmful. Too little is known about the direction of generative AI to understand the risks associated with it, let alone manage them."
     publishedDateTime: 2023-10-26T12:35:00Z

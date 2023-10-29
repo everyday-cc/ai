@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI in the Mental Health Field"
-excerpt: "AI has the potential to transform and revolutionize the mental health field. Psychologists regard AI not as a replacement for real, face-to-face therapy, but as an additional source of support in a world in which artificial intelligence becomes more pervasive in our lives and mental health resources are becoming increasingly sought after."
+excerpt: "Although the world may not quite reach the level of dependency depicted in the Pixar movie, a future involving heavy reliance on artificial intelligence appears more probable than ever as AI becomes more entangled with our daily lives."
 publishedDateTime: 2023-10-27T22:56:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field"
-webUrl: "https://www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-now/202310/ai-in-the-mental-health-field"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-now/202310/ai-in-the-mental-health-field"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-now/202310/ai-in-the-mental-health-field?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-now/202310/ai-in-the-mental-health-field?amp"
 type: article
 quality: 59
 heat: -1
@@ -85,6 +85,6 @@ related:
       domain: bbc.co.uk
     quality: 17
 
-secured: "xGXuFA0D4K6EY+KVEniPsTSBhcaVnwPby992N6OKSNHSR3Ix4s2++JTzmfKOab3ogKYRypVBqCCI+eO+UpPz04P2AvrVgVlGIEZNhY3NhFD49dqaMhxdTzO+fUmma3PMM0+yokRvHj36w54eHwd76uo9Zk4xeWiItQ4EHNDFMiNrDptXg2R3HrHbuj/Hnc009F75J0A0pMzMxEOrLqntL5XlmfKX3bHQkinY+lYWBVkFZf48/OmlPB50KLDKCI29j7OrqbQ7odUpsNTUdzrmLwG0q71r/iISoa+fqlgrTPWzsJAZnM8wP+Z6s6jnCw7zXwmBTU3JcESqiz1m2UKuESlTBI/a6fZdl5HSnslKdHngGMxbWpYyvrIQsXtJEvBLbvzcqS/wiOks3K+iqDrkQVoffXUUgDdEgXtOH5ACymTrcIqTDB0W4i4sCKzRTU4ySNVb50A/uROm7WPgitbBCNCf9sE6TKIHvTpegwc9BwSKJjUcaBKhpNzbeFKpTT06Nq9BV/r8kjDbGFurrqHtOQ==;C418aOYwi1jVB7uW/vRWEQ=="
+secured: "GxAMUkjkBRYc7ucRD/S4f9E0HyuDFRAi6aVRak4JzJT828RIfCtLSWkMr1d0+UEbzDZcm/qvP5QvNcou4p3hDPd7pFSsSFYexN+s1zvBjwDx1hTYQ+EjqUcbYkjF4WmeHHkEUSR2Tr+CVXnnowicrFcSozRCmgAyh4jjh6fBWk5tzf67Z3mYXGGMehzq/fn7Xn9LgT9wp/xoq3wt/DNDHsYKJzSRo5EFcTceFF8bupwY7tHhDrcRfYTcVU/xNnPuCVOV+na8PkQsFQ+jvQyE5UMk7GOikBsFoG9LKSWuZB3HlUYMCOMom9Cg7gULt+t68DbkHBSDpsoy8j1i4OymCgBT2lyfREQklIUHmdN9QfU=;Ak1OCWCp3ixF9kf/PJvo7Q=="
 ---
 

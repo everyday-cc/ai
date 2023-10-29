@@ -133,7 +133,7 @@ related:
   - title: "Microsoft’s bets on generative AI boost Azure cloud business, as Alphabet’s Google Cloud disappoints"
     excerpt: "Microsoft’s revenue from the Azure cloud-computing platform beat estimates in the September quarter, while Google Cloud’s sales growth ground to its slowest pace in at least 11 quarters."
     publishedDateTime: 2023-10-25T11:39:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3239082/microsofts-bets-generative-ai-boost-azure-cloud-business-alphabets-google-cloud-disappoints?module=live&pgtype=homepage"
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3239082/microsofts-bets-generative-ai-boost-azure-cloud-business-alphabets-google-cloud-disappoints"
     type: article
     provider:
       name: scmp.com
@@ -326,20 +326,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 58
-  - title: "Cash-Rich Apple Still Needs Billions To Catch Up In Generative AI Race Against Meta Or Microsoft: Analyst Ming-Chi Kuo Reveals Why"
-    excerpt: "According to Kuo's latest survey, Cupertino plans to procure 2,000 to 3,000 AI servers in 2023 and a more substantial 18,000 to 20,000 units in 2024."
-    publishedDateTime: 2023-10-24T06:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cash-rich-apple-still-needs-billions-to-catch-up-in-generative-ai-race-against-meta-or-microsoft-analyst-ming-chi-kuo-reveals-why-1032731676"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Apple._Image_Via_Shutterstock_1.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Intel is reportedly taking on Microsoft and OpenAI in the AI race"
     excerpt: "While companies like Microsoft and OpenAI have placed all bets on the emerging generative AI technology in the past few years, Intel has remained quiet with a keen focus on what it knows how to do best: hardware."
     publishedDateTime: 2023-10-27T22:58:00Z
