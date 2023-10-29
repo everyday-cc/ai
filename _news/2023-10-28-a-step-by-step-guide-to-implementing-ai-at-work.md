@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "7 Ways AI Can Help Advisors With Wealth Management"
-    excerpt: "AI is not a back-office technology but can be applied to the challenges facing a chief growth officer. The right model framework can be designed to support growth-focused activities such as lead generation and marketing automation by better scoring leads, prioritizing prospect lists and finding referral opportunities."
-    publishedDateTime: 2023-10-25T00:50:00Z
-    webUrl: "https://www.thinkadvisor.com/2023/10/24/7-ways-ai-can-help-advisors-with-wealth-management/"
-    type: article
-    provider:
-      name: Think Advisor
-      domain: thinkadvisor.com
-    quality: 37
-    images:
-      - url: "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2022/05/01_Robo_Advisor_Adobe_640x640.jpg"
-        width: 640
-        height: 640
-        isCached: true
 
 secured: "fDnJ7IkQJgYxu04+OeJwC6GgwOKw/N2WcN4H346Wc6jUURmjQZd6HzOGUI9y9E423ZrfgCF1VWANhpN2t0ignK95IBI5/vR88jAH9/NSOY5eaWRIUrWE/pTnEAwce7hjwVlGEPo1BerILuFtsRo3X0Z/juOpWd/j4xXfxRcMBts97JpZq7qQO5HOGBUC6gZ1rSbZds22Ns3LNBwYLRFDBk03mkuWAb59cSgHs/HWwbEjQIbuIcAHd8vV6rpXzz7L/WNSyLmDrS4cWDkoAxLzP/O2mKdLEc8NWsRbPt9tkdMp+MJp/P1QfEmtAvgk6GLkFFKytR/ldUgjQv/jycj4lXS4UoiRQCFKh3ufpPswjJY=;JEglCCPRxrQ9TMiotXFFig=="
 ---

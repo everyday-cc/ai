@@ -2,6 +2,127 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-12-james-douma-explains-the-challenge-and-benefits-of-teslas-end-to-end-neural-network-self-driving.md",
+      "title": "James Douma Explains the Challenge and Benefits of Tesla’s End to End Neural Network Self Driving",
+      "excerpt": "This is what OpenAI was able to do with ChatGPT and large language models. This is what Tesla has been able to achieve with version 12 of FSD (Full self driving). The Tesla FSD v12 was demonstrated for nearly one hour in a live video stream by Elon Musk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2023/09/james-douma-explains-the-challenge-and-benefits-of-teslas-end-to-end-neural-network-self-driving.html",
+      "originalUrl": "https://www.nextbigfuture.com/2023/09/james-douma-explains-the-challenge-and-benefits-of-teslas-end-to-end-neural-network-self-driving.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/09/dataflywheelAI.jpg",
+          "width": 1212,
+          "height": 910,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-artificial-intelligence-ai-verticals-market-by-size-2031.md",
+      "title": "Artificial Intelligence (AI) Verticals Market by Size | 2031",
+      "excerpt": "Artificial Intelligence (AI) Verticals Market Research Report give analysis of industry development growth opportunities, Trend till 2031. Artificial Intelligence (AI) Verticals Market detailed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34463482/artificial-intelligence-ai-verticals-market-by-size-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34463482/artificial-intelligence-ai-verticals-market-by-size-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34463482",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34463482",
+      "publishedDateTime": "2023-09-11T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-state-laws-are-putting-ai-in-the-drivers-seat.md",
+      "title": "State laws are putting AI in the driver's seat",
+      "excerpt": "Are you riding alongside driverless vehicles in your state? TruckInfo.net analyzed legislation across the U.S. to make sense of the range of laws.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/news/nation-world/collection_f53d3dc1-771c-5c4a-bf25-6afb4a5655d0.html",
+      "originalUrl": "https://www.stltoday.com/news/nation-world/collection_f53d3dc1-771c-5c4a-bf25-6afb4a5655d0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-tesla-stock-rallies-as-morgan-stanley-boosts-rating-citing-ai-prowess-via-dojo.md",
       "title": "Tesla stock rallies as Morgan Stanley boosts rating, citing AI prowess via ‘Dojo’",
       "excerpt": "Morgan Stanley upgraded Tesla to buy from hold in a note to clients, saying the company's Dojo supercomputer holds \"proprietary technology.\"",
@@ -1240,144 +1361,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-are-self-driving-cars-already-safer-than-human-drivers.md",
-      "title": "Are self-driving cars already safer than human drivers?",
-      "excerpt": "Based on this data, Cruise claimed that over its first million miles, its vehicles crashed 56 percent less often per mile than a typical human driver. Moreover, Cruise estimated that its cars were 73 percent less likely to be in a crash with a risk of a serious injury and 93 percent less likely to be the “primary contributor” to a crash.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/",
-      "originalUrl": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/self-driving-hud-analysis-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/amp/",
-      "publishedDateTime": "2023-09-01T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-list-of-55-artificial-intelligence-companies-in-usa.md",
-      "title": "List of 55 Artificial Intelligence Companies in USA",
-      "excerpt": "On 21st July 2023, seven major tech giants, including Alphabet Inc (NASDAQ:GOOG), Microsoft Corp (NASDAQ:MSFT), Meta Platforms Inc (NASDAQ:META), and Amazon.com, Inc (NASDAQ:AMZN) pledged a",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/list-of-55-artificial-intelligence-companies-in-usa-1189885/",
-      "originalUrl": "https://www.insidermonkey.com/blog/list-of-55-artificial-intelligence-companies-in-usa-1189885/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
-          "width": 1920,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T19:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-baidu-ai-leader-of-china.md",
-      "title": "Baidu: AI Leader Of China",
-      "excerpt": "Baidu leads in machine learning and AI patents in China, with 13,993 active patent families in 2022. Chinese government support, including investments of $32.5 billion in AI initiatives, has ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4631728-baidu-ai-leader-of-china",
-      "originalUrl": "https://seekingalpha.com/article/4631728-baidu-ai-leader-of-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/488987708/image_488987708.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

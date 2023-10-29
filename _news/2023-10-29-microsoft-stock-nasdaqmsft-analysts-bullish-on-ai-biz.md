@@ -299,34 +299,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Alphabet and Microsoft see earnings rise on AI-infused cloud"
-    excerpt: "Google parent Alphabet and computing colossus Microsoft Tuesday reported that quarterly profits climbed on demand for cloud computing enhanced wit"
-    publishedDateTime: 2023-10-24T23:37:00Z
-    webUrl: "https://menafn.com/1107297667/Alphabet-and-Microsoft-see-earnings-rise-on-AI-infused-cloud"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/24/AFP_24a5dimage_story.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "Microsoft is ‘changing rules of the game on gen AI’ after Q1 earnings"
-    excerpt: "Microsoft Corp reports a strong Q1 as Azure growth accelerates. Baird strategist Mortonson discussed its earnings print on Yahoo Finance."
-    publishedDateTime: 2023-10-24T23:35:00Z
-    webUrl: "https://invezz.com/news/2023/10/24/microsoft-q1-earnings-baird-strategist-ted-mortonson/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 54
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/04/171441221-m-normal-none-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "What Microsoft’s earnings tell us about AI and cloud trends"
     excerpt: "The tech giant's latest earnings report is \"front and center for tech investors across the Street,\" according to Wedbush analyst Dan Ives."
     publishedDateTime: 2023-10-25T14:05:00Z
@@ -579,6 +551,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "I3PGH2WbyYCvt9wd2vADfj7kTdJja4CDtnM4Zq8dAsRvch+H3p4nv1LR3+mKI0b3X4uu8mHsnk9NNHb55HjscxP3PPhu/HNXuE3aDGkxHF5P2E4gNfnJx2RGjdYG1PJUaWxdt9XJrOCFKPs8dQuNapJXMZG9l+XNzFUcmg9DJbpd6hXsFPJiqiQvMoaVTz6GBbs3rlRbtgAN7AhmMVMrLPCUhcL9kBaxcjoHYbraIQOcntoTy5A9V7icYDjrUmy+tYpH38CkEOdxrYYc+dXKM49F8z2hMN0+28ADD0yv/ceKwFU+a4CghrB4u3svxIP3vYTk/BcXrO9r45AplSsrh+0ZK5SXh3GB1flK+zro+9Q=;zXWc3MBQn0x9m04cl3TU6g=="
+secured: "KO6+h4BuepXWkI0Dyof2iOuyWg+7CxZSmFxQJEHsizFmqDn3ZltOUQgVKMOMJqoAELmWH2bOi7jdO82QARV5Lj0PSKGi0St0KSnkNtqOwh1FyB8Zuy0VN1cySV1WT+hEdY87F3axThIRN4Ej/DWPi+2m6/zxwaWPYC8hOGWD6YYMPJeVrl5oygtH8hQiOE+QUTMOOJ6JMW8UhwEX+IqyUzyeSuatI5vkOzgo6QUs09hnigq2jaG5k+R++EEmcgyQodyVybHbTMAixXG7eglPjXGUpVUfSDcEdoOriidoJB8MhsjZD/08LtrW9YvhILJ4h8r8ToWzN130Bf8JuUzp5AFVDl9qQ9WQhEXdJkaJS+XUO0YJMpBC57vXow39ll8xPwVNvvIy4+clhCRx4geM5fvuJY57/Lk1mfB62Y8St+mfO3RWshV+HCLhrSb1Nf5QBV7kt0FuGmgl95UBC1sqTAtgIOUtUrfrR+r160OLa7cYAZV4tTGr/84hm7OJ2eSQaDUYD9KW6z8+pC7PmskQ/g==;AD4g1Pt6BxWBpxgZFY5+SA=="
 ---
 

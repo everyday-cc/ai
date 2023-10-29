@@ -1,42 +1,26 @@
 ---
 category: news
 title: "Adaptive optical neural network connects thousands of artificial neurons"
-excerpt: "Modern computer models—for example for complex, potent AI applications—push traditional digital computer processes to their limits. New types of computing architecture, which emulate the working principles of biological neural networks,"
-publishedDateTime: 2023-10-23T14:32:00Z
-originalUrl: "https://techxplore.com/news/2023-10-optical-neural-network-thousands-artificial.html"
-webUrl: "https://techxplore.com/news/2023-10-optical-neural-network-thousands-artificial.html"
-ampWebUrl: "https://techxplore.com/news/2023-10-optical-neural-network-thousands-artificial.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-optical-neural-network-thousands-artificial.amp"
+excerpt: "What is needed for a neural network in machine learning are artificial neurons which are activated by external excitatory signals, and which have connections to other neurons. The connections between these artificial neurons are called synapses – just ..."
+publishedDateTime: 2023-10-23T10:15:00Z
+originalUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=63910.php"
+webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=63910.php"
 type: article
-quality: 58
-heat: 68
-published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Nanowerk
+  domain: nanowerk.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/adaptive-optical-neura.jpg"
-    width: 2126
-    height: 1418
+  - url: "https://www.nanowerk.com/nanotechnology-news2/id63910_1.jpg"
+    width: 800
+    height: 534
     isCached: true
 
-related:
-  - title: "Adaptive optical neural network connects thousands of artificial neurons"
-    excerpt: "Physicists working with computer specialists have developed a so-called event-based architecture, using photonic processors. In a similar way to the brain, this makes possible the continuous adaptation of the connections within the neural network."
-    publishedDateTime: 2023-10-23T22:16:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/10/231023124404.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 48
-
-secured: "Dwxjo1tAmIMLLd7/ZRbB5z05qMA4kVVPnZoXaFriOEfyDSb21+GyHAgRXj96xdMKIudR5101Lm7yg6wEsBTL/5BFuzVkcxH0T9T8qPY3ISlHOAm8Q9VOBgit8gRatrIgeXuh8b3xyMLIv/+jR+K/LAtsqxRJRLKwzFdXuEJK0oVzcoYqUCdjODHd8V7sSCXc4O2W+XLusKUywtUNQOk8UJYtCqFrPS4IUyWG4CJOiksJqYo142FbVfqCBneTfN6d9y2jH19E//24Ogk0Nrrtfjoibebhg0kPrZgktaZfTeDExzjdzWSlQYROU7cnrsjOpWes1VzdN3BbUzwRvehUPa0F2uIkvcQRH63tPD4M2ZF27BeyY61N/8n1bSnP7hn2CVwcJ7nFYcdRqKgm3hBhoNzLvxm4j6zRoJbpnMD1kpF4TWX7XqPD/QZ3DJrCZHET6szjXTbwjlVPSy7CYnooBRtzCyLeUwRX31991n2RrNZrE9ZUdMhaLMWUG1nBYJH+SM9ezXnEeuKQJ3OrmOk16g==;7I3eUL4eNNmtYxchwNc8KA=="
+secured: "Z7wnYzUbHF0NpCzpeGr+gMYGGxKXipFDthl5uVj7uYEtnuUJrSsRkRFY9EBJ7jKA+8LE6XLMJeIaes/9TU3uco1+3hakMExYU/SkqMHp7Jv01Vx3bmchI1My/IS3A9IsawxpM9x0lAra6sAY+spg4+fA+8of+x3fDuBFDIxtxB4hsKzfrX3tzNUiBHxVXELFZNbYTJNcCpCwa7ZL3tglpOHyRQLunMOhW+3HhYp79Xr/8B/PcDUWpFZFqJN1oyVDWDYkzZtFtah81TZZpkNwFWgqX/kZy+AOwPl/QdO9y7zryXyAsF9dfp9g0tW+xZ3GnzPLxrlXpkC2i4sVdbgP1LZfZutfCnpbDoKzqRpFn9U=;6JtfcFmNJCVZmMdTQPZqUw=="
 ---
 

@@ -297,34 +297,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Alphabet and Microsoft see earnings rise on AI-infused cloud"
-    excerpt: "Google parent Alphabet and computing colossus Microsoft Tuesday reported that quarterly profits climbed on demand for cloud computing enhanced wit"
-    publishedDateTime: 2023-10-24T23:37:00Z
-    webUrl: "https://menafn.com/1107297667/Alphabet-and-Microsoft-see-earnings-rise-on-AI-infused-cloud"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/24/AFP_24a5dimage_story.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "Microsoft is ‘changing rules of the game on gen AI’ after Q1 earnings"
-    excerpt: "Microsoft Corp reports a strong Q1 as Azure growth accelerates. Baird strategist Mortonson discussed its earnings print on Yahoo Finance."
-    publishedDateTime: 2023-10-24T23:35:00Z
-    webUrl: "https://invezz.com/news/2023/10/24/microsoft-q1-earnings-baird-strategist-ted-mortonson/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 54
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/04/171441221-m-normal-none-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "What Microsoft’s earnings tell us about AI and cloud trends"
     excerpt: "The tech giant's latest earnings report is \"front and center for tech investors across the Street,\" according to Wedbush analyst Dan Ives."
     publishedDateTime: 2023-10-25T14:05:00Z

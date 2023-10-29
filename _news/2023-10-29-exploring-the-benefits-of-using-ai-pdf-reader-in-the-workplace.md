@@ -72,15 +72,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI in the Mental Health Field"
-    excerpt: "Although the world may not quite reach the level of dependency depicted in the Pixar movie, a future involving heavy reliance on artificial intelligence appears more probable than ever as AI becomes more entangled with our daily lives."
-    publishedDateTime: 2023-10-27T22:56:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-now/202310/ai-in-the-mental-health-field"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 19
   - title: "The employees secretly using AI at work"
     excerpt: "Some employers are either tacitly or outright banning access to generative AI tools like ChatGPT. But employees who love them are finding ways to discreetly backchannel."
     publishedDateTime: 2023-10-25T14:49:00Z

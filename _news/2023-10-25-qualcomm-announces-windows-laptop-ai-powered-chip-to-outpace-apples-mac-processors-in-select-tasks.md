@@ -126,15 +126,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Qualcomm invests further in mobile AI with chip announcements"
-    excerpt: "Qualcomm ( QCOM) rolled out a number of key AI announcements today, as the company seeks to cement itself as a major player in mobile chips. Those announcements include a new compute platform, called Snapdragon X Elite, a new central processing unit chip, called the Qualcomm Oryon CP, and a new smartphone chip, named the Snapdragon 8 Gen 3."
-    publishedDateTime: 2023-10-25T00:43:00Z
-    webUrl: "https://www.aol.com/qualcomm-invests-further-mobile-ai-211140974.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
 
 secured: "0dgH7EmBzZm1vfIgbQ6yOldXcntfn9ydJxh/z/mQOIhSTIjbOiE5b5ZSwLNdIvOpmE0+7t/lVlV2wf9FFbGJ1rLS517SyKNZAyUelv1wUht4FPVSRkBnfvbFAWv1u1ZLZvVeSJvB2uw+mMN33+OlBn6ss+Cl/CzMKffcQIR6w8ghsdPf5aRlmkIir9NyNWJl/YviyDqJsnAtoDqPHmtMq4aRlKEGeC4yWEkYdaxEzf5vPqDp6MOb+WAenuQA6Tgo0jzKPyJVNr4PbYBYP47P4qW4wqH7hQzCuf1yMPaJsayceWkeCHwplA8iIAg2Pjq/AGvMe4x3VkDTw8oMvXEVs/hN6dLUmPr0Okunn/FZHUQ=;tES6/EYF5GrL9f7KnbhaZw=="
 ---

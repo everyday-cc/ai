@@ -30,7 +30,12 @@ related:
     provider:
       name: The Waterloo-Cedar Falls Courier
       domain: wcfcourier.com
-    quality: 5
+    quality: 25
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/e/95/e9588896-9394-5125-a247-39478f3e5fb5/653bc599f35bc.preview.jpg?crop=1747%2C918%2C3%2C85&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "GJdxSAhEFdE7s3CI/HJDGAFaOiOOKoOBI0l2zvsj+saQQzyIZcq9wxH8LEauIGcnitjcv8bP3vCcVd5Zd0QcL2UcKi1f09rtoxBOqE/VzpWXw9pv6ofwUAU99XxfThPVlgeOYI2QvX35MKuoHJHlCqOWn6ux5kgBchcZipHGKtaMO2vSWft3wvDfwbVzDTgGvHcvc0gM70bWwRGEP5rjSfANbDsTZhMyaCQ8Rnf29rSEVUNqgbWUaw/0+592LvQDtnF886R//twZVJoozUetzrxsEB9Yd3DuKmJQ5LMrbzYjbHtt5+/9tghtaJYhDUu+2e3aFljkgGNGIKiv7UWEDuzoLM1fwSgbvf3ciQCF4uHdquklXLYXWbY9hF3V9TRFgUTvFPtz88e2XsUB4/s6uiIL7XE26PhH/RUGmIlaW9yXlF6+/uxVbgfqxgMmPi1t5Y0yJJJXJYvmCZ0uY1qy5qAH1LKN18gAghJlJNko/1hS1h1vEubGe5sZg29yXhPwM0amWJQquelJQxv5eCopPw==;u7A586WVJQIrtuLWFpBlig=="
 ---

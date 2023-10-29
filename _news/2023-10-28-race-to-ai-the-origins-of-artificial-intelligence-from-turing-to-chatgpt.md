@@ -3,12 +3,12 @@ category: news
 title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
 excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
 publishedDateTime: 2023-10-28T12:47:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
-webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+originalUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?ref=futurepedia"
+webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?ref=futurepedia"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 type: article
-quality: 70
+quality: 72
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -79,6 +80,6 @@ related:
       domain: inc.com
     quality: 15
 
-secured: "Hb1oXN0XPqINbGJz1g4rAo9e43dieO6oKEinpHk+2j+g6Rv8Hyzd5eZaumwg4Lff+8PDcR0AO9yCBMwQsYaDT0p8G/SXkv1pW1Jhvdcyfyro/EOTVdsBChcWl0KY6cjIDWiasYNwqRk+oq54XWk0pS6mexAPR4tcWS/GNsRjGPiHXtobXz6FBtNPHidCFoZUP2akMud5uumLKy6+sVDC4KTBjBCooqa2Q0xNk3wyuyM4Q/z/o1nGEIsCZYY7hkSH1+bxSY8Q4RLbJwfeewAr+jq81p8cn1Yt48jtouSxMnLjN2nLoH1dgJ6UjsLv2HNRR+B49I4Fyt67XR/BsFRdjeg32ODYOBb5woPFs4CWLmM=;y0jXcyshoZla5vocAi2qHg=="
+secured: "kN8Z1tjmT9/bhql00BXVtZ1X9DPTgj1Cw696OF0A9rPHpohhpBsnLSLY06E7ZjTvwl4Hy3aoDBQC62NOFeH7Ks1FUZMBmGjs1xRHFX+JZQRwR3P7ihUR6nUgLxETC4/h75iv1q3SbleU9ip6H7Q0daUWLY1c7y5lzXTDwCHweWhFuZ2P8uPGEuHs7UwDNhUQz2zBdFseVw8tnGIkDfR/S61VV1LihDrpMo0cyB6Lc3fQCcfGjGS4AlPNEiwCD0LT2h7y/6+Zcd8PAhayyXUNmKCXQfeFp/p/CBMY70yyEJuiOgY4JZcOumSUpGeFPbSkFy+iDWpaJsho2M0IIi7+GPNi1Zd3AoH8kvuEW14s7Lc=;0kDd5lLpCWtEtlrYNmcrcg=="
 ---
 

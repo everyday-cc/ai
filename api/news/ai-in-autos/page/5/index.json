@@ -2,6 +2,135 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-20-cathie-wood-says-tesla-is-the-biggest-ai-opportunity-in-the-world-today.md",
+      "title": "Cathie Wood says Tesla is the 'biggest AI opportunity in the world' today",
+      "excerpt": "Ark Invest CEO Cathie Wood says she believes that Tesla is the \"biggest AI opportunity in the world\" today. \"So we think it has miles to go, it has just started,\" she told CNBC's \"Squawk Box Europe\" on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/20/cathie-wood-says-tesla-is-the-biggest-ai-opportunity-in-the-world.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/20/cathie-wood-says-tesla-is-the-biggest-ai-opportunity-in-the-world.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107200361-16775195062023-02-27t173330z_1026225286_rc2rjz96tfne_rtrmadp_0_usa-stocks.jpeg?v=1695202650&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-artificial-intelligence-in-online-casinos.md",
+      "title": "Artificial Intelligence in Online Casinos",
+      "excerpt": "There seems to be a new kid on the block, one everyone talks about and yet, nobody really knows what it is or what it does. It’s called artificial",
+      "sourceUrl": null,
+      "webUrl": "https://macsources.com/artificial-intelligence-in-online-casinos/",
+      "originalUrl": "https://macsources.com/artificial-intelligence-in-online-casinos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T22:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "macsources.com",
+        "domain": "macsources.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested.md",
+      "title": "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested",
+      "excerpt": "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads. The legislation would",
+      "sourceUrl": null,
+      "webUrl": "https://tulsaworld.com/article_7234418c-d033-55ee-8c36-d5eb3d31c530.html",
+      "originalUrl": "https://tulsaworld.com/article_7234418c-d033-55ee-8c36-d5eb3d31c530.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/b/cf/bcfd2091-7cae-563f-a309-4bff1a64797e/650a2fbd433c1.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tulsa World",
+        "domain": "tulsaworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-the-future-of-transportation-nc-at-develops-launches-trial-of-driverless-electric-shuttles.md",
       "title": "'The future of transportation': NC A&T develops, launches trial of driverless electric shuttles",
       "excerpt": "The space-age comparison came as the mayor and other dignitaries took spins in driverless electric ... to live in an era where autonomy and artificial intelligence are changing our world ...",
@@ -1167,127 +1296,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-james-douma-explains-the-challenge-and-benefits-of-teslas-end-to-end-neural-network-self-driving.md",
-      "title": "James Douma Explains the Challenge and Benefits of Tesla’s End to End Neural Network Self Driving",
-      "excerpt": "This is what OpenAI was able to do with ChatGPT and large language models. This is what Tesla has been able to achieve with version 12 of FSD (Full self driving). The Tesla FSD v12 was demonstrated for nearly one hour in a live video stream by Elon Musk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2023/09/james-douma-explains-the-challenge-and-benefits-of-teslas-end-to-end-neural-network-self-driving.html",
-      "originalUrl": "https://www.nextbigfuture.com/2023/09/james-douma-explains-the-challenge-and-benefits-of-teslas-end-to-end-neural-network-self-driving.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/09/dataflywheelAI.jpg",
-          "width": 1212,
-          "height": 910,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-artificial-intelligence-ai-verticals-market-by-size-2031.md",
-      "title": "Artificial Intelligence (AI) Verticals Market by Size | 2031",
-      "excerpt": "Artificial Intelligence (AI) Verticals Market Research Report give analysis of industry development growth opportunities, Trend till 2031. Artificial Intelligence (AI) Verticals Market detailed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34463482/artificial-intelligence-ai-verticals-market-by-size-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34463482/artificial-intelligence-ai-verticals-market-by-size-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34463482",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34463482",
-      "publishedDateTime": "2023-09-11T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-state-laws-are-putting-ai-in-the-drivers-seat.md",
-      "title": "State laws are putting AI in the driver's seat",
-      "excerpt": "Are you riding alongside driverless vehicles in your state? TruckInfo.net analyzed legislation across the U.S. to make sense of the range of laws.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/nation-world/collection_f53d3dc1-771c-5c4a-bf25-6afb4a5655d0.html",
-      "originalUrl": "https://www.stltoday.com/news/nation-world/collection_f53d3dc1-771c-5c4a-bf25-6afb4a5655d0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
         "images": null,
         "publishers": null,
         "authors": null

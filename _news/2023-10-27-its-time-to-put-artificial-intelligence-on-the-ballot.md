@@ -18,17 +18,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "One AI Device to Rule Them All"
-    excerpt: "Hi, welcome to your Weekend.It’s been 10 years since the movie “Her” introduced us to a queasy future in which a man falls in love with his AI-powered digital assistant. Guess who loved that movie? Yup,"
-    publishedDateTime: 2023-10-28T13:00:00Z
-    webUrl: "https://www.theinformation.com/articles/one-ai-device-to-rule-them-all"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 17
-
 secured: "aCasUt+BSm+i9l57Px6qu5InHUBq7OPk4PoR0CLwzxjPHGAOHGD1Ti6OcFrBw8PoGcV6o1Z0PkOKMZxs81+GYykFu9joBa0TnIzB4S1k/lRLo0UUZKoApJDDOQeso1zePILeFmsS1Edefpq2SW4X+KZo27xV+07M2kWMN9geLSW45k1adwFFtADNMKJ2IpTdDoTYxZqB5nbdDwHvwTFjKngUr5MOsKAOCzQ11Had/6T09QqZuaLpuzcYr1xERh1lk8ed25zxigRq39FgRsfErciip9nyj4RkQkV4WYHmQNKXDQAOM/7wqZIe3UEpIGtpSB+z3GJzSRXqT687XaTpx/rTL4KjeB8F0sbhrvfboaeFMZBa44blxOfOZpxOP2dUZoXa0Ytth0UW7SPP2Xp1FUsHszVXGkwzU6SQtbJiyQEW8CeVLJn9UzHw0mmqouCfWq5lC+FuspVMCRHPju7edM5iSs4X3JzTiFhfP7s0zzjSAnnTgvOPeVN+bhkKMngFwg0Hkh8VFhllAvvHONa89Q==;bIOTnfGExTrwWrG+zS7ixg=="
 ---
 

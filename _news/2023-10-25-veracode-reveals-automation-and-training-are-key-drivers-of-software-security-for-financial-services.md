@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Veracode Reveals Automation and Training Are Key Drivers of Software Security for Financial Services"
-excerpt: "Veracode, a leading global provider of intelligent software security, today released new research that unveils the key factors influencing flaw introduction and accumulation in the Financial Services sector."
-publishedDateTime: 2023-10-25T11:50:00Z
-originalUrl: "https://www.valdostadailytimes.com/ap/business/veracode-reveals-automation-and-training-are-key-drivers-of-software-security-for-financial-services/article_4aa5cf18-78f0-5f55-baaf-43cb8220ba27.html"
-webUrl: "https://www.valdostadailytimes.com/ap/business/veracode-reveals-automation-and-training-are-key-drivers-of-software-security-for-financial-services/article_4aa5cf18-78f0-5f55-baaf-43cb8220ba27.html"
+excerpt: "The Power of AI and Machine Learning The State of Software Security report also analyzed language preference by vertical and found, at 51 percent, Java is almost a de facto standard within the Financial Services sector. Veracode Fix, an AI-powered ..."
+publishedDateTime: 2023-10-25T13:22:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm"
 type: article
-quality: 41
-heat: 41
+quality: 21
+heat: -1
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
   - AI in Security
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/0/2e/02e963d5-3562-5299-8939-adf08df936eb/65390183d8369.image.jpg?crop=1789%2C939%2C198%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Veracode Reveals Automation And Training Are Key Drivers Of Software Security For Financial Services"
@@ -41,6 +35,6 @@ related:
         height: 512
         isCached: true
 
-secured: "Q42eyuQvWHWsipx9Tx8rifiMUZIMYRZpGmBuSgzxpY6h3YzDAeXIH3HZrbVvY8zo1h5HLiz7c1IOfTChUpdzFFHtdWeDYpH4e7laRljcEZT8AS/YsnPwBF+IDcPjGoe6XPnnfpN+Vl0r0YBbFh03TVos6a95zh+F6tiXzx4C4R4K1gPmizI10YKjLyObvu2OXXIahGu75w6Qdy5zfCqn+eBetUDZDS1NEvNXEvp2ihTYwFbfaTGCuteE2v/DyzjqP/dLbDglQnabebiErEFiuBxSpI4lskFXhgTkzqa6MWDnyHfP1Xbd5CABQJIV3bQ+idsayBVmwD6J2y4ML0kO3qDiA4wpOtONUBiDEN9ZzK8=;3z5Tq30V9iGXf3qqGrfhoQ=="
+secured: "6cJqeGxji87ZlT8Nf78N+9nbl2DCokfeb68Ry07ceoCdaEiDk8tig/FkA5/poPPXkgulZONGCAZk0dg01jz+m6ZqCNRZ4Wu8ylGdlx4UpfLkJrV6ZzejUZQR2HC3KqzDGJMr9bsQY6QH8/2hKOiYtMjej5Pn28sQXhUfK8tvVUV8J8EHral05EEP/rqAMw4FM991IoacrBJngshz77BmikUF5M7iG+BIc3Q0hdbFvvEE28SQ3EyTWUmcdJGYIFDFUjx3OTaGuRg7ObAQkj6VGYp5Z5C4aql2urLGAPVNtl3vlNYrxsYXZCbm/qqDI/cVfSsgTyVUARRGAxaCqm17evJT7zAMT9XzKpZRLQIoN96dlfyGqQqBrZO6xuZ5hHhfmspUrtWHU10KBd5aKe1aYxzRbUgABSgvUOtKoZiCntmtRtPA+ftHvxRbxFOBDCihbdFtWL6FOt5sTijTEhoa45Bn/QVadB25n+I3vVQr55HfS0eHLkIy8jR0JVBIAoDVz/HcrOiKKD3BaS3/Z/cPFw==;ZhYewZDjg3ATr+MEKbckWA=="
 ---
 

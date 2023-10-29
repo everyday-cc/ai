@@ -1,12 +1,14 @@
 ---
 category: news
 title: "AI in the Mental Health Field"
-excerpt: "Although the world may not quite reach the level of dependency depicted in the Pixar movie, a future involving heavy reliance on artificial intelligence appears more probable than ever as AI becomes more entangled with our daily lives."
+excerpt: "AI has the potential to transform and revolutionize the mental health field. Psychologists regard AI not as a replacement for real, face-to-face therapy, but as an additional source of support in a world in which artificial intelligence becomes more pervasive in our lives and mental health resources are becoming increasingly sought after."
 publishedDateTime: 2023-10-27T22:56:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-now/202310/ai-in-the-mental-health-field"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-now/202310/ai-in-the-mental-health-field"
+originalUrl: "https://www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field"
+webUrl: "https://www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field?amp"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -18,79 +20,58 @@ topics:
   - AI Ethics
   - AI
 
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-10/shantanu-kumar-xvdkNBaja90-unsplash.jpg?itok=50YsNbXe"
+    width: 1528
+    height: 800
+    isCached: true
+
 related:
-  - title: "AI Is In The Workplace More Than Employees Know"
-    excerpt: "You don’t have to work directly on the technology to have your career be affected by AI. Be proactive — learn about AI and understand how your employer is using it."
-    publishedDateTime: 2023-10-25T21:31:00Z
-    webUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/"
-    ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/amp/"
+  - title: "Using Artificial Intelligence To Predict Individual Health Outcomes"
+    excerpt: "Would you like to know if you are going to develop diabetes or die early from heart disease? Artificial intelligence may soon give you the answer."
+    publishedDateTime: 2023-10-29T16:33:00Z
+    webUrl: "https://www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-intelligence-to-predict-individual-health-outcomes/"
+    ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-intelligence-to-predict-individual-health-outcomes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-intelligence-to-predict-individual-health-outcomes/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/653985367f7af9aad3aa260d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653e88f644d859cb4c9063ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
+  - title: "AI Detects Diabetes; Problems With Predictive AI; Regulating AI in Health"
+    excerpt: "Meanwhile, the WHO has outlined six important considerations for regulating AI in healthcare, including transparency and documentation; risk management for cybersecurity threats; a commitment to data quality; and protection of patients' privacy and personal health data."
+    publishedDateTime: 2023-10-26T21:46:00Z
+    webUrl: "https://www.medpagetoday.com/special-reports/features/107029"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 40
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/107xxx/107029.jpg"
         width: 1600
-        height: 896
+        height: 900
         isCached: true
-  - title: "AI will eat the world"
-    excerpt: "ChatGPT is synonymous with AI today. But there will be millions of “AIs” all solving different problems—like Google’s new AI healthcare tool that can tell doctors about their patients’ medical histories."
-    publishedDateTime: 2023-10-26T09:00:00Z
-    webUrl: "https://www.mauldineconomics.com/editorial/ai-will-eat-the-world"
-    ampWebUrl: "https://www.mauldineconomics.com/editorial/amp/ai-will-eat-the-world"
-    cdnAmpWebUrl: "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/editorial/amp/ai-will-eat-the-world"
+  - title: "Using AI and satellites to measure carbon"
+    excerpt: "Part of the ITN Business programme ‘ Carbon Markets: The Power of Data & Innovation ’, made in partnership with the Climate Action Data Trust (CAD Trust)"
+    publishedDateTime: 2023-10-25T09:21:00Z
+    webUrl: "https://www.newscientist.com/article/2399095-using-ai-and-satellites-to-measure-carbon/"
     type: article
     provider:
-      name: MauldinEconomics.com
-      domain: mauldineconomics.com
-    quality: 59
-    images:
-      - url: "https://images.mauldineconomics.com/uploads/newsletters/Joltmauldin_20231025_Feature.jpg"
-        width: 725
-        height: 363
-        isCached: true
-  - title: "How artificial intelligence is monitoring employee performance in the workplace"
-    excerpt: "Artificial intelligence has been around for years, but the technology is being used in new ways, including to monitor your performance on the job."
-    publishedDateTime: 2023-10-28T03:09:00Z
-    webUrl: "https://nbc-2.com/features/tech/2023/10/27/how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace/"
-    ampWebUrl: "https://nbc-2.com/features/tech/2023/10/27/how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2023/10/27/how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace/"
-    type: article
-    provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 53
-    images:
-      - url: "https://nbc-2.com/wp-content/uploads/2023/10/ashley-nbc-10.27.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Exploring the Benefits of Using AI PDF Reader in the Workplace"
-    excerpt: "Embracing new tech in the workplace can be a game-changer. And one such tool that’s winning rave reviews is the AI PDF reader. This nifty gadget is making reading and deciphering digital documents a walk in the park."
-    publishedDateTime: 2023-10-28T17:16:00Z
-    webUrl: "https://techbullion.com/exploring-the-benefits-of-using-ai-pdf-reader-in-the-workplace/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
+      name: New Scientist
+      domain: newscientist.com
     quality: 37
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/1-39-1000x600.png"
-        width: 1000
-        height: 600
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/10/25100539/cad-trust_-gait-global-6.png"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "The employees secretly using AI at work"
-    excerpt: "Some employers are either tacitly or outright banning access to generative AI tools like ChatGPT. But employees who love them are finding ways to discreetly backchannel."
-    publishedDateTime: 2023-10-25T14:49:00Z
-    webUrl: "https://www.bbc.co.uk/worklife/article/20231017-the-employees-secretly-using-ai-at-work"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
 
-secured: "G20D5J7YeXElk2D/Ylkiabf2Sytfm8+svghMOLTcLITHyXBaYCL2qK180qhC/SyZmt4GVOcmqCLUTRPnbxLhhqNoBfDo9A0LnTYwgXMeXo2lgyrgBP6kopL7fakjz8cL2LfpoDkjcAKh2lWj7mxyA+kMSSycG2gqfLNt3E8M9Xd3AGQEmwEzUroKBpzN5kbGgqXdOsX/dQmVLbi60PUz3eXPnxLCHPRFzAaV3EbBMO78owRS90/Gm3knhmX1z0B1CERIZr9fxiNESz9sEZweco2Q3l1m4Rni1JKlqzLgrGbYhqafsp6yQZdC3ag8SPCavuhD3pWrQ8bpYkuUoHIiH8YdyWXRlZcAELvXmMGLczYtzJTTWL8Tp5cgl7hUGx9MLEmskUCiiJepQjZveyS+G8IgJElG74t37NRqLR7FnaPPFWoMCf7CavrZLasVUFkZBIOAIR5bR58kKQvoSkRZPjtbBgz9CruojaJcyYNyA26xyboY7YfOeXv7AtecrOa28GpKYKdaF3Bbl7DHvWUKOw==;nL4U2PVzVxfpLNklu6O0nQ=="
+secured: "0WJ1+2XzlrdhGvgLgtDn0nrD+IEICQZxjMBP6HkOHR8UYYKIxGNPaC5lRSBq/oWqHJFWFB1Nqm9o4jjth/NVhVlNC8znlW0qHOdy5k7pIZnfPzoNf4EhlNNqeGpedGblm+fLY93Y/QcFowoyjA8v9XVLM6OVb3wGrSmbjK8a/B0bci77o56qcF7gR3cD43d9f1ll9U7vQJwvHIexZUUtHi1IpkCkvy2t+xtci+rgtU5HdTLAAGwbF1t/q7b68+0ysvszgb/fojZwIZdwfVOCQtyDOGQrSkiH+roFTk+P7jAI44VNsj+Dv6pcDJgonL/WK2Zm2+AvZNhmV+ytMEMK4oCY2LYNBwUzbxuKIJ4lLRc=;xB4ROeSLCHDqZ3kXIi17ig=="
 ---
 

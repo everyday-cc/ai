@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-28T12:29:00Z
 originalUrl: "https://wcfcourier.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_e9588896-9394-5125-a247-39478f3e5fb5.html"
 webUrl: "https://wcfcourier.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_e9588896-9394-5125-a247-39478f3e5fb5.html"
 type: article
-quality: 5
+quality: 25
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/e/95/e9588896-9394-5125-a247-39478f3e5fb5/653bc599f35bc.preview.jpg?crop=1747%2C918%2C3%2C85&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "UN Chief Appoints 39-Member Panel to Advise on International Governance of Artificial Intelligence"
@@ -29,6 +35,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "CCYAqm7QwRDvnSXL6Gxm5Vv9qL1hUOgnwI43L5UckETsABJ8cnUedXGacRbNGL32nF1E1TFG5/hvGwlEM9aqg8z4E4fFOp1NO0uIxGZyF6Idu8XXCMqv7edWsEhu+XtrBSUloxPaDa51KYI+frulOAH2wo42mDMksqITEHhXloih522/0xM8o5EBxryrV9PRfGKB3S+H+rSJR9+6IZ6p6n5J5Tkl0GMcAqfCEOBvwfA4AbDYkZcLc6nCNaxTKbQlBsxbx8x+hdhPC+ds+MfsJrRWm5iMJg/76fdppEbUMZdwHEitoEDuchO8VWZRSAmHVbm2RY2mi2lRxpYYD+KALsXml7JuedW+utaAfkj9rtzxqLzSEckkMBURyEaErAT0ErKj7vw1tBHEnxrYoYEKu3o88nVTU1Lv1gwYOAgE/C1L0bk+P0nztFSZeYKvHawZpYZY4cp2oB0VxaFWGMoMqqcA3S0/f7S6WBU5QMyt3Db0n+pT+bswaePBd9cTg1Oh7UQm6kXlUwdq9dn31LBLUw==;rfXf1a7Ji2XNheBvsLysIA=="
+secured: "wklqkN/Qi426YV6x+rnSWv8w39FiMH2WxKR2vTP0IBxUpHMZAF7+93b/W+D5T8BbYRWJ8JVVVkGAfjFb7RKWEfB9v9YhIEhx87SSo4OmskXh95iKsdT3nWBFMn0gocg/yfwmIH2lnl4IHaGv73pMImlTOKgZjHHttHz2/+DNM4KPtMnCrPYXBa8Tm/TzNTf3eT5RfvYO+JHuZiyHDQkcnxMmkpuyg4DaAwfZPvyBcCu6AyfpEavSr16erQJk7aNvr1gvN28v0Oa+odfWf2s1ER2nNJeibsTECZOHIaMrpe0gxcD4vXQBRRXY+S3J6jda23VjbFA+g/AIJHAvWUJHkl6tTYQyTwYnLcMAvjvZdtk=;8J8OVWJuYi8bqqiJgtkdCg=="
 ---
 

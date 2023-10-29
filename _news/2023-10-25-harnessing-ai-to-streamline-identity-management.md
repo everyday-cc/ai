@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing-ai-to-streamline-identity-management/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "7 Ways AI Can Help Advisors With Wealth Management"
-    excerpt: "AI is not a back-office technology but can be applied to the challenges facing a chief growth officer. The right model framework can be designed to support growth-focused activities such as lead generation and marketing automation by better scoring leads, prioritizing prospect lists and finding referral opportunities."
-    publishedDateTime: 2023-10-25T00:50:00Z
-    webUrl: "https://www.thinkadvisor.com/2023/10/24/7-ways-ai-can-help-advisors-with-wealth-management/"
-    type: article
-    provider:
-      name: Think Advisor
-      domain: thinkadvisor.com
-    quality: 37
-    images:
-      - url: "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2022/05/01_Robo_Advisor_Adobe_640x640.jpg"
-        width: 640
-        height: 640
-        isCached: true
   - title: "A step-by-step guide to implementing AI at work"
     excerpt: "Vinay Gidwaney, chief product officer at OneDigital shares how companies can ease themselves — and their employees — into AI."
     publishedDateTime: 2023-10-27T22:55:00Z

@@ -2,60 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-10-10-deloitte-many-organizations-dont-know-if-they-have-ethical-standards-for-using-generative-ai.md",
-      "title": "Deloitte: Many Organizations Don’t Know If They Have Ethical Standards for Using Generative AI",
-      "excerpt": "According to this 2023 State of Ethics and Trust in Technology report, 57% of respondents think cognitive technologies are most likely to pose a serious ethical risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/deloitte-report-ethics-trust-technology/",
-      "originalUrl": "https://www.techrepublic.com/article/deloitte-report-ethics-trust-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2020/10/artificial-intelligence-cheat-sheet.jpeg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-07-datastax-tools-up-vector-database-for-generative-ai-application-development.md",
       "title": "DataStax Tools-Up Vector Database For Generative AI Application Development",
       "excerpt": "As the hurly-burly surrounding development of generative AI (gen-AI) with its use of open Large Language Model (LLM) technologies designed to create ever more",
@@ -1396,6 +1342,59 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-anthropic-and-bcg-form-new-alliance-to-deliver-enterprise-ai-to-clients.md",
+      "title": "Anthropic and BCG form new alliance to deliver enterprise AI to clients",
+      "excerpt": "The engagement will see BCG clients use Claude 2 and models across strategic solutions, ideally driving innovation and productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/anthropic-and-bcg-form-new-alliance-to-deliver-enterprise-ai-to-clients/",
+      "originalUrl": "https://venturebeat.com/ai/anthropic-and-bcg-form-new-alliance-to-deliver-enterprise-ai-to-clients/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_vector_art_flat_illustration_style_simple_glass_office__54c609e9-53ec-4c22-b376-216d022a7ba1-0Zz097RNJ-transformed.png?fit=750%2C420&#038;strip=all",
+          "width": 749,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 1027
         isCached: true
-  - title: "Deep learning speeds up galactic calculations"
-    excerpt: "For the first time, a team of researchers, including those from The University of Tokyo, apply deep learning to the problem of supernova simulation. Their approach can speed up the simulation of supernovae, and therefore of galaxy formation and evolution ..."
-    publishedDateTime: 2023-10-25T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1005961"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/49587ab7-b68d-4fda-abcd-6fc00ad4865d/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 241
-        isCached: true
 
 secured: "qnzrBPaxbG2NERtysEDFfeUjHpV294+Zv5mJXHqlbwouEVrUQB0usGZTzIqPbYwVlKa90RgYgcQNdbH93rho4xUc2uMVQPB/u21Es7yzyeGoVSi7XY3EHz45IHyXhyd86cwT9HkMLYzpyIb7A7fQxAayPU5yXsp2+k0JkU10QSiUwZWMAucI3dcQUcKgaZZMu5GD+pUrqN5OyrPIZtL8/4PNT7DhLC7OJmEqYPa3rbzcpsWPKaxD3ra4dI2O553+3ez/ncz7hsedBhoIMTnL+kO2/P43FEdBVD44l/G85lFXBoiWWKroTCfxIPDnxjeUrjX/6KsgIiFnpaXG4dpiQTv/aoKu5hbdNc8X89OHgH8=;Z2ZnzgI1BPkowsGg2rGTCw=="
 ---

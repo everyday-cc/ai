@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/"
 type: article
 quality: 91
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -131,15 +131,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Qualcomm invests further in mobile AI with chip announcements"
-    excerpt: "Qualcomm ( QCOM) rolled out a number of key AI announcements today, as the company seeks to cement itself as a major player in mobile chips. Those announcements include a new compute platform, called Snapdragon X Elite, a new central processing unit chip, called the Qualcomm Oryon CP, and a new smartphone chip, named the Snapdragon 8 Gen 3."
-    publishedDateTime: 2023-10-25T00:43:00Z
-    webUrl: "https://www.aol.com/qualcomm-invests-further-mobile-ai-211140974.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
 
 secured: "RSIE3CAOjf7EZJyOSpFKw7tHbSSjNdUQsTkTnlxVCHuDOFGxd/G1og+0l//FzVpZg3pgO0rTDM1xfSjDQz5kNoGUWDOTtd5KWjkpzpHKlfY/PsfIQM5SaqgwIuyMq3010oZxcs65YlS87Rv77WZUeMgOTdS7HlQX6Q0ug1+l63e0qhZqj4BXRUU8+1UTtGRDcQK5cCdgitW44HpTNIqGqe279OuV9469YD68kgscYRfqGiluQeNjUgOqdUh9Fyq368737RcGOG3GLbBQSg4/2DinUh8sGYQIJ0WjDp3TkqLui41zno7pPvg7/FJkD90UP4QJdAe5YjrEaKrPwkKv1AE2MvwZzjCJnQCoZv/2qBc9noonjKZwyvo6ZMrA8cXeJD557TEnOhkR0/HwTsvKWfl4ehsiyLc4m6fNO9Y6fXIJdmRG6GvLz+Ej80fjzhLTyQhZm1FZLtzyjwhbzK/1M0JLZRZ+v7fqDHcYk9s5FP/+HP2oUztWo3jaUhojGvY8K0W6ClrsDgiAdDcZ/Gtx+w==;9c/1cjNiCyq2IeKPr9pnLg=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Major UK retailers urged to quit ‘authoritarian’ police facial recognition strategy"
 excerpt: "Human rights campaigners say the Pegasus initiative wrongly criminalises people of colour, women and LGBTQ+ people"
-publishedDateTime: 2023-10-28T14:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
-webUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
+publishedDateTime: 2023-10-28T15:30:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
 type: article
@@ -48,6 +48,6 @@ related:
         height: 372
         isCached: true
 
-secured: "pfHe3gNbtWS8NI2HH0PQrl7gvQ9SPBvjIB6txLq4blWKbzc4Do2tMAiEoPtyXnCLJzWQ4AJ5oyydtuzDKWxhJZKrj9t5erKxckRFhzS/7rCbzQrHqRyCnLlaHVSl1zoU7IelQDEVc7cR6QsWML3bhiTopMEx475ubXmuvluyIM07ZglWkHkF77rxY2k/JvTc2Ytat7TIRINTaxG4klqEM/XWFXkHkGEaPHiPQfndVPHgVJkHFOMdKw/BMk9Tu7dPRLkjslRtqC9UgEvUKUtcTV2b16hXaOeY7WSu8Kj+lL24YKrF1M5nIqrxHli3VDOCpms74AlR13kIJnLJ5ZBEDYXKKewhWTsLQOTV0VIQeQM=;eysquCPre2o1JpoekHaWBw=="
+secured: "5EnDN1EifrCOCh1h8R1z12l9ZgvKlTttbzcmtRT4MbmDG67s4hXMCVxoQdu8jw0kHFZk5Zrs9xfN3xg7t3mZ1ylqxeDY2RssODowezPLmvn20SzwZ07jFSoltPBPCMzebdbIC7c8KHbrp4qJ50qjAo4szXhAYQbPniOLaBe7De1CjhMH3gWA3yUffweAMn02uXaRiPKahZjhiKCgHInXfnowZs1WepPLCkXvsD56nxczldvq7mWc2Cgq8pvSPXiduFOeK/fJBXQTQ+T3gT3BWJfLkRWfUgxghiQ6DwoV9pU4b7//zMYHrDWBYgQWw78Qo3NICpspDBC2XGirUffbdnmc2ruogglt4SzfK+0Yh5Q=;TkfldXpqMWNaZVcfpO6mgg=="
 ---
 

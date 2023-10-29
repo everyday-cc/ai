@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vision via sound for the blind"
-    excerpt: "Smart glasses that use a technique similar to a bat's echolocation could help blind and low-vision people navigate their surroundings, according to researchers."
-    publishedDateTime: 2023-10-25T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/10/231025223433.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
   - title: "Restoring Vision: Blind “See” Through Sound with Smart Glasses"
     excerpt: "Researchers pioneered \"acoustic touch\" technology, allowing individuals with blindness or low vision to \"see\" using unique sound icons."
     publishedDateTime: 2023-10-27T20:23:00Z

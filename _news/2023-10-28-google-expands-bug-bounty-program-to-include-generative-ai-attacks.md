@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Report: Generative AI search startup Perplexity AI seeking millions in venture capital funding"
-    excerpt: "The generative artificial intelligence search engine Perplexity AI is said to be on the verge of landing a massive funding round that will leave it valued at around $500 million, up from its $150 million post-investment valuation in March."
-    publishedDateTime: 2023-10-25T00:55:00Z
-    webUrl: "https://siliconangle.com/2023/10/24/report-generative-ai-search-startup-perplexity-ai-seeking-millions-venture-capital-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 25
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/perplexity-ai.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "aWrq/4KJ0h8UACnIKGKtFscc07OWTfnL7ovICCfh9u9kae2jDjs29ouiUWiWNWEavWiE/lgwqO1jmX1w+8H54MYRC/dP+2jPXsDRBkULEDHvKa/63/nmJOzVV1rnWNaYXV78SMNe5IcVBBbb/EQl3WzFt5S4/nPj61Oj9Bfa5MNji/AnkMgWqzFUA1af6CgXGfwuqagn5tTi8TJ3uNwPtaJB9DqaM6FJGEV1RJoELMfpYlv60JHFV+9tMCrqn/EArjgJqDB8945zDWTo6uWPLnnWTzOQmewb2DrwCGKd66rHkXDZB+15WVWi+TjuLwn2ARVOywE1uNHEr3N74KeWQu/x/Q/ZP1H2hMxgjNBUP40=;dOghULvtqTwswQVnO3CRsQ=="
 ---

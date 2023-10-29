@@ -2,59 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-09-15-anthropic-and-bcg-form-new-alliance-to-deliver-enterprise-ai-to-clients.md",
-      "title": "Anthropic and BCG form new alliance to deliver enterprise AI to clients",
-      "excerpt": "The engagement will see BCG clients use Claude 2 and models across strategic solutions, ideally driving innovation and productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/anthropic-and-bcg-form-new-alliance-to-deliver-enterprise-ai-to-clients/",
-      "originalUrl": "https://venturebeat.com/ai/anthropic-and-bcg-form-new-alliance-to-deliver-enterprise-ai-to-clients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_vector_art_flat_illustration_style_simple_glass_office__54c609e9-53ec-4c22-b376-216d022a7ba1-0Zz097RNJ-transformed.png?fit=750%2C420&#038;strip=all",
-          "width": 749,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-14T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2023-09-14-craigslist-founder-craig-newmark-is-pouring-millions-of-dollars-into-combating-ais-dark-side.md",
       "title": "Craigslist founder Craig Newmark is pouring millions of dollars into combating AI's dark side",
       "excerpt": "Craig Newmark has just donated $3 million to fund a new artificial intelligence and education initiative from Common Sense Media, as he fears future of AI",
@@ -1493,6 +1440,59 @@
         "AI",
         "Facebook AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of.md",
+      "title": "Meta uses your Facebook data to train its AI. Here's how to opt out (sort of)",
+      "excerpt": "Meta will use your personal data in its large language model Llama 2. But you can fine-tune what data it can access.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/",
+      "originalUrl": "https://www.zdnet.com/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/48c567f49e420edb1979845fbb456cb51687ad53/2023/08/30/90d378df-0391-438f-87d0-617e8a43591a/gettyimages-1581627315.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/",
+      "publishedDateTime": "2023-08-30T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

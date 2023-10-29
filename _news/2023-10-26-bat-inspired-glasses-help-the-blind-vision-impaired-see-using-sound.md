@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/technology/acoustic-touch-glasses-help-the-bl
 webUrl: "https://newatlas.com/technology/acoustic-touch-glasses-help-the-blind-vision-impaired-see-using-sound/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vision via sound for the blind"
-    excerpt: "Smart glasses that use a technique similar to a bat's echolocation could help blind and low-vision people navigate their surroundings, according to researchers."
-    publishedDateTime: 2023-10-25T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/10/231025223433.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
   - title: "‘Vision via sound’ for the blind technology potential: researchers"
     excerpt: "Australian researchers have developed cutting-edge technology known as “acoustic touch” that helps people ‘see’ using sound, with the technology having the potential to transform the lives of those who are blind or have low vision."
     publishedDateTime: 2023-10-26T04:26:00Z

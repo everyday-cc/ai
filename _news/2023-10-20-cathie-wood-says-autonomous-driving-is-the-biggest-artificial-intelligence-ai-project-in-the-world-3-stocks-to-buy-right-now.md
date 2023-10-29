@@ -2,9 +2,9 @@
 category: news
 title: "Cathie Wood Says Autonomous Driving Is the Biggest Artificial Intelligence (AI) Project In the World -- 3 Stocks to Buy Right Now"
 excerpt: "Ark Investment Management is one of the most bullish firms on Wall Street when it comes to the potential of artificial intelligence ... autonomous self-driving vehicles. In an interview on ..."
-publishedDateTime: 2023-10-20T12:22:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/21285952/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/21285952/"
+publishedDateTime: 2023-10-20T10:53:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/21285952/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/21285952/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 2800
     isCached: true
 
-secured: "NiRveBMxVcqTSFpHeN81vW8cJRfnEAmZk3lX4Ard8dTif7iMqPSEdJPTak7GVJ3YDDBED4hLDHAfAaGIqLDorHZPfMRvmYkniHr9afJ+23OTGOlI1QacnP9xyhwP7c386/LTTgWGAWF2GP0xfTbbLGPJLNbHivN44Q7RgFOt6fRDmRrZhWuLUiqjgfHbKq06B9iQXhTppHU02WDlB7F1KxqDlLZfH9EJYoBzyiyGYPioeUWPuMUbapR9iBmomwQBFdzlvfdFgFdJMW+Q/7bLAezHQxhubNUQO5jh5r+V7SZfjYrouL15wcVJG7SIilZ4/5rMn2jtdJvyrh6JoteI7onnBmAtDOvADYvBXMrdAqc=;DWDBj4yxRD8kgmialk8bsg=="
+secured: "EXdXYWWByq4ScB/4V5HKcUOsi9uBCzSbzWD/rTHGY8WRGOc6X6vbsw31YR0tACOTUnNanusPLPTSU+y1FkeouwSPUTQPsLkFtRrubo6g0QwK1DkQH0cJIEq7QtG5JBZJPyUwXMcEpZ/iEbkSFPLx8V475qY1O+Kc++romNwogmg8fXZq55ZQDYTYG8zGDxNu74KBS7UW1Jza3vpfiMpH8mgMDxeItWQBzQ0Tn9TPdnSS85W4Vy0IQ/N31lkoUrNddQanntdklx3feJwBDdsbENj8sFZoVpl2gODlLlX6lSVYH9i2gqGQTIMZtfpb2hr5+PxV5W21+JFcFScN+53mZMwIpYreqSgevCsLpqMhlpo=;cV8sRqJRCNVdSEIZ6JdMKw=="
 ---
 
