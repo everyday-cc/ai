@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-29-ai-expert-its-the-age-of-ai-right-now-in-health-care.md",
+      "title": "AI expert: 'It’s the age of AI right now in health care'",
+      "excerpt": "During a routine visit with the medical oncologist, a cancer patient brings up a new symptom that could be a side effect of cancer treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyitem.com/pennsylvania/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_126e8a3e-6786-5234-aa2a-02203cee4c57.html",
+      "originalUrl": "https://www.dailyitem.com/pennsylvania/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_126e8a3e-6786-5234-aa2a-02203cee4c57.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/e/68/e684f212-2e70-5f21-bd22-41815d79f83d/653a8d9fc27ea.image.jpg?resize=1024%2C622",
+          "width": 1024,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailyitem.com/pennsylvania/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_126e8a3e-6786-5234-aa2a-02203cee4c57.amp.html",
+      "cdnAmpWebUrl": "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/pennsylvania/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_126e8a3e-6786-5234-aa2a-02203cee4c57.amp.html",
+      "publishedDateTime": "2023-10-29T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Item",
+        "domain": "dailyitem.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-28-top-10-questions-about-artificial-intelligence.md",
       "title": "Top 10 Questions About Artificial Intelligence",
       "excerpt": "As an independent career and executive coach, this is becoming increasingly important to me, because it is to my clients – and now to readers.",
@@ -105,7 +148,7 @@
       "originalUrl": "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1342,49 +1385,6 @@
       "provider": {
         "name": "Mena FN",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-everbridge-opens-2023-common-alerting-protocol-cap-workshop-in-switzerland-with-presentation-on-artificial-intelligence-for-emergency-warning.md",
-      "title": "Everbridge Opens 2023 Common Alerting Protocol (CAP) Workshop in Switzerland with Presentation on Artificial Intelligence for Emergency Warning",
-      "excerpt": "\"Artificial intelligence and machine learning have accelerated to ... at 02:05 ENHERTU® Approved in the EU as the First HER2 Directed Therapy for Patients with HER2 Mutant Advanced Non-Small Cell Lung Cancer ENHERTU® (trastuzumab deruxtecan) has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-21100568.html",
-      "originalUrl": "https://www.lelezard.com/en/news-21100568.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-12T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -67,15 +67,6 @@ related:
         width: 300
         height: 400
         isCached: true
-  - title: "California DMV Halts Cruise’s Self-Driving Robotaxis Statewide"
-    excerpt: "A Cruise, which is a driverless robot taxi, is seen during operation in San Francisco, California, USA on July 24, 2023. The California Department of Motor Vehicles has yanked Cruise’s permits to operate its autonomous vehicles across the Golden State ..."
-    publishedDateTime: 2023-10-24T18:31:00Z
-    webUrl: "https://www.forbes.com/sites/cyrusfarivar/2023/10/24/california-dmv-halts-cruises-self-driving-robotaxis-statewide/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
   - title: "GM Subsidiary Cruise’S Self-Driving Car Permit Suspended In San Francisco"
     excerpt: "In a significant move, the California Department of Motor Vehicles (DMV) has immediately suspended GM self-driving car s"
     publishedDateTime: 2023-10-25T05:49:00Z

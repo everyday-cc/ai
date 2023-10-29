@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial General Intelligence (AGI) And The Coming Wave"
-    excerpt: "Wall Street Journal Tech Live event heralds the arrival of Artificial General Intelligence (AGI) and a glimpse into the future."
-    publishedDateTime: 2023-10-24T18:57:00Z
-    webUrl: "https://www.forbes.com/sites/randybean/2023/10/24/artificial-general-intelligence-agi-and-the-coming-wave/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 36
   - title: "Top Ways To Trade The Artificial General Intelligence Boom Today"
     excerpt: "Top Ways to Trade the Artificial General Intelligence Boom Today The artificial intelligence (AI) story shows no signs of slowing. Instead, AI –"
     publishedDateTime: 2023-10-27T19:53:00Z

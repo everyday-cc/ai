@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial General Intelligence (AGI) And The Coming Wave"
-    excerpt: "Wall Street Journal Tech Live event heralds the arrival of Artificial General Intelligence (AGI) and a glimpse into the future."
-    publishedDateTime: 2023-10-24T18:57:00Z
-    webUrl: "https://www.forbes.com/sites/randybean/2023/10/24/artificial-general-intelligence-agi-and-the-coming-wave/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 36
   - title: "Top Ways to Trade the Artificial General Intelligence Boom Today"
     excerpt: "The Genius™ beta began in October and is rolling out to a select group of ten private beta partners; enterprise software developers will be granted “early access” to Genius™ to test various diverse use cases over the next few months. The company will announce each private beta partnership as it launches over the coming weeks and months."
     publishedDateTime: 2023-10-27T16:04:00Z

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "California suspends GM Cruise self-driving vehicles as 'not safe' for the public"
-    excerpt: "California suspended General Motors' Cruise autonomous vehicle deployment and driverless testing permits, effective immediately, citing safety concerns."
-    publishedDateTime: 2023-10-24T18:02:00Z
-    webUrl: "https://www.autoblog.com/2023/10/24/california-dmv-yanks-gm-cruises-license-to-operate-without-a-backup-driver/"
-    ampWebUrl: "https://www.autoblog.com/amp/2023/10/24/california-dmv-yanks-gm-cruises-license-to-operate-without-a-backup-driver/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/10/24/california-dmv-yanks-gm-cruises-license-to-operate-without-a-backup-driver/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 39
-    images:
-      - url: "https://s.aolcdn.com/images/dims3/GLOB/crop/3913x2201+0+368/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2023/10/24140138/2023-10-24T173527Z_1_LYNXMPEJ9N0UE_RTROPTP_4_GM-SELFDRIVING-CRUISE-1.jpg.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "California suspends tests of GM's Cruise self-driving car following safety concerns"
     excerpt: "California authorities on Tuesday suspended testing of Cruise self-driving cars being developed by General Motors, citing safety concerns following a"
     publishedDateTime: 2023-10-25T04:28:00Z
@@ -101,6 +85,15 @@ related:
     provider:
       name: AOL
       domain: aol.com
+    quality: 4
+  - title: "Cruise suspends self-driving car operations in Austin, nationwide"
+    excerpt: "Austin officials said residents complained about the cars not operating properly. The company’s suspension follows the launch of a federal investigation into incidents with pedestrians in San Francisco."
+    publishedDateTime: 2023-10-27T18:25:00Z
+    webUrl: "https://www.texastribune.org/2023/10/27/cruise-driverless-cars-austin-suspend/"
+    type: article
+    provider:
+      name: The Texas Tribune
+      domain: texastribune.org
     quality: 4
   - title: "California suspends GM Cruise self-driving vehicles as 'not safe' for public"
     excerpt: "The automaker reported on Tuesday that it lost $723 million on Cruise during the third quarter. The DMV added that Tuesday's \"decision does not impact the company's permit for testing with a safety driver."

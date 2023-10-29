@@ -3,8 +3,8 @@ category: news
 title: "AI doomsday warnings a distraction from the danger it already poses, warns expert"
 excerpt: "A leading researcher, who will attend this week’s AI safety summit in London, warns of ‘real threat to the public conversation’"
 publishedDateTime: 2023-10-29T07:01:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert"
-webUrl: "https://www.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert"
+originalUrl: "https://www.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert?ref=emergentmind"
+webUrl: "https://www.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert?ref=emergentmind"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "+ifSdqezOS/HxA8gMERCzceUXJ82tgOP6hYhcemgTUizL1YRGlxSnTRQP//XmJxn5caiLYuSVhFKavCV0cQY3vRnT+nBuLpmEGv4CnIZ3vpvnCFzfz5So5o9R71rNclAP9vsd56j77fVvgq64mVY8oAk9XyGaoc5oL6tO/U0VudfwxC6ht7c/Bo1N9NShqSGDQCWYFTiyei4AJB/O1Fv/3s70n1idm38TRLKDPMboDf8c0P48ZCxMzQYATo4cEidlawfIysnFIcMFB2Negwtxwwx4Wt+STAAjFeyoxpGPZY+z0VNJwtLz6barGSCw4YMoLlY1+k/79ZIuIyl1FbZgYct9zZEbkLwCNDGYl7cOmw=;sEDrv5sm0G+rwdwC1jl2sQ=="
+secured: "ZA+6NRDDVhRwks4qnKKdQcIowXau0i+kKeba+nY+8D7LKmqoZ2Kqm3iwJlJ4RjjEwjPhPSaRmyCiBZRV8dZV3fTzQ1ed1jXbM8KXkrLN+5rFXVfsaSAAAXzIX+YDPYhoOoDVbO6y6rYWkLSFAqdyD6TP3fbRi0onXY5vO1mdG3gDcf4CIlTj1/7qYjVY8Ivdb+wBhVW1tG1UVhpPo1T3DNEaV5p1mFLZCW4Z6vt5hnd7gLr5Tn09KA8B1tA3nNOaA2Qn9hETJzUO+vVenCbAh/2yIDYquBM5GYhlbYzoAMCdpux0IiWvwOh2/xYPOAQQyU1WDLek5TQg2HfIySQm8kgjT/PJR7Y8AFdtvPfFtHI=;zszciHu/hLfXE0QPXS1iNg=="
 ---
 

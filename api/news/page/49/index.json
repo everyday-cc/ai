@@ -2,6 +2,58 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-09-23-paralyzed-man-walks-using-mind-controlled-robot.md",
+      "title": "Paralyzed man walks using mind-controlled robot",
+      "excerpt": "A man paralyzed from the shoulders down has been able to walk using a pioneering four-limb robotic system, or exoskeleton, that is commanded and controlled by signals from his brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idRCV007BNU",
+      "originalUrl": "https://www.reuters.com/video/watch/idRCV007BNU",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20191004&i=RCV007BNU&r=RCV007BNU&t=2",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-23-githubs-ai-powered-coding-assistant-moves-to-public-beta-how-to-access-it.md",
       "title": "GitHub's AI-powered coding assistant moves to public beta. How to access it",
       "excerpt": "To access the feature, a user needs to have an active GitHub Copilot subscription and, if using Visual Studio Code, have the latest version of it installed. The user must also be signed in with the same GitHub ID that has access to GitHub Copilot.",
@@ -1102,58 +1154,6 @@
         "AI",
         "AI Hardware",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-waabis-robot-trucks-move-from-the-virtual-world-to-uber-freights-network.md",
-      "title": "Waabi’s Robot Trucks Move From The Virtual World To Uber Freight’s Network",
-      "excerpt": "And while robot trucking was seen as an easier market to crack ... along with Softbank’s recent $1 billion investment in autonomous trucking startup Stack AI, much-needed good news for the segment. (Stack was created by the founders of Argo AI, a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2023/09/21/waabis-robot-trucks-move-from-the-virtual-world-to-uber-freights-network/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2023/09/21/waabis-robot-trucks-move-from-the-virtual-world-to-uber-freights-network/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650a4b3a9d9c7bf807bba901/0x0.jpg?format=jpg&crop=2500,1406,x0,y214,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

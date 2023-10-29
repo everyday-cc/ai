@@ -45,15 +45,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "Building a full-stack robotics company in the age of large AI models"
-    excerpt: "Electric Sheep Robotics' Nag Murty dives into some of the challenges startups face when looking to scale their operations."
-    publishedDateTime: 2023-10-26T17:15:00Z
-    webUrl: "https://www.therobotreport.com/building-a-full-stack-robotics-company-in-the-age-of-large-ai-models/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 79
   - title: "IC Chips in AI and Machine Learning: Defining the Future of Electronics"
     excerpt: "Just by looking at the current trends, artificial intelligence, and machine learning are poised to be the drivers of the next generation of technology. This statement is not far-fetched anymore as in recent years,"
     publishedDateTime: 2023-10-27T09:52:00Z
@@ -67,6 +58,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/10/3d-ics-in-emerging-technologies-consumer-electronics-ml-ai-featured-1280x720-1-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Building a full-stack robotics company in the age of large AI models"
+    excerpt: "Electric Sheep Robotics' Nag Murty dives into some of the challenges startups face when looking to scale their operations."
+    publishedDateTime: 2023-10-26T17:37:00Z
+    webUrl: "https://www.roboticsbusinessreview.com/news/building-a-full-stack-robotics-company-in-the-age-of-large-ai-models/"
+    type: article
+    provider:
+      name: Robotics
+      domain: roboticsbusinessreview.com
+    quality: 69
+    images:
+      - url: "https://www.roboticsbusinessreview.com/wp-content/uploads/2023/10/electric-sheep-featured.jpg"
+        width: 770
+        height: 500
         isCached: true
   - title: "Robotics and artificial intelligence to transform O&M tasks in the energy sector"
     excerpt: "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news"

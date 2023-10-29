@@ -2,6 +2,57 @@
   "page": 137,
   "value": [
     {
+      "path": "_news/2023-07-26-nyc-is-now-using-ai-at-some-subway-stations-to-track-when-and-how-fare-evaders-are-getting-through.md",
+      "title": "NYC is now using AI at some subway stations to track when and how fare evaders are getting through",
+      "excerpt": "The M.T.A. said that the AI is only being used to generate reports and quantify fare evasion, not to identify fare evaders or assist law enforcement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7",
+      "originalUrl": "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64c000fbbea3440019614a38?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp",
+      "publishedDateTime": "2023-07-25T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-a-translator-for-your-kids-how-using-ai-as-a-parenting-co-pilot-will-help-parents-communicate-better.md",
       "title": "A translator for your kids: How using AI as a 'parenting co-pilot' will help parents communicate better",
       "excerpt": "With ChatGPT and other artificial intelligence tools, mom and dad can now access massive amounts of parenting knowledge at their fingertips.",
@@ -1157,58 +1208,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-taiwans-tsmc-to-invest-29-billion-in-new-plant-as-demand-for-ai-chips-soars.md",
-      "title": "Taiwan’s TSMC to invest $2.9 billion in new plant as demand for AI chips soars",
-      "excerpt": "TSMC, the world’s largest chipmaker, says it plans to invest nearly 90 billion New Taiwan dollars ($2.9 billion) to build an advanced chip plant in Taiwan, as it expands production to meet booming demand for artificial intelligence (AI) products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-intl/index.html",
-      "originalUrl": "https://www.cnn.com/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230725082028-taiwan-tsmc-stock.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-intl/index.html",
-      "publishedDateTime": "2023-07-25T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

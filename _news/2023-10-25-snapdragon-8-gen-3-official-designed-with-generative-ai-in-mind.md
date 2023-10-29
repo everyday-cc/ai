@@ -149,15 +149,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How generative AI is making robots smarter, more capable, and more ready for the mainstream"
-    excerpt: "As generative AI becomes a greater part of robotics, we can expect innovations to happen at a faster pace, moving robots closer to deployment"
-    publishedDateTime: 2023-10-24T17:16:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-is-making-robots-smarter-more-capable-and-more-ready-for-the-mainstream/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 56
   - title: "AI-powered healthcare personalization company raises $5M"
     excerpt: "RadiantGraph, an artificial intelligence-powered platform designed to ... biometric data and medication history to improve healthcare consumer engagement. The company will use the capital to fuel growth and partnerships with new healthcare organizations ..."
     publishedDateTime: 2023-10-27T21:49:00Z
@@ -315,20 +306,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
-  - title: "Generative AI and evolving enterprise needs: How Amazon approaches the future of technology"
-    excerpt: "Generative artificial intelligence is a rapidly advancing technology that is merging hype and reality. It’s poised to have a huge impact on next-generation cloud technologies."
-    publishedDateTime: 2023-10-24T17:26:00Z
-    webUrl: "https://siliconangle.com/2023/10/24/generative-ai-evolving-enterprise-needs-amazon-approaches-future-technology-supercloud4/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 29
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Bratin-Saha-Supercloud-4-2023.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
     excerpt: "Today IBM launched watsonx Code Assistant, a generative AI-powered assistant that helps enterprise developers and IT"
     publishedDateTime: 2023-10-26T21:37:00Z

@@ -3,12 +3,12 @@ category: news
 title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
 excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
 publishedDateTime: 2023-10-28T12:47:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?ref=futurepedia"
-webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?ref=futurepedia"
+originalUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 type: article
-quality: 72
+quality: 70
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -70,15 +69,6 @@ related:
       name: marketscale
       domain: marketscale.com
     quality: 34
-  - title: "The Computing Pioneer Helping AI See"
-    excerpt: "Alexei Efros has spent his career learning how machines see differently from humans. Now he’s helping to bridge the gap."
-    publishedDateTime: 2023-10-24T18:01:00Z
-    webUrl: "https://www.quantamagazine.org/the-computing-pioneer-helping-ai-see-20231024/"
-    type: article
-    provider:
-      name: Quanta Magazine
-      domain: quantamagazine.org
-    quality: 19
   - title: "3 Ways Leaders Can Start Unlocking the Benefits of Artificial Intelligence"
     excerpt: "After decades of hype and hysteria, artificial intelligence is finally ready for primetime. To date, A.I. has largely been reserved for the largest companies. But now, with the advent of generative pre-trained A."
     publishedDateTime: 2023-10-27T20:32:00Z
@@ -89,6 +79,6 @@ related:
       domain: inc.com
     quality: 15
 
-secured: "s8mQ9VTQsSCKciQ6GZjVTBv/SqHTxXoeVGtkXOfTnLzkm2iRfCFhIGNbuK+PoNhnPFQT3d07W954kBE8pglggR/2vE9LqGDIWbmept3Wz7mgHnFqKXz7Y98hcuNaiU7rgua3HcpYBVfDBPhhMvoLP6NTYYSnoLp+MP35mBa4x23fL0RwXHud9sYA9JveNohvtMX2Qe4T2tfPsPJQYae1v8xwFxUUwRkF+6yrolG2U5AXMojVu/bpd/M/rs/pr+seEK4y76JLBhIyrYTSfUoS+ZQRtmvxigyFK2mx72rnhyxW22YfIWN3cZPWwfV8vZJzur70ZxDC9Di0QV2C/T5kEavYwILIE+YVItYAzayadfU=;8gKUEAogWy8eQ55K5golPw=="
+secured: "3xGkIttesWNpsUiNnsTzvt/EQUw/TMceLo1dDzW5ld4P97g6IOw8yK+KaJM6ga8ADAJHy9M/FfrcNhSz5hiegQZcbrbCaoTiKkinvdAvVuo4o4CfamgSSZW2dzlgFATmT1QatKPxwNpWDL7wui/gZ7j7ZvsO/JAmQFlqWaNhoi76XELpUdbmuVHtkwA5xKbi0DhU8GBYGHMVHppRyNemPKiP7frUa8cO+VGDO9Udy+zj8IV3xt4l7nI5qNolF/2m29YwYCJhcs+6eVa7zmKJsbLAgiTY0CWg4awfVFaJrLKN7GCh1di5zgwfS4kLAYHQerJE7KWVIPrNb3WB7A5y2YYQhXjWkrWVxNlJaCD8edY=;sniJnP4WPTZ24tfLgqYRmQ=="
 ---
 

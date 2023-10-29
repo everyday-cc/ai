@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimin
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Data-driven AI can boost health care"
+    excerpt: "Complicated clinical diagnoses medical providers reach come from a combination of precedent, symptoms, personal expertise and data. The latter bit of information — data — is something that changes all"
+    publishedDateTime: 2023-10-29T09:52:00Z
+    webUrl: "https://www.dailyitem.com/opinion/data-driven-ai-can-boost-health-care/article_de85033c-74b6-11ee-a529-63555a97187a.html"
+    type: article
+    provider:
+      name: The Daily Item
+      domain: dailyitem.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "The Rise of AI | Jury still out on new tech's use in mental health care, experts say"
     excerpt: "Although several uses of artificial intelligence in mental health are showing some success, experts say the jury is still out on its capabilities for more extensive use."
     publishedDateTime: 2023-10-28T02:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Data poisoning tool lets artists fight back against AI scraping. Here's how"
-    excerpt: "Called Nightshade, the tool messes with training data pixels to confuse image-generating AI models."
-    publishedDateTime: 2023-10-24T18:41:00Z
-    webUrl: "https://www.zdnet.com/article/data-poisoning-tool-lets-artists-fight-back-against-ai-scraping-heres-how/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
 
 secured: "X755UXuTyt2NJcLxyj12SfxDSi1ZmiY3JXEsXg4aHoVEsjcax0xgmbJZxzMnAWAFA5leADhjrP978vGyEm0YgsFoeNFX5mrnNfAmKKls3OeSFk11p78I8CrMW1GudEkw/p00BenjFgVaTrVyYhQ9F3peoA5E0rsJm9YhogGtzN19PwPwHvxask0I/K/G3URrkQdTo0ZPtfdBmB0Mz20pZAdK3GZS37QxaqhWeXuaP05pnj6ntkhTxaQJzRmPmIGh5xyIVEHY4hWTbWkAQy10Lx3SQMwOxi+DQ+VKEbSOJy06Nf4uQbFdSv+Xfrc8x0zwpSNHXFf6Zl4B5bvD3Etl5+glsndvTWhkxvX4asEX5t8=;kXmu0BPOHY/U5CsTW0egYA=="
 ---

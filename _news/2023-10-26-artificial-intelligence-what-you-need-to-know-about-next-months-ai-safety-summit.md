@@ -9,7 +9,7 @@ ampWebUrl: "https://news.sky.com/story/amp/artificial-intelligence-what-you-need
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-what-you-need-to-know-about-next-months-ai-safety-summit-12987104"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/86692a0363695e54e4dec5aa93b0f36f97110d17/271_219_3082_1848/master/3082.jpg?width=620&quality=85&auto=format&fit=max&s=acf063ae8948554c6db715ce06cd89fe"
         width: 620
         height: 372
+        isCached: true
+  - title: "Stability AI to participate in UK Government’s AI Safety Summit"
+    excerpt: "Stability AI, a pioneering generative AI firm based in the UK, has announced its participation in the upcoming AI Safety Summit. Hosted by the UK"
+    publishedDateTime: 2023-10-29T10:09:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-safety-summit-2023/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/UK-Government-AI-Safety-Summit-2023.jpg"
+        width: 1280
+        height: 782
         isCached: true
 
 secured: "FGiyi2Ib5THOODqOFo9HAJHnGKNJFHmqjs9fLT2y6C3Zb/k0HZYQI0pGg88KITpI/8gOKPunwYkombA5nBZ+4l3VJRX5lL+7ZBtcqwK0kv3ibrMnYvoNtp8GnDNuUSUwiHB9hcXwAnakiaVCStcU4RClL8RCk16lEvUSMR+5/BbjQ7CdseKj1HA5408yJArzcmDoC9guawDbYwK1YLxSqMc64Hb0rX6qTGSN3ePfS1jcNFKjQskZ7Ib0M1FL0es4db0D4CvhaQ5ywxIaP/HU/3gsB9sfxcY1hO/UL2vSkd7p0X5rYyQfUQfAFWqoTMmr6sVCb7R2VpeEgiuPIxUEKtiXeE1kKg6u2wYb0G0KjwU=;m0Kr3JmIXYo1ZWESe6uGQg=="

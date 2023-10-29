@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI risk must be treated as seriously as climate crisis, says Google DeepMind chief"
-    excerpt: "Demis Hassabis calls for greater regulation to quell existential fears over tech with above-human levels of intelligence"
-    publishedDateTime: 2023-10-24T17:07:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation?ref=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 68
-    images:
-      - url: "https://i.guim.co.uk/img/media/93c2ec47dfa92753188caec7eada3383a593dc5a/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=f95968ad0e4c3d48f26b309e88995955"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Google DeepMind Chief Believes AI Risk Is Similar To Climate Crisis"
     excerpt: "Demis Hassabis said he wishes to see the creation of an IPCC and CERN-like international body for the regulation of AI."
     publishedDateTime: 2023-10-25T06:44:00Z

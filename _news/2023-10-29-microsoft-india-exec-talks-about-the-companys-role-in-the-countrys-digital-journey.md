@@ -110,15 +110,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Infosys collaborates with Microsoft to accelerate and democratize … – Infosys"
-    excerpt: "Both companies will help enterprises take an AI-first approach to scale next-generation AI solutions to improve operational efficiencies, drive revenue"
-    publishedDateTime: 2023-10-24T18:20:00Z
-    webUrl: "https://www.inferse.com/769259/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-infosys/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 16
 
 secured: "BtwQpGhTP+x6/21Zw8kbqaFCup65e+Xp6vKDdlJo+g0R/n9OqNFF9RrYnQluDu9nlAJnQLl5phq6YKs93vCmkDdW4aro1JshY3DHP1uutmy9oiXBJoiZSOsZz+wOpNIv76xSo7Y5q1T7OHIyhuJ3lsOXg/KihoQEvJhCql7aj5pOotPIErNkvvRgw3n4v18M8nF7DwPogfgDldOmYsxGlmgZPF4l/hbx+sgkYio4i9pCHjV+kj12cW3wFrxmEAMLq/qTDMNhP34a1XbQIbowmApgATr5dEu1w07Ia1qjLKB4tE2fLMWsfduB1FK/T7PifFBAdr7Y9OZCuyNQizfBZY3+pxubBJLuz5Tq1zX48TX1fh8GuZGdLXFm9tvL5PO3UIajblCLpHRV1eIDX54TAQ205YETIt3k9WaLuO+VNQqvwKH/ckAmrMwTaRa+I/9IKRORt/dN68u8Ha7a5EZJu/L1pZGzACL8sIlmCxMg+kGwSzkuLidhzw37liPTRubNI0wXMQUZZBdSFijCs7QEFQ==;X4V78psQKCZq+QHELhovYQ=="
 ---

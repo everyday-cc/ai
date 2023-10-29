@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/"
 type: article
 quality: 119
-heat: 279
+heat: 289
 published: true
 
 provider:
@@ -133,6 +133,15 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 64
+  - title: "Is NVIDIA a Good Buy After the White House AI Chip Sale Ban?"
+    excerpt: "The U.S. government placed restrictions on the export of high-end semiconductor chips to China and Russia – of which NVIDIA is a market leader. This, of course, posed a large fi"
+    publishedDateTime: 2023-10-27T20:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/is-nvidia-a-good-buy-after-the-white-house-ai-chip-sale-ban"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 64
   - title: "US Government Orders Immediate Stop to Chinese AI Chip Exports"
     excerpt: "Tech giant Nvidia has announced that President Biden’s administration has ordered it to stop shipping advanced AI chips to China immediately. These restrictions were always in the works and due to start next month. However, for an as-of-yet unknown reason, this date has been brought forward to today."

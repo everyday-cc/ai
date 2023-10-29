@@ -2,6 +2,41 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-09-18-the-3-best-machine-learning-stocks-to-buy-now-september-2023.md",
+      "title": "The 3 Best Machine Learning Stocks to Buy Now: September 2023",
+      "excerpt": "Machine learning has been the stuff of science fiction for longer than most of us have been alive. The 20th century was filled with stories of robots who could think and feel just like us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-3-best-machine-learning-stocks-to-buy-now%3A-september-2023",
+      "originalUrl": "https://www.nasdaq.com/articles/the-3-best-machine-learning-stocks-to-buy-now%3A-september-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-09-18-amazon-unveils-new-cloud-storage-offerings-at-aws-storage-day.md",
       "title": "Amazon Unveils New Cloud Storage Offerings at AWS Storage Day",
       "excerpt": "Amazon Web Services AWS announced new features at AWS Storage Day, updating FSx for Lustre, air-gap backups for AWS Backup, and expanded AWS DataSync targets.",
@@ -1048,40 +1083,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-16-new-research-reveals-weakness-in-facebooks-fake-news-policies.md",
-      "title": "New research reveals weakness in Facebook’s fake news policies",
-      "excerpt": "Facebook's design makes it unable to control ... “There is significant attention given to social media platforms and artificial intelligence governance today. \"However, this discussion largely ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.guampdn.com/news/national/new-research-reveals-weakness-in-facebook-s-fake-news-policies/article_472d6aa9-a269-52b7-a1ae-7f0564ccf0b9.html",
-      "originalUrl": "https://www.guampdn.com/news/national/new-research-reveals-weakness-in-facebook-s-fake-news-policies/article_472d6aa9-a269-52b7-a1ae-7f0564ccf0b9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-15T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pacific Daily News",
-        "domain": "guampdn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

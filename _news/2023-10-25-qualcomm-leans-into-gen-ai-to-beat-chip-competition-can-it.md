@@ -73,24 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Qualcomm says its new chips are 4.5 times faster at AI than rivals"
-    excerpt: "Qualcomm's new Snapdragon processors bring fast generative AI to laptops and phones while keeping your data private and saving power."
-    publishedDateTime: 2023-10-24T19:00:00Z
-    webUrl: "https://www.digitaltrends.com/computing/new-qualcomm-processors-excel-at-generative-ai/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 64
-  - title: "Qualcomm Unveils New PC Laptop Chip With AI Features for 2024"
-    excerpt: "The announcement comes a day after Reuters reported that Microsoft has encouraged Qualcomm, Nvidia and Advanced Micro Devices to come up with new chips to handle a bevy of new AI features in Windows, the world's most popular PC operating system."
-    publishedDateTime: 2023-10-24T19:03:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-24/qualcomm-unveils-new-pc-laptop-chip-with-ai-features-for-2024"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "Qualcomm announces Windows laptop AI-powered chip to outpace Apple's Mac processors in select tasks"
     excerpt: "This revelation follows a recent Reuters report indicating that Microsoft has urged Qualcomm, Nvidia, and Advanced Micro Devices to develop new chips capable of accommodating a range of innovative AI features in Windows, the world's most widely used PC operating system."
     publishedDateTime: 2023-10-25T05:29:00Z
@@ -107,15 +89,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Qualcomm's new Snapdragon 8 Gen 3 mobile chip brings generative AI to smartphones"
-    excerpt: "The new premium system on a chip has been designed to enhance on-device artificial intelligence, productivity, gaming, and more."
-    publishedDateTime: 2023-10-24T19:00:00Z
-    webUrl: "https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 59
   - title: "Qualcomm Claims Snapdragon X Elite Platform for Windows PCs Will Rival Apple Chips"
     excerpt: "Generative AI workloads will be able to run on-chip in the Snapdragon X Elite. Qualcomm claims the platform beats Apple's M2 Max chip."
     publishedDateTime: 2023-10-26T19:30:00Z
@@ -167,15 +140,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Qualcomm's Snapdragon X Elite brings more AI power to your next PC"
-    excerpt: "The Snapdragon X Elite supports generative AI models with over 13 billion parameters. PCs powered by the new processor are expected from vendors in mid-2024."
-    publishedDateTime: 2023-10-24T19:00:00Z
-    webUrl: "https://www.zdnet.com/article/qualcomms-snapdragon-x-elite-brings-more-ai-power-to-your-next-pc/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
   - title: "Qualcomm's New Snapdragon Elite X Chip Aims to Surpass Apple's Mac in AI Capabilities"
     excerpt: "Qualcomm provided details about its latest chip designed for Microsoft Windows-based laptops. The company promises this chip will outperform Apples Mac chips in certain tasks. The Snapdragon Elite X chip,"
     publishedDateTime: 2023-10-25T08:50:00Z
@@ -190,15 +154,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Meet Snapdragon X Elite: Qualcomm Touts Big AI, Compute Gains on Arm Laptop CPUs"
-    excerpt: "Qualcomm's flagship next-gen processor for laptops, based on a new CPU core, looks to be a high-performance efficiency monster—if you believe the hype. We'll be checking it out this week at the company's annual Snapdragon Summit."
-    publishedDateTime: 2023-10-24T19:06:00Z
-    webUrl: "https://www.pcmag.com/news/qualcomm-snapdragon-x-elite-oryon-unveiled"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 42
   - title: "Qualcomm invests further in mobile AI with chip announcements"
     excerpt: "Qualcomm ( QCOM) rolled out a number of key AI announcements today, as the company seeks to cement itself as a major player in mobile chips. Those announcements include a new compute platform, called Snapdragon X Elite, a new central processing unit chip, called the Qualcomm Oryon CP, and a new smartphone chip, named the Snapdragon 8 Gen 3."
     publishedDateTime: 2023-10-25T00:43:00Z
@@ -207,15 +162,6 @@ related:
     provider:
       name: AOL
       domain: aol.com
-    quality: 34
-  - title: "The Snapdragon X Elite is Qualcomm’s new Windows chip built for AI"
-    excerpt: "Qualcomm has been doing nothing but perfecting its approach to developing quality SoCs and processors for smartphones and computers."
-    publishedDateTime: 2023-10-24T19:01:00Z
-    webUrl: "https://9to5google.com/2023/10/24/snapdragon-x-elite/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
     quality: 34
   - title: "Qualcomm’s first Snapdragon X Elite chip for Windows PCs is a 12-core processor with up to 45 TOPS AI performance"
     excerpt: "Qualcomm's first Snapdragon X Elite chip for Windows PCs is a 12-core processor with up to 45 TOPS AI performance"
@@ -231,24 +177,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Qualcomm Unveils Snapdragon 8 Gen 3 With Big Performance Gains And AI Mastery"
-    excerpt: "It's that time of year again—the leaves and temperatures are falling, and Qualcomm is announcing a new flagship mobile processor platform at its Snapdragon Summit event in Maui today. As expected, the new Qualcomm Snapdragon 8 Gen 3 is now official,"
-    publishedDateTime: 2023-10-24T19:01:00Z
-    webUrl: "https://hothardware.com/news/qualcomm-announces-snapdragon-8-gen-3"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 16
-  - title: "Qualcomm Snapdragon 8 Gen 3 Unveiled with 30% Performance Gains and On-Device AI"
-    excerpt: "Qualcomm has launched the Snapdragon 8 Gen 3 with a powerful new Hexagon AI unit and brings significant CPU and GPU performance gains."
-    publishedDateTime: 2023-10-24T19:01:00Z
-    webUrl: "https://beebom.com/qualcomm-snapdragon-8-gen-3-unveiled/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 14
   - title: "Qualcomm’s Snapdragon 8 Gen 3 brings big boost in CPU, graphics, and AI performance"
     excerpt: "The Snapdragon 8 Gen 3 also features support for up to 24GB of LPDDR5x-4800 memory, has an integrated Snapdragon X75 5G modem, and Qualcomm’s FastConnect 7800 wireless system with support for WiFi 7 and Bluetooth 5.4."
     publishedDateTime: 2023-10-24T19:11:00Z

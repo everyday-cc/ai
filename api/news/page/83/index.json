@@ -2,6 +2,58 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2023-08-31-bringing-generative-ai-in-search-to-more-people-around-the-world.md",
+      "title": "Bringing generative AI in Search to more people around the world",
+      "excerpt": "We’re bringing generative AI capabilities in Search (SGE) to more people, making  Search Labs available in India and Japan.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/",
+      "originalUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SGE_Expansion_hero.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-india-japan/amp/",
+      "publishedDateTime": "2023-08-30T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-an-introspective-ai-finds-diversity-improves-performance.md",
       "title": "An ‘introspective’ AI finds diversity improves performance",
       "excerpt": "An artificial intelligence with the ability to look inward and fine tune its own neural network performs better when it chooses diversity over lack of diversity, a new study finds. The resulting diverse neural networks were particularly effective at solving complex tasks.",
@@ -1166,58 +1218,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-contextai-wants-to-merge-product-analytics-sensibilities-with-llms.md",
-      "title": "Context.ai wants to merge product analytics sensibilities with LLMs",
-      "excerpt": "The way it works is customers share chat transcripts with Context via an API. It then analyzes the information using natural language processing (NLP). The software groups and tags conversations based on topic, and then analyzes each conversation to ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/",
-      "originalUrl": "https://techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1625240294.jpeg?resize=1200,692",
-          "width": 1200,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/amp/",
-      "publishedDateTime": "2023-08-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

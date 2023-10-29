@@ -46,6 +46,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Stability AI to participate in UK Government’s AI Safety Summit"
+    excerpt: "Stability AI, a pioneering generative AI firm based in the UK, has announced its participation in the upcoming AI Safety Summit. Hosted by the UK"
+    publishedDateTime: 2023-10-29T10:09:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-safety-summit-2023/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/UK-Government-AI-Safety-Summit-2023.jpg"
+        width: 1280
+        height: 782
+        isCached: true
 
 secured: "u3t1nWw1dFosZDSHAhjfKlQWr0CX/uUPjnN/nqNtKUNhEVwcM8JwJuwB3bFCsIkYo7G7+fVytAMFGx3wGTQJqmWZ6+/XP3y/dTPS0F8GGIfQ/A5G9Qpi/EqPwaNAmN+q3nOPEHWNv2Aoxoo/TRQDa1ErlJvNPpvO9n8VTPVdfNur/YFzWBf6vOr95T3CfetfGZzedo9RuWDWcUQNYBu1xZlEjT2uH00CTk2Kyr5McFeSwCtw5MRABpdwwBxc/lYrhLP2OAr363rcb/5eoz2kaNo0KyVUfHK0xt3XYhq5C+7uZ3zD+CB+ELtsjeLb5XcPVc+s6CWKEjjXtsd/IA3SNlcB1ok5a+V6GNATyCuMDg9bIlXynw9z2IlG/kgzfVF7mlfEwG2ml+cCHc7Xb1vZq82i7qoUjMmIppkDFl95+J/ZLYYkMHcp+ArPvlSFgG+BWru9FaC2bnGpV0iUZEcLGwsirLr4LlZqYa7rMSB3Tmiigcd5TYnDX1RGtfEf4xsBesTA/eSdYM2M2kBdAbLH4g==;fyKLOkgGzRkALiZbhJKH6g=="
 ---

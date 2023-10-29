@@ -65,15 +65,6 @@ related:
         width: 830
         height: 467
         isCached: true
-  - title: "California Halts Cruise's Self-Driving Cars Citing 'Risk to Public Safety'"
-    excerpt: "California’s DMV is suspending Cruise’s permit to test self-driving cars in the state over concerns the vehicles pose a risk to public safety."
-    publishedDateTime: 2023-10-24T19:04:00Z
-    webUrl: "https://www.pcmag.com/news/california-halts-cruises-self-driving-cars-citing-risk-to-public-safety"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 32
   - title: "Self-driving car company Cruise halts fleets in Houston, elsewhere in bid to ‘rebuild public trust’ amid feds’ probe"
     excerpt: "The self-driving car and driverless rides company Cruise said Thursday that it is halting its driverless operations across its fleets -- including in Houston -- as it said on Twitter that it is taking steps to “rebuild public trust,"
     publishedDateTime: 2023-10-27T12:07:00Z

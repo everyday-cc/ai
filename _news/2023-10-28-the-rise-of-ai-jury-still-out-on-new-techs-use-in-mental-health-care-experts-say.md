@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1636
         isCached: true
+  - title: "Data-driven AI can boost health care"
+    excerpt: "Complicated clinical diagnoses medical providers reach come from a combination of precedent, symptoms, personal expertise and data. The latter bit of information — data — is something that changes all"
+    publishedDateTime: 2023-10-29T09:52:00Z
+    webUrl: "https://www.dailyitem.com/opinion/data-driven-ai-can-boost-health-care/article_de85033c-74b6-11ee-a529-63555a97187a.html"
+    type: article
+    provider:
+      name: The Daily Item
+      domain: dailyitem.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Artificial intelligence in health care being discussed at NL Health Services annual summit"
     excerpt: "Newfoundland and Labrador Health Services held its 2023 Innovation Summit this week. This year’s theme is ‘Reimagining Patient-Centred Care through Innovation and Research.’ On Thursday and Friday, the summit focused on the role of artificial intelligence in health care."
     publishedDateTime: 2023-10-27T14:55:00Z

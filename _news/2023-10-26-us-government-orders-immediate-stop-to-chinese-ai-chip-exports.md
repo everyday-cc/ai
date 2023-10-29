@@ -144,6 +144,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Is NVIDIA a Good Buy After the White House AI Chip Sale Ban?"
+    excerpt: "The U.S. government placed restrictions on the export of high-end semiconductor chips to China and Russia – of which NVIDIA is a market leader. This, of course, posed a large fi"
+    publishedDateTime: 2023-10-27T20:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/is-nvidia-a-good-buy-after-the-white-house-ai-chip-sale-ban"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "US tells Nvidia to immediately cease AI chip exports to China"
     excerpt: "US chip giant Nvidia revealed that the US government has instructed it to immediately halt the export of certain high-end artificial intelligence chips to China."
     publishedDateTime: 2023-10-26T09:52:00Z

@@ -60,15 +60,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Data poisoning tool lets artists fight back against AI scraping. Here's how"
-    excerpt: "Called Nightshade, the tool messes with training data pixels to confuse image-generating AI models."
-    publishedDateTime: 2023-10-24T18:41:00Z
-    webUrl: "https://www.zdnet.com/article/data-poisoning-tool-lets-artists-fight-back-against-ai-scraping-heres-how/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
 
 secured: "F+XEoglb0icWIWCmrbWNCELR5Ab5ySQT9Uu+fpM25P7VwhEVh4sA6ETyEuZ7bkLWnpYLjRKO5jLNPrX2rRsV7w65/1Y2uezwqCcbrYHO4MQodQH0eTyawiyXYLBaJk83pT4aCNcyuNWRI/qlAFDoK/3cNRyqPUe2mOmvM7efiKEAVNh52Cj4rf1WNLfnpG1yFziZzYi7L//AtqOaZ0ux4RSDA1W/99/qOUNBje9lCbV/5vmI6p/4mevGL/9LQJKoXmlnoLvpTR9CJVBdO9QkoG6DbVCEnCt66O36IN9C0hZ02ZBUJ9RPPMlbp0k9OJ7G7SLjO+YqhJ7bLSJs7zHk8is73ldpH2carvzkcjFGzhk=;nZ4TKzWgLYUztaEmhbd/kw=="
 ---

@@ -2,21 +2,27 @@
 category: news
 title: "Building a full-stack robotics company in the age of large AI models"
 excerpt: "Electric Sheep Robotics' Nag Murty dives into some of the challenges startups face when looking to scale their operations."
-publishedDateTime: 2023-10-26T17:15:00Z
-originalUrl: "https://www.therobotreport.com/building-a-full-stack-robotics-company-in-the-age-of-large-ai-models/"
-webUrl: "https://www.therobotreport.com/building-a-full-stack-robotics-company-in-the-age-of-large-ai-models/"
+publishedDateTime: 2023-10-26T17:37:00Z
+originalUrl: "https://www.roboticsbusinessreview.com/news/building-a-full-stack-robotics-company-in-the-age-of-large-ai-models/"
+webUrl: "https://www.roboticsbusinessreview.com/news/building-a-full-stack-robotics-company-in-the-age-of-large-ai-models/"
 type: article
-quality: 79
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Robot Report
-  domain: therobotreport.com
+  name: Robotics
+  domain: roboticsbusinessreview.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.roboticsbusinessreview.com/wp-content/uploads/2023/10/electric-sheep-featured.jpg"
+    width: 770
+    height: 500
+    isCached: true
 
 related:
   - title: "Kate Darling on the Future of Robotics and AI Ethics"
@@ -128,6 +134,6 @@ related:
       domain: theglobeandmail.com
     quality: 11
 
-secured: "LIcOV2HjDjJUrZGzwLuHGgC/ewb4dMfXuPktfyHA+GVottgsK6uGKVmvL9qfrTEuvPSPJPhbGzy3PpHYOuMPmmmK7b32+X0UMjL46qxcsruw+zDZAyHg01AcIVGcrgEBtDP9HqidrgpYksXD3RAvzOmHRqFYsVe0wmM4CbGvf7eq1vfMCB9+v3YS/jfiUb4Eo2Yp12UdsQzCowCRu8FOwoykQdyFgpI9NF1g8X6I2GFXOifJm2WrfknOcDeCLogR0InS7oY9X9u/r5SpYBCXMBmK3inL/Svt9sO10xaneSXw1M5ZC1DxZO48IADRCDgpINO+WZw5XeEGI25zPfglUputyahwMU7yhR1AuIG6E+s=;nZmPcalU1QiEuMfVqMs5Qw=="
+secured: "oEwWS6+Pcg5pWBsLV3nwLkFjYqfrN9HnTAeAhm1/P8Xp8akLjG58g+8wx2iTuz3AXVvWVijYE50lGCFWldGoYlJPajaKUie10lTtWBtthCbX9CUtoBdvITKDVp/nhiKFiWJHE4gyMyGi01xbjBFw+0LP7iumII4N0ckI4d32eRJiRrSWWeYspDq2liFSOo9wbNp36pB6ZPDGOK7K6mu+KRQCxjfBsrOG3oAzeG+3VVYCbMIwSajQqshIT3TTbYJSdJKduiY3K+lV3SWO0cbxEqAunyKzcP/O7Q1B0YBxRfyIV79G8HN2I9TCo5O/eQPH4LovxxONIkNObR/FQuvLz1aE2n0cBowr3e+AWl10ee8=;iPOvevhGq3SpJ0i20Ykq7g=="
 ---
 

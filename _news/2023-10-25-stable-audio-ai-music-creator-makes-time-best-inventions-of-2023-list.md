@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/ai-music-creator/"
 webUrl: "https://www.geeky-gadgets.com/ai-music-creator/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,45 +23,6 @@ images:
     width: 1280
     height: 717
     isCached: true
-
-related:
-  - title: "Sanctuary AI Named on TIME's Best Inventions of 2023 List"
-    excerpt: "The recognition is for Phoenix™, the only humanoid general-purpose robot on the list, and comes just weeks after being recognized as a LinkedIn"
-    publishedDateTime: 2023-10-24T18:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sanctuary-ai-named-on-time-s-best-inventions-of-2023-list-1032734498"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://mma.prnewswire.com/media/2256181/Sanctuary_Cognitive_Systems_Corporation_AI_Phoenix.jpg"
-        width: 266
-        height: 400
-        isCached: true
-  - title: "DBusiness Daily Update: Sharrow Propeller Named to Time’s Best Inventions of 2023 List, and More"
-    excerpt: "Our roundup of the latest news from metro Detroit and Michigan businesses as well as announcements from government agencies."
-    publishedDateTime: 2023-10-26T14:53:00Z
-    webUrl: "https://www.dbusiness.com/daily-news/dbusiness-daily-update-sharrow-propeller-named-to-times-best-inventions-of-2023-list-and-more/"
-    type: article
-    provider:
-      name: DBusiness Magazine
-      domain: dbusiness.com
-    quality: 26
-    images:
-      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2023/10/UpdateSharrow800.jpg"
-        width: 800
-        height: 610
-        isCached: true
-  - title: "It’s time to put Artificial Intelligence on the ballot"
-    excerpt: "Elections are often described as being “referendums” on recent policy decisions. The 2010 midterm supposedly signaled the public’s views on the Affordable Care Act. Similarly, the 2006 midterm theoretically amounted to a vote on the Iraq War."
-    publishedDateTime: 2023-10-27T13:41:00Z
-    webUrl: "https://www.gulftoday.ae/opinion/2023/10/27/it-is-time-to-put-artificial-intelligence-on-the-ballot"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 19
 
 secured: "mjdPYvXo8Al19iXP0X8Qq36Tqp9JhR9qzuPWx/9kBEDv3o9odSswJJiQjWPeW7TVXYMobTanEYLvvO10oN30+YF+M3bMiX+qYQDJHxTg6wx3Ph8B7fQNYUia6qBed4Xj3Iq6Vh4XCYEO2PKq65FkFoiRgUqPjqNOipf+BWOa5kRqztEhgh4J5nZdTQ/muhz6pfhw5dzcQL+EyPMOGbq3M6uadPUhX0L2VcUqYddcrGQ20MeJ4VVtzxBmKTPYraLATaXZXRejDunJkN9mGcOUsh++ESFzMGh1HUDFpxdm0SQXmzjb+qmygqdeGhdbBxoF0uPNO0vFCFHoGsZwwarMj5iDMTe0kZbie5/n4y2Vn+4=;cd/rvrknSN7z+uGjyzfcxg=="
 ---

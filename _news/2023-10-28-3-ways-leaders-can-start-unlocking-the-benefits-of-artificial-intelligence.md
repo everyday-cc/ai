@@ -37,14 +37,14 @@ related:
   - title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
     excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
     publishedDateTime: 2023-10-28T12:47:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?ref=futurepedia"
+    webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 72
+    quality: 70
     images:
       - url: "https://i.guim.co.uk/img/media/53285d0e16ba8ce49782d1e34d9d4e78f37991dd/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=4c1a22e3a11bda4c35e304748e0175b9"
         width: 620
@@ -73,15 +73,6 @@ related:
       name: marketscale
       domain: marketscale.com
     quality: 34
-  - title: "The Computing Pioneer Helping AI See"
-    excerpt: "Alexei Efros has spent his career learning how machines see differently from humans. Now he’s helping to bridge the gap."
-    publishedDateTime: 2023-10-24T18:01:00Z
-    webUrl: "https://www.quantamagazine.org/the-computing-pioneer-helping-ai-see-20231024/"
-    type: article
-    provider:
-      name: Quanta Magazine
-      domain: quantamagazine.org
-    quality: 19
 
 secured: "ffnMmN+r4I+ykPhYEofvu/qaURUe/+Q6J3oXbFbuWVEhRt5mBg2L5R8A32+ct4SSSVgz4ulrJ5Y2XJdWb/ki/TdF1BErKgcJqGucQRnbCkoSXLzWviBG2G/Dhixo6HTYoMMT2gzzR+sz9kNp1FUGF9oQPG6v5+Cxwa5KlAY+NiR1qfWr5kAe7ijJlkXfzTijso8tgdSDUyrXLXU5ID7yJaLeSrVn8VTp6T/RwoS71NJU/D8u76EN7F+bzon6ZXswI20ozY+7EtbNroMAY38pnQfGi0/Q0IFVLif2/q3ypnbttDiQEQFp7EL5pM9BlZCnDLebvPpMAU1dgVSmNL9gdM+wt1u/iKiX8MuQFIhVDH378dU+4c52IIk4ddeRdZKvSlSm2vIurEbgdVcLDC2g1Us+lYnfGcKM8pVfEiSri3nb9TRgRaS3AE9dpXJyxmU1lNy+kJob0Qq0vOX7fTSggqr4voPtkfz1GobQwi3JeJuD+sRwou1K1R8kCcVvDrg/NjDOiY/WkRbWdxzdcg2Yaw==;Kihj5vl3tgLxROrxPtpYdQ=="
 ---

@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artists Can Now Sabotage AI Image Generators to Fight Art Theft"
-    excerpt: "It’s the newest—and potentially most powerful—tool to stop developers from using creatives’ work without their permission to train their models."
-    publishedDateTime: 2023-10-24T18:24:00Z
-    webUrl: "https://www.thedailybeast.com/artists-can-now-sabotage-ai-image-generators-to-fight-art-theft"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 17
 
 secured: "Z1b+UOnS5ZYppyCd3svriJr4Ppx08+cLt5VZ5bQYWMaB1n7jeUA25AqEASnhy5xDSOuSWiF1qDpgNaqSjQJdnp48WqrI89LfD74/4gYT5RQ4va9W1ogFe8y2+ASpkLncNOzfirbkIc1+sc26Z+Iwu4gfRSq+ocEqX0fEhMWdUaVIQC2EW4OpwXI/pJxvawpllBlSH0jkkFIyRMhdBzx2LQEP0WZWKxXBaDeJm2J2nkGl+AZZlr93Vou5F0+wGos9w4laavpSeM3USmzZvvF2pknkuCihvIt93PAb6CpnxAOPJ2AWB2XxDawBkc/xndpVcSx7FFbbmG/GycquOQLZApCBRiHQc+6idZrDNNYuY3s=;Xd2LPiEBgQ2Kd1bD6VVjig=="
 ---
