@@ -204,20 +204,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "As Databricks touts demand for AI services, all eyes are on Microsoft and Alphabet’s Q3 results"
-    excerpt: "We can't wait to find out if these companies will report a material improvement from their investments in AI-related computing tasks and products."
-    publishedDateTime: 2023-10-24T15:34:00Z
-    webUrl: "https://techcrunch.com/2023/10/24/microsoft-alphabet-q3-results-expectations/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-BLU.jpg?w=1024"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Microsoft shares climb after reporting surge in cloud, artificial intelligence"
     excerpt: "Microsoft on Tuesday reported a 27% increase in profit for the July-September quarter compared to the same time last year, powered by growth in its cloud computing division where it has centered its investments in artificial intelligence."
     publishedDateTime: 2023-10-25T10:59:00Z

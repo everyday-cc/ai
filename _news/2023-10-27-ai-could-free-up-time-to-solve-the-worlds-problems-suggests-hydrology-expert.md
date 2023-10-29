@@ -46,7 +46,7 @@ related:
   - title: "Pigeons problem-solve similarly to artificial intelligence, research shows"
     excerpt: "The intelligent birds, thought to be a nuisance by some, learn from consequences and can recognize resemblance between objects"
     publishedDateTime: 2023-10-26T15:06:00Z
-    webUrl: "https://www.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning?utm_ters=653b50b7c323bf2316dc569e1b57562b&utm_meprice_medium"
+    webUrl: "https://www.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning?ref=astrofeather.com"
     ampWebUrl: "https://amp.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning"
     type: article

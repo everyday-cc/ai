@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/sanctuary-ai-named
 webUrl: "https://markets.businessinsider.com/news/stocks/sanctuary-ai-named-on-time-s-best-inventions-of-2023-list-1032734498"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 Best AI Video Generators 2023"
-    excerpt: "or $23 billed monthly Synthesia is a leading generative AI startup that helps users transform text scripts and instructions into videos. The solution is particularly well-known for its AI avatars: Users can choose between more than 140 AI avatars — or ..."
-    publishedDateTime: 2023-10-24T16:37:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/best-ai-video-generators/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/10/ew_20231018-best-ai-video-generators.png"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "Stable Audio AI music creator makes TIME Best Inventions of 2023 list"
     excerpt: "Stable Audio, a product of Stability AI’s generative audio research lab, Harmonai, leverages this technology to generate high-quality, 44.1 kHz music for commercial use. The model is conditioned on text metadata, audio file duration, and start time ..."
     publishedDateTime: 2023-10-25T08:11:00Z

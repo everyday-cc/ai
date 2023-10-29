@@ -67,20 +67,6 @@ related:
         width: 400
         height: 391
         isCached: true
-  - title: "The Rise of AI | Jury still out on new tech's use in mental health care, experts say"
-    excerpt: "Although several uses of artificial intelligence in mental health are showing some success, experts say the jury is still out on its capabilities for more extensive use."
-    publishedDateTime: 2023-10-28T02:00:00Z
-    webUrl: "https://www.tribdem.com/news/the-rise-of-ai-jury-still-out-on-new-techs-use-in-mental-health-care/article_6e7d3b4e-72af-11ee-aecf-cf45057a2028.html"
-    type: article
-    provider:
-      name: The Tribune-Democrat
-      domain: tribdem.com
-    quality: 32
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tribdem.com/content/tncms/assets/v3/editorial/3/ef/3ef9b3ce-74ea-11ee-9d61-73086af6427a/653bf8160c99a.image.png?resize=640%2C360"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "Z+DRM7gs+1bxUH/GwmZRjcdOEBMiqDOB1py2mDovVf9M2z5I3yo5BgcEfrbDALjWvk0gePeNUVHcidZ9+XatHsjrFvl1HQzh4YpLWQGW+pC4b6Yrjo80v7tJn7lrfRkxSweLG+p3yJBQ86TCcrlFUIHsGNYfh8YwphyBfLGbBZU/BYopkVwFsoLoRYR3I5xk4ywDBrQF+JEQ8XhJ1oHu5qTbxua53caVFAIAD4T4D58ydC12UlzOhW81U1EH3dJv45+hvedMi+R6OjmPTAbRb4B1KrIftdcLunslnAc82+CWkdYEyHSnjfsP9CFEfDAENu9k9+zXrGLovagyEneiFoZrGoNeuIqr/wNumbA3HSvo69tf9ror9vtVOIm3JT29a6vQISndkaVNV9RcyZkVjXEB5NfeL611zxmGk90eriIvSJA1Yhix2rcayhbnY8/4KFyvftxTnRhkXiqwF7TVPjcqBCLJD4hFEgSSWOae1aRps43OFcoeSWsveYgUAH5Y03L+jPskUwJAFTy39PH02A==;1kTbWe3HRi6yD/ArnRskPg=="
 ---

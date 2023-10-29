@@ -57,27 +57,13 @@ related:
         isCached: true
   - title: "UK regulators report back on AI and Machine Learning consultation"
     excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
-    publishedDateTime: 2023-10-26T00:00:00Z
-    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
+    publishedDateTime: 2023-10-26T12:24:00Z
+    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
     type: article
     provider:
       name: Asset Servicing Times
       domain: assetservicingtimes.com
     quality: 36
-  - title: "Apple May Spend Over $5 Billion By 2024 On Servers In Major Generative AI Push"
-    excerpt: "Ming-Chi Kuo expects Apple to spend 'at least' $620 million on servers in 2023 and an estimated $4.75 billion on servers in 2024."
-    publishedDateTime: 2023-10-24T15:33:00Z
-    webUrl: "https://hothardware.com/news/apple-to-spend-over-5-billion-on-servers"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 35
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62888/content/hero-apple-tim-cook.jpg"
-        width: 708
-        height: 398
-        isCached: true
 
 secured: "4/W+jwNnkixiBUK7XhBu8yxuHONuLdIgk6AXPH/7E+xTgGY8CgdUl6OsXlXSg2a4ayTpGvvJkZEHygOwrebBfSHHVUi20KoR9KlV90LJ6qO2Sw0ouhKbag/d++ma14LYuSlRuKaq2dbkDdwjBchuMjU+nA1zOQPJZO2W3srrUalEcbCv/pfpopxQifELCeFn9VspsZcKlzvBHtbashwnmgVUv9BHAaFSVv2aWomz76vnKBrdRncI/sKQJWv6T5yKkA1JehhA8g8PqKnDI/vlVNuFMkDtI2TAPTo6tEf3CdfqALzfGD9NTW261M8/MB2nRWLQak3T1dNfUQmLWYRAt7TEOo9yaGiDIEy6unN7GCknAwd0qyjBjeG5h3+HBZgpsCczCfC9g/zPn/oeLtLhf2lZ47dpg2M5vyZZvQHJqzUsTypIT902Qe3inNwcmd+xZo9NDICWd5Hd6Hjq6YyfKx+/cnVv/a7GcrId5mOggypH8Mz6+1u6kXgLfGOEFeOyOeiI3dwkSYjeAVW4+DZiHA==;pja1CMMSQqtfTvzgO35hMw=="
 ---

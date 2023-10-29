@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/"
 type: article
 quality: 119
-heat: 289
+heat: 279
 published: true
 
 provider:
@@ -124,22 +124,6 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2023/10/26/1600x900/EU-ALPHABET-BARD-0_1689231827645_1698316716775.JPG"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Nvidia Says US Advanced Timeline for Export Curbs of AI Chips to China, Other Countries"
-    excerpt: "Chip designer Nvidia said new US export curbs that block the sale of its high-end artificial intelligence chips to China came into effect on Monday as regulators advanced the timeline."
-    publishedDateTime: 2023-10-24T16:55:00Z
-    webUrl: "https://www.gadgets360.com/laptops/news/nvidia-says-us-advanced-timeline-for-export-curbs-of-ai-chips-to-china-iran-russia-4510576"
-    ampWebUrl: "https://www.gadgets360.com/laptops/news/nvidia-says-us-advanced-timeline-for-export-curbs-of-ai-chips-to-china-iran-russia-4510576/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/laptops/news/nvidia-says-us-advanced-timeline-for-export-curbs-of-ai-chips-to-china-iran-russia-4510576/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 66
-    images:
-      - url: "https://i.gadgets360cdn.com/large/nvidia_reuters_1682491698706.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Why Nvidia Is Still the AI Chip Champ Despite U.S.-China Tiff"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) has been a darling of the stock market throughout"

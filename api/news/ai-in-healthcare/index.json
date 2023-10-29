@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-10-28-ai-for-health-institute-emerges-to-foster-the-expanding-intersection-of-artificial-intelligence-and-healthcare.md",
-      "title": "AI for Health Institute Emerges to Foster the Expanding Intersection of Artificial Intelligence and Healthcare",
-      "excerpt": "Advanced artificial intelligence (AI) tools and techniques allow researchers to use the vast amounts of data now available from electronic health records and wearables to help solve complex health problems and improve population health.",
+      "path": "_news/2023-10-29-ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns.md",
+      "title": "AI in Healthcare: WHO's Call for Regulation Underscores Risk Concerns",
+      "excerpt": "The WHO has introduced six domains for overseeing AI in the healthcare sector, emphasizing the need to address the risks linked to AI.",
       "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/ai-for-health-institute-emerges-to-foster-the-expanding-intersection-of-artificial-intelligence-and-healthcare/",
-      "originalUrl": "https://indiaeducationdiary.in/ai-for-health-institute-emerges-to-foster-the-expanding-intersection-of-artificial-intelligence-and-healthcare/",
+      "webUrl": "https://www.medindia.net/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
+      "originalUrl": "https://www.medindia.net/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/05/Washington-University-in-St.Louis_.jpg",
-          "width": 910,
-          "height": 560,
+          "url": "https://www.medindia.net/health-images/infertile-men-faster-accurately-than-doctors.jpg",
+          "width": 300,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/ai-for-health-institute-emerges-to-foster-the-expanding-intersection-of-artificial-intelligence-and-healthcare/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ai-for-health-institute-emerges-to-foster-the-expanding-intersection-of-artificial-intelligence-and-healthcare/",
-      "publishedDateTime": "2023-10-27T14:38:00-07:00",
+      "ampWebUrl": "https://www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
+      "publishedDateTime": "2023-10-29T02:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
+        "name": "Medindia",
+        "domain": "medindia.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -97,6 +97,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-27-the-blind-use-of-ai-in-health-care-can-lead-to-invisible-discrimination.md",
+      "title": "The blind use of AI in health care can lead to invisible discrimination",
+      "excerpt": "Artificial intelligence can help health care systems under pressure allocate limited resources, but also lead to more unequal access. This is demonstrated by a research collaboration between the University of Copenhagen,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/ai.jpg",
+          "width": 1920,
+          "height": 1636,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.amp",
+      "publishedDateTime": "2023-10-26T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-south-korea-artificial-intelligence-ai-in-healthcare-market-worth-236-billion-by-2032-themarketpublicist.md",
       "title": "South Korea Artificial Intelligence (AI) In Healthcare Market Worth $2.36 Billion By 2032 Themarketpublicist",
       "excerpt": "( MENAFN - Ameliorate Digital Consultancy) South Korea Artificial Intelligence (AI) in Healthcare Market size was crossed over USD 100 Million in 2022 and is projected to record more than 37.2% growth rate from 2023 – 2032, reaching a valuation of approximately USD 2.36 Billion by the end of the forecast period.",
@@ -137,50 +180,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-fpt-announces-strategic-partnership-with-landing-ai-advancing-artificial-intelligence-development-and-education.md",
-      "title": "FPT Announces Strategic Partnership with Landing AI, Advancing Artificial Intelligence Development and Education",
-      "excerpt": "FPT Announces Strategic Partnership with Landing AI Advancing Artificial Intelligence Development and Education",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswireindia.com/fpt-announces-strategic-partnership-with-landing-ai-advancing-artificial-intelligence-development-and-education-87135.html",
-      "originalUrl": "https://www.businesswireindia.com/fpt-announces-strategic-partnership-with-landing-ai-advancing-artificial-intelligence-development-and-education-87135.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_87135.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T22:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswireindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Education"
       ]
     },
     {

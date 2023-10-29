@@ -1,28 +1,22 @@
 ---
 category: news
 title: "MediaGo Empowers Advertisers with Enhanced Smartbid Capabilities to Maximize ROI"
-excerpt: "MediaGo, a deep learning-based intelligent advertising platform under the Baidu Global Business Unit, today announced it has upgraded its Smartbid capabilities, which ultimately boost conversion rates (CVR) and significantly reduce cost per action (CPA),"
-publishedDateTime: 2023-10-27T08:00:00Z
-originalUrl: "https://www.asiaone.com/business/mediago-empowers-advertisers-enhanced-smartbid-capabilities-maximize-roi"
-webUrl: "https://www.asiaone.com/business/mediago-empowers-advertisers-enhanced-smartbid-capabilities-maximize-roi"
+excerpt: "Leveraging deep learning technology, MediaGo's new Smartbid feature creates tangible value for performance advertisers by effectively managing the bidding process. The Smartbid model, built on a deep neural network with over 1 billion parameters, enables significant improvements in ad performance for advertisers at all scales."
+publishedDateTime: 2023-10-27T09:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-maximize-/2023/10/27/9906693.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-maximize-/2023/10/27/9906693.htm"
 type: article
-quality: 19
-heat: 19
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2023/pr-newswire_500_4_1685.jpg?h=7de12b8a&itok=KxwGYRxm"
-    width: 600
-    height: 316
-    isCached: true
 
 related:
   - title: "Baidu Global: MediaGo Empowers Advertisers with Enhanced Smartbid Capabilities to Maximize ROI"
@@ -35,6 +29,6 @@ related:
       domain: finanznachrichten.de
     quality: 7
 
-secured: "HDxRPZvY19wI0IoemS5ISZmkrMy2MC+Oz1ie0WqZy5zje4rNbGBimMNVgGu0miGdq1w4jn1AQdHn5SbuKsyaFOmkNV+MUgOzD5Q71SOzNv31huZ8IdhBcoLOVF/Oexm1iTGwgmuoHRu0tiMqQbMojodM2/iRuG3uSvAO382hKZDPhQATttq/ahx0tY2uuHg5dRyJjHGgEQ/n1YfjsZz/jxwpP5F7RUk/gw0DQtV6hgf2vBELz4mHIuG1Cthr0az+P6yQS+tPxctKu+46IgNnNXFa8VsqghoyjY/iNK8jEuS/jHAqMxGoWNgRly2MTy2xB9DHD7Dm7WUK5Ve9Gf7rO+NZxHJDcUvYeX+NBX09Rxg=;/YOURScZilJTQX0F5J2pBw=="
+secured: "xjmY7fZ5t4NnD0F8DNFejGaHLAHedTTXx92S3HfDLlLpGn5YoNsjKQ2R/czBYcccgq9D+/JqiNT/YxYI0F4X6Z9TgfrEvo9BRn7zQ4l/BzFKzhLHWVJw/7oG8+Sp/hcjqVjqlffxUmiu3zNEVOYGgb3iXzuVGtyyrG9QBKgYMY7zx1V5v34MOJm7MNoY97JlUgh+WTXQvVENJQ1NGB+ANgZf2CL3WyYtsr8E+lH2Y8Uz5NdIjZBeZ+liluORwZ6pZhjJ+wlhrQ6DiKDnuNpCcbc6FWrCczqFH5Ua1k1ipj233nKacHAK5MKUgm8/9lPrAnh6onAag0d2ErjR8YZdus92g4vK5XSmESnQ68/K00Y=;1WyKt811arf/hOxz7JMtaA=="
 ---
 

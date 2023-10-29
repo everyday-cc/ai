@@ -72,20 +72,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "The Fate or Wealth of Nations: AI, Robotics and Automation"
-    excerpt: "What contributes to the wealth of a nation? Gross national income (GNI) and gross domestic product (GDP) are two well-known measures of a country’s economic growth. One measures the earnings of a country,"
-    publishedDateTime: 2023-10-24T16:34:00Z
-    webUrl: "https://mises.org/wire/fate-or-wealth-nations-ai-robotics-and-automation"
-    type: article
-    provider:
-      name: Mises Institute
-      domain: mises.org
-    quality: 69
-    images:
-      - url: "https://cdn.mises.org/styles/social_media_1200_x_1200/s3/machine-fb.jpg?itok=2_G0__k7"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Artificial Intelligence and the Role of Appellate Counsel"
     excerpt: "This perspective is based on a query the author gave to his Appellate Advocacy class concerning artificial intelligence and the role of appellate counsel, especially for indigent defendants."
     publishedDateTime: 2023-10-26T14:07:00Z

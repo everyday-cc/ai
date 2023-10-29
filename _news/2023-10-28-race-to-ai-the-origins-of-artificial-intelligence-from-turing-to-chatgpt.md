@@ -3,12 +3,12 @@ category: news
 title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
 excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
 publishedDateTime: 2023-10-28T12:47:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
-webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+originalUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?ref=futurepedia"
+webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?ref=futurepedia"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 type: article
-quality: 70
+quality: 72
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -88,6 +89,6 @@ related:
       domain: inc.com
     quality: 15
 
-secured: "VdMIDw5xWr2mhOQQdxmxODZUfrJmnUHN3bFDqGnjIMv9PGBpnfRDN2dMj2m9AUwFkWL9A+xtR7PAhGOHXUVYDjn/u954IQx15iayehMO0vRrt1Q5Hqx+imRn8caX4BeGs/BJAAh33S/8EN3K7g5QzU1cVABQ5svqwt1sqy/Yh1ve8D98eddQLuDPr8CUVTtkAWp3SSsCeA92rXJg5q9KocQJpRdrvZXCsAkz/Co6DMZ32+c9gytxT9hfxI+4LR9vHCiZpEC/VGjCwrCLiZIJ5DavIOz3aseC+1yIfUTSkjJl29aD5W31B/+qQASF2HnqTQFQCWaAQXtzw2CbxA2B/BjWVjwQuggCFJWgmvteQ0M=;RUaT1AnTGPPstWdPTrCurQ=="
+secured: "s8mQ9VTQsSCKciQ6GZjVTBv/SqHTxXoeVGtkXOfTnLzkm2iRfCFhIGNbuK+PoNhnPFQT3d07W954kBE8pglggR/2vE9LqGDIWbmept3Wz7mgHnFqKXz7Y98hcuNaiU7rgua3HcpYBVfDBPhhMvoLP6NTYYSnoLp+MP35mBa4x23fL0RwXHud9sYA9JveNohvtMX2Qe4T2tfPsPJQYae1v8xwFxUUwRkF+6yrolG2U5AXMojVu/bpd/M/rs/pr+seEK4y76JLBhIyrYTSfUoS+ZQRtmvxigyFK2mx72rnhyxW22YfIWN3cZPWwfV8vZJzur70ZxDC9Di0QV2C/T5kEavYwILIE+YVItYAzayadfU=;8gKUEAogWy8eQ55K5golPw=="
 ---
 

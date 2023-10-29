@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/elevate-your-marketi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/elevate-your-marketing-solutions-with-amazon-personalize-and-generative-ai/"
 type: article
 quality: 119
-heat: 419
+heat: 409
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6538066a9563650cb3228f03/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1402
-        height: 900
-        isCached: true
-  - title: "Elastic Is Carving Out A Niche In Generative AI With Vector Search"
-    excerpt: "Customers are deploying Elasticsearch Relevance Engine as their platform for building generative AI applications using vector search and hybrid search capabilities."
-    publishedDateTime: 2023-10-24T16:25:00Z
-    webUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/10/24/elastic-is-carving-out-a-niche-in-generative-ai-with-vector-search/"
-    ampWebUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/10/24/elastic-is-carving-out-a-niche-in-generative-ai-with-vector-search/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/10/24/elastic-is-carving-out-a-niche-in-generative-ai-with-vector-search/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6537e25d5f72f6b95a4d46a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1200
         height: 900
         isCached: true
   - title: "What CIOs and CTOs should consider before adopting generative AI for application modernization"

@@ -23,17 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Meta sued by 41 US states claiming Instagram and Facebook leaves children 'suffering'"
-    excerpt: "Dozens of states are suing Meta Platforms Inc. for harming young people's mental health and knowingly designing addictive features on its platforms."
-    publishedDateTime: 2023-10-24T16:20:00Z
-    webUrl: "https://www.express.co.uk/news/us/1827598/meta-sued-states-instagram-facebook-addictive-kids"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 12
-
 secured: "/aqJX5Rao/rnNDpULqNY2/jVtNoaQ5VZ432QwTC1tlhGp0ECCqYHPqiTwhnzOe2NFUlxi1bGY+VSDAFdJvXmL5OzAdWNsah9NYpNUsOCa5La/ana0QPhrqQL27Di+KXenig2Q2j7phkc4YoJR7OsDUr6Ob206G4My+0h1s7M5zfR9w8wHlnx0DdiIYUsBg7iK/308ZmbwQan8NWlO7eE8pLPnwN8dJ8mt1CLoIAuFZz0lOdGynE7pIbtjhysMTwuvanVZ49dqnBJoeozD0bTqm+/wrb09/GhjJPrbwuFmQN+cos4/L2J2cxI7AcC2GkVnWU1es7N8g8m5d9NvhxSlLcr6kAGrFJrkfK44fasDX0gqH8xga8K+uXE++CDAS4lhxhH+mVUiYwPPi0ymFPssl8usKzcKMXWItj24CCMsWjtrmi+HrW+bSZUaAZni8UDHZ2/uwOS+dKEiK/EkXghsCobIeY48CYTKA6mjLd7Ndks6cAM1lbCkKw7cVTyAiNb26qVZW606LIQLRbgi8S0Ow==;giYkahRat02ljAxiNTHi8g=="
 ---
 

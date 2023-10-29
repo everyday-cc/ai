@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "indie Semiconductor Launches Breakthrough Computer Vision Processor"
-    excerpt: "The SoC provides computer vision processing that can run a range of algorithms, enabling ADAS functions including pedestrian detection, object detection, blind spot detection, cross traffic alerts ..."
-    publishedDateTime: 2023-10-24T16:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231024598737/en/indie-Semiconductor-Launches-Breakthrough-Computer-Vision-Processor"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
   - title: "Indie Semiconductor computer vision processor boosts automotive ADAS"
     excerpt: "Indie Semiconductor has expanded its automotive camera video processor portfolio with the commercial release of iND87540, a highly integrated system-on-chip (SoC) that enables improved viewing and sensing capability."
     publishedDateTime: 2023-10-28T05:25:00Z

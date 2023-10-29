@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2399095-using-ai-and-satellit
 webUrl: "https://www.newscientist.com/article/2399095-using-ai-and-satellites-to-measure-carbon/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Acting on our commitment to safe and secure AI"
-    excerpt: "News on our bug bounty program specific to generative AI and how we’re supporting open source security for AI supply chains"
-    publishedDateTime: 2023-10-26T12:00:00Z
-    webUrl: "https://blog.google/technology/safety-security/google-ai-security-expansion/"
+  - title: "More teachers turn to artificial intelligence"
+    excerpt: "For as long as Jake Price has been a teacher, Wolfram Alpha — a website that solves algebraic problems online — has threatened to make algebra homework obsolete."
+    publishedDateTime: 2023-10-27T07:46:00Z
+    webUrl: "https://madison.com/more-teachers-turn-to-artificial-intelligence/article_bd01072d-f7f8-59a3-b1a5-ff4b79ecf3de.html"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 69
+      name: Madison.com
+      domain: madison.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/6/ae/6ae3d29a-82a4-502c-8de3-cc707e14bbd3/653b6abda300f.image.jpg?crop=1000%2C525%2C0%2C76&resize=1000%2C525&order=crop%2Cresize"
+        width: 1000
+        height: 525
+        isCached: true
 
 secured: "4i4ABB833TaVJb7y/YeWQRLyE7VBkgxPCPyy3N/cXhwAgccSSWWc3J9yFWY2t+auHyGZbfhu8fRojhS9bL1KiychBCLIXnj3LIwRzRZLkGXvi+gASZq74zBuM/DyLDQsRq9549OqMfp51fCxbRccvDEJ69cifI6jiM4AMCd1CRzDjsEcmQ6ZWBx0MJG6jfA2c9PVCQKy/+KTx0r6YrJNqkeNmPKPY7Es40q/U5OexJZIEtvYYnRZwPyjsUCndrv2rWgoP8xuejcU2/Pvqnqj9hlDUcuBzA5sOcTJ9gajbsCmAGnBWh5IrtoI+gXwt1ck1CBa5vJjHXItpSnRClYpaqvOcGZqeBxEGKLE/qsCd9FPn1bxDaQFiOaDt/765AzacRxoQx+wMY+rUkGGgaFlct5o4/oLVM7lCgt0QFV9Swm29JXUOCy0X1byuRv2WLlWMlxlHUdC8ibciUQtYVSmcE1TQj6niMj4187qMqWGZFhk1S4lWYwYpQUSyt8UHvk8c7yyG4bfWK+szl9OrMXimA==;Of/siSGM3WIGurA/sIVVyQ=="
 ---

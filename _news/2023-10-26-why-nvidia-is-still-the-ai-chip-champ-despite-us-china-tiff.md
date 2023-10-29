@@ -133,22 +133,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Nvidia Says US Advanced Timeline for Export Curbs of AI Chips to China, Other Countries"
-    excerpt: "Chip designer Nvidia said new US export curbs that block the sale of its high-end artificial intelligence chips to China came into effect on Monday as regulators advanced the timeline."
-    publishedDateTime: 2023-10-24T16:55:00Z
-    webUrl: "https://www.gadgets360.com/laptops/news/nvidia-says-us-advanced-timeline-for-export-curbs-of-ai-chips-to-china-iran-russia-4510576"
-    ampWebUrl: "https://www.gadgets360.com/laptops/news/nvidia-says-us-advanced-timeline-for-export-curbs-of-ai-chips-to-china-iran-russia-4510576/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/laptops/news/nvidia-says-us-advanced-timeline-for-export-curbs-of-ai-chips-to-china-iran-russia-4510576/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 66
-    images:
-      - url: "https://i.gadgets360cdn.com/large/nvidia_reuters_1682491698706.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "US Government Orders Immediate Stop to Chinese AI Chip Exports"
     excerpt: "Tech giant Nvidia has announced that President Biden’s administration has ordered it to stop shipping advanced AI chips to China immediately. These restrictions were always in the works and due to start next month. However, for an as-of-yet unknown reason, this date has been brought forward to today."
     publishedDateTime: 2023-10-25T17:00:00Z

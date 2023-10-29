@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-c
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers show ChatGPT, other AI tools can be manipulated to produce malicious code"
-    excerpt: "Artificial intelligence (AI) tools such as ChatGPT can be tricked into producing malicious code, which could be used to launch cyber attacks, according to research from the University of Sheffield."
-    publishedDateTime: 2023-10-24T17:02:00Z
-    webUrl: "https://techxplore.com/news/2023-10-chatgpt-ai-tools-malicious-code.html"
-    ampWebUrl: "https://techxplore.com/news/2023-10-chatgpt-ai-tools-malicious-code.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-chatgpt-ai-tools-malicious-code.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 32
   - title: "What’s Up with ChatGPT Enterprise"
     excerpt: "Just a year post-launch of ChatGPT, Salesforce, Morgan Stanley, and Wix, who were its early customers, have decided to explore other options."
     publishedDateTime: 2023-10-25T08:13:00Z

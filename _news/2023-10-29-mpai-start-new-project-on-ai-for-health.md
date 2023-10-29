@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107323535/MPAI-Start-New-Project-On-AI-For-Hea
 webUrl: "https://menafn.com/1107323535/MPAI-Start-New-Project-On-AI-For-Health"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,70 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI for Health Institute Emerges to Foster the Expanding Intersection of Artificial Intelligence and Healthcare"
-    excerpt: "Advanced artificial intelligence (AI) tools and techniques allow researchers to use the vast amounts of data now available from electronic health records and wearables to help solve complex health problems and improve population health."
-    publishedDateTime: 2023-10-27T21:38:00Z
-    webUrl: "https://indiaeducationdiary.in/ai-for-health-institute-emerges-to-foster-the-expanding-intersection-of-artificial-intelligence-and-healthcare/"
-    ampWebUrl: "https://indiaeducationdiary.in/ai-for-health-institute-emerges-to-foster-the-expanding-intersection-of-artificial-intelligence-and-healthcare/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ai-for-health-institute-emerges-to-foster-the-expanding-intersection-of-artificial-intelligence-and-healthcare/"
+  - title: "Can Artificial Intelligence Coach You to Better Health?"
+    excerpt: "Now, artificial intelligence is showing up in those devices—whether that’s a feature or a bug depends on who you ask. Whoop’s new feature, Whoop Coach, is powered by OpenAI’s GPT-4 model. This coach,"
+    publishedDateTime: 2023-10-25T13:00:00Z
+    webUrl: "https://www.gq.com/story/artificial-intelligence-coach"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 69
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/05/Washington-University-in-St.Louis_.jpg"
-        width: 910
-        height: 560
-        isCached: true
-  - title: "The blind use of AI in health care can lead to invisible discrimination"
-    excerpt: "Artificial intelligence can help health care systems under pressure allocate limited resources, but also lead to more unequal access. This is demonstrated by a research collaboration between the University of Copenhagen,"
-    publishedDateTime: 2023-10-26T20:54:00Z
-    webUrl: "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/ai.jpg"
-        width: 1920
-        height: 1636
-        isCached: true
-  - title: "Feds Warn Healthcare Sector of AI-Augmented Phishing Threats"
-    excerpt: "Hospitals, clinics and doctor practices have long fallen victim to cyberattacks and breaches kicked off with phishing emails. But with the advent of AI-augmented"
-    publishedDateTime: 2023-10-27T21:41:00Z
-    webUrl: "https://www.inforisktoday.com/feds-warn-healthcare-sector-ai-augmented-phishing-threats-a-23419"
-    type: article
-    provider:
-      name: Info Risk Today
-      domain: inforisktoday.com
-    quality: 54
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/ai-augmented-phishing-alert-showcase_image-4-a-23419.jpg"
-        width: 860
-        height: 520
-        isCached: true
-  - title: "AI Advertising Announces Publication of “AI for Advertising Blueprint” White Paper with the Marketing Artificial Intelligence Institute"
-    excerpt: "AI Advertising Announces Publication of “AI for Advertising Blueprint” White Paper with the Marketing Artificial Intelligence Institute"
-    publishedDateTime: 2023-10-27T16:31:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231027316417/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
-  - title: "The Opportunities at the Intersection of AI, Sustainability, and Project Management"
-    excerpt: "There are unprecedented opportunities at the intersection of AI, project management, and sustainability. Unfortunately, without proper execution, projects to implement AI come with complexities, costs and a carbon footprint that undermine sustainability goals."
-    publishedDateTime: 2023-10-27T12:16:00Z
-    webUrl: "https://hbr.org/2023/10/the-opportunities-at-the-intersection-of-ai-sustainability-and-project-management"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 11
+      name: GQ
+      domain: gq.com
+    quality: 19
 
 secured: "eoK/LtxhPI80vNgGyDp1b9n/U/6FEznmwokfsMQ7wZbHLNO/rikuEyRE8LnOUFhIuN/SV/dmcMQav9itgfqo3sYKyPTI4WuehinGR5+rQrUwzAJKs1znRGZS3qkOslfgAJIOxEnAoUkQQoOYEnn9nvzgm6k0kF3enAJTuzFwuy3/ioYZBq61khUfWwC9DDBk5jgBqACj3KAHAhwtNvuqgs//kxIX1jNQPszdSB6ELNJyGDQuMXfscC/ln/jk88dhKwv1tlQjfUz9y6o9iDFTZDlNfETPNzj20bd1ktCjJXcujeiNhzkm5H6iV2ktR3LJUvM/ggoqDUDaTE3aE9Kba5avBugjiCVEHXHDp5em28c=;Ti/E7cfrQenZQraX7D8UTg=="
 ---

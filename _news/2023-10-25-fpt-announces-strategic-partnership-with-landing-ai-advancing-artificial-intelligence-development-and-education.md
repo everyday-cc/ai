@@ -7,8 +7,8 @@ originalUrl: "https://www.businesswireindia.com/fpt-announces-strategic-partners
 webUrl: "https://www.businesswireindia.com/fpt-announces-strategic-partnership-with-landing-ai-advancing-artificial-intelligence-development-and-education-87135.html"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Business Wire
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepBrain AI Announces Strategic Collaboration Agreement With AWS"
-    excerpt: "DeepBrain AI , a leading provider of generative artificial intelligence (AI) video synthesis and virtual human technology, announced today the signing of a multi-year Strategic Collaboration Agreement"
-    publishedDateTime: 2023-10-24T15:38:00Z
-    webUrl: "https://www.cmswire.com/the-wire/deepbrain-ai-announces-strategic-collaboration-agreement-with-aws/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 34
   - title: "Viettel announces successful development of 5G Chips and AI Assistant at VIIE 2023"
     excerpt: "PANO - On October 27, the Military Industry and Telecoms Group (Viettel), announced that they have successfully developed 5G chips and an artificial intelligence (AI) assistant, emphasizing the message \"Technology with heart\" at the ongoing Vietnam International Innovation Expo 2023 (VIIE 2023)."
     publishedDateTime: 2023-10-28T15:12:00Z

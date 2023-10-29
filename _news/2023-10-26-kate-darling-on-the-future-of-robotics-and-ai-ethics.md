@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/kate-darling-on-the-future-of-robot
 webUrl: "https://www.therobotreport.com/kate-darling-on-the-future-of-robotics-and-ai-ethics/"
 type: article
 quality: 116
-heat: 216
+heat: 206
 published: true
 
 provider:
@@ -64,20 +64,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/10/3d-ics-in-emerging-technologies-consumer-electronics-ml-ai-featured-1280x720-1-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "The Fate or Wealth of Nations: AI, Robotics and Automation"
-    excerpt: "What contributes to the wealth of a nation? Gross national income (GNI) and gross domestic product (GDP) are two well-known measures of a country’s economic growth. One measures the earnings of a country,"
-    publishedDateTime: 2023-10-24T16:34:00Z
-    webUrl: "https://mises.org/wire/fate-or-wealth-nations-ai-robotics-and-automation"
-    type: article
-    provider:
-      name: Mises Institute
-      domain: mises.org
-    quality: 69
-    images:
-      - url: "https://cdn.mises.org/styles/social_media_1200_x_1200/s3/machine-fb.jpg?itok=2_G0__k7"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Robotics and artificial intelligence to transform O&M tasks in the energy sector"
     excerpt: "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news"

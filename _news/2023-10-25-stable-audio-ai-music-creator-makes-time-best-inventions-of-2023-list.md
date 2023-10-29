@@ -39,20 +39,6 @@ related:
         width: 266
         height: 400
         isCached: true
-  - title: "5 Best AI Video Generators 2023"
-    excerpt: "or $23 billed monthly Synthesia is a leading generative AI startup that helps users transform text scripts and instructions into videos. The solution is particularly well-known for its AI avatars: Users can choose between more than 140 AI avatars — or ..."
-    publishedDateTime: 2023-10-24T16:37:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/best-ai-video-generators/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/10/ew_20231018-best-ai-video-generators.png"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "DBusiness Daily Update: Sharrow Propeller Named to Time’s Best Inventions of 2023 List, and More"
     excerpt: "Our roundup of the latest news from metro Detroit and Michigan businesses as well as announcements from government agencies."
     publishedDateTime: 2023-10-26T14:53:00Z

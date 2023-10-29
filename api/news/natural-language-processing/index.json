@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-10-25-can-ai-grasp-related-concepts-after-learning-only-one.md",
-      "title": "Can AI grasp related concepts after learning only one?",
-      "excerpt": "Humans have the ability to learn a new concept and then immediately use it to understand related uses of that concept—once children know how to \"skip,\" they understand what it means to \"skip twice around the room\" or \"skip with your hands up.",
+      "path": "_news/2023-10-28-geely-and-baidu-officially-launch-jiyue-01-robocar-with-ai-and-voice-activated-parking.md",
+      "title": "Geely and Baidu officially launch JiYue 01 ROBOCAR with AI and voice-activated parking",
+      "excerpt": "Just over two months after announcing a restructuring of its business partnership to bring its AI-powered 01 ROBOCAR to",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-10-ai-grasp-concepts.html",
-      "originalUrl": "https://techxplore.com/news/2023-10-ai-grasp-concepts.html",
+      "webUrl": "https://electrek.co/2023/10/27/geely-baidu-launch-jiyue-01-robocar-ai-voice-activated-parking-ev-china/",
+      "originalUrl": "https://electrek.co/2023/10/27/geely-baidu-launch-jiyue-01-robocar-ai-voice-activated-parking-ev-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/can-ai-grasp-related-c.jpg",
-          "width": 2310,
-          "height": 1371,
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/10/01-ROBOCAR-debut.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-10-ai-grasp-concepts.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-ai-grasp-concepts.amp",
-      "publishedDateTime": "2023-10-25T07:59:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T13:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,9 +49,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -160,7 +168,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/sanctuary-ai-named-on-time-s-best-inventions-of-2023-list-1032734498",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {

@@ -2,9 +2,9 @@
 category: news
 title: "UK regulators report back on AI and Machine Learning consultation"
 excerpt: "the UK supervisory authorities — including the Prudential Regulatory Authority and the Financial Conduct Authority — published a discussion paper at this time, entitled Artificial Intelligence and Machine Learning (DP 5/22), which aims to further their ..."
-publishedDateTime: 2023-10-26T00:00:00Z
-originalUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
-webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=home&page&page=1&newssection=Regulation"
+publishedDateTime: 2023-10-26T12:24:00Z
+originalUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
+webUrl: "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=14972&navigationaction=latestnews&page=1&newssection=Regulation"
 type: article
 quality: 36
 heat: -1
@@ -64,21 +64,7 @@ related:
         width: 460
         height: 441
         isCached: true
-  - title: "Apple May Spend Over $5 Billion By 2024 On Servers In Major Generative AI Push"
-    excerpt: "Ming-Chi Kuo expects Apple to spend 'at least' $620 million on servers in 2023 and an estimated $4.75 billion on servers in 2024."
-    publishedDateTime: 2023-10-24T15:33:00Z
-    webUrl: "https://hothardware.com/news/apple-to-spend-over-5-billion-on-servers"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 35
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62888/content/hero-apple-tim-cook.jpg"
-        width: 708
-        height: 398
-        isCached: true
 
-secured: "3E6ZymCvwTXjNOzPbyZfus2LzJZUuiwH/EYd0irrJVPDZMX1OoI651Lj/I2kMpDa6R4UuzQAwmsAPh0EgV39H4u3ZuFDJeKsr7ApJoPr4pUj1iko7D4BbET5sjKa8Lnf96XNIij9R73z2+OQzcycUHK0ZgoQc8SvVEJ9gkK4hdmsWLNPL8xAP0PgEu0wO6vzy6rseRK1yy1JV/xwWzsRfnuckVhZEp6Ht8qSXZa8NXoVnVdCvKCtFx2LCSKlhMe8bwE/rgOt/hMuKzyX6zKuobqQ3LP3CG2pqr5HqLe7HzdnGxabVEsM9xQEPmEVq26kYoJVfUVHtwef41h0GJ6zFfhGzKccIs4ATFggF8gF6eA=;29TRssw3hQ9YNsps1Fz1eA=="
+secured: "G+9PFMVfgrZoYjTstpzkZMXUFwIyB5TsvwBBstPV4u+Gu80E03zlUFffizwwashQlzZ44iINHyz0WZOySTAfxDL9rGqSfwO8da6GVo71zMIh0nyfdWV2OYSOrqO6Mtu14P8mlttj+ouORrGeGcDNbWd/M2ejRHutbIACDoO85bL5A9YHIqdS9U7qXJzr+ncmSGHJvj++zSN+p/Hs0/l6V+8df5fK9U5z48MiMXEapc0tBtrDQ24bg6sYuYh04q7ZcESU+B0EwXGkUBTIi7z2+0yHHyO30vrB6RuV6JuSm5zfxatDM1UtjNG+dj7Nx0aQtFs6lZAMiApE1RbtWZamvRTWczj8Ps+3bVbBnNMYmu0=;dYEKCgVW94Zxc7J87vOF8w=="
 ---
 

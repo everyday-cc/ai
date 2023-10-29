@@ -205,20 +205,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "As Databricks touts demand for AI services, all eyes are on Microsoft and Alphabet’s Q3 results"
-    excerpt: "We can't wait to find out if these companies will report a material improvement from their investments in AI-related computing tasks and products."
-    publishedDateTime: 2023-10-24T15:34:00Z
-    webUrl: "https://techcrunch.com/2023/10/24/microsoft-alphabet-q3-results-expectations/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-BLU.jpg?w=1024"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Copilots, AI and Azure drive Microsoft revenue growth"
     excerpt: "Hood said Microsoft’s enterprise mobility and security installed base grew 11% to more than 259 million seats, while the company’s on-premise server business reported revenue growth of 2%, driven by what she said was demand in advance of Windows Server 2012 end of support."
     publishedDateTime: 2023-10-25T06:30:00Z
