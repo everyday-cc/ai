@@ -21,52 +21,43 @@ topics:
   - AI
 
 related:
-  - title: "California suspends tests of GM's Cruise self-driving car following safety concerns"
-    excerpt: "California authorities on Tuesday suspended testing of Cruise self-driving cars being developed by General Motors, citing safety concerns following a"
-    publishedDateTime: 2023-10-25T04:28:00Z
-    webUrl: "https://timesofindia.indiatimes.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/articleshow/104686865.cms"
-    ampWebUrl: "https://m.timesofindia.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/amp_articleshow/104686865.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/amp_articleshow/104686865.cms"
+  - title: "The case against self-driving taxis isn't worse than the average driver"
+    excerpt: "But in San Francisco, state officials are not so sure. This week the state of California pulled the permits of self-driving taxis, stating that they represented an “unreasonable risk” to public safety. In other words, the City by the Bay was at risk of ..."
+    publishedDateTime: 2023-10-26T17:31:00Z
+    webUrl: "https://www.aol.com/case-against-self-driving-taxis-093121684.html"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 38
+      name: AOL
+      domain: aol.com
+    quality: 39
     images:
-      - url: "https://static.toiimg.com/thumb/msid-104686923,width-1070,height-580,imgsize-110560,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
+      - url: "https://media.zenfs.com/en/aol_gannett_aggregated_707/901af0441de95c7f5e9ecf98f188bee2"
+        width: 300
+        height: 400
         isCached: true
-  - title: "Automated car company planning to launch in Dallas has self-driving permit revoked in California"
-    excerpt: "A driverless vehicle company planning to launch Dallas is halting operations in California after the state yanked its license over safety concerns."
-    publishedDateTime: 2023-10-26T01:23:00Z
-    webUrl: "https://www.fox4news.com/news/cruise-automated-car-company-license-revoked-california-dallas"
-    ampWebUrl: "https://www.fox4news.com/news/cruise-automated-car-company-license-revoked-california-dallas.amp"
-    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/cruise-automated-car-company-license-revoked-california-dallas.amp"
+  - title: "The Future of Driving: Exploring Cutting-Edge Automobile Technology"
+    excerpt: "Are you ready to buckle up and take a look into the exciting world of futuristic driving? From self-driving cars that seem straight out of science fiction to advanced safety features designed to protect us on the road,"
+    publishedDateTime: 2023-10-26T08:23:00Z
+    webUrl: "https://techbullion.com/the-future-of-driving-exploring-cutting-edge-automobile-technology/"
     type: article
     provider:
-      name: KDFW
-      domain: fox4news.com
-    quality: 31
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
     images:
-      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/10/932/470/102023-DALLAS-CRUIS-AUTONOMOUS-VEHICLES-LORI-PKG-L_00.01.49.04.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/Electric-Vehicle-1.jpg"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "GM self-driving car subsidiary withheld video of a crash, California DMV says"
-    excerpt: "The California Department of Motor Vehicles Tuesday revoked Cruise’s permits to test and operate fully driverless vehicles on the state’s roads. The California DMV said, in part, it was because Cruise,"
-    publishedDateTime: 2023-10-25T21:52:00Z
-    webUrl: "https://www.erienewsnow.com/story/49882209/gm-self-driving-car-subsidiary-withheld-video-of-a-crash-california-dmv-says"
+  - title: "The case against self-driving taxis isn't worse than the average driver"
+    excerpt: "San Francisco is outlawing driver-less taxis. But columnist Tim Rowland notes that the average driver does worse daily than the robotaxis do."
+    publishedDateTime: 2023-10-26T09:32:00Z
+    webUrl: "https://www.heraldmailmedia.com/story/opinion/columns/2023/10/26/have-you-seen-other-drivers-robotaxis-really-arent-that-bad-tim-rowland/71313133007/"
     type: article
     provider:
-      name: Erie News Now
-      domain: erienewsnow.com
-    quality: 21
-    images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/25332846_G.jpg?lastEditedDate=1698163547000"
-        width: 500
-        height: 333
-        isCached: true
+      name: The Herald-Mail
+      domain: heraldmailmedia.com
+    quality: 19
   - title: "Arizona closely monitoring use of self-driving vehicles"
     excerpt: "\"When needed to safeguard public safety, ADOT will make any needed adjustments to a company's ability to test and operate self-driving vehicles in Arizona,\" the department said. California on Tuesday ordered GM's Cruise unit to remove its driverless cars from state roads,"
     publishedDateTime: 2023-10-25T17:54:00Z
@@ -76,33 +67,24 @@ related:
       name: AOL
       domain: aol.com
     quality: 4
-  - title: "Arizona says closely monitoring use of self-driving vehicles"
-    excerpt: "The Arizona Department of Transportation said it was aware of the announcement from California and was closely monitoring the situation. \"Public safety is our highest priority, and we are in regular communication with and closely monitoring Cruise and other companies testing and operating self-driving vehicles in Arizona,"
-    publishedDateTime: 2023-10-25T21:58:00Z
-    webUrl: "https://www.aol.com/arizona-closely-monitoring-self-driving-175410320.html"
+  - title: "Self-driving taxis challenged by LA City Councilman; 'LA should not be a test subject for the tech industry'"
+    excerpt: "Los Angeles City Councilman Hugo Soto-Martinez is urging state officials to address the public safety issues associated with autonomous, or self-driving, vehicles."
+    publishedDateTime: 2023-10-25T19:07:00Z
+    webUrl: "https://www.foxla.com/news/self-driving-taxis-uber-los-angeles"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
-  - title: "Cruise suspends self-driving car operations in Austin, nationwide"
-    excerpt: "Austin officials said residents complained about the cars not operating properly. The company’s suspension follows the launch of a federal investigation into incidents with pedestrians in San Francisco."
-    publishedDateTime: 2023-10-27T18:25:00Z
-    webUrl: "https://www.texastribune.org/2023/10/27/cruise-driverless-cars-austin-suspend/"
+      name: KTTV
+      domain: foxla.com
+    quality: 0
+  - title: "'No self-driving' for 'the path to San Francisco': Chinese top diplomat Wang Yi"
+    excerpt: "When noting that China and the US agreed to work together for the meeting between the two heads of state in San Francisco, Chinese foreign minister Wang Yi said on Saturday that \"the path to San Francisco\" will not be an easy one,"
+    publishedDateTime: 2023-10-29T12:49:00Z
+    webUrl: "https://www.globaltimes.cn/page/202310/1300788.shtml"
     type: article
     provider:
-      name: The Texas Tribune
-      domain: texastribune.org
-    quality: 4
-  - title: "California suspends GM Cruise self-driving vehicles as 'not safe' for public"
-    excerpt: "The automaker reported on Tuesday that it lost $723 million on Cruise during the third quarter. The DMV added that Tuesday's \"decision does not impact the company's permit for testing with a safety driver."
-    publishedDateTime: 2023-10-24T19:32:00Z
-    webUrl: "https://www.devdiscourse.com/article/headlines/2680696-california-suspends-gm-cruise-self-driving-vehicles-as-not-safe-for-public"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 1
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 0
 
 secured: "eyCT7BDfnO/Bjg1wOyUh+HyfHbWrg8KPh/81J93UpgyQc/B/ZdlQMRKiEbjv4fPov8XEfDh6StjclcHa3ijqJu/Q0AKUUdnBRCAlECgnFYlhdq9CA5zhAqvdmMhZaFfqr3LXTqvHR4LNQSZniREczNPuVErkEu9a2G1UDX1VDWh0sDY0DZcycZI8egvpu/cDGUGIyBCCAB7tDFDjWUbjsl3YPPz3e3QrnMLpX0Iwem1BiwT46i6W1JUDE3EDFkIRzGH58bYIUTsOBsj47AVHHk0cKIL6dT3bYI7zp8PqTS2kq0/LBwaqZTAipF88ADT/kHNa8eDWV3PnLhfekuyz1Ca4albAqMxu53wMCg01ilU2LobsPqVb1qEJFI5wHEvdBefD0JOeAXe8R6f/Q4U9bsjSeFzf8oZRebTCqUMb01SchYgKDbK7eqYL8o4cCEnijeQMWxWjkf18qyp9ar6LVwyeuHHYGBj3pdJ+OwjPU+EwCe26uytU5hwyiXZPOMW8jWotNxnPQ0hSiCQ9H+2jhg==;heftwXhPmI4w0u6aajlTtA=="
 ---

@@ -24,6 +24,22 @@ images:
     height: 960
     isCached: true
 
+related:
+  - title: "Real Insights on Artificial Intelligence"
+    excerpt: "AI could disrupt all aspects of daily life – transforming how we work, live and play. What’s its true potential, and how do we manage the risks?"
+    publishedDateTime: 2023-10-25T16:10:00Z
+    webUrl: "https://www.washingtonpost.com/creativegroup/intel/real-insights-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/creativegroup/uploads/2023/10/25170703/16970419297931697041929720-e1698253672489.png?rand=196"
+        width: 460
+        height: 441
+        isCached: true
+
 secured: "NBdOyp2u8f3Beuf0ZOvK8iKltCKwckll2eCea4qzyGrVvuBIlckquIprIo8ehLi1UTqv2VoErELYTrEe76unDCDks8oaK5mHn6+exf9zorPsfYdQt1IMhpYvH7HKF2BdVzmSHJm7dX22CbIj9OIKVPZxQ9x8h0BYvZIRNPdxHFU1dI6tK1HhzjBCWCChkMNFcWa7qIWK0/1LJF3MjDP/aK6KnCknKQ0uzvCSDjthkV8KgkhIrrrQSaphqEbga78u90FEs4YbzJ2DeWmhYmvfaFSqCGpQGSPqUUFT4vW17Cq0lRO78p7KbvVpGGr6CCDZZH5hV70cIVyA2jxJ3MFZKP+P9Gkv51dh12YM6DCJ0NM=;Gsl917KPznf0F44IiLu+bA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/wealth/wealth-management/fii7-in-riyadh-see
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/wealth/wealth-management/fii7-in-riyadh-sees-detailed-debate-on-ai-and-179bln-worth-of-investments-ujsy5de9?amp=1"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Zawya
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "FII7 in Riyadh ends with AI and Trillions for COP28 summit"
+    excerpt: "Riyadh, 29 Oct: The final day of FII7 highlighted the new frontiers of investment and technology, focusing on space & aviation, biotech, cybersecurity, robotics, venture capital, start-up nations, and more. A special AI summit was undertaken, featuring a ..."
+    publishedDateTime: 2023-10-29T15:31:00Z
+    webUrl: "https://www.arabtimesonline.com/news/fii7-in-riyadh-ends-with-ai-and-trillions-for-cop28-summit/"
+    type: article
+    provider:
+      name: Arab Times
+      domain: arabtimesonline.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.arabtimesonline.com/news/wp-content/uploads/2023/10/farsi-e1697620593757.jpg?resize=390%2C220&ssl=1"
+        width: 390
+        height: 220
+        isCached: true
   - title: "Final day of FII7 in Riyadh sees detailed debate on AI and trillions in investments for environment unlocked ahead of COP28 summit"
     excerpt: "Special AI summit explored how AI will change finance, industry and human societyCarbon summit saw Global South come together to shape carbon"
     publishedDateTime: 2023-10-28T16:25:00Z

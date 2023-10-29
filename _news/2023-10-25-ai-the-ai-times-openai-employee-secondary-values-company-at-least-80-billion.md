@@ -7,7 +7,7 @@ originalUrl: "https://betakit.com/ai-the-ai-times-openai-employee-secondary-valu
 webUrl: "https://betakit.com/ai-the-ai-times-openai-employee-secondary-values-company-at-least-80-billion/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI Captures the Magic of AI With ChatGPT and DALL-E – Built In"
+    excerpt: "Artificial intelligence, once considered the stuff of science fiction, has drifted into the mainstream in recent years with Siri, Alexa and other voice"
+    publishedDateTime: 2023-10-29T14:34:00Z
+    webUrl: "https://www.inferse.com/770803/openai-captures-the-magic-of-ai-with-chatgpt-and-dall-e-built-in/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-314.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Investor frenzy will overvalue AI tech start-ups, says early OpenAI backer"
     excerpt: "Artificial intelligence start-ups are overvalued and most will fail to make money, according to Vinod Khosla, an early OpenAI backer, in a warning to investors who are pouring billions into the buzzy sector."
     publishedDateTime: 2023-10-29T04:59:00Z

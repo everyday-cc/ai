@@ -44,6 +44,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Google Cloud fails to cash in on generative AI"
+    excerpt: "The explosive growth in the demand for generative AI has been a big revenue driver for public clouds. However, while some cloud players are reaping the benefits of user demand, Google Cloud seems to be failing to cash in on one of the biggest technology opportunities in decades."
+    publishedDateTime: 2023-10-25T12:06:00Z
+    webUrl: "https://www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/18/22/google-cloud-services_ai_artificial-intelligence-100765813-large-100943540-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Ii39ud5Tu/RFi4ILr4RgHAYsh7LiaOb4gJkos9IlKc9gWWZJ8fRH74DmK/AL0jTdQz4qVf4AHton5vbEH2ZEgDSRuHB15/OQtmF9mvuhase5hVnmhkNgsUFBQ7zhBh3tKsjriKbGmzYnxYLnkPd3W/BUcWKgQFVxBFRY560WnLrQN3fWLmoQ4ORi8JCb311pHPJTT9mVs2iRmAJlS3YoirDwTFbDKsI8bVo8J05hWofN3hkqlFZbDt2Cfal6cv3AAM0/licsewOWkbAiKrGf/OU51HUqCX0fXZ/auu1jeTFpvSyNV1aRGiCjPIT49XskJHr9iSQqGdpgcrW9RrHk20NK/nhiugA9bFBEMDQJzHYkbzVlBuVzIumrBTrEhwEc792HZm/RjaF8YwIsFha4x/4MaoqY0gYBVvfVy4cVz9nGnvm3q33CgXckayftT/UmSre0vcNF+PyLIpmJ+s2j9ZQVqhYlOOaOfYBhV0dx1QEBXhu9aFqOCGsd2k93zUCiJ69E2gjF42hLxosy3HL1EQ==;t9ZgeuEMpDbIzTnEwHYIjw=="
 ---

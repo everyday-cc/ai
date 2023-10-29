@@ -21,67 +21,122 @@ topics:
   - AI
 
 related:
-  - title: "Cruise Halts All Self-Driving Taxi Operations to 'Rebuild Public Trust'"
-    excerpt: "We think it’s the right thing to do during a period when we need to be extra vigilant when it comes to risk,' Cruise says after California's DMV suspended the company's self-driving permit."
-    publishedDateTime: 2023-10-27T13:59:00Z
-    webUrl: "https://au.pcmag.com/cars-auto/102335/cruise-halts-all-self-driving-taxi-operations-to-rebuild-public-trust"
+  - title: "Cruise, GM’s robotaxi service, suspends all driverless operations nationwide"
+    excerpt: "The California Department of Motor Vehicles revoked the license for Cruise, which recently began transporting passengers throughout San Francisco, this week."
+    publishedDateTime: 2023-10-27T15:09:00Z
+    webUrl: "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/"
+    ampWebUrl: "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/?outputType=amp"
+    cdnAmpWebUrl: "https://www-nbc29-com.cdn.ampproject.org/c/s/www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/?outputType=amp"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: NBC29
+      domain: nbc29.com
+    quality: 56
+    images:
+      - url: "https://gray-wvir-prod.cdn.arcpublishing.com/resizer/4oAIyjh_qTZ6jYSNDVYNzSiiShc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/A76YDPE6SNE2BHVQMV5X3VKYRE.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Where's AI steering driverless cars?"
+    excerpt: "GM's Cruise taxis were banned from California roads after the state said the driverless car company misrepresented safety data."
+    publishedDateTime: 2023-10-27T23:25:00Z
+    webUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
     quality: 54
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/c/cruise-hal/cruise-halts-all-self-driving-taxi-operations-to-rebuild-pub_fkz4.1200.jpg"
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/10/GettyImages-1626054002-e1698443650973.jpg?w=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "GM’s Cruise Halts Self-Driving Operations Across the US After Regulator Safety Fears"
-    excerpt: "Two days after safety fears led California regulators to shutdown Cruise’s robotaxis in San Francisco, the company says its fleet in Austin and other US cities will now operate with human supervision."
-    publishedDateTime: 2023-10-27T03:18:00Z
-    webUrl: "https://www.wired.com/story/gms-cruise-halts-self-driving-operations-regulator-safety-fears/"
+  - title: "GM Cruise Unit Suspends All Driverless Operations After California Ban"
+    excerpt: "A Cruise self-driving car, which is owned by General Motors Corp, is seen outside the company’s headquarters in San Francisco where it does most of its testing, in California, U.S., September 26, 2018. REUTERS/Heather Somerville/File photo Reuters"
+    publishedDateTime: 2023-10-26T20:38:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-26/us-auto-safety-agency-investigating-two-new-gm-cruise-crash-reports"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
+  - title: "GM's Cruise Pauses Driverless Operations Across All Fleets"
+    excerpt: "FILE PHOTO: A self-driving GM Bolt EV is seen during a media event where Cruise, GM's autonomous car unit, showed off its self-driving cars in San Francisco, California, U.S. November 28, 2017. REUTERS/Elijah Nouvelage/File Photo Reuters"
+    publishedDateTime: 2023-10-27T01:35:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-26/gms-cruise-pauses-driverless-operations-across-all-fleets"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
+  - title: "Pilot programs put more driverless vehicles on the road"
+    excerpt: "Pilot programs promoting the use of artificial intelligence in the transport sector have made significant progress, Ministry of Transport officials said on Thursday, with the commercial operation of driverless vehicles being tested in Beijing, Shanghai and Guangzhou, and more smart roads being planned and built."
+    publishedDateTime: 2023-10-26T15:00:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202310/26/WS653a745fa31090682a5eaf61.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
     images:
-      - url: "https://media.wired.com/photos/653b1f180fde2c56f0fd2d86/191:100/w_1280,c_limit/Cruise-Self-Driving-Cars-Nationwide-Business-GettyImages-1590511985.jpg"
-        width: 1280
-        height: 670
+      - url: "https://img2.chinadaily.com.cn/images/202310/26/653a745fa3109068cafee7bc.jpeg"
+        width: 720
+        height: 480
         isCached: true
-  - title: "California suspends Cruise self-driving taxis - the service preparing to launch in Dallas"
-    excerpt: "Calfornia's decision to suspend General Motors-backed Cruise's permit comes as the company has been running tests in Dallas since June through the Oak"
-    publishedDateTime: 2023-10-24T20:34:00Z
-    webUrl: "https://www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/"
-    ampWebUrl: "https://www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/?outputType=amp"
+  - title: "Progress toward a driverless future hits the brakes"
+    excerpt: "Building Artificial Intelligence We Can Trust.” “There are just too many outliers, so it’s like playing a game of whack-a-mole,” he said. He said the challenges of driverless cars could have lessons for other applications of machine learning ..."
+    publishedDateTime: 2023-10-27T23:29:00Z
+    webUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 35
+      name: Marketplace
+      domain: marketplace.org
+    quality: 39
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/xahx3h403lIg1Jd-iz3n2Mi5jkI=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/LQ34RSW3KKK24OH7KW2YYF5OVM.jpg"
-        width: 830
-        height: 467
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/10/GettyImages-1626054002-e1698443650973.jpg?w=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Self-driving car company Cruise halts fleets in Houston, elsewhere in bid to ‘rebuild public trust’ amid feds’ probe"
-    excerpt: "The self-driving car and driverless rides company Cruise said Thursday that it is halting its driverless operations across its fleets -- including in Houston -- as it said on Twitter that it is taking steps to “rebuild public trust,"
-    publishedDateTime: 2023-10-27T12:07:00Z
-    webUrl: "https://www.click2houston.com/news/local/2023/10/27/self-driving-car-company-cruise-halts-fleets-in-houston-elsewhere-in-bid-to-rebuild-public-trust-amid-feds-probe/"
+  - title: "Regulators Suspend Cruise's Driverless Taxis From Operating In San Francisco"
+    excerpt: "Driving Taxis The Department of Motor Vehicles has suspended permits that allowed robo-taxi company Cruise to operate in San Francisco. That comes after an incident earlier this month, in which one of the company's fully driverless vehicles hit and dragged a pedestrian."
+    publishedDateTime: 2023-10-25T14:12:00Z
+    webUrl: "https://www.kqed.org/news/11965519/regulators-suspend-cruises-driverless-taxis-from-operating-in-san-francisco"
     type: article
     provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 0
-  - title: "Self-driving operator Cruise's operations in AZ unaffected, despite CA permit suspension"
-    excerpt: "The company's driverless permits were suspended in California, but the move does not affect Arizona operations."
-    publishedDateTime: 2023-10-26T20:19:00Z
-    webUrl: "https://www.usatoday.com/story/money/business/tech/2023/10/26/self-driving-car-operator-cruise-will-continue-operations-in-arizona/71332901007/"
+      name: KQED
+      domain: kqed.org
+    quality: 36
+    images:
+      - url: "https://ww2.kqed.org/app/uploads/sites/10/2023/08/GettyImages-1556779132-1020x680.jpg"
+        width: 1020
+        height: 680
+        isCached: true
+  - title: "California DMV suspends permits for Cruise’s self-driving robotaxis"
+    excerpt: "California's DMV has suspended GM's permit for AV deployment and testing, alleging the company has \"misrepresented\" the technology's safety"
+    publishedDateTime: 2023-10-25T18:15:00Z
+    webUrl: "https://www.cbtnews.com/california-dmv-suspends-permits-for-cruises-self-driving-robotaxis/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 4
+  - title: "Cruise suspends self-driving car operations in Austin, nationwide"
+    excerpt: "Austin officials said residents complained about the cars not operating properly. The company’s suspension follows the launch of a federal investigation into incidents with pedestrians in San Francisco."
+    publishedDateTime: 2023-10-27T18:25:00Z
+    webUrl: "https://www.texastribune.org/2023/10/27/cruise-driverless-cars-austin-suspend/"
+    type: article
+    provider:
+      name: The Texas Tribune
+      domain: texastribune.org
+    quality: 4
+  - title: "The Cruise robotaxi reckoning highlights tensions over self-driving cars and how we regulate them"
+    excerpt: "The DMV suspended state permits for autonomous vehicle operator Cruise, saying the company omitted key information about a collision that injured a pedestrian."
+    publishedDateTime: 2023-10-26T13:44:00Z
+    webUrl: "https://www.latimes.com/california/newsletter/2023-10-26/the-cruise-robotaxi-reckoning-highlights-tensions-over-self-driving-cars-and-how-we-regulate-them-essential-california"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 0
 
 secured: "eN4SB5L85K/ulpWdWVn78JsHJML3dnf32we9xkMLRVYq2/spwYwTvdwyiSjPqKr9Fidd/GPH/sDkwKa4U5oAWZx2AclprFa/TnTqKEqhcyOTTS8MpwdQunh7OSwkHWfvIoVc2fQvMSz4osXHtsh9TAJX+aCzfW8VTg+Kl8Bs9tppMkuB42bd1+/3aheDTU65YrC2ylgHjSy2u3MjUANaY4ZwPa6dBm+i1I4ywH6hOkOuSZf/nxMCLlr1rQo4q1zfa9Nh1Hzqkw6dvfmZwvqZsl6Ku48Uq3ficKNBnt0YFyv2XWgJTLYqZ3Vg+avjFrGlsiUJ25f4cNE12iPrOW8ogXnzVf/MZukux2DwQr13aK1ZTv6pV0/AxxNv7sn+4YyLzkP27BqwuovXB8ZchEK24v4Wemuz5UrBQf0D1iKr8QPnXyB2AGkcGWo2DNAsJ6C2PLYPdElkatBhGA1Q1g8o+D4rmFgozqiAW/y0dGXFXpRZrDG/vFLPo1hVGK+0mTRBg9ITonn0eBUUemrpPQ14hQ==;qaH/MBkIOBXNwQc32IPiWA=="

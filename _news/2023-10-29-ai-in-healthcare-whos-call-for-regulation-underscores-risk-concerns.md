@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-reg
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm"
 type: article
 quality: 74
-heat: 94
+heat: 85
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/05/Washington-University-in-St.Louis_.jpg"
         width: 910
         height: 560
-        isCached: true
-  - title: "UNMC combines AI, simulations and extended reality in health care scenarios"
-    excerpt: "Faculty from the UNMC Division of Cardiovascular Medicine, iEXCEL staff and technology from the Davis Global Center are using Artificial Intelligence, computational Simulations, and Extended Reality."
-    publishedDateTime: 2023-10-24T20:03:00Z
-    webUrl: "https://rivercountry.newschannelnebraska.com/story/49882288/unmc-combines-ai-simulations-and-extended-reality-in-health-care-scenarios"
-    type: article
-    provider:
-      name: News Channel Nebraska
-      domain: newschannelnebraska.com
-    quality: 37
-    images:
-      - url: "https://RIVERCOUNTRYNCN.images.worldnow.com/images/25332840_G.jpg?lastEditedDate=1698163359000"
-        width: 3024
-        height: 4032
         isCached: true
 
 secured: "qvJuU3vQMOWV2kXCNlK6ccMXRjNptvmZ4+FFMF5rH5Zvy7VJeQ1OZygBm7jeqJignI9iqnLzErbSRx4CvLQUteCITfsSvyFMQYHz6LtOsk8aZtG7VTPdggcWapNLoGtE5bx5d3CTIuag4n/lWf7HRJcH4OAKg0gEGj58mJbIhNIp4dC4EsLtiQxH94iqSZtb6sPu+th2bNqM3K6cDN7joDvgQ78Ga/aL7dmUL66J34m9ntncx1c2bGj6KnaML9XClkwVVysC9nNAE4G2AIsIp9YnjU7se5xVwLeSTy8Xc9IjdQ7e1bq/xkpC+dhfcimA/DKSygndogq4+jwUNyJpncPmM4wkADjCi0bVR1iID1U=;uMtwiLTo6uwuGbLb8CpLyw=="

@@ -50,24 +50,6 @@ related:
         width: 500
         height: 312
         isCached: true
-  - title: "Google and Nvidia-backed CentML secures $37 million CAD to help companies deploy AI amid chip shortages"
-    excerpt: "As companies race to adopt AI amid chip shortages, Toronto-based CentML is developing a solution to help customers make the most of existing supplies."
-    publishedDateTime: 2023-10-25T13:00:00Z
-    webUrl: "https://betakit.com/google-and-nvidia-backed-centml-secures-37-million-cad-to-help-companies-deploy-ai-amid-chip-shortages/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 18
-  - title: "Google, Nvidia invest in AI startup CentML"
-    excerpt: "CentML – a Toronto-based AI startup has received new funding from Nvidia Corp (NASDAQ: NVDA) and Alphabet Inc’s (NASDAQ: GOOGL) Google. On Wednesday, the artificial intelligence company said it secured a total of $27 million from names that also include Radical Ventures, Deloitte Ventures, and Thomson Reuters Ventures."
-    publishedDateTime: 2023-10-25T18:07:00Z
-    webUrl: "https://invezz.com/news/2023/10/25/google-nvidia-invest-ai-startup-centml/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 17
 
 secured: "ku2TkQbdXAAvgkin8hFOvr0oE4QUr5O5jmrZPIk7v8ZyTMRjhlrtQGgWpQPJNMG2fb3+3WMZ/u902EFTYvHatG3yB0sp9zblLpt+wgp7qZXuT7CgXlvJq9vm1NYgOnJ+KXsx4sYn8amG47oImuMZKz5+2vjkH1NapdskhV3w61ZdQMbuKqsFfTsXGxgQh1XOFmL+pM5dLrP871c3xLXU44ipLqGYKLOivJujcDN3XtFw28LQ3q0Nst1Mg7QFj5cFsPyrO6yjZIpci5mtMHkSsRitZ2NFEbRBbCRif+RojfoFkJHpovNV6kSaQdlN5DqC6kui+SbMdRFdMDRtRoHQ8Zfj5JyrXOV2DgUL8fYQyIacwhqtblpea2SnP7NUE+fNb5QagoVBzEVzqx5VlbiE2+ypS3X7OyaDViZknunmOU6HAKTtV972ePk0kzGEFbTqcPBWhNZJgBtIUE6Gi6ByOT9CQq8rPNG+jLh19pnFJn9inoHizBtN8lHgC+yeeflKXIyhS0tYFuCCIHe7XCEiyw==;Us+e1PCMBceaSbtDxE6LoA=="
 ---

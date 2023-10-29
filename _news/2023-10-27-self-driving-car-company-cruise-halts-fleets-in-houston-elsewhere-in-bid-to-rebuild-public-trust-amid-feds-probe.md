@@ -47,33 +47,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "California suspends Cruise self-driving taxis - the service preparing to launch in Dallas"
-    excerpt: "Calfornia's decision to suspend General Motors-backed Cruise's permit comes as the company has been running tests in Dallas since June through the Oak"
-    publishedDateTime: 2023-10-24T20:34:00Z
-    webUrl: "https://www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/"
-    ampWebUrl: "https://www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 35
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/xahx3h403lIg1Jd-iz3n2Mi5jkI=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/LQ34RSW3KKK24OH7KW2YYF5OVM.jpg"
-        width: 830
-        height: 467
-        isCached: true
-  - title: "Cruise suspends self-driving robo-taxi service in Houston, nationwide"
-    excerpt: "HOUSTON - Two weeks after launching services in Houston, Cruise suspended its self-driving vehicle operations nationwide."
-    publishedDateTime: 2023-10-28T03:25:00Z
-    webUrl: "https://www.fox26houston.com/news/cruise-suspends-self-driving-robo-taxi-service-in-houston-nationwide"
-    ampWebUrl: "https://www.fox26houston.com/news/cruise-suspends-self-driving-robo-taxi-service-in-houston-nationwide.amp"
-    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/cruise-suspends-self-driving-robo-taxi-service-in-houston-nationwide.amp"
-    type: article
-    provider:
-      name: KRIV
-      domain: fox26houston.com
-    quality: 24
   - title: "Self-driving operator Cruise's operations in AZ unaffected, despite CA permit suspension"
     excerpt: "The company's driverless permits were suspended in California, but the move does not affect Arizona operations."
     publishedDateTime: 2023-10-26T20:19:00Z

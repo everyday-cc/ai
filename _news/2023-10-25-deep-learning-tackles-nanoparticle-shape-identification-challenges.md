@@ -7,7 +7,7 @@ originalUrl: "https://www.azonano.com/news.aspx?newsID=40473"
 webUrl: "https://www.azonano.com/news.aspx?newsID=40473"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1280
     height: 1041
     isCached: true
-
-related:
-  - title: "Deep learning solves long-standing challenges in identification of nanoparticle shape"
-    excerpt: "Innovation Center of NanoMedicine has announced with The University of Tokyo that a group led by Prof. Takanori Ichiki, Research Director of iCONM, proposed a new property evaluation method of nanoparticles' shape anisotropy that solves long-standing issues in nanoparticle evaluation that date back to Einstein's time."
-    publishedDateTime: 2023-10-24T21:00:00Z
-    webUrl: "https://phys.org/news/2023-10-deep-long-standing-identification-nanoparticle.html"
-    ampWebUrl: "https://phys.org/news/2023-10-deep-long-standing-identification-nanoparticle.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-deep-long-standing-identification-nanoparticle.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-solves-l.jpg"
-        width: 1280
-        height: 1041
-        isCached: true
 
 secured: "XfR9TsszroHRsMe6q9ArHfKZ0G66MkaD5mcnt/Clo+KpVKERZ0slaB8zylRCWX991ehHbIDKacS5CR1vOBRZHOKY45RVnNjh/7dTswP9uGhLSic4yHOar9ALg+qOIxXbdUm5hObATAGTSWlVCy6fWDd9rI01Ifoi4uB240htqCbvnhzj1ho9Lr6uXiK+NXSc6kPR10ZWWrJ8tO983pa6Kg27SnjyZAlje3ktSL7lkTynIjMF2Xfbfj56F8mku15sh+ExR57+HpMoQs1iGvDjDzHE0XOt2wVqGNmwleWnsShjnLCf2FnWUkBffhWM4aBD+SCRDXLAsd8R2l1i5ZpYzKf/zk8IDasXxyJl4YQ9z7qWulYAdma44Z0ewORZWTonUNIpXCvyFpF19Uzj6VtLvzFpt98f02KxpFEY86xIZOPk0rkNMMuPkBda20aVwEek+/q3p+Obmf4wXM1/i8NBYP22MZ0Cfh55I2vXKevLOv8JAeWaGhwMQMcKp7/cZ5FdnKqY/YJBPZxFiRXrY4b/Tw==;xI/7LRRuGr9+ZtKwFYOOxw=="
 ---

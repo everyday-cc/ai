@@ -39,6 +39,20 @@ related:
         width: 739
         height: 493
         isCached: true
+  - title: "FII7 in Riyadh ends with AI and Trillions for COP28 summit"
+    excerpt: "Riyadh, 29 Oct: The final day of FII7 highlighted the new frontiers of investment and technology, focusing on space & aviation, biotech, cybersecurity, robotics, venture capital, start-up nations, and more. A special AI summit was undertaken, featuring a ..."
+    publishedDateTime: 2023-10-29T15:31:00Z
+    webUrl: "https://www.arabtimesonline.com/news/fii7-in-riyadh-ends-with-ai-and-trillions-for-cop28-summit/"
+    type: article
+    provider:
+      name: Arab Times
+      domain: arabtimesonline.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.arabtimesonline.com/news/wp-content/uploads/2023/10/farsi-e1697620593757.jpg?resize=390%2C220&ssl=1"
+        width: 390
+        height: 220
+        isCached: true
 
 secured: "mpo7VCmCPHszZYyzFrP/g0DLbtCZy4ASs/zzfF4HQbcoGjgfKDUM6F6tXefiBrNJxnHIgf4UAO09TKe9eDg81sspzEGUSYSwc3UlMzo98oWFob44Q9su2795k8SWIyS7gtoXetu5j2QSpEkvKBZhfGZryR3mi6yVHwhEiW9ZzsQWXWM0x5ibzX/e/ykbs462BdPILYHyUuyhMtp43VcOZNwAp/u61k/NiJqjYLnp4Mzd3DKC5lbIr/8mcv4U55VTMHp9bv52f8OpqZu0a+jA5Trrg5KpvW7SUEzmxS/Ec4SHzIPyUCnFvgNLRV/w5NRgRW0plX4AoARG78qte4scCh5OmJLv6tC/E5NVcKZc07c=;QAx8D35TtOYbNdntjdq/Ng=="
 ---

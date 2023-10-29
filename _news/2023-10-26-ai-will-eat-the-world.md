@@ -43,22 +43,6 @@ related:
         width: 1600
         height: 896
         isCached: true
-  - title: "AI in the Mental Health Field"
-    excerpt: "AI has the potential to transform and revolutionize the mental health field. Psychologists regard AI not as a replacement for real, face-to-face therapy, but as an additional source of support in a world in which artificial intelligence becomes more pervasive in our lives and mental health resources are becoming increasingly sought after."
-    publishedDateTime: 2023-10-27T22:56:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-10/shantanu-kumar-xvdkNBaja90-unsplash.jpg?itok=50YsNbXe"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "How artificial intelligence is monitoring employee performance in the workplace"
     excerpt: "Artificial intelligence has been around for years, but the technology is being used in new ways, including to monitor your performance on the job."
     publishedDateTime: 2023-10-28T03:09:00Z
@@ -89,6 +73,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "AI in the Mental Health Field"
+    excerpt: "Although the world may not quite reach the level of dependency depicted in the Pixar movie, a future involving heavy reliance on artificial intelligence appears more probable than ever as AI becomes more entangled with our daily lives."
+    publishedDateTime: 2023-10-27T22:56:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-now/202310/ai-in-the-mental-health-field"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 19
   - title: "The employees secretly using AI at work"
     excerpt: "Some employers are either tacitly or outright banning access to generative AI tools like ChatGPT. But employees who love them are finding ways to discreetly backchannel."
     publishedDateTime: 2023-10-25T14:49:00Z

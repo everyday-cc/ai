@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-26T23:59:00Z
 originalUrl: "https://thediplomat.com/2021/10/artificial-intelligence-and-big-data-in-the-indo-pacific/"
 webUrl: "https://thediplomat.com/2021/10/artificial-intelligence-and-big-data-in-the-indo-pacific/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://thediplomat.com/wp-content/uploads/2021/08/sizes/td-story-s-2/thediplomat_2021-09-01.jpg"

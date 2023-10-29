@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/20fd55532e0932e653a02eb5f760aaa32755b3f6/2023/10/26/94f21486-b237-4444-a097-46414d3f26d7/gettyimages-1304033196.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google Cloud fails to cash in on generative AI"
+    excerpt: "The explosive growth in the demand for generative AI has been a big revenue driver for public clouds. However, while some cloud players are reaping the benefits of user demand, Google Cloud seems to be failing to cash in on one of the biggest technology opportunities in decades."
+    publishedDateTime: 2023-10-25T12:06:00Z
+    webUrl: "https://www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/18/22/google-cloud-services_ai_artificial-intelligence-100765813-large-100943540-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "xLUcZtI35N1XiQwM8I+GhJNAhLngP8E+tluBpSb7xONNh9XL0s+mf5B3NqTfUX3de+psYKNG9FzC8AsjsZz0lpAnDa/xGvYXjfxBwGo0SysCDFQXDwf4vMS2A6czCvVsCH3DPPVf1zEXi3YmgORAWQc+eVABlmDTemDmF8V6yL9T07wDSN0hqYF0ht1z14McJjk4cFIPT5YGABnuITny+h85AKP4O5H5+lOEJf0IHNyyU6TZ2nZMXWEV1tQ1VrpzrfycQaFAN1DcthgHI8C7ujoeA9eQUdJTZo5lPIdWmqGaeZ/dhEzgUYiD+Oyo8FdSXFSuOfCVgaQ1dqFrkz2rz6WIDSlIOVzeSQHuTLJZroon4rgIJ0tdv5UsgwjG00m+VywW0eIZxvfFIPdd4bGGc5dWZPrXLzmBEW0WHRmeVCUYuTM/kuXkp+Z0MDncfMedajx2Uyoz9UTJwiw172pbV+hEQUHAdMdqQjB/44BkRmQfzayOfyJL05iY+YrZJvGUf8sA9gdk1rjYuyTSzHoXBA==;KwjeQ6979/QI0MpkJIQ4fA=="

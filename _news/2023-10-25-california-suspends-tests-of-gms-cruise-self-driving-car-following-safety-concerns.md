@@ -43,17 +43,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "California DMV suspends permits for self-driving taxis"
-    excerpt: "The DMV said its autonomous vehicle regulations “provide a framework to facilitate the safe testing and deployment” of autonomous vehicle technology on California’s public roads. “When there is an unreasonable risk to public safety, the DMV can immediately suspend or revoke permits,” the DMV said."
-    publishedDateTime: 2023-10-25T10:57:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/?lv=true"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/4272923-california-dmv-suspends-permits-for-self-driving-taxis/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 24
   - title: "GM self-driving car subsidiary withheld video of a crash, California DMV says"
     excerpt: "The California Department of Motor Vehicles Tuesday revoked Cruise’s permits to test and operate fully driverless vehicles on the state’s roads. The California DMV said, in part, it was because Cruise,"
     publishedDateTime: 2023-10-25T21:52:00Z
@@ -68,15 +57,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Arizona closely monitoring use of self-driving vehicles"
-    excerpt: "\"When needed to safeguard public safety, ADOT will make any needed adjustments to a company's ability to test and operate self-driving vehicles in Arizona,\" the department said. California on Tuesday ordered GM's Cruise unit to remove its driverless cars from state roads,"
-    publishedDateTime: 2023-10-25T17:54:00Z
-    webUrl: "https://www.aol.com/news/arizona-closely-monitoring-self-driving-175410320.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
   - title: "Arizona says closely monitoring use of self-driving vehicles"
     excerpt: "The Arizona Department of Transportation said it was aware of the announcement from California and was closely monitoring the situation. \"Public safety is our highest priority, and we are in regular communication with and closely monitoring Cruise and other companies testing and operating self-driving vehicles in Arizona,"
     publishedDateTime: 2023-10-25T21:58:00Z
@@ -86,24 +66,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 4
-  - title: "Cruise suspends self-driving car operations in Austin, nationwide"
-    excerpt: "Austin officials said residents complained about the cars not operating properly. The company’s suspension follows the launch of a federal investigation into incidents with pedestrians in San Francisco."
-    publishedDateTime: 2023-10-27T18:25:00Z
-    webUrl: "https://www.texastribune.org/2023/10/27/cruise-driverless-cars-austin-suspend/"
-    type: article
-    provider:
-      name: The Texas Tribune
-      domain: texastribune.org
-    quality: 4
-  - title: "California suspends GM Cruise self-driving vehicles as 'not safe' for public"
-    excerpt: "The automaker reported on Tuesday that it lost $723 million on Cruise during the third quarter. The DMV added that Tuesday's \"decision does not impact the company's permit for testing with a safety driver."
-    publishedDateTime: 2023-10-24T19:32:00Z
-    webUrl: "https://www.devdiscourse.com/article/headlines/2680696-california-suspends-gm-cruise-self-driving-vehicles-as-not-safe-for-public"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 1
 
 secured: "w4k0OvMGnqAfkhMSibNdPuebSbxCh/XOK9uBv6JZAaDbRK7XgffEX5CUErgUq4B9oRYWIBWj91ftQqUA9xuG3GzrxDaGqY6SezgZ+LzkPMiLFd0eM0pm1++yloVSRVnjcB8yeQW0nl8H5M3+5DKKxgIa758GGqLFB2QXPjOS2rYLFyvGYF2/mBclOhMLDmlCvkDZl3M3sePykAfrya4yWPj3oXJM0NOvwqHNqjctYV+KceGFaxNG3uRCpvGZMVJKEYv7MS/1d/U2qrdL2SdWMYX1aQ3CeDJzBNvSQK5VLDF11C444a1e6OF4i7wKwZbjO8vW6HS4PtKP6pJw0ReHvn5ot+3EZ/eGtQQw5ZeswqY=;nwRCfKFbIMsFcXaXEhlxPw=="
 ---

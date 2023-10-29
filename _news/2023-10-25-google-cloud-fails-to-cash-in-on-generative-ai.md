@@ -27,35 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s One Important Skill HR Should Focus On With Generative AI"
-    excerpt: "As AI increases in the workplace, 53 percent of workers say they’re more concerned about their jobs being replaced by robots than immigration and outsourcing."
-    publishedDateTime: 2023-10-24T20:01:00Z
-    webUrl: "https://www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/amp/"
+  - title: "In 2024, APAC Firms Will Be Inspired By The Generative AI Wave"
+    excerpt: "The APAC region is bracing itself for a year of exploration and potential growth, with genAI at the center of it all."
+    publishedDateTime: 2023-10-26T05:01:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65397e34a8e118b302b844b9/0x0.jpg?format=jpg&crop=2999,1686,x0,y154,safe&height=900&width=1600&fit=bounds"
         width: 1600
-        height: 900
+        height: 899
         isCached: true
-  - title: "The AI-Generated Child Abuse Nightmare Is Here"
-    excerpt: "Thousands of child abuse images are being created with AI. New images of old victims are appearing, as criminals trade datasets."
-    publishedDateTime: 2023-10-24T23:01:00Z
-    webUrl: "https://www.wired.com/story/generative-ai-images-child-sexual-abuse/"
+  - title: "Few APAC firms will benefit from AI due to doubt and data management"
+    excerpt: "Just a third of organizations in Asia-Pacific will be able to benefit from AI, with the rest held back by some key issues, predicts research firm Forrester."
+    publishedDateTime: 2023-10-27T17:00:00Z
+    webUrl: "https://www.zdnet.com/article/few-apac-firms-will-benefit-from-ai-due-to-doubt-and-data-management/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
     images:
-      - url: "https://media.wired.com/photos/6538482ff6398a9e9f0f6825/191:100/w_1280,c_limit/102423-security-csam-generative-ai.png"
-        width: 1280
-        height: 670
+      - url: "https://www.zdnet.com/a/img/resize/20fd55532e0932e653a02eb5f760aaa32755b3f6/2023/10/26/94f21486-b237-4444-a097-46414d3f26d7/gettyimages-1304033196.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "cJolwuv60bj+QR5qB0T0tucNAK3KBUNCz2C4BruzOgHI8WFyPqnpLMs1xoXUKTQe+GPcOBhjWJIld5LON9JCGhMwUvrckSTIVXYMm/IFWNFIPnTd5R5M0d6adjJ2lVtJX4xvv2D8dL311mHMjpfaSCRCkeWqCA6flOiEBB9KhDoFLxE/kwwyEGnAaGpNS0eEjcVGx9RqeggV1bnsB+uVyksAKA32a+RUWkVGKU/a+eMHdWbAEY6HZ08ZdK8/IIkFWch9tD/6AP0cXTCx888uSre1ZgygX9NAcKBQ1Yu3tMkaPlrTX9YuHCT/yxQ1fblnc1zeY9vSZMHZBJPyGZvYlE+R4fv4gJnwhuU2JB7PBaU=;iE+JE0CfN3Q18nVi8did4w=="

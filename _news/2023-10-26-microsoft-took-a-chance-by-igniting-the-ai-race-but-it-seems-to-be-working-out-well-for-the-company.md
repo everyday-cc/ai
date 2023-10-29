@@ -71,22 +71,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Microsoft, Google post starkly different results for cloud, AI sales"
-    excerpt: "Microsoft's revenue rose 13 per cent to $56.5 billion in the quarter ended Sept. 30, while Google Cloud's third-quarter revenue rose 22.5 per cent to $8.41 billion."
-    publishedDateTime: 2023-10-24T21:43:00Z
-    webUrl: "https://globalnews.ca/news/10046550/microsoft-alphabet-sales-google-ai/"
-    ampWebUrl: "https://globalnews.ca/news/10046550/microsoft-alphabet-sales-google-ai/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/10046550/microsoft-alphabet-sales-google-ai/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 91
-    images:
-      - url: "https://globalnews.ca/wp-content/uploads/2023/10/Untitled-design-57.png?w=276"
-        width: 275
-        height: 215
-        isCached: true
   - title: "AWS Q3 Earnings Preview: From Sales Growth, AI To Microsoft"
     excerpt: "AWS earnings report for Q3 2023 will unveil cloud sales growth, AI wins, Amazon investments and potentially Microsoft discussions. Here’s what to watch for."
     publishedDateTime: 2023-10-25T15:34:00Z
@@ -143,20 +127,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft's quarterly results and guidance showcase its AI prowess"
-    excerpt: "Microsoft ’s (MSFT) fantastic fiscal first-quarter results and stellar guidance on Tuesday demonstrated once again that the software giant is one of the most formidable contenders in the increasingly competitive AI arms race."
-    publishedDateTime: 2023-10-24T21:46:00Z
-    webUrl: "https://www.cnbc.com/2023/10/24/microsofts-quarterly-results-and-guidance-showcase-its-ai-prowess-.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 84
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107303118-1695140793195-gettyimages-1676978506-Omarques_19092023_TECHKRK_5_of_14.jpeg?v=1698191189&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft Stock: AI Tailwind Sets the Scene for Further Gains"
     excerpt: "“As we look out into CY24, we believe that AI will be a tailwind as Microsoft starts implementing its M365 Copilot monetization strategy, as will continued traction in Azure and the integration of ATVI into Microsoft’s gaming business.” All ..."
     publishedDateTime: 2023-10-26T11:24:00Z
@@ -170,6 +140,20 @@ related:
       - url: "https://blog.tipranks.com/wp-content/uploads/2023/10/image-663-1024x520.png?utm_source=markets.businessinsider.com&utm_medium=referral"
         width: 1024
         height: 520
+        isCached: true
+  - title: "Microsoft Stock (NASDAQ:MSFT): Analysts Bullish on AI Biz"
+    excerpt: "Tech giant Microsoft (NASDAQ:MSFT) delivered impressive fiscal first-quarter results, driven by the strength in the company’s cloud business."
+    publishedDateTime: 2023-10-28T18:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-nasdaq-msft-analysts-bullish-on-ai-biz-1032750908"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/10/MSFT-1.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 813
+        height: 273
         isCached: true
   - title: "Microsoft In The First Inning Of Artificial Intelligence Opportunity"
     excerpt: "The very long term target is $482 - $506. For artificial intelligence, the best two of the magnificent seven stocks at this time are Microsoft and Nvidia. Keep in mind that in the world of investments, nothing is cast in stone. Markets are dynamic."
@@ -457,15 +441,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Microsoft's cloud revenue rebounds as AI boosts sales"
-    excerpt: "\"We are making the age of AI real for people and businesses everywhere,\" Microsoft CEO Satya Nadella said in the company's latest earnings report."
-    publishedDateTime: 2023-10-24T21:39:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2023/10/24/microsoft-cloud-revenue-ai-earnings-growth.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 51
   - title: "Microsoft reports higher profits and revenue powered by cloud computing and AI investments"
     excerpt: "Microsoft has reported a 27% increase in profit for the July-September quarter compared to the same time last year."
     publishedDateTime: 2023-10-25T01:23:00Z

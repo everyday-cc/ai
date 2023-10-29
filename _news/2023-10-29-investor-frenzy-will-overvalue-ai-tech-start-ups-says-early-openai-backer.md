@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "OpenAI Captures the Magic of AI With ChatGPT and DALL-E – Built In"
+    excerpt: "Artificial intelligence, once considered the stuff of science fiction, has drifted into the mainstream in recent years with Siri, Alexa and other voice"
+    publishedDateTime: 2023-10-29T14:34:00Z
+    webUrl: "https://www.inferse.com/770803/openai-captures-the-magic-of-ai-with-chatgpt-and-dall-e-built-in/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-314.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A|I: The AI Times – OpenAI employee secondary values company at least $80 billion"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
     publishedDateTime: 2023-10-25T09:01:00Z

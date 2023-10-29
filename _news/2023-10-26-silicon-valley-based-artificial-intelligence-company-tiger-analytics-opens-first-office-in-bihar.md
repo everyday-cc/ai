@@ -26,40 +26,65 @@ images:
     isCached: true
 
 related:
-  - title: "Insurance companies are betting on AI and mass data analytics in a battle against fraud that costs billions"
-    excerpt: "Insurance companies are using AI to flag suspicious claims. One company said their machine-learning system finds three times more fraud than manual or rules-based tools."
-    publishedDateTime: 2023-10-24T20:56:00Z
-    webUrl: "https://www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10?amp"
+  - title: "Artificial Intelligence company from Silicon Valley enters Bihar"
+    excerpt: "Tiger Analytics is primarily a consulting company in the field of artificial intelligence and machine learning.We hope that taking this lead into account, many more companies will come to Bihar in the same way,"
+    publishedDateTime: 2023-10-26T04:40:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar"
+    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 57
     images:
-      - url: "https://i.insider.com/65382e180487ff031cad4b90?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 500
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_46_53_9831308.png?width=1280"
+        width: 1280
+        height: 723
         isCached: true
-  - title: "SAS draws from lengthy analytics history to build generative AI tools for expanding use cases"
-    excerpt: "SAS was formed in the late 1960s as a consortium of eight universities in the southern U.S., with a mission to develop a statistical software package that could analyze agricultural data. Decades later, SAS is once again drawing on its lengthy analytics experience to prepare customers for the next chapter in artificial intelligence."
-    publishedDateTime: 2023-10-24T19:11:00Z
-    webUrl: "https://siliconangle.com/2023/10/24/sas-draws-from-lengthy-analytics-history-to-build-generative-ai-tools-for-expanding-use-cases-supercloud4/"
+  - title: "Artificial Intelligence company from Silicon Valley entres Bihar"
+    excerpt: "A Silicon Valley-based Artificial Intelligence company has opened an office in Bihar, making it the first IT company from the US"
+    publishedDateTime: 2023-10-26T09:36:00Z
+    webUrl: "https://www.orissapost.com/artificial-intelligence-company-from-silicon-valley-entres-bihar/"
+    ampWebUrl: "https://www.orissapost.com/artificial-intelligence-company-from-silicon-valley-entres-bihar/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/artificial-intelligence-company-from-silicon-valley-entres-bihar/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 6
-  - title: "Data analytics introduced for equine safety"
-    excerpt: "The Horseracing Integrity and Safety Authority (HISA) is collaborating with Amazon Web Services (AWS) to apply data analytics, machine learning and artificial intelligence to enhance equine"
-    publishedDateTime: 2023-10-25T18:07:00Z
-    webUrl: "https://www.kentuckytoday.com/news/data-analytics-introduced-for-equine-safety/article_5d8442ee-7361-11ee-8f80-8f038cd8d329.html"
+      name: orissapost
+      domain: orissapost.com
+    quality: 57
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2023/10/Tiger-Analytics.jpg"
+        width: 609
+        height: 427
+        isCached: true
+  - title: "From The Jersey Shore To Silicon Valley: How Two Tech Companies Are Reimagining Recruiting, Job Descriptions And Interview Questions With AI"
+    excerpt: "To many people, it might come as a surprise that southern New Jersey, located 15 miles west of the Jersey Shore beaches, boasts a top tech company. iCIMS—short for Internet Collaborative Information Management Systems—is a cloud-based human resources and recruiting software company that provides recruiting solutions to organizations."
+    publishedDateTime: 2023-10-27T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/jackkelly/2023/10/27/from-the-jersey-shore-to-silicon-valley-how-two-tech-companies-are-reimagining-recruiting-job-descriptions-and-interview-questions-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/10/27/from-the-jersey-shore-to-silicon-valley-how-two-tech-companies-are-reimagining-recruiting-job-descriptions-and-interview-questions-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/10/27/from-the-jersey-shore-to-silicon-valley-how-two-tech-companies-are-reimagining-recruiting-job-descriptions-and-interview-questions-with-ai/amp/"
     type: article
     provider:
-      name: Kentucky Today
-      domain: kentuckytoday.com
-    quality: 4
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653ac9ed0a5631b800562beb/0x0.jpg?format=jpg&crop=3118,2077,x369,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
+  - title: "In a 1st, artificial intelligence company from Silicon Valley enters Bihar"
+    excerpt: "A Silicon Valley-based Artificial Intelligence company has opened an office in Bihar, making it the first IT company from the US to enter the state."
+    publishedDateTime: 2023-10-26T17:15:00Z
+    webUrl: "https://www.business-standard.com/companies/news/in-a-1st-artificial-intelligence-company-from-silicon-valley-enters-bihar-123102600201_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/in-a-1st-artificial-intelligence-company-from-silicon-valley-enters-bihar-123102600201_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/in-a-1st-artificial-intelligence-company-from-silicon-valley-enters-bihar-123102600201_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 35
 
 secured: "mA854ryZMVB4Y4789+RHNv0Xi7aCNyIdWye46bAi9tT4nOO5REtX6PDEahpOr1Wr+sGDftaFZDXEitKRyvhRipM3sdyRQ7KjVKlUEDVmpo5qKJDbp+ZPdn5ZyRIg+9KFaBwQyii9UBFRtFxaaJj44U7lA+Q9it3X00nVeIWLDno70HWbNFgAfDrq1lRakzLU2VXkyonKmHlXn2RI0Do9QMeY89+dlPmvqqowu4WOFf5zHPVXma/d+50BparOb4SDUzvBF3ZuUx3DuTLiFjRKYhbta7B8326zziFfiLId1uo5ElxZlRV/jBq0LZ/WcXrIOOt3Xmqr0fkkYHMHLKw8pUo/yoC0fKUK5pdHup8gTHA=;LH8sIke2B9vi2/KQWRA0xg=="
 ---

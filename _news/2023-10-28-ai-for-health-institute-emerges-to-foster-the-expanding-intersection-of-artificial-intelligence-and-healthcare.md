@@ -43,20 +43,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "UNMC combines AI, simulations and extended reality in health care scenarios"
-    excerpt: "Faculty from the UNMC Division of Cardiovascular Medicine, iEXCEL staff and technology from the Davis Global Center are using Artificial Intelligence, computational Simulations, and Extended Reality."
-    publishedDateTime: 2023-10-24T20:03:00Z
-    webUrl: "https://rivercountry.newschannelnebraska.com/story/49882288/unmc-combines-ai-simulations-and-extended-reality-in-health-care-scenarios"
-    type: article
-    provider:
-      name: News Channel Nebraska
-      domain: newschannelnebraska.com
-    quality: 37
-    images:
-      - url: "https://RIVERCOUNTRYNCN.images.worldnow.com/images/25332840_G.jpg?lastEditedDate=1698163359000"
-        width: 3024
-        height: 4032
-        isCached: true
 
 secured: "Af39+xtUPBnLY8qV6Uk211qLA4++Hif1ZneFTLTHViCa4yZSl/DcXltRN88TjCCad4kHvGm+MPF18vxpYpfi9ay5aGz5dScYPVHohUQMLyCBpNsWvNNw4DdTiylHHzjVzm7U4++Qp8vjUPRbFMJfIlt7uWz53cjFbwu2FEGxrtnZYruH6ulU5nCacEfuWcWQDtnaDoLN3kWVWn4YA4/ATFuhXah8ByCn1yCufbeKBjqQm7DhQz86yvt36K+x3p1KpMfNtpfs0dXGHCinM5K8RDqDTBNwNLvtOU6WfEWXrDYPCLK8AbJvfoRxK8PyntWPyI8BnDTpiAgBlGQzOdEXe8C5ynXfgVI3QtP9vnq4BglRVLlvT4tYLUXKn7Yfu4VMQ21dUxOJEOtYeICkkPlKJb1zawmsMj8vfsCmpRxRqEVB830L5Pau9ppN7w2B25AcoO7kJBHFHHR/2Pj1+P+6JjbGxKYF7FCmpF6u7jEb3w8RXzJ8ehdaLBuk83xBpUSEiUqh4Qy+gxum5X8aBiwxnQ==;zLXs/hiG9FK7CBOAlZyNjQ=="
 ---

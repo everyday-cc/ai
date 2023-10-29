@@ -3,25 +3,20 @@ category: news
 title: "UN chief appoints 39-member panel to advise on international governance of artificial intelligence"
 excerpt: "U.N. Secretary-General António Guterres has announced the appointment of a 39-member global advisory panel to report on international governance of artificial intelligence and its risks, challenges and key opportunities."
 publishedDateTime: 2023-10-28T12:29:00Z
-originalUrl: "https://www.stltoday.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_f104e140-35c2-5225-b64d-7a01bae73259.html"
-webUrl: "https://www.stltoday.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_f104e140-35c2-5225-b64d-7a01bae73259.html"
+originalUrl: "https://wcfcourier.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_e9588896-9394-5125-a247-39478f3e5fb5.html"
+webUrl: "https://wcfcourier.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_e9588896-9394-5125-a247-39478f3e5fb5.html"
 type: article
-quality: 23
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: The Waterloo-Cedar Falls Courier
+  domain: wcfcourier.com
 
 topics:
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/10/f104e140-35c2-5225-b64d-7a01bae73259/653bc59991b54.preview.jpg?crop=1747%2C918%2C3%2C85&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "UN Chief Appoints 39-Member Panel to Advise on International Governance of Artificial Intelligence"
@@ -34,6 +29,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "CbRJMoY00wZ2D3nCV2kohjjhUOyv257OVN68sbwutw3RClZHVjIO/ZvUakD28bUaEoXvrJDiGu9TBh1EyPhdXT9lEIxBF2tKUudHx/JAUWxjCeDO3RusBnNtXmDk3SbCzy2uobwoMIkRGeUhR0+C0Y+A3yjsY3FQEt1Xiu1sa9TvzPqg0Uoz/FkQ9VrxK0N+F8/Medwk+5maUfdemqK9vE/x/TQTxOpQBFX/Ka8FZwkKlo+RylQ2qt529txGlM/zUXJHjDD8C9XhZi6fThz8qD62ifjdbumn6ARGCMeXL1+nL69Rq43uRhD9G7mH77s7G6TxWcR+MpofqkzHoxKB9uoglbdrysqcJRRLHobwPg0=;NCJDn0hQq7JBSm5nmG7pFA=="
+secured: "CCYAqm7QwRDvnSXL6Gxm5Vv9qL1hUOgnwI43L5UckETsABJ8cnUedXGacRbNGL32nF1E1TFG5/hvGwlEM9aqg8z4E4fFOp1NO0uIxGZyF6Idu8XXCMqv7edWsEhu+XtrBSUloxPaDa51KYI+frulOAH2wo42mDMksqITEHhXloih522/0xM8o5EBxryrV9PRfGKB3S+H+rSJR9+6IZ6p6n5J5Tkl0GMcAqfCEOBvwfA4AbDYkZcLc6nCNaxTKbQlBsxbx8x+hdhPC+ds+MfsJrRWm5iMJg/76fdppEbUMZdwHEitoEDuchO8VWZRSAmHVbm2RY2mi2lRxpYYD+KALsXml7JuedW+utaAfkj9rtzxqLzSEckkMBURyEaErAT0ErKj7vw1tBHEnxrYoYEKu3o88nVTU1Lv1gwYOAgE/C1L0bk+P0nztFSZeYKvHawZpYZY4cp2oB0VxaFWGMoMqqcA3S0/f7S6WBU5QMyt3Db0n+pT+bswaePBd9cTg1Oh7UQm6kXlUwdq9dn31LBLUw==;rfXf1a7Ji2XNheBvsLysIA=="
 ---
 

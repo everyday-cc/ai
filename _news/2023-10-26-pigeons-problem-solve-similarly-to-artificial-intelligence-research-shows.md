@@ -2,9 +2,9 @@
 category: news
 title: "Pigeons problem-solve similarly to artificial intelligence, research shows"
 excerpt: "The intelligent birds, thought to be a nuisance by some, learn from consequences and can recognize resemblance between objects"
-publishedDateTime: 2023-10-26T15:06:00Z
-originalUrl: "https://www.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning?ref=astrofeather.com"
-webUrl: "https://www.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning?ref=astrofeather.com"
+publishedDateTime: 2023-10-26T16:06:00Z
+originalUrl: "https://www.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning?ref=upstract.com"
+webUrl: "https://www.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2023/oct/26/pigeons-smart-ai-learning"
 type: article
@@ -63,6 +63,6 @@ related:
         height: 1265
         isCached: true
 
-secured: "a7nmCSbfN4FVKIw5gcsc+UrAC6o9O77k9v25R59/O3XCLTtuZV+ULSamE3AQvV3zr7hI4zKQYlvsW3uMx2k8uV4f2TcttGIzSSHlGwT3b6V4ENFg3EP+H8SSnn7fzyp0g/Ci78FEC5uOJADvHzmLvKmPobkfx6+rzlhC9wgrUXxJIfprLSKG5yaFZmPuYao7xIslWZXtB38TfCh8fKd0SmopSRhvVpYu6FQBr6vpmF8p4N8SCQSxEQF5d3tPlKUNI7T/Gd6NtDxAG9SH4eGCnb9QOTPmQ8HVhjymaX3VK7zGGoIbbFVM1e8DTYXf4qgPIET20nkXdv5Q8McbtocipcmVFk5B3ljXGQinXvuzdPMS7Ups8it65daaTcV981QruK8STWWWl3ocr0eHbic/MjPZCEQ+QNFpFfEDt7DfODKEQw5Tqh5v7y1SouRxPGsKOhrrY1KfLcPZDI1ihEibNtkDQ/xcZ76kCnJcxuvRNwiKAvJMW/7eDJ/Kci6+qj4d+IDsfaQ5lMnAeT1JfobY0Q==;0KWV8A/wbrOJuKQxFVl2Jg=="
+secured: "ds+r2vketHOh40/kQ5RvoIXNr9LJ6Px7bXX6M+RVyXsSWHCDoo8l6uLTmzlY7POJDgI3tgPa/7CkCoCeMCbUkNeP32nqfDS55ERPUHA+scIl6f6tH4lN66A9GFYP5uDNvJzj3rfhvmJTDIts56QJ3/JNHj36YkiJrbmzvsCw/2EaM62XyVRpCX2L84qqXbM/eDemKbMKWsV6XwjgbE772P1/ew1pvFnMXOSgBu540ykPo/INCKGMam9TMYzJFLHBhk2V/MZj98jZX+locCE5pwmEqvRxW3ZNnaUXvPlZ1PygSUxBNMRTQPryIxGcseUMatBTlIZ2XPG6JibdMZz0DCi9lmED+WgoJQQDAEscmgg=;2JlaCz0Joq3cgNEJHkdjQg=="
 ---
 

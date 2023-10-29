@@ -146,22 +146,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Snapdragon 8 Gen 3 Official, Designed With Generative AI in Mind"
-    excerpt: "As expected, Qualcomm made the Snapdragon 8 Gen 3 official this week at its annual conference in Hawaii, and no, I’m not there and I’m mad about it. Qualcomm is hyping this chip to be an AI powerhouse,"
-    publishedDateTime: 2023-10-24T22:31:00Z
-    webUrl: "https://www.droid-life.com/2023/10/24/snapdragon-8-gen-3-official-designed-with-generative-ai-in-mind/"
-    ampWebUrl: "https://www.droid-life.com/2023/10/24/snapdragon-8-gen-3-official-designed-with-generative-ai-in-mind/amp/"
-    cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2023/10/24/snapdragon-8-gen-3-official-designed-with-generative-ai-in-mind/amp/"
-    type: article
-    provider:
-      name: Droid Life
-      domain: droid-life.com
-    quality: 59
-    images:
-      - url: "https://www.droid-life.com/wp-content/uploads/2023/10/Snapdragon-8-Gen-3-600x315-cropped.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "AI-powered healthcare personalization company raises $5M"
     excerpt: "RadiantGraph, an artificial intelligence-powered platform designed to ... biometric data and medication history to improve healthcare consumer engagement. The company will use the capital to fuel growth and partnerships with new healthcare organizations ..."
     publishedDateTime: 2023-10-27T21:49:00Z
@@ -250,15 +234,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How Creative Cloud and Generative AI Are Impacting Higher Education"
-    excerpt: "Tools powered by natural language processing can enhance instruction and prepare students to harness artificial intelligence in their post-college careers."
-    publishedDateTime: 2023-10-24T19:39:00Z
-    webUrl: "https://edtechmagazine.com/higher/article/2023/10/how-creative-cloud-and-generative-ai-are-impacting-higher-education"
-    type: article
-    provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 36
   - title: "Four out of Five European Financial Services Leaders Are Embracing Generative AI"
     excerpt: "Financial services organisations are making significant investments in generative AI to enhance their digital transformation processes."
     publishedDateTime: 2023-10-25T15:45:00Z

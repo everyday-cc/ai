@@ -101,34 +101,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 58
-  - title: "Qualcomm introduces new AI-optimized handset and laptop chips"
-    excerpt: "The onboard CPU was designed by Qualcomm’s Nuvia unit, which became part of the company through a $1.4 billion acquisition in 2021. Nuvia was founded two years earlier by former senior members of Apple Inc.’s chip design team. The Snapdragon X Elite’s CPU reportedly features 12 cores that can reach speeds of 3.8 GHz when they’re all active."
-    publishedDateTime: 2023-10-24T21:43:00Z
-    webUrl: "https://siliconangle.com/2023/10/24/qualcomm-introduces-new-ai-optimized-handset-laptop-chips/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Snapdragon-X-Elite.jpg"
-        width: 678
-        height: 381
-        isCached: true
-  - title: "Qualcomm invests further in mobile AI with chips announcements"
-    excerpt: "Qualcomm rolled out a number of key AI announcements today, as the company seeks to cement itself as a major player in mobile chips. Those announcements include a new compute plat"
-    publishedDateTime: 2023-10-24T21:11:00Z
-    webUrl: "https://www.aol.com/qualcomm-invests-further-mobile-ai-211140974.html?ref=biztoc.com"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/7SSlHirnre3fE3EDG45yYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODk-/https://media.zenfs.com/en/aol_yahoo_finance_433/2e03884ca93cf5e7c132b3ef00d68fc0"
-        width: 1200
-        height: 789
-        isCached: true
   - title: "Qualcomm’s new Snapdragon X Elite notebook chips are made with AI in mind"
     excerpt: "Touting twice the CPU performance compared to competitors and arriving in mid-2024, Qualcomm has revealed its new Snapdragon X Elite chips."
     publishedDateTime: 2023-10-25T07:51:00Z
@@ -166,29 +138,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 34
-  - title: "Qualcomm’s first Snapdragon X Elite chip for Windows PCs is a 12-core processor with up to 45 TOPS AI performance"
-    excerpt: "Qualcomm's first Snapdragon X Elite chip for Windows PCs is a 12-core processor with up to 45 TOPS AI performance"
-    publishedDateTime: 2023-10-24T19:26:00Z
-    webUrl: "https://liliputing.com/qualcomms-first-snapdragon-x-elite-chip-for-windows-pcs-is-a-12-core-processor-with-up-to-45-tops-ai-performance/"
-    type: article
-    provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 33
-    images:
-      - url: "https://liliputing.com/wp-content/uploads/2023/10/x-elite_03.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Qualcomm’s Snapdragon 8 Gen 3 brings big boost in CPU, graphics, and AI performance"
-    excerpt: "The Snapdragon 8 Gen 3 also features support for up to 24GB of LPDDR5x-4800 memory, has an integrated Snapdragon X75 5G modem, and Qualcomm’s FastConnect 7800 wireless system with support for WiFi 7 and Bluetooth 5.4."
-    publishedDateTime: 2023-10-24T19:11:00Z
-    webUrl: "https://liliputing.com/qualcomms-snapdragon-8-gen-3-brings-big-boost-in-cpu-graphics-and-ai-performance/"
-    type: article
-    provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 13
 
 secured: "HkkHNd4EeC1HvUbx7/cyXfY33G8zmyzn80+cAdljqFrkSRUs9BmvYPZxZO0Mp0anD/OIbyfv6i1798prvQ38q9sdGTR6Ka2swbZA1e40RoYaHHl3aDKoY59mZkhvlnittb0fZFlAjWsEOaW7ovKBn5PFhBWFftnE2Dzq1/PzOS7svPEHDmLVJfb522AnMz/0APYhxqf3RAO+t/+HKFJ+XYtVWyFvzukfBsfufvx8O9YbK6dtI4MCJlpJSxzZWcE5K11AaM7x6ZSAV+nTWrCjw2qz/rpkMlA72MRDK/fL5DNKR3qsUoCWwgOuxuSmAiBOc0KVD1fZFaymGOq4AJOh501M8bSVlKY6aNhvJioHVwyxqKRBG5YpUyrMr/EizAOLgEoBQS0z9BBpZO3ck9bgKDNr19EpPsSITnXAqdsh+E/EaDBGKEIzpTn1uySwX611MigisD3hfxKqkVUmXMFZ8JN+AEipsJgrpKzmw1ZDA89/BJ34sqNs+NkGSZ/YO2p+YqalExNsP7MpubyNNixd0g==;KC7Wl+nrQCuhYjC4xClWVQ=="
 ---

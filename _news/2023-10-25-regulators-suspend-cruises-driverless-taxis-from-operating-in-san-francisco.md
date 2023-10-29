@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Same Tech Used in Driverless Cars Is Helping Public Works"
-    excerpt: "Cities are turning to the same type of technology that allows robotaxis to navigate roadways to identify potholes and errant drivers. The technology is helping to remove humans from potentially dangerous tasks."
-    publishedDateTime: 2023-10-24T22:00:00Z
-    webUrl: "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works"
-    ampWebUrl: "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/63a88b7/2147483647/strip/true/crop/8095x4221+0+1178/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F97%2Fba%2Fd8068ed24c1dbd77ae58f1fbb0db%2Fshutterstock-2274798647.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Cruise, GM’s robotaxi service, suspends all driverless operations nationwide"
     excerpt: "The California Department of Motor Vehicles revoked the license for Cruise, which recently began transporting passengers throughout San Francisco, this week."
     publishedDateTime: 2023-10-27T15:09:00Z
@@ -117,29 +101,44 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "California DMV Suspended GM Cruise’s Driverless Cars as Not Safe and Not Truthful"
-    excerpt: "A Cruise’s driverless cars struck a pedestrian in downtown San ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting ..."
-    publishedDateTime: 2023-10-24T21:13:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/10/california-dmv-suspended-gm-cruises-driverless-cars-as-not-safe-and-not-truthful.html"
+  - title: "Cruise suspends self-driving robo-taxi service in Houston, nationwide"
+    excerpt: "HOUSTON - Two weeks after launching services in Houston, Cruise suspended its self-driving vehicle operations nationwide."
+    publishedDateTime: 2023-10-28T03:25:00Z
+    webUrl: "https://www.fox26houston.com/news/cruise-suspends-self-driving-robo-taxi-service-in-houston-nationwide"
+    ampWebUrl: "https://www.fox26houston.com/news/cruise-suspends-self-driving-robo-taxi-service-in-houston-nationwide.amp"
+    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/cruise-suspends-self-driving-robo-taxi-service-in-houston-nationwide.amp"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 34
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/10/Screen-Shot-2023-10-24-at-2.11.36-PM.jpg"
-        width: 1330
-        height: 1008
-        isCached: true
-  - title: "The case against self-driving taxis isn't worse than the average driver"
-    excerpt: "San Francisco is outlawing driver-less taxis. But columnist Tim Rowland notes that the average driver does worse daily than the robotaxis do."
-    publishedDateTime: 2023-10-26T09:32:00Z
-    webUrl: "https://www.heraldmailmedia.com/story/opinion/columns/2023/10/26/have-you-seen-other-drivers-robotaxis-really-arent-that-bad-tim-rowland/71313133007/"
+      name: KRIV
+      domain: fox26houston.com
+    quality: 24
+  - title: "California DMV suspends permits for Cruise’s self-driving robotaxis"
+    excerpt: "California's DMV has suspended GM's permit for AV deployment and testing, alleging the company has \"misrepresented\" the technology's safety"
+    publishedDateTime: 2023-10-25T18:15:00Z
+    webUrl: "https://www.cbtnews.com/california-dmv-suspends-permits-for-cruises-self-driving-robotaxis/"
     type: article
     provider:
-      name: The Herald-Mail
-      domain: heraldmailmedia.com
-    quality: 19
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 4
+  - title: "Cruise suspends self-driving car operations in Austin, nationwide"
+    excerpt: "Austin officials said residents complained about the cars not operating properly. The company’s suspension follows the launch of a federal investigation into incidents with pedestrians in San Francisco."
+    publishedDateTime: 2023-10-27T18:25:00Z
+    webUrl: "https://www.texastribune.org/2023/10/27/cruise-driverless-cars-austin-suspend/"
+    type: article
+    provider:
+      name: The Texas Tribune
+      domain: texastribune.org
+    quality: 4
+  - title: "The Cruise robotaxi reckoning highlights tensions over self-driving cars and how we regulate them"
+    excerpt: "The DMV suspended state permits for autonomous vehicle operator Cruise, saying the company omitted key information about a collision that injured a pedestrian."
+    publishedDateTime: 2023-10-26T13:44:00Z
+    webUrl: "https://www.latimes.com/california/newsletter/2023-10-26/the-cruise-robotaxi-reckoning-highlights-tensions-over-self-driving-cars-and-how-we-regulate-them-essential-california"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 0
 
 secured: "MtYOsOrtMYWxAfxRnUrfL/1BEpzKoru5uRWiKm96y035cjnHs5FCVsWJVIiyE+kZfDtOc6Tc0Go8aSVeYPzTJYM/cvFPR//L2D7HT05E2ykI3rvp4ZBlGU6YhwXcc6M9GQHZ55ulv3Qsypr5mhRjsndjZcnNcrZfslrzsS73FoYJvbUo8FzBRoirQtZ/oORL03+5w7g24NDgFwfEE4GvgExq6u3YpmCpuLKET8DkZajTfnqpO95lLCnf21hMfO6uP9QJAoZl76SD3B8wp3msLLrMgIRnOdMRHHBHP2r2E1g3jPhlIhlNOU3nNJYGA6MtcOdo3AFVDk5g80afnIsq9oiE6vmeMFN8E0n6gyPiDyg8XxAVhpCOvhKj9MgQ86lvuI0Ge0QYl/wsTmcJPqv9GHv8h14d4Pnv5TtDJl8uvMllLO6Rll0AASQbOvOxUywv68x4Rcp+jklwJGuHPb14NoSaPTpGmMt0UVhHz1mNzDxCie8xYMN/MRwCT4CRug7s7+jbY3Q8hglsUZjdik6LWw==;7mdWksfYqUJ07Y6xc6hl4w=="
 ---

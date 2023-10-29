@@ -39,6 +39,15 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Nvidia RTX 4090 GPU Prices Skyrocketed in the Past 2 Weeks"
+    excerpt: "Recently, the US government ratcheted up its demands that Nvidia immediately halt shipments of certain AI accelerators to China, causing a panic that beefy GPUs like the RTX 4090 would also become banned,"
+    publishedDateTime: 2023-10-27T16:29:00Z
+    webUrl: "https://www.extremetech.com/gaming/nvidia-rtx-4090-gpu-prices-skyrocketed-in-the-past-2-weeks"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "5yoLNycMYyeWFYUzwfoSitdA7t6dToJlh4SFnxfDQqkoQAffkcCH8oRDOJgxnGPXrTqpBo5b1ZmvIvR+MMpXNB5uaqLor8k7tC6AMztCQxt1V7Ativpbmi7GbpoY/vuzsugPA9BseZO2PUabfUyJVMS7tXp3mgp5r8//Tf+pZtrxI1OCJ5kwUjxKHnKcQaVbai0+1KopsseFkddtGvBuNvqObYn9ZL5EW1vw90LB1hJoftgp/3ACGKxKTmpHNGDT43yZgJWjPQeCCBJQW6yeP/yCU+m23oBVH1q0gH5D5PkNmwkU1JOCFZm/A7JNF8sHsUnOaPK11ic9oMrLcMAfoGOcyxB+Xi7EbLkmucg9nBgZf+POU15SQSyKkmsTLBglaqkZLLFnNhft/9TJ2pZXepilVhP1UPecHkGRdEL49XGmDPCedSXmuZ4nnaaZuWA4cqNOzN7DoYgdMV+z73QxgQt40I6YkCBmlfYRG4a8N061yY6kMiHYC0ofcmg/dvTBTCivxGtLzFr+JD5eP1vRpw==;qagt6iJijrkY4N1/PHJ0aA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-other
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/"
 type: article
 quality: 88
-heat: 128
+heat: 108
 published: true
 
 provider:
@@ -48,24 +48,6 @@ related:
         width: 500
         height: 312
         isCached: true
-  - title: "Google and Nvidia-backed CentML secures $37 million CAD to help companies deploy AI amid chip shortages"
-    excerpt: "As companies race to adopt AI amid chip shortages, Toronto-based CentML is developing a solution to help customers make the most of existing supplies."
-    publishedDateTime: 2023-10-25T13:00:00Z
-    webUrl: "https://betakit.com/google-and-nvidia-backed-centml-secures-37-million-cad-to-help-companies-deploy-ai-amid-chip-shortages/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 18
-  - title: "Google, Nvidia invest in AI startup CentML"
-    excerpt: "CentML – a Toronto-based AI startup has received new funding from Nvidia Corp (NASDAQ: NVDA) and Alphabet Inc’s (NASDAQ: GOOGL) Google. On Wednesday, the artificial intelligence company said it secured a total of $27 million from names that also include Radical Ventures, Deloitte Ventures, and Thomson Reuters Ventures."
-    publishedDateTime: 2023-10-25T18:07:00Z
-    webUrl: "https://invezz.com/news/2023/10/25/google-nvidia-invest-ai-startup-centml/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 17
   - title: "Twelve Labs Secures $10M from Nvidia, Intel, Others for AI Video Analysis"
     excerpt: "Twelve Labs, a generative artificial intelligence (AI) startup based in South Korea, has secured a combined investment of $10 million. Nvidia Corp., Intel Corp., Samsung Next, and Korean Investment Partners are the"
     publishedDateTime: 2023-10-27T11:39:00Z

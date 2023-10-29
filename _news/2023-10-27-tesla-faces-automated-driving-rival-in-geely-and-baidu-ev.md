@@ -2,19 +2,21 @@
 category: news
 title: "Tesla Faces Automated Driving Rival in Geely and Baidu EV"
 excerpt: "Competition is intensifying in China’s automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc."
-publishedDateTime: 2023-10-27T15:38:00Z
-originalUrl: "https://www.bnnbloomberg.ca/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-1.1990420"
-webUrl: "https://www.bnnbloomberg.ca/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-1.1990420"
-ampWebUrl: "https://www.bnnbloomberg.ca/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-1.1990420.amp.html"
-cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-1.1990420.amp.html"
+publishedDateTime: 2023-10-27T11:00:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2023-10-27/tesla-faces-self-driving-challenger-as-geely-and-baidu-launch-ev"
+webUrl: "https://www.bloomberg.com/news/articles/2023-10-27/tesla-faces-self-driving-challenger-as-geely-and-baidu-launch-ev"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 64
+heat: 124
+published: true
 
 provider:
-  name: bnnbloomberg
-  domain: bnnbloomberg.ca
+  name: Bloomberg L.P.
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -49,6 +51,20 @@ related:
         width: 1024
         height: 676
         isCached: true
+  - title: "Baidu and Geely's self-driving EV delivery begins, challenging Tesla's Model Y"
+    excerpt: "Baidu and Geely's joint venture has started delivering a self-driving electric vehicle (EV) to compete with Tesla's Model Y. The EV, called JiYue 01, is a premium SUV with autonomous driving and voice-activated control technology."
+    publishedDateTime: 2023-10-27T16:32:00Z
+    webUrl: "https://www.futurecar.com/11649/Baidu-and-Geelys-self-driving-EV-delivery-begins-challenging-Teslas-Model-Y"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 50
+    images:
+      - url: "https://img.futurecar.com/202310/27/l_653be6237402b."
+        width: 512
+        height: 512
+        isCached: true
   - title: "Baidu and Geely’s Collaborative Electric SUV, JiYue 01 has an Impressive 720 km Range"
     excerpt: "Geely owns 65% of Jiyue Automotive, focused on car assembly, while Baidu holds the remaining 35% of the company"
     publishedDateTime: 2023-10-28T00:43:00Z
@@ -82,6 +98,6 @@ related:
       domain: autonews.com
     quality: 34
 
-secured: "OtRYt/RZgZT0pPPxWkCU/iMkEl1z/UTTBk8SXuE+ypfA39IVOmJhI3z6HZa7FTtJwQqRCRTWn69KYw/qZxKpW1kg2WMwKvoKwa2DcOCn7ZYSPxrnLyTCHhOPxpTvVb06iGevcCwd/JNOEYDyB/0LfRaKbfKc4dDGLqa7XHLtlYGtcHC/QLgqhmooHkRLIgyB+BZeRHGA3N3vqHRHilHPgZahxukHbbWzzy+MAJk2DhuV2Asm4Zd7HLsnCkVcqUjBtmgi7/LWHh7T7mSPHnZZZSPKM1WBSdWksiKt9SHZOSe2utlhzvGlO5VDXpwBSGlM8pB3nh0S+GmT5cSaaoCzmC8OH928I9Oeqn3Op0ZXKG4=;okwbyNrOTlWxjbiwuutzdQ=="
+secured: "+pRDR0CeGClrJ+2Xo6Z7qMKYWdHi+ia3QWxdn+vtSgGdCM7HOr1OD9m8H2jv/tcAksd264CV3bZIW2mT5B0sx3IwnN0woeZ3GdUahNX1J6+7ngoIFmC6Z46UCMDQ/rVBrWt5LOJAfYI/r3OTlXFNdWcYcGTDGvQDE2jsU4rf6n17xHf3o+/TlxLlNhjJDXK1Ae01lN8S5fdhxKMCNNUL10JhfuiepHx0iNmTUK2sJPhqOteeGj4DOfMbHqQh2ogEzSbu2QwdpMD4TcVnwIASHjvthoQayFlv5kLxD7/c1NlXlmKkQI+iBC3mjBBHrnSWLE3Cc+ADWv9kv3d2MROI9gLX6tnf3GkHDlW57IZpvdkewrBCsIY8R3WhSZXNUnE7T8GHY9K6KhCE+Yo3R/CGnMCsyoxddUZgeVK/G0s/wAMy8SdrP+jW5WyOZ26m6wDz0V0m26IKHxXhpWIs4UXEbL6hT8n9fSbyWw0OYbjQMrbvG/RG681+3T9LWbEC2x2YiBTcGPPS292+ScFDLhv0Jw==;GmbJ+3Rqt5yat0VRUlZSwg=="
 ---
 

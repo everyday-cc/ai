@@ -2,9 +2,9 @@
 category: news
 title: "AI doomsday warnings a distraction from the danger it already poses, warns expert"
 excerpt: "A leading researcher, who will attend this week’s AI safety summit in London, warns of ‘real threat to the public conversation’"
-publishedDateTime: 2023-10-29T07:01:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert?ref=emergentmind"
-webUrl: "https://www.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert?ref=emergentmind"
+publishedDateTime: 2023-10-29T13:09:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "ZA+6NRDDVhRwks4qnKKdQcIowXau0i+kKeba+nY+8D7LKmqoZ2Kqm3iwJlJ4RjjEwjPhPSaRmyCiBZRV8dZV3fTzQ1ed1jXbM8KXkrLN+5rFXVfsaSAAAXzIX+YDPYhoOoDVbO6y6rYWkLSFAqdyD6TP3fbRi0onXY5vO1mdG3gDcf4CIlTj1/7qYjVY8Ivdb+wBhVW1tG1UVhpPo1T3DNEaV5p1mFLZCW4Z6vt5hnd7gLr5Tn09KA8B1tA3nNOaA2Qn9hETJzUO+vVenCbAh/2yIDYquBM5GYhlbYzoAMCdpux0IiWvwOh2/xYPOAQQyU1WDLek5TQg2HfIySQm8kgjT/PJR7Y8AFdtvPfFtHI=;zszciHu/hLfXE0QPXS1iNg=="
+secured: "XzOAxjIZbwETIRPTe4O/wDfIT2adeQa9swL7Ke1MGJlWqOWl9hk/9ses3mk2hGV6voiIEZ2IjxCmrLyATLYpIftKpTiK1g+mklHrMQ37Tdt/zGWYnrpsJ7ztPLXExv6ObSiEb3l/Vf34gtt0b15bEBkBcOVxxng1/FYsjAA2Ulkxngsleov4w8CNz/DYJeDKJ50lNh04MOTpQ2941PO8LCogSHPS63vL5AZpx5nm6T8MYOXLudrW/Sc9RwiyOZHtjjSo5qi+JKjEaJoiXSOQ5aRDY2ehnfUT2QcwbJKqScvp4qy9dkUd7OOBFFT2+kD6fH0YzvXDk9ilRo0t0qhINkethmkU0iRkF6SlcDyphPQ=;5Tj9iZC+kDwz4xfnyhro1w=="
 ---
 

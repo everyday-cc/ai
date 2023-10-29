@@ -23,38 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "AI chip wars: US curbs Nvidia GPU chip exports sooner than expected"
-    excerpt: "On Tuesday, chip designer Nvidia announced in an SEC filing that new US export restrictions on its high-end AI GPU chips to China are now in effect sooner than expected, according to a report from Reuters."
-    publishedDateTime: 2023-10-24T21:06:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 119
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-800x448.jpg"
-        width: 800
-        height: 448
-        isCached: true
-  - title: "US surprises Nvidia by speeding up new AI chip export ban"
-    excerpt: "On Tuesday, chip designer Nvidia announced in an SEC filing that new US export restrictions on its high-end AI GPU chips to China are now in effect sooner than expected, according to a report from Reuters."
-    publishedDateTime: 2023-10-24T21:06:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 104
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-800x448.jpg"
-        width: 800
-        height: 448
-        isCached: true
   - title: "US orders immediate halt to shipping of some AI chips to China, Nvidia says"
     excerpt: "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October."
     publishedDateTime: 2023-10-25T03:41:00Z
@@ -193,6 +161,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 51
+  - title: "Primer Joins NVIDIA Inception Program for Cutting-Edge AI Startups"
+    excerpt: "Primer offers trusted AI solutions to the U.S. government, strategic allies, and large enterprises. Powered by its proprietary natural language processing (NLP) technology, Primer's solutions enable leaders, operators, and analysts to access and analyze ..."
+    publishedDateTime: 2023-10-26T11:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/primer-joins-nvidia-inception-program-for-cutting-edge-ai-startups-1032743089"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Additional Chinese orders for Nvidia AI chips cut short as US ends 30-day notice period"
     excerpt: "Nvidia disclosed in a document submitted to the US Securities and Exchange Commission (SEC) that the 30-day notice period for the 2023 export controls update by the Biden Administration had been cut short."
     publishedDateTime: 2023-10-26T05:05:00Z
@@ -207,6 +184,24 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "AI chip startup Graphcore was meant to be a hot Nvidia rival. Industry insiders now think it's up for sale."
+    excerpt: "While the fortunes of AI chip market leader Nvidia have soared, British rival Graphcore has laid off staff and shut offices."
+    publishedDateTime: 2023-10-27T12:05:00Z
+    webUrl: "https://www.businessinsider.com/graphcore-nvidia-chip-rival-hopeful-may-be-up-for-sale-2023-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+  - title: "Big Tech earnings highlighted big spending on artificial intelligence. Here's what it means for AI king Nvidia"
+    excerpt: "This week's slate of tech earnings left little doubt that, as more Nvidia chips become available, there will be a place inside data centers for them to go."
+    publishedDateTime: 2023-10-27T16:37:00Z
+    webUrl: "https://www.cnbc.com/2023/10/27/big-tech-earnings-highlighted-big-spending-on-ai-what-it-means-for-nvidia.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 42
   - title: "US orders immediate halt to some AI chip exports to China, says Nvidia"
     excerpt: "Fellow tech company Intel ‘reviewing regulations’ as timing of move brought forward"
     publishedDateTime: 2023-10-25T06:19:00Z
@@ -225,24 +220,24 @@ related:
       name: Tasnim News Agency
       domain: tasnimnews.com
     quality: 34
-  - title: "Nvidia said the U.S.'s new AI chip restrictions have already taken effect"
-    excerpt: "New rules restricting Nvidia from selling even the chips it designed for the Chinese market in the country have now taken effect."
-    publishedDateTime: 2023-10-24T19:54:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/10/24/nvidia-says-new-ai-chip-restrictions-in-effect.html"
+  - title: "Google and Nvidia-backed CentML secures $37 million CAD to help companies deploy AI amid chip shortages"
+    excerpt: "As companies race to adopt AI amid chip shortages, Toronto-based CentML is developing a solution to help customers make the most of existing supplies."
+    publishedDateTime: 2023-10-25T13:00:00Z
+    webUrl: "https://betakit.com/google-and-nvidia-backed-centml-secures-37-million-cad-to-help-companies-deploy-ai-amid-chip-shortages/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 33
-  - title: "Nvidia RTX 4090 GPU Prices Skyrocketed in the Past 2 Weeks"
-    excerpt: "Recently, the US government ratcheted up its demands that Nvidia immediately halt shipments of certain AI accelerators to China, causing a panic that beefy GPUs like the RTX 4090 would also become banned,"
-    publishedDateTime: 2023-10-27T16:29:00Z
-    webUrl: "https://www.extremetech.com/gaming/nvidia-rtx-4090-gpu-prices-skyrocketed-in-the-past-2-weeks"
+      name: BetaKit
+      domain: betakit.com
+    quality: 18
+  - title: "Google, Nvidia invest in AI startup CentML"
+    excerpt: "CentML – a Toronto-based AI startup has received new funding from Nvidia Corp (NASDAQ: NVDA) and Alphabet Inc’s (NASDAQ: GOOGL) Google. On Wednesday, the artificial intelligence company said it secured a total of $27 million from names that also include Radical Ventures, Deloitte Ventures, and Thomson Reuters Ventures."
+    publishedDateTime: 2023-10-25T18:07:00Z
+    webUrl: "https://invezz.com/news/2023/10/25/google-nvidia-invest-ai-startup-centml/"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
+      name: Invezz
+      domain: invezz.com
+    quality: 17
 
 secured: "9vUeAeUx+siXm1VJbTCxJvsWqeXdSI2xljfxOG3G4hgVnqgoEgo/KtHWgYCtGX0R2u/MqZhreazYGcDik8jy+jmMjw77UgFgeH1XYSiy2qEnM8etjqa9+eW7WdrUVl2CpGoCd/BfOizb/o4UEu9zLaMDb0ptvRqMo2dM6NeaoTKZsv9MqNB+beK+OsFZFn7S6Uz60ULM9+bci17Q5U6utj5j4L6S76zaPxIMrLtnX1cqxq9LzQ1M3rYZOENTffwbj77fawrDj4uEUv+iciHdG4sdgPkejb+2YpoCuIW0m8uR/VLizv6V5wc6tC7do98PGRxLM4zxQSzuuRNrXf2syhYcS3RxNa7ERUQHZIm/mS0=;sMI4v+dms3RxoEAb7iuCyw=="
 ---

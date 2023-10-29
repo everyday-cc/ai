@@ -105,15 +105,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Artificial Intelligence and Research Ethics"
-    excerpt: "Artificial intelligence can increase efficiency and create novel insights for university research. However, with this new frontier of research practices comes great responsibility for researchers ..."
-    publishedDateTime: 2023-10-24T20:24:00Z
-    webUrl: "https://www.chronicle.com/events/virtual/artificial-intelligence-and-research-ethics"
-    type: article
-    provider:
-      name: The Chronicle of Higher Education
-      domain: chronicle.com
-    quality: 36
   - title: "The future of AI in Dallas and around the world"
     excerpt: "Business leaders focused on technology discuss how AI is going to change the face of business, work, and technology moving forward."
     publishedDateTime: 2023-10-27T17:11:00Z

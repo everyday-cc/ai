@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2682311-art
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar?amp"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/653ac9ed0a5631b800562beb/0x0.jpg?format=jpg&crop=3118,2077,x369,y0,safe&height=900&width=1600&fit=bounds"
         width: 1351
         height: 900
+        isCached: true
+  - title: "Silicon Valley-based Artificial Intelligence company Tiger Analytics opens first office in Bihar"
+    excerpt: "A Silicon Valley-based Artificial Intelligence company has opened an office in Bihar, making it the first IT company from the US to enter the state. Tiger Analytics, headquartered in Santa Clara, has opened its first office in Patna this month."
+    publishedDateTime: 2023-10-26T05:20:00Z
+    webUrl: "https://www.telegraphindia.com/business/silicon-valley-based-artificial-intelligence-company-tiger-analytics-opens-first-office-in-bihar/cid/1975455"
+    ampWebUrl: "https://www.telegraphindia.com/amp/business/silicon-valley-based-artificial-intelligence-company-tiger-analytics-opens-first-office-in-bihar/cid/1975455"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/silicon-valley-based-artificial-intelligence-company-tiger-analytics-opens-first-office-in-bihar/cid/1975455"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 44
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Oct/1696310862_office.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "In a 1st, artificial intelligence company from Silicon Valley enters Bihar"
     excerpt: "A Silicon Valley-based Artificial Intelligence company has opened an office in Bihar, making it the first IT company from the US to enter the state."

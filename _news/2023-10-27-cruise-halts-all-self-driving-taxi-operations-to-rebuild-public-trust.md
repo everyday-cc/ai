@@ -7,7 +7,7 @@ originalUrl: "https://au.pcmag.com/cars-auto/102335/cruise-halts-all-self-drivin
 webUrl: "https://au.pcmag.com/cars-auto/102335/cruise-halts-all-self-driving-taxi-operations-to-rebuild-public-trust"
 type: article
 quality: 54
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -43,33 +43,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "California suspends Cruise self-driving taxis - the service preparing to launch in Dallas"
-    excerpt: "Calfornia's decision to suspend General Motors-backed Cruise's permit comes as the company has been running tests in Dallas since June through the Oak"
-    publishedDateTime: 2023-10-24T20:34:00Z
-    webUrl: "https://www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/"
-    ampWebUrl: "https://www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2023/10/24/california-suspends-cruise-self-driving-taxis-the-service-preparing-to-launch-in-dallas/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 35
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/xahx3h403lIg1Jd-iz3n2Mi5jkI=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/LQ34RSW3KKK24OH7KW2YYF5OVM.jpg"
-        width: 830
-        height: 467
-        isCached: true
-  - title: "Cruise suspends self-driving robo-taxi service in Houston, nationwide"
-    excerpt: "HOUSTON - Two weeks after launching services in Houston, Cruise suspended its self-driving vehicle operations nationwide."
-    publishedDateTime: 2023-10-28T03:25:00Z
-    webUrl: "https://www.fox26houston.com/news/cruise-suspends-self-driving-robo-taxi-service-in-houston-nationwide"
-    ampWebUrl: "https://www.fox26houston.com/news/cruise-suspends-self-driving-robo-taxi-service-in-houston-nationwide.amp"
-    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/cruise-suspends-self-driving-robo-taxi-service-in-houston-nationwide.amp"
-    type: article
-    provider:
-      name: KRIV
-      domain: fox26houston.com
-    quality: 24
   - title: "Self-driving car company Cruise halts fleets in Houston, elsewhere in bid to ‘rebuild public trust’ amid feds’ probe"
     excerpt: "The self-driving car and driverless rides company Cruise said Thursday that it is halting its driverless operations across its fleets -- including in Houston -- as it said on Twitter that it is taking steps to “rebuild public trust,"
     publishedDateTime: 2023-10-27T12:07:00Z

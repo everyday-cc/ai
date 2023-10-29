@@ -63,6 +63,22 @@ related:
         width: 609
         height: 427
         isCached: true
+  - title: "Silicon Valley-based Artificial Intelligence company Tiger Analytics opens first office in Bihar"
+    excerpt: "A Silicon Valley-based Artificial Intelligence company has opened an office in Bihar, making it the first IT company from the US to enter the state. Tiger Analytics, headquartered in Santa Clara, has opened its first office in Patna this month."
+    publishedDateTime: 2023-10-26T05:20:00Z
+    webUrl: "https://www.telegraphindia.com/business/silicon-valley-based-artificial-intelligence-company-tiger-analytics-opens-first-office-in-bihar/cid/1975455"
+    ampWebUrl: "https://www.telegraphindia.com/amp/business/silicon-valley-based-artificial-intelligence-company-tiger-analytics-opens-first-office-in-bihar/cid/1975455"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/silicon-valley-based-artificial-intelligence-company-tiger-analytics-opens-first-office-in-bihar/cid/1975455"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 44
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Oct/1696310862_office.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "In a 1st, artificial intelligence company from Silicon Valley enters Bihar"
     excerpt: "A Silicon Valley-based Artificial Intelligence company has opened an office in Bihar, making it the first IT company from the US to enter the state."
     publishedDateTime: 2023-10-26T17:15:00Z

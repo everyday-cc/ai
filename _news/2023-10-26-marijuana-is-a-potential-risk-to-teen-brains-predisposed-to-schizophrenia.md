@@ -57,6 +57,20 @@ related:
         width: 2000
         height: 2078
         isCached: true
+  - title: "Discovery of protein interaction could lead to new schizophrenia treatments"
+    excerpt: "The discovery of a physical interaction between two proteins in brain cells that can be traced in mice to control of movement, anxiety and memory could one day open the door to development of new schizophrenia treatment strategies,"
+    publishedDateTime: 2023-10-26T18:12:00Z
+    webUrl: "https://www.news-medical.net/news/20231026/Discovery-of-protein-interaction-could-lead-to-new-schizophrenia-treatments.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 22
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2015/10/shutterstock_186886337_312c5408c21548f8aac48bbe3c985f8e-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "ApxTro0+Ixed6p/SOOT0dkBke8u/xR8pmJ7mjHAF8xwrBubsJsdDS7lmLmnkUaLQAAUu4YEjsoyiEmjxzvRQ3bZiIi+xcJJkfpcL3am1wZvnIfLgM1gtR/oVg3798hE8A3+HAW3Aa7uG6XuLINFUGm9AO3n7JOtnfE+ZFF5w7TJ0xQOlg3UbhHhUzR/+Hlh4PwtAQ3VP11KX8t66uMSOa3nixcYLPpHm+j2FnKlP9zU2WSB5l0kh9EUadTWEDnTynGvHzXc1OUJswAQntcImEuohr38v7ulVAhg1LfWcbgF4doAjcR4EsTE5KC/PZYP3QLWFJzqN4GwiKJx4UUD8unAvEwaBSgeoEix9IkSRRxhzSbv5ILymA/1TmSxu8vmJD4rin6pbI2iUtyEhuFSx8XKzJzkkaaPEN/CeVjRAzDxsJGY42xt0jRVn13KXOVrCQvdvUFSwDGI3/vrNb7LPfAOI6Q4EtlVSKItCH3h4eeYe5L63pRw41QRNfH2V7XCHJWPmnt8m7Fc7LLjGqxVWEQ==;mlgrhWICnIYVrDe/k+7pbg=="
 ---
