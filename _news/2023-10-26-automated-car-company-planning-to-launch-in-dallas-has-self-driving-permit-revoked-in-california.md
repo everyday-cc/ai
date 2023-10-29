@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox4news.com/news/cruise-automated-car-company-license-r
 cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/cruise-automated-car-company-license-revoked-california-dallas.amp"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "California suspends tests of GM's Cruise self-driving car following safety concerns"
-    excerpt: "California authorities on Tuesday suspended testing of Cruise self-driving cars being developed by General Motors, citing safety concerns following a"
-    publishedDateTime: 2023-10-25T04:28:00Z
-    webUrl: "https://timesofindia.indiatimes.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/articleshow/104686865.cms"
-    ampWebUrl: "https://m.timesofindia.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/amp_articleshow/104686865.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/amp_articleshow/104686865.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 38
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-104686923,width-1070,height-580,imgsize-110560,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "GM self-driving car subsidiary withheld video of a crash, California DMV says"
     excerpt: "The California Department of Motor Vehicles Tuesday revoked Cruise’s permits to test and operate fully driverless vehicles on the state’s roads. The California DMV said, in part, it was because Cruise,"
     publishedDateTime: 2023-10-25T21:52:00Z
@@ -57,15 +41,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Arizona says closely monitoring use of self-driving vehicles"
-    excerpt: "The Arizona Department of Transportation said it was aware of the announcement from California and was closely monitoring the situation. \"Public safety is our highest priority, and we are in regular communication with and closely monitoring Cruise and other companies testing and operating self-driving vehicles in Arizona,"
-    publishedDateTime: 2023-10-25T21:58:00Z
-    webUrl: "https://www.aol.com/arizona-closely-monitoring-self-driving-175410320.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
 
 secured: "peWvoIfip4x1behU0jaiv6aiS0k7HR/k/bYZt2v7LZL7BqPMTBTOl+xemplHuiyCjAMME9W05QTmjP0HGLCay/0xgmE5vB6D8CJDamemODGX1iHiy636cl8E2RYBPFFI3UTPc9wL9uA0ozmvS9EaV9GPkTcgffwYR5eXzn6PAGtOj6QvY5W1djBSttvnPFF524VFBvTlPuHtoh5FbYW41JS8TVIzswYqw4Skpt8IvC7zk33GUX282PBDXpTXbzvkDAphTW35MHZQf+6Xr37BmjbhggBmds3HvxN38ag01UOl6wwJy1DhJOotEAtGXVfBFwauDmToGIrrC8yvAANiq9It55OAzkQj1Eotn8JuI0IJnN8qyapl3wLbEHUrJQGVxSVxvKfpD3bf3zsVvFGs4caakEcKYslzlx/WSOqE+Tzjqi5EEH7YHPBqRfdRNmOCBnXEO+ibsSFDH1/W75ioKimBr2BG9rKaFyufgnPXeZb5GtX9bjUCgtqwbFjnjobDHbFvKcMmf472GZ72yzbFgw==;42JPdrHR3ULe054SfKEyNg=="
 ---

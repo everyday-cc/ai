@@ -25,68 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "US orders immediate halt to shipping of some AI chips to China, Nvidia says"
-    excerpt: "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October."
-    publishedDateTime: 2023-10-25T03:41:00Z
-    webUrl: "https://www.bbc.com/news/business-67213134"
-    ampWebUrl: "https://www.bbc.com/news/business-67213134.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-67213134.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 102
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10F92/production/_131522596_gettyimages-1258278958-1.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Generative AI is Coming to Robots, Courtesy of NVIDIA"
-    excerpt: "As generative AI continues to revolutionize text and natural language processing, it’s also impacting computer vision. This transformative technology is expected to bring advancements in autonomous machines and robotics, where cameras play a pivotal role."
-    publishedDateTime: 2023-10-26T18:27:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-robots-nvidia/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 88
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/09/ew_09272023-will-ai-replace-jobs.png"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "NVIDIA Brings The Power Of Generative AI To The Edge"
-    excerpt: "NVIDIA wants to turn the Jetson family of devices into powerful edge computing devices capable of running state-of-the-art foundation models."
-    publishedDateTime: 2023-10-25T15:43:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/10/25/nvidia-brings-the-power-of-generative-ai-to-the-edge/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/10/25/nvidia-brings-the-power-of-generative-ai-to-the-edge/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/10/25/nvidia-brings-the-power-of-generative-ai-to-the-edge/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/653937292c9fb9a0418eaf7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1000
-        height: 546
-        isCached: true
-  - title: "US orders immediate halt to some AI chip exports to China, Nvidia says"
-    excerpt: "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October."
-    publishedDateTime: 2023-10-25T03:41:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-67213134?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-67213134.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67213134.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10F92/production/_131522596_gettyimages-1258278958-1.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google, Nvidia Back AI Startup That Helps Combat Chip Shortage"
     excerpt: "Nvidia Corp. and a Google venture fund have joined a seed round of funding for a startup that helps developers squeeze more computing power out of specialized processors used to train AI, potentially alleviating a major logjam for the burgeoning field."
     publishedDateTime: 2023-10-26T10:41:00Z
@@ -121,34 +59,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "US Government Orders Immediate Stop to Chinese AI Chip Exports"
-    excerpt: "Tech giant Nvidia has announced that President Biden’s administration has ordered it to stop shipping advanced AI chips to China immediately. These restrictions were always in the works and due to start next month. However, for an as-of-yet unknown reason, this date has been brought forward to today."
-    publishedDateTime: 2023-10-25T17:00:00Z
-    webUrl: "https://tech.co/news/us-stop-ai-chip-exports"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 54
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/10/25125830/nvidia-chip.jpg"
-        width: 1920
-        height: 960
-        isCached: true
-  - title: "US tells Nvidia to immediately cease AI chip exports to China"
-    excerpt: "US chip giant Nvidia revealed that the US government has instructed it to immediately halt the export of certain high-end artificial intelligence chips to China."
-    publishedDateTime: 2023-10-26T09:52:00Z
-    webUrl: "https://technode.com/2023/10/26/us-tells-nvidia-to-immediately-cease-ai-chip-exports-to-china/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 54
-    images:
-      - url: "https://technode.com/wp-content/uploads/2023/10/data-denter-dgx-a100-tour-1cC-L@2x.jpg"
-        width: 1252
-        height: 704
-        isCached: true
   - title: "US tightens rules on AI chip sales to China in blow to Nvidia"
     excerpt: "US tightens rules on AI chip sales to China in blow to Nvidia on facebook (opens in a new window) US tightens rules on AI chip sales to China in blow to Nvidia on linkedin (opens in a new window)"
     publishedDateTime: 2023-10-26T13:23:00Z
@@ -199,42 +109,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 42
-  - title: "US orders immediate halt to some AI chip exports to China, says Nvidia"
-    excerpt: "Fellow tech company Intel ‘reviewing regulations’ as timing of move brought forward"
-    publishedDateTime: 2023-10-25T06:19:00Z
-    webUrl: "https://www.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
-  - title: "US Government Orders Nvidia to Halt AI Chip Shipments to China"
-    excerpt: "The US government has instructed semiconductor designer Nvidia to cease the shipment of certain high-end artificial intelligence chips to China, according to a company filing disclosed on Tuesday."
-    publishedDateTime: 2023-10-26T13:21:00Z
-    webUrl: "https://www.tasnimnews.com/en/news/2023/10/26/2978558/us-government-orders-nvidia-to-halt-ai-chip-shipments-to-china"
-    type: article
-    provider:
-      name: Tasnim News Agency
-      domain: tasnimnews.com
-    quality: 34
-  - title: "Google and Nvidia-backed CentML secures $37 million CAD to help companies deploy AI amid chip shortages"
-    excerpt: "As companies race to adopt AI amid chip shortages, Toronto-based CentML is developing a solution to help customers make the most of existing supplies."
-    publishedDateTime: 2023-10-25T13:00:00Z
-    webUrl: "https://betakit.com/google-and-nvidia-backed-centml-secures-37-million-cad-to-help-companies-deploy-ai-amid-chip-shortages/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 18
-  - title: "Google, Nvidia invest in AI startup CentML"
-    excerpt: "CentML – a Toronto-based AI startup has received new funding from Nvidia Corp (NASDAQ: NVDA) and Alphabet Inc’s (NASDAQ: GOOGL) Google. On Wednesday, the artificial intelligence company said it secured a total of $27 million from names that also include Radical Ventures, Deloitte Ventures, and Thomson Reuters Ventures."
-    publishedDateTime: 2023-10-25T18:07:00Z
-    webUrl: "https://invezz.com/news/2023/10/25/google-nvidia-invest-ai-startup-centml/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 17
 
 secured: "VhmQBiUgv9H59J+Cfpkyvdk+mxU8x73w7cVkWM9lKFrIuIccxsc7z+s4Q5iehYY/gKmlMTvcgNDls7YINQBR3E3Nfq4YkMSgXjhNqXjJXbxKJot5qIjLnpTt4DfuZ4BGm5knoEhETssKTQscgyFsYTonYbVDykBm2duwX8Ry0OmDcu/6/Fk1CXcyslfBLPMKQ4ZvYArsYvR8hp70QrVKRde3Nsxnh5PPNcfNaj/pYndysoQY8Y105gTMn0Mtd2FEOsqalJ9j6CFAy9RhXRJWteFEu/d6WRU8B9A2T572YhhQNRRjFOzcoHoVOOFqx7wazmtv5GeoPTmc0zWSbbGcPFnogNPapfTljS4bD3y+p/iefjXnOxbyYeYsY+H1RLhNojFOcFwCIULk/KvI6u/k8+aP+x+WUUU75G/W2RpbT842GZX8NAeTKw3QqBoS+HfHR3pi4Lyn5ZqfM43pGXXorppsHow+aa6vwqS+Z/Qdh343ourXFi//CvU5E5UDj6lO/diefSFS+b+RA1uTAslXyA==;Busu+ugBnsvDIB3065kCaA=="
 ---

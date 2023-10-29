@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-created child sexual abuse images ‘threaten to overwhelm internet’"
-    excerpt: "Internet Watch Foundation finds 3,000 AI-made abuse images breaking UK law"
-    publishedDateTime: 2023-10-25T03:51:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/3c328a09668acd9bdcb834c0f299dbddb5d2bc75/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=7c5c370b440ef54ca12319d2baeaa923"
-        width: 620
-        height: 372
-        isCached: true
   - title: "AI-Generated Child Sexual Abuse Images Could Flood the Internet. A Watchdog Is Calling for Action"
     excerpt: "The already-alarming proliferation of child sexual abuse images on the internet could become much worse if something is not done to put controls on artificial intelligence tools that generate deepfake photos,"
     publishedDateTime: 2023-10-25T16:36:00Z

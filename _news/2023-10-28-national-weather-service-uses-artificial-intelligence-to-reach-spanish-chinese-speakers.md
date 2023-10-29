@@ -20,29 +20,34 @@ topics:
   - AI
 
 related:
-  - title: "NOAA leverages AI for weather forecast translation"
-    excerpt: "The artificial intelligence tool will replace the National Oceanic and Atmospheric Administration’s manual process for Spanish and simplified Chinese."
-    publishedDateTime: 2023-10-27T18:47:00Z
-    webUrl: "https://www.nextgov.com/artificial-intelligence/2023/10/noaa-leverages-ai-weather-forecast-translation/391580/"
+  - title: "US Government Orders Immediate Stop to Chinese AI Chip Exports"
+    excerpt: "Tech giant Nvidia has announced that President Biden’s administration has ordered it to stop shipping advanced AI chips to China immediately. These restrictions were always in the works and due to start next month. However, for an as-of-yet unknown reason, this date has been brought forward to today."
+    publishedDateTime: 2023-10-25T17:00:00Z
+    webUrl: "https://tech.co/news/us-stop-ai-chip-exports"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
+      name: Tech.co
+      domain: tech.co
+    quality: 54
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/10/27/102723_getty_stormfromspace/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://images.tech.co/wp-content/uploads/2023/10/25125830/nvidia-chip.jpg"
+        width: 1920
+        height: 960
         isCached: true
-  - title: "Lilt Supports AI-Powered Translated Forecasts Offered By NOAA's National Weather Service"
-    excerpt: "Lilt, the leading AI solution for enterprise translation, is proud to provide the AI-powered technology behind a new experimental language translation website by NOAA and the National Weather Service."
-    publishedDateTime: 2023-10-27T14:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-lilt-supports-ai-powered-translated-forecasts-offered-noaas-/2023/10/27/9906899.htm"
+  - title: "White House to unveil sweeping AI executive order next week, tackling immigration, safety"
+    excerpt: "The Biden administration on Monday is expected to unveil a long-anticipated artificial intelligence executive order, marking the US government’s most significant attempt to date to regulate the evolving technology that has sparked fear and hype around the world."
+    publishedDateTime: 2023-10-25T19:52:00Z
+    webUrl: "https://www.bostonglobe.com/2023/10/25/business/white-house-unveil-sweeping-ai-executive-order-next-week-tackling-immigration-safety/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 28
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/zFFu-uCaYDi7mkBrMzxB8x6x6j8=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/KOQJ6TSTGAPBWC7OX5L7UUMIWY.jpg"
+        width: 506
+        height: 337
+        isCached: true
 
 secured: "oyACtqdNYWwUfNw8FPptqYxyG+YItfob3TYMpcI3uKucEQ0i46FEe3VgEI9dioU7nRDjf7q9dZMMdkLC5vcfFieFyLd4X7G33WsyOYKflJ8CwR0+tG4v3fA29Y9qf8WTwUbN+WRUL4jsnIPWVrMlV249ryCNdbOZMlVUyHjof2a2qx8X+SKamcAnKRHW0TnVU+s+ICMQxSAwJqUdXCM2h4hcobqTxLoIg/jK94tNI/UHJ7YzzLiqJjYqS3tL8iERHNUL53L4hxMvWJe31PrW7hwJ/vG7azakSi0f91h9c1tn7ES3/5wMKThbYjs64LJ527fMyjJuZde4Uo2rMup0A6DJVWkUiuPBRglbD6xJffnfmtB6UYtKESu+ZqnaYYZwEJ7YLnvqvlbAkjWR7a6uFdJQgcDTYzLa3sPJVllt48Epre7+yqpFh1ceU+bb8RN+7P9y4G46X/ph6PoLf3xUWxKfuvgrmKtSyy/dJK1m42ucvlDpZWrxGlCywXteRFDK8xyIzTQtwcOxWi6CBYqI9g==;bRDvmFQv7Pftwfv52hfpUw=="
 ---

@@ -48,20 +48,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 34
-  - title: "Almost 80 per cent of European financial services brace themselves for Generative AI impact"
-    excerpt: "A reported 77 per cent of European financial services leaders expect Generative AI to significantly affect productivity and change roles."
-    publishedDateTime: 2023-10-25T05:00:00Z
-    webUrl: "https://www.cityam.com/almost-80-per-cent-of-european-financial-services-brace-for-generative-ai-impact/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 29
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/11/artificial-intelligence-g2bb4b502b_1920-scaled-1.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "cJuEM9Yh44aG0LGYJI4zRc71JfF4vnhcJ87QUNS6qaYrqSWLjA6t+z/XSog3ipxNMN4w2VYInnxh9DS+uTIXJON8f5XZBrYAVdNGZ0I049i65ztnYYORdVPNZvPKPQj2n4C0Qa3WnnBB0qEooJX8K4dsmLXZr5D43iyQHwAoGRCoahL8feZS2O05YVSYmbn3phhL9+tGFkQxVQMaLD1zxe/MnzrFi7iLXkXYPiMYlBtzOy+QVY7WSGT5wgHWQUDUSsBx8n7K5YYVKXUZisAv0E/k6qbOsfs62WdMvvU9cfs7XOq9nFiP6wGey+osRi9DZ+y7oGdu667asGMYdfCPoJpq/KhWInfuVOKfOwl50Dz6lkxWqZrkmsWyHv07b3bH2zYyP2NfH26dAQu4IZCG8oowswWLWA4n3p0mtRecDe8ep0mDXUvwXGoeLj88UHX7Lf4vWAcxvy9GfL0k33SIobLP/YbWEkdHqB8AE7xTR7uxc9cuk4p4jyW2rqKIhGHWqlyw6kDX2EdpUOqy8+xVXQ==;/vgDkMmY6T4vJVqZdssmVw=="
 ---

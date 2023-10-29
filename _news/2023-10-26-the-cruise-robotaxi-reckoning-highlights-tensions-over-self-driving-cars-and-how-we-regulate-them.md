@@ -138,6 +138,15 @@ related:
       name: The Texas Tribune
       domain: texastribune.org
     quality: 4
+  - title: "How a robotaxi crash got Cruise's self-driving cars pulled from California roads"
+    excerpt: "San Francisco — Two months before Cruise's driverless cars were yanked off the streets here for rolling over a pedestrian and dragging her about 20 feet, California regulators said they were confident in self-driving technology and gave the company ..."
+    publishedDateTime: 2023-10-29T18:09:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2023/10/29/robotaxi-crash-cruise-self-driving-cars-pulled-california-roads/71372528007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 0
 
 secured: "g+3Y3jV2PisV6L8whkWTki2IKImoefUY3W4fGkEB/b7gJU316qcAQEhGUy0f3Op+9q8taOjVYGgLlMvsSL5xl2pBB0AwrIKHYgzrh5ZsDP4R7QNWjKCax4pklnHHrovIyj77KU3wcPq52jtSWJtvOlqSyJBwvWKXAJcGUS3PZk2UdDQE4wsxoCEZ22thmtbli58HAGWaNY6ZW6Imidsc8aZaWI/cIi67w0ymUzGVzuCLEGby/FYVUgXMCrC7IzX0cWLWKtlpVe6vww72mUMKWT6Eu91lQ4Z+XhyoKQV+JqDkkzlT8pRXC9IpD4gL+thHnXE2Lo8IUAy8Sg/B/+okyzG9QduMyCVqrNGyK2P2F7wFzAmZ9I60SxVrJWE+r1mWULPmOCzl2KPPvDnwCSadjLERRp6+bU6LdMYEeOIoRrNeUstKt+0fgdl1jzNBNhGK40Qr3dLIV8U4JIpC/v619TWRRDhJcTA/pff0aDORzkM8hL7+hfF6MvBhCfNBtOQoBxgiiNo0i2dA2j4Z5Uww8w==;M3xZzKBBR/7fFyrqHc3gHw=="
 ---

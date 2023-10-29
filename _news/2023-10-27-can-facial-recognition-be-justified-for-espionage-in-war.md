@@ -51,22 +51,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Police force trials facial recognition technology"
-    excerpt: "Facial recognition technology can be used by police to scan large groups of people and by running photos through an image database known as a \"watch list\". Chris Philp, MP for Croydon South and minister for crime, policing and fire said the technology was being used by the Metropolitan Police at large events such as football matches."
-    publishedDateTime: 2023-10-26T05:51:00Z
-    webUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o?at_medium=social&at_ptr_name=facebook_page&at_campaign_type=owned&at_campaign=Social_Flow&at_link_origin=BBC_News%3A_East_of_England&at_link_type=web_link&at_bbc_team=editorial&at_link_id=E9BB4184-73CC-11EE-8964-CFE5D89D5CC3&at_format=image"
-    ampWebUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9b65/live/d1e43770-7370-11ee-8623-0398dceccf41.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "TTD EO launches facial recognition attendance"
     excerpt: "Tirupati: Facial Recognition Attendance System for TTD employees was launched at TTD Administration Building in Tirupati on Thursday.Starting the system, TTD EO AV Dharma Reddy said that more"
     publishedDateTime: 2023-10-27T03:34:00Z
@@ -221,6 +205,15 @@ related:
     provider:
       name: Echo news
       domain: echo-news.co.uk
+    quality: 19
+  - title: "Police force trials facial recognition technology"
+    excerpt: "Facial recognition technology can be used by police to scan large groups of people and by running photos through an image database known as a \"watch list\". Chris Philp, MP for Croydon South and minister for crime, policing and fire said the technology was being used by the Metropolitan Police at large events such as football matches."
+    publishedDateTime: 2023-10-26T12:51:00Z
+    webUrl: "https://www.aol.com/police-force-trials-facial-recognition-055014950.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 19
 
 secured: "+z+D3BFUIMvXVyAKShwLuZ+PEkX57eP+bLtEK3vqS2TGFk0ihpxM7UeCnhX6SWzVvEpC5ZO2DhaG6o3/Utl8H5u3SVyHAJSo97OGRYYG+NsYjMdK+d6egTHDr5WONq/JX85cRUFlEcP+s5ZoAA4s04vu5+HaZI1I/hPdtO6OUa94fvLwvF5SC6/GTA2yDPARdLZMDXqpTXj3XnD+MUrmsynJTKx477G9RthvBzcNNx84B3qFASl/FjSgj8Wo7cUpGJCIUODX0Pr/fuM6sXbkTL00gLbKyZU12eu4Ne5P518AVpljMANsul9cGbtOh5NVc/bo7zkLjI63iCjZgBBNANCWLTRJ/vAZWI/Jrqe+RGbCN6L01caKQfZNcDOJAOzESOLil5tDZBtLhXA/2OEboQ5MuJIlsnheXloRNLQhlPLIBz55r863O3aCC4ZkZUkF11PFtqm0urxuT9a0aG1YwdlcZFxSieYI4LmyVmYiPRE4DRuuGz7uKvWgfQ7qSXJexNDZLDKhWdyvV8/LaKGZcA==;q9DWDJscYLJr3UZsI3yJlQ=="

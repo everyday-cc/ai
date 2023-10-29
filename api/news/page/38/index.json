@@ -2,6 +2,93 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-10-02-report-outlines-uses-of-ai-in-healthcare-education-financial-systems-and-agriculture.md",
+      "title": "Report outlines uses of AI in healthcare, education, financial systems and agriculture",
+      "excerpt": "A report, titled 'South Africa and Artificial Intelligence' published by Boston Consulting Group (BCG), the University of the Witwatersrand (Wits) Business School and Microsoft South Africa has highlighted currently possible uses for artificial intelligence (AI) systems to make a positive impact on South Africa's healthcare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineeringnews.co.za/article/report-outlines-uses-of-ai-in-healthcare-education-financial-systems-and-agriculture-2023-10-02",
+      "originalUrl": "https://www.engineeringnews.co.za/article/report-outlines-uses-of-ai-in-healthcare-education-financial-systems-and-agriculture-2023-10-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.creamermedia.com/assets/articles/images/resized/0001090830_resized_digitaltechinmedicine1022.jpg",
+          "width": 1022,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T02:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering News",
+        "domain": "engineeringnews.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-police-intelligence-tool-quickly-sends-information-on-risk-to-frontline-officers.md",
+      "title": "Police intelligence tool quickly sends information on risk to frontline officers",
+      "excerpt": "using IBM Watson AI and so-called i2 visual tech spun off from IBM. It provides “dramatically more useful” intelligence, especially about firearm threats, the papers said. This is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newstalkzb.co.nz/news/national/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/",
+      "originalUrl": "https://www.newstalkzb.co.nz/news/national/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newstalkzb.co.nz/media/kpknelnw/police-patrol-car-rnz.jpg?rmode=crop&rnd=133407107303770000&height=395&width=635&quality=95&scale=both",
+          "width": 635,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newstalk ZB",
+        "domain": "newstalkzb.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-02-what-does-generative-ai-mean-for-software-companies.md",
       "title": "What does generative AI mean for software companies?",
       "excerpt": "AI and machine learning will boost the creativity and problem-solving abilities of software developers. It will also create a new set of winners across the software industry.",
@@ -1060,93 +1147,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-commentary-nothing-to-fear-with-artificial-intelligence.md",
-      "title": "Commentary: Nothing to fear with artificial intelligence",
-      "excerpt": "Swiss scientist Conrad Gessner provided an early warning about the dangers of information overload. He worried that broad access to information was going to be “confusing and harmful” to the",
-      "sourceUrl": null,
-      "webUrl": "https://www.swnewsmedia.com/savage_pacer/news/opinion/columnists/commentary-nothing-to-fear-with-artificial-intelligence/article_bd868fd8-5d56-11ee-8bd3-cb8cc11d7962.html",
-      "originalUrl": "https://www.swnewsmedia.com/savage_pacer/news/opinion/columnists/commentary-nothing-to-fear-with-artificial-intelligence/article_bd868fd8-5d56-11ee-8bd3-cb8cc11d7962.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/swnewsmedia.com/content/tncms/assets/v3/editorial/0/84/0847f0d8-2e8b-54cb-be91-d9daf634e5a0/5afc44dfa3e0e.image.jpg?resize=400%2C593",
-          "width": 400,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shakopee Valley News",
-        "domain": "swnewsmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-artificial-intelligence-ai-faqs.md",
-      "title": "Artificial intelligence (AI) – FAQs",
-      "excerpt": "Q: What was the need of artificial intelligence? A: Out of millions of human beings, only Newton wondered why the apple falls to the ground. Rest of the population was busy blaming each other for ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/04/GSB-pic.jpg",
-          "width": 687,
-          "height": 989,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
-      "publishedDateTime": "2023-09-30T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspend
 cdnAmpWebUrl: "https://www-nbc29-com.cdn.ampproject.org/c/s/www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/?outputType=amp"
 type: article
 quality: 56
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -138,6 +138,15 @@ related:
     provider:
       name: Los Angeles Times
       domain: latimes.com
+    quality: 0
+  - title: "How a robotaxi crash got Cruise's self-driving cars pulled from California roads"
+    excerpt: "San Francisco — Two months before Cruise's driverless cars were yanked off the streets here for rolling over a pedestrian and dragging her about 20 feet, California regulators said they were confident in self-driving technology and gave the company ..."
+    publishedDateTime: 2023-10-29T18:09:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2023/10/29/robotaxi-crash-cruise-self-driving-cars-pulled-california-roads/71372528007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
     quality: 0
 
 secured: "0GKzEFo+Z6E7F05CqBOdzz5MEzSRSTSHo5w7xbPzjdkyE8UVRREm4hBvoBdarqU9yzNLWvJSvqpFjVsFyT4F3tpxJpv3xfnyzCyTFtzc+UNYsYZI9H79xno+5neavsoiOH8ZPVX5Hcy9uyaTnahwBKiUuieo8LjJn5umvijzn9LeXJv/7mPlqX85hnoyFmnlkwPnzB+Tho3HIrZUACWC78dBA9NDcJKFIquq8sWJCCJc4co1ZJwdTz34AT4eGdKKw1jMI+nnDcB2rlkLaOCaVtAoRV84RkqTEFRezJbUkAyjVpNpJwjHFMuJ/AyFuNIjnZyBrCKiaNXBE8dauOp1HazaprGsD1HTL76REK0y0z5bachWHc4shoajF2PrdXvznd8QaKaz+HrxTOtwjkRTmviB2lKL03ZTgVKFNLyUgAUXiLjL84yiB8mEYNHcidrHtY52bHCswT7iXFyR6BVHicrbbY/MpJh+ku0wkgMUKVbf+hYDeBMappVrBBo/wLuvnAC+nJ0gGmWdedXSIxuVpw==;eWnQdvXrO7OgSetN4O4p3Q=="

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107307150/South-Korea-Artificial-Intelligence-
 webUrl: "https://menafn.com/1107307150/South-Korea-Artificial-Intelligence-AI-In-Healthcare-Market-Worth-236-Billion-By-2032-Themarketpublicist"
 type: article
 quality: 50
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://www.fmiblog.com/wp-content/uploads/2023/10/Internet-of-Robotics-Things-Market.jpg"
         width: 1000
         height: 562
-        isCached: true
-  - title: "Healthcare Analytical Testing Services Market Envisions US$ 49.6 Billion Valuation by 2032| Future Market Insights,Inc."
-    excerpt: "The global Healthcare Analytical Testing Services Market was estimated by Future Market Insights to be worth roughly US$ 11.9 billion in 2021. The market is anticipated to grow at a CAGR of 14% over the following ten years,"
-    publishedDateTime: 2023-10-25T04:39:00Z
-    webUrl: "https://www.fmiblog.com/2023/10/25/healthcare-analytical-testing-services-market-envisions-us-49-6-billion-valuation-by-2032-future-market-insightsinc/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 15
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/10/Healthcare-Analytical-Testing-Services-Market.jpeg"
-        width: 1688
-        height: 1125
         isCached: true
   - title: "Cloud AI Market Size to Grow USD 887 Billion by 2032 at a CAGR of 35.8% | Valuates Reports"
     excerpt: "The Global Cloud Artificial Intelligence Market was valued at USD 42.7 Billion in 2022 and is projected to reach USD 887 Billion by 2032, growing at a CAGR of 35.8% from 2023 to 2032."

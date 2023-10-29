@@ -36,20 +36,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "Teachers feel overwhelmed by advances in artificial intelligence"
-    excerpt: "The arrival of generative artificial intelligence tools like ChatGPT in the world of education raises many questions about academic integrity. Teachers are on the front line of this revolution, but many of them feel overwhelmed by this technology's arrival in the classroom."
-    publishedDateTime: 2023-10-25T03:30:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/25/teachers-feel-overwhelmed-by-advances-in-artificial-intelligence"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/24/2353272.jpg"
-        width: 1240
-        height: 697
-        isCached: true
   - title: "Governments must not rush into policing AI"
     excerpt: "Regulators must be prepared to react quickly if needed, but should not be rushed into setting rules or building institutions that turn out to be unnecessary or harmful. Too little is known about the direction of generative AI to understand the risks associated with it, let alone manage them."
     publishedDateTime: 2023-10-26T12:35:00Z

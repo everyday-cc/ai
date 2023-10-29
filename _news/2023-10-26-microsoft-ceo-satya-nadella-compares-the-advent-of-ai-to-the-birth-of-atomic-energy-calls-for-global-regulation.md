@@ -56,22 +56,6 @@ related:
         width: 1302
         height: 900
         isCached: true
-  - title: "Opinion: Microsoft and Alphabet results show Wall Street only cares about AI"
-    excerpt: "In addition, AI offerings ranging from chatbots to tools that can streamline the writing of reports require ever more computing power, and both Azure and Google Cloud are starting to offer new software applications to address those needs. Microsoft Chief ..."
-    publishedDateTime: 2023-10-25T01:37:00Z
-    webUrl: "https://www.marketwatch.com/story/microsoft-and-alphabet-results-show-wall-street-only-cares-about-ai-65202238"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/microsoft-and-alphabet-results-show-wall-street-only-cares-about-ai-65202238"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-and-alphabet-results-show-wall-street-only-cares-about-ai-65202238"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 101
-    images:
-      - url: "https://images.mktw.net/im-870352/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AWS Q3 Earnings Preview: From Sales Growth, AI To Microsoft"
     excerpt: "AWS earnings report for Q3 2023 will unveil cloud sales growth, AI wins, Amazon investments and potentially Microsoft discussions. Here’s what to watch for."
     publishedDateTime: 2023-10-25T15:34:00Z
@@ -234,20 +218,6 @@ related:
         width: 1184
         height: 680
         isCached: true
-  - title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
-    excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
-    publishedDateTime: 2023-10-25T14:58:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 69
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEwXC9NaWNyb3NvZnQtbG9nb182NTM5M2JkMjZkNzFhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Copilot is ready for takeoff: Microsoft rolls out artificial intelligence for Windows"
     excerpt: "AI is coming to Windows environments — which can be a big asset when implemented correctly and a security nightmare when it’s not."
     publishedDateTime: 2023-10-26T09:00:00Z
@@ -400,6 +370,20 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 53
+  - title: "AI-generated imagery is the new clip art as Microsoft adds DALL-E … – The Verge"
+    excerpt: "By James Vincent, a senior reporter who has covered AI, robotics, and more for eight years at The Verge.Microsoft is adding AI-generated art to its suite of"
+    publishedDateTime: 2023-10-29T21:22:00Z
+    webUrl: "https://www.inferse.com/771623/ai-generated-imagery-is-the-new-clip-art-as-microsoft-adds-dall-e-the-verge/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 52
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-697.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft's AI bets boost cloud business, Alphabet yet to find silver lining"
     excerpt: "Google-parent Alphabet's cloud business suffered as long-time rival Microsoft's took off in the September quarter, demonstrating early signs that the Windows maker's investment in artificial intelligence was paying off."
     publishedDateTime: 2023-10-25T11:56:00Z
@@ -414,20 +398,15 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Microsoft reports higher profits and revenue powered by cloud computing and AI investments"
-    excerpt: "Microsoft has reported a 27% increase in profit for the July-September quarter compared to the same time last year."
-    publishedDateTime: 2023-10-25T01:23:00Z
-    webUrl: "https://www.click2houston.com/business/2023/10/24/microsoft-reports-higher-profits-and-revenue-powered-by-cloud-computing-and-ai-investments/"
+  - title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
+    excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
+    publishedDateTime: 2023-10-25T14:58:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
     type: article
     provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 46
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VI5XY6RSCZC6PLLMESP3GOEGHM.jpg?_a=ATAPphC0"
-        width: 700
-        height: 432
-        isCached: true
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 49
   - title: "NobleAI Announces Groundbreaking Collaboration with Microsoft Azure Quantum Elements"
     excerpt: "Our focus on using Science-Based AI to supercharge the development of new chemicals, formulations, and materials for product development naturally aligns very well with the massive scale and simulation capabilities of Azure Quantum Elements,"
     publishedDateTime: 2023-10-25T12:05:00Z

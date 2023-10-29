@@ -33,6 +33,15 @@ related:
         width: 645
         height: 363
         isCached: true
+  - title: "Arizona says closely monitoring use of self-driving vehicles"
+    excerpt: "The Arizona Department of Transportation said it was aware of the announcement from California and was closely monitoring the situation. \"Public safety is our highest priority, and we are in regular communication with and closely monitoring Cruise and other companies testing and operating self-driving vehicles in Arizona,"
+    publishedDateTime: 2023-10-25T21:58:00Z
+    webUrl: "https://www.aol.com/arizona-closely-monitoring-self-driving-175410320.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 4
 
 secured: "xUDEfSV3ojjXJdQif/eH+hoET97qosegnN5HG8OrwQHpaa99ETvK7FEGgF5D1adWW635VlXUf8i0nF1QzE6RctbBcA9fGtQdfcqubUiVW77+EHpWO+TygQ9zqzOgaeFWAe8qQrH2mjVNXFICfJRnAu34rjDO1JQyYAf+4wOzLHjDFTdF3D18AJNIg/0X3wsMoTAFHM9kJY2t7R2mmqQVDfvrX4eB27z3jWM6alNnRjW4Y6X4+nxy59WgoaZhuvy9XDuRiolb5AvoyEvRuTL5P9X1lF+0zSDx52PUywrNf7M6666v9fhSaVLGX9l/TbM40VPazK9ZTke8/OvcLN5qX1hgtxHgpjD8MxoaHvcSwa9S7hoaDQKsx6G5ZZex8wKLgJmxbCRNk0g4VnwxSdTkamomZM32z8efL6RKJmphTv35F/Bnp9GlDZmSqyIx6S9ukOTqg/MPxLPctFhaCrQB1hn2EHreTLV7NaYhqAI5UkzwM4m2S6LHZAUb2Hpaxzm6r27zB7xdD4NUB718njMARg==;+nzAFerLvMx+RoK2SqhLsw=="
 ---

@@ -19,52 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "California suspends tests of GM's Cruise self-driving car following safety concerns"
-    excerpt: "California authorities on Tuesday suspended testing of Cruise self-driving cars being developed by General Motors, citing safety concerns following a"
-    publishedDateTime: 2023-10-25T04:28:00Z
-    webUrl: "https://timesofindia.indiatimes.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/articleshow/104686865.cms"
-    ampWebUrl: "https://m.timesofindia.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/amp_articleshow/104686865.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/amp_articleshow/104686865.cms"
+  - title: "Triad man researches self-driving vehicles"
+    excerpt: "Mother asks drivers to pay attention on year after child hit, killed on Halloween in Oak Ridge"
+    publishedDateTime: 2023-10-25T20:05:00Z
+    webUrl: "https://myfox8.com/video/triad-man-researches-self-driving-vehicles/9116234/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 38
+      name: WGHP
+      domain: myfox8.com
+    quality: 24
     images:
-      - url: "https://static.toiimg.com/thumb/msid-104686923,width-1070,height-580,imgsize-110560,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
+      - url: "https://i0.wp.com/myfox8.com/wp-content/uploads/sites/17/2023/10/AB79C6EC143E641313B051A624A3E85E.jpg?w=2000&#038;ssl=1"
+        width: 645
+        height: 363
         isCached: true
-  - title: "Automated car company planning to launch in Dallas has self-driving permit revoked in California"
-    excerpt: "A driverless vehicle company planning to launch Dallas is halting operations in California after the state yanked its license over safety concerns."
-    publishedDateTime: 2023-10-26T01:23:00Z
-    webUrl: "https://www.fox4news.com/news/cruise-automated-car-company-license-revoked-california-dallas"
-    ampWebUrl: "https://www.fox4news.com/news/cruise-automated-car-company-license-revoked-california-dallas.amp"
-    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/cruise-automated-car-company-license-revoked-california-dallas.amp"
+  - title: "Dubai tests self-driving electric robots to clean up beaches"
+    excerpt: "Dubai is testing the use of self-driving electric robot vehicles to clean beaches in the city. Dubai Municipality initiated the testing phase of a self-driving electric vehicle dedicated to cleaning bicycle routes along the beaches of Jumeirah and Umm Suqeim."
+    publishedDateTime: 2023-10-25T13:36:00Z
+    webUrl: "https://www.arabianbusiness.com/culture-society/dubai-tests-self-driving-electric-robots-to-clean-up-beaches"
     type: article
     provider:
-      name: KDFW
-      domain: fox4news.com
-    quality: 31
-    images:
-      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/10/932/470/102023-DALLAS-CRUIS-AUTONOMOUS-VEHICLES-LORI-PKG-L_00.01.49.04.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-  - title: "GM self-driving car subsidiary withheld video of a crash, California DMV says"
-    excerpt: "The California Department of Motor Vehicles Tuesday revoked Cruise’s permits to test and operate fully driverless vehicles on the state’s roads. The California DMV said, in part, it was because Cruise,"
-    publishedDateTime: 2023-10-25T21:52:00Z
-    webUrl: "https://www.erienewsnow.com/story/49882209/gm-self-driving-car-subsidiary-withheld-video-of-a-crash-california-dmv-says"
-    type: article
-    provider:
-      name: Erie News Now
-      domain: erienewsnow.com
-    quality: 21
-    images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/25332846_G.jpg?lastEditedDate=1698163547000"
-        width: 500
-        height: 333
-        isCached: true
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
 
 secured: "1hx14FmQzzpTsrTvsVaBNksImJECZTojXFamQgAnb4I0RQi71lco1hvtUVhQg002eLalPWMNjdfLJgm01Bzw+iwyXerasXCG7fo9Q49pyJH7S0hJdDJcp1EXqJqRGDtvNOu8+P0Z5OFNvYX140dyu/J0tAnTCP1YnYbVuvhW5OxMy9a+kZdC5dmlzrVTWBjX+9AnQVk77+/WwjAO6TXjSWY5kuyMpz0YDW9KiN/6zoQLRqGRtwZAdNW5pqLgxmFM+hDRLuX1dbMlBezdJNO+rHz16HTCegvuy5wuauHs+Uil216v60awrwlS59FoTQOvQiSyo+Av88e1zbCRquZQl/EIZd7S5qGMVPmnPZet5RD5D7iXJVMU9RGPeMysvY/6v753dhTdGQjRPsPxLkgP6djjx5WNTMswDmHb4k3Bah08ip97pXZP5l0QNLggMnJk6nGu6WMlCPZWjHBmzDc+9isU+SINuHdjsgud5Mpq6EPpgcVKdSXtmUGbSZdzKVQFDHDkmK17jH4c0CLrAeOD/w==;5DqrPoQjZd4N4bOYnftWUA=="
 ---

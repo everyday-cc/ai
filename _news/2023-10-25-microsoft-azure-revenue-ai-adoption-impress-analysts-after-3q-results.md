@@ -3,10 +3,10 @@ category: news
 title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
 excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
 publishedDateTime: 2023-10-25T14:58:00Z
-originalUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca"
-webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca"
+originalUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
+webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
 type: article
-quality: 69
+quality: 49
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEwXC9NaWNyb3NvZnQtbG9nb182NTM5M2JkMjZkNzFhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Microsoft, Rockwell Automation to bring Gen AI to robotics development"
@@ -54,22 +48,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6538bd6db32724b8cff0ecd5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1302
         height: 900
-        isCached: true
-  - title: "Opinion: Microsoft and Alphabet results show Wall Street only cares about AI"
-    excerpt: "In addition, AI offerings ranging from chatbots to tools that can streamline the writing of reports require ever more computing power, and both Azure and Google Cloud are starting to offer new software applications to address those needs. Microsoft Chief ..."
-    publishedDateTime: 2023-10-25T01:37:00Z
-    webUrl: "https://www.marketwatch.com/story/microsoft-and-alphabet-results-show-wall-street-only-cares-about-ai-65202238"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/microsoft-and-alphabet-results-show-wall-street-only-cares-about-ai-65202238"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-and-alphabet-results-show-wall-street-only-cares-about-ai-65202238"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 101
-    images:
-      - url: "https://images.mktw.net/im-870352/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "AWS Q3 Earnings Preview: From Sales Growth, AI To Microsoft"
     excerpt: "AWS earnings report for Q3 2023 will unveil cloud sales growth, AI wins, Amazon investments and potentially Microsoft discussions. Here’s what to watch for."
@@ -385,6 +363,20 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 53
+  - title: "AI-generated imagery is the new clip art as Microsoft adds DALL-E … – The Verge"
+    excerpt: "By James Vincent, a senior reporter who has covered AI, robotics, and more for eight years at The Verge.Microsoft is adding AI-generated art to its suite of"
+    publishedDateTime: 2023-10-29T21:22:00Z
+    webUrl: "https://www.inferse.com/771623/ai-generated-imagery-is-the-new-clip-art-as-microsoft-adds-dall-e-the-verge/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 52
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-697.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft's AI bets boost cloud business, Alphabet yet to find silver lining"
     excerpt: "Google-parent Alphabet's cloud business suffered as long-time rival Microsoft's took off in the September quarter, demonstrating early signs that the Windows maker's investment in artificial intelligence was paying off."
     publishedDateTime: 2023-10-25T11:56:00Z
@@ -398,20 +390,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--E5TvGMZ9--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-24t235637z_2_lynxmpej9n11d_rtroptp_3_microsoft-results.jpg?itok=VKFzkcJM"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Microsoft reports higher profits and revenue powered by cloud computing and AI investments"
-    excerpt: "Microsoft has reported a 27% increase in profit for the July-September quarter compared to the same time last year."
-    publishedDateTime: 2023-10-25T01:23:00Z
-    webUrl: "https://www.click2houston.com/business/2023/10/24/microsoft-reports-higher-profits-and-revenue-powered-by-cloud-computing-and-ai-investments/"
-    type: article
-    provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 46
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VI5XY6RSCZC6PLLMESP3GOEGHM.jpg?_a=ATAPphC0"
-        width: 700
-        height: 432
         isCached: true
   - title: "NobleAI Announces Groundbreaking Collaboration with Microsoft Azure Quantum Elements"
     excerpt: "Our focus on using Science-Based AI to supercharge the development of new chemicals, formulations, and materials for product development naturally aligns very well with the massive scale and simulation capabilities of Azure Quantum Elements,"
@@ -547,6 +525,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "rjNlPqHb29kZsg4OzB3z584d1abt0lRdo9IsP3APGmR4Jq4WAIbhQtrkSdhd2zbVUJHTX1HTYUTCoFCXnpTB/IbOJVCxu2h8o+5PuPgTEe1NRQ7dNDq9pOBcy14gmoCWpExxY4e3vFe9e2ayXsI+WJFNfnuyH7Z+g28fnr6LS5p+jP6IGfoo/ScFezK9t/fLUMt0idXqMx+IBTX+2RdVyQXM3oK3chbdgVJC/R/rsDNtcQc1SchhLR/hVpRY71OGBU7UdObEndIHo4oQINzHqzVI82MZTrO2iUZOGYoZ8HCbjEffo83lqU8Z7kpsgKdQ3zwghVXB22GN8pgVNtrnofwge8E4kF0OuyNnqKsTc8KNO/TLIggu+ksYpN8OCmVo83Kk12dO2BK7NcTsvUE1whuDwS+/kIxp7tStacUkIy5YtAfOMdQewb7cds/KPdLhh57dfqc8GYOinPqtPwyLZBrl8DGegXTqV3uoL3EXF6ZjLHqE3PeTlA9khiEocUQQGbtQ8sW1ayvv3gecgne1AA==;kh4SS2UztI/bIpm2YzbYWw=="
+secured: "qMNXW3CEYfGxaZIGvLsKSBQGFGPb/Hr3xNrSbHXkd75TA6PODueRD8KBNDwm8ifUK12JXLrn9MYAG4kDFBI70SaD6txOCpMPMPyBe6CdDfA4C2YC7TQAZBOQF6uxcsIYf/zBPR/gMupgqAtgNWWKbhrC1y0TmKavni2fNqIYhgzO1UhjRwHfSvve7TWdhJo6ao7fXebp//OZXdowYIv21Qv6kbAgJWHQao+X9KLclRO/Jfrew5GWH1a/5ivCIfVU4QDn7To3s5xwOwabk/ZO4QJi401ANHh8s3GqiCl3+tRNLSNfqiCZOTP2teKW9bOh+N2g/OLiwD/t7pzvNgqsGWT4f191bp2efPO1eqGYSacHBc6CKnECwjuofaQ5Rn4q6HK+PTe4BN3mn2WlADNHgEk8I3CstGpLe0ZMuN/vT5x7S9ZNzhKpC1BI4+415nAg66pdFQFB08NbWGqIX7CEUxVgf7MI/NTGw3ffG8oxMOpGaq6JFy+qCvU+KAQ/ZhcJ0bgRG+WHBnk9WlbJrWvRfA==;mo0ME3vYYauJIXXwj45HxA=="
 ---
 

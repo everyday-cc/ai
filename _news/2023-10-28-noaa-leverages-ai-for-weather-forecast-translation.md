@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "National Weather Service uses artificial intelligence to reach Spanish, Chinese-speakers"
-    excerpt: "The weather service wants to make sure speakers of other languages get vital forecasting information, especially for extreme weather events."
-    publishedDateTime: 2023-10-28T00:44:00Z
-    webUrl: "https://www.newsday.com/news/weather/national-weather-service-translation-artificial-intelligence-an63xo09"
-    ampWebUrl: "https://www.newsday.com/amp/news/weather/national-weather-service-translation-artificial-intelligence-an63xo09"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/weather/national-weather-service-translation-artificial-intelligence-an63xo09"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 28
   - title: "Lilt Supports AI-Powered Translated Forecasts Offered By NOAA's National Weather Service"
     excerpt: "Lilt, the leading AI solution for enterprise translation, is proud to provide the AI-powered technology behind a new experimental language translation website by NOAA and the National Weather Service."
     publishedDateTime: 2023-10-27T14:20:00Z

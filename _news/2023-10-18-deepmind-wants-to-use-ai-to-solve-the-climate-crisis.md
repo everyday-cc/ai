@@ -1,26 +1,30 @@
 ---
 category: news
 title: "DeepMind Wants to Use AI to Solve the Climate Crisis"
-excerpt: "DeepMind, the Google-owned artificial intelligence lab, has been using its AI expertise to tackle the climate change problem in three different ways, as Sims Witherspoon, DeepMind’s climate ..."
-publishedDateTime: 2023-10-18T11:59:00Z
-originalUrl: "https://www.wired.co.uk/article/wired-impact-deepmind-ai-climate-change"
-webUrl: "https://www.wired.co.uk/article/wired-impact-deepmind-ai-climate-change"
+excerpt: "WIRED spoke with DeepMind’s climate lead about techno-utopianism, ways AI can help fight climate change, and what’s currently standing in the way."
+publishedDateTime: 2023-10-18T11:00:00Z
+originalUrl: "https://www.wired.com/story/wired-impact-deepmind-ai-climate-change/"
+webUrl: "https://www.wired.com/story/wired-impact-deepmind-ai-climate-change/"
 type: article
 
 provider:
-  name: Wired UK
-  domain: wired.co.uk
+  name: Wired
+  domain: wired.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://media.wired.co.uk/photos/652eadf475839a12b76f0625/16:9/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg"
+  - url: "https://media.wired.com/photos/652eb3f04e4619c8054877c0/191:100/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg"
     width: 1280
-    height: 720
+    height: 670
     isCached: true
 
-secured: "vEfEHOnX2cZLXgsSzXCZQR6EOjJPKwFTTZO/4NJswgX6APISC/QffSx9+BSxTqirMmXEmPobRG4zfeoPKzQ/if/uw/OtRE19I3dj5Il/DW2OmufsrYdYWjY25DTj7OicUDqCzQoS0o5nwapFtYwHjALe+YQTjFvG9VaAlcIj4IP5K14Ee6pzZz8ETLdNDf5AzedxVMjr7oEijMLaZVpTv2VD/nlWqPwY1Rpj/4CftvT8aNPu0ZHnmoOnZ3Cp3FuSxNE69+jLGpqKZ3TXfJlXPzvN5blIYaoXomtP5iE4Y4BqpdjAZvyuDKZUEG9d63BHLpbDtAi9r0Fa9llwI+UAU2Vbz9cvVNeaVAVXaIOMkXE=;AknEDt/ctlDzmbradW+FjA=="
+secured: "1qmnvhXvGNHDwY4QYxJiaOOF2hm3YLHe/QcSvyfFmpFuSZFTytLv01cFGVVxPtZp8Nkrh8M9uyWGLTrKQGcsliDbwXAFrHSFF3aaaGVCfPJsb9z1Mqa3uINFCHC+49DJ8jcntqgEjDdSr9povhKvDVbxjU9nlGM4V+Ad0XF74Zt0xPaJ+/VPzF1+F4X24+EUSoSUPWqCQNA12v8riInnKuTci8KtvaOFK2bvlViAtJfGL7q6JxB7RXbCsFSB73F9lfRe43g5ojgfjgazVzDFn/hNoBIGjegsJ/m4XL6n6mGOsn38MD2vg2a2vq8ggV0NUyLNUMdihNQbhJbCbs8CaR850e/YLVFRH9FEQzDqP1k=;dEKpl3yhMSKnp+LWI0dIog=="
 ---
 

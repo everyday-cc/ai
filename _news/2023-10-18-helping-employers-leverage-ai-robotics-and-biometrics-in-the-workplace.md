@@ -18,6 +18,12 @@ topics:
   - AI in Robotics
   - AI
 
+images:
+  - url: "https://arizent.brightspotcdn.com/dims4/default/b02b75e/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fbe%2F57%2Fd0114ff249a286a9185d4b6d4768%2Fpexels-michelangelo-buonarroti-8728560.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
 related:
   - title: "Amazon's AI And Robotics Progress Accelerates Warehouse Efficiency and Safety"
     excerpt: "The overhaul involves the introduction of AI-powered sortation machines and robotic arms, transforming the dynamics of product movement within Amazon’s fulfillment centers. This innovation will help to augment the productivity and safety of human workers, the Wall Street Journal reports."
@@ -91,6 +97,6 @@ related:
       domain: thehill.com
     quality: 19
 
-secured: "L2rsHqeWz4G1HU5yMaYFx/RrfscFbn1IjFeIR4nxCrgi5jWm667mTLs6Cfhyg4ZFILAd514QpEhYimOsLLfuIdX3D+cf8nwJbqt3sL+7ry/cXedf5PYP90A1WP1OD9DOxpEb+rEXs0YtCC2X4L6xh6qfauI65ptfQzYWIl3H599S/V4NuDPatc6SL9HOSHevnLhmX3haCkTiuk2E8ptvmEuCdjGZp6CXmrCxKpjTrMv8owIxKhXmBTyR3cO0w+uFwz/1a/OxMAL+NA6S8XkligHql1XWuxRryNqmUy4OrGn86IeD4URueLmwOMlW/Q1ol1jRwQ2G3f/712+qiEYP/05pb1S/vgnTJJNHps4R+0o=;sxTUsd7Lf8GFbeeOPOop4g=="
+secured: "7mPx6S3l9ri+kRb9eAKOUty0xZuc14kvRr9kF9hIljBXCOsOEQW0ObrqYstLmlQPmll0i8dbjAENUPd+M9LsnWucrLTGVOLv1KZlwQMKskADOsPfrjFiVvJEMBF+hP6Ax1Q4z+/sNFKD64Vh+iv+S/fkKO5cP8NgWuJH7ySD5YDMs0eS4IBQwZTLpHChR1mWBptqBhyO0+xYEP6iOke11J8ionF5lULjKm+pg2chQJpnHliOAQ5NjeuhArgpfJK5bUqQEhGJPqBxQDcC8K4rDVjBBvYgplulg4QdYDJQCNPaBmvB7aShTxzSsULDBUp22sahg3xKPxIRq8HOZVfzG7crk3HhUHNbEBtjyE9gsS4=;GrtHAcSvZA0Kau3XozYCBw=="
 ---
 

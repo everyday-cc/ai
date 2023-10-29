@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "California suspends tests of GM's Cruise self-driving car following safety concerns"
-    excerpt: "California authorities on Tuesday suspended testing of Cruise self-driving cars being developed by General Motors, citing safety concerns following a"
-    publishedDateTime: 2023-10-25T04:28:00Z
-    webUrl: "https://timesofindia.indiatimes.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/articleshow/104686865.cms"
-    ampWebUrl: "https://m.timesofindia.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/amp_articleshow/104686865.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/auto/cars/california-suspends-tests-of-gms-cruise-self-driving-car-following-safety-concerns/amp_articleshow/104686865.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 38
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-104686923,width-1070,height-580,imgsize-110560,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "Automated car company planning to launch in Dallas has self-driving permit revoked in California"
     excerpt: "A driverless vehicle company planning to launch Dallas is halting operations in California after the state yanked its license over safety concerns."
     publishedDateTime: 2023-10-26T01:23:00Z
@@ -57,15 +41,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Arizona says closely monitoring use of self-driving vehicles"
-    excerpt: "The Arizona Department of Transportation said it was aware of the announcement from California and was closely monitoring the situation. \"Public safety is our highest priority, and we are in regular communication with and closely monitoring Cruise and other companies testing and operating self-driving vehicles in Arizona,"
-    publishedDateTime: 2023-10-25T21:58:00Z
-    webUrl: "https://www.aol.com/arizona-closely-monitoring-self-driving-175410320.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
 
 secured: "DKF2/xkgnJA5CvCXavFAIHZu+a7yk6KFyMx+wrmRUm2xpXVIEiDI269MHsnWemOXKDa9LvpOE8ajcet8mBaP3bFCHGBkUmGlnGw5tbwc7iRvjH6q2scmw52FqqykxoyC6LQKg+h4yK1Zv94Q+mJbNiciV44YA/RcU31bgX9uZBvUcBoUCpZ8KlEVCkSto+JTUIypDcjjhwYuSXeikv3vOQOmQ94/d4ZFvdwa/dwxjoTP09gydFHyAbuOwYVIAVThw8UmfeQSSQy/vq3avGVs2qqVJBXv02tX7sIq2BBgCVOoxSMfpEAxiOZ+ej5Nm3xILCZjx/C51A9Yc9wE3/xx8Z+J89xfRileI7e3Gm4AquM=;jdM1gC+OhsagzS49Pr98Jg=="
 ---

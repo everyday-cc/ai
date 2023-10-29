@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "UK workers support AI but want greater organizational transparency"
-    excerpt: "New research from Asana’s Work Innovation Lab shows that UK workers are happy to embrace working alongside AI, and are even considering organizational policies toward the technology when job hunting."
-    publishedDateTime: 2023-10-25T04:00:00Z
-    webUrl: "https://www.computerworld.com/article/3709052/uk-workers-support-ai-but-want-greater-organizational-transparency.html"
-    ampWebUrl: "https://www.computerworld.com/article/3709052/uk-workers-support-ai-but-want-greater-organizational-transparency.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709052/uk-workers-support-ai-but-want-greater-organizational-transparency.amp.html"
+  - title: "Transportation and AI: Does Ethics Matter?"
+    excerpt: "As Artificial Intelligence (AI) becomes more commonplace in transportation, how does ethics come into play in a world run by humans?"
+    publishedDateTime: 2023-10-27T23:59:00Z
+    webUrl: "https://eturbonews.com/transportation-and-ai-does-ethics-matter/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
+      name: eturbonews
+      domain: eturbonews.com
+    quality: 54
     images:
-      - url: "https://images.idgesg.net/images/article/2023/09/artificial-intelligence-applications-development-programming-100946463-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://eturbonews.com/wp-content/uploads/2023/10/AI-image-courtesy-of-Gerd-Altmann-from-Pixabay.jpg"
+        width: 400
+        height: 282
         isCached: true
 
 secured: "4MH5aHXWXrPCCe0MfuvKZK030ypfZBmSy+aF+1HQsXEqIoIM+RampRnww60zIYoUbXyIQ8JGWSWjggqSJ3kQLtP1wfgzgzjb13avX4sRLs+/pPv6LAXA5gxRJQhthTk/96tSyxhZgTvkZh3ho0NRVdYM8j21S96ueP4Uw8Ldqlez9Sbgv9g3vPMTImlaOreKOntiEaKrEA+ME9O2nUAmPtKqOo6sdyHTMw+uaO+j15hDOnpwBe/eyHMIDYYqyFTeon5L0NGAdm3JFhTGsz/OS/4Wsov7jbg/NWCTWPCUN4qZXe20g4asJnuXk3LNg12fsDduTlx/B9cSy047oKE8Y8jUtFgQQmQEAmju44m/ERQ=;PRsNi8TkivcT2nJb+AjgBQ=="

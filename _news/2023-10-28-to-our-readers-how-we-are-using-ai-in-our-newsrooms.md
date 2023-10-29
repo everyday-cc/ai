@@ -2,24 +2,22 @@
 category: news
 title: "To our readers: How we are using AI in our newsrooms"
 excerpt: "It is important to let you know about the technology and automation being utilized in an effort to better serve you."
-publishedDateTime: 2023-10-27T18:29:00Z
-originalUrl: "https://www.miamiherald.com/article280707640.html"
-webUrl: "https://www.miamiherald.com/article280707640.html"
-ampWebUrl: "https://amp.miamiherald.com/article280707640.html"
-cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/article280707640.html"
+publishedDateTime: 2023-10-27T17:29:00Z
+originalUrl: "https://www.kansascity.com/news/nation-world/national/article280707640.html"
+webUrl: "https://www.kansascity.com/news/nation-world/national/article280707640.html"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Kansas City Star
+  domain: kansascity.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "iFjAfkOcIxD3MnWWAwnEaVkde4drcp/EM2IsNRJpujrs5A2b8KG4PO27DnPTDXNJ+jaV9PqZzaS7i6ef/leVgtiAzaf+VDjvi1/DDrXTu6vRqL0GxDILpBWfo7m0WOBu9kJ75Ax0nDReuhCdcr/JyfwQIt5ZaOHoZu/zOU8VQUOyYc9bdSvvsyT/zrQhw4fu919M4JuQZUagpSHvkt8V71gwdiy9MN8Yu7mn5b0Q3j30huZ7tDN2X8k4XLU48zbhHTdxg3MtB4Y+3DH1grTUJaNkokuS1PDgoYEnHcaluMz5R/wpg7ZE/QdlWABNUd6tLvUf50FaFwc/o8jdCYF7lhIDUO87Qzjc0+lCxd4OkkzAf3OJeXYzAC1KDWjtg1G9U/Z4XaYK9p4kIKKf2mt31hW4SRdmgr9SgsWsN9nK+1ZSJQfbIDO3VsMh3xb8sSSiJB2rkHfb370ffBGBL6RNbpCSm5gJh9QMncqfWECGnkmKcNOR+VZaTEgoB7krSQLyZ8lS/qv+2c6WRfr3XpoTig==;id3iYd+JDQz0+zOOMRQQ9w=="
+secured: "4PvFrmRP+7sHtBPjQKzvzQXphBb6frWZMb84IGbVCcpoMcSEWY9zB69dKg//2hSX6s3jJQloNzMBxX8NdFGmgKwj+/asALjT3Bj11Lvr090R52uLX7BtaAk/QIKbA6Y8wHV31JznFTJbl+7sdKw5TZeVxXv6re2Q7uGf2iacwIOwhCVfXWOLQf3wsZnvkpY+X/PDTK3c4N/8ZXyuPStLtsMb1pdc7oLb+E0OPr86n+YkdIh0kGUX8mbnHUmO78BKSs7B4rh6y6BXXpYWXTxA26vr/vpvFFsl/7Y3/zvKRbNQZlwOuzeawPp2Fi12Hzp4s0sp3h5vzG9CMDUUhYTd3Qg3wlb6uvwBhb35p1bYltMrfEbSM+cP2uEPOeicm61De9pQLOXoqyjlp7FOph4apMnmrp3yWUf+5RCtPlp+GjlWOHnCRrhKJec5oo/yJV6CSudlIW9I7zRAofXCMQYXi+Zuc8dIhoYkdtpWKQxAzTgLkBV0tvEIhCW/3945piaVt6VuoNLbxQxUcnf5LjhdSg==;uLJdgDTfnJRyBI5fJTlOEg=="
 ---
 

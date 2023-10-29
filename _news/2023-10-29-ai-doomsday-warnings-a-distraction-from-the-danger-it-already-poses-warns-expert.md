@@ -2,14 +2,12 @@
 category: news
 title: "AI doomsday warnings a distraction from the danger it already poses, warns expert"
 excerpt: "A leading researcher, who will attend this week’s AI safety summit in London, warns of ‘real threat to the public conversation’"
-publishedDateTime: 2023-10-29T13:09:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert?ref=biztoc.com"
-ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert"
+publishedDateTime: 2023-10-29T14:42:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert"
+webUrl: "https://www.theguardian.com/technology/2023/oct/29/ai-doomsday-warnings-a-distraction-from-the-danger-it-already-poses-warns-expert"
 type: article
-quality: 52
-heat: 52
+quality: 12
+heat: 12
 published: false
 
 provider:
@@ -23,12 +21,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/2d0e29e925fe6df57f6c27f9a5ef37f3696f8b59/0_194_4595_2757/master/4595.jpg?width=620&quality=85&auto=format&fit=max&s=20b9157a47662ba656a313484c875b0e"
-    width: 620
-    height: 372
-    isCached: true
-
-secured: "fhUhxaxrKkBdLtj/8M+sy1Kx8tNXYISjvyrOKy+ZUtzhbRBqPwzrUvfhuiSuETyDv5Q39ZVM+EiWhsY7+wcxO8fGYWpNiSlOFtrV6XleBjoIBj5OY5OEi0UT9Over/k6uX64MtO+r1JnlSghmxQcVwk2Rzx0nyIKG+7neISfioJMBBcYBs/ZhxpuDSg13U56x3Yq4H0EcpHtUfQfEIoVac65d+eQVjaGzMTbJtBbLHnwjePFLtaQY8qpmHpUlTjdZ2uHV20E+y7C+ZHYQZqV+MeMt8+Jbx7WsvWXeUXgpD7HkeO/a6xbe5lR/AaEO0jKuHQFiLGCoc7ODmHeQMoBFVW4InOfVlhBqZsoEDgD0JQmb4KMEuGFczqMhX4N2umPOETZDqmxxanMP5fhUn9GreWX+SZ1HyOM8/0PRRvHy7jmNZYQF9FIWxDP/xm6JIAVMrFuYmF8wiFhhnAQnCKoLKImxGWx4QC4SXZYzf7oyTb54PmWOze8RbECa5Kf22pxTKCPc4qxSRiFah8AJQbaPA==;1E+MHaaZtopxgD/Glq51XA=="
+secured: "DQemo9KiUskk14cQvzY6FGJ4j7iR7r2Cg9aVdVNoxu1jUQ9lROdd3/6yvNVTw2EtmihPFBblU6uX7YztudtUdbZTq6ZZ0o8QsP/nKRrFirNSX0+9jyZZy5anIgYCmztiJ2fYUXXl5CuJyldc4T/hTeTfGHL5tM94zj9PKnn6jKfcQefiW+1h+R8grHhcF/n+WuMNk11aeHwSKGalP2keqXatNrYmcDfeJC7T0ARq97wURPCxl25CbW3InxtO0b6HplPXvKaJuY4mZDAUYEsqrLmKE1MH9DSu+yWZqPGMKrCwjUj2jeE84G+Op9kRSSajpxAt6zrZUHr0uDdWECICzrbjkx2RR/wYbfBGZDgJcCR9yf16wEvgl3jgU49doiDJfUlB9nHdwKvj8vpmZldeI36JzYLCOxg12Nwy5CCWu/UR0AAjN03ZFImYUVc0AR1yf/qRZWyk2+D/uCd02dY/rYlTIR+8cOHiIfUoUs6nNOPHoMZ0U61mH4jwbG8xOw/dm2nzQ8dHwyhYvnocUPi1EA==;iB8K1EuDgSfQ8GeW0PLuug=="
 ---
 

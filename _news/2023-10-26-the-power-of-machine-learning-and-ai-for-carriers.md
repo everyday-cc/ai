@@ -38,7 +38,7 @@ related:
   - title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
     excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
     publishedDateTime: 2023-10-28T12:47:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?ref=futurepedia"
+    webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?trk=public_post_comment-text"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
     type: article
@@ -50,6 +50,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/53285d0e16ba8ce49782d1e34d9d4e78f37991dd/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=4c1a22e3a11bda4c35e304748e0175b9"
         width: 620
         height: 372
+        isCached: true
+  - title: "Exploring the role of labeled data in machine learning"
+    excerpt: "Network and learn with industry peers. Learn More If there’s one thing that has fueled the rapid progress of AI and machine learning (ML), it’s data. Without high-quality labeled datasets, modern supervised learning systems simply wouldn’t be able to ..."
+    publishedDateTime: 2023-10-29T19:41:00Z
+    webUrl: "https://venturebeat.com/ai/exploring-the-role-of-labeled-data-in-machine-learning/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/image3.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "TUM professor develops an energy-saving AI chip"
     excerpt: "Home > Pressemitteilung: TUM professor develops an ..."

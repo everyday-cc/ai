@@ -35,20 +35,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "Teachers feel overwhelmed by advances in artificial intelligence"
-    excerpt: "The arrival of generative artificial intelligence tools like ChatGPT in the world of education raises many questions about academic integrity. Teachers are on the front line of this revolution, but many of them feel overwhelmed by this technology's arrival in the classroom."
-    publishedDateTime: 2023-10-25T03:30:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/25/teachers-feel-overwhelmed-by-advances-in-artificial-intelligence"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/24/2353272.jpg"
-        width: 1240
-        height: 697
-        isCached: true
   - title: "Navigating the AI Revolution In Finance: Three Steps To Ethical Integration And Win-Win, Profitable Outcomes"
     excerpt: "While the integration of AI in the realm of finance has provided it with a much-needed boost by streamlining processes, enhancing efficiency, and enabling the delivery of tailored services, several ethical implications have come with its usage."
     publishedDateTime: 2023-10-27T19:02:00Z

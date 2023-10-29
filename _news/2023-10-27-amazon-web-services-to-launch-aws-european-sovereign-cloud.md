@@ -7,7 +7,7 @@ originalUrl: "https://www.aa.com.tr/en/p/duyurular/1002/amazon-web-services-to-l
 webUrl: "https://www.aa.com.tr/en/p/duyurular/1002/amazon-web-services-to-launch-aws-european-sovereign-cloud"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -34,20 +34,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 34
-  - title: "Almost 80 per cent of European financial services brace themselves for Generative AI impact"
-    excerpt: "A reported 77 per cent of European financial services leaders expect Generative AI to significantly affect productivity and change roles."
-    publishedDateTime: 2023-10-25T05:00:00Z
-    webUrl: "https://www.cityam.com/almost-80-per-cent-of-european-financial-services-brace-for-generative-ai-impact/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 29
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/11/artificial-intelligence-g2bb4b502b_1920-scaled-1.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "Top 10 national European fintech associations"
     excerpt: "We count down the top European fintech associations by country, order by the total addressable market of the countries in which they operate"
     publishedDateTime: 2023-10-26T13:56:00Z

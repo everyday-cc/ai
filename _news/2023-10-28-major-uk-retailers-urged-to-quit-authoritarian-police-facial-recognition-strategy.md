@@ -33,8 +33,8 @@ images:
 related:
   - title: "UK police urged to double use of facial recognition software"
     excerpt: "Policing minister Chris Philp suggests target of more than 200,000 searches over next six months"
-    publishedDateTime: 2023-10-28T22:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
+    publishedDateTime: 2023-10-28T22:25:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software?ref=biztoc.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
     type: article
@@ -48,6 +48,6 @@ related:
         height: 372
         isCached: true
 
-secured: "5EnDN1EifrCOCh1h8R1z12l9ZgvKlTttbzcmtRT4MbmDG67s4hXMCVxoQdu8jw0kHFZk5Zrs9xfN3xg7t3mZ1ylqxeDY2RssODowezPLmvn20SzwZ07jFSoltPBPCMzebdbIC7c8KHbrp4qJ50qjAo4szXhAYQbPniOLaBe7De1CjhMH3gWA3yUffweAMn02uXaRiPKahZjhiKCgHInXfnowZs1WepPLCkXvsD56nxczldvq7mWc2Cgq8pvSPXiduFOeK/fJBXQTQ+T3gT3BWJfLkRWfUgxghiQ6DwoV9pU4b7//zMYHrDWBYgQWw78Qo3NICpspDBC2XGirUffbdnmc2ruogglt4SzfK+0Yh5Q=;TkfldXpqMWNaZVcfpO6mgg=="
+secured: "w+b22p1WnrDvs9q5eIw+Jiwd55fivW+CYo365+k++JiwD8A0yC/UtNn9d7j6x1chmGscItau0m1kT6v+AX6kder2ZBj1Tjh6O9RfnnJIhGH0N+pp4IRptD8hpEzlBGqdZb0/cpmux3840i8OwvyMkx/1yU6vQnXTey6UShSBHIW/r7p4ZBRoBYC3byEQPhKgTs7JhYSbMo+ksBzKPpv0PPh8Rfm3Z5zgDP+0Ve8CdM52VovKc4bHOKK4F1vMD+euAXxEqzLfFMCWNoRVPttc6NDZOWMlvLxptkial0kQqZPdc36ttALoJxB5ZYTQmHYyp0sbjsrAOT6kfDWJe4sA/UuDJMR2sEyJZ/bB9/UnhDU=;hmHLvsxDjDt8fgaa+apadQ=="
 ---
 

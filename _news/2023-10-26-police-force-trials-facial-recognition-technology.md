@@ -2,29 +2,21 @@
 category: news
 title: "Police force trials facial recognition technology"
 excerpt: "Facial recognition technology can be used by police to scan large groups of people and by running photos through an image database known as a \"watch list\". Chris Philp, MP for Croydon South and minister for crime, policing and fire said the technology was being used by the Metropolitan Police at large events such as football matches."
-publishedDateTime: 2023-10-26T05:51:00Z
-originalUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o?at_medium=social&at_ptr_name=facebook_page&at_campaign_type=owned&at_campaign=Social_Flow&at_link_origin=BBC_News%3A_East_of_England&at_link_type=web_link&at_bbc_team=editorial&at_link_id=E9BB4184-73CC-11EE-8964-CFE5D89D5CC3&at_format=image"
-webUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o?at_medium=social&at_ptr_name=facebook_page&at_campaign_type=owned&at_campaign=Social_Flow&at_link_origin=BBC_News%3A_East_of_England&at_link_type=web_link&at_bbc_team=editorial&at_link_id=E9BB4184-73CC-11EE-8964-CFE5D89D5CC3&at_format=image"
-ampWebUrl: "https://www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/articles/c51jzy42p19o.amp"
+publishedDateTime: 2023-10-26T12:51:00Z
+originalUrl: "https://www.aol.com/police-force-trials-facial-recognition-055014950.html"
+webUrl: "https://www.aol.com/police-force-trials-facial-recognition-055014950.html"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.co.uk
+  name: AOL
+  domain: aol.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9b65/live/d1e43770-7370-11ee-8623-0398dceccf41.jpg"
-    width: 1024
-    height: 576
-    isCached: true
 
 related:
   - title: "Three arrests after force trials facial recognition"
@@ -224,6 +216,6 @@ related:
       domain: biometricupdate.com
     quality: 19
 
-secured: "ggGu9g7HE8jMPuODX7sidJXa4xzkQ9LRAIP/e4B0t2bpDnmoJqetUbFa14HvgViq5OB1L71BoiPe+eLw7WrOaF5NjiXBk/pOpjZrTNyUjkfguLfhMqxNIZC5s8GELopaXn8QFBrWmlUiP2jtPI7qhF0F7DI26TW29zFf974pj2fItqJO/RdTIj5K/nqoKC0BWsnWteN/Syt6ynQ/So2TXAvtPThrs0HKpE/Ff2LWC7VBByJq8X0W6sc/iay82W59HDu/W4zuutKE900uNt3tRWQRn72AN7dUnOAH41JzWtUdmkAKaNY6HlabpguzZTuG9uU7g0lGAjpsZ29QN490tzKi/l7BYQUuYir2dqh2cTQswgJCQtoeydkHkjnbO+Z65Q4EQfzxHY+vKmXzqdSKufb1OcM4wxUR+Gjb4ndqPGi8X6+odCTHG4QYxH7mAFX8XWVmDtFSsPfXBeXexsUzTPcRV4eKI9UaUnmAq30iA74jdetq33nPZk0PwxtM6XqySiQN1do5KyUKp1SmoMo62w==;tIH/o0Msk4SrjYld8cM96A=="
+secured: "xYO3W6yK/e7xgMnvNP8kkw6eakWqalFEf7zdjBL1ROYLBzxdJqvoXXVl1Y1pxNrBjrPbadyfst47fdCDdzKYy5eHVGLe4yVGqyjBN91pJNXE2IBwFuPHz4ok78aqtTYYfwXxWYXTPdy0vzhXsy2z7fmgAkrgT8Rpr4LseZzKiaiM2Hucbv9KxCEcp98l7CqOKZCJRRXky3y1CwwZCQrxf4TKXicEN8RaZiRbjvZCWzgaD0aq0V+UIA2i6rfnKtJ3+NoGMmnz0DRrtjtq1wa1rZXVu6OaKA/B85NuN/hUO0BpsFE98SkLTfZLfkhWkz9jFQEZJxh2jUywVXzmlkleBOtOEnXgEzG8Y35jKds8Q8c0vLy4ARJylHn9S81edleQbYFm8oS7AbzfUNFFORTTX8qOheZS/ndJcZabu1CxIiBzfIy3fgmyf2PEPO/PgKpGY6RMnUnyML6UICaHv4kLceom9HYM2odKFdc0wxSInorYjUyr3WLh7TpHsr3qRATx38xx1fKYfGwol9do9VEOww==;8vn+H7tRrDtTewSQVLYdcw=="
 ---
 

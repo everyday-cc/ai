@@ -138,6 +138,15 @@ related:
       name: Los Angeles Times
       domain: latimes.com
     quality: 0
+  - title: "How a robotaxi crash got Cruise's self-driving cars pulled from California roads"
+    excerpt: "San Francisco — Two months before Cruise's driverless cars were yanked off the streets here for rolling over a pedestrian and dragging her about 20 feet, California regulators said they were confident in self-driving technology and gave the company ..."
+    publishedDateTime: 2023-10-29T18:09:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2023/10/29/robotaxi-crash-cruise-self-driving-cars-pulled-california-roads/71372528007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 0
 
 secured: "LNLIoiw72gY9QQBi/dsFWYe1XBUme+Y2lyIWYQQQuEkebSVF3TxDSzAfR1+GjDjVx0L0hLNUVQ8/5OHnvOLzO+UJyg/tdkCnODhg3gk79PvfXsowvLqZKyH8cExeaTgJS/5K+/pTxgXilz2KH/Ikm2x5fu9QjMD0cg2Gcrh2KG6Az2CJiDjscJWVSIs11151XLO/4R3zwfe/EPzsachyZJB49a/I2Q3XCBcut6LbCRSAnK8ZwQrGP12RnA71VI3K8YV6NMxBsbFPxZNf2sOdKdl5WXa2hNmd97xJ6iGXl3mMBlrVM9rhwBwOKNQkZP/i/7o3G3GNMytnO9knktDTP855MrHXqIRGZde7tIgEFbqnFMJ4w4w0Y/ByikNpg8xA9ZwZgpcG+nPcadDondegEUn0vekgEfobr/vYF0Ku2s7T2L+9BI1qpRQQEpKGeF11h4SyBAGqlB576csd0DQNrbqpYgipvd3zii778vnpTBKQ2Scei+yDbviYuWA1I+8O2gYBhIY2l/YFEWXuTBypLQ==;QcptD+ov3GT511aUzTOUOA=="
 ---

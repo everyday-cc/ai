@@ -42,22 +42,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "AI in the Mental Health Field"
-    excerpt: "AI has the potential to transform and revolutionize the mental health field. Psychologists regard AI not as a replacement for real, face-to-face therapy, but as an additional source of support in a world in which artificial intelligence becomes more pervasive in our lives and mental health resources are becoming increasingly sought after."
-    publishedDateTime: 2023-10-27T22:56:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-now/202310/ai-in-the-mental-health-field?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-10/shantanu-kumar-xvdkNBaja90-unsplash.jpg?itok=50YsNbXe"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "Using AI and satellites to measure carbon"
     excerpt: "Part of the ITN Business programme ‘ Carbon Markets: The Power of Data & Innovation ’, made in partnership with the Climate Action Data Trust (CAD Trust)"
     publishedDateTime: 2023-10-25T09:21:00Z
@@ -72,6 +56,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI in the Mental Health Field"
+    excerpt: "Although the world may not quite reach the level of dependency depicted in the Pixar movie, a future involving heavy reliance on artificial intelligence appears more probable than ever as AI becomes more entangled with our daily lives."
+    publishedDateTime: 2023-10-27T22:56:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-now/202310/ai-in-the-mental-health-field"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 19
 
 secured: "/mQSdBNjR7QrT3GPXP7MjmGsX6NbifiWBMDVHcI1SJwCoGg/LTfjeCo1eSEoUHUU6DesJEmEtDsw4Yb1ANLls1M9/4vFqVpY0H4StLTnpOuQcoV1wY67DzYzUBQtzfvIS0aqEJqqsVKjM9/hmbnsg91XElNx3nL3RuCSd1sWSkBjjjEv55+OtOIwZStxIx5NEQeMJOIgVtvNNDteBULvj64EWs+uQZq6TPoiSVj1ZYnUZoI9GtOiVpmoLExzMIR2q3B7BKHRUjdJqpj9EI9pcvTZ61wZpF26h7Nt2iUm3fC8ToPn6lHEtJD38lIlQLYApDMqpKztBbPm7TTOTlJwFU8thPUWTbCJyPPj8tNc3EL8IDbfHesqmQ1vATWyXgCf9MKkSormkAsOgjhPWPyHQ1qaaJT+A1qK3lm1z/nYzalyq+c9pylB75nO1h+4qpB9iE5ewGBOFVkD82gCr5d55O9Sgri27pHAnyVQX250WivFERn4OSnZuc9Nv9nF3cswSOshF1d4wg0rpNhfTI8x3w==;slyQwqnPXI0SYYfrv+aDtA=="
 ---

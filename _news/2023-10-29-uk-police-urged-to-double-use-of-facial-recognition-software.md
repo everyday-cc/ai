@@ -2,9 +2,9 @@
 category: news
 title: "UK police urged to double use of facial recognition software"
 excerpt: "Policing minister Chris Philp suggests target of more than 200,000 searches over next six months"
-publishedDateTime: 2023-10-28T22:01:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
-webUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
+publishedDateTime: 2023-10-28T22:25:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
 type: article
@@ -48,6 +48,6 @@ related:
         height: 372
         isCached: true
 
-secured: "XHgu1Km26tbAycV9gEmEMSmnrqSUl+qHmP8qzIKXgqHC6vbHbUch0F8vf7OREjn8R56Mw50zbSt/V0+y2ShC5AxR1evUMd/ZBJcpuQhEVgPZtN4GrIBJEFSfSuYnJHZyF73yZ+S4u/B5Gm/qDSQxBPxuMGxFCPYGOSD1qdNM+NOx8Gd16qdC+8GN8Ii/ICYh+f2SkmWiCRYFsvcchM7jakgaMp2ojTVkeE+ScJg2PtiDYqQ6o3BEUtvEpJPU4GS6KqHYUkbs0OEm4yCBDFqV3JRPccT8Ues7GShuHfnuuX3VjGJtLy1I/Bg4evOkcMOIzs9eSksKxzi0GxC1mx4iwvcyxQpLANSYq2d7Rt8PLfjIGSfyo7cdmrSAFDR7kO5IX85PfRsjGkUtCKqvJKRAgeZasKaToXIkkBZ4a0w41xkwcAKBZdfW75sQakT51eS/Sa7uaZvLVcVotSv+sEjN5g/bPTz0s9zAPv17YihtaRnEDiE5Vvp5+QAyQkHxCtEo4HRnhTCwWz93IvBLBvYXHA==;UjUoKyQfAgZcb9lOrpjzXw=="
+secured: "C3CHxHYlAZRLU7gqYjo1bIvbFwcwzFFjSjXwd8hSwPbOs+8qMoxjNBWa6u1Uv1jE9STIM1TAk99V4SvNvoXTjhKrFcSqZCi9MVoH7ngGzefjUdGP2LUdfLGO7OZU2aka4IqBPxzSFhU8YNd0V7Ipr4e7DERtiCbCOIPJXRv7qfmLCW1D2dHIqSpNX2YxOMmumDu2xblR8nWJv0RcP9D2erNB+GSpbrckG2wSucoiHx8pETJjHvlFQYo7eKB/IWyUU73UHEsoyfCuH7JFvd8T6sHy5e/QVPSyBrDxwsiTi7aj7i+wNxyOeqD/5UG2nzqSMbxx9tgLHNvMS9bmW4GyymVBQzJjL7W26LhdpMIo01k=;1qMewVd4mEsx/M/bzbYkkw=="
 ---
 
