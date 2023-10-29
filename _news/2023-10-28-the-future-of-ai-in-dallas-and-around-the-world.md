@@ -132,15 +132,6 @@ related:
       name: The Chronicle of Higher Education
       domain: chronicle.com
     quality: 36
-  - title: "Omega Venture Partners Spearheads the Future of AI Innovation"
-    excerpt: "As Omega Venture Partners sails into a new epoch of AI innovation, its unrivaled expertise and proven track record affirm its role as the preferred harbinger of success for the pioneers of tomorrow's technology. See more from Citizens Bank on the Role of AI in Financial Services here."
-    publishedDateTime: 2023-10-24T13:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-omega-venture-partners-spearheads-future-ai-innovation-/2023/10/24/9904369.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "The future of artificial intelligence – a future I helped create – keeps me up at night"
     excerpt: "AI capabilities are advancing so quickly, they could surpass us in a matter of years, says . But we have a moral responsibility to both protect our society and reap the benefits, and Canada should pla"
     publishedDateTime: 2023-10-28T08:00:00Z

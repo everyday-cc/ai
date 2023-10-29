@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/26/augmente
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/26/augmented-human-how-generative-ai-can-be-an-extension-of-ourselves/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,24 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "How Generative AI Can Empower Software Engineering Teams"
-    excerpt: "I believe technology leaders should actively encourage their teams to discover and try out these tools to heighten their productivity, creativity and efficiency."
-    publishedDateTime: 2023-10-24T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65369e7808401564f7a2c121/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
-        height: 900
-        isCached: true
 
 secured: "7QwquhYuqOj/MorQEgW2EeGruKGihfdd3/i8jKdPIX8A18BIpIc4lCusXnGpaqpLSpXM0s0qPPo/tKVp4w9UfyiqSmGU+Fo+tFZov4uYpDLB4OImU5dycIMyR+JRtL17ky4XRbwqB8h/73FWMTa/aUalQ3sUP//VNKOL/D4dAjUseE9ltIbU2UtK9zaSk377zMZzud7UGsqTkfN1fUn4T86dO9EodWdwY7y/aLXikVOx1vrFjZW9zXHhR96Y1jJ7V1QuyoSJb6zMhglbfKsQnin4NUVdmZi339rrPhV2mFEhaNte/WcDR3DePr0Q3bukHDGJIHnb8V98BH2//3Lhomnkv6D7f6jRfeY4OmHMr10R+2xvmf/n2agfbj74d+SK0MZskrwQ9h1wnGuHtUKa4qAj4nidVy6iyOM2oWnHdCxc3NkB2lS9CC1KRs7c5zm9GeFCC+pfNZS8beLP/Gm1rYyBMbaX/oxN0hZi0537Y7mJy3LAHRWL3LvWoVEQSooNAXKqXpbvRsHJxHeI6gEe4g==;L1NWgP/ruz8g6jnY43MK4g=="
 ---

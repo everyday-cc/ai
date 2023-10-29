@@ -40,22 +40,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AI risk similar to climate crisis, world cannot afford to delay response: Google Deepmind Chief"
-    excerpt: "In a recent interview, Demis Hassabis said that he anticipates the creation of an international body like IPCC and CERN for the regulation of AI."
-    publishedDateTime: 2023-10-24T13:59:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/ai-risk-demis-hassabis-uk-ai-summit-ipcc-8997821/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 62
-    images:
-      - url: "https://images.indianexpress.com/2023/10/Demis-Hassabis-1.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Google DeepMind Chief Believes AI Risk Is Similar To Climate Crisis"
     excerpt: "Demis Hassabis said he wishes to see the creation of an IPCC and CERN-like international body for the regulation of AI."
     publishedDateTime: 2023-10-25T06:44:00Z

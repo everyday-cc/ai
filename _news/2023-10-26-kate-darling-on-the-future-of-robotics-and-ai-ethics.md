@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/kate-darling-on-the-future-of-robot
 webUrl: "https://www.therobotreport.com/kate-darling-on-the-future-of-robotics-and-ai-ethics/"
 type: article
 quality: 116
-heat: 226
+heat: 216
 published: true
 
 provider:
@@ -125,15 +125,6 @@ related:
       name: The Chronicle of Higher Education
       domain: chronicle.com
     quality: 36
-  - title: "Omega Venture Partners Spearheads the Future of AI Innovation"
-    excerpt: "As Omega Venture Partners sails into a new epoch of AI innovation, its unrivaled expertise and proven track record affirm its role as the preferred harbinger of success for the pioneers of tomorrow's technology. See more from Citizens Bank on the Role of AI in Financial Services here."
-    publishedDateTime: 2023-10-24T13:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-omega-venture-partners-spearheads-future-ai-innovation-/2023/10/24/9904369.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "The future of AI in Dallas and around the world"
     excerpt: "Business leaders focused on technology discuss how AI is going to change the face of business, work, and technology moving forward."
     publishedDateTime: 2023-10-27T17:11:00Z

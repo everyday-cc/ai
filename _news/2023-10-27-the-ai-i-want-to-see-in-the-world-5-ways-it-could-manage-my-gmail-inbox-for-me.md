@@ -7,8 +7,8 @@ originalUrl: "https://www.zdnet.com/article/the-ai-i-want-to-see-in-the-world-5-
 webUrl: "https://www.zdnet.com/article/the-ai-i-want-to-see-in-the-world-5-ways-it-could-manage-my-gmail-inbox-for-me/"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: ZDNet
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Want to have a job in an AI world? Start preparing now"
-    excerpt: "The Drum’s founder reports back from WPP’s Stream conference in Athens, where AI’s impact on marketing and media jobs was a hot topic."
-    publishedDateTime: 2023-10-24T13:13:00Z
-    webUrl: "https://www.thedrum.com/opinion/2023/10/24/want-have-job-ai-world-start-preparing-now"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 17
 
 secured: "1p7ss8bqhox0YfQQcC27rjHMtU2qdBVEAQq6uEgzhs2RfN9N1drHGgz+lbK2OtWiZNnCRLL0B8sCrWefaUaM2kQZLrOSn5Re1TnayMEuivPmdTptXTTCPPL+i5iPUPRmMLKxvj7mR3yqxWW9RRKCvLxSXIGKE8kxmantc5iqEG2hBrJNhOaiMGz7o5f3Pm1f6X0nUQ69WS4Fy64yIde9Ootp3m8nNzADDhTNbyB/efEBxR7wRcPK1o1kmgQWoa5G0UYem1wQc30I6ZRyubYqmycGfpCikAlSurBluwxOKsLRMeyVXkqznh9PkxPT1sJ0JURR+ucn1jHfGA1mlyMhcjlc0y/GcdCn97YalwbtWoQpqvNbXmllP7Tz7fFYVuyM5LfgzmCXZLAjCjnYuFcO3bqkWvq7DV4SgqdhmfnWGADNdZ1ZChHpludBt6nnnjAzKyNM47fzonthdBRC/Db5s3svb/kOklicSp/vffpwF8EDLBNyw/ahZHxfumBthPU6L7kvTq/vE/7BjDBFGsyi0g==;U6zdn78Op6rAlPbOkQY1oA=="
 ---

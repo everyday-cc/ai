@@ -139,6 +139,15 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 17
+  - title: "Google to invest $2 billion on AI startup Anthropic, inks cloud deal"
+    excerpt: "Google has committed to invest $2 billion in the artificial intelligence company Anthropic, solidifying its relationship with the startup darling and stoking the Silicon Valley frenzy for AI.  The deal is structured as a convertible note,"
+    publishedDateTime: 2023-10-29T05:45:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/google-bets-2-billion-on-ai-startup-anthropic-inks-cloud-deal/article67472520.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 17
 
 secured: "SUbsM+8+ghZhalTXWX81PQII4WCHdlEc+dVeV0ELTTon/6UAm0E65sSm6ZSjBLuxAxieHXZEa6M63evgx2+pqfrmdRoco6MH16YVO5Z6ml2JSw+qjkV+9dvBxRGfGN4YeYsBBLwh3FrKjB7wF43scQ/WbowrN9jodn8mxXeEFCQTVV9MEVgb05qyMofm3kgQ+0Lxgce3xIUXQPMbYidp3E7d/V34vtkz4jA+nsIGJhM8FlsT8H6nJXTomMQou7/LWwFPWrxJD2q7w5dXexQ4w3HeYCJzeXx7nsfDLwKIcziPBiTnH9VY14QanUn+iaavva2gUopRE0bU5ugoJ+z5Z2BPRI2MXUGEHEZg2kQQmAU=;HHmW6J9Ur8OXHEw2nctaOw=="
 ---

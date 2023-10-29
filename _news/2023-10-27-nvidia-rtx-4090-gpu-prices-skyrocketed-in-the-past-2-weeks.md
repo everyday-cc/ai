@@ -205,15 +205,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 51
-  - title: "Nvidia Says U.S. Speeded up New Export Curbs on AI Chips"
-    excerpt: "(Reuters) - Chip designer Nvidia said new U.S. export restrictions blocking the sales of its high-end artificial intelligence chips to China had gone into effect on Monday after regulators advanced the timeline on the curbs from its 30-day period."
-    publishedDateTime: 2023-10-24T13:25:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-24/nvidia-says-u-s-speeded-up-new-export-curbs-on-ai-chips"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Additional Chinese orders for Nvidia AI chips cut short as US ends 30-day notice period"
     excerpt: "Nvidia disclosed in a document submitted to the US Securities and Exchange Commission (SEC) that the 30-day notice period for the 2023 export controls update by the Biden Administration had been cut short."
     publishedDateTime: 2023-10-26T05:05:00Z
@@ -248,8 +239,8 @@ related:
     quality: 34
   - title: "Nvidia said the U.S.'s new AI chip restrictions have already taken effect"
     excerpt: "New rules restricting Nvidia from selling even the chips it designed for the Chinese market in the country have now taken effect."
-    publishedDateTime: 2023-10-24T21:13:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/10/24/nvidia-says-new-ai-chip-restrictions-in-effect.html"
+    publishedDateTime: 2023-10-24T19:54:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/10/24/nvidia-says-new-ai-chip-restrictions-in-effect.html"
     type: article
     provider:
       name: The Business Journals

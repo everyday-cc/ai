@@ -7,7 +7,7 @@ originalUrl: "https://techcentral.co.za/microsoft-gaining-cloud-race-aws-google/
 webUrl: "https://techcentral.co.za/microsoft-gaining-cloud-race-aws-google/234097/"
 type: article
 quality: 71
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -80,6 +80,22 @@ related:
       - url: "https://thetechportal.com/wp-content/uploads/2022/01/msft-logo-building_0.jpg"
         width: 703
         height: 492
+        isCached: true
+  - title: "Microsoft India exec talks about the company's role in the country's digital journey"
+    excerpt: "TV18, Sangita Singh, General Manager, IT & ITeS at Microsoft India, discussed Microsoft's significant role in India's digital transformation. The company collaborates with key players in the ITeS sector,"
+    publishedDateTime: 2023-10-29T06:07:00Z
+    webUrl: "https://www.cnbctv18.com/technology/microsoft-india-exec-talks-about-the-companys-role-in-the-countrys-digital-journey-18180581.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/microsoft-india-exec-talks-about-the-companys-role-in-the-countrys-digital-journey-18180581.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/microsoft-india-exec-talks-about-the-companys-role-in-the-countrys-digital-journey-18180581.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 52
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/02/Microsoft-Source-Reuters.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Foundry for AI by Rackspace Partners with Straits Interactive to Launch AI Data Protection Officer on Microsoft Azure OpenAI Service"
     excerpt: "Development of the APJ’s first AI Data Protection Officer Assistant with Rackspace Technology’s secure multicloud solutions and integration with Microsoft Azure OpenAI Service  Philippines – Rackspace Technology— a leading end-to-end,"

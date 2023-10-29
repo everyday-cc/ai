@@ -94,6 +94,22 @@ related:
         width: 703
         height: 492
         isCached: true
+  - title: "Microsoft India exec talks about the company's role in the country's digital journey"
+    excerpt: "TV18, Sangita Singh, General Manager, IT & ITeS at Microsoft India, discussed Microsoft's significant role in India's digital transformation. The company collaborates with key players in the ITeS sector,"
+    publishedDateTime: 2023-10-29T06:07:00Z
+    webUrl: "https://www.cnbctv18.com/technology/microsoft-india-exec-talks-about-the-companys-role-in-the-countrys-digital-journey-18180581.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/microsoft-india-exec-talks-about-the-companys-role-in-the-countrys-digital-journey-18180581.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/microsoft-india-exec-talks-about-the-companys-role-in-the-countrys-digital-journey-18180581.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 52
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/02/Microsoft-Source-Reuters.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Infosys collaborates with Microsoft to accelerate and democratize … – Infosys"
     excerpt: "Both companies will help enterprises take an AI-first approach to scale next-generation AI solutions to improve operational efficiencies, drive revenue"
     publishedDateTime: 2023-10-24T18:20:00Z

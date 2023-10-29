@@ -7,7 +7,7 @@ originalUrl: "https://www.outsourcing-pharma.com/Article/2023/10/25/advanced-tec
 webUrl: "https://www.outsourcing-pharma.com/Article/2023/10/25/advanced-tech-company-phasev-has-raised-15-million-in-funding"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 624
     isCached: true
-
-related:
-  - title: "PhaseV reaps $15M in funding to streamline trial design with machine learning"
-    excerpt: "PhaseV, which uses machine learning to help design clinical trials, received a $15 million funding shot in the arm to expand its offerings and global reach."
-    publishedDateTime: 2023-10-24T14:55:00Z
-    webUrl: "https://www.fiercebiotech.com/cro/phasev-reaps-15m-funding-streamline-trial-design-machine-learning"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 51
-    images:
-      - url: "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1460500012%20%281%29.jpg?VersionId=qKPJMVYCvsVBRMgll4slGbgBNkKxW7KC"
-        width: 764
-        height: 458
-        isCached: true
 
 secured: "6wwRUK+4d8I7E8L+jS6o7z26HdRKDKvynN3cdzKBNPSMnMjLdX+v+v3nXurAIMQK4UTG/Rp+wbxBYNqpGzMSAEgHlq4Lm/5L7bvAOIveNq5xxxi/EOjCaVF+240YMas6oBPG+nbxUXMY6QXp/2C6u1+waMNRosUqTZmipHWHqjJ5ZUR5sbBL2b4DxwyjpMskgr9txqRIT+FeUhkVlMHcV9HHvlg+EhuL3Pb57eWb2D6GMhqVIHYZeWVZx7E54cCdA+ZOgIdcEW4xRVdDlVsnIyOmjblqUoQkDJUhbLmPRFD0i4W2KkoOfEQKMvzGYgICnSFVaEUKeLzuJYcwwHkVW+TvtpwskEVkeUsf5AcXRE4lfFUIfgrW5a9f1iPnDiPbJty4AJwdnjtVq69jO+BE4aHYjH4DY06dpKGapy4FBcCef4LikhWAHgnwk0yw0GZ/McmlwMYxSE33s+Komme3LP/xqnd+kYOxwGOhxlaGFOFEKhfPNj/0ClUmt6MzgGSaydjYbJjyhQS45/pDxOcqKg==;WhEG/HaAljrTtWKaHH/ALg=="
 ---

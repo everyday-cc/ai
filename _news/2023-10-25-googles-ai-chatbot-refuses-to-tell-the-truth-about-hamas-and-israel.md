@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "OCBC launches AI chatbot to support productivity of its employees globally"
-    excerpt: "OCBC announced today (Tuesday, 24 October 2023) that it will avail a generative artificial intelligence (AI) chatbot to its 30,000 employees globally in November 2023, which will assist them with writing, research and ideation."
-    publishedDateTime: 2023-10-24T13:49:00Z
-    webUrl: "https://www.humanresourcesonline.net/ocbc-launches-ai-chatbot-to-support-productivity-of-its-employees-globally"
-    type: article
-    provider:
-      name: Human Resources Online
-      domain: humanresourcesonline.net
-    quality: 17
 
 secured: "GDEB5oaSyA309MYbrGPbzDn0foAlG4xOn2iwoDUY9XfOpMjNP0X/Aup8HWbaw05ZrGhkR2ihJgfqRdeop6aFBuWEn/NoFpbT91KP16HuM1NXrGRsRARMhtRc80g8rs751GJGOoUK+SzT7FmXLFEBKSOWOqTxVVZDQiK1Ruhf9Og6hbrTECS69/86ffSoLnvVrR6vYOd+4fhMkjQ2a0xnn5Ezy/l5wAUj8Frk4ut/HzK1v6077OXpbCuhERQrpnVoJwgljb3CSLorwrJHV9L7vJ9Rw8LbzkEWZDUK4TxCcJXG7HXRcFhMgWg9y3R5U5LMfkgSk2lTII+xa9Nnij845Ozo4Atllq3KfRAJOZBIueA=;rVgOiA+9iK28h57FBSrTxw=="
 ---

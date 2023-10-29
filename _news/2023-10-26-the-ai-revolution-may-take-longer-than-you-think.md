@@ -48,20 +48,6 @@ related:
       name: ecampusnews.com
       domain: ecampusnews.com
     quality: 51
-  - title: "A new phase of the AI race is coming — and chip startup d-Matrix could be the winner"
-    excerpt: "Yahoo Finance sat down with d-Matrix CEO and founder Sid Sheth to talk about how the company is planning to compete with Nvidia, the next chapter of the AI race, and when the chip shortage may finally come to an end. The below interview has been edited for brevity and clarity."
-    publishedDateTime: 2023-10-24T14:58:00Z
-    webUrl: "https://www.aol.com/phase-ai-race-coming-chip-115849826.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 47
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/rRcP8cO6rp0r751y23Ul6A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/aol_yahoo_finance_433/da66589505d6af4063c6633be997ef78"
-        width: 1200
-        height: 798
-        isCached: true
 
 secured: "jZOfyOi4fAXok415FZNVN/ZZNABHW7TzKWnNL5PGxQyzklEHlHVqu3PK1riLJSNQOuKVC6AZa/ATVjn72c0yEmyBe4Wo17zCojfwcUvpDR5kViJ1z/t/k1v7UVS0mQKaZO7itQV1j0/DqWGhePcpG1bsG2K0K5VR0NuCxEQEFTZRmzFpFhYiYGc3nHw8+pEaijnMuDciJInBC2Nb1iL7ZLMMwpdYmlPoAqkHtNR8mwu9P3aaAk186FwzVsCFji3TxXFR4+4EduxLrm+7JXdYkGMEkW3ytBlLOKuvMInPeAo/qGflLxtylACVjbbbwPEmdLI7Uv6JaQq7OBSfiGmHi1sAy1hZuC6uxjV+R/xz4aI=;L5dn2dUhIRqvTOM2UmD+rA=="
 ---

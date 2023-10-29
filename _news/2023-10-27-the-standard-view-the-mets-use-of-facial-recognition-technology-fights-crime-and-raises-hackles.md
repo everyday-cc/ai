@@ -24,6 +24,22 @@ images:
     height: 801
     isCached: true
 
+related:
+  - title: "Policing minister wants officers to double their use of facial recognition technology"
+    excerpt: "The minister’s demands likely to be met with concern by some MPs who have called for use of the surveillance to be stopped"
+    publishedDateTime: 2023-10-29T06:08:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2023/10/29/policing-minister-chris-philp-facial-recognition/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 32
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/news/2023/10/29/TELEMMGLPICT000347430739_16985525313970_trans_NvBQzQNjv4BqXW61vz_3bSmK0KpgrSXHYTdESC3FBk1DSYgqaD24EGY.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
+        isCached: true
+
 secured: "zct08qe5UZMyin2Gv++03megrnofldpKKEEMrMt7aHObD3T1PYDCPuag4TDs56rfKcOiK2TNqkNlscs6JwLceeNd35MIta0qbOCYZiHkeFqQTUxfKt63pTGx9U5djfYKTwc2b7ccAogbIJGxZ60dbS1X+ePDdNWEUfzHeOe10gMUFD413aw2wZiUcBOPmw8TYPLyH4bdV6npoEnanCBtPuvaImfO/mPYtAFCoQ0ZRp+AIal5xoLLGy/VuHLUgGW58UHtHimU8L48DYupZDQfCajE5jAXozsnYeOtyU+XNVViPtvmVEValRB8fN6/LDtB4LQN2vtRBywLC3eWZ7m8kE72nLLCAQk2O9Q34VE2uWk=;nKgTxtHG/rd9acJ+M96Chg=="
 ---
 

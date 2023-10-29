@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Tesla faces automated driving rival in Geely and Baidu EV"
-excerpt: "SHANGHAI: Competition is intensifying in China’s automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc."
-publishedDateTime: 2023-10-28T16:05:00Z
-originalUrl: "https://www.carsifu.my/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev"
-webUrl: "https://www.carsifu.my/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev"
+title: "Tesla Faces Automated Driving Rival in Geely and Baidu EV"
+excerpt: "Competition is intensifying in China's automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc."
+publishedDateTime: 2023-10-28T12:29:00Z
+originalUrl: "https://tech.hindustantimes.com/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html"
+webUrl: "https://tech.hindustantimes.com/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html"
+ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html"
+cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tesla-faces-automated-driving-rival-in-geely-and-baidu-ev-71698430619785.html"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 74
+heat: 134
+published: true
 
 provider:
-  name: CarSifu
-  domain: carsifu.my
+  name: Hindustan Times Tech
+  domain: hindustantimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/10/JIYUE01_2.jpg"
-    width: 1024
-    height: 676
+  - url: "https://images.hindustantimes.com/tech/img/2023/10/28/1600x900/tesla_ap_1698454433725_1698454450395.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -50,6 +52,20 @@ related:
       name: bnnbloomberg
       domain: bnnbloomberg.ca
     quality: 54
+  - title: "Baidu and Geely's self-driving EV delivery begins, challenging Tesla's Model Y"
+    excerpt: "Baidu and Geely's joint venture has started delivering a self-driving electric vehicle (EV) to compete with Tesla's Model Y. The EV, called JiYue 01, is a premium SUV with autonomous driving and voice-activated control technology."
+    publishedDateTime: 2023-10-27T16:32:00Z
+    webUrl: "https://www.futurecar.com/11649/Baidu-and-Geelys-self-driving-EV-delivery-begins-challenging-Teslas-Model-Y"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 50
+    images:
+      - url: "https://img.futurecar.com/202310/27/l_653be6237402b."
+        width: 512
+        height: 512
+        isCached: true
   - title: "Baidu and Geely’s Collaborative Electric SUV, JiYue 01 has an Impressive 720 km Range"
     excerpt: "Geely owns 65% of Jiyue Automotive, focused on car assembly, while Baidu holds the remaining 35% of the company"
     publishedDateTime: 2023-10-28T00:43:00Z
@@ -83,6 +99,6 @@ related:
       domain: autonews.com
     quality: 34
 
-secured: "dGDrtA125CaR71XqkaMp3JBoJeH+4eDbHTMnwyi7yJ9mrrigSV9DXBhsPRKWbBbLWeuTCS187qKuGYWROAAOi4lNJFUbpdavcN7QAd+bTz7opt8gLV9pYsvTL8edSgk8NI/DadgBzzj3RPihf2MQsl3bN43z8SCZTYiGjZOkVRA/rlfHPbhRRbRer+BYgZIMTBx5R76tbkN8/HRRwzo03/pLM6JEGEOWess+XeD3gIMVOUcnYG66oOimsaSeOEWWBBZHNXRqS6kAqgzoU0DCwykX3q63LRs55lnGY+WiT+DawiOZcG4D7D6YcOiQQEZB6Uuy3PvJ7RMQFD4xtQp0P9C4KtF7nGjSFb6QDhoalD/2G+6xVMh6ODrirHWmzbAi0MjDNNa7QjUtMPHBOw4lQ/IP8+02rSLlAlWrshaMYLHoKq5QLgFFbXKHXGPsfKoGeEfwOaV06/p9Fhyhyi2mDi0/gvGxI+DVARthDl07xLYbq+QelM7oqgZxO0Q4VkPtbS+tF4Hd+Wb0TU0qRThYfw==;wo57/ix1bPU5vliDmy3Q+A=="
+secured: "VlmnAdmrE9mY3rLWtDRA0QB1zojKqvc7jrgtPa3r3cyd0u8r9HQWyGLyoL+CUT0wlCSYQLgyFIs0Bnp8pgFDhmF6pZkEG1ev0BOn2B3sNwzBB0+kgQ7xPWsX19IOyGVj/0CU+Ru2v4B1zrxS0K3JTd219eDjr6cLvnfOrHwyNuJCSNwzTCUIxT4tj/GzAAZNC0Dkd3akgIIOx3YsuP99D9Rb/NUP0fT2mQ++ySwt/tAH9yidzK0+kJ40H7payEHpFabGdgDkWhQWQAW1dM+EZzBbir5VtqO0MZ3aGNQLYgeJH9SHEMm4moqmxoEgiRde+ebXN60b+fecxzdbeaSqGLhKsBQevspLO8ZWQfJXy1Q=;GrxH/Iu+kH9ToS+XKRrJLA=="
 ---
 

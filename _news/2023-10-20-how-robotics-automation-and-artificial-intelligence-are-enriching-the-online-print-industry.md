@@ -3,8 +3,8 @@ category: news
 title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
 excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
 publishedDateTime: 2023-10-20T16:48:00Z
-originalUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
-webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
+originalUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
+webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 313
     isCached: true
 
-secured: "0Fx8CqEB4ioMu/wA2ga2BVF0oNYwC07Yc/7F6cF5X/ayJuF1rDq5b2YTCN4YDXv3yC7HmMD4Ob/+t8enjeurhynS2vergpUaz1VH4WMS3ombzjOtPs5lgE0QLIRQIIQTll0oeA3F21iKCZCesfUf+dYJrTbqOfglS+/zhRMlsMcTIraFHLdxzZGCveZa97XMboIr3AFuI+VcLLGEeHdjMy7UPUmfNKABQaAFy/bX1wKDm+X6LDF1R9MkyJbxiPdhCPrbwQEE82F35m6GUpmVQ3k4/rzJYmKb5u/Fng2D+wEBonM0OSAHqQO6FgqFyVSyPgAj2tDRIYiljS9Xtt2xOWAMLNCMcqFGF9j2+9FFfkU=;R168ltYSjY9Rrhe8jXIn2w=="
+secured: "LwZ5eD+hRhm0t1U5vOYfHPX1AgLTvmgMtKAxy8VwFx0D0LTjFQ28MI360wAcXzcKTruLirPzbmnk7h6R68e9l28nWql+/Nai8TNEkA1zAg+JyX7p72PkyP6YxmczLjQIL4LvtDi9P0eUua6VGEmuDrczieowwvtq/14IXD7sDhzEeObBDeH8Mgul/Qitj6YQpoDEote+suxaNXyTRAYKHrM35N/uWwTLhVIdDTCxRtQpPTXUePrqTEGXDlx8FuKlF7bR1XdXUspNQT8FKcHhRe8O4RzCcup+F8GkUXUNYmNzCBGK2HL0kdm1y4p0OQqVUfqkzUayCX6s4nSAV3vxRh4mf1SABFu9A1hCgc1v1nE=;Y2q9NNpgx36prR42JPzPJw=="
 ---
 

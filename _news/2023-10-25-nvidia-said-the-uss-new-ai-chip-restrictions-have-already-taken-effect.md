@@ -2,9 +2,9 @@
 category: news
 title: "Nvidia said the U.S.'s new AI chip restrictions have already taken effect"
 excerpt: "New rules restricting Nvidia from selling even the chips it designed for the Chinese market in the country have now taken effect."
-publishedDateTime: 2023-10-24T21:13:00Z
-originalUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/10/24/nvidia-says-new-ai-chip-restrictions-in-effect.html"
-webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/10/24/nvidia-says-new-ai-chip-restrictions-in-effect.html"
+publishedDateTime: 2023-10-24T19:54:00Z
+originalUrl: "https://www.bizjournals.com/sanjose/news/2023/10/24/nvidia-says-new-ai-chip-restrictions-in-effect.html"
+webUrl: "https://www.bizjournals.com/sanjose/news/2023/10/24/nvidia-says-new-ai-chip-restrictions-in-effect.html"
 type: article
 quality: 33
 heat: -1
@@ -205,15 +205,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 51
-  - title: "Nvidia Says U.S. Speeded up New Export Curbs on AI Chips"
-    excerpt: "(Reuters) - Chip designer Nvidia said new U.S. export restrictions blocking the sales of its high-end artificial intelligence chips to China had gone into effect on Monday after regulators advanced the timeline on the curbs from its 30-day period."
-    publishedDateTime: 2023-10-24T13:25:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-24/nvidia-says-u-s-speeded-up-new-export-curbs-on-ai-chips"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Additional Chinese orders for Nvidia AI chips cut short as US ends 30-day notice period"
     excerpt: "Nvidia disclosed in a document submitted to the US Securities and Exchange Commission (SEC) that the 30-day notice period for the 2023 export controls update by the Biden Administration had been cut short."
     publishedDateTime: 2023-10-26T05:05:00Z
@@ -256,6 +247,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "1GeENTce4t3h3rHcodKDoShuIhmHIryLkvD1qv4r/xIdUteGkI3AqcajyDjZMXNkvu4DuVB4qqr4wfNXNFwouVYtD6h34VNX0+RcNzPM58q5IpwVQl7e28tiuh/XwvlX4Xkwq6/wjA9Ug7BcpIzibdV6Hp1DteIRj3eCje64zP0WuthXX3H/7wNZw2DBkhh68QKt5w+meMULXj12Bvc5WTqszxT03E6d33a2I433W6gFXCSIXePX84cDo0exwtypg9W+TXo0eDj2g32u0FCm/VwBo5cIss8cWbwk+bhwCcoejjX+Ban/PKJTYlEXeIaig2ttUAT3YmqbUqKtVVIdrnpmvbzqgIiJAHdCR7s7TMl4Cu/Q/AIasnMRcNubelntBR3RoNQ1p+BhCackgVxWW1pfqhHyuKmwhnlOWFlInjubAWtITx6kH9Q06XBQ6nJ4hRCzdernFP+UaE9IR3YU9fWevF2YImPFM5oH9D5X2nqdUK0QIGna/DBarMDFRX4uLtGbffdlRoRRF5JyWtFuiA==;Cw1R3RLPerAgFxwR9weq9g=="
+secured: "bADN0Me5lTg9gosSJ5GLsU6RJ443JXnPpgXit085LHo3ffj4NVGPLKnnSysptuM/UXGsYSo7IOD/aXVC3Lgs3/7hVGHfZMzIqOTzG/+E3byluhyLcfaWEDeDcl/sTdJ9imWVf3NDKCZ0zYMSAXjoVX1W91/P2n0TTrisMF7JRRi6OULiVE+mB4hp1s54MmQIGVnDfk+BoXkzwncv10ywwAgttvkcSI67XbDqKrepFcTWOifHStrW2Ioc44zilVjPpE/43yYsTwidKIbqbhj+PID+0L7aboMuWi8E/is+2XYG6kdbq/So8UTKC7CrOZ2SnTZo62rfQzu3IQbx8O+pmqs/0jv6UZtZQ/jh5Ykljvv8MR7p4OI0MFBG3IecjfXppMiso4ELmfSSgoPsrIstfoe401CyFA9FoIQScUCF86FKvXpN1WnaO4n9phcumP+W/0LsSNLMSFvJ8Iaj3w2cZ0yqjIQETIdUnidCCQ4IDyZKUKSAiGRAiYGGcud60USmKIN8Qao91OQmbINFlK6cCg==;q9xqqBHbWD1tmXSefTF/tQ=="
 ---
 

@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "XPENG Hosts its 2023 TECH DAY: Advancing Leadership in Intelligent Driving and AI-defined Mobility"
-    excerpt: "XPENG has been consistently exploring innovative forms of mobility beyond just cars. XPENG's affiliate company AEROHT has released two development paths for flying cars, namely eVOTL flying cars and modular flying cars, adding more possibilities to XPENG's mobility ecosystem."
-    publishedDateTime: 2023-10-24T15:06:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231024442365/en/XPENG-Hosts-its-2023-TECH-DAY-Advancing-Leadership-in-Intelligent-Driving-and-AI-defined-Mobility"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 5
 
 secured: "e0i6t63FlEh4MsQsL47zelkWgZYHjselusKmkavHl7ecAXns5uyyB/hGOVOvq6lgsya/Emmh07AtNLbb+vxTCQMoIBh2l22krk33faKaDJI5qZPu7o2S+3M0gCFBkrAfkq0j0u8BXOIBczxhL8Xl8NXtxuBNmrRh1XQdpmpHBZ5JcOBDD6Jh+acV2s4u+S1kfqzmzyxeCI5Dd7/ZrHFpWA6E2vXZpk458Inp3VvbgmeOQoqpZsqbjqR0ExiIAo2ybFWkwcTYOl0UmTdAdGgWlKBdX0hDoqY0j6bK1JEJmAJL1vVPCddoha4k8iWo16uaFuRL1OuFUqyJJrwjwf52TBt/ucKmZn94fj/NoAQwgcML1yKNc6J+tC9NdeQfSkn6/q99qno/MJs1VvFyCCNj50j4docYuZZ1aFZS8P2e+vknVeM9VdvmyCTvl00sxckk7AhgOgu5qe3bRsu1WLOUZpiJnlzl/kg9jTofjLBnIDPIKbuMbxNz3d1e+a9pXZw8aspuIvTHy645T5LLt4SC1Q==;ViiPxNOE84dR3M7oJInftw=="
 ---
