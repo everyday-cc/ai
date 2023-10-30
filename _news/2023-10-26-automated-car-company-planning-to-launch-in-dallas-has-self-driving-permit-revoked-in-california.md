@@ -41,6 +41,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Cruise Suspends Self-Driving Car Services / Rosanna Xia on 'California Against the Sea' / Berkeley's Girls Garage"
+    excerpt: "We'll learn why state regulators have revoked the permits for Cruise's driverless cars and what the implications are for the autonomous vehicle industry here in California and beyond. Then, we'll hear from journalist and author,"
+    publishedDateTime: 2023-10-29T23:16:00Z
+    webUrl: "https://www.kalw.org/show/state-bay/2023-10-29/cruise-suspends-self-driving-car-services-rosanna-xia-on-california-against-the-sea-berkeleys-girls-garage"
+    type: article
+    provider:
+      name: KALW
+      domain: kalw.org
+    quality: 18
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/eb8c227/2147483647/strip/true/crop/533x280+0+43/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2F59%2Fc486708f45b49f9fca1a7947c5fc%2Fcatscover-web800px.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "peWvoIfip4x1behU0jaiv6aiS0k7HR/k/bYZt2v7LZL7BqPMTBTOl+xemplHuiyCjAMME9W05QTmjP0HGLCay/0xgmE5vB6D8CJDamemODGX1iHiy636cl8E2RYBPFFI3UTPc9wL9uA0ozmvS9EaV9GPkTcgffwYR5eXzn6PAGtOj6QvY5W1djBSttvnPFF524VFBvTlPuHtoh5FbYW41JS8TVIzswYqw4Skpt8IvC7zk33GUX282PBDXpTXbzvkDAphTW35MHZQf+6Xr37BmjbhggBmds3HvxN38ag01UOl6wwJy1DhJOotEAtGXVfBFwauDmToGIrrC8yvAANiq9It55OAzkQj1Eotn8JuI0IJnN8qyapl3wLbEHUrJQGVxSVxvKfpD3bf3zsVvFGs4caakEcKYslzlx/WSOqE+Tzjqi5EEH7YHPBqRfdRNmOCBnXEO+ibsSFDH1/W75ioKimBr2BG9rKaFyufgnPXeZb5GtX9bjUCgtqwbFjnjobDHbFvKcMmf472GZ72yzbFgw==;42JPdrHR3ULe054SfKEyNg=="
 ---

@@ -39,15 +39,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Amazon Web Services to Launch AWS European Sovereign Cloud"
-    excerpt: "Telia uses AWS DeepRacer as part of its program to educate 2,000 staff on artificial intelligence and machine learning with AWS. “Telia Company welcomes the development of the AWS European Sovereign Cloud as a complement to Telia’s trusted cloud ..."
-    publishedDateTime: 2023-10-25T05:32:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231024960766/en/Amazon-Web-Services-to-Launch-AWS-European-Sovereign-Cloud/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
 
 secured: "cJuEM9Yh44aG0LGYJI4zRc71JfF4vnhcJ87QUNS6qaYrqSWLjA6t+z/XSog3ipxNMN4w2VYInnxh9DS+uTIXJON8f5XZBrYAVdNGZ0I049i65ztnYYORdVPNZvPKPQj2n4C0Qa3WnnBB0qEooJX8K4dsmLXZr5D43iyQHwAoGRCoahL8feZS2O05YVSYmbn3phhL9+tGFkQxVQMaLD1zxe/MnzrFi7iLXkXYPiMYlBtzOy+QVY7WSGT5wgHWQUDUSsBx8n7K5YYVKXUZisAv0E/k6qbOsfs62WdMvvU9cfs7XOq9nFiP6wGey+osRi9DZ+y7oGdu667asGMYdfCPoJpq/KhWInfuVOKfOwl50Dz6lkxWqZrkmsWyHv07b3bH2zYyP2NfH26dAQu4IZCG8oowswWLWA4n3p0mtRecDe8ep0mDXUvwXGoeLj88UHX7Lf4vWAcxvy9GfL0k33SIobLP/YbWEkdHqB8AE7xTR7uxc9cuk4p4jyW2rqKIhGHWqlyw6kDX2EdpUOqy8+xVXQ==;/vgDkMmY6T4vJVqZdssmVw=="
 ---

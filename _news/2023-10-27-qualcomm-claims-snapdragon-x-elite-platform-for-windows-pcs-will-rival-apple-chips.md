@@ -39,22 +39,6 @@ related:
         width: 936
         height: 560
         isCached: true
-  - title: "Qualcomm leans into Gen AI to beat chip competition. Can it?"
-    excerpt: "Qualcomm on Tuesday made a series of announcements that highlights the chipmaker’s pivot to generative AI. All the products it unveiled were aimed at supporting gen AI applications so mobile units can perform AI-based tasks on device. This is testament to the fact that use cases for gen AI are only set to rise exponentially."
-    publishedDateTime: 2023-10-25T05:27:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/qualcomm-leans-into-gen-ai-to-beat-chip-competition-can-it/article67456544.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/qualcomm-leans-into-gen-ai-to-beat-chip-competition-can-it/article67456544.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/qualcomm-leans-into-gen-ai-to-beat-chip-competition-can-it/article67456544.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/uiojd4/article67456525.ece/alternates/FREE_1200/QUALCOMM-BOARD"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Android Circuit: Qualcomm Launches SnapDragon 8 Gen 3, Xiaomi 14’s Superb Screen, Honor Magic 6 AI Secrets"
     excerpt: "This week’s Android headlines; Samsung Galaxy S24 benchmarks, Qualcomm launches Snapdragon 8 Gen 3, Honor Magic6’s AI power, Dimensity 9300 performance, Pixel 8 Pro screen details, Xiaomi 14 released,"
     publishedDateTime: 2023-10-27T20:13:00Z
@@ -84,22 +68,6 @@ related:
       - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/293bf65844f7eac55034b4a26f4d93d1.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Qualcomm announces Windows laptop AI-powered chip to outpace Apple's Mac processors in select tasks"
-    excerpt: "This revelation follows a recent Reuters report indicating that Microsoft has urged Qualcomm, Nvidia, and Advanced Micro Devices to develop new chips capable of accommodating a range of innovative AI features in Windows, the world's most widely used PC operating system."
-    publishedDateTime: 2023-10-25T05:29:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/qualcomm-announces-windows-laptop-ai-powered-chip-to-outpace-apples-mac-processors-in-select-tasks-11698210532100.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/qualcomm-announces-windows-laptop-ai-powered-chip-to-outpace-apples-mac-processors-in-select-tasks/amp-11698210532100.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/qualcomm-announces-windows-laptop-ai-powered-chip-to-outpace-apples-mac-processors-in-select-tasks/amp-11698210532100.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 60
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/10/25/1600x900/AUTOTALKS-M-A-QUALCOMM-0_1698211703241_1698211724194.JPG"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Qualcomm’s new Snapdragon X Elite notebook chips are made with AI in mind"
     excerpt: "Touting twice the CPU performance compared to competitors and arriving in mid-2024, Qualcomm has revealed its new Snapdragon X Elite chips."

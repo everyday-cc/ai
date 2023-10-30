@@ -3,10 +3,10 @@ category: news
 title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
 excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
 publishedDateTime: 2023-10-25T14:58:00Z
-originalUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
-webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
+originalUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca"
+webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEwXC9NaWNyb3NvZnQtbG9nb182NTM5M2JkMjZkNzFhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Microsoft, Rockwell Automation to bring Gen AI to robotics development"
@@ -180,20 +186,6 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2022/07/windows-g2ec5b42ec_1280-e1658917868303.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "Copilots, AI and Azure drive Microsoft revenue growth"
-    excerpt: "Hood said Microsoft’s enterprise mobility and security installed base grew 11% to more than 259 million seats, while the company’s on-premise server business reported revenue growth of 2%, driven by what she said was demand in advance of Windows Server 2012 end of support."
-    publishedDateTime: 2023-10-25T06:30:00Z
-    webUrl: "https://www.computerweekly.com/news/366557072/Copilots-AI-and-Azure-drive-Microsoft-revenue-growth"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 69
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/iot_g1182604383.jpg"
-        width: 1200
-        height: 400
         isCached: true
   - title: "Google cloud growth slows as Microsoft's rises, but it's all eyes on AI for 2024"
     excerpt: "Growth rates may have slowed - temporarily - at Google, but those are still impressive numbers, as are those reported by Microsoft. That said, it’s a sign of the times that on the analyst call, most attention for both companies fell on their AI strategies. It’s clear what the main battleground talking point will be in 2024."
@@ -525,6 +517,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "qMNXW3CEYfGxaZIGvLsKSBQGFGPb/Hr3xNrSbHXkd75TA6PODueRD8KBNDwm8ifUK12JXLrn9MYAG4kDFBI70SaD6txOCpMPMPyBe6CdDfA4C2YC7TQAZBOQF6uxcsIYf/zBPR/gMupgqAtgNWWKbhrC1y0TmKavni2fNqIYhgzO1UhjRwHfSvve7TWdhJo6ao7fXebp//OZXdowYIv21Qv6kbAgJWHQao+X9KLclRO/Jfrew5GWH1a/5ivCIfVU4QDn7To3s5xwOwabk/ZO4QJi401ANHh8s3GqiCl3+tRNLSNfqiCZOTP2teKW9bOh+N2g/OLiwD/t7pzvNgqsGWT4f191bp2efPO1eqGYSacHBc6CKnECwjuofaQ5Rn4q6HK+PTe4BN3mn2WlADNHgEk8I3CstGpLe0ZMuN/vT5x7S9ZNzhKpC1BI4+415nAg66pdFQFB08NbWGqIX7CEUxVgf7MI/NTGw3ffG8oxMOpGaq6JFy+qCvU+KAQ/ZhcJ0bgRG+WHBnk9WlbJrWvRfA==;mo0ME3vYYauJIXXwj45HxA=="
+secured: "RI/872O9yjGkBV4XfnqxktVpydVuXD+fHPKgNc5kNVole1lnNurHHSVehBZ777Twsqc9M15DBCFx2lm+a6QCglSrSeCVKObm1oQUU1P8jfRQWqPMSDygXeAXEUyVe3llqAaz6FZ613nIhWlY34WiiTsgptiXhciRfbmG8feP3Yq3s/fNwQ55W0VrSG9tIxV3RWHytuSVmyjmBM6tI7qjgNh4MFZQOu5rrEnLXtCCfKb/3umnS8uAYXd4YikfYUQ54Js6yq9DCy4ssBUQLo1Oer4p3pYEg3oPrBJtdaiTh2dM0x+VYEybf7w0WgVzlXsZ0YhXZ4BY8b1ndf1Np8owX01QvPsQ+6Or8I/sCaFbOrM=;Ild0HjgSThb5EIlZvgqWZA=="
 ---
 

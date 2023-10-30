@@ -7,7 +7,7 @@ originalUrl: "https://tokenist.com/these-3-ai-stocks-offer-great-value-but-are-u
 webUrl: "https://tokenist.com/these-3-ai-stocks-offer-great-value-but-are-under-the-radar-for-now/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2560
     height: 1366
     isCached: true
+
+related:
+  - title: "There's a 'game of thrones' in AI, but these China tech giants offer real value, tech veteran says"
+    excerpt: "Chinese tech giants may be reeling from the regulatory clampdowns, but clear winners are likely to emerge in the artificial intelligence space, says Dan Ives."
+    publishedDateTime: 2023-10-29T21:16:00Z
+    webUrl: "https://www.cnbc.com/2023/10/30/these-chinese-tech-stocks-offer-a-lot-of-value-says-dan-ives-tech-analyst.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 53
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107179877-1674006282871-gettyimages-1245952335-SHANGHAI_ECONOMY.jpeg?v=1698396404&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "EfrSunNjKLDa7nj863K60awf5ffOoLwS8sSsC1mksEeeUSl2YkUFc/gQ2WGgHymxrH9r8h0K1NgqiO8CIrzQjNEsL1xcRfxhDPJo9YIHB2lNkPK5ivOCSaqhwqkl7qQjFiy2H40II/kgZ7uFu/huzsANdblffYwkrAVabW5BtL2BtQFawXOHgFRtPksXD5FgvGraNR6NDXb54QzACKHmAkVbj9NOYyYmjev8YsLIPpH3nvIbaQ++eL2a+hQC/8Wf3E0eyaTtAZbgGKkyCvocXOMVo3tThjY2GzmaVBTWp/qk5BpyECg25DqTeK4IK7uorWr4W9+Vtxh0NN8e4/UfmT1jDaM5TqeYXrP/CBxXe50=;Jsw9h9ZsJgnigQ9n/BS7sg=="
 ---

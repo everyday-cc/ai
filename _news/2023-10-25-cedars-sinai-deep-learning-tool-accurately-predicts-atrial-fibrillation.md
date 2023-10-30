@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/cedars-sinai-deep-learning-tool
 webUrl: "https://healthitanalytics.com/news/cedars-sinai-deep-learning-tool-accurately-predicts-atrial-fibrillation"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Model Predicts Atrial Fibrillation From Outpatient ECGs"
-    excerpt: "Deep learning of outpatient sinus rhythm electrocardiograms (ECGs) predicts atrial fibrillation (AF) within 31 days, according to a study published online Oct. 18 in JAMA Cardiology. Neal Yuan, M.D.,"
-    publishedDateTime: 2023-10-25T06:30:00Z
-    webUrl: "https://www.physiciansweekly.com/deep-learning-model-predicts-atrial-fibrillation-from-outpatient-ecgs/"
-    type: article
-    provider:
-      name: Too Old to Operate
-      domain: physiciansweekly.com
-    quality: 39
-    images:
-      - url: "https://www.physiciansweekly.com/wp-content/uploads/2023/10/image1698215482.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Atrial Fibrillation Prediction Through Deep Learning of ECGs in Sinus Rhythm For US Veterans"
     excerpt: "The following is a summary of “Deep Learning of Electrocardiograms in Sinus Rhythm From US Veterans to Predict Atrial Fibrillation,” published in the October 2023 issue of Cardiology by Yuan et al. Deep learning of electrocardiograms (ECGs) can detect atrial fibrillation early,"
     publishedDateTime: 2023-10-27T11:33:00Z

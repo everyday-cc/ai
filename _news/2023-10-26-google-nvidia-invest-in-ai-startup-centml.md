@@ -94,15 +94,6 @@ related:
         width: 1252
         height: 704
         isCached: true
-  - title: "US orders immediate halt to some AI chip exports to China, says Nvidia"
-    excerpt: "Fellow tech company Intel ‘reviewing regulations’ as timing of move brought forward"
-    publishedDateTime: 2023-10-25T06:19:00Z
-    webUrl: "https://www.theguardian.com/business/2023/oct/25/us-orders-immediate-halt-to-some-ai-chip-exports-to-china-says-nvidia"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
   - title: "US Government Orders Nvidia to Halt AI Chip Shipments to China"
     excerpt: "The US government has instructed semiconductor designer Nvidia to cease the shipment of certain high-end artificial intelligence chips to China, according to a company filing disclosed on Tuesday."
     publishedDateTime: 2023-10-26T13:21:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-29T21:16:00Z
 originalUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/29/ibm-research-shows-off-new-northpole-neural-accelerator/"
 webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/29/ibm-research-shows-off-new-northpole-neural-accelerator/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/653ecafcf6b11a1e24f7d892/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -28,6 +29,6 @@ images:
     height: 900
     isCached: true
 
-secured: "O7Tp1YPnmW0+znbwR1ykMTGW6/tdfBVJLDrWjCzXAQN2IusKKeXnvUXqsq0E61D4Rv7FTuT0igfGFzU32UaCg50NxZcdy74LsOWc9aHq6M9KohZe5B9cMDR3Zu2jNVPzWbaW836X2LsebR9rg3xq20f6W81QYkKLL5PDalo0NLvHuNSzTWgUr4cdv2oPxgP9OdtCQo0QAKyyAfNfrow/RonwNEG6tDsJBAxx8yC/upxRWxKzAUhqlMpU+S/KqqT6CudL7CUmM2+i/sE4u/PeOoAnicTL1wz4eWHd+z0C6//rcGtHv3FqXG921q6VK5SH5XZlsJeN2JnvOJqxmD4PAnipzIkCh2ko6QClXOXbX6k=;aLHcBqC7QCKLfeL8j0+Y3w=="
+secured: "BdZhYyu6ZpTD8s1ZY44cZ9uj3XYYRjMu2CFhkT9SAJv5R3F4OBCobUrZQtpdILUvPVh6n5uI4gnqa/74Nl5lJ60bcGviGnXhk51ye7spjrICHQDSnuJ0oRi9SCGVQafPKxHBgVKIIuG2qXmM4xZfCO5CkT6SfXwQO2zFIMcF15mjMbKwIUZSfFYGYajPXKkXaoyqmLg9CCHjvYEspjRQ14ibtT4SgmYnnh2+FI/gYOB+bk6krjvoRaQ2dklo6wYpBMR1I4keF0simYexUd5n1SoKAX2qM0Mhbf/oazc2uAkrsiznQrOoGvgLlEToRxEPPtsbwAlY+j71L4obzMO5yDu1fGgG3yWmysf+6lj1xMzASjaQIX8Ik9KpQdUUgAq/M31crPCCWEyKkSBqGC3qaVom/Bb6nMQaTDzLfAamTk9I9CvPFw6RmF0pLtfKOCQpjkhhTUOpJDvd1yJx2Lnj+LuaZ1v3rgRmb7ui6JGqOvJ/SaST6pWf0NFNCl7G3bba/u9bj5+EOBoEpErtr/PGGg==;AqN/qOQYUynwG2dqrBljAA=="
 ---
 

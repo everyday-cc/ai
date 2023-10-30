@@ -9,7 +9,7 @@ ampWebUrl: "https://dunyanews.tv/amp/english/766358.php"
 cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/766358.php"
 type: article
 quality: 59
-heat: 81
+heat: 83
 published: true
 
 provider:

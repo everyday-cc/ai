@@ -42,7 +42,7 @@ related:
   - title: "Investor frenzy will overvalue AI tech start-ups, says early OpenAI backer"
     excerpt: "Artificial intelligence start-ups are overvalued and most will fail to make money, according to Vinod Khosla, an early OpenAI backer, in a warning to investors who are pouring billions into the buzzy sector."
     publishedDateTime: 2023-10-29T04:59:00Z
-    webUrl: "https://www.ft.com/content/84ac1771-9a0b-4275-936e-eb01f939bcfa"
+    webUrl: "https://www.ft.com/content/84ac1771-9a0b-4275-936e-eb01f939bcfa?sharetype=gift"
     type: article
     provider:
       name: The Financial Times

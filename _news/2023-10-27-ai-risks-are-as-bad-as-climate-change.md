@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google DeepMind Chief Believes AI Risk Is Similar To Climate Crisis"
-    excerpt: "Demis Hassabis said he wishes to see the creation of an IPCC and CERN-like international body for the regulation of AI."
-    publishedDateTime: 2023-10-25T06:44:00Z
-    webUrl: "https://www.ibtimes.co.uk/google-deepmind-chief-believes-ai-risk-similar-climate-crisis-1720943"
+  - title: "Google UK’s Head of AI thinks it is an existential threat, as dangerous as climate change"
+    excerpt: "Google's Head of AI in the UK, Demis Hassabis thinks that generative AI is a very big threat to humanity, almost as dangerous as climate change. Hassabis said that AI needs an independent governing body for AI,"
+    publishedDateTime: 2023-10-27T08:37:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/google-uk-head-of-ai-thinks-it-is-an-existential-threat-as-dangerous-as-climate-change-13305912.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/google-uk-head-of-ai-thinks-it-is-an-existential-threat-as-dangerous-as-climate-change-13305912.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/google-uk-head-of-ai-thinks-it-is-an-existential-threat-as-dangerous-as-climate-change-13305912.html/amp"
     type: article
     provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 54
+      name: Firstpost
+      domain: firstpost.com
+    quality: 50
     images:
-      - url: "https://d.ibtimes.co.uk/en/full/1720546/artificial-intelligence.jpg"
-        width: 2500
-        height: 1501
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/10/Google-UKs-Head-of-AI-thinks-it-is-an-existential-threat-as-dangerous-as-climate-change.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "cwEpVFZ2Z9bBYp50jRMwpi1XvRRzbmHZ/11TBKqDTl2rKKqKrulCNMfsV42XHL+KCeHsNKG7qIVqq3jvWMQ4lQqn2VeDVE7g9nyK9eys3JE7JkPD0woKf+8GucJEvogPQP1PqpOFugakfLmyjj75Xx24kUdGijwEPSI5XRD2CFWVx9FMdHSjjNg+9MLVDAC5NFUh7wgv0KdxhFTJ7ZB8QDUu3ndVmhKvATtzq1YvvAUs/QbyD54Gxmw3//dwuoh8uxHquv+v/RTpPLO2GTs0nfeQeXpULTU8PS/1LtRQ3tcsuq60FK3BDfNSfdAk1b8UYrSGWVxWLV4dreAZd7fu80D8v2TbRiR06bD9S/cwPU4=;2t1VvG2d0gZHVgaIrYbPgA=="

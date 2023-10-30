@@ -7,8 +7,8 @@ originalUrl: "https://www.aa.com.tr/en/p/duyurular/1002/amazon-web-services-to-l
 webUrl: "https://www.aa.com.tr/en/p/duyurular/1002/amazon-web-services-to-launch-aws-european-sovereign-cloud"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Anadolu Ajansi
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Web Services to Launch AWS European Sovereign Cloud"
-    excerpt: "Telia uses AWS DeepRacer as part of its program to educate 2,000 staff on artificial intelligence and machine learning with AWS. “Telia Company welcomes the development of the AWS European Sovereign Cloud as a complement to Telia’s trusted cloud ..."
-    publishedDateTime: 2023-10-25T05:32:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231024960766/en/Amazon-Web-Services-to-Launch-AWS-European-Sovereign-Cloud/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
   - title: "Top 10 national European fintech associations"
     excerpt: "We count down the top European fintech associations by country, order by the total addressable market of the countries in which they operate"
     publishedDateTime: 2023-10-26T13:56:00Z

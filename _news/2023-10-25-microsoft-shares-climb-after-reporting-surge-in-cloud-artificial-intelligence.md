@@ -173,20 +173,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Copilots, AI and Azure drive Microsoft revenue growth"
-    excerpt: "Hood said Microsoft’s enterprise mobility and security installed base grew 11% to more than 259 million seats, while the company’s on-premise server business reported revenue growth of 2%, driven by what she said was demand in advance of Windows Server 2012 end of support."
-    publishedDateTime: 2023-10-25T06:30:00Z
-    webUrl: "https://www.computerweekly.com/news/366557072/Copilots-AI-and-Azure-drive-Microsoft-revenue-growth"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 69
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/iot_g1182604383.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Google cloud growth slows as Microsoft's rises, but it's all eyes on AI for 2024"
     excerpt: "Growth rates may have slowed - temporarily - at Google, but those are still impressive numbers, as are those reported by Microsoft. That said, it’s a sign of the times that on the analyst call, most attention for both companies fell on their AI strategies. It’s clear what the main battleground talking point will be in 2024."
     publishedDateTime: 2023-10-25T10:02:00Z
@@ -202,6 +188,20 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2023-10/Screenshot%202023-10-25%20at%2011.00.35.png"
         width: 1184
         height: 680
+        isCached: true
+  - title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
+    excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
+    publishedDateTime: 2023-10-25T14:58:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 69
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEwXC9NaWNyb3NvZnQtbG9nb182NTM5M2JkMjZkNzFhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
+        width: 1200
+        height: 630
         isCached: true
   - title: "Copilot is ready for takeoff: Microsoft rolls out artificial intelligence for Windows"
     excerpt: "AI is coming to Windows environments — which can be a big asset when implemented correctly and a security nightmare when it’s not."
@@ -383,15 +383,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
-    excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
-    publishedDateTime: 2023-10-25T14:58:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 49
   - title: "NobleAI Announces Groundbreaking Collaboration with Microsoft Azure Quantum Elements"
     excerpt: "Our focus on using Science-Based AI to supercharge the development of new chemicals, formulations, and materials for product development naturally aligns very well with the massive scale and simulation capabilities of Azure Quantum Elements,"
     publishedDateTime: 2023-10-25T12:05:00Z

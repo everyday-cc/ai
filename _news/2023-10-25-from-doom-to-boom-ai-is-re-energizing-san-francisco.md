@@ -24,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "GM Subsidiary Cruise’S Self-Driving Car Permit Suspended In San Francisco"
-    excerpt: "In a significant move, the California Department of Motor Vehicles (DMV) has immediately suspended GM self-driving car s"
-    publishedDateTime: 2023-10-25T05:49:00Z
-    webUrl: "https://menafn.com/1107298885/GM-Subsidiary-CruiseS-Self-Driving-Car-Permit-Suspended-In-San-Francisco"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 23
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/25/I_97b1aimage_story.jpeg"
-        width: 960
-        height: 540
-        isCached: true
-
 secured: "bmkvcUPrJ+I0fV5NvDjzJESw64d8eEl4jO/gy2QbLNIbhEkATeOP7MtxV8ZtdvJP56dWRFGX2k+RUYP58TnU30tBOrmUpealiNH2myI2KzyEe+nu2EYAZk494XcGyKib7Pb26TdElKgZbUeUZbPnsJ0oAdJRAmtCODiIROyeYMSJelcKblg+T4c3fnLn5MHrjlMM4m3SGZj9bRylumKFy/f6b80hQxJiC+qgaNVjqokKv3oii5w6aPtIvOrxBTzi3SdIhEScsrZ8SOKgiiEPsDzaZDvSGBI9heWDsVo1S5Ylz3yodkQIY1HcumOlWoi6r8T3jzWiNiqBey8H25r1JH1FPP1PA/C6AKIKM4e2XkU=;zH6C4UqWbT4xt3vYfEWFkg=="
 ---
 

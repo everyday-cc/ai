@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-machine-learning-robotics-retail-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-machine-learning-robotics-retail-supply-chain-technology-2023-10?amp"
 type: article
 quality: 109
-heat: 131
+heat: 133
 published: true
 
 provider:
