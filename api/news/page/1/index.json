@@ -2,20 +2,20 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-10-30-lenskart-acquires-ai-based-computer-vision-startup-tango-eye.md",
-      "title": "Lenskart acquires AI-based computer vision startup Tango Eye",
-      "excerpt": "The company has also been an early investor in Tango, and the acquisition strengthens Lenskart's commitment towards leveraging technology to solve business problems and delight customers, the company said.",
+      "path": "_news/2023-10-30-succeeding-in-a-crowded-ai-market-takes-a-thoughtful-approach.md",
+      "title": "Succeeding In A Crowded AI Market Takes A Thoughtful Approach",
+      "excerpt": "As AI startups gain more years of experience and growth, valuations and performance climb. We are in a market full of possibilities for acquisitions and IPOs. Today’s exciting AI startups may become the Googles and Amazons of tomorrow or get assimilated into the existing behemoths.",
       "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937",
-      "originalUrl": "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937",
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/30/succeeding-in-a-crowded-ai-market-takes-a-thoughtful-approach/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/30/succeeding-in-a-crowded-ai-market-takes-a-thoughtful-approach/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.zeebiz.com/sites/default/files/2023/10/30/267062-247218-lenskart.jpg?im=FitAndFill=(1200,900)",
-          "width": 1200,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65256ca2c533af55bd7bc158/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
           "height": 900,
           "title": null,
           "attribution": null,
@@ -24,13 +24,106 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp",
-      "publishedDateTime": "2023-10-30T02:47:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/30/succeeding-in-a-crowded-ai-market-takes-a-thoughtful-approach/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/10/30/succeeding-in-a-crowded-ai-market-takes-a-thoughtful-approach/amp/",
+      "publishedDateTime": "2023-10-30T04:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-30-we-need-to-focus-on-the-ai-harms-that-already-exist.md",
+      "title": "We need to focus on the AI harms that already exist",
+      "excerpt": "Fears about potential future existential risk are blinding us to the fact AI systems are already hurting people here and now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/10/30/1082656/focus-on-existing-ai-harms/",
+      "originalUrl": "https://www.technologyreview.com/2023/10/30/1082656/focus-on-existing-ai-harms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/10/excoded.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/10/30/1082656/focus-on-existing-ai-harms/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/30/1082656/focus-on-existing-ai-harms/amp/",
+      "publishedDateTime": "2023-10-30T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-30-lenskart-acquires-ai-led-computer-vision-startup-tango-eye.md",
+      "title": "Lenskart acquires AI-led computer vision startup Tango Eye",
+      "excerpt": "With this acquisition, Lenskart, which has been an early investor in the startup, plans to use visual AI technology in improving store experience as well as its product experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/lenskart-acquires-ai-led-computer-vision-startup-tango-eye-11625031.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/lenskart-acquires-ai-led-computer-vision-startup-tango-eye-11625031.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2017/06/LENSKART.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/lenskart-acquires-ai-led-computer-vision-startup-tango-eye-11625031.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/lenskart-acquires-ai-led-computer-vision-startup-tango-eye-11625031.html/amp",
+      "publishedDateTime": "2023-10-30T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -328,7 +421,7 @@
       "originalUrl": "https://www.cnbc.com/2023/10/30/biden-unveils-us-governments-first-ever-ai-executive-order.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -431,7 +524,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/new-corruption-tool-nightshade-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -525,58 +618,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-30-companies-arent-spending-big-on-ai-heres-why-that-cautious-approach-makes-sense.md",
-      "title": "Companies aren't spending big on AI. Here's why that cautious approach makes sense",
-      "excerpt": "Everyone everywhere is talking about AI, but new research suggests it's going to be a while before large-scale AI projects move into production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/companies-arent-spending-big-on-ai-heres-why-that-cautious-approach-makes-sense/",
-      "originalUrl": "https://www.zdnet.com/article/companies-arent-spending-big-on-ai-heres-why-that-cautious-approach-makes-sense/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/897c492dce68b29c5f7aebbc67b1f89e653074de/2023/10/27/8054497c-1161-4385-a734-d53701ac5258/gettyimages-1352499859.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-29T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-29-using-artificial-intelligence-to-predict-individual-health-outcomes.md",
       "title": "Using Artificial Intelligence To Predict Individual Health Outcomes",
       "excerpt": "Would you like to know if you are going to develop diabetes or die early from heart disease? Artificial intelligence may soon give you the answer.",
@@ -585,7 +626,7 @@
       "originalUrl": "https://www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-intelligence-to-predict-individual-health-outcomes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -688,7 +729,7 @@
       "originalUrl": "https://www.forbes.com/sites/mikebugembe/2023/10/29/anas-andaloussi-from-minecraft-player-to-ai-business-prodigy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -739,7 +780,7 @@
       "originalUrl": "https://www.medindia.net/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -825,7 +866,7 @@
       "originalUrl": "https://dunyanews.tv/en/Technology/766358-As-baby-boomers-retire,-German-businesses-turn-to-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -868,7 +909,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/10/28/are-you-ready-for-leading-and-sustaining-ai-responsibly-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -967,8 +1008,8 @@
       "title": "Major UK retailers urged to quit ‘authoritarian’ police facial recognition strategy",
       "excerpt": "Human rights campaigners say the Pegasus initiative wrongly criminalises people of colour, women and LGBTQ+ people",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy",
-      "originalUrl": "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy",
+      "webUrl": "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy?ref=upstract.com",
       "featuredContent": null,
       "highlight": null,
       "heat": 78,
@@ -987,7 +1028,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy",
-      "publishedDateTime": "2023-10-28T07:00:00-07:00",
+      "publishedDateTime": "2023-10-28T08:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -1128,7 +1169,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -1152,57 +1193,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-28-apple-loop-iphone-16-price-shock-apples-missing-ai-mystery-imac-launch.md",
-      "title": "Apple Loop: iPhone 16 Price Shock, Apple’s Missing AI, Mystery iMac Launch",
-      "excerpt": "This week’s Apple headlines; a shocking iPhone price rise, the release of iOS 17.1, Apple’s Scary Fast event, plans for a new iMac and MacBook Pro, iPad Air details leak, Apple’s missing AI, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ewanspence/2023/10/27/apple-headlines-iphone-16-pro-price-scary-fast-imac-macbook-pro-ios-update-ipad-air/",
-      "originalUrl": "https://www.forbes.com/sites/ewanspence/2023/10/27/apple-headlines-iphone-16-pro-price-scary-fast-imac-macbook-pro-ios-update-ipad-air/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6529b634ba755d58cc946446/0x0.jpg?format=jpg&crop=1248,702,x144,y281,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2023/10/27/apple-headlines-iphone-16-pro-price-scary-fast-imac-macbook-pro-ios-update-ipad-air/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/27/apple-headlines-iphone-16-pro-price-scary-fast-imac-macbook-pro-ios-update-ipad-air/amp/",
-      "publishedDateTime": "2023-10-27T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

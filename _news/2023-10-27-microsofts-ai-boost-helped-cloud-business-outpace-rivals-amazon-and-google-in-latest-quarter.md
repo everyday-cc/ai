@@ -139,20 +139,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Is Microsoft the Best AI Growth Stock To Buy Now?"
-    excerpt: "Real-time index price for PHLX Swiss Franc (XDS), along with buy or sell indicators, analysis, charts, historical performance, news and more"
-    publishedDateTime: 2023-10-25T17:54:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/XDS/pressreleases/21417415/is-microsoft-the-best-ai-growth-stock-to-buy-now/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 54
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/ab348a320d1728157cb797ad17e9a222/wdivfjfvciwg9qop.png"
-        width: 1570
-        height: 1156
-        isCached: true
   - title: "Microsoft Earnings Call Highlights Latest In AI For Search & Ads"
     excerpt: "Explore Microsoft's latest AI developments in search and upcoming plans for Bing in the company's most recent earnings call."
     publishedDateTime: 2023-10-25T22:38:00Z
@@ -206,6 +192,20 @@ related:
       name: RCR Wireless News
       domain: rcrwireless.com
     quality: 54
+  - title: "Microsoft starting to benefit from AI investment"
+    excerpt: "Buried in the quarterly results Software King of the World Microsoft had a surprise number in its quarterly figures. It would appear that the giant is already making money off its investment in AI. Voles's quarterly results \"showed early signs that the company's investments in"
+    publishedDateTime: 2023-10-30T11:41:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57847-microsoft-starting-to-benefit-from-ai-investment"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/28bdafa58ddedc7c09e9bd72cef4d655_L.jpg"
+        width: 620
+        height: 431
+        isCached: true
   - title: "Talk of Microsoft winning the AI race could be premature"
     excerpt: "But subsequent chatter about Microsoft leading the AI (artificial intelligence) race may be premature. Azure may be gaining market share but the most recent quarter is not evidence of a definitive trend. Indeed, even after last week’s reversal, Alphabet shares have outperformed Microsoft’s in 2023."
     publishedDateTime: 2023-10-30T05:45:00Z
@@ -330,6 +330,15 @@ related:
     excerpt: "John Montgomery - Corporate Vice President, Azure AI In recent months, the remarkable strides made in AI innovation have ignited a wave of"
     publishedDateTime: 2023-10-30T08:22:00Z
     webUrl: "https://www.inferse.com/772808/microsoft-and-meta-expand-their-ai-partnership-with-llama-2-on-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 31
+  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
+    excerpt: "Remember when software wasn’t connected to the internet? Didn’t think so. In a handful of years, this will also be true for software that doesn’t come with an"
+    publishedDateTime: 2023-10-30T09:36:00Z
+    webUrl: "https://www.inferse.com/772918/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
     type: article
     provider:
       name: Inferse

@@ -9,7 +9,7 @@ ampWebUrl: "https://ktul.com/amp/news/local/oklahoma-lawmakers-look-to-further-r
 cdnAmpWebUrl: "https://ktul-com.cdn.ampproject.org/c/s/ktul.com/amp/news/local/oklahoma-lawmakers-look-to-further-regulate-artificial-intelligence"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 986
     height: 554
     isCached: true
+
+related:
+  - title: "New Laws to Regulate AI Would Be Premature"
+    excerpt: "Market experimentation has the highest return now, when we are debating the best and most appropriate uses for the technology."
+    publishedDateTime: 2023-10-30T05:45:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/10/30/new-laws-to-regulate-ai-would-be-premature/7df5ec04-7711-11ee-97dd-7a173b1bd730_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PV4KI2TXCEI65F65PILTWG6XGA.jpg&w=1440"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "cp4z4ympn/knH8OuX5hkutnNszo6Zv348hvLMh9M2QPolMkNfgj8miy06XVlb7eKZ3KM6QYtyxaQ1AtYaHndk6M3hAveFn9Ob/VqR16HZf9KBaVLyV49k3L99nsc99FiY38M8NXqqqEDWcABa+eYPOVCEMQV306leG7jXp2wJ3ppd4Df8evLhUiPCuvDamAwbxgeAi05mCKV63dKe0swd58ohZKyrrV5dShU1Sj0Xm6+Xw4g3MvCnbaaG8H6Kr4QE85HpqgqBu8IK1z9b+scFQm/8pyFTQtTmo744jSHXIWJGDTKjL+cZPMYKB8WEQ+ajv2msiMFMDHotBTC3e7HBsVjQ6uwt7+YCBgoY4e4UCw=;hNE5clAQSQR7FdOXWC42lw=="
 ---

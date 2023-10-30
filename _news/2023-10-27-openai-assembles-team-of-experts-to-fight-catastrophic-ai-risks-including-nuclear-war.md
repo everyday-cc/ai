@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/openai-assembles-team-of-experts-to-
 webUrl: "https://www.zdnet.com/article/openai-assembles-team-of-experts-to-fight-catastrophic-ai-risks-including-nuclear-war/"
 type: article
 quality: 60
-heat: 72
+heat: 80
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI readying team to prevent AI from starting a nuclear war"
+    excerpt: "The voluntary commitments are part of the company’s efforts to promote safety, security, and trust in AI. ChatGPT -creator OpenAI is readying a team to prevent what the company calls frontier AI models from starting a nuclear war and other threats."
+    publishedDateTime: 2023-10-30T08:18:00Z
+    webUrl: "https://www.computerworld.com/article/3709689/openai-readying-team-to-prevent-ai-from-starting-a-nuclear-war.html"
+    ampWebUrl: "https://www.computerworld.com/article/3709689/openai-readying-team-to-prevent-ai-from-starting-a-nuclear-war.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709689/openai-readying-team-to-prevent-ai-from-starting-a-nuclear-war.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/04/27/12/ai-ethics-or-ai-law-concept-developing-ai-codes-of-ethics-compliance-regulation-standard.jpgs1024x1024wisk20clhoeez11bgecwpqjeddunvryn09djy26qdoldya8il8-100940366-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "OpenAI AI safety measures for advanced artificial intelligence systems"
     excerpt: "The creation of advanced artificial intelligence (AI) systems brings with it a host of opportunities, but also significant risks. In response to this, OpenAI has embarked on the development of AI safety measures and risk preparedness for advanced ..."
     publishedDateTime: 2023-10-27T07:47:00Z

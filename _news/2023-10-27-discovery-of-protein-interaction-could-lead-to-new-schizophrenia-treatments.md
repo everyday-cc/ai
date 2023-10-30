@@ -57,21 +57,7 @@ related:
         width: 2000
         height: 2078
         isCached: true
-  - title: "Marijuana is A Potential Risk to Teen Brains Predisposed to Schizophrenia"
-    excerpt: "These findings shed light on the potential risks of marijuana use in teenagers, especially those with a genetic susceptibility to psychiatric disorders."
-    publishedDateTime: 2023-10-25T19:00:00Z
-    webUrl: "https://neurosciencenews.com/thc-teen-schizophrenia-24987/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 38
-    images:
-      - url: "https://neurosciencenews.com/files/2023/10/thc-schizophenia-neuroscience.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
-secured: "qjpOLU1dZKjYQsPVLiE4RKt38ejzLccHLoxDJ2LAwgyzxdYhdBhy0cvVopZzoW9+jfZ8Hm4QwAbjJWuONtuW42EzAtP0cqaGfK0zhGbMsr3HcaH62RQ3S3RSTdVrZgWEIs+4VXm2r9oVtc9EajCn/uTyza0Do3Fl7VZoy+PE6Z1wVDMH5nNOR4fIHEgaq6KeHaSo31MDeDgsAIH0fnktlpNjVnIP+51uuMNUGUAT1AubX1JR9Ju30RnVUyB6+pHVwlBHA0e/v96BjaouoVtM3MhtS96PgrSqbETlIodeWs74DjZlOTjeNPMy835LuHHaCgPS7qarMC3iVfdi8ub5pqeslhQU7lDjpW4M/YeQNXU=;uHQxSsQOSEqiMoCpqhdG0Q=="
+secured: "8LGlwBArRXkKDHltVS7azZzg94nypAy488MRYOBTjo2FoiTeRRNmmGkGZg0CV9M79n0CzsimG7oGiWFgrd9nTL87MO7M7auyAR3IPRRfiK55AyRy+c0WvgTMO9bQ2hNnSUmHkVWVzm/z1zmTLARwQ1vrbaQIIHKOsSMHvfcMCj+4iCrD+aIfVbnATSjTPAZom9khXJGIPlxxLQAFHkG8Dlx28Rbzc+Pv9LpGxgLykWNfmWOv+z1aZrAuQjL0YmPC7r9AlBsFt7eiOHh6KCtaV3OZ0qkQ9wasKiawdle9j8HTOeMyBbNh0yG4WYIUg+09emasAxQPglfVtJt6ifBNevElCJmQAsU4bV6nVXYHicA9EVQ58twP/MOrtaXtp1SAwJxeT9sN5TZT0FYsj3C9OlMczTHvlLE1+F0KtJhSQTNh5rsRnIaql1Voko4fNRhDHDWyK6Xj4cuOXu+dRU9sBdg9e88n0CNAVnWeRWBW6MOSG9HrL1rIUTVpa/qvy7cDTe+VwWj3F6k0la/QaH8zVg==;UdfTQXJToywep4bLYmAMMA=="
 ---
 

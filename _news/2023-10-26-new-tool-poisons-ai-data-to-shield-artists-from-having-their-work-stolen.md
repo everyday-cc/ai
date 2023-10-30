@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "‘Data poisoning’ anti-AI theft tools emerge — but are they ethical?"
+    excerpt: "New tools that can corrupt digitized artwork and other copyrighted materials are emerging to thwart generative AI models that scrape the internet to learn and provide content."
+    publishedDateTime: 2023-10-30T06:59:00Z
+    webUrl: "https://www.computerworld.com/article/3709609/data-poisoning-anti-ai-theft-tools-emerge-but-are-they-ethical.html"
+    ampWebUrl: "https://www.computerworld.com/article/3709609/data-poisoning-anti-ai-theft-tools-emerge-but-are-they-ethical.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709609/data-poisoning-anti-ai-theft-tools-emerge-but-are-they-ethical.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_2321877251-1-100947840-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "X755UXuTyt2NJcLxyj12SfxDSi1ZmiY3JXEsXg4aHoVEsjcax0xgmbJZxzMnAWAFA5leADhjrP978vGyEm0YgsFoeNFX5mrnNfAmKKls3OeSFk11p78I8CrMW1GudEkw/p00BenjFgVaTrVyYhQ9F3peoA5E0rsJm9YhogGtzN19PwPwHvxask0I/K/G3URrkQdTo0ZPtfdBmB0Mz20pZAdK3GZS37QxaqhWeXuaP05pnj6ntkhTxaQJzRmPmIGh5xyIVEHY4hWTbWkAQy10Lx3SQMwOxi+DQ+VKEbSOJy06Nf4uQbFdSv+Xfrc8x0zwpSNHXFf6Zl4B5bvD3Etl5+glsndvTWhkxvX4asEX5t8=;kXmu0BPOHY/U5CsTW0egYA=="
 ---

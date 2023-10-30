@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Lenskart acquires AI-based computer vision startup Tango Eye"
-excerpt: "The company has also been an early investor in Tango, and the acquisition strengthens Lenskart's commitment towards leveraging technology to solve business problems and delight customers, the company said."
-publishedDateTime: 2023-10-30T09:47:00Z
-originalUrl: "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937"
-webUrl: "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937"
-ampWebUrl: "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp"
-cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp"
+title: "Lenskart Acquires AI-Based Computer Vision Startup Tango Eye"
+excerpt: "Lenskart on Monday announced the acquisition of Tango Eye, an AI-based computer vision startup.With this acquisition, Len"
+publishedDateTime: 2023-10-30T08:59:00Z
+originalUrl: "https://menafn.com/1107328710/Lenskart-Acquires-AI-Based-Computer-Vision-Startup-Tango-Eye"
+webUrl: "https://menafn.com/1107328710/Lenskart-Acquires-AI-Based-Computer-Vision-Startup-Tango-Eye"
 type: article
-quality: 74
-heat: 104
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Zee Business
-  domain: zeebiz.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://cdn.zeebiz.com/sites/default/files/2023/10/30/267062-247218-lenskart.jpg?im=FitAndFill=(1200,900)"
-    width: 1200
-    height: 900
+  - url: "https://menafn.com/updates/pr/2023-10/30/I_0eb69image_story.jpg"
+    width: 677
+    height: 272
     isCached: true
 
 related:
@@ -59,18 +57,54 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Lenskart acquires AI-driven computer vision startup Tango Eye"
+    excerpt: "Lenskart has been an early investor in Tango Eye. The acquisition aims to enable a smooth transition between digital and physical touchpoints at Lenskart."
+    publishedDateTime: 2023-10-30T11:11:00Z
+    webUrl: "https://yourstory.com/2023/10/lenskart-acquires-ai-driven-computer-vision-startup-tango-eye"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 54
+    images:
+      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Image0lo7-1660038512734.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Lenskart Acquires AI-Powered Analytics Startup Tango Eye"
+    excerpt: "Omnichannel eyewear unicorn Lenskart has acquired artificial intelligence (AI)-powered computer vision startup Tango Eye for an undisclosed amount."
+    publishedDateTime: 2023-10-30T10:36:00Z
+    webUrl: "https://inc42.com/buzz/lenskart-acquires-ai-powered-analytics-startup-tango-eye/"
+    ampWebUrl: "https://inc42.com/buzz/lenskart-acquires-ai-powered-analytics-startup-tango-eye/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/lenskart-acquires-ai-powered-analytics-startup-tango-eye/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 37
   - title: "Lenskart acquires AI start-up Tango Eye"
-    excerpt: "Leading eyewear player Lenskart on Monday said it has acquired Tango Eye, which is an AI-based computer vision start-up. Without revealing the commercials of the deal, the company said it aims to leverage on this acquisition to use visual artificial ..."
-    publishedDateTime: 2023-10-30T09:33:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/lenskart-acquires-ai-start-up-tango-eye/article67476049.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/lenskart-acquires-ai-start-up-tango-eye/article67476049.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/lenskart-acquires-ai-start-up-tango-eye/article67476049.ece/amp/"
+    excerpt: "Lenskart, a leading eyewear company, has acquired AI-based start-up Tango Eye to enhance its customer experience and quality control. The partnership will utilize AI technology in stores to optimize customer flow and processes,"
+    publishedDateTime: 2023-10-30T09:44:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/lenskart-acquires-ai-start-up-tango-eye/article67476049.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/lenskart-acquires-ai-start-up-tango-eye/article67476049.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/lenskart-acquires-ai-start-up-tango-eye/article67476049.ece/amp/"
     type: article
     provider:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 37
+  - title: "Lenskart acquires computer vision startup Tango Eye for undisclosed amount"
+    excerpt: "In stores, Tango Eye's technology analyses CCTV footage to provide analytics, optimise customer flow and ensure proper adherence to all procedures"
+    publishedDateTime: 2023-10-30T10:06:00Z
+    webUrl: "https://www.business-standard.com/companies/news/lenskart-acquires-computer-vision-startup-tango-eye-for-undisclosed-amount-123103000624_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/lenskart-acquires-computer-vision-startup-tango-eye-for-undisclosed-amount-123103000624_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/lenskart-acquires-computer-vision-startup-tango-eye-for-undisclosed-amount-123103000624_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 37
 
-secured: "djDXtWgFjYueQemCVXbcUXp94x1dCqk0GGKzCLGHHG4tK6pI10QxdsW8CQ6R/+7uT0TMgPVynC3f9MFik3gnY9b9pt5CBlZN2FHqDi4IZ/uHklYSPaPtzzRYnhGowEvEhMWpkcHzQAplg9i1EShFSA4hl9WlZmOGzLlU6F0+L8cZSCZEWLbe706qb+Fmy1U7EHyB+JQ9DFOQvsIycPZcH+sAJAwl0IdvojVxeFWN4WNbgwDFwWU/RBMP2FG8oBa/SCqPtJ+H+GEa8AWgKP3BX6eQed3116EuHvM2wKS23vVNEDT5zZkc9gRqTTq+eA+Sh44uU2TlBARgPcYpaRRR11S6XNvGznQ8O2gVyh8w+5s=;glMQFmld9ZPIUalsaHT8bw=="
+secured: "ka9qUE0yJBvd+b+t46Y0mIOmrK/2U72idDlQekVJdSdsoy8X/TgzgMg9Ob55is8MjC6LaT5K3tNCh1ndri19y7OF5Xc5nas3GbrKejuNkp1UYKUA8dBbCPHOeF9UJqUkHaSNM1ufjKz+45Fjv6o9w0FfbkoUQUTm3ojxud/zM98Kgiq5+rUbQraW0IsncT5sQfCCpq6Lzf3V+8p02XF+gZ2hi8lbTz7jICn71XkN+PQR/D+7vFou3N6lADPf0jU3s4tQ+5z5h8+G4c2VNkmWZSztNPRFHoZNPNPeciB5kMBYoWBwvbC9H+DqXVcbj4Do1VO3Fzn+tQRzi9BNxeBfKku/0Kx+VLyAeJGRgy9p8vU=;lxbMxUoLhI76ZkEUUM+8yg=="
 ---
 

@@ -106,15 +106,6 @@ related:
       name: KRIV
       domain: fox26houston.com
     quality: 24
-  - title: "California DMV suspends permits for Cruise’s self-driving robotaxis"
-    excerpt: "California's DMV has suspended GM's permit for AV deployment and testing, alleging the company has \"misrepresented\" the technology's safety"
-    publishedDateTime: 2023-10-25T18:15:00Z
-    webUrl: "https://www.cbtnews.com/california-dmv-suspends-permits-for-cruises-self-driving-robotaxis/"
-    type: article
-    provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 4
   - title: "The Cruise robotaxi reckoning highlights tensions over self-driving cars and how we regulate them"
     excerpt: "The DMV suspended state permits for autonomous vehicle operator Cruise, saying the company omitted key information about a collision that injured a pedestrian."
     publishedDateTime: 2023-10-26T13:44:00Z

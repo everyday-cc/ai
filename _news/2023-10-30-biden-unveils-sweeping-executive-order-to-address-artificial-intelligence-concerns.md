@@ -69,19 +69,51 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden wants to move fast on AI safeguards and will sign an executive order to address his concerns"
-    excerpt: "The order reflects the government’s effort to shape how AI evolves in a way that can maximize its possibilities and contain its perils. AI has been a source of deep personal interest for Biden, with its potential to affect the economy and national security."
-    publishedDateTime: 2023-10-30T09:44:00Z
-    webUrl: "https://www.bostonglobe.com/2023/10/30/business/biden-wants-move-fast-ai-safeguards-will-sign-an-executive-order-address-his-concerns/"
+  - title: "Biden to sign sweeping executive order on artificial intelligence development"
+    excerpt: "The president's order will require leading AI developers to share safety test results and other information with the U.S. government."
+    publishedDateTime: 2023-10-30T10:56:00Z
+    webUrl: "https://www.fox29.com/news/biden-executive-order-artificial-intelligence-development"
+    ampWebUrl: "https://www.fox29.com/news/biden-executive-order-artificial-intelligence-development.amp"
+    cdnAmpWebUrl: "https://www-fox29-com.cdn.ampproject.org/c/s/www.fox29.com/news/biden-executive-order-artificial-intelligence-development.amp"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 25
+      name: FOX 29
+      domain: fox29.com
+    quality: 54
     images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/TdlmHjG6W_gRpQsZV2WSDY6Q9Go=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/D7MB7BHS56HLGSKL2ICPTT2SDY.jpg"
-        width: 506
-        height: 337
+      - url: "https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2023/10/932/470/GettyImages-1745420610.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Biden wants to move fast on AI safeguards and will sign an executive order to address his concerns"
+    excerpt: "President Joe Biden had directed his staff to move with urgency on a policy that could maximize AI's possibilities and contain its perils."
+    publishedDateTime: 2023-10-30T10:26:00Z
+    webUrl: "https://www.wabi.tv/2023/10/30/biden-wants-move-fast-ai-safeguards-will-sign-an-executive-order-address-his-concerns/"
+    ampWebUrl: "https://www.wabi.tv/2023/10/30/biden-wants-move-fast-ai-safeguards-will-sign-an-executive-order-address-his-concerns/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wabi-tv.cdn.ampproject.org/c/s/www.wabi.tv/2023/10/30/biden-wants-move-fast-ai-safeguards-will-sign-an-executive-order-address-his-concerns/?outputType=amp"
+    type: article
+    provider:
+      name: WABI-TV
+      domain: wabi.tv
+    quality: 45
+    images:
+      - url: "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/4RTy9kh9iF_pQJ9v8hfBWzYAQuk=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CAJ3NXJ7WZCYNEL5MBCNYXCT7I.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "White House issues executive order addressing safety, security concerns for artificial intelligence"
+    excerpt: "The White House unveiled an Executive Order on Artificial Intelligence early Monday morning - marking the federal government's the latest step toward regulating AI."
+    publishedDateTime: 2023-10-30T10:51:00Z
+    webUrl: "https://www.wral.com/story/white-house-issues-executive-order-addressing-safety-security-concerns-for-artificial-intelligence/21122539/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 40
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/local/2013/11/26/13159823/13159823-1446120010-646x485.jpg"
+        width: 646
+        height: 485
         isCached: true
 
 secured: "nsejiRLNiItMxebXoX4KhrhcNo4AwkHqKUAaCYJu2gS65+SHZxKfNMDM/eLvHCSGXqwoAGZuwxxkt6iC0z4fy7vGU2XNtuP2xcybBJMe/gIEpqhjm8qkoVxhHJInJLv+WL25f29NAW8iLRf2J0sKaLsEr/XXpiSChvfUvmyeb8DmNOHZaEUpDX2qhC+tLa+fS8epNvC2XugX6JM3mOSFp5TvsbHkWAyoO7LYXF6E4vEAmCGo6ZkzHXtOxabJTN21sfTSTjj0Y4RutEqnzCaW8uR/FXrWlvtHq2U5vYph7MAdnPIb5GmIb0ka/OyP6ICaLy9WL1yUu2xzPW3pyemvzrvEFBUofNI4vztW1tQrsnk52CuTLSntbE165ErMf+CViR0DZZkjocmRJykdTgJR0SKFVcdOsjZdQX9sEdC2/PmK0w0yiBQ/mVLXFaEbpFBZVyPHtaS37oGOv9H50RzQVty5hR6CmwPTRUpX88szOdrPJcg2AhPkQtr7mtKl8P7wYwE0D4HOKlTkNhvFEOkSaw==;79scuhMyEjPG7RDYrDptBA=="

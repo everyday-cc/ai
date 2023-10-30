@@ -2,9 +2,9 @@
 category: news
 title: "Major UK retailers urged to quit ‘authoritarian’ police facial recognition strategy"
 excerpt: "Human rights campaigners say the Pegasus initiative wrongly criminalises people of colour, women and LGBTQ+ people"
-publishedDateTime: 2023-10-28T14:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
-webUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
+publishedDateTime: 2023-10-28T15:30:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
 type: article
@@ -34,7 +34,7 @@ related:
   - title: "UK police urged to double use of facial recognition software"
     excerpt: "Policing minister Chris Philp suggests target of more than 200,000 searches over next six months"
     publishedDateTime: 2023-10-28T22:25:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
+    webUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software?ref=biztoc.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
     type: article
@@ -48,6 +48,6 @@ related:
         height: 372
         isCached: true
 
-secured: "BHiO+lFL2jbtrwGmZ+Dfax7GJwq86atCFEgB4hePaX1V8cRXLDWTVU3GZWbssWKtwPRASo8C8CKOqX3ym/GRF+7OrbOGtcvYuzqJE7SebBjSjkcN+ZtEsavjyYlT3D7mai0dJ2N60bbx6SsNSzT6HXgr67DqygcdRcsmQALhlV0QvwGSvJHMRPG17MilDRmbx6d3UsDzbDwH1XjkzxlXzXBX+Amh7qxR0ty0M9ocvYWG72L54St1bCxKDTeTrQBByocE5a2i9GHAMmIRzLKhIkyezt7d/YSz6hchSoQw03IG51C9xvoiC+9u5296EsDYQBr4a/6Geee/akgDsZroz5XDKzEpRjf6Z4JE1LqYoWI=;LqzSNX9ZwHqe0u4aSQ1xUA=="
+secured: "g3d56idOJzlj70R5TqfAxqJd8NtZaIby7N9c3GDk2e9uYw5dhKdwVGt6dYTOs/M7aU3a1PVXICoRqX9+76S17eveaMRpZ4qtntp+AIO4TCuV19bLRZ9MYn5cO0t2Jqmvfn1EdMYQrAtMFd+5t4HMEt1bKChwZjZtzzHtFQ0QgkTrcoNKgA5p7zvimj1hdi1S3ou2uEezXSuBp0lcJgEJRdiMAFw/cOJoFyFT4cc5FDUOgCP+j/0JXQbWHUwrrQYBJInw8Ccbsz8NRZgUi76ifSljouP7UR+UpfyfVWjc899DroRgLRNGoyqaFpUbpIpuPmj+3wP+uGYziqGdzmAA5+wALffat9/hsY+oM0k23yM=;6aotGYcLbLI3AJ8DXnwflg=="
 ---
 

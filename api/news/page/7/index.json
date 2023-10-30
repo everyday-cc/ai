@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-10-24-rice-robotics-is-shattering-ai-stereotypes-one-friendly-robot-at-a-time.md",
+      "title": "Rice Robotics is Shattering AI Stereotypes, One Friendly Robot at a Time",
+      "excerpt": "While many still look at artificial intelligence (AI) with skepticism, fearing job loss or dystopian nightmares, Rice Robotics is flipping the script. Founded in Hong Kong and deeply rooted in the Japanese market, the start-up aims to redefine how we ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/10/24/rice-robotics-ai-stereotypes-friendly-robots/",
+      "originalUrl": "https://www.gizmochina.com/2023/10/24/rice-robotics-ai-stereotypes-friendly-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-23T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-china-homegrown-ai-chip-development-proceeding-despite-us-ban.md",
+      "title": "China homegrown AI chip development proceeding despite US ban",
+      "excerpt": "China's chipmaking industry continues to advance its domestic development of AI chips despite stricter US bans, with companies like Alibaba, Baidu, Huawei, and Tencent developing their own AI chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20231023PD228/us-chip-ban-china-huawei-ai-chips-alibaba-baidu-nvidia-tencent.html",
+      "originalUrl": "https://www.digitimes.com/news/a20231023PD228/us-chip-ban-china-huawei-ai-chips-alibaba-baidu-nvidia-tencent.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20231023pd228_files/1_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-23T18:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-24-analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up.md",
       "title": "Analyst Kuo: $5 Billion on AI Servers in 2024 In Attempt to Catch Up",
       "excerpt": "Apple could spend upwards of $5 billion on servers alone in the next two years as it attempts to catch up with competitors in the generative AI field. On",
@@ -1112,93 +1198,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-23-ai-robotics-startup-electric-sheep-wins-2023-ai-techaward.md",
-      "title": "AI Robotics Startup Electric Sheep Wins 2023 AI TechAward",
-      "excerpt": "Electric Sheep, who is creating the first large-scale outdoor maintenance company powered by artificial intelligence and robotics, announced today it has won a 2023 AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/10/g35376196/ai-robotics-startup-electric-sheep-wins-2023-ai-techaward",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/g35376196/ai-robotics-startup-electric-sheep-wins-2023-ai-techaward",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35376196",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35376196",
-      "publishedDateTime": "2023-10-23T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-23-israel-is-using-amazon-rekognition-to-locate-missing-and-dead.md",
-      "title": "Israel is using Amazon Rekognition to locate missing and dead",
-      "excerpt": "Amazon Rekognition is being used in Israel to locate missing and dead after a deadly attack by Palestinian Hamas two weeks ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202310/israel-is-using-amazon-rekognition-to-locate-missing-and-dead",
-      "originalUrl": "https://www.biometricupdate.com/202310/israel-is-using-amazon-rekognition-to-locate-missing-and-dead",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg",
-          "width": 2048,
-          "height": 1812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

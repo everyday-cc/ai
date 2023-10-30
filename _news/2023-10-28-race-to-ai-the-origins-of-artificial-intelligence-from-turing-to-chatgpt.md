@@ -3,12 +3,12 @@ category: news
 title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
 excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
 publishedDateTime: 2023-10-28T12:47:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?trk=public_post_comment-text"
-webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?trk=public_post_comment-text"
+originalUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 type: article
-quality: 72
+quality: 70
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -86,20 +85,6 @@ related:
       name: Robotics
       domain: roboticsbusinessreview.com
     quality: 66
-  - title: "Researchers Working to Translate Human Experiences for AI Tools"
-    excerpt: "Professors Haoqi Zhang and Darren Gergle are advancing new programming environments and tools that support designers using their understanding of human situations to create context-aware applications."
-    publishedDateTime: 2023-10-25T17:52:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/10/researchers-working-to-translate-human-experiences-for-ai-tools/"
-    type: article
-    provider:
-      name: mccormick.northwestern.edu
-      domain: northwestern.edu
-    quality: 54
-    images:
-      - url: "https://www.mccormick.northwestern.edu/images/news/2023/10/researchers-working-to-translate-human-experiences-for-ai-tools-social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Precise to the point 3D image processing solution with 2D cameras, AI and robotics optimises the manufacturing landscape"
     excerpt: "The manufacturing sector is currently facing several challenges. Technological change, pressing environmental issues, and globalisation require several adjustments, such as investing in"
     publishedDateTime: 2023-10-26T14:36:00Z
@@ -149,6 +134,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "VbuRFL07zwTd8TnEK1Zf0KlldBqIgmstIkf98AZlD4qiXIAt9xpiiOvJ0TFLvnyG8pVs6R6AQQhWLotj0gDblOZKjtppZA/2F0oGXMHottcKLepDIaSC9V9IILzblXLwRKw+JOyokVg/Jg1KYxSqETU6Qh/x7I1g5W41D8RqPJtQiieFFA5XRmr+yr/R/+WNkvDUKz+mfNe+iLPtdDQtu9HxW9de1yVy43oq7XVJJgILSYjkRK7+RmEbW2ujSG4GPwbkOT0h0Jl7KXdxOHtKIbaQbXs88lN/Y95e0Nb3sObdT1MauIInOnQ+aunwSCm4Ha6FwrqF2bK4AeLAjAPSDTSFpaWhGKY+FkSqDBS70fg=;Uxa34fw0Yh2W+mAwCwn2BA=="
+secured: "3XAbEI2s8meyHdyH54ywr+PGL0qt1YUMJaiOy3cvUTXEtTCqKxJtUZj/gfgZLuYwx30kKVF2Ho6Tl9HHBiHfk86o8uH8Vs83mrIWAenDiBznXD98V5cgZfOJ07yTfqr83uBGvNYYUyWjYELVGxRR2sPUKQN1b/nQYYKjXeKnJLlYqm5Q3kh1yyMXQ+KF3Y0AmwTlRduGu1gVssL+zZwnmqdKycJI+0Or2WQG3BwTWYJKIMn8HnPltJD3ebLeva66hGTQBBr7n3GTQCZIC7BOw+BsHw6HruXb6f36W8tIRhX8ElrWa96DbF//nas3c/bbgIOaEWxlSUByvYd21aqiIJAlxqTiRLxG3ysnS3pXhIk=;sTOtXfD6md57rb0Dy3JFAQ=="
 ---
 

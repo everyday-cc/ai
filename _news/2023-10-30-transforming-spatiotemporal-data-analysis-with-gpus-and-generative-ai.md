@@ -114,20 +114,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
-  - title: "As developers learn the ins and outs of generative AI, non-developers will follow"
-    excerpt: "AI-driven productivity tools 'are remaking software development in radical ways. But that value doesn't come for free.'"
-    publishedDateTime: 2023-10-25T17:43:00Z
-    webUrl: "https://www.zdnet.com/article/as-developers-learn-the-ins-and-outs-of-generative-ai-non-developers-will-follow/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 62
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/6a0106c672fdec52b9ad74e1489febc21701bb22/2023/10/25/b4532830-55f5-4ee1-91bb-5e273150648e/gettyimages-1488321343.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI-powered healthcare personalization company raises $5M"
     excerpt: "RadiantGraph, an artificial intelligence-powered platform designed to ... biometric data and medication history to improve healthcare consumer engagement. The company will use the capital to fuel growth and partnerships with new healthcare organizations ..."
     publishedDateTime: 2023-10-27T21:49:00Z
@@ -141,6 +127,22 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "Using Clever Prompt Engineering To Have Generative AI Screen Out The Vast Deluge Of Exasperating Disinformation And Misinformation Coming Your Way"
+    excerpt: "You can use straightforward prompting in generative AI to devise your own personal screening tool that will detect disinformation and misinformation on your behalf."
+    publishedDateTime: 2023-10-30T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/30/using-clever-prompt-engineering-to-have-generative-ai-screen-out-the-vast-deluge-of-exasperating-disinformation-and-misinformation-coming-your-way/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/30/using-clever-prompt-engineering-to-have-generative-ai-screen-out-the-vast-deluge-of-exasperating-disinformation-and-misinformation-coming-your-way/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/30/using-clever-prompt-engineering-to-have-generative-ai-screen-out-the-vast-deluge-of-exasperating-disinformation-and-misinformation-coming-your-way/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 51
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653de133042dc92df09198f9/0x0.jpg?format=jpg&crop=1202,901,x192,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1201
+        height: 900
         isCached: true
   - title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
     excerpt: "Watsonx Code Assistant for Red Hat Ansible Lightspeed and watsonx Code Assistant for Z are now availableARMONK, N.Y., Oct. 26, 2023 /PRNewswire/"
@@ -170,15 +172,6 @@ related:
         width: 1778
         height: 1000
         isCached: true
-  - title: "Amazon’s new generative AI tool lets advertisers enhance product images"
-    excerpt: "Amazon is rolling out a new AI image generation tool for advertisers to generate backgrounds based on product descriptions and themes. Amazon is currently Amazon's new AI image generation tool lets advertisers generate backgrounds for product images."
-    publishedDateTime: 2023-10-25T18:53:00Z
-    webUrl: "https://techcrunch.com/2023/10/25/amazons-new-generative-ai-tool-lets-advertisers-enhance-product-images/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "Generative AI Is Generating Hype But Can It Generate Value?"
     excerpt: "With investors looking for the next Nvidia, mentions of AI product roadmaps have increased on earnings announcements as warnings about the AI hype surge in response."
     publishedDateTime: 2023-10-26T13:00:00Z
@@ -271,6 +264,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "8KUCLp48NXREUu1Xo28L2q1OC9i0LT7Eedz7XjwYMNCno5ERrnnLXcO9uHogS7Ocpy2hwgLH19PWH9nW52Hjz0ypyeAiW62qGacjaORzjyPOmT9AJCW0NfkJJEKzZZLPW+1ig9H93mwz+f/KokmlNLJO3dxGVhjKUZjitUR/ExLlxQMsSXNWhqzQyedhEyhYb1xw3wxFPh0OzxiPVOGKP9bg1570Y1jury1TMFJeNHq4GpAmxMcUx6WNfCTRlFswlo/X01nUqg/zcXJlRj9+Lpa0QZUHuEu2CBvGDAlT5EcCik1mJrzGsf7ySIL3wgxUveH0W4IzDuU5Q613rFmrW891GytMSqBtQVh6jxSMNeU=;prk5ZlQWLMkplkaDqwDzOw=="
+secured: "ajCeN8MdGgk6JizZN++/Udph1QVeHGxsjvH58tSAzqsqLL9pqrkQAyNE4it8uhIzo2nLQ9v6XZd+pQoki+dBDTkR72+eX0qrO9m2e5NjOjB4HczgNhu9jDqVm1OOUMILW0QZfwuwJsZDmwI8258KlaKVxf/B+2dELwl6ZiGnMcQxNyyqFyXqhrvDkJ4w+v+C4BrI7gxJzeGp8VesZyn7ZogU9evFEBvkzvQQpU/djsAkSTlOnhwU8mmR6HfyHB41mjIn3hme/6ZLBgC2HiHrXvRSSJBHeWSxxk0JhzjOtNUztIbgllHu1yMpgbAnIWjt3M17pE3ua/LrkR3Vqf/33frXYQg6ZoAbLwCoRRq89PExJQ4R4ANEZnpOf/4MicH7pzMLz69HiL2qIT7sshF7K1pJ0v5eEo0l0vmjC90Ml/pPT/XNd9hEt89IWwpRAQJfJB3LWaVQVqPf6dOwmYGpeSxozeORoxAllScVhOaLvR1WDbRDgx6Rq0TTkPw+EMUH/aq8udNQsAnAhMed9Dl7+w==;jM9PCCSaE6t0f175HXjOUQ=="
 ---
 

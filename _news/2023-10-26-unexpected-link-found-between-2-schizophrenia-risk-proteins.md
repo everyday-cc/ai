@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Marijuana is A Potential Risk to Teen Brains Predisposed to Schizophrenia"
-    excerpt: "These findings shed light on the potential risks of marijuana use in teenagers, especially those with a genetic susceptibility to psychiatric disorders."
-    publishedDateTime: 2023-10-25T19:00:00Z
-    webUrl: "https://neurosciencenews.com/thc-teen-schizophrenia-24987/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 38
-    images:
-      - url: "https://neurosciencenews.com/files/2023/10/thc-schizophenia-neuroscience.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Discovery of protein interaction could lead to new schizophrenia treatments"
     excerpt: "The discovery of a physical interaction between two proteins in brain cells that can be traced in mice to control of movement, anxiety and memory could one day open the door to development of new schizophrenia treatment strategies,"
     publishedDateTime: 2023-10-26T18:12:00Z

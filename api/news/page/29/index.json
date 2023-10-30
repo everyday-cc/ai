@@ -2,6 +2,100 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-10-09-nvidia-powers-first-gpu-accelerated-5g-network.md",
+      "title": "NVIDIA Powers First GPU-Accelerated 5G Network",
+      "excerpt": "NTT DOCOMO announced the world's first GPU-accelerated commercial Open RAN 5G built on NVIDIA, Fujitsu, and Wind River technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652369e27de3a0c8a978fc0c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 820,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/amp/",
+      "publishedDateTime": "2023-10-09T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-16-year-old-pranjali-awasthi-owner-of-ai-startup-delvai-raises-37-crore-funding.md",
+      "title": "16-year-old Pranjali Awasthi, owner of AI startup Delv.AI, raises ₹3.7 crore funding",
+      "excerpt": "Sixteen-year-old Indian girl Pranjali Awasthi, the owner of artificial intelligence (AI) startup Delv.AI has successfully secured a funding of around ₹ 3.7 crore, said a report by Indiatoday.in. At a Miami Tech Week event, Pranjali revealed that Delv.AI was founded by her in January 2022, as per the report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding-11696863120768.html",
+      "originalUrl": "https://www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding-11696863120768.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/10/09/1600x900/The-words-Artificial-Intelligence-are-seen-in-an-i_1685385941309_1696863759427.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding/amp-11696863120768.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding/amp-11696863120768.html",
+      "publishedDateTime": "2023-10-09T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-ai-and-ethics-with-animesh-mukherjee.md",
       "title": "AI and ethics with Animesh Mukherjee",
       "excerpt": "He has received many notable awards and fellowships including the Facebook ethics for AI research award, India, Google course award for the course AI and Ethics, IBM faculty award, Humboldt Fellowship for Experienced Researchers, Simons Associateship ...",
@@ -1066,108 +1160,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-08-hedge-fund-investor-bill-ackman-just-loaded-up-on-this-top-artificial-intelligence-ai-stock.md",
-      "title": "Hedge Fund Investor Bill Ackman Just Loaded Up on This Top Artificial Intelligence (AI) Stock",
-      "excerpt": "Last week, renowned hedge fund manager Bill Ackman spoke at length about a new position in his portfolio. As it turns out, Silicon Valley investors are not the only ones looking to capitalize on the rising popularity of artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/08/secretive-hedge-fund-investor-bill-ackman-just-loa/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/08/secretive-hedge-fund-investor-bill-ackman-just-loa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/749674/gettyimages-1483272785-4.jpg",
-          "width": 5530,
-          "height": 3111,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-08T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-08-link-building-uk-tech-veterans-connect-ai-startups-with-corporates.md",
-      "title": "Link Building: U.K. Tech Veterans Connect AI Startups With Corporates",
-      "excerpt": "AI, Quantum Computing and Blockchain startups are keen to find customers. Buyers may be more sceptical. A new initiative - TransformBase - seeks to close the gap",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/",
-      "originalUrl": "https://www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651fc2ee4ad4ed5acb9501c9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/amp/",
-      "publishedDateTime": "2023-10-08T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

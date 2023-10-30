@@ -164,15 +164,6 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 34
-  - title: "Google, Nvidia invest in AI startup CentML"
-    excerpt: "CentML – a Toronto-based AI startup has received new funding from Nvidia Corp (NASDAQ: NVDA) and Alphabet Inc’s (NASDAQ: GOOGL) Google. On Wednesday, the artificial intelligence company said it secured a total of $27 million from names that also include Radical Ventures, Deloitte Ventures, and Thomson Reuters Ventures."
-    publishedDateTime: 2023-10-25T18:07:00Z
-    webUrl: "https://invezz.com/news/2023/10/25/google-nvidia-invest-ai-startup-centml/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 17
   - title: "Twelve Labs Secures $10M from Nvidia, Intel, Others for AI Video Analysis"
     excerpt: "Twelve Labs, a generative artificial intelligence (AI) startup based in South Korea, has secured a combined investment of $10 million. Nvidia Corp., Intel Corp., Samsung Next, and Korean Investment Partners are the"
     publishedDateTime: 2023-10-27T11:39:00Z

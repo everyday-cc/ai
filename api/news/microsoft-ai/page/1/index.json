@@ -115,7 +115,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -263,7 +263,7 @@
       "originalUrl": "https://www.therobotreport.com/microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 376,
+      "heat": 386,
       "tags": null,
       "images": [
         {
@@ -1145,10 +1145,10 @@
     {
       "path": "_news/2023-10-17-purplecubeai-introduces-cognitive-data-insights-a-game-changer-in-unstructured-data-processing-and-data-governance.md",
       "title": "PurpleCubeAI Introduces Cognitive Data Insights: A Game-Changer in Unstructured Data Processing and Data Governance",
-      "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--PurpleCubeAI, the industry’s only cloud-native scalable, enterprise-class unified data orchestration platform, today announces its latest offering, Cognitive Data ... available on both Microsoft Azure and AWS.",
+      "excerpt": "PurpleCubeAI, the industry's only cloud-native scalable, enterprise-class unified data orchestration platform, today announces its latest offering, Cognitive Data Insights ... is immediately available on both Microsoft Azure and AWS.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231016713946/en/PurpleCubeAI-Introduces-Cognitive-Data-Insights-A-Game-Changer-in-Unstructured-Data-Processing-and-Data-Governance",
-      "originalUrl": "https://www.businesswire.com/news/home/20231016713946/en/PurpleCubeAI-Introduces-Cognitive-Data-Insights-A-Game-Changer-in-Unstructured-Data-Processing-and-Data-Governance",
+      "webUrl": "https://www.tmcnet.com/usubmit/-purplecubeai-introduces-cognitive-data-insights-game-changer-unstructured-/2023/10/17/9899619.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-purplecubeai-introduces-cognitive-data-insights-game-changer-unstructured-/2023/10/17/9899619.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1158,11 +1158,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T04:26:00-07:00",
+      "publishedDateTime": "2023-10-17T04:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

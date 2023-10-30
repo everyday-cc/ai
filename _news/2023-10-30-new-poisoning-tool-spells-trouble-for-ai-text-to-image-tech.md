@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/new-corruption-tool-nightsha
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/new-corruption-tool-nightshade-ai/?amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6539fd5333db20dc243fc149/0x0.jpg?format=jpg&crop=3136,1765,x65,y459,safe&height=900&width=1600&fit=bounds"
         width: 1599
         height: 900
+        isCached: true
+  - title: "‘Data poisoning’ anti-AI theft tools emerge — but are they ethical?"
+    excerpt: "New tools that can corrupt digitized artwork and other copyrighted materials are emerging to thwart generative AI models that scrape the internet to learn and provide content."
+    publishedDateTime: 2023-10-30T06:59:00Z
+    webUrl: "https://www.computerworld.com/article/3709609/data-poisoning-anti-ai-theft-tools-emerge-but-are-they-ethical.html"
+    ampWebUrl: "https://www.computerworld.com/article/3709609/data-poisoning-anti-ai-theft-tools-emerge-but-are-they-ethical.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709609/data-poisoning-anti-ai-theft-tools-emerge-but-are-they-ethical.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_2321877251-1-100947840-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "dqjbSkdoxzAhAR0o3cxhXbN3Qyvbx9jXC3aiBRWkIscyP4EYlXlRMBnlHy3uq5cBVEwCndWBd0G9uP56SFR/oMBTt9zf9Vno5ulsdf7EcJOoXgIesHb2ctK+C+QFkXouODB42AI2QKHI/yu6dRlwHeDVW3KqZik3HJxSC3h796ePy9cyOy9Pi2HqMeemMZfP2t9CvVWon+YLUfuQlDwf2HAeoRfPuiHQ/KPB1DIMXC6hcW8poMBNz3nmGONnc+hdlb16ZxKgFto0ew4Ou0fH5cjZfeahSY+JwsUnByexhR0paN6ooJWNGwRKIWLhdMLpAtWydMLHZF3pgjUs/TXdobxxKFOfRx6fYNwH9WjpRxIPqZC9FOGWFYJvbxWbqT8iUjilaBysMl3GiLx0vNfpxudtsDBfPLybqFCwnHQqxDZSRLQ4HCpadxSE5OuZNvRazXpLAqpgacWV1FK3c11h0va0hNgwO0rS52Wchu215hyeOM6HdluYdrVwAb7BkLD94R9B7G5m+DUixmc5N6h4Sg==;c0+KtrL+5TDovuak6RK0hw=="

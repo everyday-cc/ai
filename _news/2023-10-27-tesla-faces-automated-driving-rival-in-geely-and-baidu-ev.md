@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-10-27/tesla-faces-sel
 webUrl: "https://www.bloomberg.com/news/articles/2023-10-27/tesla-faces-self-driving-challenger-as-geely-and-baidu-launch-ev"
 type: article
 quality: 64
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "http://img.yicaiglobal.com/src/image/2023/10/37513800389317.jpg"
         width: 770
         height: 510
+        isCached: true
+  - title: "Geely, Baidu-backed EV maker is China’s latest prominent Tesla rival in self-driving race"
+    excerpt: "I believe we provide users a better self-driving experience in most major Chinese cities,” Jiyue's COO Luo Gang said."
+    publishedDateTime: 2023-10-30T10:29:00Z
+    webUrl: "https://technode.com/2023/10/30/geely-baidu-backed-ev-maker-is-chinas-latest-prominent-tesla-rival-in-self-driving-race/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 45
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/10/WechatIMG24.jpg"
+        width: 2000
+        height: 1123
         isCached: true
   - title: "Baidu and Geely’s Collaborative Electric SUV, JiYue 01 has an Impressive 720 km Range"
     excerpt: "Geely owns 65% of Jiyue Automotive, focused on car assembly, while Baidu holds the remaining 35% of the company"

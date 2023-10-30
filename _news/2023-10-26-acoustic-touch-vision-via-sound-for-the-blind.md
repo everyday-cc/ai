@@ -26,17 +26,6 @@ images:
     height: 2160
     isCached: true
 
-related:
-  - title: "Acoustic touch can make world better for blind people, claims research"
-    excerpt: "A team of researchers explore the use of acoustic touch for individuals with low vision via smart glasses and test their effectiveness and cognitive loads."
-    publishedDateTime: 2023-10-25T18:00:00Z
-    webUrl: "https://interestingengineering.com/science/acoustic-touch-can-make-world-better-for-blind-people-claims-research"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 19
-
 secured: "5g52g0Jtp1uI1Pjoi93dcviqvi4+9gLyX01oAdqqZPl92WcAMeNV/lm7D5B08Vf9B8saQj79RcDBTap47O3LjqrUmPSP7B0rAlXz+Vm90tuDDbWPeoZSObqgBNWmVBm6DruMPUWcsO7LOd0lGkz/mj1q+tLnPOSf5sweVZwYurCLdryibgz4Fw8/SwdAyyTY8RWWqmsPnk+iwQVBIoYW20yU3lxj7GCOK0w48QRl00md7T+4LulozieWKCZ4+NkJogV/COucP0iQC/QPCxdTYGVwj4q80J4MPnbbwNpU+8+DOruYoTuvt4jHSpXh9OVzzLaj0AUZ14m82NcMf3L9wLQSDtQqfGMBruWK8Da96qypd9FAe0SqHXKyqQCLiGBFTBd0v8sRavmlLVTK3c3lU9wbwWKMZ2qmmoS3mR2jM8HFO1AazihPNoJI3gbjnQfV8rAjSlTjhE2PTINw2uUlqDKJXVeEuNxmvEmcFEhlNBtGpwyCKGFAz+byFoElwrFSfRTWN2wQf9D5VK75KjAi8w==;6M60vVK3gW7kcH/ZCX6x5w=="
 ---
 

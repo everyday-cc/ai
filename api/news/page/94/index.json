@@ -2,6 +2,91 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2023-08-23-twilio-expands-customerai-capabilities-with-generative-and-predictive-ai.md",
+      "title": "Twilio expands CustomerAI capabilities with generative and predictive AI",
+      "excerpt": "New Twilio CustomerAI capabilities use voice intelligence, predictive analytics and generative journeys to help build marketing campaigns.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/twilio-expands-customerai-capabilities-with-generative-and-predictive-ai/",
+      "originalUrl": "https://venturebeat.com/ai/twilio-expands-customerai-capabilities-with-generative-and-predictive-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/04/IMG_4412.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response.md",
+      "title": "Research Suggests Cognitive Ability Associated With More Controlled Emotional Response",
+      "excerpt": "PsyPost reports that new research suggests that people with high cognitive ability display slower and less intense emotional peaks compared to people with lower cognitive abilities.",
+      "sourceUrl": null,
+      "webUrl": "https://greensboro.com/life-entertainment/nation-world/research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response/video_3eb88f98-174c-552e-8dcc-ca8a0f79e827.html",
+      "originalUrl": "https://greensboro.com/life-entertainment/nation-world/research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response/video_3eb88f98-174c-552e-8dcc-ca8a0f79e827.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News & Record",
+        "domain": "greensboro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-nvidias-earnings-wednesday-will-be-a-big-test-for-ai-bulls.md",
       "title": "Nvidia's earnings Wednesday will be a big test for AI bulls",
       "excerpt": "Nvidia reports second-quarter earnings on Wednesday against a backdrop of elevated expectations driven by a surge of interest in artificial intelligence.",
@@ -1066,109 +1151,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-ai-sensors-in-the-forest-can-smell-a-wildfire-before-it-spreads.md",
-      "title": "AI sensors in the forest can smell a wildfire before it spreads",
-      "excerpt": "The startup already sold 10,000 sensors last year ... Faced with this mounting problem authorities and frontline workers are increasingly turning to technologies like AI, drones, infrared cameras, and firefighting robots. In Europe, several fire brigades ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-wildfires-europe-climate-change-firefighting",
-      "originalUrl": "https://thenextweb.com/news/ai-wildfires-europe-climate-change-firefighting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2Fwildfire-tech-sesnors-dryad-AI-IoT.jpg&signature=9bad0b165e876c9bc0326787bbeb04df",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-meta-is-building-a-space-age-universal-language-translator.md",
-      "title": "Meta is building a space-age ‘universal language translator’",
-      "excerpt": "But Facebook owner Meta wants to change that with SeamlessM4T, an AI-powered “universal language translator” that could instantly convert any language in the world into whatever output you want.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/meta-ai-universal-language-translator/",
-      "originalUrl": "https://www.digitaltrends.com/computing/meta-ai-universal-language-translator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/meta-facebook.jpeg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/meta-ai-universal-language-translator/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/meta-ai-universal-language-translator/?amp",
-      "publishedDateTime": "2023-08-22T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

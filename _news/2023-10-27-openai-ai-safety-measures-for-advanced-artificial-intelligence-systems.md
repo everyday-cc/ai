@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OpenAI readying team to prevent AI from starting a nuclear war"
+    excerpt: "The voluntary commitments are part of the company’s efforts to promote safety, security, and trust in AI. ChatGPT -creator OpenAI is readying a team to prevent what the company calls frontier AI models from starting a nuclear war and other threats."
+    publishedDateTime: 2023-10-30T08:18:00Z
+    webUrl: "https://www.computerworld.com/article/3709689/openai-readying-team-to-prevent-ai-from-starting-a-nuclear-war.html"
+    ampWebUrl: "https://www.computerworld.com/article/3709689/openai-readying-team-to-prevent-ai-from-starting-a-nuclear-war.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709689/openai-readying-team-to-prevent-ai-from-starting-a-nuclear-war.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/04/27/12/ai-ethics-or-ai-law-concept-developing-ai-codes-of-ethics-compliance-regulation-standard.jpgs1024x1024wisk20clhoeez11bgecwpqjeddunvryn09djy26qdoldya8il8-100940366-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "cbXxWeXWzvjjtlkulyYC+/C2WBbjsF2Oi1zyb5dD931vLVQgeOpWpG+Y5i2g4FA4VpTmO1H23Zu/IzKjkfWqSbiRpe9gYGCah9FUEmTnQoQIfPTtF/MOjSatNgqHve/HBW9FAFPx4ePiboTfTHPiSQc6AYXY27W1ebFyRIpF3qUutAA5kEWIrJv0qcSLHNt/LjtAtpje74XWpojfgwXHN/V6VrKGZ7b+RLN4PQWUWZp4cOgPIkqqIJMm2xsFEvqaS/9RgyJwUaQvlVrAq5BtGEe2y0XrHxbW7tFpQcuf5L8K0tFl0nYC51Oc5Ufathz7pUePVk9DHAujAx2A+a1c72QzJlUH+BAXGxUTJftwREE=;mNnCZmt1GGjKyQWq4lSSBw=="
 ---

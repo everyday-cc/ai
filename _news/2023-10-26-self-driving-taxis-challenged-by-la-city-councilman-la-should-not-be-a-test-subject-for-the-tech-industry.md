@@ -56,15 +56,6 @@ related:
       name: The Herald-Mail
       domain: heraldmailmedia.com
     quality: 19
-  - title: "Arizona closely monitoring use of self-driving vehicles"
-    excerpt: "\"When needed to safeguard public safety, ADOT will make any needed adjustments to a company's ability to test and operate self-driving vehicles in Arizona,\" the department said. California on Tuesday ordered GM's Cruise unit to remove its driverless cars from state roads,"
-    publishedDateTime: 2023-10-25T17:54:00Z
-    webUrl: "https://www.aol.com/news/arizona-closely-monitoring-self-driving-175410320.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
   - title: "'No self-driving' for 'the path to San Francisco': Chinese top diplomat Wang Yi"
     excerpt: "When noting that China and the US agreed to work together for the meeting between the two heads of state in San Francisco, Chinese foreign minister Wang Yi said on Saturday that \"the path to San Francisco\" will not be an easy one,"
     publishedDateTime: 2023-10-29T12:49:00Z

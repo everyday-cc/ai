@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/10/28/are-you-ready-fo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/10/28/are-you-ready-for-leading-and-sustaining-ai-responsibly-1/amp/"
 type: article
 quality: 89
-heat: 103
+heat: 101
 published: true
 
 provider:

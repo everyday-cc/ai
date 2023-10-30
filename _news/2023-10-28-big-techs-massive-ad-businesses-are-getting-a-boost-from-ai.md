@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/10/27/big-tech-advertising-ai/"
 webUrl: "https://techcrunch.com/2023/10/27/big-tech-advertising-ai/"
 type: article
 quality: 67
-heat: 79
+heat: 77
 published: true
 
 provider:

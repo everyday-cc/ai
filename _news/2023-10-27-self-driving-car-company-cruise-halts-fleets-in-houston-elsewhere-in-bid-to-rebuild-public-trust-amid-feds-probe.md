@@ -47,6 +47,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Cruise suspends its Austin self-driving car tests"
+    excerpt: "Tapping the brakes on a nationwide experiment in autonomous vehicles, Cruise has suspended its self-driving cars in Austin. Why it matters: The driverless car operations had led to complaints from Austin drivers and first responders."
+    publishedDateTime: 2023-10-30T11:19:00Z
+    webUrl: "https://www.axios.com/local/austin/2023/10/30/self-driving-cars-suspend-paused-stop"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 4
   - title: "Self-driving operator Cruise's operations in AZ unaffected, despite CA permit suspension"
     excerpt: "The company's driverless permits were suspended in California, but the move does not affect Arizona operations."
     publishedDateTime: 2023-10-26T20:19:00Z

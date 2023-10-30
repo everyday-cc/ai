@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/amazon-launches-new-ai-product-image-ge
 webUrl: "https://venturebeat.com/ai/amazon-launches-new-ai-product-image-generator/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Amazon’s New AI Will Make Its Junk Problem Even Worse"
+    excerpt: "Adding generative artificial intelligence features may help sell advertising, but it’s yet more erosion of trust between customers and the online store."
+    publishedDateTime: 2023-10-30T10:29:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-10-30/amazon-com-s-new-ai-will-make-its-junk-problem-even-worse"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "WCVrbBXlMqZ/XXWnytm5XOocVZ0r55JhKCzVtUN/vKBj0luCSzBq2jM//Y69kkFdzpjPTQlcyJ/HkKjgY/uKagcM2RWU9WlJiDqLbagKNwJe79zTlgfU3FgPjTnwvn+eYW+dQahFScwM6Gx9Mrx6AAaf6aHF5FUYG7TLkTwOzH8oGhTFmfrXTu2aSAKzOFs+eG2Kbb911xU6k5+fr56Iti2Cv2+1OTa2a0OBSqyy+QJ4RhVWongLcdqRV1r5SQNY7YX3mPqcq3oURrpxidkaOFuNbNZeCqErEqHPll9yKeztU34qXikDilFuuzWJAz6096rd5t2ytp0CvVpljaqKMO2gsMgSjiuuIZLZCihID+ly54Q4ZJ4WTxEXUwxzOmiqAt91LtK97qVafkc6mGHSXBMSLO4GxXmugbSoD07t2jA5F6czzqF1RqBaAWVrooQt7IBU7vkhpepOusat0tq1Hh2MkqHEawVmmc2LlZO0G3ujUqDutxn5/j/WGcZlZwCus2P0aIvqSvPKAujx4rQ/qA==;eaGD5v/3oaZEz1UAhj+Rfw=="
 ---

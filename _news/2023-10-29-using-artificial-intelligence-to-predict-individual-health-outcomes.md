@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-intelligence-to-predict-individual-health-outcomes/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:

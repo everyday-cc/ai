@@ -41,6 +41,15 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Cruise suspends its self-driving car tests in Houston"
+    excerpt: "Cruise has pumped the brakes on a nationwide experiment in autonomous vehicles and has suspended its self-driving cars in Houston. Catch up quick: Officials with the company, a California-based subsidiary of General Motors, announced late last week they are pausing driverless operations."
+    publishedDateTime: 2023-10-30T11:19:00Z
+    webUrl: "https://www.axios.com/local/houston/2023/10/30/self-driving-cars-suspend-paused-stop"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 4
 
 secured: "rwM2iHwGo6wq0avkfhHfUDzSd6JmkAYX8xCCRKuk+WiftAbCHcFGKICNMGtoY09z0gO6l2mtVuR1kCt6knd4sPIBNDCo6uh9ptw73h29NjyYFfsQaNkOiMfSI6qGxEQ/jBmjGyn8IBNmsQ6rkGOb9RERftZJmtZ64lbcVYvDrh4kUHCuj8plFR8yo10VCWIiAjpz4VXvQIfzHl777Akx7S5f3PF9nU1NpqJ2VCmwR1ZA7Ax5eEMN/Lqu0/qXbAnPGim5xwTI3GIkDMtSmK+O0+j+ONVOB5rGb3LBtb9I5DDOF+gGSZvNZjAW7A3f509Fd1/acqKO6X5M0D3xscOHvU813Y1tUbuzZi7SGQ8EKWmT8uVCP+zXRSG//AHb1t4DGGjUaNHSRUxsCGiTlxI0Nhtf1ubryxo2PjzUJnLJt1m28C2KhJKExt20hEDYh7woJd+m0Ys0z5dDJ6X0pNMqjpPQADp1N4aVPnmkjyCb/E55NS2BJbArmwGV+BkBkW1eWvvntCmSDpVEVaxZbj0HyQ==;IUKeeKNc9goGS3bwCvNN6A=="
 ---

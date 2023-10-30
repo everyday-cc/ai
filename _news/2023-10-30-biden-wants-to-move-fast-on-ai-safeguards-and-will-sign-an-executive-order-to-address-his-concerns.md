@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Biden wants to move fast on AI safeguards and will sign an executive order to address his concerns"
-excerpt: "The order reflects the government’s effort to shape how AI evolves in a way that can maximize its possibilities and contain its perils. AI has been a source of deep personal interest for Biden, with its potential to affect the economy and national security."
-publishedDateTime: 2023-10-30T09:44:00Z
-originalUrl: "https://www.bostonglobe.com/2023/10/30/business/biden-wants-move-fast-ai-safeguards-will-sign-an-executive-order-address-his-concerns/"
-webUrl: "https://www.bostonglobe.com/2023/10/30/business/biden-wants-move-fast-ai-safeguards-will-sign-an-executive-order-address-his-concerns/"
+excerpt: "President Joe Biden had directed his staff to move with urgency on a policy that could maximize AI's possibilities and contain its perils."
+publishedDateTime: 2023-10-30T10:26:00Z
+originalUrl: "https://www.wabi.tv/2023/10/30/biden-wants-move-fast-ai-safeguards-will-sign-an-executive-order-address-his-concerns/"
+webUrl: "https://www.wabi.tv/2023/10/30/biden-wants-move-fast-ai-safeguards-will-sign-an-executive-order-address-his-concerns/"
+ampWebUrl: "https://www.wabi.tv/2023/10/30/biden-wants-move-fast-ai-safeguards-will-sign-an-executive-order-address-his-concerns/?outputType=amp"
+cdnAmpWebUrl: "https://www-wabi-tv.cdn.ampproject.org/c/s/www.wabi.tv/2023/10/30/biden-wants-move-fast-ai-safeguards-will-sign-an-executive-order-address-his-concerns/?outputType=amp"
 type: article
-quality: 25
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: WABI-TV
+  domain: wabi.tv
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/TdlmHjG6W_gRpQsZV2WSDY6Q9Go=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/D7MB7BHS56HLGSKL2ICPTT2SDY.jpg"
-    width: 506
-    height: 337
+  - url: "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/4RTy9kh9iF_pQJ9v8hfBWzYAQuk=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CAJ3NXJ7WZCYNEL5MBCNYXCT7I.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -69,6 +71,36 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden to sign sweeping executive order on artificial intelligence development"
+    excerpt: "The president's order will require leading AI developers to share safety test results and other information with the U.S. government."
+    publishedDateTime: 2023-10-30T10:56:00Z
+    webUrl: "https://www.fox29.com/news/biden-executive-order-artificial-intelligence-development"
+    ampWebUrl: "https://www.fox29.com/news/biden-executive-order-artificial-intelligence-development.amp"
+    cdnAmpWebUrl: "https://www-fox29-com.cdn.ampproject.org/c/s/www.fox29.com/news/biden-executive-order-artificial-intelligence-development.amp"
+    type: article
+    provider:
+      name: FOX 29
+      domain: fox29.com
+    quality: 54
+    images:
+      - url: "https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2023/10/932/470/GettyImages-1745420610.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "White House issues executive order addressing safety, security concerns for artificial intelligence"
+    excerpt: "The White House unveiled an Executive Order on Artificial Intelligence early Monday morning - marking the federal government's the latest step toward regulating AI."
+    publishedDateTime: 2023-10-30T10:51:00Z
+    webUrl: "https://www.wral.com/story/white-house-issues-executive-order-addressing-safety-security-concerns-for-artificial-intelligence/21122539/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 40
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/local/2013/11/26/13159823/13159823-1446120010-646x485.jpg"
+        width: 646
+        height: 485
+        isCached: true
   - title: "Biden unveils sweeping executive order to address artificial intelligence concerns"
     excerpt: "President Biden issued a wide-ranging executive order Monday to curtail threats posed by artificial intelligence that the White House says will mark the “strongest set of actions any government in the world has ever taken."
     publishedDateTime: 2023-10-30T05:38:00Z
@@ -84,6 +116,6 @@ related:
         height: 700
         isCached: true
 
-secured: "dmeUVUegrY0QVMxHKKIOSLTF3eiw8DYHH9xAURcWJsCEilZKEAeF1Bun645AuwpzoMCg04otQLc8Oh0WGapqyYlH7SuVJPnJIgyWTuls1AzXh12DCpjSt678DQzba2X0zYhWnuziAt2/jEnUX48Gpj2rQPVqpdds5Dd65aOCY6zNPgLcQycDCmExFXoHMVP8i+EjGP4bbJW2tew7ci8UPMigXF2EoiEBrHX9ieTkl1IYz1ymfa1CwWTC6SU9lF/RVY7r04mz46RJDXMq9NmC00WS2tdNKFgs0+AJV79AisEOTONd0khJhTuD58ntGJTef7aZ9y2Q3EGW6+8YUs71iVA2y3qekzNyDwQl/iKkg58=;jksFRrAu2emeii65q/soMg=="
+secured: "pn0XIWB6rTx7q7h9RaevOM5n4rGBQsn5xOAO+2lYh7C8XsLmpZ/R0QKz5VY1Tm+4IW8MxhfpT3ao7H1F84jIDzI44oiqCoQVW0aK6t6a0mZeL6uESMb97q623NSyHp6ADEueuFike8C43ivkgU6qrpR3bqgY1oU/dTWTzEhO+WSxVbMHE0N8IpKreJnq98utZ5sjASzAKM0CcFiWzq3XMrX+8lGGQ/+lF/X8jdw692KpBM9x7WJiPwBcYqs+UvOg7e/1Qxavh41S0geiFLPAC/1v9wozkveBi7zEIy/mM6HE8pDLmLqhoYyC4fqKJkXs7tTw5kHvnhdXPgfw5qAx6h/glJEcj1gAd4I1JfmY+c4=;oMbID9bZB4vKtDO75RUZqQ=="
 ---
 

@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Companies aren't spending big on AI. Here's why that cautious approach makes sense"
-    excerpt: "Everyone everywhere is talking about AI, but new research suggests it's going to be a while before large-scale AI projects move into production."
-    publishedDateTime: 2023-10-29T17:01:00Z
-    webUrl: "https://www.zdnet.com/article/companies-arent-spending-big-on-ai-heres-why-that-cautious-approach-makes-sense/"
+  - title: "Google Brain cofounder says Big Tech companies are lying about the risks of AI wiping out humanity because they want to dominate the market"
+    excerpt: "Andrew Ng, a leading AI expert, told The Australian Financial Review that Big Tech hoped to trigger strict regulation."
+    publishedDateTime: 2023-10-30T11:30:00Z
+    webUrl: "https://www.businessinsider.com/andrew-ng-google-brain-big-tech-ai-risks-2023-10"
+    ampWebUrl: "https://www.businessinsider.com/andrew-ng-google-brain-big-tech-ai-risks-2023-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/andrew-ng-google-brain-big-tech-ai-risks-2023-10?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 63
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
     images:
-      - url: "https://www.zdnet.com/a/img/resize/897c492dce68b29c5f7aebbc67b1f89e653074de/2023/10/27/8054497c-1161-4385-a734-d53701ac5258/gettyimages-1352499859.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://i.insider.com/653f806a0487ff031cb1b6b6?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
 
 secured: "4EF+EvwFn9QSzM9y5ipfXWptEQm+FL9HwdCoGmAExOesH+VN2ZmhDCQ0CpkG+rsYPbBAtK3kWO0o9wHQjVZykpjUVVdM9e01KepGhZE5010AdGoqG8HQf5RIN9W+g6aAm8SogOT8/wTK9IyGVp6HOZNtoN0DZFEwJUv/s5QC/1eGK3P5lFIBYK6L8IgVWoxgy0mQV7A+dgCMsnMYv0O9VHv5uz5udPLQxB4hkRT2BUF14b2ravDLSct9+C+FuAThajzwEXySJpwWQq6UUOvqteeTeqAEsq+ReF0US/kmiWVK3N7LU17ERSuDMK+oiWepxb04j4fcNNrY1e+2yBr8TBg1F4/J3pq6CfVxzH6ePm0=;DJV60Z9/6Az4ky/Ac87MEA=="

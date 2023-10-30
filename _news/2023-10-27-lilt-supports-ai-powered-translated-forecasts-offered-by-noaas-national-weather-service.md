@@ -33,6 +33,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "NOAA leverages AI for weather forecast translation"
+    excerpt: "The artificial intelligence tool will replace the National Oceanic and Atmospheric Administration’s manual process for Spanish and simplified Chinese."
+    publishedDateTime: 2023-10-30T09:59:00Z
+    webUrl: "https://www.govexec.com/management/2023/10/noaa-leverages-ai-weather-forecast-translation/391584/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 39
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2023/10/27/102723_getty_stormfromspace-1/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "National Weather Service uses artificial intelligence to reach Spanish, Chinese-speakers"
     excerpt: "The weather service wants to make sure speakers of other languages get vital forecasting information, especially for extreme weather events."
     publishedDateTime: 2023-10-28T00:44:00Z

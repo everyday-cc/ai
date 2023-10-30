@@ -24,17 +24,6 @@ images:
     height: 523
     isCached: true
 
-related:
-  - title: "GPU Cloud CoreWeave Chooses DDN for Accelerated Computing and AI"
-    excerpt: "High performance data storage company DDN today announced that CoreWeave has selected DDN’s EXAScaler storage for its NVIDIA GPU cloud offering. By incorporating DDN’s parallel filesystem with systems based on NVIDIA H100 Tensor Core GPUs into the on-demand multi-node GPU cloud  service,"
-    publishedDateTime: 2023-10-25T18:09:00Z
-    webUrl: "https://insidehpc.com/2023/10/gpu-cloud-coreweave-chooses-ddn-for-accelerated-computing-and-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 34
-
 secured: "07zT2/vCOFdnaaoBT61gE8ryVRsrq11vI3tb11TJ6S0NSAFoWeTxzvEfNQy0DOnLzHWxOCO1c15ZaWl0YqqGAhAvJnkimKvPsze4b4O1uf/loXLhY41dCOb67ylO0EG9oAEWS7JOxGjh0lhTZoc54AC3qi0hqg8O1ZMy3h+LB5VsMKjRU8QiadJ4HbvfxIEZyWgIdLQlII7oIN7RTe2PvRhY0DUhzCzYYzqvbKJ2bZLe1cIjLa2yeg/aQ+ffcEBR0V4S71dyv/JxAbNAZs2K7+ocw9FAnA9upyde38ibvN45gwigAZYl44lok2FvFLs5y2je4QKJ1fdObeD8dawisQcIWEKd23tZMXFR0hppwPw=;09VbqAPn25L9yuB/x24XdQ=="
 ---
 

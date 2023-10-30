@@ -2,6 +2,74 @@
   "page": 134,
   "value": [
     {
+      "path": "_news/2023-07-27-amazon-is-failing-to-provide-accommodations-for-disabled-workers-labor-group-claims.md",
+      "title": "Amazon is failing to provide accommodations for disabled workers, labor group claims",
+      "excerpt": "Amazon is failing to provide adequate workplace accommodations for disabled employees, a violation of the American Disabilities Act (ADA), according to labor activists. Amazon workers with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/amazon-disabled-workers-american-disabilities-act-violations-report/",
+      "originalUrl": "https://www.cbsnews.com/news/amazon-disabled-workers-american-disabilities-act-violations-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T20:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-musk-optimistic-on-progress-for-self-driving-robots.md",
+      "title": "Musk optimistic on progress for self-driving, robots",
+      "excerpt": "(AP pic) SAN FRANCISCO: Tesla chief executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freemalaysiatoday.com/category//2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category//2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T20:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-artificial-intelligence-to-help-with-security-at-2024-paris-olympics.md",
       "title": "Artificial intelligence to help with security at 2024 Paris Olympics",
       "excerpt": "So, this year, the massive security presence will add a new layer -- one that Silicon Valley is very familiar with: artificial intelligence. Something that’s already launched a fierce debate ...",
@@ -1110,84 +1178,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-changing-workforce-underscores-growth-of-artificial-intelligence.md",
-      "title": "Changing Workforce Underscores Growth of Artificial Intelligence",
-      "excerpt": "In particular, for the short term, consider the Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF (UBOT). UBOT seeks daily investment results equal to 200% of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/changing-workforce-underscores-growth-of-artificial-intelligence",
-      "originalUrl": "https://www.nasdaq.com/articles/changing-workforce-underscores-growth-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-an-extensive-analysis-on-the-healthcare-natural-language-processing-nlp-market-with-projected-13-cagr-growth-from-2023-to-2030.md",
-      "title": "An extensive analysis on the Healthcare Natural Language Processing (NLP) market with projected 13% CAGR growth from 2023 to 2030",
-      "excerpt": "The \"Healthcare Natural Language Processing (NLP) Market\" is segmented into regions, Applications, and Types. The report presents the research and analysis provided within the Healthcare Natural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33406530/an-extensive-analysis-on-the-healthcare-natural-language-processing-nlp-market-with-projected-13-ca",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33406530/an-extensive-analysis-on-the-healthcare-natural-language-processing-nlp-market-with-projected-13-ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33406530",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33406530",
-      "publishedDateTime": "2023-07-26T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

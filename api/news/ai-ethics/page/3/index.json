@@ -2,40 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-09-26-the-ethics-of-artificial-intelligence-a-path-toward-responsible-ai.md",
-      "title": "The ethics of artificial intelligence: A path toward responsible AI",
-      "excerpt": "If the firms behind AI start thinking intentionally about ethics, striving to make \"AI that's more fair, that's more inclusive, that's safer, that's more secure, that's more private, then that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/technology/the-ethics-of-artificial-intelligence-responsible-ai?ref=biztoc.com",
-      "originalUrl": "https://www.thestreet.com/technology/the-ethics-of-artificial-intelligence-responsible-ai?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-24-how-to-approach-ai-adoption-ethically-and-responsibly-within-your-organization.md",
       "title": "How To Approach AI Adoption Ethically And Responsibly Within Your Organization",
       "excerpt": "The widespread integration of artificial intelligence technology has raised ethics questions. To avoid the challenges companies like Facebook and Google face, leaders must ensure responsible AI adoption.",
@@ -1444,6 +1410,40 @@
       "provider": {
         "name": "India Education Diary",
         "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-09-data-and-ai-ethics-market-size-2023-data-driven-insights-with-adapting-to-rapid-changes-by-top-players-till-2030-no-of-pages-124.md",
+      "title": "Data and AI Ethics Market Size 2023 | Data-Driven Insights with Adapting to Rapid Changes by Top Players till 2030 | No of Pages 124",
+      "excerpt": "The Global Data and AI Ethics market is projected to rise at a significant rate during the forecast period, between 2023 and 2030. In 2022, the market is increasing at a steady rate and with the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34382854/data-and-ai-ethics-market-size-2023-data-driven-insights-with-adapting-to-rapid-changes-by-top-play",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34382854/data-and-ai-ethics-market-size-2023-data-driven-insights-with-adapting-to-rapid-changes-by-top-play",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T17:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

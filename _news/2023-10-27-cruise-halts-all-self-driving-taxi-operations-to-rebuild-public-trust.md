@@ -7,7 +7,7 @@ originalUrl: "https://au.pcmag.com/cars-auto/102335/cruise-halts-all-self-drivin
 webUrl: "https://au.pcmag.com/cars-auto/102335/cruise-halts-all-self-driving-taxi-operations-to-rebuild-public-trust"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Cruise suspends its Austin self-driving car tests"
+    excerpt: "Tapping the brakes on a nationwide experiment in autonomous vehicles, Cruise has suspended its self-driving cars in Austin. Why it matters: The driverless car operations had led to complaints from Austin drivers and first responders."
+    publishedDateTime: 2023-10-30T11:19:00Z
+    webUrl: "https://www.axios.com/local/austin/2023/10/30/self-driving-cars-suspend-paused-stop"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 4
   - title: "Self-driving car company Cruise halts fleets in Houston, elsewhere in bid to ‘rebuild public trust’ amid feds’ probe"
     excerpt: "The self-driving car and driverless rides company Cruise said Thursday that it is halting its driverless operations across its fleets -- including in Houston -- as it said on Twitter that it is taking steps to “rebuild public trust,"
     publishedDateTime: 2023-10-27T12:07:00Z

@@ -34,6 +34,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "NOAA leverages AI for weather forecast translation"
+    excerpt: "The artificial intelligence tool will replace the National Oceanic and Atmospheric Administration’s manual process for Spanish and simplified Chinese."
+    publishedDateTime: 2023-10-30T09:59:00Z
+    webUrl: "https://www.govexec.com/management/2023/10/noaa-leverages-ai-weather-forecast-translation/391584/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 39
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2023/10/27/102723_getty_stormfromspace-1/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Lilt Supports AI-Powered Translated Forecasts Offered By NOAA's National Weather Service"
     excerpt: "Lilt, the leading AI solution for enterprise translation, is proud to provide the AI-powered technology behind a new experimental language translation website by NOAA and the National Weather Service."
     publishedDateTime: 2023-10-27T14:20:00Z

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Lenskart acquires AI start-up Tango Eye"
-excerpt: "Leading eyewear player Lenskart on Monday said it has acquired Tango Eye, which is an AI-based computer vision start-up. Without revealing the commercials of the deal, the company said it aims to leverage on this acquisition to use visual artificial ..."
-publishedDateTime: 2023-10-30T09:33:00Z
-originalUrl: "https://www.thehindubusinessline.com/companies/lenskart-acquires-ai-start-up-tango-eye/article67476049.ece"
-webUrl: "https://www.thehindubusinessline.com/companies/lenskart-acquires-ai-start-up-tango-eye/article67476049.ece"
-ampWebUrl: "https://www.thehindubusinessline.com/companies/lenskart-acquires-ai-start-up-tango-eye/article67476049.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/lenskart-acquires-ai-start-up-tango-eye/article67476049.ece/amp/"
+excerpt: "Lenskart, a leading eyewear company, has acquired AI-based start-up Tango Eye to enhance its customer experience and quality control. The partnership will utilize AI technology in stores to optimize customer flow and processes,"
+publishedDateTime: 2023-10-30T09:44:00Z
+originalUrl: "https://www.thehindubusinessline.com/info-tech/lenskart-acquires-ai-start-up-tango-eye/article67476049.ece"
+webUrl: "https://www.thehindubusinessline.com/info-tech/lenskart-acquires-ai-start-up-tango-eye/article67476049.ece"
+ampWebUrl: "https://www.thehindubusinessline.com/info-tech/lenskart-acquires-ai-start-up-tango-eye/article67476049.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/lenskart-acquires-ai-start-up-tango-eye/article67476049.ece/amp/"
 type: article
 quality: 37
 heat: -1
@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Lenskart acquires AI-based computer vision startup Tango Eye"
-    excerpt: "The company has also been an early investor in Tango, and the acquisition strengthens Lenskart's commitment towards leveraging technology to solve business problems and delight customers, the company said."
-    publishedDateTime: 2023-10-30T09:47:00Z
-    webUrl: "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937"
-    ampWebUrl: "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 74
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/2023/10/30/267062-247218-lenskart.jpg?im=FitAndFill=(1200,900)"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Lenskart acquires AI-led computer vision startup Tango Eye"
     excerpt: "With this acquisition, Lenskart, which has been an early investor in the startup, plans to use visual AI technology in improving store experience as well as its product experience."
     publishedDateTime: 2023-10-30T09:02:00Z
@@ -68,7 +52,57 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Lenskart Acquires AI-Based Computer Vision Startup Tango Eye"
+    excerpt: "Lenskart on Monday announced the acquisition of Tango Eye, an AI-based computer vision startup.With this acquisition, Len"
+    publishedDateTime: 2023-10-30T08:59:00Z
+    webUrl: "https://menafn.com/1107328710/Lenskart-Acquires-AI-Based-Computer-Vision-Startup-Tango-Eye"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/30/I_0eb69image_story.jpg"
+        width: 677
+        height: 272
+        isCached: true
+  - title: "Lenskart acquires AI-driven computer vision startup Tango Eye"
+    excerpt: "Lenskart has been an early investor in Tango Eye. The acquisition aims to enable a smooth transition between digital and physical touchpoints at Lenskart."
+    publishedDateTime: 2023-10-30T11:11:00Z
+    webUrl: "https://yourstory.com/2023/10/lenskart-acquires-ai-driven-computer-vision-startup-tango-eye"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 54
+    images:
+      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Image0lo7-1660038512734.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Lenskart Acquires AI-Powered Analytics Startup Tango Eye"
+    excerpt: "Omnichannel eyewear unicorn Lenskart has acquired artificial intelligence (AI)-powered computer vision startup Tango Eye for an undisclosed amount."
+    publishedDateTime: 2023-10-30T10:36:00Z
+    webUrl: "https://inc42.com/buzz/lenskart-acquires-ai-powered-analytics-startup-tango-eye/"
+    ampWebUrl: "https://inc42.com/buzz/lenskart-acquires-ai-powered-analytics-startup-tango-eye/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/lenskart-acquires-ai-powered-analytics-startup-tango-eye/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 37
+  - title: "Lenskart acquires computer vision startup Tango Eye for undisclosed amount"
+    excerpt: "In stores, Tango Eye's technology analyses CCTV footage to provide analytics, optimise customer flow and ensure proper adherence to all procedures"
+    publishedDateTime: 2023-10-30T10:06:00Z
+    webUrl: "https://www.business-standard.com/companies/news/lenskart-acquires-computer-vision-startup-tango-eye-for-undisclosed-amount-123103000624_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/lenskart-acquires-computer-vision-startup-tango-eye-for-undisclosed-amount-123103000624_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/lenskart-acquires-computer-vision-startup-tango-eye-for-undisclosed-amount-123103000624_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 37
 
-secured: "xH4yxaQLrX7nJzwLQdfvp7yBaHJcv9bnlvDrMXpFjdma8iG9lWotqKOpY13cHM1Sy5cuSfpVgxrdSU5d00+3+og4E1+Lx477CxSC25OPB4BVBREFlgz+R5VUKAdObGFGxpQX/OvyM7tYeXP2indCZuHfazFoI7UBm9v0dx5QFlGJVwFFEEV1Jf+frHfBsJVeI0CfN8lFwXzdyj+B2odf/0IwFUv/mR2WUXWVcNWD/j3XjMvVJwLl4lfyR7pLxYERIcQ6XqjmhQR26KR9KpCWiu11xtH8VtTS57Q6+ye6cbHrojuXVlL3InFHkUaU1arQ9jeGFxe51KGjGevjcoeWHsgZXdmzqczgsB9KS6o5dg1I4tF0m7O0wZ+/ZjDnTc1hifrh845oKdQC9U1Vihl56S0jFre4ZolnMwECUFu3cKu0/Dw3XnKr9p9zGnCVv4C/ELS4scMS6n/en29xuPy+bePhUd6y+XHAj+Z3wYkkzWeyUEi9ksFrB4hKE6vfUYw2elVyXJXo1oBPACBt6KR9gg==;rMTT2alV5siRBvhjnZZ4yQ=="
+secured: "3efAgAaOYpdY4qGAmSINQ1eGm5otJkZbPXBrIMx53QSziufMs8J4gC7HWJAj/fxlfr+9tRuQitELhQJ1FTwUhoHLBYnE7mVry9i1oKjaaEnrgAyKrhvmtYtvxYim9BYx9HvRICaRL9uQzHeUUanALGL6w65aLyolyUh+KlfOGVTR59pinalAG5f2HijcQs5fHeVLoM0fOR3YZRpsmXNb4k6s81YmPeeXtn3v/kw/jVRobF0MSWKHB6zo55d1vGrLTTwq/MGSch7zXmo/v3ioV4XofLPj01f0JSi5e74ixsCjyqEBxyZjAxfsLNTzyqLvHWG3zFan1GIt9mCVEUPMN1+3o9XIacuWBnYTGk8N/maEDc6cQbeAmUbQ+K2bNYO7MWW8UNd//MNlsSjRKVZQgRHJx2otsfo7QvXr+MaV/oLmZX4JYsvRg9Mg8GM1KHBQRpx6zfcNd81OhaOEaipWwDW9KjuAHUJHuGMvj8+rvxmm6ohfQ/pZB1fI3LPXP4Wo4ncF8BYTEr2nvy4OaiN8mQ==;x0jRpJ1vwAMHr2t1i9wTYw=="
 ---
 

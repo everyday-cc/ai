@@ -88,6 +88,20 @@ related:
         width: 770
         height: 510
         isCached: true
+  - title: "Geely, Baidu-backed EV maker is China’s latest prominent Tesla rival in self-driving race"
+    excerpt: "I believe we provide users a better self-driving experience in most major Chinese cities,” Jiyue's COO Luo Gang said."
+    publishedDateTime: 2023-10-30T10:29:00Z
+    webUrl: "https://technode.com/2023/10/30/geely-baidu-backed-ev-maker-is-chinas-latest-prominent-tesla-rival-in-self-driving-race/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 45
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/10/WechatIMG24.jpg"
+        width: 2000
+        height: 1123
+        isCached: true
   - title: "Baidu and Geely's Self-Driving EV Delivery Begins"
     excerpt: "Baidu and Geely's joint venture has started delivering a self-driving electric vehicle (EV) to compete with Tesla's Model Y in China's market. The JiYue 01 SUV, priced from 249,000 yuan to 339,900 yuan,"
     publishedDateTime: 2023-10-27T23:28:00Z

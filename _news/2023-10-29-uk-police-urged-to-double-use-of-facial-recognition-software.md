@@ -3,8 +3,8 @@ category: news
 title: "UK police urged to double use of facial recognition software"
 excerpt: "Policing minister Chris Philp suggests target of more than 200,000 searches over next six months"
 publishedDateTime: 2023-10-28T22:25:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
-webUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
+originalUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
 type: article
@@ -33,8 +33,8 @@ images:
 related:
   - title: "Major UK retailers urged to quit ‘authoritarian’ police facial recognition strategy"
     excerpt: "Human rights campaigners say the Pegasus initiative wrongly criminalises people of colour, women and LGBTQ+ people"
-    publishedDateTime: 2023-10-28T14:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
+    publishedDateTime: 2023-10-28T15:30:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy?ref=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
     type: article
@@ -48,6 +48,6 @@ related:
         height: 372
         isCached: true
 
-secured: "boDQfb6tNxwbV4gQBb5MKpzyRVZpOHE0+S92F4m7Jd/cka+ckq5jcEZZyf5l/KIizzQzeFN0SVgs2R7D6A3Fw1h7AzkiTEKxCB68vJJJTuxrsxy7XvbIl4rJNJJb/ggxdbETtZYnUpeeB7TNgV5k4ULs9LUiwe9xWkngPktVOxbHb0HP5gceh+CY+6OHNywZEY390BoVxY2cYpoMP20TmrK9ZTrzsOBKhoxZUqlpMp1EvjG5bF6NmOvJSm03slQrryG3guCdbRkv42+8ff/S7u35bVFmMXNEA+YXcCBInLwJDcqqPjRf8kQhigXzYODlPZ2VPhdmdsEzbyk8JTBE5KyFRlHJOtE/8xI0V4mvj0/3K7vI48lJyErAWl9BWZ6VEUCOvNrd5NMEaTdvV80UTbhxb9wcwobp7oDZRQS41cZFesNnqEGlWQY26MtBGZmg5wH3XfvF+EaP0P9EzGQxR8+ZpKRcx025j+lvsOh89VBwrnEI0NeIYDIqpPK447q1G0+0p58smyKiPJoMyXkq0A==;J6glhtcK6c6UIRFFkJY53w=="
+secured: "9Aig28t1a5bfiP5OEkxCkVeNH0Zizl7X296aE5kx1Z2/re4MYWzIeDAKzYDuD+BmOVXlLtHt196wGpAqhLR2S7MJ9mVhTsj1Rge83pmMBqPKbCF37See8OI5Qn0KZvMlVDOyCoBaufX/YuiAvwvWk0Nn8OufYMM3No09eDd2n1+9EXrhAWYMnvJAbSxL2GSTnw2Kjp6o+8cfvp2TrFY3sHv1rA95I8+G3jvqElbKnkaAbpNe4nQ5/MUUfLSPNrkczyo/3F0bZiSCouOf5d4RnMSIky7uaNQGLPFHcJZVCCj2k5rdECIkyuMmwbsNYLh7+mMenFpDhkORIwEDXtP0mNeWBNDY8JADgPZ71sxC0Ng=;R/l27F8ySjXS9y5rG5Ai3A=="
 ---
 
