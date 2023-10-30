@@ -2,6 +2,332 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2023-08-10-new-ai-tech-aims-to-detect-the-origin-of-cancers-for-optimal-treatments-an-important-step.md",
+      "title": "New AI tech aims to detect the origin of cancers for optimal treatments: ‘An important step’",
+      "excerpt": "Researchers at MIT have created an artificial intelligence (AI) model that analyzes the genetic information and predicts where in the body tumors first appeared.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step",
+      "originalUrl": "https://www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b20a8b4d-d1d9-46e9-a471-d4f6f6c9211e/f5657d0d-4d70-46a3-ba0e-25c77dafa905/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step.amp",
+      "publishedDateTime": "2023-08-09T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-what-the-bible-can-teach-christians-about-how-to-navigate-ai.md",
+      "title": "What the Bible can teach Christians about how to navigate AI",
+      "excerpt": "As Christians evaluate technologies, we need to be asking ourselves how technologies create new symptoms that distract us from the underlying problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/what-bible-teach-christians-navigate-ai",
+      "originalUrl": "https://www.foxnews.com/opinion/what-bible-teach-christians-navigate-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/028442eb-f988-4a60-b602-4b76ffa7f1cf/8ee145fe-7c06-458f-a703-4d7dde6594c9/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/what-bible-teach-christians-navigate-ai.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/what-bible-teach-christians-navigate-ai.amp",
+      "publishedDateTime": "2023-08-09T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs.md",
+      "title": "100 Days Into Strike: Netflix And Disney Hiring AI Talent, Celebrities Seeking Side Jobs",
+      "excerpt": "Now one of the longest strikes in Hollywood history, celebrities speak out on the picket line while others seek out side hustles. What's at stake in the fight against AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2023/08/10/100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/08/10/100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d3dab64223489dddb1ea3f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/08/10/100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/08/10/100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs/amp/",
+      "publishedDateTime": "2023-08-09T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-investing-in-artificial-intelligence-stocks-things-you-have-to-know.md",
+      "title": "Investing in Artificial Intelligence Stocks: Things You Have to Know",
+      "excerpt": "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html",
+      "originalUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html",
+      "publishedDateTime": "2023-08-09T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts.md",
+      "title": "Ethical boundaries for usage of generative AI is key to brand success: Experts",
+      "excerpt": "Experts from Google, Marico, Nasscom AI, Khaitan and Co. and ASCI highlighted that while the usage of AI in marketing is not new, one should be mindful of what goes out in the public and that it is no",
+      "sourceUrl": null,
+      "webUrl": "https://bestmediainfo.com/2023/08/ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts",
+      "originalUrl": "https://bestmediainfo.com/2023/08/ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bestmediainfo.com/uploads/2023/08/1691642505.asci-webinar.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bestmediainfo.com/amp/2023/08/ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts",
+      "cdnAmpWebUrl": "https://bestmediainfo-com.cdn.ampproject.org/c/s/bestmediainfo.com/amp/2023/08/ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts",
+      "publishedDateTime": "2023-08-09T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Best Media",
+        "domain": "bestmediainfo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-report.md",
+      "title": "China's internet giants order $5 billion of Nvidia chips to power AI ambitions: Report",
+      "excerpt": "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/china-internet-giants-order-5-billion-nvidia-chips-power-ai-ambitions-report/article67179110.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/china-internet-giants-order-5-billion-nvidia-chips-power-ai-ambitions-report/article67179110.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/v7usrh/article67179111.ece/alternates/FREE_1200/2023-08-03T124237Z_1663218347_RC2L91A0ORCI_RTRMADP_3_COREWEAVE-FUNDING.JPG",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/china-internet-giants-order-5-billion-nvidia-chips-power-ai-ambitions-report/article67179110.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/china-internet-giants-order-5-billion-nvidia-chips-power-ai-ambitions-report/article67179110.ece/amp/",
+      "publishedDateTime": "2023-08-09T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-computer-vision-development-market-analysis-2023-size-trends-and-growth-forecast-by-2030.md",
+      "title": "Computer Vision Development Market Analysis 2023: Size, Trends, and Growth Forecast by 2030",
+      "excerpt": "The \"Computer Vision Development Market\" research for the year 2023-2030 provides a complete overview of market size, share and growth across geographies, giving firms with a comprehensive insight ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33696289/computer-vision-development-market-analysis-2023-size-trends-and-growth-forecast-by-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33696289/computer-vision-development-market-analysis-2023-size-trends-and-growth-forecast-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33696289",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33696289",
+      "publishedDateTime": "2023-08-09T20:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-facial-recognition-door-lock-market-analysis-2023-size-trends-and-growth-forecast-by-2030.md",
       "title": "Facial Recognition Door Lock Market Analysis 2023: Size, Trends, and Growth Forecast by 2030",
       "excerpt": "The \"Facial Recognition Door Lock Market\" research for the year 2023-2030 provides a complete overview of market size, share and growth across geographies, giving firms with a comprehensive ...",
@@ -851,323 +1177,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-ibm-to-make-metas-llama-2-available-on-watson-x.md",
-      "title": "IBM to make Meta’s Llama 2 available on Watson X",
-      "excerpt": "IBM announced today that it plans to host Meta’s open source large language model (LLM) Llama 2-chat on its AI and data platform, watsonx. Watsonx, which came out in May, sought to offer enterprises the full technology stack,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792",
-      "originalUrl": "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-09T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-the-rise-of-artificial-intelligence-ai-in-grc-trends-and-use-cases.md",
-      "title": "The Rise of Artificial Intelligence (AI) in GRC: Trends and Use Cases",
-      "excerpt": "Emerging developments in AI, Machine Learning, Natural Language Processing, Automation, and More – Where Does it All Fit Inside the World of GRC? AI-driven technology has been making headlines for breakthroughs as well as breakdowns lately (like ChatGPT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jdsupra.com/legalnews/the-rise-of-artificial-intelligence-ai-2506101/",
-      "originalUrl": "https://www.jdsupra.com/legalnews/the-rise-of-artificial-intelligence-ai-2506101/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15913_1741.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-09T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JD Supra",
-        "domain": "jdsupra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-automated-machine-learning-automl-market-research-report-2023-2030-103-pages-report.md",
-      "title": "Automated Machine Learning (AutoML) Market Research Report 2023-2030 | 103 Pages Report",
-      "excerpt": "Short Description About Automated Machine Learning (AutoML) Market: The Global Automated Machine Learning (AutoML) market is anticipated to rise at a considerable rate during the forecast period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33657584/automated-machine-learning-automl-market-research-report-2023-2030-103-pages-report",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33657584/automated-machine-learning-automl-market-research-report-2023-2030-103-pages-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33657584",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33657584",
-      "publishedDateTime": "2023-08-09T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-3-areas-customers-see-the-most-potential-for-generative-ai.md",
-      "title": "3 Areas Customers See The Most Potential For Generative AI",
-      "excerpt": "In just a short period, we’re likely to see massive changes in how customers find products, engage with companies, and experience brands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c90fd5ea55d543dd49763d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/",
-      "publishedDateTime": "2023-08-09T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-heres-why-ai-is-the-key-to-more-empathetic-customer-experiences.md",
-      "title": "Here’s Why AI Is The Key To More Empathetic Customer Experiences",
-      "excerpt": "If empathy is what makes us human, artificial empathy can help us deliver richer, more personal customer experiences at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/",
-      "originalUrl": "https://www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c91091d4d15ec01469db67/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/amp/",
-      "publishedDateTime": "2023-08-09T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-if-it-can-be-designed-on-a-computer-it-can-be-built-by-robots.md",
-      "title": "If it can be designed on a computer, it can be built by robots",
-      "excerpt": "Making things this way resembles a model used by the semiconductor industry, where chips are designed using software that directly links to the automated hardware which fabricates them. For the Fort Mill plant,",
-      "sourceUrl": null,
-      "webUrl": "https://www.economist.com/science-and-technology/2023/08/09/if-it-can-be-designed-on-a-computer-it-can-be-built-by-robots",
-      "originalUrl": "https://www.economist.com/science-and-technology/2023/08/09/if-it-can-be-designed-on-a-computer-it-can-be-built-by-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230812_STD001.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-09T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Economist",
-        "domain": "economist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-microsoft-unveils-next-gen-ai-solutions-to-boost-frontline-productivity-amid-labor-challenges.md",
-      "title": "Microsoft unveils next-gen AI solutions to boost frontline productivity amid labor challenges",
-      "excerpt": "Microsoft aims to enhance the efficiency of frontline service professionals through Copilot integrated into Dynamics 365 Field Service.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsoft-unveils-next-gen-ai-solutions-to-boost-frontline-productivity-amid-labor-challenges/",
-      "originalUrl": "https://venturebeat.com/ai/microsoft-unveils-next-gen-ai-solutions-to-boost-frontline-productivity-amid-labor-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-09T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

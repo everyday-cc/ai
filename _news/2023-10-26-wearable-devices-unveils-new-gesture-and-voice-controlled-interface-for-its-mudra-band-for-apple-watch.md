@@ -28,6 +28,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 18
+  - title: "Unlocking the Future: Wearable Devices Introduces Cutting-Edge Gesture and Voice Control Integration for the Mudra Band for Apple Watch"
+    excerpt: "Wearable Devices Ltd. (the “Company” or “Wearable Devices”) (Nasdaq: WLDS, WLDSW), a technology growth company specializing in artificial intelligence (AI) powered touchless sensing wearables, is thrilled to announce a game-changing development – the integration of a remarkable gesture and voice-controlled interface for its Mudra Band for Apple Watch Picture this: complete control at your fingertips,"
+    publishedDateTime: 2023-10-30T14:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/30/9907395.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "xioTzVLixeH2Uvn6EYZN/AVennAwAszPpWUR/FSb0TA5vvMci/OEeSqd172hcAbQ7AFXjsMy0dYW6Hflpg6/NOEQjVa01FyYHFpGmWANidFkiErG7NCt6Xu+FMdvwDPYvkbx84CoL0/ohz0TUVVjBEZYbFA9L1ZtWWdlltKWtynBAQqossD0+3wyKHDY9Ul61iY7UAcBynVnKozx/3wxt7FBf0Qt/dxixjNJg+4E/osBIs0NRVqB78LgFAbhPYeOwRJIZnhd2WtQbMP42GonXc0Xx9OTWLqYW4X9ebjd7n6DITDHci66iOoHO1v8JCGLb2DTX3PuaBUyWOs9drC74PRI6P2WO0/J/FQ69aD8kBU=;ZAPLEk466t0hA6GBK/Il9Q=="
 ---

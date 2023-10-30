@@ -59,6 +59,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "UK police urged to double down on facial recognition"
+    excerpt: "Policing minister Chris Philp urged UK force chiefs to increase the use of facial recognition software to track down suspects."
+    publishedDateTime: 2023-10-30T15:10:00Z
+    webUrl: "https://thenextweb.com/news/uk-police-facial-recognition"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-17-17.jpg&signature=0dc058381f8c415116fb15e3e79411c2"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "TTD introduces facial recognition for employees"
     excerpt: "The Tirumala Tirupati Devasthanams (TTD) management formally introduced Facial Recognition System (FRS) for its employees at its administrative building on Thursday. Executive Officer A.V. Dharma Reddy, who formally launched the system, announced that the ..."
     publishedDateTime: 2023-10-27T01:55:00Z

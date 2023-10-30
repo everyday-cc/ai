@@ -43,11 +43,27 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 70
+    quality: 87
     images:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/30/joe_biden_shutter4.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Biden AI executive order requires safety testing for AI that poses “serious risk”"
+    excerpt: "President Joe Biden issued an executive order on AI that outlines the federal government's first comprehensive regulations on generative AI systems. The order includes testing mandates for advanced AI models to ensure they can't be used for creating weapons,"
+    publishedDateTime: 2023-10-30T16:43:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/10/biden-ai-executive-order-requires-safety-testing-for-ai-that-poses-serious-risk/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/biden-ai-executive-order-requires-safety-testing-for-ai-that-poses-serious-risk/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/biden-ai-executive-order-requires-safety-testing-for-ai-that-poses-serious-risk/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 82
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/whitehouse-neural-sky-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Meta Executive on AI Products"
     excerpt: "At WSJ's Tech Live conference, Meta Platforms Chief Product Officer Chris Cox explains how deepfakes influenced the development of Meta's AI assistant products. Photo: Nikki Ritcher for The Wall Stree"
@@ -77,6 +93,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "President Biden Issues Executive Order on AI: Here's What It Does"
+    excerpt: "Plans call for oversight of AI models that might threaten 'national security, national economic security, or national public health and safety.'"
+    publishedDateTime: 2023-10-30T16:34:00Z
+    webUrl: "https://www.pcmag.com/news/president-biden-issues-executive-order-on-ai-heres-what-it-does"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00pxSfVzCnfqsEBRn28y5oU-1.fit_lim.size_1200x630.v1698683068.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "President Biden issues executive order to set standards for AI safety and security"
     excerpt: "U.S. President Joe Biden has issued an executive orde that seeks to establish \"new standards\" for AI safety, security, and privacy."
     publishedDateTime: 2023-10-30T13:40:00Z
@@ -101,6 +131,22 @@ related:
       - url: "https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2023/10/932/470/GettyImages-1745420610.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "Biden gets tough with AI Executive Order as G7's principles get European Commission approval"
+    excerpt: "Biden’s AI Executive Order is the gold standard for how governments should be regulating AI right now. Thoughtful but scoped oversight focused on practical risks, emphasis on privacy and security, focus on R&D across the ecosystem, and encouraging use of AI in the government."
+    publishedDateTime: 2023-10-30T16:41:00Z
+    webUrl: "https://diginomica.com/biden-gets-tough-ai-executive-order-g7s-principles-get-european-commission-approval"
+    ampWebUrl: "https://diginomica.com/biden-gets-tough-ai-executive-order-g7s-principles-get-european-commission-approval?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/biden-gets-tough-ai-executive-order-g7s-principles-get-european-commission-approval?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 48
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-01/4E981F32-5523-4260-B71A-D9382B59EEB8.jpeg"
+        width: 640
+        height: 352
         isCached: true
   - title: "Biden issues executive order outlining safeguards for developing artificial intelligence"
     excerpt: "Monday’s order will require industry to develop safety and security standards, introduce new consumer protections and give federal agencies an extensive to-do list to oversee the rapidly progressing technology."
@@ -134,6 +180,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden signs executive order directing artificial intelligence companies to develop safer AI"
+    excerpt: "President Biden signed an executive order today establishing new guidelines for the development of artificial intelligence, including rules for the industry, security standards, consumer protections and federal oversight."
+    publishedDateTime: 2023-10-30T17:09:00Z
+    webUrl: "https://siliconangle.com/2023/10/30/biden-signs-executive-order-directing-ai-companies-develop-safer-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 42
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/whitehouse.png"
+        width: 794
+        height: 566
+        isCached: true
   - title: "White House issues executive order addressing safety, security concerns for artificial intelligence"
     excerpt: "The White House unveiled an Executive Order on Artificial Intelligence early Monday morning - marking the federal government's the latest step toward regulating AI."
     publishedDateTime: 2023-10-30T10:51:00Z
@@ -162,6 +222,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden Signs Executive Order Regulating Artificial Intelligence"
+    excerpt: "President Joe Biden is directing the government to take a sweeping approach to artificial intelligence regulation, his most significant action yet to rein in an emerging technology that has sparked concern and acclaim."
+    publishedDateTime: 2023-10-30T16:53:00Z
+    webUrl: "https://www.govtech.com/policy/biden-signs-executive-order-regulating-artificial-intelligence"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 37
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/ff9ccac/2147483647/strip/true/crop/1024x498+0+45/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F59%2Fa9%2Feefe544e4a72a5caa32630f1e90a%2Fbiden-cybersecurity-order.jpg"
+        width: 1440
+        height: 700
+        isCached: true
   - title: "Potential and peril: Biden to sign executive order on AI safeguards"
     excerpt: "President Joe Biden had directed his staff to move with urgency on a policy that could maximize artificial intelligence’s possibilities and minimize its risks. The order he will sign on Oct. 30 creates industry standards and government oversight."
     publishedDateTime: 2023-10-30T15:02:00Z
@@ -189,6 +263,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2023/10/25/Biden_United_States_Australia_08474--6b175_c0-223-5344-3340_s1200x700.jpg?69c83d2fdd2f773c999342a90d1a45a514d317aa"
         width: 1200
         height: 700
+        isCached: true
+  - title: "In new order on AI, Biden is scrambling to catch up to emerging risks in health care"
+    excerpt: "President Joe Biden ordered the nation’s leading health agencies on Monday to develop a plan for regulating artificial intelligence tools already widely"
+    publishedDateTime: 2023-10-30T16:37:00Z
+    webUrl: "https://www.statnews.com/2023/10/30/executive-order-regulating-ai-artificial-intelligence-health-care/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 32
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2023/08/AdobeStock_280230556-1024x576.jpeg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "President Biden Issues Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence"
     excerpt: "President Biden issued a landmark Executive Order to ensure that America leads the way in seizing the promise and managing the risks of artificial intelligence (AI). The Executive Order establishes new standards for AI safety and security,"

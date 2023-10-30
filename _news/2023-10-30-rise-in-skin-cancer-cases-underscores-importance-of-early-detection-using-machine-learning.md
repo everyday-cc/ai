@@ -27,7 +27,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 57
+    quality: 59
   - title: "Machine Learning in Carbon Trading: Optimizing Investments for a Greener Future"
     excerpt: "The intersection of technology and environmental conservation has paved the way for innovative solutions to combat climate change. One such groundbreaking development is the integration of machine learning in carbon trading,"
     publishedDateTime: 2023-10-27T08:47:00Z

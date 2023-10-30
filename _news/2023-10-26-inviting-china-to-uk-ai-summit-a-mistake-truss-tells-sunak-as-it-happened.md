@@ -46,6 +46,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "No 10 fends off claims Rishi Sunak being snubbed over AI safety summit"
+    excerpt: "US and French presidents will not attend conference being held this week in Bletchley Park"
+    publishedDateTime: 2023-10-30T15:10:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/30/no-10-fends-off-claims-rishi-sunak-being-snubbed-over-ai-safety-summit"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/30/no-10-fends-off-claims-rishi-sunak-being-snubbed-over-ai-safety-summit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/30/no-10-fends-off-claims-rishi-sunak-being-snubbed-over-ai-safety-summit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/635fce5f42d5c0ad5a1b8b06e6fd2f688284af6e/228_539_6445_3869/master/6445.jpg?width=620&quality=85&auto=format&fit=max&s=45460ea8af6e8b717e0230e4700922b0"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Rishi Sunak says AI has threats and risks - but outlines its potential"
     excerpt: "Mr Sunak said among the risks outlined in the report was that AI could be used by terrorist groups \"to spread fear and disruption on an even greater scale\". Mitigating the risk of human extinction from AI should be a \"global priority\", he said."
     publishedDateTime: 2023-10-26T11:32:00Z

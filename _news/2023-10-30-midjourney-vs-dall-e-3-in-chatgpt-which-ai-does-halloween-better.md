@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/midjourney-vs-dall-e-3-in-chatgpt-wh
 webUrl: "https://www.zdnet.com/article/midjourney-vs-dall-e-3-in-chatgpt-which-ai-does-halloween-better/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI Captures the Magic of AI With ChatGPT and DALL-E – Built In"
-    excerpt: "Artificial intelligence, once considered the stuff of science fiction, has drifted into the mainstream in recent years with Siri, Alexa and other voice"
-    publishedDateTime: 2023-10-29T14:34:00Z
-    webUrl: "https://www.inferse.com/770803/openai-captures-the-magic-of-ai-with-chatgpt-and-dall-e-built-in/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-314.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Airbnb using Artificial Intelligence to crack down on unwanted Halloween parties"
     excerpt: "The company says its state-of-the-art system works to prevent certain higher risk one and two night whole home bookings."
     publishedDateTime: 2023-10-26T13:32:00Z

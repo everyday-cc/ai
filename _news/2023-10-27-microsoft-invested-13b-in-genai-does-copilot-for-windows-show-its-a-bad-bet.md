@@ -28,15 +28,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
-  - title: "Microsoft CEO sees AI-powered Copilot as 'like the Start button' of Windows"
-    excerpt: "Since AI was a big talking point of Qualcomm's presentation Nadella ... done without sort of a new system architecture,\" said Nadella. \"The Copilot is like the Start button,” he continued. \"It becomes the orchestrator of all your app experiences."
-    publishedDateTime: 2023-10-26T00:00:00Z
-    webUrl: "https://www.tomsguide.com/news/microsoft-ceo-sees-ai-powered-copilot-as-like-the-start-button-of-windows"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 32
 
 secured: "/RXpk6t0GCwTLCQbXXzpxzRQQizesMWDYFUWLK7+EC15/19aTHinuSha5va8c0+xPArvBbPYqFffjev1BZ9/86T+IJqUeRKtjAAEwuVGoEDcXHleh06dtGECXOyr16TViiU24aYttQwTTcbPIDrdDPzAWoyIUwMFAFLVfrk6T/1yaSLZHgszMGc459ccT1NfWQ4RKQf0104JmtIVdhsHv6TbOrNgQvVPd0vCdfStqK+8s5Ym9ZAkjMWYzuI81GuEZQ05bIJgZBUx7LErLr7FAkAEKii+ln7a/N4k6rf2k792aTb3G3GXUZHTlRtnUZEM4CHbNhUHAuWk0zYNkqBhFYJ+MD1FIiN/hBPAOG1Mo84LG4EOVVCuhVp4AgIn/acQmH3NKekazjFEDmksiyRY1KMrnv4uGO5TVX2SidZXS5m+t0LCpve5nC9Tv5Pir5buLboLGNR+Q3nm+ZDBaNue1VHcgoF1snh+BJ5JK95NG5DxfQfRqhKheYPWgg/VpZcz+S2gj8UNp5Dr8k4CZs7YAg==;rl+dCKXUHcFR3QqnOJ6hFA=="
 ---

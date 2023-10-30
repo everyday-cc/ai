@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Jed McCaleb-backed nonprofit will provide easier access to AI computing capacity"
+    excerpt: "A nonprofit organization linked to billionaire Jed McCaleb has purchased thousands of AI chips to make them more accessible to researchers."
+    publishedDateTime: 2023-10-30T16:39:00Z
+    webUrl: "https://cointelegraph.com/news/jed-mccaleb-nonprofit-easier-access-ai-computing-capacity"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/af79b720-94b8-4f32-98dd-bd51061db19a.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "6P5b1LZCKpUQHIh6LPalmksr0qSPiFhN7fYrun70ZGbUN4km0n9fJlIP3gJOfrab8jaXiuyO3xyy6bD7q2VQnLLe9kkujBjgNF7nBdVxIPJ/jvaYjopX+azWMv4Ivr/YDzGxHf31nvfk1Il+MQdSJIyuuzaPrtZWWfAOESLMkJkgaIhP4dpeg5JkB/Iz56NfOk3OJOyviWxSXPgOowGKzobtCZp5O4bRxifoLg9pQpWUdRScr5FQDYEdtf5IcuQonr/8hNXrzArmrCIq7g7kgekv2i/MROibiCpKv6k6hzeiYcUBM63p6z1lJNF2RW/0D6hVKf7maW8O8vs8nyktjHeGBBQpXGK0qgKlt1qkAbPHgnctSNJfu/FteyllJzC0EU40VdyW6AKPSi6fUzeZde17R+TLtvyNKpcmDKq3/BqgSh0VOFGhtuPa+Ty4TfsJo4AQao3H3+ut2OpLpP2RQjeA4Y5LXIEGwuv5SRaYMMd6R5B/hBsInBWGT39fl+TeR2UDdJoiasUXAFUZfAFeOw==;eol7SOxOpuEOfdyqjvzCXg=="
 ---

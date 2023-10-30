@@ -7,7 +7,7 @@ originalUrl: "https://www.deccanherald.com/india/karnataka/bengaluru/for-disease
 webUrl: "https://www.deccanherald.com/india/karnataka/bengaluru/for-disease-detection-to-fintech-startup-show-in-bengaluru-has-them-all-2743985"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "With China playing catchup with the U.S., these 3 charts show the top countries for fintech in 2023"
-    excerpt: "In China, which was another standout fintech player identified by Statista, the market for digital financial services is massive. WATCH: CNBC's full extended interview with Robinhood CEO Vlad Tenev on AI, credit cards and more Tencent's WeChat Pay and Ant ..."
-    publishedDateTime: 2023-10-26T05:16:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/with-china-playing-catchup-with-the-u-s-these-3-charts-show-the-top-countries-for-fintech-in-2023/4802051/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/with-china-playing-catchup-with-the-u-s-these-3-charts-show-the-top-countries-for-fintech-in-2023/4802051/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/with-china-playing-catchup-with-the-u-s-these-3-charts-show-the-top-countries-for-fintech-in-2023/4802051/?amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 30
-    images:
-      - url: "https://media.nbcnewyork.com/2023/10/101622121-UChina.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "3jqTXG/7SB5+fWNdHQncHsebJTbfq+FfQN6Qu8r6KBSSDnRFBRsNUbCytjtLSm7klX12Ty+naziCH0fKbcOPeKnuVTRYqQc1U19o84Hb6vKUDMWsf8CbMJdZGTBlCAZBf2DG3zwI0frpQZpvzntYS+F4znstOZPOKDDAQ5cEXmZmZfhJTFLjAGTLxRaj46RQB/cS1wOVMZFRlvCxx4tapye7BojPGXMykGUOm7ld0HP5uHlNvFVu3p8l/BsfKZHWlorKxie/Hagq/BQBMAQ2KAVXTJrHeV+k5EcgbFyvkcKHxNg9Ii5ggxAVMl/w5+Ai4KWiEK5qEUNRTwtd2kpZWmKjWYRVQnx6P02FBn6wDFmBGwossn6nwYNZ0C7jMoZnTSrE4QBxIx8OsHu2KffJ9GVPoFvocGr6YAYN1aUo3cyJtvNtgnk34gBHeQRLLQ952HNtY58dY2LwR66NvyjPJA2ftBuu1H9BKyEac6cS051+VaoiGe07Kd+bLKem5Cs2vtfnef2HxKx8UCHPmZL+dA==;GqE69nt6wae7FjGuhl+Pcw=="
 ---

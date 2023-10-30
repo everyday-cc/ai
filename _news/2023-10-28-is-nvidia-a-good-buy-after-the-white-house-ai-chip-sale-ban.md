@@ -33,6 +33,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Nvidia’s NeMo taps generative AI in designing semiconductor chips"
+    excerpt: "In a research paper released today, Nvidia semiconductor engineers showcased how generative AI can assist in designing semiconductors."
+    publishedDateTime: 2023-10-30T16:08:00Z
+    webUrl: "https://venturebeat.com/ai/nvidias-nemo-taps-generative-ai-in-designing-semiconductor-chips/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/nvidia-chips.jpg?w=1200&strip=all"
+        width: 1200
+        height: 625
+        isCached: true
   - title: "Google, Nvidia Back AI Startup That Helps Combat Chip Shortage"
     excerpt: "Nvidia Corp. and a Google venture fund have joined a seed round of funding for a startup that helps developers squeeze more computing power out of specialized processors used to train AI, potentially alleviating a major logjam for the burgeoning field."
     publishedDateTime: 2023-10-26T10:41:00Z
@@ -92,6 +106,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/27/image/jpeg/o7LvvME7W1xXvMsAFQxALvaDrC56NatME6ukKzVE.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Nvidia tests chatbots in chip design process in bid to use more AI"
+    excerpt: "Nvidia on Monday published new research into using chatbots that can generate human-like responses in the process of designing semiconductors. Modern chips are circuits built out of tens of billions of transistors,"
+    publishedDateTime: 2023-10-30T16:59:00Z
+    webUrl: "https://www.aol.com/news/nvidia-tests-chatbots-chip-design-165931919.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/4215e0e378aa1e3caaae835b532eea19"
+        width: 800
+        height: 533
         isCached: true
   - title: "US tightens rules on AI chip sales to China in blow to Nvidia"
     excerpt: "US tightens rules on AI chip sales to China in blow to Nvidia on facebook (opens in a new window) US tightens rules on AI chip sales to China in blow to Nvidia on linkedin (opens in a new window)"

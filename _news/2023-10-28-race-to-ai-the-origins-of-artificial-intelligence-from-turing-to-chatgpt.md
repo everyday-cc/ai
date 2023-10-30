@@ -125,6 +125,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "FlnKqw9Cp6b/qYheiFbYVId0u9NjfWsBtWnX2dCu/G4EMj17eEAUhwls+cFj9mm9cNMW+ohoRj6A/+rVDqrdQ1l4xFWy4T3SS+4xskjjioxr2Je6kj6zEntFAV0emnHCEaMGhvDMrcQE2C8HAjC13zqUBGkqoMnE2/M/FuSfy1/Lo9MfQ8G/IhR9CxokytTDEO+eX9Cn4OeXUqsAGCaJ44+ucF9g+vO/nI0XnJWsHpopP3fI3+qB8LHw7ZjBUm9o57tP9VnQADq3rrCldCwgNY8dQ3mJehJzNaGPOZHn3Cff03bJhqvw12ucV56Vr7SZlW/tKZbFHVZ5yI/bEOA+jV2sQb6Bd5z568MDBin7mhE=;nlpfBmNAuZR7cKUM6r005A=="
+secured: "VMlpNp8o2diHjVmr42eUxcrfWNDxP3cGrbo18E6ZYQ0hlSWrxrmChhHlK9GsFuQhnddUbNeuq84SzuFMJVWcHGvPqZZO1iVfkubK0nsoNdSbHXUueVMDzsLFLES72IHY+deuEqQ2o4uspO1vMDjDmu2dWlDu3RjMKkYq6+hWMSG8OMebjo8ZNPdVOv7AJ+KjGlsLLqg6yCZTyGZnxo73yALy47v1NRMRqg6XX/HcDGdQYQWz+al47X99Zw+KKq0OkuAnWGUUCuew4/hvtV+kkytFIaOfpmOow/CbMeBSx+fnqu99azFH7InqgDmXBAWpRXCv4J2b0keHhAc1nwTxtKozYpjo+rDmMinjmFTI/b4=;rSeIMKim+Pl0TACUcmjnsw=="
 ---
 

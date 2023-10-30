@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/elevate-your-marketi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/elevate-your-marketing-solutions-with-amazon-personalize-and-generative-ai/"
 type: article
 quality: 119
-heat: 319
+heat: 329
 published: true
 
 provider:
@@ -91,6 +91,22 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/24/ML-15763-image017-971x630.png"
         width: 971
         height: 630
+        isCached: true
+  - title: "Accelerating AI tasks while preserving data security"
+    excerpt: "With the proliferation of computationally intensive machine-learning applications, such as chatbots that perform real-time language translation, device manufacturers often incorporate specialized hardware components to rapidly move and process the massive amounts of data these systems demand."
+    publishedDateTime: 2023-10-30T17:24:00Z
+    webUrl: "https://techxplore.com/news/2023-10-ai-tasks.html"
+    ampWebUrl: "https://techxplore.com/news/2023-10-ai-tasks.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-ai-tasks.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 78
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/accelerating-ai-tasks.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "The new AI imperative: Unlock repeatable value for your organization with LLMOps  "
     excerpt: "The series will examine what makes Generative AI so unique and how it can meet current business challenges, as well as how it drives new forms of collaboration between teams working to build the next generation of apps and services. The series will also ground organizations in responsible AI approaches"

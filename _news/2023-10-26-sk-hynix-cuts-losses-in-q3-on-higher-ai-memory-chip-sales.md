@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361933"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361933"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 601
     height: 338
     isCached: true
-
-related:
-  - title: "SK Hynix says AI boom will drive profits after third-quarter loss narrows"
-    excerpt: "SK Hynix said its business selling DRAM chips, had returned to profit in the third quarter, after reporting losses in the first two quarters of this year."
-    publishedDateTime: 2023-10-25T23:59:00Z
-    webUrl: "https://www.cnbc.com/2023/10/26/sk-hynix-says-ai-boom-will-drive-profits-after-q3-loss-narrows.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/10/26/sk-hynix-says-ai-boom-will-drive-profits-after-q3-loss-narrows.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/26/sk-hynix-says-ai-boom-will-drive-profits-after-q3-loss-narrows.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 86
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107276745-1690338268463-gettyimages-1246671088-porzycki-flashmem230130_npu1c.jpeg?v=1698285583"
-        width: 3543
-        height: 2362
-        isCached: true
 
 secured: "FO2f99uhhmQ8Nlg7mtatOJYVhauFRiVanAp/lyiXsUf9qc+7WWGQ2VdKY2EajvBC2tehe18xk97ozvR8fWkt6zoC54e8EJI50vQz5m+duuPEVL9D7fXGP13ris2eqZs1yfV2r4CuHGr3j5yhhSu+FYOgheOasUGrCLTYRtBpvsQ4W45wjrThfNNjms+eEITvUwZ4mE8sRQC0yEHUYI9lbkTUCiXOSPSr4QKQkDSu0eYz8nVyjiKVw3VbGTjaCqpoZnms0i3Rran6v2n0PVbwvgUwwl/ldpSQ2YF1bQqol9hzNjhtfN009X0Zli+D3aS05FNp7CMjNbw3PCUiw70cgPrrH3G+3EhnlgcUmbcBtRQ=;WTO/rt8Di4R9xBbBuq00VA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107307570/Cisco-Unveils-New-AI-Strategy-For-It
 webUrl: "https://menafn.com/1107307570/Cisco-Unveils-New-AI-Strategy-For-Its-Collaboration-Platform-Webex"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cisco zooms in on new AI power for Webex teams"
-    excerpt: "Providing automated support such as tone modification when writing messages, suggested responses to received messages, and meeting summaries"
-    publishedDateTime: 2023-10-25T23:41:00Z
-    webUrl: "https://venturebeat.com/virtual/cisco-zooms-in-on-new-ai-power-for-webex-teams/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-25-10.37.16-Photo-of-a-person-of-Hispanic-descent-engrossed-in-a-video-chat-with-a-futuristic-robot-on-the-laptop.-The-laptop-creates-a-mild-illusion-of-echoing-.png?w=1200&strip=all"
-        width: 1199
-        height: 685
-        isCached: true
   - title: "Cisco Unveils Webex AI Strategy At Webexone"
     excerpt: "Reimagining Communication with Webex's Pervasive AI  News Summary:   <li /> New Real-Time Media Models (RMMs) in Webex har"
     publishedDateTime: 2023-10-26T02:54:00Z

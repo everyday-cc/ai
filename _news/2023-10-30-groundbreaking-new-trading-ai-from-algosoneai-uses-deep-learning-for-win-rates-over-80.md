@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-30T14:23:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/groundbreaking-new-trading-ai-from-algosone-ai-uses-deep-learning-for-win-rates-over-80-1032754536"
 webUrl: "https://markets.businessinsider.com/news/stocks/groundbreaking-new-trading-ai-from-algosone-ai-uses-deep-learning-for-win-rates-over-80-1032754536"
 type: article
-quality: 57
-heat: 87
+quality: 59
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Machine Learning
   - AI
   - Natural Language Processing
+  - AI in Finance
 
 related:
   - title: "Machine Learning in Carbon Trading: Optimizing Investments for a Greener Future"

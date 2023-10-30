@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35459815"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35459815"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 843
     height: 562
     isCached: true
+
+related:
+  - title: "Fei-Fei Li with Todd Bishop: Using AI to Empower Humans"
+    excerpt: "Depending on who you overhear, conversations surrounding the controversial AI Chat Bot, Chat GPT, may be punctuated with terms like, “groundbreaking!” “paradigm-shifting!” “innovative!” or conversely might be filled with"
+    publishedDateTime: 2023-10-30T16:11:00Z
+    webUrl: "https://www.geekwire.com/calendar-event/fei-fei-li-with-todd-bishop-using-ai-to-empower-humans/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 67
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/10/fei-fei-li-768x384-1.png"
+        width: 768
+        height: 384
+        isCached: true
 
 secured: "9RV2/mtk9evhW/i5rlluuLdH0yRDrU1NdDYdFYGXb/VzF4PE1w5IIDIh/qBCPW8vClYKIzGgKZaqWLL+4qHBVdeXHF5Q84eF7szm+lD4hReZEjZNmdAiEGk/kN9JuqXTGuKHUTQqILC+N7B5TiGPhgdLuLe5Ha1ZffrxJi4Voxw1J/jDt1DUYAvZHRWCnH8uYsLMiLv8DE8hupYWz8H/xZpfK6eGGAncY5Tt54wGQqkk2IPJEBYpEMo2/0dKlWNWvQ0ALYFxSfJ4JAOtDxZjyvjLkTNtIVHlJ4zFLDDyYzpEkuTn+ibe62aY72D8rP8Y6mdv77zssBvbrBHaQw9iKf/W7Pu+8ViZYrheEZiVD+g=;a8xeefKLzdd12l3dHcSmQw=="
 ---

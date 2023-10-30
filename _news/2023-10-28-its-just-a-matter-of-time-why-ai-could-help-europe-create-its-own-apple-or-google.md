@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/its-just-a-matter
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/its-just-a-matter-of-time-why-ai-could-help-europe-create-its-own-apple-or-google"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 620
     height: 413
     isCached: true
+
+related:
+  - title: "Will AI help Europe catch up with US tech titans like Google, Apple?"
+    excerpt: "Silicon Valley overshadows the EU in tech, but with the advent of new-age artificial intelligence, Europe's leading entrepreneurs think it could offer the Euro startup ecosystem to be a key player in the race."
+    publishedDateTime: 2023-10-30T15:20:00Z
+    webUrl: "https://interestingengineering.com/culture/ai-help-europe-catch-up-us-tech"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/30/image/jpeg/9T65tVegK02Q32yPlycipklBI17O6aAh5EelJA4G.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "PlgwRhftlyXUZ9mH/NgFXgBhALZ0fg6y282qND9iWIEtkXDk+Yv43UrlM/GOq1InffYp1IgLzmk5kcgLcRQ+/ka/kt8nhfL87m78h+Vpwvo1KCMhQ5Qvfj95mHl3+dxhD+0v562eBNDyRgexY0gMkdJ8thPNTEBuLi2VwxT/RVxtNzW0+fyEweMZxhwL1nnEqQBsaDCYOwG/WKMApTPIaOfShFpbZ+nmHLyakRx9sDN670TdVQCKOdnvRR0YnvLLp7SmaR5CT1BP9N/yv0TNOIhrAgILzhP0SMJdxef84Myy5uiLqxDjXiHUoHqPxsrCnZrt5wMzgnykcohg8EwFDqONjgyu8tqFzDc1y2jJvyM=;D3cgCuWTCswgKTo+SuHODg=="
 ---

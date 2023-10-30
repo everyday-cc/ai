@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/with-china-pla
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/with-china-playing-catchup-with-the-u-s-these-3-charts-show-the-top-countries-for-fintech-in-2023/4802051/?amp=1"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -27,20 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "For disease detection to fintech, startup show in Bengaluru has them all"
-    excerpt: "Bengaluru: Around 50 startups representing fintech, senior citizens healthcare, EV transportation services, and AI-based disease detection showcased their services at the annual 'Startup Mela' on Thursday. Organised by the Entrepreneurship Cell ..."
-    publishedDateTime: 2023-10-26T21:00:00Z
-    webUrl: "https://www.deccanherald.com/india/karnataka/bengaluru/for-disease-detection-to-fintech-startup-show-in-bengaluru-has-them-all-2743985"
+  - title: "Waiting For Fintech – The Moment At Money2020"
+    excerpt: "This year’s Money20/20 just wrapped up. I asked leading venture capitalists and CEOs of fintechs for their reflections. Here are five."
+    publishedDateTime: 2023-10-30T17:09:00Z
+    webUrl: "https://www.forbes.com/sites/alexlazarow/2023/10/30/waiting-for-fintech--the-moment-at-money2020/"
+    ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2023/10/30/waiting-for-fintech--the-moment-at-money2020/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2023/10/30/waiting-for-fintech--the-moment-at-money2020/amp/"
     type: article
     provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 23
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2023-10%2Ffdf271d9-3cdd-47db-b377-9becca500554%2Ffile7sjyc7skyl41fu6op4tz.jpg?rect=0%2C0%2C3874%2C2034&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653f329a42aff752a32bb1ad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "Unlocking Career Potential in the Digital Age: Harnessing Fintech Innovations through Aptitude Mastery"
+    excerpt: "The digital age has ushered in an era wherein technology is at the forefront of nearly every industry. Fintech—a portmanteau for the term financial technology—is one of the most dynamic and fastest-evolving sectors in this digital revolution."
+    publishedDateTime: 2023-10-27T17:49:00Z
+    webUrl: "https://techbullion.com/unlocking-career-potential-in-the-digital-age-harnessing-fintech-innovations-through-aptitude-mastery/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
 
 secured: "cRkmO9EGbdXI/0PEZWzbvPYDX58uraId03DRPWh6QVJqA2AvwA4pRIA5FQ9PgALek5LFHV9qBnuQhxSx/Tus69IhpQrhLL5sSx1a3FqFjDBpgRzGxa6BBRxXBXGRem39tF06MmXbIYO+XGCXUEZCtSGpEtbytGEGy+eEstz4lIJ8mVZOUaxA+thaEa+sZxwNVddC6vf9tyhlpQj+4aIzRx7K1G1UAEQ/AAGzqvXMZHTBahHjJ/c89f9xeapPK0BSWzQ/sBb/oJTR82QpQ2ODBm8sYxi9ILPr3iwROg3MziVT4ntJ5TuKnRdyaVb7joCRmY5uhRUEPKWt7PWFc06Fccv2EvzK0Mad/ZDQ34hLDqxFxcRfbsTJYGix6+xmYKFMj4G58OSsx97qCGQ9CUBTB+ALyqe3ryA8FcyAGdeR89CURVYr1sTT7LuFfFicdhsNjssMj1TdcSrNgicnZpELbM4Ks+b8Ep+/MY0WFyhYxDjZbTkePR8IyKeTALsHS1U6radJLNIfmqqhj4XLZh40UQ==;/BT2TcHOXzj1QB7ac27Yaw=="
 ---

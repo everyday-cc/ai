@@ -19,43 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "The Future of Commercial Lending: How Investments are Shaping Fintech"
-    excerpt: "The world of commercial lending is evolving rapidly, and technology is a major driving force behind this shift. Today’s commercial lenders are embracing fintech advancements to streamline their services and meet the increasing demands of businesses."
-    publishedDateTime: 2023-10-30T13:17:00Z
-    webUrl: "https://techbullion.com/the-future-of-commercial-lending-how-investments-are-shaping-fintech-the-world-of-commercial-lending-is-evolving-rapidly-and-technology-is-a-major-driving-force-behind-this-shift-todays-commercia/"
+  - title: "Waiting For Fintech – The Moment At Money2020"
+    excerpt: "This year’s Money20/20 just wrapped up. I asked leading venture capitalists and CEOs of fintechs for their reflections. Here are five."
+    publishedDateTime: 2023-10-30T17:09:00Z
+    webUrl: "https://www.forbes.com/sites/alexlazarow/2023/10/30/waiting-for-fintech--the-moment-at-money2020/"
+    ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2023/10/30/waiting-for-fintech--the-moment-at-money2020/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2023/10/30/waiting-for-fintech--the-moment-at-money2020/amp/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/Bartosz-Skwarczek-CEO-of-G2A-Capital-Group-450x270.png"
-        width: 450
-        height: 270
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653f329a42aff752a32bb1ad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "The Future Of Fintech Summit 2023: Join Leading-Edge Forbes Cyprus Event"
-    excerpt: "Aivitam Ventures, together with Forbes Cyprus, invite you to Forbes Cyprus The Future of Fintech Summit, a global offline fintech event on December 7-8. We’ve been bringing fintech executives, investors,"
-    publishedDateTime: 2023-10-27T10:21:00Z
-    webUrl: "https://financialit.net/news/fintech-startups/future-fintech-summit-2023-join-leading-edge-forbes-cyprus-event"
+  - title: "With China playing catchup with the U.S., these 3 charts show the top countries for fintech in 2023"
+    excerpt: "In China, which was another standout fintech player identified by Statista, the market for digital financial services is massive. WATCH: CNBC's full extended interview with Robinhood CEO Vlad Tenev on AI, credit cards and more Tencent's WeChat Pay and Ant ..."
+    publishedDateTime: 2023-10-26T05:16:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/with-china-playing-catchup-with-the-u-s-these-3-charts-show-the-top-countries-for-fintech-in-2023/4802051/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/with-china-playing-catchup-with-the-u-s-these-3-charts-show-the-top-countries-for-fintech-in-2023/4802051/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/with-china-playing-catchup-with-the-u-s-these-3-charts-show-the-top-countries-for-fintech-in-2023/4802051/?amp=1"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 23
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 30
     images:
-      - url: "https://financialit.net/sites/default/files/tfofs_cover.png"
-        width: 1920
-        height: 1080
+      - url: "https://media.nbcnewyork.com/2023/10/101622121-UChina.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The Future of Machine Learning: A New Breakthrough Technique"
-    excerpt: "Research shows new promise for “compositional generalization” Humans innately understand how to relate concepts; once they learn the notion of \"skip,\" they instantly grasp what \"skip twice around the room\" or \"skip with your hands up\" entails."
-    publishedDateTime: 2023-10-27T10:35:00Z
-    webUrl: "https://scitechdaily.com/the-future-of-machine-learning-a-new-breakthrough-technique/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 19
 
 secured: "G5l7iW2vmY0zGE8HNCaplB5vmhJBWSRsj3h9nOBjupi96JReq6HD/CCgAZB7YRmmV7VFO5/C0/F5jKYde8brhY1VjCdT4/9UAunx0120FQImH0CKlse92/zAnQ5qslcCLB37K3Z9vAdSMluGzs1h7Y9K+KVnRQHqlOc35kOwjspKPyS0Uj1J03bLbuyrKrWoZ2jAkFHJ3RjS34RpC4LKB1amx9oVW67uynlIko4VV/Y/6Eq8RFkh0Ozoz9PXvW8bx/Ntx8ljUFuxVa4YQDZdtCNyiSxC+0CZ8Q/Yyta3vTh5+5NRX1U6Q/IA8Xr7SU1myiQSZzc+SHAB0Xt4uRluph4hsvQio8Gn+huMYuPhG+rO8K6zwDB5wE+wvfHs7noDX8bXVsTr7hvUuQ8NM5rrDSt1zOqK7tDTKOYnQl+kGQBSQs3nmCR4BqLfdb8S7jmPxYAAWJyOWyRc4GCrKzxu9H8zaZKPiv6x7dL1yURTsmDQG9wdGsJRPEABkvP+DPg4S/dFx36EBcs/tx4YOX0HHw==;X5jgADEDHfZdn89cVIs6sQ=="
 ---

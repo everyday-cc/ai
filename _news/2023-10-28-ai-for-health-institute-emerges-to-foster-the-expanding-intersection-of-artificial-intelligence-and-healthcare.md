@@ -43,6 +43,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Can Artificial Intelligence Help With Mental Health Care?"
+    excerpt: "Using AI chat in therapy, for example, raises the question if the technology ... optimistic technology could address the current shortcomings, WHO's report, \"Artificial Intelligence for Mental Health and Mental Illnesses: An Overview,\" concludes it's ..."
+    publishedDateTime: 2023-10-30T16:09:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/can-artificial-intelligence-help-with-mental-health-care"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/3d9f95f/2147483647/strip/true/crop/5984x2909+0+540/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F33%2Fac%2F7e16a7ae4236ad94a155b3a61d5e%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xNzM1ODAxMjY1L2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2NDAyMTkzMjEsICJtIjogMX0sICJPTEg0eEpjcHR0dXVPVlltWThrdlJxSU1HcmMiXQ%3D%3D%2Fshutterstock_1735801265.jpg"
+        width: 1440
+        height: 700
+        isCached: true
 
 secured: "Af39+xtUPBnLY8qV6Uk211qLA4++Hif1ZneFTLTHViCa4yZSl/DcXltRN88TjCCad4kHvGm+MPF18vxpYpfi9ay5aGz5dScYPVHohUQMLyCBpNsWvNNw4DdTiylHHzjVzm7U4++Qp8vjUPRbFMJfIlt7uWz53cjFbwu2FEGxrtnZYruH6ulU5nCacEfuWcWQDtnaDoLN3kWVWn4YA4/ATFuhXah8ByCn1yCufbeKBjqQm7DhQz86yvt36K+x3p1KpMfNtpfs0dXGHCinM5K8RDqDTBNwNLvtOU6WfEWXrDYPCLK8AbJvfoRxK8PyntWPyI8BnDTpiAgBlGQzOdEXe8C5ynXfgVI3QtP9vnq4BglRVLlvT4tYLUXKn7Yfu4VMQ21dUxOJEOtYeICkkPlKJb1zawmsMj8vfsCmpRxRqEVB830L5Pau9ppN7w2B25AcoO7kJBHFHHR/2Pj1+P+6JjbGxKYF7FCmpF6u7jEb3w8RXzJ8ehdaLBuk83xBpUSEiUqh4Qy+gxum5X8aBiwxnQ==;zLXs/hiG9FK7CBOAlZyNjQ=="
 ---

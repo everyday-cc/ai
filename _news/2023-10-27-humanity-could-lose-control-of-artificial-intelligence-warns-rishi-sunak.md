@@ -34,6 +34,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "No 10 fends off claims Rishi Sunak being snubbed over AI safety summit"
+    excerpt: "US and French presidents will not attend conference being held this week in Bletchley Park"
+    publishedDateTime: 2023-10-30T15:10:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/30/no-10-fends-off-claims-rishi-sunak-being-snubbed-over-ai-safety-summit"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/30/no-10-fends-off-claims-rishi-sunak-being-snubbed-over-ai-safety-summit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/30/no-10-fends-off-claims-rishi-sunak-being-snubbed-over-ai-safety-summit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/635fce5f42d5c0ad5a1b8b06e6fd2f688284af6e/228_539_6445_3869/master/6445.jpg?width=620&quality=85&auto=format&fit=max&s=45460ea8af6e8b717e0230e4700922b0"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Inviting China to UK AI summit a mistake, Truss tells Sunak – as it happened"
     excerpt: "The PM announced an AI safety institute during a speech in London but said the UK would not be heavy-handed with regulation"
     publishedDateTime: 2023-10-26T15:15:00Z

@@ -19,15 +19,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft CEO sees AI-powered Copilot as 'like the Start button' of Windows"
-    excerpt: "Since AI was a big talking point of Qualcomm's presentation Nadella ... done without sort of a new system architecture,\" said Nadella. \"The Copilot is like the Start button,” he continued. \"It becomes the orchestrator of all your app experiences."
-    publishedDateTime: 2023-10-26T00:00:00Z
-    webUrl: "https://www.tomsguide.com/news/microsoft-ceo-sees-ai-powered-copilot-as-like-the-start-button-of-windows"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 32
   - title: "Microsoft invested $13B in genAI — does Copilot for Windows show it’s a bad bet?"
     excerpt: "The much ballyhooed Copilot for Windows doesn't really add much to the operating system, or do much for users. So where's the ROI?"
     publishedDateTime: 2023-10-27T06:59:00Z

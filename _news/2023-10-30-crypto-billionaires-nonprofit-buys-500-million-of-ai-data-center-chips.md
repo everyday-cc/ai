@@ -7,8 +7,8 @@ originalUrl: "https://www.channelnewsasia.com/business/crypto-billionaires-nonpr
 webUrl: "https://www.channelnewsasia.com/business/crypto-billionaires-nonprofit-buys-500-million-ai-data-center-chips-3883676"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Channel NewsAsia Singapore
@@ -36,7 +36,21 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 52
+  - title: "Jed McCaleb-backed nonprofit will provide easier access to AI computing capacity"
+    excerpt: "A nonprofit organization linked to billionaire Jed McCaleb has purchased thousands of AI chips to make them more accessible to researchers."
+    publishedDateTime: 2023-10-30T16:39:00Z
+    webUrl: "https://cointelegraph.com/news/jed-mccaleb-nonprofit-easier-access-ai-computing-capacity"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/af79b720-94b8-4f32-98dd-bd51061db19a.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
-secured: "EqVBxXkGPqppR2eMSBGDZ6wIq7s9Q12YOFWsL17MgrSUb3K5n+WxNQLUKh0+7PWcagEyWAwo2NYY8ChL+vIbQgJgX47MRoEXBta4wBIqDfites/8/XYqVUK2/h0u9KTgRcBkjHVPTV/8q7zJgLZ67YbbnhKVQvCsEudSG4GakthbvdMO9OGRjsDFF7wQe++Yxp5+CLcPwz1VqeqcbDM50r1usxT36TR73JJm5A1SIlyqCf0KrcAQzFriaRmq7hEnvpzA0RyBJ8AdsuzpXok9tdc+toEOdCviAES5cFuBi/lIyx78X0ePIkVjCcf8V0CcMAdLB1D7tZbzecHga+IlsILqWQjKKqlg/upVjTiZt7s=;fWukCdqnU0x/UOI1l/E43w=="
+secured: "XeEEmIootpcW5i7yR8HMEl6N+HIuWwsBEoaCuUjC8M+IoTkTmjvrQ74cpwlbEKb1YqDI+w04MlTffFpKQKTwRLAFOGfjdajBEkO9DN23YqUVzyiwcXPyF6ZtmdhaSwZK4azX8idz69ZFt+pHZauXsNxD7Uun75WzcmbRoP/Up+ON0rLXMiD41dtf/wpdRUfOwICfBOC6G68uZ1p3EqksHb9EcP1yFfFY0GWTO0jS/j6rdhCJmsuLm2TFdCFQkvDLYWlijQeQxPypwyrfQ+jJX5HbtPf3I4kFc9hAJxirCTZS/eURvAJdBR+nafOErhRwe3ztebI/Kiyaw3mMnec6mpjTbzgLLFlKKBXhQ9J/UWOO5qCB8I7JgjVLfYPnCdMcIhIXAmD4GMk3MPsYxMrKaOS/qK3vq1GirO/cLBA8ZdS352pYyyyfv/tYjZ31XmgBZ2ivrOzpkuWYLi1zHaCanIsJkwJPfr367uSVkHTzOV/aqPfMAJkSWs2d0QiTHpRc4NqhTzBX7TBYmBStUch6dQ==;qJXWPLUmACDDQYA20lfwGQ=="
 ---
 

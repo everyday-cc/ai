@@ -57,6 +57,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "UK police urged to double down on facial recognition"
+    excerpt: "Policing minister Chris Philp urged UK force chiefs to increase the use of facial recognition software to track down suspects."
+    publishedDateTime: 2023-10-30T15:10:00Z
+    webUrl: "https://thenextweb.com/news/uk-police-facial-recognition"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-17-17.jpg&signature=0dc058381f8c415116fb15e3e79411c2"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "TTD EO launches facial recognition attendance"
     excerpt: "Tirupati: Facial Recognition Attendance System for TTD employees was launched at TTD Administration Building in Tirupati on Thursday.Starting the system, TTD EO AV Dharma Reddy said that more"
     publishedDateTime: 2023-10-27T03:34:00Z
@@ -189,6 +203,6 @@ related:
       domain: biometricupdate.com
     quality: 19
 
-secured: "qEpv7oOal0QI5hJj+dJSsniTGxb8uDrqFOjDKKHPCstuyLgEkddEVKC3sAoNcUzE4e26vu2TsU/fe8UqZsdPFI6q/UKST6xZWGbgXSmUAUuWcz5R2xCCXK8TPa2lTFbBn3V1w14at1s0GYKeEEm2R2BCDbSWPClU6+FQQ5TZBXlB6q9mLBG/BhWM3adOC2gZiCqUWQwPkmMJCZMa8B5p36wc81EiNbMIa6A1IoOHYdloiLr2uM2+dq0s9/6OuEYqSXwDIolpM0CBrBACtzeDVA8M1kWqQAXbzhubZZTmr8ijbSiLlToiWuZjeo6egvz6sc3kZNYVoCpYH4iPpUzZCmGZcaeC9yR4fC4QXj8GWUc=;cdtletBVE9k8R/+GrY92yA=="
+secured: "54fZTzlT+rfowD79WRwMs98AkuNc/HlsLZy745mG/BECyQOq7MzBzSwZI2lYCM75waWHyi4sox7G9gwomTof+UaRBZBh2Ykf2h1qO8hlmc0MLese77K4RbklwaY0HSqs7fAQqbQ8XZUj5M2c3aZ1kV7nWc/EKI0Ed1k9g/NR4VgBRnlQZG9vyWRoYT2c5mbEpkzm/IxRL1rj/0rMFhrKSxNN1CzQSIjJ1ZNpXgShQaVOZQMFFu9QNwycL1rjzgfpw2PwsXhUO21HgBPxqNkBxhzriMuGh0oenjdKA61K4TCOgbsW9Ah3b37YpQyjD3v7VmruYTwYvqGT7bIEG/nTl19fDn0e/qNObv/0/ES6ltLhNfazlyfKKbOjIlk8JSu52aTpt+ga73KIMTWmadTE1a1dHHetiqEUxHp6LrxybR6dG36TffpBq4mLAvEonIPR0tphMM8QTcDDIlnGj33zfpSYsDXRGxgrgoOcd8BCyqPTbt7sllBXIY1e9VFXUuCLNcw5TAyoW2cJnrQy0rvdnA==;YAF2ktcnhrB4nYKkAoAFdQ=="
 ---
 

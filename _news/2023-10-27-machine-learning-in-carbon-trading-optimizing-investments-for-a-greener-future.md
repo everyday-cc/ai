@@ -33,7 +33,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 57
+    quality: 59
   - title: "Leaders in Trading 2023: Meet the nominees for… Outstanding Trading Technology Provider"
     excerpt: "The move allows for Point Focal’s insights to be incorporated into Broadridge’s order-routing network platform, NYFIX, providing automated reports which combine data, visual analytics and natural language processing to expose signals to improve single ..."
     publishedDateTime: 2023-10-30T13:40:00Z

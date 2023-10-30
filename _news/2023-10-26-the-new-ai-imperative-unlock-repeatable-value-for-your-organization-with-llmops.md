@@ -99,6 +99,22 @@ related:
         width: 971
         height: 630
         isCached: true
+  - title: "Accelerating AI tasks while preserving data security"
+    excerpt: "With the proliferation of computationally intensive machine-learning applications, such as chatbots that perform real-time language translation, device manufacturers often incorporate specialized hardware components to rapidly move and process the massive amounts of data these systems demand."
+    publishedDateTime: 2023-10-30T17:24:00Z
+    webUrl: "https://techxplore.com/news/2023-10-ai-tasks.html"
+    ampWebUrl: "https://techxplore.com/news/2023-10-ai-tasks.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-ai-tasks.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 78
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/accelerating-ai-tasks.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "AI-powered healthcare personalization company raises $5M"
     excerpt: "RadiantGraph, an artificial intelligence-powered platform designed to ... biometric data and medication history to improve healthcare consumer engagement. The company will use the capital to fuel growth and partnerships with new healthcare organizations ..."
     publishedDateTime: 2023-10-27T21:49:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimin
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Rise of AI | Jury still out on new tech's use in mental health care, experts say"
+    excerpt: "Although several uses of artificial intelligence in mental health are showing some success, experts say the jury is still out on its capabilities for more extensive use."
+    publishedDateTime: 2023-10-30T09:10:00Z
+    webUrl: "https://www.clintonherald.com/multimedia/the-rise-of-ai-jury-still-out-on-new-techs-use-in-mental-health-care/article_3a78945f-90ae-5d90-a760-bacbfd40affa.html"
+    ampWebUrl: "https://www.clintonherald.com/multimedia/the-rise-of-ai-jury-still-out-on-new-techs-use-in-mental-health-care/article_3a78945f-90ae-5d90-a760-bacbfd40affa.amp.html"
+    cdnAmpWebUrl: "https://www-clintonherald-com.cdn.ampproject.org/c/s/www.clintonherald.com/multimedia/the-rise-of-ai-jury-still-out-on-new-techs-use-in-mental-health-care/article_3a78945f-90ae-5d90-a760-bacbfd40affa.amp.html"
+    type: article
+    provider:
+      name: Clinton Herald
+      domain: clintonherald.com
+    quality: 52
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/clintonherald.com/content/tncms/assets/v3/editorial/3/6e/36e5bcd0-59fd-11ee-9ad8-8bf1978d3c66/650ec043d5f1c.image.jpg"
+        width: 721
+        height: 500
+        isCached: true
   - title: "Data-driven AI can boost health care"
     excerpt: "Complicated clinical diagnoses medical providers reach come from a combination of precedent, symptoms, personal expertise and data. The latter bit of information — data — is something that changes all"
     publishedDateTime: 2023-10-29T09:52:00Z
