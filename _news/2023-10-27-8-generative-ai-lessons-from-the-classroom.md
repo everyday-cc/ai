@@ -44,6 +44,22 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "Transforming spatiotemporal data analysis with GPUs and generative AI"
+    excerpt: "As GPU-accelerated databases bring new levels of performance and precision to time-series and spatial workloads, generative AI puts complex analysis within reach of non-experts."
+    publishedDateTime: 2023-10-30T09:04:00Z
+    webUrl: "https://www.infoworld.com/article/3709069/transforming-spatiotemporal-data-analysis-with-gpus-and-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3709069/transforming-spatiotemporal-data-analysis-with-gpus-and-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3709069/transforming-spatiotemporal-data-analysis-with-gpus-and-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/02/location-data-getty-user-piranka-100833126-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google's Generative AI Revolutionizes Digital Assistants Everywhere"
     excerpt: "In this photo illustration, the logo of Google is seen displayed on a mobile phone screen with AI ... [+] (artificial intelligence)(Photo Illustration by Idrees Abbas/SOPA Images/LightRocket via ) It's happening."
     publishedDateTime: 2023-10-26T04:07:00Z
@@ -184,34 +200,6 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/25/image/jpeg/OO4THCCxc4PRHgCOdhZiA7CW9F0PtYx8zm7USysR.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "No-code app builder Bubble unveils generative AI and native mobile tools"
-    excerpt: "Using Bubble’s platform, people with little or no coding knowledge can use a visual engine to develop logical flows to design and develop apps. It allows for the easy development of mobile-friendly layouts and dynamic content automatically and handles the scripting behind the scenes for any software."
-    publishedDateTime: 2023-10-25T16:37:00Z
-    webUrl: "https://siliconangle.com/2023/10/25/no-code-app-builder-bubble-unveils-generative-ai-native-mobile-tools/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/technology-791029_1920-KarolinaGrabowska-Pixabay.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Four out of Five European Financial Services Leaders Are Embracing Generative AI"
-    excerpt: "Financial services organisations are making significant investments in generative AI to enhance their digital transformation processes."
-    publishedDateTime: 2023-10-25T15:45:00Z
-    webUrl: "https://www.bbntimes.com/global-economy/four-out-of-five-european-financial-service-leaders-are-embracing-generative-ai"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 34
-    images:
-      - url: "https://www.bbntimes.com/images/articles/technology/Four_out_of_Five_European_Financial_Services_Leaders_Are_Embracing_Generative_AI.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Privacy Concerns at the Intersection of Generative AI and Healthcare"
     excerpt: "Artificial intelligence that can create new texts, images, and other content (or“generative AI”) is revolutionizing every industry, and healthcare is no exception. Doctors are experimenting with using generative AI to improve their patient ..."

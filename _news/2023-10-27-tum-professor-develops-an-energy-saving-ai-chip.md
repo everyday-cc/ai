@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The Power of Machine Learning and AI for Carriers"
-    excerpt: "T8N’s Mike Robinson details the power of machine learning and AI to help facilitate logistics for carriers on this episode of Retail Refined."
-    publishedDateTime: 2023-10-26T11:56:00Z
-    webUrl: "https://marketscale.com/industries/retail/machine-learning-and-ai-carriers/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 34
   - title: "How AI is Reducing the Devastating Effects of Wildfires Across the Globe"
     excerpt: "AI is already proving itself a strong ally in the fight against wildfires, and it can strongly aid the efforts of agencies and firefighters."
     publishedDateTime: 2023-10-30T07:39:00Z

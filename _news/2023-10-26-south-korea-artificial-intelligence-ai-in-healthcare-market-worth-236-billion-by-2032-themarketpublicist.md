@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107307150/South-Korea-Artificial-Intelligence-
 webUrl: "https://menafn.com/1107307150/South-Korea-Artificial-Intelligence-AI-In-Healthcare-Market-Worth-236-Billion-By-2032-Themarketpublicist"
 type: article
 quality: 50
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?393847"
         width: 328
+        height: 250
+        isCached: true
+  - title: "All Terrain Robot Market Is Expected To Progress At A CAGR Of 14.2% By 2033 Themarketpublicist"
+    excerpt: "All-terrain robots Market is a series of robots intended for scientific research, surveillance, and most practical robotic applications for driv"
+    publishedDateTime: 2023-10-30T09:20:00Z
+    webUrl: "https://menafn.com/1107328170/All-Terrain-Robot-Market-Is-Expected-To-Progress-At-A-CAGR-Of-142-By-2033-Themarketpublicist"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?327096"
+        width: 374
         height: 250
         isCached: true
   - title: "Internet of Robotics Things Market: Anticipated Growth of US$ 210 Billion by 2032 with a 25.6% CAGR"

@@ -83,6 +83,20 @@ related:
         width: 400
         height: 391
         isCached: true
+  - title: "AI expert: 'It’s the age of AI right now in health care'"
+    excerpt: "During a routine visit with the medical oncologist, a cancer patient brings up a new symptom that could be a side effect of cancer treatment."
+    publishedDateTime: 2023-10-30T08:00:00Z
+    webUrl: "https://www.pressrepublican.com/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_52d8679e-c8d7-5b50-8649-d45fa6fe6022.html"
+    type: article
+    provider:
+      name: Press-Republican
+      domain: pressrepublican.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressrepublican.com/content/tncms/assets/v3/editorial/8/90/890618f4-2600-5dd9-b39a-35b900bd9ecc/653dc5a4aa020.image.jpg?crop=1534%2C805%2C0%2C272&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Rise of AI | Tech expert: 'It’s the age of AI right now in health care'"
     excerpt: "Artificial intelligence tools are already improving patient care at hospitals across the country, and there is plenty more on the horizon, experts say."
     publishedDateTime: 2023-10-28T02:43:00Z

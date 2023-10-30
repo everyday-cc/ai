@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/featured/five-major-ai-governance-practic
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/five-major-ai-governance-practices-coming-in-2024/amp/"
 type: article
 quality: 59
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: enterprisetalk
@@ -27,24 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating the AI Revolution In Finance: Three Steps To Ethical Integration And Win-Win, Profitable Outcomes"
-    excerpt: "While the integration of AI in the realm of finance has provided it with a much-needed boost by streamlining processes, enhancing efficiency, and enabling the delivery of tailored services, several ethical implications have come with its usage."
-    publishedDateTime: 2023-10-27T19:02:00Z
-    webUrl: "https://www.benzinga.com/23/10/35471921/navigating-the-ai-revolution-in-finance-three-steps-to-ethical-integration-and-win-win-profitable-ou"
+  - title: "What Are Good AI Governance Practices And AI Ethics Sources? (#3)"
+    excerpt: "This article highlights AI governance and AI Ethic guidelines noting many global sources from Canada, EU, UK, USA, and other countries."
+    publishedDateTime: 2023-10-30T08:14:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2023/10/30/what-are-good-ai-governance-practices-and-ai-ethics-sources-3/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/10/30/what-are-good-ai-governance-practices-and-ai-ethics-sources-3/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/10/30/what-are-good-ai-governance-practices-and-ai-ethics-sources-3/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
-  - title: "Governments must not rush into policing AI"
-    excerpt: "Regulators must be prepared to react quickly if needed, but should not be rushed into setting rules or building institutions that turn out to be unnecessary or harmful. Too little is known about the direction of generative AI to understand the risks associated with it, let alone manage them."
-    publishedDateTime: 2023-10-26T12:35:00Z
-    webUrl: "https://www.economist.com/leaders/2023/10/26/governments-must-not-rush-into-policing-ai"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653ebdf33b0062f3e8e98ce1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
+        isCached: true
 
 secured: "o5c1UMWQ7AEM8LNcLAWZBt6mL+FmqMH6ccirSl187GBs27ThkTAzl9g5939ZViSuuXDK6+SnKHRKpelzwnNcsffM2v6K9LPxvHmANRmQjzchqMYtZGPHazFwOprytjGUkntikejzr3sx4TtWzqVBKUbAIuWitUY6noc2Oh8X6SqbpSvLDaLLLLoL2puomQMgebbM39gEPaHAsyeXl8rUhSGq72IkPLR8kPqk33wnSEM+RlScNPQHSyLAP21TfjELATYpgv4LTdLjVWP6fASz6W/gCoUbxKMjEQijGbSzb3S9g4b/6EoD9vGJLzOHZ4gGubvIY3CV3WnkRYIka5AQy/66Jf0FsW3ByyNjYT0kCU31BC0SixrELN3Zekf4DK60DnApxzWA1PqzpRBjkvVPLXtwCXt1tYD/8kWhHkvmqivM6YD50s2g6GxVtgzkZZjDG7NYYN4vmz46DKGUC/+R/Gds0SqH1ZNRiqP9Kk6YidPMzGlVHbuwJvWWdhvO5BlchFksPqw2b9LZxpCz1sXc5g==;qC0gDpcHGRXx7f1lNwWfWw=="
 ---

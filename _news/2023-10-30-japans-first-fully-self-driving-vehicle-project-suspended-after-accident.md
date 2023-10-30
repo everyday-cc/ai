@@ -1,0 +1,47 @@
+---
+category: news
+title: "Japan's First Fully Self-Driving Vehicle Project Suspended After Accident"
+excerpt: "Japan's first pilot project of a fully autonomous self-driving vehicle has been suspended after a minor accident with a parked bicycle, officials said Monday."
+publishedDateTime: 2023-10-30T07:13:00Z
+originalUrl: "https://www.ndtv.com/world-news/japans-first-fully-autonomous-vehicle-suspended-4527001"
+webUrl: "https://www.ndtv.com/world-news/japans-first-fully-autonomous-vehicle-suspended-4527001"
+ampWebUrl: "https://www.ndtv.com/world-news/japans-first-fully-autonomous-vehicle-suspended-4527001/amp/1"
+cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/japans-first-fully-autonomous-vehicle-suspended-4527001/amp/1"
+type: article
+quality: 43
+heat: 43
+published: false
+
+provider:
+  name: NDTV
+  domain: ndtv.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://c.ndtvimg.com/53z54k9wfi_self-driving-car-generic-istock_625x300.jpg"
+    width: 650
+    height: 400
+    isCached: true
+
+related:
+  - title: "Triad man researches self-driving vehicles"
+    excerpt: "Mother asks drivers to pay attention on year after child hit, killed on Halloween in Oak Ridge"
+    publishedDateTime: 2023-10-25T20:05:00Z
+    webUrl: "https://myfox8.com/video/triad-man-researches-self-driving-vehicles/9116234/"
+    type: article
+    provider:
+      name: WGHP
+      domain: myfox8.com
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/myfox8.com/wp-content/uploads/sites/17/2023/10/AB79C6EC143E641313B051A624A3E85E.jpg?w=2000&#038;ssl=1"
+        width: 645
+        height: 363
+        isCached: true
+
+secured: "nJAzMZ1OxL5r/rfWfMGoXeI6FeoBEFQ5CdZJ6jWIiXCrW2rBjiRy+oWZgFGBk5hHcC6rlZzuL7rfE5fyf8ZpuGmUTCGktCkOncF4zm6wWvH2vMqy9u0JcA/sc32lv9wAuCJhX+69iVxrWx6kAPsOU/+bVhg94nnYouJlPj+d7Xzj4z8cG5zXt8nK6ReE/Gip2kdmExQa5dA+8jzyDwbtN8O5MfXILL8nImUIZitoFDzdbdv3+c+gTkHF9a7z8Lc4eXKNtFr2WlxZYS63a+I1NTia5NH5/orhzIv5h+wbKywJs43shCPACfoOTpPjiblqgo6rwcDaVI9q76bQP9cSSuB4154H0eQlN1vBi0nhbzY=;bqqDK5gd/KAkKKfMz8DFmA=="
+---
+

@@ -33,20 +33,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "AWS Q3 Earnings Preview: From Sales Growth, AI To Microsoft"
-    excerpt: "AWS earnings report for Q3 2023 will unveil cloud sales growth, AI wins, Amazon investments and potentially Microsoft discussions. Here’s what to watch for."
-    publishedDateTime: 2023-10-25T15:34:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-q3-earnings-preview-from-sales-growth-ai-to-microsoft"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 88
-    images:
-      - url: "https://www.crn.com/resources/0286-19211b9e6b04-e3722ad90e18-1000/aws-sign-2.jpeg"
-        width: 610
-        height: 458
-        isCached: true
   - title: "The generative AI hype hasn't translated to cloud sales yet, as customers don't know if they should jump in. Microsoft is the one exception."
     excerpt: "Microsoft reported 3% of its sales growth came from generative AI last quarter."
     publishedDateTime: 2023-10-27T18:51:00Z
@@ -88,22 +74,6 @@ related:
       - url: "https://blog.tipranks.com/wp-content/uploads/2023/10/MSFT-1.png?utm_source=markets.businessinsider.com&utm_medium=referral"
         width: 813
         height: 273
-        isCached: true
-  - title: "Microsoft In The First Inning Of Artificial Intelligence Opportunity"
-    excerpt: "The very long term target is $482 - $506. For artificial intelligence, the best two of the magnificent seven stocks at this time are Microsoft and Nvidia. Keep in mind that in the world of investments, nothing is cast in stone. Markets are dynamic."
-    publishedDateTime: 2023-10-25T16:30:00Z
-    webUrl: "https://www.benzinga.com/tech/23/10/35420368/microsoft-in-the-first-inning-of-artificial-intelligence-opportunity"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35420368"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35420368"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 78
-    images:
-      - url: "https://cdn.benzinga.com/files/turag-photography-1uqe5biih8w-unsplash_6.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Beyond Start Button! How AI may reshape Microsoft Windows 12"
     excerpt: "In a tech landscape where AI-powered capabilities are becoming increasingly vital, Microsoft aims to position itself at the forefront of the AI revolution. This starts with the seamless integration of advanced software support into its flagship product."
@@ -361,15 +331,15 @@ related:
       name: BizTimes
       domain: biztimes.com
     quality: 34
-  - title: "Revolutionizing Accounts Payable Automation: Gravity Software Unveils Cutting-Edge AI Technology Powered by Microsoft's Cognitive Services AI Engine"
-    excerpt: "As part of its unwavering commitment to enhancing multi-entity accounting efficiency, Gravity Software ® is proud to introduce new AI technology to transform accounts payable processes. This transformative solution uses the Microsoft Cognitive Services AI engine to convert PDFs of vendor bills into Gravity Vouchers,"
-    publishedDateTime: 2023-10-25T16:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-revolutionizing-accounts-payable-automation-gravity-software-unveils-cutting-/2023/10/25/9905159.htm"
+  - title: "Microsoft and Meta expand their AI partnership with Llama 2 on … – Microsoft"
+    excerpt: "John Montgomery - Corporate Vice President, Azure AI In recent months, the remarkable strides made in AI innovation have ignited a wave of"
+    publishedDateTime: 2023-10-30T08:22:00Z
+    webUrl: "https://www.inferse.com/772808/microsoft-and-meta-expand-their-ai-partnership-with-llama-2-on-microsoft/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
+      name: Inferse
+      domain: inferse.com
+    quality: 31
   - title: "Rockwell Automation and Microsoft Expand Partnership to Leverage Generative AI Capabilities for Enhanced Productivity and Faster Time-to-Market"
     excerpt: "Rockwell Automation, Inc. (NYSE: ROK) and Microsoft Corp. (NASDAQ: MSFT) today announced an extension of their longstanding relationship to accelerate"
     publishedDateTime: 2023-10-26T10:59:00Z

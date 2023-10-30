@@ -9,7 +9,7 @@ ampWebUrl: "https://www.prestigeonline.com/sg/lifestyle/art-plus-design/holly-he
 cdnAmpWebUrl: "https://www-prestigeonline-com.cdn.ampproject.org/c/s/www.prestigeonline.com/sg/lifestyle/art-plus-design/holly-hernfon-mathew-dryhurst-trevor-paglen-ai-art/amp/"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -27,22 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "UK to host world leaders in one of its kind meeting on Artificial Intelligence"
-    excerpt: "Leaders like Sunak and others are increasingly joining the sector to argue that the rules and expertise currently available for frontier AI is probably insufficient for the issues it will face"
-    publishedDateTime: 2023-10-30T06:33:00Z
-    webUrl: "https://www.firstpost.com/world/uk-to-host-world-leaders-in-one-of-its-kind-meeting-on-artificial-intelligence-13317202.html"
-    ampWebUrl: "https://www.firstpost.com/world/uk-to-host-world-leaders-in-one-of-its-kind-meeting-on-artificial-intelligence-13317202.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/uk-to-host-world-leaders-in-one-of-its-kind-meeting-on-artificial-intelligence-13317202.html/amp"
+  - title: "How IBM and AWS are partnering to deliver the promise of AI for business"
+    excerpt: "Combining IBM's strength in data analytics with AWS's robust cloud infrastructure, the alliance is breaking down barriers to AI adoption.\nThe post How IBM and AWS are partnering to deliver the promise of AI for business appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-30T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/how-ibm-and-aws-are-partnering-to-deliver-the-promise-of-ai-for-business/"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 53
+      name: IBM
+      domain: ibm.com
+    quality: 115
+  - title: "3 ways to migrate and deploy IBM Maximo on AWS Cloud"
+    excerpt: "Migrating to cloud helps organizations drive operational resiliency and reliability while keeping software updated with effort.\nThe post 3 ways to migrate and deploy IBM Maximo on AWS Cloud appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-26T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/3-ways-to-migrate-and-deploy-ibm-maximo-on-aws-cloud/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "Riding the wave of gen AI: AWS outlines advances at Supercloud 4"
+    excerpt: "Saha spoke with theCUBE industry analyst John Furrier (left) at Supercloud 4, during an exclusive broadcast on theCUBE, SiliconANGLE Media’s livestreaming studio. They discussed how companies are using the AI models and moving into production at scale."
+    publishedDateTime: 2023-10-25T20:45:00Z
+    webUrl: "https://siliconangle.com/2023/10/25/riding-wave-gen-ai-aws-outlines-advances-supercloud-4-supercloud4/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/10/Untitled-design-2023-10-30T120023.092.png"
-        width: 640
-        height: 362
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Bratin-Saha-Supercloud-2023-V2.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "The Power of Machine Learning and AI for Carriers"
+    excerpt: "T8N’s Mike Robinson details the power of machine learning and AI to help facilitate logistics for carriers on this episode of Retail Refined."
+    publishedDateTime: 2023-10-26T11:56:00Z
+    webUrl: "https://marketscale.com/industries/retail/machine-learning-and-ai-carriers/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 34
 
 secured: "3pvPgfiY3KDpQ2zOjs9EuO702zZOpfPIJizmTXgnTh44e+XQWZVRBPxX2vDU3f4QN6VUZNh+qGoyvQjevjePghJ6xqyiXs64nMYhmN3v4j+y1hnuCkFGGs/ieZSZGbrNP1L6M/pvaCzdqueoHOcnEGC9eibdSxFweB+T/qKPeqhGuCAExGtjhDESUid0dm+Ml52Qlo8MdEa+gqH2fIrgYz327rbleS4OIpMDA9vft/IRbMevju19/M7L4VFEx1DTvhbIudz/zJrrayCzfEZyg/LoA3p7ab9JluXQVufobH2rCc+9UEuCx7AmnyJ2dAHYrigzXSgU04cyzAkEAanWLT0P2SUgEQyHypP9tCTfNuM=;djNbd6ITIVbUwudFuYNpMA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.nytimes.com/2023/10/30/us/politics/biden-artificial-in
 webUrl: "https://www.nytimes.com/2023/10/30/us/politics/biden-artificial-intelligence.html"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: The New York Times
@@ -28,15 +28,36 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-Judge Urges US Courts to Change Rules on AI Evidence"
-    excerpt: "A former federal judge is urging a change to the federal rules of evidence that would allow courts to weigh whether evidence is the product of generative artificial intelligence."
-    publishedDateTime: 2023-10-27T19:37:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-10-27/ex-judge-urges-us-courts-to-change-rules-on-ai-evidence"
+  - title: "Biden unveils U.S. government's first-ever AI executive order"
+    excerpt: "The executive order builds on voluntary commitments the White House previously secured from leading AI companies."
+    publishedDateTime: 2023-10-30T07:17:00Z
+    webUrl: "https://www.cnbc.com/2023/10/30/biden-unveils-us-governments-first-ever-ai-executive-order.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/10/30/biden-unveils-us-governments-first-ever-ai-executive-order.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/30/biden-unveils-us-governments-first-ever-ai-executive-order.html"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107260011-1687350529623-gettyimages-1500220004-sjm-l-biden-0620-7.jpeg?v=1698267093"
+        width: 5146
+        height: 3599
+        isCached: true
+  - title: "Meta Executive on AI Products"
+    excerpt: "At WSJ's Tech Live conference, Meta Platforms Chief Product Officer Chris Cox explains how deepfakes influenced the development of Meta's AI assistant products. Photo: Nikki Ritcher for The Wall Stree"
+    publishedDateTime: 2023-10-26T16:55:00Z
+    webUrl: "https://www.wsj.com/video/meta-executive-on-ai-products/91C4A798-C22E-4FDA-B089-82A79BF987B7"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "http://images.wsj.net/im-870644?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden unveils sweeping executive order to address artificial intelligence concerns"
     excerpt: "President Biden issued a wide-ranging executive order Monday to curtail threats posed by artificial intelligence that the White House says will mark the “strongest set of actions any government in the world has ever taken."
     publishedDateTime: 2023-10-30T05:38:00Z
@@ -51,7 +72,21 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Biden wants to move fast on AI safeguards and will sign an executive order to address his concerns"
+    excerpt: "The order reflects the government’s effort to shape how AI evolves in a way that can maximize its possibilities and contain its perils. AI has been a source of deep personal interest for Biden, with its potential to affect the economy and national security."
+    publishedDateTime: 2023-10-30T09:44:00Z
+    webUrl: "https://www.bostonglobe.com/2023/10/30/business/biden-wants-move-fast-ai-safeguards-will-sign-an-executive-order-address-his-concerns/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 25
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/TdlmHjG6W_gRpQsZV2WSDY6Q9Go=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/D7MB7BHS56HLGSKL2ICPTT2SDY.jpg"
+        width: 506
+        height: 337
+        isCached: true
 
-secured: "PxJyhtTBufPOUumvn2Lcwdom0jCGYino4O7Zr7ueGgQLUI75PEWrApM5gsqN4xilrtPIsRjqGo1HJRAEI7nWkanXEAO7g/AMUWCS1ZbZ2vSmLfQlG+4A4PCa7287H452Ryf5VyFHZ4+B+v9Kl681ZzhFcaFYgBm98q2jxnK1k4APKDU6FyAn0Z19NfcVZszISbbaQytSFsfXmhtIN6v9Wbz4p9p1O4S8pchYg/O30mWEKkb906d0VARP92ybfEihkwm0Yngz7xYCbP/lls4Tpu98Bru+DPCznia8IdzSJ3C+YaMHYLICJB4SQ9U6HtUIDxsi4gCn8bgCnldpPkW+JFyavpJYScvrwGVg4HNIPfQ=;iOBEP28NRIxc3r6XDpuYBg=="
+secured: "pdg5hOYZQ34TS3PFGz+iwBwPUIfQzZ/I0lFrWMLhmDKsmTv3DE6KZM1cWZmROeChc1jlv8P7oxfphsjfKoR5o2zVyLxfWoDKUWY2FW+FDhHH6SN2nR51LDonJQZ96n22a1LVfFQzNKXAtDSMwi6bgz6t6emXOIKC/giMq73tVrFwrwQrPSCD/T9f7Xq6R0eE5bK5+Rp3gtfshmunrwx8wtHbalA7tULXHB+CiTBkijJoIEeYgZUDLvl71Yvo8oD3I3nl5YKpUk38qTD8IBP+6FJeKiSryjljQNj4p0KAa3/mHg9zmlJKFcGgkuFzxjYqguXvQ9vyTgNPyCFqWoHGzczt9J0CV9fkmzcT3+Nlzu1e8FFfTkbwr2aaLsxkp6mJ49kTKiwX15wEpuucnNZntO3q0E7BEoPSHDjRGkPGVWuWc4X6PFFtdToTad0j4HVKr2fLFxvsaf14cw4dUnkITOBaqg2uUG1+h+BZtJmfZrI4rO2vECwL6r5gerYHfcpJrePqUujVRFJ3pNusQYe9Kw==;aM1a2Ad6CBSHrzFl+p+X/g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/articles/c51jzy42p19o.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/c51jzy42p19o.amp"
 type: article
 quality: 89
-heat: 219
+heat: 199
 published: true
 
 provider:
@@ -94,34 +94,6 @@ related:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-652ovhkibhg82kh6on274ihkn1-20180205010800.Medi.jpeg"
         width: 800
         height: 448
-        isCached: true
-  - title: "Essex police use intrusive facial recognition for first time"
-    excerpt: "LIVE facial recognition was introduced in Essex for the first time this week as police across Britain ramp up use of the intrusive technology. Southend officers carried out targeted operations with the camera system on Tuesday, while Chelmsford police followed suit today."
-    publishedDateTime: 2023-10-25T16:16:00Z
-    webUrl: "https://morningstaronline.co.uk/article/essex-police-use-intrusive-facial-recognition-for-first-time"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 39
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/PA-40271538.jpg"
-        width: 1185
-        height: 789
-        isCached: true
-  - title: "Travel industry adoption of facial recognition grows"
-    excerpt: "Travelers are most likely to be among the first to experience the mass worldwide commercial deployment of facial recognition."
-    publishedDateTime: 2023-10-25T15:26:00Z
-    webUrl: "https://www.biometricupdate.com/202310/travel-industry-adoption-of-facial-recognition-grows"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/28114521/airport-passenger-processing-scaled.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "Policing minister urges forces to double use of facial recognition software"
     excerpt: "It comes despite a cross-party group of MPs and peers calling for the use of live facial recognition technology to stop immediately."

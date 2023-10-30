@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/amazon-launches-new-ai-product-image-ge
 webUrl: "https://venturebeat.com/ai/amazon-launches-new-ai-product-image-generator/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: VentureBeat
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Meta Executive on AI Products"
-    excerpt: "At WSJ's Tech Live conference, Meta Platforms Chief Product Officer Chris Cox explains how deepfakes influenced the development of Meta's AI assistant products. Photo: Nikki Ritcher for The Wall Stree"
-    publishedDateTime: 2023-10-26T16:55:00Z
-    webUrl: "https://www.wsj.com/video/meta-executive-on-ai-products/91C4A798-C22E-4FDA-B089-82A79BF987B7"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "http://images.wsj.net/im-870644?width=1280&height=720"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "WCVrbBXlMqZ/XXWnytm5XOocVZ0r55JhKCzVtUN/vKBj0luCSzBq2jM//Y69kkFdzpjPTQlcyJ/HkKjgY/uKagcM2RWU9WlJiDqLbagKNwJe79zTlgfU3FgPjTnwvn+eYW+dQahFScwM6Gx9Mrx6AAaf6aHF5FUYG7TLkTwOzH8oGhTFmfrXTu2aSAKzOFs+eG2Kbb911xU6k5+fr56Iti2Cv2+1OTa2a0OBSqyy+QJ4RhVWongLcdqRV1r5SQNY7YX3mPqcq3oURrpxidkaOFuNbNZeCqErEqHPll9yKeztU34qXikDilFuuzWJAz6096rd5t2ytp0CvVpljaqKMO2gsMgSjiuuIZLZCihID+ly54Q4ZJ4WTxEXUwxzOmiqAt91LtK97qVafkc6mGHSXBMSLO4GxXmugbSoD07t2jA5F6czzqF1RqBaAWVrooQt7IBU7vkhpepOusat0tq1Hh2MkqHEawVmmc2LlZO0G3ujUqDutxn5/j/WGcZlZwCus2P0aIvqSvPKAujx4rQ/qA==;eaGD5v/3oaZEz1UAhj+Rfw=="
 ---

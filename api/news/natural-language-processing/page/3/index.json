@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-04-wordly-launches-trusted-ai-translation.md",
+      "title": "Wordly Launches Trusted AI Translation",
+      "excerpt": "announced the launch of Trusted AI Translation, the easiest, most affordable, and most secure way to make meetings and events more language inclusive and accessible. Wordly Trusted AI Translation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/wordly-launches-trusted-ai-translation/article_01e196ad-fe3a-525b-870e-66b4a7592ca1.html",
+      "originalUrl": "https://www.news-journal.com/wordly-launches-trusted-ai-translation/article_01e196ad-fe3a-525b-870e-66b4a7592ca1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/8/23/823c98bd-ca7b-59d3-b2ba-ae8fc5e1288a/651d69431f6c2.image.jpg?crop=1053%2C553%2C107%2C0&resize=1053%2C553&order=crop%2Cresize",
+          "width": 1053,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-03-where-will-soundhound-ai-stock-be-in-10-years.md",
       "title": "Where Will SoundHound AI Stock Be in 10 Years?",
       "excerpt": "The company's products include its music recognition app SoundHound, its voice-powered digital assistant SoundHound Chat AI, and its Houndify developer platform. During its pre-merger presentation ...",
@@ -1300,58 +1343,6 @@
         "name": "AOL",
         "domain": "aol.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-openai-gives-chatgpt-a-voice-for-verbal-conversations.md",
-      "title": "OpenAI gives ChatGPT a voice for verbal conversations",
-      "excerpt": "with its open source Whisper speech recognition system used to transcribe verbal utterances into text. Spotify was also unveiled as a launch partner, with the music-streaming giant introducing a ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/25/openai-chatgpt-voice/",
-      "originalUrl": "https://techcrunch.com/2023/09/25/openai-chatgpt-voice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1574154948-e1695647511123.jpg?resize=1200,676",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/25/openai-chatgpt-voice/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/25/openai-chatgpt-voice/amp/",
-      "publishedDateTime": "2023-09-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

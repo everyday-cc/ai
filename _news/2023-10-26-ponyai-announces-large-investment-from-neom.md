@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Pony.ai secures $100 million investment to bring autonomous rides to NEOM and Middle East"
-    excerpt: "Autonomous robotaxi startup Pony.ai continues to expand the reach of its autonomous operations – this time venturing outside of"
-    publishedDateTime: 2023-10-25T16:01:00Z
-    webUrl: "https://electrek.co/2023/10/25/pony-ai-secures-100-million-investment-autonomous-rides-neom-middle-east/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 58
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/10/Pony.ai-NEOM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "3xOwX6iv3510OPb6aN5l6qFamGGLi8PyPDH6AV6+plrI97dbkcxCWM9wDNs51UhnjP9HZM8u+OOwAJdk1RzR7hxkX2Ep+pkhb6fufvqRRpQi/jzZnBMiZxXvjDRwJ5pxh4RVO7hGiNrpAZopFJfCUEkxPJntPaYP8ErfC9Hpmkk5uXHgbEfYBfXzZ9w5qKgmd6kopB9NAiQ2ohu1cH4bVDyhPCes3sZp+YtkeXCpaKspdyr5sPzENBIP4tfKcfSpW2kj04kIgwwSSa3Ia+5bcSiq+YsyA1t6dvYWPHfyfSA5e7QZXdg+hLu7nDlRzyiU2OSoi+jlLA4Zc8pHRHtsqo3KMzPXTTDP2aThnCJEnNstgmA2elkazIaAbeTZip2974afdgnRLb3U9qpH6EMkp6rphfhMgzTTNoijbPYHW336XSyj8WliJNMJilFrQEGWmCBldBhd6/a0bXeVcnb7RXQNCWfFimnpaWaob+n/Cx4X5gv926uPsmtx+U/GmviXwCOnwM/On4Mqvan4+Z7QoA==;z6tx1R9Nezn4kr0JTZUnMw=="
 ---

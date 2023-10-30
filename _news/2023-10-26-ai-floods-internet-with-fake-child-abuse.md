@@ -7,7 +7,7 @@ originalUrl: "https://thehill.com/newsletters/technology/4275624-ai-floods-inter
 webUrl: "https://thehill.com/newsletters/technology/4275624-ai-floods-internet-with-fake-child-abuse/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Generated Child Sexual Abuse Images Could Flood the Internet. A Watchdog Is Calling for Action"
-    excerpt: "The already-alarming proliferation of child sexual abuse images on the internet could become much worse if something is not done to put controls on artificial intelligence tools that generate deepfake photos,"
-    publishedDateTime: 2023-10-25T16:36:00Z
-    webUrl: "https://gvwire.com/2023/10/25/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
-    ampWebUrl: "https://gvwire.com/2023/10/25/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/?amp=1"
-    cdnAmpWebUrl: "https://gvwire-com.cdn.ampproject.org/c/s/gvwire.com/2023/10/25/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/?amp=1"
-    type: article
-    provider:
-      name: Bill McEwen
-      domain: gvwire.com
-    quality: 44
-    images:
-      - url: "https://gvwire.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/10/25090717/AP23297714041343-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "AI-Generated Child Sexual Abuse Images Could Flood The Internet. Now There Are Calls For Action"
     excerpt: "The already-alarming proliferation of child sexual abuse images on the internet could become much worse if something is not done to put controls on artificial intelligence tools that generate deepfake photos,"
     publishedDateTime: 2023-10-30T05:07:00Z

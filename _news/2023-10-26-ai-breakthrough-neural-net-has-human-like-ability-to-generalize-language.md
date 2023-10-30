@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI ‘breakthrough’: neural net has human-like ability to generalize language"
-    excerpt: "A neural-network-based artificial intelligence outperforms ChatGPT at quickly folding new words into its lexicon, a key aspect of human intelligence."
-    publishedDateTime: 2023-10-25T15:10:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-03272-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03272-3/d41586-023-03272-3_26220184.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Neural Networks Achieve Human-Like Language Generalization"
     excerpt: "In the ever-evolving world of artificial intelligence (AI), scientists have recently heralded a significant milestone. They've crafted a neural network that exhibits a human-like proficiency in language generalization."
     publishedDateTime: 2023-10-25T22:31:00Z

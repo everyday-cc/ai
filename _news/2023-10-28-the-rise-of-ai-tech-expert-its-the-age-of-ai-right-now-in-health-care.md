@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI expert: 'It’s the age of AI right now in health care'"
+    excerpt: "During a routine visit with the medical oncologist, a cancer patient brings up a new symptom that could be a side effect of cancer treatment."
+    publishedDateTime: 2023-10-30T08:00:00Z
+    webUrl: "https://www.pressrepublican.com/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_52d8679e-c8d7-5b50-8649-d45fa6fe6022.html"
+    type: article
+    provider:
+      name: Press-Republican
+      domain: pressrepublican.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressrepublican.com/content/tncms/assets/v3/editorial/8/90/890618f4-2600-5dd9-b39a-35b900bd9ecc/653dc5a4aa020.image.jpg?crop=1534%2C805%2C0%2C272&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Z+DRM7gs+1bxUH/GwmZRjcdOEBMiqDOB1py2mDovVf9M2z5I3yo5BgcEfrbDALjWvk0gePeNUVHcidZ9+XatHsjrFvl1HQzh4YpLWQGW+pC4b6Yrjo80v7tJn7lrfRkxSweLG+p3yJBQ86TCcrlFUIHsGNYfh8YwphyBfLGbBZU/BYopkVwFsoLoRYR3I5xk4ywDBrQF+JEQ8XhJ1oHu5qTbxua53caVFAIAD4T4D58ydC12UlzOhW81U1EH3dJv45+hvedMi+R6OjmPTAbRb4B1KrIftdcLunslnAc82+CWkdYEyHSnjfsP9CFEfDAENu9k9+zXrGLovagyEneiFoZrGoNeuIqr/wNumbA3HSvo69tf9ror9vtVOIm3JT29a6vQISndkaVNV9RcyZkVjXEB5NfeL611zxmGk90eriIvSJA1Yhix2rcayhbnY8/4KFyvftxTnRhkXiqwF7TVPjcqBCLJD4hFEgSSWOae1aRps43OFcoeSWsveYgUAH5Y03L+jPskUwJAFTy39PH02A==;1kTbWe3HRi6yD/ArnRskPg=="
 ---

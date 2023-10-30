@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/neural-networks-achieve-human-like-language-g
 webUrl: "https://www.unite.ai/neural-networks-achieve-human-like-language-generalization/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI ‘breakthrough’: neural net has human-like ability to generalize language"
-    excerpt: "A neural-network-based artificial intelligence outperforms ChatGPT at quickly folding new words into its lexicon, a key aspect of human intelligence."
-    publishedDateTime: 2023-10-25T15:10:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-03272-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03272-3/d41586-023-03272-3_26220184.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI 'Breakthrough': Neural Net Has Human-Like Ability to Generalize Language"
     excerpt: "A neural-network-based artificial intelligence outperforms ChatGPT at quickly folding new words into its lexicon, a key aspect of human intelligence."
     publishedDateTime: 2023-10-26T15:04:00Z

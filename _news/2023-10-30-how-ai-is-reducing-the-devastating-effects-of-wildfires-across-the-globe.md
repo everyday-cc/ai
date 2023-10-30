@@ -62,15 +62,6 @@ related:
         width: 498
         height: 259
         isCached: true
-  - title: "The Power of Machine Learning and AI for Carriers"
-    excerpt: "T8N’s Mike Robinson details the power of machine learning and AI to help facilitate logistics for carriers on this episode of Retail Refined."
-    publishedDateTime: 2023-10-26T11:56:00Z
-    webUrl: "https://marketscale.com/industries/retail/machine-learning-and-ai-carriers/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 34
 
 secured: "6SyU5K5fccBtEjvPfOwdwMsORQpfAEPCdqaDjryZucfXPmPIINq3JZyZsWe4nUtY4DjaLJi/UdzDReFTBGQK9Rv4PE22n0u1M2KicnJ06ngQ2QE4lN40P/xD7Qf//PDK0nXQvbIVRu/ssoC0a7NGa/0+/j90IJ8blCcJ/x0IJ9msNaO32HHBsprV2uzByAHP98tQKHW+EiF/Er/lbuMJs64yCz4+b0xf1YUwDN4EjbgsIJt08aTVggQrfbbXUY3QFiCITMzm5auUWVVzrpXr6lytrQ7lkn7XPdtLfYE/U6UCmF7DV9GatAXf86uTtp5Txo7NZ3THy9OjqMtC50Y+Kx4Hpnvbxg6+g+oBPfbZA0mJXtkebAE6ex/IDOLcnAHVr6DXFdA/u880Lidtotl7kORVmxeOU7xUO7en9dRX3MNGW5wjLYUYgZ2HTaqojECicUghc9xgSXDjqAsmuibp27N/+TMBZeG1Osy+ko9sbKxWk5OsBef0yf24pquyeWPIZ+OTjzdqkTlJ2XCuyuyphg==;qD92ieY0FicSYaN0TDf1zQ=="
 ---

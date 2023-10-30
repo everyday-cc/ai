@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailyitem.com/pennsylvania/news/ai-expert-it-s-the-age-o
 cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/pennsylvania/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_126e8a3e-6786-5234-aa2a-02203cee4c57.amp.html"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
     quality: 39
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/greensburgdailynews.com/content/tncms/assets/v3/editorial/1/b1/1b1fef14-74e4-11ee-93a6-8be7573f8ee7/653be257b0234.image.jpg?crop=1200%2C630%2C0%2C271&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI expert: 'It’s the age of AI right now in health care'"
+    excerpt: "During a routine visit with the medical oncologist, a cancer patient brings up a new symptom that could be a side effect of cancer treatment."
+    publishedDateTime: 2023-10-30T08:00:00Z
+    webUrl: "https://www.pressrepublican.com/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_52d8679e-c8d7-5b50-8649-d45fa6fe6022.html"
+    type: article
+    provider:
+      name: Press-Republican
+      domain: pressrepublican.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressrepublican.com/content/tncms/assets/v3/editorial/8/90/890618f4-2600-5dd9-b39a-35b900bd9ecc/653dc5a4aa020.image.jpg?crop=1534%2C805%2C0%2C272&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

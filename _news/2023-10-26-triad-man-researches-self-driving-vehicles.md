@@ -7,7 +7,7 @@ originalUrl: "https://myfox8.com/video/triad-man-researches-self-driving-vehicle
 webUrl: "https://myfox8.com/video/triad-man-researches-self-driving-vehicles/9116234/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Arizona says closely monitoring use of self-driving vehicles"
-    excerpt: "The Arizona Department of Transportation said it was aware of the announcement from California and was closely monitoring the situation. \"Public safety is our highest priority, and we are in regular communication with and closely monitoring Cruise and other companies testing and operating self-driving vehicles in Arizona,"
-    publishedDateTime: 2023-10-25T21:58:00Z
-    webUrl: "https://www.aol.com/arizona-closely-monitoring-self-driving-175410320.html"
+  - title: "Japan's First Fully Self-Driving Vehicle Project Suspended After Accident"
+    excerpt: "Japan's first pilot project of a fully autonomous self-driving vehicle has been suspended after a minor accident with a parked bicycle, officials said Monday."
+    publishedDateTime: 2023-10-30T07:13:00Z
+    webUrl: "https://www.ndtv.com/world-news/japans-first-fully-autonomous-vehicle-suspended-4527001"
+    ampWebUrl: "https://www.ndtv.com/world-news/japans-first-fully-autonomous-vehicle-suspended-4527001/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/japans-first-fully-autonomous-vehicle-suspended-4527001/amp/1"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
+      name: NDTV
+      domain: ndtv.com
+    quality: 43
+    images:
+      - url: "https://c.ndtvimg.com/53z54k9wfi_self-driving-car-generic-istock_625x300.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "rwM2iHwGo6wq0avkfhHfUDzSd6JmkAYX8xCCRKuk+WiftAbCHcFGKICNMGtoY09z0gO6l2mtVuR1kCt6knd4sPIBNDCo6uh9ptw73h29NjyYFfsQaNkOiMfSI6qGxEQ/jBmjGyn8IBNmsQ6rkGOb9RERftZJmtZ64lbcVYvDrh4kUHCuj8plFR8yo10VCWIiAjpz4VXvQIfzHl777Akx7S5f3PF9nU1NpqJ2VCmwR1ZA7Ax5eEMN/Lqu0/qXbAnPGim5xwTI3GIkDMtSmK+O0+j+ONVOB5rGb3LBtb9I5DDOF+gGSZvNZjAW7A3f509Fd1/acqKO6X5M0D3xscOHvU813Y1tUbuzZi7SGQ8EKWmT8uVCP+zXRSG//AHb1t4DGGjUaNHSRUxsCGiTlxI0Nhtf1ubryxo2PjzUJnLJt1m28C2KhJKExt20hEDYh7woJd+m0Ys0z5dDJ6X0pNMqjpPQADp1N4aVPnmkjyCb/E55NS2BJbArmwGV+BkBkW1eWvvntCmSDpVEVaxZbj0HyQ==;IUKeeKNc9goGS3bwCvNN6A=="
 ---

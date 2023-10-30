@@ -39,6 +39,20 @@ related:
         width: 1199
         height: 685
         isCached: true
+  - title: "Cisco Unveils Webex AI Strategy At Webexone"
+    excerpt: "Reimagining Communication with Webex's Pervasive AI  News Summary:   <li /> New Real-Time Media Models (RMMs) in Webex har"
+    publishedDateTime: 2023-10-26T02:54:00Z
+    webUrl: "https://menafn.com/1107304815/Cisco-Unveils-Webex-AI-Strategy-At-Webexone"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/25/PN_b9d2a18c-0_Image_In_Body.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Cisco unveils new AI strategy for its Webex videoconference platform"
     excerpt: "Cisco is set to roll out a host of new AI-powered capabilities for Webex, including an AI assistant and AI Codec solution."
     publishedDateTime: 2023-10-30T01:24:00Z
@@ -53,20 +67,15 @@ related:
         width: 560
         height: 315
         isCached: true
-  - title: "Cisco’s Patel: Our AI, Networking Prowess Makes Webex ‘Categorically The Best’ Collaboration Platform"
-    excerpt: "The Cisco Webex collaboration platform is getting more powerful because it’s leveraging the strength the tech giant has in AI, networking, security and observability, Cisco Systems’ executives said at WebexOne 2023."
-    publishedDateTime: 2023-10-25T16:01:00Z
-    webUrl: "https://www.crn.com/news/networking/cisco-s-patel-our-ai-networking-prowess-makes-webex-categorically-the-best-collaboration-platform"
+  - title: "Cisco unveils Webex AI strategy"
+    excerpt: "At WebexOne, Cisco announced a new AI strategy for Webex that will improve communication and collaboration. Unlike AI offerings that solely focus on text or documents, Webex will use real-time communications for audio and video to solve everyday challenges,"
+    publishedDateTime: 2023-10-30T08:36:00Z
+    webUrl: "https://it-online.co.za/2023/10/30/cisco-unveils-webex-ai-strategy/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 24
-    images:
-      - url: "https://www.crn.com/resources/0286-1950de30a932-bb766d19010d-1000/genai_on_display_at_webexone_2023.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "JsOT0mU78ZJamVdo/x+CZKGTDf5UjavZt0hbd73t3M2BfEXgvornBsvcTEOXsmJ52NXbjI7Z5DD0MLMClErDbMyfH7RatbakAUzDutGjtxtnQadjkyubBv7+wJyoQrmc7oS77RlcgKl+naFpQ9w/j1f5zwjWHJ9NDJR5pCVcJRMmJPg2qFp2e9QqCa49LtCuihaRw8JaAiPVcCraz2/4m1xhq8UQU7qprIRBIOAUjXJFmV/DA3m5lmajdQCMmQ7J4C6JETAEUGVrEBDxZJXgUFK58veP06igq2J15wz2EjLrgZMS75X7ESn9I9swh/ADTr73YxzpE5qHbFuP34ZVLih17LLssWjdpdVDq6HCzS4=;mmcmbwH8NRC2Z68EjSTwLA=="
 ---

@@ -44,6 +44,15 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "To Win The AI Race, Invest In Your People"
+    excerpt: "Executives must earn the confidence of their organizations by investing in small projects that will serve as proof points for what AI can bring to the table."
+    publishedDateTime: 2023-10-27T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/to-win-the-ai-race-invest-in-your-people/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "RS9iPi/bEkwsfQCobtX+IcUlqoJqYxvWFU3tEllYoyueciRBepl4TZkpCftNnAArJ/Z9vUqt9hRsWPnQq336TdO3ENX6qaMTPnGVIT55UpHSZiwclgP6aYAsyjYtiDb5IrZsOYyvJ5OwS4viagIj92D/Ixu/6sPb79oGnT3XV7CuEICJlfIcuPjgDgdR3GgOsXUSRIq/xKsBjBoCCmj6JsywQ/eFSrb30djyOAQHquQBI4KdCCAEwTJfzRZB3KZyU9SVvdKBYlcLJ6j1EpTjht0nJG4pE70fWLT7Lnfl7Jvf/VyisJvyxcU53mZiO9Okn1R7ppx/UtTVG4oQ04I3OnQwK33w6InC+v2BPLR1l0Y=;GaUuB6nhmOjROnDzP5Riyg=="
 ---

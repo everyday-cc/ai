@@ -28,19 +28,63 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon launches new AI product image generator"
-    excerpt: "The functionality works similar to other open-ended text-to-image generators such as OpenAI's DALL-E 3 and Midjourney."
-    publishedDateTime: 2023-10-26T04:41:00Z
-    webUrl: "https://venturebeat.com/ai/amazon-launches-new-ai-product-image-generator/"
+  - title: "Biden unveils U.S. government's first-ever AI executive order"
+    excerpt: "The executive order builds on voluntary commitments the White House previously secured from leading AI companies."
+    publishedDateTime: 2023-10-30T07:17:00Z
+    webUrl: "https://www.cnbc.com/2023/10/30/biden-unveils-us-governments-first-ever-ai-executive-order.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/10/30/biden-unveils-us-governments-first-ever-ai-executive-order.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/30/biden-unveils-us-governments-first-ever-ai-executive-order.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107260011-1687350529623-gettyimages-1500220004-sjm-l-biden-0620-7.jpeg?v=1698267093"
+        width: 5146
+        height: 3599
+        isCached: true
+  - title: "Biden to Issue First Regulations on Artificial Intelligence Systems"
+    excerpt: "In an order to be issued on Monday, the White House will outline requirements that the most advanced A.I. products be tested to assure they cannot be used to produce weapons, among other regulations."
+    publishedDateTime: 2023-10-30T06:59:00Z
+    webUrl: "https://www.nytimes.com/2023/10/30/us/politics/biden-artificial-intelligence.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
     quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/assets.aboutamazon-2.webp?w=1200&strip=all"
+      - url: "https://static01.nyt.com/images/2023/10/29/multimedia/29dc-Biden-ai-qkhj/29dc-Biden-ai-qkhj-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden unveils sweeping executive order to address artificial intelligence concerns"
+    excerpt: "President Biden issued a wide-ranging executive order Monday to curtail threats posed by artificial intelligence that the White House says will mark the “strongest set of actions any government in the world has ever taken."
+    publishedDateTime: 2023-10-30T05:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/oct/30/artificial-intelligence-executive-order-from-biden/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 33
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/10/25/Biden_United_States_Australia_08474--6b175_c0-223-5344-3340_s1200x700.jpg?69c83d2fdd2f773c999342a90d1a45a514d317aa"
         width: 1200
-        height: 675
+        height: 700
+        isCached: true
+  - title: "Biden wants to move fast on AI safeguards and will sign an executive order to address his concerns"
+    excerpt: "The order reflects the government’s effort to shape how AI evolves in a way that can maximize its possibilities and contain its perils. AI has been a source of deep personal interest for Biden, with its potential to affect the economy and national security."
+    publishedDateTime: 2023-10-30T09:44:00Z
+    webUrl: "https://www.bostonglobe.com/2023/10/30/business/biden-wants-move-fast-ai-safeguards-will-sign-an-executive-order-address-his-concerns/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 25
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/TdlmHjG6W_gRpQsZV2WSDY6Q9Go=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/D7MB7BHS56HLGSKL2ICPTT2SDY.jpg"
+        width: 506
+        height: 337
         isCached: true
 
 secured: "Z1b+UOnS5ZYppyCd3svriJr4Ppx08+cLt5VZ5bQYWMaB1n7jeUA25AqEASnhy5xDSOuSWiF1qDpgNaqSjQJdnp48WqrI89LfD74/4gYT5RQ4va9W1ogFe8y2+ASpkLncNOzfirbkIc1+sc26Z+Iwu4gfRSq+ocEqX0fEhMWdUaVIQC2EW4OpwXI/pJxvawpllBlSH0jkkFIyRMhdBzx2LQEP0WZWKxXBaDeJm2J2nkGl+AZZlr93Vou5F0+wGos9w4laavpSeM3USmzZvvF2pknkuCihvIt93PAb6CpnxAOPJ2AWB2XxDawBkc/xndpVcSx7FFbbmG/GycquOQLZApCBRiHQc+6idZrDNNYuY3s=;Xd2LPiEBgQ2Kd1bD6VVjig=="

@@ -7,8 +7,8 @@ originalUrl: "https://menafn.com/1107327112/Artificial-Intelligence-Market-In-Th
 webUrl: "https://menafn.com/1107327112/Artificial-Intelligence-Market-In-The-Education-Sector-To-Grow-By-USD-110-Billion-From-2022-To-2027-2U-Inc-Alphabet-Inc-Amazon-Inc-Brainly-Carnegie-Learning-Inc-And-More-Among-The-Key-Companies-In-The-Market-Technavio"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Mena FN
@@ -39,6 +39,15 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "To Win The AI Race, Invest In Your People"
+    excerpt: "Executives must earn the confidence of their organizations by investing in small projects that will serve as proof points for what AI can bring to the table."
+    publishedDateTime: 2023-10-27T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/to-win-the-ai-race-invest-in-your-people/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "4NIF5qYUL6oYpFPKUgx39kMhouS06rvrRiRXed0vv0aW/K5Z6mx7EFtZWuxtzBYGxdAN9XCNcv8JHBI3Z4i+gF9kG5mVWB/oaRO5rz1B9q2Yb+oOwP9n40+YNIw0w4D+BirbNBKdFiPSwf5bcRD4/pJii7j/QDyXa+vfFBQcEPk7/d6jwoG8lzY6bhQqFz1eMNHefo13ogdEmpaKncLAkS+n7Hxx5vsvWCVuSM4ynrkW9ezxAr2Hqlvxo/zVkWP+1elCviKoyQAq36uJYBJPYXGMyBF2NUKpdtO9AzXztvjiW5E+cy2gbPuXxjxPYE7RjvE+75mMN0fxJIByfIBxjJGzbTtFG1A5cTHTG3E95kI=;MeYLnKP7uegcrKSb+GyP8w=="
 ---

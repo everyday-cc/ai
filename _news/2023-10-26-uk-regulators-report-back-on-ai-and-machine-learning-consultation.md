@@ -20,19 +20,21 @@ topics:
   - Machine Learning
 
 related:
-  - title: "PRA, FCA and BoE publish feedback on AI and Machine Learning in financial services"
-    excerpt: "and machine learning which was published in October 2022. DP5/22 aims to understand how AI may affect the prudential and conduct supervision of financial services firms. The aim of the feedback is to acknowledge and summarise the responses to DP5/22 and ..."
-    publishedDateTime: 2023-10-27T16:07:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/pra-fca-and-boe-publish-feedback-on-ai-1675178/"
+  - title: "UK to host world leaders in one of its kind meeting on Artificial Intelligence"
+    excerpt: "Leaders like Sunak and others are increasingly joining the sector to argue that the rules and expertise currently available for frontier AI is probably insufficient for the issues it will face"
+    publishedDateTime: 2023-10-30T06:33:00Z
+    webUrl: "https://www.firstpost.com/world/uk-to-host-world-leaders-in-one-of-its-kind-meeting-on-artificial-intelligence-13317202.html"
+    ampWebUrl: "https://www.firstpost.com/world/uk-to-host-world-leaders-in-one-of-its-kind-meeting-on-artificial-intelligence-13317202.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/uk-to-host-world-leaders-in-one-of-its-kind-meeting-on-artificial-intelligence-13317202.html/amp"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 50
+      name: Firstpost
+      domain: firstpost.com
+    quality: 53
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15723_926.jpg"
-        width: 1200
-        height: 900
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/10/Untitled-design-2023-10-30T120023.092.png"
+        width: 640
+        height: 362
         isCached: true
 
 secured: "G+9PFMVfgrZoYjTstpzkZMXUFwIyB5TsvwBBstPV4u+Gu80E03zlUFffizwwashQlzZ44iINHyz0WZOySTAfxDL9rGqSfwO8da6GVo71zMIh0nyfdWV2OYSOrqO6Mtu14P8mlttj+ouORrGeGcDNbWd/M2ejRHutbIACDoO85bL5A9YHIqdS9U7qXJzr+ncmSGHJvj++zSN+p/Hs0/l6V+8df5fK9U5z48MiMXEapc0tBtrDQ24bg6sYuYh04q7ZcESU+B0EwXGkUBTIi7z2+0yHHyO30vrB6RuV6JuSm5zfxatDM1UtjNG+dj7Nx0aQtFs6lZAMiApE1RbtWZamvRTWczj8Ps+3bVbBnNMYmu0=;dYEKCgVW94Zxc7J87vOF8w=="

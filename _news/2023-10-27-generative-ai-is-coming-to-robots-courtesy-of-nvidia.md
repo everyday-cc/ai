@@ -7,8 +7,8 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-robots
 webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-robots-nvidia/"
 type: article
 quality: 88
-heat: -1
-published: false
+heat: 228
+published: true
 
 provider:
   name: eWeek
@@ -31,38 +31,40 @@ images:
     isCached: true
 
 related:
-  - title: "CentML lands $27M from Nvidia, others to make AI models run more efficiently"
-    excerpt: "CentML, a startup building tools to enable AI models to run more efficiently on existing hardware, has raised $27 million in a venture funding round."
-    publishedDateTime: 2023-10-25T15:43:00Z
-    webUrl: "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/"
-    ampWebUrl: "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/"
+  - title: "Google, Nvidia Back AI Startup That Helps Combat Chip Shortage"
+    excerpt: "Nvidia Corp. and a Google venture fund have joined a seed round of funding for a startup that helps developers squeeze more computing power out of specialized processors used to train AI, potentially alleviating a major logjam for the burgeoning field."
+    publishedDateTime: 2023-10-26T10:41:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-71698313263541.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-71698313263541.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-nvidia-back-ai-startup-that-helps-combat-chip-shortage-71698313263541.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 88
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 74
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800"
-        width: 1200
-        height: 800
+      - url: "https://images.hindustantimes.com/tech/img/2023/10/26/1600x900/EU-ALPHABET-BARD-0_1689231827645_1698316716775.JPG"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "NVIDIA Brings The Power Of Generative AI To The Edge"
-    excerpt: "NVIDIA wants to turn the Jetson family of devices into powerful edge computing devices capable of running state-of-the-art foundation models."
-    publishedDateTime: 2023-10-25T15:43:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/10/25/nvidia-brings-the-power-of-generative-ai-to-the-edge/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/10/25/nvidia-brings-the-power-of-generative-ai-to-the-edge/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/10/25/nvidia-brings-the-power-of-generative-ai-to-the-edge/amp/"
+  - title: "Why Nvidia Is Still the AI Chip Champ Despite U.S.-China Tiff"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) has been a darling of the stock market throughout"
+    publishedDateTime: 2023-10-25T19:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-is-still-the-ai-chip-champ-despite-u-s-china-tiff-1032740345"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/653937292c9fb9a0418eaf7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1000
-        height: 546
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Is NVIDIA a Good Buy After the White House AI Chip Sale Ban?"
+    excerpt: "The U.S. government placed restrictions on the export of high-end semiconductor chips to China and Russia – of which NVIDIA is a market leader. This, of course, posed a large fi"
+    publishedDateTime: 2023-10-27T20:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/is-nvidia-a-good-buy-after-the-white-house-ai-chip-sale-ban"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "AI startup Twelve Labs attracts $10 mil. from Nvidia, Intel, others"
     excerpt: "Twelve Labs, Korea's generative artificial intelligence (AI) startup, has attracted a combined $10 million from U.S. chip design company Nvidia, U.S. chipmaker Intel and two others, according to the company Friday."
     publishedDateTime: 2023-10-27T01:02:00Z
@@ -93,6 +95,61 @@ related:
         width: 1252
         height: 704
         isCached: true
+  - title: "China's tech giants race to secure last Nvidia's AI chips amid US ban"
+    excerpt: "China’s tech firms are allegedly racing to secure Nvidia's crucial graphics processing units (GPUs) after the latest embargo by the US on the components that support AI tech."
+    publishedDateTime: 2023-10-27T14:13:00Z
+    webUrl: "https://interestingengineering.com/culture/china-tech-giants-race-nvidias-ai-us-ban"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/27/image/jpeg/o7LvvME7W1xXvMsAFQxALvaDrC56NatME6ukKzVE.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "US tightens rules on AI chip sales to China in blow to Nvidia"
+    excerpt: "US tightens rules on AI chip sales to China in blow to Nvidia on facebook (opens in a new window) US tightens rules on AI chip sales to China in blow to Nvidia on linkedin (opens in a new window)"
+    publishedDateTime: 2023-10-26T13:23:00Z
+    webUrl: "https://www.ft.com/content/be680102-5543-4867-9996-6fc071cb9212?sharetype=gift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 51
+  - title: "Primer Joins NVIDIA Inception Program for Cutting-Edge AI Startups"
+    excerpt: "Primer offers trusted AI solutions to the U.S. government, strategic allies, and large enterprises. Powered by its proprietary natural language processing (NLP) technology, Primer's solutions enable leaders, operators, and analysts to access and analyze ..."
+    publishedDateTime: 2023-10-26T11:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/primer-joins-nvidia-inception-program-for-cutting-edge-ai-startups-1032743089"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Big Tech earnings highlighted big spending on artificial intelligence. Here's what it means for AI king Nvidia"
+    excerpt: "This week's slate of tech earnings left little doubt that, as more Nvidia chips become available, there will be a place inside data centers for them to go."
+    publishedDateTime: 2023-10-27T16:37:00Z
+    webUrl: "https://www.cnbc.com/2023/10/27/big-tech-earnings-highlighted-big-spending-on-ai-what-it-means-for-nvidia.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 42
+  - title: "Transforming customer service: How generative AI is changing the game"
+    excerpt: "However, these executives are also concerned with risks such as bias, ethics and security.¹ To ensure client success in generative AI implementation, IBM Consulting recently launched its Center of Excellence (CoE) for generative AI. It stands alongside ..."
+    publishedDateTime: 2023-10-30T09:05:00Z
+    webUrl: "https://www.marketingdive.com/spons/transforming-customer-service-how-generative-ai-is-changing-the-game/697134/"
+    type: article
+    provider:
+      name: Marketing Dive
+      domain: marketingdive.com
+    quality: 39
+    images:
+      - url: "https://www.marketingdive.com/imgproxy/OoZzW-a4aVuhNoM2RD5oVVX7mSYdyMK-Z133jYbB78M/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0ODgxMDUyNTcuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "US Government Orders Nvidia to Halt AI Chip Shipments to China"
     excerpt: "The US government has instructed semiconductor designer Nvidia to cease the shipment of certain high-end artificial intelligence chips to China, according to a company filing disclosed on Tuesday."
     publishedDateTime: 2023-10-26T13:21:00Z
@@ -101,6 +158,15 @@ related:
     provider:
       name: Tasnim News Agency
       domain: tasnimnews.com
+    quality: 34
+  - title: "TSMC CoWoS capacity crucial to the AI GPU race between AMD and Nvidia"
+    excerpt: "The ban on exports to China has been upgraded, not only expanding the range of AI chip specifications but also not giving Chinese companies time to stock up. It is worth noting that this ban has not affected the short-term revenue of Nvidia,"
+    publishedDateTime: 2023-10-30T02:42:00Z
+    webUrl: "https://www.digitimes.com/news/a20231030PD212/ai-gpu-amd-nvidia-tsmc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
     quality: 34
   - title: "Google, Nvidia invest in AI startup CentML"
     excerpt: "CentML – a Toronto-based AI startup has received new funding from Nvidia Corp (NASDAQ: NVDA) and Alphabet Inc’s (NASDAQ: GOOGL) Google. On Wednesday, the artificial intelligence company said it secured a total of $27 million from names that also include Radical Ventures, Deloitte Ventures, and Thomson Reuters Ventures."

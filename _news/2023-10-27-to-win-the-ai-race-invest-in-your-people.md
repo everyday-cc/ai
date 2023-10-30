@@ -22,21 +22,33 @@ topics:
   - AI
 
 related:
-  - title: "Wanted: People To Fill In The Growing AI Leadership Vacuum"
-    excerpt: "As AI impacts people, processes, and applications, it 'will require careful stewardship and handling – regardless of title or business function'"
-    publishedDateTime: 2023-10-25T16:51:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/10/25/wanted-people-to-fill-in-the-growing-ai-leadership-vacuum/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/10/25/wanted-people-to-fill-in-the-growing-ai-leadership-vacuum/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/10/25/wanted-people-to-fill-in-the-growing-ai-leadership-vacuum/amp/"
+  - title: "artificial intelligence market in the education sector"
+    excerpt: "2U Inc: The company offers artificial intelligence in the education sector through its subsidiary Querium. Alphabet Inc: The company offers artificial intelligence in the education sector such as iSchoolConnect. Century Tech Ltd: The company offers artificial intelligence in the education sector such as Century AI."
+    publishedDateTime: 2023-10-30T07:37:00Z
+    webUrl: "https://menafn.com/1107327112/Artificial-Intelligence-Market-In-The-Education-Sector-To-Grow-By-USD-110-Billion-From-2022-To-2027-2U-Inc-Alphabet-Inc-Amazon-Inc-Brainly-Carnegie-Learning-Inc-And-More-Among-The-Key-Companies-In-The-Market-Technavio"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62579c7e40a68b70f7243179/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
-        height: 900
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?342612"
+        width: 444
+        height: 250
+        isCached: true
+  - title: "Meta’s top AI executive left the company for the world of edtech. He hopes Sizzle, a new AI-powered tutor, will be part of the future of education"
+    excerpt: "Jerome Pesenti was an AI expert before it was cool. He’s founded tech companies, worked on IBM’s Watson, and most notably was the head of AI at Meta. While serving as Mark Zuckerberg’s go-to expert, Pesenti helped to rapidly grow a team working to ..."
+    publishedDateTime: 2023-10-26T23:38:00Z
+    webUrl: "https://fortune.com/education/articles/jerome-pesenti-former-meta-head-of-ai-sizzle-tutor/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 48
+    images:
+      - url: "https://media-cdn.fortuneeducation.com/wp-content/uploads/2023/10/25151308/Education_Jerome-Pesenti.jpg"
+        width: 1500
+        height: 1000
         isCached: true
 
 secured: "ZBAxIqI0vfOu85wmKcBH2zGtLMG4aqFXlsRL7W2zChxrV8jSbr1YfIzhUV7E6YECuwhe6/kEzN+9R9C8uyq5novDUIzYig3HPB07ZX2SVoGhUwtNsTWlle4hKdjHvfehKHgQ6rZEmt0hJRaMlZ1HaM3hkQJ8wB4E29PRk0w6QozFdTdAjqf1Qebf+D3fjwlUWGD9X3vxur+g4IrHN4lel1QBdks1ml/Klk0jqjF+onp0k8MOMGASufwP/SUAAawbvSNObwXumxhKNezOoMbsohDxwX4IV6B2+1EJUDdCo+Gz8Q8tLGZ1pFPl7UGWSrLjwZ0Ek9e4NT2CeFJ/t0+Fx83xrb8TrI5cBmmhaYygCQh19z9CYcfrtSBetk6Ll8OrRD95OAIsBnJaLrbeIfGT+kt3sNYpYDfj8wGJRGRem6up1bd9dIstXr4n8UdFIx6UsjXC8uIegIvlgBL+240DRswNot/qZajyFIS95GnlYtjb9d81IEMfyC+ZF/FY9h0ndL5l7u3wudlY/8FWw5uyJA==;YDO6gV7zIWSd49uasSBoAQ=="

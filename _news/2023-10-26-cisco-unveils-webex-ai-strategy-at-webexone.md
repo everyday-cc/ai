@@ -25,29 +25,57 @@ images:
     isCached: true
 
 related:
-  - title: "Webex Says AI Can Save Us From Glitchy Audio and Video Calls"
-    excerpt: "New technology will help fill in the gaps when your audio or video cuts out, while an AI Assistant can summarize meeting notes."
-    publishedDateTime: 2023-10-25T16:01:00Z
-    webUrl: "https://www.pcmag.com/news/webex-says-ai-can-save-us-from-glitchy-audio-and-video-calls"
+  - title: "Cisco zooms in on new AI power for Webex teams"
+    excerpt: "Providing automated support such as tone modification when writing messages, suggested responses to received messages, and meeting summaries"
+    publishedDateTime: 2023-10-25T23:41:00Z
+    webUrl: "https://venturebeat.com/virtual/cisco-zooms-in-on-new-ai-power-for-webex-teams/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 67
     images:
-      - url: "https://i.pcmag.com/imagery/articles/01lHKSNnuCqRvjrZiR4qUor-1.fit_lim.size_1200x630.v1698090635.jpg"
-        width: 1120
-        height: 630
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-25-10.37.16-Photo-of-a-person-of-Hispanic-descent-engrossed-in-a-video-chat-with-a-futuristic-robot-on-the-laptop.-The-laptop-creates-a-mild-illusion-of-echoing-.png?w=1200&strip=all"
+        width: 1199
+        height: 685
         isCached: true
-  - title: "Cisco Unveils Webex AI Strategy at WebexOne"
-    excerpt: "Reimagining Communication with Webex's Pervasive AINews Summary:New Real-Time Media Models (RMMs) in Webex harnesses audio and video in powerful"
-    publishedDateTime: 2023-10-25T16:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cisco-unveils-webex-ai-strategy-at-webexone-1032739805"
+  - title: "Cisco Unveils New AI Strategy For Its Collaboration Platform Webex"
+    excerpt: "Global networking giant Cisco has unveiled a new AI strategy for its collaboration platform Webex that will improve real"
+    publishedDateTime: 2023-10-26T07:05:00Z
+    webUrl: "https://menafn.com/1107307570/Cisco-Unveils-New-AI-Strategy-For-Its-Collaboration-Platform-Webex"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/26/I_19d2bimage_story.jpg"
+        width: 479
+        height: 246
+        isCached: true
+  - title: "Cisco unveils new AI strategy for its Webex videoconference platform"
+    excerpt: "Cisco is set to roll out a host of new AI-powered capabilities for Webex, including an AI assistant and AI Codec solution."
+    publishedDateTime: 2023-10-30T01:24:00Z
+    webUrl: "https://www.arnnet.com.au/article/709253/cisco-unveils-new-ai-strategy-its-webex-videoconference-platform/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/ipad_lifestyle_video-still-shot_-image-3-100938875-orig.jpgautowebp8570"
+        width: 560
+        height: 315
+        isCached: true
+  - title: "Cisco unveils Webex AI strategy"
+    excerpt: "At WebexOne, Cisco announced a new AI strategy for Webex that will improve communication and collaboration. Unlike AI offerings that solely focus on text or documents, Webex will use real-time communications for audio and video to solve everyday challenges,"
+    publishedDateTime: 2023-10-30T08:36:00Z
+    webUrl: "https://it-online.co.za/2023/10/30/cisco-unveils-webex-ai-strategy/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "IdGfuWPN1Tu/UmSn3XDCvHYUyTuDYKe/XgOqJVLNCF8pbiLnv6TpKKFNXy6EbqenhGEXVqg01aLL5g2oOxDbzE0x54YbyYqSYXm0oq4HgMucuKdCZBKf12slxJumfnUNNS+gMsMcwRFkZKaJoer151L+2HCZwp1o7kwr4CHTkqI4CDZkXFzkW6B4XhmkwkfZJx6OruQBMv9fPRONyjIsOfwPXvs4bPzyVWUvbJ6eCUgpx3WYf2gzgNxfELW+p/zSAw4QPn1ZWmXmm/TTEFcfvR3/yW1p36RsXu9GFSrbo2B4LBet0gEHFb3Qo8iJSiQcedE4NAJHqWgSmtWeM9KPL88L27htSUdBon69bjANfFI=;IbsY3lJxaleQnqtthMB9Cw=="
 ---

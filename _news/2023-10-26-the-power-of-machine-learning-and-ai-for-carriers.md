@@ -19,59 +19,54 @@ topics:
   - AI
 
 related:
-  - title: "Exploring the details of an energy-saving AI chip"
-    excerpt: "Hussam Amrouch has developed an AI-ready architecture that is twice as powerful as comparable in-memory computing approaches. As reported in the journal Nature Communications, the professor at the Technical University of Munich (TUM) applies a new computational paradigm using special circuits known as ferroelectric field effect transistors (FeFETs)."
-    publishedDateTime: 2023-10-26T16:38:00Z
-    webUrl: "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.html"
-    ampWebUrl: "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp"
+  - title: "How IBM and AWS are partnering to deliver the promise of AI for business"
+    excerpt: "Combining IBM's strength in data analytics with AWS's robust cloud infrastructure, the alliance is breaking down barriers to AI adoption.\nThe post How IBM and AWS are partnering to deliver the promise of AI for business appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-30T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/how-ibm-and-aws-are-partnering-to-deliver-the-promise-of-ai-for-business/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
+      name: IBM
+      domain: ibm.com
+    quality: 115
+  - title: "3 ways to migrate and deploy IBM Maximo on AWS Cloud"
+    excerpt: "Migrating to cloud helps organizations drive operational resiliency and reliability while keeping software updated with effort.\nThe post 3 ways to migrate and deploy IBM Maximo on AWS Cloud appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-26T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/3-ways-to-migrate-and-deploy-ibm-maximo-on-aws-cloud/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "These artists are using AI to examine its impact on the art world and beyond"
+    excerpt: "International artists look beyond the relationship between AI and their artistic practice, going into the sphere of culture and politics."
+    publishedDateTime: 2023-10-29T06:00:00Z
+    webUrl: "https://www.prestigeonline.com/sg/lifestyle/art-plus-design/holly-hernfon-mathew-dryhurst-trevor-paglen-ai-art/"
+    ampWebUrl: "https://www.prestigeonline.com/sg/lifestyle/art-plus-design/holly-hernfon-mathew-dryhurst-trevor-paglen-ai-art/amp/"
+    cdnAmpWebUrl: "https://www-prestigeonline-com.cdn.ampproject.org/c/s/www.prestigeonline.com/sg/lifestyle/art-plus-design/holly-hernfon-mathew-dryhurst-trevor-paglen-ai-art/amp/"
+    type: article
+    provider:
+      name: Prestige Online
+      domain: prestigeonline.com
+    quality: 56
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/an-energy-saving-ai-ch.jpg"
-        width: 1750
-        height: 1466
+      - url: "https://images.prestigeonline.com/wp-content/uploads/sites/6/2023/10/27141716/Holly-Herndon-and-Mathew-Dryhurst-x-o-45-2022.-credit-to-Marina-Bay-Sands-scaled.jpg"
+        width: 2085
+        height: 2560
         isCached: true
-  - title: "Exploring the role of labeled data in machine learning"
-    excerpt: "Network and learn with industry peers. Learn More If there’s one thing that has fueled the rapid progress of AI and machine learning (ML), it’s data. Without high-quality labeled datasets, modern supervised learning systems simply wouldn’t be able to ..."
-    publishedDateTime: 2023-10-29T19:41:00Z
-    webUrl: "https://venturebeat.com/ai/exploring-the-role-of-labeled-data-in-machine-learning/"
+  - title: "Riding the wave of gen AI: AWS outlines advances at Supercloud 4"
+    excerpt: "Saha spoke with theCUBE industry analyst John Furrier (left) at Supercloud 4, during an exclusive broadcast on theCUBE, SiliconANGLE Media’s livestreaming studio. They discussed how companies are using the AI models and moving into production at scale."
+    publishedDateTime: 2023-10-25T20:45:00Z
+    webUrl: "https://siliconangle.com/2023/10/25/riding-wave-gen-ai-aws-outlines-advances-supercloud-4-supercloud4/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/image3.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "TUM professor develops an energy-saving AI chip"
-    excerpt: "Home > Pressemitteilung: TUM professor develops an ..."
-    publishedDateTime: 2023-10-26T17:54:00Z
-    webUrl: "https://idw-online.de/de/news822986"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 54
     images:
-      - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
-        width: 498
-        height: 259
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Bratin-Saha-Supercloud-2023-V2.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "How AI is Reducing the Devastating Effects of Wildfires Across the Globe"
-    excerpt: "AI is already proving itself a strong ally in the fight against wildfires, and it can strongly aid the efforts of agencies and firefighters."
-    publishedDateTime: 2023-10-30T07:39:00Z
-    webUrl: "https://www.techopedia.com/ai-and-wildfires"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 16
 
 secured: "cA5IZcrIroei1u4QCNwsXOhKxly/3Nt1y/mkK1VjARBJS78SP8xoBWQQtr7uhD5Fm+H+Kr/zqVkIY3skq9lgHSN/0IceQIHGjwjaEpuDe6ubvZIbfbRMZv2j5hH02Eo+6X3W7yq4TSw+p7S2nzINqU7S9n/G9/veo6BFY5UQktWqb97Tj4Raza3Q1xu9AZQlOzAtbKMbe0zlZ/TAfw6yY+xNMz0N5TAIWavj0wO+0dpQpuF3VumKopJOalNiGk2Go7Y9zeg8gbU2d7Zx+MbAbwwWW7MyBT5lCPy6a9jWLKREHejMRRnnJaWN+izbsVeJivJDUQwTdtTuPIM63HbB/Rqy9hvh13ezdWaFQwNRrNY=;7Fr1TImfWkQd8jW/hCtezg=="
 ---
