@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai tests self-driving electric robots to clean up beaches"
-    excerpt: "Dubai is testing the use of self-driving electric robot vehicles to clean beaches in the city. Dubai Municipality initiated the testing phase of a self-driving electric vehicle dedicated to cleaning bicycle routes along the beaches of Jumeirah and Umm Suqeim."
-    publishedDateTime: 2023-10-25T13:36:00Z
-    webUrl: "https://www.arabianbusiness.com/culture-society/dubai-tests-self-driving-electric-robots-to-clean-up-beaches"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
   - title: "Arizona says closely monitoring use of self-driving vehicles"
     excerpt: "The Arizona Department of Transportation said it was aware of the announcement from California and was closely monitoring the situation. \"Public safety is our highest priority, and we are in regular communication with and closely monitoring Cruise and other companies testing and operating self-driving vehicles in Arizona,"
     publishedDateTime: 2023-10-25T21:58:00Z

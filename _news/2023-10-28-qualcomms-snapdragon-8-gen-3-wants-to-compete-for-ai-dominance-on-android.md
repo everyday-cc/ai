@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Dominates Qualcomm Snapdragon Summit With New Snapdragon Products"
-    excerpt: "Principal Analyst, Mobility & VR, Anshel Sag analyzes the Snapdragon 8 Gen 3 and Snapdragon X Elite SoCs and predicts their impact on AI-driven mobile devices and PCs."
-    publishedDateTime: 2023-10-25T14:20:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65391570e04d1bf71ad7c828/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 936
-        height: 560
-        isCached: true
   - title: "Android Circuit: Qualcomm Launches SnapDragon 8 Gen 3, Xiaomi 14’s Superb Screen, Honor Magic 6 AI Secrets"
     excerpt: "This week’s Android headlines; Samsung Galaxy S24 benchmarks, Qualcomm launches Snapdragon 8 Gen 3, Honor Magic6’s AI power, Dimensity 9300 performance, Pixel 8 Pro screen details, Xiaomi 14 released,"
     publishedDateTime: 2023-10-27T20:13:00Z
@@ -61,15 +45,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "Qualcomm Claims Snapdragon X Elite Platform for Windows PCs Will Rival Apple Chips"
-    excerpt: "Generative AI workloads will be able to run on-chip in the Snapdragon X Elite. Qualcomm claims the platform beats Apple's M2 Max chip."
-    publishedDateTime: 2023-10-26T19:30:00Z
-    webUrl: "https://www.techrepublic.com/article/qualcomm-snapdragon-x-elite-processor/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 58
 
 secured: "PVJ4OBWsaMIRXF/1cjv1sV85pdBBMJPmnFGb7lHTL/99lLMyNM0q0gLOlXf6BZ5LKOlYFXZT+C3ti4GQRvq46URUfFYJ5hApfVBWQO1cDDz+FLn2J8ZGO5+p1IbOwE6WhIIXxxjtVU5ME/Zl3PvJBr4eg8jbLzl7GbG5xk72KrayTPrQ8vWwLmnRKrfK9C/wm8DIjH8czwJbXYSTsDFV5+4kI0a5UKbaT5GxM74pRUMc1zRSh6Ozecn3mqGIhE+swhZPt2RaN7Jo4+5xvP3yfEQICx+l5/WH2z4INYBTwEgVM2I716U+hAiku6urOkh+Vp7LY7zYasdEcUjsoyhyOWeyi0eW34pc0aZTPsHTEhTN5wUk5czOkSWK0i4znvZVkhSvmNoC4w7u2eeRlfGpiuG3mhGZi56320JoK9k0UAnpCrDNqUbPz2WtfwF8/HsIZnrGsjyHcrCzZcQwXB3uLQFOuRwrOvuIzqrs2YDYPZNUNfmZ/hwHqEVKltjrKBo/J4KMey7XvoXbdbtDA231Jg==;JWokjMIUxuy9sb4eAsEZEg=="
 ---

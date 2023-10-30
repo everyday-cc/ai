@@ -59,15 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The employees secretly using AI at work"
-    excerpt: "Some employers are either tacitly or outright banning access to generative AI tools like ChatGPT. But employees who love them are finding ways to discreetly backchannel."
-    publishedDateTime: 2023-10-25T14:49:00Z
-    webUrl: "https://www.bbc.co.uk/worklife/article/20231017-the-employees-secretly-using-ai-at-work"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
 
 secured: "wKkCxs1XJZD4G6Qym5kTwEOFqMExhnMhkJB+UX1OdeRye5hhKvwXU11eM9/hYIYvIff/07Uh79Ofamf8hBiabOPunMkI3YsroPeAi1atF67MkBxNrmQ4HoCVORtoLaRrpLkIRbwFN9uOuGlYEooMd89oZtMc7cOULQz8QAnaEKFY9LDP2NtNRBdDFCC190EqS6HoZAACzEt0DsTCoQK9sAZM/TQD3kKmrl6Rz20emCNvDhDUm4NupIfQCmOyzf624bodQiYUR/xPxRxacZL8os/P+JB6KAYd9KY9rtxpjsnTStVOj83Y2OTZEGwFEgjV9KguNm3SdtcAb9BdntggRvUnhhWB8OL1h3mJxnrlXPI=;WdXVTI+3kD1QDiso/etmUQ=="
 ---

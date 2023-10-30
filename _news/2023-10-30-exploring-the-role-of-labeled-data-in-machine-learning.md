@@ -68,6 +68,15 @@ related:
       name: marketscale
       domain: marketscale.com
     quality: 34
+  - title: "How AI is Reducing the Devastating Effects of Wildfires Across the Globe"
+    excerpt: "AI is already proving itself a strong ally in the fight against wildfires, and it can strongly aid the efforts of agencies and firefighters."
+    publishedDateTime: 2023-10-30T07:39:00Z
+    webUrl: "https://www.techopedia.com/ai-and-wildfires"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 16
 
 secured: "r7QZSa/CeKEsbOVo/EKeLLGl4NaiiYXCZikDj0g2HDyLXIfiJkI8aAVJW2hQkawMhNOoLy5sBQGnCGZHnlcWD+g3U62jGBXiE4lL2HaAbQjg7UJxBej+uNdG1TiPJIAhI6ZEdoRjDXZC0BoEHinjWnTm+GXMzlxVTmB/VlPdwmcPnwVV8w9X46hjvyHakgr7Hg++xx6yrorwCqSDtl2KUPjPqcKa5TQS0DYKldD8GwQQXEIwP4SgfA8EVbin4EpWUDhurBthKk9Nux+MC7XUFkQbOayLP6t8EJzqGAT02LubCnKupFeFPJ6O4QXRXnOjUlWkIJxOEfvaDFyEr73ZOyY60YorYCSDdJb/YBPPwxA=;BoLuzeTVIICRXXpzdPiCuw=="
 ---

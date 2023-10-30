@@ -3,10 +3,10 @@ category: news
 title: "Where's AI steering driverless cars?"
 excerpt: "GM's Cruise taxis were banned from California roads after the state said the driverless car company misrepresented safety data."
 publishedDateTime: 2023-10-27T23:25:00Z
-originalUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/?ref=biztoc.com"
-webUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/?ref=biztoc.com"
+originalUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/"
+webUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.marketplace.org/wp-content/uploads/2023/10/GettyImages-1626054002-e1698443650973.jpg?w=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Cruise, GM’s robotaxi service, suspends all driverless operations nationwide"
@@ -81,20 +87,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Regulators Suspend Cruise's Driverless Taxis From Operating In San Francisco"
-    excerpt: "Driving Taxis The Department of Motor Vehicles has suspended permits that allowed robo-taxi company Cruise to operate in San Francisco. That comes after an incident earlier this month, in which one of the company's fully driverless vehicles hit and dragged a pedestrian."
-    publishedDateTime: 2023-10-25T14:12:00Z
-    webUrl: "https://www.kqed.org/news/11965519/regulators-suspend-cruises-driverless-taxis-from-operating-in-san-francisco"
-    type: article
-    provider:
-      name: KQED
-      domain: kqed.org
-    quality: 36
-    images:
-      - url: "https://ww2.kqed.org/app/uploads/sites/10/2023/08/GettyImages-1556779132-1020x680.jpg"
-        width: 1020
-        height: 680
-        isCached: true
   - title: "Cruise suspends self-driving robo-taxi service in Houston, nationwide"
     excerpt: "HOUSTON - Two weeks after launching services in Houston, Cruise suspended its self-driving vehicle operations nationwide."
     publishedDateTime: 2023-10-28T03:25:00Z
@@ -143,6 +135,6 @@ related:
       domain: detroitnews.com
     quality: 0
 
-secured: "79urSJDoUazVy7eu8+bCAi1B+c/RI5WX6ZJhpnao9BbyvGeGShFOUI6UIiv6eBVOkPs9N/vEHhlAN0/Xj0BI7LrQUr9s7E1rqBt+u4K72ZmsumiVVLWOOw9Fb4lVl7kBXI+c/A+LOTnbqXvzOPrGFmZXK33ioqMwD2m+bxPIhuVnugE31+//I/BzxDGOb5sJg1RoR8LdeuDSra+1VCe2k7eVQfiiYFtJ7dkKSDpQJVzcugx4Yefmw+66XqEtc8tob/d1rysIS/g6tNM9DwOrB2Vsm7OKmizPY7MKjcKtGUGa3XiWzTy8DFtBYsOs4uQfPZKOBN5/Aprbt0JfwQrRp+iAU2tRluOKFyfz9mKVWEc=;smNXjnAoOxPUIr3N4LKHJA=="
+secured: "/BeWVUXZFVNq+DBbXWvoAiXg1RMm4qExngx4dNXlUIvxolIWUblXM4WpCZO8aqkei9zyG0T2Qjjb5/OeIPw7i7CblXJj1nTHfdV97WkuiUWMGlJM1c3d4zE6yXHcJKRxdoAdDs9yoBeDY8WuHJ/CsAWmVvhWJEUhCGY/ZxvRndK2L1FLvhygrdgCf3uWhAmNcge6JSNpgXIw/YdR+2AGqXgw+36TgrxMAPHZovZOT9SGLzVjI5CwBl8up4FK5ECnAo80AvoFPb+U2p59PS9pXl8uNERPmtoZVF5lCtfVdjqGP92fus+LoT54hxcQ0av7lV7SATdYNYb9piqVduZjA/Fp0w0kqqdH6/op97cw4m8=;xjyfliFlAFR0sv8A6yYYkg=="
 ---
 

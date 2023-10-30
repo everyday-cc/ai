@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtontimes.com/news/2023/oct/30/artificial-intell
 webUrl: "https://www.washingtontimes.com/news/2023/oct/30/artificial-intelligence-executive-order-from-biden/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,31 @@ images:
     height: 700
     isCached: true
 
-secured: "2uPZc3RlozBd+WM8M2/lpLIVpcoEQwKSooY5CHmJGpw0/vDRsyPaQQAnJuKsN6/a46aiogyyve4VuDrGe7UIzP+aKvNeRaxjjtYNsY+z9GMuvcgpR+4LTv5twNN7faeescKWwhXJ8S5WhRv4PNIrYDR1rE2uh4GnJh3aE8S13xoaaA4F5BFWplZDItOzHVuYDcqw5BBNwxmUKFcsv7YRXKAN4LA7ehLe1vXJ6v7DScXzDHhu+x8FDBm/SbJH5vuqYX0M098fCRuus35hemtBzckiWL5oDd9mZ2i0xROkF7srj+tqdvHjBkvVp2x22zopx8wRkXyW9PHzOSIsFK3zz3d6C/TAi32nRfoL+wRNvrI=;FT9JGRuXZIw+pJNo6RAxlw=="
+related:
+  - title: "Biden to Issue First Regulations on Artificial Intelligence Systems"
+    excerpt: "In an order to be issued on Monday, the White House will outline requirements that the most advanced A.I. products be tested to assure they cannot be used to produce weapons, among other regulations."
+    publishedDateTime: 2023-10-30T06:59:00Z
+    webUrl: "https://www.nytimes.com/2023/10/30/us/politics/biden-artificial-intelligence.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 67
+    images:
+      - url: "https://static01.nyt.com/images/2023/10/29/multimedia/29dc-Biden-ai-qkhj/29dc-Biden-ai-qkhj-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Ex-Judge Urges US Courts to Change Rules on AI Evidence"
+    excerpt: "A former federal judge is urging a change to the federal rules of evidence that would allow courts to weigh whether evidence is the product of generative artificial intelligence."
+    publishedDateTime: 2023-10-27T19:37:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-10-27/ex-judge-urges-us-courts-to-change-rules-on-ai-evidence"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+
+secured: "nsejiRLNiItMxebXoX4KhrhcNo4AwkHqKUAaCYJu2gS65+SHZxKfNMDM/eLvHCSGXqwoAGZuwxxkt6iC0z4fy7vGU2XNtuP2xcybBJMe/gIEpqhjm8qkoVxhHJInJLv+WL25f29NAW8iLRf2J0sKaLsEr/XXpiSChvfUvmyeb8DmNOHZaEUpDX2qhC+tLa+fS8epNvC2XugX6JM3mOSFp5TvsbHkWAyoO7LYXF6E4vEAmCGo6ZkzHXtOxabJTN21sfTSTjj0Y4RutEqnzCaW8uR/FXrWlvtHq2U5vYph7MAdnPIb5GmIb0ka/OyP6ICaLy9WL1yUu2xzPW3pyemvzrvEFBUofNI4vztW1tQrsnk52CuTLSntbE165ErMf+CViR0DZZkjocmRJykdTgJR0SKFVcdOsjZdQX9sEdC2/PmK0w0yiBQ/mVLXFaEbpFBZVyPHtaS37oGOv9H50RzQVty5hR6CmwPTRUpX88szOdrPJcg2AhPkQtr7mtKl8P7wYwE0D4HOKlTkNhvFEOkSaw==;79scuhMyEjPG7RDYrDptBA=="
 ---
 

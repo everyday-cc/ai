@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/pigeons-mirror-ai-learning-patterns-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pigeons-mirror-ai-learning-patterns-researchers-say-2023-10?amp"
 type: article
 quality: 87
-heat: 109
+heat: 107
 published: true
 
 provider:

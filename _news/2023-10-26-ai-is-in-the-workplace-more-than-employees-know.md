@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The employees secretly using AI at work"
-    excerpt: "Some employers are either tacitly or outright banning access to generative AI tools like ChatGPT. But employees who love them are finding ways to discreetly backchannel."
-    publishedDateTime: 2023-10-25T14:49:00Z
-    webUrl: "https://www.bbc.co.uk/worklife/article/20231017-the-employees-secretly-using-ai-at-work"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
 
 secured: "7iLZ5EizO/cdnLOQI3vRfNclMnlXrhkVUTCso0reKlFOzUluQcivgh4sm0u8e+CeR64vAwx9FSF8Wk6K0XMnbLiHpPKO+FXyafdyb+1aUUIzhXuXtorHPzLcFU8sRQpmibWTRXPoCWjIyV6VBZpqAOFd0W0prGJpcPFo6ims2mbyXkCf1Y8U7/pPzBwOAfRC8YZv3Zrfl1Gr5p28zAMMtCJWbWdQP+hM1OItpaKvu2lKB9VBMJe6rZqnzN7kX3cmDeBiVB4+L/LI2PnIWNhKQ0yyce5OiWFtrvCbWzuploRPjoqy7mMkXxspQrY5Nos/hw8rXDbY7fzm8sBjNOR5+P0NKciKEp2ir2K1JXvBNAUajghe0WfwEbZMDR6H2q8kEyRVnVLY0QYn7Cq5hOpM06rGbUnx0Bk31NdigRwhivKPpjHoc+/RK2BHd6ck8rAStqvtXt+linPI0ZIm2PMHa6PzVvJk8BVCpleoq+Hqy+64bzNrIPHqu7dSwrwhyWSZ4kb2pc/qF81g2UgYdNgPJA==;5wPyh0Yy3mabcFDqn7Kx2Q=="
 ---

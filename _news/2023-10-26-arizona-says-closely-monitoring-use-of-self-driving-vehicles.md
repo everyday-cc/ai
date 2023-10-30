@@ -33,15 +33,6 @@ related:
         width: 645
         height: 363
         isCached: true
-  - title: "Dubai tests self-driving electric robots to clean up beaches"
-    excerpt: "Dubai is testing the use of self-driving electric robot vehicles to clean beaches in the city. Dubai Municipality initiated the testing phase of a self-driving electric vehicle dedicated to cleaning bicycle routes along the beaches of Jumeirah and Umm Suqeim."
-    publishedDateTime: 2023-10-25T13:36:00Z
-    webUrl: "https://www.arabianbusiness.com/culture-society/dubai-tests-self-driving-electric-robots-to-clean-up-beaches"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
 
 secured: "1hx14FmQzzpTsrTvsVaBNksImJECZTojXFamQgAnb4I0RQi71lco1hvtUVhQg002eLalPWMNjdfLJgm01Bzw+iwyXerasXCG7fo9Q49pyJH7S0hJdDJcp1EXqJqRGDtvNOu8+P0Z5OFNvYX140dyu/J0tAnTCP1YnYbVuvhW5OxMy9a+kZdC5dmlzrVTWBjX+9AnQVk77+/WwjAO6TXjSWY5kuyMpz0YDW9KiN/6zoQLRqGRtwZAdNW5pqLgxmFM+hDRLuX1dbMlBezdJNO+rHz16HTCegvuy5wuauHs+Uil216v60awrwlS59FoTQOvQiSyo+Av88e1zbCRquZQl/EIZd7S5qGMVPmnPZet5RD5D7iXJVMU9RGPeMysvY/6v753dhTdGQjRPsPxLkgP6djjx5WNTMswDmHb4k3Bah08ip97pXZP5l0QNLggMnJk6nGu6WMlCPZWjHBmzDc+9isU+SINuHdjsgud5Mpq6EPpgcVKdSXtmUGbSZdzKVQFDHDkmK17jH4c0CLrAeOD/w==;5DqrPoQjZd4N4bOYnftWUA=="
 ---

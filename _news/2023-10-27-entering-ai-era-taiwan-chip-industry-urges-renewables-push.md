@@ -3,8 +3,8 @@ category: news
 title: "Entering AI era, Taiwan chip industry urges renewables push"
 excerpt: "Taiwan's chip industry is ready to work with the government to achieve its 2050 net-zero goal but development of renewable energy sources needs to be hastened as demand for artificial intelligence booms,"
 publishedDateTime: 2023-10-27T08:35:00Z
-originalUrl: "https://www.reuters.com/article/taiwan-chips/entering-ai-era-taiwan-chip-industry-urges-speeding-up-renewables-push-idUSKBN31R0J7"
-webUrl: "https://www.reuters.com/article/taiwan-chips/entering-ai-era-taiwan-chip-industry-urges-speeding-up-renewables-push-idUSKBN31R0J7"
+originalUrl: "https://www.reuters.com/article/taiwan-chips/update-1-taiwan-chip-industry-pushes-government-to-speed-up-renewables-idUSL1N3BX0EN"
+webUrl: "https://www.reuters.com/article/taiwan-chips/update-1-taiwan-chip-industry-pushes-government-to-speed-up-renewables-idUSL1N3BX0EN"
 type: article
 quality: 84
 heat: 84
@@ -28,6 +28,6 @@ images:
     height: 628
     isCached: true
 
-secured: "4Db21ON74fYDw1V1lspR99Knj91C9O3arjBwyqZx3ZMUyZhlGEuBGRrb5bmuFVq4VXuHvgfncMoLmCNUP3TtgwF6+1yXrM4Hd1TUMJ5wjaEyNKFYyzQbyP7tmEpTphcrUwp8OXl5rQ8Vc76U02ONTKc9PvqgD2z8w/Ehhpqr/4wSZsZhxKVZCnJEjYQLeHYrOEcWNtJBI+cMtFLZqFRX3fzsLmoBODIdV/46NFpl75bbsMkiPCrIT1tyD6JzJ5GTUJewBtiJqhokqrY6PtXjN767ILQ2/dcAZ93RHluYM/X3BLgdmUKrYvdoIAVWflg+eULB8Z++X03dxKZRBMiy3SVqxsj6UnScJFOmxmPtPsUYHyMKTTexD6ET+3Uz7Lme70oE343F6vm/cDyIlqSUMbqzI+g4OIQHn7QuKwIxkRkEqtnA95t0Z3cc38o0jzJrIjwfWzcOct4QFLQBbiN34IyVWTTAobsHydv4YSpt56cGPXcXyKC5PFywRHB7U+j105ij2cKv4MJ6VtzRPIu5tg==;aaojAOrPMhWbg7jnZgzhgQ=="
+secured: "n9SjiNPcDkunoifv/J6reLQu3g9Ybxi3i/LBRTCxActC2SOwR1wJhrkxj0Y6mZ+3a0hOJe+aqTsGhMxkYt/5VuX1yA0ykMHzKh6X9a7gIsXA78m+TzEf9Q2o5aC1PQQaV+bV3qz5EiF81Xk3eQzp9y3sc7TxZTGXvhSAy7PO5Lv7+/OfFZVGBBqnqydtBah452kP8pUBypJQLGPRvv2tTSJUKSfzoykQaTkVjTHAEplgHZajS6Hy7RcGxwF3ajhH0loIUJ1Tgwv56me0tMKm8OFTMSIRo5/R67LgCRK9uFBRYhHD5eoeifNMfg347065xipL2hgCeF8mKcOYRqKvHrJvKnc2uM6X59R1Dkkc8Tc=;3uxxIE8VCGKZTviR6YslTw=="
 ---
 

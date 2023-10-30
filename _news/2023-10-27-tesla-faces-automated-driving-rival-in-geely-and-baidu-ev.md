@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-10-27/tesla-faces-sel
 webUrl: "https://www.bloomberg.com/news/articles/2023-10-27/tesla-faces-self-driving-challenger-as-geely-and-baidu-launch-ev"
 type: article
 quality: 64
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -64,6 +64,20 @@ related:
       - url: "https://img.futurecar.com/202310/27/l_653be6237402b."
         width: 512
         height: 512
+        isCached: true
+  - title: "Robocar Brand Under Geely, Baidu Launches First EV Series to Rival Tesla’s Model Y"
+    excerpt: "(Yicai) Oct. 30 -- The high-end intelligent robocar brand co-launched by Chinese auto giant Zhejiang Geely Holding Group and internet giant Baidu has released its electric vehicle series, which will compete with Tesla’s sports utility vehicle Model Y."
+    publishedDateTime: 2023-10-30T06:36:00Z
+    webUrl: "https://www.yicaiglobal.com/news/robocar-brand-under-geely-baidu-launches-first-ev-series-to-rival-teslas-model-y"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 48
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/10/37513800389317.jpg"
+        width: 770
+        height: 510
         isCached: true
   - title: "Baidu and Geely’s Collaborative Electric SUV, JiYue 01 has an Impressive 720 km Range"
     excerpt: "Geely owns 65% of Jiyue Automotive, focused on car assembly, while Baidu holds the remaining 35% of the company"

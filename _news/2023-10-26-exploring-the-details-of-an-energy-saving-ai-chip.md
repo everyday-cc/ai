@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
       name: marketscale
       domain: marketscale.com
     quality: 34
+  - title: "How AI is Reducing the Devastating Effects of Wildfires Across the Globe"
+    excerpt: "AI is already proving itself a strong ally in the fight against wildfires, and it can strongly aid the efforts of agencies and firefighters."
+    publishedDateTime: 2023-10-30T07:39:00Z
+    webUrl: "https://www.techopedia.com/ai-and-wildfires"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 16
 
 secured: "rfETqbwxwqmK8RVK826/zeY44IQy69kSIY9AAqMmfGGeIX3Fd8BjowP0ueYyo5IzefS9T9OhEM174ywEDd67WVU6/VfrQgbgOxZ9SM9e1ZAcwdEn8BzfmotKH4bd3CrUN477KPstQInK+5GgS6xtbymcvbBkDAcFT3xS5b/SH10LC8YX3WlzGOxrMtHJgoTerQMYvU96tfVCW2Na2gVSQDxeI3bT5vaZ01FfoNPcg5DwNA+LPvoBLnbPsdsJN7SQ/MZ3m5R9Ar3UaVyzqHYhde/NarpHhNc3ltDSwLakYdYNgMNSXjwI0VhLVFpZFEBPjeOyYBv7a2XaRIex2cZyA6TNSvpLB1CZn9nh3HMR8CobZs7loBebLfeNxdujHNfVrbfHEI1x3ZO6M7Qn7gUks3ZIVSH4Y0m3hQtjzlHhwaugILLrgW/STen7FGAzWTcHufTXu8vX3/0L9R9McGb06q1XIiuG2T7X6TgR8gTmFrd1fo3LQFA/kIH7kobByat8dh/jOKrGC0HhBLehUFW+aA==;u2pS44TVffOMwSgHONuaDg=="
 ---

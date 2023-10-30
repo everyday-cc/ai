@@ -105,20 +105,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "UK launches facial recognition drive against shoplifters"
-    excerpt: "On Monday, the country’s police authorities and representatives of 13 of the UK’s biggest retailers announced the Retail Crime Action Plan."
-    publishedDateTime: 2023-10-25T14:20:00Z
-    webUrl: "https://www.biometricupdate.com/202310/uk-launches-facial-recognition-drive-against-shoplifters"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/06154234/walmart-cctv-facial-recognition-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Travel industry adoption of facial recognition grows"
     excerpt: "Travelers are most likely to be among the first to experience the mass worldwide commercial deployment of facial recognition."
     publishedDateTime: 2023-10-25T15:26:00Z

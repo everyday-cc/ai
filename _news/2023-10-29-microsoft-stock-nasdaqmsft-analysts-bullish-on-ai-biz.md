@@ -43,22 +43,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "Microsoft Leads Alphabet In The Race To Monetize Generative AI"
-    excerpt: "Why the different trajectories of these stocks? Nearly a year after Microsoft launched ChatGPT, the answer is in the cloud."
-    publishedDateTime: 2023-10-25T13:43:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/10/25/microsoft-leads-alphabet-in-the-race-to-monetize-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/10/25/microsoft-leads-alphabet-in-the-race-to-monetize-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/10/25/microsoft-leads-alphabet-in-the-race-to-monetize-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6538bd6db32724b8cff0ecd5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1302
-        height: 900
-        isCached: true
   - title: "AWS Q3 Earnings Preview: From Sales Growth, AI To Microsoft"
     excerpt: "AWS earnings report for Q3 2023 will unveil cloud sales growth, AI wins, Amazon investments and potentially Microsoft discussions. Here’s what to watch for."
     publishedDateTime: 2023-10-25T15:34:00Z
@@ -133,20 +117,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
-    excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
-    publishedDateTime: 2023-10-25T14:58:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 69
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEwXC9NaWNyb3NvZnQtbG9nb182NTM5M2JkMjZkNzFhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Copilot is ready for takeoff: Microsoft rolls out artificial intelligence for Windows"
     excerpt: "AI is coming to Windows environments — which can be a big asset when implemented correctly and a security nightmare when it’s not."
     publishedDateTime: 2023-10-26T09:00:00Z
@@ -163,15 +133,6 @@ related:
         width: 1024
         height: 580
         isCached: true
-  - title: "Microsoft Leading Alphabet In Race To Monetize Generative AI"
-    excerpt: "Microsoft’s early lead over Alphabet in Generative AI is paying off. How so? After the two tech giants reported third quarter results Tuesday, Microsoft stock rose 6% while Alphabet shares eased 7% in after-hours trading."
-    publishedDateTime: 2023-10-25T13:43:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/10/25/microsoft-leading-alphabet-in-race-to-monetize-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Despite the AI hype, Amazon, Microsoft, and Google are seeing cloud growth rates stall as customers try to cut costs"
     excerpt: "Cloud customers are still scrutinizing budgets amid an uncertain economic environment."
     publishedDateTime: 2023-10-26T22:39:00Z
@@ -199,20 +160,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/abWCpt2hk3hsHtTKvRaXH7-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "What Microsoft’s earnings tell us about AI and cloud trends"
-    excerpt: "The tech giant's latest earnings report is \"front and center for tech investors across the Street,\" according to Wedbush analyst Dan Ives."
-    publishedDateTime: 2023-10-25T14:05:00Z
-    webUrl: "https://www.aol.com/microsoft-earnings-tell-us-ai-110458906.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/sJn85qp4OTjArDUYMdUjqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/da9cda8b16214e8c13a01c13ac5c093b"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Is Microsoft the Best AI Growth Stock To Buy Now?"
     excerpt: "Real-time index price for PHLX Swiss Franc (XDS), along with buy or sell indicators, analysis, charts, historical performance, news and more"

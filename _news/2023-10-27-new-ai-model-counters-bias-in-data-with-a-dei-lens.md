@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/elijahclark/2023/10/27/new-ai-model-cou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/10/27/new-ai-model-counters-bias-in-data-with-a-dei-lens/amp/"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -28,6 +28,24 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "How New AI Model Counters Bias Providing An Equitable Future For All"
+    excerpt: "AI has significantly impacted the last few years. Latimer aims to enhance the AI user experience by fostering a racially inclusive LLM environment."
+    publishedDateTime: 2023-10-30T06:35:00Z
+    webUrl: "https://www.forbes.com/sites/kalinabryant/2023/10/30/how-new-ai-model-counters-bias-providing-an-equitable-future-for-all/"
+    ampWebUrl: "https://www.forbes.com/sites/kalinabryant/2023/10/30/how-new-ai-model-counters-bias-providing-an-equitable-future-for-all/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/10/30/how-new-ai-model-counters-bias-providing-an-equitable-future-for-all/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653f4d51ab9ef861710efb85/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 794
+        isCached: true
 
 secured: "/6L9cU0kkRCKLwbgkE+/daQGyBlbbgYFcLknqPvZRWQMGhJ9gZu0wyCm/e1UCWhjOloYQtn6zxR1nuwbh6zygRwmIf+A+Lh7v6fSe2Kb+JSMU5qLtTdk2hX/0vj0vfGQZtiq0fLpK8cArq670ODtqrlMW0ra/nY/IOYtpVk3X35coK/G0NAcRo/zBDxQtT9D4dH63IlFtoy6gRaWcWagCNezVI+QftuiXGmowg0vj9EYMejh9Y4oRVYc3etckS5wVYf0IMnDVepOSmThrIoMC/DY73b1tH9FM8GmIcEoU2EuPXDiQgJCRbtbe102BdOmFOgy1ZHympkqxYvDGdcBH3tI8y4sKPSfwUE+7kKVbSM=;fcf+Fsos3gbaL5wadZG94A=="
 ---

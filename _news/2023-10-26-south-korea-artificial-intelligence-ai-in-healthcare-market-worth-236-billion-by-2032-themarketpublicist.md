@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107307150/South-Korea-Artificial-Intelligence-
 webUrl: "https://menafn.com/1107307150/South-Korea-Artificial-Intelligence-AI-In-Healthcare-Market-Worth-236-Billion-By-2032-Themarketpublicist"
 type: article
 quality: 50
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 9
-  - title: "Automatic Content Recognition Market Soars to US$ 2 Billion in 2021; Projected to Reach US$ 7.9 Billion by 2032"
-    excerpt: "According to a newly released Future Market Insights study, the Automatic Content Recognition sales were expected to be US$ 2 Bn in 2021 and are projected to increase at a CAGR of 13.1% from 2022 to 2032."
-    publishedDateTime: 2023-10-25T13:38:00Z
-    webUrl: "https://www.fmiblog.com/2023/10/25/automatic-content-recognition-market-soars-to-us-2-billion-in-2021-projected-to-reach-us-7-9-billion-by-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "7yJJuFhFvOmO51j68lB3Fm1ENGi/WT7i7TjV+TnV9gZDlOHG+dCmA8bLM82j5FOd+lqR0no6Wnu+hIDnaiip6rBbb13p1O2eHqnCHzdgipZZ2k77sKVLkSgxy72poguohcNA/mcyCSTnebCrHSgxRO5lK98aKkIz3HAd7FhCV2v4RR/CN7ByfCRj4HR7O+jb643dUczuqX7j6IN4EES4wnt3Ai4ahruM8rGJteAfsheRf/K1EIKXYpFnVTD1Gce9OcqIWlM9GMWb2bcamTZzD9r0VYqffXAiI2z160diriLRvpQGf/3ISOOESTTOx0ro2MYFbt203g9Wu0FglQ6ofhZdkUIsFMxuWWBL57Q7lRc=;SmgGXalBUkMqawBdEhMdPg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/ewanspence/2023/10/27/android-headlines
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/27/android-headlines-galaxy-s24-pixel-8-pro-qualcomm-snapdragon-dimensity-xiaomi-honor-whatsapp/amp/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Dominates Qualcomm Snapdragon Summit With New Snapdragon Products"
-    excerpt: "Principal Analyst, Mobility & VR, Anshel Sag analyzes the Snapdragon 8 Gen 3 and Snapdragon X Elite SoCs and predicts their impact on AI-driven mobile devices and PCs."
-    publishedDateTime: 2023-10-25T14:20:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65391570e04d1bf71ad7c828/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 936
-        height: 560
-        isCached: true
   - title: "Qualcomm’s Snapdragon 8 Gen 3 Wants to Compete for AI Dominance on Android"
     excerpt: "Everything Qualcomm’s offering, including a new Snapdragon X Elite chip for PCs, is centered around artificial intelligence and beating both Apple and Google."
     publishedDateTime: 2023-10-27T20:49:00Z
@@ -60,15 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Qualcomm Claims Snapdragon X Elite Platform for Windows PCs Will Rival Apple Chips"
-    excerpt: "Generative AI workloads will be able to run on-chip in the Snapdragon X Elite. Qualcomm claims the platform beats Apple's M2 Max chip."
-    publishedDateTime: 2023-10-26T19:30:00Z
-    webUrl: "https://www.techrepublic.com/article/qualcomm-snapdragon-x-elite-processor/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 58
 
 secured: "HkkHNd4EeC1HvUbx7/cyXfY33G8zmyzn80+cAdljqFrkSRUs9BmvYPZxZO0Mp0anD/OIbyfv6i1798prvQ38q9sdGTR6Ka2swbZA1e40RoYaHHl3aDKoY59mZkhvlnittb0fZFlAjWsEOaW7ovKBn5PFhBWFftnE2Dzq1/PzOS7svPEHDmLVJfb522AnMz/0APYhxqf3RAO+t/+HKFJ+XYtVWyFvzukfBsfufvx8O9YbK6dtI4MCJlpJSxzZWcE5K11AaM7x6ZSAV+nTWrCjw2qz/rpkMlA72MRDK/fL5DNKR3qsUoCWwgOuxuSmAiBOc0KVD1fZFaymGOq4AJOh501M8bSVlKY6aNhvJioHVwyxqKRBG5YpUyrMr/EizAOLgEoBQS0z9BBpZO3ck9bgKDNr19EpPsSITnXAqdsh+E/EaDBGKEIzpTn1uySwX611MigisD3hfxKqkVUmXMFZ8JN+AEipsJgrpKzmw1ZDA89/BJ34sqNs+NkGSZ/YO2p+YqalExNsP7MpubyNNixd0g==;KC7Wl+nrQCuhYjC4xClWVQ=="
 ---

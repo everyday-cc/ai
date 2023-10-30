@@ -74,6 +74,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Robocar Brand Under Geely, Baidu Launches First EV Series to Rival Tesla’s Model Y"
+    excerpt: "(Yicai) Oct. 30 -- The high-end intelligent robocar brand co-launched by Chinese auto giant Zhejiang Geely Holding Group and internet giant Baidu has released its electric vehicle series, which will compete with Tesla’s sports utility vehicle Model Y."
+    publishedDateTime: 2023-10-30T06:36:00Z
+    webUrl: "https://www.yicaiglobal.com/news/robocar-brand-under-geely-baidu-launches-first-ev-series-to-rival-teslas-model-y"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 48
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/10/37513800389317.jpg"
+        width: 770
+        height: 510
+        isCached: true
   - title: "Baidu and Geely's Self-Driving EV Delivery Begins"
     excerpt: "Baidu and Geely's joint venture has started delivering a self-driving electric vehicle (EV) to compete with Tesla's Model Y in China's market. The JiYue 01 SUV, priced from 249,000 yuan to 339,900 yuan,"
     publishedDateTime: 2023-10-27T23:28:00Z

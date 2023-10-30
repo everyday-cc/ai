@@ -62,15 +62,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 9
-  - title: "Automatic Content Recognition Market Soars to US$ 2 Billion in 2021; Projected to Reach US$ 7.9 Billion by 2032"
-    excerpt: "According to a newly released Future Market Insights study, the Automatic Content Recognition sales were expected to be US$ 2 Bn in 2021 and are projected to increase at a CAGR of 13.1% from 2022 to 2032."
-    publishedDateTime: 2023-10-25T13:38:00Z
-    webUrl: "https://www.fmiblog.com/2023/10/25/automatic-content-recognition-market-soars-to-us-2-billion-in-2021-projected-to-reach-us-7-9-billion-by-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "1OX0fH6tvVTF8C8Z1RJnD25nEnHXLtwcnKWCRIYdE8pm6sVcDrG9S1jPf0xZ1TPe9E0enWwF1O75EA7s2uLtbyM8brcWnTr4dqbTXS1j8+Iz8v2xgx2wcH0bwPeHBPo9HjISsjCigbNN+a/sJCDJ08SLPbepEb8m3GffBJho7B5qge/C64Mpa4dDCYRzwAIU4UIf7RaWyNe+TH2mzhAeNyCsVJ3y8sXEopeRjNT7p9PDGJ0pEf6Cxtv0EEyxLXwS8fsOPd7tyc1LenO3z0m7w0LPydnV7n/GRtfY0aB80m0RZiYY5bI2yopvA+9ihU9r6DRHNriJADe3/1vLeXIjiBcow1Olx8cx2TfIjFdxcmM=;INqO/cxzuZHaZwn64m/9Ig=="
 ---

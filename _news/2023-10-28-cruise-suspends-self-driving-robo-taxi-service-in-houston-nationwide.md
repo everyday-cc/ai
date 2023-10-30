@@ -37,6 +37,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Where's AI steering driverless cars?"
+    excerpt: "GM's Cruise taxis were banned from California roads after the state said the driverless car company misrepresented safety data."
+    publishedDateTime: 2023-10-27T23:25:00Z
+    webUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 54
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/10/GettyImages-1626054002-e1698443650973.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "GM Cruise Unit Suspends All Driverless Operations After California Ban"
     excerpt: "A Cruise self-driving car, which is owned by General Motors Corp, is seen outside the company’s headquarters in San Francisco where it does most of its testing, in California, U.S., September 26, 2018. REUTERS/Heather Somerville/File photo Reuters"
     publishedDateTime: 2023-10-26T20:38:00Z
@@ -83,29 +97,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Regulators Suspend Cruise's Driverless Taxis From Operating In San Francisco"
-    excerpt: "Driving Taxis The Department of Motor Vehicles has suspended permits that allowed robo-taxi company Cruise to operate in San Francisco. That comes after an incident earlier this month, in which one of the company's fully driverless vehicles hit and dragged a pedestrian."
-    publishedDateTime: 2023-10-25T14:12:00Z
-    webUrl: "https://www.kqed.org/news/11965519/regulators-suspend-cruises-driverless-taxis-from-operating-in-san-francisco"
-    type: article
-    provider:
-      name: KQED
-      domain: kqed.org
-    quality: 36
-    images:
-      - url: "https://ww2.kqed.org/app/uploads/sites/10/2023/08/GettyImages-1556779132-1020x680.jpg"
-        width: 1020
-        height: 680
-        isCached: true
-  - title: "Where's AI steering driverless cars?"
-    excerpt: "GM's Cruise taxis were banned from California roads after the state said the driverless car company misrepresented safety data."
-    publishedDateTime: 2023-10-27T23:25:00Z
-    webUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/?ref=biztoc.com"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 34
   - title: "California DMV suspends permits for Cruise’s self-driving robotaxis"
     excerpt: "California's DMV has suspended GM's permit for AV deployment and testing, alleging the company has \"misrepresented\" the technology's safety"
     publishedDateTime: 2023-10-25T18:15:00Z

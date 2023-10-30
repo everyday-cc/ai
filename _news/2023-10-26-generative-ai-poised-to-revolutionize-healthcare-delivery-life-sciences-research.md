@@ -168,20 +168,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "SAP Makes Generative AI Customer Experience Integration Play"
-    excerpt: "SAP expands its CX suite with AI tools, aiming to streamline customer interactions and emphasizing data security."
-    publishedDateTime: 2023-10-25T14:59:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/sap-makes-generative-ai-customer-experience-integration-play/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 39
-    images:
-      - url: "https://www.cmswire.com/-/media/2e820f87eac14eb4a7774358e9833d68.ashx"
-        width: 640
-        height: 480
-        isCached: true
   - title: "How artificial intelligence is shaping the college application process"
     excerpt: "College admissions are facing a new challenge in the form of generative AI in the college application process. How are universities dealing with this?"
     publishedDateTime: 2023-10-26T06:06:00Z

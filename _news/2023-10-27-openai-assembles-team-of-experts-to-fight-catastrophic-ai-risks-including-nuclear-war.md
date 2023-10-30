@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/openai-assembles-team-of-experts-to-
 webUrl: "https://www.zdnet.com/article/openai-assembles-team-of-experts-to-fight-catastrophic-ai-risks-including-nuclear-war/"
 type: article
 quality: 60
-heat: 70
+heat: 72
 published: true
 
 provider:

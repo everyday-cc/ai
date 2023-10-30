@@ -25,17 +25,6 @@ images:
     height: 512
     isCached: true
 
-related:
-  - title: "Veracode Reveals Automation and Training Are Key Drivers of Software Security for Financial Services"
-    excerpt: "The Power of AI and Machine Learning The State of Software Security report also analyzed language preference by vertical and found, at 51 percent, Java is almost a de facto standard within the Financial Services sector. Veracode Fix, an AI-powered ..."
-    publishedDateTime: 2023-10-25T13:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
-
 secured: "mgmYtztyZd8Cn4R+tefJhA7Yqspjq6CXyRWcg9i255JUA1vGkRGU/zmwYTQKrP6AcSbYS9R0qtxRxQXxea520XNVXnq4Tm0mKxHTWAwLNBwG82P+gpszz4ChAW/JuhCfnSgLD1DLwHvRf3BeUAq7ZDBhMTwGXVkJxDQTmra+1J1wGE5MvYfX2pvpahIsHX7DJ380dcHlNvmHw5dWu99dOj7fXFiswnxp8SpKiCmZKm9kZkkgD2OJnM60Dr+liQ8pMbtXTuIhSa9WY2LTWgo8xYt7gMUrG7ywU5RUlJUuAIY9OmU47S7aSB08E3CIG/RFmI8iG3n6Bv/TaOt6XFS5HdoPy411XJYnZghcdZkWn5MdagZ4m+ycmweB+ajAiRI1zEqRv05tjqMc4fZYjeQtXpma8oggUSWl57FXJxAiVhdoPKVMXmCWOOCQnQyk4efexNqFbOUYAqUML2xwjkgxDhCGpo7yET9FH8E5tTQ3cRN8+WjnWxInvR4+2NEkdu1k9T0l03WIB0IJOA9AzS1eXA==;4E5KRfNHlI2mEbq+gRGHpw=="
 ---
 

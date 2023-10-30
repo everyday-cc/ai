@@ -63,6 +63,15 @@ related:
         width: 498
         height: 259
         isCached: true
+  - title: "How AI is Reducing the Devastating Effects of Wildfires Across the Globe"
+    excerpt: "AI is already proving itself a strong ally in the fight against wildfires, and it can strongly aid the efforts of agencies and firefighters."
+    publishedDateTime: 2023-10-30T07:39:00Z
+    webUrl: "https://www.techopedia.com/ai-and-wildfires"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 16
 
 secured: "cA5IZcrIroei1u4QCNwsXOhKxly/3Nt1y/mkK1VjARBJS78SP8xoBWQQtr7uhD5Fm+H+Kr/zqVkIY3skq9lgHSN/0IceQIHGjwjaEpuDe6ubvZIbfbRMZv2j5hH02Eo+6X3W7yq4TSw+p7S2nzINqU7S9n/G9/veo6BFY5UQktWqb97Tj4Raza3Q1xu9AZQlOzAtbKMbe0zlZ/TAfw6yY+xNMz0N5TAIWavj0wO+0dpQpuF3VumKopJOalNiGk2Go7Y9zeg8gbU2d7Zx+MbAbwwWW7MyBT5lCPy6a9jWLKREHejMRRnnJaWN+izbsVeJivJDUQwTdtTuPIM63HbB/Rqy9hvh13ezdWaFQwNRrNY=;7Fr1TImfWkQd8jW/hCtezg=="
 ---

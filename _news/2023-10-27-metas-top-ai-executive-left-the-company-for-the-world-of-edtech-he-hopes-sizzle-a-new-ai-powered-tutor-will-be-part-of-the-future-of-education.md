@@ -7,7 +7,7 @@ originalUrl: "https://fortune.com/education/articles/jerome-pesenti-former-meta-
 webUrl: "https://fortune.com/education/articles/jerome-pesenti-former-meta-head-of-ai-sizzle-tutor/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1500
     height: 1000
     isCached: true
+
+related:
+  - title: "artificial intelligence market in the education sector"
+    excerpt: "2U Inc: The company offers artificial intelligence in the education sector through its subsidiary Querium. Alphabet Inc: The company offers artificial intelligence in the education sector such as iSchoolConnect. Century Tech Ltd: The company offers artificial intelligence in the education sector such as Century AI."
+    publishedDateTime: 2023-10-30T07:37:00Z
+    webUrl: "https://menafn.com/1107327112/Artificial-Intelligence-Market-In-The-Education-Sector-To-Grow-By-USD-110-Billion-From-2022-To-2027-2U-Inc-Alphabet-Inc-Amazon-Inc-Brainly-Carnegie-Learning-Inc-And-More-Among-The-Key-Companies-In-The-Market-Technavio"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?342612"
+        width: 444
+        height: 250
+        isCached: true
 
 secured: "RS9iPi/bEkwsfQCobtX+IcUlqoJqYxvWFU3tEllYoyueciRBepl4TZkpCftNnAArJ/Z9vUqt9hRsWPnQq336TdO3ENX6qaMTPnGVIT55UpHSZiwclgP6aYAsyjYtiDb5IrZsOYyvJ5OwS4viagIj92D/Ixu/6sPb79oGnT3XV7CuEICJlfIcuPjgDgdR3GgOsXUSRIq/xKsBjBoCCmj6JsywQ/eFSrb30djyOAQHquQBI4KdCCAEwTJfzRZB3KZyU9SVvdKBYlcLJ6j1EpTjht0nJG4pE70fWLT7Lnfl7Jvf/VyisJvyxcU53mZiO9Okn1R7ppx/UtTVG4oQ04I3OnQwK33w6InC+v2BPLR1l0Y=;GaUuB6nhmOjROnDzP5Riyg=="
 ---

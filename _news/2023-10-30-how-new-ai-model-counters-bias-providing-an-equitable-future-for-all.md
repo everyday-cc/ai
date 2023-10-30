@@ -1,0 +1,53 @@
+---
+category: news
+title: "How New AI Model Counters Bias Providing An Equitable Future For All"
+excerpt: "AI has significantly impacted the last few years. Latimer aims to enhance the AI user experience by fostering a racially inclusive LLM environment."
+publishedDateTime: 2023-10-30T06:35:00Z
+originalUrl: "https://www.forbes.com/sites/kalinabryant/2023/10/30/how-new-ai-model-counters-bias-providing-an-equitable-future-for-all/"
+webUrl: "https://www.forbes.com/sites/kalinabryant/2023/10/30/how-new-ai-model-counters-bias-providing-an-equitable-future-for-all/"
+ampWebUrl: "https://www.forbes.com/sites/kalinabryant/2023/10/30/how-new-ai-model-counters-bias-providing-an-equitable-future-for-all/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/10/30/how-new-ai-model-counters-bias-providing-an-equitable-future-for-all/amp/"
+type: article
+quality: 89
+heat: 99
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/653f4d51ab9ef861710efb85/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1600
+    height: 794
+    isCached: true
+
+related:
+  - title: "New AI Model Counters Bias In Data With A DEI Lens"
+    excerpt: "From generating text that furthers stereotypes to producing discriminatory facial recognition results, biased AI poses ethical and social challenges that can't be"
+    publishedDateTime: 2023-10-27T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/elijahclark/2023/10/27/new-ai-model-counters-bias-in-data-with-a-dei-lens/"
+    ampWebUrl: "https://www.forbes.com/sites/elijahclark/2023/10/27/new-ai-model-counters-bias-in-data-with-a-dei-lens/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/10/27/new-ai-model-counters-bias-in-data-with-a-dei-lens/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653b40a693d88b03ca52fe2e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+
+secured: "Wp5WBENxqRL8NUQjk+ClLsMg2W1BuKO/W7tVsumE8QZKSG3lUjCFHQhh4jeA0bZsypfxMOEbaJz3+kRFb2aRu7kCQF3FwKFHnu84d4brMitpx5+kwLfTf6Y5F3vmusIbW12vBoB8feu6LgdFjvaDzixv+qiUMkY4vUJR++vczlrCqB/EZeteqDUdc3aYOJ4lk2/t68mfY79KY8XUFENjWpYX3JCqJ+mOuJDnIYjNg/Jt4glNwsWnwpGR8VIR3qZXEs/emQ0YIMGGOp5hw/2AX5urdolgCwfHCTnmd1XTbdLes8yzAbGoCWckJm2bys/dQ7IIfcUrT09OHXemi0B/MMUWTauecVPGNR3oUZE+rI8=;u+uJp58wdfFTUimK08oXng=="
+---
+

@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/qualcomm-snapdragon-x-elite-p
 webUrl: "https://www.techrepublic.com/article/qualcomm-snapdragon-x-elite-processor/"
 type: article
 quality: 58
-heat: -1
+heat: 68
 published: false
 
 provider:
@@ -23,51 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "AI Dominates Qualcomm Snapdragon Summit With New Snapdragon Products"
-    excerpt: "Principal Analyst, Mobility & VR, Anshel Sag analyzes the Snapdragon 8 Gen 3 and Snapdragon X Elite SoCs and predicts their impact on AI-driven mobile devices and PCs."
-    publishedDateTime: 2023-10-25T14:20:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/"
+  - title: "AI PC, AI phone market competition to heat up as Qualcomm, Apple, MediaTek unveil new chips solutions"
+    excerpt: "Qualcomm's Snapdragon Summit 2023 has ignited a new round of competition in the AI PC and AI smartphone markets, with major competitors Apple and MediaTek set to unveil their new offerings shortly. Snapdragon Summit: Will Qualcomm's in-house CPU platform and GenAI applications on the edge be game changers?"
+    publishedDateTime: 2023-10-30T06:03:00Z
+    webUrl: "https://www.digitimes.com/news/a20231030PD202/ai-applications-ai-pc-ai-apple-generative-ai-ic-design-distribution-mediatek-mobile-devices-pc-ce-qualcomm.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65391570e04d1bf71ad7c828/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 936
-        height: 560
-        isCached: true
-  - title: "Android Circuit: Qualcomm Launches SnapDragon 8 Gen 3, Xiaomi 14’s Superb Screen, Honor Magic 6 AI Secrets"
-    excerpt: "This week’s Android headlines; Samsung Galaxy S24 benchmarks, Qualcomm launches Snapdragon 8 Gen 3, Honor Magic6’s AI power, Dimensity 9300 performance, Pixel 8 Pro screen details, Xiaomi 14 released,"
-    publishedDateTime: 2023-10-27T20:13:00Z
-    webUrl: "https://www.forbes.com/sites/ewanspence/2023/10/27/android-headlines-galaxy-s24-pixel-8-pro-qualcomm-snapdragon-dimensity-xiaomi-honor-whatsapp/"
-    ampWebUrl: "https://www.forbes.com/sites/ewanspence/2023/10/27/android-headlines-galaxy-s24-pixel-8-pro-qualcomm-snapdragon-dimensity-xiaomi-honor-whatsapp/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/27/android-headlines-galaxy-s24-pixel-8-pro-qualcomm-snapdragon-dimensity-xiaomi-honor-whatsapp/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/653c15e6acef4b0c967885cc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
-  - title: "Qualcomm’s Snapdragon 8 Gen 3 Wants to Compete for AI Dominance on Android"
-    excerpt: "Everything Qualcomm’s offering, including a new Snapdragon X Elite chip for PCs, is centered around artificial intelligence and beating both Apple and Google."
-    publishedDateTime: 2023-10-27T20:49:00Z
-    webUrl: "https://gizmodo.com/qualcomm-s-snapdragon-8-gen-3-wants-to-compete-for-ai-d-1850968148"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/293bf65844f7eac55034b4a26f4d93d1.jpg"
-        width: 1200
-        height: 675
+      - url: "https://img.digitimes.com/newsshow/20231030pd202_files/3_b.jpg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "QaZlvJoI/KE75XvgXqDdKI/saMZL2Htnxm2O1ssjYesWwaFz+gxF47fsUD1Brmhl/yodZJJFsNBlQgwSgcy3FT3PyqA2RSJCuC1vHkQTPJ49G6M9c8ZVbL2GuB/vjEiBaVshfv9NloPcuwD1pRMrQobY1hXHN1oKw85aDjdT711bL3ysHReJhLqr4UGZf18Yr8cSqMgW/8cE0tqb/ub/cqIG+Dx3P5uMJXVuywBIG4hGGCcSzdJEle9yu4bb0NQ+FpiOfsuyqJtIMDbCchvFhLmz7KF0/qSGfBrtzenrpDcpizyRaL87r52bIg990pxmIbHpU7pi/bA2q0/ya7XFFzx7Pr1H3ZNqrCnMmtvnSBZF1fQRDV/o10cmocMz6o0xCwHtvS9TD94qcvgp7rp3O/GQBSOYZOi4tJdQRsXEVAxxagSyQi59s/ppNr3th4cHfntZW+XSIWYj6p7S91s+zyz8/s77uQDouMvrwzAmsSg4fLiPdsYG2YZvJ9D/zd56ixBO0KImKZJBBTI46D2pxg==;5DHB+zEHGtTW5B6rDUY0Pw=="
