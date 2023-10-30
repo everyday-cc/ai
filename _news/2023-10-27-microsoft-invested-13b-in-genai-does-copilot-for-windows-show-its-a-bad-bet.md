@@ -46,6 +46,20 @@ related:
       name: Tom's Guide
       domain: tomsguide.com
     quality: 32
+  - title: "Microsoft gains $70 billion and Alphabet loses more than twice as much as Satya Nadella steals Sundar Pichai’s thunder on AI"
+    excerpt: "Microsoft's market value soared while Alphabet's tumbled after earnings on Tuesday told different stories about their cloud businesses and potential AI might."
+    publishedDateTime: 2023-10-25T22:24:00Z
+    webUrl: "https://www.aol.com/microsoft-gains-70-billion-alphabet-192443872.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 27
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/sst8s2XD_hwhnVn.TxABCQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/aol_fortune_385/c1f5fb3725ab3f750d5709aff1ebec30"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "/RXpk6t0GCwTLCQbXXzpxzRQQizesMWDYFUWLK7+EC15/19aTHinuSha5va8c0+xPArvBbPYqFffjev1BZ9/86T+IJqUeRKtjAAEwuVGoEDcXHleh06dtGECXOyr16TViiU24aYttQwTTcbPIDrdDPzAWoyIUwMFAFLVfrk6T/1yaSLZHgszMGc459ccT1NfWQ4RKQf0104JmtIVdhsHv6TbOrNgQvVPd0vCdfStqK+8s5Ym9ZAkjMWYzuI81GuEZQ05bIJgZBUx7LErLr7FAkAEKii+ln7a/N4k6rf2k792aTb3G3GXUZHTlRtnUZEM4CHbNhUHAuWk0zYNkqBhFYJ+MD1FIiN/hBPAOG1Mo84LG4EOVVCuhVp4AgIn/acQmH3NKekazjFEDmksiyRY1KMrnv4uGO5TVX2SidZXS5m+t0LCpve5nC9Tv5Pir5buLboLGNR+Q3nm+ZDBaNue1VHcgoF1snh+BJ5JK95NG5DxfQfRqhKheYPWgg/VpZcz+S2gj8UNp5Dr8k4CZs7YAg==;rl+dCKXUHcFR3QqnOJ6hFA=="
 ---

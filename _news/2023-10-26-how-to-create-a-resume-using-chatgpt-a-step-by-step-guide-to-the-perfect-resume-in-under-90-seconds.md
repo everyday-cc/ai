@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "What’s Up with ChatGPT Enterprise"
-    excerpt: "Just a year post-launch of ChatGPT, Salesforce, Morgan Stanley, and Wix, who were its early customers, have decided to explore other options."
-    publishedDateTime: 2023-10-25T08:13:00Z
-    webUrl: "https://analyticsindiamag.com/whats-up-with-chatgpt-enterprise/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/gpt-1.gif"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "14 Expert Tips on How to Get the Most Out of ChatGPT Responses"
     excerpt: "In the fast-paced, continually changing world of artificial intelligence and machine learning, ChatGPT emerges as a standout example of what a"
     publishedDateTime: 2023-10-25T12:02:00Z

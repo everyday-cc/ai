@@ -18,75 +18,96 @@ topics:
   - AI
 
 related:
-  - title: "Exploring the details of an energy-saving AI chip"
-    excerpt: "Hussam Amrouch has developed an AI-ready architecture that is twice as powerful as comparable in-memory computing approaches. As reported in the journal Nature Communications, the professor at the Technical University of Munich (TUM) applies a new computational paradigm using special circuits known as ferroelectric field effect transistors (FeFETs)."
-    publishedDateTime: 2023-10-26T16:38:00Z
-    webUrl: "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.html"
-    ampWebUrl: "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp"
+  - title: "3 Ways Leaders Can Harness AI For Breakthrough Innovation"
+    excerpt: "As we teeter on the brink of an AI-dominated era, leaders are under pressure to tap into this inspiring technology to innovate. How can they rise to the challenge?"
+    publishedDateTime: 2023-10-30T01:19:00Z
+    webUrl: "https://www.forbes.com/sites/sherzododilov/2023/10/29/3-ways-leaders-can-harness-ai-for-breakthrough-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/sherzododilov/2023/10/29/3-ways-leaders-can-harness-ai-for-breakthrough-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherzododilov/2023/10/29/3-ways-leaders-can-harness-ai-for-breakthrough-innovation/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653c6b651bcf4ac38d17d493/0x0.jpg?format=jpg&crop=5120,2880,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Breast cancer breakthrough: AI predicts a third of cases prior to diagnosis in mammography study"
+    excerpt: "Artificial intelligence predicted one-third of breast cancer cases prior to diagnosis in a new study from Norway. Experts weigh in on how this could impact the future of cancer care."
+    publishedDateTime: 2023-10-25T09:30:00Z
+    webUrl: "https://www.foxnews.com/health/breast-cancer-breakthrough-ai-predicts-third-cases-diagnosis-mammography-study"
+    ampWebUrl: "https://www.foxnews.com/health/breast-cancer-breakthrough-ai-predicts-third-cases-diagnosis-mammography-study.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/breast-cancer-breakthrough-ai-predicts-third-cases-diagnosis-mammography-study.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
     quality: 74
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/an-energy-saving-ai-ch.jpg"
-        width: 1750
-        height: 1466
-        isCached: true
-  - title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
-    excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
-    publishedDateTime: 2023-10-28T12:47:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 70
-    images:
-      - url: "https://i.guim.co.uk/img/media/53285d0e16ba8ce49782d1e34d9d4e78f37991dd/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=4c1a22e3a11bda4c35e304748e0175b9"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Exploring the role of labeled data in machine learning"
-    excerpt: "Network and learn with industry peers. Learn More If there’s one thing that has fueled the rapid progress of AI and machine learning (ML), it’s data. Without high-quality labeled datasets, modern supervised learning systems simply wouldn’t be able to ..."
-    publishedDateTime: 2023-10-29T19:41:00Z
-    webUrl: "https://venturebeat.com/ai/exploring-the-role-of-labeled-data-in-machine-learning/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/image3.png?w=1200&strip=all"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b958b3a6-465c-4c29-8487-1765b643f1cb/abb17cca-3860-450a-9b48-16cbd58eb925/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
+        height: 675
+        isCached: true
+  - title: "John Chambers, AI & innovation: Going one-on-one with a tech legend"
+    excerpt: "Is artificial intelligence the future? I could not think of a better person to share insights on this topic than John Chambers who led Cisco from $20 million to $47 billon in 20 years and acquired 180 companies along the way."
+    publishedDateTime: 2023-10-27T11:04:00Z
+    webUrl: "https://wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/"
+    ampWebUrl: "https://wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/11/unnamed-3-e1584727177725.jpg"
+        width: 2815
+        height: 1585
+        isCached: true
+  - title: "AskEllyn Bridges the Support Gap for Breast Cancer Patients Through AI"
+    excerpt: "In a world increasingly reliant on technology, the realm of healthcare is witnessing an unparalleled fusion of innovation and compassion. Enter AskEllyn, a groundbreaking conversational AI tool specifically designed to cater to the multifaceted needs of those impacted by breast cancer."
+    publishedDateTime: 2023-10-27T15:46:00Z
+    webUrl: "https://www.unite.ai/askellyn-bridges-the-support-gap-for-breast-cancer-patients-through-ai/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/Screenshot-2023-10-27-at-12.41.49-PM-1000x600.jpg"
+        width: 1000
         height: 600
         isCached: true
-  - title: "TUM professor develops an energy-saving AI chip"
-    excerpt: "Home > Pressemitteilung: TUM professor develops an ..."
-    publishedDateTime: 2023-10-26T17:54:00Z
-    webUrl: "https://idw-online.de/de/news822986"
+  - title: "Will the Fusion of Bitcoin and Artificial Intelligence Fast-track Innovation?"
+    excerpt: "Check out the opportunities and challenges that arise when bitcoin and artificial intelligence come together in an unlimited landscape of innovation."
+    publishedDateTime: 2023-10-28T05:27:00Z
+    webUrl: "https://www.cryptopolitan.com/bitcoin-and-artificial-intelligence-fusion/"
     type: article
     provider:
-      name: idw
-      domain: idw-online.de
-    quality: 54
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 38
     images:
-      - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
-        width: 498
-        height: 259
+      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/1254.jpg"
+        width: 1024
+        height: 1024
         isCached: true
-  - title: "The Power of Machine Learning and AI for Carriers"
-    excerpt: "T8N’s Mike Robinson details the power of machine learning and AI to help facilitate logistics for carriers on this episode of Retail Refined."
-    publishedDateTime: 2023-10-26T11:56:00Z
-    webUrl: "https://marketscale.com/industries/retail/machine-learning-and-ai-carriers/"
+  - title: "How AI Can Help Leaders Make Better Decisions Under Pressure"
+    excerpt: "More and more businesses are turning to AI-powered technologies to help close the data-insight gap and improve their decision-making capabilities in time-critical, high-pressure situations. These technologies encompass a wide range of tools,"
+    publishedDateTime: 2023-10-26T12:25:00Z
+    webUrl: "https://hbr.org/2023/10/how-ai-can-help-leaders-make-better-decisions-under-pressure?ab=HP-hero-latest-text-1"
     type: article
     provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 34
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_26_Beatrice-Caciotti.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ffnMmN+r4I+ykPhYEofvu/qaURUe/+Q6J3oXbFbuWVEhRt5mBg2L5R8A32+ct4SSSVgz4ulrJ5Y2XJdWb/ki/TdF1BErKgcJqGucQRnbCkoSXLzWviBG2G/Dhixo6HTYoMMT2gzzR+sz9kNp1FUGF9oQPG6v5+Cxwa5KlAY+NiR1qfWr5kAe7ijJlkXfzTijso8tgdSDUyrXLXU5ID7yJaLeSrVn8VTp6T/RwoS71NJU/D8u76EN7F+bzon6ZXswI20ozY+7EtbNroMAY38pnQfGi0/Q0IFVLif2/q3ypnbttDiQEQFp7EL5pM9BlZCnDLebvPpMAU1dgVSmNL9gdM+wt1u/iKiX8MuQFIhVDH378dU+4c52IIk4ddeRdZKvSlSm2vIurEbgdVcLDC2g1Us+lYnfGcKM8pVfEiSri3nb9TRgRaS3AE9dpXJyxmU1lNy+kJob0Qq0vOX7fTSggqr4voPtkfz1GobQwi3JeJuD+sRwou1K1R8kCcVvDrg/NjDOiY/WkRbWdxzdcg2Yaw==;Kihj5vl3tgLxROrxPtpYdQ=="
 ---

@@ -25,22 +25,42 @@ images:
     isCached: true
 
 related:
-  - title: "Google parent to make 'meaningful' investments to double down on its AI efforts, says CEO Sundar Pichai"
-    excerpt: "Alphabet spent over $8 billion in Q3 2023, driven “overwhelmingly” by investments in AI compute and other technical infrastructure."
-    publishedDateTime: 2023-10-25T08:53:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/google-parent-to-make-meaningful-investments-to-double-down-on-its-ai-efforts-says-ceo-sundar-pichai-11595491.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/google-parent-to-make-meaningful-investments-to-double-down-on-its-ai-efforts-says-ceo-sundar-pichai-11595491.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/google-parent-to-make-meaningful-investments-to-double-down-on-its-ai-efforts-says-ceo-sundar-pichai-11595491.html/amp"
+  - title: "Microsoft CEO: AI Copilot Is the New Windows Start Button"
+    excerpt: "Microsoft has already integrated its AI assistant into Bing, Edge, and Windows 11 itself with Copilot. Credit: Microsoft Addressing Copilot specifically, Nadella said he sees it as the new Start button for Windows users. He means that when you sit down at ..."
+    publishedDateTime: 2023-10-26T14:45:00Z
+    webUrl: "https://www.extremetech.com/computing/microsoft-ceo-ai-copilot-is-the-new-windows-start-button"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 43
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Sundar-Pichai-1-709x435.png"
-        width: 709
-        height: 435
-        isCached: true
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
+  - title: "Microsoft Q1 2023 Earnings: CEO Nadella ‘Very Pleased’ With Early AI Rush"
+    excerpt: "Microsoft CEO Satya Nadella told listeners on the Tuesday call – which included results for the Redmond, Wash.-based vendor’s first quarter of its fiscal year, the quarter ended Sept. 30 – that “customers tell us that once they use copilot, they can’t imagine work without it.”"
+    publishedDateTime: 2023-10-25T12:50:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-q1-2023-earnings-ceo-nadella-very-pleased-with-early-ai-rush"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 33
+  - title: "Microsoft CEO sees AI-powered Copilot as 'like the Start button' of Windows"
+    excerpt: "Since AI was a big talking point of Qualcomm's presentation Nadella ... done without sort of a new system architecture,\" said Nadella. \"The Copilot is like the Start button,” he continued. \"It becomes the orchestrator of all your app experiences."
+    publishedDateTime: 2023-10-26T00:00:00Z
+    webUrl: "https://www.tomsguide.com/news/microsoft-ceo-sees-ai-powered-copilot-as-like-the-start-button-of-windows"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 32
+  - title: "Microsoft invested $13B in genAI — does Copilot for Windows show it’s a bad bet?"
+    excerpt: "The much ballyhooed Copilot for Windows doesn't really add much to the operating system, or do much for users. So where's the ROI?"
+    publishedDateTime: 2023-10-27T06:59:00Z
+    webUrl: "https://www.computerworld.com/article/3709250/microsoft-invested-13b-in-generative-ai-does-copilot-for-windows-show-it-s-a-bad-bet.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 29
 
 secured: "RTxhsht1nfVJLRo8BRw3razLZfFVnYlmYGk+Q07IxEkqir03qgUTAKN1T2weicpHnw5F8XhjqaQbAAMmXneB08I0f/eW6XYbGMM76frmCNxHLxLCnfreeOLhIj4HfrCf19/C8VhanqWbJBxxazVFCNA18i09iNlSGAGZndPZX4nOCOgvzGwomL7LElqP696OifeNKPFSANK1X7z9krQcuG5NjTC5oAw9+BJDZAQR3lLlWm4WIBi5DP30JBtqeDL1U+SB9QUro8Fh2vLhCIjrDUhVJdH0h6MjoT9YFZZaTQhqcDQOgO9wXXe+yni/kNH0chgezMR1c0+Jz6rxnh2JTKvWcLJKaMwYsOO6zNtdxbwkadpxQdUoXv9Ix+uM5BP9jHJqCAFU20AL+ZinNYDjjlZaVCw0vs0ADqdcTZEdbt21OgZZrEXgHostUR7EnAQ/FaZmUQtVbr1axBtAdR/8VMFfm8MYTfyp8RaFGBMRZ5a2nLRMrl/ap7eO5h0E9doWM0U0XGJYo7sO7BsdhBzBqw==;Xq2HbJlVfIHX6JlxOFxlJg=="
 ---

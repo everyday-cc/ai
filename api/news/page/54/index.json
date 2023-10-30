@@ -2,6 +2,49 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2023-09-19-ai-code-generation-software-what-it-is-and-how-it-works.md",
+      "title": "AI code-generation software: What it is and how it works",
+      "excerpt": "Using AI code generation software is straightforward, available for many programming languages and accessible to both developers and non-developers.\nThe post AI code-generation software: What it is and how it works appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ai-code-generation/",
+      "originalUrl": "https://www.ibm.com/blog/ai-code-generation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T09:04:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-how-we-interact-with-information-the-new-era-of-search.md",
       "title": "How we interact with information: The new era of search",
       "excerpt": "In today's rapidly evolving technological landscape, generative AI, and especially Large Language Models (LLMs), are ushering in a significant inflection point.\nThe post How we interact with information: The new era of search appeared first on Azure Blog.\n",
@@ -1138,49 +1181,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-machine-learning-models-can-produce-reliable-results-even-with-limited-training-data.md",
-      "title": "Machine learning models can produce reliable results even with limited training data",
-      "excerpt": "Researchers have determined how to build reliable machine learning models that can understand complex equations in real-world situations while using far less training data than is normally expected.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-09-machine-reliable-results-limited.html",
-      "originalUrl": "https://techxplore.com/news/2023-09-machine-reliable-results-limited.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-model-11.jpg",
-          "width": 1280,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-09-machine-reliable-results-limited.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-reliable-results-limited.amp",
-      "publishedDateTime": "2023-09-19T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

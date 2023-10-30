@@ -235,19 +235,19 @@
     {
       "path": "_news/2023-10-23-adaptive-optical-neural-network-connects-thousands-of-artificial-neurons.md",
       "title": "Adaptive optical neural network connects thousands of artificial neurons",
-      "excerpt": "What is needed for a neural network in machine learning are artificial neurons which are activated by external excitatory signals, and which have connections to other neurons. The connections between these artificial neurons are called synapses – just ...",
+      "excerpt": "The study has been published in the journal “Science Advances”. What is needed for a neural network in machine learning are artificial neurons which are activated by external excitatory signals, and which have connections to other neurons. The ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63910.php",
-      "originalUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63910.php",
+      "webUrl": "https://www.uni-muenster.de/news/view.php?cmdid=13644",
+      "originalUrl": "https://www.uni-muenster.de/news/view.php?cmdid=13644",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.nanowerk.com/nanotechnology-news2/id63910_1.jpg",
-          "width": 800,
-          "height": 534,
+          "url": "https://www.uni-muenster.de/news/data/img/2023/10/13644-PK92bbOp-webL.jpg",
+          "width": 750,
+          "height": 375,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -257,11 +257,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T03:15:00-07:00",
+      "publishedDateTime": "2023-10-22T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
+        "name": "uni",
+        "domain": "uni-muenster.de",
         "images": null,
         "publishers": null,
         "authors": null

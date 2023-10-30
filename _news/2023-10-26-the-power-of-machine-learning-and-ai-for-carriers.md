@@ -38,14 +38,14 @@ related:
   - title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
     excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
     publishedDateTime: 2023-10-28T12:47:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+    webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?trk=public_post_comment-text"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 70
+    quality: 72
     images:
       - url: "https://i.guim.co.uk/img/media/53285d0e16ba8ce49782d1e34d9d4e78f37991dd/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=4c1a22e3a11bda4c35e304748e0175b9"
         width: 620
@@ -79,15 +79,6 @@ related:
         width: 498
         height: 259
         isCached: true
-  - title: "3 Ways Leaders Can Start Unlocking the Benefits of Artificial Intelligence"
-    excerpt: "After decades of hype and hysteria, artificial intelligence is finally ready for primetime. To date, A.I. has largely been reserved for the largest companies. But now, with the advent of generative pre-trained A."
-    publishedDateTime: 2023-10-27T20:32:00Z
-    webUrl: "https://www.inc.com/joe-galvin/3-ways-leaders-can-start-unlocking-benefits-of-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 15
 
 secured: "cA5IZcrIroei1u4QCNwsXOhKxly/3Nt1y/mkK1VjARBJS78SP8xoBWQQtr7uhD5Fm+H+Kr/zqVkIY3skq9lgHSN/0IceQIHGjwjaEpuDe6ubvZIbfbRMZv2j5hH02Eo+6X3W7yq4TSw+p7S2nzINqU7S9n/G9/veo6BFY5UQktWqb97Tj4Raza3Q1xu9AZQlOzAtbKMbe0zlZ/TAfw6yY+xNMz0N5TAIWavj0wO+0dpQpuF3VumKopJOalNiGk2Go7Y9zeg8gbU2d7Zx+MbAbwwWW7MyBT5lCPy6a9jWLKREHejMRRnnJaWN+izbsVeJivJDUQwTdtTuPIM63HbB/Rqy9hvh13ezdWaFQwNRrNY=;7Fr1TImfWkQd8jW/hCtezg=="
 ---

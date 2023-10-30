@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "3 Ways Leaders Can Harness AI For Breakthrough Innovation"
+    excerpt: "As we teeter on the brink of an AI-dominated era, leaders are under pressure to tap into this inspiring technology to innovate. How can they rise to the challenge?"
+    publishedDateTime: 2023-10-30T01:19:00Z
+    webUrl: "https://www.forbes.com/sites/sherzododilov/2023/10/29/3-ways-leaders-can-harness-ai-for-breakthrough-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/sherzododilov/2023/10/29/3-ways-leaders-can-harness-ai-for-breakthrough-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherzododilov/2023/10/29/3-ways-leaders-can-harness-ai-for-breakthrough-innovation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653c6b651bcf4ac38d17d493/0x0.jpg?format=jpg&crop=5120,2880,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Breast cancer breakthrough: AI predicts a third of cases prior to diagnosis in mammography study"
     excerpt: "Artificial intelligence predicted one-third of breast cancer cases prior to diagnosis in a new study from Norway. Experts weigh in on how this could impact the future of cancer care."
     publishedDateTime: 2023-10-25T09:30:00Z
@@ -41,29 +57,59 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI ‘breakthrough’: neural net has human-like ability to generalize language"
-    excerpt: "A neural-network-based artificial intelligence outperforms ChatGPT at quickly folding new words into its lexicon, a key aspect of human intelligence."
-    publishedDateTime: 2023-10-25T15:10:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-03272-3"
+  - title: "John Chambers, AI & innovation: Going one-on-one with a tech legend"
+    excerpt: "Is artificial intelligence the future? I could not think of a better person to share insights on this topic than John Chambers who led Cisco from $20 million to $47 billon in 20 years and acquired 180 companies along the way."
+    publishedDateTime: 2023-10-27T11:04:00Z
+    webUrl: "https://wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/"
+    ampWebUrl: "https://wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/27/john-chambers-ai-innovation-going-one-on-one-with-a-tech-legend/?amp=1"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03272-3/d41586-023-03272-3_26220184.jpg"
-        width: 1024
-        height: 576
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/11/unnamed-3-e1584727177725.jpg"
+        width: 2815
+        height: 1585
         isCached: true
-  - title: "AI 'Breakthrough': Neural Net Has Human-Like Ability to Generalize Language"
-    excerpt: "A neural-network-based artificial intelligence outperforms ChatGPT at quickly folding new words into its lexicon, a key aspect of human intelligence."
-    publishedDateTime: 2023-10-26T15:04:00Z
-    webUrl: "https://cacm.acm.org/news/277576-ai-breakthrough-neural-net-has-human-like-ability-to-generalize-language"
+  - title: "Will the Fusion of Bitcoin and Artificial Intelligence Fast-track Innovation?"
+    excerpt: "Check out the opportunities and challenges that arise when bitcoin and artificial intelligence come together in an unlimited landscape of innovation."
+    publishedDateTime: 2023-10-28T05:27:00Z
+    webUrl: "https://www.cryptopolitan.com/bitcoin-and-artificial-intelligence-fusion/"
     type: article
     provider:
-      name: acm.org
-      domain: acm.org
-    quality: 17
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 38
+    images:
+      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/1254.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "How AI Can Help Leaders Make Better Decisions Under Pressure"
+    excerpt: "More and more businesses are turning to AI-powered technologies to help close the data-insight gap and improve their decision-making capabilities in time-critical, high-pressure situations. These technologies encompass a wide range of tools,"
+    publishedDateTime: 2023-10-26T12:25:00Z
+    webUrl: "https://hbr.org/2023/10/how-ai-can-help-leaders-make-better-decisions-under-pressure?ab=HP-hero-latest-text-1"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_26_Beatrice-Caciotti.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "3 Ways Leaders Can Start Unlocking the Benefits of Artificial Intelligence"
+    excerpt: "After decades of hype and hysteria, artificial intelligence is finally ready for primetime. To date, A.I. has largely been reserved for the largest companies. But now, with the advent of generative pre-trained A."
+    publishedDateTime: 2023-10-27T20:32:00Z
+    webUrl: "https://www.inc.com/joe-galvin/3-ways-leaders-can-start-unlocking-benefits-of-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 15
 
 secured: "X6SUBzeNgXSAlgrnNCC9K1r+oeOIEs0LgVjFiV114yp89P6asuN/10QGfwI6xwJK2wYWnXa+q2kDlTdqOnpkyXiqkPlPQ9wBkbZh9OnoSi6t8PeCuJvKd1PEfC/GziRprGCrWqmBSI0S+9D2U67BEhtZkEL8gugcuzWPCqJKUKOlX+irA39iaG6MxOLpdKgt2981ulp5/w45shVWSeBho4dOWsZQSh/BwQCn3D44UgoSvIWSwnfppJh39+rOEWFqB7MrewqvvdLdolH+AbvIVigxyuQuB09+EE+Y80PlARtijqqNaSm0x5DX53XkRSgT9zpe5ZHR7ZlrbBtBU1tk9ZhQ2lZ/Si71u8ImSQudEVk=;xBltk8kuSy2NCEt9h2dXMw=="
 ---

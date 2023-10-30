@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-c
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "What’s Up with ChatGPT Enterprise"
-    excerpt: "Just a year post-launch of ChatGPT, Salesforce, Morgan Stanley, and Wix, who were its early customers, have decided to explore other options."
-    publishedDateTime: 2023-10-25T08:13:00Z
-    webUrl: "https://analyticsindiamag.com/whats-up-with-chatgpt-enterprise/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/gpt-1.gif"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "How to Create a Resume Using ChatGPT A Step-by-Step Guide to the Perfect Resume in Under 90 Seconds"
     excerpt: "In the early 2000’s, it was common for people to say things like, “the internet? Oh I don’t care for any of that fancy tech stuff.” Fast forward 10 years later and nearly everyone in the world was using the internet on a daily basis."
     publishedDateTime: 2023-10-26T06:35:00Z

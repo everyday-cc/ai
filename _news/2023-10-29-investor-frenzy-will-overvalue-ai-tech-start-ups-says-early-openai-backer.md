@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A|I: The AI Times – OpenAI employee secondary values company at least $80 billion"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2023-10-25T09:01:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-openai-employee-secondary-values-company-at-least-80-billion/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 34
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2023/10/tenstorrent_hyundai.jpg"
-        width: 1050
-        height: 700
-        isCached: true
 
 secured: "EI7q5BMGrDa3tk4RX5wBiS23jnSGgcTp+d2ZEKcTVylrtXFT02zyKYDEo43iRe6oQgkJC8DBMDiBo8VnId8IEhesU6ke2Pmmd12PIpZIunwwFfy99CqvAbjrZaLAHxDOXFb4+9To+MzTxwWwQTXxaTkaJATYKR9D1nJ1btEnixzI7YYw1r+UbJhPc1gcq+3QZuzGNOpOwPcEIflNq43zEL+djTYiCd9K7vBGo3UdbCYjD3hmtu1nUpprdW3PSsxK28OXsS6cmiD0utRPOLCwp3VVKXP5QQvcjQwpCgAWS3P/0AXj4+6E88HRjAshAZ/LKGbLspwCWe6gXjml4N4WJIVtYdtao3uwgPagwftVLfKtpiyNEoUI0K3AseiOTWV7SdKZQmaDhQ0DlXBpt5N2HOK2pOW2JFksW0QTwaP44RR+usIOtumO46bYlEaLI7WRqYY9A7XHbSrchDqTIdOSGRGHvgGrlyW27geZWmvIQTKl0FMCX5vNRtXIiLBzQeSUSAvC+j1rb6n0poujjA+Jkw==;ZCTMeukJWOV61FtmcmHHaA=="
 ---

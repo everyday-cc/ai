@@ -69,6 +69,20 @@ related:
         width: 479
         height: 246
         isCached: true
+  - title: "Cisco unveils new AI strategy for its Webex videoconference platform"
+    excerpt: "Cisco is set to roll out a host of new AI-powered capabilities for Webex, including an AI assistant and AI Codec solution."
+    publishedDateTime: 2023-10-30T01:24:00Z
+    webUrl: "https://www.arnnet.com.au/article/709253/cisco-unveils-new-ai-strategy-its-webex-videoconference-platform/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/ipad_lifestyle_video-still-shot_-image-3-100938875-orig.jpgautowebp8570"
+        width: 560
+        height: 315
+        isCached: true
 
 secured: "8VRE0vOKpLhabvYkUoinvYPRrKZOMrYd0U0qTZHtuUimkQPvaS5JN+Nu9rHuExYf9voMVRY5Rvpu2AkWoVKpLIk2n1Bb012+UX+NBoLrBysNVv1y3d+ZAOSWj3RVKglyOWmBUrUx5gNioiQcTrj5y5+Ln87P0o8tlVtYb5w92yYzSaXjvXACsb4FY6gUDrkZ8mbRmkwOW+zB2r+qXDjkhjkKLeNeq9dABnrOuFU5xf1hoiJ3vhM6pgreAO3u50B5loHWQIyYNIr18dF6FnalbBuRkJbbkK9oQnAG+6AFdiaR2c/wjoMUXa4g/Ulu+AlQRsk35wUN+vyrEjsi79UblgaPqZTCqfrisF6lfCzKpCQB76UvMWuzIs5B2CtE5EUzqjh7bX72j31uUiJg5vU+KlWoPzmC/QPKwi9f8nuQ3uNR9rKFheMfXF1AuIB9kL2I/p+pgZGI2pGicpK5I0NHzsgeqgIqhUw4SeKRLBJAjhzdflb2iAGtHToazjmG7w4wq9kYNQacgds6khEFU5V4nQ==;KWF64bh+b1vMNEFYrOPt5Q=="
 ---

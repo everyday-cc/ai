@@ -7,7 +7,7 @@ originalUrl: "https://hothardware.com/news/leica-m11-p-camera-combat-ai-deepfake
 webUrl: "https://hothardware.com/news/leica-m11-p-camera-combat-ai-deepfakes"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 708
     height: 398
     isCached: true
+
+related:
+  - title: "Fears of fakes fuels deep distrust in AI"
+    excerpt: "AI is used in government to power some service chatbots, for language translation and some data analysis, such as air traffic tracking, on a pilot basis. The Tax Office uses AI models to identify suspicious activity within the affairs of wealthy ..."
+    publishedDateTime: 2023-10-30T01:25:00Z
+    webUrl: "https://www.afr.com/politics/federal/fears-of-fakes-fuels-deep-distrust-in-ai-20231027-p5efkh"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.6745%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_930%2C$y_772/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/50fbf74f25e84d19f081eec1551e4f9db9870f1f"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "rZgPuB95fzdsDYhxSwZiW4TbDxUwK6UkK7d7iZ+k1ChLBl11IEQQvxvludAfx55akOlx/y2sWFDrGiHKtkzPJsJoRPWl9oJeY590KMlVa0ENXMKfghqdDphMfYmnCspd1FUvVdOX2oxScqFQPdn0Xc8rybPE0n+4vyBxlfkV9LmbIdD8ZFh7JGTrYYpzt0qskejPxsmlMZP3X6MOA9CAQmUsEQGwN4D8NHHtNle6SXxNpzwR+UFZpk6r6+zvwwqHSCASTKSg8JH8B0rV9HycZQu7C86IgRBWFdxT1gim5RzDhuefjWKIxBsCbAzc/Wx/bc74DzhI5LaxUlzHwe2aKbYz92q27id7CRPk8+IbeOE=;c977T9N0UWuU/AY7Pw5LUQ=="
 ---

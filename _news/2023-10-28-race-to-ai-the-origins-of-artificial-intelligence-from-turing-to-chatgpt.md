@@ -3,12 +3,12 @@ category: news
 title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
 excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
 publishedDateTime: 2023-10-28T12:47:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
-webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+originalUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?trk=public_post_comment-text"
+webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?trk=public_post_comment-text"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
 type: article
-quality: 70
+quality: 72
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -83,16 +84,7 @@ related:
       name: marketscale
       domain: marketscale.com
     quality: 34
-  - title: "3 Ways Leaders Can Start Unlocking the Benefits of Artificial Intelligence"
-    excerpt: "After decades of hype and hysteria, artificial intelligence is finally ready for primetime. To date, A.I. has largely been reserved for the largest companies. But now, with the advent of generative pre-trained A."
-    publishedDateTime: 2023-10-27T20:32:00Z
-    webUrl: "https://www.inc.com/joe-galvin/3-ways-leaders-can-start-unlocking-benefits-of-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 15
 
-secured: "QaBVeDvpdPHuAh63uZM4PRQSjSHWqMF6+RngWX6SiNShGlKFnJx143X+FYECauDZ8U/PhMsCYs5yPV4aI+8kvfSPF+aRHGVu0Q+rDLZ9UNqDbYclpMNLsoT2CqwL6/v+Bu/Af8RWd4YT5faLILC4XkmkiqzeSkJ0trRBLMxAy4LJXBoBwuBHd1xdYDTMVxYGheG27Sykr/wCAug7Vv78qQ4o7PvmGp+LQPU7ldxTep5PsKcpRATALhMLFp958Jvil4sGdttAZIh4cEYw/aGSGuC8rWsoYhaI7LHpEhC/yseaa4UuEY2ofZj250byUfMj3uRKUmIa95x3eogF6fugdlckY4dXcnoKnSoEjt6WFcw=;eIrvZHxn0eKk7UHEIjYT1Q=="
+secured: "D5wzKjK9tw67jxBA2FTSprSD7gsT//o4hQADWmbibRjLKZi0ueNxVZuEjQXWN4c6qfQPamK324/kEXGgarKR88ASfHKyepK835kWV3U/Xxia8pCyLI/I0lYsNTdr7ixB4NPGY+MAWAtaxtQxuaoJg1WE9ixTADCZsF55RXzN3h86ilC0DYKogzMVT8zQ89qB8gemhx076xc54U75T7DTDLsfzEEjTsTPd6V0oy7vYDW6poBezKpIad30XbQ+SFSO4udQ0RH4OcckjZtywcYIWNbSDOr2VyQiCkhlwzlQ3swMGevOxnrdCW2TM4fHDQHP4oSeZP25Q8vuBB1wsfXvzj9xJaqCv44Bd6S1xHHsRW4=;1WDSQ51Ow1XgqkDZS+gf6g=="
 ---
 

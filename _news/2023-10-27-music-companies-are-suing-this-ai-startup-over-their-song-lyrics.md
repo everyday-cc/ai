@@ -7,7 +7,7 @@ originalUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/ha
 webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/hamas-ai-chuck-d-film/anthropic"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is transforming the music industry with voice cloning, lyrics, beats and more"
-    excerpt: "AI tools and artificial intelligence technologies are transforming the music industry at a rate never seen before. Is AI good for creativity?"
-    publishedDateTime: 2023-10-28T15:33:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-ai-is-being-used-in-the-music-industry/"
+  - title: "Companies aren't spending big on AI. Here's why that cautious approach makes sense"
+    excerpt: "Everyone everywhere is talking about AI, but new research suggests it's going to be a while before large-scale AI projects move into production."
+    publishedDateTime: 2023-10-29T17:01:00Z
+    webUrl: "https://www.zdnet.com/article/companies-arent-spending-big-on-ai-heres-why-that-cautious-approach-makes-sense/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 32
+      name: ZDNet
+      domain: zdnet.com
+    quality: 63
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/How-AI-is-transforming-the-music-industry.jpg"
-        width: 1280
-        height: 801
+      - url: "https://www.zdnet.com/a/img/resize/897c492dce68b29c5f7aebbc67b1f89e653074de/2023/10/27/8054497c-1161-4385-a734-d53701ac5258/gettyimages-1352499859.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "4EF+EvwFn9QSzM9y5ipfXWptEQm+FL9HwdCoGmAExOesH+VN2ZmhDCQ0CpkG+rsYPbBAtK3kWO0o9wHQjVZykpjUVVdM9e01KepGhZE5010AdGoqG8HQf5RIN9W+g6aAm8SogOT8/wTK9IyGVp6HOZNtoN0DZFEwJUv/s5QC/1eGK3P5lFIBYK6L8IgVWoxgy0mQV7A+dgCMsnMYv0O9VHv5uz5udPLQxB4hkRT2BUF14b2ravDLSct9+C+FuAThajzwEXySJpwWQq6UUOvqteeTeqAEsq+ReF0US/kmiWVK3N7LU17ERSuDMK+oiWepxb04j4fcNNrY1e+2yBr8TBg1F4/J3pq6CfVxzH6ePm0=;DJV60Z9/6Az4ky/Ac87MEA=="

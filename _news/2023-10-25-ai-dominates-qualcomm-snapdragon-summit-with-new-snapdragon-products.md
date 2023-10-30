@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 121
 published: true
 
 provider:
@@ -71,34 +71,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 58
-  - title: "Qualcomm’s new Snapdragon X Elite notebook chips are made with AI in mind"
-    excerpt: "Touting twice the CPU performance compared to competitors and arriving in mid-2024, Qualcomm has revealed its new Snapdragon X Elite chips."
-    publishedDateTime: 2023-10-25T07:51:00Z
-    webUrl: "https://htxt.co.za/2023/10/25/qualcomms-new-snapdragon-x-elite-notebook-chips-are-made-with-ai-in-mind/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 53
-    images:
-      - url: "http://htxt.co.za/wp-content/uploads/2023/10/SnapdragonXElite_HeroImage.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Qualcomm's New Snapdragon Elite X Chip Aims to Surpass Apple's Mac in AI Capabilities"
-    excerpt: "Qualcomm provided details about its latest chip designed for Microsoft Windows-based laptops. The company promises this chip will outperform Apples Mac chips in certain tasks. The Snapdragon Elite X chip,"
-    publishedDateTime: 2023-10-25T08:50:00Z
-    webUrl: "https://www.econotimes.com/Qualcomm-Unveils-New-Chip-for-Windows-based-Laptops-Claims-Superiority-over-Apples-Mac-Chips-1664945"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 47
-    images:
-      - url: "https://f1.econotimes.com/2023/10/s88xpux647_th_1024x0.jpeg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "RSIE3CAOjf7EZJyOSpFKw7tHbSSjNdUQsTkTnlxVCHuDOFGxd/G1og+0l//FzVpZg3pgO0rTDM1xfSjDQz5kNoGUWDOTtd5KWjkpzpHKlfY/PsfIQM5SaqgwIuyMq3010oZxcs65YlS87Rv77WZUeMgOTdS7HlQX6Q0ug1+l63e0qhZqj4BXRUU8+1UTtGRDcQK5cCdgitW44HpTNIqGqe279OuV9469YD68kgscYRfqGiluQeNjUgOqdUh9Fyq368737RcGOG3GLbBQSg4/2DinUh8sGYQIJ0WjDp3TkqLui41zno7pPvg7/FJkD90UP4QJdAe5YjrEaKrPwkKv1AE2MvwZzjCJnQCoZv/2qBc9noonjKZwyvo6ZMrA8cXeJD557TEnOhkR0/HwTsvKWfl4ehsiyLc4m6fNO9Y6fXIJdmRG6GvLz+Ej80fjzhLTyQhZm1FZLtzyjwhbzK/1M0JLZRZ+v7fqDHcYk9s5FP/+HP2oUztWo3jaUhojGvY8K0W6ClrsDgiAdDcZ/Gtx+w==;9c/1cjNiCyq2IeKPr9pnLg=="
 ---

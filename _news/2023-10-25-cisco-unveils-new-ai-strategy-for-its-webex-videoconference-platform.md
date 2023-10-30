@@ -55,6 +55,20 @@ related:
         width: 479
         height: 246
         isCached: true
+  - title: "Cisco unveils new AI strategy for its Webex videoconference platform"
+    excerpt: "Cisco is set to roll out a host of new AI-powered capabilities for Webex, including an AI assistant and AI Codec solution."
+    publishedDateTime: 2023-10-30T01:24:00Z
+    webUrl: "https://www.arnnet.com.au/article/709253/cisco-unveils-new-ai-strategy-its-webex-videoconference-platform/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/ipad_lifestyle_video-still-shot_-image-3-100938875-orig.jpgautowebp8570"
+        width: 560
+        height: 315
+        isCached: true
   - title: "Cisco’s Patel: Our AI, Networking Prowess Makes Webex ‘Categorically The Best’ Collaboration Platform"
     excerpt: "The Cisco Webex collaboration platform is getting more powerful because it’s leveraging the strength the tech giant has in AI, networking, security and observability, Cisco Systems’ executives said at WebexOne 2023."
     publishedDateTime: 2023-10-25T16:01:00Z

@@ -55,15 +55,6 @@ related:
         width: 1402
         height: 900
         isCached: true
-  - title: "What CIOs and CTOs should consider before adopting generative AI for application modernization"
-    excerpt: "Explore why human resource departments should be at the center of your organization’s strategy for generative AI adoption.\nThe post What CIOs and CTOs should consider before adopting generative AI for application modernization appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-25T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/what-cios-and-ctos-should-consider-before-adopting-generative-ai-for-application-modernization/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 87
   - title: "Google's Generative AI Revolutionizes Digital Assistants Everywhere"
     excerpt: "In this photo illustration, the logo of Google is seen displayed on a mobile phone screen with AI ... [+] (artificial intelligence)(Photo Illustration by Idrees Abbas/SOPA Images/LightRocket via ) It's happening."
     publishedDateTime: 2023-10-26T04:07:00Z
@@ -161,6 +152,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
+    excerpt: "Watsonx Code Assistant for Red Hat Ansible Lightspeed and watsonx Code Assistant for Z are now availableARMONK, N.Y., Oct. 26, 2023 /PRNewswire/"
+    publishedDateTime: 2023-10-26T04:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise-application-modernization-1032741098"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+    images:
+      - url: "https://mma.prnewswire.com/media/2258171/ansible_multitask__2.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Generative AI Poised to Revolutionize Healthcare Delivery & Life Sciences Research"
     excerpt: "Generative AI may transform healthcare delivery and life sciences productivity by improving patient outcomes and increasing clinical/medical research efficiency"
     publishedDateTime: 2023-10-26T09:00:00Z
@@ -174,20 +179,6 @@ related:
       - url: "https://www.physiciansweekly.com/wp-content/uploads/2023/10/artificial-intelligence-ChatGPT.jpg"
         width: 1778
         height: 1000
-        isCached: true
-  - title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
-    excerpt: "Watsonx Code Assistant for Red Hat Ansible Lightspeed and watsonx Code Assistant for Z are now availableARMONK, N.Y., Oct. 26, 2023 /PRNewswire/"
-    publishedDateTime: 2023-10-26T04:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise-application-modernization-1032741098"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-    images:
-      - url: "https://mma.prnewswire.com/media/2258171/ansible_multitask__2.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "Amazon’s new generative AI tool lets advertisers enhance product images"
     excerpt: "Amazon is rolling out a new AI image generation tool for advertisers to generate backgrounds based on product descriptions and themes. Amazon is currently Amazon's new AI image generation tool lets advertisers generate backgrounds for product images."

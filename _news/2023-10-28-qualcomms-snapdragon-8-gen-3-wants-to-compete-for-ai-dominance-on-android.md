@@ -70,34 +70,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 58
-  - title: "Qualcomm’s new Snapdragon X Elite notebook chips are made with AI in mind"
-    excerpt: "Touting twice the CPU performance compared to competitors and arriving in mid-2024, Qualcomm has revealed its new Snapdragon X Elite chips."
-    publishedDateTime: 2023-10-25T07:51:00Z
-    webUrl: "https://htxt.co.za/2023/10/25/qualcomms-new-snapdragon-x-elite-notebook-chips-are-made-with-ai-in-mind/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 53
-    images:
-      - url: "http://htxt.co.za/wp-content/uploads/2023/10/SnapdragonXElite_HeroImage.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Qualcomm's New Snapdragon Elite X Chip Aims to Surpass Apple's Mac in AI Capabilities"
-    excerpt: "Qualcomm provided details about its latest chip designed for Microsoft Windows-based laptops. The company promises this chip will outperform Apples Mac chips in certain tasks. The Snapdragon Elite X chip,"
-    publishedDateTime: 2023-10-25T08:50:00Z
-    webUrl: "https://www.econotimes.com/Qualcomm-Unveils-New-Chip-for-Windows-based-Laptops-Claims-Superiority-over-Apples-Mac-Chips-1664945"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 47
-    images:
-      - url: "https://f1.econotimes.com/2023/10/s88xpux647_th_1024x0.jpeg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "PVJ4OBWsaMIRXF/1cjv1sV85pdBBMJPmnFGb7lHTL/99lLMyNM0q0gLOlXf6BZ5LKOlYFXZT+C3ti4GQRvq46URUfFYJ5hApfVBWQO1cDDz+FLn2J8ZGO5+p1IbOwE6WhIIXxxjtVU5ME/Zl3PvJBr4eg8jbLzl7GbG5xk72KrayTPrQ8vWwLmnRKrfK9C/wm8DIjH8czwJbXYSTsDFV5+4kI0a5UKbaT5GxM74pRUMc1zRSh6Ozecn3mqGIhE+swhZPt2RaN7Jo4+5xvP3yfEQICx+l5/WH2z4INYBTwEgVM2I716U+hAiku6urOkh+Vp7LY7zYasdEcUjsoyhyOWeyi0eW34pc0aZTPsHTEhTN5wUk5czOkSWK0i4znvZVkhSvmNoC4w7u2eeRlfGpiuG3mhGZi56320JoK9k0UAnpCrDNqUbPz2WtfwF8/HsIZnrGsjyHcrCzZcQwXB3uLQFOuRwrOvuIzqrs2YDYPZNUNfmZ/hwHqEVKltjrKBo/J4KMey7XvoXbdbtDA231Jg==;JWokjMIUxuy9sb4eAsEZEg=="
 ---

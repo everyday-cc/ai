@@ -55,15 +55,6 @@ related:
         width: 1402
         height: 900
         isCached: true
-  - title: "What CIOs and CTOs should consider before adopting generative AI for application modernization"
-    excerpt: "Explore why human resource departments should be at the center of your organization’s strategy for generative AI adoption.\nThe post What CIOs and CTOs should consider before adopting generative AI for application modernization appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-25T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/what-cios-and-ctos-should-consider-before-adopting-generative-ai-for-application-modernization/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 87
   - title: "Google's Generative AI Revolutionizes Digital Assistants Everywhere"
     excerpt: "In this photo illustration, the logo of Google is seen displayed on a mobile phone screen with AI ... [+] (artificial intelligence)(Photo Illustration by Idrees Abbas/SOPA Images/LightRocket via ) It's happening."
     publishedDateTime: 2023-10-26T04:07:00Z
@@ -169,7 +160,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://mma.prnewswire.com/media/2258171/ansible_multitask__2.jpg"
         width: 400

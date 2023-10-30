@@ -69,34 +69,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Qualcomm’s new Snapdragon X Elite notebook chips are made with AI in mind"
-    excerpt: "Touting twice the CPU performance compared to competitors and arriving in mid-2024, Qualcomm has revealed its new Snapdragon X Elite chips."
-    publishedDateTime: 2023-10-25T07:51:00Z
-    webUrl: "https://htxt.co.za/2023/10/25/qualcomms-new-snapdragon-x-elite-notebook-chips-are-made-with-ai-in-mind/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 53
-    images:
-      - url: "http://htxt.co.za/wp-content/uploads/2023/10/SnapdragonXElite_HeroImage.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Qualcomm's New Snapdragon Elite X Chip Aims to Surpass Apple's Mac in AI Capabilities"
-    excerpt: "Qualcomm provided details about its latest chip designed for Microsoft Windows-based laptops. The company promises this chip will outperform Apples Mac chips in certain tasks. The Snapdragon Elite X chip,"
-    publishedDateTime: 2023-10-25T08:50:00Z
-    webUrl: "https://www.econotimes.com/Qualcomm-Unveils-New-Chip-for-Windows-based-Laptops-Claims-Superiority-over-Apples-Mac-Chips-1664945"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 47
-    images:
-      - url: "https://f1.econotimes.com/2023/10/s88xpux647_th_1024x0.jpeg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "QaZlvJoI/KE75XvgXqDdKI/saMZL2Htnxm2O1ssjYesWwaFz+gxF47fsUD1Brmhl/yodZJJFsNBlQgwSgcy3FT3PyqA2RSJCuC1vHkQTPJ49G6M9c8ZVbL2GuB/vjEiBaVshfv9NloPcuwD1pRMrQobY1hXHN1oKw85aDjdT711bL3ysHReJhLqr4UGZf18Yr8cSqMgW/8cE0tqb/ub/cqIG+Dx3P5uMJXVuywBIG4hGGCcSzdJEle9yu4bb0NQ+FpiOfsuyqJtIMDbCchvFhLmz7KF0/qSGfBrtzenrpDcpizyRaL87r52bIg990pxmIbHpU7pi/bA2q0/ya7XFFzx7Pr1H3ZNqrCnMmtvnSBZF1fQRDV/o10cmocMz6o0xCwHtvS9TD94qcvgp7rp3O/GQBSOYZOi4tJdQRsXEVAxxagSyQi59s/ppNr3th4cHfntZW+XSIWYj6p7S91s+zyz8/s77uQDouMvrwzAmsSg4fLiPdsYG2YZvJ9D/zd56ixBO0KImKZJBBTI46D2pxg==;5DHB+zEHGtTW5B6rDUY0Pw=="
 ---

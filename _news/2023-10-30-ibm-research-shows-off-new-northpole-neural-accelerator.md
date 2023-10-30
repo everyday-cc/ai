@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-29T21:16:00Z
 originalUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/29/ibm-research-shows-off-new-northpole-neural-accelerator/"
 webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/29/ibm-research-shows-off-new-northpole-neural-accelerator/"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - IBM AI
   - AI
   - Computer Vision
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/653ecafcf6b11a1e24f7d892/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"

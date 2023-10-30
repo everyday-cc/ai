@@ -7,7 +7,7 @@ originalUrl: "https://techcentral.co.za/microsoft-gaining-cloud-race-aws-google/
 webUrl: "https://techcentral.co.za/microsoft-gaining-cloud-race-aws-google/234097/"
 type: article
 quality: 71
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -111,6 +111,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
+    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive"
+    publishedDateTime: 2023-10-30T01:08:00Z
+    webUrl: "https://www.inferse.com/772062/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 14
 
 secured: "0M2wPT3rDdvzAXRNNBifaxf9oJn63VfRXwWzx42s2n0jwDxLbcHiYl8+yEBbBuwFXoX9LKkFf00Hz4f3dCgDTXRsUgkLmcifSKiPX7Qgq2OCZUCpWqLJO1TYqoUlrun6/rLTNzsRUuCZIrgg3rhTjL75qNBaato2BKqpNYG31zDzQ6XO1RhOXUAfGOhef6wHK7HTFgfqkC95Bm60w8j2V9Ueojnjm5oEixoNzsACL8expxu/osURnsQPrDur7SqwWeW7Kx4N7gVP2e6OZ+gjcMgWegfteJkoeFG1KTD9syXyqxgBea4FwVatxxmHMM/hJ2Nc0zPmxdpCMbNFh6uwRfWPMde0o7+YFdkTNW4HXHAOzeFFVXN0Fs1ia71xBZo6vTzhP0mYcjcbvh9TK6Ai06qvqc4TDI9TcOypo2e8jEDGoMsYuQL7gou6yPm/vmRVL3LPTDsT5fJexy6Zp8Ki12szZV8+pZMR/iy9jT9I702eGbWyQQFQWJJMq5RznqHxbngStY913MHVBj/ZDY+sgw==;1I0srsQX0hbnfban2vFAAg=="
 ---
