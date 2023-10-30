@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Lenskart acquires Chennai-based AI startup TangoEye"
+    excerpt: "lenskart has acquired chennaibased ai startup tangoeye which provides technology that gives customer insights based on cctv recordings collected at retail stores the peyush bansalled eyewear company f"
+    publishedDateTime: 2023-10-30T14:03:00Z
+    webUrl: "https://inshorts.com/en/news/lenskart-acquires-chennaibased-ai-startup-tangoeye-1698674583157"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/lenskart-acquires-chennaibased-ai-startup-tangoeye-1698674583157"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/lenskart-acquires-chennaibased-ai-startup-tangoeye-1698674583157"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 57
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/10_oct/30_mon/img_1698671884048_129.jpg?"
+        width: 1080
+        height: 617
+        isCached: true
   - title: "Lenskart Acquires AI-Based Computer Vision Startup Tango Eye"
     excerpt: "Lenskart on Monday announced the acquisition of Tango Eye, an AI-based computer vision startup.With this acquisition, Len"
     publishedDateTime: 2023-10-30T08:59:00Z

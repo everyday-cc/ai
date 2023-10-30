@@ -56,15 +56,6 @@ related:
       name: The Herald-Mail
       domain: heraldmailmedia.com
     quality: 19
-  - title: "Self-driving taxis challenged by LA City Councilman; 'LA should not be a test subject for the tech industry'"
-    excerpt: "Los Angeles City Councilman Hugo Soto-Martinez is urging state officials to address the public safety issues associated with autonomous, or self-driving, vehicles."
-    publishedDateTime: 2023-10-25T19:07:00Z
-    webUrl: "https://www.foxla.com/news/self-driving-taxis-uber-los-angeles"
-    type: article
-    provider:
-      name: KTTV
-      domain: foxla.com
-    quality: 0
 
 secured: "nuE5+qQt+srRZ6Y2oZ5x4p3MPLLi2spJz4PFQ+nDkj7hUOO6tmYGMQ5eLyZYPdhFqfaR7BD5JLQ32pJJKjMG7xnwdZ/GbS4cJfmdMznBSY2cS05nzGNGy4YGxByDgEfgcSpqzjUGrW5YAo7facvFLJmzR6eQ3+6JC4yl+lGwj1SLUevZflirraz1nD8hBNqAtzVH+EKsHAW8yiJC47ZdqBFImBAodeFfCf1ScgMizW8TA/YEAtKY6MDKtqxXA2K8jrOJ/By9CexcjkPs2Hbqg/KT68/APuZbkCLzmOrE4W1U0Vxe+xACSn+/lVWLMThcT1Tfip5Dg3BIpXbJzCm40ru043ap7GTshKPiejzvmz1nbzkktEqYu73tJASf8HogdI4ls0B9Dn9/8bG7v3fvGGKmcWXia4zeWu/WcR2PKb8uctDe3jhx/lu1xRjKqyZJOafYyrpMAFso/FM/HCoSE3EFmN7pmlPxT0GfJYFLx1+ch3jfC6UsKRMmMkhkPrG5y92VjkCWR+OEU9Yhh3pgPw==;A+q0676nOV8kn4D47aSxrQ=="
 ---

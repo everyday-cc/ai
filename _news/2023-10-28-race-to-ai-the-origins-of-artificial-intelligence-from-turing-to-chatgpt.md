@@ -76,15 +76,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Kate Darling on the Future of Robotics and AI Ethics"
-    excerpt: "In this episode, we recap the recent RoboBusiness 2023 event and the recent news of Agility Robotics humanoid testing at Amazon. Our featured interview on this episode is with Dr. Kate Darling, who is joining Marc Raibert in her dream job at the Boston Dynamics AI Institute to head up their AI and ethics research group."
-    publishedDateTime: 2023-10-25T22:20:00Z
-    webUrl: "https://www.roboticsbusinessreview.com/news/kate-darling-on-the-future-of-robotics-and-ai-ethics/"
-    type: article
-    provider:
-      name: Robotics
-      domain: roboticsbusinessreview.com
-    quality: 66
   - title: "Precise to the point 3D image processing solution with 2D cameras, AI and robotics optimises the manufacturing landscape"
     excerpt: "The manufacturing sector is currently facing several challenges. Technological change, pressing environmental issues, and globalisation require several adjustments, such as investing in"
     publishedDateTime: 2023-10-26T14:36:00Z
@@ -134,6 +125,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "3XAbEI2s8meyHdyH54ywr+PGL0qt1YUMJaiOy3cvUTXEtTCqKxJtUZj/gfgZLuYwx30kKVF2Ho6Tl9HHBiHfk86o8uH8Vs83mrIWAenDiBznXD98V5cgZfOJ07yTfqr83uBGvNYYUyWjYELVGxRR2sPUKQN1b/nQYYKjXeKnJLlYqm5Q3kh1yyMXQ+KF3Y0AmwTlRduGu1gVssL+zZwnmqdKycJI+0Or2WQG3BwTWYJKIMn8HnPltJD3ebLeva66hGTQBBr7n3GTQCZIC7BOw+BsHw6HruXb6f36W8tIRhX8ElrWa96DbF//nas3c/bbgIOaEWxlSUByvYd21aqiIJAlxqTiRLxG3ysnS3pXhIk=;sTOtXfD6md57rb0Dy3JFAQ=="
+secured: "FlnKqw9Cp6b/qYheiFbYVId0u9NjfWsBtWnX2dCu/G4EMj17eEAUhwls+cFj9mm9cNMW+ohoRj6A/+rVDqrdQ1l4xFWy4T3SS+4xskjjioxr2Je6kj6zEntFAV0emnHCEaMGhvDMrcQE2C8HAjC13zqUBGkqoMnE2/M/FuSfy1/Lo9MfQ8G/IhR9CxokytTDEO+eX9Cn4OeXUqsAGCaJ44+ucF9g+vO/nI0XnJWsHpopP3fI3+qB8LHw7ZjBUm9o57tP9VnQADq3rrCldCwgNY8dQ3mJehJzNaGPOZHn3Cff03bJhqvw12ucV56Vr7SZlW/tKZbFHVZ5yI/bEOA+jV2sQb6Bd5z568MDBin7mhE=;nlpfBmNAuZR7cKUM6r005A=="
 ---
 

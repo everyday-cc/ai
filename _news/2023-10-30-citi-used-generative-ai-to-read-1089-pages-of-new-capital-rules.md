@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "The Global Race to Regulate Artificial Intelligence is Heating Up"
+    excerpt: "President Biden is set to issue new rules on the technology, days ahead of an international summit on A.I. safety."
+    publishedDateTime: 2023-10-30T12:21:00Z
+    webUrl: "https://www.nytimes.com/2023/10/30/business/dealbook/biden-ai-regulation-britain.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 47
   - title: "Citi used generative AI to read 1,089 pages of new capital rules"
     excerpt: "Increasingly, bank executives argue artificial intelligence will make their staffers more efficient. Like when federal regulators dropped 1,089 pages of new capital rules on the US banking sector, Citigroup combed through the document word by word using generative AI."
     publishedDateTime: 2023-10-27T13:40:00Z
@@ -28,6 +37,15 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 19
+  - title: "One AI Device to Rule Them All"
+    excerpt: "Hi, welcome to your Weekend.It’s been 10 years since the movie “Her” introduced us to a queasy future in which a man falls in love with his AI-powered digital assistant. Guess who loved that movie? Yup,"
+    publishedDateTime: 2023-10-28T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/one-ai-device-to-rule-them-all"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 17
 
 secured: "NbMr99rezrn03uJVtWaSBOH2nj77mZEnntHExipC3G/mJknNke98SJrmPSQmirFPLFGUNJktHWd/Ib8L2GPMf34fXA2TsEflwv9v7abzb+L7kk+QL6dfUGbB1scYL8GiKRFH0VACJf3PaAB/HV6gAMvpUzO0j8IsjXeyKMsxrsTTfAoVTVIGEq+QiHQ/5PRmNZ5K+n86h04BE4paxPVzsNNFWHSoEYXljfXMQ8vUTNnuRKQHohQ8iyMA3I0IB9Pp1idH7dS+u2VNhkYQkqzEktcxxfG2T3x+cU72oMlpjPxXmSMirF+lCUlV0E6/L9d2NgXGvmr4K49lXIoXhIWwZ24Z1kjb+d6Ugs7f1sEOy7e9l8RYkBFfiWkXM6bYongDwFPqoj7p9Wx6VdXWzUrRAVbsAdxZhRCnh/bnvrEuGckELZcIwlXY1UdqKvLRtiA+rYAmdF30ksqK00aL+yyv0lcm2sKLlDs2Zjtwh0I+PpAjnHC40HeSb54GIVTu2v5jNUQ7TgvvwNXFt2yHHFLKyw==;6GGKKbdMUCYpTINvjW8abQ=="
 ---

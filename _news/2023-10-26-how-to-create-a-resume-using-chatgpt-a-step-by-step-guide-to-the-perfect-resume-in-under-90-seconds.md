@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mercedes-Benz Direct Chat: an internal ChatGPT application for employees"
+    excerpt: "Mercedes-Benz is rolling out an internal web application for its employees - the Mercedes-Benz Direct Chat. It uses OpenAI´s ChatGPT technology through Microsoft Azure OpenAI Service. It's a text generator that uses machine learning and natural-language processing to deliver precise and contextual answers in just a few seconds."
+    publishedDateTime: 2023-10-30T15:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/30/9907385.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "Nl0mFwltnmfdIGCuFkFWdtEyiFLbZkaAAVRD96dndxmhQLfsdi4fYsGvCdjY7pfmywjixdKRbHtBB9nso3/Tz5ad79ZOcYZYdqXFKzP6cN1ka2v46zXgyuuv8QzjswndpD0VVzyDY0+MSnNuNTholdxhlH8HyommDIQY8Izlxw7H23K8077WIeFhEJlKG+CkmYP+J9h4/QRmG4u9kJZo3/x30F/n8fXz/jhF6RFANhfc08aYSQgud6+aOwhVSvGOcwM8m3KkZm54N9I5qAszYDLdq0qQvlfDcuUyPnOoX5x7G9nKSMckb9C649E8bVC+ImE+Bd9xsEPNi+HdOKcn51ZXV3JiWxdN50+lBjRnVxI=;CNAoNAoHJidUF7E6djpNhQ=="
 ---

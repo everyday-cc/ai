@@ -48,20 +48,6 @@ related:
         width: 2085
         height: 2560
         isCached: true
-  - title: "Riding the wave of gen AI: AWS outlines advances at Supercloud 4"
-    excerpt: "Saha spoke with theCUBE industry analyst John Furrier (left) at Supercloud 4, during an exclusive broadcast on theCUBE, SiliconANGLE Media’s livestreaming studio. They discussed how companies are using the AI models and moving into production at scale."
-    publishedDateTime: 2023-10-25T20:45:00Z
-    webUrl: "https://siliconangle.com/2023/10/25/riding-wave-gen-ai-aws-outlines-advances-supercloud-4-supercloud4/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Bratin-Saha-Supercloud-2023-V2.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Power of Machine Learning and AI for Carriers"
     excerpt: "T8N’s Mike Robinson details the power of machine learning and AI to help facilitate logistics for carriers on this episode of Retail Refined."
     publishedDateTime: 2023-10-26T11:56:00Z

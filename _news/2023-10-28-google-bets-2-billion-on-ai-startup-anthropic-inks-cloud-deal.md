@@ -148,6 +148,15 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 17
+  - title: "Google to invest up to $2bn in generative AI startup Anthropic"
+    excerpt: "Google plans to invest up to $2 billion in generative artificial intelligence company Anthropic. In late 2022, Google acquired a 10 percent stake in the startup for $300m, but Anthropic's valuation has soared with the generative AI boom."
+    publishedDateTime: 2023-10-30T14:49:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-to-invest-up-to-2bn-in-generative-ai-startup-anthropic/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 17
 
 secured: "GvZcQ51oHD6O44YfvFz+IVqPipyjR27+v2omCu4b9ZD7okWiRRaa2qeZRl8Dl5nZ5FwZJjhQ4r/ExdMIbouJSKXT/TwfpOzefVqeBYd7qJp2FJVZDuafcozD1/vFbHHVudROXCiYn1QWucZuxhUMT3HgLigpUTC60bXOIYy96zb+2IEJ6BtISfyud/qXoOtsMUJ4yTpx1ydWqSdQbJICeehtWnDc6eBzLbconjAUUqEfYX8wKE3A8N9bfvqX+PjdFApGsnL9HOnE4Zi/7Si8GaDxdg2DhOLrk+hhw+4mp7pHsSpmxTj5JcOoTUoSBFQcyxIPQd0gLM+FrLGWm4hZljopdPHUQrpCv3yVKHV95Gx7rsRAPRRNQ4/8J82zB40V6zU5SYtGb72NUPenqdLkrEKjZ9UGlMQ5FAZY0Q0k9sUKkhgbynCIGxqkDUDdpQg7jNO0HMbd26rlySyOC2KIj8VMS7fu36dMY4Psn9NI3mTT6y8jUQYRt47C36mVBstNX9gsj7kPWq2pMtGqGYG6PQ==;o5Lt/GIZEUgRRlB00c5glw=="
 ---

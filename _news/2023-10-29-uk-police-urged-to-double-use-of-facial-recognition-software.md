@@ -3,12 +3,10 @@ category: news
 title: "UK police urged to double use of facial recognition software"
 excerpt: "Policing minister Chris Philp suggests target of more than 200,000 searches over next six months"
 publishedDateTime: 2023-10-28T22:25:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software?ref=biztoc.com"
-ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
+originalUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
+webUrl: "https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
@@ -24,30 +22,17 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/95a14cc3e6df2b855f7a5b457f4c774e403429c0/330_1615_5597_3358/master/5597.jpg?width=620&quality=85&auto=format&fit=max&s=3a2aced8200d4b784aafadf52d4284b8"
-    width: 620
-    height: 372
-    isCached: true
-
 related:
   - title: "Major UK retailers urged to quit ‘authoritarian’ police facial recognition strategy"
     excerpt: "Human rights campaigners say the Pegasus initiative wrongly criminalises people of colour, women and LGBTQ+ people"
-    publishedDateTime: 2023-10-28T15:30:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
+    publishedDateTime: 2023-10-28T14:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/28/major-uk-retailers-urged-to-quit-authoritarian-police-facial-recognition-strategy"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 68
-    images:
-      - url: "https://i.guim.co.uk/img/media/dffbee9c5f049baaeeed939ac4528da0e9dc68f8/0_128_3840_2304/master/3840.jpg?width=620&quality=85&auto=format&fit=max&s=8b6272dc0108bbd9094cf3fa37774e85"
-        width: 620
-        height: 372
-        isCached: true
+    quality: 28
 
-secured: "9Aig28t1a5bfiP5OEkxCkVeNH0Zizl7X296aE5kx1Z2/re4MYWzIeDAKzYDuD+BmOVXlLtHt196wGpAqhLR2S7MJ9mVhTsj1Rge83pmMBqPKbCF37See8OI5Qn0KZvMlVDOyCoBaufX/YuiAvwvWk0Nn8OufYMM3No09eDd2n1+9EXrhAWYMnvJAbSxL2GSTnw2Kjp6o+8cfvp2TrFY3sHv1rA95I8+G3jvqElbKnkaAbpNe4nQ5/MUUfLSPNrkczyo/3F0bZiSCouOf5d4RnMSIky7uaNQGLPFHcJZVCCj2k5rdECIkyuMmwbsNYLh7+mMenFpDhkORIwEDXtP0mNeWBNDY8JADgPZ71sxC0Ng=;R/l27F8ySjXS9y5rG5Ai3A=="
+secured: "sYvC9vvPP1hw7Lqb7juwIB8j6RF9bjP8oq27staD00S3jogNZho7YEHDvZVeP31WAaoKRwDkrJ0V/QGx9BC8Q3dVILZsAKzh7YVOvgxNyvD9WbJ02Aybt9ItJK+lsAODFwB3tPL84YWbpT1GacOAFAN3wz1gtNaubFQEhgFmu/IXhTUht9ujwwaSze1y0KBBXropksDKSOqf6v2AN2Ze1wtL0o3F7fhgC3FC3UXny5ZxIMyZJJDChnk/nTNbgwWP7leOUECDhmHBbMlx6Juef6C5Cf5jTNbyBRaDB8tzJKIC1SsZDv4cY6z8heYkDCPe60HpmV+hSwyHqAbOTMx6+FZTY1R4VcfW/bf0YN2XsOoW+6p43lMTzPEKC8vJbZHplAJ6cBT4mn/ZI8g8Pb2BnKyeqh+qPaLc4AllgA5Jk5CoCa0khGBPEKMpLqpZt/assf+kIFPck6rMOQ5PT7ZzxU1d+Pc7u0bYnZnSxmr9ZC6BGDnwZnBS+KRm1svU8SYBLx3J1Pg3i0aavZh86XbpeQ==;h65WokuZQx21+3MMToE5jA=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 400
         isCached: true
+  - title: "Intel beats expectations, reveals new foundry customers and traction in AI, sending its stock higher"
+    excerpt: "Intel beats expectations, reveals new foundry customers and traction in AI, sending its stock higher - SiliconANGLE"
+    publishedDateTime: 2023-10-27T01:38:00Z
+    webUrl: "https://siliconangle.com/2023/10/26/intel-beats-expectations-reveals-new-foundry-customers-traction-ai-sending-stock-higher/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Screenshot-from-2023-04-28-07-47-35.png"
+        width: 653
+        height: 336
+        isCached: true
 
 secured: "KsL+O5ZuTF0TGdgW/DX2LaIS8g+lLVg2hz8otFnJACl8rLPO20UYAa3Pc8SYMhq7CVe/Vl0AyuKCAmhwZInetf0FDGIk47nv4bxmI2eB4G4chtdOp5hkyHiDiZdNAqBCJn+KlJQVXwrBu2XViRCbA505dmYjtbqgWa/mFjn1c1Re3LsatA3amicqsZaegwWVwpKjZUZ5mO0Hz+jrTn7fLUXczmdMKz2Lopj65k15SFJNn0cehJcwmnHCDursCfI/iOiEyzxIMnsUjC0mIkyKobJxJNGQUaVXD5Ob7hyKzCMDAqAAAUIEKJNJfaEZhV/h0ASNt9pfNJaCB0BNNE7W00hEFXCmc9SABqwQ3d64Zh8=;0j8bOqdFXWFMw/W9zIuy5A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://nbc-2.com/features/tech/2023/10/27/how-artificial-intelligen
 cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2023/10/27/how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace/"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -26,37 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Is In The Workplace More Than Employees Know"
-    excerpt: "You don’t have to work directly on the technology to have your career be affected by AI. Be proactive — learn about AI and understand how your employer is using it."
-    publishedDateTime: 2023-10-25T21:31:00Z
-    webUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/"
-    ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/amp/"
+  - title: "How AI is transforming the music industry with voice cloning, lyrics, beats and more"
+    excerpt: "AI tools and artificial intelligence technologies are transforming the music industry at a rate never seen before. Is AI good for creativity?"
+    publishedDateTime: 2023-10-28T15:33:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-ai-is-being-used-in-the-music-industry/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 32
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/653985367f7af9aad3aa260d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 896
-        isCached: true
-  - title: "AI will eat the world"
-    excerpt: "ChatGPT is synonymous with AI today. But there will be millions of “AIs” all solving different problems—like Google’s new AI healthcare tool that can tell doctors about their patients’ medical histories."
-    publishedDateTime: 2023-10-26T09:00:00Z
-    webUrl: "https://www.mauldineconomics.com/editorial/ai-will-eat-the-world"
-    ampWebUrl: "https://www.mauldineconomics.com/editorial/amp/ai-will-eat-the-world"
-    cdnAmpWebUrl: "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/editorial/amp/ai-will-eat-the-world"
-    type: article
-    provider:
-      name: MauldinEconomics.com
-      domain: mauldineconomics.com
-    quality: 59
-    images:
-      - url: "https://images.mauldineconomics.com/uploads/newsletters/Joltmauldin_20231025_Feature.jpg"
-        width: 725
-        height: 363
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/How-AI-is-transforming-the-music-industry.jpg"
+        width: 1280
+        height: 801
         isCached: true
 
 secured: "eY0PrjpLswMm/uxyUUnXfEUM8HUZLcXjaKltC+tjzqnFLKa3FgXUnIaoqbzX0xR2hDmi6YdBbUxW1ZlF+m49i3oZe3BEBiYgL+VZp7ucoQYXOnGYiLWlXLroeny/o3aFGE8LgijNTOjr/vr1kKnSKuo6VQ14G4ypst7VdVbAXboajpFDWh2Hq+CkqDnb6qCEVbCjzM3lo7uO0tQDTROuLn1qVAcDlQmBHYPkzR7fHCc/Hyki4F4kuG0LOTrvi7Zl8q+XqajHEC9uwBcU8GX2ugwu+QUZZVlM3CJQA8PsZUTHNHzE73trhgN0/ASAmX9Xoc4qamxtJRYor7fLwfFAqYCfxQM+4nHIqFZNnynUC7OjbCYlMNR6cIXKTP5BRTuFwHljChtq9kJb8Y33KMcntjxllTCD+OgkOJqt+ifee5EPts4n5bK4HAhVOXJRl6WPS7cI1M9oSkYnkJKH6PTgdd2nUIDCa9932zPRI6eNoylmaSrQML17kaN9J1cthZ6qk0PiqeEjVgg+RwG/1q3WuA==;9DiwZsThk312PAO5YyGr9Q=="

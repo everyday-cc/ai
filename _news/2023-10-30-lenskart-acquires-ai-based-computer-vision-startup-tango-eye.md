@@ -57,6 +57,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Lenskart acquires Chennai-based AI startup TangoEye"
+    excerpt: "lenskart has acquired chennaibased ai startup tangoeye which provides technology that gives customer insights based on cctv recordings collected at retail stores the peyush bansalled eyewear company f"
+    publishedDateTime: 2023-10-30T14:03:00Z
+    webUrl: "https://inshorts.com/en/news/lenskart-acquires-chennaibased-ai-startup-tangoeye-1698674583157"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/lenskart-acquires-chennaibased-ai-startup-tangoeye-1698674583157"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/lenskart-acquires-chennaibased-ai-startup-tangoeye-1698674583157"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 57
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/10_oct/30_mon/img_1698671884048_129.jpg?"
+        width: 1080
+        height: 617
+        isCached: true
   - title: "Lenskart acquires AI-driven computer vision startup Tango Eye"
     excerpt: "Lenskart has been an early investor in Tango Eye. The acquisition aims to enable a smooth transition between digital and physical touchpoints at Lenskart."
     publishedDateTime: 2023-10-30T11:11:00Z
@@ -105,6 +121,6 @@ related:
       domain: business-standard.com
     quality: 37
 
-secured: "ka9qUE0yJBvd+b+t46Y0mIOmrK/2U72idDlQekVJdSdsoy8X/TgzgMg9Ob55is8MjC6LaT5K3tNCh1ndri19y7OF5Xc5nas3GbrKejuNkp1UYKUA8dBbCPHOeF9UJqUkHaSNM1ufjKz+45Fjv6o9w0FfbkoUQUTm3ojxud/zM98Kgiq5+rUbQraW0IsncT5sQfCCpq6Lzf3V+8p02XF+gZ2hi8lbTz7jICn71XkN+PQR/D+7vFou3N6lADPf0jU3s4tQ+5z5h8+G4c2VNkmWZSztNPRFHoZNPNPeciB5kMBYoWBwvbC9H+DqXVcbj4Do1VO3Fzn+tQRzi9BNxeBfKku/0Kx+VLyAeJGRgy9p8vU=;lxbMxUoLhI76ZkEUUM+8yg=="
+secured: "ZNWSX+3uEKX7NbY0qQdC+RkgW6J0D4Nj5Aotp2p+CVXHoL5bh+ShoU/LQIC5OUPMTmEoso4EKqKaOwXIiAWVP3Qf0VAuB+q2s5HpQKXIfQiF2EVgFhIGHxoTUV2131uCComVCPLSAqOG/dac2IzVTaeeNn3wA1thKNA9u11P5LcpienZnEO0sbYraMTPDMNL1uF7DGEMyI8hiuUKpNBuwD5ItNWvMBKs5mwaEk5Yb/RnXHq5me8A1eKZZ1Unixo0ILEyqdkhElV+cvh1ZBWXBQrGPqyjQGQ+oGLo2FBLe+C82AShbJi14y/SxZ0uOtKHcznktJPmkHiFNLWBRnpt+RomM+FAbyBl9nXrh1CWNlsIA0sMABQXo+N/dgpt/9qKx9JZ2ibLi3phDN0tG2kylnHX8cAA68/3pqqLAqWBVu4jcU1wMgQxqdPbjTp6x+kvPL5Z4mqhV/wXXpoXmiEK9kgBFR013AiErn6e6yK+t4SnTK9EBajuJ8v/MfYEw4WW/HslSfkOXIL4tK4VTghs6w==;gmg+oh1Yte68+atnFxCBTQ=="
 ---
 

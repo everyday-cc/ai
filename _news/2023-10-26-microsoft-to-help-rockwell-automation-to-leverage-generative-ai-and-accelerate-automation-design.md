@@ -141,34 +141,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Earnings Call Highlights Latest In AI For Search & Ads"
-    excerpt: "Explore Microsoft's latest AI developments in search and upcoming plans for Bing in the company's most recent earnings call."
-    publishedDateTime: 2023-10-25T22:38:00Z
-    webUrl: "https://www.searchenginejournal.com/microsoft-earnings-call-highlights-latest-in-ai-for-search-ads/499361/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 54
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/10/microsoft-earnings-call-6539964cd5545-sej.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Microsoft grows cloud business, banks on full-stack AI strategy"
-    excerpt: "Large language models and the generative AI tools they power aren’t the only driver of Azure usage and revenue growth — but the technology has gained traction."
-    publishedDateTime: 2023-10-25T20:47:00Z
-    webUrl: "https://www.ciodive.com/news/Microsoft-AI-full-stack-strategy-Azure-cloud-growth/697831/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 54
-    images:
-      - url: "https://www.ciodive.com/imgproxy/AywSoSDyJzv2tqIvCkZtqQ8rXJeBON6IsbkGoo67ptY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTQ1OTg4NTkzOC5qcGc.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "Amazon rallies on cloud recovery as it chases Microsoft for AI business"
     excerpt: "Amazon.com rose 7% on Friday on a pick up in growth at its most profitable cloud business as it aims for a larger share of the booming artificial intelligence market in a race with Microsoft. The e-commerce giant was on track to add almost $90 billion to its market capitalization based on its last traded share price of $128."
     publishedDateTime: 2023-10-27T16:50:00Z
@@ -268,34 +240,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Microsoft took a chance by igniting the AI race, but it seems to be working out well for the company"
-    excerpt: "The lesson from Microsoft's strong AI-fueled quarterly financial results is likely to push other companies to charge ahead on AI products, for better or for worse."
-    publishedDateTime: 2023-10-25T19:32:00Z
-    webUrl: "https://www.aol.com/microsoft-took-chance-igniting-ai-163255322.html?ref=biztoc.com"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/U1EerTWyXWaME7oEkDdKVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/f8855f5ee8c7a64b5c49738dd4801c17"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft CEO Satya Nadella compares the advent of AI to the birth of atomic energy, calls for global regulation"
-    excerpt: "Satya Nadella traveled to the Axel Springer headquarters to receive the 2023 Axel Springer Award. While he was there, he sat down and had an interview with Axel Springers CEO Mathias Döpfner. The discussion covered a wide range of topics such as leadership, AI, the Activision Blizzard deal, and that canceling the Windows Phone was a mistake."
-    publishedDateTime: 2023-10-25T20:45:00Z
-    webUrl: "https://www.windowscentral.com/microsoft/microsoft-ceo-satya-nadella-compares-the-advent-of-ai-to-the-birth-of-atomic-energy-calls-for-global-regulation"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 35
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2VRy8dMEYDFnkRvdryH6hd-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Context Labs Deploys Platform on Microsoft Azure"
     excerpt: "The Context Labs platform is now deployed on Azure, with its enhanced security and Azure OpenAI Service tooling, delivering customer value in the energy transition. The initial target markets for these solutions include various energy industry verticals, multiple energy transition segments and natural asset management for climate regeneration."
     publishedDateTime: 2023-10-26T13:02:00Z
@@ -304,15 +248,6 @@ related:
     provider:
       name: ChannelVision Magazine
       domain: channelvisionmag.com
-    quality: 34
-  - title: "Microsoft says AI investments already paying off"
-    excerpt: "Wall Street is now laser-focused on how companies like Google and Microsoft will make money from AI. Why it matters: After nearly a year of hyping up AI, tech giants are facing greater scrutiny of their plans to launch expensive generative AI products and services."
-    publishedDateTime: 2023-10-25T22:51:00Z
-    webUrl: "https://www.axios.com/2023/10/25/microsoft-google-ai-earnings-cloud"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
     quality: 34
   - title: "Rockwell, Microsoft expand partnership with generative AI"
     excerpt: "Milwaukee-based Rockwell Automation Inc. is expanding its partnership with Microsoft Corp. “to accelerate automation design and development through"
@@ -323,6 +258,15 @@ related:
       name: BizTimes
       domain: biztimes.com
     quality: 34
+  - title: "We tested… the free artificial intelligence image creator offered by Microsoft"
+    excerpt: "It is the first artificial intelligence (AI) capable of generating convincing images that is both easy to use and free News"
+    publishedDateTime: 2023-10-29T16:12:00Z
+    webUrl: "https://www.dailynewsen.com/business/we-tested-the-free-artificial-intelligence-image-creator-offered-by-h125851.html"
+    type: article
+    provider:
+      name: dailynewsen.com
+      domain: dailynewsen.com
+    quality: 32
   - title: "Microsoft and Meta expand their AI partnership with Llama 2 on … – Microsoft"
     excerpt: "John Montgomery - Corporate Vice President, Azure AI In recent months, the remarkable strides made in AI innovation have ignited a wave of"
     publishedDateTime: 2023-10-30T08:22:00Z

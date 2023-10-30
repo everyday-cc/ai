@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 882
         isCached: true
+  - title: "Minister tells police to double use of restrospective facial recognition"
+    excerpt: "Policing Minister Chris Philp has said police forces should double the number of searches they make using retrospective facial recognition technology by May 2024."
+    publishedDateTime: 2023-10-30T14:42:00Z
+    webUrl: "https://www.ukauthority.com/articles/minister-tells-police-to-double-use-of-restrospective-facial-recognition/"
+    type: article
+    provider:
+      name: ukauthority.com
+      domain: ukauthority.com
+    quality: 38
+    images:
+      - url: "https://www.ukauthority.com/media/10859/facial-recognition-istock-1180902197-kengkat.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Policing minister urges forces to double use of facial recognition software"
     excerpt: "It comes despite a cross-party group of MPs and peers calling for the use of live facial recognition technology to stop immediately."
     publishedDateTime: 2023-10-28T23:01:00Z

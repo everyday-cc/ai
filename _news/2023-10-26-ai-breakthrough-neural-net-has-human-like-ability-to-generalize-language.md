@@ -7,7 +7,7 @@ originalUrl: "https://cacm.acm.org/news/277576-ai-breakthrough-neural-net-has-hu
 webUrl: "https://cacm.acm.org/news/277576-ai-breakthrough-neural-net-has-human-like-ability-to-generalize-language"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Neural Networks Achieve Human-Like Language Generalization"
-    excerpt: "In the ever-evolving world of artificial intelligence (AI), scientists have recently heralded a significant milestone. They've crafted a neural network that exhibits a human-like proficiency in language generalization."
-    publishedDateTime: 2023-10-25T22:31:00Z
-    webUrl: "https://www.unite.ai/neural-networks-achieve-human-like-language-generalization/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/10/5d7341cc-ea7c-4fe4-9f72-038780dd234e-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "tL2o7TdVExtpvMlMzrqj6blNR0WYIFGHnt12O7cHs2HwTaHzk4uwRRq0Od35Ck00f8/XGwC/f9rDCi5oAnT6NDoPDu4J51iedV4MM5segGJZPbiYIt7Yu92SbYejA9R4VAS+ist5IES4GJSLjg4V11BPGTae+n9JzFC0KpbeEZ1x/pEAhx6CjYsLxCmue/FbpjNTVjhD0lc9Z0wbtfn01fzX9EKLnL4jRiyFiWz3ZBia4ecLx8FI4nqXg4Ejigh5ZSBkXCjFJXNtqpVmgJ+GMjGH+2XtmaK5x919iWUir7vJWoQHgSjb9copnX3iDA6uW0WUmeGBLca/mSJB9lX2kLg8NZ0rFXsiSNDShi6UBn3qPd839WCYu4h1+Pl/glA7h8YryLsCpnw5svJUMJchWwPcclOqAEl/PBf6xFPk0I2zTm+LHp6r7C19q/+qv9hFqFLwoKnxy3JfPvLMSHQ7eneJJzTV2X5tfMUk7g6/Rkn4p/0gO24yn4m51/rqJLGX5e4EkcR/3HD9lr3Y0EMu5w==;NWwe+L8TgdLNVtyu4QsI8Q=="
 ---

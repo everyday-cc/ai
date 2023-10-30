@@ -36,15 +36,6 @@ related:
       name: Business Journal Daily
       domain: businessjournaldaily.com
     quality: 4
-  - title: "Zip Named Most Innovative Fintech Solution by 2023 Tech Ascension Awards"
-    excerpt: "Zip, the world’s only intake-to-pay platform, today announced its platform was chosen the Most Innovative Fintech Solution by the 2023 Tech Ascension"
-    publishedDateTime: 2023-10-25T20:32:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231025067897/en/Zip-Named-Most-Innovative-Fintech-Solution-by-2023-Tech-Ascension-Awards"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 3
 
 secured: "B+ebeKZjRllG0E26o4ZamMSEoDsl85MGwonRL99vjJcSg6b6LXj2QAy/MKGIvbCZstH6/FlexmsnU6l7UOT0t7V+lP60wY0/jo2X/ssqK1V+48KIHz6ulfrA989HQF2+9OAMCQbtIyXtJkvkQIylL4qoU6QccZpnp6Gg/cPtdaepCJ18DHR9eb+O/o0SwkMrRwqjMe78nfQnOO2leCihH9AYKEW1/ZapFsFICETNjiLyw7+9nFOOuHN5+fzNUo/325VVdf8KNxreHaBGjxgxGjyq+H1T77ZrSKA7dYcubcDUnyWgSnv4Dhx/3POT1JCdYBmTgUEO9w6sd/KIjWUVxrLfwGBNdeBSMDZ/jEFmBvSLR5SK+gaMpJvXfEVPVI2jQ5VQIPmESjFGK7/g0opxHHeXaOyjrjCQcxIInXUJ086hl1fqB3pv2RGo+hgDP2XXczgvhMq3w7pmoT/wVnPhK2kKrEXLCal3OHZHmaEVUNj93feIIYAzf77tFMaEmlIysWnveFi0fS3pttZL2iz9Jw==;4eKOlHKA9+zD/TgiXmkGvA=="
 ---

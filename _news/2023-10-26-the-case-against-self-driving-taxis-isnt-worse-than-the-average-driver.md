@@ -47,15 +47,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Self-driving taxis challenged by LA City Councilman; 'LA should not be a test subject for the tech industry'"
-    excerpt: "Los Angeles City Councilman Hugo Soto-Martinez is urging state officials to address the public safety issues associated with autonomous, or self-driving, vehicles."
-    publishedDateTime: 2023-10-25T19:07:00Z
-    webUrl: "https://www.foxla.com/news/self-driving-taxis-uber-los-angeles"
-    type: article
-    provider:
-      name: KTTV
-      domain: foxla.com
-    quality: 0
   - title: "'No self-driving' for 'the path to San Francisco': Chinese top diplomat Wang Yi"
     excerpt: "When noting that China and the US agreed to work together for the meeting between the two heads of state in San Francisco, Chinese foreign minister Wang Yi said on Saturday that \"the path to San Francisco\" will not be an easy one,"
     publishedDateTime: 2023-10-29T12:49:00Z

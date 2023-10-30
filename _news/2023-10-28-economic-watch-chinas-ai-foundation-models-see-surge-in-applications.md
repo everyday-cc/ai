@@ -24,6 +24,17 @@ images:
     height: 420
     isCached: true
 
+related:
+  - title: "TuMeke Ergonomics Expands Leadership Team Amid Growing Adoption of Computer Vision AI for Workplace Ergonomic Applications"
+    excerpt: "About TuMeke Ergonomics TuMeke is on a mission to eliminate workplace musculoskeletal injuries. This next-generation ergonomic risk assessment platform has been created by a team of engineers, ergonomists, academics, and problem solvers that are striving to maximize the safety and sustainability of work environments in a cost-effective way."
+    publishedDateTime: 2023-10-30T14:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/30/9907580.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
+
 secured: "0MBMNlAv1TBBwnTcJtCPv0SHDb0j45qmWkkI9/T9UvwO++MHHeVY05raOKAM8c6dXXYhuxyKnSnKLvVIQQbCKU6LwA0+LGx5rlLFz8OYvjfo0P7qJMO8vuZ09pniXkQkX9RflR/sEbpgkJse4WGdz+h5UAjOg9SRmS2NP9hRVmigshTX4TcG9zURNARE0NOn72H6ESUxC4f69JzNvHalTriZQtCat1+NhTHIilKoOsy0BTLsDBOpr4z/z3DV+Tua18e07bHPC8zeiliP3gWpsBjYFxMB6sdZo2/POQvhpWXJay+uQMO+BgsW1jAjif4OI0hKSunk920iWr2pehuzHjO4OEUPFfp+VWlOXViB8Pg=;p8iHW4n7hExRRhlSuA5xJA=="
 ---
 

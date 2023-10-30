@@ -35,19 +35,19 @@ related:
         width: 528
         height: 352
         isCached: true
-  - title: "Using Facial Recognition, SITA and Fraport Enable a Contactless Travel Experience for all Airline Passengers"
-    excerpt: "SITA and Fraport are enabling all airlines at Frankfurt Airport to jointly use face biometrics as identification from check-in to boarding the aircraft. Frankfurt is the first airport in Europe to offer biometric touchpoints to all airline passengers,"
-    publishedDateTime: 2023-10-26T08:34:00Z
-    webUrl: "https://www.lifepr.de/inaktiv/fraport-ag-frankfurt-airport-services-worldwide/using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers/boxid/965324"
+  - title: "Using Facial Recognition, SITA and Fraport Enable a Contactless Travel Experience for All Airline Passengers"
+    excerpt: "This website uses cookies to enhance your browsing experience and serve personalized content. Privacy Policy"
+    publishedDateTime: 2023-10-26T15:10:00Z
+    webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/53076421/sita-using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers"
     type: article
     provider:
-      name: Life PR
-      domain: lifepr.de
+      name: AviationPros
+      domain: aviationpros.com
     quality: 35
     images:
-      - url: "https://cdn.lifepr.de/r/2ab2416eeede0b0b/attachments/13/10/05/thumbnail_1310055_552x345.jpg"
-        width: 253
-        height: 345
+      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2023/10/2023_10_26_PM_SITA_Meilenstein_biometrische_Prozesse_DE.653a6d84c807e.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "WO/ni/lm8PqmxIFL5hoy6b2ZnIJg+5KfMMk9VzXJDM8Ea8mM4kcLjvilCZjuPvmZOtRoZPsfwNR9ydQiggfxBCAdMh28jrQSseJhfoUs9cF55zM5VlqFB81YMjoLxGmrxo7JycJRsIDna2ICUC7fqeB2UIPCMKmGXTV8jnya+jFuHGnRhI9C3UgZFxPT3wL30EbF+1jVpsVg/FDN6ccAFXpcp/weIpR0T11Ar+Z3evv6RuH9eUj4fkbe5sD+e+Dkc3tqKwHEcy/NWiWobBzcAqTp7LZW7LNtQE6Jx8UHCPiAey7ObmzyXv6MmU0Ie2ZdPRwJO3aLphuXPpKBINrdci/+KDKG5e+/6S/zsgUBnkrNJi+ifu0kAp6zNFWXy0oXbTBCjifkK+i7YJjhllS7Y8PQadrzx0v1OxHI1jCAg3tRQuHLOb7xwvXZagsvTJHaH3k0/w/63qXRA4wc1Hqg3pTEJGFa/gSON/6C7KlEgjQq/l9Q4ikJphzyoSRGU5xl4xtBstkl8jvbhZetr/9gnw==;HHpjGWP8lrYkivBifq4+ug=="

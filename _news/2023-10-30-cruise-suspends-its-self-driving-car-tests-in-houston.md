@@ -35,20 +35,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Triad man researches self-driving vehicles"
-    excerpt: "Mother asks drivers to pay attention on year after child hit, killed on Halloween in Oak Ridge"
-    publishedDateTime: 2023-10-25T20:05:00Z
-    webUrl: "https://myfox8.com/video/triad-man-researches-self-driving-vehicles/9116234/"
-    type: article
-    provider:
-      name: WGHP
-      domain: myfox8.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/myfox8.com/wp-content/uploads/sites/17/2023/10/AB79C6EC143E641313B051A624A3E85E.jpg?w=2000&#038;ssl=1"
-        width: 645
-        height: 363
-        isCached: true
 
 secured: "ViqFXHFRBxtkcVjPqyqrSFnIihYAPwe3RWVF8nMxkpOU00dZcBJubuRDAedmJij7+Fa4RW+EdoVh+mXdNieeg02wBqclxVMTozB5KID/scMQFtK1JvrK1rlw2ncuNdwaHcnEhMNaKp8yOpMrlLuS2zRIvq6+uBNdePVkpkffuKnyE2+Jo8Pe52DbYadezBR8IUzYOEQSNOn4AFouzjHFUj7CeiY7xQJ4HaDneyxcGEeeBhZsPdEhMBBDz/OhksI6RXnniKlN3DyQYCB8QHZJ0Gg8I7zIRKdmM0n8VwLw+a/RpHgLUB33xC5h6Wuz5/+L5KWbvjkCTI41a6mcCCxMSJuLGpqcRdX51yatcqx3122TaqHprkQNmkrMJLP6rQiSCDT1SK3FJE7eZ4LrzNtZVcoNpGrNcU+Codge/zJ5D+ucp11XPKrrYvyrQ7SLyx2TcfMtb4QcNcOdGrpVNHGn19Cdq/zFLzSmWDyk718nKc4naehVcQNKFLe58LUaihRhY5p1dnYYb6rWOKT0JvzvQQ==;1ErPYNmhVS4lzPnnWi8qQw=="
 ---

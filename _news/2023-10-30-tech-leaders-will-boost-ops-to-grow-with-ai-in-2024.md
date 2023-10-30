@@ -1,0 +1,63 @@
+---
+category: news
+title: "Tech Leaders Will Boost Ops To Grow With AI In 2024"
+excerpt: "These companies are also putting significant investment and technology budget behind their effort, with more than 45% increasing funds for AI capabilities by more"
+publishedDateTime: 2023-10-30T14:01:00Z
+originalUrl: "https://www.forbes.com/sites/forrester/2023/10/30/tech-leaders-will-boost-ops-to-grow-with-ai-in-2024/"
+webUrl: "https://www.forbes.com/sites/forrester/2023/10/30/tech-leaders-will-boost-ops-to-grow-with-ai-in-2024/"
+ampWebUrl: "https://www.forbes.com/sites/forrester/2023/10/30/tech-leaders-will-boost-ops-to-grow-with-ai-in-2024/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/30/tech-leaders-will-boost-ops-to-grow-with-ai-in-2024/amp/"
+type: article
+quality: 87
+heat: 107
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/653fb470a25813c3067cc8f8/0x0.png?format=png&height=900&width=1600&fit=bounds"
+    width: 1050
+    height: 788
+    isCached: true
+
+related:
+  - title: "Artificial Intelligence – what will it do to us in 2024?"
+    excerpt: "CEBU, Philippines — Artificial Intelligence (AI) will take an oversized role in enterprise tech strategies in 2024. It therefore makes sense to look at coming AI developments:"
+    publishedDateTime: 2023-10-26T16:00:00Z
+    webUrl: "https://www.philstar.com/the-freeman/cebu-business/2023/10/27/2306914/artificial-intelligence-what-will-it-do-us-2024"
+    ampWebUrl: "https://www.philstar.com/the-freeman/cebu-business/2023/10/27/2306914/artificial-intelligence-what-will-it-do-us-2024/amp/"
+    cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/the-freeman/cebu-business/2023/10/27/2306914/artificial-intelligence-what-will-it-do-us-2024/amp/"
+    type: article
+    provider:
+      name: philstar.com
+      domain: philstar.com
+    quality: 59
+    images:
+      - url: "https://media.philstar.com/photos/2023/10/24/tcl_2023-10-24_14-44-06854_thumbnail.jpg"
+        width: 686
+        height: 392
+        isCached: true
+  - title: "To our readers: How we are using AI in our newsrooms"
+    excerpt: "It is important to let you know about the technology and automation being utilized in an effort to better serve you."
+    publishedDateTime: 2023-10-27T18:29:00Z
+    webUrl: "https://www.miamiherald.com/article280707640.html"
+    ampWebUrl: "https://amp.miamiherald.com/article280707640.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/article280707640.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 39
+
+secured: "pc4VhfvTKadHcsFfVHy4WFBKjK0kXgaRphtHnQQoQIrCgW6U7PAv9+D+FDkX6wJ5TGHqbuXT41O8ao5Piug+XdQ3rk0cqM8Ar2mc8xAPSrpg6/eeM2yra8bey5cJs8BE//yRpg6jGYJDBBFZbryTOedMmG+fsnMbC8JLlhVyoGuGo6og6Bu3hrWM5ytFe+9+Qb/bv9W3Qo88u4ubtNpnOHVJujJQxWgTL+M80RD6FEhgdNL/O2rZ7fVPqrXj+Zv9VpOcLCAZnJAWRGtw+CAP0dTSiqphzdQIX1MDTxYCp5IgzAqpeihmuIYvSGxV2vT+XZestgCrVvVeIjFMg+UjwG6x7B1EyYZQQGg7sVqXcDc=;v4Fug82E1da7jUgh65/rDQ=="
+---
+

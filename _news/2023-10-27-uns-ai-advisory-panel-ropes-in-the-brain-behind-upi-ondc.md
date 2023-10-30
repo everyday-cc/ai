@@ -34,6 +34,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "AI will eat the world"
+    excerpt: "ChatGPT is synonymous with AI today. But there will be millions of “AIs” all solving different problems—like Google’s new AI healthcare tool that can tell doctors about their patients’ medical histories."
+    publishedDateTime: 2023-10-26T09:00:00Z
+    webUrl: "https://www.mauldineconomics.com/editorial/ai-will-eat-the-world"
+    ampWebUrl: "https://www.mauldineconomics.com/editorial/amp/ai-will-eat-the-world"
+    cdnAmpWebUrl: "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/editorial/amp/ai-will-eat-the-world"
+    type: article
+    provider:
+      name: MauldinEconomics.com
+      domain: mauldineconomics.com
+    quality: 59
+    images:
+      - url: "https://images.mauldineconomics.com/uploads/newsletters/Joltmauldin_20231025_Feature.jpg"
+        width: 725
+        height: 363
+        isCached: true
   - title: "Put artificial intelligence on the ballot"
     excerpt: "Similarly, the 2006 midterm theoretically amounted to a vote on the Iraq War. If Congress rushes to regulate artificial intelligence, then the upcoming election could, in part, be a proxy election on that AI policy. Given the potential of AI to upend our ..."
     publishedDateTime: 2023-10-26T13:56:00Z

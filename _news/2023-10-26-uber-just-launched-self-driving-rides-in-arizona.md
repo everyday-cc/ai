@@ -34,15 +34,6 @@ related:
       name: NBC Los Angeles
       domain: nbclosangeles.com
     quality: 19
-  - title: "Arizona says closely monitoring use of self-driving vehicles"
-    excerpt: "The Arizona Department of Transportation said it was aware of the announcement from California and was closely monitoring the situation. \"Public safety is our highest priority, and we are in regular communication with and closely monitoring Cruise and other companies testing and operating self-driving vehicles in Arizona,"
-    publishedDateTime: 2023-10-25T21:58:00Z
-    webUrl: "https://www.aol.com/arizona-closely-monitoring-self-driving-175410320.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
 
 secured: "dlq92BvAetfAX7c0dOQ35b5wmcqnfSBUnnmz9nBYlpm9uaJTljJHcfyqvsCefPmv7Za1eLLwnciRFX7LlohJi5zBuyDJTcpNmDlXC8vqxxIQVB0uU3XxnvISXrJEyW8rUk7nsaAUludN0Krs5uZMxl5qeZE5g2h1CtHnzyMhv3olf3TdrZOYA6SyA0uJB5zPxt/TIup/CU2nbAU2W6qog5BbORHTbfGu9GXEJKJxnllKh5C62fmg5w7uwo/xxRi9bysrbOyote9zbIBALDgsrgKiIpMYRzrPDfYuldx8+Bo7cyWesNSTKr7w3X6R5PCCvMxetnsDEGRW/YpQBleBNncsyWCPCfZ2v++fe65iK7luB1NjberOpHTNA0bVJhfiodSR3mwZDmaT3P+UoKZoQNBtMvQTkz7hzrR4nc8nILM7awvNSmfXiletSANZycrxBGl50y8feNZgNjaLVMeJX4eJr1jhSKZQqVbHFuHP98uo0JIQaPJEB8Oi5CNSropkEXzfkOt2ICI3fwmoNRD7PQ==;2F8ffikJA1CkwkpM009kJg=="
 ---

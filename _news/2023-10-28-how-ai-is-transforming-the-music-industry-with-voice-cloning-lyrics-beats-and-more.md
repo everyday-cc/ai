@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/how-ai-is-being-used-in-the-music-in
 webUrl: "https://www.geeky-gadgets.com/how-ai-is-being-used-in-the-music-industry/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence is transforming payments"
-    excerpt: "Climate change is robbing some hydro dams of water while oversupplying others—forcing managers to employ new forecasting technology and clever strategies to capitalize on what they have. WIRED s ..."
-    publishedDateTime: 2023-10-27T17:37:00Z
-    webUrl: "https://www.wired.co.uk/bc/article/artificial-intelligence-transforming-payments-jp-morgan"
+  - title: "How artificial intelligence is monitoring employee performance in the workplace"
+    excerpt: "Artificial intelligence has been around for years, but the technology is being used in new ways, including to monitor your performance on the job."
+    publishedDateTime: 2023-10-28T03:09:00Z
+    webUrl: "https://nbc-2.com/features/tech/2023/10/27/how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace/"
+    ampWebUrl: "https://nbc-2.com/features/tech/2023/10/27/how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace/"
+    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2023/10/27/how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace/"
     type: article
     provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 19
+      name: NBC2
+      domain: nbc-2.com
+    quality: 53
+    images:
+      - url: "https://nbc-2.com/wp-content/uploads/2023/10/ashley-nbc-10.27.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "tspG/T0qgFaqi29PgWM1hvBNyD7ARLykBlzPnMwE4VwTuTbjN1ultaO4PmOFljamcK38MS70wFsLsK/d9cVXBEmqbhp0G9y/O+ff9jimmsXLOAHT3aHZer1WnKfrEb9BUcsucqII5+pW2xMyD9H+c0S7e7azAjp0Aep2P5Z2yjQwWKE62CHmrprofJTfGZW2q+KufwXItRBuAJto38x1rrxz6WLHTuODy44VeBqy+8klkGLlQM6x3GMMv/bnuwpd+cCl9zif/qsHS8VroiLIvly3NuSGptLIcu9agMWbZbKFpO6EQoWEiyKAcoJXrjmahiT4hUkh0zjTJ04VwYPYgGhR7awT7JUlKTaoQMrq+pI=;6+572/OAgzJALS11icLWlA=="
 ---

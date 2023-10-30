@@ -3,10 +3,10 @@ category: news
 title: "Where's AI steering driverless cars?"
 excerpt: "GM's Cruise taxis were banned from California roads after the state said the driverless car company misrepresented safety data."
 publishedDateTime: 2023-10-27T23:25:00Z
-originalUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/"
-webUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/"
+originalUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/?ref=biztoc.com"
+webUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/?ref=biztoc.com"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.marketplace.org/wp-content/uploads/2023/10/GettyImages-1626054002-e1698443650973.jpg?w=1200"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Cruise, GM’s robotaxi service, suspends all driverless operations nationwide"
@@ -126,6 +120,6 @@ related:
       domain: detroitnews.com
     quality: 0
 
-secured: "IR78/o2w658kLOVMW5ZTRy3RuWK+RfTKnOL8QR1Eyo1wDN05UTAB/+D1Uj59W+4XKTwMmtXZKfCXsIy6t95e4tDOOyra1e4oasA7LGA9BW+bucITUkX6rX1+SICs1o/t5h/Ukp2aLAGn2f6voKOvadYfDIjQTMHzyk4UavTvD1Z1vbNFqYVkAiXGDXKndSsYJEmbbMBLEwja2KWSsu0HNTt+D/uNjYMO8ycwXZvlvuoxL6/kOcN4S8oZdJvMlPKLbBnz8TVNyiFgQSpJ7oDzzADvTFt1wrx+fqb9zYr/rZ+rF4cwrWJkZbafug9pz0/T+wbVwZIikLwhm9yWjzP8ni5rDOg+xYiTvLWivzC9AQq/I0Yty9pq4uVDuqFaNyxPEqi9hLiUq3AYj6iXuJNK5tDYglYndjJ6JtNGsvK15RPDZbmQ3fRQdlMuyEi4sbeV8x6qdQ8wLRv96TVBE/K2QbI8xXm3SVX+tk6b7QSJ5fr45psrYH7oKUxjJfRJtIDVCsqL4gUATwlpizwI2NENlw==;xrY46mc2SlfacWBIft81gw=="
+secured: "i5RaHQuEytgnGmLXv5M07Dj5HcxjBBF/ZKgyu9tPEe6cEzvwyOnMTPrRm2qcvzxLtBT7JMyUk30NZPPSCmZOchkmuDe5me3Ko5AbhHEcQZ31eSPVfccITok9fDe7D7js4IcR3BsF5Y2D1jXe0H1fjPGDiyJyjhhEfi0xgjKgy8HDBN5/ylggi/zngYRM3aqZX8uUCOIVS5eZBgEo+OnLdfil+Zo9cY5WCQjrnMWoBWCo9c6iEXYQBmET81ZcIv8mGQUaIeBl+hJLMcV1mSgWOndprE46NZGtaSIgIGrLr7aXRuT1YgBacSdBZYEGYr0mVdtfbIT8MsIxMvPpnKP6K15ouGOkO/aYFdE7kSQXtEc=;zGkxd5vI2+uhwxZaNwpfXg=="
 ---
 

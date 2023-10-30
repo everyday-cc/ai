@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Pony.ai announces large investment from NEOM"
-excerpt: "Chinese self-driving startup Pony.ai announced on Wednesday that it has obtained an investment of $100 million from NEOM - a smart city being built in northwestern Saudi Arabia - and the NEOM Investment Fund."
-publishedDateTime: 2023-10-26T02:55:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202310/26/WS6539cf06a31090682a5ead93.html"
-webUrl: "https://global.chinadaily.com.cn/a/202310/26/WS6539cf06a31090682a5ead93.html"
+excerpt: "Baidu and Pony.ai's autonomous driving vehicles test on the street in Yizhuang in Beijing's southern suburb. [Photo provided to CHINA DAILY] Chinese self-driving startup Pony.ai announced on Wednesday that it has obtained an investment of $100 million from ..."
+publishedDateTime: 2023-10-26T03:09:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202310/26/WS6539cf06a31090682a5ead93.html"
+webUrl: "https://www.chinadaily.com.cn/a/202310/26/WS6539cf06a31090682a5ead93.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,29 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202310/26/6539cf06a3109068cafedd62.jpeg"
-    width: 720
-    height: 404
+  - url: "http://img2.chinadaily.com.cn/images/202310/27/653b07a3a3109068cafeeaf1.jpeg"
+    width: 717
+    height: 477
     isCached: true
 
-related:
-  - title: "Pony.ai gets $100M, establishes JV with Saudi Arabia’s Neom"
-    excerpt: "Chinese autonomous vehicle startup Pony.ai has scored $100 million from Neom, Saudi Arabia’s futuristic city and development project. As part of the deal, the two plan to establish a joint venture to develop, manufacture and deploy autonomous vehicles ..."
-    publishedDateTime: 2023-10-25T21:15:00Z
-    webUrl: "https://techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/"
-    ampWebUrl: "https://techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/pony-prl-backgroung-v2.jpeg?resize=1200,900"
-        width: 1200
-        height: 900
-        isCached: true
-
-secured: "3xOwX6iv3510OPb6aN5l6qFamGGLi8PyPDH6AV6+plrI97dbkcxCWM9wDNs51UhnjP9HZM8u+OOwAJdk1RzR7hxkX2Ep+pkhb6fufvqRRpQi/jzZnBMiZxXvjDRwJ5pxh4RVO7hGiNrpAZopFJfCUEkxPJntPaYP8ErfC9Hpmkk5uXHgbEfYBfXzZ9w5qKgmd6kopB9NAiQ2ohu1cH4bVDyhPCes3sZp+YtkeXCpaKspdyr5sPzENBIP4tfKcfSpW2kj04kIgwwSSa3Ia+5bcSiq+YsyA1t6dvYWPHfyfSA5e7QZXdg+hLu7nDlRzyiU2OSoi+jlLA4Zc8pHRHtsqo3KMzPXTTDP2aThnCJEnNstgmA2elkazIaAbeTZip2974afdgnRLb3U9qpH6EMkp6rphfhMgzTTNoijbPYHW336XSyj8WliJNMJilFrQEGWmCBldBhd6/a0bXeVcnb7RXQNCWfFimnpaWaob+n/Cx4X5gv926uPsmtx+U/GmviXwCOnwM/On4Mqvan4+Z7QoA==;z6tx1R9Nezn4kr0JTZUnMw=="
+secured: "6lonByoObeOpfrGj09VQL2sWKOtsMzBneBjMK70P/VhfoQIxIrUpqHpeRBlVI7uPlONyMwVhrSE45lrZMrjaODUav9URUy+QV6qoi7ibH/R4EUhS4gEUlyvENJSw7uL1bI4RPoZbRYChazeGE+KC5kH8jhudZ/hlg+1SM1EJwDpqNH6Ig8Dtrd84IgNJS+p0o1YTMBh1e2wvnxDExaZNX3YSLA7G6ZXYRpMlCxVeFZjLXp2AuhlNkktu16Iy7G70aGB8rmoWi/zc8YHNA9NjPJkAxdwSbOls4KlbNNxMtCXPC9NX4BHr76uvG1HEcq8L3291nllZxJTv2dSJzijYsrFNYKH9Cqd/hxPxd75dccc=;iXD2M9SvS1fboZILs2q6cw=="
 ---
 

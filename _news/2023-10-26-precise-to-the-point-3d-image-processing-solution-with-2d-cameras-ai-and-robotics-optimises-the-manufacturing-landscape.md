@@ -83,15 +83,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Kate Darling on the Future of Robotics and AI Ethics"
-    excerpt: "In this episode, we recap the recent RoboBusiness 2023 event and the recent news of Agility Robotics humanoid testing at Amazon. Our featured interview on this episode is with Dr. Kate Darling, who is joining Marc Raibert in her dream job at the Boston Dynamics AI Institute to head up their AI and ethics research group."
-    publishedDateTime: 2023-10-25T22:20:00Z
-    webUrl: "https://www.roboticsbusinessreview.com/news/kate-darling-on-the-future-of-robotics-and-ai-ethics/"
-    type: article
-    provider:
-      name: Robotics
-      domain: roboticsbusinessreview.com
-    quality: 66
   - title: "Artificial Intelligence and the Future of Trucking"
     excerpt: "You’ve been hearing a lot about Artificial Intelligence lately. Is it just another computer system? Or as revolutionary as the experts say?"
     publishedDateTime: 2023-10-27T14:30:00Z

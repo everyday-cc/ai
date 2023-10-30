@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-reg
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

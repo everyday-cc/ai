@@ -53,15 +53,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Why Nvidia Is Still the AI Chip Champ Despite U.S.-China Tiff"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) has been a darling of the stock market throughout"
-    publishedDateTime: 2023-10-25T19:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-is-still-the-ai-chip-champ-despite-u-s-china-tiff-1032740345"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Is NVIDIA a Good Buy After the White House AI Chip Sale Ban?"
     excerpt: "The U.S. government placed restrictions on the export of high-end semiconductor chips to China and Russia – of which NVIDIA is a market leader. This, of course, posed a large fi"
     publishedDateTime: 2023-10-27T20:30:00Z

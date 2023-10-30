@@ -18,21 +18,33 @@ topics:
   - AI
 
 related:
-  - title: "Airbnb using artificial intelligence in states like Texas to crack down on Halloween parties"
-    excerpt: "Last Halloween, the company says it stopped around 11,000 parties in Texas on Halloween night, with about 1,500 of those being in Austin."
-    publishedDateTime: 2023-10-27T03:14:00Z
-    webUrl: "https://www.newswest9.com/article/money/austin-airbnb-ai-halloween-parties/269-4f51969c-e747-4eda-99ef-8acaec6ac545"
-    ampWebUrl: "https://www.newswest9.com/amp/article/money/austin-airbnb-ai-halloween-parties/269-4f51969c-e747-4eda-99ef-8acaec6ac545"
-    cdnAmpWebUrl: "https://www-newswest9-com.cdn.ampproject.org/c/s/www.newswest9.com/amp/article/money/austin-airbnb-ai-halloween-parties/269-4f51969c-e747-4eda-99ef-8acaec6ac545"
+  - title: "Midjourney vs. DALL-E 3 in ChatGPT: Which AI does Halloween better?"
+    excerpt: "From friendly witches to haunted houses, discover which AI tool creates the most chilling Halloween images. Turns out, AI can be scary -- and fun."
+    publishedDateTime: 2023-10-30T08:35:00Z
+    webUrl: "https://www.zdnet.com/article/midjourney-vs-dall-e-3-in-chatgpt-which-ai-does-halloween-better/"
     type: article
     provider:
-      name: NewsWest 9
-      domain: newswest9.com
-    quality: 61
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
     images:
-      - url: "https://media.newswest9.com/assets/KVUE/images/76c7fca8-66df-4657-94f9-f7b3d9ee4b45/76c7fca8-66df-4657-94f9-f7b3d9ee4b45_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://www.zdnet.com/a/img/resize/8abfc2d8f3cc92a7eaaa6452926d9f31b2444657/2023/10/30/f15b047e-006f-45e4-b024-bf9bb45ee599/friendly-witch.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "OpenAI Captures the Magic of AI With ChatGPT and DALL-E – Built In"
+    excerpt: "Artificial intelligence, once considered the stuff of science fiction, has drifted into the mainstream in recent years with Siri, Alexa and other voice"
+    publishedDateTime: 2023-10-29T14:34:00Z
+    webUrl: "https://www.inferse.com/770803/openai-captures-the-magic-of-ai-with-chatgpt-and-dall-e-built-in/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-314.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "NVallJJXBdq+7IMUf1er8N1aRanrQfNgoWoHH8RJU+gNQI4UCFALaq14pfgMcOuMlVjIBqk0jGg7ErdjsZY/j3m7mITTgfXh2kryM9FGTW3tkZPWNU+QKk87MoarJhblZMQO6rEGc4/FysAIFw4uL2rFqG/nCnokI5w+LnefXQ6VaGrQ1U2A669LOyObbPt7+b+NfWrLO/QMXazwn9UbfJoxO2vOmetbxxa4SXNDwpvdiDiDAADCXuqtoZfu+ILhZYTLwJ9EhL+E43J8+VLvzclinpOXOwOWSvcZKVdtB1j0nusH7RREHEoohW0zhWnXRGPR+/Yu+Y5z/iFPAL7HLe7uACYhWSyLOlN3MjVZYDU=;5S4lnN5QUbB5sF2O/vrZzA=="

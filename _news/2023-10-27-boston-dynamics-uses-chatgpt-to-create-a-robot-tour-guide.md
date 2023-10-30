@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-c
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 450
         height: 270
         isCached: true
+  - title: "Mercedes-Benz Direct Chat: an internal ChatGPT application for employees"
+    excerpt: "Mercedes-Benz is rolling out an internal web application for its employees - the Mercedes-Benz Direct Chat. It uses OpenAI´s ChatGPT technology through Microsoft Azure OpenAI Service. It's a text generator that uses machine learning and natural-language processing to deliver precise and contextual answers in just a few seconds."
+    publishedDateTime: 2023-10-30T15:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/30/9907385.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "yCJuyGsIR1vTGt9VcSS+zfO5w9YTzTZOESVeVXR8XUnnE7ij2c5ggnRz91OPKsSYMuJXOtXAighqcSi+zjSkFQgYQrgpYJ6kjryGRzvgy/VK06OjFMjut10oDtfGrWAC/GsJw3bjgu6pghNVqtDzN1xEVFqKoU7NLNlOr+h+k/86X8esy3z/hwA74IT1T1Lrw+MUhRG1PRJIK3mgoLsNbi/urw9crVNkpkjNA9FUkqOjkDtaZtU7HGEahyqqBzfFai4VrFs5sGI7TZ6JF7VBPQsNr2y2uTuUjEhZLE/Fa/+qbSHgyGHoTgYvm8ZXA78bzjN2YXX325W2B9WzmNit0gLNb18npqT9r2P0NIe4L6fWPNxRClenS5EX0mK4Njf1HvJHYb7bG6jRc1Gi3BZvlIP0bfXpMsIdc8SUrRqvg7YLZSwACJQ/awFf1T1b0HKxv09FGU0la6WnZE7ignW0jK/xo5Z5AvMUEJc5yanOeK5SKUQjMP3DHME24j7+3nLe1hUGJ93i9wlYbUj/LYNJgQ==;6XsdT0whSDclMTtOiygunA=="
 ---

@@ -22,17 +22,6 @@ topics:
   - Facebook AI
   - AI
 
-related:
-  - title: "Unlocking Industry Cloud Potential: Transforming Businesses With Cloud-Powered Field Service Software"
-    excerpt: "Cloud technologies, generative AI, and compliance with industry-specific standards have become essential components of their success. The convergence of these factors is reshaping field services and building an in-house industry cloud considering the right factors can empower organizations to thrive in a competitive environment."
-    publishedDateTime: 2023-10-25T19:52:00Z
-    webUrl: "https://www.fieldtechnologiesonline.com/doc/unlocking-industry-cloud-potential-transforming-businesses-with-cloud-powered-field-service-software-0001"
-    type: article
-    provider:
-      name: Field Technologies Online
-      domain: fieldtechnologiesonline.com
-    quality: 0
-
 secured: "Qtfpl67DTtokE59/IPI8hDoRSTmfOXiyawLVD+OK3/ivCWDn48WdaD7HAi7VxqN3V/aiZGl4+1XcTlrOcSlcP+N5/8PFkmMbEwr8GzAtBZs9krY36jpvo6Sw1jm2UxIZWeDPO0vhxGv65S2MIhgLkt5f9WVdL8IY7wZu/zg/J3Yukya+EtmZmhCBdVT349QQLHwJvctl55lBXHBqvnjmANZBZIFByYzN+ZEpZxlc3+GMeCCjSAGnTmrv8sFwMrhvLQelreC7SBjpgbOOcIcAfltyhzVGjcrSSzv0IR3jbCHKnrnxxSk5eU904YpxKUcpiUn8IeUTIC7aHm09elwSCWSs6cqAzyjPptfvujFF4qywMsmwwE8xbmTrgT/j3wkaFsCsoyZz0IWESag/70xMwb4p2XNigypDxv+yXapff886ZZYmL4RfkA6n/wEyNICXW3DfjSg+/VjjmOt3PXlc3+s/IsOpzDvX8nlAJyrk/XzXhG9IV8fjsbI9ja+LyDFbedb3eZ34cJQPuMUtWLY9Lg==;QhbW6vvNX+hFF6NvNtIbEQ=="
 ---
 

@@ -49,15 +49,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Why Nvidia Is Still the AI Chip Champ Despite U.S.-China Tiff"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) has been a darling of the stock market throughout"
-    publishedDateTime: 2023-10-25T19:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-is-still-the-ai-chip-champ-despite-u-s-china-tiff-1032740345"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "AI startup Twelve Labs attracts $10 mil. from Nvidia, Intel, others"
     excerpt: "Twelve Labs, Korea's generative artificial intelligence (AI) startup, has attracted a combined $10 million from U.S. chip design company Nvidia, U.S. chipmaker Intel and two others, according to the company Friday."
     publishedDateTime: 2023-10-27T01:02:00Z

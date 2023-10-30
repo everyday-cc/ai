@@ -105,6 +105,20 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "Minister tells police to double use of restrospective facial recognition"
+    excerpt: "Policing Minister Chris Philp has said police forces should double the number of searches they make using retrospective facial recognition technology by May 2024."
+    publishedDateTime: 2023-10-30T14:42:00Z
+    webUrl: "https://www.ukauthority.com/articles/minister-tells-police-to-double-use-of-restrospective-facial-recognition/"
+    type: article
+    provider:
+      name: ukauthority.com
+      domain: ukauthority.com
+    quality: 38
+    images:
+      - url: "https://www.ukauthority.com/media/10859/facial-recognition-istock-1180902197-kengkat.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Universal Orlando Resort Tests Facial Recognition Technology for Guest Entry"
     excerpt: "Universal Orlando Resort has begun testing a new facial recognition technology, dubbed “Photo Validation,” as a potential replacement for the current thumbprint scan used at park entrances. The technology is designed to streamline park operations"
     publishedDateTime: 2023-10-28T22:46:00Z

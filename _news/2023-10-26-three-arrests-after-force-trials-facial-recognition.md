@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/articles/c51jzy42p19o.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/c51jzy42p19o.amp"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-652ovhkibhg82kh6on274ihkn1-20180205010800.Medi.jpeg"
         width: 800
         height: 448
+        isCached: true
+  - title: "Minister tells police to double use of restrospective facial recognition"
+    excerpt: "Policing Minister Chris Philp has said police forces should double the number of searches they make using retrospective facial recognition technology by May 2024."
+    publishedDateTime: 2023-10-30T14:42:00Z
+    webUrl: "https://www.ukauthority.com/articles/minister-tells-police-to-double-use-of-restrospective-facial-recognition/"
+    type: article
+    provider:
+      name: ukauthority.com
+      domain: ukauthority.com
+    quality: 38
+    images:
+      - url: "https://www.ukauthority.com/media/10859/facial-recognition-istock-1180902197-kengkat.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "Policing minister urges forces to double use of facial recognition software"
     excerpt: "It comes despite a cross-party group of MPs and peers calling for the use of live facial recognition technology to stop immediately."

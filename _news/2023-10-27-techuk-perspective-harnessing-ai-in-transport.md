@@ -7,7 +7,7 @@ originalUrl: "https://www.techuk.org/resource/techuk-perspective-harnessing-ai-i
 webUrl: "https://www.techuk.org/resource/techuk-perspective-harnessing-ai-in-transport.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 400
     height: 267
     isCached: true
+
+related:
+  - title: "Bringing Non-Technical Leaders To The AI Table: A Healthcare Perspective"
+    excerpt: "I believe AI’s meaningful outputs largely depend on alignment among these stakeholders. If their concerns are neglected, AI cannot foster long-term, industry-wide change."
+    publishedDateTime: 2023-10-30T12:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/bringing-non-technical-leaders-to-the-ai-table-a-healthcare-perspective/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
 
 secured: "62wvs88m/WrZjg4202XPD4zhnccalER/GNzbxRtx+BYYmpsinhensq8otUrdY96UgUfYbf6YsycZS2conG2rBjC+RH4OtO2ZjbBk1mn/kqA6khWCxGp6F6+iOdHCNeCn8wHkI6LQWuVAcUtxSXS68spAJlqpzykdqVKun+aTplGITSI54Cj5vfl3zmFzmA6g4jpudGNSbekAHmh2UXc8ayYcC7oE88UEmjMc0w6To9DMahH41yaN1TSrIPdDf8kjVlRdI1ozMT0Uo5QlJIQtmW9zcNdiI62NLvWidkqnrUuTzaJSmiJ4tNV2A4UEKX/DWoY9oxZrBHix+4OoSiUUOG5jzG1hoc/OxNy4VguFq2A=;YLsaiwQKVcvsvYvFrdTIRA=="
 ---

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Triad man researches self-driving vehicles"
-    excerpt: "Mother asks drivers to pay attention on year after child hit, killed on Halloween in Oak Ridge"
-    publishedDateTime: 2023-10-25T20:05:00Z
-    webUrl: "https://myfox8.com/video/triad-man-researches-self-driving-vehicles/9116234/"
-    type: article
-    provider:
-      name: WGHP
-      domain: myfox8.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/myfox8.com/wp-content/uploads/sites/17/2023/10/AB79C6EC143E641313B051A624A3E85E.jpg?w=2000&#038;ssl=1"
-        width: 645
-        height: 363
-        isCached: true
   - title: "Cruise suspends its self-driving car tests in Houston"
     excerpt: "Cruise has pumped the brakes on a nationwide experiment in autonomous vehicles and has suspended its self-driving cars in Houston. Catch up quick: Officials with the company, a California-based subsidiary of General Motors, announced late last week they are pausing driverless operations."
     publishedDateTime: 2023-10-30T11:19:00Z

@@ -95,20 +95,6 @@ related:
         width: 971
         height: 630
         isCached: true
-  - title: "Honor's Magic 6 Phone Teased With Generative AI and Eye-Tracking"
-    excerpt: "The new chip will allow Magic 6 owners to tap into generative AI wherever they are, even offline. The buzz around generative AI tools started last November when OpenAI released ChatGPT. Since then, companies like Google and Microsoft have been in a rush to ..."
-    publishedDateTime: 2023-10-25T21:42:00Z
-    webUrl: "https://www.cnet.com/tech/mobile/honors-magic-6-phone-teased-with-generative-ai-and-eye-tracking/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
-    images:
-      - url: "https://www.cnet.com/a/img/resize/47cb261b2b462fe25aaa3c087244fc80c599f70a/hub/2023/10/25/1d946b27-8f0b-4525-8ed5-42c0a0cb4b3f/screenshot-2023-10-25-at-2-28-54-pm-1.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The new AI imperative: Unlock repeatable value for your organization with LLMOps  "
     excerpt: "The series will examine what makes Generative AI so unique and how it can meet current business challenges, as well as how it drives new forms of collaboration between teams working to build the next generation of apps and services. The series will also ground organizations in responsible AI approaches"
     publishedDateTime: 2023-10-26T16:00:00Z
@@ -185,6 +171,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Accelerating Innovation Through Generative AI"
+    excerpt: "Amidst the explosive growth of generative AI, effective leaders have begun to identify key opportunities to use its tools to support and fuel innovation."
+    publishedDateTime: 2023-10-30T12:36:00Z
+    webUrl: "https://www.forbes.com/sites/johnbremen/2023/10/30/accelerating-innovation-through-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "How artificial intelligence is shaping the college application process"
     excerpt: "College admissions are facing a new challenge in the form of generative AI in the college application process. How are universities dealing with this?"
     publishedDateTime: 2023-10-26T06:06:00Z
@@ -208,6 +203,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
+  - title: "The Artificial Intelligence Imperative for Lawyers"
+    excerpt: "The law school curriculum has long needed an update. We propose that a training in AI be a complement to legal education, not a replacement."
+    publishedDateTime: 2023-10-30T13:08:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/10/30/the-artificial-intelligence-imperative-for-lawyers/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 21
   - title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
     excerpt: "Today IBM launched watsonx Code Assistant, a generative AI-powered assistant that helps enterprise developers and IT"
     publishedDateTime: 2023-10-26T21:37:00Z

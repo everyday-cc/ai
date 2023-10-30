@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3709688/intel-shows-recovery-i
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709688/intel-shows-recovery-in-pcs-but-faces-competition-in-ai-data-centers.amp.html"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,20 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Intel beats expectations, reveals new foundry customers and traction in AI, sending its stock higher"
-    excerpt: "Intel beats expectations, reveals new foundry customers and traction in AI, sending its stock higher - SiliconANGLE"
-    publishedDateTime: 2023-10-27T01:38:00Z
-    webUrl: "https://siliconangle.com/2023/10/26/intel-beats-expectations-reveals-new-foundry-customers-traction-ai-sending-stock-higher/"
+  - title: "Intel Is Counting On AI Inference To Save The Xeon CPU"
+    excerpt: "There is little question that generative AI as well as other kinds of machine learning are going to augment applications in every industry and in every part of the application stack in the coming years."
+    publishedDateTime: 2023-10-30T14:31:00Z
+    webUrl: "https://www.nextplatform.com/2023/10/30/intel-is-counting-on-ai-inference-to-save-the-xeon-cpu/"
+    ampWebUrl: "https://www.nextplatform.com/2023/10/30/intel-is-counting-on-ai-inference-to-save-the-xeon-cpu/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/10/30/intel-is-counting-on-ai-inference-to-save-the-xeon-cpu/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Screenshot-from-2023-04-28-07-47-35.png"
-        width: 653
-        height: 336
+      - url: "http://www.nextplatform.com/wp-content/uploads/2023/07/intel-xeon-xp-logo.jpg"
+        width: 765
+        height: 460
         isCached: true
+  - title: "Leading Education Organizations Come Together to Promote the Safe, Accountable, Fair, and Efficacious Use of Artificial Intelligence"
+    excerpt: "Led by a coalition of leading organizations from the fields of education, technology, and learning, the Alliance will focus on guiding policy, fostering collaboration between research, policy, and practice, while advancing best practices in the use of AI in K-12 education."
+    publishedDateTime: 2023-10-30T13:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/30/9907477.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "FUM/dqN25MHvybO+HuTIdJgXvYYnVG816KqguxJW6JKgVAz+C6tcl7WoWIcH1ay0QKWXCcife4T4u/XYPToBcIYz0O0F+dOO7XLEj/QtlyrATO2TWImW/5uNMfB+nhLeMqSN49znMmrXM6kdPN8BI65MNnJITfPhlV9nD42+M2oOOJrKdDUaA27mq4EsgShzH2Sf+ME729XevrWZv6PvKak27LWOuzWqyBytUX4N7LNxpiREe5jRT3dOUYAhmpsk5K3mAhhRsOfv/0viNlnWIn0WcrY1pva+dng2U1xD9jVyl8dzq99er14BejCSeMCDLtdFjDQ12O/3VDmgXKuVifHhuPI637jiZo+R18KP5OI=;U1YKYYANfEXfbAnM98m3TA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 191
 published: true
 
 provider:
@@ -151,6 +151,15 @@ related:
     provider:
       name: Business Line
       domain: thehindubusinessline.com
+    quality: 17
+  - title: "Google to invest up to $2bn in generative AI startup Anthropic"
+    excerpt: "Google plans to invest up to $2 billion in generative artificial intelligence company Anthropic. In late 2022, Google acquired a 10 percent stake in the startup for $300m, but Anthropic's valuation has soared with the generative AI boom."
+    publishedDateTime: 2023-10-30T14:49:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-to-invest-up-to-2bn-in-generative-ai-startup-anthropic/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
     quality: 17
 
 secured: "Zk8Pg4rXG9sX8ORtREF5nL/aacM+vOcfX0yO7ngDxnPbJb9E+1Qco0LrHT+tYj0xYCMmlRFg0Smrr+f+NXJhSwIFn+3TobZ46csw/i9e+Brh6VGGrsCzURt6IFWhhr++xUaBuGF0wKCAf6cyiCltuzja4y2F7XkX5zXxFvjpdffGaX9sorNZrlsGESu592FURaD7gVvFDwzxEkgtGiWkG7C3hOIz2cgms7NyQMe3MaqWFHccznHGaO6VIOa0E/S4PNykFwXhqgHws6oyI/7ejkJo6MDxL3Bl7vO5OZKV2spz5kw11UpIb/rls6PZ8RE9/9eV4Tjl6xowettNwufS09Ju/8TSohrRlYcN1K43OT5Bq73vaeRENyUmuCRHpD8OmANbsUq4rQ+QJlvsjbVJR9eJiWwpbZivvLKkgrPB64OBSF5L3fZxqQItqDXD11gh3O5NdL2/X07PuZeDcrgm4a4r8qMB77DkuaNajI8Z1dvDrOaBlYAZK0XeFahuW0TeWUgA0YHTUHP79FOZ7xpDxA==;W7Hv6zBD1+NZrhXZGMhLTQ=="

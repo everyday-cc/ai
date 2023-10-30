@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Using Facial Recognition, SITA and Fraport Enable a Contactless Travel Experience for all Airline Passengers"
-    excerpt: "SITA and Fraport are enabling all airlines at Frankfurt Airport to jointly use face biometrics as identification from check-in to boarding the aircraft. Frankfurt is the first airport in Europe to offer biometric touchpoints to all airline passengers,"
-    publishedDateTime: 2023-10-26T08:34:00Z
-    webUrl: "https://www.lifepr.de/inaktiv/fraport-ag-frankfurt-airport-services-worldwide/using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers/boxid/965324"
+  - title: "Using Facial Recognition, SITA and Fraport Enable a Contactless Travel Experience for All Airline Passengers"
+    excerpt: "This website uses cookies to enhance your browsing experience and serve personalized content. Privacy Policy"
+    publishedDateTime: 2023-10-26T15:10:00Z
+    webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/53076421/sita-using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers"
     type: article
     provider:
-      name: Life PR
-      domain: lifepr.de
+      name: AviationPros
+      domain: aviationpros.com
     quality: 35
     images:
-      - url: "https://cdn.lifepr.de/r/2ab2416eeede0b0b/attachments/13/10/05/thumbnail_1310055_552x345.jpg"
-        width: 253
-        height: 345
+      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2023/10/2023_10_26_PM_SITA_Meilenstein_biometrische_Prozesse_DE.653a6d84c807e.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Frankfurt airport rolls out facial recognition across all terminals"
     excerpt: "Frankfurt airport has introduced facial recognition technology across all terminals, a move following biometric trials by Lufthansa. The technology, provided by SITA and NEC, allows passengers to traverse the airport by simply scanning their face,"
