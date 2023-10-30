@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/cranium-raises-25m-to-fund-enterp
 webUrl: "https://venturebeat.com/security/cranium-raises-25m-to-fund-enterprise-ai-monitoring-security-and-compliance-platform/"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 672
     isCached: true
+
+related:
+  - title: "Faros AI Expands Its Engineering Intelligence Platform to Maximize Productivity of Human and AI-Powered Engineering"
+    excerpt: "Faros AI, the complete software engineering intelligence platform, today announced a major platform expansion with the Faros AI ‘Asimov’ release. Asim"
+    publishedDateTime: 2023-10-30T20:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231030832149/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "hJ8nhZc/ibSQ7/gS2grf6Q8R5mL4H2HKuM7z3QRxRhiKsSGNDpAH3lIDrLOYiLYdE9OOST+23P39911OPreVdTYbrtJq0qR0vyIHgHkLX+heP775z1gO7HptDwJK8/0rsWZSerEk5hHK8wvxIRlh6XPplaEhv6/2zRbXb8/oJd70wXISDteMoOMhSNdKDWq3dsuWWE4nRJ7S7AE5RYMCQ8mWBoMrFJIxWq0eup041J+wsD8wCQFup19y8fuxw8/fSArvv0idPIiXXJCli0iQKGNVH1vEWWdq8dODnR9pA2O3lUixGaAEqx0CGOt5qTJMmoOhJsU6QVURycuFWVmAxb8tJs/3ecl4jiWhcl+sTKJ6ozIrmg9PlSfkV0EYgMfVphpV/sDJiEntLN/JgZFup1OetHbzkw3XvOIxnYQ0gI5mar2aYvqS6aPsQJSsraaGdUuCflk/wB/ISH4kLrK3//0fwNQtEGQulFEs0bBuiiBE1vEk01/4m5bwwaiVJH8bCseEMGoXqzRP6y8UlGibmQ==;gcKKcX174zBvGzY5bF542Q=="
 ---

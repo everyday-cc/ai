@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/poison-pill-tool-break-ai-systems-steal
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/poison-pill-tool-break-ai-systems-stealing-unauthorized-data-allowing-artists-safeguard-works.amp"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/02u2amN1Nki4vahj6kWuggR-1.fit_lim.size_1200x630.v1698421852.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "New Tool Helps Artists Protect Their Work From AI Scraping"
+    excerpt: "Nightshade works by subtly shifting the pixels in an artwork in order to “confuse” the technology, allegedly protecting artists’ works."
+    publishedDateTime: 2023-10-30T21:27:00Z
+    webUrl: "https://hyperallergic.com/853520/nightshade-helps-artists-protect-their-work-from-ai-scraping/"
+    type: article
+    provider:
+      name: Hyperallergic
+      domain: hyperallergic.com
+    quality: 39
+    images:
+      - url: "https://hyperallergic-newspack.s3.amazonaws.com/uploads/2023/10/pision3.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "F+XEoglb0icWIWCmrbWNCELR5Ab5ySQT9Uu+fpM25P7VwhEVh4sA6ETyEuZ7bkLWnpYLjRKO5jLNPrX2rRsV7w65/1Y2uezwqCcbrYHO4MQodQH0eTyawiyXYLBaJk83pT4aCNcyuNWRI/qlAFDoK/3cNRyqPUe2mOmvM7efiKEAVNh52Cj4rf1WNLfnpG1yFziZzYi7L//AtqOaZ0ux4RSDA1W/99/qOUNBje9lCbV/5vmI6p/4mevGL/9LQJKoXmlnoLvpTR9CJVBdO9QkoG6DbVCEnCt66O36IN9C0hZ02ZBUJ9RPPMlbp0k9OJ7G7SLjO+YqhJ7bLSJs7zHk8is73ldpH2carvzkcjFGzhk=;nZ4TKzWgLYUztaEmhbd/kw=="

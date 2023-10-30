@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-c
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Great, now Boston Dynamics’ robot dogs can talk using ChatGPT AI"
+    excerpt: "Boston Dynamics used ChatGPT and other AI to create a talking robot dog that can guide audiences around the company's campus."
+    publishedDateTime: 2023-10-30T20:50:00Z
+    webUrl: "https://bgr.com/tech/great-now-boston-dynamics-robot-dogs-can-talk-using-chatgpt-ai/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2021/04/bgrpic-copy-5.jpg?quality=82&strip=all"
+        width: 1750
+        height: 1118
+        isCached: true
   - title: "How to Create a Resume Using ChatGPT A Step-by-Step Guide to the Perfect Resume in Under 90 Seconds"
     excerpt: "In the early 2000’s, it was common for people to say things like, “the internet? Oh I don’t care for any of that fancy tech stuff.” Fast forward 10 years later and nearly everyone in the world was using the internet on a daily basis."
     publishedDateTime: 2023-10-26T06:35:00Z

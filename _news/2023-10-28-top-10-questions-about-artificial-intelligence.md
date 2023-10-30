@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-ab
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-about-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "White House AI exec order raises questions on future of DoD innovation"
+    excerpt: "\"What's really going to matter is how these various departments and agencies actually start building the rules and interpreting the guidance that they received in the executive order,\" Klon Kitchen of Beacon Global Strategies told Breaking Defense."
+    publishedDateTime: 2023-10-30T20:43:00Z
+    webUrl: "https://breakingdefense.com/2023/10/white-house-ai-exec-order-raises-questions-on-future-of-dod-innovation/"
+    ampWebUrl: "https://breakingdefense.com/2023/10/white-house-ai-exec-order-raises-questions-on-future-of-dod-innovation/?amp=1"
+    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2023/10/white-house-ai-exec-order-raises-questions-on-future-of-dod-innovation/?amp=1"
+    type: article
+    provider:
+      name: Breaking Defense
+      domain: breakingdefense.com
+    quality: 57
+    images:
+      - url: "https://sites.breakingmedia.com/uploads/sites/3/2022/05/220524_AI_digital_brain2_GettyImages-1308810664-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Chatbot Gone Awry Starts Conversations About AI Ethics in South Korea"
     excerpt: "The “Luda” AI chatbot sparked a necessary debate about AI ethics as South Korea places new emphasis on the technology. In Spike Jonze’s 2013 film, “Her,” the protagonist falls in love ..."
     publishedDateTime: 2023-10-26T23:59:00Z

@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence company from Silicon Valley enters Bihar"
-    excerpt: "Tiger Analytics is primarily a consulting company in the field of artificial intelligence and machine learning.We hope that taking this lead into account, many more companies will come to Bihar in the same way,"
-    publishedDateTime: 2023-10-26T04:40:00Z
-    webUrl: "https://www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar"
-    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 57
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_46_53_9831308.png?width=1280"
-        width: 1280
-        height: 723
-        isCached: true
   - title: "Artificial Intelligence company from Silicon Valley entres Bihar"
     excerpt: "A Silicon Valley-based Artificial Intelligence company has opened an office in Bihar, making it the first IT company from the US"
     publishedDateTime: 2023-10-26T09:36:00Z

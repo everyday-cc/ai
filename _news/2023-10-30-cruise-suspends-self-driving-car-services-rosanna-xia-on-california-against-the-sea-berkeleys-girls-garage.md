@@ -7,7 +7,7 @@ originalUrl: "https://www.kalw.org/show/state-bay/2023-10-29/cruise-suspends-sel
 webUrl: "https://www.kalw.org/show/state-bay/2023-10-29/cruise-suspends-self-driving-car-services-rosanna-xia-on-california-against-the-sea-berkeleys-girls-garage"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Automated car company planning to launch in Dallas has self-driving permit revoked in California"
-    excerpt: "A driverless vehicle company planning to launch Dallas is halting operations in California after the state yanked its license over safety concerns."
-    publishedDateTime: 2023-10-26T01:23:00Z
-    webUrl: "https://www.fox4news.com/news/cruise-automated-car-company-license-revoked-california-dallas"
-    ampWebUrl: "https://www.fox4news.com/news/cruise-automated-car-company-license-revoked-california-dallas.amp"
-    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/cruise-automated-car-company-license-revoked-california-dallas.amp"
-    type: article
-    provider:
-      name: KDFW
-      domain: fox4news.com
-    quality: 31
-    images:
-      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/10/932/470/102023-DALLAS-CRUIS-AUTONOMOUS-VEHICLES-LORI-PKG-L_00.01.49.04.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
 
 secured: "VwN/W+qA2P0WkAcL1INTm6FPvAWr2kZ8bdl8RAV1BV2HAdpG0U2SZ0u3EmmQyq9p05yW0ZGxvpkSqLE+DR3W03JgNlmEAZhlqiV+ZtAdXBsGwF3WNwzOGsolJxA3qBNNzwzGb6Y6+yghB5bfaKK8jjJBM/Xxe5E9RJVs/TjqojREXgIuA7SyYJ9xPWA98+SkCoQP2XJg4oETdjChpQCf/Cc1FCEJlK2HsusxW5Z060RggyKOsHcqh3DfxbYNh0hjzrERFkhaYU9AnjAEnejdVIBb4EfG9057hU/INZq4GTlUjvTSOD6yl+9uIXxhaP7NbuBRSXEJo7NPMUiEDOl0vaEXVN2RbEh6k/4negFcaJOmM17oFno86PAyjmxnu0U6yjU36fXDO+L5qwFkFURq5ctsVt/MkL/VwU+iT64y5hsDqyPKfGDoc93dtuAqyQqnYOiRtVcOmWm3f2LbAxt2zY8++lcJKPtEf+wiCotYaTZAn8rNgY9V6bKGHcKjXtD4zJZo3/VXQOitSFxj4DYuAw==;yPHyk0u/xBm+zDuTEQmmug=="
 ---

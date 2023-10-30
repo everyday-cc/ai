@@ -1,0 +1,77 @@
+---
+category: news
+title: "Transforming healthcare: The seismic potential of AI-powered healthcare solutions"
+excerpt: "Because of a dropping workforce in healthcare post-pandemic, there is a “huge pressure to the system,” according to Almeida, necessitating new solutions that can help manage the influx of patients, relieve healthcare workers of mundane tasks and harness the existing information in hospital databases."
+publishedDateTime: 2023-10-30T20:17:00Z
+originalUrl: "https://siliconangle.com/2023/10/30/transforming-healthcare-the-seismic-potential-of-ai-powered-healthcare-solutions-supercloud4/"
+webUrl: "https://siliconangle.com/2023/10/30/transforming-healthcare-the-seismic-potential-of-ai-powered-healthcare-solutions-supercloud4/"
+type: article
+quality: 49
+heat: -1
+published: false
+
+provider:
+  name: SiliconANGLE
+  domain: siliconangle.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/José-Pedro-Almeida-Supercloud-4-2023.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
+related:
+  - title: "AI in Healthcare: WHO's Call for Regulation Underscores Risk Concerns"
+    excerpt: "The WHO has introduced six domains for overseeing AI in the healthcare sector, emphasizing the need to address the risks linked to AI."
+    publishedDateTime: 2023-10-29T09:38:00Z
+    webUrl: "https://www.medindia.net/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 74
+    images:
+      - url: "https://www.medindia.net/health-images/infertile-men-faster-accurately-than-doctors.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "AI for Health Institute Emerges to Foster the Expanding Intersection of Artificial Intelligence and Healthcare"
+    excerpt: "Advanced artificial intelligence (AI) tools and techniques allow researchers to use the vast amounts of data now available from electronic health records and wearables to help solve complex health problems and improve population health."
+    publishedDateTime: 2023-10-27T21:38:00Z
+    webUrl: "https://indiaeducationdiary.in/ai-for-health-institute-emerges-to-foster-the-expanding-intersection-of-artificial-intelligence-and-healthcare/"
+    ampWebUrl: "https://indiaeducationdiary.in/ai-for-health-institute-emerges-to-foster-the-expanding-intersection-of-artificial-intelligence-and-healthcare/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ai-for-health-institute-emerges-to-foster-the-expanding-intersection-of-artificial-intelligence-and-healthcare/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 69
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/05/Washington-University-in-St.Louis_.jpg"
+        width: 910
+        height: 560
+        isCached: true
+  - title: "Can Artificial Intelligence Help With Mental Health Care?"
+    excerpt: "Using AI chat in therapy, for example, raises the question if the technology ... optimistic technology could address the current shortcomings, WHO's report, \"Artificial Intelligence for Mental Health and Mental Illnesses: An Overview,\" concludes it's ..."
+    publishedDateTime: 2023-10-30T16:09:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/can-artificial-intelligence-help-with-mental-health-care"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 41
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/3d9f95f/2147483647/strip/true/crop/5984x2909+0+540/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F33%2Fac%2F7e16a7ae4236ad94a155b3a61d5e%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xNzM1ODAxMjY1L2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2NDAyMTkzMjEsICJtIjogMX0sICJPTEg0eEpjcHR0dXVPVlltWThrdlJxSU1HcmMiXQ%3D%3D%2Fshutterstock_1735801265.jpg"
+        width: 1440
+        height: 700
+        isCached: true
+
+secured: "PC3unlPWtGZXLi1WzOkZT+Hj0DVs2yxcs15E4H+F/g1NAJV6NzKoo8gCiP3IGN2NyjVrASWndYhlNyEWVBGz5mHdLoUBe7mkqPtNcV/sOEd6D7HN73mg5wZTIEqn06e3QXYNqlEKkjwZRoeQYxJMldkedGET0OowBlFf3nCeEct0XnAZXClLZAtiz7yufAO6EJqTJtMafjSdqZpc+onl+IhStN0Yh12ctIOi36oK8dOyFKZHUPixU4FHysv3Z+hMweib+ldq0nM91HNJ7ULKFnw9FQtC8oVhlm07TjsKstgkmd4ENrA0hOD2QH7Mf16t4nvlyzc4UDHL21Ts9P9uMNOUvWmkyZ1bk82Be8SXGXk=;ypqNfy8+LyrZ1pP/ZbiZfQ=="
+---
+

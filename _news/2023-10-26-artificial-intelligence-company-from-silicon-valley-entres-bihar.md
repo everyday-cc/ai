@@ -9,8 +9,8 @@ ampWebUrl: "https://www.orissapost.com/artificial-intelligence-company-from-sili
 cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/artificial-intelligence-company-from-silicon-valley-entres-bihar/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: orissapost
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence company from Silicon Valley enters Bihar"
-    excerpt: "Tiger Analytics is primarily a consulting company in the field of artificial intelligence and machine learning.We hope that taking this lead into account, many more companies will come to Bihar in the same way,"
-    publishedDateTime: 2023-10-26T04:40:00Z
-    webUrl: "https://www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar"
-    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 57
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_46_53_9831308.png?width=1280"
-        width: 1280
-        height: 723
-        isCached: true
   - title: "Silicon Valley-based Artificial Intelligence company Tiger Analytics opens first office in Bihar"
     excerpt: "A Silicon Valley-based Artificial Intelligence company has opened an office in Bihar, making it the first IT company from the US to enter the state. Tiger Analytics, headquartered in Santa Clara, has opened its first office in Patna this month."
     publishedDateTime: 2023-10-26T05:20:00Z

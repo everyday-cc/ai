@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "White House AI exec order raises questions on future of DoD innovation"
+    excerpt: "\"What's really going to matter is how these various departments and agencies actually start building the rules and interpreting the guidance that they received in the executive order,\" Klon Kitchen of Beacon Global Strategies told Breaking Defense."
+    publishedDateTime: 2023-10-30T20:43:00Z
+    webUrl: "https://breakingdefense.com/2023/10/white-house-ai-exec-order-raises-questions-on-future-of-dod-innovation/"
+    ampWebUrl: "https://breakingdefense.com/2023/10/white-house-ai-exec-order-raises-questions-on-future-of-dod-innovation/?amp=1"
+    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2023/10/white-house-ai-exec-order-raises-questions-on-future-of-dod-innovation/?amp=1"
+    type: article
+    provider:
+      name: Breaking Defense
+      domain: breakingdefense.com
+    quality: 57
+    images:
+      - url: "https://sites.breakingmedia.com/uploads/sites/3/2022/05/220524_AI_digital_brain2_GettyImages-1308810664-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "kE1aGZuAjutfwW6ra8WQN9/HDolHGJ+HlFbkGvT3I5rrKBSxUWgokxTMWvYgAMWDabVtkG2EihFdzmxV6elQS1rMJFEPSsE5JGeZvzDjofeg1ir9L4TpryJ5osEJrN0+MVHKRFLqmt8+iLtG5mHd96HufSv2e1YTn2fe7PM0y5qCqfZ6ZlOZuVOYa7D6v6f6hfjjYbeiuGisxRrjZCDUXkrN/bq7sWVZvXK7WyNK4obpK4Lm7rF7J3qh9Iay5vNrM8D02eHCGiez/SVN1L5ADqv1BucaicTbbCnfrkIK3duSyXVDpfB9B4VYGK6Uy5FePu7PQvq5SiGhBxz6n5HVsQFIBuUhXpXOrG0A2YukT/A=;2J1/zK6Wd6t+XLUN3/5nbw=="
 ---

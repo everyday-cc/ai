@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 882
         isCached: true
+  - title: "House Dems seek guardrails for law enforcement’s use of facial recognition"
+    excerpt: "The bill would require agencies to obtain a warrant showing probable cause that an individual has committed “a serious violent felony” before facial recognition can be used."
+    publishedDateTime: 2023-10-30T19:59:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2023/10/house-dems-seek-guardrails-law-enforcements-use-facial-recognition/391619/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 52
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2023/10/30/103023LieuNG/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Minister tells police to double use of restrospective facial recognition"
     excerpt: "Policing Minister Chris Philp has said police forces should double the number of searches they make using retrospective facial recognition technology by May 2024."
     publishedDateTime: 2023-10-30T14:42:00Z
@@ -197,6 +211,15 @@ related:
     excerpt: "With military conflicts asserting themselves into the story of the twenty-first century, a parallel debate is being waged about the uses for FRT in warfare."
     publishedDateTime: 2023-10-27T11:30:00Z
     webUrl: "https://www.biometricupdate.com/202310/can-facial-recognition-be-justified-for-espionage-in-war"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+  - title: "UK police minister calls for more live facial recognition"
+    excerpt: "UK privacy watchdogs and rights groups have been raising alarms over facial recognition surveillance fears and legal issues."
+    publishedDateTime: 2023-10-30T19:17:00Z
+    webUrl: "https://www.biometricupdate.com/202310/uk-police-minister-calls-for-more-live-facial-recognition"
     type: article
     provider:
       name: Biometric Companies

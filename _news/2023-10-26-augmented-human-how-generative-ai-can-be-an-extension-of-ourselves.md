@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "The Office of the Provost hosts new Generative AI conversation series"
+    excerpt: "The Office of the Provost hosted the first events in its conversation series focused on generative artificial intelligence Thursday afternoon. The conversation centered around the future of AI and an exploration of the ethical considerations that come with it."
+    publishedDateTime: 2023-10-30T03:21:00Z
+    webUrl: "https://dailynorthwestern.com/2023/10/29/campus/the-office-of-the-provost-hosts-new-generative-ai-conversation-series/"
+    type: article
+    provider:
+      name: The Daily Northwestern
+      domain: dailynorthwestern.com
+    quality: 19
+
 secured: "7QwquhYuqOj/MorQEgW2EeGruKGihfdd3/i8jKdPIX8A18BIpIc4lCusXnGpaqpLSpXM0s0qPPo/tKVp4w9UfyiqSmGU+Fo+tFZov4uYpDLB4OImU5dycIMyR+JRtL17ky4XRbwqB8h/73FWMTa/aUalQ3sUP//VNKOL/D4dAjUseE9ltIbU2UtK9zaSk377zMZzud7UGsqTkfN1fUn4T86dO9EodWdwY7y/aLXikVOx1vrFjZW9zXHhR96Y1jJ7V1QuyoSJb6zMhglbfKsQnin4NUVdmZi339rrPhV2mFEhaNte/WcDR3DePr0Q3bukHDGJIHnb8V98BH2//3Lhomnkv6D7f6jRfeY4OmHMr10R+2xvmf/n2agfbj74d+SK0MZskrwQ9h1wnGuHtUKa4qAj4nidVy6iyOM2oWnHdCxc3NkB2lS9CC1KRs7c5zm9GeFCC+pfNZS8beLP/Gm1rYyBMbaX/oxN0hZi0537Y7mJy3LAHRWL3LvWoVEQSooNAXKqXpbvRsHJxHeI6gEe4g==;L1NWgP/ruz8g6jnY43MK4g=="
 ---
 

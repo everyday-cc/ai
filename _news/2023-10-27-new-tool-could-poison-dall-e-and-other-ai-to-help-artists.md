@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New Tool Helps Artists Protect Their Work From AI Scraping"
+    excerpt: "Nightshade works by subtly shifting the pixels in an artwork in order to “confuse” the technology, allegedly protecting artists’ works."
+    publishedDateTime: 2023-10-30T21:27:00Z
+    webUrl: "https://hyperallergic.com/853520/nightshade-helps-artists-protect-their-work-from-ai-scraping/"
+    type: article
+    provider:
+      name: Hyperallergic
+      domain: hyperallergic.com
+    quality: 39
+    images:
+      - url: "https://hyperallergic-newspack.s3.amazonaws.com/uploads/2023/10/pision3.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "k7++4E9ImAQ2O7fTdCbU1pDNNLUO3fHdoc2HZo1XT+adeh+Sha8d6X0gXSjndhcGCOn+/dMvwDERtBYRZRqT5Z/TZDzGDvMQaWfpzt22FBg2VOiU6GA3feA3ZPHKM0Yghu1FqtxfsEK2V+HtJBJjKGidvdkL9ka49s9nTOtN6io2kvqBm5EozbCjnTS4Zr2XR/4FrWKP7nxcu5l8G3OgoCNlkAYRAA3YPThaj22MuDessUrm4RwUDiO7TxqR1tTHCAjCfATVskpXr5TLcMhTbXn7OEGBMBp5AAGthcMzPtol9oU88tPkf6/fq50G9uW6PHHzDwaj/3P6TZh/80ndwGANLgJB++cWJDHBnophlhU=;jliTKvYMZX3saiqCE6t1oQ=="
 ---

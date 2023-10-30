@@ -46,6 +46,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "AI-generated child sexual abuse images could flood the internet. A watchdog is calling for action"
+    excerpt: "Child pornography is already running rampant on the internet, but the introduction of artifical intelligence could make the problem much worse."
+    publishedDateTime: 2023-10-30T19:42:00Z
+    webUrl: "https://www.eastidahonews.com/2023/10/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
+    type: article
+    provider:
+      name: East Idaho News
+      domain: eastidahonews.com
+    quality: 4
 
 secured: "1n2F1XBE/kUXrIu3vj5tsm6aPdcyLKPI2qjbriJty5oQ0pYUVMr8WolVK6rpMl2+sKRpoIgQ9hevTc84HlLDp/pJjkq3lao0wb3HJFMfqm/Q0UkwDa6PnaftMEwJHrvjE5YH0OyWckld1fDx156nGWtwzWff9iKuAivECC/5azw1eLm/Xegp4XutAV41E3SVyHqsHyWTTD8CU/96PtqVMJpm/7oq9TggQqU3bjVJXwpHPv0I8wxLtSW1IZEXNhYv18iWI1Qb6F+jno3+Lj8PSIkNBreuoFT+iI9mDy9Z2h1XrqdWfrcRrerEmn3wLybpLWFIG32+ODhcyCsVwRAq2B43mHBY+9bzePVqJtuHEHn59Vtf9IsrxnbmhZ9uiNqfbcnLQvi2RRWNCkaQ0J5V7/ex2swaULnUgyjp0rGJ4kT6W4x5iHW+FLNJ/SyiA7nFAFPdHqiQqQ3EumbjhhN7ETBsNSUJP4i2nY4GYNU2bAvyEOj+Mb3j7ixVfscx/h5tYMI8oU1c3cGeYnGxlK4n+w==;1CcKsAs301gOYK9+W4htnQ=="
 ---

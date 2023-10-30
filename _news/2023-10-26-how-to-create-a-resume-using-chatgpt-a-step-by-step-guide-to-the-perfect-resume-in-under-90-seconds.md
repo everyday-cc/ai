@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Great, now Boston Dynamics’ robot dogs can talk using ChatGPT AI"
+    excerpt: "Boston Dynamics used ChatGPT and other AI to create a talking robot dog that can guide audiences around the company's campus."
+    publishedDateTime: 2023-10-30T20:50:00Z
+    webUrl: "https://bgr.com/tech/great-now-boston-dynamics-robot-dogs-can-talk-using-chatgpt-ai/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2021/04/bgrpic-copy-5.jpg?quality=82&strip=all"
+        width: 1750
+        height: 1118
+        isCached: true
   - title: "Mercedes-Benz Direct Chat: an internal ChatGPT application for employees"
     excerpt: "Mercedes-Benz is rolling out an internal web application for its employees - the Mercedes-Benz Direct Chat. It uses OpenAI´s ChatGPT technology through Microsoft Azure OpenAI Service. It's a text generator that uses machine learning and natural-language processing to deliver precise and contextual answers in just a few seconds."
     publishedDateTime: 2023-10-30T15:02:00Z

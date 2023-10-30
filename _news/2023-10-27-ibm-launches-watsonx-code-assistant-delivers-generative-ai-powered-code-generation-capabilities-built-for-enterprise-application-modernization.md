@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google's Generative AI Revolutionizes Digital Assistants Everywhere"
-    excerpt: "In this photo illustration, the logo of Google is seen displayed on a mobile phone screen with AI ... [+] (artificial intelligence)(Photo Illustration by Idrees Abbas/SOPA Images/LightRocket via ) It's happening."
-    publishedDateTime: 2023-10-26T04:07:00Z
-    webUrl: "https://www.forbes.com/sites/jonmarkman/2023/10/26/googles-generative-ai-revolutionizes-digital-assistants-everywhere/"
-    ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/10/26/googles-generative-ai-revolutionizes-digital-assistants-everywhere/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/26/googles-generative-ai-revolutionizes-digital-assistants-everywhere/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6539e510dbfaa6ef2a57a223/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1543
-        height: 900
-        isCached: true
   - title: "8 Generative AI Lessons From The Classroom"
     excerpt: "Continuous Adaptation, Effective Prompting, Experimentation, Critical Thinking, Effective Platforms, Privacy, Beyond Text Generation, Defining Boundaries, Assessment"
     publishedDateTime: 2023-10-27T02:04:00Z
@@ -156,20 +140,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/653de133042dc92df09198f9/0x0.jpg?format=jpg&crop=1202,901,x192,y0,safe&height=900&width=1600&fit=bounds"
         width: 1201
         height: 900
-        isCached: true
-  - title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
-    excerpt: "Watsonx Code Assistant for Red Hat Ansible Lightspeed and watsonx Code Assistant for Z are now availableARMONK, N.Y., Oct. 26, 2023 /PRNewswire/"
-    publishedDateTime: 2023-10-26T04:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise-application-modernization-1032741098"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-    images:
-      - url: "https://mma.prnewswire.com/media/2258171/ansible_multitask__2.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "Generative AI Poised to Revolutionize Healthcare Delivery & Life Sciences Research"
     excerpt: "Generative AI may transform healthcare delivery and life sciences productivity by improving patient outcomes and increasing clinical/medical research efficiency"

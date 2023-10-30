@@ -66,22 +66,6 @@ related:
       name: Neowin
       domain: neowin.net
     quality: 56
-  - title: "Microsoft clocks $56.5Bn in revenue in Q1 FY24, Intelligent Cloud revenue up by 19%"
-    excerpt: "Microsoft's Q1 2024 earnings beat expectations with $56.5 billion in revenue as its AI ambitions yield rich results."
-    publishedDateTime: 2023-10-26T05:01:00Z
-    webUrl: "https://thetechportal.com/2023/10/26/microsoft-revenue-cloud-earnings-q1-2024/"
-    ampWebUrl: "https://thetechportal.com/2023/10/26/microsoft-revenue-cloud-earnings-q1-2024/?amp"
-    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/10/26/microsoft-revenue-cloud-earnings-q1-2024/?amp"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 53
-    images:
-      - url: "https://thetechportal.com/wp-content/uploads/2022/01/msft-logo-building_0.jpg"
-        width: 703
-        height: 492
-        isCached: true
   - title: "Foundry for AI by Rackspace Partners with Straits Interactive to Launch AI Data Protection Officer on Microsoft Azure OpenAI Service"
     excerpt: "Development of the APJ’s first AI Data Protection Officer Assistant with Rackspace Technology’s secure multicloud solutions and integration with Microsoft Azure OpenAI Service  Philippines – Rackspace Technology— a leading end-to-end,"
     publishedDateTime: 2023-10-27T08:07:00Z

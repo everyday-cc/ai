@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Great, now Boston Dynamics’ robot dogs can talk using ChatGPT AI"
+    excerpt: "Boston Dynamics used ChatGPT and other AI to create a talking robot dog that can guide audiences around the company's campus."
+    publishedDateTime: 2023-10-30T20:50:00Z
+    webUrl: "https://bgr.com/tech/great-now-boston-dynamics-robot-dogs-can-talk-using-chatgpt-ai/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2021/04/bgrpic-copy-5.jpg?quality=82&strip=all"
+        width: 1750
+        height: 1118
+        isCached: true
   - title: "How to Create a Resume Using ChatGPT A Step-by-Step Guide to the Perfect Resume in Under 90 Seconds"
     excerpt: "In the early 2000’s, it was common for people to say things like, “the internet? Oh I don’t care for any of that fancy tech stuff.” Fast forward 10 years later and nearly everyone in the world was using the internet on a daily basis."
     publishedDateTime: 2023-10-26T06:35:00Z
@@ -50,6 +64,6 @@ related:
         height: 270
         isCached: true
 
-secured: "RfMD6X7mMqTA6zI9Dx0woqpr9r9sVbBgpLUg8BWDSn8XF+eq3qNH9tPZMYH+FvfZ0QHJLec/7HtgJ0BlQG3+9mofoNeFfmbGhrouFdSL3i+tvGwc/6f/TW4it8qLG6IJHXORJz5oz9362jr0i+en+hvdbfJD71eEtWZEaLrSPEHul3cFkLCr8s9gse/b+cHlImfntN8BL24mQjsYlBQ5h/WHSuiI9Wc6hCZA6WFvP4PDDrGBGeS8jVXJc+TZrutPe9nYyabXGciNEe2EiuGnt7tbVaSZRpzitcMt8tgDDGug9fQD/3RCF5+COp9pERPhV3JJApWNUSmoMFhdGJ0eSS4Owi/Vgegf31Q2WI+ZsI4=;cR6M3r7p8/RSohyoshRfgw=="
+secured: "ViDxEwd9KWteGWlTbYBZgFrhimefTVV43jqE5la70jcdgKwUOfKoCV6DS94j5z0G7fs2XOAtgJ8RbLm+0F2FadBHD4mtxcWIZvhMWxQdVRU+fvcPjiGeT8Z7r5ZFSg8Vx0Ruwj3th/lkpH9a9yxKWUSJH2O+d0jOmDuI5HLnH8VF6sFSDX+mou5DQ3h+dw0QsR3Y+Yh7nyDg9M0o04L2zxGVqm1sUOdzG0XQUtqhnv73LuCyjm0fOTagws/DVQeLu2RmdS7E+XWutrJ1F1AlLR+p5Hbk+IXBzciHuRAC5pe+bVOD9l5oz48UHMJKBba6K65RZaTaxCBHvNoPnsOTd149HNe8AoQaq1cGW+RlHsk=;9C12odeVplMAVrWsO54irA=="
 ---
 

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Alphabet Shows It Will Fight For Its Place In The Cloud And AI World"
+    excerpt: "Alphabet (NASDAQ: GOOG)(NASDAQ: GOOGL) reported its revenue returned to double digit growth after more than a year. But although its revenue and earnings both topped estimates, Google-parent stock dropped as cloud revenue fell short."
+    publishedDateTime: 2023-10-30T17:24:00Z
+    webUrl: "https://www.benzinga.com/23/10/35496646/alphabet-shows-it-will-fight-for-its-place-in-the-cloud-and-ai-world"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "tspG/T0qgFaqi29PgWM1hvBNyD7ARLykBlzPnMwE4VwTuTbjN1ultaO4PmOFljamcK38MS70wFsLsK/d9cVXBEmqbhp0G9y/O+ff9jimmsXLOAHT3aHZer1WnKfrEb9BUcsucqII5+pW2xMyD9H+c0S7e7azAjp0Aep2P5Z2yjQwWKE62CHmrprofJTfGZW2q+KufwXItRBuAJto38x1rrxz6WLHTuODy44VeBqy+8klkGLlQM6x3GMMv/bnuwpd+cCl9zif/qsHS8VroiLIvly3NuSGptLIcu9agMWbZbKFpO6EQoWEiyKAcoJXrjmahiT4hUkh0zjTJ04VwYPYgGhR7awT7JUlKTaoQMrq+pI=;6+572/OAgzJALS11icLWlA=="
 ---

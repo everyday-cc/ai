@@ -39,20 +39,6 @@ related:
         width: 479
         height: 246
         isCached: true
-  - title: "Cisco Unveils Webex AI Strategy At Webexone"
-    excerpt: "Reimagining Communication with Webex's Pervasive AI  News Summary:   <li /> New Real-Time Media Models (RMMs) in Webex har"
-    publishedDateTime: 2023-10-26T02:54:00Z
-    webUrl: "https://menafn.com/1107304815/Cisco-Unveils-Webex-AI-Strategy-At-Webexone"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/25/PN_b9d2a18c-0_Image_In_Body.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Cisco unveils Webex AI strategy"
     excerpt: "At WebexOne, Cisco announced a new AI strategy for Webex that will improve communication and collaboration. Unlike AI offerings that solely focus on text or documents, Webex will use real-time communications for audio and video to solve everyday challenges,"
     publishedDateTime: 2023-10-30T08:36:00Z

@@ -180,6 +180,15 @@ related:
       name: Tasnim News Agency
       domain: tasnimnews.com
     quality: 34
+  - title: "Nonprofit Organization Purchases 24,000 Nvidia AI Chips for $500 Million"
+    excerpt: "Voltage Park acquires 24,000 Nvidia H100 chips for $500 million to address the chip shortage and offer low-cost AI computing power."
+    publishedDateTime: 2023-10-30T18:29:00Z
+    webUrl: "https://www.coinspeaker.com/nonprofit-24000-nvidia-ai-chips/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 33
   - title: "Twelve Labs Secures $10M from Nvidia, Intel, Others for AI Video Analysis"
     excerpt: "Twelve Labs, a generative artificial intelligence (AI) startup based in South Korea, has secured a combined investment of $10 million. Nvidia Corp., Intel Corp., Samsung Next, and Korean Investment Partners are the"
     publishedDateTime: 2023-10-27T11:39:00Z

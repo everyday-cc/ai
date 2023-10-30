@@ -54,22 +54,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft clocks $56.5Bn in revenue in Q1 FY24, Intelligent Cloud revenue up by 19%"
-    excerpt: "Microsoft's Q1 2024 earnings beat expectations with $56.5 billion in revenue as its AI ambitions yield rich results."
-    publishedDateTime: 2023-10-26T05:01:00Z
-    webUrl: "https://thetechportal.com/2023/10/26/microsoft-revenue-cloud-earnings-q1-2024/"
-    ampWebUrl: "https://thetechportal.com/2023/10/26/microsoft-revenue-cloud-earnings-q1-2024/?amp"
-    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/10/26/microsoft-revenue-cloud-earnings-q1-2024/?amp"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 53
-    images:
-      - url: "https://thetechportal.com/wp-content/uploads/2022/01/msft-logo-building_0.jpg"
-        width: 703
-        height: 492
-        isCached: true
   - title: "Microsoft India exec talks about the company's role in the country's digital journey"
     excerpt: "TV18, Sangita Singh, General Manager, IT & ITeS at Microsoft India, discussed Microsoft's significant role in India's digital transformation. The company collaborates with key players in the ITeS sector,"
     publishedDateTime: 2023-10-29T06:07:00Z

@@ -181,6 +181,15 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 34
+  - title: "Nonprofit Organization Purchases 24,000 Nvidia AI Chips for $500 Million"
+    excerpt: "Voltage Park acquires 24,000 Nvidia H100 chips for $500 million to address the chip shortage and offer low-cost AI computing power."
+    publishedDateTime: 2023-10-30T18:29:00Z
+    webUrl: "https://www.coinspeaker.com/nonprofit-24000-nvidia-ai-chips/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 33
   - title: "Twelve Labs Secures $10M from Nvidia, Intel, Others for AI Video Analysis"
     excerpt: "Twelve Labs, a generative artificial intelligence (AI) startup based in South Korea, has secured a combined investment of $10 million. Nvidia Corp., Intel Corp., Samsung Next, and Korean Investment Partners are the"
     publishedDateTime: 2023-10-27T11:39:00Z
@@ -191,6 +200,6 @@ related:
       domain: econotimes.com
     quality: 16
 
-secured: "39W1e32wv8j9vtk0G89Zfodat0V11Gr0WNR96RS3iPGwBzYfQHeR2z5mT5/4eO9/5hlYtQgAdIpe0iw9Dgjz+kwYN6WhmsHznWbZ7gJrsmtXnKCQ7zogyZalDrmsV39fVEfUmXzmPFCEdg4i5QfPGZiUkmKIstvLTmeE0uHjVfo3SKO8lfPdKDuEBtTFKm2aHF4XbIY1pwQd/hBFogCx3OTU6SxQBq33nU+yB2r8UT6xD8qFAfiTO/Vtz4NeUlZpZqhDrQMKR2VHVl+DR7TkZ/nbPrH3PlZpO3m9AnueZaj6xqLZEb5F0rqWDB0JU9I10/jWlOIwEPk8vq9ZqGRpKmj7kP2la54+6NtPrLQit18=;PrqcTfypzCdCbGla2xNaWw=="
+secured: "IaekuF0HjyDpBFG+vSryOdx9p50aplWpIfol0g8/2fKY984m1XGlRRFmWF0bf3Rnw0WvSj7COX5cM+FgqGBFyyzXYEq2qG7DwUgOhHMzMdULVTiFEsFwN1HOWn3PpwQgAJFSW0dc+325KKJOOerCvpRu10o6I0FoJ3IxpmpXPgwpVfcL271FRDKiBz1xqQgvESnUvX7wCS90pbRsseJhlfjgfXMvcf8riSdaK6I+HS4ttuLcnJ/jEpLGddRmbVsXnH+vshRptvfmZxeZ4u3KYT4VKr7COcSqIAoAI3YWX3HilJIk9q8iG7lEQ8axuaUooju1NeCeGZlk40Jp5fd/KBoQFGzgr/X/k3+H/K8vmmEGCEv/6hanmqnl37M5LgFp/i8DVY4HezjWsxd05r4V2PiR80kBsjriE3Nljq9jyF+xKAixWLvKmnT36QothqiskEJs8WL7NBGAJXr3Spm/+x6MiHK1EzEWwNes+CRR7Zw9D9EhzgK2dIAvC54+Tm1HdogrqB0Oww8a2pvHi6Wb2w==;AoDv5dXQEjQS7edQTAk+KA=="
 ---
 

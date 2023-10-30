@@ -109,6 +109,20 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "House Dems seek guardrails for law enforcement’s use of facial recognition"
+    excerpt: "The bill would require agencies to obtain a warrant showing probable cause that an individual has committed “a serious violent felony” before facial recognition can be used."
+    publishedDateTime: 2023-10-30T19:59:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2023/10/house-dems-seek-guardrails-law-enforcements-use-facial-recognition/391619/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 52
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2023/10/30/103023LieuNG/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Minister tells police to double use of restrospective facial recognition"
     excerpt: "Policing Minister Chris Philp has said police forces should double the number of searches they make using retrospective facial recognition technology by May 2024."
     publishedDateTime: 2023-10-30T14:42:00Z
@@ -206,7 +220,16 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 19
+  - title: "UK police minister calls for more live facial recognition"
+    excerpt: "UK privacy watchdogs and rights groups have been raising alarms over facial recognition surveillance fears and legal issues."
+    publishedDateTime: 2023-10-30T19:17:00Z
+    webUrl: "https://www.biometricupdate.com/202310/uk-police-minister-calls-for-more-live-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
 
-secured: "GLiCD4mUOec/LcjtO+66Lf0hpJkEmsSF+C0mPitatYZkeFIXYZa3xdeKI7SEdxHrC9Fw25lDLO+cbWpNc4CaqmY9lnzM2tFBFOWCY3T3nCWDpT/hMETPelpwICwKWy2UQRmcifQ+0kRST8ZZnEdMBz/4I2UgtNU8ovEOSXciQEYitoBwfw7Cf97Qd96H4pOpqP2tLNFChAxmiVo8E9bdDKUI62SrlXa2tJswrZrQQDXhoAkJgm6h6OX6slNV8gJayKwj9vcx74NJ4lQL3+nD/D/Zx0lmhfULnbAn8tkeNttm7P+K58Ef6HS6ozCQpPP4Lr7fDBbbZQou1/Crah6ly9I9mN6DFAoL1Q9oXlwy7OI=;IE/DQU+BSknY2WDPkE3c9A=="
+secured: "dAa9aan5awcU0ylnB2CN11D7s3Ms3iILGSFUjUtK1aO6JkmZc/kTprWnxD4Dl5OQ+49RZDrgwysuZfrUg3CI10sX7RJ7HB/Ttoe+jb9mqyx1IaFqiblpVqoCLQ3l1hRuRy6GluQpXWNhkJiZaTCxjk03lTXMniyBmnOBtMQ/0mZfyXfilmGRqT3KriCdj1CrOV4+G6sVLPdkybGORD71vQr6ceNh5GI4xK74Fbyp+xPhnS8k5U9ebBmhNoC7mTLeXMizRCteersEN4TOyZ2U5ZLfyOi863+SP01y/SjdnzVZsHbCmWrqQXdgODvkxfK1E2Vl36esXK6Dswuyjc6lZtG79xbk/04GMknkLAkJwlh/1YRN65RLm/TkLdMkuQm+CWFziBZs7EntEmJ6aiRy9sBiANmcwU/umAGsKEQxHCNgiu41ZbWWf2if4RfJQDLScsLztEZyygxZNGzWDpFGGIp5bsT4tTcdTx9npEanrjDeL28Y9O/THTBMowQIE/nifL0dA5wQYmm+Q3mejZXmcQ==;FeDNTd4XjZaLwhvQcOXpEw=="
 ---
 

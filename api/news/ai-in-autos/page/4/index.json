@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-29-industries-that-ai-can-revolutionize.md",
+      "title": "Industries that AI Can Revolutionize",
+      "excerpt": "Artificial Intelligence is no longer the stuff of science fiction or a tech buzzword. For some businesses and individuals today, it is already a reality and a seemingly permanent fixture in their work or education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.econotimes.com/Industries-that-AI-Can-Revolutionize-1663526",
+      "originalUrl": "https://www.econotimes.com/Industries-that-AI-Can-Revolutionize-1663526",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png",
+          "width": 400,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EconoTimes",
+        "domain": "econotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-i-watched-youtube-in-a-self-driving-mercedes-and-experienced-the-future-of-commuting.md",
       "title": "I watched YouTube in a self-driving Mercedes and experienced the future of commuting",
       "excerpt": "Mercedes' first-of-its-kind self-driving tech lets you watch TV and play games while your car does all the work. I put it to the test in LA traffic.",
@@ -1313,58 +1356,6 @@
         "name": "Mint",
         "domain": "livemint.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-artificial-intelligence-and-the-boardroom-immediate-action-items.md",
-      "title": "Artificial Intelligence And The Boardroom: Immediate Action Items",
-      "excerpt": "For business leaders, AI is an unstoppable game-changer. It is the ability to improve productivity and performance and discover new products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/",
-      "originalUrl": "https://www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650af1d514fa9125c2bba903/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/amp/",
-      "publishedDateTime": "2023-09-20T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

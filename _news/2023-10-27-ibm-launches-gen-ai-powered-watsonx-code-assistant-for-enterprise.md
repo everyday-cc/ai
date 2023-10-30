@@ -50,15 +50,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 53
-  - title: "IBM introduces AI-powered Watsonx Code Assistant"
-    excerpt: "American multinational technology corporation IBM Thursday October 26, 2023 launched Watsonx Code Assistant, a Generative AI-powered assistant that it believes will help enterprise developers and IT operators code more quickly and more accurately using natural language prompts."
-    publishedDateTime: 2023-10-26T04:42:00Z
-    webUrl: "https://ummid.com/news/2023/october/26-10-2023/ibm-introduces-ai-powered-watsonx-code-assistant.html"
-    type: article
-    provider:
-      name: Ummid
-      domain: ummid.com
-    quality: 34
 
 secured: "LxLACBx0YnKhO0lJlLza6I/OtU1JvCa/u59obeuIBAnQ6F1i46tsv2ImY0ROoIyrrAqviNh1qe535VIhE1UW62wOHNDVNE5wIb7IlroR+Mt5K7PGQG4gROftAv92T2P7pNwnzhWBOkCKBLFY/KxjN8tocY1K7MDZbJt75BedAhzYvPSHWZKH72tqMXISOlme15gLvdGP7LcrXe9dYWctCsYI9HbL7Q6toMATf4xqdVolxmYppp5n9EA+B1dup+MD512eiuy2mjyi34kaTCUUuIhMlB+szHe2ArpUjTkxPmDskeLDDLdbecBtSui3qF0TRniiYF78zedpDEnklYsguDqR3tS3rw8tZI9t/nG9WapNq5u5afPfuNGtwE9mMgZEKJSXL3PImNknFmdxQLYOS9X679HW9j7Dme4C4dijZFyL00U7Wxi6EGoaj/hgxN3ndp+CaWLBcFMRESGo/7vDn8tdo1oPCFLnUMjb2bpXk6JQZcB4m2oUYVKG4WZcFtwa8H9FVnd9qawFo37ovFimzw==;fJ9GC0hSeMUoA0AH8Ry0qQ=="
 ---

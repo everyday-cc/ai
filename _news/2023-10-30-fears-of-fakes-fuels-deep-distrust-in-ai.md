@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "The 10 states most interested in artificial intelligence"
+    excerpt: "Discover how artificial intelligence is revolutionizing the healthcare industry, from colonoscopy polyp detection to providing relief for practice administrator"
+    publishedDateTime: 2023-10-30T20:35:00Z
+    webUrl: "https://www.beckersasc.com/asc-news/the-10-states-most-interested-in-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 39
+    images:
+      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "How Leica's M11-P Camera Combats AI Deepfakes For Photographers With Deep Pockets"
     excerpt: "The camera stores metadata in line with the Content Authenticity Initiative (CAI) to ensure better protection of copyrights and safeguards the trustworthiness of publications."
     publishedDateTime: 2023-10-27T15:35:00Z

@@ -122,6 +122,52 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 58
+  - title: "How Biden’s AI Executive Order Could Impact Marketing Tools"
+    excerpt: "Biden's AI order calls for tighter oversight of marketing tools leveraging consumer data and AI algorithms. United States President Joe Biden has signed a landmark executive order establishing new standards around artificial intelligence (AI) development and use."
+    publishedDateTime: 2023-10-30T20:14:00Z
+    webUrl: "https://www.searchenginejournal.com/how-bidens-ai-executive-order-could-impact-marketing-tools/499757/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 56
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/10/img_2023-10-30-160546-65400ca0f1dcf-sej.jpeg"
+        width: 1600
+        height: 840
+        isCached: true
+  - title: "Here’s what to know about the President Biden’s sweeping AI Executive Order"
+    excerpt: "“AI policy is like running a decathlon, where we don’t get to pick and choose which events we do,” says White House Advisor for AI, Ben Buchanan."
+    publishedDateTime: 2023-10-30T16:27:00Z
+    webUrl: "https://www.popsci.com/technology/white-house-ai-executive-order/"
+    ampWebUrl: "https://www.popsci.com/technology/white-house-ai-executive-order/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/white-house-ai-executive-order/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 55
+    images:
+      - url: "https://www.popsci.com/uploads/2023/10/30/biden-ai-executive-order.jpeg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "Biden signs sweeping executive order on artificial intelligence development"
+    excerpt: "President Joe Biden has signed a sweeping executive order to guide the development of artificial intelligence."
+    publishedDateTime: 2023-10-30T20:10:00Z
+    webUrl: "https://www.foxla.com/news/biden-executive-order-artificial-intelligence-development"
+    ampWebUrl: "https://www.foxla.com/news/biden-executive-order-artificial-intelligence-development.amp"
+    cdnAmpWebUrl: "https://www-foxla-com.cdn.ampproject.org/c/s/www.foxla.com/news/biden-executive-order-artificial-intelligence-development.amp"
+    type: article
+    provider:
+      name: KTTV
+      domain: foxla.com
+    quality: 55
+    images:
+      - url: "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2023/10/932/470/Biden-AI.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Biden to sign sweeping executive order on artificial intelligence development"
     excerpt: "The president's order will require leading AI developers to share safety test results and other information with the U.S. government."
     publishedDateTime: 2023-10-30T10:56:00Z
@@ -138,6 +184,15 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Biden AI exec order rolls out to applause, concerns of overreach"
+    excerpt: "The Biden-Harris Administration issued a sweeping Executive Order this morning on \"Safe, Secure, and Trustworthy Artificial Intelligence.\""
+    publishedDateTime: 2023-10-30T17:01:00Z
+    webUrl: "https://venturebeat.com/ai/biden-ai-exec-order-rolls-out-to-applause-concerns-of-overreach/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "Biden gets tough with AI Executive Order as G7's principles get European Commission approval"
     excerpt: "Biden’s AI Executive Order is the gold standard for how governments should be regulating AI right now. Thoughtful but scoped oversight focused on practical risks, emphasis on privacy and security, focus on R&D across the ecosystem, and encouraging use of AI in the government."
     publishedDateTime: 2023-10-30T16:41:00Z
@@ -186,6 +241,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "White House Executive Order on AI Provides Guidelines for AI Privacy and Safety"
+    excerpt: "The Biden administration directed government organizations, including NIST, to encourage responsible and innovative use of generative AI."
+    publishedDateTime: 2023-10-30T18:49:00Z
+    webUrl: "https://www.techrepublic.com/article/white-house-executive-order-ai-privacy/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 45
   - title: "Biden signs executive order directing artificial intelligence companies to develop safer AI"
     excerpt: "President Biden signed an executive order today establishing new guidelines for the development of artificial intelligence, including rules for the industry, security standards, consumer protections and federal oversight."
     publishedDateTime: 2023-10-30T17:09:00Z
@@ -228,6 +292,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "President Biden issues executive order on generative AI that seems vague and toothless"
+    excerpt: "A new executive order from the Biden administration attempts to tackle generative AI. However, it seems too vague and toothless."
+    publishedDateTime: 2023-10-30T19:01:00Z
+    webUrl: "https://www.androidauthority.com/biden-generative-ai-order-3380538/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 39
   - title: "Biden Signs Executive Order Regulating Artificial Intelligence"
     excerpt: "President Joe Biden is directing the government to take a sweeping approach to artificial intelligence regulation, his most significant action yet to rein in an emerging technology that has sparked concern and acclaim."
     publishedDateTime: 2023-10-30T16:53:00Z
@@ -256,6 +329,38 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "President Biden issues major executive order on AI — what it means for you"
+    excerpt: "President Biden has signed a new executive order that aims to regulate artificial intelligence to prevent it from being misused by companies while also ensuring that the privacy of Americans won’t be put at risk by this emerging technology."
+    publishedDateTime: 2023-10-30T21:33:00Z
+    webUrl: "https://www.tomsguide.com/news/president-biden-issues-major-executive-order-on-ai-what-it-means-for-you"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 35
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/bnNXSCg7nV5TsUcgDURw6T-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden focuses on healthcare with AI executive order"
+    excerpt: "The order calls on HHS to establish a safety program to receive reports of—and to remedy—unsafe healthcare practices involving AI."
+    publishedDateTime: 2023-10-30T19:53:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/biden-ai-executive-order-healthcare"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
+  - title: "Cyber pros praise Biden executive order on artificial intelligence"
+    excerpt: "The new EO seen as a response to growing concern over the potential risks around AI and how to best reap the benefits while also delivering security."
+    publishedDateTime: 2023-10-30T19:25:00Z
+    webUrl: "https://www.scmagazine.com/news/cyber-pros-praise-biden-executive-order-on-artificial-intelligence"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 34
   - title: "In new order on AI, Biden is scrambling to catch up to emerging risks in health care"
     excerpt: "President Joe Biden ordered the nation’s leading health agencies on Monday to develop a plan for regulating artificial intelligence tools already widely"
     publishedDateTime: 2023-10-30T16:37:00Z
@@ -284,6 +389,47 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "Biden wants to move fast on AI safeguards and will sign an executive order to address his concerns"
+    excerpt: "\"We can't move at a normal government pace,\" Zients said the Democratic president told him. \"We have to move as fast, if not faster than the technology itself.\""
+    publishedDateTime: 2023-10-30T20:18:00Z
+    webUrl: "https://sentinelcolorado.com/uncategorized/biden-wants-to-move-fast-on-ai-safeguards-and-will-sign-an-executive-order-to-address-his-concerns/"
+    type: article
+    provider:
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 25
+    images:
+      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/10/AP23302720957829.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Biden's Artificial Intelligence Executive Order Covers Broad Concerns"
+    excerpt: "The executive order is ambitious and seeks to protect a variety of different groups who are most at risk from the irresponsible use of AI."
+    publishedDateTime: 2023-10-30T19:20:00Z
+    webUrl: "https://www.darkreading.com/endpoint/biden-artificial-intelligence-executive-order-broad-concerns"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 19
+  - title: "Biden Signs Executive Order to Safeguard America’s Responsible Use of AI"
+    excerpt: "President Biden signs executive order promoting responsible use of AI in America. Order aims to harness the power of AI for good while protecting against potential risks."
+    publishedDateTime: 2023-10-30T18:58:00Z
+    webUrl: "https://www.washingtoninformer.com/ai-responsible-use-executive-order/"
+    type: article
+    provider:
+      name: The Washington Informer
+      domain: washingtoninformer.com
+    quality: 18
+  - title: "Biden lays down the law on AI"
+    excerpt: "The White House today issued a long-awaited executive order that hammers out clear rules and oversight measures to ensure artificial intelligence is kept in check, while also providing paths for it to grow."
+    publishedDateTime: 2023-10-30T16:42:00Z
+    webUrl: "https://www.computerworld.com/article/3709451/biden-lays-down-the-law-on-ai.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
   - title: "Biden signs sweeping executive order on artificial intelligence"
     excerpt: "\"The actions that President Biden directed today are vital steps forward in the U.S.’s approach on safe, secure, and trustworthy AI,\" the White House said in a release."
     publishedDateTime: 2023-10-30T14:32:00Z
@@ -301,6 +447,15 @@ related:
     provider:
       name: c-span
       domain: c-span.org
+    quality: 17
+  - title: "Biden signs sweeping executive order on artificial intelligence"
+    excerpt: "\"The actions that President Biden directed today are vital steps forward in the U.S.’s approach on safe, secure, and trustworthy AI,\" the White House said in a release."
+    publishedDateTime: 2023-10-30T19:49:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2023/10/30/biden-artificial-intelligence-silicon-valley.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 17
   - title: "Biden orders tech firms to share AI safety test results with US government"
     excerpt: "Executive order includes official guidance on privacy, civil rights, consumer protections and workers’ rights"
@@ -325,6 +480,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "President Biden Issues Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence"
+    excerpt: "President Biden is issuing a landmark Executive Order to ensure that America leads the way in seizing the promise and managing the risks of artificial intelligence (AI). The Executive Order establishes new standards for AI safety and security,"
+    publishedDateTime: 2023-10-30T21:05:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 7
   - title: "Biden wants to move fast on AI safeguards and will sign an executive order to address his concerns"
     excerpt: "President Joe Biden is signing a sweeping executive order to guide the development of artificial intelligence."
     publishedDateTime: 2023-10-30T13:36:00Z
@@ -333,6 +497,15 @@ related:
     provider:
       name: clickondetroit.com
       domain: clickondetroit.com
+    quality: 5
+  - title: "AI is lighting a fire under the data privacy debate, as President Biden’s new order makes clear"
+    excerpt: "Now the president is using AI-related risks to bolster his case and slowly move towards action. From today’s White House statement: “AI not only makes it easier to extract, identify, and exploit personal data, but it also heightens incentives to do so because companies use data to train AI systems.”"
+    publishedDateTime: 2023-10-30T18:52:00Z
+    webUrl: "https://www.aol.com/ai-lighting-fire-under-data-155203254.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 5
 
 secured: "nsejiRLNiItMxebXoX4KhrhcNo4AwkHqKUAaCYJu2gS65+SHZxKfNMDM/eLvHCSGXqwoAGZuwxxkt6iC0z4fy7vGU2XNtuP2xcybBJMe/gIEpqhjm8qkoVxhHJInJLv+WL25f29NAW8iLRf2J0sKaLsEr/XXpiSChvfUvmyeb8DmNOHZaEUpDX2qhC+tLa+fS8epNvC2XugX6JM3mOSFp5TvsbHkWAyoO7LYXF6E4vEAmCGo6ZkzHXtOxabJTN21sfTSTjj0Y4RutEqnzCaW8uR/FXrWlvtHq2U5vYph7MAdnPIb5GmIb0ka/OyP6ICaLy9WL1yUu2xzPW3pyemvzrvEFBUofNI4vztW1tQrsnk52CuTLSntbE165ErMf+CViR0DZZkjocmRJykdTgJR0SKFVcdOsjZdQX9sEdC2/PmK0w0yiBQ/mVLXFaEbpFBZVyPHtaS37oGOv9H50RzQVty5hR6CmwPTRUpX88szOdrPJcg2AhPkQtr7mtKl8P7wYwE0D4HOKlTkNhvFEOkSaw==;79scuhMyEjPG7RDYrDptBA=="

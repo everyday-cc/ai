@@ -47,6 +47,15 @@ related:
       name: Omaha.com
       domain: omaha.com
     quality: 4
+  - title: "AI-generated child sexual abuse images could flood the internet. A watchdog is calling for action"
+    excerpt: "Child pornography is already running rampant on the internet, but the introduction of artifical intelligence could make the problem much worse."
+    publishedDateTime: 2023-10-30T19:42:00Z
+    webUrl: "https://www.eastidahonews.com/2023/10/ai-generated-child-sexual-abuse-images-could-flood-the-internet-a-watchdog-is-calling-for-action/"
+    type: article
+    provider:
+      name: East Idaho News
+      domain: eastidahonews.com
+    quality: 4
 
 secured: "GSzenyMLHXR8woDIsUczHqAOEtEl0jhG/0a1IdzL8V0dQcf5VXTsrEFo/laolo3+pFIDG84VweG2g/7XfLVGyJqFPg65E0VZfR6mJHN778l25CnaybxrgCEJGjCqkfT/xOJ44GAfo0U4ibWfC0KDd62T6ybx3Vm+kAs5QzWwUjan2MaGC/Gz3JuYp7DT7a8EH6FBfbQCJnMNWxukdi9eEC18JaNIKk7uvqjZY1l1d3iVGgVACN1T3CFmmEducRQU6anp5pxPIiNj09MP7mz93PDnLCUMpIGQ+d8LrWlE9PqZaJnEjnjlw1arfJXn8l7Fl0iUZp48r0kZK4ZqueQipLia2F1nZvTtYh/oE3ll2vQ=;5E+gUiv2YOdi7gRd8eFXSg=="
 ---

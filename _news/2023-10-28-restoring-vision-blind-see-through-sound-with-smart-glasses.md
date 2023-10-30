@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "‘Vision via sound’ for the blind technology potential: researchers"
-    excerpt: "Australian researchers have developed cutting-edge technology known as “acoustic touch” that helps people ‘see’ using sound, with the technology having the potential to transform the lives of those who are blind or have low vision."
-    publishedDateTime: 2023-10-26T04:26:00Z
-    webUrl: "https://itwire.com/it-industry-news/development/‘vision-via-sound’-for-the-blind-technology-potential-researchers.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 24
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/0622a9c44b21707cb0571e71edf3e91d_M.jpg"
-        width: 375
-        height: 281
-        isCached: true
 
 secured: "BRbaOHjFJ1oaQp4UWWgx50/hap+0Tcr6bm0mMlsTZJYGIcJGEuqkz/T4e3bo+wBeEgeeC14JkZGN5YZj5FehKZngvfvC8v61v+jQs9hQlDOuCfGEFFUky8p/SPXZmnBgbf9CPcoCbbTRBxzxHNfrOiNk9clLQFSDqvOZn56pyPvnAgsC7G5z3Z4h+r4ky4CJMmYol5Yia5F5Zi7AsSPU0Ult7NfTa03mFvsPAqeM5/eXyvpFMWH2gmmBYHtj+1cTVMzJuVEO6GynjQmUnF+wPPxpnTEuy1iXRP5u7QwXNHeXNG9pdREVxR9AWWIcRUC4aR9mVBL6FoVgBpSWv9GXMIM0nqTwc8kVIwy7bZOq/t6Zo5c1vJiwF70HZ2KV8zpni8s72VWoeE64rvHPksjei2maDnVz1TDYTC+CsyxhpBeHldkxUnJxANqhRDmMZn3qcp4J336zEa+EDVDKhlF8fSMoO8ZXUKW8VWbBqvtf/vWPOUIlRtigQm2S6dNgZqzwN6rilMNkwkB4RJRAZ9683Q==;YV0m5oxKD6vqQfQOQHJjEw=="
 ---

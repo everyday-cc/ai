@@ -59,6 +59,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 25
+  - title: "NOAA leverages AI for weather forecast translation"
+    excerpt: "The artificial intelligence tool will replace the National Oceanic and Atmospheric Administration’s manual process for Spanish and simplified Chinese."
+    publishedDateTime: 2023-10-30T18:00:00Z
+    webUrl: "https://www.govexec.com/technology/2023/10/noaa-leverages-ai-weather-forecast-translation/391607/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 19
 
 secured: "3ZvXWvaaNYkQ4xBVahNG6wJ1XGaDcsGXEhl/hHnvzdbA3/rtCWcpZp7hXVfRu/8m6P+WplOvnM8EruWku+4r8PdzNWcIMLxTGBJbm0+0Muglu/FRyFZHoAnoFvobwPsQ9RkXfEdcgkhBEssonE8Mv59Nwbrv5RSZwnHPG/P/ZIvjQwIASnNhiTmjuzmU1AGnVshPOD+OlnwT7+ScD7bWS7/tYqx+RktwLd6zvws4NRuD1xa3aXzPIRmYsHaB3KfIwgGbIxllKAIvRsGykSmbhzI1AH31gsSJ/qTEcA0+7mjTfSvqPqXbx/lXBgaVejYXNbNFdb1cWgaLqQ4qKMriYIykMBlp0fplyv2/2WRj70ijgbAKIcKsEFqnygmd3s0jiZjc84g67gfFa1rkp46Cg2PIyH1GJ5CDJtrTjCoBzPErpwpnuTM3sLPvJVvM7RZMrZ0zo5WOLgFTbPdYBbCgxHzZ268NWAU/RbAljgaNG48rjY3YUO4GjUTHL4caXO5NfDILk11jHkMt1hBvYNfVlQ==;jAdHUMSgQ3rdicBdOwAIEw=="
 ---

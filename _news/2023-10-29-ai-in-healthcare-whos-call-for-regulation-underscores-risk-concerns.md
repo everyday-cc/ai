@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-reg
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
         width: 910
         height: 560
         isCached: true
+  - title: "Transforming healthcare: The seismic potential of AI-powered healthcare solutions"
+    excerpt: "Because of a dropping workforce in healthcare post-pandemic, there is a “huge pressure to the system,” according to Almeida, necessitating new solutions that can help manage the influx of patients, relieve healthcare workers of mundane tasks and harness the existing information in hospital databases."
+    publishedDateTime: 2023-10-30T20:17:00Z
+    webUrl: "https://siliconangle.com/2023/10/30/transforming-healthcare-the-seismic-potential-of-ai-powered-healthcare-solutions-supercloud4/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 49
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/José-Pedro-Almeida-Supercloud-4-2023.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Can Artificial Intelligence Help With Mental Health Care?"
     excerpt: "Using AI chat in therapy, for example, raises the question if the technology ... optimistic technology could address the current shortcomings, WHO's report, \"Artificial Intelligence for Mental Health and Mental Illnesses: An Overview,\" concludes it's ..."
     publishedDateTime: 2023-10-30T16:09:00Z
@@ -51,7 +65,7 @@ related:
     provider:
       name: Government Technology
       domain: govtech.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/3d9f95f/2147483647/strip/true/crop/5984x2909+0+540/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F33%2Fac%2F7e16a7ae4236ad94a155b3a61d5e%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xNzM1ODAxMjY1L2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2NDAyMTkzMjEsICJtIjogMX0sICJPTEg0eEpjcHR0dXVPVlltWThrdlJxSU1HcmMiXQ%3D%3D%2Fshutterstock_1735801265.jpg"
         width: 1440

@@ -33,20 +33,6 @@ related:
         width: 328
         height: 250
         isCached: true
-  - title: "North America Artificial Intelligence (AI) In Military Market Size 2032 Themarketpublicist"
-    excerpt: "( MENAFN - Ameliorate Digital Consultancy) North America Artificial Intelligence (AI) in Military Market size was crossed over USD XX Billion in 2022 and is projected to record more than 21.2% growth rate from 2023 – 2032, reaching a valuation of approximately USD XX Billion by the end of the forecast period."
-    publishedDateTime: 2023-10-26T04:50:00Z
-    webUrl: "https://menafn.com/1107307153/North-America-Artificial-Intelligence-AI-In-Military-Market-Size-2032-Themarketpublicist"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 44
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?393847"
-        width: 328
-        height: 250
-        isCached: true
   - title: "All Terrain Robot Market Is Expected To Progress At A CAGR Of 14.2% By 2033 Themarketpublicist"
     excerpt: "All-terrain robots Market is a series of robots intended for scientific research, surveillance, and most practical robotic applications for driv"
     publishedDateTime: 2023-10-30T09:20:00Z

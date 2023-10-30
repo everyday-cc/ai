@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Battlefield devs’ multiplayer shooter The Finals is full of AI voices - and oof, you can tell"
+    excerpt: "Embark Studios says that text-to-speech tech “gets us far enough in terms of quality and allows us to be extremely"
+    publishedDateTime: 2023-10-30T18:23:00Z
+    webUrl: "https://www.rockpapershotgun.com/battlefield-devs-multiplayer-shooter-the-finals-is-full-of-ai-voices-and-oof-you-can-tell"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 8
+
 secured: "d/vPxwAv0xLbopdQHFgxI5Q1kjz388I7UKUUz2DYHKyIeB8TgyYa/ZzIZHp2cRLwWhpEGgzawP+qQl+yiO/ahdCdgOTRduylyrPEXrATPtTDTxPp/fcVBHGBnXxjeWCLYmmTpaMPVcst1vrSsSwN7TexxSRiRdpFNQSwHKAM5tGuMvz0oXtj7vTDTRXWZsJ8KW/33xab361Ql5KQwsW+gz7LYYDkkYE6hqIkEFQox5eW3VldKXyUe0X46AvQZHUDJVRXRNjANjeFcszlHV546k9ZhVvoy5pI6Rp4+W3xqRxfhoHpCSjPzCgj82ammMWQlWzh4fhAnEga4RGOjH+gfkN6xo9a21v3XXn5VydSDbTX5rrlZ/NJViaU02dT9iW/w/fZx2VjWHJFkPu82rmxP0hUPon7GS9XUzqEdydl10YMxO95fZNB3PMGNV9X4CeC7XWLMvQlcZKMqaofFmzlf/59bosC5yU3gGH4VQ3lT71QnWl0nKrx9CTsl69jA4rHFbgcxM1ow/FVBJY3J6PUZA==;fUA8rsYnPFWD9se2W4TKUA=="
 ---
 

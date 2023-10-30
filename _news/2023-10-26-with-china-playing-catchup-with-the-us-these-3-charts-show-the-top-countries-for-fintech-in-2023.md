@@ -43,6 +43,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "What bank, fintech execs are saying about AI"
+    excerpt: "Ahead of the Biden administration’s landmark executive order unveiled on Monday, banks and fintech executives discussed AI use cases and implications at Money20/20 last week."
+    publishedDateTime: 2023-10-30T20:50:00Z
+    webUrl: "https://www.bankingdive.com/news/money2020-bank-fintech-ai-biden-order/698176/"
+    type: article
+    provider:
+      name: bankingdive
+      domain: bankingdive.com
+    quality: 54
+    images:
+      - url: "https://www.bankingdive.com/imgproxy/I-ZCma34Q8EeoD_lJviQTNunFzzKzLc2QrgMzXEP6ws/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlLzIwMjMxMDIyLU1PTkVZMjAyMC1TUEFDRS1HSC0xMDAxLTQyNTQzOTBfcmVzaXplLmpwZw.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "Unlocking Career Potential in the Digital Age: Harnessing Fintech Innovations through Aptitude Mastery"
     excerpt: "The digital age has ushered in an era wherein technology is at the forefront of nearly every industry. Fintech—a portmanteau for the term financial technology—is one of the most dynamic and fastest-evolving sectors in this digital revolution."
     publishedDateTime: 2023-10-27T17:49:00Z

@@ -42,6 +42,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "MIT’s copilot system can set the stage for a new wave of AI innovation"
+    excerpt: "AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More MIT scientists have developed a deep learning system, Air-Guardian, designed to work in tandem with airplane pilots to enhance flight safety."
+    publishedDateTime: 2023-10-30T20:24:00Z
+    webUrl: "https://venturebeat.com/ai/mit-copilot-system-can-set-the-stage-for-a-new-wave-of-ai-innovation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/nuneybits_An_isometric_perspective_view_inside_the_cockpit_of_a_def0c478-6ff7-43b1-9c49-1b65a82f85a5-transformed.png?fit=750%2C600&#038;strip=all"
+        width: 750
+        height: 600
+        isCached: true
   - title: "John Chambers, AI & innovation: Going one-on-one with a tech legend"
     excerpt: "Is artificial intelligence the future? I could not think of a better person to share insights on this topic than John Chambers who led Cisco from $20 million to $47 billon in 20 years and acquired 180 companies along the way."
     publishedDateTime: 2023-10-27T11:04:00Z

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The 10 states most interested in artificial intelligence"
+    excerpt: "Discover how artificial intelligence is revolutionizing the healthcare industry, from colonoscopy polyp detection to providing relief for practice administrator"
+    publishedDateTime: 2023-10-30T20:35:00Z
+    webUrl: "https://www.beckersasc.com/asc-news/the-10-states-most-interested-in-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 39
+    images:
+      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "rZgPuB95fzdsDYhxSwZiW4TbDxUwK6UkK7d7iZ+k1ChLBl11IEQQvxvludAfx55akOlx/y2sWFDrGiHKtkzPJsJoRPWl9oJeY590KMlVa0ENXMKfghqdDphMfYmnCspd1FUvVdOX2oxScqFQPdn0Xc8rybPE0n+4vyBxlfkV9LmbIdD8ZFh7JGTrYYpzt0qskejPxsmlMZP3X6MOA9CAQmUsEQGwN4D8NHHtNle6SXxNpzwR+UFZpk6r6+zvwwqHSCASTKSg8JH8B0rV9HycZQu7C86IgRBWFdxT1gim5RzDhuefjWKIxBsCbAzc/Wx/bc74DzhI5LaxUlzHwe2aKbYz92q27id7CRPk8+IbeOE=;c977T9N0UWuU/AY7Pw5LUQ=="
 ---

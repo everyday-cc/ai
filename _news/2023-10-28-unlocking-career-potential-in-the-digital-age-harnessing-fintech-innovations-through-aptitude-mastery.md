@@ -35,6 +35,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "What bank, fintech execs are saying about AI"
+    excerpt: "Ahead of the Biden administration’s landmark executive order unveiled on Monday, banks and fintech executives discussed AI use cases and implications at Money20/20 last week."
+    publishedDateTime: 2023-10-30T20:50:00Z
+    webUrl: "https://www.bankingdive.com/news/money2020-bank-fintech-ai-biden-order/698176/"
+    type: article
+    provider:
+      name: bankingdive
+      domain: bankingdive.com
+    quality: 54
+    images:
+      - url: "https://www.bankingdive.com/imgproxy/I-ZCma34Q8EeoD_lJviQTNunFzzKzLc2QrgMzXEP6ws/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlLzIwMjMxMDIyLU1PTkVZMjAyMC1TUEFDRS1HSC0xMDAxLTQyNTQzOTBfcmVzaXplLmpwZw.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "With China playing catchup with the U.S., these 3 charts show the top countries for fintech in 2023"
     excerpt: "In China, which was another standout fintech player identified by Statista, the market for digital financial services is massive. WATCH: CNBC's full extended interview with Robinhood CEO Vlad Tenev on AI, credit cards and more Tencent's WeChat Pay and Ant ..."
     publishedDateTime: 2023-10-26T05:16:00Z

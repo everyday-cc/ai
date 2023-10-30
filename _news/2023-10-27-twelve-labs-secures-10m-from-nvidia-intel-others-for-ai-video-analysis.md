@@ -188,6 +188,15 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 34
+  - title: "Nonprofit Organization Purchases 24,000 Nvidia AI Chips for $500 Million"
+    excerpt: "Voltage Park acquires 24,000 Nvidia H100 chips for $500 million to address the chip shortage and offer low-cost AI computing power."
+    publishedDateTime: 2023-10-30T18:29:00Z
+    webUrl: "https://www.coinspeaker.com/nonprofit-24000-nvidia-ai-chips/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 33
 
 secured: "ku2TkQbdXAAvgkin8hFOvr0oE4QUr5O5jmrZPIk7v8ZyTMRjhlrtQGgWpQPJNMG2fb3+3WMZ/u902EFTYvHatG3yB0sp9zblLpt+wgp7qZXuT7CgXlvJq9vm1NYgOnJ+KXsx4sYn8amG47oImuMZKz5+2vjkH1NapdskhV3w61ZdQMbuKqsFfTsXGxgQh1XOFmL+pM5dLrP871c3xLXU44ipLqGYKLOivJujcDN3XtFw28LQ3q0Nst1Mg7QFj5cFsPyrO6yjZIpci5mtMHkSsRitZ2NFEbRBbCRif+RojfoFkJHpovNV6kSaQdlN5DqC6kui+SbMdRFdMDRtRoHQ8Zfj5JyrXOV2DgUL8fYQyIacwhqtblpea2SnP7NUE+fNb5QagoVBzEVzqx5VlbiE2+ypS3X7OyaDViZknunmOU6HAKTtV972ePk0kzGEFbTqcPBWhNZJgBtIUE6Gi6ByOT9CQq8rPNG+jLh19pnFJn9inoHizBtN8lHgC+yeeflKXIyhS0tYFuCCIHe7XCEiyw==;Us+e1PCMBceaSbtDxE6LoA=="
 ---
