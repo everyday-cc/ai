@@ -2,6 +2,57 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2023-08-17-why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one.md",
+      "title": "Why Your Business Needs A Winning AI Strategy (And How To Build One)",
+      "excerpt": "Part of the challenge is the countless applications for AI within a business, and it’s often difficult for business leaders to determine where to start. Without a proper roadmap that looks for automation opportunities across the entire value chain ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/why-your-business-needs-a-winning-ai-strategy-and-how-to-build-one/amp/",
+      "publishedDateTime": "2023-08-17T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-17-an-open-source-and-python-based-platform-for-the-2d-simulation-of-robocup-soccer.md",
       "title": "An open-source and Python-based platform for the 2D simulation of Robocup soccer",
       "excerpt": "RoboCup is an international annual event designed to showcase advances in the fields of robotics and artificial intelligence (AI). At this event, different teams of humanoid robots play soccer against each other,",
@@ -1092,49 +1143,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-sweet-smell-of-success-simple-fragrance-method-produces-major-memory-boost.md",
-      "title": "Sweet smell of success: Simple fragrance method produces major memory boost",
-      "excerpt": "Participants in this study reaped a 226% increase in cognitive capacity compared to the control group. The researchers say the finding transforms the long-known tie between smell and memory into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230801131700.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230801131700.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

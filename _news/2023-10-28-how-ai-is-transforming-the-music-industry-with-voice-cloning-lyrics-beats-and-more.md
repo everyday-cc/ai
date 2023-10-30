@@ -24,6 +24,17 @@ images:
     height: 801
     isCached: true
 
+related:
+  - title: "How artificial intelligence is transforming payments"
+    excerpt: "Climate change is robbing some hydro dams of water while oversupplying others—forcing managers to employ new forecasting technology and clever strategies to capitalize on what they have. WIRED s ..."
+    publishedDateTime: 2023-10-27T17:37:00Z
+    webUrl: "https://www.wired.co.uk/bc/article/artificial-intelligence-transforming-payments-jp-morgan"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 19
+
 secured: "tspG/T0qgFaqi29PgWM1hvBNyD7ARLykBlzPnMwE4VwTuTbjN1ultaO4PmOFljamcK38MS70wFsLsK/d9cVXBEmqbhp0G9y/O+ff9jimmsXLOAHT3aHZer1WnKfrEb9BUcsucqII5+pW2xMyD9H+c0S7e7azAjp0Aep2P5Z2yjQwWKE62CHmrprofJTfGZW2q+KufwXItRBuAJto38x1rrxz6WLHTuODy44VeBqy+8klkGLlQM6x3GMMv/bnuwpd+cCl9zif/qsHS8VroiLIvly3NuSGptLIcu9agMWbZbKFpO6EQoWEiyKAcoJXrjmahiT4hUkh0zjTJ04VwYPYgGhR7awT7JUlKTaoQMrq+pI=;6+572/OAgzJALS11icLWlA=="
 ---
 

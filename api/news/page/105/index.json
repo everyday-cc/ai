@@ -2,6 +2,49 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-08-15-artificial-intelligence-cegep-teachers-want-training.md",
+      "title": "Artificial intelligence:: CEGEP teachers want training",
+      "excerpt": "With artificial intelligence becoming increasingly prevalent, CEGEP professors and lecturers need training in the field, said CSN president Caroline Senneville.",
+      "sourceUrl": null,
+      "webUrl": "https://montreal.ctvnews.ca/artificial-intelligence-cegep-teachers-want-training-1.6520040",
+      "originalUrl": "https://montreal.ctvnews.ca/artificial-intelligence-cegep-teachers-want-training-1.6520040",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/montreal/2023/8/15/1_6520040/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/montreal/2023/8/15/1_6520040.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/montreal/2023/8/15/1_6520040.amp.html",
+      "publishedDateTime": "2023-08-15T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-h2oai-achieves-soc2-type-2-hipaahitech-report.md",
       "title": "H2O.ai Achieves SOC2 Type 2 +HIPAA/HITECH Report",
       "excerpt": "H2O.ai Achieves SOC2 Type 2 +HIPAA/HITECH Report - Reinforcing Commitment to Data Security and Customer Trust (Graphic: AICPA) H2O.ai's Chief Information Security Officer (CISO), David Epperson, expressed his pride in the team's accomplishment,",
@@ -1122,57 +1165,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-ai-startup-grit-raises-7-mln-to-automate-software-maintenance.md",
-      "title": "AI startup Grit raises $7 mln to automate software maintenance",
-      "excerpt": "Artificial intelligence code cleanup startup Grit has raised a $7 million in a seed round, the New York City-based startup said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-startup-grit-raises-7-mln-automate-software-maintenance-2023-08-15/",
-      "originalUrl": "https://www.reuters.com/technology/ai-startup-grit-raises-7-mln-automate-software-maintenance-2023-08-15/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/arc-authors/reuters/75b029fc-7f40-49c1-b055-b519a14d825f.png",
-          "width": 1399,
-          "height": 1399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

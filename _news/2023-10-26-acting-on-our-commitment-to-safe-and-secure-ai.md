@@ -23,49 +23,19 @@ topics:
   - Google AI
 
 related:
-  - title: "How To Use AI To Surprise And Delight Your Customers"
-    excerpt: "AI has afforded marketers the opportunity to explore new techniques that we can use to surprise and delight our customers."
-    publishedDateTime: 2023-10-25T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/25/how-to-use-ai-to-surprise-and-delight-your-customers/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/25/how-to-use-ai-to-surprise-and-delight-your-customers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/10/25/how-to-use-ai-to-surprise-and-delight-your-customers/amp/"
+  - title: "Experts from Accenture and AWS on Optimizing Cloud and AI"
+    excerpt: "Providing insight are Chris Niederman, Managing Director, Global Systems Integrators at Amazon Web Services; and Chris Wegmann, Global Technology Lead of AWS Business Group at Accenture. eWEEK content and product recommendations are editorially independent."
+    publishedDateTime: 2023-10-25T17:54:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/accenture-and-aws-on-optimizing-cloud-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: eWeek
+      domain: eweek.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/623427218/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Free Report: How to Use AI to Launch and Grow Your Business"
-    excerpt: "The power of artificial intelligence (AI) to save time, money, and resources has created a new era of entrepreneurship — and it is available to anyone right now who is ready to take a giant leap forward. From content creation to financial analysis, AI is getting things done faster, smarter, and for less money than we could ever dream."
-    publishedDateTime: 2023-10-27T12:00:00Z
-    webUrl: "https://www.entrepreneur.com/page/free-report-how-to-use-ai-to-launch-and-grow-your-business/464366"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1698337418-ScreenShot2023-10-26at122205PM.png?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "How to tame AI’s wild frontier"
-    excerpt: "Britain’s Conservative prime minister Rishi Sunak has seized on AI as an area where the UK can potentially project global influence, unveiling plans this week to create what he called the “world’s first AI safety institute” in Britain. This would investigate the capabilities and dangers of new types of AI, and share its work with the world."
-    publishedDateTime: 2023-10-27T15:28:00Z
-    webUrl: "https://www.ft.com/content/5cb9eed8-3af9-4008-80c3-0ba447b00e70"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
+      - url: "https://www.eweek.com/wp-content/uploads/2023/10/eSPEAKS-thumbnail-aws-accenture.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "sPd26fsEmeRDFmdIdng34Jw7QA7XicUjockffdV5itr3xW5Cdr6sFC+V9V6vKr1iZBKKFxOQixTtboSR+tjIIywwpWJzzXiSu3JPke3mPbjoqkUXzwf9WNRbaGJ1qu4lPUfa+spHjDjxQSxFLwM1NULz0lUHAq6Lv2jLhP4iR74jq9bTwgB6Gna2qrL/9PLRcz4Zr5NPu21FkMRhyEHGPNb9UiCRyIIwf6d5w7Ym9XfvHSG5d8d7LnnYc7uzG6GObuY9Swz91+QV4N29Ov4J1RbROXpFjfIgXoIevyFsdugCTjIoBwBy7l9icUm1/UySvdMacaZ1foX1yoc3W89wvfjjQYyg8Q0cf0tHruRSEfY=;MSHTfHMY86cuO4nxfj3OYw=="

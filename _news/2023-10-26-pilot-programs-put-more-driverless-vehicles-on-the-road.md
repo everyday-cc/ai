@@ -41,20 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Where's AI steering driverless cars?"
-    excerpt: "GM's Cruise taxis were banned from California roads after the state said the driverless car company misrepresented safety data."
-    publishedDateTime: 2023-10-27T23:25:00Z
-    webUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 54
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2023/10/GettyImages-1626054002-e1698443650973.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "GM Cruise Unit Suspends All Driverless Operations After California Ban"
     excerpt: "A Cruise self-driving car, which is owned by General Motors Corp, is seen outside the company’s headquarters in San Francisco where it does most of its testing, in California, U.S., September 26, 2018. REUTERS/Heather Somerville/File photo Reuters"
     publishedDateTime: 2023-10-26T20:38:00Z
@@ -101,6 +87,15 @@ related:
         width: 1020
         height: 680
         isCached: true
+  - title: "Where's AI steering driverless cars?"
+    excerpt: "GM's Cruise taxis were banned from California roads after the state said the driverless car company misrepresented safety data."
+    publishedDateTime: 2023-10-27T23:25:00Z
+    webUrl: "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/?ref=biztoc.com"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 34
   - title: "Cruise suspends self-driving robo-taxi service in Houston, nationwide"
     excerpt: "HOUSTON - Two weeks after launching services in Houston, Cruise suspended its self-driving vehicle operations nationwide."
     publishedDateTime: 2023-10-28T03:25:00Z

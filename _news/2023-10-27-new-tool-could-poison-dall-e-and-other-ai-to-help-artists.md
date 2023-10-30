@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Tool ‘Poisons’ AI Data To Shield Artists From Having Their Work Stolen"
-    excerpt: "Nightshade, out of the University of Chicago, protects pixels by \"poisoning\" digital images with subtle, invisible changes that cause AI algorithms to misinterpret them."
-    publishedDateTime: 2023-10-26T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen/"
-    ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6539fd5333db20dc243fc149/0x0.jpg?format=jpg&crop=3136,1765,x65,y459,safe&height=900&width=1600&fit=bounds"
-        width: 1599
-        height: 900
-        isCached: true
   - title: "Poison pill tool could break AI systems stealing unauthorized data, allowing artists to safeguard their works"
     excerpt: "AI image generators have been accused of ripping off artists' creative styles. This new tool promises to protect artists' creations and poison machines trying to copy them."
     publishedDateTime: 2023-10-26T20:30:00Z

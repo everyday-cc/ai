@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -44,22 +44,29 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Cloud fails to cash in on generative AI"
-    excerpt: "The explosive growth in the demand for generative AI has been a big revenue driver for public clouds. However, while some cloud players are reaping the benefits of user demand, Google Cloud seems to be failing to cash in on one of the biggest technology opportunities in decades."
-    publishedDateTime: 2023-10-25T12:06:00Z
-    webUrl: "https://www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.amp.html"
+  - title: "Can generative AI live up to the hype? | FT Tech"
+    excerpt: "Generative AI has been hailed as a transformative technology, and billions are being spent on developing its potential. But will it live up to its early hype, and can it actually make money?"
+    publishedDateTime: 2023-10-30T03:58:00Z
+    webUrl: "https://www.ft.com/video/8214af92-305f-4ae7-9390-8f2358d58073"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/18/22/google-cloud-services_ai_artificial-intelligence-100765813-large-100943540-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2F5e5ac9a7-f85f-451b-b9a9-5398dee964d8?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
         isCached: true
+  - title: "The Office of the Provost hosts new Generative AI conversation series"
+    excerpt: "The Office of the Provost hosted the first events in its conversation series focused on generative artificial intelligence Thursday afternoon. The conversation centered around the future of AI and an exploration of the ethical considerations that come with it."
+    publishedDateTime: 2023-10-30T03:21:00Z
+    webUrl: "https://dailynorthwestern.com/2023/10/29/campus/the-office-of-the-provost-hosts-new-generative-ai-conversation-series/"
+    type: article
+    provider:
+      name: The Daily Northwestern
+      domain: dailynorthwestern.com
+    quality: 19
 
 secured: "xLUcZtI35N1XiQwM8I+GhJNAhLngP8E+tluBpSb7xONNh9XL0s+mf5B3NqTfUX3de+psYKNG9FzC8AsjsZz0lpAnDa/xGvYXjfxBwGo0SysCDFQXDwf4vMS2A6czCvVsCH3DPPVf1zEXi3YmgORAWQc+eVABlmDTemDmF8V6yL9T07wDSN0hqYF0ht1z14McJjk4cFIPT5YGABnuITny+h85AKP4O5H5+lOEJf0IHNyyU6TZ2nZMXWEV1tQ1VrpzrfycQaFAN1DcthgHI8C7ujoeA9eQUdJTZo5lPIdWmqGaeZ/dhEzgUYiD+Oyo8FdSXFSuOfCVgaQ1dqFrkz2rz6WIDSlIOVzeSQHuTLJZroon4rgIJ0tdv5UsgwjG00m+VywW0eIZxvfFIPdd4bGGc5dWZPrXLzmBEW0WHRmeVCUYuTM/kuXkp+Z0MDncfMedajx2Uyoz9UTJwiw172pbV+hEQUHAdMdqQjB/44BkRmQfzayOfyJL05iY+YrZJvGUf8sA9gdk1rjYuyTSzHoXBA==;KwjeQ6979/QI0MpkJIQ4fA=="
 ---

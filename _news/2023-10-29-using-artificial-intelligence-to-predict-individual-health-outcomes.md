@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-intelligence-to-predict-individual-health-outcomes/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://assets.medpagetoday.net/media/images/107xxx/107029.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Using AI and satellites to measure carbon"
-    excerpt: "Part of the ITN Business programme ‘ Carbon Markets: The Power of Data & Innovation ’, made in partnership with the Climate Action Data Trust (CAD Trust)"
-    publishedDateTime: 2023-10-25T09:21:00Z
-    webUrl: "https://www.newscientist.com/article/2399095-using-ai-and-satellites-to-measure-carbon/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/10/25100539/cad-trust_-gait-global-6.png"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "Uymzxe/0ewIHr4elAL22+9173gsbkx0hN6wWYlxwJwXd2ddQPBSXs9691MH2fksxyMqgd/7B7V5dvsEp0+S6E+C0zCrGftzYW0xBxivZJsHnnE3Hck0NrAM3PhR61ibleN9ZJFI26jSACwQmU8jNIJn+SAP1zzzCLl4K2f6MhZuzze5xqxN1rPdRmTwYxN0QaSRUqLe01iHK8cB8gMdRQZgwUSCKqEfypzX3gpbmPjpMLPgut3T0O2AqTqsz7/5N4JeVGiEsMD/O5f6YAngQCiGJnmcj/7yx5AW6J+J/4o/eTDmz3E542pcuE9B3J3M6fc2hCw26Uo1vahRSWvLYU4LWDNrg/4v1+Vhlt4hgvT4LHEeMa++na+wXT+dydHcLpWzUOC112gVqjhyig6xmFp8oPUEqXKTJNrBrNS68/j2wSf2Hepdw52lNnzCywtN1BpakFZhnEedfcxwLbYoe9vVrLpRC0pxHfHes1QoPItvUPFwjp8wzWzFfMccuY7YwmsicqIMb1+rh5I5R8oSjVg==;M/QKY5fvtvyzu2jVsVh9pQ=="

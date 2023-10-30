@@ -2,6 +2,57 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2023-08-10-3-areas-customers-see-the-most-potential-for-generative-ai.md",
+      "title": "3 Areas Customers See The Most Potential For Generative AI",
+      "excerpt": "In just a short period, we’re likely to see massive changes in how customers find products, engage with companies, and experience brands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c90fd5ea55d543dd49763d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/3-areas-customers-see-the-most-potential-for-generative-ai/amp/",
+      "publishedDateTime": "2023-08-09T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-heres-why-ai-is-the-key-to-more-empathetic-customer-experiences.md",
       "title": "Here’s Why AI Is The Key To More Empathetic Customer Experiences",
       "excerpt": "If empathy is what makes us human, artificial empathy can help us deliver richer, more personal customer experiences at scale.",
@@ -1110,58 +1161,6 @@
         "name": "Fudzilla",
         "domain": "fudzilla.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-zoom-knots-itself-a-legal-tangle-over-use-of-customer-data-for-training-ai-models.md",
-      "title": "Zoom knots itself a legal tangle over use of customer data for training AI models",
-      "excerpt": "Zoom settled with the FTC over a claim of deceptive marketing around security claims, having been accused of overstating the strength of the encryption it offered. Now the videoconferencing platform could be headed for a similar tangle in Europe in relation to its privacy small",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/08/zoom-data-mining-for-ai-terms-gdpr-eprivacy/",
-      "originalUrl": "https://techcrunch.com/2023/08/08/zoom-data-mining-for-ai-terms-gdpr-eprivacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1234804190.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/08/zoom-data-mining-for-ai-terms-gdpr-eprivacy/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/zoom-data-mining-for-ai-terms-gdpr-eprivacy/amp/",
-      "publishedDateTime": "2023-08-09T02:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

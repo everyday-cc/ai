@@ -24,63 +24,125 @@ images:
     isCached: true
 
 related:
-  - title: "AI Is In The Workplace More Than Employees Know"
-    excerpt: "You don’t have to work directly on the technology to have your career be affected by AI. Be proactive — learn about AI and understand how your employer is using it."
-    publishedDateTime: 2023-10-25T21:31:00Z
-    webUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/"
-    ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/amp/"
+  - title: "AI And The Future Of Work: Adapting To A Changing Landscape"
+    excerpt: "Nvidia, a leading technology company, recently announced a significant increase in earnings, with their revenue doubling due to the high demand for its AI chips that power new machine learning applications;"
+    publishedDateTime: 2023-10-27T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6307744cdf865cb5591b5fd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "AI And The Future Of Work—How Gen AI Will Impact Your Job Search"
+    excerpt: "Since ChatGPT amassed millions of users within months, it has had serious implications for job seekers. Here are some things you need to know about Gen AI."
+    publishedDateTime: 2023-10-27T10:42:00Z
+    webUrl: "https://www.forbes.com/sites/rachelwells/2023/10/27/ai-and-the-future-of-work-how-gen-ai-will-impact-your-job-search/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/10/27/ai-and-the-future-of-work-how-gen-ai-will-impact-your-job-search/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/10/27/ai-and-the-future-of-work-how-gen-ai-will-impact-your-job-search/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/653985367f7af9aad3aa260d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 896
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653b92c8d8a3cb4a0793857b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1385
+        height: 900
         isCached: true
-  - title: "AI will eat the world"
-    excerpt: "ChatGPT is synonymous with AI today. But there will be millions of “AIs” all solving different problems—like Google’s new AI healthcare tool that can tell doctors about their patients’ medical histories."
-    publishedDateTime: 2023-10-26T09:00:00Z
-    webUrl: "https://www.mauldineconomics.com/editorial/ai-will-eat-the-world"
-    ampWebUrl: "https://www.mauldineconomics.com/editorial/amp/ai-will-eat-the-world"
-    cdnAmpWebUrl: "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/editorial/amp/ai-will-eat-the-world"
+  - title: "IC Chips in AI and Machine Learning: Defining the Future of Electronics"
+    excerpt: "Just by looking at the current trends, artificial intelligence, and machine learning are poised to be the drivers of the next generation of technology. This statement is not far-fetched anymore as in recent years,"
+    publishedDateTime: 2023-10-27T09:52:00Z
+    webUrl: "https://techbullion.com/ic-chips-in-ai-and-machine-learning-defining-the-future-of-electronics/"
     type: article
     provider:
-      name: MauldinEconomics.com
-      domain: mauldineconomics.com
-    quality: 59
+      name: Impacts
+      domain: techbullion.com
+    quality: 73
     images:
-      - url: "https://images.mauldineconomics.com/uploads/newsletters/Joltmauldin_20231025_Feature.jpg"
-        width: 725
-        height: 363
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/3d-ics-in-emerging-technologies-consumer-electronics-ml-ai-featured-1280x720-1-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "How artificial intelligence is monitoring employee performance in the workplace"
-    excerpt: "Artificial intelligence has been around for years, but the technology is being used in new ways, including to monitor your performance on the job."
-    publishedDateTime: 2023-10-28T03:09:00Z
-    webUrl: "https://nbc-2.com/features/tech/2023/10/27/how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace/"
-    ampWebUrl: "https://nbc-2.com/features/tech/2023/10/27/how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2023/10/27/how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace/"
+  - title: "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT"
+    excerpt: "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines"
+    publishedDateTime: 2023-10-28T12:47:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?trk=public_post_comment-text"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt"
     type: article
     provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 53
+      name: The Guardian
+      domain: theguardian.com
+    quality: 72
     images:
-      - url: "https://nbc-2.com/wp-content/uploads/2023/10/ashley-nbc-10.27.png"
+      - url: "https://i.guim.co.uk/img/media/53285d0e16ba8ce49782d1e34d9d4e78f37991dd/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=4c1a22e3a11bda4c35e304748e0175b9"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Kate Darling on the Future of Robotics and AI Ethics"
+    excerpt: "In this episode, we recap the recent RoboBusiness 2023 event and the recent news of Agility Robotics humanoid testing at Amazon. Our featured interview on this episode is with Dr. Kate Darling, who is joining Marc Raibert in her dream job at the Boston Dynamics AI Institute to head up their AI and ethics research group."
+    publishedDateTime: 2023-10-25T22:20:00Z
+    webUrl: "https://www.roboticsbusinessreview.com/news/kate-darling-on-the-future-of-robotics-and-ai-ethics/"
+    type: article
+    provider:
+      name: Robotics
+      domain: roboticsbusinessreview.com
+    quality: 66
+  - title: "Researchers Working to Translate Human Experiences for AI Tools"
+    excerpt: "Professors Haoqi Zhang and Darren Gergle are advancing new programming environments and tools that support designers using their understanding of human situations to create context-aware applications."
+    publishedDateTime: 2023-10-25T17:52:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/10/researchers-working-to-translate-human-experiences-for-ai-tools/"
+    type: article
+    provider:
+      name: mccormick.northwestern.edu
+      domain: northwestern.edu
+    quality: 54
+    images:
+      - url: "https://www.mccormick.northwestern.edu/images/news/2023/10/researchers-working-to-translate-human-experiences-for-ai-tools-social.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "The employees secretly using AI at work"
-    excerpt: "Some employers are either tacitly or outright banning access to generative AI tools like ChatGPT. But employees who love them are finding ways to discreetly backchannel."
-    publishedDateTime: 2023-10-25T14:49:00Z
-    webUrl: "https://www.bbc.co.uk/worklife/article/20231017-the-employees-secretly-using-ai-at-work"
+  - title: "Precise to the point 3D image processing solution with 2D cameras, AI and robotics optimises the manufacturing landscape"
+    excerpt: "The manufacturing sector is currently facing several challenges. Technological change, pressing environmental issues, and globalisation require several adjustments, such as investing in"
+    publishedDateTime: 2023-10-26T14:36:00Z
+    webUrl: "https://www.sourcesecurity.com/news/precise-point-3d-image-processing-solution-co-12175-ga-co-1698305897-ga.1698306424.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/precise-point-3d-image-processing-solution-co-12175-ga-co-1698305897-ga.1698306424.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/precise-point-3d-image-processing-solution-co-12175-ga-co-1698305897-ga.1698306424.html"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 44
+  - title: "Artificial Intelligence and the Future of Trucking"
+    excerpt: "You’ve been hearing a lot about Artificial Intelligence lately. Is it just another computer system? Or as revolutionary as the experts say?"
+    publishedDateTime: 2023-10-27T14:30:00Z
+    webUrl: "https://www.truckinginfo.com/10209095/artificial-intelligence-and-the-future-of-trucking"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 39
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/blogpost/2023-10/pexels-google-deepmind-hdt-truck-tech-__-1200x630-s.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "The future of AI in Dallas and around the world"
+    excerpt: "Business leaders focused on technology discuss how AI is going to change the face of business, work, and technology moving forward."
+    publishedDateTime: 2023-10-27T17:11:00Z
+    webUrl: "https://www.bizjournals.com/dallas/news/2023/10/27/the-future-of-ai-in-dallas-and-around-the-world.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "UN7KMVb523gODzJlP87OnxS1OWsVk8OflFwWKW2k06Bh5hlPueVp4XiL1HvL56Mv+b8/Qr0iy64L+48WQ8XofwrEN8iGDPt3Us/zrFLisR9+bz7wESiPySfHZgKijsrsQ2xkdSi8tI1MzivzR+PlSPmZM+UizkfG28bz8VodEZuBBtDtfdxmzS2zL5ruv17jPnSdF1Qfzym0phnFBhxDHrqGvSBOY9cVg/KipUUQzk4QcxuyaF38ZHSdZ+wqdISx/XKgNrXuaS9bpw/o6kTgtqhxUEBIXA7EL51WeLpV04L+hwvBYCnK6hr56BxjREBVW82WXKoLqulPt8udzpQsfi1KNv34jBgql8XraLJlNcw=;9rh3PtyyvDN+nezXQob4RQ=="
 ---

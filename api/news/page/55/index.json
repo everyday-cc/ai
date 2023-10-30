@@ -2,6 +2,49 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-09-19-nasdaq-cta-artificial-intelligence-robotics-nqrobo.md",
+      "title": "Nasdaq CTA Artificial Intelligence & Robotics (NQROBO)",
+      "excerpt": "Risk Disclosure: Trading in financial instruments and/or cryptocurrencies involves high risks including the risk of losing some, or all, of your investment amount, and may not be suitable for all ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.investing.com/indices/nasdaq-cta-artificial-intel-robotic",
+      "originalUrl": "https://www.investing.com/indices/nasdaq-cta-artificial-intel-robotic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-machine-learning-models-can-produce-reliable-results-even-with-limited-training-data.md",
       "title": "Machine learning models can produce reliable results even with limited training data",
       "excerpt": "Researchers have determined how to build reliable machine learning models that can understand complex equations in real-world situations while using far less training data than is normally expected.",
@@ -1115,40 +1158,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-engineering-whistleblower-explains-why-safe-full-self-driving-cant-ever-happen.md",
-      "title": "Engineering whistleblower explains why safe Full Self-Driving can't ever happen",
-      "excerpt": "Pulled from the pages of science fiction, self-driving cars seem to be on the way to becoming real. Cruise and Waymo are expanding their reach with their autonomous taxi experiment and Tesla ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/automotive/whistleblower-explains-why-safe-full-self-driving-cant-happen",
-      "originalUrl": "https://www.thestreet.com/automotive/whistleblower-explains-why-safe-full-self-driving-cant-happen",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

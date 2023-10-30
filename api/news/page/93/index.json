@@ -2,6 +2,40 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2023-08-24-this-ai-expert-left-meta-to-lead-cmus-language-technologies-institute.md",
+      "title": "This AI expert left Meta to lead CMU’s Language Technologies Institute",
+      "excerpt": "\"We are at an inflection point for this technology and the discipline as a whole,\" Mona Diab said. \"It is a critical time to take into account its impact and sustainability.\"",
+      "sourceUrl": null,
+      "webUrl": "https://technical.ly/professional-development/mona-diab-ai-meta-cmu-language-technologies-institute/",
+      "originalUrl": "https://technical.ly/professional-development/mona-diab-ai-meta-cmu-language-technologies-institute/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Technical",
+        "domain": "technical.ly",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws.md",
       "title": "AWS EC2 instance types: Challenges and best practices for hosting your applications in AWS",
       "excerpt": "We will explore the challenges of selecting the best Amazon EC2 instance type and discuss the best practices for how to make the right decision.\nThe post AWS EC2 instance types: Challenges and best practices for hosting your applications in AWS appeared first on IBM Blog.\n",
@@ -1122,57 +1156,6 @@
       "topics": [
         "IBM AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-how-will-leveraging-ai-change-the-future-of-legal-services.md",
-      "title": "How will leveraging AI change the future of legal services?",
-      "excerpt": "Roger E. Barton of Barton LLP discusses issues, concerns and potential changes in the legal industry with the use of artificial intelligence, examining areas such as billing structure, client confidentiality and the business model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai-change-future-legal-services-2023-08-23/",
-      "originalUrl": "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai-change-future-legal-services-2023-08-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/O4iI2t9EIwnpQ8myqaOvjJgFHp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LZOHKJSIBZKD5GGVP4DOA6JBOI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

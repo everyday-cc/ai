@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "AI Job Openings Dry Up in UK Despite Sunak’s Push on Technology"
+    excerpt: "Data from Reed Recruitment analyzed by Bloomberg shows that postings for jobs with AI-related key words — like “machine learning” and “neural networks” — declined even faster than England’s wider jobs market in recent years even as interest in the technology exploded."
+    publishedDateTime: 2023-10-30T04:00:00Z
+    webUrl: "https://www.bloomberg.com/graphics/2023-10-reed-jobs-report-england-ai-jobs-decline/"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Sunak announces UK AI safety institute but declines to support moratorium"
     excerpt: "PM says institute will test new types of AI for range of risks but says pause in developing powerful models is not feasible"
     publishedDateTime: 2023-10-26T11:10:00Z

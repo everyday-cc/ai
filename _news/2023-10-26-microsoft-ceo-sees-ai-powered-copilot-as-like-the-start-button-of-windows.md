@@ -28,15 +28,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
-  - title: "Microsoft Q1 2023 Earnings: CEO Nadella ‘Very Pleased’ With Early AI Rush"
-    excerpt: "Microsoft CEO Satya Nadella told listeners on the Tuesday call – which included results for the Redmond, Wash.-based vendor’s first quarter of its fiscal year, the quarter ended Sept. 30 – that “customers tell us that once they use copilot, they can’t imagine work without it.”"
-    publishedDateTime: 2023-10-25T12:50:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-q1-2023-earnings-ceo-nadella-very-pleased-with-early-ai-rush"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 33
   - title: "Microsoft invested $13B in genAI — does Copilot for Windows show it’s a bad bet?"
     excerpt: "The much ballyhooed Copilot for Windows doesn't really add much to the operating system, or do much for users. So where's the ROI?"
     publishedDateTime: 2023-10-27T06:59:00Z

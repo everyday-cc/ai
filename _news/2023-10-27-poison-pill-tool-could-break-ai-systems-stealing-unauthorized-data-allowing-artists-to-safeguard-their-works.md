@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/tech/poison-pill-tool-break-ai-systems-steal
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/poison-pill-tool-break-ai-systems-stealing-unauthorized-data-allowing-artists-safeguard-works.amp"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: Fox News
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Tool ‘Poisons’ AI Data To Shield Artists From Having Their Work Stolen"
-    excerpt: "Nightshade, out of the University of Chicago, protects pixels by \"poisoning\" digital images with subtle, invisible changes that cause AI algorithms to misinterpret them."
-    publishedDateTime: 2023-10-26T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen/"
-    ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6539fd5333db20dc243fc149/0x0.jpg?format=jpg&crop=3136,1765,x65,y459,safe&height=900&width=1600&fit=bounds"
-        width: 1599
-        height: 900
-        isCached: true
   - title: "New Tool Could Poison DALL-E and Other AI to Help Artists"
     excerpt: "Researchers from the University of Chicago introduce a new tool, dubbed Nightshade, that can 'poison' AI and ruin its data set, leading it to generate inaccurate results."
     publishedDateTime: 2023-10-27T16:40:00Z

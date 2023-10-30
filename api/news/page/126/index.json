@@ -2,6 +2,49 @@
   "page": 126,
   "value": [
     {
+      "path": "_news/2023-08-01-edge-impulse-joins-aws-isv-accelerate-program-to-bring-real-world-ai-for-edge-devices.md",
+      "title": "Edge Impulse Joins AWS ISV Accelerate Program to Bring Real-World AI for Edge Devices",
+      "excerpt": "Edge Impulse, a leading provider of edge machine learning development tools, today announced it has joined the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program, a co-sell program for AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.galvnews.com/news_ap/business/edge-impulse-joins-aws-isv-accelerate-program-to-bring-real-world-ai-for-edge-devices/article_fcd12ff5-44be-591d-a436-b0a07fca90e0.html",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/edge-impulse-joins-aws-isv-accelerate-program-to-bring-real-world-ai-for-edge-devices/article_fcd12ff5-44be-591d-a436-b0a07fca90e0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily News",
+        "domain": "galvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-on-ai-foibles-and-need-to-study-its-ethics.md",
       "title": "On AI foibles and need to study its ethics",
       "excerpt": "Do you think there is still room for an AI ethics discussion when there is an explosive AI arms race in this industry? I think there must be. How do you convince them to sit down and discuss AI ethics? There’s two things that I say. One is, you say hey ...",
@@ -1132,59 +1175,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter.md",
-      "title": "Deepmind unveils RT-2, a new AI that makes robots smarter",
-      "excerpt": "Deepmind released Robotics Transformer 2, a vision-language-action model enabling robots to perform novel tasks without explicit training.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter/",
-      "originalUrl": "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_a_humanoid_robot_ponders_as_a_glowing_yellow_incadescen_9b837456-86d9-4b82-bc17-e7d396153986.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-31T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

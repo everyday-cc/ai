@@ -7,7 +7,7 @@ originalUrl: "https://www.americamagazine.org/politics-society/2023/10/26/austra
 webUrl: "https://www.americamagazine.org/politics-society/2023/10/26/australia-first-nations-voice-constitution-246326"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,31 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "In Australia's Outback, Indigenous Voice proposal struggles to inspire"
+    excerpt: "“People say to me, ‘What is the Voice about?’ It’s about recognition and listening so as to get better results. That’s all it’s about,” Albanese said during a visit to the Northern Territory in August. The lack of specificity has been a ..."
+    publishedDateTime: 2023-10-30T03:40:00Z
+    webUrl: "https://jp.reuters.com/article/australia-indigenous-idCAKBN3141ZK"
+    type: article
+    provider:
+      name: ロイター
+      domain: reuters.com
+    quality: 34
+  - title: "Data Journalism Top 10: Visualizing War in Israel and Gaza; Australia’s Indigenous Voice Vote, Aging Taiwan, Romance Novel Covers"
+    excerpt: "This edition of our Data Journalism Top 10 — covering stories published between October 9 and October 22 — includes The New York Times’ graphic analysis of the waiting periods before Israeli civilians received any IDF response following Hamas attacks on October 7."
+    publishedDateTime: 2023-10-27T09:48:00Z
+    webUrl: "https://gijn.org/data-journalism-top-10-visualizing-war-israel-gaza-australias-indigenous-voice-vote-aging-taiwan/"
+    type: article
+    provider:
+      name: gijn.org
+      domain: gijn.org
+    quality: 10
+    images:
+      - url: "https://gijn.org/wp-content/uploads/2023/10/Australia-Indigenous-Voice-Vote-breakdown-771x521.png"
+        width: 771
+        height: 521
+        isCached: true
 
 secured: "Zcc8oDcormiJTsf2KoB/cWv2T8v5nzBQvTWOfOZCZMfIF04TV4CDPH50mYtrggSGLOpHEkZUtmU49Hna6p0eSloY/quYH0qjottOk0fpNVs9h14LEijUNVTjKTG4mR9G2t/YjUKwTniUjrakmBBKAgtgOcBIwkRtWhonvCMSCfQb2+2uNaGzZg8ZvzqKy/S1V8dMsLe7su17WfbkV8SYWPwetvOSI4TTFAo+zAYv1zyswYOh4pQEmett/1lk5nrp1dSE37nnaSqpOfHNiIXsyX5Gn/v6ZZu3m/5GgWZqRt+MgAO5HWpyOLRnpjyJu41sl+qzsI6xC+2wpf6nmz7PC5Pp14gSn6CMlnYe8POfYkphrBSoS9fsNalxWiZ3cWEw2wiEfcgDquepZoU6DDLguk6J6v8YGqd3MR+NKX+YuOOIS08p2vyMtHCPLyMbg3CGobX71h4hL6ZP6xxTibzyaoTEhYKkMgfDWF0o7LqzSJWa5495L9Q6irWuwp3EHetkFYsadyI2DA7cG9I25aULnA==;XdTruuwr/qDZfdnq9eMWqQ=="
 ---

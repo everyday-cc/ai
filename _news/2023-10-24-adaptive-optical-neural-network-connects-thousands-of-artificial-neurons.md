@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Adaptive optical neural network connects thousands of artificial neurons"
-excerpt: "Physicists working with computer specialists have developed a so-called event-based architecture, using photonic processors. In a similar way to the brain, this makes possible the continuous adaptation of the connections within the neural network."
-publishedDateTime: 2023-10-23T22:16:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/10/231023124404.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/10/231023124404.htm"
+excerpt: "The study has been published in the journal “Science Advances”. What is needed for a neural network in machine learning are artificial neurons which are activated by external excitatory signals, and which have connections to other neurons. The ..."
+publishedDateTime: 2023-10-23T21:44:00Z
+originalUrl: "https://www.uni-muenster.de/news/view.php?cmdid=13644"
+webUrl: "https://www.uni-muenster.de/news/view.php?cmdid=13644"
 type: article
-quality: 48
-heat: 48
-published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: uni
+  domain: uni-muenster.de
 
 topics:
   - Machine Learning
   - AI
 
-secured: "6bFKm7fn9ykKE4L/fS4nswdRc92SZM9yBJc19XzwPZeRgiXkJTkP3/kNGU/ZGaJFqyro1JDiObAJb3Okl4P8x7O5dBI7pkmQ2PPlETEbfdZkpqqavYeMX/51jXbH4S3ECTdPnw+KDOKQcIBWAdSClAEnmXUYRvvpn7wyyaQMfYdNbEQZ2HyDJ+3498SQt1KCaIYNpQyMn2eudp48BDhHLlYIxsMxVYjAPe8i0Md6cvCfXY3U/eSI+yjjIZjB9caB/o0lIB4V2Q0I9Oo1CBaRoJCg/2tDFvMaK1HswWXjvl/NxOxIEV8sd6Yu5qRNfBqs90OQp3L/RuPqQrUNP6XpZU/hlHL4Z1kVIY3tgx8gR1s=;B0Jutu9vVl3PryLma7HI1Q=="
+images:
+  - url: "https://www.uni-muenster.de/news/data/img/2023/10/13644-PK92bbOp-webL.jpg"
+    width: 750
+    height: 375
+    isCached: true
+
+secured: "0Sy63AfpQepoL502Fkk4XZcpu3ftsKkMNQGS8H/AwseAgi7AEwgN7+lV9CRQjxGzBbfwwjiMV2XtgBM+k1DFzOoK27z1F3NA6k97twEK1e+mJeTcm5iRTNpq7UuOxsAAIeEZDrOgvubI2Oz44mtxaiwLZi2sMqwzX23tNvIiux/p+4Uc4rP2ZPgP3xFOnHBe6pJXLEY8KcLV0Sibd4yiYKtpKtdcvcdnV+E/Pzz1KMGRiA0MNJf9J+d/7MhRJc7Vnz3f9ejZwZeSp9jZqUgvMDb0rw3boQZCdZj9ZpwBkHImOaylw0CwzuM4HPGn0fc4d/Ksb0gWafJ8VfqzTc60MGm7AXsypM+WD6cvJ8Zct1I=;GSSGaV1cxdJUMP7QKh5CKQ=="
 ---
 

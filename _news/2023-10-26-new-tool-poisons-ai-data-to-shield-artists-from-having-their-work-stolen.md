@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/10/26/new-tool-poisons-ai-data-to-shield-artists-from-having-their-work-stolen/amp/"
 type: article
 quality: 85
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,34 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "Poison pill tool could break AI systems stealing unauthorized data, allowing artists to safeguard their works"
-    excerpt: "AI image generators have been accused of ripping off artists' creative styles. This new tool promises to protect artists' creations and poison machines trying to copy them."
-    publishedDateTime: 2023-10-26T20:30:00Z
-    webUrl: "https://www.foxnews.com/tech/poison-pill-tool-break-ai-systems-stealing-unauthorized-data-allowing-artists-safeguard-works"
-    ampWebUrl: "https://www.foxnews.com/tech/poison-pill-tool-break-ai-systems-stealing-unauthorized-data-allowing-artists-safeguard-works.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/poison-pill-tool-break-ai-systems-stealing-unauthorized-data-allowing-artists-safeguard-works.amp"
+  - title: "New ‘poisoning’ tool spells trouble for AI text-to-image tech"
+    excerpt: "Artists and photographers annoyed at generative-AI firms using their work to train their technology may soon have an effective way to respond."
+    publishedDateTime: 2023-10-30T05:05:00Z
+    webUrl: "https://www.digitaltrends.com/computing/new-corruption-tool-nightshade-ai/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/new-corruption-tool-nightshade-ai/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/new-corruption-tool-nightshade-ai/?amp"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 68
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f374d9dc-6e87-4d19-8004-08237cdc91fd/c4466187-c4f8-4c9c-a7f6-dca6d6859bf2/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2020/07/imagecomposite_aihead_200724.jpg?resize=1200%2C630&p=1"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "New Tool Could Poison DALL-E and Other AI to Help Artists"
-    excerpt: "Researchers from the University of Chicago introduce a new tool, dubbed Nightshade, that can 'poison' AI and ruin its data set, leading it to generate inaccurate results."
-    publishedDateTime: 2023-10-27T16:40:00Z
-    webUrl: "https://www.pcmag.com/news/new-tool-could-poison-dall-e-and-other-ai-to-help-artists"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02u2amN1Nki4vahj6kWuggR-1.fit_lim.size_1200x630.v1698421852.jpg"
-        width: 1120
         height: 630
         isCached: true
 

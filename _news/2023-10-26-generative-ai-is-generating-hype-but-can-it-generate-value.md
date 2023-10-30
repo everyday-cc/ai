@@ -36,22 +36,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "How Generative AI Changes The Way We Work"
-    excerpt: "GenAI’s potential extends beyond mere content generation. Consider warehouses, where delivery notes need to be matched with orders. It can automate this process, reducing manual labor. Productivity is also increased when AI is used for invoice and payment matching, making it faster, more efficiently, and error resistant."
-    publishedDateTime: 2023-10-25T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/10/25/how-generative-ai-changes-the-way-we-work/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2023/10/25/how-generative-ai-changes-the-way-we-work/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/10/25/how-generative-ai-changes-the-way-we-work/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6538066a9563650cb3228f03/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1402
-        height: 900
-        isCached: true
   - title: "Google's Generative AI Revolutionizes Digital Assistants Everywhere"
     excerpt: "In this photo illustration, the logo of Google is seen displayed on a mobile phone screen with AI ... [+] (artificial intelligence)(Photo Illustration by Idrees Abbas/SOPA Images/LightRocket via ) It's happening."
     publishedDateTime: 2023-10-26T04:07:00Z
@@ -251,20 +235,6 @@ related:
       name: JD Supra
       domain: jdsupra.com
     quality: 34
-  - title: "Aprimo Leads Next Generation of Collaboration with Groundbreaking AI-Powered Innovations"
-    excerpt: "This pragmatic approach empowers businesses of all sizes to advance into a future characterized by enhanced collaboration and innovation.” A pivotal element of this journey is the launch of Content Collaboration,"
-    publishedDateTime: 2023-10-25T13:00:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/aprimo-leads-next-generation-of-collaboration-with-groundbreaking-ai-powered-innovations/article_78e1ba73-8546-5443-9767-2a2a7ef67790.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 30
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Synechron Enhances Financial Risk Identification and Mitigation With New Artificial Intelligence-empowered RiskTech.AI Accelerators Program"
     excerpt: "Through research and development initiatives in our FinLabs we develop solutions for modernization, from Artificial Intelligence and Blockchain to Data Science models, Digital Underwriting, mobile-first applications and more. Over the last 20+ years ..."
     publishedDateTime: 2023-10-26T09:11:00Z
@@ -315,15 +285,15 @@ related:
       name: Inc
       domain: inc.com
     quality: 19
-  - title: "Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
-    excerpt: "NDAQ:SPNS) Sapiens Introduces Decision Model.AI, a Generative AI Solution to Enhance Automation Speeds, Integrating Microsoft Azure OpenAI Service"
-    publishedDateTime: 2023-10-25T12:28:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/10/25/sapiens-introduces-decision-model-ai-a-generative-ai-solution-to-enhance"
+  - title: "How generative AI can add value for your organization"
+    excerpt: "In a new report, “The Generative AI Dossier,” developed by the Deloitte AI Institute, we highlight no fewer than 60 cases in which generative AI capabilities can create value for both businesses and government agencies."
+    publishedDateTime: 2023-10-30T04:00:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2023/10/30/how-generative-ai-can-add-value-for-your.html"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 17
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "BDISdP4HjlxCa5F5nf6lqYnpP6GiS/Ok/Ye3nEBsuI37tedGJHGYYTT4UgH8TNs1ZOvvHJMy4gzSdWrgibt2tBKRbBf1FsaGmlvyGFU2HyVpYjRkemJUZh/r014GiOxoT3F/Y38mJpSJVngtr+PpaxiG6LEmdi05aqHnfSuRkCdUh4gqWEvfAQcbv8Qulu2o0gORXa2qIaexTcNKnKRK6FI0rNq46LGoVc+7efp5tU5LUolWImMVB5qu4X41x60nB93m1bGrI3OETgqPi9EBrXfaCqOAaGlx1KvSRoyV2qIr+CocnJoyXiBBWcaLr/s8QvrfxvLCAvtkGfjU6Og5Z13SBs1TpPwvxxSF07AXOIAIai2mp8z5Zk+Bzs4bLnDojEUVzLgq7uD+nSNnEfgPihLLlyHBJdiGyxSqXwDy+NGQ3DtDyxw3EOkAABtYwBQc+A3ggWeFlacUAXeClrt/Ga0sfp1P5n/NbWMvA0Wh3lpE47nPIK++Ox6wbBxruydV3WIg3rZjjgSH/Vb99Whtnw==;CAt/H4lmdra2mLryOYlvPg=="
 ---

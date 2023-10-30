@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/virtual/cisco-zooms-in-on-new-ai-power-for
 webUrl: "https://venturebeat.com/virtual/cisco-zooms-in-on-new-ai-power-for-webex-teams/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cisco unveils new AI strategy for its Webex videoconference platform"
-    excerpt: "Cisco is set to roll out a host of new AI-powered capabilities for Webex, including an AI assistant and AI Codec solution."
-    publishedDateTime: 2023-10-25T13:00:00Z
-    webUrl: "https://www.computerworld.com/article/3709131/cisco-unveils-new-ai-strategy-for-its-webex-video-platform.html"
-    ampWebUrl: "https://www.computerworld.com/article/3709131/cisco-unveils-new-ai-strategy-for-its-webex-video-platform.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709131/cisco-unveils-new-ai-strategy-for-its-webex-video-platform.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/03/ipad_lifestyle_video-still-shot_-image-3-100938875-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cisco Unveils New AI Strategy For Its Collaboration Platform Webex"
     excerpt: "Global networking giant Cisco has unveiled a new AI strategy for its collaboration platform Webex that will improve real"
     publishedDateTime: 2023-10-26T07:05:00Z

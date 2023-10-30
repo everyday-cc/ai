@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-10-11-nvidias-plans-for-ai-gpus-could-upend-pc-gaming-forever.md",
+      "title": "Nvidia’s plans for AI GPUs could upend PC gaming forever",
+      "excerpt": "not in the overall GPU picture – well, Nvidia will just stop making them. Or that’s how it feels like things could pan out, given the focus on AI, with a yearly release cadence – if it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/computing/gpu/nvidias-plans-for-ai-gpus-could-upend-pc-gaming-forever",
+      "originalUrl": "https://www.techradar.com/computing/gpu/nvidias-plans-for-ai-gpus-could-upend-pc-gaming-forever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZqEx6xXrMoLaCqGQs2YgJN-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-improve-performance-of-falcon-models-with-amazon-sagemaker.md",
       "title": "Improve performance of Falcon models with Amazon SageMaker",
       "excerpt": "What is the optimal framework and configuration for hosting large language models (LLMs) for text-generating generative AI applications? Despite the abundance of options for serving LLMs, this is a hard question to answer due to the size of the models, varying model architectures, performance requirements",
@@ -1159,57 +1211,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-charlie-munger-thinks-that-artificial-intelligence-ai-is-overhyped-is-he-right.md",
-      "title": "Charlie Munger Thinks That Artificial Intelligence (AI) Is Overhyped. Is He Right?",
-      "excerpt": "Last week, Munger spoke at Zoom Video Communications ' Zoomtopia conference in San Jose, California. He stated at the conference that he thinks artificial intelligence (AI) is overhyped. Is Munger right?",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/11/charlie-munger-artificial-intelligence-ai-overhype/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/11/charlie-munger-artificial-intelligence-ai-overhype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/750359/ai-robot-business-people.jpg",
-          "width": 2119,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

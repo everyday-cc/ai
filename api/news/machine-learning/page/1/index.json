@@ -153,6 +153,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-24-adaptive-optical-neural-network-connects-thousands-of-artificial-neurons.md",
+      "title": "Adaptive optical neural network connects thousands of artificial neurons",
+      "excerpt": "The study has been published in the journal “Science Advances”. What is needed for a neural network in machine learning are artificial neurons which are activated by external excitatory signals, and which have connections to other neurons. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.uni-muenster.de/news/view.php?cmdid=13644",
+      "originalUrl": "https://www.uni-muenster.de/news/view.php?cmdid=13644",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.uni-muenster.de/news/data/img/2023/10/13644-PK92bbOp-webL.jpg",
+          "width": 750,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-23T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "uni",
+        "domain": "uni-muenster.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-23-how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion.md",
       "title": "How Fincover (Fintech Company) is using AI and Machine Learning to boost financial Inclusion",
       "excerpt": "Fincover, a fintech startup based in Chennai, has quickly emerged as one of the DSAs in the Personal Loan space with their extensive use of technologies like Artificial Intelligence (AI) and Machine Learning (ML),",
@@ -235,19 +278,19 @@
     {
       "path": "_news/2023-10-23-adaptive-optical-neural-network-connects-thousands-of-artificial-neurons.md",
       "title": "Adaptive optical neural network connects thousands of artificial neurons",
-      "excerpt": "The study has been published in the journal “Science Advances”. What is needed for a neural network in machine learning are artificial neurons which are activated by external excitatory signals, and which have connections to other neurons. The ...",
+      "excerpt": "What is needed for a neural network in machine learning are artificial neurons which are activated by external excitatory signals, and which have connections to other neurons. The connections between these artificial neurons are called synapses – just ...",
       "sourceUrl": null,
-      "webUrl": "https://www.uni-muenster.de/news/view.php?cmdid=13644",
-      "originalUrl": "https://www.uni-muenster.de/news/view.php?cmdid=13644",
+      "webUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63910.php",
+      "originalUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63910.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.uni-muenster.de/news/data/img/2023/10/13644-PK92bbOp-webL.jpg",
-          "width": 750,
-          "height": 375,
+          "url": "https://www.nanowerk.com/nanotechnology-news2/id63910_1.jpg",
+          "width": 800,
+          "height": 534,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -257,11 +300,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-22T17:00:00-07:00",
+      "publishedDateTime": "2023-10-23T03:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "uni",
-        "domain": "uni-muenster.de",
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -844,8 +887,8 @@
       "title": "Data sciences student showcases machine learning to U.S. legislators",
       "excerpt": "“By the end of the month, I found out I finished the race in the top 10% of people in the country.” Every month, AWS conducts a DeepRacer on different courses. Racers develop their machine learning models to finish the courses and deploy them on a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.buffalo.edu/ai-data-science/news-events/news/articles.host.html/content/shared/engineering/home/articles/news-articles/2023/data-science-student-showcases-machine-learning-to-us-legislators.detail.html",
-      "originalUrl": "https://www.buffalo.edu/ai-data-science/news-events/news/articles.host.html/content/shared/engineering/home/articles/news-articles/2023/data-science-student-showcases-machine-learning-to-us-legislators.detail.html",
+      "webUrl": "https://www.buffalo.edu/shared-facilities-equip/news.host.html/content/shared/engineering/home/articles/news-articles/2023/data-science-student-showcases-machine-learning-to-us-legislators.detail.html",
+      "originalUrl": "https://www.buffalo.edu/shared-facilities-equip/news.host.html/content/shared/engineering/home/articles/news-articles/2023/data-science-student-showcases-machine-learning-to-us-legislators.detail.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1271,49 +1314,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-14-weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east.md",
-      "title": "Weather prediction with AI, deep learning could be game-changer in North East",
-      "excerpt": "Be it the flood in Assam in 2022 or the flash flood in Sikkim this year, extreme events are causing immense devastation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/xplore/2023/oct/14/weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east-2623716.html",
-      "originalUrl": "https://www.newindianexpress.com/xplore/2023/oct/14/weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east-2623716.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/7/24/w600X390/Climatic_Disaster_Photos_2020_AP.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/xplore/2023/oct/14/weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east-2623716.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/xplore/2023/oct/14/weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east-2623716.amp",
-      "publishedDateTime": "2023-10-13T21:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

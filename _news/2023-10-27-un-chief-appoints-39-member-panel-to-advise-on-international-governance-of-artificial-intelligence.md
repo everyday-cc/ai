@@ -25,14 +25,14 @@ related:
   - title: "UN chief appoints 39-member panel to advise on international governance of artificial intelligence"
     excerpt: "U.N. Secretary-General António Guterres has announced the appointment of a 39-member global advisory panel to report on international governance of artificial intelligence and its risks, challenges and key opportunities."
     publishedDateTime: 2023-10-28T12:29:00Z
-    webUrl: "https://ravallirepublic.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_2334b87a-11f4-577c-a57b-c9b5b8c03a04.html"
+    webUrl: "https://scnow.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_8d1c9e4b-7421-57a5-89f3-69656a27fa89.html"
     type: article
     provider:
-      name: Ravalli Republic
-      domain: ravallirepublic.com
+      name: SCNow
+      domain: scnow.com
     quality: 23
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/ravallirepublic.com/content/tncms/assets/v3/editorial/2/33/2334b87a-11f4-577c-a57b-c9b5b8c03a04/653bc598dbbc2.preview.jpg?crop=1747%2C918%2C3%2C85&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/assets/v3/editorial/8/d1/8d1c9e4b-7421-57a5-89f3-69656a27fa89/653bc59985d05.preview.jpg?crop=1747%2C918%2C3%2C85&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

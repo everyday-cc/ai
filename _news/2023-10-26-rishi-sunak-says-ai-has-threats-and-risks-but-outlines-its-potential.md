@@ -67,20 +67,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "How Rishi Sunak convinced the world to worry about AI"
-    excerpt: "LONDON — Whisper it, but British Prime Minister Rishi Sunak might just be winning the argument on artificial intelligence. When the United Kingdom first announced its much-hyped global AI summit — focused on creating guardrails around the emerging ..."
-    publishedDateTime: 2023-10-25T11:09:00Z
-    webUrl: "https://www.politico.eu/article/rishi-sunak-convince-world-worry-artificial-intelligence-ai/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 39
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/09/15/11605203.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Humanity Could 'Lose Control' Of Artificial Intelligence, Warns Rishi Sunak"
     excerpt: "Humanity could “lose control” of Artificial Intelligence, Rishi Sunak has warned as he set out a series of grim scenarios for the future of mankind. The prime minister said AI could make it easier to create weapons of mass destruction, help terrorist ..."
     publishedDateTime: 2023-10-26T19:46:00Z

@@ -23,17 +23,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Can Artificial Intelligence Coach You to Better Health?"
-    excerpt: "Now, artificial intelligence is showing up in those devices—whether that’s a feature or a bug depends on who you ask. Whoop’s new feature, Whoop Coach, is powered by OpenAI’s GPT-4 model. This coach,"
-    publishedDateTime: 2023-10-25T13:00:00Z
-    webUrl: "https://www.gq.com/story/artificial-intelligence-coach"
-    type: article
-    provider:
-      name: GQ
-      domain: gq.com
-    quality: 19
-
 secured: "eoK/LtxhPI80vNgGyDp1b9n/U/6FEznmwokfsMQ7wZbHLNO/rikuEyRE8LnOUFhIuN/SV/dmcMQav9itgfqo3sYKyPTI4WuehinGR5+rQrUwzAJKs1znRGZS3qkOslfgAJIOxEnAoUkQQoOYEnn9nvzgm6k0kF3enAJTuzFwuy3/ioYZBq61khUfWwC9DDBk5jgBqACj3KAHAhwtNvuqgs//kxIX1jNQPszdSB6ELNJyGDQuMXfscC/ln/jk88dhKwv1tlQjfUz9y6o9iDFTZDlNfETPNzj20bd1ktCjJXcujeiNhzkm5H6iV2ktR3LJUvM/ggoqDUDaTE3aE9Kba5avBugjiCVEHXHDp5em28c=;Ti/E7cfrQenZQraX7D8UTg=="
 ---
 

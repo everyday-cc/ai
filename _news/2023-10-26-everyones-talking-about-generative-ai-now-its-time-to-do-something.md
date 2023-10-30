@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/26/everyones-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/26/everyones-talking-about-generative-ai-now-its-time-to-do-something/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon rolls out generative AI to Alexa, but it's not for everyone"
-    excerpt: "Amazon Alexa is rolling out a new generative AI-powered experience called Explore with Alexa. The twist? It's primarily for young minds."
-    publishedDateTime: 2023-10-25T13:01:00Z
-    webUrl: "https://www.androidauthority.com/amazon-alexa-generative-ai-3379301/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 47
   - title: "Thinking about artificial intelligence"
     excerpt: "A recent on-stage discussion between Salesforce chief executive Marc Benioff and OpenAI boss Sam Altman suggested subtly differing attitudes to artificial intelligence. Jason Walsh reports from Dreamf"
     publishedDateTime: 2023-10-28T15:19:00Z

@@ -2,50 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-09-15-training-an-arduino-uno-r4-powered-robot-using-machine-learning.md",
-      "title": "Training an Arduino UNO R4 powered robot using machine learning",
-      "excerpt": "If you are interested in learning more about training robots using machine learning techniques and technologies you might be interested in a new Arduino project to ascertain whether a basic robot could navigate using only LiDAR, as opposed to more resource ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/machine-learning-robot/",
-      "originalUrl": "https://www.geeky-gadgets.com/machine-learning-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Training-an-Arduino-UNO-R4-powered-robot.jpg",
-          "width": 700,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-15T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-09-15-mc-explains-meity-for-separate-agency-to-promote-robotics.md",
       "title": "MC Explains: MeitY for separate agency to promote robotics",
       "excerpt": "The robot can be controlled from computers/tablets and Android applications as well as function autonomously within set limits. The robot enables AI-based object detection, autonomous and full ...",
@@ -1264,6 +1220,49 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-robot-can-detect-gas-pipe-leaks.md",
+      "title": "Robot Can Detect Gas Pipe Leaks",
+      "excerpt": "Aging, failing underground pipes carrying natural gas can be notoriously difficult to troubleshoot. Now, a self-propelled robot developed by MIT researchers promises to detect leaks quickly and accurately. The most recent gas pipe explosion happened in New ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/robot-can-detect-gas-pipe-leaks",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/robot-can-detect-gas-pipe-leaks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/GasLeakRobot-2.jpg",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null

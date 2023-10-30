@@ -58,20 +58,6 @@ related:
         width: 725
         height: 363
         isCached: true
-  - title: "Exploring the Benefits of Using AI PDF Reader in the Workplace"
-    excerpt: "Embracing new tech in the workplace can be a game-changer. And one such tool that’s winning rave reviews is the AI PDF reader. This nifty gadget is making reading and deciphering digital documents a walk in the park."
-    publishedDateTime: 2023-10-28T17:16:00Z
-    webUrl: "https://techbullion.com/exploring-the-benefits-of-using-ai-pdf-reader-in-the-workplace/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/1-39-1000x600.png"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "The employees secretly using AI at work"
     excerpt: "Some employers are either tacitly or outright banning access to generative AI tools like ChatGPT. But employees who love them are finding ways to discreetly backchannel."
     publishedDateTime: 2023-10-25T14:49:00Z

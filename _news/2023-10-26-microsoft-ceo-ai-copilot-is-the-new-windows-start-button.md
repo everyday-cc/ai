@@ -19,15 +19,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft Q1 2023 Earnings: CEO Nadella ‘Very Pleased’ With Early AI Rush"
-    excerpt: "Microsoft CEO Satya Nadella told listeners on the Tuesday call – which included results for the Redmond, Wash.-based vendor’s first quarter of its fiscal year, the quarter ended Sept. 30 – that “customers tell us that once they use copilot, they can’t imagine work without it.”"
-    publishedDateTime: 2023-10-25T12:50:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-q1-2023-earnings-ceo-nadella-very-pleased-with-early-ai-rush"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 33
   - title: "Microsoft CEO sees AI-powered Copilot as 'like the Start button' of Windows"
     excerpt: "Since AI was a big talking point of Qualcomm's presentation Nadella ... done without sort of a new system architecture,\" said Nadella. \"The Copilot is like the Start button,” he continued. \"It becomes the orchestrator of all your app experiences."
     publishedDateTime: 2023-10-26T00:00:00Z

@@ -2,6 +2,50 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-09-16-using-the-brain-as-a-model-inspires-a-more-robust-ai.md",
+      "title": "Using the brain as a model inspires a more robust AI",
+      "excerpt": "Most artificially intelligent systems are based on neural networks, algorithms inspired by biological neurons found in the brain. These networks can consist of multiple layers, with inputs coming in one side and outputs going out of the other.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-09-brain-robust-ai.html",
+      "originalUrl": "https://techxplore.com/news/2023-09-brain-robust-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/brain-inspires-more-ro.jpg",
+          "width": 988,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-09-brain-robust-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-brain-robust-ai.amp",
+      "publishedDateTime": "2023-09-15T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-09-16-answering-ais-biggest-questions-requires-an-interdisciplinary-approach.md",
       "title": "Answering AI’s biggest questions requires an interdisciplinary approach",
       "excerpt": "building a holistic lineup is a good place to start. We have to build a more responsible future where companies are trusted stewards of people’s data and where AI-driven innovation is synonymous with good. In the past, legal teams carried the water on ...",
@@ -1126,58 +1170,6 @@
         "name": "The Daily Telegraph",
         "domain": "telegraph.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-artificial-intelligence-helps-doctors-predict-patients-risk-of-dying-study-finds-sense-of-urgency.md",
-      "title": "Artificial intelligence helps doctors predict patients’ risk of dying, study finds: ‘Sense of urgency’",
-      "excerpt": "With research showing that only 22% of Americans keep a written record of their end-of-life wishes, a team at OSF HealthCare in Illinois is using artificial intelligence to help physicians ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/artificial-intelligence-helps-doctors-predict-patients-risk-dying-study-finds-sense-urgency",
-      "originalUrl": "https://www.foxnews.com/health/artificial-intelligence-helps-doctors-predict-patients-risk-dying-study-finds-sense-urgency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/artificial-intelligence-helps-doctors-predict-patients-risk-dying-study-finds-sense-urgency.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/artificial-intelligence-helps-doctors-predict-patients-risk-dying-study-finds-sense-urgency.amp",
-      "publishedDateTime": "2023-09-15T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -7,7 +7,7 @@ originalUrl: "https://techcentral.co.za/microsoft-gaining-cloud-race-aws-google/
 webUrl: "https://techcentral.co.za/microsoft-gaining-cloud-race-aws-google/234097/"
 type: article
 quality: 71
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2022/11/amazon-image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Microsoft jumps while Google owner Alphabet slips as Wall Street zeroes in on the tech giants' AI efforts"
-    excerpt: "Microsoft shares climbed in premarket trading Wednesday, while Alphabet slumped as investors focused on weaker-than-expected cloud revenues."
-    publishedDateTime: 2023-10-25T11:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stock-market-outlook-ai-chatgpt-bard-microsoft-google-alphabet-shares-2023-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/6538e2fd96f7540cd064eae8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Microsoft launches a new Excel add-in to help with business forecasts via machine learning"
     excerpt: "If you are looking to use your Excel spreadsheet program for more than just number crunching, Microsoft has announced a new add-on for the app that will help businesses create better forecasts with the help of machine learning and AI. In a post on the ..."

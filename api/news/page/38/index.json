@@ -2,6 +2,57 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-10-02-tom-hanks-warns-fans-that-an-ai-version-of-himself-in-a-dental-ad-was-created-without-his-consent.md",
+      "title": "Tom Hanks warns fans that an AI version of himself in a dental ad was created without his consent",
+      "excerpt": "Taking to his Instagram page, Tom Hanks said: \"BEWARE!! There's a video out there promoting some dental plan with an AI version of me.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10",
+      "originalUrl": "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/651a911b5e3a3c00199a2d19?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10?amp",
+      "publishedDateTime": "2023-10-02T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-02-freedom-on-the-net-report-highlights-dangers-of-ai.md",
       "title": "Freedom On The Net Report Highlights Dangers Of AI",
       "excerpt": "According to Freedom House’s new report, Freedom on the Net 2023: The Repressive Power of Artificial Intelligence, governments are using automated systems to ramp up online censorship, while distributors of disinformation are using AI tools to fabricate images, audio and text.",
@@ -1094,58 +1145,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-10-01-how-general-ai-will-eventually-reshape-everything.md",
-      "title": "How General AI Will Eventually Reshape Everything",
-      "excerpt": "This article discusses General AI and highlights how the AI industry is unfolding advancing efforts to develop General AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/09/30/how-general-ai-will-eventually-reshape-everything/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/09/30/how-general-ai-will-eventually-reshape-everything/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ae0066bacde4972dcc7317/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/09/30/how-general-ai-will-eventually-reshape-everything/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/09/30/how-general-ai-will-eventually-reshape-everything/amp/",
-      "publishedDateTime": "2023-09-30T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/openai-assembles-team-of-experts-to-
 webUrl: "https://www.zdnet.com/article/openai-assembles-team-of-experts-to-fight-catastrophic-ai-risks-including-nuclear-war/"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1280
         height: 832
         isCached: true
-  - title: "Google expands bug bounty program to include rewards for AI attack scenarios"
-    excerpt: "The tech giant issued over $12 million in rewards to security researchers as part of its bug bounty program in 2022."
-    publishedDateTime: 2023-10-27T06:20:00Z
-    webUrl: "https://www.zdnet.com/article/google-expands-bug-bounty-program-to-include-rewards-for-ai-attack-scenarios/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 44
 
 secured: "ZEtyey1PoEp7CSLFp2KncHjujI++x6UNee7jP7/jTmWWzlLJum1bkZ4OUnYbPetQz2GG09rEAzIk5HaX+3ZFDSgnEquC4veeAteigFxisXReJYzCoWCN++Em/miMQK5hQMzzXgoxIGpbvnFp7y6k/NEZQwzb/bcnmLgP8D4dtFPP/h6bQxwp+ufpm50ESTD9/PUx3v7X5I3oq/bZ06MyG5PSRM5qVcjwOk0WNi1sYABfNvU3xUkx2387fnh3oUqUe/rHlGqSelpzuRWsEze+OCHek4tyef0/4Tvv8u8APZLiydHGgqmts9KH5AnoHYTGtTnBcSS4q1SUPFd1fupBJjspMYq4VaKA4fXOgLhYK5lOCGoaSwnI16/lVfDz9fjAZyDANcUriey5zxMSxM4bfdUhO41G8gLxrk1BD3BG/kdFCx8U3Bwfze5i2gyN3/LXjG8eGTPjJJO8ch0SMHpkeNXVIujIsEDOXulMSmAEGilte6AzTz17PQpjDO5keesvmsHnrcOkdvkLjKbgonRLJA==;aDl/nw2utUjEYRugw2zZ3Q=="
 ---

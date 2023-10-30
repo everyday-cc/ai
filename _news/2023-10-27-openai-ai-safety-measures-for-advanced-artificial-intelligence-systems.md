@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google expands bug bounty program to include rewards for AI attack scenarios"
-    excerpt: "The tech giant issued over $12 million in rewards to security researchers as part of its bug bounty program in 2022."
-    publishedDateTime: 2023-10-27T06:20:00Z
-    webUrl: "https://www.zdnet.com/article/google-expands-bug-bounty-program-to-include-rewards-for-ai-attack-scenarios/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 44
 
 secured: "cbXxWeXWzvjjtlkulyYC+/C2WBbjsF2Oi1zyb5dD931vLVQgeOpWpG+Y5i2g4FA4VpTmO1H23Zu/IzKjkfWqSbiRpe9gYGCah9FUEmTnQoQIfPTtF/MOjSatNgqHve/HBW9FAFPx4ePiboTfTHPiSQc6AYXY27W1ebFyRIpF3qUutAA5kEWIrJv0qcSLHNt/LjtAtpje74XWpojfgwXHN/V6VrKGZ7b+RLN4PQWUWZp4cOgPIkqqIJMm2xsFEvqaS/9RgyJwUaQvlVrAq5BtGEe2y0XrHxbW7tFpQcuf5L8K0tFl0nYC51Oc5Ufathz7pUePVk9DHAujAx2A+a1c72QzJlUH+BAXGxUTJftwREE=;mNnCZmt1GGjKyQWq4lSSBw=="
 ---

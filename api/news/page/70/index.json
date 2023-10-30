@@ -2,6 +2,58 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-09-08-a-writer-says-he-was-laid-off-after-a-media-company-began-using-ai-to-translate-articles-an-ai-took-my-job-literally.md",
+      "title": "A writer says he was laid off after a media company began using AI to translate articles: 'An AI took my job, literally'",
+      "excerpt": "laid off employees working on its Spanish-language site last week, The Verge reported. The site, Gizmodo en Español, now appears to be using AI to translate articles from English to Spanish.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-chatgpt-jobs-replaced-by-tech-translator-2023-9",
+      "originalUrl": "https://www.businessinsider.com/ai-chatgpt-jobs-replaced-by-tech-translator-2023-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64f9a4498a7840001961e790?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-chatgpt-jobs-replaced-by-tech-translator-2023-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chatgpt-jobs-replaced-by-tech-translator-2023-9?amp",
+      "publishedDateTime": "2023-09-08T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-openai-admits-that-ai-writing-detectors-dont-work.md",
       "title": "OpenAI admits that AI writing detectors don’t work",
       "excerpt": "In a section of the FAQ titled \"Do AI detectors work?\", OpenAI writes, \"In short, no. While some (including OpenAI) have released tools that purport to detect AI-generated content, none of these have proven to reliably distinguish between AI-generated and human-generated content.\"",
@@ -1141,49 +1193,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-robot-can-detect-gas-pipe-leaks.md",
-      "title": "Robot Can Detect Gas Pipe Leaks",
-      "excerpt": "Aging, failing underground pipes carrying natural gas can be notoriously difficult to troubleshoot. Now, a self-propelled robot developed by MIT researchers promises to detect leaks quickly and accurately. The most recent gas pipe explosion happened in New ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/robot-can-detect-gas-pipe-leaks",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/robot-can-detect-gas-pipe-leaks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/GasLeakRobot-2.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null

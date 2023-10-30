@@ -40,6 +40,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "AI-Generated Child Sexual Abuse Images Could Flood The Internet. Now There Are Calls For Action"
+    excerpt: "The already-alarming proliferation of child sexual abuse images on the internet could become much worse if something is not done to put controls on artificial intelligence tools that generate deepfake photos,"
+    publishedDateTime: 2023-10-30T05:07:00Z
+    webUrl: "https://southfloridareporter.com/ai-generated-child-sexual-abuse-images-could-flood-the-internet-now-there-are-calls-for-action/"
+    type: article
+    provider:
+      name: SouthFlorida Reporter
+      domain: southfloridareporter.com
+    quality: 25
+    images:
+      - url: "https://i0.wp.com/southfloridareporter.com/wp-content/uploads/2023/10/Child.jpg?fit=675%2C450&ssl=1"
+        width: 675
+        height: 450
+        isCached: true
   - title: "AI-generated child sexual abuse images could flood the internet. A watchdog is calling for action"
     excerpt: "The already-alarming proliferation of child sexual abuse images on the internet could become much worse if something is not done to put controls on artificial intelligence tools that generate deepfake photos,"
     publishedDateTime: 2023-10-26T05:14:00Z

@@ -54,20 +54,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft jumps while Google owner Alphabet slips as Wall Street zeroes in on the tech giants' AI efforts"
-    excerpt: "Microsoft shares climbed in premarket trading Wednesday, while Alphabet slumped as investors focused on weaker-than-expected cloud revenues."
-    publishedDateTime: 2023-10-25T11:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stock-market-outlook-ai-chatgpt-bard-microsoft-google-alphabet-shares-2023-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/6538e2fd96f7540cd064eae8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft clocks $56.5Bn in revenue in Q1 FY24, Intelligent Cloud revenue up by 19%"
     excerpt: "Microsoft's Q1 2024 earnings beat expectations with $56.5 billion in revenue as its AI ambitions yield rich results."
     publishedDateTime: 2023-10-26T05:01:00Z

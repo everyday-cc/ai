@@ -55,6 +55,58 @@
       ]
     },
     {
+      "path": "_news/2023-10-27-ai-and-the-future-of-work-adapting-to-a-changing-landscape.md",
+      "title": "AI And The Future Of Work: Adapting To A Changing Landscape",
+      "excerpt": "Nvidia, a leading technology company, recently announced a significant increase in earnings, with their revenue doubling due to the high demand for its AI chips that power new machine learning applications;",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6307744cdf865cb5591b5fd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
+      "publishedDateTime": "2023-10-27T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-27-microsoft-gaining-ground-in-cloud-race-with-aws-google.md",
       "title": "Microsoft gaining ground in cloud race with AWS, Google",
       "excerpt": "Microsoft is pulling ahead of its chief rivals, Amazon.com and Google, in the burgeoning cloud services market.",
@@ -63,7 +115,7 @@
       "originalUrl": "https://techcentral.co.za/microsoft-gaining-cloud-race-aws-google/234097/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -159,7 +211,7 @@
       "originalUrl": "https://www.therobotreport.com/microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 496,
+      "heat": 436,
       "tags": null,
       "images": [
         {
@@ -309,7 +361,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -351,49 +403,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-alberta-investing-in-ai-that-predicts-where-wildfires-may-ignite.md",
-      "title": "Alberta investing in AI that predicts where wildfires may ignite",
-      "excerpt": "“It’s a next-day fire-likelihood forecast,” said Graham Erickson, senior lead machine learning developer with AltaML, which uses Microsoft’s Azure AI technology to build its own software. Erickson said wildfire officers put people ...",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/10047983/alberta-investing-in-ai-that-predicts-where-wildfires-may-ignite/",
-      "originalUrl": "https://globalnews.ca/news/10047983/alberta-investing-in-ai-that-predicts-where-wildfires-may-ignite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://globalnews.ca/wp-content/uploads/2023/10/2023102315100-6536c30e420cce621d2d804ejpeg-1.jpg?quality=85&#038;strip=all",
-          "width": 1024,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://globalnews.ca/news/10047983/alberta-investing-in-ai-that-predicts-where-wildfires-may-ignite/amp/",
-      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/10047983/alberta-investing-in-ai-that-predicts-where-wildfires-may-ignite/amp/",
-      "publishedDateTime": "2023-10-25T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -445,58 +454,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-digitalai-launches-denali-to-help-enterprises-automate-secure-software-releases.md",
-      "title": "Digital.ai launches Denali to help enterprises automate secure software releases",
-      "excerpt": "Denali provides software developers with AI-driven assistance and insights for surfacing the best and most applicable security features.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/programming-development/digital-ai-launches-denali-to-help-enterprises-automate-secure-software-releases/",
-      "originalUrl": "https://venturebeat.com/programming-development/digital-ai-launches-denali-to-help-enterprises-automate-secure-software-releases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_expressionist_painting_a_hiker_walks_up_mount_denali_wi_30bc9a64-92d3-464c-aa0b-141add50aee6.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Microsoft AI"
       ]
@@ -1369,6 +1326,58 @@
       "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
       "publishedDateTime": "2023-10-10T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-informatica-embraces-ai-to-help-companies-manage-their-data.md",
+      "title": "Informatica Embraces AI To Help Companies Manage Their Data",
+      "excerpt": "Vice President & Principal Analyst, Enterprise Data Technologies, Robert Kramer explains how Informatica is boosting its capabilities in enterprise data management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/10/10/informatica-embraces-ai-to-help-companies-manage-their-data/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/10/10/informatica-embraces-ai-to-help-companies-manage-their-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6525ad99e4d5af599c004829/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 920,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/10/10/informatica-embraces-ai-to-help-companies-manage-their-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/10/informatica-embraces-ai-to-help-companies-manage-their-data/amp/",
+      "publishedDateTime": "2023-10-10T13:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

@@ -157,7 +157,7 @@
       "originalUrl": "https://www.zdnet.com/article/openai-assembles-team-of-experts-to-fight-catastrophic-ai-risks-including-nuclear-war/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -181,6 +181,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-how-to-write-ai-art-prompts-effectively-with-examples.md",
+      "title": "How to Write AI Art Prompts Effectively with Examples",
+      "excerpt": "PREMIUM: Consider creating an AI ethics policy before using AI art tools. It’s also a good idea to visit AI art platforms like NightCafe and Craiyon, which allow you to see the prompts used for any of the images posted. If you’d like to leave the work ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-to-write-ai-art-prompts/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-write-ai-art-prompts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/05/Aminu-2.jpg?x96515",
+          "width": 884,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -252,50 +304,6 @@
         "AI",
         "Google AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-kate-darling-on-the-future-of-robotics-and-ai-ethics.md",
-      "title": "Kate Darling on the Future of Robotics and AI Ethics",
-      "excerpt": "Our featured interview on this episode is with Dr. Kate Darling, who is joining Marc Raibert in her dream job at the Boston Dynamics AI Institute to head up their AI and ethics research group. We talk to Kate about everything from AI and humanoid robots to her kids’ love affair with the Marty Robot at the local Stop and Shop supermarket.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/kate-darling-on-the-future-of-robotics-and-ai-ethics/",
-      "originalUrl": "https://www.therobotreport.com/kate-darling-on-the-future-of-robotics-and-ai-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/10/kate-darling-marc-raibert.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
       ]
     },
     {

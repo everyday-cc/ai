@@ -40,15 +40,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Amazon rolls out generative AI to Alexa, but it's not for everyone"
-    excerpt: "Amazon Alexa is rolling out a new generative AI-powered experience called Explore with Alexa. The twist? It's primarily for young minds."
-    publishedDateTime: 2023-10-25T13:01:00Z
-    webUrl: "https://www.androidauthority.com/amazon-alexa-generative-ai-3379301/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 47
 
 secured: "Nh60/e0XUNLMmtsImMPx9QgwwGfj3rN1rJZk2UqKSUs8+f4/Kv05ZJqEadBv7JD9BJM2VsgejKpnJwqU3j+gxdwpQ+X+B1nHlitJp6mc13tt4jE3+jCXtW9tZIGm6RGe9NwKoFALo3fST1yRFdFIH6FpxTeVeJ/+MdOOvs7m6Yiss8WzewS7aO9ZjTow/WkgYaeXy4IOw51v2X0+/18TpyInm5n5YkvrehQGWyQHyW/xWece7UNqT/SWtkBgZn0cJCj0IUGsLL+InBAJ2E1XZ5dhOjF7kn7q5UzJOAchsD+bbiWGkNUUggf4MZqBZ8Ki6aCBWpItrgLxdM61TYSS2iQNqlkYt1T6hlVKl5bRP5o=;2CNeZ4bKThkTGg0GB77bIw=="
 ---

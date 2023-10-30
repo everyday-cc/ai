@@ -103,15 +103,6 @@ related:
       name: Tasnim News Agency
       domain: tasnimnews.com
     quality: 34
-  - title: "Google and Nvidia-backed CentML secures $37 million CAD to help companies deploy AI amid chip shortages"
-    excerpt: "As companies race to adopt AI amid chip shortages, Toronto-based CentML is developing a solution to help customers make the most of existing supplies."
-    publishedDateTime: 2023-10-25T13:00:00Z
-    webUrl: "https://betakit.com/google-and-nvidia-backed-centml-secures-37-million-cad-to-help-companies-deploy-ai-amid-chip-shortages/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 18
   - title: "Twelve Labs Secures $10M from Nvidia, Intel, Others for AI Video Analysis"
     excerpt: "Twelve Labs, a generative artificial intelligence (AI) startup based in South Korea, has secured a combined investment of $10 million. Nvidia Corp., Intel Corp., Samsung Next, and Korean Investment Partners are the"
     publishedDateTime: 2023-10-27T11:39:00Z

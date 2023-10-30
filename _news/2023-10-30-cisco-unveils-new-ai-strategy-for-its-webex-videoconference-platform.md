@@ -39,22 +39,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "Cisco unveils new AI strategy for its Webex videoconference platform"
-    excerpt: "Cisco is set to roll out a host of new AI-powered capabilities for Webex, including an AI assistant and AI Codec solution."
-    publishedDateTime: 2023-10-25T13:00:00Z
-    webUrl: "https://www.computerworld.com/article/3709131/cisco-unveils-new-ai-strategy-for-its-webex-video-platform.html"
-    ampWebUrl: "https://www.computerworld.com/article/3709131/cisco-unveils-new-ai-strategy-for-its-webex-video-platform.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709131/cisco-unveils-new-ai-strategy-for-its-webex-video-platform.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/03/ipad_lifestyle_video-still-shot_-image-3-100938875-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cisco Unveils New AI Strategy For Its Collaboration Platform Webex"
     excerpt: "Global networking giant Cisco has unveiled a new AI strategy for its collaboration platform Webex that will improve real"
     publishedDateTime: 2023-10-26T07:05:00Z
@@ -84,6 +68,6 @@ related:
         height: 720
         isCached: true
 
-secured: "RDtXVQ102O6bzbDwzbgHA3qadHc/odJimQinoa8q5D2GKrR/d2Ww/dcNKEEc7SBzcZX9ZKeTNZabKw1DsBNP44DtoRs0QyCxH4ERpssOl0c4vq/+a5z6ztgqUkW9hxvBnl7qf1e1eKTkP2HEqko58g5ifnoSvbJBuNXyU4sCxP/vT5TWhnlXCS9rv8lbWE2NzaeGOh8ZpV9g6b0RiAE/qNLMmXsZJ50TyT6ilF1ppzUhyrXrtLybGYfMZWMEvZXh/qhxt71WzWAkfL4PJNQwRAXJRi5jWLwYDlYbvA+bRednMvBoz2rfrXGQq36z7cSDoGnTua3wRrPni++ggQIwJwz9oRFhqGLhOb/blqJRgFM=;OJpzDZ1XCxssIlKJAwuDSg=="
+secured: "hDedCLEe302V0Bm+OM+Jruuxi47XQQ1BpJQwcFhUetrSQwceqDorGNDbsrAjCNxorp/JtG1xhT0fusfgslhraSjBZVxO9g7B7wdHAd4eyVXb8hNSFE3yNi0nytGzoN1K3EZGSSF03XiBxxxsXE9w5l7Ir2+cgsQsuE8YUNp5djFw3ha+SBCp2xcKE5QTcPmkguuU2a0gQkTFM1vtv+6TZ6UVCGncD9eH/5wmPJhWY5zc/xWegfyPgM5An4jJ6LrTd154WQB49NwU0JPH+RZAwZ90iQWUGsQe/b8NaJTTA/1we1jgq28aFe7ZmonTIZkW5y8qm56KpVjb4GaOCp4X2NAiUDzQNT4k5bqGVWwj3mgIvtMgDwzpRMX5ofITt0YSVXsf5UfefOx/+Ux3to9dWQ38S7EdhMDfcZahibLZERk9yDDjIlbka/Y3xJmQjzKC6mugqRMefOtvPPxtWizypSlbOgo+q62Ar2HeRn+KHOyLl6movHE5pDo8JlRDnAhnsYvVdBhfNGDwKOfsWVoiAg==;CSNwn+Yq8E4hq2sm2PKmvQ=="
 ---
 

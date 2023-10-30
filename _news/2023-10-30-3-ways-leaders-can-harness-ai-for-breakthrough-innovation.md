@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sherzododilov/2023/10/29/3-ways-leaders
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherzododilov/2023/10/29/3-ways-leaders-can-harness-ai-for-breakthrough-innovation/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Breast cancer breakthrough: AI predicts a third of cases prior to diagnosis in mammography study"
-    excerpt: "Artificial intelligence predicted one-third of breast cancer cases prior to diagnosis in a new study from Norway. Experts weigh in on how this could impact the future of cancer care."
-    publishedDateTime: 2023-10-25T09:30:00Z
-    webUrl: "https://www.foxnews.com/health/breast-cancer-breakthrough-ai-predicts-third-cases-diagnosis-mammography-study"
-    ampWebUrl: "https://www.foxnews.com/health/breast-cancer-breakthrough-ai-predicts-third-cases-diagnosis-mammography-study.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/breast-cancer-breakthrough-ai-predicts-third-cases-diagnosis-mammography-study.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 74
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b958b3a6-465c-4c29-8487-1765b643f1cb/abb17cca-3860-450a-9b48-16cbd58eb925/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "John Chambers, AI & innovation: Going one-on-one with a tech legend"
     excerpt: "Is artificial intelligence the future? I could not think of a better person to share insights on this topic than John Chambers who led Cisco from $20 million to $47 billon in 20 years and acquired 180 companies along the way."
     publishedDateTime: 2023-10-27T11:04:00Z
@@ -114,6 +98,6 @@ related:
       domain: inc.com
     quality: 15
 
-secured: "+RKDDn6EGCrlcZBf4FTyEJMLZgCoH8bi/FavfH+wzJnhTi1vNmK4+2SliCN6Ev7K6N4uH//3kYx/PBJijbJOOxWmZ22ijhIoloZKhWaUmeR6TzSKlwXEpEFiXSTrKjWDpdYAWdZ1qlfZ14TLq0EgnE1kYWmkeW5gkJHJ5Uo2nSRQIuHD9JjtIyiVdTLIvFOVLexy0x1GlHtl1yJJKwbeaMnLrB9pTqohm+MB0W48iobXhO/FfVJBbsofH6iPocQoxc8yjOlniDP9X3NvkrwU07eeJibzC3fgCbSc1azlouOv005OQyRlzqc5Bp5QP3uDm2zIcL9NsYNnczqn7M7DLn7AbTYv/ZxB4PvcH37vkLU=;WNlhIjGlWc0RF+B+SF6YYA=="
+secured: "/yADHjso8Qi3iNkt4NaWA6ZVoYaMmgMVg1yxgKvRavqTnCS177Xgec6JWbjXBPxDblVBQT4A2aVu/zMlkF8qW7TkOyVhBpc+VZ9/xKopZSNm9G9+IMzhOJueq1nArnK4p6T3GLsdsjbkPiN2WbRrc29d6+Ft1fAjiLxKp4OkASZn7wKgaCtS0+djd1zheLhMzPNdlNveWqdHZC8etAtjSUIQKhe9ZUTgpXG0BdxRbOg24cdmXfHS/AcKwLWGFhe35XqOEqH9QGLSQ9rAZfQtVipkcZxliDHFS19MmikzOP4Cd+eVuGCbEi7oGNW8ps8/AScRQNy/z4pqNy/+n2ZpZjkMhqnPFAy9UWGJ1dC46RwvuzgCQ3vZSfgckushVwJgH6BYhnX6swIczFSWJiZC3ZsB2thFLeUIlAlR4jfsQFWnWaJLJB66RnjGGH6QszH+U0O9oANtH+JX4Q7lx3JoNbfQQZBvkJ+ErtjdbQv87aS0nPL8GxxdqZ7D9NUUauG3LWZwzAVw/VmBz+V+CyNWRQ==;YuJrRGRsPGUCZvpobzmSzg=="
 ---
 

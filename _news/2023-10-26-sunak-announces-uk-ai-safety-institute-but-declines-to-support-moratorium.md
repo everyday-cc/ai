@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/technology/2023/oct/26/sunak-announces
 webUrl: "https://www.theguardian.com/technology/2023/oct/26/sunak-announces-uk-ai-safety-institute-but-declines-to-support-moratorium"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "AI Job Openings Dry Up in UK Despite Sunak’s Push on Technology"
+    excerpt: "Data from Reed Recruitment analyzed by Bloomberg shows that postings for jobs with AI-related key words — like “machine learning” and “neural networks” — declined even faster than England’s wider jobs market in recent years even as interest in the technology exploded."
+    publishedDateTime: 2023-10-30T04:00:00Z
+    webUrl: "https://www.bloomberg.com/graphics/2023-10-reed-jobs-report-england-ai-jobs-decline/"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "UK PM Sunak warns against rush to regulate AI before understanding its risks"
     excerpt: "As authorities around the world scramble to draw up guardrails for artificial intelligence, British Prime Minister Rishi Sunak warns against moving too fast on regulating the rapidly developing techno"
     publishedDateTime: 2023-10-26T12:14:00Z

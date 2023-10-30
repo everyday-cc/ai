@@ -81,34 +81,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft’s AI strategy is paying off with solid cloud revenue growth"
-    excerpt: "Microsoft had originally told investors that  AI wouldn't deliver revenue gains until 2024 when new products will become widely available."
-    publishedDateTime: 2023-10-25T11:32:00Z
-    webUrl: "https://venturebeat.com/ai/microsofts-ai-strategy-is-paying-off-with-solid-cloud-revenue-growth/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_microsoft_ceo_satya_nadella_standing_on_stage_smiling_a_f18ff38c-36a3-4a47-996b-c1ce6ca13445.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "Microsoft’s bets on generative AI boost Azure cloud business, as Alphabet’s Google Cloud disappoints"
-    excerpt: "Microsoft’s revenue from the Azure cloud-computing platform beat estimates in the September quarter, while Google Cloud’s sales growth ground to its slowest pace in at least 11 quarters."
-    publishedDateTime: 2023-10-25T11:39:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3239082/microsofts-bets-generative-ai-boost-azure-cloud-business-alphabets-google-cloud-disappoints"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 84
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/25/c93f729d-16a9-4fdf-a119-943be8b3e21e_49cbffc4.jpg?itok=pDSvaiE0&v=1698205075"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Stock: AI Tailwind Sets the Scene for Further Gains"
     excerpt: "“As we look out into CY24, we believe that AI will be a tailwind as Microsoft starts implementing its M365 Copilot monetization strategy, as will continued traction in Azure and the integration of ATVI into Microsoft’s gaming business.” All ..."
     publishedDateTime: 2023-10-26T11:24:00Z
@@ -169,42 +141,10 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft shares climb after reporting surge in cloud, artificial intelligence"
-    excerpt: "Microsoft on Tuesday reported a 27% increase in profit for the July-September quarter compared to the same time last year, powered by growth in its cloud computing division where it has centered its investments in artificial intelligence."
-    publishedDateTime: 2023-10-25T10:59:00Z
-    webUrl: "https://wraltechwire.com/2023/10/25/microsoft-shares-climb-after-reporting-surge-in-cloud-artificial-intelligence/"
-    ampWebUrl: "https://wraltechwire.com/2023/10/25/microsoft-shares-climb-after-reporting-surge-in-cloud-artificial-intelligence/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/25/microsoft-shares-climb-after-reporting-surge-in-cloud-artificial-intelligence/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 70
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/07/windows-g2ec5b42ec_1280-e1658917868303.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "Google cloud growth slows as Microsoft's rises, but it's all eyes on AI for 2024"
-    excerpt: "Growth rates may have slowed - temporarily - at Google, but those are still impressive numbers, as are those reported by Microsoft. That said, it’s a sign of the times that on the analyst call, most attention for both companies fell on their AI strategies. It’s clear what the main battleground talking point will be in 2024."
-    publishedDateTime: 2023-10-25T10:02:00Z
-    webUrl: "https://diginomica.com/google-cloud-growth-slows-microsofts-rises-its-all-eyes-ai-2024"
-    ampWebUrl: "https://diginomica.com/google-cloud-growth-slows-microsofts-rises-its-all-eyes-ai-2024?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/google-cloud-growth-slows-microsofts-rises-its-all-eyes-ai-2024?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 69
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-10/Screenshot%202023-10-25%20at%2011.00.35.png"
-        width: 1184
-        height: 680
-        isCached: true
   - title: "Microsoft Azure revenue, AI adoption impress analysts after 3Q results"
     excerpt: "Microsoft Corporation (NASDAQ:MSFT) shares rose Wednesday on strong third-quarter results driven by its cloud division and AI services, and analysts"
     publishedDateTime: 2023-10-25T14:58:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html?region=ca"
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1030982/microsoft-azure-revenue-ai-adoption-impress-analysts-after-3q-results-1030982.html"
     type: article
     provider:
       name: Proactiveinvestors
@@ -254,15 +194,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft, OpenAI-Backed AI Safety Forum Names First Director, Plans Advisory Board"
-    excerpt: "The Frontier Model Forum is backed by ChatGPT-owner OpenAI, Microsoft, Google's parent Alphabet and AI startup Anthropic."
-    publishedDateTime: 2023-10-25T11:34:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-25/microsoft-openai-backed-ai-safety-forum-names-first-director-plans-advisory-board"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 58
   - title: "Intel is reportedly taking on Microsoft and OpenAI in the AI race"
     excerpt: "While companies like Microsoft and OpenAI have placed all bets on the emerging generative AI technology in the past few years, Intel has remained quiet with a keen focus on what it knows how to do best: hardware."
     publishedDateTime: 2023-10-27T22:58:00Z
@@ -358,6 +289,20 @@ related:
       name: RCR Wireless News
       domain: rcrwireless.com
     quality: 54
+  - title: "Talk of Microsoft winning the AI race could be premature"
+    excerpt: "But subsequent chatter about Microsoft leading the AI (artificial intelligence) race may be premature. Azure may be gaining market share but the most recent quarter is not evidence of a definitive trend. Indeed, even after last week’s reversal, Alphabet shares have outperformed Microsoft’s in 2023."
+    publishedDateTime: 2023-10-30T05:45:00Z
+    webUrl: "https://www.irishtimes.com/business/2023/10/30/talk-of-microsoft-winning-the-ai-race-could-be-premature/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 54
+    images:
+      - url: "https://www.irishtimes.com/resizer/WJI7_mIFRPBoiiq4vCipm7ijw9c=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/UX6II6PKKS3SPM4RT7PPITAJYU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI-generated imagery is the new clip art as Microsoft adds DALL-E … – The Verge"
     excerpt: "By James Vincent, a senior reporter who has covered AI, robotics, and more for eight years at The Verge.Microsoft is adding AI-generated art to its suite of"
     publishedDateTime: 2023-10-29T21:22:00Z
@@ -372,29 +317,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft's AI bets boost cloud business, Alphabet yet to find silver lining"
-    excerpt: "Google-parent Alphabet's cloud business suffered as long-time rival Microsoft's took off in the September quarter, demonstrating early signs that the Windows maker's investment in artificial intelligence was paying off."
-    publishedDateTime: 2023-10-25T11:56:00Z
-    webUrl: "https://www.channelnewsasia.com/business/microsofts-ai-bets-boost-cloud-business-alphabet-yet-find-silver-lining-3870531"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 51
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--E5TvGMZ9--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-24t235637z_2_lynxmpej9n11d_rtroptp_3_microsoft-results.jpg?itok=VKFzkcJM"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "NobleAI Announces Groundbreaking Collaboration with Microsoft Azure Quantum Elements"
-    excerpt: "Our focus on using Science-Based AI to supercharge the development of new chemicals, formulations, and materials for product development naturally aligns very well with the massive scale and simulation capabilities of Azure Quantum Elements,"
-    publishedDateTime: 2023-10-25T12:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nobleai-announces-groundbreaking-collaboration-with-microsoft-azure-quantum-/2023/10/25/9905013.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 42
   - title: "FRISS to use Microsoft Azure OpenAI Service for Enhanced AI Fraud Model Explanations"
     excerpt: "MASON, Ohio--(BUSINESS WIRE)--FRISS, one of the world’s most implemented solutions for trust automation at P&C carriers, has recently collaborated with Microsoft to enhance its AI fraud model explanations using Microsoft Azure OpenAI Service. As a ..."
     publishedDateTime: 2023-10-26T14:22:00Z
@@ -487,20 +409,15 @@ related:
       name: BizTimes
       domain: biztimes.com
     quality: 34
-  - title: "Wall Street is demanding financial results that support all the AI hype. Microsoft’s latest earnings finally delivered"
-    excerpt: "Higher-than-expected AI consumption contributed to revenue growth, Microsoft CFO Amy Hood said during the company’s earnings call."
-    publishedDateTime: 2023-10-25T10:16:00Z
-    webUrl: "https://www.aol.com/wall-street-demanding-financial-results-031607173.html?ref=biztoc.com"
+  - title: "Microsoft Build brings AI tools to the forefront for developers – The … – Microsoft"
+    excerpt: "Frank X. Shaw - Chief Communications Officer, Microsoft You only need two simple letters to accurately convey the major shift in the technology"
+    publishedDateTime: 2023-10-30T04:28:00Z
+    webUrl: "https://www.inferse.com/772401/microsoft-build-brings-ai-tools-to-the-forefront-for-developers-the-microsoft/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 30
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/q2JruvQYfWXT8ZwpND_zMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTI-/https://media.zenfs.com/en/aol_fortune_385/a163d4c667364fe9a742427a3f7c3a9e"
-        width: 1199
-        height: 892
-        isCached: true
+      name: Inferse
+      domain: inferse.com
+    quality: 28
   - title: "Revolutionizing Accounts Payable Automation: Gravity Software Unveils Cutting-Edge AI Technology Powered by Microsoft's Cognitive Services AI Engine"
     excerpt: "As part of its unwavering commitment to enhancing multi-entity accounting efficiency, Gravity Software ® is proud to introduce new AI technology to transform accounts payable processes. This transformative solution uses the Microsoft Cognitive Services AI engine to convert PDFs of vendor bills into Gravity Vouchers,"
     publishedDateTime: 2023-10-25T16:26:00Z

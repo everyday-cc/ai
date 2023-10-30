@@ -40,22 +40,6 @@ related:
         width: 1024
         height: 629
         isCached: true
-  - title: "Alberta partnering with AI company to try to predict wildfires before they ignite"
-    excerpt: "Alberta is investing in artificial intelligence in an effort to predict where a wildfire may ignite before it happens, a move its tech partners say could save up to $5 million a year."
-    publishedDateTime: 2023-10-25T09:58:00Z
-    webUrl: "https://www.cp24.com/news/alberta-partnering-with-ai-company-to-try-to-predict-wildfires-before-they-ignite-1.6615919"
-    ampWebUrl: "https://beta.cp24.com/news/2023/10/25/1_6615919.html"
-    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2023/10/25/1_6615919.html"
-    type: article
-    provider:
-      name: CP24
-      domain: cp24.com
-    quality: 54
-    images:
-      - url: "https://beta.ctvnews.ca/cp24/en/news/2023/10/25/1_6615919/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 573
-        isCached: true
 
 secured: "lYFWtgWqqrk4yCX+3yCYEcecZjymZngxfYmIPgNQZiJQijQowWyGgXmdj8olwoGS0M01BamYPqgGmwrezdD0/mBW3PtL8n14StvFF8XbJOZVmtEElm1F1ZAFngGJSTMZ49N34GdZWTiZ6eKLfmA9suY3rn6YrIpUw2usS47JxUtYGDnhjGTeLFQXG4sJbTIo6W4oY1IcMdwa6MlnHoWl5/WOyFxkjpxn7/kcP15bkDQgVG4kiO+rI6Oh0g8igoxSjxJJp/Ep5DjpZNxSzdknoPTteHEYp0cbyaA5chG5aAa8pQP7Lor1KThnTHzL4uI2+EkyqGHq358F/B/RvqpbNp89fwN+lmfTdv+nABz41UU=;YPNHKBNAmrxt5kUlgoM9/Q=="
 ---

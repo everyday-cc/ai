@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/25/ai-dangers-must-b
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit"
 type: article
 quality: 57
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/5f0d0564afe019a189e278a4a3d2ba3ba5fa77d9/0_53_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=e2ff342aa540014160df1d49942c5c49"
         width: 620
         height: 372
-        isCached: true
-  - title: "How Rishi Sunak convinced the world to worry about AI"
-    excerpt: "LONDON — Whisper it, but British Prime Minister Rishi Sunak might just be winning the argument on artificial intelligence. When the United Kingdom first announced its much-hyped global AI summit — focused on creating guardrails around the emerging ..."
-    publishedDateTime: 2023-10-25T11:09:00Z
-    webUrl: "https://www.politico.eu/article/rishi-sunak-convince-world-worry-artificial-intelligence-ai/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 39
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/09/15/11605203.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Rishi Sunak says AI has threats and risks - but outlines its potential"
     excerpt: "Mr Sunak said among the risks outlined in the report was that AI could be used by terrorist groups \"to spread fear and disruption on an even greater scale\". Mitigating the risk of human extinction from AI should be a \"global priority\", he said."
