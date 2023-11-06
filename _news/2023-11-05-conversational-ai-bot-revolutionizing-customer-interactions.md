@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "SnapLogic and Acolad Announce Strategic Partnership to Revolutionize Generative AI-Driven Translation and Integration Solutions"
+    excerpt: "This innovative solution will employ Acolad’s proprietary two-stage AI-process to provide unparalleled accuracy for both language translation and intent, in near real-time. This allows any ..."
+    publishedDateTime: 2023-11-02T13:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231102066219/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
   - title: "Executive Order on Artificial Intelligence Establishes Rules for Public Sector and Furthers Predictions for Private Sector Regulations"
     excerpt: "For further information about the AI EO’s impact on the health care industry, please refer to White House Executive Order on Artificial Intelligence: Implications for the Health Care and Life Sciences Industries."
     publishedDateTime: 2023-11-02T22:36:00Z

@@ -32,15 +32,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 36
-  - title: "Global trends shaping the AI world"
-    excerpt: "While Waymo driverless cars continue to operate in the state ... These are just a few of the many issues being raised. Further, the artificial intelligence (AI) algorithms of autonomous vehicles should be able to explain the “why” for their specific ..."
-    publishedDateTime: 2023-11-04T11:48:00Z
-    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk03112023.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 19
 
 secured: "jnUa1kX/USLIPEdS4H/ROgNgY7VK6Lqlu/+OynPgiFSxDe26aZFLzjCpoI8lGm5yB7FDszyqQs+l9qO6jzJxHQxgwurRTrxax89xxsnEfeuTaZ0IcjmFfZfG3p1ee7e3eTFxn4YAcqjljEYU6mqwXSzg1a6AUi4pooi5JxtT88UljgAAa/X5fBogALnSaHkauT+HPryc+jhSdmVygd/YX0xOYSj2yusnauUTij0157G0jc9LPzIm6x4QTVBzcbDipCRQOKuTW2osH8sQ7+/avIYDRxGQiA2HeaHDJLiLRrv8U0MA76Y23rxdm8kQ6HuXfxETZPR8QB0N/Bs9w5hg2xfk+wks303xHceP+gRBF45Pdd9QJ/AxBpXpMdkN91kbugA4kCZIccOJU6QBobG43BYljXYHB8FCxQRhYt9IOLWejTrsEPuuey2ilR9MIasqRe/b9dbXn5J1Qiv9jhmsQi+/91uDtXIDmSOylLwj25A7ImkOZdWIFG9wVwroMZPdpb9aAJfxdKBzlMd0z193fA==;97RsCKKfsskk7MsIzCmOzg=="
 ---

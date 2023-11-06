@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-06-trained-on-chips-gen-ai-is-shaping-the-chip-industry.md",
+      "title": "Trained on Chips, Gen AI is Shaping the Chip Industry",
+      "excerpt": "ChipNeMo is trained on the company’s internal data to generate and optimise software in designing semiconductors by customising large language models with the help of NVIDIA NeMo —a cloud-native framework for developers to create and deploy generative AI models with billions of parameters.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/trained-on-chips-gen-ai-is-shaping-the-chip-industry/",
+      "originalUrl": "https://analyticsindiamag.com/trained-on-chips-gen-ai-is-shaping-the-chip-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/11/unnamed-13.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-05T21:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-tech-giants-jockey-for-position-at-dawn-of-ai-age.md",
+      "title": "Tech Giants Jockey For Position At Dawn Of AI Age",
+      "excerpt": "Whether they sell smartphones, ads or computer chips, the heavyweights of Silicon Valley have everything to prove to investors looking to see who is best placed in the race to dominate the generative artificial intelligence market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694",
+      "originalUrl": "https://www.barrons.com/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP8179296964960142560251109326446093220437---1.jpg",
+          "width": 768,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694",
+      "publishedDateTime": "2023-11-05T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-05-do-we-have-enough-gpus-to-manifest-ais-potential.md",
       "title": "Do we have enough GPUs to manifest AI’s potential?",
       "excerpt": "The GPU shortage presents both challenge and opportunity as enterprises adapt and become more innovative, agile and responsive in the process.",
@@ -1248,101 +1334,6 @@
         "name": "Digi Times",
         "domain": "digitimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up.md",
-      "title": "Analyst Kuo: $5 Billion on AI Servers in 2024 In Attempt to Catch Up",
-      "excerpt": "Apple could spend upwards of $5 billion on servers alone in the next two years as it attempts to catch up with competitors in the generative AI field. On",
-      "sourceUrl": null,
-      "webUrl": "https://www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up/201433/",
-      "originalUrl": "https://www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up/201433/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.idropnews.com/wp-content/uploads/2018/04/20150559/Artificial-Intelligence.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up/201433/amp/",
-      "cdnAmpWebUrl": "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up/201433/amp/",
-      "publishedDateTime": "2023-10-23T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iDrop News",
-        "domain": "idropnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-ai-based-data-center-optimization-startup-mangoboost-raises-55m-series-a.md",
-      "title": "AI-based data center optimization startup MangoBoost raises $55M Series A",
-      "excerpt": "While the GPU complements the CPU, it handles complex workloads like supercomputing, AI, machine learning and extensive data analysis where numerical precision is required. The COVID-induced chip shortage led global chipmakers to search for ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/23/ai-based-data-center-optimization-startup-mangoboost-raises-55m-series-a/",
-      "originalUrl": "https://techcrunch.com/2023/10/23/ai-based-data-center-optimization-startup-mangoboost-raises-55m-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1180684429.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/23/ai-based-data-center-optimization-startup-mangoboost-raises-55m-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/23/ai-based-data-center-optimization-startup-mangoboost-raises-55m-series-a/amp/",
-      "publishedDateTime": "2023-10-23T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk to integrate artificial intelligence startup xAI with social media platform X"
+    excerpt: "The billionaire also said xAI released its first AI model, a bot named Grok, after making it available to all X Premium+ subscribers on Nov 3"
+    publishedDateTime: 2023-11-06T05:22:00Z
+    webUrl: "https://www.telegraphindia.com/business/elon-musk-to-integrate-artificial-intelligence-startup-xai-with-social-media-platform-x/cid/1977978"
+    ampWebUrl: "https://www.telegraphindia.com/amp/business/elon-musk-to-integrate-artificial-intelligence-startup-xai-with-social-media-platform-x/cid/1977978"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/elon-musk-to-integrate-artificial-intelligence-startup-xai-with-social-media-platform-x/cid/1977978"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 64
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Jul/1688444919_elon-musk.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Elon Musk launches his new company, xAI"
     excerpt: "Elon Musk, CEO of Tesla and SpaceX, and owner of Twitter, on Wednesday announced the debut of a new artificial intelligence company, xAI, with the goal to “understand the true nature of the universe.” According to the company’s website,"
     publishedDateTime: 2023-11-06T03:31:00Z
@@ -63,6 +79,20 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 47
+  - title: "Elon Musk’s AI startup, xAI, is to be integrated with social media platform X"
+    excerpt: "Artificial intelligence startup xAI, which was founded by Elon Musk, is going to be merged into the famous social media platform X."
+    publishedDateTime: 2023-11-06T06:25:00Z
+    webUrl: "https://www.domain-b.com/people/in-the-news/elon-musk-s-ai-startup-xai-is-to-be-integrated-with-social-media-platform-x"
+    type: article
+    provider:
+      name: Domain-b
+      domain: domain-b.com
+    quality: 34
+    images:
+      - url: "https://www.domain-b.com/Uploads/Images/57f4f8a0-f838-48c2-82ba-ff388ecfeb04-Elon-Musk(1).png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "xAI, Elon Musk's AI Startup, to Release First AI Model to Select Group"
     excerpt: "The team behind xAI, which launched in July, comes from Google's DeepMind, the Windows parent, and other top AI research firms."
     publishedDateTime: 2023-11-04T10:46:00Z
@@ -73,6 +103,6 @@ related:
       domain: gadgets360.com
     quality: 17
 
-secured: "zi9MqZ366gAxIsIhIsFOwlXCPy+nGtwdIAZ2B2PoBX31BGrb1jzSyjCSKNjQC8ZNmHE9T9K6RnhHTBpKL96c95iXCJf+09zBnES9STUhAsk8v0H7LGBmDlDmliKpDIGnetqvViKbYcET/GBed9rdU9epNdNBZLBpSwqUfYi3A/QIm/EJ+usvM0FtQtc2SjLHF1ydpMposMrH99zD71chCfiJnyisoUzhQSyNBsfwlJdNKd+8aWPYxCQftU/EcMvl3ZLQ/TVo8CWG3SUlBZURze9IVYvF7fMqJTBduko5wgzuCGq2Vmw7++3cLg+kRf0jphlkkVoFdOpnWgyzAAQf6I+VudITnMqxmL9urj8piT0=;848C7+c4lViyD+hdU/A4Wg=="
+secured: "JS7cMzGKmvTB0FJKBfHbc1Tpolfb6ggoCg4NWxH0cSTAQbOj0ICterV5C/j07b1SHUVXwn4KJPJbKDknvrQEnpLdbMnsmnlHFWyh8K4NKp90QDyErUssMU0nhqSkligFXNSMdNdgKpa0vCW+B1LdI9OtkBwLPbdeE+yRF06wgaOdMO7ko7ClFs1UCHgEMeJVJUPhQyi++lqUksWVz1htGR8pAuYfCS9HgWKBm+XqmcNBljuBj0j63ctt9bV2jLc/kJv8lzLaKYb4K5YSnoQzqhyV9wxvpO5ksyPnKqjTznQW0b3f7MCXISRuonWb6xRcd+6IQxkdXL8swWo6XjSglQWgoAG5nR34HmggF2JNvZpfkwf8vmyVs/R8s34BLyBSeQ3T0mVmtDQXX5th704a+i6q9VB2AgTE5xC5GYI3UT1c0xGQjTe4Id1Tdri8REhGM2CD/D1mrpTnKGf7VK3PafXO7m8iyihMR76DAw3M5mR/GKkbc1dHhClyEXUkUj/82q6fNlbC02NBp+7YiElt9A==;GI7r98S8Uir18BulyitraQ=="
 ---
 

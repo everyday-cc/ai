@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-04T15:29:00Z
 originalUrl: "https://www.aol.com/artificial-intelligence-friend-human-touch-123000502.html"
 webUrl: "https://www.aol.com/artificial-intelligence-friend-human-touch-123000502.html"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI Ethics
 
 images:
   - url: "https://media.zenfs.com/en/aol_fresno_bee_mcclatchy_299/d84068c494aa9a80bf80efed0b2f308d"
@@ -25,6 +26,6 @@ images:
     height: 760
     isCached: true
 
-secured: "jEMod0OcgUXKpfMjL/0B9zidfbxB6w5QplLN6iXH9g5xu60Hyal4h8wwdx1K3a2VIa5H/aF/QYO/gIHPxa9Qjnx2XoCKAcdOtIijyoNiiubK0fK3uHhwXcEhywVrTR5N4xHoNBD+sRLswfvv01+kQktfDyTVLDmHMuv6TQamWuYWewxsDYLPUNI9KN9m+Nr8O4jeiPdBJ9kXsN5zL3zkaqQ5Bj8d4XPKqBORAKfGWYYePHUNfBW7jl/klvuG3QQXOauvpXWBZ4r2skWBnJFX7gwlPjIF1enBr2MTAiPuUvz/AjsBIzj95DEVBft22OckynFHPNReqO0KshrSOMOpXCVHv9az/MeuruPgSU8wCcw=;mWxKdhcMOzWhKtblBxmtkA=="
+secured: "GTgWsYehcwL9Vz3Vja/jVyvZcooREXSTvDmKg7BFkVG+dVvxEkTOR5UQY8AOOrXq8DZShOJ04bs1oNThgiM23laSzw94R8mAMAt35szFL7zhZtuVH6TaIrz7JmzIRZM9nVZRiBPg8QydJL80WZyMksZCIwOB3J+XESvaLStZNlebib3oFTPyiSABkrmkTA+QJx6l1CUIpdLbKQXLSf6csC15o0tk9U9NMOoKAgn+mTxGVTh0lkwearpIL2mVg3Ob7TIycNlImdlA7xaxbcUiGYeOrpoF2JpNNW4569X+jl6KhIy8VtSfBYtrBz+nGH5vaQREwtAUccffFKxWyIC7b/NnSFdHIh9W6/wVNWoJ7sCIVFVTPPyxJCM5DDJ6SMCguedevBE7C2Qyp9+ZLSiQunz1vvY7P5fqyfS5KyaoUe/sZIX0+yD/h/f8mVWZKHyvKatLezOOg5/MBRceXFJUXuZTvKxmMVY522BZWpk3OYOsk5uwKTTFaqzXfiN235Vcvn2tfNgTCpaxDifW4Lg03g==;5+G7xHVqd8qjYP7Iir5Iow=="
 ---
 

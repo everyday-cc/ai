@@ -32,6 +32,20 @@ related:
         width: 900
         height: 631
         isCached: true
+  - title: "Bias in AI puts Black Americans in legal peril"
+    excerpt: "The AI industry has the civil rights community calling for caution, particularly regarding AI technology and law enforcement."
+    publishedDateTime: 2023-11-05T14:48:00Z
+    webUrl: "https://thegrio.com/2023/11/05/bias-in-ai-facial-recognition-puts-black-people-in-legal-peril/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 39
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2023/11/GettyImages-1149113711.jpg"
+        width: 4924
+        height: 3454
+        isCached: true
   - title: "IPVM launches evaluation of facial recognition systems in real-world conditions"
     excerpt: "The findings align with observations from the Biometric Technology Rally that most errors occur on the image acquisition side of the facial recognition process."
     publishedDateTime: 2023-11-01T20:03:00Z

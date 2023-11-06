@@ -1,42 +1,22 @@
 ---
 category: news
-title: "UN Chief Appoints 39-Member Panel to Advise on International Governance of Artificial Intelligence"
-excerpt: "U.N. Secretary-General António Guterres has announced the appointment of a 39-member global advisory panel to report on international governance of artificial intelligence and its risks, challenges an"
-publishedDateTime: 2023-10-26T23:06:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2023-10-26/un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence"
-webUrl: "https://www.usnews.com/news/business/articles/2023-10-26/un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence"
+title: "UN chief appoints 39-member panel to advise on international governance of artificial intelligence"
+excerpt: "U.N. Secretary-General António Guterres on Thursday announced the appointment of a 39-member global advisory panel to report on international governance of artificial"
+publishedDateTime: 2023-10-27T00:21:00Z
+originalUrl: "https://thehill.com/homenews/ap/ap-u-s-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/"
+webUrl: "https://thehill.com/homenews/ap/ap-u-s-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/"
+ampWebUrl: "https://thehill.com/homenews/ap/ap-u-s-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-u-s-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Hill
+  domain: thehill.com
 
 topics:
+  - Facebook AI
   - AI
 
-related:
-  - title: "UN chief appoints 39-member panel to advise on international governance of artificial intelligence"
-    excerpt: "U.N. Secretary-General António Guterres has announced the appointment of a 39-member global advisory panel to report on international governance of artificial intelligence and its risks, challenges and key opportunities."
-    publishedDateTime: 2023-10-28T12:29:00Z
-    webUrl: "https://wcfcourier.com/news/nation-world/un-artificial-intelligence-international-governance-panel/article_e9588896-9394-5125-a247-39478f3e5fb5.html"
-    type: article
-    provider:
-      name: The Waterloo-Cedar Falls Courier
-      domain: wcfcourier.com
-    quality: 25
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/e/95/e9588896-9394-5125-a247-39478f3e5fb5/653bc599f35bc.preview.jpg?crop=1747%2C918%2C3%2C85&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "GJdxSAhEFdE7s3CI/HJDGAFaOiOOKoOBI0l2zvsj+saQQzyIZcq9wxH8LEauIGcnitjcv8bP3vCcVd5Zd0QcL2UcKi1f09rtoxBOqE/VzpWXw9pv6ofwUAU99XxfThPVlgeOYI2QvX35MKuoHJHlCqOWn6ux5kgBchcZipHGKtaMO2vSWft3wvDfwbVzDTgGvHcvc0gM70bWwRGEP5rjSfANbDsTZhMyaCQ8Rnf29rSEVUNqgbWUaw/0+592LvQDtnF886R//twZVJoozUetzrxsEB9Yd3DuKmJQ5LMrbzYjbHtt5+/9tghtaJYhDUu+2e3aFljkgGNGIKiv7UWEDuzoLM1fwSgbvf3ciQCF4uHdquklXLYXWbY9hF3V9TRFgUTvFPtz88e2XsUB4/s6uiIL7XE26PhH/RUGmIlaW9yXlF6+/uxVbgfqxgMmPi1t5Y0yJJJXJYvmCZ0uY1qy5qAH1LKN18gAghJlJNko/1hS1h1vEubGe5sZg29yXhPwM0amWJQquelJQxv5eCopPw==;u7A586WVJQIrtuLWFpBlig=="
+secured: "ydwaLNsq8nkFMedmK8NmR/oNRcTYYTdj6f0JC/nYVCFSc2+Fo6COmExP3SB3JJv2IDgUL60yA2jmi82DoOToNiB7l/75CNLRmmmMknWchFkjqBaQYoTjr8VD8jm+kS8+g1W/0+a8/zzKBYSYbEMLDyGminpqAGW4hJphpzCEAqYVCCfIx5bbkVC7Z1C5+8/+LfuSyl/r2CGeq0DRX2ZGtrmHMnBpwJ4lu9cyO/7u96rtnE9npL9xryAVP9jt7jZi9BmYmoP+k4ZlwX4QpWs+JpqXLvDo9W9bfbQTs5cqFSKmAMfRx+e/A3jfIyy+l8pZixKSOfDySHTJ+fvYwH70vl6lftTD7mEMdDUvi6OZ0CU=;THSjoLdUqxKhjzp7EgmZNw=="
 ---
 

@@ -28,6 +28,22 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
+  - title: "Elon Musk Announces 'Grok' AI Chatbot for X Premium+ Subscribers, to Compete With ChatGPT"
+    excerpt: "AI's new Grok chatbot will be available to X Premium+ subscribers via the microblogging platform and a standalone app."
+    publishedDateTime: 2023-11-06T06:32:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/elon-musk-grok-ai-chatbot-unveiled-for-x-premium-plus-subscribers-4549211"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/elon-musk-grok-ai-chatbot-unveiled-for-x-premium-plus-subscribers-4549211/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/elon-musk-grok-ai-chatbot-unveiled-for-x-premium-plus-subscribers-4549211/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 48
+    images:
+      - url: "https://i.gadgets360cdn.com/large/Musk_twitter_reuters_large_1666930091840.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Brave launches Leo, a free generative AI assistant more private than ChatGPT"
     excerpt: "Brave launched Leo, the generative AI assistant built on Claude with strong privacy protections in place - what you need to know."
     publishedDateTime: 2023-11-03T16:53:00Z

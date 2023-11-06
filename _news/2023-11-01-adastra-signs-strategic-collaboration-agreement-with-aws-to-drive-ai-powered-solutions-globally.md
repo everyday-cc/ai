@@ -1,43 +1,26 @@
 ---
 category: news
 title: "Adastra Signs Strategic Collaboration Agreement with AWS to Drive AI-Powered Solutions Globally"
-excerpt: "Adastra, a leading global Data and Analytics solutions provider, announced today that it has signed a Strategic Collaboration Agreement (SCA) with Ama"
-publishedDateTime: 2023-11-01T15:17:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231101268759/en/Adastra-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Drive-AI-Powered-Solutions-Globally"
-webUrl: "https://www.businesswire.com/news/home/20231101268759/en/Adastra-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Drive-AI-Powered-Solutions-Globally"
+excerpt: "Adastra, a leading global Data and Analytics solutions provider, announced today that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to advance the development and deployment of cutting-edge artificial intelligence (AI) solutions by leveraging generative AI."
+publishedDateTime: 2023-11-01T11:15:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/adastra-signs-strategic-collaboration-agreement-with-aws-to-drive-ai-powered-solutions-globally/article_b1c3f178-9bdb-5abf-81aa-0e7997775f28.html"
+webUrl: "https://www.bakersfield.com/ap/news/adastra-signs-strategic-collaboration-agreement-with-aws-to-drive-ai-powered-solutions-globally/article_b1c3f178-9bdb-5abf-81aa-0e7997775f28.html"
 type: article
-quality: 22
-heat: 22
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "SnapLogic and Acolad Announce Strategic Partnership to Revolutionize Generative AI-Driven Translation and Integration Solutions"
-    excerpt: "This innovative solution will employ Acolad’s proprietary two-stage AI-process to provide unparalleled accuracy for both language translation and intent, in near real-time. This allows any ..."
-    publishedDateTime: 2023-11-02T13:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231102066219/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-  - title: "SnapLogic and Acolad Announce Partnership to Enhance Generative AI-Driven Translation and Integration Solutions"
-    excerpt: "SnapLogic, a leader in generative integration, has announced it has entered a multifaceted partnership with Acolad,"
-    publishedDateTime: 2023-11-03T16:07:00Z
-    webUrl: "https://www.datanami.com/this-just-in/snaplogic-and-acolad-announce-partnership-to-enhance-generative-ai-driven-translation-and-integration-solutions/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 0
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
 
-secured: "9GmZUOmyzHUJ9UHEVF5wOD+HmzR6ZS28CwXl3Q/UKOS8RXOj7cdBH+98CwKIvAGEQo6lYyFkw04MgwXyXBjajiIEmZ7MaMr1+7QWfOZG6RdPLOnOsE5x8PKBIbxILJTBX4/LGCcWz69h6zIugcqdmw1znlGnkIauRUwaoRitxhWI3T3m4gbathYN3tNjDfuZVq1M6Wm88yS+CQYIIG3/XQ8eovHZvbiqnGv2uFxzbnsz4L0OchqLk5pG98n2hoxqzxRxU6754Cd5RqCbO9LVD8lS/M7iEKPIRmXHVYHbDAy2CWnmtB8hdNv/zX3D8JFbHA4O4whetGazaKhJTSQcLQMbZuQ1l3uUV/hwXfT9VA4=;7NELKoXkEf0XGlSwSp54hw=="
+secured: "rBhtG9alh7AvdbnP6Br9yO+2bGOx5jJevA06UxQLRSFDsEVnsQLTjH/cfzI3nKPR8FOokwohSMxfSHsO0qKH3gHBDTgH+ZGLufBQ/sbo1/ijE0gbEr0veMJotQ8N+0VluApsaHUSdngfKQYKn8dYLqWyMnNAWt3JM5ZOjNQIAMRBdCi4Jx9Ioe8NkPkt9Dv3DxIvPK4mPeeRSxugpmsrn6kBPVfklJ7WCcWfXpaeS6tU94ase0VhxREEysDDYdpDGR5hFGts5ZCeDkdIw10Ktn0cFyFpdtuDsdPv+/vuQWrG7jJob+FpFUF5DKAcmlwWNZYYTtAmGONUdQ4U01h+3SjWagpPMTSNJ9Obh6G7ihQ=;BT7czzicColtSIvLTlxlmQ=="
 ---
 

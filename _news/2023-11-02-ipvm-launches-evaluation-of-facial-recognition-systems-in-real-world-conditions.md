@@ -33,6 +33,20 @@ related:
         width: 900
         height: 631
         isCached: true
+  - title: "Bias in AI puts Black Americans in legal peril"
+    excerpt: "The AI industry has the civil rights community calling for caution, particularly regarding AI technology and law enforcement."
+    publishedDateTime: 2023-11-05T14:48:00Z
+    webUrl: "https://thegrio.com/2023/11/05/bias-in-ai-facial-recognition-puts-black-people-in-legal-peril/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 39
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2023/11/GettyImages-1149113711.jpg"
+        width: 4924
+        height: 3454
+        isCached: true
   - title: "Watch: Artificial intelligence and the bias against dark skin"
     excerpt: "It puts us in danger of being falsely accused,” Damon Hewitt, head of the Lawyers' Committee for Civil Rights, said of bias in AI technology."
     publishedDateTime: 2023-11-03T20:41:00Z

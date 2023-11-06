@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/f01529ad-88ca-456e-ad41-d6b7d449a409?sh
 webUrl: "https://www.ft.com/content/f01529ad-88ca-456e-ad41-d6b7d449a409?shareType=nongift"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,42 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Tech Giants Jockey For Position At Dawn Of AI Age"
+    excerpt: "Whether they sell smartphones, ads or computer chips, the heavyweights of Silicon Valley have everything to prove to investors looking to see who is best placed in the race to dominate the generative artificial intelligence market."
+    publishedDateTime: 2023-11-06T05:28:00Z
+    webUrl: "https://www.barrons.com/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694"
+    ampWebUrl: "https://www.barrons.com/amp/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP8179296964960142560251109326446093220437---1.jpg"
+        width: 768
+        height: 510
+        isCached: true
+  - title: "A Gut Check for Artificial Intelligence"
+    excerpt: "Startups are applying artificial intelligence to just about everything, including the bugs in your gut. The trillions of microbes in the body—the microbiome—aid digestion, synthesize vitamins ..."
+    publishedDateTime: 2023-11-02T12:47:00Z
+    webUrl: "https://www.wsj.com/articles/a-gut-check-for-artificial-intelligence-d02aa422"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 49
+  - title: "AI and the Erosion of Human Cognition"
+    excerpt: "The intersection of AI and human cognition is as much about philosophy and ethics as it is about technology. If history is any guide, every significant technological advancement brings with it societal trepidation. The printing press, electricity ..."
+    publishedDateTime: 2023-11-05T21:41:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202311/ai-and-the-erosion-of-human-cognition"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 19
 
 secured: "Qj56oZpw41JH/O0CMtYxvQwVzAT4OfSxv7cA+MAjlowaEKPxMd0HshFsP5dc4DBL2X1eNGcniUZ9PaNco4laEnRTnuNiIHMOQcXMRJN1ZHyV/V+3XDLHIrM6xOH7CRJgE7Xkqc+y2rXKdOLiQCdGM8l9jQllF0dv+qbUCx+dD+wMymrHKjGLEBeWmFpNFhdn/HNq+hdbKvrOoCVAVIhkF86jfFiJJW3JB1ij5lpWJPdTyhne9arX68h3Jk2ny/dKBInbPb7pWybs8Tzr7LDukuGmTm5Xo6Skejkf58J/W2Cy6uogGUh9ppDbj3n6oXXYAnonAM8x2/bc8B1QUGPdueteCo96H23ohSFwL+LOvB3cc8IHat35ey9IApwu8+EYB9uuwMriiodELxGykHX+lZQ4X4m2z0zAgwYTSKrGyKfve3aQY+VyXJoQiN88qyd11luBKetDs/ON12MWOIMXHYoh8DsHOwGuqDG8xdTl5/a/2a2vb6kJ1Fi0hmf/dhvIzgnYas5Qjstoa0xVFE01QQ==;nMubVW5oSBh7CYr/JsF8Pg=="
 ---

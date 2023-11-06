@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/technology/2023/nov/05/ai-pioneer-fei-
 webUrl: "https://www.theguardian.com/technology/2023/nov/05/ai-pioneer-fei-fei-li-im-more-concerned-about-the-risks-that-are-here-and-now?ref=creativerly.com"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,24 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "AI pioneer Fei-Fei Li: ‘I’m more concerned about the risks that are here and now’"
+    excerpt: "The Stanford professor and ‘godmother’ of artificial intelligence on why existential worries are not her priority, and her work to ensure the technology improves the human condition"
+    publishedDateTime: 2023-11-05T12:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/nov/05/ai-pioneer-fei-fei-li-im-more-concerned-about-the-risks-that-are-here-and-now"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/nov/05/ai-pioneer-fei-fei-li-im-more-concerned-about-the-risks-that-are-here-and-now"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/05/ai-pioneer-fei-fei-li-im-more-concerned-about-the-risks-that-are-here-and-now"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 52
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7aba168b15faeb8964393869b8872da6935f79b/0_132_2598_1559/master/2598.jpg?width=620&quality=85&auto=format&fit=max&s=2701ac3938663e8595f829af8cef5fc2"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "rV72d7Wee6wqUo31FOetoTvrmLVryICzbfslZ7xJH+UpjzqMuAZ2TCrCcO+3qBo1v0utYP55XOaRYZb6kA5Z3GPbfNWL8qYoIu/0rroKht1YHBjxkRskp4VLsnJErZl0Yvg2+Wd1MYC5h75sopO5wrnHaep7/RITjAbaR5an1DnX0LBCLGA0WXKpxkmS7Pc9smlaHd+YJKnt6y7sONoMZYbdGRXLBYXpCLMAAqGxP+oFGBzKv8GQAc29domf6SHRvcv0f6V9sFosC1PwOnpb2BvzX+q8uMVbyQXyOPXC/ntnUW5wELfJN2zgRZ5Q/iju4JZqbLKBYPikISR90pY/RGV1/Bx0zJHdqrhGVQiMD/6soa7sIt02Sq6UfoKuNYMorU5sHlhgJS8aevZFFVOOcOr1D6OcqQ9p9YFU3aY6J8Hcb5Od4JEf2s9EpeQ8IH8OtatTLJVHkmXZ9HDBsXrHImLWIgSmx4VZ+nnl6jfA0mpb0AUSxp7TL4rKpXu1VceX+cw3gmi2wMpHEhnNj2jr3w==;NTanHl7sRpkQa8wUj2bchQ=="
 ---

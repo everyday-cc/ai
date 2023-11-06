@@ -7,7 +7,7 @@ originalUrl: "https://www.browndailyherald.com/article/2023/11/provosts-office-d
 webUrl: "https://www.browndailyherald.com/article/2023/11/provosts-office-data-science-institute-launch-artificial-intelligence-conversation-series"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,33 @@ images:
     isCached: true
 
 related:
+  - title: "Demystifying AI, Machine Learning and Data Science"
+    excerpt: "Netflix, Spotify, and other recommendation systems use AI to suggest movies, music, and other products based on our preferences, helping us to discover new things that we enjoy. Best Practices and Future Prospects AI, ML, and Data Science are ever-evolving fields. To stay relevant and succeed: Stay curious and keep learning."
+    publishedDateTime: 2023-11-02T20:54:00Z
+    webUrl: "https://nagalandpost.com/index.php/demystifying-ai-machine-learning-and-data-science/"
+    type: article
+    provider:
+      name: Nagaland Post
+      domain: nagalandpost.com
+    quality: 36
+  - title: "Advancing the AI and Deep Learning opportunity"
+    excerpt: "You will hear how the two companies put in place a zero trust architecture which lays a foundation for encryption, auditability and security, combined with data management that allows mobility between public and private clouds and the introduction of a simple, single UI for the entire data estate."
+    publishedDateTime: 2023-11-02T16:39:00Z
+    webUrl: "https://go.theregister.com/feed/www.theregister.com/2023/11/02/advancing_the_ai_and_deep/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 34
+  - title: "Studying the Arts and Deep Learning"
+    excerpt: "Studying the arts can lead to deep, rigorous learning. In today’s Academic Minute, Lisa Donovan of the Massachusetts College of Liberal Arts explores how arts can help the cause of academic rigor. Donovan is a professor of arts management at the MCLA."
+    publishedDateTime: 2023-11-02T07:07:00Z
+    webUrl: "https://www.insidehighered.com/podcasts/academic-minute/2023/11/01/studying-arts-and-deep-learning"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 19
   - title: "Xiong named director of Institute for Artificial Intelligence and Data Science"
     excerpt: "A UB faculty member since 2021, Xiong specializes in AI applications, algorithms, tooling and computer architectures."
     publishedDateTime: 2023-11-02T16:09:00Z
@@ -35,6 +62,6 @@ related:
       domain: buffalo.edu
     quality: 15
 
-secured: "ISIY67VuJnt5L9eoUMq692HtKYeFKzZZpB5dooGBBjNpveK2eQoDwuNBdzTJPslXbgAUcyRFkm8qBxGOS81YcDUyvcjEK+xINQiU72uguMvl5PCTwkLTLV2N9V+uQodX94fR/avUuTgCBAaGLCaI/cwLdpT6sCM9rQl/oYwyyPp4FObrRFMPkSDk12rQhPcp3KCYi+GcCXm/xmYpbXvI/Ku5GxfjuM/7RQstKgmROt6LI8Y7dxz0veFqTYSUrfbnQGGODSxZWHTLQuprifgopx5QzVPvSfrlSrs/qEViZse9PaWAgpCfbIg8Mz7cknDeXF45dcNtWL0cF6lLA2T6JsFeRx5nSQLlTlY0zCSy8EI=;3ZdYSgNcxtXuPZfhLunW+Q=="
+secured: "kDIqbE4FZVmF1ViHrKe3U6auU/QVUFuRAoQJ/TWpntMhPQ5M9awn1Q+kepCcx9xhdR3euoxkhmNRx/dxotAnAZLazDmnDhk4kH1m75B8tdA8vMVwQRXxcdSHdwIwww/hSKgysVBxjCYRwgGkuUu7ylaStp3KBQKsdgrpJ3DWNVVDqVlKPlrnnRx7KmlbNESlAWVRw2qyJolntTVxx0W8km1/7Z8nt9gsB0wvYnZzIRZaBtr5NsmOAirHfgNCZJRulHlDavFf/hub888wiY6bsaQlRhjqQmHlNRK3P9QEDGU37Vg+tRZiLjLHT4FEqXdtVT4O8Yxd3fFXtG+Xg0ltt0snK4u0/SHuXcv88exDYelOHVKFYdCg8qOok5RYbRDAtT86PM/1xIQW6mtorBwrqou+V5nIVRJLEP76iG8xbjAiMMJtm1ue+S7ZXxg6K1GrCHi2ZiudElbxmfqoGeE28uMF3bNLKaZmZHP0rYiY6xW6WKn3uyc0uGhrwiZG71TmhA9+1Nw2Rk3s27533DhfYw==;y0tvcuH16EO8U/KpCQLoHA=="
 ---
 

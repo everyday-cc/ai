@@ -32,6 +32,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk to integrate artificial intelligence startup xAI with social media platform X"
+    excerpt: "The billionaire also said xAI released its first AI model, a bot named Grok, after making it available to all X Premium+ subscribers on Nov 3"
+    publishedDateTime: 2023-11-06T05:22:00Z
+    webUrl: "https://www.telegraphindia.com/business/elon-musk-to-integrate-artificial-intelligence-startup-xai-with-social-media-platform-x/cid/1977978"
+    ampWebUrl: "https://www.telegraphindia.com/amp/business/elon-musk-to-integrate-artificial-intelligence-startup-xai-with-social-media-platform-x/cid/1977978"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/elon-musk-to-integrate-artificial-intelligence-startup-xai-with-social-media-platform-x/cid/1977978"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 64
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Jul/1688444919_elon-musk.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Elon Musk launches his new company, xAI"
     excerpt: "Elon Musk, CEO of Tesla and SpaceX, and owner of Twitter, on Wednesday announced the debut of a new artificial intelligence company, xAI, with the goal to “understand the true nature of the universe.” According to the company’s website,"
     publishedDateTime: 2023-11-06T03:31:00Z
@@ -70,6 +86,20 @@ related:
       - url: "https://i.cdn.newsbytesapp.com/images/l50720231106093255.jpeg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Elon Musk’s AI startup, xAI, is to be integrated with social media platform X"
+    excerpt: "Artificial intelligence startup xAI, which was founded by Elon Musk, is going to be merged into the famous social media platform X."
+    publishedDateTime: 2023-11-06T06:25:00Z
+    webUrl: "https://www.domain-b.com/people/in-the-news/elon-musk-s-ai-startup-xai-is-to-be-integrated-with-social-media-platform-x"
+    type: article
+    provider:
+      name: Domain-b
+      domain: domain-b.com
+    quality: 34
+    images:
+      - url: "https://www.domain-b.com/Uploads/Images/57f4f8a0-f838-48c2-82ba-ff388ecfeb04-Elon-Musk(1).png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "r2h0P7U75IYqKZjFhqsBA2NpvG8JGjvlexx2yIsLj//thPoydTnpNHdbzyMNDOqJwlwou+MIZ1ktqGr3MCe2t1tohY0dKEkkzHcB4tSTjfPWCaiiwdvB4pxohhSFER1cVS/SoSc1z+ps9a10sVwCZn5AikfX+I1UqwQZjUO1F2AOUN2fbHqakEA4exJ+NGKfKC9EFkJon0AIHj/xpUmWPeDXMw9uMuALVOYnFoZZ6ykbK8LH/SbKSN8OJTsUIVG7i2luQwj3RVlXGnzFr7Rc/1RkhcD4lJYEGpkohkq0GS7oN4VEIS48zqMdxCOxHyJuHnwV0QClCZ1jIjM5HoTixb4wlzBb305kUH/p2eetu80ua9xcEJjT75mp8NJrlnm7X/JjG+/D/yjPA1rkRT0E3mpOq7dTRPVkXYTKcC0JdQGGD+f3+cPFz06+3ikqPORAocz3Qw6WHEmIPmG5YG8KLVv/vEjm4doKV4kPD/iUSUHecx9lD46C4HsuvigPVYQNaeCgXYBXp/Me/b74pOco6Q==;X3ixxB0l7WBAJ7U/4SbfOA=="

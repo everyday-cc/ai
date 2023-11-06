@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-07-27-lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb.md",
+      "title": "Lenovo Unveils New ThinkSystem Storage Offerings Targeted At AI And SMB",
+      "excerpt": "Lenovo introduces new ThinkSystem storage products: the DG-series, a QLC-based array blending capacity and performance, and a new DM model for SMB market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/07/26/lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/07/26/lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c1961fe0a59bc2a216a7fe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/07/26/lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/07/26/lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb/amp/",
+      "publishedDateTime": "2023-07-26T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-ai-can-now-help-you-plan-a-pc-build-thanks-to-neweggs-chatgpt-plugin.md",
+      "title": "AI can now help you plan a PC build thanks to Newegg's ChatGPT plugin",
+      "excerpt": "This AI assistance needs to be refined, but the plugin shows promise for helping PC building beginners and veterans alike. The Newegg PC Builder ChatGPT plugin is currently in beta and only ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/hardware/cpu-gpu-components/ai-can-now-help-you-build-a-pc-thanks-to-neweggs-chatgpt-plugin",
+      "originalUrl": "https://www.windowscentral.com/hardware/cpu-gpu-components/ai-can-now-help-you-build-a-pc-thanks-to-neweggs-chatgpt-plugin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YbMgFxGLK4qbrizNYogawn-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-sk-hynix-says-chip-market-seeing-signs-of-recovery-ai-demand-aiding-turnaround.md",
       "title": "SK Hynix Says Chip Market Seeing Signs Of Recovery, AI Demand Aiding Turnaround",
       "excerpt": "While the memory chip market is showing signs of improvement, market conditions remain varied depending on the type of chips. ( Image Source : Getty ) SK Hynix, a prominent memory chip manufacturer based in South Korea,",
