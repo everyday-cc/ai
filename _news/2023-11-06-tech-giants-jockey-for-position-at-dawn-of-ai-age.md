@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/tech-giants-jockey-for-position-at-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694"
 type: article
 quality: 59
-heat: 89
+heat: 93
 published: true
 
 provider:

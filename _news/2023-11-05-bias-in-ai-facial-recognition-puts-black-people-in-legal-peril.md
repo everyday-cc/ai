@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/bias-ai-facial-recognition-puts-143358549
 webUrl: "https://www.aol.com/news/bias-ai-facial-recognition-puts-143358549.html"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
       name: The Grio
       domain: thegrio.com
     quality: 32
-  - title: "IPVM launches evaluation of facial recognition systems in real-world conditions"
-    excerpt: "The findings align with observations from the Biometric Technology Rally that most errors occur on the image acquisition side of the facial recognition process."
-    publishedDateTime: 2023-11-01T20:03:00Z
-    webUrl: "https://www.biometricupdate.com/202311/ipvm-launches-evaluation-of-facial-recognition-systems-in-real-world-conditions"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 15
 
 secured: "q2Ldana6rw5WxMZgRcbpud7d7ucYvGlRgJ6y/5ejXGKptiuwYh8Lj5MUWAw85zEoP8Bw/w4IkUZV+0yto4bLSIzyPAMSDIod6J5Ixwa987LQ8/Wic2Ddy+Z+pB93/9kL56L/Cb3+HqOofMOV11vgU7mjuLqklhg9ZqfwyJ5kKX7zwEqTVt4IFpMZzOoOPDaLOzGgU+Vh06+7BTVELQNWmljMaK78GOmPa9I9PaUobASGvjWNfgtN9f+FXoHHZaILx/6koZd6zPEmFooiloEC8WvHsWmq/i/BC7ZPk21tXIc2RpyWI6UzqgknIwAEinZAEGHbKAma1SJJHpLfmAR28hE2cYmmC4GgzY+vG2b3TXI=;JZ1ZcFRtD+2A3yAwAmyRmQ=="
 ---

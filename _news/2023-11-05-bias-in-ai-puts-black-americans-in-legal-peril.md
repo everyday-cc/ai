@@ -48,16 +48,7 @@ related:
       name: The Grio
       domain: thegrio.com
     quality: 32
-  - title: "IPVM launches evaluation of facial recognition systems in real-world conditions"
-    excerpt: "The findings align with observations from the Biometric Technology Rally that most errors occur on the image acquisition side of the facial recognition process."
-    publishedDateTime: 2023-11-01T20:03:00Z
-    webUrl: "https://www.biometricupdate.com/202311/ipvm-launches-evaluation-of-facial-recognition-systems-in-real-world-conditions"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 15
 
-secured: "ljy0usZoZeLD+9DD9ozFNWail9tlFpaOZnWMgEgy16DQCdJrRE3pKg0hS1+EBGVYDN9hxhc1dRgvwHJ2U2dm5JBMl7Ck2XPJpIbtf2aFR/K011JKe0wlQzNDLo6uZ+WDpOFoI0OcF/pLCgkRFsnN2L7TZmDN+nITny7YXX1M6CxijIR6sWwmNxtjSHPo7ow6aqzqFnVHL0FvD5iCwkS9bvzCsnalb8JMU0mctoFTH873VNyT+yJZEuSB9pGhjO8RuD+92igTcgiG6SAhh7TKtocx/v/gA99kWx76wrCErAsHelerziQo7Q93WOFFWdAxu9NbHjS9tFvQ7pYNHcVV3kk6zIQvrPWPWh1Bnwzozxc=;+WDNz0vHR5n7smYWTWSiog=="
+secured: "+TC1zc0nIRE2FX7SwT1Ww+F6uHGx7SZY5dKXK+HBaXtpOsK9cBhXbmnTKSonU7kps2GxWiBcd8sGFHBapcIr1tok92AP1qMPQAcUo+Aj94rKO4ESWxpb78qPNjmJJJWKELhU5md9UgGwyAl2T7A2K0i0Gwo1PHuOMrWX4yuImQ0IPsyqU+8vcvz51QWpBn7r8l31biZFZvnoW1xOd4wc509g1j8pgl8KAR9ltPeLZMFczRNTYGY1dIoAgVFskqtmuivhfFQYa7H+Glke0WjoOWk+25b75ZdercwBd5G07uMzWFILQoFpL2TvNEt6tCv0NW9PlSYueROGMWHJn+gzu00hTxSP8K3kKqgSIXc5nUF7b03Zg9o1QtMaGk9Zw5R744BZSOnH7f0sl+hzCiR4lUO2R3uiBKldL3hr7PJcp90CDnfECnPux2KlILQLqjtbXppQ+QCe4RGDdTYECqHFrwestV7lsNzx8O8nkXb3ECo8bnOisGKfegpQJcVeoIjpeUN+LVLZD+z5Oe3+GOirjg==;jdxSGpNEl0B8xpwetovc3g=="
 ---
 

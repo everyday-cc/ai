@@ -39,15 +39,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "G.M.’s Cruise Moved Fast in the Driverless Race. It Got Ugly."
-    excerpt: "The company, a General Motors subsidiary, has hired a law firm to investigate how it responded to regulators, as its cars sit idle and questions grow about its C.E.O.’s expansion plans."
-    publishedDateTime: 2023-11-03T20:59:00Z
-    webUrl: "https://www.nytimes.com/2023/11/03/technology/cruise-general-motors-self-driving-cars.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
   - title: "Driverless cars: The good, the bad and the AI"
     excerpt: "GM has expressed how much safer driverless cars are ... \"65% less likely than human-driven cars to be involved in an accident and 74% less likely to be involved in a crash in which there is a meaningful risk of injury,\" according to Isidore and Valdes-Dapena."
     publishedDateTime: 2023-11-04T21:38:00Z

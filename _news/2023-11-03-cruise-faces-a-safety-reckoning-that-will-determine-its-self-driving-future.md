@@ -28,15 +28,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
-  - title: "Here's where self-driving cars are crashing in San Francisco"
-    excerpt: "San Francisco has become the world’s testing ground for autonomous-vehicles. But as companies such as Cruise, Waymo and Zoox have increased the number of self-driving car on city streets, the number of crashes involving those cars is also on the rise."
-    publishedDateTime: 2023-11-01T22:20:00Z
-    webUrl: "https://www.sfexaminer.com/news/transit/heres-where-self-driving-cars-are-crashing-in-san-francisco/article_b96db122-7518-11ee-953b-0f63b183358a.html"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 4
   - title: "Will self-driving cars get over for emergency vehicles? Company runs tests in Ann Arbor"
     excerpt: "Mobility’s self-driving vehicles were tested on their response to approaching emergency vehicles with help from Ann Arbor first responders."
     publishedDateTime: 2023-11-02T14:36:00Z

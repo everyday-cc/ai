@@ -20,15 +20,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Advancing the AI and Deep Learning opportunity"
-    excerpt: "You will hear how the two companies put in place a zero trust architecture which lays a foundation for encryption, auditability and security, combined with data management that allows mobility between public and private clouds and the introduction of a simple, single UI for the entire data estate."
-    publishedDateTime: 2023-11-02T16:39:00Z
-    webUrl: "https://go.theregister.com/feed/www.theregister.com/2023/11/02/advancing_the_ai_and_deep/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 34
   - title: "Provost’s Office, Data Science Institute launch artificial intelligence conversation series"
     excerpt: "On Nov. 2, the Office of the Provost — in partnership with the Data Science Institute — launched a year-long discussion series about concepts related to artificial intelligence and machine learning with a “Let’s Chat about ChatGPT” event."
     publishedDateTime: 2023-11-06T03:19:00Z

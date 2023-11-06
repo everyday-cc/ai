@@ -1,40 +1,47 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Market to Reach $3,636 Billion, Globally, by 2033 at 37.3% CAGR: Allied Market Research"
-excerpt: "Allied Market Research published a report, titled, \"Artificial Intelligence Market by Component (Hardware, Software, and Services),"
-publishedDateTime: 2023-11-06T06:49:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-market-to-reach-3-636-billion-globally-by-2033-at-37-3-cagr-allied-market-research-301978204.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-market-to-reach-3-636-billion-globally-by-2033-at-37-3-cagr-allied-market-research-301978204.html"
+excerpt: "Increase in investments in artificial intelligence systems, rise in collaboration between industries and artificial intelligence and machine learning solution companies, and increase in customer satisfaction and adoption of reliable cloud applications drive the growth of the global artificial intelligence (AI) market NEW CASTLE,"
+publishedDateTime: 2023-11-06T07:01:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/11/06/9911472.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/11/06/9911472.htm"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1046
+  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
-  - title: "USD 239.9 Billion Natural Language Processing (NLP) Market Expected To Reach By 2032, At CAGR Of 31.3% From 2023 To 2032"
-    excerpt: "The global natural language processing (NLP) market was valued at USD 16.2 billion in 2022, and is projected to reach USD 239.9 billion by 2032, growing at a CAGR of 31.3% from 2023 to 2032. Request Sample Report (Get Full Insights in PDF – 425 Pages) at:"
-    publishedDateTime: 2023-11-02T01:52:00Z
-    webUrl: "https://menafn.com/1107355461/USD-2399-Billion-Natural-Language-Processing-NLP-Market-Expected-To-Reach-By-2032-At-CAGR-Of-313-From-2023-To-2032"
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market Size & Share to Surpass $7.1 Billion by 2030 | Vantage Market Research"
+    excerpt: "As per Vantage Market Research, the Global Artificial Intelligence in the Drug Discovery Market has been steadily growing over the years due to the growing demand for"
+    publishedDateTime: 2023-11-06T16:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/g35624848/artificial-intelligence-ai-in-drug-discovery-market-size-share-to-surpass-7-1-billion-by-2030-vant"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35624848"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35624848"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 9
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
-secured: "+51Hqx0Pnl0CYl41viVrUJ89cqwagwVjoHym3kjGCI4/MDkLtKpnUp6FeB60Hny4A68f88cK/vXjBSmFh3bCzIqXxEtpagokQ68kb853TGx457WgOixMrVGigkFBqfJFpRc5yOQhyuJqIl02//rFA/UnEdOoL6wgWHQeUiS0U6wgXlGyRyRBm4P6QPdIhTg42Hj85f5lV8MogBV7JYj1vPIEt1fvymJ2wYICSi8V0KSew3qyDTft2jMpwK3E/uqMMbqq9r5haziC39qblQYcFsrOU+FDL+qCC4WqNRAUmaPMzuI9ulAtAvsqnYD4h9Ppv1aJEOLzKY1DnQJETddU163/nr58qA2I5VoEzeNPZdE=;f49jgsE/XWYJSGYt6Nhg6A=="
+secured: "6XuBaN9YZgl6bIWKLuKr3yMak9YsJdg09bbhy9ny7nKOLH20vSmc4rLg9KEa0R+uFHiuaPlRXIolIQMSLJo0zMe825xdvVVN+zvQemtaOJ5DLnwTaiUqwmDczQfcsh2S+Hex5B3CPH7ul7Ns3/FUJQSbbhLeFIM/3HQg0x60m1tov5AJIwA5k6SSSirglH1MZkJNTdRoEpeRz49lDXls8fZhVBprSLC6K/PCnCgfphasK25qKnuJboAWtQrY6GvZlW1Lpqys4SveOlqbp1ZQyLTv6iJA/6N/mIvf2wkx1iiNEvEBf4z5fl0mEaOAZbPL0GKK5NUH+euLThvVZ39ggjU4REDvKfc2mxBq37GIkSo=;0oD3U/TIJFec/SCcwc7EHg=="
 ---
 

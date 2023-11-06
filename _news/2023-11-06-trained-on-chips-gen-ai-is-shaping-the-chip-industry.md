@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/trained-on-chips-gen-ai-is-shaping-t
 webUrl: "https://analyticsindiamag.com/trained-on-chips-gen-ai-is-shaping-the-chip-industry/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 68
+published: false
 
 provider:
   name: Analytics India Magazine
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global trends shaping the AI world"
-    excerpt: "While Waymo driverless cars continue to operate in the state ... These are just a few of the many issues being raised. Further, the artificial intelligence (AI) algorithms of autonomous vehicles should be able to explain the “why” for their specific ..."
-    publishedDateTime: 2023-11-04T11:48:00Z
-    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk03112023.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 19
   - title: "How this OKC startup is using AI to innovate the energy industry"
     excerpt: "A venture-capital-backed startup has developed AI applications for use in the energy industry to determine the cause of issues in the field and prevent corrosion and contamination."
     publishedDateTime: 2023-11-02T22:28:00Z

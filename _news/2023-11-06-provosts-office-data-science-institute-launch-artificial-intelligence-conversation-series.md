@@ -34,15 +34,6 @@ related:
       name: Nagaland Post
       domain: nagalandpost.com
     quality: 36
-  - title: "Advancing the AI and Deep Learning opportunity"
-    excerpt: "You will hear how the two companies put in place a zero trust architecture which lays a foundation for encryption, auditability and security, combined with data management that allows mobility between public and private clouds and the introduction of a simple, single UI for the entire data estate."
-    publishedDateTime: 2023-11-02T16:39:00Z
-    webUrl: "https://go.theregister.com/feed/www.theregister.com/2023/11/02/advancing_the_ai_and_deep/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 34
   - title: "Studying the Arts and Deep Learning"
     excerpt: "Studying the arts can lead to deep, rigorous learning. In today’s Academic Minute, Lisa Donovan of the Massachusetts College of Liberal Arts explores how arts can help the cause of academic rigor. Donovan is a professor of arts management at the MCLA."
     publishedDateTime: 2023-11-02T07:07:00Z

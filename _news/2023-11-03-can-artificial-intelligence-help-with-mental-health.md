@@ -7,7 +7,7 @@ originalUrl: "https://www.albawaba.com/editors-choice/can-artificial-intelligenc
 webUrl: "https://www.albawaba.com/editors-choice/can-artificial-intelligence-help-mental-health-1540146"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,91 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Ethical Considerations in AI-Driven Healthcare"
+    excerpt: "There are a number of ethical concerns relating to the collection and handling of patient data in AI-driven healthcare. For example, the confidentiality and security of patient information must be ensured to protect patients from the negative impacts of data breaches and unauthorized access."
+    publishedDateTime: 2023-11-06T14:06:00Z
+    webUrl: "https://www.news-medical.net/health/Ethical-Considerations-in-AI-Driven-Healthcare.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 71
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_23905_16992787609573557.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Real-world generative AI use cases, AWS style"
+    excerpt: "AWS makes it easier for companies to build generative AI applications with enterprise-grade security and access to leading foundation models. Here are a few examples of how AWS is helping its customers in different industries automate complex tasks, generate dynamic content and provide more personalized user experiences."
+    publishedDateTime: 2023-11-06T19:49:00Z
+    webUrl: "https://siliconangle.com/2023/11/06/real-world-generative-ai-use-cases-aws-style/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/AWS-Summit-NY-2023_003.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
+    excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
+    publishedDateTime: 2023-11-06T06:08:00Z
+    webUrl: "https://www.inferse.com/785317/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 52
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-3967.png"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Oncology researchers raise ethics concerns posed by patient-facing artificial intelligence"
+    excerpt: "Ready or not, patients with cancer are increasingly likely to find themselves interacting with artificial intelligence technologies ... and researchers to work together to ensure AI-driven health care preserves patient autonomy and respects human dignity."
+    publishedDateTime: 2023-11-03T20:00:00Z
+    webUrl: "https://medicalxpress.com/news/2023-11-oncology-ethics-posed-patient-facing-artificial.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 41
+  - title: "Biden Administration Issues Sweeping Executive Order on Artificial Intelligence"
+    excerpt: "The Biden Administration issued a sweeping Executive Order directing a broad set of government actions addressing consumer harms, discrimination, privacy protections and other issues stemming from the widespread use of artificial intelligence. While the ..."
+    publishedDateTime: 2023-11-06T17:37:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/biden-administration-issues-sweeping-2370402/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 35
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.12022_1330.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Biden administration issues executive order regulating artificial intelligence"
+    excerpt: "What do we need to know about the Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence ... for the next waves of scientific discovery and for advances in health care. Furthermore, there are more controversial application areas such ..."
+    publishedDateTime: 2023-11-02T19:53:00Z
+    webUrl: "https://hub.jhu.edu/2023/11/02/artificial-intelligence-executive-order/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 15
+  - title: "Executive Order on Artificial Intelligence Establishes Rules for Public Sector and Furthers Predictions for Private Sector Regulations"
+    excerpt: "For further information about the AI EO’s impact on the health care industry, please refer to White House Executive Order on Artificial Intelligence: Implications for the Health Care and Life Sciences Industries."
+    publishedDateTime: 2023-11-02T22:36:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/executive-order-on-artificial-1228744/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 0
 
 secured: "p406EZd7bXxKxY3RwkcwO6cCIVwe26/qaOr2tmBnGh+Nm5n2zbJG1JgbQoWaAnUMpJfHBndLgDt+CWjkwswTvEeKWfZU2x2uXw/zCi3kBWtnKuseSJHgKk3wLjRfo6ep9ikcnBfzZPQ/1jEu/24sjRLSRY31124g7qpSt4IT2E4btaS5wDBhab/4XaRx8H6het8GmPzuFXXRUgRpwVA5Uh6FqBQohRXL0YCXjoxpUmmQtgvUfxr4RezD2ASa46cbi6O9C62AJGnUPHvqk/rE/koq12ZFl0MfHjXxc60uWH3ojaNQjfBRx0gBNEvlZaqEaC460SjsLyezOchEEf+N6zlSKOWQj/tCmkjqTMwCo87WIF5K3zbZJjAgMAL9eYJq05BOj4k9KAqL6ReY7M4heFOLoRH3xvXeRwZS57POnPklaLuOwP8UzrTBFfcO0mBVWWdqLnuaE2IOLyrvrjMW09vD2HL7HOiYd1Z9+ARC28JB4y3Atw53LW3/l6H7iAx7/7w08PKPgKmF5Shy6oSVxw==;ot/QLotvD7q2Z0BonO51ag=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://healthcare-in-europe.com/en/news/ethics-concerns-patient-f
 webUrl: "https://healthcare-in-europe.com/en/news/ethics-concerns-patient-facing-ai-oncology.html"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Oncology researchers raise ethics concerns posed by patient-facing artificial intelligence"
-    excerpt: "Ready or not, patients with cancer are increasingly likely to find themselves interacting with artificial intelligence technologies ... and researchers to work together to ensure AI-driven health care preserves patient autonomy and respects human dignity."
-    publishedDateTime: 2023-11-03T20:00:00Z
-    webUrl: "https://medicalxpress.com/news/2023-11-oncology-ethics-posed-patient-facing-artificial.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 41
   - title: "Oncology Researchers Raise Ethics Concerns Posed By Patient-Facing AI"
     excerpt: "Patients with cancer are increasingly likely to find themselves interacting with artificial intelligence technologies to sched"
     publishedDateTime: 2023-11-04T08:47:00Z

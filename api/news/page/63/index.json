@@ -2,21 +2,21 @@
   "page": 63,
   "value": [
     {
-      "path": "_news/2023-09-19-generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity.md",
-      "title": "Generative AI Can Impact Jobs By Enhancing Creativity And Productivity",
-      "excerpt": "And as LLMs are adopted more widely, new roles – AI developers, AI content creators and specialists in AI ethics, to name a few – will emerge as well. These are the findings of an extensive analysis examining 19,000 tasks across 867 occupations.",
+      "path": "_news/2023-09-20-5-ways-to-incorporate-ai-into-your-career-plans.md",
+      "title": "5 Ways To Incorporate AI Into Your Career Plans",
+      "excerpt": "If you want to stay relevant to your company’s strategy and put yourself in line for raises and promotions, you'll need AI skills and experience.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/",
-      "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/",
+      "webUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/",
+      "originalUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650801ec10cb53503a01661d/0x0.jpg?format=jpg&width=1200",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650a0df6c94fbefd10bba901/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
-          "height": 902,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/",
-      "publishedDateTime": "2023-09-19T00:53:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/",
+      "publishedDateTime": "2023-09-19T14:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -49,110 +49,23 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-ibm-seeks-to-offer-enhanced-ai-service-to-enterprises-with-watsonx.md",
-      "title": "IBM seeks to offer enhanced AI service to enterprises with Watsonx",
-      "excerpt": "IBM introduced its generative AI platform Watsonx to corporate customers and professionals here, explaining that the platform makes it easier for customers to utilize generative AI, the country general manager of its Korean unit said,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T00:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-19-you-can-access-googles-latest-ai-experiments-with-google-labs-heres-how.md",
-      "title": "You can access Google's latest AI experiments with Google Labs. Here's how",
-      "excerpt": "Currently available on Google Labs are some of the company's latest projects, including: Search Labs, Google's new Search with AI; Workspace Labs, the AI-infused Google Workspace; Notebook LM, Google's first AI notebook; and MusicLM, Google's first AI music generator.",
+      "path": "_news/2023-09-20-health-care-flat-amid-inflation-bets-health-care-roundup.md",
+      "title": "Health Care Flat Amid Inflation Bets -- Health Care Roundup",
+      "excerpt": "Health-care companies were more or less flat as traders sought out sectors less susceptible to fears about interest rates and inflation. Drug",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/you-can-access-googles-latest-ai-experiments-with-google-labs-heres-how/",
-      "originalUrl": "https://www.zdnet.com/article/you-can-access-googles-latest-ai-experiments-with-google-labs-heres-how/",
+      "webUrl": "https://www.marketwatch.com/story/health-care-flat-amid-inflation-bets-health-care-roundup-fb62ad65",
+      "originalUrl": "https://www.marketwatch.com/story/health-care-flat-amid-inflation-bets-health-care-roundup-fb62ad65",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/img/resize/195be14ac96fad1273c51f8408229e969f339db0/2023/09/18/c69521e3-7cbb-4726-8bf3-013869a5c217/unnamed.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/you-can-access-googles-latest-ai-experiments-with-google-labs-heres-how/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-access-googles-latest-ai-experiments-with-google-labs-heres-how/",
-      "publishedDateTime": "2023-09-19T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-worlds-first-humanoid-robot-factory-will-ship-digits-in-2024.md",
-      "title": "\"World's first humanoid robot factory\" will ship Digits in 2024",
-      "excerpt": "Agility Robotics is well into construction of a 70,000-sq-ft (6,503-sq-m) facility in Salem, Oregon, with the capacity to produce more than 10,000 units per year of the company's Digit humanoid robot – which will work alongside humans on the factory floor.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/agility-humanoid-robot-factory/",
-      "originalUrl": "https://newatlas.com/robotics/agility-humanoid-robot-factory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/10e5a71/2147483647/strip/true/crop/2048x1075+0+72/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0b%2Fca%2F813636924cd7a3759cf43644bd85%2F241074206-1781154865417899-2461259987337907794-n.jpg&na.image_optimisation=0",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -162,16 +75,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T00:29:00-07:00",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-flat-amid-inflation-bets-health-care-roundup-fb62ad65",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-flat-amid-inflation-bets-health-care-roundup-fb62ad65",
+      "publishedDateTime": "2023-09-19T13:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -179,49 +92,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-understanding-artificial-intelligences-ai-role-in-accelerating-africas-healthcare-momentum-by-eyong-ebai.md",
-      "title": "Understanding Artificial Intelligence's (AI) Role in Accelerating Africa’s Healthcare Momentum (By Eyong Ebai)",
-      "excerpt": "In Africa, as in much of the world, artificial intelligence (AI) is the latest buzzword amongst healthcare professionals. Globally, we saw an explosion last year of various AI generative platforms, promising unparalleled potential to solve some of the continent’s biggest problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/africa-press-releases/understanding-artificial-intelligences-ai-role-in-accelerating-africas-healthcare-momentum-by-eyong-ebai-s6rmmg4u",
-      "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/understanding-artificial-intelligences-ai-role-in-accelerating-africas-healthcare-momentum-by-eyong-ebai-s6rmmg4u",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.africa-newsroom.com/files/thumb/506d0df8d8b8aa3/600/418",
-          "width": 600,
-          "height": 302,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/africa-press-releases/understanding-artificial-intelligences-ai-role-in-accelerating-africas-healthcare-momentum-by-eyong-ebai-s6rmmg4u?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/understanding-artificial-intelligences-ai-role-in-accelerating-africas-healthcare-momentum-by-eyong-ebai-s6rmmg4u?amp=1",
-      "publishedDateTime": "2023-09-19T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -235,21 +105,21 @@
       ]
     },
     {
-      "path": "_news/2023-09-19-chinas-capital-city-is-letting-the-public-take-fully-driverless-robotaxis-and-has-bigger-rollout-plans-startup-ponyai-says.md",
-      "title": "China's capital city is letting the public take fully driverless robotaxis — and has bigger rollout plans, startup Pony.ai says",
-      "excerpt": "As of Tuesday, the suburban Beijing city district of Yizhuang is officially letting local robotaxi operators — primarily Baidu and startup Pony.ai — charge fares for fully autonomous taxis ...",
+      "path": "_news/2023-09-20-tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.md",
+      "title": "TikTok is launching new tool that will help creators label AI content on the app",
+      "excerpt": "In its bid to curb misinformation, TikTok said on Tuesday it will begin launching a new tool that will help creators label AI-generated content they produce.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/19/chinas-capital-city-beijing-has-big-plans-for-robotaxis-ponyai-says.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/19/chinas-capital-city-beijing-has-big-plans-for-robotaxis-ponyai-says.html",
+      "webUrl": "https://www.cnbc.com/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/107100111-1659921398203-Image_from_iOS_64.jpg?v=1695097460",
-          "width": 1919,
-          "height": 1279,
+          "url": "https://image.cnbcfm.com/api/v1/image/107089484-gettyimages-1241770681-RAFAPRESS_06072022-01580.jpeg?v=1695157186",
+          "width": 5000,
+          "height": 3333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -257,9 +127,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/19/chinas-capital-city-beijing-has-big-plans-for-robotaxis-ponyai-says.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/19/chinas-capital-city-beijing-has-big-plans-for-robotaxis-ponyai-says.html",
-      "publishedDateTime": "2023-09-18T23:31:00-07:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html",
+      "publishedDateTime": "2023-09-19T11:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNBC",
@@ -282,130 +152,25 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-pedophiles-on-dark-web-turning-to-ai-program-to-generate-sexual-abuse-content.md",
-      "title": "Pedophiles on dark web turning to AI program to generate sexual abuse content",
-      "excerpt": "The dark web has become a breeding ground for sex offenders who use open source artificial intelligence technology to generate and distribute child sexual abuse material.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/pedophiles-dark-web-turning-ai-program-generate-sexual-abuse-content",
-      "originalUrl": "https://www.foxnews.com/us/pedophiles-dark-web-turning-ai-program-generate-sexual-abuse-content",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/AI-makes-it-easier-for-fraudsters-to-create-fake-companies.gif",
-          "width": 602,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/pedophiles-dark-web-turning-ai-program-generate-sexual-abuse-content.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/pedophiles-dark-web-turning-ai-program-generate-sexual-abuse-content.amp",
-      "publishedDateTime": "2023-09-18T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-19-another-ai-hallucination-that-one-person-could-take-charge.md",
-      "title": "Another AI Hallucination: That One Person Could Take Charge",
-      "excerpt": "Artificial intelligence may have originated in technology sector, but it’s time for business leaders to step up and take charge.",
+      "path": "_news/2023-09-20-sambanova-unveils-new-ai-chip-the-sn40l-powering-its-full-stack-ai-platform.md",
+      "title": "SambaNova Unveils New AI Chip, the SN40L, Powering its Full Stack AI Platform",
+      "excerpt": "SambaNova Systems, makers of the purpose-built, full stack AI platform, announced a revolutionary new chip, the SN40L. The SN40L will power SambaNova’s full stack large language model (LLM) platform,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/09/18/another-ai-hallucination-that-one-person-could-take-charge/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/09/18/another-ai-hallucination-that-one-person-could-take-charge/",
+      "webUrl": "https://insidebigdata.com/2023/09/19/sambanova-unveils-new-ai-chip-the-sn40l-powering-its-full-stack-ai-platform/",
+      "originalUrl": "https://insidebigdata.com/2023/09/19/sambanova-unveils-new-ai-chip-the-sn40l-powering-its-full-stack-ai-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6508fab032bcd1b1af2250be/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/09/18/another-ai-hallucination-that-one-person-could-take-charge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/09/18/another-ai-hallucination-that-one-person-could-take-charge/amp/",
-      "publishedDateTime": "2023-09-18T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-ai-and-robotics-are-here-to-stay-houstons-healthcare-and-medical-office-industry-are-racing-to-evolve.md",
-      "title": "AI And Robotics Are Here To Stay. Houston’s Healthcare And Medical Office Industry Are Racing To Evolve",
-      "excerpt": "Houston's healthcare industry is seeing major disruption from new technology and AI, which influences new office design and renovations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bisnow.com/houston/news/healthcare/houstons-healthcare-and-medical-office-industry-are-evolving-along-with-ai-new-technology-120711",
-      "originalUrl": "https://www.bisnow.com/houston/news/healthcare/houstons-healthcare-and-medical-office-industry-are-evolving-along-with-ai-new-technology-120711",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2023%2F09%2F650898e292c92-houston-healthcare-1.jpeg&width=1200&sign=Yy3CYRFo_w_W13F0eFDUY8Tjh4gugSlcjfdm9IgMBZ4",
-          "width": 1200,
-          "height": 817,
+          "url": "https://insidebigdata.com/wp-content/uploads/2023/06/AI_shutterstock_2287025875_special-1.jpg",
+          "width": 1100,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -415,11 +180,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T18:56:00-07:00",
+      "publishedDateTime": "2023-09-19T10:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bisnow",
-        "domain": "bisnow.com",
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -429,355 +194,24 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-on-ai-ethics-and-the-environment.md",
-      "title": "On AI Ethics and the Environment",
-      "excerpt": "Last month, the San Francisco Chronicle published an op-ed by me about the environmental impact of AI tools now being integrated into many areas of our lives, and used (for different purposes and with various levels of choice) by millions of people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scu.edu/ethics/internet-ethics-blog/on-ai-ethics-and-the-environment/",
-      "originalUrl": "https://www.scu.edu/ethics/internet-ethics-blog/on-ai-ethics-and-the-environment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.scu.edu/media/ethics-center/internet-ethics/DavidMan-&-Tristan-Ferne-Trees-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T17:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Santa Clara University",
-        "domain": "scu.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-19-50-generative-ai-startups-to-watch-in-2023.md",
-      "title": "50 Generative AI Startups to Watch in 2023",
-      "excerpt": "and other forms of artificial intelligence to generate new, original content for a variety of business use cases. Larger tech companies like Google, Microsoft, and AWS are working hard to build up ...",
+      "path": "_news/2023-09-20-project-gutenberg-puts-5000-audiobooks-online-for-free-using-synthetic-speech.md",
+      "title": "Project Gutenberg puts 5,000 audiobooks online for free using synthetic speech",
+      "excerpt": "They come from various sources, often error-ridden optical character recognition processes ... the team has put together multiple machine learning and synthetic speech tools that have improved and become more accessible over the last few years.",
       "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-startups/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-startups/",
+      "webUrl": "https://techcrunch.com/2023/09/19/project-gutenberg-puts-5000-audiobooks-online-for-free-using-synthetic-speech/",
+      "originalUrl": "https://techcrunch.com/2023/09/19/project-gutenberg-puts-5000-audiobooks-online-for-free-using-synthetic-speech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases.md",
-      "title": "A catalogue of genetic mutations to help pinpoint the cause of diseases",
-      "excerpt": "We've released a catalogue of ‘missense’ mutations where researchers can learn more about what effect they may have. Missense variants are genetic mutations that can affect the function of human proteins. In some cases, they can lead to diseases such as cystic fibrosis, sickle-cell anaemia, or cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases",
-      "originalUrl": "https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/65034448fc53ca3e0e603a16__HC4vKxtoaW7cE2n3SE-QrxkITO8rg43eQMon6IKH2WiT64quErOSaTw2SV4d_JPUH9-wzZeDHpStequlS30emq0q9CpLzKlIRPO2jd35taNpz-mzNgBBhuKwbOCxOEMJACH76rJVbKF1FAGiX_IbeSHrcYsG3PbveC_gp5LmnD2G9ZGb7tzpO2CBDI12hJ9cnDyvs1yFVGAT29NSwL7iUY-4zu7SPRb2TeorQ.png",
-          "width": 1600,
-          "height": 1524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-five-experimentations-in-computer-vision-seeing-through-images-from-large-scale-vision-datasets.md",
-      "title": "Five experimentations in computer vision: seeing (through) images from Large Scale Vision Datasets",
-      "excerpt": "Using images from large-scale vision datasets (LSVDs), five practice-based studies – experimentations – were carried out to shed light on the visual content, replications of historical continuities, and precarious human labour behind computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/bjhs-themes/article/five-experimentations-in-computer-vision-seeing-through-images-from-large-scale-vision-datasets/76777C2707BCA07CF346BE7102719370",
-      "originalUrl": "https://www.cambridge.org/core/journals/bjhs-themes/article/five-experimentations-in-computer-vision-seeing-through-images-from-large-scale-vision-datasets/76777C2707BCA07CF346BE7102719370",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-what-does-closed-door-meeting-with-ai-industry-leaders-mean-for-business.md",
-      "title": "What Does Closed-Door Meeting With AI Industry Leaders Mean for Business?",
-      "excerpt": "Businesses should plan for the development of AI regulation in the US, but knowing what it will look like is still a challenge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/tech-industry-leaders-senate-ai-summit/",
-      "originalUrl": "https://www.techrepublic.com/article/tech-industry-leaders-senate-ai-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/06/tr062923-featuredimage-data-scientist-survey-ai-hype.jpg",
-          "width": 1400,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T16:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-ai-and-machine-learning-can-successfully-diagnose-polycystic-ovary-syndrome.md",
-      "title": "AI and machine learning can successfully diagnose polycystic ovary syndrome",
-      "excerpt": "Artificial intelligence (AI) and machine learning (ML) can effectively detect and diagnose Polycystic Ovary Syndrome (PCOS), which is the most common hormone disorder among women, typically between ages 15 and 45,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230918153140.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230918153140.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-ibm-expands-watsonx-platform-with-watsonxdata.md",
-      "title": "IBM Expands Watsonx Platform With Watsonx.data",
-      "excerpt": "Vice President & Principal Analyst, Enterprise Data Technologies, Robert Kramer analyzes the expansion of IBM's watsonx.data offering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6508c80a3d69b479bdfdab8c/0x0.jpg?format=jpg&width=1200",
-          "width": 936,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/amp/",
-      "publishedDateTime": "2023-09-18T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24.md",
-      "title": "Collina Strada Takes On AI Fashion At New York Fashion Week SS24",
-      "excerpt": "Apart from the new fashion trends unveiled at NYFW SS24, another notable trend that could potentially take the fashion world by storm is AI fashion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/",
-      "originalUrl": "https://www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650843e139f2f2bd102250ba/0x0.jpg?format=jpg&width=1200",
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1397220250.jpg?resize=1200,800",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -787,137 +221,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/amp/",
-      "publishedDateTime": "2023-09-18T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-engineering-whistleblower-explains-why-safe-full-self-driving-cant-ever-happen.md",
-      "title": "Engineering whistleblower explains why safe Full Self-Driving can't ever happen",
-      "excerpt": "Pulled from the pages of science fiction, self-driving cars seem to be on the way to becoming real. Cruise and Waymo are expanding their reach with their autonomous taxi experiment and Tesla ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/automotive/whistleblower-explains-why-safe-full-self-driving-cant-happen",
-      "originalUrl": "https://www.thestreet.com/automotive/whistleblower-explains-why-safe-full-self-driving-cant-happen",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-data-and-ai-ethics-market-growth-insights-by-2030-updated-124-pages-report.md",
-      "title": "Data and AI Ethics Market Growth Insights by 2030 | Updated 124+ Pages Report",
-      "excerpt": "Data and AI Ethics Market (CAGR 2023 - 2030) | No. of pages: [124] | market size, share, and industry analysis, By Type [Solutions, Services], Application [BFSI, Government and Defense ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34691120/data-and-ai-ethics-market-growth-insights-by-2030-updated-124-pages-report",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34691120/data-and-ai-ethics-market-growth-insights-by-2030-updated-124-pages-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34691120",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34691120",
-      "publishedDateTime": "2023-09-18T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-questions-every-vc-needs-to-ask-about-every-ai-startups-tech-stack.md",
-      "title": "Questions every VC needs to ask about every AI startup’s tech stack",
-      "excerpt": "Leonard Wossnig is the CTO of LabGenius and former founder and CEO of Rahko and VP of AI at Odyssey Therapeutics. From fraud detection to agricultural crop monitoring, a new wave of tech startups has emerged, all armed with the conviction that their use of ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/18/questions-every-vc-needs-to-ask-about-every-ai-startups-tech-stack/",
-      "originalUrl": "https://techcrunch.com/2023/09/18/questions-every-vc-needs-to-ask-about-every-ai-startups-tech-stack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-656781058.jpg?resize=1200,841",
-          "width": 1200,
-          "height": 841,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T13:00:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/09/19/project-gutenberg-puts-5000-audiobooks-online-for-free-using-synthetic-speech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/19/project-gutenberg-puts-5000-audiobooks-online-for-free-using-synthetic-speech/amp/",
+      "publishedDateTime": "2023-09-19T10:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -940,25 +246,77 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-19-netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence.md",
-      "title": "Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence",
-      "excerpt": "Israeli Prime Minister Benjamin Netanyahu kicked off a U.S. trip in California to talk to billionaire businessman Elon Musk about antisemitism on his social media platform X — while Musk",
+      "path": "_news/2023-09-20-googles-ai-assistant-can-now-read-your-emails-plan-trips-double-check-answers.md",
+      "title": "Google’s AI assistant can now read your emails, plan trips, “double-check” answers",
+      "excerpt": "On Tuesday, Google announced updates to its Google Bard AI assistant—its version of ChatGPT—including integration with Google apps (such as Gmail, Docs, Drive, Google Maps, YouTube, and Google Flights) and a feature to double-check Bard's answers against web content. It also added language support for over 40 languages.",
       "sourceUrl": null,
-      "webUrl": "https://omaha.com/partners/ap/business/netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence/article_a6e09cad-6926-5e5d-921f-5a03e748fac9.html",
-      "originalUrl": "https://omaha.com/partners/ap/business/netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence/article_a6e09cad-6926-5e5d-921f-5a03e748fac9.html",
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/googles-ai-assistant-can-now-read-your-emails-plan-trips-double-check-answers/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/googles-ai-assistant-can-now-read-your-emails-plan-trips-double-check-answers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/3/11/3119cde9-8a22-5ecf-b424-46b7a1a0784f/6509d3f080366.image.jpg?crop=1921%2C1009%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/truth_telling_robot-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/googles-ai-assistant-can-now-read-your-emails-plan-trips-double-check-answers/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/googles-ai-assistant-can-now-read-your-emails-plan-trips-double-check-answers/amp/",
+      "publishedDateTime": "2023-09-19T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform.md",
+      "title": "SambaNova unveils new AI chip to power full-stack AI platform",
+      "excerpt": "SambaNova Systems unveiled a new AI chip, the SN40L, which will power its full-stack LLM platform, the SambaNova Suite.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform/",
+      "originalUrl": "https://venturebeat.com/ai/sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/SN40-Launch-PR-2.jpg?fit=750%2C500&#038;strip=all",
+          "width": 750,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -968,84 +326,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-natwest-issues-four-year-message-to-anybody-with-an-account-and-says-it-starts-today.md",
-      "title": "NatWest issues four-year message to anybody with an account and says it starts today",
-      "excerpt": "The high street bank says it is expanding its collaboration with Amazon Web Services, Inc. (AWS) to accelerate the use of artificial intelligence (AI). Natwest is improving its security measures ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.birminghammail.co.uk/news/midlands-news/natwest-issues-four-year-message-27739660",
-      "originalUrl": "https://www.birminghammail.co.uk/news/midlands-news/natwest-issues-four-year-message-27739660",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.coventrytelegraph.net/incoming/article27739665.ece/ALTERNATES/s1200/0_Borrowing-Interest-Rates-Further-Rise-Expected-Staines-upon-Thames-Surrey-UK-11-Sep-2023.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.birminghammail.co.uk/news/midlands-news/natwest-issues-four-year-message-27739660.amp",
-      "cdnAmpWebUrl": "https://www-birminghammail-co-uk.cdn.ampproject.org/c/s/www.birminghammail.co.uk/news/midlands-news/natwest-issues-four-year-message-27739660.amp",
-      "publishedDateTime": "2023-09-18T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Birmingham Mail",
-        "domain": "birminghammail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-oracle-brings-voice-activated-ai-to-healthcare-with-clinical-digital-assistant.md",
-      "title": "Oracle brings voice-activated AI to healthcare with Clinical Digital Assistant",
-      "excerpt": "Oracle today announced a voice-activated, generative AI-powered clinical digital assistant to improve how clinicans deliver care to patients.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/oracle-brings-voice-activated-ai-to-healthcare-with-clinical-digital-assistant/",
-      "originalUrl": "https://venturebeat.com/ai/oracle-brings-voice-activated-ai-to-healthcare-with-clinical-digital-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T11:05:00-07:00",
+      "publishedDateTime": "2023-09-19T09:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -1068,25 +349,25 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-09-18-orchestrate-ray-based-machine-learning-workflows-using-amazon-sagemaker.md",
-      "title": "Orchestrate Ray-based machine learning workflows using Amazon SageMaker",
-      "excerpt": "Machine learning (ML) is becoming increasingly complex as customers try to solve more and more challenging problems. This complexity often leads to the need for distributed ML, where multiple machines are used to train a single model. Although this enables parallelization of tasks across multiple nodes,",
+      "path": "_news/2023-09-19-generative-ai-and-multi-modal-agents-in-aws-the-key-to-unlocking-new-value-in-financial-markets.md",
+      "title": "Generative AI and multi-modal agents in AWS: The key to unlocking new value in financial markets",
+      "excerpt": "Multi-modal data is a valuable component of the financial industry, encompassing market, economic, customer, news and social media, and risk data. Financial organizations generate, collect, and use this data to gain insights into financial operations, make better decisions, and improve performance. However,",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-ray-based-machine-learning-workflows-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-ray-based-machine-learning-workflows-using-amazon-sagemaker/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/generative-ai-and-multi-modal-agents-in-aws-the-key-to-unlocking-new-value-in-financial-markets/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/generative-ai-and-multi-modal-agents-in-aws-the-key-to-unlocking-new-value-in-financial-markets/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/11/DBBLOG_15189_image1.jpng_-716x630.png",
-          "width": 716,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/08/Picture1-6-1203x630.png",
+          "width": 1203,
           "height": 630,
           "title": null,
           "attribution": null,
@@ -1097,7 +378,59 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T10:54:56-07:00",
+      "publishedDateTime": "2023-09-19T09:23:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-how-virtuswap-accelerates-their-pandas-based-trading-simulations-with-an-amazon-sagemaker-studio-custom-container-and-aws-gpu-instances.md",
+      "title": "How VirtuSwap accelerates their pandas-based trading simulations with an Amazon SageMaker Studio custom container and AWS GPU instances",
+      "excerpt": "This post is written in collaboration with Dima Zadorozhny and&nbsp;Fuad Babaev from VirtuSwap. VirtuSwap is a startup company developing innovative technology for decentralized exchange of assets on blockchains. VirtuSwap’s technology provides more efficient trading for assets that don’t have a direct",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-virtuswap-accelerates-their-pandas-based-trading-simulations-with-an-amazon-sagemaker-studio-custom-container-and-aws-gpu-instances/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-virtuswap-accelerates-their-pandas-based-trading-simulations-with-an-amazon-sagemaker-studio-custom-container-and-aws-gpu-instances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/19/virtuswap-sagemaker-studio.jpg",
+          "width": 892,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T09:16:53-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -1122,42 +455,33 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Machine Learning"
+        "AI Hardware"
       ]
     },
     {
-      "path": "_news/2023-09-19-ai-generated-music-with-real-human-fans.md",
-      "title": "AI Generated Music With Real Human Fans",
-      "excerpt": "According to Schmidt, Musical Bits’ innovation is based on what they call “Creativity Layers,” which stack the creative parts of composition like arrangement, rhythm, instrumental interplay, harmony, melodies, lyrics and text, on top of each other, with each layer having its own set of custom built and trained AI models.",
+      "path": "_news/2023-09-19-ai-code-generation-software-what-it-is-and-how-it-works.md",
+      "title": "AI code-generation software: What it is and how it works",
+      "excerpt": "Using AI code generation software is straightforward, available for many programming languages and accessible to both developers and non-developers.\nThe post AI code-generation software: What it is and how it works appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/09/18/ai-generated-music-with-real-human-fans/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/09/18/ai-generated-music-with-real-human-fans/",
+      "webUrl": "https://www.ibm.com/blog/ai-code-generation/",
+      "originalUrl": "https://www.ibm.com/blog/ai-code-generation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 109,
       "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65087a501402c8e8b2935f67/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 830,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/09/18/ai-generated-music-with-real-human-fans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/09/18/ai-generated-music-with-real-human-fans/amp/",
-      "publishedDateTime": "2023-09-18T10:30:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T09:04:08-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "IBM",
+        "domain": "ibm.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1173,6 +497,727 @@
         "news"
       ],
       "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-how-we-interact-with-information-the-new-era-of-search.md",
+      "title": "How we interact with information: The new era of search",
+      "excerpt": "In today's rapidly evolving technological landscape, generative AI, and especially Large Language Models (LLMs), are ushering in a significant inflection point.\nThe post How we interact with information: The new era of search appeared first on Azure Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/how-we-interact-with-information-the-new-era-of-search/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/how-we-interact-with-information-the-new-era-of-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/09/Picture2.png",
+          "width": 720,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-using-data-and-ai-to-track-progress-toward-the-un-global-goals.md",
+      "title": "Using data and AI to track progress toward the UN Global Goals",
+      "excerpt": "Data Commons works with the UN and ONE to track progress toward the SDGs.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/google-ai-data-un-global-goals/",
+      "originalUrl": "https://blog.google/technology/ai/google-ai-data-un-global-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_Hero_GlobalPovertySDGProgress_v2.width-1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-ai-data-un-global-goals/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-ai-data-un-global-goals/amp/",
+      "publishedDateTime": "2023-09-19T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-hiddenlayer-raises-50m-to-bolster-defenses-of-enterprise-ai-models.md",
+      "title": "HiddenLayer raises $50M to bolster defenses of enterprise AI models",
+      "excerpt": "Texas-based cybersecurity startup born out of a cyberattack that exploited machine learning code at the founders’ prior company, has announced a $50 million Series A funding round today to further harden the defenses of the rapidly growing number of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/hiddenlayer-raises-50m-to-bolster-defenses-of-enterprise-ai-models/",
+      "originalUrl": "https://venturebeat.com/security/hiddenlayer-raises-50m-to-bolster-defenses-of-enterprise-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/nuneybits_zero_trust_in_cybsecurity_acdae9a1-c7e2-4fba-9143-c1af5bde2caf.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics.md",
+      "title": "Intel's 'Meteor Lake' On-Chip GPU Unveiled: Arc Hits Integrated Graphics",
+      "excerpt": "Meteor Lake processors' Arc-based silicon leverages new process technology to rival a low-end discrete GPU. (It even supports ray tracing.)",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/processors/148711/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics",
+      "originalUrl": "https://uk.pcmag.com/processors/148711/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/i/intels-met/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated_cq7q.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-intel-announces-new-core-ultra-cpu-with-ai-processing-engine-coming-in-december.md",
+      "title": "Intel announces new Core Ultra CPU with AI processing engine coming in December",
+      "excerpt": "Intel announced its newest processors, the Intel Core Ultra series, during the Intel Innovation keynote on Tuesday, which it says will usher in the age of the \"AI PC\" later this year when the chip hits the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/computing/cpu/intel-announces-new-core-ultra-cpu-with-ai-processing-engine-to-launch-this-year",
+      "originalUrl": "https://www.techradar.com/computing/cpu/intel-announces-new-core-ultra-cpu-with-ai-processing-engine-to-launch-this-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HAvq6okpT4ZUYNJxoz4KsL-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-meta-tells-court-ai-software-does-not-violate-author-copyrights.md",
+      "title": "Meta tells court AI software does not violate author copyrights",
+      "excerpt": "Meta Platforms has asked a federal judge in San Francisco to dismiss most of a lawsuit filed by comedian Sarah Silverman and other authors who say the company violated their copyrights by training its artificial intelligence-based large language model Llama with their books.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/litigation/meta-tells-court-ai-software-does-not-violate-author-copyrights-2023-09-19/",
+      "originalUrl": "https://www.reuters.com/legal/litigation/meta-tells-court-ai-software-does-not-violate-author-copyrights-2023-09-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/KSed-zNBxlFYV96EMKPg0uvH0kU=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3ARLLOU3TBNYRA24G5TOH5TUHA.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-deepmind-uses-ai-to-predict-harmful-genetic-mutations-in-humans.md",
+      "title": "DeepMind uses AI to predict harmful genetic mutations in humans",
+      "excerpt": "First example of artificial intelligence helping to accelerate diagnosis of diseases caused by genetic variants",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/f8f5184c-0945-408d-8bcf-c101fa801dec?sharetype=gift",
+      "originalUrl": "https://www.ft.com/content/f8f5184c-0945-408d-8bcf-c101fa801dec?sharetype=gift",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-deepminds-new-ai-can-predict-genetic-diseases.md",
+      "title": "DeepMind’s New AI Can Predict Genetic Diseases",
+      "excerpt": "AlphaMissense, a new model from Google’s artificial intelligence team, analyzes the effects of DNA mutations and will accelerate research into rare diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/deepmind-ai-alphamissense-genetics-rare-diseases",
+      "originalUrl": "https://www.wired.co.uk/article/deepmind-ai-alphamissense-genetics-rare-diseases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/6508b2210178e37fb4a68568/16:9/w_1280,c_limit/digitized-dna-helix-science-GettyImages-85757934.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-google-deepmind-ai-speeds-up-search-for-disease-genes.md",
+      "title": "Google DeepMind AI speeds up search for disease genes",
+      "excerpt": "Google's AI firm DeepMind has used artificial intelligence to identify changes in human DNA that might cause diseases. The researchers believe they have pinpointed 89% of all the key mutations. The development is expected to speed up diagnosis and help in the search for better treatments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/science-environment-66847977",
+      "originalUrl": "https://www.bbc.com/news/science-environment-66847977",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 344,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/8D38/production/_131125163_f0342069-dna_illustration.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/science-environment-66847977.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/science-environment-66847977.amp",
+      "publishedDateTime": "2023-09-19T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-docyt-ai-enables-true-real-time-accounting-with-new-advanced-generative-ai-capabilities.md",
+      "title": "Docyt AI Enables True Real-Time Accounting with New Advanced Generative AI Capabilities",
+      "excerpt": "Press Release Docyt, the frontrunner in AI-driven accounting automation technology, launched Docyt AI, incorporating advanced Generative AI features into its Precision AI-based platform to create the industry's most robust accounting intelligence and automation",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/docyt-ai-enables-true-real-time-accounting-with-new-advanced-generative-ai-capabilities/",
+      "originalUrl": "https://venturebeat.com/business/docyt-ai-enables-true-real-time-accounting-with-new-advanced-generative-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/mms.businesswire.com/media/20230919254478/en/1893645/4/Docyt_AI.jpg?strip=all&#038;ssl=1",
+          "width": 480,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-regional-australia-believes-in-a-fair-go-so-what-does-that-mean-for-the-voice.md",
+      "title": "Regional Australia believes in a fair go, so what does that mean for the voice?",
+      "excerpt": "Traditional owners have stood alongside farmers to fight against mining developments on farmland – but so far that solidarity has not been returned",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2023/sep/20/indigenous-voice-to-parliament-referendum-regional-australia-support-polls",
+      "originalUrl": "https://www.theguardian.com/australia-news/2023/sep/20/indigenous-voice-to-parliament-referendum-regional-australia-support-polls",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/2ff14d89b8d3d20424b9c1574f39449663df4e3b/0_365_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=700577450433f03e730103537da619b1",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/2023/sep/20/indigenous-voice-to-parliament-referendum-regional-australia-support-polls",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/20/indigenous-voice-to-parliament-referendum-regional-australia-support-polls",
+      "publishedDateTime": "2023-09-19T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential.md",
+      "title": "Google DeepMind AI tool assesses DNA mutations for harm potential",
+      "excerpt": "AlphaMissense’s predictions could help speed up research and diagnosis of rare disorders",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4c6258a0cff6a8e46a7aac80ed8df1f40154d29a/0_348_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=59f837b7f550661af354893c9b7b290f",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential",
+      "publishedDateTime": "2023-09-19T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-observing-camunda-environments-with-ibm-instana-business-monitoring.md",
+      "title": "Observing Camunda environments with IBM Instana Business Monitoring",
+      "excerpt": "Combining a process orchestration solution like Camunda with an observability solution like IBM Instana can break down silos and react faster.\nThe post Observing Camunda environments with IBM Instana Business Monitoring appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/observing-camunda-environments-with-ibm-instana-business-monitoring/",
+      "originalUrl": "https://www.ibm.com/blog/observing-camunda-environments-with-ibm-instana-business-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T06:02:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-buying-apm-was-a-good-decision-so-is-getting-rid-of-it.md",
+      "title": "Buying APM was a good decision (so is getting rid of it)",
+      "excerpt": "Today’s app environments demand an observability solution that provides real-time monitoring of containers, microservices and Kubernetes environments.\nThe post Buying APM was a good decision (so is getting rid of it) appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/buying-apm-was-a-good-decision-so-is-getting-rid-of-it/",
+      "originalUrl": "https://www.ibm.com/blog/buying-apm-was-a-good-decision-so-is-getting-rid-of-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T05:58:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-data-and-ai-ethics-market-outlook-with-industry-expansion-strategies-till-2031.md",
+      "title": "Data and AI Ethics Market Outlook with Industry Expansion Strategies till 2031",
+      "excerpt": "Data and AI Ethics Market Snapshot: In this report analysis, we conduct a comprehensive examination of the Data and AI Ethics Market, breaking it down into various segments such as size ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34726647/data-and-ai-ethics-market-outlook-with-industry-expansion-strategies-till-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34726647/data-and-ai-ethics-market-outlook-with-industry-expansion-strategies-till-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34726647",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34726647",
+      "publishedDateTime": "2023-09-19T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

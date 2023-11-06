@@ -19,29 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "Trained on Chips, Gen AI is Shaping the Chip Industry"
-    excerpt: "ChipNeMo is trained on the company’s internal data to generate and optimise software in designing semiconductors by customising large language models with the help of NVIDIA NeMo —a cloud-native framework for developers to create and deploy generative AI models with billions of parameters."
-    publishedDateTime: 2023-11-06T05:57:00Z
-    webUrl: "https://analyticsindiamag.com/trained-on-chips-gen-ai-is-shaping-the-chip-industry/"
+  - title: "Balancing the risks and rewards of AI will be key"
+    excerpt: "Letters: Readers on the artificial intelligence summit in London and Elon Musk’s comments about the impact of AI on all our lives"
+    publishedDateTime: 2023-11-06T16:45:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/dc758b4f15353dff8f0e24f228d75e679ac61968/0_172_7940_4764/master/7940.jpg?width=620&quality=85&auto=format&fit=max&s=8dd9f99fdc4bed0aec9203bb86e97647"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "The Rise of AI: Artificial Intelligence in 2024 Technology Trends"
+    excerpt: "In the ever-evolving landscape of technology, one phenomenon has consistently captured our imagination and redefined the way we live, work, and interact: Artificial Intelligence, or AI. As we step into 2024,"
+    publishedDateTime: 2023-11-06T15:24:00Z
+    webUrl: "https://techbullion.com/the-rise-of-ai-artificial-intelligence-in-2024-technology-trends/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
     quality: 54
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/11/unnamed-13.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/The-Rise-of-AI-Artificial-Intelligence-in-2024-Technology-Trends.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "How this OKC startup is using AI to innovate the energy industry"
-    excerpt: "A venture-capital-backed startup has developed AI applications for use in the energy industry to determine the cause of issues in the field and prevent corrosion and contamination."
-    publishedDateTime: 2023-11-02T22:28:00Z
-    webUrl: "https://journalrecord.com/2023/11/02/how-this-okc-startup-is-using-ai-to-innovate-the-energy-industry/"
+  - title: "Advancing the AI and Deep Learning opportunity"
+    excerpt: "You will hear how the two companies put in place a zero trust architecture which lays a foundation for encryption, auditability and security, combined with data management that allows mobility between public and private clouds and the introduction of a simple, single UI for the entire data estate."
+    publishedDateTime: 2023-11-02T16:39:00Z
+    webUrl: "https://go.theregister.com/feed/www.theregister.com/2023/11/02/advancing_the_ai_and_deep/"
     type: article
     provider:
-      name: Journal Record
-      domain: journalrecord.com
-    quality: 17
+      name: theregister
+      domain: theregister.com
+    quality: 34
 
 secured: "fKfvyv7L8btTd5MI6p5dkSoiDdcJN1jQnAcINZaKzUpTLLNupni3aHFsLL1iTVMIBCZtZMfeIIMIrzH9PoF8lyqDrse5ua0kC5YQwnKF6MKAyfLtNhIPqAcHflkyTO14ETVwAL37SMs9TI/nkt0wjQMXrgQqL5khiAtwfAWB7VgU2GJqDrLjj26H9BL8kLrYf/AMWfrqjtn4C3Fj7rMp0m6kscHhNNuOg75LJKdvKb3gAEGAqbPdGKxGxq3xi3nuxNssdxQu9abz5Gm2FIl/eZYrxF22tczEUH8OTKGBXmBK+IcWy7rEAthmEeWdXBk2qBSqD0YdsBo0FzUkICpZoIHHPVbwFLtYIWtKhcnnlK8uDkNqb3zZgu6C5870/+7JEovYWgKWrAINa2YlXbB7fPlbsKPw0LaL071jUebv7D8lQOqLK/q8erN7wdrMKxOnYlB4buaYGopXmSAgFlZabJaLZSH8QmMnR4BnFAQApPIh2V4IIsawMiiF/aXRmEk6Kh58FzUnQ9amocaiJJV2kw==;NER9gGjU3vAoFWPfuz0lwA=="
 ---

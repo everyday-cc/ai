@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Humanoid robots are here, but they’re a little awkward. Do we really need them?"
+    excerpt: "Forget affable-appearing Rosey and Robby of sci-fi yesteryear; today’s humanoid robots are a bit more Terminator-esque. Do we even need them? Artificial intelligence pioneers weigh in."
+    publishedDateTime: 2023-11-06T19:30:00Z
+    webUrl: "https://tucson.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_da620ea5-9b8e-5fbb-8e17-767e0568bf0d.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 35
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/d/a6/da620ea5-9b8e-5fbb-8e17-767e0568bf0d/6548f44d44af9.preview.jpg?crop=668%2C376%2C0%2C17&resize=668%2C376&order=crop%2Cresize"
+        width: 668
+        height: 376
+        isCached: true
   - title: "AI Needs Rules, but Who Will Get to Make Them?"
     excerpt: "Skirmishes at the U.K.’s AI Safety Summit expose tensions over how to regulate AI technology About 150 government and industry leaders from around the world, including Vice President Kamala Harris and billionaire Elon Musk,"
     publishedDateTime: 2023-11-03T20:59:00Z

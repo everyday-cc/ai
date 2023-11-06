@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107362300/GE-Healthcare-Announces-New-Data-Val
 webUrl: "https://menafn.com/1107362300/GE-Healthcare-Announces-New-Data-Validating-Artificial-Intelligence-Models-For-Predicting-Patient-Response-To-Immunother"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "GE HealthCare Announces New Data Validating Artificial Intelligence Models for Predicting Patient Response to Immunotherapies"
+    excerpt: "New data supports the potential role of Artificial Intelligence (AI ... After regional regulatory approvals, GE HealthCare plans to commercialize the models for use both in pharmaceutical drug ..."
+    publishedDateTime: 2023-11-03T05:49:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 37
   - title: "GE HealthCare Announces New Data Validating Artificial Intelligence Models for Predicting Patient Response to Immunotherapies"
     excerpt: "CHALFONT ST GILES, England--(BUSINESS WIRE)--GE HealthCare’s Artificial Intelligence (AI) models predict patient response to immunotherapies with 70 to 80 percent accuracy 1, based on a pan-cancer cohort, according to findings to be presented at the ..."
     publishedDateTime: 2023-11-02T12:39:00Z

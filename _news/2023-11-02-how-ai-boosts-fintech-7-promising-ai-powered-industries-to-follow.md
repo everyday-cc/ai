@@ -28,6 +28,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 46
+  - title: "5 firms leveraging AI to transform the future of FinTech in USA"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-11-06T10:46:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-firms-leveraging-ai-to-transform-the-future-of-fintech-in-usa/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/06/Generative-AI-in-Banking.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "vDhb62ZXULz/95fFke+lYN1hGOX+zD/1B0mX7NUyRpaeeMro4WPIJi1+yn88m8HkbXrqpvDd602LlbEmvNGTB5cqFSmb4mHe/5+82PBqc9Q01SlF26eWGudbR5QOaON2zkEuzrYx/f1m+wNS3xe2ywFjrEFdOPx7D9md3TV2ZsMZIThCLx5eoMYCCtB3M63SbPG5xh19gO1v+fNEoMSHihVBlZXfo/TpwE7D5Lp4ER3f8I4cHtYlMtbrQHVsU5yfdG/aW8vo8PZM8AHOcM3Fqj6cijPcfHpxPsBbPjY5Hs5oIPCuCQ92vl5pyLADi/FpmI8dU3oGgCHzkcQkXSn6zK7SJz8Egu5NXWF9BB7GEepimWemLOg58NI4BIg3LFjqJmH+k1s4dvuULR9303Qlto+9WwCgHNB8sf7pTCqzMSCTAKAPVTcCMNrZAufyPRgevQDQ0Blk5YucQd+LHBXGlBW1W0IpEXw6lBLw+mKBy240tifsD/zn3TD7jhi11nwA3cccsghf8bvUF3YavwMOIw==;nRa4hZsH1p9XsmoSOfVBKA=="
 ---

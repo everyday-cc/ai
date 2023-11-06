@@ -7,7 +7,7 @@ originalUrl: "https://www.stuff.co.nz/pou-tiaki/301003116/facial-recognition-off
 webUrl: "https://www.stuff.co.nz/pou-tiaki/301003116/facial-recognition-officials-yet-to-meet-obligation-to-seek-views-of-mori--documents"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Controversy sticks to the use of facial recognition by US police"
-    excerpt: "Facial recognition algorithms used by police are getting no less controversial. If anything, the issue is just becoming more polarized."
-    publishedDateTime: 2023-11-01T16:18:00Z
-    webUrl: "https://www.biometricupdate.com/202311/controversy-sticks-to-the-use-of-facial-recognition-by-us-police"
+  - title: "Palm reading leads to recognition"
+    excerpt: "The palm reader took one look at my hand and said, \"You are the matriarch of your family.\" I wasn't impressed yet."
+    publishedDateTime: 2023-11-02T07:15:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/nov/02/palm-reading-leads-to-recognition/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/10/04170318/face-biometric-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 4
 
 secured: "xVfZR30kG/FzdA6XDid3Vj5kp+UZFJd3dIEm+AhZBCHwowW8zb9mJg4ZRtfWLa85dXHoOGg3z9V4jeZ9SY21uP17xDBt39jqmDv43/C/e0BsyCTxC0OsvuJb69goCgGhE2dajazo6jW34ULTM9BbbjRvH+Pj1tYf89Y8MQMl3idmRMy5nuyLUK4akKbB5ga+p7qt/eq/kHOc4JGvik6WQbdWFP9BjUnpmbZQn4j3J1myXsoflPb2lzlvvvjjpuQnbsh8/MzjMmLTpY8MhUoTyFpbwAzAQnp8zIGkNdbpJTdTczUylqdTIFPq1pO3eKyg6GKirV3PaM0Lp1WXA+JszS7e09W8Pf1juACi6m+GJ+wvGO9HMna92FM6C82DGn+bpQ8XrF4vtI5Ej8qqMBUibjkGCd6F/+9lS9CrGAyTW5dbnj+aKvlQdmdfepDjNq+RQWby7dm+J8THr2sxSHdJgVADmiKwL88gV1cURsUkIwX37xtO2CSna2Mij5lFWsQ0jHaurljSzofoT5zr6rcliA==;5dUkd2f7RhC9djNaRPRa0w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2023-11-05/ant-gr
 webUrl: "https://money.usnews.com/investing/news/articles/2023-11-05/ant-group-wins-approval-to-release-ai-products-to-chinese-public"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,29 @@ topics:
   - AI
 
 related:
+  - title: "Ant Receives Chinese Government Nod to Roll Out AI Services"
+    excerpt: "Ant Group received approval from the Chinese government to roll out products powered by its large language model Bailing to the public."
+    publishedDateTime: 2023-11-06T20:31:00Z
+    webUrl: "https://time.com/6332071/ant-ai-services-bailing/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 69
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/AP20301184742771.jpg?quality=85"
+        width: 6000
+        height: 4001
+        isCached: true
+  - title: "Alibaba's Ant Group Gets Chinese Govt Approval To Release AI Products"
+    excerpt: "Ant Group, the fintech affiliate of Chinese conglomerate Alibaba Group, has received approval from the Chinese government to offer"
+    publishedDateTime: 2023-11-06T15:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alibaba-s-ant-group-gets-chinese-govt-approval-to-release-ai-products-1032782312"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "How Chinese influencers use AI digital clones of themselves to pump out content"
     excerpt: "Questions over honesty and legality as livestreamers, particularly in online shopping, use avatars to boost their earnings"
     publishedDateTime: 2023-11-05T23:08:00Z

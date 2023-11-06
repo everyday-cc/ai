@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-08-24-dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people.md",
+      "title": "Dan O’Dowd Wants Tesla to Fix Its Self-Driving Program Before It Kills More People",
+      "excerpt": "He believes the self-driving software that Tesla uses will kill people. To get the word out, O’Dowd ran for the U.S. Senate on the single issue in 2022, bought a full-page ad in the New York Times last November, and placed a 30-second Super Bowl commerci ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/",
+      "originalUrl": "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.independent.com/wp-content/uploads/2023/06/Tesla-fails-bus-stop-test-e1687556803267.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1",
+      "cdnAmpWebUrl": "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1",
+      "publishedDateTime": "2023-08-23T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Santa Barbara Independent",
+        "domain": "independent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-the-false-promises-of-teslas-full-self-driving.md",
+      "title": "The false promises of Tesla’s Full Self-Driving",
+      "excerpt": "But while Musk would eventually ship an advanced driver-assist system that he called Full Self-Driving (FSD) beta, the idea that any Tesla owner could catch some z’s while their car whisks them ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/8/23/23837598/tesla-elon-musk-self-driving-false-promises-land-of-the-giants",
+      "originalUrl": "https://www.theverge.com/2023/8/23/23837598/tesla-elon-musk-self-driving-false-promises-land-of-the-giants",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/e0jJ5JRr9puinqk81493j67D4ZU=/58x58:5076x3384/1200x628/filters:focal(2633x1673:2634x1674)/cdn.vox-cdn.com/uploads/chorus_asset/file/24801728/Screenshot_2023_07_21_at_1.45.12_PM.jpeg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-gavin-newsom-sides-with-the-robots-in-autonomous-vehicle-debate.md",
       "title": "Gavin Newsom sides with the robots in autonomous vehicle debate",
       "excerpt": "They argue the advent of transformative technologies — from driverless vehicles to automation and artificial intelligence — require policymakers to be proactive on regulations. “They think I ...",
@@ -1266,83 +1361,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-13-san-franciscos-north-beach-streets-clogged-as-long-line-of-cruise-robotaxis-come-to-a-standstill.md",
-      "title": "San Francisco’s North Beach streets clogged as long line of Cruise robotaxis come to a standstill",
-      "excerpt": "One day after California green-lighted a massive expansion of driverless robotaxis in ... programmed with artificial intelligence software, sat unresponsive. In one video, zeroing in on a robotaxi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/california/story/2023-08-12/cruise-robotaxis-come-to-a-standstill",
-      "originalUrl": "https://www.latimes.com/california/story/2023-08-12/cruise-robotaxis-come-to-a-standstill",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-12T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-self-driving-taxis-get-247-access-in-san-francisco-what-historic-vote-means-for-the-city.md",
-      "title": "Self-driving taxis get 24/7 access in San Francisco. What historic vote means for the city.",
-      "excerpt": "SAN FRANCISCO — San Francisco is the first city in the world where two separate self-driving taxi companies can offer paid rides after a historic – and contentious – vote by the California ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2023/08/11/san-francisco-self-driving-taxis/70574497007/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2023/08/11/san-francisco-self-driving-taxis/70574497007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/05/05/USAT/21a65166-49d9-48d8-b9a2-c94173f585c5-Weise-2023-04-29-6876.jpg?auto=webp&crop=4031,2268,x0,y151&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
         "images": null,
         "publishers": null,
         "authors": null

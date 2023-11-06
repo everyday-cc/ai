@@ -31,15 +31,6 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 19
-  - title: "Elon Musk releases ‘spicy’ AI chatbot that loves sarcasm"
-    excerpt: "The billionaire has unveiled his generative AI model with more personality than its rivals, in a challenge to Microsoft-backed OpenAI and Google."
-    publishedDateTime: 2023-11-06T02:17:00Z
-    webUrl: "https://www.afr.com/technology/elon-musk-releases-spicy-ai-chatbot-that-loves-sarcasm-20231106-p5ehwr"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 19
 
 secured: "r0Oydd9SDU6x4XUVLKkx3M35O0+lvPI/tYCNM2TQPREikaYJgjHiKnZcELh9/HykKV/4wPkGWgbDZVgrxzVwsotufUYOpNQZMjQlab3FR3WJbtPV4oFsWkY2cXDDU57gLiV6arLxmWYBChiuEQnbm2fxHngrYt43ouSACOFPyiGINRBVmDfw/vQJllW6KXqnamgy15tPsc2OrGKEaGi4P5E376ow1R6EeGJfh57mnNY3gKjDVBCTh095mAh3PsXGKQOscuMW8g6CbVfWzH+sNADhzCgPd4FrPud0FGdiDAoxlWVkS6ln1BmheKOqEDnjStH4pqm0Gdm7eUoEEfT10CqBav6fVf0qVg6If/cZ22DIdo+oDGO+Hcd4jxC7Ucgsm/E1rZuLnJ2QpWoKuUhmMlfv062Ve6tsQsu7oYv/RKB47X2qx6kxVqWJ4yCNGsLcmLw3SvoL33fjCUfO0os2opflEvWpQswvZI2kRn6eVc+ATby+yl60sCz3gFKG3QWSxv//sQqi1p6GcuS8tDUoyA==;m61y0HhrFRpLcj6OOVCzeg=="
 ---

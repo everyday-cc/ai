@@ -7,7 +7,7 @@ originalUrl: "https://www.crowdfundinsider.com/2023/11/215266-fintech-funding-pl
 webUrl: "https://www.crowdfundinsider.com/2023/11/215266-fintech-funding-plunges-to-new-low-in-q3-2023-sp/"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,35 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Why last week felt like 2021 in fintech"
-    excerpt: "Combined, the three fintech companies raised $650 million alone ... The startup claims it is “the first personal finance platform to provide holistic tracking of net worth, AI-powered financial guidance, automated investing, easy tax filing, estate ..."
-    publishedDateTime: 2023-11-05T22:48:00Z
-    webUrl: "https://techcrunch.com/2023/11/05/the-return-of-mega-rounds-in-fintech-and-where-all-the-former-mint-users-are-headed/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
-  - title: "GenAI in the focus for Aussie-UK fintech as it expands globally"
-    excerpt: "Barrett states that the digital transformation journey in Australia and the APAC region as a whole is well underway, making it ideal for UK businesses that are looking to expand into the Australian market. He adds that the FTA facilitates growth by making  talent and the market more accessible."
-    publishedDateTime: 2023-11-02T10:06:00Z
-    webUrl: "https://www.finextra.com/the-long-read/835/genai-in-the-focus-for-aussie-uk-fintech-as-it-expands-globally"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-  - title: "FinTech LIVE London: Meet our software and tech experts"
-    excerpt: "It's time to cast an eye over the software and technology-related speakers who will be taking the stage at FinTech LIVE London this week"
-    publishedDateTime: 2023-11-05T17:21:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-live-london-meet-our-software-and-tech-experts"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
 
 secured: "jsqlVkm/4o+/UhkjgitfUIKh+lj+CYlXV5wykpGMg6qL67SlxkAifHJk/W1sUtGdnHJldzvbV7P/zCVmyg8FOx093m/07WbMvMIwvUdIvoiewFqT1wgXE4V36Ay9WVR+wN00fgJFyt9FKgEgMw6AyBdSNpkhJARRU5KlI3RjIqiJ4+DzBt5KKV4Jf/r7ztUV6y2L7FAa/kqgaIQZONinF8VKM/4jCY6iAfaYHjuCFg0sMfyl8CqdUYuSSBBREOSWM78ezB5bbmtCd+sq4UwWF1xdyHVudqcfqFru9OsVUjpctLAAzidZn5WkA+DeGA/7d9eTOsDY3RpcWh1v5aqjf0pU5Sd5d2vjyvqJHvLBCo3hwAtPQAnHKRpjvAphnSzWEgpKBLZnt5hCkeoCMAd12RodSeyvuhEQ5YVbdaRB9N6Et/HcMG+4uhuO26ihRj+/cXT+Jlq3PGsV7Eol2mTZPgzi6Z8TgwVf9ir0y0vx+WF72odZZuvjj1BkHqae0Vg88rKEUdMdsuddCAvUZAoDOg==;fHfhoZFcCf7+pyng8Cys9w=="
 ---

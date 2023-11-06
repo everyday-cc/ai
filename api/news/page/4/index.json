@@ -2,12 +2,12 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-10-31-ai-and-machine-learning-in-uk-financial-services-the-public-response-to-the-fca-and-pra.md",
-      "title": "AI and Machine Learning in UK financial services: the public response to the FCA and PRA",
-      "excerpt": "in financial services and mentioned a joint paper published by the Prudential Regulation Authority (PRA) and Financial Conduct Authority (FCA) on AI and machine learning DP5/22 - Artificial Intelligence and Machine Learning | Bank of England (DP).",
+      "path": "_news/2023-11-01-dell-and-meta-partner-to-bring-llama-2-open-source-ai-to-enterprise-users-on-premises.md",
+      "title": "Dell and Meta partner to bring Llama 2 open source AI to enterprise users on-premises",
+      "excerpt": "Dell is adding support for Meta Llama 2 models to its lineup of Dell Validated Design for Generative AI hardware.",
       "sourceUrl": null,
-      "webUrl": "https://www.jdsupra.com/legalnews/ai-and-machine-learning-in-uk-financial-3494530/",
-      "originalUrl": "https://www.jdsupra.com/legalnews/ai-and-machine-learning-in-uk-financial-3494530/",
+      "webUrl": "https://venturebeat.com/ai/dell-and-meta-partner-to-bring-llama-2-open-source-ai-to-enterprise-users-on-premises/",
+      "originalUrl": "https://venturebeat.com/ai/dell-and-meta-partner-to-bring-llama-2-open-source-ai-to-enterprise-users-on-premises/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -17,49 +17,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T17:00:00-07:00",
+      "publishedDateTime": "2023-10-31T13:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "JD Supra",
-        "domain": "jdsupra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-biden-aims-to-cut-ai-risks-with-executive-order.md",
-      "title": "Biden aims to cut AI risks with executive order",
-      "excerpt": "U.S. President Joe Biden is seeking to reduce the risks that artificial intelligence poses to consumers, workers, minority groups and national security with a new executive action. This report produced by Chris Dignam.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idscNA?now=true",
-      "originalUrl": "https://www.reuters.com/video/watch/idscNA?now=true",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -75,16 +40,17 @@
         "news"
       ],
       "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-10-31-voice-actors-slam-the-finals-for-using-ai-instead-of-real-people.md",
-      "title": "Voice Actors Slam 'The Finals' for Using AI Instead of Real People",
-      "excerpt": "Voice actors raise concerns over the use of AI to generate character voices in The Finals game instead of real people.",
+      "path": "_news/2023-11-01-the-best-robot-vacuum-for-me-is-the-one-i-hacked.md",
+      "title": "The best robot vacuum for me is the one I hacked",
+      "excerpt": "iRobot and Roomba are almost synonymous with robot vacuums at this point; they aren’t ideal for hacking because they lack the processor overhead to run Valetudo. The most commonly used models for installing Valetudo are from Roborock and Dreame.",
       "sourceUrl": null,
-      "webUrl": "https://decrypt.co/203768/ai-voices-used-in-the-finals-game-voice-actors-protest",
-      "originalUrl": "https://decrypt.co/203768/ai-voices-used-in-the-finals-game-voice-actors-protest",
+      "webUrl": "https://www.theverge.com/23934731/valetudo-robot-vacuum-hacking",
+      "originalUrl": "https://www.theverge.com/23934731/valetudo-robot-vacuum-hacking",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -94,150 +60,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T16:44:00-07:00",
+      "publishedDateTime": "2023-10-31T12:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "decrypt",
-        "domain": "decrypt.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-photos-san-franciscos-algorave-where-people-dance-to-code.md",
-      "title": "Photos: San Francisco’s ‘algorave,’ where people dance to code",
-      "excerpt": "Half of the participants were obsessed with a text editor window of a TV set-up, where codes were popping up line by line.",
-      "sourceUrl": null,
-      "webUrl": "https://missionlocal.org/2023/10/algorave/",
-      "originalUrl": "https://missionlocal.org/2023/10/algorave/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mission Local",
-        "domain": "missionlocal.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-altair-held-financial-dx-meet-up-for-financial-industry-undergoing-digital-transformation.md",
-      "title": "Altair held Financial DX Meet-up for Financial Industry Undergoing Digital Transformation",
-      "excerpt": "As digital transformation (DX) continues to transform the financial sector, an information exchange was held to identify solutions and trends for data competitiveness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.macaubusiness.com/altair-held-financial-dx-meet-up-for-financial-industry-undergoing-digital-transformation/",
-      "originalUrl": "https://www.macaubusiness.com/altair-held-financial-dx-meet-up-for-financial-industry-undergoing-digital-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macau Business",
-        "domain": "macaubusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-lessons-from-the-voice-time-to-reboot-journalism-with-a-conscious-empathy.md",
-      "title": "Lessons from the Voice: Time to reboot journalism with a conscious empathy",
-      "excerpt": "The now common aggressively interrupting interviewing style is a fightback against accusations of being 'too soft'.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crikey.com.au/2023/10/31/voice-lessons-reboot-journalism-conscious-empathy/",
-      "originalUrl": "https://www.crikey.com.au/2023/10/31/voice-lessons-reboot-journalism-conscious-empathy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crikey",
-        "domain": "crikey.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-ai-must-be-governed-biden-says-while-announcing-new-safety-measures.md",
-      "title": "AI 'Must be Governed,' Biden Says While Announcing New Safety Measures",
-      "excerpt": "Artificial intelligence could be the \"most consequential technology of our time,\" President Joe Biden said at an executive order signing ceremony on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ai-must-governed-biden-says-while-announcing-new-safety-measures-1839370",
-      "originalUrl": "https://www.newsweek.com/ai-must-governed-biden-says-while-announcing-new-safety-measures-1839370",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T16:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
+        "name": "The Verge",
+        "domain": "theverge.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -253,16 +83,17 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-10-31-ai-powered-search-is-off-to-a-problematic-start-can-google-and-econsultancy.md",
-      "title": "'AI-powered' search is off to a problematic start. Can Google and … – Econsultancy",
-      "excerpt": "EMEA/USA: +44 (0)20 7970 4322 | email: subs.support@econsultancy.com",
+      "path": "_news/2023-11-01-va-to-launch-artificial-intelligence-contest-to-help-health-care-staff.md",
+      "title": "VA to launch artificial intelligence contest to help health care staff",
+      "excerpt": "(Evan Vucci/AP) Veterans Affairs leaders will launch a $1 million competition focused on artificial intelligence solutions to preventing burnout among department health care workers as part of the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/774223/ai-powered-search-is-off-to-a-problematic-start-can-google-and-econsultancy/",
-      "originalUrl": "https://www.inferse.com/774223/ai-powered-search-is-off-to-a-problematic-start-can-google-and-econsultancy/",
+      "webUrl": "https://www.militarytimes.com/veterans/2023/10/31/va-to-launch-artificial-intelligence-contest-to-help-health-care-staff/",
+      "originalUrl": "https://www.militarytimes.com/veterans/2023/10/31/va-to-launch-artificial-intelligence-contest-to-help-health-care-staff/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -272,11 +103,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T16:17:00-07:00",
+      "publishedDateTime": "2023-10-31T11:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
+        "name": "Military Times",
+        "domain": "militarytimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -286,49 +117,17 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-10-31-how-to-get-snapchat-ai.md",
-      "title": "How to get Snapchat AI",
-      "excerpt": "If you're wondering how to navigate Snapchat's My AI feature, you're not alone. Here's how to get Snapchat AI and use it.",
+      "path": "_news/2023-11-01-helping-paralyzed-people-use-thought-to-control-computers-and-robotic-limbs.md",
+      "title": "Helping Paralyzed People Use Thought to Control Computers and Robotic Limbs",
+      "excerpt": "A number of medical conditions can cause paralysis including spinal cord injury, stroke, neurological diseases, and traumatic brain injury. By  What i",
       "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/news/how-to-get-snapchat-ai/",
-      "originalUrl": "https://www.dailydot.com/news/how-to-get-snapchat-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/news/how-to-get-snapchat-ai/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/news/how-to-get-snapchat-ai/?amp",
-      "publishedDateTime": "2023-10-30T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-biden-wants-to-move-fast-on-ai-safeguards-and-signs-an-executive-order-to-address-his-concerns.md",
-      "title": "Biden wants to move fast on AI safeguards and signs an executive order to address his concerns",
-      "excerpt": "President Biden on Monday signed an ambitious executive order on artificial intelligence that seeks to balance the needs of cutting-edge technology companies with national security and consumer rights,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2023/10/30/nation/biden-wants-move-fast-ai-safeguards-signs-an-executive-order-address-his-concerns/",
-      "originalUrl": "https://www.bostonglobe.com/2023/10/30/nation/biden-wants-move-fast-ai-safeguards-signs-an-executive-order-address-his-concerns/",
+      "webUrl": "https://www.coloradoboulevard.net/helping-paralyzed-people-use-thought-to-control-computers-and-robotic-limbs/",
+      "originalUrl": "https://www.coloradoboulevard.net/helping-paralyzed-people-use-thought-to-control-computers-and-robotic-limbs/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -338,11 +137,45 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T16:12:00-07:00",
+      "publishedDateTime": "2023-10-31T10:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
+        "name": "ColoradoBoulevard",
+        "domain": "coloradoboulevard.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-president-bidens-new-ai-executive-order-sets-safety-market-standards.md",
+      "title": "President Biden's New AI Executive Order Sets Safety, Market Standards",
+      "excerpt": "The order is said to include 'the most sweeping actions ever taken to protect Americans from the potential risks of AI systems.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/internet/president-bidens-new-ai-executive-order-sets-safety-market-standards",
+      "originalUrl": "https://www.extremetech.com/internet/president-bidens-new-ai-executive-order-sets-safety-market-standards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -357,26 +190,35 @@
       ]
     },
     {
-      "path": "_news/2023-10-31-biden-signs-sweeping-executive-order-on-artificial-intelligence.md",
-      "title": "Biden signs sweeping executive order on artificial intelligence",
-      "excerpt": "President Joe Biden said AI is driving change at “warp speed” and carries tremendous potential as well as perils.",
+      "path": "_news/2023-11-01-defense-tech-startup-shield-ai-raises-200m-at-27b-valuation.md",
+      "title": "Defense Tech Startup Shield AI Raises $200M At $2.7B Valuation",
+      "excerpt": "Shield AI, the defense and aerospace startup creating AI pilots, raised a $200 million Series F at a $2.7 billion valuation.",
       "sourceUrl": null,
-      "webUrl": "https://www.oregonlive.com/business/2023/10/biden-signs-sweeping-executive-order-on-artificial-intelligence.html",
-      "originalUrl": "https://www.oregonlive.com/business/2023/10/biden-signs-sweeping-executive-order-on-artificial-intelligence.html",
+      "webUrl": "https://news.crunchbase.com/ai/defense-tech-startup-venture-aircraft-shield/",
+      "originalUrl": "https://news.crunchbase.com/ai/defense-tech-startup-venture-aircraft-shield/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://news.crunchbase.com/wp-content/uploads/2018/09/govt_tech.png",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.oregonlive.com/business/2023/10/biden-signs-sweeping-executive-order-on-artificial-intelligence.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/business/2023/10/biden-signs-sweeping-executive-order-on-artificial-intelligence.html?outputType=amp",
-      "publishedDateTime": "2023-10-30T16:05:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T10:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Oregonian",
-        "domain": "oregonlive.com",
+        "name": "news.crunchbase",
+        "domain": "crunchbase.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -390,12 +232,12 @@
       ]
     },
     {
-      "path": "_news/2023-10-31-biden-urges-congress-to-take-action-following-ai-order.md",
-      "title": "Biden Urges Congress to Take Action Following AI Order",
-      "excerpt": "U.S. President Joe Biden called on Congress to pass comprehensive legislation on artificial intelligence after invoking Cold War-era executive powers over private",
+      "path": "_news/2023-11-01-were-not-cruising-into-a-driverless-future-just-yet.md",
+      "title": "We’re Not Cruising Into a Driverless Future Just Yet",
+      "excerpt": "Autonomous vehicles roamed Austin this summer. Self-driving trucks shuttle freight across Texas. The autonomous future is here—but its arrival is fraught.",
       "sourceUrl": null,
-      "webUrl": "https://www.databreachtoday.com/biden-urges-congress-to-take-action-following-ai-order-a-23438",
-      "originalUrl": "https://www.databreachtoday.com/biden-urges-congress-to-take-action-following-ai-order-a-23438",
+      "webUrl": "https://www.texasmonthly.com/news-politics/driverless-cars-hit-brakes/",
+      "originalUrl": "https://www.texasmonthly.com/news-politics/driverless-cars-hit-brakes/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -405,112 +247,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T15:59:00-07:00",
+      "publishedDateTime": "2023-10-31T10:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "DataBreachToday",
-        "domain": "databreachtoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-advisor-addresses-intl-conference-on-artificial-intelligence-machine-learning.md",
-      "title": "Advisor addresses Intl Conference on Artificial Intelligence, Machine Learning",
-      "excerpt": "Advisor to Lieutenant Governor, Rajeev Rai Bhatnagar today addressed two-day International Conference on Artificial Intelligence, Machine Learning, and Intelligent Systems (ICAIMLIS) at Islamic University of Science and Technology (IUST) here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyexcelsior.com/advisor-addresses-intl-conference-on-artificial-intelligence-machine-learning/",
-      "originalUrl": "https://www.dailyexcelsior.com/advisor-addresses-intl-conference-on-artificial-intelligence-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Excelsior",
-        "domain": "dailyexcelsior.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-how-are-state-and-local-governments-navigating-ai-regulation.md",
-      "title": "How Are State and Local Governments Navigating AI Regulation?",
-      "excerpt": "President Joe Biden signed an executive order to regulate artificial intelligence, but how are state and local governments handling it? Many are exploring how AI can enhance services, while others are temporarily banning its use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/biz/data/how-are-state-and-local-governments-navigating-ai-regulation",
-      "originalUrl": "https://www.govtech.com/biz/data/how-are-state-and-local-governments-navigating-ai-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T15:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-president-biden-signs-executive-order-addressing-concerns-for-artificial-intelligence.md",
-      "title": "President Biden Signs Executive Order Addressing Concerns For Artificial Intelligence",
-      "excerpt": "President Joe Biden Monday signed what the administration sees as a 'landmark' Executive Order to 'seize on the promise', but also 'manage the risks' of artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.newson6.com/story/654030504da9fc06481854bc/president-biden-signs-executive-order-addressing-concerns-for-artificial-intelligence",
-      "originalUrl": "https://www.newson6.com/story/654030504da9fc06481854bc/president-biden-signs-executive-order-addressing-concerns-for-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News on 6",
-        "domain": "newson6.com",
+        "name": "Texas Monthly",
+        "domain": "texasmonthly.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -525,12 +266,12 @@
       ]
     },
     {
-      "path": "_news/2023-10-31-the-future-of-artificial-intelligence.md",
-      "title": "The Future of Artificial Intelligence",
-      "excerpt": "In this AI-driven age, staying informed is crucial as the future unfolds as a rich mosaic, interwoven with both challenges and opportunities Artificial Intelligence (AI) is no longer a buzzword confined to the realms of science fiction;",
+      "path": "_news/2023-10-31-google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold.md",
+      "title": "Google DeepMind, Isomorphic Labs Unveil Next Generation of AlphaFold",
+      "excerpt": "AlphaFold model shows significantly improved accuracy and expands coverage beyond proteins to other biological molecules, including ligands‍",
       "sourceUrl": null,
-      "webUrl": "https://kashmirreader.com/2023/10/31/the-future-of-artificial-intelligence/",
-      "originalUrl": "https://kashmirreader.com/2023/10/31/the-future-of-artificial-intelligence/",
+      "webUrl": "https://analyticsindiamag.com/google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold/",
+      "originalUrl": "https://analyticsindiamag.com/google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -540,11 +281,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T15:38:00-07:00",
+      "publishedDateTime": "2023-10-31T09:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Kashmir Reader",
-        "domain": "kashmirreader.com",
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -554,52 +295,17 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-iust-hosts-intl-conference-on-ai-machine-learning-and-intelligent-systems.md",
-      "title": "IUST hosts int’l conference on AI, Machine Learning and Intelligent Systems",
-      "excerpt": "A two-day International Conference on Artificial Intelligence, Machine Learning, and Intelligent Systems (ICAIMLIS) was today inaugurated at Islamic University of Science and Technology (IUST). Shri Rajeev Rai Bhatnagar,",
-      "sourceUrl": null,
-      "webUrl": "https://kashmirreader.com/2023/10/31/iust-hosts-intl-conference-on-ai-machine-learning-and-intelligent-systems/",
-      "originalUrl": "https://kashmirreader.com/2023/10/31/iust-hosts-intl-conference-on-ai-machine-learning-and-intelligent-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T15:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kashmir Reader",
-        "domain": "kashmirreader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
+        "Google AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-10-31-what-black-americans-should-know-about-bidens-executive-order-on-ai.md",
-      "title": "What Black Americans should know about Biden’s executive order on AI",
-      "excerpt": "In his historic order, President Biden seeks to advance equity and civil rights by directing federal agencies to establish clear […] The post What Black Americans should know about Biden’s executive order on AI appeared first on TheGrio.",
+      "path": "_news/2023-10-31-facial-recognition-tool-nets-over-6m-sim-card-fraudsters-in-india-in-6-months.md",
+      "title": "Facial recognition tool nets over 6M SIM card fraudsters in India in 6 months",
+      "excerpt": "The Facial recognition tool ASTR identifies a face by matching a photo or video against an image in the SIM card subscriber database.",
       "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/black-americans-know-biden-executive-223650969.html",
-      "originalUrl": "https://www.aol.com/news/black-americans-know-biden-executive-223650969.html",
+      "webUrl": "https://www.biometricupdate.com/202310/facial-recognition-tool-nets-over-6m-sim-card-fraudsters-in-india-in-6-months",
+      "originalUrl": "https://www.biometricupdate.com/202310/facial-recognition-tool-nets-over-6m-sim-card-fraudsters-in-india-in-6-months",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -609,11 +315,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T15:36:00-07:00",
+      "publishedDateTime": "2023-10-31T09:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -623,49 +329,17 @@
         "news"
       ],
       "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-10-31-biden-signs-order-establishing-standards-to-manage-artificial-intelligence-risks.md",
-      "title": "Biden signs order establishing standards to manage artificial intelligence risks",
-      "excerpt": "President Biden signed the government’s first executive order to establish new standards and rules for the use of artificial intelligence. It’s a wide-ranging set of rules and recommendations to address concerns about national security,",
+      "path": "_news/2023-10-31-scientists-identify-artificial-intelligence-tools-that-can-improve-mental-health.md",
+      "title": "Scientists identify Artificial Intelligence tools that can improve mental health",
+      "excerpt": "Scientists have identified an Artificial intelligence (AI) tool that could help improve mental health conditions of individuals.",
       "sourceUrl": null,
-      "webUrl": "https://www.pbs.org/newshour/show/biden-signs-order-establishing-standards-to-manage-artificial-intelligence-risks",
-      "originalUrl": "https://www.pbs.org/newshour/show/biden-signs-order-establishing-standards-to-manage-artificial-intelligence-risks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pbs.org/newshour/amp/show/biden-signs-order-establishing-standards-to-manage-artificial-intelligence-risks",
-      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/biden-signs-order-establishing-standards-to-manage-artificial-intelligence-risks",
-      "publishedDateTime": "2023-10-30T15:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PBS",
-        "domain": "pbs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-leveraging-machine-learning-for-advanced-business-analytics.md",
-      "title": "Leveraging machine learning for advanced business analytics",
-      "excerpt": "Artificial intelligence (AI) is gradually dominating today's entire world, and every sector and industry is exploiting AI's potential to revolutionize their own sectors. Machine learning techniques are being used by modern businesses and organizations to derive important",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/guest-articles/guest-opinion/leveraging-machine-learning-for-advanced-business-analytics.html",
-      "originalUrl": "https://itwire.com/guest-articles/guest-opinion/leveraging-machine-learning-for-advanced-business-analytics.html",
+      "webUrl": "https://nairametrics.com/2023/10/31/scientists-identify-artificial-intelligence-tools-that-can-improve-mental-health/",
+      "originalUrl": "https://nairametrics.com/2023/10/31/scientists-identify-artificial-intelligence-tools-that-can-improve-mental-health/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -675,11 +349,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T15:33:00-07:00",
+      "publishedDateTime": "2023-10-31T08:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
+        "name": "Nairametrics",
+        "domain": "nairametrics.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -689,17 +363,17 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-10-31-biden-signs-executive-order-aimed-at-creating-ai-safeguards.md",
-      "title": "Biden signs executive order aimed at creating AI safeguards",
-      "excerpt": "President Joe Biden signed a sweeping executive order Monday designed to create safeguards and security standards around artificial intelligence. (Oct. 30)",
+      "path": "_news/2023-10-31-ai-safety-use-cases-signing-off-on-financial-services-black-box.md",
+      "title": "AI safety use cases - signing off on Financial Services’ ‘black box’",
+      "excerpt": "Yes, there are stringent regulations that the banks are worried about. So, the use cases where they've adopted AI have, until now, been in places that auditors have scored as low risk. Areas like customer service, where they've used things like text analytics and simplistic AI. But now generative AI is coming into the picture.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/video/artificial-intelligence-executive-orders-united-states-government-national-national-27d10a7446ee4af991db09f71d7adb41",
-      "originalUrl": "https://apnews.com/video/artificial-intelligence-executive-orders-united-states-government-national-national-27d10a7446ee4af991db09f71d7adb41",
+      "webUrl": "https://diginomica.com/ai-safety-use-cases-signing-financial-services-black-box",
+      "originalUrl": "https://diginomica.com/ai-safety-use-cases-signing-financial-services-black-box",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -709,11 +383,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T15:31:00-07:00",
+      "publishedDateTime": "2023-10-31T08:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Diginomica",
+        "domain": "diginomica.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -723,16 +397,17 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-10-31-ct-artificial-intelligence-jobs-still-scarce-amid-big-push-and-looming-oversight.md",
-      "title": "CT artificial intelligence jobs still scarce amid big push — and looming oversight",
-      "excerpt": "As federal and Connecticut lawmakers scramble to control artificial intelligence, AI jobs are still scarce in this state.",
+      "path": "_news/2023-10-31-aws-adds-new-code-generation-models-to-amazon-sagemaker-jumpstart.md",
+      "title": "AWS Adds New Code Generation Models to Amazon SageMaker JumpStart",
+      "excerpt": "Subscribe for free. Today, we are excited to announce Code Llama foundation models, developed by Meta, are available for customers through Amazon SageMaker JumpStart to deploy with one click for ...",
       "sourceUrl": null,
-      "webUrl": "https://www.chron.com/business/article/ct-artificial-intelligence-ai-biden-blumenthal-18456485.php",
-      "originalUrl": "https://www.chron.com/business/article/ct-artificial-intelligence-ai-biden-blumenthal-18456485.php",
+      "webUrl": "https://www.infoq.com/news/2023/10/sagemaker-jumpstart-code/",
+      "originalUrl": "https://www.infoq.com/news/2023/10/sagemaker-jumpstart-code/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -742,11 +417,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T15:28:00-07:00",
+      "publishedDateTime": "2023-10-31T08:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
+        "name": "InfoQ",
+        "domain": "infoq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -756,16 +431,17 @@
         "news"
       ],
       "topics": [
+        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-10-31-records-show-first-responders-in-austin-struggling-to-respond-to-cruises-self-driving-cars.md",
-      "title": "Records show first responders in Austin struggling to respond to Cruise's self-driving cars",
-      "excerpt": "Austin's first responders grappled with how to manage Cruise's robot cars and their \"alarming\" behavior, records obtained by KUT show.",
+      "path": "_news/2023-10-31-romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves.md",
+      "title": "Romeo Miller Says Eminem “Doesn’t Get The Recognition He Deserves”",
+      "excerpt": "Romeo Miller recently received the Community Impact Award at the Future Stars Charity Gala, delivering a heartfelt speech connecting his success in entertainment to his success in sports. Real name Percy Miller first received a scholarship to hoop at USC,",
       "sourceUrl": null,
-      "webUrl": "https://www.kut.org/transportation/2023-10-30/records-show-first-responders-in-austin-struggling-to-respond-to-cruises-self-driving-cars",
-      "originalUrl": "https://www.kut.org/transportation/2023-10-30/records-show-first-responders-in-austin-struggling-to-respond-to-cruises-self-driving-cars",
+      "webUrl": "https://thesource.com/2023/10/31/romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves/",
+      "originalUrl": "https://thesource.com/2023/10/31/romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -775,11 +451,45 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T15:16:00-07:00",
+      "publishedDateTime": "2023-10-31T08:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KUT",
-        "domain": "kut.org",
+        "name": "The Source Magazine",
+        "domain": "thesource.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-comma-ai-self-driving-close-behind-tesla-fsd.md",
+      "title": "Comma AI Self Driving Close Behind Tesla FSD",
+      "excerpt": "Comma 3X gives a comfortable highway self driving experience based upon early reviews ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2023/10/comma-ai-self-driving-close-behind-tesla-fsd.html",
+      "originalUrl": "https://www.nextbigfuture.com/2023/10/comma-ai-self-driving-close-behind-tesla-fsd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -794,12 +504,12 @@
       ]
     },
     {
-      "path": "_news/2023-10-31-elon-musk-to-attend-rishi-sunaks-ai-safety-summit-in-bletchley-park.md",
-      "title": "Elon Musk to attend Rishi Sunak’s AI safety summit in Bletchley Park",
-      "excerpt": "Attendance of X owner is a boost for the event, which has been snubbed by Joe Biden and Emmanuel Macron",
+      "path": "_news/2023-10-31-8-major-ai-trends-in-the-fintech-industry-in-2023.md",
+      "title": "8 Major AI Trends In The Fintech Industry In 2023",
+      "excerpt": "Fintech is one of the most innovative industries, with new technologies and approaches being adopted much faster than anywhere else.",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/oct/30/no-10-fends-off-claims-rishi-sunak-being-snubbed-over-ai-safety-summit?ref=upstract.com",
-      "originalUrl": "https://www.theguardian.com/technology/2023/oct/30/no-10-fends-off-claims-rishi-sunak-being-snubbed-over-ai-safety-summit?ref=upstract.com",
+      "webUrl": "https://bmmagazine.co.uk/business/8-major-ai-trends-in-the-fintech-industry-in-2023/",
+      "originalUrl": "https://bmmagazine.co.uk/business/8-major-ai-trends-in-the-fintech-industry-in-2023/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -807,16 +517,152 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/30/no-10-fends-off-claims-rishi-sunak-being-snubbed-over-ai-safety-summit",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/30/no-10-fends-off-claims-rishi-sunak-being-snubbed-over-ai-safety-summit",
-      "publishedDateTime": "2023-10-30T15:10:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T07:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "Business Matters",
+        "domain": "bmmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-exploring-unfulfilled-frontiers-in-artificial-intelligence-what-awaits-us.md",
+      "title": "Exploring Unfulfilled Frontiers in Artificial Intelligence: What Awaits Us",
+      "excerpt": "The realm of Artificial Intelligence (AI) machine has been continuously evolving and advancing, reshaping our world in unprecedented ways. However, there are still some uncharted territories, some frontiers in AI that are yet to be fully realized.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/exploring-unfulfilled-frontiers-in-artificial-intelligence-what-awaits-us/",
+      "originalUrl": "https://techbullion.com/exploring-unfulfilled-frontiers-in-artificial-intelligence-what-awaits-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-pediatrician-fatally-stabbed-drivers-license-laws-and-dementia-doctors-wary-of-ai.md",
+      "title": "Pediatrician Fatally Stabbed; Driver's License Laws and Dementia; Doctors Wary of AI",
+      "excerpt": "Drugmaker Nostrum and its CEO have agreed to pay up to $50 million to settle claims for underpaying rebates owed under the Medicaid Drug Rebate Program, the Department of Justice said. The FDA expanded the indication of abatacept (Orencia) to include treatment of patients age 2 years and older with active psoriatic arthritis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/pediatrics/generalpediatrics/107081",
+      "originalUrl": "https://www.medpagetoday.com/pediatrics/generalpediatrics/107081",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-from-pixels-to-perception-exploring-uncharted-territory-in-artificial-intelligence-the-unfolding-advancements-in-computer-vision.md",
+      "title": "From Pixels to Perception: Exploring Uncharted Territory in Artificial Intelligence – The Unfolding Advancements in Computer Vision",
+      "excerpt": "In the ever-evolving landscape of technology, artificial intelligence (AI) stands at the forefront, reshaping the way we perceive the world. Among the various realms of AI, computer vision, the ability of machines to interpret and understand the visual world,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/from-pixels-to-perception-exploring-uncharted-territory-in-artificial-intelligence-the-unfolding-advancements-in-computer-vision/",
+      "originalUrl": "https://techbullion.com/from-pixels-to-perception-exploring-uncharted-territory-in-artificial-intelligence-the-unfolding-advancements-in-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-promise-robotics-wants-to-close-the-housing-gap-by-using-ai-to-make-housing-accessible-to-all.md",
+      "title": "Promise Robotics Wants To ‘Close The Housing Gap’ By Using AI To Make Housing Accessible To All",
+      "excerpt": "In an interview last week conducted over email, Promise Robotics co-founder and CEO Ramtin Attar explained the company helps the homebuilding industry address labor shortages, lower costs, and speed up construction by deploying automation at scale to the building of homes. This ranges from single-family dwellings to multi-story units.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevenaquino/2023/10/31/homebuilding-startup-promise-robotics-wants-to-close-the-housing-gap-by-using-ai-to-make-housing-accessible-to-all/",
+      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2023/10/31/homebuilding-startup-promise-robotics-wants-to-close-the-housing-gap-by-using-ai-to-make-housing-accessible-to-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -832,16 +678,17 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-10-31-artificial-intelligence-presents-unique-challenges-opportunities-for-education-in-nepa.md",
-      "title": "Artificial intelligence presents unique challenges, opportunities for education in NEPA",
-      "excerpt": "David Dzurec, Ph.D., gave his University of Scranton students a writing prompt. Their computers completed the assignment. The exercise about the history of the Jesuits was more about examining the answers artificial intelligence could provide — and how students can do better.",
+      "path": "_news/2023-10-31-zeroone-achieves-aws-machine-learning-competency-leading-the-mena-region.md",
+      "title": "Zero&One achieves AWS machine learning competency, leading the MENA region",
+      "excerpt": "This remarkable achievement underscores Zero&One's leadership in harnessing the transformative potential of cloud technology, empowering businesses to unlock new opportunities, enhance operational efficiency,",
       "sourceUrl": null,
-      "webUrl": "https://www.aol.com/artificial-intelligence-presents-unique-challenges-190400724.html",
-      "originalUrl": "https://www.aol.com/artificial-intelligence-presents-unique-challenges-190400724.html",
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/zero-and-one-achieves-aws-machine-learning-competency-leading-the-mena-region-quwh74gh",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/zero-and-one-achieves-aws-machine-learning-competency-leading-the-mena-region-quwh74gh",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -851,11 +698,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T15:04:00-07:00",
+      "publishedDateTime": "2023-10-31T05:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
+        "name": "Zawya",
+        "domain": "zawya.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -865,9 +712,198 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Finance",
         "AI",
-        "AI in Education"
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-tarjama-launches-cleverso-30-the-first-tms-with-an-arabic-ui-and-powered-by-arabic-ai.md",
+      "title": "Tarjama Launches CleverSo 3.0 – The First TMS with an Arabic UI and Powered by Arabic AI",
+      "excerpt": "Tarjama unveils CleverSo 3.0, its proprietary TMS packaged with new capabilities to power translation teams for AI-enabled translations.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/tarjama-launches-cleverso-3-first-tms-with-arabic-ui-powered-by-arabic-ai/",
+      "originalUrl": "https://slator.com/tarjama-launches-cleverso-3-first-tms-with-arabic-ui-powered-by-arabic-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-aws-in-orbit-series-premieres-on-the-t-minus-space-daily-podcast.md",
+      "title": "AWS in Orbit series premieres on the T-Minus Space Daily podcast",
+      "excerpt": "AWS in Orbit episode 1 is available today through the T-Minus Space Daily podcast on all major podcast platforms and at space.n2k.com/podcasts/t-minus. Episode Two, November 18, 2023: \"Securing the space frontier with AI cybersecurity solutions\" with special guest Buffy Wajvoda, Sr. Solutions Architect at AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-orbit-series-premieres-the-t-minus-space-/2023/10/31/9908042.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-orbit-series-premieres-the-t-minus-space-/2023/10/31/9908042.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-medica-remote-controlled-robotics-for-surgery-applications-what-potential-do-6g-and-ai-unfold.md",
+      "title": "Medica: Remote-controlled robotics for surgery applications – What potential do 6G and AI unfold?",
+      "excerpt": "One robot arm can be controlled by human hands through the ... we can obtain data that provide information about their state of mind,” says Matthias Rüb, a research associate on the team.",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/de/news823132",
+      "originalUrl": "https://idw-online.de/de/news823132",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.idw-online.de/de/institutionlogo31018",
+          "width": 1431,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-a-blueprint-for-unbiased-ai-that-benefits-all-leadership-tips-from-google-deepminds-obum-ekeke.md",
+      "title": "A blueprint for unbiased AI that benefits all - leadership tips from Google DeepMind's Obum Ekeke",
+      "excerpt": "The aim of Google’s DeepMind unit is to ensure that AI is built responsibly, and delivers scientific breakthroughs and products that improve lives across the world. This means developing AI systems that benefit society without reinforcing bias and unfairness, and can invent new ideas but also reliably behave in expected ways.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/blueprint-unbiased-ai-benefits-all-leadership-tips-google-deepminds-obum-ekeke",
+      "originalUrl": "https://diginomica.com/blueprint-unbiased-ai-benefits-all-leadership-tips-google-deepminds-obum-ekeke",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-wholly-ineffective-and-pretty-obviously-racist-inside-new-orleans-struggle-with-facial-recognition-policing.md",
+      "title": "‘Wholly ineffective and pretty obviously racist’: Inside New Orleans’ struggle with facial-recognition policing",
+      "excerpt": "In the summer of 2022, with a spike in violent crime hitting New Orleans, the city council voted to allow police to use facial-recognition software to track down suspects — a technology that the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2023/10/31/new-orleans-police-facial-recognition-00121427",
+      "originalUrl": "https://www.politico.com/news/2023/10/31/new-orleans-police-facial-recognition-00121427",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/9e/cf/ff64c42b4e81bb0ae47b73c4229a/facial-recognition-illo-v2.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

@@ -24,6 +24,17 @@ images:
     height: 300
     isCached: true
 
-secured: "ecpfmpXxIy/otv+FKVMsb1hz18GU6beRzhciWKXqmJNM09NnMVxE479Pe5O8mYVfXUq6DUqJJ70R1SyPpdz2DaPr+8oRTxLQ7wmLGl5IIAamefUdev5/tcAnyObibZGMotiuj2TL4HCXeZE97nM5vw9cKh4DHndl3lac1lFN7OPbvITNrEw3tnc0WdSDMc91sS2STXsSPsjsq359FlumLF5fK47Oxt1eJ0nvWoHNNuq3CFe41DP5JqXO+834mHEPr28TAq+T98qvl9OWQ/Ttd1UsCxfYgYVYrg0H06N82AiNvwRGbgppLlUlfOedYW7OSPKdUXirYMeCP3XexZdl1vLjUUueHUtnObXc9f9psIM=;pNMLmD8QDTDR8sQ1K6RG/Q=="
+related:
+  - title: "Global Service Robotics Market Expected to Reach $187.33 Billion by 2030, Driven by Increasing Adoption Across Industries"
+    excerpt: "The global service robotics market is set for substantial growth, with an anticipated value of US$ 187.33 billion by 2030, according to this report."
+    publishedDateTime: 2023-11-06T11:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/06/9911561.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
+
+secured: "SnbHb1Rfuxa7/neytc4Ncgf5K0SSJskiIyTz1Lw4d/6w0uNootdZIcwo7VLRTgZ/XoqyTW1XFA7OZPe/8RAIo/omYoHBCDmqe7csno/rBVp7z6mjv4r/1AS6uHXlvioQQdYt6Dpp0VieziKm3tyk1M01oWv/9QPs/KfOE05bap6j+skOpG8FoGz5f04k8n+sJT0pT5Q1rpj+FA+LT0+JIXpAopfd976fp7pF/oyBixXzSAJDLRR8Po+AdQ3XMYX/TRqNMv5x7diGs+QBUgnJ1Xj4y5LX17cVhHvC4Hhb7xonjGJCO1UuoASkAA65vcq6m0T35Dqvl7VCmEqqzFC8a2mkMn2FU6I//3r7U7pOEQ+lLrFlbhqwpyc/lxuimav2CtSXTKsdIA41vaDY+hPuWw5Fjuqj2ZDmgCAoocSgtrChuPbJsAM8QPpaqT9OFrc14aoIYpftH1OrqOWFyJjFuMSoh2TiKpJBMsb7sOwULBYVTTi2AJDuSimimFHHWBpbHzj3Qeb3u4DdJu2zTZHfrg==;3rtjuUDEG/xDaDHXygx8vw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://decrypt.co/204398/elon-musk-predicts-the-end-of-all-jobs-g
 webUrl: "https://decrypt.co/204398/elon-musk-predicts-the-end-of-all-jobs-google-ai-exec-disagrees"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,109 @@ provider:
 topics:
   - Google AI
   - AI
+
+related:
+  - title: "Elon Musk Says AI Will Take Jobs Away. Here’s Why That Won’t Happen"
+    excerpt: "What does the future of work look like a hundred years from now? Will AI really eliminate the need for jobs? Here's what you need to know as the market evolves."
+    publishedDateTime: 2023-11-06T09:59:00Z
+    webUrl: "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6548b81fd31405fdb2b23724/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1463
+        height: 900
+        isCached: true
+  - title: "Elon Musk’s new AI model doesn’t shy from questions about cocaine and orgies"
+    excerpt: "Elon Musk announced xAI's launch of an early beta version of \"Grok,\" an AI language model similar to ChatGPT that is designed to respond to user queries with a mix of information and humor. Grok reportedly integrates real-time data access from X (formerly Twitter)—and is apparently willing to tackle inquiries that might be declined by other AI systems due to content filters and conditioning."
+    publishedDateTime: 2023-11-06T15:05:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/11/elon-musks-new-ai-model-doesnt-shy-from-questions-about-cocaine-and-orgies/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/11/elon-musks-new-ai-model-doesnt-shy-from-questions-about-cocaine-and-orgies/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/elon-musks-new-ai-model-doesnt-shy-from-questions-about-cocaine-and-orgies/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/11/grok_tin_robot_hero_1-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Elon Musk to integrate artificial intelligence startup xAI with social media platform X"
+    excerpt: "The billionaire also said xAI released its first AI model, a bot named Grok, after making it available to all X Premium+ subscribers on Nov 3"
+    publishedDateTime: 2023-11-06T05:22:00Z
+    webUrl: "https://www.telegraphindia.com/business/elon-musk-to-integrate-artificial-intelligence-startup-xai-with-social-media-platform-x/cid/1977978"
+    ampWebUrl: "https://www.telegraphindia.com/amp/business/elon-musk-to-integrate-artificial-intelligence-startup-xai-with-social-media-platform-x/cid/1977978"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/elon-musk-to-integrate-artificial-intelligence-startup-xai-with-social-media-platform-x/cid/1977978"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 64
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Jul/1688444919_elon-musk.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "xAI, Elon Musk's AI Startup, to Be Integrated With X; Will Be Available as Standalone App"
+    excerpt: "Elon Musk 's artificial intelligence startup xAI will be integrated into his social media platform X and also be available as a standalone app, he said on Sunday in a post. The billionaire also said xAI released its first AI model, a bot named Grok, after making it available to all X Premium+ subscribers on Friday."
+    publishedDateTime: 2023-11-06T12:05:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/xai-elon-musk-ai-startup-to-be-integrated-with-x-will-be-available-as-standalone-app-4550545"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/xai-elon-musk-ai-startup-to-be-integrated-with-x-will-be-available-as-standalone-app-4550545/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/xai-elon-musk-ai-startup-to-be-integrated-with-x-will-be-available-as-standalone-app-4550545/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 48
+    images:
+      - url: "https://i.gadgets360cdn.com/large/xai_elon_musk_ai_startup_twitter_1689182796531.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Grok: AI Chatbot from Elon Musk’s xAI"
+    excerpt: "Delve into Elon Musk's Grok by xAI, a AI chatbot with real-time information retrieval, humor, and enhanced reasoning abilities. Find about Grok's technical backbone, Grok-1, its training, evaluation and much more."
+    publishedDateTime: 2023-11-06T16:44:00Z
+    webUrl: "https://www.unite.ai/grok-ai-chatbot-from-elon-musks-xai/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/11/Benchmark.png"
+        width: 1200
+        height: 439
+        isCached: true
+  - title: "Elon Musk to integrate his AI start-up with X"
+    excerpt: "Elon Musk has announced the integration of his AI startup, xAI, into his social media platform X, formerly called Twitter"
+    publishedDateTime: 2023-11-06T04:27:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/elon-musk-to-merge-artificial-intelligence-start-up-xai-with-x/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 37
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l50720231106093255.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "xAI, Elon Musk's AI Startup, to Release First AI Model to Select Group"
+    excerpt: "The team behind xAI, which launched in July, comes from Google's DeepMind, the Windows parent, and other top AI research firms."
+    publishedDateTime: 2023-11-04T10:46:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/xai-elon-musk-ai-startup-release-first-model-select-group-premium-plus-4545215"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 17
 
 secured: "mozXVwW+E+dXqax9Ir7c/4QKwKpeYsz/pDjyjA+kmoxUiFeSBCrQuaodRw3R3Qo0IWTj0wir9hR3DAMAsSTZlGA0evOmpQ8vxh59QOVvhhBVpLSVWj/LpzksRMxpigvoRmP5yNmCj6be0jgCUmiVud91e/ls39p5LTQirVDB4G61nVtSB/Pe4RXFncDT6v7BOso5Pu1AONH1i/pFTjWMn/OP7Wbw3e2SuQCsKXx+hZrmqTXbS/QHVrgzP+e3tpcSdJQhcQnjH/1roepxWe/4xxcfpNCnqmza639uxnT9DPPQX76qj3BAHDZuETcMtoTBV+0KDiO6S/l2gqOyL5ctlpmp9d2X5PQxh3/KD83L+oL1iirajNuh7UW8qbeP2fZV5IOC9p02UDYPBmx3iz3J5KyGuCDvG3yhP1dTZhNWhQaTNM2MEPxyZRI1g1Vwo4LbO1+YSCrqadgqXK7DFusCIZUVO8UWaxbfbB8qqB0ojpaArmKUCXGFWZy1jkGm2J1Oi6BKkum2+Rid3KTsHa0icQ==;xS5aZQQKtRAiJ+C1nJp/GQ=="
 ---

@@ -22,6 +22,29 @@ topics:
   - AI
 
 related:
+  - title: "Ant Receives Chinese Government Nod to Roll Out AI Services"
+    excerpt: "Ant Group received approval from the Chinese government to roll out products powered by its large language model Bailing to the public."
+    publishedDateTime: 2023-11-06T20:31:00Z
+    webUrl: "https://time.com/6332071/ant-ai-services-bailing/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 69
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/AP20301184742771.jpg?quality=85"
+        width: 6000
+        height: 4001
+        isCached: true
+  - title: "Alibaba's Ant Group Gets Chinese Govt Approval To Release AI Products"
+    excerpt: "Ant Group, the fintech affiliate of Chinese conglomerate Alibaba Group, has received approval from the Chinese government to offer"
+    publishedDateTime: 2023-11-06T15:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alibaba-s-ant-group-gets-chinese-govt-approval-to-release-ai-products-1032782312"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "Ant Group Wins Approval to Release AI Products to Chinese Public"
     excerpt: "SHANGHAI (Reuters) - Ant Group has received Chinese government approval to release products powered by its \"Bailing\" artificial intelligence (AI) large language model to the public, a spokesperson for the Chinese firm said on Monday."
     publishedDateTime: 2023-11-06T02:38:00Z

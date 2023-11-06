@@ -22,89 +22,121 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk Plans to Integrate New AI Project ‘Gork’ with X"
-    excerpt: "Grok was first given to some users last Friday and stands out because it can pull up information quickly from Musk's social media service"
-    publishedDateTime: 2023-11-06T03:06:00Z
-    webUrl: "https://www.gizmochina.com/2023/11/06/elon-musk-new-ai-integrate-x/"
+  - title: "Behold ‘Grok,’ Elon Musk’s AI chatbot with a ‘rebellious’ streak"
+    excerpt: "Brace yourselves. Jokes incoming. Elon Musk has announced the introduction of “Grok,” an artificially intelligent chatbot, for some users of X, which the billionaire suggests has a sarcastic sense of humor similar to his own."
+    publishedDateTime: 2023-11-06T12:27:00Z
+    webUrl: "https://www.cnn.com/2023/11/06/tech/grok-elon-musk-ai-chatbot-x-twitter/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/11/06/tech/grok-elon-musk-ai-chatbot-x-twitter/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/11/06/tech/grok-elon-musk-ai-chatbot-x-twitter/index.html"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230126152953-nightcap-012623-clip-1-16x9-nb.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Elon Musk Announces Grok, a ‘Rebellious’ AI Without Guardrails"
+    excerpt: "AI, Elon Musk’s new company, claims to have built a powerful language model with cutting-edge performance in just two months."
+    publishedDateTime: 2023-11-06T16:24:00Z
+    webUrl: "https://www.wired.com/story/elon-musk-announces-grok-a-rebellious-ai-without-guardrails/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
     quality: 67
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/11/Elon-Musks-AI-Startup-xAI-Releases-Grok-a-Chatbot-That-Outperforms-ChatGPT-3.5.jpg"
-        width: 1200
-        height: 628
+      - url: "https://media.wired.com/photos/6548fb02d5bc3d09424c3db3/191:100/w_1280,c_limit/musk-biz-grok-GettyImages-1768682028-(1).jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "Elon Musk to integrate artificial intelligence startup xAI with social media platform X"
-    excerpt: "The billionaire also said xAI released its first AI model, a bot named Grok, after making it available to all X Premium+ subscribers on Nov 3"
-    publishedDateTime: 2023-11-06T05:22:00Z
-    webUrl: "https://www.telegraphindia.com/business/elon-musk-to-integrate-artificial-intelligence-startup-xai-with-social-media-platform-x/cid/1977978"
-    ampWebUrl: "https://www.telegraphindia.com/amp/business/elon-musk-to-integrate-artificial-intelligence-startup-xai-with-social-media-platform-x/cid/1977978"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/elon-musk-to-integrate-artificial-intelligence-startup-xai-with-social-media-platform-x/cid/1977978"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 64
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2023/Jul/1688444919_elon-musk.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Elon Musk launches his new company, xAI"
-    excerpt: "Elon Musk, CEO of Tesla and SpaceX, and owner of Twitter, on Wednesday announced the debut of a new artificial intelligence company, xAI, with the goal to “understand the true nature of the universe.” According to the company’s website,"
-    publishedDateTime: 2023-11-06T03:31:00Z
-    webUrl: "https://www.emirates247.com/technology/elon-musk-launches-his-new-company-xai-2023-11-06-1.727755"
-    ampWebUrl: "https://www.emirates247.com/technology/elon-musk-launches-his-new-company-xai-2023-11-01-1.727755?ot=ot.AMPPageLayout"
-    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/elon-musk-launches-his-new-company-xai-2023-11-01-1.727755?ot=ot.AMPPageLayout"
-    type: article
-    provider:
-      name: Emirates247
-      domain: emirates247.com
-    quality: 59
-    images:
-      - url: "https://www.emirates247.com/polopoly_fs/1.727756.1699241480!/image/image.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Elon Musk to integrate his AI start-up with X"
-    excerpt: "Elon Musk has announced the integration of his AI startup, xAI, into his social media platform X, formerly called Twitter"
-    publishedDateTime: 2023-11-06T04:27:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/elon-musk-to-merge-artificial-intelligence-start-up-xai-with-x/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 37
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l50720231106093255.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Elon Musk’s AI startup, xAI, is to be integrated with social media platform X"
-    excerpt: "Artificial intelligence startup xAI, which was founded by Elon Musk, is going to be merged into the famous social media platform X."
-    publishedDateTime: 2023-11-06T06:25:00Z
-    webUrl: "https://www.domain-b.com/people/in-the-news/elon-musk-s-ai-startup-xai-is-to-be-integrated-with-social-media-platform-x"
-    type: article
-    provider:
-      name: Domain-b
-      domain: domain-b.com
-    quality: 34
-    images:
-      - url: "https://www.domain-b.com/Uploads/Images/57f4f8a0-f838-48c2-82ba-ff388ecfeb04-Elon-Musk(1).png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "xAI, Elon Musk's AI Startup, to Release First AI Model to Select Group"
-    excerpt: "The team behind xAI, which launched in July, comes from Google's DeepMind, the Windows parent, and other top AI research firms."
-    publishedDateTime: 2023-11-04T10:46:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/xai-elon-musk-ai-startup-release-first-model-select-group-premium-plus-4545215"
+  - title: "Elon Musk Announces 'Grok' AI Chatbot for X Premium+ Subscribers, to Compete With ChatGPT"
+    excerpt: "AI's new Grok chatbot will be available to X Premium+ subscribers via the microblogging platform and a standalone app."
+    publishedDateTime: 2023-11-06T06:32:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/elon-musk-grok-ai-chatbot-unveiled-for-x-premium-plus-subscribers-4549211"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/elon-musk-grok-ai-chatbot-unveiled-for-x-premium-plus-subscribers-4549211/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/elon-musk-grok-ai-chatbot-unveiled-for-x-premium-plus-subscribers-4549211/amp"
     type: article
     provider:
       name: gadgets360
       domain: gadgets360.com
+    quality: 48
+    images:
+      - url: "https://i.gadgets360cdn.com/large/Musk_twitter_reuters_large_1666930091840.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Grok vs ChatGPT: How Does Elon Musk’s AI Chatbot Stack Up?"
+    excerpt: "Elon Musk and xAI have unveiled Grok, a new AI chatbot designed to beat ChatGPT. Is it any good and how do the two compare? Let's take a look."
+    publishedDateTime: 2023-11-06T17:10:00Z
+    webUrl: "https://tech.co/news/grok-vs-chatgpt-elon-musk-ai"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/11/06064406/AdobeStock_673546765_Editorial_Use_Only-1-e1699271108110.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
+  - title: "xAI, Elon Musk’s AI Startup, Unveils its “Grok” Chatbot"
+    excerpt: "AI, Elon Musk’s new AI startup has just put the wraps off its first AI chatbot named Grok. It's currently available as a limited beta in the US."
+    publishedDateTime: 2023-11-06T15:08:00Z
+    webUrl: "https://www.thurrott.com/cloud/292358/xai-grok-chatbot"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 37
+    images:
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2023/11/xAI-Grok.jpg"
+        width: 1066
+        height: 600
+        isCached: true
+  - title: "Elon Musk's AI Startup xAI Releases 'Grok' - A Chatbot Equipped with Real-Time Knowledge"
+    excerpt: "Elon Musks AI startup, xAI, has unveiled their latest creation - Grok, an artificial intelligence chatbot that boasts superiority over OpenAIs initial ChatGPT in various academic tests. The development of Grok aims"
+    publishedDateTime: 2023-11-06T06:08:00Z
+    webUrl: "https://www.econotimes.com/Elon-Musks-AI-Startup-xAI-Releases-Grok-A-Chatbot-Equipped-with-Real-Time-Knowledge-1665566"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 28
+    images:
+      - url: "https://f1.econotimes.com/2023/11/jjaz9n2rya_th_1024x0.jpeg"
+        width: 1024
+        height: 640
+        isCached: true
+  - title: "Elon Musk releases ‘spicy’ AI chatbot that loves sarcasm"
+    excerpt: "The billionaire has unveiled his generative AI model with more personality than its rivals, in a challenge to Microsoft-backed OpenAI and Google."
+    publishedDateTime: 2023-11-06T02:17:00Z
+    webUrl: "https://www.afr.com/technology/elon-musk-releases-spicy-ai-chatbot-that-loves-sarcasm-20231106-p5ehwr"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 19
+  - title: "Elon Musk unveils Grok, an AI chatbot with a ‘rebellious streak’"
+    excerpt: "Boss of X said the tech currently being tested is inspired by Hitchhiker’s Guide to the Galaxy"
+    publishedDateTime: 2023-11-05T12:23:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/nov/05/elon-musk-unveils-grok-an-ai-chatbot-with-a-rebellious-streak"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 17
+  - title: "Nearly 400 crypto tokens based on Elon Musk's new X (Twitter) AI chatbot hit the market"
+    excerpt: "Opportunistic players in the crypto space have not hesitated to capitalize on the hype around the term “Grok” since Musk’s announcement."
+    publishedDateTime: 2023-11-06T21:47:00Z
+    webUrl: "https://www.thestreet.com/crypto/innovation/nearly-400-crypto-tokens-based-on-elon-musks-new-x-twitter-ai-chatbot-hit-the-market"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 9
 
 secured: "URXc0vE1KJW8ZXIFS+2YR0KOnQF9y3hD2R3taqdnJGJJAW4qF6RORRT335boL147/COSGsWho0k0Vo3CZcZguTaJHnORG/srGkykHXM/a+GzK+qRnxFOpPWLhCenujSzAb3boycmOigEXKL1ub+iUeus5ilelR9blEfF4z5hx5tExWv/k8p8ko2e19sTu+eZyH+DKyy9Ar8Kpc2koI+ZWZNYqJxbOYnOCYrro1mm4RmXcUup19Lkdug8M+nlm52oPFGg3HqOVo4ZaX6UHeFAj11bHtrX/05D+8vuMzdjBSLSzIcREOyGB3dtOA8BFrXkDXAslRbhtSS8OkHKWn0BVed9SX0ypo/e8TBcgdE5yf/WMK3VRSy07G6pl6SWA+DtkstKzQETGzKHbisYTJcKaFEchF73eBY+q01CLEhu7DdBfdnp08DadBqOpBIvmhdhwmNvc76a1aIlI/bUZY6fhmr6RXkDatan7R80bLnlnN6Gb1xwaeok9OUqnLWk9yxNt6W0darlj4sL1D0w9YQb7g==;pXLhu+ObYMhLRaZf5qiUmA=="
 ---

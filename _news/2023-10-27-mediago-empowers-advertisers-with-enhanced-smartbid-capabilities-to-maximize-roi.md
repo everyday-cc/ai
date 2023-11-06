@@ -1,20 +1,20 @@
 ---
 category: news
 title: "MediaGo Empowers Advertisers with Enhanced Smartbid Capabilities to Maximize ROI"
-excerpt: "MediaGo, a deep learning-based intelligent advertising platform under the Baidu Global Business Unit, today announced it has upgraded"
-publishedDateTime: 2023-10-27T08:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-to-maximize-roi-301969618.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-to-maximize-roi-301969618.html"
+excerpt: "Leveraging deep learning technology, MediaGo's new Smartbid feature creates tangible value for performance advertisers by effectively managing the bidding process. The Smartbid model, built on a deep neural network with over 1 billion parameters, enables significant improvements in ad performance for advertisers at all scales."
+publishedDateTime: 2023-10-27T09:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-maximize-/2023/10/27/9906693.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-maximize-/2023/10/27/9906693.htm"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "nlg+Avj9eiZKRTg8Nr3TIifOZFu7g7ovgyfmni7DkUyOHD2UXOhbJ46xS1arblmVU6qIR3hdj2+CTr1QzAomEdtVsNPrDB3llAxzz3TApjQOCL1EHRMxUX+6Iws4UyscXfSZpTR5y3s66NwvpSlRp1Ya3+c0XXeXMCUJzXUHVUFWW9yt6i1WjZMXgibo7YBTnPJRr6ioCpokr9J74mb20GEN1n13SKvrIUCo27Dq8v7vl54YybFaQPp6GFK6g7TRTO/2oKhycMvQQ3KYOO3xW9nEJqaXRJMJI5e4G/AExMfiZ7+Wtveyn9k4rxTQr8sBoJK7ykpe5twPNPrnlFNW4vDipr+bvciH/fatg8zNyhY=;onhGzIeYW/5l9FOf2dsbnw=="
+secured: "J13uXY2NURCkJov3O25r1tGEGY8g5dtqdu7W8epvIDLF0QQFf6ztCkndbZoWHDQROyvrtevXbKSRb/2XpCzOoRCsYNujoYQsHx7q8+iN8q8JvJuOwjNBKwLFB3txJItPc6t1i41JbCvrC+cEBIZfUidhIPfGE52ZL9kkQr07T/pabulhKPLwx639sI4E/v+3pjl6kapWXVtF50+XYsy0eis3rP0NnMN3FYeLmXhAjh1sHFhC7T3kSwzVBufXIYRbmt9ejFUS8w7aHHXFu2vlnMc9Zh+nMqA6B3vzmpI/TBtLT84JC9JfozlRSo6pkLed3hKvMawYrSGq2rcswoPJXp7YUTRhLxz0IrhRCH31rRg=;l1yLIJu5wZgh0bG2EC4dZg=="
 ---
 

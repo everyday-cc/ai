@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "GE HealthCare Announces New Data Validating Artificial Intelligence Models for Predicting Patient Response to Immunotherapies"
+    excerpt: "New data supports the potential role of Artificial Intelligence (AI ... After regional regulatory approvals, GE HealthCare plans to commercialize the models for use both in pharmaceutical drug ..."
+    publishedDateTime: 2023-11-03T05:49:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 37
   - title: "GE Healthcare Announces New Data Validating Artificial Intelligence Models For Predicting Patient Response To Immunother..."
     excerpt: "GE HealthCare's Artificial Intelligence (AI) models predict patient response to immunotherapies with 70 to 80 percent accuracy1,"
     publishedDateTime: 2023-11-02T21:38:00Z
@@ -29,6 +38,6 @@ related:
       domain: menafn.com
     quality: 8
 
-secured: "y8wcB+SBDLqZTGj6SVWFy0eTAFE4idNhLj2+m8WTQ0IuObMPUnw0hLt3Mmnuuy9V7YWWLBz86j4UHU2uG9lBBbPJLljVyQYujA+XGUQ8f1Wj+cKbFZMqnT+zkJNePbeVr0gaul8E/s/l6IbkZe8fX7JeXFnZpKtvmOFKcoQ7x0lNxVzQR7fpkTp04sQyTJFGKopnN8uWsRO62sJK84N9iC1ScZpP6+UANM/hxYNw+qmd2RL/43ZQ8So4JCM0V6v42SiPAaqLYZg3TEb41LMWiUzUPhcuXUgllDZiSWEFi/w4zhUt4y2jdPI36FxU2qO/6PxfceoRPhmzrf4lFYa636U7kCeXtPAdW4j67c1ba2o=;9Zl+9Vje89MqzQIl6c37TQ=="
+secured: "uLAoF56gUNPzDMFXqzDnpj7rf9DnsclqG/xpZqt+Kk/H70cc7DJ5axYyD2n/TakIxhWut0KPPf+0IEbWpSAj82Jc2xU3zEzq/trztP0UGlkZqzPy5NDeCag3WojzjfcHGAQKh9fNJATLW/uTfQHGxfzwsmODief3kuBaaC1a5/zdRBKCGspM74C00x0b5VL8ss7mwRaF3Nq1HVF4D4G/lIN3t565F9YhOhLMEXfzH/Jg7fKXLpEtmtzhnnZR1WvuHtX5maIX65fo3SXxnyd1+7JvTaLm/q0k+racj2dF+PbKVgjUTTH1K3Ow6IT4YVLp+3rXVxwLVZ9VSuSGSSKdtdT6aalqAQ6FKso0oSskQPo=;YaaJsuU8XDL9r12XgTO9mQ=="
 ---
 

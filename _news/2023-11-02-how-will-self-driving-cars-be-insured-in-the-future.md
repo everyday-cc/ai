@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Here's where self-driving cars are crashing in San Francisco"
-    excerpt: "San Francisco has become the world’s testing ground for autonomous-vehicles. But as companies such as Cruise, Waymo and Zoox have increased the number of self-driving car on city streets, the number of crashes involving those cars is also on the rise."
-    publishedDateTime: 2023-11-01T22:20:00Z
-    webUrl: "https://www.sfexaminer.com/news/transit/heres-where-self-driving-cars-are-crashing-in-san-francisco/article_b96db122-7518-11ee-953b-0f63b183358a.html"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 4
   - title: "Cruise faces a safety reckoning that will determine its self-driving future"
     excerpt: "General Motors-backed Cruise faces a \"watershed moment\" after its driverless permits were suspended by California regulators, who say the company’s robotaxis are \"not safe\" for public roads and allege Cruise misrepresented circumstances surrounding an injury-related crash."
     publishedDateTime: 2023-11-02T21:01:00Z

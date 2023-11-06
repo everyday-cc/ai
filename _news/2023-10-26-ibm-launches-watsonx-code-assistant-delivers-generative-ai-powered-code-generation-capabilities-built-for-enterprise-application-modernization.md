@@ -2,25 +2,25 @@
 category: news
 title: "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization"
 excerpt: "Designed to accelerate development while maintaining the principles of trust, security, and compliance, the product leverages generative AI based on IBM's Granite foundation models for code ..."
-publishedDateTime: 2023-10-26T05:36:00Z
-originalUrl: "https://www.victoriaadvocate.com/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise/article_81182a0a-df92-5e6f-8f80-73d265ea0585.html"
-webUrl: "https://www.victoriaadvocate.com/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise/article_81182a0a-df92-5e6f-8f80-73d265ea0585.html"
+publishedDateTime: 2023-10-26T05:31:00Z
+originalUrl: "https://www.news-journal.com/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise/article_db9e6f19-8513-5022-9b09-99cd365025cc.html"
+webUrl: "https://www.news-journal.com/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise/article_db9e6f19-8513-5022-9b09-99cd365025cc.html"
 type: article
 
 provider:
-  name: The Victoria Advocate
-  domain: victoriaadvocate.com
+  name: Longview News-Journal
+  domain: news-journal.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/5/3f/53f15a50-5025-55b5-bfbe-8ea7ddc19046/6539eb5c04d54.image.jpg?crop=1154%2C606%2C0%2C21&resize=1154%2C606&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/2/da/2da77c9f-d9ab-55d4-b973-daa8f88f70dd/6539eb696cc4c.image.jpg?crop=1154%2C606%2C0%2C21&resize=1154%2C606&order=crop%2Cresize"
     width: 1154
     height: 606
     isCached: true
 
-secured: "TkXR648B4uelPvZQzfcnE0VuEEHfiXhllOd3NCVF6U/4xlyMgKjSw+MCI/Q54nVnGZPJnJbym3UMFWMLCD8RFS4nUKM9S90+BSHgwN8ENTkIUvZ7CEIERRmJ4Ib8bxeZ5C+NujJz7mLZdAQQK6oU4yasM8NUZMAagTYK8BndydKJHFDJaqXo9zwQ0iUG6hwcvrRu+I4m4jZYXSs8GiO0vtpvqXknO4P5vtofZ9ofs/Fef6MTD0aYk7CQOllScebLsSIBbutzFWYPLvaS5IGTKVRT+xu4pch/9LNqSrSrEvAbi66okOC9xoJNsK+6bwUkj860hHTTba505vMPIUqrpSbwXMLYZ/eVFXH0X+mzi6Y=;9/Gs6ybn+mg5f8PUCCw4bg=="
+secured: "Vw2DQbl16qPVWrFirk7krqUjhF/HgHeJ5Jw+UuezRL+SODe6Ej0gCNNoDvxijIOVykPtBd3dB5HoVmCC/pdiDFWjjyoRlgi8Ewwr/8nDMLR7MTyYmUS9mHbUJyDXgruQB2j7SnwAwL3gcTNaD+pzJOh1y6Gh6gm86qw9Y+dgFKMS4leYMA6PGTjtcEoC6NHzp3zm3Jm0yGY5OYmsWpeMXODx44DLIsjwvzYkym49K3ioyOFE/2unIJ5B1KOoPDU8VzSNexvDCc6NVQKu3KxzoFrSHLBCB6WOJyUNiXteppmZVULUJA3PFzyFZqws1iwdujlBgMGw1MWCXd7OrraZgD0F8QOLEnrvEKTSNCKzPhI=;rMAYPXqRoGEkR/Sz0dgObw=="
 ---
 
