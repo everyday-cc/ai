@@ -3,12 +3,9 @@ category: news
 title: "Media Alert: BrainChip Hosts 'Sustainable Cities Using Smart Efficient AI' Workshop at Hackster.io Impact Summit 2023"
 excerpt: "Todd Vierra, Vice President Customer Engagement at BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, will lead a workshop entitled \"Sustainable Cities Using Smart Efficient AI\" at the Hackster.io Impact Summit 2023 November 15."
 publishedDateTime: 2023-10-30T21:59:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/10/30/9907816.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/10/30/9907816.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-media-alert-brainchip-hosts-sustainable-cities-using-smart-/2023/10/30/9907816.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-media-alert-brainchip-hosts-sustainable-cities-using-smart-/2023/10/30/9907816.htm"
 type: article
-quality: 11
-heat: 11
-published: false
 
 provider:
   name: TMCnet
@@ -18,6 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "sifsOSj5VpRsg4l5syFJFdI6wkZtd9eNYJeCwajSNh2+7bYX7lGCk55HEgp9p2PyBCoBTAsj9rA1sWAGgp/VAI68f1rCjtmA0DAS4Vra6gjlV3csFLIBEBL4o1vbZS53E4HrVx7s4sqFyyyR08gfdqN0NbdwAwFw8d0oeFi3VzUpFFc+3Jca0RNAs3inrs0ydcHloX1NFL067UzxHLOq/q676HF9u3sRoCwZbx7M4PnojERcRKCOdDxD9Cs7QAS7zR4T/yg4pgr5wVVKgRc+cshFv5OzviUVv9V+7Bez/+Y8X5PVPASGnfbgWiu0iO+TtfwkkvfrEbed8khfahQTQqmnl818nfKbz0/IiUpbhRE=;gWcmHLujed1QgQzsj5zY5g=="
+secured: "zBEh12ygthU6wuOXdW3OYxVZfGTVzg7bubDyUOLuht0p5OhhAcvdD8qYCd7hgAHnbHkVx9FkHhensNjphpeW0KBOrTjMLRNkGoMY1HMDhsTXS+cN+WQHtnqXOYBv6AP4qJi9SDdbG+ZSsK8KafXiKF5KFySGnK0GPEZq8OUtSgjGl2b3Alfky66pW5Vu1UO/bsSn8N/JY3W4OqBRNmW7SVHFo6j916HG+nK2tAkbEKnJBwYV44GWnr5M3XlL3ofJMUMRlU432SGZB/7YemUEp+AofcMbVDrkJWVEM4cQesM3CPThiUghSO8NHD+YruMzsxFjsK9td8vfYZu1Olgh/VTsUQ/iF2m/r+l7OvgMmxo=;HVFWII+BkAQ/Ijix7k5nCA=="
 ---
 

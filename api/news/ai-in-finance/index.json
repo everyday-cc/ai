@@ -2,6 +2,335 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-01-netnut-enters-the-fintech-market-with-multiple-new-customers.md",
+      "title": "NetNut Enters the Fintech Market with Multiple New Customers",
+      "excerpt": "The fintech market leveragestechnologies such as AI (artificial intelligence), RPA (robotic process automation), and big data to enhance financial services and activities TEL AVIV, Israel, Oct. 31, 2023 (GLOBE NEWSWIRE) -- Alarum Technologies Ltd. (Nasdaq ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/netnut-enters-the-fintech-market-with-multiple-new-customers-1032758906",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/netnut-enters-the-fintech-market-with-multiple-new-customers-1032758906",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-snowflake-accelerates-how-users-build-next-generation-apps-and-machine-learning-models-in-the-data-cloud.md",
+      "title": "Snowflake Accelerates How Users Build Next Generation Apps and Machine Learning Models in the Data Cloud",
+      "excerpt": "Snowflake Notebooks unlock data exploration and machine learning development for SQL and Python users ... With Snowpark Container Services (public preview soon in select AWS regions), developers can run any component of their app — from ML training ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/snowflake-accelerates-how-users-build-next-generation-apps-and-machine-learning-models-in-the-data-cloud",
+      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/snowflake-accelerates-how-users-build-next-generation-apps-and-machine-learning-models-in-the-data-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/11/bw20231101058683_snowflake_snowday23_pr_images_notebooks.jpeg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-ai-safety-use-cases-signing-off-on-financial-services-black-box.md",
+      "title": "AI safety use cases - signing off on Financial Services’ ‘black box’",
+      "excerpt": "Yes, there are stringent regulations that the banks are worried about. So, the use cases where they've adopted AI have, until now, been in places that auditors have scored as low risk. Areas like customer service, where they've used things like text analytics and simplistic AI. But now generative AI is coming into the picture.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-safety-use-cases-signing-financial-services-black-box",
+      "originalUrl": "https://diginomica.com/ai-safety-use-cases-signing-financial-services-black-box",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-8-major-ai-trends-in-the-fintech-industry-in-2023.md",
+      "title": "8 Major AI Trends In The Fintech Industry In 2023",
+      "excerpt": "Fintech is one of the most innovative industries, with new technologies and approaches being adopted much faster than anywhere else.",
+      "sourceUrl": null,
+      "webUrl": "https://bmmagazine.co.uk/business/8-major-ai-trends-in-the-fintech-industry-in-2023/",
+      "originalUrl": "https://bmmagazine.co.uk/business/8-major-ai-trends-in-the-fintech-industry-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Matters",
+        "domain": "bmmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-zeroone-achieves-aws-machine-learning-competency-leading-the-mena-region.md",
+      "title": "Zero&One achieves AWS machine learning competency, leading the MENA region",
+      "excerpt": "This remarkable achievement underscores Zero&One's leadership in harnessing the transformative potential of cloud technology, empowering businesses to unlock new opportunities, enhance operational efficiency,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/zero-and-one-achieves-aws-machine-learning-competency-leading-the-mena-region-quwh74gh",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/zero-and-one-achieves-aws-machine-learning-competency-leading-the-mena-region-quwh74gh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-real-time-ai-is-a-game-changer-for-fintech-startups-heres-how.md",
+      "title": "Real-time AI is a game changer for fintech startups: Here’s how",
+      "excerpt": "The artificial intelligence (AI) sector in India has seen incredible growth over the last few years and is projected to",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/real-time-ai-is-a-game-changer-for-fintech-startups-heres-how/",
+      "originalUrl": "https://www.dqindia.com/real-time-ai-is-a-game-changer-for-fintech-startups-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-capturehk-expands-team-with-appointment-of-jason-law-as-chief-product-officer-to-build-ai-and-machine-learning-based-services.md",
+      "title": "Capture.HK Expands Team with Appointment of Jason Law as Chief Product Officer to Build AI and Machine Learning Based Services",
+      "excerpt": "MelloMoney tackling the global issue of teaching 5-13 year old children how to develop healthy financial habits ... Through advanced algorithms and machine learning, the AI system intelligently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sinchew.com.my/news/20231031/mysinchew/5094673",
+      "originalUrl": "https://www.sinchew.com.my/news/20231031/mysinchew/5094673",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sinchew",
+        "domain": "sinchew.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-ai-and-machine-learning-in-uk-financial-services-the-public-response-to-the-fca-and-pra.md",
+      "title": "AI and Machine Learning in UK financial services: the public response to the FCA and PRA",
+      "excerpt": "in financial services and mentioned a joint paper published by the Prudential Regulation Authority (PRA) and Financial Conduct Authority (FCA) on AI and machine learning DP5/22 - Artificial Intelligence and Machine Learning | Bank of England (DP).",
+      "sourceUrl": null,
+      "webUrl": "https://www.jdsupra.com/legalnews/ai-and-machine-learning-in-uk-financial-3494530/",
+      "originalUrl": "https://www.jdsupra.com/legalnews/ai-and-machine-learning-in-uk-financial-3494530/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "JD Supra",
+        "domain": "jdsupra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-biden-signs-ai-executive-order-tech-majors-see-gains-higher-than-broader-tech-index.md",
+      "title": "Biden Signs AI Executive Order, Tech Majors See Gains Higher Than Broader Tech Index",
+      "excerpt": "With the year 2023 almost at its end, the crypto, digital asset and AI space has seen some major changes in terms of regulations and operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/fintech/23/10/35501962/biden-signs-ai-executive-order-tech-majors-see-gains-higher-than-broader-tech-index",
+      "originalUrl": "https://www.benzinga.com/fintech/23/10/35501962/biden-signs-ai-executive-order-tech-majors-see-gains-higher-than-broader-tech-index",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35501962",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35501962",
+      "publishedDateTime": "2023-10-30T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-waiting-for-fintech-the-moment-at-money2020.md",
       "title": "Waiting For Fintech – The Moment At Money2020",
       "excerpt": "This year’s Money20/20 just wrapped up. I asked leading venture capitalists and CEOs of fintechs for their reflections. Here are five.",
@@ -248,6 +577,41 @@
       ]
     },
     {
+      "path": "_news/2023-10-25-veracode-reveals-automation-and-training-are-key-drivers-of-software-security-for-financial-services.md",
+      "title": "Veracode Reveals Automation and Training Are Key Drivers of Software Security for Financial Services",
+      "excerpt": "The Power of AI and Machine Learning The State of Software Security report also analyzed language preference by vertical and found, at 51 percent, Java is almost a de facto standard within the Financial Services sector. Veracode Fix, an AI-powered ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-10-24-yahoo-finances-next-how-rivals-are-taking-on-nvidia-in-the-ai-chip-race.md",
       "title": "Yahoo Finance's NEXT: How rivals are taking on Nvidia in the AI chip race",
       "excerpt": "Nvidia (NVDA) is dominating the AI chip market, but it may not hold onto that lead for long. Traditional semiconductor rivals like AMD (AMD) and Intel (INTC) are entering the AI space, but so are Big Tech names like Microsoft (MSFT) and Alphabet (GOOGL).",
@@ -446,8 +810,8 @@
       "title": "Galileo Payment Risk Platform Now Available to the Entire Financial Services Ecosystem",
       "excerpt": "SALT LAKE CITY--(BUSINESS WIRE)--Galileo Financial Technologies ... client risk appetite Utilize advanced data elements embedded into enhanced rules and machine learning-based models, taking into account entities such as merchants, channels, geo-locations ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231019333126/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20231019333126/en/",
+      "webUrl": "https://www.businesswire.com/news/home/20231019333126/en/Galileo-Payment-Risk-Platform-Now-Available-to-the-Entire-Financial-Services-Ecosystem",
+      "originalUrl": "https://www.businesswire.com/news/home/20231019333126/en/Galileo-Payment-Risk-Platform-Now-Available-to-the-Entire-Financial-Services-Ecosystem",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -457,7 +821,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T00:59:00-07:00",
+      "publishedDateTime": "2023-10-19T07:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -874,485 +1238,6 @@
         "AI in Finance",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments.md",
-      "title": "Indian Fintech Razorpay Launches AI-Powered Solution to Streamline Digital Payments",
-      "excerpt": "Indian Fintech firm Razorpay introduces what it claims is India’s \"first\" AI-powered payments Infinity Router – Razorpay Optimizer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/India-Money-Rupees-Coins-1.jpeg",
-          "width": 1600,
-          "height": 1291,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/",
-      "publishedDateTime": "2023-10-11T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas.md",
-      "title": "Generative AI Is As Transformative As The Telephone, Bank Of America Says: 10 Stock, ETF Trading Ideas",
-      "excerpt": "Artificial intelligence has been on the minds of companies and investors throughout 2023 as one of the top trending items. Bank of America noted the impact artificial intelligence can have on several sectors going forward and made the claim it could be highly disruptive.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/11/shutterstock_2350706053.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.md",
-      "title": "AI bias poses danger to the financial sector, Bank of England warns",
-      "excerpt": "A new report from a financial technology expert at the Bank of England says that inherent biases in AI systems makes it dangerous to entrust them with too much decision-making at present.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.html",
-      "originalUrl": "https://www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/10/ai-artificial-intelligence-bank-financial-sector-100947057-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.amp.html",
-      "publishedDateTime": "2023-10-11T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-arangographml-simplifying-the-power-of-graph-machine-learning.md",
-      "title": "ArangoGraphML: Simplifying the Power of Graph Machine Learning",
-      "excerpt": "Next-generation graph data and analytics platform now with machine learning and data science features to accelerate innovationSAN FRANCISCO, Oct.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/arangographml-simplifying-the-power-of-graph-machine-learning-1032696541",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/arangographml-simplifying-the-power-of-graph-machine-learning-1032696541",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential.md",
-      "title": "Bank Of America Identifies 6 Global AI Stocks As 'Hidden Gems' With Great Potential",
-      "excerpt": "Bank of America has highlighted five global stocks poised to profit as the application of artificial intelligence (AI) continues to burgeon. The bank projects significant growth potential for “end-device AI,” a deviation from the current server-based systems.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential-1032695221",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential-1032695221",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/ai_shutter_0.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-razorpay-launches-ai-powered-payments-routing-system-optimizer.md",
-      "title": "Razorpay launches AI-powered payments routing system 'Optimizer'",
-      "excerpt": "Full-stack fintech platform Razorpay on Tuesday launched a payment infrastructure -- ‘Optimizer’, an AI-powered payments routing",
-      "sourceUrl": null,
-      "webUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer",
-      "originalUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://glamsham.com/wp-content/uploads/2023/10/202310103067125-1020x675.png",
-          "width": 1020,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1",
-      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1",
-      "publishedDateTime": "2023-10-10T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-ma-sq-nvei-3-fintech-stocks-wall-streets-pounding-the-table-on.md",
-      "title": "MA, SQ, NVEI: 3 Fintech Stocks Wall Street’s Pounding the Table On",
-      "excerpt": "Though technology stocks have been through rough times in recent years, it’s still worth revisiting some of the market’s top",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ma-sq-nvei-3-fintech-stocks-wall-street-s-pounding-the-table-on-1032694209",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ma-sq-nvei-3-fintech-stocks-wall-street-s-pounding-the-table-on-1032694209",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/10/image-253-1024x348.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T20:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-leveraging-fintech-and-blockchain-innovations-in-finance.md",
-      "title": "Leveraging Fintech And Blockchain Innovations In Finance",
-      "excerpt": "When harnessed strategically, fintech and blockchain present a chance to transform services, bolster capabilities and delight customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 264,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648c692be04ec815a53b363e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/amp/",
-      "publishedDateTime": "2023-10-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-razorpay-introduces-optimizer-ai-powered-payment-routing-system.md",
-      "title": "Razorpay introduces 'Optimizer': AI-powered payment routing system",
-      "excerpt": "The 'Optimizer' seamless integration into more than 100 payment solutions, spanning Payment Aggregators, Payment Gateways, UPI, Banks, and other payment methods, businesses can enjoy a consolidated and thorough view of their payment processes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news/razorpay-s-new-ai-powered-system-optimizer-revolutionizes-payment-routing-2023-10-10-897113",
-      "originalUrl": "https://www.indiatvnews.com/technology/news/razorpay-s-new-ai-powered-system-optimizer-revolutionizes-payment-routing-2023-10-10-897113",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/10/razorpay-1696926402.jpg",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/razorpay-s-new-ai-powered-system-optimizer-revolutionizes-payment-routing-2023-10-10-897113",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/razorpay-s-new-ai-powered-system-optimizer-revolutionizes-payment-routing-2023-10-10-897113",
-      "publishedDateTime": "2023-10-10T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future.md",
-      "title": "AI and data: Honing hyper-personalization to build the bank of the future",
-      "excerpt": "This bank is using AI and a surfeit of information to create personalized experiences for its customers -- and there's much more to come, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/",
-      "originalUrl": "https://www.zdnet.com/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/fda662863ef1d073e13c543085b5016d651c2491/2023/09/28/9d6479aa-492f-4628-95c3-581f7d68b1e4/gettyimages-1320874274.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/",
-      "publishedDateTime": "2023-10-09T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

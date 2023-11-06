@@ -2,27 +2,131 @@
   "page": 44,
   "value": [
     {
-      "path": "_news/2023-09-27-uk-fintech-tangopay-selects-thetaray-ai-solution-to-monitor-global-remittances.md",
-      "title": "UK Fintech TangoPay Selects ThetaRay AI Solution to Monitor Global Remittances",
-      "excerpt": "TangoPay an Authorized Payment Institution based in the UK, and ThetaRay, the leader in next-generation AI-powered secure global payments, today annou",
+      "path": "_news/2023-10-03-how-intuitive-ai-can-harmonize-a-hybrid-workforce.md",
+      "title": "How Intuitive AI Can Harmonize A Hybrid Workforce",
+      "excerpt": "it is important to carefully think about what data will be used to train your AI. Start by conducting audits to understand the current data landscape within your organization. It’s also essential to ensure that this data is cleaned, labeled and well ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230927445002/en/UK-Fintech-TangoPay-Selects-ThetaRay-AI-Solution-to-Monitor-Global-Remittances/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230927445002/en/UK-Fintech-TangoPay-Selects-ThetaRay-AI-Solution-to-Monitor-Global-Remittances/",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/03/how-intuitive-ai-can-harmonize-a-hybrid-workforce/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/03/how-intuitive-ai-can-harmonize-a-hybrid-workforce/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f184032107158000722cf84/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/03/how-intuitive-ai-can-harmonize-a-hybrid-workforce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/03/how-intuitive-ai-can-harmonize-a-hybrid-workforce/amp/",
+      "publishedDateTime": "2023-10-03T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-ibm-launches-artificial-intelligence-education-efforts-aims-to-train-2m-by-2026.md",
+      "title": "IBM launches artificial intelligence education efforts, aims to train 2M by 2026",
+      "excerpt": "To help close the global artificial intelligence skills gap, IBM recently announced a commitment to train two million learners in AI by the end of 2026, with a focus on underrepresented communities.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/10/03/ibm-launches-artificial-intelligence-education-efforts-aims-to-train-2m-by-2026/",
+      "originalUrl": "https://wraltechwire.com/2023/10/03/ibm-launches-artificial-intelligence-education-efforts-aims-to-train-2m-by-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2023/06/artificial-intelligence-teacher-e1687532885604.jpg",
+          "width": 1203,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/10/03/ibm-launches-artificial-intelligence-education-efforts-aims-to-train-2m-by-2026/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/03/ibm-launches-artificial-intelligence-education-efforts-aims-to-train-2m-by-2026/?amp=1",
+      "publishedDateTime": "2023-10-03T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-security-ai-and-automation-are-key-in-protecting-against-costly-data-breaches-for-retailers-and-consumer-goods-businesses.md",
+      "title": "Security AI and automation are key in protecting against costly data breaches for retailers and consumer goods businesses",
+      "excerpt": "For retailers, AI and automation can significantly reduce the impact of a cybersecurity data breach—financially and beyond.\nThe post Security AI and automation are key in protecting against costly data breaches for retailers and consumer goods businesses appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/security-ai-automation-protecting-against-data-breaches/",
+      "originalUrl": "https://www.ibm.com/blog/security-ai-automation-protecting-against-data-breaches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T03:58:00-07:00",
+      "publishedDateTime": "2023-10-03T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -31,26 +135,27 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI"
+        "IBM AI",
+        "AI",
+        "AI in Security"
       ]
     },
     {
-      "path": "_news/2023-09-27-infosys-microsoft-to-accelerate-adoption-of-generative-ai-for-businesses.md",
-      "title": "Infosys & Microsoft to accelerate adoption of generative AI for businesses",
-      "excerpt": "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space.",
+      "path": "_news/2023-10-03-social-media-has-new-moderation-problems-this-ai-startup-has-a-solution.md",
+      "title": "Social media has new moderation problems. This AI startup has a solution",
+      "excerpt": "Unitary's AI-based content moderation system could help social media platforms comply with strict new European laws.",
       "sourceUrl": null,
-      "webUrl": "https://ibsintelligence.com/ibsi-news/infosys-microsoft-to-accelerate-adoption-of-generative-ai-for-businesses/",
-      "originalUrl": "https://ibsintelligence.com/ibsi-news/infosys-microsoft-to-accelerate-adoption-of-generative-ai-for-businesses/",
+      "webUrl": "https://thenextweb.com/news/unitary-ai-social-media-content-moderation",
+      "originalUrl": "https://thenextweb.com/news/unitary-ai-social-media-content-moderation",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://ibsintelligence.com/wp-content/uploads/2023/06/Infosys-.jpg",
-          "width": 300,
-          "height": 300,
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F09%2FUntitled-design4.jpg&signature=0780397fe23ddbc32f4db7141cc508fb",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -60,12 +165,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T03:31:00-07:00",
+      "publishedDateTime": "2023-10-03T02:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBS",
-        "domain": "ibsintelligence.com",
-        "images": null,
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -74,26 +188,25 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-27-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai.md",
-      "title": "Infosys partners with Microsoft to accelerate adoption of GenAI",
-      "excerpt": "Infosys said on Tuesday it is collaborating with Microsoft to jointly develop industry solutions that leverage Infosys Topaz, Azure OpenAI Service and Azure Cognitive Services. Both organisations are bringing together their respective artificial intelligence (AI) capabilities to enhance enterprise functions with AI-enabled solutions across multiple industries.",
+      "path": "_news/2023-10-03-support-for-australian-indigenous-recognition-up-slightly-with-vote-underway.md",
+      "title": "Support for Australian Indigenous recognition up slightly with vote underway",
+      "excerpt": "SYDNEY (Reuters) -Support for a proposal to amend Australia’s constitution to enshrine recognition of Indigenous people has ... Indigenous Australians in the constitution and create a “Voice to Parliament” to give them an avenue to advise the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.rediff.com/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
-      "originalUrl": "https://www.rediff.com/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
+      "webUrl": "https://www.reuters.com/article/australia-indigenous-idAFKCN3121UU",
+      "originalUrl": "https://www.reuters.com/article/australia-indigenous-idAFKCN3121UU",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 131,
       "tags": null,
       "images": [
         {
-          "url": "https://im.rediff.com/money/2018/nov/15infy.jpg",
-          "width": 670,
-          "height": 455,
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20231002&t=2&i=1646495181&r=LYNXNPEJ91104&w=800",
+          "width": 800,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -101,14 +214,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.rediff.com/amp/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
-      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
-      "publishedDateTime": "2023-09-27T02:53:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T02:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "rediff.com",
-        "domain": "rediff.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -117,24 +239,24 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-27-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts.md",
-      "title": "Infosys and Microsoft to work together over industry-based Generative AI acceptance; industry reacts",
-      "excerpt": "On September 26, 2023, Infosys, a information technology (IT) corporation, entered into a partnership with Microsoft, a multinational technology company. According to an official release, the partnership aims to develop industry-scale solutions around technologies such as Azure Cognitive Services, Infosys Topaz and Azure OpenAI Service.",
+      "path": "_news/2023-10-03-less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind.md",
+      "title": "Less is a lot more when it comes to AI, says Google's DeepMind",
+      "excerpt": "Neural network AI programs that are reduced by 75% of their functionality can achieve the same power as programs twice their size.",
       "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts-3256347/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts-3256347/",
+      "webUrl": "https://www.zdnet.com/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
+      "originalUrl": "https://www.zdnet.com/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 176,
       "tags": null,
       "images": [
         {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-27T141137.201.jpg",
+          "url": "https://www.zdnet.com/a/img/resize/500d64d21c2344b027de10586bf42bbe485df102/2023/10/01/d14d4b26-5f10-4b88-b288-2f113d6e1992/building-neural-networks-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -144,14 +266,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts-3256347/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts-3256347/lite/",
-      "publishedDateTime": "2023-09-27T02:20:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
+      "publishedDateTime": "2023-10-03T02:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -160,31 +291,41 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI",
+        "Google AI",
+        "AI Hardware"
       ]
     },
     {
-      "path": "_news/2023-09-27-artificial-intelligence-robotics-market-2023-is-set-to-fly-excessive-growth-in-years-to-come.md",
-      "title": "Artificial Intelligence Robotics Market 2023 Is Set to Fly Excessive Growth in Years to Come",
-      "excerpt": "Artificial Intelligence Robotics Market 2023 with 103 Pages Report and enhance with extents shares into sub-counties are covered in this market. Artificial Intelligence Robotics Market conditions ...",
+      "path": "_news/2023-10-03-review-i-cant-believe-how-much-i-loved-the-shark-ai-ultra-2-in-1-robot-vacuum.md",
+      "title": "Review: I can't believe how much I loved the Shark AI Ultra 2-in-1 robot vacuum",
+      "excerpt": "The robot vacuum space may be dominated by iRobot and Roborock, but Shark has quietly released one of the best robot vacuums we've tested. The Shark AI Ultra is the rare hybrid that vacuums and mops equally well,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34937652/artificial-intelligence-robotics-market-2023-is-set-to-fly-excessive-growth-in-years-to-come",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34937652/artificial-intelligence-robotics-market-2023-is-set-to-fly-excessive-growth-in-years-to-come",
+      "webUrl": "https://mashable.com/review/shark-ai-ultra-2-in-1-robot-vacuum-mop",
+      "originalUrl": "https://mashable.com/review/shark-ai-ultra-2-in-1-robot-vacuum-mop",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 90,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/reviews/0594eGKLbI7zC1lFEK03GnH/hero-image.fill.size_1200x675.v1693425590.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34937652",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34937652",
-      "publishedDateTime": "2023-09-27T02:13:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Mashable",
+        "domain": "mashable.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -194,17 +335,17 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2023-09-27-automated-machine-learning-automl-market-an-exclusive-study-on-upcoming-trends-and-growth-2023-2030.md",
-      "title": "Automated Machine Learning (AutoML) Market : An Exclusive Study On Upcoming Trends And Growth 2023-2030",
-      "excerpt": "Automated Machine Learning (AutoML) Market 2023 with 103 Pages Report and enhance with extents shares into sub-counties are covered in this market. Automated Machine Learning (AutoML) Market ...",
+      "path": "_news/2023-10-03-facial-recognition-market-2023-2030-with-in-depth-analysis-of-the-research-report.md",
+      "title": "Facial Recognition Market 2023-2030 with In-Depth Analysis of the Research Report",
+      "excerpt": "Ask for Sample Report The global Facial Recognition market size was valued at USD 4491.54 million in 2022 and is expected to expand at a CAGR of 14.8 Percent during the forecast period ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34937370/automated-machine-learning-automl-market-an-exclusive-study-on-upcoming-trends-and-growth-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34937370/automated-machine-learning-automl-market-an-exclusive-study-on-upcoming-trends-and-growth-2023-2030",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35050319/facial-recognition-market-2023-2030-with-in-depth-analysis-of-the-research-report",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35050319/facial-recognition-market-2023-2030-with-in-depth-analysis-of-the-research-report",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -221,9 +362,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34937370",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34937370",
-      "publishedDateTime": "2023-09-27T02:13:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35050319",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35050319",
+      "publishedDateTime": "2023-10-03T01:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -237,26 +378,26 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-27-how-ai-and-machine-learning-are-transforming-liver-disease-diagnosis-and-treatment.md",
-      "title": "How AI and Machine Learning Are Transforming Liver Disease Diagnosis and Treatment",
-      "excerpt": "It is based on algorithms or arrays of mathematical formulae that make up specific computational learning methods. Machine learning (ML) and deep learning (DL) use algorithms in more complex ways ...",
+      "path": "_news/2023-10-03-nsa-announces-new-artificial-intelligence-security-center-desperately-needed.md",
+      "title": "NSA announces new artificial intelligence security center: 'Desperately needed'",
+      "excerpt": "The National Security Agency (NSA) will launch a new artificial intelligence security center to both protect U.S. AI systems and defend against external threats. The new security center launches ...",
       "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/health/How-AI-and-Machine-Learning-Are-Transforming-Liver-Disease-Diagnosis-and-Treatment.aspx",
-      "originalUrl": "https://www.news-medical.net/health/How-AI-and-Machine-Learning-Are-Transforming-Liver-Disease-Diagnosis-and-Treatment.aspx",
+      "webUrl": "https://www.foxnews.com/us/nsa-announces-new-artificial-intelligence-security-center-desperately-needed",
+      "originalUrl": "https://www.foxnews.com/us/nsa-announces-new-artificial-intelligence-security-center-desperately-needed",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_23870_16958047458637908.jpg",
-          "width": 1000,
-          "height": 667,
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a465d63-285b-4571-9a28-2e72ee0f2d89/c41ba4c2-a3d5-4705-8858-f818626dece8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -264,93 +405,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T02:12:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/us/nsa-announces-new-artificial-intelligence-security-center-desperately-needed.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/nsa-announces-new-artificial-intelligence-security-center-desperately-needed.amp",
+      "publishedDateTime": "2023-10-03T00:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-uaes-falcon-180b-breaks-boundaries.md",
-      "title": "UAE’s Falcon 180B breaks boundaries",
-      "excerpt": "Falcon 180B, the most advanced open Large Language Model (LLM) is available via Amazon SageMaker Jumpstart Dubai, UAE – In a monumental stride for the Middle East's technology landscape, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-k6erlmyy",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-k6erlmyy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-amazon-is-the-apex-predator-of-our-platform-era.md",
-      "title": "Amazon Is the Apex Predator of Our Platform Era",
-      "excerpt": "Mr. Doctorow is the author, most recently, of “The Internet Con: How to Seize the Means of Computation.” The Federal Trade Commission’s chair, Lina Khan, has brought her long-awaited ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/09/27/opinion/amazon-ftc-antitrust-monopoly.html",
-      "originalUrl": "https://www.nytimes.com/2023/09/27/opinion/amazon-ftc-antitrust-monopoly.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/09/27/opinion/27doctorow/27doctorow-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -366,26 +430,28 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI"
+        "AI in Healthcare",
+        "AI",
+        "AI in Security",
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2023-09-27-widespread-autonomous-vehicle-adoption-still-a-decade-away.md",
-      "title": "Widespread autonomous vehicle adoption still a decade away",
-      "excerpt": "A world of self-driving vehicles and mobility-on-demand is likely to exist eventually, but for the next decade, widespread implementation of autonomous technology will not be realised, according to a new forecast from S&P Global Mobility.",
+      "path": "_news/2023-10-03-outpacing-competition-how-lunartech-is-redefining-the-future-of-ai-and-machine-learning.md",
+      "title": "Outpacing Competition: How LunarTech is Redefining the Future of AI and Machine Learning",
+      "excerpt": "The bootcamp covers a wide array of topics, from machine learning to Python programming and cloud computing, and places a strong emphasis on hands-on, practical projects. \"Our bootcamps can be attended either in-person or remotely. We've developed tools to ...",
       "sourceUrl": null,
-      "webUrl": "https://it-online.co.za/2023/09/27/widespread-autonomous-vehicle-adoption-still-a-decade-away/",
-      "originalUrl": "https://it-online.co.za/2023/09/27/widespread-autonomous-vehicle-adoption-still-a-decade-away/",
+      "webUrl": "https://www.entrepreneur.com/ka/business-news/outpacing-competition-how-lunartech-is-redefining-the/463038",
+      "originalUrl": "https://www.entrepreneur.com/ka/business-news/outpacing-competition-how-lunartech-is-redefining-the/463038",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://it-online.co.za/wp-content/uploads/2023/09/cars.jpg",
-          "width": 1075,
-          "height": 500,
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png?auto=webp?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1334,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -395,55 +461,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T01:51:00-07:00",
+      "publishedDateTime": "2023-10-03T00:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT-Online",
-        "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-convolutional-neural-network-accurate-for-patients-with-idiopathic-scoliosis.md",
-      "title": "Convolutional Neural Network Accurate for Patients with Idiopathic Scoliosis",
-      "excerpt": "A recent study has found Cobb angles can be measured accurately using a convolutional neural network in patients with idiopathic",
-      "sourceUrl": null,
-      "webUrl": "https://www.emjreviews.com/innovations/news/convolutional-neural-network-accurate-for-patients-with-idiopathic-scoliosis/",
-      "originalUrl": "https://www.emjreviews.com/innovations/news/convolutional-neural-network-accurate-for-patients-with-idiopathic-scoliosis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.emjreviews.com/wp-content/uploads/2023/09/Whats-New-2-1.jpg",
-          "width": 821,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "emjreviews.com",
-        "domain": "emjreviews.com",
-        "images": null,
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -457,21 +489,125 @@
       ]
     },
     {
-      "path": "_news/2023-09-27-prototype-chips-deliver-ai-task-solutions-with-minimal-power-consumption.md",
-      "title": "Prototype Chips Deliver AI Task Solutions With Minimal Power Consumption",
-      "excerpt": "A chip with 35M memory devices and 34 tiles attains 12.4 TOPS/W (tera-operations per second per watt ), showcasing software-equivalent accuracy for keyword spotting and near-equivalent accuracy for large neural networks across five chips.",
+      "path": "_news/2023-10-03-shares-in-aurrigo-rise-after-agreement-on-self-driving-vehicle-trial-with-iag.md",
+      "title": "Shares in Aurrigo Rise After Agreement on Self-Driving Vehicle Trial With IAG",
+      "excerpt": "Shares in Aurrigo International rose after it said it has agreed on a partnership with International Consolidated Airlines Group aimed at deploying its self-driving baggage and air-freight vehicles in the U.K. Shares at 0730 GMT were up 20 pence ...",
       "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/prototype-chips-deliver-ai-task-solutions-with-minimal-power-consumption",
-      "originalUrl": "https://www.electronicsforu.com/news/prototype-chips-deliver-ai-task-solutions-with-minimal-power-consumption",
+      "webUrl": "https://www.marketwatch.com/story/shares-in-aurrigo-rise-after-agreement-on-self-driving-vehicle-trial-with-iag-d850fac4",
+      "originalUrl": "https://www.marketwatch.com/story/shares-in-aurrigo-rise-after-agreement-on-self-driving-vehicle-trial-with-iag-d850fac4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/shares-in-aurrigo-rise-after-agreement-on-self-driving-vehicle-trial-with-iag-d850fac4",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/shares-in-aurrigo-rise-after-agreement-on-self-driving-vehicle-trial-with-iag-d850fac4",
+      "publishedDateTime": "2023-10-03T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-the-10-biggest-trends-revolutionizing-healthcare-in-2024.md",
+      "title": "The 10 Biggest Trends Revolutionizing Healthcare In 2024",
+      "excerpt": "These are the key societal drivers that will impact healthcare in 2024. Their convergence means we are heading into uncharted waters. On the technology side, artificial intelligence (AI) promises to dramatically change everything from the way we develop ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/03/the-10-biggest-trends-revolutionizing-healthcare-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/03/the-10-biggest-trends-revolutionizing-healthcare-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651bbeb1c78cc403f92a6abd/0x0.jpg?format=jpg&crop=2500,1405,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/03/the-10-biggest-trends-revolutionizing-healthcare-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/03/the-10-biggest-trends-revolutionizing-healthcare-in-2024/amp/",
+      "publishedDateTime": "2023-10-03T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-computer-vision-market-forecast-2023key-factors-considered-2031.md",
+      "title": "Computer Vision Market Forecast 2023|Key Factors Considered 2031",
+      "excerpt": "Global |104 Pages| Updated Report on \"Computer Vision Market\" offers a detailed Research In-Depth Analysis (2023-2031) which is expected to witness remarkable growth in the coming years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35048601/computer-vision-market-forecast-2023-key-factors-considered-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35048601/computer-vision-market-forecast-2023-key-factors-considered-2031",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/05/mag-image.png",
-          "width": 370,
-          "height": 298,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -481,12 +617,64 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T23:15:00-07:00",
+      "publishedDateTime": "2023-10-03T00:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "electronicsforu",
-        "domain": "electronicsforu.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-japan-to-give-micron-technology-128-billion-aid-for-chip-project-at-hiroshima-plant.md",
+      "title": "Japan to Give Micron Technology $1.28 Billion Aid for Chip Project at Hiroshima Plant",
+      "excerpt": "By Kosaku Narioka The Japanese government will give an aid of over a billion dollars to Micron Technology's memory chip project at its Hiroshima plant,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/japan-to-give-micron-technology-1-28-billion-aid-for-chip-project-at-hiroshima-plant-b24b02bd",
+      "originalUrl": "https://www.marketwatch.com/story/japan-to-give-micron-technology-1-28-billion-aid-for-chip-project-at-hiroshima-plant-b24b02bd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/japan-to-give-micron-technology-1-28-billion-aid-for-chip-project-at-hiroshima-plant-b24b02bd",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/japan-to-give-micron-technology-1-28-billion-aid-for-chip-project-at-hiroshima-plant-b24b02bd",
+      "publishedDateTime": "2023-10-02T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -500,21 +688,21 @@
       ]
     },
     {
-      "path": "_news/2023-09-27-infosys-and-microsoft-join-forces-to-advance-generative-ai-across-industries.md",
-      "title": "Infosys and Microsoft Join Forces to Advance Generative AI Across Industries",
-      "excerpt": "Infosys & Microsoft forge a partnership advancing AI, unveiling potent solutions that ensure industry-wide innovation & robust business growth",
+      "path": "_news/2023-10-03-instant-evolution-ai-designs-new-robot-from-scratch-in-seconds.md",
+      "title": "Instant evolution: AI designs new robot from scratch in seconds",
+      "excerpt": "Northwestern researchers developed the first AI to date that can intelligently design robots from scratch by compressing billions of years of evolution into mere seconds. It's not only fast but also runs on a lightweight computer and designs wholly novel structures from scratch — without human-labeled,",
       "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2023/09/infosys-microsoft-ai-collaboration-growth",
-      "originalUrl": "https://yourstory.com/2023/09/infosys-microsoft-ai-collaboration-growth",
+      "webUrl": "https://www.eurekalert.org/news-releases/1003605",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1003605",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Untitleddesign88-1695795120482.png?fm=png&auto=format",
-          "width": 1000,
-          "height": 500,
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/9315799f-c3fc-4baa-b3c4-2d4c58566290/Rendition/thumbnail/Content/Public",
+          "width": 300,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -524,11 +712,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T23:12:00-07:00",
+      "publishedDateTime": "2023-10-02T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -538,17 +726,70 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-27-bain-company-and-microsoft-establish-strategic-partnership-to-help-clients-accelerate-and-scale-ai-adoption.md",
-      "title": "Bain & Company and Microsoft establish strategic partnership to help clients accelerate and scale AI adoption",
-      "excerpt": "BOSTON, Sept. 27, 2023 /PRNewswire/ -- Bain & Company today announced a partnership with Microsoft which will enable Bain's client businesses to build and deploy new artificial intelligence (AI) applications across their operations faster, more effectively, and at scale.",
+      "path": "_news/2023-10-03-scaling-up-learning-across-many-different-robot-types.md",
+      "title": "Scaling up learning across many different robot types",
+      "excerpt": "We are launching a new set of resources for general-purpose robotics learning across different robot types, or embodiments. Together with partners from 34 academic labs we have pooled data from 22 different robot types to create the Open X-Embodiment dataset. We also release RT-1-X, a robotics transformer",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/bain-company-and-microsoft-establish-strategic-partnership-to-help-clients-accelerate-and-scale-ai-adoption-1032657675",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/bain-company-and-microsoft-establish-strategic-partnership-to-help-clients-accelerate-and-scale-ai-adoption-1032657675",
+      "webUrl": "https://www.deepmind.com/blog/scaling-up-learning-across-many-different-robot-types",
+      "originalUrl": "https://www.deepmind.com/blog/scaling-up-learning-across-many-different-robot-types",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/651af305a8617d11327dde0c_Header_Final.png",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-contentengine-ce-researchhub-accelerates-research-report-acquisition-with-ai-automation-and-the-power-of-amazon-marketplace.md",
+      "title": "ContentEngine (CE) ResearchHub Accelerates Research Report Acquisition with AI Automation and the power of Amazon Marketplace",
+      "excerpt": "MIAMI, Oct. 2, 2023 /PRNewswire/ -- ContentEngine (CE), industry leader in market research report aggregation, is pleased to announce AI Automation to take the heavy lifting out of the research ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/contentengine-ce-researchhub-accelerates-research-report-acquisition-with-ai-automation-and-the-power-of-amazon-marketplace-1032671810",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/contentengine-ce-researchhub-accelerates-research-report-acquisition-with-ai-automation-and-the-power-of-amazon-marketplace-1032671810",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -558,7 +799,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T23:01:00-07:00",
+      "publishedDateTime": "2023-10-02T16:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -581,370 +822,34 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-and-microsoft-collaborate-to-bring-enhanced-ai-enabled-solutions.md",
-      "title": "Infosys and Microsoft collaborate to bring enhanced AI-enabled solutions",
-      "excerpt": "Infosys announced that it is collaborating with Microsoft to jointly develop industry solutions that will leverage their respective artificial intelligence (AI) tools and services – Infosys Topaz and Microsoft’s Azure OpenAI Service and Azure Cognitive Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-collaborate-to-bring-enhanced-ai-enabled-solutions-3256009/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-collaborate-to-bring-enhanced-ai-enabled-solutions-3256009/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-27T104942.364.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-collaborate-to-bring-enhanced-ai-enabled-solutions-3256009/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-collaborate-to-bring-enhanced-ai-enabled-solutions-3256009/lite/",
-      "publishedDateTime": "2023-09-26T22:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-shares-will-remain-in-focus-today-on-this-partnership-with-microsoft-check-details-here.md",
-      "title": "Infosys Shares Will Remain In Focus Today On This Partnership With Microsoft; Check Details Here",
-      "excerpt": "Infosys shares remained on investors radar on Wednesday after the company announced a collaboration with tech giant Microsoft to improve enterprise functions with AI-enabled solutions across multiple industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.goodreturns.in/news/infosys-shares-will-remain-in-focus-today-on-this-partnership-with-microsoft-check-details-here-1302669.html",
-      "originalUrl": "https://www.goodreturns.in/news/infosys-shares-will-remain-in-focus-today-on-this-partnership-with-microsoft-check-details-here-1302669.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Goodreturns",
-        "domain": "goodreturns.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-collaborates-with-microsoft-for-generative-ai.md",
-      "title": "Infosys collaborates with Microsoft for generative AI",
-      "excerpt": "Infosys: Both organizations will bring together their respective artificial intelligence (AI) capabilities for transitioning to AI from digital, thus driving efficiency and productivity among businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/infosys-collaborates-with-microsoft-for-generative-ai/103977486",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/infosys-collaborates-with-microsoft-for-generative-ai/103977486",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-103977486,imgsize-66594,width-1200,height=765,overlay-etcio/artificial-intelligence/infosys-collaborates-with-microsoft-for-generative-ai.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-and-microsoft-join-hands-to-democratize-industry-wide-adoption-of-generative-ai.md",
-      "title": "Infosys and Microsoft Join Hands To Democratize Industry-Wide Adoption of Generative AI",
-      "excerpt": "Indian IT major Infosys has announced that it is collaborating with Microsoft to jointly develop industry leading solutions that leverage Infosys Topa",
-      "sourceUrl": null,
-      "webUrl": "https://www.indianweb2.com/2023/09/infosys-and-microsoft-join-hands-to.html",
-      "originalUrl": "https://www.indianweb2.com/2023/09/infosys-and-microsoft-join-hands-to.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFFLsiJOlqlptOI48CVvv-0OczpUnQhYpn0WZHLfAqik3sppqZy3_VWIbPmHOr8GZMR9VtTBBzbfCaEYXsG6uAI-F7YzTV5leJ1aSlWAY2moHi45p6DPFRrl4qlR1uZD8oKnnuZKp-p2Cu4Uvjet2m_GRpJwnfQdUpC2_DqemjLzNNNH_xb0m_w4bmXYs/s16000/infosys_microsoft.png",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "indianweb2.com",
-        "domain": "indianweb2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-45-million-granted-to-nu-cancer-therapy-device-project.md",
-      "title": "$45 million granted to NU cancer therapy device project",
-      "excerpt": "The Advanced Research Projects Agency for Health awarded researchers at Northwestern and seven other institutions a $45 million grant to continue developing a small, implantable device that could detect and treat cancer,",
-      "sourceUrl": null,
-      "webUrl": "https://dailynorthwestern.com/2023/09/26/campus/45-million-granted-to-nu-cancer-therapy-device-project/",
-      "originalUrl": "https://dailynorthwestern.com/2023/09/26/campus/45-million-granted-to-nu-cancer-therapy-device-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailynorthwestern.com/wp-content/uploads/2023/09/TECH_FILE_AvaMandoli_7.jpg",
-          "width": 2001,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Northwestern",
-        "domain": "dailynorthwestern.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-2031-ai-in-computer-vision-market-research-report-booming-worldwide.md",
-      "title": "2031, AI In Computer Vision Market Research Report | Booming Worldwide",
-      "excerpt": "Facebook, Microsoft Corporation, Intel Corporation, Apple Inc., COGNEX Corporation are one of the principal market rivals, according to the research. Global AI In Computer Vision market size is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34930004/2031-ai-in-computer-vision-market-research-report-booming-worldwide",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34930004/2031-ai-in-computer-vision-market-research-report-booming-worldwide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34930004",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34930004",
-      "publishedDateTime": "2023-09-26T20:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Facebook AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-ms-collaborate-for-cognitive-services.md",
-      "title": "Infosys, MS collaborate for cognitive services",
-      "excerpt": "Bengaluru: Infosys is collaborating with Microsoft to jointly develop industry leading solutions that leverage Infosys Topaz, Azure OpenAI Service and.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/bengaluru/infosys-ms-collaborate-for-cognitive-services/articleshow/103975119.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/bengaluru/infosys-ms-collaborate-for-cognitive-services/articleshow/103975119.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/bengaluru/infosys-ms-collaborate-for-cognitive-services/amp_articleshow/103975119.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bengaluru/infosys-ms-collaborate-for-cognitive-services/amp_articleshow/103975119.cms",
-      "publishedDateTime": "2023-09-26T19:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-27-passur-completes-migration-to-aws.md",
-      "title": "PASSUR Completes Migration to AWS",
-      "excerpt": "This website uses cookies to enhance your browsing experience and serve personalized content. Privacy Policy",
+      "path": "_news/2023-10-03-engineering-study-employs-deep-learning-to-explain-extreme-events.md",
+      "title": "Engineering study employs deep learning to explain extreme events",
+      "excerpt": "At the core of uncovering extreme events such as floods is the physics of fluids – specifically turbulent flows. Researchers leveraged a computer-vision deep learning technique and adapted it for nonlinear analysis of extreme events in wall-bounded turbulent flows,",
       "sourceUrl": null,
-      "webUrl": "https://www.aviationpros.com/airports/airport-technology/press-release/53073510/passur-aerospace-passur-completes-migration-to-aws",
-      "originalUrl": "https://www.aviationpros.com/airports/airport-technology/press-release/53073510/passur-aerospace-passur-completes-migration-to-aws",
+      "webUrl": "https://www.sciencedaily.com/releases/2023/10/231002124257.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/10/231002124257.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 74,
       "tags": null,
-      "images": [
-        {
-          "url": "https://img.aviationpros.com/files/base/cygnus/cavc/image/static/logo/site_logo.png?auto=format,compress&fit=fill&fill=solid&fill-color=000000&w=1200&h=627",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T19:14:00-07:00",
+      "publishedDateTime": "2023-10-02T14:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AviationPros",
-        "domain": "aviationpros.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-confluent-launches-new-initiative-to-deliver-fresh-real-time-data-streams-for-enterprise-ai-apps.md",
-      "title": "Confluent launches new initiative to deliver fresh, real-time data streams for enterprise AI apps",
-      "excerpt": "Such realtime data is vital for use cases where speed is of the essence in business processes, such as fraud detection.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/confluent-launches-new-initiative-to-deliver-fresh-real-time-data-streams-for-enterprise-ai-apps/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/confluent-launches-new-initiative-to-deliver-fresh-real-time-data-streams-for-enterprise-ai-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/8a516188-4a7d-4cab-80a7-a367e6be7017-e1687464894359.jpeg?w=1200&strip=all",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -960,17 +865,69 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-27-infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-ai.md",
-      "title": "Infosys collaborates with Microsoft to accelerate and democratize industry-wide adoption of generative AI",
-      "excerpt": "Generative AI has opened new avenues of AI applications and key enterprise functions across industries, and Infosys is providing services, frameworks, solutions, and platforms in multiple application areas,",
+      "path": "_news/2023-10-03-visa-earmarks-100m-to-invest-in-generative-ai-companies.md",
+      "title": "Visa earmarks $100M to invest in generative AI companies",
+      "excerpt": "Visa announced today that it plans to invest $100 million in companies developing generative AI technologies and applications “that will impact the future The investments will be made through Visa Ventures,",
       "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/Articles/Business/20230926/4123112.html",
-      "originalUrl": "https://news.webindia123.com/news/Articles/Business/20230926/4123112.html",
+      "webUrl": "https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/",
+      "originalUrl": "https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1365407901.jpg?resize=1200,816",
+          "width": 1200,
+          "height": 816,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/amp/",
+      "publishedDateTime": "2023-10-02T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-visa-to-invest-100-million-in-ai-fintech-startups-focused-on-payments.md",
+      "title": "Visa to invest $100 million in AI fintech startups focused on payments",
+      "excerpt": "Visa Inc. said late Monday it was launching a $100 million generative AI ventures initiative. In a statement, the payments company said the initiative is intended to invest in \"the next generation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/marketwatch/20231002520/visa-to-invest-100-million-in-ai-fintech-startups-focused-on-payments",
+      "originalUrl": "https://www.morningstar.com/news/marketwatch/20231002520/visa-to-invest-100-million-in-ai-fintech-startups-focused-on-payments",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -980,11 +937,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T18:13:00-07:00",
+      "publishedDateTime": "2023-10-02T14:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
+        "name": "Morningstar",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -994,26 +951,131 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-27-french-steal-sunaks-thunder-with-rival-ai-summit.md",
-      "title": "French steal Sunak’s thunder with rival AI summit",
-      "excerpt": "The British government is also planning an investment in a public “AI research resource”, spending ... Yann LeCun, the chief AI scientist at Facebook-owner Meta, on Tuesday said Mr Sunak ...",
+      "path": "_news/2023-10-03-two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development.md",
+      "title": "Two divergent skills that matter in an AI world: Math and business development",
+      "excerpt": "For those seeking to get heavily immersed in building AI applications, it's time to shore up basic math skills. For those seeking more right-brained roles, business development skills are the top requirement.",
       "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/business/2023/09/26/france-britain-rishi-sunak-ai-summit-plans/",
-      "originalUrl": "https://www.telegraph.co.uk/business/2023/09/26/france-britain-rishi-sunak-ai-summit-plans/",
+      "webUrl": "https://www.zdnet.com/article/two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development/",
+      "originalUrl": "https://www.zdnet.com/article/two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bdbde0facf0ff42db0a2012db3bc30d5b6e47a03/2023/09/26/3c2c8202-701f-403f-b22d-8d1df03a9b9d/2paths-gettyimages-1320194843.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development/",
+      "publishedDateTime": "2023-10-02T13:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha.md",
+      "title": "Sob story about dead grandma tricks Microsoft AI into solving CAPTCHA",
+      "excerpt": "Shiryaev first shared a screenshot of Bing Chat refusing to solve the CAPTCHA when it was shared as a simple image. Next, Shiryaev pasted that image into another image of a pair of hands holding an open locked.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 376,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/special_love_code-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/amp/",
+      "publishedDateTime": "2023-10-02T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-tom-hanks-disavows-ai-clone-amid-hollywoods-robot-reckoning.md",
+      "title": "Tom Hanks disavows AI clone amid Hollywood’s robot reckoning",
+      "excerpt": "studios and streaming companies are bulking up on AI staff. Aug. 2, 2023 But when actors’ consent is taken out of the picture, people start to get worried. That’s what happened with Tom Hanks’ illegitimate dental endorsement, but also what’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/entertainment-arts/business/story/2023-10-02/tom-hanks-pushes-back-on-ai-clone-amid-hollywoods-robot-reckoning",
+      "originalUrl": "https://www.latimes.com/entertainment-arts/business/story/2023-10-02/tom-hanks-pushes-back-on-ai-clone-amid-hollywoods-robot-reckoning",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.telegraph.co.uk/content/dam/business/2023/09/26/TELEMMGLPICT000350180058_16957435173940_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfyKvq_nGV8CVExf4qSbkzM.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/83d78b1/2147483647/strip/true/crop/6000x3150+0+328/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F95%2Fb35aabcb4a418adf0c2acc15d4d3%2Fharvard-tom-hanks-98733.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1023,11 +1085,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T17:26:00-07:00",
+      "publishedDateTime": "2023-10-02T12:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1037,7 +1099,110 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember.md",
+      "title": "What AI forgets could kill us, but new research is helping it remember",
+      "excerpt": "A better understanding how the human brain makes memories could help us to reduce neural networks' habit of 'catastrophic' forgetting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
+      "originalUrl": "https://www.zdnet.com/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7f343b9e762783bd928da1f94d55f75a23ac3c10/2023/10/02/92fcf4f1-8fd7-4fff-b75a-c5c675994e60/girl-stringgettyimages-668677129.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
+      "publishedDateTime": "2023-10-02T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-beware-of-bing-chat-and-its-ai-conversations-that-can-lure-you-into-malware-traps.md",
+      "title": "Beware of Bing Chat and its AI conversations that can lure you into malware traps",
+      "excerpt": "Hackers are sneaking in malicious ads through Bing Chat. Kurt \"CyberGuy\" Knutsson explains how it works and shares tips on how to keep your data secure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/beware-bing-chat-ai-conversations-lure-malware-traps",
+      "originalUrl": "https://www.foxnews.com/tech/beware-bing-chat-ai-conversations-lure-malware-traps",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e36333e0-16e6-4b62-a7c8-93de40acbe14/f11b36d6-c1f8-4589-acfa-24c41de9814a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/beware-bing-chat-ai-conversations-lure-malware-traps.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/beware-bing-chat-ai-conversations-lure-malware-traps.amp",
+      "publishedDateTime": "2023-10-02T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

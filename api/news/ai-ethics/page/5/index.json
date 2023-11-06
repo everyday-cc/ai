@@ -2,6 +2,197 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-23-start-preparing-for-ai-regulatory-compliance-now.md",
+      "title": "Start Preparing For AI Regulatory Compliance Now",
+      "excerpt": "Integrate responsible AI into governance risk management structures and processes. For example, establish an ethics committee to review high-impact AI projects. • Add responsible AI metrics to executive performance evaluations to incentivize adherence to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63063108bc674cf3651b5fd1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/amp/",
+      "publishedDateTime": "2023-08-23T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-does-your-business-need-protection-from-ai.md",
+      "title": "Does Your Business Need Protection From AI?",
+      "excerpt": "While AI can offer many benefits to companies, there are also potential dangers you need to address to protect your business and its stakeholders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/22/does-your-business-need-protection-from-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/22/does-your-business-need-protection-from-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/22/does-your-business-need-protection-from-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/08/22/does-your-business-need-protection-from-ai/amp/",
+      "publishedDateTime": "2023-08-22T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-why-we-should-all-be-rooting-for-boring-ai.md",
+      "title": "Why we should all be rooting for boring AI",
+      "excerpt": "Boring AI is unlikely to break as easily and, most important, won’t kill anyone. Hopefully, soon we’ll forget we’re interacting with AI at all. (It wasn’t that long ago when machine translation was an exciting new thing in AI. Now most people don’t even think about its role in powering Google Translate.)",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/",
+      "originalUrl": "https://www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/08/spreadsheet-final.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/amp/",
+      "publishedDateTime": "2023-08-22T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-biometrics-institute-announces-online-public-discussion-on-ethical-use-of-ai.md",
+      "title": "Biometrics Institute announces online public discussion on ethical use of AI",
+      "excerpt": "The Biometrics Institute is holding an hour-long virtual discussion on different aspects related to Artificial Intelligence, biometrics, privacy and ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202308/biometrics-institute-announces-online-public-discussion-on-ethical-use-of-ai",
+      "originalUrl": "https://www.biometricupdate.com/202308/biometrics-institute-announces-online-public-discussion-on-ethical-use-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg",
+          "width": 2048,
+          "height": 1366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-21-deepminds-ai-life-coach-can-be-your-new-personal-advisor.md",
       "title": "DeepMind’s AI Life Coach Can Be Your New Personal Advisor",
       "excerpt": "DeepMind, the AI arm of tech giant Google, has developed an innovative project with the potential to serve as your personal life coach. This groundbreaking initiative leverages the power of generative AI to carry out an array of professional and personal ...",
@@ -1243,180 +1434,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-the-ethical-and-legal-considerations-of-influencer-marketing-and-ai-photo-editing-tools.md",
-      "title": "The Ethical And Legal Considerations Of Influencer Marketing And AI Photo-Editing Tools",
-      "excerpt": "As AI continues to shape the digital landscape, social media influencers must balance leveraging its capabilities for creative expression and ensuring ethical practices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/03/considerations-of-influencer-marketing-and-ai-photo-editing-tools/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/03/considerations-of-influencer-marketing-and-ai-photo-editing-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-whats-under-the-hood-of-this-ai-revolution.md",
-      "title": "What’s Under The Hood Of This AI Revolution?",
-      "excerpt": "AI users interact with one side of the tech’s story, but the enablers—the ones building the backstage infrastructure technology and hardware—are equally valuable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f33fae78e26add3d640245e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/amp/",
-      "publishedDateTime": "2023-08-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-xiao-i-unveils-powerful-llm-and-ai-ethics-principles-to-drive-responsible-ai-innovation-in-china.md",
-      "title": "Xiao-I Unveils Powerful LLM and AI Ethics Principles to Drive Responsible AI Innovation in China",
-      "excerpt": "The Company has outlined three fundamental AI Ethics Principles that underpin its approach to AI development: Be Worthy of Trust: Trust is the bedrock of successful AI adoption, and Xiao-I places ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/accesswire/771818msn/xiao-i-unveils-powerful-llm-and-ai-ethics-principles-to-drive-responsible-ai-innovation-in-china",
-      "originalUrl": "https://www.morningstar.com/news/accesswire/771818msn/xiao-i-unveils-powerful-llm-and-ai-ethics-principles-to-drive-responsible-ai-innovation-in-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-will-artificial-intelligence-change-how-entertainment-is-made-the-ethical-life-podcast.md",
-      "title": "Will artificial intelligence change how entertainment is made? | The Ethical Life podcast",
-      "excerpt": "The hosts discuss how worried we should be about computers taking over more of what we watch and read, and whether live performances and sports will benefit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/opinion/column/artificial-intelligence-films-books-podcast/article_3c9b495b-dca5-51ea-826b-8d6102fff53a.html",
-      "originalUrl": "https://www.stltoday.com/opinion/column/artificial-intelligence-films-books-podcast/article_3c9b495b-dca5-51ea-826b-8d6102fff53a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/c9/3c9b495b-dca5-51ea-826b-8d6102fff53a/64ca79fb1255f.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
-          "width": 1196,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

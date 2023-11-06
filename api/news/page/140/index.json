@@ -2,107 +2,21 @@
   "page": 140,
   "value": [
     {
-      "path": "_news/2023-07-25-robot-litter-boxes-cast-iron-skillets-and-more-4-things-you-didnt-know-were-made-in-sheboygan.md",
-      "title": "Robot litter boxes, cast iron skillets and more — 4 things you didn’t know were made in Sheboygan",
-      "excerpt": "In addition to household company names and goods, like Ellingers Agatized Bowls and Kohler, here are four products you may not have known were locally made. Well-known for toilet seats, Bemis Manfacturing also makes parts for Whisker’s robotic cat litter box.",
+      "path": "_news/2023-07-27-instructure-kahn-academy-announce-major-partnership-on-ai-tutoring-teaching.md",
+      "title": "Instructure, Kahn Academy Announce Major Partnership On AI Tutoring, Teaching",
+      "excerpt": "The news may set the standard for the role of AI in educational delivery and give the company a significant beachhead in the future of personalized learning.",
       "sourceUrl": null,
-      "webUrl": "https://www.sheboyganpress.com/story/money/2023/07/25/robotic-litter-boxes-and-more-surprising-things-made-in-sheboygan/70434424007/",
-      "originalUrl": "https://www.sheboyganpress.com/story/money/2023/07/25/robotic-litter-boxes-and-more-surprising-things-made-in-sheboygan/70434424007/",
+      "webUrl": "https://www.forbes.com/sites/dereknewton/2023/07/27/instructure-kahn-academy-announce-major-partnership-on-ai-tutoring-teaching/",
+      "originalUrl": "https://www.forbes.com/sites/dereknewton/2023/07/27/instructure-kahn-academy-announce-major-partnership-on-ai-tutoring-teaching/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sheboygan Press",
-        "domain": "sheboyganpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-taiwans-tsmc-to-invest-29-billion-in-new-plant-as-demand-for-ai-chips-soars.md",
-      "title": "Taiwan’s TSMC to invest $2.9 billion in new plant as demand for AI chips soars",
-      "excerpt": "TSMC, the world’s largest chipmaker, says it plans to invest nearly 90 billion New Taiwan dollars ($2.9 billion) to build an advanced chip plant in Taiwan, as it expands production to meet booming demand for artificial intelligence (AI) products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-intl/index.html",
-      "originalUrl": "https://www.cnn.com/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230725082028-taiwan-tsmc-stock.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-intl/index.html",
-      "publishedDateTime": "2023-07-25T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-our-schools-war-on-ai-is-a-national-security-threat.md",
-      "title": "Our schools’ war on AI is a national security threat",
-      "excerpt": "America’s artificial intelligence superiority is at risk, and the key contributing factors are the broken U.S. education system and fear of job loss.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/our-schools-war-ai-national-security-threat",
-      "originalUrl": "https://www.foxnews.com/opinion/our-schools-war-ai-national-security-threat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/373f793d-841a-4c28-8ed0-cc33d7e54de6/25e4f207-a021-4f29-ade6-ef88e54f89c4/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2009c980aca1380ea0a55/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
-          "height": 675,
+          "height": 1800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -110,303 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/our-schools-war-ai-national-security-threat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/our-schools-war-ai-national-security-threat.amp",
-      "publishedDateTime": "2023-07-24T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-tsmc-to-invest-29-billion-in-advanced-chip-packaging-plant-in-taiwan.md",
-      "title": "TSMC to invest $2.9 billion in advanced chip packaging plant in Taiwan",
-      "excerpt": "TSMC, the world's largest chip maker, plans to invest about $2.87 billion in an advanced chip packaging plant in Taiwan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107275966-1690260911095-gettyimages-1541927779-porzycki-computer230719_npbb8.jpeg?v=1690269229",
-          "width": 3543,
-          "height": 2362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html",
-      "publishedDateTime": "2023-07-24T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-artificial-intelligence-ai-robots-market-projections-regional-outlook-rapid-growth-and-trend-by-2023-to-2030.md",
-      "title": "Artificial Intelligence (AI) Robots Market Projections, Regional Outlook, Rapid Growth and Trend by 2023 to 2030",
-      "excerpt": "Global Artificial Intelligence (AI) Robots Market is valued approximately USD 6.90 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 38.6% over the forecast period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33361808/artificial-intelligence-ai-robots-market-projections-regional-outlook-rapid-growth-and-trend-by-202",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33361808/artificial-intelligence-ai-robots-market-projections-regional-outlook-rapid-growth-and-trend-by-202",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33361808",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33361808",
-      "publishedDateTime": "2023-07-24T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-artificial-intelligence-is-rewriting-the-rules-of-us200-billion-video-games-industry.md",
-      "title": "Artificial intelligence is rewriting the rules of US$200 billion video games industry",
-      "excerpt": "From San Francisco to Tokyo and Hong Kong, the companies that power the digital entertainment sphere are responding to decades of escalating costs and stagnant prices by adopting and developing new AI tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3228805/artificial-intelligence-rewriting-rules-us200-billion-video-games-industry",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3228805/artificial-intelligence-rewriting-rules-us200-billion-video-games-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/25/728a8e3b-ab0b-4a50-ad2c-b82c189f4353_04f6242c.jpg?itok=6jwOZYNo&v=1690256330",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T20:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-nvidia-could-mint-300-billion-in-ai-revenues-by-2027-10-times-the-expected-takings-this-year-analyst-says.md",
-      "title": "Nvidia could mint $300 billion in AI revenues by 2027, 10 times the expected takings this year, analyst says",
-      "excerpt": "Mizuho analyst Vijay Rakesh expects the company to generate $25 billion to $30 billion in AI revenues this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-artificial-intelligence-nvidia-chip-revenues-stock-price-jensen-huang-2023-7",
-      "originalUrl": "https://www.businessinsider.com/ai-artificial-intelligence-nvidia-chip-revenues-stock-price-jensen-huang-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64bf2969bea34400196092dd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-artificial-intelligence-nvidia-chip-revenues-stock-price-jensen-huang-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-artificial-intelligence-nvidia-chip-revenues-stock-price-jensen-huang-2023-7?amp",
-      "publishedDateTime": "2023-07-24T20:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-computer-vision-market-share-demand-industry-trends-and-forecast-2023-2028.md",
-      "title": "Computer Vision Market Share, Demand, Industry Trends and Forecast 2023-2028",
-      "excerpt": "IMARC Group, a leading market research company, has released a report titled Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023-2028.According to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33360200/computer-vision-market-share-demand-industry-trends-and-forecast-2023-2028",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33360200/computer-vision-market-share-demand-industry-trends-and-forecast-2023-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33360200",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33360200",
-      "publishedDateTime": "2023-07-24T19:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-is-artificial-intelligence-anti-black.md",
-      "title": "Is Artificial Intelligence Anti-Black?",
-      "excerpt": "The rise of artificial intelligence like ChatGPT is ushering in a new era of possibilities. This article examines the anti-blackness baked into our AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/",
-      "originalUrl": "https://www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bf1828c39d451c82b88edd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/amp/",
-      "publishedDateTime": "2023-07-24T17:42:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/dereknewton/2023/07/27/instructure-kahn-academy-announce-major-partnership-on-ai-tutoring-teaching/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereknewton/2023/07/27/instructure-kahn-academy-announce-major-partnership-on-ai-tutoring-teaching/amp/",
+      "publishedDateTime": "2023-07-27T08:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -429,68 +49,42 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-07-25-speech-voice-recognition-market-scope-market-size-share-and-valuation-with-projected-cagr-48-and-forecast-2023-2030.md",
-      "title": "Speech & Voice Recognition Market Scope: Market Size, Share, and Valuation with projected CAGR 4.8% and Forecast 2023 - 2030",
-      "excerpt": "This &ldquo;Speech & Voice Recognition Market\" highlights key external drivers that affect the industry and assesses the current performance and revenue growth of the industry. This report helps ...",
+      "path": "_news/2023-07-27-2-ai-stocks-up-over-100-this-year-that-i-would-still-buy.md",
+      "title": "2 AI Stocks Up Over 100% This Year That I Would Still Buy",
+      "excerpt": "Bullish on AI? These two top performers are off to a running start in 2023 and they still have room to keep growing.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33359004/speech-voice-recognition-market-scope-market-size-share-and-valuation-with-projected-cagr-4-8-and-f",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33359004/speech-voice-recognition-market-scope-market-size-share-and-valuation-with-projected-cagr-4-8-and-f",
+      "webUrl": "https://www.fool.com/investing/2023/07/27/2-ai-stocks-up-100-this-year-that-im-still-buying/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/27/2-ai-stocks-up-100-this-year-that-im-still-buying/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 79,
       "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T15:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/741402/ai-robot-whispers-secrets-to-smiling-human.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
       ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-robot-preachers-get-less-respect-fewer-donations.md",
-      "title": "Robot preachers get less respect, fewer donations",
-      "excerpt": "As artificial intelligence expands across more professions, robot preachers and AI programs offer new means of sharing religious beliefs, but they may undermine credibility and reduce donations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230724122654.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230724122654.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T14:55:00-07:00",
+      "publishedDateTime": "2023-07-27T08:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
+        "name": "The Motley Fool",
+        "domain": "fool.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -506,26 +100,207 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-studios-quietly-go-on-hiring-spree-for-ai-specialist-jobs-amid-picket-line-anxiety.md",
+      "title": "Studios Quietly Go on Hiring Spree for AI Specialist Jobs Amid Picket Line Anxiety",
+      "excerpt": "and Sony seeks an AI ethics expert, while the tech becomes a staple of SAG-AFTRA and Writers Guild picket signs. By Alex Weprin Media & Business Writer While the writer and actor strikes are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/?ref=upstract.com",
+      "originalUrl": "https://www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/2023_07-Nicholas-AI_Hiring.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/?ref=upstract.com&amp",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/?ref=upstract.com&amp",
+      "publishedDateTime": "2023-07-27T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-five-ways-to-boost-cybersecurity-training-efforts-using-ai.md",
+      "title": "Five Ways To Boost Cybersecurity Training Efforts Using AI",
+      "excerpt": "A personalized, interactive and collaborative approach to training can increase security knowledge and instill a feeling of accountability and responsibility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60d34861b0dc90f4f81bfd48/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/amp/",
+      "publishedDateTime": "2023-07-27T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-how-traders-are-seeking-bullish-opportunities-in-a-hype-clouded-ai-and-robotics-market.md",
+      "title": "How Traders Are Seeking Bullish Opportunities in a Hype-Clouded AI and Robotics Market",
+      "excerpt": "NEW YORK, NY / ACCESSWIRE / July 27, 2023 / Tech stocks are enjoying a strong rally driven partly by advances in artificial intelligence, robotics, and automation. But such a robust rally in an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/ac33420021/how-traders-are-seeking-bullish-opportunities-in-a-hype-clouded-ai-and-robotics-market",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/ac33420021/how-traders-are-seeking-bullish-opportunities-in-a-hype-clouded-ai-and-robotics-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33420021",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33420021",
+      "publishedDateTime": "2023-07-27T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-07-25-cadence-lifts-revenue-forecast-as-ai-boom-boosts-chip-design-demand.md",
-      "title": "Cadence lifts revenue forecast as AI boom boosts chip-design demand",
-      "excerpt": "Cadence Design Systems Inc on Monday raised its full-year revenue forecast slightly above Wall Street estimates, as a surge in artificial intelligence (AI) innovation fueled demand for custom semiconductor design.",
+      "path": "_news/2023-07-27-digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition.md",
+      "title": "Digital rights group NOYB challenges Ryanair's use of facial recognition",
+      "excerpt": "The Irish airline, Europe's largest by passenger numbers, says on its website that in order to comply with safety and security requirements it must verify the identity of passengers' booking.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/cadence-design-results-idUSL4N39A44G",
-      "originalUrl": "https://www.reuters.com/article/cadence-design-results-idUSL4N39A44G",
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/articleshow/102176987.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/articleshow/102176987.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 103,
       "tags": null,
       "images": [
         {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20230724&t=2&i=1639790732&r=LYNXMPEJ6N0RW&w=800",
-          "width": 800,
-          "height": 600,
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-16906,msid-102177109/ryanair-facial-technology.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/amp_articleshow/102176987.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/amp_articleshow/102176987.cms",
+      "publishedDateTime": "2023-07-27T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-medical-students-recognize-ais-potential-in-medicine-call-for-ethical-education.md",
+      "title": "Medical students recognize AI's potential in medicine, call for ethical education",
+      "excerpt": "A team of researchers assessed medical students' understanding, perceptions, and educational preferences related to artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230727/Medical-students-recognize-AIs-potential-in-medicine-call-for-ethical-education.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230727/Medical-students-recognize-AIs-potential-in-medicine-call-for-ethical-education.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_754798_16904645865162642.jpg",
+          "width": 2000,
+          "height": 1064,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -535,7 +310,410 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T12:48:00-07:00",
+      "publishedDateTime": "2023-07-27T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-six-eam-trends-pushing-the-oil-and-gas-industries-forward.md",
+      "title": "Six EAM trends pushing the oil and gas industries forward",
+      "excerpt": "As EAM technology continues to evolve, new trends emerge, promising to transform the way oil and gas companies approach asset performance management.\nThe post Six EAM trends pushing the oil and gas industries forward appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/six-eam-trends-pushing-the-oil-and-gas-industries-forward/",
+      "originalUrl": "https://www.ibm.com/blog/six-eam-trends-pushing-the-oil-and-gas-industries-forward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T06:18:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-computer-vision-insurtech-pioneer-compscience-raises-10m-series-a-led-by-valor-equity-partners.md",
+      "title": "Computer Vision Insurtech Pioneer CompScience Raises $10M Series A Led By Valor Equity Partners",
+      "excerpt": "CompScience Insurance Services, the leading AI-powered safety analytics platform, announced a $10M Series A round led by operational growth investment firm Valor",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/computer-vision-insurtech-pioneer-compscience-raises-10m-series-a-led-by-valor-equity-partners/article_0d74f157-0e5c-5bfc-ba39-a32724882e5c.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/computer-vision-insurtech-pioneer-compscience-raises-10m-series-a-led-by-valor-equity-partners/article_0d74f157-0e5c-5bfc-ba39-a32724882e5c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-ryanair-accused-of-invasive-facial-recognition-use.md",
+      "title": "Ryanair Accused Of 'Invasive' Facial Recognition Use",
+      "excerpt": "A prominent digital privacy campaign group on Thursday filed a complaint against Ryanair in Spain, alleging the popular budget carrier was pushing customers to undergo an \"invasive facial recognition process\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a",
+      "originalUrl": "https://www.barrons.com/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
+          "width": 1320,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a",
+      "publishedDateTime": "2023-07-27T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-1-ai-revolution-stock-you-wont-want-to-overlook.md",
+      "title": "1 AI Revolution Stock You Won't Want to Overlook",
+      "excerpt": "Artificial Intelligence (AI) can potentially revolutionize many industries in the coming years. It could become a huge productivity and profit booster. Those catalysts could drive significant returns for investors in stocks capitalizing on AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/27/1-ai-revolution-stock-you-wont-want-to-overlook/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/27/1-ai-revolution-stock-you-wont-want-to-overlook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740962/artificial-intelligence-ai.jpg",
+          "width": 2102,
+          "height": 1426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-the-indispensable-role-of-agencies-in-the-age-of-ai.md",
+      "title": "The Indispensable Role Of Agencies In The Age Of AI",
+      "excerpt": "Marketing agencies are collectives of creatives who are, above all, tastemakers, curators and trendsetters—in other words, our expertise allows us to recognize quality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1e349dad083538eb4f46/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/",
+      "publishedDateTime": "2023-07-27T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-this-ai-beauty-and-wellness-stock-just-hit-the-markets-should-you-buy-oddity-stock.md",
+      "title": "This AI Beauty and Wellness Stock Just Hit the Markets. Should You Buy Oddity Stock?",
+      "excerpt": "Beauty and wellness company Oddity Tech ( ODD 7.37%) is a company with high-tech AI capabilities in a niche industry that had its initial public offering (IPO) last week. Let's check it out and see if Oddity should make it into your stock portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740690/a-child-putting-blush-on-a-womans-face.jpg",
+          "width": 2122,
+          "height": 1412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-yonyou-unveils-its-large-language-model-for-enterprise-services.md",
+      "title": "Yonyou unveils its large language model for enterprise services",
+      "excerpt": "Yonyou Network Technology Co Ltd, China's leading software and cloud service provider, on Thursday unveiled the first large language model in the country's enterprise service industry.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202307/27/WS64c22e09a31035260b818e06.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202307/27/WS64c22e09a31035260b818e06.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202307/27/64c22e09a310352610b9ae30.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-l2-self-driving-vehicle-market-2023-industry-outlook-business-strategies-trends-and-forecast-to-2029.md",
+      "title": "L2 Self-driving Vehicle Market 2023 Industry Outlook, Business Strategies, Trends and Forecast to 2029",
+      "excerpt": "The Global \"L2 Self-driving Vehicle Market\" Research report give detailed information with reference to market size, share, trends, growth, cost revenue, capacity, and forecast till 2029.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33417777/l2-self-driving-vehicle-market-2023-industry-outlook-business-strategies-trends-and-forecast-to-202",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33417777/l2-self-driving-vehicle-market-2023-industry-outlook-business-strategies-trends-and-forecast-to-202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-meta-rallies-as-ai-powered-ad-sales-drive-monster-forecast.md",
+      "title": "Meta rallies as AI-powered ad sales drive 'monster' forecast",
+      "excerpt": "Meta shares surged nearly 8% on Thursday as a rosy revenue forecast showed that artificial intelligence was helping the social media giant boost engagement and ad sales even in an uncertain economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/meta-rallies-ai-powered-ad-sales-drive-monster-forecast-2023-07-27/",
+      "originalUrl": "https://www.reuters.com/technology/meta-rallies-ai-powered-ad-sales-drive-monster-forecast-2023-07-27/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/QKGxuAo_1W3C9opZRPfdNE6gkEE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X3SJL6Z3BBLZFA52SP7F7SQ5O4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T01:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -558,26 +736,26 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "AI",
+        "AI in Sales"
       ]
     },
     {
-      "path": "_news/2023-07-25-state-of-it-report-generative-ai-will-soon-go-mainstream-say-9-out-of-10-it-leaders.md",
-      "title": "State of IT report: Generative AI will soon go mainstream, say 9 out of 10 IT leaders",
-      "excerpt": "Generative AI has only recently become mainstream. The report shows 86% of IT leaders believe generative AI will have a prominent role it their organization in the near future. Yet 64% of IT leaders are concerned about the ethics of generative AI, and 62% are concerned about its impacts on their careers.",
+      "path": "_news/2023-07-27-samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead.md",
+      "title": "Samsung extends cut in memory chip production, will focus on high-end AI chips instead",
+      "excerpt": "Samsung Electronics extends to cut back its memory chip production and double down on its high-performance chips used in AI.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/state-of-it-report-generative-ai-will-soon-go-mainstream/",
-      "originalUrl": "https://www.zdnet.com/article/state-of-it-report-generative-ai-will-soon-go-mainstream/",
+      "webUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/",
+      "originalUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 126,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/img/resize/67c0491949d4da919f64dea355dd58d24e2cc5fc/2023/07/24/c1b1e887-4a8e-4180-96e7-045494b7bc9c/aigettyimages-1455352999.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/20230228_145519.jpg?resize=1200,900",
           "width": 1200,
-          "height": 675,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -585,16 +763,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/state-of-it-report-generative-ai-will-soon-go-mainstream/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/state-of-it-report-generative-ai-will-soon-go-mainstream/",
-      "publishedDateTime": "2023-07-24T11:24:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/",
+      "publishedDateTime": "2023-07-27T00:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -610,26 +788,26 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-07-25-lam-is-an-underappreciated-ai-chip-play-heres-why.md",
-      "title": "Lam Is an Underappreciated AI Chip Play. Here’s Why.",
-      "excerpt": "Advanced memory technology may be an underestimated beneficiary of the increased spending on artificial intelligence.",
+      "path": "_news/2023-07-27-3-autonomous-driving-stocks-to-buy-before-elon-musk-goes-all-in.md",
+      "title": "3 Autonomous Driving Stocks to Buy Before Elon Musk Goes All In",
+      "excerpt": "The article \" 3 Autonomous Driving Stocks to Buy Before Elon Musk Goes All In \" first appeared on MarketBeat.",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/lam-research-stock-price-target-ed86dc56",
-      "originalUrl": "https://www.barrons.com/articles/lam-research-stock-price-target-ed86dc56",
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BIDU/pressreleases/18885712/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BIDU/pressreleases/18885712/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.barrons.com/im-822582/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://barchart-news-media-prod.aws.barchart.com/MKTBEAT/0de7c95e271a6f97263f6afd10ea33aa/med_20230727073922_3-autonomous-driving-stocks-to-buy-before-elon-mus.jpg",
+          "width": 1000,
+          "height": 667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -637,13 +815,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/lam-research-stock-price-target-ed86dc56",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lam-research-stock-price-target-ed86dc56",
-      "publishedDateTime": "2023-07-24T10:04:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T00:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -653,10 +831,328 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-ai-could-replace-politicians-and-ceos-if-they-play-by-darwinian-rules-of-evolution-expert.md",
+      "title": "AI could replace politicians and CEOs if they play by Darwinian rules of evolution: expert",
+      "excerpt": "Artificial intelligence could replace politicians and CEOs, according to a tech experts. UK politicians are already sounding the alarm that they could be replaced with AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert",
+      "originalUrl": "https://www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12f32090-d466-4946-8d6a-cfb9c81363bd/7511282e-5719-497f-be58-09896b59eaff/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert.amp",
+      "publishedDateTime": "2023-07-26T23:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-as-ai-goes-global-let-the-un-control-it.md",
+      "title": "As AI goes global, let the UN control it",
+      "excerpt": "In record time, Europe produced a significant body of regulation with the ambition of getting a grip on the use of data and ensuring the tech industry behind it pivots toward Europe. The U.S. and China have similar policies in place, making the race for technological supremacy increasingly important in a changing geopolitical context.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/ai-goes-global-un-control-it",
+      "originalUrl": "https://www.foxnews.com/opinion/ai-goes-global-un-control-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84b9ac1d-a4a4-4612-9a07-2799d6cac361/c1628bc1-adc0-42c1-92a3-b0869cf171a8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/ai-goes-global-un-control-it.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-goes-global-un-control-it.amp",
+      "publishedDateTime": "2023-07-26T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-privacy-group-challenges-ryanairs-use-of-facial-recognition.md",
+      "title": "Privacy group challenges Ryanair's use of facial recognition",
+      "excerpt": "Digital rights group NOYB on Thursday filed a complaint against Ryanair , alleging that it is violating customers' rights to data protection by using facial recognition to verify their identity when booking through online travel agents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/aerospace-defense/privacy-group-challenges-ryanairs-use-facial-recognition-2023-07-27/",
+      "originalUrl": "https://www.reuters.com/business/aerospace-defense/privacy-group-challenges-ryanairs-use-facial-recognition-2023-07-27/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/dIDyVgha2Ldzns3rcSc6hqCdXt0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FBR3K75CPFPAZMM63XCHD3ESFE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T22:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-fake-or-fact-the-disturbing-future-of-ai-generated-realities.md",
+      "title": "Fake Or Fact? The Disturbing Future Of AI-Generated Realities",
+      "excerpt": "From deepfakes to misinformation, discover the ethical implications and potential solutions in a world where AI blurs the line between truth and fiction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c200fd980aca1380ea0a57/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/amp/",
+      "publishedDateTime": "2023-07-26T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-ai-in-sales-and-marketing-its-here.md",
+      "title": "AI in sales and marketing: It’s here",
+      "excerpt": "Artificial intelligence is improving employee experience and productivity in fields such as sales, marketing and customer service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/JN1gPvOAr8xMjL6m",
+      "originalUrl": "https://www.itweb.co.za/content/JN1gPvOAr8xMjL6m",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/07/Paul-Mulder-Jul-2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m",
+      "publishedDateTime": "2023-07-26T22:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-amazon-is-failing-to-provide-accommodations-for-disabled-workers-labor-group-claims.md",
+      "title": "Amazon is failing to provide accommodations for disabled workers, labor group claims",
+      "excerpt": "Amazon is failing to provide adequate workplace accommodations for disabled employees, a violation of the American Disabilities Act (ADA), according to labor activists. Amazon workers with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/amazon-disabled-workers-american-disabilities-act-violations-report/",
+      "originalUrl": "https://www.cbsnews.com/news/amazon-disabled-workers-american-disabilities-act-violations-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T20:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-musk-optimistic-on-progress-for-self-driving-robots.md",
+      "title": "Musk optimistic on progress for self-driving, robots",
+      "excerpt": "(AP pic) SAN FRANCISCO: Tesla chief executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freemalaysiatoday.com/category//2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category//2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T20:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }
   ],
-  "nextPage": null
+  "nextPage": 141
 }

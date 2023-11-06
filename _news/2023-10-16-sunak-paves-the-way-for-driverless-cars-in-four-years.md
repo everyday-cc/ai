@@ -2,9 +2,9 @@
 category: news
 title: "Sunak paves the way for driverless cars in four years"
 excerpt: "Driverless cars have proved controversial ... Morris/Bloomberg Mr Sunak is under pressure to appear welcoming to artificial intelligence companies amid surging investment in the technology."
-publishedDateTime: 2023-10-15T18:54:00Z
-originalUrl: "https://www.telegraph.co.uk/business/2023/10/15/driverless-cars-britain-four-years-nissan-ford/"
-webUrl: "https://www.telegraph.co.uk/business/2023/10/15/driverless-cars-britain-four-years-nissan-ford/"
+publishedDateTime: 2023-10-16T07:07:00Z
+originalUrl: "https://www.telegraph.co.uk/business/2023/10/15/driverless-cars-britain-four-years-nissan-ford/?utmsource=email"
+webUrl: "https://www.telegraph.co.uk/business/2023/10/15/driverless-cars-britain-four-years-nissan-ford/?utmsource=email"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 536
     isCached: true
 
-secured: "uM0ek/mft4Bk5+G3DMBBNZTXgKxP1DqZFq0TqZ45DD5rRYFhrKRZVq2dWLABAX3jHz3k7OyrwYQNLVL3NbFFdlSk5PGgDBP3nWZ2mTAcaqHZX9ZQVW8phsr1HpHDOiKPOltK2gGGUrsoRO8cMhBmGdFF5j20EKYymPfLaebLuC0iPdlK3lcQkVuvVNNVPWyW0gI1EygVs5esRKA71hhdzqMyHZYcBhRUd4fF1xwu05CIN+7LeqjFscBXDzmAKtW2bk3krXdv+SKRqoYpXH27o2eMMpVI2jIKBasNs0ldycBQOR8l5Q06NK6RcijU2MjQumO1E8Xo0p4ZafjwSr7dZNbJA0EPf3O1Q4DqUQL28X0=;3ppk21EYhdHLXuY6SY/Bng=="
+secured: "8UOFaJFE2smor/UDMVVtQLWCoM0Vzkmmt1l9PisThnxYRVhhMA6T7bk67BlBM+6kLQ1u9h3ghd2eiAwsfpvARXtyLON3JC97BhpMClFf29Yk3Ia9M/OIT09iYoPPU2Adr+RrW+yRHABcyFDk0NSwcLQ/tdRcS7fP9U26LjX4HkEkJXHk0f1etRbJSckblRHAlYMzO58aevDPqAuD8OvhFwBDlxNbZV10KGUmTeVbC9Zmc5vhjHUcPtOZXNFHEcPKU202aOemreqypiNVs6TUP0iOMBUwA1eiFwyZHkNVZ9JLtzUYJLLv1RiuuQFhrOZRj4/IWrwk81bhMTvJj7tqxg06cd4c/N1g+ss0nAri9vU=;EjXDkxiCDL+Xi8/ACQPznw=="
 ---
 

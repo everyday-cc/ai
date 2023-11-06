@@ -2,6 +2,388 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-03-samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips.md",
+      "title": "Samsung partners with Tenstorrent to produce next-gen AI chips",
+      "excerpt": "Canadian computing startup Tenstorrent has announced that Samsung Electronics, the global leader in chip and smartphone manufacturing will be producing the advanced next-generation AI chipsets for the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999",
+      "originalUrl": "https://www.indiatvnews.com/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/10/samsung-1696324543.jpg",
+          "width": 360,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999",
+      "publishedDateTime": "2023-10-03T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind.md",
+      "title": "Less is a lot more when it comes to AI, says Google's DeepMind",
+      "excerpt": "Neural network AI programs that are reduced by 75% of their functionality can achieve the same power as programs twice their size.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
+      "originalUrl": "https://www.zdnet.com/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/500d64d21c2344b027de10586bf42bbe485df102/2023/10/01/d14d4b26-5f10-4b88-b288-2f113d6e1992/building-neural-networks-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
+      "publishedDateTime": "2023-10-03T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-japan-to-give-micron-technology-128-billion-aid-for-chip-project-at-hiroshima-plant.md",
+      "title": "Japan to Give Micron Technology $1.28 Billion Aid for Chip Project at Hiroshima Plant",
+      "excerpt": "By Kosaku Narioka The Japanese government will give an aid of over a billion dollars to Micron Technology's memory chip project at its Hiroshima plant,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/japan-to-give-micron-technology-1-28-billion-aid-for-chip-project-at-hiroshima-plant-b24b02bd",
+      "originalUrl": "https://www.marketwatch.com/story/japan-to-give-micron-technology-1-28-billion-aid-for-chip-project-at-hiroshima-plant-b24b02bd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/japan-to-give-micron-technology-1-28-billion-aid-for-chip-project-at-hiroshima-plant-b24b02bd",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/japan-to-give-micron-technology-1-28-billion-aid-for-chip-project-at-hiroshima-plant-b24b02bd",
+      "publishedDateTime": "2023-10-02T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember.md",
+      "title": "What AI forgets could kill us, but new research is helping it remember",
+      "excerpt": "A better understanding how the human brain makes memories could help us to reduce neural networks' habit of 'catastrophic' forgetting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
+      "originalUrl": "https://www.zdnet.com/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7f343b9e762783bd928da1f94d55f75a23ac3c10/2023/10/02/92fcf4f1-8fd7-4fff-b75a-c5c675994e60/girl-stringgettyimages-668677129.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
+      "publishedDateTime": "2023-10-02T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight.md",
+      "title": "Microsoft’s ‘top choice’: supply of Nvidia AI GPUs improved but still tight",
+      "excerpt": "He mentioned that the situation regarding GPU supply has improved compared to a few months back, although it is still tight. Previously, the demand for Nvidia’s GPUs for AI and HPC applications exceeded the supply capacity of the entire ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.onmsft.com/news/microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight/",
+      "originalUrl": "https://www.onmsft.com/news/microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2022/01/ARM-Nvidia.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "On MSFT",
+        "domain": "onmsft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips.md",
+      "title": "NVIDIA's EU Trouble: European Commission starts investigating GPU-maker’s dominance in AI chips",
+      "excerpt": "NVIDIA seems to be in massive in the EU. Given the prowess of its AI chips, it is the most valuable chipmaker in the world. However, it is now under investigation over accusations of abusing its AI-ch",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html",
+      "originalUrl": "https://www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/wp-content/uploads/2023/10/NVIDIA-in-trouble-EU-starts-investigating-GPU-makers-dominance-in-AI-chips.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html/amp",
+      "publishedDateTime": "2023-10-02T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-01-my-way-or-the-ai-way-companies-approach-govt-for-infra-amid-gpu-scarcity.md",
+      "title": "My way or the AI way: Companies approach govt for infra amid GPU scarcity",
+      "excerpt": "GPUs are the highways AI requires. Companies are therefore petitioning the Centre to invest in the vital compute infrastructure so that local startups can compete and win meaningfully in the frenetic global AI race.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/my-way-or-the-ai-way-companies-approach-govt-for-vital-compute-infra-amid-gpu-scarcity/articleshow/104072796.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/my-way-or-the-ai-way-companies-approach-govt-for-vital-compute-infra-amid-gpu-scarcity/articleshow/104072796.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg",
+          "width": 710,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/my-way-or-the-ai-way-companies-approach-govt-for-vital-compute-infra-amid-gpu-scarcity/amp_articleshow/104072796.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/my-way-or-the-ai-way-companies-approach-govt-for-vital-compute-infra-amid-gpu-scarcity/amp_articleshow/104072796.cms",
+      "publishedDateTime": "2023-09-30T17:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-01-eu-examines-nvidia-dominated-ai-chip-markets-alleged-abuses-bloomberg-reports.md",
+      "title": "EU examines Nvidia-dominated AI chip market's alleged abuses, Bloomberg reports",
+      "excerpt": "The European Union is examining alleged anticompetitive practices in chips used for artificial intelligence, a market that Nvidia dominates, Bloomberg News reported on Friday, citing people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/nvidia-eu/corrected-eu-starts-early-stage-probe-into-alleged-abuses-in-nvidia-dominated-ai-chip-market-bloomberg-news-idUSL4N3B52SQ",
+      "originalUrl": "https://www.reuters.com/article/nvidia-eu/corrected-eu-starts-early-stage-probe-into-alleged-abuses-in-nvidia-dominated-ai-chip-market-bloomberg-news-idUSL4N3B52SQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/4kOYyzKm7xM-DNWLSeP-1NkoV2A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DXSTHXNJHRMPHDTFZPWWCV3QOA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-30T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-30-amd-ceo-lisa-su-on-the-ai-revolution-and-competing-with-nvidia.md",
       "title": "AMD CEO Lisa Su on the AI revolution and competing with Nvidia",
       "excerpt": "At this year’s Code Conference, AMD CEO Lisa Su revealed how the company is using AI in chip design, the future outlook of the GPU business and chip supply chain, and how AMD plans to compete with Nvidia’s H100.",
@@ -1016,379 +1398,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-nvidia-gives-updates-on-new-gpu-technologies-at-gtc-conference.md",
-      "title": "NVIDIA gives updates on new GPU technologies at GTC conference",
-      "excerpt": "and edge AI systems. It combines the transformer engine of Hopper, the GPU of Ada, and the CPU of Grace. Another update is the Nemo LLM Service, which is a cloud service to adapt pretrained LLMs ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/nvidia-gives-updates-on-new-gpu-technologies-at-gtc-conference/",
-      "originalUrl": "https://sdtimes.com/ai/nvidia-gives-updates-on-new-gpu-technologies-at-gtc-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2022/09/gtc22-fall-web-keynote-blog-image-jhh-rtx4090-1280x680-r2-1.jpg",
-          "width": 1280,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-amd-says-ai-not-yet-needed-for-pcs-really.md",
-      "title": "AMD Says AI Not Yet Needed For PCs. Really??",
-      "excerpt": "I love what AMD is doing with their data center GPUs (see my take on the MI300), but someone needs to wake up on the opportunity for the desktop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/09/20/amd-says-ai-not-yet-needed-for-pcs--really/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/09/20/amd-says-ai-not-yet-needed-for-pcs--really/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650b57e62c52c2c473845dd2/0x0.jpg?format=jpg&width=1200",
-          "width": 1150,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/09/20/amd-says-ai-not-yet-needed-for-pcs--really/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/09/20/amd-says-ai-not-yet-needed-for-pcs--really/amp/",
-      "publishedDateTime": "2023-09-20T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-3-ai-chip-stocks-that-should-be-on-every-investors-radar-this-fall.md",
-      "title": "3 AI Chip Stocks That Should Be on Every Investor’s Radar This Fall",
-      "excerpt": "Nvidia’s (NASDAQ: NVDA) dominance in 2023 on the emergence of its AI chips has investors seeking the next AI chip stock that can provide similar returns. Pretty much every tech firm and every chipmaker is addressing the opportunity in some form or another. This has led to the rise of AI stocks to buy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-ai-chip-stocks-that-should-be-on-every-investors-radar-this-fall",
-      "originalUrl": "https://www.nasdaq.com/articles/3-ai-chip-stocks-that-should-be-on-every-investors-radar-this-fall",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech.md",
-      "title": "Infosys expands pact with Nvidia, to train 50,000 on chipmakers' AI tech",
-      "excerpt": "The alliance will bring the Nvidia AI Enterprise ecosystem of models, tools, runtimes and graphics processing units (GPU) systems to Infosys Topaz. Through the integration, Infosys will create offerings customers can adopt,",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-103810911,imgsize-18970,width-1200,height=765,overlay-ettelecom/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911",
-      "publishedDateTime": "2023-09-20T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-ai-bubble-or-revolution-goldman-sachs-research-takes-a-look.md",
-      "title": "AI Bubble Or Revolution? Goldman Sachs Research Takes A Look",
-      "excerpt": "The world currently seems to have entered the artificial intelligence (AI) era which future generations may one day refer to as before AI and after AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/fintech/23/09/34742974/ai-bubble-or-revolution-goldman-sachs-research-takes-a-look",
-      "originalUrl": "https://www.benzinga.com/fintech/23/09/34742974/ai-bubble-or-revolution-goldman-sachs-research-takes-a-look",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/09/19/ai.shutterstock_1065245777.jpg?width=1200&height=800&fit=crop",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34742974",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34742974",
-      "publishedDateTime": "2023-09-19T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-sambanova-unveils-new-ai-chip-the-sn40l-powering-its-full-stack-ai-platform.md",
-      "title": "SambaNova Unveils New AI Chip, the SN40L, Powering its Full Stack AI Platform",
-      "excerpt": "SambaNova Systems, makers of the purpose-built, full stack AI platform, announced a revolutionary new chip, the SN40L. The SN40L will power SambaNova’s full stack large language model (LLM) platform,",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2023/09/19/sambanova-unveils-new-ai-chip-the-sn40l-powering-its-full-stack-ai-platform/",
-      "originalUrl": "https://insidebigdata.com/2023/09/19/sambanova-unveils-new-ai-chip-the-sn40l-powering-its-full-stack-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2023/06/AI_shutterstock_2287025875_special-1.jpg",
-          "width": 1100,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform.md",
-      "title": "SambaNova unveils new AI chip to power full-stack AI platform",
-      "excerpt": "SambaNova Systems unveiled a new AI chip, the SN40L, which will power its full-stack LLM platform, the SambaNova Suite.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform/",
-      "originalUrl": "https://venturebeat.com/ai/sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/SN40-Launch-PR-2.jpg?fit=750%2C500&#038;strip=all",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-how-virtuswap-accelerates-their-pandas-based-trading-simulations-with-an-amazon-sagemaker-studio-custom-container-and-aws-gpu-instances.md",
-      "title": "How VirtuSwap accelerates their pandas-based trading simulations with an Amazon SageMaker Studio custom container and AWS GPU instances",
-      "excerpt": "This post is written in collaboration with Dima Zadorozhny and&nbsp;Fuad Babaev from VirtuSwap. VirtuSwap is a startup company developing innovative technology for decentralized exchange of assets on blockchains. VirtuSwap’s technology provides more efficient trading for assets that don’t have a direct",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-virtuswap-accelerates-their-pandas-based-trading-simulations-with-an-amazon-sagemaker-studio-custom-container-and-aws-gpu-instances/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-virtuswap-accelerates-their-pandas-based-trading-simulations-with-an-amazon-sagemaker-studio-custom-container-and-aws-gpu-instances/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/19/virtuswap-sagemaker-studio.jpg",
-          "width": 892,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T09:16:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI Hardware"
       ]
     }
   ],

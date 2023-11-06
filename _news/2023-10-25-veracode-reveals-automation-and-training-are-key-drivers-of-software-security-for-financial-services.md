@@ -6,9 +6,6 @@ publishedDateTime: 2023-10-25T13:22:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm"
 type: article
-quality: 21
-heat: -1
-published: false
 
 provider:
   name: TMCnet
@@ -19,22 +16,6 @@ topics:
   - AI
   - AI in Security
 
-related:
-  - title: "Veracode Reveals Automation And Training Are Key Drivers Of Software Security For Financial Services"
-    excerpt: "Veracode , a leading global provider of intelligent software security, today released new research that unveils the key"
-    publishedDateTime: 2023-10-25T19:00:00Z
-    webUrl: "https://menafn.com/1107304518/Veracode-Reveals-Automation-And-Training-Are-Key-Drivers-Of-Software-Security-For-Financial-Services"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/25/A_ce646image_story.jpg"
-        width: 1024
-        height: 512
-        isCached: true
-
-secured: "6cJqeGxji87ZlT8Nf78N+9nbl2DCokfeb68Ry07ceoCdaEiDk8tig/FkA5/poPPXkgulZONGCAZk0dg01jz+m6ZqCNRZ4Wu8ylGdlx4UpfLkJrV6ZzejUZQR2HC3KqzDGJMr9bsQY6QH8/2hKOiYtMjej5Pn28sQXhUfK8tvVUV8J8EHral05EEP/rqAMw4FM991IoacrBJngshz77BmikUF5M7iG+BIc3Q0hdbFvvEE28SQ3EyTWUmcdJGYIFDFUjx3OTaGuRg7ObAQkj6VGYp5Z5C4aql2urLGAPVNtl3vlNYrxsYXZCbm/qqDI/cVfSsgTyVUARRGAxaCqm17evJT7zAMT9XzKpZRLQIoN96dlfyGqQqBrZO6xuZ5hHhfmspUrtWHU10KBd5aKe1aYxzRbUgABSgvUOtKoZiCntmtRtPA+ftHvxRbxFOBDCihbdFtWL6FOt5sTijTEhoa45Bn/QVadB25n+I3vVQr55HfS0eHLkIy8jR0JVBIAoDVz/HcrOiKKD3BaS3/Z/cPFw==;ZhYewZDjg3ATr+MEKbckWA=="
+secured: "+KB3Mshl2D6BYJlzHIZmJI0tWoCBhyIDRf9jR3MgSYxO+KZdrtzGWrwtY8X30imM8cwRILzxxvjoFh00zexNQ9tQieJ1Jd82C+14f9EQDVGZUDQk2BSYsOefJJ1ZAmLxnVxRW5DOWyfnH5uI4cosD++86rzQOVMoq7zPGlbIHonRFs6RXRZU9H3OzDEN6iUK0J4GBinzZUAb+ZeApuvouRWfeFjSDwL92WsgijVgxGDZ25/Q8LyNARyLlBkl2jPDlM5Z3zr2N3PFzRxItkVWGTOFuteVMZDq5DOYsIZiISzfIxxKiv9a03+3HDHNnwAQDln9Y4aFV58IaNbx3G/QItu/reZN16KIrSHbfej9eLKDmZvORqiqFFLnYzEz0ptvZ+c9iY+bjneqghM1hqFb7LTOEgm3t7zqJ1Ecrw0ZFdTU/GU6NgKXdd7qgBKDpfawSoFZwhwG2j8bK3zsXVXr21rmEaDOhTtIXtjSZcC1hadjBm/a/VrFIvffwBZcv1VvO/20D/2L5eTK1VedvptE1A==;tlUIMfH6kyrzfYzx/2mIJw=="
 ---
 

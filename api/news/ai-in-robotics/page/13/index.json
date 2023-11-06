@@ -2,6 +2,1091 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-08-01-googles-robots-are-getting-smart-so-how-long-until-we-get-pampered.md",
+      "title": "Google’s Robots Are Getting Smart, So How Long Until We Get Pampered?",
+      "excerpt": "It’s ironic that generative AI is regarded as a novelty because walking, talking robots are now credibly achievable due to similar underlying advances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theodorecasey/2023/08/01/googles-robots-are-getting-smart-so-how-long-until-we-get-pampered/",
+      "originalUrl": "https://www.forbes.com/sites/theodorecasey/2023/08/01/googles-robots-are-getting-smart-so-how-long-until-we-get-pampered/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c64ea13e9ca5472f03e7a2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theodorecasey/2023/08/01/googles-robots-are-getting-smart-so-how-long-until-we-get-pampered/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theodorecasey/2023/08/01/googles-robots-are-getting-smart-so-how-long-until-we-get-pampered/amp/",
+      "publishedDateTime": "2023-08-01T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-a-computer-visionbased-teleoperation-system-that-can-be-applied-to-different-robots.md",
+      "title": "A computer vision–based teleoperation system that can be applied to different robots",
+      "excerpt": "Recent advances in the fields of robotics and artificial intelligence (AI) have opened exciting new avenues for teleoperation, the remote control of robots to complete tasks in a distant location. This could,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-08-visionbased-teleoperation-robots.html",
+      "originalUrl": "https://techxplore.com/news/2023-08-visionbased-teleoperation-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/a-computer-vision-base.jpg",
+          "width": 1999,
+          "height": 1159,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-08-visionbased-teleoperation-robots.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-visionbased-teleoperation-robots.amp",
+      "publishedDateTime": "2023-08-01T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-the-future-of-ai-powered-robotics-a-game-changer-in-warfare.md",
+      "title": "The Future of AI-Powered Robotics: A Game-Changer in Warfare",
+      "excerpt": "A perspective of what the luminescent future of AI could mean for AI-powered robots, exploring the potential impact of robotics being deployed in naval operations and warfare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technowize.com/the-future-of-ai-powered-robotics-a-game-changer-in-warfare/",
+      "originalUrl": "https://www.technowize.com/the-future-of-ai-powered-robotics-a-game-changer-in-warfare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Technowize",
+        "domain": "technowize.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-openais-sam-altman-links-2-hot-tech-trends-with-his-new-worldcoin-artificial-intelligence-and-crypto-but-theres-a-lot-more-to-the-story.md",
+      "title": "OpenAI’s Sam Altman links 2 hot tech trends with his new Worldcoin: artificial intelligence and crypto. But there’s a lot more to the story",
+      "excerpt": "David Paul Morris/Bloomberg via Getty Images Artificial intelligence has taken over much of the financial ... create a global network of digital identities for a world in which AI robots become harder to distinguish from humans. Users of the service ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2023/07/31/sam-altman-worldcoin-crypto-ai/",
+      "originalUrl": "https://fortune.com/2023/07/31/sam-altman-worldcoin-crypto-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2023/07/GettyImages-1529732548-e1690845571166.jpg?w=840",
+          "width": 840,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2023/07/31/sam-altman-worldcoin-crypto-ai/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/07/31/sam-altman-worldcoin-crypto-ai/amp/",
+      "publishedDateTime": "2023-07-31T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-buy-alert-3-robotics-stocks-nearing-super-attractive-entry-points.md",
+      "title": "Buy Alert: 3 Robotics Stocks Nearing Super Attractive Entry Points",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Before artificial intelligence (AI) became a household word, there was",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-high-potential-robotics-investments-that-look-super-attractive-1032497309",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-high-potential-robotics-investments-that-look-super-attractive-1032497309",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T15:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-of-americans-see-ai-and-robotics-providing-future-care.md",
+      "title": "⅓ of Americans see AI and robotics providing future care",
+      "excerpt": "Americans are increasingly open to the use of AI-based care as they age, with many willing to accept robots to help with dressing, bathroom use and emergency alerts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html",
+      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-one-third-of-americans-see-ai-and-robotics-providing-future-care.md",
+      "title": "One-third of Americans see AI and robotics providing future care",
+      "excerpt": "Americans are increasingly open to the use of AI-based care as they age, with many willing to accept robots to help with dressing, bathroom use and emergency alerts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html",
+      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-dobot-robotics-signs-letter-of-intent-with-venhub.md",
+      "title": "DoBot Robotics signs letter of intent with VenHub",
+      "excerpt": "DoBot Robotics has signed a Letter of Intent with VenHub, a company developing a modular retail platform built on expendable containers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/dobot-robotics-signs-letter-of-intent-with-venhub/",
+      "originalUrl": "https://www.therobotreport.com/dobot-robotics-signs-letter-of-intent-with-venhub/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/dobot-collab-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa.md",
+      "title": "Flapmax Partners with Intel to Accelerate Artificial Intelligence (AI) Innovation in Africa",
+      "excerpt": "Flapmax ( a leading artificial intelligence (AI) company, announced today its strategic partnership with Intel, the global technology leader, to foster AI innovation and drive economic empowerment in Africa.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4",
+      "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.africa-newsroom.com/files/large/4c4926520fbb131",
+          "width": 929,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4?amp=1",
+      "publishedDateTime": "2023-07-31T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans.md",
+      "title": "Google's RT-2 AI Model: A Step Closer To Robots That Can Learn Like Humans",
+      "excerpt": "The advent of models such as the RT-2 is a testament to how advancements in AI are swiftly influencing robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c7609beb8e510cf216a828/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/amp/",
+      "publishedDateTime": "2023-07-31T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-deepminds-rt-2-makes-robot-control-a-matter-of-ai-chat.md",
+      "title": "DeepMind's RT-2 makes robot control a matter of AI chat",
+      "excerpt": "Instructing a robot can be just a matter of a large language model that handles actions in the same prompt as images and words.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/",
+      "originalUrl": "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/69766a4a0ca637cc1b3aa27816b94e2102772847/2023/07/31/dcacd18a-42b7-4fd8-b9ef-c05a182163b6/deepmind-rt-2-picks-up-objects.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-30T22:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-the-first-self-driving-car-fatality-case-put-to-rest-who-was-responsible-for-killing-a-pedestrian-in-this-case-it-was-not-the-robot.md",
+      "title": "The first self-driving car fatality case put to rest who was responsible for killing a pedestrian. In this case, it was not the robot.",
+      "excerpt": "Rafaela Vasquez, who was behind the wheel of a self-driving Uber that killed a pedestrian in 2018, pleaded guilty to endangerment on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7",
+      "originalUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64c6e413048ff200190dc4ee?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp",
+      "publishedDateTime": "2023-07-30T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-30-from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.md",
+      "title": "From robot waiters to DNA-based menus: How AI is changing the food industry",
+      "excerpt": "This technology can optimize processes in a kitchen and transform the way restaurants operate. For customers, it could mean targeted menus and pricing changes in real time",
+      "sourceUrl": null,
+      "webUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html",
+      "originalUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.english.elpais.com/resizer/MikA5DG10cupeGKdb7L3Tpv6wns=/1200x0/filters:focal(3158x1571:3168x1581)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/U6CGZ3DPCFFFXB5X6NB22RSCUI.jpg",
+          "width": 1200,
+          "height": 888,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html?outputType=amp",
+      "cdnAmpWebUrl": "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html?outputType=amp",
+      "publishedDateTime": "2023-07-29T15:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "El País in English",
+        "domain": "elpais.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-the-robots-we-were-afraid-of-are-already-here.md",
+      "title": "The Robots We Were Afraid of Are Already Here",
+      "excerpt": "The long-anticipated automation revolution has begun. Robots are ready to operate forklifts and do laundry. It’s not as scary as it sounds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/07/29/business/robots-workers-future.html",
+      "originalUrl": "https://www.nytimes.com/2023/07/29/business/robots-workers-future.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/07/30/multimedia/00mr-robot-01-zmfw/00mr-robot-01-zmfw-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-29T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-google-deepmind-enables-robots-to-perform-novel-tasks.md",
+      "title": "Google DeepMind enables robots to perform novel tasks",
+      "excerpt": "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic and visual understanding beyond the robotic data it was exposed to.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-29T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-taking-killer-robots-seriously.md",
+      "title": "Taking Killer Robots Seriously",
+      "excerpt": "Now’s as good a time as any to start taking killer robots seriously ... Our guess is that solving the AI and autonomy problems are just a matter of time. While gadflys like Elon Musk and ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2016/06/27/taking-killer-robots-seriously/",
+      "originalUrl": "https://hackaday.com/2016/06/27/taking-killer-robots-seriously/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2016/06/robotkill.jpg",
+          "width": 3519,
+          "height": 2039,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics-allbi-is-on-board.md",
+      "title": "Perfect software with perfect hardware! Blockchain, artificial intelligence, robotics - ALLBI is on board",
+      "excerpt": "ALLBI is a consumer-oriented cryptocurrency project launched in the U.K. by LEX PARTNERS LTD, which focuses on environmental care, clean",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics---allbi-is-on-board-1032489622",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics---allbi-is-on-board-1032489622",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/0Qs0EITqVZabcNzobJLcG7NxPF53/1690518197013-0.jpg",
+          "width": 800,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-google-unveils-ai-robot-rt-2-translates-vision-and-language-into-robotic-actions.md",
+      "title": "Google Unveils AI Robot: RT-2 Translates Vision and Language into Robotic Actions",
+      "excerpt": "Google this Friday disclosed its new artificial intelligence model that translates vision and language into robotic actions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/07/33444703/google-unveils-ai-robot-rt-2-translates-vision-and-language-into-robotic-actions",
+      "originalUrl": "https://www.benzinga.com/news/23/07/33444703/google-unveils-ai-robot-rt-2-translates-vision-and-language-into-robotic-actions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/07/28/google_ai.png?width=1200&height=800&fit=crop",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33444703",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33444703",
+      "publishedDateTime": "2023-07-28T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-automatic-for-the-people-how-robotics-is-transforming-life-sciences-research.md",
+      "title": "Automatic for the people - how robotics is transforming life sciences research",
+      "excerpt": "But in life sciences, lab hardware tends to be standardized: a test tube, bench, pipette, and other specialist equipment will, broadly, be the same in every lab. This means that repetitive processes can be automated and replicated, opening up a global market – and to solve global problems.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/automatic-people-how-robotics-transforming-life-sciences-research",
+      "originalUrl": "https://diginomica.com/automatic-people-how-robotics-transforming-life-sciences-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2023-05/6698E22A-5065-4726-AB0C-5A37DCE72104.jpeg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/automatic-people-how-robotics-transforming-life-sciences-research?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/automatic-people-how-robotics-transforming-life-sciences-research?amp",
+      "publishedDateTime": "2023-07-28T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-speaking-robot-our-new-ai-model-translates-vision-and-language-into-robotic-actions.md",
+      "title": "Speaking robot: Our new AI model translates vision and language into robotic actions",
+      "excerpt": "Google DeepMind introduces a new vision-language-action model for improving robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/",
+      "originalUrl": "https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/speaking_robot.width-1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/amp/",
+      "publishedDateTime": "2023-07-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-is-indian-agriculture-ready-for-robotics-and-ai.md",
+      "title": "Is Indian agriculture ready for robotics and AI?",
+      "excerpt": "Does India need a national level institute for agricultural robotics and artificial intelligence? The Parliamentary Standing Committee on Agriculture, an all-party Parliamentary mechanism tasked ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html",
+      "originalUrl": "https://www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2018/12/Tractor-770x433.jpg",
+          "width": 770,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html/amp",
+      "publishedDateTime": "2023-07-27T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-how-to-invest-in-artificial-intelligence.md",
+      "title": "How to Invest in Artificial Intelligence",
+      "excerpt": "Here are some of the best AI ETFs to consider: Global X Robotics & Artificial Intelligence ETF (BOTZ): This fund invests in companies that are likely to benefit from the growth in robotics and AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://moneymorning.com/artificial-intelligence-investing-guide/how-to-invest-in-artificial-intelligence/",
+      "originalUrl": "https://moneymorning.com/artificial-intelligence-investing-guide/how-to-invest-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Money Morning",
+        "domain": "moneymorning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-a-simpler-method-for-learning-to-control-a-robot.md",
+      "title": "A simpler method for learning to control a robot",
+      "excerpt": "(Nanowerk News) Researchers from MIT and Stanford University have devised a new machine-learning approach that could be used to control a robot, such as a drone or autonomous vehicle, more effectively and efficiently in dynamic environments where ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=63411.php",
+      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=63411.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nanowerk.com/smart/images/smartworlder.jpg",
+          "width": 400,
+          "height": 217,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off.md",
+      "title": "Robot vacuum deal: Score this reviewer-loved Shark AI robot vacuum for 40% off",
+      "excerpt": "Amazon is currently offering an impressive deal on a top-rated Shark robot vacuum. Right now you can get this Shark AI robot vacuum for 40% off. But hurry -- this robot vacuum deal won't last.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
+      "originalUrl": "https://www.cbsnews.com/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/14/d229c37b-5441-4ada-9e20-437bdf0ce2bd/thumbnail/1200x630/3b4bc9d8b4342f925e9f92d06aef8499/shark-ai-robovac-header.png?v=86db2ab42e1f4996c0f037a20ce5a325",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
+      "publishedDateTime": "2023-07-27T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-more-battlefield-ai-will-make-the-fog-of-war-more-deadly.md",
       "title": "More Battlefield AI Will Make the Fog of War More Deadly",
       "excerpt": "The Pentagon’s embrace of military AI raises questions about what limits should be placed on the technology—and how to keep humans in control.",
@@ -269,180 +1354,7 @@
         "AI",
         "Facebook AI"
       ]
-    },
-    {
-      "path": "_news/2023-07-25-is-this-ai-and-robotics-chip-stock-a-buy-now.md",
-      "title": "Is This AI and Robotics Chip Stock a Buy Now?",
-      "excerpt": "Teradyne sounds like a great little AI and robotics stock for chips and industrial automation alike, but it's not all rosy. Like any manufacturing business, Teradyne can go through some nasty cyclical downturns. That's exactly what is transpiring right now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740713/ai-robotics-cloud-software-metaverse.jpg",
-          "width": 3372,
-          "height": 1809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-robot-litter-boxes-cast-iron-skillets-and-more-4-things-you-didnt-know-were-made-in-sheboygan.md",
-      "title": "Robot litter boxes, cast iron skillets and more — 4 things you didn’t know were made in Sheboygan",
-      "excerpt": "In addition to household company names and goods, like Ellingers Agatized Bowls and Kohler, here are four products you may not have known were locally made. Well-known for toilet seats, Bemis Manfacturing also makes parts for Whisker’s robotic cat litter box.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sheboyganpress.com/story/money/2023/07/25/robotic-litter-boxes-and-more-surprising-things-made-in-sheboygan/70434424007/",
-      "originalUrl": "https://www.sheboyganpress.com/story/money/2023/07/25/robotic-litter-boxes-and-more-surprising-things-made-in-sheboygan/70434424007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sheboygan Press",
-        "domain": "sheboyganpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-artificial-intelligence-ai-robots-market-projections-regional-outlook-rapid-growth-and-trend-by-2023-to-2030.md",
-      "title": "Artificial Intelligence (AI) Robots Market Projections, Regional Outlook, Rapid Growth and Trend by 2023 to 2030",
-      "excerpt": "Global Artificial Intelligence (AI) Robots Market is valued approximately USD 6.90 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 38.6% over the forecast period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33361808/artificial-intelligence-ai-robots-market-projections-regional-outlook-rapid-growth-and-trend-by-202",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33361808/artificial-intelligence-ai-robots-market-projections-regional-outlook-rapid-growth-and-trend-by-202",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33361808",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33361808",
-      "publishedDateTime": "2023-07-24T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-robot-preachers-get-less-respect-fewer-donations.md",
-      "title": "Robot preachers get less respect, fewer donations",
-      "excerpt": "As artificial intelligence expands across more professions, robot preachers and AI programs offer new means of sharing religious beliefs, but they may undermine credibility and reduce donations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230724122654.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230724122654.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 14
 }

@@ -2,297 +2,21 @@
   "page": 40,
   "value": [
     {
-      "path": "_news/2023-10-02-deepmb-a-deep-learning-framework-for-high-quality-optoacoustic-imaging-in-real-time.md",
-      "title": "DeepMB: a deep learning framework for high-quality optoacoustic imaging in real-time",
-      "excerpt": "Researchers at Helmholtz Munich and the Technical University of Munich have made significant progress in advancing high-resolution optoacoustic imaging for clinical use. Their innovative deep-learning framework,",
+      "path": "_news/2023-10-05-jpmorgan-ceo-jamie-dimon-says-ai-could-ultimately-reduce-the-workweek-to-35-daysbut-theres-a-catch.md",
+      "title": "JPMorgan CEO Jamie Dimon Says AI Could Ultimately Reduce The Workweek To 3.5 Days—But There’s A Catch",
+      "excerpt": "JPMorgan CEO Jamie Dimon predicts that artificial intelligence will lead to a three-and-a-half-day workweek for the next generation of employees.",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1003410",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1003410",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-10-blockbuster-ai-ma-deals-on-the-horizon.md",
-      "title": "10 Blockbuster AI M&A Deals On The Horizon",
-      "excerpt": "Hugging Face is often described as the “GitHub of AI.” It is an apt comparison. GitHub and Hugging Face are both open-source repositories where developers can share and explore one another’s work—code in the case of GitHub, AI models and datasets in the case of Hugging Face.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-deals-on-the-horizon/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-deals-on-the-horizon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65185bfe96699717e8614931/0x0.jpg?format=jpg&crop=1744,981,x0,y49,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-deals-on-the-horizon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-deals-on-the-horizon/amp/",
-      "publishedDateTime": "2023-10-01T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers.md",
-      "title": "New police intelligence tool speedily sending information on risk to frontline officers",
-      "excerpt": "using IBM Watson AI and so-called i2 visual tech spun off from IBM. It provides “dramatically more useful” intelligence, especially about firearm threats, the papers said. This is disclosed in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nzherald.co.nz/nz/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/WEHYMECHMJEAHDE2YKTA676JVE/",
-      "originalUrl": "https://www.nzherald.co.nz/nz/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/WEHYMECHMJEAHDE2YKTA676JVE/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nzherald.co.nz/resizer/lG4iwT4o0_nv5-b1l_S9aLPpo2Y=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/O34OTTPSBBANLDKXXNGHTA7LCY.JPG",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-01T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Zealand Herald",
-        "domain": "nzherald.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-3-robotics-stocks-set-to-explode-higher.md",
-      "title": "3 Robotics Stocks Set to Explode Higher",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The AI boom has been nothing short of remarkable, with companies like OpenAI",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-set-to-explode-higher-1032668473",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-set-to-explode-higher-1032668473",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-01T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-can-ai-tear-down-healthcares-data-silos.md",
-      "title": "Can AI Tear Down Healthcare’s Data Silos?",
-      "excerpt": "AI has a potentially large role to play in making sense of the data pieces. Some of the earliest widespread applications may be where the bar isn’t daunting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenwunker/2023/10/01/can-ai-tear-down-healthcares-data-silos/",
-      "originalUrl": "https://www.forbes.com/sites/stephenwunker/2023/10/01/can-ai-tear-down-healthcares-data-silos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6519b37e747725fd8ee62144/0x0.png?format=png&width=1200",
-          "width": 1200,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenwunker/2023/10/01/can-ai-tear-down-healthcares-data-silos/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/10/01/can-ai-tear-down-healthcares-data-silos/amp/",
-      "publishedDateTime": "2023-10-01T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-01-ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social-email.md",
-      "title": "AI Showdown, Part 3: ChatGPT, Claude, Bing, And Bard On Social & Email",
-      "excerpt": "In this finale, four generative AI chatbots tackle content distribution by writing social content and emails to promote blog posts. Find out who won the AI Showdown!",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/",
-      "originalUrl": "https://www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651829d4d7d9789d5dd0259f/0x0.jpg?format=jpg&crop=3544,1995,x0,y183,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/amp/",
-      "publishedDateTime": "2023-10-01T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-01-ai-chatbots-let-you-interview-historical-figures-like-harriet-tubman-thats-probably-not-a-good-idea.md",
-      "title": "AI chatbots let you 'interview' historical figures like Harriet Tubman. That's probably not a good idea.",
-      "excerpt": "the founder and a principal researcher at Montreal AI Ethics Institute, told Insider by email. Tiraana Bains, an assistant professor of history at Brown University, said the bots can close off ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-chatbots-ethics-dangers-historical-figures-2023-10",
-      "originalUrl": "https://www.businessinsider.com/ai-chatbots-ethics-dangers-historical-figures-2023-10",
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/10/05/jpmorgan-ceo-jamie-dimon-says-ai-could-ultimately-reduce-the-workweek-to-35-days-but-theres-a-catch/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/10/05/jpmorgan-ceo-jamie-dimon-says-ai-could-ultimately-reduce-the-workweek-to-35-days-but-theres-a-catch/",
       "featuredContent": null,
       "highlight": null,
       "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/651933ec5640b20019d795a8?width=1200&format=jpeg",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651ee11751addfab8a33165f/0x0.jpg?format=jpg&crop=8191,4605,x0,y0,safe&width=1200",
           "width": 1200,
-          "height": 600,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -300,192 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-chatbots-ethics-dangers-historical-figures-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chatbots-ethics-dangers-historical-figures-2023-10?amp",
-      "publishedDateTime": "2023-10-01T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-01-new-york-bans-use-of-facial-recognition-technology-in-schools.md",
-      "title": "New York bans use of facial recognition technology in schools",
-      "excerpt": "The state’s education commissioner, Betty A. Rosa, announced on Wednesday that she would be banning the use of facial recognition technology in schools across the state. It follows a 49-page ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wgrz.com/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
-      "originalUrl": "https://www.wgrz.com/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wgrz.com/assets/WGRZ/images/b8e41be7-fb05-4843-8f1a-3030ee4de98c/b8e41be7-fb05-4843-8f1a-3030ee4de98c_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
-      "cdnAmpWebUrl": "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
-      "publishedDateTime": "2023-10-01T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGRZ",
-        "domain": "wgrz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-01-my-way-or-the-ai-way-companies-approach-govt-for-infra-amid-gpu-scarcity.md",
-      "title": "My way or the AI way: Companies approach govt for infra amid GPU scarcity",
-      "excerpt": "GPUs are the highways AI requires. Companies are therefore petitioning the Centre to invest in the vital compute infrastructure so that local startups can compete and win meaningfully in the frenetic global AI race.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/my-way-or-the-ai-way-companies-approach-govt-for-vital-compute-infra-amid-gpu-scarcity/articleshow/104072796.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/my-way-or-the-ai-way-companies-approach-govt-for-vital-compute-infra-amid-gpu-scarcity/articleshow/104072796.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg",
-          "width": 710,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/my-way-or-the-ai-way-companies-approach-govt-for-vital-compute-infra-amid-gpu-scarcity/amp_articleshow/104072796.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/my-way-or-the-ai-way-companies-approach-govt-for-vital-compute-infra-amid-gpu-scarcity/amp_articleshow/104072796.cms",
-      "publishedDateTime": "2023-09-30T17:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-01-efficient-training-for-artificial-intelligence.md",
-      "title": "Efficient training for artificial intelligence",
-      "excerpt": "New physics-based self-learning machines could replace the current artificial neural networks and save energy. Artifical intelligence not only affords impressive performance, but also creates ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230922110755.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230922110755.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-30T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-10-01-how-general-ai-will-eventually-reshape-everything.md",
-      "title": "How General AI Will Eventually Reshape Everything",
-      "excerpt": "This article discusses General AI and highlights how the AI industry is unfolding advancing efforts to develop General AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/09/30/how-general-ai-will-eventually-reshape-everything/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/09/30/how-general-ai-will-eventually-reshape-everything/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ae0066bacde4972dcc7317/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/09/30/how-general-ai-will-eventually-reshape-everything/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/09/30/how-general-ai-will-eventually-reshape-everything/amp/",
-      "publishedDateTime": "2023-09-30T13:48:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/10/05/jpmorgan-ceo-jamie-dimon-says-ai-could-ultimately-reduce-the-workweek-to-35-days-but-theres-a-catch/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/10/05/jpmorgan-ceo-jamie-dimon-says-ai-could-ultimately-reduce-the-workweek-to-35-days-but-theres-a-catch/amp/",
+      "publishedDateTime": "2023-10-05T09:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -508,78 +49,25 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-10-01-eu-examines-nvidia-dominated-ai-chip-markets-alleged-abuses-bloomberg-reports.md",
-      "title": "EU examines Nvidia-dominated AI chip market's alleged abuses, Bloomberg reports",
-      "excerpt": "The European Union is examining alleged anticompetitive practices in chips used for artificial intelligence, a market that Nvidia dominates, Bloomberg News reported on Friday, citing people familiar with the matter.",
+      "path": "_news/2023-10-05-using-artificial-intelligence-scientists-develop-self-driving-microscopy-technique.md",
+      "title": "Using artificial intelligence, scientists develop self-driving microscopy technique",
+      "excerpt": "Inspired by this notion, scientists are harnessing the power of artificial intelligence (AI ... Argonne National Laboratory have developed an autonomous, or self-driving, microscopy technique. It uses AI to selectively target points of interest for ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/nvidia-eu/corrected-eu-starts-early-stage-probe-into-alleged-abuses-in-nvidia-dominated-ai-chip-market-bloomberg-news-idUSL4N3B52SQ",
-      "originalUrl": "https://www.reuters.com/article/nvidia-eu/corrected-eu-starts-early-stage-probe-into-alleged-abuses-in-nvidia-dominated-ai-chip-market-bloomberg-news-idUSL4N3B52SQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/4kOYyzKm7xM-DNWLSeP-1NkoV2A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DXSTHXNJHRMPHDTFZPWWCV3QOA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-30T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-commentary-nothing-to-fear-with-artificial-intelligence.md",
-      "title": "Commentary: Nothing to fear with artificial intelligence",
-      "excerpt": "Swiss scientist Conrad Gessner provided an early warning about the dangers of information overload. He worried that broad access to information was going to be “confusing and harmful” to the",
-      "sourceUrl": null,
-      "webUrl": "https://www.swnewsmedia.com/savage_pacer/news/opinion/columnists/commentary-nothing-to-fear-with-artificial-intelligence/article_bd868fd8-5d56-11ee-8bd3-cb8cc11d7962.html",
-      "originalUrl": "https://www.swnewsmedia.com/savage_pacer/news/opinion/columnists/commentary-nothing-to-fear-with-artificial-intelligence/article_bd868fd8-5d56-11ee-8bd3-cb8cc11d7962.html",
+      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=63783.php",
+      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=63783.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/swnewsmedia.com/content/tncms/assets/v3/editorial/0/84/0847f0d8-2e8b-54cb-be91-d9daf634e5a0/5afc44dfa3e0e.image.jpg?resize=400%2C593",
-          "width": 400,
-          "height": 593,
+          "url": "https://www.nanowerk.com/news2/robotics/id63783_1.jpg",
+          "width": 534,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -589,11 +77,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-30T06:00:00-07:00",
+      "publishedDateTime": "2023-10-05T08:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Shakopee Valley News",
-        "domain": "swnewsmedia.com",
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -608,114 +96,35 @@
       ]
     },
     {
-      "path": "_news/2023-09-30-artificial-intelligence-ai-faqs.md",
-      "title": "Artificial intelligence (AI) – FAQs",
-      "excerpt": "Q: What was the need of artificial intelligence? A: Out of millions of human beings, only Newton wondered why the apple falls to the ground. Rest of the population was busy blaming each other for ...",
+      "path": "_news/2023-10-05-network-security-gurus-5-bets-on-azure-aws-and-cisco-splunk.md",
+      "title": "Network Security Guru’s 5 Bets On Azure, AWS And Cisco-Splunk",
+      "excerpt": "Microsoft Azure, AWS and Cisco’s acquisition of Splunk are big bets for Sentinel Technologies around increasing network security and services sales.",
       "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
+      "webUrl": "https://www.crn.com/news/cloud/network-security-guru-s-5-bets-on-azure-aws-and-cisco-splunk",
+      "originalUrl": "https://www.crn.com/news/cloud/network-security-guru-s-5-bets-on-azure-aws-and-cisco-splunk",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/04/GSB-pic.jpg",
-          "width": 687,
-          "height": 989,
+          "url": "https://www.crn.com/resources/0286-19249d9d056d-3a61f7e24af0-1000/bob-keblusek-sentinel.jpeg",
+          "width": 610,
+          "height": 458,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
-      "publishedDateTime": "2023-09-30T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-us-national-security-agency-unveils-artificial-intelligence-security-centre.md",
-      "title": "US National Security Agency unveils artificial intelligence security centre",
-      "excerpt": "The United States National Security Agency (NSA) has announced the creation of an artificial intelligence security centre that will oversee the development and integration of AI capabilities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/news/2023/9/29/us-national-security-agency-unveils-artificial-intelligence-security-centre",
-      "originalUrl": "https://www.aljazeera.com/news/2023/9/29/us-national-security-agency-unveils-artificial-intelligence-security-centre",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aljazeera.com/wp-content/uploads/2023/09/AP23271693350092-1695953886.jpg?resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/news/2023/9/29/us-national-security-agency-unveils-artificial-intelligence-security-centre",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2023/9/29/us-national-security-agency-unveils-artificial-intelligence-security-centre",
-      "publishedDateTime": "2023-09-30T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-families-in-rural-areas-have-difficulty-getting-services-for-their-children-with-autism-spectrum-disorder.md",
-      "title": "Families in rural areas have difficulty getting services for their children with autism spectrum disorder",
-      "excerpt": "Autism spectrum disorder (ASD) is a childhood neurodevelopmental disorder associated with significant lifelong delays in cognitive functioning ... currently is how to get children into these crucial services without waiting too long.",
-      "sourceUrl": null,
-      "webUrl": "https://www.simcoe.com/opinion/families-in-rural-areas-have-difficulty-getting-services-for-their-children-with-autism-spectrum-disorder/article_3f6cb42a-7eca-5d84-8ea9-e812f6c68fd7.html",
-      "originalUrl": "https://www.simcoe.com/opinion/families-in-rural-areas-have-difficulty-getting-services-for-their-children-with-autism-spectrum-disorder/article_3f6cb42a-7eca-5d84-8ea9-e812f6c68fd7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-29T23:29:00-07:00",
+      "publishedDateTime": "2023-10-05T08:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Simcoe",
-        "domain": "simcoe.com",
+        "name": "CRN",
+        "domain": "crn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -726,25 +135,61 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI",
+        "AI in Security",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023.md",
+      "title": "The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023",
+      "excerpt": "The post The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023 appeared first on InvestorPlace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023",
+      "originalUrl": "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-30-microsofts-generative-ai-initiatives-a-vision-to-transform-businesses.md",
-      "title": "Microsoft's Generative AI Initiatives - A Vision to Transform Businesses",
-      "excerpt": "Through analyzing historical data and pattern recognition, generative algorithms empower businesses to make precise predictions, facilitating well-informed decisions that enhance supply chain management,",
+      "path": "_news/2023-10-05-new-technique-based-on-18th-century-mathematics-shows-simpler-ai-models-dont-need-deep-learning.md",
+      "title": "New technique based on 18th-century mathematics shows simpler AI models don't need deep learning",
+      "excerpt": "Researchers from the University of Jyväskylä were able to simplify the most popular technique of artificial intelligence, deep learning, using 18th-century mathematics. They also found that classical training algorithms that date back 50 years work better than the more recently popular techniques.",
       "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses",
+      "webUrl": "https://techxplore.com/news/2023-10-technique-based-18th-century-mathematics-simpler.html",
+      "originalUrl": "https://techxplore.com/news/2023-10-technique-based-18th-century-mathematics-simpler.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 93,
       "tags": null,
       "images": [
         {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_09_2023_10_10_49_7841185.jpg?width=1280",
-          "width": 1280,
-          "height": 1046,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/simpler-ai-models-dont.jpg",
+          "width": 1654,
+          "height": 846,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -752,9 +197,155 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses?amp",
-      "publishedDateTime": "2023-09-29T21:34:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2023-10-technique-based-18th-century-mathematics-simpler.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-technique-based-18th-century-mathematics-simpler.amp",
+      "publishedDateTime": "2023-10-05T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-ai-powered-parking-platform-metropolis-raises-17b-to-acquire-sp-plus.md",
+      "title": "AI-powered parking platform Metropolis raises $1.7B to acquire SP Plus",
+      "excerpt": "AI-powered parking platform Metropolis today announced that ... where it sees a large addressable market. For example, the startup — which recently announced a team-up with Uber to launch Uber Park — uses insights from its platform to inform staffing ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/05/ai-powered-parking-platform-metropolis-raises-1-7b-to-acquire-sp-plus/",
+      "originalUrl": "https://techcrunch.com/2023/10/05/ai-powered-parking-platform-metropolis-raises-1-7b-to-acquire-sp-plus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-200245146-001.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/05/ai-powered-parking-platform-metropolis-raises-1-7b-to-acquire-sp-plus/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/05/ai-powered-parking-platform-metropolis-raises-1-7b-to-acquire-sp-plus/amp/",
+      "publishedDateTime": "2023-10-05T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-google-pixel-launch-event-impresses-with-new-tech-and-ai-stock-price-lifts.md",
+      "title": "Google Pixel Launch Event Impresses With New Tech And AI, Stock Price Lifts",
+      "excerpt": "The launch was a welcome distraction for Google from its ongoing antitrust trial, with rival Microsoft CEO Satya Nadella testifying this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/10/05/google-pixel-launch-event-impresses-with-new-tech-and-ai-stock-price-lifts/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/10/05/google-pixel-launch-event-impresses-with-new-tech-and-ai-stock-price-lifts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651ed1af3984ca41e96f20cb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/10/05/google-pixel-launch-event-impresses-with-new-tech-and-ai-stock-price-lifts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/10/05/google-pixel-launch-event-impresses-with-new-tech-and-ai-stock-price-lifts/amp/",
+      "publishedDateTime": "2023-10-05T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri.md",
+      "title": "Microsoft Translator adds four new Indian languages including Bhojpuri and Kashmiri",
+      "excerpt": "Microsoft Translator gets a step closer to its goal of supporting all 22 official Indian languages with the addition of four new local languages including Bhojpuri, Bodo, Dogri, and Kashmiri.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2619452-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2619452-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_08_2021_14_14_20_6213924.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2619452-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2619452-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri?amp",
+      "publishedDateTime": "2023-10-05T07:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "devdiscourse",
@@ -768,260 +359,27 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-205-awesome-chatgpt-prompts-you-need-to-try.md",
-      "title": "205 Awesome ChatGPT Prompts You Need to Try",
-      "excerpt": "When it comes to chatbots, the quality of the output is determined by the quality of the input! Use these ChatGPT prompts, tweak them to your business' unique needs, and leverage the power of AI and LLMs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/outlook-spotlight/205-awesome-chatgpt-prompts-you-need-to-try-news-321422",
-      "originalUrl": "https://www.outlookindia.com/outlook-spotlight/205-awesome-chatgpt-prompts-you-need-to-try-news-321422",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-29T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-5-hot-ai-jobs-to-consider-for-2024.md",
-      "title": "5 Hot AI Jobs To Consider For 2024",
-      "excerpt": "It’s clear that AI (artificial intelligence) is here to stay and these are 5 AI jobs that will be in-demand in the future",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shodewan/2023/09/29/5-ai-jobs-to-consider-for-2024/",
-      "originalUrl": "https://www.forbes.com/sites/shodewan/2023/09/29/5-ai-jobs-to-consider-for-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651751537e5abdefd7b1f0bc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shodewan/2023/09/29/5-ai-jobs-to-consider-for-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2023/09/29/5-ai-jobs-to-consider-for-2024/amp/",
-      "publishedDateTime": "2023-09-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-waymos-self-driving-cars-on-miami-streets-as-company-tests-its-technology.md",
-      "title": "Waymo's self driving cars on Miami streets as company tests its technology",
-      "excerpt": "To improve their next generation of software, company officials have returned along with their vehicles to the streets of Miami. While the cars will be in autonomous mode at times, there will be an operator inside of them, officials said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/miami/news/waymos-self-driving-cars-on-miami-streets-as-company-tests-its-technology/",
-      "originalUrl": "https://www.cbsnews.com/miami/news/waymos-self-driving-cars-on-miami-streets-as-company-tests-its-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2021/08/31/2decdf36-b00e-4972-8ab9-96992453c9a8/thumbnail/1200x630/ae72ef8ccc3824360c6317c4fc32f677/waymotestdrive.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/miami/news/waymos-self-driving-cars-on-miami-streets-as-company-tests-its-technology/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/waymos-self-driving-cars-on-miami-streets-as-company-tests-its-technology/",
-      "publishedDateTime": "2023-09-29T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-can-generative-ai-solve-computer-sciences-greatest-unsolved-problem.md",
-      "title": "Can generative AI solve computer science's greatest unsolved problem?",
-      "excerpt": "Does P = NP? -- is a grand theoretical challenge. Scientists took the approach of spoon-feeding ideas to GPT-4 to seek an answer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/can-generative-ai-solve-computer-sciences-greatest-unsolved-problem/",
-      "originalUrl": "https://www.zdnet.com/article/can-generative-ai-solve-computer-sciences-greatest-unsolved-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2a2f4ea75ba97a05d420448e3fbda0449abec4e7/2023/09/29/1cf390aa-8895-4a67-8373-05221dc63edb/an-incredibly-complex-computer-the-size-of-a-room-with-hundreds-of-gears-levers-and-dials-and-a-dig-clipdrop-variants-clipdrop-enhance.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-generative-ai-solve-computer-sciences-greatest-unsolved-problem/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-generative-ai-solve-computer-sciences-greatest-unsolved-problem/",
-      "publishedDateTime": "2023-09-29T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-the-synergy-of-artificial-intelligence-and-robots-in-medical-practice.md",
-      "title": "The Synergy Of Artificial Intelligence And Robots In Medical Practice",
-      "excerpt": "This story is part of a series on the current progression in Regenerative Medicine. This piece discusses advances in the use of artificial intelligence in medical robotics. In 1999, I defined regenerative medicine as the collection of interventions that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/09/29/the-synergy-of-artificial-intelligence-and-robots-in-medical-practice/",
-      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/09/29/the-synergy-of-artificial-intelligence-and-robots-in-medical-practice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65130a5ead5718f2fc508e5d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/09/29/the-synergy-of-artificial-intelligence-and-robots-in-medical-practice/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/09/29/the-synergy-of-artificial-intelligence-and-robots-in-medical-practice/amp/",
-      "publishedDateTime": "2023-09-29T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
+        "Natural Language Processing",
         "AI",
-        "AI in Healthcare",
-        "AI in Autos"
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_news/2023-09-30-would-you-ask-facebook-ai-snoop-dogg-for-frozen-yogurt-suggestions.md",
-      "title": "Would you ask Facebook AI Snoop Dogg for frozen yogurt suggestions?",
-      "excerpt": "Meta this week unveiled AI that lets you chat with virtual likenesses of celebrities. Real talk, would you text with Facebook AI Snoop Dogg about video games or frozen yogurt shops? Microsoft and ...",
+      "path": "_news/2023-10-05-likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations.md",
+      "title": "Likewise debuts Pix, an AI chatbot for entertainment recommendations",
+      "excerpt": "Likewise, the company behind an app that can recommend your next TV binge, movie to watch, podcast to stream, or book to read, is out today with its own",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2023/09/29/ai-doesnt-work-alexa/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2023/09/29/ai-doesnt-work-alexa/",
+      "webUrl": "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/",
+      "originalUrl": "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 207,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VOCQHV6NEZDJRALBLIUSJZ6BV4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/pix-app.jpg?resize=1200,642",
+          "width": 1200,
+          "height": 642,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1029,14 +387,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-29T11:48:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/amp/",
+      "publishedDateTime": "2023-10-05T07:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1045,24 +412,23 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-30-frances-take-on-artificial-intelligence-and-on-the-eu-artificial-intelligence-act-under-discussion.md",
-      "title": "France’s Take on Artificial Intelligence and on the EU Artificial Intelligence Act Under Discussion",
-      "excerpt": "“I would like France to be one of the leaders in artificial intelligence; I would like Europe to be one of the leaders in artificial intelligence.” This statement by President Emmanuel Macron ...",
+      "path": "_news/2023-10-05-5-human-advantages-marketers-can-use-in-the-ai-revolution.md",
+      "title": "5 Human Advantages Marketers Can Use In The AI Revolution",
+      "excerpt": "Marketers can capitalize on their humanity by crafting emotive and humorous content, standing out amidst the sea of AI-generated content.",
       "sourceUrl": null,
-      "webUrl": "https://www.jdsupra.com/legalnews/france-s-take-on-artificial-8061746/",
-      "originalUrl": "https://www.jdsupra.com/legalnews/france-s-take-on-artificial-8061746/",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15731_377.jpg",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef275d1002e6b0008173689/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
           "height": 900,
           "title": null,
@@ -1072,59 +438,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-29T11:00:27-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/amp/",
+      "publishedDateTime": "2023-10-05T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "JD Supra",
-        "domain": "jdsupra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-amd-ceo-lisa-su-on-the-ai-revolution-and-competing-with-nvidia.md",
-      "title": "AMD CEO Lisa Su on the AI revolution and competing with Nvidia",
-      "excerpt": "At this year’s Code Conference, AMD CEO Lisa Su revealed how the company is using AI in chip design, the future outlook of the GPU business and chip supply chain, and how AMD plans to compete with Nvidia’s H100.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/23894647/amd-ceo-lisa-su-ai-chips-nvidia-supply-chain-interview-decoder",
-      "originalUrl": "https://www.theverge.com/23894647/amd-ceo-lisa-su-ai-chips-nvidia-supply-chain-interview-decoder",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3000x3000/2400x2400/filters:focal(1500x1500:1501x1501):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24792604/The_Verge_Decoder_Tileart.jpg",
-          "width": 2400,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-29T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1140,7 +463,702 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-atropos-health-leverages-ai-to-democratize-access-to-real-world-evidence-in-healthcare.md",
+      "title": "Atropos Health leverages AI to democratize access to real-world evidence in healthcare",
+      "excerpt": "Atropos Health, the Palo Alto, Calif.-based healthcare startup, unveiled today a new artificial intelligence (AI) system that could revolutionize how evidence is produced to inform medical decisions and research.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/atropos-health-leverages-ai-to-democratize-access-to-real-world-evidence-in-healthcare/",
+      "originalUrl": "https://venturebeat.com/ai/atropos-health-leverages-ai-to-democratize-access-to-real-world-evidence-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-3-unstoppable-robotics-stocks-that-will-make-early-investors-rich.md",
+      "title": "3 Unstoppable Robotics Stocks That Will Make Early Investors Rich",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics does not necessarily have to look like in the movies, where you have",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-unstoppable-robotics-stocks-that-will-make-early-investors-rich-1032681222",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-unstoppable-robotics-stocks-that-will-make-early-investors-rich-1032681222",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-choosing-a-strategic-investment-partner-in-the-ai-gold-rush.md",
+      "title": "Choosing A Strategic Investment Partner In The AI Gold Rush",
+      "excerpt": "Michelle Gonzalez, Corporate Vice President and Head of M12, Microsoft’s Venture Fund.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/05/choosing-a-strategic-investment-partner-in-the-ai-gold-rush/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/05/choosing-a-strategic-investment-partner-in-the-ai-gold-rush/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640236bd8a9b57f11a217f5e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/05/choosing-a-strategic-investment-partner-in-the-ai-gold-rush/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/10/05/choosing-a-strategic-investment-partner-in-the-ai-gold-rush/amp/",
+      "publishedDateTime": "2023-10-05T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-generative-ai-is-coming-for-sales-execs-jobsand-theyre-celebrating.md",
+      "title": "Generative AI Is Coming for Sales Execs’ Jobs—and They’re Celebrating",
+      "excerpt": "ChatGPT-style AI can tackle the drudge work of responding to RFPs faster than humans. Sales teams at Google, Twilio, and others say productivity is spiking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/generative-ai-chatgpt-is-coming-for-sales-jobs/",
+      "originalUrl": "https://www.wired.com/story/generative-ai-chatgpt-is-coming-for-sales-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65174569f8a5c34a7770661b/191:100/w_1280,c_limit/092923-drudge-work-generative-ai.png",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-successfully-integrating-ai-to-address-burnout-and-enhance-efficiency.md",
+      "title": "Successfully Integrating AI To Address Burnout And Enhance Efficiency",
+      "excerpt": "The integration of AI into the workplace is a double-edged sword that, when wielded thoughtfully, can greatly enhance productivity and promote employee well-being.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651dcd086a3358713ea8dbc1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/amp/",
+      "publishedDateTime": "2023-10-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-driverless-cars-are-multiplying-on-texas-roads-heres-what-you-should-know.md",
+      "title": "Driverless cars are multiplying on Texas roads. Here’s what you should know.",
+      "excerpt": "Here’s what you need to know about driverless vehicles in Texas ... The data from these sensors feed the car’s artificial intelligence brain in real time, enabling it to make decisions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.texastribune.org/2023/10/05/texas-driverless-cars-autonomous-vehicles-cruise/",
+      "originalUrl": "https://www.texastribune.org/2023/10/05/texas-driverless-cars-autonomous-vehicles-cruise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbnails.texastribune.org/3_yawwd97JZ2d2F_jbDy8Tc3cw4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/e351a86d0a0f9d690b1f766810f9f8c3/0926%20Driverless%20Cars%20TT%20JS%2006.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Texas Tribune",
+        "domain": "texastribune.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-the-us-isnt-ready-for-the-new-age-of-ai-fueled-disinformationbut-china-is.md",
+      "title": "The U.S. Isn’t Ready for the New Age of AI-Fueled Disinformation—But China Is",
+      "excerpt": "Thanks to generative AI, the impact of China’s social media manipulation will be both greater in volume and more convincing",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6320638/ai-disinformation-china/",
+      "originalUrl": "https://time.com/6320638/ai-disinformation-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/10/GettyImages-1441688102.jpg?quality=85",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation.md",
+      "title": "Generative AI Is Revolutionizing Music: Loudly's Vision For Democratizing Creation",
+      "excerpt": "Explore how Loudly, an innovative AI-driven music platform, is revolutionizing and democratizing music creation, enabling users to craft unique soundtracks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651e6351b06cf0d5fb6e2537/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/",
+      "publishedDateTime": "2023-10-05T00:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-european-commission-to-keep-track-of-ai-and-semiconductor-chips.md",
+      "title": "European Commission to keep track of AI and semiconductor chips",
+      "excerpt": "Sources revealed that on October 3, 2023, European Union officials mentioned that they have identified four areas that need assessment regarding technology risk and risk of technology leakage. The areas are believed to include AI, advanced semiconductor technologies, quantum technologies and biotechnologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/chip.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/",
+      "publishedDateTime": "2023-10-04T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-wordly-launches-trusted-ai-translation.md",
+      "title": "Wordly Launches Trusted AI Translation",
+      "excerpt": "announced the launch of Trusted AI Translation, the easiest, most affordable, and most secure way to make meetings and events more language inclusive and accessible. Wordly Trusted AI Translation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/wordly-launches-trusted-ai-translation/article_cdd65377-c379-5abd-8232-325b85e0a5c9.html",
+      "originalUrl": "https://www.victoriaadvocate.com/wordly-launches-trusted-ai-translation/article_cdd65377-c379-5abd-8232-325b85e0a5c9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/0/2f/02f07c12-bfcb-5d74-8a5e-19f8cd0e80ce/651d6922305ce.image.jpg?crop=1053%2C553%2C107%2C0&resize=1053%2C553&order=crop%2Cresize",
+          "width": 1053,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-data-science-and-machine-learning-service-market-is-set-to-fly-high-in-years-to-come-att-google-zs-microsoft.md",
+      "title": "Data Science and Machine Learning Service Market is Set To Fly High in Years to Come | At&T, Google, ZS, Microsoft",
+      "excerpt": "The Data Science and Machine Learning Service Market report provides a basic ... company profiles covering the product offerings, key financial information, recent developments, SWOT analysis ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35090947/data-science-and-machine-learning-service-market-is-set-to-fly-high-in-years-to-come-at-t-google-zs",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35090947/data-science-and-machine-learning-service-market-is-set-to-fly-high-in-years-to-come-at-t-google-zs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35090947",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35090947",
+      "publishedDateTime": "2023-10-04T20:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-china-leads-way-with-self-driving-vehicle-tech.md",
+      "title": "China leads way with self-driving vehicle tech",
+      "excerpt": "There are reports that Tesla, a global leader in autonomous driving, could be getting ready to test its full self-driving technology in China. The company is forming a 20-member operation team to promote and deploy its proprietary full self-driving technology in the country and has already dispatched engineers from its headquarters for training.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202310/05/WS651e1664a310d2dce4bb90b4.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202310/05/WS651e1664a310d2dce4bb90b4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202310/05/651e1663a310d2dc6d28eefc.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T19:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-south-koreas-doosan-robotics-shares-jump-127-in-trading-debut.md",
+      "title": "South Korea's Doosan Robotics shares jump 127% in trading debut",
+      "excerpt": "Shares in South Korea's Doosan Robotics opened 127% up from their initial public offering (IPO) price in the company's market debut on Thursday, based on investors' bullish outlook for the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/world/south-koreas-doosan-robotics-shares-jump-127-in-trading-debut-11479381.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/south-koreas-doosan-robotics-shares-jump-127-in-trading-debut-11479381.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/08/sensex_stocks_nifty_stockmarket.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/south-koreas-doosan-robotics-shares-jump-127-in-trading-debut-11479381.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/south-koreas-doosan-robotics-shares-jump-127-in-trading-debut-11479381.html/amp",
+      "publishedDateTime": "2023-10-04T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-ai-voice-cloning-tech-emerges-in-sudan-civil-war.md",
+      "title": "AI: Voice cloning tech emerges in Sudan civil war",
+      "excerpt": "A campaign using artificial intelligence to impersonate Omar al-Bashir, the former leader of Sudan, has received hundreds of thousands of views on TikTok, adding online confusion to a country torn apart by civil war.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-africa-66987869",
+      "originalUrl": "https://www.bbc.com/news/world-africa-66987869",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/14E9E/production/_131326658_bashir.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-africa-66987869.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-africa-66987869.amp",
+      "publishedDateTime": "2023-10-04T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-revolutionising-finance-heres-how-ai-is-shaping-fintechs-future.md",
+      "title": "Revolutionising Finance: Here's How AI Is Shaping Fintech's Future",
+      "excerpt": "One of the most significant ways AI is transforming the fintech industry is through personalised financial services",
+      "sourceUrl": null,
+      "webUrl": "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805",
+      "originalUrl": "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/04/4062998364edbb2a8edeadc34f6a364f1696423944483314_original.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805/amp",
+      "cdnAmpWebUrl": "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805/amp",
+      "publishedDateTime": "2023-10-04T17:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abp LIVE",
+        "domain": "abplive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

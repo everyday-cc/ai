@@ -2,6 +2,603 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-19-new-york-state-report-identifies-risks-in-schools-use-of-facial-recognition-technology.md",
+      "title": "New York state report identifies risks in schools' use of facial recognition technology",
+      "excerpt": "The New York State Office of Information Technology Services (ITS) has determined that, when it comes to the use of facial recognition technology for security in schools, the “risks may",
+      "sourceUrl": null,
+      "webUrl": "https://www.moultrieobserver.com/news/new-york-state-report-identifies-risks-in-schools-use-of-facial-recognition-technology/article_1ec99702-867a-54c1-9348-7999a1abc296.html",
+      "originalUrl": "https://www.moultrieobserver.com/news/new-york-state-report-identifies-risks-in-schools-use-of-facial-recognition-technology/article_1ec99702-867a-54c1-9348-7999a1abc296.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/moultrieobserver.com/content/tncms/custom/image/83dffb44-4d9d-11e8-b162-0f1e2c3a5297.jpg?resize=600%2C360",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-19T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Moultrie Observer",
+        "domain": "moultrieobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-19-phillies-to-start-letting-in-fans-via-facial-recognition.md",
+      "title": "Phillies to start letting in fans via facial recognition",
+      "excerpt": "Philadelphia will soon become the first city to allow fans entry into a stadium with facial recognition technology, according to the MLB. The new technology, MLB’s Go-Ahead Entry, will launch ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/4159431-phillies-to-start-letting-in-fans-via-facial-recognition/",
+      "originalUrl": "https://thehill.com/policy/technology/4159431-phillies-to-start-letting-in-fans-via-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/4159431-phillies-to-start-letting-in-fans-via-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4159431-phillies-to-start-letting-in-fans-via-facial-recognition/amp/",
+      "publishedDateTime": "2023-08-18T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-19-14-intriguing-new-and-potential-uses-for-facial-recognition-technology.md",
+      "title": "14 Intriguing New And Potential Uses For Facial Recognition Technology",
+      "excerpt": "Many consumers interact with facial recognition technology each day when they unlock their iPhones. Before being added to smartphones, facial recognition technology—which uses biometric data to identify individuals based on their unique facial features ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64df7e960bca66ac42c712f4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/amp/",
+      "publishedDateTime": "2023-08-18T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-phillies-fans-can-soon-enter-citizens-bank-park-using-facial-recognition-heres-how-it-works.md",
+      "title": "Phillies fans can soon enter Citizens Bank Park using facial recognition. Here's how it works",
+      "excerpt": "For the first time ever you will have the option to use your face as a ticket at Citizens Bank Park come Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://6abc.com/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
+      "originalUrl": "https://6abc.com/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13664068_081723-wpvi-phillies-facial-recognition-4pm-CC-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
+      "cdnAmpWebUrl": "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
+      "publishedDateTime": "2023-08-17T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "6abc News",
+        "domain": "6abc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-creepily-customized-dishes-and-facial-recognition-how-might-ai-change-fine-dining.md",
+      "title": "Creepily customized dishes and facial recognition: how might AI change fine dining?",
+      "excerpt": "Artificial intelligence could take personalized service a new, possibly sinister level – but can a chatbot replace a chef?",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/2b73a2245ffe131ee39d2c4c058545a6f6c7767d/0_0_1500_900/master/1500.jpg?width=620&quality=85&auto=format&fit=max&s=67119d24f976c08ba2bff3006e890a08",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants",
+      "publishedDateTime": "2023-08-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-how-amazon-shopping-uses-amazon-rekognition-content-moderation-to-review-harmful-images-in-product-reviews.md",
+      "title": "How Amazon Shopping uses Amazon Rekognition Content Moderation to review harmful images in product reviews",
+      "excerpt": "Customers are increasingly turning to product reviews to make informed decisions in their shopping journey, whether they’re purchasing everyday items like a kitchen towel or making major purchases like buying a car. These reviews have transformed into an essential source of information, enabling shoppers",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-shopping-uses-amazon-rekognition-content-moderation-to-review-harmful-images-in-product-reviews/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-shopping-uses-amazon-rekognition-content-moderation-to-review-harmful-images-in-product-reviews/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T12:31:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-state-study-risk-of-facial-recognition-in-schools-may-outweigh-benefits.md",
+      "title": "State study: Risk of facial recognition in schools may outweigh benefits",
+      "excerpt": "A New York State report says the risks of using facial recognition technology in schools may outweigh the benefits. Jim Schultz, a Lockport parent who raised the alarm when he learned the school ...",
+      "sourceUrl": null,
+      "webUrl": "https://buffalonews.com/news/local/education/state-study-risk-of-facial-recognition-in-schools-may-outweigh-benefits/article_a8160f12-384d-11ee-b8e6-a769a7ccdc9a.html",
+      "originalUrl": "https://buffalonews.com/news/local/education/state-study-risk-of-facial-recognition-in-schools-may-outweigh-benefits/article_a8160f12-384d-11ee-b8e6-a769a7ccdc9a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/7/a0/7a0c8c04-3870-11ee-8925-db193aeed84e/5ef251272b6bd.image.jpg?crop=640%2C336%2C0%2C46&resize=640%2C336&order=crop%2Cresize",
+          "width": 640,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth.md",
+      "title": "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth",
+      "excerpt": "This relationship between recognition abilities in different senses stands in contrast to learning styles studies’ failure to find expected correlations among variables. For instance, people’s preferred learning styles do not predict performance on measures of pictorial, auditory or tactile learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stamfordadvocate.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
+      "originalUrl": "https://www.stamfordadvocate.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-face-recognition-systems-market-research-report-analyzes-the-segments-data-by-type-and-by-application-2030.md",
+      "title": "Face Recognition Systems Market Research Report | Analyzes The Segments Data by Type and by Application 2030",
+      "excerpt": "Global Face Recognition Systems Market research report in order to help businesses understand the state of the market by different trends, research reports compile analyses and data from a variety ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33845037/face-recognition-systems-market-research-report-analyzes-the-segments-data-by-type-and-by-applicati",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33845037/face-recognition-systems-market-research-report-analyzes-the-segments-data-by-type-and-by-applicati",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33845037",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33845037",
+      "publishedDateTime": "2023-08-14T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech.md",
+      "title": "With facial recognition CCTVs and anti-drone systems, R-Day security goes hi-tech",
+      "excerpt": "Delhi has been wrapped in a security blanket for Tuesday's 77th Independence Day celebrations, with more than 10,000 personnel manning the area in and around the Red Fort from where Prime Minister Narendra Modi will address the nation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.rediff.com/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
+      "originalUrl": "https://www.rediff.com/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im.rediff.com/345-230/news/2023/aug/14president-murmu-addresses-the-nation.jpg",
+          "width": 345,
+          "height": 230,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
+      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
+      "publishedDateTime": "2023-08-14T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rediff.com",
+        "domain": "rediff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth.md",
+      "title": "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth",
+      "excerpt": "Object recognition skills related across senses A few years ago, we became interested in why some people become visual experts more easily than others. We began measuring individual differences in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ourmidland.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
+      "originalUrl": "https://www.ourmidland.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Midland Daily News",
+        "domain": "ourmidland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-face-recognition-revolving-door-market-overview-2023-comprehensive-analysis-till-2030.md",
+      "title": "Face Recognition Revolving Door Market Overview 2023: Comprehensive Analysis till 2030",
+      "excerpt": "Global \"Face Recognition Revolving Door Market\" Scope and Outlook Report for 2023 is the implementation of new technologies and innovative solutions that will drive the market's revenue generation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33836025/face-recognition-revolving-door-market-overview-2023-comprehensive-analysis-till-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33836025/face-recognition-revolving-door-market-overview-2023-comprehensive-analysis-till-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33836025",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33836025",
+      "publishedDateTime": "2023-08-14T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-computer-vision-in-artificial-intelligence-ai-market-growth-report-2023-2030-101-pages-report.md",
+      "title": "Computer Vision in Artificial Intelligence (AI) Market Growth Report 2023-2030 | 101 Pages Report",
+      "excerpt": "The Global Computer Vision in Artificial Intelligence (AI) market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33833964/computer-vision-in-artificial-intelligence-ai-market-growth-report-2023-2030-101-pages-report",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33833964/computer-vision-in-artificial-intelligence-ai-market-growth-report-2023-2030-101-pages-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-ai-facial-recognition-led-to-8-month-pregnant-womans-wrongful-carjacking-arrest-in-front-of-kids-lawsuit.md",
+      "title": "AI facial recognition led to 8-month pregnant woman's wrongful carjacking arrest in front of kids: lawsuit",
+      "excerpt": "An eight-month pregnant woman, Porcha Woodruff, was arrested by Detroit police for a carjacking that she did not commit based on faulty AI-powered facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit",
+      "originalUrl": "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/07/340/340/Chris-Eberhart-Headshot-1.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit.amp",
+      "publishedDateTime": "2023-08-13T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-amazons-facial-recognition-system-flags-dozens-of-california-lawmakers-as-criminals.md",
       "title": "Amazon’s facial recognition system flags dozens of California lawmakers as criminals",
       "excerpt": "Amazon’s facial scanning software, called Rekognition, won’t unlock your phone, but it is currently being used by some law enforcement agencies to identify criminals based on their mugshots.",
@@ -734,678 +1331,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend.md",
-      "title": "Innocent pregnant woman jailed amid faulty facial recognition trend",
-      "excerpt": "Woodruff's arrest, and the recent trend of false arrests, has sparked a new round in an ongoing debate about the reliability of facial recognition technology in criminal investigations. Critics say the trend highlights the weaknesses of facial recognition technology and the risks it poses to innocent people.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-07T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition.md",
-      "title": "Detroit Woman Sues City Police After Being Wrongfully Arrested Due To AI Facial Recognition",
-      "excerpt": "Six police officers arrested Porcha Woodruff, who was eight months pregnant, after mistaking her for someone who had robbed a car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/",
-      "originalUrl": "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 444,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d10b3a725fca0578d6288b/0x0.jpg?format=jpg&crop=2369,1332,x603,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/amp/",
-      "publishedDateTime": "2023-08-07T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-eight-months-pregnant-and-arrested-after-false-facial-recognition-match.md",
-      "title": "Eight Months Pregnant and Arrested After False Facial Recognition Match",
-      "excerpt": "She is the first woman known to be wrongfully accused as a result of facial recognition technology. By Kashmir Hill Porcha Woodruff was getting her two daughters ready for school when six police ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/08/06/business/facial-recognition-false-arrest.html",
-      "originalUrl": "https://www.nytimes.com/2023/08/06/business/facial-recognition-false-arrest.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/08/05/multimedia/00false-arrest-tmvh/00false-arrest-tmvh-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T21:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-exclusive-dhs-used-clearview-ai-facial-recognition-in-thousands-of-child-exploitation-cold-cases.md",
-      "title": "Exclusive: DHS Used Clearview AI Facial Recognition In Thousands Of Child Exploitation Cold Cases",
-      "excerpt": "Clearview facial recognition is at the center of the task force's work. DHS is using facial recognition and AI to find child abusers and rescue victims in a major new operation underway to solve ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2023/08/07/dhs-ai-facial-recognition-solving-child-exploitation-cold-cases/",
-      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2023/08/07/dhs-ai-facial-recognition-solving-child-exploitation-cold-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d140b357a10c6eba65f247/0x0.jpg?format=jpg&crop=567,378,x0,y45,safe&width=1200",
-          "width": 567,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-06-recognition-is-essential-now-more-than-ever.md",
-      "title": "Recognition Is Essential, Now More Than Ever",
-      "excerpt": "VP Recognition at CSI STARS. It's all about people. I have the best job in the world encouraging people to recognize others - more often. I originally planned to write an article on Employee ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/26/recognition-is-essential-now-more-than-ever/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/26/recognition-is-essential-now-more-than-ever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/blogs-images/forbescommunicationscouncil/files/2020/03/a-45.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-05T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired.md",
-      "title": "Raz Mobility has a new smartphone designed for the visually impaired",
-      "excerpt": "Raz Mobility is out to change that with the introduction of the SmartVision 3, a smartphone designed specifically for the visually impaired. As the name implies, this isn't Raz's first foray into an accessible smartphone. But it is probably the best.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired/",
-      "originalUrl": "https://www.zdnet.com/article/raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1ab271bffab5edcd63a787c75eae6853cd8d3a94/2023/08/04/07c56efe-b115-4769-aedf-5530258489f8/smartvision3-phone.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired/",
-      "publishedDateTime": "2023-08-04T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-weird-cosmic-object-identified-as-the-remains-of-an-exploded-dead-star.md",
-      "title": "Weird cosmic object identified as the remains of an exploded dead star",
-      "excerpt": "A strange cosmic object that has puzzled astronomers for two decades has been revealed to be the ancient remains of a long-dead star. More specifically, new research conducted with space- and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.space.com/weird-cosmic-object-revealed-as-dead-star-remains",
-      "originalUrl": "https://www.space.com/weird-cosmic-object-revealed-as-dead-star-remains",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4LYQk5iEfSRcTtoDhU6qEb-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Space.com",
-        "domain": "space.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-karachi-airport-gets-facial-recognition-system.md",
-      "title": "Karachi Airport Gets Facial Recognition System",
-      "excerpt": "The authorities at Karachi airport have taken significant steps to enhance security and prevent criminals from fleeing the country. The installation of",
-      "sourceUrl": null,
-      "webUrl": "https://propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/",
-      "originalUrl": "https://propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://propakistani.pk/wp-content/uploads/2022/12/Facial-Recognition.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/amp/?fbclid=IwAR0kGOK5jrXbSkDshdsWCfODSoeSAtueC8a8qh7oHybza6HI8VOboX8y_M8_aem_ATC5GBx3C2jcWVPvi7VnrcXApUYCvTd3I8z1oIMvfe7UOhMLx53HW1TXFRmVdT1aVRI",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/amp/?fbclid=IwAR0kGOK5jrXbSkDshdsWCfODSoeSAtueC8a8qh7oHybza6HI8VOboX8y_M8_aem_ATC5GBx3C2jcWVPvi7VnrcXApUYCvTd3I8z1oIMvfe7UOhMLx53HW1TXFRmVdT1aVRI",
-      "publishedDateTime": "2023-08-03T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition.md",
-      "title": "Build and train computer vision models to detect car positions in images using Amazon SageMaker and Amazon Rekognition",
-      "excerpt": "Computer vision (CV) is one of the most common applications of machine learning (ML) and deep learning. Use cases range from self-driving cars, content moderation on social media platforms, cancer detection, and automated defect detection. Amazon Rekognition is a fully managed service that can perform",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/03/ML-5922-demo-v2-1253x630.jpg",
-          "width": 1253,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T07:53:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-abu-dhabis-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-departments-to-meet-surging-global-demand.md",
-      "title": "Abu Dhabi's artificial intelligence university establishes dedicated robotics and computer science departments to meet surging global demand",
-      "excerpt": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate programs dedicated to",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/g33550168/abu-dhabis-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/g33550168/abu-dhabis-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33550168",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33550168",
-      "publishedDateTime": "2023-08-03T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-abu-dhabis-mbzuai-launches-new-robotics-and-computer-science-departments.md",
-      "title": "Abu Dhabi’s MBZUAI launches new robotics and computer science departments",
-      "excerpt": "It has also launched master’s and PhD programmes in the two highly sought-after new-age science courses Abu Dhabi's MBZUAI launches new robotics and computer science departments Abu Dhabi, MBZUAI, Mohamed bin Zayed University of Artificial Intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.arabianbusiness.com/industries/education/abu-dhabis-mbzuai-launches-new-robotics-and-computer-science-departments",
-      "originalUrl": "https://www.arabianbusiness.com/industries/education/abu-dhabis-mbzuai-launches-new-robotics-and-computer-science-departments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.arabianbusiness.com/cloud/2023/08/03/Mohamed-bin-Zayed-University-of-Artificial-Intelligence-MBZUAI.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T00:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arabian Business",
-        "domain": "arabianbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-ibm-and-nasa-deploy-open-source-geospatial-ai-foundation-model-on-hugging-face.md",
-      "title": "IBM and NASA deploy open-source geospatial AI foundation model on Hugging Face",
-      "excerpt": "IBM and NASA announce the availability of watsonx.ai geospatial foundation model on Hugging Face, the leading community for open AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ibm-and-nasa-deploy-open-source-geospatial-ai-foundation-model-on-hugging-face/",
-      "originalUrl": "https://venturebeat.com/ai/ibm-and-nasa-deploy-open-source-geospatial-ai-foundation-model-on-hugging-face/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/space.GettyImages-956550722.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning.md",
-      "title": "Transforming Healthcare: The Pioneering Path of Sumedh Datar in Computer Vision and Deep Learning",
-      "excerpt": "Introduction: In the rapidly developing science of machine learning, Deep Learning has emerged as a transformational area of study, captivating the attention of researchers and developers worldwide. Its exceptional pattern recognition capabilities have made it particularly valuable in computer vision applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning/",
-      "originalUrl": "https://techbullion.com/transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/08/bb6b4281-0874-40fa-a336-2042bf87d8f2-1000x600.jpeg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes.md",
-      "title": "MBZUAI launches dedicated robotics and computer science graduate programmes",
-      "excerpt": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate programmes dedicated to robotics and computer science, catering to the surging global demand for these disciplines ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/education/mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes-xz1n0vo5",
-      "originalUrl": "https://www.zawya.com/en/business/education/mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes-xz1n0vo5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/YWEzZmJhNzEtNGU0Ny00/0/gmaa-mhmd-bn-zyd-llthk-lstnaay-ttlk-brmg-drst-aaly-fy-aalm-lrobott-oaalom-lhsob.jpeg?f=3%3A2",
-          "width": 898,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/education/mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes-xz1n0vo5?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/education/mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes-xz1n0vo5?amp=1",
-      "publishedDateTime": "2023-08-02T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
       ]
     }
   ],

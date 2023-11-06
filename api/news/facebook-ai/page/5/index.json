@@ -2,6 +2,265 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-13-dont-expect-quick-fixes-in-red-teaming-of-ai-models-security-was-an-afterthought.md",
+      "title": "Don’t expect quick fixes in ‘red-teaming’ of AI models. Security was an afterthought",
+      "excerpt": "Current AI models are simply too unwieldy, brittle and malleable, academic and corporate research shows. Security was an afterthought in their training as data scientists amassed breathtakingly complex collections of images and text. They are prone to racial and cultural biases, and easily manipulated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hawaiinewsnow.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/",
+      "originalUrl": "https://www.hawaiinewsnow.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/10X7bxjieGGeYPapEpiwFX-4MVU=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/LX7O27XT5ZBNZK5TZ4KAY5VQ74.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hawaiinewsnow.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp",
+      "publishedDateTime": "2023-08-13T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hawaii News Now",
+        "domain": "hawaiinewsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-08-12-foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats.md",
+      "title": "Foundations seek to advance AI for good — and also protect the world from its threats",
+      "excerpt": "Gebru launched the Distributed Artificial Intelligence Research Institute in 2021 to ... Open Philanthropy, a foundation started by Facebook co-founder Dustin Moskovitz and his wife, Cari Tuna ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-12T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-12-which-companies-will-be-winners-in-the-ai-arms-race.md",
+      "title": "Which Companies Will Be Winners in the AI Arms Race?",
+      "excerpt": "While AI is in the early innings, Palantir and Meta are already separating from the pack. One of my favorite technology research analysts ... higher monetization on Facebook and Instagram.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/08/11/which-companies-will-be-winners-in-the-ai-arms-rac/",
+      "originalUrl": "https://www.fool.com/investing/2023/08/11/which-companies-will-be-winners-in-the-ai-arms-rac/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/742168/artificial-intelligence-ai.jpg",
+          "width": 2102,
+          "height": 1426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats.md",
+      "title": "Foundations seek to advance AI for good — and also protect the world from its threats",
+      "excerpt": "Gebru launched the Distributed Artificial Intelligence Research Institute in 2021 to ... Open Philanthropy, a foundation started by Facebook co-founder Dustin Moskovitz and his wife, Cari Tuna ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/20995889/",
+      "originalUrl": "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/20995889/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL",
+        "domain": "wral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-futureverse-publishes-research-paper-revealing-its-breakthrough-technology-in-the-music-ai-space.md",
+      "title": "FUTUREVERSE PUBLISHES RESEARCH PAPER REVEALING ITS BREAKTHROUGH TECHNOLOGY IN THE MUSIC AI SPACE",
+      "excerpt": "LOS ANGELES, Aug. 10, 2023 /PRNewswire/ -- Futureverse, a leading AI and metaverse technology and content company, today announced the publication of research in the advancement of music AI with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33718137/futureverse-publishes-research-paper-revealing-its-breakthrough-technology-in-the-music-ai-space",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33718137/futureverse-publishes-research-paper-revealing-its-breakthrough-technology-in-the-music-ai-space",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-generative-ai-is-making-companies-even-more-thirsty-for-your-data.md",
+      "title": "Generative AI Is Making Companies Even More Thirsty for Your Data",
+      "excerpt": "The outcry over Zoom's tweak to its data policy shows how the race to build more powerful AI models creates new pressure to source training data—including by juicing it from users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-generative-ai-companies-thirsty-for-your-data/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-generative-ai-companies-thirsty-for-your-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64d430e957ff6ec62db8a934/191:100/w_1280,c_limit/Zoom-User-Data-AI-Training-Fast-Forward-Business-616146659.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-chart-ai-stocks-enter-correction-territory.md",
       "title": "CHART: AI stocks enter correction territory",
       "excerpt": "AI hype drove huge gains among some tech stocks in the first half of 2023. Lately, that has gone into reverse.",

@@ -2,6 +2,179 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-18-ethical-framework-crucial-to-cope-with-fast-growth-of-ai-finance-minister.md",
+      "title": "Ethical framework crucial to cope with fast growth of AI: finance minister",
+      "excerpt": "An ethical framework on the use of technologies must be newly defined side by side with fast-growing artificial intelligence (AI) that is reshaping the era of digital transformation, Deputy Prime Minister and Minister of Economy and Finance Choo Kyung-ho said,",
+      "sourceUrl": null,
+      "webUrl": "https://koreatimes.co.kr/www/biz/2023/10/126_361323.html",
+      "originalUrl": "https://koreatimes.co.kr/www/biz/2023/10/126_361323.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/thumbnailV2/7185c9495cfc4f99866cde390b0aa1b5.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361323",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361323",
+      "publishedDateTime": "2023-10-18T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-gcc-attorneys-general-approve-use-of-artificial-intelligence-ethics-document.md",
+      "title": "GCC Attorneys General approve use of Artificial Intelligence ethics document",
+      "excerpt": "The document aims to establish a regulatory framework for the ethical use of AI in the work of attorney general offices",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/legal/regulations/gcc-attorneys-general-approve-use-of-artificial-intelligence-ethics-document-eqeb7c9r",
+      "originalUrl": "https://www.zawya.com/en/legal/regulations/gcc-attorneys-general-approve-use-of-artificial-intelligence-ethics-document-eqeb7c9r",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NTdlNzBiZWItZmNlYi00/6/1464561575.jpeg?f=3%3A2",
+          "width": 759,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/legal/regulations/gcc-attorneys-general-approve-use-of-artificial-intelligence-ethics-document-eqeb7c9r?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/legal/regulations/gcc-attorneys-general-approve-use-of-artificial-intelligence-ethics-document-eqeb7c9r?amp=1",
+      "publishedDateTime": "2023-10-17T22:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-why-everyone-has-a-role-in-creating-ai-ethics-standards-intetics-ceo-and-president-for-forbes-technology-council.md",
+      "title": "Why Everyone Has a Role in Creating AI Ethics Standards: Intetics CEO and President for Forbes Technology Council",
+      "excerpt": "Their goal is to strike a balance between fostering innovation and safeguarding citizens, addressing concerns related to privacy, security and AI ethics. As AI steadily integrates into our daily ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/g35286587/why-everyone-has-a-role-in-creating-ai-ethics-standards-intetics-ceo-and-president-for-forbes-tech",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/g35286587/why-everyone-has-a-role-in-creating-ai-ethics-standards-intetics-ceo-and-president-for-forbes-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35286587",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35286587",
+      "publishedDateTime": "2023-10-17T21:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-an-ai-nightmare-has-arrived-for-twitter-and-the-fbi.md",
+      "title": "An AI Nightmare Has Arrived for Twitter — And the FBI",
+      "excerpt": "So-called “revenge porn,” explicit material obtained by hacking or shared in confidence with someone who makes it available to others without the subject’s consent, is hardly a novel crime among adolescents. But this time, the images were startlingly different. Though they looked realistic, they had been created with a generative AI program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rollingstone.com/culture/culture-features/ai-explicit-material-twitter-big-tech-1234855484/",
+      "originalUrl": "https://www.rollingstone.com/culture/culture-features/ai-explicit-material-twitter-big-tech-1234855484/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rollingstone.com/wp-content/uploads/2023/10/AI-image-moderation-internet.jpg?w=1600&h=900&crop=1",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rollingstone.com/culture/culture-features/ai-explicit-material-twitter-big-tech-1234855484/amp/",
+      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/ai-explicit-material-twitter-big-tech-1234855484/amp/",
+      "publishedDateTime": "2023-10-17T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rolling Stone",
+        "domain": "rollingstone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-generative-ai-is-everything-everywhere-all-at-once.md",
       "title": "Generative AI is everything, everywhere, all at once",
       "excerpt": "Many notable tech companies are building their own large language models, whether it's Microsoft's Bing, Google's Bard, Snapchat's AI chatbot, or the new Meta AI chatbots. Generative AI is projected to balloon to a $1.32 billion market by 2032, according to a report by Bloomberg Intelligence .",
@@ -1266,197 +1439,6 @@
       "provider": {
         "name": "The Financial Express",
         "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-01-ai-chatbots-let-you-interview-historical-figures-like-harriet-tubman-thats-probably-not-a-good-idea.md",
-      "title": "AI chatbots let you 'interview' historical figures like Harriet Tubman. That's probably not a good idea.",
-      "excerpt": "the founder and a principal researcher at Montreal AI Ethics Institute, told Insider by email. Tiraana Bains, an assistant professor of history at Brown University, said the bots can close off ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-chatbots-ethics-dangers-historical-figures-2023-10",
-      "originalUrl": "https://www.businessinsider.com/ai-chatbots-ethics-dangers-historical-figures-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/651933ec5640b20019d795a8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-chatbots-ethics-dangers-historical-figures-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chatbots-ethics-dangers-historical-figures-2023-10?amp",
-      "publishedDateTime": "2023-10-01T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing.md",
-      "title": "Ethics First: The Imperative Of Responsible AI Adoption In Marketing",
-      "excerpt": "However, in pursuing both innovation and efficiency, we must pause and reflect on the critical role of ethics in this AI-powered landscape. As AI becomes increasingly integrated into marketing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6516d3d62973bac3033c1a14/0x0.jpg?format=jpg&crop=5275,2969,x0,y264,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/",
-      "publishedDateTime": "2023-09-29T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-trends-in-ai-ethics-before-and-after-chatgpt.md",
-      "title": "Trends in AI ethics before and after ChatGPT",
-      "excerpt": "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade.",
-      "sourceUrl": null,
-      "webUrl": "https://localnews8.com/stacker-money/2023/09/27/trends-in-ai-ethics-before-and-after-chatgpt/",
-      "originalUrl": "https://localnews8.com/stacker-money/2023/09/27/trends-in-ai-ethics-before-and-after-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://localnews8.b-cdn.net/2023/09/croppedshutterstock20594733174Y47jpg_0-scaled.jpeg",
-          "width": 1200,
-          "height": 855,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-29T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local News 8",
-        "domain": "localnews8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-trends-in-ai-ethics-before-and-after-chatgpt.md",
-      "title": "Trends in AI ethics before and after ChatGPT",
-      "excerpt": "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade.",
-      "sourceUrl": null,
-      "webUrl": "https://ktvz.com/stacker-money/2023/09/27/trends-in-ai-ethics-before-and-after-chatgpt/",
-      "originalUrl": "https://ktvz.com/stacker-money/2023/09/27/trends-in-ai-ethics-before-and-after-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktvz.b-cdn.net/2023/09/croppedshutterstock20594733174Y47jpg_0-scaled.jpeg",
-          "width": 1200,
-          "height": 855,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T19:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTVZ",
-        "domain": "ktvz.com",
         "images": null,
         "publishers": null,
         "authors": null

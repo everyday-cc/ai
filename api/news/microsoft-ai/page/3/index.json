@@ -2,6 +2,386 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-03-dominos-to-use-azure-ai-technology-to-advance-pizza-ordering-store-technology.md",
+      "title": "Domino's To Use Azure AI Technology To Advance Pizza Ordering, Store Technology",
+      "excerpt": "The companies plan to create the next generation of pizza ordering and store operations with generative AI technology and cloud computing power. They will leverage the Microsoft Cloud and Azure ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/domino-s-to-use-azure-ai-technology-to-advance-pizza-ordering-store-technology-1032674041",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/domino-s-to-use-azure-ai-technology-to-advance-pizza-ordering-store-technology-1032674041",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha.md",
+      "title": "Sob story about dead grandma tricks Microsoft AI into solving CAPTCHA",
+      "excerpt": "Shiryaev first shared a screenshot of Bing Chat refusing to solve the CAPTCHA when it was shared as a simple image. Next, Shiryaev pasted that image into another image of a pair of hands holding an open locked.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 376,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/special_love_code-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/amp/",
+      "publishedDateTime": "2023-10-02T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight.md",
+      "title": "Microsoft’s ‘top choice’: supply of Nvidia AI GPUs improved but still tight",
+      "excerpt": "He mentioned that the situation regarding GPU supply has improved compared to a few months back, although it is still tight. Previously, the demand for Nvidia’s GPUs for AI and HPC applications exceeded the supply capacity of the entire ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.onmsft.com/news/microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight/",
+      "originalUrl": "https://www.onmsft.com/news/microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2022/01/ARM-Nvidia.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "On MSFT",
+        "domain": "onmsft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-what-does-generative-ai-mean-for-software-companies.md",
+      "title": "What does generative AI mean for software companies?",
+      "excerpt": "AI and machine learning will boost the creativity and problem-solving abilities of software developers. It will also create a new set of winners across the software industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.html",
+      "originalUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/13/16/sw-blog-image-getty-1170x600-2-100938438-large.jpg?auto=webp&quality=85,70",
+          "width": 1199,
+          "height": 615,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html",
+      "publishedDateTime": "2023-10-02T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-30-families-in-rural-areas-have-difficulty-getting-services-for-their-children-with-autism-spectrum-disorder.md",
+      "title": "Families in rural areas have difficulty getting services for their children with autism spectrum disorder",
+      "excerpt": "Autism spectrum disorder (ASD) is a childhood neurodevelopmental disorder associated with significant lifelong delays in cognitive functioning ... currently is how to get children into these crucial services without waiting too long.",
+      "sourceUrl": null,
+      "webUrl": "https://www.simcoe.com/opinion/families-in-rural-areas-have-difficulty-getting-services-for-their-children-with-autism-spectrum-disorder/article_3f6cb42a-7eca-5d84-8ea9-e812f6c68fd7.html",
+      "originalUrl": "https://www.simcoe.com/opinion/families-in-rural-areas-have-difficulty-getting-services-for-their-children-with-autism-spectrum-disorder/article_3f6cb42a-7eca-5d84-8ea9-e812f6c68fd7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-29T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Simcoe",
+        "domain": "simcoe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-30-microsofts-generative-ai-initiatives-a-vision-to-transform-businesses.md",
+      "title": "Microsoft's Generative AI Initiatives - A Vision to Transform Businesses",
+      "excerpt": "Through analyzing historical data and pattern recognition, generative algorithms empower businesses to make precise predictions, facilitating well-informed decisions that enhance supply chain management,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_09_2023_10_10_49_7841185.jpg?width=1280",
+          "width": 1280,
+          "height": 1046,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses?amp",
+      "publishedDateTime": "2023-09-29T21:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-microsofts-generative-ai-initiatives-a-vision-to-transform-businesses.md",
+      "title": "Microsoft's Generative AI Initiatives - A Vision to Transform Businesses",
+      "excerpt": "Generative AI models are exceptionally proficient in predictive analytics and forecasting. Through analyzing historical data and pattern recognition, generative algorithms empower businesses to make precise predictions, facilitating well-informed decisions that enhance supply chain management, inventory projection, and demand anticipation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/09/29/9890145.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/09/29/9890145.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2235248/CloudThat_Logo.jpg",
+          "width": 400,
+          "height": 261,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-29T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-infosys-collaborates-with-microsoft-to-develop-generative-ai.md",
+      "title": "Infosys collaborates with Microsoft to develop generative AI",
+      "excerpt": "Infosys and Microsoft, two leaders in the technology industry, have announced a collaboration to develop industry-leading AI solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theindianwire.com/software/infosys-collaborates-with-microsoft-to-develop-generative-ai-341411/",
+      "originalUrl": "https://www.theindianwire.com/software/infosys-collaborates-with-microsoft-to-develop-generative-ai-341411/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Wire",
+        "domain": "theindianwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-life-satisfaction-may-not-enhance-cognitive-functioning-among-some-older-adults.md",
+      "title": "Life satisfaction may not enhance cognitive functioning among some older adults",
+      "excerpt": "Numerous studies have shown that leading a fulfilling and satisfying life may improve cognitive function by encouraging health-protective behaviors such as physical activity and reduced stress. Many of these studies assess this relationship from a population level,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-09-life-satisfaction-cognitive-functioning-older.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-09-life-satisfaction-cognitive-functioning-older.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-29-eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure.md",
       "title": "Eastwall and AOG Partner to Accelerate Clinical AI Strategies through Microsoft Azure",
       "excerpt": "The alliance seeks to further healthcare technology services by creating a seamless bridge between AOG's specialized clinical AI strategies and Eastwall's comprehensive Microsoft Azure solutions.",
@@ -906,385 +1286,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-oracles-transformation-is-clicking-cloudworld-recap.md",
-      "title": "Oracle’s Transformation Is Clicking: CloudWorld Recap",
-      "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, gives his insights on Oracle over the last couple of weeks including Oracle CloudWorld.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/09/26/oracles-transformation-is-clicking-cloudworld-recap/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/09/26/oracles-transformation-is-clicking-cloudworld-recap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651352a8dcb01218dd83cd9e/0x0.jpg?format=jpg&crop=1280,720,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/09/26/oracles-transformation-is-clicking-cloudworld-recap/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/26/oracles-transformation-is-clicking-cloudworld-recap/amp/",
-      "publishedDateTime": "2023-09-26T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-lightbits-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Lightbits Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Lightbits today announced the availability of the Lightbits Cloud Data Platform in the Microsoft Azure Marketplace, an",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/lightbits-now-available-in-the-microsoft-azure-marketplace/",
-      "originalUrl": "https://www.datanami.com/this-just-in/lightbits-now-available-in-the-microsoft-azure-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-confluents-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.md",
-      "title": "Confluent’s Data Streaming for AI initiative aims to boost AI app development",
-      "excerpt": "The initiative is a result of the managed Apache Kafka service provider partnering with the likes of MongoDB, Pinecone, Rockset, Zilliz, Google Cloud, and Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3707389/confluent-s-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.html",
-      "originalUrl": "https://www.infoworld.com/article/3707389/confluent-s-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/09/artificial-intelligence-applications-development-programming-100946463-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3707389/confluent-s-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707389/confluent-s-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.amp.html",
-      "publishedDateTime": "2023-09-26T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-and-microsoft-collaborate-to-drive-adoption-of-generative-ai.md",
-      "title": "Infosys and Microsoft collaborate to drive adoption of generative AI",
-      "excerpt": "Infosys has joined forces with Microsoft to jointly develop industry-leading solutions to accelerate and democratize industry-wide adoption of generative AI. The integrated solutions will leverage Infosys Topaz, Azure OpenAI Service and Azure Cognitive Services to help businesses increase productivity and drive new revenue growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2608678-infosys-and-microsoft-collaborate-to-drive-adoption-of-generative-ai",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2608678-infosys-and-microsoft-collaborate-to-drive-adoption-of-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_05_2023_14_21_18_0740729.jpg?width=1280",
-          "width": 1280,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2608678-infosys-and-microsoft-collaborate-to-drive-adoption-of-generative-ai?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2608678-infosys-and-microsoft-collaborate-to-drive-adoption-of-generative-ai?amp",
-      "publishedDateTime": "2023-09-26T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-microsoft-to-jointly-develop-genai-solutions.md",
-      "title": "Infosys, Microsoft to jointly develop GenAI solutions",
-      "excerpt": "Infosys partners with Microsoft for new AI solutions. Infosys, India’s second-largest IT services exporter, is collaborating with Microsoft to jointly develop industry-leading s",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/enterprise-story/2023/09/infosys-and-microsoft-to-jointly-develop-genai-solutions",
-      "originalUrl": "https://yourstory.com/enterprise-story/2023/09/infosys-and-microsoft-to-jointly-develop-genai-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/120/220356402d6d11e9aa979329348d4c3e/exp-24-1695740487293.png?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-partnerss-with-microsoft-for-generative-ai.md",
-      "title": "Infosys Partnerss With Microsoft For Generative AI",
-      "excerpt": "This collaboration leverages Infosys Topaz and Microsoft's AI services to advance the shift to AI from digital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.republicworld.com/business-news/india-business/infosys-partnerss-with-microsoft-for-generative-ai-articleshow.html",
-      "originalUrl": "https://www.republicworld.com/business-news/india-business/infosys-partnerss-with-microsoft-for-generative-ai-articleshow.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/gbecbkr9n2sevi4j_1695737847.jpeg",
-          "width": 768,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.republicworld.com/amp/business-news/india-business/infosys-partnerss-with-microsoft-for-generative-ai-articleshow.html",
-      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/infosys-partnerss-with-microsoft-for-generative-ai-articleshow.html",
-      "publishedDateTime": "2023-09-26T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-collaborates-with-microsoft-on-generative-ai.md",
-      "title": "Infosys collaborates with Microsoft on generative AI",
-      "excerpt": "Infosys and Microsoft collaborate to develop AI-enabled solutions leveraging Infosys Topaz, Azure OpenAI Service and Azure Cognitive Services. Solutions will help businesses increase productivity, drive new revenue growth and transition from digital to AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/infosys-collaborates-with-microsoft-on-generative-ai/article67348839.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/infosys-collaborates-with-microsoft-on-generative-ai/article67348839.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/infosys-collaborates-with-microsoft-on-generative-ai/article67348839.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/infosys-collaborates-with-microsoft-on-generative-ai/article67348839.ece/amp/",
-      "publishedDateTime": "2023-09-26T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-collaborates-with-microsoft-for-generative-ai.md",
-      "title": "Infosys collaborates with Microsoft for generative AI",
-      "excerpt": "Infosys Executive Vice President and Global Head – AI and Automation, Application Development & Maintenance - Balakrishna DR said, ''Through our strategic collaboration with Microsoft, we will continue to lead the generative AI revolution, helping businesses amplify human potential and navigate their next towards becoming AI-first enterprises''.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2608477-infosys-collaborates-with-microsoft-for-generative-ai",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2608477-infosys-collaborates-with-microsoft-for-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-artificial-intelligence-systems-spending-market-growing-trends-and-demands-analysis-forecast-2023-to-2030-google-microsoft-facebook.md",
-      "title": "Artificial Intelligence Systems Spending Market Growing Trends and Demands Analysis Forecast 2023 to 2030 | Google, Microsoft, Facebook",
-      "excerpt": "The Market Research Report 2023-2030 ... Who are the Top key players in the Artificial Intelligence Systems Spending market? Google, Microsoft, Facebook, IBM, Apple, Amazon, Intel, Infosys ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34903899/artificial-intelligence-systems-spending-market-growing-trends-and-demands-analysis-forecast-2023-t",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34903899/artificial-intelligence-systems-spending-market-growing-trends-and-demands-analysis-forecast-2023-t",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34903899",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34903899",
-      "publishedDateTime": "2023-09-26T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

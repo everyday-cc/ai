@@ -2,6 +2,219 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-01-ai-safety-use-cases-how-generative-ai-is-distorting-human-sentiment.md",
+      "title": "AI safety use cases - how generative AI is distorting human sentiment",
+      "excerpt": "It used to be said that the big problem with AI is its ‘hallucinations’ when supporting data is absent. But it turns out that there is a bigger one: generative AI is removing human sentiment and context without us even knowing.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-safety-use-cases-how-generative-ai-distorting-human-sentiment",
+      "originalUrl": "https://diginomica.com/ai-safety-use-cases-how-generative-ai-distorting-human-sentiment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-mark-zuckerberg-reveals-the-key-advantage-of-metas-artificial-intelligence-ai-strategy-that-many-investors-may-be-overlooking.md",
+      "title": "Mark Zuckerberg Reveals the Key Advantage of Meta's Artificial Intelligence (AI) Strategy That Many Investors May Be Overlooking",
+      "excerpt": "So far in 2023, the amount of time users spend on Facebook and Instagram ... we further invest in generative AI across our core products, internal tooling, and research efforts.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/11/01/mark-zuckerberg-reveals-advantage-meta-ai-strategy/",
+      "originalUrl": "https://www.fool.com/investing/2023/11/01/mark-zuckerberg-reveals-advantage-meta-ai-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-the-growth-of-ai-in-social-media.md",
+      "title": "The growth of AI in social media",
+      "excerpt": "The internet and social media have changed the world since the advent of websites like Facebook, Instagram and the long-gone Myspace. The era of social media has allowed for people to communicate across vast distances and maintain friendships in a way that was not possible just 20 years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenorthernlight.org/stories/the-growth-of-ai-in-social-media",
+      "originalUrl": "https://www.thenorthernlight.org/stories/the-growth-of-ai-in-social-media",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Northern Light",
+        "domain": "thenorthernlight.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-president-bidens-new-ai-executive-order-sets-safety-market-standards.md",
+      "title": "President Biden's New AI Executive Order Sets Safety, Market Standards",
+      "excerpt": "The order is said to include 'the most sweeping actions ever taken to protect Americans from the potential risks of AI systems.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/internet/president-bidens-new-ai-executive-order-sets-safety-market-standards",
+      "originalUrl": "https://www.extremetech.com/internet/president-bidens-new-ai-executive-order-sets-safety-market-standards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-pediatrician-fatally-stabbed-drivers-license-laws-and-dementia-doctors-wary-of-ai.md",
+      "title": "Pediatrician Fatally Stabbed; Driver's License Laws and Dementia; Doctors Wary of AI",
+      "excerpt": "Drugmaker Nostrum and its CEO have agreed to pay up to $50 million to settle claims for underpaying rebates owed under the Medicaid Drug Rebate Program, the Department of Justice said. The FDA expanded the indication of abatacept (Orencia) to include treatment of patients age 2 years and older with active psoriatic arthritis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/pediatrics/generalpediatrics/107081",
+      "originalUrl": "https://www.medpagetoday.com/pediatrics/generalpediatrics/107081",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-biden-wants-to-move-fast-on-ai-safeguards-and-signs-an-executive-order-to-address-his-concerns.md",
+      "title": "Biden wants to move fast on AI safeguards and signs an executive order to address his concerns",
+      "excerpt": "President Biden on Monday signed an ambitious executive order on artificial intelligence that seeks to balance the needs of cutting-edge technology companies with national security and consumer rights,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2023/10/30/nation/biden-wants-move-fast-ai-safeguards-signs-an-executive-order-address-his-concerns/",
+      "originalUrl": "https://www.bostonglobe.com/2023/10/30/nation/biden-wants-move-fast-ai-safeguards-signs-an-executive-order-address-his-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-30-uk-ai-safety-summit-the-diginomica-preview.md",
       "title": "UK AI Safety Summit – the diginomica preview",
       "excerpt": "The UK’s AI Safety Summit takes place on November 1-2 at historic home of trusted computation, Bletchley Park. There, Alan Turing’s Bombe machine once helped codebreakers uncover Germany’s secret communications, nudging the Allies towards victory in the Second World War.",
@@ -1202,312 +1415,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-blackberry-announces-generative-ai-powered-cybersecurity-assistant.md",
-      "title": "BlackBerry Announces Generative AI Powered Cybersecurity Assistant",
-      "excerpt": "The solution, which will be available to BlackBerry's Cylance® AI customers, predicts customer needs to proactively provide information rather than requiring users to manually ask questions and compresses research hours into seconds. Fully integrated in ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/blackberry-announces-generative-ai-powered-cybersecurity-assistant-1032708155",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/blackberry-announces-generative-ai-powered-cybersecurity-assistant-1032708155",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2247444/Gen_AI_V5.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-metas-unique-approach-to-developing-ai-puzzles-wall-street-but-techies-love-it.md",
-      "title": "Meta's unique approach to developing AI puzzles Wall Street, but techies love it",
-      "excerpt": "To help with the computationally intensive process of training gigantic AI models like Llama, Meta has been using its own Research SuperCluster supercomputer, built to incorporate a whopping 16,000 Nvidia A100 GPUs, the AI industry’s “workhorse” computer chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
-      "originalUrl": "https://www.cnbc.com/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1697461201",
-          "width": 2237,
-          "height": 1376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
-      "publishedDateTime": "2023-10-16T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-can-causal-analysis-change-business-applying-causality-in-ai-and-beyond.md",
-      "title": "Can causal analysis change business? Applying causality in AI and beyond",
-      "excerpt": "The surge in enterprise AI has fueled interest in causal analysis ... from everyday life to cutting-edge scientific research. David Hume asserted that our concept of causality arises entirely from experience. When we repeatedly observe that events of ...",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/can-causal-analysis-change-business-applying-causality-ai-and-beyond",
-      "originalUrl": "https://diginomica.com/can-causal-analysis-change-business-applying-causality-ai-and-beyond",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2017-03/digital-road.jpg",
-          "width": 1233,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/can-causal-analysis-change-business-applying-causality-ai-and-beyond?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/can-causal-analysis-change-business-applying-causality-ai-and-beyond?amp",
-      "publishedDateTime": "2023-10-16T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-elon-musk-unveils-xai-a-game-changer-for-investors.md",
-      "title": "Elon Musk Unveils X.ai: A Game-Changer For Investors",
-      "excerpt": "Elon Musk held a Twitter Spaces event in early July to reveal X.ai, his newest AI business. X.ai researchers will focus on science, while also building applications for enterprises and consumers. To participate, investors should continue to buy Arista Networks ANET +0.6% (ANET).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/12/elon-musk-unveils-xai-a-game-changer-for-investors/",
-      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/12/elon-musk-unveils-xai-a-game-changer-for-investors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652893e5a8b7c4daca3ed28c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/12/elon-musk-unveils-xai-a-game-changer-for-investors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/12/elon-musk-unveils-xai-a-game-changer-for-investors/amp/",
-      "publishedDateTime": "2023-10-12T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas.md",
-      "title": "Generative AI Is As Transformative As The Telephone, Bank Of America Says: 10 Stock, ETF Trading Ideas",
-      "excerpt": "Artificial intelligence has been on the minds of companies and investors throughout 2023 as one of the top trending items. Bank of America noted the impact artificial intelligence can have on several sectors going forward and made the claim it could be highly disruptive.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/11/shutterstock_2350706053.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-energy-dept-funded-jetcool-nets-17m-to-disrupt-chip-cooling-as-ai-workloads-surge.md",
-      "title": "Energy Dept. funded JetCool nets $17M to disrupt chip cooling as AI workloads surge",
-      "excerpt": "JetCool's technology is enabling 30% faster processing while reducing energy consumption by 50% and water usage by 90% over air cooling.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/energy-dept-funded-jetcool-nets-17m-to-disrupt-chip-cooling-as-ai-workloads-surge/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/energy-dept-funded-jetcool-nets-17m-to-disrupt-chip-cooling-as-ai-workloads-surge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/ideogram-6-e1697035989840.jpeg?w=1200&strip=all",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI",
         "Facebook AI"
       ]

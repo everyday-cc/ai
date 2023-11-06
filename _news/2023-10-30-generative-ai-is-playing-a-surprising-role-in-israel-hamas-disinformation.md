@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 related:
   - title: "Israel-Hamas war stirs free speech battles at college campuses across US"

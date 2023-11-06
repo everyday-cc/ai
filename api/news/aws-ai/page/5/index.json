@@ -2,6 +2,559 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-05-how-carrier-predicts-hvac-faults-using-aws-glue-and-amazon-sagemaker.md",
+      "title": "How Carrier predicts HVAC faults using AWS Glue and Amazon SageMaker",
+      "excerpt": "In this post, we show how the Carrier and AWS teams applied ML to predict faults across large fleets of equipment using a single model. We first highlight how we use AWS Glue for highly parallel data processing. We then discuss how Amazon SageMaker helps us with feature engineering and building a scalable",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-carrier-predicts-hvac-faults-using-aws-glue-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-carrier-predicts-hvac-faults-using-aws-glue-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/05/featured-images-ML-12208-1120x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T10:25:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-aws-hints-at-partner-program-changes-for-ai-and-partner-engagement.md",
+      "title": "AWS hints at partner program changes for AI and partner engagement",
+      "excerpt": "AWS is set to shake up its current partner programs, hinting towards changes regarding genAI and partner-to-partner engagement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/708622/aws-hints-partner-program-changes-ai-partner-engagement/",
+      "originalUrl": "https://www.arnnet.com.au/article/708622/aws-hints-partner-program-changes-ai-partner-engagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-04T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-the-best-amazon-labor-day-sales-still-available-to-shop-now.md",
+      "title": "The Best Amazon Labor Day Sales Still Available To Shop Now",
+      "excerpt": "Labor Day may be over, but many of Amazon’s best Labor Day deals—spanning home, fashion, tech, outdoor gear and so much more—are still available to snag. With fall on the horizon ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2023/09/05/amazon-labor-day-sale/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2023/09/05/amazon-labor-day-sale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f724add84783d43eb01580/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2023/09/05/amazon-labor-day-sale/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2023/09/05/amazon-labor-day-sale/amp/",
+      "publishedDateTime": "2023-09-04T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure.md",
+      "title": "Google Unveils New AI-Powered Cloud Technologies Taking On AWS And Azure",
+      "excerpt": "At Cloud Next, Google unveiled AI strategies to rival AWS and Azure. New offerings include custom silicon and updated Vertex AI. Google targets AI-centric enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/",
+      "originalUrl": "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-fmopsllmops-operationalize-generative-ai-and-differences-with-mlops.md",
+      "title": "FMOps/LLMOps: Operationalize generative AI and differences with MLOps",
+      "excerpt": "Nowadays, the majority of our customers is excited about large language models (LLMs) and thinking how generative AI could transform their business. However, bringing such solutions and models to the business-as-usual operations is not an easy task. In this post, we discuss how to operationalize generative",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fmops-llmops-operationalize-generative-ai-and-differences-with-mlops/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fmops-llmops-operationalize-generative-ai-and-differences-with-mlops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/01/featured-images-ML-14962-1120x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T08:33:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-deploy-self-service-question-answering-with-the-qnabot-on-aws-solution-powered-by-amazon-lex-with-amazon-kendra-and-large-language-models.md",
+      "title": "Deploy self-service question answering with the QnABot on AWS solution powered by Amazon Lex with Amazon Kendra and large language models",
+      "excerpt": "Powered by Amazon Lex, the QnABot on AWS solution is an open-source, multi-channel, multi-language conversational chatbot. QnABot allows you to quickly deploy self-service conversational AI into your contact center, websites, and social media channels, reducing costs, shortening hold times, and improving",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-self-service-question-answering-with-the-qnabot-on-aws-solution-powered-by-amazon-lex-with-amazon-kendra-and-large-language-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-self-service-question-answering-with-the-qnabot-on-aws-solution-powered-by-amazon-lex-with-amazon-kendra-and-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/30/featured-images-ML-14990-1120x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T13:07:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-migrate-and-modernize-ibm-maximo-with-aws-and-red-hat.md",
+      "title": "Migrate and modernize IBM Maximo with AWS and Red Hat",
+      "excerpt": "The recommended options for running IBM MAS on AWS, the architecture and how components come together and provide a solid foundation for running IBM MAS.\nThe post Migrate and modernize IBM Maximo with AWS and Red Hat appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/migrate-and-modernize-ibm-maximo-with-aws-and-red-hat/",
+      "originalUrl": "https://www.ibm.com/blog/migrate-and-modernize-ibm-maximo-with-aws-and-red-hat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T07:53:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-ericsson-aws-and-hitachi-showcase-manufacturing-transformation.md",
+      "title": "Ericsson, AWS, and Hitachi showcase manufacturing transformation",
+      "excerpt": "Ericsson, Amazon Web Services (AWS), and Hitachi America R&D have combined their expertise to showcase the potential of 5G, AI, and IoT solutions in transforming m.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iottechnews.com/news/2023/aug/30/ericsson-aws-hitachi-showcase-manufacturing-transformation/",
+      "originalUrl": "https://www.iottechnews.com/news/2023/aug/30/ericsson-aws-hitachi-showcase-manufacturing-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iottechnews.com",
+        "domain": "iottechnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-meeranda-the-human-like-ai-is-now-supported-by-the-ovhcloud-startup-program.md",
+      "title": "Meeranda, the Human-Like AI, is Now Supported by the OVHcloud Startup Program",
+      "excerpt": "Meeranda will commence its Seed Funding round by the end of August 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/08/29/9871453.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/08/29/9871453.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing.md",
+      "title": "Ericsson, AWS, Hitachi America R&D trial private 5G for manufacturing",
+      "excerpt": "“By using the Ericsson Private 5G Network product, and running artificial intelligence and machine learning models on an AWS Snow Family device, we were able to demonstrate a reliable and secure connection to run machine vision inferences at the site to ...",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-103175231,imgsize-652940,width-1200,height=765,overlay-ettelecom/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231",
+      "publishedDateTime": "2023-08-29T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look.md",
+      "title": "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look",
+      "excerpt": "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look.md",
+      "title": "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look",
+      "excerpt": "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/19736510/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/19736510/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes.md",
+      "title": "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service – Forbes",
+      "excerpt": "AWS and Hugging Face announced a partnership to offer large language models (LLMs) and generative AI models on AWS’ ML platform. The Hugging Face community can leverage AWS ML services and infrastructure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/694977/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/",
+      "originalUrl": "https://www.inferse.com/694977/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4701.png",
+          "width": 1000,
+          "height": 715,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-the-best-movies-on-amazon-prime-video-august-2023.md",
       "title": "The best movies on Amazon Prime Video (August 2023)",
       "excerpt": "And they may not be able to go home. The premise of Amazon Prime Video‘s movie Red, White & Royal Blue is a bit far-fetched: the son of the U.S. President, Alex Claremont-Diaz, must befriend his ...",
@@ -779,605 +1332,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-08-13-the-best-amazon-prime-original-series-right-now.md",
-      "title": "The best Amazon Prime original series right now",
-      "excerpt": "Amazon Prime Video is behind only Netflix when it comes to subscriber count, but it doesn’t seem to carry the same weight in the zeitgeist like Max, Hulu, or even Peacock. Partly to blame? Prime ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-amazon-original-series/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-amazon-original-series/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/07/Shelter.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-amazon-original-series/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-amazon-original-series/?amp",
-      "publishedDateTime": "2023-08-13T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency.md",
-      "title": "Amazon Translate enhances its custom terminology to improve translation accuracy and fluency",
-      "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. When you translate from one language to another, you want your machine translation to be accurate, fluent, and most importantly contextual. Domain-specific and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/11/amazon-translate-enhances-fluency.jpg",
-          "width": 908,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T07:59:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-zero-shot-text-classification-with-amazon-sagemaker-jumpstart.md",
-      "title": "Zero-shot text classification with Amazon SageMaker JumpStart",
-      "excerpt": "Natural language processing (NLP) is the field in machine learning (ML) concerned with giving computers the ability to understand text and spoken words in the same way as human beings can. Recently, state-of-the-art architectures like the transformer architecture are used to achieve near-human performance",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/zero-shot-text-classification-with-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/zero-shot-text-classification-with-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/31/ML-13226-Picture6-1219x630.png",
-          "width": 1219,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T07:56:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-aws-launches-programme-to-help-early-stage-start-up-founders.md",
-      "title": "AWS Launches Programme To Help Early-Stage Start-Up Founders",
-      "excerpt": "Amazon Web Services has launched AWS Build, a new global programme designed to support entrepreneurs early in their cloud journey to build, refine and launch their innovative applications.",
-      "sourceUrl": null,
-      "webUrl": "https://startup.outlookindia.com/sector/ed-tech/aws-launches-programme-to-help-early-stage-start-up-founders-news-9109",
-      "originalUrl": "https://startup.outlookindia.com/sector/ed-tech/aws-launches-programme-to-help-early-stage-start-up-founders-news-9109",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1678183910.jpg?utm_source=fb",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "startup.outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-ibm-plans-to-make-llama-2-available-within-watsonxai-platform.md",
-      "title": "IBM Plans to Make Llama 2 Available within watsonx.ai Platform",
-      "excerpt": "IBM makes plans with Meta's Llama 2. Plus, why open source may or may not be a differentiator in generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/",
-      "originalUrl": "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71223-Hero.Watsonx.jpeg",
-          "width": 1400,
-          "height": 884,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-how-agencies-can-support-the-intelligence-lifecycle.md",
-      "title": "How Agencies Can Support the Intelligence Lifecycle",
-      "excerpt": "Download the asset below to discover how the Amazon Web Services (AWS) Cloud powers the intelligence cycle, from collection to dissemination. This content is made possible by our sponsor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/sponsors/2023/08/powering-intelligence-cycle-aws/389208/",
-      "originalUrl": "https://www.nextgov.com/sponsors/2023/08/powering-intelligence-cycle-aws/389208/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2023/08/08/iStock_1391048799/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-09T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-generate-creative-advertising-using-generative-ai-deployed-on-amazon-sagemaker.md",
-      "title": "Generate creative advertising using generative AI deployed on Amazon SageMaker",
-      "excerpt": "Creative advertising has the potential to be revolutionized by generative AI (GenAI). You can now create a wide variation of novel images, such as product shots, by retraining a GenAI model and providing a few inputs into the model, such as textual prompts (sentences describing the scene and objects",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/generate-creative-advertising-using-generative-ai-deployed-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/generate-creative-advertising-using-generative-ai-deployed-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 270,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/23/ml14623-pic1.png",
-          "width": 625,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-09T08:51:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-aws-to-support-korean-startups-with-generative-ai-accelerator.md",
-      "title": "AWS to support Korean startups with Generative AI Accelerator",
-      "excerpt": "Amazon Web Services (AWS) will help Korean AI startups grow with its Generative AI Accelerator, a program that combines powerful AI tools with business, technical mentors and experts, the global-leading cloud computing service provider said Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/08/133_356593.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/08/133_356593.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202308/01fe39d3e3a946b0bdd3a186fae09566.jpg",
-          "width": 980,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593",
-      "publishedDateTime": "2023-08-07T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-ircai-aws-launch-compute-for-climate-fellowship-to-fund-climate-tech-start-ups.md",
-      "title": "IRCAI, AWS Launch 'Compute for Climate Fellowship' To Fund Climate Tech Start-Ups",
-      "excerpt": "It will select start-ups with ideas to tackle climate change and fully fund the building of their proofs of concept",
-      "sourceUrl": null,
-      "webUrl": "https://startup.outlookindia.com/sector/saas/ircai-aws-launch-compute-for-climate-fellowship-to-fund-climate-tech-start-ups-news-9060",
-      "originalUrl": "https://startup.outlookindia.com/sector/saas/ircai-aws-launch-compute-for-climate-fellowship-to-fund-climate-tech-start-ups-news-9060",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/AWS_1691427710.jpg?utm_source=fb",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-07T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "startup.outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-aws-performs-fine-tuning-on-a-large-language-model-llm-to-classify-toxic-speech-for-a-large-gaming-company.md",
-      "title": "AWS performs fine-tuning on a Large Language Model (LLM) to classify toxic speech for a large gaming company",
-      "excerpt": "The video gaming industry has an estimated user base of over 3 billion worldwide1. It consists of massive amounts of players virtually interacting with each other every single day. Unfortunately, as in the real world, not all players communicate appropriately and respectfully. In an effort to create",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-performs-fine-tuning-on-a-large-language-model-llm-to-classify-toxic-speech-for-a-large-gaming-company/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-performs-fine-tuning-on-a-large-language-model-llm-to-classify-toxic-speech-for-a-large-gaming-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/07/fine-tuning-llm-toxic-speech.jpg",
-          "width": 911,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-07T09:19:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-amazons-aws-vs-microsoft-azure-vs-google-cloud-how-tech-titans-fared-in-june-quarters-cloud-showdown.md",
-      "title": "Amazon's AWS Vs Microsoft Azure Vs Google Cloud: How Tech Titans Fared In June Quarter's Cloud Showdown",
-      "excerpt": "According to data from Synergy Research, enterprise spending on cloud infrastructure services increased by $10 billion year-over-year to reach $65 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/equities/23/08/33593955/amazons-aws-vs-microsoft-azure-vs-google-cloud-how-tech-titans-fared-in-june-quarters-cloud-show",
-      "originalUrl": "https://www.benzinga.com/markets/equities/23/08/33593955/amazons-aws-vs-microsoft-azure-vs-google-cloud-how-tech-titans-fared-in-june-quarters-cloud-show",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Cloud_Services.jpeg?width=1200&height=800&fit=crop",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33593955",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33593955",
-      "publishedDateTime": "2023-08-07T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-salesforce-einstein-studio-to-help-enterprises-train-generative-ai-models.md",
-      "title": "Salesforce Einstein Studio to help enterprises train generative AI models",
-      "excerpt": "Einstein Studio can also help enterprises connect their data from Salesforce Data Cloud to third-party AI offerings including Amazon SageMaker and Google’s Vertex AI for model training.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/708253/salesforce-einstein-studio-help-enterprises-train-generative-ai-models/?fp=2&fpid=1",
-      "originalUrl": "https://www.arnnet.com.au/article/708253/salesforce-einstein-studio-help-enterprises-train-generative-ai-models/?fp=2&fpid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-06-salesforce-einstein-studio-to-help-enterprises-train-generative-ai-models.md",
-      "title": "Salesforce Einstein Studio to help enterprises train generative AI models",
-      "excerpt": "Einstein Studio can also help enterprises connect their data from Salesforce Data Cloud to third-party AI offerings including Amazon SageMaker and Google’s Vertex AI for model training.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/708253/salesforce-einstein-studio-help-enterprises-train-generative-ai-models/",
-      "originalUrl": "https://www.reseller.co.nz/article/708253/salesforce-einstein-studio-help-enterprises-train-generative-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

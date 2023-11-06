@@ -2,21 +2,21 @@
   "page": 47,
   "value": [
     {
-      "path": "_news/2023-09-26-canonical-steps-up-its-support-for-machine-learning-development-with-charmed-mlflow.md",
-      "title": "Canonical steps up its support for machine learning development with Charmed MLFlow",
-      "excerpt": "Charmed MLFlow is Canonical’s distribution of the popular open-source MLFlow platform, which is used to manage the end-to-end machine learning model lifecycle. It benefits from various integrations with Canonical’s software, simpler deployment and management, and regular security patches.",
+      "path": "_news/2023-09-29-get-an-ai-reality-check-on-the-creator-hollywoods-latest-robo-doomsday-movie.md",
+      "title": "Get an AI reality check on ‘The Creator’ — Hollywood’s latest robo-doomsday movie",
+      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.",
       "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/09/26/canonical-steps-support-machine-learning-development-charmed-mlflow/",
-      "originalUrl": "https://siliconangle.com/2023/09/26/canonical-steps-support-machine-learning-development-charmed-mlflow/",
+      "webUrl": "https://www.geekwire.com/2023/ai-reality-check-the-creator/",
+      "originalUrl": "https://www.geekwire.com/2023/ai-reality-check-the-creator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/image_2023-09-22_080649346.png",
-          "width": 612,
-          "height": 329,
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/09/creator5.jpeg",
+          "width": 2815,
+          "height": 1375,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,610 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T01:01:00-07:00",
+      "publishedDateTime": "2023-09-29T09:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-celfocus-at-dtw23-machine-learning-hyperautomation-and-generative-ai-to-power-telco-digital-transformation.md",
-      "title": "Celfocus at DTW23: Machine Learning, Hyperautomation and Generative AI to Power Telco Digital Transformation",
-      "excerpt": "In the aftermath of TM Forum’s DTW23 - Ignite, Ariana Lynn spoke to Carla Penedo, Director of Offer Development and Innovation, Celfocus",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/conferences-expos-and-trade-shows/33368-celfocus-at-dtw23-machine-learning-hyperautomation-and-generative-ai-to-power-telco-digital-transformation",
-      "originalUrl": "https://www.thefastmode.com/conferences-expos-and-trade-shows/33368-celfocus-at-dtw23-machine-learning-hyperautomation-and-generative-ai-to-power-telco-digital-transformation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/359a9ff102bc2922c4805ebf6f0c1f3c.jpg?t=20230926_072132",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T00:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-from-healthcare-to-space-top-10-transformative-computer-vision-trends-in-2024.md",
-      "title": "From Healthcare To Space: Top 10 Transformative Computer Vision Trends In 2024",
-      "excerpt": "Delving into the transformative world of Computer Vision for 2024, this article highlights pivotal trends, including generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/26/from-healthcare-to-space-top-10-transformative-computer-vision-trends-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/26/from-healthcare-to-space-top-10-transformative-computer-vision-trends-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65127e7fdc3814c07ca67293/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/26/from-healthcare-to-space-top-10-transformative-computer-vision-trends-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/26/from-healthcare-to-space-top-10-transformative-computer-vision-trends-in-2024/amp/",
-      "publishedDateTime": "2023-09-25T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "GeekWire",
+        "domain": "geekwire.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-spotify-tests-ai-powered-tool-to-translate-podcasts-in-local-languages-using-your-voice-how-it-works.md",
-      "title": "Spotify Tests AI-Powered Tool to Translate Podcasts in Local Languages Using Your Voice: How It Works",
-      "excerpt": "Spotify's voice translated episodes from English speaking podcast creators will be available in French, German, and Spanish in the coming weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgets360.com/apps/news/spotify-podcast-voice-translation-native-language-artificial-intelligence-openai-4424033",
-      "originalUrl": "https://www.gadgets360.com/apps/news/spotify-podcast-voice-translation-native-language-artificial-intelligence-openai-4424033",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.gadgets360cdn.com/large/spotify_ai_voice_translation_1695705814023.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgets360.com/apps/news/spotify-podcast-voice-translation-native-language-artificial-intelligence-openai-4424033/amp",
-      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/apps/news/spotify-podcast-voice-translation-native-language-artificial-intelligence-openai-4424033/amp",
-      "publishedDateTime": "2023-09-25T23:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadgets360",
-        "domain": "gadgets360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-amazon-invests-up-to-4-billion-in-anthropic-ai-in-exchange-for-minority-stake-and-further-aws-integration.md",
-      "title": "Amazon invests up to $4 billion in Anthropic AI in exchange for minority stake and further AWS integration",
-      "excerpt": "Amazon said on Monday that it’s investing up to $4 billion into the artificial intelligence company Anthropic in exchange for partial ownership and Anthropic’s greater use of Amazon Web Services (AWS), the e-commerce giant’s cloud computing platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/09/25/tech/amazon-invests-anthropic-ai/index.html",
-      "originalUrl": "https://www.cnn.com/2023/09/25/tech/amazon-invests-anthropic-ai/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230925085542-anthropic-artificial-intelligence-company-restricted.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/09/25/tech/amazon-invests-anthropic-ai/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/09/25/tech/amazon-invests-anthropic-ai/index.html",
-      "publishedDateTime": "2023-09-25T23:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-autonomous-or-driverless-cars-market-growth-prospects-by-size-and-share-2023-value-chain-analysis-and-forecast-to-2030-with-112-pages.md",
-      "title": "Autonomous or Driverless Cars Market Growth Prospects by Size and Share 2023 | Value Chain Analysis and Forecast to 2030 | with 112 Pages",
-      "excerpt": "Autonomous/Driverless Cars is a vehicle that uses a combination of sensors, cameras, radar and artificial intelligence (AI) to travel between destinations without any human effort. Define ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34889943/autonomous-or-driverless-cars-market-growth-prospects-by-size-and-share-2023-value-chain-analysis-a",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34889943/autonomous-or-driverless-cars-market-growth-prospects-by-size-and-share-2023-value-chain-analysis-a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34889943",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34889943",
-      "publishedDateTime": "2023-09-25T23:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-llms-are-surprisingly-great-at-compressing-images-and-audio-deepmind-researchers-find.md",
-      "title": "LLMs are surprisingly great at compressing images and audio, DeepMind researchers find",
-      "excerpt": "Despite being primarily trained on text, these models achieved remarkable compression rates on image and audio data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/llms-are-surprisingly-great-at-compressing-images-and-audio-deepmind-researchers-find/",
-      "originalUrl": "https://venturebeat.com/ai/llms-are-surprisingly-great-at-compressing-images-and-audio-deepmind-researchers-find/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_hydraulic_press_compresses_glowing_data_285eb276-fc95-4980-ba9f-750d354a3bad.png?w=1200&strip=all",
-          "width": 835,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-chatgpt-update-enables-its-ai-to-see-hear-and-speak-according-to-openai.md",
-      "title": "ChatGPT update enables its AI to “see, hear, and speak,“ according to OpenAI",
-      "excerpt": "when paired with its existing speech recognition features, will enable fully verbal conversations with the AI assistant, OpenAI says. OpenAI is planning to roll out these features in ChatGPT to ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/chatgpt-goes-multimodal-with-image-recognition-and-speech-synthesis/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/chatgpt-goes-multimodal-with-image-recognition-and-speech-synthesis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/cyber_eyeball_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/chatgpt-goes-multimodal-with-image-recognition-and-speech-synthesis/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/chatgpt-goes-multimodal-with-image-recognition-and-speech-synthesis/amp/",
-      "publishedDateTime": "2023-09-25T22:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-fintech-trends-that-are-shaping-modern-finance-services.md",
-      "title": "Fintech Trends That Are Shaping Modern Finance Services",
-      "excerpt": "The fintech industry continues to evolve as many processes become increasingly digital. Each year, companies offer new solutions that transform many financial services, making them more secure and client-focused.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/fintech-trends-that-are-shaping-modern-finance-services/",
-      "originalUrl": "https://techbullion.com/fintech-trends-that-are-shaping-modern-finance-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/09/pexels-ivan-samkov-7621142-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-amazon-is-investing-up-to-4-billion-in-ai-startup-anthropic-in-growing-tech-battle.md",
-      "title": "Amazon is investing up to $4 billion in AI startup Anthropic in growing tech battle",
-      "excerpt": "followed by another multibillion-dollar investment at the start of year. Amazon has been rolling out new services to keep up with the AI arms race, including an update for its popular assistant ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459166",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459166",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.abcnewsfe.com/a/3508f6a4-5e86-463c-8575-0878c74e7be2/wirestory_72d21e6c663d506dbf968f50628e7ded_16x9.jpg?w=992",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/US/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459166",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/US/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459166",
-      "publishedDateTime": "2023-09-25T22:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-aws-at-dtw23-generative-ai-to-transform-telco-cx-network-operations-and-business-performance.md",
-      "title": "AWS at DTW23: Generative AI to Transform Telco CX, Network Operations and Business Performance",
-      "excerpt": "Amazon Web Services (AWS), a global cloud computing provider, showcased it's suite of solutions for the telecoms industry at DTW23's AWS Next Level balcony",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/conferences-expos-and-trade-shows/33358-aws-at-dtw23-generative-ai-to-transform-telco-cx-network-operations-and-business-performance",
-      "originalUrl": "https://www.thefastmode.com/conferences-expos-and-trade-shows/33358-aws-at-dtw23-generative-ai-to-transform-telco-cx-network-operations-and-business-performance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/1deb0eeb092a613d579a5b63b078edfa.jpg?t=20230926_033003",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-deep-learning-revolutionizes-ultra-low-field-brain-mri-for-quicker-clearer-scans.md",
-      "title": "Deep learning revolutionizes ultra-low-field brain MRI for quicker, clearer scans",
-      "excerpt": "Researchers develop a deep learning framework to accelerate ultra-low-field brain MRI, achieving faster scan times and enhanced image quality. The method shows promise in making MRI more accessible and reliable,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230925/Deep-learning-revolutionizes-ultra-low-field-brain-MRI-for-quicker-clearer-scans.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230925/Deep-learning-revolutionizes-ultra-low-field-brain-MRI-for-quicker-clearer-scans.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_759921_16956990008848687.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T20:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar.md",
-      "title": "A Glimpse into Data Scarce Environments: An Interview with Computer Vision Expert, Sumedh Datar",
-      "excerpt": "In the realm of Artificial Intelligence, particularly Deep Learning, data is the lifeblood that powers predictive solutions. But what happen..|News Track",
-      "sourceUrl": null,
-      "webUrl": "https://english.newstracklive.com/news/a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar-sc71-nu318-ta318-1298730-1.html",
-      "originalUrl": "https://english.newstracklive.com/news/a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar-sc71-nu318-ta318-1298730-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.newstrack.in/uploads/technology-news/technology-news/Sep/26/big_thumb/1_6512460ee8565.jpg",
-          "width": 743,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar-sc71-nu318-ta318-1298730-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar-sc71-nu318-ta318-1298730-1.html",
-      "publishedDateTime": "2023-09-25T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-a-primer-on-artificial-intelligence-and-cybersecurity.md",
-      "title": "A Primer On Artificial Intelligence And Cybersecurity",
-      "excerpt": "Digital generated image of artificial intelligence robot touching projected screens with data ... [+] against black background. The topic of artificial intelligence's rising involvement in our digital world and its associated opportunities and challenges ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/26/a-primer-on-artificial-intelligence-and-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/26/a-primer-on-artificial-intelligence-and-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65136c483c1ec607ff1b2d66/0x0.jpg?format=jpg&width=1200",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/26/a-primer-on-artificial-intelligence-and-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/09/26/a-primer-on-artificial-intelligence-and-cybersecurity/amp/",
-      "publishedDateTime": "2023-09-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -646,27 +50,25 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-09-26-artificial-intelligence-promises-to-change-the-way-health-care-works.md",
-      "title": "Artificial intelligence promises to change the way health care works",
-      "excerpt": "They are also foundations of artificial intelligence ... algorithms and other forms of AI in order to assist health-care providers with decision making and, crucially, to predict who is ...",
+      "path": "_news/2023-09-29-generative-ai-startup-nexusflow-raises-106-million.md",
+      "title": "Generative AI Startup Nexusflow Raises $10.6 Million",
+      "excerpt": "Nexusflow scores funding to build an open-source LLM that can deliver high accuracy when retrieving data from multiple security sources.",
       "sourceUrl": null,
-      "webUrl": "https://ottawacitizen.com/news/local-news/artificial-intelligence-promises-to-change-the-way-health-care-works",
-      "originalUrl": "https://ottawacitizen.com/news/local-news/artificial-intelligence-promises-to-change-the-way-health-care-works",
+      "webUrl": "https://www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/",
+      "originalUrl": "https://www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://smartcdn.gprod.postmedia.digital/ottawacitizen/wp-content/uploads/2023/09/20220712010_em.jpg",
-          "width": 1000,
-          "height": 750,
+          "url": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -674,13 +76,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://ottawacitizen.com/news/local-news/artificial-intelligence-promises-to-change-the-way-health-care-works/wcm/6452fa05-6c8d-42c4-a09e-e67440fd3d90/amp/",
-      "cdnAmpWebUrl": "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/artificial-intelligence-promises-to-change-the-way-health-care-works/wcm/6452fa05-6c8d-42c4-a09e-e67440fd3d90/amp/",
-      "publishedDateTime": "2023-09-25T17:00:00-07:00",
+      "ampWebUrl": "https://www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/amp/",
+      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/amp/",
+      "publishedDateTime": "2023-09-29T08:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ottawa Citizen",
-        "domain": "ottawacitizen.com",
+        "name": "SecurityWeek",
+        "domain": "securityweek.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -690,26 +92,25 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-26-how-big-tech-got-so-big-hundreds-of-acquisitions.md",
-      "title": "How Big Tech got so big: Hundreds of acquisitions",
-      "excerpt": "You probably arrived from a link posted on Apple News, Google News or a social media site like Facebook ... companies to assist workers and artificial intelligence to grow the capabilities ...",
+      "path": "_news/2023-09-29-microsofts-generative-ai-initiatives-a-vision-to-transform-businesses.md",
+      "title": "Microsoft's Generative AI Initiatives - A Vision to Transform Businesses",
+      "excerpt": "Generative AI models are exceptionally proficient in predictive analytics and forecasting. Through analyzing historical data and pattern recognition, generative algorithms empower businesses to make precise predictions, facilitating well-informed decisions that enhance supply chain management, inventory projection, and demand anticipation.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/",
-      "originalUrl": "https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/",
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/09/29/9890145.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/09/29/9890145.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3GB7PIRMTBHT5IE4O4NHSLGCPU.jpg&w=1200",
-          "width": 1200,
-          "height": 644,
+          "url": "https://mma.prnewswire.com/media/2235248/CloudThat_Logo.jpg",
+          "width": 400,
+          "height": 261,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -719,11 +120,276 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T17:00:00-07:00",
+      "publishedDateTime": "2023-09-29T07:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing.md",
+      "title": "Ethics First: The Imperative Of Responsible AI Adoption In Marketing",
+      "excerpt": "However, in pursuing both innovation and efficiency, we must pause and reflect on the critical role of ethics in this AI-powered landscape. As AI becomes increasingly integrated into marketing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6516d3d62973bac3033c1a14/0x0.jpg?format=jpg&crop=5275,2969,x0,y264,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/",
+      "publishedDateTime": "2023-09-29T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-what-humans-lose-when-ai-writes-for-us.md",
+      "title": "What Humans Lose When AI Writes for Us",
+      "excerpt": "In  Who Wrote This?  linguist Naomi S. Baron discusses how artificial intelligence threatens our ability to express ourselves",
+      "sourceUrl": null,
+      "webUrl": "https://www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/",
+      "originalUrl": "https://www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.scientificamerican.com/sciam/cache/file/52B06311-23CE-4ED6-BB477C2A55AF5B62.jpg",
+          "width": 790,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/?amp=true",
+      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/?amp=true",
+      "publishedDateTime": "2023-09-29T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-real-time-transaction-data-analysis-with-ibm-event-automation.md",
+      "title": "Real-time transaction data analysis with IBM Event Automation",
+      "excerpt": "How real-time transaction data can be put to work in IBM Event Automation.\nThe post Real-time transaction data analysis with IBM Event Automation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/real-time-transaction-data-analysis-with-ibm-event-automation/",
+      "originalUrl": "https://www.ibm.com/blog/real-time-transaction-data-analysis-with-ibm-event-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-29T04:55:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-ibm-cloud-inactive-identities-ideas-for-automated-processing.md",
+      "title": "IBM Cloud inactive identities: Ideas for automated processing",
+      "excerpt": "Identities that are inactive should be cleaned up for security reasons. Learn how to automatically tackle the problem on IBM Cloud.\nThe post IBM Cloud inactive identities: Ideas for automated processing appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-cloud-inactive-identities-ideas-for-automated-processing/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-inactive-identities-ideas-for-automated-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-29T04:53:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-trends-in-ai-ethics-before-and-after-chatgpt.md",
+      "title": "Trends in AI ethics before and after ChatGPT",
+      "excerpt": "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade.",
+      "sourceUrl": null,
+      "webUrl": "https://localnews8.com/stacker-money/2023/09/27/trends-in-ai-ethics-before-and-after-chatgpt/",
+      "originalUrl": "https://localnews8.com/stacker-money/2023/09/27/trends-in-ai-ethics-before-and-after-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://localnews8.b-cdn.net/2023/09/croppedshutterstock20594733174Y47jpg_0-scaled.jpeg",
+          "width": 1200,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-29T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-meta-used-public-instagram-facebook-posts-to-train-its-new-ai-assistant.md",
+      "title": "Meta Used Public Instagram, Facebook Posts to Train Its New AI Assistant",
+      "excerpt": "Meta Platforms used public Facebook and Instagram posts to train parts of its new Meta AI virtual assistant, but excluded private posts shared only with family and friends in an effort to respect consumers' privacy, the company's top policy executive told Reuters in an interview.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgets360.com/social-networking/news/meta-ai-virtual-assistant-training-public-facebook-instagram-posts-4434949",
+      "originalUrl": "https://www.gadgets360.com/social-networking/news/meta-ai-virtual-assistant-training-public-facebook-instagram-posts-4434949",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.gadgets360cdn.com/large/meta_ai_reuters_1695979644451.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgets360.com/social-networking/news/meta-ai-virtual-assistant-training-public-facebook-instagram-posts-4434949/amp",
+      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/social-networking/news/meta-ai-virtual-assistant-training-public-facebook-instagram-posts-4434949/amp",
+      "publishedDateTime": "2023-09-29T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -738,35 +404,26 @@
       ]
     },
     {
-      "path": "_news/2023-09-26-toshiba-develops-worlds-first-lidar-with-999-tracking-accuracy.md",
-      "title": "Toshiba Develops World's First LiDAR with 99.9% Tracking Accuracy",
-      "excerpt": "Toshiba Corporation (TOKYO: 6502), has announced world-first *1  advances in LiDAR: technologies that secure an unmatched accuracy of 99.9% *2  in object tracking and object recognition of 98.9% with data acquired by the LiDAR alone.",
+      "path": "_news/2023-09-29-deepmind-rolls-out-human-style-encouragement-to-enhance-ai-math-abilities.md",
+      "title": "DeepMind rolls out human-style encouragement to enhance AI math abilities",
+      "excerpt": "Google DeepMind researchers have developed a new technique to improve the math ability of AI language models by using human-style encouragement. The technique, called Optimization by PROmpting ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/09/26/9888093.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/09/26/9888093.htm",
+      "webUrl": "https://www.itworldcanada.com/post/deepmind-rolls-out-human-style-encouragement-to-enhance-ai-math-abilities",
+      "originalUrl": "https://www.itworldcanada.com/post/deepmind-rolls-out-human-style-encouragement-to-enhance-ai-math-abilities",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2222547/Figure_2_Results_verifying_rain_fog_removal_algorithm_developed_study.jpg",
-          "width": 400,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T17:00:00-07:00",
+      "ampWebUrl": "https://www.itworldcanada.com/post/deepmind-rolls-out-human-style-encouragement-to-enhance-ai-math-abilities?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/post/deepmind-rolls-out-human-style-encouragement-to-enhance-ai-math-abilities?amp=1",
+      "publishedDateTime": "2023-09-29T02:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -776,26 +433,27 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "Google AI",
+        "AI",
+        "Math for AI"
       ]
     },
     {
-      "path": "_news/2023-09-26-computer-visions-next-breakthrough.md",
-      "title": "Computer vision's next breakthrough",
-      "excerpt": "The first computer vision use cases in the 1950s analysed typed versus handwritten text. Early commercial applications focused on single images, including optical character recognition, image segmentation, and object detection. Pioneering work on facial ...",
+      "path": "_news/2023-09-29-the-self-driving-trucks-that-are-deliberately-crashed.md",
+      "title": "The self-driving trucks that are deliberately crashed",
+      "excerpt": "The developers of self-driving trucks don't usually like to see them crash in testing - there would be a lot of mangled metal and the risk of causing serious injury or worse. Instead the hope is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/708899/computer-vision-next-breakthrough/",
-      "originalUrl": "https://www.reseller.co.nz/article/708899/computer-vision-next-breakthrough/",
+      "webUrl": "https://www.aol.com/self-driving-trucks-deliberately-crashed-230433006.html",
+      "originalUrl": "https://www.aol.com/self-driving-trucks-deliberately-crashed-230433006.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/computer_1.jpg",
-          "width": 504,
-          "height": 315,
+          "url": "https://media.zenfs.com/en/aol_bbc_articles_618/376737f07533f189190d2958a6eeabac",
+          "width": 976,
+          "height": 549,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -805,11 +463,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T16:57:00-07:00",
+      "publishedDateTime": "2023-09-29T01:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
+        "name": "AOL",
+        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -819,26 +477,77 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-26-navigating-the-evolving-landscape-of-robotics-ai-and-self-driving-cars.md",
-      "title": "Navigating the Evolving Landscape of Robotics, AI and Self-Driving Cars",
-      "excerpt": "What’s happening in robotics, artificial intelligence and autonomous navigation? In this session at TechCrunch Disrupt 2023, experts provided context and insights on a variety of fronts, including pure-play L4 and ADAS-first approaches for self-driving cars.",
+      "path": "_news/2023-09-29-ai-is-transformative-for-the-geopolitical-order-political-scientist-ian-bremmer-says.md",
+      "title": "‘AI is transformative for the geopolitical order,’ political scientist Ian Bremmer says",
+      "excerpt": "Political scientist Ian Bremmer said he is an \"enthusiast\" about the potential for artificial intelligence, but warned of possible risks on the horizon.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/helm-ai-company/navigating-the-evolving-landscape-of-robotics-ai-and-self-driving-cars/",
-      "originalUrl": "https://techcrunch.com/sponsor/helm-ai-company/navigating-the-evolving-landscape-of-robotics-ai-and-self-driving-cars/",
+      "webUrl": "https://www.cnbc.com/2023/09/29/ai-is-transformative-for-the-geopolitical-order-ian-bremmer-says.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/29/ai-is-transformative-for-the-geopolitical-order-ian-bremmer-says.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/helm-ai-large.jpg?resize=1200,800",
+          "url": "https://image.cnbcfm.com/api/v1/image/107282090-1691159601236-gettyimages-1513209723-CHINA_WORLD_AI.jpeg?v=1695979393",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/29/ai-is-transformative-for-the-geopolitical-order-ian-bremmer-says.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/29/ai-is-transformative-for-the-geopolitical-order-ian-bremmer-says.html",
+      "publishedDateTime": "2023-09-29T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia.md",
+      "title": "Former Tinder CEO’s startup to fight loneliness with AI chatbot gets backing by Sequoia",
+      "excerpt": "Former Tinder CEO Renate Nyborg's startup Meeno, said Thursday that it has raised a $3.9 million seed round led by Sequoia.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/?trk=public_post_comment-text",
+      "originalUrl": "https://techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/?trk=public_post_comment-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/09/Meeno.jpeg?resize=1200,907",
           "width": 1200,
-          "height": 800,
+          "height": 907,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -846,9 +555,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T15:50:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/amp/",
+      "publishedDateTime": "2023-09-29T00:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -871,18 +580,51 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-09-26-machine-learning-unravels-mysteries-of-atomic-shapes.md",
-      "title": "Machine learning unravels mysteries of atomic shapes",
-      "excerpt": "New research has used machine learning to find the properties of atomic pieces of geometry, in pioneering work that could drive the development of new results in mathematics.",
+      "path": "_news/2023-09-29-executive-insights-artificial-intelligence-in-higher-education.md",
+      "title": "Executive Insights: Artificial intelligence in higher education",
+      "excerpt": "\"When deployed effectively, generative AI should facilitate more discussion, creativity, and give and take by actively engaging students in the learning process.",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230925124814.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230925124814.htm",
+      "webUrl": "https://www.bizjournals.com/nashville/news/2023/09/29/artificial-intelligence-in-higher-education.html",
+      "originalUrl": "https://www.bizjournals.com/nashville/news/2023/09/29/artificial-intelligence-in-higher-education.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bizjournals.com/nashville/news/2023/09/29/artificial-intelligence-in-higher-education.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2023/09/29/artificial-intelligence-in-higher-education.amp.html",
+      "publishedDateTime": "2023-09-28T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-meta-unveils-artificial-intellgence-assistant-facebook-streaming-glasses.md",
+      "title": "Meta unveils artificial intellgence assistant, Facebook-streaming glasses",
+      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram ... chief analyst at TECHnalysis Research. Zuckerberg also said on Wednesday that Xbox cloud gaming ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/business/meta-unveils-artificial-intellgence-assistant-facebook-streaming-glasses/cid/1969762",
+      "originalUrl": "https://www.telegraphindia.com/business/meta-unveils-artificial-intellgence-assistant-facebook-streaming-glasses/cid/1969762",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -892,14 +634,100 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T15:22:00-07:00",
+      "publishedDateTime": "2023-09-28T21:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-industries-that-ai-can-revolutionize.md",
+      "title": "Industries that AI Can Revolutionize",
+      "excerpt": "Artificial Intelligence is no longer the stuff of science fiction or a tech buzzword. For some businesses and individuals today, it is already a reality and a seemingly permanent fixture in their work or education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.econotimes.com/Industries-that-AI-Can-Revolutionize-1663526",
+      "originalUrl": "https://www.econotimes.com/Industries-that-AI-Can-Revolutionize-1663526",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png",
+          "width": 400,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EconoTimes",
+        "domain": "econotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts.md",
+      "title": "Meta's new AI assistant trained on public Facebook and Instagram posts",
+      "excerpt": "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/metas-new-ai-chatbot-trained-public-facebook-instagram-posts-2023-09-28/",
+      "originalUrl": "https://www.reuters.com/technology/metas-new-ai-chatbot-trained-public-facebook-instagram-posts-2023-09-28/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/9umQxyWxG3O8-0gjnSZRKqO-gK4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6MU52GVI4VNMVPKK2OQC25LKC4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -907,6 +735,194 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-infosys-collaborates-with-microsoft-to-develop-generative-ai.md",
+      "title": "Infosys collaborates with Microsoft to develop generative AI",
+      "excerpt": "Infosys and Microsoft, two leaders in the technology industry, have announced a collaboration to develop industry-leading AI solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theindianwire.com/software/infosys-collaborates-with-microsoft-to-develop-generative-ai-341411/",
+      "originalUrl": "https://www.theindianwire.com/software/infosys-collaborates-with-microsoft-to-develop-generative-ai-341411/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Wire",
+        "domain": "theindianwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study.md",
+      "title": "AI language models can exceed PNG and FLAC in lossless compression, says study",
+      "excerpt": "In an arXiv research paper titled \"Language Modeling Is Compression,\" researchers detail their discovery that the DeepMind large language model (LLM) called Chinchilla 70B can perform lossless ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-life-satisfaction-may-not-enhance-cognitive-functioning-among-some-older-adults.md",
+      "title": "Life satisfaction may not enhance cognitive functioning among some older adults",
+      "excerpt": "Numerous studies have shown that leading a fulfilling and satisfying life may improve cognitive function by encouraging health-protective behaviors such as physical activity and reduced stress. Many of these studies assess this relationship from a population level,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-09-life-satisfaction-cognitive-functioning-older.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-09-life-satisfaction-cognitive-functioning-older.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts.md",
+      "title": "Meta's new AI chatbot trained on public Facebook and Instagram posts",
+      "excerpt": "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts?time=1695925504",
+      "originalUrl": "https://www.nasdaq.com/articles/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts?time=1695925504",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-new-study-digs-deep-into-neural-networks-to-improve-ai-security.md",
+      "title": "New study digs deep into neural networks to improve AI security",
+      "excerpt": "By intentionally exposing their system to potentially confusing data, researchers build resilience to protect against malicious attacks",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-760878",
+      "originalUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-760878",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/554441",
+          "width": 690,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -916,25 +932,26 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Security"
       ]
     },
     {
-      "path": "_news/2023-09-26-fbi-agents-are-using-face-recognition-without-proper-training.md",
-      "title": "FBI Agents Are Using Face Recognition Without Proper Training",
-      "excerpt": "The US Federal Bureau of Investigation (FBI) has done tens of thousands of face recognition searches using software from outside providers in recent years. Yet only 5 percent of the 200 agents ...",
+      "path": "_news/2023-09-29-ai-startup-alphasense-valued-at-25-billion-after-latest-funding-round.md",
+      "title": "AI startup AlphaSense valued at $2.5 billion after latest funding round",
+      "excerpt": "Market intelligence platform AlphaSense has raised $150 million in a fresh round of funding that boosted its valuation to $2.5 billion, underscoring strong demand for artificial intelligence (AI) startups.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/fbi-agents-face-recognition-without-proper-training/?mc_cid=ec579b13de&mc_eid=d63e057ad6",
-      "originalUrl": "https://www.wired.com/story/fbi-agents-face-recognition-without-proper-training/?mc_cid=ec579b13de&mc_eid=d63e057ad6",
+      "webUrl": "https://www.reuters.com/article/alphasense-funding-idUSL4N3B33JO",
+      "originalUrl": "https://www.reuters.com/article/alphasense-funding-idUSL4N3B33JO",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/650e24e46433c8cfce97f20c/191:100/w_1280,c_limit/FBI-Facial-Recognition-No-Safety-Net-Business-1279559129.jpg",
-          "width": 1280,
-          "height": 670,
+          "url": "https://www.reuters.com/resizer/ZSQXVFoZhkTbBX5nPujAzelH_KY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C24LFCQN3FPIPM7JQ2F3WDUUKQ.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -944,14 +961,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T14:07:00-07:00",
+      "publishedDateTime": "2023-09-28T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -967,60 +984,25 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-26-spotify-is-testing-ai-powered-podcast-language-translation-which-mimics-the-podcasters-own-voice.md",
-      "title": "Spotify Is Testing AI-Powered Podcast Language Translation — Which Mimics the Podcaster’s Own Voice",
-      "excerpt": "Spotify is testing out a way for podcasters to reach listeners in different languages ... AI-generated translations into Spanish, below.) Other shows Spotify expects to include in the voice ...",
+      "path": "_news/2023-09-29-spotify-will-use-openais-tech-to-translate-podcasts-to-more-languages.md",
+      "title": "Spotify will use OpenAI's tech to translate podcasts to more languages",
+      "excerpt": "Spotify has unveiled Voice Translation for podcasts, a new pilot service that utilizes AI to translate audio shows into various languages. Through the application of machine",
       "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/spotify-testing-ai-powered-podcast-120000390.html",
-      "originalUrl": "https://www.aol.com/finance/spotify-testing-ai-powered-podcast-120000390.html",
+      "webUrl": "https://www.techspot.com/news/100315-spotify-use-openai-tech-translate-podcasts-more-languages.html",
+      "originalUrl": "https://www.techspot.com/news/100315-spotify-use-openai-tech-translate-podcasts-more-languages.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-chatgpt-can-now-talk-to-youand-look-into-your-life.md",
-      "title": "ChatGPT Can Now Talk to You—and Look Into Your Life",
-      "excerpt": "using image or speech recognition, so the chatbot can generate a response. The app then responds via either voice or text, depending on what mode the user is in. When a WIRED writer asked the new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/chatgpt-can-now-talk-to-you-and-look-into-your-life/",
-      "originalUrl": "https://www.wired.com/story/chatgpt-can-now-talk-to-you-and-look-into-your-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/650e03b8051fc1c1176d09dc/191:100/w_1280,c_limit/ChatGPT-Can-Now-Speak-And-See-Business-530901253.jpg",
-          "width": 1280,
-          "height": 670,
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/09/2023-09-28-image-18.jpg",
+          "width": 2000,
+          "height": 1125,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1030,14 +1012,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T13:19:00-07:00",
+      "publishedDateTime": "2023-09-28T10:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
+        "name": "TechSpot",
+        "domain": "techspot.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1058,21 +1040,21 @@
       ]
     },
     {
-      "path": "_news/2023-09-26-new-method-helps-ai-navigate-3d-space-using-2d-images.md",
-      "title": "New method helps AI navigate 3D space using 2D images",
-      "excerpt": "Photos are two-dimensional (2D), but autonomous vehicles and other technologies have to navigate the three-dimensional (3D) world. Researchers have developed a new method to help artificial intelligence (AI) extract 3D information from 2D images,",
+      "path": "_news/2023-09-29-eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure.md",
+      "title": "Eastwall and AOG Partner to Accelerate Clinical AI Strategies through Microsoft Azure",
+      "excerpt": "The alliance seeks to further healthcare technology services by creating a seamless bridge between AOG's specialized clinical AI strategies and Eastwall's comprehensive Microsoft Azure solutions.",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-09-method-ai-3d-space-2d.html",
-      "originalUrl": "https://techxplore.com/news/2023-09-method-ai-3d-space-2d.html",
+      "webUrl": "https://www.victoriaadvocate.com/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure/article_330ec06e-4a2a-5ffd-bd6c-94dd21f49bde.html",
+      "originalUrl": "https://www.victoriaadvocate.com/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure/article_330ec06e-4a2a-5ffd-bd6c-94dd21f49bde.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/new-method-helps-ai-na.jpg",
-          "width": 2880,
-          "height": 982,
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/9/fe/9fea8f49-b36b-5469-8e74-03d2b355fc8c/6515a0529d38c.image.jpg?crop=785%2C412%2C23%2C0&resize=785%2C412&order=crop%2Cresize",
+          "width": 785,
+          "height": 412,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1080,47 +1062,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-09-method-ai-3d-space-2d.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-method-ai-3d-space-2d.amp",
-      "publishedDateTime": "2023-09-25T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-the-ethics-of-artificial-intelligence-a-path-toward-responsible-ai.md",
-      "title": "The ethics of artificial intelligence: A path toward responsible AI",
-      "excerpt": "If the firms behind AI start thinking intentionally about ethics, striving to make \"AI that's more fair, that's more inclusive, that's safer, that's more secure, that's more private, then that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/technology/the-ethics-of-artificial-intelligence-responsible-ai?ref=biztoc.com",
-      "originalUrl": "https://www.thestreet.com/technology/the-ethics-of-artificial-intelligence-responsible-ai?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T12:59:00-07:00",
+      "publishedDateTime": "2023-09-28T10:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1130,7 +1078,7 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "Microsoft AI",
         "AI"
       ]
     }

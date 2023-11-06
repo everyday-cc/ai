@@ -2,6 +2,176 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-16-10-everyday-machine-learning-use-cases.md",
+      "title": "10 everyday machine learning use cases",
+      "excerpt": "At IBM, we are combining the power of ML and AI in IBM watsonx, our new studio for foundation models, generative AI and ML.\nThe post 10 everyday machine learning use cases appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/10-everyday-machine-learning-use-cases/",
+      "originalUrl": "https://www.ibm.com/blog/10-everyday-machine-learning-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T09:00:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-10-examples-of-machine-learning-in-the-world-today.md",
+      "title": "10 examples of Machine Learning in the world today",
+      "excerpt": "At IBM, we are combining the power of ML and AI in IBM watsonx, our new studio for foundation models, generative AI and ML.\nThe post 10 examples of Machine Learning in the world today appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/10-examples-of-machine-learning-in-the-world-today/",
+      "originalUrl": "https://www.ibm.com/blog/10-examples-of-machine-learning-in-the-world-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T09:00:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-ibm-named-a-leader-in-the-2023-gartner-magic-quadrant-for-api-management.md",
+      "title": "IBM Named a Leader in the 2023 Gartner Magic Quadrant for API Management",
+      "excerpt": "IBM is helping Businesses create APIs to get the data they need to power their applications and experiences, and scale their operations.\nThe post IBM Named a Leader in the 2023 Gartner Magic Quadrant for API Management appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-2023-gartner-magic-quadrant-for-api-management/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-2023-gartner-magic-quadrant-for-api-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T08:24:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-near-instant-replication-with-highly-available-redundant-systemsacross-several-miles.md",
+      "title": "Near instant replication with highly available, redundant systems—across several miles",
+      "excerpt": "With IBM Cloud’s new Madrid multi-zone region (MZR), latency between highly available (HA) workloads is no longer a concern. \nThe post Near instant replication with highly available, redundant systems—across several miles appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/near-instant-replication-with-highly-available-redundant-systems-across-several-miles/",
+      "originalUrl": "https://www.ibm.com/blog/near-instant-replication-with-highly-available-redundant-systems-across-several-miles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T06:10:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-challenges-and-risks-associated-with-lack-of-real-time-monitoring-in-sap.md",
       "title": "Challenges and risks associated with lack of real-time monitoring in SAP",
       "excerpt": "Real-time monitoring harnesses the power of proactive detection to transform operations, eliminate problems related to performance.\nThe post Challenges and risks associated with lack of real-time monitoring in SAP appeared first on IBM Blog.\n",
@@ -1157,178 +1327,6 @@
         "AI",
         "AI in Education",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-security-ai-and-automation-are-key-in-protecting-against-costly-data-breaches-for-retailers-and-consumer-goods-businesses.md",
-      "title": "Security AI and automation are key in protecting against costly data breaches for retailers and consumer goods businesses",
-      "excerpt": "For retailers, AI and automation can significantly reduce the impact of a cybersecurity data breach—financially and beyond.\nThe post Security AI and automation are key in protecting against costly data breaches for retailers and consumer goods businesses appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/security-ai-automation-protecting-against-data-breaches/",
-      "originalUrl": "https://www.ibm.com/blog/security-ai-automation-protecting-against-data-breaches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-police-intelligence-tool-quickly-sends-information-on-risk-to-frontline-officers.md",
-      "title": "Police intelligence tool quickly sends information on risk to frontline officers",
-      "excerpt": "using IBM Watson AI and so-called i2 visual tech spun off from IBM. It provides “dramatically more useful” intelligence, especially about firearm threats, the papers said. This is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newstalkzb.co.nz/news/national/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/",
-      "originalUrl": "https://www.newstalkzb.co.nz/news/national/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newstalkzb.co.nz/media/kpknelnw/police-patrol-car-rnz.jpg?rmode=crop&rnd=133407107303770000&height=395&width=635&quality=95&scale=both",
-          "width": 635,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newstalk ZB",
-        "domain": "newstalkzb.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-building-cars-in-a-changing-world-audis-integrated-approach-with-ibm-planning-analytics.md",
-      "title": "Building cars in a changing world: Audi’s Integrated Approach with IBM Planning Analytics",
-      "excerpt": "Audi's journey serves as a beacon for organizations navigating the labyrinth of complex planning and decision-making.\nThe post Building cars in a changing world: Audi&#8217;s Integrated Approach with IBM Planning Analytics appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/building-cars-in-a-changing-world-audi/",
-      "originalUrl": "https://www.ibm.com/blog/building-cars-in-a-changing-world-audi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers.md",
-      "title": "New police intelligence tool speedily sending information on risk to frontline officers",
-      "excerpt": "using IBM Watson AI and so-called i2 visual tech spun off from IBM. It provides “dramatically more useful” intelligence, especially about firearm threats, the papers said. This is disclosed in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nzherald.co.nz/nz/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/WEHYMECHMJEAHDE2YKTA676JVE/",
-      "originalUrl": "https://www.nzherald.co.nz/nz/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/WEHYMECHMJEAHDE2YKTA676JVE/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nzherald.co.nz/resizer/lG4iwT4o0_nv5-b1l_S9aLPpo2Y=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/O34OTTPSBBANLDKXXNGHTA7LCY.JPG",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-01T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Zealand Herald",
-        "domain": "nzherald.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

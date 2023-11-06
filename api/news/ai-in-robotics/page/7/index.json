@@ -2,6 +2,1032 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-09-15-drinks-company-appoints-ai-robot-as-experimental-ceo.md",
+      "title": "Drinks company appoints AI robot as 'experimental CEO'",
+      "excerpt": "A drinks company has appointed what it says is the world's first artificial intelligence \"experimental\" chief executive to work in Poland. Angela Johnston explains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idRW182413092023RP1",
+      "originalUrl": "https://www.reuters.com/video/watch/idRW182413092023RP1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20230914&i=RW182413092023RP1&r=RW182413092023RP1&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-ascento-launches-nimble-guard-robot-following-a-new-43m-funding-round.md",
+      "title": "Ascento launches nimble Guard robot following a new $4.3M funding round",
+      "excerpt": "Robotics startup launches latest autonomous outdoor security patrolling robot, Ascento Guard, allowing companies to extend security at a reasonable cost.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/ascento-launches-nimble-guard-robot-following-a-new-4-3m-funding-round/",
+      "originalUrl": "https://www.therobotreport.com/ascento-launches-nimble-guard-robot-following-a-new-4-3m-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/09/Ascento-Guard-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-abb-spending-280m-on-new-european-robotics-hub.md",
+      "title": "ABB spending $280M on new European robotics hub",
+      "excerpt": "This new facility will increase ABB's manufacturing capacity for its collaborative and industrial robot arms by 50% and enable it to better serve the European market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/abb-spending-280m-on-new-european-robotics-hub/",
+      "originalUrl": "https://www.therobotreport.com/abb-spending-280m-on-new-european-robotics-hub/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/09/ABB-Robotics_Sweden-Robotics-Campus_Production.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-robot-control-system-market-size-status-and-growth-outlook-2023.md",
+      "title": "Robot Control System Market Size, Status and Growth Outlook 2023",
+      "excerpt": "The global Robot Control System market is currently in a state of progress and holds promising prospects for the future, as indicated by a new report covering the period from 2023 to 2029.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34575295/robot-control-system-market-size-status-and-growth-outlook-2023",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34575295/robot-control-system-market-size-status-and-growth-outlook-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34575295",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34575295",
+      "publishedDateTime": "2023-09-14T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-nauticus-robotics-announces-offshore-service-agreement-with-shell.md",
+      "title": "Nauticus Robotics Announces Offshore Service Agreement with Shell",
+      "excerpt": "Continuous Successful Collaboration Evolves from the Development Stage to Commercial Offshore Service with a Potential Multi-Year Service",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nauticus-robotics-announces-offshore-service-agreement-with-shell-1032630051",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nauticus-robotics-announces-offshore-service-agreement-with-shell-1032630051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies.md",
+      "title": "Artificial Intelligence To Strengthen Indian Army, Made-In India '4-Legged Robot' To Take On Enemies",
+      "excerpt": "At the North Tech Symposium 2023 in Jammu, the Indian Army unveiled groundbreaking artificial intelligence advancements that are reshaping contemporary warfare strategies, and a Multi-utility Legged Equipment (MULE),",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438",
+      "originalUrl": "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-103655438,updatedat-1694673751837,width-1280,height-720,resizemode-75/103655438.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438/amp",
+      "publishedDateTime": "2023-09-13T23:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-advancing-research-to-clear-humanoid-robots-for-takeoff.md",
+      "title": "Advancing Research to Clear Humanoid Robots for Takeoff",
+      "excerpt": "Adapted to the Cockpit David Shim, one of the researchers involved in the project told EuroNews, \"Pibot is a humanoid robot that can fly an airplane just like a human pilot by manipulating all the single controls in the cockpit, which is designed for humans.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.goodnet.org/articles/advancing-research-clear-humanoid-robots-takeoff1",
+      "originalUrl": "https://www.goodnet.org/articles/advancing-research-clear-humanoid-robots-takeoff1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Goodnet",
+        "domain": "goodnet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-ai-industrial-robotics-argentina.md",
+      "title": "AI Industrial Robotics - Argentina",
+      "excerpt": "The market size in the AI Industrial Robotics market is projected to reach US$9.68m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 7.82%, resulting in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/argentina",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/argentina",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-ai-service-robotics-argentina.md",
+      "title": "AI Service Robotics - Argentina",
+      "excerpt": "The market size in the AI Service Robotics market is projected to reach US$8.82m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 8.34%, resulting in a market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/argentina",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/argentina",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-ai-robot-dog-market-size-and-regional-outlook-analysis-2023-2030.md",
+      "title": "AI Robot Dog Market Size and Regional Outlook Analysis 2023-2030",
+      "excerpt": "The AI Robot Dog Market Insights of 2023 is an extensive ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Precision Reports is the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34514808/ai-robot-dog-market-size-and-regional-outlook-analysis-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34514808/ai-robot-dog-market-size-and-regional-outlook-analysis-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34514808",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34514808",
+      "publishedDateTime": "2023-09-12T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-embodied-ai-bridging-the-gap-between-mind-and-matter.md",
+      "title": "Embodied AI: Bridging the Gap Between Mind and Matter",
+      "excerpt": "Amid all the impressive strides artificial intelligence has made, there's one fundamental limitation - its confinement to the digital realm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techopedia.com/embodied-ai-bridging-the-gap-between-mind-and-matter",
+      "originalUrl": "https://www.techopedia.com/embodied-ai-bridging-the-gap-between-mind-and-matter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techopedia",
+        "domain": "techopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-machine-social-network-to-update-air-force-ai-robots-on-the-fly.md",
+      "title": "Machine ‘Social Network’ To Update Air Force AI Robots On The Fly",
+      "excerpt": "No machine-learning system can be trained on every possible situation, and when it encounters something new it may not be able to deal with it. Dolev says this could be something as simple as an object recognition system seeing snow for the first time and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2023/09/12/machine-social-network-to-update-air-force-ai-robots-on-the-fly/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2023/09/12/machine-social-network-to-update-air-force-ai-robots-on-the-fly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff362502f97585562b0c97/0x0.jpg?format=jpg&crop=985,554,x18,y0,safe&width=1200",
+          "width": 985,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2023/09/12/machine-social-network-to-update-air-force-ai-robots-on-the-fly/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2023/09/12/machine-social-network-to-update-air-force-ai-robots-on-the-fly/amp/",
+      "publishedDateTime": "2023-09-12T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-this-patrolling-security-robot-wants-to-guard-your-premises.md",
+      "title": "This patrolling security robot wants to guard your premises",
+      "excerpt": "Meet the Ascento Guard, a new security robot. The autonomous two-wheeler is designed to tackle the shortage of human security guards",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ascento-guard-patrolling-security-robot",
+      "originalUrl": "https://thenextweb.com/news/ascento-guard-patrolling-security-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F09%2FUntitled-design-1-1.jpg&signature=22f5df95837a1a1b55f14871249f6d35",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-robotic-vacuum-cleaner-buying-guide-how-to-pick-the-right-robotic-vacuum-cleaner-for-your-home.md",
+      "title": "Robotic vacuum cleaner buying guide: How to pick the right robotic vacuum cleaner for your home",
+      "excerpt": "Things to keep in mind while buying a robotic vacuum cleaner in India Now ... enhances the experience of using your vacuum cleaner many folds. You can easily control your cleaner using your smartphone app or even voice commands (using AI assistants ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/buying-guides/general/robotic-vacuum-cleaner-buying-guide-how-to-pick-the-right-robotic-vacuum-cleaner-for-your-home-68928.html",
+      "originalUrl": "https://www.digit.in/buying-guides/general/robotic-vacuum-cleaner-buying-guide-how-to-pick-the-right-robotic-vacuum-cleaner-for-your-home-68928.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-tim-burton-calls-out-ai-its-like-a-robot-taking-your-humanity-your-soul.md",
+      "title": "Tim Burton calls out AI: ‘It’s like a robot taking your humanity, your soul’",
+      "excerpt": "It’s like a robot taking your ... I could then start doing it.” Christopher Soto and USC poet and professor Jackie Wang have spent months talking about how AI will change writers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/entertainment-arts/movies/story/2023-09-11/tim-burton-ai-artificial-intelligence-robot-humanity",
+      "originalUrl": "https://www.latimes.com/entertainment-arts/movies/story/2023-09-11/tim-burton-ai-artificial-intelligence-robot-humanity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/8cd8bf4/2147483647/strip/true/crop/3000x1575+0+253/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc4%2F3d%2F4dd45b5d43bba8f942f4c394d9d0%2F80th-annual-golden-globe-awards-arrivals-11101.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.md",
+      "title": "Hyderabad can emerge as India's AI, robotics hub: Experts",
+      "excerpt": "Boston, USA: Experts in the fields of artificial intelligence (AI), robotics and data protection in the US appreciated the progress being made by India in general and Telangana state in particular, saying Hyderabad has emerged as the new technology hub of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanchronicle.com/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html",
+      "originalUrl": "https://www.deccanchronicle.com/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qdjlmll247sgamvbuhqasf3u62-20230911230129.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html",
+      "publishedDateTime": "2023-09-11T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-aitxs-subsidiary-robotic-assistance-devices-group-rad-g-announces-solutions-for-emergency-phone-tower-manufacturers.md",
+      "title": "AITX's Subsidiary, Robotic Assistance Devices Group (RAD-G), Announces Solutions for Emergency Phone Tower Manufacturers",
+      "excerpt": "Blue Light Tower Manufacturers Now Have Access to RAD’s Award-Winning AI Analytics and Software SolutionsDetroit, Michigan, Sept. 11, 2023",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aitx-s-subsidiary-robotic-assistance-devices-group-rad-g-announces-solutions-for-emergency-phone-tower-manufacturers-1032620092",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aitx-s-subsidiary-robotic-assistance-devices-group-rad-g-announces-solutions-for-emergency-phone-tower-manufacturers-1032620092",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-robot-fried-chicken-entrepreneur-seeks-to-improve-s-koreas-favourite-food.md",
+      "title": "Robot Fried Chicken: Entrepreneur Seeks To Improve S. Korea's Favourite Food",
+      "excerpt": "In fried-chicken-obsessed South Korea, restaurants serving the nation's favourite fast-food dish dot every street corner. But Kang Ji-young's establishment brings something a little different to the table: a robot is cooking the chicken.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/robot-fried-chicken-entrepreneur-seeks-to-improve-s-korea-s-favourite-food-a06efd08",
+      "originalUrl": "https://www.barrons.com/news/robot-fried-chicken-entrepreneur-seeks-to-improve-s-korea-s-favourite-food-a06efd08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP7482220699834898514323190859962703852672---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/robot-fried-chicken-entrepreneur-seeks-to-improve-s-korea-s-favourite-food-a06efd08",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/robot-fried-chicken-entrepreneur-seeks-to-improve-s-korea-s-favourite-food-a06efd08",
+      "publishedDateTime": "2023-09-11T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-top-5-ai-and-robotics-companies-transforming-the-agriculture-sector.md",
+      "title": "Top 5 AI and Robotics Companies Transforming the Agriculture Sector",
+      "excerpt": "In this article, we will look at the top 5 AI and robotics companies transforming the agriculture sector. If you are interested in reading an in-depth industrial analysis along with a more extensive list of the topic, head straight to the the Top 20 AI and Robotics Companies Transforming the Agriculture Sector .",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/",
+      "originalUrl": "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/10/11061545/Stocks.jpg?auto=format&expires=1725926400&w=400&h=225&fit=crop",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/?amp=1",
+      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/?amp=1",
+      "publishedDateTime": "2023-09-11T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-now-robots-cook-fried-chicken-to-improve-south-koreas-favourite-food.md",
+      "title": "Now, Robots Cook Fried Chicken To Improve South Korea's Favourite Food",
+      "excerpt": "Korean fried chicken is brined and double-fried, which gives it its signature crispy exterior, but the process -- more elaborate than what is typically used by US fast food chains -- creates additional labour.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915",
+      "originalUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2023-09/tveo15fo_south-korean-chicken_625x300_11_September_23.jpg",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915/amp/1",
+      "publishedDateTime": "2023-09-11T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-2023-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-growth-dynamics-empowering-business-with-new-opportunities-till-2030.md",
+      "title": "2023, Artificial Intelligence and Robotics in Aerospace and Defense Market Growth Dynamics: Empowering Business with New Opportunities till 2030",
+      "excerpt": "Artificial Intelligence and Robotics in Aerospace and Defense Market Report Overview: The Global Artificial Intelligence and Robotics in Aerospace and Defense market is expected to experience ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34418636/2023-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-growth-dynamics-empowerin",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34418636/2023-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-growth-dynamics-empowerin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34418636",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34418636",
+      "publishedDateTime": "2023-09-10T18:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-from-cozmo-to-vector-how-anki-designs-robots-with-emotional-intelligence.md",
+      "title": "From Cozmo to Vector: How Anki Designs Robots With Emotional Intelligence",
+      "excerpt": "Anki, the company behind Cozmo, says its mission is to “create robots that move you,” combining robotics and artificial intelligence to create technologies with which people can build emotional bonds. Cozmo isn't an industrial robot by any stretch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
+      "originalUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Vector_Lifestyle_007_noLogo.jpg",
+          "width": 6504,
+          "height": 3659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-upping-the-game-on-mind-controlled-robotics.md",
+      "title": "Upping the Game on Mind-Controlled Robotics",
+      "excerpt": "Get rid of the need for implantable electrodes--a focus of University of Minnesota researcher--and medical device assembly workers might mind-control robots performing multiple tasks at the same time. Think the precision of robotics coupled with human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/rd/upping-game-mind-controlled-robotics",
+      "originalUrl": "https://www.mddionline.com/rd/upping-game-mind-controlled-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-the-7-best-robotics-stocks-to-buy-now-september-2023.md",
+      "title": "The 7 Best Robotics Stocks to Buy Now: September 2023",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While artificial intelligence stocks have seen a meteoric rise in recent",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-7-best-robotics-stocks-to-buy-now-september-2023-1032618318",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-7-best-robotics-stocks-to-buy-now-september-2023-1032618318",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-10T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-embark-on-epic-adventures-filled-with-magic-thrill-and-intrigue-with-dungeon-robotics-and-revenge-of-the-sorcerer-king-by-matthew-peed.md",
       "title": "Embark On Epic Adventures Filled With Magic, Thrill, And Intrigue With \"Dungeon Robotics\" and \"Revenge of the Sorcerer King\" By Matthew Peed",
       "excerpt": "Are you ready to be transported to realms brimming with magic, mystery, and mind-bending quests? Prepare to immerse yourself in the captivating universes of \"Dungeon Robotics\" and \"Revenge of the Sorc",
@@ -249,1088 +1275,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030.md",
-      "title": "Artificial Intelligence (AI) Robots Market Size, Trend, Analysis 2023-2030",
-      "excerpt": "Artificial Intelligence (AI) Robots Market 2023 with 117 Pages Report and enhance with extents shares into sub-counties are covered in this market. Artificial Intelligence (AI) Robots Market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34317861/artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34317861/artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34317861",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34317861",
-      "publishedDateTime": "2023-09-07T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-keralas-sastra-robotics-to-export-150-robots-to-britain.md",
-      "title": "Kerala’s Sastra Robotics to export 150 robots to Britain",
-      "excerpt": "Kochi: Sastra Robotics, a startup incubating under Kerala Startup Mission (KSUM), will export 150 robots to Britain following an agreement with one of the top IT companies in the United Kingdom (UK).",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiablooms.com/finance-details/19074/kerala-s-sastra-robotics-to-export-150-robots-to-britain.html",
-      "originalUrl": "https://www.indiablooms.com/finance-details/19074/kerala-s-sastra-robotics-to-export-150-robots-to-britain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.indiablooms.com/finance_pic/2023/bb0283f1eb0d7b4a044b3297683116e3.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Blooms",
-        "domain": "indiablooms.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-100-years-of-fearing-robots.md",
-      "title": "100 years of fearing robots",
-      "excerpt": "Part of The rise of artificial intelligence, explained An oddity of ... If we decide to use them to start writing our stories for us instead of paying writers to do so, they will generate cliché ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/the-highlight/2023/7/10/23778610/robot-artificial-intelligence-stories-literature-sydney-bing-rur-asimov-tropes-humanity",
-      "originalUrl": "https://www.vox.com/the-highlight/2023/7/10/23778610/robot-artificial-intelligence-stories-literature-sydney-bing-rur-asimov-tropes-humanity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/TtZm9RjTR5rv2A9jOueeubvINz0=/0x0:1920x1080/1400x1050/filters:focal(843x617:1149x923):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72439650/illust_4_1920px_x_1080px_asya_demidova.0.png",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/the-highlight/2023/7/10/23778610/robot-artificial-intelligence-stories-literature-sydney-bing-rur-asimov-tropes-humanity",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/the-highlight/2023/7/10/23778610/robot-artificial-intelligence-stories-literature-sydney-bing-rur-asimov-tropes-humanity",
-      "publishedDateTime": "2023-09-07T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-guide-to-artificial-intelligence-etfs.md",
-      "title": "Guide to Artificial Intelligence ETFs",
-      "excerpt": "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ...",
-      "sourceUrl": null,
-      "webUrl": "https://247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/",
-      "originalUrl": "https://247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2019/01/robot_icon.jpg",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/",
-      "publishedDateTime": "2023-09-07T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-what-will-love-and-death-mean-in-the-age-of-machine-intelligence.md",
-      "title": "What will love and death mean in the age of machine intelligence?",
-      "excerpt": "I hesitate to call it artificial intelligence because that makes it both more and less scary than it truly is. More, because “artificial” reminds us of robots, of colonization and physical dominance, images that have been emblazoned in our minds ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/the-highlight/23779098/relationships-artificial-intelligence-robots-ai-death-microsoft-openai-chatgpt",
-      "originalUrl": "https://www.vox.com/the-highlight/23779098/relationships-artificial-intelligence-robots-ai-death-microsoft-openai-chatgpt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/Rb0vBYZWC5UKp_cYmD7PmZzzwiU=/0x0:1920x1080/1400x1050/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72439644/illust_5_1920px_x_1080px_asya_demidova.0.png",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/the-highlight/23779098/relationships-artificial-intelligence-robots-ai-death-microsoft-openai-chatgpt",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/the-highlight/23779098/relationships-artificial-intelligence-robots-ai-death-microsoft-openai-chatgpt",
-      "publishedDateTime": "2023-09-07T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-bengal-man-develops-robots-for-teaching-autistic-children-working-as-waiters.md",
-      "title": "Bengal man develops robots for teaching autistic children, working as waiters",
-      "excerpt": "A 62-year-old retired hospital employee has built robots at his own expense that can perform tasks which can help autistic children learn, spread awareness on diseases such as dengue and even work as a waiter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/health/2585086-bengal-man-develops-robots-for-teaching-autistic-children-working-as-waiters",
-      "originalUrl": "https://www.devdiscourse.com/article/health/2585086-bengal-man-develops-robots-for-teaching-autistic-children-working-as-waiters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/04_02_2023_12_15_10_8349154.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/health/2585086-bengal-man-develops-robots-for-teaching-autistic-children-working-as-waiters?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2585086-bengal-man-develops-robots-for-teaching-autistic-children-working-as-waiters?amp",
-      "publishedDateTime": "2023-09-07T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-boxfish-research-renames-to-boxfish-robotics.md",
-      "title": "Boxfish Research Renames To Boxfish Robotics",
-      "excerpt": "ARV-i, is powered by advanced Artificial Intelligence and sensor integration, facilitates automated and remote operations, while ensuring efficient and precise data collection. \"As Boxfish Robotics, we are delighted to announce the renaming, symbolising a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames-to-boxfish-robotics.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames-to-boxfish-robotics.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/466351406090186752/Zym_9Hv3_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames-to-boxfish-robotics.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames-to-boxfish-robotics.htm",
-      "publishedDateTime": "2023-09-06T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-sil-3-certification.md",
-      "title": "FORT Robotics Endpoint Controller for Wireless Safety and Control of Machines and Robots Receives SIL 3 Certification",
-      "excerpt": "FORT Robotics has announced that its Endpoint Controller—which brings safe, secure, dynamic wireless control to mobile, automated or autonomous machines—has received SIL 3 functional safety certification,",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/september-2023/fort-robotics-endpoint-controller-wireless-safety? Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/september-2023/fort-robotics-endpoint-controller-wireless-safety? Control News & Articles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/3056748b-46c7-425d-b58f-23cef025fd84/FORT-news-Sept-6-2023-web_1.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-vision-guided-robotic-manipulation-a-pivotal-component-in-modern-robotics-renaissance.md",
-      "title": "Vision Guided Robotic Manipulation: A pivotal component in modern robotics renaissance",
-      "excerpt": "The DRC aimed to cultivate robotic systems capable of functioning as disaster response agents. The challenges in the competition spanned tasks like turning valves, climbing ladders, driving utility vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/technology/news-vision-guided-robotic-manipulation-a-pivotal-component-in-modern-robotics-renaissance-252399",
-      "originalUrl": "https://www.zeebiz.com/technology/news-vision-guided-robotic-manipulation-a-pivotal-component-in-modern-robotics-renaissance-252399",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/2023/09/06/259514-aipixabaynew.jpg?im=FitAndFill=(1200,900)",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/technology/news-vision-guided-robotic-manipulation-a-pivotal-component-in-modern-robotics-renaissance-252399/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-vision-guided-robotic-manipulation-a-pivotal-component-in-modern-robotics-renaissance-252399/amp",
-      "publishedDateTime": "2023-09-06T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-sil-3-certification.md",
-      "title": "FORT Robotics Endpoint Controller for Wireless Safety and Control of Machines and Robots Receives SIL 3 Certification",
-      "excerpt": "FORT Robotics, a pioneer in robotic control solutions, announces that its Endpoint Controller received SIL 3 (safety integrity level 3) functional safety certification, as defined by IEC 61508 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34292136/fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34292136/fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance.md",
-      "title": "Robots Manipulate Objects with Their Whole Bodies with AI Assistance",
-      "excerpt": "Imagine you want to carry a large, heavy box up a flight of stairs. You might spread your fingers out and lift that box with both hands, then hold it on top of your forearms and balance it against your chest,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/",
-      "originalUrl": "https://indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2023/09/MIT-Manipulation-Planning-01-press_0.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/",
-      "publishedDateTime": "2023-09-06T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-the-evolution-of-robotic-technology-from-robotic-assistance-to-augmented-intelligence-to-elevate-all-surgery.md",
-      "title": "The Evolution of Robotic Technology: From Robotic Assistance to Augmented Intelligence to Elevate All Surgery",
-      "excerpt": "Unlike artificial intelligence, augmented intelligence serves as a “navigation ... Surgeons are seeing these enhancements first-hand, from a more economical way to use robotics in more surgeries to improved ergonomics and reduced cognitive toll.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/robotics/evolution-robotic-technology-robotic-assistance-augmented-intelligence-elevate-all-surgery",
-      "originalUrl": "https://www.mddionline.com/robotics/evolution-robotic-technology-robotic-assistance-augmented-intelligence-elevate-all-surgery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/MDDI%20graphic2%20web.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-top-10-robotics-stories-of-august-2023.md",
-      "title": "Top 10 robotics stories of August 2023",
-      "excerpt": "The summer of humanoids continues as, once again, our top two stories last month were about humanoids. Robotics funding stories as well as new milestones for robotics companies also grabbed your attention in August 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/top-10-robotics-stories-of-august-2023/",
-      "originalUrl": "https://www.therobotreport.com/top-10-robotics-stories-of-august-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/09/august-top-10-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-rockwell-automation-acquiring-amr-developer-clearpath-robotics.md",
-      "title": "Rockwell Automation acquiring AMR developer Clearpath Robotics",
-      "excerpt": "Rockwell Automation said AMRs \"are the next frontier in industrial automation and transformation, and this acquisition will supercharge Rockwell’s lead in bringing the connected enterprise to life.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/rockwell-automation-acquiring-amr-developer-clearpath-robotics/",
-      "originalUrl": "https://www.therobotreport.com/rockwell-automation-acquiring-amr-developer-clearpath-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/09/rockwell-automation-acquires-clearpath-robotics.jpg",
-          "width": 1000,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-transforming-restaurants-kaikakus-robots-to-augment-human-capabilities.md",
-      "title": "Transforming Restaurants: KAIKAKU's Robots to Augment Human Capabilities",
-      "excerpt": "The Gen-AI craze has largely overshadowed the revolutions bringing AI to the physical world: Robotics. A 22-year-old serial entrepreneur is embracing both AI and Robotics to revolutionise the way we c",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/ab34253903/transforming-restaurants-kaikakus-robots-to-augment-human-capabilities",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/ab34253903/transforming-restaurants-kaikakus-robots-to-augment-human-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34253903",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34253903",
-      "publishedDateTime": "2023-09-05T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-robot-software-firm-mujin-raises-85m.md",
-      "title": "Robot software firm Mujin raises $85M",
-      "excerpt": "An increasing number of companies are looking to automate as a shortage of skilled workers is expected to take a toll on manufacturers through 2030.  Mujin, a Japan-based robotics platform developing company,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/",
-      "originalUrl": "https://techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/Mujin-Robot-Spotlight-In-Dark.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/amp/",
-      "publishedDateTime": "2023-09-05T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-ai-robotics-western-asia.md",
-      "title": "AI Robotics - Western Asia",
-      "excerpt": "The market size in the AI Robotics market is projected to reach US$240.30m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 13.63%, resulting in a market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/western-asia",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/western-asia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-04T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-artificial-intelligence-ai-robots-market-insights-and-data-solutions-for-2023-2030.md",
-      "title": "Artificial Intelligence (AI) Robots Market Insights and Data Solutions for [2023-2030]",
-      "excerpt": "The global Artificial Intelligence (AI) Robots market size was valued at USD 8919.76 million in 2022 and is expected to expand at a CAGR of 33.67 Percentage during the forecast period, reaching ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34217473/artificial-intelligence-ai-robots-market-insights-and-data-solutions-for-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34217473/artificial-intelligence-ai-robots-market-insights-and-data-solutions-for-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34217473",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34217473",
-      "publishedDateTime": "2023-09-04T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-use-jedi-mind-tricks-to-control-your-next-drone-swarm.md",
-      "title": "Use Jedi Mind Tricks To Control Your Next Drone Swarm",
-      "excerpt": "Researchers at Skolkovo Institute of Technology decided Jedi mind tricks ... the hand control eliminates much of the preprogramming of paths that is currently common in swarm robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/10/04/use-jedi-mind-tricks-to-control-your-next-drone-swarm/",
-      "originalUrl": "https://hackaday.com/2019/10/04/use-jedi-mind-tricks-to-control-your-next-drone-swarm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/09/featured-skolov.png",
-          "width": 3312,
-          "height": 1863,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-artificial-intelligence-transforming-healthcare-cybersecurity-and-communications.md",
-      "title": "Artificial Intelligence: Transforming Healthcare, Cybersecurity, and Communications",
-      "excerpt": "Artificial intelligence (AI) systems aim to reproduce human characteristics and processing power in a machine and outperform human speed and constraints. Machine learning and natural language processing, which are already commonplace in our daily lives ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/",
-      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f654488751487eecb0157e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/",
-      "publishedDateTime": "2023-09-04T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI",
-        "AI Ethics",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-horizon-robotics-and-stradvision-joined-forces-for-efficient-adas-solutions.md",
-      "title": "Horizon Robotics and STRADVISION Joined Forces for Efficient ADAS Solutions",
-      "excerpt": "STRADVISION's SVNet is now available on Horizon Robotics Journey series computing solutions. Together, both companies will work together to accelerate the mobility transformation of the automobile industry and bring more value to consumers with an enhanced driving experience that prioritizes safety, convenience and enjoyment.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/horizon-robotics-and-stradvision-joined-forces-for-efficient-adas-solutions-1032603340",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/horizon-robotics-and-stradvision-joined-forces-for-efficient-adas-solutions-1032603340",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2200800/jpeg1.jpg",
-          "width": 400,
-          "height": 286,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-04T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-04-stradvision-and-horizon-robotics-joined-forces-for-efficient-adas-solutions.md",
-      "title": "STRADVISION and Horizon Robotics Joined Forces for Efficient ADAS Solutions",
-      "excerpt": "STRADVISION's SVNet is now available on Horizon Robotics Journey series computing solutions. Together, both companies will work together to accelerate the mobility transformation of the automobile industry and bring more value to consumers with an enhanced driving experience that prioritizes safety, convenience, and enjoyment.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/stradvision-and-horizon-robotics-joined-forces-for-efficient-adas-solutions-1032603238",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/stradvision-and-horizon-robotics-joined-forces-for-efficient-adas-solutions-1032603238",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2200726/STRADVISION_and_Horizon_Robotics_MOU_Signing_Ceremony.jpg",
-          "width": 400,
-          "height": 286,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-04T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-04-robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change.md",
-      "title": "Robots are pouring drinks in Vegas. As AI grows, the city’s workers brace for change",
-      "excerpt": "Walk any direction in Las Vegas and it's easy to find machines doing human work. Check-in kiosks have replaced people at the front desk of hotels. Text-bots now make restaurant recommendations",
-      "sourceUrl": null,
-      "webUrl": "https://wbhm.org/npr_story_post/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change/",
-      "originalUrl": "https://wbhm.org/npr_story_post/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wbhm.org/wp-content/uploads/2023/09/img_2227-e4ff9eafcd401e007a1ed90c4b090f30f5244767-1-771x578.jpg",
-          "width": 771,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wbhm.org/npr_story_post/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change/amp/",
-      "cdnAmpWebUrl": "https://wbhm-org.cdn.ampproject.org/c/s/wbhm.org/npr_story_post/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change/amp/",
-      "publishedDateTime": "2023-09-04T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBHM",
-        "domain": "wbhm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-04-remote-controlled-robot-has-tv-eyes-soft-touch.md",
-      "title": "Remote-Controlled Robot Has TV “Eyes,” Soft Touch",
-      "excerpt": "This article was supported by readers like you. Our mission is to provide accurate, engaging news of science to the public. That mission has never been more important than it is today. As a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencenews.org/archive/remote-controlled-robot-has-tv-eyes-soft-touch",
-      "originalUrl": "https://www.sciencenews.org/archive/remote-controlled-robot-has-tv-eyes-soft-touch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sciencenews.org/wp-content/uploads/2019/08/sn-fallback.png",
-          "width": 990,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science News",
-        "domain": "sciencenews.org",
         "images": null,
         "publishers": null,
         "authors": null

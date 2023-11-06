@@ -2,6 +2,424 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-08-09-microsoft-and-aptos-blockchain-partner-to-revolutionize-web-30-and-ai-integration.md",
+      "title": "Microsoft and Aptos Blockchain Partner to Revolutionize Web 3.0 and AI Integration",
+      "excerpt": "Microsoft partnered with Aptos Labs, a layer 1 innovative blockchain platform co-founded by former Facebook employee",
+      "sourceUrl": null,
+      "webUrl": "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/",
+      "originalUrl": "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/08/microsoft-aptos-web-3-ai.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.coinspeaker.com/microsoft-aptos-web-3-ai/amp/",
+      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/microsoft-aptos-web-3-ai/amp/",
+      "publishedDateTime": "2023-08-09T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "coinspeaker",
+        "domain": "coinspeaker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions.md",
+      "title": "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions",
+      "excerpt": "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence (AI) Center of Excellence and AI Solutions to help ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of/article_45d15318-7d76-5070-8fac-6d1fd3387f88.html",
+      "originalUrl": "https://www.news-journal.com/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of/article_45d15318-7d76-5070-8fac-6d1fd3387f88.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/b/e6/be687c69-88df-573e-84a6-9aa6e9f84093/6487649388079.image.jpg?crop=924%2C485%2C200%2C0&resize=924%2C485&order=crop%2Cresize",
+          "width": 924,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-09T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality.md",
+      "title": "Better together: IBM and Microsoft make enterprise-wide transformation a reality",
+      "excerpt": "Providing joint solutions to companies to improve costs, productivity and resilience by accelerating their hybrid cloud and AI journeys.\nThe post Better together: IBM and Microsoft make enterprise-wide transformation a reality appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality/",
+      "originalUrl": "https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T14:27:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-microsoft-azure-ai-adds-gpt-4-and-new-virtual-machines.md",
+      "title": "Microsoft Azure AI Adds GPT-4 and New Virtual Machines",
+      "excerpt": "Microsoft is also working on creating guidelines for red teams working on making sure generative AI is both secure and responsible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/azure-ai-gpt-4-virtual-machines/",
+      "originalUrl": "https://www.techrepublic.com/article/azure-ai-gpt-4-virtual-machines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 391,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8823-azure-openai-770x465.jpeg",
+          "width": 770,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch.md",
+      "title": "Microsoft is expanding Bing AI to more browsers - but there's a catch",
+      "excerpt": "Already available for select users in Chrome and Safari, the AI chatbot is wending its way to other browsers on both desktop and mobile.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 334,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/16006480204872b8e8ce286a8314ef1029138839/2023/08/08/c3ad8625-df07-48b1-b5df-fff4b8deb6fb/gettyimages-1546726492.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-expanding-bing-ai-to-more-browsers-but-theres-a-catch/",
+      "publishedDateTime": "2023-08-08T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-nvidia-h100-tensor-core-gpu-used-on-new-microsoft-azure-virtual-machine-series-now-generally-available.md",
+      "title": "NVIDIA H100 Tensor Core GPU Used on New Microsoft Azure Virtual Machine Series Now Generally Available",
+      "excerpt": "Microsoft Azure users can now turn to the latest NVIDIA accelerated computing technology to train and deploy their generative AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/nvidia-h100-tensor-core-gpu-used-on-new-microsoft-azure-virtual-machine-series-now-generally-available/",
+      "originalUrl": "https://www.datanami.com/this-just-in/nvidia-h100-tensor-core-gpu-used-on-new-microsoft-azure-virtual-machine-series-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2023/08/Microsoft-plus-Nvidia-logo-stacked-300x204.png",
+          "width": 300,
+          "height": 204,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability.md",
+      "title": "Scale generative AI with new Azure AI infrastructure advancements and availability",
+      "excerpt": "We are excited to share a series of announcements that highlight Microsoft Azure’s commitment to driving innovation and empowering businesses with cutting-edge AI solutions.\nThe post Scale generative AI with new Azure AI infrastructure advancements and availability appeared first on Azure Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-amazons-aws-vs-microsoft-azure-vs-google-cloud-how-tech-titans-fared-in-june-quarters-cloud-showdown.md",
+      "title": "Amazon's AWS Vs Microsoft Azure Vs Google Cloud: How Tech Titans Fared In June Quarter's Cloud Showdown",
+      "excerpt": "According to data from Synergy Research, enterprise spending on cloud infrastructure services increased by $10 billion year-over-year to reach $65 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/equities/23/08/33593955/amazons-aws-vs-microsoft-azure-vs-google-cloud-how-tech-titans-fared-in-june-quarters-cloud-show",
+      "originalUrl": "https://www.benzinga.com/markets/equities/23/08/33593955/amazons-aws-vs-microsoft-azure-vs-google-cloud-how-tech-titans-fared-in-june-quarters-cloud-show",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Cloud_Services.jpeg?width=1200&height=800&fit=crop",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33593955",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33593955",
+      "publishedDateTime": "2023-08-07T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions.md",
+      "title": "Microsoft shuts down Windows’ Cortana voice assistant as it chases AI ambitions",
+      "excerpt": "Cortana began life on Microsoft’s ill-fated Windows Phone platform in the early 2010s, where it served the same general function as Apple’s Siri and Google Now: a hands-free way to interact with your phone that also attempted to have a \"cute\" \"personality.\"",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cortana-800x506.jpg",
+          "width": 800,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/",
+      "publishedDateTime": "2023-08-04T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-another-major-university-is-supporting-generative-ai-use-but-with-serious-guardrails.md",
       "title": "Another major university is supporting generative AI use but with serious guardrails",
       "excerpt": "The University of Hong Kong will provide its teachers and students free access to various generative AI tools, along with some rules to follow.",
@@ -986,462 +1404,6 @@
         "AI",
         "Natural Language Processing",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-meta-and-microsoft-vets-land-22m-for-startup-building-shared-brain-developer-platform.md",
-      "title": "Meta and Microsoft vets land $2.2M for startup building ‘shared brain’ developer platform",
-      "excerpt": "A new artificial intelligence startup wants to help software development teams capture, store, and query their company data and knowledge. Augmend recently emerged from stealth mode with $2.2 million",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/meta-and-microsoft-vets-land-2-2m-for-startup-building-shared-brain-developer-platform/",
-      "originalUrl": "https://www.geekwire.com/2023/meta-and-microsoft-vets-land-2-2m-for-startup-building-shared-brain-developer-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/07/AugmendTeam-1260x649.jpg",
-          "width": 1260,
-          "height": 649,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws.md",
-      "title": "Amazon grows generative AI efforts with Bedrock expansion for AWS",
-      "excerpt": "AWS outlined its strategy for generative AI and announced updates and incremental new services for its Bedrock foundation model service.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws/",
-      "originalUrl": "https://venturebeat.com/ai/amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/image1-4.png?w=1200&strip=all",
-          "width": 1114,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-microsoft-is-in-the-lead-with-new-cloud-based-ai-workloads-ceo-nadella-says.md",
-      "title": "Microsoft is 'in the lead' with new cloud-based A.I. workloads, CEO Nadella says",
-      "excerpt": "Of Microsoft's anticipated 25% to 26% Azure cloud growth in constant currency in the current quarter, and some 2 percentage points will be derived from AI, the company's finance chief said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/25/microsoft-is-in-the-lead-with-cloud-based-ai-workloads-nadella-says.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/25/microsoft-is-in-the-lead-with-cloud-based-ai-workloads-nadella-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107190488-1675802590794-gettyimages-1246870736-AFP_338Q79L.jpeg?v=1690332558",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/25/microsoft-is-in-the-lead-with-cloud-based-ai-workloads-nadella-says.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/microsoft-is-in-the-lead-with-cloud-based-ai-workloads-nadella-says.html",
-      "publishedDateTime": "2023-07-26T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence.md",
-      "title": "AI At The Doctor? Amazon Launches New Service As Google, Microsoft Aim At Merging Healthcare With Artificial Intelligence",
-      "excerpt": "Amazon is continuing its expansion into the health space with the launch of a new generative AI tool called HealthScribe, meant to take over some time-consuming administrative tasks of doctor’s offices and clinics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 393,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c1637e81d2f6620816a7fe/0x0.jpg?format=jpg&crop=4886,2747,x0,y49,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-07-26T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group.md",
-      "title": "Google and Microsoft partner with OpenAI to form AI safety watchdog group",
-      "excerpt": "Called the Frontier Model Forum, the partnership comes after a White House meeting last week with the same companies, plus Amazon and Meta, to discuss the secure and transparent development of future AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/",
-      "originalUrl": "https://www.zdnet.com/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 383,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0430dc198ab4ed046b02d5baab33192ccb668571/2023/07/26/a18398ef-86e6-4115-8cdd-48c6fc6907e2/ai-gettyimages-1373071138.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/",
-      "publishedDateTime": "2023-07-26T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform.md",
-      "title": "Egnyte is bringing generative AI capabilities to its storage platform",
-      "excerpt": "Egnyte became the latest enterprise software company to offer generative AI capabilities on its platform today.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/",
-      "originalUrl": "https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1193843538.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/amp/",
-      "publishedDateTime": "2023-07-26T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform.md",
-      "title": "Protect AI raises $35M to expand its AI and machine learning security platform",
-      "excerpt": "Protect AI's security platform AI Radar provides AI professionals with real-time visibility for their ML environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform/",
-      "originalUrl": "https://venturebeat.com/ai/protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Security",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-microsoft-shares-down-as-azure-cloud-services-business-slows-down.md",
-      "title": "Microsoft shares down as Azure cloud-services business slows down",
-      "excerpt": "Microsoft Corp. posted tepid quarterly sales growth and forecast a continued slowdown in its Azure cloud-services business, overshadowing optimism about customer interest in new artificial intelligence-powered products. The shares dropped almost 4% in late trading.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/investing-abroad-microsoft-shares-down-as-azure-cloud-services-business-slows-down-3187540/",
-      "originalUrl": "https://www.financialexpress.com/business/investing-abroad-microsoft-shares-down-as-azure-cloud-services-business-slows-down-3187540/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/07/22.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/investing-abroad-microsoft-shares-down-as-azure-cloud-services-business-slows-down-3187540/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/investing-abroad-microsoft-shares-down-as-azure-cloud-services-business-slows-down-3187540/lite/",
-      "publishedDateTime": "2023-07-26T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-better-ai-stock-c3ai-vs-opera-limited.md",
-      "title": "Better AI Stock: C3.ai vs. Opera Limited",
-      "excerpt": "C3.ai claims it's an \"enterprise AI software\" company, but it was previously known as C3 Energy and C3 IoT ( Internet of Things ). It only renamed itself again as C3.ai in 2019 as the market became more interested in AI technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/26/better-ai-stock-c3ai-vs-opera-limited/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/26/better-ai-stock-c3ai-vs-opera-limited/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740857/androids-business-suits.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

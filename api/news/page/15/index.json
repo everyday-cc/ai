@@ -2,21 +2,21 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2023-10-18-us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.md",
-      "title": "US expands chip export curbs to China to throttle AI, supercomputer development",
-      "excerpt": "Chinese officials said that the new US chip restrictions contradict fair trade principles, while immediate response from vendors is muted.",
+      "path": "_news/2023-10-23-measuring-pr-and-media-relations-campaign-quality-what-vc-backed-startup-cmos-need-to-know.md",
+      "title": "Measuring PR And Media Relations Campaign Quality: What VC-Backed Startup CMOs Need To Know",
+      "excerpt": "By Beck Bamberger, founder of BAM by LLYC, a PR firm for VC-backed tech startups, as well as OnePitch, a pitch platform for journalists and publicists. All of my company's clients are techies, nerds and hard-core tinkers.",
       "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.html",
-      "originalUrl": "https://www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.html",
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/10/23/measuring-pr-and-media-relations-campaign-quality-what-vc-backed-startup-cmos-need-to-know/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/10/23/measuring-pr-and-media-relations-campaign-quality-what-vc-backed-startup-cmos-need-to-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://images.idgesg.net/images/article/2023/08/chip_trade-war_us_china-100944812-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6532ab20300ac53900926957/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1577,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.amp.html",
-      "publishedDateTime": "2023-10-18T07:08:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/10/23/measuring-pr-and-media-relations-campaign-quality-what-vc-backed-startup-cmos-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/10/23/measuring-pr-and-media-relations-campaign-quality-what-vc-backed-startup-cmos-need-to-know/amp/",
+      "publishedDateTime": "2023-10-23T04:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,31 +49,91 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-10-18-gwangju-institute-of-science-and-technology-scientists-develop-deep-learning-based-biosensing-platform-to-count-viral-particles-better.md",
-      "title": "Gwangju Institute of Science and Technology Scientists Develop Deep Learning-Based Biosensing Platform to Count Viral Particles Better",
-      "excerpt": "The team proposed a synergistic biosensing tool called \"DeepGT,\" which can harness the advantages of GTsensing platforms and merge them with deep learning-based algorithms to accurately quantify nanoscale bioparticles, including viruses, without the need for complex sample preparation methods.",
+      "path": "_news/2023-10-23-workshop-on-soft-law-governance-of-ai-applications-knocks-it-out-of-the-park-and-dazzles-with-keen-insights-on-ai-ethics-and-ai-legal-impacts.md",
+      "title": "Workshop On Soft Law Governance Of AI Applications Knocks It Out Of The Park And Dazzles With Keen Insights On AI Ethics And AI Legal Impacts",
+      "excerpt": "A workshop by the ASU Law School covered key insights about soft law governance of AI applications. Here's a guided tour of what was presented and what you need to know.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/18/9901013.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/18/9901013.htm",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/10/23/workshop-on-soft-law-governance-of-ai-applications-knocks-it-out-of-the-park-and-dazzles-with-keen-insights-on-ai-ethics-and-ai-legal-impacts/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/10/23/workshop-on-soft-law-governance-of-ai-applications-knocks-it-out-of-the-park-and-dazzles-with-keen-insights-on-ai-ethics-and-ai-legal-impacts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61e26084775e5f976df5226f/0x0.jpg?format=jpg&crop=935,623,x85,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/10/23/workshop-on-soft-law-governance-of-ai-applications-knocks-it-out-of-the-park-and-dazzles-with-keen-insights-on-ai-ethics-and-ai-legal-impacts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/23/workshop-on-soft-law-governance-of-ai-applications-knocks-it-out-of-the-park-and-dazzles-with-keen-insights-on-ai-ethics-and-ai-legal-impacts/amp/",
+      "publishedDateTime": "2023-10-23T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-adaptive-optical-neural-network-connects-thousands-of-artificial-neurons.md",
+      "title": "Adaptive optical neural network connects thousands of artificial neurons",
+      "excerpt": "What is needed for a neural network in machine learning are artificial neurons which are activated by external excitatory signals, and which have connections to other neurons. The connections between these artificial neurons are called synapses – just ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63910.php",
+      "originalUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63910.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.nanowerk.com/nanotechnology-news2/id63910_1.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T07:03:00-07:00",
+      "publishedDateTime": "2023-10-23T03:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -79,21 +148,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-18-ai-low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers.md",
-      "title": "AI & Low Code; Can The Two Work Harmoniously To Democratize Coding For Developers?",
-      "excerpt": "The synergy between AI and low code is transformative, democratizing coding and expanding the horizons of software development.",
+      "path": "_news/2023-10-23-apple-may-finally-beef-up-siri-with-ai-smarts-next-year.md",
+      "title": "Apple may finally beef up Siri with AI smarts next year",
+      "excerpt": "Apple’s generative AI might make its debut as soon as next year, a new report claims, bringing new features to a ton of popular Apple apps and services.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/",
+      "webUrl": "https://www.digitaltrends.com/computing/apple-generative-ai-siri-apps-services/",
+      "originalUrl": "https://www.digitaltrends.com/computing/apple-generative-ai-siri-apps-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652ee1ff08f740841b955421/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 388,
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2020/09/ios-14-siri-e1656353988198.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -101,9 +170,145 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/amp/",
-      "publishedDateTime": "2023-10-18T07:00:00-07:00",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/apple-generative-ai-siri-apps-services/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/apple-generative-ai-siri-apps-services/?amp",
+      "publishedDateTime": "2023-10-23T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-new-type-of-neural-network-reveals-how-language-influences-thought.md",
+      "title": "New Type of Neural Network Reveals How Language Influences Thought",
+      "excerpt": "However, classic artificial neural networks are not sufficient because the structure and function of these networks are often dissimilar to the anatomy and physiology of real brains. Therefore, Pulvermüller and his research team are developing a new type ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/tn/news/new-type-of-neural-network-reveals-how-language-influences-thought-380166",
+      "originalUrl": "https://www.technologynetworks.com/tn/news/new-type-of-neural-network-reveals-how-language-influences-thought-380166",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-23T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-what-ai-wont-replace-in-your-programming.md",
+      "title": "What AI won’t replace in your programming",
+      "excerpt": "Generative AI is great at handling tedium and finding errors, but the expertise and intuition of programmers will always be essential.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.html",
+      "originalUrl": "https://www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/06/18/worried-concerned-programmer-developer-coder-100946865-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.amp.html",
+      "publishedDateTime": "2023-10-23T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills.md",
+      "title": "Khan Academy: An AI Revolution In Education Or Threat To Human Skills?",
+      "excerpt": "Khan Academy has built a teaching assistant that uses a Socratic approach to engage with students. In its own words “Unlike traditional AI, which is often analytical, introverted, direct, and eager to please,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2023/10/23/khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills/",
+      "originalUrl": "https://www.forbes.com/sites/charlestowersclark/2023/10/23/khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6536297c3a7bd071b3ac26f5/0x0.jpg?format=jpg&crop=1021,680,x0,y140,safe&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2023/10/23/khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2023/10/23/khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills/amp/",
+      "publishedDateTime": "2023-10-23T01:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -126,23 +331,109 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-duo-builds-ai-startup-for-rs-15000-using-chatgpt-sell-it-for-rs-12-crore.md",
+      "title": "Duo Builds AI Startup For Rs 15,000 Using ChatGPT, Sell It For Rs 1.2 Crore",
+      "excerpt": "The startup was then bought for $150,000 (over ₹1.2 Crore ... covering areas like education, AI, and finance. She played a pivotal role as the first designer at ClassDojo, where she contributed to its significant growth from 5,000 to 50 million users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/dimeadozen-salvatore-aiello-and-monica-powers-builds-ai-startup-for-rs-15-000-using-chatgpt-sell-it-for-rs-1-2-crore-4506128",
+      "originalUrl": "https://www.ndtv.com/world-news/dimeadozen-salvatore-aiello-and-monica-powers-builds-ai-startup-for-rs-15-000-using-chatgpt-sell-it-for-rs-1-2-crore-4506128",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2023-10/ofuvd51_monica-powers-salvatore-aiello_625x300_23_October_23.jpg",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/dimeadozen-salvatore-aiello-and-monica-powers-builds-ai-startup-for-rs-15-000-using-chatgpt-sell-it-for-rs-1-2-crore-4506128/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/dimeadozen-salvatore-aiello-and-monica-powers-builds-ai-startup-for-rs-15-000-using-chatgpt-sell-it-for-rs-1-2-crore-4506128/amp/1",
+      "publishedDateTime": "2023-10-23T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
     {
-      "path": "_news/2023-10-18-fostering-stem-diversity-and-inclusion-through-robotics-and-turkey.md",
-      "title": "Fostering STEM Diversity And Inclusion Through Robotics And Turkey",
-      "excerpt": "A new international educational program engages children in robotics activities to encourage broader youth participation in STEM.",
+      "path": "_news/2023-10-23-new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development.md",
+      "title": "New US AI chip restrictions on China is creating massive issues for Baidu, Alibaba’s AI development",
+      "excerpt": "Several Chinese companies have been trying to create domestic alternatives for NVIDIA's AI chips. However, given the latest series of restrictions by the US on chips and chip making equipment, China's",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paologaudiano/2023/10/18/fostering-stem-diversity-and-inclusion-through-robotics-and-turkey/",
-      "originalUrl": "https://www.forbes.com/sites/paologaudiano/2023/10/18/fostering-stem-diversity-and-inclusion-through-robotics-and-turkey/",
+      "webUrl": "https://www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html",
+      "originalUrl": "https://www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 80,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652f3d11f7dff00d616267f5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "url": "https://images.firstpost.com/wp-content/uploads/2023/10/New-US-AI-chip-restrictions-on-China-is-creating-massive-issues-for-Baidu-Alibabas-AI-development.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html/amp",
+      "publishedDateTime": "2023-10-22T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-meet-the-defiant-ai-sex-robot-starring-in-a-new-action-thriller-comic.md",
+      "title": "Meet The Defiant AI Sex Robot Starring In A New Action Thriller Comic",
+      "excerpt": "In Red Light, a four-part series from AWA Studios, a self-aware android may end up outsmarting her human creators. Forbes talks with Sarah Cho, the comic's writer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lesliekatz/2023/10/22/meet-the-defiant-ai-sex-robot-starring-in-a-new-action-thriller-comic/",
+      "originalUrl": "https://www.forbes.com/sites/lesliekatz/2023/10/22/meet-the-defiant-ai-sex-robot-starring-in-a-new-action-thriller-comic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6535ac2c7208568eccd7fe21/0x0.jpg?format=jpg&crop=1500,844,x0,y368,safe&height=900&width=1600&fit=bounds",
           "width": 1600,
           "height": 900,
           "title": null,
@@ -152,9 +443,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paologaudiano/2023/10/18/fostering-stem-diversity-and-inclusion-through-robotics-and-turkey/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paologaudiano/2023/10/18/fostering-stem-diversity-and-inclusion-through-robotics-and-turkey/amp/",
-      "publishedDateTime": "2023-10-18T07:00:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/lesliekatz/2023/10/22/meet-the-defiant-ai-sex-robot-starring-in-a-new-action-thriller-comic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/10/22/meet-the-defiant-ai-sex-robot-starring-in-a-new-action-thriller-comic/amp/",
+      "publishedDateTime": "2023-10-22T17:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -177,26 +468,61 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2023-10-18-chatgpt-creator-partners-with-abu-dhabis-g42-in-middle-east-ai-push.md",
-      "title": "ChatGPT Creator Partners With Abu Dhabi’s G42 in Middle East AI Push",
-      "excerpt": "The partnership with G42, which is chaired by the UAE’s influential national security adviser Sheikh Tahnoon bin Zayed Al Nahyan, will focus on delivering OpenAI’s generative AI models across sectors spanning financial services to energy and healthcare.",
+      "path": "_news/2023-10-23-how-artificial-intelligence-will-transform-businesses.md",
+      "title": "How Artificial Intelligence Will Transform Businesses",
+      "excerpt": "You probably interact with artificial intelligence (AI ... For instance, for self-driving cars to work, several factors must be identified, analyzed and responded to simultaneously.",
       "sourceUrl": null,
-      "webUrl": "https://time.com/6325389/chatgpt-openai-g42/",
-      "originalUrl": "https://time.com/6325389/chatgpt-openai-g42/",
+      "webUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
+      "originalUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-dance-therapy-class-aims-to-help-children-with-disabilities-express-themselves.md",
+      "title": "Dance therapy class aims to help children with disabilities express themselves",
+      "excerpt": "Dance can help children with disabilities express themselves when words fail, according to Timmins autism specialist and dance teacher Jessica Croussette.",
+      "sourceUrl": null,
+      "webUrl": "https://northernontario.ctvnews.ca/dance-therapy-class-aims-to-help-children-with-disabilities-express-themselves-1.6612292",
+      "originalUrl": "https://northernontario.ctvnews.ca/dance-therapy-class-aims-to-help-children-with-disabilities-express-themselves-1.6612292",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://api.time.com/wp-content/uploads/2023/10/AP23157511535295.jpg?quality=85",
-          "width": 7082,
-          "height": 4722,
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/10/22/1_6612378.jpg",
+          "width": 1020,
+          "height": 596,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -204,16 +530,50 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T06:48:00-07:00",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2023/10/22/1_6612292.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2023/10/22/1_6612292.amp.html",
+      "publishedDateTime": "2023-10-22T15:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Time",
-        "domain": "time.com",
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-ensuring-fairness-of-ai-in-healthcare-requires-cross-disciplinary-collaboration.md",
+      "title": "Ensuring fairness of AI in healthcare requires cross-disciplinary collaboration",
+      "excerpt": "New perspective argues pursuing fair AI for healthcare requires cross-disciplinary collaboration to translate methods into real-world benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/10/231020105613.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/10/231020105613.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-22T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -229,25 +589,27 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
-      "path": "_news/2023-10-18-ey-and-ibm-team-up-on-ai-to-automate-hr-processes.md",
-      "title": "EY and IBM team up on AI to automate HR processes",
-      "excerpt": "EY plans to tap IBM's Watsonx Orchestrate to automate HR processes like drafting job descriptons and analyzing employee feedback surveys.",
+      "path": "_news/2023-10-23-snoop-dogg-sentient-ai-and-the-arrival-mind-paradox.md",
+      "title": "Snoop Dogg, sentient AI and the ‘Arrival Mind Paradox’",
+      "excerpt": "Personified AI agents seem fun and helpful, but their widespread deployment is a real threat and we are unprepared.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ey-and-ibm-team-up-on-ai-to-automate-hr-processes/",
-      "originalUrl": "https://venturebeat.com/ai/ey-and-ibm-team-up-on-ai-to-automate-hr-processes/",
+      "webUrl": "https://venturebeat.com/ai/snoop-dogg-sentient-ai-and-the-arrival-mind-paradox/",
+      "originalUrl": "https://venturebeat.com/ai/snoop-dogg-sentient-ai-and-the-arrival-mind-paradox/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/hiring-e1631919874329.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/Arrival_Mind_Paradox9_Paris-transformed.png?fit=750%2C420&#038;strip=all",
+          "width": 749,
+          "height": 420,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -257,7 +619,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T06:43:00-07:00",
+      "publishedDateTime": "2023-10-22T13:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -280,377 +642,26 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses.md",
-      "title": "AI chatbots can infer an alarming amount of info about you from your responses",
-      "excerpt": "The way you talk can reveal a lot about you—especially if you're talking to a chatbot. New research reveals that chatbots like ChatGPT can infer a lot of sensitive information about the people they chat with, even if the conversation is utterly mundane.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/",
-      "originalUrl": "https://arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai-eyes-800x560.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/amp/",
-      "publishedDateTime": "2023-10-18T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-how-to-build-a-secure-foundation-for-american-leadership-in-ai.md",
-      "title": "How to build a secure foundation for American leadership in AI",
-      "excerpt": "Google shares the report: Building a Secure Foundation for American Leadership in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/how-to-build-a-secure-foundation-for-american-leadership-in-ai/",
-      "originalUrl": "https://blog.google/technology/ai/how-to-build-a-secure-foundation-for-american-leadership-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "Facebook AI",
         "AI",
-        "Google AI"
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2023-10-18-opinion-ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us.md",
-      "title": "Opinion: AI needs a strong code of ethics to keep its dark side from overtaking us",
-      "excerpt": "We have done our best to build on the work already being done in industry and add to it what we know about ethics. We believe we can build a more just and caring world. A more ethically responsible tech industry and AI products and services are possible.",
+      "path": "_news/2023-10-23-diving-deeper-with-kajiai-a-mental-health-and-wellness-app.md",
+      "title": "Diving Deeper With KAJI.ai, A Mental Health And Wellness App",
+      "excerpt": "This article explores KAJI.ai, a health and wellness app that uses generative AI and supports B2C & B2Bcustomers.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
-      "originalUrl": "https://www.marketwatch.com/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-with-kajiai-a-mental-health-and-wellness-app/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-with-kajiai-a-mental-health-and-wellness-app/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://images.mktw.net/im-843717/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
-      "publishedDateTime": "2023-10-18T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-how-to-add-ai-vision-to-your-apps-saas-sites-and-projects.md",
-      "title": "How to add AI vision to your apps, SaaS, sites and projects",
-      "excerpt": "AI vision, or computer vision, refers to the field of artificial intelligence that enables machines to interpret and make decisions based on visual data. The technology often uses machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/ai-vision/",
-      "originalUrl": "https://www.geeky-gadgets.com/ai-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/add-AI-vision-to-your-apps-programs-projects-and-sites.jpg",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-deepmind-wants-to-use-ai-to-solve-the-climate-crisis.md",
-      "title": "DeepMind Wants to Use AI to Solve the Climate Crisis",
-      "excerpt": "DeepMind, the Google-owned artificial intelligence lab, has been using its AI expertise to tackle the climate change problem in three different ways, as Sims Witherspoon, DeepMind’s climate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/wired-impact-deepmind-ai-climate-change",
-      "originalUrl": "https://www.wired.co.uk/article/wired-impact-deepmind-ai-climate-change",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/652eadf475839a12b76f0625/16:9/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us.md",
-      "title": "AI needs a strong code of ethics to keep its dark side from overtaking us",
-      "excerpt": "A more ethically responsible tech industry and AI products and services are possible. With the stakes so high, it has to be worth it. Ann Skeet and Brian Green are authors of \"Ethics in the Age of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/marketwatch/20231018211/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us",
-      "originalUrl": "https://www.morningstar.com/news/marketwatch/20231018211/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-look-farm-robots-plant-tree-saplings-at-gitex-global-dubai.md",
-      "title": "Look: Farm robots plant tree saplings at Gitex Global Dubai",
-      "excerpt": "The Farm Bot displayed by TDRA at Gitex has two robotic arms: one selects the tree sapling and the other holds the pot where it is planted. There are cameras that monitor precision planting of the sapling. The potted tree sapling is then distributed to visitors at the TDRA stand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai",
-      "originalUrl": "https://www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=48a07cc6-5d6b-5747-bc4c-435fdb598c42&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.71656&width=1200&height=675&x=1.0E-5&y=0.08439.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai?amp=1",
-      "publishedDateTime": "2023-10-18T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-amazons-ai-and-robotics-progress-accelerates-warehouse-efficiency-and-safety.md",
-      "title": "Amazon's AI And Robotics Progress Accelerates Warehouse Efficiency and Safety",
-      "excerpt": "The overhaul involves the introduction of AI-powered sortation machines and robotic arms, transforming the dynamics of product movement within Amazon’s fulfillment centers. This innovation will help to augment the productivity and safety of human workers, the Wall Street Journal reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/10/35304469/amazons-ai-and-robotics-progress-accelerates-warehouse-efficiency-and-safety",
-      "originalUrl": "https://www.benzinga.com/news/23/10/35304469/amazons-ai-and-robotics-progress-accelerates-warehouse-efficiency-and-safety",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/10/18/amazon_warehouse_in_maryland_36906693900.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35304469",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35304469",
-      "publishedDateTime": "2023-10-18T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-ai-driven-anomaly-detection-on-social-media-5-things-to-consider.md",
-      "title": "AI-Driven Anomaly Detection On Social Media: 5 Things To Consider",
-      "excerpt": "In order to truly unlock the potential of boosting cybersecurity with anomaly detection, it’s important to put AI and ML algorithms at the heart of the system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/ai-driven-anomaly-detection-on-social-media-5-things-to-consider/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/ai-driven-anomaly-detection-on-social-media-5-things-to-consider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6426d9b7a6e4117a2deb47c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1416,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/653570b28d9f73ba65d59235/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
           "height": 900,
           "title": null,
           "attribution": null,
@@ -659,9 +670,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/ai-driven-anomaly-detection-on-social-media-5-things-to-consider/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/ai-driven-anomaly-detection-on-social-media-5-things-to-consider/amp/",
-      "publishedDateTime": "2023-10-18T04:16:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-with-kajiai-a-mental-health-and-wellness-app/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-with-kajiai-a-mental-health-and-wellness-app/amp/",
+      "publishedDateTime": "2023-10-22T12:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -688,21 +699,54 @@
       ]
     },
     {
-      "path": "_news/2023-10-18-transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing.md",
-      "title": "Transforming The B2B Customer Experience: AI's Role In Streamlining Document Processing",
-      "excerpt": "In today's data-driven world, AI-driven intelligent document processing (IDP) is improving B2B customer experiences across sectors.",
+      "path": "_news/2023-10-22-2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run.md",
+      "title": "2 Top Artificial Intelligence (AI) Stocks Ready for A Bull Run",
+      "excerpt": "Many artificial intelligence (AI) stocks are soaring this year. The introduction of powerful and user-friendly chatbots such as Google Bard and OpenAI's ChatGPT took the world by storm, and now everybody wants a finger in that tasty pie.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/",
+      "webUrl": "https://www.nasdaq.com/articles/2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run",
+      "originalUrl": "https://www.nasdaq.com/articles/2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-22T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-22-apple-insiders-expose-iphone-16-pros-chaotic-ai-plans.md",
+      "title": "Apple Insiders Expose iPhone 16 Pro’s Chaotic AI Plans",
+      "excerpt": "The details come from noted supply chain analyst Jeff Pu, who reports that Apple is looking to build a significant number of AI servers in 2023 before scaling up to “significantly more” during 2024. These will offer two broad forms of AI support: cloud-based AI and “edge AI” which supports on-device AI data processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/",
+      "originalUrl": "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6048e165345b4ab79c3f331a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1140,
-          "height": 760,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6533d758c1840d79ef74453f/0x0.jpg?format=jpg&crop=2147,1209,x239,y41,safe&height=900&width=1600&fit=bounds",
+          "width": 1598,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -710,9 +754,356 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/amp/",
-      "publishedDateTime": "2023-10-18T03:30:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
+      "publishedDateTime": "2023-10-22T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-22-recruitment-by-robot-how-ai-is-changing-the-way-australians-get-jobs.md",
+      "title": "Recruitment by robot: how AI is changing the way Australians get jobs",
+      "excerpt": "Artificial intelligence is increasingly being used by employers to help decide who to hire. What does it mean for candidates – and their future bosses?",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/oct/23/ai-recruitment-job-search-artificial-intelligence-employment",
+      "originalUrl": "https://www.theguardian.com/technology/2023/oct/23/ai-recruitment-job-search-artificial-intelligence-employment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c2d5317d9c0d51e4c97b627af427b393b89a0de7/0_179_8289_4973/master/8289.jpg?width=620&quality=85&auto=format&fit=max&s=858e6e6b1827b94addd2cd140fef16a0",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/23/ai-recruitment-job-search-artificial-intelligence-employment",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/23/ai-recruitment-job-search-artificial-intelligence-employment",
+      "publishedDateTime": "2023-10-22T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-22-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap.md",
+      "title": "The convergence of finance and healthcare: How fintech is bridging the gap",
+      "excerpt": "By harnessing the power of AI and ML algorithms, and using relevant healthcare and financial data, healthcare-focused fintech can help streamline financial services in the healthcare industry. Technological advancements have successfully paved their way ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/",
+      "originalUrl": "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-06T160116.656.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/",
+      "publishedDateTime": "2023-10-22T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-10-22-ai-to-be-used-by-businesses-to-tackle-mental-health-issues-in-albury.md",
+      "title": "AI to be used by businesses to tackle mental health issues in Albury",
+      "excerpt": "Strong demand from Albury employees seeking help with mental health issues has spurred a move to launch an artificial intelligence therapy program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bordermail.com.au/story/8395048/albury-businesses-turn-to-ai-to-tackle-mental-health-issues/",
+      "originalUrl": "https://www.bordermail.com.au/story/8395048/albury-businesses-turn-to-ai-to-tackle-mental-health-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bordermail.com.au/images/transform/v1/crop/frm/170490233/a8baef5c-d674-477b-add4-ff6a21b208e6.jpg/r0_375_5287_3151_w1200_h630_fmax.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Border Mail",
+        "domain": "bordermail.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-22-viral-photos-of-hamas-leaders-allegedly-ai-fakes-are-actually-just-poorly-upscaled-images.md",
+      "title": "Viral Photos Of Hamas Leaders Allegedly AI Fakes Are Actually Just Poorly Upscaled Images",
+      "excerpt": "Photos of Hamas leadership enjoying \"luxurious lifestyles\" went viral on Friday, but many internet users noticed something weird about the images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/10/21/viral-photos-of-hamas-leaders-accused-of-being-ai-fakes-actually-just-poorly-upscaled/",
+      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/10/21/viral-photos-of-hamas-leaders-accused-of-being-ai-fakes-actually-just-poorly-upscaled/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/653417b26972f9878f6ebe5f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/10/21/viral-photos-of-hamas-leaders-accused-of-being-ai-fakes-actually-just-poorly-upscaled/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/10/21/viral-photos-of-hamas-leaders-accused-of-being-ai-fakes-actually-just-poorly-upscaled/amp/",
+      "publishedDateTime": "2023-10-21T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-22-ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us.md",
+      "title": "AI needs a strong code of ethics to keep its dark side from overtaking us",
+      "excerpt": "Some AI creators, having launched their new AI-powered products, are calling for regulation and legislation to curb its use. Suggestions include a six-month moratorium on the training of AI systems more powerful than OpenAI’s GPT-4, a call that includes several alarming questions:",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/WP-MKTW-0002580128?mod=article_recs_pos1_sb_hp&next_redirect=true",
+      "originalUrl": "https://www.wsj.com/articles/WP-MKTW-0002580128?mod=article_recs_pos1_sb_hp&next_redirect=true",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-843717/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-21T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-21-this-week-in-ai-can-we-trust-deepmind-to-be-ethical.md",
+      "title": "This week in AI: Can we trust DeepMind to be ethical?",
+      "excerpt": "This week in AI, DeepMind, the Google-owned AI R&D lab, released a paper proposing a framework for evaluating the societal and ethical risks of AI systems. The timing of the paper — which calls for varying levels of involvement from AI developers ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/",
+      "originalUrl": "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/amp/",
+      "publishedDateTime": "2023-10-21T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-21-apple-insiders-expose-more-iphone-ai-details.md",
+      "title": "Apple Insiders Expose More iPhone AI Details",
+      "excerpt": "The details come from noted supply chain analyst Jeff Pu, who reports that Apple is looking to build a significant number of AI servers in 2023 before scaling up to “significantly more” during 2024. These will offer two broad forms of AI support: cloud-based AI and “edge AI” which supports on-device AI data processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/",
+      "originalUrl": "https://www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6533d758c1840d79ef74453f/0x0.jpg?format=jpg&crop=2147,1209,x239,y41,safe&height=900&width=1600&fit=bounds",
+          "width": 1598,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
+      "publishedDateTime": "2023-10-21T06:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -740,107 +1131,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-18-us-to-curb-exports-of-more-ai-chips-to-china.md",
-      "title": "U.S. to curb exports of more AI chips to China",
-      "excerpt": "The U.S. Department of Commerce announced Tuesday that it plans to prevent the sale of more advanced artificial intelligence chips to China in the coming weeks.",
+      "path": "_news/2023-10-21-inside-the-ai-powered-race-to-decode-ancient-roman-scrolls.md",
+      "title": "Inside the AI-Powered Race to Decode Ancient Roman Scrolls",
+      "excerpt": "A college student seeking a $1 million prize used AI to decode part of a 2,000-year-old scroll buried by the eruption of Mount Vesuvius.",
       "sourceUrl": null,
-      "webUrl": "https://www.aol.com/u-curb-exports-more-ai-063856265.html",
-      "originalUrl": "https://www.aol.com/u-curb-exports-more-ai-063856265.html",
+      "webUrl": "https://time.com/6326563/vesuvius-challenge-herculaneum-papyri-ai/",
+      "originalUrl": "https://time.com/6326563/vesuvius-challenge-herculaneum-papyri-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://s.yimg.com/ny/api/res/1.2/fl94zZXVqZWToLq03Dw91w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/113d16a12ad85d6b12bf8075097f1616",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/u-curb-exports-more-ai-063856265.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/u-curb-exports-more-ai-063856265.html",
-      "publishedDateTime": "2023-10-18T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-computer-vision-is-an-exciting-field-in-ai-now.md",
-      "title": "Computer vision is an exciting field in AI now",
-      "excerpt": "As much as the combination of language and AI has captured the world’s imagination with the rise of generative AI, computer vision – which is the ability of a machine to comprehend what it is ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/computer-vision-is-an-exciting-field-in-ai-now/articleshow/104513432.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/computer-vision-is-an-exciting-field-in-ai-now/articleshow/104513432.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-104513447,width-1070,height-580,imgsize-161410,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/business/india-business/computer-vision-is-an-exciting-field-in-ai-now/amp_articleshow/104513432.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/computer-vision-is-an-exciting-field-in-ai-now/amp_articleshow/104513432.cms",
-      "publishedDateTime": "2023-10-18T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-3-reasons-to-attend-prestocon-2023-embracing-open-source-and-next-gen-presto.md",
-      "title": "3 Reasons to attend PrestoCon 2023: Embracing Open Source and Next-Gen Presto",
-      "excerpt": "Join PrestoCon 2023 to support and learn more about Presto, the open-source SQL query engine for data analytics and the Open Data Lakehouse.\nThe post 3 Reasons to attend PrestoCon 2023: Embracing Open Source and Next-Gen Presto appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/3-reasons-to-attend-prestocon-2023-embracing-open-source-and-next-gen-presto/",
-      "originalUrl": "https://www.ibm.com/blog/3-reasons-to-attend-prestocon-2023-embracing-open-source-and-next-gen-presto/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/10/3-Reasons-to-attend-PrestoCon-2023-Embracing-Open-Source-and-Next-Gen-Presto.jpg",
-          "width": 2400,
-          "height": 1260,
+          "url": "https://api.time.com/wp-content/uploads/2023/10/GettyImages-1152278704.jpg?quality=85",
+          "width": 4928,
+          "height": 3280,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -850,14 +1155,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T02:00:00-07:00",
+      "publishedDateTime": "2023-10-21T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
+        "name": "Time",
+        "domain": "time.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -873,276 +1178,6 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-watsonx-orders-helps-restaurant-operators-maximize-revenue-with-ai-powered-order-taker-for-drive-thrus.md",
-      "title": "Watsonx Orders helps restaurant operators maximize revenue with AI-powered order taker for drive-thrus",
-      "excerpt": "IBM designed watsonx Orders to be considered a valuable crew member: accurate, polite, speedy and reliable 24/7.\nThe post Watsonx Orders helps restaurant operators maximize revenue with AI-powered order taker for drive-thrus appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/watsonx-orders-helps-restaurant-operators-maximize-revenue-with-ai-powered-order-taker-for-drive-thrus/",
-      "originalUrl": "https://www.ibm.com/blog/watsonx-orders-helps-restaurant-operators-maximize-revenue-with-ai-powered-order-taker-for-drive-thrus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities.md",
-      "title": "Mozn And UAE-Based Astra Tech Partner To Fortify Fintech Security Via AI-Capabilities",
-      "excerpt": "AI powerhouse Mozn, a leader in enterprise AI technologies, has inked a partnership with Astra Tech, a UAE-based tech company. This alliance aims to",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107268950/Mozn-And-UAE-Based-Astra-Tech-Partner-To-Fortify-Fintech-Security-Via-AI-Capabilities",
-      "originalUrl": "https://menafn.com/1107268950/Mozn-And-UAE-Based-Astra-Tech-Partner-To-Fortify-Fintech-Security-Via-AI-Capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-ethical-framework-crucial-to-cope-with-fast-growth-of-ai-finance-minister.md",
-      "title": "Ethical framework crucial to cope with fast growth of AI: finance minister",
-      "excerpt": "An ethical framework on the use of technologies must be newly defined side by side with fast-growing artificial intelligence (AI) that is reshaping the era of digital transformation, Deputy Prime Minister and Minister of Economy and Finance Choo Kyung-ho said,",
-      "sourceUrl": null,
-      "webUrl": "https://koreatimes.co.kr/www/biz/2023/10/126_361323.html",
-      "originalUrl": "https://koreatimes.co.kr/www/biz/2023/10/126_361323.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/thumbnailV2/7185c9495cfc4f99866cde390b0aa1b5.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361323",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361323",
-      "publishedDateTime": "2023-10-18T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion.md",
-      "title": "How lenders use AI and machine learning to boost financial inclusion",
-      "excerpt": "Two billion people around the world remain unbanked or underbanked, but a technological revolution is changing the lives of such individuals, who previously had no hope of ascending the economic ladde",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html",
-      "originalUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/repayment_1680025454634_1697610800944.jpg",
-          "width": 1598,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
-      "publishedDateTime": "2023-10-17T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-us-further-restricts-china-from-ai-chips-to-hinder-military-development.md",
-      "title": "US further restricts China from AI chips to hinder military development",
-      "excerpt": "The measures aim to hamper China’s military development by closing loopholes in regulations released last October and will probably be updated “at least annually,” according to Commerce Department Secretary Gina Raimondo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran",
-      "originalUrl": "https://www.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/17/81863397-08d8-4eae-a222-2691db10781d_56af46d8.jpg?itok=GiKh8r5w&v=1697552319",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran",
-      "publishedDateTime": "2023-10-17T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-us-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-nvidia-and-intel.md",
-      "title": "U.S. Tightens Curbs on AI Chip Exports to China, Widening Rift With Nvidia and Intel",
-      "excerpt": "The new rules, which significantly constrict sales of advanced semiconductors to the Chinese market, came despite intense lobbying by chip companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/tech/u-s-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-u-s-businesses-3b9983df",
-      "originalUrl": "https://www.wsj.com/tech/u-s-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-u-s-businesses-3b9983df",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-869788/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T22:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,21 +2,21 @@
   "page": 48,
   "value": [
     {
-      "path": "_news/2023-09-26-indxx-licenses-robotics-and-ai-themed-investment-vehicle-for-korean-etf.md",
-      "title": "Indxx Licenses Robotics And AI Themed Investment Vehicle For Korean ETF",
-      "excerpt": "Indxx has gained the licensing of its Indxx Global Robotics & Artificial Intelligence Thematic Index Methodology to Mirae Asset Global Investments as the underlying benchmark for the TIGER Global ...",
+      "path": "_news/2023-09-29-lockport-to-abide-state-ban-on-facial-recognition-in-schools.md",
+      "title": "Lockport to Abide State Ban on Facial Recognition in Schools",
+      "excerpt": "Three years after Lockport City School District purchased a facial- and object-recognition system from Aegis, state legislation has put a moratorium on the technology, and the district is complying.",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107136697/Indxx-Licenses-Robotics-And-AI-Themed-Investment-Vehicle-For-Korean-ETF",
-      "originalUrl": "https://menafn.com/1107136697/Indxx-Licenses-Robotics-And-AI-Themed-Investment-Vehicle-For-Korean-ETF",
+      "webUrl": "https://www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools",
+      "originalUrl": "https://www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/updates/pr/2023-09/25/R&AN_d0f49image_story.jpeg",
-          "width": 800,
-          "height": 450,
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/44c05f0/2147483647/strip/true/crop/940x490+0+69/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F27%2Fed%2F70a09ee0de701b81d2be08132247%2Fshutterstock-facial-recognition.jpg",
+          "width": 840,
+          "height": 438,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T12:27:00-07:00",
+      "ampWebUrl": "https://www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools?_amp=true",
+      "publishedDateTime": "2023-09-28T10:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
+        "name": "Government Technology",
+        "domain": "govtech.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,26 +40,137 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-26-chatgpt-has-gone-full-virtual-assistant-with-voice-and-image-recognition.md",
-      "title": "ChatGPT has gone full virtual assistant with voice and image recognition",
-      "excerpt": "ChatGPT is uprooting that with a new update that brings an audible voice to the advanced language model. With that, it can read aloud its responses in a wildly natural voice that rivals every other virtual assistant currently available. On your end, you can use your human voice to ask questions and make conversation like you did before with text.",
+      "path": "_news/2023-09-28-eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure.md",
+      "title": "Eastwall and AOG Partner to Accelerate Clinical AI Strategies through Microsoft Azure",
+      "excerpt": "This collaboration between Eastwall and Asher Orion Group brings clinical and technical healthcare design together, offering solutions where AI is seamlessly integrated into the clinical environment, all supported by the robustness and scalability of Microsoft Azure.",
       "sourceUrl": null,
-      "webUrl": "https://9to5google.com/2023/09/25/chatgpt-has-gone-full-virtual-assistant-with-voice-and-image-recognition/",
-      "originalUrl": "https://9to5google.com/2023/09/25/chatgpt-has-gone-full-virtual-assistant-with-voice-and-image-recognition/",
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/09/28/9889696.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/09/28/9889696.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-oil-and-gas-cos-increasing-machine-learning-and-ai-adoption.md",
+      "title": "Oil and Gas Cos Increasing Machine Learning and AI Adoption",
+      "excerpt": "Organizations across the oil and gas industry are increasing their adoption of machine learning and artificial intelligence, according to AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rigzone.com/news/oil_and_gas_cos_increasing_machine_learning_and_ai_adoption-28-sep-2023-174165-article/",
+      "originalUrl": "https://www.rigzone.com/news/oil_and_gas_cos_increasing_machine_learning_and_ai_adoption-28-sep-2023-174165-article/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rigzone",
+        "domain": "rigzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-supermicro-at-30-from-designing-ai-chips-to-selling-ai-systems.md",
+      "title": "Supermicro At 30: From Designing AI Chips To Selling AI Systems",
+      "excerpt": "There is something about late September. Nvidia was founded 30 years ago on Tuesday this week, Google was founded 25 years ago on Wednesday, and Supermicro was founded 30 years ago today. Three decades ago,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/09/28/supermicro-at-30-from-designing-ai-chips-to-selling-ai-systems/",
+      "originalUrl": "https://www.nextplatform.com/2023/09/28/supermicro-at-30-from-designing-ai-chips-to-selling-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/08/supermicro-server-rack-logo.jpg",
+          "width": 1457,
+          "height": 893,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/09/28/supermicro-at-30-from-designing-ai-chips-to-selling-ai-systems/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/09/28/supermicro-at-30-from-designing-ai-chips-to-selling-ai-systems/amp/",
+      "publishedDateTime": "2023-09-28T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-alibaba-cloud-launches-sustainability-web-application-and-virtual-sign-language-interpreter-for-the-hangzhou-asian-games.md",
+      "title": "Alibaba Cloud Launches Sustainability Web Application And Virtual Sign Language Interpreter For The Hangzhou Asian Games",
+      "excerpt": "HANGZHOU, CHINA - Media OutReach - 28 September 2023 - In an effort to promote the sustainability and inclusiveness of the Asian Games and the Asian",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107157254/Alibaba-Cloud-Launches-Sustainability-Web-Application-And-Virtual-Sign-Language-Interpreter-For-The-Hangzhou-Asian-Games",
+      "originalUrl": "https://menafn.com/1107157254/Alibaba-Cloud-Launches-Sustainability-Web-Application-And-Virtual-Sign-Language-Interpreter-For-The-Hangzhou-Asian-Games",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/chatgpt-logo-circle-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
+          "url": "https://menafn.com/updates/pr/2023-09/28/MON_5ffc4image_story.png",
+          "width": 800,
+          "height": 418,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -69,11 +180,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T12:16:00-07:00",
+      "publishedDateTime": "2023-09-28T06:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "9to5google",
-        "domain": "9to5google.com",
+        "name": "Mena FN",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -88,21 +199,21 @@
       ]
     },
     {
-      "path": "_news/2023-09-26-can-a-simple-eye-exam-help-diagnose-autism.md",
-      "title": "Can a simple eye exam help diagnose autism?",
-      "excerpt": "Females are often underdiagnosed with being on the autism spectrum because they often mask their symptoms more successfully than males. The key to understanding why may be in a simple eye exam.",
+      "path": "_news/2023-09-28-facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs.md",
+      "title": "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs",
+      "excerpt": "20, 2023, in Atlanta. Reid says the use of facial recognition technology by a sheriff’s detective in Louisiana led to his arrest for crimes he did not commit. (AP Photo/John Bazemore ...",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-09-simple-eye-exam-autism.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-09-simple-eye-exam-autism.html",
+      "webUrl": "https://thegrio.com/2023/09/26/facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs/",
+      "originalUrl": "https://thegrio.com/2023/09/26/facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/can-a-simple-eye-exam.jpg",
-          "width": 1524,
-          "height": 1966,
+          "url": "https://thegrio.com/wp-content/uploads/2023/09/AP23263542093669.jpg?w=788&h=0&crop=1",
+          "width": 788,
+          "height": 525,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -110,13 +221,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-09-simple-eye-exam-autism.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-09-simple-eye-exam-autism.amp",
-      "publishedDateTime": "2023-09-25T11:50:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T06:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "The Grio",
+        "domain": "thegrio.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -131,89 +242,21 @@
       ]
     },
     {
-      "path": "_news/2023-09-26-2023-artificial-intelligence-robotics-market-size-new-report-exclusive-data-report-forecast-2031.md",
-      "title": "2023 | Artificial Intelligence Robotics Market Size, (New Report) Exclusive Data Report Forecast 2031",
-      "excerpt": "\"Artificial Intelligence Robotics Market| Outlook 2023-2031 | Pre and Post-COVID Research is Covered, Report Information | Newest 113 Pages Report The extent and overview of the various commercial ...",
+      "path": "_news/2023-09-28-my-chilling-run-in-with-a-secretive-facial-recognition-app.md",
+      "title": "My chilling run-in with a secretive facial-recognition app",
+      "excerpt": "Clearview claimed to be different from other automated facial-recognition systems, touting a ‘98.6 per cent accuracy rate’ and an enormous collection of photos unlike anything the police had ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34873204/2023-artificial-intelligence-robotics-market-size-new-report-exclusive-data-report-forecast-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34873204/2023-artificial-intelligence-robotics-market-size-new-report-exclusive-data-report-forecast-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34873204",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34873204",
-      "publishedDateTime": "2023-09-25T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-ai-in-computer-vision-market-size-new-report-forecast-report-2023-2031.md",
-      "title": "AI in Computer Vision Market Size (New Report) Forecast Report 2023-2031",
-      "excerpt": "Short Summery About AI in Computer Vision Market: The AI in Computer Vision market has witnessed a growth from USD million to USD million from 2017 to 2023. With a CAGR of Persent, this market is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34873480/ai-in-computer-vision-market-size-new-report-forecast-report-2023-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34873480/ai-in-computer-vision-market-size-new-report-forecast-report-2023-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34873480",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34873480",
-      "publishedDateTime": "2023-09-25T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-facial-recognition-tech-jailed-man-for-days-his-suit-joins-others-black-plaintiffs.md",
-      "title": "Facial recognition tech jailed man for days. His suit joins others Black plaintiffs",
-      "excerpt": "A Georgia man says authorities wrongly arrested him based on a match generated by facial recognition technology ATLANTA -- Randal Quran Reid was driving to his mother's home the day after ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456045",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456045",
+      "webUrl": "https://www.telegraph.co.uk/books/non-fiction/clearview-ai-facial-recognition-app-chilling/?utmsource=email",
+      "originalUrl": "https://www.telegraph.co.uk/books/non-fiction/clearview-ai-facial-recognition-app-chilling/?utmsource=email",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/US/wirestory_b613161c56472459df683f54320d08a7_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://www.telegraph.co.uk/content/dam/books/2023/09/25/TELEMMGLPICT000350779856_16956474718260_trans_NvBQzQNjv4BqeqwG1mMdY8c_ukC_8VAhqmo9fJk1VK1SIba-RpWNnOU.jpeg?impolicy=logo-overlay",
+          "width": 1024,
+          "height": 536,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -221,13 +264,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456045",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456045",
-      "publishedDateTime": "2023-09-25T11:29:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T05:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -242,12 +285,97 @@
       ]
     },
     {
-      "path": "_news/2023-09-26-artificial-intelligence-for-healthcare-applications-market-recent-trends-global-forecast-from-2024-to-2031.md",
-      "title": "Artificial Intelligence for Healthcare Applications Market Recent Trends | Global Forecast From 2024 To 2031",
-      "excerpt": "Global 116 Pages Updated Report of \"Artificial Intelligence for Healthcare Applications Market\" report also encompasses investment analysis and trend analysis of |Information Technology| category ...",
+      "path": "_news/2023-09-28-ai-startup-alphasense-valued-at-25-billion-after-latest-funding-round.md",
+      "title": "AI Startup AlphaSense Valued at $2.5 Billion After Latest Funding Round",
+      "excerpt": "AI Startup AlphaSense Valued at $2.5 Billion After Latest Funding Round By Jaiveer Shekhawat (Reuters) -Market intelligence platform AlphaSense has raised $150 million in a fresh round of funding ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34870275/artificial-intelligence-for-healthcare-applications-market-recent-trends-global-forecast-from-2024-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34870275/artificial-intelligence-for-healthcare-applications-market-recent-trends-global-forecast-from-2024-",
+      "webUrl": "https://www.usnews.com/news/technology/articles/2023-09-28/ai-startup-alphasense-valued-at-2-5-billion-after-latest-funding-round",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-09-28/ai-startup-alphasense-valued-at-2-5-billion-after-latest-funding-round",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-duality-technologies-joins-aws-partner-network-and-launches-solution-for-secure-data-collaboration-in-aws-marketplace.md",
+      "title": "Duality Technologies Joins AWS Partner Network and Launches Solution for Secure Data Collaboration in AWS Marketplace",
+      "excerpt": "Duality Technologies, the leader in secure data collaboration for enterprises and government agencies, today announced it has joined the Amazon Web Services (AWS) Partner Network (APN) and launched its secure data collaboration platform in AWS Marketplace,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-duality-technologies-joins-aws-partner-network-launches-solution-/2023/09/28/9889217.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-duality-technologies-joins-aws-partner-network-launches-solution-/2023/09/28/9889217.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2223693/Secure_AI_and_ML_Model_Development_for_Modern_Data_Strategies.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models.md",
+      "title": "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models",
+      "excerpt": "28, 2023 /CNW/ -- Today, IBM IBM announced the general availability of the first models in the watsonx Granite model series — a collection of generative AI models to advance the infusion of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34968073/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-mode",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34968073/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-mode",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -264,9 +392,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34870275",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34870275",
-      "publishedDateTime": "2023-09-25T10:59:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T04:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -280,60 +408,26 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "IBM AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-26-china-set-to-become-worldwide-leader-in-automated-driving-market-volume-by-2035.md",
-      "title": "China set to become worldwide leader in automated driving market volume by 2035",
-      "excerpt": "Amid a more tepid global outlook for autonomy, Chinese companies are emerging with the necessary formula to lead the world in market volume, according to S&P Global Mobility.",
+      "path": "_news/2023-09-28-biden-teases-forthcoming-executive-order-on-ai.md",
+      "title": "Biden teases forthcoming executive order on AI",
+      "excerpt": "The White House plans to introduce a highly anticipated executive order in the coming weeks dealing with artificial intelligence, President Joe Biden said Wednesday. “This fall, I’m going to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report/china-leads-markets-robotaxis-and-assisted-driving-systems",
-      "originalUrl": "https://www.autonews.com/mobility-report/china-leads-markets-robotaxis-and-assisted-driving-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs.md",
-      "title": "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs",
-      "excerpt": "A Georgia man says authorities wrongly arrested him based on a match generated by facial recognition technology ATLANTA -- Randal Quran Reid was driving to his mother's home the day after ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456041",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456041",
+      "webUrl": "https://www.cnn.com/2023/09/27/tech/joe-biden-executive-order-artificial-intelligence/index.html",
+      "originalUrl": "https://www.cnn.com/2023/09/27/tech/joe-biden-executive-order-artificial-intelligence/index.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/US/wirestory_b613161c56472459df683f54320d08a7_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230927191755-joe-biden-file-092723.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -341,59 +435,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456041",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456041",
-      "publishedDateTime": "2023-09-25T10:12:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/09/27/tech/joe-biden-executive-order-artificial-intelligence/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/09/27/tech/joe-biden-executive-order-artificial-intelligence/index.html",
+      "publishedDateTime": "2023-09-28T03:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-chatgpt-is-growing-eyes-and-ears-to-better-respond-to-your-human-whims.md",
-      "title": "ChatGPT Is Growing Eyes and Ears to Better Respond to Your Human Whims",
-      "excerpt": "We may earn a commission from links on this page. On Monday, ChatGPT-maker OpenAI announced it was starting to roll out voice and image recognition in ChatGPT. Essentially, the AI can recognize a ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/chatgpt-gains-the-ability-to-see-hear-and-speak-1850869977",
-      "originalUrl": "https://gizmodo.com/chatgpt-gains-the-ability-to-see-hear-and-speak-1850869977",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9a67c4ba6c27a4e503c8bb8c35755246.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -409,26 +460,69 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
-      "path": "_news/2023-09-25-ai-race-gets-hotter-as-amazon-to-invest-up-to-4b-in-startup-anthropic.md",
-      "title": "AI Race Gets Hotter As Amazon To Invest Up To $4B In Startup Anthropic",
-      "excerpt": "Amazon has agreed to invest up to $4 billion in AI startup Anthropic. The new investment gives the Seattle-based e-commerce and cloud titan a minority stake in the ChatGPT rival.",
+      "path": "_news/2023-09-28-meta-connect-2023-mark-zuckerberg-unveils-ai-assistant-facebook-streaming-glasses.md",
+      "title": "Meta Connect 2023: Mark Zuckerberg unveils AI assistant, Facebook-streaming glasses",
+      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and ... at TECHnalysis Research. Zuckerberg also ...",
       "sourceUrl": null,
-      "webUrl": "https://news.crunchbase.com/ai-robotics/amzn-investment-startup-anthropic/",
-      "originalUrl": "https://news.crunchbase.com/ai-robotics/amzn-investment-startup-anthropic/",
+      "webUrl": "https://www.hindustantimes.com/technology/meta-connect-2023-mark-zuckerberg-unveils-ai-assistant-facebook-streaming-glasses-101695874807034.html",
+      "originalUrl": "https://www.hindustantimes.com/technology/meta-connect-2023-mark-zuckerberg-unveils-ai-assistant-facebook-streaming-glasses-101695874807034.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://news.crunchbase.com/wp-content/uploads/Money_Scan.jpg",
-          "width": 900,
-          "height": 506,
+          "url": "https://www.hindustantimes.com/ht-img/img/2023/09/28/1600x900/Mark_Zuckerberg_1695874891506_1695874891796.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/technology/meta-connect-2023-mark-zuckerberg-unveils-ai-assistant-facebook-streaming-glasses-101695874807034-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/meta-connect-2023-mark-zuckerberg-unveils-ai-assistant-facebook-streaming-glasses-101695874807034-amp.html",
+      "publishedDateTime": "2023-09-28T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-uaes-advanced-falcon-180b-available-on-amazon-sagemaker.md",
+      "title": "UAE’s advanced Falcon 180B available on Amazon SageMaker",
+      "excerpt": "Trained on a cluster of nearly 4,000 A100 GPUs, Falcon 180B is finely tuned to work seamlessly with the Amazon SageMaker environment. The use of Amazon Simple Storage Service (Amazon S3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tradearabia.com/news/IT_413880.html",
+      "originalUrl": "https://www.tradearabia.com/news/IT_413880.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?11:01:14am",
+          "width": 680,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -438,11 +532,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T09:41:00-07:00",
+      "publishedDateTime": "2023-09-28T02:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "news.crunchbase",
-        "domain": "crunchbase.com",
+        "name": "Trade Arabia",
+        "domain": "tradearabia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -452,26 +546,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-25-these-new-tools-could-make-ai-vision-systems-less-biased.md",
-      "title": "These new tools could make AI vision systems less biased",
-      "excerpt": "Thong and Xiang’s team developed a tool— shared exclusively with MIT Technology Review—that expands the skin-tone scale into two dimensions, measuring both skin color (from light to dark) and skin hue (from red to yellow). Sony is making the tool freely available online .",
+      "path": "_news/2023-09-28-local-opponents-applaud-ban-on-facial-recognition-in-schools.md",
+      "title": "Local opponents applaud ban on facial recognition in schools",
+      "excerpt": "Lockport was the only public school district in New York state to employ facial recognition technology for security purposes, having bought the Aegis software-powered facial and object recognition sys",
       "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/09/25/1080191/these-new-tools-could-make-ai-vision-systems-less-biased/",
-      "originalUrl": "https://www.technologyreview.com/2023/09/25/1080191/these-new-tools-could-make-ai-vision-systems-less-biased/",
+      "webUrl": "https://www.lockportjournal.com/news/local_news/local-opponents-applaud-ban-on-facial-recognition-in-schools/article_297f1842-5d73-11ee-9a3d-ab4cdb1c1139.html",
+      "originalUrl": "https://www.lockportjournal.com/news/local_news/local-opponents-applaud-ban-on-facial-recognition-in-schools/article_297f1842-5d73-11ee-9a3d-ab4cdb1c1139.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/09/color-eyes2.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
+          "url": "https://bloximages.chicago2.vip.townnews.com/lockportjournal.com/content/tncms/assets/v3/editorial/b/a9/ba9404e0-5d6f-11ee-bbac-1b0d4e8b8549/6514888ec587a.image.jpg?resize=400%2C549",
+          "width": 400,
+          "height": 549,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -479,13 +573,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/09/25/1080191/these-new-tools-could-make-ai-vision-systems-less-biased/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/25/1080191/these-new-tools-could-make-ai-vision-systems-less-biased/amp/",
-      "publishedDateTime": "2023-09-25T09:40:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T02:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
+        "name": "Lockport Union-Sun & Journal",
+        "domain": "lockportjournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -500,12 +594,12 @@
       ]
     },
     {
-      "path": "_news/2023-09-25-ai-in-computer-vision-market-overview-2023-and-forecast-till-2030-report-pages-108.md",
-      "title": "AI In Computer Vision Market Overview 2023 and Forecast till 2030 | Report Pages 108",
-      "excerpt": "Recently Updated comprehensive108-Page Reporton the AI In Computer Vision Market, this analysis deep dives into market size, share, and industry trends. According to our latest research ...",
+      "path": "_news/2023-09-28-cloudfabrix-announces-ai-driven-telco-service-assurance-and-automation-solution-with-multiple-tier1-telco-wins.md",
+      "title": "CloudFabrix Announces AI-driven Telco Service Assurance and Automation Solution With Multiple Tier1 Telco Wins",
+      "excerpt": "CloudFabrix, the inventor of Robotic Data Automation Fabric Platform and the Data-centric AIOps Leader, today announced market momentum with its AI-driven Telco Service Assurance and Automation Solution and has launched a GSI Partner Program to build on its momentum.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34872507/ai-in-computer-vision-market-overview-2023-and-forecast-till-2030-report-pages-108",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34872507/ai-in-computer-vision-market-overview-2023-and-forecast-till-2030-report-pages-108",
+      "webUrl": "https://www.channelbiz.co.uk/press-release/cloudfabrix-announces-ai-driven-telco-service-assurance-and-automation-solution-with-multiple-tier1-telco-wins/",
+      "originalUrl": "https://www.channelbiz.co.uk/press-release/cloudfabrix-announces-ai-driven-telco-service-assurance-and-automation-solution-with-multiple-tier1-telco-wins/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -513,56 +607,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34872507",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34872507",
-      "publishedDateTime": "2023-09-25T09:32:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-machine-learning-unravels-mysteries-of-atomic-geometry.md",
-      "title": "Machine learning unravels mysteries of atomic geometry",
-      "excerpt": "New research has used machine learning to find the properties of atomic pieces of geometry, in pioneering work that could drive the development of new results in mathematics.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-09-machine-unravels-mysteries-atomic-geometry.html",
-      "originalUrl": "https://phys.org/news/2023-09-machine-unravels-mysteries-atomic-geometry.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-unrav.jpg",
-          "width": 1350,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-09-machine-unravels-mysteries-atomic-geometry.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-machine-unravels-mysteries-atomic-geometry.amp",
-      "publishedDateTime": "2023-09-25T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "Channel Biz",
+        "domain": "channelbiz.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -577,89 +628,21 @@
       ]
     },
     {
-      "path": "_news/2023-09-25-heygen-launches-ai-video-translation-tool.md",
-      "title": "HeyGen Launches AI Video Translation Tool",
-      "excerpt": "Los Angeles-based HeyGen, a startup which provides tools to help people creater \"explainer\" videos using animated avatars, showed off a new, artificial intelligence-based tool that it says can translate videos from one language into another--including matching a person's lip movements and their voice.",
+      "path": "_news/2023-09-28-i-watched-youtube-in-a-self-driving-mercedes-and-experienced-the-future-of-commuting.md",
+      "title": "I watched YouTube in a self-driving Mercedes and experienced the future of commuting",
+      "excerpt": "Mercedes' first-of-its-kind self-driving tech lets you watch TV and play games while your car does all the work. I put it to the test in LA traffic.",
       "sourceUrl": null,
-      "webUrl": "https://socaltech.com/heygen_launches_ai_video_translation_tool/s-0083649.html",
-      "originalUrl": "https://socaltech.com/heygen_launches_ai_video_translation_tool/s-0083649.html",
+      "webUrl": "https://www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9",
+      "originalUrl": "https://www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Incubators",
-        "domain": "socaltech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-speech-recognition-software-market-forecast-2024key-features-2031.md",
-      "title": "Speech Recognition Software Market Forecast 2024|Key Features 2031",
-      "excerpt": "Global \"Speech Recognition Software Market\" report identifies crucial segments and dynamics, categorizing information to enhance investor comprehension with |115 pages Latest Report| Information ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34869779/speech-recognition-software-market-forecast-2024-key-features-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34869779/speech-recognition-software-market-forecast-2024-key-features-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34869779",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34869779",
-      "publishedDateTime": "2023-09-25T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-spotify-uses-ai-voice-cloning-to-translate-podcasts-into-other-languages.md",
-      "title": "Spotify Uses AI Voice Cloning to Translate Podcasts Into Other Languages",
-      "excerpt": "The tech retains an English-speaking host's voice and style and translates their podcasts into Spanish, French, and German. Look for it on shows from Dax Shepard, Bill Simmons, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/spotify-uses-ai-voice-cloning-to-translate-podcasts-into-other-languages",
-      "originalUrl": "https://www.pcmag.com/news/spotify-uses-ai-voice-cloning-to-translate-podcasts-into-other-languages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://i.pcmag.com/imagery/articles/03jBQZi1jbvflYpJbWgyjCg-1.fit_lim.size_1200x630.v1695652153.jpg",
-          "width": 1120,
-          "height": 630,
+          "url": "https://i.insider.com/6514798f1c099d0019ad4611?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -667,16 +650,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T08:23:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9?amp",
+      "publishedDateTime": "2023-09-28T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -684,229 +667,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-large-language-model-llm-market-size-to-grow-usd-408-billion-by-2029-at-a-cagr-of-214-valuates-reports.md",
-      "title": "Large Language Model (LLM) Market Size to Grow USD 40.8 Billion by 2029 at a CAGR of 21.4% | Valuates Reports",
-      "excerpt": "The LLM Market is Segmented by Type (Hundreds of Billions of Parameters, Trillions of Parameters), by Application (Medical,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/large-language-model-llm-market-size-to-grow-usd-40-8-billion-by-2029-at-a-cagr-of-21-4--valuates-reports-301937644.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/large-language-model-llm-market-size-to-grow-usd-40-8-billion-by-2029-at-a-cagr-of-21-4--valuates-reports-301937644.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook",
-          "width": 920,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-amazon-announces-4b-investment-in-ai-company-anthropic.md",
-      "title": "Amazon announces $4B investment in AI company Anthropic",
-      "excerpt": "25 (UPI) --Amazon said on Monday it will pay up to $4 billion for a minority stake in the artificial intelligence company ... will allow Anthropic will use AWS Trainium and Inferentia chips ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2023/09/25/Amazon-Anthropic-minority-stake-AI/8591695644117/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2023/09/25/Amazon-Anthropic-minority-stake-AI/8591695644117/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/8591695644117/2023/1/3975ef2cb59fa3e3bb6cf542ecec035d/v1.5/Amazon-announces-4B-investment-in-AI-company-Anthropic.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2023/09/25/Amazon-Anthropic-minority-stake-AI/8591695644117/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/09/25/Amazon-Anthropic-minority-stake-AI/8591695644117/",
-      "publishedDateTime": "2023-09-25T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-lawsuits-by-black-plaintiffs-over-misidentification-by-facial-recognition-grow.md",
-      "title": "Lawsuits by Black plaintiffs over misidentification by facial recognition grow",
-      "excerpt": "A lawsuit filed this month blames the misuse of facial recognition technology by a sheriff’s detective in Jefferson Parish, La., for his ordeal. “I was confused and I was angry because I didn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2023-09-25/facial-recognition-lawsuits-wrongful-arrest-black-plaintiffs",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2023-09-25/facial-recognition-lawsuits-wrongful-arrest-black-plaintiffs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/b7f637b/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F17%2F5c%2F3e3aa6de4b948117b18f31902b06%2F65110882005975-19167542.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-the-1-billion-gamble-to-ensure-ai-doesnt-destroy-humanity.md",
-      "title": "The $1 billion gamble to ensure AI doesn’t destroy humanity",
-      "excerpt": "is describing to members of the AI startup’s “alignment” team in a conference room at its downtown San Francisco offices. Alignment means ensuring that the AI systems made by companies like ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/future-perfect/23794855/anthropic-ai-openai-claude-2",
-      "originalUrl": "https://www.vox.com/future-perfect/23794855/anthropic-ai-openai-claude-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/PMO5NtFcDVf9JdEllg9NGtnDS5o=/0x47:2400x1304/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24788204/Vox_Anthropic_final.jpg",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-the-role-of-artificial-intelligence-in-digital-transformation.md",
-      "title": "The Role of Artificial Intelligence in Digital Transformation",
-      "excerpt": "In today’s rapidly evolving digital landscape, the term “digital transformation” has become a buzzword, and for a good reason. Companies across industries are recognizing the need to adapt and leverage technology to stay competitive,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/the-role-of-artificial-intelligence-in-digital-transformation/",
-      "originalUrl": "https://techbullion.com/the-role-of-artificial-intelligence-in-digital-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-25T151443.982.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -920,35 +680,26 @@
       ]
     },
     {
-      "path": "_news/2023-09-25-amazon-is-investing-up-to-4-billion-in-ai-startup-anthropic-in-growing-tech-battle.md",
-      "title": "Amazon is investing up to $4 billion in AI startup Anthropic in growing tech battle",
-      "excerpt": "followed by another multibillion-dollar investment at the start of year. Amazon has been rolling out new services to keep up with the AI arms race, including an update for its popular assistant ...",
+      "path": "_news/2023-09-28-breaking-language-barriers-thebigwords-ai-workflows-enhance-translation-delivery-on-time-to-99-while-significantly-reducing-turnaround-times.md",
+      "title": "Breaking language barriers: thebigword's AI workflows enhance translation delivery on time to 99% while significantly reducing turnaround times",
+      "excerpt": "With the ever-growing demand for rapid and high-quality translations, thebigword has taken numerous steps, including the ability to create and implement self-driving AI workflows, to ensure their clients are receiving the highest quality of translation and customer service.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459168",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459168",
+      "webUrl": "https://www.tmcnet.com/usubmit/-breaking-language-barriers-thebigwords-ai-workflows-enhance-translation-/2023/09/28/9889123.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-breaking-language-barriers-thebigwords-ai-workflows-enhance-translation-/2023/09/28/9889123.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_72d21e6c663d506dbf968f50628e7ded_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459168",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459168",
-      "publishedDateTime": "2023-09-25T07:12:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T01:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -958,68 +709,26 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-09-25-new-artificial-intelligence-solutions-developed-to-combat-wildfires.md",
-      "title": "New Artificial Intelligence Solutions Developed to Combat Wildfires",
-      "excerpt": "Enter artificial intelligence. Firefighters and startups are using AI-enabled cameras to scan the horizon for signs of smoke. A German company is building a constellation of satellites to detect ...",
+      "path": "_news/2023-09-28-a-one-year-old-uk-startup-says-its-achieved-a-major-breakthrough-in-ai-safety-by-scoring-high-on-a-video-game.md",
+      "title": "A one-year-old U.K. startup says it’s achieved a major breakthrough in AI safety by scoring high on a video game",
+      "excerpt": "A small startup in Oxford, England says it has achieved an important breakthrough in AI safety that could make self driving cars, robots, and other AI-based products far more reliable for ...",
       "sourceUrl": null,
-      "webUrl": "https://www.voanews.com/a/new-artificial-intelligence-solutions-developed-to-combat-wildfires/7282474.html",
-      "originalUrl": "https://www.voanews.com/a/new-artificial-intelligence-solutions-developed-to-combat-wildfires/7282474.html",
+      "webUrl": "https://www.aol.com/finance/one-old-u-k-startup-050000329.html",
+      "originalUrl": "https://www.aol.com/finance/one-old-u-k-startup-050000329.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://gdb.voanews.com/3889d9d2-0cf4-4b87-ba63-771e372ecdae_w1080_h608_s.jpg",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voanews.com/amp/new-artificial-intelligence-solutions-developed-to-combat-wildfires/7282474.html",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/new-artificial-intelligence-solutions-developed-to-combat-wildfires/7282474.html",
-      "publishedDateTime": "2023-09-25T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-amazon-takes-a-big-stake-in-the-ai-start-up-anthropic.md",
-      "title": "Amazon Takes a Big Stake in the A.I. Start-Up Anthropic",
-      "excerpt": "With its investment of up to $4 billion, Amazon is seeking a bigger footprint in A.I. development, one already established by rivals like Microsoft and Google. By Adam Satariano and Cade Metz Adam ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/09/25/technology/amazon-anthropic-ai-deal.html",
-      "originalUrl": "https://www.nytimes.com/2023/09/25/technology/amazon-anthropic-ai-deal.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/09/26/multimedia/25anthropic-amazon-print-wphg/25anthropic-amazon-wphg-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
+          "url": "https://s.yimg.com/ny/api/res/1.2/GSTae735_pJbqF6Oy4GFIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTY-/https://media.zenfs.com/en/aol_fortune_385/a8ae5f95851a4e8186eb4ba5db50bfc5",
+          "width": 1200,
+          "height": 896,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1029,14 +738,229 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T06:26:00-07:00",
+      "publishedDateTime": "2023-09-28T01:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-ai-chip-crunch-startups-vie-for-nvidias-vital-component.md",
+      "title": "AI chip crunch: Startups vie for Nvidia's vital component",
+      "excerpt": "The artificial intelligence revolution is fully underway, but soaring demand for its most crucial component has startups scratching their heads on how they can deliver on AI's promise.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-09-ai-chip-crunch-startups-vie.html",
+      "originalUrl": "https://techxplore.com/news/2023-09-ai-chip-crunch-startups-vie.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/nvidias-ceo-and-founde.jpg",
+          "width": 1280,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-09-ai-chip-crunch-startups-vie.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-ai-chip-crunch-startups-vie.amp",
+      "publishedDateTime": "2023-09-28T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-tencent-backed-ai-chip-startup-enflame-raises-274-million-from-state-linked-investors-others.md",
+      "title": "Tencent-backed AI chip startup Enflame raises $274 million from state-linked investors, others",
+      "excerpt": "The deal came as the development of generative AI, boosted by the success of OpenAI's ChatGPT, raises investor interest in companies working on AI-related infrastructure such as AI chips. Enflame said the latest fundraising was co-led by investors including a few funds backed by Shanghai International Group,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/tencent-backed-ai-chip-startup-041156077.html",
+      "originalUrl": "https://www.aol.com/tencent-backed-ai-chip-startup-041156077.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/tencent-backed-ai-chip-startup-041156077.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/tencent-backed-ai-chip-startup-041156077.html",
+      "publishedDateTime": "2023-09-28T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.md",
+      "title": "Chip industry strains to meet AI-fueled demands — will smaller LLMs help?",
+      "excerpt": "Large language models are growing in size, as is the number of companies using generative AI technology. The more the models grow, the more CPUs they consume — exacerbating an already-strained chip supply chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3707412/chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.html",
+      "originalUrl": "https://www.computerworld.com/article/3707412/chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/09/shutterstockim-imagery-100946402-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3707412/chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3707412/chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.amp.html",
+      "publishedDateTime": "2023-09-28T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-infosys-collaborates-with-microsoft-for-generative-ai.md",
+      "title": "Infosys collaborates with Microsoft for generative AI",
+      "excerpt": "Infosys: Both organizations will bring together their respective artificial intelligence (AI) capabilities for transitioning to AI from digital, thus driving efficiency and productivity among businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-104004834,imgsize-32626,width-1200,height=765,overlay-etbrandequity/digital/infosys-collaborates-with-microsoft-for-generative-ai.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834",
+      "publishedDateTime": "2023-09-27T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-meta-unveils-ai-assistant-facebook-streaming-glasses.md",
+      "title": "Meta unveils AI assistant, Facebook-streaming glasses",
+      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and ... at TECHnalysis Research. Zuckerberg also ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/meta-signal-future-arvr-investments-annual-connect-conference-2023-09-27/",
+      "originalUrl": "https://www.reuters.com/technology/meta-signal-future-arvr-investments-annual-connect-conference-2023-09-27/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/5IEMzjR49d2475IiO5PYe4rnUB8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VUGWIKRVFJJ3FBIGWKEHQ6FHUY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T22:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1052,7 +976,93 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-tencent-backed-ai-chip-startup-enflame-raises-27-billion-from-state-linked-investors-others.md",
+      "title": "Tencent-backed AI chip startup Enflame raises $2.7 billion from state-linked investors, others",
+      "excerpt": "China's artificial intelligence (AI) chip startup Enflame, backed by tech giant Tencent, on Thursday said it raised 20 billion yuan",
+      "sourceUrl": null,
+      "webUrl": "https://kelo.com/2023/09/27/tencent-backed-ai-chip-startup-enflame-raises-2-7-billion-from-state-linked-investors-others/",
+      "originalUrl": "https://kelo.com/2023/09/27/tencent-backed-ai-chip-startup-enflame-raises-2-7-billion-from-state-linked-investors-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.socastsrm.com/uploads/station/2223/fbShare.png?r=67740",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KELO",
+        "domain": "kelo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-riverside-health-system-to-use-artificial-intelligence-in-breast-cancer-screenings.md",
+      "title": "Riverside Health System to use artificial intelligence in breast cancer screenings",
+      "excerpt": "According to Riverside, the AI serves as a “second set of eyes for providers to identify patterns of cancerous breast tissue and aims to detect cancer early, when it may be easier to treat.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtkr.com/news/health/riverside-health-system-to-use-artificial-intelligence-in-breast-cancer-screenings",
+      "originalUrl": "https://www.wtkr.com/news/health/riverside-health-system-to-use-artificial-intelligence-in-breast-cancer-screenings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/1dd6e66/2147483647/strip/true/crop/2148x1128+0+176/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc5%2F09%2F5871ddd34cb48490ef7933efc9e7%2Fai-breast-cancer-riverside.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T19:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTKR",
+        "domain": "wtkr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

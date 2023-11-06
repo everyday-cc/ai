@@ -2,6 +2,254 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-31-romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves.md",
+      "title": "Romeo Miller Says Eminem “Doesn’t Get The Recognition He Deserves”",
+      "excerpt": "Romeo Miller recently received the Community Impact Award at the Future Stars Charity Gala, delivering a heartfelt speech connecting his success in entertainment to his success in sports. Real name Percy Miller first received a scholarship to hoop at USC,",
+      "sourceUrl": null,
+      "webUrl": "https://thesource.com/2023/10/31/romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves/",
+      "originalUrl": "https://thesource.com/2023/10/31/romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Source Magazine",
+        "domain": "thesource.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-tarjama-launches-cleverso-30-the-first-tms-with-an-arabic-ui-and-powered-by-arabic-ai.md",
+      "title": "Tarjama Launches CleverSo 3.0 – The First TMS with an Arabic UI and Powered by Arabic AI",
+      "excerpt": "Tarjama unveils CleverSo 3.0, its proprietary TMS packaged with new capabilities to power translation teams for AI-enabled translations.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/tarjama-launches-cleverso-3-first-tms-with-arabic-ui-powered-by-arabic-ai/",
+      "originalUrl": "https://slator.com/tarjama-launches-cleverso-3-first-tms-with-arabic-ui-powered-by-arabic-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-the-safety-of-openais-gpt-4-gets-lost-in-translation.md",
+      "title": "The safety of OpenAI's GPT-4 gets lost in translation",
+      "excerpt": "By translating \"unsafe\" commands first into Zulu and other under-represented languages, Brown scholars coerced GPT-4 into breaking its guardrails.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-safety-of-openais-gpt-4-is-lost-in-translation/",
+      "originalUrl": "https://www.zdnet.com/article/the-safety-of-openais-gpt-4-is-lost-in-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-voice-actors-slam-the-finals-for-using-ai-instead-of-real-people.md",
+      "title": "Voice Actors Slam 'The Finals' for Using AI Instead of Real People",
+      "excerpt": "Voice actors raise concerns over the use of AI to generate character voices in The Finals game instead of real people.",
+      "sourceUrl": null,
+      "webUrl": "https://decrypt.co/203768/ai-voices-used-in-the-finals-game-voice-actors-protest",
+      "originalUrl": "https://decrypt.co/203768/ai-voices-used-in-the-finals-game-voice-actors-protest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "decrypt",
+        "domain": "decrypt.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-lessons-from-the-voice-time-to-reboot-journalism-with-a-conscious-empathy.md",
+      "title": "Lessons from the Voice: Time to reboot journalism with a conscious empathy",
+      "excerpt": "The now common aggressively interrupting interviewing style is a fightback against accusations of being 'too soft'.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crikey.com.au/2023/10/31/voice-lessons-reboot-journalism-conscious-empathy/",
+      "originalUrl": "https://www.crikey.com.au/2023/10/31/voice-lessons-reboot-journalism-conscious-empathy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crikey",
+        "domain": "crikey.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-alberta-throne-speech-focuses-on-fight-against-ottawa-new-tax-curbs-but-no-mention-of-provincial-pension-plan.md",
+      "title": "Alberta throne speech focuses on fight against Ottawa, new tax curbs, but no mention of provincial pension plan",
+      "excerpt": "The Alberta government will spend the coming weeks focusing on its new tax legislation as well as its fight against Ottawa’s energy policies, according to Monday’s speech from the throne, which made no mention of the government’s plans for a provincial pension plan.",
+      "sourceUrl": null,
+      "webUrl": "https://calgaryherald.com/news/politics/alberta-throne-speech-focuses-on-fight-against-ottawa-new-tax-bill-but-no-mention-of-provincial-pension-plan/wcm/24de3c34-8311-4f3b-a4db-323ff35b4485",
+      "originalUrl": "https://calgaryherald.com/news/politics/alberta-throne-speech-focuses-on-fight-against-ottawa-new-tax-bill-but-no-mention-of-provincial-pension-plan/wcm/24de3c34-8311-4f3b-a4db-323ff35b4485",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://calgaryherald.com/news/politics/alberta-throne-speech-focuses-on-fight-against-ottawa-new-tax-bill-but-no-mention-of-provincial-pension-plan/wcm/24de3c34-8311-4f3b-a4db-323ff35b4485/amp/",
+      "cdnAmpWebUrl": "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/news/politics/alberta-throne-speech-focuses-on-fight-against-ottawa-new-tax-bill-but-no-mention-of-provincial-pension-plan/wcm/24de3c34-8311-4f3b-a4db-323ff35b4485/amp/",
+      "publishedDateTime": "2023-10-30T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Calgary Herald",
+        "domain": "calgaryherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-ensuring-the-security-of-large-language-models.md",
+      "title": "Ensuring the Security of Large Language Models",
+      "excerpt": "Introduction In the ever-evolving landscape of artificial intelligence, Large Language Models (LLMs) have emerged as transformative tools, reshaping how we",
+      "sourceUrl": null,
+      "webUrl": "https://securityboulevard.com/2023/10/ensuring-the-security-of-large-language-models/",
+      "originalUrl": "https://securityboulevard.com/2023/10/ensuring-the-security-of-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security Boulevard",
+        "domain": "securityboulevard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-10-30-groundbreaking-new-trading-ai-from-algosoneai-uses-deep-learning-for-win-rates-over-80.md",
       "title": "Groundbreaking New Trading AI from AlgosOne.ai Uses Deep Learning for Win Rates Over 80%",
       "excerpt": "AlgosOne.ai has an EU-issued license for providing financial services, including crypto trading. It integrates advanced risk management and hedging tools, has investment caps for each trade, diversifies trading across multiple markets, and provides partial compensation on any unsuccessful trades.",
@@ -153,6 +401,40 @@
       ]
     },
     {
+      "path": "_news/2023-10-28-lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service.md",
+      "title": "Lilt Supports AI-Powered Translated Forecasts Offered By NOAA's National Weather Service",
+      "excerpt": "the leading AI solution for enterprise translation, is proud to provide the AI-powered technology behind a new experimental language translation website by NOAA and the National Weather Service.",
+      "sourceUrl": null,
+      "webUrl": "https://fox40.com/business/press-releases/cision/20231027SF50824/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/",
+      "originalUrl": "https://fox40.com/business/press-releases/cision/20231027SF50824/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX40 News",
+        "domain": "fox40.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-27-generative-ai-is-coming-to-robots-courtesy-of-nvidia.md",
       "title": "Generative AI is Coming to Robots, Courtesy of NVIDIA",
       "excerpt": "As generative AI continues to revolutionize text and natural language processing, it’s also impacting computer vision. This transformative technology is expected to bring advancements in autonomous machines and robotics, where cameras play a pivotal role.",
@@ -257,6 +539,49 @@
         "AI",
         "AI in Robotics",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-alation-launches-data-query-system-based-on-natural-language-processing.md",
+      "title": "Alation launches data query system based on natural language processing",
+      "excerpt": "Alation, launched officially this morning, is a startup with software that ties into a company’s data stores, and then gives users a natural language search interface for querying that information.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/alation/alation-launches-data-query-system-based-on-natural-language-processing/",
+      "originalUrl": "https://sdtimes.com/alation/alation-launches-data-query-system-based-on-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1049,423 +1374,6 @@
       "provider": {
         "name": "Los Angeles Times",
         "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-can-mayor-adams-speak-mandarin-no-but-ai-can-help-him-robocall-in-different-languages.md",
-      "title": "Can Mayor Adams speak Mandarin? No, but AI can help him robocall in different languages",
-      "excerpt": "New York City Mayor Eric Adams has been using artificial intelligence to make robocalls that contort his own voice into several languages he doesn’t actually speak, posing new ethical questions about the government’s use of the rapidly evolving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnewyork.com/news/local/can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-different-languages/4776682/",
-      "originalUrl": "https://www.nbcnewyork.com/news/local/can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-different-languages/4776682/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2023/10/AP23290607885508.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/local/can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-different-languages/4776682/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-different-languages/4776682/?amp=1",
-      "publishedDateTime": "2023-10-17T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-new-york-city-unveiled-a-new-plan-to-use-ai-to-make-its-government-work-better.md",
-      "title": "New York City unveiled a new plan to use AI to make its government work better",
-      "excerpt": "New York City released its Artificial Intelligence Action Plan on Monday setting policies to avoid bias and improve government services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10",
-      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/652d84ea6561dd877e7baace?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10?amp",
-      "publishedDateTime": "2023-10-16T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-metas-unique-approach-to-developing-ai-puzzles-wall-street-but-techies-love-it.md",
-      "title": "Meta's unique approach to developing AI puzzles Wall Street, but techies love it",
-      "excerpt": "To help with the computationally intensive process of training gigantic AI models like Llama, Meta has been using its own Research SuperCluster supercomputer, built to incorporate a whopping 16,000 Nvidia A100 GPUs, the AI industry’s “workhorse” computer chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
-      "originalUrl": "https://www.cnbc.com/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1697461201",
-          "width": 2237,
-          "height": 1376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
-      "publishedDateTime": "2023-10-16T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-streamtext-releases-update-with-enhanced-artificial-intelligence-language-translation-captions.md",
-      "title": "StreamText Releases Update With Enhanced Artificial Intelligence Language Translation Captions",
-      "excerpt": "MADISON, Wis., Oct. 16, 2023 /PRNewswire/ -- StreamText's latest Automatic Speech Recognition update includes enhanced artificial intelligence (AI) language translation. Over ten years ago ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/streamtext-releases-update-with-enhanced-artificial-intelligence-language-translation-captions/article_bd093bbb-c7fe-51cd-a773-f63ddaac34b8.html",
-      "originalUrl": "https://www.victoriaadvocate.com/streamtext-releases-update-with-enhanced-artificial-intelligence-language-translation-captions/article_bd093bbb-c7fe-51cd-a773-f63ddaac34b8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/7/2c/72cfcb11-21e6-5156-a54b-85315bdfd695/650842ec1e74e.image.jpg?crop=905%2C475%2C372%2C0&resize=905%2C475&order=crop%2Cresize",
-          "width": 905,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-empowering-translation-with-langops-and-the-virtuous-data-loop.md",
-      "title": "Empowering Translation With LangOps And The Virtuous Data Loop",
-      "excerpt": "With an increasing reliance on AI and data, here's what you should look for when considering investing in a LangOps platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/empowering-translation-with-langops-and-the-virtuous-data-loop/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/empowering-translation-with-langops-and-the-virtuous-data-loop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621f96c5064da803e2d507d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/empowering-translation-with-langops-and-the-virtuous-data-loop/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/16/empowering-translation-with-langops-and-the-virtuous-data-loop/amp/",
-      "publishedDateTime": "2023-10-16T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-want-to-know-the-ai-lingo-learn-the-basics-from-nlp-to-neural-networks.md",
-      "title": "Want to Know the AI Lingo? Learn the Basics, From NLP to Neural Networks",
-      "excerpt": "A bewildering array of new terms has accompanied the rise of artificial intelligence, a technology that aims to mimic human thinking. From generative AI to machine learning, neural nets and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/tech/ai/ai-lingo-technology-terms-definitions-69b41e31",
-      "originalUrl": "https://www.wsj.com/tech/ai/ai-lingo-technology-terms-definitions-69b41e31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple.md",
-      "title": "Baidu Announces Breakthrough In Speech Recognition, Claiming To Top Google And Apple",
-      "excerpt": "But he couldn't help revealing better speech recognition as a key area of interest in the age of the smartphone. Today, Baidu, often called China's Google, unveiled the first results of what the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/",
-      "originalUrl": "https://www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/blogs-images/roberthof/files/2014/12/andrewngbaidu.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 664,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/amp/",
-      "publishedDateTime": "2023-10-15T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-15-natural-language-processing-dominican-republic.md",
-      "title": "Natural Language Processing - Dominican Republic",
-      "excerpt": "The market size in the Natural Language Processing market is projected to reach US$22.44m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 19.52%, resulting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/dominican-republic",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/dominican-republic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-15-speech-recognition-dominican-republic.md",
-      "title": "Speech Recognition - Dominican Republic",
-      "excerpt": "The market size in the Speech Recognition market is projected to reach US$6.47m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 20.70%, resulting in a market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/dominican-republic",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/dominican-republic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
         "images": null,
         "publishers": null,
         "authors": null

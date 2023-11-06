@@ -2,6 +2,371 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-12-3-reddit-approved-ai-stocks-for-your-buy-list.md",
+      "title": "3 Reddit-Approved AI Stocks for Your Buy-List",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips When it comes to identifying the pulse of contemporary stock market trends,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-reddit-approved-ai-stocks-for-your-buy-list-1032622401",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-reddit-approved-ai-stocks-for-your-buy-list-1032622401",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries.md",
+      "title": "The Amazing Ways Snowflake Uses Generative AI For Synthetic Data And Natural Language Queries",
+      "excerpt": "Discover how cloud data giant Snowflake is revolutionizing the use of synthetic data created through generative AI to overcome the challenges of realworld data collection",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650002763f0c19e47373b638/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/amp/",
+      "publishedDateTime": "2023-09-11T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-the-3-most-undervalued-ai-chip-stocks-to-buy-in-september-2023.md",
+      "title": "The 3 Most Undervalued AI Chip Stocks to Buy in September 2023",
+      "excerpt": "The post The 3 Most Undervalued AI Chip Stocks to Buy in September 2023 appeared first on InvestorPlace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-3-most-undervalued-ai-chip-stocks-to-buy-in-september-2023",
+      "originalUrl": "https://www.nasdaq.com/articles/the-3-most-undervalued-ai-chip-stocks-to-buy-in-september-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts.md",
+      "title": "Optimizing AI Inference Is As Vital As Building AI Training Beasts",
+      "excerpt": "The history of computing teaches us that software always and necessarily lags hardware, and unfortunately that lag can stretch for many years when it comes to wringing the best performance out of iron by tweaking algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/",
+      "originalUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/09/nvidia-gpu-full-stack-performance-hpc-ai-mix.jpg",
+          "width": 714,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/",
+      "publishedDateTime": "2023-09-11T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.md",
+      "title": "Enterprise DPU advances are spurred by AI, security, networking apps",
+      "excerpt": "Nvidia is capitalizing in a monster way on AI and its use of its GPU technology, largely in hyperscaler networks at this point. The company’s second-quarter revenue came in at $13.51 billion, a 101% jump year-over-year that it credited largely to AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3706089/enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.html",
+      "originalUrl": "https://www.networkworld.com/article/3706089/enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/server_virtualization_virtual_data_center_storage_by_henrik5000_gettyimages-175015817_1200x800-100768153-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3706089/enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3706089/enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.amp.html",
+      "publishedDateTime": "2023-09-11T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-boundaries.md",
+      "title": "DEEPX Charts Path to a Limitless Open Edge AI Ecosystem with New AI Dev Kits that Break GPU Boundaries",
+      "excerpt": "DEEPX is poised to unveil five cutting-edge technologies, encompassing support for the latest AI algorithms, GPU-level AI precision, unmatched power-to-performance efficiency, comprehensive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34439742/deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-bounda",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34439742/deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-bounda",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34439742",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34439742",
+      "publishedDateTime": "2023-09-11T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-arm-ipo-5-things-to-know-about-the-chip-designer-central-to-the-ai-transition.md",
+      "title": "Arm IPO: 5 things to know about the chip designer central to the AI transition",
+      "excerpt": "As with all things chip-related, China is a risk factor, and AI might not live up to hype Taiwan might as well be the center of the universe when it comes to the semiconductor industry with the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/arm-ipo-5-things-to-know-about-the-chip-designer-central-to-the-ai-transition-154d7059",
+      "originalUrl": "https://www.marketwatch.com/story/arm-ipo-5-things-to-know-about-the-chip-designer-central-to-the-ai-transition-154d7059",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-840106/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/arm-ipo-5-things-to-know-about-the-chip-designer-central-to-the-ai-transition-154d7059",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/arm-ipo-5-things-to-know-about-the-chip-designer-central-to-the-ai-transition-154d7059",
+      "publishedDateTime": "2023-09-11T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-move-over-ai-quantum-computing-will-be-the-most-powerful-and-worrying-technology.md",
+      "title": "Move over AI, quantum computing will be the most powerful and worrying technology",
+      "excerpt": "While short-term projections about quantum computing might be overhyped, the long-term outcomes are likely to be game-changing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/programming-development/move-over-ai-quantum-computing-will-be-the-most-powerful-and-worrying-technology/",
+      "originalUrl": "https://venturebeat.com/programming-development/move-over-ai-quantum-computing-will-be-the-most-powerful-and-worrying-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/annevb_quantum_sensors_and_robotics._Colorful_futuristic_tech_81265ed8-1888-44a7-b3de-91845c435505.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-10T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-10-2-ai-stocks-to-transform-your-portfolio.md",
       "title": "2 AI Stocks to Transform Your Portfolio",
       "excerpt": "Data from Grand View Research indicates a strong growth trajectory, with AI industry revenue expected to mushroom to $1.181 trillion by 2030, based on a CAGR of 37.3%. Additionally, Accenture's recent findings underscore the potential for enterprise applications,",
@@ -1032,384 +1397,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-the-3-best-ai-chip-stocks-to-buy-now-september-2023.md",
-      "title": "The 3 Best AI Chip Stocks to Buy Now: September 2023",
-      "excerpt": "AI requires high-performance computing power, which depends on advanced semiconductor chips. Therefore, investing in semiconductor companies that are leading the AI revolution can be a smart move for long-term investors. Right now, the Q2 earnings season ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip-stocks-to-buy-now-september-2023-1032603570",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip-stocks-to-buy-now-september-2023-1032603570",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-04T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-04-how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition.md",
-      "title": "How Google Cloud Is Leveraging Generative AI To Outsmart Competition",
-      "excerpt": "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/",
-      "publishedDateTime": "2023-09-04T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-a-new-way-to-optimize-and-prioritize-ai-projects-for-the-gpu-shortage.md",
-      "title": "A new way to optimize and prioritize AI projects for the GPU shortage",
-      "excerpt": "The GPU shortage is a challenge, but zeroing in on a Contribution Per GPU method can maximize ROI and help ensure long-term success.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/a-new-way-to-optimize-and-prioritize-ai-projects-for-the-gpu-shortage/",
-      "originalUrl": "https://venturebeat.com/ai/a-new-way-to-optimize-and-prioritize-ai-projects-for-the-gpu-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/annevb_many_file_drawers_and_files_and_GPU_with_one_file_drawe_9e7c558c-2436-4ad2-bd8b-0500f9b2202f.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-02T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications.md",
-      "title": "Dihuni Ships GPU Servers for Generative AI and LLM Applications",
-      "excerpt": "1, 2023 /PRNewswire/ -- Dihuni, a leading artificial intelligence (AI), data center and Internet of Things (IoT) solutions company today announced it has started shipping new OptiReady GPU servers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications/article_54b10cd7-3d6c-502f-b7e7-745674a52d54.html",
-      "originalUrl": "https://www.victoriaadvocate.com/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications/article_54b10cd7-3d6c-502f-b7e7-745674a52d54.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-us-government-denies-blocking-sales-of-ai-chips-to-middle-east.md",
-      "title": "US Government Denies Blocking Sales of AI Chips to Middle East",
-      "excerpt": "Nvidia and AMD do face expanded export rules for their A100 and H100 artificial intelligence (AI) chips in the Middle East, but it's not yet clear why.",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/dr-global/us-government-denies-blocking-chip-sales-middle-east",
-      "originalUrl": "https://www.darkreading.com/dr-global/us-government-denies-blocking-chip-sales-middle-east",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf47e335d79fb3b2e/64f1e0af0517e34fb4df20d7/fingerprint_motherboard_Panther_Media_Alamy.jpg",
-          "width": 5650,
-          "height": 3560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards.md",
-      "title": "Google DeepMind co-founder wants US to link AI chip sales to minimum artificial intelligence standards",
-      "excerpt": "DeepMind's co-founder, Mustafa Suleyman, has called on the US government to enforce minimum standards for AI companies to be eligible to purchase Nvidia's AI chips. He believes that buyers should agree to ethically use the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/articleshow/103290407.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/articleshow/103290407.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-103290407,imgsize-24318,width-800/103290407.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/amp_articleshow/103290407.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/amp_articleshow/103290407.cms",
-      "publishedDateTime": "2023-09-01T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model.md",
-      "title": "Cerebras and Abu Dhabi build world's most powerful Arabic-language AI model",
-      "excerpt": "The language disparity in AI has been observed and given considerable attention ... but even languages with prevalent translation material such as Greek and Icelandic. And so-called multi-modal programs such as the NLLB successor, SeamlessM4T from Meta ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model/",
-      "originalUrl": "https://www.zdnet.com/article/cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/482ef735b9e3d7e3f787fd6aae61832874a0a4e8/2023/08/31/b450a6fc-3314-4c7a-8815-89fcd8aed339/neural-net-as-calligraphy-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-intels-gaudi-2-beats-nvidias-h100-in-certain-ai-tasks.md",
-      "title": "Intel's Gaudi 2 Beats Nvidia's H100 in Certain AI Tasks",
-      "excerpt": "While Nvidia's latest data center GPU is the top dog among AI accelerators, Intel offers a viable alternative with its Gaudi 2 chip. Gaudi 2 can't match Nvidia's H100 in most cases, but it comes out way ahead in one type of AI workload.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvidias-h100-in-certain-ai-ta/",
-      "originalUrl": "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvidias-h100-in-certain-ai-ta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/746219/gettyimages-1452877140.jpg",
-          "width": 2000,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

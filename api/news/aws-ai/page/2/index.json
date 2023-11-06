@@ -2,6 +2,589 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-20-amazon-launches-drone-delivery-program-for-prescription-medications.md",
+      "title": "Amazon launches drone delivery program for prescription medications",
+      "excerpt": "Drones are now dropping prescription medications to Amazon customers in Texas within an hour of ordering, promising customers relief from standing in line, having public conversations about health ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/2023/10/19/amazon-drone-delivery-texas-prescriptions/71240689007/",
+      "originalUrl": "https://www.usatoday.com/story/money/2023/10/19/amazon-drone-delivery-texas-prescriptions/71240689007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-defect-detection-in-high-resolution-imagery-using-two-stage-amazon-rekognition-custom-labels-models.md",
+      "title": "Defect detection in high-resolution imagery using two-stage Amazon Rekognition Custom Labels models",
+      "excerpt": "High-resolution imagery is very prevalent in today’s world, from satellite imagery to drones and DLSR cameras. From this imagery, we can capture damage due to natural disasters, anomalies in manufacturing equipment, or very small defects such as defects on printed circuit boards (PCBs) or semiconductors.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/defect-detection-in-high-resolution-imagery-using-two-stage-amazon-rekognition-custom-labels-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/defect-detection-in-high-resolution-imagery-using-two-stage-amazon-rekognition-custom-labels-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/19/high-resolution-two-stage-1260x630.jpg",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T11:00:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler.md",
+      "title": "Automatically redact PII for machine learning using Amazon SageMaker Data Wrangler",
+      "excerpt": "Customers increasingly want to use deep learning approaches such as large language models (LLMs) to automate the extraction of data and insights. For many industries, data that is useful for machine learning (ML) may contain personally identifiable information (PII). To ensure customer privacy and maintain",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/11/sagemaker-pipelines.png",
+          "width": 811,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T09:57:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains.md",
+      "title": "IBM expands AWS partnership to bring generative AI to call centers, supply chains",
+      "excerpt": "IBM today expanded its partnership with AWS to re-engineer key enterprise solutions with generative AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains/",
+      "originalUrl": "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/AdobeStock_608783292.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-optimize-pet-profiles-for-purinas-petfinder-application-using-amazon-rekognition-custom-labels-and-aws-step-functions.md",
+      "title": "Optimize pet profiles for Purina’s Petfinder application using Amazon Rekognition Custom Labels and AWS Step Functions",
+      "excerpt": "Purina US, a subsidiary of Nestle, has a long history of enabling people to more easily adopt pets through Petfinder, a digital marketplace of over 11,000 animal shelters and rescue groups across the US, Canada, and Mexico. As the leading pet adoption platform, Petfinder has helped millions of pets find",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-pet-profiles-for-purinas-petfinder-application-using-amazon-rekognition-custom-labels-and-aws-step-functions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-pet-profiles-for-purinas-petfinder-application-using-amazon-rekognition-custom-labels-and-aws-step-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/18/petfinder-dogs.jpg",
+          "width": 1000,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T09:00:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-data-sciences-student-showcases-machine-learning-to-us-legislators.md",
+      "title": "Data sciences student showcases machine learning to U.S. legislators",
+      "excerpt": "“By the end of the month, I found out I finished the race in the top 10% of people in the country.” Every month, AWS conducts a DeepRacer on different courses. Racers develop their machine learning models to finish the courses and deploy them on a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalo.edu/ai-data-science/news-events/news/articles.host.html/content/shared/engineering/home/articles/news-articles/2023/data-science-student-showcases-machine-learning-to-us-legislators.detail.html?rightcol_list_copy_copy_start=32",
+      "originalUrl": "https://www.buffalo.edu/ai-data-science/news-events/news/articles.host.html/content/shared/engineering/home/articles/news-articles/2023/data-science-student-showcases-machine-learning-to-us-legislators.detail.html?rightcol_list_copy_copy_start=32",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability.md",
+      "title": "LiveRamp Announces Identity Integration with AWS Entity Resolution to Increase Marketing Interoperability",
+      "excerpt": "It supports and enhances cross-channel media measurement workflows in AWS data lakes, media collaboration in AWS Clean Room collaborations, and artificial intelligence (AI) model development with Amazon SageMaker. RampID also helps brand marketers enrich ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/17/9899936.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/17/9899936.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-coresite-accelerates-aws-direct-connect-hosted-connections-on-the-open-cloud-exchange.md",
+      "title": "CoreSite Accelerates AWS Direct Connect Hosted Connections on the Open Cloud Exchange",
+      "excerpt": "CoreSite, a leading hybrid IT solutions provider and subsidiary of American Tower Corporation (NYSE: AMT) (“American Tower”), announced it will launch",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231016742177/en/CoreSite-Accelerates-AWS-Direct-Connect-Hosted-Connections-on-the-Open-Cloud-Exchange®",
+      "originalUrl": "https://www.businesswire.com/news/home/20231016742177/en/CoreSite-Accelerates-AWS-Direct-Connect-Hosted-Connections-on-the-Open-Cloud-Exchange®",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-15-does-amazons-artificial-intelligence-ai-investment-make-it-a-buy.md",
+      "title": "Does Amazon's Artificial Intelligence (AI) Investment Make It a Buy?",
+      "excerpt": "Anthropic specializes in generative AI, which can be deployed, for instance, for customer service, as an AI assistant, or for help with coding. Essentially, Anthropic has a tool kit that helps its clients develop AI models that suit their needs. Anthropic rolled out AI assistant Claude in March.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/10/15/does-amazons-4-billion-artificial-intelligence-ai/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/15/does-amazons-4-billion-artificial-intelligence-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/749766/person-working-on-data-servers.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-15T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-wfa-aws-stream-2023-powerchair-football-world-cup.md",
+      "title": "WFA, AWS stream 2023 Powerchair Football World Cup",
+      "excerpt": "Machine learning solutions and Amazon SageMaker and Amazon Rekognition are also on WFA’s radar, as the team works on using AI for ball tracking, camera operation automation, and other applications. The goal is to use the power of AI/ML to reduce the ...",
+      "sourceUrl": null,
+      "webUrl": "https://advanced-television.com/2023/10/13/wfa-aws-stream-2023-powerchair-football-world-cup/",
+      "originalUrl": "https://advanced-television.com/2023/10/13/wfa-aws-stream-2023-powerchair-football-world-cup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-13T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Advanced Television",
+        "domain": "advanced-television.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-aws-ceo-generative-ai-will-pretty-much-change-every-application-consumers-interact-with.md",
+      "title": "AWS CEO: Generative AI will 'pretty much change' every application consumers interact with",
+      "excerpt": "Amazon Web Services CEO Adam Selipsky joins 'Squawk on the Street' to discuss how artificial intelligence has internally changed AWS' business, how the new technology may have changed the tech company's workforce deployment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2023/10/12/aws-ceo-generative-ai-will-pretty-much-change-every-application-consumers-interact-with.html",
+      "originalUrl": "https://www.cnbc.com/video/2023/10/12/aws-ceo-generative-ai-will-pretty-much-change-every-application-consumers-interact-with.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107316149-16971249651697124961-31569403119-1080pnbcnews.jpg?v=1697125428&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-amazons-october-prime-day-is-over-these-are-the-best-deals-you-can-still-get.md",
+      "title": "Amazon's October Prime Day is over. These are the best deals you can still get",
+      "excerpt": "The Amazon Prime Big Deal Days, aka the October Prime Day sale, is technically over --but that doesn't mean that you've fully missed your chance to save. We're still finding doorbuster savings on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-amazon-prime-day-deals/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-amazon-prime-day-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/11/3b305fb4-33e1-4eb0-89ad-f41a2c1b663f/thumbnail/1200x630/3ed909ac0351053593d904a191dbb9e1/main-image-hero.jpg?v=18a5d3569ab1a3ca759fe14d213f7845",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-improve-performance-of-falcon-models-with-amazon-sagemaker.md",
+      "title": "Improve performance of Falcon models with Amazon SageMaker",
+      "excerpt": "What is the optimal framework and configuration for hosting large language models (LLMs) for text-generating generative AI applications? Despite the abundance of options for serving LLMs, this is a hard question to answer due to the size of the models, varying model architectures, performance requirements",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/11/improve-falcon-performance-1257x630.jpg",
+          "width": 1257,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T09:28:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-index-your-web-crawled-content-using-the-new-web-crawler-for-amazon-kendra.md",
       "title": "Index your web crawled content using the new Web Crawler for Amazon Kendra",
       "excerpt": "In this post, we show how to index information stored in websites and use the intelligent search in Amazon Kendra to search for answers from content stored in internal and external websites. In addition, the ML-powered intelligent search can accurately get answers for your questions from unstructured",
@@ -792,583 +1375,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-uaes-falcon-180b-breaks-boundaries.md",
-      "title": "UAE’s Falcon 180B breaks boundaries",
-      "excerpt": "Falcon 180B, the most advanced open Large Language Model (LLM) is available via Amazon SageMaker Jumpstart Dubai, UAE – In a monumental stride for the Middle East's technology landscape, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-k6erlmyy",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-k6erlmyy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-amazon-is-the-apex-predator-of-our-platform-era.md",
-      "title": "Amazon Is the Apex Predator of Our Platform Era",
-      "excerpt": "Mr. Doctorow is the author, most recently, of “The Internet Con: How to Seize the Means of Computation.” The Federal Trade Commission’s chair, Lina Khan, has brought her long-awaited ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/09/27/opinion/amazon-ftc-antitrust-monopoly.html",
-      "originalUrl": "https://www.nytimes.com/2023/09/27/opinion/amazon-ftc-antitrust-monopoly.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/09/27/opinion/27doctorow/27doctorow-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-passur-completes-migration-to-aws.md",
-      "title": "PASSUR Completes Migration to AWS",
-      "excerpt": "This website uses cookies to enhance your browsing experience and serve personalized content. Privacy Policy",
-      "sourceUrl": null,
-      "webUrl": "https://www.aviationpros.com/airports/airport-technology/press-release/53073510/passur-aerospace-passur-completes-migration-to-aws",
-      "originalUrl": "https://www.aviationpros.com/airports/airport-technology/press-release/53073510/passur-aerospace-passur-completes-migration-to-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.aviationpros.com/files/base/cygnus/cavc/image/static/logo/site_logo.png?auto=format,compress&fit=fill&fill=solid&fill-color=000000&w=1200&h=627",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AviationPros",
-        "domain": "aviationpros.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-us-sues-amazon-in-a-monopoly-case-that-could-be-existential-for-the-retail-giant.md",
-      "title": "U.S. sues Amazon in a monopoly case that could be existential for the retail giant",
-      "excerpt": "U.S. regulators and 17 states sued Amazon on Tuesday in a pivotal case that could prove existential for the retail giant. In the sweeping antitrust lawsuit, the Federal Trade Commission and a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2023/09/26/1191099421/amazon-ftc-lawsuit-antitrust-monopoly",
-      "originalUrl": "https://www.npr.org/2023/09/26/1191099421/amazon-ftc-lawsuit-antitrust-monopoly",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2023/08/03/gettyimages-1500412813_wide-fe877b4d2dfaf13b9b3bfb905ecb51318fdbf06c-s1400-c100.jpg",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-postcards-from-the-edge-cloud-to-edge-consistency-is-everything-says-aws.md",
-      "title": "Postcards from the edge | Cloud-to-edge consistency is everything, says AWS",
-      "excerpt": "How do you divvy-up 5G workloads across the edge and cloud? AWS argues for consistency across the whole lot, unsurprisingly; but its response is also measured.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rcrwireless.com/20230926/industry-4-0/postcards-from-the-edge-cloud-to-edge-consistency-is-everything-says-aws",
-      "originalUrl": "https://www.rcrwireless.com/20230926/industry-4-0/postcards-from-the-edge-cloud-to-edge-consistency-is-everything-says-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/09/Critical-Edge-again.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RCR Wireless News",
-        "domain": "rcrwireless.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-eot-aws-partner-to-deliver-ai-optimized-industrial-assets.md",
-      "title": "EOT, AWS Partner to Deliver AI-Optimized Industrial Assets",
-      "excerpt": "EOT and AWS’ agreement calls for deploying the next generation of predictive maintenance by combining generative AI with edge computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hartenergy.com/exclusives/eot-aws-partner-deliver-ai-optimized-industrial-assets-206583",
-      "originalUrl": "https://www.hartenergy.com/exclusives/eot-aws-partner-deliver-ai-optimized-industrial-assets-206583",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hartenergy.com/sites/default/files/styles/max_650x650/public/image/2023/09/eot-aws-partner-deliver-ai-optimized-industrial-assets.jpg?itok=1gGQKnUt",
-          "width": 650,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hart Energy",
-        "domain": "hartenergy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-aws-report-cloud-adoption-in-nigeria-set-to-yield-ngn-302-trillion-economic-uplift-by-2033-new-study-reveals.md",
-      "title": "AWS report: Cloud adoption in Nigeria set to yield NGN $30.2 trillion economic uplift by 2033, new study reveals",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), commissioned a new report quantifying the",
-      "sourceUrl": null,
-      "webUrl": "https://ynaija.com/aws-report-cloud-adoption-in-nigeria-set-to-yield-ngn-30-2-trillion-economic-uplift-by-2033-new-study-reveals/",
-      "originalUrl": "https://ynaija.com/aws-report-cloud-adoption-in-nigeria-set-to-yield-ngn-30-2-trillion-economic-uplift-by-2033-new-study-reveals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ynaija.com/wp-content/uploads/2023/09/IMG-20230926-WA0004.jpg",
-          "width": 683,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YNaija",
-        "domain": "ynaija.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-passur-completes-migration-to-aws.md",
-      "title": "PASSUR Completes Migration to AWS",
-      "excerpt": "Leveraging the power of AWS supports operational and global market expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-passur-completes-migration-aws-/2023/09/26/9887484.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-passur-completes-migration-aws-/2023/09/26/9887484.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-three-challenges-with-adopting-domain-specific-llms.md",
-      "title": "Three Challenges With Adopting Domain-Specific LLMs",
-      "excerpt": "For example, the Falcon-7B models were initially trained on AWS SageMaker using 384 A100 40GB GPUs in P4d instances. To run an inference with Falcon-7B, a minimum of 16GB of memory is necessary. Fine-tuning the Falcon 7B model, too, presents obstacles with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/26/three-challenges-with-adopting-domain-specific-llms/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/26/three-challenges-with-adopting-domain-specific-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f2d686d44b66e05156c5e3c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/26/three-challenges-with-adopting-domain-specific-llms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/26/three-challenges-with-adopting-domain-specific-llms/amp/",
-      "publishedDateTime": "2023-09-26T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-amazon-invests-up-to-4-billion-in-anthropic-ai-in-exchange-for-minority-stake-and-further-aws-integration.md",
-      "title": "Amazon invests up to $4 billion in Anthropic AI in exchange for minority stake and further AWS integration",
-      "excerpt": "Amazon said on Monday that it’s investing up to $4 billion into the artificial intelligence company Anthropic in exchange for partial ownership and Anthropic’s greater use of Amazon Web Services (AWS), the e-commerce giant’s cloud computing platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/09/25/tech/amazon-invests-anthropic-ai/index.html",
-      "originalUrl": "https://www.cnn.com/2023/09/25/tech/amazon-invests-anthropic-ai/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230925085542-anthropic-artificial-intelligence-company-restricted.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/09/25/tech/amazon-invests-anthropic-ai/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/09/25/tech/amazon-invests-anthropic-ai/index.html",
-      "publishedDateTime": "2023-09-25T23:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-aws-at-dtw23-generative-ai-to-transform-telco-cx-network-operations-and-business-performance.md",
-      "title": "AWS at DTW23: Generative AI to Transform Telco CX, Network Operations and Business Performance",
-      "excerpt": "Amazon Web Services (AWS), a global cloud computing provider, showcased it's suite of solutions for the telecoms industry at DTW23's AWS Next Level balcony",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/conferences-expos-and-trade-shows/33358-aws-at-dtw23-generative-ai-to-transform-telco-cx-network-operations-and-business-performance",
-      "originalUrl": "https://www.thefastmode.com/conferences-expos-and-trade-shows/33358-aws-at-dtw23-generative-ai-to-transform-telco-cx-network-operations-and-business-performance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/1deb0eeb092a613d579a5b63b078edfa.jpg?t=20230926_033003",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-amazon-announces-4b-investment-in-ai-company-anthropic.md",
-      "title": "Amazon announces $4B investment in AI company Anthropic",
-      "excerpt": "25 (UPI) --Amazon said on Monday it will pay up to $4 billion for a minority stake in the artificial intelligence company ... will allow Anthropic will use AWS Trainium and Inferentia chips ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2023/09/25/Amazon-Anthropic-minority-stake-AI/8591695644117/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2023/09/25/Amazon-Anthropic-minority-stake-AI/8591695644117/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/8591695644117/2023/1/3975ef2cb59fa3e3bb6cf542ecec035d/v1.5/Amazon-announces-4B-investment-in-AI-company-Anthropic.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2023/09/25/Amazon-Anthropic-minority-stake-AI/8591695644117/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/09/25/Amazon-Anthropic-minority-stake-AI/8591695644117/",
-      "publishedDateTime": "2023-09-25T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-amazon-takes-a-big-stake-in-the-ai-start-up-anthropic.md",
-      "title": "Amazon Takes a Big Stake in the A.I. Start-Up Anthropic",
-      "excerpt": "With its investment of up to $4 billion, Amazon is seeking a bigger footprint in A.I. development, one already established by rivals like Microsoft and Google. By Adam Satariano and Cade Metz Adam ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/09/25/technology/amazon-anthropic-ai-deal.html",
-      "originalUrl": "https://www.nytimes.com/2023/09/25/technology/amazon-anthropic-ai-deal.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/09/26/multimedia/25anthropic-amazon-print-wphg/25anthropic-amazon-wphg-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

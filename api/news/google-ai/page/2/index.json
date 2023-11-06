@@ -2,6 +2,277 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-04-google-deepmind-open-sources-largest-ever-robotics-dataset.md",
+      "title": "Google DeepMind Open-Sources Largest-Ever Robotics Dataset",
+      "excerpt": "Google DeepMind has launched a new set of resources for general-purpose robotics learning after teaming up with 33 academic labs",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/google-deepmind-open-sources-largest-ever-robotics-dataset/",
+      "originalUrl": "https://analyticsindiamag.com/google-deepmind-open-sources-largest-ever-robotics-dataset/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/Screenshot-2023-10-04-at-5.15.44-PM-1300x737.png",
+          "width": 1300,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind.md",
+      "title": "Less is a lot more when it comes to AI, says Google's DeepMind",
+      "excerpt": "Neural network AI programs that are reduced by 75% of their functionality can achieve the same power as programs twice their size.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
+      "originalUrl": "https://www.zdnet.com/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/500d64d21c2344b027de10586bf42bbe485df102/2023/10/01/d14d4b26-5f10-4b88-b288-2f113d6e1992/building-neural-networks-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
+      "publishedDateTime": "2023-10-03T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-scaling-up-learning-across-many-different-robot-types.md",
+      "title": "Scaling up learning across many different robot types",
+      "excerpt": "We are launching a new set of resources for general-purpose robotics learning across different robot types, or embodiments. Together with partners from 34 academic labs we have pooled data from 22 different robot types to create the Open X-Embodiment dataset. We also release RT-1-X, a robotics transformer",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/scaling-up-learning-across-many-different-robot-types",
+      "originalUrl": "https://www.deepmind.com/blog/scaling-up-learning-across-many-different-robot-types",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/651af305a8617d11327dde0c_Header_Final.png",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-deepmind-rolls-out-human-style-encouragement-to-enhance-ai-math-abilities.md",
+      "title": "DeepMind rolls out human-style encouragement to enhance AI math abilities",
+      "excerpt": "Google DeepMind researchers have developed a new technique to improve the math ability of AI language models by using human-style encouragement. The technique, called Optimization by PROmpting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/post/deepmind-rolls-out-human-style-encouragement-to-enhance-ai-math-abilities",
+      "originalUrl": "https://www.itworldcanada.com/post/deepmind-rolls-out-human-style-encouragement-to-enhance-ai-math-abilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/post/deepmind-rolls-out-human-style-encouragement-to-enhance-ai-math-abilities?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/post/deepmind-rolls-out-human-style-encouragement-to-enhance-ai-math-abilities?amp=1",
+      "publishedDateTime": "2023-09-29T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study.md",
+      "title": "AI language models can exceed PNG and FLAC in lossless compression, says study",
+      "excerpt": "In an arXiv research paper titled \"Language Modeling Is Compression,\" researchers detail their discovery that the DeepMind large language model (LLM) called Chinchilla 70B can perform lossless ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-will-google-deepmind-ai-help-or-hinder-humans.md",
+      "title": "Will Google Deepmind AI help or hinder humans?",
+      "excerpt": "Torricke, Head of Global Communications & Marketing, Google Deepmind, explored how AI can help solve humanity's biggest challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibc.org/video/will-google-deepmind-ai-help-or-hinder-humans/9964.article",
+      "originalUrl": "https://www.ibc.org/video/will-google-deepmind-ai-help-or-hinder-humans/9964.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/5/2/4/25524_willgoogledeepmindaihelporhinderhumans_684313.jpg",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBC",
+        "domain": "ibc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-google-deepmind-alum-raises-14-million-for-new-ai-venture-firm.md",
       "title": "Google DeepMind alum raises $14 million for new AI venture firm",
       "excerpt": "Vishal Maini, a former DeepMind researcher, founded Mythos earlier this year and has raised $14 million from more than four dozen investors, according to a filing this month.",
@@ -1147,285 +1418,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards.md",
-      "title": "Google DeepMind co-founder wants US to link AI chip sales to minimum artificial intelligence standards",
-      "excerpt": "DeepMind's co-founder, Mustafa Suleyman, has called on the US government to enforce minimum standards for AI companies to be eligible to purchase Nvidia's AI chips. He believes that buyers should agree to ethically use the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/articleshow/103290407.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/articleshow/103290407.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-103290407,imgsize-24318,width-800/103290407.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/amp_articleshow/103290407.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/amp_articleshow/103290407.cms",
-      "publishedDateTime": "2023-09-01T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-google-deepmind-co-founder-says-us-should-enforce-ai-standards-for-ethical-use.md",
-      "title": "Google DeepMind co-founder says US should enforce AI standards for ethical use",
-      "excerpt": "The co-founder of artificial intelligence firm DeepMind, now owned by Google (NASDAQ:GOOG) (NASDAQ:GOOGL), said that the U.S. should let Nvidia's (NASDAQ:NVDA) artificial intelligence chips only ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/4008333-google-deepmind-co-founder-us-should-enforce-ai-standards-for-ethical-use",
-      "originalUrl": "https://seekingalpha.com/news/4008333-google-deepmind-co-founder-us-should-enforce-ai-standards-for-ethical-use",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1464561797/image_1464561797.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-ft.md",
-      "title": "Google DeepMind co-founder calls for US to enforce AI standards - FT",
-      "excerpt": "Sept 1 (Reuters) - The U.S. should allow Nvidia's NVDA.Oartificial intelligence (AI) chips only to buyers who agree to ethically use the technology, Google DeepMind's co-founder Mustafa Suleyman ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-ft",
-      "originalUrl": "https://www.nasdaq.com/articles/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-ft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-financial-times-reports.md",
-      "title": "Google DeepMind co-founder calls for US to enforce AI standards, Financial Times reports",
-      "excerpt": "Sept 1 (Reuters) - The U.S. should allow Nvidia's (NVDA.O) artificial intelligence (AI) chips only to buyers who agree to ethically use the technology, Google DeepMind's co-founder Mustafa ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/google-deepmind-co-founder-calls-us-enforce-ai-standards-ft-2023-09-01/",
-      "originalUrl": "https://www.reuters.com/technology/google-deepmind-co-founder-calls-us-enforce-ai-standards-ft-2023-09-01/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/SfvtXO5b9tqBa7D2ppk7K5Jt-qw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SWZJB5GLRJJI5JAYRAWLNCPPNE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T22:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-bringing-generative-ai-in-search-to-more-people-around-the-world.md",
-      "title": "Bringing generative AI in Search to more people around the world",
-      "excerpt": "We’re bringing generative AI capabilities in Search (SGE) to more people, making  Search Labs available in India and Japan.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/",
-      "originalUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SGE_Expansion_hero.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-india-japan/amp/",
-      "publishedDateTime": "2023-08-30T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-7-ways-businesses-are-using-google-cloud-ai.md",
-      "title": "7 ways businesses are using Google Cloud AI",
-      "excerpt": "At Google Cloud Next 2023, thousands of people gathered in San Francisco to learn about the newest updates from Google Cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/google-cloud/companies-using-google-cloud-ai/",
-      "originalUrl": "https://blog.google/products/google-cloud/companies-using-google-cloud-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GCN23_GE_BlogHeader_2436x1200_9.width-1300.png",
-          "width": 1300,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/google-cloud/companies-using-google-cloud-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/companies-using-google-cloud-ai/amp/",
-      "publishedDateTime": "2023-08-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -2,6 +2,265 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-19-the-fall-of-babylon-is-a-warning-for-ai-unicorns.md",
+      "title": "The Fall of Babylon Is a Warning for AI Unicorns",
+      "excerpt": "When it went public in 2021, Babylon Health was valued at over $4 billion. Now it has declared bankruptcy. Insiders say it could never live up to its hype.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/babylon-health-warning-ai-unicorns/",
+      "originalUrl": "https://www.wired.com/story/babylon-health-warning-ai-unicorns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6508e98c779f4cdc81c14771/191:100/w_1280,c_limit/Babylon-Health-Warning-To-AI-Unicorns-Business-1208225667.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-riding-the-ai-tsunami-the-next-wave-of-generative-intelligence.md",
+      "title": "Riding the AI tsunami: The next wave of generative intelligence",
+      "excerpt": "With an AI tsunami seemingly inevitable, we all must be rugged and flexible, adaptive and embracing of generative AI and other new tools.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/riding-the-ai-tsunami-the-next-wave-of-generative-intelligence/",
+      "originalUrl": "https://venturebeat.com/ai/riding-the-ai-tsunami-the-next-wave-of-generative-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/10/shutterstock_279476240-e1694623197350.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-17T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-16-2030-artificial-intelligence-ai-for-security-market-research-report-booming-worldwide.md",
+      "title": "2030, Artificial Intelligence (AI) for Security Market Research Report | Booming Worldwide",
+      "excerpt": "The Artificial Intelligence (AI) for Security market research report and industry analysis ... The Juniper Network, Inc, Cisco Systems Inc, Facebook Inc, Broadcom Inc. (Symantec Corporation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34651058/2030-artificial-intelligence-ai-for-security-market-research-report-booming-worldwide",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34651058/2030-artificial-intelligence-ai-for-security-market-research-report-booming-worldwide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34651058",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34651058",
+      "publishedDateTime": "2023-09-16T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-09-16-new-research-reveals-weakness-in-facebooks-fake-news-policies.md",
+      "title": "New research reveals weakness in Facebook’s fake news policies",
+      "excerpt": "Facebook's design makes it unable to control ... “There is significant attention given to social media platforms and artificial intelligence governance today. \"However, this discussion largely ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.guampdn.com/news/national/new-research-reveals-weakness-in-facebook-s-fake-news-policies/article_472d6aa9-a269-52b7-a1ae-7f0564ccf0b9.html",
+      "originalUrl": "https://www.guampdn.com/news/national/new-research-reveals-weakness-in-facebook-s-fake-news-policies/article_472d6aa9-a269-52b7-a1ae-7f0564ccf0b9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-15T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pacific Daily News",
+        "domain": "guampdn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-k-state-psychology-professors-research-finds-ai-chatbot-can-infer-personality.md",
+      "title": "K-State psychology professor’s research finds AI chatbot can infer personality",
+      "excerpt": "TOPEKA, Kan. (WIBW) - A Kansas State University psychology professor’s research finds that an artificial intelligence (AI) chatbot can infer someone’s personality. Kansas State University ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wibw.com/2023/09/14/k-state-psychology-professors-research-finds-ai-chatbot-can-infer-personality/",
+      "originalUrl": "https://www.wibw.com/2023/09/14/k-state-psychology-professors-research-finds-ai-chatbot-can-infer-personality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WIBW",
+        "domain": "wibw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-new-research-reveals-weakness-in-facebooks-fake-news-policies.md",
+      "title": "New research reveals weakness in Facebook’s fake news policies",
+      "excerpt": "Facebook's design makes it unable to control ... “There is significant attention given to social media platforms and artificial intelligence governance today. \"However, this discussion largely ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktbs.com/news/national/new-research-reveals-weakness-in-facebook-s-fake-news-policies/article_35d4e5db-71dc-5575-ab5c-731a539a7027.html",
+      "originalUrl": "https://www.ktbs.com/news/national/new-research-reveals-weakness-in-facebook-s-fake-news-policies/article_35d4e5db-71dc-5575-ab5c-731a539a7027.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/ktbs.com/content/tncms/assets/v3/editorial/e/7f/e7f99aaf-9cb9-52b7-b70a-7323c7d6e85d/6504ad5cd2366.image.jpg?crop=1280%2C672%2C0%2C66&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTBS",
+        "domain": "ktbs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-nasa-created-a-new-position-to-lead-ufo-research-and-appointed-somebody-but-wont-share-who-it-is.md",
       "title": "NASA created a new position to lead UFO research and appointed somebody, but won't share who it is",
       "excerpt": "NASA's new UFO (or UAP) research plan includes a chief of these mysterious phenomena. The agency is keeping the role anonymous because of harassment.",
@@ -1198,300 +1457,6 @@
         "Facebook AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-only-four-per-cent-of-businesses-in-canada-report-using-artificial-intelligence-ai-tmu-study.md",
-      "title": "Only four per cent of businesses in Canada report using artificial intelligence (AI): TMU study",
-      "excerpt": "Across Canada, 4 per cent of businesses report that they are using AI in any way in their business. Québec leads in Canada at a five per cent adoption rate. Ontario, BC, and Saskatchewan follow closely at four per cent. Alberta businesses follow at three per cent. Manitoba, and the combined Atlantic & Territories region trail at two per cent.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/only-four-per-cent-of-businesses-in-canada-report-using-artificial-intelligence-ai-tmu-study-1032609735",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/only-four-per-cent-of-businesses-in-canada-report-using-artificial-intelligence-ai-tmu-study-1032609735",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-ive-made-27-million-in-revenue-in-the-last-6-months-by-selling-ai-courses-and-using-ai-tools-to-cut-costs-heres-how.md",
-      "title": "I've made $2.7 million in revenue in the last 6 months by selling AI courses and using AI tools to cut costs. Here's how.",
-      "excerpt": "I started sharing what I was learning in late 2022 on Facebook and via email with ... People wanted to learn about generative AI but already felt behind Talking with my audience via direct messages and market-research calls, I found that business owners ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9",
-      "originalUrl": "https://www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64f07bcbf8c86200196140eb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9?amp",
-      "publishedDateTime": "2023-09-05T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-how-704-billion-money-manager-alliancebernstein-uses-ai-across-everything-from-research-to-operations-to-save-hundreds-of-thousands.md",
-      "title": "How $704 billion money manager AllianceBernstein uses AI across everything from research to operations to save hundreds of thousands",
-      "excerpt": "Seven years ago, the massive money manager AllianceBernstein set out on a mission to transform itself with AI and data science ... and head of quantitative research, told Insider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/alliancebernstein-ai-and-data-science-strategy-2023-8",
-      "originalUrl": "https://www.businessinsider.com/alliancebernstein-ai-and-data-science-strategy-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5de7f36ffd9db23def540d73?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-intel-wants-to-beat-bias-ai-training-data.md",
-      "title": "Intel wants to beat bias AI training data",
-      "excerpt": "He optimistically noted that, despite Nvidia's lead, it won't take long for Intel to start racking up orders for AI chips. \"They're doing well. We all have to give them credit,\" Gelsinger said. \"But we're going to show up.\" Plus, with Intel's recent debut ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias-ai-training-data/",
-      "originalUrl": "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias-ai-training-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/746485/featured-daily-upside-image.png",
-          "width": 1390,
-          "height": 927,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-04T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-ai-is-not-a-threat-to-human-jobs-its-a-catalyst-for-growth-and-innovation.md",
-      "title": "AI is not a threat to human jobs. It’s a catalyst for growth and innovation",
-      "excerpt": "The workforce will change, but it won’t be replaced. And what AI will help humanity generate is well worth getting excited about.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-is-not-a-threat-to-human-jobs-its-a-catalyst-for-growth-and-innovation/",
-      "originalUrl": "https://venturebeat.com/ai/ai-is-not-a-threat-to-human-jobs-its-a-catalyst-for-growth-and-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_expressionist_painting_white_collar_workers_typing_on_l_5476dd74-cce5-4596-a125-177e6821aebd.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-02T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-ai-may-influence-whether-you-can-get-pain-medication.md",
-      "title": "AI may influence whether you can get pain medication",
-      "excerpt": "Even critics of drug-tracking systems and algorithms say there is a place for them in reducing the harms of the opioid crisis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/health/artificial-intelligence-pain-medication/",
-      "originalUrl": "https://www.popsci.com/health/artificial-intelligence-pain-medication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2023/08/30/Depositphotos_475432208_L-1.jpg?auto=webp",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/health/artificial-intelligence-pain-medication/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/health/artificial-intelligence-pain-medication/?amp",
-      "publishedDateTime": "2023-08-30T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

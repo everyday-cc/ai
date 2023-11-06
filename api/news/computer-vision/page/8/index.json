@@ -2,21 +2,21 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2023-05-17-face-recognition-systems-market-2023-2030-size-and-driving-growth.md",
-      "title": "Face Recognition Systems Market 2023-2030 Size and Driving Growth",
-      "excerpt": "The Face Recognition Systems Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends",
+      "path": "_news/2023-07-27-privacy-group-challenges-ryanairs-use-of-facial-recognition.md",
+      "title": "Privacy group challenges Ryanair's use of facial recognition",
+      "excerpt": "Digital rights group NOYB on Thursday filed a complaint against Ryanair , alleging that it is violating customers' rights to data protection by using facial recognition to verify their identity when booking through online travel agents.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17",
+      "webUrl": "https://www.reuters.com/business/aerospace-defense/privacy-group-challenges-ryanairs-use-facial-recognition-2023-07-27/",
+      "originalUrl": "https://www.reuters.com/business/aerospace-defense/privacy-group-challenges-ryanairs-use-facial-recognition-2023-07-27/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://www.reuters.com/resizer/dIDyVgha2Ldzns3rcSc6hqCdXt0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FBR3K75CPFPAZMM63XCHD3ESFE.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T22:13:00-07:00",
+      "publishedDateTime": "2023-07-26T22:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-17-are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
-      "title": "Are you who you say you are? TSA tests facial recognition technology to boost airport security",
-      "excerpt": "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country. \"What we are trying to ...",
+      "path": "_news/2023-07-27-researchers-use-slam-to-improve-object-recognition.md",
+      "title": "Researchers use SLAM to improve object recognition",
+      "excerpt": "Researchers from MIT’s department of mechanical engineering are working on improving object recognition for robots. The researchers have developed a monocular Simultaneous Localization And ...",
       "sourceUrl": null,
-      "webUrl": "https://abc7news.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/",
-      "originalUrl": "https://abc7news.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/",
+      "webUrl": "https://sdtimes.com/object-recognition/researches-use-slam-to-improve-object-recognition/",
+      "originalUrl": "https://sdtimes.com/object-recognition/researches-use-slam-to-improve-object-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://sdtimes.com/wp-content/uploads/2015/07/0727.sdt-mit-slam.jpg",
+          "width": 639,
+          "height": 426,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,13 +76,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abc7news.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/",
-      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/",
-      "publishedDateTime": "2023-05-16T22:02:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC7 San Francisco",
-        "domain": "abc7news.com",
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud.md",
+      "title": "alwaysAI, a Leader in Computer Vision, Announces Integration with Autodesk Construction Cloud",
+      "excerpt": "SAN DIEGO, July 26, 2023 (GLOBE NEWSWIRE) -- alwaysAI, a leading computer vision solutions provider, today announced a new integration with Autodesk Construction Cloud®, a portfolio of software ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8879916/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/",
+      "originalUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8879916/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2016/08/81e5444011ea410282b5bcd2bee64934_38691788_ver1.0.jpg?w=2000&#038;ssl=1",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKRN-TV",
+        "domain": "wkrn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -93,26 +145,25 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AI in Security"
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-05-17-computer-vision-system-market-research-2023-2030.md",
-      "title": "Computer Vision System Market Research | 2023-2030",
-      "excerpt": "Research Reports has published a new report titled as \"Computer Vision System Market\" by End User (Automotive,",
+      "path": "_news/2023-07-26-a-painting-newly-attributed-to-raphael-by-ai-facial-recognition-goes-on-view-for-the-first-time.md",
+      "title": "A Painting Newly Attributed to Raphael by A.I. Facial Recognition Goes on View for the First Time",
+      "excerpt": "A painting of the Madonna and child is on view in the U.K. city of Bradford after A.I. determined it was the work of Raphael.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-05-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-05-16",
+      "webUrl": "https://news.artnet.com/art-world/a-painting-newly-attributed-to-raphael-by-a-i-facial-recognition-goes-on-view-for-the-first-time-2341923",
+      "originalUrl": "https://news.artnet.com/art-world/a-painting-newly-attributed-to-raphael-by-a-i-facial-recognition-goes-on-view-for-the-first-time-2341923",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://p-news-upload.storage.googleapis.com/2023/01/de-brecy-raphael-comparison.jpg",
+          "width": 1194,
+          "height": 470,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -120,23 +171,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T17:45:00-07:00",
+      "ampWebUrl": "https://news.artnet.com/art-world/a-painting-newly-attributed-to-raphael-by-a-i-facial-recognition-goes-on-view-for-the-first-time-2341923/amp-page",
+      "cdnAmpWebUrl": "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/a-painting-newly-attributed-to-raphael-by-a-i-facial-recognition-goes-on-view-for-the-first-time-2341923/amp-page",
+      "publishedDateTime": "2023-07-26T08:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Artnet",
+        "domain": "artnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -150,116 +192,12 @@
       ]
     },
     {
-      "path": "_news/2023-05-16-ministers-looking-at-putting-facial-recognition-technology-in-police-bodycams.md",
-      "title": "Ministers looking at putting facial recognition technology in police bodycams",
-      "excerpt": "Government’s intentions revealed in document produced for surveillance camera commissioner",
+      "path": "_news/2023-07-26-foreign-object-in-the-eye.md",
+      "title": "Foreign Object in the Eye",
+      "excerpt": "There are several ways to remove a foreign object from your eye. It’s important to see a doctor to remove a sharp object, such as a glass or metal fragment. A foreign object in the eye is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams",
-      "originalUrl": "https://www.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/973bd12a9c69e4d93f70f9900a8300f9e302bb63/0_93_5312_3187/master/5312.jpg?width=620&quality=85&auto=format&fit=max&s=cea2774a8b212916ecedeb4e5451b693",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/16/ministers-calling-for-facial-recognition-technology-in-police-bodycams",
-      "publishedDateTime": "2023-05-16T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-2023-face-recognition-systems-market-global-industry-analysis-till-2030.md",
-      "title": "2023, Face Recognition Systems Market | Global Industry Analysis Till 2030",
-      "excerpt": "Face Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-face-recognition-systems-market-global-industry-analysis-till-2030-2023-05-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-face-recognition-systems-market-global-industry-analysis-till-2030-2023-05-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T23:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns.md",
-      "title": "TSA is testing facial recognition at more airports, raising privacy concerns",
-      "excerpt": "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/",
-      "originalUrl": "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/",
+      "webUrl": "https://www.healthline.com/health/eye-foreign-object-in",
+      "originalUrl": "https://www.healthline.com/health/eye-foreign-object-in",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -269,11 +207,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T17:50:00-07:00",
+      "publishedDateTime": "2023-07-25T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "Healthline",
+        "domain": "healthline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -288,21 +226,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-16-computer-vision-system-market-research-2023-2030.md",
-      "title": "Computer Vision System Market Research | 2023-2030",
-      "excerpt": "Research Reports has published a new report titled as \"Computer Vision System Market\" by End User (Automotive,",
+      "path": "_news/2023-07-26-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-05-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-05-15",
+      "webUrl": "https://techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 311,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
           "width": 1200,
-          "height": 630,
+          "height": 798,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -310,16 +248,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T17:43:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "publishedDateTime": "2023-07-25T14:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -327,144 +265,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-tsa-is-testing-facial-recognition-at-us-airports-heres-what-that-means-for-you.md",
-      "title": "TSA is testing facial recognition at U.S. airports. Here's what that means for you",
-      "excerpt": "The TSA hopes new technology can reduce wait times at U.S. airports while keeping passengers safe. Meanwhile, lawmakers worry about privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/tsa-is-testing-facial-recognition-at-u-s-airports-heres-what-that-means-for-you/",
-      "originalUrl": "https://www.zdnet.com/article/tsa-is-testing-facial-recognition-at-u-s-airports-heres-what-that-means-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 288,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/837b0af64e0550442a464f17155d73195b7adc7e/2023/05/15/8c20a0c0-55f8-429b-b325-50833ef08105/gettyimages-1252211190.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tsa-is-testing-facial-recognition-at-u-s-airports-heres-what-that-means-for-you/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tsa-is-testing-facial-recognition-at-u-s-airports-heres-what-that-means-for-you/",
-      "publishedDateTime": "2023-05-15T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias.md",
-      "title": "Facial recognition technology raises concerns over misidentification, implicit bias",
-      "excerpt": "Using artificial intelligence can save you precious time. Whether you need a grocery list or to sort through thousands of job applicants, there’s likely a bot that can get it done.",
-      "sourceUrl": null,
-      "webUrl": "https://nbc-2.com/features/tech/2023/05/15/facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias/",
-      "originalUrl": "https://nbc-2.com/features/tech/2023/05/15/facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nbc-2.com/wp-content/uploads/2023/05/NBC2-AI-facial-recognition.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nbc-2.com/features/tech/2023/05/15/facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias/amp/",
-      "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2023/05/15/facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias/amp/",
-      "publishedDateTime": "2023-05-15T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC2",
-        "domain": "nbc-2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
-      "title": "Are you who you say you are? TSA tests facial recognition technology to boost airport security",
-      "excerpt": "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/",
-      "originalUrl": "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.boston.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_79172-6461bb4fb69eb-scaled.jpg",
-          "width": 2560,
-          "height": 1708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1",
-      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1",
-      "publishedDateTime": "2023-05-15T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston.com",
-        "domain": "boston.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -475,25 +275,25 @@
       "topics": [
         "Computer Vision",
         "AI",
-        "AI in Security"
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_news/2023-05-15-facial-recognition-devices-market-research-2030.md",
-      "title": "Facial Recognition Devices Market Research, 2030",
-      "excerpt": "Research Reports has published a new report titled as \"Facial Recognition Devices Market\" by End User (Security",
+      "path": "_news/2023-07-26-should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.md",
+      "title": "Should police use facial-recognition technology? Ann Arbor to vote on issue",
+      "excerpt": "ANN ARBOR, MI — Ann Arbor is once again considering restricting police use of a facial-recognition technology and city officials are planning to vote on the issue soon. City Council Member Linh Song, D-2nd Ward, advised her council colleagues July 17 to expect a resolution to come forward possibly in the next two months.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-devices-market-research-2030-2023-05-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-devices-market-research-2030-2023-05-15",
+      "webUrl": "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html",
+      "originalUrl": "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4HBWD7NCY5AI3JU3J3R3MTAIBU.jpeg",
+          "width": 3000,
+          "height": 2250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -501,23 +301,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T06:23:00-07:00",
+      "ampWebUrl": "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp",
+      "publishedDateTime": "2023-07-25T13:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -531,21 +322,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-15-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
-      "title": "TSA tests facial recognition technology to boost airport security",
-      "excerpt": "The technology is currently in 16 airports, but critics have have raised concerns about questions of bias in facial recognition technology.",
+      "path": "_news/2023-07-25-esrb-proposes-using-facial-recognition-to-verify-your-age.md",
+      "title": "ESRB Proposes Using Facial Recognition To Verify Your Age",
+      "excerpt": "The Entertainment Software Rating Board (ESRB) has asked the FTC for approval to use facial recognition technology to help determine how old a user is. Using something called Privacy-Protective Facial Estimation, a person's age would be estimated based on a photo to verify they are old enough to purchase a game.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/tsa-tests-facial-recognition-technology-boost-airport-security-rcna84415",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/tsa-tests-facial-recognition-technology-boost-airport-security-rcna84415",
+      "webUrl": "https://www.gamespot.com/articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/",
+      "originalUrl": "https://www.gamespot.com/articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 451,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230515-tsa-mb-1355-87a95a.jpg",
-          "width": 6768,
-          "height": 4514,
+          "url": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4161563-pcgames2023.jpg",
+          "width": 480,
+          "height": 270,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -553,14 +344,66 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna84415",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna84415",
-      "publishedDateTime": "2023-05-15T06:16:00-07:00",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/",
+      "publishedDateTime": "2023-07-25T09:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "GameSpot",
+        "domain": "gamespot.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales.md",
+      "title": "The ESRB Wants To Use ‘Facial Age Recognition’ AI Tech For Game Sales",
+      "excerpt": "Apparently we have come a long way from when I used to have to ID kids buying M-rated games when I worked as a cashier at Best Buy. The ESRB is now pitching the FTC on new technology called “Privacy-P",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 226,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bfd82b558f8d11e6143289/0x0.jpg?format=jpg&width=1200",
+          "width": 870,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/amp/",
+      "publishedDateTime": "2023-07-25T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -571,25 +414,25 @@
       "topics": [
         "Computer Vision",
         "AI",
-        "AI in Security"
+        "AI in Sales"
       ]
     },
     {
-      "path": "_news/2023-05-15-2023-computer-vision-system-market-research-report-analysis-by-2030.md",
-      "title": "2023, Computer Vision System Market Research Report Analysis by 2030",
-      "excerpt": "Computer Vision System Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest",
+      "path": "_news/2023-07-25-five-reasons-why-your-next-cloud-may-be-your-own.md",
+      "title": "Five Reasons Why Your Next Cloud May Be Your Own",
+      "excerpt": "Data centers are able to provide cloud-native platform as a service (PaaS) offerings, such as managed Kubernetes, containers and object storage ... Certainly, the first step is merely your recognition that there is a cloud alternative.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-15",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/25/five-reasons-why-your-next-cloud-may-be-your-own/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/25/five-reasons-why-your-next-cloud-may-be-your-own/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1c45949119fcba830711/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
-          "height": 630,
+          "height": 686,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -597,252 +440,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-14T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns.md",
-      "title": "TSA is testing facial recognition at more airports, raising privacy concerns",
-      "excerpt": "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country BALTIMORE -- A passenger walks up to an airport ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_d8b6397c02afe16602c8d34409d1451f_4x3_992.jpg",
-          "width": 992,
-          "height": 744,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639",
-      "publishedDateTime": "2023-05-14T21:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
-      "title": "Are you who you say you are? TSA tests facial recognition technology to boost airport security",
-      "excerpt": "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country. The Transportation Safety Administration says the tec",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/lifestyles/technology/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport/article_1960d054-fedf-59b8-a1ed-b6d087e61991.html",
-      "originalUrl": "https://omaha.com/lifestyles/technology/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport/article_1960d054-fedf-59b8-a1ed-b6d087e61991.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/e7/9e729762-a89b-5a79-9f4d-c13f116cf8fa/6461b5a12f579.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-14T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-14-computer-vision-market-research-analysis-2023-2030.md",
-      "title": "Computer Vision Market Research Analysis, 2023-2030",
-      "excerpt": "A Computer Vision market new report, spanning multiple 107 pages, offers an extensive and in-depth analysis of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-research-analysis-2023-2030-2023-05-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-research-analysis-2023-2030-2023-05-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-14T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-2023-computer-vision-system-market-research-report-analysis-by-2030.md",
-      "title": "2023, Computer Vision System Market Research Report Analysis by 2030",
-      "excerpt": "Computer Vision System Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards.md",
-      "title": "Metaspectral Says Using AI And Computer Vision Can Monitor Environmental Hazards",
-      "excerpt": "This company belives that artificial intelligence and computer vision can be used to monitor for environmental hazards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2023/05/12/metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2023/05/12/metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645d1a1d43ea8cfc1f2796dd/0x0.jpg?format=jpg&width=1200",
-          "width": 924,
-          "height": 694,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2023/05/12/metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/05/12/metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards/amp/",
-      "publishedDateTime": "2023-05-12T09:55:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/25/five-reasons-why-your-next-cloud-may-be-your-own/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/25/five-reasons-why-your-next-cloud-may-be-your-own/amp/",
+      "publishedDateTime": "2023-07-25T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -870,21 +470,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-12-eu-parliament-backs-ai-restrictions-and-facial-recognition-ban.md",
-      "title": "EU parliament backs AI restrictions and facial recognition ban",
-      "excerpt": "The European parliament has voted in favour of a ban on biometric surveillance and restrictions on generative AI and foundation models such as ChatGPT.",
+      "path": "_news/2023-07-25-cignitis-ip-zastratm-has-been-recognized-in-the-the-computer-vision-tools-landscape-q2-2023.md",
+      "title": "Cigniti's IP, ZastraTM, has been Recognized in the \"The Computer Vision Tools Landscape, Q2 2023”",
+      "excerpt": "Zastra™, Cigniti’s Computer Vision (CV) Platform offering is identified in the report as a general purpose foundation, built to be extensible, that can be used to build any type of application.",
       "sourceUrl": null,
-      "webUrl": "https://www.research-live.com/article/news/eu-parliament-backs-ai-restrictions-and-facial-recognition-ban/id/5112292",
-      "originalUrl": "https://www.research-live.com/article/news/eu-parliament-backs-ai-restrictions-and-facial-recognition-ban/id/5112292",
+      "webUrl": "https://www.wavy.com/business/press-releases/ein-presswire/646310258/cignitis-ip-zastratm-has-been-recognized-in-the-the-computer-vision-tools-landscape-q2-2023/",
+      "originalUrl": "https://www.wavy.com/business/press-releases/ein-presswire/646310258/cignitis-ip-zastratm-has-been-recognized-in-the-the-computer-vision-tools-landscape-q2-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
-          "width": 1000,
-          "height": 581,
+          "url": "https://www.wavy.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png",
+          "width": 396,
+          "height": 202,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -892,13 +492,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5112292&name=eu-parliament-backs-ai-restrictions-and-facial-recognition-ban",
-      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5112292&name=eu-parliament-backs-ai-restrictions-and-facial-recognition-ban",
-      "publishedDateTime": "2023-05-12T04:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "research",
-        "domain": "research-live.com",
+        "name": "WAVY-TV",
+        "domain": "wavy.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -913,177 +513,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-12-eu-nears-ban-on-predictive-policing-and-facial-recognition-after-ai-act-vote.md",
-      "title": "EU nears ban on predictive policing and facial recognition after AI Act vote",
-      "excerpt": "A crunch vote on the AI Act has moved the EU closer to a landmark ban on predictive policing and facial recognition.",
+      "path": "_news/2023-07-25-computer-vision-market-share-demand-industry-trends-and-forecast-2023-2028.md",
+      "title": "Computer Vision Market Share, Demand, Industry Trends and Forecast 2023-2028",
+      "excerpt": "IMARC Group, a leading market research company, has released a report titled Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023-2028.According to ...",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictive-policing-facial-recognition",
-      "originalUrl": "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictive-policing-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-6.jpg&signature=1e7b4390a6a9afa5c53d7775598e0291",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory.md",
-      "title": "A Season Of Recognition: The Oklahoma City Thunder’s Individual Honors And A Promising Trajectory",
-      "excerpt": "Following an extremely successful 40-win season for the Oklahoma City Thunder, several individuals earned praise with the various awards and teams that are voted upon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/",
-      "originalUrl": "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645c6fe7bc41d9b5e65a4511/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/amp/",
-      "publishedDateTime": "2023-05-11T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-face-recognition-systems-market-worldwide-industry-trends-2023-2030.md",
-      "title": "Face Recognition Systems Market | Worldwide Industry Trends 2023-2030",
-      "excerpt": "The report offers essential statistical information on the market status of Face Recognition Systems players, making it",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-worldwide-industry-trends-2023-2030-2023-05-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-worldwide-industry-trends-2023-2030-2023-05-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program.md",
-      "title": "Computer Vision software developer VisualCortex joins Axis Technology Partner Program",
-      "excerpt": "VisualCortex joins Axis Technology Integration Partner Program to deliver computer vision software and video analytics solutions to Axis Communications' global network of customers and partners across 50 countries SYDNEY and LUND,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/05/11/9812159.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/05/11/9812159.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33360200/computer-vision-market-share-demand-industry-trends-and-forecast-2023-2028",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33360200/computer-vision-market-share-demand-industry-trends-and-forecast-2023-2028",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/2074639/image_5019313_7056565.jpg",
-          "width": 400,
-          "height": 225,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1091,351 +535,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T23:40:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33360200",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33360200",
+      "publishedDateTime": "2023-07-24T19:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance.md",
-      "title": "ECI To Pilot Facial Recognition Technology In Polls, IFF Raises Concerns Of Surveillance",
-      "excerpt": "IFF has asked a copy of the relevant government order/notice/direction accompanying this move in its RTI to the ECI",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131",
-      "originalUrl": "https://www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1683701048.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131/amp",
-      "publishedDateTime": "2023-05-10T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-specific-training-can-help-computer-vision-models-learn-like-humans-study.md",
-      "title": "Specific training can help computer vision models learn like humans: Study",
-      "excerpt": "MIT researchers have discovered that a specific training method can help computer vision models learn more perceptually straight representations, like humans do. Training involves showing a machine-learning model millions of examples so it can learn a task.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study",
-      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_05_2023_00_57_45_5641496.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study?amp",
-      "publishedDateTime": "2023-05-09T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis.md",
-      "title": "2030, AI in Computer Vision Market Growth | Future Prospects and Competitive Analysis",
-      "excerpt": "The \"AI in Computer Vision Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis-2023-05-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis-2023-05-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-facial-recognition-biometrics-in-consumer-electronics-market-analysis-geography-trends-demand-and-forecasts-2030-cognitec-systems-dell-google.md",
-      "title": "Facial Recognition Biometrics in Consumer Electronics Market Analysis Geography Trends, Demand and Forecasts 2030 | Cognitec Systems, Dell, Google",
-      "excerpt": "The Facial Recognition Biometrics in Consumer Electronics Market Exploration Report contains significant techniques and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-biometrics-in-consumer-electronics-market-analysis-geography-trends-demand-and-forecasts-2030-cognitec-systems-dell-google-2023-05-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-biometrics-in-consumer-electronics-market-analysis-geography-trends-demand-and-forecasts-2030-cognitec-systems-dell-google-2023-05-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ai-in-computer-vision-market-growth-and-revenue-forecast-by-2030.md",
-      "title": "AI In Computer Vision Market Growth and Revenue Forecast by 2030",
-      "excerpt": "Brief Overview of the AI In Computer Vision Market: During The Forecast Period Spanning from 2023 To 2030, The Global AI In Computer Vision Market Is Expected to Experience Significant Growth. As of 2022, The Market Is Steadily Increasing, and with The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-and-revenue-forecast-by-2030-2023-05-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-and-revenue-forecast-by-2030-2023-05-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-what-manufacturers-need-to-know-about-optimizing-operations-with-computer-vision.md",
-      "title": "What manufacturers need to know about optimizing operations with computer vision",
-      "excerpt": "How computer vision is transforming manufacturing by increasing product quality, reducing waste and creating safer work environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/what-manufacturers-need-to-know-about-optimizing-operations-with-computer-vision/",
-      "originalUrl": "https://venturebeat.com/ai/what-manufacturers-need-to-know-about-optimizing-operations-with-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T20:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-ais-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.md",
-      "title": "AI's facial recognition failures: Three times crime solving intelligence got it wrong",
-      "excerpt": "Law enforcement's use of artifical intelligence-driven facial recognition puts everyone into what one expert called a \"perpetual police line-up,\" and studies show it's more likely the finger will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong",
-      "originalUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/12/340/340/69272029239__714BF986-699F-43ED-BD6D-FD1D2BB59635.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.amp",
-      "publishedDateTime": "2023-05-08T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1449,5 +556,5 @@
       ]
     }
   ],
-  "nextPage": 9
+  "nextPage": null
 }

@@ -2,6 +2,388 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-08-19-modder-converts-95-amd-apu-into-a-16gb-linux-ai-workhorse.md",
+      "title": "Modder converts $95 AMD APU into a 16GB Linux AI workhorse",
+      "excerpt": "A modder recently published instructions for coaxing AMD APUs that cost around $100 into running AI tasks usually associated with far more expensive graphics cards. If",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99847-modder-converts-95-amd-apu-16gb-linux-ai.html",
+      "originalUrl": "https://www.techspot.com/news/99847-modder-converts-95-amd-apu-16gb-linux-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/articles-info/2302/images/2021-08-04-image-3.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-19T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-19-nvidia-garners-reported-1000-profit-for-each-h100-gpu-sold.md",
+      "title": "Nvidia garners reported 1,000% profit for each H100 GPU sold",
+      "excerpt": "The big picture: AI acceleration is set to become one of the most prosperous hardware businesses in the upcoming months and years, and Nvidia is in a prime position to capture a significant share of this market. The H100 data center GPU is already proving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-profit-each-h100-gpu.html",
+      "originalUrl": "https://www.techspot.com/news/99839-nvidia-garners-reported-1000-profit-each-h100-gpu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-18-image-19.jpg",
+          "width": 2000,
+          "height": 999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-18T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-buy-this-chip-stock-to-ride-a-wave-of-ai-led-growth-according-to-b-riley-securities.md",
+      "title": "Buy this chip stock to ride a 'wave of AI-led growth,' according to B. Riley Securities",
+      "excerpt": "Moderating inventory headwinds and a reacceleration in hyperscale spending should propel this chip stock into its next growth wave.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/18/buy-this-chip-stock-to-ride-a-wave-of-ai-led-growth-according-to-b-riley-securities.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/18/buy-this-chip-stock-to-ride-a-wave-of-ai-led-growth-according-to-b-riley-securities.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105959006-1685552016651-marv2.jpg?v=1692367783&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-18T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-even-ai-hasnt-helped-microsofts-bing-chip-away-at-googles-search-dominance.md",
+      "title": "Even AI Hasn’t Helped Microsoft’s Bing Chip Away at Google’s Search Dominance",
+      "excerpt": "The new Bing with an AI chatbot is called “cute, but not a game changer.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1",
+      "originalUrl": "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 218,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-korea-to-build-homegrown-ai-chip-powered-data-centers-to-foster-growth-engines.md",
+      "title": "Korea to build homegrown AI chip-powered data centers to foster growth engines",
+      "excerpt": "Korea will speed up efforts to build data centers powered by locally-developed artificial intelligence (AI) chips on its path to nurture the next growth engines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/biz/2023/08/602_357270.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/biz/2023/08/602_357270.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202308/e1a96bb20d184f719a1e08fa6d339b0e.jpg",
+          "width": 980,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357270",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357270",
+      "publishedDateTime": "2023-08-17T00:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-korea-to-speed-up-development-of-ai-chip-uam-sectors.md",
+      "title": "Korea to speed up development of AI chip, UAM sectors",
+      "excerpt": "Korea's finance ministry unveiled a set of measures Thursday to pave the way for the growth of the country's artificial intelligence chip and urban air mobility (UAM) industries in line with efforts to foster new growth engines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/biz/2023/08/488_357208.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/biz/2023/08/488_357208.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202308/e15867f45a40464d912079b7f17d7365.jpg",
+          "width": 980,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357208",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357208",
+      "publishedDateTime": "2023-08-16T17:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-nvidias-top-stories-how-its-beating-competition-in-ai-in-us-and-overseas.md",
+      "title": "NVIDIA's Top Stories: How It's Beating Competition in AI in US and Overseas",
+      "excerpt": "underscored the economic advantages of the company's AI chips over traditional CPUs in data centers. The Grace Hopper Superchip, a fusion of CPU and GPU, promises substantial energy savings and enhanced performance for generative AI tasks. Intel's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/08/33885673/nvidias-top-stories-how-its-beating-competition-in-ai-in-us-and-overseas",
+      "originalUrl": "https://www.benzinga.com/news/23/08/33885673/nvidias-top-stories-how-its-beating-competition-in-ai-in-us-and-overseas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/08/16/nvda_chip_0.png?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33885673",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33885673",
+      "publishedDateTime": "2023-08-16T16:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-5-blue-chip-stocks-ai-thinks-will-double-your-money-by-2027.md",
+      "title": "5 Blue-Chip Stocks AI Thinks Will Double Your Money by 2027",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In June, I introduced five stocks that AI predicted could double a portfolio",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-stocks-ai-thinks-will-double-your-money-by-2027-1032560778",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-stocks-ai-thinks-will-double-your-money-by-2027-1032560778",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/07/marketmaster-performance-1.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt.md",
       "title": "Saudi Arabia and UAE Compete for Nvidia Chips to Build More Powerful AI Tool Than ChatGPT",
       "excerpt": "Saudi Arabia and the United Arab Emirates (UAE) are buying large quantities of high-performance Nvidia chips, which are essential for developing",
@@ -1031,379 +1413,6 @@
         "name": "Network World",
         "domain": "networkworld.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-opinion-why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints.md",
-      "title": "Opinion: Why Nvidia investors are rattled by Supermicro’s AI chip supply constraints",
-      "excerpt": "Also read: AI has given a boost to a lesser-known Silicon Valley computer maker Supermicro Chief Executive Charles Liang told analysts on the company’s call that the company is seeing supply constraints for the graphics chips coming from Nvidia that are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581",
-      "originalUrl": "https://www.marketwatch.com/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-803752/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/why-nvidia-investors-are-rattled-by-supermicros-ai-chip-supply-constraints-62a20581",
-      "publishedDateTime": "2023-08-09T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-a-new-chip-can-power-the-billions-of-calculations-the-ai-age-requires.md",
-      "title": "A new chip can power the billions of calculations the AI age requires",
-      "excerpt": "The current AI boom demands a lot of computing power. Right now, most of that comes from Nvidia’s GPUs, or graphics processing units—the company supplies somewhere around 90 percent of the AI chip market. In an announcement this week, it aims to extend its dominance with its newly announced next-generation GH200 Grace Hopper Superchip platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/nvidia-chip-generative-ai/",
-      "originalUrl": "https://www.popsci.com/technology/nvidia-chip-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2023/08/09/nvidia-gh200-grace-hopper-superchip-platform.png?auto=webp",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/nvidia-chip-generative-ai/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/nvidia-chip-generative-ai/?amp",
-      "publishedDateTime": "2023-08-09T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-nvidia-unveils-rtx-5000-4500-and-4000-ada-workstation-gpus-to-crush-ai-workloads.md",
-      "title": "NVIDIA Unveils RTX 5000, 4500 And 4000 Ada Workstation GPUs To Crush AI Workloads",
-      "excerpt": "NVIDIA announced the much-anticipated expansion of its workstation graphics card lineup based on Ada Lovelace.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus",
-      "originalUrl": "https://hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/62253/content/NVIDIA_RTX_5000_Hero.jpg",
-          "width": 708,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-unveils-rtx-5000-4500-4000-ada-workstation-gpus",
-      "publishedDateTime": "2023-08-09T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-nvidias-ai-dominance-will-be-the-death-knell-for-its-geforce-graphics-cards.md",
-      "title": "Nvidia's AI dominance will be the death knell for its GeForce graphics cards",
-      "excerpt": "If there's one thing that we can say about this generation of Nvidia graphics cards, it's that they haven't all been well-received. And while there are several that easily slot into our best ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/computing/gpu/nvidias-ai-dominance-will-be-the-death-knell-for-its-geforce-graphics-cards",
-      "originalUrl": "https://www.techradar.com/computing/gpu/nvidias-ai-dominance-will-be-the-death-knell-for-its-geforce-graphics-cards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/cSookBN4ARowBozR5braEH-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T20:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-nvidias-stock-slips-on-introduction-of-new-ai-data-center-cpugpu-chip.md",
-      "title": "Nvidia's stock slips on introduction of new AI data-center CPU+GPU chip",
-      "excerpt": "Read: Will AI do to Nvidia what the dot-com boom did to Sun Microsystems? Analysts compare current hype to past ones. AMD introduced its MI300X CPU + GPU at its AI product launch in June.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/marketwatch/20230808877/nvidias-stock-slips-on-introduction-of-new-ai-data-center-cpugpu-chip",
-      "originalUrl": "https://www.morningstar.com/news/marketwatch/20230808877/nvidias-stock-slips-on-introduction-of-new-ai-data-center-cpugpu-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-tech-down-as-ai-enthusiasm-stalls-tech-roundup.md",
-      "title": "Tech Down as AI Enthusiasm Stalls -- Tech Roundup",
-      "excerpt": "Shares of technology companies ticked lower amid as enthusiasm about the rise of artificial-intelligence technology stalled. Nvidia slipped, but remains",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-down-as-ai-enthusiasm-stalls-tech-roundup-db409f",
-      "originalUrl": "https://www.marketwatch.com/story/tech-down-as-ai-enthusiasm-stalls-tech-roundup-db409f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-down-as-ai-enthusiasm-stalls-tech-roundup-db409f",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-down-as-ai-enthusiasm-stalls-tech-roundup-db409f",
-      "publishedDateTime": "2023-08-08T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-microsoft-azure-ai-adds-gpt-4-and-new-virtual-machines.md",
-      "title": "Microsoft Azure AI Adds GPT-4 and New Virtual Machines",
-      "excerpt": "Microsoft is also working on creating guidelines for red teams working on making sure generative AI is both secure and responsible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/azure-ai-gpt-4-virtual-machines/",
-      "originalUrl": "https://www.techrepublic.com/article/azure-ai-gpt-4-virtual-machines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 391,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8823-azure-openai-770x465.jpeg",
-          "width": 770,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-the-3-best-ai-chip-stocks-to-buy-in-august.md",
-      "title": "The 3 Best AI Chip Stocks to Buy in August",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Until the trend fails, chip stocks should remain in focus. Throughout 2023,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip-stocks-to-buy-in-august-1032530506",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip-stocks-to-buy-in-august-1032530506",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

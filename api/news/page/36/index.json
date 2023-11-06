@@ -2,21 +2,21 @@
   "page": 36,
   "value": [
     {
-      "path": "_news/2023-10-04-money-machines-and-meeting-goals-healthier-cash-flow-with-ai.md",
-      "title": "Money, Machines And Meeting Goals: Healthier Cash Flow With AI",
-      "excerpt": "Plus, predictive analytics provided by AI and ML further fortify the company’s financial position through accurate forecasting. Samuel’s approach—combining traditional financial acumen with modern fintech solutions—illustrates how I believe you can ...",
+      "path": "_news/2023-10-09-ai-and-ethics-with-animesh-mukherjee.md",
+      "title": "AI and ethics with Animesh Mukherjee",
+      "excerpt": "He has received many notable awards and fellowships including the Facebook ethics for AI research award, India, Google course award for the course AI and Ethics, IBM faculty award, Humboldt Fellowship for Experienced Researchers, Simons Associateship ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/04/money-machines-and-meeting-goals-healthier-cash-flow-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/04/money-machines-and-meeting-goals-healthier-cash-flow-with-ai/",
+      "webUrl": "https://physicsworld.com/a/ai-and-ethics-with-animesh-mukherjee/",
+      "originalUrl": "https://physicsworld.com/a/ai-and-ethics-with-animesh-mukherjee/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651c364909d97bda96db65c6/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 680,
+          "url": "https://physicsworld.com/wp-content/uploads/2023/10/Book-cover-image.jpg",
+          "width": 2102,
+          "height": 1449,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/04/money-machines-and-meeting-goals-healthier-cash-flow-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/04/money-machines-and-meeting-goals-healthier-cash-flow-with-ai/amp/",
-      "publishedDateTime": "2023-10-04T06:47:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T08:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Physics World",
+        "domain": "physicsworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,26 +40,26 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-10-04-fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability.md",
-      "title": "Fashion’s New Frontier: Exploring The Role Of AI In Apparel And Sustainability",
-      "excerpt": "The impact is a self-healing supply chain that learns from its mistakes faster, takes action and then feeds its new decisions and processes back to the AI brain. Wash, rinse, repeat. These feedback loops—an essential building block for AI systems—are where humans just can’t compete.",
+      "path": "_news/2023-10-09-clio-unveils-clio-duo-empowering-legal-professionals-with-ai-driven-innovation.md",
+      "title": "Clio Unveils Clio Duo: Empowering Legal Professionals with AI-Driven Innovation",
+      "excerpt": "\"The future of AI powered solutions start with privacy and security at their core,\" said Jonathan Watson, Chief Technology Officer at Clio. \"We are confident that with responsible data privacy guardrails in place, AI will transform every aspect of how ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/clio-unveils-clio-duo-empowering-legal-professionals-with-ai-driven-innovation-1032689348",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/clio-unveils-clio-duo-empowering-legal-professionals-with-ai-driven-innovation-1032689348",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644923fd6eac23cc20a3babc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
+          "url": "https://mma.prnewswire.com/media/2241332/Clio_Clio_Unveils_Clio_Duo__Empowering_Legal_Professionals_with.jpg",
+          "width": 400,
+          "height": 209,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +67,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/04/fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability/amp/",
-      "publishedDateTime": "2023-10-04T06:45:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T07:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -105,36 +96,36 @@
       ]
     },
     {
-      "path": "_news/2023-10-04-seven-key-insights-on-graphql-trends.md",
-      "title": "Seven key insights on GraphQL trends",
-      "excerpt": "Seven key insights on GraphQL trends for the coming years based on learnings from GraphQLConf 2023.\nThe post Seven key insights on GraphQL trends appeared first on IBM Blog.\n",
+      "path": "_news/2023-10-09-tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers.md",
+      "title": "Tesla Engineer Says ‘Full Self-Driving’ Name Isn’t Meant To Trick Buyers",
+      "excerpt": "An engineer from Tesla has asserted that the car manufacturer did not name its suite of automated driving functions as ‘Full Self-Driving’ in an intentional move to make customers believe the system is more advanced than it currently is.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/seven-key-insights-on-graphql-trends/",
-      "originalUrl": "https://www.ibm.com/blog/seven-key-insights-on-graphql-trends/",
+      "webUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/",
+      "originalUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 88,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2023/10/Tesla-Autopilot-a.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T05:48:36-07:00",
+      "ampWebUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/",
+      "publishedDateTime": "2023-10-09T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -143,26 +134,27 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-10-04-achieve-your-ai-goals-with-an-open-data-lakehouse-approach.md",
-      "title": "Achieve your AI goals with an open data lakehouse approach",
-      "excerpt": "Artificial intelligence (AI) is now at the forefront of how enterprises work with data to help reinvent operations to be more efficient\nThe post Achieve your AI goals with an open data lakehouse approach appeared first on IBM Blog.\n",
+      "path": "_news/2023-10-09-artificial-intelligence-and-a-new-era-of-human-resources.md",
+      "title": "Artificial intelligence and a new era of human resources",
+      "excerpt": "AI can help usher in a new era of HR management, where data analytics, ML and automation can work together to save people time and support better outcomes.\nThe post Artificial intelligence and a new era of human resources appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/achieve-your-ai-goals-with-an-open-data-lakehouse-approach/",
-      "originalUrl": "https://www.ibm.com/blog/achieve-your-ai-goals-with-an-open-data-lakehouse-approach/",
+      "webUrl": "https://www.ibm.com/blog/artificial-intelligence-and-a-new-era-of-human-resources/",
+      "originalUrl": "https://www.ibm.com/blog/artificial-intelligence-and-a-new-era-of-human-resources/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 119,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T05:00:00-07:00",
+      "publishedDateTime": "2023-10-09T06:16:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -190,22 +182,419 @@
       ]
     },
     {
-      "path": "_news/2023-10-04-common-grounds-unleashing-innovation-and-growth-through-partnership.md",
-      "title": "Common Grounds: Unleashing innovation and growth through partnership",
-      "excerpt": "At IBM, we believe we can make greater progress together. Our purpose is to be the catalyst that makes the world work better&#8212;and our partners are key to this mission. Together with our partners and clients, we work to solve the most complex challenges with AI and hybrid cloud. Last year, we launched",
+      "path": "_news/2023-10-09-this-iconic-artificial-intelligence-stock-is-hiding-in-plain-sight.md",
+      "title": "This Iconic Artificial Intelligence Stock Is Hiding in Plain Sight",
+      "excerpt": "While IBM isn't going to ever grow as fast as Nvidia, which leads the market for AI chips, the company's AI efforts should help drive solid, sustainable growth in the long run. The BofA analysts maintained a $160 price target on the stock, which is about 12% higher than the current stock price.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/common-grounds-unleashing-innovation-and-growth-through-partnership/",
-      "originalUrl": "https://www.ibm.com/blog/common-grounds-unleashing-innovation-and-growth-through-partnership/",
+      "webUrl": "https://www.fool.com/investing/2023/10/09/this-iconic-artificial-intelligence-ai-stock-is-hi/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/09/this-iconic-artificial-intelligence-ai-stock-is-hi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 94,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/750147/artificial-intelligence-ai-data-deep-processing-3.jpg",
+          "width": 1440,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T05:00:00-07:00",
+      "publishedDateTime": "2023-10-09T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-amd-could-fail-in-artificial-intelligence-for-1-reason.md",
+      "title": "AMD Could Fail in Artificial Intelligence for 1 Reason",
+      "excerpt": "Analysts at Baird greatly reduced their price target for AMD stock on Thursday , with the company's AI potential being the main sticking point. While Baird kept an \"outperform\" rating on the stock, its price target was dropped from $170 all the way to $125.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/10/09/amd-could-fail-in-artificial-intelligence-ai-for-1/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/09/amd-could-fail-in-artificial-intelligence-ai-for-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/750146/man-in-business-suit-pushing-boulder-uphill-like-sisyphus-hard-work-ethic-effort-challenge-businessman-1.jpg",
+          "width": 2290,
+          "height": 1309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-self-inflicted-damage-becomes-driving-factor-in-falling-law-firm-realization.md",
+      "title": "'Self-Inflicted Damage' Becomes Driving Factor in Falling Law Firm Realization",
+      "excerpt": "But a new analysis suggests much of the drop-off is “self-inflicted damage on the part of law firms,” coming after clients agree to a price, but before firms even send them the bill.",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/2023/10/06/self-inflicted-damage-becomes-driving-factor-in-falling-law-firm-realization/",
+      "originalUrl": "https://www.law.com/2023/10/06/self-inflicted-damage-becomes-driving-factor-in-falling-law-firm-realization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.law.com/contrib/content/uploads/sites/405/2023/10/AdobeStock_544823918-767x633-1.jpg",
+          "width": 767,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-the-best-october-prime-day-robot-vacuum-deals-happening-now.md",
+      "title": "The best October Prime Day robot vacuum deals happening now",
+      "excerpt": "Amazon's Prime Early Access Sale is almost over, so don't miss the best Prime Day robot vacuum deals to shop today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/best-october-prime-day-robot-vacuum-deals/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-october-prime-day-robot-vacuum-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/06/Digital-Trends-Best-Prime-Day-Robot-Vacuum-Deals.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-october-prime-day-robot-vacuum-deals/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-october-prime-day-robot-vacuum-deals/?amp",
+      "publishedDateTime": "2023-10-09T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-with-nearly-70000-units-shipped-pudu-robotics-leads-global-market-as-chinas-no1-service-robot-exporter.md",
+      "title": "With nearly 70,000 Units Shipped, Pudu Robotics Leads Global Market as China's No.1 Service Robot Exporter",
+      "excerpt": "EO Intelligence is the professional industry research and consulting service platform under EqualOcean with focuses on forward-looking technology research fields such as AI, big data ... 40,000 units are mostly in the startup stage. The companies are ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/with-nearly-70-000-units-shipped-pudu-robotics-leads-global-market-as-china-s-no-1-service-robot-exporter-1032688109",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/with-nearly-70-000-units-shipped-pudu-robotics-leads-global-market-as-china-s-no-1-service-robot-exporter-1032688109",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2241507/Global_Shipments_Major_Chinese_Service_Robot_Manufacturers_Report.jpg",
+          "width": 400,
+          "height": 224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds.md",
+      "title": "Why Is Virtual Care Rehab Modernizing Healthcare In Leaps And Bounds?",
+      "excerpt": "This article discusses Virtual Care Rehab servicing patients at home and in rehabilitation centers, using advanced digital and AI technologies improving healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/10/09/why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/10/09/why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6522e9d9bf30e7138aed8b61/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/10/09/why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/10/09/why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds/amp/",
+      "publishedDateTime": "2023-10-09T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-baidu-set-to-launch-ernie-model-iteration-next-week-report.md",
+      "title": "Baidu set to launch ERNIE model iteration next week: report",
+      "excerpt": "Baidu is poised to launch a new version of its language model at its annual flagship technology conference on October 17, as reported by local tech outlet",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2023/10/09/baidu-set-to-launch-ernie-model-iteration-next-week-report/",
+      "originalUrl": "https://technode.com/2023/10/09/baidu-set-to-launch-ernie-model-iteration-next-week-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technode.com/wp-content/uploads/2019/10/BAIDU5.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-openai-is-reportedly-developing-its-own-chips-to-combat-gpu-shortages.md",
+      "title": "OpenAI is reportedly developing its own chips to combat GPU shortages",
+      "excerpt": "OpenAI, the world's leading artificial intelligence company, has hinted at powering its AI tools with in-house chips to combat the GPU shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/93662/openai-is-reportedly-developing-its-own-chips-to-combat-gpu-shortages/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/93662/openai-is-reportedly-developing-its-own-chips-to-combat-gpu-shortages/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/3/93662_859_openai-is-creportedly-considering-developing-its-own-chips-to-combat-gpu-shortages_full.png",
+          "width": 1500,
+          "height": 842,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-the-synergy-between-uem-and-medical-device-risk-management.md",
+      "title": "The synergy between UEM and medical device risk management",
+      "excerpt": "Unified Endpoint Management (UEM) and medical device risk management have deep synergies. When a healthcare organization develops a risk management framework, cybersecurity is a must. \nThe post The synergy between UEM and medical device risk management appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-synergy-between-uem-and-medical-device-risk-management/",
+      "originalUrl": "https://www.ibm.com/blog/the-synergy-between-uem-and-medical-device-risk-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/r_jofe160519-00040-01.l_2x1-e1688051935864.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T00:49:58-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -232,21 +621,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-04-google-deepmind-open-sources-largest-ever-robotics-dataset.md",
-      "title": "Google DeepMind Open-Sources Largest-Ever Robotics Dataset",
-      "excerpt": "Google DeepMind has launched a new set of resources for general-purpose robotics learning after teaming up with 33 academic labs",
+      "path": "_news/2023-10-09-navigating-industry-40-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management.md",
+      "title": "Navigating Industry 4.0: How Artificial Intelligence and Robotics Are Revolutionizing Manufacturing and Supply Chain Management",
+      "excerpt": "This dynamic synergy between human ingenuity and cutting-edge technology is unlocking new horizons of efficiency, agility, and competitiveness., Technology & Science News, Times Now",
       "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/google-deepmind-open-sources-largest-ever-robotics-dataset/",
-      "originalUrl": "https://analyticsindiamag.com/google-deepmind-open-sources-largest-ever-robotics-dataset/",
+      "webUrl": "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235",
+      "originalUrl": "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 96,
       "tags": null,
       "images": [
         {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/Screenshot-2023-10-04-at-5.15.44-PM-1300x737.png",
-          "width": 1300,
-          "height": 737,
+          "url": "https://static.tnn.in/thumb/msid-104273267,thumbsize-25658,width-1280,height-720,resizemode-75/104273267.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -254,57 +643,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T04:47:00-07:00",
+      "ampWebUrl": "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235/amp",
+      "publishedDateTime": "2023-10-08T21:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-theres-a-new-squishy-robot-in-town-and-was-created-by-ai.md",
-      "title": "There's a new squishy robot in town, and was created by AI",
-      "excerpt": "A team of scientists has developed the first artificial intelligence to date that can intelligently design robots from scratch.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/squishy-robot-created-by-ai",
-      "originalUrl": "https://interestingengineering.com/innovation/squishy-robot-created-by-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/10/04/image/jpeg/lpjqpQ4hbD10M0P5HFUPjV3GSoeRlligUwK3eE85.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -319,21 +664,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-04-the-ai-transformation-is-the-tip-of-the-tech-spear.md",
-      "title": "The AI Transformation Is The Tip Of The Tech Spear",
-      "excerpt": "The global artificial intelligence transformation is well underway, and investors have increasingly come around to the disruptive potential this technology carries both for personal and commercial uses. However, it won’t just be the end applications of ...",
+      "path": "_news/2023-10-09-cyber-security-in-robotics-market-poised-for-rapid-growth-set-to-reach-us-116-billion-by-2033.md",
+      "title": "Cyber Security in Robotics Market Poised for Rapid Growth, Set to Reach US$ 11.6 Billion by 2033",
+      "excerpt": "The Cyber security in robotics market is poised for substantial growth, with a consistent Compound Annual Growth Rate (CAGR) of 11.7% expected during the forecasted period. In 2023, the market is projected to generate revenues of approximately US$ 3.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/",
+      "webUrl": "https://www.fmiblog.com/2023/10/09/cyber-security-in-robotics-market-poised-for-rapid-growth-set-to-reach-us-11-6-billion-by-2033/",
+      "originalUrl": "https://www.fmiblog.com/2023/10/09/cyber-security-in-robotics-market-poised-for-rapid-growth-set-to-reach-us-11-6-billion-by-2033/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643d4772a81bd24f0f0ab188/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://www.fmiblog.com/wp-content/uploads/2023/10/Cyber-Security-in-Robotics-Market.jpg",
+          "width": 1000,
+          "height": 495,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -343,63 +688,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T04:16:00-07:00",
+      "publishedDateTime": "2023-10-08T21:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-technology.md",
-      "title": "Lawsuit: Improper arrest due to misuse of facial recognition technology",
-      "excerpt": "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7news.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/",
-      "originalUrl": "https://abc7news.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13883139_100923-wls-n1-ai-wrongful-arrest-pkg-vid.jpg?w=1600",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7 San Francisco",
-        "domain": "abc7news.com",
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -409,446 +702,18 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Robotics",
         "AI",
-        "Computer Vision"
+        "AI in Security"
       ]
     },
     {
-      "path": "_news/2023-10-04-not-all-algorithms-are-ai-part-2-the-rise-of-real-ai.md",
-      "title": "Not All Algorithms Are AI (Part 2): The Rise Of Real AI",
-      "excerpt": "Instead of the fixed statistics of deep learning, the probability in generative AI changes as the context changes. This is an even deeper form of human mimicry.",
+      "path": "_news/2023-10-09-5-ways-ai-could-influence-nursing-in-the-coming-years.md",
+      "title": "5 ways AI could influence nursing in the coming years",
+      "excerpt": "Artificial intelligence comprises various technologies in almost ... health care AI companies have attracted more investments and equity deals than any other sector except driverless vehicles and other transportation-related work, according to the OECD.AI ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/amp/",
-      "publishedDateTime": "2023-10-04T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-language-accessibility-drives-speech-recognition-innovation-from-isentia.md",
-      "title": "Language Accessibility Drives Speech Recognition Innovation From Isentia",
-      "excerpt": "Leading media intelligence company, Isentia, has bolstered its TV and radio Monitoring service, with the launch of all-new speech recognition capability that includes Te Reo Māori, with the help of Artificial Intelligence (AI) and tangata whenua staff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/BU2310/S00046/language-accessibility-drives-speech-recognition-innovation-from-isentia.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/BU2310/S00046/language-accessibility-drives-speech-recognition-innovation-from-isentia.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-metas-ai-stickers-are-here-and-already-causing-controversy.md",
-      "title": "Meta’s AI stickers are here and already causing controversy",
-      "excerpt": "Meta's new AI Stickers raise concerns as content filters miss objectionable mashups, including copyrighted characters in controversial scenarios with guns and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-causing-controversy/",
-      "originalUrl": "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-causing-controversy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/crop-2.jpg?w=1200&strip=all",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-the-ai-empowered-patient-is-coming-are-doctors-ready.md",
-      "title": "The AI-Empowered Patient Is Coming: Are Doctors Ready?",
-      "excerpt": "In the future, medical expertise will no longer be the sole domain of trained clinicians. Future versions of AI will put medical expertise in the hands of all Americans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertpearl/2023/10/04/the-ai-empowered-patient-is-coming-are-doctors-ready/",
-      "originalUrl": "https://www.forbes.com/sites/robertpearl/2023/10/04/the-ai-empowered-patient-is-coming-are-doctors-ready/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651c09e514a6169a0c341388/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-wordly-launches-trusted-ai-translation.md",
-      "title": "Wordly Launches Trusted AI Translation",
-      "excerpt": "announced the launch of Trusted AI Translation, the easiest, most affordable, and most secure way to make meetings and events more language inclusive and accessible. Wordly Trusted AI Translation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/wordly-launches-trusted-ai-translation/article_01e196ad-fe3a-525b-870e-66b4a7592ca1.html",
-      "originalUrl": "https://www.news-journal.com/wordly-launches-trusted-ai-translation/article_01e196ad-fe3a-525b-870e-66b4a7592ca1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/8/23/823c98bd-ca7b-59d3-b2ba-ae8fc5e1288a/651d69431f6c2.image.jpg?crop=1053%2C553%2C107%2C0&resize=1053%2C553&order=crop%2Cresize",
-          "width": 1053,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-how-shaq-and-william-became-early-investors-in-the-ai-boom.md",
-      "title": "How Shaq And Will.i.am Became Early Investors In The AI Boom",
-      "excerpt": "Google, ChatGPT-maker Open AI, Anthropic, Runway, Inflection AI and Hugging Face are just a few of the investments Shaq & Will.i.am have made as they bet on an AI future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-william-became-early-investors-in-the-ai-boom/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-william-became-early-investors-in-the-ai-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650267b9e67a47ad659fe77b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-william-became-early-investors-in-the-ai-boom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-william-became-early-investors-in-the-ai-boom/amp/",
-      "publishedDateTime": "2023-10-04T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-openais-sam-altman-invests-in-indian-startup-induced-ai.md",
-      "title": "OpenAI's Sam Altman invests in Indian startup Induced AI",
-      "excerpt": "The startup Induced AI, founded this year, has raised $2.3 million in its seed-funding round led by Altman and VC firm Peak XV, along with “an incredible set of investors”.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482",
-      "originalUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/04/263437?itok=uwS43QXA",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp",
-      "publishedDateTime": "2023-10-04T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-fintech-startup-dpdzero-raises-325-million-in-seed-funding-led-by-blume-ventures.md",
-      "title": "Fintech startup DPDzero raises $3.25 million in seed funding led by Blume Ventures",
-      "excerpt": "Established in 2022 by Ananth Shroff and Ranjith Ramachandra, DPDzero works towards delayed repayments and risk management by using Artificial Intelligence to solve patterns and predict and prevent defaults.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/",
-      "originalUrl": "https://www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-22T084458.946.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/lite/",
-      "publishedDateTime": "2023-10-03T23:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence.md",
-      "title": "The Amazing Ways Chinese Tech Giant Alibaba Uses Generative Artificial Intelligence",
-      "excerpt": "Not to be outdone in the generative artificial intelligence (AI) race, China-based tech giant Alibaba has recently unveiled a number of its own tools and models. Its flagship is its ChatGPT challenging large language model (LLM) called Tongyi Qianwen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651d0310ebb3a26f024bea02/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-10-03T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-lawsuit-man-claims-he-was-improperly-arrested-because-of-misuse-of-facial-recognition-technology.md",
-      "title": "Lawsuit: Man claims he was improperly arrested because of misuse of facial recognition technology",
-      "excerpt": "ACLU: False detainment from the software is more likely to affect Black people. A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/lawsuit-man-claims-falsely-arrested-misuse-facial-recognition/story?id=103687845",
-      "originalUrl": "https://abcnews.go.com/US/lawsuit-man-claims-falsely-arrested-misuse-facial-recognition/story?id=103687845",
+      "webUrl": "https://www.newsobserver.com/news/nation-world/world/article280205024.html",
+      "originalUrl": "https://www.newsobserver.com/news/nation-world/world/article280205024.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -858,140 +723,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T19:40:00-07:00",
+      "publishedDateTime": "2023-10-08T17:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-is-infosys-microsoft-partnership-a-step-towards-interoperability-in-the-generative-ai-market.md",
-      "title": "Is Infosys-Microsoft partnership a step towards interoperability in the generative AI market?",
-      "excerpt": "Infosys joined hands with Microsoft to create opportunities in the space of generative artificial intelligence (AI). From what it’s understood, this step aims to develop the concept of data democratisation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-is-infosys-microsoft-partnership-a-step-towards-interoperability-in-the-generative-ai-market-3262102/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-is-infosys-microsoft-partnership-a-step-towards-interoperability-in-the-generative-ai-market-3262102/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/Image-Credit-Freepik343.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-is-infosys-microsoft-partnership-a-step-towards-interoperability-in-the-generative-ai-market-3262102/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-is-infosys-microsoft-partnership-a-step-towards-interoperability-in-the-generative-ai-market-3262102/lite/",
-      "publishedDateTime": "2023-10-03T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-kochi-based-tech-startups-robots-are-gaining-ground-in-west.md",
-      "title": "Kochi-based tech startup’s robots are gaining ground in west",
-      "excerpt": "THIRUVANANTHAPURAM: India may still be playing catch-up in terms of advancement in robotics and artificial intelligence (AI), but a Kochi-based startup is looking to turn the tables. Sastra Robotics, registered with the Kerala Startup Mission (KSUM), has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/states/kerala/2023/oct/04/kochi-based-tech-startups-robots-are-gaining-ground-in-west-2620606.html",
-      "originalUrl": "https://www.newindianexpress.com/states/kerala/2023/oct/04/kochi-based-tech-startups-robots-are-gaining-ground-in-west-2620606.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/10/4/w600X390/Kochi-based_tech_startups.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/states/kerala/2023/oct/04/kochi-based-tech-startups-robots-are-gaining-ground-in-west-2620606.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/kerala/2023/oct/04/kochi-based-tech-startups-robots-are-gaining-ground-in-west-2620606.amp",
-      "publishedDateTime": "2023-10-03T19:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-chinese-tech-startups-are-testing-self-driving-cars-on-california-roads.md",
-      "title": "Chinese tech startups are testing self-driving cars on California roads",
-      "excerpt": "Tony Peng, a spokesperson for Baidu’s Apollo ... of stealing proprietary information about self-driving technology while applying to a “China-based autonomous vehicle company,” which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/chinese-tech-startups-testing-self-180000843.html",
-      "originalUrl": "https://www.aol.com/chinese-tech-startups-testing-self-180000843.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/XoyhSfVQzxd3pw.SehMd0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/aba6c86ae36cb91b02dbe453d626ca89",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/chinese-tech-startups-testing-self-180000843.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/chinese-tech-startups-testing-self-180000843.html",
-      "publishedDateTime": "2023-10-03T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1006,19 +742,252 @@
       ]
     },
     {
-      "path": "_news/2023-10-04-ibm-enables-safe-enterprise-ai-with-granite-foundation-models.md",
-      "title": "IBM Enables Safe Enterprise AI with Granite Foundation Models",
-      "excerpt": "With its just-released Granite foundation models, IBM takes a big step towards addressing enterprise requirements for generative AI.",
+      "path": "_news/2023-10-09-open-source-is-actually-the-cradle-of-artificial-intelligence-heres-why.md",
+      "title": "Open source is actually the cradle of artificial intelligence. Here's why",
+      "excerpt": "In a way, open source and artificial intelligence were born together. Back in 1971, if you'd mentioned AI to most people, they might have thought of Isaac Asimov's Three Laws of Robotics.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/",
+      "webUrl": "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 148,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651cb4a382d94a88ea799277/0x0.jpg?format=jpg&width=1200",
+          "url": "https://www.zdnet.com/a/img/resize/3dd166699052b2cfc4b30930ced69da1bb2d36dc/2023/05/25/1ff6a155-2b9e-49c7-9dfb-8c4ea6c8ba04/keep-ai-open-source-smaller-may-2023.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
+      "publishedDateTime": "2023-10-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-soc-boosts-speech-recognition-systems.md",
+      "title": "SoC boosts speech-recognition systems",
+      "excerpt": "With the development and maturity of speech compression/ decompression and recognition, speech processing is becoming an important form of man-machine interface. Currently, these systems in laboratories are mostly large and complex. These implementations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/articles/15198/soc-boosts-speech-recognition-systems.html",
+      "originalUrl": "https://www.design-reuse.com/articles/15198/soc-boosts-speech-recognition-systems.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-text-to-video-retrieval-with-s3d-mil-nce.md",
+      "title": "Text-to-Video retrieval with S3D MIL-NCE",
+      "excerpt": "This tutorial demonstrates how to use the S3D MIL-NCE model from TensorFlow Hub to do text-to-video retrieval to find the most similar videos for a given text query. The model has 2 signatures, one for generating video embeddings and one for generating ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/hub/tutorials/text_to_video_retrieval_with_s3d_milnce",
+      "originalUrl": "https://www.tensorflow.org/hub/tutorials/text_to_video_retrieval_with_s3d_milnce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-hub-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-what-enterprise-software-vendors-are-doing-with-generative-ai.md",
+      "title": "What enterprise software vendors are doing with generative AI",
+      "excerpt": "SAP intends to build IBM’s Watson AI engine into much of its software portfolio, beginning with the SAP Start AP, where it’ll enable users to interact with SAP applications using natural language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/649334/what-enterprise-software-vendors-are-doing-with-generative-ai.html",
+      "originalUrl": "https://www.cio.com/article/649334/what-enterprise-software-vendors-are-doing-with-generative-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2023/10/shutterstock_2102457385.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/649334/what-enterprise-software-vendors-are-doing-with-generative-ai.html/amp/",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/649334/what-enterprise-software-vendors-are-doing-with-generative-ai.html/amp/",
+      "publishedDateTime": "2023-10-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month.md",
+      "title": "6 AI Wellbeing Tools For Work You Should Try This Mental Health Month",
+      "excerpt": "In honor of Mental Health Awareness Month and World Mental Health Day, here is a round-up of six AI-powered work wellbeing tools you should try this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/",
+      "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652309011529a35491ac37a1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/amp/",
+      "publishedDateTime": "2023-10-08T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-generative-ai-throwdown-open-source-vs-proprietary-models.md",
+      "title": "Generative AI Throwdown: Open Source Vs. Proprietary Models",
+      "excerpt": "Generative AI, dominated by proprietary models locked inside big tech companies, is being disrupted by a new wave of open-source models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/",
+      "originalUrl": "https://www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652304f4abadae415295e85a/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
           "height": 798,
           "title": null,
@@ -1028,9 +997,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/amp/",
-      "publishedDateTime": "2023-10-03T17:47:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/amp/",
+      "publishedDateTime": "2023-10-08T12:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1054,25 +1023,25 @@
       ],
       "topics": [
         "AI",
-        "AI Ethics"
+        "AI Hardware"
       ]
     },
     {
-      "path": "_news/2023-10-04-self-driving-vehicle-runs-over-pins-woman-in-san-francisco-operator-claims-human-hit-her-first.md",
-      "title": "Self-driving vehicle runs over, pins woman in San Francisco; operator claims human hit her first",
-      "excerpt": "A woman in San Francisco was found with life-threatening injuries late Monday after being run over and trapped under a self-driving car, authorities said. First responders arrived at 5th and ...",
+      "path": "_news/2023-10-08-important-warning-about-artificial-intelligence-stocks.md",
+      "title": "Important Warning About Artificial Intelligence Stocks",
+      "excerpt": "Artificial intelligence stocks are surging. Some investors have made little fortunes already. But we are staying away from them, and here is why. High Yield Investor members get exclusive access ...",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first",
-      "originalUrl": "https://www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first",
+      "webUrl": "https://seekingalpha.com/article/4639388-important-warning-artificial-intelligence-stocks",
+      "originalUrl": "https://seekingalpha.com/article/4639388-important-warning-artificial-intelligence-stocks",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/10/1200/675/Cruise-driverless-car-SF-collision-2.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1286232657/image_1286232657.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 864,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1080,23 +1049,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first.amp",
-      "publishedDateTime": "2023-10-03T14:19:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-08T06:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1110,21 +1070,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-04-tech-analyst-dan-ives-microsoft-azure-is-seeing-a-clear-uptick-in-artificial-intelligence-ai-spending-heres-what-it-means-for-the-stock.md",
-      "title": "Tech Analyst Dan Ives: Microsoft Azure Is Seeing a \"Clear Uptick\" in Artificial Intelligence (AI) Spending. Here's What It Means for the Stock.",
-      "excerpt": "Ives said that based on recent checks, Microsoft's monetization of AI is \"happening quicker than expected.\" He goes on to note that \"our latest Azure checks also show a clear uptick in activity ...",
+      "path": "_news/2023-10-08-hedge-fund-investor-bill-ackman-just-loaded-up-on-this-top-artificial-intelligence-ai-stock.md",
+      "title": "Hedge Fund Investor Bill Ackman Just Loaded Up on This Top Artificial Intelligence (AI) Stock",
+      "excerpt": "Last week, renowned hedge fund manager Bill Ackman spoke at length about a new position in his portfolio. As it turns out, Silicon Valley investors are not the only ones looking to capitalize on the rising popularity of artificial intelligence (AI).",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/03/dan-ives-microsoft-azure-artificial-intelligence/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/03/dan-ives-microsoft-azure-artificial-intelligence/",
+      "webUrl": "https://www.fool.com/investing/2023/10/08/secretive-hedge-fund-investor-bill-ackman-just-loa/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/08/secretive-hedge-fund-investor-bill-ackman-just-loa/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/editorial/images/749617/the-virtual-button-with-the-letters-ai-in-a-circle-hovering-above-a-keyboard-about-to-be-clicked-by-a-cursor.jpg",
-          "width": 2359,
-          "height": 1270,
+          "url": "https://g.foolcdn.com/editorial/images/749674/gettyimages-1483272785-4.jpg",
+          "width": 5530,
+          "height": 3111,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1134,7 +1094,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T13:55:00-07:00",
+      "publishedDateTime": "2023-10-08T03:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -1157,7 +1117,57 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-08-link-building-uk-tech-veterans-connect-ai-startups-with-corporates.md",
+      "title": "Link Building: U.K. Tech Veterans Connect AI Startups With Corporates",
+      "excerpt": "AI, Quantum Computing and Blockchain startups are keen to find customers. Buyers may be more sceptical. A new initiative - TransformBase - seeks to close the gap",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/",
+      "originalUrl": "https://www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651fc2ee4ad4ed5acb9501c9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/amp/",
+      "publishedDateTime": "2023-10-08T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -1,18 +1,15 @@
 ---
 category: news
 title: "'Human-like intelligence': A look at Vancouver's AI-powered robot workforce"
-excerpt: "A Vancouver company called Sanctuary AI is on a mission to develop the world's-first human-like intelligence in general-purpose robots. Not only are these robots about the size and shape of people, but they also have human-like intelligence. As a result, they have a capacity to respond and adapt to their environments similar to the way humans do."
+excerpt: "\"Given that more than 98 per cent of all work requires the dexterity of the human hand, one can’t create a truly useful humanoid robot without human-like hands,\" he noted. Rose said the company's focus was to emulate human intelligence rather than focus on appearance."
 publishedDateTime: 2023-10-24T14:30:00Z
-originalUrl: "https://www.richmond-news.com/technology/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935"
-webUrl: "https://www.richmond-news.com/technology/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935"
+originalUrl: "https://www.vancouverisawesome.com/local-news/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935"
+webUrl: "https://www.vancouverisawesome.com/local-news/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935"
 type: article
-quality: 52
-heat: 52
-published: false
 
 provider:
-  name: Richmond News
-  domain: richmond-news.com
+  name: Vancouver Is Awesome
+  domain: vancouverisawesome.com
 
 topics:
   - AI in Robotics
@@ -24,6 +21,6 @@ images:
     height: 592
     isCached: true
 
-secured: "WHObbW61fv8CLTLJk/rIN2wt0IlCbxK5HNerej7wKOuO8ckiRWwosp+FErLo3A/9vq1I5xFCO/xvji5J3QjKSY4Pg1frWBXXhlh4Hvt95ujIVtBdWs7vX84M38XgLF09qtCo7QBvhV/uI7dvlUTRFwiVDdBiq3XHSOpHhvSYrb4nWk7hT3K4vuvtp7rrU5TQsFVfF6VVbQIEdzLcwQoCiWcT/nUYAwuZMA2IEp2m7keSWzZzX5nGp55MLWI5TtmG89dByrq6HKiw5ipE7k9+H+k5+FNXwqoMI95B7eO6DcFioD/mhSnj93INFnqrnnvd0kE+X7ECUoQUBGjDSTYaj2RHChgRo9cM1WrkJ0V9VDM=;1kUWQc9XMhqk5yqVCD7YRQ=="
+secured: "+E1Pn0ISa0yPkU/K7cJ/KDgSTS0Z2K0HrX1eLDp3Vg4iTTaPvMtYY1pzA4sJ/5jFsWOqFuiBwKmd4x4dxxKUs3Aie+XS9ai4Edz8dn36Ulh+x1NTC4wiGl4nyON1tw2h55525x0nsrRoaUZAmF3LuTACTbigMr63kGGU+X7ihbMusKRyB9rxKeJJ5oCWKUMFCQiDp9ehI6AVCZEUkPeEAi3w50iPyymk3OAifw6nzqEQ5jmXPOg5+0d/Knui7jOLsX8GJAccHgKI+QiLifYgpLFujk5h8HQG+J9rMKW7KQx3qqRlQLpnpMwuhmUyUdl9TYRzy13p4AU6eeH6XsxCu9M4t7qj4TQlV9ErZ1D+99U=;THRGXGGQ567iEgq+b+LAFw=="
 ---
 

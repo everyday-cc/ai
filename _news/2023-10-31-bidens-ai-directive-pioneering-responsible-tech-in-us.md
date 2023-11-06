@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/654013a3a3ddac919e0cb826/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -59,6 +60,6 @@ related:
         height: 267
         isCached: true
 
-secured: "Nr7JB9s+EAIf76E8rgipp9Jeo42PwwFBEU9cD3RctCES3EPhJab+kdOy+adNrbhpfx1wwI4j8xa+UVovXU/fIaaZtb/6aCt3Enif2L9yK08JVpgJFlh5BrgRLooKaYkNfUsaO4D/1zUYKTfvsPMeKTFEqLNdrw6mWl/a/EWfyt6XXF1i7tpkSX7NAR4BaPgE7KVwrp7E+1G29IEo9R5oT5G1OfXROx39hLwgcAV+rMjRWKqXnNzwSMINHrL1e2y2M89/zLXqcXz27FB5TVNPHURMk2tyB37o7K+oVGKKxEwHkU6Yz5j2lHX2OMu2vmxP8ituGa+k3s1UG8fzdPh/HhUoef25MX6mEabZyQ8iX2U=;ExN+n6qPpa9L0vxXlw3BtA=="
+secured: "4ksF49sY+GDmtM9/04naQf/0V8lOHwktsJmlPjmCx+i6M645h7E7KJgR5zjQmTyqVJmQdnlND1K4iKkkXtDPGsR+oeKZ0OyggcLbL4j8fXLoQMnGrvqcxH+nlrGBy5w+o2Vr4porKZybh4vDi8vTqIoeKC0EQ32pShVTdEurkztlNg9mCoPBnTm0mk3HHXlDK8G6Fa5aFkSmgxbEToKwAV7zUlx6lsAnbTUhdDZVy6nR89PR+PT+gfp0edwVc2cYub91rGPQc2r20AubbtBeZ6hR9Em+CiHPfAI+a0tehaXxAY3kxNWMhjV2Kwd7otTewhG1Y4Nbk9yrscnm9lkcjQo+MV3nMxgiT7wlXCnomHyiPppn90myviYpu3+/0//V7C9XGe6VYdWxlQ/xjMilFAF23womyr+CFZ1cLVbdqmADBCL+3tnF62IclOnECogEb8f1iWXXhtd96OWvUvInCRQkeyJxZazj6VuRQdx784vmRFSGZssyHwstlyA1pVz7Ct3lyFHjYzMtHZ8qLWCcqA==;JAFs6lyZPcZpEtCR+StQiQ=="
 ---
 

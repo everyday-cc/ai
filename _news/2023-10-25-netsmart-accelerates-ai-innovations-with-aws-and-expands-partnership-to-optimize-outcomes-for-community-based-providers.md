@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Netsmart Accelerates AI Innovations with AWS and Expands Partnership to Optimize Outcomes for Community-Based Providers"
-excerpt: "Netsmart & AWS launch the AI Data Lab, advancing community-based providers' care delivery and outcomes through predictive analytics, NLP & AI tools."
-publishedDateTime: 2023-10-24T21:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231024585709/en/Netsmart-Accelerates-AI-Innovations-with-AWS-and-Expands-Partnership-to-Optimize-Outcomes-for-Community-Based-Providers"
-webUrl: "https://www.businesswire.com/news/home/20231024585709/en/Netsmart-Accelerates-AI-Innovations-with-AWS-and-Expands-Partnership-to-Optimize-Outcomes-for-Community-Based-Providers"
+excerpt: "Netsmart today announced the successful development of an artificial intelligence (AI) Data Lab built on Amazon Web Services (AWS) to advance AI for community-based care providers. By combining the scale and power of AWS with the Netsmart CareFabric ® platform,"
+publishedDateTime: 2023-10-24T17:02:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/netsmart-accelerates-ai-innovations-with-aws-and-expands-partnership-to-optimize-outcomes-for-community-based/article_692b76be-e0c2-5b68-8495-43c07dfba5c4.html"
+webUrl: "https://www.bakersfield.com/ap/news/netsmart-accelerates-ai-innovations-with-aws-and-expands-partnership-to-optimize-outcomes-for-community-based/article_692b76be-e0c2-5b68-8495-43c07dfba5c4.html"
 type: article
-quality: 12
-heat: 12
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
-  - Natural Language Processing
 
-secured: "yJuVtcnhws5MwoJeBmai/AAwHr49cdEpoTEg3CbJ2SVFzJ36yxzfmhym5Y8Xj2JuRwPq0lV8cxgE6s0bG1WA/jd6rVYl6CUq1xYzCIOTgAjs01D9YHIgF0S6PXQQkjBHo77hj0FCWSwFO6goQajmtHCWdwoQJEaxsPZhsk9dsD3KDiUjJMg3rgB2QGoMTotPC7jwKEzYADwiIRGVZ/F3bN1O9O265uTsx+TnK0fHPWm4L9BI3sMYTbkmKFDTuuG46r4I6mpRSK3CrxPk/YmMJR/1i0tFOnVIIoZqAWHZXNUz5bzxA6YyBoyZHHKopawguKRbThpo0p6wjKP9ktRVmDhRWqpOmm/Rq/JMwpSYNCtxnHgv4enTvxIuDElQrO56dXudeJvC0oZpQlTmfFBkSXuOT9kigKjwo8y8Zmz8CfKaBQkD+rtGnWt2q32Y/QUseJY1urJk5AXLeJcgmRfIdn0ChBRbRoSa1DU+1XFPkzd4ZX82N21gYsbpd0XeWx29hfCyFQGGpFbi48DfLzu+nA==;qGoQ+SDY6/g0ctchcfazzw=="
+secured: "k1sXSKpD1m8qDi4X4+LvEcye5zYf7pXcvYvo/huwNgj2yUrmiIfLZMKzF4TnxrY9nTMVTLfByFywz3Ki0JRG/EsXom31zfHXePiWnqwg+wzs5gqaDB0Mr40+zTmh2xNuDPooAi78cY8zMFVRegbhzc68lGynv8Ha6O/3QEeJXsZhmQRPAbnp7kfzleXzTBOuKsYqSkKbpAniksrsCJvnPF2itNusAfnnr2CX4xtbLpUT6qy56xahjhHuQlio6/k9nedr4xa/Mu643jJuoxijSlZqeoHgWryeGtezat/uwM/yAs+IBzKv8n5uVOc2UvLbXA0iPfMKdi7zEQuvJiK10kFhCWeRFXP38jq6Ohyt8Vc=;JXbc23o6k/sT7iN0W9GY9Q=="
 ---
 

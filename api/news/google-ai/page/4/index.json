@@ -2,6 +2,322 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-08-inside-the-secret-google-deepmind-mafia-of-founders-working-on-new-stealth-ai-startups.md",
+      "title": "Inside the secret Google DeepMind mafia of founders working on new stealth AI startups",
+      "excerpt": "Alphabet's AI research lab DeepMind nurtures the industry's top talent. It's also spawned a wave of secretive new startups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stealth-ai-startups-emerge-from-google-deepmind-2023-7",
+      "originalUrl": "https://www.businessinsider.com/stealth-ai-startups-emerge-from-google-deepmind-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5beb0fed01b12d5fed0bff43?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-tensorflow-data-validation-anomalies-reference.md",
+      "title": "TensorFlow Data Validation Anomalies Reference",
+      "excerpt": "TFDV checks for anomalies by comparing a schema and statistics proto(s). The following chart lists the anomaly types that TFDV can detect, the schema and statistics fields that are used to detect each anomaly type, and the condition(s) under which each ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tfx/data_validation/anomalies",
+      "originalUrl": "https://www.tensorflow.org/tfx/data_validation/anomalies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-extended-tfx-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-a-new-fund-for-women-creating-ai-startups-in-asia-pacific.md",
+      "title": "A new fund for women creating AI startups in Asia Pacific",
+      "excerpt": "The Google for Startups Women Founders Fund will provide equity-free funding and Google support to women-led AI startups in India, Japan and Korea.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-asia/new-ai-women-fund/",
+      "originalUrl": "https://blog.google/around-the-globe/google-asia/new-ai-women-fund/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image1_RzbDKRC.width-1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/new-ai-women-fund/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/new-ai-women-fund/amp/",
+      "publishedDateTime": "2023-08-02T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-lab-sessions-a-new-series-of-experimental-ai-collaborations.md",
+      "title": "Lab Sessions: A new series of experimental AI collaborations",
+      "excerpt": "Lab Sessions is a series of experimental AI collaborations with everyone from artists to academics, scientists to students.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/lab-sessions/",
+      "originalUrl": "https://blog.google/technology/ai/lab-sessions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LabSessions_Endcard_Still.width-1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/lab-sessions/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/lab-sessions/amp/",
+      "publishedDateTime": "2023-08-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-new-deepmind-ai-model-can-control-robotic-actions-it-was-never-trained-to-do.md",
+      "title": "New DeepMind AI model can control robotic actions it was never trained to do",
+      "excerpt": "Google DeepMind has a new AI model that can direct robotic tasks it was never trained to perform. Named RT-2, the model learns from web and robotics data. It then turns this information into simple instructions for machines.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/google-deepmind-new-ai-model-rt2-controls-robots-untrained-tasks-using-web-data",
+      "originalUrl": "https://thenextweb.com/news/google-deepmind-new-ai-model-rt2-controls-robots-untrained-tasks-using-web-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-2.jpg&signature=3cea29e2e2c17420da10e9330fa21a57",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter.md",
+      "title": "Deepmind unveils RT-2, a new AI that makes robots smarter",
+      "excerpt": "Deepmind released Robotics Transformer 2, a vision-language-action model enabling robots to perform novel tasks without explicit training.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter/",
+      "originalUrl": "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_a_humanoid_robot_ponders_as_a_glowing_yellow_incadescen_9b837456-86d9-4b82-bc17-e7d396153986.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-deepminds-rt-2-makes-robot-control-a-matter-of-ai-chat.md",
       "title": "DeepMind's RT-2 makes robot control a matter of AI chat",
       "excerpt": "Instructing a robot can be just a matter of a large language model that handles actions in the same prompt as images and words.",

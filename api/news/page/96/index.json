@@ -2,253 +2,12 @@
   "page": 96,
   "value": [
     {
-      "path": "_news/2023-08-23-ai-sensors-in-the-forest-can-smell-a-wildfire-before-it-spreads.md",
-      "title": "AI sensors in the forest can smell a wildfire before it spreads",
-      "excerpt": "The startup already sold 10,000 sensors last year ... Faced with this mounting problem authorities and frontline workers are increasingly turning to technologies like AI, drones, infrared cameras, and firefighting robots. In Europe, several fire brigades ...",
+      "path": "_news/2023-08-28-3-artificial-intelligence-stocks-leading-the-robotics-revolution.md",
+      "title": "3 Artificial Intelligence Stocks Leading the Robotics Revolution",
+      "excerpt": "The company’s automation and robotics technologies are critical ... from high-performance computing segments tied to artificial intelligence. While its robotic unit faces macro uncertainty ...",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-wildfires-europe-climate-change-firefighting",
-      "originalUrl": "https://thenextweb.com/news/ai-wildfires-europe-climate-change-firefighting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2Fwildfire-tech-sesnors-dryad-AI-IoT.jpg&signature=9bad0b165e876c9bc0326787bbeb04df",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-meta-is-building-a-space-age-universal-language-translator.md",
-      "title": "Meta is building a space-age ‘universal language translator’",
-      "excerpt": "But Facebook owner Meta wants to change that with SeamlessM4T, an AI-powered “universal language translator” that could instantly convert any language in the world into whatever output you want.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/meta-ai-universal-language-translator/",
-      "originalUrl": "https://www.digitaltrends.com/computing/meta-ai-universal-language-translator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/meta-facebook.jpeg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/meta-ai-universal-language-translator/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/meta-ai-universal-language-translator/?amp",
-      "publishedDateTime": "2023-08-22T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-meta-claims-breakthrough-in-quest-to-build-hitchhikers-guide-style-language-translator.md",
-      "title": "Meta claims breakthrough in quest to build Hitchhiker’s Guide-style language translator",
-      "excerpt": "The Facebook owner has revealed a new AI tool that can automatically translate speech from 100 languages. The technology can transcribe all 100 languages into text form, while also translating ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/business/2023/08/22/meta-breakthrough-hitchhikers-guide-language-translator-ai/",
-      "originalUrl": "https://www.telegraph.co.uk/business/2023/08/22/meta-breakthrough-hitchhikers-guide-language-translator-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/business/2023/08/22/TELEMMGLPICT000004015236_16927209963440_trans_NvBQzQNjv4BqFOgdDOZBSSpUpWf9Rnp5s6Aezwuvexs_ues-aCB_TCg.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-ai-software-roped-in-to-translate-mbbs-textbooks.md",
-      "title": "AI software roped in to translate MBBS textbooks",
-      "excerpt": "Indore: Medical education department is using an open-source artificial intelligence (AI) software tool for transliteration of all textbooks of MBBS c.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/articleshow/102962341.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/articleshow/102962341.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/amp_articleshow/102962341.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/amp_articleshow/102962341.cms",
-      "publishedDateTime": "2023-08-22T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-an-ai-powered-bot-could-take-your-next-drive-thru-order-at-one-of-these-top-fast-food-restaurants.md",
-      "title": "An AI-powered bot could take your next drive-thru order at one of these top fast-food restaurants",
-      "excerpt": "Automation tools, from AI to robotics, are growing in popularity ... An automated bot named \"Tori\" created by the startup OpenCity takes orders from drive-thru customers. 7. Popeyes Last year ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots",
-      "originalUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64e61b01912f290019a98b35?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots?amp",
-      "publishedDateTime": "2023-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-how-to-buy-openai-stock-a-guide.md",
-      "title": "How to Buy OpenAI Stock: A Guide",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF The Global X Robotics & Artificial Intelligence ETF (NASDAQ: BOTZ) is an exchange-traded fund that invests in companies associated with the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AAPL-Q/pressreleases/19665139/how-to-buy-openai-stock-a-guide/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AAPL-Q/pressreleases/19665139/how-to-buy-openai-stock-a-guide/",
+      "webUrl": "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-leading-the-robotics-revolution",
+      "originalUrl": "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-leading-the-robotics-revolution",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -258,644 +17,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce.md",
-      "title": "Democratizing Opportunity: How AI-Enabled Long Tail Learning Empowers The Blue-Collar Workforce",
-      "excerpt": "Artificial Intelligence can create customized education for specific skills that are vital for blue collar workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedladd/2023/08/22/democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce/",
-      "originalUrl": "https://www.forbes.com/sites/tedladd/2023/08/22/democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e541aceddf72308ad8ae34/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 977,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedladd/2023/08/22/democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/08/22/democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce/amp/",
-      "publishedDateTime": "2023-08-22T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-metas-new-ai-model-is-a-real-time-translation-expert.md",
-      "title": "Meta's new AI model is a real-time translation expert",
-      "excerpt": "Meta's latest AI output is a major advancement for real-time text and speech translation. On Tuesday, the company released SeamlessM4T: a multimodal model that translates text to speech and vice versa.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/metas-ai-model-real-time-200728287.html",
-      "originalUrl": "https://www.aol.com/metas-ai-model-real-time-200728287.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/BgNJI31cnHuufEMZ4rCbRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_mashable_370/38dc5aa082fba818e4fe45f494572fa0",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.md",
-      "title": "IBM Watsonx to use generative AI to translate COBOL code into Java",
-      "excerpt": "In a bid to help enterprises running IBM Z systems modernise their applications, IBM is expanding the abilities of its generative AI based Watson Code Assistant to include COBOL code translation into Java. The Big Blue claims that the introduction of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/708452/ibm-watsonx-use-generative-ai-translate-cobol-code-into-java/",
-      "originalUrl": "https://www.reseller.co.nz/article/708452/ibm-watsonx-use-generative-ai-translate-cobol-code-into-java/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_181115691.jpg",
-          "width": 500,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-ai-robots-poised-to-take-over-english-language-instruction-for-young-students.md",
-      "title": "AI Robots Poised to Take Over English Language Instruction for Young Students",
-      "excerpt": "Share with friendsAmidst a wave of controversy over using chatbots in the classroom, real robots are now taking over. Curiosity Robotics has recently launched “Aico”— a friendly robot that uses Artificial Intelligence (AI) to help children learn English as a second language.",
-      "sourceUrl": null,
-      "webUrl": "https://gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/",
-      "originalUrl": "https://gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gvwire.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/08/22112132/AP368756065526814-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/?amp=1",
-      "cdnAmpWebUrl": "https://gvwire-com.cdn.ampproject.org/c/s/gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/?amp=1",
-      "publishedDateTime": "2023-08-22T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bill McEwen",
-        "domain": "gvwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-vmware-nvidia-team-core-infrastructure-to-acclererate-generative-ai.md",
-      "title": "VMware-Nvidia Team Core Infrastructure To Acclererate Generative AI",
-      "excerpt": "VMware is now continuing its systems level development by working further with Nvidia to deliver core services that underpin new AI delpoyments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/22/vmware-nvidia-team-core-infrastructure-to-acclererate-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/22/vmware-nvidia-team-core-infrastructure-to-acclererate-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e39ecdc2691457f00c8df5/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/22/vmware-nvidia-team-core-infrastructure-to-acclererate-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/08/22/vmware-nvidia-team-core-infrastructure-to-acclererate-generative-ai/amp/",
-      "publishedDateTime": "2023-08-22T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-americans-are-terrified-about-data-and-ai.md",
-      "title": "Americans Are Terrified About Data And AI",
-      "excerpt": "Americans are extremely worried about data, privacy, and the rapid development of AI according to a new report",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e52dbc25547dd2ca4af6bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/08/22/americans-are-terrified-about-data-and-ai/amp/",
-      "publishedDateTime": "2023-08-22T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-from-c-suite-to-loading-dock-the-impact-of-artificial-intelligence-will-be-evenly-distributed.md",
-      "title": "From C-Suite To Loading Dock, The Impact Of Artificial Intelligence Will Be Evenly Distributed",
-      "excerpt": "Automating bad processes won’t make them better. Break the business down to its essential elements to drive efficiency and deliver real productivity gains.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/08/22/from-c-suite-to-loading-dock-the-impact-of-artificial-intelligence-will-be-evenly-distributed/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/08/22/from-c-suite-to-loading-dock-the-impact-of-artificial-intelligence-will-be-evenly-distributed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64066e2004e88f37218619bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/08/22/from-c-suite-to-loading-dock-the-impact-of-artificial-intelligence-will-be-evenly-distributed/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/08/22/from-c-suite-to-loading-dock-the-impact-of-artificial-intelligence-will-be-evenly-distributed/amp/",
-      "publishedDateTime": "2023-08-22T14:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-man-accused-of-stealing-dead-brothers-identity-in-1965-caught-with-facial-recognition.md",
-      "title": "Man Accused Of Stealing Dead Brother's Identity In 1965 Caught With Facial Recognition",
-      "excerpt": "BANGOR, Maine (AP) — An 86-year-old man accused of assuming his brother’s identity decades ago and using it to double dip on Social Security benefits has been convicted of several charges, caught by facial recognition technology that matched the same face to two different identities, authorities say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a",
-      "originalUrl": "https://www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/64e529b52600005a0035fe8c.jpeg?ops=1200_630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a/amp",
-      "publishedDateTime": "2023-08-22T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-meta-releases-ai-model-for-translating-speech-between-dozens-of-languages.md",
-      "title": "Meta releases AI model for translating speech between dozens of languages",
-      "excerpt": "Facebook parent company Meta Platforms on Tuesday released an AI model capable of translating and transcribing speech in dozens of languages, a potential building-block for tools enabling real-time communication across language divides.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/meta-platforms-artificial-intelligence/meta-releases-ai-model-for-translating-speech-between-dozens-of-languages-idUSL1N3A22F4",
-      "originalUrl": "https://www.reuters.com/article/meta-platforms-artificial-intelligence/meta-releases-ai-model-for-translating-speech-between-dozens-of-languages-idUSL1N3A22F4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-microsoft-revamps-activision-blizzard-deal-over-uk-demands.md",
-      "title": "Microsoft revamps Activision Blizzard deal over UK demands",
-      "excerpt": "Microsoft restructured its $69 billion deal ... control the licensing terms of Activision Blizzard games for rival services,” Smith wrote. The CMA said it opened a new investigation into the ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/4164126-microsoft-revamps-activision-blizzard-deal-over-uk-demands/",
-      "originalUrl": "https://thehill.com/policy/technology/4164126-microsoft-revamps-activision-blizzard-deal-over-uk-demands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/4164126-microsoft-revamps-activision-blizzard-deal-over-uk-demands/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4164126-microsoft-revamps-activision-blizzard-deal-over-uk-demands/amp/",
-      "publishedDateTime": "2023-08-22T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-microsoft-seeks-to-save-activision-deal.md",
-      "title": "Microsoft seeks to save Activision deal",
-      "excerpt": "Ubisoft will “compensate Microsoft” for the cloud streaming ... the licensing terms of Activision Blizzard games for rival services,” Smith wrote. The CMA said it opened a new investigation ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/newsletters/4165362-microsoft-seeks-to-save-activision-deal/",
-      "originalUrl": "https://thehill.com/newsletters/4165362-microsoft-seeks-to-save-activision-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/newsletters/4165362-microsoft-seeks-to-save-activision-deal/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/4165362-microsoft-seeks-to-save-activision-deal/amp/",
-      "publishedDateTime": "2023-08-22T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-ibm-sells-the-weather-company-assets-to-francisco-partners.md",
-      "title": "IBM sells The Weather Company assets to Francisco Partners",
-      "excerpt": "IBM has agreed to sell The Weather Company assets to Francisco Partners, the private equity firm, for an undisclosed amount.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/",
-      "originalUrl": "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1055028402.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/amp/",
-      "publishedDateTime": "2023-08-22T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-announcing-amazon-s3-access-point-support-for-amazon-sagemaker-data-wrangler.md",
-      "title": "Announcing Amazon S3 access point support for Amazon SageMaker Data Wrangler",
-      "excerpt": "In this post, we walk you through importing data from, and exporting data to, an S3 access point in SageMaker Data Wrangler.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-s3-access-point-support-for-amazon-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-s3-access-point-support-for-amazon-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/21/featured-images-ML-14476-1120x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T13:33:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-a-guide-to-fintech-etf-investing.md",
-      "title": "A Guide to Fintech ETF Investing",
-      "excerpt": "According to ResearchAndMarkets.com, AI in the fintech market will witness a remarkable CAGR of 23.6% from 2023 to 2028. Significant factors contributing to this expansion include the rising ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/a-guide-to-fintech-etf-investing",
-      "originalUrl": "https://www.nasdaq.com/articles/a-guide-to-fintech-etf-investing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T13:22:00-07:00",
+      "publishedDateTime": "2023-08-27T17:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -909,40 +31,31 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-08-23-gartner-claims-revenue-from-ai-chips-to-reach-us53b-this-year.md",
-      "title": "Gartner claims revenue from AI chips to reach US$53b this year",
-      "excerpt": "Semiconductors that can be used in artificial intelligence projects could represent a US$53.4 billion (A$83.1 billion) market in 2023, the technology analyst firm Gartner has predicted, adding that this would be a 20.",
+      "path": "_news/2023-08-28-5-computer-vision-stocks-with-a-clear-path-to-growth.md",
+      "title": "5 Computer Vision Stocks with a Clear Path to Growth",
+      "excerpt": "That phase is AI's industrialization, which will be facilitated by the IoT, edge computing, and computer vision stocks like the ones listed here. These are the leading players in computer vision.",
       "sourceUrl": null,
-      "webUrl": "https://itwire.com/business-it-news/enterprise-solutions/gartner-claims-revenue-from-ai-chips-to-reach-us$53b-this-year.html",
-      "originalUrl": "https://itwire.com/business-it-news/enterprise-solutions/gartner-claims-revenue-from-ai-chips-to-reach-us$53b-this-year.html",
+      "webUrl": "https://www.nasdaq.com/articles/5-computer-vision-stocks-with-a-clear-path-to-growth",
+      "originalUrl": "https://www.nasdaq.com/articles/5-computer-vision-stocks-with-a-clear-path-to-growth",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/ad3a2519674a154c0bf6e392f81f20e7_M.jpg",
-          "width": 375,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T12:41:00-07:00",
+      "publishedDateTime": "2023-08-27T17:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -952,41 +65,41 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-08-23-dont-sleep-on-these-3-ai-chip-stocks-that-will-mint-millionaires.md",
-      "title": "Don’t Sleep on These 3 AI Chip Stocks That Will Mint Millionaires",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks and chip companies have been the talk of Wall Street in 2023.",
+      "path": "_news/2023-08-28-dont-fear-the-self-driving-car.md",
+      "title": "Don’t Fear the Self-Driving Car",
+      "excerpt": "However easy it is to forecast a self-driving dystopia, it would be deeply unwise to dismiss the unknown and unknowable benefits of new automotive technologies. After all, with technological ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-ai-chip-stocks-that-will-mint-millionaires-1032574289",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-ai-chip-stocks-that-will-mint-millionaires-1032574289",
+      "webUrl": "https://www.nationalreview.com/2018/01/self-driving-cars-wont-impact-freedom/",
+      "originalUrl": "https://www.nationalreview.com/2018/01/self-driving-cars-wont-impact-freedom/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/01/self-driving-car-nutonomy-boston-2_0-1.jpg?resize=300%2C300&ssl=1",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T12:01:00-07:00",
+      "ampWebUrl": "https://www.nationalreview.com/2018/01/self-driving-cars-wont-impact-freedom/amp/",
+      "cdnAmpWebUrl": "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/2018/01/self-driving-cars-wont-impact-freedom/amp/",
+      "publishedDateTime": "2023-08-27T17:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "National Review",
+        "domain": "nationalreview.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -995,26 +108,26 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-08-23-microsoft-to-sell-off-activision-cloud-gaming-rights-to-ubisoft-in-bid-for-uk-approval.md",
-      "title": "Microsoft to sell off Activision cloud gaming rights to Ubisoft in bid for UK approval",
-      "excerpt": "Microsoft won’t be able to exclusively control the licensing terms of Activision Blizzard games on rival services, either. Instead, Ubisoft will control the streaming rights to Activision ...",
+      "path": "_news/2023-08-28-putting-artificial-intelligence-to-work-in-cancer-diagnosis-and-treatment.md",
+      "title": "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment",
+      "excerpt": "Artificial intelligence's future involvement in healthcare, particularly in the detection and treatment of cancer, is anticipated to take a variety of forms, ranging from identifying a specific form of cancer to evaluating which therapy method may best ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/8/22/23828302/microsoft-activision-blizzard-acquisition-ubisoft-cloud-gaming-rights-uk-cma",
-      "originalUrl": "https://www.theverge.com/2023/8/22/23828302/microsoft-activision-blizzard-acquisition-ubisoft-cloud-gaming-rights-uk-cma",
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.vox-cdn.com/thumbor/TckDaeLCCmwuXDsjZAmU41I9lqg=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24755330/WJoel_STK156_1.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/JDW04Yweb.jpg",
+          "width": 770,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1024,14 +137,169 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T11:18:00-07:00",
+      "publishedDateTime": "2023-08-27T17:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-how-robotaxis-are-dividing-san-francisco.md",
+      "title": "How robotaxis are dividing San Francisco",
+      "excerpt": "He represents a faction in San Francisco that doesn't like robotaxis - and believes the city has agreed to a dangerous experiment, which is putting lives at risk. And some have gone a step further. Over the summer a campaign group has begun to disable the cars, by putting cones on their bonnets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/technology-66611513?at_medium=RSS&at_campaign=KARANGA",
+      "originalUrl": "https://www.bbc.co.uk/news/technology-66611513?at_medium=RSS&at_campaign=KARANGA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/AF95/production/_130894944_7.8-1.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/technology-66611513.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66611513.amp",
+      "publishedDateTime": "2023-08-27T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-ai-brings-the-robot-wingman-to-aerial-combat.md",
+      "title": "AI Brings the Robot Wingman to Aerial Combat",
+      "excerpt": "What distinguishes the Air Force’s pilotless XQ-58A Valkyrie experimental aircraft is that it is run by artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/",
+      "originalUrl": "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1",
+      "publishedDateTime": "2023-08-27T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look.md",
+      "title": "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look",
+      "excerpt": "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-can-ai-increase-diversity-on-tech-teams-the-jury-is-out.md",
+      "title": "Can AI Increase Diversity On Tech Teams? The Jury Is Out",
+      "excerpt": "Can AI reduce the diversity gap in technology teams? Experts weigh on the possibility of AI changing how corporations champion diversity in the hiring process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2023/08/27/can-ai-increase-diversity-on-tech-teams-the-jury-is-out/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2023/08/27/can-ai-increase-diversity-on-tech-teams-the-jury-is-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e92b60f6b1f18bf10f2e62/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2023/08/27/can-ai-increase-diversity-on-tech-teams-the-jury-is-out/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/08/27/can-ai-increase-diversity-on-tech-teams-the-jury-is-out/amp/",
+      "publishedDateTime": "2023-08-27T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1047,24 +315,144 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-08-23-epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs.md",
-      "title": "Epic and Microsoft expand AI partnership to 'address healthcare's most pressing needs'",
-      "excerpt": "And now, they plan to rapidly deploy dozens of AI-powered solutions within Epic's health systems. The companies aim to address critical healthcare needs like \"workforce burnout to staffing shortages.\" New capabilities powered by Microsoft Azure and its AI ...",
+      "path": "_news/2023-08-27-how-to-use-ai-for-marketing-without-sounding-like-a-robot.md",
+      "title": "How to use AI for marketing without sounding like a robot",
+      "excerpt": "OPINION: Telling your own stories in your own voice sets your brand apart and helps customers connect with whatever it is you're selling.",
       "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
-      "originalUrl": "https://www.neowin.net/news/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
+      "webUrl": "https://www.stuff.co.nz/business/prosper/300958137/how-to-use-ai-for-marketing-without-sounding-like-a-robot",
+      "originalUrl": "https://www.stuff.co.nz/business/prosper/300958137/how-to-use-ai-for-marketing-without-sounding-like-a-robot",
       "featuredContent": null,
       "highlight": null,
-      "heat": 213,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg",
+          "url": "https://resources.stuff.co.nz/content/dam/images/4/z/6/k/r/p/image.related.StuffLandscapeSixteenByNine.1420x800.4z6ks9.png/1692934998222.jpg",
+          "width": 1420,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stuff.co.nz",
+        "domain": "stuff.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look.md",
+      "title": "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look",
+      "excerpt": "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/19736510/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/19736510/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-this-inventor-aims-to-make-mind-controlled-sex-toys.md",
+      "title": "This inventor aims to make mind-controlled sex toys",
+      "excerpt": "A new report by Slate published on Saturday is highlighting the work of Brian Sloan an inventor who is seeking to make the first-ever mind-controlled sex toys.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/this-inventor-aims-to-make-mind-controlled-sex-toys",
+      "originalUrl": "https://interestingengineering.com/innovation/this-inventor-aims-to-make-mind-controlled-sex-toys",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/08/27/image/jpeg/Bdki9L5W1pulTx0ENmJQd6IBM1KVABUSSuahtxEM.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests.md",
+      "title": "Microsoft Weekly: Windows 11 and unsupported CPU, cloud goes to Ubisoft, File Explorer tests",
+      "excerpt": "Microsoft 365 insiders can try the new Python integration that lets you use Python for visualizations, cleaning data, machine learning, predictive analytics ... with Microsoft announcing it would no longer produce Azure Kinect Developer Kit (an enterprise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/06/1687029065_microsoft_weekly_story.jpg",
           "width": 760,
           "height": 428,
           "title": null,
@@ -1074,9 +462,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
-      "publishedDateTime": "2023-08-22T10:16:00-07:00",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
+      "publishedDateTime": "2023-08-27T07:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Neowin",
@@ -1100,26 +488,25 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-08-23-rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms.md",
-      "title": "Rise of The Robots: The New AI Tech Poised To Take Over Classrooms",
-      "excerpt": "Curiosity Robotics plans on taking the robotic helper to more schools across Israel and abroad. Undaunted by any current backlash to AI, the ambitious start-up is “committed to transforming ...",
+      "path": "_news/2023-08-27-ai-will-not-eliminate-jobs.md",
+      "title": "AI Will Not Eliminate Jobs",
+      "excerpt": "That title is a bold statement in a world where AI, ChatGPT and other technologies are doing many tasks that employees have typically performed.",
       "sourceUrl": null,
-      "webUrl": "https://www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.html",
-      "originalUrl": "https://www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.html",
+      "webUrl": "https://www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-eliminate-jobs/",
+      "originalUrl": "https://www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-eliminate-jobs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/0/30/030d87a1-a1f5-5cc4-a90f-3eea2b9a51b6/64e4c536bf69f.image.jpg?resize=1024%2C577",
-          "width": 1024,
-          "height": 577,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e94ab308aeeab5723b0616/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 646,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1127,13 +514,543 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.amp.html",
-      "cdnAmpWebUrl": "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.amp.html",
-      "publishedDateTime": "2023-08-22T10:02:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-eliminate-jobs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-eliminate-jobs/amp/",
+      "publishedDateTime": "2023-08-27T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daily Item",
-        "domain": "dailyitem.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes.md",
+      "title": "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service – Forbes",
+      "excerpt": "AWS and Hugging Face announced a partnership to offer large language models (LLMs) and generative AI models on AWS’ ML platform. The Hugging Face community can leverage AWS ML services and infrastructure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/694977/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/",
+      "originalUrl": "https://www.inferse.com/694977/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4701.png",
+          "width": 1000,
+          "height": 715,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-ai-brings-the-robot-wingman-to-aerial-combat.md",
+      "title": "A.I. Brings the Robot Wingman to Aerial Combat",
+      "excerpt": "The emergence of artificial intelligence is helping to spawn a new generation ... “I’m not going to have this robot go out and just start shooting at things,” General Jobe said during a briefing with Pentagon reporters late last year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/08/27/us/politics/ai-air-force.html",
+      "originalUrl": "https://www.nytimes.com/2023/08/27/us/politics/ai-air-force.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/24/multimedia/00dc-military-ai-bmpq/00dc-military-ai-bmpq-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-artificial-intelligence-not-ready-for-prime-time.md",
+      "title": "Artificial Intelligence: not ready for prime time",
+      "excerpt": "Similarly, the father of modern linguistics and trailblazer in cognitive science Noam Chomsky, at the 2022 WebSummit, called AI, “autocomplete on steroids,” and said AI is, “basically just a way of wasting a lot of the energy in California.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.normantranscript.com/news/artificial-intelligence-not-ready-for-prime-time/article_de672110-42d8-11ee-bd17-fbdbeb670ed3.html",
+      "originalUrl": "https://www.normantranscript.com/news/artificial-intelligence-not-ready-for-prime-time/article_de672110-42d8-11ee-bd17-fbdbeb670ed3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-26T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Norman Transcript",
+        "domain": "normantranscript.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-self-driving-comes-to-san-francisco.md",
+      "title": "Self Driving Comes To San Francisco",
+      "excerpt": "California regulators vote on allowing self-driving taxis in major cities, presenting a huge market opportunity in the industry. Waymo and Cruise are leading the self-driving market, while Tesla ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4631345-self-driving-comes-to-san-francisco",
+      "originalUrl": "https://seekingalpha.com/article/4631345-self-driving-comes-to-san-francisco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1391088190/image_1391088190.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1152,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-26T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-graduate-certificate-in-artificial-intelligence-and-machine-learning.md",
+      "title": "Graduate Certificate in Artificial Intelligence and Machine Learning",
+      "excerpt": "Who is the AI and Machine Learning Certificate program for? Drexel College of Computing & Informatics' Post-Baccalaureate/Graduate Certificate in Artificial Intelligence (AI) and Machine Learning (ML) is designed for recent graduates and professionals who ...",
+      "sourceUrl": null,
+      "webUrl": "https://drexel.edu/cci/academics/certificate-programs/graduate-certificate-in-artificial-intelligence-machine-learning/",
+      "originalUrl": "https://drexel.edu/cci/academics/certificate-programs/graduate-certificate-in-artificial-intelligence-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx",
+          "width": 315,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Drexel University",
+        "domain": "drexel.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-internet-controlled-robotic-arm.md",
+      "title": "Internet Controlled Robotic Arm",
+      "excerpt": "The guys over at Rusty Nail Workshop have put up an Internet controlled robotic arm for your amusement. While you’re waiting for the turkey to be done (or, you know, working), try your hand at ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2011/11/24/internet-controlled-robotic-arm-2/",
+      "originalUrl": "https://hackaday.com/2011/11/24/internet-controlled-robotic-arm-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://hackaday.com/wp-content/uploads/2011/11/arm.png",
+          "width": 470,
+          "height": 257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-masters-ms-in-machine-learning-and-artificial-intelligence.md",
+      "title": "Master’s (MS) in Machine Learning and Artificial Intelligence",
+      "excerpt": "Who is the Master's in Artificial Intelligence and Machine Learning program for? Drexel’s College of Computing & Informatics' Master of Science in Artificial Intelligence and Machine Learning (MSAIML) is designed for students who hold a four-year ...",
+      "sourceUrl": null,
+      "webUrl": "https://drexel.edu/cci/academics/masters-programs/ms-in-artificial-intelligence-machine-learning/",
+      "originalUrl": "https://drexel.edu/cci/academics/masters-programs/ms-in-artificial-intelligence-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx",
+          "width": 315,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Drexel University",
+        "domain": "drexel.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-theres-no-such-thing-as-self-driving-cars-not-yet-anyway.md",
+      "title": "There's No Such Thing as Self-Driving Cars, Not Yet Anyway",
+      "excerpt": "But what makes self-driving cars so complicated and tricky to make? And where do we stand in all of this? What in the heck is an autonomous car anyway? A fully autonomous car is a vehicle that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoguide.com/auto-news/2020/08/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.html",
+      "originalUrl": "https://www.autoguide.com/auto-news/2020/08/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-fastly.autoguide.com/media/2023/06/28/13413253/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.jpg?size=1200x628",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AutoGuide",
+        "domain": "autoguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-27-facial-recognition-at-welcome-back-concert-raises-concern.md",
+      "title": "Facial recognition at Welcome Back Concert raises concern",
+      "excerpt": "allowing transactions to take place seamlessly through facial recognition. The system boasts its low processing fees, contactless payment format and reduced transaction time. In a statement to the Daily Trojan, PopPay wrote that it is “a paid sponsor of ...",
+      "sourceUrl": null,
+      "webUrl": "https://dailytrojan.com/2023/08/25/poppay-welcome-back/",
+      "originalUrl": "https://dailytrojan.com/2023/08/25/poppay-welcome-back/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailytrojan.com/wp-content/uploads/2023/08/Screenshot_2023-08-23_at_10.42.40_AM-1030x661.png",
+          "width": 1030,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-26T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Trojan",
+        "domain": "dailytrojan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-lost-in-translation-europes-quest-to-speak-ai.md",
+      "title": "Lost in translation: Europe’s quest to speak AI",
+      "excerpt": "So-called AI language models like the American GTP-3 are systems that understand and generate text. The models have triggered a flurry of innovative tools, including multilingual search apps, robot-written news articles, automatic translation and chatbots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/",
+      "originalUrl": "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-26T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving.md",
+      "title": "Tesla Is Wrong: Single Passenger Cars Should Not Be Focus For Self-Driving",
+      "excerpt": "The focus of Tesla FSD is wrong. We shouldn’t be aiming to make single-passenger vehicles autonomous, when there are other areas that will provide greater benefit sooner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/",
+      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e7d44f7b6ad5c3a54af6bf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/amp/",
+      "publishedDateTime": "2023-08-26T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-robotics-and-coding-being-taught-at-durbar-high-school.md",
+      "title": "Robotics and Coding being taught at Durbar High School",
+      "excerpt": "Robotics and Coding classes have been launched at the historical Durbar High School, popularly known as Bhanu Secondary School.",
+      "sourceUrl": null,
+      "webUrl": "https://myrepublica.nagariknetwork.com/news/robotics-and-coding-being-taught-at-durbar-high-school/",
+      "originalUrl": "https://myrepublica.nagariknetwork.com/news/robotics-and-coding-being-taught-at-durbar-high-school/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://myrepublica.nagariknetwork.com/uploads/media/DurbarHighSchool_20230826095609.jpg",
+          "width": 1200,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://myrepublica.nagariknetwork.com/amp/robotics-and-coding-being-taught-at-durbar-high-school/",
+      "cdnAmpWebUrl": "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/robotics-and-coding-being-taught-at-durbar-high-school/",
+      "publishedDateTime": "2023-08-25T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "myrepublica.nagariknetwork",
+        "domain": "nagariknetwork.com",
         "images": null,
         "publishers": null,
         "authors": null

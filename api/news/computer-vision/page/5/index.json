@@ -2,6 +2,646 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-09-face-recognition-systems-market-with-business-analysis-2023-2031.md",
+      "title": "Face Recognition Systems Market with Business Analysis 2023-2031",
+      "excerpt": "Face Recognition Systems Market Snapshot: In this report analysis, we thoroughly examine the Face Recognition Systems Market by exploring it into different segments, including size, share ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34377140/face-recognition-systems-market-with-business-analysis-2023-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34377140/face-recognition-systems-market-with-business-analysis-2023-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-computer-vision-in-the-healthcare-market-size-trends-and-opportunities-2023-2030.md",
+      "title": "Computer Vision in the Healthcare Market Size, Trends, and Opportunities 2023-2030",
+      "excerpt": "Computer Vision In Healthcare Market is expected to grow from USD 993.8 million in 2022 to USD 22266 million by 2030, at a CAGR of 47%. The increasing demand for computer vision systems in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34319184/computer-vision-in-the-healthcare-market-size-trends-and-opportunities-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34319184/computer-vision-in-the-healthcare-market-size-trends-and-opportunities-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34319184",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34319184",
+      "publishedDateTime": "2023-09-07T16:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer.md",
+      "title": "Obsessed with privacy? Keep Tails on a USB drive and secure most any computer",
+      "excerpt": "If you're looking for protection against surveillance and censorship, this Tor-based operating system is worth a try. Here's how you get started.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
+      "originalUrl": "https://www.zdnet.com/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/47ea9eb0c49e09b472e905c01d49372e4e40e3e7/2023/09/06/b145424d-d84b-4e54-8563-f777abaca925/gettyimages-485333161.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
+      "publishedDateTime": "2023-09-06T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-these-9-stadiums-are-already-using-facial-recognition-at-games.md",
+      "title": "These 9 Stadiums Are Already Using Facial Recognition at Games",
+      "excerpt": "Sports arenas across the country are racing to use your face to replace traditional tickets in spite of worries from privacy advocates.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/9-stadiums-using-facial-recognition-games-rose-bowl-met-1850798207",
+      "originalUrl": "https://gizmodo.com/9-stadiums-using-facial-recognition-games-rose-bowl-met-1850798207",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d5ad754baa503fe4d030e26538bbc050.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-computer-vision-western-asia.md",
+      "title": "Computer Vision - Western Asia",
+      "excerpt": "The market size in the Computer Vision market is projected to reach US$355.80m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 12.56%, resulting in a market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/western-asia",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/western-asia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-04T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-03-revealed-home-office-secretly-lobbied-for-facial-recognition-spy-company.md",
+      "title": "Revealed: Home Office secretly lobbied for facial recognition ‘spy’ company",
+      "excerpt": "The use of facial recognition has provoked fierce criticism over its impact on privacy and human rights, with the European Union seeking to ban the technology in public spaces through proposed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company?mc_cid=224685c5bd&mc_eid=466ee5f8be",
+      "originalUrl": "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company?mc_cid=224685c5bd&mc_eid=466ee5f8be",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-02T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-03-home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company.md",
+      "title": "Home Office accused of secret lobbying for facial recognition ‘spy’ company",
+      "excerpt": "The use of facial recognition has provoked fierce criticism over its impact on privacy and human rights, with the European Union seeking to ban the technology in public spaces through proposed legislation. The heavily redacted correspondence also reveals ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company",
+      "originalUrl": "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8e6e98b9bdc1c7e71fbcc4fc0b52022b9c2b43d4/0_171_5138_3082/master/5138.jpg?width=620&quality=85&auto=format&fit=max&s=a9678567cc87506d36dbf14bfe53583c",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company",
+      "publishedDateTime": "2023-09-02T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-revealed-home-office-secretly-lobbied-for-facial-recognition-spy-company.md",
+      "title": "Revealed: Home Office secretly lobbied for facial recognition ‘spy’ company",
+      "excerpt": "Officials reflected policing minister’s enthusiasm to roll out controversial technology across the country, particularly in retail settings",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company?ref=biztoc.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8e6e98b9bdc1c7e71fbcc4fc0b52022b9c2b43d4/0_171_5138_3082/master/5138.jpg?width=620&quality=85&auto=format&fit=max&s=a9678567cc87506d36dbf14bfe53583c",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company",
+      "publishedDateTime": "2023-09-02T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks.md",
+      "title": "No ticket, no phone, no line: MLB testing facial-recognition entry to ballparks",
+      "excerpt": "Major League Baseball is testing facial authentication-based entry that would allow ticketed fans to walk directly into stadiums — a convenient new",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks-bc22d943",
+      "originalUrl": "https://www.marketwatch.com/story/no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks-bc22d943",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-845561/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks-bc22d943",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks-bc22d943",
+      "publishedDateTime": "2023-08-31T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-new-ai-technology-gives-robot-recognition-skills-a-big-lift.md",
+      "title": "New AI technology gives robot recognition skills a big lift",
+      "excerpt": "With every push, the robot is learning to recognize the object through a new system developed by a team of UT Dallas computer scientists. The new system allows the robot to push objects multiple times until a sequence of images are collected, which in turn ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-08-ai-technology-robot-recognition-skills.html",
+      "originalUrl": "https://techxplore.com/news/2023-08-ai-technology-robot-recognition-skills.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-meta-releases-a-data-set-to-probe-computer-vision-models-for-biases.md",
+      "title": "Meta releases a data set to probe computer vision models for biases",
+      "excerpt": "Made up of 32,000 images containing 50,000 people labeled by human annotators, FACET — a tortured acronym for “FAirness in Computer Vision EvaluaTion” — accounts for classes related to occupations and activities like “basketball player ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/31/meta-releases-a-data-set-to-probe-computer-vision-models-for-biases/",
+      "originalUrl": "https://techcrunch.com/2023/08/31/meta-releases-a-data-set-to-probe-computer-vision-models-for-biases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/meta-distorted-glitched.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/31/meta-releases-a-data-set-to-probe-computer-vision-models-for-biases/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/meta-releases-a-data-set-to-probe-computer-vision-models-for-biases/amp/",
+      "publishedDateTime": "2023-08-31T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-home-office-eyeing-expansion-of-orwellian-facial-recognition.md",
+      "title": "Home Office eyeing expansion of 'Orwellian' facial recognition",
+      "excerpt": "The Home Office insists it wants to \"strike the right balance between public safety and individual privacy rights\" and has issued a call to companies to suggest ways of using it.",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/home-office-eyeing-expansion-of-orwellian-facial-recognition-12950942",
+      "originalUrl": "https://news.sky.com/story/home-office-eyeing-expansion-of-orwellian-facial-recognition-12950942",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/23/08/1600x900/skynews-facial-recognition_6268140.jpg?20230830171724",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942",
+      "publishedDateTime": "2023-08-30T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-voxel-uses-computer-vision-to-increase-workplace-safety.md",
+      "title": "Voxel uses computer vision to increase workplace safety",
+      "excerpt": "The International Labour Organization estimates that there are 340 million workplace incidents every year. Voxel was created to increase workplace safety The International Labour Organization estimates that there are 340 million workplace incidents every year.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/30/voxel/",
+      "originalUrl": "https://techcrunch.com/2023/08/30/voxel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/voxel_nearmiss_video_laptop.png?resize=1200,693",
+          "width": 1200,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/30/voxel/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/30/voxel/amp/",
+      "publishedDateTime": "2023-08-30T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-how-to-enable-face-recognition-on-galaxy-z-flip-4.md",
+      "title": "How To Enable Face Recognition on Galaxy Z Flip 4",
+      "excerpt": "The facial recognition security feature of your Samsung Galaxy Z Flip 4 allows for device unlocks just by looking at the phone display. This can also be used by certain apps to verify your identity.",
+      "sourceUrl": null,
+      "webUrl": "https://thedroidguy.com/enable-face-recognition-on-galaxy-z-flip-4-1229932",
+      "originalUrl": "https://thedroidguy.com/enable-face-recognition-on-galaxy-z-flip-4-1229932",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thedroidguy.com/wp-content/uploads/2022/11/How-To-Enable-Face-Recognition-on-Galaxy-Z-Flip-4.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Droid Guy",
+        "domain": "thedroidguy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-5-computer-vision-stocks-with-a-clear-path-to-growth.md",
       "title": "5 Computer Vision Stocks with a Clear Path to Growth",
       "excerpt": "That phase is AI's industrialization, which will be facilitated by the IoT, edge computing, and computer vision stocks like the ones listed here. These are the leading players in computer vision.",
@@ -644,603 +1284,6 @@
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-new-york-state-report-identifies-risks-in-schools-use-of-facial-recognition-technology.md",
-      "title": "New York state report identifies risks in schools' use of facial recognition technology",
-      "excerpt": "The New York State Office of Information Technology Services (ITS) has determined that, when it comes to the use of facial recognition technology for security in schools, the “risks may",
-      "sourceUrl": null,
-      "webUrl": "https://www.moultrieobserver.com/news/new-york-state-report-identifies-risks-in-schools-use-of-facial-recognition-technology/article_1ec99702-867a-54c1-9348-7999a1abc296.html",
-      "originalUrl": "https://www.moultrieobserver.com/news/new-york-state-report-identifies-risks-in-schools-use-of-facial-recognition-technology/article_1ec99702-867a-54c1-9348-7999a1abc296.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/moultrieobserver.com/content/tncms/custom/image/83dffb44-4d9d-11e8-b162-0f1e2c3a5297.jpg?resize=600%2C360",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-19T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Moultrie Observer",
-        "domain": "moultrieobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-phillies-to-start-letting-in-fans-via-facial-recognition.md",
-      "title": "Phillies to start letting in fans via facial recognition",
-      "excerpt": "Philadelphia will soon become the first city to allow fans entry into a stadium with facial recognition technology, according to the MLB. The new technology, MLB’s Go-Ahead Entry, will launch ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/4159431-phillies-to-start-letting-in-fans-via-facial-recognition/",
-      "originalUrl": "https://thehill.com/policy/technology/4159431-phillies-to-start-letting-in-fans-via-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/4159431-phillies-to-start-letting-in-fans-via-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4159431-phillies-to-start-letting-in-fans-via-facial-recognition/amp/",
-      "publishedDateTime": "2023-08-18T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-14-intriguing-new-and-potential-uses-for-facial-recognition-technology.md",
-      "title": "14 Intriguing New And Potential Uses For Facial Recognition Technology",
-      "excerpt": "Many consumers interact with facial recognition technology each day when they unlock their iPhones. Before being added to smartphones, facial recognition technology—which uses biometric data to identify individuals based on their unique facial features ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64df7e960bca66ac42c712f4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/18/14-intriguing-new-and-potential-uses-for-facial-recognition-technology/amp/",
-      "publishedDateTime": "2023-08-18T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-phillies-fans-can-soon-enter-citizens-bank-park-using-facial-recognition-heres-how-it-works.md",
-      "title": "Phillies fans can soon enter Citizens Bank Park using facial recognition. Here's how it works",
-      "excerpt": "For the first time ever you will have the option to use your face as a ticket at Citizens Bank Park come Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://6abc.com/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
-      "originalUrl": "https://6abc.com/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13664068_081723-wpvi-phillies-facial-recognition-4pm-CC-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
-      "cdnAmpWebUrl": "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
-      "publishedDateTime": "2023-08-17T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "6abc News",
-        "domain": "6abc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-creepily-customized-dishes-and-facial-recognition-how-might-ai-change-fine-dining.md",
-      "title": "Creepily customized dishes and facial recognition: how might AI change fine dining?",
-      "excerpt": "Artificial intelligence could take personalized service a new, possibly sinister level – but can a chatbot replace a chef?",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants?ref=upstract.com",
-      "originalUrl": "https://www.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/2b73a2245ffe131ee39d2c4c058545a6f6c7767d/0_0_1500_900/master/1500.jpg?width=620&quality=85&auto=format&fit=max&s=67119d24f976c08ba2bff3006e890a08",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2023/aug/16/ai-fine-dining-chefs-restaurants",
-      "publishedDateTime": "2023-08-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-how-amazon-shopping-uses-amazon-rekognition-content-moderation-to-review-harmful-images-in-product-reviews.md",
-      "title": "How Amazon Shopping uses Amazon Rekognition Content Moderation to review harmful images in product reviews",
-      "excerpt": "Customers are increasingly turning to product reviews to make informed decisions in their shopping journey, whether they’re purchasing everyday items like a kitchen towel or making major purchases like buying a car. These reviews have transformed into an essential source of information, enabling shoppers",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-shopping-uses-amazon-rekognition-content-moderation-to-review-harmful-images-in-product-reviews/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-shopping-uses-amazon-rekognition-content-moderation-to-review-harmful-images-in-product-reviews/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T12:31:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-state-study-risk-of-facial-recognition-in-schools-may-outweigh-benefits.md",
-      "title": "State study: Risk of facial recognition in schools may outweigh benefits",
-      "excerpt": "A New York State report says the risks of using facial recognition technology in schools may outweigh the benefits. Jim Schultz, a Lockport parent who raised the alarm when he learned the school ...",
-      "sourceUrl": null,
-      "webUrl": "https://buffalonews.com/news/local/education/state-study-risk-of-facial-recognition-in-schools-may-outweigh-benefits/article_a8160f12-384d-11ee-b8e6-a769a7ccdc9a.html",
-      "originalUrl": "https://buffalonews.com/news/local/education/state-study-risk-of-facial-recognition-in-schools-may-outweigh-benefits/article_a8160f12-384d-11ee-b8e6-a769a7ccdc9a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/7/a0/7a0c8c04-3870-11ee-8925-db193aeed84e/5ef251272b6bd.image.jpg?crop=640%2C336%2C0%2C46&resize=640%2C336&order=crop%2Cresize",
-          "width": 640,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth.md",
-      "title": "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth",
-      "excerpt": "This relationship between recognition abilities in different senses stands in contrast to learning styles studies’ failure to find expected correlations among variables. For instance, people’s preferred learning styles do not predict performance on measures of pictorial, auditory or tactile learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
-      "originalUrl": "https://www.stamfordadvocate.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-face-recognition-systems-market-research-report-analyzes-the-segments-data-by-type-and-by-application-2030.md",
-      "title": "Face Recognition Systems Market Research Report | Analyzes The Segments Data by Type and by Application 2030",
-      "excerpt": "Global Face Recognition Systems Market research report in order to help businesses understand the state of the market by different trends, research reports compile analyses and data from a variety ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33845037/face-recognition-systems-market-research-report-analyzes-the-segments-data-by-type-and-by-applicati",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33845037/face-recognition-systems-market-research-report-analyzes-the-segments-data-by-type-and-by-applicati",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33845037",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33845037",
-      "publishedDateTime": "2023-08-14T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech.md",
-      "title": "With facial recognition CCTVs and anti-drone systems, R-Day security goes hi-tech",
-      "excerpt": "Delhi has been wrapped in a security blanket for Tuesday's 77th Independence Day celebrations, with more than 10,000 personnel manning the area in and around the Red Fort from where Prime Minister Narendra Modi will address the nation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.rediff.com/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
-      "originalUrl": "https://www.rediff.com/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://im.rediff.com/345-230/news/2023/aug/14president-murmu-addresses-the-nation.jpg",
-          "width": 345,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
-      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
-      "publishedDateTime": "2023-08-14T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "rediff.com",
-        "domain": "rediff.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth.md",
-      "title": "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth",
-      "excerpt": "Object recognition skills related across senses A few years ago, we became interested in why some people become visual experts more easily than others. We began measuring individual differences in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ourmidland.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
-      "originalUrl": "https://www.ourmidland.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Midland Daily News",
-        "domain": "ourmidland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-face-recognition-revolving-door-market-overview-2023-comprehensive-analysis-till-2030.md",
-      "title": "Face Recognition Revolving Door Market Overview 2023: Comprehensive Analysis till 2030",
-      "excerpt": "Global \"Face Recognition Revolving Door Market\" Scope and Outlook Report for 2023 is the implementation of new technologies and innovative solutions that will drive the market's revenue generation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33836025/face-recognition-revolving-door-market-overview-2023-comprehensive-analysis-till-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33836025/face-recognition-revolving-door-market-overview-2023-comprehensive-analysis-till-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33836025",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33836025",
-      "publishedDateTime": "2023-08-14T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-computer-vision-in-artificial-intelligence-ai-market-growth-report-2023-2030-101-pages-report.md",
-      "title": "Computer Vision in Artificial Intelligence (AI) Market Growth Report 2023-2030 | 101 Pages Report",
-      "excerpt": "The Global Computer Vision in Artificial Intelligence (AI) market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33833964/computer-vision-in-artificial-intelligence-ai-market-growth-report-2023-2030-101-pages-report",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33833964/computer-vision-in-artificial-intelligence-ai-market-growth-report-2023-2030-101-pages-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-ai-facial-recognition-led-to-8-month-pregnant-womans-wrongful-carjacking-arrest-in-front-of-kids-lawsuit.md",
-      "title": "AI facial recognition led to 8-month pregnant woman's wrongful carjacking arrest in front of kids: lawsuit",
-      "excerpt": "An eight-month pregnant woman, Porcha Woodruff, was arrested by Detroit police for a carjacking that she did not commit based on faulty AI-powered facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit",
-      "originalUrl": "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/07/340/340/Chris-Eberhart-Headshot-1.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit.amp",
-      "publishedDateTime": "2023-08-13T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

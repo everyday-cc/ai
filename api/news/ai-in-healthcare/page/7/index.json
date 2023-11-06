@@ -2,6 +2,388 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-02-2-healthcare-ai-stocks-that-could-go-parabolic.md",
+      "title": "2 Healthcare AI Stocks That Could Go Parabolic",
+      "excerpt": "In May, Recursion increased its AI-powered capability by agreeing to buy two AI-focused drug discovery start-ups, Cyclica and Valance, for a total of $87.5 million. GE Healthcare's shares are up nearly 40% to start the year. The recent spinoff from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-that-could-go-parabolic/",
+      "originalUrl": "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-that-could-go-parabolic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/741875/research-scientists-drugs-pharma-biotech.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare.md",
+      "title": "From smart stethoscopes to predicting bed demand: how AI can support healthcare",
+      "excerpt": "demonstrates the potential usefulness of artificial intelligence in healthcare. A separate trial found that AI in breast cancer screening is safe and can almost halve the workload of radiologists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/aug/02/from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare",
+      "originalUrl": "https://www.theguardian.com/technology/2023/aug/02/from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8c619bbefc5c6ae95070c6b0fee447a064b66fc0/0_25_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=7043142e02085e81ced6e6dcbcc6a8db",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/aug/02/from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/02/from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare",
+      "publishedDateTime": "2023-08-02T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-duke-health-partners-with-microsoft-to-expand-use-of-ai-in-health-care-study-responsible-use.md",
+      "title": "Duke Health partners with Microsoft to expand use of AI in health care, study responsible use",
+      "excerpt": "Artificial intelligence can do everything from writing a social media post to scouring a medical journal, and it’s becoming more common in the health care field. On",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/",
+      "originalUrl": "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cbs17.com/wp-content/uploads/sites/29/2023/03/duke-health.001-e1685671071333.jpeg?w=1280",
+          "width": 974,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/amp/",
+      "cdnAmpWebUrl": "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/amp/",
+      "publishedDateTime": "2023-08-01T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cbs17.com",
+        "domain": "cbs17.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-artificial-intelligence-in-womens-health-the-pros-the-cons-and-the-guardrails-needed-to-improve-care.md",
+      "title": "Artificial Intelligence In Women’s Health: The Pros, The Cons, And The Guardrails Needed To Improve Care",
+      "excerpt": "At that point, artificial intelligence (AI) was still a relatively young development in society: one that wouldn’t enter healthcare for another 20 years. Now, artificial intelligence - or the combination of computer science and datasets to stimulate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/evaepker/2023/08/01/artificial-intelligence-in-womens-health-the-pros-the-cons-and-the-guardrails-needed-to-improve-care/",
+      "originalUrl": "https://www.forbes.com/sites/evaepker/2023/08/01/artificial-intelligence-in-womens-health-the-pros-the-cons-and-the-guardrails-needed-to-improve-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b77d90b34fc46d155b79a2/0x0.jpg?format=jpg&crop=1208,679,x0,y55,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-5-questions-about-generative-ai-in-healthcare.md",
+      "title": "5 Questions about Generative AI in Healthcare",
+      "excerpt": "Two healthcare and life sciences attorneys dive deeper into what the recent growth of generative artificial intelligence tools means for providers and patients.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2023/07/5-questions-generative-ai-in-healthcare-perfcon",
+      "originalUrl": "https://healthtechmagazine.net/article/2023/07/5-questions-generative-ai-in-healthcare-perfcon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202307/HTQ323_FOC_Hero4.jpg?itok=ekYOsKAU",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2023/07/5-questions-generative-ai-in-healthcare-perfcon?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/07/5-questions-generative-ai-in-healthcare-perfcon?amp",
+      "publishedDateTime": "2023-07-31T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-can-ai-fix-the-us-healthcare-system.md",
+      "title": "Can AI Fix The U.S. Healthcare System?",
+      "excerpt": "John Guttag is a computer scientist and professor at CSAIL and EECS MIT, recognized for his significant contributions to the fields of programming languages and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/video/6331934380112/can-ai-fix-the-us-healthcare-system/",
+      "originalUrl": "https://www.forbes.com/video/6331934380112/can-ai-fix-the-us-healthcare-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-machine-learning-artificial-neural-networks-localize-extrasystoles.md",
+      "title": "Machine Learning: Artificial Neural Networks Localize Extrasystoles",
+      "excerpt": "Up to a certain number, ventricular extrasystoles are normal. Ventricular tachycardias, however, may impair cardiac action and even be life-threatening in case of existing cardiac insufficiency. Ventricular tachycardias may be treated by catheter ablation: The origin of the extrasystoles is ablated by high-frequency current via a special catheter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235994",
+      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235994",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/60263_kit_logo_en_farbe_positiv.jpg",
+          "width": 1181,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AlphaGalileo",
+        "domain": "alphagalileo.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-health-care-down-as-thermo-fisher-slides-health-care-roundup.md",
+      "title": "Health Care Down as Thermo Fisher Slides -- Health Care Roundup",
+      "excerpt": "Health-care companies ticked down amid concerns about growth in the sector. Thermo Fisher Scientific slid after the maker of scientific instruments cut",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/health-care-down-as-thermo-fisher-slides-health-care-roundup-edd2d592",
+      "originalUrl": "https://www.marketwatch.com/story/health-care-down-as-thermo-fisher-slides-health-care-roundup-edd2d592",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-down-as-thermo-fisher-slides-health-care-roundup-edd2d592",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-down-as-thermo-fisher-slides-health-care-roundup-edd2d592",
+      "publishedDateTime": "2023-07-26T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-an-extensive-analysis-on-the-healthcare-natural-language-processing-nlp-market-with-projected-13-cagr-growth-from-2023-to-2030.md",
       "title": "An extensive analysis on the Healthcare Natural Language Processing (NLP) market with projected 13% CAGR growth from 2023 to 2030",
       "excerpt": "The \"Healthcare Natural Language Processing (NLP) Market\" is segmented into regions, Applications, and Types. The report presents the research and analysis provided within the Healthcare Natural ...",

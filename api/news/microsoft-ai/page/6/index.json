@@ -2,6 +2,437 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-06-microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services.md",
+      "title": "Microsoft unveils new features coming to Outlook and other Microsoft 365 services",
+      "excerpt": "There are a ton of Teams features, but other Microsoft 365 services are getting updates as well. Outlook is getting some improvements, as you'd probably expect. Bookings is getting a new UI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2019/01/1547572242_ms365-5_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services/",
+      "publishedDateTime": "2023-09-05T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-riding-the-wave-of-artificial-intelligence-a-comprehensive-look-at-ai-stocks.md",
+      "title": "Riding the Wave of Artificial Intelligence: A Comprehensive Look at AI Stocks",
+      "excerpt": "Erica Fluer Artificial Intelligence (AI) isn't merely a buzzword, or a futuristic concept confined to science fiction novels; it's an integral part of the modern world that is shaping the future in unprecedented ways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34225651/riding-the-wave-of-artificial-intelligence-a-comprehensive-look-at-ai-stocks",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34225651/riding-the-wave-of-artificial-intelligence-a-comprehensive-look-at-ai-stocks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34225651",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34225651",
+      "publishedDateTime": "2023-09-05T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-civo-adds-speech-to-text-to-greener-cloud.md",
+      "title": "Civo Adds Speech-To-Text To Greener Cloud",
+      "excerpt": "Using a ‘digital boiler’, the system immerses computers in mineral oil to capture the generated heat, this is then passed through a heat exchanger to heat the water.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f2f48d3b7f168d7417ee9d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/amp/",
+      "publishedDateTime": "2023-09-05T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management.md",
+      "title": "iTechGenic teams up with Microsoft Azure, G7 CR for AI-enhanced Engineering management",
+      "excerpt": "The primary objective of this partnership is to empower engineering teams with a 360-degree perspective by harnessing insights from various DevOps tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/",
+      "originalUrl": "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/image-2023-09-05T113656.774.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/",
+      "publishedDateTime": "2023-09-04T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-msft-path-or-nvda-which-ai-stock-is-the-most-promising-pick.md",
+      "title": "MSFT, PATH, or NVDA: Which AI Stock is the Most Promising Pick?",
+      "excerpt": "The tech world has been gripped by the generative artificial intelligence (AI) wave since the success of OpenAI’s ChatGPT sparked interest in",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/msft-path-or-nvda-which-ai-stock-is-the-most-promising-pick-1032603717",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/msft-path-or-nvda-which-ai-stock-is-the-most-promising-pick-1032603717",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/09/MSFT-stock.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 811,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-04T21:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-apple-and-microsoft-say-some-services-not-popular-enough-to-be-gatekeepers-under-eus-new-digital-market-act-report.md",
+      "title": "Apple and Microsoft say some services not popular enough to be \"gatekeepers\" under EU's new Digital Market Act: Report",
+      "excerpt": "Apple Inc. and Microsoft have argued that some of their services were not popular enough to be designated as \"gatekeepers\" under the EU's new Digital Markets Act, designed to curb the powers of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/apple-microsoft-say-some-services-not-popular-gatekeepers-under-eu-new-digital-market-act-report/article67272370.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/apple-microsoft-say-some-services-not-popular-gatekeepers-under-eu-new-digital-market-act-report/article67272370.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/am7uco/article67272371.ece/alternates/FREE_1200/2023-09-01T111022Z_1488283869_RC2MZ2ACY8ZU_RTRMADP_3_EU-TRADE-RUSSIA.JPG",
+          "width": 1200,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/apple-microsoft-say-some-services-not-popular-gatekeepers-under-eu-new-digital-market-act-report/article67272370.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/apple-microsoft-say-some-services-not-popular-gatekeepers-under-eu-new-digital-market-act-report/article67272370.ece/amp/",
+      "publishedDateTime": "2023-09-04T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-sam-altman-backed-mentra-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs.md",
+      "title": "Sam Altman-backed Mentra aims to match neurodivergent jobseekers with ideal jobs",
+      "excerpt": "Specifically, its tech platform leverages artificial intelligence to help large enterprises hire employees with cognitive differences such as ... Mentra also won an AI for accessibility grant from Microsoft. Shine Capital led its $3.5 million seed round ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/",
+      "originalUrl": "https://techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/09/FoundersPic-1.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/amp/",
+      "publishedDateTime": "2023-09-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-artificial-intelligence-transforming-healthcare-cybersecurity-and-communications.md",
+      "title": "Artificial Intelligence: Transforming Healthcare, Cybersecurity, and Communications",
+      "excerpt": "Artificial intelligence (AI) systems aim to reproduce human characteristics and processing power in a machine and outperform human speed and constraints. Machine learning and natural language processing, which are already commonplace in our daily lives ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/",
+      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f654488751487eecb0157e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/",
+      "publishedDateTime": "2023-09-04T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI",
+        "AI Ethics",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-04-3-appealing-ai-stocks-to-snatch-up-at-current-levels.md",
+      "title": "3 Appealing AI Stocks to Snatch Up at Current Levels",
+      "excerpt": "Microsoft is a stable AI stock with vast reach. Its early OpenAI investment provides a unique advantage. Azure is growing relatively quickly in the cloud computing sector. Key Azure Arc’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-appealing-ai-stocks-to-snatch-up-at-current-levels",
+      "originalUrl": "https://www.nasdaq.com/articles/3-appealing-ai-stocks-to-snatch-up-at-current-levels",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-03-after-28-years-microsoft-is-killing-off-wordpad.md",
       "title": "After 28 Years, Microsoft Is Killing Off WordPad",
       "excerpt": "Microsoft is finally saying farewell to WordPad. The company announced Friday that it plans to deprecate WordPad with a future Windows update, although it didn’t announce specific timing for the ...",
@@ -1026,423 +1457,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-the-best-credit-monitoring-services-that-can-help-you-spot-fraud-early.md",
-      "title": "The best credit monitoring services that can help you spot fraud early",
-      "excerpt": "The cost of the services mentioned below are up-to-date at the time of publication. Credit monitoring services can provide you with early notice of potential fraud on your credit report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/select/best-credit-monitoring-services/",
-      "originalUrl": "https://www.cnbc.com/select/best-credit-monitoring-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106578035-1592226645583gettyimages-948732752.jpeg?v=1592226710",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/select/best-credit-monitoring-services/",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/select/best-credit-monitoring-services/",
-      "publishedDateTime": "2023-08-28T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests.md",
-      "title": "Microsoft Weekly: Windows 11 and unsupported CPU, cloud goes to Ubisoft, File Explorer tests",
-      "excerpt": "Microsoft 365 insiders can try the new Python integration that lets you use Python for visualizations, cleaning data, machine learning, predictive analytics ... with Microsoft announcing it would no longer produce Azure Kinect Developer Kit (an enterprise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/06/1687029065_microsoft_weekly_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-windows-11-and-unsupported-cpu-cloud-goes-to-ubisoft-file-explorer-tests/",
-      "publishedDateTime": "2023-08-27T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes.md",
-      "title": "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service – Forbes",
-      "excerpt": "AWS and Hugging Face announced a partnership to offer large language models (LLMs) and generative AI models on AWS’ ML platform. The Hugging Face community can leverage AWS ML services and infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/694977/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/",
-      "originalUrl": "https://www.inferse.com/694977/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4701.png",
-          "width": 1000,
-          "height": 715,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-26-azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportunity.md",
-      "title": "Azure and AI in Focus: Oppenheimer Bullish on Microsoft's Scalability, Security, and $200B Market Opportunity",
-      "excerpt": "It is expanding its ecosystem to commercialize advances in AI on top of Azure. Microsoft is leveraging its scale to roll out AI applications like Office 365 Copilot to the masses (1.0 billion ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/08/34045380/azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportu",
-      "originalUrl": "https://www.benzinga.com/news/23/08/34045380/azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/08/25/azure-rainer_stropek_via_flickr.jpg?width=1200&height=800&fit=crop",
-          "width": 799,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34045380",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045380",
-      "publishedDateTime": "2023-08-25T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal.md",
-      "title": "How AI can improve cybersecurity by harnessing diversity, according to Microsoft Security's Vasu Jakkal",
-      "excerpt": "The fusion of AI and diversity in cybersecurity represents a significant shift in the narrative of this field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/",
-      "originalUrl": "https://www.zdnet.com/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/43763dae5d3951cc7789a18bf6ab44f5ce2244b6/2023/08/25/e00132ca-59e5-4e83-9419-2ad192c4a927/maxresdefault.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-can-improve-cybersecurity-by-harnessing-diversity-according-to-microsoft-securitys-vasu-jakkal/",
-      "publishedDateTime": "2023-08-25T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-if-youre-neurodivergent-here-are-steps-to-make-your-workplace-more-inclusive.md",
-      "title": "If you're neurodivergent, here are steps to make your workplace more inclusive",
-      "excerpt": "Whether you do or don't disclose to an employer that you're neurodivergent, here are steps you can take to make your workplace more inclusive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/money/2023/08/25/neurodiversity-workplace-inclusion/70663558007/",
-      "originalUrl": "https://www.azcentral.com/story/money/2023/08/25/neurodiversity-workplace-inclusion/70663558007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/24/USAT/f4dcb51e-7e98-4be8-9ec9-ace73785c349-XXX_IMG_LEGOLAND_QUIET_ROOM__1_1_ESIVCL7P.JPG?auto=webp&crop=6387,3593,x0,y115&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZ Central",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-i-actually-felt-like-they-heard-me-companies-work-to-include-neurodivergent-employees.md",
-      "title": "'I actually felt like they heard me:' Companies work to include neurodivergent employees",
-      "excerpt": "More companies are making it a priority to hire employees who are autistic or have other diagnoses that lead them to behave or think differently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jsonline.com/story/money/2023/08/25/neurodiversity-in-the-workplace-rising/70595259007/",
-      "originalUrl": "https://www.jsonline.com/story/money/2023/08/25/neurodiversity-in-the-workplace-rising/70595259007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Milwaukee Journal Sentinel",
-        "domain": "jsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-the-best-web-hosting-services-in-2023.md",
-      "title": "The best web hosting services in 2023",
-      "excerpt": "When building a website, the best web hosting is integral. You need hosting for your site to have an online base and source of content, much as you need one of the best website builders: your site ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/buying-guide/best-web-hosting-services",
-      "originalUrl": "https://www.tomsguide.com/buying-guide/best-web-hosting-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/TxLTvGhtdYPvBwmqmvY9PB-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-24T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia.md",
-      "title": "Hugging Face raises $235M from investors, including Salesforce and Nvidia",
-      "excerpt": "Hugging Face, a platform for developing AI models and tooling, has raised $235 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/",
-      "originalUrl": "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/11f5fd43-3e13-4313-a003-9d36a81e3fde.png?resize=1200,602",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/amp/",
-      "publishedDateTime": "2023-08-24T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
