@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/11/openai-introd
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 143
 published: true
 
 provider:
@@ -30,6 +30,52 @@ images:
     isCached: true
 
 related:
+  - title: "What OpenAI’s wave of releases says about 2024 | The AI Beat"
+    excerpt: "OpenAI's latest release announcements were just part of the tsunami wave of AI news over the past week. Here's what it all means for 2024."
+    publishedDateTime: 2023-11-07T02:59:00Z
+    webUrl: "https://venturebeat.com/ai/what-openais-wave-of-releases-says-about-2024-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/9b465127-1309-4b3d-8773-8ab04f05dc99_1456x816.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "OpenAI unveils latest AI model, customizable GPTs and digital store"
+    excerpt: "an analyst at Gartner Research. “The autonomous agents will take more time to create an impact but are bold steps ahead for the future of Generative AI.” In the meantime, OpenAI emphasized the latest announcements are only part of what’s still ahead."
+    publishedDateTime: 2023-11-06T21:06:00Z
+    webUrl: "https://www.wral.com/story/openai-unveils-latest-ai-model-customizable-gpts-and-digital-store/21135685/"
+    ampWebUrl: "https://www.wral.com/amp/21135685/"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21135685/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 59
+    images:
+      - url: "https://wwwcache.wral.com/presentation/v3/images/content/social/open_graph/wralnews_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "ChatGPT-maker OpenAI hosts first big tech showcase as AI startup faces growing competition"
+    excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT unveiled the future it has in mind for its artificial intelligence technology on Monday as it launched a new line of chatbot products that can be customized to a variety of tasks."
+    publishedDateTime: 2023-11-06T15:16:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/chatgpt-openai-tech-showcase-sf-developer-conference/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/chatgpt-openai-tech-showcase-sf-developer-conference/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/chatgpt-openai-tech-showcase-sf-developer-conference/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 47
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/06/084cd43a-59ac-415c-93c9-ce22d8998c47/thumbnail/1200x630/b387077217bc3f03dd742defc87c1155/chatgpt-openai-conference-1778708098.jpg?v=c81a9d6c51e6280f2f4f876031d7d9bc"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Today’s Cache | Elon Musk to integrate AI startup with X; Humanoid robots and their problems; OpenAI plans for developer conference debut"
     excerpt: "While ChatGPT has achieved popularity as both a desktop tool and a smartphone app, OpenAI CEO Sam Altman hopes to push the boundaries by creating a platform which developers will use to launch their own AI-generated products, reported Reuters."
     publishedDateTime: 2023-11-06T09:20:00Z
@@ -46,6 +92,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "OpenAI’s app store for ChatGPTs will be a pain for start ups"
+    excerpt: "With it now becoming easier than ever to create a chatbot that serves a particular purpose, this could have severe effects on companies and start-ups that currently have AI-powered chatbots built for a specific purpose. For example, a service that might ..."
+    publishedDateTime: 2023-11-07T16:07:00Z
+    webUrl: "https://www.videogamer.com/news/openais-app-store-start-ups/"
+    type: article
+    provider:
+      name: VideoGamer
+      domain: videogamer.com
+    quality: 37
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/openai-chatgpts-app-store.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "GENAI DELIVERS AI COMPUTE EQUIPMENT TO CUSTOMER"
+    excerpt: "The Equipment has now been installed at the hosting facility and was tested and validated by the Customer. All of the Equipment went online and became fully operational with full functionality available to the Customer at midnight on November 6,"
+    publishedDateTime: 2023-11-07T14:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-genai-delivers-ai-compute-equipment-customer-/2023/11/07/9912489.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "mKbihupkiupi1zvt0TVPbkAhxa/cuik+RoXu0+n3fIQTskV5qT1liPi9FB9pP8M7VOP28/Hlg3tMLMWQ//qdib0gbxWMlb+WJUoCTGjr9FcmxkCfftLCoxxBL147bHY422mhDAXrVuQhUJnXfj4OBnd20QPkMS89mtrI93XT/3wdQukyLQl47+6EN7Gw3Ep6JsAKFC3H2yVAzMZRs+Zb58jXmqm3PWL4AJTM7BKxya47T9MlUFXG0CeKNjT8HY0KppIxTEKfecAn0SPDjZsb/gApn+kFyo1jn8ac8DngFf2HUTuz0+XLbvmaavBCfsVFkHLcYDjMzO9TryT/G0XP6vyyPa+bW7EHQoquLBTQxbIH+fb9U3pZW6sT2pvRBdMFLk9WCWWG2zdHb5KyZ9XOM8k0pN6eK6pIKjHO202iqye01NyF9Pj+U7rragC9KK0mCkyowrLbFfFrnTY6gfOnBZnVKuq17TJkFchXqD1gj1pEZOlVTUc3tVe4imaLVtIKrmnaDoPpWZ20OiMAGOpu+A==;/U1UgfLmIozx6Eg0ZqwBUQ=="
 ---

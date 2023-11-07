@@ -41,6 +41,15 @@ related:
         width: 924
         height: 615
         isCached: true
+  - title: "3 AI Stocks Poised to Power the Next Industrial Revolution"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is transforming the world as we know it. From"
+    publishedDateTime: 2023-11-07T00:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-poised-to-power-the-next-industrial-revolution-1032784136"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "PqoTvc0U103d8IU23h1SwRmPIq0gx4vA2OtpqN7yXNoZGcCFqj4NNV7vGf17jwUGFYwHHmNQoK/yxQtYs53fRsU1VU2PsJMYWG1UQGPbwPb1PWnQsMQ1hr9YiG6dPgQ1sfQKlZXc5FDSAtGJV2jvO9p5jt7j3GNO1PPQalE3kUeH3yxbIl8ELuJi+Brb1UwN9Zz2rRc2LfUe9m8D2+7Mp9qXhqjEvlu4byUux3bhnrxcKObvgegnh0Tl/VJP2ByQFKzYFDiDlKMHfbQOkamy3KJ7qCO93slZWvU7DFD901BY0eowxvJjwuQ3Eqh9yHOLpp/vSumL6vtms0fU+X7zP4HA25rQvdoTgYGvI+kLz4g=;wUXITf5twABM2jKP6kQtZw=="
 ---

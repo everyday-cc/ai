@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/11/06/app-store-for-ai-build-your-own-gp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/06/app-store-for-ai-build-your-own-gpt-and-sell-it-on-openais-gpt-store/amp/"
 type: article
 quality: 89
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -31,51 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "What OpenAI’s wave of releases says about 2024 | The AI Beat"
-    excerpt: "OpenAI's latest release announcements were just part of the tsunami wave of AI news over the past week. Here's what it all means for 2024."
-    publishedDateTime: 2023-11-07T02:59:00Z
-    webUrl: "https://venturebeat.com/ai/what-openais-wave-of-releases-says-about-2024-the-ai-beat/"
+  - title: "The Evolution Of AI: From IBM And AWS To OpenAI and Anthropic"
+    excerpt: "The history of AI is attributed to technologists from IBM, Amazon, Apple, Google, OpenAI and more. In this journey, key players have emerged, each contributing to the evolution of AI in unique and transformative ways."
+    publishedDateTime: 2023-11-07T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/11/07/the-evolution-of-ai-from-ibm-and-aws-to-openai-and-anthropic/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 90
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/11/9b465127-1309-4b3d-8773-8ab04f05dc99_1456x816.webp?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "OpenAI unveils latest AI model, customizable GPTs and digital store"
-    excerpt: "an analyst at Gartner Research. “The autonomous agents will take more time to create an impact but are bold steps ahead for the future of Generative AI.” In the meantime, OpenAI emphasized the latest announcements are only part of what’s still ahead."
-    publishedDateTime: 2023-11-06T21:06:00Z
-    webUrl: "https://www.wral.com/story/openai-unveils-latest-ai-model-customizable-gpts-and-digital-store/21135685/"
-    ampWebUrl: "https://www.wral.com/amp/21135685/"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21135685/"
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 59
-    images:
-      - url: "https://wwwcache.wral.com/presentation/v3/images/content/social/open_graph/wralnews_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "ChatGPT-maker OpenAI hosts first big tech showcase as AI startup faces growing competition"
-    excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT unveiled the future it has in mind for its artificial intelligence technology on Monday as it launched a new line of chatbot products that can be customized to a variety of tasks."
-    publishedDateTime: 2023-11-06T15:16:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/chatgpt-openai-tech-showcase-sf-developer-conference/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/chatgpt-openai-tech-showcase-sf-developer-conference/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/chatgpt-openai-tech-showcase-sf-developer-conference/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 47
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/06/084cd43a-59ac-415c-93c9-ce22d8998c47/thumbnail/1200x630/b387077217bc3f03dd742defc87c1155/chatgpt-openai-conference-1778708098.jpg?v=c81a9d6c51e6280f2f4f876031d7d9bc"
-        width: 1200
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65497d0a3b2070434c5a76a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1353
+        height: 900
         isCached: true
 
 secured: "kosmyOlMjG8FyB7hw2TW274wqwWdbuhKiP2U2rZWGhxXrzxBpDvx2UruorGYBmd0b1qF+AXiFxNNFi6l7Z4wpEzEWdV4fooWZdMlBS/hzjcfBIe08CzUNW7vAz6Ed14EbmQzPtkaWoR7R91tBmgrswG1HHauwaR3V6zhlT1cCOIUcmc1ktdwyS5DOOlBeTPhDFpYKk9h4ZGfMm4REFpvvMyU6V4y3dQ5gsFN1mp0tj0sbUm7vt8UASBF6+1AUA2YVKfL/WfZbBqwqdhez1XDnN2Vp12UiMNaOSbZF87GWDAwAj/eli4hi76ok+/OqkB2AD7O70XG/MFnEeZtaMAEcGeHB65VMNCPnNf615QBuqE=;3p/SN5e0DrFExET33ERfsw=="

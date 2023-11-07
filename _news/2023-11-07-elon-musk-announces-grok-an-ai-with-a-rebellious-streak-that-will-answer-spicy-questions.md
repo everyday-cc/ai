@@ -48,7 +48,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://media.wired.com/photos/6548fb02d5bc3d09424c3db3/191:100/w_1280,c_limit/musk-biz-grok-GettyImages-1768682028-(1).jpg"
         width: 1280

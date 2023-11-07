@@ -42,6 +42,15 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Predicting Sudden Cardiac Death Using Artificial Intelligence"
+    excerpt: "Preliminary research, set to be presented at the American Heart Association's Resuscitation Science Symposium 2023, suggests that artificial intelligence (AI) could hold the potential for predicting sudden cardiac death and assessing an individual's risk to potentially prevent future fatalities."
+    publishedDateTime: 2023-11-07T14:00:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14447"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 17
 
 secured: "cjHAfzXSVtaAilzT+qIs6O0hriGm31ClkPEWYFdcWFFxybK2cVsLZCDJ/JUa/esJoHxka/j9ojURnaf4SrCQyXmyoPQZsOsmIuIx+t3VYxA4yTHwU5gkCkMpJJaqgvr2stotn2nt9rxhVEQAuY5PVkT6lgWKXONvyUYW0+u0Ww65nKg8PCVM6z7AxMLXXu+CA2PKVQ6FnUyO94f0tAP1lQqDlNDJXrMpak2Y2wsUOqjpP9Hg/BBqAdcntZNGYbJb4mo6/EKBml/d6BY0sxxSIEi0TwAkP5VGQgKAA6FbT2PvRE6av2lK2/DRJv13ONAabn/kgqcPuuXr7PxIuo8sKfMrGdj26Zf9C1eTjTtxuYizi1/xdP8KTeRxViN3UN5HZtZiH7CQWTPf28GxGEjz2v1ezqyZW0Jz2lsX0hNmfCAcDsu7U1VHwRDxzwH+t+y9Ak8bZQ/DhGQgfZmjvw0ZFrAwpu9DY75peq6+D6Ld8yHCQRBMRV3+ZRysS0Prek9wUM6OlRLyxVd2i6mtY9VmiA==;Z6BoAoxqASLw0lStEIRj0A=="
 ---

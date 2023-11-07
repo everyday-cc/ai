@@ -41,6 +41,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Five Signs Your Company Is Ready For Generative AI"
+    excerpt: "Recognizing the signs that your company is ready for generative AI is a pivotal step toward safely embracing the transformative power of this emerging technology. The potential rewards, from streamlining operations to fostering innovation, are immense and well-documented."
+    publishedDateTime: 2023-11-07T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/five-signs-your-company-is-ready-for-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "DBZb8W22R5xX2yEej+IF2Pm5D1ZT6CGl1gzXLrolIDc7Jo/E6PfJvYyy19ytZrfyFKE7CANglUO7cEKrzI1ocDplLkmHe8P3g8L0L72EITPbjJ8Jt8/CKUiFcb46XR0ytzj64qNdW0mNfooqXpbQZMqJuwP0PfrVjRCLasf67ZdBgYjHqL6d4C4aKxJLWK1gi2J6PDHKR8gUI7gUD63MLplzVqifKETl4aQ+y0+FebtrCH8FxZpmM5wRri8AnftqY/yBkygNQFhWf6P9SEzbnyKa9XyOktthlVffR4xKeRKPztjehzFQOWo+GJOllipAUQlhfWX/FQLF0YUpNMTkr7ChKXCd3Nk64hYNv2SRrZI=;F7hPM02JbeRFFPx/Tpa1HQ=="
 ---

@@ -2,19 +2,71 @@
   "page": 150,
   "value": [
     {
-      "path": "_news/2023-05-25-how-to-use-wordtune-ai-to-rewrite-texts-on-your-iphone.md",
-      "title": "How to use Wordtune AI to rewrite texts on your iPhone",
-      "excerpt": "This iOS app can generate simple messages and emails, photo captions, LinkedIn or Twitter posts, cover letters, blog posts, and more.",
+      "path": "_news/2023-07-25-cadence-lifts-revenue-forecast-as-ai-boom-boosts-chip-design-demand.md",
+      "title": "Cadence lifts revenue forecast as AI boom boosts chip-design demand",
+      "excerpt": "Cadence Design Systems Inc on Monday raised its full-year revenue forecast slightly above Wall Street estimates, as a surge in artificial intelligence (AI) innovation fueled demand for custom semiconductor design.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/",
-      "originalUrl": "https://www.zdnet.com/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/",
+      "webUrl": "https://www.reuters.com/article/cadence-design-results-idUSL4N39A44G",
+      "originalUrl": "https://www.reuters.com/article/cadence-design-results-idUSL4N39A44G",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/img/resize/518b7ec6aaad54897cb463a0bb0d677f6062f319/2023/05/25/63011c31-baf3-4366-971b-6170fc02b7cb/gettyimages-1383931877.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20230724&t=2&i=1639790732&r=LYNXMPEJ6N0RW&w=800",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-state-of-it-report-generative-ai-will-soon-go-mainstream-say-9-out-of-10-it-leaders.md",
+      "title": "State of IT report: Generative AI will soon go mainstream, say 9 out of 10 IT leaders",
+      "excerpt": "Generative AI has only recently become mainstream. The report shows 86% of IT leaders believe generative AI will have a prominent role it their organization in the near future. Yet 64% of IT leaders are concerned about the ethics of generative AI, and 62% are concerned about its impacts on their careers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/state-of-it-report-generative-ai-will-soon-go-mainstream/",
+      "originalUrl": "https://www.zdnet.com/article/state-of-it-report-generative-ai-will-soon-go-mainstream/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/67c0491949d4da919f64dea355dd58d24e2cc5fc/2023/07/24/c1b1e887-4a8e-4180-96e7-045494b7bc9c/aigettyimages-1455352999.jpg?auto=webp&fit=crop&height=675&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -24,9 +76,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/",
-      "publishedDateTime": "2023-05-25T09:59:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/state-of-it-report-generative-ai-will-soon-go-mainstream/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/state-of-it-report-generative-ai-will-soon-go-mainstream/",
+      "publishedDateTime": "2023-07-24T11:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -49,1033 +101,24 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-05-25-robots-and-rights-confucianism-offers-an-alternative.md",
-      "title": "Robots and rights: Confucianism offers an alternative",
-      "excerpt": "Philosophers and legal scholars have explored significant aspects of the moral and legal status of robots, with some advocating for giving robots rights. As robots assume more roles in the world, a new analysis reviewed research on robot rights,",
+      "path": "_news/2023-07-25-lam-is-an-underappreciated-ai-chip-play-heres-why.md",
+      "title": "Lam Is an Underappreciated AI Chip Play. Here’s Why.",
+      "excerpt": "Advanced memory technology may be an underestimated beneficiary of the increased spending on artificial intelligence.",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.html",
-      "originalUrl": "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.html",
+      "webUrl": "https://www.barrons.com/articles/lam-research-stock-price-target-ed86dc56",
+      "originalUrl": "https://www.barrons.com/articles/lam-research-stock-price-target-ed86dc56",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-robot.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-robots-rights-confucianism-alternative.amp",
-      "publishedDateTime": "2023-05-25T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain.md",
-      "title": "Build a powerful question answering bot with Amazon SageMaker, Amazon OpenSearch Service, Streamlit, and LangChain",
-      "excerpt": "One of the most common applications of generative AI and large language models (LLMs) in an enterprise environment is answering questions based on the enterprise’s knowledge corpus. Amazon Lex provides the framework for building AI based chatbots. Pre-trained foundation models (FMs) perform well at natural",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/25/build-a-powerful-question-answer-bot.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T09:46:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-nvidia-the-chip-maker-that-became-an-ai-superpower.md",
-      "title": "Nvidia: The chip maker that became an AI superpower",
-      "excerpt": "And one hardware company in particular has become central to the AI bonanza - California-based Nvidia. Originally known for making the type of computer chips that process graphics, particularly for computer games, Nvidia hardware underpins most AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-65675027",
-      "originalUrl": "https://www.bbc.com/news/business-65675027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 544,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-65675027.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65675027.amp",
-      "publishedDateTime": "2023-05-25T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-ibm-consulting-unveils-center-of-excellence-for-generative-ai.md",
-      "title": "IBM Consulting unveils Center of Excellence for generative AI",
-      "excerpt": "IBM Consulting has established a Center of Excellence for generative AI. It stands alongside IBM Consulting&#8217;s existing global AI and Automation practice, which includes 21,000 data and AI consultants who have conducted over 40,000 enterprise client engagements. The Center of Excellence (CoE) already",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM-Consulting-unveils-Center-of-Excellence-for-generative-AI-1-scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T09:00:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-get-insights-on-your-users-search-behavior-from-amazon-kendra-using-an-ml-powered-serverless-stack.md",
-      "title": "Get insights on your user’s search behavior from Amazon Kendra using an ML-powered serverless stack",
-      "excerpt": "Amazon Kendra is a highly accurate and intelligent search service that enables users to search unstructured and structured data using natural language processing (NLP) and advanced search algorithms. With Amazon Kendra, you can find relevant answers to your questions quickly, without sifting through",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/get-insights-on-your-users-search-behavior-from-amazon-kendra-using-an-ml-powered-serverless-stack/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-insights-on-your-users-search-behavior-from-amazon-kendra-using-an-ml-powered-serverless-stack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/25/BDB2902-arch-01-1.png",
-          "width": 889,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T08:38:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-how-ocx-cognition-reduced-ml-model-development-time-from-weeks-to-days-and-model-update-time-from-days-to-real-time-using-aws-step-functions.md",
-      "title": "How OCX Cognition reduced ML model development time from weeks to days and model update time from days to real time using AWS Step Functions and Amazon SageMaker",
-      "excerpt": "This post was co-authored by Brian Curry (Founder and Head of Products at OCX Cognition) and Sandhya MN (Data Science Lead at InfoGain) OCX Cognition is a San Francisco Bay Area-based startup, offering a commercial B2B software as a service (SaaS) product called Spectrum AI. Spectrum AI is a predictive",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-ocx-cognition-reduced-ml-model-development-time-from-weeks-to-days-and-model-update-time-from-days-to-real-time-using-aws-step-functions-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-ocx-cognition-reduced-ml-model-development-time-from-weeks-to-days-and-model-update-time-from-days-to-real-time-using-aws-step-functions-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/19/ml-13311Image12.png",
-          "width": 999,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T08:24:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-5000-deep-sea-animals-new-to-science-turned-up-in-ocean-records.md",
-      "title": "5,000 deep-sea animals new to science turned up in ocean records",
-      "excerpt": "More than 5,000 animal species previously unknown to science live in a pristine part of the deep sea. Their home — called the Clarion-Clipperton Zone — sits in the central and eastern Pacific ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencenews.org/article/5000-deep-sea-animals-new-ocean",
-      "originalUrl": "https://www.sciencenews.org/article/5000-deep-sea-animals-new-ocean",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science News",
-        "domain": "sciencenews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-two-of-the-worlds-most-critical-chip-firms-rally-after-nvidias-26-share-price-surge.md",
-      "title": "Two of the world's most critical chip firms rally after Nvidia's 26% share price surge",
-      "excerpt": "Dutch firm ASML and Taiwan's TSMC, two of the world's most important semiconductor firms, got a share price boost after Nvidia's earnings impressed investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html",
-      "originalUrl": "https://www.cnbc.com/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107098120-1659534459911-gettyimages-1239915582-RAFAPRESS_10042022-0121.jpeg?v=1685013700",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html",
-      "publishedDateTime": "2023-05-25T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-3-new-ways-generative-ai-can-help-you-search.md",
-      "title": "3 new ways generative AI can help you search",
-      "excerpt": "Today, we’re starting to open up access to SGE (Search Generative Experience), one of our first experiments in Search Labs.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/search-generative-ai-tips/",
-      "originalUrl": "https://blog.google/products/search/search-generative-ai-tips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io23_BlogPostHero_Full_size_RUAz0GV.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-nvidia-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge.md",
-      "title": "Nvidia is poised to join $1 trillion club thanks to AI-driven surge",
-      "excerpt": "Thanks to a seemingly insatiable demand for AI chips, Nvidia saw its stock soar nearly 30% after yesterday's financial results.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/",
-      "originalUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-77.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/",
-      "publishedDateTime": "2023-05-25T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-disrupting-the-disruptive-disrupterswith-ai.md",
-      "title": "Disrupting The Disruptive Disrupters—With AI",
-      "excerpt": "Competitors large & small, legacy & new, are taking note and fueling the disruptive democratization of fintech. Even the U.S. Government wants to be a service provider",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646f719aafd87168d103a6f8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/amp/",
-      "publishedDateTime": "2023-05-25T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-replica-unveils-ai-powered-smart-npcs-for-unreal-engine.md",
-      "title": "Replica unveils AI-powered smart NPCs for Unreal Engine",
-      "excerpt": "Replica Studios is unveiling AI-powered smart NPCs for the Unreal Engine platform. Those NPCs can chat with players using OpenAI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/replica-unveils-ai-powered-smart-npcs-for-unreal-engine/",
-      "originalUrl": "https://venturebeat.com/games/replica-unveils-ai-powered-smart-npcs-for-unreal-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/replica-4.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 767,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/replica-unveils-ai-powered-smart-npcs-for-unreal-engine/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/replica-unveils-ai-powered-smart-npcs-for-unreal-engine/amp/",
-      "publishedDateTime": "2023-05-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-can-competition-elevate-deep-giants-wr-room-with-no-obvious-no-1.md",
-      "title": "Can competition elevate deep Giants WR room with no obvious No. 1?",
-      "excerpt": "Saquon Barkley won’t be at the Giants’ first open OTA practice on Thursday and likely not at any other practice until he receives a new contract. So while Daniel Jones’ top running back ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/sports/football/giants/ny-otas-wide-receiver-competition-20230524-shfuc72elfhgblatrqbsffpj7m-story.html",
-      "originalUrl": "https://www.nydailynews.com/sports/football/giants/ny-otas-wide-receiver-competition-20230524-shfuc72elfhgblatrqbsffpj7m-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-the-five-key-benefits-of-aiops-and-automation.md",
-      "title": "The five key benefits of AIOps and automation",
-      "excerpt": "How AIOps can help your IT staff move from a “break-fix” approach to one that’s more predictive and proactive.\nThe post The five key benefits of AIOps and automation appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-five-key-benefits-of-aiops-and-automation/",
-      "originalUrl": "https://www.ibm.com/blog/the-five-key-benefits-of-aiops-and-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T06:34:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-deepminds-ceo-will-discuss-research-google-and-more-on-disrupts-ai-stage.md",
-      "title": "DeepMind’s CEO will discuss research, Google and more on Disrupt’s AI Stage",
-      "excerpt": "Over the past year, we’ve watched as two giants — Google-owned DeepMind and Microsoft-backed OpenAI — fight for dominance in a battle of the AI colossi. We’re eager to get Hassabis’ take ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/25/demis-hassabis-deepmind-ai-stage-techcrunch-dissrupt-2023/",
-      "originalUrl": "https://techcrunch.com/2023/05/25/demis-hassabis-deepmind-ai-stage-techcrunch-dissrupt-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/Demis_articleheadertc_disrupt_2023_speaker-carousel_1920x1080-1-speaker.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/25/demis-hassabis-deepmind-ai-stage-techcrunch-dissrupt-2023/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/25/demis-hassabis-deepmind-ai-stage-techcrunch-dissrupt-2023/amp/",
-      "publishedDateTime": "2023-05-25T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-ai-startup-figure-raises-95-million-to-build-humanoid-robots.md",
-      "title": "AI startup Figure raises $95 million to build humanoid robots",
-      "excerpt": "Figure, a startup that wants to build general-purpose humanoid robots, has raised US$70 million (S$95 million) from investors led by Parkway Venture Capital in its first external round ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/digital/ai-startup-figure-raises-95-million-build-humanoid-robots",
-      "originalUrl": "https://www.asiaone.com/digital/ai-startup-figure-raises-95-million-build-humanoid-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2023/20230525_AI_reuters.jpg?h=c6450fd3&itok=0esVRwlp",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-microsofts-2023-imagine-cup-phl-empowers-next-generation-of-filipino-innovators.md",
-      "title": "Microsoft’s 2023 Imagine Cup PHL empowers next generation of Filipino innovators",
-      "excerpt": "Imagine Cup, Microsoft’s premier student technology competition, has once again drawn the attention of young and aspiring tech enthusiasts from all over the world. In the Philippines, student-teams from",
-      "sourceUrl": null,
-      "webUrl": "https://businessmirror.com.ph/2023/05/24/microsofts-2023-imagine-cup-phl-empowers-next-generation-of-filipino-innovators/",
-      "originalUrl": "https://businessmirror.com.ph/2023/05/24/microsofts-2023-imagine-cup-phl-empowers-next-generation-of-filipino-innovators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BusinessMirror",
-        "domain": "businessmirror.com.ph",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-ai-chip-boom-sends-nvidias-stock-surging-after-whopper-of-a-quarter.md",
-      "title": "AI chip boom sends Nvidia’s stock surging after whopper of a quarter",
-      "excerpt": "Nvidia makes chips that power generative AI, a type of artificial intelligence that can create new content, such as text and images, in response to user prompts. That’s the kind of AI underlying ChatGPT, Google’s Bard, Dall-E and many of the other new ...",
-      "sourceUrl": null,
-      "webUrl": "https://us.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html",
-      "originalUrl": "https://us.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 714,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230525080054-nvidia-2022-file.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/25/tech/nvidia-earnings-ai/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/25/tech/nvidia-earnings-ai/index.html",
-      "publishedDateTime": "2023-05-25T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution.md",
-      "title": "Rapid Advances In Artificial Intelligence And No Code Tools Are Enabling A Creative Revolution",
-      "excerpt": "The creative renaissance that is currently taking place on the internet is being driven by generative AI, Low- and No-Code tools and increases in digital literacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645502e42d796d7ec61a40c2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/amp/",
-      "publishedDateTime": "2023-05-25T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-cohesity-forges-google-cloud-ai-downwards-to-data-layer.md",
-      "title": "Cohesity Forges Google Cloud AI ‘Downwards’ To Data Layer",
-      "excerpt": "The current renaissance of Artificial Intelligence (AI) and the Machine Learning (ML) processes that we are now developing and finessing is nothing short of ubiquitous.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6468d673a3608cf0ba355c45/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 822,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/amp/",
-      "publishedDateTime": "2023-05-25T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-will-ai-replace-lawyers.md",
-      "title": "Will AI Replace Lawyers?",
-      "excerpt": "This is not to say that lawyers' work won’t change—or even disappear. There will most likely be less administrative work and we will probably need fewer clerks. Lawyers will have to write less, read less, search less and, frankly, also think less. They will become hyper-augmented which might turn them into overqualified project managers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/will-ai-replace-lawyers/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/will-ai-replace-lawyers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646628c4e6757f61ab41e295/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/will-ai-replace-lawyers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/25/will-ai-replace-lawyers/amp/",
-      "publishedDateTime": "2023-05-25T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-americas-math-coach-is-teaching-fifth-graders-to-outsmart-ai.md",
-      "title": "America’s Math Coach Is Teaching Fifth-Graders to Outsmart AI",
-      "excerpt": "This professor is traveling the country with simple advice for an uncertain future: Be more human.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/chatgpt-ai-math-po-shen-loh-1e9f80dc",
-      "originalUrl": "https://www.wsj.com/articles/chatgpt-ai-math-po-shen-loh-1e9f80dc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-788010/social",
+          "url": "https://images.barrons.com/im-822582/social",
           "width": 1280,
           "height": 640,
           "title": null,
@@ -1085,23 +128,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T04:00:00-07:00",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/lam-research-stock-price-target-ed86dc56",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lam-research-stock-price-target-ed86dc56",
+      "publishedDateTime": "2023-07-24T10:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1110,112 +144,10 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-how-ai-is-changing-automation-testing-in-quality-assurance.md",
-      "title": "How AI Is Changing Automation Testing In Quality Assurance",
-      "excerpt": "One major way AI automatic testing of software has changed the process of quality assurance is by speeding up the entire process. With AI, there is no need to make manual calculations or go through the process of manually testing the software over and over again.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646e109d287ca827f3a62c39/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/amp/",
-      "publishedDateTime": "2023-05-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-ai-upstart-uipaths-stock-is-down-on-soft-revenue-guidance.md",
-      "title": "AI upstart UiPath’s stock is down on soft revenue guidance",
-      "excerpt": "AI startup UiPath Inc., whose initial public offering fetched a market value of nearly $30 billion in 2021 only to get creamed before recently rebounding, reported quarterly results Wednesday that topped analyst revenue and earnings estimates but offered ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/uipaths-stock-is-down-on-soft-revenue-guidance-4512792e?mod=jon-swartz",
-      "originalUrl": "https://www.marketwatch.com/story/uipaths-stock-is-down-on-soft-revenue-guidance-4512792e?mod=jon-swartz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-317224/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/uipaths-stock-is-down-on-soft-revenue-guidance-4512792e",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/uipaths-stock-is-down-on-soft-revenue-guidance-4512792e",
-      "publishedDateTime": "2023-05-25T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }
   ],
-  "nextPage": 151
+  "nextPage": null
 }

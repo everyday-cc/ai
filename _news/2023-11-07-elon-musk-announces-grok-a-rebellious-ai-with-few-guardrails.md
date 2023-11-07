@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-06T16:24:00Z
 originalUrl: "https://www.wired.com/story/elon-musk-announces-grok-a-rebellious-ai-without-guardrails/"
 webUrl: "https://www.wired.com/story/elon-musk-announces-grok-a-rebellious-ai-without-guardrails/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/6548fb02d5bc3d09424c3db3/191:100/w_1280,c_limit/musk-biz-grok-GettyImages-1768682028-(1).jpg"

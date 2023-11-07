@@ -79,6 +79,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "China’s Baidu Strikes a Deal with Huawei to Buy AI Chips"
+    excerpt: "Although Huawei's chips aren't yet on par with Nvidia's in performance, they represent the most advanced AI chips China has to offer"
+    publishedDateTime: 2023-11-07T13:45:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 64
   - title: "AI-chip cousins? CEO Nvidia, AMD lead US tech war against China"
     excerpt: "The chief executives of Nvidia and AMD aren’t just two of the most powerful people in the global AI chip industry, they’re also cousins."
     publishedDateTime: 2023-11-06T13:55:00Z
@@ -135,6 +144,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Baidu placed AI chip order from Huawei in shift away from Nvidia: Report"
+    excerpt: "BEIJING: Baidu ordered artificial intelligence chips from Huawei this year, two people familiar with the matter said, adding to signs that US pressure is prompting Chinese acceptance of the firm's products as an alternative to Nvidia's."
+    publishedDateTime: 2023-11-07T09:26:00Z
+    webUrl: "https://www.channelnewsasia.com/business/baidu-placed-ai-chip-order-huawei-shift-away-nvidia-report-3903126"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 33
 
 secured: "yb3sypI1ZoPB6UZmu9APSKyeHbgKRR91hmv+mkZxPonuwEd0LOPgd5d4jyItyc5RTDoQI9pwOosHp6iJbtZGbPPJTqxBubrSYKnQ/rIcZQyeajcEEK/DEtLXnV/pqFm7/5NIO0ME6Bj42PvxNDyytH3kLy8DFJNuUFx9Vbw1iaT6NFu+J342akSpz0aq6tY/G04BWTNs1ZBQXrTVnqnSB/CD+lERZnY9vY4fohoynXatFH3r4OyVnAqaTeMrn/C4r7fGUTLzCG3SwBQHBFLZRHc6JnFWj0qFS2purMqn2goXyQL/SJtvUW6MpY/9RpjVKhMayTHf9SWKVd04jlJIUaVGH+vpglsuf6dDaCYa0m7pYypCTrtg7Fb9mEBimHfJNVT+eOMZC31bPLTO2WCe/taAf4GVyHEfvyLuIq+6cn8d54uBx0tEAY/knpZYQbv2EyqVCBCoLCE0zHJBcCsY0jQxo3vFTQPapOdkPloN2XCSPiDpsOHZJqW/ZkL7trJn+VQIrhlTOKvqHEYd2j0G8Q==;Gn5ZgwwwavGEkGNyZbi/kA=="
 ---

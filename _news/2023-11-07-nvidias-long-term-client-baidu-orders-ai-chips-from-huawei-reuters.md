@@ -85,6 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "China’s Baidu Strikes a Deal with Huawei to Buy AI Chips"
+    excerpt: "Although Huawei's chips aren't yet on par with Nvidia's in performance, they represent the most advanced AI chips China has to offer"
+    publishedDateTime: 2023-11-07T13:45:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 64
   - title: "AI-chip cousins? CEO Nvidia, AMD lead US tech war against China"
     excerpt: "The chief executives of Nvidia and AMD aren’t just two of the most powerful people in the global AI chip industry, they’re also cousins."
     publishedDateTime: 2023-11-06T13:55:00Z
@@ -127,6 +136,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Baidu placed AI chip order from Huawei in shift away from Nvidia: Report"
+    excerpt: "BEIJING: Baidu ordered artificial intelligence chips from Huawei this year, two people familiar with the matter said, adding to signs that US pressure is prompting Chinese acceptance of the firm's products as an alternative to Nvidia's."
+    publishedDateTime: 2023-11-07T09:26:00Z
+    webUrl: "https://www.channelnewsasia.com/business/baidu-placed-ai-chip-order-huawei-shift-away-nvidia-report-3903126"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 33
   - title: "Nvidia Dominates AI Chip Market, But Institutional Holders Show Unsettling Trend — Is The Spark Fading?"
     excerpt: "Nvidia Corp NVDA has taken a dominant position in the AI space and in the broader stock market. The stock is up over 200% so far this year, on account of: the company exceeding in"
     publishedDateTime: 2023-11-03T13:55:00Z
@@ -137,6 +155,6 @@ related:
       domain: benzinga.com
     quality: 18
 
-secured: "GN/qyDp+LDAEbzU04mIH9yYAK4vwtmQ0u9hexVqr052SLrX4pCluIkiW/N+L1F9XENIY3muOocnSZ3qelMcook3BHw/emLnHkzfKmkQfc/gfS4bV0w834JAsy+ELIqs0OrkKOpj2PUpHFzslHOZOZS8ULBienBa1Xot6fLSNSLRTViR25vY73tEf9k5On1HlwLzacObHUAN9/qv7YB6otbCnNyyRnUBJvAqxXZALSDd5EZRvC2vusLCu5ZXuhZnpKblGMMMpB/RfyEQttH3eWReWejxkZTwtv/yaKy7hRrb00cN8xuHLQ7c8ZAp27rB8vypV7BnuYb1Sm7NpnL6u1MaM5WiaIw0qQLY3DXjZBug=;MDxphPqU8MlDKC4TIVS6HA=="
+secured: "Y1QubVBbT1ge7MzsZnrAPwyYvDBGWeVV2PQnYAME7CwN3v1UXkCngcTSkpClwvBAF6zntQWM1HB62SaqhvulTEr9BN4nU+BgAattfZoeB5+CCqFXfCyjstNk+KfjuyjhxD/Y4+rMcBXXGOGeXWxea0uX+fZUk3TpPQEOVLJVIobtW6txCMVO6y2aAFOCtOoEB99NRTwGBAxF6kd3I48/IsSQc/W7dNkss086jgWUPDi+3CXI69qealS+rdzNtDGE8TwxDuho/oy+SkDKnYx9J8GsVTfgyZOLexvDDDf1qMnuTimqywh+ayhCrgZjUYEnCGvNQ23SCz3eYsbo2fKsSiGX6Hwr3hp0jbg6CG1qA9oy3WLW7+rdlcHz4jrPlDWljTD7vebuQmfyjBHZRddKH4ngmTNL/8XQLuDnqkREmVrN0tNJ9UNZelw8+wLOwEZqMoeoCAm3jLpYlYl3IotKTES0dwO51xd0Kh7QJcsZGnO7bsa2GD4YFVs6jzQt3tahXlTKSUM93WubvaNEAvzpgw==;yXDR9m97bRiQ/hYdoDlRIw=="
 ---
 

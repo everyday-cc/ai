@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-05-sebi-working-on-ai-tool-to-curb-misselling-by-mutual-funds-buch.md",
+      "title": "Sebi working on AI tool to curb misselling by mutual funds: Buch",
+      "excerpt": "Markets regulator Sebi is building an artificial intelligence tool to help detect misselling by mutual funds, its Chairperson Madhabi Puri Buch said on Tuesday. She cited a recent incident of a 90-year-old being sold a product with a seven-year lock-in period to illustrate an instance of misselling, and said algorithms will help flag such cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/science-environment/2582965-sebi-working-on-ai-tool-to-curb-misselling-by-mutual-funds-buch",
+      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2582965-sebi-working-on-ai-tool-to-curb-misselling-by-mutual-funds-buch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/09_07_2022_03_29_24_0446593.jpg?width=1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/science-environment/2582965-sebi-working-on-ai-tool-to-curb-misselling-by-mutual-funds-buch?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2582965-sebi-working-on-ai-tool-to-curb-misselling-by-mutual-funds-buch?amp",
+      "publishedDateTime": "2023-09-05T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-thetaray-nabs-57m-for-ai-tools-to-id-and-fight-money-laundering.md",
       "title": "ThetaRay nabs $57M for AI tools to ID and fight money laundering",
       "excerpt": "Money laundering -- the process of transferring assets around in order to disguise the illicit origin of the money behind them -- has been a huge and",
@@ -1229,41 +1272,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-the-future-of-finance-ai-meets-tokenization.md",
-      "title": "The Future of Finance: AI Meets Tokenization",
-      "excerpt": "F ederal Reserve Governor Christopher J. Waller recently gave a speech titled: “Innovations and the Future of Finance,” explicitly focusing on two emerging technologies, namely Tokenization and Artificial Intelligence (AI). He said, “the world is rapidly changing, and we need to be open to the potential benefits of innovation.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tokenization",
-      "originalUrl": "https://www.nasdaq.com/articles/the-future-of-finance-ai-meets-tokenization",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

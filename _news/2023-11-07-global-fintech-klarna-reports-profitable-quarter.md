@@ -27,31 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Salary hikes for IT staff take a cut; financial report card for Nykaa, Dunzo, PB Fintech"
-    excerpt: "Employees at Indian IT firms are not getting the salary hikes they were used to on switching jobs anymore, data from staffing companies suggests. This and more in todays ETtech Morning Dispatch."
-    publishedDateTime: 2023-11-07T01:49:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/articleshow/105024512.cms?from=mdr"
-    ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/amp_articleshow/105024512.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/amp_articleshow/105024512.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 35
-    images:
-      - url: "https://img.etimg.com/photo/msid-105024651/OpenAI.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Why last week felt like 2021 in fintech"
-    excerpt: "Combined, the three fintech companies raised $650 million alone ... The startup claims it is “the first personal finance platform to provide holistic tracking of net worth, AI-powered financial guidance, automated investing, easy tax filing, estate ..."
-    publishedDateTime: 2023-11-05T22:48:00Z
-    webUrl: "https://techcrunch.com/2023/11/05/the-return-of-mega-rounds-in-fintech-and-where-all-the-former-mint-users-are-headed/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
   - title: "FinTech LIVE London: Meet our software and tech experts"
     excerpt: "It's time to cast an eye over the software and technology-related speakers who will be taking the stage at FinTech LIVE London this week"
     publishedDateTime: 2023-11-05T17:21:00Z
@@ -62,6 +37,6 @@ related:
       domain: fintechmagazine.com
     quality: 4
 
-secured: "MqgLxxg0NA9l9DNsmKIj7Kxqm1I2aAVWNLoby2k+oRXlYKldihVwouoZDCSwXa/kV+JStiADbk1r6dWuyVL50iKGAnRI2SOwp4XEO1FVfhXWZ7YsA+Wq73cg4KOBl/SBCGNpNCKzObgeHnB/wnxkJMJYJ68yS6OnBDk+VN5GFVe9NFN8xnRmmIHeFaFoetB9GfHjRvcbXpQY+58hrzcAIkoejxco25pD63Os867KnlyIkI9B8+qpXIHsVi2plfEZ+trcHhOnhWLbQxqA2Oif+76yqDdYpMyBCjvaTNatwd18Rc/ayDqiXiaD9A6BWP4rcnpfjQm719kv9KUaJu+56V2k1A4YBYmY8iT85yppplg=;EpuhF8p4bVg/CLK9EWWiLg=="
+secured: "zx236Kfej7VWycwTaNGgtLS8RTzRzU1rSKmYfVx0hlae2vWijcSIpPHyzrpVXZUrWRAp0BjAUB4KrrL1l8I8S7jiIhDPZW40PkYkReOYkHZ8qE3XqynC+qK6Nq5UVNGtBXOf7o75lDJDDBoZ2bsiTx/G/yTznPnIxcxHFN1EbqAoPzyULtBYrDPzAJa3iuRW2WrSV0w3GLRHigl/NDrVTzB7znje2gzoYEfAZZcv6gJYiI+32abGv5w8MOCPVf8WvlHfMzvRgn/wW1IHNTzjXxoU+cB01/xE4Mlr9kFZ26jNVAc7KdL4n6kizdOWvQ0fSEtdAnYWV1NoI/72MG3iGUS+SFVTZOObM6gxjw9eMt75WJudqBcrlZRZMH+GqxVT7iridfUfKqFDOfrYmZh3ynUV5KdHOWmD+AJspyVOybw7/eMHeixjkw72Tf+7+qz2ejFiEeQ6mMGmA4cfAbvjtfT76IwmNu4nekNw1vacltJnFa9KO8m9/hHPCmDWP2QCEZ6KSQf4fmE8gxklRJokJQ==;7ouW7kNSJTcXH1Uj7t5X9A=="
 ---
 

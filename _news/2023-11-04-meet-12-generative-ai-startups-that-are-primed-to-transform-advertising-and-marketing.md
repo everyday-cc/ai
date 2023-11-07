@@ -33,6 +33,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "Unlock the power of generative AI with intelligent automation"
+    excerpt: "AI that's integrated into automation technology is referred to as “intelligent automation,” which helps businesses put generative AI to work.\nThe post Unlock the power of generative AI with intelligent automation appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-07T14:00:00Z
+    webUrl: "https://www.ibm.com/blog/unlock-the-power-of-generative-ai-with-intelligent-automation/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "Building for the future: The enterprise generative AI application lifecycle with Azure AI"
     excerpt: "The enterprise development process requires collaboration, diligent evaluation, risk management, and scaled deployment. By providing a robust suite of capabilities supporting these challenges, Azure AI affords a clear and efficient path to generating value in your products for your customers.\nThe post"
     publishedDateTime: 2023-11-06T17:00:00Z
@@ -76,6 +85,20 @@ related:
       - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202311/GettyImages-1473086732.jpg?itok=owGHTh-q"
         width: 1440
         height: 500
+        isCached: true
+  - title: "How Generative AI Will Transform Knowledge Work"
+    excerpt: "Generative AI can be a boon for knowledge work, but only if you use it in the right way. New generative AI-enabled tools are rapidly emerging to assist and transform knowledge work in industries ranging from education and finance to law and medicine."
+    publishedDateTime: 2023-11-07T13:05:00Z
+    webUrl: "https://hbr.org/2023/11/how-generative-ai-will-transform-knowledge-work"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_18_1456521984.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "C35ceGoxhRvL01SIzIOscvKP/HrIO3DVGDICkT1PsqEPpndNC8XJJFxP7/Sabutao9ZveL9RgbLE0GWfNuMMzQ4hmwVJ1Tq0eaENJGsz6nyhXn52QIyY8JovQ5T8frei9APqwtl+I5QfRwS7luBFdU+zMkGW+Hj2lPPpcxxKoOypli/UDlUpghPJqkxcyQEPNvqgFVB/aTyE0NT5n7gVerhvcVWx/pV/8wy+5+MQKSc9eLpWf5+UICGewX4pAwe1s2P6rKWKGdPItvDf1880IHsZCBN8f+X6pOHGrvpCzg035WMvoaKamITJr4cYGsef7cE4sQ5yxz+omzKPn2CiEtj4ggzQm3lMWNIrRbzVd7Qftxf8ptW4rllGPofnemA9oQiMljht/wChXXH5DgdCgWhGBiDCsT46biRBRq+Lm48RB9mBiEHIDKYjCpr8KM9cZbJWHFD8e2Lx/g5/InHpb2GRB3vA811CL9xczUaDrKytKRtOtwlF54ij8fdQOyD1TruwLg7Tge1b9ByVttxnnA==;TrYLr9OStYFXghFHlCd1iw=="

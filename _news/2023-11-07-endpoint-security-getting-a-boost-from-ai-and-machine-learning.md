@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/endpoint-security-getting-a-boost
 webUrl: "https://venturebeat.com/security/endpoint-security-getting-a-boost-from-ai-and-machine-learning/"
 type: article
 quality: 103
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Demystifying AI, Machine Learning and Data Science"
-    excerpt: "Netflix, Spotify, and other recommendation systems use AI to suggest movies, music, and other products based on our preferences, helping us to discover new things that we enjoy. Best Practices and Future Prospects AI, ML, and Data Science are ever-evolving fields. To stay relevant and succeed: Stay curious and keep learning."
-    publishedDateTime: 2023-11-02T20:54:00Z
-    webUrl: "https://nagalandpost.com/index.php/demystifying-ai-machine-learning-and-data-science/"
-    type: article
-    provider:
-      name: Nagaland Post
-      domain: nagalandpost.com
-    quality: 36
   - title: "How Apple's thinking about AI spending and deployment differs from Big Tech rivals"
     excerpt: "How Apple's thinking about AI spending and deployment differs from Big Tech rivals: Summary Apple's approach to AI spending and deployment sets it apart from its big tech rivals."
     publishedDateTime: 2023-11-04T18:46:00Z

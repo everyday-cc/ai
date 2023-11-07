@@ -38,6 +38,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "Unlock the power of generative AI with intelligent automation"
+    excerpt: "AI that's integrated into automation technology is referred to as “intelligent automation,” which helps businesses put generative AI to work.\nThe post Unlock the power of generative AI with intelligent automation appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-07T14:00:00Z
+    webUrl: "https://www.ibm.com/blog/unlock-the-power-of-generative-ai-with-intelligent-automation/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "Building for the future: The enterprise generative AI application lifecycle with Azure AI"
     excerpt: "The enterprise development process requires collaboration, diligent evaluation, risk management, and scaled deployment. By providing a robust suite of capabilities supporting these challenges, Azure AI affords a clear and efficient path to generating value in your products for your customers.\nThe post"
     publishedDateTime: 2023-11-06T17:00:00Z
@@ -77,7 +86,21 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "How Generative AI Will Transform Knowledge Work"
+    excerpt: "Generative AI can be a boon for knowledge work, but only if you use it in the right way. New generative AI-enabled tools are rapidly emerging to assist and transform knowledge work in industries ranging from education and finance to law and medicine."
+    publishedDateTime: 2023-11-07T13:05:00Z
+    webUrl: "https://hbr.org/2023/11/how-generative-ai-will-transform-knowledge-work"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_18_1456521984.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "OPsHKmGaEeywz8d9zNgJcRylDVglA844zhE00POKOT9hfNyat/eBeqnZE61dUAsVtWCysqN5XN0D5ZY9Ih0VejoSmUM1HonpZjfVhq1clzaxKJyWi/UHnMVqsBLcDzZgDTxCiS1sNKLI7pqQ2pZdUyoGW7nzoMMxwXGAAhNScbenx+G2Ud5+T/q1Kn6Ua5NQ7ZCp1nZyV6487ilJ075waP3mxbCYaKjFM0vr+8xnY/KtL5OuW81j9UG/Iqb/kI3MTy+h9tz76uafoMeo0YjJqN09IeEkFiNKf7NXwmpjgE8BS1qVpsgQR9MBSsMi0IwLgNu9AxukERtb7s6VVjOwybTXQ17hAEfd0ttNce3EO2g=;UvCVcIoVMLc0AiIYfGc3Ww=="
+secured: "TzT7xm6VinArnbjfIbmMk3Q8kT84bCVensxal7x725HjQQ14H7WYZSvIKSrWV46T3B5FeQj+4gGBl+YkUDgn39He9yABfkF+eA5pch+Glnsbh/czvJK3mXDm6xwdOcOXUNiLjKTZEhZ+xIJBbP4h5lm73Q8KZyed8gtdvlajPU4JSDLhTkBhoPqDpcvo49j2e6FyLvDY7ubRsNgcd4iT/2fkSLw5o7u4KXJIlCJjMQPvGzOjxyaYI6Fryg3TUD7G85Z73oCE7iyrM4LlGcYmOKg1R4YURDQj1kz3wgjIbMRtTaRvhyjORdsZW/ujpxsfEFb398akC5RjiROOJmlH292NYKn4FuMFAL0fHU6EATAKxxTRzHPvUV2BlKV8zyBzkpB7cgCqo39qRlicbge3j3DbZBQ7O3fDhuopwuW/6idwwA0FnL3AKIVgqnBh+146G/id6HVS0s31JtQEQ/uM0xhyBOCBlCgYTSUEKv/zAHkwzdgMwRzmPdwMRkuoxEWZyF2ut35toeqi5p3Ly+SAMw==;On0pO1FqphaMy6Ht6OyTRQ=="
 ---
 

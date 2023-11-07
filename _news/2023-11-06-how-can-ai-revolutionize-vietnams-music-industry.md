@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/1
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/06/how-can-ai-revolutionize-vietnams-music-industry/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 AI Stocks Poised to Power the Next Industrial Revolution"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is transforming the world as we know it. From"
+    publishedDateTime: 2023-11-07T00:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-poised-to-power-the-next-industrial-revolution-1032784136"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Revolutionising Namibia’s Tourism Industry Through AI"
     excerpt: "As a nation we need to delve into the realm of Artificial Intelligence (AI) and its potentially transformative influence on Namibia’s tourism sector. The advent of AI has ushered in a new era of possibilities for us."
     publishedDateTime: 2023-11-07T07:13:00Z

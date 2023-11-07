@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Researchers create machine learning model to calculate chemotherapy success in patients with osteosarcoma"
-    excerpt: "A research team at Johns Hopkins Medicine has created and trained a machine learning model to calculate percent necrosis (PN)—or, what percentage of a tumor is \"dead\" and no longer active—in patients with osteosarcoma,"
-    publishedDateTime: 2023-11-02T20:23:00Z
-    webUrl: "https://medicalxpress.com/news/2023-11-machine-chemotherapy-success-patients-osteosarcoma.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 2
-
 secured: "BPnG5L0pX4sfxQVg8Bvn7vSiWSrHQ1N94eKAwdIiwGFXNJGWqLoCJfEBB3DUdVs186blV7OYzDwf991QYXGn8pNvSwQUvk6x7AW2Zo3dg9/SNcLTG7Kxj4EdTlM2iQ1nnjG38DvP2bpHMi3wMBaTkQqmtLhVOGQbU6PIqsTNisZuKdSK1S1Z3firXBilW9bm50t20tWkCgNlnN1n0HLoPB9KHJ3fuSzXse1GBzfCD9Fsea8v75yon7SQp+WOVhEQEdUMhcbKFhU9DtVXdH1eViJmSpm1Wk/bsGMduepTmz9s0SYqkNGO9HYMZPDTf3epTC49/ETUlf2TVx/7FnQ5lTQsPf/O0afjQPnhjHLE0os=;x4javzl5YcI0ONLveLjadw=="
 ---
 

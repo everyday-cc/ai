@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "App Store for AI: Build your own GPT and sell it on OpenAI’s GPT Store"
-    excerpt: "Indeed, said systems are becoming even more general-purpose with new capabilities, but the AI giant has clearly taken a page ... like sending an unsupported language out to a translation API — but users will be able to choose whether their data can ..."
-    publishedDateTime: 2023-11-06T18:39:00Z
-    webUrl: "https://techcrunch.com/2023/11/06/app-store-for-ai-build-your-own-gpt-and-sell-it-on-openais-gpt-store/"
-    ampWebUrl: "https://techcrunch.com/2023/11/06/app-store-for-ai-build-your-own-gpt-and-sell-it-on-openais-gpt-store/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/06/app-store-for-ai-build-your-own-gpt-and-sell-it-on-openais-gpt-store/amp/"
+  - title: "OpenAI introduces custom AI assistants called “GPTs” that play different roles"
+    excerpt: "On Monday, OpenAI announced \"GPTs,\" a new feature that allows ChatGPT users to create custom versions of its AI assistant that serve different roles or purposes. OpenAI will let users share GPT roles with others, and it plans to introduce a \"GPT Store\" later this month that will eventually share revenue with creators."
+    publishedDateTime: 2023-11-06T18:21:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/11/img_5619.jpg?resize=1200,802"
-        width: 1200
-        height: 802
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/11/chatgpt-roles_2-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "What OpenAI’s wave of releases says about 2024 | The AI Beat"
     excerpt: "OpenAI's latest release announcements were just part of the tsunami wave of AI news over the past week. Here's what it all means for 2024."
@@ -72,6 +72,45 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Today’s Cache | Elon Musk to integrate AI startup with X; Humanoid robots and their problems; OpenAI plans for developer conference debut"
+    excerpt: "While ChatGPT has achieved popularity as both a desktop tool and a smartphone app, OpenAI CEO Sam Altman hopes to push the boundaries by creating a platform which developers will use to launch their own AI-generated products, reported Reuters."
+    publishedDateTime: 2023-11-06T09:20:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/todays-cache-elon-musk-to-integrate-ai-startup-with-x-humanoid-robots-and-their-problems-openai-plans-for-developer-conference-debut/article67503553.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/todays-cache-elon-musk-to-integrate-ai-startup-with-x-humanoid-robots-and-their-problems-openai-plans-for-developer-conference-debut/article67503553.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/todays-cache-elon-musk-to-integrate-ai-startup-with-x-humanoid-robots-and-their-problems-openai-plans-for-developer-conference-debut/article67503553.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 41
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/a7efd6/article67503547.ece/alternates/FREE_1200/2023-11-05T222849Z_646117061_RC2854AB4XV6_RTRMADP_3_XAI-LAUNCH.JPG"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "OpenAI’s app store for ChatGPTs will be a pain for start ups"
+    excerpt: "With it now becoming easier than ever to create a chatbot that serves a particular purpose, this could have severe effects on companies and start-ups that currently have AI-powered chatbots built for a specific purpose. For example, a service that might ..."
+    publishedDateTime: 2023-11-07T16:07:00Z
+    webUrl: "https://www.videogamer.com/news/openais-app-store-start-ups/"
+    type: article
+    provider:
+      name: VideoGamer
+      domain: videogamer.com
+    quality: 37
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/openai-chatgpts-app-store.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "GENAI DELIVERS AI COMPUTE EQUIPMENT TO CUSTOMER"
+    excerpt: "The Equipment has now been installed at the hosting facility and was tested and validated by the Customer. All of the Equipment went online and became fully operational with full functionality available to the Customer at midnight on November 6,"
+    publishedDateTime: 2023-11-07T14:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-genai-delivers-ai-compute-equipment-customer-/2023/11/07/9912489.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "AioQiwnt2tjot8ZRBMhPP25adCcAj+xnJZdmKOC6ghWuD/oeTHCdN0eW09PfLFiGkExglI8tKH8WyuAgJUjZKXhLGufy2vhJGTwIUObldFuCjhFGfT0nNAczQPOPrjiPvmW2TdvemX1hsjq+v2pzEV5QfCduvXuGC3iqqp4JdwbChTVRHmi3odoOvkr6VM1DU/oHXGEuVVQRReKWkArjIvAD6cDHJXykudswx7DRZl86OqWmM9c2D2Z6HBqJSqlwg2b7HvkwkxWOO0ne9vZuHKMF5WgCXQqDsr7+vq1EC30EQ/y6MuPEqnuIyqrzxnS2THmV+gPm8IqdQaN+YgFXefyEh+TDHvx/WUgpebHskZIXh9Z2klmIsXl6P7QqytBpQLQL7RWUuGUbU/wr4AzHNm6p+/Ch+bIq5RNkAcCFgwhS+ingHjlNBH/eun+BN49nY8tz50LMOdV+0Y8spwaj/gfL2bMhEK8HceVxr3SCXHvjf3HbpIJd8q8xK5Tw1qk8sKB/CNC66Pm55IUVhjhEXA==;PRMyFhUZI1qbIVSZ0XGcng=="
 ---

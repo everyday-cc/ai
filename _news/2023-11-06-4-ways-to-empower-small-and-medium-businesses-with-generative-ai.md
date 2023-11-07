@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/4-ways-to-empower-small-and-medium-busine
 webUrl: "https://www.ibm.com/blog/4-ways-to-empower-small-and-medium-businesses-with-generative-ai/"
 type: article
 quality: 99
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Unlock the power of generative AI with intelligent automation"
+    excerpt: "AI that's integrated into automation technology is referred to as “intelligent automation,” which helps businesses put generative AI to work.\nThe post Unlock the power of generative AI with intelligent automation appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-07T14:00:00Z
+    webUrl: "https://www.ibm.com/blog/unlock-the-power-of-generative-ai-with-intelligent-automation/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "Building for the future: The enterprise generative AI application lifecycle with Azure AI"
     excerpt: "The enterprise development process requires collaboration, diligent evaluation, risk management, and scaled deployment. By providing a robust suite of capabilities supporting these challenges, Azure AI affords a clear and efficient path to generating value in your products for your customers.\nThe post"
     publishedDateTime: 2023-11-06T17:00:00Z
@@ -75,6 +84,20 @@ related:
       - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202311/GettyImages-1473086732.jpg?itok=owGHTh-q"
         width: 1440
         height: 500
+        isCached: true
+  - title: "How Generative AI Will Transform Knowledge Work"
+    excerpt: "Generative AI can be a boon for knowledge work, but only if you use it in the right way. New generative AI-enabled tools are rapidly emerging to assist and transform knowledge work in industries ranging from education and finance to law and medicine."
+    publishedDateTime: 2023-11-07T13:05:00Z
+    webUrl: "https://hbr.org/2023/11/how-generative-ai-will-transform-knowledge-work"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_18_1456521984.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "QV939sGjEzv9KJ8OWyrRSRCOf0+40ngZLm/kxwjxWO9Br+LdjPKRhrTrOfXbP6QaAuyzr1+zrGtJC6D1c4iifd8k5Who5tmBUk37kiEt8rmhHK7ARnjF7yFESuukdhJjAMg+nqL0jl7BCu4o8wxB2iq99yjZVpFDNK4gosOd69OFh6nGEvwmLsmsNvN9Fy/21vxipV/pqskpDzOjg4XGMciwAGQDXzTi4wMqpXauruB23aiFi8dW+xUvIAnDVx5GzdEO//elPLzk1UEs0dCv4bVbYbmB7ZBz5ed5raWI4l5Vxar4UFEmcW8GHGcihYPVxUcXWSHVB8xPBR39VgymcKoZtLG/a4Fswl6/Up0RXbg=;5cV52D/l2kWGfkrPorGQKg=="

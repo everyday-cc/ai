@@ -2,6 +2,429 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-06-4-ways-to-empower-small-and-medium-businesses-with-generative-ai.md",
+      "title": "4 ways to empower small and medium businesses with generative AI",
+      "excerpt": "By providing powerful, capable generative AI solutions, enterprises can meet the specific needs of their SMB clients to help them succeed.\nThe post 4 ways to empower small and medium businesses with generative AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/4-ways-to-empower-small-and-medium-businesses-with-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/4-ways-to-empower-small-and-medium-businesses-with-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-optimize-apis-with-api-security-best-practices.md",
+      "title": "Optimize APIs with API security best practices",
+      "excerpt": "APIs sit between an organization’s IT resources and third-party software developers, delivering data and information at process endpoints.\nThe post Optimize APIs with API security best practices appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/api-security-best-practices/",
+      "originalUrl": "https://www.ibm.com/blog/api-security-best-practices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-elon-musk-says-ai-will-take-jobs-away-heres-why-that-wont-happen.md",
+      "title": "Elon Musk Says AI Will Take Jobs Away. Here’s Why That Won’t Happen",
+      "excerpt": "What does the future of work look like a hundred years from now? Will AI really eliminate the need for jobs? Here's what you need to know as the market evolves.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/",
+      "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6548b81fd31405fdb2b23724/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1463,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/amp/",
+      "publishedDateTime": "2023-11-06T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-pytorch-vs-tensorflow-machine-learning-frameworks-compared.md",
+      "title": "PyTorch vs TensorFlow machine learning frameworks compared",
+      "excerpt": "JAX is a newer entrant into the numerical computing space, backed by Google, and is quickly gaining traction in the deep learning community. It offers an efficient environment for numerical computations, automatic differentiation, and GPU/TPU support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/pytorch-vs-tensorflow/",
+      "originalUrl": "https://www.geeky-gadgets.com/pytorch-vs-tensorflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/PyTorch-vs-TensorFlow.jpg",
+          "width": 1280,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T00:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-analysis-ai-summit-a-start-but-global-agreement-a-distant-hope.md",
+      "title": "Analysis: AI summit a start but global agreement a distant hope",
+      "excerpt": "British Prime Minister Rishi Sunak championed a series of landmark agreements after hosting the first artificial intelligence (AI) safety summit but a global plan for overseeing the technology remains a long way off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-summit-start-global-agreement-distant-hope-2023-11-03/",
+      "originalUrl": "https://www.reuters.com/technology/ai-summit-start-global-agreement-distant-hope-2023-11-03/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/23SW6NrkggXGpIkpsg_1kORqYNc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TS3FBNGAOZJHDJTJ55V7UY5YMA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-05T21:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-tech-giants-jockey-for-position-at-dawn-of-ai-age.md",
+      "title": "Tech Giants Jockey For Position At Dawn Of AI Age",
+      "excerpt": "Whether they sell smartphones, ads or computer chips, the heavyweights of Silicon Valley have everything to prove to investors looking to see who is best placed in the race to dominate the generative artificial intelligence market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694",
+      "originalUrl": "https://www.barrons.com/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP8179296964960142560251109326446093220437---1.jpg",
+          "width": 768,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694",
+      "publishedDateTime": "2023-11-05T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds.md",
+      "title": "WhatsApp's AI sticker generator called out for racism against Palestine, Meta responds",
+      "excerpt": "WhatsApp's newly launched AI sticker generator feature has recently been accused of generating racist and Islamophobic images related to Palestine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
+      "originalUrl": "https://www.indiatoday.in/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/whatsapp-banned-over-71-lakh-accounts-in-india-031607942-16x9_0.jpg?VersionId=q0_uEJFrOkvtRkTRU3tzzfRmrUMEHvl5",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
+      "publishedDateTime": "2023-11-05T20:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-china-start-up-01ai-hits-us1-billion-valuation-with-top-ranked-open-source-model.md",
+      "title": "China start-up 01.AI hits US$1 billion valuation with top-ranked open-source model",
+      "excerpt": "Chinese start-up 01.AI, founded by computer scientist Kai-fu Lee, has become a unicorn in less than eight months on the strength of a new open-source AI model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3240451/china-start-01ai-hits-us1-billion-valuation-top-ranked-open-source-model?module=live&pgtype=homepage",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3240451/china-start-01ai-hits-us1-billion-valuation-top-ranked-open-source-model?module=live&pgtype=homepage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2023/11/06/19b310bc-8899-4fb8-a02f-e0e3dd3d4e09_fbaf7525.jpg?itok=OmaqHNbl&v=1699240439",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-05T19:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-elon-musk-plans-to-integrate-new-ai-project-gork-with-x.md",
+      "title": "Elon Musk Plans to Integrate New AI Project ‘Gork’ with X",
+      "excerpt": "Grok was first given to some users last Friday and stands out because it can pull up information quickly from Musk's social media service",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/11/06/elon-musk-new-ai-integrate-x/",
+      "originalUrl": "https://www.gizmochina.com/2023/11/06/elon-musk-new-ai-integrate-x/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/11/Elon-Musks-AI-Startup-xAI-Releases-Grok-a-Chatbot-That-Outperforms-ChatGPT-3.5.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-05T19:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-05-bias-in-ai-facial-recognition-puts-black-people-in-legal-peril.md",
       "title": "Bias in AI facial recognition puts Black people in legal peril",
       "excerpt": "At issue are facial recognition programs within AI that do not recognize dark-skinned Black people. Damon Hewitt, head of the Lawyers’ Committee for Civil Rights Under Law, told theGrio that the technology used by law enforcement is biased because it ...",
@@ -98,15 +521,15 @@
       ]
     },
     {
-      "path": "_news/2023-11-05-google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-wifi.md",
-      "title": "Google DeepMind’s robotics head on general purpose robots, generative AI and office WiFi",
-      "excerpt": "I was initially working on general AI and computer vision ... In fact, one of the things that prompted us to really start looking into robotics at the time was a collaboration that was a bit of a skunkworks project with the Everyday Robots team, where ...",
+      "path": "_news/2023-11-05-google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-wi-fi.md",
+      "title": "Google DeepMind’s robotics head on general-purpose robots, generative AI and office Wi-Fi",
+      "excerpt": "Subscribe here.] Earlier this month, Google’s DeepMind team debuted Open X-Embodiment, a database of robotics functionality created in collaboration with 33 research institutes. The researchers ...",
       "sourceUrl": null,
       "webUrl": "https://techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/",
       "originalUrl": "https://techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -145,9 +568,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Google AI",
         "AI",
-        "Google AI"
+        "AI in Robotics"
       ]
     },
     {
@@ -159,7 +582,7 @@
       "originalUrl": "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/?news-columnists",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -402,6 +825,40 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for-predicting-patient-response-to-immunotherapies.md",
+      "title": "GE HealthCare Announces New Data Validating Artificial Intelligence Models for Predicting Patient Response to Immunotherapies",
+      "excerpt": "GE HealthCare’s Artificial Intelligence (AI) models predict patient response to immunotherapies with 70 to 80 percent accuracy1, based on a pan-cancer cohort, according to findings to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20231101659257/ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for-predicting-patient-response-to-immunotherapies",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20231101659257/ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for-predicting-patient-response-to-immunotherapies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -653,412 +1110,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-standard-ai-named-an-idc-innovator-in-computer-vision-for-automated-checkout-and-self-checkout.md",
-      "title": "Standard AI Named an “IDC Innovator” in Computer Vision for Automated Checkout and Self-Checkout",
-      "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--Standard AI, world leader in retail AI, today announced that it has been named an “IDC Innovator” in the IDC Innovators: Computer Vision for Automated Checkout ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231101666146/en/Standard-AI-Named-an-“IDC-Innovator”-in-Computer-Vision-for-Automated-Checkout-and-Self-Checkout",
-      "originalUrl": "https://www.businesswire.com/news/home/20231101666146/en/Standard-AI-Named-an-“IDC-Innovator”-in-Computer-Vision-for-Automated-Checkout-and-Self-Checkout",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-snowflake-accelerates-how-users-build-next-generation-apps-and-machine-learning-models-in-the-data-cloud.md",
-      "title": "Snowflake Accelerates How Users Build Next Generation Apps and Machine Learning Models in the Data Cloud",
-      "excerpt": "Snowflake (NYSE: SNOW), the Data Cloud company, today announced at its Snowday 2023 event new advancements that make it easier for developers to build",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231101058683/en/Snowflake-Accelerates-How-Users-Build-Next-Generation-Apps-and-Machine-Learning-Models-in-the-Data-Cloud",
-      "originalUrl": "https://www.businesswire.com/news/home/20231101058683/en/Snowflake-Accelerates-How-Users-Build-Next-Generation-Apps-and-Machine-Learning-Models-in-the-Data-Cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-amd-rises-as-ai-chip-sales-prediction-bodes-well-for-rivalry-with-nvidia.md",
-      "title": "AMD Rises as AI Chip Sales Prediction Bodes Well for Rivalry With Nvidia",
-      "excerpt": "CEO Lisa Su on Tuesday provided a 2024 sales forecast for the first time for the MI300 chips, designed to compete against the advanced H100 chips sold by Nvidia. She projected annual sales of more than $2 billion, and raised the chip's current-quarter revenue expectations by $100 million.",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2023-11-01/amd-rises-as-ai-chip-sales-prediction-bodes-well-for-rivalry-with-nvidia",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-11-01/amd-rises-as-ai-chip-sales-prediction-bodes-well-for-rivalry-with-nvidia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-how-ai-and-machine-learning-help-detect-and-prevent-fraud.md",
-      "title": "How AI And Machine Learning Help Detect And Prevent Fraud",
-      "excerpt": "Bespoke fraud ML models are powered by algorithms that learn from historical data, picking up on behaviors and characteristics commonly associated with fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/01/how-ai-and-machine-learning-help-detect-and-prevent-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/01/how-ai-and-machine-learning-help-detect-and-prevent-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-baidu-launches-paid-version-of-chatgpt-like-ernie-bot.md",
-      "title": "Baidu launches paid version of ChatGPT-like Ernie Bot",
-      "excerpt": "BEIJING, Nov 1 (Reuters) - Chinese search engine giant Baidu launched on Wednesday a paid version of its ChatGPT-like product Ernie bot, charging 59.9 yuan ($8.18) per month. Ernie bot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/baidu-launches-paid-version-chatgpt-like-ernie-bot-2023-11-01/",
-      "originalUrl": "https://www.reuters.com/technology/baidu-launches-paid-version-chatgpt-like-ernie-bot-2023-11-01/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/VVujUpuZJ5sZbzejiK7qIgd0vvM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7KYMFDIHQ5OGLCNPW4OK6FNDEQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-self-driving-car-service-suspends-rides-nationwide-but-will-resume-mapping-in-nc.md",
-      "title": "Self-driving car service suspends rides nationwide but will resume mapping in NC",
-      "excerpt": "The pause by General Motors’ Cruise division comes after several safety incidents. But mapping will resume in Charlotte, and Raleigh awaits next steps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsobserver.com/news/business/article281194698.html",
-      "originalUrl": "https://www.newsobserver.com/news/business/article281194698.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Raleigh News & Observer",
-        "domain": "newsobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-a-gut-check-for-artificial-intelligence.md",
-      "title": "A Gut Check for Artificial Intelligence",
-      "excerpt": "Startups are applying artificial intelligence to just about everything, including the bugs in your gut.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/a-gut-check-for-artificial-intelligence-d02aa422",
-      "originalUrl": "https://www.wsj.com/articles/a-gut-check-for-artificial-intelligence-d02aa422",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-878977/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-artificial-brain-learns-on-the-fly-with-nanowire-networks.md",
-      "title": "Artificial brain learns on the fly with nanowire networks",
-      "excerpt": "The artificial brain is made of nanowire networks, tiny wires a billion times smaller than a meter. The cables form random patterns that look like the game ‘Pick Up Sticks,’ but they also act like the neural networks in our brains. These networks can process information in different ways.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/artificial-brain-learns-on-the-fly-with-nanowire-networks",
-      "originalUrl": "https://interestingengineering.com/innovation/artificial-brain-learns-on-the-fly-with-nanowire-networks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-adastra-signs-strategic-collaboration-agreement-with-aws-to-drive-ai-powered-solutions-globally.md",
-      "title": "Adastra Signs Strategic Collaboration Agreement with AWS to Drive AI-Powered Solutions Globally",
-      "excerpt": "Adastra, a leading global Data and Analytics solutions provider, announced today that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to advance the development and deployment of cutting-edge artificial intelligence (AI) solutions by leveraging generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/adastra-signs-strategic-collaboration-agreement-with-aws-to-drive-ai-powered-solutions-globally/article_b1c3f178-9bdb-5abf-81aa-0e7997775f28.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/adastra-signs-strategic-collaboration-agreement-with-aws-to-drive-ai-powered-solutions-globally/article_b1c3f178-9bdb-5abf-81aa-0e7997775f28.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-ai-safety-use-cases-how-generative-ai-is-distorting-human-sentiment.md",
-      "title": "AI safety use cases - how generative AI is distorting human sentiment",
-      "excerpt": "It used to be said that the big problem with AI is its ‘hallucinations’ when supporting data is absent. But it turns out that there is a bigger one: generative AI is removing human sentiment and context without us even knowing.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-safety-use-cases-how-generative-ai-distorting-human-sentiment",
-      "originalUrl": "https://diginomica.com/ai-safety-use-cases-how-generative-ai-distorting-human-sentiment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

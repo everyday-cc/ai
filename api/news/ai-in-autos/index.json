@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-08-britain-says-automakers-will-be-liable-for-self-driving-crashes-not-owners.md",
+      "title": "Britain says automakers will be liable for self-driving crashes, not owners",
+      "excerpt": "The British government announced on Tuesday that, under a framework for advancing autonomous vehicles (AV), it would hold the manufacturers of self-driving cars legally responsible for any accidents, rather than the owners. A decision embraced by both ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3225348",
+      "originalUrl": "https://www.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3225348",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/LYNXNPEB6S0D8_L.jpg",
+          "width": 800,
+          "height": 572,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3225348?ampMode=1",
+      "cdnAmpWebUrl": "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3225348?ampMode=1",
+      "publishedDateTime": "2023-11-07T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-06-code-companions-the-rise-of-the-automated-developer.md",
       "title": "Code Companions - The Rise Of The Automated Developer",
       "excerpt": "Okay, not everything is automated yet, but we are applying automation controls to every fabric of our society from auto-sensing driver alerts in newer smart vehicles",
@@ -115,7 +158,7 @@
       "originalUrl": "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/?news-columnists",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1161,58 +1204,6 @@
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates.md",
-      "title": "DOJ subpoenas Tesla in probes of AutoPilot and driving range estimates",
-      "excerpt": "According to Reuters, demand for Tesla vehicles could drop if interest rates keep rising, and Tesla could incur further losses if pressure remains to decrease prices to remain competitive. That's partly why Tesla shareholders have pushed Musk to consider investing more in advertising efforts that could spike demand.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1250863346-800x534.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/amp/",
-      "publishedDateTime": "2023-10-23T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

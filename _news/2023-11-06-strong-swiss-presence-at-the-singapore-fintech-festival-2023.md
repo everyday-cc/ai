@@ -19,31 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "5 firms leveraging AI to transform the future of FinTech in USA"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-11-06T10:46:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-firms-leveraging-ai-to-transform-the-future-of-fintech-in-usa/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/06/Generative-AI-in-Banking.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "3 Southeast Asian Startups Make World’s Top 100 Fintech Firms List"
-    excerpt: "Three fintech startups from Southeast Asia have been named among the world’s largest and most successful financial technology companies, recognized for their scale, growth and ingenuity."
-    publishedDateTime: 2023-11-07T03:30:00Z
-    webUrl: "https://fintechnews.sg/79865/indonesia/3-southeast-asian-startups-make-worlds-top-100-fintech-firms-list/"
+  - title: "Gartner-Recognised Sumsub to Showcase at Singapore Fintech Festival 2023"
+    excerpt: "Fintech companies in Singapore and the region are gearing up for the highly anticipated Singapore Fintech Festival from 15 to 17 November."
+    publishedDateTime: 2023-11-07T08:08:00Z
+    webUrl: "https://fintechnews.sg/79812/sponsoredpost/gartner-recognised-sumsub-to-showcase-at-singapore-fintech-festival-2023/"
     type: article
     provider:
       name: Fintech Singapore
       domain: fintechnews.sg
-    quality: 24
+    quality: 23
     images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/3-Southeast-Asian-Startups-Make-Worlds-Top-100-Fintech-Firms-List.jpg"
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/Gartner-Recognised-Sumsub-to-Showcase-at-Singapore-Fintech-Festival-2023.jpg"
         width: 1024
         height: 567
         isCached: true

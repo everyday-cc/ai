@@ -26,20 +26,15 @@ images:
 
 related:
   - title: "Oxa and eVersum Join Self-driving Shuttle Rollout in Belfast Harbour"
-    excerpt: "Oxa, one of the world’s leading self-driving vehicle software developers, and eVersum, the electric commercial vehicles and passenger transport solutions specialists, cement a new collaboration with their first joint rollout of autonomous vehicle technology."
-    publishedDateTime: 2023-11-07T09:35:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/oxa-and-eversum-join-self-driving-shuttle-rollout-in-belfast-harbour/article_f0b88189-5ae6-5241-9625-59d7a077f501.html"
+    excerpt: "Zero-carbon shuttles built by eVersum and driven by Oxa self-driving software will begin carrying passengers from early 2025 OXFORD, England, & LEIBNITZ, Austria--(BUSINESS WIRE)--Oxa, one of the world’s leading self-driving vehicle software developers ..."
+    publishedDateTime: 2023-11-07T09:31:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231107586594/en/Oxa-and-eVersum-Join-Self-driving-Shuttle-Rollout-in-Belfast-Harbour"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/3/50/350dfaa8-f60e-55c1-9c8b-a86aca130eac/654a0256beb6e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
 
-secured: "tl9LX4rgKZzvexdZVgFAxmtu7taKOYg1l1SX9NAMt6lO9n3lpsdNNLk54WwJPHAj8kNQ5qw7eKzjr7xHw/9pcd6q1nX6g9H5AP/xvIoh7iDXqSzx4riEpwPFcw+Jha3WZT4duLrxStEPsXHV0ZYAZ67bNhLD+PQTpM11Y0BIxlssRYaHhp4bagQzUSRx/VMzEnorExomOZLfnOFZsiZ23fu2VIo6YCvvnX/+Bt6sucqL7fL5PVKtEo4u3zajMjoTUUtF06Y+h1SBnnT3rXyEkmWHOlTujyYgIJ7up3cy43Ofi9TOdqn16KpYeOkXAvVvf+8o1Fzjl9YdllcAwgTNg53sJ+wWsCBdeTw8eSgxW/M=;KDcXyes8rzFTvEdOgUJV5g=="
+secured: "IGu5XavXld47iBU0vF9SZzguBKQ48etu/mAVN2xmLFqFZPVMwJTUmiat7Rh+uRxKr1irso80SA1SUH4QSLygRECIIBPP1ct0YKshJ4rBjzO0kyD5VClVqPK/a1K9XVdvpHkrQflI9vsXWHeRDnkqS5B22AcSF/yuXldOb7FfIJjjfNjqp8bbcRKq97Ic2TKI3QkZ1S24wTbT24lHpeeZ0xwaXlI4xULl458hmSwqJJivzLCb0tRgKK0taKsSezK9PAR/6mHvMUnwE2zdCAWHcXlAlhy+cq/Ax8QUi9y0Y7T5wTyiqCkaxC0qmcJmjwml0vp813O7PhAfr7WbL3q0DozylbCHnHRNGRBlW6aa9O+jGAjijgMOFn4HQ7dd6njXSgYsNJ8O4H/W63D8TLRUtIORGn3ENv1IKb5J+jGDjcaGdRvN+9sF+LAbICX2HSReyb4Kqkb2DxV6f6RLd16ya6BW97gmaNCwTZoZl4NLCxOz4WqruL2BkjVbCUjWAQHXOnPmYHfYem+rNpBQUEDLfg==;/0FdWUrybOaJ3SR21R1viQ=="
 ---
 

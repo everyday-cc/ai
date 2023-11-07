@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-09-16-ai-quadruped-robot-market-size-and-regional-outlook-analysis-2023-2030.md",
+      "title": "AI Quadruped Robot Market Size and Regional Outlook Analysis 2023-2030",
+      "excerpt": "The AI Quadruped Robot Market Insights of 2023 is ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Precision Reports is the credible ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34627804/ai-quadruped-robot-market-size-and-regional-outlook-analysis-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34627804/ai-quadruped-robot-market-size-and-regional-outlook-analysis-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-15T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-artificial-intelligence-robotics-market-2023-2030-latest-report-reveals-worldwide-industry-growth-development.md",
       "title": "Artificial Intelligence Robotics Market [2023-2030] | Latest Report Reveals Worldwide Industry Growth & Development",
       "excerpt": "Global Artificial Intelligence Robotics Market (2023-2030) research report provides precise information related to business development, advanced growth plans, and trends predictions. It discusses ...",
@@ -1241,49 +1275,6 @@
         "name": "MD&M East",
         "domain": "mddionline.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-the-7-best-robotics-stocks-to-buy-now-september-2023.md",
-      "title": "The 7 Best Robotics Stocks to Buy Now: September 2023",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While artificial intelligence stocks have seen a meteoric rise in recent",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-7-best-robotics-stocks-to-buy-now-september-2023-1032618318",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-7-best-robotics-stocks-to-buy-now-september-2023-1032618318",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-10T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

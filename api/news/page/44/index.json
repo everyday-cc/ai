@@ -2,6 +2,485 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-10-05-5-human-advantages-marketers-can-use-in-the-ai-revolution.md",
+      "title": "5 Human Advantages Marketers Can Use In The AI Revolution",
+      "excerpt": "Marketers can capitalize on their humanity by crafting emotive and humorous content, standing out amidst the sea of AI-generated content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef275d1002e6b0008173689/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/amp/",
+      "publishedDateTime": "2023-10-05T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-atropos-health-leverages-ai-to-democratize-access-to-real-world-evidence-in-healthcare.md",
+      "title": "Atropos Health leverages AI to democratize access to real-world evidence in healthcare",
+      "excerpt": "Atropos Health, the Palo Alto, Calif.-based healthcare startup, unveiled today a new artificial intelligence (AI) system that could revolutionize how evidence is produced to inform medical decisions and research.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/atropos-health-leverages-ai-to-democratize-access-to-real-world-evidence-in-healthcare/",
+      "originalUrl": "https://venturebeat.com/ai/atropos-health-leverages-ai-to-democratize-access-to-real-world-evidence-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-3-unstoppable-robotics-stocks-that-will-make-early-investors-rich.md",
+      "title": "3 Unstoppable Robotics Stocks That Will Make Early Investors Rich",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics does not necessarily have to look like in the movies, where you have",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-unstoppable-robotics-stocks-that-will-make-early-investors-rich-1032681222",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-unstoppable-robotics-stocks-that-will-make-early-investors-rich-1032681222",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-choosing-a-strategic-investment-partner-in-the-ai-gold-rush.md",
+      "title": "Choosing A Strategic Investment Partner In The AI Gold Rush",
+      "excerpt": "Michelle Gonzalez, Corporate Vice President and Head of M12, Microsoft’s Venture Fund.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/05/choosing-a-strategic-investment-partner-in-the-ai-gold-rush/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/05/choosing-a-strategic-investment-partner-in-the-ai-gold-rush/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640236bd8a9b57f11a217f5e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/05/choosing-a-strategic-investment-partner-in-the-ai-gold-rush/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/10/05/choosing-a-strategic-investment-partner-in-the-ai-gold-rush/amp/",
+      "publishedDateTime": "2023-10-05T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-generative-ai-is-coming-for-sales-execs-jobsand-theyre-celebrating.md",
+      "title": "Generative AI Is Coming for Sales Execs’ Jobs—and They’re Celebrating",
+      "excerpt": "ChatGPT-style AI can tackle the drudge work of responding to RFPs faster than humans. Sales teams at Google, Twilio, and others say productivity is spiking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/generative-ai-chatgpt-is-coming-for-sales-jobs/",
+      "originalUrl": "https://www.wired.com/story/generative-ai-chatgpt-is-coming-for-sales-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65174569f8a5c34a7770661b/191:100/w_1280,c_limit/092923-drudge-work-generative-ai.png",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-successfully-integrating-ai-to-address-burnout-and-enhance-efficiency.md",
+      "title": "Successfully Integrating AI To Address Burnout And Enhance Efficiency",
+      "excerpt": "The integration of AI into the workplace is a double-edged sword that, when wielded thoughtfully, can greatly enhance productivity and promote employee well-being.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651dcd086a3358713ea8dbc1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/amp/",
+      "publishedDateTime": "2023-10-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-driverless-cars-are-multiplying-on-texas-roads-heres-what-you-should-know.md",
+      "title": "Driverless cars are multiplying on Texas roads. Here’s what you should know.",
+      "excerpt": "Here’s what you need to know about driverless vehicles in Texas ... The data from these sensors feed the car’s artificial intelligence brain in real time, enabling it to make decisions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.texastribune.org/2023/10/05/texas-driverless-cars-autonomous-vehicles-cruise/",
+      "originalUrl": "https://www.texastribune.org/2023/10/05/texas-driverless-cars-autonomous-vehicles-cruise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbnails.texastribune.org/3_yawwd97JZ2d2F_jbDy8Tc3cw4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/e351a86d0a0f9d690b1f766810f9f8c3/0926%20Driverless%20Cars%20TT%20JS%2006.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Texas Tribune",
+        "domain": "texastribune.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-the-us-isnt-ready-for-the-new-age-of-ai-fueled-disinformationbut-china-is.md",
+      "title": "The U.S. Isn’t Ready for the New Age of AI-Fueled Disinformation—But China Is",
+      "excerpt": "Thanks to generative AI, the impact of China’s social media manipulation will be both greater in volume and more convincing",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6320638/ai-disinformation-china/",
+      "originalUrl": "https://time.com/6320638/ai-disinformation-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/10/GettyImages-1441688102.jpg?quality=85",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation.md",
+      "title": "Generative AI Is Revolutionizing Music: Loudly's Vision For Democratizing Creation",
+      "excerpt": "Explore how Loudly, an innovative AI-driven music platform, is revolutionizing and democratizing music creation, enabling users to craft unique soundtracks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651e6351b06cf0d5fb6e2537/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/",
+      "publishedDateTime": "2023-10-05T00:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-european-commission-to-keep-track-of-ai-and-semiconductor-chips.md",
+      "title": "European Commission to keep track of AI and semiconductor chips",
+      "excerpt": "Sources revealed that on October 3, 2023, European Union officials mentioned that they have identified four areas that need assessment regarding technology risk and risk of technology leakage. The areas are believed to include AI, advanced semiconductor technologies, quantum technologies and biotechnologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/chip.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/",
+      "publishedDateTime": "2023-10-04T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-wordly-launches-trusted-ai-translation.md",
       "title": "Wordly Launches Trusted AI Translation",
       "excerpt": "announced the launch of Trusted AI Translation, the easiest, most affordable, and most secure way to make meetings and events more language inclusive and accessible. Wordly Trusted AI Translation ...",
@@ -708,472 +1187,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-this-ai-company-wants-to-help-you-control-your-dreams.md",
-      "title": "This AI company wants to help you control your dreams",
-      "excerpt": "The startup has raised a previously unreported $ ... intelligence companies are investing in devices or wearables. Humane AI, a company founded in 2017 by former Apple employees, debuted its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/10/04/ai-startup-prophetic-aims-to-build-headset-that-lets-you-control-dreams.html",
-      "originalUrl": "https://www.cnbc.com/2023/10/04/ai-startup-prophetic-aims-to-build-headset-that-lets-you-control-dreams.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107154410-1668802371975-Sleep_In_Bed.jpg?v=1696441323",
-          "width": 6240,
-          "height": 4160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/04/ai-startup-prophetic-aims-to-build-headset-that-lets-you-control-dreams.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/04/ai-startup-prophetic-aims-to-build-headset-that-lets-you-control-dreams.html",
-      "publishedDateTime": "2023-10-04T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun.md",
-      "title": "Facebook’s new AI stickers can generate Mickey Mouse holding a machine gun",
-      "excerpt": "\"F ound out that facebook messenger has ai generated stickers now and I don't think anyone involved has thought anything through ,\" Desbiens wrote in his post. \"W e really do live in the stupidest future imaginable,\" he added in a reply.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/facebook_AI_stickers-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/",
-      "publishedDateTime": "2023-10-04T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-thought-industries-expands-ai-capabilities-to-power-the-business-of-learning.md",
-      "title": "Thought Industries Expands AI Capabilities to Power the Business of Learning",
-      "excerpt": "The Use of Generative AI in the Ti Platform Builds on Years of Company Experience Using Machine Learning to Create Personalized, Differentiated Learning Experiences. BOSTON, /PRNewswire/ -- Thought",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/10/n35093922/thought-industries-expands-ai-capabilities-to-power-the-business-of-learning",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/n35093922/thought-industries-expands-ai-capabilities-to-power-the-business-of-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35093922",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35093922",
-      "publishedDateTime": "2023-10-04T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-man-was-arrested-held-for-six-days-over-faulty-facial-recognition-tech-lawsuit.md",
-      "title": "Man was arrested, held for six days over faulty facial recognition tech: lawsuit",
-      "excerpt": "A black man visiting his mother in Atlanta was wrongfully arrested and held for six days after facial recognition technology incorrectly identified him as a fraudster and thief in Louisiana ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/10/04/man-was-arrested-for-six-days-over-faulty-facial-recognition-tech-lawsuit/",
-      "originalUrl": "https://nypost.com/2023/10/04/man-was-arrested-for-six-days-over-faulty-facial-recognition-tech-lawsuit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000044822397.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/10/04/man-was-arrested-for-six-days-over-faulty-facial-recognition-tech-lawsuit/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/10/04/man-was-arrested-for-six-days-over-faulty-facial-recognition-tech-lawsuit/amp/",
-      "publishedDateTime": "2023-10-04T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models.md",
-      "title": "Lemurian Labs is building a new compute paradigm to reduce cost of running AI models",
-      "excerpt": "Lemurian Labs is an early stage startup with a big ambition to build a software and chip solution to make processing LLMs more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/",
-      "originalUrl": "https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1312904817.jpg?resize=1200,848",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/amp/",
-      "publishedDateTime": "2023-10-04T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-researchers-use-ai-to-design-a-walking-robot-in-seconds.md",
-      "title": "Researchers use AI to design a walking \"robot\" in seconds",
-      "excerpt": "The AI identified the proposed bot's flaws and turned out a revision. By the 10th iteration, the AI had created something that seemed as if it",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/100383-researchers-use-ai-design-walking-robot-seconds.html",
-      "originalUrl": "https://www.techspot.com/news/100383-researchers-use-ai-design-walking-robot-seconds.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-04-image-8.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-pixel-8-pro-runs-googles-generative-ai-models-on-device.md",
-      "title": "Pixel 8 Pro runs Google’s generative AI models on-device",
-      "excerpt": "The newly announced Pixel 8 Pro will be the first hardware to run some of Google's generative AI models on-device.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/",
-      "originalUrl": "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/Pixel-8-Pro-Camera-1.jpg?w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/",
-      "publishedDateTime": "2023-10-04T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-us-agency-california-gathering-details-of-accident-involving-robot-taxi-and-pedestrian.md",
-      "title": "US agency, California gathering details of accident involving robot taxi and pedestrian",
-      "excerpt": "WASHINGTON, Oct 3 (Reuters) - U.S. and California officials said on Tuesday they are in discussions with General Motors' (GM.N) self-driving unit Cruise about an accident in San Francisco ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/us/us-agency-california-gathering-details-self-driving-crash-2023-10-03/",
-      "originalUrl": "https://www.reuters.com/world/us/us-agency-california-gathering-details-self-driving-crash-2023-10-03/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/ykik3dJ9wjhMeC_4EUzKuyCb4w4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3QK7U3OJNNLLPB2AFH4YL47PXU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-ai-in-computer-vision-market-opportunities-and-demand-in-2024-growth-potentials-and-forthcoming-developments-by-2031.md",
-      "title": "AI in Computer Vision Market: Opportunities and Demand in 2024 | Growth Potentials and Forthcoming Developments by 2031",
-      "excerpt": "What is Market Insights and Analysis? The global AI in Computer Vision market size was valued at USD 4332.54 million in 2022 and is expected to expand at a CAGR of 22.12% during the forecast ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/ai-in-computer-vision-market-opportunities-and-demand-in-2024-growth-potentials-and-forthcoming-developments-by-2031",
-      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/ai-in-computer-vision-market-opportunities-and-demand-in-2024-growth-potentials-and-forthcoming-developments-by-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
-      "title": "NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
-      "excerpt": "The provider has not supplied information on the NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT) treatment and services at this clinic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhs.uk/services/clinic/sheffield-iapt/X127782/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
-      "originalUrl": "https://www.nhs.uk/services/clinic/sheffield-iapt/X127782/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T07:49:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHS Choices",
-        "domain": "www.nhs.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "AI in Healthcare"
       ]

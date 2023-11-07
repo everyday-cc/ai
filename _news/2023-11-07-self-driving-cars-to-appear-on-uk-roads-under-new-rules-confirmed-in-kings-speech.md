@@ -34,21 +34,7 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 34
-  - title: "Government announces self-driving legislation in King’s Speech"
-    excerpt: "In a briefing document from Number 10, the Government says that the automated vehicles bill will unlock a “transport revolution” by enabling the safe deployment of self-driving vehicles. It says it will also cement the UK’s position as a “global ..."
-    publishedDateTime: 2023-11-07T12:42:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/government-announces-self-driving-legislation-in-king-s-speech"
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 24
-    images:
-      - url: "https://fncdn.blob.core.windows.net/web-clean/1/root/istock-self-driving.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
 
-secured: "VulNJZ3bqtHGPr4BcPvzEd+LvBF3yn5kpArgfr3fT6umnZmCN+ph3SNLBhS3tTtcpIZJ31Q1bgeq+tdLOBBXBWtHKs613qudSiUYXdCaGx6FjW5bUZbNCxdkJ9X7Lb5uP+NH1b8mgz10ohMpI7QleCgi9emtUxmnqmyhGTNJ/y3jH8qAXhfyQuRsc/HRIha9HFiIMJ5owUUrLcqDLUlCUNfdXRA5zQgKs6Q1cpbCWceX2FjjLC3CTp3TAA3COJCZwQJ7am24daxcmB3McHMONlG76MkhIlKnPQpgHmIQZkHe0AQMqVYRBvT6cCBVPwxaUX4h+xemnFwEm4G58km1vIK3jADThUObZXsiRb39HWo=;U8OdSbLjRN3OPeuDwn+S/w=="
+secured: "Unacaielt0M10kobJUPyDcsGwQX2kDEFohNxB/mQ2lIyfKWhoGd0GbjEA6PjHj+aklDngYT4veVcFotPr4Z68auEPKjIuVxBcIEDf3AJFWIuqLMai2YF66kusGRiclODjs/3U6+hlbtmnup+AiH2cM3TpamhRCKIXr8uRO7KOmlzd8dmtMmHVQ3kHhLylTVi1ZQklCOeuuqs2whEv5+3H2Vluos9uPrlxQZMiLP6LnAHHxYmivoxiu621Lp7E7bg8FmAh1K+j1QssyAWIyL5OdCklB4d65kR2cBR+OUaMOwKuQZ23UWqBMigQCTtPN/LIHCDO6IPkgI8AlzR6BkAcXc6eFEzNtu8M8R86Ti3rBo4yjIynEsWatAl6VKIFvSwUOmJ0mLHXZn396anaxJXN/ZrnysoLs32GtUvrfst7EgauW/WfGLVb4e3p0bCjQQs7HWHzTNEace5HOycFCjoWEwGR3jt5NF17LduI+OQwvbRF9qCQwzpdzFRXR8R1jNObB1W49wr3T4c1Pi+Ey9XSQ==;1veqB5Ae7sX6m8fEeAEasQ=="
 ---
 

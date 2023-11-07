@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1600
     height: 662
     isCached: true
+
+related:
+  - title: "Unleashing the Power of AI in the Internet of the Future"
+    excerpt: "The Internet of the future is set to be a dynamic and transformative force, with artificial intelligence (AI) poised to play a central role. The integration of AI into the fabric of the Internet promises to unlock new realms of innovation,"
+    publishedDateTime: 2023-11-07T12:31:00Z
+    webUrl: "https://techbullion.com/unleashing-the-power-of-ai-in-the-internet-of-the-future/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
 
 secured: "PXUHbF1LH4C5Z4mNMJIJika4g7kJ/ylyQ0NHGjj4u0SuqUsW2KUAZV/m+9c7Jx67eRx1ekFCri8a4s31Rs5y98X1kCO/cLEj3XZ3Y+FgDrX3A0D3QHvtQR6D355BrWPVLHfUXo+/fZpJqR49sGMA6/IcN3IK3uti22ogj/p+o4D4WgFl4Hcc1c0W5+vMJ6fQr0arOMHJmYyEneFl7zY8s4xMSZjuXvW1rkwp3665kywnscoIsGmSRsK7nJUCvwol5kk+UCmbUZ5QdBn5za5QxgNMt717AWSKVGl2EBRlzIoUmNJVSc94P1hHdU9fU3LK3Qx4zk7vTZgnLk7DqQHaOGmb65q4m814G3x/dmpklibralRwdqs9YLcimci0BCuHM4ZLZIINXgP2eIDMb3J2u5W5NrgsWuMVeGpZFCLbICJ1Op5ZXMdQ6l/R5TokEmDmXl4kDOuHOhqQZPSjQx9ivC/AStIZtlUcFmVtdCEGKQZ9GlA1rgceQ1/e9A4pDsxe9LlODZdr+on2ZWzgPglLjw==;dLgsMYBpCwEw+0KHTQ4QXw=="
 ---

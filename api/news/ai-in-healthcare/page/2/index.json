@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-17-applying-artificial-intelligence-lessons-for-leaders-at-all-levels.md",
+      "title": "Applying Artificial Intelligence: Lessons For Leaders At All Levels",
+      "excerpt": "Broadridge Digital Transformation study, more than 70% of C-suite executives said AI is significantly changing the way they work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chris-perry/2023/10/17/applying-artificial-intelligence-lessons-for-leaders-at-all-levels/",
+      "originalUrl": "https://www.forbes.com/sites/chris-perry/2023/10/17/applying-artificial-intelligence-lessons-for-leaders-at-all-levels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6528415a926b4b1c462ac5d0/0x0.jpg?format=jpg&crop=1126,633,x35,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chris-perry/2023/10/17/applying-artificial-intelligence-lessons-for-leaders-at-all-levels/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chris-perry/2023/10/17/applying-artificial-intelligence-lessons-for-leaders-at-all-levels/amp/",
+      "publishedDateTime": "2023-10-17T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-10-17-how-does-cognitive-behavioral-therapy-work.md",
       "title": "How does cognitive behavioral therapy work?",
       "excerpt": "Cognitive behavioral therapy (CBT) is a therapy technique that aims to help people find new ways to behave by changing their thought patterns. Therapists may use strategies such as role-playing ...",
@@ -1304,59 +1356,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-softbank-ceo-says-artificial-general-intelligence-will-come-within-10-years.md",
-      "title": "SoftBank CEO says artificial general intelligence will come within 10 years",
-      "excerpt": "SoftBank CEO Masayoshi Son said he believes artificial general intelligence (AGI), artificial intelligence that surpasses human intelligence in almost all areas, will be realized within 10 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
-      "originalUrl": "https://www.cnn.com/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231004142152-masayoshi-son-100423-restricted.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
-      "publishedDateTime": "2023-10-04T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

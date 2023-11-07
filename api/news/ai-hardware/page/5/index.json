@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-28-exclusive-meta-executive-leading-ai-chip-efforts-to-leave-position.md",
+      "title": "Exclusive: Meta executive leading AI chip efforts to leave position",
+      "excerpt": "A Meta Platforms executive overseeing the company's efforts to develop its own chips for artificial intelligence work is leaving her position at the end of the month, according to two sources familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/idUSL1N3B323C",
+      "originalUrl": "https://www.reuters.com/article/idUSL1N3B323C",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/aoUZMVb6pDSasZvbGgmwff5uems=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I5IQF5AUTJO2HAVPELXVAOWRQM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-prototype-chips-deliver-ai-task-solutions-with-minimal-power-consumption.md",
+      "title": "Prototype Chips Deliver AI Task Solutions With Minimal Power Consumption",
+      "excerpt": "A chip with 35M memory devices and 34 tiles attains 12.4 TOPS/W (tera-operations per second per watt ), showcasing software-equivalent accuracy for keyword spotting and near-equivalent accuracy for large neural networks across five chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/news/prototype-chips-deliver-ai-task-solutions-with-minimal-power-consumption",
+      "originalUrl": "https://www.electronicsforu.com/news/prototype-chips-deliver-ai-task-solutions-with-minimal-power-consumption",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/05/mag-image.png",
+          "width": 370,
+          "height": 298,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "electronicsforu",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-ai-chip-startup-kneron-secures-49m-investment.md",
       "title": "AI chip startup Kneron secures $49M investment",
       "excerpt": "Startup Kneron Inc., which develops artificial intelligence ... San Diego-based Kneron develops chips that can be used to equip smart cars, robots and other connected devices with AI features. Its chips are specifically optimized for inference, or the ...",
@@ -1296,103 +1391,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.md",
-      "title": "AI language models need to shrink; here’s why smaller may be better",
-      "excerpt": "Large language models (LLMs) used for generative AI tools can consume vast amounts of processor cycles and be costly to use. Smaller, more industry- or business-tailored models can often provide better results tailored to business needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.html",
-      "originalUrl": "https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/09/shutterstock-llm-image-100945775-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.amp.html",
-      "publishedDateTime": "2023-09-14T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-arm-to-raise-47b-in-ipo-that-values-chip-designer-at-545-billion.md",
-      "title": "Arm to raise $4.7B in IPO that values chip designer at $54.5 billion",
-      "excerpt": "Arm Holdings is poised to raise about $4.7 billion in its initial public offering that valued the company at more than $54.5 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/arm-to-raise-4-7b-in-ipo-that-values-chip-designer-at-54-5-billion/",
-      "originalUrl": "https://venturebeat.com/ai/arm-to-raise-4-7b-in-ipo-that-values-chip-designer-at-54-5-billion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Arm-chip-image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

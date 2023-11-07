@@ -75,6 +75,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "China’s Baidu Strikes a Deal with Huawei to Buy AI Chips"
+    excerpt: "Although Huawei's chips aren't yet on par with Nvidia's in performance, they represent the most advanced AI chips China has to offer"
+    publishedDateTime: 2023-11-07T13:45:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 64
   - title: "AI-chip cousins? CEO Nvidia, AMD lead US tech war against China"
     excerpt: "The chief executives of Nvidia and AMD aren’t just two of the most powerful people in the global AI chip industry, they’re also cousins."
     publishedDateTime: 2023-11-06T13:55:00Z
@@ -131,6 +140,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Baidu placed AI chip order from Huawei in shift away from Nvidia: Report"
+    excerpt: "BEIJING: Baidu ordered artificial intelligence chips from Huawei this year, two people familiar with the matter said, adding to signs that US pressure is prompting Chinese acceptance of the firm's products as an alternative to Nvidia's."
+    publishedDateTime: 2023-11-07T09:26:00Z
+    webUrl: "https://www.channelnewsasia.com/business/baidu-placed-ai-chip-order-huawei-shift-away-nvidia-report-3903126"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 33
   - title: "Nvidia Dominates AI Chip Market, But Institutional Holders Show Unsettling Trend — Is The Spark Fading?"
     excerpt: "Nvidia Corp NVDA has taken a dominant position in the AI space and in the broader stock market. The stock is up over 200% so far this year, on account of: the company exceeding in"
     publishedDateTime: 2023-11-03T13:55:00Z

@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Demystifying AI, Machine Learning and Data Science"
-    excerpt: "Netflix, Spotify, and other recommendation systems use AI to suggest movies, music, and other products based on our preferences, helping us to discover new things that we enjoy. Best Practices and Future Prospects AI, ML, and Data Science are ever-evolving fields. To stay relevant and succeed: Stay curious and keep learning."
-    publishedDateTime: 2023-11-02T20:54:00Z
-    webUrl: "https://nagalandpost.com/index.php/demystifying-ai-machine-learning-and-data-science/"
-    type: article
-    provider:
-      name: Nagaland Post
-      domain: nagalandpost.com
-    quality: 36
 
 secured: "tafWKRyZqjqxTs3RG07jnWvQz3G6hgGQsBECPyE/AHW+T9hnNpDl5PcQyZ22iTPV2Szp90kfX3giylwbpfKEGMoGmNHunXf1MEArYJEuY3vq/yoLVAzoEMDz/PExuUcIbYHWhelY0HxewVfjzQfJbXk63jsUiMgxknqI0C/LQy5W0Pco0pyO7DSVBRNlUCPTEL2eglGdHxZWbL+EPPXJe0luQOKcGpW8+E8nB2pb0jFkvFxlqZJEjMjV26KRLWP432AQqnnq6Q8yUCLCTJ+K47shYwZzhCY1Zswb9mQkEfry09zbvlX3m+1TT6GKGUvZE5yEXhJDC1wrPeL2QzsZkSkBxy5PZjJp+RDBPtd1Zeg=;0eZZxAezNEo1feG4K/dpzQ=="
 ---

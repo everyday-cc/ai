@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-10-ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts.md",
+      "title": "Ethical boundaries for usage of generative AI is key to brand success: Experts",
+      "excerpt": "Experts from Google, Marico, Nasscom AI, Khaitan and Co. and ASCI highlighted that while the usage of AI in marketing is not new, one should be mindful of what goes out in the public and that it is no",
+      "sourceUrl": null,
+      "webUrl": "https://bestmediainfo.com/2023/08/ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts",
+      "originalUrl": "https://bestmediainfo.com/2023/08/ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bestmediainfo.com/uploads/2023/08/1691642505.asci-webinar.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bestmediainfo.com/amp/2023/08/ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts",
+      "cdnAmpWebUrl": "https://bestmediainfo-com.cdn.ampproject.org/c/s/bestmediainfo.com/amp/2023/08/ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts",
+      "publishedDateTime": "2023-08-09T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Best Media",
+        "domain": "bestmediainfo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-pope-mulls-over-the-ethics-of-ai.md",
+      "title": "Pope mulls over the ethics of AI",
+      "excerpt": "We need to be a bit positive about this Pope Francis has issued a communique announcing the theme for World Day of Peace 2024 as \"Artificial Intelligence and Peace,\" emphasising the potential impact of AI on human life and calling for responsible use,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/57387-pope-mulls-over-the-ethics-of-ai",
+      "originalUrl": "https://www.fudzilla.com/news/57387-pope-mulls-over-the-ethics-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/bdc07d8b9bf4508ae6012e504409551c_L.jpg",
+          "width": 620,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-09T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-09-zoom-knots-itself-a-legal-tangle-over-use-of-customer-data-for-training-ai-models.md",
       "title": "Zoom knots itself a legal tangle over use of customer data for training AI models",
       "excerpt": "Zoom settled with the FTC over a claim of deceptive marketing around security claims, having been accused of overstating the strength of the encryption it offered. Now the videoconferencing platform could be headed for a similar tangle in Europe in relation to its privacy small",
@@ -1357,112 +1443,7 @@
         "AI",
         "AI Ethics"
       ]
-    },
-    {
-      "path": "_news/2023-07-26-how-does-artificial-intelligence-create-new-jobs.md",
-      "title": "How Does Artificial Intelligence Create New Jobs?",
-      "excerpt": "While AI may reduce the demand for some jobs, it can also create new employment opportunities in previously unexplored areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/how-does-artificial-intelligence-create-new-jobs/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/how-does-artificial-intelligence-create-new-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bfeb8f0100529935b8ced8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/how-does-artificial-intelligence-create-new-jobs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/how-does-artificial-intelligence-create-new-jobs/amp/",
-      "publishedDateTime": "2023-07-26T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-state-of-it-report-generative-ai-will-soon-go-mainstream-say-9-out-of-10-it-leaders.md",
-      "title": "State of IT report: Generative AI will soon go mainstream, say 9 out of 10 IT leaders",
-      "excerpt": "Generative AI has only recently become mainstream. The report shows 86% of IT leaders believe generative AI will have a prominent role it their organization in the near future. Yet 64% of IT leaders are concerned about the ethics of generative AI, and 62% are concerned about its impacts on their careers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/state-of-it-report-generative-ai-will-soon-go-mainstream/",
-      "originalUrl": "https://www.zdnet.com/article/state-of-it-report-generative-ai-will-soon-go-mainstream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/67c0491949d4da919f64dea355dd58d24e2cc5fc/2023/07/24/c1b1e887-4a8e-4180-96e7-045494b7bc9c/aigettyimages-1455352999.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/state-of-it-report-generative-ai-will-soon-go-mainstream/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/state-of-it-report-generative-ai-will-soon-go-mainstream/",
-      "publishedDateTime": "2023-07-24T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 7
 }

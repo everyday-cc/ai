@@ -38,6 +38,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "Unlock the power of generative AI with intelligent automation"
+    excerpt: "AI that's integrated into automation technology is referred to as “intelligent automation,” which helps businesses put generative AI to work.\nThe post Unlock the power of generative AI with intelligent automation appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-07T14:00:00Z
+    webUrl: "https://www.ibm.com/blog/unlock-the-power-of-generative-ai-with-intelligent-automation/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "Chinese Smartphone Makers Aim To Beat Apple And Samsung In Generative AI"
     excerpt: "Chinese phone makers, on the other hand, are adopting a different mindset. The likes of Xiaomi, Oppo, Vivo, and Huawei want to “squeeze” generative AI into their newest devices faster than Apple and Samsung because they see it as a chance to turn the tables on their rivals in the highly competitive smartphone market."
     publishedDateTime: 2023-11-07T03:35:00Z
@@ -76,6 +85,20 @@ related:
       - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202311/GettyImages-1473086732.jpg?itok=owGHTh-q"
         width: 1440
         height: 500
+        isCached: true
+  - title: "How Generative AI Will Transform Knowledge Work"
+    excerpt: "Generative AI can be a boon for knowledge work, but only if you use it in the right way. New generative AI-enabled tools are rapidly emerging to assist and transform knowledge work in industries ranging from education and finance to law and medicine."
+    publishedDateTime: 2023-11-07T13:05:00Z
+    webUrl: "https://hbr.org/2023/11/how-generative-ai-will-transform-knowledge-work"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_18_1456521984.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "JlxswkGPOxvtKVth4QKK3v+Zpl+2ME8okOVQD4fsLM+2+xDLhDSiGRRVMp2JXiYtur6sLKVM+NUwIoBoMxRq8G4UmgoWNvMFkZGSrEXTpYmZchQRl60y9z7JG4NqebV8NA+1kaTCckwQ+8grfQ7dsZSmzyqesY8rwaavqWMR6dyzexjqrDb0cQ3+rzWE/jqlYgnJ+SDyC/8EW9vPSxpRGkAjamkxQ6203Uj+H4YNBc+iVazWwRkr3tCBjxb+0wddcBd3uwjB90U32oCn9mV0Xa9M3lMnde6TvPQAnl72/GDk3r8lkbp55mm2FPljuasksQC9GomY7Ij3x8GJFZWLReKtI7Q40lN3/8/I0ygHZak=;lpsKuo9yawjUkDfUytwa7Q=="

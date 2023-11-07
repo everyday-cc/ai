@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Government announces self-driving legislation in King’s Speech"
-    excerpt: "In a briefing document from Number 10, the Government says that the automated vehicles bill will unlock a “transport revolution” by enabling the safe deployment of self-driving vehicles. It says it will also cement the UK’s position as a “global ..."
-    publishedDateTime: 2023-11-07T12:42:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/government-announces-self-driving-legislation-in-king-s-speech"
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 24
-    images:
-      - url: "https://fncdn.blob.core.windows.net/web-clean/1/root/istock-self-driving.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "Self-driving cars to appear on UK roads under new rules confirmed in King's Speech"
     excerpt: "The legal framework to allow self-driving cars on Britain’s roads has been included in the King’s Speech. King Charles III took to the House of Lords for the official opening of Parliament today (7 November)."
     publishedDateTime: 2023-11-07T12:22:00Z

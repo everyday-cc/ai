@@ -49,6 +49,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Microsoft’s New Xbox Generative AI Tech Sparks Widespread Backlash"
+    excerpt: "Microsoft is going all in on AI on multiple fronts from OpenAI to DALL-E, but now that it’s creeping into its video game division, some new alarm bells are going off in the industry."
+    publishedDateTime: 2023-11-07T14:05:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2023/11/07/microsofts-new-xbox-generative-ai-tech-sparks-widespread-backlash/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Microsoft, AWS, Google Cloud Market Share Q3 2023 Results"
     excerpt: "Worldwide cloud market share 2023 rankings from AWS, Google Cloud, Microsoft Azure, IBM and Alibaba as the cloud services market hits $68 billion."
     publishedDateTime: 2023-11-06T20:35:00Z
@@ -72,15 +81,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 55
-  - title: "R1 RCM expands Microsoft partnership for AI"
-    excerpt: "R1 RCM is expanding its partnership with Microsoft to accelerate the development and integration of generative AI in their revenue cycle management platform."
-    publishedDateTime: 2023-11-02T20:09:00Z
-    webUrl: "https://www.beckershospitalreview.com/finance/r1-rcm-expands-microsoft-partnership-for-ai.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
   - title: "Microsoft signs new partnership with AI and data analytics startup – SpaceNews"
     excerpt: "Microsoft announced Aug. 29 a five-year agreement to provide cloud-computing resources to Synthetaic, a startup that uses artificial intelligence to analyze data from space and air sensors. Wisconsin-based Synthetaic made news earlier this year after it used artificial intelligence and Planet Labs’ satellite imagery archive to independently track the Chinese spy balloon’s path across the United States before it was shot down."
     publishedDateTime: 2023-11-05T23:02:00Z

@@ -24,6 +24,17 @@ images:
     height: 567
     isCached: true
 
+related:
+  - title: "Strong Swiss Presence at the Singapore Fintech Festival 2023"
+    excerpt: "Switzerland will be setting up their own national pavilions during the festival. The Swiss Pavilion is co-organized by S-GE (Switzerland’s export and investment promotion agency) and Swiss Business Hub ASEAN (part of the Swiss Embassy in Singapore),"
+    publishedDateTime: 2023-11-06T01:00:00Z
+    webUrl: "https://fintechnews.sg/79585/singapore-fintech-festival-2023/strong-swiss-presence-at-the-singapore-fintech-festival-2023/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 4
+
 secured: "Y+ESq4Lc91ZD64sXpucCGYzYoPrUEe6Fha0jSnt2KFdqJ/xnc/Qtb3tqfh6qULZRWGUuhqQMFgYZ/AGlGs4KEHdj29PK60D47/iJZiJy8KWUfUcQHChYDGIJM9dPe7LsaNFfcAouDToqShdkfX7id+DvTnK80wQ6CbVU6Ejd1vw1Mi3QkTXtFQnzEqzSX+6DYoJ4ILf7dHadclanqBAtXUKdlTtauh463Zq3uaruLu9G3P6GeD0eMieX7tdN19VsqfpookXyYq0IB7SksS6oGMQ+jTNa10vST1Niz/1fyJwzmsIL1rFsKuHXYqenySm8qkFk6nqU+4J1DApD/JV7dk4LMNXpDkQfATlM3YSGK0Y8vPE0HKRgJDMmS12omm5B2pjDFkP9pTtCO64PLoYp0DHliPhRePfr5I474jMgnLn8XgIEVN72RdeajxwkRW2yOpYo1tzvHOUPoD8rCRcj2FFs3NLave5wDe9QBRQAIT2hkgYzrVPOZS1EmdVeIBlPwYGNOosSt7iwKkxOIY/NYg==;xEfQ0NCU6CPCVu9+mcHR7g=="
 ---
 

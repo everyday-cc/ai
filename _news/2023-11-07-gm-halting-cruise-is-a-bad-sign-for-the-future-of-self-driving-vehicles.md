@@ -24,17 +24,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Cruise faces a safety reckoning that will determine its self-driving future"
-    excerpt: "General Motors-backed Cruise faces a \"watershed moment\" after its driverless permits were suspended by California regulators, who say the company’s robotaxis are \"not safe\" for public roads and allege Cruise misrepresented circumstances surrounding an injury-related crash."
-    publishedDateTime: 2023-11-02T21:01:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cruise-gms-self-driving-company-faces-safety-reckoning"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 2
-
 secured: "rY3KP4oIkcVmhtcUPPku5S/PeaZva+sxsBREBOHwAVvWl08j1PV1dBwzxS1ANGQUyxVO+ZMpEV0F57RPuwfY8GUAtyPfSB/I8q8WkY+qedoC0w89/hJTnwynHJznyOQFlU5qfCZ93dfrOef902lVfZjJ5LKELJSDIntFi0fFrosB4nY+/fa5mhgAgm5ozc0LvFrW3oxMvxlG+kWsssItq0Jw0ZYpy6vN6ZDeRWdP0gHUs8cL+nAyyzhVuBhI8oKm8/cOVC4s5DO9CEOB4Ww8eExWRpIbaDvzHDFeQNRPRYQvQYWePLAO6Ke8xRKSZUd33TZ+vnsMwJFJHFRkd/Sc1zupSWSY5BI7XnguzZZ2xyQ8ScZgJ4CNYKahxr1Z3HjDUKXcC/VQvTdsWSHo4paklhr+1UoR4QZu3I1kY6vWX02BclHnmMyxhIGlWrixMKz1S8ZFNyRy0AQ5zHvJtxeYsPuZzI7WasRHbRujhbOLdc1Bhk+oPK4rTIFNatIvybhzQ/A877L1IXCvG5d0y5Km0Q==;4zHhcY3wk/+y6O+Y8NCg/w=="
 ---
 

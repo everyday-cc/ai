@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "YouTube's New Generative AI Experiments Include Chatbot, Comment Summaries"
+    excerpt: "Select YouTube Premium members can opt into the AI features, which are intended to boost engagement across the Google-owned video platform."
+    publishedDateTime: 2023-11-07T15:27:00Z
+    webUrl: "https://www.pcmag.com/news/youtubes-new-generative-ai-experiments-include-chatbot-comment-summaries"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 65
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00rdQcu0TOEfomxzNkVwIsT-1.fit_lim.size_1200x630.v1699367588.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "OpenAI unveils personalised AI apps as it seeks to expand its ChatGPT consumer business"
     excerpt: "OpenAI unveiled a marketplace on Monday that enables users to access personalised AI ‘apps’ for tasks like teaching maths or designing stickers, signalling an ambition to expand its ChatGPT consumer business."
     publishedDateTime: 2023-11-07T12:30:00Z
@@ -218,6 +232,15 @@ related:
     provider:
       name: The Australian Financial Review
       domain: afr.com
+    quality: 19
+  - title: "Apex Launches Internal AI Powered Chatbot"
+    excerpt: "Apex Fintech Solutions, the fintech for fintechs powering innovation and the future of digital wealth management, today announced AskApex - a new internal AI powered chatbot. Integrated with Slack, AskApex enables Apex employees to find answers to questions related to internal resources, policies, documents, and more."
+    publishedDateTime: 2023-11-07T14:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/07/9912901.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
   - title: "Brave launches Leo, a free generative AI assistant more private than ChatGPT"
     excerpt: "Brave launched Leo, the generative AI assistant built on Claude with strong privacy protections in place - what you need to know."

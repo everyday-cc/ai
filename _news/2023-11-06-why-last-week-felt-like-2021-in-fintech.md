@@ -23,21 +23,35 @@ topics:
   - AI
 
 related:
-  - title: "Global Fintech Klarna Reports Profitable Quarter"
-    excerpt: "Klarna, the AI-powered global payments network and shopping service assistance provider, reported its latest financial results."
-    publishedDateTime: 2023-11-07T11:20:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/11/215433-global-fintech-klarna-reports-profitable-quarter/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/215433-global-fintech-klarna-reports-profitable-quarter/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/215433-global-fintech-klarna-reports-profitable-quarter/amp/"
+  - title: "AI Ethics In Fintech: Building Trust In Tomorrow's Financial Ecosystem"
+    excerpt: "The nexus between AI and finance paints a horizon replete with opportunities. From crafting unparalleled user experiences to broadening financial access—the prospects are limitless. But, as we navigate this uncharted terrain, let our compass be ethics ..."
+    publishedDateTime: 2023-11-07T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 106
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/klarna.jpg"
-        width: 800
-        height: 450
+      - url: "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
+  - title: "5 firms leveraging AI to transform the future of FinTech in USA"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-11-06T10:46:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-firms-leveraging-ai-to-transform-the-future-of-fintech-in-usa/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/06/Generative-AI-in-Banking.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Salary hikes for IT staff take a cut; financial report card for Nykaa, Dunzo, PB Fintech"
     excerpt: "Employees at Indian IT firms are not getting the salary hikes they were used to on switching jobs anymore, data from staffing companies suggests. This and more in todays ETtech Morning Dispatch."
@@ -55,15 +69,22 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "FinTech LIVE London: Meet our software and tech experts"
-    excerpt: "It's time to cast an eye over the software and technology-related speakers who will be taking the stage at FinTech LIVE London this week"
-    publishedDateTime: 2023-11-05T17:21:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-live-london-meet-our-software-and-tech-experts"
+  - title: "Big slump in pay hikes for techies switching jobs; financial report card for Nykaa, Dunzo, PB Fintech"
+    excerpt: "Employees at Indian IT firms are not getting the salary hikes they were used to on switching jobs anymore, data from staffing companies suggests. This and more in todays ETtech Morning Dispatch."
+    publishedDateTime: 2023-11-07T02:29:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/articleshow/105024512.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/amp_articleshow/105024512.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/amp_articleshow/105024512.cms"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 29
+    images:
+      - url: "https://img.etimg.com/photo/msid-105024651/OpenAI.jpg"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "8LUkU+aHH0UauWhBG4IHyKnbCNvgLlL8VOpD+jA9BPwYFDToGWh23VPsgnCSfWouQT5UN6Cjm6wnxG/lDaGg4yX2WWSheZY2s4Q53jJ6q05d0ogeMwkRQYqHK8CZYvF7CIxpWbJrSB+JkBn0nUFKpAommQN+391V1vTEkDP7P8fVQIzZcwroyrnIg6Qr86VIl+Tb0tpn6YMWU9POUW0EOdDHDOJXkiqhkgBARfmdtfXm3EelJGiPTIvwHy5YrmAG2bBzCQPucVv9TcmHbVQkzBU3gjBSUJM6tVx1L0qovyFV37vRQ24F5aJlAGYWwQf5uetGJJ7MRfY7o1gu6MWqlgHBU+GQ9vMUXeUwDp7kQFc=;u+uFD6KlPfwp0rpOkZj46w=="
 ---

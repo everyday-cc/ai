@@ -2,6 +2,359 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-07-artificial-intelligence-a-key-issue-in-2024-presidential-primary-campaign.md",
+      "title": "Artificial intelligence a key issue in 2024 presidential primary campaign",
+      "excerpt": "As artificial intelligence continues to rapidly advance, it is becoming an important issue on the campaign trail for 2024 presidential primary candidates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmur.com/article/2024-president-candidates-ai/45756595",
+      "originalUrl": "https://www.wmur.com/article/2024-president-candidates-ai/45756595",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/airtificial-intelligence-0124-65494c73d3282.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wmur.com/amp/article/2024-president-candidates-ai/45756595",
+      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/2024-president-candidates-ai/45756595",
+      "publishedDateTime": "2023-11-06T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WMUR",
+        "domain": "wmur.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles.md",
+      "title": "OpenAI introduces custom AI assistants called “GPTs” that play different roles",
+      "excerpt": "On Monday, OpenAI announced \"GPTs,\" a new feature that allows ChatGPT users to create custom versions of its AI assistant that serve different roles or purposes. OpenAI will let users share GPT roles with others, and it plans to introduce a \"GPT Store\" later this month that will eventually share revenue with creators.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/chatgpt-roles_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/amp/",
+      "publishedDateTime": "2023-11-06T10:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-microsoft-ceo-nadella-uses-surprise-appearance-at-openai-event-to-lure-developers-to-azure-cloud.md",
+      "title": "Microsoft CEO Nadella uses surprise appearance at OpenAI event to lure developers to Azure cloud",
+      "excerpt": "At OpenAI's developer event in San Francisco, Microsoft CEO Satya Nadella told the audience that his company's cloud is the best place for them to build",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/11/06/microsoft-ceo-nadella-makes-surprise-appearance-at-openai-event.html",
+      "originalUrl": "https://www.cnbc.com/2023/11/06/microsoft-ceo-nadella-makes-surprise-appearance-at-openai-event.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107329641-1699296366156-IMG_3589.jpg?v=1699296705",
+          "width": 3209,
+          "height": 2050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/06/microsoft-ceo-nadella-makes-surprise-appearance-at-openai-event.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/06/microsoft-ceo-nadella-makes-surprise-appearance-at-openai-event.html",
+      "publishedDateTime": "2023-11-06T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-balancing-the-risks-and-rewards-of-ai-will-be-key.md",
+      "title": "Balancing the risks and rewards of AI will be key",
+      "excerpt": "Letters: Readers on the artificial intelligence summit in London and Elon Musk’s comments about the impact of AI on all our lives",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key",
+      "originalUrl": "https://www.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/dc758b4f15353dff8f0e24f228d75e679ac61968/0_172_7940_4764/master/7940.jpg?width=620&quality=85&auto=format&fit=max&s=8dd9f99fdc4bed0aec9203bb86e97647",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key",
+      "publishedDateTime": "2023-11-06T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-generative-ai-shouldnt-reduce-your-startups-marketing-headcount.md",
+      "title": "Generative AI shouldn’t reduce your startup’s marketing headcount",
+      "excerpt": "I spend most of my days talking to and working with chief marketing officers of startups and young companies, and several report rising tension in the C-suite over the potential of generative AI. Many CEOs think marketing headcount can be cut as automated ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/06/generative-ai-shouldnt-reduce-your-startups-marketing-headcount/",
+      "originalUrl": "https://techcrunch.com/2023/11/06/generative-ai-shouldnt-reduce-your-startups-marketing-headcount/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1490711125.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-customize-amazon-textract-with-business-specific-documents-using-custom-queries.md",
+      "title": "Customize Amazon Textract with business-specific documents using Custom Queries",
+      "excerpt": "Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, and data from scanned documents. Queries is a feature that enables you to extract specific pieces of information from varying, complex documents using natural language. Custom Queries provides a way for",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-textract-with-business-specific-documents-using-custom-queries/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-textract-with-business-specific-documents-using-custom-queries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/06/customize-amazon-textract-custom-queries.jpg",
+          "width": 962,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T08:29:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-stream-large-language-model-responses-in-amazon-sagemaker-jumpstart.md",
+      "title": "Stream large language model responses in Amazon SageMaker JumpStart",
+      "excerpt": "We are excited to announce that Amazon SageMaker JumpStart can now stream large language model (LLM) inference responses. Token streaming allows you to see the model response output as it is being generated instead of waiting for LLMs to finish the response generation before it is made available for",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/stream-large-language-model-responses-in-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/stream-large-language-model-responses-in-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/06/stream-large-language-models-1.jpg",
+          "width": 960,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T08:26:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-xbox-partners-with-inworld-ai-to-build-ai-tools-for-game-development.md",
       "title": "Xbox partners with Inworld AI to build AI tools for game development",
       "excerpt": "GamesBeat Next's on-demand library is now live! Start catching up on the 30+ sessions you might have missed.  Watch Now Microsoft’s Xbox and Inworld AI have partnered to create AI-powered game development tools for narrative and character creation.",
@@ -50,6 +403,57 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-johnny-cashs-taylor-swift-cover-predicts-the-boring-future-of-ai-music.md",
+      "title": "Johnny Cash's Taylor Swift Cover Predicts the Boring Future of AI Music",
+      "excerpt": "With covers of “Blank Space” and Aqua's “Barbie Girl” going viral, Johnny Cash is suddenly the voice of AI. The choice is telling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/johnny-cash-artificial-intelligence-taylor-swift-barbie-girl-covers-music-future/",
+      "originalUrl": "https://www.wired.com/story/johnny-cash-artificial-intelligence-taylor-swift-barbie-girl-covers-music-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/654590bb5587aefcc1bef1cc/191:100/w_1280,c_limit/Johnny-Cash-AI-Covers-Culture-84879567.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T07:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -407,7 +811,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -604,7 +1008,7 @@
       "originalUrl": "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -708,7 +1112,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/06/how-can-ai-revolutionize-vietnams-music-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -854,378 +1258,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-4-ways-to-empower-small-and-medium-businesses-with-generative-ai.md",
-      "title": "4 ways to empower small and medium businesses with generative AI",
-      "excerpt": "By providing powerful, capable generative AI solutions, enterprises can meet the specific needs of their SMB clients to help them succeed.\nThe post 4 ways to empower small and medium businesses with generative AI appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/4-ways-to-empower-small-and-medium-businesses-with-generative-ai/",
-      "originalUrl": "https://www.ibm.com/blog/4-ways-to-empower-small-and-medium-businesses-with-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-optimize-apis-with-api-security-best-practices.md",
-      "title": "Optimize APIs with API security best practices",
-      "excerpt": "APIs sit between an organization’s IT resources and third-party software developers, delivering data and information at process endpoints.\nThe post Optimize APIs with API security best practices appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/api-security-best-practices/",
-      "originalUrl": "https://www.ibm.com/blog/api-security-best-practices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-elon-musk-says-ai-will-take-jobs-away-heres-why-that-wont-happen.md",
-      "title": "Elon Musk Says AI Will Take Jobs Away. Here’s Why That Won’t Happen",
-      "excerpt": "What does the future of work look like a hundred years from now? Will AI really eliminate the need for jobs? Here's what you need to know as the market evolves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/",
-      "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6548b81fd31405fdb2b23724/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1463,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/amp/",
-      "publishedDateTime": "2023-11-06T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-pytorch-vs-tensorflow-machine-learning-frameworks-compared.md",
-      "title": "PyTorch vs TensorFlow machine learning frameworks compared",
-      "excerpt": "JAX is a newer entrant into the numerical computing space, backed by Google, and is quickly gaining traction in the deep learning community. It offers an efficient environment for numerical computations, automatic differentiation, and GPU/TPU support.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/pytorch-vs-tensorflow/",
-      "originalUrl": "https://www.geeky-gadgets.com/pytorch-vs-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/PyTorch-vs-TensorFlow.jpg",
-          "width": 1280,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T00:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "Facebook AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-tech-giants-jockey-for-position-at-dawn-of-ai-age.md",
-      "title": "Tech Giants Jockey For Position At Dawn Of AI Age",
-      "excerpt": "Whether they sell smartphones, ads or computer chips, the heavyweights of Silicon Valley have everything to prove to investors looking to see who is best placed in the race to dominate the generative artificial intelligence market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694",
-      "originalUrl": "https://www.barrons.com/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP8179296964960142560251109326446093220437---1.jpg",
-          "width": 768,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694",
-      "publishedDateTime": "2023-11-05T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds.md",
-      "title": "WhatsApp's AI sticker generator called out for racism against Palestine, Meta responds",
-      "excerpt": "WhatsApp's newly launched AI sticker generator feature has recently been accused of generating racist and Islamophobic images related to Palestine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
-      "originalUrl": "https://www.indiatoday.in/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/whatsapp-banned-over-71-lakh-accounts-in-india-031607942-16x9_0.jpg?VersionId=q0_uEJFrOkvtRkTRU3tzzfRmrUMEHvl5",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
-      "publishedDateTime": "2023-11-05T20:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-china-start-up-01ai-hits-us1-billion-valuation-with-top-ranked-open-source-model.md",
-      "title": "China start-up 01.AI hits US$1 billion valuation with top-ranked open-source model",
-      "excerpt": "Chinese start-up 01.AI, founded by computer scientist Kai-fu Lee, has become a unicorn in less than eight months on the strength of a new open-source AI model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3240451/china-start-01ai-hits-us1-billion-valuation-top-ranked-open-source-model?module=live&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3240451/china-start-01ai-hits-us1-billion-valuation-top-ranked-open-source-model?module=live&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2023/11/06/19b310bc-8899-4fb8-a02f-e0e3dd3d4e09_fbaf7525.jpg?itok=OmaqHNbl&v=1699240439",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-05T19:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-elon-musk-plans-to-integrate-new-ai-project-gork-with-x.md",
-      "title": "Elon Musk Plans to Integrate New AI Project ‘Gork’ with X",
-      "excerpt": "Grok was first given to some users last Friday and stands out because it can pull up information quickly from Musk's social media service",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/11/06/elon-musk-new-ai-integrate-x/",
-      "originalUrl": "https://www.gizmochina.com/2023/11/06/elon-musk-new-ai-integrate-x/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/11/Elon-Musks-AI-Startup-xAI-Releases-Grok-a-Chatbot-That-Outperforms-ChatGPT-3.5.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-05T19:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

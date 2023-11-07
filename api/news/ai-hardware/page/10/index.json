@@ -2,6 +2,95 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-08-15-earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales.md",
+      "title": "Earnings preview: Can Nvidia amaze markets with its AI chip sales?",
+      "excerpt": "Nvidia is slated to report its second-quarter earnings after the US markets closing bell on 24 August (APAC time)",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
+      "originalUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/Nvidia_GettyImages-902419310_1200px_medium.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
+      "publishedDateTime": "2023-08-14T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain.md",
+      "title": "IBM unveils an analog AI chip that works like a human brain",
+      "excerpt": "IBM Research has unveiled an analog AI chip that demonstrates remarkable efficiency and accuracy in performing complex computations.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain",
+      "originalUrl": "https://interestingengineering.com/innovation/ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/08/14/image/jpeg/8bavDaKXnvuBKxvdvcYxixoxwiNrWZhWOittTvOQ.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-ibms-brain-inspired-chip-embraces-energy-efficient-ai.md",
       "title": "IBM’s Brain-Inspired Chip Embraces Energy-Efficient AI",
       "excerpt": "IBM unveils an energy-efficient 'brain-like' chip, addressing concerns over emissions from AI systems. With its unique design inspired by human brain connections, this innovation could transform the efficiency of AI chips in smartphones,",
@@ -1325,111 +1414,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-taiwans-alchip-makes-chips-that-power-the-ai-boom.md",
-      "title": "Taiwan’s Alchip Makes Chips That Power The AI Boom",
-      "excerpt": "AIchip has seen five consecutive years of revenue growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/yessarrosendar/2023/08/07/taiwans-alchip-makes-chips-that-power-the-ai-boom/",
-      "originalUrl": "https://www.forbes.com/sites/yessarrosendar/2023/08/07/taiwans-alchip-makes-chips-that-power-the-ai-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d0e700a8ea150bd516bfb6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-07T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-nvidia-stock-is-still-a-top-pick-at-bank-of-america-even-after-its-stunning-ai-driven-209-rally.md",
-      "title": "Nvidia stock is still a 'top pick' at Bank of America even after its stunning AI-driven 209% rally",
-      "excerpt": "\"Demand isn't the issue, its supply and importantly the pace with which US cloud service providers are able to set up genAI compute instances.\"",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-still-top-pick-2q-earnings-ai-rally-bofa-2023-8",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-still-top-pick-2q-earnings-ai-rally-bofa-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60747ea52cc1ef0018da1405?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-still-top-pick-2q-earnings-ai-rally-bofa-2023-8?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-stock-still-top-pick-2q-earnings-ai-rally-bofa-2023-8?amp",
-      "publishedDateTime": "2023-08-07T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

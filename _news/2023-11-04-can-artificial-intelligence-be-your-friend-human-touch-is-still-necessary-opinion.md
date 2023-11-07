@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-04T15:29:00Z
 originalUrl: "https://www.aol.com/artificial-intelligence-friend-human-touch-123000502.html"
 webUrl: "https://www.aol.com/artificial-intelligence-friend-human-touch-123000502.html"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media.zenfs.com/en/aol_fresno_bee_mcclatchy_299/d84068c494aa9a80bf80efed0b2f308d"

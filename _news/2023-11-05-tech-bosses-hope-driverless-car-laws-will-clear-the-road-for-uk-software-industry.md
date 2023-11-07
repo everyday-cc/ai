@@ -62,6 +62,15 @@ related:
       name: Arkansas Democrat-Gazette
       domain: arkansasonline.com
     quality: 34
+  - title: "03 | The bumpy history of driverless cars and their AI brains"
+    excerpt: "When you think about a driverless car future, perhaps your mind goes to being driven around, watching movies from the backseat and drinking martinis. For over a decade, perfect driverless cars have seemed only a few years away."
+    publishedDateTime: 2023-11-07T14:00:00Z
+    webUrl: "https://www.abc.net.au/listen/programs/sciencefriction/the-bumpy-history-of-driverless-cars-and-their-ai-brains/103011734"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 34
 
 secured: "3d6x6oBO6VKzx8Bwo5Bm6+K91ifPXG0MAdONawWgRRLh1ZPVIC2ICf/d7UgYk+XiIK4K5vEZE0PPdW3DHWu1i88O9Z5vqnwvxRtQyNjGS398TVzB6qnMqSs3l+WMz9TLchTl5NNihl1Xct1Uye80A/tO/CxlzmPP53rN7NfE0cJy1v/zo9nrD8Ww65BR4Ng69Jj6RsIMIUSwPGoVYql9FbishYY1EEhs9r0xLo3qnSmyXCfz4gRtpIODQDIp3sKDsdCqpFvl87tmhUz8/J1VWZPaprbMg/AwrEL9SoS99rc+DTTBsdOf0FUxj6Vrx6I0vXNdUTlu3mkm8CmcjHo0SxhW1k7VAn++V8aN6gmpF02KB7phCozW6+Xv9RxAAw2HR4Qyv+MuS3DHXCe9gjsZ19tPcWHsiJ0NLC+oborurRXpB3UVNO7lGVM6zxzKj7FVcdPogVHBCk0HSjPenSD9iWZnjzwdGar8xcWNoCMk3Dqfck3IhN8gELFup26MwCTqOOEBTX9igitomZ+YBxtZSw==;WWBiM3We/lNTlfbT9cHOxQ=="
 ---

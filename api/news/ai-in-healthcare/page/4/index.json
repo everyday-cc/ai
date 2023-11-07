@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-20-corti-an-ai-co-pilot-for-healthcare-clinicians-raises-60m.md",
+      "title": "Corti, an AI ‘co-pilot’ for healthcare clinicians, raises $60M",
+      "excerpt": "Artificial intelligence continues to be a major force in the world of healthcare, and in one of the latest developments, a Copenhagen startup called Corti has raised $60 million to expand its contribution to the field: an AI assistant designed to support ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/20/corti-an-ai-co-pilot-for-healthcare-clinicians-raises-60m/",
+      "originalUrl": "https://techcrunch.com/2023/09/20/corti-an-ai-co-pilot-for-healthcare-clinicians-raises-60m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-you-and-ai-techs-role-in-the-world-of-health-care.md",
       "title": "You and AI: Tech's role in the world of health care",
       "excerpt": "“Artificial intelligence, it can be a great friend, but it also can be something that can harm us,” said Dr. Marshall Chin, Richard Parrillo Family Professor of Healthcare Ethics in the Department of Medicine at the University of Chicago. Chin is an ...",
@@ -1294,58 +1337,6 @@
         "AI Ethics",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-04-bayer-is-rapidly-expanding-its-footprint-with-artificial-intelligence.md",
-      "title": "Bayer Is Rapidly Expanding Its Footprint With Artificial Intelligence",
-      "excerpt": "Bayer is one of the world’s most prominent pharmaceutical and biotechnology companies. It is known for creating household staples such as Aspirin, to more advanced technologies and innovations that are often used behind the scenes, including dyes for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2023/09/04/bayer-is-rapidly-expanding-its-footprint-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2023/09/04/bayer-is-rapidly-expanding-its-footprint-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f5e994a70f9d57fab0157e/0x0.jpg?format=jpg&crop=2479,1395,x0,y186,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2023/09/04/bayer-is-rapidly-expanding-its-footprint-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/09/04/bayer-is-rapidly-expanding-its-footprint-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-09-04T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

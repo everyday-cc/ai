@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiatvnews.com/amp/health/how-artificial-intelligence-c
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/health/how-artificial-intelligence-can-predict-cardiac-arrest-2023-11-07-901637"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: India TV
@@ -42,6 +42,15 @@ related:
         width: 1920
         height: 752
         isCached: true
+  - title: "Predicting Sudden Cardiac Death Using Artificial Intelligence"
+    excerpt: "Preliminary research, set to be presented at the American Heart Association's Resuscitation Science Symposium 2023, suggests that artificial intelligence (AI) could hold the potential for predicting sudden cardiac death and assessing an individual's risk to potentially prevent future fatalities."
+    publishedDateTime: 2023-11-07T14:00:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14447"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 17
 
 secured: "vcGWJHoTCQW5hyu4+OgM61PnfFgPxpQdGAxrpRXIvZ21g5ho3sgn/+bdOuXAmI6lc+SQObpK5HFdkWUV/P7JT8GuWGCCS6yAS9xYYg7UMTEFY59dqVefQ0yuSmnM7TO9cEVrBz9xOIKXo+EvxIWhbMxNo+VYWQEf6hexRSHO5S0UXpgacGFpzwHWoAgA4/f6V4QzDtOp72sKWlFQdMocexhT37/Cridui67CM9QHzcDy4LHVJ49RIewgWSJOX0wu+L9vVtsb4cAPd74Vl3Glig2UfJ+ndfSs+qYxGssJQaUBsJCLiNAffaPh0R/2mHPr0aJUmm+vrdXb7KsnDZw+PdEL/GPMQyLj1zm8uVXPNkI=;xy6X5WkQlqtdTEWLZSpwhw=="
 ---

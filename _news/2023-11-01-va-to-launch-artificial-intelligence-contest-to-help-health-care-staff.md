@@ -15,6 +15,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "6J5WxC36vDh9YyM8UgB4IOz1tLJiuqbK2wnUyO1DxOKRKQVWaKaXjEehoZwMF6fYMht+qDSBRr+DjsGaRTxvme8wzygb0fFDtbcyEaQxdfVBw49eyRjyB65629/eDJBKH24OXAG7OyVUipfoGlPxoSWk9WvrcOZ6c9u8Bl/yogaXlW9dCiq8AlhzN6txFHlqKy9u47S2p8xM4S4aaVXqWFuPU0EI0voVQHQDrnK3sTgD0SdfsdQWYssCARwfVmoQeQvlvpzaYrU/Bs/f5a5gRcjciF1Lv6WeoF0Knqn7DBMmtaVoffcicUpo8GeOsosEh+DD+ETI0TWS4cm5rEc4YKs6qpmFQEHQVR0urtBpBZw=;LdJOkvmtypm7pd0evOh2Hw=="
+images:
+  - url: "https://www.militarytimes.com/resizer/VL11BMGBWPWDGgJwJvsANRuHm5M=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/HOSECCKKVVFKHL5AERVOGO2L4Q.jpg"
+    width: 1024
+    height: 683
+    isCached: true
+
+secured: "Kjpl+y5GvU1vburteqt1IUFnNLpOQptmEcwwMTBkJYfD5Z6v0YUG+XtCW3U8EXMcdFb+uec8+dxlny8bDWozBmXZDs5PO87oHmEN/lWUQZFvkp5x2UZ7L5TkuPXEIw7KzvKAgMTINuTJT6N39i0czyEFDLrLYeG2TgMacgbEED9ntx0VB+HhUMfzXQJsRuxOPdPsYesctW2TC1ldkZsM9H6Yb+WCe9ruJrqNgAID6Nr3pSIDy7Ar85f+/17A7X2YVIlymoDavfbMl16H+0AJyymqtWeFqIUmA6fbujj3yTYElOhIKmsnFqLnz4Trc20NdDgPK4JG5xBeNbQ5BYym0scuZekUSnYAN7Xq7z+ZQIo=;u6wUBaR/lwz8nZYBF0MYCA=="
 ---
 

@@ -25,20 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Xbox secures generative AI to create game stories, quests, and dialog"
-    excerpt: "Microsoft's cutting-edge cloud-based AI solutions including Azure OpenAI Service, Microsoft Research's technical insights into the future of play, and Team Xbox's strengths in revolutionizing accessible and responsible creator tools for all developers."
-    publishedDateTime: 2023-11-06T20:24:00Z
-    webUrl: "https://www.tweaktown.com/news/94233/xbox-secures-generative-ai-to-create-game-stories-quests-and-dialog/index.html"
+  - title: "Local company's AI-generated employee raises ethical questions"
+    excerpt: "Radio Boston spoke with a local company that created a fake AI profile on LinkedIn and the Boston Globe reporter who discovered and wrote about it the ethics of creating AI employees and what the future of the workforce holds."
+    publishedDateTime: 2023-11-07T15:36:00Z
+    webUrl: "https://www.wbur.org/radioboston/2023/11/07/ai-employee-workforce-future"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 39
+      name: WBUR
+      domain: wbur.org
+    quality: 54
     images:
-      - url: "https://static.tweaktown.com/news/9/4/94233_1_xbox-to-use-generative-ai-create-game-stories-quests-and-dialog_full.png"
-        width: 1500
-        height: 843
+      - url: "https://wordpress.wbur.org/wp-content/uploads/2018/07/0818_khari-01-2k-600x600.jpg"
+        width: 600
+        height: 600
         isCached: true
+  - title: "VERSES AI Announces Cortical Labs, Biological Computing Company as Second Beta Partner"
+    excerpt: "Cortical Labs joins VERSES’ beta partnership program, which intends to feature ten partners across multiple industries and of various sizes and stages interested in using VERSES’ Genius™ platform to deploy smarter and safer intelligent software."
+    publishedDateTime: 2023-11-07T13:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/07/9912734.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
 
 secured: "Jamu1Pmcrlv96aw/UbgRnQJx6bFbdlW4BUWrGB0bZh4I6iPqOS836aORMZV6/gwkf5ynzJcyW6wbRBIjaPXBAI8c/jnI4Hhibg7ogM8s53mfPGlA5penBhAIt6dPrXsLhJIR2f7pX8Qewn0eRGoFzoDj4bhs8Hi2qwjEK3sZRoWLa7TFMpxIAdYUaW+Or62Xcgip0h/AiTSZDkhFgpRg6n02wHwwiIAn8btarQDua+3MGD9LC3YQ+Oq+BewW9BRh5O+uw8Sgi+7YJ2ou8hhd01PwIKGxiZqsBWoHLnEJsRGEnuFrLesh0qxoKi0jEEWeT8tCwBmolOBoy0bPrPiahxcuAR2pdF85d5nqf/WN0V/8VuS/tBvEnKQIwTkrqjB7oo+3Db1fb25LW2gxV8jOfkS+RbBMtKJKkCqftQ8YfeCOJP7zMG8TGvBQPBbVlRXRSrMDV6Bp0XMLNLHKMPtsATtskri7OWLfqBrDi7lsiVma+Uvk7j/EuwdlSk9OBay5muL0WY09SMn+FwDWxfKuCw==;X/ZYvVL6q6bQ8xLP+BWfjg=="
 ---

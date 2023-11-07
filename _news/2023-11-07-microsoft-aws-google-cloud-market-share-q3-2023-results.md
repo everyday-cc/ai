@@ -56,6 +56,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Microsoft’s New Xbox Generative AI Tech Sparks Widespread Backlash"
+    excerpt: "Microsoft is going all in on AI on multiple fronts from OpenAI to DALL-E, but now that it’s creeping into its video game division, some new alarm bells are going off in the industry."
+    publishedDateTime: 2023-11-07T14:05:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2023/11/07/microsofts-new-xbox-generative-ai-tech-sparks-widespread-backlash/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Microsoft unveils ‘LeMa’: A revolutionary AI learning method mirroring human problem solving"
     excerpt: "Microsoft's groundbreaking AI learning method, LeMa, trains machines to learn from their mistakes, enhancing problem-solving abilities and potentially revolutionizing sectors like healthcare, finance,"
     publishedDateTime: 2023-11-03T04:21:00Z
@@ -65,15 +74,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 55
-  - title: "R1 RCM expands Microsoft partnership for AI"
-    excerpt: "R1 RCM is expanding its partnership with Microsoft to accelerate the development and integration of generative AI in their revenue cycle management platform."
-    publishedDateTime: 2023-11-02T20:09:00Z
-    webUrl: "https://www.beckershospitalreview.com/finance/r1-rcm-expands-microsoft-partnership-for-ai.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
   - title: "How a small city in Iowa became an epicenter for advancing AI – Microsoft"
     excerpt: "Microsoft has been powering the future of AI from a cluster of datacenters located amidst sprawling farmlands and rural roads in"
     publishedDateTime: 2023-11-06T03:24:00Z

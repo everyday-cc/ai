@@ -7,7 +7,7 @@ originalUrl: "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-th
 webUrl: "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/?news-columnists"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
     provider:
       name: Arkansas Democrat-Gazette
       domain: arkansasonline.com
+    quality: 34
+  - title: "03 | The bumpy history of driverless cars and their AI brains"
+    excerpt: "When you think about a driverless car future, perhaps your mind goes to being driven around, watching movies from the backseat and drinking martinis. For over a decade, perfect driverless cars have seemed only a few years away."
+    publishedDateTime: 2023-11-07T14:00:00Z
+    webUrl: "https://www.abc.net.au/listen/programs/sciencefriction/the-bumpy-history-of-driverless-cars-and-their-ai-brains/103011734"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
     quality: 34
   - title: "Tech bosses hope driverless car laws will clear the road for UK software industry"
     excerpt: "But firms hoping to win big giveaways in the king’s speech this week are likely to be let down"
