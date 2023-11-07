@@ -1,27 +1,27 @@
 ---
 category: news
-title: "IBM partners AWS to launch new Innovation Lab in India"
-excerpt: "IBM partners AWS to launch new Innovation Lab in India - IT major IBM announced the expansion of its relationship with Amazon Web Services (AWS) to help more"
-publishedDateTime: 2023-11-07T15:43:00Z
-originalUrl: "https://www.siliconindia.com/news/general/ibm-partners-aws-to-launch-new-innovation-lab-in-india-nid-226330-cid-1.html"
-webUrl: "https://www.siliconindia.com/news/general/ibm-partners-aws-to-launch-new-innovation-lab-in-india-nid-226330-cid-1.html"
+title: "IBM Partners AWS To Launch New Innovation Lab In India"
+excerpt: "IT major IBM on Tuesday announced expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients op"
+publishedDateTime: 2023-11-07T10:58:00Z
+originalUrl: "https://menafn.com/1107384151/IBM-Partners-AWS-To-Launch-New-Innovation-Lab-In-India"
+webUrl: "https://menafn.com/1107384151/IBM-Partners-AWS-To-Launch-New-Innovation-Lab-In-India"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: SiliconIndia
-  domain: siliconindia.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.siliconindia.com/news/newsimages/1gw25o74.jpg"
-    width: 570
-    height: 367
+  - url: "https://menafn.com/updates/pr/2023-11/07/I_4927bimage_story.jpg"
+    width: 1160
+    height: 522
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: menafn.com
     quality: 15
 
-secured: "JPl3DQYlM+bP5bVS1nJ5b6PUBMWhh5cJMON5eCVv2P+1IVB80yejYOVELtDLb5nqb01lomX1MiBjlkQ+8seusJcBo/BS5wHUsgsgppw8tBbdpLMtprrn8iIRRfXtlMvmROg8j5vMsX3MPxpRJxO86x/CrpqH/LWf1jBAZ0T46oJJOJKT6t3OlKBFiGcTP0vZ4SQMGYMV6i2mcAZiMAIcfQxjx9+eXmw6Sn1cxxnO0Neo9DQoLFlhiy0hvA8c90tPjewUaOblAbn0wD5jPvds8nCAxHcAi4Z6cwN1dZq4FX7BC3T4fW+CH2VTlVolcyEBfGoHivvY/Op4WCX5JFuYI+mRgVt9sS22CZeR61hrTgw=;/QH7n68SJaAQOtT3J3Xxyw=="
+secured: "2hmQEH4NBbU27Q7qAtD7K0Aqz1REt0XvwEbUV7ddhCgQKrAQYfDjhbqSh4JYu7iP9N0E3/RgI3aThrzsipdmRBzXKP9N9o0DP97bs39T2jB2iNuriiQy0T9rdnDDDMeYcRoHofQ6vZ3rScKrzaJDYWFTgGWJmUFlwoUXEoSrVhIZ0y33NEA+Z4n21sAjmwOgET15UKYebAIcz2DQHLjvrJpIX8941AHoN4XIlFJ83DHNmRDaqWyk17fEZ9ieSfL4pmkPzMjs7oAb03WyxNmHA0wl9SmlAIiUt5+YauRszg0DJAOExV1hG6GUwKENkvFGHzZ3k4qdPnGVsqKa2n4HFz7Ltgqp0mtEqx+V9lYm9JI=;NWmeAjVecZ3VVHD3zARXOw=="
 ---
 

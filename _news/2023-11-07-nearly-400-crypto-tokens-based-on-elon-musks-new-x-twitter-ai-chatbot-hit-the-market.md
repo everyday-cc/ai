@@ -235,7 +235,7 @@ related:
   - title: "Apex Launches Internal AI Powered Chatbot"
     excerpt: "Apex Fintech Solutions, the fintech for fintechs powering innovation and the future of digital wealth management, today announced AskApex - a new internal AI powered chatbot. Integrated with Slack, AskApex enables Apex employees to find answers to questions related to internal resources, policies, documents, and more."
     publishedDateTime: 2023-11-07T14:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/07/9912901.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-apex-launches-internal-ai-powered-chatbot-/2023/11/07/9912901.htm"
     type: article
     provider:
       name: TMCnet

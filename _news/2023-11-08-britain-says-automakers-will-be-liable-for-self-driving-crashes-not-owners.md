@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Britain says automakers will be liable for self-driving crashes, not owners"
-excerpt: "The British government announced on Tuesday that, under a framework for advancing autonomous vehicles (AV), it would hold the manufacturers of self-driving cars legally responsible for any accidents, rather than the owners. A decision embraced by both ..."
-publishedDateTime: 2023-11-07T16:20:00Z
-originalUrl: "https://www.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3225348"
-webUrl: "https://www.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3225348"
-ampWebUrl: "https://m.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3225348?ampMode=1"
-cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3225348?ampMode=1"
+excerpt: "The British government announced on Tuesday that, under a framework for advancing autonomous vehicles (AV), it would hold the manufacturers of self-driving cars legally responsible for any accidents, rather than the owners. A decision embraced by both insurance companies and AV startups."
+publishedDateTime: 2023-11-07T16:22:00Z
+originalUrl: "https://ca.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3168851"
+webUrl: "https://ca.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3168851"
+ampWebUrl: "https://m.ca.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3168851?ampMode=1"
+cdnAmpWebUrl: "https://m-ca-investing-com.cdn.ampproject.org/c/s/m.ca.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3168851?ampMode=1"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Investing
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Britain Says Car Makers Not Owners Liable For Self-Driving Crashes"
+    excerpt: "Britain will make the makers rather than the owners of self-driving cars legally liable for any crashes under a framework for developing autonomous vehicles (AV), the government said."
+    publishedDateTime: 2023-11-07T18:22:00Z
+    webUrl: "https://www.ndtv.com/world-news/britain-says-car-makers-not-owners-liable-for-self-driving-crashes-4555517"
+    ampWebUrl: "https://www.ndtv.com/world-news/britain-says-car-makers-not-owners-liable-for-self-driving-crashes-4555517/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/britain-says-car-makers-not-owners-liable-for-self-driving-crashes-4555517/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/53z54k9wfi_self-driving-car-generic-istock_625x300.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Britain says automakers, not car owners, are liable for self-driving crashes"
     excerpt: "LONDON — Britain will make the makers, rather than the owners, of self-driving cars legally liable for any crashes under a framework for developing autonomous vehicles (AV), the government said on Tuesday, in a move welcomed by insurers and AV startups."
     publishedDateTime: 2023-11-07T15:10:00Z
@@ -42,6 +58,36 @@ related:
       - url: "https://s.aolcdn.com/images/dims3/GLOB/crop/6860x3859+643+0/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2023/11/07100913/london_big_ben_and_houses_of_parliament_in_westminster_bridge_on_river_thames_at_sunset_lights_uk.jpeg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Self-driving cars given UK green light as ‘users’ get immunity from prosecution"
+    excerpt: "The government is pushing ahead with plans to introduce an Automated Vehicles Bill, which it says will ‘unlock a transport revolution’ by enabling the safe deployment of self-driving vehicles on British roads. The Bill announced in the King’s speech ..."
+    publishedDateTime: 2023-11-07T17:21:00Z
+    webUrl: "https://www.autoexpress.co.uk/news/361436/self-driving-cars-given-uk-green-light-users-get-immunity-prosecution"
+    ampWebUrl: "https://www.autoexpress.co.uk/news/361436/self-driving-cars-given-uk-green-light-users-get-immunity-prosecution?amp"
+    cdnAmpWebUrl: "https://www-autoexpress-co-uk.cdn.ampproject.org/c/s/www.autoexpress.co.uk/news/361436/self-driving-cars-given-uk-green-light-users-get-immunity-prosecution?amp"
+    type: article
+    provider:
+      name: AutoExpress
+      domain: autoexpress.co.uk
+    quality: 40
+    images:
+      - url: "https://media.autoexpress.co.uk/image/private/s--9sAHnMRS--/f_auto,t_primary-image-mobile@1/v1603377510/autoexpress/2020/10/Driverless%20cars.jpg"
+        width: 375
+        height: 210
+        isCached: true
+  - title: "Bill to enable self-driving cars to be used on Britain’s roads"
+    excerpt: "The Government says its Automated Vehicles Bill will provide the sector with the certainty and confidence it needs to develop the technology."
+    publishedDateTime: 2023-11-07T17:43:00Z
+    webUrl: "https://www.aol.com/bill-enable-self-driving-cars-114004369.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/A4BYCZvEtwZWZ7ZMs8jFFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/800bb231fdb285f8ad7123250dc8e541"
+        width: 1200
+        height: 675
         isCached: true
   - title: "King's Speech reveals huge shake-up for drivers as self-driving cars and buses get boost"
     excerpt: "Brit drivers could see a self-driving revolution over the next decade in changes unrolled in today's King's Speech. The government wants to see more self-driving cars on the roads in what they say will unlock £42billion into the economy with 38,000 jobs ..."
@@ -59,6 +105,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UK Weighs Criminal Liability for Self-Driving Car Companies"
+    excerpt: "Self-driving car companies could face criminal action in the UK if their vehicles fail to meet safety standards in the most serious cases. New legislation, introduced in today’s speech by King Charles III who arrived at parliament in a horse-drawn ..."
+    publishedDateTime: 2023-11-07T12:29:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-11-07/uk-weighs-criminal-liability-for-self-driving-car-companies"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 34
   - title: "Government announces self-driving legislation in King’s Speech"
     excerpt: "In a briefing document from Number 10, the Government says that the automated vehicles bill will unlock a “transport revolution” by enabling the safe deployment of self-driving vehicles. It says it will also cement the UK’s position as a “global ..."
     publishedDateTime: 2023-11-07T12:42:00Z
@@ -73,7 +128,44 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "King’s Speech expedites self-driving vehicles with new legislation"
+    excerpt: "An Automated Vehicles Bill that will clear the way for self-driving vehicles to be used on Britain’s roads has been announced in the King’s Speech. O"
+    publishedDateTime: 2023-11-07T17:23:00Z
+    webUrl: "https://fleetworld.co.uk/kings-speech-expedites-self-driving-vehicles-with-new-legislation/"
+    type: article
+    provider:
+      name: Fleet World
+      domain: fleetworld.co.uk
+    quality: 24
+    images:
+      - url: "https://fleetworld.co.uk/wp-content/uploads/2023/11/AdobeStock_367047072-Nat-licence-autonomous-self-driving.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Self-driving cars to appear on UK roads under new rules confirmed in King's Speech"
+    excerpt: "The legal framework to allow self-driving cars on Britain’s roads has been included in the King’s Speech. King Charles III took to the House of Lords for the official opening of Parliament today (7 November)."
+    publishedDateTime: 2023-11-07T12:22:00Z
+    webUrl: "https://www.ladbible.com/news/uk-news/self-driving-uk-roads-kings-speech-698662-20231107"
+    type: article
+    provider:
+      name: LADbible
+      domain: ladbible.com
+    quality: 18
+    images:
+      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/bltd59fe3e46bd8d2ff/654a2b4e8591580407492dfe/Self-Driving-Cars_.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Oxa and eVersum Join Self-driving Shuttle Rollout in Belfast Harbour"
+    excerpt: "Zero-carbon shuttles built by eVersum and driven by Oxa self-driving software will begin carrying passengers from early 2025 OXFORD, England, & LEIBNITZ, Austria--(BUSINESS WIRE)--Oxa, one of the world’s leading self-driving vehicle software developers ..."
+    publishedDateTime: 2023-11-07T09:31:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231107586594/en/Oxa-and-eVersum-Join-Self-driving-Shuttle-Rollout-in-Belfast-Harbour"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
 
-secured: "AiS2H9w3MmCOOCl7tPjCedL0gMO5tzsWW9+wcwnfhhZkeweuRFj8eZ5sOdtL4LojkcpfqJ2BoKmFHVA9Z4KAJwt9i8eaFG9qyW8ApI4V+ExspN7zgPpGrmRYNDjxgqrOLOAj9sNw0eFy4olRbRiRqut1vGKR3BU38WQ+jBWoY5fsUaeDz3Ow4U3fEtfBGynAU2Fhcq0DHwegYTiHKPy04xqiUTdvAYcVqrYy+zmKEZQ6rJ0rjGZC/JWJZAKe04D1CtyVsf85AKW1LkuF+IhEc5qhcxBlXhfghiQrl/y6FNTixXi3VI7amtXhHOWB6uJZLXJfjB88E2/zWmEQkp2sRO4SAGhPzSrJPm2tGQfN4Jo=;H7RLeY4+75qtDGdAxvCOeg=="
+secured: "HbtQ21Ox+x2d2wr7OXhucYDQFDBVlCB/JYJ2pPUjhjf0P03QOuNwnsnhYATizqPvyTMHBWBVLgRgdGFd9CjlesNtI3kL2yVvbFD9A1spevZhUXcusodY+0fy08uCOJ6But3qkmEf++34c0yGnqKL3JqsC6cNvUPh2luGPxzYWEOTsvY9t90rqlKsf7jM+Xv5TBISOyciPhQeTXHXRVkvc6mTvuQcDgUrHX9ejCgv/vaINEXp8K1nlLqCCDgJqoUqOqP/cQz+R+WOOSCE/b8Q9UAOQUrYbOS12c6ESNolkFxMDEaTHrh363STNYM5kv1LX+evD2bOrJYgI2nMALRJYfpRKtUfj53pk0ZODKCunvA=;ra8Dwx/bczZhpmtoeQTH2A=="
 ---
 

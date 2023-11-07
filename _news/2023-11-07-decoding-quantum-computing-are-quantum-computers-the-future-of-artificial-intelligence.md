@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-07T00:04:00Z
 originalUrl: "https://techbullion.com/decoding-quantum-computing-are-quantum-computers-the-future-of-artificial-intelligence/"
 webUrl: "https://techbullion.com/decoding-quantum-computing-are-quantum-computers-the-future-of-artificial-intelligence/"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/11/Decoding-Quantum-Computing-Are-Quantum-Computers-the-Future-of-Artificial-Intelligence.jpg"
@@ -26,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Advancements in AI: These Companies are Building Computer Chips with Live Neurons"
-    excerpt: "Companies, like VERSES AI Inc. (NEO: VERS) (OTCQB: VRSSF) are racing toward Artificial General Intelligence (AGI), where AI can perform all human cognitive skills better than the smartest human, as noted by Forbes."
-    publishedDateTime: 2023-11-07T15:58:00Z
-    webUrl: "https://www.baystreet.ca/articles/stockstowatch/92234/Advancements-in-AI-These-Companies-are-Building-Computer-Chips-with-Live-Neurons"
+  - title: "Using Computer Vision to Inspect Incoming Boxes for Damage in the Warehouse"
+    excerpt: "In 2022, a core team launched a pilot to test computer vision as an alternative to human inspection of damaged boxes. It included members of Intel’s Customer Fulfillment, Planning and Logistics Group, as well as the company’s Supply Chain Innovation Lab."
+    publishedDateTime: 2023-11-07T05:08:00Z
+    webUrl: "https://www.supplychainbrain.com/articles/38447-using-computer-vision-to-inspect-incoming-boxes-for-damage-in-the-warehouse"
     type: article
     provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 51
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 37
     images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/AI.jpg"
-        width: 845
-        height: 396
+      - url: "https://www.supplychainbrain.com/ext/resources/2023/11/06/P12-DAMAGED-BOX.jpg?height=635&t=1699334557&width=1200"
+        width: 953
+        height: 635
         isCached: true
 
 secured: "3CcPrnOIHgoGxSsqFd8a9t+Vd0wRroyzsjirehP77VodV25VrWJCYBazdPkDbhD+igycOuDH4Act8sGC6gnyb7hAx/NokOCayOufSNb2tj7ORnDeMtrh8hUIbFHjTWbHDL2x5reRFvszPDF16HZkDSVYNHalLcUt+jWZAM7Aupml0uIe7rOn95GVMLxHQQy9mw2mqjZdSve2Qs26U7/RIzkHKM+MQx/vAMyeSEM5oUaZz2ti1l0xEKJSMavOLwe70b1dYgAxxJmyHb/YIy+JW5Ft9yuhE5vrtA3+d/fLwtOIAFK4cLvFB4EG4QgrJCL6r3Q2MtGmU7VSErFWeJVhzaDVozFpE3ZQlPeJXAF6Ode0YXh08Kb08P7GV0hbcaHmF6Eh1SdCbViAA0AOlhE6ZSkaJDEkS23G51zvf42jfxhw6HTYlJes/eOgZ6VZu0l+va840VaQsBY2Xd5mcdQfsqFKewwyTR+xVAzNGUlOrjui/N6fNRNYJBFTbdvofjENzVvPC0rpDfO+XNSYQi1hKg==;p9zHTBTjARgJ3+JysEiSog=="

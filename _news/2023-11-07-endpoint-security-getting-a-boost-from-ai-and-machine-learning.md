@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/endpoint-security-getting-a-boost
 webUrl: "https://venturebeat.com/security/endpoint-security-getting-a-boost-from-ai-and-machine-learning/"
 type: article
 quality: 103
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chick vent sexing machine uses AI to reduce labor"
+    excerpt: "Learn about a chick sex identification technology that is the first commercial chick vent sexing system available commercially in the world."
+    publishedDateTime: 2023-11-07T16:38:00Z
+    webUrl: "https://www.wattagnet.com/broilers-turkeys/article/15638087/chick-vent-sexing-machine-uses-ai-to-reduce-labor"
+    type: article
+    provider:
+      name: WATTAgNet
+      domain: wattagnet.com
+    quality: 39
+    images:
+      - url: "https://img.wattagnet.com/files/base/wattglobalmedia/all/image/2023/11/three_chicks_on_white_bkgrnd_1.654a678c422a8.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Apple's thinking about AI spending and deployment differs from Big Tech rivals"
     excerpt: "How Apple's thinking about AI spending and deployment differs from Big Tech rivals: Summary Apple's approach to AI spending and deployment sets it apart from its big tech rivals."
     publishedDateTime: 2023-11-04T18:46:00Z

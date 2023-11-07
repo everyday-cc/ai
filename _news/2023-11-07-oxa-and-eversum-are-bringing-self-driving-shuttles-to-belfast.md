@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Oxa and eVersum Join Self-driving Shuttle Rollout in Belfast Harbour"
-    excerpt: "Zero-carbon shuttles built by eVersum and driven by Oxa self-driving software will begin carrying passengers from early 2025 OXFORD, England, & LEIBNITZ, Austria--(BUSINESS WIRE)--Oxa, one of the world’s leading self-driving vehicle software developers ..."
-    publishedDateTime: 2023-11-07T09:31:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231107586594/en/Oxa-and-eVersum-Join-Self-driving-Shuttle-Rollout-in-Belfast-Harbour"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 4
-
 secured: "IGu5XavXld47iBU0vF9SZzguBKQ48etu/mAVN2xmLFqFZPVMwJTUmiat7Rh+uRxKr1irso80SA1SUH4QSLygRECIIBPP1ct0YKshJ4rBjzO0kyD5VClVqPK/a1K9XVdvpHkrQflI9vsXWHeRDnkqS5B22AcSF/yuXldOb7FfIJjjfNjqp8bbcRKq97Ic2TKI3QkZ1S24wTbT24lHpeeZ0xwaXlI4xULl458hmSwqJJivzLCb0tRgKK0taKsSezK9PAR/6mHvMUnwE2zdCAWHcXlAlhy+cq/Ax8QUi9y0Y7T5wTyiqCkaxC0qmcJmjwml0vp813O7PhAfr7WbL3q0DozylbCHnHRNGRBlW6aa9O+jGAjijgMOFn4HQ7dd6njXSgYsNJ8O4H/W63D8TLRUtIORGn3ENv1IKb5J+jGDjcaGdRvN+9sF+LAbICX2HSReyb4Kqkb2DxV6f6RLd16ya6BW97gmaNCwTZoZl4NLCxOz4WqruL2BkjVbCUjWAQHXOnPmYHfYem+rNpBQUEDLfg==;/0FdWUrybOaJ3SR21R1viQ=="
 ---
 

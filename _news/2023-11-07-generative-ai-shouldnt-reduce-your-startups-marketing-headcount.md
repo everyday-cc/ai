@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/11/06/generative-ai-shouldnt-reduce-yo
 webUrl: "https://techcrunch.com/2023/11/06/generative-ai-shouldnt-reduce-your-startups-marketing-headcount/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Miami AI startup raises $35 million to help businesses reduce cloud computing bills"
+    excerpt: "Cast AI raised $35 million from investors for a platform that reduces cloud spending for businesses. The startup's series B round was supported by Vintage Investment Partners, Creandum and Uncorrelated Ventures. The funding comes only months after Cast AI's $20 million investment round in March, bringing its total funding to $73 million."
+    publishedDateTime: 2023-11-07T16:20:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/inno/stories/fundings/2023/11/07/cast-ai-raises-35-million.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 13
 
 secured: "QUVbK+ze1V58sxDeoc6DEfd2vamlQ1AEVOLVKCF2oH10wD8Ksj0JaGUp2F8ZdrFT4JZk9hoOnVvQA133k0xXbzRZpujGX7WSiDowsUezznYCg5s1vBVBYjuX4ylwm5jBHwBLSqVtpdu1yFL1MOShHczs4yR3N9GjW6Sl0k6ONdtYJ1laPX7lSRi9eF2Tsr76ThM9+ZIuftJgI+NGpS7CbSotVWaRf2I9kP75tMBIFKK18XsSIuc23RFqkmXyHYBDhwOzKTIYq4fsjDh+zmsfMPA4Kp9JXQHw+Yfn2TuB9sDQKakpM+yJO7i18al4ZwGG5m+oy0RwUB8BsipPWBoEuZE6irK7ifzB2Bggv9uuBq4=;URud1Tqwg3CKyr0yUtdsUQ=="
 ---

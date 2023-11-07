@@ -2,26 +2,26 @@
 category: news
 title: "Humanoid robots are here, but they’re a little awkward. Do we really need them?"
 excerpt: "Forget affable-appearing Rosey and Robby of sci-fi yesteryear; today’s humanoid robots are a bit more Terminator-esque. Do we even need them? Artificial intelligence pioneers weigh in."
-publishedDateTime: 2023-11-06T19:30:00Z
-originalUrl: "https://tucson.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_da620ea5-9b8e-5fbb-8e17-767e0568bf0d.html"
-webUrl: "https://tucson.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_da620ea5-9b8e-5fbb-8e17-767e0568bf0d.html"
+publishedDateTime: 2023-11-06T18:30:00Z
+originalUrl: "https://www.stltoday.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_9d8f93c0-9c17-5140-a004-70ed7282930b.html"
+webUrl: "https://www.stltoday.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_9d8f93c0-9c17-5140-a004-70ed7282930b.html"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Arizona Daily Star
-  domain: tucson.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/d/a6/da620ea5-9b8e-5fbb-8e17-767e0568bf0d/6548f44d44af9.preview.jpg?crop=668%2C376%2C0%2C17&resize=668%2C376&order=crop%2Cresize"
-    width: 668
-    height: 376
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/d8/9d8f93c0-9c17-5140-a004-70ed7282930b/6548f44d40334.preview.jpg?crop=670%2C352%2C0%2C29&resize=670%2C352&order=crop%2Cresize"
+    width: 670
+    height: 352
     isCached: true
 
 related:
@@ -49,6 +49,6 @@ related:
       domain: scientificamerican.com
     quality: 19
 
-secured: "XMo4hYjRqFKv4ahzKOAfaImbk65oIVpMAPJi/a/cdUhLIvI4NL5mfDc0xuUF1QfJiBxbXQQWCE1uc1fgCg2SPSPge/9rUM45xUyyOygG3ItQM0QSPBTshoaPLCXqMTTLTdPFDxvxCeow6XFH5LBx7QZaRchjbK5wDdRo8txp+6fdMn+RkgEAN+VGNKgXI+KinXztjPmX/BS7ppCk9CS0Lr14dfQdNqpJ+vjTCf40QeOJBEQmbGuwt4xL3FLjiDPY1XpXV+sUGztsB4CCW8fmQnNLsw0HJTJcgqiB/C6UdnRQyC9N9wBRLEOwh2hKrjt+aNTUw4avnSz46k3yscTKF/bdKU9miHrSUTB9D1Fikfc=;i0km+h54mTWPnApR+2UGKg=="
+secured: "+BYIfX7TpazhqBUNzxtlqR3rydBvyuN3MVE5F+3jLONSGcuqdbaRb4CHPyZp6J8CfBFyLdI+skDbWts//02De7YxXklMpOW6vjq3aVjV7iC/h5jQbWKGw+oeAgxrLQIcLrS/I1CBZzk28RJnaDuOeaCQJYqIW3+G4qktINhVTaOCbdykRSpY8RtVSmPL1+OduljW6EiyLootvSLoxWEuyB1Zlv8eR+oYP043sjmYXuv8rg9UcqCUdmJArNknSKkN40yXsGYVDtSFgDx1AXrJy0OIURZZzY1yvaUGpPgOvhydvpYW2yd7QueSlCS/cjV02pxXpAQ3Il7pzfxIO8mpQ+W3ZCXbxbL6si5Prc47ohQ=;MAnP2UmNYoZ3wAYBTRu2sQ=="
 ---
 

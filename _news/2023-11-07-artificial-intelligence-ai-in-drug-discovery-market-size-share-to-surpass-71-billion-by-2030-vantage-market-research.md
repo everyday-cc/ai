@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35624848"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35624848"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Aerospace Artificial Intelligence (AI) Market Size & Share to Surpass $6.02 Billion by 2030 | Vantage Market Research"
+    excerpt: "WASHINGTON, Nov. 07, 2023 (GLOBE NEWSWIRE) -- According to Vantage Market Research, the Global Aerospace Artificial Intelligence Market is estimated to be valued at USD 6.02 Billion by 2030 at an exponential growth of 44.5% in the next seven years."
+    publishedDateTime: 2023-11-07T10:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/g35637595/aerospace-artificial-intelligence-ai-market-size-share-to-surpass-6-02-billion-by-2030-vantage-mar"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35637595"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35637595"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Artificial Intelligence (AI) Market to Reach $3,636 Billion, Globally, by 2033 at 37.3% CAGR: Allied Market Research"
     excerpt: "Increase in investments in artificial intelligence systems, rise in collaboration between industries and artificial intelligence and machine learning solution companies, and increase in customer satisfaction and adoption of reliable cloud applications drive the growth of the global artificial intelligence (AI) market NEW CASTLE,"
     publishedDateTime: 2023-11-06T07:01:00Z

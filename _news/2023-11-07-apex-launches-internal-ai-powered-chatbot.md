@@ -3,8 +3,8 @@ category: news
 title: "Apex Launches Internal AI Powered Chatbot"
 excerpt: "Apex Fintech Solutions, the fintech for fintechs powering innovation and the future of digital wealth management, today announced AskApex - a new internal AI powered chatbot. Integrated with Slack, AskApex enables Apex employees to find answers to questions related to internal resources, policies, documents, and more."
 publishedDateTime: 2023-11-07T14:26:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/11/07/9912901.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/11/07/9912901.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-apex-launches-internal-ai-powered-chatbot-/2023/11/07/9912901.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-apex-launches-internal-ai-powered-chatbot-/2023/11/07/9912901.htm"
 type: article
 quality: 19
 heat: -1
@@ -261,6 +261,6 @@ related:
       domain: thestreet.com
     quality: 9
 
-secured: "okLrAQm3WOYWnOzNo+Z2NWSYd5/olijAz0vNPpel8FrwplQMC0Be8gCdRcFtj7vjkBYY5olp75CVVp0L5T2nSFdv+VXH/0hOyAJfQ2H9jftCE/ULFlN2w57esdszEIxb/m9htSEwwBDuKlwjpfBiIqb9bzwt5+fNp7fuuFesa8LeiXFQ+Yzt0kSLqWiLm8Bs8rORYclchlmUDUmpLcYgLNlRgwhzb4054IT5r9m5K46ygJJSSw356rZqejqNkKP6pAlgE1l0dZwIYZGMunyBo8j1m62gEFDIX/oblq3gymzDYT9sHwxbJhIpe0TzbDIqd6r1t+o+MMu+RSXWarcaty3Cz9vVuzvsHznFky4HO3s=;wEKIxl1RbWeynTXZLRsjDg=="
+secured: "6uqnoAeKLT6PgHeQiGb1IcPFEm1Vrox1alATlQ5vFwsS3ZGEXRtHhmXGZoT4shJkjKrhsFaInK4YnRroDCnn9zzeyrQeZU2SFI1eOlkpZkd1CYgreehbSa+1lvggC1uJeOcF8X1dZo1JuiXirMUTp0bY3tcpA5amCp+GaPXHrF4DHNpgIHd6M0bviBG/bCVPju0qitHL/kZbXYStbF1/JmFMspwnFo5WPZXmyNXMhDpWjkR1auFwUrjRhenF9eoAOHcLk8Om9sjKblMewehykwqaW9rxTj8ko7z/iFDQ0h+4d5StnjBLODnhzC06Ck/dmfyXmOjNcrb/jJTfQkP19KUXmhp4ApNTcCzporTY3kM=;HQvv+FzyZF23s5pR4jVKig=="
 ---
 
