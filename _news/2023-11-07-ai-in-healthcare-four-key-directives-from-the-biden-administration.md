@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/"
 type: article
 quality: 106
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_23905_16992787609573557.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "New Artificial Intelligence Executive Order Contains Numerous Healthcare Implications"
+    excerpt: "President Joe Biden on Oct. 30, 2023, signed an executive order (EO) to establish the first set of standards for using artificial intelligence (AI) in healthcare and other industries. The EO seeks to find balance between managing potential risks of AI ..."
+    publishedDateTime: 2023-11-07T22:47:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/new-artificial-intelligence-executive-3104620/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 62
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14849_2738.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
     excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"

@@ -56,6 +56,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "New Artificial Intelligence Executive Order Contains Numerous Healthcare Implications"
+    excerpt: "President Joe Biden on Oct. 30, 2023, signed an executive order (EO) to establish the first set of standards for using artificial intelligence (AI) in healthcare and other industries. The EO seeks to find balance between managing potential risks of AI ..."
+    publishedDateTime: 2023-11-07T22:47:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/new-artificial-intelligence-executive-3104620/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 62
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14849_2738.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Biden Administration Issues Sweeping Executive Order on Artificial Intelligence"
     excerpt: "The Biden Administration issued a sweeping Executive Order directing a broad set of government actions addressing consumer harms, discrimination, privacy protections and other issues stemming from the widespread use of artificial intelligence. While the ..."
     publishedDateTime: 2023-11-06T17:37:00Z

@@ -39,6 +39,15 @@ related:
         width: 2400
         height: 1260
         isCached: true
+  - title: "Grok AIOps Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Grok AIOps to harness the scalability, reliability, and agility of Azure to drive"
+    publishedDateTime: 2023-11-07T22:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/grok-aiops-now-available-in-the-microsoft-azure-marketplace-1032789712"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
   - title: "Namaste Credit enters into a collaboration with Microsoft Azure over fraud detection solutions"
     excerpt: "Namaste Credit, an underwriting technology platform, has announced a partnership with Microsoft Azure under the STAB Program of G7 CR Technologies – A Noventiq Company."
     publishedDateTime: 2023-11-07T12:15:00Z
@@ -64,6 +73,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 35
+  - title: "Amadeus and Microsoft Are Working on More AI Innovations — Here Are 3"
+    excerpt: "Most recently, Amadeus revealed a new AI-powered retail system meant to make airline sales ... Everything will be hosted on the cloud-based Microsoft Azure system, set up in a way that gives clients easy access to real-time data that they can use to ..."
+    publishedDateTime: 2023-11-07T20:44:00Z
+    webUrl: "https://skift.com/2023/11/07/amadeus-and-microsoft-are-working-on-more-ai-innovations-here-are-3/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 34
 
 secured: "ui1WjjgpCcIss2czMaovpGsCnRd8+OqQYbQGmU0lh9NN5bvv8lz/ZHWFtt4DuONfwBw03iF5iLbu4UdCbpWXRQAFKfLFaBoe64vRHcSOthAU3h8Ps2c4ccQP4lbXWkKCi8la/Bgr/4iA6yIL2s73MjiPBjop7m4bagf5I2Nn2KqFrlKI7u4Ef6wOYV+eAQhrfBtJhZvFXclPlXkdgSdT+mniz6RYWYSdMHjAInFypG7p8oqUD1OXV8VYzzVKg4pZzJscceKjzfOn9Px7uhFJ55e3j/adVdZzVP6GVn7+2S8YdVJtvVehfbz9vkpQsDg7QKc3SRWJMBSjMQRCFkS4792lfM/I73p1/jrh+hzHgVM=;uzx3J2t2pQg0NHqYYsZPwA=="
 ---

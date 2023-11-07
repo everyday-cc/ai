@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-and-microsoft-work-together-to-bring-
 webUrl: "https://www.ibm.com/blog/ibm-and-microsoft-work-together-to-bring-maximo-application-suite-onto-azure/"
 type: article
 quality: 131
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Grok AIOps Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Grok AIOps to harness the scalability, reliability, and agility of Azure to drive"
+    publishedDateTime: 2023-11-07T22:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/grok-aiops-now-available-in-the-microsoft-azure-marketplace-1032789712"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
   - title: "Namaste Credit enters into a collaboration with Microsoft Azure over fraud detection solutions"
     excerpt: "Namaste Credit, an underwriting technology platform, has announced a partnership with Microsoft Azure under the STAB Program of G7 CR Technologies – A Noventiq Company."
     publishedDateTime: 2023-11-07T12:15:00Z
@@ -68,6 +77,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 35
+  - title: "Amadeus and Microsoft Are Working on More AI Innovations — Here Are 3"
+    excerpt: "Most recently, Amadeus revealed a new AI-powered retail system meant to make airline sales ... Everything will be hosted on the cloud-based Microsoft Azure system, set up in a way that gives clients easy access to real-time data that they can use to ..."
+    publishedDateTime: 2023-11-07T20:44:00Z
+    webUrl: "https://skift.com/2023/11/07/amadeus-and-microsoft-are-working-on-more-ai-innovations-here-are-3/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 34
 
 secured: "XXsJ+1P3pGnmzR310WdHBTefPr9Pc2Ht++5ANwNsahuivovOiXFe7r5uByg1Z85rTM3/xMUgyKHjlni4Jz5pbGRuJVO/fjq8kZpxQPMsJUpMPvS0PBUMsy2H9eF/P28UZ9Od2gvxwEN7k26A2xQY/VYU4Esi7kuc/HI+uDwJkuTdgb5cuZQOXTwW7GOkekKqS44QdH3O8F1/BaV6sLVxj3WT4cIuGp6jjsCWqTlJr2caL9wiBkCWNlHuVPUfibdan6b6q1+urfm0nJmjTGrzUig9x3RX4LCIaclbz/eLREqPAlNtXd0CtmAuGy781AFnr91vop5QOOyzKglXO+roK1L9YNBgBTasTUOR02BJPjs=;rWp6sEQmWpjwCOVrxWcjIQ=="
 ---

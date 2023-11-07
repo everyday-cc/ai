@@ -3,8 +3,8 @@ category: news
 title: "Algolia Named a Leader in IDC MarketScape for Worldwide General-Purpose Knowledge Discovery Software 2023"
 excerpt: "Algolia, the world’s only end-to-end AI Search and Discovery platform, today announced that after a thorough evaluation of Algolia’s AI Search strategies and capabilities, IDC has positioned the company in the Leaders Category in the IDC MarketScape for Worldwide General-Purpose Knowledge Discovery Software 2023 Vendor Assessment (doc #US49988523,"
 publishedDateTime: 2023-11-07T18:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231106382119/en/"
-webUrl: "https://www.businesswire.com/news/home/20231106382119/en/"
+originalUrl: "https://www.businesswire.com/news/home/20231106382119/en/Algolia-Named-a-Leader-in-IDC-MarketScape-for-Worldwide-General-Purpose-Knowledge-Discovery-Software-2023"
+webUrl: "https://www.businesswire.com/news/home/20231106382119/en/Algolia-Named-a-Leader-in-IDC-MarketScape-for-Worldwide-General-Purpose-Knowledge-Discovery-Software-2023"
 type: article
 quality: 0
 heat: 0
@@ -18,6 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "nTdl3kvB6Md4qiMHGZOB77H98ZbsMnLHDLEhWLo+Pjy2YSv7kREBQ/I9XlGw3fHyd/nT+B3ZB0zKodiiEc/+iNli6n211CvOOr62sl5TTNnZ7TUzOD5dFWhaTNM5RT/hfR2ZMIAQlmSxOwdGD0i3IFQfKTDIWqtJ3AtRnRvnxD+rdsxdZzfYVqERu4KdZYEATFfYYHlcmw25wkY1pL8O65C7yJbLlxG+EwgYa+FIKRmaLU2KXxG7mwBotuZCyWk5QYmJ+UG+8T+FjhRgS+ptDF3gPVQTaJh0J2JnJkJbEAmL9fcwwxUkMUuyF7++7ube6GELSGZY4Pj1DYObmN1/gflk0NuHMlCXLpwu3EfYxVE=;fqE1TxxzmmmzOVXD5sU0Wg=="
+secured: "Z67NHG9Bmp6kVCoCnObPqehstqveGgg6B1nJgriC11X2E/6aDOZdJLErRWw2kVFkkoR8GNHIrunYuWIZXNlyeE+jHqb0XB5qXnBekG4PSyFZcG/1E1eAidE/r6he3ssMXPdDtNBRuuQRisJQPm7xnmlrMByN1O/Y8Sb8Ru5lJwe4KRGTULIeIj9nymfmaj6D4xMorjfcH2vmWqnzGfbFZRyqOQegBqsrHe3tvxc/M/kiNmo4Yd2tXEf3oH0gZLIbdGlM8YPD6k3rTnLyG44Hilgk+HvUev5RY32m7DsJJSmd6vU2BOxUOQb8nW2hziMJeUNZQ8WDSJihNQf55tQk8LPqOWz88H1URAQmi+ZcpbY=;4WlqCP5B71EPvhKuqBiGmA=="
 ---
 

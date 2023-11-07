@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Bletchley Declaration: International Agreement On AI Safety Is A Good Start, But Ordinary People Need A Say Not Just Elites"
+    excerpt: "Since many challenges posed by AI regulation cannot be addressed at a purely domestic level, international cooperation is urgently needed to establish basic global standards that mitigate the direst consequences of an AI“arms race” between countries. This could hamper efforts to encourage responsible technological development."
+    publishedDateTime: 2023-11-07T19:45:00Z
+    webUrl: "https://menafn.com/1107388857/Bletchley-Declaration-International-Agreement-On-AI-Safety-Is-A-Good-Start-But-Ordinary-People-Need-A-Say-Not-Just-Elites"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "mfD/jBxG8AA6ttD+3bm2Op5QQzwB5ceBrKDfHt45Sgghuu0005mYmuIaOjGlr11x+D0R3YNSTN1+D3YJdQEuCgcy86lKpyUV0XgAc2zbFIWoBgUqKYglwG5yEUlAYfdRVZEj/FIYfwKgN+U2JCDGBM0AkLbSZBCqpegLxJckeVjak4ji7UvvPvImO/y3YTrDYz6jxErJMWGkCokQbq/IhH/2rLk06OejAo5t778xk+GE/Ws7InOiKHN2/cipo7um0vFCXpRGNb2qb8vZuSNM67vxpMOGGwWlp4TzoVZ4qGC96YDhXm0mu6Se46KFV48OLroo4SYThUrM4Y9tAflhwnnwVq1pSGJvBoSxl6naM5xehd3aOqlVf6hHHyEmctnhBqGyTo/Fcx7eCsJxqvPbH597IjMtfSkClBX1ESRM/dsxMknye4cyCvYbGkYJAQ+C2MTFVw7b89FPi3vxQINF+0Q8mV+NTRiaaHIIjt6EKhzQx1kn+sK+mFeurx+XiywzdQDywoNRQFnW607KiDDz1Q==;KZwMRao2S69gHU05EC88tQ=="
 ---

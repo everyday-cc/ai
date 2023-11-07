@@ -41,6 +41,15 @@ related:
         width: 2400
         height: 1260
         isCached: true
+  - title: "Grok AIOps Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Grok AIOps to harness the scalability, reliability, and agility of Azure to drive"
+    publishedDateTime: 2023-11-07T22:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/grok-aiops-now-available-in-the-microsoft-azure-marketplace-1032789712"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
   - title: "Brillio Collaborates with Microsoft to Build Innovative Industry Solutions Using Microsoft Azure OpenAI Service"
     excerpt: "EDISON, N.J., Nov. 7, 2023 /PRNewswire/ -- Brillio, a leading digital transformation services and solutions provider, today announced that it is collaborating with Microsoft to co-develop cutting-edge industry and horizontal solutions using the power of Microsoft Azure OpenAI Service."
     publishedDateTime: 2023-11-07T12:40:00Z
@@ -64,6 +73,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 35
+  - title: "Amadeus and Microsoft Are Working on More AI Innovations — Here Are 3"
+    excerpt: "Most recently, Amadeus revealed a new AI-powered retail system meant to make airline sales ... Everything will be hosted on the cloud-based Microsoft Azure system, set up in a way that gives clients easy access to real-time data that they can use to ..."
+    publishedDateTime: 2023-11-07T20:44:00Z
+    webUrl: "https://skift.com/2023/11/07/amadeus-and-microsoft-are-working-on-more-ai-innovations-here-are-3/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 34
 
 secured: "AE+YM1V3eqkY56qpDvzMBNGlG96ArTXFOIyzSvCpn9RuAm8wSdOG7KK3EBqWDOX1ixaL/h/jK2GM1MHf3iis7K6BvcKDAErVuhyESrffezE+yjB/KoIrYXm0znDvGDlkn7kdWY7Cw4ALvddi28s1UKrSJG9v3Cnhf5yuMEvBrlZFSxcKXRBGZv0+ClVUHcBekdbyXRP1MP1t8Ybu+Rj6Rf13i5J/417zSItgpD7ZXuy2rq+iu4QTUOPls1QrZ41g8Am/qVJWSgEpCVIgjKksE3tSyc/xx4jibXRUhXQme3+/9sr57L5yXI3khkGBSr56MfmpVLNpe1sCBv65mtu2VyQpimIZLz3jM03A+5AHITA=;cGH4n9UInLTBLr2pxHIqzA=="
 ---

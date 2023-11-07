@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35650664"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35650664"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,21 +26,32 @@ images:
     isCached: true
 
 related:
-  - title: "Advancements in AI: These Companies are Building Computer Chips with Live Neurons"
-    excerpt: "Companies, like VERSES AI Inc. (NEO: VERS) (OTCQB: VRSSF) are racing toward Artificial General Intelligence (AGI), where AI can perform all human cognitive skills better than the smartest human, as noted by Forbes."
-    publishedDateTime: 2023-11-07T15:58:00Z
-    webUrl: "https://www.baystreet.ca/articles/stockstowatch/92234/Advancements-in-AI-These-Companies-are-Building-Computer-Chips-with-Live-Neurons"
+  - title: "Food production is accelerating the climate crisis, but AI and other emerging technologies could turn things around"
+    excerpt: "Some companies are looking to get fossil fuels out of food production. They think AI and other emerging technologies are the answer."
+    publishedDateTime: 2023-11-07T20:59:00Z
+    webUrl: "https://www.businessinsider.com/ai-emerging-tech-transforming-food-production-2023-11"
+    ampWebUrl: "https://www.businessinsider.com/ai-emerging-tech-transforming-food-production-2023-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-emerging-tech-transforming-food-production-2023-11?amp"
     type: article
     provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 51
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
     images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/AI.jpg"
-        width: 845
-        height: 396
+      - url: "https://i.insider.com/654a7eb936d588dc55cc5f05?width=1200&format=jpeg"
+        width: 1200
+        height: 900
         isCached: true
+  - title: "Leveraging AI as a tool for growing your business, creating efficiencies and identifying new opportunities for employers"
+    excerpt: "The value of AI is the opportunity to amplify the best of our hopes and dreams through new technology in ways we never thought possible before."
+    publishedDateTime: 2023-11-07T18:25:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2023/11/07/leveraging-ai-as-a-tool-for-growing-your-business.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
-secured: "BlEZ5gts2Brtxm5rADwgPlLRe+PJ7EJ8fGteTCoKY9j/3cpMrOWvbhWaU5uKleizJi8AsXmtYj7/75tIXXkgHdzIvZwfh40QAnoeB8aiJ5lOre+8RRN/BfNAAiEu8D+goEo0ze7TqyPOYWRWvKmiS12MbMhe7g0RF2MXJOHb3I/am3kznjx2/2D9qT4zK97ScSugUHskLvHEdu5EE+BEBH2bIEJdXzYeN5h8GMxWRpigiUX4X8V30elGtEQgLz56dP3Ae5QEgZiGV0RLDM/NMXRQu+sdxGnHEzfpk+0Od85+o7Y5oYuEYYEX5iwQGYHAWEEZlayaGXiCTXmdA2m2lUYQ7/98SP230VzWX143DTI=;C7IYa/nwxzC/NeSc9qlEQQ=="
+secured: "PvwUXNTd/RGW5m+zMAfX6Uc1p3KoLXHuqW5nawHbkp9c80PWOP9dFjiBJeMbVq+/ak5HwWxctFDCFRcD8Ktv42Z3kvOHJyR2jdX4PjegOi18YGUDqmotCXuhcirj22x+KbyRd5qs1e48MOlVeiUJHbiXF/OwXRaL+ShdlO67nE5WlIVvP0cGLJBEHCi4btYV2bAd2QkgskxG5jFBduMPGFzFIfBBDW5C8Pfi1idxqfZQQowQo9+vDBC4i4p4HV7+j43iYdm5bkiv1AxwjDz14DKtqZLzvQ+mkMNaTr98ugSQmcwfRJpXuo7jI444ohLqwe/cU3YjtgQJB6T7AOUDn8RrjQ7vSPb4TiXveXb6XzRZ83m0hFGCL+3lb2QMZ33Br6VNNKMluFuiv2ZTQdMBWov8vVoqOw/kEXRdSHpfEhQz21RvvmnYfpMJ+r/ZerdAJExc6sD4m18PuYJiWZxa/KVpRuu5x/rSsfnlQzXvh1U5qJIEmYiU5v+PuMIcAsXHCIJ+ftNJiPkVnFVkxkJpNg==;6/oVHuyWeC1KB/gBFYMBZQ=="
 ---
 

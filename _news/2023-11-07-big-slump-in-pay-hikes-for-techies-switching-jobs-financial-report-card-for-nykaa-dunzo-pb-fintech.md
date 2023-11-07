@@ -82,6 +82,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 34
+  - title: "BIT2023: Banking, Fintech Co-Create Larger Ecosystem, Build Strong Foundation"
+    excerpt: "Get ready to be acquainted with the Who's who of banking and fintech fraternity of the UAE over two consecutive days next week on November15 and Nov"
+    publishedDateTime: 2023-11-07T20:15:00Z
+    webUrl: "https://menafn.com/1107389124/BIT2023-Banking-Fintech-Co-Create-Larger-Ecosystem-Build-Strong-Foundation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 16
 
 secured: "nf8laBjiu5phK9nQXfnKMiebMQ3L7M6lin+ngEWQBP9kamlZDSNtfgbW2cCrcWUh93RG4jkcTh86dZFAMRuIpqsZTkPPxByxXoAL494D7RppXhnQEiwwDIFxS9oGvP6nCiAbLDphcVFxAg6ymyfRqKqaXNZBaIIA+c0/i9aebmHb43nKHpXoVEDZ8UPJyWTEKB6Pun2gZ6nK2znelYIPhXn7PKzdYjGekvh7NUsvSigTBe9jHkm+nheXniui3U5O3I6picX4k4pqENobvxjijVFTqxH5mxjwFXoNsdGrXfs3k5u9ureAWCYp7XD2G8PRLJhi8oOX1z7BzVm+zRGDa8bxYzyVe54yc7y1DGCd0bIZC9Wb7hZ4fe0WaRe8tiBJ8Osf7w2gxFZfx4FARBg4iguDGD4/Do+K2NEtDIRoKiFJxVQQwYfmLXnOyjB8AoEzjhf2b1uz+FoM1sO1bfSWzuuc8HVNNCfmDbKT/m79SlUnYrzkvTOfWL/3caJoD3ZcHeyg5TQAi0D/W2xCF6EJYg==;cuEnXkQIDIEkLnO9S7a+jQ=="
 ---

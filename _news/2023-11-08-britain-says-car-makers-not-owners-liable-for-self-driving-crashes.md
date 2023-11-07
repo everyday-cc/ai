@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Britain says automakers will be liable for self-driving crashes, not owners"
-    excerpt: "The British government announced on Tuesday that, under a framework for advancing autonomous vehicles (AV), it would hold the manufacturers of self-driving cars legally responsible for any accidents, rather than the owners. A decision embraced by both insurance companies and AV startups."
-    publishedDateTime: 2023-11-07T16:22:00Z
-    webUrl: "https://ca.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3168851"
-    ampWebUrl: "https://m.ca.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3168851?ampMode=1"
-    cdnAmpWebUrl: "https://m-ca-investing-com.cdn.ampproject.org/c/s/m.ca.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3168851?ampMode=1"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 57
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXNPEB6S0D8_L.jpg"
-        width: 800
-        height: 572
-        isCached: true
   - title: "Britain says automakers, not car owners, are liable for self-driving crashes"
     excerpt: "LONDON — Britain will make the makers, rather than the owners, of self-driving cars legally liable for any crashes under a framework for developing autonomous vehicles (AV), the government said on Tuesday, in a move welcomed by insurers and AV startups."
     publishedDateTime: 2023-11-07T15:10:00Z
@@ -156,6 +140,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Britain says automakers will be liable for self-driving crashes, not owners"
+    excerpt: "The British government announced on Tuesday that, under a framework for advancing autonomous vehicles (AV), it would hold the manufacturers of self-driving cars legally responsible for any accidents, rather than the owners. A decision embraced by both insurance companies and AV startups."
+    publishedDateTime: 2023-11-07T16:20:00Z
+    webUrl: "https://in.investing.com/news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3890629"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 17
   - title: "Oxa and eVersum Join Self-driving Shuttle Rollout in Belfast Harbour"
     excerpt: "Zero-carbon shuttles built by eVersum and driven by Oxa self-driving software will begin carrying passengers from early 2025 OXFORD, England, & LEIBNITZ, Austria--(BUSINESS WIRE)--Oxa, one of the world’s leading self-driving vehicle software developers ..."
     publishedDateTime: 2023-11-07T09:31:00Z
@@ -166,6 +159,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "JABnqzP5/dNUa4n45NLhLxRXb/bv40uo/wsjKbHO/OtohBi1+THtU+OlCguHVN9/HG6zKMW2ksmIcPUH7N0xvZYp9oSM0ajndgIxRcZDtU0+q3S2Z2u0mENmevwv0/2pinyCzg9rEAfvBTUdAFMjlv2V/4mroMB8XiArHzAhsmUfxJPaALjMqvP3YWhta+nSOJZbMlE0pJinFQUFBD2dDicBhaKgR8lqF+aKlfm90/El54q2k5qYeNFW6vIqa2VP2Ia9PU9uX4t66enQMRh2Fp2esJr1PddYqil9n9GoyeRzYH8hwOl/hmypBWquqzuTFpq2QeXa3QtdY4hfKj0hKY4vDSz5jxD5r8q/QdeG7wk=;Igo8NHlXcHLiBfp5SXLEdA=="
+secured: "LM0MiGEmn9RkoMRUHawhoEU+iVJOCnGQ0e9e2BJRkFJk1OhHR469A0QtOgRr7AW5wh4Kj2PWDns81AFJLupLgjjx9waDPPk43dbwRljLi3ROnngSCOTyoJ/7eDhEGpFWom7L4fk6XU1QCVmO0+wUusdBQrk8T/jY9jMdm8WPfSg5erc9vFZO5gsaZMtVVbU6y7ux2sgW538DN3K+pjym5OH8jEgVjcTm6Mz+kIbg+Vyg6y5leSo/3m+Pzccdyufxb8m2TLuAfD4M0PSpFe/2swiTiSl9RT1h6MShOiLj3X/ibUJjrexZ3t1n7nUtlS6RX9m4H1SF3xPTAafZQQlya/2PblKAPtkqE7Z0yP9yz+z9o9V5YHcK1pa6U/TZbzswIrOpSa2XmT4obC9XmlyJ0cS0pbHzOv3lCHY6sVzxhipSs7ML0lG+Tf7eqQbokon+SAPaNH0FAFWfIROJHE5RV7BnAxv40VvMFddf4jb3oib9loaEI4z1nUm/O0d8Em30NCrCkIU6bCtCt6opItcNxA==;nkojzHS57XSQhk6Qt+6NLw=="
 ---
 

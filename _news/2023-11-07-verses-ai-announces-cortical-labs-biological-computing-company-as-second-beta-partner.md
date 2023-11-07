@@ -1,30 +1,22 @@
 ---
 category: news
 title: "VERSES AI Announces Cortical Labs, Biological Computing Company as Second Beta Partner"
-excerpt: "VERSES AI Inc. (CBOE:VERS) (OTCQB:VRSSF) (\"VERSES'' or the \"Company\"), a cognitive computing company specializing in biologically inspired"
-publishedDateTime: 2023-11-07T12:35:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/11/g35643155/verses-ai-announces-cortical-labs-biological-computing-company-as-second-beta-partner"
-webUrl: "https://www.benzinga.com/pressreleases/23/11/g35643155/verses-ai-announces-cortical-labs-biological-computing-company-as-second-beta-partner"
-ampWebUrl: "https://www.benzinga.com/amp/content/35643155"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35643155"
+excerpt: "Cortical Labs joins VERSES’ beta partnership program, which intends to feature ten partners across multiple industries and of various sizes and stages interested in using VERSES’ Genius™ platform to deploy smarter and safer intelligent software."
+publishedDateTime: 2023-11-07T13:49:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-verses-ai-announces-cortical-labs-biological-computing-company-/2023/11/07/9912734.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-verses-ai-announces-cortical-labs-biological-computing-company-/2023/11/07/9912734.htm"
 type: article
-quality: 51
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Local company's AI-generated employee raises ethical questions"
@@ -56,6 +48,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "CELQO4to6zcfm2T+0eqtZfTrdFGgPFG+wb+8uSw7BRSO5uAVcXcOdAcnH3wY5n+kdxnG3Bcb3bq5n31IWT5jv0158I3yUrWI2W3q71tMIjum88AgQpSCdMrDVqbWAx5rvz7qc5HUR7ygBOfLn7kHoyb1FRsxN1W2gdXuyAFyR49A+0N1Uc0e0l/wmv2bAnqtnBFQE8VEOYzgkJArfjYwu/Y0WlwAreAQmhTKjY5I+eOshHpPgkx6xdCO8YFMJ129gp5frcHzguyDNP30kAlzid0REYfitBY+2+BO6Skm5V1dbRKQDNe9h9qnjjqQQmC3x6fsKTDoYmsMLbI8hIVc3mstgBPJT6GsAH+YWZu3Hqw=;y4XBQiRMyT75P6IA56ZRFw=="
+secured: "ipF5UFhTepMIWTBlR/BDVdYGn73UqmVWokQpoLIe03H0VwpQVVet2mrGtAqQS5kBaUhwaH2DDq+/fByUPbL4jVhh6DoobmIBq59k0KSUT9Y0Pj58qO2s9RTXYuaiRRwUctfT51ufsiF8bDZ4ctFSxHa7gkGzvD4dv7uet5HTmk+OXtgvFpddpm4iipiet0YO0KZbZpjjjnMqzxFoWH2U208PIm4CIt8anQlvJ8Q5IyQTkh3mt+pY4bNdogU7htgkCwRIWRPh0wCOw0Nug2dFDDtBZxsAtvVJnsrXpOXv3Wb3DxFwqYM5dL6PNUYEZcULbebo2U6cbPespzmcDJix6cU2oO5vrYLLopcTw088dKQ=;xgmkCGv+3Uobt3uN8ZxpGQ=="
 ---
 

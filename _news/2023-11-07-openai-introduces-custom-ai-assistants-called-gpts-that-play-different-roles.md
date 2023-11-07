@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/11/openai-introd
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/amp/"
 type: article
 quality: 83
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -106,6 +106,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "QLD, SA governments back Azure OpenAI service in early GenAI experiments"
+    excerpt: "The Queensland government has stood up what it is calling QChat, which is initially based on the Azure OpenAI service but is intended to be technology agnostic in terms of the technology that powers it in future."
+    publishedDateTime: 2023-11-07T20:02:00Z
+    webUrl: "https://www.itnews.com.au/news/qld-sa-governments-back-azure-openai-service-in-early-genai-experiments-602112"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 33
   - title: "GENAI DELIVERS AI COMPUTE EQUIPMENT TO CUSTOMER"
     excerpt: "The Equipment has now been installed at the hosting facility and was tested and validated by the Customer. All of the Equipment went online and became fully operational with full functionality available to the Customer at midnight on November 6,"
     publishedDateTime: 2023-11-07T14:00:00Z

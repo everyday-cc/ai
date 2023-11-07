@@ -85,6 +85,15 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "BIT2023: Banking, Fintech Co-Create Larger Ecosystem, Build Strong Foundation"
+    excerpt: "Get ready to be acquainted with the Who's who of banking and fintech fraternity of the UAE over two consecutive days next week on November15 and Nov"
+    publishedDateTime: 2023-11-07T20:15:00Z
+    webUrl: "https://menafn.com/1107389124/BIT2023-Banking-Fintech-Co-Create-Larger-Ecosystem-Build-Strong-Foundation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 16
 
 secured: "8LUkU+aHH0UauWhBG4IHyKnbCNvgLlL8VOpD+jA9BPwYFDToGWh23VPsgnCSfWouQT5UN6Cjm6wnxG/lDaGg4yX2WWSheZY2s4Q53jJ6q05d0ogeMwkRQYqHK8CZYvF7CIxpWbJrSB+JkBn0nUFKpAommQN+391V1vTEkDP7P8fVQIzZcwroyrnIg6Qr86VIl+Tb0tpn6YMWU9POUW0EOdDHDOJXkiqhkgBARfmdtfXm3EelJGiPTIvwHy5YrmAG2bBzCQPucVv9TcmHbVQkzBU3gjBSUJM6tVx1L0qovyFV37vRQ24F5aJlAGYWwQf5uetGJJ7MRfY7o1gu6MWqlgHBU+GQ9vMUXeUwDp7kQFc=;u+uFD6KlPfwp0rpOkZj46w=="
 ---

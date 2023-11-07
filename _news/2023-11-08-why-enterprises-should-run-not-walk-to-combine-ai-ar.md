@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-07T17:51:00Z
 originalUrl: "https://insidebigdata.com/2023/11/07/why-enterprises-should-run-not-walk-to-combine-ai-ar/"
 webUrl: "https://insidebigdata.com/2023/11/07/why-enterprises-should-run-not-walk-to-combine-ai-ar/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://insidebigdata.com/wp-content/uploads/2023/08/AI_shutterstock_2350706053_special.jpg"
@@ -24,6 +25,6 @@ images:
     height: 550
     isCached: true
 
-secured: "6BpAPsJYzklTbM6nq4Orezykmakn78iw2yZauNgLBvBVw6FK++khFV3F+1XkgWB686Itsa8x46swHEcB/I2E2Lgrinv8e0GRGE1lfDj8immShAzYYuB1t3/glNoTqUs7eStSJq0uPqhBvDvfts/C1iInQ1ED6hvJQecwFQU9gK2CJB/9VeZcACuBfGk/L+L6HKyHd+Khv+0ZoSVsy8oPx7UWTBCEUHcGhaRZcjEO4IIV/eBXpgGuYKWRrZDCwQc9pobUwx4Bvpgwzt48Z0eQQb+SL7VBL5OC2bIci4s1/9fvvAUt/6bnoIcplUbKLjo4XS2hfC4sjZzl9mhDOI8lrQbZi7o8q/e8zAvdW8wj71s=;0lH5q9Pg7pDH1WWeWGv0Eg=="
+secured: "zgs8Z5NsA6Vaumq/jiaJ996RyHJusJbHkYkQ0ShtVp1CdqE2s4TIXAuW6SJWYEF5cdFbamwJxLdASGPra2BSdPrsJGP0BcPDyxPqwYixJbdlzaabHNSzytMt94pS5dEGASUvZ4srcBIH9PIYYrXk5qIBqi9z8HYUfpg9/HlNxPvoYuUGa32hKqwZrG5G4+Y9ndaM/MzbI1wvuO9La7PcKOTnmDqj2AA7Jeg1puN6Eh+19AhlBqAEOv20yJCSR4KubYJhcZOHyoj4qScTWCx8QG9yKMIGzFv3Rh5DFepLZGtm313McMEzerVHgfthK7lKhM1Tqnm+Uc4Eb+NltmsM1rp4NfDTi5BYPD5nzwbqvXiz+Qhtk0ERu0oGnDDCc0+IFJAq77TU0pRliGExWLxjIsWPvH2EJSvwFkUHlgSbHKjhDC1OphAYZ/ei/N3wSiZiuoFHm0bGYeTnoqaY5gOmVORwq75bDTtcBrDe9Uzr6SBmQpe2j7t+8dk62nZmpE3KQbab5cJzvDhhmbkybzeweg==;hrA6Y6WEJ6QQZ8lzGJISeg=="
 ---
 

@@ -33,6 +33,15 @@ related:
         width: 2400
         height: 1260
         isCached: true
+  - title: "Grok AIOps Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Grok AIOps to harness the scalability, reliability, and agility of Azure to drive"
+    publishedDateTime: 2023-11-07T22:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/grok-aiops-now-available-in-the-microsoft-azure-marketplace-1032789712"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
   - title: "Namaste Credit enters into a collaboration with Microsoft Azure over fraud detection solutions"
     excerpt: "Namaste Credit, an underwriting technology platform, has announced a partnership with Microsoft Azure under the STAB Program of G7 CR Technologies – A Noventiq Company."
     publishedDateTime: 2023-11-07T12:15:00Z
@@ -63,6 +72,15 @@ related:
         width: 400
         height: 221
         isCached: true
+  - title: "Amadeus and Microsoft Are Working on More AI Innovations — Here Are 3"
+    excerpt: "Most recently, Amadeus revealed a new AI-powered retail system meant to make airline sales ... Everything will be hosted on the cloud-based Microsoft Azure system, set up in a way that gives clients easy access to real-time data that they can use to ..."
+    publishedDateTime: 2023-11-07T20:44:00Z
+    webUrl: "https://skift.com/2023/11/07/amadeus-and-microsoft-are-working-on-more-ai-innovations-here-are-3/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 34
 
 secured: "wpDptPT3LgoNACnZARJIN9t767IfFyrF//ZNpb9rjFdknRAlgkUHjpxq/kLshB+Mn4XfyTfHr9Ml5VmZa8NQuz8vXlP4kfDzW5TxY/9UkMLHTxs4/3bdoPyXHs479+B1itEwDXlcnrG2N4bSlv4/UpA+tqarBER8NEKkYHVjbxrb/xDuTYCMbvTW3nN4AOu1DyV6y0Rus0jZTek6MNGIwTU7aN8ZWjcR9N4y5DaySGWdAVeGUEyhfVj9YzNRq0OKBXnkBorxku8la0nNpzlgHfhWBdROQHTrOZLAf9J11IdZOAPxtVADA+xtJ85tvix7uu4ywQEdJubnshK/c41KsHrRSpDerG60kVil0bOkWbw=;XT9vU7JKq/URAaYvXCc8+Q=="
 ---

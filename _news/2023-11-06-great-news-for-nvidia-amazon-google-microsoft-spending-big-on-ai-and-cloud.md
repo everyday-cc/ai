@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 797
         isCached: true
+  - title: "Microsoft may introduce AI chip similar to Nvidia GPU – HT Tech"
+    excerpt: "Copyright © HT Media Limited All rights reserved. Microsoft has been investing in artificial intelligence to bring out new innovations. During its surface"
+    publishedDateTime: 2023-11-07T20:22:00Z
+    webUrl: "https://www.inferse.com/787472/microsoft-may-introduce-ai-chip-similar-to-nvidia-gpu-ht-tech/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 86
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-4999.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Microsoft and Inworld AI join forces to create AI tools for game developers"
     excerpt: "Microsoft has announced a partnership with Inworld AI to develop AI game dialogue and narrative tools at scale, including an AI design copilot and an AI character runtime engine."
     publishedDateTime: 2023-11-07T08:48:00Z

@@ -51,6 +51,15 @@ related:
       name: Azorobotics
       domain: azorobotics.com
     quality: 17
+  - title: "Artificial intelligence may help predict – possibly prevent – sudden cardiac death"
+    excerpt: "Predicting sudden cardiac death may be possible using artificial intelligence (AI) to analyze medical information in electronic health records, according to preliminary research conducted by researchers in France."
+    publishedDateTime: 2023-11-06T12:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1006508"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 13
 
 secured: "cjHAfzXSVtaAilzT+qIs6O0hriGm31ClkPEWYFdcWFFxybK2cVsLZCDJ/JUa/esJoHxka/j9ojURnaf4SrCQyXmyoPQZsOsmIuIx+t3VYxA4yTHwU5gkCkMpJJaqgvr2stotn2nt9rxhVEQAuY5PVkT6lgWKXONvyUYW0+u0Ww65nKg8PCVM6z7AxMLXXu+CA2PKVQ6FnUyO94f0tAP1lQqDlNDJXrMpak2Y2wsUOqjpP9Hg/BBqAdcntZNGYbJb4mo6/EKBml/d6BY0sxxSIEi0TwAkP5VGQgKAA6FbT2PvRE6av2lK2/DRJv13ONAabn/kgqcPuuXr7PxIuo8sKfMrGdj26Zf9C1eTjTtxuYizi1/xdP8KTeRxViN3UN5HZtZiH7CQWTPf28GxGEjz2v1ezqyZW0Jz2lsX0hNmfCAcDsu7U1VHwRDxzwH+t+y9Ak8bZQ/DhGQgfZmjvw0ZFrAwpu9DY75peq6+D6Ld8yHCQRBMRV3+ZRysS0Prek9wUM6OlRLyxVd2i6mtY9VmiA==;Z6BoAoxqASLw0lStEIRj0A=="
 ---

@@ -2,13 +2,11 @@
 category: news
 title: "Britain says automakers will be liable for self-driving crashes, not owners"
 excerpt: "The British government announced on Tuesday that, under a framework for advancing autonomous vehicles (AV), it would hold the manufacturers of self-driving cars legally responsible for any accidents, rather than the owners. A decision embraced by both insurance companies and AV startups."
-publishedDateTime: 2023-11-07T16:22:00Z
-originalUrl: "https://ca.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3168851"
-webUrl: "https://ca.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3168851"
-ampWebUrl: "https://m.ca.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3168851?ampMode=1"
-cdnAmpWebUrl: "https://m-ca-investing-com.cdn.ampproject.org/c/s/m.ca.investing.com/news/stock-market-news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3168851?ampMode=1"
+publishedDateTime: 2023-11-07T16:20:00Z
+originalUrl: "https://in.investing.com/news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3890629"
+webUrl: "https://in.investing.com/news/britain-says-automakers-will-be-liable-for-selfdriving-crashes-not-owners-432SI-3890629"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
@@ -19,12 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://i-invdn-com.investing.com/news/LYNXNPEB6S0D8_L.jpg"
-    width: 800
-    height: 572
-    isCached: true
 
 related:
   - title: "Britain Says Car Makers Not Owners Liable For Self-Driving Crashes"
@@ -166,6 +158,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "HbtQ21Ox+x2d2wr7OXhucYDQFDBVlCB/JYJ2pPUjhjf0P03QOuNwnsnhYATizqPvyTMHBWBVLgRgdGFd9CjlesNtI3kL2yVvbFD9A1spevZhUXcusodY+0fy08uCOJ6But3qkmEf++34c0yGnqKL3JqsC6cNvUPh2luGPxzYWEOTsvY9t90rqlKsf7jM+Xv5TBISOyciPhQeTXHXRVkvc6mTvuQcDgUrHX9ejCgv/vaINEXp8K1nlLqCCDgJqoUqOqP/cQz+R+WOOSCE/b8Q9UAOQUrYbOS12c6ESNolkFxMDEaTHrh363STNYM5kv1LX+evD2bOrJYgI2nMALRJYfpRKtUfj53pk0ZODKCunvA=;ra8Dwx/bczZhpmtoeQTH2A=="
+secured: "x2EmaLDmfL42rTQ+7Zj+ip3LBpS2ZcSWVI8uatxiHccZsVgMz1J8Juqd0EzadzWfy8pcSffn0swwzBWRZid005H/8kMgTwLtW9IOH3+xU5A3BrAPpdJqvkc02THQntfzefMVRU4/4kpQP3vNx+hY9n8zqGdqLlGw1NdhE9x2NkosY9jI3A2KTEtxXX5lqaWUNrNaA5trJP6ilXMbujLBVL8Jh2i6g5skBTqG1GvJw5Jg9tVslEfr/XdQQ0E6XjB3h23EtfRGqkNe1cQ5AbwJWBGuzUqvLCG5LzxemDne9/kfQegufZxX1Il62t4oK9OjpGd/4+Lgqh7Uj5xU0UbYvF0aO3Z+4KnFXaYBVg+IKZU=;uYPHOOA7dOqAicsXw6WURg=="
 ---
 

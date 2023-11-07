@@ -8,7 +8,7 @@ webUrl: "https://www.businessinsider.com/elon-musk-humanoid-robots-tesla-hiring-
 ampWebUrl: "https://www.businessinsider.com/elon-musk-humanoid-robots-tesla-hiring-workers-2023-11?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-humanoid-robots-tesla-hiring-workers-2023-11?amp"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i.insider.com/654a1a4e36d588dc55cbff3e?width=1200&format=jpeg"
@@ -60,6 +61,6 @@ related:
         height: 1078
         isCached: true
 
-secured: "n26Hp6l0Do5+FBFewH1go6gkAN5D/jii6u2czEBmspURutaCVO6jKHctV22zJgvG5Pl814pd4SDpO+v8fC5Rlxh14LUJDHeOoaxoRWpB5xSqZOgdICeVfzHWM2Hs1Z3nUnXSEWlBrwuY+1eimDrSVqbUqJDEspZ9ZrwIuLCu3qDo0ol3BHZskWVCA2AkGnW6uDJtJwNJUEn6uQG5Ytm6qbwEfUU9BCDJAbU2pwuJxoG4C6eA3hdsBKtWf5JDF78A1BusM8h2eb6wXJtrPNBoo/In7ONKfEQGRW+55ORhmKKzyVgH60qwnBM/VHbaqLku8qLBxoRLpC6I/IDn57EQ58cf5eF/bu3gLwt5xuCDWJw=;SDyhg8GjM2/t0wYYbGYOOQ=="
+secured: "QauJe8zfJoMuTehK5S+4uNj1AsfxrodgPHWYg1hAzJ9hW+RJ7L8DjNnB08EYIvSEd5/nZjM51PwYhl3PMemOd1Ub3eKjJn9ymDb1Tf4Ute352pes4H4TbN1Fm7oi9EkQ1o67rL36G6KnnFCp9Y/YWG9DQVeuRWWHp6H08vj1USo18WlJrCFPvfSJOijxOXT1BDnL55j+EgFCoI/Ay2/fNBq2qW1MNYp9yyQGWm//KSuiq3qKkauwgT+I5DvTCg3HEwUzfBKtS3S3hAfiS9DT2xsbxo6cn5BiEcZVADEV75+/5vl+JrtsbDk7KfQQ1azqhZrEs0ynF5j84bzKzMM0JuFRkrLk+XWh8iX8oY8OtgBncUrsGVfwrQuLNgK6g+O65SNPLzga61aLCm+dk0wrdY0T/p10YG5JlfiAdglag+KZ6Jh9gVuhYBSXW+7JKMahdrmx/vl5GCgpfcqaSgDawubc/NlvqhrdXpMHmy7zGdYk6ESZwLR1k56eCum/X3GBiwUQsUaawUKyDB15KZy5+g==;X3yG0KIxHwDH+DURZwE7pQ=="
 ---
 

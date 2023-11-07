@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -87,6 +87,15 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "BIT2023: Banking, Fintech Co-Create Larger Ecosystem, Build Strong Foundation"
+    excerpt: "Get ready to be acquainted with the Who's who of banking and fintech fraternity of the UAE over two consecutive days next week on November15 and Nov"
+    publishedDateTime: 2023-11-07T20:15:00Z
+    webUrl: "https://menafn.com/1107389124/BIT2023-Banking-Fintech-Co-Create-Larger-Ecosystem-Build-Strong-Foundation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 16
 
 secured: "wzVjz2ZmYozkV+bupc9D399XB4glDmVYxHVlLZRoNicJbn/G939r8L5tw+K+WwKVSUqrp+kFzLihkgR7KB5Qxga0+ow1yF0qvmWAOS4HAqTkzlSC3NhC9BgXGo4LIhiEf37XyTuWcFbdbwBVM3LYKAXAa2c0IOuqPBQ0ZZuCEUWilinCkE5Y2ECsRj42wCW/UXksXgDURwM/Pn5GJLNJ/5EYeawqL+fPTzf49pAuqjBvCy7FhL+PPDjnWp1WP2/uTrq50rhdwSjF6YVnfKbb1s/CPWNZ+phUjYkIadcaM8ka1KJMsZaeWIQb4IHrhJvRDvfwsS8KOddE4RY8x9dXAPsVODoPj4u1Q4Koc5zxx19kVDfk+u8T/ZwcbyqSy6AHr5Y/+BFWMKHUxh+P6L5tzeHGrQEkR6bt+2dlEZRZwh/CQ0tNxKzG1s5NfWti79nxVz8/aBHsidKwqXrLmXV6aUIk1RZBI7swpVh3P5paoUkkPtPxcFcS2PSy8VztVNGLh0jweZLrEC9FV96PvREz7g==;gwnT2EPVVUGU7T5CIiMeAg=="
 ---

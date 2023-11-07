@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 797
         isCached: true
+  - title: "Microsoft may introduce AI chip similar to Nvidia GPU – HT Tech"
+    excerpt: "Copyright © HT Media Limited All rights reserved. Microsoft has been investing in artificial intelligence to bring out new innovations. During its surface"
+    publishedDateTime: 2023-11-07T20:22:00Z
+    webUrl: "https://www.inferse.com/787472/microsoft-may-introduce-ai-chip-similar-to-nvidia-gpu-ht-tech/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 86
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-4999.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Great News for Nvidia? Amazon, Google, Microsoft Spending Big On AI and Cloud"
     excerpt: "Amazon.Com Inc (NASDAQ: AMZN), Microsoft Corp (NASDAQ: MSFT), and Google parent Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL) are in no mood to compromise in terms of their capital spending to build up capacity as the generative artificial intelligence war heats up."
     publishedDateTime: 2023-11-06T14:29:00Z

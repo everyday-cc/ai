@@ -7,7 +7,7 @@ originalUrl: "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-th
 webUrl: "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/?news-columnists"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         height: 372
         isCached: true
   - title: "Driverless cars: The good, the bad and the AI"
+    excerpt: "GM has expressed how much safer driverless cars are ... \"65% less likely than human-driven cars to be involved in an accident and 74% less likely to be involved in a crash in which there is a meaningful risk of injury,\" according to Isidore and Valdes-Dapena."
+    publishedDateTime: 2023-11-04T21:38:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 34
+  - title: "OPINION | LET'S TALK: Driverless cars: The good, the bad and the AI"
     excerpt: "GM has expressed how much safer driverless cars are ... \"65% less likely than human-driven cars to be involved in an accident and 74% less likely to be involved in a crash in which there is a meaningful risk of injury,\" according to Isidore and Valdes-Dapena."
     publishedDateTime: 2023-11-04T21:38:00Z
     webUrl: "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/"

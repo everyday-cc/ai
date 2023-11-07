@@ -111,6 +111,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "QLD, SA governments back Azure OpenAI service in early GenAI experiments"
+    excerpt: "The Queensland government has stood up what it is calling QChat, which is initially based on the Azure OpenAI service but is intended to be technology agnostic in terms of the technology that powers it in future."
+    publishedDateTime: 2023-11-07T20:02:00Z
+    webUrl: "https://www.itnews.com.au/news/qld-sa-governments-back-azure-openai-service-in-early-genai-experiments-602112"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 33
 
 secured: "NUknPfWr0kD9MK4N7paAwreJegetBjOWnSB1N1q98PGjJF10YP5N2yChlwz0Ub/gqkw5iWmTc858Cw9CTkL78Xt5XiJid9RsMiLpJRsCi8eHSMNE0Pgafo9AaQtco82gf8tIfFY+r6mpYNDoDQ3nwORt2+AzS3DVfHYxBtSUBWgCM4n1FI7Oi8ScMvGJ8+46IwpemyCU148Jd7sDt8pZiCO7MGCHVCcY4REwirKIhudn/Rntu4+K5xDYC82apEqGZGXHWcgQel4pPP7IAXUGOXBBmJuEZXRR7p6vcKSngxekRd/odib2S15SHQozGt5pyS6EjXt3CWiBm3L5hnBH/o2cTZiDyocJgv/FamHSAII6BWpfPCONdnZ+7uSLlg2mybIsCl9XJynU9Z7FjVU5dotUCyXkgpb07WyTC4ZJ5oVZ6Wex3VwZQkyojIuLFZOJ6JNXdCX94ip/PKWz7B8JVUGO8XpxjQpC3F5KI0JVVykPfBjjR1HaCjEZDZffVOSaS53Ba2v5tHVbAfMmd/oE/A==;SwBBejdZExD9jY2kaeTwdg=="
 ---
