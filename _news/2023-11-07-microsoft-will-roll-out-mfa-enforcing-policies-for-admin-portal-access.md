@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-will-roll-
 cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/microsoft-will-roll-out-mfa-enforcing-policies-for-admin-portal-access/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 900
     isCached: true
 
-secured: "U2evgbZ4W1GDNu9GHmll+9trQMLI6IrqsHwVZ04uUqTUx8RVmAKtUmwrFY+bM/0DN3gmLXJSiVSgG1ud+1xzyPAFVvMmA+wqNO/wrs9quAhgVuL05QrfSt/lpxSkpMmc95aQIJkIxXwxTIMI5GUt5VjuQfPbNy21Ra2w8xgU/5//TeWOtzFY5C7nj3miZgFh0CFdtwYNjqu9O9ZMZt0Pcj0OQJ8/dD7cc1Qfx7U2ErIBnKZ4cI/QZ+ak/FbolaeBx4fR46ifVJKvFKiNYGtvh4/dtuWRRkDf8wuTS5y3uTkSD5scODtohWwH2gTxpePePWOg2SrvZeuERSRlstWXzwVw3Gv1yB19ZFtpycfp/Rs=;is5IH/xO+4cyYYwPQqnu6Q=="
+related:
+  - title: "Microsoft Vet Takes Reins at Curbit"
+    excerpt: "He left Microsoft at the beginning of the year and worked for a few months with Curbit, which is built on Azure, to provide guidance on business scaling, then stepped in as its chief executive in September. As Curbit’s AI and machine learning systems ..."
+    publishedDateTime: 2023-11-06T08:05:00Z
+    webUrl: "https://www.sfvbj.com/technology/microsoft-vet-takes-reins-at-curbit/"
+    type: article
+    provider:
+      name: sfvbj
+      domain: sfvbj.com
+    quality: 39
+    images:
+      - url: "https://d2dmozeuai8pbs.cloudfront.net/wp-content/uploads/2023/11/PG03_CURBIT_1106_Employees.png"
+        width: 1000
+        height: 1000
+        isCached: true
+
+secured: "78upspeMssztP6GJXvU0p+ClUQ28umpHXU381zpJl1WqjJjDj5M4G8UlPJnyjQCoxK/jX8f22DaJGMyH8or2N3lxi9wYnCW5eSNl+lBkpDpVvr45/Z5m1meLhWMj3tCXGrNU/g2ki5FUzfhKseV/hER/VMpSFP5JARKpxD9BTNOQIQhfHqELYal7tOkue79/ctRQYQn6BtLn4/5LzK7dWd6aBdlmbqABmrYyt2q8etyS7oS7b7KubAKxBiuJ4+VFcCTDwsQ42H6f1YGWp3Eoepek/q20Xd0VeTxmBSD1xVDvbJ/xYAorLFQi8L7YJ1ErCAOPVcoy5/LCoZPOUIreiweFKQ4WMH8bYIifyQDCtTDuEX1wO/e791gcB+kDlGJpBeFBdo3ierOoZLNk8LJYArAJWrpY5uj36kD9JF1rTzptcEOshE4mjIHiT0wZqiPy5i7jnOIm+wTx5L2XWurQLGImcWG0wkyldVQwoB43IWoKDRLyiT2R6fwIR412685HUEWG6/oooK8O06Za/qfnRQ==;ZwvKKPpItNgTp+9ZSmdFeQ=="
 ---
 

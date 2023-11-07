@@ -1,26 +1,28 @@
 ---
 category: news
-title: "AI models lack transparency: research"
-excerpt: "The best score -- 54 percent -- was given to Llama 2, the AI model launched by Facebook and Instagram ... a researcher at Stanford's Center for Research on Foundation Models, said companies ..."
-publishedDateTime: 2023-10-19T13:17:00Z
-originalUrl: "https://www.enca.com/opinion/ai-models-lack-transparency-research"
-webUrl: "https://www.enca.com/opinion/ai-models-lack-transparency-research"
+title: "AI Models Lack Transparency: Research"
+excerpt: "Artificial intelligence models lack transparency, according to a study published Wednesday that aims to guide policymakers in regulating the rapidly-growing technology."
+publishedDateTime: 2023-10-19T15:16:00Z
+originalUrl: "https://www.barrons.com/news/ai-models-lack-transparency-research-bab70494"
+webUrl: "https://www.barrons.com/news/ai-models-lack-transparency-research-bab70494"
+ampWebUrl: "https://www.barrons.com/amp/news/ai-models-lack-transparency-research-bab70494"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-models-lack-transparency-research-bab70494"
 type: article
 
 provider:
-  name: eNCA
-  domain: enca.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://www.enca.com/sites/default/files/styles/large/public/afp/2023-10/doc-33YM76N-%40photo0.jpg.webp?itok=tKoF250w"
-    width: 480
-    height: 319
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP7609279366103931741601238001285027740756---1.jpg"
+    width: 768
+    height: 511
     isCached: true
 
-secured: "avUpP4PJ5igBwOvK+o8JxPo5YeNwBvk6xD6ugoRBzGLSJjPAt7cfHlzxJ2BBQtW7GagLYVCRwrwZIronacyAD2digprOT5kwAaPJDf30UhD5EvJc5m07JVRN6AroyMpVYddL7PwOl6OefM8xJXwZzBH/aSP3DUpaI1OoNc9NRbK7W8qeoqwvxMFyrShv0x02LaUETDtsl10aQs0F11Cubvps4r3O5FBzoQ23xDE5GN+tcD3JZWY3Fy0b59Zne7r0a2wvnR0xCI8HV9pzmHGdhmm0QAJ5K/oLQUu5PKjOtnNaOxGe2cYmGpH0WnPUD2rGJ5RExWDcylX4efb9V5g6u2jo1qs9i2No6IwU2usMOFU=;O8s6B5gpJKBHFPyxsG4rjA=="
+secured: "yyQs5j0C91sYM4K5g+b5Qal9vDzwyRwE7hjwDpkMgqidqwM6chBxUccEf2fE4nN+b/GX10BoTX2AXSSm7+PrbDmw+Mytnh6cTuditKB9QBRBEVy5vClzE4I536Nr4gkyDA85FFlGy5R6U3/eC0x5x675lBDjUBRCvZPNlijsKjMDoVsrZr5vaqN5NoZDTv9cuGqix3+1GHpuOgSe/t2V0wHWEGq31PrnpL0IL2zZk17ED044qWRQ+YYqS49/aVDhWck2lxRc++YUeERz9NX/mcT+sNmUVF/hMCF0C4YH5qtaUFEAmQQrvYQoWixkQDN5IasIAOMX7eXfrQpICA4P1nYFwjQCIGaHknGWRTzr9Ts=;E4rLs2knBbgilEDtA+O+kA=="
 ---
 

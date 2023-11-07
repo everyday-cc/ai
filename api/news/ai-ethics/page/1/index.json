@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-06-ai-ethics-gets-short-shrift-among-employers-oecd.md",
+      "title": "AI ethics gets short shrift among employers: OECD",
+      "excerpt": "\"Results indicate that in the majority of countries, less than 1 percent of all vacancies mentioned keywords associated with AI ethics,\" the OECD said in its annual job skills report. In the United States in 2019 only 0.1 percent of all online job postings for AI professionals mentioned any keyword associated with ethics in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/ai-ethics-gets-short-shrift-among-employers-oecd-71699280470998.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/ai-ethics-gets-short-shrift-among-employers-oecd-71699280470998.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/11/06/1600x900/AI_ethics_1699281049583_1699281049957.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/ai-ethics-gets-short-shrift-among-employers-oecd-71699280470998.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-ethics-gets-short-shrift-among-employers-oecd-71699280470998.html",
+      "publishedDateTime": "2023-11-06T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-06-ethical-considerations-in-ai-driven-healthcare.md",
       "title": "Ethical Considerations in AI-Driven Healthcare",
       "excerpt": "There are a number of ethical concerns relating to the collection and handling of patient data in AI-driven healthcare. For example, the confidentiality and security of patient information must be ensured to protect patients from the negative impacts of data breaches and unauthorized access.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.news-medical.net/health/Ethical-Considerations-in-AI-Driven-Healthcare.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1391,58 +1434,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/why-your-strategy-for-ai-might-be-to-not-do-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/why-your-strategy-for-ai-might-be-to-not-do-ai/amp/",
       "publishedDateTime": "2023-10-19T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-harnessing-ai-to-take-competitor-analysis-to-the-next-level.md",
-      "title": "Harnessing AI To Take Competitor Analysis To The Next Level",
-      "excerpt": "Recent advances in AI present transformative new capabilities for streamlining and enhancing competitor analysis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652ff4358de9dfa9761ca6a8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1349,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/amp/",
-      "publishedDateTime": "2023-10-19T07:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

@@ -36,6 +36,20 @@ related:
         width: 6000
         height: 4001
         isCached: true
+  - title: "Chinese AI unicorn’s 34B LLM outperforms larger Llama 2 and Falcon models"
+    excerpt: "Kai-Fu Lee's 01.AI offers the Yi series of models, which is open for academic research and free commercial usage."
+    publishedDateTime: 2023-11-07T00:35:00Z
+    webUrl: "https://venturebeat.com/ai/chinese-ai-unicorns-34b-llm-outperforms-larger-llama-2-and-falcon-models/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 68
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/DALL·E-2023-11-06-12.29.53-Visualize-a-small-glowing-robot-standing-triumphantly-atop-a-dark-hill-under-the-night-sky.-This-robot-is-radiating-light-with-its-arms-raised-in-a-.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
   - title: "Alibaba's Ant Group Gets Chinese Govt Approval To Release AI Products"
     excerpt: "Ant Group, the fintech affiliate of Chinese conglomerate Alibaba Group, has received approval from the Chinese government to offer"
     publishedDateTime: 2023-11-06T15:02:00Z

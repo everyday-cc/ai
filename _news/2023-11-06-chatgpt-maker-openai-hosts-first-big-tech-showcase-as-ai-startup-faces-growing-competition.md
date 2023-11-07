@@ -58,23 +58,37 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
-    excerpt: "Musk, who helped start OpenAI before parting ways with the company, launched a new venture this year called xAI to set his own mark on the pace of AI development. Grok is only available to a limited number of early users but promises to answer “spicy ..."
-    publishedDateTime: 2023-11-06T22:20:00Z
-    webUrl: "https://www.krqe.com/news/technology/ap-chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/"
-    ampWebUrl: "https://www.krqe.com/news/technology/ap-chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/amp/"
-    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/technology/ap-chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/amp/"
+  - title: "OpenAI unveils personalized AI apps as it seeks to expand its ChatGPT consumer business"
+    excerpt: "OpenAI CEO Sam Altman shared the updates at the AI lab’s first developer conference, which attracted 900 developers from around the world and marked the company’s latest attempt to capitalize on the popularity of ChatGPT by offering incentives to build in its ecosystem."
+    publishedDateTime: 2023-11-06T23:06:00Z
+    webUrl: "https://www.shorenewsnetwork.com/2023/11/06/openai-unveils-personalized-ai/"
+    ampWebUrl: "https://www.shorenewsnetwork.com/2023/11/06/openai-unveils-personalized-ai/amp/"
+    cdnAmpWebUrl: "https://www-shorenewsnetwork-com.cdn.ampproject.org/c/s/www.shorenewsnetwork.com/2023/11/06/openai-unveils-personalized-ai/amp/"
     type: article
     provider:
-      name: KRQE Blogs
-      domain: krqe.com
-    quality: 43
+      name: shorenewsnetwork
+      domain: shorenewsnetwork.com
+    quality: 49
     images:
-      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2023/11/6549661b9bba13.81881535.jpeg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJA50SF-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
+    excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT has unveiled the future it has in mind for its artificial intelligence technology."
+    publishedDateTime: 2023-11-06T22:16:00Z
+    webUrl: "https://www.local10.com/business/2023/11/06/chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/"
+    type: article
+    provider:
+      name: WPLG
+      domain: local10.com
+    quality: 25
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5JEJOUW6FVDABPDA66265SIHQE.jpg?_a=ATAPphC0"
+        width: 700
+        height: 467
         isCached: true
 
-secured: "nbrJ+FwprRZ/zK8SSnBTdtOaZyESL16i2WsHESo28qefyGO2cmKGjGbscVVivBrtmQ65WlLCz/BrnV2pOlPmolmeFRPae55X5uMMXJTebAKNkn1rHq27W73kXy1fF3Rh8j4Qnmrv90IqNX16jt4ls/N9hqIb0wSn8qAcc3mX0WfDWiUQvDG0ZZAc4ubc6PJjKBQyWOYKyolUE3J/1jIfeYNEFEBbZQOBYZFqSkjV0buUL5ivfenLpcBTRtOY/1l9gXvuoAHhyHjm8+YfJoJOmiF/F8a7Q6bK0/MzevX+AmL41pfEIkQ/vTnZOTGDoi6WPkh5QcPq/AqStryD+kMNaL+HXPJS19Hh39HbUfSVPL4=;a9RymtTxO6V46XJbyfim3g=="
+secured: "AioQiwnt2tjot8ZRBMhPP25adCcAj+xnJZdmKOC6ghWuD/oeTHCdN0eW09PfLFiGkExglI8tKH8WyuAgJUjZKXhLGufy2vhJGTwIUObldFuCjhFGfT0nNAczQPOPrjiPvmW2TdvemX1hsjq+v2pzEV5QfCduvXuGC3iqqp4JdwbChTVRHmi3odoOvkr6VM1DU/oHXGEuVVQRReKWkArjIvAD6cDHJXykudswx7DRZl86OqWmM9c2D2Z6HBqJSqlwg2b7HvkwkxWOO0ne9vZuHKMF5WgCXQqDsr7+vq1EC30EQ/y6MuPEqnuIyqrzxnS2THmV+gPm8IqdQaN+YgFXefyEh+TDHvx/WUgpebHskZIXh9Z2klmIsXl6P7QqytBpQLQL7RWUuGUbU/wr4AzHNm6p+/Ch+bIq5RNkAcCFgwhS+ingHjlNBH/eun+BN49nY8tz50LMOdV+0Y8spwaj/gfL2bMhEK8HceVxr3SCXHvjf3HbpIJd8q8xK5Tw1qk8sKB/CNC66Pm55IUVhjhEXA==;PRMyFhUZI1qbIVSZ0XGcng=="
 ---
 

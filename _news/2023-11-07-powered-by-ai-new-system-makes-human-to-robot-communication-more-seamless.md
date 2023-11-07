@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-11-powered-ai-human-to-robot-commun
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-powered-ai-human-to-robot-communication-seamless.amp"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 600
     isCached: true
 
-secured: "oQu8JkaxrqmgvlKPWSAxhe2gdbnPH4QMOGFaA2hvvSnEbz8LlNtA2JiSYIMHQJeEOaQU4fGeSw6z4iEsWJzgfXGOylTNroXlwMb9CFqVu+oemO62LDGzD2iPAbQncuv1icMjeXPZZGDgh3iN5PMN22gx+fBwv+UMy6TFu3b6k0irxpTufrzEdVmzYz9E2w8RGw3fFVuvT1dK6x9hDu5PAV5nxDSioW8UCtI6shWJgP/N3XV0i+861hAYU+azt0nm5qYG36xTcCC6+y+vnwhMvWq+MvJTICcUwMAT1tdb5pjaU6IqfFTxfRva1/+Nph+cvRmU8mNyyDXXXOWwwjFh6welhU4bc/YfZaMiuRKwRkg=;lZGFfNT8tUcVm20nzAeGiw=="
+secured: "pM3adQ5AFvVS5kwK+DSn7xRi9H8OkkhWUcaHqLjOWM9yFLXs2fdggjhY6FPgjmhrZn23B7VSvsJxzHSItuebPDKbJYd1129lNzaQXSSBSmSFXYvD2bySQuKJN0NMHoctW6PfhOJ8bDk7QIQA+fAPvSpH39DiwNgGDq4gGFgQENCkjmU9ji2DmCFxG+YV81eAAVgw9yqhZNhKbwNVHvcKxXFC9FGu3uHprKAGW5Y5WNjVa4x3haYA/U34FafFzW7/d9PPTDO8e7PZkqc0IPSBQfLSm7C226vMsgY6EnF+Frtx06/rpWS4OsBIpQgqBAr49AcwsHcw9vk/GrL2McqAEMu/0yotzcKPHbfbL8XI0DvjKYNiUYEi/Z11nvLc12UqbwbG2jcyhFNZCfYxdcNOUq00vtfbW5S+PTyRUYlikeaOA1Zx7C3q0kcFkQEEGdlvl2nSrsQ5sqOzqHBXgiJTz3usJxghWTfdF2PQvHNDcH7xYVRF/3QKAM5oxUyIXz4Ba70Gbt/WB4dox65EVluUaQ==;nD954MesC8DUU9LE/QZxag=="
 ---
 

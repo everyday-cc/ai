@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-11-arangographml-simplifying-the-power-of-graph-machine-learning.md",
+      "title": "ArangoGraphML: Simplifying the Power of Graph Machine Learning",
+      "excerpt": "Next-generation graph data and analytics platform now with machine learning and data science features to accelerate innovationSAN FRANCISCO, Oct.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/arangographml-simplifying-the-power-of-graph-machine-learning-1032696541",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/arangographml-simplifying-the-power-of-graph-machine-learning-1032696541",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-deep-learning-explained-unraveling-the-magic-behind-neural-networks.md",
+      "title": "Deep learning explained: Unraveling the magic behind neural networks",
+      "excerpt": "Explained: Are we alone in the universe? Explained: Why are mathematicians obsessed with prime numbers? Dive into the world of deep learning and discover the inner workings of neural networks, the driving force behind modern AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/education/learning-with-toi/deep-learning-explained-unraveling-the-magic-behind-neural-networks/articleshow/103929376.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/education/learning-with-toi/deep-learning-explained-unraveling-the-magic-behind-neural-networks/articleshow/103929376.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-103929347,width-1280,height-720,resizemode-4/103929347.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/education/learning-with-toi/deep-learning-explained-unraveling-the-magic-behind-neural-networks/amp_articleshow/103929376.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/education/learning-with-toi/deep-learning-explained-unraveling-the-magic-behind-neural-networks/amp_articleshow/103929376.cms",
+      "publishedDateTime": "2023-10-11T02:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-rogue-ai-will-learn-to-manipulate-people-to-stop-it-from-being-switched-off-predicts-british-godfather-of-ai.md",
       "title": "Rogue AI will learn to ‘manipulate people’ to stop it from being switched off, predicts British ‘Godfather of AI’",
       "excerpt": "Geoffrey Hinton, a former AI engineer at Google, told 60 Minutes he expected artificial intelligence to become self ... He also set the foundations for the growth of AI through his pioneering neural network, which helped him win a prestigious Turing ...",
@@ -1167,92 +1254,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-chemists-used-machine-learning-and-molecular-modeling-to-identify-potential-anticancer-drugs.md",
-      "title": "Chemists used machine learning and molecular modeling to identify potential anticancer drugs",
-      "excerpt": "RUDN University chemists and colleagues from China built several machine learning models and discovered a group of potential drugs that inhibit the enzyme responsible for uncontrolled cell division. The results were published in Biomedicines.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-09-chemists-machine-molecular-potential-anticancer.html",
-      "originalUrl": "https://phys.org/news/2023-09-chemists-machine-molecular-potential-anticancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/chemists-used-ml-and-m.jpg",
-          "width": 2880,
-          "height": 1508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-09-chemists-machine-molecular-potential-anticancer.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-chemists-machine-molecular-potential-anticancer.amp",
-      "publishedDateTime": "2023-09-26T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-a-reinforcement-learning-based-method-to-plan-the-coverage-path-and-recharging-of-unmanned-aerial-vehicles.md",
-      "title": "A reinforcement learning-based method to plan the coverage path and recharging of unmanned aerial vehicles",
-      "excerpt": "Unmanned aerial vehicles (UAVs), commonly known as drones, have already proved invaluable for tackling a wide range of real-world problems. For instance, they can assist humans with deliveries, environmental monitoring,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-09-learning-based-method-coverage-path-recharging.html",
-      "originalUrl": "https://techxplore.com/news/2023-09-learning-based-method-coverage-path-recharging.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/a-reinforcement-learni.jpg",
-          "width": 1280,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-09-learning-based-method-coverage-path-recharging.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-learning-based-method-coverage-path-recharging.amp",
-      "publishedDateTime": "2023-09-26T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null

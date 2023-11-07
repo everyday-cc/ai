@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-08-04-amds-outlook-on-ai-chips-was-just-ok-is-the-stock-still-a-buy.md",
+      "title": "AMD's Outlook on AI Chips Was Just OK -- Is the Stock Still a Buy?",
+      "excerpt": "AMD was dragged down last quarter by another large slump in PC and laptop sales. AI chips are growing fast but aren't yet having the dramatic impact some investors anticipated. The stock looks ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/08/04/amd-outlook-ai-chips-just-ok-is-stock-a-buy/",
+      "originalUrl": "https://www.fool.com/investing/2023/08/04/amd-outlook-ai-chips-just-ok-is-stock-a-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/742369/data-center-infrastructure-information-technology.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-ai-chip-startup-tenstorrent-lands-100m-investment-from-hyundai-and-samsung.md",
       "title": "AI chip startup Tenstorrent lands $100M investment from Hyundai and Samsung",
       "excerpt": "Case in point, Tenstorrent, the AI hardware startup helmed by engineering luminary Jim Keller ... for future mobility vehicles and robots. Samsung Catalyst and other VC funds, including Fidelity Ventures, Eclipse Ventures, Epiq Capital and Maverick ...",
@@ -1384,58 +1436,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth.md",
-      "title": "Chip-equipment suppliers rally after Lam says AI servers will drive growth",
-      "excerpt": "Semiconductor-related stocks surged Thursday, and leading the pack were stocks of the companies that make the equipment used to make chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth-87ada70b",
-      "originalUrl": "https://www.marketwatch.com/story/chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth-87ada70b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-473098/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth-87ada70b",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth-87ada70b",
-      "publishedDateTime": "2023-07-27T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

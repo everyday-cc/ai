@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-06-mediatek-challenges-qualcomm-with-ai-assisted-dimensity-9300-chip-for-phones.md",
+      "title": "MediaTek Challenges Qualcomm With AI-Assisted Dimensity 9300 Chip for Phones",
+      "excerpt": "MediaTek claims its new flagship mobile processor, the Dimensity 9300, will provide the performance, AI power, and multimedia capabilities needed to take on the best chips from Apple, Google, and Qualcomm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/mediatek-challenges-qualcomm-with-ai-assisted-dimensity-9300-chip-for-phones",
+      "originalUrl": "https://www.pcmag.com/news/mediatek-challenges-qualcomm-with-ai-assisted-dimensity-9300-chip-for-phones",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02S0iYuzbLrZPegs2SeDnYu-1.fit_lim.size_1200x630.v1699029835.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-how-can-ai-revolutionize-vietnams-music-industry.md",
+      "title": "How Can AI Revolutionize Vietnam’s Music Industry?",
+      "excerpt": "Vietnamese artists can potentially utilize AI as a powerful tool for building and maintaining connections with their global fanbase. AI-powered chatbots and virtual assistants can serve as round-the-clock ambassadors, engaging with fans across different time zones, answering inquiries, and fostering a sense of continuous interaction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/06/how-can-ai-revolutionize-vietnams-music-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/06/how-can-ai-revolutionize-vietnams-music-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65454a5cda9f71e798164f1d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 924,
+          "height": 615,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/06/how-can-ai-revolutionize-vietnams-music-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/06/how-can-ai-revolutionize-vietnams-music-industry/amp/",
+      "publishedDateTime": "2023-11-06T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-06-code-companions-the-rise-of-the-automated-developer.md",
       "title": "Code Companions - The Rise Of The Automated Developer",
       "excerpt": "Okay, not everything is automated yet, but we are applying automation controls to every fabric of our society from auto-sensing driver alerts in newer smart vehicles",
@@ -115,7 +219,7 @@
       "originalUrl": "https://www.ibm.com/blog/4-ways-to-empower-small-and-medium-businesses-with-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -245,6 +349,95 @@
       ]
     },
     {
+      "path": "_news/2023-11-06-pytorch-vs-tensorflow-machine-learning-frameworks-compared.md",
+      "title": "PyTorch vs TensorFlow machine learning frameworks compared",
+      "excerpt": "JAX is a newer entrant into the numerical computing space, backed by Google, and is quickly gaining traction in the deep learning community. It offers an efficient environment for numerical computations, automatic differentiation, and GPU/TPU support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/pytorch-vs-tensorflow/",
+      "originalUrl": "https://www.geeky-gadgets.com/pytorch-vs-tensorflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/PyTorch-vs-TensorFlow.jpg",
+          "width": 1280,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T00:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-trained-on-chips-gen-ai-is-shaping-the-chip-industry.md",
+      "title": "Trained on Chips, Gen AI is Shaping the Chip Industry",
+      "excerpt": "ChipNeMo is trained on the company’s internal data to generate and optimise software in designing semiconductors by customising large language models with the help of NVIDIA NeMo —a cloud-native framework for developers to create and deploy generative AI models with billions of parameters.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/trained-on-chips-gen-ai-is-shaping-the-chip-industry/",
+      "originalUrl": "https://analyticsindiamag.com/trained-on-chips-gen-ai-is-shaping-the-chip-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/11/unnamed-13.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-05T21:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-06-tech-giants-jockey-for-position-at-dawn-of-ai-age.md",
       "title": "Tech Giants Jockey For Position At Dawn Of AI Age",
       "excerpt": "Whether they sell smartphones, ads or computer chips, the heavyweights of Silicon Valley have everything to prove to investors looking to see who is best placed in the race to dominate the generative artificial intelligence market.",
@@ -253,7 +446,7 @@
       "originalUrl": "https://www.barrons.com/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -347,7 +540,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/11/06/elon-musk-new-ai-integrate-x/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -768,7 +961,7 @@
       "originalUrl": "https://www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -980,170 +1173,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-standard-ai-named-an-idc-innovator-in-computer-vision-for-automated-checkout-and-self-checkout.md",
-      "title": "Standard AI Named an “IDC Innovator” in Computer Vision for Automated Checkout and Self-Checkout",
-      "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--Standard AI, world leader in retail AI, today announced that it has been named an “IDC Innovator” in the IDC Innovators: Computer Vision for Automated Checkout ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231101666146/en/Standard-AI-Named-an-“IDC-Innovator”-in-Computer-Vision-for-Automated-Checkout-and-Self-Checkout",
-      "originalUrl": "https://www.businesswire.com/news/home/20231101666146/en/Standard-AI-Named-an-“IDC-Innovator”-in-Computer-Vision-for-Automated-Checkout-and-Self-Checkout",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-5-best-ai-stocks-to-invest-in-for-2023.md",
-      "title": "5 Best AI Stocks to Invest In for 2023",
-      "excerpt": "Today, Amazon uses artificial intelligence for everything from Alexa, its industry-leading voice-activated technology, to its Amazon Go cashierless grocery stores, to Amazon Web Services Sagemaker, the cloud infrastructure tool that deploys high-quality ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=4a887e99-f88b-4adf-a584-d9b172b45477",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=4a887e99-f88b-4adf-a584-d9b172b45477",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-adastra-signs-strategic-collaboration-agreement-with-aws-to-drive-ai-powered-solutions-globally.md",
-      "title": "Adastra Signs Strategic Collaboration Agreement with AWS to Drive AI-Powered Solutions Globally",
-      "excerpt": "Adastra, a leading global Data and Analytics solutions provider, announced today that it has signed a Strategic Collaboration Agreement (SCA) with Ama",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231101268759/en/Adastra-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Drive-AI-Powered-Solutions-Globally",
-      "originalUrl": "https://www.businesswire.com/news/home/20231101268759/en/Adastra-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Drive-AI-Powered-Solutions-Globally",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-how-ai-and-machine-learning-help-detect-and-prevent-fraud.md",
-      "title": "How AI And Machine Learning Help Detect And Prevent Fraud",
-      "excerpt": "Bespoke fraud ML models are powered by algorithms that learn from historical data, picking up on behaviors and characteristics commonly associated with fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/01/how-ai-and-machine-learning-help-detect-and-prevent-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/01/how-ai-and-machine-learning-help-detect-and-prevent-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

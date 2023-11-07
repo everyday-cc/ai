@@ -1,28 +1,27 @@
 ---
 category: news
 title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
-excerpt: "Musk, who helped start OpenAI before parting ways with the company, launched a new venture this year called xAI to set his own mark on the pace of AI development. Grok is only available to a limited number of early users but promises to answer “spicy ..."
-publishedDateTime: 2023-11-06T22:20:00Z
-originalUrl: "https://www.krqe.com/news/technology/ap-chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/"
-webUrl: "https://www.krqe.com/news/technology/ap-chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/"
-ampWebUrl: "https://www.krqe.com/news/technology/ap-chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/amp/"
-cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/technology/ap-chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/amp/"
+excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT has unveiled the future it has in mind for its artificial intelligence technology."
+publishedDateTime: 2023-11-06T22:16:00Z
+originalUrl: "https://www.local10.com/business/2023/11/06/chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/"
+webUrl: "https://www.local10.com/business/2023/11/06/chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/"
 type: article
-quality: 43
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: KRQE Blogs
-  domain: krqe.com
+  name: WPLG
+  domain: local10.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://www.krqe.com/wp-content/uploads/sites/12/2023/11/6549661b9bba13.81881535.jpeg?w=1280"
-    width: 1280
-    height: 853
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5JEJOUW6FVDABPDA66265SIHQE.jpg?_a=ATAPphC0"
+    width: 700
+    height: 467
     isCached: true
 
 related:
@@ -58,6 +57,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "OpenAI unveils personalized AI apps as it seeks to expand its ChatGPT consumer business"
+    excerpt: "OpenAI CEO Sam Altman shared the updates at the AI lab’s first developer conference, which attracted 900 developers from around the world and marked the company’s latest attempt to capitalize on the popularity of ChatGPT by offering incentives to build in its ecosystem."
+    publishedDateTime: 2023-11-06T23:06:00Z
+    webUrl: "https://www.shorenewsnetwork.com/2023/11/06/openai-unveils-personalized-ai/"
+    ampWebUrl: "https://www.shorenewsnetwork.com/2023/11/06/openai-unveils-personalized-ai/amp/"
+    cdnAmpWebUrl: "https://www-shorenewsnetwork-com.cdn.ampproject.org/c/s/www.shorenewsnetwork.com/2023/11/06/openai-unveils-personalized-ai/amp/"
+    type: article
+    provider:
+      name: shorenewsnetwork
+      domain: shorenewsnetwork.com
+    quality: 49
+    images:
+      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJA50SF-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "ChatGPT-maker OpenAI hosts first big tech showcase as AI startup faces growing competition"
     excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT unveiled the future it has in mind for its artificial intelligence technology on Monday as it launched a new line of chatbot products that can be customized to a variety of tasks."
     publishedDateTime: 2023-11-06T15:16:00Z
@@ -75,6 +90,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3FLPmmnO7G6RTFUkfwS0nwXsyBGvIieEIv2CbANCgW8ughTTWnFxZNzCp6PfcmkHYE8bzqSnAlHxm5AfbS+0PdvzIcSVhiqEPvDDEqCeqzuy+s/06Nk9zP4C3QS4wxqhHnEd7A1NEFUGFaOfeOoJW2IBy4hRqDzpaDlekZPcT+oTaTR8VJTOYvcF6ttp8XxHD6oTVfmxkl4zAUS9idUzo69i7bO3DRPJmKcNgV5cBY8I1wEvGITxEOd49J5dE69TXKRQ/3Bic/EnNQ7aTS1kp6rYhnnEz1ZELRCXnxLQlTGTrypdbq9ayCMBX0yJiPIF+I1sTsgHOv+T3z3KKK717tGjHR2SYASYKNonYWEFqyk=;38HLt+IBhSrYgz4qun6yxQ=="
+secured: "bli3QUKD4cPuYnhd0B5q8JStB0W1Egt/MIOInsD01s69NkRA8PNi80xHunty3kKY2SiYuC6/yMUWkN65xhGoboiIYscRG4bPtNc+Rd0kXRb6Eh92i9PQUEZRXZa4JFg9NuUAoxBUJWLFsdqkC6vyZZBUh23zsUB+4dtHr1hba82aoCedVi2Wg7HwcZbsZMu9O4qNp3gdOOQcQVTsiVT3D/y7Uls2vGWeL7H/HJxLQcliX6uuftFTSMTo8p4K6zJV8TBG7pR73JW2Ik3MCkCo6nDuQ8Grt85iskbWtMU/JsNQPMeuoBY7f/eHLv/wSyegf9YSot2GF2QjDdNQkw3oBKtX6GDbxProoJAWwTkkkjc=;SvFiNbqlhKZn4eloR+ybhQ=="
 ---
 

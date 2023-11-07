@@ -2,6 +2,259 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-10-20-the-us-has-failed-to-pass-ai-regulation-new-york-city-is-stepping-up.md",
+      "title": "The US Has Failed to Pass AI Regulation. New York City Is Stepping Up",
+      "excerpt": "Amit Katwala Millions of Workers Are Training AI Models for Pennies From the Philippines to Colombia, low-paid workers label training data for AI models used by the likes of Amazon, Facebook ... Bengio’s pioneering research helped bring about ChatGPT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/us-failed-to-pass-ai-regulation-new-york-city-stepping-up/",
+      "originalUrl": "https://www.wired.com/story/us-failed-to-pass-ai-regulation-new-york-city-stepping-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/653079e6549979de398d2200/191:100/w_1280,c_limit/New-York-AI-Restrictions-Business-1311390274.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-defect-detection-in-high-resolution-imagery-using-two-stage-amazon-rekognition-custom-labels-models.md",
+      "title": "Defect detection in high-resolution imagery using two-stage Amazon Rekognition Custom Labels models",
+      "excerpt": "High-resolution imagery is very prevalent in today’s world, from satellite imagery to drones and DLSR cameras. From this imagery, we can capture damage due to natural disasters, anomalies in manufacturing equipment, or very small defects such as defects on printed circuit boards (PCBs) or semiconductors.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/defect-detection-in-high-resolution-imagery-using-two-stage-amazon-rekognition-custom-labels-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/defect-detection-in-high-resolution-imagery-using-two-stage-amazon-rekognition-custom-labels-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/19/high-resolution-two-stage-1260x630.jpg",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T11:00:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-here-come-the-custobots-ai-pervades-gartners-top-10-strategic-technology-trends.md",
+      "title": "Here come the 'custobots': AI pervades Gartner's top 10 strategic technology trends",
+      "excerpt": "Gartner delivers its top IT predictions for the next decade, while exploring how generative AI has changed executive leaders' way of thinking on every subject.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-dominates-gartners-top-10-strategic-technology-trends/",
+      "originalUrl": "https://www.zdnet.com/article/ai-dominates-gartners-top-10-strategic-technology-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7914167cdad6ee607ca901e68fd8d97bcf912efa/2023/10/19/e2211636-9fcc-43d6-9fac-8fb086f179ab/colorlight-gettyimages-1020063054.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-dominates-gartners-top-10-strategic-technology-trends/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-dominates-gartners-top-10-strategic-technology-trends/",
+      "publishedDateTime": "2023-10-19T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-ai-demand-for-nvidia-chips-keeps-rising-new-china-restrictions-are-likely-just-noise.md",
+      "title": "AI Demand for Nvidia Chips Keeps Rising. New China Restrictions Are Likely Just Noise.",
+      "excerpt": "Taiwan Semiconductor Manufacturing’s earnings commentary shows that demand for AI applications and Nvidia chips are improving. Nvidia stock should benefit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/nvidia-tsmc-stock-ai-chips-china-earnings-e6fc5dc9",
+      "originalUrl": "https://www.barrons.com/articles/nvidia-tsmc-stock-ai-chips-china-earnings-e6fc5dc9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-61078969/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-tsmc-stock-ai-chips-china-earnings-e6fc5dc9",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-tsmc-stock-ai-chips-china-earnings-e6fc5dc9",
+      "publishedDateTime": "2023-10-19T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-ampere-makes-a-strong-case-for-on-chip-ai.md",
+      "title": "Ampere Makes A Strong Case For On-Chip AI",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into Ampere’s Altra and AmpereOne CPUs and their compelling value proposition for certain AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6531665c3f2160c1e04b2d4d/0x0.jpg?format=jpg&crop=1024,576,x0,y159,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/amp/",
+      "publishedDateTime": "2023-10-19T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-10-20-is-artificial-intelligence-the-new-weapon-in-global-threats.md",
       "title": "Is artificial intelligence the new weapon in global threats?",
       "excerpt": "Violence in the Middle East is prompting new threats in the U.S. On full display, at protests worldwide there is a deep anger, some experts say soon may be used to harness new ways to try to launch attacks or exploit intelligence in parts of the world bad actors could never set foot in,",
@@ -293,6 +546,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-ai-models-lack-transparency-research.md",
+      "title": "AI Models Lack Transparency: Research",
+      "excerpt": "Artificial intelligence models lack transparency, according to a study published Wednesday that aims to guide policymakers in regulating the rapidly-growing technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/ai-models-lack-transparency-research-bab70494",
+      "originalUrl": "https://www.barrons.com/news/ai-models-lack-transparency-research-bab70494",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP7609279366103931741601238001285027740756---1.jpg",
+          "width": 768,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/ai-models-lack-transparency-research-bab70494",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-models-lack-transparency-research-bab70494",
+      "publishedDateTime": "2023-10-19T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -779,49 +1075,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-19-ai-models-lack-transparency-research.md",
-      "title": "AI models lack transparency: research",
-      "excerpt": "The best score -- 54 percent -- was given to Llama 2, the AI model launched by Facebook and Instagram ... a researcher at Stanford's Center for Research on Foundation Models, said companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.enca.com/opinion/ai-models-lack-transparency-research",
-      "originalUrl": "https://www.enca.com/opinion/ai-models-lack-transparency-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.enca.com/sites/default/files/styles/large/public/afp/2023-10/doc-33YM76N-%40photo0.jpg.webp?itok=tKoF250w",
-          "width": 480,
-          "height": 319,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eNCA",
-        "domain": "enca.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-19-fda-grants-fast-track-designation-to-anpd001-autologous-investigational-cell-therapy-for-the-treatment-of-parkinsons-disease.md",
       "title": "FDA Grants Fast Track Designation to ANPD001, Autologous Investigational Cell Therapy for the Treatment of Parkinson's Disease",
       "excerpt": "These cells are then evaluated for potential activity using robust quality control assays, including Aspen's proprietary artificial intelligence-based genomics tests, before being implanted. About ANPD001 ANPD001 is an investigational cell therapy ...",
@@ -947,221 +1200,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-altoida-to-present-poster-presentations-highlighting-augmented-reality-based-cognitive-assessment-at-ctad-2023.md",
-      "title": "Altoida to Present Poster Presentations Highlighting Augmented Reality-Based Cognitive Assessment at CTAD 2023",
-      "excerpt": "Altoida, a pioneer in developing digital biomarkers of neurological disease using augmented reality and machine learning, announced today it will be presenting poster presentations at the 16th Annual Clinical Trials on Alzheimer’s Disease (CTAD) conference,",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/altoida-to-present-poster-presentations-highlighting-augmented-reality-based-cognitive-assessment-at-ctad-2023/article_8168016c-3293-55f4-9c13-a2793c96cf17.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/altoida-to-present-poster-presentations-highlighting-augmented-reality-based-cognitive-assessment-at-ctad-2023/article_8168016c-3293-55f4-9c13-a2793c96cf17.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily News",
-        "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-responsible-ai-the-art-of-balancing-power-with-responsibility.md",
-      "title": "Responsible AI: The Art Of Balancing Power With Responsibility",
-      "excerpt": "AI’s unprecedented reach and speed have also sparked debates about potential misuse. What's the way forward?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/amp/",
-      "publishedDateTime": "2023-10-19T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-tackling-a-new-era-of-problems-for-ai-and-ml-models.md",
-      "title": "Tackling A New Era Of Problems For AI And ML Models",
-      "excerpt": "Technological advancements like AI have aided growth, but they’ve also given birth to a new set of security challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a-new-era-of-problems-for-ai-and-ml-models/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a-new-era-of-problems-for-ai-and-ml-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624ee73bfc67b2e5f6ca5af8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a-new-era-of-problems-for-ai-and-ml-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a-new-era-of-problems-for-ai-and-ml-models/amp/",
-      "publishedDateTime": "2023-10-19T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-after-much-hype-self-driving-cars-could-transform-cities-says-motional-cto.md",
-      "title": "After much hype, self-driving cars could transform cities, says Motional CTO",
-      "excerpt": "They are the next step in bridging the gap between human capability and artificial intelligence, according to Laura Major, chief technology officer of Motional, a Boston-based self-driving car ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2023/10/19/business/self-driving-cars-motional-laura-major-say-more/",
-      "originalUrl": "https://www.bostonglobe.com/2023/10/19/business/self-driving-cars-motional-laura-major-say-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-company-says-facial-recognition-cant-be-used-in-arrests-but-its-happening-in-evansville.md",
-      "title": "Company says facial recognition can't be used in arrests, but it's happening in Evansville",
-      "excerpt": "EVANSVILLE — The CEO of Clearview AI, whose company provides the Evansville Police Department with facial recognition technology, said the software's results are \"only leads for law enforcement ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courierpress.com/story/news/local/2023/10/19/evansville-police-using-clearview-ai-facial-recognition-to-make-arrests/70963350007/",
-      "originalUrl": "https://www.courierpress.com/story/news/local/2023/10/19/evansville-police-using-clearview-ai-facial-recognition-to-make-arrests/70963350007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T03:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Evansville Courier & Press",
-        "domain": "courierpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

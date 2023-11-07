@@ -2,6 +2,229 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-10-27-generative-ai-in-real-estate-emphasizing-whats-human-in-housing.md",
+      "title": "Generative AI In Real Estate: Emphasizing What’s Human In Housing",
+      "excerpt": "Here are a few ways generative AI can enhance the housing industry from a resources and processes perspective.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/653add73b8a4fb3de24d55c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1247,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/amp/",
+      "publishedDateTime": "2023-10-27T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-tesla-faces-automated-driving-rival-in-geely-and-baidu-ev.md",
+      "title": "Tesla Faces Automated Driving Rival in Geely and Baidu EV",
+      "excerpt": "Competition is intensifying in China’s automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-10-27/tesla-faces-self-driving-challenger-as-geely-and-baidu-launch-ev",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-10-27/tesla-faces-self-driving-challenger-as-geely-and-baidu-launch-ev",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-ai-and-the-future-of-work-adapting-to-a-changing-landscape.md",
+      "title": "AI And The Future Of Work: Adapting To A Changing Landscape",
+      "excerpt": "Nvidia, a leading technology company, recently announced a significant increase in earnings, with their revenue doubling due to the high demand for its AI chips that power new machine learning applications;",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6307744cdf865cb5591b5fd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
+      "publishedDateTime": "2023-10-27T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-to-maximize-roi.md",
+      "title": "MediaGo Empowers Advertisers with Enhanced Smartbid Capabilities to Maximize ROI",
+      "excerpt": "Leveraging deep learning technology, MediaGo's new Smartbid feature creates tangible value for performance advertisers by effectively managing the bidding process. The Smartbid model, built on a deep neural network with over 1 billion parameters, enables significant improvements in ad performance for advertisers at all scales.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-maximize-/2023/10/27/9906693.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-maximize-/2023/10/27/9906693.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers.md",
+      "title": "Using facial recognition, SITA and Fraport enable a contactless travel experience for all airline passengers",
+      "excerpt": "Frankfurt becomes the first European airport to offer full-coverage biometric systems, another milestone in the expansion of Fraport’s digital passenger processes",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers-u0iwgdbx",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers-u0iwgdbx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MDc1ZTUxM2EtMzE2ZC00/0/1-jpg.jpeg?f=3%3A2",
+          "width": 528,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers-u0iwgdbx?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers-u0iwgdbx?amp=1",
+      "publishedDateTime": "2023-10-27T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-27-unified-endpoint-management-vs-device-lifecycle-management-what-do-they-have-in-common.md",
       "title": "Unified Endpoint Management vs. device lifecycle management: what do they have in common?",
       "excerpt": "Both protect corporate data, ensure a great user experience, enhance cybersecurity overall and create a great digital workspace.\nThe post Unified Endpoint Management vs. device lifecycle management: what do they have in common? appeared first on IBM Blog.\n",
@@ -907,260 +1130,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-generative-ai-is-coming-to-robots-courtesy-of-nvidia.md",
-      "title": "Generative AI is Coming to Robots, Courtesy of NVIDIA",
-      "excerpt": "As generative AI continues to revolutionize text and natural language processing, it’s also impacting computer vision. This transformative technology is expected to bring advancements in autonomous machines and robotics, where cameras play a pivotal role.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-robots-nvidia/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-robots-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 238,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/09/ew_09272023-will-ai-replace-jobs.png",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-what-the-uns-ai-advisory-group-will-do.md",
-      "title": "What the U.N.’s AI Advisory Group Will Do",
-      "excerpt": "While the body will have little power itself, its recommendations could shape a future U.N. agency for AI governance",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6328861/un-advisory-group-ai/",
-      "originalUrl": "https://time.com/6328861/un-advisory-group-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2023/10/un-ai-advisory-board.jpg?quality=85",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-intelligently-search-drupal-content-using-amazon-kendra.md",
-      "title": "Intelligently search Drupal content using Amazon Kendra",
-      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra helps you easily aggregate content from a variety of content repositories into a centralized index that lets you quickly search all your enterprise data and find the most accurate answer. Drupal is a content",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-drupal-content-using-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-drupal-content-using-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/20/ml-13088-image003-1178x630.jpg",
-          "width": 1178,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T10:37:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-intuitivo-achieves-higher-throughput-while-saving-on-aiml-costs-using-aws-inferentia-and-pytorch.md",
-      "title": "Intuitivo achieves higher throughput while saving on AI/ML costs using AWS Inferentia and PyTorch",
-      "excerpt": "This is a guest post by Jose Benitez, Founder and Director of AI and Mattias Ponchon, Head of Infrastructure at Intuitivo. Intuitivo, a pioneer in retail innovation, is revolutionizing shopping with its cloud-based AI and machine learning (AI/ML) transactional processing system. This groundbreaking technology",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intuitivo-achieves-higher-throughput-while-saving-on-ai-ml-costs-using-aws-inferentia-and-pytorch/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intuitivo-achieves-higher-throughput-while-saving-on-ai-ml-costs-using-aws-inferentia-and-pytorch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/23/ML15012_APop-842x630.png",
-          "width": 842,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T10:23:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-exploring-the-details-of-an-energy-saving-ai-chip.md",
-      "title": "Exploring the details of an energy-saving AI chip",
-      "excerpt": "Hussam Amrouch has developed an AI-ready architecture that is twice as powerful as comparable in-memory computing approaches. As reported in the journal Nature Communications, the professor at the Technical University of Munich (TUM) applies a new computational paradigm using special circuits known as ferroelectric field effect transistors (FeFETs).",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.html",
-      "originalUrl": "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/an-energy-saving-ai-ch.jpg",
-          "width": 1750,
-          "height": 1466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp",
-      "publishedDateTime": "2023-10-26T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

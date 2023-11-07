@@ -51,6 +51,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
+  - title: "How to Leverage Generative Artificial Intelligence in Customer Service"
+    excerpt: "One way for businesses to leverage generative AI to improve the customer experience is to upgrade their call center technology with AI-driven solutions. This includes implementing intelligent bots to directly handle certain aspects of the customer experience while enhancing others."
+    publishedDateTime: 2023-11-06T22:30:00Z
+    webUrl: "https://biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service"
+    ampWebUrl: "https://biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202311/GettyImages-1473086732.jpg?itok=owGHTh-q"
+        width: 1440
+        height: 500
+        isCached: true
 
 secured: "MuGqDEYBtTVm9MuPpn+hPeiKoRdBlYXD7F7wJXZ4yv0TrGZjJrzxGpiqCWEtqkeI3m7tWX0r9e2vGeZkZkN/W3e3Fo+xn0zxJC0LF9RKtbR2vLfHj46ph3gEEaEwwXD2KPxQcI+0cuIWa+i6KKShOFkIC0gwjF35wmfe/mjngg9207OtGGMyJSPJ/VSuUohYg0XDkjnYWVeqOm0Cwp3GhKnNjUUJqjEZk5peFmUJ1ODtgQwXb0zONULvoDDvk7K75cqVoeaHWe8OpOB2U23u6IKz/kYrsya8Bl+F6Me2/VZVdR8mDEiolWGOU7D9PwRRa2Bx4eD9iIlrCMfMnd+XzK6HxBT39xR2ixnaSSvtLDNIJTvAP3iK+hjkwuYymt/rNfBAU2guCE6gs9IzLafXap4x5YR2dqePmo9IH+wJeUIbxIoG+LHb+z4bRUHucpqmLZIqHM8j5euJDCuun/4N+uSs/Ac4e09YEW/So4E4SGWHQHyz+Eb0SZ2q6nCaKUJd0ur/1o+/K0mitg549ZA56w==;85tf5thG/ytyxexoE9f4AQ=="
 ---

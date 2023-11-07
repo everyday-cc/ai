@@ -25,16 +25,23 @@ images:
     isCached: true
 
 related:
-  - title: "Azure Communications Services is Microsoft's new managed communication platform"
-    excerpt: "At its annual Ignite conference, Microsoft announced Azure Communications ... Developers can easily tap into other Azure services, such as Azure Cognitive Services for translation, sentiment ..."
-    publishedDateTime: 2023-11-02T06:20:00Z
-    webUrl: "https://www.neowin.net/news/azure-communications-services-is-microsofts-new-managed-communication-platform/"
+  - title: "Microsoft will roll out MFA-enforcing policies for admin portal access"
+    excerpt: "Microsoft will roll out Conditional Access policies requiring multifactor authentication from administrators when signing into Microsoft admin portals such as Microsoft Entra, Microsoft 365, Exchange,"
+    publishedDateTime: 2023-11-06T19:00:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-will-roll-out-mfa-enforcing-policies-for-admin-portal-access/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-will-roll-out-mfa-enforcing-policies-for-admin-portal-access/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/microsoft-will-roll-out-mfa-enforcing-policies-for-admin-portal-access/amp/"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 60
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 59
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2023/10/19/Microsoft.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
-secured: "11YMTEaIwkeIjcld+mitMBAfmdLDZjZa7r3Vn7VUtS/Mj7oVnhwF/k5ZQmpRstVqeDdFs1jcc0nBL3wYtKfNVMTlXSwbsJYtOWPPz8tA3APbxxg+1heXjpa/9HV9UuT5NKMscsxsjinVy5Wqqq45wa2ySTQ9VYXu1EVir7vnPLZp0Gg0ZI52KYPiNz8H3jiTOR+D6rh4XmF6O2kMZZift3KnE/HiHToZm3qZkx8JiCCRjh/Kd9to/8b8xuxdh3Jlbsqrb0bY9Anm+onmqZiEffbzgmmI5AKChMAYldu51BfI2+VYZEvaEnFnrRcClk3FkeKHpukEUgrHuXrF132CBT1ktFDwPCZGlgfXhPZIT1E=;BEEB+b76cT7R4/i+k7etRA=="
+secured: "SZ8/dX0gOdlp8aHLGdjZKNtz4nMxVsoIdsCmIH+nK2SkHfX99VpsG9oVloltZJU2yHjo7DBfnNC1IqYskKnipHVQHvPwh9yNmSzJnC9DTfxQEU1D0QUswM80IU6TZiwKQPoj1khcKt/QEgbmBoUCs2WG6q0eD7RJ89FF67XfPgSFpOkjVubxpoAgtyf/ahdYHlbBxFhLL0Og5Wqz3sgYEx8dAIm2pWKGzdMpqDVYGU1MgWdlZxYge9sV3YzFh5g13gpCB0yCrOCq7m9y7Bh2W8T/moGkaGVpAx8mTAT/CokPtSjJdD21mJWNSjLn+yooN0kFxQvS2r2Wfq72qS9HOKFrmQwuPuSER32IIU3YblKHEzAKEnYSSv4CxQhIFgVmeEppLg5xDlE38ZbnV2weZtPkMFtHK37Rkht36EJ8/dATk9qunRC9XMOtbQNgTEykHwfcCeukvd7naH0UcrZQWggnDbdz55FQ7d9io0MTSaR8tjikiOWRoeCh0SszAC0LdCi5y9AwBtgojGAH0xNLrQ==;F92AW3FcOsXyIknXbWuWvg=="
 ---
 

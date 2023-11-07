@@ -2,6 +2,249 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-09-19-understanding-artificial-intelligences-ai-role-in-accelerating-africas-healthcare-momentum-by-eyong-ebai.md",
+      "title": "Understanding Artificial Intelligence's (AI) Role in Accelerating Africa’s Healthcare Momentum (By Eyong Ebai)",
+      "excerpt": "In Africa, as in much of the world, artificial intelligence (AI) is the latest buzzword amongst healthcare professionals. Globally, we saw an explosion last year of various AI generative platforms, promising unparalleled potential to solve some of the continent’s biggest problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/africa-press-releases/understanding-artificial-intelligences-ai-role-in-accelerating-africas-healthcare-momentum-by-eyong-ebai-s6rmmg4u",
+      "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/understanding-artificial-intelligences-ai-role-in-accelerating-africas-healthcare-momentum-by-eyong-ebai-s6rmmg4u",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.africa-newsroom.com/files/thumb/506d0df8d8b8aa3/600/418",
+          "width": 600,
+          "height": 302,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/africa-press-releases/understanding-artificial-intelligences-ai-role-in-accelerating-africas-healthcare-momentum-by-eyong-ebai-s6rmmg4u?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/understanding-artificial-intelligences-ai-role-in-accelerating-africas-healthcare-momentum-by-eyong-ebai-s6rmmg4u?amp=1",
+      "publishedDateTime": "2023-09-19T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-chinas-capital-city-is-letting-the-public-take-fully-driverless-robotaxis-and-has-bigger-rollout-plans-startup-ponyai-says.md",
+      "title": "China's capital city is letting the public take fully driverless robotaxis — and has bigger rollout plans, startup Pony.ai says",
+      "excerpt": "As of Tuesday, the suburban Beijing city district of Yizhuang is officially letting local robotaxi operators — primarily Baidu and startup Pony.ai — charge fares for fully autonomous taxis ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/19/chinas-capital-city-beijing-has-big-plans-for-robotaxis-ponyai-says.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/19/chinas-capital-city-beijing-has-big-plans-for-robotaxis-ponyai-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107100111-1659921398203-Image_from_iOS_64.jpg?v=1695097460",
+          "width": 1919,
+          "height": 1279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/19/chinas-capital-city-beijing-has-big-plans-for-robotaxis-ponyai-says.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/19/chinas-capital-city-beijing-has-big-plans-for-robotaxis-ponyai-says.html",
+      "publishedDateTime": "2023-09-18T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-pedophiles-on-dark-web-turning-to-ai-program-to-generate-sexual-abuse-content.md",
+      "title": "Pedophiles on dark web turning to AI program to generate sexual abuse content",
+      "excerpt": "The dark web has become a breeding ground for sex offenders who use open source artificial intelligence technology to generate and distribute child sexual abuse material.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/pedophiles-dark-web-turning-ai-program-generate-sexual-abuse-content",
+      "originalUrl": "https://www.foxnews.com/us/pedophiles-dark-web-turning-ai-program-generate-sexual-abuse-content",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/AI-makes-it-easier-for-fraudsters-to-create-fake-companies.gif",
+          "width": 602,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/pedophiles-dark-web-turning-ai-program-generate-sexual-abuse-content.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/pedophiles-dark-web-turning-ai-program-generate-sexual-abuse-content.amp",
+      "publishedDateTime": "2023-09-18T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-another-ai-hallucination-that-one-person-could-take-charge.md",
+      "title": "Another AI Hallucination: That One Person Could Take Charge",
+      "excerpt": "Artificial intelligence may have originated in technology sector, but it’s time for business leaders to step up and take charge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/09/18/another-ai-hallucination-that-one-person-could-take-charge/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/09/18/another-ai-hallucination-that-one-person-could-take-charge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6508fab032bcd1b1af2250be/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/09/18/another-ai-hallucination-that-one-person-could-take-charge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/09/18/another-ai-hallucination-that-one-person-could-take-charge/amp/",
+      "publishedDateTime": "2023-09-18T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-ai-and-robotics-are-here-to-stay-houstons-healthcare-and-medical-office-industry-are-racing-to-evolve.md",
+      "title": "AI And Robotics Are Here To Stay. Houston’s Healthcare And Medical Office Industry Are Racing To Evolve",
+      "excerpt": "Houston's healthcare industry is seeing major disruption from new technology and AI, which influences new office design and renovations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bisnow.com/houston/news/healthcare/houstons-healthcare-and-medical-office-industry-are-evolving-along-with-ai-new-technology-120711",
+      "originalUrl": "https://www.bisnow.com/houston/news/healthcare/houstons-healthcare-and-medical-office-industry-are-evolving-along-with-ai-new-technology-120711",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2023%2F09%2F650898e292c92-houston-healthcare-1.jpeg&width=1200&sign=Yy3CYRFo_w_W13F0eFDUY8Tjh4gugSlcjfdm9IgMBZ4",
+          "width": 1200,
+          "height": 817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T18:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bisnow",
+        "domain": "bisnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-on-ai-ethics-and-the-environment.md",
       "title": "On AI Ethics and the Environment",
       "excerpt": "Last month, the San Francisco Chronicle published an op-ed by me about the environmental impact of AI tools now being integrated into many areas of our lives, and used (for different purposes and with various levels of choice) by millions of people.",
@@ -938,232 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence.md",
-      "title": "Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence",
-      "excerpt": "Prime Minister Benjamin Netanyahu is starting a U.S. trip in California to talk about technology and artificial intelligence with billionaire businessman Elon Musk. The Israeli leader posted ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/sci-tech/netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence-1.6566408",
-      "originalUrl": "https://www.ctvnews.ca/sci-tech/netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence-1.6566408",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/9/17/1_6565486.jpg",
-          "width": 1020,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2023/9/18/1_6566408.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/9/18/1_6566408.amp.html",
-      "publishedDateTime": "2023-09-18T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-5-blue-chip-growth-stocks-to-buy-according-to-ai.md",
-      "title": "5 Blue-Chip Growth Stocks to Buy According to AI",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-best-robot-vacuum-deals-on-amazon-ahead-of-the-prime-big-deal-days-sale.md",
-      "title": "Best robot vacuum deals on Amazon ahead of the Prime Big Deal Days sale",
-      "excerpt": "Plus, most of these robot vacuums can be controlled with a smartphone app ... I have to change the bag about once every 2-4 months. I don't mind the cost of the vacuum bags because they give me so many hours of my time back.\" The robot vacuum is currently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-you-can-get-right-now-2023/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-you-can-get-right-now-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/08/04/731af944-c1c9-4d22-9695-d65d29ab3893/thumbnail/1200x630/a7cbccd3d7293ee2eb74e73e654ca2d2/71iszddwljl-ac-sl1500.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-top-5-ai-stocks-to-invest-in-for-2023.md",
-      "title": "Top 5 AI Stocks to Invest In for 2023",
-      "excerpt": "IBM’s AI technology is being used to create individualized care plans, accelerate the process of bringing new drugs to market, and improve the quality of care, though it sold off its Watson ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2023-2031-by-development-factors-growth-rate.md",
-      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market (2023-2031) by Development Factors & Growth Rate",
-      "excerpt": "The Artificial Intelligence and Robotics in Aerospace and Defense Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34681102/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2023-2031-by-development-facto",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34681102/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2023-2031-by-development-facto",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34681102",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34681102",
-      "publishedDateTime": "2023-09-18T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

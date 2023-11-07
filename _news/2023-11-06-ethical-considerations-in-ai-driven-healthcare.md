@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/health/Ethical-Considerations-in-AI-D
 webUrl: "https://www.news-medical.net/health/Ethical-Considerations-in-AI-Driven-Healthcare.aspx"
 type: article
 quality: 71
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Real-world generative AI use cases, AWS style"
-    excerpt: "AWS makes it easier for companies to build generative AI applications with enterprise-grade security and access to leading foundation models. Here are a few examples of how AWS is helping its customers in different industries automate complex tasks, generate dynamic content and provide more personalized user experiences."
-    publishedDateTime: 2023-11-06T19:49:00Z
-    webUrl: "https://siliconangle.com/2023/11/06/real-world-generative-ai-use-cases-aws-style/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/AWS-Summit-NY-2023_003.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
     excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
     publishedDateTime: 2023-11-06T06:08:00Z
@@ -105,6 +91,6 @@ related:
       domain: jdsupra.com
     quality: 0
 
-secured: "XpSWzP2jFYVvq6euBEUCOWSY4nZvhzslGS3SrTiPQZEjP1/traH9sOWT7K28WkNLzwlQMyX27NtLkVXE5+FzRc2d7QSEQvsgUSQeoFNImXBAhgOECWW1uwMAmfrfvzlRbemITyI30spHQH3RLfnPwa/m517EQ+9dtwc2Ek7lF20JjJ1CleChaMFC+xbylV9XSW2KtEe6lL/tTkXI+GbjgveOIp50rekoPA+iL0oP1KSQCyFYDmqzmx6r0MhM4UH+myMjLL+gqc3csGKousbAwYemKVYsm1mEOrbztPGv2wV/8QY0PE90WHno1t2YJh0sx3arm1+YuYGtTLqwS1Z24FNASzqWeHtjUOpTR4bg3wA=;BC0vwG0+52G4TCY7HcYHMA=="
+secured: "l7YC6LXOQezqBPx35vHxITK2nYtxnCB01Vxfa9KETJ1fh/uLzqmAyPq2nEWDYPOMqK3uf2lgjNTaSWdxhmA3BGjyn0RamhwUoYaNQCA4RKqdkvP8OHbrcQHQcJI8a884X+RzXqqTTwgy+JJFXIgeWfgcm3doaaH2qNHAVX4tHFr6FKYK5mYS0Y2CptLKkYPr8b08CihaJufKXnFWWj0Xt6+D/D3H2rkpvr7yA86CfXmPQ3MAg1c+L844P994c5SGR8vgDDpnjdE7hvE+lT0egB4gLjopovcxVgKHud7jlwU3f/gpO/4gzDTwCPp14OOFg2JH9tz19wjnXF7rbS/7p4yuZy4HcFfSdKoxOqhoqsbkHIxhZwx0q6K2iYMsWerhPBovVUGhMP2PgUy4GWNCnTLiCzFQlIoPaxUfKU0H1T7jWIU1zVDD0eO4I625FlvaGDaAy3s6auOw6GYJHtuIqlqgU2D4SRGR1pyyQeUFu2xL70zKsPA1HHkaJ6RVwZxMj8mlOPEohseaatdjKVYzEg==;SfaPuoLdiheITo1ZSbqDrA=="
 ---
 

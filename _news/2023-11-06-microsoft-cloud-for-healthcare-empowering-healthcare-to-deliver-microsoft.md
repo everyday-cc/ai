@@ -40,20 +40,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Real-world generative AI use cases, AWS style"
-    excerpt: "AWS makes it easier for companies to build generative AI applications with enterprise-grade security and access to leading foundation models. Here are a few examples of how AWS is helping its customers in different industries automate complex tasks, generate dynamic content and provide more personalized user experiences."
-    publishedDateTime: 2023-11-06T19:49:00Z
-    webUrl: "https://siliconangle.com/2023/11/06/real-world-generative-ai-use-cases-aws-style/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/AWS-Summit-NY-2023_003.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Oncology researchers raise ethics concerns posed by patient-facing artificial intelligence"
     excerpt: "Ready or not, patients with cancer are increasingly likely to find themselves interacting with artificial intelligence technologies ... and researchers to work together to ensure AI-driven health care preserves patient autonomy and respects human dignity."
     publishedDateTime: 2023-11-03T20:00:00Z

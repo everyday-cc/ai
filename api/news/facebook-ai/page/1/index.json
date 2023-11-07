@@ -54,6 +54,52 @@
       ]
     },
     {
+      "path": "_news/2023-11-06-pytorch-vs-tensorflow-machine-learning-frameworks-compared.md",
+      "title": "PyTorch vs TensorFlow machine learning frameworks compared",
+      "excerpt": "JAX is a newer entrant into the numerical computing space, backed by Google, and is quickly gaining traction in the deep learning community. It offers an efficient environment for numerical computations, automatic differentiation, and GPU/TPU support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/pytorch-vs-tensorflow/",
+      "originalUrl": "https://www.geeky-gadgets.com/pytorch-vs-tensorflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/PyTorch-vs-TensorFlow.jpg",
+          "width": 1280,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T00:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2023-11-01-ai-safety-use-cases-how-generative-ai-is-distorting-human-sentiment.md",
       "title": "AI safety use cases - how generative AI is distorting human sentiment",
       "excerpt": "It used to be said that the big problem with AI is its ‘hallucinations’ when supporting data is absent. But it turns out that there is a bigger one: generative AI is removing human sentiment and context without us even knowing.",
@@ -1086,6 +1132,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-19-ai-models-lack-transparency-research.md",
+      "title": "AI Models Lack Transparency: Research",
+      "excerpt": "Artificial intelligence models lack transparency, according to a study published Wednesday that aims to guide policymakers in regulating the rapidly-growing technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/ai-models-lack-transparency-research-bab70494",
+      "originalUrl": "https://www.barrons.com/news/ai-models-lack-transparency-research-bab70494",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP7609279366103931741601238001285027740756---1.jpg",
+          "width": 768,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/ai-models-lack-transparency-research-bab70494",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-models-lack-transparency-research-bab70494",
+      "publishedDateTime": "2023-10-19T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-godfather-of-ai-ai-might-escape-control-by-rewriting-its-own-code.md",
       "title": "‘Godfather of AI’: AI might ‘escape control’ by rewriting its own code",
       "excerpt": "Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new ... Hinton also noted the spread of AI-enhanced misinformation, fake photos and videos online. He called for more research to understand AI, government regulations ...",
@@ -1115,49 +1204,6 @@
       "provider": {
         "name": "Houston Herald",
         "domain": "houstonherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-ai-models-lack-transparency-research.md",
-      "title": "AI models lack transparency: research",
-      "excerpt": "The best score -- 54 percent -- was given to Llama 2, the AI model launched by Facebook and Instagram ... a researcher at Stanford's Center for Research on Foundation Models, said companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.enca.com/opinion/ai-models-lack-transparency-research",
-      "originalUrl": "https://www.enca.com/opinion/ai-models-lack-transparency-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.enca.com/sites/default/files/styles/large/public/afp/2023-10/doc-33YM76N-%40photo0.jpg.webp?itok=tKoF250w",
-          "width": 480,
-          "height": 319,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eNCA",
-        "domain": "enca.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1326,59 +1372,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-software-supply-chain-security-attacks-up-200-new-sonatype-research.md",
-      "title": "Software Supply Chain Security Attacks Up 200%: New Sonatype Research",
-      "excerpt": "State of the Software Supply Chain also covers regulations and how AI could help developers protect organizations from security risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/sonatype-state-software-supply-chain-security/",
-      "originalUrl": "https://www.techrepublic.com/article/sonatype-state-software-supply-chain-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/03/tr-31423-edge-attack.jpeg",
-          "width": 1400,
-          "height": 863,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

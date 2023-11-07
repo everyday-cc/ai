@@ -39,7 +39,30 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Xbox Team Working on Generative AI for Game Development"
+    excerpt: "A Microsoft partnership with Inworld aims to speed up game development and enable more interactive non-playable characters, but it could face backlash from human game developers."
+    publishedDateTime: 2023-11-06T17:04:00Z
+    webUrl: "https://www.pcmag.com/news/xbox-team-working-on-generative-ai-for-game-development"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04oQe70qTgjqVipzE5ug8ff-1.fit_lim.size_1200x630.v1699285389.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Xbox and Inworld AI forge game-changing alliance"
+    excerpt: "Xbox has unveiled a partnership with Inworld AI aimed at transforming game development using AI-powered tools."
+    publishedDateTime: 2023-11-06T16:56:00Z
+    webUrl: "https://www.developer-tech.com/news/2023/nov/06/xbox-and-inworld-ai-forge-game-changing-alliance/"
+    type: article
+    provider:
+      name: Developer Tech
+      domain: developer-tech.com
+    quality: 19
 
-secured: "IN6SzaNFtNIO7XH9XP6Y2fT+xMy+cdZVJT86VL7SujytsqPmnFV3rW5eMaSGvGQpqRi96yRWug5LpxLmu5fet4o9q+5C8Kj5gsocujfrbudfzfYCZnLsYlo/6v2907p85Lzb2v1DgvfYPfr4lnjEYP6BtZQ7gZxCem0hR0VMEewmuZCTD6DhzdPHZU+50htC+17FNjGHonWhWX8XqkHCXzRAW+YF7cS2nD+CWG40OxiVvZOn+o6L88lUusDAeugaBHXMXWXw9+ZqWgHi8wdSbEMUdklIvCgNz44EuwQm1A5JwQCaubSDuMaNwQU91OPxRwUrD06e71EDfxvCNiAbUt7v/Cbh1R5PVTtjxiZbQjI=;1v6gKaLuMzgFNgQNJuqHbg=="
+secured: "nSdDX37t/Hap2BwGwz9AzkjRzAV8GUVHSVv7rfFFkZZ9XGuRRC4LhPRKQR7MMZ55m6Uw859IG7J/McMeNOOdS+PnE/GjiIwhG+aZrt69FGnX04qe3EMYz09s1mkCB0iEdK8drzy5Z8dmXpa8gTWuqLmjo5eN0k+yxYNuiCHuW2LrFnpZwZAutXSMlBwowdB5TD5A+MCT7Fvx6uWLP08EglsCgHhi7v0pHxYbcKZAmUg4M/pv5aa7CewnVtkKoYF2sCyOtCCHw3C2be6dFBtB34aY3WgrjblYzfEnvxK0xwuzSaNCOy/A7C6/XsyvDv2A+CYECxTM00LGchIFpRca92cGohPmWoO27CEKuK86eNP63IH7LTiXv/GKlOcuxOSOz66p/RqgbsyRYnHLnP2qE1ZyIxKqOkQJdfI8YadhBqKQ2BaM/gcM8JVxOr7/jK7LkoigK7zMn8PZy8RE1wN2W058F5VuzBsNuMH6OWBm18zEMEIBRzqcCqqbOHUxgeQQsTql6/+Yao9Ypso9n1CTwQ==;dhjcObyt3QMc07KOPkRmHQ=="
 ---
 

@@ -2,6 +2,254 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-10-09-6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month.md",
+      "title": "6 AI Wellbeing Tools For Work You Should Try This Mental Health Month",
+      "excerpt": "In honor of Mental Health Awareness Month and World Mental Health Day, here is a round-up of six AI-powered work wellbeing tools you should try this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/",
+      "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652309011529a35491ac37a1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/amp/",
+      "publishedDateTime": "2023-10-08T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-generative-ai-throwdown-open-source-vs-proprietary-models.md",
+      "title": "Generative AI Throwdown: Open Source Vs. Proprietary Models",
+      "excerpt": "Generative AI, dominated by proprietary models locked inside big tech companies, is being disrupted by a new wave of open-source models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/",
+      "originalUrl": "https://www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652304f4abadae415295e85a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/amp/",
+      "publishedDateTime": "2023-10-08T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-08-important-warning-about-artificial-intelligence-stocks.md",
+      "title": "Important Warning About Artificial Intelligence Stocks",
+      "excerpt": "Artificial intelligence stocks are surging. Some investors have made little fortunes already. But we are staying away from them, and here is why. High Yield Investor members get exclusive access ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4639388-important-warning-artificial-intelligence-stocks",
+      "originalUrl": "https://seekingalpha.com/article/4639388-important-warning-artificial-intelligence-stocks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1286232657/image_1286232657.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-08T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-08-hedge-fund-investor-bill-ackman-just-loaded-up-on-this-top-artificial-intelligence-ai-stock.md",
+      "title": "Hedge Fund Investor Bill Ackman Just Loaded Up on This Top Artificial Intelligence (AI) Stock",
+      "excerpt": "Last week, renowned hedge fund manager Bill Ackman spoke at length about a new position in his portfolio. As it turns out, Silicon Valley investors are not the only ones looking to capitalize on the rising popularity of artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/10/08/secretive-hedge-fund-investor-bill-ackman-just-loa/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/08/secretive-hedge-fund-investor-bill-ackman-just-loa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/749674/gettyimages-1483272785-4.jpg",
+          "width": 5530,
+          "height": 3111,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-08T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-08-link-building-uk-tech-veterans-connect-ai-startups-with-corporates.md",
+      "title": "Link Building: U.K. Tech Veterans Connect AI Startups With Corporates",
+      "excerpt": "AI, Quantum Computing and Blockchain startups are keen to find customers. Buyers may be more sceptical. A new initiative - TransformBase - seeks to close the gap",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/",
+      "originalUrl": "https://www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651fc2ee4ad4ed5acb9501c9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/amp/",
+      "publishedDateTime": "2023-10-08T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-08-google-claims-their-ai-innovation-far-beyond-rivals.md",
       "title": "Google claims their AI innovation far beyond rivals",
       "excerpt": "A company executive, while introducing their latest flagship smartphones, emphasized that Google's artificial intelligence technology has surged",
@@ -949,237 +1197,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-the-valuation-reckoning-when-ai-startup-darlings-hit-stratospheric-levels.md",
-      "title": "The Valuation Reckoning: When AI Startup Darlings Hit Stratospheric Levels",
-      "excerpt": "It's been a wild year for AI companies – in the public market, where stocks like Nvidia have skyrocketed, but even more so in the private markets, where one in every four dollars invested in a startup is going to an AI-related company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2023/10/06/the-valuation-reckoning-when-ai-startup-darlings-hit-stratospheric-levels.html",
-      "originalUrl": "https://www.cnbc.com/video/2023/10/06/the-valuation-reckoning-when-ai-startup-darlings-hit-stratospheric-levels.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107313066-16966232146ED2-TC-Weekly-100623.jpg?v=1696626139&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-robotics-companies-raise-851m-in-august-2023.md",
-      "title": "Robotics companies raise $851M in August 2023",
-      "excerpt": "Robotics funding reached $851 million in August 2023, the result of 62 investments (See Table 1 below or download Table 1 HERE ). The total amount of funding for 2023 to date is about $8.85 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/robotics-companies-raise-851m-in-august-2023/",
-      "originalUrl": "https://www.therobotreport.com/robotics-companies-raise-851m-in-august-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-machine-learning-and-neural-networks-in-the-fintech-industry-sergey-kondratenko.md",
-      "title": "Machine Learning And Neural Networks In The Fintech Industry – Sergey Kondratenko",
-      "excerpt": "According to fintech expert Sergey Kondratenko, thanks to machine learning, financial organisations can quickly, reliably and accurately solve a wide range of problems related to the processing, analysis and interpretation of data.",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/",
-      "originalUrl": "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2020/08/uk-fintech-1.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/amp/",
-      "publishedDateTime": "2023-10-06T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-getty-images-built-a-socially-responsible-ai-tool-that-rewards-artists.md",
-      "title": "Getty Images built a “socially responsible” AI tool that rewards artists",
-      "excerpt": "Rather than crawling the web for data to feed its AI model, Getty's tool is trained exclusively on images that Getty owns the rights to, Peters said. The tool was created out of rising demand from Getty Images customers who want access to AI generators that don't carry copyright risks. Peters explained:",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2023/10/getty-images-built-a-socially-responsible-ai-tool-that-rewards-artists/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2023/10/getty-images-built-a-socially-responsible-ai-tool-that-rewards-artists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1704492074-800x542.jpg",
-          "width": 800,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/10/getty-images-built-a-socially-responsible-ai-tool-that-rewards-artists/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/10/getty-images-built-a-socially-responsible-ai-tool-that-rewards-artists/amp/",
-      "publishedDateTime": "2023-10-06T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-what-new-business-models-will-ai-create-next.md",
-      "title": "What New Business Models Will AI Create Next?",
-      "excerpt": "How to thrive in the new AI business world. AI is likely to generate many disruptive business models. How to thrive? How to survive?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2023/10/06/what-new-business-models-will-ai-create-next/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2023/10/06/what-new-business-models-will-ai-create-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65203bd9cad7db72c330b81b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2023/10/06/what-new-business-models-will-ai-create-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/10/06/what-new-business-models-will-ai-create-next/amp/",
-      "publishedDateTime": "2023-10-06T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

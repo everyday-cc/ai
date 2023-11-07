@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/mediatek-challenges-qualcomm-with-ai-as
 webUrl: "https://www.pcmag.com/news/mediatek-challenges-qualcomm-with-ai-assisted-dimensity-9300-chip-for-phones"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "MediaTek Dimensity 9300 deep dive: A true Snapdragon rival?"
+    excerpt: "The MediaTek Dimensity 9300 mobile processor boasts a powerhouse CPU design and AI capabilities, here's what you need to know."
+    publishedDateTime: 2023-11-06T11:30:00Z
+    webUrl: "https://www.androidauthority.com/mediatek-dimensity-9300-explained-3381678/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 54
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/11/MediaTek-Dimensity-9300.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "MediaTek Dimensity 9300's big GPU upgrades focus on AI, gaming"
     excerpt: "MediaTek has revealed its flagship Dimensity 9300 chipset, designed to rival Qualcomm's Snapdragon 8 Gen 3 mobile platform"
     publishedDateTime: 2023-11-06T14:26:00Z
@@ -44,6 +58,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "YlfPZF5EXIUUZXANlYp0sS7mBKbO1py9co0vzNtVMcRai+i0yn629PQYVPOxFV6pEwHNQ/cRihBXKifqjfV2fqPal8TkQbSyskMCTQXZffJcNi0p022B2y5Sf5MWJeY9hBFNSPJfe+SHq7ed5q45tmb4/cKnzzf0I0sk8hqfsXNp4Fppx9Fq/X2izz9SHeAwyG03j2+p3TPbyhheCKtQ1b1D+eU41TEC+v5F/Ly1XZ3F1T94q+BYSq0NlSYb4gqCTj9jqN5zRanHk7bhcqx9V6vV8BH17qJSJF1YDN9rn9zQd+k3d1FKtL8vBOM6fO2Vk9exaDXmSHjNVjzNBkKUO6iOR/GLa5GShQyCO6mxWnM=;E78w5tEbqlbdBdxxVudaNQ=="
+secured: "bbivV6TATqYnQ9eJEuBbscVVcBJ0pML+zLl3T+xaQCNrimkR2CYcrFZ7Im9LLVtYwWTrVDe/L6RFWPzds5YloRnPgWOT85Z3ikR6CcPwyMenlVTzE4SpEU2UF4fpnlc+eKhc0ekP/vmEkzuwcIR6u1FHEoD5NnN3ly6j74tNTXdF28OhQPoVd0+M6g2RD6qGoE2Deqj003wmOk6X3aCrj5cH15hErENzI8TFtaxhIayQWhYZFcAYXtXCDib4aCwFapzaEP5C3HK8LLxFZgqtZ8gUiDfvKbSRoJwiKUFvUv4LOsG+1COLMGwtYpEU80B9lB2VLHVAF3Kb9g3s7a/8VH6Bvsoakt3jZt6//OXT0vAji1S+mRXWnEi2e77p7LtHwxA8UKThW2spwC6qvLID71h69dl9CBD05sp2tz32h6WZz7ay41JispYl/HdV/1/d5rHlrfm1Z64n5C/zDkj4V0R91sa3M1M5b5A4mTTWxkIuV1DqDH8u4qHvo3DCTZ4FR4EeoDVycpysz1yBmLULiw==;wBrg47YWH7ZJMxro7GZuzg=="
 ---
 

@@ -47,6 +47,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
+  - title: "How to Leverage Generative Artificial Intelligence in Customer Service"
+    excerpt: "One way for businesses to leverage generative AI to improve the customer experience is to upgrade their call center technology with AI-driven solutions. This includes implementing intelligent bots to directly handle certain aspects of the customer experience while enhancing others."
+    publishedDateTime: 2023-11-06T22:30:00Z
+    webUrl: "https://biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service"
+    ampWebUrl: "https://biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202311/GettyImages-1473086732.jpg?itok=owGHTh-q"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "Dive into Investing With These 3 Top Generative AI Stocks"
     excerpt: "Gabriel Osorio is a former Goldman Sachs and Citigroup employee. He possesses discipline in bottom-up value investing and volatility-based long/short equities trading. The post Dive into Investing With These 3 Top Generative AI Stocks appeared first on InvestorPlace."
     publishedDateTime: 2023-11-02T14:06:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6332071/ant-ai-services-bailing/"
 webUrl: "https://time.com/6332071/ant-ai-services-bailing/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese AI unicorn’s 34B LLM outperforms larger Llama 2 and Falcon models"
+    excerpt: "Kai-Fu Lee's 01.AI offers the Yi series of models, which is open for academic research and free commercial usage."
+    publishedDateTime: 2023-11-07T00:35:00Z
+    webUrl: "https://venturebeat.com/ai/chinese-ai-unicorns-34b-llm-outperforms-larger-llama-2-and-falcon-models/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 68
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/DALL·E-2023-11-06-12.29.53-Visualize-a-small-glowing-robot-standing-triumphantly-atop-a-dark-hill-under-the-night-sky.-This-robot-is-radiating-light-with-its-arms-raised-in-a-.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
   - title: "Alibaba's Ant Group Gets Chinese Govt Approval To Release AI Products"
     excerpt: "Ant Group, the fintech affiliate of Chinese conglomerate Alibaba Group, has received approval from the Chinese government to offer"
     publishedDateTime: 2023-11-06T15:02:00Z
@@ -57,6 +71,6 @@ related:
       domain: theguardian.com
     quality: 13
 
-secured: "M6CiO6dG1jwx5cPaKUfqf1twBl2ICYSS4p9cKh2v1OJDnDt3C3c7ffn50jyLaro1sqHZbSy7S+BkcM/QmNmmSwxrgqx8WZ/Js4yOSHwbCqGhBLd/SB13ZWOG0zKuAe7u0paGLiBNftM/gpbF58zC2sjMdI8HrtmdF9Zg3aQrKmsJk1IeQDYU15B0zKqb1axXL9aKciBUCU4LUBfWMkJvKj7mCETQnBEtA+OlzbWpsvb+F7ddAFcg8obpuNkdA9k5Y0fGADM8P64DUDQoKPR5Jrh8mDRLEZ9kLLUt43CgH0B6uJRC2ST0ngmZgfHuV675fFYeu99OJd4vPW2H5O3NIRceCJ3GgvZG58J2pzSkEeQ=;EkXKlwnRFgFXR8ZMC3IIqA=="
+secured: "sLski0Ln9GwpJfeIHyX6g1CVn4qoawVTL5q+++9bwN/nSc4EIneGd2V2E5wRHWMyqj2fxLnF8dYH+ZEN4NeIwNFBtH7H/EBpYWJVCZKTnlkWh37xrYrY8OYIiolbnpVbf5ki8O4M3li14yVT9bLPsl9rWCFrwOl4ZcbTVx5VJvFwn+n8o2PDNmquGF/3maD7TqzJiUGcvw/B4GK0zPoGc6xvgkE9dlw29COx8N7+UmbUEvfo1ReZYfcxIkArpMJQOhNudJLZSxfwSVCGXcka9dyMgu09UCA7W6N4rvwu2e5d9RXHg2Dy/WnHS3/1B3GH0mQdKajKS5BaQDWcyz6xVF9+03YaBSRZcDb7PYpMN35vzW65shu/sMepgzZl6WfmzUu6NjK5k3c55IApjIrc7cDS9F+8gXrz/fKa27170BHm3quHxR8qD/NmGSI6Xj+eMkht5104ye71z1FTzss0q5PtR2DPBSxHxuZJg/rBygUcNOcq+u6YH+ZEqMJXNpfok8EwPNzbSpv81FxeARBNbA==;wOGgVoJvtnRBIfjJfc8dHA=="
 ---
 

@@ -24,6 +24,17 @@ images:
     height: 740
     isCached: true
 
-secured: "tNOZKUFQng3CAzu8eaKbPzWaBGqQ+YUp6bKJOaLFf8SV/eDDs/n2wDNQs9d4Lzldo+iQ1q44nkUrL7FT4yr7n15t2A+Dw/6l13j4L72QceGSHwfaaJwTM50MfvCuEl3GdaINwpoMTvDMVhriHGQyLXVB21Bd1fJO5mW3YuQpSg8GJcZFkVSy2mLyiEbo+0HZbRRRKAqcqCAZZFx5xaoGhwjUEgrFRxkmJrS1FdLdPqLLaLQLWl0tco8+uxLBwHhDBfV5ZdzaB+VJM7R2jioTPlxFNbzYdupv0tRZ/sE32ArAd6g9/z/b3S2HQkpzigGbGy7Z7ioRwlPfWlryX0OQ56x2/lc7XgbT6C9semFbrsI=;48TTAmgBEsPhp0lUtFNfmw=="
+related:
+  - title: "Facial recognition bans at MSG prompt NYS Bar to seek legal protections"
+    excerpt: "The New York State Bar Association (NYSBA), in a move underscoring rising concerns over privacy and civil liberties, has called on the state legislature to strengthen New York’s Civil Rights Act against the misuse of facial recognition technology by ..."
+    publishedDateTime: 2023-11-06T23:23:00Z
+    webUrl: "https://brooklyneagle.com/articles/2023/11/06/nys-bar-to-seek-legal-protections-against-facial-recognition/"
+    type: article
+    provider:
+      name: Brooklyn Daily Eagle
+      domain: brooklyneagle.com
+    quality: 19
+
+secured: "xNPdsAOVG6pshxjsG9f21Ximcba6ewTxtjfW/yq9bZVQzroZE1YBKB97MvwFyfw6ppn21eWTrVxU7nCnkqC6Si4x6J9/moRIOblLIWFzAFOX8RXKXfrzojV0Er3YnkkSuj6AfslJjDCe3Dv/6Q+qm2Iw5eMZSrxVdJiZf/1Ca3RehcL6kjIcpmNKU1AvXrwnQOaiiSq4MiBtxhxEgLx7uxi76KqPGNp+VLKOa+6gDWwLU4pyUgmPBT2kwdqSPCd1jDj7xtS8WbSZJT3NqY1zQWg0EetKJNJKYmKWY4aGkeWUCrOLTtA98G/8Dt5u68+TBaOI2JwXUV+Wmm62Gcwdv0o7LWUaTKzKpEw2XLKjproY+Zue/i2xf7MNZoW4KH2N+41t1FmxAOd7u4shRwzqgqjQYqkntPLkPmGWcGfgMfMT2Uv1dCFt/TMyH4YtUBDsRJI4FU/D99SWbVZDWDdgwU+2ijyUqEC9BlquCEBP6nANhkJuX0z+ufTTIMFYJovc2PxUwWV7eKGVCtsdo9oOyA==;NGGhzdCgXDAy6rHcOB8Xig=="
 ---
 

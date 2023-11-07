@@ -39,20 +39,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Real-world generative AI use cases, AWS style"
-    excerpt: "AWS makes it easier for companies to build generative AI applications with enterprise-grade security and access to leading foundation models. Here are a few examples of how AWS is helping its customers in different industries automate complex tasks, generate dynamic content and provide more personalized user experiences."
-    publishedDateTime: 2023-11-06T19:49:00Z
-    webUrl: "https://siliconangle.com/2023/11/06/real-world-generative-ai-use-cases-aws-style/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/AWS-Summit-NY-2023_003.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
     excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
     publishedDateTime: 2023-11-06T06:08:00Z

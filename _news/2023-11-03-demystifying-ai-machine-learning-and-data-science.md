@@ -34,15 +34,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Studying the Arts and Deep Learning"
-    excerpt: "Studying the arts can lead to deep, rigorous learning. In today’s Academic Minute, Lisa Donovan of the Massachusetts College of Liberal Arts explores how arts can help the cause of academic rigor. Donovan is a professor of arts management at the MCLA."
-    publishedDateTime: 2023-11-02T07:07:00Z
-    webUrl: "https://www.insidehighered.com/podcasts/academic-minute/2023/11/01/studying-arts-and-deep-learning"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 19
   - title: "Xiong named director of Institute for Artificial Intelligence and Data Science"
     excerpt: "A UB faculty member since 2021, Xiong specializes in AI applications, algorithms, tooling and computer architectures."
     publishedDateTime: 2023-11-02T16:09:00Z

@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-06-pytorch-vs-tensorflow-machine-learning-frameworks-compared.md",
+      "title": "PyTorch vs TensorFlow machine learning frameworks compared",
+      "excerpt": "JAX is a newer entrant into the numerical computing space, backed by Google, and is quickly gaining traction in the deep learning community. It offers an efficient environment for numerical computations, automatic differentiation, and GPU/TPU support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/pytorch-vs-tensorflow/",
+      "originalUrl": "https://www.geeky-gadgets.com/pytorch-vs-tensorflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/PyTorch-vs-TensorFlow.jpg",
+          "width": 1280,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T00:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2023-11-03-sony-interactive-entertainment-acquires-deep-learning-company-isize.md",
       "title": "Sony Interactive Entertainment acquires deep learning company iSIZE",
       "excerpt": "Sony Interactive Entertainment has acquired iSIZE, a tech company that specializes in deep learning technology. Sony announced its acquisition of iSIZE in a post on the corporation’s website.",
@@ -10,7 +56,7 @@
       "originalUrl": "https://www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -156,6 +202,49 @@
         "AI in Healthcare",
         "AI in Autos",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-nanowire-brain-network-learns-and-remembers-on-the-fly.md",
+      "title": "Nanowire 'brain' network learns and remembers 'on the fly'",
+      "excerpt": "For the first time, a physical neural network has successfully been shown to learn and remember \"on the fly,\" in a way inspired by and similar to how the brain's neurons work.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-10-nanowire-brain-network-fly.html",
+      "originalUrl": "https://phys.org/news/2023-10-nanowire-brain-network-fly.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/nanowire-brain-network.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-10-nanowire-brain-network-fly.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-nanowire-brain-network-fly.amp",
+      "publishedDateTime": "2023-11-01T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1161,102 +1250,6 @@
         "Machine Learning",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-governing-the-ml-lifecycle-at-scale-part-1-a-framework-for-architecting-ml-workloads-using-amazon-sagemaker.md",
-      "title": "Governing the ML lifecycle at scale, Part 1: A framework for architecting ML workloads using Amazon SageMaker",
-      "excerpt": "Customers of every size and industry are innovating on AWS by infusing machine learning (ML) into their products and services. Recent developments in generative AI models have further sped up the need of ML adoption across industries. However, implementing security, data privacy, and governance controls",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/governing-the-ml-lifecycle-at-scale-part-1-a-framework-for-architecting-ml-workloads-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/governing-the-ml-lifecycle-at-scale-part-1-a-framework-for-architecting-ml-workloads-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/05/image001-1146x630.png",
-          "width": 1146,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T10:30:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-exploring-the-brain-basis-of-concepts-by-using-a-new-type-of-neural-network.md",
-      "title": "Exploring the brain basis of concepts by using a new type of neural network",
-      "excerpt": "The influence of language on human thinking could be stronger than previously assumed. This is the result of a new study by Professor Friedemann Pulvermüller and his team from the Brain Language Laboratory at Freie Universität Berlin.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/exploring-the-brain-ba-1.jpg",
-          "width": 2880,
-          "height": 2017,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.amp",
-      "publishedDateTime": "2023-10-20T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

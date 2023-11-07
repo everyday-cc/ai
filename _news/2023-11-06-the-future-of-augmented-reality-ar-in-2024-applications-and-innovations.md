@@ -39,7 +39,21 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "HealthTech Revolution: Impact of 2024 Technology Trends on Healthcare"
+    excerpt: "Introduction The healthcare industry has undergone a remarkable transformation, thanks to the rapid advancements in technology. With each passing day, innovative technologies are revolutionizing the way healthcare services are delivered,"
+    publishedDateTime: 2023-11-06T22:55:00Z
+    webUrl: "https://techbullion.com/healthtech-revolution-impact-of-2024-technology-trends-on-healthcare/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/HealthTech-Revolution-Impact-of-2024-Technology-Trends-on-Healthcare.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
-secured: "lUs78RxQWXNLIiK859nsBTh9Z1wNruVtXu+2dDv42Kguz0Foy0Fd78DA2nQfCSweuvsChoLz8Dw3WJc98dBuN2pKUgt5FP7c7757YkFGYKTaM8G0Ritx58TTI0xQhKDp8FBOpdJsO9SQMyPe+Vk1qsqnrfVNdoe8aE1eZ2es2M0G2h4hWutj1WkoIwQSIv2QLFHy9Z/zMJZwrL9XYx2pgrc9FpkDBYn/4Vkr3iD0j4/t8qICog8rwW43XzcAWNE/hHD1v84Qa7P1z8XQ7zTNDsUDc9oyJM7RaHHux4VPSniu/glygE1WLI994PFVoWIqm/B9l97Ly84WBMsipNcOHXkS4+6LBOJKDk74IW4Pe0E=;K4JYIxae2fIT6+dXdTXrJg=="
+secured: "Xs+U442dxObxoMddxLG17yLgkivl0y0LSTwtwP6HcHY7npl/vfhBb4kj4I2yAFV1TwTppbYSegBmhI/kpntJ2bJ45woIwL5C1MSYxvC3PD/8kmsKqqmMtc0hn4Cht9v49HxFf9C2jveFcCnWHcpwkEDt/DEoH61OrnOuxQ04brui8as+K5ON30K9d/2ISQZpdCL34ia/0w+0iPvn6hM/7MCLVCdHqHNY/pRbR76g2bKRW2FLVNaKwbQswQiepQK64EXaPPG+7MdzMrfBJbWXnXRUkgUAof9dWcZppqzO23llURieOm3QX6/V0a2t6EEZ85MC1UrdD7f+A8jYKyq0LndAvsysKU0gGBOH1qg6M73dWxT+PqIB2cuo2lvjGLSl04uQa3QXB9izgGzD52h7BHk+qCj5gb3EoE0pSgctn5TDKQLuoinXUNcr+vY5azRCkIXCginxXY0+jxXWORUZJhbVUUaZoc9wwJueCNTBFooWbm4D514EAWR6S90VGiXWaxxf/n+mpDsenFXTzCIpHw==;U73J0zcDNm3gjmVbaab19g=="
 ---
 

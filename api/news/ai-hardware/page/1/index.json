@@ -63,7 +63,7 @@
       "originalUrl": "https://www.pcmag.com/news/mediatek-challenges-qualcomm-with-ai-assisted-dimensity-9300-chip-for-phones",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -107,6 +107,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-06-trained-on-chips-gen-ai-is-shaping-the-chip-industry.md",
+      "title": "Trained on Chips, Gen AI is Shaping the Chip Industry",
+      "excerpt": "ChipNeMo is trained on the company’s internal data to generate and optimise software in designing semiconductors by customising large language models with the help of NVIDIA NeMo —a cloud-native framework for developers to create and deploy generative AI models with billions of parameters.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/trained-on-chips-gen-ai-is-shaping-the-chip-industry/",
+      "originalUrl": "https://analyticsindiamag.com/trained-on-chips-gen-ai-is-shaping-the-chip-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/11/unnamed-13.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-05T21:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-06-tech-giants-jockey-for-position-at-dawn-of-ai-age.md",
       "title": "Tech Giants Jockey For Position At Dawn Of AI Age",
       "excerpt": "Whether they sell smartphones, ads or computer chips, the heavyweights of Silicon Valley have everything to prove to investors looking to see who is best placed in the race to dominate the generative artificial intelligence market.",
@@ -115,7 +158,7 @@
       "originalUrl": "https://www.barrons.com/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1311,58 +1354,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai.md",
-      "title": "FEDML Nexus AI: The Next-Gen Cloud Services for LLMs and Generative AI",
-      "excerpt": "FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML Nexus AI, offering the next generation of cloud services and platform for generative AI.This press release features multimedia.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/",
-      "originalUrl": "https://venturebeat.com/business/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20231024932463/en/1922758/4/wideimage.jpg?strip=all&#038;ssl=1",
-          "width": 480,
-          "height": 269,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

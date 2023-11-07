@@ -2,6 +2,169 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-01-standard-ai-named-an-idc-innovator-in-computer-vision-for-automated-checkout-and-self-checkout.md",
+      "title": "Standard AI Named an “IDC Innovator” in Computer Vision for Automated Checkout and Self-Checkout",
+      "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--Standard AI, world leader in retail AI, today announced that it has been named an “IDC Innovator” in the IDC Innovators: Computer Vision for Automated Checkout ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231101666146/en/Standard-AI-Named-an-“IDC-Innovator”-in-Computer-Vision-for-Automated-Checkout-and-Self-Checkout",
+      "originalUrl": "https://www.businesswire.com/news/home/20231101666146/en/Standard-AI-Named-an-“IDC-Innovator”-in-Computer-Vision-for-Automated-Checkout-and-Self-Checkout",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-5-best-ai-stocks-to-invest-in-for-2023.md",
+      "title": "5 Best AI Stocks to Invest In for 2023",
+      "excerpt": "and using Azure to allow customers to build custom AI tools. Perhaps no company is using AI more widely than Amazon. Founder and executive chairman Jeff Bezos has been an evangelist for AI and machine learning. Although Amazon started as an online retailer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=4a887e99-f88b-4adf-a584-d9b172b45477",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=4a887e99-f88b-4adf-a584-d9b172b45477",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-how-ai-and-machine-learning-help-detect-and-prevent-fraud.md",
+      "title": "How AI And Machine Learning Help Detect And Prevent Fraud",
+      "excerpt": "Bespoke fraud ML models are powered by algorithms that learn from historical data, picking up on behaviors and characteristics commonly associated with fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/01/how-ai-and-machine-learning-help-detect-and-prevent-fraud/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/01/how-ai-and-machine-learning-help-detect-and-prevent-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-adastra-signs-strategic-collaboration-agreement-with-aws-to-drive-ai-powered-solutions-globally.md",
+      "title": "Adastra Signs Strategic Collaboration Agreement with AWS to Drive AI-Powered Solutions Globally",
+      "excerpt": "Adastra has been creating tailored solutions across industries, including financial services, manufacturing, automotive, and public sector that are now powered by Amazon SageMaker JumpStart and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231101268759/en/Adastra-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Drive-AI-Powered-Solutions-Globally",
+      "originalUrl": "https://www.businesswire.com/news/home/20231101268759/en/Adastra-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Drive-AI-Powered-Solutions-Globally",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-01-self-driving-car-service-suspends-rides-nationwide-but-will-resume-mapping-in-nc.md",
       "title": "Self-driving car service suspends rides nationwide but will resume mapping in NC",
       "excerpt": "The pause by General Motors’ Cruise division comes after several safety incidents. But mapping will resume in Charlotte, and Raleigh awaits next steps.",
@@ -343,6 +506,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-nanowire-brain-network-learns-and-remembers-on-the-fly.md",
+      "title": "Nanowire 'brain' network learns and remembers 'on the fly'",
+      "excerpt": "For the first time, a physical neural network has successfully been shown to learn and remember \"on the fly,\" in a way inspired by and similar to how the brain's neurons work.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-10-nanowire-brain-network-fly.html",
+      "originalUrl": "https://phys.org/news/2023-10-nanowire-brain-network-fly.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/nanowire-brain-network.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-10-nanowire-brain-network-fly.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-nanowire-brain-network-fly.amp",
+      "publishedDateTime": "2023-11-01T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -738,202 +944,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us.md",
-      "title": "AI Needs a Strong Code of Ethics to Keep its Dark Side From Overtaking us",
-      "excerpt": "We have done our best to build on the work already being done in industry and add to it what we know about ethics. We believe we can build a more just and caring world. A more ethically responsible tech industry and AI products and services are possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scu.edu/ethics/leadership-ethics-blog/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us/",
-      "originalUrl": "https://www.scu.edu/ethics/leadership-ethics-blog/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.scu.edu/media/ethics-center/all-about-ethics/artificial-intelligence-pixabay_Gerd-Altmann-360x225.jpg",
-          "width": 360,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Santa Clara University",
-        "domain": "scu.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-the-growth-of-ai-in-social-media.md",
-      "title": "The growth of AI in social media",
-      "excerpt": "The internet and social media have changed the world since the advent of websites like Facebook, Instagram and the long-gone Myspace. The era of social media has allowed for people to communicate across vast distances and maintain friendships in a way that was not possible just 20 years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenorthernlight.org/stories/the-growth-of-ai-in-social-media",
-      "originalUrl": "https://www.thenorthernlight.org/stories/the-growth-of-ai-in-social-media",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Northern Light",
-        "domain": "thenorthernlight.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough.md",
-      "title": "Biden’s Executive Order on AI Is a Good Start, Experts Say, but Not Enough",
-      "excerpt": "A new executive order signed this week sets the stage for federal AI standards and requirements and moves beyond previous voluntary agreements with AI companies",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough/",
-      "originalUrl": "https://www.scientificamerican.com/article/bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-google-deepmind-debuts-new-version-of-its-alphafold-model-for-researchers.md",
-      "title": "Google DeepMind debuts new version of its AlphaFold model for researchers",
-      "excerpt": "Google DeepMind today detailed a new version of AlphaFold, an artificial intelligence model it has built to help researchers study biological molecules such as proteins.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/10/31/google-deepmind-debuts-new-version-alphafold-model-researchers/",
-      "originalUrl": "https://siliconangle.com/2023/10/31/google-deepmind-debuts-new-version-alphafold-model-researchers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-quadruped-robots-may-one-day-give-seeing-eye-dogs-a-run-for-their-money.md",
-      "title": "Quadruped robots may one day give seeing-eye dogs a run for their money",
-      "excerpt": "While seeing-eye dogs can be very helpful to the blind, raising and training them is a long and expensive process. Scientists have therefore recently started investigating the possibility of outsourcing the job to dog-like quadruped robots.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/quadruped-robots-seeing-eye-dogs/",
-      "originalUrl": "https://newatlas.com/robotics/quadruped-robots-seeing-eye-dogs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/9cb492e/2147483647/strip/true/crop/1000x525+0+71/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fac%2F9d%2F0931865948549d80f73317997bfe%2Frobot-seeing-eye-dog-1.png&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

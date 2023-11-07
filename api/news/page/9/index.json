@@ -2,6 +2,212 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-10-28-facial-recognition-vans-the-case-for-and-against.md",
+      "title": "Facial recognition vans: the case for and against",
+      "excerpt": "The Metropolitan Police has begun rolling out facial recognition technology at Premier League games for the first time. Supporters who are subject to football banning orders are being added to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.standard.co.uk/comment/facial-recognition-technology-london-football-b1116372.html",
+      "originalUrl": "https://www.standard.co.uk/comment/facial-recognition-technology-london-football-b1116372.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-28T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "London Evening Standard",
+        "domain": "standard.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-28-race-to-ai-the-origins-of-artificial-intelligence-from-turing-to-chatgpt.md",
+      "title": "Race to AI: the origins of artificial intelligence, from Turing to ChatGPT",
+      "excerpt": "Today’s poem-writing AI has ancestry in punch-card machines, trundling robots and godlike gaming engines",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?ref=futurepedia",
+      "originalUrl": "https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt?ref=futurepedia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-28T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-28-israels-terrifying-arsenal-of-robot-weaponry-how-ai-powered-turrets-remote-control-boats-and-unmanned-attack-bots-will-be-used-as-the-idf.md",
+      "title": "Israel's terrifying arsenal of ROBOT weaponry: How AI-powered turrets, remote-control boats and unmanned attack bots will be used as the IDF prepares for a full-scale ground ...",
+      "excerpt": "For maximum flexibility, it can be equipped with a range of different payloads including sensors and radars, manipulator arms, or remotely controlled weapons. Weaponised versions of the robot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12675883/Israels-terrifying-arsenal-ROBOT-weaponry-AI-powered-turrets-remote-control-boats-unmanned-attack-bots-used-IDF-prepares-scale-ground-invasion-Gaza.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12675883/Israels-terrifying-arsenal-ROBOT-weaponry-AI-powered-turrets-remote-control-boats-unmanned-attack-bots-used-IDF-prepares-scale-ground-invasion-Gaza.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/10/27/13/77078843-0-image-a-28_1698409251874.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-12675883/amp/Israels-terrifying-arsenal-ROBOT-weaponry-AI-powered-turrets-remote-control-boats-unmanned-attack-bots-used-IDF-prepares-scale-ground-invasion-Gaza.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-12675883/amp/Israels-terrifying-arsenal-ROBOT-weaponry-AI-powered-turrets-remote-control-boats-unmanned-attack-bots-used-IDF-prepares-scale-ground-invasion-Gaza.html",
+      "publishedDateTime": "2023-10-28T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-28-automated-ai-multichannel-multilingual-marketing-brain-for-smb-growth-announced.md",
+      "title": "Automated AI Multichannel, Multilingual Marketing Brain For SMB Growth Announced",
+      "excerpt": "New AI-powered dynamics geared toward lead conversion for small and midsize businesses have been announced - with mBrain bringing forward new",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/automated-ai-multichannel-multilingual-marketing-brain-for-smb-growth-announced-1032750305",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/automated-ai-multichannel-multilingual-marketing-brain-for-smb-growth-announced-1032750305",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-automated-ai-multich-1698405976.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T21:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-28-lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service.md",
+      "title": "Lilt Supports AI-Powered Translated Forecasts Offered By NOAA's National Weather Service",
+      "excerpt": "the leading AI solution for enterprise translation, is proud to provide the AI-powered technology behind a new experimental language translation website by NOAA and the National Weather Service.",
+      "sourceUrl": null,
+      "webUrl": "https://fox40.com/business/press-releases/cision/20231027SF50824/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/",
+      "originalUrl": "https://fox40.com/business/press-releases/cision/20231027SF50824/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX40 News",
+        "domain": "fox40.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-28-how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace.md",
       "title": "How artificial intelligence is monitoring employee performance in the workplace",
       "excerpt": "Artificial intelligence has been around for years, but the technology is being used in new ways, including to monitor your performance on the job.",
@@ -917,229 +1123,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-generative-ai-in-real-estate-emphasizing-whats-human-in-housing.md",
-      "title": "Generative AI In Real Estate: Emphasizing What’s Human In Housing",
-      "excerpt": "Here are a few ways generative AI can enhance the housing industry from a resources and processes perspective.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/653add73b8a4fb3de24d55c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1247,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/amp/",
-      "publishedDateTime": "2023-10-27T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-tesla-faces-automated-driving-rival-in-geely-and-baidu-ev.md",
-      "title": "Tesla Faces Automated Driving Rival in Geely and Baidu EV",
-      "excerpt": "Competition is intensifying in China’s automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-10-27/tesla-faces-self-driving-challenger-as-geely-and-baidu-launch-ev",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-10-27/tesla-faces-self-driving-challenger-as-geely-and-baidu-launch-ev",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-ai-and-the-future-of-work-adapting-to-a-changing-landscape.md",
-      "title": "AI And The Future Of Work: Adapting To A Changing Landscape",
-      "excerpt": "Nvidia, a leading technology company, recently announced a significant increase in earnings, with their revenue doubling due to the high demand for its AI chips that power new machine learning applications;",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6307744cdf865cb5591b5fd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
-      "publishedDateTime": "2023-10-27T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-to-maximize-roi.md",
-      "title": "MediaGo Empowers Advertisers with Enhanced Smartbid Capabilities to Maximize ROI",
-      "excerpt": "Leveraging deep learning technology, MediaGo's new Smartbid feature creates tangible value for performance advertisers by effectively managing the bidding process. The Smartbid model, built on a deep neural network with over 1 billion parameters, enables significant improvements in ad performance for advertisers at all scales.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-maximize-/2023/10/27/9906693.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-maximize-/2023/10/27/9906693.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers.md",
-      "title": "Using facial recognition, SITA and Fraport enable a contactless travel experience for all airline passengers",
-      "excerpt": "Frankfurt becomes the first European airport to offer full-coverage biometric systems, another milestone in the expansion of Fraport’s digital passenger processes",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers-u0iwgdbx",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers-u0iwgdbx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MDc1ZTUxM2EtMzE2ZC00/0/1-jpg.jpeg?f=3%3A2",
-          "width": 528,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers-u0iwgdbx?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers-u0iwgdbx?amp=1",
-      "publishedDateTime": "2023-10-27T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-16-us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.md",
+      "title": "U.S. tackles loopholes in curbs on AI chip exports to China",
+      "excerpt": "The new rules will be added to sweeping U.S. restrictions on shipments of advanced chips and chipmaking equipment to China unveiled last October.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
+      "originalUrl": "https://www.cnbc.com/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 574,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107317555-1697418146775-gettyimages-1507545065-CHINA_WORLD_AI.jpeg?v=1697421613",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
+      "publishedDateTime": "2023-10-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-15-the-company-powering-the-ai-revolution-is-quite-happy-to-let-staff-keep-wfh.md",
       "title": "The company powering the AI revolution is quite happy to let staff keep WFH",
       "excerpt": "Nvidia, which makes chips used for AI software like ChatGPT, says flexible work helps attract and retain staff and lets them balance their \"personal and work obligations.\"",
@@ -1353,49 +1405,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-european-commission-to-keep-track-of-ai-and-semiconductor-chips.md",
-      "title": "European Commission to keep track of AI and semiconductor chips",
-      "excerpt": "Sources revealed that on October 3, 2023, European Union officials mentioned that they have identified four areas that need assessment regarding technology risk and risk of technology leakage. The areas are believed to include AI, advanced semiconductor technologies, quantum technologies and biotechnologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/chip.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/",
-      "publishedDateTime": "2023-10-04T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

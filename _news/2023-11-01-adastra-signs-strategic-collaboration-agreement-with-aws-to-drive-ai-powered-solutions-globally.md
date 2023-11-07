@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Adastra Signs Strategic Collaboration Agreement with AWS to Drive AI-Powered Solutions Globally"
-excerpt: "Adastra, a leading global Data and Analytics solutions provider, announced today that it has signed a Strategic Collaboration Agreement (SCA) with Ama"
-publishedDateTime: 2023-11-01T15:17:00Z
+excerpt: "Adastra has been creating tailored solutions across industries, including financial services, manufacturing, automotive, and public sector that are now powered by Amazon SageMaker JumpStart and ..."
+publishedDateTime: 2023-11-01T12:26:00Z
 originalUrl: "https://www.businesswire.com/news/home/20231101268759/en/Adastra-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Drive-AI-Powered-Solutions-Globally"
 webUrl: "https://www.businesswire.com/news/home/20231101268759/en/Adastra-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Drive-AI-Powered-Solutions-Globally"
 type: article
@@ -15,6 +15,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "zyIQ/7uRXBKvMbGHPC3+31NI2na9kPXeG+mFpRoe+qrvNr13n3/nNoeaxJT4g3wACGbBi/j2h4SOR37zpby/I9DPF4Uqup+GnbiE/FtlAZyQnJhULO43cqHcNjyKjLqyEUM7P3D8zMw/Ry+o9g/pGxPGpNtkNU4b9KiKZIAmYZ0XI9CQjOUCw7ei3znn1vLDFQhqzzY3WBlyNdwbsjYvDzvQ8bSIw0/+8Xky2waiUqGXUWIVqFPqe2pRXsYt7OLVTEG0T2BGmGbbes7p3aHIQbmkTN8zfPAhcXMYyK8XcKR8gc9IIkSvQFWsKbC737vIEZFLBM7hFuGLuUMF+XxskKI3OMTOSpGvJDuiLJIX01w=;g4vgveiy+ECBDRuWbO9mFQ=="
+secured: "+KHdK6TXg92/iI+XUc8t9A42fi0LTFjoAXDXUu/r91jepdCR6mEcaXwgJZR6sPRq53UzBuTLKggqY32mJrahiBx/uH52OreHYa2nWGQ2vf4mDnh0A07q1hwS8HojyTXAMDQFupnQWQXURHxq8ft8xD3yQNx2dnZybYnac5QY8MNwAJAacOOK+nQCyDBjXzxwCqnv3MTqnYro2FoCp0PVJrVrG9Y/TjMS23MYjTlpKwxdf8YYHp8F+6gfcHN4aIUzVJ0xiTu6ESKCzKkbBdVyuv71wiZkaPxz2XQ4Yjr/Bnpo56Qtw10JFmvJvqT6dyLTsF+XjVOeHcUtKJvPY1mgQ+iBxRmpmDksuJNuPVpytpw=;juqZ2xc8oUXq1v0mq/AViQ=="
 ---
 

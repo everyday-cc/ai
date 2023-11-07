@@ -2,6 +2,104 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-29-sppu-launches-ai-and-machine-learning-postgraduate-diploma.md",
+      "title": "SPPU launches AI and Machine learning postgraduate diploma",
+      "excerpt": "The advanced curriculum has been jointly designed with the Department of Technology, SPPU keeping in mind the objectives of the NEP2020.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/",
+      "originalUrl": "https://indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/08/SPPU-1.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/lite/",
+      "publishedDateTime": "2023-08-29T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-kaldi-speech-recognition-gains-tensorflow-deep-learning-support.md",
+      "title": "Kaldi speech recognition gains TensorFlow deep learning support",
+      "excerpt": "Kaldi, an open-source speech recognition toolkit, has been updated with integration with the open-source TensorFlow deep learning library. Developers Yishay Carmiel and Hainan Xu of Seattle-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
+      "originalUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2017/08/DSC2820-1.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2023-08-27-graduate-certificate-in-artificial-intelligence-and-machine-learning.md",
       "title": "Graduate Certificate in Artificial Intelligence and Machine Learning",
       "excerpt": "Who is the AI and Machine Learning Certificate program for? Drexel College of Computing & Informatics' Post-Baccalaureate/Graduate Certificate in Artificial Intelligence (AI) and Machine Learning (ML) is designed for recent graduates and professionals who ...",
@@ -1288,93 +1386,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-ai-models-are-powerful-but-are-they-biologically-plausible.md",
-      "title": "AI models are powerful, but are they biologically plausible?",
-      "excerpt": "Artificial neural networks, ubiquitous machine-learning models that can be trained to complete many tasks, are so called because their architecture is inspired by the way biological neurons process information in the human brain.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-08-ai-powerful-biologically-plausible.html",
-      "originalUrl": "https://techxplore.com/news/2023-08-ai-powerful-biologically-plausible.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-models-are-powerful.jpg",
-          "width": 2880,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-08-ai-powerful-biologically-plausible.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-powerful-biologically-plausible.amp",
-      "publishedDateTime": "2023-08-15T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-h2oai-achieves-soc2-type-2-hipaahitech-report.md",
-      "title": "H2O.ai Achieves SOC2 Type 2 +HIPAA/HITECH Report",
-      "excerpt": "H2O.ai Achieves SOC2 Type 2 +HIPAA/HITECH Report - Reinforcing Commitment to Data Security and Customer Trust (Graphic: AICPA) H2O.ai's Chief Information Security Officer (CISO), David Epperson, expressed his pride in the team's accomplishment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/h2o-ai-achieves-soc2-type-2-hipaa-hitech-report/article_1ab7f8f6-1e43-589d-a37e-bb30a6ee7671.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/h2o-ai-achieves-soc2-type-2-hipaa-hitech-report/article_1ab7f8f6-1e43-589d-a37e-bb30a6ee7671.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/c/28/c280439b-13bb-5dfc-9f65-a08ba10ae4b1/64dba337f4165.image.jpg?crop=802%2C421%2C0%2C190&resize=802%2C421&order=crop%2Cresize",
-          "width": 802,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

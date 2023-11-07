@@ -39,7 +39,21 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "MediaTek Dimensity 9300 deep dive: A true Snapdragon rival?"
+    excerpt: "The MediaTek Dimensity 9300 mobile processor boasts a powerhouse CPU design and AI capabilities, here's what you need to know."
+    publishedDateTime: 2023-11-06T11:30:00Z
+    webUrl: "https://www.androidauthority.com/mediatek-dimensity-9300-explained-3381678/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 54
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/11/MediaTek-Dimensity-9300.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "sFjQQxxI/mdRcNplolZZgHKEa615chKG10D8QdhCxLS3iTnWASsySrrlWDhIubijx9t64PPBLWtvW9SPf+AO+b/uNZtU1ejLq9hEkADcgxnQZk/X5k+ntx/hajYmV1mEgHzw6HhwndkyVjqzDTZMnODaMDWylhd68esVgVG0PPc+K5mWN/T5L0IAWoB8qVTjG6S0XJZH0qGEM2N1DoFopNgwvKWDs8UoVIieQpBGuKfA13HsArblvR6fI1pFj7KEzTVOZdnzUgeZ7x563IMgSx/izQhg0rMI+BNkz6FrUlEqABgtsPtGosqIGUeWc7PYuCIa4SQfjJtF7/3dD4Yd1o57xu8XD4dk4NyzNYlAcag=;YRhKaB4m/eFpu/+pql4D0A=="
+secured: "Vz5g9IQRoD1T4042JFFjZUp9dTFoUxYpR3MaWUlAjKF5bcyq/9Y5iiOsNbuDRsC6KVfG/V1w+nOcITdpiEgubq52LOOa7PkrSJIH8BwvR5pXVpAP4XL33VsCu4I3QwvDVd4BT9bKk0K+9ju+VxXTQKQLTWJqxrPyrQH/1WiF7NHDnqF9cgxhW6QC5HS4dLGDxO2ze1nnwsXDjY1AtIlRp7CeXONBJ4/sD5F/KcrpX/J47VN7Y9Xo651rDqrNLzIDrVBuw5EjzPSV9ZDvpUaCXKGpzZ1ZawQc3VlCbR0VWf9WKz5n1A7gZN74t3TicwulG9N6/DculVg0L23SEcVFIsOKzpVXAyEGEPr3gdvJn69HidzRvrgzfg1i6m4bVdm3Z5cSQU3r6pftuaiqjUJc9ZrP1YyGoWJb2bPNYJUFbsui652FsOg7YxyhgR2YkflBNyICTpCCVF41Rp2vSI7y558BuwZQIAlDPwfzDx85thBG+xx5qCcuZOdX0jxVIEOUeLIqyFr2OKtYkRyRujI37A==;GvRWWbLLCSo8LWWZFv/bYw=="
 ---
 

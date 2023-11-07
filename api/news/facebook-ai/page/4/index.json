@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-07-bank-of-america-securities-remains-a-sell-on-c3ai-ai.md",
+      "title": "Bank of America Securities Remains a Sell on C3ai (AI)",
+      "excerpt": "In a report released yesterday, Bradley Sills from Bank of America Securities reiterated a Sell rating on C3ai (AI – Research Report),",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-securities-remains-a-sell-on-c3ai-ai-1032612242",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-securities-remains-a-sell-on-c3ai-ai-1032612242",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-chinese-operatives-are-using-ai-photos-to-trick-american-voters-and-turn-them-against-each-other-microsoft-says.md",
       "title": "Chinese operatives are using AI photos to trick American voters and turn them against each other, Microsoft says",
       "excerpt": "China has since March been using generative AI to create viral content that divides ... In July, cybersecurity research firm Mandiant said that it found Chinese-affiliated operatives had paid ...",
@@ -1460,61 +1504,6 @@
         "IBM AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-the-world-isnt-ready-for-the-next-decade-of-ai.md",
-      "title": "The World Isn’t Ready for the Next Decade of AI",
-      "excerpt": "Mustafa Suleyman, cofounder of DeepMind and Inflection AI, talks about how AI and other technologies will take over everything—and possibly threaten the very structure of the nation-state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
-      "originalUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64dbb4a1eb3f06fa8140d23f/191:100/w_1280,c_limit/081523-HANF-Mustafa-Suleyman.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI",
-        "Google AI",
-        "Natural Language Processing"
       ]
     }
   ],

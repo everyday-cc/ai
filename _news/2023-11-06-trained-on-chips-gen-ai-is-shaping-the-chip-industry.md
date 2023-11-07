@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/trained-on-chips-gen-ai-is-shaping-t
 webUrl: "https://analyticsindiamag.com/trained-on-chips-gen-ai-is-shaping-the-chip-industry/"
 type: article
 quality: 54
-heat: 68
-published: false
+heat: 72
+published: true
 
 provider:
   name: Analytics India Magazine
