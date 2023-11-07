@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-11-artificial-intelligence-predi
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-11-artificial-intelligence-predictpossibly-preventsudden-cardiac.amp"
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1920
     height: 752
     isCached: true
+
+related:
+  - title: "How Artificial Intelligence can predict, prevent sudden cardiac death?"
+    excerpt: "Cardiac arrest is a medical emergency condition in which the heart suddenly stops beating effectively, leading to a cessation of blood flow to the body and brain. This can result in the rapid loss of consciousness and,"
+    publishedDateTime: 2023-11-07T08:52:00Z
+    webUrl: "https://www.indiatvnews.com/health/how-artificial-intelligence-can-predict-cardiac-arrest-2023-11-07-901637"
+    ampWebUrl: "https://www.indiatvnews.com/amp/health/how-artificial-intelligence-can-predict-cardiac-arrest-2023-11-07-901637"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/health/how-artificial-intelligence-can-predict-cardiac-arrest-2023-11-07-901637"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 57
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/11/cardiac-arrest-1699346963.jpg"
+        width: 360
+        height: 202
+        isCached: true
 
 secured: "cjHAfzXSVtaAilzT+qIs6O0hriGm31ClkPEWYFdcWFFxybK2cVsLZCDJ/JUa/esJoHxka/j9ojURnaf4SrCQyXmyoPQZsOsmIuIx+t3VYxA4yTHwU5gkCkMpJJaqgvr2stotn2nt9rxhVEQAuY5PVkT6lgWKXONvyUYW0+u0Ww65nKg8PCVM6z7AxMLXXu+CA2PKVQ6FnUyO94f0tAP1lQqDlNDJXrMpak2Y2wsUOqjpP9Hg/BBqAdcntZNGYbJb4mo6/EKBml/d6BY0sxxSIEi0TwAkP5VGQgKAA6FbT2PvRE6av2lK2/DRJv13ONAabn/kgqcPuuXr7PxIuo8sKfMrGdj26Zf9C1eTjTtxuYizi1/xdP8KTeRxViN3UN5HZtZiH7CQWTPf28GxGEjz2v1ezqyZW0Jz2lsX0hNmfCAcDsu7U1VHwRDxzwH+t+y9Ak8bZQ/DhGQgfZmjvw0ZFrAwpu9DY75peq6+D6Ld8yHCQRBMRV3+ZRysS0Prek9wUM6OlRLyxVd2i6mtY9VmiA==;Z6BoAoxqASLw0lStEIRj0A=="
 ---

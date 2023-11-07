@@ -84,6 +84,22 @@ related:
         width: 1200
         height: 711
         isCached: true
+  - title: "Flipkart founder Binny Bansal to set up his own AI startup, to expand to US once up and running"
+    excerpt: "Flipkart founder Binny Bansal is planning to set up his own AI startup, and has assembled a team of 15 experts, primarily composed of artificial intelligence scientists and engineers. Although it will be based out of Bengaluru,"
+    publishedDateTime: 2023-11-07T07:11:00Z
+    webUrl: "https://www.firstpost.com/tech/flipkart-founder-binny-bansal-to-set-up-his-own-ai-startup-to-expand-to-us-once-up-and-running-13358512.html"
+    ampWebUrl: "https://www.firstpost.com/tech/flipkart-founder-binny-bansal-to-set-up-his-own-ai-startup-to-expand-to-us-once-up-and-running-13358512.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/flipkart-founder-binny-bansal-to-set-up-his-own-ai-startup-to-expand-to-us-once-up-and-running-13358512.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 45
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/11/Flipkart-founder-Binny-Bansal-to-set-up-his-own-AI-startup-to-expand-to-US-once-up-and-running.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Binny Bansal to launch global AI-as-a-service startup"
     excerpt: "The company, which is currently operating in stealth mode, will provide AI talent, products, and services to a global corporate clientele, mirroring the outsourcing business model exemplified by companies like Tata Consultancy Services and Infosys."
     publishedDateTime: 2023-11-07T05:55:00Z
@@ -97,6 +113,20 @@ related:
       - url: "https://images.yourstory.com/cs/wordpress/2018/11/binny-1.jpg?fm=png&auto=format"
         width: 800
         height: 400
+        isCached: true
+  - title: "Flipkart Co-Founder Binny Bansal Ventures into Stealth AI Startup"
+    excerpt: "Binny Bansal, the co-founder of the e-commerce giant Flipkart, is making waves in the tech industry once again with his latest venture into the world of artificial intelligence (AI). Read on to learn more."
+    publishedDateTime: 2023-11-07T07:10:00Z
+    webUrl: "https://www.gizbot.com/internet/news/flipkart-co-founder-binny-bansal-ventures-into-stealth-ai-startup-088241.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 37
+    images:
+      - url: "https://www.gizbot.com/img/2023/11/flipkart-1-1699340877.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "9fALyNuRvW5qCJuVZ3x3qq3ulqGbmdcK6VpEFwHyPahWWZvUyg76Zj3/DDBp2J0KfmOfNYiARxX9UN7VIj7FO4qJaY9Yc/DEkphE54pvZfJd6TBbMZxaWnMURm/LbgGLLbWKlAIRwcPTZfiNXeYY3x7RkZmAEep31kOK9+UN7qwt6JJZ3IU6bjuwHDdAkwVzkwONhLEIvKLvnCO7F18ZaUzkyok05FA/9J2pVExq9VL1i5pUZ4utSzF7jhu1gBtmKRzX3vLKzJB+cpRrep6Kkblx+E2gOVGi153q2saHEFZ1gFblzmkUVX3vJd/l6nmPlmdY15EaAgffZKALO8gtEw4G5k1Kpmnk5WvCeSPq5XAuhG2H4hYOVl+WrWQ2KyX03o1VxRiWE7uKl2wZUm3X/OuWgzPRdSv34W+00in6xNnBGv8tFlI0AnVLLgWAErTbSi9LjUV2QVGmL23XPXKhzn66DnRFXo4NrvbPIyTHIoEV4ReVhbpQf90mMmgNLagEveDE6HgrcsSGz770GUrhKw==;i6LQsrjSzWNbA8a3wLgUCg=="

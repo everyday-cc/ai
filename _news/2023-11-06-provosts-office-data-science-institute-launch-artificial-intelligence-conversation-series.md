@@ -24,17 +24,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Xiong named director of Institute for Artificial Intelligence and Data Science"
-    excerpt: "A UB faculty member since 2021, Xiong specializes in AI applications, algorithms, tooling and computer architectures."
-    publishedDateTime: 2023-11-02T16:09:00Z
-    webUrl: "https://www.buffalo.edu/news/releases/2023/11/xiong-artificial-intelligence-director.html"
-    type: article
-    provider:
-      name: Medicine Buffalo
-      domain: buffalo.edu
-    quality: 15
-
 secured: "kDIqbE4FZVmF1ViHrKe3U6auU/QVUFuRAoQJ/TWpntMhPQ5M9awn1Q+kepCcx9xhdR3euoxkhmNRx/dxotAnAZLazDmnDhk4kH1m75B8tdA8vMVwQRXxcdSHdwIwww/hSKgysVBxjCYRwgGkuUu7ylaStp3KBQKsdgrpJ3DWNVVDqVlKPlrnnRx7KmlbNESlAWVRw2qyJolntTVxx0W8km1/7Z8nt9gsB0wvYnZzIRZaBtr5NsmOAirHfgNCZJRulHlDavFf/hub888wiY6bsaQlRhjqQmHlNRK3P9QEDGU37Vg+tRZiLjLHT4FEqXdtVT4O8Yxd3fFXtG+Xg0ltt0snK4u0/SHuXcv88exDYelOHVKFYdCg8qOok5RYbRDAtT86PM/1xIQW6mtorBwrqou+V5nIVRJLEP76iG8xbjAiMMJtm1ue+S7ZXxg6K1GrCHi2ZiudElbxmfqoGeE28uMF3bNLKaZmZHP0rYiY6xW6WKn3uyc0uGhrwiZG71TmhA9+1Nw2Rk3s27533DhfYw==;y0tvcuH16EO8U/KpCQLoHA=="
 ---
 

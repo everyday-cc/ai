@@ -111,6 +111,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Sunak clashes with Elon Musk as X boss says AI means we won’t need to work"
+    excerpt: "He said some AI robots will “know you better than you know yourself ... Mr Sunak said: “Before you start mandating for things and legislating for things … it is important that regulation is empirically based.” The agreement with AI companies ..."
+    publishedDateTime: 2023-11-07T08:48:00Z
+    webUrl: "https://www.independent.co.uk/news/uk/politics/rishi-sunak-elon-musk-ai-b2440764.html?page=1"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 37
+    images:
+      - url: "https://static.independent.co.uk/2023/11/02/21/newFile-1.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 899
+        isCached: true
   - title: "xAI, Elon Musk's AI Startup, to Release First AI Model to Select Group"
     excerpt: "The team behind xAI, which launched in July, comes from Google's DeepMind, the Windows parent, and other top AI research firms."
     publishedDateTime: 2023-11-04T10:46:00Z

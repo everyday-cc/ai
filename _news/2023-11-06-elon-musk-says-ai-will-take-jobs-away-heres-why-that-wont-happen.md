@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musk
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://i.cdn.newsbytesapp.com/images/l50720231106093255.jpeg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Sunak clashes with Elon Musk as X boss says AI means we won’t need to work"
+    excerpt: "He said some AI robots will “know you better than you know yourself ... Mr Sunak said: “Before you start mandating for things and legislating for things … it is important that regulation is empirically based.” The agreement with AI companies ..."
+    publishedDateTime: 2023-11-07T08:48:00Z
+    webUrl: "https://www.independent.co.uk/news/uk/politics/rishi-sunak-elon-musk-ai-b2440764.html?page=1"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 37
+    images:
+      - url: "https://static.independent.co.uk/2023/11/02/21/newFile-1.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 899
         isCached: true
   - title: "Elon Musk Predicts the End of All Jobs—Google AI Exec Disagrees"
     excerpt: "DeepMind co-founder Mustafa Suleyman contested Musk's assertions at the AI Safety Summit, saying it's too early to say that AI will replace human workers."

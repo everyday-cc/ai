@@ -7,7 +7,7 @@ originalUrl: "https://www.arabianbusiness.com/resources/northern-ireland-the-wor
 webUrl: "https://www.arabianbusiness.com/resources/northern-ireland-the-worlds-top-region-for-both-new-software-development-and-fintech-inward-investment-projects"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "FinTech LIVE London: Meet our software and tech experts"
+    excerpt: "It's time to cast an eye over the software and technology-related speakers who will be taking the stage at FinTech LIVE London this week"
+    publishedDateTime: 2023-11-05T17:21:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-live-london-meet-our-software-and-tech-experts"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "XKQ/9YK2IhYxvIgYrvsHuI2V2muInK/pjiLYE6mMnF0ZJHCXoitT1j6PIje6Ln4ufkP490dmEnwuvYhi+d0xcTVeY3rdiONVBOoHfCVE2XX5d5f/luF8tnB6nUCEnDOGRixYbdq4NN06QTL305Hu6fPiVl8kETqosMCehuY3M5zwvREK/4cTUNoOxkyFuOuNbtr8BLz+89E4atiSuaMxZl+rIWX2htmTZi4NNbQ87i/hRlhB0Q/4E7MWZV1dMhrVw2ojx/GLfo//6Bd6dYdqk4R4altFpLee3//T04Vq45mi2yA90pmstLK8+ngjFvMYWvrgkzh+uKM711TEJCuPS7q4NXiS8pPyeOJjUA7Xqes=;MtRjraOOXi7DFrjZ624jNA=="
 ---

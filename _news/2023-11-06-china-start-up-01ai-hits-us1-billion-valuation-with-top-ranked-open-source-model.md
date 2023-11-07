@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/big-tech/article/3240451/china-start-01a
 webUrl: "https://www.scmp.com/tech/big-tech/article/3240451/china-start-01ai-hits-us1-billion-valuation-top-ranked-open-source-model?module=live&pgtype=homepage"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 39
+  - title: "Kai-fu Lee’s AI startup achieves $1 billion valuation in eight months"
+    excerpt: "AI, a Chinese AI startup founded by AI pioneer Kai-fu Lee, has achieved a $1 billion valuation, earning unicorn status in less than eight months,"
+    publishedDateTime: 2023-11-07T07:20:00Z
+    webUrl: "https://technode.com/2023/11/07/kai-fu-lees-ai-startup-achieves-1-billion-valuation-in-eight-months/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 37
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/11/截屏2023-11-07-下午3.19.47.png"
+        width: 2504
+        height: 1508
+        isCached: true
   - title: "China AI start-up hits unicorn status in less than 8 months"
     excerpt: "BENGALURU - A Chinese start-up founded by computer scientist Lee Kai-Fu has become a unicorn in less than eight months on the strength of a new open-source artificial-intelligence (AI) model that outstrips Silicon Valley’s best, on at least certain metrics."
     publishedDateTime: 2023-11-06T00:20:00Z

@@ -33,6 +33,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft and Inworld AI join forces to create AI tools for game developers"
+    excerpt: "Microsoft has announced a partnership with Inworld AI to develop AI game dialogue and narrative tools at scale, including an AI design copilot and an AI character runtime engine."
+    publishedDateTime: 2023-11-07T08:48:00Z
+    webUrl: "https://tech.hindustantimes.com/gaming/news/microsoft-and-inworld-ai-join-forces-to-create-ai-tools-for-game-developers-71699335168971.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/gaming/news/microsoft-and-inworld-ai-join-forces-to-create-ai-tools-for-game-developers-71699335168971.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/gaming/news/microsoft-and-inworld-ai-join-forces-to-create-ai-tools-for-game-developers-71699335168971.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 72
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/11/07/1600x900/GERMANY-GAMESCON-33_1699346799201_1699346816857.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Microsoft, AWS, Google Cloud Market Share Q3 2023 Results"
     excerpt: "Worldwide cloud market share 2023 rankings from AWS, Google Cloud, Microsoft Azure, IBM and Alibaba as the cloud services market hits $68 billion."
     publishedDateTime: 2023-11-06T20:35:00Z

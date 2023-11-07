@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Brandeis U revokes recognition of campus chapter of Students for Justice in Palestine"
-excerpt: "SJP, which has a national umbrella group and campus chapters across the country, has spoken out in support of Hamas’ invasion of Israel. Brandeis said support for Hamas, which the United States has designated as a foreign terror group, is not protected by the university’s free speech principles."
-publishedDateTime: 2023-11-06T22:07:00Z
-originalUrl: "https://www.jta.org/2023/11/06/united-states/brandeis-u-revokes-recognition-of-campus-chapter-of-students-for-justice-in-palestine"
-webUrl: "https://www.jta.org/2023/11/06/united-states/brandeis-u-revokes-recognition-of-campus-chapter-of-students-for-justice-in-palestine"
+excerpt: "The chapter had been planning a vigil for Monday evening but announced that it had been canceled and Brandeis no longer recognizes the group."
+publishedDateTime: 2023-11-06T23:28:00Z
+originalUrl: "https://forward.com/fast-forward/568525/brandeis-revokes-recognition-campus-chapter-students-justice-palestine/"
+webUrl: "https://forward.com/fast-forward/568525/brandeis-revokes-recognition-campus-chapter-students-justice-palestine/"
+ampWebUrl: "https://forward.com/fast-forward/568525/brandeis-revokes-recognition-campus-chapter-students-justice-palestine/?amp=1"
+cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/fast-forward/568525/brandeis-revokes-recognition-campus-chapter-students-justice-palestine/?amp=1"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Jewish Telegraphic Agency
-  domain: jta.org
+  name: The Forward
+  domain: forward.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.jta.org/wp-content/uploads/2023/06/6-27-23-Brandeis-University-Sign-1024x569.jpg"
-    width: 1024
-    height: 569
+  - url: "https://images.forwardcdn.com/image/732x/center/images/cropped/istock-839120628-1543857558.jpg"
+    width: 732
+    height: 732
     isCached: true
 
 related:
@@ -56,6 +58,6 @@ related:
         height: 1160
         isCached: true
 
-secured: "U0LT7vxCAKUVB7TrRSa9lvEWTc+BN54dWng5OlSOWMBqeeH9q8Bc6T4UZulQxJAbmmc36iOCF9LzKfN2c1s28MeCXp0jC55N2FlFybdtDwFfaTYPSqMDXk4XObC22qYISygN/xZ9Iuc/Rk60UKKBvXrQVf3C5y54TLuQ8clBN4EAc9T3yaFYdU5SrldDUales4M6fGvNqI9QmM8ws9Tzazdo/3VY7c5D+Ml8CZAjDNlhYl5HTk3coUX+OE6qAb+RWEga9F5EOri4SdzEll9gfglI73e5hpSA8mFm5V4GpnC2eYot/baqMqtdVjRw4JArSI05DaP1+vH4S5kuB1pwz48MPJgHb/5pa4kGTIPaSUA=;GJ5aUysBRiExhvR9HRVKew=="
+secured: "ahumPs52RcfHDfucnkgexG++lodLVJVQ421JyLfcb3vqeTumIJhrEv53zZ3r0SouCAtMHYj+xb6/tOzLURyO7yucG+YpKiSebt5749Fo7LhX8Ywh/UzdTnYCGLutlGP17o3FAjx6Jy239dZ3Y42cx2248P66ssjfVf8xXkIwtZMhOCfP8AoI4jEBi7gGkYTkIp2wOZMEPBNTkoYNK5vEQaek9jIx6I3RTE/55FUgvVeWI/ZL+8IzpKjBco6jHfiDdExtV/tVf54lCM7I7kiISjyl9RR7jIpI2DjIJmTX+XCq9A1rEhTZF3053VzK85UY6tihvx+2x/McV7+oqVh33HrTjRrcncTcJfkQEz3HRT0=;elSDVe4XSx/cmEFwInSgNQ=="
 ---
 

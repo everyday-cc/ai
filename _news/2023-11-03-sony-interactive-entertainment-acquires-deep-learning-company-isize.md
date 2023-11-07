@@ -9,7 +9,7 @@ ampWebUrl: "https://www.shacknews.com/article/137650/sony-interactive-entertainm
 cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize?amphtml=1"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

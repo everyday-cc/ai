@@ -42,18 +42,20 @@ related:
         height: 675
         isCached: true
   - title: "Brandeis U revokes recognition of campus chapter of Students for Justice in Palestine"
-    excerpt: "SJP, which has a national umbrella group and campus chapters across the country, has spoken out in support of Hamas’ invasion of Israel. Brandeis said support for Hamas, which the United States has designated as a foreign terror group, is not protected by the university’s free speech principles."
-    publishedDateTime: 2023-11-06T22:07:00Z
-    webUrl: "https://www.jta.org/2023/11/06/united-states/brandeis-u-revokes-recognition-of-campus-chapter-of-students-for-justice-in-palestine"
+    excerpt: "The chapter had been planning a vigil for Monday evening but announced that it had been canceled and Brandeis no longer recognizes the group."
+    publishedDateTime: 2023-11-06T23:28:00Z
+    webUrl: "https://forward.com/fast-forward/568525/brandeis-revokes-recognition-campus-chapter-students-justice-palestine/"
+    ampWebUrl: "https://forward.com/fast-forward/568525/brandeis-revokes-recognition-campus-chapter-students-justice-palestine/?amp=1"
+    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/fast-forward/568525/brandeis-revokes-recognition-campus-chapter-students-justice-palestine/?amp=1"
     type: article
     provider:
-      name: Jewish Telegraphic Agency
-      domain: jta.org
-    quality: 17
+      name: The Forward
+      domain: forward.com
+    quality: 37
     images:
-      - url: "https://www.jta.org/wp-content/uploads/2023/06/6-27-23-Brandeis-University-Sign-1024x569.jpg"
-        width: 1024
-        height: 569
+      - url: "https://images.forwardcdn.com/image/732x/center/images/cropped/istock-839120628-1543857558.jpg"
+        width: 732
+        height: 732
         isCached: true
 
 secured: "zgaA0woRNE1fn9bV2N0mjkgkuSgXDFNyW8lorhd1OUD5AqAfxESnYEgbrTYvqWsN6eTpU7DsAvd4U9zU23hSXxeDwZpPPkCbfkzcJbBU5cOLHljHJNJzm5bL7ORL5OcTAW5NKTMvY4ZlabNspahyIJhaYVJfWUgWkiFmKbWNMkck0K20LpuF2M5X3v3keUZ0MBYTCFQ1L9wRYpESts6+bLZGpZW+QkaIkdl2kYACzBV0sIA/U6cAqP075Q++JZR0y4o2mgcZ3iTuvmFc1gjrdMSATlIfb2+V5qJ3e3gPiofJmtpqQhnbyEqrSJhcCv5KIKFL2j2yuB9k7NkDpdOzQyxhuKKjT1lwQTuIeFg7wZp5jOZX4BA4jUSBEgblYfFEejz25IPkRxFeq/hriK2UYMQZcsa3pgypQYkxgajnLs45cca9cNFd4ZeRckAS5YAFE36YpHJdh9skHaXtSBoz8AS4lz3SX0QXiLqM/d45uPV01vGKt2SyMbcbVtLIbRF/0NlAieQaBA0Owa/T4zWVRA==;LQ8qksUtU9xWAzaOcaOnow=="

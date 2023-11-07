@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/11/06/elon-musk-new-ai-integrate-x
 webUrl: "https://www.gizmochina.com/2023/11/06/elon-musk-new-ai-integrate-x/"
 type: article
 quality: 67
-heat: 90
+heat: 99
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.domain-b.com/Uploads/Images/57f4f8a0-f838-48c2-82ba-ff388ecfeb04-Elon-Musk(1).png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Elon Musk Plans To Integrate AI Startup xAI Into His Social Media Platform X"
+    excerpt: "AI is currently focusing on developing AI tools and the Elon Musk-led AI startup's first AI model is designed to answer questions \"with a sense of humour\"."
+    publishedDateTime: 2023-11-07T07:55:00Z
+    webUrl: "https://www.ibtimes.co.uk/elon-musk-plans-integrate-ai-startup-xai-his-social-media-platform-x-1721339"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 34
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1721069/elon-musk.jpg"
+        width: 2048
+        height: 1363
         isCached: true
 
 secured: "lXTGnr8thzzcZoJrZ/SLPWwCeuCOo3EJaVmlLBk1zJwqDEHzn5ZJ7J1bf2pM3FGuqbvmjqmyippUU6pXL8PWscwITq+PgLB6iZpIh4NJDkXU0Sy/xjdRPAWqBKso9CpiHfKMT55O/BRVYStHE7wOneyEiDNO74c7MN0I1isCPpmn+o78nAHKIsG+1Or2976ydz1t13e+vmb+oZ0AWgH08mTnBx2Qw0BKR5kE++qisaIBgOV39ZK+gdph++DKnMJtEqavcIten9BNS9hMCAaF7tYk4UC3TboLt2rVvehAP7VstHWG6lBL2i9v7ftBpRv2pANlhknQ3FYGFebp/1fgZLLGMVMrCoTRHXEfHJOrB44=;tmM3VwHF4WuBtKhN2YqZ9w=="

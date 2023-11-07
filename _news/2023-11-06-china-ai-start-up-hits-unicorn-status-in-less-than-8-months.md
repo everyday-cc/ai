@@ -59,6 +59,20 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 39
+  - title: "Kai-fu Lee’s AI startup achieves $1 billion valuation in eight months"
+    excerpt: "AI, a Chinese AI startup founded by AI pioneer Kai-fu Lee, has achieved a $1 billion valuation, earning unicorn status in less than eight months,"
+    publishedDateTime: 2023-11-07T07:20:00Z
+    webUrl: "https://technode.com/2023/11/07/kai-fu-lees-ai-startup-achieves-1-billion-valuation-in-eight-months/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 37
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/11/截屏2023-11-07-下午3.19.47.png"
+        width: 2504
+        height: 1508
+        isCached: true
 
 secured: "sPa5mcv6O1hGHKSHJYRKMAwrnG6N3FEaSh9fi7+v1n57Dhaw4ydmAy6A/HMAeH4ZY3h0u7i7A+vbiB/NJBon/5iYZgk5GUDsx2hFedCvjC2LtPLO2awFMcb9RjTrv/FnNxF5Xr1VWnRW85CPTJ548YIVh0zSuZ8k5oBdYNhfO0WPBnrS51Mr4FzZUOF31IK/eSipITgUqYoyCaaZHqDrwBS7JmBcvZxorgil/ZULktWc3YXw6r0smeI7HzZZ8CCo36/wSuFwuOsRL2fSqnydvpSyTkaHL5xMIHzo4GF3HFVlPtW1w4XJIHrODHRDww4RQVL1DfuiwvtS3PgourGlsFSsMe13CPN2f+9Nln8bieDI8JBNycjl77ExPMHw+rVxb2aDt3fszucN6gs31ib4RNBnvVZ8b6JG1pb++EGgW/DoGY9QWvFETz7bacpk4U+hnLuET2Q/bvq7UszKebGz5d9j279A5qtiI8yX9LHB1epCyXeSGsyW4apw8f1Tg6ch2KR1AARHkKW/G56O+5TO0Q==;fSwv9bSqlD+YZINtBvYuwQ=="
 ---
