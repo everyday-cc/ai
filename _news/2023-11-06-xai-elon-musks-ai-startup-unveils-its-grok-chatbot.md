@@ -34,11 +34,25 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
         height: 798
+        isCached: true
+  - title: "OpenAI unveils personalised AI apps as it seeks to expand its ChatGPT consumer business"
+    excerpt: "OpenAI unveiled a marketplace on Monday that enables users to access personalised AI ‘apps’ for tasks like teaching maths or designing stickers, signalling an ambition to expand its ChatGPT consumer business."
+    publishedDateTime: 2023-11-07T12:30:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3240590/openai-unveils-personalised-ai-apps-it-seeks-expand-its-chatgpt-consumer-business?module=more_top_stories_int&pgtype=homepage"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 61
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2023/11/07/2e79b914-8424-438e-80df-4a653cbaee09_8dadf8a4.jpg?itok=xpTP3xh0&v=1699329301"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Start Learning AI and ChatGPT with Python for Only $30"
     excerpt: "Developing Python skills can be a quick way to start learning artificial intelligence and ChatGPT, and according to a Goldman Sachs report, 300 million jobs could be replaced by AI in the next ten years. The 2023 Ultimate AI ChatGPT & Python Programming ..."
@@ -49,6 +63,22 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
+  - title: "OpenAI unveils personalized AI apps as it seeks to expand its ChatGPT consumer business"
+    excerpt: "OpenAI CEO Sam Altman shared the updates at the AI lab’s first developer conference, which attracted 900 developers from around the world and marked the company’s latest attempt to capitalize on the popularity of ChatGPT by offering incentives to build in its ecosystem."
+    publishedDateTime: 2023-11-06T23:06:00Z
+    webUrl: "https://www.shorenewsnetwork.com/2023/11/06/openai-unveils-personalized-ai/"
+    ampWebUrl: "https://www.shorenewsnetwork.com/2023/11/06/openai-unveils-personalized-ai/amp/"
+    cdnAmpWebUrl: "https://www-shorenewsnetwork-com.cdn.ampproject.org/c/s/www.shorenewsnetwork.com/2023/11/06/openai-unveils-personalized-ai/amp/"
+    type: article
+    provider:
+      name: shorenewsnetwork
+      domain: shorenewsnetwork.com
+    quality: 49
+    images:
+      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJA50SF-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Elon Musk Announces 'Grok' AI Chatbot for X Premium+ Subscribers, to Compete With ChatGPT"
     excerpt: "AI's new Grok chatbot will be available to X Premium+ subscribers via the microblogging platform and a standalone app."
     publishedDateTime: 2023-11-06T06:32:00Z
@@ -97,6 +127,20 @@ related:
         width: 690
         height: 690
         isCached: true
+  - title: "Grok: AI Chatbot from Elon Musk’s xAI"
+    excerpt: "Delve into Elon Musk's Grok by xAI, a AI chatbot with real-time information retrieval, humor, and enhanced reasoning abilities. Find about Grok's technical backbone, Grok-1, its training, evaluation and much more."
+    publishedDateTime: 2023-11-06T16:44:00Z
+    webUrl: "https://www.unite.ai/grok-ai-chatbot-from-elon-musks-xai/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/11/Benchmark.png"
+        width: 1200
+        height: 439
+        isCached: true
   - title: "Grok vs ChatGPT: How Does Elon Musk’s AI Chatbot Stack Up?"
     excerpt: "Elon Musk and xAI have unveiled Grok, a new AI chatbot designed to beat ChatGPT. Is it any good and how do the two compare? Let's take a look."
     publishedDateTime: 2023-11-06T17:10:00Z
@@ -124,6 +168,20 @@ related:
       - url: "https://f1.econotimes.com/2023/11/jjaz9n2rya_th_1024x0.jpeg"
         width: 1024
         height: 640
+        isCached: true
+  - title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
+    excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT has unveiled the future it has in mind for its artificial intelligence technology."
+    publishedDateTime: 2023-11-07T03:15:00Z
+    webUrl: "https://www.click2houston.com/business/2023/11/06/chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/"
+    type: article
+    provider:
+      name: Click2Houston
+      domain: click2houston.com
+    quality: 25
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5JEJOUW6FVDABPDA66265SIHQE.jpg?_a=ATAPphC0"
+        width: 700
+        height: 467
         isCached: true
   - title: "AI Chatbot 'Murrow' Teaches Journalism and Critical Thinking"
     excerpt: "A free AI-powered tool from the Journalistic Learning Initiative and Playlab Education Inc. is designed to instill in middle and high school students high standards for interviewing, fact-checking and reporting."

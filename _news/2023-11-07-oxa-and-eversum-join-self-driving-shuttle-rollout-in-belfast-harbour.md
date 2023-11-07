@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/region/national_business/oxa-and-evers
 webUrl: "https://www.joplinglobe.com/region/national_business/oxa-and-eversum-join-self-driving-shuttle-rollout-in-belfast-harbour/article_f0b88189-5ae6-5241-9625-59d7a077f501.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Oxa and eVersum are bringing self-driving shuttles to Belfast"
+    excerpt: "Oxa and eVersum have joined the Harlander Project, which aims to bring a self-driving shuttle service to the Belfast Harbour Estate."
+    publishedDateTime: 2023-11-07T12:06:00Z
+    webUrl: "https://siliconrepublic.com/machines/oxa-eversum-belfast-harlander-project"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 24
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/11/AdobeStock_388957707_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "WvWDdME0BOZFYYPsNBT2lOR035lvLUy9W4KtiwAniuaCqqDebDdKQviZswPoBhA9iz5yMM2JVjKedzApi4yh7U+jLFrpZH8tnQBMyIe8AhOM3JEqSpJh8fXsZurjoqFGjbM3+THI3kIwPisxuoKiuUbDJA6UdotPWefnc7tYwjBrzaEL9seDudZXLLtHfStieM5sw5iJFnjQMDQUHvWye4N0WTQZfir0wF7M7MpY1kVdUj4ydDLldKHz4DMBpePIzpBB8xOoH+r8xNSH/BztLiC8lXknAf10UPsbNYwXAh+bsn4Ps2+3aU95HpQ7DfSkmkBgeMWx7nyNKlzr/qw5Nl1bDPqtf2bI0CoScVFzEqc=;RZMGB9/0g/B4XzU7g7JS+Q=="
 ---

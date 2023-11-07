@@ -53,6 +53,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Xbox and Inworld AI to bring the power of artificial intelligence to game developers"
+    excerpt: "Xbox and Inworld AI have partnered to develop artificial intelligence-powered tools for game creators. As part of the multi-year partnership, the firms will develop an AI design copilot to assist game designers with creative ideas,"
+    publishedDateTime: 2023-11-07T12:18:00Z
+    webUrl: "https://www.technologyrecord.com/article/xbox-and-inworld-ai-to-bring-the-power-of-artificial-intelligence-to-game-developers"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 47
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4705/gaming_975x548.jpg"
+        width: 975
+        height: 548
+        isCached: true
   - title: "Xbox and Inworld AI forge game-changing alliance"
     excerpt: "Xbox has unveiled a partnership with Inworld AI aimed at transforming game development using AI-powered tools."
     publishedDateTime: 2023-11-06T16:56:00Z

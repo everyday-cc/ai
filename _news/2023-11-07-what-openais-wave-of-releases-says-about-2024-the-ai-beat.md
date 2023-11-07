@@ -61,22 +61,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "OpenAI unveils personalized AI apps as it seeks to expand its ChatGPT consumer business"
-    excerpt: "OpenAI CEO Sam Altman shared the updates at the AI lab’s first developer conference, which attracted 900 developers from around the world and marked the company’s latest attempt to capitalize on the popularity of ChatGPT by offering incentives to build in its ecosystem."
-    publishedDateTime: 2023-11-06T23:06:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/11/06/openai-unveils-personalized-ai/"
-    ampWebUrl: "https://www.shorenewsnetwork.com/2023/11/06/openai-unveils-personalized-ai/amp/"
-    cdnAmpWebUrl: "https://www-shorenewsnetwork-com.cdn.ampproject.org/c/s/www.shorenewsnetwork.com/2023/11/06/openai-unveils-personalized-ai/amp/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 49
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJA50SF-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "ChatGPT-maker OpenAI hosts first big tech showcase as AI startup faces growing competition"
     excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT unveiled the future it has in mind for its artificial intelligence technology on Monday as it launched a new line of chatbot products that can be customized to a variety of tasks."
     publishedDateTime: 2023-11-06T15:16:00Z
@@ -92,20 +76,6 @@ related:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/06/084cd43a-59ac-415c-93c9-ce22d8998c47/thumbnail/1200x630/b387077217bc3f03dd742defc87c1155/chatgpt-openai-conference-1778708098.jpg?v=c81a9d6c51e6280f2f4f876031d7d9bc"
         width: 1200
         height: 630
-        isCached: true
-  - title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
-    excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT has unveiled the future it has in mind for its artificial intelligence technology."
-    publishedDateTime: 2023-11-07T03:15:00Z
-    webUrl: "https://www.click2houston.com/business/2023/11/06/chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/"
-    type: article
-    provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 25
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5JEJOUW6FVDABPDA66265SIHQE.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
         isCached: true
 
 secured: "GCo5SUqLMXokt8WccCWjAXOJC37jnGN8ulSAPFxM75Wp+fJpntptf0bO7B5x0xyl8sdVMezZ3XHON1esXHkR79Z9PHi9uNE64x/NwM1JFnakPNaIVRlE5MLltYXyAvJ+46O4KU+jM7GycLlt0ePYFF1fXMDd5mIGOk6eCit/TAxGKjbHdnpwR4ENFoxs8fKEo5MMqrQQ15rLA0SpDX9WviV1uaAxRU9VYU+4nFf8jhfJRYHOXsyTkyMiMRQxlq5yg0o+tMc0W3F+RazQq2e9ApzdUDL9ilJt+QNxqOHG7wgxQgUX5kuRC4rn8OM7/8xRj5S+Dx4doNlkn/AQTXEVI+Cqe7O11nQV5BkgIiFPpcs=;0UfavOdC1DZexwsZ4B42Eg=="

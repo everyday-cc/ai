@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/xbox-partners-with-inworld-ai-to-bui
 webUrl: "https://venturebeat.com/games/xbox-partners-with-inworld-ai-to-build-ai-tools-for-game-development/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04oQe70qTgjqVipzE5ug8ff-1.fit_lim.size_1200x630.v1699285389.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Xbox and Inworld AI to bring the power of artificial intelligence to game developers"
+    excerpt: "Xbox and Inworld AI have partnered to develop artificial intelligence-powered tools for game creators. As part of the multi-year partnership, the firms will develop an AI design copilot to assist game designers with creative ideas,"
+    publishedDateTime: 2023-11-07T12:18:00Z
+    webUrl: "https://www.technologyrecord.com/article/xbox-and-inworld-ai-to-bring-the-power-of-artificial-intelligence-to-game-developers"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 47
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4705/gaming_975x548.jpg"
+        width: 975
+        height: 548
         isCached: true
   - title: "Microsoft adopt Inworld AI tech behind blocked GTA5 mod to \"enrich\" videogame narrative and character creators"
     excerpt: "Much like Weyland-Yutani linking arms with Skynet, Microsoft have teamed up with Inworld to bring the latter's"

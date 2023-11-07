@@ -33,6 +33,36 @@ related:
         width: 2400
         height: 1260
         isCached: true
+  - title: "Namaste Credit enters into a collaboration with Microsoft Azure over fraud detection solutions"
+    excerpt: "Namaste Credit, an underwriting technology platform, has announced a partnership with Microsoft Azure under the STAB Program of G7 CR Technologies – A Noventiq Company."
+    publishedDateTime: 2023-11-07T12:15:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-namaste-credit-enters-into-a-collaboration-with-microsoft-azure-over-fraud-detection-solutions-3299994/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-namaste-credit-enters-into-a-collaboration-with-microsoft-azure-over-fraud-detection-solutions-3299994/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-namaste-credit-enters-into-a-collaboration-with-microsoft-azure-over-fraud-detection-solutions-3299994/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 62
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/Untitled-design-2023-11-07T172351.660.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Brillio Collaborates with Microsoft to Build Innovative Industry Solutions Using Microsoft Azure OpenAI Service"
+    excerpt: "EDISON, N.J., Nov. 7, 2023 /PRNewswire/ -- Brillio, a leading digital transformation services and solutions provider, today announced that it is collaborating with Microsoft to co-develop cutting-edge industry and horizontal solutions using the power of Microsoft Azure OpenAI Service."
+    publishedDateTime: 2023-11-07T12:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-brillio-collaborates-with-microsoft-build-innovative-industry-solutions-/2023/11/07/9912417.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/2171380/Brillio_Logo.jpg"
+        width: 400
+        height: 221
+        isCached: true
 
 secured: "wpDptPT3LgoNACnZARJIN9t767IfFyrF//ZNpb9rjFdknRAlgkUHjpxq/kLshB+Mn4XfyTfHr9Ml5VmZa8NQuz8vXlP4kfDzW5TxY/9UkMLHTxs4/3bdoPyXHs479+B1itEwDXlcnrG2N4bSlv4/UpA+tqarBER8NEKkYHVjbxrb/xDuTYCMbvTW3nN4AOu1DyV6y0Rus0jZTek6MNGIwTU7aN8ZWjcR9N4y5DaySGWdAVeGUEyhfVj9YzNRq0OKBXnkBorxku8la0nNpzlgHfhWBdROQHTrOZLAf9J11IdZOAPxtVADA+xtJ85tvix7uu4ywQEdJubnshK/c41KsHrRSpDerG60kVil0bOkWbw=;XT9vU7JKq/URAaYvXCc8+Q=="
 ---

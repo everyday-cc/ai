@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musk
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://i.gadgets360cdn.com/large/xai_elon_musk_ai_startup_twitter_1689182796531.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Grok: AI Chatbot from Elon Musk’s xAI"
-    excerpt: "Delve into Elon Musk's Grok by xAI, a AI chatbot with real-time information retrieval, humor, and enhanced reasoning abilities. Find about Grok's technical backbone, Grok-1, its training, evaluation and much more."
-    publishedDateTime: 2023-11-06T16:44:00Z
-    webUrl: "https://www.unite.ai/grok-ai-chatbot-from-elon-musks-xai/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/11/Benchmark.png"
-        width: 1200
-        height: 439
         isCached: true
   - title: "Elon Musk to integrate his AI start-up with X"
     excerpt: "Elon Musk has announced the integration of his AI startup, xAI, into his social media platform X, formerly called Twitter"

@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/100746-china-sets-sights-mass-produc
 webUrl: "https://www.techspot.com/news/100746-china-sets-sights-mass-producing-advanced-humanoid-robots.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk wants to start selling humanoid robots by 2027 — and a hiring spree seems designed to make that a reality"
+    excerpt: "It indicates the ability to send an email. An curved arrow pointing right. Elon Musk has high aspirations for Tesla's humanoid robot, Optimus. The Tesla CEO said at its annual AI Day last year that it could be ready to take orders in three to five years ..."
+    publishedDateTime: 2023-11-07T12:34:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-humanoid-robots-tesla-hiring-workers-2023-11"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-humanoid-robots-tesla-hiring-workers-2023-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-humanoid-robots-tesla-hiring-workers-2023-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/654a1a4e36d588dc55cbff3e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "China Ministry Pushes for Humanoid Robot Mass Production by 2025 and $100+ Billion Market by 2030"
     excerpt: "Guiding Opinions on the Innovation and Development of Humanoid Robots Humanoid robots integrate advanced technologies such as artificial intelligence, high-end manufacturing, and new materials. They are expected to become disruptive products after ..."
     publishedDateTime: 2023-11-06T21:39:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.moneycontrol.com/news/business/startup/body-cameras-fa
 webUrl: "https://www.moneycontrol.com/news/business/startup/body-cameras-facial-recognition-analytics-govt-institutions-tap-ai-to-fight-exam-cheating-11670221.html"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     width: 770
     height: 433
     isCached: true
+
+related:
+  - title: "Thematic, Leading Provider of AI-Powered Feedback Analytics, Reports Growth Milestones"
+    excerpt: "Founder and CEO Dr. Alyona Medelyan Details Her Cross-Global Path to Becoming AI Expert, Entrepreneur and Founder of Pioneering CompanyCOVINA, CA"
+    publishedDateTime: 2023-11-07T12:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/thematic-leading-provider-of-ai-powered-feedback-analytics-reports-growth-milestones-1032787094"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://www.accesswire.com/users/newswire/images/800103/60374decba81adda5d8d25786fd3.jpg"
+        width: 697
+        height: 1045
+        isCached: true
+  - title: "News Explorer — Moody's Analytics Launches Stablecoin Service Using AI to Predict Depeggings, Provide Real-time Insights"
+    excerpt: "Moody's Analytics Launches Stablecoin Service Using AI to Predict Depeggings, Provide Real-time Insights. Moody's Analytics has announced the launch of its new stablecoin service,"
+    publishedDateTime: 2023-11-07T08:58:00Z
+    webUrl: "https://decrypt.co/news-explorer?pinned=369156&title=moodys-analytics-launches-stablecoin-service-using-ai-to-predict-depeggings-provide-real-time-insights"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 12
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-11/2e931180-59a7-4485-8989-18de982926c2.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "z6elOW0ewbNSRE1uHMDdFkfk4p7U3fVpoB++T8O6lPhLiDPpCNXnC60cQ3oKMfs+IDSvwBpNyKhGFWMrrAy6ODFiP5/fgGBZZVfO65uR0x6tulGhM/FMZjvudcdtMZxc4fDuKr3GWWONNbm19V3RDMxbmHsptiUtthSNV7WWUkKRO/ooM9HsT0m8QGTpOyL4WEX8xA7Yrb3ffu3bkzHMxxWa0NzAtdnTzA1X06+lJaejGIp/1CnaIaPA/MNhEptVfWGV8frqMUmuS+Uw0LkwelWCdlqyQT09ZwdJ3Nmv+trlBXjRWgkC7bc7MAhXY8oLK84oZfmYZUgE1RVg0lM3uym4IM82Fag0vxy6UGzJTaM=;i6o36yoyM6ubbzjyT88gMg=="
 ---

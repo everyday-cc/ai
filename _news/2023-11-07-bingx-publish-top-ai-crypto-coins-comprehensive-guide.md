@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107383953/Bingx-Publish-Top-AI-Crypto-Coins-Co
 webUrl: "https://menafn.com/1107383953/Bingx-Publish-Top-AI-Crypto-Coins-Comprehensive-Guide"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Crypto Entrepreneurs Are Pivoting to AI. Here’s One Founder’s Experience."
+    excerpt: "Chris Horne’s startup, Filta, shifted to an AI-powered product after his initial NFT idea faltered."
+    publishedDateTime: 2023-11-07T10:00:00Z
+    webUrl: "https://www.wsj.com/articles/crypto-entrepreneurs-are-pivoting-to-ai-heres-one-founders-experience-34be4c51"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 66
+    images:
+      - url: "https://images.wsj.net/im-881261/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "AI Crypto Trading: Harnessing Machine Learning for Profitable Investments"
     excerpt: "In the relentlessly evolving world of cryptocurrency trading, Artificial Intelligence, represented by platforms like Immediate code ai, has emerged as a"
     publishedDateTime: 2023-11-03T05:05:00Z

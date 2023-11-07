@@ -42,15 +42,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Beyond The Hype: Four Ways Artificial Intelligence Is Transforming Healthcare"
-    excerpt: "Today, healthcare providers are operating in an overloaded environment. A new scientific or research study is released every 26 seconds. If a clinician read and retained two of these articles every single night, at the end of a year, they’d still be about 1,000 years behind the current evidence."
-    publishedDateTime: 2023-11-02T18:34:00Z
-    webUrl: "https://www.forbes.com/sites/premier/2023/11/02/beyond-the-hype-four-ways-artificial-intelligence-is-transforming-healthcare/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
   - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
     excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
     publishedDateTime: 2023-11-06T06:08:00Z
@@ -102,15 +93,6 @@ related:
         width: 1280
         height: 802
         isCached: true
-  - title: "Biden administration issues executive order regulating artificial intelligence"
-    excerpt: "What do we need to know about the Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence ... for the next waves of scientific discovery and for advances in health care. Furthermore, there are more controversial application areas such ..."
-    publishedDateTime: 2023-11-02T19:53:00Z
-    webUrl: "https://hub.jhu.edu/2023/11/02/artificial-intelligence-executive-order/"
-    type: article
-    provider:
-      name: HUB
-      domain: jhu.edu
-    quality: 15
   - title: "U.S. Regulation of Artificial Intelligence: Presidential Executive Order Paves the Way for Future Action in the Private Sector"
     excerpt: "On October 30, 2023, President Joe Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (Order) that addresses the responsible use of artificial intelligence (AI) by the federal government and ..."
     publishedDateTime: 2023-11-06T17:58:00Z

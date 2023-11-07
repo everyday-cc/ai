@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "AI in Oncology Care: Ethical Considerations to Respect Patient Dignity"
+    excerpt: "If you have paid attention to medical news lately, you have almost certainly heard about some emerging uses of artificial intelligence (AI) in medicine, in | Cancer"
+    publishedDateTime: 2023-11-07T11:00:00Z
+    webUrl: "https://www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity"
+    ampWebUrl: "https://www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 74
+    images:
+      - url: "https://assets.labroots.com/_public/_files/system/ck/trending/ai-ethics-8296760_1280_3050d008c63b025e3152a03c1bab751d.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "Oncology researchers raise ethics concerns posed by patient-facing artificial intelligence"
     excerpt: "Ready or not, patients with cancer are increasingly likely to find themselves interacting with artificial intelligence technologies ... and researchers to work together to ensure AI-driven health care preserves patient autonomy and respects human dignity."
     publishedDateTime: 2023-11-03T20:00:00Z

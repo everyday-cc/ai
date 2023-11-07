@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Moody’s unveils service that uses AI to predict stablecoin depeggings"
-    excerpt: "“Digital Asset Monitor (DAM) is a machine learning model that combines on and off chain data, financial statements and economic indicators.” Besides identifying depegging risks, the service will indicate “the stablecoin’s market and liquidity ..."
-    publishedDateTime: 2023-11-07T00:59:00Z
-    webUrl: "https://cointelegraph.com/news/moodys-ai-service-stablecoin-depegging-index"
+  - title: "Thematic, Leading Provider of AI-Powered Feedback Analytics, Reports Growth Milestones"
+    excerpt: "Founder and CEO Dr. Alyona Medelyan Details Her Cross-Global Path to Becoming AI Expert, Entrepreneur and Founder of Pioneering CompanyCOVINA, CA"
+    publishedDateTime: 2023-11-07T12:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/thematic-leading-provider-of-ai-powered-feedback-analytics-reports-growth-milestones-1032787094"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
     images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-11/2e931180-59a7-4485-8989-18de982926c2.jpg"
-        width: 1200
-        height: 799
+      - url: "https://www.accesswire.com/users/newswire/images/800103/60374decba81adda5d8d25786fd3.jpg"
+        width: 697
+        height: 1045
+        isCached: true
+  - title: "Body cameras, facial recognition, analytics: Govt institutions tap AI to fight exam cheating"
+    excerpt: "While these efforts by state-run institutions may enhance the integrity of exams, concerns remain on privacy and harvesting of data on students."
+    publishedDateTime: 2023-11-06T05:26:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/body-cameras-facial-recognition-analytics-govt-institutions-tap-ai-to-fight-exam-cheating-11670221.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 45
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/11/Students-Copying-Monitor-770x433.jpg"
+        width: 770
+        height: 433
         isCached: true
 
 secured: "x7AAWsqPl8qn1uXNucGdSe3l+NMVma7f5mFSM6XNzG5O2Y5WNPyOTRKzb5bp6Gt6ZMIdtIU37qVJqIvWR2/0CkEuCPoAsIVV2P3TjNlmu+SG2CAVqFz8uhKQr4QG+zvLeGgNK/djUBjPRDWucjgFapyPJ4fjzvHJ7oX/rUz4h20rLFVKRfo+x93IdnW7JlQHcjExgYXbcRzI57y8kl9sR8BBqS3ws46LAFH62sj0nD78z1+6MUm9kWgODabRajN/g9OWBOccG7qyK7VqbUtS+5J9UtoRf26D2ti6DXqQEkg8Vann5jTPF7MFJYLbgdUZWfa35CvF/5E2uHBxfb0hB+P5UA95cZvN2J8s4x4H3bI=;VQVCEp1xgxriv/ofwo39lw=="

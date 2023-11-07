@@ -20,6 +20,20 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Crypto Entrepreneurs Are Pivoting to AI. Here’s One Founder’s Experience."
+    excerpt: "Chris Horne’s startup, Filta, shifted to an AI-powered product after his initial NFT idea faltered."
+    publishedDateTime: 2023-11-07T10:00:00Z
+    webUrl: "https://www.wsj.com/articles/crypto-entrepreneurs-are-pivoting-to-ai-heres-one-founders-experience-34be4c51"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 66
+    images:
+      - url: "https://images.wsj.net/im-881261/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Bingx Publish Top AI Crypto Coins Comprehensive Guide"
     excerpt: "SINGAPORE - Media OutReach - 7 November 2023 - BingX, a leading crypto copy trading platform, has released an insightful guide highlighting the top"
     publishedDateTime: 2023-11-07T10:07:00Z

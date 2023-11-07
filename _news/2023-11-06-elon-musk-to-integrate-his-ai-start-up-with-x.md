@@ -88,20 +88,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Grok: AI Chatbot from Elon Musk’s xAI"
-    excerpt: "Delve into Elon Musk's Grok by xAI, a AI chatbot with real-time information retrieval, humor, and enhanced reasoning abilities. Find about Grok's technical backbone, Grok-1, its training, evaluation and much more."
-    publishedDateTime: 2023-11-06T16:44:00Z
-    webUrl: "https://www.unite.ai/grok-ai-chatbot-from-elon-musks-xai/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/11/Benchmark.png"
-        width: 1200
-        height: 439
-        isCached: true
   - title: "Sunak clashes with Elon Musk as X boss says AI means we won’t need to work"
     excerpt: "He said some AI robots will “know you better than you know yourself ... Mr Sunak said: “Before you start mandating for things and legislating for things … it is important that regulation is empirically based.” The agreement with AI companies ..."
     publishedDateTime: 2023-11-07T08:48:00Z

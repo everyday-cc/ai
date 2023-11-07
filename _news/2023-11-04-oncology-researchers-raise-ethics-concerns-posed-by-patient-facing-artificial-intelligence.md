@@ -7,7 +7,7 @@ originalUrl: "https://medicalxpress.com/news/2023-11-oncology-ethics-posed-patie
 webUrl: "https://medicalxpress.com/news/2023-11-oncology-ethics-posed-patient-facing-artificial.html"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ topics:
   - AI Ethics
 
 related:
+  - title: "AI in Oncology Care: Ethical Considerations to Respect Patient Dignity"
+    excerpt: "If you have paid attention to medical news lately, you have almost certainly heard about some emerging uses of artificial intelligence (AI) in medicine, in | Cancer"
+    publishedDateTime: 2023-11-07T11:00:00Z
+    webUrl: "https://www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity"
+    ampWebUrl: "https://www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 74
+    images:
+      - url: "https://assets.labroots.com/_public/_files/system/ck/trending/ai-ethics-8296760_1280_3050d008c63b025e3152a03c1bab751d.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "Experts raise ethics concerns posed by patient-facing AI in oncology"
     excerpt: "Ready or not, patients with cancer are increasingly likely to find themselves interacting with artificial intelligence technologies to schedule appointments, monitor their health, learn about their disease and its treatment,"
     publishedDateTime: 2023-11-04T07:54:00Z

@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Grok: AI Chatbot from Elon Musk’s xAI"
-    excerpt: "Delve into Elon Musk's Grok by xAI, a AI chatbot with real-time information retrieval, humor, and enhanced reasoning abilities. Find about Grok's technical backbone, Grok-1, its training, evaluation and much more."
-    publishedDateTime: 2023-11-06T16:44:00Z
-    webUrl: "https://www.unite.ai/grok-ai-chatbot-from-elon-musks-xai/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/11/Benchmark.png"
-        width: 1200
-        height: 439
-        isCached: true
   - title: "Elon Musk to integrate his AI start-up with X"
     excerpt: "Elon Musk has announced the integration of his AI startup, xAI, into his social media platform X, formerly called Twitter"
     publishedDateTime: 2023-11-06T04:27:00Z

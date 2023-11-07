@@ -39,15 +39,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Why last week felt like 2021 in fintech"
-    excerpt: "Combined, the three fintech companies raised $650 million alone ... The startup claims it is “the first personal finance platform to provide holistic tracking of net worth, AI-powered financial guidance, automated investing, easy tax filing, estate ..."
-    publishedDateTime: 2023-11-05T22:48:00Z
-    webUrl: "https://techcrunch.com/2023/11/05/the-return-of-mega-rounds-in-fintech-and-where-all-the-former-mint-users-are-headed/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
   - title: "Strong Swiss Presence at the Singapore Fintech Festival 2023"
     excerpt: "Switzerland will be setting up their own national pavilions during the festival. The Swiss Pavilion is co-organized by S-GE (Switzerland’s export and investment promotion agency) and Swiss Business Hub ASEAN (part of the Swiss Embassy in Singapore),"
     publishedDateTime: 2023-11-06T01:00:00Z

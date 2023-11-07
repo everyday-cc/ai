@@ -143,6 +143,20 @@ related:
       name: inc42
       domain: inc42.com
     quality: 37
+  - title: "Flipkart founder ready to launch stealth AI startup"
+    excerpt: "Binny Bansal is launching an AI-as-a-service startup, targeting global customers in the legal and e-commerce industries. The venture plans to offer AI talent, products, and services to corporate clients, emulating the business model of outsourcing ..."
+    publishedDateTime: 2023-11-07T11:55:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/flipkart-founder-ready-to-launch-stealth-ai-startup/105038762"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 37
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-105038762,imgsize-1084310,width-1200,height=765,overlay-etbrandequity/digital/flipkart-founder-ready-to-launch-stealth-ai-startup.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "WkvMzWn+wD7NEYAOpVLwJ47BhPQwj8BnRjap+y0+Ff4jTzBmmJ5c867c6Z5aprsMDDKg6/pOM/Xwbgh382q6ylSdYG7KD7WKqknhhbS7+ULi+pETorz459cBE0xJfqKwK222NYHkWYoeHYYjQsxdLyTZy95IWZ0k4N6qQVBFbu5SVHaVv5vG0hy4/osHGNVBTI35SfETf3Rm/5b7/k2/53wcwCuwnB/urhMQ0CYTrms14f9Cb9Xte55isTrG8jXmAN93rGTGsRbQ+HoHwEThJDVBSkoEdKq1KEurf/j7HV1vm6LocBqQjQcVEs+LRQvFRyR6n31W++pP1rSsYLeSL9HHsVLCIsuQcVqQqrw/oR0=;Zlj2Wo2o/DbqeCac2Ypokw=="
 ---

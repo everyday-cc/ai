@@ -128,6 +128,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Flipkart founder ready to launch stealth AI startup"
+    excerpt: "Binny Bansal is launching an AI-as-a-service startup, targeting global customers in the legal and e-commerce industries. The venture plans to offer AI talent, products, and services to corporate clients, emulating the business model of outsourcing ..."
+    publishedDateTime: 2023-11-07T11:55:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/flipkart-founder-ready-to-launch-stealth-ai-startup/105038762"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 37
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-105038762,imgsize-1084310,width-1200,height=765,overlay-etbrandequity/digital/flipkart-founder-ready-to-launch-stealth-ai-startup.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Binny Bansal, Co-Founder of Flipkart, plans to launch AI startup for global corporate clients"
     excerpt: "Binny Bansal, Co-Founder of Flipkart, plans to launch AI startup for global corporate clients - Binny Bansal , the former Co-Founder of Flipkart, is now entering the AI industry with a new startup that"
     publishedDateTime: 2023-11-07T08:58:00Z

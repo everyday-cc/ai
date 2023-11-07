@@ -72,36 +72,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "OpenAI unveils personalized AI apps as it seeks to expand its ChatGPT consumer business"
-    excerpt: "OpenAI CEO Sam Altman shared the updates at the AI lab’s first developer conference, which attracted 900 developers from around the world and marked the company’s latest attempt to capitalize on the popularity of ChatGPT by offering incentives to build in its ecosystem."
-    publishedDateTime: 2023-11-06T23:06:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/11/06/openai-unveils-personalized-ai/"
-    ampWebUrl: "https://www.shorenewsnetwork.com/2023/11/06/openai-unveils-personalized-ai/amp/"
-    cdnAmpWebUrl: "https://www-shorenewsnetwork-com.cdn.ampproject.org/c/s/www.shorenewsnetwork.com/2023/11/06/openai-unveils-personalized-ai/amp/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 49
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJA50SF-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
-    excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT has unveiled the future it has in mind for its artificial intelligence technology."
-    publishedDateTime: 2023-11-07T03:15:00Z
-    webUrl: "https://www.click2houston.com/business/2023/11/06/chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/"
-    type: article
-    provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 25
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5JEJOUW6FVDABPDA66265SIHQE.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "AioQiwnt2tjot8ZRBMhPP25adCcAj+xnJZdmKOC6ghWuD/oeTHCdN0eW09PfLFiGkExglI8tKH8WyuAgJUjZKXhLGufy2vhJGTwIUObldFuCjhFGfT0nNAczQPOPrjiPvmW2TdvemX1hsjq+v2pzEV5QfCduvXuGC3iqqp4JdwbChTVRHmi3odoOvkr6VM1DU/oHXGEuVVQRReKWkArjIvAD6cDHJXykudswx7DRZl86OqWmM9c2D2Z6HBqJSqlwg2b7HvkwkxWOO0ne9vZuHKMF5WgCXQqDsr7+vq1EC30EQ/y6MuPEqnuIyqrzxnS2THmV+gPm8IqdQaN+YgFXefyEh+TDHvx/WUgpebHskZIXh9Z2klmIsXl6P7QqytBpQLQL7RWUuGUbU/wr4AzHNm6p+/Ch+bIq5RNkAcCFgwhS+ingHjlNBH/eun+BN49nY8tz50LMOdV+0Y8spwaj/gfL2bMhEK8HceVxr3SCXHvjf3HbpIJd8q8xK5Tw1qk8sKB/CNC66Pm55IUVhjhEXA==;PRMyFhUZI1qbIVSZ0XGcng=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/how-huawei-plans-rival-nvidia-a
 webUrl: "https://www.reuters.com/technology/how-huawei-plans-rival-nvidia-ai-chip-business-2023-11-07/"
 type: article
 quality: 84
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Huawei is planning to take on Nvidia with its AI chips, here’s how"
+    excerpt: "US restrictions on Nvidia's AI chips have given Huawei an opportunity to gain market share. Huawei has secured a significant AI chip order from Baidu"
+    publishedDateTime: 2023-11-07T12:04:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/huawei-is-planning-to-take-on-nvidia-with-its-ai-chips-heres-how/articleshow/105041906.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/huawei-is-planning-to-take-on-nvidia-with-its-ai-chips-heres-how/amp_articleshow/105041906.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/huawei-is-planning-to-take-on-nvidia-with-its-ai-chips-heres-how/amp_articleshow/105041906.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-105041882,width-1280,height-720,resizemode-4/105041882.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "US-China tech war: Baidu buys AI chips from Huawei, as US restricts Nvidia chip exports: sources"
     excerpt: "Baidu ordered US$61 million worth of Huawei’s 910B Ascend AI chips, which are marketed as an alternative to Nvidia’s A100 chip, according to people familiar with the matter."
     publishedDateTime: 2023-11-07T09:00:00Z
@@ -72,6 +88,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/11/06/image/png/HFrVnBurPNDETh1zSinvHl4MKlqlLtt8AhY5s7wa.png"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Nvidia's long-term client Baidu orders AI chips from Huawei - Reuters"
+    excerpt: "Baidu (NASDAQ: BIDU ), one of China's leading AI companies, ordered 1,600 of Huawei Technologies' 910B Ascend AI chips in August, according to Reuters. These chips, developed by Huawei as an alternative to Nvidia's (NASDAQ: NVDA ) A100 chip, were ordered for 200 servers."
+    publishedDateTime: 2023-11-07T12:06:00Z
+    webUrl: "https://za.investing.com/news/nvidias-longterm-client-baidu-orders-ai-chips-from-huawei--reuters-432SI-2923519"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 54
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
         isCached: true
   - title: "Baidu Orders Huawei's AI Chips in Shift from Nvidia as US Pressure Mounts"
     excerpt: "Baidu has reportedly ordered artificial intelligence chips from Huawei to meet the increasing demand for advanced technology solutions. This move comes amidst mounting pressure on Chinese companies following"
@@ -111,6 +141,6 @@ related:
       domain: benzinga.com
     quality: 18
 
-secured: "7bOsdzZ4A0e0fML/yXe54xyuJLkrfVIrbqq/UtjXsp2wrz2bdhZMbG5obALqS0twJKNmKWR3IT3Pj8ZkSqImxL3NR3KFDa/I28v6A/w5Ytyqjhqbl6IfpTKvbtgqjwdAsaqwfCNCDYRpDTqyilDPcKvU0PYbEb878d8OBKqLwgCDzya5meUMqcraN+dESmLlakR9N26NUnhvwdaM6GLcd+hLt9BqWS/ng+2ivbesHI5OOnORDPEMMDNyU/DiFcN6uaIu8hmukIwRjKdFYaiDC5z2QdzpGSKmpKWQHVtDvOq/Mvc8b7dA8YmECmf9EhB91lvGm47iXkvEkVMl0IAqVg7hnDnC68RJBn4hudRwbDw=;lQiR1Yz8wQMfl4mCGaiXrg=="
+secured: "ha4vsOUsxr2uNOvdYXyIQ8xefJ9uhwLFy9LeuLvE9OWGKARs52TQ/646pBwptoOYhAFtuIvZecqNtPLY9ZxYpEen31tmM+py6FfHrouyNYJvux2ctqYOrCFT24YrC5bwQ9F0kGq6T3KwjTn0FwC4gm7J8M4CpRxRZ0L2kATGBOyVpvRseqMbLv1T+e9jsQW0kBzBbNqXRcNg1F5GYgQ/xFAeedHcgtcYh5p9MUwD3veZJWfvrN/SPPiwqbHwPYWc+nTiOcuxhxYIzRWoJqrfpzKrNfI3qosFRvip2ZQG2bulQ8ejO1ybHTXJj7BMHhndDtVI+ZDfiuUmpJ8Vrl8jLZCnuxG/+vYLxwigZswkcLPZIPvNL7G47YXDo7ibepVy76r80C50bfxq8XMjY+tCckhhUCtx+fyTiiD9FrsqVlq44KPHFY3ZvHAZ+7XcTSLP42a7ZvulYpITmUoS7H8dSEFFEGaRI+qFeCFqzfwuWkAZT4RFqERi5aoT3U53rgHFar/yG6OwJCvaI6LxYb8f7w==;N4spivB6Fl2UdcTJRTwieA=="
 ---
 

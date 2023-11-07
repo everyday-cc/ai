@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6332071/ant-ai-services-bailing/"
 webUrl: "https://time.com/6332071/ant-ai-services-bailing/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/11/DALL·E-2023-11-06-12.29.53-Visualize-a-small-glowing-robot-standing-triumphantly-atop-a-dark-hill-under-the-night-sky.-This-robot-is-radiating-light-with-its-arms-raised-in-a-.png?w=1200&strip=all"
         width: 1199
         height: 685
+        isCached: true
+  - title: "Biden eyes adding AI chip curbs to Chinese companies abroad"
+    excerpt: "CSET found in a June 2022 report that out of 97 individual AI chips procured via Chinese military tenders over an 8-month period in 2020, nearly all of them were designed by U.S.-based companies ..."
+    publishedDateTime: 2023-11-06T00:00:00Z
+    webUrl: "https://www.asahi.com/ajw/articles/15028085"
+    type: article
+    provider:
+      name: 朝日新聞社
+      domain: asahi.com
+    quality: 54
+    images:
+      - url: "https://p.potaufeu.asahi.com/9747-p/picture/27894651/6b1819ba929329a40785f37a6cd4139a.jpg"
+        width: 660
+        height: 495
         isCached: true
   - title: "Alibaba's Ant Group Gets Chinese Govt Approval To Release AI Products"
     excerpt: "Ant Group, the fintech affiliate of Chinese conglomerate Alibaba Group, has received approval from the Chinese government to offer"

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why last week felt like 2021 in fintech"
-    excerpt: "Combined, the three fintech companies raised $650 million alone ... The startup claims it is “the first personal finance platform to provide holistic tracking of net worth, AI-powered financial guidance, automated investing, easy tax filing, estate ..."
-    publishedDateTime: 2023-11-05T22:48:00Z
-    webUrl: "https://techcrunch.com/2023/11/05/the-return-of-mega-rounds-in-fintech-and-where-all-the-former-mint-users-are-headed/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
   - title: "3 Southeast Asian Startups Make World’s Top 100 Fintech Firms List"
     excerpt: "Three fintech startups from Southeast Asia have been named among the world’s largest and most successful financial technology companies, recognized for their scale, growth and ingenuity."
     publishedDateTime: 2023-11-07T03:30:00Z

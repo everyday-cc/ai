@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Adastra Signs Strategic Collaboration Agreement with AWS to Drive AI-Powered Solutions Globally"
-excerpt: "Adastra, a leading global Data and Analytics solutions provider, announced today that it has signed a Strategic Collaboration Agreement (SCA) with Ama"
-publishedDateTime: 2023-11-01T15:17:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231101268759/en/Adastra-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Drive-AI-Powered-Solutions-Globally"
-webUrl: "https://www.businesswire.com/news/home/20231101268759/en/Adastra-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Drive-AI-Powered-Solutions-Globally"
+excerpt: "Adastra, a leading global Data and Analytics solutions provider, announced today that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to advance the development and deployment of cutting-edge artificial intelligence (AI) solutions by leveraging generative AI."
+publishedDateTime: 2023-11-01T11:15:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/adastra-signs-strategic-collaboration-agreement-with-aws-to-drive-ai-powered-solutions-globally/article_b1c3f178-9bdb-5abf-81aa-0e7997775f28.html"
+webUrl: "https://www.bakersfield.com/ap/news/adastra-signs-strategic-collaboration-agreement-with-aws-to-drive-ai-powered-solutions-globally/article_b1c3f178-9bdb-5abf-81aa-0e7997775f28.html"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "998yb3b42dsQATBABeqqi0QsPDTm/XLXKrZHNM7OmLWWuSgQCHKPfzPl/L+T1UviuhgB2zULNFd0FjUOcSHhQciOrgvqLBE8vRx/yqpsGX5PZ7/V9d3oBuymEF1Yi4w3uOHs766HN9DKJN6gb7MEDupu8RyAOAIe+PLy0RVYHqUhvsLJb+e22ACebh1uM5y4c+N/klsGMNThEZuNO9KsOAjJRRsMSZRaILfBFepwffiTpSfZwzTPA0d2+kAOwj6XXZEGhtuB997Rpw5hiT2Q++/YQaKuj5O6DlqWxD8B9ThEix0553Md3lEMMNh7b9jqg7rpwi4aHIfydefbrcLL65AMspYxXgDCyK9WnfsCaNo=;vWEMU1pH3/o+cCP0BS6i+A=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "Du+jclhOr/176O5Wq6a+KLeY8YkmaBYz39VAkcIbcCShDNwoho0VGzhUpxwq3li2OBB2yY28sd+fvkU+rW9kIJlTfntJaIhCYgrw7b5lR62Ahhouyw073wXr4FZEG1IYJtCQUJCessfzPg+1pGj6kTiUtghjxemU06aM/Zk1f0tNxBTo3vfjanyoeeZv4C/gWL6V+n5pP50JNB0aFx/WN3VNziNUpp/60YbMKF8J6d6Y+qbBS+5hMRQN/xm3c89kIRH0zsPIVrQMHHlex1d2WzBwgAKURFBZXiWKufAXEkZOvLOKQw63/wNed6ofV5c/0Xlu1hBHMX5YqZndP3r2ehCqSAX0zFwFssRX4cZFgc4=;1iIY3AgC6mPZekUpokqvZA=="
 ---
 
