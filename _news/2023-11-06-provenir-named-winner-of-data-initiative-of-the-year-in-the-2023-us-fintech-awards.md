@@ -26,17 +26,6 @@ images:
     height: 1043
     isCached: true
 
-related:
-  - title: "Why last week felt like 2021 in fintech"
-    excerpt: "Combined, the three fintech companies raised $650 million alone ... The startup claims it is “the first personal finance platform to provide holistic tracking of net worth, AI-powered financial guidance, automated investing, easy tax filing, estate ..."
-    publishedDateTime: 2023-11-05T22:48:00Z
-    webUrl: "https://techcrunch.com/2023/11/05/the-return-of-mega-rounds-in-fintech-and-where-all-the-former-mint-users-are-headed/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
-
 secured: "rJskXEgcEbL0ZpwNsNjH2FnKTl9JdaaTbBsOzzedghlpt9iOok7DRthluXn2+YA8ZUJ/ow/6AsoHkSFmhtUhS3RqtOcwYIvdUFgg5VrHSzQNbvOd1fI+YkbJr9BJhZwDjLKyofMioD83gPPcInM025c1mFfxHGWv9cGpHWwQzDKjEIE4wudGMPnbkoiLwxA2q5zV7fqpXRv6dkkJehwZjNvMFSkx21U/t+505hRdpt4LZ+ehKZnMwbdMl7NATExQUcW9wkAvPHw5b94c7xgk/we7Szz/ukv65Xf5uYViHxe5/L3zoa582OPhTVkDJtBs0C+kfUBZuWW/TPDqLdac9qxKWnOmPqdrH7KuwFedYyI=;ELaQVkdFIJU5U6fC74hB2w=="
 ---
 

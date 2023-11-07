@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/mediatek-challenges-qualcomm-with-ai-as
 webUrl: "https://www.pcmag.com/news/mediatek-challenges-qualcomm-with-ai-assisted-dimensity-9300-chip-for-phones"
 type: article
 quality: 81
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://i.cdn.newsbytesapp.com/images/l5220231106184629.jpeg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "MediaTek's Dimensity 9300 Mobile Chip Comes with One-of-a-Kind All Big Core Design"
+    excerpt: "MediaTek announced the Dimensity 9300, its newest flagship mobile chip with a one-of-a-kind All Big Core design. The unique configuration combines extreme performance with MediaTek’s industry-leading power efficiency to deliver unmatched user experiences in gaming, video capture, and on-device generative AI processing."
+    publishedDateTime: 2023-11-07T06:54:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/33728-mediateks-dimensity-9300-mobile-chip-comes-with-one-of-a-kind-all-big-core-design"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 33
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/b00cb800b5c9c45aab42e9bb39c17c49.jpg?t=20231107_064806"
+        width: 752
+        height: 408
         isCached: true
 
 secured: "bbivV6TATqYnQ9eJEuBbscVVcBJ0pML+zLl3T+xaQCNrimkR2CYcrFZ7Im9LLVtYwWTrVDe/L6RFWPzds5YloRnPgWOT85Z3ikR6CcPwyMenlVTzE4SpEU2UF4fpnlc+eKhc0ekP/vmEkzuwcIR6u1FHEoD5NnN3ly6j74tNTXdF28OhQPoVd0+M6g2RD6qGoE2Deqj003wmOk6X3aCrj5cH15hErENzI8TFtaxhIayQWhYZFcAYXtXCDib4aCwFapzaEP5C3HK8LLxFZgqtZ8gUiDfvKbSRoJwiKUFvUv4LOsG+1COLMGwtYpEU80B9lB2VLHVAF3Kb9g3s7a/8VH6Bvsoakt3jZt6//OXT0vAji1S+mRXWnEi2e77p7LtHwxA8UKThW2spwC6qvLID71h69dl9CBD05sp2tz32h6WZz7ay41JispYl/HdV/1/d5rHlrfm1Z64n5C/zDkj4V0R91sa3M1M5b5A4mTTWxkIuV1DqDH8u4qHvo3DCTZ4FR4EeoDVycpysz1yBmLULiw==;wBrg47YWH7ZJMxro7GZuzg=="

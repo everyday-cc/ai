@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/tech-giants-jockey-for-position-at-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694"
 type: article
 quality: 59
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Gut Check for Artificial Intelligence"
-    excerpt: "Startups are applying artificial intelligence to just about everything, including the bugs in your gut. The trillions of microbes in the body—the microbiome—aid digestion, synthesize vitamins ..."
-    publishedDateTime: 2023-11-02T12:47:00Z
-    webUrl: "https://www.wsj.com/articles/a-gut-check-for-artificial-intelligence-d02aa422"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 49
   - title: "AI and the Erosion of Human Cognition"
     excerpt: "The intersection of AI and human cognition is as much about philosophy and ethics as it is about technology. If history is any guide, every significant technological advancement brings with it societal trepidation. The printing press, electricity ..."
     publishedDateTime: 2023-11-05T21:41:00Z

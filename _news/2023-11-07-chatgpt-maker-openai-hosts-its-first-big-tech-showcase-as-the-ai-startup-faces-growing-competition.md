@@ -2,17 +2,17 @@
 category: news
 title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
 excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT has unveiled the future it has in mind for its artificial intelligence technology."
-publishedDateTime: 2023-11-06T22:16:00Z
-originalUrl: "https://www.local10.com/business/2023/11/06/chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/"
-webUrl: "https://www.local10.com/business/2023/11/06/chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/"
+publishedDateTime: 2023-11-07T03:15:00Z
+originalUrl: "https://www.click2houston.com/business/2023/11/06/chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/"
+webUrl: "https://www.click2houston.com/business/2023/11/06/chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: WPLG
-  domain: local10.com
+  name: Click2Houston
+  domain: click2houston.com
 
 topics:
   - Facebook AI
@@ -104,6 +104,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fjP91Z0LkGPfTPs2sy125v4D51wOqEuFUy6t4cSTXh85eCbqT3UglnfKhTzWs42vHcUbDJMF/R/QlxUGGm/wrOmiX1SHUSwGFT7/t+0Al+TfqfF2LO4HPw/XSX6PD2oBbAR2prd/ROIu36xggSrPPkguuxUbKQwgHAlUtd84IPi4GrC+cD9MAZ2IgMObm1p0/Lv0+KxznNXhuDpJsKEfrHgOTy2JcggMzwlaA6Wv654EGkVT7ugtG/v1JR3p+byEayXdpwZo4sQ41R2YdgOU+zEz/XARnfxhx07ppFK5ae/NfCQhSHSBiSlcYFkQL0eRW4ea2JFovv5HGdS0YxOkIcZ7pN9BsrzhBW45poaQAwVNueimKVKzhet5gyzeqLIh40dDl3DOhEEpEPr63oJI0z0twU7S9ZDc7XLxlDPALuQR/XuP4ITpMIHcrfG+fs8E49Itm3zrann3paPfnyWV/q6z5/OWpF+gyYK62RFQ/yxQaQt+yMpvtG5oN9IHfXvea3rCgOj2Ck3On6qzkzIzUw==;JwbtD71rdjJC8o/1emtimA=="
+secured: "IudbhrTReseqx98fih28uqNT/gcK9e6ICDiEWIj25GMWFTdVeE0XYaoKrXxDbqXTHvZU2A+oIsScnk6oOgvytT3yR5W4sI82XilOhSEXNsVymqPOEauQTDHmf0E7o0thUd0tCJizShMBphb15Hokwiv6Nj0wM1cVOzdr6hKDKBuUsdM2rbVwsRojjljGTWnEbAiI1K/p1qCaCFPKLeqiwn6Kzzeof21u44S3ger+kpxJ9+0jQ6/IKl+5C2/JbFvoVieu7E36elShTWhkVRkZ0nlwVCoTt5ie1mIvnD6c/N/08x8+JuR+7p033ur5d39HQJ6KN48Wx8+49LhAbaScijjBcM/HIZM8WBqXNt9WR0E=;+Y/VrSOCp8TwAnDLJZNf0g=="
 ---
 

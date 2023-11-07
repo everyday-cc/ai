@@ -35,15 +35,6 @@ related:
         width: 768
         height: 510
         isCached: true
-  - title: "A Gut Check for Artificial Intelligence"
-    excerpt: "Startups are applying artificial intelligence to just about everything, including the bugs in your gut. The trillions of microbes in the body—the microbiome—aid digestion, synthesize vitamins ..."
-    publishedDateTime: 2023-11-02T12:47:00Z
-    webUrl: "https://www.wsj.com/articles/a-gut-check-for-artificial-intelligence-d02aa422"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 49
   - title: "Tech giants pour billions into cloud capacity in AI push"
     excerpt: "Google, Microsoft and Amazon boost investment by a fifth over two years to a combined quarterly total of $42bn"
     publishedDateTime: 2023-11-05T05:00:00Z

@@ -42,22 +42,20 @@ related:
         height: 675
         isCached: true
   - title: "Brandeis U revokes recognition of campus chapter of Students for Justice in Palestine"
-    excerpt: "The chapter had been planning a vigil for Monday evening but announced that it had been canceled and Brandeis no longer recognizes the group."
-    publishedDateTime: 2023-11-06T23:28:00Z
-    webUrl: "https://forward.com/fast-forward/568525/brandeis-revokes-recognition-campus-chapter-students-justice-palestine/"
-    ampWebUrl: "https://forward.com/fast-forward/568525/brandeis-revokes-recognition-campus-chapter-students-justice-palestine/?amp=1"
-    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/fast-forward/568525/brandeis-revokes-recognition-campus-chapter-students-justice-palestine/?amp=1"
+    excerpt: "SJP, which has a national umbrella group and campus chapters across the country, has spoken out in support of Hamas’ invasion of Israel. Brandeis said support for Hamas, which the United States has designated as a foreign terror group, is not protected by the university’s free speech principles."
+    publishedDateTime: 2023-11-06T22:07:00Z
+    webUrl: "https://www.jta.org/2023/11/06/united-states/brandeis-u-revokes-recognition-of-campus-chapter-of-students-for-justice-in-palestine"
     type: article
     provider:
-      name: The Forward
-      domain: forward.com
-    quality: 37
+      name: Jewish Telegraphic Agency
+      domain: jta.org
+    quality: 17
     images:
-      - url: "https://images.forwardcdn.com/image/732x/center/images/cropped/istock-839120628-1543857558.jpg"
-        width: 732
-        height: 732
+      - url: "https://www.jta.org/wp-content/uploads/2023/06/6-27-23-Brandeis-University-Sign-1024x569.jpg"
+        width: 1024
+        height: 569
         isCached: true
 
-secured: "nTY2EYFiYCips/ozHnef6zEjNv0J6kVIBXLx65rgQ4BFPHdea2Imvo/h9ofUesH56F95iYofkQSGfbpZawMNPM66Luu5pLul3Lx3qBqzcl6M+KhSj2Qbf4RvkKZcJhmzQ6e76hoRI1QaLe3IZXa2a27PW325X/yKDwcFWDiGiZYdAiJtGXX81Kbm3aBNAKAi32xvFYvpzfktKP3vEdk0XwD+9gCi61sKir0OHmJpTmOKIO7rYv0CdAdSVg/A8Hr6okxHRH9JjVWh21x/5jEFLDX5mANF5QoKzd8EdiG2B9LnDE+M3wJyJV+PX62bpQs9Izdm3zCc0kl5MdUDo7pwzbKrL/FGVEIdKpB7JHTm6/4=;z8riPdNuRVDbs+/yOhF8Iw=="
+secured: "zgaA0woRNE1fn9bV2N0mjkgkuSgXDFNyW8lorhd1OUD5AqAfxESnYEgbrTYvqWsN6eTpU7DsAvd4U9zU23hSXxeDwZpPPkCbfkzcJbBU5cOLHljHJNJzm5bL7ORL5OcTAW5NKTMvY4ZlabNspahyIJhaYVJfWUgWkiFmKbWNMkck0K20LpuF2M5X3v3keUZ0MBYTCFQ1L9wRYpESts6+bLZGpZW+QkaIkdl2kYACzBV0sIA/U6cAqP075Q++JZR0y4o2mgcZ3iTuvmFc1gjrdMSATlIfb2+V5qJ3e3gPiofJmtpqQhnbyEqrSJhcCv5KIKFL2j2yuB9k7NkDpdOzQyxhuKKjT1lwQTuIeFg7wZp5jOZX4BA4jUSBEgblYfFEejz25IPkRxFeq/hriK2UYMQZcsa3pgypQYkxgajnLs45cca9cNFd4ZeRckAS5YAFE36YpHJdh9skHaXtSBoz8AS4lz3SX0QXiLqM/d45uPV01vGKt2SyMbcbVtLIbRF/0NlAieQaBA0Owa/T4zWVRA==;LQ8qksUtU9xWAzaOcaOnow=="
 ---
 

@@ -69,6 +69,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "MediaTek's Dimensity 9300 Mobile Chip Comes with One-of-a-Kind All Big Core Design"
+    excerpt: "MediaTek announced the Dimensity 9300, its newest flagship mobile chip with a one-of-a-kind All Big Core design. The unique configuration combines extreme performance with MediaTek’s industry-leading power efficiency to deliver unmatched user experiences in gaming, video capture, and on-device generative AI processing."
+    publishedDateTime: 2023-11-07T06:54:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/33728-mediateks-dimensity-9300-mobile-chip-comes-with-one-of-a-kind-all-big-core-design"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 33
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/b00cb800b5c9c45aab42e9bb39c17c49.jpg?t=20231107_064806"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "NIp5aSKYzBDzMxWRZpZb6/E8pbtnT9H8hWYy0+WsjKxC8HhjiF0iHfS3eqqds/wdaL+nya1wXyl4pvB0oKFORK6mpSQT1WSYeLBhZDPiwQkCVAzpcIsaj7xsmHY5L1iLDxWgdnabih8yFbRl5WpPV5yEqfSA+YQlhwv+hFx5qXPWy/fiX4Dfxg91amns+lqlAQs05G2VQB7d2UfSObEXCAkUQ2GHrj6kumISjNJvuv8fP4SniqDypJ9eIiabFDr+ZbgfpWGMCQQlAjFa3lc3SqtXCHSULBnajz6zxMIWXKWOu97vpaQng9xyHZuN8xFOyYPJGlsAgQ+Iw/AD6zyy19DuX/dqnXkGDKMKdCT0pfg=;fCXZjmbD83/fSOzigK8PQA=="
 ---

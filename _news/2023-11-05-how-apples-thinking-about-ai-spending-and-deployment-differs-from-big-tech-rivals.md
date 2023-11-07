@@ -51,15 +51,6 @@ related:
       name: theregister
       domain: theregister.com
     quality: 34
-  - title: "How AI Boosts Fintech: 7 Promising AI-Powered Industries To Follow"
-    excerpt: "When Willie Sutton, once one of America’s most wanted fugitives, was asked why he robbed banks, his response was remarkably simple, “Because that’s where the money is.” This is the same answer that could be given to those who inquire about the growing tendency towards regulation in the fintech sector,"
-    publishedDateTime: 2023-11-02T13:56:00Z
-    webUrl: "https://www.unite.ai/how-ai-boosts-fintech-7-promising-ai-powered-industries-to-follow/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 19
 
 secured: "tafWKRyZqjqxTs3RG07jnWvQz3G6hgGQsBECPyE/AHW+T9hnNpDl5PcQyZ22iTPV2Szp90kfX3giylwbpfKEGMoGmNHunXf1MEArYJEuY3vq/yoLVAzoEMDz/PExuUcIbYHWhelY0HxewVfjzQfJbXk63jsUiMgxknqI0C/LQy5W0Pco0pyO7DSVBRNlUCPTEL2eglGdHxZWbL+EPPXJe0luQOKcGpW8+E8nB2pb0jFkvFxlqZJEjMjV26KRLWP432AQqnnq6Q8yUCLCTJ+K47shYwZzhCY1Zswb9mQkEfry09zbvlX3m+1TT6GKGUvZE5yEXhJDC1wrPeL2QzsZkSkBxy5PZjJp+RDBPtd1Zeg=;0eZZxAezNEo1feG4K/dpzQ=="
 ---

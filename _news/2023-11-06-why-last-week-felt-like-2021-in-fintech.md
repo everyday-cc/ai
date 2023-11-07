@@ -23,22 +23,43 @@ topics:
   - AI
 
 related:
-  - title: "Provenir Named Winner of 'Data Initiative of the Year' in the 2023 US Fintech Awards"
-    excerpt: "The company's AI-Powered Risk Decisioning platform continues to garner industry accolades for excellence in driving success for financial institutions in 50 countries worldwide Provenir, a global lead"
-    publishedDateTime: 2023-11-06T13:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35619754/provenir-named-winner-of-data-initiative-of-the-year-in-the-2023-us-fintech-awards"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35619754"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35619754"
+  - title: "5 firms leveraging AI to transform the future of FinTech in USA"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-11-06T10:46:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-firms-leveraging-ai-to-transform-the-future-of-fintech-in-usa/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/06/Generative-AI-in-Banking.jpg"
+        width: 300
+        height: 300
         isCached: true
+  - title: "3 Southeast Asian Startups Make World’s Top 100 Fintech Firms List"
+    excerpt: "Three fintech startups from Southeast Asia have been named among the world’s largest and most successful financial technology companies, recognized for their scale, growth and ingenuity."
+    publishedDateTime: 2023-11-07T03:30:00Z
+    webUrl: "https://fintechnews.sg/79865/indonesia/3-southeast-asian-startups-make-worlds-top-100-fintech-firms-list/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/3-Southeast-Asian-Startups-Make-Worlds-Top-100-Fintech-Firms-List.jpg"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "Strong Swiss Presence at the Singapore Fintech Festival 2023"
+    excerpt: "Switzerland will be setting up their own national pavilions during the festival. The Swiss Pavilion is co-organized by S-GE (Switzerland’s export and investment promotion agency) and Swiss Business Hub ASEAN (part of the Swiss Embassy in Singapore),"
+    publishedDateTime: 2023-11-06T01:00:00Z
+    webUrl: "https://fintechnews.sg/79585/singapore-fintech-festival-2023/strong-swiss-presence-at-the-singapore-fintech-festival-2023/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 4
 
 secured: "8LUkU+aHH0UauWhBG4IHyKnbCNvgLlL8VOpD+jA9BPwYFDToGWh23VPsgnCSfWouQT5UN6Cjm6wnxG/lDaGg4yX2WWSheZY2s4Q53jJ6q05d0ogeMwkRQYqHK8CZYvF7CIxpWbJrSB+JkBn0nUFKpAommQN+391V1vTEkDP7P8fVQIzZcwroyrnIg6Qr86VIl+Tb0tpn6YMWU9POUW0EOdDHDOJXkiqhkgBARfmdtfXm3EelJGiPTIvwHy5YrmAG2bBzCQPucVv9TcmHbVQkzBU3gjBSUJM6tVx1L0qovyFV37vRQ24F5aJlAGYWwQf5uetGJJ7MRfY7o1gu6MWqlgHBU+GQ9vMUXeUwDp7kQFc=;u+uFD6KlPfwp0rpOkZj46w=="
 ---

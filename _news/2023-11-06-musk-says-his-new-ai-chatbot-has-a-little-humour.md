@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "6 Ways AI Chatbots Are Improving Customer Service"
+    excerpt: "The customer service level you offer significantly influences how current as well as prospective customers view your company. It can deeply impact their"
+    publishedDateTime: 2023-11-07T02:50:00Z
+    webUrl: "https://www.techshout.com/how-ai-chatbots-are-improving-customer-service/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 39
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2022/08/247-customer-support.jpg"
+        width: 690
+        height: 690
+        isCached: true
   - title: "AI Chatbot 'Murrow' Teaches Journalism and Critical Thinking"
     excerpt: "A free AI-powered tool from the Journalistic Learning Initiative and Playlab Education Inc. is designed to instill in middle and high school students high standards for interviewing, fact-checking and reporting."
     publishedDateTime: 2023-11-03T22:51:00Z

@@ -27,30 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "Fintechs And Bigtechs Share The Spoils As Gen AI Reshapes Financial Services"
-    excerpt: "Gen AI holds immense promise in financial services. While the technology giants will play obvious roles in aiding adoption, there will be niches for fintechs too."
-    publishedDateTime: 2023-11-02T12:14:00Z
-    webUrl: "https://www.forbes.com/sites/davidparker/2023/11/02/fintechs-and-bigtechs-share-the-spoils-as-gen-ai-reshapes-financial-services/"
+  - title: "Salary hikes for IT staff take a cut; financial report card for Nykaa, Dunzo, PB Fintech"
+    excerpt: "Employees at Indian IT firms are not getting the salary hikes they were used to on switching jobs anymore, data from staffing companies suggests. This and more in todays ETtech Morning Dispatch."
+    publishedDateTime: 2023-11-07T01:49:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/articleshow/105024512.cms?from=mdr"
+    ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/amp_articleshow/105024512.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/amp_articleshow/105024512.cms"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
-  - title: "5 firms leveraging AI to transform the future of FinTech in USA"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-11-06T10:46:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-firms-leveraging-ai-to-transform-the-future-of-fintech-in-usa/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 35
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/06/Generative-AI-in-Banking.jpg"
-        width: 300
-        height: 300
+      - url: "https://img.etimg.com/photo/msid-105024651/OpenAI.jpg"
+        width: 1366
+        height: 768
         isCached: true
 
-secured: "+P1kH9EqzHnEWPxXoNQikxBRhAwoNSVENDlUPoCFUQE17Ynl9yV74zr/zM1lnq7m/es4gxuGUNlcO447gtodM3mmb0DPU8+mdKNUEvhbe+f7N2LMKzx4InyvTZv+7dQp6nbvd7Nhl28t51UOjd6q8xs2lhX1Xd7k5oj7ZEhyfvAdWMBjhxpZhRRvVxCBZki6Qyt0n9nrROvbHFqEy5oiHC0YllMxRi4tOJCB0X9gUSCvGdEvCShXvdlvCjquUVXG+6BR0o9Wo6cer6ere9pXREB+veyQxe1vKrMrpzFBlf29v53vYi3wQudMfbUpAO7N/IpaGB2Q1E4A6jjKxYjjGdLLaMF7uW8bqtbc2nGvIOY=;+qGxzyoIZl65WDQ/E32gKw=="
+secured: "nf8laBjiu5phK9nQXfnKMiebMQ3L7M6lin+ngEWQBP9kamlZDSNtfgbW2cCrcWUh93RG4jkcTh86dZFAMRuIpqsZTkPPxByxXoAL494D7RppXhnQEiwwDIFxS9oGvP6nCiAbLDphcVFxAg6ymyfRqKqaXNZBaIIA+c0/i9aebmHb43nKHpXoVEDZ8UPJyWTEKB6Pun2gZ6nK2znelYIPhXn7PKzdYjGekvh7NUsvSigTBe9jHkm+nheXniui3U5O3I6picX4k4pqENobvxjijVFTqxH5mxjwFXoNsdGrXfs3k5u9ureAWCYp7XD2G8PRLJhi8oOX1z7BzVm+zRGDa8bxYzyVe54yc7y1DGCd0bIZC9Wb7hZ4fe0WaRe8tiBJ8Osf7w2gxFZfx4FARBg4iguDGD4/Do+K2NEtDIRoKiFJxVQQwYfmLXnOyjB8AoEzjhf2b1uz+FoM1sO1bfSWzuuc8HVNNCfmDbKT/m79SlUnYrzkvTOfWL/3caJoD3ZcHeyg5TQAi0D/W2xCF6EJYg==;cuEnXkQIDIEkLnO9S7a+jQ=="
 ---
 

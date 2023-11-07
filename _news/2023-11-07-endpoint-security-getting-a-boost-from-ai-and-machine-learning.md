@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/endpoint-security-getting-a-boost
 webUrl: "https://venturebeat.com/security/endpoint-security-getting-a-boost-from-ai-and-machine-learning/"
 type: article
 quality: 103
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
       name: theregister
       domain: theregister.com
     quality: 34
-  - title: "How AI Boosts Fintech: 7 Promising AI-Powered Industries To Follow"
-    excerpt: "When Willie Sutton, once one of America’s most wanted fugitives, was asked why he robbed banks, his response was remarkably simple, “Because that’s where the money is.” This is the same answer that could be given to those who inquire about the growing tendency towards regulation in the fintech sector,"
-    publishedDateTime: 2023-11-02T13:56:00Z
-    webUrl: "https://www.unite.ai/how-ai-boosts-fintech-7-promising-ai-powered-industries-to-follow/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 19
   - title: "How Apple's thinking about AI spending and deployment differs from Big Tech rivals"
     excerpt: "How Apple's thinking about AI spending and deployment differs from Big Tech rivals: Summary Apple's approach to AI spending and deployment sets it apart from its big tech rivals."
     publishedDateTime: 2023-11-04T18:46:00Z

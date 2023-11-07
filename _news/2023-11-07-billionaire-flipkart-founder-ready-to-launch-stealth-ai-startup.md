@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/business/india-business/binny-bansal-bill
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/binny-bansal-billionaire-flipkart-founder-ready-to-launch-stealth-ai-startup/amp_articleshow/105025574.cms"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Indiatimes
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Billionaire Binny Bansal to launch AI-as-a-service startup: Report"
+    excerpt: "billionaire flipkart cofounder binny bansal is launching an aiasaservice startup to target global customers and has hired 15 experts for the venture consisting mostly of ai scientists bloomberg report"
+    publishedDateTime: 2023-11-07T05:42:00Z
+    webUrl: "https://inshorts.com/en/news/billionaire-binny-bansal-to-launch-aiasaservice-startup-report-1699335756745"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/billionaire-binny-bansal-to-launch-aiasaservice-startup-report-1699335756745"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/billionaire-binny-bansal-to-launch-aiasaservice-startup-report-1699335756745"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 57
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/11_nov/7_tue/img_1699333952466_123.jpg?"
+        width: 885
+        height: 582
+        isCached: true
   - title: "Binny Bansal to launch new global AI start-up after Flipkart"
     excerpt: "Billionaire Binny Bansal's venture aims to provide AI talent, products, and services to corporates across the globe"
     publishedDateTime: 2023-11-07T02:14:00Z
@@ -58,6 +74,31 @@ related:
         width: 1200
         height: 711
         isCached: true
+  - title: "Binny Bansal to launch global AI-as-a-service startup"
+    excerpt: "The company, which is currently operating in stealth mode, will provide AI talent, products, and services to a global corporate clientele, mirroring the outsourcing business model exemplified by companies like Tata Consultancy Services and Infosys."
+    publishedDateTime: 2023-11-07T05:55:00Z
+    webUrl: "https://yourstory.com/2023/11/binny-bansal-to-launch-global-ai-as-a-service-startup"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
+    images:
+      - url: "https://images.yourstory.com/cs/wordpress/2018/11/binny-1.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Flipkart Cofounder Binny Bansal To Launch AI Startup"
+    excerpt: "Earlier in August 2023, reports also surfaced that Binny Bansal is mulling plans to set up a startup in the cross-border ecommerce space."
+    publishedDateTime: 2023-11-07T05:50:00Z
+    webUrl: "https://inc42.com/buzz/flipkart-cofounder-binny-bansal-to-launch-ai-startup/"
+    ampWebUrl: "https://inc42.com/buzz/flipkart-cofounder-binny-bansal-to-launch-ai-startup/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/flipkart-cofounder-binny-bansal-to-launch-ai-startup/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 37
 
 secured: "wkiS5piACz4Nc4bOCWqp6MvGzWbrJ2HzeHN8xtGABBB2Z0WdkDCktAWz/SXWqTYkJGLkGOIaMANXKOuPQpZ+kv3u652WZXhZB7eNVQ6cMvc7ARsgmRfqlL4VmW45h161z2t8hc3bjdwZDJpKMiyBvf+uyP/aY81IvTWdn3RqusrCMiOxdExv7PNpwwwHNDnt1vjsdWRxbsKedYH0i8QuyHTrlbz4GCI1dCmk+FOUvtqe8kFZwudSUmvlg8FD+muXF2/nZuIdPptRXoRtFLiW+6L+FKePi8gsa1sRhYTFhFAMsWedjpECAf2hv7sUXsTMBPba618DLOF6RVT1z0XeR6L4+VFv9URDYmQezkP07EQ=;zyAE8CLnPiwObHH0ObGLHg=="
 ---
