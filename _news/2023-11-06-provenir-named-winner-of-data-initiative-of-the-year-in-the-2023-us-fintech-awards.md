@@ -26,6 +26,22 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "Provenir Named Winner of ‘Data Initiative of the Year’ in the 2023 US Fintech Awards"
+    excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named winner of the “Data Initiative of the Year” category for the 2023 US Fintech Awards. Winners were unveiled during an awards ceremony at The Edison Ballroom in New York City on Nov."
+    publishedDateTime: 2023-11-07T09:27:00Z
+    webUrl: "https://financialit.net/news/data/provenir-named-winner-data-initiative-year-2023-us-fintech-awards"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 17
+    images:
+      - url: "https://financialit.net/sites/default/files/provenir_41.png"
+        width: 1366
+        height: 768
+        isCached: true
+
 secured: "rJskXEgcEbL0ZpwNsNjH2FnKTl9JdaaTbBsOzzedghlpt9iOok7DRthluXn2+YA8ZUJ/ow/6AsoHkSFmhtUhS3RqtOcwYIvdUFgg5VrHSzQNbvOd1fI+YkbJr9BJhZwDjLKyofMioD83gPPcInM025c1mFfxHGWv9cGpHWwQzDKjEIE4wudGMPnbkoiLwxA2q5zV7fqpXRv6dkkJehwZjNvMFSkx21U/t+505hRdpt4LZ+ehKZnMwbdMl7NATExQUcW9wkAvPHw5b94c7xgk/we7Szz/ukv65Xf5uYViHxe5/L3zoa582OPhTVkDJtBs0C+kfUBZuWW/TPDqLdac9qxKWnOmPqdrH7KuwFedYyI=;ELaQVkdFIJU5U6fC74hB2w=="
 ---
 

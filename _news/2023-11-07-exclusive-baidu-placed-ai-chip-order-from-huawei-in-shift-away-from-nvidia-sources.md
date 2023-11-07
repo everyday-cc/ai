@@ -25,23 +25,88 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu placed AI chip order from Huawei in shift away from Nvidia"
-    excerpt: "One of the people said Baidu, one of China's leading AI firms, which operates the Ernie large language model (LLM), placed the order in August, ahead of widely anticipated new rules by the U.S. government that in October tightened restrictions on exports of chips and chip tools to China,"
-    publishedDateTime: 2023-11-07T08:00:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/baidu-placed-ai-chip-order-from-huawei-in-shift-away-from-nvidia-11685591.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/baidu-placed-ai-chip-order-from-huawei-in-shift-away-from-nvidia-11685591.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/baidu-placed-ai-chip-order-from-huawei-in-shift-away-from-nvidia-11685591.html/amp"
+  - title: "How Huawei plans to rival Nvidia in the AI chip business"
+    excerpt: "U.S. curbs on the sales of advanced artificial chips by Nvidia to China are creating an opening for Huawei to win market share, with sources saying it won a sizeable AI chip order from Chinese tech giant Baidu this year."
+    publishedDateTime: 2023-11-07T08:14:00Z
+    webUrl: "https://www.reuters.com/technology/how-huawei-plans-rival-nvidia-ai-chip-business-2023-11-07/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/AafQV_RjP40L-o8PIAwZ8hWQ0I4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RLTZDCVJVBNCJATFEDGPM4IL5Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Baidu placed AI chip order from Huawei in shift away from Nvidia"
+    excerpt: "Baidu ordered 1,600 of Huawei Technologies' 910B Ascend AI chips - which the Chinese firm developed as an alternative to Nvidia's A100 chip - for 200 servers, the source said, adding that by October, Huawei had delivered more 60% of the order, or about 1,000 chips, to Baidu."
+    publishedDateTime: 2023-11-07T10:37:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/768709-Baidu-placed-AI-chip-order-from-Huawei-in-shift-away-from-Nvidia"
+    ampWebUrl: "https://dunyanews.tv/amp/english/768709.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/768709.php"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
     quality: 74
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Baidu.jpg"
-        width: 1280
-        height: 720
+      - url: "https://img.dunyanews.tv/news/2023/November/11-07-23/news_big_images/768709_82787141.jpg"
+        width: 752
+        height: 423
         isCached: true
+  - title: "US-China tech war: Baidu buys AI chips from Huawei, as US restricts Nvidia chip exports: sources"
+    excerpt: "Baidu ordered US$61 million worth of Huawei’s 910B Ascend AI chips, which are marketed as an alternative to Nvidia’s A100 chip, according to people familiar with the matter."
+    publishedDateTime: 2023-11-07T09:00:00Z
+    webUrl: "https://www.scmp.com/tech/tech-war/article/3240641/us-china-tech-war-baidu-buys-ai-chips-huawei-us-restricts-nvidia-chip-exports-sources"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 71
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2023/11/07/d43490ed-0fb7-4d99-a333-1e5acc2c2dff_06af8282.jpg?itok=z22Kp4uU&v=1699347307"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI-chip cousins? CEO Nvidia, AMD lead US tech war against China"
+    excerpt: "The chief executives of Nvidia and AMD aren’t just two of the most powerful people in the global AI chip industry, they’re also cousins."
+    publishedDateTime: 2023-11-06T13:55:00Z
+    webUrl: "https://interestingengineering.com/culture/cousins-ceo-nvidia-amd"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/11/06/image/png/HFrVnBurPNDETh1zSinvHl4MKlqlLtt8AhY5s7wa.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Baidu Orders Huawei's AI Chips in Shift from Nvidia as US Pressure Mounts"
+    excerpt: "Baidu has reportedly ordered artificial intelligence chips from Huawei to meet the increasing demand for advanced technology solutions. This move comes amidst mounting pressure on Chinese companies following"
+    publishedDateTime: 2023-11-07T10:02:00Z
+    webUrl: "https://www.econotimes.com/Baidu-Orders-Huaweis-AI-Chips-in-Shift-from-Nvidia-as-US-Pressure-Mounts-1665644"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 53
+    images:
+      - url: "https://f1.econotimes.com/2023/11/9f64e8dmxk_th_1024x0.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Nvidia Dominates AI Chip Market, But Institutional Holders Show Unsettling Trend — Is The Spark Fading?"
+    excerpt: "Nvidia Corp NVDA has taken a dominant position in the AI space and in the broader stock market. The stock is up over 200% so far this year, on account of: the company exceeding in"
+    publishedDateTime: 2023-11-03T13:55:00Z
+    webUrl: "https://www.benzinga.com/general/hedge-funds/23/11/35591478/nvidia-dominates-ai-chip-market-but-institutional-holders-show-unsettling-trend-is-the-spark-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
 
-secured: "qwt7jvDOytk1P46jypuKgr4bGeAlAUKQfpb23sLFlYZItm4sMZfrohx/IxGlU2NgwmfugO/jLoJjLrWerGDhVFYHjTWja0PyLKY+TQmKwgI8Rul+DjF8VfQV9LeuPAoU8hz9QIr+Htn4fl+LKGvX632bOnNP6M2dnuPw83AWlZs9Eyws6IatCvr9H9QzL0FiUjGfT3Wxoo4I3CCkt2VW20x9Mp9VoVKLV9Dh+tQFS/9fptKRGlmGJvw6l9U+0hGJxAye8UpiAMkM4WzwOxIWJlV+T1xmeD3KAG8rlcOJBqLe0uV2QDvmFLl8XGLnY2OSVKIlPbZe9eJtkQ/T8Hzn6j5PS23+ZsXOT84ksZbe8h8=;taWIn2RDFCRYwOsvVZBimw=="
+secured: "TgkLawEHjp/7j86wntfJUuq4FVUNDt9jS5SS7biy4IsxEkAHHQhjN8xHMv2T7RQirtXOJ4Oh9iU8j2PgjW/KY1ifXKxAjs2xwEZSUe175zy6VrPngrdKAM2sBzXutXv3M/wzmjIR1EVAFOE1gJL2MMjSj/U397I2ccpJh8hGOYI0TSEUSiVQdLzhyaCyKcXDoH2uPCRtVclG4rHuIKP7CONcNxbxeC43zuu1GSeJB1Z6cDTMXz8isnrncRObgQU/6Lay2GA6j6jBCfcNYa8TwXZQcp+iknEdlVF2ik4RztOR2hOWRxZdMtQY4AszAezzIwymvQCGRqvP1a+7Jmf5vLD6kcbqfhp15y8yi/1w6mVfwRVCROky8oxhMevHEk2+5H9juSWk5zEAIwfnrMQ922b/87N+Sa3ryHfyEBV4KH4aQfr4oflSdSufwj/8dG1n1Uteq3KUwOrtYwv2/jwSQ2va3dnnBffPuzwL/6fc7PSJWnLJIpEah7AmU4bq97pH6ZXg3nQMO1pj3Z9Librb5g==;V6yF9YmABp3li/C/nymkOg=="
 ---
 

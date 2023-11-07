@@ -18,50 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "Behold ‘Grok,’ Elon Musk’s AI chatbot with a ‘rebellious’ streak"
-    excerpt: "Brace yourselves. Jokes incoming. Elon Musk has announced the introduction of “Grok,” an artificially intelligent chatbot, for some users of X, which the billionaire suggests has a sarcastic sense of humor similar to his own."
-    publishedDateTime: 2023-11-06T12:27:00Z
-    webUrl: "https://www.cnn.com/2023/11/06/tech/grok-elon-musk-ai-chatbot-x-twitter/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/11/06/tech/grok-elon-musk-ai-chatbot-x-twitter/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/11/06/tech/grok-elon-musk-ai-chatbot-x-twitter/index.html"
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs."
+    publishedDateTime: 2023-11-07T00:51:00Z
+    webUrl: "https://techcrunch.com/2023/11/6/chatgpt-everything-to-know-about-the-ai-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/11/06/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/06/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230126152953-nightcap-012623-clip-1-16x9-nb.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
         isCached: true
-  - title: "Elon Musk Announces Grok, a ‘Rebellious’ AI With Few Guardrails"
-    excerpt: "AI, Elon Musk’s new company, claims to have built a powerful language model with cutting-edge performance in just two months."
-    publishedDateTime: 2023-11-06T16:24:00Z
-    webUrl: "https://www.wired.com/story/elon-musk-announces-grok-a-rebellious-ai-without-guardrails/"
+  - title: "Start Learning AI and ChatGPT with Python for Only $30"
+    excerpt: "Developing Python skills can be a quick way to start learning artificial intelligence and ChatGPT, and according to a Goldman Sachs report, 300 million jobs could be replaced by AI in the next ten years. The 2023 Ultimate AI ChatGPT & Python Programming ..."
+    publishedDateTime: 2023-11-05T19:56:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/start-learning-ai-and-chatgpt-with-python-for-only-30/464817"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/6548fb02d5bc3d09424c3db3/191:100/w_1280,c_limit/musk-biz-grok-GettyImages-1768682028-(1).jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Elon Musk Announces Grok, a ‘Rebellious’ AI Without Guardrails"
-    excerpt: "AI, Elon Musk’s new company, claims to have built a powerful language model with cutting-edge performance in just two months."
-    publishedDateTime: 2023-11-06T16:24:00Z
-    webUrl: "https://www.wired.com/story/elon-musk-announces-grok-a-rebellious-ai-without-guardrails/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/6548fb02d5bc3d09424c3db3/191:100/w_1280,c_limit/musk-biz-grok-GettyImages-1768682028-(1).jpg"
-        width: 1280
-        height: 670
-        isCached: true
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
   - title: "Elon Musk Announces 'Grok' AI Chatbot for X Premium+ Subscribers, to Compete With ChatGPT"
     excerpt: "AI's new Grok chatbot will be available to X Premium+ subscribers via the microblogging platform and a standalone app."
     publishedDateTime: 2023-11-06T06:32:00Z
@@ -87,6 +68,29 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 47
+  - title: "Musk says his new AI chatbot has 'a little humour'"
+    excerpt: "Elon Musk has launched an AI chatbot called Grok on his social media site X, formerly Twitter, but so far it is only available to selected users. \"In some important respects, it is the best that currently exists,\" he posted on X, before its release. Mr Musk boasted that Grok \"loves sarcasm\" and would answer questions with \"a little humour\"."
+    publishedDateTime: 2023-11-05T18:10:00Z
+    webUrl: "https://www.bbc.com/news/business-67327060"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 47
+  - title: "6 Ways AI Chatbots Are Improving Customer Service"
+    excerpt: "The customer service level you offer significantly influences how current as well as prospective customers view your company. It can deeply impact their"
+    publishedDateTime: 2023-11-07T02:50:00Z
+    webUrl: "https://www.techshout.com/how-ai-chatbots-are-improving-customer-service/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 39
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2022/08/247-customer-support.jpg"
+        width: 690
+        height: 690
+        isCached: true
   - title: "Grok vs ChatGPT: How Does Elon Musk’s AI Chatbot Stack Up?"
     excerpt: "Elon Musk and xAI have unveiled Grok, a new AI chatbot designed to beat ChatGPT. Is it any good and how do the two compare? Let's take a look."
     publishedDateTime: 2023-11-06T17:10:00Z
@@ -129,20 +133,24 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "Elon Musk announces Grok, an AI with a 'rebellious streak' that will answer spicy questions"
-    excerpt: "Elon Musk's AI startup xAI has announced its first AI model called Grok, inspired by Hitchhiker's Guide to the Galaxy. Like other AI language models, Grok will attempt to answer any question you throw at it with the bonus of suggesting what questions to ask."
-    publishedDateTime: 2023-11-07T03:32:00Z
-    webUrl: "https://www.tweaktown.com/news/94237/elon-musk-announces-grok-an-ai-with-rebellious-streak-that-will-answer-spicy-questions/index.html"
+  - title: "AI Chatbot 'Murrow' Teaches Journalism and Critical Thinking"
+    excerpt: "A free AI-powered tool from the Journalistic Learning Initiative and Playlab Education Inc. is designed to instill in middle and high school students high standards for interviewing, fact-checking and reporting."
+    publishedDateTime: 2023-11-03T22:51:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/ai-chatbot-murrow-teaches-journalism-and-critical-thinking"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 27
-    images:
-      - url: "https://static.tweaktown.com/news/9/4/94237_01_elon-musk-announces-grok-an-ai-with-rebellious-streak-that-will-answer-spicy-questions_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
+      name: Government Technology
+      domain: govtech.com
+    quality: 19
+  - title: "New Neural-Network-Based AI Learns Better Than ChatGPT"
+    excerpt: "To simplify, this neural technology called Meta-learning for Compositionality (MLC) mimics the way humans learn and use new words in different situations through a process called systematic generalization. In contrast to other AI systems, the neural network integrates newly learned words into existing vocabulary."
+    publishedDateTime: 2023-11-05T04:00:00Z
+    webUrl: "https://i-hls.com/archives/121543"
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 19
   - title: "Elon Musk releases ‘spicy’ AI chatbot that loves sarcasm"
     excerpt: "The billionaire has unveiled his generative AI model with more personality than its rivals, in a challenge to Microsoft-backed OpenAI and Google."
     publishedDateTime: 2023-11-06T02:17:00Z
@@ -152,15 +160,24 @@ related:
       name: The Australian Financial Review
       domain: afr.com
     quality: 19
-  - title: "Elon Musk unveils Grok, an AI chatbot with a ‘rebellious streak’"
-    excerpt: "Boss of X said the tech currently being tested is inspired by Hitchhiker’s Guide to the Galaxy"
-    publishedDateTime: 2023-11-05T12:23:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/nov/05/elon-musk-unveils-grok-an-ai-chatbot-with-a-rebellious-streak"
+  - title: "Brave launches Leo, a free generative AI assistant more private than ChatGPT"
+    excerpt: "Brave launched Leo, the generative AI assistant built on Claude with strong privacy protections in place - what you need to know."
+    publishedDateTime: 2023-11-03T16:53:00Z
+    webUrl: "https://bgr.com/tech/brave-launches-leo-a-free-generative-ai-assistant-more-private-than-chatgpt/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
+      name: BGR
+      domain: bgr.com
+    quality: 16
+  - title: "How to learn languages using new Vision, Voice and Image ChatGPT AI features"
+    excerpt: "If you are learning a language you can harness the power of AI ChatGPT and its new Vision and image/photo analysis features to learn quicker"
+    publishedDateTime: 2023-11-04T15:03:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-learn-languages-using-new-chatgpt-features-and-ai-models/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 16
 
 secured: "b+cRxog36ey6aAUbRsMnCcr1rwH7HMK7fHCOBebrtDDfVwvpsXX25N9KwZ2TAzX3uGUQLyjT5cGmWtzpk312GPVaEoucZWeevp5dpjNqGHr21yFAemYS98Cno8Okqqw8NhkVcXl+tJQMDQiNHqi3ag4FjWJBmx9h2ZEbZRH9owh8ooFoOmeHwD3sR8ps+yDYgv59njdJnjNVYITC6UEj0YExbTuk5BHMQIBQZ3tb9iMQ6udPcICds/R5ewWSlVBrD8vYM281Kl0dlxPCSu00Kv+CKSeRGOFBL7cER8tpMzeoBNtmpEL6N7ABUh/3GL392XMPGftsufl5Y5pCJbAycd1z9sbLDuhklY7WOyVStCVxqsIbKSBKCx4v5CiOy3dkFo6N7f34gTZ7DwC9DthzXMURx+StFmzWzLBc91b08n/yuuRKxVwsFZdy34iqruw8WLoY2tof28De2qAvJw0TpzwHBLSeozUSOtlfBuiLLXEWJpL4bJRdWZ9+x4M6y9VAXb383Lugultjys8CVIs3sw==;GvXOmEthAJQ0L3jh2zficQ=="
 ---

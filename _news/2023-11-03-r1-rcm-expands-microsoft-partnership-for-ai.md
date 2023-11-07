@@ -72,15 +72,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 55
-  - title: "Trimble Introduces AI-Powered Capability to Automatic Invoicing Functionality with Microsoft Azure"
-    excerpt: "Automatic Invoicing is available within Trimble's ERP solutions, Viewpoint Spectrum® and Viewpoint Vista™. To learn more about how Automatic Invoicing can save your organization both time and accuracy, visit https://www.viewpoint.com/ ."
-    publishedDateTime: 2023-11-06T11:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/06/9911562.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
   - title: "How a small city in Iowa became an epicenter for advancing AI – Microsoft"
     excerpt: "Microsoft has been powering the future of AI from a cluster of datacenters located amidst sprawling farmlands and rural roads in"
     publishedDateTime: 2023-11-06T03:24:00Z

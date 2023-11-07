@@ -42,15 +42,6 @@ related:
       name: Nagaland Post
       domain: nagalandpost.com
     quality: 36
-  - title: "Advancing the AI and Deep Learning opportunity"
-    excerpt: "You will hear how the two companies put in place a zero trust architecture which lays a foundation for encryption, auditability and security, combined with data management that allows mobility between public and private clouds and the introduction of a simple, single UI for the entire data estate."
-    publishedDateTime: 2023-11-02T16:39:00Z
-    webUrl: "https://go.theregister.com/feed/www.theregister.com/2023/11/02/advancing_the_ai_and_deep/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 34
 
 secured: "tafWKRyZqjqxTs3RG07jnWvQz3G6hgGQsBECPyE/AHW+T9hnNpDl5PcQyZ22iTPV2Szp90kfX3giylwbpfKEGMoGmNHunXf1MEArYJEuY3vq/yoLVAzoEMDz/PExuUcIbYHWhelY0HxewVfjzQfJbXk63jsUiMgxknqI0C/LQy5W0Pco0pyO7DSVBRNlUCPTEL2eglGdHxZWbL+EPPXJe0luQOKcGpW8+E8nB2pb0jFkvFxlqZJEjMjV26KRLWP432AQqnnq6Q8yUCLCTJ+K47shYwZzhCY1Zswb9mQkEfry09zbvlX3m+1TT6GKGUvZE5yEXhJDC1wrPeL2QzsZkSkBxy5PZjJp+RDBPtd1Zeg=;0eZZxAezNEo1feG4K/dpzQ=="
 ---

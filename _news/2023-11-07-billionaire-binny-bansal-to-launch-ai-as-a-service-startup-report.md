@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/billionaire-binny-bansal-to-launc
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/billionaire-binny-bansal-to-launch-aiasaservice-startup-report-1699335756745"
 type: article
 quality: 57
-heat: 128
+heat: 137
 published: true
 
 provider:
@@ -129,6 +129,20 @@ related:
       name: inc42
       domain: inc42.com
     quality: 37
+  - title: "Binny Bansal, Co-Founder of Flipkart, plans to launch AI startup for global corporate clients"
+    excerpt: "Binny Bansal, Co-Founder of Flipkart, plans to launch AI startup for global corporate clients - Binny Bansal , the former Co-Founder of Flipkart, is now entering the AI industry with a new startup that"
+    publishedDateTime: 2023-11-07T08:58:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/binny-bansal-cofounder-of-flipkart-plans-to-launch-ai-startup-for-global-corporate-clients-nid-226324-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 26
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/kSCGTD8e.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "xYnao5ksbZ2UYy7+DR0KCDHPiKYcdRR5ZXv85PXwUZgpm788cM2xARznq/k+HP/b0R0BrWY7H8vRj+4v/23rCUWVF1Ihl3Waxhl/5BXN+0RbuBvyCnyfPD/P4cUAPX9m5707WSkDMwsV7pKt53XEhlLD9k2AJ2fWNl5whAYcKAhS/lJLJK7YJiA8IeWrfW1l/hW4vhFwYLnEm0QjXsn2FNIti3WxZLTRU0kutoOW+H93tt3h/IbbwDxqv+5j+6uKDB0K+4ZIaXZ1UZD202rwZZPIqQx93jOvLH7+95kjpnxcPIDN4Umqxx9XVtGWwZoSmuObCbPAreEwA2wOqhWysabjWEUTVGfsfcxSWd7joSo=;hXGvYelOCTe857QjWLgssw=="
 ---

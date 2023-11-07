@@ -24,6 +24,22 @@ images:
     height: 458
     isCached: true
 
+related:
+  - title: "The new civil rights frontier: artificial intelligence"
+    excerpt: "Artificial intelligence is continuing to grow in many industries. It is expected to replace 85 million jobs globally by 2025 as well as potentially generate 97 million new roles, according to the Future of Jobs Report 2020 from the World Economic Forum."
+    publishedDateTime: 2023-11-07T10:00:00Z
+    webUrl: "https://theweek.com/tech/the-new-civil-rights-frontier-artificial-intelligence"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/MjerHnSMt2DRGgPoujMZ4U-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "+gA6Yt/fgcc3bO9j8+wei6AqYDXB+bnvLFDKIagN6RCN+0oZVWj9Nybtc7q2e/+Qrl8IfYl5HUNDKFkQgld8D4mopB+G+MXUCZHaUC6PdN7x3ZDXIw2et1PREoDqJcDlf8VD2+zlj5dzO+xrgufYREYvXnT5MsTCD3v8oHgeGFyfRbL91K/dAbaf1LdOXb2e0bDrPHcm4ueddA7d45Fhv2+TNns5Jl3KkL2pJaKq1M7sMf9DDWeYcLSuJRRdEyXbxt8d61tZ3jrjpx4OFshNgiQlj02+mm4F9trgbsJU8wKHnRVoHagy5Ddh8WQONTys+fRLN3PHRBn1WkG1o8rFtdvVffsR3C+gWYG/1lCHVEre2891HWmGwfW0E05a7mGJLUlUhP7fWkwZKrHCi+LMfGG5WiepCzLIxgMMHhgKi5Tqb/XeXXVJRc93UAeCiMRYg/EuXlHUXlws4EwjTl7MaDgTS2l22Ztn4sdy3dHmcHoeQ6wkx6WglPoI75nVBRB4l6df7OO3vigXW23b/IE+uA==;wS5piYpOLwvwXUV1091VUQ=="
 ---
 

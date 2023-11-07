@@ -129,7 +129,21 @@ related:
       name: inc42
       domain: inc42.com
     quality: 37
+  - title: "Binny Bansal, Co-Founder of Flipkart, plans to launch AI startup for global corporate clients"
+    excerpt: "Binny Bansal, Co-Founder of Flipkart, plans to launch AI startup for global corporate clients - Binny Bansal , the former Co-Founder of Flipkart, is now entering the AI industry with a new startup that"
+    publishedDateTime: 2023-11-07T08:58:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/binny-bansal-cofounder-of-flipkart-plans-to-launch-ai-startup-for-global-corporate-clients-nid-226324-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 26
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/kSCGTD8e.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
-secured: "J0VHceiPdwR3CribY2b/xGgOzet/DsD9B3ZYCFnHRYUU2CdMESKEYEI94hwO7anbY6k+RlfwynL5oFDqvWrEkkBhYnEQeHtHxSTAYxeCZKJAnnF/wSo+D5sfpPrMhFNjV1MC54lX59DjM8hUahjee9Z//qHGTspYfNw3LVOUkmdamHX2Vz9KvTvovUMpW6MwXS1BbGzZUCJxaEIXrMIWM5rQamjD310FA70EFaE/mT5YwpPgA842kw0mils4anT27q60AVe53Lq0NO8p6sEENy6/Mw1Bm1Q4cMZrwmfLuX0CyDuw6/+qcMbcGC4ARugA670wx2crZISnN07cduJbCwrRSH7u5HnvwjgE7n4BCXo=;pmEVpaTEg31WVttjf+6GpA=="
+secured: "722X0J5L7apwhV2cCcf35R1Schr4nLGTukZSCkxQ83CBnXXzbd38uePG8sjwvykyD4zDYw6ZqQtF4UbtDrDvVwYXgLojcZnva+q3p+j6fWde3EKF2p4eV0a1ATUtsWnIdoPKvm55amJPXpG/R2CV+CAb520LJLf0WH8eYBxuXGmfpNeFx9TSwrACRVQhin6mtJsnI72jSvHIIAw4SZNNzblIi8Algdui2oOX25215Yjtjv3QZtNVpzgBXQbdbzIMSlbjkg3UYWqO411U38SiWaM5MWIVunbxjab6dEXcrDgARLo/4sGr1vcnloXKHrSEoeik2HdVR77/tivsH3wn3e2tm/j1bWiXVrNX8qc2Drd0/Dl2C99hjJRFCTycd8UXOzf/JgXHyr3DaXcvcK1jzTzD4Xt620jiQ8J71YyN70x3DL2NR7UgKa+msJlUaYZpuf9Yj8Su12JMCZv0leGoWgFHIdDPnEYRD79YolpoOnPq5QOEkW9VjIo94+0Afg8iApVhvpD23uZL/8FmpXi5WA==;6MqMSI5VtrXGNaqln7Pokg=="
 ---
 

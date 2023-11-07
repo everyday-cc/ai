@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/great-news-for-nvi
 webUrl: "https://markets.businessinsider.com/news/stocks/great-news-for-nvidia-amazon-google-microsoft-spending-big-on-ai-and-cloud-1032782340"
 type: article
 quality: 83
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 55
-  - title: "Trimble Introduces AI-Powered Capability to Automatic Invoicing Functionality with Microsoft Azure"
-    excerpt: "Automatic Invoicing is available within Trimble's ERP solutions, Viewpoint Spectrum® and Viewpoint Vista™. To learn more about how Automatic Invoicing can save your organization both time and accuracy, visit https://www.viewpoint.com/ ."
-    publishedDateTime: 2023-11-06T11:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/06/9911562.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
   - title: "R1 RCM expands Microsoft partnership for AI"
     excerpt: "R1 RCM is expanding its partnership with Microsoft to accelerate the development and integration of generative AI in their revenue cycle management platform."
     publishedDateTime: 2023-11-02T20:09:00Z

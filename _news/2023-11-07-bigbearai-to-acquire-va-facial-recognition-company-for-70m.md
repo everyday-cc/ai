@@ -33,6 +33,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "BigBear.ai Eyes Vision AI Capability Expansion With Pangiam Buy; Mandy Long Quoted"
+    excerpt: "Columbia, Maryland-based BigBear.ai said Monday it expects the deal to close in the first quarter of calendar year 2024 and expand its portfolio of vision AI technologies through the combination of its computer vision capabilities with Pangiam’s advanced biometrics and facial recognition systems."
+    publishedDateTime: 2023-11-07T09:53:00Z
+    webUrl: "https://www.govconwire.com/2023/11/bigbear-ai-eyes-vision-ai-capability-expansion-with-pangiam-buy/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 33
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/11/unnamed-file-42.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Mobile device biometrics generate big sensors sale, back extensive airport trial"
     excerpt: "A pair of major developments in native device biometrics were among the most-read news articles of the past week on Biometric Update."
     publishedDateTime: 2023-11-04T15:00:00Z
