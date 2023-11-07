@@ -37,6 +37,22 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Big slump in pay hikes for techies switching jobs; financial report card for Nykaa, Dunzo, PB Fintech"
+    excerpt: "Employees at Indian IT firms are not getting the salary hikes they were used to on switching jobs anymore, data from staffing companies suggests. This and more in todays ETtech Morning Dispatch."
+    publishedDateTime: 2023-11-07T02:29:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/articleshow/105024512.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/amp_articleshow/105024512.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/amp_articleshow/105024512.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 29
+    images:
+      - url: "https://img.etimg.com/photo/msid-105024651/OpenAI.jpg"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "PLrRL4FaGV0LEMybInrWVcVOT51ak26tsXaKTODQwRrCnPhNXv2UtTOQ6ox+O+0w9z36HgpSnWKPq3bf0nP8u6Wzd/sgBYt8cZdcUw0xAO3OZeOZuRL/k+H3/9wogpuFvEsK7y/va6K2Jb3k89q1o19zj6/PiRLlqBJA/O12I39Bch0wzvwLBBDcihKGiQeDbo7ITjaqBCvLhOxxlecZHk8b4+iGCLfbUDF5txQBFIutpx/YFAAnGk3ih7+QuvRXxIi6jqRVuHIv60ebeEmwZ/Ti9cUJwQeMP6GM6bj2sJ4dPRnTeTDrobo7ENUJBnwPffCs5HtcSIAYZyoxbmIS8CBrroS8yxN3DmFn+VBTwpMCH4+LiXAXh81gyWeIpKgZNrvdM8yIuzGd2EAga0x28n4jFhs3EcblEhN5Uy7lMx5bR2uaPX7oUl90lq44L7jHUukwjrMgEGDJ+YQ+u+10NlUEPR+K900ju3C4+NCgL3U5cSe0V41iZ0jsKahHApN/dpIw1/FvxizVYOGmdvWzHg==;BRp9mckTNPL8tEKkyLixSA=="
 ---

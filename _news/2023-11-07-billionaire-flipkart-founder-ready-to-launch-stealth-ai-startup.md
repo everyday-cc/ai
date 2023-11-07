@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/business/india-business/binny-bansal-bill
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/binny-bansal-billionaire-flipkart-founder-ready-to-launch-stealth-ai-startup/amp_articleshow/105025574.cms"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Indiatimes
@@ -41,6 +41,22 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/11/07/1600x900/2-0-776812839-binny-0_1680409777584_1699320816497.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Flipkart Founder Binny Bansal ready to launch stealth AI startup"
+    excerpt: "Binny Bansal, who co-founded online retailer Flipkart and sold it to Walmart Inc., has hired 15 experts for the venture — mostly artificial intelligence scientists — and plans to quickly add more, according to people familiar with the matter."
+    publishedDateTime: 2023-11-07T04:16:00Z
+    webUrl: "https://www.financialexpress.com/business/industry-flipkart-founder-binny-bansal-ready-to-launch-stealth-ai-startup-3299185/"
+    ampWebUrl: "https://www.financialexpress.com/business/industry-flipkart-founder-binny-bansal-ready-to-launch-stealth-ai-startup-3299185/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-flipkart-founder-binny-bansal-ready-to-launch-stealth-ai-startup-3299185/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/403980599.jpg"
+        width: 1200
+        height: 711
         isCached: true
 
 secured: "wkiS5piACz4Nc4bOCWqp6MvGzWbrJ2HzeHN8xtGABBB2Z0WdkDCktAWz/SXWqTYkJGLkGOIaMANXKOuPQpZ+kv3u652WZXhZB7eNVQ6cMvc7ARsgmRfqlL4VmW45h161z2t8hc3bjdwZDJpKMiyBvf+uyP/aY81IvTWdn3RqusrCMiOxdExv7PNpwwwHNDnt1vjsdWRxbsKedYH0i8QuyHTrlbz4GCI1dCmk+FOUvtqe8kFZwudSUmvlg8FD+muXF2/nZuIdPptRXoRtFLiW+6L+FKePi8gsa1sRhYTFhFAMsWedjpECAf2hv7sUXsTMBPba618DLOF6RVT1z0XeR6L4+VFv9URDYmQezkP07EQ=;zyAE8CLnPiwObHH0ObGLHg=="

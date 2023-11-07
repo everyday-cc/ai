@@ -133,6 +133,20 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Elon Musk announces Grok, an AI with a 'rebellious streak' that will answer spicy questions"
+    excerpt: "Elon Musk's AI startup xAI has announced its first AI model called Grok, inspired by Hitchhiker's Guide to the Galaxy. Like other AI language models, Grok will attempt to answer any question you throw at it with the bonus of suggesting what questions to ask."
+    publishedDateTime: 2023-11-07T03:32:00Z
+    webUrl: "https://www.tweaktown.com/news/94237/elon-musk-announces-grok-an-ai-with-rebellious-streak-that-will-answer-spicy-questions/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 27
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94237_01_elon-musk-announces-grok-an-ai-with-rebellious-streak-that-will-answer-spicy-questions_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "Elon Musk releases ‘spicy’ AI chatbot that loves sarcasm"
     excerpt: "The billionaire has unveiled his generative AI model with more personality than its rivals, in a challenge to Microsoft-backed OpenAI and Google."
     publishedDateTime: 2023-11-06T02:17:00Z

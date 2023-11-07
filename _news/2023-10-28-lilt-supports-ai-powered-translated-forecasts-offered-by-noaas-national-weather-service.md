@@ -2,19 +2,25 @@
 category: news
 title: "Lilt Supports AI-Powered Translated Forecasts Offered By NOAA's National Weather Service"
 excerpt: "the leading AI solution for enterprise translation, is proud to provide the AI-powered technology behind a new experimental language translation website by NOAA and the National Weather Service."
-publishedDateTime: 2023-10-27T19:23:00Z
-originalUrl: "https://www.news-journal.com/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/article_ad8a03e8-30b5-51d8-aa3f-881c59d5b3a3.html"
-webUrl: "https://www.news-journal.com/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/article_ad8a03e8-30b5-51d8-aa3f-881c59d5b3a3.html"
+publishedDateTime: 2023-10-28T03:19:00Z
+originalUrl: "https://fox40.com/business/press-releases/cision/20231027SF50824/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/"
+webUrl: "https://fox40.com/business/press-releases/cision/20231027SF50824/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/"
 type: article
 
 provider:
-  name: Longview News-Journal
-  domain: news-journal.com
+  name: FOX40 News
+  domain: fox40.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "p4N7j5/AhzakYIeDGB/RFQ9hmfkTUThdTz1CObjsmzLWcg6N1LXo1cAC5czE+MndfxSJeZeTKIfp6T+l3TklTmrVj5s5K74XPMpiWowptSVnpPpR7N3GqKvndOCs7ii9GlZ7ggR9WiYN4gGO4AFXPSplemw9egcgQpWjfgAecyj1XoP+rZzJLxG/2Ulojtfw6jEPuxEDRNjxcl/IwxL/CjeGTBhTAVhZ5chPN0ITmQyrSIBqlraPomrZC0NkqsTyv1RMstvifnL/hCtHCssk+CsDPsRfW56ATTiormmtheF5h0IINHaFBjWTJ0WAIHdl6z69PWA55MNa1uwDy4LBMPgCcCMKvngQvTkFQ4CUfX4=;FSEbz4mnURQ+1r27StNXqw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1276009/Lilt_Logo_Large_Logo.jpg?p=publish"
+    width: 800
+    height: 286
+    isCached: true
+
+secured: "lSnCw5eASlIFKljl+mxyOU2H5BKvsiB37a+OHmZi7Psw76PDorClQaXiGQELO70njYkWUm4Qr+ceQDsjtgvazj+HRfw3oXcv5C7973QJ9xg0z0d6KQdM+wkACYmjBL/zL66QYJmRyEZhgcccU6qZ0M4AOSrEX6uGZO/M/J5nDBRXwwBl2SSXtEf2noTznB2AkcAHVkW+VA4T/qkAtn+lK1LqXAdNGoiFrIBsSjxQPnjh6mF2lFBRVGtrzawaB271nssRGDQpVOsRbQFEUdWX6qVX7sjnvQgwUTI4z/j7AoOxygAcld+ZCAo7T5TRNMrV2iEu9tbxtHCPCAfUtXP+M1mCURTjQ6KagEr5VQzdNmI=;ItQ5SjHSvqcV5aOziL1OmQ=="
 ---
 

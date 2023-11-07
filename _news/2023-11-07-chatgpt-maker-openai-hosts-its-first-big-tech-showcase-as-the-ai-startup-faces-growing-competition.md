@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "What OpenAI’s wave of releases says about 2024 | The AI Beat"
+    excerpt: "OpenAI's latest release announcements were just part of the tsunami wave of AI news over the past week. Here's what it all means for 2024."
+    publishedDateTime: 2023-11-07T02:59:00Z
+    webUrl: "https://venturebeat.com/ai/what-openais-wave-of-releases-says-about-2024-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/9b465127-1309-4b3d-8773-8ab04f05dc99_1456x816.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "OpenAI unveils latest AI model, customizable GPTs and digital store"
     excerpt: "an analyst at Gartner Research. “The autonomous agents will take more time to create an impact but are bold steps ahead for the future of Generative AI.” In the meantime, OpenAI emphasized the latest announcements are only part of what’s still ahead."
     publishedDateTime: 2023-11-06T21:06:00Z
@@ -90,6 +104,6 @@ related:
         height: 630
         isCached: true
 
-secured: "bli3QUKD4cPuYnhd0B5q8JStB0W1Egt/MIOInsD01s69NkRA8PNi80xHunty3kKY2SiYuC6/yMUWkN65xhGoboiIYscRG4bPtNc+Rd0kXRb6Eh92i9PQUEZRXZa4JFg9NuUAoxBUJWLFsdqkC6vyZZBUh23zsUB+4dtHr1hba82aoCedVi2Wg7HwcZbsZMu9O4qNp3gdOOQcQVTsiVT3D/y7Uls2vGWeL7H/HJxLQcliX6uuftFTSMTo8p4K6zJV8TBG7pR73JW2Ik3MCkCo6nDuQ8Grt85iskbWtMU/JsNQPMeuoBY7f/eHLv/wSyegf9YSot2GF2QjDdNQkw3oBKtX6GDbxProoJAWwTkkkjc=;SvFiNbqlhKZn4eloR+ybhQ=="
+secured: "fjP91Z0LkGPfTPs2sy125v4D51wOqEuFUy6t4cSTXh85eCbqT3UglnfKhTzWs42vHcUbDJMF/R/QlxUGGm/wrOmiX1SHUSwGFT7/t+0Al+TfqfF2LO4HPw/XSX6PD2oBbAR2prd/ROIu36xggSrPPkguuxUbKQwgHAlUtd84IPi4GrC+cD9MAZ2IgMObm1p0/Lv0+KxznNXhuDpJsKEfrHgOTy2JcggMzwlaA6Wv654EGkVT7ugtG/v1JR3p+byEayXdpwZo4sQ41R2YdgOU+zEz/XARnfxhx07ppFK5ae/NfCQhSHSBiSlcYFkQL0eRW4ea2JFovv5HGdS0YxOkIcZ7pN9BsrzhBW45poaQAwVNueimKVKzhet5gyzeqLIh40dDl3DOhEEpEPr63oJI0z0twU7S9ZDc7XLxlDPALuQR/XuP4ITpMIHcrfG+fs8E49Itm3zrann3paPfnyWV/q6z5/OWpF+gyYK62RFQ/yxQaQt+yMpvtG5oN9IHfXvea3rCgOj2Ck3On6qzkzIzUw==;JwbtD71rdjJC8o/1emtimA=="
 ---
 

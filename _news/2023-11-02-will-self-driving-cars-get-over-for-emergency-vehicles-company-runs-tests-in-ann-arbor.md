@@ -7,7 +7,7 @@ originalUrl: "https://www.mlive.com/news/ann-arbor/2023/11/will-self-driving-car
 webUrl: "https://www.mlive.com/news/ann-arbor/2023/11/will-self-driving-cars-get-over-for-emergency-vehicles-company-runs-tests-in-ann-arbor.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,40 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "How Will Self-Driving Cars Be Insured in the Future?"
-    excerpt: "Kurman is an author and technology analyst, and this book offers a comprehensive introduction to self-driving cars. One of the biggest challenges to insuring driverless vehicles, she said, is liability. If a driverless car hits another vehicle or a ..."
-    publishedDateTime: 2023-11-02T10:59:00Z
-    webUrl: "https://www.marketwatch.com/guides/insurance-services/autonomous-vehicle-insurance/"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-  - title: "GM halting Cruise is a bad sign for the future of self-driving vehicles"
-    excerpt: "Last month, the California Department of Motor Vehicles, citing safety concerns, revoked General Motors' GM license to operate Cruise, the robotaxi arm of the automaker's business. A few days after the decision,"
-    publishedDateTime: 2023-11-06T21:04:00Z
-    webUrl: "https://www.dcourier.com/news/2023/nov/06/gm-halting-cruise-is-a-bad-sign-for-the-future-of-/"
-    type: article
-    provider:
-      name: The Daily Courier
-      domain: dcourier.com
-    quality: 24
-    images:
-      - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2023/11/06/cruise-a-driverless-robot-taxi-in-san-francisco_ydMVCK1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Cruise faces a safety reckoning that will determine its self-driving future"
-    excerpt: "General Motors-backed Cruise faces a \"watershed moment\" after its driverless permits were suspended by California regulators, who say the company’s robotaxis are \"not safe\" for public roads and allege Cruise misrepresented circumstances surrounding an injury-related crash."
-    publishedDateTime: 2023-11-02T21:01:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cruise-gms-self-driving-company-faces-safety-reckoning"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 2
 
 secured: "iHC4gxANTyCnSWI3TKPY0UdFHhiWH3cMyC06viNL1Dnpn5lfdU7Ejle/UBLaxGZT17VqOOhdW9xjXQhyAaiffWKCGGpU2wE1mYH0nsM9i1lrfxo1hR2j3x1XruMDsqZQv+neJPw9KISyCnRD2kx12008bZYUDBaynDqM338iB4GSCi0PQaDc4JQQdc6jEcpk1Rq1wXSz3bpS+WCG25qJPRF3PLwARS29ZxluylIUYJzlniog1poX1ytJssq42HOHqO/v/MX0xt0NIim5Obup6tJWUsedwZo+L76TVA/h2MsCXLnBGhx7plxkHIWSFSWFXrflrzNaKmjymbz6WUB/bC+X4Kul7T19HO9NcEVw6LFeBjXvHbP6RelqNiPvu2A8Sbu4t+bqH8L/9rcMBvNVthnYKleOO+NX9+48tyQeTSlS+lCw5YO21m64YP6l4A3SW/PNjWQeegJ5HoRB2CORCeznpj+1/ksBdLSCRhV4DFKXwzrxyxfHhQM16nOdtrMBd4jhtBv8ZuOEaEESA9EDug==;qLkSiao0qnlRjtxtIvbJAw=="
 ---

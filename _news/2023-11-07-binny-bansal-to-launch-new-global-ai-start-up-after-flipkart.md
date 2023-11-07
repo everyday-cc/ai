@@ -42,7 +42,23 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Flipkart Founder Binny Bansal ready to launch stealth AI startup"
+    excerpt: "Binny Bansal, who co-founded online retailer Flipkart and sold it to Walmart Inc., has hired 15 experts for the venture — mostly artificial intelligence scientists — and plans to quickly add more, according to people familiar with the matter."
+    publishedDateTime: 2023-11-07T04:16:00Z
+    webUrl: "https://www.financialexpress.com/business/industry-flipkart-founder-binny-bansal-ready-to-launch-stealth-ai-startup-3299185/"
+    ampWebUrl: "https://www.financialexpress.com/business/industry-flipkart-founder-binny-bansal-ready-to-launch-stealth-ai-startup-3299185/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-flipkart-founder-binny-bansal-ready-to-launch-stealth-ai-startup-3299185/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/403980599.jpg"
+        width: 1200
+        height: 711
+        isCached: true
 
-secured: "PZLg2c4yRvrjyQ3zxeMw5DprVNVTvXpSbC9mreeuck8EwO23IeLOqqIfsURfF2LHf8eMGSSuIeS7RtMz9W5dUZDggYCKXhEKEqFNQB0XrrHQYDNYJjveFQ7k2xxkxJ57jpQzlYI7S0wIm6OQypn2uDkyfjMWmzmEypVzCiHY6PJFXdp0I0VGj6iZcmeDerQS+tup5Azvmp0PKF25+5IAepwDtHffNANDFwrvOAn8/54HRyHKxlCJ07X3A8YMgrYqTD9GFznDny94z6+Y3bhX88NSjlicCvLPClkIsZgqVKBAQdW5cg/Ye5ESp891ESwDP7e3ZmDh/p5qu1pRHE+gn0D/TDikXiqvsdTPODP5Ie0=;AK0QsSUsPDZFwHvlyTZ3LQ=="
+secured: "CTuWEK5Xc8s4l7JlO9zvlbvVHtvZfO/s07rY2Iw1p93Y+rxtc7lCIVqIfnPNwizv5eJWZJcRKEUiHNNjTteWXK3t087MTl5vu4hkVCrx4WEDrvpNO/SOxXeXHg4SbNPgc6+/MsBVynxwSFLp5uUal7DKtNpOV8tY0REGWrRYjNpfxbaPaukoAeAn7+BAZJxN2JQp5Qad5Y/O6Ok3oHnFz4utI/5vZryIkgxjbo5pkFUL4imNrg6wleQKhxXWLYO6LQXZxAPkKjcFIRna2wlOd3gulfuqkc8c2I9EeZI1wUR223SBgQZpDuUH6Z4nFf9ZyuGCm63RTALppX7gc3vYyro1w/DuAyevG/QM7APzY9prKofSKwCHZ43jh36A6ZaydJOhnD1zegghVHwZrU0Y0FhaGNADJWKrUcC3nY+boPCXARMOlXVIaHNfG11wZqWfYFwsBJXz9ziLTYdGZiijDWP4reEXm0rOu9D0AzWzOOx5pMO7PgojupE5UwelO2DnAvBu13GNQMnx3PlfRHupXA==;b1ldLzialQttUyZixx47Jg=="
 ---
 

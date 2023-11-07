@@ -43,6 +43,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "MediaTek Dimensity 9300 Flagship Mobile Chipset Debuts With Four Cortex-X4 CPUs, Boosted GPU, More"
+    excerpt: "Just weeks after Qualcomm launched the Snapdragon 8 Gen 3, MediaTek has announced Dimensity 9300 with some significant improvements over last year's Dimensity 9200. The new mobile platform packs a prime CPU core Cortex-X4 with a clock speed of 3."
+    publishedDateTime: 2023-11-07T04:49:00Z
+    webUrl: "https://www.gadgets360.com/mobiles/news/mediatek-dimensity-9300-soc-unveiled-cortex-x4-cpu-apu-790-ai-specifications-features-4552467"
+    ampWebUrl: "https://www.gadgets360.com/mobiles/news/mediatek-dimensity-9300-soc-unveiled-cortex-x4-cpu-apu-790-ai-specifications-features-4552467/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/mobiles/news/mediatek-dimensity-9300-soc-unveiled-cortex-x4-cpu-apu-790-ai-specifications-features-4552467/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 60
+    images:
+      - url: "https://i.gadgets360cdn.com/large/dimensity_9300_mediatek_1699330250748.jpg"
+        width: 1440
+        height: 740
+        isCached: true
   - title: "MediaTek Dimensity 9300's big GPU upgrades focus on AI, gaming"
     excerpt: "MediaTek has revealed its flagship Dimensity 9300 chipset, designed to rival Qualcomm's Snapdragon 8 Gen 3 mobile platform"
     publishedDateTime: 2023-11-06T14:26:00Z

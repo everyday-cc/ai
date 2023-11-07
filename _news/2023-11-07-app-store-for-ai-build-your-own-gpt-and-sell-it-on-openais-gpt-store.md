@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/06/app-store-for-ai-build-your-own-gp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/06/app-store-for-ai-build-your-own-gpt-and-sell-it-on-openais-gpt-store/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "What OpenAI’s wave of releases says about 2024 | The AI Beat"
+    excerpt: "OpenAI's latest release announcements were just part of the tsunami wave of AI news over the past week. Here's what it all means for 2024."
+    publishedDateTime: 2023-11-07T02:59:00Z
+    webUrl: "https://venturebeat.com/ai/what-openais-wave-of-releases-says-about-2024-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/9b465127-1309-4b3d-8773-8ab04f05dc99_1456x816.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "OpenAI unveils latest AI model, customizable GPTs and digital store"
     excerpt: "an analyst at Gartner Research. “The autonomous agents will take more time to create an impact but are bold steps ahead for the future of Generative AI.” In the meantime, OpenAI emphasized the latest announcements are only part of what’s still ahead."
     publishedDateTime: 2023-11-06T21:06:00Z

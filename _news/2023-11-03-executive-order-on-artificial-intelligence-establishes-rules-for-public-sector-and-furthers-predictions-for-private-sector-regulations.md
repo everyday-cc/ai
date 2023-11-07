@@ -19,75 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Ethical Considerations in AI-Driven Healthcare"
-    excerpt: "There are a number of ethical concerns relating to the collection and handling of patient data in AI-driven healthcare. For example, the confidentiality and security of patient information must be ensured to protect patients from the negative impacts of data breaches and unauthorized access."
-    publishedDateTime: 2023-11-06T14:06:00Z
-    webUrl: "https://www.news-medical.net/health/Ethical-Considerations-in-AI-Driven-Healthcare.aspx"
+  - title: "AI regulations good if they’re reasonable and risk-based, says SAP CTO"
+    excerpt: "Mueller also spoke about how regulations can be good for AI, and detailed SAP’s work behind building its own LLM for businesses"
+    publishedDateTime: 2023-11-07T03:44:00Z
+    webUrl: "https://www.livemint.com/companies/people/ai-regulations-good-if-they-re-reasonable-and-risk-based-says-sap-cto-11699286423215.html"
+    ampWebUrl: "https://www.livemint.com/companies/people/ai-regulations-good-if-they-re-reasonable-and-risk-based-says-sap-cto/amp-11699286423215.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/people/ai-regulations-good-if-they-re-reasonable-and-risk-based-says-sap-cto/amp-11699286423215.html"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 71
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_23905_16992787609573557.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
-    excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
-    publishedDateTime: 2023-11-06T06:08:00Z
-    webUrl: "https://www.inferse.com/785317/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 52
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-3967.png"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Oncology researchers raise ethics concerns posed by patient-facing artificial intelligence"
-    excerpt: "Ready or not, patients with cancer are increasingly likely to find themselves interacting with artificial intelligence technologies ... and researchers to work together to ensure AI-driven health care preserves patient autonomy and respects human dignity."
-    publishedDateTime: 2023-11-03T20:00:00Z
-    webUrl: "https://medicalxpress.com/news/2023-11-oncology-ethics-posed-patient-facing-artificial.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 41
-  - title: "Biden Administration Issues Sweeping Executive Order on Artificial Intelligence"
-    excerpt: "The Biden Administration issued a sweeping Executive Order directing a broad set of government actions addressing consumer harms, discrimination, privacy protections and other issues stemming from the widespread use of artificial intelligence. While the ..."
-    publishedDateTime: 2023-11-06T17:37:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/biden-administration-issues-sweeping-2370402/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 35
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.12022_1330.jpg"
-        width: 1200
+      - url: "https://www.livemint.com/lm-img/img/2023/11/06/1600x900/Juergen_Mueller_1699286913803_1699286924488.jpg"
+        width: 1600
         height: 900
         isCached: true
-  - title: "Can artificial intelligence help with mental health?"
-    excerpt: "ALBWABA - Artificial intelligence (AI) is transforming the healthcare sector, providing innovative solutions to combat the growing crisis in mental heal"
-    publishedDateTime: 2023-11-03T08:12:00Z
-    webUrl: "https://www.albawaba.com/editors-choice/can-artificial-intelligence-help-mental-health-1540146"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 19
-  - title: "Biden administration issues executive order regulating artificial intelligence"
-    excerpt: "What do we need to know about the Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence ... for the next waves of scientific discovery and for advances in health care. Furthermore, there are more controversial application areas such ..."
-    publishedDateTime: 2023-11-02T19:53:00Z
-    webUrl: "https://hub.jhu.edu/2023/11/02/artificial-intelligence-executive-order/"
-    type: article
-    provider:
-      name: HUB
-      domain: jhu.edu
-    quality: 15
 
 secured: "Bv9tGO+fQp8485fkKCJ4b0GnDUIhJEFAD2AztdmvhiBiiF7NY+fnzuRBDAAsm3D2Tj0nowl2+ILdkPgiaJNpT6p7DfiaHl7gatyXj37p9FjluAxy6eYmkp+TMiOtg4xAIeib29mIcibWGU1d3biX5vx4TGZZch36zujb2Kmb+UDLgGaHAbQS+4HDlqoHam4u2jwpGcMnhrpsa+8IH8w24/IR+/+NW99k5SvCPv9/KMzGYTkN25TaBofRRx2s/SW6TmELqOyLgVyBIL1RoMPvUbJBirDUCJe1VBTECIKKWfF9WQAKKEv9GZcBkKpG7Qj0xwcXxG2UlFJTUy/8FgTSvFjMdMUGE53LcWRlT+Nvx/M=;T7ZOixMd3M5zyZVuAvb0hw=="
 ---

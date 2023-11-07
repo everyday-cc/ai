@@ -32,20 +32,6 @@ related:
         width: 1920
         height: 740
         isCached: true
-  - title: "U.S. Regulation of Artificial Intelligence: Presidential Executive Order Paves the Way for Future Action in the Private Sector"
-    excerpt: "On October 30, 2023, President Joe Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (Order) that addresses the responsible use of artificial intelligence (AI) by the federal government and ..."
-    publishedDateTime: 2023-11-06T17:58:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/u-s-regulation-of-artificial-6299985/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 9
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16013_5523.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "KHTd8zGft4RFUalXy5o1aJALgLcZ1aW/57qaJQ5FuwxbNRBsDX46nEpRQdaUR4p5Hj5bBKGXN2UaAv2j5/iDQ7a1z2QPVgvv3jjdGfqK7fSpazpDAEWSES6nIXlc0XjD9g9CBCyahI+74lPP0xkvxspbNhihs91AiWlnZILM/Z6lfJVcC+ZBEx5IYFkMLxkhXfCyjBox3MOrkuhr4pheRra+7GasQJ+UyVfx+RLqqBnUkXcLKiK1tcpl7Baf47h9CeYUDoDmmuEM2F2m2ZB4xBKKSbZVo7K9dJudlXnFf6584NREn6GAgsExfGGGM8Ot79eyb2IJwGEt3TE9DBMbCgxiRmqhorOZgBVf++LhpQrRguXy9J+b9CYMjCyUsExSdGWnSO0v49qJFGwRigX/4wqjZTvPUjnZy3OKCp90WeNzsNFyY0sygC3EpG5hI/r9AI0cbruYW3yFYrAwH4azOTQao+VaOA0tEF7IWWic+/zeh1ooUnMu3fwuWhnvnY13unt5O94PFYsnsB3KmJBubA==;Gni8DGZ7LiW7MPL9g5PMuA=="
 ---

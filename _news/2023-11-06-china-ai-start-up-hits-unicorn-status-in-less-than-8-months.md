@@ -48,6 +48,17 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "AI pioneer Kai-Fu Lee builds US$1 bil startup in eight months"
+    excerpt: "The company, 01.AI, has reached a valuation of more than US$1 billion after a funding round that included Alibaba's cloud unit."
+    publishedDateTime: 2023-11-07T02:27:00Z
+    webUrl: "https://www.theedgesingapore.com/news/artificial-intelligence/ai-pioneer-kai-fu-lee-builds-us1-bil-startup-eight-months"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/news/artificial-intelligence/ai-pioneer-kai-fu-lee-builds-us1-bil-startup-eight-months"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/artificial-intelligence/ai-pioneer-kai-fu-lee-builds-us1-bil-startup-eight-months"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
 
 secured: "sPa5mcv6O1hGHKSHJYRKMAwrnG6N3FEaSh9fi7+v1n57Dhaw4ydmAy6A/HMAeH4ZY3h0u7i7A+vbiB/NJBon/5iYZgk5GUDsx2hFedCvjC2LtPLO2awFMcb9RjTrv/FnNxF5Xr1VWnRW85CPTJ548YIVh0zSuZ8k5oBdYNhfO0WPBnrS51Mr4FzZUOF31IK/eSipITgUqYoyCaaZHqDrwBS7JmBcvZxorgil/ZULktWc3YXw6r0smeI7HzZZ8CCo36/wSuFwuOsRL2fSqnydvpSyTkaHL5xMIHzo4GF3HFVlPtW1w4XJIHrODHRDww4RQVL1DfuiwvtS3PgourGlsFSsMe13CPN2f+9Nln8bieDI8JBNycjl77ExPMHw+rVxb2aDt3fszucN6gs31ib4RNBnvVZ8b6JG1pb++EGgW/DoGY9QWvFETz7bacpk4U+hnLuET2Q/bvq7UszKebGz5d9j279A5qtiI8yX9LHB1epCyXeSGsyW4apw8f1Tg6ch2KR1AARHkKW/G56O+5TO0Q==;fSwv9bSqlD+YZINtBvYuwQ=="
 ---

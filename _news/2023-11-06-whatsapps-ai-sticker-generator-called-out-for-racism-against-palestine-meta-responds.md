@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiatoday.in/amp/technology/news/story/whatsapps-ai-sti
 cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: India Today
@@ -42,6 +42,20 @@ related:
       - url: "https://images.forwardcdn.com/image/732x/center/images/cropped/istock-839120628-1543857558.jpg"
         width: 732
         height: 732
+        isCached: true
+  - title: "Protesters march to City Hall calling for Palestine recognition"
+    excerpt: "Protesters in solidarity with the Palestinian community gathered on campus Friday and marched to the Berkeley City Hall calling for recognition of Palestine and denouncing university support of Israel. We're an independent student-run newspaper, and need your support to maintain our coverage."
+    publishedDateTime: 2023-11-07T02:51:00Z
+    webUrl: "https://www.dailycal.org/2023/11/06/protesters-march-to-city-hall-calling-for-palestine-recognition"
+    type: article
+    provider:
+      name: The Daily Californian
+      domain: dailycal.org
+    quality: 24
+    images:
+      - url: "https://dailycal.org/wp-content/uploads/2023/11/protest_Anita-Liu_ss.jpg"
+        width: 1800
+        height: 1160
         isCached: true
 
 secured: "52ZJez1//+ubNvqADrcQDyShlnSdgQdOwD6e+/GlwINunoGAR+ms+rrJWkmMTzzMdPfW7H19RCZCTPpZp/StAk6YyHDxOzrw3cH5YTT+U2xZ0/nVILG2a3Pg27lGUCcVLfiuiSE8RFcTstoVzC3LMB03RhubyApdQekjB/xoqzJaZJY4WiyFMd2w3fM4Crfx8km8KRuwmEbH9fdehTgKHZy6ewTKMklhWFDjx8UPiMNCSoS6p0ycytg6McosOjli+kAgiSE1H3WNZIeJJ0aXcqr2O3byq93clPq0XHjpNMqxGzCOqOzbZqZCVopPgABMIjMifdodtmmBKk3tegzoIQCKAEG+b/uQ6A3ldsjGVv0=;Sx7Qzgkux7//ywWhq98JmA=="

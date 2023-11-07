@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Protesters march to City Hall calling for Palestine recognition"
+    excerpt: "Protesters in solidarity with the Palestinian community gathered on campus Friday and marched to the Berkeley City Hall calling for recognition of Palestine and denouncing university support of Israel. We're an independent student-run newspaper, and need your support to maintain our coverage."
+    publishedDateTime: 2023-11-07T02:51:00Z
+    webUrl: "https://www.dailycal.org/2023/11/06/protesters-march-to-city-hall-calling-for-palestine-recognition"
+    type: article
+    provider:
+      name: The Daily Californian
+      domain: dailycal.org
+    quality: 24
+    images:
+      - url: "https://dailycal.org/wp-content/uploads/2023/11/protest_Anita-Liu_ss.jpg"
+        width: 1800
+        height: 1160
+        isCached: true
 
 secured: "MAH+2FnmIKvYORNcEVr14eohJk39ZkS0ZK/REi7Y7s3p381Nyb3KZQpuAsOBfA1Hhv2nyiVfyJFgMQKWdZU8a46eCoxvniWCohBbHhCiKqQMqQMgyXZoGm7QFM4yJ+ZfEDJRVow5bO2CiTsWgrZVIDXbeFxcsbzbirLB/gKqGupHrF5nxqiSbY6rIKpkD+rENx+ki5A+9NbjPjbt7tuI6vlf8WFaK2HJL7HgY7yD1DQ1jiLQaMTXPhQBO24JEblFEBLRT9Zm8H7ZgNwrNAY4+rdCdAUyEsQuZDElZGMaKYIgcssXiK3hVdMIbhzbL4o24rv8uYYpNa8IWZ/GF5iAFaoriHQ4xnGYIEqDQkC3poHAaSz49nbiAQrMayJKht0sYx5UaZrya7xfx2JU3yZoYS/v75aubgmqefVuxt1p3DU/R3Eb28Ezl50V0cWGI4qmajuiRBe7K6qNDEPcf/EEstWP65kHIpU3sqTK0dRSpiplEizXS7WViNA8B1lDhU0eEgF8FG+i/Dt2YWu/bY9IoQ==;Z6qcHANBCyYnZYTA/jsdLg=="
 ---

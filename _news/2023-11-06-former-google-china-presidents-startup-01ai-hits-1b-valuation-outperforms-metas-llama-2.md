@@ -40,6 +40,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI pioneer Kai-Fu Lee builds US$1 bil startup in eight months"
+    excerpt: "The company, 01.AI, has reached a valuation of more than US$1 billion after a funding round that included Alibaba's cloud unit."
+    publishedDateTime: 2023-11-07T02:27:00Z
+    webUrl: "https://www.theedgesingapore.com/news/artificial-intelligence/ai-pioneer-kai-fu-lee-builds-us1-bil-startup-eight-months"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/news/artificial-intelligence/ai-pioneer-kai-fu-lee-builds-us1-bil-startup-eight-months"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/artificial-intelligence/ai-pioneer-kai-fu-lee-builds-us1-bil-startup-eight-months"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
   - title: "China AI start-up hits unicorn status in less than 8 months"
     excerpt: "BENGALURU - A Chinese start-up founded by computer scientist Lee Kai-Fu has become a unicorn in less than eight months on the strength of a new open-source artificial-intelligence (AI) model that outstrips Silicon Valley’s best, on at least certain metrics."
     publishedDateTime: 2023-11-06T00:20:00Z

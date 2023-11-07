@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "What OpenAI’s wave of releases says about 2024 | The AI Beat"
+    excerpt: "OpenAI's latest release announcements were just part of the tsunami wave of AI news over the past week. Here's what it all means for 2024."
+    publishedDateTime: 2023-11-07T02:59:00Z
+    webUrl: "https://venturebeat.com/ai/what-openais-wave-of-releases-says-about-2024-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/9b465127-1309-4b3d-8773-8ab04f05dc99_1456x816.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "OpenAI unveils personalized AI apps as it seeks to expand its ChatGPT consumer business"
     excerpt: "OpenAI CEO Sam Altman shared the updates at the AI lab’s first developer conference, which attracted 900 developers from around the world and marked the company’s latest attempt to capitalize on the popularity of ChatGPT by offering incentives to build in its ecosystem."
     publishedDateTime: 2023-11-06T23:06:00Z

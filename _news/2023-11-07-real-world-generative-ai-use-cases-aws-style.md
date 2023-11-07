@@ -39,6 +39,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Generative AI to boost productivity in financial services"
+    excerpt: "Hype around generative AI and machine learning is continuing to buoy economic sentiment across Europe, with fewer than two-in-five financial services CEOs now expecting a severe downturn in the comin"
+    publishedDateTime: 2023-11-07T04:16:00Z
+    webUrl: "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services"
+    ampWebUrl: "https://www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services"
+    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services"
+    type: article
+    provider:
+      name: Consultancy
+      domain: consultancy.uk
+    quality: 61
+    images:
+      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-11-06-043615285-Generative_AI.jpg"
+        width: 546
+        height: 312
+        isCached: true
 
 secured: "B4vT+T0Zb1e3xRr99M4kmMMpUxkOJ87f2Yh/DUEp+2Uc60I5Ol1qx7DwQHF/LtHNmq+DcBQO2uN8NYsjSWG2VcyBdxbJVczGLxiWYn42qEnLWkAaSmUaukT/jy+0BVwYEapXuCfizmkH7FSdDj62vfTc/D9BGlTbw15GQxFoROqHV23bcA6Ps2LrO34yERL9Rh947yQHCubGGmqAIQMLuPtbT/x1F7bGTFFjwPBJf2E7xenO+moZS9jHzAxeIIVaSe2SqGIDyf0fFdS01LD79smtpzkTKmWiGMHdxC4SX5JIZjOAF8K7i9aor8Go67X0jnlPMdM6l1qa66SGhiS99FjOgpE5cEIZF+NRf/OXTfSg2/60K/RoWZdhx2/uFmRkYihqW8qwtL5ymiTn3M4H/LXETRFKO3X1PGCSRucw6VuiRt+A/mbRJiGDFnNtXZR2yXWBR+TKzhK+M2UHbcI+J/bLE5ydIPfR6iagUS2XrHr64dkzrU7SzUjguabhWslWTjKgIEZOIUqxJ9oJGSdoVQ==;US0sEJHNY0emyytjXXy+Uw=="
 ---

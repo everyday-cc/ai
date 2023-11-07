@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-to
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-to-increase-agent-productivity-through-automated-call-summarization/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI to boost productivity in financial services"
+    excerpt: "Hype around generative AI and machine learning is continuing to buoy economic sentiment across Europe, with fewer than two-in-five financial services CEOs now expecting a severe downturn in the comin"
+    publishedDateTime: 2023-11-07T04:16:00Z
+    webUrl: "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services"
+    ampWebUrl: "https://www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services"
+    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services"
+    type: article
+    provider:
+      name: Consultancy
+      domain: consultancy.uk
+    quality: 61
+    images:
+      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-11-06-043615285-Generative_AI.jpg"
+        width: 546
+        height: 312
+        isCached: true
   - title: "Real-world generative AI use cases, AWS style"
     excerpt: "AWS makes it easier for companies to build generative AI applications with enterprise-grade security and access to leading foundation models. Here are a few examples of how AWS is helping its customers in different industries automate complex tasks, generate dynamic content and provide more personalized user experiences."
     publishedDateTime: 2023-11-06T19:49:00Z

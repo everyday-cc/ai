@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "AI In Healthcare: Four Key Directives From The Biden Administration"
+    excerpt: "President Biden's Executive Order on AI aims to ensure the development and use of artificial intelligence are safe, secure, and trustworthy for healthcare"
+    publishedDateTime: 2023-11-07T03:46:00Z
+    webUrl: "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/"
+    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6549b0e788cfbd6daa04c33f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Ethical Considerations in AI-Driven Healthcare"
     excerpt: "There are a number of ethical concerns relating to the collection and handling of patient data in AI-driven healthcare. For example, the confidentiality and security of patient information must be ensured to protect patients from the negative impacts of data breaches and unauthorized access."
     publishedDateTime: 2023-11-06T14:06:00Z
@@ -33,6 +49,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Beyond The Hype: Four Ways Artificial Intelligence Is Transforming Healthcare"
+    excerpt: "Today, healthcare providers are operating in an overloaded environment. A new scientific or research study is released every 26 seconds. If a clinician read and retained two of these articles every single night, at the end of a year, they’d still be about 1,000 years behind the current evidence."
+    publishedDateTime: 2023-11-02T18:34:00Z
+    webUrl: "https://www.forbes.com/sites/premier/2023/11/02/beyond-the-hype-four-ways-artificial-intelligence-is-transforming-healthcare/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
   - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
     excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
     publishedDateTime: 2023-11-06T06:08:00Z
@@ -47,15 +72,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Oncology researchers raise ethics concerns posed by patient-facing artificial intelligence"
-    excerpt: "Ready or not, patients with cancer are increasingly likely to find themselves interacting with artificial intelligence technologies ... and researchers to work together to ensure AI-driven health care preserves patient autonomy and respects human dignity."
-    publishedDateTime: 2023-11-03T20:00:00Z
-    webUrl: "https://medicalxpress.com/news/2023-11-oncology-ethics-posed-patient-facing-artificial.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 41
   - title: "Biden Administration Issues Sweeping Executive Order on Artificial Intelligence"
     excerpt: "The Biden Administration issued a sweeping Executive Order directing a broad set of government actions addressing consumer harms, discrimination, privacy protections and other issues stemming from the widespread use of artificial intelligence. While the ..."
     publishedDateTime: 2023-11-06T17:37:00Z
@@ -70,6 +86,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "OMB Releases Implementation Guidance Following President Biden’s Executive Order on Artificial Intelligence"
+    excerpt: "President Biden signed a landmark Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. As the United States takes action to realize the tremendous promise of AI while managing its risks,"
+    publishedDateTime: 2023-11-06T20:01:00Z
+    webUrl: "https://www.hstoday.us/federal-pages/dhs/omb-releases-implementation-guidance-following-president-bidens-executive-order-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 19
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2023/11/technology-3435575_1280.jpg"
+        width: 1280
+        height: 802
+        isCached: true
   - title: "Biden administration issues executive order regulating artificial intelligence"
     excerpt: "What do we need to know about the Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence ... for the next waves of scientific discovery and for advances in health care. Furthermore, there are more controversial application areas such ..."
     publishedDateTime: 2023-11-02T19:53:00Z
@@ -79,10 +109,24 @@ related:
       name: HUB
       domain: jhu.edu
     quality: 15
-  - title: "Executive Order on Artificial Intelligence Establishes Rules for Public Sector and Furthers Predictions for Private Sector Regulations"
-    excerpt: "For further information about the AI EO’s impact on the health care industry, please refer to White House Executive Order on Artificial Intelligence: Implications for the Health Care and Life Sciences Industries."
-    publishedDateTime: 2023-11-02T22:36:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/executive-order-on-artificial-1228744/"
+  - title: "U.S. Regulation of Artificial Intelligence: Presidential Executive Order Paves the Way for Future Action in the Private Sector"
+    excerpt: "On October 30, 2023, President Joe Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (Order) that addresses the responsible use of artificial intelligence (AI) by the federal government and ..."
+    publishedDateTime: 2023-11-06T17:58:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/u-s-regulation-of-artificial-6299985/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 9
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16013_5523.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Biden Executive Order Calls for HHS to Establish Health Care-Specific Artificial Intelligence Programs and Policies"
+    excerpt: "The Biden Administration only recently announced the Executive Order, but the discussion of regulating AI in health care is certainly not novel. For example, the U.S. Food and Drug Administration (FDA) has already incorporated artificial intelligence and ..."
+    publishedDateTime: 2023-11-03T17:27:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/biden-executive-order-calls-for-hhs-to-4847645/"
     type: article
     provider:
       name: JD Supra
