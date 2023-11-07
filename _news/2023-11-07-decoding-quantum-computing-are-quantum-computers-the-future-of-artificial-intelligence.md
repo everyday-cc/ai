@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-07T00:04:00Z
 originalUrl: "https://techbullion.com/decoding-quantum-computing-are-quantum-computers-the-future-of-artificial-intelligence/"
 webUrl: "https://techbullion.com/decoding-quantum-computing-are-quantum-computers-the-future-of-artificial-intelligence/"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/11/Decoding-Quantum-Computing-Are-Quantum-Computers-the-Future-of-Artificial-Intelligence.jpg"
@@ -35,6 +36,6 @@ related:
       domain: naturetoday.com
     quality: 4
 
-secured: "zy5DGDdqAmc+esdOScTHuvFMiRCYeNH/LpBehJPle5Z7A1LBAkf4jIK+w03+bWsfbAE3f6dGP6RNQtpdVjR9xCM+ZY7azhFYLP0VhUDAhax+tiS7FBDsL23uKBiTBdqdzlCf52vRtqcr5xFiGEdHVn8RONaQs0oQuWLEMGC4xf3u5+xBXk91ZI8IrWmQ6CTVIPH+E3Gx1xerzwb3zo4GEU/k3cdEjJXs+9E6BbopQ0MG8FMV5T39bUKQOYq/oVEx5W0ek8u3DsTG/Ro6jd9GuO1dESe/ZKurYYBUb3UjUPI8WSPv20QvzZC0+7TanYRW5f1a+AXc1Bs6wR8/YXiRkoaXrsmF+mHexLXekjIJmGU=;h4Y0chNyQWbuVZiSrPVb9g=="
+secured: "3CcPrnOIHgoGxSsqFd8a9t+Vd0wRroyzsjirehP77VodV25VrWJCYBazdPkDbhD+igycOuDH4Act8sGC6gnyb7hAx/NokOCayOufSNb2tj7ORnDeMtrh8hUIbFHjTWbHDL2x5reRFvszPDF16HZkDSVYNHalLcUt+jWZAM7Aupml0uIe7rOn95GVMLxHQQy9mw2mqjZdSve2Qs26U7/RIzkHKM+MQx/vAMyeSEM5oUaZz2ti1l0xEKJSMavOLwe70b1dYgAxxJmyHb/YIy+JW5Ft9yuhE5vrtA3+d/fLwtOIAFK4cLvFB4EG4QgrJCL6r3Q2MtGmU7VSErFWeJVhzaDVozFpE3ZQlPeJXAF6Ode0YXh08Kb08P7GV0hbcaHmF6Eh1SdCbViAA0AOlhE6ZSkaJDEkS23G51zvf42jfxhw6HTYlJes/eOgZ6VZu0l+va840VaQsBY2Xd5mcdQfsqFKewwyTR+xVAzNGUlOrjui/N6fNRNYJBFTbdvofjENzVvPC0rpDfO+XNSYQi1hKg==;p9zHTBTjARgJ3+JysEiSog=="
 ---
 

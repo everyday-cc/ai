@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Demystifying AI, Machine Learning and Data Science"
-    excerpt: "Netflix, Spotify, and other recommendation systems use AI to suggest movies, music, and other products based on our preferences, helping us to discover new things that we enjoy. Best Practices and Future Prospects AI, ML, and Data Science are ever-evolving fields. To stay relevant and succeed: Stay curious and keep learning."
-    publishedDateTime: 2023-11-02T20:54:00Z
-    webUrl: "https://nagalandpost.com/index.php/demystifying-ai-machine-learning-and-data-science/"
-    type: article
-    provider:
-      name: Nagaland Post
-      domain: nagalandpost.com
-    quality: 36
   - title: "Provost’s Office, Data Science Institute launch artificial intelligence conversation series"
     excerpt: "On Nov. 2, the Office of the Provost — in partnership with the Data Science Institute — launched a year-long discussion series about concepts related to artificial intelligence and machine learning with a “Let’s Chat about ChatGPT” event."
     publishedDateTime: 2023-11-06T03:19:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.investopedia.com/meta-could-take-hit-from-eu-targeted-
 webUrl: "https://www.investopedia.com/meta-could-take-hit-from-eu-targeted-ad-ban-8386111"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+related:
+  - title: "Facebook, Instagram, and Messenger require the most data from users"
+    excerpt: "Facebook, Instagram, and Messenger—request the most data from smartphone users, according to research from data centre company TRG Datacenters. The apps require access to 14 separata data permissions,"
+    publishedDateTime: 2023-11-06T23:36:00Z
+    webUrl: "https://itwire.com/your-it-news/apps/facebook,-instagram,-and-messenger-require-the-most-data-from-users.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 24
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/34abf1b77973edef33035c9fc6dcf049_M.jpg"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "jIkWFpF7Kx06Ms2Th5QgLfZhFMnvH/ipfAS9a/odJ1YZbyKP910xePc14okY5obNIpN/Wc8xh9SPTpoBFzFi+puVrz0L4Z5CEfIE6j9762ypwSLSHdRQh93h7ArLpf1fyR8/5gPtMozYmHzbvardYw56Kzwzv9k0G0UdriXRkNFxH3CQYwapItFKdUWtRqpAbT7jrTwshrjRGb8SqTPdPXFKWuX3LEqd02SIKrLfrykykWMJEMoFqWmWFeXaG8uethdQ1JSFtrVG3yt++Y5vSCRRVoXjtFPfUJkaOP8ji4hVjJJFiYwFG5Q8CLiWSdsijdtoiuYNmi23gXBhxp6VYVd408kpMIsGJSMnwvKviFg=;lI01qTSSmIowVG3YvAhErQ=="
 ---

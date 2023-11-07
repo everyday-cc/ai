@@ -49,15 +49,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Advancing the AI and Deep Learning opportunity"
-    excerpt: "You will hear how the two companies put in place a zero trust architecture which lays a foundation for encryption, auditability and security, combined with data management that allows mobility between public and private clouds and the introduction of a simple, single UI for the entire data estate."
-    publishedDateTime: 2023-11-02T16:39:00Z
-    webUrl: "https://go.theregister.com/feed/www.theregister.com/2023/11/02/advancing_the_ai_and_deep/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 34
 
 secured: "fKfvyv7L8btTd5MI6p5dkSoiDdcJN1jQnAcINZaKzUpTLLNupni3aHFsLL1iTVMIBCZtZMfeIIMIrzH9PoF8lyqDrse5ua0kC5YQwnKF6MKAyfLtNhIPqAcHflkyTO14ETVwAL37SMs9TI/nkt0wjQMXrgQqL5khiAtwfAWB7VgU2GJqDrLjj26H9BL8kLrYf/AMWfrqjtn4C3Fj7rMp0m6kscHhNNuOg75LJKdvKb3gAEGAqbPdGKxGxq3xi3nuxNssdxQu9abz5Gm2FIl/eZYrxF22tczEUH8OTKGBXmBK+IcWy7rEAthmEeWdXBk2qBSqD0YdsBo0FzUkICpZoIHHPVbwFLtYIWtKhcnnlK8uDkNqb3zZgu6C5870/+7JEovYWgKWrAINa2YlXbB7fPlbsKPw0LaL071jUebv7D8lQOqLK/q8erN7wdrMKxOnYlB4buaYGopXmSAgFlZabJaLZSH8QmMnR4BnFAQApPIh2V4IIsawMiiF/aXRmEk6Kh58FzUnQ9amocaiJJV2kw==;NER9gGjU3vAoFWPfuz0lwA=="
 ---

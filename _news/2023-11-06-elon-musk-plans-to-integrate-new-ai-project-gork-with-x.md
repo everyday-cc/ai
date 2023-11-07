@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/11/06/elon-musk-new-ai-integrate-x
 webUrl: "https://www.gizmochina.com/2023/11/06/elon-musk-new-ai-integrate-x/"
 type: article
 quality: 67
-heat: 89
+heat: 90
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/nov/06/balancing-the-ris
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Advancing the AI and Deep Learning opportunity"
-    excerpt: "You will hear how the two companies put in place a zero trust architecture which lays a foundation for encryption, auditability and security, combined with data management that allows mobility between public and private clouds and the introduction of a simple, single UI for the entire data estate."
-    publishedDateTime: 2023-11-02T16:39:00Z
-    webUrl: "https://go.theregister.com/feed/www.theregister.com/2023/11/02/advancing_the_ai_and_deep/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 34
   - title: "Global trends shaping the AI world"
     excerpt: "While Waymo driverless cars continue to operate in the state ... These are just a few of the many issues being raised. Further, the artificial intelligence (AI) algorithms of autonomous vehicles should be able to explain the “why” for their specific ..."
     publishedDateTime: 2023-11-04T11:48:00Z
@@ -63,6 +54,6 @@ related:
       domain: livemint.com
     quality: 19
 
-secured: "1saG77OFMgbe9XJcazGKHqAtHD6QE61Cf9V4E/leGu+mB8bEcMPB3D0rbS2P+pQPqrwQ3GrsftXxsVA6FLZpucFPVQ5jgCByZ1nuZ2m1y7ATNuF0MybmN7xM/cx0KOveMbHHrbJYevTM9TJ1dnhoVwl+R+2SJ0m40FzPpPjubmkGe734pdnKH1WmVeQxGp67DOGRhVrOCFrKvdPktIDdO3uLZP7eA/Fyj0Y5NF3swdrYZf+/6dX2JfIYJ6zDSNTOquGjm4ned8/pxR2kOWsayiEv40p9XAzdZIddkMjOdiOFH5Y+VG4vOM+FF8/fdS5kUecBNSADRP0IzZVYByn40vbDEiEhOQCSbu+Yjs410To=;iNts2Y7u6EihNLOgQql/kg=="
+secured: "JX8B03oBn4EtzDP0rVQ1WZo2fF9iz+KKOP4j5JR7ySZLCWa7ne2IZqXXIAX0roh/39KVqDGnmqkBe/Li3+O1ig+u+rfYIYDyRQlw0DAKlUU+RMna+TonhI/htJ1NOm3QUOyI2pwTPWA9Qf7SBnKt/N15tdfUJWRF7hbTiB4TY66UvdYa0vrVm6FNHCJ3swn7ER7uEngNa7LPK1ISH1UQfwuxcNiCY7ul9xdfd+KyEOQSomz4JPrU5nrD+9aqSz1pVA7dvLVmKhyDuONwgaFRa8Z9Vdw98P7vQ3PeKmC1zsMF/rGUbER+sXUrlVGCa0YgEVaVOITg5qPkAWX0Z9/ea8ju8/hLU9x0rcY0uQhy9M3bf7A0OJvLTwc+ZSNb4CGDcrqHAvHm2IVq1PdNnhA6krPBWkuV3oErRh7QcF8NdXPIovJeYSvJFOh9UrUiPT9iUi8SnIEwJcEtvMaoilGC82YfpSfFbXrHqyH6pkHXrmBkJ8YgcpFYqok9Jd7udzv8wIcG3RnKFexnKEUanPAp3g==;/LRiKWbmpxQCvjNB7lm6Ig=="
 ---
 

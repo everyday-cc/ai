@@ -41,15 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Advancing the AI and Deep Learning opportunity"
-    excerpt: "You will hear how the two companies put in place a zero trust architecture which lays a foundation for encryption, auditability and security, combined with data management that allows mobility between public and private clouds and the introduction of a simple, single UI for the entire data estate."
-    publishedDateTime: 2023-11-02T16:39:00Z
-    webUrl: "https://go.theregister.com/feed/www.theregister.com/2023/11/02/advancing_the_ai_and_deep/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 34
   - title: "Global trends shaping the AI world"
     excerpt: "While Waymo driverless cars continue to operate in the state ... These are just a few of the many issues being raised. Further, the artificial intelligence (AI) algorithms of autonomous vehicles should be able to explain the “why” for their specific ..."
     publishedDateTime: 2023-11-04T11:48:00Z

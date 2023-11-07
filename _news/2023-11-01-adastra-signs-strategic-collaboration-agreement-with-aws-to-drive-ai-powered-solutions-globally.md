@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Adastra Signs Strategic Collaboration Agreement with AWS to Drive AI-Powered Solutions Globally"
-excerpt: "Adastra has been creating tailored solutions across industries, including financial services, manufacturing, automotive, and public sector that are now powered by Amazon SageMaker JumpStart and ..."
-publishedDateTime: 2023-11-01T12:26:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231101268759/en/Adastra-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Drive-AI-Powered-Solutions-Globally"
-webUrl: "https://www.businesswire.com/news/home/20231101268759/en/Adastra-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Drive-AI-Powered-Solutions-Globally"
+excerpt: "Adastra, a leading global Data and Analytics solutions provider, announced today that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to advance the development and deployment of cutting-edge artificial intelligence (AI) solutions by leveraging generative AI."
+publishedDateTime: 2023-11-01T11:15:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/adastra-signs-strategic-collaboration-agreement-with-aws-to-drive-ai-powered-solutions-globally/article_b1c3f178-9bdb-5abf-81aa-0e7997775f28.html"
+webUrl: "https://www.bakersfield.com/ap/news/adastra-signs-strategic-collaboration-agreement-with-aws-to-drive-ai-powered-solutions-globally/article_b1c3f178-9bdb-5abf-81aa-0e7997775f28.html"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "+KHdK6TXg92/iI+XUc8t9A42fi0LTFjoAXDXUu/r91jepdCR6mEcaXwgJZR6sPRq53UzBuTLKggqY32mJrahiBx/uH52OreHYa2nWGQ2vf4mDnh0A07q1hwS8HojyTXAMDQFupnQWQXURHxq8ft8xD3yQNx2dnZybYnac5QY8MNwAJAacOOK+nQCyDBjXzxwCqnv3MTqnYro2FoCp0PVJrVrG9Y/TjMS23MYjTlpKwxdf8YYHp8F+6gfcHN4aIUzVJ0xiTu6ESKCzKkbBdVyuv71wiZkaPxz2XQ4Yjr/Bnpo56Qtw10JFmvJvqT6dyLTsF+XjVOeHcUtKJvPY1mgQ+iBxRmpmDksuJNuPVpytpw=;juqZ2xc8oUXq1v0mq/AViQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "RI0A3zwR2ZIPU4SbQYMWpc/Iwyd82oyHcmzaZLhkpzvrsZBrYh28J0GmKaZE1VECMYv8GfE94UZe27LiSSgE0r15jxbOy6yxseEe1jXwi7kXAgndL6DkbF7JX8WFLJRQZ3a3+4uPCILkMj29xjFBvSRVkFfzQI3obyXUqyGta9Y3d0t779oK1Ny0B/sK1/mfF0+6GAoLeFQT6EvkdOnFvrW7DHjF8G0zdSRJ6lldGWp2NtDOCshQP50ak6xfHnnN3tLoV4wy1K7N5MY9vWGKjZi0claUBNX4ETNfeXOPZ0UMQDmaFkDwQRsMd4CtQPYN/9SUvGH10bMMqolWMBfGTrNPLbHYuD9Uv8WCuY5nYxI=;AOS0HshJaibHHbJTUmh99g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/11/06/tech/grok-elon-musk-ai-chatbot-x-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/11/06/tech/grok-elon-musk-ai-chatbot-x-twitter/index.html"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk Announces Grok, a ‘Rebellious’ AI With Few Guardrails"
+    excerpt: "AI, Elon Musk’s new company, claims to have built a powerful language model with cutting-edge performance in just two months."
+    publishedDateTime: 2023-11-06T16:24:00Z
+    webUrl: "https://www.wired.com/story/elon-musk-announces-grok-a-rebellious-ai-without-guardrails/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/6548fb02d5bc3d09424c3db3/191:100/w_1280,c_limit/musk-biz-grok-GettyImages-1768682028-(1).jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Elon Musk Announces Grok, a ‘Rebellious’ AI Without Guardrails"
     excerpt: "AI, Elon Musk’s new company, claims to have built a powerful language model with cutting-edge performance in just two months."
     publishedDateTime: 2023-11-06T16:24:00Z

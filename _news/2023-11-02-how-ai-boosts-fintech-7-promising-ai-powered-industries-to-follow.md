@@ -19,29 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "Fintechs And Bigtechs Share The Spoils As Gen AI Reshapes Financial Services"
-    excerpt: "Gen AI holds immense promise in financial services. While the technology giants will play obvious roles in aiding adoption, there will be niches for fintechs too."
-    publishedDateTime: 2023-11-02T12:14:00Z
-    webUrl: "https://www.forbes.com/sites/davidparker/2023/11/02/fintechs-and-bigtechs-share-the-spoils-as-gen-ai-reshapes-financial-services/"
+  - title: "Endpoint security getting a boost from AI and machine learning"
+    excerpt: "Endpoints overloaded with too many agents are just as unsecure as those that don’t have any. AI and machine learning (ML) are urgently needed in endpoint protection to identify the weakest endpoints, update their patches and harden detection and response beyond what’s available today."
+    publishedDateTime: 2023-11-07T00:55:00Z
+    webUrl: "https://venturebeat.com/security/endpoint-security-getting-a-boost-from-ai-and-machine-learning/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
-  - title: "5 firms leveraging AI to transform the future of FinTech in USA"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-11-06T10:46:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-firms-leveraging-ai-to-transform-the-future-of-fintech-in-usa/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 103
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/06/Generative-AI-in-Banking.jpg"
-        width: 300
-        height: 300
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_algorithms_and_coding_solving_IT_security_problems._real_ba97e63d-f73a-4233-aa8f-87408e12299f.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
+  - title: "Demystifying AI, Machine Learning and Data Science"
+    excerpt: "Netflix, Spotify, and other recommendation systems use AI to suggest movies, music, and other products based on our preferences, helping us to discover new things that we enjoy. Best Practices and Future Prospects AI, ML, and Data Science are ever-evolving fields. To stay relevant and succeed: Stay curious and keep learning."
+    publishedDateTime: 2023-11-02T20:54:00Z
+    webUrl: "https://nagalandpost.com/index.php/demystifying-ai-machine-learning-and-data-science/"
+    type: article
+    provider:
+      name: Nagaland Post
+      domain: nagalandpost.com
+    quality: 36
+  - title: "Advancing the AI and Deep Learning opportunity"
+    excerpt: "You will hear how the two companies put in place a zero trust architecture which lays a foundation for encryption, auditability and security, combined with data management that allows mobility between public and private clouds and the introduction of a simple, single UI for the entire data estate."
+    publishedDateTime: 2023-11-02T16:39:00Z
+    webUrl: "https://go.theregister.com/feed/www.theregister.com/2023/11/02/advancing_the_ai_and_deep/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 34
+  - title: "How Apple's thinking about AI spending and deployment differs from Big Tech rivals"
+    excerpt: "How Apple's thinking about AI spending and deployment differs from Big Tech rivals: Summary Apple's approach to AI spending and deployment sets it apart from its big tech rivals."
+    publishedDateTime: 2023-11-04T18:46:00Z
+    webUrl: "https://www.semiconductorpackagingnews.com/news/83812.html"
+    type: article
+    provider:
+      name: Semiconductor Packaging News
+      domain: semiconductorpackagingnews.com
+    quality: 13
 
 secured: "vDhb62ZXULz/95fFke+lYN1hGOX+zD/1B0mX7NUyRpaeeMro4WPIJi1+yn88m8HkbXrqpvDd602LlbEmvNGTB5cqFSmb4mHe/5+82PBqc9Q01SlF26eWGudbR5QOaON2zkEuzrYx/f1m+wNS3xe2ywFjrEFdOPx7D9md3TV2ZsMZIThCLx5eoMYCCtB3M63SbPG5xh19gO1v+fNEoMSHihVBlZXfo/TpwE7D5Lp4ER3f8I4cHtYlMtbrQHVsU5yfdG/aW8vo8PZM8AHOcM3Fqj6cijPcfHpxPsBbPjY5Hs5oIPCuCQ92vl5pyLADi/FpmI8dU3oGgCHzkcQkXSn6zK7SJz8Egu5NXWF9BB7GEepimWemLOg58NI4BIg3LFjqJmH+k1s4dvuULR9303Qlto+9WwCgHNB8sf7pTCqzMSCTAKAPVTcCMNrZAufyPRgevQDQ0Blk5YucQd+LHBXGlBW1W0IpEXw6lBLw+mKBy240tifsD/zn3TD7jhi11nwA3cccsghf8bvUF3YavwMOIw==;nRa4hZsH1p9XsmoSOfVBKA=="
 ---

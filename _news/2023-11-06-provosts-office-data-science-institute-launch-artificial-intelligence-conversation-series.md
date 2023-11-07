@@ -7,7 +7,7 @@ originalUrl: "https://www.browndailyherald.com/article/2023/11/provosts-office-d
 webUrl: "https://www.browndailyherald.com/article/2023/11/provosts-office-data-science-institute-launch-artificial-intelligence-conversation-series"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Demystifying AI, Machine Learning and Data Science"
-    excerpt: "Netflix, Spotify, and other recommendation systems use AI to suggest movies, music, and other products based on our preferences, helping us to discover new things that we enjoy. Best Practices and Future Prospects AI, ML, and Data Science are ever-evolving fields. To stay relevant and succeed: Stay curious and keep learning."
-    publishedDateTime: 2023-11-02T20:54:00Z
-    webUrl: "https://nagalandpost.com/index.php/demystifying-ai-machine-learning-and-data-science/"
-    type: article
-    provider:
-      name: Nagaland Post
-      domain: nagalandpost.com
-    quality: 36
   - title: "Xiong named director of Institute for Artificial Intelligence and Data Science"
     excerpt: "A UB faculty member since 2021, Xiong specializes in AI applications, algorithms, tooling and computer architectures."
     publishedDateTime: 2023-11-02T16:09:00Z

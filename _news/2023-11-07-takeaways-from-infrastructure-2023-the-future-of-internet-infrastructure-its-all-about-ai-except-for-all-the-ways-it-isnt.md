@@ -8,8 +8,8 @@ webUrl: "https://www.itworldcanada.com/blog/takeaways-from-infra-structure-2023-
 ampWebUrl: "https://www.itworldcanada.com/blog/takeaways-from-infra-structure-2023-the-future-of-internet-infrastructure-its-all-about-ai-except-for-all-the-ways-it-isnt/551361?amp=1"
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/blog/takeaways-from-infra-structure-2023-the-future-of-internet-infrastructure-its-all-about-ai-except-for-all-the-ways-it-isnt/551361?amp=1"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.itworldcanada.com/wp-content/uploads/2013/07/101151866.jpg"

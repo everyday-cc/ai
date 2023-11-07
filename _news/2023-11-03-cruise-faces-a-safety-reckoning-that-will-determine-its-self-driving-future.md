@@ -28,6 +28,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "GM halting Cruise is a bad sign for the future of self-driving vehicles"
+    excerpt: "Last month, the California Department of Motor Vehicles, citing safety concerns, revoked General Motors' GM license to operate Cruise, the robotaxi arm of the automaker's business. A few days after the decision,"
+    publishedDateTime: 2023-11-06T21:04:00Z
+    webUrl: "https://www.dcourier.com/news/2023/nov/06/gm-halting-cruise-is-a-bad-sign-for-the-future-of-/"
+    type: article
+    provider:
+      name: The Daily Courier
+      domain: dcourier.com
+    quality: 24
+    images:
+      - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2023/11/06/cruise-a-driverless-robot-taxi-in-san-francisco_ydMVCK1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Will self-driving cars get over for emergency vehicles? Company runs tests in Ann Arbor"
     excerpt: "Mobility’s self-driving vehicles were tested on their response to approaching emergency vehicles with help from Ann Arbor first responders."
     publishedDateTime: 2023-11-02T14:36:00Z

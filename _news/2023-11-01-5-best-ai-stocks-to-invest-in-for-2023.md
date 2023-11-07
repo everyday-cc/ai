@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best AI Stocks to Invest In for 2023"
-excerpt: "and using Azure to allow customers to build custom AI tools. Perhaps no company is using AI more widely than Amazon. Founder and executive chairman Jeff Bezos has been an evangelist for AI and machine learning. Although Amazon started as an online retailer ..."
-publishedDateTime: 2023-11-01T15:28:00Z
-originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=4a887e99-f88b-4adf-a584-d9b172b45477"
-webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=4a887e99-f88b-4adf-a584-d9b172b45477"
+excerpt: "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ..."
+publishedDateTime: 2023-11-01T10:05:00Z
+originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
+webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
 type: article
 
 provider:
@@ -16,7 +16,7 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
+  - AI in Autos
   - AI
 
 images:
@@ -25,6 +25,6 @@ images:
     height: 337
     isCached: true
 
-secured: "6B6nicN2hFxJVrQ4oU0rndwjRTj2zf/875AlfOzTi6jX+ShLuIF4etEiOVObVnl9/WaP5PeLfR2Lg86uKXkzb58Tb9mUEZw4MnoIxWzdfE38E+10EPrBUDtFhI+wyK2ozI9qjdnHa/PKIXB9lFhBMdov822plPvksItVwmJeLdoqR2ePPFErfYtuI1ip4aW7MY9Qtk9LFer5EVWaDKdxXbwv7fCaLTOSXQ7IqebwkULmqZquVERZWlRg6mvzM3uiUrK5r5ZsVBVdLKK0rmjrjT66OmMG/6A3F13WKMTfPnUmqmxsh6E16YFuuh1XHaHgTdWHUezNZ8g6DOCD90ZcCz1nNiImZqmo6T8AIlZrSXE=;M1hrO03bmUnReQ9h5VFDzA=="
+secured: "s+bGVBTxR+h1E1vxqAKMnv5f9ju3E4jTdfCwc/1PrNsqDgbBCG8iF/MjIYzoaN7dpxIbglKaIE1/APnxtBrxEVAlG3jfQvn3qiNpBPFXPidwT6TqQZpxTs3VdJITDwPscILMjSqdW+8k6XrcKzJFW+0bq16N4B9NNWy6uFl8INY37VqmhYeS64dDXyX5piTJsanqUomnCBs7rUGqixbhGlpNoIaVNBB/Vk1UXHBZiekQSZ/CwNrEk9PRYh3SYOXGfkKNTcfK3uzQ7SYMRrcDgfI9lnBn9uRzEFPBS++FN15PdFFvZh36pAxRayvkQkDtLiUf8fXvnoeMIr8ywKWFe4e7u1k6qHd0nfrkq8nq+wk=;KlHEu0J6d4hhFau1S1yNUg=="
 ---
 

@@ -27,7 +27,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 30
+    quality: 32
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/11/Decoding-Quantum-Computing-Are-Quantum-Computers-the-Future-of-Artificial-Intelligence.jpg"
         width: 600
