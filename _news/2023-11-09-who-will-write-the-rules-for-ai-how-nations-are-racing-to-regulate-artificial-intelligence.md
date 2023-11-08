@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2023-11-ai-nations-artificial-intelligence.
 ampWebUrl: "https://techxplore.com/news/2023-11-ai-nations-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-ai-nations-artificial-intelligence.amp"
 type: article
-quality: 62
+quality: 64
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-rules.jpg"
@@ -76,6 +77,15 @@ related:
       name: The Atlantic
       domain: theatlantic.com
     quality: 49
+  - title: "The Future of AI, Jobs, and Automation"
+    excerpt: "The Future of AI, Jobs, and Automation. We've entered a period of dramatic innovation in AI and automation and it's going to have a significant impact on the futur"
+    publishedDateTime: 2023-11-08T20:46:00Z
+    webUrl: "https://www.zdnet.com/collection/the-future-of-ai-jobs-and-automation/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "Who Will Write The Rules For AI? How Nations Are Racing To Regulate Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) is a label that can cover a huge range of activities related to machines undertaking tasks with or without human interv"
     publishedDateTime: 2023-11-08T05:23:00Z
@@ -114,6 +124,6 @@ related:
       domain: psychologytoday.com
     quality: 19
 
-secured: "fRwu1bP2DtBmeIsx1n1LvCCPwN6moQhqKBV/us9tDqajXN7pKOL4+oonAW/tQXHVDgTfTeShZA/FPI65TW8Kije9wrMqETtLQzChzLG+hI0GfPY5hdBitjoLdqL1QrjRYRZ/YP0dwKqeeKV40oOeu2SbI2srkrdrLk7YLXr1536wxsWf6JcjAvV/RS6NyrpQ8C7Y4tgXDJUxmuW71K0RJiCt0NOtcbndgQcuGcyevxak/DBtkoIAN9ChVhqC2Z4koqPqL8eTDKco7sIuzZdrJPmpzoDHmDooQ0XzxVNKUChegdVXUQFhlPShrf8IkenN1QhkjXg8sXGzLEBAsXD3H+fpIXwDwMkPrDNo8Rd25LA=;NA1JFXNubu+nZ9UEJYbzSA=="
+secured: "t1VFQGVOG5BH428p5lf5n1iUX92R0qKOIxR2O/YqaF+T1zqzzL3fh8eMT13ocRcxwKKiRd6tQx/xHOpOeQt2kMqzBQbWZzdJ1Xd2v2yLpR3j446Wy5KWZqtmWqGWUbboJuCbLq8YxkTU/81nZT6It/oWrQYw8+dQW87QPxqXups3ELEcqxMXlbWmneSiipDkfnKZR4IcYCHuLoZQyfK7b7Sejn4tqchBiasQyaAoxbuUdGqSvwSr3xZ1zVmGgM6tU0ED4Z88H51GyaFz+zz3Xwvj1EggBALoR5kBmwt/2SOcaFP0hZfr5hLWxtbIh/zCoJPQoiyIymaHDIH/LsX0jVfGuDMkKaSUv/4djvwkFFvJbhhKvJM3QaBWVpS9alwOUs/rBMEUWVJ2x4xA6OXwR44X8cNcyiFVg4HmlsmP1pNe1jJ/ECrscuvFsEbCRHQ69B8lydSC42azcQqW6FDZ2Ag1w1XQuE3FxnRFzo5TH1i7UO/4CnFGTLW6aad044P7VNNLDmGzq6Vtq4ctLBmnlA==;w3J8LXiBsMIDeflk2QHOQA=="
 ---
 

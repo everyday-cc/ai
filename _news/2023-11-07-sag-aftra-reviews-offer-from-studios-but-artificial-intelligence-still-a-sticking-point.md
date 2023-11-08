@@ -24,22 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Actors' union says no agreement on studios' 'last, best and final' offer including use of Artificial Intelligence"
-    excerpt: "Use of Artificial Intelligence, particularly the notion that an actor's likeness could be used long after they have filmed a role, has been a sticking point."
-    publishedDateTime: 2023-11-07T01:53:00Z
-    webUrl: "https://www.hindustantimes.com/entertainment/hollywood/actors-union-says-no-agreement-on-studios-last-best-and-final-offer-including-use-of-artificial-intelligence-101699320768146.html"
-    ampWebUrl: "https://www.hindustantimes.com/entertainment/hollywood/actors-union-says-no-agreement-on-studios-last-best-and-final-offer-including-use-of-artificial-intelligence-101699320768146-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/entertainment/hollywood/actors-union-says-no-agreement-on-studios-last-best-and-final-offer-including-use-of-artificial-intelligence-101699320768146-amp.html"
+  - title: "Artificial intelligence deal reported as SAG-AFTRA continues mulling latest contract proposals"
+    excerpt: "Neither side confirmed the status of those talks. Such a deal on artificial intelligence would remove a major hurdle from the drawn-out labor negotiations. The union has been insistent on securing robust protections regarding AI, while the studios have ..."
+    publishedDateTime: 2023-11-08T21:28:00Z
+    webUrl: "https://www.dailynews.com/2023/11/08/artificial-intelligence-deal-reported-as-sag-aftra-continues-mulling-latest-contract-proposals/"
+    ampWebUrl: "https://www.dailynews.com/2023/11/08/artificial-intelligence-deal-reported-as-sag-aftra-continues-mulling-latest-contract-proposals/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/11/08/artificial-intelligence-deal-reported-as-sag-aftra-continues-mulling-latest-contract-proposals/amp/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 36
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 45
     images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/11/07/1600x900/hollywood_strike_1699321301661_1699321301929.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.dailynews.com/wp-content/uploads/2023/11/AP23312750698452.jpg?w=1024&h=686"
+        width: 1024
+        height: 686
         isCached: true
+  - title: "Studios Adjust AI Language in Push to End SAG-AFTRA Strike"
+    excerpt: "Hollywood's major studios have agreed to adjust some of the proposed contract language on AI in a push to end the SAG-AFTRA strike."
+    publishedDateTime: 2023-11-07T19:43:00Z
+    webUrl: "https://variety.com/2023/film/news/sagaftra-strike-ai-amptp-contract-1235783065/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 17
 
 secured: "KGe/eYcRtf2komc/1tonxl2NyX+ZU/RDe2tUdnQxrMgWknXN+qVmITsmdZJkQmWd/RnXxbEYS7WJG/4077K2KctWZA7HZp/Ba9V06syXHVq4LvXhNKlPHs46kDo8G5BeDYqrFCSQ2welJC/IP77DAxdIvxWJbzbaHE7frbMRnl77LompI1hlD43kSsuA8oeDy3Ei4FvEXXtmYUaiERuDUSn0T6A9tthNMjUzHdfidXGyThnaNuqG13AzgMhNFMdVzkEczR82xDmlC+Kl2IZ29i5WXP+8qOTSEfFCCf4k4FSY6NkbAlJiqynN3DB4qsSLZ2uCPmX0QzfSPsvQ82XZxMSia3OzC/wyFO1d/eqif4ymjhgJyCbtrdjPf/GpGANW1Pnz4+J/WCQgBWSOcczxqF58o6GGpMFNQfi+Ox/6F6NH+wkBKZlEbRjpQRxqPuDJgFZxAsrQQzScYiybxrTAfw0sN3y0DPnZ9PGnWWlEmcyFA2Bx0lgbMnB2O0m68eHfktXRiElXnehE8o1DFNfAdw==;75T6ONcNTwLH/I27qHGpBQ=="
 ---

@@ -55,6 +55,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Meta Is Trying to Rein in AI-Generated Political Ads"
+    excerpt: "From next year advertisers on the social media platform will have to disclose if AI-generated or deepfake content is being used."
+    publishedDateTime: 2023-11-08T19:54:00Z
+    webUrl: "https://www.thedailybeast.com/meta-is-trying-to-rein-in-ai-generated-political-ads"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 17
 
 secured: "Jamu1Pmcrlv96aw/UbgRnQJx6bFbdlW4BUWrGB0bZh4I6iPqOS836aORMZV6/gwkf5ynzJcyW6wbRBIjaPXBAI8c/jnI4Hhibg7ogM8s53mfPGlA5penBhAIt6dPrXsLhJIR2f7pX8Qewn0eRGoFzoDj4bhs8Hi2qwjEK3sZRoWLa7TFMpxIAdYUaW+Or62Xcgip0h/AiTSZDkhFgpRg6n02wHwwiIAn8btarQDua+3MGD9LC3YQ+Oq+BewW9BRh5O+uw8Sgi+7YJ2ou8hhd01PwIKGxiZqsBWoHLnEJsRGEnuFrLesh0qxoKi0jEEWeT8tCwBmolOBoy0bPrPiahxcuAR2pdF85d5nqf/WN0V/8VuS/tBvEnKQIwTkrqjB7oo+3Db1fb25LW2gxV8jOfkS+RbBMtKJKkCqftQ8YfeCOJP7zMG8TGvBQPBbVlRXRSrMDV6Bp0XMLNLHKMPtsATtskri7OWLfqBrDi7lsiVma+Uvk7j/EuwdlSk9OBay5muL0WY09SMn+FwDWxfKuCw==;X/ZYvVL6q6bQ8xLP+BWfjg=="
 ---

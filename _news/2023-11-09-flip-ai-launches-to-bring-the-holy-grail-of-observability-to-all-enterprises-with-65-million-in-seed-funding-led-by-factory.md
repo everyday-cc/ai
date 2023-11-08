@@ -1,31 +1,34 @@
 ---
 category: news
 title: "Flip AI Launches to Bring the 'Holy Grail of Observability' to All Enterprises With $6.5 Million in Seed Funding Led by Factory"
-excerpt: "Today Flip AI launched with its observability intelligence platform, Flip, powered by a large language model (LLM) that predicts incidents and generates root cause"
-publishedDateTime: 2023-11-08T16:02:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/11/g35678759/flip-ai-launches-to-bring-the-holy-grail-of-observability-to-all-enterprises-with-6-5-million-in-s"
-webUrl: "https://www.benzinga.com/pressreleases/23/11/g35678759/flip-ai-launches-to-bring-the-holy-grail-of-observability-to-all-enterprises-with-6-5-million-in-s"
-ampWebUrl: "https://www.benzinga.com/amp/content/35678759"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35678759"
+excerpt: "Flip AI Raises Funding from Factory, Morgan Stanley Next Level Fund and GTM Capital Today Flip AI also announced $6.5 million in seed funding led by Factory. Morgan Stanley Next Level Fund and GTM Capital also participated. The company plans to use the money to continue to advance its product roadmap and LLM and to expand its team and operations."
+publishedDateTime: 2023-11-08T17:16:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9914309.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9914309.htm"
 type: article
-quality: 31
-heat: 31
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Microsoft AI
+  - AWS AI
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
+related:
+  - title: "Flip AI Launches to Bring the ‘Holy Grail of Observability’ to All Enterprises with $6.5M in Seed Funding Led by Factory"
+    excerpt: "Today Flip AI launched with its observability intelligence platform, Flip, powered by a large language model (LLM) that"
+    publishedDateTime: 2023-11-08T18:57:00Z
+    webUrl: "https://www.datanami.com/this-just-in/flip-ai-launches-to-bring-the-holy-grail-of-observability-to-all-enterprises-with-6-5m-in-seed-funding-led-by-factory/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 0
 
-secured: "OFOtHqnqRpmLYkz5cfot1fa4kPCqmDm/XgXYcK5+5sBv0F9fII7rwUqg6b27nocai6o1ujcaW9FoOk9w28Ahg1pxy0sEJXwh7Z4cMla3Ozk0tvM48tiMbwATzDfVLHZjidsEm/CN8mhBnHqfJmEGkfFcRvon+zPlo7xZKrXCL7nmdGl/B91IChlkDYoCLNAYc3SPReU/AZRbkQESvA+VGzi9+yW2OIJ2dzD4ZI5zO8Q3ZQf2qRGH0mipIzilesCaEYz9C+E/1qRyi4/y3FFxtFVVZP3Cb9VI687b9MEzxE0C1mUBMSOuQDtD/qIuMYa/LrfNsRG3DzcPG3BHU+QRwXKtv9cO/cbLweTzkEM6ZjA=;g+O5E/ZX9Qhuo8gbNEgDZQ=="
+secured: "m0gsMBpjUZlGn7GcjCPLoyOzqgeC1U6YRYz2iAUA7O5cPgjgOC7NL6QWHrz4GpAbM/3cORrO0ZtEzCnrDjCnN7vt5es/+EBjA9ryt8xi6BC3n+3kFEIKTTLl/uejonp1l5AeXA00fE/caVerGVTVWuamKm7vwD85p89F5WOCXJEHzhJvai/9Og2R7VsmOuxO3N3F8qfx9tPSus8p8Li4IJE7I+u4rUctoEjPsivv6xC8tZRhp0PyQL0IMeNuQxj0Ymiqdcau1ymAkb4jW2hbLMAxV13FxE8WulZJTDV5HRyKMQ3n+dwi7m58GETfg8RBPe4gQZIwJYigAa4GF4oAF3x5v+A1YkF+VaPUUTNxVUo=;xEFDm/Umdt6wqGs3YzpSTQ=="
 ---
 

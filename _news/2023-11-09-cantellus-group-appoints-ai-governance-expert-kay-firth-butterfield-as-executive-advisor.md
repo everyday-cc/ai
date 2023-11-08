@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9914161.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9914161.htm"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Cantellus Group Appoints AI Governance Expert Kay Firth-Butterfield as Executive Advisor"
+    excerpt: "She co-founded the Responsible AI Institute and was the world’s first Chief AI Ethics officer in 2014. Firth-Butterfield is the Vice-Chair of The IEEE Global Initiative for Ethical Considerations in Artificial Intelligence and Autonomous Systems and was ..."
+    publishedDateTime: 2023-11-08T15:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231108703034/en/Cantellus-Group-Appoints-AI-Governance-Expert-Kay-Firth-Butterfield-as-Executive-Advisor/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
 
 secured: "/RBwJDFeRwsyWWRBnyX+bYyKWnljLIrpZAAkCRH1gUcR1WRDJ/rsJzVgWtrV//v2LS3IR9vAoSD9AMMABk6NVELE8iK323ESdWaUJotJkbHVy5lvXhy/pPlO/ZxzHnzjyp5Y16hW4kCqImthCS2vVpvjh61gJTAlmZ5/0yl9JDsF/4Pq6D5MHMu7OlkDpVKUvK6c2Z5fehc5KRf1UQQmOHi85/Q60BFxf9bkv9H9U8pG2frFbz8TnwllvuLSpGqqGECLW1eF6mOUQwNGTi45aBYj80GSVfi1wX+36YWgHMkw0EAvRJIXRiXLUgu6IkDJQ/t/6ypeDuGD8XP8LBvdscTF/8KeJhVuiQk47jCMdQI=;CJlSHA7CeB1M/QyzmAuaTg=="
 ---

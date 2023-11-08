@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-medical-imag
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "New Odyssey Ai-ONE Putter Goes All-In on Artificial Intelligence, and Results are Stunning"
+    excerpt: "So Callaway tapped into the powers of AI to create a putter face that stays more consistent with ball speed, even when you miss the center of the face. Shop: Buy the AI-powered Odyssey putter now through our partners at PGA Tour Superstore And they ended up creating the Ai ONE."
+    publishedDateTime: 2023-11-08T18:56:00Z
+    webUrl: "https://www.si.com/golf/news/odyssey-ai-one-putter-artificial-intelligence-results-stunning"
+    type: article
+    provider:
+      name: Sports Illustrated
+      domain: si.com
+    quality: 24
 
 secured: "bU4cFdNWCHnbMn6ZCyQqQYDohkYl5t88r5SnC1xUDVS6r/iB03S9aXGarUSny7GCE0LoTCrjWBb5GQcYfkBOyAIdslpe/loF8oS6X6Uc4l4RtApQQUIJchGGd9MNnDglPSUGeDlYuzZYzyegIWwKmngheECwacxvIMfqEwCm2MFUVCLYnlpZh6HEgYfJ1Bk0CYw/OBN6IsOqRqEDUvHT1AUD/9MkKIxhdIRz2L3QQeiJbFKZWKJFW/jdeuhPvjuXcuoBqEZ/RPdEwh2bYZFRQi2JuCO5YmbFuYfuMyr2d66ksOLzZx+ZhAk66l3w84UNIWoRsrmGzSOA9tI/OvANLGpFCVclLPS2oYNEP/+lQbM=;wJ9cBNu8nnBXa93DNjxhJA=="
 ---

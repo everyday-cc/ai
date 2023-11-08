@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wmur.com/amp/article/2024-president-candidates-ai/457565
 cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/2024-president-candidates-ai/45756595"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Meta grapples with AI in campaign ads"
+    excerpt: "Meta, the parent company of Facebook and Instagram, will require political advertisers to disclose the use of artificial intelligence (AI) or other digital methods starting next year. The update, announced Wednesday morning, comes amid a rise in generative ..."
+    publishedDateTime: 2023-11-08T20:40:00Z
+    webUrl: "https://thehill.com/newsletters/technology/4299816-meta-grapples-with-ai-in-campaign-ads/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 19
   - title: "AI use in political campaigns raising red flags into 2024 election"
     excerpt: "The presidential election is a year away, and political experts and some presidential candidates are already raising red flags over the use of artificial intelligence technology in campaign ads and other avenues."
     publishedDateTime: 2023-11-08T13:25:00Z

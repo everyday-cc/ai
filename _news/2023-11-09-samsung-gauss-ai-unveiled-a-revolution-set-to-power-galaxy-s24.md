@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Samsung jumps on the generative AI bandwagon with Gauss"
+    excerpt: "Named for a German mathematician, Gauss AI technology — including a large language model (LLM), coding capabilities, and art generation features — could debut on upcoming Samsung devices."
+    publishedDateTime: 2023-11-08T16:14:00Z
+    webUrl: "https://www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 21
 
 secured: "Ej6rG67TJ8+TbRJONM1kSdX2khItkFCg8MuJhGOwR93BNaPQ2hbvsL74S5n6q5jFP4OSDMPU/MP32pQ/bU+U2b1BOYihkAMAxc6fjWSYdm9KtjwFYYU60yl7RgeNt0wzMpNSB5/f7Ak84Q3YfgzK37gD1VgzF5YOIARWvB0kGfKjqeiorukbabSKwphSmKaO5Ew6dW3HoHsreGSrx+vKMAOwWW6oxMKpIq0QyFMWsEnwDDeGi2nI5vDyfKUMY9w7jflF8ym9+Lliz0nbwL/jbxDyctDm2LRBNRQDTSqM8AMyyjPer1aTJJr8lVJBCJBmSi/P35P3p1EnWT7v58hA3L1a1AtItoPlY5qKjfgP3TNoKUemNFHbqItxcEK8fcmdzmxnt9fY86yzzX+ubWBrM3twVCgegLVHs2grefBZeWfuSEgN3fBv12IxQ7Ebif8QB4afxKbqwpEmkU4NeinvEbUgU1pCcWfoG9TaMkmPqy1Ls00jTVN7Y2yIXQuI22yHcFpr5uTHpr0EysKLUgLzoA==;tFbQxo0FEYmmCOnih0yizw=="
 ---

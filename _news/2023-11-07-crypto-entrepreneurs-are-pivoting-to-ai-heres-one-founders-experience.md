@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/crypto-entrepreneurs-are-pivoting-to-
 webUrl: "https://www.wsj.com/articles/crypto-entrepreneurs-are-pivoting-to-ai-heres-one-founders-experience-34be4c51"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?694398"
         width: 400
         height: 250
+        isCached: true
+  - title: "In D.C., crypto is pivoting to tokenization—if AI doesn’t take the spotlight first"
+    excerpt: "D.C. Fintech Week is not your average crypto conference. There are no yachts, which would likely have trouble navigating the Potomac, nor edible delights shaped after the organizers' favorite tokens. Instead, the annual event—now in its seventh year—draws bureaucrats and policy wonks ready to discuss the merits of digital assets."
+    publishedDateTime: 2023-11-08T13:25:00Z
+    webUrl: "https://www.aol.com/d-c-crypto-pivoting-tokenization-142631271.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 33
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/pUcXsOd7rJNgAW8Oovkatg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/4e845aecf89a5585b1a9de049d7dea94"
+        width: 1200
+        height: 800
         isCached: true
   - title: "In D.C., crypto is pivoting to tokenization—if AI doesn’t take the spotlight first"
     excerpt: "D.C. Fintech Week is not your average crypto conference. There are no yachts, which would likely have trouble navigating the Potomac, nor edible delights shaped after the organizers' favorite tokens. Instead, the annual event—now in its seventh year ..."

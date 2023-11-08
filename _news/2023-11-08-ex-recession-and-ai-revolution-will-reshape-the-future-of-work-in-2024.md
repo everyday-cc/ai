@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 62
+    quality: 64
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-rules.jpg"
         width: 2880
@@ -80,6 +80,15 @@ related:
       name: The Atlantic
       domain: theatlantic.com
     quality: 49
+  - title: "The Future of AI, Jobs, and Automation"
+    excerpt: "The Future of AI, Jobs, and Automation. We've entered a period of dramatic innovation in AI and automation and it's going to have a significant impact on the futur"
+    publishedDateTime: 2023-11-08T20:46:00Z
+    webUrl: "https://www.zdnet.com/collection/the-future-of-ai-jobs-and-automation/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "Who Will Write The Rules For AI? How Nations Are Racing To Regulate Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) is a label that can cover a huge range of activities related to machines undertaking tasks with or without human interv"
     publishedDateTime: 2023-11-08T05:23:00Z

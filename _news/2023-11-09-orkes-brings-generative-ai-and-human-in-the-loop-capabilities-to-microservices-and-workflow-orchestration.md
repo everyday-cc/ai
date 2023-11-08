@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Orkes Brings Generative AI and Human-in-the-Loop Capabilities to Microservices and Workflow Orchestration"
-excerpt: "Orkes, the enterprise microservices and workflow orchestration platform for Netflix Conductor used by companies like United Wholesale Insurance, Foxtel, and Normalyze, has released new capabilities that allow organizations to implement generative AI models and vector databases directly into their microservices infrastructure and business workflows."
-publishedDateTime: 2023-11-08T17:49:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-orkes-brings-generative-ai-human-in-the-loop-/2023/11/08/9914305.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-orkes-brings-generative-ai-human-in-the-loop-/2023/11/08/9914305.htm"
+excerpt: "Orkes has released new capabilities that allow organizations to implement generative AI models and vector databases"
+publishedDateTime: 2023-11-08T20:13:00Z
+originalUrl: "https://www.datanami.com/this-just-in/orkes-brings-generative-ai-and-human-in-the-loop-capabilities-to-microservices-and-workflow-orchestration/"
+webUrl: "https://www.datanami.com/this-just-in/orkes-brings-generative-ai-and-human-in-the-loop-capabilities-to-microservices-and-workflow-orchestration/"
 type: article
 quality: 2
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - Microsoft AI
@@ -62,6 +62,6 @@ related:
         height: 522
         isCached: true
 
-secured: "8kaLOTi0CFEbTcrzR6CO/YrcaR0fVsyQpvlUXVN2D6OXQvRLcw9lNAxi8SEK16KX6rE2IuvuirWXleiy1KOnXFrTuvhyfKSRmTi5LSX4ybFnmaJiaLofJcNNUwQUOMUiO185zqqLbIcVGPzJvDz0AtWJWMtB0O5uig2ZgNWak4VrMh291/gJwxemhA3FHxs4wEThhgoaG8ZlBc9ZVzICYFnH1m3oBQERPUpA2T8LOEUycLZR77LcUmEAv/imtZIcGVncN8DAQ/QCn73YAPpOHLDyV+TSLHsMDSbzsES4QkSOjQRslUWKKRrAG4EfN7GWPfGOeVDtj/xQuto/lbSnedHishU6jeGN997RO44l8IY=;fhABzWvGegejWEU2rzC9tQ=="
+secured: "MDDNvjkhG8AOPWQN1epTi7EBJv6r1+UlK6oTxbYQKrqvMtWOrLW56tY7nAfe8RBO1VCU0vwc0CyhPOXAGuyAEGO2Zp/F55vzdG8+ixFbgnwDsNjZ/LgEDkiLH7V0m2ivopF20cgEedIj7mmRyKqqAHMIeG2qXj+q3P3cgPcwtn+7hXQQNIpziHi7gYVWUKfd5HOHcJbbnsZUWS1MWQhecJ1crDkG1ijIRwfiN1mJG9sbQLlDvur2BA+k897TnzKyjabi86BiK/SGlTnUvSh6GQrjAUr328bm5Hw/Qvzi7FOsU14dBpR3iO4AGbKiolrw2iXO+Ng1y8m2UPMprt67/YlV2yzlFLtRMvZ269nHUaAGHqWWWqsfvdsOvd21Md/N8zdPbMg5QSyiP3sg7peqmP9zsckWUm8DmbVr2U9Byq6Gfjvl/l8E3uIg1vILwgjwMKeroIap+KEdbZYDMftsAzwxFtoazcTSyJrVf/wIy69mufbgQ2WILNtTGGPfIt5j8RT4D+N9KyB3dQVAjurBlw==;vRmrnYEpfTtONp1olpWISg=="
 ---
 

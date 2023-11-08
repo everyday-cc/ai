@@ -39,6 +39,15 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "Intel’s new overclocking tool does AI all wrong"
+    excerpt: "Intel's new AI Assist feature, which promises higher overclocking performance with the touch of a button, doesn't seem to be doing much."
+    publishedDateTime: 2023-11-08T18:31:00Z
+    webUrl: "https://www.digitaltrends.com/computing/intel-ai-assist-overclocking-tested/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 49
 
 secured: "VwsDHD+BSuLoXsPN48Z0cAadSJUJqOJzwFuSnMtjTIn34TddZJG8+GTaTg8tZMES9KSHmkj73xzw236Bxz6TwW1JDT0UB9/REcicAPffnl0yKGCMmOGXtfgzvvTQFcfP89d5d7Nar8YBIM2czUS3B5rK4leiueWBr8AWE1h0IJBTxG1Fq/XIdv6a1kbzcf16wJaUDRgvY1eUCqhrst4X5B2ui6AyK6zln1OWcb0v9i55ae2+dM79HpqRVhoEWqk7TX/OSF3I5Tgk83tddQ2QBplKqdAcj8NtxNUHMZ8vYGPBJT6BKBaci2Im+/fQEfzD6WHZKVv/zpZaAgSoPSMQqD1YmunDhpfBr+px3Fot/EXiVaNh5GetNEY/L/he31mF5MvZpm2o9F4c43r7p24yFgJzxvAPJ83ZoiWJKDYfl5oU1l1HrFOy90G1g91wen7fBcTY1WHk7LfQyY54dkEeUNzEdFk0KJ5gFP0izkM/mUfKCJI1IJ9ngEdzdvsUp6nMLoUCIbG9l4eiNCBp4S7Cew==;qTMLADRHHQxpLGpeaAsO6Q=="
 ---

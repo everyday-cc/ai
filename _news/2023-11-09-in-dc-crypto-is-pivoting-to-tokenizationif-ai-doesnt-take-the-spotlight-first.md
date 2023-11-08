@@ -53,7 +53,21 @@ related:
         width: 400
         height: 250
         isCached: true
+  - title: "In D.C., crypto is pivoting to tokenization—if AI doesn’t take the spotlight first"
+    excerpt: "D.C. Fintech Week is not your average crypto conference. There are no yachts, which would likely have trouble navigating the Potomac, nor edible delights shaped after the organizers' favorite tokens. Instead, the annual event—now in its seventh year—draws bureaucrats and policy wonks ready to discuss the merits of digital assets."
+    publishedDateTime: 2023-11-08T13:25:00Z
+    webUrl: "https://www.aol.com/d-c-crypto-pivoting-tokenization-142631271.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 33
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/pUcXsOd7rJNgAW8Oovkatg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/4e845aecf89a5585b1a9de049d7dea94"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "dQ/xcbQh3L8O6IsNVY5SQDYgO+ZNVY5E94dG4Yf+IYDSwETv9eFcnqIcGE5WgDtzuBH6uAHS0agOkFPvxqI2eWTJcGccaQytQ0lGYnJK4Up1G27pZs9Bml/KCttGamXvkQF0sKRdBdKXzokQ6yf1zYuaVzL1UFLXkmr5aEA+mZyIgO6hpu/AwXh35N/hAd4OlmGMBnrVmGaLQVWADEkDE5CgERgwsoCQFNxGgZuLczzXIL5g/3uzWhJG6aEuHp1HhBabt0YGSWrWVMe7gRgP4JJ/eNUX4FVoORbq7Nd0oGCHVoMDf/72F1e10CNXlFZTt2iFI5BJB7uTyzgr8zxUc608a+2P2Rcso0jkI28ui9s=;KLZP8XHhE271BAycbBkalw=="
+secured: "AiHj1buqFucGb7Jt7S536iPUP8d4B7S2NU+65X4410C0ExvIu6/Nz6Rl8LjDtWwidwfCRejv6Xrp/NwyxCmBLq+nC35P5/iGlPFpRY0imqFlHEb4T04kM/QgrcvYJq0c6zYA+M1R+6GFFJM6x6CPHMVenwPuia/t5exyHvYuid6e17ETLjE1+VuvWJsE6lZP/B7xnM3v/0tQoq2dcO9PuBi9asdSyEYtLeWSP2UaRGbrZoM/wt/HT3X7fb2w+kGVE/4hTxnsORVSedgO9nCvemTU+qsoDKztjXy3JLfBmNf1ITHjvE9is1o13FQbq/M2DXossHHdXjKhwLfZnh7PKiOGUwG/M74PdZvu1i5q+8uN773Bnp12lkQ8CbHACmm4UR5cjwFO7Cog5Dj1inIXDDC97UZSKC4qYMRmA3BtruCxt3u/I5PVOIVobjcaZ2/S0zlf/GJMGUyjizXwTVsg6q3cZnTcew5RznOcqpI9Gsot7SgjQ/WgQxWXGFr0yAEPn6ojxkIBHVMuCBN7RQ3Xww==;uaiqf5yFlDszvS7wlTEnSg=="
 ---
 

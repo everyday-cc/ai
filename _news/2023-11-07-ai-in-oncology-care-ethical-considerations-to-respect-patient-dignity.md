@@ -9,7 +9,7 @@ ampWebUrl: "https://www.labroots.com/trending/cancer/26178/ai-oncology-care-ethi
 cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity/amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "The ethical implications of Artificial Intelligence"
+    excerpt: "Joe Biden (46th U.S. President) in his recent executive orders has said, “Responsible AI use has the potential to help solve urgent challenges while making our world more prosperous, productive,"
+    publishedDateTime: 2023-11-07T07:58:00Z
+    webUrl: "https://www.thecable.ng/the-ethical-implications-of-artificial-intelligence"
+    type: article
+    provider:
+      name: TheCable
+      domain: thecable.ng
+    quality: 36
   - title: "Experts raise ethics concerns posed by patient-facing AI in oncology"
     excerpt: "Ready or not, patients with cancer are increasingly likely to find themselves interacting with artificial intelligence technologies to schedule appointments, monitor their health, learn about their disease and its treatment,"
     publishedDateTime: 2023-11-04T07:54:00Z

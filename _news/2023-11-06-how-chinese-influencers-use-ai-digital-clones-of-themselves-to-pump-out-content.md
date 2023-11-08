@@ -96,6 +96,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Gen AI’s promise to improve engagement with government services"
+    excerpt: "The ability to provide a conversational approach to search and virtual agents, whether in English or other languages ... The generative AI tool would facilitate direct translation in each instance. “Looking at it from the perspective of the citizen ..."
+    publishedDateTime: 2023-11-08T20:30:00Z
+    webUrl: "https://fedscoop.com/video/generative-ai-promise-to-improve-engagement-with-government-services/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2023/11/Rana-Microsite.png"
+        width: 3841
+        height: 2161
+        isCached: true
 
 secured: "mx6HXPmXdAZuMkZkiSJs6r0fAuvD3g+orB0IAMzDgBs3sH66KsD2wEFZIM795oskSGdtlsWk2TQTcezUXWn8GXKrqXAbfYzLC8hzGNoaFnKkiwh4QJPdLSK5qArHMt76S4NqrAZL+4FlzUgcPsfIU8beDybMCCn5U7BrlWajNADFnwQHjIgyR/IOu/VNMIjiXCP5PQmXkEepdBv7tAMO8nYgsN8DQ5BGv+o2iptOE+6sCDMQgECSSMx/q8hvgMvO9gGqXtQ9KoSe43EUazaP+Q6QYD00dBmkXNtpnCOIN32QvVOANv/XGj/QlfA26Pr0LO27m38rUzGa5jyfWUcxMdOrtk9MLOaylEJs4PLgffTmB/q5bHo/xNSpa6AOoA6feVZEtlSLoSgMofXqZ91VSkqlPZTEFTmP1B+cb3SC0/nA/2dktXpQQBjpynKQKR2RpRruzPJQOCVKNHBg1tBXR7BPilAH7LuKQeKj9LQvJ0mHVHEFbTKJPCRNiTfMc13U4Q5MsbmHKwwJStedtWkoqw==;/kg4pO/6rOmqCeuFpUZzcQ=="
 ---

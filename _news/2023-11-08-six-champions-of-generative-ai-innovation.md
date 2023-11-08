@@ -88,6 +88,15 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "6 ways business leaders are exploring generative AI at work"
+    excerpt: "But he expects to see rapid progress in the level of automation -- and he advises all professionals to start exploring generative AI. \"I think the speed at which it's come to market and is developing means that everybody should be keeping an eye on it,\" he ..."
+    publishedDateTime: 2023-11-08T20:27:00Z
+    webUrl: "https://www.zdnet.com/article/6-ways-business-leaders-are-exploring-generative-ai-at-work/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
   - title: "How Generative AI Will Transform Knowledge Work"
     excerpt: "Generative AI can be a boon for knowledge work, but only if you use it in the right way. New generative AI-enabled tools are rapidly emerging to assist and transform knowledge work in industries ranging from education and finance to law and medicine."
     publishedDateTime: 2023-11-07T13:05:00Z

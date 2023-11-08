@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-07-may-mobility-is-trying-to-solve-self-driving-one-shuttle-at-a-time.md",
+      "title": "May Mobility is trying to solve self-driving — one shuttle at a time",
+      "excerpt": "Mobility, an Ann Arbor, Mich.-based autonomous ridesharing transit company, operates self-driving shuttles in locations including Ann Arbor and Grand Rapids, Mich., and even in Hiroshima, Japan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/may-mobility-trying-solve-self-140818157.html",
+      "originalUrl": "https://www.aol.com/finance/may-mobility-trying-solve-self-140818157.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/oBJdFIePt39cfF8R__ah4g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_yahoo_finance_433/a84917408118898bdcef7611adb42b4a",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-07T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-07-4-second-to-none-growth-stocks-youll-regret-not-buying-in-the-wake-of-the-nasdaq-bear-market-dip.md",
       "title": "4 Second-to-None Growth Stocks You'll Regret Not Buying in the Wake of the Nasdaq Bear Market Dip",
       "excerpt": "But in spite of this sizable outperformance through the first nine months and change of 2023, the Nasdaq Composite still sits nearly 18% below its all-time high, set in November 2021. Though this drop might be disappointing for short-term traders,",
@@ -1267,49 +1310,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-frances-take-on-artificial-intelligence-and-on-the-eu-artificial-intelligence-act-under-discussion.md",
-      "title": "France’s Take on Artificial Intelligence and on the EU Artificial Intelligence Act Under Discussion",
-      "excerpt": "“I would like France to be one of the leaders in artificial intelligence; I would like Europe to be one of the leaders in artificial intelligence.” This statement by President Emmanuel Macron ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jdsupra.com/legalnews/france-s-take-on-artificial-8061746/",
-      "originalUrl": "https://www.jdsupra.com/legalnews/france-s-take-on-artificial-8061746/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15731_377.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-29T11:00:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JD Supra",
-        "domain": "jdsupra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -153,6 +153,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Better Patient Care and Operational Success: Seven Ways to Benefit From Generative AI in Healthcare"
+    excerpt: "Generative artificial intelligence (AI) has been the latest disruptor for many industries, quickly becoming widely used by companies that run the gamut. However, given the sensitive data and importance of privacy in the healthcare industry, its use there ..."
+    publishedDateTime: 2023-11-08T20:16:00Z
+    webUrl: "https://medcitynews.com/2023/11/better-patient-care-and-operational-success-seven-ways-to-benefit-from-generative-ai-in-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 20
   - title: "OMB Releases Implementation Guidance Following President Biden’s Executive Order on Artificial Intelligence"
     excerpt: "President Biden signed a landmark Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. As the United States takes action to realize the tremendous promise of AI while managing its risks,"
     publishedDateTime: 2023-11-06T20:01:00Z
@@ -182,6 +191,6 @@ related:
         height: 900
         isCached: true
 
-secured: "u37nKdhGKe9zLbyhmxdTOfyIvOx3yxxqIC38z2VWLYDXIXehKqX8PwyqL9HQhknHf1KHhY0PurMfEkAkofqnhkaYn1PQtMZ/dniNMtmImIjne9NQyuNlIB6jOC5qtkTZFXDMTfqbMZSoUBhIJ5t67CTq488EHtgST0U2C0UJAxj6zQdMA/5EdqwpCuqZLpyHHCGoT/h2s4rHuQhqotdYx4IFtCPpA8nGDQHeEkt3hXhL9QEKJJ6Y3cy8fVSVYNE9apunIrkkulWTTeY6J6+MHr6nZY5KwFw9p2EYBwHao/ZCn3WVr5JxuwPZxYOa83H6hobupqwcOiKKER4hmrIAUNZVsgIPuxqISgHRhBmebiE=;X6g6qkJfAsvfftZWBnjiFg=="
+secured: "fRVNrqaedueL4+7SKJ5zkAEYjVPokqy/7YkHIHoAAOVorUYHkbvqBP5CYAIG1nvVmFpQOpA4a5DrMRC1TxjEfhJo51G3t7bA4VKjbwCPNWWwJpdrOSDR14FwE/io7VyDHtjyHayPGXyj2+euhVBfdt7fUzheJrPxfWL+tiHG18eUJ7Y7THVOHn++FtK/ITq02AfHYDhUDdO0ZXnvQ2rdJ2tVikxmxoE3wsbvSja5dbZ8vCAe/JAx9tvk9oZgLWpzTNS+mH8+ZQGOtCLOVfA2NpdeKInqhlOL6RDJcDe82T8df+PzFKPgpoJIlfRn+C1o6IIpt4AGQEcFvqG9vzBbn0DxE2Og44MQr1JqD1gaXOKY3jS3GVgJmA7PPpdAfLDwnZIL5hqnXuxlV0+obp75yt/T1uJfyroxczvmUkGs4LEN9vJE/UvNsSsa2LMm82vTcXDdo+o/HQlwLvZmIzQTBhZUhkkOjW/vpA6lfy+mYiwXCXio4voZ4A6B3SuTCvuK+gOcC+SscdG1nTlrVOV1xg==;neoCbPesEeFhmg8V4b/rmQ=="
 ---
 

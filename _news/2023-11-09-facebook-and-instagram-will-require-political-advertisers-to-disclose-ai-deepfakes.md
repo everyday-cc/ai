@@ -34,7 +34,21 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "To help 2024 voters, Meta says it will begin labeling political ads that use AI-generated imagery"
+    excerpt: "Facebook and Instagram will require political ads running on their platforms to disclose if they were created using artificial intelligence, their parent company announced on Wednesday."
+    publishedDateTime: 2023-11-08T17:45:00Z
+    webUrl: "https://wcfcourier.com/news/nation-world/government-politics/to-help-2024-voters-meta-says-it-will-begin-labeling-political-ads-that-use-ai/article_3d8ccef4-7a02-5864-afe6-539bafa5d5ee.html"
+    type: article
+    provider:
+      name: The Waterloo-Cedar Falls Courier
+      domain: wcfcourier.com
+    quality: 26
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/3/d8/3d8ccef4-7a02-5864-afe6-539bafa5d5ee/654bcca41e97b.preview.jpg?crop=1671%2C877%2C0%2C31&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "CHsEjrfXFTxa+0oDIf/xiFjqX/zRIn9KGGT0+BN8vv8Av3X8Q4vBJ38h3Lamrd1F/wjaRTfESKeAb711Id06NJA2iW0bHg/ATykS8BZ0I2D2xaWRqLSD0ririSdT47vuE4DPkqpgU+CpX14uVXbW/D4RVM4pU3tvsRjZPVtUv0+cYE+kdX46g5L3+utkG9TEDGi2vgwUIVYoS8LWem5+meDSFFY85bRQi5Tg6fcOU8c2zxQBp3qa69L4m6GZCUh6tBAtLY8JtbxRPjTOtk4X7w7ectKA+QQGuNv2gv/WkBKvcz0LQxV8lRYiULBW2FbOqS69lH4IA3kaZ20O4r3LitzEs4lnUQD3v/gFUa6wGrE=;0XT23x4H9TP6n/3Ev74wgg=="
+secured: "y1sKpXTQVW22lRFQBuTi0q0eWB1sR0mv9uxx0oHFpqlOqJfEg7gmtx2BOFjw8Fgu7fTriSCrSyIDnYSPT+MRvXJMvQ/MQrxAdS7YF64Ub77+clTokQA46JxRg9d9gFmI8jvdoi1J4GCsQnNUsb9kgl+SxY/pFBHWnFrHwyItYB7QMJKI8WTxPj8KLFXzpXLO0oW5qCYtMUFk7pTSKpL2UKHgNPJW15q/ndHkEOCzAEqQTfRvf5RCGpGtXkLyIXVo9IsNwTVwiafSAnTxzQAPe/szKLzcyuGqpkQRp7qcs4nKcSTzXTYH2wz7C8IRBtYMERPv3Bfk5cOotw8PNU5kyEtE8Aex6LJt2sda97cP0mVLqqCpuEnlZnas3gUXE3RfoqwJ0kKJIiVgAkCrjTsrVeuPaFhBHPusTuDMOyAfu5iaTIm6cr8kwRlB4e0RuKZw6RcPv99dY5Nw2BQlPSUMfydfd8vcF4BNijID/SX6aLpD0ldtNE9QCBz0fn0+bbZYYLuH2zeQdc2/nq7IdRfdbg==;79flgKzIeTKNaZpBdjuRAQ=="
 ---
 

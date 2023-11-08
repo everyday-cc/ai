@@ -43,6 +43,20 @@ related:
         width: 1376
         height: 900
         isCached: true
+  - title: "AI Misinformation: How It Works and Ways to Spot It"
+    excerpt: "Google, Microsoft, OpenAI and Anthropic, an AI safety and research company, formed the Frontier Model ... Meta is bringing in the same requirement for political ads on Instagram and Facebook, from Jan. 1. \"Advertisers will have to disclose whenever a ..."
+    publishedDateTime: 2023-11-08T22:02:00Z
+    webUrl: "https://www.cnet.com/news/misinformation/ai-misinformation-how-it-works-and-ways-to-spot-it/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 69
+    images:
+      - url: "https://www.cnet.com/a/img/resize/3bd51ff06f5473e2fa93aaafe0787f4795f95c16/hub/2023/08/29/9837a45d-25aa-408c-80f7-0f958875d5e6/ai-hacking-security-hackers-apple-iphone-ios-2906-2.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "UEC Research and Innovation: Artificial intelligence for energy, materials science, and quantum computing"
     excerpt: "The University of Electro-Communications publishes the October 2023 issue of the UEC Research and Innovation online newsletter. UEC R&I"
     publishedDateTime: 2023-11-07T08:27:00Z

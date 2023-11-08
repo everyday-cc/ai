@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-08T17:50:00Z
 originalUrl: "https://www.datanami.com/2023/11/08/new-capital-one-and-forrester-study-reveals-key-challenges-of-democratizing-machine-learning/"
 webUrl: "https://www.datanami.com/2023/11/08/new-capital-one-and-forrester-study-reveals-key-challenges-of-democratizing-machine-learning/"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.datanami.com/wp-content/uploads/2023/06/ML-Tuning-shutterstock_2255695571.jpg"
@@ -24,6 +25,6 @@ images:
     height: 400
     isCached: true
 
-secured: "yVoI7Dac33so8rcKrVIi0PEC+ab+w4PPN7sxJ3Lh9p5JwzmMkGOU1QafnloQp6/ASaKSj92EyJi3/xwGAqHwgQNcKSsr52lH/NG9xSjquRs96AXCvsIJAmuKyClwQJC+XbQwEQRKxqJ7uMnWLwIRSzx5m2DboEMIyJXvTk9Ar5+XKpyHjC02i6tGYnPvy07hgXARVlhiThqb13AeBHTO9nofwSUlMsYsyVCA/JNsWfSJmMzn2O8DjIl3pEaGNb2uznoh7dpkZwmHseQP7yO3WKB5dPR4iqVHMYH9+R6QtLnYpmdUIvCTRjPsGFi4fWrbVmqry74J8cl7v5D5BxNsX3EwPnE3yUQx8KAkq0wzl+g=;K58ndwTygGhRmpdpy2fGsg=="
+secured: "ikNeNAUh/j5vAqNgejiJkxwwSdUYF7A74ctzg9rnQOqO4vV1vPAshrz4KNBqKwpYln8NBZLk7z4swz5ypTwpCPhbMPFgdiZh6xj8FU/wMneck5lDsBNglERpByQ4ecw1keO1Wj5hGmj1VeXCsLj7Qm0exqvYp6b1ZtMBv/bEqK8aB8DxMAyxg21+/v9cdBv1hIZ9idCTibS29LIPT7f3xipUw9izdf84n5M+TK8AdO2N3wPMNx5r+yMb4ODJQ21u/GFr09WMW591jl06xYvcgrHJKckjqy/TnUY1jFRhJmz95s/XdnrCJsvAh9TtPdSiwdUi4QD97EjxmFShso7C+lO4/Q/92TU1DB1C25hUc4oDzN4yws9HpkSuMbVq0V9ev6HW6wHB3ZUmVuykoMLAni8fxQto1Hs59brNvSg1Dx84E6g1n7pa6Rltoj10XO1tiz0UVd/o282BeE8xBJUFZoofhoR3tUAcZLUQ5rz6BLxyXFuhT/QRnuD/83EVimAAF1vJuifmPGI1eZVEqlNe0g==;CBCkPEkqi+C5LUQJqkvl0Q=="
 ---
 

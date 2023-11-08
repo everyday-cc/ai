@@ -60,19 +60,19 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Protecto Joins Cadre of Startups in AI Data Protection Space"
-    excerpt: "Silicon Valley startup is pitching APIs to help organizations protect data and ensure compliance throughout the AI deployment lifecycle."
-    publishedDateTime: 2023-11-08T18:16:00Z
-    webUrl: "https://www.securityweek.com/protecto-joins-cadre-of-startups-in-ai-data-protection-space/"
+  - title: "Tech startup Sixty AI offers solution for notification fatigue"
+    excerpt: "Some say it can be very triggering. Tech startup Sixty AI has created a free AI-powered assistant to lessen the alerts, pings and interruptions that we face daily. CEO Mat Ellis says it will highlight what needs your attention and manage the rest of the ..."
+    publishedDateTime: 2023-11-08T20:50:00Z
+    webUrl: "https://www.wcpo.com/news/national/tech-startup-sixty-ai-offers-solution-for-notification-fatigue"
     type: article
     provider:
-      name: SecurityWeek
-      domain: securityweek.com
+      name: WCPO Cincinnati
+      domain: wcpo.com
     quality: 37
     images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fe84c30/2147483647/strip/true/crop/2536x1331+0+42/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fa1%2F4d%2F1a18971e412596fddab27ed0cede%2Fscreen-shot-2023-11-03-at-4-34-58-pm.png"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "Retail tech startup offers an AI solution for pricing products"
     excerpt: "Retail tech startup Particl launched AI Copilot, a new product that helps customers identify both new and mispriced products, CEO Josh Wilson tells Axios. Why it matters: Retailers need sophisticated software to help them manage supply chains efficiently."
@@ -83,6 +83,15 @@ related:
       name: Axios
       domain: axios.com
     quality: 17
+  - title: "Google SGE expands to 120 countries while adding new follow-up questions, AI translation help and more definitions"
+    excerpt: "The generative AI version of Google Search, Google Search Generative Experience, is now rolling out to over 120 countries and territories. Google also added new ways to follow up with AI-generated search answers, new AI translation help, and additional AI-powered definitions."
+    publishedDateTime: 2023-11-08T18:16:00Z
+    webUrl: "https://searchengineland.com/google-sge-expands-to-120-countries-while-adding-new-follow-up-questions-ai-translation-help-and-more-definitions-434351"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 0
 
 secured: "VL4hRlWgnJaIApDVMb/bHdyfXOdvkIfg8k4tLOHI5p/WLo3C7UAHSFleVaLR+rNgyEi5gmeQbwB9oPbK3qyu1f58Zo4HK7Z+DC4Hv61sMxgRuD2vO+KaomhBYljMpUXm3Uxc/i/lV//XL0eMN6KHNOCHBATPjoxSVotKoLOvN+N8OqGMtkhgIfL9Gk2QZz2L20stX+weSjEEZe6NiK55QszGfrlEILZlvrtXFIkopmVqqKpshuIN9vBGJr4hL0qdlOibxqCsUnTA1c5EBOia3ZHHmWXpPqsXQcU751cDNE2yozdshcW2ZY81pN0iKBmmri3hjAjPHY2Wn9ltsYKxjIzazTenhJjHIO8Pw4eTluFWlD5r0AqACY5Qexz/qhQ/x78tytJmpv0YidpXw6wcE1fy50fExcL5EqFEe95L8oPNao+CdAmZGHXGMnBPqwVagYyBYyWscGCU1cd1vmGfD7ZqxeYdtj3VigOgoiz28yOsZHqM1TifexqaeuVxNz9dzjljvnJyoZt5tPje8W4ukQ==;2pLKudRPhHpwXr2cjZypFA=="
 ---

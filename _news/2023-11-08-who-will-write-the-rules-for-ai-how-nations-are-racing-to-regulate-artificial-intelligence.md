@@ -51,7 +51,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 62
+    quality: 64
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-rules.jpg"
         width: 2880
@@ -91,6 +91,15 @@ related:
       name: The Atlantic
       domain: theatlantic.com
     quality: 49
+  - title: "The Future of AI, Jobs, and Automation"
+    excerpt: "The Future of AI, Jobs, and Automation. We've entered a period of dramatic innovation in AI and automation and it's going to have a significant impact on the futur"
+    publishedDateTime: 2023-11-08T20:46:00Z
+    webUrl: "https://www.zdnet.com/collection/the-future-of-ai-jobs-and-automation/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "The Future of Augmented Reality (AR) in 2024: Applications and Innovations"
     excerpt: "The world of technology is constantly evolving, and one of the most exciting developments on the horizon is the future of Augmented Reality (AR) in 2024. AR has come a long way since its inception, and it’s poised to revolutionize various industries with its innovative applications."
     publishedDateTime: 2023-11-06T11:54:00Z

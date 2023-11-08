@@ -51,19 +51,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
-  - title: "Protecto Joins Cadre of Startups in AI Data Protection Space"
-    excerpt: "Silicon Valley startup is pitching APIs to help organizations protect data and ensure compliance throughout the AI deployment lifecycle."
-    publishedDateTime: 2023-11-08T18:16:00Z
-    webUrl: "https://www.securityweek.com/protecto-joins-cadre-of-startups-in-ai-data-protection-space/"
+  - title: "Tech startup Sixty AI offers solution for notification fatigue"
+    excerpt: "Some say it can be very triggering. Tech startup Sixty AI has created a free AI-powered assistant to lessen the alerts, pings and interruptions that we face daily. CEO Mat Ellis says it will highlight what needs your attention and manage the rest of the ..."
+    publishedDateTime: 2023-11-08T20:50:00Z
+    webUrl: "https://www.wcpo.com/news/national/tech-startup-sixty-ai-offers-solution-for-notification-fatigue"
     type: article
     provider:
-      name: SecurityWeek
-      domain: securityweek.com
+      name: WCPO Cincinnati
+      domain: wcpo.com
     quality: 37
     images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fe84c30/2147483647/strip/true/crop/2536x1331+0+42/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fa1%2F4d%2F1a18971e412596fddab27ed0cede%2Fscreen-shot-2023-11-03-at-4-34-58-pm.png"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "Conversational AI Bot: Revolutionizing Customer Interactions"
     excerpt: "In today’s fast-paced business world, customer interactions have evolved significantly. Gone are the days when customers had to navigate through a maze of options, pressing buttons on their phones or waiting for email responses."
@@ -83,6 +83,15 @@ related:
       name: Axios
       domain: axios.com
     quality: 17
+  - title: "Google SGE expands to 120 countries while adding new follow-up questions, AI translation help and more definitions"
+    excerpt: "The generative AI version of Google Search, Google Search Generative Experience, is now rolling out to over 120 countries and territories. Google also added new ways to follow up with AI-generated search answers, new AI translation help, and additional AI-powered definitions."
+    publishedDateTime: 2023-11-08T18:16:00Z
+    webUrl: "https://searchengineland.com/google-sge-expands-to-120-countries-while-adding-new-follow-up-questions-ai-translation-help-and-more-definitions-434351"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 0
 
 secured: "nTouXPeJMlnGxMiLRDTmAqg3aOvLpJePEpxCKeJYzp0buPDCWYNiavRMtOaxoMNWM5Dif8141xFmmxXbuOXb4oM2rM5CrITiwriJIa8iqyam2Fx9FZKpi3ZTFHygoW/tPd4njL5TKQ4A2qK3k5HZPxzUqmku9M+ggZg4QKHJEsssXUTVm/t/GvTlsAYCmxvm0VTeGmrovuZg1chHrJbhOSsyemJprzhttP5r/hlGyFuALzrLuCpDukhz+KG8Omw68LRk6uLZ/c3N+4a/YBE3Cw9BacQSs19jhdBj6QKg03YITsdEA9c+Gij35A5VaoMDhU3gkD0IxbVTLe2WqOPIgC035uCVXugJxoDCHNaPygU=;ilBXLZqayZ6K/7IxZVZqcg=="
 ---

@@ -35,19 +35,19 @@ related:
         width: 1600
         height: 662
         isCached: true
-  - title: "These Top Companies Are Transforming Real Estate With The Help Of AI"
-    excerpt: "These Top Companies are Transforming Real Estate with the Help of AI Artificial intelligence (AI) is quickly transforming just about every indust"
-    publishedDateTime: 2023-11-08T18:10:00Z
-    webUrl: "https://menafn.com/1107395228/These-Top-Companies-Are-Transforming-Real-Estate-With-The-Help-Of-AI"
+  - title: "The ups and downs of leveraging AI in real estate"
+    excerpt: "\"AI technology is here to stay,” Hata said ... who is a member of the National Association of Realtors and who subscribes to its strict Code of Ethics. There's more ... Looking for more real estate stories? Read Embarcadero Media's latest Real Estate ..."
+    publishedDateTime: 2023-11-08T22:40:00Z
+    webUrl: "https://www.paloaltoonline.com/real_estate/2023/11/08/the-ups-and-downs-of-leveraging-ai-in-real-estate"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Palo Alto Weekly
+      domain: paloaltoonline.com
     quality: 39
     images:
-      - url: "https://menafn.com/updates/pr/2023-11/08/B_d02e4image_story.jpg"
-        width: 845
-        height: 396
+      - url: "https://www.paloaltoonline.com/news/photos/2023/november/8/107059_col.jpg"
+        width: 2121
+        height: 1413
         isCached: true
   - title: "These Top Companies are Transforming Real Estate with the Help of AI"
     excerpt: "Artificial intelligence (AI) is quickly transforming just about every industry, including real estate. In fact, “AI has enormous potential to reshape real estate, with near- and long-term impacts ranging from the emergence of new markets and asset"
@@ -57,6 +57,15 @@ related:
     provider:
       name: BayStreet
       domain: baystreet.ca
+    quality: 19
+  - title: "These Top Companies are Transforming Real Estate with the Help of AI"
+    excerpt: "“We believe their expansive network of banks and first-in-class AI enabled fintech platform will help drive referrals to our brokers. In addition, our agreement with Janover builds on our track record and growing brand recognition within the residential ..."
+    publishedDateTime: 2023-11-08T20:40:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/CBRE-N/pressreleases/21824810/these-top-companies-are-transforming-real-estate-with-the-help-of-ai/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
     quality: 19
 
 secured: "32I3qu4juV3u0XEuoWIt6I5rszXb/Wb6DNiGDtBeatM6uvpXiCP+xn32kGHA/iGfXEzVKvKMZPjoaj4k2Ih2HSP+d/UEJ3ywVZKARKUpZLGfyE2kYYLnjuSAE8OUWQUzVwg06Ifpyzay2zEBNu2/xHDhWp0/uNLX7N+mVCPYEWxBMBrqdU+dpj0kcJXraVU5uP0dkvu1rUldyB3PisGaAvaG8IbZ9Zwfrbpvkg9pj37oH8ii7CCWL20uok/Abz5nKTlhJdBKp2nICLxR9qsJrlvaxM/LtwWXR7xUDs8aZ5YpkaXijrJcHkoDMHGTVCaXPmjafoNHcFpeTeAW+Ml5jPNI58FCSiO91u0HUbVJ61DZj+YH7trSihiQpoebknrnbY4pZhqEIa+vH4te6lATRONzKXL0tmQ0UYfh6mn1K/TUIrvP38V13NdiKvFESuAtlzSx6r7JYGQ/6jvR4mmEN8FRmAxHpxWZ+ugxpmjfdGToeuOHJgBMz2gMkq1sxXOf3ZdhQqqmv+l1u2KsXyKRzA==;74QmhKUlvcOBtlbiTeCHyw=="

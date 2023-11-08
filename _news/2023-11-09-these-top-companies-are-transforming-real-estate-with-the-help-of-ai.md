@@ -1,28 +1,22 @@
 ---
 category: news
-title: "These Top Companies Are Transforming Real Estate With The Help Of AI"
-excerpt: "These Top Companies are Transforming Real Estate with the Help of AI Artificial intelligence (AI) is quickly transforming just about every indust"
-publishedDateTime: 2023-11-08T18:10:00Z
-originalUrl: "https://menafn.com/1107395228/These-Top-Companies-Are-Transforming-Real-Estate-With-The-Help-Of-AI"
-webUrl: "https://menafn.com/1107395228/These-Top-Companies-Are-Transforming-Real-Estate-With-The-Help-Of-AI"
+title: "These Top Companies are Transforming Real Estate with the Help of AI"
+excerpt: "“We believe their expansive network of banks and first-in-class AI enabled fintech platform will help drive referrals to our brokers. In addition, our agreement with Janover builds on our track record and growing brand recognition within the residential ..."
+publishedDateTime: 2023-11-08T20:40:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/CBRE-N/pressreleases/21824810/these-top-companies-are-transforming-real-estate-with-the-help-of-ai/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/CBRE-N/pressreleases/21824810/these-top-companies-are-transforming-real-estate-with-the-help-of-ai/"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Globe and Mail
+  domain: theglobeandmail.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://menafn.com/updates/pr/2023-11/08/B_d02e4image_story.jpg"
-    width: 845
-    height: 396
-    isCached: true
 
 related:
   - title: "The Real Threat Of AI Is Untrammeled Corporate Power"
@@ -40,6 +34,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6548dcfb4388268e51cdb4a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1600
         height: 662
+        isCached: true
+  - title: "The ups and downs of leveraging AI in real estate"
+    excerpt: "\"AI technology is here to stay,” Hata said ... who is a member of the National Association of Realtors and who subscribes to its strict Code of Ethics. There's more ... Looking for more real estate stories? Read Embarcadero Media's latest Real Estate ..."
+    publishedDateTime: 2023-11-08T22:40:00Z
+    webUrl: "https://www.paloaltoonline.com/real_estate/2023/11/08/the-ups-and-downs-of-leveraging-ai-in-real-estate"
+    type: article
+    provider:
+      name: Palo Alto Weekly
+      domain: paloaltoonline.com
+    quality: 39
+    images:
+      - url: "https://www.paloaltoonline.com/news/photos/2023/november/8/107059_col.jpg"
+        width: 2121
+        height: 1413
         isCached: true
   - title: "Unleashing the Power of AI in the Internet of the Future"
     excerpt: "The Internet of the future is set to be a dynamic and transformative force, with artificial intelligence (AI) poised to play a central role. The integration of AI into the fabric of the Internet promises to unlock new realms of innovation,"
@@ -60,6 +68,6 @@ related:
       domain: baystreet.ca
     quality: 19
 
-secured: "/T2+j27fbqU6tSL29UpxUP9qrRKw7Er20g24CzT6XmQtQ8di1U4uWi6tUdMMC9F9Ht8XHhLheZIbEnU3qBfaAZY+qG+nHpGzshfuMk6hs3GkNh6thwYu0L4yeNxEaL0eNQIgK6TMLF4ZAW6/f1zG+BqC+SgDpiflGlU3Rd98uyj75NDU20rgXcXM+ly+0I7qFxhTWvhwoGw3MJEawRpaFoYhzU6QwxeGgL0aEnkgWXwry28KQY8C/ctjq22RDjZ1Ic4TdAG8/YQ5x0wu5XX/WtotsSeNfrhCf6lJajwrcY84LN2+oA4nn0d0rg1uPj8VVMUb9a40/6u7izjlG9m+UZBGcLHARV2b989YgSnSrc0=;qpWbz0nRtNY6Eas7Fll26g=="
+secured: "8BEIbCjr4mdQbdEvIrnHDeo5nKbe5sfbBwzH8XqWxrbnvkMIQOcCJ3N8QXuIPwffcOSx40qEltaTAZymwUMw8+AjhrDa3EGKhdVanxnJau6WGhZaECJLcs9TR4BksqxfATRZm8FGuIN7Qm3HyKD3UXWDx3uqYZvPER8yf/GYl9H9cTGgS7qNQYpRZc5o7NoAVICygnMel0ICC0gOiCDJGfjkmBXZ4if1sqQHaY8IXkQAvXLv0JoWLHOgjgxgfcFB2PcWNDJj6EwZ484TIjU0NSPjp93g/5E93VTg2K9hCHBMR4thVC6DHqvbRQFeGCOWOBbKRqY4pwdYCOShH7o1du+UoS2rlXv9/quFAvcJYnY=;LTCSwQVZnjqJPQHAYsjX9w=="
 ---
 

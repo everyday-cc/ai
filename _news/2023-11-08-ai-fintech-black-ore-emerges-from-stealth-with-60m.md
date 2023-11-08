@@ -51,6 +51,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Fintech Startup Black Ore Raises $60M to Bring AI to Financial Services"
+    excerpt: "Black Ore, an AI platform for financial services, launched today and announced $60 million in financing led by a16z and Oak HC/FT."
+    publishedDateTime: 2023-11-08T21:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/11/215465-fintech-startup-black-ore-raises-60m-to-bring-ai-to-financial-services/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/215465-fintech-startup-black-ore-raises-60m-to-bring-ai-to-financial-services/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/215465-fintech-startup-black-ore-raises-60m-to-bring-ai-to-financial-services/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Cyber-Dollar-AI-Artificial-Intelligence.jpg"
+        width: 1200
+        height: 1568
+        isCached: true
   - title: "5 firms leveraging AI to transform the future of FinTech in USA"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-11-06T10:46:00Z
@@ -64,6 +80,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2023/06/Generative-AI-in-Banking.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Fintechs weigh in on the White House's executive order on AI"
+    excerpt: "The order \"immediately posed the question of how do you identify these models without some sort of self regulation,\" said Amitay Kalmar, co-founder and chief executive of the AI-powered auto lending fintech Lendbuzz in Boston. \"From the outside ..."
+    publishedDateTime: 2023-11-08T21:28:00Z
+    webUrl: "https://www.americanbanker.com/news/fintechs-weigh-in-on-the-white-houses-executive-order-on-ai"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/059a66d/2147483647/strip/true/crop/5000x2625+0+442/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F20%2F42%2F44bb221f4f189976d1913ca7f581%2F393263320.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Salary hikes for IT staff take a cut; financial report card for Nykaa, Dunzo, PB Fintech"
     excerpt: "Employees at Indian IT firms are not getting the salary hikes they were used to on switching jobs anymore, data from staffing companies suggests. This and more in todays ETtech Morning Dispatch."

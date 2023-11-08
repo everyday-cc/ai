@@ -85,6 +85,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Gen AI’s promise to improve engagement with government services"
+    excerpt: "The ability to provide a conversational approach to search and virtual agents, whether in English or other languages ... The generative AI tool would facilitate direct translation in each instance. “Looking at it from the perspective of the citizen ..."
+    publishedDateTime: 2023-11-08T20:30:00Z
+    webUrl: "https://fedscoop.com/video/generative-ai-promise-to-improve-engagement-with-government-services/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2023/11/Rana-Microsite.png"
+        width: 3841
+        height: 2161
+        isCached: true
   - title: "How Chinese influencers use AI digital clones of themselves to pump out content"
     excerpt: "Questions over honesty and legality as livestreamers, particularly in online shopping, use avatars to boost their earnings"
     publishedDateTime: 2023-11-05T23:08:00Z

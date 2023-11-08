@@ -7,8 +7,8 @@ originalUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Intel-races-t
 webUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Intel-races-to-catch-rivals-as-AI-boom-supercharges-chip-competition"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Nikkei Asia
@@ -39,6 +39,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Intel’s new overclocking tool does AI all wrong"
+    excerpt: "Intel's new AI Assist feature, which promises higher overclocking performance with the touch of a button, doesn't seem to be doing much."
+    publishedDateTime: 2023-11-08T18:31:00Z
+    webUrl: "https://www.digitaltrends.com/computing/intel-ai-assist-overclocking-tested/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 49
 
 secured: "dYSj4hVr5fL3auJFF/fEAcihZdEZrMkXqlVH79KCB2P3ZB8rsVngryv5LKAtXO+eH44oEzHdzqxaPxlNnOWZxrb86rPhl5MEHZOa4gAeJlPd7fwiHHaB6msbIvOM8hJjxMYqRv378h1/m5Rv2nThAhn4vnjL5E4oMaI5c1QtRhqA7E+T5r+U0yF9draIJUTN/BPAJd9t9kmbKhD1ulMxdkKhCkfhAEwzElFSL9xgksVCxJOqU1Q4lKDSxCD+5VPFseoNpIzDUC/QCoWZvJdCSOBUZYEp3dGuSb7GV2Yzzosv/pMa8Dz0+790GCKMujZQoi68VUJ+wZ8dfWHtlwwhR9PbuBzQCtKMJ6ojJV4/bSQ=;TP41Xltjdl0E2DlUc4Wqsg=="
 ---

@@ -39,6 +39,15 @@ related:
         width: 1260
         height: 571
         isCached: true
+  - title: "New Odyssey Ai-ONE Putter Goes All-In on Artificial Intelligence, and Results are Stunning"
+    excerpt: "So Callaway tapped into the powers of AI to create a putter face that stays more consistent with ball speed, even when you miss the center of the face. Shop: Buy the AI-powered Odyssey putter now through our partners at PGA Tour Superstore And they ended up creating the Ai ONE."
+    publishedDateTime: 2023-11-08T18:56:00Z
+    webUrl: "https://www.si.com/golf/news/odyssey-ai-one-putter-artificial-intelligence-results-stunning"
+    type: article
+    provider:
+      name: Sports Illustrated
+      domain: si.com
+    quality: 24
 
 secured: "B4vT+T0Zb1e3xRr99M4kmMMpUxkOJ87f2Yh/DUEp+2Uc60I5Ol1qx7DwQHF/LtHNmq+DcBQO2uN8NYsjSWG2VcyBdxbJVczGLxiWYn42qEnLWkAaSmUaukT/jy+0BVwYEapXuCfizmkH7FSdDj62vfTc/D9BGlTbw15GQxFoROqHV23bcA6Ps2LrO34yERL9Rh947yQHCubGGmqAIQMLuPtbT/x1F7bGTFFjwPBJf2E7xenO+moZS9jHzAxeIIVaSe2SqGIDyf0fFdS01LD79smtpzkTKmWiGMHdxC4SX5JIZjOAF8K7i9aor8Go67X0jnlPMdM6l1qa66SGhiS99FjOgpE5cEIZF+NRf/OXTfSg2/60K/RoWZdhx2/uFmRkYihqW8qwtL5ymiTn3M4H/LXETRFKO3X1PGCSRucw6VuiRt+A/mbRJiGDFnNtXZR2yXWBR+TKzhK+M2UHbcI+J/bLE5ydIPfR6iagUS2XrHr64dkzrU7SzUjguabhWslWTjKgIEZOIUqxJ9oJGSdoVQ==;US0sEJHNY0emyytjXXy+Uw=="
 ---

@@ -58,13 +58,13 @@ related:
         height: 522
         isCached: true
   - title: "Orkes Brings Generative AI and Human-in-the-Loop Capabilities to Microservices and Workflow Orchestration"
-    excerpt: "Orkes, the enterprise microservices and workflow orchestration platform for Netflix Conductor used by companies like United Wholesale Insurance, Foxtel, and Normalyze, has released new capabilities that allow organizations to implement generative AI models and vector databases directly into their microservices infrastructure and business workflows."
-    publishedDateTime: 2023-11-08T17:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-orkes-brings-generative-ai-human-in-the-loop-/2023/11/08/9914305.htm"
+    excerpt: "Orkes has released new capabilities that allow organizations to implement generative AI models and vector databases"
+    publishedDateTime: 2023-11-08T20:13:00Z
+    webUrl: "https://www.datanami.com/this-just-in/orkes-brings-generative-ai-and-human-in-the-loop-capabilities-to-microservices-and-workflow-orchestration/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: datanami.com
+      domain: datanami.com
     quality: 2
 
 secured: "hkYzuCfhXn2hE/ikl0ugq7oYOU+3cw7gCvYcVkGnxLpm4kit7o8liS8djLmC7KVA2ZRh85JPuhd4SYPzK/EKRJW3JCWWdHpVEtA0HyvxXzLFsm1pMRkOepOtnWAH7b8HJc2j7I27A7k8CBMfAZcSzaF3PrU1I4vjRGwKCyApoqPzjalflk6cfH7a1tGm6a8GGfGkzydU48nq5LCczOdHE2+cI5JDuv6EBmY//3urSIb2N/KMdbPFGveRAmlGbds6z+MM0mRETrxXo9JQKoTHiP/wWpBkN7tO9ENanHmLsOMbOMUEzx7zRavbnjYBw60Ntop8aLC3IhDBedcEkQpwT0hmios1ZfhOHhBQTe8dbI8=;CuMskYW9M9dHgQDYf15aCQ=="

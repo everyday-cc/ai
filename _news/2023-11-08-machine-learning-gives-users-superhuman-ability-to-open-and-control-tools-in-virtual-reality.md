@@ -26,6 +26,17 @@ images:
     height: 1092
     isCached: true
 
+related:
+  - title: "Machine learning gives users 'superhuman' ability to open and control tools in virtual reality"
+    excerpt: "Researchers have developed a virtual reality application where a range of 3D modelling tools can be opened and controlled using just the movement of a user's hand."
+    publishedDateTime: 2023-11-08T20:33:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/11/231107131923.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 37
+
 secured: "ITCuEzjmLMQ5nB2f5C9Sb8DKgjPwaeVzlqZbyUR90CfyH48jehIU/LAkdX1+DOSV6r3kJroYpAyf325gocsRxTcUtAMKmbrFldBBMLbsAqdWpzgfIlo1ph20LMygbcBrD1ydTwgn9HKQw3SXSoxyBUkkeAF2rX3tBGNUS1jFHJPftU3QRYh98nx/Db1VpCuh/4xmGwYWQ9x9wWbE6S2INxnWfQkMz17JjICerK+gOkaSZQxfNgNvlll2OxDQJjo5veoS97Fd+z21q8lSey9YFqk6zivXZcSVfas025icIp89e7dMaYC3MGYFdY+xbr618hwE5Pd+w8t5PMO6C8uf60IJDrH5m4nodDfu3GBCt8VHRqQ9mu7gxEL1N8fzIm3qIQK5iVMGOoyEjflej1xLFc1G64G7uE52E8/qwdkelnzzrGEZ/ScsAXsdX/18yb9eyecsjc5doW7/MWoGJAuwe7ip4TKrMS/f8F6R7k46vaHtYO05VHqU/WiSVQpMuI3I7FFj4CyVM2wiOxQefuMVhQ==;MXm9RrrGN8A9t3cr8TvV1Q=="
 ---
 

@@ -43,6 +43,20 @@ related:
         width: 2400
         height: 1260
         isCached: true
+  - title: "Microsoft will use Oracle cloud GPUs to sustain Bing AI's computing needs"
+    excerpt: "Microsoft and Oracle have announced a multi-year agreement on a cloud collaboration for AI inferencing. The Redmond tech titan will essentially rent some cloud computing capacity"
+    publishedDateTime: 2023-11-08T21:04:00Z
+    webUrl: "https://www.techspot.com/news/100781-microsoft-use-oracle-cloud-gpus-sustain-bing-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 100
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-08-image-7.png"
+        width: 2501
+        height: 1309
+        isCached: true
   - title: "Microsoft is renting GPU power from Oracle to push its AI work forward"
     excerpt: "Microsoft and Oracle have entered a new multi-year partnership that will not only see cloud and AI companies face a greater threat, but also search. The agreement will see Microsoft use its own Azure AI infrastructure along with Oracle Cloud Infrastructure (OCI) AI to make its search engine even more powerful, and Google may want to start worrying."
     publishedDateTime: 2023-11-08T14:20:00Z
