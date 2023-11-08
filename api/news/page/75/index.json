@@ -2,6 +2,50 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2023-09-13-exploring-patient-provider-perceptions-of-healthcare-ai.md",
+      "title": "Exploring Patient, Provider Perceptions of Healthcare AI",
+      "excerpt": "Advances in healthcare artificial intelligence have received significant hype, but patients and providers are still cautious of these new technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/features/exploring-patient-provider-perceptions-of-healthcare-ai",
+      "originalUrl": "https://healthitanalytics.com/features/exploring-patient-provider-perceptions-of-healthcare-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_sdoh.png",
+          "width": 690,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-13T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-unlock-innovation-today-and-for-tomorrow-with-a-future-ready-digital-infrastructure.md",
       "title": "Unlock innovation today and for tomorrow with a future-ready digital infrastructure",
       "excerpt": "IBM is assisting clients in making informed architectural decisions to future-ready their businesses, allowing for the creation of sustained value in the long run.\nThe post Unlock innovation today and for tomorrow with a future-ready digital infrastructure appeared first on IBM Blog.\n",
@@ -1093,57 +1137,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-alibaba-introduces-ai-model-to-public.md",
-      "title": "Alibaba Introduces AI Model to Public",
-      "excerpt": "Alibaba has launched its artificial-intelligence model, making it the latest Chinese company to tap the country’s fast-growing AI market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/tech/ai/alibaba-introduces-ai-model-to-public-bd120c33",
-      "originalUrl": "https://www.wsj.com/tech/ai/alibaba-introduces-ai-model-to-public-bd120c33",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-851207/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T21:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

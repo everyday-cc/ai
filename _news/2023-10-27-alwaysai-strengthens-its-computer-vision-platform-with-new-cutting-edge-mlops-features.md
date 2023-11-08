@@ -1,24 +1,20 @@
 ---
 category: news
-title: "alwaysAI Strengthens its Computer Vision Platform With New Cutting-Edge MLOps Features"
-excerpt: "SAN DIEGO, Oct. 26, 2023 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision leader, is thrilled to announce the release of enhanced MLOps features to its comprehensive computer vision platform. These integrated capabilities solidify alwaysAI as a premier ..."
-publishedDateTime: 2023-10-26T17:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/alwaysai-strengthens-its-computer-vision-platform-with-new-cutting-edge-mlops-features-1032745213"
-webUrl: "https://markets.businessinsider.com/news/stocks/alwaysai-strengthens-its-computer-vision-platform-with-new-cutting-edge-mlops-features-1032745213"
+title: "alwaysAI Strengthens Its Computer Vision Platform with New Cutting-Edge MLOps Features"
+excerpt: "SAN DIEGO, Oct. 27, 2023 -- alwaysAI, a computer vision leader, is thrilled to announce the release of enhanced MLOps features to its comprehensive"
+publishedDateTime: 2023-10-27T16:39:00Z
+originalUrl: "https://www.datanami.com/this-just-in/alwaysai-strengthens-its-computer-vision-platform-with-new-cutting-edge-mlops-features/"
+webUrl: "https://www.datanami.com/this-just-in/alwaysai-strengthens-its-computer-vision-platform-with-new-cutting-edge-mlops-features/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "YlpTfK2XisTpS7L5SWDpoylgz2JSaFU8qNFKDG8YInvBr11VA5mB1OcBNtpw5+7cP0O7JzV9P8NPRpKLMRxrheVow2w0i1XW0fOcNu56lx5/eUNhg31ncGPO9Dnir1SoHAtkfK+N1xhGLTJ6W6i9taTojAUerNwWLfErBfSbI6DE/q9q9I8gJLcwk/KdBhPBF5J951gbdYm1W3gkdVwSZ4A16rKYf+PUTpMADb7efPcEbMFUxB5wEHF6slV8WI2cIzHgjPGMXzKMgO2LGGPIaxIQ3XdiSUCwultrwE4LGrVLfbXsy/R2dXnqJ45RZIJdXcdMNLLLK87ZbqBV+ClDthMMKc9w0aZvBebRBM17TaA=;Y41H5ePvDuyDtKvsixtbpQ=="
+secured: "CGyHexa1yg5RYGHWgNlA9zkv8Hx0tSBz+3iXBjU//xTvY7EjRvZnzLcyag4KcLSExI+WN1dPPbFNHYXlAyPl0nmbDag67OpxU6W+2cVaSvJuXH5hPBeNzdoHBI5exaaJ0AdVQuKBU+mpB8wWS5uauf4+JuYbWvz5QJBzIBXZMZKQ5ffeOgxnn379fWQw7BeVbioCq7Ce2eBfBVaZqsRt4v6E0gfmMrAo4QAjY1LFvqe+1/HOHhEIoT/c29/LjaaRr9xttz3K8s8S0rh47QZtX/g9tjJvOmLPxyRz0uu9OALnoWqjmVTj4CAsbTeU/iMv+I3a0mDkN9H31fJBlsktbNftv6+G3u3iQ3HgcbvLBCVHrtlLy+KQgaeafWce0YlHbTkTSQRtISOHwtAEHKD5q0RPfsXKFShgcRSX/mBAnTcPm/QFFJUSAEqUGBWB+YbSqUNl23/oU4gpWlviN7phVx/gbqRN7SLlDFsZXh2/uheXWw2WpBjX8m6lEHZyMuqEmo5oq5ynF5SJk9qiyw+aoQ==;NVy7c2c85mMZnUNXOF2Q4A=="
 ---
 

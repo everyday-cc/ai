@@ -2,6 +2,57 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2023-08-31-generative-ai-startup-ai21-labs-lands-155m-at-a-14b-valuation.md",
+      "title": "Generative AI startup AI21 Labs lands $155M at a $1.4B valuation",
+      "excerpt": "AI21 Labs, a company competing against OpenAI and Anthropic, among other generative AI players, has raised $155 million in capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/",
+      "originalUrl": "https://techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1463459171.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/amp/",
+      "publishedDateTime": "2023-08-30T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-how-to-use-claude-ai-and-how-its-different-from-chatgpt.md",
       "title": "How to use Claude AI (and how it's different from ChatGPT)",
       "excerpt": "The Claude AI chatbot is trained on the latest real-time data and is accessible through Slack. Here's what else you need to know.",
@@ -1157,58 +1208,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-this-healthcare-stock-has-been-a-hotter-buy-than-amazon-and-alphabet-this-year.md",
-      "title": "This Healthcare Stock Has Been a Hotter Buy Than Amazon and Alphabet This Year",
-      "excerpt": "Artificial intelligence is exciting, but there are also big opportunities in healthcare, specifically in the market for clear aligners. Align Technology is a big company in that space, and its growth rate picked up this year. A look at share prices in 2023 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/08/30/healthcare-stock-hotter-buy-amazon-alphabet/",
-      "originalUrl": "https://www.fool.com/investing/2023/08/30/healthcare-stock-hotter-buy-amazon-alphabet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/745587/investor-pointing-at-a-chart.jpg",
-          "width": 3000,
-          "height": 2001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

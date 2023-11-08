@@ -3,8 +3,8 @@ category: news
 title: "Cops are falling in love with AI, and it’s much deeper than facial recognition"
 excerpt: "While facial recognition has well-known bias and privacy problems when it comes to law enforcement, tech companies are pitching a variety of new ways to use AI for policing."
 publishedDateTime: 2023-11-07T22:22:00Z
-originalUrl: "https://www.aol.com/cops-falling-love-ai-much-202236582.html"
-webUrl: "https://www.aol.com/cops-falling-love-ai-much-202236582.html"
+originalUrl: "https://www.aol.com/cops-falling-love-ai-much-202236582.html?ref=biztoc.com"
+webUrl: "https://www.aol.com/cops-falling-love-ai-much-202236582.html?ref=biztoc.com"
 type: article
 quality: 52
 heat: -1
@@ -15,9 +15,9 @@ provider:
   domain: aol.com
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
+  - Computer Vision
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/z5O7HXv3L4rOlk9usGH65Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/fd4f9afbf7a108eb72c189acbbde337d"
@@ -64,6 +64,6 @@ related:
       domain: thegrio.com
     quality: 32
 
-secured: "exIq9pGCW09xUBkvnFjmgC2gJzyGwuqE403TlGnz8Y6HGjsVKHVKjlwFaB1c6UlyyaGt+9nZj4Ka6Ro2Z6rG8rKZTT3yd1e0uA8mWWVLmLIf4rrnisu2QZ19x+jbPWA22/VUGh+yvklQtBYlfHr7Qhn8y8ltt4eoy/G+YWK8dks2ls2ml6IsNRg1y6lSkj8wOFjIkcjtEhLIo2pN8fssDEcbvUYzctLvQm/AyjdMqkhcqv/OMRVc0t2AMqwSklDtzDT09ilynN0sqGxEqSs8Rcs3wBpFQJIhx6V1RdJyILO3eUxxSkBAz8tyJkMt7/00KWQCTiPfHJN2Ujig/cBnmeBV9cgjSC+BszjdyOLs31x1ktSL6iqGqGgXhR7I/tEjJyYjJHjyOl7JQiZrwNzVeWf4jP/xlGUuEQmChcI9e40335CSuW14ZMzVXGV+XYD5imjIk80gOa+1RzHS/uXgxAnI0PdiaKrenpTF93GlBay4S1DUAjDJmR+IKbvPfsHgc401fITMTkZ6/Sg15yNR5g==;Riw2SaPl/CEfnRg0GKaw2Q=="
+secured: "p2pWD2TlJeJ3mMol/UjJKpyhGcgo7I9Ajsx09Xa+m71G6Ig7HCboiXNL0OoTtaPKpNwqVLglGGrMK2XYqV8EgwU0Gll48NB9+Qfy1ZDPQfJTdqzMeH6AUlaGllT2nduN8vnhvx6zk2eaM/OQsWRAvn6d779Wy7T3anjLiFDi+3xC7rHvL5eXEzgUD+JgwVJ/CH4/fWGFPw+T6siCffm1l/p7iZNviH7sNnHAWzpIFG3yzV+UCaD66Yqx5bzmQgRit6axRG18Mfnwyj2QZvzKHrgmoC2lLEZgr2XaaZMVA55fQgeofBPLPlGGKocj3Uv+au65q7XxgQk07CVHQrIgJdvat/+rqjdoP+FXHqGj4As=;FNfoGskptdGR+6+l2H2pxg=="
 ---
 

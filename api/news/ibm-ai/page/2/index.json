@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-18-ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai.md",
+      "title": "IBM inks pact with govt to boost innovation in semiconductors, AI",
+      "excerpt": "IBM and the government will set up a national AI innovation platform, which will have access to the company's recently announced Watson X platform",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai-11697644499263.html",
+      "originalUrl": "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai-11697644499263.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/APPTIO-M-A-IBM-0_1687582422475_1697644944670.JPG",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html",
+      "publishedDateTime": "2023-10-18T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-ey-and-ibm-team-up-on-ai-to-automate-hr-processes.md",
       "title": "EY and IBM team up on AI to automate HR processes",
       "excerpt": "EY plans to tap IBM's Watsonx Orchestrate to automate HR processes like drafting job descriptons and analyzing employee feedback surveys.",
@@ -1286,49 +1329,6 @@
       "provider": {
         "name": "CIO",
         "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-ibm-long-term-potential-with-ai-rating-upgrade.md",
-      "title": "IBM: Long-Term Potential With AI (Rating Upgrade)",
-      "excerpt": "the company is solidifying itself as the leader in enterprise AI, which will pay handsomely in the end. IBM is a pioneer in this segment and is innovating continuously, which in the next couple of ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4639263-ibm-long-term-potential-with-ai-rating-upgrade",
-      "originalUrl": "https://seekingalpha.com/article/4639263-ibm-long-term-potential-with-ai-rating-upgrade",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1464561575/image_1464561575.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-05T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null

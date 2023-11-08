@@ -66,6 +66,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "President Xi Jinping tells Chinese internet conference he seeks keen eye on AI and regard for cyber sovereignty"
+    excerpt: "Chinese President Xi Jinping has called for the “proper handling” of challenges posed by technology innovation, including “conflicts of rules, social risks and ethics”, as well as the safe development of AI in a video speech delivered on Wednesday."
+    publishedDateTime: 2023-11-08T06:47:00Z
+    webUrl: "https://www.scmp.com/news/china/politics/article/3240748/president-xi-jinping-tells-chinese-internet-conference-he-seeks-keen-eye-ai-and-regard-cyber"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 49
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2023/11/08/c238e178-6cf6-4dc6-987f-c1259475b804_b38bcb82.jpg?itok=98DUHj-X&v=1699426047"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ant Group Wins Approval to Release AI Products to Chinese Public"
     excerpt: "SHANGHAI (Reuters) - Ant Group has received Chinese government approval to release products powered by its \"Bailing\" artificial intelligence (AI) large language model to the public, a spokesperson for the Chinese firm said on Monday."
     publishedDateTime: 2023-11-06T02:38:00Z

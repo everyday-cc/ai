@@ -37,15 +37,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "IBM Expands Relationship With AWS To Deepen Generative AI Innovation And Launch A New Innovation Lab In India"
-    excerpt: "November 7, 2023-- IBM (NYSE: IBM) today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from the latest technologies,"
-    publishedDateTime: 2023-11-07T13:20:00Z
-    webUrl: "https://menafn.com/1107384841/IBM-Expands-Relationship-With-AWS-To-Deepen-Generative-AI-Innovation-And-Launch-A-New-Innovation-Lab-In-India"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 15
 
 secured: "e4FtJX+UuOIzFyH9xBk/PVAW83ossFeJkHr7lqWk7XQ3maVzuNx7xRDfMRiNPPcYFPgzSgFqRA3pMyonwX6QWO3U1AxM02GMSf49jLJ3tCE5bERZWrnzAb8MPPBx9OtIfvHTBgWOkESTrvlGNPQHsn0VS7FVCcJLnKaBnpSpyjoI8omLNtGG14LSH8cO8njLB6pnbu8mRAGV3OduCP4kW73BbU4OZjjeKFwq2oHpJBfumOBbOBy8cs2u38WOb+QxD3iRxqZg4POWAczXDa80j+WxaFqf/qN7uSq3KDQfBJ5aojHXMbwlrat0lI1/qE9uVTYHTRG6SNVVFGQkGp2B294x7CynMgVfS4frgYGL3dk=;3ongYWTEsBVgSW/kqMSl7w=="
 ---

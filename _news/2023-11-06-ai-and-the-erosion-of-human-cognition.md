@@ -47,20 +47,6 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "Swarm Robotics Market to Touch USD 6.53 Billion by 2030 on Account of Advancements in Artificial Intelligence and Robotics"
-    excerpt: "Swarm Robotics Market to Touch USD 653 Billion by 2030 on Account of Advancements in Artificial Intelligence and Robotics nbsp"
-    publishedDateTime: 2023-11-03T13:13:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/274020577/swarm-robotics-market-to-touch-usd-653-billion-by-2030-on-account-of-advancements-in-artificial-intelligence-and-robotics"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 43
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2023/11/icn467205-icnSNS-INSIDER-300X300.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "dVpkrjEUmH27zZWp4qPWqC+XPcRuhkHxTK13rka/q2QMiIu/1Eb5PTv/e8qByz5UpdbKthnvugcW0h7atgL94Qu/nJ1GDUzyQ89N0KLUgWiLg1s3Y2dWkr0J3Wb3zOApkQ4bybsCL7JZxd25/Xq0iT9KYIVJVC15/WbIrNko1nly6Loc3S3724lV90KizgWNMFcGsbCVbMZpRDKQCL0SFkgiejymSz7KiFy6nG0J/r87N7khou90HSeHZEONG+w6pqeb2vFfe/aSuaTzsw+Xw+NGseWiUVXgMOilJ0Pw8vd2Z2KC7Da4ZGCNXb/vhbFSzG4wD+YpPypt8oh7+mR1a+y8s/DXY5mEL8qCWVOkJtxygLjXC4Gssvu70nwKtgLCAZbajHmrzy8X6EIpyn4DA7yWqS3ryY6ys2bSxSlR6bFBPid+HAkalB4rBEltRyNJ94G6NDXbFYVBVxEqQ61jUSMPJ8RxsP6OLXzG9Yv+UutK93CcdJoZoHacEKcr53zjBCdtcD+zvQ5nffzHn6KzxA==;zgGHw+DV/K7bz55Ri118dg=="
 ---

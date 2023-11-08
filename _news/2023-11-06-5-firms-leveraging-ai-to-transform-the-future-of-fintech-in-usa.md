@@ -41,6 +41,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Smart banking leads the road to our fintech future"
+    excerpt: "The future of banking lies in touch-based and voice-enabled transactions, and the demand for that change is rising with each day. To integrate the future of cashless technology, banks in Bangladesh have to ensure banking services that are accessible anytime and anywhere"
+    publishedDateTime: 2023-11-08T05:39:00Z
+    webUrl: "https://www.dhakatribune.com/business/banks/330402/smart-banking-leads-the-road-to-our-fintech-future"
+    ampWebUrl: "https://www.dhakatribune.com/amp/business/banks/330402/smart-banking-leads-the-road-to-our-fintech-future"
+    cdnAmpWebUrl: "https://www-dhakatribune-com.cdn.ampproject.org/c/s/www.dhakatribune.com/amp/business/banks/330402/smart-banking-leads-the-road-to-our-fintech-future"
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 59
+    images:
+      - url: "https://ecdn.dhakatribune.net/contents/cache/images/600x315x1/uploads/media/2023/11/08/Smart-Banking-18d54092c4929545e64c7d74c1de947b.jpg?jadewits_media_id=8618"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Salary hikes for IT staff take a cut; financial report card for Nykaa, Dunzo, PB Fintech"
     excerpt: "Employees at Indian IT firms are not getting the salary hikes they were used to on switching jobs anymore, data from staffing companies suggests. This and more in todays ETtech Morning Dispatch."
     publishedDateTime: 2023-11-07T01:49:00Z

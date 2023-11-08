@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-10-26-ggv-capital-us-backs-arteria-ais-digital-makeover-for-financial-document-creation.md",
+      "title": "GGV Capital U.S. backs Arteria AI’s digital makeover for financial document creation",
+      "excerpt": "The company’s platform structures data when a contract is drafted, and an intelligent workflow helps speed up the decision-making process.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/26/ggv-capital-arteria-ai-digital-financial-documents/",
+      "originalUrl": "https://techcrunch.com/2023/10/26/ggv-capital-arteria-ai-digital-financial-documents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/3X2A0832CaleyTaylor61.jpg?resize=1200,740",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/26/ggv-capital-arteria-ai-digital-financial-documents/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/26/ggv-capital-arteria-ai-digital-financial-documents/amp/",
+      "publishedDateTime": "2023-10-26T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-artificial-intelligence-company-from-silicon-valley-entres-bihar.md",
       "title": "Artificial Intelligence company from Silicon Valley entres Bihar",
       "excerpt": "A Silicon Valley-based Artificial Intelligence company has opened an office in Bihar, making it the first IT company from the US",
@@ -1124,40 +1175,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-stackpath-launches-gpu-accelerated-edge-compute-instances.md",
-      "title": "StackPath Launches GPU-Accelerated Edge Compute Instances",
-      "excerpt": "DALLAS, Oct. 25, 2023 /PRNewswire/ -- StackPath, the industry-leading edge computing platform, today announced the addition of NVIDIA GPU-Accelerated Instances to its Virtual Machine (VM) and Container product options.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/25/9905503.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/25/9905503.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

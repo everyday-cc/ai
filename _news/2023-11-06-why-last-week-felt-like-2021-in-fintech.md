@@ -39,6 +39,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Smart banking leads the road to our fintech future"
+    excerpt: "The future of banking lies in touch-based and voice-enabled transactions, and the demand for that change is rising with each day. To integrate the future of cashless technology, banks in Bangladesh have to ensure banking services that are accessible anytime and anywhere"
+    publishedDateTime: 2023-11-08T05:39:00Z
+    webUrl: "https://www.dhakatribune.com/business/banks/330402/smart-banking-leads-the-road-to-our-fintech-future"
+    ampWebUrl: "https://www.dhakatribune.com/amp/business/banks/330402/smart-banking-leads-the-road-to-our-fintech-future"
+    cdnAmpWebUrl: "https://www-dhakatribune-com.cdn.ampproject.org/c/s/www.dhakatribune.com/amp/business/banks/330402/smart-banking-leads-the-road-to-our-fintech-future"
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 59
+    images:
+      - url: "https://ecdn.dhakatribune.net/contents/cache/images/600x315x1/uploads/media/2023/11/08/Smart-Banking-18d54092c4929545e64c7d74c1de947b.jpg?jadewits_media_id=8618"
+        width: 600
+        height: 315
+        isCached: true
   - title: "5 firms leveraging AI to transform the future of FinTech in USA"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-11-06T10:46:00Z

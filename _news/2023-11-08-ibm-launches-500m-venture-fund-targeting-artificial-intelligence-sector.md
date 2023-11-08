@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Continues AI Push With $500M Enterprise AI Venture Fund"
+    excerpt: "IBM has unveiled a $500 million venture fund to invest in AI companies, ranging from early-stage startups to high-growth enterprises."
+    publishedDateTime: 2023-11-08T05:09:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/651cb4a382d94a88ea799277/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1353
+        height: 900
+        isCached: true
   - title: "IBM, which invested in Hugging Face, launches $500M enterprise AI venture fund"
     excerpt: "IBM announced today that it is launching a $500 million venture fund to invest in enterprise AI-focused startups."
     publishedDateTime: 2023-11-08T00:03:00Z
@@ -40,6 +56,15 @@ related:
         width: 1200
         height: 685
         isCached: true
+  - title: "Lidl owner and Bosch Ventures co-lead $500M Series B into German AI startup Aleph Alpha"
+    excerpt: "German AI startup Aleph Alpha has raised a Series B funding round of $500 million from a consortium of seven new investors, as well as existing investors"
+    publishedDateTime: 2023-11-06T17:30:00Z
+    webUrl: "https://techcrunch.com/2023/11/06/lidl-owner-and-bosch-ventures-co-lead-500m-series-b-into-german-ai-start-up-aleph-alpha/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 39
   - title: "IBM launches $500M fund to invest in enterprise AI startups"
     excerpt: "IBM already made a number of AI startup investments prior to the launch of the fund. In September, it backed a $50 million round for HiddenLayer Inc., which develops a platform designed to protect language models from cyberattacks. IBM earlier joined a $ ..."
     publishedDateTime: 2023-11-07T22:36:00Z

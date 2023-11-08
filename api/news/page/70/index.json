@@ -2,6 +2,57 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-09-17-is-this-artificial-intelligence-ai-stock-worth-buying-following-a-41-dip.md",
+      "title": "Is This Artificial Intelligence (AI) Stock Worth Buying Following a 41% Dip?",
+      "excerpt": "C3.ai expects to report a bigger loss in its fiscal 2024. The AI software specialist is looking to invest more money into generative AI, but its deal activity has plateaued. The stock remains expensive given the growth it's delivering. It looks like the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/09/17/is-this-artificial-intelligence-ai-stock-worth-buy/",
+      "originalUrl": "https://www.fool.com/investing/2023/09/17/is-this-artificial-intelligence-ai-stock-worth-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/747509/person-looking-at-charts-on-a-computer-screen.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-17T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-17-deep-learning-for-biomedical-image-reconstruction.md",
       "title": "Deep Learning for Biomedical Image Reconstruction",
       "excerpt": "The background theory of deep learning is introduced step-by-step, and by incorporating modeling fundamentals this book explains how to implement deep learning in a variety of modalities, including X-ray, CT, MRI and others. Real-world examples demonstrate ...",
@@ -1040,58 +1091,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-16-answering-ais-biggest-questions-requires-an-interdisciplinary-approach.md",
-      "title": "Answering AI’s biggest questions requires an interdisciplinary approach",
-      "excerpt": "building a holistic lineup is a good place to start. We have to build a more responsible future where companies are trusted stewards of people’s data and where AI-driven innovation is synonymous with good. In the past, legal teams carried the water on ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/15/answering-ais-biggest-questions-requires-an-interdisciplinary-approach/",
-      "originalUrl": "https://techcrunch.com/2023/09/15/answering-ais-biggest-questions-requires-an-interdisciplinary-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1349363964.jpg?resize=1200,765",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/15/answering-ais-biggest-questions-requires-an-interdisciplinary-approach/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/15/answering-ais-biggest-questions-requires-an-interdisciplinary-approach/amp/",
-      "publishedDateTime": "2023-09-15T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

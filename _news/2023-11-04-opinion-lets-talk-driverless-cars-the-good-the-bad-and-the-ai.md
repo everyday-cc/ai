@@ -7,8 +7,8 @@ originalUrl: "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-th
 webUrl: "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/?news-columnists"
 type: article
 quality: 54
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Arkansas Democrat-Gazette
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "From goat exports to driverless vehicles: the 21 bills in the king’s speech"
+    excerpt: "Proposed measures that made it into Rishi Sunak’s pre-election legislative programme – and those that didn’t Here are the 21 bills that made it into the final legislative programme before the next election: Animal welfare bill This policy aims to ..."
+    publishedDateTime: 2023-11-08T06:49:00Z
+    webUrl: "https://www.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak?ref=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/365b8ec8af0b0bb67c98245c07c91906fd7baf3f/706_180_2048_1229/master/2048.jpg?width=620&quality=85&auto=format&fit=max&s=0ed06d056c92fe4682fdb128f2c0051b"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Tech bosses hope driverless car laws will clear the road for UK software industry"
     excerpt: "Among a slate of about 25 bills, the king could announce the government’s intention to legislate in a clutch of areas that are important for businesses, including housing, energy infrastructure, pensions reform, driverless cars and media regulation."
     publishedDateTime: 2023-11-06T01:34:00Z

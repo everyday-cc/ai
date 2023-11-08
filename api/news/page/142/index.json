@@ -2,6 +2,49 @@
   "page": 142,
   "value": [
     {
+      "path": "_news/2023-07-28-google-unveils-ai-robot-rt-2-translates-vision-and-language-into-robotic-actions.md",
+      "title": "Google Unveils AI Robot: RT-2 Translates Vision and Language into Robotic Actions",
+      "excerpt": "Google this Friday disclosed its new artificial intelligence model that translates vision and language into robotic actions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/07/33444703/google-unveils-ai-robot-rt-2-translates-vision-and-language-into-robotic-actions",
+      "originalUrl": "https://www.benzinga.com/news/23/07/33444703/google-unveils-ai-robot-rt-2-translates-vision-and-language-into-robotic-actions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/07/28/google_ai.png?width=1200&height=800&fit=crop",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33444703",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33444703",
+      "publishedDateTime": "2023-07-28T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-generative-ai-could-undermine-upcoming-elections-in-us-and-india-startup-warns.md",
       "title": "Generative AI could undermine upcoming elections in US and India, startup warns",
       "excerpt": "Three popular generative AI platforms could be used to spread election disinformation, according to new research.",
@@ -1120,59 +1163,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-lg-v30-closer-look-security-features-including-facial-and-voice-recognition.md",
-      "title": "LG V30 closer look: Security features, including facial and voice recognition",
-      "excerpt": "The voice recognition feature is pretty cool, and like the others, it works quite well. Once you turn it on though, you'll be greeted with a message about how it's not quite secure, as someone ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/lg-v30-closer-look-security-features-including-facial-and-voice-recognition/",
-      "originalUrl": "https://www.neowin.net/news/lg-v30-closer-look-security-features-including-facial-and-voice-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2017/08/1504061717_img_2491_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/lg-v30-closer-look-security-features-including-facial-and-voice-recognition/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/lg-v30-closer-look-security-features-including-facial-and-voice-recognition/",
-      "publishedDateTime": "2023-07-28T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

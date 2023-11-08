@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Who will write the rules for AI? How nations are racing to regulate artificial intelligence"
-    excerpt: "How can the world regulate AI? Europe’s comprehensive approach, China’s tightly targeted laws, and America’s dramatic executive order hint at three ways forward."
-    publishedDateTime: 2023-11-08T04:49:00Z
-    webUrl: "https://theconversation.com/who-will-write-the-rules-for-ai-how-nations-are-racing-to-regulate-artificial-intelligence-216900"
+  - title: "Who Will Write The Rules For AI? How Nations Are Racing To Regulate Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) is a label that can cover a huge range of activities related to machines undertaking tasks with or without human interv"
+    publishedDateTime: 2023-11-08T05:23:00Z
+    webUrl: "https://menafn.com/1107390486/Who-Will-Write-The-Rules-For-AI-How-Nations-Are-Racing-To-Regulate-Artificial-Intelligence"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 42
+      name: Mena FN
+      domain: menafn.com
+    quality: 44
     images:
-      - url: "https://images.theconversation.com/files/558226/original/file-20231108-15-nr1728.jpg?ixlib=rb-1.1.0&rect=0%2C1371%2C8242%2C4115&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
+      - url: "https://menafn.com/updates/pr/2023-11/08/TC_ef96fimage_story.jpg"
+        width: 960
+        height: 640
         isCached: true
 
 secured: "o8mIrn/uhem0O/1v7TbxdVLhbR2zo/o5BiZ0SPTiup8SMNVS7ZeHwV7f/9W1+LfjQRGAgbfi2ltLFvzVB9IcN5bKRYQFlY0dAilvPP0yDKBEwZX/m6uCXfRRTxUoN4zZMejUdhJKdLYA538JGTSXwWy1igUR0F1FNa1YuIGrAyzKiGmOunRm7RDiS9E5WP974rrt0JKDpZZ/b7MTNOMnLf7b6QOmATaSPArqmRGkjTpxiyRIpoQIJTPgf8OrbHVfFUADw01YfUqMBTqn3UfeSC0TCIPDuyRsp3+Gbm961pXkPm1L3Gn36BMqTLMomXl2Tpi9q9l2OMx+7ycranSKyEAsPqx2dCEtlvmFL9MYmw0=;L2yqTMKYSsWfgvjPjZrhJw=="

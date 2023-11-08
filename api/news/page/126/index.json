@@ -2,6 +2,57 @@
   "page": 126,
   "value": [
     {
+      "path": "_news/2023-08-10-heres-why-ai-is-the-key-to-more-empathetic-customer-experiences.md",
+      "title": "Here’s Why AI Is The Key To More Empathetic Customer Experiences",
+      "excerpt": "If empathy is what makes us human, artificial empathy can help us deliver richer, more personal customer experiences at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/",
+      "originalUrl": "https://www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c91091d4d15ec01469db67/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/08/09/heres-why-ai-is-the-key-to-more-empathetic-customer-experiences/amp/",
+      "publishedDateTime": "2023-08-09T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-if-it-can-be-designed-on-a-computer-it-can-be-built-by-robots.md",
       "title": "If it can be designed on a computer, it can be built by robots",
       "excerpt": "Making things this way resembles a model used by the semiconductor industry, where chips are designed using software that directly links to the automated hardware which fabricates them. For the Fort Mill plant,",
@@ -1120,49 +1171,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-when-ai-and-robotics-combine.md",
-      "title": "When AI and Robotics Combine",
-      "excerpt": "Drawing on advances in the commercial tech industry, military organizations are combining AI software with drone ships, planes, and tanks to create what some call “lethal autonomous weapons systems” and others “killer robots”—that is,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenation.com/article/world/when-ai-and-robotics-combine/",
-      "originalUrl": "https://www.thenation.com/article/world/when-ai-and-robotics-combine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenation.com/wp-content/uploads/2023/08/robot-weapon-AP.jpg",
-          "width": 1440,
-          "height": 907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenation.com/article/world/when-ai-and-robotics-combine/tnamp/",
-      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/when-ai-and-robotics-combine/tnamp/",
-      "publishedDateTime": "2023-08-09T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Nation",
-        "domain": "thenation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

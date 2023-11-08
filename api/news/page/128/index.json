@@ -2,6 +2,48 @@
   "page": 128,
   "value": [
     {
+      "path": "_news/2023-08-08-spotifys-ai-dj-expands-to-50-countries-around-the-world.md",
+      "title": "Spotify's AI DJ expands to 50 countries around the world",
+      "excerpt": "Spotify is bringing its AI-based DJ feature to more markets, expanding the feature's reach six months after launch in North America as it continues to compete against Apple Music.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/23/08/08/spotifys-ai-dj-expands-to-50-countries-around-the-world",
+      "originalUrl": "https://appleinsider.com/articles/23/08/08/spotifys-ai-dj-expands-to-50-countries-around-the-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/55794-113346-spotifydj-xl.jpg",
+          "width": 1312,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/23/08/08/spotifys-ai-dj-expands-to-50-countries-around-the-world/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/08/08/spotifys-ai-dj-expands-to-50-countries-around-the-world/amp/",
+      "publishedDateTime": "2023-08-08T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-nvidia-h100-tensor-core-gpu-used-on-new-microsoft-azure-virtual-machine-series-now-generally-available.md",
       "title": "NVIDIA H100 Tensor Core GPU Used on New Microsoft Azure Virtual Machine Series Now Generally Available",
       "excerpt": "Microsoft Azure users can now turn to the latest NVIDIA accelerated computing technology to train and deploy their generative AI",
@@ -1153,49 +1195,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-aws-to-support-korean-startups-with-generative-ai-accelerator.md",
-      "title": "AWS to support Korean startups with Generative AI Accelerator",
-      "excerpt": "Amazon Web Services (AWS) will help Korean AI startups grow with its Generative AI Accelerator, a program that combines powerful AI tools with business, technical mentors and experts, the global-leading cloud computing service provider said Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/08/133_356593.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/08/133_356593.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202308/01fe39d3e3a946b0bdd3a186fae09566.jpg",
-          "width": 980,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593",
-      "publishedDateTime": "2023-08-07T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

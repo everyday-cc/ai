@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Who will write the rules for AI? How nations are racing to regulate artificial intelligence"
-excerpt: "How can the world regulate AI? Europe’s comprehensive approach, China’s tightly targeted laws, and America’s dramatic executive order hint at three ways forward."
-publishedDateTime: 2023-11-08T04:49:00Z
-originalUrl: "https://theconversation.com/who-will-write-the-rules-for-ai-how-nations-are-racing-to-regulate-artificial-intelligence-216900"
-webUrl: "https://theconversation.com/who-will-write-the-rules-for-ai-how-nations-are-racing-to-regulate-artificial-intelligence-216900"
+title: "Who Will Write The Rules For AI? How Nations Are Racing To Regulate Artificial Intelligence"
+excerpt: "Artificial intelligence (AI) is a label that can cover a huge range of activities related to machines undertaking tasks with or without human interv"
+publishedDateTime: 2023-11-08T05:23:00Z
+originalUrl: "https://menafn.com/1107390486/Who-Will-Write-The-Rules-For-AI-How-Nations-Are-Racing-To-Regulate-Artificial-Intelligence"
+webUrl: "https://menafn.com/1107390486/Who-Will-Write-The-Rules-For-AI-How-Nations-Are-Racing-To-Regulate-Artificial-Intelligence"
 type: article
-quality: 42
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/558226/original/file-20231108-15-nr1728.jpg?ixlib=rb-1.1.0&rect=0%2C1371%2C8242%2C4115&q=45&auto=format&w=1356&h=668&fit=crop"
-    width: 1356
-    height: 668
+  - url: "https://menafn.com/updates/pr/2023-11/08/TC_ef96fimage_story.jpg"
+    width: 960
+    height: 640
     isCached: true
 
 related:
@@ -41,6 +42,6 @@ related:
         height: 900
         isCached: true
 
-secured: "BXYhrCPb0wFjZMSGmt5sLzCbesfxf+wjpU+7EQvwUDAdVN3EtOyLjEGicnVQOosMSzHLPiJ44DtL/nG5T+uo1n8zmKa3/7iyqKBpdSd+TjwHY7xWMhazFRfMqS/1QePrNOfDY2ySqYFhPdWN58BoMSqUpzboVZe6+s84+FRN04iHaL1RNw6eTOBWdtMwP0sg9FPkgFqC/ZhurIsDZLlSbuXtJZYbn6e+7PhYOWHn6gbgluiDBwG3NJpIHMQMlbKa1et+PP/Qkkk94U0+mK1dcDinj8Ari3WedUzyAmMlECc6hRArtH/iH/keZsZrkVLmU6PgMrQgu2XYQPi1P4roSzfpoKPaJBE+h+E2f6s0dkk=;ALcZKrOKbmxL8Nr5niy8lw=="
+secured: "agpy5mvoZxeFpqcidJYTU21ojYHNvFnIqn3omt14C6kXHY8YjOj2sGKrcYFUkgJKeXOJ9vLNahkAgEFsldCy3upkqqR+l1Dtl9QptBzKrLwiq1ExqgaBMRIO2t+1Q0xfIt+KXZv6BckN4RKcODu2OwRXfIo7ATMMXlUFQKatohiayDyNYnwdW6OEg/6dlZJp9Czwh5bw6hQAbth5INrYjx0EWyoUPTxPqLoAqvOMNNvYxM3XlUyS/ntyEv+Z6Ip7mJ6KG6qtiItzaWLkdCpQS3JKoCwJO8++m2cvxcD2HGD6Zg4LwxpCOYtV9FjONpay+wmjFvQdicXeLSI6UMQfzsJlbef8NVtARgkx20jg60I=;2lyDfwPfq3t5htdA3uC2yw=="
 ---
 

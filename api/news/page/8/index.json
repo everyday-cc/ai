@@ -2,6 +2,39 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-10-31-biden-signs-sweeping-executive-order-on-artificial-intelligence.md",
+      "title": "Biden signs sweeping executive order on artificial intelligence",
+      "excerpt": "President Joe Biden said AI is driving change at “warp speed” and carries tremendous potential as well as perils.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oregonlive.com/business/2023/10/biden-signs-sweeping-executive-order-on-artificial-intelligence.html",
+      "originalUrl": "https://www.oregonlive.com/business/2023/10/biden-signs-sweeping-executive-order-on-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.oregonlive.com/business/2023/10/biden-signs-sweeping-executive-order-on-artificial-intelligence.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/business/2023/10/biden-signs-sweeping-executive-order-on-artificial-intelligence.html?outputType=amp",
+      "publishedDateTime": "2023-10-30T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-biden-urges-congress-to-take-action-following-ai-order.md",
       "title": "Biden Urges Congress to Take Action Following AI Order",
       "excerpt": "U.S. President Joe Biden called on Congress to pass comprehensive legislation on artificial intelligence after invoking Cold War-era executive powers over private",
@@ -865,58 +898,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-use-aws-privatelink-to-set-up-private-access-to-amazon-bedrock.md",
-      "title": "Use AWS PrivateLink to set up private access to Amazon Bedrock",
-      "excerpt": "Amazon Bedrock is a fully managed service provided by AWS that offers developers access to foundation models (FMs) and the tools to customize them for specific applications. It allows developers to build and scale generative AI applications using FMs through an API, without managing infrastructure. You",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-aws-privatelink-to-set-up-private-access-to-amazon-bedrock/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-aws-privatelink-to-set-up-private-access-to-amazon-bedrock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/30/set-up-private-access-to-bedrock-1260x630.jpg",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T10:50:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

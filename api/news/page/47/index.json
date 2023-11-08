@@ -2,6 +2,57 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-10-04-metas-ai-stickers-are-here-and-already-causing-controversy.md",
+      "title": "Meta’s AI stickers are here and already causing controversy",
+      "excerpt": "Meta's new AI Stickers raise concerns as content filters miss objectionable mashups, including copyrighted characters in controversial scenarios with guns and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-causing-controversy/",
+      "originalUrl": "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-causing-controversy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/crop-2.jpg?w=1200&strip=all",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-the-ai-empowered-patient-is-coming-are-doctors-ready.md",
       "title": "The AI-Empowered Patient Is Coming: Are Doctors Ready?",
       "excerpt": "In the future, medical expertise will no longer be the sole domain of trained clinicians. Future versions of AI will put medical expertise in the hands of all Americans.",
@@ -1141,58 +1192,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-these-are-the-key-technologies-the-eu-wants-to-safeguard-from-china.md",
-      "title": "These are the key technologies the EU wants to safeguard from China",
-      "excerpt": "In the latest round of geopolitical tech chess, the European Commission today published a list of critical technologies to keep safe from geopolitical rivals, in an effort to bolster the bloc’s own economic (and not only) security.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/key-technologies-eu-wants-to-keep-from-china",
-      "originalUrl": "https://thenextweb.com/news/key-technologies-eu-wants-to-keep-from-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FmapEuropetech-e1696341924126.jpg&signature=1ead97d29ff1df7b4da0812926ea08ce",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

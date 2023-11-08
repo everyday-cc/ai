@@ -39,20 +39,6 @@ related:
         width: 2500
         height: 1881
         isCached: true
-  - title: "Swarm Robotics Market to Touch USD 6.53 Billion by 2030 on Account of Advancements in Artificial Intelligence and Robotics"
-    excerpt: "Swarm Robotics Market to Touch USD 653 Billion by 2030 on Account of Advancements in Artificial Intelligence and Robotics nbsp"
-    publishedDateTime: 2023-11-03T13:13:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/274020577/swarm-robotics-market-to-touch-usd-653-billion-by-2030-on-account-of-advancements-in-artificial-intelligence-and-robotics"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 43
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2023/11/icn467205-icnSNS-INSIDER-300X300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "AI and the Erosion of Human Cognition"
     excerpt: "The intersection of AI and human cognition is as much about philosophy and ethics as it is about technology. If history is any guide, every significant technological advancement brings with it societal trepidation. The printing press, electricity ..."
     publishedDateTime: 2023-11-05T21:41:00Z

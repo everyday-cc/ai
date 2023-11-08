@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-07-26-what-is-zero-based-budgeting.md",
+      "title": "What is zero-based budgeting?",
+      "excerpt": "Zero-Based Budgeting (ZBB) is a strategic budgeting approach that mandates a fresh evaluation of all expenses during each budgeting cycle.\nThe post What is zero-based budgeting? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-zero-based-budgeting/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-zero-based-budgeting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T06:25:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-10-ways-the-oil-and-gas-industry-can-leverage-digital-twin-technology.md",
       "title": "10 ways the oil and gas industry can leverage digital twin technology",
       "excerpt": "In the era of digital transformation, digital twins are emerging as a potent solution to energy production challenges. \nThe post 10 ways the oil and gas industry can leverage digital twin technology appeared first on IBM Blog.\n",
