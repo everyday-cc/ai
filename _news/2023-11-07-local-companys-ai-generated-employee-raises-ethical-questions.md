@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "VERSES AI Announces Cortical Labs, Biological Computing Company as Second Beta Partner"
+    excerpt: "VERSES AI Inc. (CBOE:VERS) (OTCQB:VRSSF) (\"VERSES'' or the \"Company\"), a cognitive computing company specializing in biologically inspired"
+    publishedDateTime: 2023-11-07T12:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/g35643155/verses-ai-announces-cortical-labs-biological-computing-company-as-second-beta-partner"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35643155"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35643155"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Xbox Partners With Generative AI Company to Enable \"Dynamically-Generated Stories, Quests, Dialogue\""
     excerpt: "Microsoft announced a partnership between its Xbox arm and Inworld AI, a company focusing on generative AI tools."
     publishedDateTime: 2023-11-06T15:34:00Z
@@ -39,15 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "VERSES AI Announces Cortical Labs, Biological Computing Company as Second Beta Partner"
-    excerpt: "Cortical Labs joins VERSES’ beta partnership program, which intends to feature ten partners across multiple industries and of various sizes and stages interested in using VERSES’ Genius™ platform to deploy smarter and safer intelligent software."
-    publishedDateTime: 2023-11-07T13:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-verses-ai-announces-cortical-labs-biological-computing-company-/2023/11/07/9912734.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
 
 secured: "U9QXJwjE7ju8aHKqBRwd5VreoBeVBc2O3vHxOikeIhW1l2lYjA6JQ8iQGCe/D1/ejuCpz1dOFDYVkuhVhcZUdv6hTmW7U72iX45pFUo1bMubxFlYwxzfa0aL/U7/1Ae4o4uviub4eWoLP4v/c55FILmxCNWSwNrLmGJ6k8ES6pCCrPHwRbITPFynJ9nnx6Vl7+Iz/aKPUX+6FN7dZyZBqrwrsEJmIbMgLN2LUgWdZ02ZjQidTLYBlhac/+EJwstmyteFAcYjD9ypuj+5UhU/aGgCFTiDBTjMdS/7UPn+JxaVdbO9uyT3yXliCAIu61VFwvicMFa223pncoG2GZJLAwrQftgVQrPpq1XtShJlDWI=;1OGtbNVlXQTsu7v6bU/4gg=="
 ---

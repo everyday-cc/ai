@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM, which invested in Hugging Face, launches $500M enterprise AI venture fund"
+    excerpt: "IBM announced today that it is launching a $500 million venture fund to invest in enterprise AI-focused startups."
+    publishedDateTime: 2023-11-08T00:03:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-which-invested-in-hugging-face-launches-500m-enterprise-ai-venture-fund/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/c463d59a-fd3e-4a2c-b71b-4634e118cf35.webp?w=1200&strip=all"
+        width: 1200
+        height: 685
+        isCached: true
   - title: "IBM launches $500M venture fund targeting artificial intelligence sector"
     excerpt: "IBM is stepping up its artificial intelligence play, creating a $500 million venture capital fund in which it is the only investor to, in its words, back companies \"focused on accelerating generative AI technology and research for the enterprise."
     publishedDateTime: 2023-11-07T16:13:00Z
@@ -40,24 +54,6 @@ related:
         width: 1260
         height: 707
         isCached: true
-  - title: "TechSmith Audiate Launches Generative AI Features For Instant Content Creation"
-    excerpt: "TechSmith Corporation, an industry leader in visual communication and video creation, announces the launch of generative AI scripting and voiceover features in Audiate, the company’s audio recorder and text-based editing solution."
-    publishedDateTime: 2023-11-07T15:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/techsmith-audiate-launches-generative-ai-features-for-instant-content-creation-1032788734"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-  - title: "Lidl owner and Bosch Ventures co-lead $500M Series B into German AI startup Aleph Alpha"
-    excerpt: "German AI startup Aleph Alpha has raised a Series B funding round of $500 million from a consortium of seven new investors, as well as existing investors"
-    publishedDateTime: 2023-11-06T17:30:00Z
-    webUrl: "https://techcrunch.com/2023/11/06/lidl-owner-and-bosch-ventures-co-lead-500m-series-b-into-german-ai-start-up-aleph-alpha/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 39
   - title: "IBM launches $500M fund to develop generative AI for enterprise"
     excerpt: "IBM’s primarily focused on enterprise-level solutions for its generative AI products such as its Watson X platform and numerous cloud offerings. According to Rob Thomas, a senior vice president at IBM, generative AI technologies will be a driving force ..."
     publishedDateTime: 2023-11-07T19:32:00Z
@@ -68,6 +64,6 @@ related:
       domain: cointelegraph.com
     quality: 19
 
-secured: "TwPDNn7FHrUO/wPrteZoh9f+xfG5b2JJzVQ8LYlywqm74s6312adkvTT9+5KZKPwbfwfPMsNQ8T3hrdE4ptAP4T6w5cbUqw+8UUkYBZrBcLtwphj9syeuT1LOuT12IIsPWbildmaLfvp6Uk9Pf/lbiv+gLCKku8S/xgz5JsLWiIg/psXYcURF7c6Oj+i10CU1act+5WDr/m00epavaiwtSiliMIZ6DlkntOL9mROWdtcr91gYZbQWi073Hg8YmO0L5GtyAdRyys3OgM2QPMwS0LbxIqg96Hd/oxhizVcfkukPNk3YNhfAbpN4mQ7pnhHwA5jtwoDAuR33c/gMXlYlAgFcKuZE3PNHQaEU8G2obU=;iFfQ/KFQbcIsmFXJ3vJBbw=="
+secured: "Lkt2eLeNCbzx5JLvWf+PTPDUCfn7DnnSpG7NpSjKNHLjujUhRHDQtz3A1fN726dXT2Il/O7P8knIdn7Dv3vv6V/tpmMOUWvms2/S40DcE+MJyOMrmm95orU4V6c4xl21YkzRZW+n5Pq4fIIBIZvXgKd0/gXhHSORqxj+L6/3V+i/pgKAQvK2p9CTCOjlSN4Hjd9i9FyxotAqZjvQfqwE9cJft3wP/fZC/2qj5F2bGqK5HXjjBa0zLkKJ2IjM8MlOvvGmc5W6pL+/EYFc92cT1xqFcC3l8E3P5CVctg+WxsKA95ICKpRO0faqwJ1KrU6FVnuEZL0KnbZp6Kl8ztgvGnro380mey+75bONjJ1K9dQv2uRH995QX8VIVRyYALj2xDnidqcElZnJE63WHXFQme8EFJ6W5wugKUWN4OJh8oZQ7jTXdW01P2QwPnH/lurHdzcA9Go2pi6BaAUITRmYaMYab0qwXvgkwy0W2gHP7LxnWfIC20CJ0kBUrYG9iK0I4QFVkMFHEsFugTsFGmlLvw==;uXUCNeqG9viO7tBv7ZlICg=="
 ---
 

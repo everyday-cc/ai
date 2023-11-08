@@ -40,14 +40,21 @@ related:
         height: 600
         isCached: true
   - title: "VERSES AI Announces Cortical Labs, Biological Computing Company as Second Beta Partner"
-    excerpt: "Cortical Labs joins VERSES’ beta partnership program, which intends to feature ten partners across multiple industries and of various sizes and stages interested in using VERSES’ Genius™ platform to deploy smarter and safer intelligent software."
-    publishedDateTime: 2023-11-07T13:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-verses-ai-announces-cortical-labs-biological-computing-company-/2023/11/07/9912734.htm"
+    excerpt: "VERSES AI Inc. (CBOE:VERS) (OTCQB:VRSSF) (\"VERSES'' or the \"Company\"), a cognitive computing company specializing in biologically inspired"
+    publishedDateTime: 2023-11-07T12:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/g35643155/verses-ai-announces-cortical-labs-biological-computing-company-as-second-beta-partner"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35643155"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35643155"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "Jamu1Pmcrlv96aw/UbgRnQJx6bFbdlW4BUWrGB0bZh4I6iPqOS836aORMZV6/gwkf5ynzJcyW6wbRBIjaPXBAI8c/jnI4Hhibg7ogM8s53mfPGlA5penBhAIt6dPrXsLhJIR2f7pX8Qewn0eRGoFzoDj4bhs8Hi2qwjEK3sZRoWLa7TFMpxIAdYUaW+Or62Xcgip0h/AiTSZDkhFgpRg6n02wHwwiIAn8btarQDua+3MGD9LC3YQ+Oq+BewW9BRh5O+uw8Sgi+7YJ2ou8hhd01PwIKGxiZqsBWoHLnEJsRGEnuFrLesh0qxoKi0jEEWeT8tCwBmolOBoy0bPrPiahxcuAR2pdF85d5nqf/WN0V/8VuS/tBvEnKQIwTkrqjB7oo+3Db1fb25LW2gxV8jOfkS+RbBMtKJKkCqftQ8YfeCOJP7zMG8TGvBQPBbVlRXRSrMDV6Bp0XMLNLHKMPtsATtskri7OWLfqBrDi7lsiVma+Uvk7j/EuwdlSk9OBay5muL0WY09SMn+FwDWxfKuCw==;X/ZYvVL6q6bQ8xLP+BWfjg=="
 ---

@@ -34,15 +34,6 @@ related:
         width: 768
         height: 510
         isCached: true
-  - title: "AI and the Erosion of Human Cognition"
-    excerpt: "The intersection of AI and human cognition is as much about philosophy and ethics as it is about technology. If history is any guide, every significant technological advancement brings with it societal trepidation. The printing press, electricity ..."
-    publishedDateTime: 2023-11-05T21:41:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202311/ai-and-the-erosion-of-human-cognition"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 19
   - title: "Tech giants pour billions into cloud capacity in AI push"
     excerpt: "Google, Microsoft and Amazon boost investment by a fifth over two years to a combined quarterly total of $42bn"
     publishedDateTime: 2023-11-05T05:00:00Z

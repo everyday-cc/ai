@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/pytorch-vs-tensorflow/"
 webUrl: "https://www.geeky-gadgets.com/pytorch-vs-tensorflow/"
 type: article
 quality: 90
-heat: 90
+heat: 91
 published: true
 
 provider:

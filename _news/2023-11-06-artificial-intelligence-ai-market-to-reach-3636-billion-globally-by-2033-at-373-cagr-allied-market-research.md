@@ -57,6 +57,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Artificial Intelligence (AI) In Social Media Market To Generate $11.99 Billion By 2031 | CAGR 28.7%"
+    excerpt: "AI-driven algorithms that are able to scan social media data to detect possible financial hazards including market volatility, fraud, a"
+    publishedDateTime: 2023-11-08T00:46:00Z
+    webUrl: "https://menafn.com/1107390062/Artificial-Intelligence-AI-In-Social-Media-Market-To-Generate-1199-Billion-By-2031-CAGR-287"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?769409"
+        width: 326
+        height: 250
+        isCached: true
 
 secured: "7vADsOL3BfAaPDEdrju66DWlL+SMKPwLSDhWetWFRDr09zPBkya9r5JnPEoO1ttFPo6rS0ns5/FZ3btzV+FlH4YnrPncFfGSnirVvz6Ta5yRMCRENmUrlDBIL2sOuET5YLjseH4dAqY7OJswl5tclFefQOFqs7DRCT3yDAXjNPie8iheUrjPJMScqmiCebV02wFozz4meG9m4BRrQ1ZktRIQsJVIcMqqAOyd79XQa+wOJNs0m4jXSx+gXIGKDik8G3wSEv9M87edkfPbZlZVgWL2lvy976AmhiKWfhqhDh9ergdKGIpQ8WyxgppYwPDyJuuMirBIiLQJUq7dvaElDtpQ+UFtTD6IHyETQdHLbfm7ukLE61gMdJxMcTlcNdzoX9pEVGD4/VEVIjwfv5fWLDO1v2TN3PSF7bJdOVHLLo6WXem3KXzENQOt6nDpldKYBwgMxctkn6mzNsyz/Cu/SC5f6sKTgzlZVADUw6dVXU0KIT3xbc5URqVAr+QNwbQkzo+rjxLkihgPlya1SG4qYQ==;jWrUByzooQZnVPTU/MFrrA=="
 ---

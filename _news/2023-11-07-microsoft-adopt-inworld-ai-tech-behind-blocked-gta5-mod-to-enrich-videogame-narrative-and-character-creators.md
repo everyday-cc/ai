@@ -39,34 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Xbox Team Working on Generative AI for Game Development"
-    excerpt: "A Microsoft partnership with Inworld aims to speed up game development and enable more interactive non-playable characters, but it could face backlash from human game developers."
-    publishedDateTime: 2023-11-06T17:04:00Z
-    webUrl: "https://www.pcmag.com/news/xbox-team-working-on-generative-ai-for-game-development"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04oQe70qTgjqVipzE5ug8ff-1.fit_lim.size_1200x630.v1699285389.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Xbox and Inworld AI to bring the power of artificial intelligence to game developers"
-    excerpt: "Xbox and Inworld AI have partnered to develop artificial intelligence-powered tools for game creators. As part of the multi-year partnership, the firms will develop an AI design copilot to assist game designers with creative ideas,"
-    publishedDateTime: 2023-11-07T12:18:00Z
-    webUrl: "https://www.technologyrecord.com/article/xbox-and-inworld-ai-to-bring-the-power-of-artificial-intelligence-to-game-developers"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 47
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4705/gaming_975x548.jpg"
-        width: 975
-        height: 548
-        isCached: true
   - title: "Xbox and Inworld AI forge game-changing alliance"
     excerpt: "Xbox has unveiled a partnership with Inworld AI aimed at transforming game development using AI-powered tools."
     publishedDateTime: 2023-11-06T16:56:00Z

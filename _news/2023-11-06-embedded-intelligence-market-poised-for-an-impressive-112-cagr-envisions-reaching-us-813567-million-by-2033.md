@@ -39,6 +39,15 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Global Service Robotics Market Expected to Reach $187.33 Billion by 2030, Driven by Increasing Adoption Across Industries"
+    excerpt: "The global service robotics market is set for substantial growth, with an anticipated value of US$ 187.33 billion by 2030, according to this report."
+    publishedDateTime: 2023-11-06T11:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/06/9911561.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "s4HGJ3wIOkL5noYY3CZlF9566FdlU1sFDXrENGZoHG93NuF7YWd+o1qx8ye+L3nyM9vTV7fWJJF/HKRGmRXKdzdUg+nEJ7s0ByqpGOIJgg82Buf9W3DW2/jOKiZJcZe38ln/8L6uSDwaLI0iq7co25y+9huVj+3ysfBbmxsTrIBysHhY5bcV2qBd7IeyMp6Um/m9Grnk6WLQRW1khfBMBam8Xlx9ug/YSb/7Um7nNtiAS/SJ/ANxxPOGnyeU/ioZ/rhZW4PofZlDxGF1amyr5OL9fbcyeYWP/37ze87WEmFOdm/1ibJOEg75+BS/mb2mfum8FWEjia/Pe0m/aobo+Q/zCvuVZcS64z83NAC7cqg=;ZKqW8cdMGj8kB3c87l9lJw=="
 ---

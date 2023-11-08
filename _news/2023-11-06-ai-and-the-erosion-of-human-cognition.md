@@ -19,40 +19,48 @@ topics:
   - AI
 
 related:
-  - title: "Tech Giants Jockey For Position At Dawn Of AI Age"
-    excerpt: "Whether they sell smartphones, ads or computer chips, the heavyweights of Silicon Valley have everything to prove to investors looking to see who is best placed in the race to dominate the generative artificial intelligence market."
-    publishedDateTime: 2023-11-06T05:28:00Z
-    webUrl: "https://www.barrons.com/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694"
-    ampWebUrl: "https://www.barrons.com/amp/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694"
+  - title: "AI robots, marketing, and the power of persuasion"
+    excerpt: "Associate Professor Mark Yi-Cheon Yim engages with a companion unlike any other. On his desk sits a charming AI robot dog, a Sony aibo."
+    publishedDateTime: 2023-11-08T00:03:00Z
+    webUrl: "https://www.earth.com/news/ai-robots-marketing-and-the-power-of-persuasion/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
+      name: earth
+      domain: earth.com
+    quality: 71
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP8179296964960142560251109326446093220437---1.jpg"
-        width: 768
-        height: 510
+      - url: "https://cff2.earth.com/uploads/2023/11/07165122/AI-robot_cashier_store_1medium.jpg"
+        width: 2500
+        height: 1881
         isCached: true
-  - title: "Tech giants pour billions into cloud capacity in AI push"
-    excerpt: "Google, Microsoft and Amazon boost investment by a fifth over two years to a combined quarterly total of $42bn"
-    publishedDateTime: 2023-11-05T05:00:00Z
-    webUrl: "https://www.ft.com/content/f01529ad-88ca-456e-ad41-d6b7d449a409?shareType=nongift"
+  - title: "Xbox and Inworld AI to bring the power of artificial intelligence to game developers"
+    excerpt: "Xbox and Inworld AI have partnered to develop artificial intelligence-powered tools for game creators. As part of the multi-year partnership, the firms will develop an AI design copilot to assist game designers with creative ideas,"
+    publishedDateTime: 2023-11-07T12:18:00Z
+    webUrl: "https://www.technologyrecord.com/article/xbox-and-inworld-ai-to-bring-the-power-of-artificial-intelligence-to-game-developers"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-  - title: "Retail tech startup offers an AI solution for pricing products"
-    excerpt: "Retail tech startup Particl launched AI Copilot, a new product that helps customers identify both new and mispriced products, CEO Josh Wilson tells Axios. Why it matters: Retailers need sophisticated software to help them manage supply chains efficiently."
-    publishedDateTime: 2023-11-07T15:45:00Z
-    webUrl: "https://www.axios.com/pro/retail-deals/2023/11/07/particl-inventory-management-tech"
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 47
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4705/gaming_975x548.jpg"
+        width: 975
+        height: 548
+        isCached: true
+  - title: "Swarm Robotics Market to Touch USD 6.53 Billion by 2030 on Account of Advancements in Artificial Intelligence and Robotics"
+    excerpt: "Swarm Robotics Market to Touch USD 653 Billion by 2030 on Account of Advancements in Artificial Intelligence and Robotics nbsp"
+    publishedDateTime: 2023-11-03T13:13:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274020577/swarm-robotics-market-to-touch-usd-653-billion-by-2030-on-account-of-advancements-in-artificial-intelligence-and-robotics"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 43
+    images:
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2023/11/icn467205-icnSNS-INSIDER-300X300.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "dVpkrjEUmH27zZWp4qPWqC+XPcRuhkHxTK13rka/q2QMiIu/1Eb5PTv/e8qByz5UpdbKthnvugcW0h7atgL94Qu/nJ1GDUzyQ89N0KLUgWiLg1s3Y2dWkr0J3Wb3zOApkQ4bybsCL7JZxd25/Xq0iT9KYIVJVC15/WbIrNko1nly6Loc3S3724lV90KizgWNMFcGsbCVbMZpRDKQCL0SFkgiejymSz7KiFy6nG0J/r87N7khou90HSeHZEONG+w6pqeb2vFfe/aSuaTzsw+Xw+NGseWiUVXgMOilJ0Pw8vd2Z2KC7Da4ZGCNXb/vhbFSzG4wD+YpPypt8oh7+mR1a+y8s/DXY5mEL8qCWVOkJtxygLjXC4Gssvu70nwKtgLCAZbajHmrzy8X6EIpyn4DA7yWqS3ryY6ys2bSxSlR6bFBPid+HAkalB4rBEltRyNJ94G6NDXbFYVBVxEqQ61jUSMPJ8RxsP6OLXzG9Yv+UutK93CcdJoZoHacEKcr53zjBCdtcD+zvQ5nffzHn6KzxA==;zgGHw+DV/K7bz55Ri118dg=="
 ---

@@ -90,6 +90,15 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "AI fintech Black Ore emerges from stealth with $60m"
+    excerpt: "Black Ore, a startup developing AI tools for financial services firms, has emerged from stealth with $60 million in financing led by a16z and Oak HC/FT, with participation from a host of big-name angel investors."
+    publishedDateTime: 2023-11-08T00:29:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43250/ai-fintech-black-ore-emerges-from-stealth-with-60m"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "pSaO+W7rH1/y6xpBmNuxJo09G+o+ofwOG+3paPgpRPHHPSFpx0hnP02kViJLUoVw9yuwdN6BQvuf1pccXR9siRAnxQNfSG1V6YhoXCUHBhw1nKWFuv7dYczVGwbju4jmetZgk2bcuP3A1RunWLfCM1+srQYVVMPjh1EtOKHcXrUY2+gixDv0cCQU73JFrl1CP1DcDxcroneEpDGngrNwXXLcgpseixCkSsOM4Drk1QgTJ3uYNSonx2EbHv3SvHOJ4mpnUac0yNbHYAoBUoTqbffAJk5M9YT33aI1ida2P/tqndnaOvweMtJuj2ko5kcEXtKEL9ARMbXa/vJQBw+bL7h13HYEmSBJmXQYg67qax5TxQp5DTN2yZ26WAepJmMz3eJ+jQQygzrt8eOY0/OeWDhYZqQrxzXmZkPcDNy5Zl+0IXPI7NQ++cMp+kU3KXbv0DpdtBZGgo9rH2cfiZ9ZTvy+elbzstK60FQv9ZVR++kcL6SBFZ0p5Tu+S6NUU0CPtiqrDbxvEokhtxv89CwtHg==;1iMpmmVCRk0KifmGDFTGzg=="
 ---

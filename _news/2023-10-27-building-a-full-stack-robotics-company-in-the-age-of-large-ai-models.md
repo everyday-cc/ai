@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Building a full-stack robotics company in the age of large AI models"
-excerpt: "Electric Sheep Robotics' Nag Murty dives into some of the challenges startups face when looking to scale their operations."
-publishedDateTime: 2023-10-26T17:37:00Z
-originalUrl: "https://www.roboticsbusinessreview.com/news/building-a-full-stack-robotics-company-in-the-age-of-large-ai-models/"
-webUrl: "https://www.roboticsbusinessreview.com/news/building-a-full-stack-robotics-company-in-the-age-of-large-ai-models/"
+excerpt: "Who would you rather be: the robotics startup that hopes some incumbent will select you ... vs any open source model – OpenAI’s secret weapon is their army of Scale.AI and other RLHF resources.) With the shift from classical robotics to large models ..."
+publishedDateTime: 2023-10-26T18:49:00Z
+originalUrl: "https://www.therobotreport.com/building-a-full-stack-robotics-company-in-the-age-of-large-ai-models/"
+webUrl: "https://www.therobotreport.com/building-a-full-stack-robotics-company-in-the-age-of-large-ai-models/"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
-  name: Robotics
-  domain: roboticsbusinessreview.com
+  name: The Robot Report
+  domain: therobotreport.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.roboticsbusinessreview.com/wp-content/uploads/2023/10/electric-sheep-featured.jpg"
+  - url: "https://www.therobotreport.com/wp-content/uploads/2023/10/electric-sheep-featured.jpg"
     width: 770
     height: 500
     isCached: true
 
-secured: "gbgzBY4hecQct5or9hrtiC8Ol5AREY/cIVZHVtdsWq72vFvj0BWiI+CM6TucRXobtyzpGP3ZFg0Pgry8za0JJCF63ZU9ZII0I8m4LK0hSgPeP0KTQDBqZDoojW2fN62U3crsTzkmqd06ChUknPJKmM3WPNmmNmhD5tSxHtNWATihvIsaVnaOJAEWeHvm1YNwK9shswjnPxzXT9czTjOuSsPc1FT0mBuFX8ePWjlFOSHa+Rz3Xl32R1fYF2nT4Dxg1fo6G2I/FeNZ3yjJ60BGg1apnEHVgfrKaMLL4j12/SNuHWcqiZNnRk9qXKRCP0juUzDcBLrulmsrb7/M2DnxcbIjybETTdHxsCRYfHpDMdyZsNEPgAY+LLm3svmMyGPzfOdMe02nXgdbvjqkKQruWaat5bihXC6NJh2TysuEj2NBLB4d5QEDbs/ssfc+bbX/LRNGADGEgyF/hsOMCr+ZLI+jVFSQyooVutfAG/8Nd5mW75Syzfm005/U55coefEsbrTXPLC8qEFP/uWqlRSDVA==;f3QFCOCsmuLjBIn9euBiNA=="
+secured: "IE/ixzrjeDEaFtIuYb7kSbo54+GW3eMYgliciluvAinWoKt+n7K9i24c2BqcDKai8s8bFpW1NYkD7eyWainTB1a1ckxync/dcyF1rJ7nFr/ATiV89dlAo8HOYiqD9527FmPRNc/5CKJetNjiDl9lasutKm/33IGyWrnDTOG7TPe1zz+yboUFiCX6AqQlxrknYslxFaLwAVHINEwMMGVPSuFvT49F7nXOLTCD4l0gGCe/k4Nbl/Wo7jR5ISO8LagUJPyzzy/q4kYzn0fRlpZnV/88WFGfGFGuxiiyrzPD8Dg5cMDS0egCRNnwuhYmDRqIRlRu1PF+lPahZ0nxRtUGnRT3rOCUw8cZkOG2LkgXCAU=;hJkzhzYptWS944DjsJz+yw=="
 ---
 

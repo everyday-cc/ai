@@ -1,27 +1,27 @@
 ---
 category: news
-title: "IBM partners AWS to launch new Innovation Lab in India"
-excerpt: "IBM partners AWS to launch new Innovation Lab in India - IT major IBM announced the expansion of its relationship with Amazon Web Services (AWS) to help more"
-publishedDateTime: 2023-11-07T15:43:00Z
-originalUrl: "https://www.siliconindia.com/news/general/ibm-partners-aws-to-launch-new-innovation-lab-in-india-nid-226330-cid-1.html"
-webUrl: "https://www.siliconindia.com/news/general/ibm-partners-aws-to-launch-new-innovation-lab-in-india-nid-226330-cid-1.html"
+title: "IBM Partners AWS To Launch New Innovation Lab In India"
+excerpt: "IT major IBM on Tuesday announced expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients op"
+publishedDateTime: 2023-11-07T10:58:00Z
+originalUrl: "https://menafn.com/1107384151/IBM-Partners-AWS-To-Launch-New-Innovation-Lab-In-India"
+webUrl: "https://menafn.com/1107384151/IBM-Partners-AWS-To-Launch-New-Innovation-Lab-In-India"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: SiliconIndia
-  domain: siliconindia.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.siliconindia.com/news/newsimages/1gw25o74.jpg"
-    width: 570
-    height: 367
+  - url: "https://menafn.com/updates/pr/2023-11/07/I_4927bimage_story.jpg"
+    width: 1160
+    height: 522
     isCached: true
 
 related:
@@ -41,16 +41,7 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "IBM Expands Relationship With AWS To Deepen Generative AI Innovation And Launch A New Innovation Lab In India"
-    excerpt: "November 7, 2023-- IBM (NYSE: IBM) today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from the latest technologies,"
-    publishedDateTime: 2023-11-07T13:20:00Z
-    webUrl: "https://menafn.com/1107384841/IBM-Expands-Relationship-With-AWS-To-Deepen-Generative-AI-Innovation-And-Launch-A-New-Innovation-Lab-In-India"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 15
 
-secured: "1hJGxkR6q5ePinOVZBqsSSC9jT522uuTGU7eTKAhnTm9n2ukwiTXfZhp8BkW1ugDZa7uAuN0/JmU3w+b6hD/+08+mHyyIv7XuHO+YtLN6vrJnoiILC579Ds0rp86DVO9o9znoI2z5F8Ynp2DfUJfIlc1h24/ZUdJcRj73lSJY2a09Ku+QXizIKFNdJZPOFummTlPiEDBa7unIho4dTnrvh9JWSskkkY4riowsey9jurBpdEWrq8kFJVpym+kiEuwK1yskYGIz7wCrTLy0fLFupfVjP0dR65Ep7nFqOx/DjPUmSY1CDjSkqwypzwnYnnIghucadGGxW7Zgvd6+S3wkoyoCc9g6H1XXl3hlKP3V4I=;RDxZMhYoFLO0EuvD03AIRQ=="
+secured: "HswnqHdAhfwUS6nxH622l/agyyZq9sQebaaxA2FWfK3ppC4X8cAEo7w67dm1lr1IvE7DXAV9X9jXDwsFttaUXYZNaQbVJn49wcD4jvBvFg01Z6wocPF4fCzLxwzvgE0qorOLSRE5DTIVFPsh4v+rRc1ZC7gltmcfKy3CisuOC9C2fnMMN4xX6WmSFQag/Uyv5sW7Nf5ccHI8DX2dxGVFz05nmcHLTEljk5okm6fGawB91ogwc9dZ37kApyTOSbBczP39oNBR7+DRwEzGfJrtaPcEJ3d5XsQoRqDzvtKc5PjvbpCEWvRrOIVhNBOA01Samnqwykz3vOCDHao1163DiDsF1K7B57HAFoINBZkTSdo=;hgVkL2Kmz4k5FrZDpk89sg=="
 ---
 

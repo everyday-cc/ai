@@ -1,0 +1,58 @@
+---
+category: news
+title: "Tesla owner wins ~$10k settlement over Tesla’s full self-driving claims"
+excerpt: "A Tesla owner in the UK challenged Tesla over its failure to deliver on its full self-driving claims and won a settlement representing a refund of his purchase cost of FSD, with interest, after filing a claim in small claims court."
+publishedDateTime: 2023-11-08T00:22:00Z
+originalUrl: "https://electrek.co/2023/11/07/tesla-owner-wins-10k-settlement-over-teslas-full-self-driving-claims/"
+webUrl: "https://electrek.co/2023/11/07/tesla-owner-wins-10k-settlement-over-teslas-full-self-driving-claims/"
+type: article
+quality: 84
+heat: 104
+published: true
+
+provider:
+  name: Electrek
+  domain: electrek.co
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://electrek.co/wp-content/uploads/sites/3/2023/11/Screenshot-2023-11-07-at-3.56.47 PM.jpg?quality=82&strip=all&w=926"
+    width: 926
+    height: 1024
+    isCached: true
+
+related:
+  - title: "What You Didn’t Know You Didn’t Know About Tesla’s Full Self Driving Beta – CleanTechnica"
+    excerpt: "Hi, what are you looking for?Plus: my new strategy for maximum battery life on cross-country road trips.ByPublishedLater this month, it will be 4 years since"
+    publishedDateTime: 2023-11-06T14:08:00Z
+    webUrl: "https://www.inferse.com/785796/what-you-didnt-know-you-didnt-know-about-teslas-full-self-driving-beta-cleantechnica/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 45
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-4200.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "What’s the difference between Tesla Autopilot and Full Self-Driving? – Digital Trends"
+    excerpt: "Cars are quickly changing. Companies are increasingly adopting new technologies to roll out fully electric models. At the same time, those companies are"
+    publishedDateTime: 2023-11-04T22:24:00Z
+    webUrl: "https://www.inferse.com/783359/whats-the-difference-between-tesla-autopilot-and-full-self-driving-digital-trends/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 12
+
+secured: "XSmkq9fudsdbBSdIPE6p4De9lWB40GKzXEIUFzeY2UijTSY4NEsYpkkSzAkEWMnjkF94BE6r3ckumsj24weVgCl4x5wlM/d9WOvWuTI1x9yIWaZ/HkhFFnyD72hiA0d1ajpZg28DG/Bq7hheLg9cKs/s40yoNoK+St/UxJ2JSp3yuYs0kHD/HMUjgpZ0zYBGioJgA4cJDc1zMsQHsGCqoxh/TSitiCcwzCC1fCpNYXtjR/DSTUPZC1eot4w0QyRlSVJolZGV9UX4cF6UuP8NtJGh8Uv0MQYiL1FL/7XJBTeaPQFsfboXu7hNwTlyQ8R5AY1QkKTVhfHXk6rqviihPrPRsc2NCHEOv/pN/AUK/Cg=;1WTzS8RhZDdAyIzNgH/tCg=="
+---
+

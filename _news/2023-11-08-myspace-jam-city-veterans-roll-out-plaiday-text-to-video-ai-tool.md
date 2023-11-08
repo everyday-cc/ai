@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/dbloom/2023/11/07/myspace-jam-city-vete
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2023/11/07/myspace-jam-city-veterans-roll-out-plaiday-text-to-video-ai-tool/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1533
     height: 900
     isCached: true
+
+related:
+  - title: "Plai Labs unveils AI-powered text-to-video tool PlaiDay"
+    excerpt: "Plai Labs has unveiled its AI-powered text-to-video tool, called PlaiDay, for making personalized 3D-animated videos."
+    publishedDateTime: 2023-11-07T21:00:00Z
+    webUrl: "https://venturebeat.com/games/plai-labs-unveils-ai-powered-text-to-video-tool-plaiday/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/PlaiDay_Video_HomePage.jpg?w=1200&strip=all"
+        width: 1200
+        height: 704
+        isCached: true
 
 secured: "5s4+Rfrwcz4FiKYBzJvuUyXVdKyqkzGkg+MCU0/TGvpWqE9jQLtfimuIw9eIqqd2e55iOlxFZnHZV1WMV7X/I79QnMIbYhGQnSD2v1xfLiYjocQOGOlvL+kZXgByg7mARX7ticei8F/Oo0RUwgXio/c76Gl1cjrSeONCLJYn/UG+G4aqJnUax0twHkmTawggSWbgg7hfCjjAEYrfDNZMMCw6g4bjegYTmnGp4M3eoPSVzyUeSUGsLhOtK3ETA/MzgalB/kKWixN9SCcEmVRCnIHPoDkqN0jDARFqsFpz3o2HXIC11HKgeVIGOa4BnvfplYCHkGi2Ad6ykD/bqxvDjD6ySeelPKM2hER6eZe/L88=;PHosscNrFToZ5zk8o3iRIA=="
 ---

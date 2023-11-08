@@ -82,6 +82,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 34
+  - title: "AI fintech Black Ore emerges from stealth with $60m"
+    excerpt: "Black Ore, a startup developing AI tools for financial services firms, has emerged from stealth with $60 million in financing led by a16z and Oak HC/FT, with participation from a host of big-name angel investors."
+    publishedDateTime: 2023-11-08T00:29:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43250/ai-fintech-black-ore-emerges-from-stealth-with-60m"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
   - title: "BIT2023: Banking, Fintech Co-Create Larger Ecosystem, Build Strong Foundation"
     excerpt: "Get ready to be acquainted with the Who's who of banking and fintech fraternity of the UAE over two consecutive days next week on November15 and Nov"
     publishedDateTime: 2023-11-07T20:15:00Z

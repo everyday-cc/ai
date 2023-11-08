@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/"
 type: article
 quality: 106
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-3967.png"
         width: 900
         height: 600
+        isCached: true
+  - title: "Biden executive order imposes new rules for AI. Here's what they are."
+    excerpt: "WASHINGTON -- President Joe Biden issued a wide-ranging executive order on Monday that aims to safeguard against threats posed by artificial intelligence, ensuring that bad actors do not use the ..."
+    publishedDateTime: 2023-11-05T12:07:00Z
+    webUrl: "https://abc7news.com/white-house-artificial-intelligence-executive-order-biden-ai/13990936/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 39
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/13990938_cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9jNGppcTgwMDByM2I2aWd0cmR2dmZi-L19wYWdlcy9jbG9jNGFqaDQwMDVwNDdwNGUwNTVhMjJq.JPG?w=1600"
+        width: 1600
+        height: 1067
         isCached: true
   - title: "Biden Administration Issues Sweeping Executive Order on Artificial Intelligence"
     excerpt: "The Biden Administration issued a sweeping Executive Order directing a broad set of government actions addressing consumer harms, discrimination, privacy protections and other issues stemming from the widespread use of artificial intelligence. While the ..."

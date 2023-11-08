@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "China’s Baidu Strikes a Deal with Huawei to Buy AI Chips"
+    excerpt: "Although Huawei's chips aren't yet on par with Nvidia's in performance, they represent the most advanced AI chips China has to offer"
+    publishedDateTime: 2023-11-07T13:45:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/baidu.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How Huawei plans to rival Nvidia in the AI chip business"
     excerpt: "U.S. curbs on the sales of advanced artificial chips by Nvidia to China are creating an opening for Huawei to win market share, with sources saying it won a sizeable AI chip order from Chinese tech giant Baidu this year."
     publishedDateTime: 2023-11-07T08:14:00Z
@@ -79,29 +93,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "China’s Baidu Strikes a Deal with Huawei to Buy AI Chips"
-    excerpt: "Although Huawei's chips aren't yet on par with Nvidia's in performance, they represent the most advanced AI chips China has to offer"
-    publishedDateTime: 2023-11-07T13:45:00Z
-    webUrl: "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 64
-  - title: "AI-chip cousins? CEO Nvidia, AMD lead US tech war against China"
-    excerpt: "The chief executives of Nvidia and AMD aren’t just two of the most powerful people in the global AI chip industry, they’re also cousins."
-    publishedDateTime: 2023-11-06T13:55:00Z
-    webUrl: "https://interestingengineering.com/culture/cousins-ceo-nvidia-amd"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/11/06/image/png/HFrVnBurPNDETh1zSinvHl4MKlqlLtt8AhY5s7wa.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Nvidia's long-term client Baidu orders AI chips from Huawei - Reuters"
     excerpt: "Baidu (NASDAQ: BIDU ), one of China's leading AI companies, ordered 1,600 of Huawei Technologies' 910B Ascend AI chips in August, according to Reuters. These chips, developed by Huawei as an alternative to Nvidia's (NASDAQ: NVDA ) A100 chip, were ordered for 200 servers."
     publishedDateTime: 2023-11-07T12:06:00Z
@@ -144,15 +135,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Nvidia Dominates AI Chip Market, But Institutional Holders Show Unsettling Trend — Is The Spark Fading?"
-    excerpt: "Nvidia Corp NVDA has taken a dominant position in the AI space and in the broader stock market. The stock is up over 200% so far this year, on account of: the company exceeding in"
-    publishedDateTime: 2023-11-03T13:55:00Z
-    webUrl: "https://www.benzinga.com/general/hedge-funds/23/11/35591478/nvidia-dominates-ai-chip-market-but-institutional-holders-show-unsettling-trend-is-the-spark-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
 
 secured: "iAPjjGKVw3nv2OlDf6QHNJDjMKUk6zhkW5biQxaRhZjau2w0QdphLpi1jqpjJ0IN7PMTGKhhxOuyGBXddheCpsTXYryX3G+Nv7Bzjqr1n8/2Jjo0EoDbTnWOBJuOzyOo9jaEOESCls1J95UH9Ct6+3rEys6Q3fsJrY0rFHyOUt331qRfSz44rXDleqk//U+RjAId/5jImnbjad0RR0nTbTLIN0T/RTp9JI7n8f048UkyaH1wA0oFHgTS7tVwEkK7yuTDdQ1DSXpyqs+0RLbfIycYKEc8KMBh4FU1cgpt3U/ry4qzkv8g7rqIwy9DK/eQqC5BkcALoPEo0eFxKAy1ktIAXb+141wRIQeYkY/5RZekktp0noCohkSNxbMKswoVFVzUuQcesYjwXY4c/jYZNfPRFsYpf4Sz7UZdvY4X7DGdOztDFMBsPMX5Hwm6ZsQuVtzeVrILROjUsiCTbnV356Zgx391lrb4U1jjGI8uN9KaNkkpTux4obRlOvv7jkRpG8FD53j3LJ3O5aUc33yQGg==;m6vvXlHUYBQICKyADIcvOg=="
 ---

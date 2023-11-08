@@ -21,6 +21,36 @@ topics:
 related:
   - title: "Humanoid robots are here, but they're a little awkward. Do we really need them?"
     excerpt: "Rival robot-makers, like Figure AI, are taking a more purist approach on the idea that only true humanoids can effectively navigate workplaces, homes and a society built for humans. Figure also plans to start with a relatively simple use case, such as in a ..."
+    publishedDateTime: 2023-11-07T23:38:00Z
+    webUrl: "https://www.wral.com/story/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/21134051/"
+    ampWebUrl: "https://www.wral.com/amp/21134051/"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21134051/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 55
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/technology/2023/11/05/21134054/6547a20718d8c-media_e85d3581bf024703a51bb2dad6ab43c0-DMID1-60tzigarv-640x480.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Humanoid robots are here, but they’re a little awkward"
+    excerpt: "Building a robot that’s both human-like and useful is a decades-old engineering dream inspired by popular science fiction."
+    publishedDateTime: 2023-11-06T18:24:00Z
+    webUrl: "https://brookingsregister.com/article/humanoid-robots-are-here-but-theyre-a-little-awkward"
+    type: article
+    provider:
+      name: Brookings Register
+      domain: brookingsregister.com
+    quality: 39
+    images:
+      - url: "https://brookingsregister.com/uploads/images/2023/11/93360c7e834823fe3cb81b380f8f0a54.jpg"
+        width: 1024
+        height: 691
+        isCached: true
+  - title: "Humanoid robots are here, but they're a little awkward. Do we really need them?"
+    excerpt: "Rival robot-makers, like Figure AI, are taking a more purist approach on the idea that only true humanoids can effectively navigate workplaces, homes and a society built for humans. Figure also plans to start with a relatively simple use case, such as in a ..."
     publishedDateTime: 2023-11-06T05:11:00Z
     webUrl: "https://www.pressrepublican.com/ap/business/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/article_f3479f0c-9217-5a58-9576-1f7f95a111f0.html"
     type: article

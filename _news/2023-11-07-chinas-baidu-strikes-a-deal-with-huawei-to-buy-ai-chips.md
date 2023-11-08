@@ -6,9 +6,9 @@ publishedDateTime: 2023-11-07T13:45:00Z
 originalUrl: "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/"
 webUrl: "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/"
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 84
+heat: 164
+published: true
 
 provider:
   name: Gizmochina
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/baidu.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "How Huawei plans to rival Nvidia in the AI chip business"
@@ -83,20 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-chip cousins? CEO Nvidia, AMD lead US tech war against China"
-    excerpt: "The chief executives of Nvidia and AMD aren’t just two of the most powerful people in the global AI chip industry, they’re also cousins."
-    publishedDateTime: 2023-11-06T13:55:00Z
-    webUrl: "https://interestingengineering.com/culture/cousins-ceo-nvidia-amd"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/11/06/image/png/HFrVnBurPNDETh1zSinvHl4MKlqlLtt8AhY5s7wa.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Nvidia's long-term client Baidu orders AI chips from Huawei - Reuters"
     excerpt: "Baidu (NASDAQ: BIDU ), one of China's leading AI companies, ordered 1,600 of Huawei Technologies' 910B Ascend AI chips in August, according to Reuters. These chips, developed by Huawei as an alternative to Nvidia's (NASDAQ: NVDA ) A100 chip, were ordered for 200 servers."
     publishedDateTime: 2023-11-07T12:06:00Z
@@ -148,16 +140,7 @@ related:
       name: Channel NewsAsia Singapore
       domain: channelnewsasia.com
     quality: 33
-  - title: "Nvidia Dominates AI Chip Market, But Institutional Holders Show Unsettling Trend — Is The Spark Fading?"
-    excerpt: "Nvidia Corp NVDA has taken a dominant position in the AI space and in the broader stock market. The stock is up over 200% so far this year, on account of: the company exceeding in"
-    publishedDateTime: 2023-11-03T13:55:00Z
-    webUrl: "https://www.benzinga.com/general/hedge-funds/23/11/35591478/nvidia-dominates-ai-chip-market-but-institutional-holders-show-unsettling-trend-is-the-spark-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
 
-secured: "wPuYwbccyloBKyT7TxPmRztdPOehzsT7XNJW2hNrdbQmpanm1az/7dEN9C0r8ZjFjeqS25zbf2w57hkA5NHUvXpofMG44ZfBNPxAiGv6oK47xE7vRcPEM3ZCQFEEFN8BE1Gt+2CXIiU4nvCFSH9rUEWg4Xf0+qEdSkP2/zy/DfHyJ7cmBIvPKhoI22zORWdFoU2+UWbaF27fjnSCgP4m7LLlDPK9OUfRV3OrJs1a6ZIMBW1i7+KBnEKjB7Q5pwYf4A/r5q9HqXtJnqfs6YiWEZB48UYhXI/CjJyJUgrmA2VE1R7+8IkJEFmwuCQHQ60qCep2M49Dm3E4VnoMCuzQF+940rNJcON9UUveJxDUDbo=;q8rl29AMRAeWNJS9DjyZuA=="
+secured: "RhzTG0owOrMWgXaAxQpZJ7pGG/sU31TlbpOyyC4ky8HYSGu+TGQ9miLjd/nQjyUlx4vMYpfaZfH5BQUfQE+nGsSkhbsrvDXI1cokK8BUPGSo0XwkbvLyLJhsKrI1NUdclw2usPt1ag4H3iWOsYl392kHsN06l1MuqPFwu4GXD35rivyi2iW4KLsy5e7uUmLgOtRTK83owgaYw/ZZWtbic9Rf9hNQSpVRlBO7hUxtUXjT+zkPWrUI2dEP90eFbE9bcrgasuCovt9ChaMr6ZR4gV4QQRhYjj1Is8jya7vQ7AwzLSNbBrW/3M6NtLAYbm3cdroU2PcMfYtHDonLNyW+ggUo0/5sHU01VUM6/wAUcSw=;YYYue0MdLsdSQZl2ivonLw=="
 ---
 

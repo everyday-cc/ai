@@ -27,29 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "IBM partners AWS to launch new Innovation Lab in India"
-    excerpt: "IBM partners AWS to launch new Innovation Lab in India - IT major IBM announced the expansion of its relationship with Amazon Web Services (AWS) to help more"
-    publishedDateTime: 2023-11-07T15:43:00Z
-    webUrl: "https://www.siliconindia.com/news/general/ibm-partners-aws-to-launch-new-innovation-lab-in-india-nid-226330-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/1gw25o74.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "IBM Expands Relationship With AWS To Deepen Generative AI Innovation And Launch A New Innovation Lab In India"
-    excerpt: "November 7, 2023-- IBM (NYSE: IBM) today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from the latest technologies,"
-    publishedDateTime: 2023-11-07T13:20:00Z
-    webUrl: "https://menafn.com/1107384841/IBM-Expands-Relationship-With-AWS-To-Deepen-Generative-AI-Innovation-And-Launch-A-New-Innovation-Lab-In-India"
+  - title: "IBM Partners AWS To Launch New Innovation Lab In India"
+    excerpt: "IT major IBM on Tuesday announced expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients op"
+    publishedDateTime: 2023-11-07T10:58:00Z
+    webUrl: "https://menafn.com/1107384151/IBM-Partners-AWS-To-Launch-New-Innovation-Lab-In-India"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 15
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-11/07/I_4927bimage_story.jpg"
+        width: 1160
+        height: 522
+        isCached: true
 
 secured: "Ix0zYS1L6LyihmwnhiIl0gtciJs6HPg1EMbr6lzDdERZ38QvHv4/RYSHWc9QuD0SINRCWsq5xueLi65axxF8ar7EujCeELtdNrvobAqBiOeKQeQ5HPMr+To2FSAQxsx+qBdm3UXfXT8xAr88muw3YUsoWThC+SvbiDfqRvhVQUxIoba7SJe4sn4MyBlkrUoEN7bC5+gaz6Igxnh/uTLf4gIy4w3aanI6HY6bP13d9THikrgUC2g1XhRTyldxNx6qseea5hsRREGjOPqCGzyEQ1W5JkRhbT1ikkywT6qWZjqJ2X9+JuXSpArMhbtQLKuF2wfq1Wp9CMSAHQNuEfCXY6xnwIHTu3luks/+yUe6mos=;f8CnakLJ/Dz3U46sRGZESA=="
 ---

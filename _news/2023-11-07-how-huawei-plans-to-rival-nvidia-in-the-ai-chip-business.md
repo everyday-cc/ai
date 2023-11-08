@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/how-huawei-plans-rival-nvidia-a
 webUrl: "https://www.reuters.com/technology/how-huawei-plans-rival-nvidia-ai-chip-business-2023-11-07/"
 type: article
 quality: 84
-heat: 184
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "China’s Baidu Strikes a Deal with Huawei to Buy AI Chips"
+    excerpt: "Although Huawei's chips aren't yet on par with Nvidia's in performance, they represent the most advanced AI chips China has to offer"
+    publishedDateTime: 2023-11-07T13:45:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/baidu.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Baidu placed AI chip order from Huawei in shift away from Nvidia"
     excerpt: "Baidu ordered 1,600 of Huawei Technologies' 910B Ascend AI chips - which the Chinese firm developed as an alternative to Nvidia's A100 chip - for 200 servers, the source said, adding that by October, Huawei had delivered more 60% of the order, or about 1,000 chips, to Baidu."
     publishedDateTime: 2023-11-07T10:37:00Z
@@ -74,29 +88,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2023/11/07/d43490ed-0fb7-4d99-a333-1e5acc2c2dff_06af8282.jpg?itok=z22Kp4uU&v=1699347307"
         width: 1200
         height: 630
-        isCached: true
-  - title: "China’s Baidu Strikes a Deal with Huawei to Buy AI Chips"
-    excerpt: "Although Huawei's chips aren't yet on par with Nvidia's in performance, they represent the most advanced AI chips China has to offer"
-    publishedDateTime: 2023-11-07T13:45:00Z
-    webUrl: "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 64
-  - title: "AI-chip cousins? CEO Nvidia, AMD lead US tech war against China"
-    excerpt: "The chief executives of Nvidia and AMD aren’t just two of the most powerful people in the global AI chip industry, they’re also cousins."
-    publishedDateTime: 2023-11-06T13:55:00Z
-    webUrl: "https://interestingengineering.com/culture/cousins-ceo-nvidia-amd"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/11/06/image/png/HFrVnBurPNDETh1zSinvHl4MKlqlLtt8AhY5s7wa.png"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Nvidia's long-term client Baidu orders AI chips from Huawei - Reuters"
     excerpt: "Baidu (NASDAQ: BIDU ), one of China's leading AI companies, ordered 1,600 of Huawei Technologies' 910B Ascend AI chips in August, according to Reuters. These chips, developed by Huawei as an alternative to Nvidia's (NASDAQ: NVDA ) A100 chip, were ordered for 200 servers."
@@ -149,15 +140,6 @@ related:
       name: Channel NewsAsia Singapore
       domain: channelnewsasia.com
     quality: 33
-  - title: "Nvidia Dominates AI Chip Market, But Institutional Holders Show Unsettling Trend — Is The Spark Fading?"
-    excerpt: "Nvidia Corp NVDA has taken a dominant position in the AI space and in the broader stock market. The stock is up over 200% so far this year, on account of: the company exceeding in"
-    publishedDateTime: 2023-11-03T13:55:00Z
-    webUrl: "https://www.benzinga.com/general/hedge-funds/23/11/35591478/nvidia-dominates-ai-chip-market-but-institutional-holders-show-unsettling-trend-is-the-spark-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
 
 secured: "ha4vsOUsxr2uNOvdYXyIQ8xefJ9uhwLFy9LeuLvE9OWGKARs52TQ/646pBwptoOYhAFtuIvZecqNtPLY9ZxYpEen31tmM+py6FfHrouyNYJvux2ctqYOrCFT24YrC5bwQ9F0kGq6T3KwjTn0FwC4gm7J8M4CpRxRZ0L2kATGBOyVpvRseqMbLv1T+e9jsQW0kBzBbNqXRcNg1F5GYgQ/xFAeedHcgtcYh5p9MUwD3veZJWfvrN/SPPiwqbHwPYWc+nTiOcuxhxYIzRWoJqrfpzKrNfI3qosFRvip2ZQG2bulQ8ejO1ybHTXJj7BMHhndDtVI+ZDfiuUmpJ8Vrl8jLZCnuxG/+vYLxwigZswkcLPZIPvNL7G47YXDo7ibepVy76r80C50bfxq8XMjY+tCckhhUCtx+fyTiiD9FrsqVlq44KPHFY3ZvHAZ+7XcTSLP42a7ZvulYpITmUoS7H8dSEFFEGaRI+qFeCFqzfwuWkAZT4RFqERi5aoT3U53rgHFar/yG6OwJCvaI6LxYb8f7w==;N4spivB6Fl2UdcTJRTwieA=="
 ---

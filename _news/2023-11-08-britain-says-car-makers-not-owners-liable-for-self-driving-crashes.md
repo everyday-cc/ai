@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/world-news/britain-says-car-makers-not-owners-l
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/britain-says-car-makers-not-owners-liable-for-self-driving-crashes-4555517/amp/1"
 type: article
 quality: 59
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -88,6 +88,22 @@ related:
       - url: "https://i2-prod.mirror.co.uk/incoming/article31383652.ece/ALTERNATES/s1200/0_Businesswoman-with-laptop-working-in-driverless-car.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Self-driving car users will escape prosecution for serious offence under bombshell plans"
+    excerpt: "BOMBSHELL plans by the Government will see those who use self-driving cars escape prosecution if their vehicle causes a fatal crash. The companies who produce the automatic vehicles will instead"
+    publishedDateTime: 2023-11-07T22:40:00Z
+    webUrl: "https://www.thesun.co.uk/motors/24665641/self-driving-car-users-prosecution-bombshell-plans/"
+    ampWebUrl: "https://www.thesun.co.uk/motors/24665641/self-driving-car-users-prosecution-bombshell-plans/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/24665641/self-driving-car-users-prosecution-bombshell-plans/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 35
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/11/newspress-collage-24665641-1699400447338.jpg?1699400469&strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "UK Weighs Criminal Liability for Self-Driving Car Companies"
     excerpt: "Self-driving car companies could face criminal action in the UK if their vehicles fail to meet safety standards in the most serious cases. New legislation, introduced in today’s speech by King Charles III who arrived at parliament in a horse-drawn ..."

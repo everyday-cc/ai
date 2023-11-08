@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/94233/xbox-secures-generative-ai-to
 webUrl: "https://www.tweaktown.com/news/94233/xbox-secures-generative-ai-to-create-game-stories-quests-and-dialog/index.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,26 @@ images:
     width: 1500
     height: 843
     isCached: true
+
+related:
+  - title: "TechSmith Audiate Launches Generative AI Features For Instant Content Creation"
+    excerpt: "TechSmith Corporation, an industry leader in visual communication and video creation, announces the launch of generative AI scripting and voiceover features in Audiate, the company’s audio recorder and text-based editing solution."
+    publishedDateTime: 2023-11-07T15:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/techsmith-audiate-launches-generative-ai-features-for-instant-content-creation-1032788734"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+  - title: "IBM Expands Relationship With AWS To Deepen Generative AI Innovation And Launch A New Innovation Lab In India"
+    excerpt: "November 7, 2023-- IBM (NYSE: IBM) today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from the latest technologies,"
+    publishedDateTime: 2023-11-07T13:20:00Z
+    webUrl: "https://menafn.com/1107384841/IBM-Expands-Relationship-With-AWS-To-Deepen-Generative-AI-Innovation-And-Launch-A-New-Innovation-Lab-In-India"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 15
 
 secured: "GIhW5/LqlkmrSadeYDWBYH/WUgMta5rcAiONDGA1/cukdT0s4roQy/DLgxGL8Ja3Ft3M9BjKp5gHUY2b4MvqhZNs6JNMsV5ab4q2bZpck6WYe6mQrgqyNZxAJ+v1RGA9x5ZVYZH3g7rzOL8uIfm4d9RkCvu9L7GOCoBzXwqf22YUSOuvhxqFC831pYMC91LhRUbMq+okiA4SPYLoqpUu77oBPwQtZnYXYlClRus8njtY1tFi2eaPRorZy+fEKdPp+8ZjgymW15GU1YEma27C3ap977q3crjC2qfB/go2A2OevCIpMBl9cUOQMVqQmZH8iVPQcJJI4SkJvoxeHZCAmSHJTQrQ0YnOW+JAqdnknrU=;da1cH7dLPpMvtp4AkxcgKg=="
 ---

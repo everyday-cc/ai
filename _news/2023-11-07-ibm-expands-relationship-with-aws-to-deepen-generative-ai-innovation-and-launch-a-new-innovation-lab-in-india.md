@@ -19,35 +19,28 @@ topics:
   - AI
 
 related:
-  - title: "IBM partners AWS to launch new Innovation Lab in India"
-    excerpt: "IBM partners AWS to launch new Innovation Lab in India - IT major IBM announced the expansion of its relationship with Amazon Web Services (AWS) to help more"
-    publishedDateTime: 2023-11-07T15:43:00Z
-    webUrl: "https://www.siliconindia.com/news/general/ibm-partners-aws-to-launch-new-innovation-lab-in-india-nid-226330-cid-1.html"
+  - title: "TechSmith Audiate Launches Generative AI Features For Instant Content Creation"
+    excerpt: "TechSmith Corporation, an industry leader in visual communication and video creation, announces the launch of generative AI scripting and voiceover features in Audiate, the company’s audio recorder and text-based editing solution."
+    publishedDateTime: 2023-11-07T15:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/techsmith-audiate-launches-generative-ai-features-for-instant-content-creation-1032788734"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+  - title: "Xbox secures generative AI to create game stories, quests, and dialog"
+    excerpt: "Microsoft's cutting-edge cloud-based AI solutions including Azure OpenAI Service, Microsoft Research's technical insights into the future of play, and Team Xbox's strengths in revolutionizing accessible and responsible creator tools for all developers."
+    publishedDateTime: 2023-11-06T20:24:00Z
+    webUrl: "https://www.tweaktown.com/news/94233/xbox-secures-generative-ai-to-create-game-stories-quests-and-dialog/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
     quality: 39
     images:
-      - url: "https://www.siliconindia.com/news/newsimages/1gw25o74.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "Amdocs Joins Integrated Private Wireless on AWS as System Integrator, Enabling Service Providers to Unlock New Innovations in Mobile Private Networks"
-    excerpt: "Collaboration will bring together Amdocs' Mobile Private Network Solutions, AWS's reliable and secure infrastructure and services powered by Intel® Xeon® processors, with leading service providers to"
-    publishedDateTime: 2023-11-07T20:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/ac35659273/amdocs-joins-integrated-private-wireless-on-aws-as-system-integrator-enabling-service-providers-t"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35659273"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35659273"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://static.tweaktown.com/news/9/4/94233_1_xbox-to-use-generative-ai-create-game-stories-quests-and-dialog_full.png"
+        width: 1500
+        height: 843
         isCached: true
 
 secured: "hJ5+Od6idRj9btqW/tFqoOnNvR5Gkg3c8ZxRRxsnhzyoAHq2Sr52stIe7rGjxPmxP1Fjv7yWRTvkXyANikfqp2xdGuvhP1u1TpoyOt/kq+LQOf9AuRnC2g0+IfdgfNo7a3if6ePCSKk91AoG7sHtYbP+ZEz9WuPy3O5TCGBFDkojbQ0xX9taKA2WKJVsTZznIu2DKNe+fqRKUeDJKEmbBa2jxsU9+1XiAxOzmO5YbS/SSdlRDZLf9TBaBa+G25RET6Wg8bQCHvpfUNVqRX30AYhyr5vuRSxn/aSly8jaqdOGIoXeKjHgAm8rv+XqYsJbzMP9hAIIPlyj7nvQfg0gdkilPg/zCGjLjbHsTmq5oVcz+xN9juAbSaTqeerCnzgKMdofedMaTpgoBneIjKF8bDkZnIQ/O6Y2qkNyfw7LuV9EokEaZL+zMz8SeWxiaG/nM7Xa2U5RlUrbkOsplwnst7R6lZ9VQ256p8/goxhHi7RGPih0scDxmYbCWarERTYV+BNSFWiKdBwwIhGYuKgW/A==;GgtrRhnhSbr76dOLnhOuwQ=="

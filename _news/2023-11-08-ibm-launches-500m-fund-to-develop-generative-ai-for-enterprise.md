@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "IBM, which invested in Hugging Face, launches $500M enterprise AI venture fund"
+    excerpt: "IBM announced today that it is launching a $500 million venture fund to invest in enterprise AI-focused startups."
+    publishedDateTime: 2023-11-08T00:03:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-which-invested-in-hugging-face-launches-500m-enterprise-ai-venture-fund/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/c463d59a-fd3e-4a2c-b71b-4634e118cf35.webp?w=1200&strip=all"
+        width: 1200
+        height: 685
+        isCached: true
   - title: "IBM launches $500M venture fund targeting artificial intelligence sector"
     excerpt: "IBM is stepping up its artificial intelligence play, creating a $500 million venture capital fund in which it is the only investor to, in its words, back companies \"focused on accelerating generative AI technology and research for the enterprise."
     publishedDateTime: 2023-11-07T16:13:00Z
@@ -35,24 +49,6 @@ related:
         width: 1260
         height: 707
         isCached: true
-  - title: "TechSmith Audiate Launches Generative AI Features For Instant Content Creation"
-    excerpt: "TechSmith Corporation, an industry leader in visual communication and video creation, announces the launch of generative AI scripting and voiceover features in Audiate, the company’s audio recorder and text-based editing solution."
-    publishedDateTime: 2023-11-07T15:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/techsmith-audiate-launches-generative-ai-features-for-instant-content-creation-1032788734"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-  - title: "Lidl owner and Bosch Ventures co-lead $500M Series B into German AI startup Aleph Alpha"
-    excerpt: "German AI startup Aleph Alpha has raised a Series B funding round of $500 million from a consortium of seven new investors, as well as existing investors"
-    publishedDateTime: 2023-11-06T17:30:00Z
-    webUrl: "https://techcrunch.com/2023/11/06/lidl-owner-and-bosch-ventures-co-lead-500m-series-b-into-german-ai-start-up-aleph-alpha/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 39
   - title: "IBM launches $500M fund to invest in enterprise AI startups"
     excerpt: "IBM already made a number of AI startup investments prior to the launch of the fund. In September, it backed a $50 million round for HiddenLayer Inc., which develops a platform designed to protect language models from cyberattacks. IBM earlier joined a $ ..."
     publishedDateTime: 2023-11-07T22:36:00Z

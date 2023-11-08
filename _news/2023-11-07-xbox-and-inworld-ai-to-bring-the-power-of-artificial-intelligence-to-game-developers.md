@@ -25,56 +25,42 @@ images:
     isCached: true
 
 related:
-  - title: "Xbox partners with Inworld AI to build AI tools for game development"
-    excerpt: "GamesBeat Next's on-demand library is now live! Start catching up on the 30+ sessions you might have missed.  Watch Now Microsoft’s Xbox and Inworld AI have partnered to create AI-powered game development tools for narrative and character creation."
-    publishedDateTime: 2023-11-06T16:00:00Z
-    webUrl: "https://venturebeat.com/games/xbox-partners-with-inworld-ai-to-build-ai-tools-for-game-development/"
+  - title: "AI robots, marketing, and the power of persuasion"
+    excerpt: "Associate Professor Mark Yi-Cheon Yim engages with a companion unlike any other. On his desk sits a charming AI robot dog, a Sony aibo."
+    publishedDateTime: 2023-11-08T00:03:00Z
+    webUrl: "https://www.earth.com/news/ai-robots-marketing-and-the-power-of-persuasion/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: earth
+      domain: earth.com
+    quality: 71
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/11/inworld-xbox-1x.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://cff2.earth.com/uploads/2023/11/07165122/AI-robot_cashier_store_1medium.jpg"
+        width: 2500
+        height: 1881
         isCached: true
-  - title: "Xbox Team Working on Generative AI for Game Development"
-    excerpt: "A Microsoft partnership with Inworld aims to speed up game development and enable more interactive non-playable characters, but it could face backlash from human game developers."
-    publishedDateTime: 2023-11-06T17:04:00Z
-    webUrl: "https://www.pcmag.com/news/xbox-team-working-on-generative-ai-for-game-development"
+  - title: "Swarm Robotics Market to Touch USD 6.53 Billion by 2030 on Account of Advancements in Artificial Intelligence and Robotics"
+    excerpt: "Swarm Robotics Market to Touch USD 653 Billion by 2030 on Account of Advancements in Artificial Intelligence and Robotics nbsp"
+    publishedDateTime: 2023-11-03T13:13:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274020577/swarm-robotics-market-to-touch-usd-653-billion-by-2030-on-account-of-advancements-in-artificial-intelligence-and-robotics"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 43
     images:
-      - url: "https://i.pcmag.com/imagery/articles/04oQe70qTgjqVipzE5ug8ff-1.fit_lim.size_1200x630.v1699285389.jpg"
-        width: 1120
-        height: 630
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2023/11/icn467205-icnSNS-INSIDER-300X300.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Microsoft adopt Inworld AI tech behind blocked GTA5 mod to \"enrich\" videogame narrative and character creators"
-    excerpt: "Much like Weyland-Yutani linking arms with Skynet, Microsoft have teamed up with Inworld to bring the latter's"
-    publishedDateTime: 2023-11-06T17:45:00Z
-    webUrl: "https://www.rockpapershotgun.com/microsoft-adopt-inworld-ai-tech-behind-blocked-gta5-mod-to-enrich-videogame-narrative-and-character-creators"
+  - title: "AI and the Erosion of Human Cognition"
+    excerpt: "The intersection of AI and human cognition is as much about philosophy and ethics as it is about technology. If history is any guide, every significant technological advancement brings with it societal trepidation. The printing press, electricity ..."
+    publishedDateTime: 2023-11-05T21:41:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202311/ai-and-the-erosion-of-human-cognition"
     type: article
     provider:
-      name: Rock Paper Shotgun
-      domain: rockpapershotgun.com
-    quality: 34
-    images:
-      - url: "https://assetsio.reedpopcdn.com/inworld-micorsoft.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Xbox and Inworld AI forge game-changing alliance"
-    excerpt: "Xbox has unveiled a partnership with Inworld AI aimed at transforming game development using AI-powered tools."
-    publishedDateTime: 2023-11-06T16:56:00Z
-    webUrl: "https://www.developer-tech.com/news/2023/nov/06/xbox-and-inworld-ai-forge-game-changing-alliance/"
-    type: article
-    provider:
-      name: Developer Tech
-      domain: developer-tech.com
+      name: Psychology Today
+      domain: psychologytoday.com
     quality: 19
 
 secured: "UllGUuGSmou1ZyNDHFXWbLIjA7+98bZtzRMDjJxyO+wm+lN5P5LmsjJktSdR0WOa4THTzKspZoRri7pbpEPvAi22TO1BK3tuMouANsWwrGt8X58VwsMlsLJmQbwHhqDTpz0se9+Se8c/9mfKUTVFYkXqN2DvVAQXgE95nyJFvJ2EtLdHGwikfl8pCbjTH70eqjCkndgDoN7/M9BmbGODAsgHVrWSU/uuiC6Cy3sLr0POYxPrcVVGWeW4zYImEPLG19WynqDoC++x+Y4xVcs1IjRGOL+4B9jEShaTVppk9o7RdN3L5NsWnC5kqwNkswQWX61T8bNueMru3fhTd0S2Z+aZ6NdFgresJkNlNEqyAIc=;4Hooj4yRg7t3ujj9xxcPVw=="

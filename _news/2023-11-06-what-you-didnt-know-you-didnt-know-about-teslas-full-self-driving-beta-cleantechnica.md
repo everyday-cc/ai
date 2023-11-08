@@ -7,7 +7,7 @@ originalUrl: "https://www.inferse.com/785796/what-you-didnt-know-you-didnt-know-
 webUrl: "https://www.inferse.com/785796/what-you-didnt-know-you-didnt-know-about-teslas-full-self-driving-beta-cleantechnica/"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla owner wins ~$10k settlement over Tesla’s full self-driving claims"
+    excerpt: "A Tesla owner in the UK challenged Tesla over its failure to deliver on its full self-driving claims and won a settlement representing a refund of his purchase cost of FSD, with interest, after filing a claim in small claims court."
+    publishedDateTime: 2023-11-08T00:22:00Z
+    webUrl: "https://electrek.co/2023/11/07/tesla-owner-wins-10k-settlement-over-teslas-full-self-driving-claims/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 84
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2023/11/Screenshot-2023-11-07-at-3.56.47 PM.jpg?quality=82&strip=all&w=926"
+        width: 926
+        height: 1024
+        isCached: true
   - title: "What’s the difference between Tesla Autopilot and Full Self-Driving? – Digital Trends"
     excerpt: "Cars are quickly changing. Companies are increasingly adopting new technologies to roll out fully electric models. At the same time, those companies are"
     publishedDateTime: 2023-11-04T22:24:00Z

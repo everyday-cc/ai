@@ -43,6 +43,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Artificial Intelligence (AI) In Social Media Market To Generate $11.99 Billion By 2031 | CAGR 28.7%"
+    excerpt: "AI-driven algorithms that are able to scan social media data to detect possible financial hazards including market volatility, fraud, a"
+    publishedDateTime: 2023-11-08T00:46:00Z
+    webUrl: "https://menafn.com/1107390062/Artificial-Intelligence-AI-In-Social-Media-Market-To-Generate-1199-Billion-By-2031-CAGR-287"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?769409"
+        width: 326
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence (AI) Market to Reach $3,636 Billion, Globally, by 2033 at 37.3% CAGR: Allied Market Research"
     excerpt: "Increase in investments in artificial intelligence systems, rise in collaboration between industries and artificial intelligence and machine learning solution companies, and increase in customer satisfaction and adoption of reliable cloud applications drive the growth of the global artificial intelligence (AI) market NEW CASTLE,"
     publishedDateTime: 2023-11-06T07:01:00Z

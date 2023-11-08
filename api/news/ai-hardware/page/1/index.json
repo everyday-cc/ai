@@ -203,21 +203,21 @@
       ]
     },
     {
-      "path": "_news/2023-11-07-how-huawei-plans-to-rival-nvidia-in-the-ai-chip-business.md",
-      "title": "How Huawei plans to rival Nvidia in the AI chip business",
-      "excerpt": "U.S. curbs on the sales of advanced artificial chips by Nvidia to China are creating an opening for Huawei to win market share, with sources saying it won a sizeable AI chip order from Chinese tech giant Baidu this year.",
+      "path": "_news/2023-11-07-chinas-baidu-strikes-a-deal-with-huawei-to-buy-ai-chips.md",
+      "title": "China’s Baidu Strikes a Deal with Huawei to Buy AI Chips",
+      "excerpt": "Although Huawei's chips aren't yet on par with Nvidia's in performance, they represent the most advanced AI chips China has to offer",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/how-huawei-plans-rival-nvidia-ai-chip-business-2023-11-07/",
-      "originalUrl": "https://www.reuters.com/technology/how-huawei-plans-rival-nvidia-ai-chip-business-2023-11-07/",
+      "webUrl": "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/",
+      "originalUrl": "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/AafQV_RjP40L-o8PIAwZ8hWQ0I4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RLTZDCVJVBNCJATFEDGPM4IL5Y.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/baidu.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -227,14 +227,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T00:14:00-08:00",
+      "publishedDateTime": "2023-11-07T05:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -263,7 +263,7 @@
       "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/11/133_362725.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -349,7 +349,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -454,7 +454,7 @@
       "originalUrl": "https://www.barrons.com/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 79,
       "tags": null,
       "images": [
         {

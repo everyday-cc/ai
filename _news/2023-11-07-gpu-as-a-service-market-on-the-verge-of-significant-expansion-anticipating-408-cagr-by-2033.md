@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Global Service Robotics Market Expected to Reach $187.33 Billion by 2030, Driven by Increasing Adoption Across Industries"
+    excerpt: "The global service robotics market is set for substantial growth, with an anticipated value of US$ 187.33 billion by 2030, according to this report."
+    publishedDateTime: 2023-11-06T11:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/06/9911561.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
   - title: "Embedded Intelligence Market Poised for an Impressive 11.2% CAGR, Envisions Reaching US$ 81,356.7 Million by 2033"
     excerpt: "The global embedded intelligence market is expected to grow significantly, reaching a market value of US$ 861,356.7 million by the year 2033. This substantial increase comes from a base value of US$ 28,"
     publishedDateTime: 2023-11-06T05:15:00Z
