@@ -33,7 +33,7 @@ related:
     provider:
       name: earth
       domain: earth.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://cff2.earth.com/uploads/2023/11/07165122/AI-robot_cashier_store_1medium.jpg"
         width: 2500

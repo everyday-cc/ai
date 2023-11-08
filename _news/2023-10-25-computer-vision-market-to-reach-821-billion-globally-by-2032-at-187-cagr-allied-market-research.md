@@ -15,6 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "+k2v5l4w/FV8KpXhDh6WobIeYz60Qd+iRnOhusJuXX3fbYh660mH+l4FFDdxQd8FzgIK58r6jNDaVaYbtcNj/Ug3fZS5kFYJ7ark7fKHqJcMFRG8QYEol2x3JE97KBameYNZN19ZsViq+OhgXiZAdbQG19p5EpV9bvn5xuayE825f15Mr7qSuMQHqMMnfUogE/O1b8enbwgE+UHuQTIdAPcUNzoLgRyyWAq35Yw6kYroXq0ePDI+pIAM3612P0cFwfZBNzOgTDOhuMwJO6Pp7TBHBz8nCNC+w9S1xUplACKRAgV8/pIF2IUj4WyUOHotNM7BD+zNusmGX4zWHqSoQt5DEZ6sa6yG8bSPRK33bOc=;Va1hP9j7ZadQzm3GxuKWzQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
+    width: 400
+    height: 400
+    isCached: true
+
+secured: "csxdhAqSxO2+suiPL20ZZBHF3uhm+/iGfgX/3nsGEvlkjgFcWZVbPz0wOeSCHnO/sQNy484UnR3otsVBa0v0KBDl11KGulyepauHs0AW2KaQYl/ArDyPwkn2qL1l8uL6DF8eG349hv0HIhaQVP12pBJjgLmw3ERYcZaR0TnfkA8iTg7Be2G5U0sZWx0izb3OOELSak+n9bhIz2fqwYBNdZ9VNBuTxlw7j0ZyG/SILb8sqAr8VCCpiInkvIf380vygyifn2GDdA+9X5uB+MHGaa8SOpkgdsYv3PB02fwQ0z+dGdwREibQAUCCX7fgBSnCOLjQz1QiCvfvmfSESN3IzDQXaqzTeWxChPpdSH1JY9g=;FPwWzPTN1PSYXmOYqLUJYw=="
 ---
 

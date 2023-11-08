@@ -45,6 +45,20 @@ related:
         width: 1353
         height: 900
         isCached: true
+  - title: "OpenAI wants to be the App Store of AI"
+    excerpt: "The creator of ChatGPT is taking a big swing with its new store for AI bots. Are we witnessing the beginning of a new platform?"
+    publishedDateTime: 2023-11-08T02:24:00Z
+    webUrl: "https://www.theverge.com/2023/11/7/23951673/openai-chatgpt-store-ai-devday"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 67
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/Rj1KNOi4tsvd1yHpW1JfsjNSxb0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25067108/Command_Line_Site_Post_Sam_Altman.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "kosmyOlMjG8FyB7hw2TW274wqwWdbuhKiP2U2rZWGhxXrzxBpDvx2UruorGYBmd0b1qF+AXiFxNNFi6l7Z4wpEzEWdV4fooWZdMlBS/hzjcfBIe08CzUNW7vAz6Ed14EbmQzPtkaWoR7R91tBmgrswG1HHauwaR3V6zhlT1cCOIUcmc1ktdwyS5DOOlBeTPhDFpYKk9h4ZGfMm4REFpvvMyU6V4y3dQ5gsFN1mp0tj0sbUm7vt8UASBF6+1AUA2YVKfL/WfZbBqwqdhez1XDnN2Vp12UiMNaOSbZF87GWDAwAj/eli4hi76ok+/OqkB2AD7O70XG/MFnEeZtaMAEcGeHB65VMNCPnNf615QBuqE=;3p/SN5e0DrFExET33ERfsw=="
 ---

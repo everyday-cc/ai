@@ -95,6 +95,20 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Six champions of generative AI innovation"
+    excerpt: "Damien Riehl has helped to develop innovative AI-driven technology aimed at three disparate professional groups, in quick succession: musicians; intellectual property litigants; and lawyers."
+    publishedDateTime: 2023-11-08T02:01:00Z
+    webUrl: "https://www.ft.com/content/0138bbd5-4266-48a2-a81f-c04549fa4f00"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F045a52eb-a8ce-436d-8d55-b51e7780855a.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "UKsnRb5R7vz5i9K1Cq4MlP15P5Uxj7Roumc0IOysHcLVJAPM96dH/q8RmyosxuSslT85XudaYNnuCE3ECRps7My3CzcyHwtRhIfoamlQV5qy1fT2ZMn1EBX99u7uvVeOOMzWa+/BlMeaSietBOXgDkvbAQyj7GiagevPql/ZKco19TZ/rTQG6qhNyRMM/AaHSh+NTKqLc8JZxBWD3XGMbF9BgxH6G/upKHuervjO2uFStGy908z+x1UXhDnHOyCMSNlY9K6em/9OLGOI9R50rYL6cvsoVxP+J8sTC/ACa9pgie3Z+s6rojkxp8aOJAEm3TUeePMCZ6tN5CDvAul3xsQJl5Gn+leDA4+eMkTR03fbEFHjASfnJ7+QJz6Ovpud3wr9YDNyVRm3yOxTjC2Cn7UeuiRWUZwLWjfzKrVPr/2E8iSAm7UBCV4PX9l76WcEvZAGCPp9BaxaoKF6bvZhIH33BUIGaUIPiiWL1IN2uLH6I9GhOAmB5vD8Z71b2KA1crtmLsYTx8jyET2JRgm22w==;Pqo3OG8JkrktSV70DmpupQ=="
 ---

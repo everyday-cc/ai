@@ -110,15 +110,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Can artificial intelligence help with mental health?"
-    excerpt: "ALBWABA - Artificial intelligence (AI) is transforming the healthcare sector, providing innovative solutions to combat the growing crisis in mental heal"
-    publishedDateTime: 2023-11-03T08:12:00Z
-    webUrl: "https://www.albawaba.com/editors-choice/can-artificial-intelligence-help-mental-health-1540146"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 19
   - title: "U.S. Regulation of Artificial Intelligence: Presidential Executive Order Paves the Way for Future Action in the Private Sector"
     excerpt: "On October 30, 2023, President Joe Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (Order) that addresses the responsible use of artificial intelligence (AI) by the federal government and ..."
     publishedDateTime: 2023-11-06T17:58:00Z

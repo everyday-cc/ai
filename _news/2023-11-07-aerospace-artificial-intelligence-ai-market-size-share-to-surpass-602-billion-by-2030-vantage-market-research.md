@@ -50,7 +50,7 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 40
+    quality: 42
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?769409"
         width: 326

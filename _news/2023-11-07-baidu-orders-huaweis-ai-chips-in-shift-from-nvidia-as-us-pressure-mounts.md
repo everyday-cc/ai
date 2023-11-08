@@ -113,6 +113,20 @@ related:
         width: 251
         height: 282
         isCached: true
+  - title: "Baidu Turns to Huawei for AI Chips as an Alternative to Nvidia"
+    excerpt: "A prominent Chinese artificial intelligence (AI) company, Baidu, has placed an order for artificial intelligence chips from Huawei."
+    publishedDateTime: 2023-11-08T00:30:00Z
+    webUrl: "https://techreport.com/news/baidu-turns-to-huawei-for-ai-chips-as-an-alternative-to-nvidia/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/11/AI-chips-teaser.jpg"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Exclusive-Baidu placed AI chip order from Huawei in shift away from Nvidia -sources"
     excerpt: "Baidu ordered artificial intelligence chips from Huawei this year, two people familiar with the matter said, adding to signs that U.S. pressure is prompting Chinese acceptance of the firm's products as an alternative to Nvidia's."
     publishedDateTime: 2023-11-07T07:54:00Z

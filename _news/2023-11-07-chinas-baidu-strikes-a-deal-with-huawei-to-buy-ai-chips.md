@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/
 webUrl: "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/"
 type: article
 quality: 84
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
         width: 251
         height: 282
         isCached: true
+  - title: "Baidu Turns to Huawei for AI Chips as an Alternative to Nvidia"
+    excerpt: "A prominent Chinese artificial intelligence (AI) company, Baidu, has placed an order for artificial intelligence chips from Huawei."
+    publishedDateTime: 2023-11-08T00:30:00Z
+    webUrl: "https://techreport.com/news/baidu-turns-to-huawei-for-ai-chips-as-an-alternative-to-nvidia/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/11/AI-chips-teaser.jpg"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Baidu Orders Huawei's AI Chips in Shift from Nvidia as US Pressure Mounts"
     excerpt: "Baidu has reportedly ordered artificial intelligence chips from Huawei to meet the increasing demand for advanced technology solutions. This move comes amidst mounting pressure on Chinese companies following"
     publishedDateTime: 2023-11-07T10:02:00Z
@@ -141,6 +155,6 @@ related:
       domain: channelnewsasia.com
     quality: 33
 
-secured: "RhzTG0owOrMWgXaAxQpZJ7pGG/sU31TlbpOyyC4ky8HYSGu+TGQ9miLjd/nQjyUlx4vMYpfaZfH5BQUfQE+nGsSkhbsrvDXI1cokK8BUPGSo0XwkbvLyLJhsKrI1NUdclw2usPt1ag4H3iWOsYl392kHsN06l1MuqPFwu4GXD35rivyi2iW4KLsy5e7uUmLgOtRTK83owgaYw/ZZWtbic9Rf9hNQSpVRlBO7hUxtUXjT+zkPWrUI2dEP90eFbE9bcrgasuCovt9ChaMr6ZR4gV4QQRhYjj1Is8jya7vQ7AwzLSNbBrW/3M6NtLAYbm3cdroU2PcMfYtHDonLNyW+ggUo0/5sHU01VUM6/wAUcSw=;YYYue0MdLsdSQZl2ivonLw=="
+secured: "iuDCBFqZcPU+nOTCItebp+f73GhRyClbxI868cGyP6BM9zgwsvLBoYm355mBazoYaFvrBAjAI3K2ljQuvajN+q+yrROtAQRYizRlxLQCAJPFmHwU3ZXr7zIcUUgoYpmhSKNL5NynYURqX+SSfqhSwwt+j02+snnbejctQ12+xIdubTjHntPUBar7zESU4Cmx4IYvb11w6cq85eR96LG7DwOw+IVMsk20sFBBNUDGxeMnog+Hmj8aMpF9wPB0HoW598bSneZntw2/rjc+KlBsOMOQJ4TpAoTxT4zCY1Wzps8pVh60od9K8gprOxcUs1gWFYY0YcMKEdP9I/B2cIzBYDSVGG9HAE56GIc0gwvFHQDZKLjg7Lex2UWJsMjcqSq8ChxNctQm+nmhxJCeTxsRh4rc8EfK/GR129Pt9BV+DJWWGbojC9krjURUQF6AXW9ru6iCVt2RK5x8xWen0fAKeLD6SPEXZ9CXT+By384x9/OChMVQcBa+oVZZZ/jIRUTFh6rXlPK9HNPzwpqqDuzhTQ==;1v9eNxhE4TFrv0sSyDX5OA=="
 ---
 

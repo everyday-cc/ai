@@ -47,7 +47,7 @@ related:
     provider:
       name: AOL
       domain: aol.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://s.yimg.com/ny/api/res/1.2/z5O7HXv3L4rOlk9usGH65Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/fd4f9afbf7a108eb72c189acbbde337d"
         width: 1200

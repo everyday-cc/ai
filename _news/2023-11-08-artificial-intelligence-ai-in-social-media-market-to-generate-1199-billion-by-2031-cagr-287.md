@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-08T00:46:00Z
 originalUrl: "https://menafn.com/1107390062/Artificial-Intelligence-AI-In-Social-Media-Market-To-Generate-1199-Billion-By-2031-CAGR-287"
 webUrl: "https://menafn.com/1107390062/Artificial-Intelligence-AI-In-Social-Media-Market-To-Generate-1199-Billion-By-2031-CAGR-287"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?769409"

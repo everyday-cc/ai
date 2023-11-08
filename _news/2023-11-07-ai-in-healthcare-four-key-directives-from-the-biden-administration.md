@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/"
 type: article
 quality: 106
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -102,15 +102,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Can artificial intelligence help with mental health?"
-    excerpt: "ALBWABA - Artificial intelligence (AI) is transforming the healthcare sector, providing innovative solutions to combat the growing crisis in mental heal"
-    publishedDateTime: 2023-11-03T08:12:00Z
-    webUrl: "https://www.albawaba.com/editors-choice/can-artificial-intelligence-help-mental-health-1540146"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 19
   - title: "OMB Releases Implementation Guidance Following President Biden’s Executive Order on Artificial Intelligence"
     excerpt: "President Biden signed a landmark Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. As the United States takes action to realize the tremendous promise of AI while managing its risks,"
     publishedDateTime: 2023-11-06T20:01:00Z

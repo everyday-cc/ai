@@ -193,18 +193,18 @@ related:
         height: 640
         isCached: true
   - title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
-    excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT has unveiled the future it has in mind for its artificial intelligence technology."
-    publishedDateTime: 2023-11-07T03:15:00Z
-    webUrl: "https://www.click2houston.com/business/2023/11/06/chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/"
+    excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT has unveiled the future it has in mind for its artificial intelligence technology"
+    publishedDateTime: 2023-11-06T16:15:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/11/06/chatgpt-openai-tech-showcase/7b091e0a-7cb9-11ee-b5cc-66c30a3bbb91_story.html"
     type: article
     provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 25
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 23
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5JEJOUW6FVDABPDA66265SIHQE.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S5ERAWT42QI65NOMM3BQUO53SE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "New Neural-Network-Based AI Learns Better Than ChatGPT"
     excerpt: "To simplify, this neural technology called Meta-learning for Compositionality (MLC) mimics the way humans learn and use new words in different situations through a process called systematic generalization. In contrast to other AI systems, the neural network integrates newly learned words into existing vocabulary."

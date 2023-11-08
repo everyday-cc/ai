@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-07T22:22:00Z
 originalUrl: "https://www.aol.com/cops-falling-love-ai-much-202236582.html"
 webUrl: "https://www.aol.com/cops-falling-love-ai-much-202236582.html"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/z5O7HXv3L4rOlk9usGH65Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/fd4f9afbf7a108eb72c189acbbde337d"
@@ -63,6 +64,6 @@ related:
       domain: thegrio.com
     quality: 32
 
-secured: "p2K7PN2U7Jbvh2GogLCwCg/CnWmi148X5geIFXEi5IinLe4f76Ue93AzphcdPQkH+axmrwXkIVCUppAclOKlalDSMvUrvgP2Q77SqtIMmCoAcCNmg35rT82X13fY83f2ZjM3edmpnEsA4aX2qpZc13DG4qmv4s0YUzJf+Pp9CxDPEByoCZNYmcGB7dVCEnNws2yhD2x/VRW9ziij/3cWYSSxZNF8D8eyjTb9t1q47POBr3IRGYFtQAurwXJbD+eg23INsPaB77SXMZ/JjfuV3gwMZ4CQ4L3p/cJxJdLx5RXgWOtikTNsRAfDxZD3LhLUm+QuSHGAYuaNtoXy2s+iMsdyCUCoDicKOPqNw3WmP9k=;OBQcDZRxhOsdlWKJF55/Aw=="
+secured: "exIq9pGCW09xUBkvnFjmgC2gJzyGwuqE403TlGnz8Y6HGjsVKHVKjlwFaB1c6UlyyaGt+9nZj4Ka6Ro2Z6rG8rKZTT3yd1e0uA8mWWVLmLIf4rrnisu2QZ19x+jbPWA22/VUGh+yvklQtBYlfHr7Qhn8y8ltt4eoy/G+YWK8dks2ls2ml6IsNRg1y6lSkj8wOFjIkcjtEhLIo2pN8fssDEcbvUYzctLvQm/AyjdMqkhcqv/OMRVc0t2AMqwSklDtzDT09ilynN0sqGxEqSs8Rcs3wBpFQJIhx6V1RdJyILO3eUxxSkBAz8tyJkMt7/00KWQCTiPfHJN2Ujig/cBnmeBV9cgjSC+BszjdyOLs31x1ktSL6iqGqGgXhR7I/tEjJyYjJHjyOl7JQiZrwNzVeWf4jP/xlGUuEQmChcI9e40335CSuW14ZMzVXGV+XYD5imjIk80gOa+1RzHS/uXgxAnI0PdiaKrenpTF93GlBay4S1DUAjDJmR+IKbvPfsHgc401fITMTkZ6/Sg15yNR5g==;Riw2SaPl/CEfnRg0GKaw2Q=="
 ---
 

@@ -1,27 +1,26 @@
 ---
 category: news
 title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
-excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT has unveiled the future it has in mind for its artificial intelligence technology."
-publishedDateTime: 2023-11-07T03:15:00Z
-originalUrl: "https://www.click2houston.com/business/2023/11/06/chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/"
-webUrl: "https://www.click2houston.com/business/2023/11/06/chatgpt-maker-openai-hosts-its-first-big-tech-showcase-as-the-ai-startup-faces-growing-competition/"
+excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT has unveiled the future it has in mind for its artificial intelligence technology"
+publishedDateTime: 2023-11-06T16:15:00Z
+originalUrl: "https://www.washingtonpost.com/business/2023/11/06/chatgpt-openai-tech-showcase/7b091e0a-7cb9-11ee-b5cc-66c30a3bbb91_story.html"
+webUrl: "https://www.washingtonpost.com/business/2023/11/06/chatgpt-openai-tech-showcase/7b091e0a-7cb9-11ee-b5cc-66c30a3bbb91_story.html"
 type: article
-quality: 25
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Click2Houston
-  domain: click2houston.com
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5JEJOUW6FVDABPDA66265SIHQE.jpg?_a=ATAPphC0"
-    width: 700
-    height: 467
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S5ERAWT42QI65NOMM3BQUO53SE.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -262,6 +261,6 @@ related:
       domain: thestreet.com
     quality: 9
 
-secured: "IudbhrTReseqx98fih28uqNT/gcK9e6ICDiEWIj25GMWFTdVeE0XYaoKrXxDbqXTHvZU2A+oIsScnk6oOgvytT3yR5W4sI82XilOhSEXNsVymqPOEauQTDHmf0E7o0thUd0tCJizShMBphb15Hokwiv6Nj0wM1cVOzdr6hKDKBuUsdM2rbVwsRojjljGTWnEbAiI1K/p1qCaCFPKLeqiwn6Kzzeof21u44S3ger+kpxJ9+0jQ6/IKl+5C2/JbFvoVieu7E36elShTWhkVRkZ0nlwVCoTt5ie1mIvnD6c/N/08x8+JuR+7p033ur5d39HQJ6KN48Wx8+49LhAbaScijjBcM/HIZM8WBqXNt9WR0E=;+Y/VrSOCp8TwAnDLJZNf0g=="
+secured: "dQq89QZ2kGnNM20bEp0Tl1626373LOt9d12nWxj8c98qvAEteSSWzt0uNfzZnORPb6r3Se4hFSTteZA3hMulMiINLO7fc3UT9nZ4ilnEzep0kl16xsqXwOh+o2bpM9EtOruxziljyypCAmdwZk01GNF67sCKXKHb0Dc/uMHIeji4Hpq+fZ1i2WH8xtLqKF3yvd/b86Dpzar7ypCm+TAGtNdhbe3Y9exbqmDvZuU4sLbEHUw9Ds8NpXGumBK5spUf9zbgk7WTzA/w474JyKUyUBqzR6RaXQRlZ9qTjQUgIt0raaLejz9tXGGBgQJPTFqY8DWGeDWD7V7dLJWxL5jCeq7NVMOAwKnct+/EHMoZ6tc=;vqajd6umaV3u3XzJzO3zqA=="
 ---
 

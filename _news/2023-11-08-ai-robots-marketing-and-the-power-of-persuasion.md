@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-08T00:03:00Z
 originalUrl: "https://www.earth.com/news/ai-robots-marketing-and-the-power-of-persuasion/"
 webUrl: "https://www.earth.com/news/ai-robots-marketing-and-the-power-of-persuasion/"
 type: article
-quality: 71
-heat: 101
+quality: 73
+heat: 103
 published: true
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Marketing
+  - AI Ethics
 
 images:
   - url: "https://cff2.earth.com/uploads/2023/11/07165122/AI-robot_cashier_store_1medium.jpg"
@@ -64,6 +65,6 @@ related:
       domain: psychologytoday.com
     quality: 19
 
-secured: "Iwwpi23Q7qoM0+jOBbmGDl9TRofYIjX2RwtwECXD0YV4lmy+XMhn+EH9kosLXurC/WwuWZxTw3K7QkTUURt3I4olrzafPWZ7TMuQKBbY9vA/o6v8u95w1Iq4YkblaL4KdoGa7UYH/ACN7Lu7W+S2NnudNm0tvsF5HAcJ99BCnwKsJhtqSmgc2UgE8uegGPU8doKwt5p9Wy0tWteNwdGgnNnGCb3iatIWFwmedqpBlyVGYvL+7oDzohH7yO1NO/zW1gprGJNUy3gTQOdh4eua3rks7u/gx2pgsJkHSy9aF470VhF0kcJSfatPKooAkwjdJEsYZpNhmeRdyqFL/0bgyUuty+mXA+ZmfNblA+xeBdI=;NV+3+KTxVnct67v+7FS/yA=="
+secured: "QNR+krJTUl4Wba8GUe1CA6wjUrtZqm4V6WTW0eGqqMQ4K++Jz6sBQpKcWDsM2meZXSZiqNVCtiUn166bs8x1BXzzh+ydyYd7t1Zh3teddwgS7k/ve5thZA0vH3abz3eRjbTiw69CD4snBSYdizbPjxBsOP9cAhhvszfKavxyXOAjhlL3ZKLNMohZ4JjOEN245NF5RuNt05mXkwPUpTZFARuFTPF5vMTpqpMl6k2GS708UvXNWlQrduz6GVEOjHnkaCeni1X2H3CkaXtjrxqdptqXJrkYsKgk/tUGR8Mi/ULXh/UtkEBCy26RFzOucV2DIiNrV6oFloImtdNSrjDfbqr4ex58cx9x67N3mz7IKkYAqFi4MlOZiqbVUX1beNOkOVTFKx4wryEGXK69vZBqu4XxzK+PNfvY+DclPInbTaq98agQcSP+KLWe6gGMMBrxOx6S/1cRN5PES0El8tY+WqVmb9VsOZCCCtVmC81HuLJtpL/ccHXgktZVz1PYNRxbafnHQ1lRRJ7SLAuh7H1+4w==;Rg20xQinMQg1w4Unq72ysg=="
 ---
 

@@ -84,6 +84,22 @@ related:
         width: 1200
         height: 711
         isCached: true
+  - title: "Billionaire Flipkart Founder Binny Bansal Ready to Launch Stealth AI Startup"
+    excerpt: "Billionaire Binny Bansal is launching an AI-as-a-service startup that will target global customers, expanding to the fast-growing segment after making a fortune in Indian e-commerce."
+    publishedDateTime: 2023-11-08T01:48:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/billionaire-flipkart-founder-binny-bansal-ready-to-launch-stealth-ai-startup-71699370789684.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/billionaire-flipkart-founder-binny-bansal-ready-to-launch-stealth-ai-startup-71699370789684.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/billionaire-flipkart-founder-binny-bansal-ready-to-launch-stealth-ai-startup-71699370789684.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 54
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/11/08/1600x900/artificial_intelligence_1698542010139_1699407834371.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Flipkart founder Binny Bansal to set up his own AI startup, to expand to US once up and running"
     excerpt: "Flipkart founder Binny Bansal is planning to set up his own AI startup, and has assembled a team of 15 experts, primarily composed of artificial intelligence scientists and engineers. Although it will be based out of Bengaluru,"
     publishedDateTime: 2023-11-07T07:11:00Z
