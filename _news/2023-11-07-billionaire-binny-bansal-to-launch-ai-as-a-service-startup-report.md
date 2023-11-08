@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/billionaire-binny-bansal-to-launc
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/billionaire-binny-bansal-to-launch-aiasaservice-startup-report-1699335756745"
 type: article
 quality: 57
-heat: 158
+heat: 157
 published: true
 
 provider:

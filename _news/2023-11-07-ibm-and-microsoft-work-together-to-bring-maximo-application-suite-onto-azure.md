@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-and-microsoft-work-together-to-bring-
 webUrl: "https://www.ibm.com/blog/ibm-and-microsoft-work-together-to-bring-maximo-application-suite-onto-azure/"
 type: article
 quality: 131
-heat: 181
+heat: 191
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/Untitled-design-2023-11-07T172351.660.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Siemens and Microsoft partner to drive cross-industry AI adoption"
+    excerpt: "Companies introduce Siemens Industrial Copilot, a generative AI-powered assistant, designed to enhance human-machine collaboration and boost productivity. Companies will work together to build additional copilots for manufacturing, infrastructure, transportation, and healthcare industries."
+    publishedDateTime: 2023-11-08T03:54:00Z
+    webUrl: "https://www.newswit.com/en/ifhq1b9jp96cnxvbf9lagna1txw40dxa"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 54
+    images:
+      - url: "https://www.newswit.com/storage/images/iqm7/0pr/1kmrab3w8ewt7710h3u3p1k7v/0-Siemens.jpg.webp"
+        width: 800
+        height: 533
         isCached: true
   - title: "Brillio Collaborates with Microsoft to Build Innovative Industry Solutions Using Microsoft Azure OpenAI Service"
     excerpt: "EDISON, N.J., Nov. 7, 2023 /PRNewswire/ -- Brillio, a leading digital transformation services and solutions provider, today announced that it is collaborating with Microsoft to co-develop cutting-edge industry and horizontal solutions using the power of Microsoft Azure OpenAI Service."

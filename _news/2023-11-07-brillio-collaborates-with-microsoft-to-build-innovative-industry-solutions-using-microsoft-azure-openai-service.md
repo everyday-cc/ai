@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Siemens and Microsoft partner to drive cross-industry AI adoption"
+    excerpt: "Companies introduce Siemens Industrial Copilot, a generative AI-powered assistant, designed to enhance human-machine collaboration and boost productivity. Companies will work together to build additional copilots for manufacturing, infrastructure, transportation, and healthcare industries."
+    publishedDateTime: 2023-11-08T03:54:00Z
+    webUrl: "https://www.newswit.com/en/ifhq1b9jp96cnxvbf9lagna1txw40dxa"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 54
+    images:
+      - url: "https://www.newswit.com/storage/images/iqm7/0pr/1kmrab3w8ewt7710h3u3p1k7v/0-Siemens.jpg.webp"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Trimble Introduces AI-Powered Capability to Automatic Invoicing Functionality with Microsoft Azure"
     excerpt: "Automatic Invoicing is available within Trimble's ERP solutions, Viewpoint Spectrum® and Viewpoint Vista™. To learn more about how Automatic Invoicing can save your organization both time and accuracy, visit https://www.viewpoint.com/ ."
     publishedDateTime: 2023-11-06T11:44:00Z

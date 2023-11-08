@@ -65,17 +65,17 @@ related:
         isCached: true
   - title: "Humanoid robots are here, but they’re a little awkward. Do we really need them?"
     excerpt: "Forget affable-appearing Rosey and Robby of sci-fi yesteryear; today’s humanoid robots are a bit more Terminator-esque. Do we even need them? Artificial intelligence pioneers weigh in."
-    publishedDateTime: 2023-11-06T18:30:00Z
-    webUrl: "https://www.stltoday.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_9d8f93c0-9c17-5140-a004-70ed7282930b.html"
+    publishedDateTime: 2023-11-06T19:30:00Z
+    webUrl: "https://tucson.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_da620ea5-9b8e-5fbb-8e17-767e0568bf0d.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Arizona Daily Star
+      domain: tucson.com
     quality: 35
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/d8/9d8f93c0-9c17-5140-a004-70ed7282930b/6548f44d40334.preview.jpg?crop=670%2C352%2C0%2C29&resize=670%2C352&order=crop%2Cresize"
-        width: 670
-        height: 352
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/d/a6/da620ea5-9b8e-5fbb-8e17-767e0568bf0d/6548f44d44af9.preview.jpg?crop=668%2C376%2C0%2C17&resize=668%2C376&order=crop%2Cresize"
+        width: 668
+        height: 376
         isCached: true
 
 secured: "6kHcNbUXn9A9tZOcXatFwr6SVnoTEGoKJPHjqxDnORfvI+wPA/3B92x08SRsRPV6OeLje7s0b+e1wkhTbV4xaUmQmYDj+wRrKaxM1ih24CjTnxO9GSJd/XVQcC5RL8AiLEJNANg5SQwVr05FZ7ICD94woFnf9sjTV57Yi6KXLODoFDn5ZFlzxwKYir2Ap/dGF+QeRm3KF6Ur9Y4poix+vnYSkpMw9mobgXBhScGAKC+VGgnF7qkukWjzPH6TQ4HQPITzZ10zpniLJVWDYFWUd4f4aGFa1tQndB4edx6wq3aUQRH+IIKGYeux/Qe9eWicHYum4Y3C+LGZorkXrjlHmpX2CWhjV4dHHbYyXDV3wiSZNs5vkQrowM3cN3bjH/9d0sZGtBbinGfyuh89HHPkdujgag7aUqvO/aRG8MyDDD4oMayy5rrKqMwDkbJn7Y17aGxSSvkYx340I4Bj3ZSER5bcbCL+45xhl2KuLfaZykRA82mLOHT2EIh1nfCraD2IdbFVxcfzVaF1tm1+wFdnvA==;77gZp/3r+G5Xm3qiqbFdvA=="

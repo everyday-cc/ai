@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ai-summit-start-global-agreemen
 webUrl: "https://www.reuters.com/technology/ai-summit-start-global-agreement-distant-hope-2023-11-03/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI summit a start but global agreement a distant hope"
+    excerpt: "The UK has also diverged from the EU by proposing light-touch approach to AI regulation, in contrast to Europe's AI Act, which is close to being finalised and will bind developers of what are deemed \"high risk\" applications to stricter controls."
+    publishedDateTime: 2023-11-08T04:00:00Z
+    webUrl: "https://www.investing.com/news/world-news/ai-summit-a-start-but-global-agreement-a-distant-hope-3222617"
+    ampWebUrl: "https://m.investing.com/news/world-news/ai-summit-a-start-but-global-agreement-a-distant-hope-3222617?ampMode=1"
+    cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/world-news/ai-summit-a-start-but-global-agreement-a-distant-hope-3222617?ampMode=1"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 57
+    images:
+      - url: "https://i-invdn-com.investing.com/news/world_news_3_69x52._800x533_L_1419494235.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "AI summit a start but global agreement a distant hope"
     excerpt: "While some consensus was reached on the need to regulate AI, disagreements remain over exactly how that should happen – and who would lead such efforts."
     publishedDateTime: 2023-11-07T14:00:00Z

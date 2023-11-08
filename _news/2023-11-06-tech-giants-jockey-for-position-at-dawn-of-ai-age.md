@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/tech-giants-jockey-for-position-at-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tech giants jockey for position at dawn of AI age"
+    excerpt: "Companies specializing in cloud services -- led by Microsoft's Azure, Amazon Web Services (AWS) and Google Cloud -- are beginning to monetize AI, though the costs remain high for now, says Yory Wurmser, another analyst for Insider Intelligence."
+    publishedDateTime: 2023-11-08T04:33:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/tech-giants-jockey-for-position-at-dawn-of-ai-age/105056351"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-105056351,imgsize-93800,width-1200,height=765,overlay-etcio/artificial-intelligence/tech-giants-jockey-for-position-at-dawn-of-ai-age.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Tech giants pour billions into cloud capacity in AI push"
     excerpt: "Google, Microsoft and Amazon boost investment by a fifth over two years to a combined quarterly total of $42bn"
     publishedDateTime: 2023-11-05T05:00:00Z

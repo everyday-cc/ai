@@ -85,6 +85,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Nvidia's long-term client Baidu orders AI chips from Huawei - Reuters"
+    excerpt: "Baidu (NASDAQ:BIDU), one of China's leading AI companies, ordered 1,600 of Huawei Technologies' 910B Ascend AI chips in August, according to Reuters. These chips, developed by Huawei as an alternative to Nvidia's (NASDAQ:NVDA) A100 chip,"
+    publishedDateTime: 2023-11-08T04:00:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/nvidias-longterm-client-baidu-orders-ai-chips-from-huawei--reuters-432SI-3224754"
+    ampWebUrl: "https://m.investing.com/news/stock-market-news/nvidias-longterm-client-baidu-orders-ai-chips-from-huawei--reuters-432SI-3224754?ampMode=1"
+    cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/nvidias-longterm-client-baidu-orders-ai-chips-from-huawei--reuters-432SI-3224754?ampMode=1"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 74
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXMPEE6I1G3_L.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "US-China tech war: Baidu buys AI chips from Huawei, as US restricts Nvidia chip exports: sources"
     excerpt: "Baidu ordered US$61 million worth of Huawei’s 910B Ascend AI chips, which are marketed as an alternative to Nvidia’s A100 chip, according to people familiar with the matter."
     publishedDateTime: 2023-11-07T09:00:00Z

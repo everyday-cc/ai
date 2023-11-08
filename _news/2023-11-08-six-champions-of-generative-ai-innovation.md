@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-08T02:01:00Z
 originalUrl: "https://www.ft.com/content/0138bbd5-4266-48a2-a81f-c04549fa4f00"
 webUrl: "https://www.ft.com/content/0138bbd5-4266-48a2-a81f-c04549fa4f00"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F045a52eb-a8ce-436d-8d55-b51e7780855a.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
@@ -111,6 +112,6 @@ related:
         height: 675
         isCached: true
 
-secured: "R1TgzdsqFnYTbeQ9z5Hs8HlfZ4QAHnp4+0VQx+phvoTdYeIWVYMsKjeFP2uiep5OsvHTgA9qrhpSP8zpcUnfHZSpQWVGOzPRCkSvQEfpkdnHKtZUYkq/446e9UcQmrjzKMgMcVelpm3Uy9buC4z7d0CmKNQe0ixnHGecyCQtP7xIKHnpB6wPFtvVg9e/LB5moPOdoJxADaQUn9c6gHOwsVfGOSl5U2vG640jz4rYik9m/u/s+AuQU/QGTS/IpML+E4fLfw+/E65q+iQGOw1Y9zarJA29am5GkSiqdbaQ5TLgrfzt1D12kimfhTArVOlVJfc91hvbS5W9wFQPhTgcN4zQUb7+uYGOY+IwzmBx60s=;NVhm2wAPHf3Df02ys0HWnA=="
+secured: "foJ2lxVDWgiLbxmrBa5Zk5W3HarU6SRx4fwpLXdSL0aDfqljB3yjNSnb4tChJggxOqsnH7fxL3kpX7bvoI/2X6f8Vk2pXSmid2TyoZbq/Nb0U1orFf59xzBpT0gu8xPv7Vj6MHPLCXapjcnXVgV58v5JdnBETbDuepE0G3+ebx57znAd7UDIF/cRnQJ89izEXrOsQ2WlkGnaky4ibqGyvcAPUVi5NBi63af5nJens1ofywYgWoWRIAL4a7t4sNaojPWWChaHZKR0gmpyxw0naEE7ogaOZS5AE1M+IwZjI8M66lJIHsVUdegPhlGoBcSr5aPd3F/NB4SdH7Z3/J5/7ir0qbrqEhZOQEnXRX/krTgnihFzOGttluSuYc7AH/Vybeh7pkOSdqFpqxP9Fffn2lVi1+GiwkFsUsilMXhilVoMQyp9OXtAeuCown5bNuxbMpcwXwKx1QwgDAa0SIRTNqddlv+n8KiZQwzOP//TBOWqSUCyvUoKOfpUvKeyH0VKkEAm0O4A1kGJ/UrgaoLcAA==;6NuCgEfC/E1sqdclv2oR5A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-giv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/amp/"
 type: article
 quality: 121
-heat: 231
+heat: 232
 published: true
 
 provider:

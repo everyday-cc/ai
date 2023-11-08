@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Southampton facial recognition trial backed by students' union"
+    excerpt: "Solent Students’ Union have thrown their support behind a facial recognition trial set to take place in Southampton which aims to deter predators preying on women. This comes after a public Q and A at Solent University on Friday, November 3, which saw ..."
+    publishedDateTime: 2023-11-08T03:46:00Z
+    webUrl: "https://www.dailyecho.co.uk/news/23906813.southampton-facial-recognition-trial-backed-solent-students-union/"
+    type: article
+    provider:
+      name: Southern Daily Echo
+      domain: dailyecho.co.uk
+    quality: 39
+    images:
+      - url: "https://www.dailyecho.co.uk/resources/images/17407189/?type=og-image"
+        width: 840
+        height: 630
+        isCached: true
+
 secured: "wwWBkhI4u4ObVhE96LUDuypIBcNaJhtma+ReHl1w84QBMS3tId0RVxQtGkV5ACVp2TNv5LOHFEFcL8/SdMuTF4j0qVbQwCUsMaJn1HJgNUeDiEPD0jg92xOhket7jaDH58jaa+XcOG8O0zvnuTd3oXINVCerXGNxrF5zrYp3fYlRJwIzSQcO8/zt19qVICZjsP2DtMJmAuAItPdDznWW7CMqiCtObQnCZZAmFeZ0pocoimpx8uXK5Ka8bvSAxlqT091Tid5F1PuunMa6SaJj810R6Hlig74S38c5o5jQkd1qLrVLXHKV7ynJIKgTc1AVDEHosVgpD1v+Z3TxNgzsbNzYbyaPCwpHtbsFrDUVsmE=;fmJcjxx0el3HIBzsph4QLw=="
 ---
 
