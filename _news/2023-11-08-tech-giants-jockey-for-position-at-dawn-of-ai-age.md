@@ -50,15 +50,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "Retail tech startup offers an AI solution for pricing products"
-    excerpt: "Retail tech startup Particl launched AI Copilot, a new product that helps customers identify both new and mispriced products, CEO Josh Wilson tells Axios. Why it matters: Retailers need sophisticated software to help them manage supply chains efficiently."
-    publishedDateTime: 2023-11-07T15:45:00Z
-    webUrl: "https://www.axios.com/pro/retail-deals/2023/11/07/particl-inventory-management-tech"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
 secured: "2IVw2RRiD0VKW4ExNvckDzX0D0Fic+bEx67ThO9PwSNTLjdmKOMjrj2xNeQ1cGSAuATsSsffwOSaNK5YoF0YgJKlVYyyhdkCAU7Qp2JvLgZdq7bm5MHeNdIOjKCpspdlO0lXGJ+4ehNRMki8KHuguiplqmP8PkmSOrj1eccX4GJ9HSYyY7yn0sq3W7G0LrDdJp6kcRtQLPxjLtL8HBNtClpB5rl+7ZpiGUSmu6iqXpN5DlrETnJjWldE4nLKt2fCXgKeFIm6ieUamy5XxXdU02OKfdx4QMrZ86swxdH/TQvb+RVSQe1NNhhjIZrvGtOplSj/bRnEfZUFtrjdXooms50BhKnuJ3aS/7rPIvtNYPw=;jJUL2vog7VGsv0S931lurQ=="
 ---

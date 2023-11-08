@@ -82,6 +82,20 @@ related:
         width: 1260
         height: 707
         isCached: true
+  - title: "IBM has a $500m fund for B2B generative AI start-ups"
+    excerpt: "The latest in a series of AI investments, the IBM fund for start-ups open ‘another channel to harness the enormous potential’ of AI."
+    publishedDateTime: 2023-11-08T11:32:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/ibm-ai-venture-fund-for-enterprise-investment-startups"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/11/a-3.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM Establishes $500M Venture Fund for AI Startups"
     excerpt: "IBM (NYSE: IBM) has launched a $500 million venture fund intended for artificial intelligence-focused early-stage and hyper-growth startups. The company said Tuesday IBM Enterprise AI Venture Fund will support the advancement of generative AI technology and research while expanding the company’s AI partnership ecosystem."
     publishedDateTime: 2023-11-08T09:53:00Z

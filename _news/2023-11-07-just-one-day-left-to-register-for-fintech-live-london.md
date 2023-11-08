@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Live today: FinTech LIVE London"
+    excerpt: "It’s not too late to join us for our two-day fintech show, FinTech LIVE London, taking place in Westminster and virtually this week from 8-9 November"
+    publishedDateTime: 2023-11-08T12:15:00Z
+    webUrl: "https://fintechmagazine.com/articles/live-today-fintech-live-london"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/ce4fd410fb19a5801ee1495d8c8991ba:5753a4c23791194dcdbacfa546fdd32a/fintech-live-2024.jpg.jpg"
+        width: 1200
+        height: 631
+        isCached: true
   - title: "Adaptation and Growth: The Road Ahead for the FinTech Sector"
     excerpt: "The number of open banking users worldwide is expected to grow at an average annual rate of nearly 50 percent between 2020 and 2024, meaning it will rise from 12.2 million to 63.8 million over this period. The value of global open banking transactions reached  57 billion U.S. dollars in 2023."
     publishedDateTime: 2023-11-07T08:01:00Z

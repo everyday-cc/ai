@@ -1,30 +1,29 @@
 ---
 category: news
 title: "China's Xi urges countries unite in tackling AI challenges but makes no mention of internet controls"
-excerpt: "Chinese President Xi Jinping says potential risks associated with artificial intelligence are challenges that countries should deal with together"
-publishedDateTime: 2023-11-08T07:02:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/chinas-xi-urges-countries-unite-tackling-ai-challenges-104713125"
-webUrl: "https://abcnews.go.com/International/wireStory/chinas-xi-urges-countries-unite-tackling-ai-challenges-104713125"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/chinas-xi-urges-countries-unite-tackling-ai-challenges-104713125"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/chinas-xi-urges-countries-unite-tackling-ai-challenges-104713125"
+excerpt: "Chinese President Xi Jinping says potential risks associated with artificial intelligence are challenges that countries should deal with together."
+publishedDateTime: 2023-11-08T11:58:00Z
+originalUrl: "https://www.ksat.com/tech/2023/11/08/chinas-xi-urges-countries-unite-in-tackling-ai-challenges-but-makes-no-mention-of-internet-controls/"
+webUrl: "https://www.ksat.com/tech/2023/11/08/chinas-xi-urges-countries-unite-in-tackling-ai-challenges-but-makes-no-mention-of-internet-controls/"
 type: article
-quality: 42
-heat: 42
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: KSAT
+  domain: ksat.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/International/wirestory_d6504b721034e7107d4ae09de516886c_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/IDU6WCMHH5HZTIDJAYUTO5FIAM.jpg?_a=ATAPphC0"
+    width: 700
+    height: 467
     isCached: true
 
-secured: "KmWiUwR7l6/NRnFbnUoOrnG70IiZQYYpVbLAeoY3f3nA1LfjplRizPJDc5HIcuzd+81qBeckTH63xIwpqBZA+jMC3U4c13+1ERcTZy2Xg7xh5c+LMxhtCVW4JyXbAYoicptdFUtiT5xs/3ktfM6Y3S9tGPkizD5rL5OjGQrIoKLBLIn32b8hFq6uQCcT6ywmSzifgB6V0Q3D51zeo70rhOsSWhY3Vwv4vvJF6zz51AFoQk6gHimta5cUP8uXU+TKXxNxrIN/TIty0YO0sSvsj6zw1OnjhKLV26IgMf3AX030z1qqWP8w8u2OHyzVXz6euxXjzKRl2tOqbOBjqurHmh6DekiGpDtHJafZnOosnbM=;xaZT3yaP59Leer1eNTiCPg=="
+secured: "JeE/uuRLmurkC9qEOuQHUQRYYfpIyWMdGBe6L4WtGX2rn1za79Hf89knKuXmgt3Ai9p4zAlGXNKgNUNFsqPD+SsoVaeHeUuAuRRLuz+KnNaTqpVP18dHcohZQMeGgFc1TeYmQYAaxV/fkGCeX1bWheWe5/2nuReked1Y4Gtt2SPvTJD8b+YfHeAJpjDYBGtLU17jz3JVqg123mQS6ychCiufHvtb/EDocb+l7WMJA+PMW1V/AIn+XsR+t7b2UaRsWNOW/LXx6b3ztRpg+noSsnr95B01+7OSQk8tJllfBB3IglKcaeLogXH2ytNOosLurYd1ernve3d54jSngDk5/fTj24U7y9mj45tE8HfVrZ8=;Rqh6pU920GQ3iVNz6vm2ZA=="
 ---
 

@@ -93,6 +93,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 39
+  - title: "IBM has a $500m fund for B2B generative AI start-ups"
+    excerpt: "The latest in a series of AI investments, the IBM fund for start-ups open ‘another channel to harness the enormous potential’ of AI."
+    publishedDateTime: 2023-11-08T11:32:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/ibm-ai-venture-fund-for-enterprise-investment-startups"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/11/a-3.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM launches $500M fund to invest in enterprise AI startups"
     excerpt: "IBM already made a number of AI startup investments prior to the launch of the fund. In September, it backed a $50 million round for HiddenLayer Inc., which develops a platform designed to protect language models from cyberattacks. IBM earlier joined a $ ..."
     publishedDateTime: 2023-11-07T22:36:00Z

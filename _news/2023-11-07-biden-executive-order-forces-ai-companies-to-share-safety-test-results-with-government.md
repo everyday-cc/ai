@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-07T10:04:00Z
 originalUrl: "https://www.usatoday.com/story/news/politics/2023/10/30/president-biden-signs-sweeping-artificial-intelligence-executive-order/71380002007/"
 webUrl: "https://www.usatoday.com/story/news/politics/2023/10/30/president-biden-signs-sweeping-artificial-intelligence-executive-order/71380002007/"
 type: article
-quality: 11
+quality: 13
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 related:
   - title: "‘Mecca’ of A.I.?: UNCW professor talks through Biden’s executive order on artificial intelligence"

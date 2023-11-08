@@ -9,7 +9,7 @@ ampWebUrl: "https://www.labroots.com/trending/cancer/26178/ai-oncology-care-ethi
 cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity/amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Oncology researchers raise ethics concerns posed by patient-facing artificial intelligence"
-    excerpt: "Ready or not, patients with cancer are increasingly likely to find themselves interacting with artificial intelligence technologies ... and researchers to work together to ensure AI-driven health care preserves patient autonomy and respects human dignity."
-    publishedDateTime: 2023-11-03T20:00:00Z
-    webUrl: "https://medicalxpress.com/news/2023-11-oncology-ethics-posed-patient-facing-artificial.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 41
   - title: "Experts raise ethics concerns posed by patient-facing AI in oncology"
     excerpt: "Ready or not, patients with cancer are increasingly likely to find themselves interacting with artificial intelligence technologies to schedule appointments, monitor their health, learn about their disease and its treatment,"
     publishedDateTime: 2023-11-04T07:54:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-08T10:48:00Z
 originalUrl: "https://www.businessinsider.com/how-to-survive-ai-jobs-revolution-skills-experts-2023-11"
 webUrl: "https://www.businessinsider.com/how-to-survive-ai-jobs-revolution-skills-experts-2023-11"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/65491b01b788914e5550f0c9?width=1200&format=jpeg"
@@ -27,6 +28,6 @@ images:
     height: 600
     isCached: true
 
-secured: "GrJt8xysOfrilhPTA3bjUJ5WF1lHdEa6ndVskW5UrYI905gNPBr6eThoX4OWFN6fErvN35JlOG+LKGfeSF/YVyiCf2XR2t4mUE6URFwYUsFN4bI6YSTaIj1hePACnkimi5ozMGzG533WmFtlaixbeYSqkPKABhw2Oi297H0LqdXNLXUuez+hFdsRuJHww2CS0V1woCgftnBn4z9EifXuYTMwFXdBV2VtV7ors4+Zzaij2pzGt9sRr80SGkZU+yqsrbAcbg/f4B9SLxPUPrBEA9DHVDJhDWWBdIxTp/DEQjfAilyMYXhm6VPrGXJjEWSN1A9l5qXds98d1tq66JaE3Wabp+asHJlwQdhxYYWBTfI=;ArYHQz/11eH3I+4of4S8qA=="
+secured: "H1dUsC4s8uPIoHsz3D58VWiO4IiKNjZafRzKrIzsCr1s8gA+JzTRJW+RELPA767Cmp7kvh6cq2Xyy1pnTkktvWrLEOmIssUXt/EL2pBbr+ydALlneQNLgk4UyqevP7gT5OzGgjcOeCcpq9BVej421xnzP8vUkZKOX9KiNM2DBys7/qraf8d5mvGtLrO1YOhmRAbaJJ+BaW2oirf9KVrsqiBBzRWVeUcJmNfgT7XBwGa7GwnhJvtHIxMSX2V+2yssnsCf7qumdFgpD2n/z+B4z9RfJW2GInaWn7N6O/qEYGszGgDNVRD5x8IZeMlH+S4gm7WwEbBTg9lcztHoF+pOfmACUHORxuwoHarXOULP5OGS1leP3fxR1hSEa+v9/gvxOL5IfVTlJ8GWeM/ejsCsis+oE+q5F9qyvzO3pwsW3lEJWHK5/lIWCS1rRrTj3QNh16xxNrQDSP+GFm96ZqLckC0kPBu1BiolzZWtJFcNxwHG8hqjGCe/Zx1ncrN/o5++cUPpDHpAuikUWeTWYYW0YQ==;TZfhoz8c/Y4Atiapux4Pyg=="
 ---
 

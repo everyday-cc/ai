@@ -37,6 +37,17 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Rubrik introduces Ruby, the generative AI companion to accelerate cyber detection, recovery, and resilience"
+    excerpt: "The company will leverage Microsoft’s Azure OpenAI, in combination with its machine learning-driven Data Threat Engine, to help discover, investigate, remediate, and report on cyber incidents. The company’s newest AI companion, Ruby, extends Rubrik ..."
+    publishedDateTime: 2023-11-08T12:40:00Z
+    webUrl: "https://www.sourcesecurity.com/news/rubrik-introduces-ruby-generative-ai-companion-co-1614609647-ga-npr.1699439417.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/rubrik-introduces-ruby-generative-ai-companion-co-1614609647-ga-npr.1699439417.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/rubrik-introduces-ruby-generative-ai-companion-co-1614609647-ga-npr.1699439417.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 21
 
 secured: "e4FtJX+UuOIzFyH9xBk/PVAW83ossFeJkHr7lqWk7XQ3maVzuNx7xRDfMRiNPPcYFPgzSgFqRA3pMyonwX6QWO3U1AxM02GMSf49jLJ3tCE5bERZWrnzAb8MPPBx9OtIfvHTBgWOkESTrvlGNPQHsn0VS7FVCcJLnKaBnpSpyjoI8omLNtGG14LSH8cO8njLB6pnbu8mRAGV3OduCP4kW73BbU4OZjjeKFwq2oHpJBfumOBbOBy8cs2u38WOb+QxD3iRxqZg4POWAczXDa80j+WxaFqf/qN7uSq3KDQfBJ5aojHXMbwlrat0lI1/qE9uVTYHTRG6SNVVFGQkGp2B294x7CynMgVfS4frgYGL3dk=;3ongYWTEsBVgSW/kqMSl7w=="
 ---

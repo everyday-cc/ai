@@ -33,7 +33,7 @@ related:
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 11
+    quality: 13
 
 secured: "n+B5FOiAgrMjBwppr2GlYsK4zgt+T1sOFTRSZXf58lw68po/Q4wcg52g6P0Vgq3mVSdmjnB/O0P4cKlhKE6/s31bRN4ql360sr6AgQ304q4TZtAsX/ti0iUjiKWR34IpqcUsm1apDvx/lSMzDuq+bqLJpzOiW2QDD2USduZKnutPpfk6HzLr3t6ic6aSzw8XgvQPVvx4T7RRHATmlCH8cb+9mFuDoYtBi0s+3hqdEdpoxp9nOrfGaZ4swhqOwJbRLnJY3bumZ1J38M88TPHWvK7i0qfKQ3ax8AHxRswhqSzS3WMDcERHDF1lnXHQdoijNrpLqBm7Gqqrbp5uP2Fi4ZAsEn4HGmJfQU7DUIglgpSQLfOm0i3/DusR54CSj7qDGQld5sHjJH/+LBzgMBDeFyr8c/J3rd2eMNzJZBHbaTEkE8+ltSGItuGLm2g+gdo67ZQDxd4uNDuKR02KOtwdgUEqFXr2cnvannizlblgCi51ZycszpYEKP2FPg3oYKRP2uHoXrBOB8LOhDQKSThpYQ==;aW1MQ2KviI/vUL3632fd2g=="
 ---

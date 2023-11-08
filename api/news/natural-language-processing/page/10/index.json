@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-08-01-cfos-how-can-you-evaluate-budget-requests-for-cloud-spending.md",
+      "title": "CFOs: How Can You Evaluate Budget Requests For Cloud Spending?",
+      "excerpt": "With more cloud spending comes more decisions for CFOs on what budget requests to approve from internal teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/07/31/cfos-how-can-you-evaluate-budget-requests-for-cloud-spending/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/07/31/cfos-how-can-you-evaluate-budget-requests-for-cloud-spending/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646e3d8278b45126c8a62c39/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/07/31/cfos-how-can-you-evaluate-budget-requests-for-cloud-spending/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/07/31/cfos-how-can-you-evaluate-budget-requests-for-cloud-spending/amp/",
+      "publishedDateTime": "2023-07-31T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-how-ai-music-startup-audioshake-is-expanding-content-localization.md",
       "title": "How AI Music Startup AudioShake Is Expanding Content Localization",
       "excerpt": "AI music startup AudioShake is making quality dubbing and content localization viable for content creators at all levels.",

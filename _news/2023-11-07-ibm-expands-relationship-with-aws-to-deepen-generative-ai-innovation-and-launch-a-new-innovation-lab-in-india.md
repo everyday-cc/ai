@@ -1,29 +1,27 @@
 ---
 category: news
-title: "IBM Expands Relationship with AWS to Deepen Generative AI Innovation and Launch a New Innovation Lab in India"
-excerpt: "IBM (NYSE: IBM) today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from the latest technologies, including generative artificial intelligence (AI)."
-publishedDateTime: 2023-11-07T10:44:00Z
-originalUrl: "https://indiaeducationdiary.in/ibm-expands-relationship-with-aws-to-deepen-generative-ai-innovation-and-launch-a-new-innovation-lab-in-india"
-webUrl: "https://indiaeducationdiary.in/ibm-expands-relationship-with-aws-to-deepen-generative-ai-innovation-and-launch-a-new-innovation-lab-in-india"
-ampWebUrl: "https://indiaeducationdiary.in/ibm-expands-relationship-with-aws-to-deepen-generative-ai-innovation-and-launch-a-new-innovation-lab-in-india"
-cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ibm-expands-relationship-with-aws-to-deepen-generative-ai-innovation-and-launch-a-new-innovation-lab-in-india"
+title: "IBM Expands Relationship With AWS To Deepen Generative AI Innovation And Launch A New Innovation Lab In India"
+excerpt: "November 7, 2023-- IBM (NYSE: IBM) today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from the latest technologies,"
+publishedDateTime: 2023-11-07T13:20:00Z
+originalUrl: "https://menafn.com/1107384841/IBM-Expands-Relationship-With-AWS-To-Deepen-Generative-AI-Innovation-And-Launch-A-New-Innovation-Lab-In-India"
+webUrl: "https://menafn.com/1107384841/IBM-Expands-Relationship-With-AWS-To-Deepen-Generative-AI-Innovation-And-Launch-A-New-Innovation-Lab-In-India"
 type: article
-quality: 55
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: India Education Diary
-  domain: indiaeducationdiary.in
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-    width: 534
-    height: 462
+  - url: "https://menafn.com/updates/pr/2023-11/07/F_cd60dimage_story.jpg"
+    width: 1160
+    height: 522
     isCached: true
 
 related:
@@ -67,6 +65,6 @@ related:
       domain: newstodaynet.com
     quality: 19
 
-secured: "9Y5hCZQVdsDDqOy889JKSjVarizvMaVMmPPIGg85idP1jzML3O394gzsqT0jQ15jfuiKj852vVV5Y2fJn3NK/88X0hsqm8IpY8dAE7T1m9q+Jn2F13Ep+mRdrU0cn37PoqqZkWXIzuWuryl86a18vjGDPJZHZchM26WsxgU27jcaOxW50QKed790ZQohhpi8rNevyFE2Y2u3D2ysbAmfmm36cNOJykbBNzzhMosA5+Z9XWp20rYA9rIF0w9FgI8P7ca8oE4kL5VrfaIBkkI388aEyn7JqNH7EG2zSlx/nlmLtXA+dSoCVqb8XPwvwZbMN9jDkrAxO8lNcbsgTOzLoGlyr/6lRLQO2OAwB71Iaq8=;GmCuWhNjOF0Egilb8UgJ4Q=="
+secured: "eaYMl83O7Fo6b/Gtroe/3XGlsefZIDF1+szoexORkj9VJ81s8mcOYmTv9R0MHe52kW58Frrl7Nt6NUQDWrGst1L0928Dda3tVS6FB1hjg1Av2V5FXjx+cB9kmM5WR2zGRcxgTOq1C7B1o8on+8YQMSQTTb8FiROIudHkPYJMrI6svPgnvS+PCZnbRUa9CVe9nxgoc2Xd59mWK+vg2OOINnL9N6mIav180mQFEAhWn3J9o4UTUq4m3doUe2EhS+3iuYGcZhEz5So0UIOcyRvEFkBhoZY9Ki371uLgE6H6jXCcqeDYz6RODl30H9JpJW1f8/15fQsA1PJzclWn1SgKBtsDcTaMegDG0ShiasmA0BE=;lWN7OcXaBetWITfDh+KLvQ=="
 ---
 

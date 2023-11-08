@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/tech-giants-jockey-for-position-at-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 17
-  - title: "Retail tech startup offers an AI solution for pricing products"
-    excerpt: "Retail tech startup Particl launched AI Copilot, a new product that helps customers identify both new and mispriced products, CEO Josh Wilson tells Axios. Why it matters: Retailers need sophisticated software to help them manage supply chains efficiently."
-    publishedDateTime: 2023-11-07T15:45:00Z
-    webUrl: "https://www.axios.com/pro/retail-deals/2023/11/07/particl-inventory-management-tech"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
     quality: 17
 
 secured: "9rjtVFOSErnfvHy+kVuMXfnjeciR/m1DpD5EKGyIib2ng0jQPNAcwIl+HBNWUY9zLGmBv9Jo2+lwjcG50UJOaAqZcLOXTlS5sZThHykaSZ/1RWpYpFGvmQpYzL/EsSpNfcR1sbLR8ULtuIQSNo7dC1UF1U6Y0qF538eRNDR9R4O+5GeEOPvrH9T7RKlvo1svQUPYYvfKqY9/p9CihdJQNAUHqEEdrBRSQCjvzOFeEcIZ4kSB6+KP1odaJdZhP9e7Si7vnSHXxwKHmCfz/X5Y05n0vHp8jsGLkvrmZ6MKJ1exqXPUJcwXXnyFtkK33Wdw1U5gJ81LPbw5DvJUVsSR7JY75tvz6Q3SZcA1Tg8g7Bw=;xAuOJcoZi2Kgr9V+WXuD3w=="

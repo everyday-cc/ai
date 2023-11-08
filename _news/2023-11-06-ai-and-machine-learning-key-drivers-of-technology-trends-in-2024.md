@@ -40,15 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "The generative AI power law: How data diversity will influence adoption"
-    excerpt: "The transformative power of generative AI for industries is colossal, and we are convinced that AI will gravitate to where data lives. The power law of gen AI, developed by theCUBE Research team, describes the adoption patterns we see emerging in the cloud,"
-    publishedDateTime: 2023-11-04T16:22:00Z
-    webUrl: "https://siliconangle.com/2023/11/04/generative-ai-power-law-data-diversity-will-influence-adoption/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "mvTFd0hFrRighpIs8f3+Rj8ccWBuj9ap8rvN4NbUgb1kpa6U9r2AwrFp8HcmJdXFROmkT4klvCu+w84zeGomrfwtofYkNaIGHlIRzXuhcG73dVmnyIUTCuCB29710It9BogwS2lYOA2TdtlVmj68IvXv32dkhdUb1SB/WDeOHuTznX8TBDMRxiLRy6Jocfjb6TzQgswCfLd0XmcKPBN4KnOAtogBnlcl5uCmeK8KNpMnB2LIxH4je4taO0mDGoeyzEx/f1iLy64eHsXXMUrxUJO1HQEG3k4X/7QSIl/1FuwmHC051as2LmRTjewPFC3NwVvclhHJ43/WBm/b1xSYYdlgJ0KWAcchP95UZIXKk86d8v3AN3HS338a8UBulnwDlKcbAHVFGtsOXIXb2xjyWCUfX1c/PwHRe6CY1CVhq8eFbgv72iHou2MhW3RsDlbnYZ4IpQawN2oLdNXKO1HYuPhP9RKZy8Nvk1Iw/d7P2L+grf8dW1RJoHqyiUtkvi4JXi10hBt/m/R47TOiK3fhug==;IHOXn/31Sqg2RwkJKxJ5Dw=="
 ---

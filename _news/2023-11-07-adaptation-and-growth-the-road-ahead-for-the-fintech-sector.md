@@ -33,6 +33,20 @@ related:
         width: 320
         height: 242
         isCached: true
+  - title: "Live today: FinTech LIVE London"
+    excerpt: "It’s not too late to join us for our two-day fintech show, FinTech LIVE London, taking place in Westminster and virtually this week from 8-9 November"
+    publishedDateTime: 2023-11-08T12:15:00Z
+    webUrl: "https://fintechmagazine.com/articles/live-today-fintech-live-london"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/ce4fd410fb19a5801ee1495d8c8991ba:5753a4c23791194dcdbacfa546fdd32a/fintech-live-2024.jpg.jpg"
+        width: 1200
+        height: 631
+        isCached: true
 
 secured: "nB7hf6xDfmolBKJON8cSDXzYho2125PDGc8bWw3F8AGwEAFhXRUSHkHLQ7SOt8E1F1HAyegvNZIyA6ViuHI39Om1CczzQzAqxDNy7mKzSPk72xQw6gYnzXi0lbUeT9fDByB4eP4om7JaeFplnywoW3Grcsxr/NTAl3WhwhrP23bGhOwIdCv8nhj40x5rqu0Sm+47npvOBNgpHftIZn3kjwSDEggKFETsAm2bBRiYU+1+pqksk/KkN2PmXdh9yqdsoArjs3nD7T/QW9NdKzYJHS1zxsZVUx2aCoAXxO479e9ImOE+AUJbpxtt+GNbzPu3OqoY2oCKSbg0qbmDSay7N2+AwO9Smt3Tn1cudHoOFnw=;r03MtgKPrsmCjst3TzT6yg=="
 ---
