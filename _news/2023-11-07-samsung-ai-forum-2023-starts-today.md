@@ -41,6 +41,29 @@ related:
         width: 1220
         height: 526
         isCached: true
+  - title: "Galaxy S24 AI will reportedly be called Samsung Gauss — here’s what it will do"
+    excerpt: "Google, Apple, Microsoft, and Amazon have shown us this year how generative AI will be complementing their different devices, but now it appears as though Samsung will bring its own generative AI into the Galaxy S24 when the new flagship phones arrive next year."
+    publishedDateTime: 2023-11-08T17:49:00Z
+    webUrl: "https://www.tomsguide.com/news/galaxy-s24-ai-will-reportedly-be-called-samsung-gauss-heres-what-it-will-do"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 35
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ApyEfszYrMhFa45AiGNQoN-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Samsung Gauss AI Unveiled: A Revolution Set to Power Galaxy S24"
+    excerpt: "Samsung's recent announcement of its proprietary AI technology, Samsung Gauss, signals a new horizon in consumer-focused artificial intelligence. This"
+    publishedDateTime: 2023-11-08T16:00:00Z
+    webUrl: "https://www.mensjournal.com/gear/the-guide/samsung-gauss-ai-unveiled-a-revolution-set-to-power-galaxy-s24"
+    type: article
+    provider:
+      name: Men's Journal
+      domain: mensjournal.com
+    quality: 19
 
 secured: "0BDr8P4x13ElafuO0f00U4QGr1N9cSxtUlu4M/MzkcBmVih8uHYJawLbyzCOAeTVpZC/QLGYr8THCdWzqdTvQFs/Xep9H67QB7F0busV0CpRzXtqzwZrH5NiSjjmTKWjuOggWvl+NqZv2GHwoHTIfJPnJNQ+iBdoAvniLvI5ZfxAaH/zirVQidg586fAYKx2QWCovwAacB3xCrJMsQ0F0d8kMEG9VDo/C6Rvp5qXZet6Z6GEl2izom2LHGbE/d4QXzUTaxamHoDMtDVzwqAh8oa/kLdc76SGc9Gx/6PLsQYlOPnwml9nHqn3mJtmbfdu8nf7SxrQxIpqjPXRzMCiyKS7qbSn3/hzAKVI6yabvLhDazTsRuBsnzMR6OP9PK8lT1DVjSMLLvVTZHeJwXuxLMKg9bmGarPD7uvYPscdfcD82b9jxFKK9BMuKLF1r86wON2zUztgwQeqsC5TEZ8nNJvS0inBFJ2bkYmKEm9kBBonfe/GBvr7W03Px9/NBQgSpBaG/4j41mOfTqwKL7OI2Q==;AXrU/x3XwRlkx0jJDUszHw=="
 ---

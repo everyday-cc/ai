@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "These Top Companies Are Transforming Real Estate With The Help Of AI"
+    excerpt: "These Top Companies are Transforming Real Estate with the Help of AI Artificial intelligence (AI) is quickly transforming just about every indust"
+    publishedDateTime: 2023-11-08T18:10:00Z
+    webUrl: "https://menafn.com/1107395228/These-Top-Companies-Are-Transforming-Real-Estate-With-The-Help-Of-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-11/08/B_d02e4image_story.jpg"
+        width: 845
+        height: 396
+        isCached: true
   - title: "Unleashing the Power of AI in the Internet of the Future"
     excerpt: "The Internet of the future is set to be a dynamic and transformative force, with artificial intelligence (AI) poised to play a central role. The integration of AI into the fabric of the Internet promises to unlock new realms of innovation,"
     publishedDateTime: 2023-11-07T12:31:00Z

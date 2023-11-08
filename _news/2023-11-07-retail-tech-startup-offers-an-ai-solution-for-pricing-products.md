@@ -59,6 +59,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Protecto Joins Cadre of Startups in AI Data Protection Space"
+    excerpt: "Silicon Valley startup is pitching APIs to help organizations protect data and ensure compliance throughout the AI deployment lifecycle."
+    publishedDateTime: 2023-11-08T18:16:00Z
+    webUrl: "https://www.securityweek.com/protecto-joins-cadre-of-startups-in-ai-data-protection-space/"
+    type: article
+    provider:
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 37
+    images:
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Conversational AI Bot: Revolutionizing Customer Interactions"
     excerpt: "In today’s fast-paced business world, customer interactions have evolved significantly. Gone are the days when customers had to navigate through a maze of options, pressing buttons on their phones or waiting for email responses."
     publishedDateTime: 2023-11-04T18:45:00Z

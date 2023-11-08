@@ -30,20 +30,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
-  - title: "Xbox secures generative AI to create game stories, quests, and dialog"
-    excerpt: "Microsoft's cutting-edge cloud-based AI solutions including Azure OpenAI Service, Microsoft Research's technical insights into the future of play, and Team Xbox's strengths in revolutionizing accessible and responsible creator tools for all developers."
-    publishedDateTime: 2023-11-06T20:24:00Z
-    webUrl: "https://www.tweaktown.com/news/94233/xbox-secures-generative-ai-to-create-game-stories-quests-and-dialog/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 39
-    images:
-      - url: "https://static.tweaktown.com/news/9/4/94233_1_xbox-to-use-generative-ai-create-game-stories-quests-and-dialog_full.png"
-        width: 1500
-        height: 843
-        isCached: true
 
 secured: "71pxZ5QCqhbQ2hCJe8saX4nR+mZSxXYlSrMWCxWx+O91BAJUsJ0aP1I4xtjeilRi6l4P6iUYPD2veiiS+9qp5tv/Bxr18h7GJzn+dh39u7IOlRnXvcBKQ3c4bCWqoF5p2dW1nXxHTnrwjM5IXhy3nwU1kyDb5E4qlwp7XDzWbUF+Rb0sCtIqNKXakMnldToIseco32NFDZ1Vda64BFECWrb+qDHzOY9vFb7lHdzt9prDPbLdyr1wRHDUs6J6UcaBnzlYfGlyijBee47bDzs+WunDMRVfrjFl+1ZEyHy92VQL7CrwZZ0vH5/XE2T8j3WijgiiP+Yx4IqHhQnDcaF2sKfu72Tmh6M6U0KSLoaAwyOzOS/VDdcyhba4CgG2Hhe2luhwfrOjSqpu5kDTXzKzfp1i5+rp1GdO06/uPPLT5rcAnQCmY5VUNUZ1GlSRmhw98aHHo0a/INUtZ6LghYHefq4P+V3ufXZeTy3l81yGdtl5kMeUODALIP/T37sdQYeUKC2XJCp66F7nBCOx797cyw==;9O5OpNBKoJZFHgVrbSAZvg=="
 ---

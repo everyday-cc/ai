@@ -53,6 +53,20 @@ related:
         width: 1773
         height: 1182
         isCached: true
+  - title: "Europe's top experts discuss future of AI in Brussels"
+    excerpt: "International Artificial Intelligence Summit in the heart of the EU seeks to find answers to many of the questions around global AI regulatory cooperation, and what it will mean in practice."
+    publishedDateTime: 2023-11-08T18:31:00Z
+    webUrl: "https://www.euronews.com/next/2023/11/08/watch-live-euronews-ai-summit-kicks-off-in-brussels"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 39
+    images:
+      - url: "https://static.euronews.com/articles/stories/08/02/22/68/1000x563_cmsv2_b5e3b8e7-65a2-5d59-b570-470329d11fd4-8022268.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "NS6ZCtlWCFgb5xu8/S9+lkfx4uuVwTNcSZYr9COXCg42vNTj0APCE7QDUg8bO0Z+GpXtXQcHG5fueMVFOmXfoamECUpaH4Z+gA14yjlJtqy0mti/jtmyNT+lxlXTN67dLEz5077Be5RmnyClrdH8SiKYsSfisUET6GBL6BdBK7TMJ7KrhGKw3As+/l7tsFq5OqHxuaVpnb8tLEYfjI14X740ELkbGNEfE/8flRvZXSVn/eMHJXbbQX9fAKNM2SUjwepXKXZTCHWJkl35IGEASupej8JfJb4OliMFOr520olMoGI9YtxvGotMLLLOfW1Do9akBUdW9igEDs4Q8FKb6ING03yfz3vha5OpjkFrr1I=;9uzu34dp2ZVyIzUGjhp6cw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-to
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-to-increase-agent-productivity-through-automated-call-summarization/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-11-06-043615285-Generative_AI.jpg"
         width: 546
         height: 312
-        isCached: true
-  - title: "Real-world generative AI use cases, AWS style"
-    excerpt: "AWS makes it easier for companies to build generative AI applications with enterprise-grade security and access to leading foundation models. Here are a few examples of how AWS is helping its customers in different industries automate complex tasks, generate dynamic content and provide more personalized user experiences."
-    publishedDateTime: 2023-11-06T19:49:00Z
-    webUrl: "https://siliconangle.com/2023/11/06/real-world-generative-ai-use-cases-aws-style/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/AWS-Summit-NY-2023_003.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "kCgmOp8chfkieUQHK+rgXEH0qmZxCIYmF3LbPP1NeOh3gVnL8kvy0NR3hpPZtGO3mcS7xXuom5qcMd631llPpx8WHun65tHG1G7w7bBWNvnEFgYnpfrH6X242wi3kJdyzWQzJUBUlx+BO3ITvGHooA4wj2yhjq0OxnMRTOXkCVfAKlpMOgt6zBqy+Wf/Ev0XUj9mcd4mx00Fo2UFYbS9mClhLtIAgc2uU6Ca9WoO88l8QIWVigG4FTL6LEickrACo9nkHpcwJNxlmkX6b+66Cx3a0odfzwIQIU0h48Is/2xo/ZeO66dC0SbyHsHQcxY2Yqb5WsGGWkGLTXvFK9Lrd1Dc8m+ly03greccvO48EBE=;S9XcfO5WD4LzTtTOtvSojA=="

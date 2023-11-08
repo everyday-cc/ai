@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/11/06/amazon-codewhisperer-now-provi
 webUrl: "https://siliconangle.com/2023/11/06/amazon-codewhisperer-now-provides-enhanced-ai-generated-code-suggestions-mongodb-developers/"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Optimize for sustainability with Amazon CodeWhisperer"
+    excerpt: "This post explores how Amazon CodeWhisperer can help with code optimization for sustainability through increased resource efficiency. Computationally resource-efficient coding is one technique that aims to reduce the amount of energy required to process a line of code and, as a result, aid companies"
+    publishedDateTime: 2023-11-08T17:41:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-for-sustainability-with-amazon-codewhisperer/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/02/Picture1.gif"
+        width: 936
+        height: 582
+        isCached: true
   - title: "MongoDB and AWS Collaborate to Optimize Amazon CodeWhisperer Suggestions for Developers Building Applications on MongoDB"
     excerpt: "Amazon CodeWhisperer now enables developers to accelerate application development and modernization on MongoDB using an AI-powered coding companion Cascadeo, gravity9, and Redapt among customers and partners excited to use Amazon CodeWhisperer with MongoDB"
     publishedDateTime: 2023-11-06T12:17:00Z

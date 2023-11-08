@@ -38,7 +38,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 66
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/VentureBeat-Pic-1.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The stupidity of AI – The Guardian"
     excerpt: "Artificial intelligence in its current form is based on the wholesale appropriation of existing culture, and the notion that it is actually intelligent could"
     publishedDateTime: 2023-11-06T18:25:00Z
@@ -54,6 +59,6 @@ related:
         height: 630
         isCached: true
 
-secured: "MD+iAZq3HLzPPa2ApZnmD8tW2iueBCQPH25BStCumL+bfsjtiwcQgKViPLGUXeAim/qodbqq+HulTqmpipLhLAJYA7eVui52XwrEnD+qANvjsViOE+4f47byq0bgw8//NXiHOHV4KrAs3OZIPorsngKeFWHg9kHWk/bhi9R8qw0UyzUpXI838ptlZOZ1VLptdTyuwIqHzkq7mDGJy9lKKqfUj0Qz6xLxu+e/KA30TnAh1XAp2BThzS0QTj3xmZNlp1tSE17DhhjCj0PenCxTwkcQa7udf2ptMxWbG1C2UTqMDvx6H5IQtqRutKWLAuOl0nEJ+SbEXpjcDuOoIIjKbv/dFDbxSVljo9J+2QVKr+c=;nOPn+vbNvzjgQouIFFvTVw=="
+secured: "l0BggX9lQU276r8x0CUNOfCgU2ENutOgBxCWQV7qqtVEcIfL/7XEuIHrv9lFOTYFvp4sK2IvO+UhPRW7vd4dCAIE/jiNyZ5uTOPCyJ1kwrqiZR815nK4XparTQl6MsLFHP/7xId3DTGi4wXx37HA92iFe2OmY+JAkTMFqldZoh6pmukRiKltbCt1ggYnFHgsJSR/DIG6xRxm6EFmMQMNEBftUQ5c7+pO7sRRZOEk8ZMmBORIzq1+j2QZQlcvM5BTp/R8NzfsixbOkqDgeQEm1/L44RwnkZqcj/Keyd3UUuDBdt39RhNSj0tMlw6+oFYyOFRIpg8RvfCxQOL1Sc0wA1K7HRv9ivlNHE63HvD2APLgNKSbcigoObdkqNwSjbzvNRJCLOAK/GVNvHO0BRW7XiN0dwndNykWNnyxD1XSupuFIME3yTpZhn9js3hOOzbqCb2m3snUnP/z8s4CYopLFXqgOke2jIQIm+nNL4+FjPePGQ9Fvgqb2sWfzAJ+S3cXUPC6U+nErc+bNjLQUPoGlw==;0CJWFD/UDIRqVXU2rC8oyA=="
 ---
 

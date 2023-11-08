@@ -110,15 +110,6 @@ related:
         width: 1200
         height: 899
         isCached: true
-  - title: "Elon Musk Predicts the End of All Jobs—Google AI Exec Disagrees"
-    excerpt: "DeepMind co-founder Mustafa Suleyman contested Musk's assertions at the AI Safety Summit, saying it's too early to say that AI will replace human workers."
-    publishedDateTime: 2023-11-04T00:55:00Z
-    webUrl: "https://decrypt.co/204398/elon-musk-predicts-the-end-of-all-jobs-google-ai-exec-disagrees"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 19
 
 secured: "r2h0P7U75IYqKZjFhqsBA2NpvG8JGjvlexx2yIsLj//thPoydTnpNHdbzyMNDOqJwlwou+MIZ1ktqGr3MCe2t1tohY0dKEkkzHcB4tSTjfPWCaiiwdvB4pxohhSFER1cVS/SoSc1z+ps9a10sVwCZn5AikfX+I1UqwQZjUO1F2AOUN2fbHqakEA4exJ+NGKfKC9EFkJon0AIHj/xpUmWPeDXMw9uMuALVOYnFoZZ6ykbK8LH/SbKSN8OJTsUIVG7i2luQwj3RVlXGnzFr7Rc/1RkhcD4lJYEGpkohkq0GS7oN4VEIS48zqMdxCOxHyJuHnwV0QClCZ1jIjM5HoTixb4wlzBb305kUH/p2eetu80ua9xcEJjT75mp8NJrlnm7X/JjG+/D/yjPA1rkRT0E3mpOq7dTRPVkXYTKcC0JdQGGD+f3+cPFz06+3ikqPORAocz3Qw6WHEmIPmG5YG8KLVv/vEjm4doKV4kPD/iUSUHecx9lD46C4HsuvigPVYQNaeCgXYBXp/Me/b74pOco6Q==;X3ixxB0l7WBAJ7U/4SbfOA=="
 ---

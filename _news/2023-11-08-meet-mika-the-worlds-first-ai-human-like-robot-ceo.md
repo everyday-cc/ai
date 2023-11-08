@@ -20,6 +20,20 @@ topics:
 
 related:
   - title: "World’s first AI robot CEO becomes an honorary professor"
+    excerpt: "The world's first AI robot CEO has become an honorary professor. Mika, who heads up Polish rum firm Dictador, was presented the award during the recent 2023/24 Collegium Humanum University inauguration in Warsaw."
+    publishedDateTime: 2023-11-08T14:45:00Z
+    webUrl: "https://www.tiogapublishing.com/news/nation/world-s-first-ai-robot-ceo-becomes-an-honorary-professor/article_a2a8c5f2-fe04-540c-8618-b3a8f695126e.html"
+    type: article
+    provider:
+      name: TiogaPublishing.com
+      domain: tiogapublishing.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/assets/v3/editorial/1/00/1000df76-be8a-5120-9dfc-46fdbc76f7cc/654bb4901de33.image.jpg?crop=1280%2C672%2C0%2C90&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "World’s first AI robot CEO becomes an honorary professor"
     excerpt: "This first human-like robot, with AI, in a company structure, will change the world as we know it, forever.\" Dictador added: \"Leveraging advanced artificial intelligence capabilities, her role as an AI CEO at Dictador has revolutionized corporate leadership."
     publishedDateTime: 2023-11-08T16:22:00Z
     webUrl: "https://tylerpaper.com/news/national/world-s-first-ai-robot-ceo-becomes-an-honorary-professor/article_56e41fd8-ff9c-589a-a116-fc5f67646cb3.html"

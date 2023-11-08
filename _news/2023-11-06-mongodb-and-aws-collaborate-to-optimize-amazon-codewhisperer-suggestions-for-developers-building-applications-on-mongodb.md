@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Optimize for sustainability with Amazon CodeWhisperer"
+    excerpt: "This post explores how Amazon CodeWhisperer can help with code optimization for sustainability through increased resource efficiency. Computationally resource-efficient coding is one technique that aims to reduce the amount of energy required to process a line of code and, as a result, aid companies"
+    publishedDateTime: 2023-11-08T17:41:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-for-sustainability-with-amazon-codewhisperer/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/02/Picture1.gif"
+        width: 936
+        height: 582
+        isCached: true
   - title: "Amazon CodeWhisperer now provides enhanced AI-generated code suggestions for MongoDB developers"
     excerpt: "Amazon CodeWhisperer now provides enhanced AI-generated code suggestions for MongoDB developers - SiliconANGLE"
     publishedDateTime: 2023-11-06T11:01:00Z

@@ -34,6 +34,36 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Hugging Face has a two-person team developing ChatGPT-like AI models"
+    excerpt: "AI startup Hugging Face offers a wide range of data science hosting and development tools, including a GitHub-like portal for AI code repositories, models and data sets, as well as web dashboards to demo AI-powered applications. But some of Hugging Face ..."
+    publishedDateTime: 2023-11-08T18:15:00Z
+    webUrl: "https://techcrunch.com/2023/11/08/hugging-face-has-a-two-person-team-developing-chatgpt-like-ai-models/"
+    ampWebUrl: "https://techcrunch.com/2023/11/08/hugging-face-has-a-two-person-team-developing-chatgpt-like-ai-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/08/hugging-face-has-a-two-person-team-developing-chatgpt-like-ai-models/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?resize=1200,900"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Amazon Aims to One Up ChatGPT With 'Olympus' AI"
+    excerpt: "According to internal sources, Amazon is working on a new AI dubbed 'Olympus.' Little is known about it besides a large goal of doubling ChatGPT's 1 trillion parameters."
+    publishedDateTime: 2023-11-08T17:30:00Z
+    webUrl: "https://www.pcmag.com/news/amazon-aims-to-one-up-chatgpt-with-olympus-ai"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02x7vxGDj5mBs98keIRKZnQ-1.fit_lim.size_1200x630.v1699462326.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "YouTube's New Generative AI Experiments Include Chatbot, Comment Summaries"
     excerpt: "Select YouTube Premium members can opt into the AI features, which are intended to boost engagement across the Google-owned video platform."
     publishedDateTime: 2023-11-07T15:27:00Z

@@ -35,6 +35,20 @@ related:
         width: 1600
         height: 662
         isCached: true
+  - title: "These Top Companies Are Transforming Real Estate With The Help Of AI"
+    excerpt: "These Top Companies are Transforming Real Estate with the Help of AI Artificial intelligence (AI) is quickly transforming just about every indust"
+    publishedDateTime: 2023-11-08T18:10:00Z
+    webUrl: "https://menafn.com/1107395228/These-Top-Companies-Are-Transforming-Real-Estate-With-The-Help-Of-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-11/08/B_d02e4image_story.jpg"
+        width: 845
+        height: 396
+        isCached: true
   - title: "These Top Companies are Transforming Real Estate with the Help of AI"
     excerpt: "Artificial intelligence (AI) is quickly transforming just about every industry, including real estate. In fact, “AI has enormous potential to reshape real estate, with near- and long-term impacts ranging from the emergence of new markets and asset"
     publishedDateTime: 2023-11-08T14:15:00Z

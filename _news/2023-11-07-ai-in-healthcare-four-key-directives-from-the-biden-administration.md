@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/"
 type: article
 quality: 106
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/11/Generative-AI-in-Healthcare-Transforming-Patient-Care-by-2024.jpg"
         width: 600
+        height: 450
+        isCached: true
+  - title: "WHO Offers Recommendations for AI Guidelines in Healthcare"
+    excerpt: "Experts emphasize the importance of training AI systems on reliable data and of checking the systems’ safety and efficacy."
+    publishedDateTime: 2023-11-08T18:24:00Z
+    webUrl: "https://www.medscape.com/viewarticle/998216"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 54
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/gty_231108_ai_guidelines_medical_800x450.jpg"
+        width: 800
         height: 450
         isCached: true
   - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"

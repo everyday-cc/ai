@@ -25,26 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "TechSmith Audiate Launches Generative AI Features For Instant Content Creation"
-    excerpt: "TechSmith Corporation, an industry leader in visual communication and video creation, announces the launch of generative AI scripting and voiceover features in Audiate, the company’s audio recorder and text-based editing solution."
-    publishedDateTime: 2023-11-07T15:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/techsmith-audiate-launches-generative-ai-features-for-instant-content-creation-1032788734"
+  - title: "Generative AI in Search expands to more than 120 new countries and territories"
+    excerpt: "Generative AI in Search, or Search Generative Experience (SGE), is expanding around the world, and adding four new languages."
+    publishedDateTime: 2023-11-08T18:00:00Z
+    webUrl: "https://blog.google/products/search/google-search-generative-ai-international-expansion/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-  - title: "Rubrik introduces Ruby, the generative AI companion to accelerate cyber detection, recovery, and resilience"
-    excerpt: "The company will leverage Microsoft’s Azure OpenAI, in combination with its machine learning-driven Data Threat Engine, to help discover, investigate, remediate, and report on cyber incidents. The company’s newest AI companion, Ruby, extends Rubrik ..."
-    publishedDateTime: 2023-11-08T12:40:00Z
-    webUrl: "https://www.sourcesecurity.com/news/rubrik-introduces-ruby-generative-ai-companion-co-1614609647-ga-npr.1699439417.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/rubrik-introduces-ruby-generative-ai-companion-co-1614609647-ga-npr.1699439417.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/rubrik-introduces-ruby-generative-ai-companion-co-1614609647-ga-npr.1699439417.html"
+      name: Google
+      domain: blog.google
+    quality: 85
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_hero_hVttB6n.width-1300.png"
+        width: 1300
+        height: 541
+        isCached: true
+  - title: "IBM Expands Relationship With AWS To Deepen Generative AI Innovation And Launch A New Innovation Lab In India"
+    excerpt: "November 7, 2023-- IBM (NYSE: IBM) today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from the latest technologies,"
+    publishedDateTime: 2023-11-07T13:20:00Z
+    webUrl: "https://menafn.com/1107384841/IBM-Expands-Relationship-With-AWS-To-Deepen-Generative-AI-Innovation-And-Launch-A-New-Innovation-Lab-In-India"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 21
+      name: Mena FN
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/updates/pr/2023-11/07/F_cd60dimage_story.jpg"
+        width: 1160
+        height: 522
+        isCached: true
+  - title: "Orkes Brings Generative AI and Human-in-the-Loop Capabilities to Microservices and Workflow Orchestration"
+    excerpt: "Orkes, the enterprise microservices and workflow orchestration platform for Netflix Conductor used by companies like United Wholesale Insurance, Foxtel, and Normalyze, has released new capabilities that allow organizations to implement generative AI models and vector databases directly into their microservices infrastructure and business workflows."
+    publishedDateTime: 2023-11-08T17:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-orkes-brings-generative-ai-human-in-the-loop-/2023/11/08/9914305.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "GIhW5/LqlkmrSadeYDWBYH/WUgMta5rcAiONDGA1/cukdT0s4roQy/DLgxGL8Ja3Ft3M9BjKp5gHUY2b4MvqhZNs6JNMsV5ab4q2bZpck6WYe6mQrgqyNZxAJ+v1RGA9x5ZVYZH3g7rzOL8uIfm4d9RkCvu9L7GOCoBzXwqf22YUSOuvhxqFC831pYMC91LhRUbMq+okiA4SPYLoqpUu77oBPwQtZnYXYlClRus8njtY1tFi2eaPRorZy+fEKdPp+8ZjgymW15GU1YEma27C3ap977q3crjC2qfB/go2A2OevCIpMBl9cUOQMVqQmZH8iVPQcJJI4SkJvoxeHZCAmSHJTQrQ0YnOW+JAqdnknrU=;da1cH7dLPpMvtp4AkxcgKg=="
 ---

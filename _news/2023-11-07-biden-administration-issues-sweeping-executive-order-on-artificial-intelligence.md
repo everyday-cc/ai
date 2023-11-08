@@ -97,6 +97,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "WHO Offers Recommendations for AI Guidelines in Healthcare"
+    excerpt: "Experts emphasize the importance of training AI systems on reliable data and of checking the systems’ safety and efficacy."
+    publishedDateTime: 2023-11-08T18:24:00Z
+    webUrl: "https://www.medscape.com/viewarticle/998216"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 54
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/gty_231108_ai_guidelines_medical_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
     excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
     publishedDateTime: 2023-11-06T06:08:00Z

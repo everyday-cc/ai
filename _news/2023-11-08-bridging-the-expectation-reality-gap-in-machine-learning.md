@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2023/11/08/1082821/bridging-the-expect
 ampWebUrl: "https://www.technologyreview.com/2023/11/08/1082821/bridging-the-expectation-reality-gap-in-machine-learning/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/08/1082821/bridging-the-expectation-reality-gap-in-machine-learning/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/brain_silouette1200.png?w=1200"
@@ -26,6 +27,6 @@ images:
     height: 633
     isCached: true
 
-secured: "UIcx01tZbRWpd+5MLzRtiy1ihYTBMRfCLv8qvPU2RiMfEr5mHecuSJxqNgwQOHaLkPKellkchoyYtokAERV101ysk6pkIbeNEs/dRVQ9i5oH7IGP5fZu+uGPVbRe8KZP9DdUyFcAUS55IPk7o28bdhaW1jR0rLQM6cCiiTpxaijE9hNwarn3wxVt2+QnAcULBnmnlzCzuW4nYGxAlwR/Y4TMM9I4HClTeQ1yYbCjzcIGY2emmxElDB4yOW9v2hlyeaTggWF1iOZQQjrSIrrZxwLavOLUOmchO/WE7TWOO5yH6MVeIQCo7C/oJeFBogk2Gm+7NQYo3RZzefphSzCoC69bDxGB+ce2C19ExSYSLKI=;iyeQ6b6wTqXCcugL6NwWww=="
+secured: "X2JgUkgVJg64R72/hHIqwcc5e04vfeRFkvJxStD+GWxG09MnA9mAnYWAoukIogtWVPEANx/O1poV6+pbIOEUTOuoD+5qde1Sd0YsNDOY0U9XwLWoB53cHDM0NMy0hsPPfASaPUBXiIlcmfRODP3qPGLUE31VF8jTrhg3VU/vU13wTt0PoRG4zFIO+xvk3lgpPPcXM3bnMrZ7MQ/29Vbt1ash3y2LT58POdTIHqtKACHfEZFRTfznjDC9qcpNnVVswDGlJSCxGcS+6tYJS6e0md9gEWhAiQ5lv+0YpB8vw70RkZzt5eJ0xXkojC5sSHPijvcZto3veXswUicRtUrDu7ot4+/5QZN5lw5MwXaf9wJhrZO/UQ+BUeoMVNFahueVDfTh5ibqDnYsmYyHUugFqcsAQmfLPXEk8oW1g0O+Gl5Kv/p4uUAhvwlwnkv1UkenEw4GjFjuTEz4p7z8bM7zFeXoVm69//HjAR0ZARooYMBH32kd2eIpupWXbaWMzS+peUbnOav/K9XoScQxxuzJdg==;2ncjcpwR6B8nEEUBLiVpvw=="
 ---
 

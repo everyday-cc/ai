@@ -42,20 +42,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Real-world generative AI use cases, AWS style"
-    excerpt: "AWS makes it easier for companies to build generative AI applications with enterprise-grade security and access to leading foundation models. Here are a few examples of how AWS is helping its customers in different industries automate complex tasks, generate dynamic content and provide more personalized user experiences."
-    publishedDateTime: 2023-11-06T19:49:00Z
-    webUrl: "https://siliconangle.com/2023/11/06/real-world-generative-ai-use-cases-aws-style/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/AWS-Summit-NY-2023_003.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "z54fwkpipQorLVh1rxbHLQ3i5vXISIVdQIYop+PtOj/s8L9neKwTREgpqdg5Bior0Ox3ejMwrwDDZQXY73K0xoqj9N88rc9P5h6kb4PSOheF5S91rv8iMOVcNUJ5S0w1vJrmKFqIqAGt1b1VqPYHPCH8h+42SlM8dpF/aJTsYMcIszYu73fPGsfiqeUGxRwJjl6Wg9PCX4suycI48voZPvxH/4dgFOOsHTGd3gy9BIgZj9MOKrc+Sr1i60r7MDQH6dm/qbPCoPrhQrqCxj2ciuZHyXoJ8x9vj6P9igJiFnbotKOB4RQIwdM3mT3G7FwFTqdgaLZ30PNphXjcOP8Si93bG/wQBJYJcw7r8+JleXso5vsUY4EtkCd1D1a42csd7g/Ip7U8zhJvVLL8HJx+gq7C10twdXuID/8K5Fbi/8OHQaKGwbkAzgCdl8dmB/yvYEyMACqqhMh84QodqxaGbKOjuV0l6fybsvkGPx+MXmGZOjG9jabqAKE0o539BBnGVzaX/aEFOzkT8M60gKpVlA==;TAmSmQqQfH9+Ucer/lq0+w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-va
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-2.jpg"
         width: 1000
         height: 500
+        isCached: true
+  - title: "Google is launching generative AI search 100 additional countries, as AI wars continue"
+    excerpt: "As part of Wednesday’s announcement, Google’s senior director of product management and search, Hema Budaraju, said SGE is expanding to 126 new regions including Brazil, Indonesia, Mexico, Nigeria, South Africa, and South Korea."
+    publishedDateTime: 2023-11-08T18:01:00Z
+    webUrl: "https://www.aol.com/google-launching-generative-ai-search-180136523.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 31
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/qqIsR09v28_7PziunFk_HA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/0768cc47fe3754199a5ba6f475016c9d"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "oJR1a6dexx2O0dKLDInYHoZqyHbgs3hZ/48RdoCP8OXUMSeSyky1cNkst+BiV2W3UCz4T3Bc30yiG460QsKMbcstE63mnW/eWVO+vmAQ6V8bsbWLMyNayBxzsuP1/hLrlq7cvZw/aWOKUP8zYB9raDtfLLy2NYcsIqFTQkaWxZTKjJSI/Se38TZf5dhlx1pmipero2u7K7Zhc2mN+DUSr1J9+K+hoGoZdIHC5R/gVAwbx/K9FlI6PVpFqfFNWAagYeuPCgsLG7oRqZPzTLg/+rWmw/HY0UVUd8+sUh+YduEBdbNcjgP2k6MGW5EwHGS0vvxOh2pPIc510UwTI9d0YeSRRJNo1563q/fOi3H3xGdU+WZjAYtxnmC/O2VELRt4BtQ5Q8o+cfsk96NVhVnrol2UODA28QAUHVK12IJLszpBYHDYgw4tip3QaNTLfxQZz+wd8q7EUOA5t0fxQtJYmSoM/BeHtLzkPmxEf//79FW2hEarhvSQVZ985vtSY4Qf7oFQV+ttWPiCDsfAw1lR+w==;1ufm+MYUB7BUPbQ0JEei6g=="

@@ -80,6 +80,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Google is launching generative AI search 100 additional countries, as AI wars continue"
+    excerpt: "As part of Wednesday’s announcement, Google’s senior director of product management and search, Hema Budaraju, said SGE is expanding to 126 new regions including Brazil, Indonesia, Mexico, Nigeria, South Africa, and South Korea."
+    publishedDateTime: 2023-11-08T18:01:00Z
+    webUrl: "https://www.aol.com/google-launching-generative-ai-search-180136523.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 31
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/qqIsR09v28_7PziunFk_HA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/0768cc47fe3754199a5ba6f475016c9d"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "DBZb8W22R5xX2yEej+IF2Pm5D1ZT6CGl1gzXLrolIDc7Jo/E6PfJvYyy19ytZrfyFKE7CANglUO7cEKrzI1ocDplLkmHe8P3g8L0L72EITPbjJ8Jt8/CKUiFcb46XR0ytzj64qNdW0mNfooqXpbQZMqJuwP0PfrVjRCLasf67ZdBgYjHqL6d4C4aKxJLWK1gi2J6PDHKR8gUI7gUD63MLplzVqifKETl4aQ+y0+FebtrCH8FxZpmM5wRri8AnftqY/yBkygNQFhWf6P9SEzbnyKa9XyOktthlVffR4xKeRKPztjehzFQOWo+GJOllipAUQlhfWX/FQLF0YUpNMTkr7ChKXCd3Nk64hYNv2SRrZI=;F7hPM02JbeRFFPx/Tpa1HQ=="
 ---

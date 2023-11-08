@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-giv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/amp/"
 type: article
 quality: 121
-heat: 252
+heat: 272
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Microsoft's AI Strategy: Cloud innovation for revenue growth"
+    excerpt: "Explore how Microsoft's AI strategy is revolutionising cloud revenue with a 13% surge, Azure's growth, and new AI products."
+    publishedDateTime: 2023-11-04T07:11:00Z
+    webUrl: "https://yourstory.com/2023/10/microsoft-ai-cloud-revenue-growth"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 54
+    images:
+      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Untitleddesign83-1695718985579.png?fm=png&auto=format"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Microsoft Vet Takes Reins at Curbit"
     excerpt: "He left Microsoft at the beginning of the year and worked for a few months with Curbit, which is built on Azure, to provide guidance on business scaling, then stepped in as its chief executive in September. As Curbit’s AI and machine learning systems ..."
     publishedDateTime: 2023-11-06T08:05:00Z
@@ -160,6 +174,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 28
+  - title: "Vandis Achieves Microsoft Solutions Partner Designation For Infrastructure And Is A Member Of The Microsoft AI Cloud Partner Program"
+    excerpt: "Vandis, Inc , today announced it has earned the Microsoft Solutions Partner designation for Infrastructure and is a member of the Microsoft AI Cloud Partner Program. The new program and designations replace the legacy Microsoft Partner Network program and its gold and silver competencies to help customers identify qualified partners with the technical capabilities and expertise they need."
+    publishedDateTime: 2023-11-08T18:26:00Z
+    webUrl: "https://menafn.com/1107395184/Vandis-Achieves-Microsoft-Solutions-Partner-Designation-For-Infrastructure-And-Is-A-Member-Of-The-Microsoft-AI-Cloud-Partner-Program"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?512243"
+        width: 317
+        height: 250
+        isCached: true
   - title: "Vandis Achieves Microsoft Solutions Partner Designation for Infrastructure and is a Member of the Microsoft AI Cloud Partner Program"
     excerpt: "Vandis, Inc, today announced it has earned the Microsoft Solutions Partner designation for Infrastructure and is a member of the Microsoft AI Cloud Partner Program. The new program and designations replace the legacy Microsoft Partner Network program and its gold and silver competencies to help customers identify qualified partners with the technical capabilities and expertise they need."
     publishedDateTime: 2023-11-08T15:04:00Z

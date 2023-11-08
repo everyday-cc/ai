@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/crypto-entrepreneurs-are-pivoting-to-
 webUrl: "https://www.wsj.com/articles/crypto-entrepreneurs-are-pivoting-to-ai-heres-one-founders-experience-34be4c51"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?694398"
         width: 400
         height: 250
+        isCached: true
+  - title: "In D.C., crypto is pivoting to tokenization—if AI doesn’t take the spotlight first"
+    excerpt: "D.C. Fintech Week is not your average crypto conference. There are no yachts, which would likely have trouble navigating the Potomac, nor edible delights shaped after the organizers' favorite tokens. Instead, the annual event—now in its seventh year ..."
+    publishedDateTime: 2023-11-08T17:59:00Z
+    webUrl: "https://www.aol.com/finance/d-c-crypto-pivoting-tokenization-142631271.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 33
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/pUcXsOd7rJNgAW8Oovkatg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/4e845aecf89a5585b1a9de049d7dea94"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "4+aJujuaMPiDV384zAofZ/qRZyQmBJvb4UmpkADCuKFnhUvs839WIkXZK1io9h9hdTd3jMCApDaC6cNYUdp9NDHF2jtc+PyYZQJfP5399kM6V8qYW7uJnR0kGcTNEs9ekS+OU3sXMnDWMTatMTm+dqlVIRuHELCdZSxMvlAP9y8Doy1jcrDICDy3PVJ8cDXbYrkn6g3tqZQVhmTv0SWDqfBA2OuCjU9FKWKq1CbCR4ocqf/M/F0DkFrmwib8UeYE5+nd5wi7Rylui31O7BHEAdD+UrJrWQFkycTAMLjALFN0ylkxEL66aOu9Lrq1FwXob+dHVXDxWDbWDCBz/SWNgzWFCar/KUsCgE2F2xFX1rtFtrqHB3wFJDAMRzx7gz0XhbCHuKLJgSwruVA9dOPdZ/Ffu6pVVG3JXa3Bj6Wodra8JxpKJE72tacBqRodtRdaiFDEFIHx40Y6IjZur2W1scyGPVpuxPivDc4YFTLuAaQgRjFxzvzEig1gEb0F2plibGJsp0v+VEqnj5NevJ250w==;sjz7U27EXy6mikQYY8iPKg=="

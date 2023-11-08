@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/astel-ventures-bui
 webUrl: "https://markets.businessinsider.com/news/stocks/astel-ventures-builds-ai-to-improve-startup-fundraising-and-build-1-billion-portfolio-1032781176"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 800
     height: 332
     isCached: true
+
+related:
+  - title: "Voice cloning AI startup ElevenLabs was worth $100 million five months ago. Now, sources say it's about to hit $1 billion."
+    excerpt: "The New York and London-based startup, founded by Google and Palantir alumni, is in talks with both Andreessen Horowitz and Sequoia to raise its third round of 2023."
+    publishedDateTime: 2023-11-08T17:34:00Z
+    webUrl: "https://www.businessinsider.com/ai-startup-elevenlabs-raising-third-round-this-year-sources-say-2023-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+    images:
+      - url: "https://i.insider.com/654b688936d588dc55ccc869?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "dIdAy5hVDGHCv69mrwpljMp52wpLY29QvEhKNa/PdaqtAxwqJm+/oRVlj2mRnjnEhjeoGwDmOD62VBsM1C9tpcqlSQQAz9Xgll/9zkgf/IuSCQ4B0ci7N10cZw33PC+k6vuohbfoK1rMuuK5UAsKqZDuuceStb20zIrfB9wnXxKvqukuVCLTzPEVYmI78XI1LgqvmPAXVh1lCHzaCis45RzDPE2haIoWZTnQWlUL6xm0n495WhSMnre/RtdjuTFryXjvBhivrapLFnTRboutQQ16ZSBUOOYWbX58Y/lMbQkYo1KNkH7Cs/7Ofiu/J3KNna8xfeKr/ZXFBxiCXSCox/BcUblT2s5OJCTV+KoHlC3ZUiWZ1Lyyie9jDO2vVOV1paKiE9S89tuKonsgeA4fEmAQhCsz3emBZWVrdrxY0ZWG0IbeMO97a/NZ/viI0LRvobYf3Qr8BN0OOQCPy2KSpKKfEeKtgHA8jcLcMuulFgtoiPbOw1iiheHA8LHaBfVsBe4WkflDq4OXKPebZ3imkw==;APxlwohqR1PnKGzDU/brwg=="
 ---

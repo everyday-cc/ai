@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-08T13:18:00Z
 originalUrl: "https://venturebeat.com/business/7-fascinating-use-cases-of-ai-in-finance/"
 webUrl: "https://venturebeat.com/business/7-fascinating-use-cases-of-ai-in-finance/"
 type: article
-quality: 66
+quality: 86
 heat: -1
 published: false
 
@@ -22,6 +22,12 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Finance
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/11/VentureBeat-Pic-1.jpeg?w=1200&strip=all"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "The Strong Case For Board Oversight Of Artificial Intelligence"
@@ -55,6 +61,6 @@ related:
         height: 630
         isCached: true
 
-secured: "43nKW0EIztHojRE9fM5q8v+IP896snHdYY3vQpK0wXyNbc0vYVQ2ugWFn07Unop4Qx9uzOjdEDuluDOGUbksk2RJZCtOmOUL3K4N6KBMgfNIws/JK5sJxMirIjVf1XkD1R6f2TOEVOsaYrJDLLnU2PHobcJkRcg38ilShDpPyNonaF4T8bpcRza/kZGUwjw7I9nBV/+acnmOcuMqMlBS36IQignVFLEkod08JIr+nLysNiuOY1wXdapeJtUw2AwlQ3SPJHM/TUfRQUcVo/d//brhvpo0pr4tC5Km4aB2vsBqUFc5BRp3WUmuFS47VOmHKuKW1JKg2b0iYmnxI2gyIKCHm9TBofPUIQ8FAENHsTo=;eTxMRkOFFaU5cgYD2L1c7A=="
+secured: "ki0ACaFUOGOpHw3/52JaZ501sTsnrx+QqRoe5pyAV4uT9611aDia7OtSiGrbxzBv1CxzrhxvhlcS1yAmneUPbOl1+6lySj2VNHeL3S0TTMW1fgP1WdFMfWLMI3UFZPj4S/ooXQvUtynZAiKmtQWEBpyRqjgjkY7D7Ox27vOpLCbiyoleG5kW/shbkwFOcCLeI1uTuyA6f6iW2pePnHCIr8M6YdWXazL/QaGQ8hM6dHXeQqD7wtuvNFSmxHjIEwzy8dgiVmubz9o/rrvoJft49u0/iHxhbD89S5GVC65ITNrf1bAaGHHxCsINHoKmqIkoawY8IrN+SpQyyg0OnVHjzuClox9DXV2FX1bZsuWGquc=;qiuh/zfSwjjvck13zDEw9Q=="
 ---
 

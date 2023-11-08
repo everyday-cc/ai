@@ -1,24 +1,24 @@
 ---
 category: news
 title: "SproutLoud Launches Integration of AI in Brand-to-Local Marketing Platform"
-excerpt: "SproutLoud's AI-infused platform combines digital asset management, channel incentives, co-op marketing funds, and last-mile marketing fulfillment to make it easy to collaboratively deploy localized, compliant content through traditional, digital and social media tactics. (Graphic: Business Wire)"
-publishedDateTime: 2023-11-08T14:57:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9914089.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9914089.htm"
+excerpt: "SproutLoud is poised to redefine the brand-to-local marketing landscape with its long-term investment in AI integration."
+publishedDateTime: 2023-11-08T13:17:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231108105351/en/"
+webUrl: "https://www.businesswire.com/news/home/20231108105351/en/"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Marketing
 
-secured: "JeWlK5tQjOiHjminvij33Pfge3WjQzLqNK/0TwTR4Cl+dbh/WFHF3JQtOWzLHeOQYGyqpqgC0pkqYylt4K4JUCpTLCusqsHglVPrRxGJz+lt+GxUn4qcuLysN5pQrbcqTRoGPpg+jbnQCGXfaPg2QOZyDSJhW0UVMl8phv7mUrLbHMRaQDV3FrV+yX8IkBxIPhFUI490KknBxvS+q2WA4ss1PZvYRRrbQzFkbKtltybCsmBqgbAKR9KX6BLIi635WNd+7Sb5bewgB9v181GHISjjGiOLAoDfN8NRwbX82tOTqN8/miEFpjfsBC2h0lvJmxTfEhTmUWvBSVV9se1G/PQJNHXAbSWZpizM3s6wd3ztEOsEgibeBJ9i/7tUnGXqXkOIRRJh4Q/GiGekD8IqPTQFi9UKZrEfPZvnGPwHjgkhcKPlhUXjjz07RWNZLrSa94BGdQ5o/2NbQbIgorZotEi2Z0uP5qr2d51lzcPYpnA7+UWNiDaFWBKMcRgJE/j3lz4uBnKXri4VbfCm2kCD3A==;l9m6/l94NdNgkXp4mNdDlw=="
+secured: "S0uVrhaCJ8f3t2RziBIiLkVp5YtwCQ+0yRyZ+5IfssfMYW4qOEuT35krzRifTC6DVHM62HbChK6f2f82nr7bQo658zs3aSjbZPrN3S8FOH9iI+WLyDU866UeWQChna84lofAZ3GZ/QSSaZq4pmQhOmtKLN61zi53AOD5Qkumve8FfbfHdvdOoe6K9XjCCvZTTz2JhFVm0M6IU33Y+6VudQy6VY71hNy4YbT5n2v3EvsPhiHS55vIwejFEQE43lfJWpFpjRIG6THINh6BWzfmxIPCRJDaMc4qbFbihPu0q+jXwC1+7MXBEyE/C9Ch3UOe0Ue920Z4W7hBocC3ppecwJTxzbLj7pdKXZUVYrihuPIGZuKIDAVCoutEtJy4gidBQ7qote29W6fYiTlesGC5RtP8928BQJeDNsHwlZ5IRK4+7b19Yf3zeEg9omLq8YbAbAj1vKKjP8pGkDmRD8/pD1aAGb1HLjZOcrr8cW8PcLvAFi5bG+8prWT6i0QvW/UR+doQpOa9ovzxO8fnK3IpmQ==;cKrJjE1pY8RaxoxP2Gj4bw=="
 ---
 

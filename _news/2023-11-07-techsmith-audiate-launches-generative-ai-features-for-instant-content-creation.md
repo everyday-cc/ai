@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Xbox secures generative AI to create game stories, quests, and dialog"
-    excerpt: "Microsoft's cutting-edge cloud-based AI solutions including Azure OpenAI Service, Microsoft Research's technical insights into the future of play, and Team Xbox's strengths in revolutionizing accessible and responsible creator tools for all developers."
-    publishedDateTime: 2023-11-06T20:24:00Z
-    webUrl: "https://www.tweaktown.com/news/94233/xbox-secures-generative-ai-to-create-game-stories-quests-and-dialog/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 39
-    images:
-      - url: "https://static.tweaktown.com/news/9/4/94233_1_xbox-to-use-generative-ai-create-game-stories-quests-and-dialog_full.png"
-        width: 1500
-        height: 843
-        isCached: true
   - title: "Rubrik introduces Ruby, the generative AI companion to accelerate cyber detection, recovery, and resilience"
     excerpt: "The company will leverage Microsoft’s Azure OpenAI, in combination with its machine learning-driven Data Threat Engine, to help discover, investigate, remediate, and report on cyber incidents. The company’s newest AI companion, Ruby, extends Rubrik ..."
     publishedDateTime: 2023-11-08T12:40:00Z

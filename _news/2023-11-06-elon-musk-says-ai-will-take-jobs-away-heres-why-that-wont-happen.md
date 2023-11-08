@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musk
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -107,15 +107,6 @@ related:
         width: 1200
         height: 899
         isCached: true
-  - title: "Elon Musk Predicts the End of All Jobs—Google AI Exec Disagrees"
-    excerpt: "DeepMind co-founder Mustafa Suleyman contested Musk's assertions at the AI Safety Summit, saying it's too early to say that AI will replace human workers."
-    publishedDateTime: 2023-11-04T00:55:00Z
-    webUrl: "https://decrypt.co/204398/elon-musk-predicts-the-end-of-all-jobs-google-ai-exec-disagrees"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 19
   - title: "xAI, Elon Musk's AI Startup, to Release First AI Model to Select Group"
     excerpt: "The team behind xAI, which launched in July, comes from Google's DeepMind, the Windows parent, and other top AI research firms."
     publishedDateTime: 2023-11-04T10:46:00Z

@@ -43,6 +43,22 @@ related:
         width: 1050
         height: 788
         isCached: true
+  - title: "Who will write the rules for AI? How nations are racing to regulate artificial intelligence"
+    excerpt: "Artificial intelligence (AI) is a label that can cover a huge range of activities related to machines undertaking tasks with or without human intervention. Our understanding of AI technologies is largely shaped by where we encounter them,"
+    publishedDateTime: 2023-11-08T18:03:00Z
+    webUrl: "https://techxplore.com/news/2023-11-ai-nations-artificial-intelligence.html"
+    ampWebUrl: "https://techxplore.com/news/2023-11-ai-nations-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-ai-nations-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 62
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-rules.jpg"
+        width: 2880
+        height: 1921
+        isCached: true
   - title: "Global leaders scramble to regulate the future of AI"
     excerpt: "AI is now an issue of global import. Why the next few years will be crucial to balancing its promise with ethical and societal safeguards."
     publishedDateTime: 2023-11-05T20:47:00Z
