@@ -61,15 +61,6 @@ related:
         width: 1349
         height: 900
         isCached: true
-  - title: "Meet 12 generative AI startups that are primed to transform advertising and marketing"
-    excerpt: "These 12 innovative adtech startups are using generative AI to transform marketing."
-    publishedDateTime: 2023-11-03T20:23:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-adtech-startups-2023-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
   - title: "How to Leverage Generative Artificial Intelligence in Customer Service"
     excerpt: "One way for businesses to leverage generative AI to improve the customer experience is to upgrade their call center technology with AI-driven solutions. This includes implementing intelligent bots to directly handle certain aspects of the customer experience while enhancing others."
     publishedDateTime: 2023-11-06T22:30:00Z

@@ -2,19 +2,19 @@
 category: news
 title: "Lilt Supports AI-Powered Translated Forecasts Offered By NOAA's National Weather Service"
 excerpt: "the leading AI solution for enterprise translation, is proud to provide the AI-powered technology behind a new experimental language translation website by NOAA and the National Weather Service."
-publishedDateTime: 2023-10-27T19:23:00Z
-originalUrl: "https://www.news-journal.com/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/article_ad8a03e8-30b5-51d8-aa3f-881c59d5b3a3.html"
-webUrl: "https://www.news-journal.com/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/article_ad8a03e8-30b5-51d8-aa3f-881c59d5b3a3.html"
+publishedDateTime: 2023-10-28T03:19:00Z
+originalUrl: "https://fox40.com/business/press-releases/cision/20231027SF50824/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/"
+webUrl: "https://fox40.com/business/press-releases/cision/20231027SF50824/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/"
 type: article
 
 provider:
-  name: Longview News-Journal
-  domain: news-journal.com
+  name: FOX40 News
+  domain: fox40.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "9y0qJewWuaNu3Zj+fFr28W7QfnuR8RCeq+sUJJuPfLJ3MJKZuxS0RfA4rZ3w5BvnlgLIOPWu8Mooud18oPePOKUVQPDqgp6TQo06BntE5fFLvxIbd/hmGwsSZm3KQqo9xXB1DxwHIdhkPfCTYtYWJxCQyPB71tFleuwWDJKdLQ7rjnO3XSte4WcD6bF7h8zmT9V3LiCfck/g8hWBLauholDucm6FWh0KDoztJBqpTqmkd0mOlAhBEFCHLiPtIONaCIF4OERHLx1hQf3Or347zEz/+L52TGu4WPZDTWzNIwt4sFJlvB8zHOhJ5F5CqVvawbL50SDop7jRddk56wlAyVXXk9ffJLtBBc/KrIPMFpo=;tOlR3LNnpnFZ85CRY0VtCA=="
+secured: "y9RJ46iRVMmQX0RDQxOS8LZu4WSWERwcSmRdgPorwdozi8/u5uQ92/4Mqj4gPACmgRynbmgLT70XgYvwDbvtkWi3igN7sRmYCbnsAfVbkPEQ+L3FY9252lEuKBdKF0kpRvPxIpk3fzsp/LjAhksaokzLSlxfd/bzARVRFUavlEXNmO8JZtctMfaZZNp03qns/fHS0JDSRZQDUYTdNlWBwG4U5HjVKuCnJFzKwFSYVCUcSBCldK5Fc867NgZ/oPucQ+5YLxhALdtSPv8qWYtX5WFU5RXJUiXbvMvGkFJzHwrY12iZTtODXU5kaPnGZh7UVtsTcrTIr9711ERxltoKGth0iB8A/LEICz57ARwuszg=;Ks2GAb/Ot/euzgEo6/y03g=="
 ---
 

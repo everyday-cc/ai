@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/nov/06/balancing-the-ris
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/11/The-Rise-of-AI-Artificial-Intelligence-in-2024-Technology-Trends.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Sense of shared humanity and dialogue will be the essential in the age of Artificial Intelligence"
+    excerpt: "He was previously Dean, International and Corporate Affairs and Dean, School of Computer Science and Engineering, Bennett University and Director, NVIDIA-BU Research Center on Artificial Intelligence. He has also served as Head, Computer Science at Thapar ..."
+    publishedDateTime: 2023-11-08T15:40:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 46
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg"
+        width: 414
+        height: 364
         isCached: true
   - title: "Global trends shaping the AI world"
     excerpt: "While Waymo driverless cars continue to operate in the state ... These are just a few of the many issues being raised. Further, the artificial intelligence (AI) algorithms of autonomous vehicles should be able to explain the “why” for their specific ..."

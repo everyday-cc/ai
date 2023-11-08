@@ -42,6 +42,15 @@ related:
         width: 1334
         height: 900
         isCached: true
+  - title: "iMerit Introduces Defect Detection Solution for Advanced Manufacturing and Warehouse Robotics AI Applications"
+    excerpt: "Nov. 8, 2023 /PRNewswire/ -- iMerit, a leading artificial intelligence (AI) data solutions company, today introduced a new defect detection solution to accelerate AI development for advanced manufacturing and warehouse robotics applications. This new ..."
+    publishedDateTime: 2023-11-08T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/imerit-introduces-defect-detection-solution-for-advanced-manufacturing-and-warehouse-robotics-ai-applications-1032794037"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
   - title: "Conversational AI Bot: Revolutionizing Customer Interactions"
     excerpt: "In today’s fast-paced business world, customer interactions have evolved significantly. Gone are the days when customers had to navigate through a maze of options, pressing buttons on their phones or waiting for email responses."
     publishedDateTime: 2023-11-04T18:45:00Z

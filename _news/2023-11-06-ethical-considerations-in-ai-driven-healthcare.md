@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "AI in Healthcare: Transforming the Industry in 2024"
+    excerpt: "Introduction Artificial Intelligence (AI) has been making waves across various industries, and healthcare is no exception. In 2024, AI is poised to revolutionize the healthcare industry in ways we could have never imagined."
+    publishedDateTime: 2023-11-08T14:23:00Z
+    webUrl: "https://techbullion.com/ai-in-healthcare-transforming-the-industry-in-2024/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-in-Healthcare-Transforming-the-Industry-in-2024-1.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Generative AI in Healthcare: Transforming Patient Care by 2024"
     excerpt: "Introduction In recent years, the field of healthcare has undergone a remarkable transformation, primarily due to the integration of Generative Artificial Intelligence (AI). This cutting-edge technology has the potential to reshape patient care,"
     publishedDateTime: 2023-11-08T09:55:00Z
@@ -109,6 +123,20 @@ related:
     quality: 35
     images:
       - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.12022_1330.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Competition considerations featured in President Biden’s Executive Order on Artificial Intelligence"
+    excerpt: "On October 30, 2023, President Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. The Order, which recognizes AI’s extraordinary potential but also the substantial risks requiring ..."
+    publishedDateTime: 2023-11-08T14:59:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/competition-considerations-featured-in-1678317/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 23
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15723_926.jpg"
         width: 1200
         height: 900
         isCached: true

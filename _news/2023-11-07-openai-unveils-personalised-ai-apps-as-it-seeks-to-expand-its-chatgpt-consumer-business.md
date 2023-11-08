@@ -202,15 +202,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "AI Chatbot 'Murrow' Teaches Journalism and Critical Thinking"
-    excerpt: "A free AI-powered tool from the Journalistic Learning Initiative and Playlab Education Inc. is designed to instill in middle and high school students high standards for interviewing, fact-checking and reporting."
-    publishedDateTime: 2023-11-03T22:51:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/ai-chatbot-murrow-teaches-journalism-and-critical-thinking"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
   - title: "New Neural-Network-Based AI Learns Better Than ChatGPT"
     excerpt: "To simplify, this neural technology called Meta-learning for Compositionality (MLC) mimics the way humans learn and use new words in different situations through a process called systematic generalization. In contrast to other AI systems, the neural network integrates newly learned words into existing vocabulary."
     publishedDateTime: 2023-11-05T04:00:00Z
@@ -247,6 +238,15 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 16
+  - title: "Forget ChatGPT — Extractive AI Is the Real Game-Changer for Teachers, Students"
+    excerpt: "Dougal: Artificial intelligence is here to stay. Schools can embrace it and seize the opportunities it offers or try to resist and become obsolete."
+    publishedDateTime: 2023-11-08T14:34:00Z
+    webUrl: "https://www.the74million.org/article/forget-chatgpt-extractive-ai-is-the-real-game-changer-for-teachers-students/"
+    type: article
+    provider:
+      name: The 74
+      domain: the74million.org
+    quality: 13
   - title: "Nearly 400 crypto tokens based on Elon Musk's new X (Twitter) AI chatbot hit the market"
     excerpt: "Opportunistic players in the crypto space have not hesitated to capitalize on the hype around the term “Grok” since Musk’s announcement."
     publishedDateTime: 2023-11-06T21:47:00Z

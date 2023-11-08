@@ -23,20 +23,84 @@ topics:
   - AI
 
 related:
-  - title: "Johnny Cash's Taylor Swift Cover Predicts the Boring Future of AI Music"
-    excerpt: "With covers of “Blank Space” and Aqua's “Barbie Girl” going viral, Johnny Cash is suddenly the voice of AI. The choice is telling."
-    publishedDateTime: 2023-11-06T15:27:00Z
-    webUrl: "https://www.wired.com/story/johnny-cash-artificial-intelligence-taylor-swift-barbie-girl-covers-music-future/"
+  - title: "EX Recession And AI Revolution Will Reshape The Future Of Work In 2024"
+    excerpt: "Generative AI lit a fire of innovation under a previously fallow artificial intelligence market. In 2024, employees and employers both stand to benefit: Employees will be empowered with new generative AI-based tools,"
+    publishedDateTime: 2023-11-08T14:59:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://media.wired.com/photos/654590bb5587aefcc1bef1cc/191:100/w_1280,c_limit/Johnny-Cash-AI-Covers-Culture-84879567.jpg"
-        width: 1280
-        height: 670
+      - url: "https://imageio.forbes.com/specials-images/imageserve/654baec230d1aa1a1f10f5af/0x0.png?format=png&height=900&width=1600&fit=bounds"
+        width: 1050
+        height: 788
         isCached: true
+  - title: "3 out of 4 business professionals believe AI and HR function will coexist"
+    excerpt: "It remains a prominent concern for HR professionals navigating this transformative landscape. Amid the predominant ethical concerns about AI in HR, 3 out of 4 business professionals believe AI and the HR function will coexist."
+    publishedDateTime: 2023-11-08T16:04:00Z
+    webUrl: "https://www.thehansindia.com/hans/education-careers/3-out-of-4-business-professionals-believe-ai-and-hr-function-will-coexist-836287"
+    ampWebUrl: "https://www.thehansindia.com/amp/hans/education-careers/3-out-of-4-business-professionals-believe-ai-and-hr-function-will-coexist-836287"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/education-careers/3-out-of-4-business-professionals-believe-ai-and-hr-function-will-coexist-836287"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 58
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/11/08/1396944-hr.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Global leaders scramble to regulate the future of AI"
+    excerpt: "AI is now an issue of global import. Why the next few years will be crucial to balancing its promise with ethical and societal safeguards."
+    publishedDateTime: 2023-11-05T20:47:00Z
+    webUrl: "https://venturebeat.com/ai/global-leaders-scramble-to-regulate-the-future-of-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "Who Will Write The Rules For AI? How Nations Are Racing To Regulate Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) is a label that can cover a huge range of activities related to machines undertaking tasks with or without human interv"
+    publishedDateTime: 2023-11-08T05:23:00Z
+    webUrl: "https://menafn.com/1107390486/Who-Will-Write-The-Rules-For-AI-How-Nations-Are-Racing-To-Regulate-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 44
+    images:
+      - url: "https://menafn.com/updates/pr/2023-11/08/TC_ef96fimage_story.jpg"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "The Future of Augmented Reality (AR) in 2024: Applications and Innovations"
+    excerpt: "The world of technology is constantly evolving, and one of the most exciting developments on the horizon is the future of Augmented Reality (AR) in 2024. AR has come a long way since its inception, and it’s poised to revolutionize various industries with its innovative applications."
+    publishedDateTime: 2023-11-06T11:54:00Z
+    webUrl: "https://techbullion.com/the-future-of-augmented-reality-ar-in-2024-applications-and-innovations/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 22
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Untitled-design-23.png"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "AI and the Erosion of Human Cognition"
+    excerpt: "The intersection of AI and human cognition is as much about philosophy and ethics as it is about technology. If history is any guide, every significant technological advancement brings with it societal trepidation. The printing press, electricity ..."
+    publishedDateTime: 2023-11-05T21:41:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202311/ai-and-the-erosion-of-human-cognition"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 19
 
 secured: "7tferTskXSlhFybN3T1U8/i6f5mqFsA/vI4HWC+1vlZOwpdimZEbTRQkrBH/HWu5Z1WkHJzeurGgYZTQVsmVteXXli+JV61ai6bozeLQUJMehpx4UFBkUYVboQyiboRyyb3PNKp6hi2hqIofP2Qqb30N1v5Lp4fr38r2B1kKzkLhdrfGv1E3oOydd8Qdma5G7EcHKwOU/C+ZM1B/ogmxznWy0RvVsYLrMg0AUlTSk2ylO8IESxmHWevGuSDc3DFssPFimUs8Vck8iyZ4cZ9weKzhED3mxBlq+d5O+ea80qLXTMOyLT6nBZYY3mYlOy+imeoPyPU8X2/mqi0B+tmY1voGXLNGkP3ooev1R+H/o47/Fta16A+LQ7KRXunwWoscXqArBQ1oxSxNpCpg7GUib3LON5YYImwtw/KbMZMRWkk4OG/t7djR58MtW6GVj0SssMkIQlSXFnoRPELyK6xXVEOT58C88dj5vR4+Ayak/2vQV5ukgHhCb57bqxBYzbxXHtI82FZObgrLSpQXfZlxIA==;HsX4O3EYfVys0KXSYfNDiw=="
 ---

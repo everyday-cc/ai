@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/johnny-cash-artificial-intelligence-ta
 webUrl: "https://www.wired.com/story/johnny-cash-artificial-intelligence-taylor-swift-barbie-girl-covers-music-future/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Wired
@@ -26,17 +26,6 @@ images:
     width: 1280
     height: 670
     isCached: true
-
-related:
-  - title: "My North Star for the Future of AI"
-    excerpt: "I’d seen the consequences of that over and over: brilliant technologists who could build just about anything but who stared blankly when the question of the ethics of their work was broached. The time has come to reevaluate the way AI is taught at every ..."
-    publishedDateTime: 2023-11-07T13:24:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/11/ai-ethics-academia/675913/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 49
 
 secured: "hd/vx5W2CZmwyKZZES16J1JBKQIYgqh9hDQKWGIktgfcd7B/v8SLNBrm+rvW+VyGM+kz1vd3290h3jYhwpTtt/1FMYRgE3CJ8StymhAYrD68RzycIlvO4wZRhrQaIT4dZFDTxgLAfecxMBY8tSULpkxKdPd+vFDKMVP5urJMZ337sXwpTx5w5cr7AyZdEXZqSfqCT+b0de6xFhPiNPnAOOOcwLkqYD9wVN+20FTo6esYjSnHfKeInSGimBfh9axwIoI9gRqQ6RkZXYd2QuGpaUGuQijmTMKgaPANovBeiGoGHyuzeG33WoacLBtVfa2gJ0RJWYpmkEDk7ZdiGw2s8B/Q1aeSeBE3nn+Qlrtet4c=;ua+JBeHi5jbD/h+JRFfx0Q=="
 ---

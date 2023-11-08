@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Nuvilab Earns Top Honors in Korea's AI Startup 100, Transforming Food Industry with AI Food Scanner 3.0"
-excerpt: "the South Korean AI pioneer in food digitalization locked in its spot for Korea AI Startup 100. The Korea AI Startup 100 recognizes aspiring startups in South Korea to foster the healthy growth of the next-generation AI industry ecosystem. Strictly ..."
-publishedDateTime: 2023-11-08T12:41:00Z
-originalUrl: "https://www.koreaherald.com/view.php?ud=20231108000807"
-webUrl: "https://www.koreaherald.com/view.php?ud=20231108000807"
+excerpt: "SEOUL, South Korea, Nov. 8, 2023 /PRNewswire/ -- Nuvilab, the South Korean AI pioneer in food digitalization locked in its spot for Korea AI Startup 100. The Korea AI Startup 100 recognizes aspiring startups in South Korea to foster the healthy growth of the next-generation AI industry ecosystem."
+publishedDateTime: 2023-11-08T07:03:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9913484.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9913484.htm"
 type: article
-quality: 21
-heat: 21
+quality: 1
+heat: 1
 published: false
 
 provider:
-  name: The Korea Herald
-  domain: koreaherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-images:
-  - url: "https://mma.prnasia.com/media2/2107287/Nuvilab__Logo_Logo.jpg?p=medium600&koreaherald_list"
-    width: 600
-    height: 600
-    isCached: true
-
-secured: "sYeo5Q2S2oxuR2PTJ5W52QziSpDBYEf90Yu0xXHV68gY2Z95F1oIzK4q8vbXjkZEIBpE6l0QHX7aB2KfsnaQiSVsFW230/B4PzZgs8fWrfxkW6ltEn19g9BwmBy/3niLQwaOOGyWQ7knCJO6LcmtRCwaRZHfGAiC9IMWMgf88LQ0d+2AIQhjq0LdfR9K+m+Ooannkmyu84JP23yrJHVTcxutpgDgVcBPjZGhVhODbv+R+OU/fbH5l6byfEWm4t1y6MwB7i2R6GJW4aqm3UNc3fP+xZUJJJYmzd3UmsETsbw97cY16p8Hc3nwA1G9X8QSc5IZHVgsCATTuvYOvMxk8dOeTlPfQBs8YDn79xHLen4=;QaGeI0frJ8F2drDhcio/qg=="
+secured: "EbTqWus0kDhybyHWvbE76waBakNnSkmwxhvcDSljt8jHEdRpOic81sH+1XbiTk3cvW95xiOMvwAVGEBrhDm7O7s5oU8fBcbOen/veU7zCBYii43pUsyZ2KiberWQBqG1lEzGi7X3hN/ezFBEM4CACerdB/RQzWeYmq7XVls9faLgx9xfZ53AB69ZukurY+luLn95L8nlXNcz6/eeFuLsollMyLOuwYf+SM1UoeYKxyjCq/E4FN5UKEQet5/m9dW+eGBgQb2Js36rHvsaV3qPDub2E+D0UQq9RzG+9NyvoFJQCGW6dtHcEeTazDrmZEOASvZJ0jA7GYiOHZxB563MEJpAAbbMnl9sbo8qzIJeFRb29MLDqydBBEMOG2mHLNg1d6QON4DYZLQzQg9mX2KTG3M/m/67OsdwthR3GMq4sFbivrTvxvVlwwKf667I9x9cYKjmCV7WbxO+weX5aS1aUeRe7Ar4C/iGc8auVL/1SDyFSEfAabmM0hiU5bBCm9OXYTtOPb5O0lmsN1jxhm2ScA==;/NnypEWmSTn3lnp4YNDplw=="
 ---
 

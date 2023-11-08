@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-and-microsoft-work-together-to-bring-
 webUrl: "https://www.ibm.com/blog/ibm-and-microsoft-work-together-to-bring-maximo-application-suite-onto-azure/"
 type: article
 quality: 131
-heat: 211
+heat: 231
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "Microsoft is renting GPU power from Oracle to push its AI work forward"
+    excerpt: "Microsoft and Oracle have entered a new multi-year partnership that will not only see cloud and AI companies face a greater threat, but also search. The agreement will see Microsoft use its own Azure AI infrastructure along with Oracle Cloud Infrastructure (OCI) AI to make its search engine even more powerful, and Google may want to start worrying."
+    publishedDateTime: 2023-11-08T14:20:00Z
+    webUrl: "https://www.techradar.com/pro/microsoft-is-renting-gpu-power-from-oracle-to-push-its-ai-work-forward"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 81
   - title: "Grok AIOps Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Grok AIOps to harness the scalability, reliability, and agility of Azure to drive"
     publishedDateTime: 2023-11-07T22:07:00Z
@@ -128,6 +137,15 @@ related:
       name: Skift
       domain: skift.com
     quality: 34
+  - title: "How AI is helping to shrink waiting times for NHS cancer patients – Microsoft"
+    excerpt: "The National Health Service at Addenbrooke’s Hospital in Cambridge is now able to plan radiotherapy treatments faster than in the past, thanks to AI advances that are cutting wait times. As the NHS approaches its 75 th birthday,"
+    publishedDateTime: 2023-11-08T16:02:00Z
+    webUrl: "https://www.inferse.com/788451/how-ai-is-helping-to-shrink-waiting-times-for-nhs-cancer-patients-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 31
 
 secured: "XXsJ+1P3pGnmzR310WdHBTefPr9Pc2Ht++5ANwNsahuivovOiXFe7r5uByg1Z85rTM3/xMUgyKHjlni4Jz5pbGRuJVO/fjq8kZpxQPMsJUpMPvS0PBUMsy2H9eF/P28UZ9Od2gvxwEN7k26A2xQY/VYU4Esi7kuc/HI+uDwJkuTdgb5cuZQOXTwW7GOkekKqS44QdH3O8F1/BaV6sLVxj3WT4cIuGp6jjsCWqTlJr2caL9wiBkCWNlHuVPUfibdan6b6q1+urfm0nJmjTGrzUig9x3RX4LCIaclbz/eLREqPAlNtXd0CtmAuGy781AFnr91vop5QOOyzKglXO+roK1L9YNBgBTasTUOR02BJPjs=;rWp6sEQmWpjwCOVrxWcjIQ=="
 ---

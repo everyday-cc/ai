@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/five-quest
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "iMerit Introduces Defect Detection Solution for Advanced Manufacturing and Warehouse Robotics AI Applications"
+    excerpt: "Nov. 8, 2023 /PRNewswire/ -- iMerit, a leading artificial intelligence (AI) data solutions company, today introduced a new defect detection solution to accelerate AI development for advanced manufacturing and warehouse robotics applications. This new ..."
+    publishedDateTime: 2023-11-08T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/imerit-introduces-defect-detection-solution-for-advanced-manufacturing-and-warehouse-robotics-ai-applications-1032794037"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
   - title: "Does an AI tool help boost adoptions? Key takeaways from an AP Investigation"
     excerpt: "Former social worker Thea Ramirez has developed an artificial intelligence-powered tool that she says helps social service agencies find the best adoptive parents for some of the nation’s most vulnera"
     publishedDateTime: 2023-11-06T05:17:00Z

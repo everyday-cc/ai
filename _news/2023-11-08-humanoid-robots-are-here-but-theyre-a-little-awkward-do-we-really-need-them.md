@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wral.com/amp/21134051/"
 cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21134051/"
 type: article
 quality: 55
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
         width: 670
         height: 352
         isCached: true
-  - title: "AI Needs Rules, but Who Will Get to Make Them?"
-    excerpt: "Skirmishes at the U.K.’s AI Safety Summit expose tensions over how to regulate AI technology About 150 government and industry leaders from around the world, including Vice President Kamala Harris and billionaire Elon Musk,"
-    publishedDateTime: 2023-11-03T20:59:00Z
-    webUrl: "https://www.scientificamerican.com/article/who-actually-gets-to-make-the-rules-about-ai/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 19
 
 secured: "o2iRPuXZ/ENGhMb41NItT6z87wLRAOCFKg6gGwKJ8kW/7MU6ioZIPKs9ayutwYac4G8BA6a6HpjnN9lEBNe2LYcPoHiLZzL9kn7wb7X2L/fGqGGi3yXqNf+17tcSWnCiHS4mJ3yPv6LoC+SrXqxFDZfAoiY9QpZiTs39vuSrWfVubx6lO6PzvLuK7SkV++TwrM0UNJJZwVE3x2PAtVk3Jw6wwKi7hs0SgkC/pFxFZbnHZZYnMIlL6Cdz/OIKoW65mt8uSAWX1fDUL5lFMiYlm0LkiSLyd+AsdDiqmTVHLAIFM3/JnUCmHbIwcXBJhZJj4S0v+cjFtvRVPej8xHVw/DblDUabgLOyr5+cxWavr3o=;lS3RPrP812zIzILCLvwfOg=="
 ---

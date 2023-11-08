@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-08-19-how-businesses-can-ensure-a-prolonged-ai-summer.md",
-      "title": "How businesses can ensure a prolonged AI summer",
-      "excerpt": "As gen AI evolves at a breakneck pace, the specter of an AI winter looms, but so too does the promise of transformative breakthroughs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-businesses-can-ensure-a-prolonged-ai-summer/",
-      "originalUrl": "https://venturebeat.com/ai/how-businesses-can-ensure-a-prolonged-ai-summer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_graph_showing_positive_growth_with_a_summer_scene_beh_1c5f62aa-2ba9-4999-8cd2-2deed5df7024.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-19T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-19-cisco-ceo-says-ai-is-already-becoming-a-huge-new-market-after-it-missed-the-initial-cloud-computing-boom.md",
       "title": "Cisco CEO says AI is already becoming a huge new market after it 'missed' the initial cloud computing boom",
       "excerpt": "Cisco CEO says its demonstrating growing relevancy in AI infrastructure market after it \"missed\" the first cloud boom.",
@@ -1447,6 +1395,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-the-download-how-ai-could-change-politics-and-lifting-the-lid-on-facebook.md",
+      "title": "The Download: how AI could change politics, and lifting the lid on Facebook",
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/07/28/1076839/the-download-how-ai-could-change-politics-and-lifting-the-lid-on-facebook/",
+      "originalUrl": "https://www.technologyreview.com/2023/07/28/1076839/the-download-how-ai-could-change-politics-and-lifting-the-lid-on-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

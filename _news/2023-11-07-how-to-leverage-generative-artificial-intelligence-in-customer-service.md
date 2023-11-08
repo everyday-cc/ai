@@ -72,15 +72,6 @@ related:
         width: 1349
         height: 900
         isCached: true
-  - title: "Meet 12 generative AI startups that are primed to transform advertising and marketing"
-    excerpt: "These 12 innovative adtech startups are using generative AI to transform marketing."
-    publishedDateTime: 2023-11-03T20:23:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-adtech-startups-2023-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
   - title: "Six champions of generative AI innovation"
     excerpt: "Damien Riehl has helped to develop innovative AI-driven technology aimed at three disparate professional groups, in quick succession: musicians; intellectual property litigants; and lawyers."
     publishedDateTime: 2023-11-08T02:01:00Z

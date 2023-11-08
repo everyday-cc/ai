@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 797
         isCached: true
+  - title: "Microsoft plans to offer startups free access to Azure AI GPU servers to run LLMs"
+    excerpt: "This week, Microsoft announced plans to offer startups access to its Azure AI services, which include being able to use its GPU virtual machine clusters. Startups can access this hardware in order to train and run large language models (LLMs) for their ..."
+    publishedDateTime: 2023-11-08T14:48:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-plans-to-offer-startups-free-access-to-azure-ai-gpu-servers-to-run-llms/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 91
   - title: "Microsoft may introduce AI chip similar to Nvidia GPU – HT Tech"
     excerpt: "Copyright © HT Media Limited All rights reserved. Microsoft has been investing in artificial intelligence to bring out new innovations. During its surface"
     publishedDateTime: 2023-11-07T20:22:00Z
@@ -145,6 +154,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 28
+  - title: "Vandis Achieves Microsoft Solutions Partner Designation for Infrastructure and is a Member of the Microsoft AI Cloud Partner Program"
+    excerpt: "Vandis, Inc, today announced it has earned the Microsoft Solutions Partner designation for Infrastructure and is a member of the Microsoft AI Cloud Partner Program. The new program and designations replace the legacy Microsoft Partner Network program and its gold and silver competencies to help customers identify qualified partners with the technical capabilities and expertise they need."
+    publishedDateTime: 2023-11-08T15:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9914126.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
   - title: "From Star Wars to Starfield, voice actors hit out at Microsoft's AI decision: \"If you want to start a voice-acting career, don't bother\""
     excerpt: "Microsoft has introduced its latest AI efforts which are capable of generating character dialogue, and it's got voice actors fearing for the future of the industry."
     publishedDateTime: 2023-11-07T13:01:00Z

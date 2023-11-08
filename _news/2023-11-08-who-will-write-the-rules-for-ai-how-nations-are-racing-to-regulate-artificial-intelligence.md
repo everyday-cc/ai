@@ -25,22 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "AI regulations good if they’re reasonable and risk-based, says SAP CTO"
-    excerpt: "Mueller also spoke about how regulations can be good for AI, and detailed SAP’s work behind building its own LLM for businesses"
-    publishedDateTime: 2023-11-07T03:44:00Z
-    webUrl: "https://www.livemint.com/companies/people/ai-regulations-good-if-they-re-reasonable-and-risk-based-says-sap-cto-11699286423215.html"
-    ampWebUrl: "https://www.livemint.com/companies/people/ai-regulations-good-if-they-re-reasonable-and-risk-based-says-sap-cto/amp-11699286423215.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/people/ai-regulations-good-if-they-re-reasonable-and-risk-based-says-sap-cto/amp-11699286423215.html"
+  - title: "EX Recession And AI Revolution Will Reshape The Future Of Work In 2024"
+    excerpt: "Generative AI lit a fire of innovation under a previously fallow artificial intelligence market. In 2024, employees and employers both stand to benefit: Employees will be empowered with new generative AI-based tools,"
+    publishedDateTime: 2023-11-08T14:59:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/11/06/1600x900/Juergen_Mueller_1699286913803_1699286924488.jpg"
-        width: 1600
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/654baec230d1aa1a1f10f5af/0x0.png?format=png&height=900&width=1600&fit=bounds"
+        width: 1050
+        height: 788
         isCached: true
+  - title: "3 out of 4 business professionals believe AI and HR function will coexist"
+    excerpt: "It remains a prominent concern for HR professionals navigating this transformative landscape. Amid the predominant ethical concerns about AI in HR, 3 out of 4 business professionals believe AI and the HR function will coexist."
+    publishedDateTime: 2023-11-08T16:04:00Z
+    webUrl: "https://www.thehansindia.com/hans/education-careers/3-out-of-4-business-professionals-believe-ai-and-hr-function-will-coexist-836287"
+    ampWebUrl: "https://www.thehansindia.com/amp/hans/education-careers/3-out-of-4-business-professionals-believe-ai-and-hr-function-will-coexist-836287"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/education-careers/3-out-of-4-business-professionals-believe-ai-and-hr-function-will-coexist-836287"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 58
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/11/08/1396944-hr.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Global leaders scramble to regulate the future of AI"
+    excerpt: "AI is now an issue of global import. Why the next few years will be crucial to balancing its promise with ethical and societal safeguards."
+    publishedDateTime: 2023-11-05T20:47:00Z
+    webUrl: "https://venturebeat.com/ai/global-leaders-scramble-to-regulate-the-future-of-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "My North Star for the Future of AI"
+    excerpt: "I’d seen the consequences of that over and over: brilliant technologists who could build just about anything but who stared blankly when the question of the ethics of their work was broached. The time has come to reevaluate the way AI is taught at every ..."
+    publishedDateTime: 2023-11-07T13:24:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/11/ai-ethics-academia/675913/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 49
+  - title: "The Future of Augmented Reality (AR) in 2024: Applications and Innovations"
+    excerpt: "The world of technology is constantly evolving, and one of the most exciting developments on the horizon is the future of Augmented Reality (AR) in 2024. AR has come a long way since its inception, and it’s poised to revolutionize various industries with its innovative applications."
+    publishedDateTime: 2023-11-06T11:54:00Z
+    webUrl: "https://techbullion.com/the-future-of-augmented-reality-ar-in-2024-applications-and-innovations/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 22
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Untitled-design-23.png"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "AI and the Erosion of Human Cognition"
+    excerpt: "The intersection of AI and human cognition is as much about philosophy and ethics as it is about technology. If history is any guide, every significant technological advancement brings with it societal trepidation. The printing press, electricity ..."
+    publishedDateTime: 2023-11-05T21:41:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202311/ai-and-the-erosion-of-human-cognition"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 19
 
 secured: "8KQdCrSkGgidG2jwtFctu3aluVNQOdfK7Z1QsH6/5uDDKkCIO/ytN7g8UYQtIKk7jTKSSbepgT75MJmMSK+qxwcGrVPICvpPoTGwPVwHVGXSLDzZ8bXO0TUrUXKmbDGgXIZ4URThH8/LzSDNuSiGjXWFlyub3VEwn1hoh9hzVvMvsi5NA0avn2uWU93U+EVwDad1LHQOU1IEmFP6qeJ1noTZaU2n18FOZfqNBR8ncohQ+lFTz4pOIYlQ/L09k2gSV5CerJ17fA2k8aF9oFjbxAIzkJXQUagZaGBCYgwq1T0fAsKvEdB5NidRu/a2shYuva5j47j1Ke76CIybh/dKT6pmD/9JTSuEN8EhaLRDCARUU+PXyGvGqra0ybTLsuH/x13dvxWeAyIYmYsMjNT82wkZx5ul6bxa0FYJu6Z6dt6LrH500knpgodiSfYnY7uLG6IZcnqbxJdOPmPBE4SdFAvkVL7zEfHWlv6r4sC/9l7tXAr2y6HSn3ciy6P1ZESATDFSBWlGQd43cNkKYm3A5w==;FboJK7/xy/x3veR7HdshOA=="
 ---

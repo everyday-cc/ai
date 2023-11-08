@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Watch: Artificial intelligence and the bias against dark skin"
-    excerpt: "It puts us in danger of being falsely accused,” Damon Hewitt, head of the Lawyers' Committee for Civil Rights, said of bias in AI technology."
-    publishedDateTime: 2023-11-03T20:41:00Z
-    webUrl: "https://thegrio.com/2023/11/03/watch-artificial-intelligence-and-the-bias-against-dark-skin/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 32
 
 secured: "+TC1zc0nIRE2FX7SwT1Ww+F6uHGx7SZY5dKXK+HBaXtpOsK9cBhXbmnTKSonU7kps2GxWiBcd8sGFHBapcIr1tok92AP1qMPQAcUo+Aj94rKO4ESWxpb78qPNjmJJJWKELhU5md9UgGwyAl2T7A2K0i0Gwo1PHuOMrWX4yuImQ0IPsyqU+8vcvz51QWpBn7r8l31biZFZvnoW1xOd4wc509g1j8pgl8KAR9ltPeLZMFczRNTYGY1dIoAgVFskqtmuivhfFQYa7H+Glke0WjoOWk+25b75ZdercwBd5G07uMzWFILQoFpL2TvNEt6tCv0NW9PlSYueROGMWHJn+gzu00hTxSP8K3kKqgSIXc5nUF7b03Zg9o1QtMaGk9Zw5R744BZSOnH7f0sl+hzCiR4lUO2R3uiBKldL3hr7PJcp90CDnfECnPux2KlILQLqjtbXppQ+QCe4RGDdTYECqHFrwestV7lsNzx8O8nkXb3ECo8bnOisGKfegpQJcVeoIjpeUN+LVLZD+z5Oe3+GOirjg==;jdxSGpNEl0B8xpwetovc3g=="
 ---

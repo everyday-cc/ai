@@ -35,6 +35,15 @@ related:
         width: 1600
         height: 662
         isCached: true
+  - title: "These Top Companies are Transforming Real Estate with the Help of AI"
+    excerpt: "Artificial intelligence (AI) is quickly transforming just about every industry, including real estate. In fact, “AI has enormous potential to reshape real estate, with near- and long-term impacts ranging from the emergence of new markets and asset"
+    publishedDateTime: 2023-11-08T14:15:00Z
+    webUrl: "https://www.baystreet.ca/articles/stockstowatch/92254/These-Top-Companies-are-Transforming-Real-Estate-with-the-Help-of-AI"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 19
 
 secured: "32I3qu4juV3u0XEuoWIt6I5rszXb/Wb6DNiGDtBeatM6uvpXiCP+xn32kGHA/iGfXEzVKvKMZPjoaj4k2Ih2HSP+d/UEJ3ywVZKARKUpZLGfyE2kYYLnjuSAE8OUWQUzVwg06Ifpyzay2zEBNu2/xHDhWp0/uNLX7N+mVCPYEWxBMBrqdU+dpj0kcJXraVU5uP0dkvu1rUldyB3PisGaAvaG8IbZ9Zwfrbpvkg9pj37oH8ii7CCWL20uok/Abz5nKTlhJdBKp2nICLxR9qsJrlvaxM/LtwWXR7xUDs8aZ5YpkaXijrJcHkoDMHGTVCaXPmjafoNHcFpeTeAW+Ml5jPNI58FCSiO91u0HUbVJ61DZj+YH7trSihiQpoebknrnbY4pZhqEIa+vH4te6lATRONzKXL0tmQ0UYfh6mn1K/TUIrvP38V13NdiKvFESuAtlzSx6r7JYGQ/6jvR4mmEN8FRmAxHpxWZ+ugxpmjfdGToeuOHJgBMz2gMkq1sxXOf3ZdhQqqmv+l1u2KsXyKRzA==;74QmhKUlvcOBtlbiTeCHyw=="
 ---

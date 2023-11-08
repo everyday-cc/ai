@@ -2,40 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-09-29-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts.md",
-      "title": "Meta's new AI chatbot trained on public Facebook and Instagram posts",
-      "excerpt": "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts?time=1695925504",
-      "originalUrl": "https://www.nasdaq.com/articles/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts?time=1695925504",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-28-meta-connect-2023-mark-zuckerberg-unveils-ai-assistant-facebook-streaming-glasses.md",
       "title": "Meta Connect 2023: Mark Zuckerberg unveils AI assistant, Facebook-streaming glasses",
       "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and ... at TECHnalysis Research. Zuckerberg also ...",
@@ -1408,6 +1374,51 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-sundar-pichai-on-googles-ai-microsofts-ai-openai-and-did-we-mention-ai.md",
+      "title": "Sundar Pichai on Google’s AI, Microsoft’s AI, OpenAI, and … Did We Mention AI?",
+      "excerpt": "The tech giant is 25 years old. In a chatbot war. On trial for antitrust. But its CEO says Google is good for 25 more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/",
+      "originalUrl": "https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI",
+        "Google AI"
       ]
     }
   ],

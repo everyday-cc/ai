@@ -89,6 +89,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "OpenAI takes ‘baby step’ toward AI agents with Assistants API"
+    excerpt: "OpenAI unveils the Assistants API, a 'baby step' towards autonomous AI agents, potentially revolutionizing our interaction with technology."
+    publishedDateTime: 2023-11-08T14:00:00Z
+    webUrl: "https://venturebeat.com/ai/openai-takes-baby-step-toward-ai-agents-with-assistants-api/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "OpenAI’s app store for ChatGPTs will be a pain for start ups"
     excerpt: "With it now becoming easier than ever to create a chatbot that serves a particular purpose, this could have severe effects on companies and start-ups that currently have AI-powered chatbots built for a specific purpose. For example, a service that might ..."
     publishedDateTime: 2023-11-07T16:07:00Z

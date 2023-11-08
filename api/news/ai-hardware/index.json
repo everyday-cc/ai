@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-08-in-2024-ai-will-boost-big-cloud-players-but-threaten-them-too.md",
+      "title": "In 2024, AI Will Boost Big Cloud Players — But Threaten Them, Too",
+      "excerpt": "The impact of AI on the cloud market is obvious enough: The hyperscalers have the scope to host GPUs that otherwise strain data center capacity and pocketbooks. Customers want the GPU processors that are critical to AI, and the three biggest cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/",
+      "originalUrl": "https://www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/654ba354f21f417307edb692/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1050,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/amp/",
+      "publishedDateTime": "2023-11-08T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-im-anxious-and-excited-about-this-bonkers-industry-changing-phone-chip.md",
       "title": "I’m anxious and excited about this bonkers, industry changing phone chip",
       "excerpt": "from everyday speed to games and the latest AI features. The thing is, it’s all rather untested out in the wild, and it could go either way. The Dimensity 9300 could be the first of a new generation of chips that transform mobile devices and a design ...",
@@ -62,7 +114,7 @@
       "originalUrl": "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 232,
+      "heat": 252,
       "tags": null,
       "images": [
         {
@@ -211,7 +263,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -306,7 +358,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -1301,40 +1353,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-stackpath-launches-gpu-accelerated-edge-compute-instances.md",
-      "title": "StackPath Launches GPU-Accelerated Edge Compute Instances",
-      "excerpt": "DALLAS, Oct. 25, 2023 /PRNewswire/ -- StackPath, the industry-leading edge computing platform, today announced the addition of NVIDIA GPU-Accelerated Instances to its Virtual Machine (VM) and Container product options.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/25/9905503.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/25/9905503.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

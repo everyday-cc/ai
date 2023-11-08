@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-09-the-synergy-between-uem-and-medical-device-risk-management.md",
+      "title": "The synergy between UEM and medical device risk management",
+      "excerpt": "Unified Endpoint Management (UEM) and medical device risk management have deep synergies. When a healthcare organization develops a risk management framework, cybersecurity is a must. \nThe post The synergy between UEM and medical device risk management appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-synergy-between-uem-and-medical-device-risk-management/",
+      "originalUrl": "https://www.ibm.com/blog/the-synergy-between-uem-and-medical-device-risk-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/r_jofe160519-00040-01.l_2x1-e1688051935864.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T00:49:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-what-enterprise-software-vendors-are-doing-with-generative-ai.md",
       "title": "What enterprise software vendors are doing with generative AI",
       "excerpt": "SAP intends to build IBM’s Watson AI engine into much of its software portfolio, beginning with the SAP Start AP, where it’ll enable users to interact with SAP applications using natural language.",
@@ -1254,48 +1305,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-09-19T06:02:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-buying-apm-was-a-good-decision-so-is-getting-rid-of-it.md",
-      "title": "Buying APM was a good decision (so is getting rid of it)",
-      "excerpt": "Today’s app environments demand an observability solution that provides real-time monitoring of containers, microservices and Kubernetes environments.\nThe post Buying APM was a good decision (so is getting rid of it) appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/buying-apm-was-a-good-decision-so-is-getting-rid-of-it/",
-      "originalUrl": "https://www.ibm.com/blog/buying-apm-was-a-good-decision-so-is-getting-rid-of-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T05:58:12-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

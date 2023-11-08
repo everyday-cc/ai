@@ -41,6 +41,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Sense of shared humanity and dialogue will be the essential in the age of Artificial Intelligence"
+    excerpt: "He was previously Dean, International and Corporate Affairs and Dean, School of Computer Science and Engineering, Bennett University and Director, NVIDIA-BU Research Center on Artificial Intelligence. He has also served as Head, Computer Science at Thapar ..."
+    publishedDateTime: 2023-11-08T15:40:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 46
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg"
+        width: 414
+        height: 364
+        isCached: true
   - title: "Global trends shaping the AI world"
     excerpt: "While Waymo driverless cars continue to operate in the state ... These are just a few of the many issues being raised. Further, the artificial intelligence (AI) algorithms of autonomous vehicles should be able to explain the “why” for their specific ..."
     publishedDateTime: 2023-11-04T11:48:00Z

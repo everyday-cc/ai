@@ -52,6 +52,15 @@ related:
         width: 770
         height: 433
         isCached: true
+  - title: "AI and Machine Learning: Powering Predictive Analytics in Applied Financial Technology"
+    excerpt: "Introduction In the dynamic world of finance, staying ahead of the curve is crucial. To make informed decisions, financial institutions and professionals rely on data-driven insights. Thanks to the rapid evolution of technology,"
+    publishedDateTime: 2023-11-08T13:36:00Z
+    webUrl: "https://techbullion.com/ai-and-machine-learning-powering-predictive-analytics-in-applied-financial-technology/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 28
 
 secured: "x7AAWsqPl8qn1uXNucGdSe3l+NMVma7f5mFSM6XNzG5O2Y5WNPyOTRKzb5bp6Gt6ZMIdtIU37qVJqIvWR2/0CkEuCPoAsIVV2P3TjNlmu+SG2CAVqFz8uhKQr4QG+zvLeGgNK/djUBjPRDWucjgFapyPJ4fjzvHJ7oX/rUz4h20rLFVKRfo+x93IdnW7JlQHcjExgYXbcRzI57y8kl9sR8BBqS3ws46LAFH62sj0nD78z1+6MUm9kWgODabRajN/g9OWBOccG7qyK7VqbUtS+5J9UtoRf26D2ti6DXqQEkg8Vann5jTPF7MFJYLbgdUZWfa35CvF/5E2uHBxfb0hB+P5UA95cZvN2J8s4x4H3bI=;VQVCEp1xgxriv/ofwo39lw=="
 ---

@@ -51,6 +51,15 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "Microsoft is renting GPU power from Oracle to push its AI work forward"
+    excerpt: "Microsoft and Oracle have entered a new multi-year partnership that will not only see cloud and AI companies face a greater threat, but also search. The agreement will see Microsoft use its own Azure AI infrastructure along with Oracle Cloud Infrastructure (OCI) AI to make its search engine even more powerful, and Google may want to start worrying."
+    publishedDateTime: 2023-11-08T14:20:00Z
+    webUrl: "https://www.techradar.com/pro/microsoft-is-renting-gpu-power-from-oracle-to-push-its-ai-work-forward"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 81
   - title: "Namaste Credit enters into a collaboration with Microsoft Azure over fraud detection solutions"
     excerpt: "Namaste Credit, an underwriting technology platform, has announced a partnership with Microsoft Azure under the STAB Program of G7 CR Technologies – A Noventiq Company."
     publishedDateTime: 2023-11-07T12:15:00Z
@@ -127,6 +136,15 @@ related:
       name: Skift
       domain: skift.com
     quality: 34
+  - title: "How AI is helping to shrink waiting times for NHS cancer patients – Microsoft"
+    excerpt: "The National Health Service at Addenbrooke’s Hospital in Cambridge is now able to plan radiotherapy treatments faster than in the past, thanks to AI advances that are cutting wait times. As the NHS approaches its 75 th birthday,"
+    publishedDateTime: 2023-11-08T16:02:00Z
+    webUrl: "https://www.inferse.com/788451/how-ai-is-helping-to-shrink-waiting-times-for-nhs-cancer-patients-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 31
 
 secured: "1qaxEDaN9Dcd2zHriC/8L7evjPaN7f7HgXXUl4umO8Z3uc0KcZkmFe9EZZbPvGaOheTZ5xPVkOoEEsIg+9Xu+/5STCaHBGgQ/h3xHKNNAghL1cO1APmm9JH13r44uCswI778FqKD2A4Vc0j5VtIe/GHmSDSB025Z7QVcyTT620KbTHOl5jXnryCO4NIILnkJPoH/B+c8xgxIa1kZj1p3NWGiwGJPMfttCcELX5pfa4+fayMH/r1NabJbgt7tWV5AOanlQpNI7hVY0m1D98fETAN2KH+PC6VuRTw3c7+1/V16xjU6JZDmyGnKVkaA0OKF0xHktnuQKSCM+YJU5QE/aLfUQ6OioQyvfsE9RU70B0U=;TkUkixWE6Ob2zbzMUfeSqg=="
 ---

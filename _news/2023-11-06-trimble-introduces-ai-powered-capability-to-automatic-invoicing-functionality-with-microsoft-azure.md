@@ -47,6 +47,15 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "Microsoft is renting GPU power from Oracle to push its AI work forward"
+    excerpt: "Microsoft and Oracle have entered a new multi-year partnership that will not only see cloud and AI companies face a greater threat, but also search. The agreement will see Microsoft use its own Azure AI infrastructure along with Oracle Cloud Infrastructure (OCI) AI to make its search engine even more powerful, and Google may want to start worrying."
+    publishedDateTime: 2023-11-08T14:20:00Z
+    webUrl: "https://www.techradar.com/pro/microsoft-is-renting-gpu-power-from-oracle-to-push-its-ai-work-forward"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 81
   - title: "Grok AIOps Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Grok AIOps to harness the scalability, reliability, and agility of Azure to drive"
     publishedDateTime: 2023-11-07T22:07:00Z
@@ -123,6 +132,15 @@ related:
       name: Skift
       domain: skift.com
     quality: 34
+  - title: "How AI is helping to shrink waiting times for NHS cancer patients – Microsoft"
+    excerpt: "The National Health Service at Addenbrooke’s Hospital in Cambridge is now able to plan radiotherapy treatments faster than in the past, thanks to AI advances that are cutting wait times. As the NHS approaches its 75 th birthday,"
+    publishedDateTime: 2023-11-08T16:02:00Z
+    webUrl: "https://www.inferse.com/788451/how-ai-is-helping-to-shrink-waiting-times-for-nhs-cancer-patients-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 31
 
 secured: "wpDptPT3LgoNACnZARJIN9t767IfFyrF//ZNpb9rjFdknRAlgkUHjpxq/kLshB+Mn4XfyTfHr9Ml5VmZa8NQuz8vXlP4kfDzW5TxY/9UkMLHTxs4/3bdoPyXHs479+B1itEwDXlcnrG2N4bSlv4/UpA+tqarBER8NEKkYHVjbxrb/xDuTYCMbvTW3nN4AOu1DyV6y0Rus0jZTek6MNGIwTU7aN8ZWjcR9N4y5DaySGWdAVeGUEyhfVj9YzNRq0OKBXnkBorxku8la0nNpzlgHfhWBdROQHTrOZLAf9J11IdZOAPxtVADA+xtJ85tvix7uu4ywQEdJubnshK/c41KsHrRSpDerG60kVil0bOkWbw=;XT9vU7JKq/URAaYvXCc8+Q=="
 ---

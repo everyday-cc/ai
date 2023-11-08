@@ -72,6 +72,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "OpenAI takes ‘baby step’ toward AI agents with Assistants API"
+    excerpt: "OpenAI unveils the Assistants API, a 'baby step' towards autonomous AI agents, potentially revolutionizing our interaction with technology."
+    publishedDateTime: 2023-11-08T14:00:00Z
+    webUrl: "https://venturebeat.com/ai/openai-takes-baby-step-toward-ai-agents-with-assistants-api/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Today’s Cache | Elon Musk to integrate AI startup with X; Humanoid robots and their problems; OpenAI plans for developer conference debut"
     excerpt: "While ChatGPT has achieved popularity as both a desktop tool and a smartphone app, OpenAI CEO Sam Altman hopes to push the boundaries by creating a platform which developers will use to launch their own AI-generated products, reported Reuters."
     publishedDateTime: 2023-11-06T09:20:00Z

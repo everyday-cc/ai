@@ -69,15 +69,6 @@ related:
         width: 670
         height: 352
         isCached: true
-  - title: "AI Needs Rules, but Who Will Get to Make Them?"
-    excerpt: "Skirmishes at the U.K.’s AI Safety Summit expose tensions over how to regulate AI technology About 150 government and industry leaders from around the world, including Vice President Kamala Harris and billionaire Elon Musk,"
-    publishedDateTime: 2023-11-03T20:59:00Z
-    webUrl: "https://www.scientificamerican.com/article/who-actually-gets-to-make-the-rules-about-ai/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 19
 
 secured: "BYPhYMRMR30TcKPjrsGH8Qd+jSLtq20Wznnq8T0NWYfufD1la1OmQAH7YKZfkNe2WcedqwzlmyXvmkLwhlyavA75TloKaDMXm1lCJXK0LXL2BNYM2DxDPBq3YeutjSj1PTGjQul6tzzlcaKi5ISL5eD9pLKlbvm26q8T4KvBo9DPnrIybxCrarykwxlp/4xyPDol1EJQcwvrOY9k6Larj+pvcnUOLPo3QUY93cQwZwH2Oy/eoySqt3lmm2QTY2s3SQzDbs06VeWhpkBji82+2ACYDVuclKB5e3BUWGEnuhIr1mxpoyW7zTYf0nPxLZxv1BPYh9wLRqMlQYGFZ6goAL/w6AIM1VKqu0M8HWl1Tq9+qyRfqNCpYzCMTJPfBfVawSO1t/Gx/4/kH56OMe/o0cyFm7jQPSUr7bE/FUStTaszoIBrhCcUzynXcqvOq5wh9cKMPk7+clrbc6RX2LDGrYcWaa8jVU0YH3PGy8QU3O84nti5vaIhgkFz1h3zaG5zwweIOM40m78hc9plJ/CUhw==;N/I45EDTqM7GsyKkU4BxuA=="
 ---

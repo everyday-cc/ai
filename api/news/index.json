@@ -2,6 +2,359 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-09-tech-moves-seattle-marketing-vet-lands-at-ionq-microsoft-principal-researcher-joins-startup.md",
+      "title": "Tech Moves: Seattle marketing vet lands at IonQ; Microsoft principal researcher joins startup",
+      "excerpt": "Margaret Arakawa, a longtime Seattle-area marketing leader, joined IonQ as chief marketing officer. Arakawa was",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/tech-moves-seattle-marketing-vet-lands-at-ionq-microsoft-principal-researcher-joins-startup/",
+      "originalUrl": "https://www.geekwire.com/2023/tech-moves-seattle-marketing-vet-lands-at-ionq-microsoft-principal-researcher-joins-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/11/IONQ-SQUARE-HEADSHOTS_0000s_0012_Margaret-Arakawa-DSC_8061.jpeg",
+          "width": 288,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-ai-speculation-dominates-cloud-native-conference.md",
+      "title": "AI Speculation Dominates Cloud Native Conference",
+      "excerpt": "While talk of AI overshadowed other topics during the first day of KubeCon NA, customers and vendors alike are focused on more practical matters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/",
+      "originalUrl": "https://www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/654baf04eb3ddcc2d1029c73/0x0.jpg?format=jpg&crop=1454,818,x0,y75,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/amp/",
+      "publishedDateTime": "2023-11-08T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-point-predictive-wins-lendtech-of-the-year-at-the-2023-us-fintech-awards.md",
+      "title": "Point Predictive Wins LendTech of the Year at the 2023 US Fintech Awards",
+      "excerpt": "Point Predictive's first- and third-party fraud solution API, which secured the coveted LendTech of the Year award, is exclusively designed for fintech and lenders. This groundbreaking API seamlessly combines the robust capabilities of Point Predictive's proprietary derived data repository,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/point-predictive-wins-lendtech-of-the-year-at-the-2023-us-fintech-awards-1032795400",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/point-predictive-wins-lendtech-of-the-year-at-the-2023-us-fintech-awards-1032795400",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml.globenewswire.com/Resource/Download/12358bcd-643b-47ab-8591-aa7e971cfadc",
+          "width": 1748,
+          "height": 1240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T07:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-the-strong-case-for-board-oversight-of-artificial-intelligence.md",
+      "title": "The Strong Case For Board Oversight Of Artificial Intelligence",
+      "excerpt": "The massive scope of the Biden Administration’s new Executive Order on AI makes clear the vital role to be played by the board of directors in the application of this extraordinary new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/654ba61fde642bcaaf7854bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-11-08T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-in-2024-ai-will-boost-big-cloud-players-but-threaten-them-too.md",
+      "title": "In 2024, AI Will Boost Big Cloud Players — But Threaten Them, Too",
+      "excerpt": "The impact of AI on the cloud market is obvious enough: The hyperscalers have the scope to host GPUs that otherwise strain data center capacity and pocketbooks. Customers want the GPU processors that are critical to AI, and the three biggest cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/",
+      "originalUrl": "https://www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/654ba354f21f417307edb692/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1050,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/amp/",
+      "publishedDateTime": "2023-11-08T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024.md",
+      "title": "EX Recession And AI Revolution Will Reshape The Future Of Work In 2024",
+      "excerpt": "Generative AI lit a fire of innovation under a previously fallow artificial intelligence market. In 2024, employees and employers both stand to benefit: Employees will be empowered with new generative AI-based tools,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/654baec230d1aa1a1f10f5af/0x0.png?format=png&height=900&width=1600&fit=bounds",
+          "width": 1050,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/",
+      "publishedDateTime": "2023-11-08T06:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-building-on-a-year-of-focus-to-help-ibm-power-clients-grow-with-hybrid-cloud-and-ai.md",
+      "title": "Building on a year of focus to help IBM Power clients grow with hybrid cloud and AI",
+      "excerpt": "As Ken King passes the baton, we take a look at the progress IBM has made across four critical areas to help drive transformation.\nThe post Building on a year of focus to help IBM Power clients grow with hybrid cloud and AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/building-on-a-year-of-focus-to-help-ibm-power-clients-grow-with-hybrid-cloud-and-ai/",
+      "originalUrl": "https://www.ibm.com/blog/building-on-a-year-of-focus-to-help-ibm-power-clients-grow-with-hybrid-cloud-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-five-questions-to-consider-when-evaluating-an-ai-solution.md",
       "title": "Five Questions To Consider When Evaluating An AI Solution",
       "excerpt": "Data is key to any AI strategy and a critical enterprise asset. Any tool you deploy within your organization needs to secure and protect your data. So, you should start by evaluating the public, private and open-source LLM models available and identifying ...",
@@ -10,7 +363,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -196,58 +549,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-ai-fears-hundreds-of-children-globally-used-in-naked-images.md",
-      "title": "AI: Fears hundreds of children globally used in naked images",
-      "excerpt": "The mother of a girl whose photo was used in AI-generated naked images says hundreds of parents have told her their children are also victims. Miriam Al Adib's daughter was one of several children from a Spanish village who had indecent images created using photos of them fully clothed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-wales-67344916?at_format=link&at_bbc_team=editorial&at_link_id=AE0D9A7C-7DEC-11EE-9B27-8AFB78A687CD&at_campaign_type=owned&at_link_origin=BBC_News_India&at_link_type=web_link&at_ptr_name=facebook_page",
-      "originalUrl": "https://www.bbc.com/news/uk-wales-67344916?at_format=link&at_bbc_team=editorial&at_link_id=AE0D9A7C-7DEC-11EE-9B27-8AFB78A687CD&at_campaign_type=owned&at_link_origin=BBC_News_India&at_link_type=web_link&at_ptr_name=facebook_page",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/BB50/production/_131225974_miriamaladib1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-wales-67344916.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67344916.amp",
-      "publishedDateTime": "2023-11-08T01:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     },
     {
@@ -650,7 +951,7 @@
       "originalUrl": "https://www.earth.com/news/ai-robots-marketing-and-the-power-of-persuasion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -695,7 +996,7 @@
       "originalUrl": "https://www.wral.com/story/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/21134051/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -931,297 +1232,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-britain-says-car-makers-not-owners-liable-for-self-driving-crashes.md",
-      "title": "Britain Says Car Makers Not Owners Liable For Self-Driving Crashes",
-      "excerpt": "Britain will make the makers rather than the owners of self-driving cars legally liable for any crashes under a framework for developing autonomous vehicles (AV), the government said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/britain-says-car-makers-not-owners-liable-for-self-driving-crashes-4555517",
-      "originalUrl": "https://www.ndtv.com/world-news/britain-says-car-makers-not-owners-liable-for-self-driving-crashes-4555517",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/53z54k9wfi_self-driving-car-generic-istock_625x300.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/britain-says-car-makers-not-owners-liable-for-self-driving-crashes-4555517/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/britain-says-car-makers-not-owners-liable-for-self-driving-crashes-4555517/amp/1",
-      "publishedDateTime": "2023-11-07T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-putting-data-storage-at-the-forefront-of-cloud-security.md",
-      "title": "Putting data storage at the forefront of cloud security",
-      "excerpt": "IBM Cloud Object Storage provides security and data durability, complimented with immutable data retention and audit controls capabilities. \nThe post Putting data storage at the forefront of cloud security appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/putting-data-storage-at-the-forefront-of-cloud-security/",
-      "originalUrl": "https://www.ibm.com/blog/putting-data-storage-at-the-forefront-of-cloud-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T10:00:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-myspace-jam-city-veterans-roll-out-plaiday-text-to-video-ai-tool.md",
-      "title": "MySpace, Jam City Veterans Roll Out PlaiDay Text-To-Video AI Tool",
-      "excerpt": "PlaiDay, which uses a few lines of text to generate short video snippets, debuted today from Plai Labs, the $32 million startup from founders of MySpace and Jam City.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dbloom/2023/11/07/myspace-jam-city-veterans-roll-out-plaiday-text-to-video-ai-tool/",
-      "originalUrl": "https://www.forbes.com/sites/dbloom/2023/11/07/myspace-jam-city-veterans-roll-out-plaiday-text-to-video-ai-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654a6df5a687ac4fb18e06c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1533,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2023/11/07/myspace-jam-city-veterans-roll-out-plaiday-text-to-video-ai-tool/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2023/11/07/myspace-jam-city-veterans-roll-out-plaiday-text-to-video-ai-tool/amp/",
-      "publishedDateTime": "2023-11-07T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-ai-safety-how-close-is-global-regulation-of-artificial-intelligence-really.md",
-      "title": "AI safety: How close is global regulation of artificial intelligence really?",
-      "excerpt": "The UK AI Safety Summit, combined with a G7 declaration and US executive order, shows action is happening on AI. Chris Stokel-Walker looks what happens next.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/future/article/20231107-why-global-regulation-of-artificial-intelligence-is-still-a-long-way-off",
-      "originalUrl": "https://www.bbc.com/future/article/20231107-why-global-regulation-of-artificial-intelligence-is-still-a-long-way-off",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0gr8j0h.jpg",
-          "width": 624,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-im-anxious-and-excited-about-this-bonkers-industry-changing-phone-chip.md",
-      "title": "I’m anxious and excited about this bonkers, industry changing phone chip",
-      "excerpt": "from everyday speed to games and the latest AI features. The thing is, it’s all rather untested out in the wild, and it could go either way. The Dimensity 9300 could be the first of a new generation of chips that transform mobile devices and a design ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/im-anxious-and-excited-about-mediatek-dimensity-9300-processor/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/im-anxious-and-excited-about-mediatek-dimensity-9300-processor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/11/dimensity-9300-in-hand.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/im-anxious-and-excited-about-mediatek-dimensity-9300-processor/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/im-anxious-and-excited-about-mediatek-dimensity-9300-processor/?amp",
-      "publishedDateTime": "2023-11-07T08:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-actors-strike-continues-heres-whats-holding-up-negotiations-including-artificial-intelligence.md",
-      "title": "Actors’ Strike Continues: Here’s What’s Holding Up Negotiations, Including Artificial Intelligence",
-      "excerpt": "The union rejected an offer that would permit film studios to use AI scans of deceased performers without consent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/conormurray/2023/11/07/actors-strike-continues-heres-whats-holding-up-negotiations-including-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/conormurray/2023/11/07/actors-strike-continues-heres-whats-holding-up-negotiations-including-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654a70561b74b22cb618482c/0x0.jpg?format=jpg&crop=3200,1798,x0,y17,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/conormurray/2023/11/07/actors-strike-continues-heres-whats-holding-up-negotiations-including-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/conormurray/2023/11/07/actors-strike-continues-heres-whats-holding-up-negotiations-including-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-11-07T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

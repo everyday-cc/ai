@@ -49,6 +49,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Sense of shared humanity and dialogue will be the essential in the age of Artificial Intelligence"
+    excerpt: "He was previously Dean, International and Corporate Affairs and Dean, School of Computer Science and Engineering, Bennett University and Director, NVIDIA-BU Research Center on Artificial Intelligence. He has also served as Head, Computer Science at Thapar ..."
+    publishedDateTime: 2023-11-08T15:40:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 46
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg"
+        width: 414
+        height: 364
+        isCached: true
 
 secured: "fKfvyv7L8btTd5MI6p5dkSoiDdcJN1jQnAcINZaKzUpTLLNupni3aHFsLL1iTVMIBCZtZMfeIIMIrzH9PoF8lyqDrse5ua0kC5YQwnKF6MKAyfLtNhIPqAcHflkyTO14ETVwAL37SMs9TI/nkt0wjQMXrgQqL5khiAtwfAWB7VgU2GJqDrLjj26H9BL8kLrYf/AMWfrqjtn4C3Fj7rMp0m6kscHhNNuOg75LJKdvKb3gAEGAqbPdGKxGxq3xi3nuxNssdxQu9abz5Gm2FIl/eZYrxF22tczEUH8OTKGBXmBK+IcWy7rEAthmEeWdXBk2qBSqD0YdsBo0FzUkICpZoIHHPVbwFLtYIWtKhcnnlK8uDkNqb3zZgu6C5870/+7JEovYWgKWrAINa2YlXbB7fPlbsKPw0LaL071jUebv7D8lQOqLK/q8erN7wdrMKxOnYlB4buaYGopXmSAgFlZabJaLZSH8QmMnR4BnFAQApPIh2V4IIsawMiiF/aXRmEk6Kh58FzUnQ9amocaiJJV2kw==;NER9gGjU3vAoFWPfuz0lwA=="
 ---

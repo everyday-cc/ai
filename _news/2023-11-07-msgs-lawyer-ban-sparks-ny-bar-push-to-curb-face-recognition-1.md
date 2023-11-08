@@ -48,6 +48,15 @@ related:
       name: Brooklyn Daily Eagle
       domain: brooklyneagle.com
     quality: 19
+  - title: "Facial recognition bans at MSG prompt NYS Bar to seek legal protections"
+    excerpt: "The NYSBA has called on the state legislature to strengthen New York's Civil Rights Act against the misuse of facial recognition technology."
+    publishedDateTime: 2023-11-08T15:46:00Z
+    webUrl: "https://brooklyneagle.com/articles/2023/11/08/nys-bar-to-seek-legal-protections-against-facial-recognition/"
+    type: article
+    provider:
+      name: Brooklyn Daily Eagle
+      domain: brooklyneagle.com
+    quality: 19
 
 secured: "nCgZuQTUMsydmXVFpiNHNOkYiPDVAlyfeL2PrWwSVQbZ6eA9RtDei5pPQK3Cty/l/hPitihWUEd7cPtHfFCz0XshYaiTLLKm4iS/f6yy6i6NBX6LMPSZeuo0jlQKpUTS95V3ATjhVKb58hEco2zAMcRuILg6lM/XZyRHdJfWdwuXB8GN6ib8wucnO2QuFaFex8QU93AuP+tKNAtrbBbPGvm1+l3itr0+VZBuT0VLmLT+ElOffzp29/QVwIUXcYXY7scWRhn94awYt81vqnXu1KPzINmFYofWL4FRc7K6C9oSMLU6mkqDWNEESniXLk8NHC2NBp7Xjuv5mbUfFVLUkpRLnf+XXAX1XVD9v0bQDoj/fohfrbWQs3CsAiWBbxyluxbMNvCmKcZegX1m2NtnQrwe2bDgnN40elhceNzp7/YhdTjn14vCjr+RiObGJKxCyiSOVM8J6gmQsLq0cIAOr09+6m6MbL/Iu8jsoqBc8lIFPGD77qb1+efEI/GjZ+UD+4aQAhcxp4UXzgQRVbnw8w==;cObyUVsV/4zk05uWLHWoTA=="
 ---

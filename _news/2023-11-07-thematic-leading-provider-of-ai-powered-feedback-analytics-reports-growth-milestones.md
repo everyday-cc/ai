@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/thematic-leading-p
 webUrl: "https://markets.businessinsider.com/news/stocks/thematic-leading-provider-of-ai-powered-feedback-analytics-reports-growth-milestones-1032787094"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 770
         height: 433
         isCached: true
+  - title: "AI and Machine Learning: Powering Predictive Analytics in Applied Financial Technology"
+    excerpt: "Introduction In the dynamic world of finance, staying ahead of the curve is crucial. To make informed decisions, financial institutions and professionals rely on data-driven insights. Thanks to the rapid evolution of technology,"
+    publishedDateTime: 2023-11-08T13:36:00Z
+    webUrl: "https://techbullion.com/ai-and-machine-learning-powering-predictive-analytics-in-applied-financial-technology/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 28
   - title: "News Explorer — Moody's Analytics Launches Stablecoin Service Using AI to Predict Depeggings, Provide Real-time Insights"
     excerpt: "Moody's Analytics Launches Stablecoin Service Using AI to Predict Depeggings, Provide Real-time Insights. Moody's Analytics has announced the launch of its new stablecoin service,"
     publishedDateTime: 2023-11-07T08:58:00Z

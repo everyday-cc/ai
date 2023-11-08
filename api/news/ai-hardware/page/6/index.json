@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-14-how-teslas-new-supercomputer-could-upend-the-ai-race.md",
+      "title": "How Tesla’s New Supercomputer Could Upend the AI Race",
+      "excerpt": "Custom-Built AI Tech Is on the Rise In fact, every Big Tech firm building AI models that formerly relied on Nvidia are now developing their own custom-built chips. Amazon (AMZN) has developed two chips customized specifically to build AI models on the firm ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/how-teslas-new-supercomputer-could-upend-the-ai-race-1032631339",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-teslas-new-supercomputer-could-upend-the-ai-race-1032631339",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/09/nvda-ytd-graph-091423.png",
+          "width": 928,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.md",
       "title": "AI language models need to shrink; here’s why smaller may be better",
       "excerpt": "Large language models (LLMs) used for generative AI tools can consume vast amounts of processor cycles and be costly to use. Smaller, more industry- or business-tailored models can often provide better results tailored to business needs.",
@@ -1362,58 +1415,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d.md",
-      "title": "This Week In XR: The AI Copyright Mess, Nintendo Back In XR Game, Text to 3D Virtual Worlds By Hiber3D",
-      "excerpt": "This may be the venerated Montreal XR Studio's best work yet. Venice Film Festival ‘Seven Ravens’ Mixed Reality Masterpiece Premieres At Venice Film Festival. Award-winning im",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/09/07/this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/09/07/this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64fa348969c863d8e51a5631/0x0.jpg?format=jpg&crop=1683,946,x274,y213,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/09/07/this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/09/07/this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d/amp/",
-      "publishedDateTime": "2023-09-07T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

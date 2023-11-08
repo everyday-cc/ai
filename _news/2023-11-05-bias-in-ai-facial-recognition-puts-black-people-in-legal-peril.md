@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/bias-ai-facial-recognition-puts-143358549
 webUrl: "https://www.aol.com/news/bias-ai-facial-recognition-puts-143358549.html"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 4924
         height: 3454
         isCached: true
-  - title: "Watch: Artificial intelligence and the bias against dark skin"
-    excerpt: "It puts us in danger of being falsely accused,” Damon Hewitt, head of the Lawyers' Committee for Civil Rights, said of bias in AI technology."
-    publishedDateTime: 2023-11-03T20:41:00Z
-    webUrl: "https://thegrio.com/2023/11/03/watch-artificial-intelligence-and-the-bias-against-dark-skin/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 32
 
 secured: "q2Ldana6rw5WxMZgRcbpud7d7ucYvGlRgJ6y/5ejXGKptiuwYh8Lj5MUWAw85zEoP8Bw/w4IkUZV+0yto4bLSIzyPAMSDIod6J5Ixwa987LQ8/Wic2Ddy+Z+pB93/9kL56L/Cb3+HqOofMOV11vgU7mjuLqklhg9ZqfwyJ5kKX7zwEqTVt4IFpMZzOoOPDaLOzGgU+Vh06+7BTVELQNWmljMaK78GOmPa9I9PaUobASGvjWNfgtN9f+FXoHHZaILx/6koZd6zPEmFooiloEC8WvHsWmq/i/BC7ZPk21tXIc2RpyWI6UzqgknIwAEinZAEGHbKAma1SJJHpLfmAR28hE2cYmmC4GgzY+vG2b3TXI=;JZ1ZcFRtD+2A3yAwAmyRmQ=="
 ---

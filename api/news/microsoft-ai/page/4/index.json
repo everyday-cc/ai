@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-27-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai.md",
+      "title": "Infosys partners with Microsoft to accelerate adoption of GenAI",
+      "excerpt": "Infosys said on Tuesday it is collaborating with Microsoft to jointly develop industry solutions that leverage Infosys Topaz, Azure OpenAI Service and Azure Cognitive Services. Both organisations are bringing together their respective artificial intelligence (AI) capabilities to enhance enterprise functions with AI-enabled solutions across multiple industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rediff.com/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
+      "originalUrl": "https://www.rediff.com/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im.rediff.com/money/2018/nov/15infy.jpg",
+          "width": 670,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.rediff.com/amp/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
+      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
+      "publishedDateTime": "2023-09-27T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rediff.com",
+        "domain": "rediff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts.md",
       "title": "Infosys and Microsoft to work together over industry-based Generative AI acceptance; industry reacts",
       "excerpt": "On September 26, 2023, Infosys, a information technology (IT) corporation, entered into a partnership with Microsoft, a multinational technology company. According to an official release, the partnership aims to develop industry-scale solutions around technologies such as Azure Cognitive Services, Infosys Topaz and Azure OpenAI Service.",
@@ -1209,49 +1252,6 @@
       "provider": {
         "name": "moneycontrol.com",
         "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-ai.md",
-      "title": "Infosys collaborates with Microsoft to accelerate and democratize industry-wide adoption of generative AI",
-      "excerpt": "Both companies will help enterprises take an AI-first approach to scale next-generation AI solutions to improve operational efficiencies, drive revenue growth, and enable business transformation Infosys (NSE,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infosys.com/newsroom/press-releases/2023/collaborates-accelerate-democratize-generative-ai.html",
-      "originalUrl": "https://www.infosys.com/newsroom/press-releases/2023/collaborates-accelerate-democratize-generative-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.infosys.com/content/dam/infosys-web/en/global-resource/images/calendar.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Infosys",
-        "domain": "infosys.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -156,6 +156,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Britain Makes Carmakers Liable for Self-Driving Crashes"
+    excerpt: "The British government has announced a significant shift in liability for self-driving cars, making carmakers rather than owners legally responsible"
+    publishedDateTime: 2023-11-08T14:39:00Z
+    webUrl: "https://thedeepdive.ca/britain-makes-carmakers-liable-for-self-driving-crashes/"
+    type: article
+    provider:
+      name: thedeepdive
+      domain: thedeepdive.ca
+    quality: 19
   - title: "Britain says automakers will be liable for self-driving crashes, not owners"
     excerpt: "The British government announced on Tuesday that, under a framework for advancing autonomous vehicles (AV), it would hold the manufacturers of self-driving cars legally responsible for any accidents, rather than the owners. A decision embraced by both insurance companies and AV startups."
     publishedDateTime: 2023-11-07T16:20:00Z
@@ -165,6 +174,15 @@ related:
       name: Investing
       domain: investing.com
     quality: 17
+  - title: "Britain says automakers, not owners, will be liable for self-driving crashes"
+    excerpt: "Insurers and AV startups said the British government's planned Automated Vehicles law provides crucial clarity for establishing liability for self driving."
+    publishedDateTime: 2023-11-07T12:54:00Z
+    webUrl: "https://europe.autonews.com/automakers/uk-make-self-driving-car-makers-liable-incidents"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 16
   - title: "Oxa and eVersum Join Self-driving Shuttle Rollout in Belfast Harbour"
     excerpt: "Zero-carbon shuttles built by eVersum and driven by Oxa self-driving software will begin carrying passengers from early 2025 OXFORD, England, & LEIBNITZ, Austria--(BUSINESS WIRE)--Oxa, one of the world’s leading self-driving vehicle software developers ..."
     publishedDateTime: 2023-11-07T09:31:00Z

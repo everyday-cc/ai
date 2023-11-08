@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 797
         isCached: true
+  - title: "Microsoft plans to offer startups free access to Azure AI GPU servers to run LLMs"
+    excerpt: "This week, Microsoft announced plans to offer startups access to its Azure AI services, which include being able to use its GPU virtual machine clusters. Startups can access this hardware in order to train and run large language models (LLMs) for their ..."
+    publishedDateTime: 2023-11-08T14:48:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-plans-to-offer-startups-free-access-to-azure-ai-gpu-servers-to-run-llms/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 91
   - title: "Microsoft may introduce AI chip similar to Nvidia GPU – HT Tech"
     excerpt: "Copyright © HT Media Limited All rights reserved. Microsoft has been investing in artificial intelligence to bring out new innovations. During its surface"
     publishedDateTime: 2023-11-07T20:22:00Z
@@ -154,6 +163,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 28
+  - title: "Vandis Achieves Microsoft Solutions Partner Designation for Infrastructure and is a Member of the Microsoft AI Cloud Partner Program"
+    excerpt: "Vandis, Inc, today announced it has earned the Microsoft Solutions Partner designation for Infrastructure and is a member of the Microsoft AI Cloud Partner Program. The new program and designations replace the legacy Microsoft Partner Network program and its gold and silver competencies to help customers identify qualified partners with the technical capabilities and expertise they need."
+    publishedDateTime: 2023-11-08T15:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9914126.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "/lmI9FD6hkn+jQpCSYbLsMwybTFWziU+aoZPhdeOboVwwe2SDxfSiKNOVFE9UWmPPt2ub9Jdur8CXyxgHyoWq2giSrxVn7dgEmm7ZMs+RvKL1lrmDQ6rQqEadbpThe5kK0GKtievU8/UKxLMxTDGzmW0Gsh+hIeHuj1QBSk97o1douPaFV1yp5Rbsx65jTozN9P6ZeREi8R2D+Cq1bPkaG9FRDsAoSP7Or7wee9uFDFHWndcaRAWXg6RJOOso+TwU3LNL2AIp8DpwE2cP2NhoGIG5dXxbbVuLfLFTpDG2UrPA/YOHsCGDvl8hlMOUSA5un3y3uR70x7ZHQv9PYSsvhTPass1zo2yL9rw8cUVRfrd28ajwCO8Ts50mp+Vuwf/kb4zvPUdGWFIHjgNh7dIAjgXOH3Dph8cHldvS07e77OtJxdMEVjG/CMxBbwamyZpFFKuMwpNo++LjqSShCocoAHPgRHu1clAXfInfuKEVgBPoeqEmWOsK7+SGyuTBKMWtENuzXe034yYf0hTs6t8SQ==;YAI2BwWHoCjDtF5AFbsccw=="
 ---
