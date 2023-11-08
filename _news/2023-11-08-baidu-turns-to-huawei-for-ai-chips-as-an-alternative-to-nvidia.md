@@ -129,6 +129,20 @@ related:
         width: 251
         height: 282
         isCached: true
+  - title: "Baidu orders AI chips from Huawei as alternative to Nvidia: report"
+    excerpt: "(Image credit: TechNode/Coco Gao) Chinese internet giant Baidu has ordered artificial intelligence chips from Huawei this year, according to an exclusive report from Reuters. In August, Baidu placed an order for 1,600 Huawei 910B Ascend AI chips as an ..."
+    publishedDateTime: 2023-11-08T07:51:00Z
+    webUrl: "https://technode.com/2023/11/08/baidu-orders-ai-chips-from-huawei-as-alternative-to-nvidia-report/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 54
+    images:
+      - url: "https://technode.com/wp-content/uploads/2019/10/BAIDU5.jpg"
+        width: 1620
+        height: 1080
+        isCached: true
   - title: "Baidu Orders Huawei's AI Chips in Shift from Nvidia as US Pressure Mounts"
     excerpt: "Baidu has reportedly ordered artificial intelligence chips from Huawei to meet the increasing demand for advanced technology solutions. This move comes amidst mounting pressure on Chinese companies following"
     publishedDateTime: 2023-11-07T10:02:00Z

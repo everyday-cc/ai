@@ -35,6 +35,20 @@ related:
         width: 1353
         height: 900
         isCached: true
+  - title: "IBM Unveils $500 MN Fund to Invest in AI Firms"
+    excerpt: "Continuing its commitment to promoting AI for businesses, IBM has launched a $500 million Enterpriese AI venture fund. The fund will scout for AI companies from early-stage to hyper-growth startups that are focused on accelerating generative AI technology ..."
+    publishedDateTime: 2023-11-08T08:21:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ibm-unveils-500-mn-fund-to-invest-in-ai-firms/465043"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1699430379-aitoolnew.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "IBM, which invested in Hugging Face, launches $500M enterprise AI venture fund"
     excerpt: "IBM announced today that it is launching a $500 million venture fund to invest in enterprise AI-focused startups."
     publishedDateTime: 2023-11-08T00:03:00Z
@@ -87,6 +101,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/IBM-768x512-1.jpg"
         width: 768
         height: 512
+        isCached: true
+  - title: "IBM introduces of $500 million venture fund to invest in range of AI companies"
+    excerpt: "IBM introduces of $500 million venture fund to invest in range of AI companies - IT major IBM announced that it is launching a $500 million venture fund to invest in a range of"
+    publishedDateTime: 2023-11-08T06:32:00Z
+    webUrl: "https://www.siliconindia.com/news/business/ibm-introduces-of-500-million-venture-fund-to-invest-in-range-of-ai-companies-nid-226348-cid-3.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 35
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/83atJuRM.jpg"
+        width: 570
+        height: 367
         isCached: true
 
 secured: "k3m7DFv5+KTg7lny2aQ+GBd1R0oA1KZjOh3tMDqi7vUKKD5PWiW+JrZQGMNJro2xIlczcsPoc8rE0e55WCOHP6ukyTFBj0Q97uy7PGuSj1M4R+1w2tm50ey1CnsTwfyBo7D/gE1CeHFpMut1KJRv/HuPiO1fSKdXt4aiW4dilz88AWv9IDVNev8pvln3sm3nRYRc/a3ZDTvMrGWdXiL7845Mpf8DanTKiCBbUi58YSQ2BwYwbrYX029gxx5TtxHFbws1Cr9XuhKdakJCRs0rncz0WpAXnL6U0nB2w2sW1BjreZ25WzYdr6f4UjqluqvnonV7MzGf2vHaAfRpLNn4FAosNlvYkHPVm9pUdxbWtinEDrEh32EMKJU3OnWkk7HVdSbvlT2bReZOCUoyYj/I+fiQJ0vfzk/HLYGbGe05YQtUAhx/Hf+AkYf68t72/jsduf9e0ynYDADwpWZ7OnA6XJnMh490o8DhuyhIJHEOQqQyvl0z6BRcnlpHPEiTavWFK2dZS41Um8fnh4osphIEFg==;o7BqjecZXNsOEXJbDplknA=="

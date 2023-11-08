@@ -39,6 +39,20 @@ related:
         width: 2400
         height: 1260
         isCached: true
+  - title: "KX ANNOUNCES KDB.AI AND KX COPILOT IN MICROSOFT AZURE"
+    excerpt: "Jumpstart development of AI-powered applications with a 'ready-to-go' technology stack comprising KDB.AI, Azure Machine Learning and Azure OpenAI"
+    publishedDateTime: 2023-11-08T07:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kx-announces-kdb-ai-and-kx-copilot-in-microsoft-azure-1032792757"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://mma.prnewswire.com/media/2269732/KX.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "Grok AIOps Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Grok AIOps to harness the scalability, reliability, and agility of Azure to drive"
     publishedDateTime: 2023-11-07T22:07:00Z
@@ -63,6 +77,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/Untitled-design-2023-11-07T172351.660.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft signs deal with Oracle to improve Bing AI’s speed"
+    excerpt: "The deal will see Microsoft leveraging Oracle infrastructure to deliver faster results to those using AI in Bing."
+    publishedDateTime: 2023-11-08T07:41:00Z
+    webUrl: "https://htxt.co.za/2023/11/08/microsoft-signs-deal-with-oracle-to-improve-bing-ais-speed/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 54
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2023/02/new-microsoft-bing-header.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Brillio Collaborates with Microsoft to Build Innovative Industry Solutions Using Microsoft Azure OpenAI Service"
     excerpt: "EDISON, N.J., Nov. 7, 2023 /PRNewswire/ -- Brillio, a leading digital transformation services and solutions provider, today announced that it is collaborating with Microsoft to co-develop cutting-edge industry and horizontal solutions using the power of Microsoft Azure OpenAI Service."

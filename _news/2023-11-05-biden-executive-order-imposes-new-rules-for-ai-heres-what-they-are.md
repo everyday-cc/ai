@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-05T12:07:00Z
 originalUrl: "https://abc7news.com/white-house-artificial-intelligence-executive-order-biden-ai/13990936/"
 webUrl: "https://abc7news.com/white-house-artificial-intelligence-executive-order-biden-ai/13990936/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.abcotvs.com/dip/images/13990938_cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9jNGppcTgwMDByM2I2aWd0cmR2dmZi-L19wYWdlcy9jbG9jNGFqaDQwMDVwNDdwNGUwNTVhMjJq.JPG?w=1600"

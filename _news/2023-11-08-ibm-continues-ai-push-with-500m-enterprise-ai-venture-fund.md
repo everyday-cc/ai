@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Unveils $500 MN Fund to Invest in AI Firms"
+    excerpt: "Continuing its commitment to promoting AI for businesses, IBM has launched a $500 million Enterpriese AI venture fund. The fund will scout for AI companies from early-stage to hyper-growth startups that are focused on accelerating generative AI technology ..."
+    publishedDateTime: 2023-11-08T08:21:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ibm-unveils-500-mn-fund-to-invest-in-ai-firms/465043"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1699430379-aitoolnew.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "IBM, which invested in Hugging Face, launches $500M enterprise AI venture fund"
     excerpt: "IBM announced today that it is launching a $500 million venture fund to invest in enterprise AI-focused startups."
     publishedDateTime: 2023-11-08T00:03:00Z
@@ -84,6 +98,20 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "IBM introduces of $500 million venture fund to invest in range of AI companies"
+    excerpt: "IBM introduces of $500 million venture fund to invest in range of AI companies - IT major IBM announced that it is launching a $500 million venture fund to invest in a range of"
+    publishedDateTime: 2023-11-08T06:32:00Z
+    webUrl: "https://www.siliconindia.com/news/business/ibm-introduces-of-500-million-venture-fund-to-invest-in-range-of-ai-companies-nid-226348-cid-3.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 35
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/83atJuRM.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "IBM launches $500M fund to develop generative AI for enterprise"
     excerpt: "IBM’s primarily focused on enterprise-level solutions for its generative AI products such as its Watson X platform and numerous cloud offerings. According to Rob Thomas, a senior vice president at IBM, generative AI technologies will be a driving force ..."
     publishedDateTime: 2023-11-07T19:32:00Z
@@ -94,6 +122,6 @@ related:
       domain: cointelegraph.com
     quality: 19
 
-secured: "Vf4+IDs9mWTfzY70PuEOwtB6Pt0cRnjkIpZbRg18UHg4N3wYCqa2PsEZPOFO+vP2VtuwqRzFHkr54fZd/SsZqOO7LcCSMZQXmwguQvFIyBz/On4Xuu52gK4g7WxwypVuQnuu2UzoqpyqX2tUgPGPff4ZmmcpwuakfnEnFcnILTB+9oUkuJ25YcI8WzqMgdK5boX3gK8zBSEwTI3c9BZHm00lmTP+85XAQ0Yse5YdgaGCjlWAgjycPtUozNk8s7rN5tTtqOnU7Q2eeWVk88yD3J+XT7Vnc2RsC5l4b/B3ypK4mvWX3Zj0Zo/BvY4BWk0bT6hMfO5TnaZFMGnLr4O+TP5DamcfN0toK9dMu7vtfuo=;yBf3850iOdX2/Hgc+DVeZw=="
+secured: "VoDF60hOVfY9l4kCPWgpk0mAo3LMSdYXhq6nDUS3gXOYOcIFbrFxnBUWERdbiZhhhbabMBRktOCci/8Cn85e1qf/ZpXUHS8yYqssxYrWe9dqGXS6pHjSJP/vQUFW+FmObVQYK49Iz+b/uwqAVtbMQsc6zQek+5zk5eb87WS8FETSKs3OhjQd/qfM0yUBbjl57BBh/VrODL6SJfKVshpRgwBfyC/Z8xAkcaNileXbvSykI8uiRpxXsWRQ+smYo9FeloK+OtRVb7yhWtwm49DLkDT0x7RGPGC3ML7hxPK8d4zAghwZEJnaaw+6c3uF+y+1O0oph0c5EctaqbqOOl6uW/IWVtKimPAqbqlUXld6BVizS2fvCrUPx8QDsAwhybPEgUyOQMQ7VCM66WUOKC5vWN3L16QpocsYrxs/If1Bvzc3KfIpZ02a3qUPBPFQL8lLox8gyhPkIMN8OVHF5dRvjdD+ng++uWsUiMLSoPoz6mHvZFVAZqTlxH2YkayeXr0JRCmryVGmmhcWg593/aLy+Q==;usDoKxCBpQMOa8cnUs7Qbg=="
 ---
 

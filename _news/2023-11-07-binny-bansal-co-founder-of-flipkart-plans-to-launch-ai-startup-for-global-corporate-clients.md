@@ -173,6 +173,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Flipkart Co-founder Binny Bansal is launching an AI startup"
+    excerpt: "Flipkart Co-founder Binny Bansal is launching an AI startup - Billionaire Binny Bansal, known for his success in Indian e-commerce through co-founding Flipkart and"
+    publishedDateTime: 2023-11-08T07:05:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/flipkart-cofounder-binny-bansal-is-launching-an-ai-startup-nid-226350-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 37
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/28DETpr1.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "2fR9gzgsN5bAlK0HMxk9K/JBMXDOJOXvW3m7/TlmvfAPl5U6f/IexRohV16xWSBXIdd1IDyGlSAQL9ZvWDkYw2SD5Kxgt6ur5aD70T3Fp2XslptTHVaDoh6vqk5EjD4aDf+c8B3nNpb4iKbQf+0uFpr0/wamQ+R/8vwziJb8J7hDKPekKMpxnVh4MqockKRPA7zA3jRBZ2hMVexXYNLq4OuZcQIk4Yf7gx0Rxz1xhKRKV0C/eX9EJOP/tzt5+h9rd4Cyp0z56Isly4gtna3ATYfhRqlHjD9pB22yPJmhK0K64pR1vWBw2eAek0hLXu7+lqL0nBsS7egSQf4hOojHpluoW3QwirvqDENy+nnbIQpnuTzRvA6jol7dtStX36P4gPNJKDvhAXAUQM+Y/mUuRELoOKPyc7k1T8YknDqqZgmbwP2SzRBNL+/bGs8dcboJhtDeDMADusQfFkfkn13PJsWYs+wbIWCvA7AvbvW3wz4tIFl6DtOu9bSJDTi2JLNEB9pijnmhBJLiiisaas1gVw==;jwWIIiPcmOHXQiDH4jS6tg=="
 ---

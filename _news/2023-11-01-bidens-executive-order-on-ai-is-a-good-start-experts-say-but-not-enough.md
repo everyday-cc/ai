@@ -5,6 +5,8 @@ excerpt: "A new executive order signed this week sets the stage for federal AI s
 publishedDateTime: 2023-10-31T21:22:00Z
 originalUrl: "https://www.scientificamerican.com/article/bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough/"
 webUrl: "https://www.scientificamerican.com/article/bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough/"
+ampWebUrl: "https://www.scientificamerican.com/article/bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough/?amp=true"
+cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough/?amp=true"
 type: article
 
 provider:
@@ -13,7 +15,14 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
-secured: "wm6yyWceWj855uzBsGKdLtdhI9HZTJTFSekV6GFKUeZCp4K+Jih6Sz9+zE1JH0EYHo0c1HfWqzO534Nq5DodJl8RQiGWds+uKWdPJxLJeGHUnjac0mZNChPiNZ0wSm9BzQn1qMMZGCQhMmYAff3dwjiSInloo3g5vlD7ifwbQjVt7jJt8qjPYy5z1EQT4wI0FQ/mPL3j17XotDGe/fnxITfi8PkPpManmZcidC2jXLF8KKfJeAsD5ZGKI9JjGUdhv6WrnwjpPQc/N4t4D381AuIX5+Bt81bjkmBh2PAuQ0/gUC9HLEWDZWc9ce2n3J3g/Gc7eBgByOkfCAoHnfaNTs+/gT14pEhvm7HVGAEtmBQozSfbEBDDtNLCUfdrRKPLHzusgkZ5mKonvtIQqoJAK1J68zSnRHUzA30xt/rdPodL9VrGDbp3Irapa/3nT1m2+iVN9i3UXI8BaGL18RAMC0kBid2CYwD8bwbPDaVno3RJQZC8WNyflCDtE6Y0ckWJSRHKsDXEJN/vgR+2iWe2Bg==;keVH3F9ZR5J+XtYFH1qyGw=="
+images:
+  - url: "https://static.scientificamerican.com/sciam/cache/file/06C51E75-1BE8-4025-B090C693B2B26F8F.jpg"
+    width: 790
+    height: 496
+    isCached: true
+
+secured: "c68f/A0z1an2i/Z/BOcbD68rHWArA15mX4JCDQX9+Dk/BNZf7NywCQ4oa25B2qTHOnZCUCrfszrjLp9Wnpt7Oo0jOSUBQ6gdpB57C9+N/ZBMD3cySxvOzON5KpkCVQj9WCevlw0LQ+IggOoC3TmpFjQ8XTUxCuwBYFOT8He7kQeBo66Y/zSrTCa9W0Qgfu+PodASVLE70WSLwf0JZIHEqCG9NvIYufKUXaXBuNx9jCbv2avGAOyJyXemmRHCSMrzCzAJywkPGwMErEBMQ3tigsMttEDI+1MAJDA0FVHzrdoLE8GFkMd46KuMGqex5NsHt7VE1oVAjA5KtG3NeL8RuiMpboMdIDjEp1t02uci7oM=;Fy9VqlrBHnoPPwAvIdHcxQ=="
 ---
 

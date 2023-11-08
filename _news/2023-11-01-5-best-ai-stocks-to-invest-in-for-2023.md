@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best AI Stocks to Invest In for 2023"
-excerpt: "Today, Amazon uses artificial intelligence for everything from Alexa, its industry-leading voice-activated technology, to its Amazon Go cashierless grocery stores, to Amazon Web Services Sagemaker, the cloud infrastructure tool that deploys high-quality ..."
-publishedDateTime: 2023-11-01T15:28:00Z
-originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=4a887e99-f88b-4adf-a584-d9b172b45477"
-webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=4a887e99-f88b-4adf-a584-d9b172b45477"
+excerpt: "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ..."
+publishedDateTime: 2023-11-01T10:05:00Z
+originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
+webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
 type: article
 
 provider:
@@ -16,7 +16,7 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
+  - AI in Autos
   - AI
 
 images:
@@ -25,6 +25,6 @@ images:
     height: 337
     isCached: true
 
-secured: "C06fmr8ozZdUnk8HJPpg6rZAoZBCcYhC+9uT8z5ribFbbSPdFne0FLoG3KNJXXYx/gwmXgKQ0QcBnWvC6rcjyo63E5Pifr52Eo870UKMNYiNZqBL3+yV5v9YikDfKjyBVBlkzpMBeu/4UdnBrf/6beSjBWtEDEqfaQFqSZ++vosye5J3fT+dqvC5SuLAV3A6pzucGBJE4KRSBgRY16qA/JkMfWeqP3uyvZOazK12PdAzSwREBGW1kjRCCOBx8aYdqNrTnI75fmB6jeh/JRgfOJ5s5cawdRRF10HUnbnFwZBMJTsxAP5CpJp86p83xuPPr529wTsXQFw2j92kx49YI57DINigi1bMibMI3cqaNwg=;yg38XAaik6fkLPKHvY7BMQ=="
+secured: "4kk20bVdfNz0vRn2hLYNwad9sowhfZkbvjpnAuLkY8nmTeUlVc4U2dRKc94xhzw9slUZuQgCvG6lAA1PZfmQXsYUqSjirDSI0UH972em6/FQadnWbdBB1Ou4bPMXKp4LVo6ygAo56bel+U1igC3FFR4x7LJP2CCIMfoboJG1ZVApVoKuWX1OWMFLhOshkXZhuF1gF/e5E4f3zJ+R4z/IiLN1AlBDmpYSZ/dW2uQJ7Xzo45UfCJ9gcHkk9YFCW0x49Jjq3HkGoaRNRgO7YhZwJuxyHv1mTQkPvT8qBxAjFxvZWsn4dDaGFowxfJ/PZVoxSbDyJ46dq9RHuvTlInq8BvSySomPZzkST+V2jlMB2NA=;JlYBloeBF0oARAQba1Aoyg=="
 ---
 

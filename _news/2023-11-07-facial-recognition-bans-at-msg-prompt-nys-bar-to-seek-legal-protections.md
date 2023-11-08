@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "MSG’s Lawyer Ban Sparks NY Bar Push to Curb Face Recognition (1)"
+    excerpt: "The New York State Bar Association is calling on state lawmakers to amend New York law to prohibit companies like Madison Square Garden Entertainment Corp. from using facial recognition technology to bar people from sports venues."
+    publishedDateTime: 2023-11-06T17:30:00Z
+    webUrl: "https://news.bloomberglaw.com/litigation/msgs-lawyer-ban-sparks-ny-bar-push-to-curb-facial-recognition"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 39
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/7db7e4e/2147483647/legacy_thumbnail/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F85%2Fe6%2F6db708374dc0ab4db36ee6cb63d3%2Ffacial-rec-tech.jpg"
+        width: 1920
+        height: 740
+        isCached: true
   - title: "MSG’s Lawyer Ban Sparks NY Bar Push to Curb Facial Recognition"
     excerpt: "The New York State Bar Association is calling on state lawmakers to amend New York law to prohibit companies like Madison Square Garden Entertainment Corp. from using facial recognition technology to bar people from sports venues."
     publishedDateTime: 2023-11-06T17:30:00Z

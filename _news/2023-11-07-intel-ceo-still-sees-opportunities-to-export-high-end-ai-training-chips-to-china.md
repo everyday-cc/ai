@@ -39,15 +39,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Dell and Intel Deploy UK AI Supercomputer at Univ. of Cambridge"
-    excerpt: "UK AI supercomputers are breaking out all over. Today, Dell, Intel and the University of Cambridge have announced the deployment of the co-designed \"Dawn\" Phase 1 supercomputer. Claiming the system to be the U."
-    publishedDateTime: 2023-11-03T14:37:00Z
-    webUrl: "https://insidehpc.com/2023/11/dell-and-intel-deploy-uk-ai-supercomputer-at-univ-of-cambridge/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
 
 secured: "VwsDHD+BSuLoXsPN48Z0cAadSJUJqOJzwFuSnMtjTIn34TddZJG8+GTaTg8tZMES9KSHmkj73xzw236Bxz6TwW1JDT0UB9/REcicAPffnl0yKGCMmOGXtfgzvvTQFcfP89d5d7Nar8YBIM2czUS3B5rK4leiueWBr8AWE1h0IJBTxG1Fq/XIdv6a1kbzcf16wJaUDRgvY1eUCqhrst4X5B2ui6AyK6zln1OWcb0v9i55ae2+dM79HpqRVhoEWqk7TX/OSF3I5Tgk83tddQ2QBplKqdAcj8NtxNUHMZ8vYGPBJT6BKBaci2Im+/fQEfzD6WHZKVv/zpZaAgSoPSMQqD1YmunDhpfBr+px3Fot/EXiVaNh5GetNEY/L/he31mF5MvZpm2o9F4c43r7p24yFgJzxvAPJ83ZoiWJKDYfl5oU1l1HrFOy90G1g91wen7fBcTY1WHk7LfQyY54dkEeUNzEdFk0KJ5gFP0izkM/mUfKCJI1IJ9ngEdzdvsUp6nMLoUCIbG9l4eiNCBp4S7Cew==;qTMLADRHHQxpLGpeaAsO6Q=="
 ---

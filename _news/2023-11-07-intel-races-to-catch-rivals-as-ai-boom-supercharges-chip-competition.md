@@ -7,8 +7,8 @@ originalUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Intel-races-t
 webUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Intel-races-to-catch-rivals-as-AI-boom-supercharges-chip-competition"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Nikkei Asia
@@ -39,15 +39,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Dell and Intel Deploy UK AI Supercomputer at Univ. of Cambridge"
-    excerpt: "UK AI supercomputers are breaking out all over. Today, Dell, Intel and the University of Cambridge have announced the deployment of the co-designed \"Dawn\" Phase 1 supercomputer. Claiming the system to be the U."
-    publishedDateTime: 2023-11-03T14:37:00Z
-    webUrl: "https://insidehpc.com/2023/11/dell-and-intel-deploy-uk-ai-supercomputer-at-univ-of-cambridge/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
 
 secured: "dYSj4hVr5fL3auJFF/fEAcihZdEZrMkXqlVH79KCB2P3ZB8rsVngryv5LKAtXO+eH44oEzHdzqxaPxlNnOWZxrb86rPhl5MEHZOa4gAeJlPd7fwiHHaB6msbIvOM8hJjxMYqRv378h1/m5Rv2nThAhn4vnjL5E4oMaI5c1QtRhqA7E+T5r+U0yF9draIJUTN/BPAJd9t9kmbKhD1ulMxdkKhCkfhAEwzElFSL9xgksVCxJOqU1Q4lKDSxCD+5VPFseoNpIzDUC/QCoWZvJdCSOBUZYEp3dGuSb7GV2Yzzosv/pMa8Dz0+790GCKMujZQoi68VUJ+wZ8dfWHtlwwhR9PbuBzQCtKMJ6ojJV4/bSQ=;TP41Xltjdl0E2DlUc4Wqsg=="
 ---

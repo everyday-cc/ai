@@ -78,7 +78,7 @@ related:
     provider:
       name: ABC7 San Francisco
       domain: abc7news.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://cdn.abcotvs.com/dip/images/13990938_cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9jNGppcTgwMDByM2I2aWd0cmR2dmZi-L19wYWdlcy9jbG9jNGFqaDQwMDVwNDdwNGUwNTVhMjJq.JPG?w=1600"
         width: 1600

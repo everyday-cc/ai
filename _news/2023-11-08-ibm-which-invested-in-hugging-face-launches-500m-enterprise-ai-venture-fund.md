@@ -44,6 +44,20 @@ related:
         width: 1353
         height: 900
         isCached: true
+  - title: "IBM Unveils $500 MN Fund to Invest in AI Firms"
+    excerpt: "Continuing its commitment to promoting AI for businesses, IBM has launched a $500 million Enterpriese AI venture fund. The fund will scout for AI companies from early-stage to hyper-growth startups that are focused on accelerating generative AI technology ..."
+    publishedDateTime: 2023-11-08T08:21:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ibm-unveils-500-mn-fund-to-invest-in-ai-firms/465043"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1699430379-aitoolnew.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "IBM launches $500M venture fund targeting artificial intelligence sector"
     excerpt: "IBM is stepping up its artificial intelligence play, creating a $500 million venture capital fund in which it is the only investor to, in its words, back companies \"focused on accelerating generative AI technology and research for the enterprise."
     publishedDateTime: 2023-11-07T16:13:00Z
@@ -82,6 +96,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/IBM-768x512-1.jpg"
         width: 768
         height: 512
+        isCached: true
+  - title: "IBM introduces of $500 million venture fund to invest in range of AI companies"
+    excerpt: "IBM introduces of $500 million venture fund to invest in range of AI companies - IT major IBM announced that it is launching a $500 million venture fund to invest in a range of"
+    publishedDateTime: 2023-11-08T06:32:00Z
+    webUrl: "https://www.siliconindia.com/news/business/ibm-introduces-of-500-million-venture-fund-to-invest-in-range-of-ai-companies-nid-226348-cid-3.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 35
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/83atJuRM.jpg"
+        width: 570
+        height: 367
         isCached: true
   - title: "IBM launches $500M fund to develop generative AI for enterprise"
     excerpt: "IBM’s primarily focused on enterprise-level solutions for its generative AI products such as its Watson X platform and numerous cloud offerings. According to Rob Thomas, a senior vice president at IBM, generative AI technologies will be a driving force ..."
