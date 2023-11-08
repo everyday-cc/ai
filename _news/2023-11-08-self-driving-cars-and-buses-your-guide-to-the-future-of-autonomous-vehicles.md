@@ -3,8 +3,8 @@ category: news
 title: "Self-driving cars and buses: Your guide to the future of autonomous vehicles"
 excerpt: "My ministers will introduce new legal frameworks to support the safe commercial development of emerging industries, such as self-driving vehicles’"
 publishedDateTime: 2023-11-07T19:23:00Z
-originalUrl: "https://www.aol.com/self-driving-cars-buses-guide-171731890.html"
-webUrl: "https://www.aol.com/self-driving-cars-buses-guide-171731890.html"
+originalUrl: "https://www.aol.com/news/self-driving-cars-buses-guide-171731890.html"
+webUrl: "https://www.aol.com/news/self-driving-cars-buses-guide-171731890.html"
 type: article
 quality: 21
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 636
         isCached: true
 
-secured: "tjtp8iTpQbAfOZ+LAhxWJRI/8KoVeLA4RdV1PSxPZi36WWMDE+YGtyEPUyufCNR2Dfdua5lvm9qcnl3qbbrgVX7k/WPk4koS30ykI9NZng0KJD1JxpWfOa2obseM2/+iI8c9RYWpwiGtwcreb/ICMUI/qmyF/jYXHjDOlstBUoF127vUWnIBRhirtBcB5mlrfGnX9blJAaIeK0h04hLTjdVbI3DHNq9nqORdHJsrFYqSK3+h+TUr2HaVFJ36e7ZgmP7MxMSWClD3UKRaUFTbhGhTLs6LnHDRQeKMf8K2wW+kL/4XckwgjMym1ikneJkzovSmbNGHYHPdjbPxBCrzufBh7gC/R5jzqYc17m2T6aI=;TDR7dy+YRGHb6Ug7N/VMOQ=="
+secured: "/9Y+zfKGYhKDXUxvye/hLzQ0oLvTT1w1qCtEq9VeGu9Kmdam+DAKlmYnNELSPJIbu2wp2+4cfizwNhEmOY3lmfUFnvQVJTxXhW406JeaiiF6kfxzyMDSyUAR7RLvuzosoakj8boNHKc7B6WFeni4RXTPqCrZ8XoAMHj17U/nfhkn7YWc/ujEtgBcQKux5i3GehnuQZfgjYqEjvPIcGHBlj5jZCJGZ59wNDhASbjqYn1PfH4o1OpZEn/ck4rkwvLH69baGiG2BNc0+dYuWM711XzgZbyE7xwlVEe2zolijut1I+jhxBzHuuQEhpt/X8scYzDwiFrxoN6M5yNsq4VzZsiV+1PnZiKVs2mdQuuUfA4=;ZgZdqApv0LeuDSegnxhxBw=="
 ---
 

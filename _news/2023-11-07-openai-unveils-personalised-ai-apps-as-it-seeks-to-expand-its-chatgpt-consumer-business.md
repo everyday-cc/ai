@@ -238,15 +238,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Brave launches Leo, a free generative AI assistant more private than ChatGPT"
-    excerpt: "Brave launched Leo, the generative AI assistant built on Claude with strong privacy protections in place - what you need to know."
-    publishedDateTime: 2023-11-03T16:53:00Z
-    webUrl: "https://bgr.com/tech/brave-launches-leo-a-free-generative-ai-assistant-more-private-than-chatgpt/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 16
   - title: "How to learn languages using new Vision, Voice and Image ChatGPT AI features"
     excerpt: "If you are learning a language you can harness the power of AI ChatGPT and its new Vision and image/photo analysis features to learn quicker"
     publishedDateTime: 2023-11-04T15:03:00Z

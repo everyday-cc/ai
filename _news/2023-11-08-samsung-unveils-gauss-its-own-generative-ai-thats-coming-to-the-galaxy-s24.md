@@ -1,0 +1,47 @@
+---
+category: news
+title: "Samsung unveils Gauss - its own generative AI that's coming to the Galaxy S24"
+excerpt: "It features Language, Code, and Image models. Samsung announced its own generative AI model, called Gauss. The on-device AI model consists of Samsung"
+publishedDateTime: 2023-11-08T10:28:00Z
+originalUrl: "https://www.gsmarena.com/samsung_unveils_gauss__its_own_generative_ai_thats_coming_to_the_galaxy_s24-news-60511.php"
+webUrl: "https://www.gsmarena.com/samsung_unveils_gauss__its_own_generative_ai_thats_coming_to_the_galaxy_s24-news-60511.php"
+ampWebUrl: "https://m.gsmarena.com/samsung_unveils_gauss__its_own_generative_ai_thats_coming_to_the_galaxy_s24-amp-60511.php"
+cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_unveils_gauss__its_own_generative_ai_thats_coming_to_the_galaxy_s24-amp-60511.php"
+type: article
+quality: 56
+heat: 66
+published: false
+
+provider:
+  name: GSM Arena
+  domain: gsmarena.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://fdn.gsmarena.com/imgroot/news/23/11/samsung-gauss/-1220x526/gsmarena_000.jpg"
+    width: 1220
+    height: 526
+    isCached: true
+
+related:
+  - title: "Samsung AI Forum 2023 starts today"
+    excerpt: "Samsung has announced that the new Samsung AI Forum 2023 has started today, the event is taking place at the Suwon Convention Center in Gyeonggi-do, Korea"
+    publishedDateTime: 2023-11-07T10:30:00Z
+    webUrl: "https://www.geeky-gadgets.com/samsung-ai-forum-2023-starts-today/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/Samsung-AI-Forum-2023.png"
+        width: 700
+        height: 466
+        isCached: true
+
+secured: "3P2x2QvtlSgSlZTZCUPKpUyOhxeYmSbZwkOJ5ONOti5z7Dd5VatBcjBsGEvsAh4S5HdpG0o382sOTI7J+WUcz9puOeR7b86OQXb1s9EBJGnPAhnfvJHulQ2LZP0udWu/vLm8G3jvTTTsYQXHSpNkhQeXKM1UFHx63c6zYWmlAbeCmyDkoWDK4EQNLBbGxSmb8SXN5614UsneM6L1bkoJju40bcGvYJPDvy4qb4GhkMG8F2v6nQ7C6CAh2YPJVAzHrTwyiNviJV18f8v5Fph/xv7C4ZPxt7SuS/LS9bFHvdun1DBXBizzS02kZp5rIldBnQRcYASivfpPRgE1/glWQQ94JlpicuNw1Y8WUyJbmQo=;uJPc19h4ovqgTea/XDLnRw=="
+---
+

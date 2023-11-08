@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/samsung-ai-forum-2023-starts-today/"
 webUrl: "https://www.geeky-gadgets.com/samsung-ai-forum-2023-starts-today/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 700
     height: 466
     isCached: true
+
+related:
+  - title: "Samsung unveils Gauss - its own generative AI that's coming to the Galaxy S24"
+    excerpt: "It features Language, Code, and Image models. Samsung announced its own generative AI model, called Gauss. The on-device AI model consists of Samsung"
+    publishedDateTime: 2023-11-08T10:28:00Z
+    webUrl: "https://www.gsmarena.com/samsung_unveils_gauss__its_own_generative_ai_thats_coming_to_the_galaxy_s24-news-60511.php"
+    ampWebUrl: "https://m.gsmarena.com/samsung_unveils_gauss__its_own_generative_ai_thats_coming_to_the_galaxy_s24-amp-60511.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_unveils_gauss__its_own_generative_ai_thats_coming_to_the_galaxy_s24-amp-60511.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 56
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/23/11/samsung-gauss/-1220x526/gsmarena_000.jpg"
+        width: 1220
+        height: 526
+        isCached: true
 
 secured: "0BDr8P4x13ElafuO0f00U4QGr1N9cSxtUlu4M/MzkcBmVih8uHYJawLbyzCOAeTVpZC/QLGYr8THCdWzqdTvQFs/Xep9H67QB7F0busV0CpRzXtqzwZrH5NiSjjmTKWjuOggWvl+NqZv2GHwoHTIfJPnJNQ+iBdoAvniLvI5ZfxAaH/zirVQidg586fAYKx2QWCovwAacB3xCrJMsQ0F0d8kMEG9VDo/C6Rvp5qXZet6Z6GEl2izom2LHGbE/d4QXzUTaxamHoDMtDVzwqAh8oa/kLdc76SGc9Gx/6PLsQYlOPnwml9nHqn3mJtmbfdu8nf7SxrQxIpqjPXRzMCiyKS7qbSn3/hzAKVI6yabvLhDazTsRuBsnzMR6OP9PK8lT1DVjSMLLvVTZHeJwXuxLMKg9bmGarPD7uvYPscdfcD82b9jxFKK9BMuKLF1r86wON2zUztgwQeqsC5TEZ8nNJvS0inBFJ2bkYmKEm9kBBonfe/GBvr7W03Px9/NBQgSpBaG/4j41mOfTqwKL7OI2Q==;AXrU/x3XwRlkx0jJDUszHw=="
 ---

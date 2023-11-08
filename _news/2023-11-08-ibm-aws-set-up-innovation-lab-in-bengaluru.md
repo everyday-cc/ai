@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Expands Relationship with AWS to Deepen Generative AI Innovation and Launch a New Innovation Lab in India"
+    excerpt: "IBM (NYSE: IBM) today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from the latest technologies, including generative artificial intelligence (AI)."
+    publishedDateTime: 2023-11-07T10:44:00Z
+    webUrl: "https://indiaeducationdiary.in/ibm-expands-relationship-with-aws-to-deepen-generative-ai-innovation-and-launch-a-new-innovation-lab-in-india"
+    ampWebUrl: "https://indiaeducationdiary.in/ibm-expands-relationship-with-aws-to-deepen-generative-ai-innovation-and-launch-a-new-innovation-lab-in-india"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ibm-expands-relationship-with-aws-to-deepen-generative-ai-innovation-and-launch-a-new-innovation-lab-in-india"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 55
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
   - title: "IBM Partners AWS To Launch New Innovation Lab In India"
     excerpt: "IT major IBM on Tuesday announced expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients op"
     publishedDateTime: 2023-11-07T10:58:00Z
@@ -50,15 +66,6 @@ related:
       name: The News Today
       domain: newstodaynet.com
     quality: 19
-  - title: "IBM Expands Relationship With AWS To Deepen Generative AI Innovation And Launch A New Innovation Lab In India"
-    excerpt: "November 7, 2023-- IBM (NYSE: IBM) today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from the latest technologies,"
-    publishedDateTime: 2023-11-07T13:20:00Z
-    webUrl: "https://menafn.com/1107384841/IBM-Expands-Relationship-With-AWS-To-Deepen-Generative-AI-Innovation-And-Launch-A-New-Innovation-Lab-In-India"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 15
 
 secured: "bau2b9eSBIarJfqSOkWHEva0rwztGdZLv1To1VVBDKSnLsV6UKHiKZL7SJmRsUvDhX5iPbf2sl38zzgb/LsbUJxASlb0gteoCi6CHLvjeNXc33i4qqh/DQiVvkdjtQKvEqROcxo7UNMlvKSKR/pOTw9hE4UTIw6IWh270erPdu1aUjExXiLK+Mqm5UidvAHLz897d8O8Xv/XQREO5WUrlahXtyZ7fjT7Y2gY3TdzZGVSILMp+BEd09h6pAQ0ijR9/NUij8npmofqNKMtaVpBXC0sE1q730+myxFzJ1b11ehp/k4BlrZ4K5Q1RVH9P4w3NDSXe9/0EqeqXZEDlod7Fhg7xm8UEJkXse7pqOxSMlM4aNKBve2pNUk7hymyx5NHS/ZcBFMNtEUFOGR8IpjObN/J4Js4pQdTQ5IdGpov4+Z5ChG2x0E2s8rguy9LbJn8OIi68bF7fxuMJM7OJe1W7L5saX6mqSkfoa5b6h0wwRA3Q17h5Rtv+nWv7AnOUHSghNki9BPt8MsbGsAfU+gnXA==;W1AOF1S/UX8C46UjrVKbFQ=="
 ---

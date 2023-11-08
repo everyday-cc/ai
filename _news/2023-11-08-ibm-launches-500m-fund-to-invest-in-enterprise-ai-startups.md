@@ -93,6 +93,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 39
+  - title: "IBM Establishes $500M Venture Fund for AI Startups"
+    excerpt: "IBM (NYSE: IBM) has launched a $500 million venture fund intended for artificial intelligence-focused early-stage and hyper-growth startups. The company said Tuesday IBM Enterprise AI Venture Fund will support the advancement of generative AI technology and research while expanding the company’s AI partnership ecosystem."
+    publishedDateTime: 2023-11-08T09:53:00Z
+    webUrl: "https://www.govconwire.com/2023/11/ibm-launches-500-million-enterprise-ai-venture-fund-for-current-and-future-ai-leaders/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 37
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/11/unnamed-file-47.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "IBM introduces of $500 million venture fund to invest in range of AI companies"
     excerpt: "IBM introduces of $500 million venture fund to invest in range of AI companies - IT major IBM announced that it is launching a $500 million venture fund to invest in a range of"
     publishedDateTime: 2023-11-08T06:32:00Z
@@ -116,6 +130,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 19
+  - title: "IBM launches $500m AI venture fund"
+    excerpt: "American multinational technology corporation IBM announced the launch of a $500 million Enterprise AI Venture Fund, which will be focused on \"accelerating generative AI technology and research for the enterprise.\""
+    publishedDateTime: 2023-11-08T09:25:00Z
+    webUrl: "https://www.opalesque.com/700280/IBM_launches_AI_venture_fund028.html"
+    type: article
+    provider:
+      name: Opalesque
+      domain: opalesque.com
+    quality: 17
 
 secured: "Lkt2eLeNCbzx5JLvWf+PTPDUCfn7DnnSpG7NpSjKNHLjujUhRHDQtz3A1fN726dXT2Il/O7P8knIdn7Dv3vv6V/tpmMOUWvms2/S40DcE+MJyOMrmm95orU4V6c4xl21YkzRZW+n5Pq4fIIBIZvXgKd0/gXhHSORqxj+L6/3V+i/pgKAQvK2p9CTCOjlSN4Hjd9i9FyxotAqZjvQfqwE9cJft3wP/fZC/2qj5F2bGqK5HXjjBa0zLkKJ2IjM8MlOvvGmc5W6pL+/EYFc92cT1xqFcC3l8E3P5CVctg+WxsKA95ICKpRO0faqwJ1KrU6FVnuEZL0KnbZp6Kl8ztgvGnro380mey+75bONjJ1K9dQv2uRH995QX8VIVRyYALj2xDnidqcElZnJE63WHXFQme8EFJ6W5wugKUWN4OJh8oZQ7jTXdW01P2QwPnH/lurHdzcA9Go2pi6BaAUITRmYaMYab0qwXvgkwy0W2gHP7LxnWfIC20CJ0kBUrYG9iK0I4QFVkMFHEsFugTsFGmlLvw==;uXUCNeqG9viO7tBv7ZlICg=="
 ---

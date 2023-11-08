@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/api-security-best-practices/"
 webUrl: "https://www.ibm.com/blog/api-security-best-practices/"
 type: article
 quality: 99
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - IBM AI
   - AI in Security
+
+related:
+  - title: "AI assistants optimize automation with API-based agents"
+    excerpt: "Generative AI-powered assistants are transforming businesses through intelligent conversational interfaces.\nThe post AI assistants optimize automation with API-based agents appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-08T10:00:00Z
+    webUrl: "https://www.ibm.com/blog/ai-powered-assistants-optimize-automation-with-api-based-agents/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
 
 secured: "zdWSfkpVxGq/C5mdhfLHA50sLRJyMeNXbfLUvr+AjC2bWAsNMhkPswe+SaTvHadNj0kYvuOnFculJJw6We/OnemC+BVAClgnauo+ln5M09z2ZcLYiQyHGlMwDvSBgJskQnV4LirpjDsFoA++YxaWpBYoGO1E1/cLJJhcIy0VFJ6m78OHNim5QzEnbzXWRoF0dcVlQ3zQjREuW9/iajP5IfeIpduK+90FuZTXHGSlUGc+84y+973QDkT5qznzq8uoKdvTe584sKItduByLsYAh6JEKOFXUYY+3e6zsbNizgGRdBYDwLln57QyJLqsOUv/AeXOQFhaU7TlhRnlK+YQlwOE3gkf0ficUmOlxTv/gAE=;MqKTFG41MlTI4jUqGzpBlQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-va
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung unveils its generative AI model Samsung Gauss"
+    excerpt: "Samsung Gauss consists of language, code, and image models and will be applied to the company's various products in the future."
+    publishedDateTime: 2023-11-07T17:00:00Z
+    webUrl: "https://www.zdnet.com/article/samsung-unveils-its-generative-ai-model-samsung-gauss/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-unveils-its-generative-ai-model-samsung-gauss/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-unveils-its-generative-ai-model-samsung-gauss/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/d70bd4274124ff45a4f27471612fad1ef652dd9f/2023/11/08/18caee3b-231f-4d7a-96d9-88a4d1f63ce4/2-ai-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Five Signs Your Company Is Ready For Generative AI"
     excerpt: "Recognizing the signs that your company is ready for generative AI is a pivotal step toward safely embracing the transformative power of this emerging technology. The potential rewards, from streamlining operations to fostering innovation, are immense and well-documented."
     publishedDateTime: 2023-11-07T12:30:00Z

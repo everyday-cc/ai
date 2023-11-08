@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/"
 type: article
 quality: 106
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://img.etimg.com/photo/msid-105024651/OpenAI.jpg"
         width: 1366
         height: 768
+        isCached: true
+  - title: "The King’s Speech: What does it mean for the future of fintech?"
+    excerpt: "What did King Charles say? King Charles started by highlighting the economic pressures on the nation and promised that his “Government will continue to take action to bring down inflation, to ease the cost of living for families and help businesses fund new jobs and investment."
+    publishedDateTime: 2023-11-08T09:46:00Z
+    webUrl: "https://www.finextra.com/the-long-read/850/the-kings-speech-what-does-it-mean-for-the-future-of-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/850.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "AI fintech Black Ore emerges from stealth with $60m"
     excerpt: "Black Ore, a startup developing AI tools for financial services firms, has emerged from stealth with $60 million in financing led by a16z and Oak HC/FT, with participation from a host of big-name angel investors."

@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Generative AI in Healthcare: Transforming Patient Care by 2024"
+    excerpt: "Introduction In recent years, the field of healthcare has undergone a remarkable transformation, primarily due to the integration of Generative Artificial Intelligence (AI). This cutting-edge technology has the potential to reshape patient care,"
+    publishedDateTime: 2023-11-08T09:55:00Z
+    webUrl: "https://techbullion.com/generative-ai-in-healthcare-transforming-patient-care-by-2024/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Generative-AI-in-Healthcare-Transforming-Patient-Care-by-2024.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
     excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
     publishedDateTime: 2023-11-06T06:08:00Z
@@ -126,15 +140,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Biden Executive Order Calls for HHS to Establish Health Care-Specific Artificial Intelligence Programs and Policies"
-    excerpt: "The Biden Administration only recently announced the Executive Order, but the discussion of regulating AI in health care is certainly not novel. For example, the U.S. Food and Drug Administration (FDA) has already incorporated artificial intelligence and ..."
-    publishedDateTime: 2023-11-03T17:27:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/biden-executive-order-calls-for-hhs-to-4847645/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 0
 
 secured: "l7YC6LXOQezqBPx35vHxITK2nYtxnCB01Vxfa9KETJ1fh/uLzqmAyPq2nEWDYPOMqK3uf2lgjNTaSWdxhmA3BGjyn0RamhwUoYaNQCA4RKqdkvP8OHbrcQHQcJI8a884X+RzXqqTTwgy+JJFXIgeWfgcm3doaaH2qNHAVX4tHFr6FKYK5mYS0Y2CptLKkYPr8b08CihaJufKXnFWWj0Xt6+D/D3H2rkpvr7yA86CfXmPQ3MAg1c+L844P994c5SGR8vgDDpnjdE7hvE+lT0egB4gLjopovcxVgKHud7jlwU3f/gpO/4gzDTwCPp14OOFg2JH9tz19wjnXF7rbS/7p4yuZy4HcFfSdKoxOqhoqsbkHIxhZwx0q6K2iYMsWerhPBovVUGhMP2PgUy4GWNCnTLiCzFQlIoPaxUfKU0H1T7jWIU1zVDD0eO4I625FlvaGDaAy3s6auOw6GYJHtuIqlqgU2D4SRGR1pyyQeUFu2xL70zKsPA1HHkaJ6RVwZxMj8mlOPEohseaatdjKVYzEg==;SfaPuoLdiheITo1ZSbqDrA=="
 ---

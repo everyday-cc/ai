@@ -1,22 +1,30 @@
 ---
 category: news
-title: "IBM Expands Relationship With AWS To Deepen Generative AI Innovation And Launch A New Innovation Lab In India"
-excerpt: "November 7, 2023-- IBM (NYSE: IBM) today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from the latest technologies,"
-publishedDateTime: 2023-11-07T13:20:00Z
-originalUrl: "https://menafn.com/1107384841/IBM-Expands-Relationship-With-AWS-To-Deepen-Generative-AI-Innovation-And-Launch-A-New-Innovation-Lab-In-India"
-webUrl: "https://menafn.com/1107384841/IBM-Expands-Relationship-With-AWS-To-Deepen-Generative-AI-Innovation-And-Launch-A-New-Innovation-Lab-In-India"
+title: "IBM Expands Relationship with AWS to Deepen Generative AI Innovation and Launch a New Innovation Lab in India"
+excerpt: "IBM (NYSE: IBM) today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from the latest technologies, including generative artificial intelligence (AI)."
+publishedDateTime: 2023-11-07T10:44:00Z
+originalUrl: "https://indiaeducationdiary.in/ibm-expands-relationship-with-aws-to-deepen-generative-ai-innovation-and-launch-a-new-innovation-lab-in-india"
+webUrl: "https://indiaeducationdiary.in/ibm-expands-relationship-with-aws-to-deepen-generative-ai-innovation-and-launch-a-new-innovation-lab-in-india"
+ampWebUrl: "https://indiaeducationdiary.in/ibm-expands-relationship-with-aws-to-deepen-generative-ai-innovation-and-launch-a-new-innovation-lab-in-india"
+cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ibm-expands-relationship-with-aws-to-deepen-generative-ai-innovation-and-launch-a-new-innovation-lab-in-india"
 type: article
-quality: 15
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: India Education Diary
+  domain: indiaeducationdiary.in
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+    width: 534
+    height: 462
+    isCached: true
 
 related:
   - title: "IBM, AWS set up innovation lab in Bengaluru"
@@ -59,6 +67,6 @@ related:
       domain: newstodaynet.com
     quality: 19
 
-secured: "hJ5+Od6idRj9btqW/tFqoOnNvR5Gkg3c8ZxRRxsnhzyoAHq2Sr52stIe7rGjxPmxP1Fjv7yWRTvkXyANikfqp2xdGuvhP1u1TpoyOt/kq+LQOf9AuRnC2g0+IfdgfNo7a3if6ePCSKk91AoG7sHtYbP+ZEz9WuPy3O5TCGBFDkojbQ0xX9taKA2WKJVsTZznIu2DKNe+fqRKUeDJKEmbBa2jxsU9+1XiAxOzmO5YbS/SSdlRDZLf9TBaBa+G25RET6Wg8bQCHvpfUNVqRX30AYhyr5vuRSxn/aSly8jaqdOGIoXeKjHgAm8rv+XqYsJbzMP9hAIIPlyj7nvQfg0gdkilPg/zCGjLjbHsTmq5oVcz+xN9juAbSaTqeerCnzgKMdofedMaTpgoBneIjKF8bDkZnIQ/O6Y2qkNyfw7LuV9EokEaZL+zMz8SeWxiaG/nM7Xa2U5RlUrbkOsplwnst7R6lZ9VQ256p8/goxhHi7RGPih0scDxmYbCWarERTYV+BNSFWiKdBwwIhGYuKgW/A==;GgtrRhnhSbr76dOLnhOuwQ=="
+secured: "9Y5hCZQVdsDDqOy889JKSjVarizvMaVMmPPIGg85idP1jzML3O394gzsqT0jQ15jfuiKj852vVV5Y2fJn3NK/88X0hsqm8IpY8dAE7T1m9q+Jn2F13Ep+mRdrU0cn37PoqqZkWXIzuWuryl86a18vjGDPJZHZchM26WsxgU27jcaOxW50QKed790ZQohhpi8rNevyFE2Y2u3D2ysbAmfmm36cNOJykbBNzzhMosA5+Z9XWp20rYA9rIF0w9FgI8P7ca8oE4kL5VrfaIBkkI388aEyn7JqNH7EG2zSlx/nlmLtXA+dSoCVqb8XPwvwZbMN9jDkrAxO8lNcbsgTOzLoGlyr/6lRLQO2OAwB71Iaq8=;GmCuWhNjOF0Egilb8UgJ4Q=="
 ---
 

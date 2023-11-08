@@ -38,6 +38,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Samsung unveils its generative AI model Samsung Gauss"
+    excerpt: "Samsung Gauss consists of language, code, and image models and will be applied to the company's various products in the future."
+    publishedDateTime: 2023-11-07T17:00:00Z
+    webUrl: "https://www.zdnet.com/article/samsung-unveils-its-generative-ai-model-samsung-gauss/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-unveils-its-generative-ai-model-samsung-gauss/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-unveils-its-generative-ai-model-samsung-gauss/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/d70bd4274124ff45a4f27471612fad1ef652dd9f/2023/11/08/18caee3b-231f-4d7a-96d9-88a4d1f63ce4/2-ai-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Exploring the Limitless Possibilities of Generative AI in 2024"
     excerpt: "The growth and evolution of Generative AI have accelerated at an unprecedented pace, enabling possibilities that were once the stuff of science fiction. The year 2024 is a pivotal moment in the realm of artificial intelligence,"
     publishedDateTime: 2023-11-06T14:26:00Z

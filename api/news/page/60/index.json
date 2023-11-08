@@ -2,6 +2,92 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2023-09-25-natwest-to-build-generative-ai-tools-and-expertise-with-aws.md",
+      "title": "NatWest to build generative AI tools and expertise with AWS",
+      "excerpt": "NatWest is extending its collaboration with Amazon Web Services to incorporate the uptake of new generative AI technology from the cloud provider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/newsarticle/43011/natwest-to-build-generative-ai-tools-and-expertise-with-aws",
+      "originalUrl": "https://www.finextra.com/newsarticle/43011/natwest-to-build-generative-ai-tools-and-expertise-with-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/top_pics/xl/original.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-25-facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs.md",
+      "title": "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs",
+      "excerpt": "A lawsuit filed this month blames the misuse of facial recognition technology by a sheriff’s detective in Jefferson Parish, Louisiana, for his ordeal. “I was confused and I was angry because I ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wctv.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/",
+      "originalUrl": "https://www.wctv.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wctv-prod.cdn.arcpublishing.com/resizer/k9QDHmYRGEBKaY0CoAOdzG3XG2k=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DCT6ZBVURNFKNBKYVNPKMIFCPA.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wctv.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wctv-tv.cdn.ampproject.org/c/s/www.wctv.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/?outputType=amp",
+      "publishedDateTime": "2023-09-25T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCTV",
+        "domain": "wctv.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-25-pudu-robotics-debuts-at-cms-berlin-showcasing-latest-autonomous-cleaning-solution.md",
       "title": "Pudu Robotics Debuts at CMS Berlin, Showcasing Latest Autonomous Cleaning Solution",
       "excerpt": "CMS Berlin brings together professionals from all sectors of the cleaning and hygiene industry, providing a platform for extensive discussions on various aspects of the industry. During the exhibition, PUDU showcased the new black model of PUDU CC1 and its latest autonomous cleaning solution.",
@@ -1087,101 +1173,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-24-better-ai-value-stock-micron-vs-intel.md",
-      "title": "Better AI Value Stock: Micron vs. Intel",
-      "excerpt": "And while Micron initially fell behind rival SK Hynix in high bandwidth memory (HBM) for AI applications, Micron recently announced a new HBM product with better specs than Hynix this summer. That product is in sampling right now and will start shipping in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/09/24/better-ai-value-stock-micron-vs-intel/",
-      "originalUrl": "https://www.fool.com/investing/2023/09/24/better-ai-value-stock-micron-vs-intel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/748374/gettyimages-1220395930.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-24T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-24-ai-in-education-challenges-to-transform-learning.md",
-      "title": "AI in education: Challenges to transform learning",
-      "excerpt": "AI can help stage the gambling field via imparting on hand learning substances for college kids with disabilities, providing language translation offerings and adapting content material to numerous studying needs. 5. Enabling lifelong learning: The rapidly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/",
-      "originalUrl": "https://www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/AI-2-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/lite/",
-      "publishedDateTime": "2023-09-24T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

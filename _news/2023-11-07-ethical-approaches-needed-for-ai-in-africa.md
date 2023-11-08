@@ -7,7 +7,7 @@ originalUrl: "https://www.engineeringnews.co.za/article/ethical-approaches-neede
 webUrl: "https://www.engineeringnews.co.za/article/ethical-approaches-needed-for-ai-in-africa-2023-11-07"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1022
     height: 575
     isCached: true
+
+related:
+  - title: "Ethical approaches needed for AI in Africa"
+    excerpt: "As artificial intelligence (AI) uptake surges, it is important to consider ethics in AI development and deployment, to avoid risks such as bias, discrimination and exclusion. This is according to speakers in a webinar hosted by the Institute of Information Technology Professionals South Africa (IITPSA) on Responsible AI in Africa."
+    publishedDateTime: 2023-11-08T09:27:00Z
+    webUrl: "https://it-online.co.za/2023/11/08/ethical-approaches-needed-for-ai-in-africa/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 34
 
 secured: "/X7KsFzUGN/Km86XTt/ABg6MQ4mDC25KPv+hRLe2id0RFeGlWWru8aQ2FivniGKsAH7dmL9cPiTxafglSfjHTTofG0yPxU5nF2AxgK9PUFdLRTvvkeEGeu5UjDOQl2qQhNuCjvMmh3xmZXICiWyVO2UuKhDiGJjSEOeJNxlbP5FgMcNU3qCY59iF79t81syscRIBBXykHTfG6cPckO1S9q4NPQ+BQnWdWVGW1mjwpnFkOkstDRuvBTeUACwBraxK+5Bp1NUO7ykqsy9NiXTAO/3cPyT9Gr5IUEpwmE81maJ3NFDg9hHkuLCgbeBsxckoM5AyEoqmhKhnS8aJlKapIkZP57C68nYdhDa8Cm92eZk=;0m1V7op4rSuV3aLagR7vLA=="
 ---

@@ -106,6 +106,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "The King’s Speech: What does it mean for the future of fintech?"
+    excerpt: "What did King Charles say? King Charles started by highlighting the economic pressures on the nation and promised that his “Government will continue to take action to bring down inflation, to ease the cost of living for families and help businesses fund new jobs and investment."
+    publishedDateTime: 2023-11-08T09:46:00Z
+    webUrl: "https://www.finextra.com/the-long-read/850/the-kings-speech-what-does-it-mean-for-the-future-of-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/850.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "BIT2023: Banking, Fintech Co-Create Larger Ecosystem, Build Strong Foundation"
     excerpt: "Get ready to be acquainted with the Who's who of banking and fintech fraternity of the UAE over two consecutive days next week on November15 and Nov"
     publishedDateTime: 2023-11-07T20:15:00Z
