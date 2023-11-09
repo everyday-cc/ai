@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-09-india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief.md",
+      "title": "India, Japan can team up in chips, rare-earth & AI, says RBI chief",
+      "excerpt": "There are many collaboration opportunities between India and Japan in semiconductors and resilient supply chains, rare-earths extraction, space technology, artificial intelligence, quantum computing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/",
+      "originalUrl": "https://www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.orissapost.com/wp-content/uploads/2022/06/Shaktikanta-Das-scaled.jpg",
+          "width": 2560,
+          "height": 1523,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/",
+      "cdnAmpWebUrl": "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/",
+      "publishedDateTime": "2023-11-08T23:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "orissapost",
+        "domain": "orissapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience.md",
+      "title": "Data security firm Rubrik launches ‘Ruby’ genAI companion to improve cyber resilience",
+      "excerpt": "The company will leverage Microsoft’s Azure OpenAI, in combination with its machine learning-driven Data Threat Engine, to help discover, investigate, remediate, and report on cyber incidents. Ruby helps customers of all levels of cyber expertise through ...",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-105088070,imgsize-50970,width-1200,height=765,overlay-ettelecom/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070",
+      "publishedDateTime": "2023-11-08T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry.md",
       "title": "This Norwegian AI Powered Startup Has Big Plans For The Meat Industry",
       "excerpt": "By combining deep technical and industry knowledge and avoiding using more animals than required, Volur technology plans to maximize utilization of animals for an",
@@ -61,7 +148,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/11/09/galaxy-ai-likely-to-debut-on-galaxy-s24-series-ai-live-translate-call-feature-revealed/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -156,50 +243,6 @@
       ]
     },
     {
-      "path": "_news/2023-11-09-hariri-institute-wheelock-collaborate-to-research-ais-impact-on-education.md",
-      "title": "Hariri Institute, Wheelock collaborate to research AI’s impact on education",
-      "excerpt": "The ChatGPT AI natural language processing tool displayed on a phone. An initiative launched by the Hariri Institute for Computing and Computational Science and Engineering and Wheelock College aims to connect research in artificial intelligence with ...",
-      "sourceUrl": null,
-      "webUrl": "https://dailyfreepress.com/2023/11/08/hariri-institute-wheelock-collaborate-to-research-ais-impact-on-education/",
-      "originalUrl": "https://dailyfreepress.com/2023/11/08/hariri-institute-wheelock-collaborate-to-research-ais-impact-on-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailyfreepress.com/wp-content/uploads/Digital_Courtesy_ChatGPT-400x267.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T18:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Free Press",
-        "domain": "dailyfreepress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
       "path": "_news/2023-11-09-the-race-to-buy-ai-website-addresses.md",
       "title": "The race to buy AI website addresses",
       "excerpt": "One web address, npc.ai, was sold for $250,000 this year, while another, service.ai, went for $127,500, according to one report. Such head-turning figures are a side effect of the feverish buzz surrounding AI start-ups and technology.",
@@ -208,7 +251,7 @@
       "originalUrl": "https://www.bbc.co.uk/news/business-67284936",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1186,57 +1229,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-five-questions-to-consider-when-evaluating-an-ai-solution.md",
-      "title": "Five Questions To Consider When Evaluating An AI Solution",
-      "excerpt": "Data is key to any AI strategy and a critical enterprise asset. Any tool you deploy within your organization needs to secure and protect your data. So, you should start by evaluating the public, private and open-source LLM models available and identifying ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654a751b6cca537b3db324ba/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1334,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/amp/",
-      "publishedDateTime": "2023-11-08T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

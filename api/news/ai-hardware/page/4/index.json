@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-10-meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023.md",
+      "title": "Meta Extends Its AI Messaging To The Quest 3 And More At Meta Connect 2023",
+      "excerpt": "Principal Analyst, Mobility & VR, Anshel Sag dives deep on the Quest 3 AR headset, Ray-Ban Meta smart glasses and AI-related news from the Meta Connect 2023 event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/10/09/meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/10/09/meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65244ab654f17051ab3d619a/0x0.jpg?format=jpg&width=1200",
+          "width": 936,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/10/09/meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/09/meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023/amp/",
+      "publishedDateTime": "2023-10-09T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-openai-may-jump-into-ai-hardware-amid-high-costs-supply-constraints.md",
       "title": "OpenAI may jump into AI hardware amid high costs, supply constraints",
       "excerpt": "OpenAI has been evaluating various options to address this issue, including potentially acquiring a chipmaking company and working more closely with other chip manufacturers like Nvidia. Currently, the AI firm has not made a final decision,",
@@ -1394,49 +1446,6 @@
       "provider": {
         "name": "AOL",
         "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.md",
-      "title": "Chip industry strains to meet AI-fueled demands — will smaller LLMs help?",
-      "excerpt": "Large language models are growing in size, as is the number of companies using generative AI technology. The more the models grow, the more CPUs they consume — exacerbating an already-strained chip supply chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3707412/chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.html",
-      "originalUrl": "https://www.computerworld.com/article/3707412/chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/09/shutterstockim-imagery-100946402-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3707412/chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3707412/chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.amp.html",
-      "publishedDateTime": "2023-09-28T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
         "images": null,
         "publishers": null,
         "authors": null

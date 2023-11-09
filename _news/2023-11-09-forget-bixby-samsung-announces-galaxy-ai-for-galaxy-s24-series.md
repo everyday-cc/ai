@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Samsung Galaxy AI to offer Live Translate Call feature and much more - Details"
+    excerpt: "Samsung said that the AI Live Translate Call will soon give users a personal translator whenever they need it."
+    publishedDateTime: 2023-11-09T06:59:00Z
+    webUrl: "https://www.zeebiz.com/technology/news-samsung-galaxy-ai-to-offer-live-translate-call-feature-and-much-more-details-263659"
+    ampWebUrl: "https://www.zeebiz.com/technology/news-samsung-galaxy-ai-to-offer-live-translate-call-feature-and-much-more-details-263659/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-samsung-galaxy-ai-to-offer-live-translate-call-feature-and-much-more-details-263659/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 70
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/2023/11/09/268496-samsungai.jpg?im=FitAndFill=(1200,900)"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Samsung announces \"a new era of Galaxy AI\", starting with AI Live Translate Call"
     excerpt: "The teaser campaign for the Galaxy S24 series has pretty much started in earnest now. AI is the buzzword of the year for sure (thanks, ChatGPT!)"
     publishedDateTime: 2023-11-08T23:02:00Z
@@ -74,6 +90,50 @@ related:
       - url: "https://fdn.gsmarena.com/imgroot/news/23/11/samsung-gauss/-1220x526/gsmarena_000.jpg"
         width: 1220
         height: 526
+        isCached: true
+  - title: "Samsung to bring 'Live Call Translate' feature for THESE phones. Here's how it will work"
+    excerpt: "and it aims to provide users with a personal translator whenever they need it. This new feature is expected to make its debut early next year and is set to bring people closer in a world where language barriers exist. \"Galaxy AI is our most comprehensive ..."
+    publishedDateTime: 2023-11-09T08:57:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/samsung-upcoming-live-call-translate-feature-for-galaxy-ai-phones-2023-11-09-902009"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/samsung-upcoming-live-call-translate-feature-for-galaxy-ai-phones-2023-11-09-902009"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/samsung-upcoming-live-call-translate-feature-for-galaxy-ai-phones-2023-11-09-902009"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 50
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/11/samsung-galaxy-ai-feature-1699519092.jpg"
+        width: 360
+        height: 202
+        isCached: true
+  - title: "Samsung to introduce 'Live Call Translate' feature with latest Galaxy AI phones"
+    excerpt: "Samsung announced that it is working on an artificial intelligence (AI) \"Live Call Translate\" feature ... making calling someone who speaks another language about as simple as turning on closed captions when they stream a show, the company mentioned."
+    publishedDateTime: 2023-11-09T08:51:00Z
+    webUrl: "https://www.siliconindia.com/news/general/samsung-to-introduce-live-call-translate-feature-with-latest-galaxy-ai-phones-nid-226385-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 50
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/vXyLYg38.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "Samsung To Soon Bring 'Live Call Translate' Feature With Latest Galaxy AI Phones"
+    excerpt: "Samsung on Thursday announced that it is working on an artificial intelligence (AI) Live Call Translate feature, which it w"
+    publishedDateTime: 2023-11-09T07:12:00Z
+    webUrl: "https://menafn.com/1107398135/Samsung-To-Soon-Bring-Live-Call-Translate-Feature-With-Latest-Galaxy-AI-Phones"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 49
+    images:
+      - url: "https://menafn.com/updates/pr/2023-11/09/I_5f3e9image_story.jpg"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Galaxy S24 buyers might have to pay extra for AI features"
     excerpt: "A report claims Samsung is considering charging Galaxy S24 buyers a subscription for on-device generative AI features like ChatGPT."

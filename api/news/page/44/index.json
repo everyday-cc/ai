@@ -2,6 +2,230 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-10-07-4-second-to-none-growth-stocks-youll-regret-not-buying-in-the-wake-of-the-nasdaq-bear-market-dip.md",
+      "title": "4 Second-to-None Growth Stocks You'll Regret Not Buying in the Wake of the Nasdaq Bear Market Dip",
+      "excerpt": "But in spite of this sizable outperformance through the first nine months and change of 2023, the Nasdaq Composite still sits nearly 18% below its all-time high, set in November 2021. Though this drop might be disappointing for short-term traders,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-second-to-none-growth-stocks-youll-regret-not-buying-in-the-wake-of-the-nasdaq-bear",
+      "originalUrl": "https://www.nasdaq.com/articles/4-second-to-none-growth-stocks-youll-regret-not-buying-in-the-wake-of-the-nasdaq-bear",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-07T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-07-unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai.md",
+      "title": "UNESCO And The Netherlands Launch Initiative To Ensure Ethical Oversight Of AI",
+      "excerpt": "Dubbed Supervising AI by Competent Authorities, the initiative will see UNESCO assemble a report on current AI supervisory practices across Europe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6520084cff6afed1494d46b2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/amp/",
+      "publishedDateTime": "2023-10-06T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-07-dubformer-launches-ai-video-dubbing-solution-for-media-industry.md",
+      "title": "Dubformer Launches AI Video Dubbing Solution for Media Industry",
+      "excerpt": "Dubformer, a leading AI dubbing start-up specializing in delivering broadcast-level quality dubbing and voice-over services to the media industry, announces the launch of its AI video dubbing service. The solution supports 70+ languages and language variants, and 1000+ voices.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dubformer-launches-ai-video-dubbing-solution-for-media-industry-1032685734",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dubformer-launches-ai-video-dubbing-solution-for-media-industry-1032685734",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-dubformer-launches-a-1696626906.jpeg",
+          "width": 400,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-06T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-07-driverless-cars-are-multiplying-on-texas-roads-heres-what-you-should-know.md",
+      "title": "Driverless cars are multiplying on Texas roads. Here’s what you should know.",
+      "excerpt": "The data from these sensors feed the car’s artificial intelligence brain in real time ... where it offers driverless ride service through a mobile app. The company also operates driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.elpasotimes.com/story/news/texasregion/2023/10/05/driverless-cars-in-texas-heres-what-you-should-know/71070575007/",
+      "originalUrl": "https://www.elpasotimes.com/story/news/texasregion/2023/10/05/driverless-cars-in-texas-heres-what-you-should-know/71070575007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-06T18:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "El Paso Times",
+        "domain": "elpasotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-07-fine-tuning-a-bert-model.md",
+      "title": "Fine-tuning a BERT model",
+      "excerpt": "This tutorial demonstrates how to fine-tune a Bidirectional Encoder Representations from Transformers (BERT) (Devlin et al., 2018) model using TensorFlow Model Garden. You can also find the pre-trained BERT model used in this tutorial on TensorFlow Hub (TF ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tfmodels/nlp/fine_tune_bert",
+      "originalUrl": "https://www.tensorflow.org/tfmodels/nlp/fine_tune_bert",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-06T17:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-07-will-medicare-part-b-premiums-go-up-again-in-2024.md",
       "title": "Will Medicare Part B premiums go up again in 2024?",
       "excerpt": "Next year’s Medicare Part B premiums are expected to be announced soon and there is speculation that coverage of another pricey new Alzheimer’s medication could cause monthly costs to go up, echoing what occurred in 2022.",
@@ -963,239 +1187,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-5-ways-ai-could-influence-nursing-in-the-coming-years.md",
-      "title": "5 ways AI could influence nursing in the coming years",
-      "excerpt": "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/nation-world/world/article280205024.html",
-      "originalUrl": "https://www.miamiherald.com/news/nation-world/world/article280205024.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-snaps-ai-chatbot-draws-scrutiny-in-uk-over-kids-privacy-concerns.md",
-      "title": "Snap’s AI chatbot draws scrutiny in UK over kids’ privacy concerns",
-      "excerpt": "Snap’s AI chatbot has landed the company on the radar of the UK’s data protection watchdog which has raised concerns the tool may be a risk to children’s privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/06/snap-ico-notice/",
-      "originalUrl": "https://techcrunch.com/2023/10/06/snap-ico-notice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/snapchat-my-ai-3.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/06/snap-ico-notice/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/06/snap-ico-notice/amp/",
-      "publishedDateTime": "2023-10-06T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content.md",
-      "title": "AI firms working on “constitutions” to keep AI from spewing toxic content",
-      "excerpt": "Anthropic has published its own AI constitution, rules compiled by company leadership that draw from DeepMind’s published principles, as well as external sources like the UN Declaration of Human Rights, Apple’s terms of service, and so-called “non-Western perspectives.”",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/",
-      "originalUrl": "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/amp/",
-      "publishedDateTime": "2023-10-06T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-graphcore-was-the-uks-ai-championnow-its-scrambling-to-survive.md",
-      "title": "Graphcore Was the UK's AI Champion—Now It’s Scrambling to Survive",
-      "excerpt": "The British chipmaker wanted to challenge the dominance of Nvidia, but having been left out of government AI projects, is urgently looking to raise money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/?n=@",
-      "originalUrl": "https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/?n=@",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/651ff4404baa20ea53f1cbf7/191:100/w_1280,c_limit/shutterstock_1459527239.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-assistive-intelligence-not-artificial-lets-make-it-about-serving-humans.md",
-      "title": "Assistive Intelligence, Not Artificial: Let’s Make It About Serving Humans",
-      "excerpt": "In other fields, the world is already filled with examples of how Assistive Intelligence is making—and can continue to make—the world a better place, from helping to diagnose and treat cancer, to spotting and catching human traffickers, to protecting our global environment and cybersecurity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/06/assistive-intelligence-not-artificial-lets-make-it-about-serving-humans/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/06/assistive-intelligence-not-artificial-lets-make-it-about-serving-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651ebc0e4a8614b468841a52/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 735,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/06/assistive-intelligence-not-artificial-lets-make-it-about-serving-humans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/06/assistive-intelligence-not-artificial-lets-make-it-about-serving-humans/amp/",
-      "publishedDateTime": "2023-10-06T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

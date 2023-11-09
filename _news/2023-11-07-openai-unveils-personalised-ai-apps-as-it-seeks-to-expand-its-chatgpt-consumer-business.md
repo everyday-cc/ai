@@ -289,15 +289,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "How to learn languages using new Vision, Voice and Image ChatGPT AI features"
-    excerpt: "If you are learning a language you can harness the power of AI ChatGPT and its new Vision and image/photo analysis features to learn quicker"
-    publishedDateTime: 2023-11-04T15:03:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-learn-languages-using-new-chatgpt-features-and-ai-models/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 16
   - title: "Forget ChatGPT — Extractive AI Is the Real Game-Changer for Teachers, Students"
     excerpt: "Dougal: Artificial intelligence is here to stay. Schools can embrace it and seize the opportunities it offers or try to resist and become obsolete."
     publishedDateTime: 2023-11-08T14:34:00Z

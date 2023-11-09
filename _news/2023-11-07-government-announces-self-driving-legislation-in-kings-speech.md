@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Britain to be a global leader in self-driving cars, says transport secretary"
+    excerpt: "Britain will be a world leader when it comes to developing self-driving cars, according to the transport secretary. Mark Harper made the claim after an"
+    publishedDateTime: 2023-11-09T08:49:00Z
+    webUrl: "https://cardealermagazine.co.uk/publish/britain-to-be-a-global-leader-in-self-driving-cars-says-transport-secretary/292782"
+    type: article
+    provider:
+      name: Car Dealer Magazine
+      domain: cardealermagazine.co.uk
+    quality: 36
+    images:
+      - url: "https://0a411afb0c598242cc95-1df470064133d6bc5c471837468f475c.ssl.cf3.rackcdn.com/publish/wp-content/uploads/2023/11/An-autonomous-vehicle-trial-via-PA.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "King's Speech reveals huge shake-up for drivers as self-driving cars and buses get boost"
     excerpt: "Brit drivers could see a self-driving revolution over the next decade in changes unrolled in today's King's Speech. The government wants to see more self-driving cars on the roads in what they say will unlock £42billion into the economy with 38,000 jobs ..."
     publishedDateTime: 2023-11-07T15:03:00Z

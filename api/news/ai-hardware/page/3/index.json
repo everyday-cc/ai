@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-18-us-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-nvidia-and-intel.md",
+      "title": "U.S. Tightens Curbs on AI Chip Exports to China, Widening Rift With Nvidia and Intel",
+      "excerpt": "The new rules, which significantly constrict sales of advanced semiconductors to the Chinese market, came despite intense lobbying by chip companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/tech/u-s-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-u-s-businesses-3b9983df",
+      "originalUrl": "https://www.wsj.com/tech/u-s-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-u-s-businesses-3b9983df",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-869788/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T22:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-hive-digital-is-now-a-nvidia-csp-partner-and-announces-gpu-grants-for-open-source-ai-developers.md",
       "title": "HIVE Digital is Now a NVIDIA CSP Partner and Announces GPU Grants for Open-Source AI Developers",
       "excerpt": "HIVE Executive Chairman Frank Holmes commented, \"This contest is our way of supporting the AI community. We want to better understand what AI developers need from their cloud providers. At the ...",
@@ -1361,58 +1413,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023.md",
-      "title": "Meta Extends Its AI Messaging To The Quest 3 And More At Meta Connect 2023",
-      "excerpt": "Principal Analyst, Mobility & VR, Anshel Sag dives deep on the Quest 3 AR headset, Ray-Ban Meta smart glasses and AI-related news from the Meta Connect 2023 event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/10/09/meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/10/09/meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65244ab654f17051ab3d619a/0x0.jpg?format=jpg&width=1200",
-          "width": 936,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/10/09/meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/09/meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023/amp/",
-      "publishedDateTime": "2023-10-09T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

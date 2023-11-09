@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-07-samsung-research-reveals-generative-ai-samsung-gauss.md",
+      "title": "Samsung Research Reveals Generative AI Samsung Gauss",
+      "excerpt": "The Samsung Gauss large language model can assist with code writing and document analysis. Samsung Research has revealed a generative AI assistant called Samsung Gauss that the research group uses internally but may eventually appear in Samsung’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/samsung-gauss-generative-ai/",
+      "originalUrl": "https://www.techrepublic.com/article/samsung-gauss-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/11/Samsung-AI-Forum-Nov82023.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-06-use-generative-ai-to-increase-agent-productivity-through-automated-call-summarization.md",
       "title": "Use generative AI to increase agent productivity through automated call summarization",
       "excerpt": "Your contact center serves as the vital link between your business and your customers. Every call to your contact center is an opportunity to learn more about your customers’ needs and how well you are meeting those needs. Most contact centers require their agents to summarize their conversation after",
@@ -622,7 +674,7 @@
       "originalUrl": "https://www.techspot.com/news/100746-china-sets-sights-mass-producing-advanced-humanoid-robots.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1212,49 +1264,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-ai-ethics-gets-short-shrift-among-employers-oecd.md",
-      "title": "AI Ethics Gets Short Shrift Among Employers: OECD",
-      "excerpt": "The Organisation for Economic Co-operation and Development searched online job offers for AI posts in 14 countries. It found that while the percentage including keywords relating to ethics had ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/ai-ethics-gets-short-shrift-among-employers-oecd-e0e1026e",
-      "originalUrl": "https://www.barrons.com/news/ai-ethics-gets-short-shrift-among-employers-oecd-e0e1026e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
-          "width": 1320,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/ai-ethics-gets-short-shrift-among-employers-oecd-e0e1026e",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-ethics-gets-short-shrift-among-employers-oecd-e0e1026e",
-      "publishedDateTime": "2023-11-06T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

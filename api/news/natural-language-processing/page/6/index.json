@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-08-ibm-unveils-generative-ai-foundation-models.md",
+      "title": "IBM unveils generative AI foundation models",
+      "excerpt": "IBM Granite series foundation models apply generative AI to natural language and coding tasks. Plus, Watsonx generative AI capabilities are coming to the Watsonx data lakehouse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.html",
+      "originalUrl": "https://www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/09/06/11/shutterstock_editorial_157995017-100945577-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.amp.html",
+      "publishedDateTime": "2023-09-07T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-lost-in-ai-translation-growing-reliance-on-language-apps-jeopardizes-some-asylum-applications.md",
       "title": "Lost in AI translation: growing reliance on language apps jeopardizes some asylum applications",
       "excerpt": "They should never be used to replace translators Ariel Koren AI-powered translation tools are particularly unreliable for languages that are considerably different from English or are less ...",
@@ -1335,49 +1387,6 @@
       "provider": {
         "name": "ABC News",
         "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-cmu-tsinghua-us-prompt2model-generates-deployable-models-following-natural-language-instructions.md",
-      "title": "CMU & Tsinghua U’s Prompt2Model Generates Deployable Models Following Natural Language Instructions",
-      "excerpt": "Large language models (LLMs) have dominated the natural language processing (NLP) field. But building an NLP system in traditional way however requires substantial efforts. To address this issue, researchers and practitioners start to explore how to prototype NLP systems rapidly via “prompting” technique.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2023/08/31/cmu-tsinghua-us-prompt2model-generates-deployable-models-following-natural-language-instructions/",
-      "originalUrl": "https://syncedreview.com/2023/08/31/cmu-tsinghua-us-prompt2model-generates-deployable-models-following-natural-language-instructions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2023/08/image-79.png?resize=950%2C484&ssl=1",
-          "width": 950,
-          "height": 484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2023/08/31/cmu-tsinghua-us-prompt2model-generates-deployable-models-following-natural-language-instructions/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/08/31/cmu-tsinghua-us-prompt2model-generates-deployable-models-following-natural-language-instructions/amp/",
-      "publishedDateTime": "2023-08-30T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-07-26-better-artificial-intelligence-stock-apple-vs-amazon.md",
+      "title": "Better Artificial Intelligence Stock: Apple vs. Amazon",
+      "excerpt": "Additionally, Apple's stock has risen 301% over the last five years, while Amazon's has increased by 43%. The significant difference further solidifies Apple as the more reliable option and the better artificial intelligence stock.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/26/better-artificial-intelligence-stock-apple-vs-amaz/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/26/better-artificial-intelligence-stock-apple-vs-amaz/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740740/analyst-home-investor-stocks-trends.jpg",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform.md",
       "title": "Protect AI raises $35M to expand its AI and machine learning security platform",
       "excerpt": "Protect AI's security platform AI Radar provides AI professionals with real-time visibility for their ML environments.",

@@ -72,6 +72,22 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "Google Expands Generative AI in Search to Over 120 New Countries"
+    excerpt: "Initially, this AI-powered translation capability will be available for English-to-Spanish translations in the United States, with plans to support more countries and languages. Lastly, on relevant searches related to coding and health, specific words will ..."
+    publishedDateTime: 2023-11-09T08:54:00Z
+    webUrl: "https://www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/"
+    ampWebUrl: "https://www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/10/google-io-ai-search-645bf18b5f597-sej-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "6 ways business leaders are exploring generative AI at work"
     excerpt: "But he expects to see rapid progress in the level of automation -- and he advises all professionals to start exploring generative AI. \"I think the speed at which it's come to market and is developing means that everybody should be keeping an eye on it,\" he ..."
     publishedDateTime: 2023-11-08T20:27:00Z

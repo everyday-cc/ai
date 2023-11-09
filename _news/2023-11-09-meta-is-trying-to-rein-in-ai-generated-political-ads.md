@@ -50,6 +50,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "To help 2024 voters, Meta says it will label political ads that use AI-generated imagery"
+    excerpt: "WASHINGTON — Facebook and Instagram will require political ads running on their platforms to disclose if they were created using artificial intelligence, their parent company announced on Wednesday. Under the new policy by Meta, labels acknowledging the ..."
+    publishedDateTime: 2023-11-09T03:22:00Z
+    webUrl: "https://www.10tv.com/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
+    ampWebUrl: "https://www.10tv.com/amp/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
+    cdnAmpWebUrl: "https://www-10tv-com.cdn.ampproject.org/c/s/www.10tv.com/amp/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
+    type: article
+    provider:
+      name: 10TV.com
+      domain: 10tv.com
+    quality: 50
+    images:
+      - url: "https://media.tegna-media.com/assets/CCT/images/d4813838-7a2f-41be-9c90-35d5ee7380e7/d4813838-7a2f-41be-9c90-35d5ee7380e7_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Meta to Require Disclosures for AI-Created, Altered Political Ads"
     excerpt: "advertisers will have to disclose when artificial intelligence (AI) or other digital methods are used to alter or create political, social or election related advertisements on Facebook and Instagram. Meta, the world's second-biggest platform for digital ..."
     publishedDateTime: 2023-11-08T11:14:00Z
@@ -59,22 +75,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "To help 2024 voters, Meta says it will label political ads that use AI-generated imagery"
-    excerpt: "Facebook and Instagram will soon require political ads running on their platforms to disclose if they were created using artificial intelligence."
-    publishedDateTime: 2023-11-09T04:29:00Z
-    webUrl: "https://www.9news.com/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
-    ampWebUrl: "https://www.9news.com/amp/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
-    cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
-    type: article
-    provider:
-      name: 9NEWS
-      domain: 9news.com
-    quality: 48
-    images:
-      - url: "https://media.9news.com/assets/CCT/images/d4813838-7a2f-41be-9c90-35d5ee7380e7/d4813838-7a2f-41be-9c90-35d5ee7380e7_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Meta to start labeling political ads with AI-generated images ahead of 2024 election"
     excerpt: "AI-generated ads are already being used in the U.S. Over the summer, a super PAC supporting Florida Republican Gov. Ron DeSantis for president launched an ad that used AI to mimic former President Donald Trump's voice to criticize Iowa Gov. Kim Reynolds, who has since endorsed DeSantis."
     publishedDateTime: 2023-11-08T13:14:00Z

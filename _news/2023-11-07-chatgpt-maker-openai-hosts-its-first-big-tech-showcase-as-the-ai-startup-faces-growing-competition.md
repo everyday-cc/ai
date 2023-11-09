@@ -284,15 +284,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "How to learn languages using new Vision, Voice and Image ChatGPT AI features"
-    excerpt: "If you are learning a language you can harness the power of AI ChatGPT and its new Vision and image/photo analysis features to learn quicker"
-    publishedDateTime: 2023-11-04T15:03:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-learn-languages-using-new-chatgpt-features-and-ai-models/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 16
   - title: "Forget ChatGPT — Extractive AI Is the Real Game-Changer for Teachers, Students"
     excerpt: "Dougal: Artificial intelligence is here to stay. Schools can embrace it and seize the opportunities it offers or try to resist and become obsolete."
     publishedDateTime: 2023-11-08T14:34:00Z
@@ -312,6 +303,6 @@ related:
       domain: thestreet.com
     quality: 9
 
-secured: "oWCRZKwtq8oW9bGbodumv1jLaU+55cwufmsodR2cZDLqlXBqWM8oYXbztV/6NRa64zIAbtWL0jb1eD+mIVqcvJMuN2ousL51iCwkn/IIOjJPbqjeG7xb7IqkArkLphqg8ravXKI80njZ6dMhquApFIaFd9wbdiI4z1DM3H1aG/7SrMhJxXqdhluJdxkUiecP5JXH96X61d9WmKL0w/WpxM00BGURRGhOW1j/K0q6AtMfUZPiEebDMVriMzCzBnJbJIUbvYTxrtxFQvLJpusoCQy8e5nrGkFBynqLdspjVrk1iyLnSqBpsYPf+YfFtM09z9ezqayUZDIvWl1YHCJcBMNPm8mGvpBKLiZAnd7BI3g=;CxdHZbq68nwQVBV7BXAo8A=="
+secured: "mz9smPWUK4+x3F+9d4jkzXJFc9ErOcOlcyA1nBPEOKVx2i+wBUCZbKn6g6nTPf+aAzUCVnWocj23ASHyhB78agrCx0VdwCz8oR+5nBj2viZSdDP70Dty8Pi5rjeXN/NP3IFf8NteXAuNILqHZSuige77oEBzrh5Tib05MgntQkv5yRBmTNuRaiykS4TvXYqidMjvUUmH6RNXb4RvaUfvH/4G/0+9fKi1LvVWlIqhgB5YkSOXddE16mVlMOm9mU6TA84PO8gYzNpbIr2FjLC1Hz9yv7AdVohKGBYotvpRV99SvJW9MctoHqC1XcqEe9gjfTb82h7+1JbnPOYo1rvXtQSd40l8NMt7R+tvL9LBBYvP8sKvTzbtJcxMyC05kwVmYDaO7U346IrHdQLooydqIQ7OeDLrXr98FcmZZgZ9utYcxa6E3K/TWBtwTRNccJlkgWhMmKQUBh4nFvGbVwEW7tpY/2S22ZE/R61e6ig9s/XnB3QzcTgfFED57MnA3rxi+q1o/zPQmfS2emgjTYAR0g==;eMbMEolebaXU+IitrwwXSg=="
 ---
 

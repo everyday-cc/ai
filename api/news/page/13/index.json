@@ -2,6 +2,186 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-10-28-israels-terrifying-arsenal-of-robot-weaponry-how-ai-powered-turrets-remote-control-boats-and-unmanned-attack-bots-will-be-used-as-the-idf.md",
+      "title": "Israel's terrifying arsenal of ROBOT weaponry: How AI-powered turrets, remote-control boats and unmanned attack bots will be used as the IDF prepares for a full-scale ground ...",
+      "excerpt": "For maximum flexibility, it can be equipped with a range of different payloads including sensors and radars, manipulator arms, or remotely controlled weapons. Weaponised versions of the robot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12675883/Israels-terrifying-arsenal-ROBOT-weaponry-AI-powered-turrets-remote-control-boats-unmanned-attack-bots-used-IDF-prepares-scale-ground-invasion-Gaza.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12675883/Israels-terrifying-arsenal-ROBOT-weaponry-AI-powered-turrets-remote-control-boats-unmanned-attack-bots-used-IDF-prepares-scale-ground-invasion-Gaza.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/10/27/13/77078843-0-image-a-28_1698409251874.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-12675883/amp/Israels-terrifying-arsenal-ROBOT-weaponry-AI-powered-turrets-remote-control-boats-unmanned-attack-bots-used-IDF-prepares-scale-ground-invasion-Gaza.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-12675883/amp/Israels-terrifying-arsenal-ROBOT-weaponry-AI-powered-turrets-remote-control-boats-unmanned-attack-bots-used-IDF-prepares-scale-ground-invasion-Gaza.html",
+      "publishedDateTime": "2023-10-28T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-28-automated-ai-multichannel-multilingual-marketing-brain-for-smb-growth-announced.md",
+      "title": "Automated AI Multichannel, Multilingual Marketing Brain For SMB Growth Announced",
+      "excerpt": "New AI-powered dynamics geared toward lead conversion for small and midsize businesses have been announced - with mBrain bringing forward new",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/automated-ai-multichannel-multilingual-marketing-brain-for-smb-growth-announced-1032750305",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/automated-ai-multichannel-multilingual-marketing-brain-for-smb-growth-announced-1032750305",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-automated-ai-multich-1698405976.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T21:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-28-how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace.md",
+      "title": "How artificial intelligence is monitoring employee performance in the workplace",
+      "excerpt": "Artificial intelligence has been around for years, but the technology is being used in new ways, including to monitor your performance on the job.",
+      "sourceUrl": null,
+      "webUrl": "https://nbc-2.com/features/tech/2023/10/27/how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace/",
+      "originalUrl": "https://nbc-2.com/features/tech/2023/10/27/how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nbc-2.com/wp-content/uploads/2023/10/ashley-nbc-10.27.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nbc-2.com/features/tech/2023/10/27/how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace/",
+      "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2023/10/27/how-artificial-intelligence-is-monitoring-employee-performance-in-the-workplace/",
+      "publishedDateTime": "2023-10-27T20:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC2",
+        "domain": "nbc-2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-28-robocabs-waymo-is-winning-the-fight-its-flight-for-cruise.md",
+      "title": "Robocabs: Waymo is winning the fight; it’s flight for Cruise",
+      "excerpt": "First, a short update on Cruise. After the GM brand reportedly lost its self-driving license in California this week, it suspended all autonomous car activities in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.electrive.com/2023/10/27/robocabs-waymo-is-winning-the-fight-while-its-flight-for-cruise/",
+      "originalUrl": "https://www.electrive.com/2023/10/27/robocabs-waymo-is-winning-the-fight-while-its-flight-for-cruise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.electrive.com/2018/03/jaguar-i-pace-waymo-autonomous-car-autonomes-fahren.png",
+          "width": 1500,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T18:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "electrive",
+        "domain": "electrive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-28-tunnelbear-vpn-review-2023-pricing-ease-of-use-security.md",
       "title": "TunnelBear VPN Review 2023: Pricing, Ease of Use & Security",
       "excerpt": "Read our in-depth analysis of TunnelBear VPN, covering its pricing, ease of use, security features, and more. Find out if this is the right VPN for you.",
@@ -971,195 +1151,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-from-astro-boy-to-pluto-the-history-of-the-greatest-robot-on-earth.md",
-      "title": "From Astro Boy to Pluto: The History of “The Greatest Robot on Earth”",
-      "excerpt": "While Astro Boy was a worldwide hit and contains many well-loved stories, one stands above the others: “The Greatest Robot on Earth.” After being published in the manga, it has been adapted into every anime adaptation of the original story.",
-      "sourceUrl": null,
-      "webUrl": "https://www.animenewsnetwork.com/feature/2023-10-27/from-astro-boy-to-pluto-the-history-of-the-greatest-robot-on-earth/.203470",
-      "originalUrl": "https://www.animenewsnetwork.com/feature/2023-10-27/from-astro-boy-to-pluto-the-history-of-the-greatest-robot-on-earth/.203470",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ9/cms/feature/203470/pluto-anime.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Anime News Network",
-        "domain": "animenewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-generative-ai-in-real-estate-emphasizing-whats-human-in-housing.md",
-      "title": "Generative AI In Real Estate: Emphasizing What’s Human In Housing",
-      "excerpt": "Here are a few ways generative AI can enhance the housing industry from a resources and processes perspective.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/653add73b8a4fb3de24d55c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1247,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/amp/",
-      "publishedDateTime": "2023-10-27T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-tesla-faces-automated-driving-rival-in-geely-and-baidu-ev.md",
-      "title": "Tesla Faces Automated Driving Rival in Geely and Baidu EV",
-      "excerpt": "Competition is intensifying in China’s automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-10-27/tesla-faces-self-driving-challenger-as-geely-and-baidu-launch-ev",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-10-27/tesla-faces-self-driving-challenger-as-geely-and-baidu-launch-ev",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-ai-and-the-future-of-work-adapting-to-a-changing-landscape.md",
-      "title": "AI And The Future Of Work: Adapting To A Changing Landscape",
-      "excerpt": "Nvidia, a leading technology company, recently announced a significant increase in earnings, with their revenue doubling due to the high demand for its AI chips that power new machine learning applications;",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6307744cdf865cb5591b5fd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
-      "publishedDateTime": "2023-10-27T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

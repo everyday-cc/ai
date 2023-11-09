@@ -166,7 +166,7 @@
       "originalUrl": "https://www.ndtv.com/world-news/britain-says-car-makers-not-owners-liable-for-self-driving-crashes-4555517",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -621,49 +621,6 @@
       ]
     },
     {
-      "path": "_news/2023-11-01-5-best-ai-stocks-to-invest-in-for-2023.md",
-      "title": "5 Best AI Stocks to Invest In for 2023",
-      "excerpt": "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-01-what-are-autonomous-car-levels-levels-1-to-5-of-driverless-vehicle-tech-explained.md",
       "title": "What are autonomous car levels? Levels 1 to 5 of driverless vehicle tech explained",
       "excerpt": "To make things easier, we’ve explained every level of driverless tech ... the rapid development of artificial intelligence (AI) and the sophistication of the computers crunching it, will ...",
@@ -872,8 +829,8 @@
       "title": "'Will There Be Accidents? Absolutely': Lawyers Preparing for Self-Driving Semi-Trucks",
       "excerpt": "Lawyers are going to have to start thinking about different defendants, said plaintiff attorney Amy Witherite of the Witherite Firm based in Dallas, Fort Worth, Atlanta and Chicago.",
       "sourceUrl": null,
-      "webUrl": "https://www.law.com/texaslawyer/2023/10/30/will-there-be-accidents-absolutely-lawyers-preparing-for-self-driving-semi-trucks/",
-      "originalUrl": "https://www.law.com/texaslawyer/2023/10/30/will-there-be-accidents-absolutely-lawyers-preparing-for-self-driving-semi-trucks/",
+      "webUrl": "https://www.law.com/2023/10/30/will-there-be-accidents-absolutely-lawyers-preparing-for-self-driving-semi-trucks/",
+      "originalUrl": "https://www.law.com/2023/10/30/will-there-be-accidents-absolutely-lawyers-preparing-for-self-driving-semi-trucks/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1011,6 +968,49 @@
         "AI in Autos",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-10-30-americans-need-not-fear-artificial-intelligence.md",
+      "title": "Americans Need Not Fear Artificial Intelligence",
+      "excerpt": "We should not irrationally fear AI, or refuse to use AI-enabled capabilities. But we should be extremely cautious about granting extensive power to AI. Not because AI might wake up and decide we are the enemy (which is possible, but irrelevant), but because such a system is the poster child for a normal accident or system accident.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationalreview.com/2023/10/americans-need-not-fear-artificial-intelligence/",
+      "originalUrl": "https://www.nationalreview.com/2023/10/americans-need-not-fear-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/robot-hand-keyboard.jpg?fit=1200%2C700&ssl=1",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nationalreview.com/2023/10/americans-need-not-fear-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/2023/10/americans-need-not-fear-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-10-30T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Review",
+        "domain": "nationalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {

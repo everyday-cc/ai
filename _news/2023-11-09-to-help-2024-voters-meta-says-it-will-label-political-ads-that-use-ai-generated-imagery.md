@@ -1,26 +1,27 @@
 ---
 category: news
 title: "To help 2024 voters, Meta says it will label political ads that use AI-generated imagery"
-excerpt: "Facebook and Instagram will soon require political ads running on their platforms to disclose if they were created using artificial intelligence."
-publishedDateTime: 2023-11-09T04:29:00Z
-originalUrl: "https://www.9news.com/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
-webUrl: "https://www.9news.com/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
-ampWebUrl: "https://www.9news.com/amp/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
-cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
+excerpt: "WASHINGTON — Facebook and Instagram will require political ads running on their platforms to disclose if they were created using artificial intelligence, their parent company announced on Wednesday. Under the new policy by Meta, labels acknowledging the ..."
+publishedDateTime: 2023-11-09T03:22:00Z
+originalUrl: "https://www.10tv.com/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
+webUrl: "https://www.10tv.com/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
+ampWebUrl: "https://www.10tv.com/amp/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
+cdnAmpWebUrl: "https://www-10tv-com.cdn.ampproject.org/c/s/www.10tv.com/amp/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
 type: article
-quality: 48
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: 9NEWS
-  domain: 9news.com
+  name: 10TV.com
+  domain: 10tv.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://media.9news.com/assets/CCT/images/d4813838-7a2f-41be-9c90-35d5ee7380e7/d4813838-7a2f-41be-9c90-35d5ee7380e7_1140x641.jpg"
+  - url: "https://media.tegna-media.com/assets/CCT/images/d4813838-7a2f-41be-9c90-35d5ee7380e7/d4813838-7a2f-41be-9c90-35d5ee7380e7_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -128,6 +129,6 @@ related:
       domain: thedailybeast.com
     quality: 17
 
-secured: "zDQMMJ6SKYuU19JJPvOpVUIbq8XJ9eGHc0ZaZy5vd7rkx5jImKr0PuZmeoqgijjcmyTCoLkT6UWkWRTuflI5m6ZKN3wKy4Ees4mauA3FXbz9C5GONuvzJMUMd+gQFG61oHL1Rv2+XLNV0ohW+ygjIOAWP6d0KFYuBg6Ndn6fU1UO/YYnrI10PHhmP32dIGVHtqrM2ng9WuYhL4Cj0owA6PYu0HIcEabJW+aEXD2vPTe38+rxdWC8jkhUhhRmIGrpJ7Fy/dUElyHfTn/CeRQCjroGzMlUXCP0Bi5gZts4ChjBgvP4qgvhUYFtlAIJ5UiVKv0W29bAWIIgrcOdWkjoElI2aamqzIKIZgEy6W9qqSo=;AGKb46yhM2Cc5xw26/0N3Q=="
+secured: "1ywpbI9o39w/ESwLlGpYIrWM19tkCB9vNMAMgqGYM0m9rmRjM/vpGlQ+Itez0hvBM7vLKrYTK4JKGJZIm7KYDONB+DbD7NBV6oTrpvrP2FiZurEUEcDXtr4LkuT0NcqvB2YS24B2hFCWSxj+bsL9YRDSfB1u/NK7cDBnLTzeZvg7iZZCwma+fq+GtCdT4EfTX1aivF1rop/2opSZ4LettVNLHCaxow3eEkb/gAZzfqwmj7pyslVp3j4IxopFbI72up3/tqlOWpE4iLOsG5BXyAe6SVoFJE0FwEz7nWYJy6fMjV1ehEiWwd7eg0D9yeNBRa5xe2jG3Eys0FwAkHIJra0TYYqsDRJ0B5av8WYQFsw=;D/EfHJKwwLFdwAfx4BKtzQ=="
 ---
 

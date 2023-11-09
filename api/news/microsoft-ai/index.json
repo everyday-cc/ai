@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-09-data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience.md",
+      "title": "Data security firm Rubrik launches ‘Ruby’ genAI companion to improve cyber resilience",
+      "excerpt": "The company will leverage Microsoft’s Azure OpenAI, in combination with its machine learning-driven Data Threat Engine, to help discover, investigate, remediate, and report on cyber incidents. Ruby helps customers of all levels of cyber expertise through ...",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-105088070,imgsize-50970,width-1200,height=765,overlay-ettelecom/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070",
+      "publishedDateTime": "2023-11-08T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-tech-moves-seattle-marketing-vet-lands-at-ionq-microsoft-principal-researcher-joins-startup.md",
       "title": "Tech Moves: Seattle marketing vet lands at IonQ; Microsoft principal researcher joins startup",
       "excerpt": "Margaret Arakawa, a longtime Seattle-area marketing leader, joined IonQ as chief marketing officer. Arakawa was",
@@ -317,7 +361,7 @@
       "originalUrl": "https://techcrunch.com/2023/11/6/chatgpt-everything-to-know-about-the-ai-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 321,
+      "heat": 311,
       "tags": null,
       "images": [
         {
@@ -1333,58 +1377,6 @@
         "name": "The Victoria Advocate",
         "domain": "victoriaadvocate.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-ai-is-finally-resulting-in-real-growth-for-big-tech.md",
-      "title": "AI is finally resulting in real growth for big tech",
-      "excerpt": "including going up 29% at Azure, three percentage points better than analysts expected. Investors liked that a lot. The market’s reaction to the two sets of data provides their grading, but we care about the AI-related components that went into the top ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/25/microsoft-alphabet-earnings-ai-analysis/",
-      "originalUrl": "https://techcrunch.com/2023/10/25/microsoft-alphabet-earnings-ai-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/microsoft-getty-hacks-government.jpg?resize=1200,816",
-          "width": 1200,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

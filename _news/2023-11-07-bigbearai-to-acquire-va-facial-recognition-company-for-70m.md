@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Mobile device biometrics generate big sensors sale, back extensive airport trial"
-    excerpt: "A pair of major developments in native device biometrics were among the most-read news articles of the past week on Biometric Update."
-    publishedDateTime: 2023-11-04T15:00:00Z
-    webUrl: "https://www.biometricupdate.com/202311/mobile-device-biometrics-generate-big-sensors-sale-back-extensive-airport-trial"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 14
 
 secured: "WOAyGwfmh+HSifDmjtshwB97X9bo1hx6h8XZlg6uEdSvuFqXyvRyjVgpS5RR32qPj2oxdg0dfsCjrAVyiIXgOG9CZb/CJsiN1z+uZ8H5JlALc7ocUf6d12PopjUZpO5gqOgwVxAlMI9v/l3kyunXuINIrMX1Zb+pot6oSGdwKRabti70cq+sHRCCMk5En7XaCukGFVMjxe0iVqW6tbeiLuxHBPdsUIgeIssL96rcgFgcw2J3XshQ9QPF+RsrH5fOTMxNTgxURdXIHY9yFbT9HaAsifDQrDdVJUQ/cgmcfsTNbbRMtROhOp3b9jzMFRoPeaRq8ZWK9cSoQflhtRyNZJrLtiAL+PDXmoQJjd1IxnAFktwaPFz7VVbEg17tE9YBgMFqbHLdDwT36mv+rBUlOiRvbOCU3xjp7ZTbf4anNDIOSh+6WqnulFS1sqOYjb7Y7G5SRIDKrm1eYFSvIB8pdAAKC0m3CwbZsl4/It39VVC0/YRPmZFBh4Xm0gynmxKIYQnoEa/dAaJN4CiLdEgPfw==;HOx3HV/CJLnNHL3QzYrJ4Q=="
 ---

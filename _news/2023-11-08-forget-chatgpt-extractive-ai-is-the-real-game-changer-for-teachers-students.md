@@ -292,15 +292,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "How to learn languages using new Vision, Voice and Image ChatGPT AI features"
-    excerpt: "If you are learning a language you can harness the power of AI ChatGPT and its new Vision and image/photo analysis features to learn quicker"
-    publishedDateTime: 2023-11-04T15:03:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-learn-languages-using-new-chatgpt-features-and-ai-models/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 16
   - title: "Nearly 400 crypto tokens based on Elon Musk's new X (Twitter) AI chatbot hit the market"
     excerpt: "Opportunistic players in the crypto space have not hesitated to capitalize on the hype around the term “Grok” since Musk’s announcement."
     publishedDateTime: 2023-11-06T21:47:00Z

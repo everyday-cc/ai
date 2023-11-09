@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/4-ways-to-empower-small-and-medium-busine
 webUrl: "https://www.ibm.com/blog/4-ways-to-empower-small-and-medium-businesses-with-generative-ai/"
 type: article
 quality: 99
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65445a963c54432cb0323b93/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1349
         height: 900
+        isCached: true
+  - title: "Google Expands Generative AI in Search to Over 120 New Countries"
+    excerpt: "Initially, this AI-powered translation capability will be available for English-to-Spanish translations in the United States, with plans to support more countries and languages. Lastly, on relevant searches related to coding and health, specific words will ..."
+    publishedDateTime: 2023-11-09T08:54:00Z
+    webUrl: "https://www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/"
+    ampWebUrl: "https://www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/10/google-io-ai-search-645bf18b5f597-sej-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How to Leverage Generative Artificial Intelligence in Customer Service"
     excerpt: "One way for businesses to leverage generative AI to improve the customer experience is to upgrade their call center technology with AI-driven solutions. This includes implementing intelligent bots to directly handle certain aspects of the customer experience while enhancing others."

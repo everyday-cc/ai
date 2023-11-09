@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-28-alibaba-cloud-launches-sustainability-web-application-and-virtual-sign-language-interpreter-for-the-hangzhou-asian-games.md",
+      "title": "Alibaba Cloud Launches Sustainability Web Application And Virtual Sign Language Interpreter For The Hangzhou Asian Games",
+      "excerpt": "HANGZHOU, CHINA - Media OutReach - 28 September 2023 - In an effort to promote the sustainability and inclusiveness of the Asian Games and the Asian",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107157254/Alibaba-Cloud-Launches-Sustainability-Web-Application-And-Virtual-Sign-Language-Interpreter-For-The-Hangzhou-Asian-Games",
+      "originalUrl": "https://menafn.com/1107157254/Alibaba-Cloud-Launches-Sustainability-Web-Application-And-Virtual-Sign-Language-Interpreter-For-The-Hangzhou-Asian-Games",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-09/28/MON_5ffc4image_story.png",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-breaking-language-barriers-thebigwords-ai-workflows-enhance-translation-delivery-on-time-to-99-while-significantly-reducing-turnaround-times.md",
       "title": "Breaking language barriers: thebigword's AI workflows enhance translation delivery on time to 99% while significantly reducing turnaround times",
       "excerpt": "With the ever-growing demand for rapid and high-quality translations, thebigword has taken numerous steps, including the ability to create and implement self-driving AI workflows, to ensure their clients are receiving the highest quality of translation and customer service.",
@@ -1276,58 +1319,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-regional-australia-believes-in-a-fair-go-so-what-does-that-mean-for-the-voice.md",
-      "title": "Regional Australia believes in a fair go, so what does that mean for the voice?",
-      "excerpt": "Traditional owners have stood alongside farmers to fight against mining developments on farmland – but so far that solidarity has not been returned",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2023/sep/20/indigenous-voice-to-parliament-referendum-regional-australia-support-polls",
-      "originalUrl": "https://www.theguardian.com/australia-news/2023/sep/20/indigenous-voice-to-parliament-referendum-regional-australia-support-polls",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/2ff14d89b8d3d20424b9c1574f39449663df4e3b/0_365_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=700577450433f03e730103537da619b1",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/australia-news/2023/sep/20/indigenous-voice-to-parliament-referendum-regional-australia-support-polls",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/20/indigenous-voice-to-parliament-referendum-regional-australia-support-polls",
-      "publishedDateTime": "2023-09-19T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

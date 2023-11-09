@@ -48,15 +48,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
-  - title: "Mobile device biometrics generate big sensors sale, back extensive airport trial"
-    excerpt: "A pair of major developments in native device biometrics were among the most-read news articles of the past week on Biometric Update."
-    publishedDateTime: 2023-11-04T15:00:00Z
-    webUrl: "https://www.biometricupdate.com/202311/mobile-device-biometrics-generate-big-sensors-sale-back-extensive-airport-trial"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 14
 
 secured: "BXUD7ce+0jeyiAWyH9n5UGnBOMeA/iihLnbFk3/QELU7jpyJXXXYdzm5Bl36jacW7Iiko9cd0frGIIp5n4o66GzdXNSPYuW+rm9n7hy0Z875BqniqNjb2NVtMyrc//CCqTCR69sm1KgP8QXWHqC8j6k7gGDBynLu/xhqRKrcztXb9+XC8BNRMchbEBhK0Dd/XOaHVUg7bZFLKQufbmm4YK3uo9ksU8825cjXfPdknOaFV+nBJJCE5eajts5fN8mZ3kDqtJeL5XGOcQyMenFISYxqQlY0p32fmaehkaO04ri6xBDQXxQaNd4kccbcBTtwm89nbBQ2Gz2S9MymCHtdx+IiK+VdMA9JcT11V1UXqvdbQF/Gv7a/a6cSQtLs39glG/W9/sIXyNOaNLVzXOLW1kxQ+Uz1fooc3B30u1CK3IrwHO/fq+w9lZL706WUK5Kh+K5bVUPHJf55dAH1i3v9h5N88qMSBtmWhAEMg5LdLk+ulKNglJswM9nB8dTc7zQAZGItz6d7Sj5B+sbh+rMxNw==;kdNw7qADw9KDXXilL4eeaw=="
 ---

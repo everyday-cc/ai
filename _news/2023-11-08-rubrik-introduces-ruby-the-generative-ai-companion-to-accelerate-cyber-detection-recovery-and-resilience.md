@@ -21,33 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Hariri Institute, Wheelock collaborate to research AI’s impact on education"
-    excerpt: "The ChatGPT AI natural language processing tool displayed on a phone. An initiative launched by the Hariri Institute for Computing and Computational Science and Engineering and Wheelock College aims to connect research in artificial intelligence with ..."
-    publishedDateTime: 2023-11-09T02:46:00Z
-    webUrl: "https://dailyfreepress.com/2023/11/08/hariri-institute-wheelock-collaborate-to-research-ais-impact-on-education/"
+  - title: "Data security firm Rubrik launches ‘Ruby’ genAI companion to improve cyber resilience"
+    excerpt: "The company will leverage Microsoft’s Azure OpenAI, in combination with its machine learning-driven Data Threat Engine, to help discover, investigate, remediate, and report on cyber incidents. Ruby helps customers of all levels of cyber expertise through ..."
+    publishedDateTime: 2023-11-09T07:01:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070"
     type: article
     provider:
-      name: The Daily Free Press
-      domain: dailyfreepress.com
-    quality: 54
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 69
     images:
-      - url: "https://dailyfreepress.com/wp-content/uploads/Digital_Courtesy_ChatGPT-400x267.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "Provost’s Office, Data Science Institute launch artificial intelligence conversation series"
-    excerpt: "On Nov. 2, the Office of the Provost — in partnership with the Data Science Institute — launched a year-long discussion series about concepts related to artificial intelligence and machine learning with a “Let’s Chat about ChatGPT” event."
-    publishedDateTime: 2023-11-06T03:19:00Z
-    webUrl: "https://www.browndailyherald.com/article/2023/11/provosts-office-data-science-institute-launch-artificial-intelligence-conversation-series"
-    type: article
-    provider:
-      name: The Brown Daily Herald
-      domain: browndailyherald.com
-    quality: 29
-    images:
-      - url: "https://snworksceo.imgix.net/bdh/bef3d660-edb0-471a-8867-dbaa7bbb099f.sized-1000x1000.jpg?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces"
-        width: 1600
-        height: 900
+      - url: "https://etimg.etb2bimg.com/thumb/msid-105088070,imgsize-50970,width-1200,height=765,overlay-ettelecom/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Rubrik Introduces Ruby, The Generative AI Companion To Accelerate Cyber Detection, Recovery, And Resilience"
     excerpt: "The company will leverage Microsoft’s Azure OpenAI, in combination with its machine learning-driven Data Threat Engine, to help discover, investigate, remediate, and report on cyber incidents. The company’s newest AI companion, Ruby, extends Rubrik ..."

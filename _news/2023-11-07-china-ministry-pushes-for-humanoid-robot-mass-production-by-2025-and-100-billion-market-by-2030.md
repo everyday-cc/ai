@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Smart disruption? China will mass-produce AI-powered humanoid robots by 2025 to unsettle industry"
+    excerpt: "China hopes to disrupt industries and how factories function just like how smartphones disrupted human interaction. For that, they are planning to start manufacturing AI powered humanoid robots en mas"
+    publishedDateTime: 2023-11-09T08:23:00Z
+    webUrl: "https://www.firstpost.com/tech/china-to-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry-13368592.html"
+    ampWebUrl: "https://www.firstpost.com/tech/china-to-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry-13368592.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/china-to-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry-13368592.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 61
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/11/Mindless-disruption-China-to-mass-produce-AI-powered-humanoid-robots-by-2025-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "China aims to mass-produce humanoid robots by 2027"
     excerpt: "The Chinese government has announced its intention to accelerate the design and mass production of autonomous humanoid robots to meet needs in industry, services and personal assistance."
     publishedDateTime: 2023-11-09T02:00:00Z

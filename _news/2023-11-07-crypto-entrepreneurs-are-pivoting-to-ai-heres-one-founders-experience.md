@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/crypto-entrepreneurs-are-pivoting-to-
 webUrl: "https://www.wsj.com/articles/crypto-entrepreneurs-are-pivoting-to-ai-heres-one-founders-experience-34be4c51"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?694398"
         width: 400
         height: 250
+        isCached: true
+  - title: "AI infrastructure startup Ritual raises $25M to fill gaps in crypto"
+    excerpt: "Investors including Balaji Srinivasan, Accomplice, Robot Ventures, Accel, Dialectic, Anagram, Avra and Hypersphere joined the $25 million Series A funding round."
+    publishedDateTime: 2023-11-09T08:04:00Z
+    webUrl: "https://cointelegraph.com/news/ai-infrastructure-startup-ritual-raises-25-m-gaps-crypto"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 37
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-11/e4b7f57a-a85d-46d5-bc3c-8713acfb43f3.jpg"
+        width: 1200
+        height: 799
         isCached: true
   - title: "In D.C., crypto is pivoting to tokenization—if AI doesn’t take the spotlight first"
     excerpt: "D.C. Fintech Week is not your average crypto conference. There are no yachts, which would likely have trouble navigating the Potomac, nor edible delights shaped after the organizers' favorite tokens. Instead, the annual event—now in its seventh year—draws bureaucrats and policy wonks ready to discuss the merits of digital assets."

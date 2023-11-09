@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-08-microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access.md",
+      "title": "Microsoft partners with VCs to give startups free AI chip access",
+      "excerpt": "Microsoft is launching a program that'll allow startups at partnered VCs, including Y Combinator and M12, to use Azure infrastructure to train AI.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/",
+      "originalUrl": "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 312,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-472556610.jpg?resize=1200,797",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/amp/",
+      "publishedDateTime": "2023-11-07T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-advancements-in-ai-these-companies-are-building-computer-chips-with-live-neurons.md",
       "title": "Advancements in AI: These Companies are Building Computer Chips with Live Neurons",
       "excerpt": "Companies, like VERSES AI Inc. (NEO: VERS) (OTCQB: VRSSF) are racing toward Artificial General Intelligence (AGI), where AI can perform all human cognitive skills better than the smartest human, as noted by Forbes.",
@@ -704,7 +757,7 @@
       "originalUrl": "https://www.wsj.com/articles/crypto-entrepreneurs-are-pivoting-to-ai-heres-one-founders-experience-34be4c51",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1136,7 +1189,7 @@
       "originalUrl": "https://techcrunch.com/2023/11/6/chatgpt-everything-to-know-about-the-ai-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 321,
+      "heat": 311,
       "tags": null,
       "images": [
         {
@@ -1178,58 +1231,6 @@
         "Microsoft AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-samsung-research-reveals-generative-ai-samsung-gauss.md",
-      "title": "Samsung Research Reveals Generative AI Samsung Gauss",
-      "excerpt": "The Samsung Gauss large language model can assist with code writing and document analysis. Samsung Research has revealed a generative AI assistant called Samsung Gauss that the research group uses internally but may eventually appear in Samsung’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/samsung-gauss-generative-ai/",
-      "originalUrl": "https://www.techrepublic.com/article/samsung-gauss-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/11/Samsung-AI-Forum-Nov82023.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],
