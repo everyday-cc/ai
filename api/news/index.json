@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-09-this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry.md",
+      "title": "This Norwegian AI Powered Startup Has Big Plans For The Meat Industry",
+      "excerpt": "By combining deep technical and industry knowledge and avoiding using more animals than required, Volur technology plans to maximize utilization of animals for an",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danieladelorenzo/2023/11/09/this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry/",
+      "originalUrl": "https://www.forbes.com/sites/danieladelorenzo/2023/11/09/this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6548119d7062ae40eeaee9ad/0x0.jpg?format=jpg&crop=2092,1282,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1469,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danieladelorenzo/2023/11/09/this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danieladelorenzo/2023/11/09/this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry/amp/",
+      "publishedDateTime": "2023-11-08T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-galaxy-ai-likely-to-debut-on-galaxy-s24-series-ai-live-translate-call-feature-revealed.md",
+      "title": "Galaxy AI likely to debut on Galaxy S24 series, AI Live Translate Call feature revealed",
+      "excerpt": "Samsung has announced the Galaxy AI, an AI-powered initiative designed to enhance the user experience on its upcoming devices. According to the company, this comprehensive AI solution leverages both on-device AI developed by Samsung and cloud-based AI enabled through collaborations with industry partners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/11/09/galaxy-ai-likely-to-debut-on-galaxy-s24-series-ai-live-translate-call-feature-revealed/",
+      "originalUrl": "https://www.gizmochina.com/2023/11/09/galaxy-ai-likely-to-debut-on-galaxy-s24-series-ai-live-translate-call-feature-revealed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/11/AI-Live-Translate-Call-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T20:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-disrupting-centralised-structures-of-digital-economy-using-ai-and-blockchain.md",
       "title": "Disrupting centralised structures of digital economy using AI and Blockchain",
       "excerpt": "Access to AI and blockchain technologies has been democratised, but humans still lack full control of their digital interactions. This is now beginning to change.",
@@ -61,7 +164,7 @@
       "originalUrl": "https://dailyfreepress.com/2023/11/08/hariri-institute-wheelock-collaborate-to-research-ais-impact-on-education/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1112,101 +1215,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/amp/",
       "publishedDateTime": "2023-11-08T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-the-bibfconcludes-a-tech-masterclass-on-machine-learning-in-banking-finance.md",
-      "title": "The BIBFconcludes a tech masterclass on \"Machine learning in banking & finance\"",
-      "excerpt": "Embracing machine learning technologies in the financial sector allows institutions to gain a competitive edge, enhance decision-making processes, and improve financial endeavors.\" Ms. Maryam also mentioned that the 'Tech Masterclass' concept was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/the-bibfconcludes-a-tech-masterclass-on-machine-learning-in-banking-and-finance-bl65vhzi",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/the-bibfconcludes-a-tech-masterclass-on-machine-learning-in-banking-and-finance-bl65vhzi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MTQ2Yjg3ODAtY2MwNy00/0/1-jpg.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/the-bibfconcludes-a-tech-masterclass-on-machine-learning-in-banking-and-finance-bl65vhzi?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/the-bibfconcludes-a-tech-masterclass-on-machine-learning-in-banking-and-finance-bl65vhzi?amp=1",
-      "publishedDateTime": "2023-11-08T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-context-is-king-how-ctos-can-ensure-generative-ai-delivers-expected-outcomes.md",
-      "title": "Context Is King: How CTOs Can Ensure Generative AI Delivers Expected Outcomes",
-      "excerpt": "Often, the reason for change comes down to the fact that most companies have a labor problem. Either organizations are short-staffed or teams are getting bogged down in manual, repetitive toil that slows everything down. This creates extra costs when too much of your employees' time is spent on low-value tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/context-is-king-how-ctos-can-ensure-generative-ai-delivers-expected-outcomes/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/context-is-king-how-ctos-can-ensure-generative-ai-delivers-expected-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64dbb92acf0ab1302db1ea3f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/context-is-king-how-ctos-can-ensure-generative-ai-delivers-expected-outcomes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/08/context-is-king-how-ctos-can-ensure-generative-ai-delivers-expected-outcomes/amp/",
-      "publishedDateTime": "2023-11-08T03:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

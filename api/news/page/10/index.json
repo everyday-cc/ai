@@ -2,6 +2,106 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-10-31-leveraging-machine-learning-for-advanced-business-analytics.md",
+      "title": "Leveraging machine learning for advanced business analytics",
+      "excerpt": "Artificial intelligence (AI) is gradually dominating today's entire world, and every sector and industry is exploiting AI's potential to revolutionize their own sectors. Machine learning techniques are being used by modern businesses and organizations to derive important",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/guest-articles/guest-opinion/leveraging-machine-learning-for-advanced-business-analytics.html",
+      "originalUrl": "https://itwire.com/guest-articles/guest-opinion/leveraging-machine-learning-for-advanced-business-analytics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-biden-signs-executive-order-aimed-at-creating-ai-safeguards.md",
+      "title": "Biden signs executive order aimed at creating AI safeguards",
+      "excerpt": "President Joe Biden signed a sweeping executive order Monday designed to create safeguards and security standards around artificial intelligence. (Oct. 30)",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/video/artificial-intelligence-executive-orders-united-states-government-national-national-27d10a7446ee4af991db09f71d7adb41",
+      "originalUrl": "https://apnews.com/video/artificial-intelligence-executive-orders-united-states-government-national-national-27d10a7446ee4af991db09f71d7adb41",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-ct-artificial-intelligence-jobs-still-scarce-amid-big-push-and-looming-oversight.md",
+      "title": "CT artificial intelligence jobs still scarce amid big push — and looming oversight",
+      "excerpt": "As federal and Connecticut lawmakers scramble to control artificial intelligence, AI jobs are still scarce in this state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/business/article/ct-artificial-intelligence-ai-biden-blumenthal-18456485.php",
+      "originalUrl": "https://www.chron.com/business/article/ct-artificial-intelligence-ai-biden-blumenthal-18456485.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T15:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-records-show-first-responders-in-austin-struggling-to-respond-to-cruises-self-driving-cars.md",
       "title": "Records show first responders in Austin struggling to respond to Cruise's self-driving cars",
       "excerpt": "Austin's first responders grappled with how to manage Cruise's robot cars and their \"alarming\" behavior, records obtained by KUT show.",
@@ -916,145 +1016,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-can-ai-resolve-your-issues-with-a-colleague.md",
-      "title": "Can AI Resolve Your Issues With A Colleague?",
-      "excerpt": "Can AI help employees resolve their differences, easing the personal and business challenges that often come with workplace conflicts?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/annashields/2023/10/30/can-ai-resolve-your-issues-with-a-colleague/",
-      "originalUrl": "https://www.forbes.com/sites/annashields/2023/10/30/can-ai-resolve-your-issues-with-a-colleague/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/653b106628221b4c3a281f1a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/annashields/2023/10/30/can-ai-resolve-your-issues-with-a-colleague/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annashields/2023/10/30/can-ai-resolve-your-issues-with-a-colleague/amp/",
-      "publishedDateTime": "2023-10-30T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-intel-is-counting-on-ai-inference-to-save-the-xeon-cpu.md",
-      "title": "Intel Is Counting On AI Inference To Save The Xeon CPU",
-      "excerpt": "There is little question that generative AI as well as other kinds of machine learning are going to augment applications in every industry and in every part of the application stack in the coming years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/10/30/intel-is-counting-on-ai-inference-to-save-the-xeon-cpu/",
-      "originalUrl": "https://www.nextplatform.com/2023/10/30/intel-is-counting-on-ai-inference-to-save-the-xeon-cpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2023/07/intel-xeon-xp-logo.jpg",
-          "width": 765,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/10/30/intel-is-counting-on-ai-inference-to-save-the-xeon-cpu/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/10/30/intel-is-counting-on-ai-inference-to-save-the-xeon-cpu/amp/",
-      "publishedDateTime": "2023-10-30T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-groundbreaking-new-trading-ai-from-algosoneai-uses-deep-learning-for-win-rates-over-80.md",
-      "title": "Groundbreaking New Trading AI from AlgosOne.ai Uses Deep Learning for Win Rates Over 80%",
-      "excerpt": "AlgosOne.ai has an EU-issued license for providing financial services, including crypto trading. It integrates advanced risk management and hedging tools, has investment caps for each trade, diversifies trading across multiple markets, and provides partial compensation on any unsuccessful trades.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/groundbreaking-new-trading-ai-from-algosone-ai-uses-deep-learning-for-win-rates-over-80-1032754536",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/groundbreaking-new-trading-ai-from-algosone-ai-uses-deep-learning-for-win-rates-over-80-1032754536",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing",
-        "AI in Finance"
       ]
     }
   ],

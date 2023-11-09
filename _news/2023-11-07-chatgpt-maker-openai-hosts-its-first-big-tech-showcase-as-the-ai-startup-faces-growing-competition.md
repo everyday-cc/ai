@@ -2,25 +2,27 @@
 category: news
 title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
 excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT has unveiled the future it has in mind for its artificial intelligence technology"
-publishedDateTime: 2023-11-06T16:15:00Z
-originalUrl: "https://www.washingtonpost.com/business/2023/11/06/chatgpt-openai-tech-showcase/7b091e0a-7cb9-11ee-b5cc-66c30a3bbb91_story.html"
-webUrl: "https://www.washingtonpost.com/business/2023/11/06/chatgpt-openai-tech-showcase/7b091e0a-7cb9-11ee-b5cc-66c30a3bbb91_story.html"
+publishedDateTime: 2023-11-06T22:22:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/chatgpt-maker-openai-hosts-big-tech-showcase-ai-104658996"
+webUrl: "https://abcnews.go.com/Technology/wireStory/chatgpt-maker-openai-hosts-big-tech-showcase-ai-104658996"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/chatgpt-maker-openai-hosts-big-tech-showcase-ai-104658996"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chatgpt-maker-openai-hosts-big-tech-showcase-ai-104658996"
 type: article
-quality: 23
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S5ERAWT42QI65NOMM3BQUO53SE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/US/wirestory_da850be425aaa269e2915e9e0b1c726a_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -310,6 +312,6 @@ related:
       domain: thestreet.com
     quality: 9
 
-secured: "qaaZI6GT6PI3SB0YJxbersLsyhp1jZ8vG4eNgwNMsf33c3hEkXORb5AMobQ0p0t7CfzIGfZpjA7NVbmInMB8gPS88k0rIV0Syi+paVr8ZGKs6GQo/dHkSb5wfN7nUUfjeaFI7+JQQpDNASo9xEQo2wLINv8qT2JGd5TZlRft884kGGL4Ui2S5UFTa3BQKFkNK9vVw05PHBgGZOho+14pBtXXOjGLdeEi64RM3mj2jlC/qFZKPN8rNHkZxa49TECg15rcK54KZIzXHkXnDE8IllMkIpBpFwbhlQscs1zspCISSK+5Zj3JraBJB+PocojDkRRCvmWQP+IDwJFySBu1yMGpvapi7vgHOoQoAX102JQqQj6SAvs0+Rw5Xn+7Shr0Z/2xhn+WversHn9ywwAZ8ZFrJOSXJf2B2seBi1gGqda6krs81MjCrFgTBweiCk/WUB1cHVFAzTMjAInR/KILCVzlY3nOgCmDZ3B2nq1Iviam5RwBOWotNeiBjb+2VqG9Htbmab+dCofdwRR5Def4JA==;couf4t1GtfSvGuwsZEhYCg=="
+secured: "oWCRZKwtq8oW9bGbodumv1jLaU+55cwufmsodR2cZDLqlXBqWM8oYXbztV/6NRa64zIAbtWL0jb1eD+mIVqcvJMuN2ousL51iCwkn/IIOjJPbqjeG7xb7IqkArkLphqg8ravXKI80njZ6dMhquApFIaFd9wbdiI4z1DM3H1aG/7SrMhJxXqdhluJdxkUiecP5JXH96X61d9WmKL0w/WpxM00BGURRGhOW1j/K0q6AtMfUZPiEebDMVriMzCzBnJbJIUbvYTxrtxFQvLJpusoCQy8e5nrGkFBynqLdspjVrk1iyLnSqBpsYPf+YfFtM09z9ezqayUZDIvWl1YHCJcBMNPm8mGvpBKLiZAnd7BI3g=;CxdHZbq68nwQVBV7BXAo8A=="
 ---
 

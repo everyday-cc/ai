@@ -2,6 +2,197 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-09-25-rebellions-ai-chip-to-undergo-ibm-quality-testing.md",
+      "title": "Rebellions' AI chip to undergo IBM quality testing",
+      "excerpt": "Korean AI semiconductor startup Rebellions said Monday that its chips were set to undergo quality testing at data centers of IBM Research's AI Hardware Center in New York. IBM Research's AI Hardware Center conducts exhaustive quality testing for enterprise-grade data center processors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20230925000638",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20230925000638",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F09%2F25%2F20230925000591_0.jpg",
+          "width": 630,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20230925000638",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230925000638",
+      "publishedDateTime": "2023-09-24T23:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-09-25-elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste.md",
+      "title": "Elon Musk showcases Tesla humanoid robot performing Yoga, Namaste",
+      "excerpt": "Elon Musk showcased the Tesla humanoid robot named 'Optimus' in a video where it performed yoga postures and greeted followers with a 'Namaste'. Optimus has the ability to self-calibrate its arms and legs and can locate its limbs in space using vision and joint position encoders.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/articleshow/103921976.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/articleshow/103921976.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-46754,msid-103922095/musk-showcases-tesla-humanoid-robot-performing-yoga-namaste.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/amp_articleshow/103921976.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/amp_articleshow/103921976.cms",
+      "publishedDateTime": "2023-09-24T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-25-the-real-economic-problem-of-ai-isnt-tech-but-people.md",
+      "title": "The Real Economic Problem Of AI Isn’t Tech But People",
+      "excerpt": "The discussion has gone off because everyone is pretending that software makes its own decisions, but that is misdirection. The machines still do what people say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eriksherman/2023/09/24/the-real-economic-problem-of-ai-isnt-tech-but-people/",
+      "originalUrl": "https://www.forbes.com/sites/eriksherman/2023/09/24/the-real-economic-problem-of-ai-isnt-tech-but-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651104829b21a4bb90f0d27d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eriksherman/2023/09/24/the-real-economic-problem-of-ai-isnt-tech-but-people/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eriksherman/2023/09/24/the-real-economic-problem-of-ai-isnt-tech-but-people/amp/",
+      "publishedDateTime": "2023-09-24T20:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-25-artificial-intelligence-is-rapidly-changing-the-world-of-medical-imaging.md",
+      "title": "Artificial Intelligence Is Rapidly Changing The World Of Medical Imaging",
+      "excerpt": "Among the most powerful tools that enable modern day healthcare delivery are advanced imaging techniques. Often, these tools are used to validate physical exams, visualize internal anatomy, or triangulate pathology based on subjective symptoms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2023/09/24/artificial-intelligence-is-rapidly-changing-the-world-of-medical-imaging/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2023/09/24/artificial-intelligence-is-rapidly-changing-the-world-of-medical-imaging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6510db66d9d548e5fd06fedb/0x0.jpg?format=jpg&crop=5856,3292,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2023/09/24/artificial-intelligence-is-rapidly-changing-the-world-of-medical-imaging/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/09/24/artificial-intelligence-is-rapidly-changing-the-world-of-medical-imaging/amp/",
+      "publishedDateTime": "2023-09-24T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-25-beijing-at-forefront-of-smart-vehicle-industry.md",
       "title": "Beijing at forefront of smart vehicle industry",
       "excerpt": "In April 2022, Beijing became the first Chinese city to greenlight the pilot commercial operation of self-driving passenger vehicles without anyone in the driver's seat and Baidu's autonomous driving arm, Apollo Go, was among the first to offer fully autonomous driving services in China.",
@@ -1000,189 +1191,6 @@
         "AI",
         "Microsoft AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-23-which-top-artificial-intelligence-ai-stock-could-make-investors-the-most-money-this-decade-heres-why-it-just-might-be-google.md",
-      "title": "Which Top Artificial Intelligence (AI) Stock Could Make Investors the Most Money This Decade? Here's Why It Just Might Be Google.",
-      "excerpt": "The company is reportedly close to releasing its Gemini generative AI tool. Semiconductor research company SemiAnalysis ... development and spokeswoman for Facebook and sister to Meta Platforms ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/09/23/which-top-artificial-intelligence-ai-stock-could-m/",
-      "originalUrl": "https://www.fool.com/investing/2023/09/23/which-top-artificial-intelligence-ai-stock-could-m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/747869/ai-artificial-intelligence-in-circle-on-keyboard.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-23T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-23-global-automated-machine-learning-automl-market-trends-2023-2030-industry-booming-globally.md",
-      "title": "Global Automated Machine Learning (AutoML) Market Trends [2023-2030] | Industry Booming Globally",
-      "excerpt": "The Global Automated Machine Learning (AutoML) Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting an Unexpected CAGR During the Forecast Period of 2023-2030 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34838279/global-automated-machine-learning-automl-market-trends-2023-2030-industry-booming-globally",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34838279/global-automated-machine-learning-automl-market-trends-2023-2030-industry-booming-globally",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-23T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-23-look-from-blushing-plastic-and-metal-receptionist-to-driverless-ice-cream-trucks-machines-take-over-at-asian-games.md",
-      "title": "Look: From blushing plastic-and-metal receptionist to driverless ice-cream trucks, machines take over at Asian Games",
-      "excerpt": "Driverless minibuses are set to shuttle ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/sports/look-from-blushing-plastic-and-metal-receptionist-to-driverless-ice-cream-trucks-machines-take-ove",
-      "originalUrl": "https://www.khaleejtimes.com/sports/look-from-blushing-plastic-and-metal-receptionist-to-driverless-ice-cream-trucks-machines-take-ove",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=f16b9880-69ee-52b1-b3f3-90b5c8d10652&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=1200&height=675&x=1.0E-5&y=0.1573.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/sports/look-from-blushing-plastic-and-metal-receptionist-to-driverless-ice-cream-trucks-machines-take-ove?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/sports/look-from-blushing-plastic-and-metal-receptionist-to-driverless-ice-cream-trucks-machines-take-ove?amp=1",
-      "publishedDateTime": "2023-09-23T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-23-hi-robot-machines-take-over-at-chinas-asian-games.md",
-      "title": "Hi, Robot: Machines Take Over At China's Asian Games",
-      "excerpt": "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
-      "originalUrl": "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP6708811508915942826090481929289977995099---1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
-      "publishedDateTime": "2023-09-23T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

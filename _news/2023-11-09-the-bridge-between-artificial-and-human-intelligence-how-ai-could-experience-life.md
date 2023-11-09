@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-09T03:20:00Z
 originalUrl: "https://www.statepress.com/article/2023/11/the-potential-for-ai-and-human-intelligence"
 webUrl: "https://www.statepress.com/article/2023/11/the-potential-for-ai-and-human-intelligence"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://snworksceo.imgix.net/asp/e8208765-1cc7-49a3-b770-df90cddb9ed3.sized-1000x1000.png?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces"
@@ -36,6 +37,6 @@ related:
       domain: techopedia.com
     quality: 4
 
-secured: "bMTCOosRyv3JO9tGqQ8EKkSAyk1+ibVO2F1xH/U/xP6NO+fulPCYnT+0Dunj2ur+GGQOOKY1z+uhhZQm8eb7QTBzURL2sn0PlIXaUXOx4vY2nsC1ZiTgSLwCHPm1Wqb2Zdeu0b0DoaQs5kjio6nun4Zk+FzYtjh/XyqanJeQCywhIOu8rIoG9TKNL3vnUnmHUsAGZni7BF9nPwM3hnE64WzFl5TN/PtfzRBnLQ3G1/4B/c58wYD/GE/6CxSxp0wyu0oeM2mAJMGYnEjtCh0NJiEiDcc1YFvHFRTOisPxDOShr7Jo1SpPt8NPa+qvGfrxcjRVgq1+H3D3LZA+Pj9EK0eugXTvFzdfwvkBcOQSJkQ=;Y2atl7wConA4AjYHeRi11Q=="
+secured: "cHd93bLGuKdPFhZjtM6inR3OLKLBvIXJN4QE+N/ZDsQSgga4U6bJ2AkbBNH7TuvjmiFrOzQrdgaXUVGQTZX0O2tkSL7weH74wrEuLPMAXQvWfT9YUy1YHQchwUzkI2BQMjmYs3+Q6sAMMQOo/5XV8FgyPsDp46WK9lmVmU0lGGnQvvO1uaz+AyP5uBNplrvnQGe4x7fA8m4xtYINUFeHXhQR2RaBSSksV8I+xLDIsDDseam5Ha16eiokUy7pohUYzm07Jp3XAulfMbSBsBi8tX1ujCYTNkDeNYEh0mIXslu9ok3AQhJOgcJXkGOiAsrbDH2x3G+cx/0h2OJsdDBO8WAIAYSkS9pYjjTeodUF6kcodvTb+2OyW/1LQg5bzI+1crHd2NCYF423wKx6EYajO0AQJR5ogW4ueZTQkT+JmoYuNna+Z0sEnQa9HvzKmirBnMiknrqMnuMv4luVmzb6EuSysH+bBKUfNGLYzmfGHaDPLFqkaFItB6n6a1otD9Ito8pZOpWZz9Q7PsV22wAiPw==;G4RmnQm3CHsbeWqwjWsPHw=="
 ---
 

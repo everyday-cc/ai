@@ -174,6 +174,22 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 47
+  - title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
+    excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT has unveiled the future it has in mind for its artificial intelligence technology"
+    publishedDateTime: 2023-11-06T22:22:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/chatgpt-maker-openai-hosts-big-tech-showcase-ai-104658996"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/chatgpt-maker-openai-hosts-big-tech-showcase-ai-104658996"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chatgpt-maker-openai-hosts-big-tech-showcase-ai-104658996"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 43
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_da850be425aaa269e2915e9e0b1c726a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "6 Ways AI Chatbots Are Improving Customer Service"
     excerpt: "The customer service level you offer significantly influences how current as well as prospective customers view your company. It can deeply impact their"
     publishedDateTime: 2023-11-07T02:50:00Z
@@ -243,20 +259,6 @@ related:
       - url: "https://f1.econotimes.com/2023/11/jjaz9n2rya_th_1024x0.jpeg"
         width: 1024
         height: 640
-        isCached: true
-  - title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
-    excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT has unveiled the future it has in mind for its artificial intelligence technology"
-    publishedDateTime: 2023-11-06T16:15:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/11/06/chatgpt-openai-tech-showcase/7b091e0a-7cb9-11ee-b5cc-66c30a3bbb91_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 23
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S5ERAWT42QI65NOMM3BQUO53SE.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "New Neural-Network-Based AI Learns Better Than ChatGPT"
     excerpt: "To simplify, this neural technology called Meta-learning for Compositionality (MLC) mimics the way humans learn and use new words in different situations through a process called systematic generalization. In contrast to other AI systems, the neural network integrates newly learned words into existing vocabulary."

@@ -7,7 +7,7 @@ originalUrl: "https://dailyfreepress.com/2023/11/08/hariri-institute-wheelock-co
 webUrl: "https://dailyfreepress.com/2023/11/08/hariri-institute-wheelock-collaborate-to-research-ais-impact-on-education/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -50,6 +50,17 @@ related:
     provider:
       name: SourceSecurity
       domain: sourcesecurity.com
+    quality: 21
+  - title: "Rubrik Introduces Ruby, The Generative AI Companion To Accelerate Cyber Detection, Recovery, And Resilience"
+    excerpt: "The company will leverage Microsoft’s Azure OpenAI, in combination with its machine learning-driven Data Threat Engine, to help discover, investigate, remediate, and report on cyber incidents. The company’s newest AI companion, Ruby, extends Rubrik ..."
+    publishedDateTime: 2023-11-09T06:10:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2311/S00140/rubrik-introduces-ruby-the-generative-ai-companion-to-accelerate-cyber-detection-recovery-and-resilience.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2311/S00140/rubrik-introduces-ruby-the-generative-ai-companion-to-accelerate-cyber-detection-recovery-and-resilience.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2311/S00140/rubrik-introduces-ruby-the-generative-ai-companion-to-accelerate-cyber-detection-recovery-and-resilience.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
     quality: 21
 
 secured: "jfrBYbGKqHxKSJv+QefHgmUrXwVAG3J5PdUP+y7t0JdGE9Pf0nvMubjezofdaOZP0ezDqs4m+wfeoF2UGiNIdJGICmX/RqkPIP/MzUbaa2/hX2UWc1XbgJonIT9l8m9r7ibkcNW8Pr6/rzwpVcKWqPGxk5w/ifUwD2raHPTi7JzXFtj5QqXvRzJzPat1Os0tzoWcCMiJP+dcTJf8MVXaM9Iy6WHE8IfQzlaLOeJiMVzgmLbkp1OZwyHF/PyD1N5PHPnkxJhWFmWFwz9Z0raGWqBqGS0vn32/7Gm8LoYSwzEQE8A6PdktwsrSn79VgXKDS+OA9G7tN+q4/fx/Il6eE4xy1OnWx6wXgZdlwcRn1O8=;qtVOLo1dhPwZclaZsHJp3A=="

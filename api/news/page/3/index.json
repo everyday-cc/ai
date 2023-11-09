@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-07-advancements-in-ai-these-companies-are-building-computer-chips-with-live-neurons.md",
+      "title": "Advancements in AI: These Companies are Building Computer Chips with Live Neurons",
+      "excerpt": "Companies, like VERSES AI Inc. (NEO: VERS) (OTCQB: VRSSF) are racing toward Artificial General Intelligence (AGI), where AI can perform all human cognitive skills better than the smartest human, as noted by Forbes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.baystreet.ca/articles/stockstowatch/92234/Advancements-in-AI-These-Companies-are-Building-Computer-Chips-with-Live-Neurons",
+      "originalUrl": "https://www.baystreet.ca/articles/stockstowatch/92234/Advancements-in-AI-These-Companies-are-Building-Computer-Chips-with-Live-Neurons",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/AI.jpg",
+          "width": 845,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BayStreet",
+        "domain": "baystreet.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-local-companys-ai-generated-employee-raises-ethical-questions.md",
+      "title": "Local company's AI-generated employee raises ethical questions",
+      "excerpt": "Radio Boston spoke with a local company that created a fake AI profile on LinkedIn and the Boston Globe reporter who discovered and wrote about it the ethics of creating AI employees and what the future of the workforce holds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/radioboston/2023/11/07/ai-employee-workforce-future",
+      "originalUrl": "https://www.wbur.org/radioboston/2023/11/07/ai-employee-workforce-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wordpress.wbur.org/wp-content/uploads/2018/07/0818_khari-01-2k-600x600.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-risc-v-gains-momentum-as-eda-ai-chip-design-leader-announces-new-ip.md",
       "title": "RISC-V Gains Momentum As EDA & AI Chip Design Leader Announces New IP",
       "excerpt": "Another key value add for the ARC-V Processor IP is that the company’s Synopsys.ai full-stack AI-driven EDA software and ... time to market and ultimately fully optimized ARC-V-based chips and SoCs. In addition, the Synopsys MetaWare software development ...",
@@ -62,7 +149,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/07/artificial-intelligence-accelerating-clean-energy-transformation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1102,7 +1189,7 @@
       "originalUrl": "https://www.techrepublic.com/article/samsung-gauss-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1142,109 +1229,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-use-generative-ai-to-increase-agent-productivity-through-automated-call-summarization.md",
-      "title": "Use generative AI to increase agent productivity through automated call summarization",
-      "excerpt": "Your contact center serves as the vital link between your business and your customers. Every call to your contact center is an opportunity to learn more about your customers’ needs and how well you are meeting those needs. Most contact centers require their agents to summarize their conversation after",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-to-increase-agent-productivity-through-automated-call-summarization/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-to-increase-agent-productivity-through-automated-call-summarization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/06/featured-images-ml15703-1120x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T15:10:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-generative-ai-task-forces-what-are-they-and-should-you-start-one.md",
-      "title": "Generative AI task forces: What are they and should you start one?",
-      "excerpt": "What a generative AI task force is, why you need one to stay competitive in a rapidly evolving market, and how to get one up and running now.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/generative-ai-task-forces-what-are-they-and-should-you-start-one/",
-      "originalUrl": "https://venturebeat.com/ai/generative-ai-task-forces-what-are-they-and-should-you-start-one/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_164972173.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,161 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-09-30-us-national-security-agency-unveils-artificial-intelligence-security-centre.md",
+      "title": "US National Security Agency unveils artificial intelligence security centre",
+      "excerpt": "The United States National Security Agency (NSA) has announced the creation of an artificial intelligence security centre that will oversee the development and integration of AI capabilities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aljazeera.com/news/2023/9/29/us-national-security-agency-unveils-artificial-intelligence-security-centre",
+      "originalUrl": "https://www.aljazeera.com/news/2023/9/29/us-national-security-agency-unveils-artificial-intelligence-security-centre",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2023/09/AP23271693350092-1695953886.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aljazeera.com/amp/news/2023/9/29/us-national-security-agency-unveils-artificial-intelligence-security-centre",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2023/9/29/us-national-security-agency-unveils-artificial-intelligence-security-centre",
+      "publishedDateTime": "2023-09-30T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-09-30-families-in-rural-areas-have-difficulty-getting-services-for-their-children-with-autism-spectrum-disorder.md",
+      "title": "Families in rural areas have difficulty getting services for their children with autism spectrum disorder",
+      "excerpt": "Autism spectrum disorder (ASD) is a childhood neurodevelopmental disorder associated with significant lifelong delays in cognitive functioning ... currently is how to get children into these crucial services without waiting too long.",
+      "sourceUrl": null,
+      "webUrl": "https://www.simcoe.com/opinion/families-in-rural-areas-have-difficulty-getting-services-for-their-children-with-autism-spectrum-disorder/article_3f6cb42a-7eca-5d84-8ea9-e812f6c68fd7.html",
+      "originalUrl": "https://www.simcoe.com/opinion/families-in-rural-areas-have-difficulty-getting-services-for-their-children-with-autism-spectrum-disorder/article_3f6cb42a-7eca-5d84-8ea9-e812f6c68fd7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-29T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Simcoe",
+        "domain": "simcoe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-30-microsofts-generative-ai-initiatives-a-vision-to-transform-businesses.md",
+      "title": "Microsoft's Generative AI Initiatives - A Vision to Transform Businesses",
+      "excerpt": "Through analyzing historical data and pattern recognition, generative algorithms empower businesses to make precise predictions, facilitating well-informed decisions that enhance supply chain management,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_09_2023_10_10_49_7841185.jpg?width=1280",
+          "width": 1280,
+          "height": 1046,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses?amp",
+      "publishedDateTime": "2023-09-29T21:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-30-205-awesome-chatgpt-prompts-you-need-to-try.md",
+      "title": "205 Awesome ChatGPT Prompts You Need to Try",
+      "excerpt": "When it comes to chatbots, the quality of the output is determined by the quality of the input! Use these ChatGPT prompts, tweak them to your business' unique needs, and leverage the power of AI and LLMs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/outlook-spotlight/205-awesome-chatgpt-prompts-you-need-to-try-news-321422",
+      "originalUrl": "https://www.outlookindia.com/outlook-spotlight/205-awesome-chatgpt-prompts-you-need-to-try-news-321422",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-29T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-30-5-hot-ai-jobs-to-consider-for-2024.md",
       "title": "5 Hot AI Jobs To Consider For 2024",
       "excerpt": "It’s clear that AI (artificial intelligence) is here to stay and these are 5 AI jobs that will be in-demand in the future",
@@ -963,169 +1118,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia.md",
-      "title": "Former Tinder CEO’s startup to fight loneliness with AI chatbot gets backing by Sequoia",
-      "excerpt": "Former Tinder CEO Renate Nyborg's startup Meeno, said Thursday that it has raised a $3.9 million seed round led by Sequoia.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/?trk=public_post_comment-text",
-      "originalUrl": "https://techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/?trk=public_post_comment-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/Meeno.jpeg?resize=1200,907",
-          "width": 1200,
-          "height": 907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/amp/",
-      "publishedDateTime": "2023-09-29T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-executive-insights-artificial-intelligence-in-higher-education.md",
-      "title": "Executive Insights: Artificial intelligence in higher education",
-      "excerpt": "\"When deployed effectively, generative AI should facilitate more discussion, creativity, and give and take by actively engaging students in the learning process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/nashville/news/2023/09/29/artificial-intelligence-in-higher-education.html",
-      "originalUrl": "https://www.bizjournals.com/nashville/news/2023/09/29/artificial-intelligence-in-higher-education.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/nashville/news/2023/09/29/artificial-intelligence-in-higher-education.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2023/09/29/artificial-intelligence-in-higher-education.amp.html",
-      "publishedDateTime": "2023-09-28T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-meta-unveils-artificial-intellgence-assistant-facebook-streaming-glasses.md",
-      "title": "Meta unveils artificial intellgence assistant, Facebook-streaming glasses",
-      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram ... chief analyst at TECHnalysis Research. Zuckerberg also said on Wednesday that Xbox cloud gaming ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/business/meta-unveils-artificial-intellgence-assistant-facebook-streaming-glasses/cid/1969762",
-      "originalUrl": "https://www.telegraphindia.com/business/meta-unveils-artificial-intellgence-assistant-facebook-streaming-glasses/cid/1969762",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T21:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-industries-that-ai-can-revolutionize.md",
-      "title": "Industries that AI Can Revolutionize",
-      "excerpt": "Artificial Intelligence is no longer the stuff of science fiction or a tech buzzword. For some businesses and individuals today, it is already a reality and a seemingly permanent fixture in their work or education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.econotimes.com/Industries-that-AI-Can-Revolutionize-1663526",
-      "originalUrl": "https://www.econotimes.com/Industries-that-AI-Can-Revolutionize-1663526",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png",
-          "width": 400,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EconoTimes",
-        "domain": "econotimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

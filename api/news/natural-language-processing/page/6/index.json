@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-07-lost-in-ai-translation-growing-reliance-on-language-apps-jeopardizes-some-asylum-applications.md",
+      "title": "Lost in AI translation: growing reliance on language apps jeopardizes some asylum applications",
+      "excerpt": "They should never be used to replace translators Ariel Koren AI-powered translation tools are particularly unreliable for languages that are considerably different from English or are less ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/59ee6e688c280cd8673684e1f6265293e1acbe3f/0_0_1500_900/master/1500.jpg?width=620&quality=85&auto=format&fit=max&s=bb1ac6185c487d23e428a6ef7f8e1b02",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps",
+      "publishedDateTime": "2023-09-07T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-north-las-vegas-launching-ai-powered-translation-software-in-30-languages.md",
       "title": "North Las Vegas launching AI-powered translation software in 30 languages",
       "excerpt": "LAS VEGAS, Nev. (FOX5) - The City of North Las Vegas will officially launch the acquisition of over 30 languages through the previously released AI-powered, real-time translation technology ...",
@@ -1337,59 +1389,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of.md",
-      "title": "Meta uses your Facebook data to train its AI. Here's how to opt out (sort of)",
-      "excerpt": "Meta will use your personal data in its large language model Llama 2. But you can fine-tune what data it can access.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/",
-      "originalUrl": "https://www.zdnet.com/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/48c567f49e420edb1979845fbb456cb51687ad53/2023/08/30/90d378df-0391-438f-87d0-617e8a43591a/gettyimages-1581627315.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/",
-      "publishedDateTime": "2023-08-30T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

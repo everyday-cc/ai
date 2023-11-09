@@ -41,17 +41,31 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Humanoid robots are here, but they're a little awkward. Do we really need them?"
-    excerpt: "Rival robot-makers, like Figure AI, are taking a more purist approach on the idea that only true humanoids can effectively navigate workplaces, homes and a society built for humans. Figure also plans to start with a relatively simple use case, such as in a ..."
-    publishedDateTime: 2023-11-06T05:11:00Z
-    webUrl: "https://www.pressrepublican.com/ap/business/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/article_f3479f0c-9217-5a58-9576-1f7f95a111f0.html"
+  - title: "Humanoid robots are here, but they’re a little awkward. Do we really need them?"
+    excerpt: "Building a robot that’s both humanlike and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze has sparked another wave ..."
+    publishedDateTime: 2023-11-05T14:34:00Z
+    webUrl: "https://www.theglobeandmail.com/business/article-humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need/"
     type: article
     provider:
-      name: Press-Republican
-      domain: pressrepublican.com
+      name: The Globe and Mail
+      domain: theglobeandmail.com
     quality: 35
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pressrepublican.com/content/tncms/assets/v3/editorial/5/9e/59e1390d-de00-5206-990c-8593bc225942/6547e8af9def9.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://www.theglobeandmail.com/resizer/v2/N33VQMFB5JCWHDJCQWDYDLIPVM.jpg?auth=a3acfc6378eb687f689a949fabac3378174a76e5e6c07fe90d5c9cd3cad73549&width=1200&height=800&quality=80"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Humanoid robots are here, but they're a little awkward. Do we really need them?"
+    excerpt: "(AP Photo/Matt Freed) Building a robot that’s both human-like and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze ..."
+    publishedDateTime: 2023-11-06T03:26:00Z
+    webUrl: "https://www.wfmz.com/news/ap/ap-business/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/article_2eb7c7f8-1938-5aa7-bf59-8c969534bc20.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 35
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/8b/d8b2ac33-1dfc-5b7b-9bf3-7f9abb8a9755/654858097b510.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

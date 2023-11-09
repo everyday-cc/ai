@@ -35,6 +35,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "AI: Shattering Language Barriers"
+    excerpt: "Revolutionizing communication, one word at a time! Join our new author ChatGPT as it thinks of the AI-driven transformation of language translation. Gone are the days when we had to rely on human translators to decode different languages. Now, with just a ..."
+    publishedDateTime: 2023-11-06T10:32:00Z
+    webUrl: "https://www.goethe.de/ins/in/en/kul/lak/sko/24685439.html"
+    type: article
+    provider:
+      name: Goethe
+      domain: goethe.de
+    quality: 39
+    images:
+      - url: "https://www.goethe.de/resources/files/png133/sprachkolumne_73-formatkey-png-w1920.png"
+        width: 1920
+        height: 835
+        isCached: true
 
 secured: "5pEVUwQwUgnPwYrDoCqQ9553245T2+HlYGwEMg+Sdp4dP4Tt6EdZsPqQZJxmgxslQCYtEdCvBFfoSIMpkRbt8zQlSizh/NCuz/ZcWw3SD1nnuvD8xPykrXsuvTp12wkEwpF7lIYfaA9kSsAN0Bjtsiv3ocozz2nQ+yco6sLl6FgNSVh1y0Pm8+XuV54jVqifbHtTfrj58S5236VvrVoSFBPMvaKtdocNmNzgl9XQsmyri59gAubAyw32wl/dFty8qucaESx+6o6qtne+yqQ2aXuLgzjskYe4xTcsoSkIVvBHuJMFzm8/PFDVBhrnbSv0JHR2IQkCJUkxjZPFCNkTj0MNCKuV0+SufIX42y8z11aR06icqIQqMWD6QN4AJUWb8ixVZIWtwjFcNWiJAMpvgDqV18joIwHDzWUcBRg6UonAC8es/hpo8kEvLAJCLfOsgc6u7dAZszXPlVSSE9c8+nGgtx2JdJW+N1/ERamI537bamdxGOaivbpP7qHCmLDbMop7J1BwdVq/AgA4+Nt8EQ==;nZBgtYM55QRNN83y9GP1Aw=="
 ---
