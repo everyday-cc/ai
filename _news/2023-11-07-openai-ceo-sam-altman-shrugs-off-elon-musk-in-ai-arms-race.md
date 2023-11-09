@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/openai-ceo-sam-altman-shrugs-off-elon-m
 webUrl: "https://venturebeat.com/ai/openai-ceo-sam-altman-shrugs-off-elon-musk-in-ai-arms-race/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -26,6 +26,17 @@ images:
     width: 750
     height: 600
     isCached: true
+
+related:
+  - title: "Caught in an AI arms race"
+    excerpt: "While the dawn of generative AI has been hailed as a breakthrough across major industries, it is not a secret that the benefits it brought also opened new avenues of threat, the likes of which most of us have never seen before."
+    publishedDateTime: 2023-11-09T19:00:00Z
+    webUrl: "https://www.insurancebusinessmag.com/us/risk-management/news/caught-in-an-ai-arms-race-466185.aspx"
+    type: article
+    provider:
+      name: insurancebusinessmag
+      domain: insurancebusinessmag.com
+    quality: 19
 
 secured: "IX932UfZdcqUJDYq4PQO7mE/1Rnip88bMB/pVCDaPAeXcqIUuNna2iQPArgcwoGg6ht1bnK5bSaWBop9J9NsG2eMY6v1AhPrvtgMFnuL/LLCGbzO50uTox+X1BflDlX+tJ9ONdcbKN4JF0mAXES4QVjQtKRTQ7YX9zTDm8HYW+q//G0ftWd/HNo3ptEnzqjP65za3WsqjexybHKaZxT2ScxsAYTAGJrmYuWtGG0MdsVrUVcH3bDAWORgu/H67j+zNlSRQ+ReeUebkojoM3Fahqzvm37pdpqfbSiTRcFNIaWC0vy8OpeetNhRhq8WX7SJGqOgFl+NfzOJcwz/zGOoeRd7RV4RYvsDQs81H0id15MXIUlN75ZIJBwcg+SdLG+eUpMYC7vKs0rPx3Gi9cRZ6COv5Dtq+/0zfQBdvILOX+rRakKdCza9jPZMszDRnW5VPWI43sUPgX113FWSJjFMVjlDTbqmDo7HHoZYNUe6IFW9jL3Q7E8Mdd2IqBtVCaHWhGT7uG7VcJSspfmLD2ohKg==;j5klgA3XPqHwGviZ2dMvCw=="
 ---

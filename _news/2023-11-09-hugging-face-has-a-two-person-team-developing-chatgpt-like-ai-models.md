@@ -175,6 +175,15 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
+  - title: "Snap adds ChatGPT to its AR glasses with a focus on AI at Lens Fest"
+    excerpt: "Snap said it is adding ChatGPT to its augmented reality glasses as AI becomes an integral part of consumer products."
+    publishedDateTime: 2023-11-09T18:15:00Z
+    webUrl: "https://venturebeat.com/ai/snap-adds-chatgpt-to-its-ar-glasses-with-focus-on-ai-at-lens-fest/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
     excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT has unveiled the future it has in mind for its artificial intelligence technology"
     publishedDateTime: 2023-11-06T22:22:00Z
@@ -261,15 +270,6 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "New Neural-Network-Based AI Learns Better Than ChatGPT"
-    excerpt: "To simplify, this neural technology called Meta-learning for Compositionality (MLC) mimics the way humans learn and use new words in different situations through a process called systematic generalization. In contrast to other AI systems, the neural network integrates newly learned words into existing vocabulary."
-    publishedDateTime: 2023-11-05T04:00:00Z
-    webUrl: "https://i-hls.com/archives/121543"
-    type: article
-    provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 19
   - title: "Elon Musk releases ‘spicy’ AI chatbot that loves sarcasm"
     excerpt: "The billionaire has unveiled his generative AI model with more personality than its rivals, in a challenge to Microsoft-backed OpenAI and Google."
     publishedDateTime: 2023-11-06T02:17:00Z

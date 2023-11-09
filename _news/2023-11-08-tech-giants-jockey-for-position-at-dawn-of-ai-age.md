@@ -41,15 +41,6 @@ related:
         width: 768
         height: 510
         isCached: true
-  - title: "Tech giants pour billions into cloud capacity in AI push"
-    excerpt: "Google, Microsoft and Amazon boost investment by a fifth over two years to a combined quarterly total of $42bn"
-    publishedDateTime: 2023-11-05T05:00:00Z
-    webUrl: "https://www.ft.com/content/f01529ad-88ca-456e-ad41-d6b7d449a409?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "2IVw2RRiD0VKW4ExNvckDzX0D0Fic+bEx67ThO9PwSNTLjdmKOMjrj2xNeQ1cGSAuATsSsffwOSaNK5YoF0YgJKlVYyyhdkCAU7Qp2JvLgZdq7bm5MHeNdIOjKCpspdlO0lXGJ+4ehNRMki8KHuguiplqmP8PkmSOrj1eccX4GJ9HSYyY7yn0sq3W7G0LrDdJp6kcRtQLPxjLtL8HBNtClpB5rl+7ZpiGUSmu6iqXpN5DlrETnJjWldE4nLKt2fCXgKeFIm6ieUamy5XxXdU02OKfdx4QMrZ86swxdH/TQvb+RVSQe1NNhhjIZrvGtOplSj/bRnEfZUFtrjdXooms50BhKnuJ3aS/7rPIvtNYPw=;jJUL2vog7VGsv0S931lurQ=="
 ---

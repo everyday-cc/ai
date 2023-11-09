@@ -5,6 +5,8 @@ excerpt: "With this acquisition, Lenskart plans to use visual artificial intelli
 publishedDateTime: 2023-10-30T09:52:00Z
 originalUrl: "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937"
 webUrl: "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937"
+ampWebUrl: "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp"
+cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "XasmUiAD9vI28nasiRk4m8AwBKxlDXIi9zuwW6QZqVHUx6mrmEednmJBOf5Ug+n5FnF+yatGihHcE2kCVgJ+CHTEx73v0k+8fSKjktYna2ij3dwxcMOBm7lyhJ/2hB0tRh9dNasvxCPIXuTxIFi/eLd9BtU+/xOII4I5U4SS1sJ4zVAXeUX9Ki1VJHTYiBTlionWNR/bkZOPReYfLfYVSbF1q5wbp3zPvczbl5jyjdH3azt+zPcgq/+uAyOnhXqq4zN0LqytsJJ0g7WUi2R6Cwhjx2SX6lc12LU9ubfgIhqhOcz0H8kAtg5lzEKJ07M0HhX0DMvhPjtrUQ0iEojkPsGOlsNyJs+KCyH7bbSfRFg=;p5ayC64Cd/JU+Xb69rvwmA=="
+images:
+  - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/11/09/268565-n2rd2t4z3fonnmvbik65wjpile.jpg?itok=-IjMQnYK"
+    width: 700
+    height: 394
+    isCached: true
+
+secured: "kH/RivQyfiW190wXy/6ZSSiguY2lQw+KAI5mFN1nVWWfhVwAdjDrLJ+lXXTafafOPKZM0iceuzwXpe1SosCpvOJNbEvHlR5mbpiJ4Hmvf12dHovZQ1HfuUzG56/7cSg2lMAaUFf6n+gq+WFxNCxRkvq3utfghNRD0r5Kk+c9/WX6CXo86q7+q9fGFtI/y15gg7BHFrUOnci6pFNlIDQe/+ATK2vEUxdin7T7cthYcp9D2pkyyki1KeqWto49GVSRxm0hw08obIk10dE5Vop5k8GPAOPyjYr11W3MSOHHf3dcamUQgQ4xNb3yC483ANrAjUkFIfJ+IKIGjjyTB5H14VtTokvMh5ULik1/Diqu8c8=;i3XD3tT5NQ/B8TmeiorZrw=="
 ---
 

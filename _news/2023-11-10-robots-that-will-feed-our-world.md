@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-09T19:00:00Z
 originalUrl: "https://interestingengineering.com/ie-originals/ie-explainer/season-5/ep-18-robots-that-will-feed-our-world"
 webUrl: "https://interestingengineering.com/ie-originals/ie-explainer/season-5/ep-18-robots-that-will-feed-our-world"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Interesting Engineering

@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-09T20:00:00Z
 originalUrl: "https://www.aol.com/finance/ai-next-promotion-start-earning-180018208.html"
 webUrl: "https://www.aol.com/finance/ai-next-promotion-start-earning-180018208.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: AOL

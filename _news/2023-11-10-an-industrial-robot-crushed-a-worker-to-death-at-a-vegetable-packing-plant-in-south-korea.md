@@ -1,29 +1,27 @@
 ---
 category: news
 title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
-excerpt: "An industrial robot grabbed and crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigated whether the machine was defective or improperly designed."
-publishedDateTime: 2023-11-09T18:51:00Z
-originalUrl: "https://dunyanews.tv/en/Business/769324-An-industrial-robot-crushed-a-worker-to-death-at-a-vegetable-packing-pla"
-webUrl: "https://dunyanews.tv/en/Business/769324-An-industrial-robot-crushed-a-worker-to-death-at-a-vegetable-packing-pla"
-ampWebUrl: "https://dunyanews.tv/amp/english/769324.php"
-cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/769324.php"
+excerpt: "\"It wasn't an advanced, artificial intelligence-powered robot, but a machine that simply picks up boxes and puts them on pallets,\" said Kang Jin-gi, who heads the investigations department at Gosong Police Station. He said police were working with related ..."
+publishedDateTime: 2023-11-09T22:03:00Z
+originalUrl: "https://missoulian.com/news/nation-world/science/industrial-robot-crushes-worker-to-death-at-south-korea-plant/article_b1510909-ad82-53f1-9937-3ba4a3da50aa.html"
+webUrl: "https://missoulian.com/news/nation-world/science/industrial-robot-crushes-worker-to-death-at-south-korea-plant/article_b1510909-ad82-53f1-9937-3ba4a3da50aa.html"
 type: article
-quality: 50
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Dunya News
-  domain: dunyanews.tv
+  name: Missoulian
+  domain: missoulian.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://img.dunyanews.tv/news/2023/November/11-09-23/news_big_images/769324_39755171.jpg"
-    width: 752
-    height: 423
+  - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/b/15/b1510909-ad82-53f1-9937-3ba4a3da50aa/654d5391e248e.preview.jpg?crop=1418%2C744%2C6%2C56&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -59,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Industrial robot crushes worker to death as he checks whether it was working properly"
+    excerpt: "Police said the man died of head and chest injuries Tuesday evening after he was snatched and pressed against a conveyor belt by the machine’s robotic arms."
+    publishedDateTime: 2023-11-09T21:43:00Z
+    webUrl: "https://www.wltx.com/article/news/nation-world/industrial-robot-crushes-worker-to-death/101-a42d859a-fb6e-4566-bb01-249299d22b45"
+    ampWebUrl: "https://www.wltx.com/amp/article/news/nation-world/industrial-robot-crushes-worker-to-death/101-a42d859a-fb6e-4566-bb01-249299d22b45"
+    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/nation-world/industrial-robot-crushes-worker-to-death/101-a42d859a-fb6e-4566-bb01-249299d22b45"
+    type: article
+    provider:
+      name: WLTX19
+      domain: wltx.com
+    quality: 52
+    images:
+      - url: "https://media.wltx.com/assets/WLTX/images/a8072143-8931-4df9-93e1-742219af7d74/a8072143-8931-4df9-93e1-742219af7d74_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
     excerpt: "An industrial robot crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigate whether the machine was unsafe or had potential defects. According to police officials in the southern county of Goseong,"
     publishedDateTime: 2023-11-09T08:35:00Z
@@ -83,6 +97,6 @@ related:
       domain: manufacturing.net
     quality: 13
 
-secured: "xuGMEZoemPuSl/plAhPSgDHoojf/ZqRVbme5Mg3vneXhMu9c+4yInboJh75RspUWDFyGwaI71asvqvGeue/q4tbDIUO3iHpQjfJq88apyrezoZpLKcyUNPQrt9fb1yVB406xqQ3McFYBZbZ7U3mFBi5PgzkOo7dje++sm/RHshNNWnOqLve1rAfa/pArDh13h2dnv5aPrR8Y4YPHZi9GcIZ1yX1tw8E1OPe3QVSrKEFLuKT5PaMUZqarW9KJSOgdy5ztRh8bT1531xLtoqpyv4Y4xX1K22Hx5zPo+EqhgIBnNTaJzE6b8qkf5xiZnKPzo1/HByJHclPWp+5/oHAeAJ/+YJqwzGmhwO4WVapXhsc=;4gCsfzO94arSOhVMT8H3Xw=="
+secured: "kuAYVneEfRIdERYA/6QF8zcPDKLBq0K5DOhsJsK7gGvH+FzOVIwf+q9q3erkJjCRd5wr+DwkUNvT36N6HQ+V3/IpzCzJBG4u5aqIdCKzknbk836rvHRz8Do4Ewu3HJsE+wBT80nVO5qsy5hdkxEa8yIVnMRxkIEjPN3ZFlOo9ZFPpBHWhJuXBGUxrWCw4hFV1TnH5m6pSzX30m9QkgU3b2gTC+No6e+atgmvIeUgilRpViYepHurnGexDypm5deR8GxnmeZLRyFJuuTUahWDBtEW+1e3fviwEmhH4ZtYNwUB3aoBl1wDckVfltsaQMi3HBmANcshQsu9VW1GbAAMIMQmVE2vtQl4Pf+8B69mWMU=;UQcXbkZDsyJU3mg77jszHw=="
 ---
 

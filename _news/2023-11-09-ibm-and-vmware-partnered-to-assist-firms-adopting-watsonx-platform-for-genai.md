@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "VMware enlists Intel, IBM watsonx for private AI initiative"
+    excerpt: "VMware’s do-it-yourself private AI program has two new partners, offering users more options for in-house generative AI training and deployments."
+    publishedDateTime: 2023-11-09T21:24:00Z
+    webUrl: "https://www.networkworld.com/article/3710371/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.html"
+    ampWebUrl: "https://www.networkworld.com/article/3710371/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3710371/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 76
+    images:
+      - url: "https://images.techhive.com/images/article/2017/03/vid-still-16-of-82-100714189-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM, Vmware Team Up To Help Firms Adopt Genai With Watsonx Platform"
     excerpt: "IT major IBM and enterprise cloud services provider VMware on Thursday said they are working together to bring watsonx to on-"
     publishedDateTime: 2023-11-09T11:24:00Z

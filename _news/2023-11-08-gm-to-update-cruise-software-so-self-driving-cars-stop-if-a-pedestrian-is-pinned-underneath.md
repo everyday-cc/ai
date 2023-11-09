@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/gm-update-cruise-self-driving-softwa
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gm-update-cruise-self-driving-software-after-pedestrian-accident-2023-11?amp"
 type: article
 quality: 64
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Cruise Recalls All Self-Driving Cars Due to Unsafe Software Glitch"
+    excerpt: "After General Motors’ self-driving car company Cruise suspended operations nationwide on Oct. 27 after facing a federal investigation into its cars’ safety, it announced this week that it’s recalling all of its remaining 950 vehicles for a software problem. That problem led to one of the company’s most harrowing crashes in San Francisco last month."
+    publishedDateTime: 2023-11-09T22:18:00Z
+    webUrl: "https://www.austinchronicle.com/daily/news/2023-11-09/cruise-recalls-all-self-driving-cars-due-to-unsafe-software-glitch/"
+    type: article
+    provider:
+      name: The Austin Chronicle
+      domain: austinchronicle.com
+    quality: 24
+    images:
+      - url: "http://www.austinchronicle.com/imager/b/original/3093958/504c/cruise_car.jpeg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Cruise Recalls 950 Self-Driving Cars After Pedestrian Collision"
     excerpt: "GM-owned Cruise announced a voluntary recall of 950 of its self-driving vehicles on Wednesday to fix issues with its collision detection system. The recall comes just over a month after a crash where one of its cars struck and dragged a pedestrian while ..."
     publishedDateTime: 2023-11-08T21:54:00Z
@@ -83,6 +97,15 @@ related:
     provider:
       name: Road & Track
       domain: roadandtrack.com
+    quality: 4
+  - title: "Cruise recalls 950 self-driving vehicles over software glitch"
+    excerpt: "Less than two weeks after suspending self-driving car operations in Austin and across the country, General Motors-owned Cruise LLC is recalling 950 vehicles because of a software problem."
+    publishedDateTime: 2023-11-09T19:49:00Z
+    webUrl: "https://www.texasstandard.org/stories/cruise-recalls-950-self-driving-vehicles-over-software-glitch/"
+    type: article
+    provider:
+      name: Texas Standard
+      domain: texasstandard.org
     quality: 4
 
 secured: "MvH1StQjAVhIoERjiXpfA9pYkQ0O94gdQKiJc/JfGQ5N7L8DhKmrzbcQph3fEJ2Im1CATwTks6+oGDiehjQ7l10iRcBx6wiwNb1v34c5xBtQA8nrU/cQP0fad+D/wflPelVHcyuuX+dM3LvTbZxk/EY0CeD+MocKMZjlX9DDJ0wYk4Yb1KnmKCWQlYA0/CdlPHw58mZTDscokudqBmIv4Rz1VT/qZqMQdVRjY+cAorn+XU9L3QAteWA8Z0UsAtzxKyac7ZAIyeVYSczTWg9+RIanhmCMr9hpP1Nd0z2c4pLN3KLabDCZwCF/7H6VVE6DcClsAieClgJPIQj42b7F8Y8c1jS/0X0aaQOSU96nlspiB8hf1yxjpsY283JmLAcfKpTiT0OOjmJH2uHASOjXmBQ76qfRJ04v8TT0yPQPX5nVqkj5Z8hJ8R3UA17LoOVTnulTRvpDfZFkACUKL22qCX7UHMWmmAX24oUAP7hJOOgF5zOGuqH/EdahCH0DL0zsneSMOxR5z9ybOTUhxSGVJg==;d8t/5s5c12Z4NMF0joRnVg=="

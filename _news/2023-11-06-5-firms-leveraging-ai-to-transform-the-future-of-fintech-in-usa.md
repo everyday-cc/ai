@@ -73,6 +73,15 @@ related:
         width: 1200
         height: 1568
         isCached: true
+  - title: "Stability AI Gets Intel Backing in New Financing"
+    excerpt: "Stability AI has raised new financing led by chipmaker Intel Corp., according to people familiar with the matter — a cash infusion that arrives at a critical time for the company."
+    publishedDateTime: 2023-11-09T20:26:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-11-09/stability-ai-gets-intel-backing-in-new-financing"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
   - title: "Fintechs weigh in on the White House's executive order on AI"
     excerpt: "The order \"immediately posed the question of how do you identify these models without some sort of self regulation,\" said Amitay Kalmar, co-founder and chief executive of the AI-powered auto lending fintech Lendbuzz in Boston. \"From the outside ..."
     publishedDateTime: 2023-11-08T21:28:00Z

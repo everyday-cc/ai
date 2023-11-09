@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Humane Ai Pin is a $699 screen-free wearable designed to replace your smartphone"
-    excerpt: "A startup called Humane has been teasing a smartphone alternative for much of the year, and now the company has unveiled its screen-free mobile device called the Ai Pin. It goes on sale November 16 for $699 and customers in the US will be able to get unlimited text, talk, and data on T-Mobile’s network for $24 per month."
-    publishedDateTime: 2023-11-09T17:13:00Z
-    webUrl: "https://liliputing.com/the-humane-ai-pin-is-a-699-screen-free-wearable-designed-to-replace-your-smartphone/"
-    type: article
-    provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 32
-    images:
-      - url: "https://liliputing.com/wp-content/uploads/2023/11/ai-pin_06.jpg"
-        width: 1200
-        height: 738
-        isCached: true
 
 secured: "PcNUQjdPQ2wE2QV18KFsaRaBRIPWEkhAg96I7empnxAO1HfOYdgWpZUfP+o/BHnhP/HF/jgRp6ryCSHRSwOOk1T1MuZL9LFQDxw3CmQU9NWOKNJodeeAaqufrq348xI5TB9yfLETI4y2siNLlrT2y2HhP6+I1GSKf3dE6jbGpjQPBysEFnDRDlPNkPOgquaUlf0o7QCLeXSt0zU+Xg1t3PyePStiPOEgVDArhqnpXoSXxhSNLmaBZx3ejj+Ad1KZwqqlq0JSsEoetEjN1v4P0vrXnTS6QYFicwT13XJVtvfk32c8ECXaISi7R4N0wdYOcfdDSOJYQSsg1sEDYn3csjayEovX1urcFRd2dz/3s9w=;Oo0sOjmKcKhO4TVEy5YQjg=="
 ---

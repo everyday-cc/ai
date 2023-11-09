@@ -48,6 +48,15 @@ related:
         width: 770
         height: 433
         isCached: true
+  - title: "8 Best Big Data Analytics Tools & Solutions for 2023"
+    excerpt: "Strong security features with Azure integration. Power BI’s integration with ... It supports a wide array of tasks — from batch processing to real-time analytics and machine learning — making it a versatile choice for businesses that need a robust ..."
+    publishedDateTime: 2023-11-09T19:44:00Z
+    webUrl: "https://www.techrepublic.com/article/big-data-analytics-tools/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 34
   - title: "News Explorer — Moody's Analytics Launches Stablecoin Service Using AI to Predict Depeggings, Provide Real-time Insights"
     excerpt: "Moody's Analytics Launches Stablecoin Service Using AI to Predict Depeggings, Provide Real-time Insights. Moody's Analytics has announced the launch of its new stablecoin service,"
     publishedDateTime: 2023-11-07T08:58:00Z

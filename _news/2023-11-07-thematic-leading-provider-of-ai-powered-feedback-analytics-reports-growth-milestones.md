@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/thematic-leading-p
 webUrl: "https://markets.businessinsider.com/news/stocks/thematic-leading-provider-of-ai-powered-feedback-analytics-reports-growth-milestones-1032787094"
 type: article
 quality: 63
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 770
         height: 433
         isCached: true
+  - title: "8 Best Big Data Analytics Tools & Solutions for 2023"
+    excerpt: "Strong security features with Azure integration. Power BI’s integration with ... It supports a wide array of tasks — from batch processing to real-time analytics and machine learning — making it a versatile choice for businesses that need a robust ..."
+    publishedDateTime: 2023-11-09T19:44:00Z
+    webUrl: "https://www.techrepublic.com/article/big-data-analytics-tools/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 34
   - title: "AI and Machine Learning: Powering Predictive Analytics in Applied Financial Technology"
     excerpt: "Introduction In the dynamic world of finance, staying ahead of the curve is crucial. To make informed decisions, financial institutions and professionals rely on data-driven insights. Thanks to the rapid evolution of technology,"
     publishedDateTime: 2023-11-08T13:36:00Z

@@ -173,6 +173,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Rockwell Combines Generative AI and Industrial Automation"
+    excerpt: "Rockwell worked with Microsoft on the creation of these capabilities and uses Open AI to communicate with Rockwell products running in Azure, he said (see: Rockwell Forges Gen AI Pact With Microsoft, Buys Cyber Firm). \"Rockwell knows the OT side of things."
+    publishedDateTime: 2023-11-09T20:36:00Z
+    webUrl: "https://www.govinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 19
 
 secured: "Kf2OtJQufzH2LybEXpYYQtCG8nleK0Bu5pWRQyTZU1iQSo1cw9nIGgTfKWzIOToxr4uJ3sj0yy7Qt2U3/3tMl0z3KHmgUcLR/Bcka33YL93QpwXCvUUC4YvD5Wn4odAsdhlqkJkySnEuOQjXMAxMQGXIfS01Zw+PR0E89jq8A9/7H7kwkEq2ej3hMDuBcsR15l2MYo3D8OW4RA5Nownd5EG5fJMypd1ja4EV5NSavbtdZJbU3bdzXR7VJo+qKMKo9h/mW6ga1nAEPnEy4f6gaxsRZ49ef6ZiYhPpR4soObNiUq5USDhOKEoTELUCAbPMoKmoozea7ELtq3tGS4oUXE74VC2ntqf1aufggxzmwJY=;2Ac7Gg5MpQw4Q08jLn46IA=="
 ---

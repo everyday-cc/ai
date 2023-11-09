@@ -102,6 +102,24 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "OpenAI Announces GPT-4 Turbo, Ushering In A New Era Of AI"
+    excerpt: "OpenAI, the leading artificial intelligence research lab, has launched GPT-4 Turbo, its latest and most powerful AI model to date."
+    publishedDateTime: 2023-11-09T19:25:00Z
+    webUrl: "https://www.forbes.com/sites/elijahclark/2023/11/09/openai-announces-gpt-4-turbo-ushering-in-a-new-era-of-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "OpenAI Seeks Partnerships to Generate AI Training Data"
+    excerpt: "OpenAI said it is seeking partners to help it create an open-source dataset for training language models. This dataset would be public for anyone to use in AI model training, it said. The company said it is also preparing private datasets for training proprietary AI models."
+    publishedDateTime: 2023-11-09T20:20:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-11-09/openai-seeks-partnerships-to-generate-ai-training-data"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Today’s Cache | Elon Musk to integrate AI startup with X; Humanoid robots and their problems; OpenAI plans for developer conference debut"
     excerpt: "While ChatGPT has achieved popularity as both a desktop tool and a smartphone app, OpenAI CEO Sam Altman hopes to push the boundaries by creating a platform which developers will use to launch their own AI-generated products, reported Reuters."
     publishedDateTime: 2023-11-06T09:20:00Z

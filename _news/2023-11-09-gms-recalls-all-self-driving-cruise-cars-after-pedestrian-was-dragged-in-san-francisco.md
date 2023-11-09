@@ -71,6 +71,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Cruise Recalls All Self-Driving Cars Due to Unsafe Software Glitch"
+    excerpt: "After General Motors’ self-driving car company Cruise suspended operations nationwide on Oct. 27 after facing a federal investigation into its cars’ safety, it announced this week that it’s recalling all of its remaining 950 vehicles for a software problem. That problem led to one of the company’s most harrowing crashes in San Francisco last month."
+    publishedDateTime: 2023-11-09T22:18:00Z
+    webUrl: "https://www.austinchronicle.com/daily/news/2023-11-09/cruise-recalls-all-self-driving-cars-due-to-unsafe-software-glitch/"
+    type: article
+    provider:
+      name: The Austin Chronicle
+      domain: austinchronicle.com
+    quality: 24
+    images:
+      - url: "http://www.austinchronicle.com/imager/b/original/3093958/504c/cruise_car.jpeg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Cruise Recalls 950 Self-Driving Cars After Pedestrian Collision"
     excerpt: "GM-owned Cruise announced a voluntary recall of 950 of its self-driving vehicles on Wednesday to fix issues with its collision detection system. The recall comes just over a month after a crash where one of its cars struck and dragged a pedestrian while ..."
     publishedDateTime: 2023-11-08T21:54:00Z
@@ -79,6 +93,15 @@ related:
     provider:
       name: Road & Track
       domain: roadandtrack.com
+    quality: 4
+  - title: "Cruise recalls 950 self-driving vehicles over software glitch"
+    excerpt: "Less than two weeks after suspending self-driving car operations in Austin and across the country, General Motors-owned Cruise LLC is recalling 950 vehicles because of a software problem."
+    publishedDateTime: 2023-11-09T19:49:00Z
+    webUrl: "https://www.texasstandard.org/stories/cruise-recalls-950-self-driving-vehicles-over-software-glitch/"
+    type: article
+    provider:
+      name: Texas Standard
+      domain: texasstandard.org
     quality: 4
 
 secured: "UHFMk7fBvWcg48ckjmJS0QSz2yRTI6lFW8GcF+kbHZ5rXDFxbuTHFhRoYfDQy37QHDcjK2qATdAkHeZ2pmSy+C85l9UN0z/WQWJ/VZSm60HKHZNTsH8NyCvcOIJ5uJuUlRS5BemC4DCR/CWhJpex7w5ywgIvdrcYen5uPSGPhktpBFmHRPTCTtdV56Urs+3zeCvyo5k9LnDLL1pfGl8qIS0kkkELqmwzQrtM66rE7ljsz/t/opdyA6rJkawlpK3Lrrt+fwnkXQB4ceFwAwGNc8kA/llQOQIfjWKDCfGiUx9WE+icDs2oQk7W6u6raW6abNrsBGWrqgTibTDo32lPqhW5jcBiCVyai6tJHGX/XV0YJJ1UAPPgLheVcnfLHe1rxSLRTld0QKdYCInlmPR6BxJh90bdFp1EU5WAGp8IS2idqpTvOAloV+FV5sCezskwT+rQyakXiJuJJj3Yo4AJUkxMeryi0/R9ZgZz0Ol//eMQOZNNmRB16D0KOzAdYkMKkvzF6Lbj42aymGNw0pkaqw==;w+s5xgWHjfookLAAgdLoCg=="

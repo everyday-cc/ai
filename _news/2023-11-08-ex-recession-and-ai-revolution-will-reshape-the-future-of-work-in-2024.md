@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "AI expert reveals the best hiding place for the robot revolution"
+    excerpt: "Albert Fox Cahn, founder of the Surveillance Technology Oversight Project, has deep concerns about AI. He shares them in an interview with The ReidOut Blog."
+    publishedDateTime: 2023-11-09T20:40:00Z
+    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/ai-expert-concerns-robot-revolution-rcna123908"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 36
   - title: "The Future of Augmented Reality (AR) in 2024: Applications and Innovations"
     excerpt: "The world of technology is constantly evolving, and one of the most exciting developments on the horizon is the future of Augmented Reality (AR) in 2024. AR has come a long way since its inception, and it’s poised to revolutionize various industries with its innovative applications."
     publishedDateTime: 2023-11-06T11:54:00Z

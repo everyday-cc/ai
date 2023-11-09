@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-09T19:02:00Z
 originalUrl: "https://www.androidauthority.com/humane-ai-pin-3384224/"
 webUrl: "https://www.androidauthority.com/humane-ai-pin-3384224/"
 type: article
+quality: 49
+heat: -1
+published: false
 
 provider:
   name: Android Authority
@@ -18,6 +21,70 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Former Apple designers launch $700 Humane AI Pin as smartphone replacement"
+    excerpt: "The Humane AI Pin attaches to the lapel and is designed to replace your smartphone, allowing the user to make calls, send texts and look up information"
+    publishedDateTime: 2023-11-09T17:23:00Z
+    webUrl: "https://www.cnbc.com/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107331667-1699553938651-humane-press-shield-lifestyle-2.png?v=1699554038"
+        width: 3840
+        height: 2160
+        isCached: true
+  - title: "Humane’s Ai Pin is a $700 Smartphone Alternative You Wear All Day"
+    excerpt: "If you’re willing to clip the Ai Pin to your chest, you can talk, gesture, and tap to take photos or summon a powerful virtual assistant."
+    publishedDateTime: 2023-11-09T16:59:00Z
+    webUrl: "https://www.wired.com/story/humane-ai-pin-700-dollar-smartphone-alternative-wearable/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/654c0a3dc9d51892912e8ba5/191:100/w_1280,c_limit/Humane-Ai-Pin-Business.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "How Humane’s Ai Pin Works"
+    excerpt: "Paresh Dave: Good for us Android users. It's also notable that the foundation for the software is the Android operating system for the Humane Ai Pin, which for some reason they lowercase the I in Ai, just to let you know. Michael Calore: So it's like Ai."
+    publishedDateTime: 2023-11-09T16:59:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-620/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
+  - title: "The Humane Ai Pin is a $699 screen-free wearable designed to replace your smartphone"
+    excerpt: "A startup called Humane has been teasing a smartphone alternative for much of the year, and now the company has unveiled its screen-free mobile device called the Ai Pin. It goes on sale November 16 for $699 and customers in the US will be able to get unlimited text, talk, and data on T-Mobile’s network for $24 per month."
+    publishedDateTime: 2023-11-09T17:13:00Z
+    webUrl: "https://liliputing.com/the-humane-ai-pin-is-a-699-screen-free-wearable-designed-to-replace-your-smartphone/"
+    type: article
+    provider:
+      name: Liliputing
+      domain: liliputing.com
+    quality: 32
+    images:
+      - url: "https://liliputing.com/wp-content/uploads/2023/11/ai-pin_06.jpg"
+        width: 1200
+        height: 738
+        isCached: true
+  - title: "Humane officially unveils the Ai Pin, a device that aspires to replace your smartphone"
+    excerpt: "Humane has officially unveiled its Ai Pin, an AI-powered computing device that aspires to replace the smartphone."
+    publishedDateTime: 2023-11-09T20:03:00Z
+    webUrl: "https://bgr.com/tech/humane-officially-unveils-the-ai-pin-a-device-that-aspires-to-replace-your-smartphone/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 9
 
 secured: "idYDjkWsBwvvb+mOA4g2KBs6vp3fyljgGt3PARgoRMz+4xqIqWLQh5DMC2taHjsL4gzspPjQ9miDbWv8RBhhT7nFv0KsDuhC/ogpwztykBxvIpOip8S339qaVZp5f0rDoMDM9VG//DT4U7aAV5pmbUenSrkPxXLu3bDuq1/+tJkTAHKYgzcfBp8RoevYzxSaCkTDprJh7JriOnMzKdsyXDukHP9X3jqkdgINJjzhcFgltSKxH1akH+zZQu81Ypsab50gWNoNP1e/6f3uIQwTtJFZk4Lo6gWKqLLSqL4SZVf603e3ec6b0vUOrlNi2IghoEf2Mbx7ujuOWMdXdydSfccC2zWv2qJNfel4nBEZ137RuvSHF6hkJ+xUqMLPGmQ6mZAE6k6J5Bkq4t8SWNHDPQItF1bGk1PdLBaoWhgZEUgeVkuar9bwROJS8XVJv9rIzaOrvp3MJLz7vzUAUgYGCVkLERnVOGpAHb/Wcb3Bh8WYjnm2AjMbBpDBFWabQov2+0viOrbHbVzQM7iaGJYCWA==;0QXt9kA76Ax5LaasCudeKQ=="
 ---

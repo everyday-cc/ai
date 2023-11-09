@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-09T19:27:00Z
 originalUrl: "https://www.datanami.com/this-just-in/new-cdata-connect-cloud-gpt-powered-ai-generator-transforms-conversational-queries-into-sql-insights/"
 webUrl: "https://www.datanami.com/this-just-in/new-cdata-connect-cloud-gpt-powered-ai-generator-transforms-conversational-queries-into-sql-insights/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: datanami.com

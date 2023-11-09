@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-09T18:55:00Z
 originalUrl: "https://www.forbes.com/sites/joannechen/2023/11/09/beyond-doomsday-why-ai-promises-a-brighter-future/"
 webUrl: "https://www.forbes.com/sites/joannechen/2023/11/09/beyond-doomsday-why-ai-promises-a-brighter-future/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

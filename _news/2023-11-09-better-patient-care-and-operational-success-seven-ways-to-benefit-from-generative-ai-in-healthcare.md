@@ -119,6 +119,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Policymakers Must Balance Innovation With Patient Safety for AI in Healthcare"
+    excerpt: "When it comes to artificial intelligence (AI) in healthcare, policymakers must balance innovation with potential harms to patients and healthcare workers, lawmakers and witnesses said during a Senate hearing Wednesday."
+    publishedDateTime: 2023-11-09T22:13:00Z
+    webUrl: "https://www.medpagetoday.com/washington-watch/washington-watch/107260"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 51
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/107xxx/107260.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Biden executive order imposes new rules for AI. Here's what they are."
     excerpt: "WASHINGTON -- President Joe Biden issued a wide-ranging executive order on Monday that aims to safeguard against threats posed by artificial intelligence, ensuring that bad actors do not use the ..."
     publishedDateTime: 2023-11-05T12:07:00Z

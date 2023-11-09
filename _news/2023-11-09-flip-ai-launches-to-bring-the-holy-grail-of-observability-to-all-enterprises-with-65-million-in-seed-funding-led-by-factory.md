@@ -1,20 +1,39 @@
 ---
 category: news
 title: "Flip AI Launches to Bring the 'Holy Grail of Observability' to All Enterprises With $6.5 Million in Seed Funding Led by Factory"
-excerpt: "Today Flip AI launched with its observability intelligence platform, Flip, powered by a large language model (LLM) that predicts incidents and generates root cause"
-publishedDateTime: 2023-11-08T16:02:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/11/g35678759/flip-ai-launches-to-bring-the-holy-grail-of-observability-to-all-enterprises-with-6-5-million-in-s"
-webUrl: "https://www.benzinga.com/pressreleases/23/11/g35678759/flip-ai-launches-to-bring-the-holy-grail-of-observability-to-all-enterprises-with-6-5-million-in-s"
+excerpt: "Flip AI Raises Funding from Factory, Morgan Stanley Next Level Fund and GTM Capital Today Flip AI also announced $6.5 million in seed funding led by Factory. Morgan Stanley Next Level Fund and GTM Capital also participated. The company plans to use the money to continue to advance its product roadmap and LLM and to expand its team and operations."
+publishedDateTime: 2023-11-08T17:16:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9914309.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9914309.htm"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "5ichCQsFVRTWGatJ/Q0kAvp/ic+csybcT7oawvSnoQGci5u0GJcNLaVyLes73wZliu0/knHBBy63HZqA0aAbwBQrvjavb/nuW8/R1Rm6rx0uJgcNwuia9f1cKzp63J1OO/34lIMnU7SHFVvD4m3EOo+qelFC/1L32JRLhLf/YDLEjfJMMNNA6m0wtyehlT9eF2doIWMlD3/VB2XbCnYZaW/IMiWyTeSFhnorpa8pdZMTFiqX+yUqHxL+Hck8+q4E3PhGmkgcgPB0d1Z1trjWa71NtEYZgulBetqntdRPNQ2PVrk4U3m/ZMxHucYCcVEerFdVcc3qx9VPWjComdlL2e4VlYgfrQFYMouGoPnhJVk=;OEAIucJZedNnzSzfO2F9VQ=="
+related:
+  - title: "Ritual Secures $25 Million in Seed Funding to Decentralize AI"
+    excerpt: "AI platform Ritual obtained a $25 million capital injection in a Series A funding round led by Archetype with assistance from Accomplice."
+    publishedDateTime: 2023-11-08T21:00:00Z
+    webUrl: "https://cryptonews.com/news/ritual-secures-25-million-in-seed-funding-to-decentralize-ai.htm"
+    type: article
+    provider:
+      name: cryptonews
+      domain: cryptonews.com
+    quality: 39
+    images:
+      - url: "https://cryptonews.com/wp-content/uploads/2023/11/1699475021-ai-7977960_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+
+secured: "pCNhhruch2dB61GezZWB3vC6AiZqQvbwQ0WvrqR2S3FlJEDW6c0gOwcVs0UoJDMq3unoxY63lLtk9DiEdbGfkw7Nx5EymEUVoCvxSz+mXxsG4GTdefMD8or2ySDMSfxeXLh7WrF/6PaaoFsurrdX1redmZ0KqpPROwtcGWlL6+C30fV0+af6E8F0bfjsEiiLGCnXglTu7P8I/ffwRnDr0PpgG+6fSOinQRt4rjxqGOjfHVvFiO+1gx8baN/ARHzZDp7UmsnpwbdTBNXesV29kwrNXbgX42ITWMxZi2w2zVk5Qgud/rnrEYtxSjD8xjUUxNhA8PtoZ9JOEJInLiIU7flch083OXp+K9LaDdraqwU=;MssZNv6wjGuA34W5RKL1iw=="
 ---
 

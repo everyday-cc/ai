@@ -1,15 +1,15 @@
 ---
 category: news
 title: "From goat exports to driverless vehicles: the 21 bills in the king’s speech"
-excerpt: "Proposed measures that made it into Rishi Sunak’s pre-election legislative programme – and those that didn’t Here are the 21 bills that made it into the final legislative programme before the next election: Animal welfare bill This policy aims to ..."
-publishedDateTime: 2023-11-08T06:49:00Z
-originalUrl: "https://www.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak?ref=biztoc.com"
+excerpt: "Proposed measures that made it into Rishi Sunak’s pre-election legislative programme – and those that didn’t"
+publishedDateTime: 2023-11-07T17:32:00Z
+originalUrl: "https://www.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak"
+webUrl: "https://www.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak"
 ampWebUrl: "https://amp.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "One and Half Remote Cruise Employees Were Supporting Each Driverless Car"
+    excerpt: "Tesla FSD Can Go Next Level Without Going Driverless Robotaxi Tesla’s FSD (fullself ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology."
+    publishedDateTime: 2023-11-09T21:48:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/11/one-and-half-remote-cruise-employees-were-supporting-each-driverless-car.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 38
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/11/Screen-Shot-2023-11-09-at-1.38.19-PM.jpg"
+        width: 1988
+        height: 1264
+        isCached: true
   - title: "03 | The bumpy history of driverless cars and their AI brains"
     excerpt: "When you think about a driverless car future, perhaps your mind goes to being driven around, watching movies from the backseat and drinking martinis. For over a decade, perfect driverless cars have seemed only a few years away."
     publishedDateTime: 2023-11-07T14:00:00Z
@@ -66,6 +80,6 @@ related:
       domain: theguardian.com
     quality: 14
 
-secured: "6AKO5ZEjzxjTQh3bV560xla0R5OF20eGDrIRfR7Uduho6MZyqSVjt5EwTqncTD3lHMek4SHzn+Mr1XK/zIpQM4gSP/dhYww0HcoXkIVHKA0JRdrV0U3KFCKHbycV3Y7el6/SM5amqtSG2v207/snoLqJfO016S2qIa2TtY9hp/E8LJ75dR5WAfIWTY5d3dBF50JNjPJfe5Y0hwADbLSxWXJS95Wr5TrhYOkf7GIKJY0kXvfG8Mhjx77fun9xd74IQ75zjlAkEgjXZ/PErtTRw1xP1ZTCxAtENrWOElTlUwbnGGD6bOogyo+96SczlTwLhlaCmuKnFDvp2auPgs1kjTXNxykbDBBWhe/SnxASILUhNyLAnIPkb/3FLETbxR0FZPtGVNxankHvdnsD8gTmlOvkLptYR1J5qXoX0Fqlp1JX2K1jT5/L62KAS53lZqwbRywhXiQtJ0jo8w0m65d05vX2EymbALx/hTw09wAi2yF0ByVkEGyWSycZk/eCHTJkapzB3sBNChgv4v5sYCr4zQ==;cYs8sPCvvK0q3uQiUvqsvQ=="
+secured: "G+CixkAkvxpBj7NAkkdMwyTqmzZFI53WBuzY8GRgZLf3thhQ4q9pR3y3sjlnQeI+4EUq5L2DeLdBNndQvUgS3al8Q9w3fYPTk1d1tueHTyRn/zFnWAjgGXylsEVXg1iMy6JmyUpb8GTw3QAnuzchWj/67Ux5PSCebsOoctHpETcBIqJNHUqni7ClNqizDt6m64pDK0PvOvebtP4J9Hf+ruuHTU1ohaT+hV/8LizlIAzpwdNg1IqjOVXXCSmA9RUBINmETR3DcTNNcWUGw5LfbmUPJNOdLNVLfkx5C9TJ6ZFIam/c0X6z7g8mau4XIKpwCGOVIGb/J6ylgPUbDhgglqbV2s6JIzNpZpLZx2YplRs=;Yg2P8uVBz+WYlqM4H/P/xw=="
 ---
 

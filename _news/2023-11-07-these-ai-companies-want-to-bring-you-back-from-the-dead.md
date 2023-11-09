@@ -7,8 +7,8 @@ originalUrl: "https://gizmodo.com/ai-live-forever-replicant-hanson-robotics-here
 webUrl: "https://gizmodo.com/ai-live-forever-replicant-hanson-robotics-hereafter-1850990617"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Gizmodo
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "AI Could Supercharge These 2 Companies"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Hello, Reader. AI is an incredibly powerful – almost scary-powerful"
+    publishedDateTime: 2023-11-09T20:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-could-supercharge-these-2-companies-1032802435"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2023/06/picture1-1.png"
+        width: 1430
+        height: 804
+        isCached: true
 
 secured: "DYdIThikGbEMDUjqVYTv0QyvWgv0UJE7WIzRGrjIYSqnF+QXl6Nli8tvn9+xGDwXMW4HKn4K+mvmSO3hTUchkObQaJsyO9+qHOSWfVUoZ+boCpDA58Md1ZL9wRMkI7N4iGprrH63vSsvfcIumVRLu20to8WR+yFY37pY1Us0oP9kDzoKi7NQU3izfoVDt5ircZmPcnYuPavGH8loOO932HWZu5QS6ff1pZvg/14OydfRqJMuZHHdW0Xj4XBfJjVhT0Ya4e1ts/1D6Jl4iRCpgFznPuBUy2icdMDz39WmeVp3RAMZ14tuHgon63boes1hO2no5WvZZYLWQpp2J4crdlxg8aIj5KRD4sLNWPA2oFipWmxvUbHRHf3Qqga/7puPEODfWOyuZHIZL24RjRtkdHT/JVo00cEmOQqF0+T7BOnTxiKOfBJ0dHLkTnKcbz+gHaHO9Mch1ZSiRR28+aonR6MPn2SaB3tMmT2LEg5BF1eArZzF+p4omjXCxPeZv3EC74WUItGX6f2A/IAF5VmL9Q==;4JCuB9SAPaxYNL5y8SuRfA=="
 ---

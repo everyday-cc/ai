@@ -25,22 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Embracing artificial intelligence: How AI could be a powerful tool in northern Michigan"
-    excerpt: "In today's world, artificial intelligence is no longer science fiction; it's a powerful tool and it's transforming everything."
-    publishedDateTime: 2023-11-08T23:35:00Z
-    webUrl: "https://wwmt.com/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan"
-    ampWebUrl: "https://wwmt.com/amp/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan"
-    cdnAmpWebUrl: "https://wwmt-com.cdn.ampproject.org/c/s/wwmt.com/amp/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan"
+  - title: "The AI Debate Is Happening in a Cocoon"
+    excerpt: "Earlier this year, executives at Anthropic, Google DeepMind, OpenAI, and other AI companies declared in a joint letter that “mitigating the risk of extinction from A.I. should be a global priority alongside other societal-scale risks,"
+    publishedDateTime: 2023-11-09T21:55:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2023/11/focus-problems-artificial-intelligence-causing-today/675941/"
     type: article
     provider:
-      name: wwmt
-      domain: wwmt.com
-    quality: 66
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 67
     images:
-      - url: "https://wwmt.com/resources/media/09f9de02-c702-415a-bdd2-62d7441594cb-medium16x9_thumb_6280.png"
-        width: 648
-        height: 365
+      - url: "https://cdn.theatlantic.com/thumbor/trZtLmEi_KYz6aK0zWMAxjqZ3Hg=/0x43:2000x1085/1200x625/media/img/mt/2023/11/robot_calendar/original.jpg"
+        width: 1200
+        height: 625
         isCached: true
+  - title: "Trained on Chips, Gen AI is Shaping the Chip Industry"
+    excerpt: "ChipNeMo is trained on the company’s internal data to generate and optimise software in designing semiconductors by customising large language models with the help of NVIDIA NeMo —a cloud-native framework for developers to create and deploy generative AI models with billions of parameters."
+    publishedDateTime: 2023-11-06T05:57:00Z
+    webUrl: "https://analyticsindiamag.com/trained-on-chips-gen-ai-is-shaping-the-chip-industry/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/11/unnamed-13.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The impact of artificial intelligence on the coffee industry"
+    excerpt: "GCR explores how AI is helping businesses save time and money, and why it’s not necessarily something to fear."
+    publishedDateTime: 2023-11-08T21:43:00Z
+    webUrl: "https://www.gcrmag.com/the-impact-of-artificial-intelligence-on-the-coffee-industry/"
+    type: article
+    provider:
+      name: gcrmag.com
+      domain: gcrmag.com
+    quality: 19
 
 secured: "Pxc5svq5jdTjV2KkGd07GVo50aupBA/wTVvdaH6RhDIQ0upg1K7e5uKZlK3dAWx4j2m0Myhk1zgPOHvYerDJMIn8vRxmSb5WWZ4pxdwnrT5m/7wVbowLhVlVEVFo6SGcBHM8bcEUDZdWA8UyrLQXoPI3IJRCrNxi2aQhJYkoVZUknW5tv3gxzMuLIyqUnnPipEQANYWzRFL0RejcZtJnTbZvZotd3xKl1PA5fM/4h15C5w/dgnPyGJ1h3gT2QUzm+1QmRLYrrrwDzUa4N0oOpucrev1hB+P164jTWdArLZ5MNcpBBNwDxId2JT4/4dfcjyqotD06o398D2C0BeGIPjZBQeKKO2bu5E1MUwDShmc=;eNxTRA8h2odHElx5Wpj4YQ=="
 ---

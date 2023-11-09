@@ -62,6 +62,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Safeguarding Human Invention in the Age of Artificial Intelligence"
+    excerpt: "As AI becomes more ubiquitous and makes greater contributions to the invention process, the role of protecting and promoting human inventorship becomes critical."
+    publishedDateTime: 2023-11-09T21:49:00Z
+    webUrl: "https://www.csis.org/analysis/safeguarding-human-invention-age-artificial-intelligence"
+    type: article
+    provider:
+      name: csis.org
+      domain: csis.org
+    quality: 37
+    images:
+      - url: "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2023-11/GettyImages-1366475366_Crop1.jpg?VersionId=83fdBF0fkfayL_SNWOgnHZDNeNzWji2g"
+        width: 4160
+        height: 2340
+        isCached: true
   - title: "Unveiling the Pulse of AI in Language Services: SAFE-AI Task Force Launches Pivotal Perception Survey"
     excerpt: "Global discussions underscore the urgency of a collaborative approach towards navigating the frontier AI landscape. The Perception Survey by the SAFE-AI Task Force aligns with this international momentum, aiming to foster a comprehensive dialogue around AI ethics and safety in the domain of language interpretation."
     publishedDateTime: 2023-11-08T18:24:00Z

@@ -125,6 +125,15 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "AI expert reveals the best hiding place for the robot revolution"
+    excerpt: "Albert Fox Cahn, founder of the Surveillance Technology Oversight Project, has deep concerns about AI. He shares them in an interview with The ReidOut Blog."
+    publishedDateTime: 2023-11-09T20:40:00Z
+    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/ai-expert-concerns-robot-revolution-rcna123908"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 36
   - title: "AI and the Erosion of Human Cognition"
     excerpt: "The intersection of AI and human cognition is as much about philosophy and ethics as it is about technology. If history is any guide, every significant technological advancement brings with it societal trepidation. The printing press, electricity ..."
     publishedDateTime: 2023-11-05T21:41:00Z

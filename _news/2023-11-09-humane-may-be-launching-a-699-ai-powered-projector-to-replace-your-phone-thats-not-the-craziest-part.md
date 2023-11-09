@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/humane-may-be-launching-a-6
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/10/humane-ai-pin-time.jpg?quality=82&strip=all"
         width: 1599
         height: 1066
-        isCached: true
-  - title: "The Humane Ai Pin is a $699 screen-free wearable designed to replace your smartphone"
-    excerpt: "A startup called Humane has been teasing a smartphone alternative for much of the year, and now the company has unveiled its screen-free mobile device called the Ai Pin. It goes on sale November 16 for $699 and customers in the US will be able to get unlimited text, talk, and data on T-Mobile’s network for $24 per month."
-    publishedDateTime: 2023-11-09T17:13:00Z
-    webUrl: "https://liliputing.com/the-humane-ai-pin-is-a-699-screen-free-wearable-designed-to-replace-your-smartphone/"
-    type: article
-    provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 32
-    images:
-      - url: "https://liliputing.com/wp-content/uploads/2023/11/ai-pin_06.jpg"
-        width: 1200
-        height: 738
         isCached: true
 
 secured: "PAVdsIxe+UaNLFS3mFejQw4mj0sc3wh7jUQm/21GvRcSez3BhCVvMGM+4tiPnCubx0fx1RmUvW1sYmUj5yHyEe6hRukyG69/+wdegWbW0L0BLeMAKvQxgoM/EsSCBHu8JZV98YbB5wFHT2bH3C5GQWgsiWS2qJe4ol2TXUv72HZiDFHL33CYC29MQdVyPHEYdCcZ9qFV3j7lmaOYdNWgjFnUs1sxejnuiOhtFwg6jNJMFMKipPsHQ4pfVRrTMiZexKuRcAa7/9n6q4sENT1zryWti2rYrWws+cGuvPRWnapoXknv49JiT/tYOqcxy/Iesm8axxmpG4my7PyneNq7m1owcaD7t34mxkG61UmPn6k=;OXm2WhRy40ilsPeX2vRdEg=="

@@ -88,6 +88,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The evolution of Artificial Intelligence"
+    excerpt: "But first, a bit of a timeline or history. In 1943, Warren McCulloch and Walter Pitts proposed a mathematical model of artificial neurons. This became the cornerstone for developing neural networks and computational models inspired by the human brain."
+    publishedDateTime: 2023-11-09T19:45:00Z
+    webUrl: "https://www.dailynews.lk/2023/11/10/featured/223007/the-evolution-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Daily News
+      domain: dailynews.lk
+    quality: 21
+  - title: "AI startup Anthropic to use Google chips in expanded partnership"
+    excerpt: "Anthropic will deploy Google’s Cloud TPU v5e chips to help power its large language model, named Claude, the companies said on Wednesday. Such software uses a flood of data to train AI interfaces, letting them field questions and generate conversational text."
+    publishedDateTime: 2023-11-09T20:34:00Z
+    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-to-use-google-chips-in-expanded-partnership/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "l7SdQJvWJdrZ19C1+0QdCubihQZaf3vxQ596IxPU8oNaVrzN6wqif6iirqOXVpZroTTIVjbUAQBmjqBAZ8YFHSUfDqkgn+Z4isP54DF3leFxU1lAKYLRq1vepleDR797xB3r7iYYMweDYldTScc51UMcEI5ax6G8BJqHA6u4W6eERFcAEyDjmrdPEN360i4XmV2bANaPpkW7P/PIuVmHVir5PujgtucSH8e5S5InFYE6o3iV44stkpLsTPvZC0paQHsvF1fEoDTg2q7b+N+apnvy5wNzau4GlKQ7uNGuJPsjVo/G/OCEG+A9vilXIQ/SMOtG2ch9zsu+aiB8lvhUgG/PQcBL7ln23SVV2p8RPggpidtJFM04fwzZ4njA4VS2LcQ67JDQwQq3hnhf/HTfEF+IX/YXvyYGsIV/ADCQHNm49Bb27xl6BHNYy8CG9qCUcjQtPOeNjuHCXsZz0+7K/fDoVSpgarKPWQ0tZKkiCsYrEeKoCAdFwOQSNzwcuhpVq3Rp4TwhzRNF+foD3DOL9A==;gMGYkHcnSLw+1uCaSG6JYw=="
 ---

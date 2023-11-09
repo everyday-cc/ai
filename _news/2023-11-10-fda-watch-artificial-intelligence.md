@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-09T19:15:00Z
 originalUrl: "https://www.contractpharma.com/contents/view_experts-opinion/2023-11-09/cross-agency-cooperation-takes-next-step-in-artificial-intelligence-maturity/"
 webUrl: "https://www.contractpharma.com/contents/view_experts-opinion/2023-11-09/cross-agency-cooperation-takes-next-step-in-artificial-intelligence-maturity/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Contract Pharma

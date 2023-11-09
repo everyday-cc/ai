@@ -7,7 +7,7 @@ originalUrl: "https://cointelegraph.com/news/china-ai-chip-market-expansion-desp
 webUrl: "https://cointelegraph.com/news/china-ai-chip-market-expansion-despite-us-export-restrictions"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -23,114 +23,6 @@ images:
     width: 1200
     height: 799
     isCached: true
-
-related:
-  - title: "Nvidia to release three new AI chips for China after US restrictions – report"
-    excerpt: "Reports come weeks after US blocked Nvidia from selling two high-end AI chips and a top gaming chip to Chinese firms"
-    publishedDateTime: 2023-11-09T14:53:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/nov/09/nvidia-ai-chips-china"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/nov/09/nvidia-ai-chips-china"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/09/nvidia-ai-chips-china"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 71
-    images:
-      - url: "https://i.guim.co.uk/img/media/93e7315b6d90e9e0f33583431d753fee77cd3eb8/0_53_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=5cc7f6a98f64d69f3f0de741a1510c43"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Nvidia plans to release three new chips for China"
-    excerpt: "SHANGHAI (Reuters) - Nvidia (NVDA.O) is planning to release three new chips for China, local media reported on Thursday, weeks after the U.S. blocked it from selling two high-end artificial intelligence (AI) chips and one of its top gaming chips to Chinese firms."
-    publishedDateTime: 2023-11-09T12:57:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/769258-Nvidia-plans-to-release-three-new-chips-for-China-"
-    ampWebUrl: "https://dunyanews.tv/amp/english/769258.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/769258.php"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 59
-    images:
-      - url: "https://img.dunyanews.tv/news/2023/November/11-09-23/news_big_images/769258_11250712.jpg"
-        width: 752
-        height: 423
-        isCached: true
-  - title: "AI-chip cousins? CEO Nvidia, AMD lead US tech war against China"
-    excerpt: "The chief executives of Nvidia and AMD aren’t just two of the most powerful people in the global AI chip industry, they’re also cousins."
-    publishedDateTime: 2023-11-06T13:55:00Z
-    webUrl: "https://interestingengineering.com/culture/cousins-ceo-nvidia-amd"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/11/06/image/png/HFrVnBurPNDETh1zSinvHl4MKlqlLtt8AhY5s7wa.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "NVIDIA to launch 3 new AI chips for Chinese market"
-    excerpt: "NVIDIA is said to be preparing the launch of three new chips specifically for the Chinese market, as reported by local media"
-    publishedDateTime: 2023-11-09T09:56:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/nvidia-to-introduce-3-new-ai-chips-in-china/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 54
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l63220231109150702.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Why Nvidia’s A800 Workstation GPU Uses A Chip Originally Made For China"
-    excerpt: "The product in question is the A800 40GB Active, which Nvidia quietly launched last week as a workstation GPU for AI, data science and high-performance computing. The chip is available in North America and other regions not impacted by a new wave of U.S ..."
-    publishedDateTime: 2023-11-09T18:11:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/why-nvidia-s-a800-workstation-gpu-uses-a-chip-originally-made-for-china"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0287-196b37e31c7f-2a11987026df-1000/nvidia-a800-active.jpeg"
-        width: 650
-        height: 246
-        isCached: true
-  - title: "NVIDIA shatters records, training AI models in under 4 Minutes"
-    excerpt: "NVIDIA's AI platform has once again demonstrated its capabilities by setting new records in the latest MLPerf industry benchmarks, a well-regarded measure"
-    publishedDateTime: 2023-11-09T10:17:00Z
-    webUrl: "https://www.geeky-gadgets.com/training-ai-models/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/NVIDIA-shatters-records-training-AI-models-in-under-4-Minutes.jpg"
-        width: 1280
-        height: 718
-        isCached: true
-  - title: "Nvidia develops AI chips for China in latest bid to avoid US rules"
-    excerpt: "Nvidia is preparing to launch the new chips just weeks after the US restricted sales in China of high-performance chips that can be used to create AI systems, in the Biden administration’s latest salvo in a tit-for-tat tech war between the two superpowers."
-    publishedDateTime: 2023-11-09T12:39:00Z
-    webUrl: "https://www.ft.com/content/045878a7-a75a-47b9-bc7f-115ea1025c5b"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
-  - title: "Nvidia Stock: A Buy After U.S. Regulation On Chip Exports"
-    excerpt: "The new U.S. export controls may impact Nvidia's revenue from China, but global demand for NVDA AI chips and Indian market offer growth. See why NVDA is a Buy."
-    publishedDateTime: 2023-11-07T12:50:00Z
-    webUrl: "https://seekingalpha.com/article/4648383-nvidia-stock-buy-after-us-regulation-on-chip-exports"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "D7RuWmaAWW8wPc5zjjPVLkAunJY3O3l07L6Rxafc44/cbum0/ReJtjgN6diGd3emnrdwIikj1NxzcnRZZPPzAhNN11ijChaa6vwSVYd4tKmJh1I0mfd/FBh8sFDxBpvIxvsmISsF2vfBfSaPqmGhk5JvZoLdYcqr3jKeWQzZCfPsjoMQcm2Nfrm4I3HWhy7LGr40Mm4itbIfB6uxSbeqSDxYb6bBqpu9v5nTheXpyka9AGr3eiOsDB6T+S3rfnDatoVAY67qRZhuxlLJIDxz8An2DzuDaqaLenOWZzw4AAhKdeBfiFzDQJl2Itd0lWU0HaX5nfqOtAZIGHhjleyO5xEWd+X78GptMLrkb+kWQbTDQIrSHp06ID4Yg+A8vk/Okln8nTFTn1y0FqyZXLI+JtMCiDW11DOQXc+bhcvzWACtkrgoYc6D5Mlt7+zDzeGUXfJXPTsMPXATcxvizTOFXAThxGT+XYHyfxh7CWNQmasWRT1b1H3IPuhIKN1zURQY4qC+tirXgsvvaE3NmfY7iw==;SVbTg7JkjnfnKc4k4aNcnw=="
 ---

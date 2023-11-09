@@ -51,21 +51,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
-    excerpt: "An industrial robot grabbed and crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigated whether the machine was defective or improperly designed."
-    publishedDateTime: 2023-11-09T18:51:00Z
-    webUrl: "https://dunyanews.tv/en/Business/769324-An-industrial-robot-crushed-a-worker-to-death-at-a-vegetable-packing-pla"
-    ampWebUrl: "https://dunyanews.tv/amp/english/769324.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/769324.php"
+  - title: "Industrial robot crushes worker to death as he checks whether it was working properly"
+    excerpt: "Police said the man died of head and chest injuries Tuesday evening after he was snatched and pressed against a conveyor belt by the machine’s robotic arms."
+    publishedDateTime: 2023-11-09T21:43:00Z
+    webUrl: "https://www.wltx.com/article/news/nation-world/industrial-robot-crushes-worker-to-death/101-a42d859a-fb6e-4566-bb01-249299d22b45"
+    ampWebUrl: "https://www.wltx.com/amp/article/news/nation-world/industrial-robot-crushes-worker-to-death/101-a42d859a-fb6e-4566-bb01-249299d22b45"
+    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/nation-world/industrial-robot-crushes-worker-to-death/101-a42d859a-fb6e-4566-bb01-249299d22b45"
     type: article
     provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 50
+      name: WLTX19
+      domain: wltx.com
+    quality: 52
     images:
-      - url: "https://img.dunyanews.tv/news/2023/November/11-09-23/news_big_images/769324_39755171.jpg"
-        width: 752
-        height: 423
+      - url: "https://media.wltx.com/assets/WLTX/images/a8072143-8931-4df9-93e1-742219af7d74/a8072143-8931-4df9-93e1-742219af7d74_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
     excerpt: "An industrial robot crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigate whether the machine was unsafe or had potential defects. According to police officials in the southern county of Goseong,"
@@ -80,6 +80,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/i.PrRoX1QVMpKfbTJHQc_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTY-/https://media.zenfs.com/en/aol_associated_press_484/ba198498b214b06a6112ef95547136f9"
         width: 1199
         height: 796
+        isCached: true
+  - title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
+    excerpt: "\"It wasn't an advanced, artificial intelligence-powered robot, but a machine that simply picks up boxes and puts them on pallets,\" said Kang Jin-gi, who heads the investigations department at Gosong Police Station. He said police were working with related ..."
+    publishedDateTime: 2023-11-09T22:03:00Z
+    webUrl: "https://missoulian.com/news/nation-world/science/industrial-robot-crushes-worker-to-death-at-south-korea-plant/article_b1510909-ad82-53f1-9937-3ba4a3da50aa.html"
+    type: article
+    provider:
+      name: Missoulian
+      domain: missoulian.com
+    quality: 30
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/b/15/b1510909-ad82-53f1-9937-3ba4a3da50aa/654d5391e248e.preview.jpg?crop=1418%2C744%2C6%2C56&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "1p28kH69nHGNspsBxmVfhV/B9A2YstT+o3ZM2eAXCmOM3LR/n7T4qBMxr/QhogvBlaGrbuCrkCpB+zZFsgXj3qaj5j5l6wpUpdVyyNs9uMm9rzImEljk/rpypXeaBrrKRy/GSTTMxCyWKPpgjpnQmuowNjwYpzX/oo82Yga8w4Dg+JFdKl9v7Q5wUUINzSM5nV6fp13UKVwkP0ke60TVZcxvfXfsq2nXK053jI6m4MZwC6WLsUodDxe/Bt6uA0pn4xv89xgSbJHyq2Vop3l6PKsBcE1sDx+j8nLcq+8PsS9LYmWHKmRvLgC1qCw3FUwsAuVlOggwr66tw1SAYUX62kCjPEueCqwW1+8i3ZEq34KlmIH1w3CT0OKeGSvxv8fBLFWxfOEqkJMiSj8RsLTW8J2gPVF/SdwmLXw5eaQBxZlxgX3JSTdbyN+kNiZgkjejiSIethrSXH/YDSqtiIOboSvGiKmSvqztUFto00L2WZ/uAKN9dWLmq8epOKBL7YzQOJS+TPQOAj32JMqPSDXNQQ==;kCnax0hnbUdHaGBbEHvHZg=="

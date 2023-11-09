@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/industrial-robot-cru
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/industrial-robot-crushed-worker-death-vegetable-packing-plant-104749839"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -43,21 +43,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
-    excerpt: "An industrial robot grabbed and crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigated whether the machine was defective or improperly designed."
-    publishedDateTime: 2023-11-09T18:51:00Z
-    webUrl: "https://dunyanews.tv/en/Business/769324-An-industrial-robot-crushed-a-worker-to-death-at-a-vegetable-packing-pla"
-    ampWebUrl: "https://dunyanews.tv/amp/english/769324.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/769324.php"
+  - title: "Industrial robot crushes worker to death as he checks whether it was working properly"
+    excerpt: "Police said the man died of head and chest injuries Tuesday evening after he was snatched and pressed against a conveyor belt by the machine’s robotic arms."
+    publishedDateTime: 2023-11-09T21:43:00Z
+    webUrl: "https://www.wltx.com/article/news/nation-world/industrial-robot-crushes-worker-to-death/101-a42d859a-fb6e-4566-bb01-249299d22b45"
+    ampWebUrl: "https://www.wltx.com/amp/article/news/nation-world/industrial-robot-crushes-worker-to-death/101-a42d859a-fb6e-4566-bb01-249299d22b45"
+    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/nation-world/industrial-robot-crushes-worker-to-death/101-a42d859a-fb6e-4566-bb01-249299d22b45"
     type: article
     provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 50
+      name: WLTX19
+      domain: wltx.com
+    quality: 52
     images:
-      - url: "https://img.dunyanews.tv/news/2023/November/11-09-23/news_big_images/769324_39755171.jpg"
-        width: 752
-        height: 423
+      - url: "https://media.wltx.com/assets/WLTX/images/a8072143-8931-4df9-93e1-742219af7d74/a8072143-8931-4df9-93e1-742219af7d74_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
     excerpt: "An industrial robot crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigate whether the machine was unsafe or had potential defects. According to police officials in the southern county of Goseong,"
@@ -73,6 +73,20 @@ related:
         width: 1199
         height: 796
         isCached: true
+  - title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
+    excerpt: "\"It wasn't an advanced, artificial intelligence-powered robot, but a machine that simply picks up boxes and puts them on pallets,\" said Kang Jin-gi, who heads the investigations department at Gosong Police Station. He said police were working with related ..."
+    publishedDateTime: 2023-11-09T22:03:00Z
+    webUrl: "https://missoulian.com/news/nation-world/science/industrial-robot-crushes-worker-to-death-at-south-korea-plant/article_b1510909-ad82-53f1-9937-3ba4a3da50aa.html"
+    type: article
+    provider:
+      name: Missoulian
+      domain: missoulian.com
+    quality: 30
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/b/15/b1510909-ad82-53f1-9937-3ba4a3da50aa/654d5391e248e.preview.jpg?crop=1418%2C744%2C6%2C56&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Industrial Robot Crushed Worker to Death at Vegetable Packing Plant in South Korea"
     excerpt: "SEOUL, South Korea (AP) — An industrial robot grabbed and crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigated whether the machine was defective or improperly designed."
     publishedDateTime: 2023-11-09T14:34:00Z
@@ -83,6 +97,6 @@ related:
       domain: manufacturing.net
     quality: 13
 
-secured: "OPyIHdAzMcN5tFx7DvgAaKASt0O49VssKpIsnYfhuBaiatw8XTnN37QUeWPk4afOLfPKvcrnJ8TCWN4jmnmIBlACtedYwqz49r+BoZrtMbMSdKdIdw9eFMXylJjN+26GLf9LkvDQE9j8spOifKCqo/JkPa7SXzwtxRcnHFj1bjTbLnO4NhoV2VjLbVsTowO+g+rzdas23zQtDFsoLFzBxRl4us//aiN7qpYQ82nl0hVcFb2O7O0GcbBFDY7dw2eF8bszRLGvpuJX0I3JYOpxE5PKKxxoA0qIMxvVganv0yYXXCbH7sak9RzoT2u4VOh36bdgc3c+pZuRYMMJrfvP1BWvl0MeRXK8TxIt3AY41aw=;HLIBmSirpSpZ1gAJTbLS7w=="
+secured: "Qia/qTcjS85DuPUrcL7EJzBYzOCSrptfghoCIO42RMJsbGytDP5GOEylrb6JLXTK52EY2PAY5hL46n4jqvgQMv4T15HfEoZbeSqQMPNIRLj6/KAA0T6TMNDEe7sTRfA+ylu5GkA7A/VWwSTJSBtGNXPALzZhqK4wID1itsqQRg2gfsihPVEIsRQdNgITBgOZ4ev1/TAV8qu7ZKBRGjS8nsBaV15hZaYUYnCvJfJa1sgIx2VKE+pcqoZltDnUs7W4ThCCXu9OtFHDoinF0v6hKJD9RqlR4hIzNRF5JhCaVLIZOPju1WPj2SN8dylm0rmQK1F/sLFqoc5ZnPeIxdhPvxAbdsLp8L7+WgHppA7MFcKtD2Y7LlYxWaiOWY0392d2LKTOjgLG/VGLckxRyYrW+znp1rv/XaCGhp2rSXUI5zaVuLHxuNy85FL/5Lhe1q+8F51Qc6UeLsVj3wd+k5r3jOTCWC/CBTCugzSWhy3LKswW4QR14+xCUShnzeXVvcvW5Ac+OL6BqmKHHicWzt+lIw==;3cBjd5tkmk/Ibk7qB82AnA=="
 ---
 

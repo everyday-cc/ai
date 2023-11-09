@@ -25,36 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "Humane may be launching a $699 AI-powered projector to replace your phone. That's not the craziest part"
-    excerpt: "The secretive startup, founded by former Apple employees and backed by OpenAI's CEO and Microsoft, is launching its AI Pin wearable tomorrow."
-    publishedDateTime: 2023-11-08T18:07:00Z
-    webUrl: "https://www.zdnet.com/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/"
+  - title: "Former Apple designers launch $700 Humane AI Pin as smartphone replacement"
+    excerpt: "The Humane AI Pin attaches to the lapel and is designed to replace your smartphone, allowing the user to make calls, send texts and look up information"
+    publishedDateTime: 2023-11-09T17:23:00Z
+    webUrl: "https://www.cnbc.com/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 71
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/87cbc24ba40159165e2246bfb590a298b9f944f1/2023/07/03/1cc88643-728b-4a3e-8d11-206baab84df0/fz6bjtfaqaaivgz.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://image.cnbcfm.com/api/v1/image/107331667-1699553938651-humane-press-shield-lifestyle-2.png?v=1699554038"
+        width: 3840
+        height: 2160
         isCached: true
-  - title: "Last-minute leak says Humane Ai Pin is basically a $699 smartphone without a display"
-    excerpt: "The AI powering the Pin will let you write messages that sound like you. It’ll also summarize your inbox, a demo that we saw from Humane earlier this year. The Pin can translate languages, identify food items, and then provide nutritional information."
-    publishedDateTime: 2023-11-09T11:49:00Z
-    webUrl: "https://bgr.com/tech/a-last-minute-humane-ai-pin-leak-says-the-699-wearable-is-essentially-a-smartphone-without-a-display/"
+  - title: "Humane’s Ai Pin is a $700 Smartphone Alternative You Wear All Day"
+    excerpt: "If you’re willing to clip the Ai Pin to your chest, you can talk, gesture, and tap to take photos or summon a powerful virtual assistant."
+    publishedDateTime: 2023-11-09T16:59:00Z
+    webUrl: "https://www.wired.com/story/humane-ai-pin-700-dollar-smartphone-alternative-wearable/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/654c0a3dc9d51892912e8ba5/191:100/w_1280,c_limit/Humane-Ai-Pin-Business.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Humane launches wearable AI projector pin to replace your phone"
+    excerpt: "Back in April, ex-Apple veteran and Humane cofounder Imran Chaudhri appeared at a TED Talk to show off his startup’s inaugural product — a wearable AI projector pin that works like ChatGPT. The company has now officially launched the AI-powered device, giving it the name AI Pin."
+    publishedDateTime: 2023-11-09T19:02:00Z
+    webUrl: "https://www.androidauthority.com/humane-ai-pin-3384224/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 49
+  - title: "How Humane’s Ai Pin Works"
+    excerpt: "Paresh Dave: Good for us Android users. It's also notable that the foundation for the software is the Android operating system for the Humane Ai Pin, which for some reason they lowercase the I in Ai, just to let you know. Michael Calore: So it's like Ai."
+    publishedDateTime: 2023-11-09T16:59:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-620/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
+  - title: "Humane officially unveils the Ai Pin, a device that aspires to replace your smartphone"
+    excerpt: "Humane has officially unveiled its Ai Pin, an AI-powered computing device that aspires to replace the smartphone."
+    publishedDateTime: 2023-11-09T20:03:00Z
+    webUrl: "https://bgr.com/tech/humane-officially-unveils-the-ai-pin-a-device-that-aspires-to-replace-your-smartphone/"
     type: article
     provider:
       name: BGR
       domain: bgr.com
-    quality: 32
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/10/humane-ai-pin-time.jpg?quality=82&strip=all"
-        width: 1599
-        height: 1066
-        isCached: true
+    quality: 9
 
 secured: "UMcQZQB0FbxX8G5AfHOQqT8E+p0UxyYNr2ECJyPVACml/T40hFLSRcD9p1dN3Nx40darUK0xe6iVxzccBYXc+I2de4yoTOxfwVBB/R91iZrDvOobu/ukEqtKNRnqvAiJ2089TD5iD2ppZ2RNRvg4rIuJZPGq20qcyiVuSTPrb6LymiNHFTySKPrO4gYuBPZZEYjMgghIwqDAkbK09Zvy/iYt6TXKX24Z+WP/cQ9iR/1HLfl0VDQPvfJegFmKK8htDEOVBJmcd4D4ylo9yW+nziRwjji98Xg/cbRYMSfqnmcZWA6ri11hZSPDp2Q8timSsNrocYmNO6LYrVM1F5Sz/Qg0A6VN+JuDdtGPZobxjNE=;x57jOGmz3ZveokWfZzl2Ng=="
 ---

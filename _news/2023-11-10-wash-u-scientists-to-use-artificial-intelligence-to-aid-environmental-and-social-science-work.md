@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-09T19:43:00Z
 originalUrl: "https://www.kbia.org/missouri-news/2023-11-09/wash-u-scientists-to-use-artificial-intelligence-to-aid-environmental-and-social-science-work"
 webUrl: "https://www.kbia.org/missouri-news/2023-11-09/wash-u-scientists-to-use-artificial-intelligence-to-aid-environmental-and-social-science-work"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: KBIA

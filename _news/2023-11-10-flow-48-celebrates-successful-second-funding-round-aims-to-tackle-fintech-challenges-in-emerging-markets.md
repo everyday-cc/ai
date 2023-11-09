@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-09T17:28:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/11/g35708361/flow-48-celebrates-successful-second-funding-round-aims-to-tackle-fintech-challenges-in-emerging-m"
 webUrl: "https://www.benzinga.com/pressreleases/23/11/g35708361/flow-48-celebrates-successful-second-funding-round-aims-to-tackle-fintech-challenges-in-emerging-m"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Benzinga.com

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/news/tech-giants-jockey-for-position-at-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Barron's
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Tech giants pour billions into cloud capacity in AI push"
-    excerpt: "Google, Microsoft and Amazon boost investment by a fifth over two years to a combined quarterly total of $42bn"
-    publishedDateTime: 2023-11-05T05:00:00Z
-    webUrl: "https://www.ft.com/content/f01529ad-88ca-456e-ad41-d6b7d449a409?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "9rjtVFOSErnfvHy+kVuMXfnjeciR/m1DpD5EKGyIib2ng0jQPNAcwIl+HBNWUY9zLGmBv9Jo2+lwjcG50UJOaAqZcLOXTlS5sZThHykaSZ/1RWpYpFGvmQpYzL/EsSpNfcR1sbLR8ULtuIQSNo7dC1UF1U6Y0qF538eRNDR9R4O+5GeEOPvrH9T7RKlvo1svQUPYYvfKqY9/p9CihdJQNAUHqEEdrBRSQCjvzOFeEcIZ4kSB6+KP1odaJdZhP9e7Si7vnSHXxwKHmCfz/X5Y05n0vHp8jsGLkvrmZ6MKJ1exqXPUJcwXXnyFtkK33Wdw1U5gJ81LPbw5DvJUVsSR7JY75tvz6Q3SZcA1Tg8g7Bw=;xAuOJcoZi2Kgr9V+WXuD3w=="
 ---

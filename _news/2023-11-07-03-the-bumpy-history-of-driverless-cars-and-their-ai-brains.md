@@ -20,9 +20,9 @@ topics:
 
 related:
   - title: "From goat exports to driverless vehicles: the 21 bills in the king’s speech"
-    excerpt: "Proposed measures that made it into Rishi Sunak’s pre-election legislative programme – and those that didn’t Here are the 21 bills that made it into the final legislative programme before the next election: Animal welfare bill This policy aims to ..."
-    publishedDateTime: 2023-11-08T06:49:00Z
-    webUrl: "https://www.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak?ref=biztoc.com"
+    excerpt: "Proposed measures that made it into Rishi Sunak’s pre-election legislative programme – and those that didn’t"
+    publishedDateTime: 2023-11-07T17:32:00Z
+    webUrl: "https://www.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak"
     ampWebUrl: "https://amp.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak"
     type: article
@@ -50,6 +50,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/13c70f28b843f1950fce14c5355d6cbc9497c466/0_217_6434_3861/master/6434.jpg?width=620&quality=85&auto=format&fit=max&s=71afc12fe8dc02daa55878c585c3f1e3"
         width: 620
         height: 372
+        isCached: true
+  - title: "One and Half Remote Cruise Employees Were Supporting Each Driverless Car"
+    excerpt: "Tesla FSD Can Go Next Level Without Going Driverless Robotaxi Tesla’s FSD (fullself ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology."
+    publishedDateTime: 2023-11-09T21:48:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/11/one-and-half-remote-cruise-employees-were-supporting-each-driverless-car.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 38
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/11/Screen-Shot-2023-11-09-at-1.38.19-PM.jpg"
+        width: 1988
+        height: 1264
         isCached: true
   - title: "Tech bosses hope driverless car laws will clear the road for UK software industry"
     excerpt: "But firms hoping to win big giveaways in the king’s speech this week are likely to be let down"

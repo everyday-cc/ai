@@ -73,6 +73,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Samsung unveils Galaxy AI, a comprehensive mobile AI solution"
+    excerpt: "Samsung says its Galaxy AI will give users an on-device artificial intelligence experience that they haven't seen anywhere before."
+    publishedDateTime: 2023-11-09T19:39:00Z
+    webUrl: "https://www.androidheadlines.com/2023/11/samsung-galaxy-ai-mobile-solution.html"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 19
   - title: "Google SGE expands to 120 countries while adding new follow-up questions, AI translation help and more definitions"
     excerpt: "The generative AI version of Google Search, Google Search Generative Experience, is now rolling out to over 120 countries and territories. Google also added new ways to follow up with AI-generated search answers, new AI translation help, and additional AI-powered definitions."
     publishedDateTime: 2023-11-08T18:16:00Z

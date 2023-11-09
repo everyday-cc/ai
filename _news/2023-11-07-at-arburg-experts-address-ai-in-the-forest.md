@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-07T14:54:00Z
 originalUrl: "https://insights.globalspec.com/article/21422/at-arburg-experts-address-ai-in-the-forest"
 webUrl: "https://insights.globalspec.com/article/21422/at-arburg-experts-address-ai-in-the-forest"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: GlobalSpec

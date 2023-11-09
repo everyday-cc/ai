@@ -117,6 +117,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Samsung Teases 'AI Live Translate Call' Feature Coming to Galaxy Phones"
+    excerpt: "\"Galaxy AI is a comprehensive mobile AI experience, powered by both on-device AI developed at Samsung and cloud-based AI enabled by our open collaborations with like-minded industry leaders,\" Samsung says. \"It will transform your everyday mobile experience with the peace of mind you count on from Galaxy security and privacy.\""
+    publishedDateTime: 2023-11-09T19:34:00Z
+    webUrl: "https://uk.pcmag.com/ai/149568/samsung-teases-ai-live-translate-call-feature-coming-to-galaxy-phones"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 64
   - title: "Samsung unveils Gauss - its own generative AI that's coming to the Galaxy S24"
     excerpt: "It features Language, Code, and Image models. Samsung announced its own generative AI model, called Gauss. The on-device AI model consists of Samsung"
     publishedDateTime: 2023-11-08T10:28:00Z

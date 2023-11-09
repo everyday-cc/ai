@@ -73,6 +73,15 @@ related:
         width: 1200
         height: 1568
         isCached: true
+  - title: "Stability AI Gets Intel Backing in New Financing"
+    excerpt: "Stability AI has raised new financing led by chipmaker Intel Corp., according to people familiar with the matter — a cash infusion that arrives at a critical time for the company."
+    publishedDateTime: 2023-11-09T20:26:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-11-09/stability-ai-gets-intel-backing-in-new-financing"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
   - title: "5 firms leveraging AI to transform the future of FinTech in USA"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-11-06T10:46:00Z

@@ -164,6 +164,15 @@ related:
         width: 1023
         height: 823
         isCached: true
+  - title: "Rockwell Combines Generative AI and Industrial Automation"
+    excerpt: "Rockwell worked with Microsoft on the creation of these capabilities and uses Open AI to communicate with Rockwell products running in Azure, he said (see: Rockwell Forges Gen AI Pact With Microsoft, Buys Cyber Firm). \"Rockwell knows the OT side of things."
+    publishedDateTime: 2023-11-09T20:36:00Z
+    webUrl: "https://www.govinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 19
   - title: "MicroStrategy ONE™ Platform Now Available in AWS Marketplace, Empowering Businesses with AI-Driven Business Intelligence"
     excerpt: "By bringing together MicroStrategy's powerful generative artificial intelligence (AI) capabilities for business intelligence (BI) and the scalability and reliability of Amazon Web Services (AWS), customers can now access a ready solution for deploying ..."
     publishedDateTime: 2023-11-07T19:18:00Z
