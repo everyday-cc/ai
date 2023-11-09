@@ -39,6 +39,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Forget Bixby, Samsung announces Galaxy AI for Galaxy S24 series"
+    excerpt: "Samsung has introduced Galaxy AI, a comprehensive and universal intelligence for phones coming early next year."
+    publishedDateTime: 2023-11-09T03:34:00Z
+    webUrl: "https://www.androidauthority.com/samsung-galaxy-ai-3383914/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 69
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/samsung-logo-ifa-2023.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Samsung announces \"a new era of Galaxy AI\", starting with AI Live Translate Call"
     excerpt: "The teaser campaign for the Galaxy S24 series has pretty much started in earnest now. AI is the buzzword of the year for sure (thanks, ChatGPT!)"
     publishedDateTime: 2023-11-08T23:02:00Z
@@ -84,6 +98,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/Samsung-AI-Forum-2023.png"
         width: 700
         height: 466
+        isCached: true
+  - title: "Samsung's One UI 6 Update Gives Galaxy Phones More AI Camera Smarts"
+    excerpt: "Samsung's Galaxy phones will soon get a a bevy of new camera features, some of which are powered by AI, as part of"
+    publishedDateTime: 2023-11-09T04:25:00Z
+    webUrl: "https://www.businessghana.com/site/news/technology/296752/Samsung&"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 39
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-11-08-12291301.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Samsung announces Galaxy AI and upcoming on-device phone call live translation feature"
     excerpt: "At the forefront of Galaxy AI's transformative features is AI Live Translate Call, a groundbreaking innovation that seamlessly integrates real-time audio and text translation into"

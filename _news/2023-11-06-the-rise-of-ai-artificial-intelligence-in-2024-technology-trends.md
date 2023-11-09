@@ -57,15 +57,6 @@ related:
         width: 414
         height: 364
         isCached: true
-  - title: "Global trends shaping the AI world"
-    excerpt: "While Waymo driverless cars continue to operate in the state ... These are just a few of the many issues being raised. Further, the artificial intelligence (AI) algorithms of autonomous vehicles should be able to explain the “why” for their specific ..."
-    publishedDateTime: 2023-11-04T11:48:00Z
-    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk03112023.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 19
 
 secured: "n0wxeTAN8U3WIHkFddAqnIdmr1MK5ctj7zPWqT6gTNMLHpf9Jz076x7z+BQh1q43/2zB7zpy6am4OZF0HhOuS0+UYBNu2Yzg+Q/blkS/WXNXPVJPJQmlgMlJlevzr3Ad9+ih3JrbYZ1jyqrf1C7MDPB9Qu3Az9cnIi8mqigtAJiEOMLi476C5aQU8PF7jARHJgJ1q1rZcPC/GG+kZBYzR4EOyA6KOW5MNOqUUpWrVyDnfGMMaW73Yc6/35dxia9a13YKeM8MA1DeSzoP9BL/TXwLJR5gAp2bS4jmsMayU8Uapnz0nhVtz7/9hyYsmiLzFL60lq023olHDDStOO1UUQaszGwH5LNnZYysYO3EdqCShA1xKRMSCxzQh6NnFoCHlLSBn9sIYxzT8ceIUy3Enr0fXFK5G3Jl3OJ/4yeU2mS/CF7xikIpNlw7iTvGj6qa7uTFu287rika3KLdOYlS6nZPpu6Or8oSCdKFkcVgKgZF5+1IGmR6GahtL0pWoZnOIytJMGu+ZKVGJ76D4EDEmA==;BSY4foohQNmVE0GwLQS5pQ=="
 ---

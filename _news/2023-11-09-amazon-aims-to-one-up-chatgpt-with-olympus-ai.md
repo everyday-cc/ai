@@ -102,6 +102,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Warning: Hackers Using Bing's AI Chatbot To Trick Users – Yahoo Finance"
+    excerpt: "It looks like the robots are turning to the dark side — or are being coerced into it by a group of clever hackers.According to some tech-savvy security"
+    publishedDateTime: 2023-11-09T03:44:00Z
+    webUrl: "https://www.inferse.com/789055/warning-hackers-using-bings-ai-chatbot-to-trick-users-yahoo-finance/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 56
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-5771.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Start Learning AI and ChatGPT with Python for Only $30"
     excerpt: "Developing Python skills can be a quick way to start learning artificial intelligence and ChatGPT, and according to a Goldman Sachs report, 300 million jobs could be replaced by AI in the next ten years. The 2023 Ultimate AI ChatGPT & Python Programming ..."
     publishedDateTime: 2023-11-05T19:56:00Z

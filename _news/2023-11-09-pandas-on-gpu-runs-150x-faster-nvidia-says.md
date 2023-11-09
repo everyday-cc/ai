@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Want to rent 1,000,000 Nvidia CUDA GPU cores? It'll cost you only 105 Euros per hour"
-    excerpt: "This is where entities like LeaderGPU come in, with the cloud becoming a much more viable route for businesses to run their AI workloads. Japanese company Third Wave also last month announced a GPU Cloud, which gives customers access to fleets of the best ..."
-    publishedDateTime: 2023-11-07T20:16:00Z
-    webUrl: "https://www.techradar.com/pro/want-to-rent-1000000-nvidia-cuda-gpu-cores-itll-cost-you-only-105-euros-per-hour"
+  - title: "NVIDIA flexes H100 AI GPU muscle, setting new records in AI benchmarks"
+    excerpt: "NVIDIA shows off new records and milestones with its H100 Tensor Core GPUs and various AI benchmarks, including MLPerf benchmarks that NVIDIA dominates in."
+    publishedDateTime: 2023-11-09T04:08:00Z
+    webUrl: "https://www.tweaktown.com/news/94274/nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-benchmarks/index.html"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 42
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 56
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94274_710_nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-benchmarks_full.png"
+        width: 1500
+        height: 844
+        isCached: true
 
 secured: "J9Z51XeoXkE575iv98QBjo3eC3WK6pVdc7/Vg7c2jgCZTWIjLDcGhrYJG448uDPKCO8JMENGFc/rj5QXmJq58xeiWu7iQAnmDzrO7eKh+98WZQDRuoXGUudtHh5uLqbwmSzDHZOHLldf+ZTmzvpHue1Cv7AUEvjMU+QFZe/ieafDjwBU+H664aCscFpRmRLgZpoRjTJJheADAwjBY4wkxEtkCYCMZlqRRAL1yYOhqO6gyfdvAcdKc9Cw68fHHKlYpXikMbju+8Xn2q+qeHpXPcClm/zzLQlB6Yci3hZ8LyTxY5T6Rke0u4EZr1YjKr4Xm+Lhzq41f4P22zDRy7Jhm3OSfgk6a6hH/cTjJo4s2Y8EAs55z9g9zBHpdNfwEm9yRQYxjN2cw5qCTRc3dse3bTK6HyVRoyYWg2/nFlYR+2r0ZTW/n1EoTJAS2jIqgUB5pf+lWddf/Vc8HDKq1V7Ucv007Dcovonbs8lZ0682W/p85h9yW5OJQauhJIk/gnraaEPBmSINbzyr46KlfW5EWg==;hRVR6cr8iyVYiR8WzOZ0Cg=="
 ---

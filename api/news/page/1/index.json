@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-09-disrupting-centralised-structures-of-digital-economy-using-ai-and-blockchain.md",
+      "title": "Disrupting centralised structures of digital economy using AI and Blockchain",
+      "excerpt": "Access to AI and blockchain technologies has been democratised, but humans still lack full control of their digital interactions. This is now beginning to change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/plus/the-business-reporter/technology-hub/disrupting-centralised-structures-of-digital-economy-using-ai-and-blockchain",
+      "originalUrl": "https://www.reuters.com/plus/the-business-reporter/technology-hub/disrupting-centralised-structures-of-digital-economy-using-ai-and-blockchain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.prismic.io/rcom-reuters-plus/85e03d67-ec01-4075-9943-a3dcba933739_tbr-fetchai-main-hero.png?auto=compress,format&rect=0,42,2166,1137&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-hariri-institute-wheelock-collaborate-to-research-ais-impact-on-education.md",
       "title": "Hariri Institute, Wheelock collaborate to research AI’s impact on education",
       "excerpt": "The ChatGPT AI natural language processing tool displayed on a phone. An initiative launched by the Hariri Institute for Computing and Computational Science and Engineering and Wheelock College aims to connect research in artificial intelligence with ...",
@@ -46,49 +97,6 @@
       ]
     },
     {
-      "path": "_news/2023-11-09-embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan.md",
-      "title": "Embracing artificial intelligence: How AI could be a powerful tool in northern Michigan",
-      "excerpt": "The legislation would require a disclaimer on the ad if AI is used. The bills now move to the Senate Committe on Elections and Ethics for further consideration. Loading",
-      "sourceUrl": null,
-      "webUrl": "https://wsbt.com/news/regional/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
-      "originalUrl": "https://wsbt.com/news/regional/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wsbt.com/resources/media/09f9de02-c702-415a-bdd2-62d7441594cb-medium16x9_thumb_6280.png",
-          "width": 648,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wsbt.com/amp/news/regional/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
-      "cdnAmpWebUrl": "https://wsbt-com.cdn.ampproject.org/c/s/wsbt.com/amp/news/regional/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
-      "publishedDateTime": "2023-11-08T18:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wsbt",
-        "domain": "wsbt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-09-the-race-to-buy-ai-website-addresses.md",
       "title": "The race to buy AI website addresses",
       "excerpt": "One web address, npc.ai, was sold for $250,000 this year, while another, service.ai, went for $127,500, according to one report. Such head-turning figures are a side effect of the feverish buzz surrounding AI start-ups and technology.",
@@ -97,7 +105,7 @@
       "originalUrl": "https://www.bbc.co.uk/news/business-67284936",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -127,6 +135,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan.md",
+      "title": "Embracing artificial intelligence: How AI could be a powerful tool in northern Michigan",
+      "excerpt": "In today's world, artificial intelligence is no longer science fiction; it's a powerful tool and it's transforming everything.",
+      "sourceUrl": null,
+      "webUrl": "https://wwmt.com/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
+      "originalUrl": "https://wwmt.com/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wwmt.com/resources/media/09f9de02-c702-415a-bdd2-62d7441594cb-medium16x9_thumb_6280.png",
+          "width": 648,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wwmt.com/amp/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
+      "cdnAmpWebUrl": "https://wwmt-com.cdn.ampproject.org/c/s/wwmt.com/amp/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
+      "publishedDateTime": "2023-11-08T15:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wwmt",
+        "domain": "wwmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -191,7 +242,7 @@
       "originalUrl": "https://techcrunch.com/2023/11/08/meta-will-start-requiring-disclosures-for-political-ads-manipulated-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -345,7 +396,7 @@
       "originalUrl": "https://blog.google/products/search/google-search-generative-ai-international-expansion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1179,57 +1230,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-fda-fsma-providing-value-beyond-compliance.md",
-      "title": "FDA FSMA: Providing value beyond compliance",
-      "excerpt": "Though the rule doesn’t go into effect until January 2026, companies must proactively and strategically prepare their supply chain now.\nThe post FDA FSMA: Providing value beyond compliance appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/fda-fsma-providing-value-beyond-compliance/",
-      "originalUrl": "https://www.ibm.com/blog/fda-fsma-providing-value-beyond-compliance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/10/DSC_0875-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

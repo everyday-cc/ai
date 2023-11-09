@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-giv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/amp/"
 type: article
 quality: 121
-heat: 302
+heat: 312
 published: true
 
 provider:
@@ -152,6 +152,15 @@ related:
         width: 960
         height: 542
         isCached: true
+  - title: "FRISS to use Microsoft Azure OpenAI Service for Enhanced AI Fraud … – Business Wire"
+    excerpt: "Azure OpenAI Service supports honest insurance with transforming alerts for potential fraud into human readable stories “FRISS brings differentiated new"
+    publishedDateTime: 2023-11-09T04:17:00Z
+    webUrl: "https://www.inferse.com/789087/friss-to-use-microsoft-azure-openai-service-for-enhanced-ai-fraud-business-wire/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 43
   - title: "Microsoft Stock's Next Act: Betting On AI To Regain Tech Leadership – Investor's Business Daily"
     excerpt: "Microsoft is plowing billions of dollars into artificial intelligence, investments that could fuel the next growth chapter at the company. (© Chris Gash) Microsoft (MSFT) blazed the trail for tech when Windows and Internet Explorer emerged as critical tools of the web revolution 30 years ago."
     publishedDateTime: 2023-11-09T00:54:00Z

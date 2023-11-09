@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/business-67284936.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67284936.amp"
 type: article
 quality: 57
-heat: 77
+heat: 79
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
       domain: pcmag.com
     quality: 47
 
-secured: "n+q5l63aOeYhNd3atE5AGu3TkkuiQA7BAqPPgvZiLotN5sPHblFwhJLihfegGaYEGcVKtnuCG4H23X+dJZslJJf24D1fIVwPnSMJiKhpXv0YB7uLJ9fxxFuLGjjR23WzKROKa6X6UG9oDI4qyCKok4Pag8T+b1fC1co/S1vnxKDvPkTqfajc2J/zKH4IxnYmt4lWN9QZ5XC4P1U5X4S1LF0pS4UBZLniGNql9jZkE1+pJODBvx4xd/f+5pN5ToShvFOmZnWpIwXf1Fyy1ufdohxBiWfJJA0swbTwJAU4bMzN/JX7w1ZcaprIwW0KQYgeONVYnVSDpH09W8wQ4kwJ/Hdf/ujK9pJbixfp+QoTiWw=;yWrIUw8jIZ0jKhrgKECQ+A=="
+secured: "48a9gpFbN1J88TqxoJCwxqG0sdDMfSQIwUfrLswpjxEqLmnyo2wvmRPkbg2hCmV1n4DZPLb58apfFRzb4K74RKRhQ6eiTPW/9JD7OiYBUNKz8Msk+aawNX0woFwbLaLLiZpwdAbT+9mce93M69/EkCRxwXDnkN1g74Njb6PAZA1sFjoeYTV/Qg2ICQwx8bvLhNaI4c2wxcl7gDjy3+Aopauaz6ulPgKan+lMVw2nPXMR5okiwr5UVsj8dRkaesuNKH73o+iyBnQkVaL9II8DX2aMy482j0v2EZTmMwYlhJKTrTRfdsU6Ls2vg7StPGVjSpvcbr0LoXotS2YbpIrNmER5AvozMfAZ0jDW2DNsMPw=;R6EmO8iC9gnrBpXG6SdZ/w=="
 ---
 

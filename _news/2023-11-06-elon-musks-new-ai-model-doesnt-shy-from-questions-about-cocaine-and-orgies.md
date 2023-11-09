@@ -106,15 +106,6 @@ related:
         width: 1200
         height: 899
         isCached: true
-  - title: "xAI, Elon Musk's AI Startup, to Release First AI Model to Select Group"
-    excerpt: "The team behind xAI, which launched in July, comes from Google's DeepMind, the Windows parent, and other top AI research firms."
-    publishedDateTime: 2023-11-04T10:46:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/xai-elon-musk-ai-startup-release-first-model-select-group-premium-plus-4545215"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 17
 
 secured: "0iOPwdLC1L3AK4c3pu9FmZ6ezHLqfbotNaKHtuN6zYkLEcQJ1+U/NgF9JjUhM2/6plDvMdoNMz0Vctj4eML4/kFcRtlEVw/FBPPeJ/TUatgvi6yEaCeKN89xWpsLX4F+F12ml6cFpoK13ELDXrzPmbbl7yDcC79XKcneA1nWSY76PF00Sppez6K89DwvlhA1J6rSINiOOyYi3pF7TcxLAyCwh1uC1eU0PpmYjoU9eeiZ9mqgOB1HpTsBkfs0p5dZV61MoXcG5roSzn5HV9HixTHHlx/LBLJbEUhs0rJrDa7JfLnY3O6YAhAS7l64hKTbvLPC4ITu7YdznEjeOtzFjHYGFALPGJdQ4l8SRJ89fDM=;RJJI6nzBKlPKYmKjovikPQ=="
 ---

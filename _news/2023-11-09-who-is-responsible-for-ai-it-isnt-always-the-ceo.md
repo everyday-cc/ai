@@ -2,9 +2,9 @@
 category: news
 title: "Who is responsible for AI? It isn’t always the CEO"
 excerpt: "Software maker Adobe utilizes an AI ethics board that not only oversees the principles for responsible AI, but also greenlights all AI capabilities that could have potential negative implications. This function sits under chief trust officer Dana Rao’s ..."
-publishedDateTime: 2023-11-08T21:32:00Z
-originalUrl: "https://www.aol.com/responsible-ai-isn-t-always-190000523.html"
-webUrl: "https://www.aol.com/responsible-ai-isn-t-always-190000523.html"
+publishedDateTime: 2023-11-08T21:41:00Z
+originalUrl: "https://www.aol.com/responsible-ai-isn-t-always-190000523.html?ref=biztoc.com"
+webUrl: "https://www.aol.com/responsible-ai-isn-t-always-190000523.html?ref=biztoc.com"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "0C1+0Iyx/HJ/rzmf3JGMnLWW5GQ9Avm9jbqCWF18BS1FhHZTJmYvj9faEFtctojLmYFwz+MuqnBdKah8tYS63YffMbbYVLV25SFdrzrXICMMD97oipZi/PKbz6VxUNlje4l4ehoUYd4tEFvLkw6ZtyzXTP8Rol42JUgmLkWLAIN/+9Fs4QMWbzwriJjDbehDJJ6aGktL0hmCeqJqkgbLNeSoAW2yphN+mtz9km4yDme52uPNu+WS2vLzUCGDVdnhHRen+gzk5tX+CGYT9wEAUelb2U+rM/U7bebmt7yiQAay7plhpfyAs3v7c4PsFo4bvrGXIhzaaEIbZCsZ4tttdhKCx4xN6MAAErnJ0u6iDkv2BEqTSoMEdT/eu2Ate4JIDfhFqiERBxitySK3t9IXe992G9nXdoNOZErwewN0sekyyQ//ehKWyU0VSSLgBjWLLH1rkPMA0aLQNzH+LAahBKIzMXPVUywRJbIRe3ddCjGYba+FgySUMhFEoWiCTrm/+8eSNY6oqhchk/Lgw6OQfw==;AGZAhqI/k2RqfooUr36ipQ=="
+secured: "FMGTjsWqknmaLaYgQIzWFUMvZgjwBDSiR0PkLnhGGBH8cHvb51NFNBy7PLV+kirUGXcm4tUvdRFRSt+LUiN0FwHR1+HymiSnlmfRRIc5vRR5V1GPx2M2rgtSrV7de9lfq5lCZGfkO1+07sKq5DB6SLc8c2WtwxdQeB8evEjqR6OYjjzSBS6JPW0/rJCWYUgp76TzBV6SWS26T8VY/33Xxc4ySKua2bKoITsp5f+SnY6U971whJd7pZoPM26i066I2MAMb3kKXkAlOGq6fP44xahsae9RFeNFg+1fhrBtToJdno7Hv/5onIUIVYAmN4eWaiN6xSYFWGFgj5yY8PgCD0fTLeySzneZfHjrg+Wh0w8=;7ygjSpBWBsVFSqalsrzIfQ=="
 ---
 

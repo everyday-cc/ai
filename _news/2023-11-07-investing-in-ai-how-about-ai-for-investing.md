@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Embracing artificial intelligence: How AI could be a powerful tool in northern Michigan"
-    excerpt: "The legislation would require a disclaimer on the ad if AI is used. The bills now move to the Senate Committe on Elections and Ethics for further consideration. Loading"
-    publishedDateTime: 2023-11-09T02:14:00Z
-    webUrl: "https://wsbt.com/news/regional/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan"
-    ampWebUrl: "https://wsbt.com/amp/news/regional/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan"
-    cdnAmpWebUrl: "https://wsbt-com.cdn.ampproject.org/c/s/wsbt.com/amp/news/regional/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan"
+    excerpt: "In today's world, artificial intelligence is no longer science fiction; it's a powerful tool and it's transforming everything."
+    publishedDateTime: 2023-11-08T23:35:00Z
+    webUrl: "https://wwmt.com/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan"
+    ampWebUrl: "https://wwmt.com/amp/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan"
+    cdnAmpWebUrl: "https://wwmt-com.cdn.ampproject.org/c/s/wwmt.com/amp/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan"
     type: article
     provider:
-      name: wsbt
-      domain: wsbt.com
+      name: wwmt
+      domain: wwmt.com
     quality: 66
     images:
-      - url: "https://wsbt.com/resources/media/09f9de02-c702-415a-bdd2-62d7441594cb-medium16x9_thumb_6280.png"
+      - url: "https://wwmt.com/resources/media/09f9de02-c702-415a-bdd2-62d7441594cb-medium16x9_thumb_6280.png"
         width: 648
         height: 365
         isCached: true

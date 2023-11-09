@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musk
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -107,15 +107,6 @@ related:
         width: 1200
         height: 899
         isCached: true
-  - title: "xAI, Elon Musk's AI Startup, to Release First AI Model to Select Group"
-    excerpt: "The team behind xAI, which launched in July, comes from Google's DeepMind, the Windows parent, and other top AI research firms."
-    publishedDateTime: 2023-11-04T10:46:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/xai-elon-musk-ai-startup-release-first-model-select-group-premium-plus-4545215"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 17
 
 secured: "YVe2N+IZXiKE7wxG9LN8fW+UW+bzWWda7kyJW6c06RW2n/0LO4QtFm3gX4c0stuU6Hjwrmx4X534BMtZRftyemKP9grM1yhys9fprQhGsGwB1OJqGRKZ+lnq+Z9lZ+4l2Do6yiimc7zzG2jUlddefJ7PPK6j0mHaUFVMi0J03csjQdqssk6CGkbZ9hJBop+mmT2jLePqgtW9ZVeoMtKcxaVt9gb0R2OKKiDG8Qcfa83wkwagUrjhitgaQxL7w+H1v145AHCVnUh8XDaV3EmZdbC+aTgHtjS/YqEKi+WFxNgyIUxytft6V7Ff1nLpMfhke0HM5dBhSZEEVg6MI4X3td9G4dhuxZ460N76NQ4olfAkzm65zNL3JhDqL0O3GA8EKlxt2vLqFr6EgdfTTNQnuPnh6aYa3gJBPNIrPrrhEBMNTgeUPzs16x6UWLyG+IUbwRIgdxfdmZUXoh/WOLToFMGwBupd36KfbX3NZDDWwdlux8kPPSQNSFMCqwi11hSp5VNNP8lpcWCLtq5WbTpB3Q==;6rtfl6MnzqYEWUns3BAUmg=="
 ---

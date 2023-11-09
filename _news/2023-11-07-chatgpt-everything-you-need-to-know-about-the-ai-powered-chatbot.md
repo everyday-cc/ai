@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/06/chatgpt-everything-to-know-about-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/06/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
 type: article
 quality: 91
-heat: 311
+heat: 321
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2023/11/07/2e79b914-8424-438e-80df-4a653cbaee09_8dadf8a4.jpg?itok=xpTP3xh0&v=1699329301"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Warning: Hackers Using Bing's AI Chatbot To Trick Users – Yahoo Finance"
+    excerpt: "It looks like the robots are turning to the dark side — or are being coerced into it by a group of clever hackers.According to some tech-savvy security"
+    publishedDateTime: 2023-11-09T03:44:00Z
+    webUrl: "https://www.inferse.com/789055/warning-hackers-using-bings-ai-chatbot-to-trick-users-yahoo-finance/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 56
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-5771.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Start Learning AI and ChatGPT with Python for Only $30"
     excerpt: "Developing Python skills can be a quick way to start learning artificial intelligence and ChatGPT, and according to a Goldman Sachs report, 300 million jobs could be replaced by AI in the next ten years. The 2023 Ultimate AI ChatGPT & Python Programming ..."

@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facebook and Instagram will require political advertisers to disclose AI deepfakes"
+    excerpt: "Meta, parent company of Instagram and Facebook, will require political advertisers around the world to disclose any use of artificial intelligence in their ads, starting next year, the company said Wednesday, as part of a broader move to limit so-called ..."
+    publishedDateTime: 2023-11-09T03:59:00Z
+    webUrl: "https://www.wisn.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
+    ampWebUrl: "https://www.wisn.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
+    cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
+    type: article
+    provider:
+      name: WISN 12 NEWS
+      domain: wisn.com
+    quality: 53
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbg9wc2f3cm8wmdbomzu2adhncdhyyxni-l19wywdlcy9jbg9wczdwog0wmdawnjdxzmhzyjc3cjq3-jpg-654c4fe626469.jpg?crop=1.00xw:0.844xh;0,0&resize=1200:*"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Meta to Require Disclosures for AI-Created, Altered Political Ads"
     excerpt: "advertisers will have to disclose when artificial intelligence (AI) or other digital methods are used to alter or create political, social or election related advertisements on Facebook and Instagram. Meta, the world's second-biggest platform for digital ..."
     publishedDateTime: 2023-11-08T11:14:00Z
@@ -49,19 +65,21 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Facebook and Instagram will require political advertisers to disclose AI deepfakes"
-    excerpt: "Meta, parent company of Instagram and Facebook, will require political advertisers around the world to disclose any use of artificial intelligence in their ads, starting next year, the company said Wednesday,"
-    publishedDateTime: 2023-11-08T17:39:00Z
-    webUrl: "https://localnews8.com/life/technology/2023/11/08/facebook-and-instagram-will-require-political-advertisers-to-disclose-ai-deepfakes/"
+  - title: "To help 2024 voters, Meta says it will label political ads that use AI-generated imagery"
+    excerpt: "Facebook and Instagram will soon require political ads running on their platforms to disclose if they were created using artificial intelligence."
+    publishedDateTime: 2023-11-09T04:29:00Z
+    webUrl: "https://www.9news.com/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
+    ampWebUrl: "https://www.9news.com/amp/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
+    cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 33
+      name: 9NEWS
+      domain: 9news.com
+    quality: 48
     images:
-      - url: "https://localnews8.b-cdn.net/2023/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9wc2F3cm8wMDBoMzU2aDhncDhyYXNi-L19wYWdlcy9jbG9wczdwOG0wMDAwNjdxZmhzYjc3cjQ3.jpg"
-        width: 1200
-        height: 801
+      - url: "https://media.9news.com/assets/CCT/images/d4813838-7a2f-41be-9c90-35d5ee7380e7/d4813838-7a2f-41be-9c90-35d5ee7380e7_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Meta to start labeling political ads with AI-generated images ahead of 2024 election"
     excerpt: "Facebook and Instagram will require political ads on their platforms to disclose if they were created with artificial intelligence so they can be labeled as such, Meta, the parent company"

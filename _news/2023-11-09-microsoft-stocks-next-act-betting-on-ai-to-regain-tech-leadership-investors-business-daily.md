@@ -161,6 +161,15 @@ related:
         width: 960
         height: 542
         isCached: true
+  - title: "FRISS to use Microsoft Azure OpenAI Service for Enhanced AI Fraud … – Business Wire"
+    excerpt: "Azure OpenAI Service supports honest insurance with transforming alerts for potential fraud into human readable stories “FRISS brings differentiated new"
+    publishedDateTime: 2023-11-09T04:17:00Z
+    webUrl: "https://www.inferse.com/789087/friss-to-use-microsoft-azure-openai-service-for-enhanced-ai-fraud-business-wire/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 43
   - title: "Microsoft Vet Takes Reins at Curbit"
     excerpt: "He left Microsoft at the beginning of the year and worked for a few months with Curbit, which is built on Azure, to provide guidance on business scaling, then stepped in as its chief executive in September. As Curbit’s AI and machine learning systems ..."
     publishedDateTime: 2023-11-06T08:05:00Z
@@ -244,6 +253,6 @@ related:
       domain: gamesradar.com
     quality: 1
 
-secured: "6spErFVe1/d1dc3+FHm6VEOuyEPjfjQRWDFqKu5cFkwePyspNybnTI7AfofOZbo24wWm4pI6JLpcQ3Qj4SIt2m3BV9OLIoGaT+pW1C8g5ivmJPpuB5mTbwlS4NX8oEXZYjOzvke8A2LynMkjFnNZ27/XgzLf4K+LzWSgL6YqWYdX0G38mtXKqFG8Klg9mHiM6ArJKFXXCA/LA9ThMPzrHJE/xx4aXPwo3dEXT1cVsCP2QFie1HOCm7KRAyHmLseeranNh+ph4LPiK5ABuXISOUY+ArCq19qBdwGY/1k5sweMN1AuQ2DrmCzVmrRL4k/2fuVNIZpef9I3DBtyb2eYhHR8M+wLij11uFDXO53fz6U=;h2ef6kgEqM0GIoHixbh8JA=="
+secured: "TKOZF1LmI/3/GTEpeemTdwLEcODN3T549X/Z9QWCmgVePttRmj+4wzjkhYF0w7MZ90IolDUeDHXezKefql4YXJzHOaQQbVgUyijxwr66XbanEsJphc7kqhBWyZcmVU65TIISwx7g+/5QndAukHsIY3R4oBKXQYb6wwBFNKyl6yrYAcabzZeMgwNnHTTE3sz4H43KY3CoknxLAd7meuNdwV+A4mO+rPkBE7Wp+G1BXxADFYKi9J9jUOZ7WFUmWP5wl97gfuGdg7gfHOvo8AEn5km2mhLGGGlnLTmIogtsDsm+8VBykuNeOgGXc3pY07yRVSB6iTXAMODFjuk6DsbdXuckKckpqf6EaOccmX5CynUnzNWVG5XGhO5PbofkkKnbETueAyL5/O0gUoa8bZreqv+k2SLc8zsAcztQLzIrDduV0g8zXMVILoQUWfqbUoAw7W8jZ5IOeg7THPrTipUY9uLfPu8C1JgeB0o6iOTHtXeqKDfRpO6gMypJ9nZUq5x2G8fVpOg29/XvHmzUNIYN+g==;V8h5nsxW/S9Mv3kwlEL6VA=="
 ---
 

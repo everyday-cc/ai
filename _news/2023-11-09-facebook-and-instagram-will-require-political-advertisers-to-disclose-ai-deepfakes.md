@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Facebook and Instagram will require political advertisers to disclose AI deepfakes"
-excerpt: "Meta, parent company of Instagram and Facebook, will require political advertisers around the world to disclose any use of artificial intelligence in their ads, starting next year, the company said Wednesday,"
-publishedDateTime: 2023-11-08T17:39:00Z
-originalUrl: "https://localnews8.com/life/technology/2023/11/08/facebook-and-instagram-will-require-political-advertisers-to-disclose-ai-deepfakes/"
-webUrl: "https://localnews8.com/life/technology/2023/11/08/facebook-and-instagram-will-require-political-advertisers-to-disclose-ai-deepfakes/"
+excerpt: "Meta, parent company of Instagram and Facebook, will require political advertisers around the world to disclose any use of artificial intelligence in their ads, starting next year, the company said Wednesday, as part of a broader move to limit so-called ..."
+publishedDateTime: 2023-11-09T03:59:00Z
+originalUrl: "https://www.wisn.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
+webUrl: "https://www.wisn.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
+ampWebUrl: "https://www.wisn.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
+cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: WISN 12 NEWS
+  domain: wisn.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://localnews8.b-cdn.net/2023/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9wc2F3cm8wMDBoMzU2aDhncDhyYXNi-L19wYWdlcy9jbG9wczdwOG0wMDAwNjdxZmhzYjc3cjQ3.jpg"
+  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbg9wc2f3cm8wmdbomzu2adhncdhyyxni-l19wywdlcy9jbg9wczdwog0wmdawnjdxzmhzyjc3cjq3-jpg-654c4fe626469.jpg?crop=1.00xw:0.844xh;0,0&resize=1200:*"
     width: 1200
-    height: 801
+    height: 676
     isCached: true
 
 related:
@@ -50,6 +52,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "To help 2024 voters, Meta says it will label political ads that use AI-generated imagery"
+    excerpt: "Facebook and Instagram will soon require political ads running on their platforms to disclose if they were created using artificial intelligence."
+    publishedDateTime: 2023-11-09T04:29:00Z
+    webUrl: "https://www.9news.com/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
+    ampWebUrl: "https://www.9news.com/amp/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
+    cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
+    type: article
+    provider:
+      name: 9NEWS
+      domain: 9news.com
+    quality: 48
+    images:
+      - url: "https://media.9news.com/assets/CCT/images/d4813838-7a2f-41be-9c90-35d5ee7380e7/d4813838-7a2f-41be-9c90-35d5ee7380e7_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Meta to start labeling political ads with AI-generated images ahead of 2024 election"
     excerpt: "AI-generated ads are already being used in the U.S. Over the summer, a super PAC supporting Florida Republican Gov. Ron DeSantis for president launched an ad that used AI to mimic former President Donald Trump's voice to criticize Iowa Gov. Kim Reynolds, who has since endorsed DeSantis."
     publishedDateTime: 2023-11-08T13:14:00Z
@@ -111,6 +129,6 @@ related:
       domain: thedailybeast.com
     quality: 17
 
-secured: "y1sKpXTQVW22lRFQBuTi0q0eWB1sR0mv9uxx0oHFpqlOqJfEg7gmtx2BOFjw8Fgu7fTriSCrSyIDnYSPT+MRvXJMvQ/MQrxAdS7YF64Ub77+clTokQA46JxRg9d9gFmI8jvdoi1J4GCsQnNUsb9kgl+SxY/pFBHWnFrHwyItYB7QMJKI8WTxPj8KLFXzpXLO0oW5qCYtMUFk7pTSKpL2UKHgNPJW15q/ndHkEOCzAEqQTfRvf5RCGpGtXkLyIXVo9IsNwTVwiafSAnTxzQAPe/szKLzcyuGqpkQRp7qcs4nKcSTzXTYH2wz7C8IRBtYMERPv3Bfk5cOotw8PNU5kyEtE8Aex6LJt2sda97cP0mVLqqCpuEnlZnas3gUXE3RfoqwJ0kKJIiVgAkCrjTsrVeuPaFhBHPusTuDMOyAfu5iaTIm6cr8kwRlB4e0RuKZw6RcPv99dY5Nw2BQlPSUMfydfd8vcF4BNijID/SX6aLpD0ldtNE9QCBz0fn0+bbZYYLuH2zeQdc2/nq7IdRfdbg==;79flgKzIeTKNaZpBdjuRAQ=="
+secured: "u390xtDvp9sgN4PYRH4e2xekI911w9xERY6pTcnsLmflLGlBQ6LyGKgO2AMLAZyHvZLTDln4Ei2yhwBK0kjZBGtEuezOAcQ8MTBQ8XQIZfQo3x8oKSk4trgW8C7XtkdEh2SoEndhhkXUePjEudimuMBhpjur8pWzc7c1P5rOAA+AqOKTpYlF5QSOeNQ7VAI2l9ryIXnhTPioLHMQufc2PfMJeL2tGHkLQ+27llNffkQ81gBIdFsqMlsQNXN1APGpWDqAcsTT9h0N3Ipdl7WSKB//V7MKIlwT5occtINHnIY0xKSuI60BeylwFq47mI/ozvGGSMY2iVOKLOfSnMW5YnEf50Jm2S+mBkZ3YhVQnmE=;Sn6AOm+jzaL+LFQOy8Qtqw=="
 ---
 

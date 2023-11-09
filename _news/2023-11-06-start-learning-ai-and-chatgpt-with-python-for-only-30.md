@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Warning: Hackers Using Bing's AI Chatbot To Trick Users – Yahoo Finance"
+    excerpt: "It looks like the robots are turning to the dark side — or are being coerced into it by a group of clever hackers.According to some tech-savvy security"
+    publishedDateTime: 2023-11-09T03:44:00Z
+    webUrl: "https://www.inferse.com/789055/warning-hackers-using-bings-ai-chatbot-to-trick-users-yahoo-finance/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 56
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-5771.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OpenAI unveils personalized AI apps as it seeks to expand its ChatGPT consumer business"
     excerpt: "OpenAI CEO Sam Altman shared the updates at the AI lab’s first developer conference, which attracted 900 developers from around the world and marked the company’s latest attempt to capitalize on the popularity of ChatGPT by offering incentives to build in its ecosystem."
     publishedDateTime: 2023-11-06T23:06:00Z
