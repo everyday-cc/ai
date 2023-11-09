@@ -58,6 +58,36 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "AI startup Anthropic to use Google chips in expanded partnership"
+    excerpt: "Artificial intelligence startup Anthropic will be one of the first companies to use new chips from Alphabet Inc.\"s Google, deepening their partnership after a recent cloud computing agreement."
+    publishedDateTime: 2023-11-09T15:36:00Z
+    webUrl: "https://techxplore.com/news/2023-11-ai-startup-anthropic-google-chips.html"
+    ampWebUrl: "https://techxplore.com/news/2023-11-ai-startup-anthropic-google-chips.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-ai-startup-anthropic-google-chips.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-chip.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Anthropic to use Google TPU v5e chips to train generative AI models"
+    excerpt: "Anthropic plans to use the latest TPU chip 'at scale' to help train its generative artificial intelligence models, including its Claude large language model (LLM). The company, which counts Google as an investor, will use the v5e variant of Google's custom AI chip family. The new chip is now generally available on Google Cloud."
+    publishedDateTime: 2023-11-09T15:10:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/anthropic-to-use-google-tpu-v5e-chips-to-train-generative-ai-models/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Google_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "l7SdQJvWJdrZ19C1+0QdCubihQZaf3vxQ596IxPU8oNaVrzN6wqif6iirqOXVpZroTTIVjbUAQBmjqBAZ8YFHSUfDqkgn+Z4isP54DF3leFxU1lAKYLRq1vepleDR797xB3r7iYYMweDYldTScc51UMcEI5ax6G8BJqHA6u4W6eERFcAEyDjmrdPEN360i4XmV2bANaPpkW7P/PIuVmHVir5PujgtucSH8e5S5InFYE6o3iV44stkpLsTPvZC0paQHsvF1fEoDTg2q7b+N+apnvy5wNzau4GlKQ7uNGuJPsjVo/G/OCEG+A9vilXIQ/SMOtG2ch9zsu+aiB8lvhUgG/PQcBL7ln23SVV2p8RPggpidtJFM04fwzZ4njA4VS2LcQ67JDQwQq3hnhf/HTfEF+IX/YXvyYGsIV/ADCQHNm49Bb27xl6BHNYy8CG9qCUcjQtPOeNjuHCXsZz0+7K/fDoVSpgarKPWQ0tZKkiCsYrEeKoCAdFwOQSNzwcuhpVq3Rp4TwhzRNF+foD3DOL9A==;gMGYkHcnSLw+1uCaSG6JYw=="
 ---

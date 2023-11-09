@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/world-news/britain-says-car-makers-not-owners-l
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/britain-says-car-makers-not-owners-liable-for-self-driving-crashes-4555517/amp/1"
 type: article
 quality: 59
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -206,6 +206,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 4
+  - title: "New legislation to hold carmakers responsible for self-driving vehicle crashes"
+    excerpt: "Users of driverless vehicles will not be liable for any fatal crashes involving pedestrians under new rules laid out in the Kings Speech."
+    publishedDateTime: 2023-11-09T13:00:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/11/new-legislation-to-hold-carmakers-responsible-for-self-driving-vehicle-crashes/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 0
 
 secured: "LM0MiGEmn9RkoMRUHawhoEU+iVJOCnGQ0e9e2BJRkFJk1OhHR469A0QtOgRr7AW5wh4Kj2PWDns81AFJLupLgjjx9waDPPk43dbwRljLi3ROnngSCOTyoJ/7eDhEGpFWom7L4fk6XU1QCVmO0+wUusdBQrk8T/jY9jMdm8WPfSg5erc9vFZO5gsaZMtVVbU6y7ux2sgW538DN3K+pjym5OH8jEgVjcTm6Mz+kIbg+Vyg6y5leSo/3m+Pzccdyufxb8m2TLuAfD4M0PSpFe/2swiTiSl9RT1h6MShOiLj3X/ibUJjrexZ3t1n7nUtlS6RX9m4H1SF3xPTAafZQQlya/2PblKAPtkqE7Z0yP9yz+z9o9V5YHcK1pa6U/TZbzswIrOpSa2XmT4obC9XmlyJ0cS0pbHzOv3lCHY6sVzxhipSs7ML0lG+Tf7eqQbokon+SAPaNH0FAFWfIROJHE5RV7BnAxv40VvMFddf4jb3oib9loaEI4z1nUm/O0d8Em30NCrCkIU6bCtCt6opItcNxA==;nkojzHS57XSQhk6Qt+6NLw=="
 ---

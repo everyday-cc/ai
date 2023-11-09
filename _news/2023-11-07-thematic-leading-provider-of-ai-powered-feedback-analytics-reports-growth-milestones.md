@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/thematic-leading-p
 webUrl: "https://markets.businessinsider.com/news/stocks/thematic-leading-provider-of-ai-powered-feedback-analytics-reports-growth-milestones-1032787094"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Connexa Initiates Beta Testing of Artificial Intelligence (AI) Tennis Analytics App for IOS and Android Users Under its Slinger Bag Brand."
+    excerpt: "\"We envision our artificial intelligence platform will power the Connexa portfolio of brands and generate significant consumer engagement. The AI platform will drive real-time data and analytics for each of Connexa's core sport verticals – racquetsports ..."
+    publishedDateTime: 2023-11-09T14:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/g35699902/connexa-initiates-beta-testing-of-artificial-intelligence-ai-tennis-analytics-app-for-ios-and-andr"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "1ge3CsZuDnMAHBN8zA/5uZjb6gkvphtFnBgPAhzDbZPJbxYfOtdKVS6LtMRSRfHo0JQ4blgF0of1HV1pTOHAr7LQoq0TcnMoP4WtJpm6jr1q77zpzNpS9ylGikE8+PRsOHZwtjQSj/pf43Q+x/HZ8LrvmFZN+5bV57M3K9MmIrArLIEmF5+tY/m34af+PxLZRvWaTqxEhtCHnfqzyAbbXLhFhQvOG8+/ZBFpNDxYsi/PXQWa+Zcgrt/Ew42xBXLsJ63GM0VS6YA+RzjD/P1TeYYAwPph8FIheiBumciYtjk/K5BmP7Xbc8iC1AviYCdOXsq6nOJKMOJ5vh7A5ZN6gHb1sfupV0KbfjZeo4tMh0ks3IFewLWoovQBfVHZjODz7vcHqonYpDjQRcbUIlsxG8qGkOUACFootdfUfeEoKCx7DR37bw98UbQBlxrVL2ZBhgrmagNweOoF92xxKSTWvOZE0Dc7wlYm+rv31B8zHGbt8OXewKZWP56WQmjCq4iepl2UaxNMACr3u6Cs3+Sn4Q==;OBNXcUn+LMnhveIihaCMcw=="
 ---

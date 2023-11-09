@@ -39,20 +39,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "NVIDIA shatters records, training AI models in under 4 Minutes"
-    excerpt: "NVIDIA's AI platform has once again demonstrated its capabilities by setting new records in the latest MLPerf industry benchmarks, a well-regarded measure"
-    publishedDateTime: 2023-11-09T10:17:00Z
-    webUrl: "https://www.geeky-gadgets.com/training-ai-models/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/NVIDIA-shatters-records-training-AI-models-in-under-4-Minutes.jpg"
-        width: 1280
-        height: 718
-        isCached: true
 
 secured: "J9Z51XeoXkE575iv98QBjo3eC3WK6pVdc7/Vg7c2jgCZTWIjLDcGhrYJG448uDPKCO8JMENGFc/rj5QXmJq58xeiWu7iQAnmDzrO7eKh+98WZQDRuoXGUudtHh5uLqbwmSzDHZOHLldf+ZTmzvpHue1Cv7AUEvjMU+QFZe/ieafDjwBU+H664aCscFpRmRLgZpoRjTJJheADAwjBY4wkxEtkCYCMZlqRRAL1yYOhqO6gyfdvAcdKc9Cw68fHHKlYpXikMbju+8Xn2q+qeHpXPcClm/zzLQlB6Yci3hZ8LyTxY5T6Rke0u4EZr1YjKr4Xm+Lhzq41f4P22zDRy7Jhm3OSfgk6a6hH/cTjJo4s2Y8EAs55z9g9zBHpdNfwEm9yRQYxjN2cw5qCTRc3dse3bTK6HyVRoyYWg2/nFlYR+2r0ZTW/n1EoTJAS2jIqgUB5pf+lWddf/Vc8HDKq1V7Ucv007Dcovonbs8lZ0682W/p85h9yW5OJQauhJIk/gnraaEPBmSINbzyr46KlfW5EWg==;hRVR6cr8iyVYiR8WzOZ0Cg=="
 ---

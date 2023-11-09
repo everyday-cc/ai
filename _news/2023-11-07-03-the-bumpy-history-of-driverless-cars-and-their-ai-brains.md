@@ -51,24 +51,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Driverless cars: The good, the bad and the AI"
-    excerpt: "GM has expressed how much safer driverless cars are ... \"65% less likely than human-driven cars to be involved in an accident and 74% less likely to be involved in a crash in which there is a meaningful risk of injury,\" according to Isidore and Valdes-Dapena."
-    publishedDateTime: 2023-11-04T21:38:00Z
-    webUrl: "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 34
-  - title: "OPINION | LET'S TALK: Driverless cars: The good, the bad and the AI"
-    excerpt: "GM has expressed how much safer driverless cars are ... \"65% less likely than human-driven cars to be involved in an accident and 74% less likely to be involved in a crash in which there is a meaningful risk of injury,\" according to Isidore and Valdes-Dapena."
-    publishedDateTime: 2023-11-04T21:38:00Z
-    webUrl: "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 34
   - title: "Tech bosses hope driverless car laws will clear the road for UK software industry"
     excerpt: "But firms hoping to win big giveaways in the king’s speech this week are likely to be let down"
     publishedDateTime: 2023-11-05T13:00:00Z

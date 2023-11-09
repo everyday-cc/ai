@@ -2,26 +2,20 @@
 category: news
 title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
 excerpt: "Musk, who helped start OpenAI before parting ways with the company, launched a new venture this year called xAI to set his own mark on the pace of AI development. Grok is only available to a limited number of early users but promises to answer “spicy ..."
-publishedDateTime: 2023-11-09T04:37:00Z
-originalUrl: "https://tulsaworld.com/news/nation-world/government-politics/article_8fb7292d-70e6-55fe-8f44-0d5db2b2c175.html"
-webUrl: "https://tulsaworld.com/news/nation-world/government-politics/article_8fb7292d-70e6-55fe-8f44-0d5db2b2c175.html"
+publishedDateTime: 2023-11-08T20:45:00Z
+originalUrl: "https://omaha.com/article_1546c0bb-8339-57fe-8cf4-e9cf7929783e.html"
+webUrl: "https://omaha.com/article_1546c0bb-8339-57fe-8cf4-e9cf7929783e.html"
 type: article
-quality: 23
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/0/20/020a9902-f940-5a8e-9452-0b9c17da7ed3/654bd69c05ba4.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
@@ -317,6 +311,6 @@ related:
       domain: thestreet.com
     quality: 9
 
-secured: "uvhXTdq0HFBKeARUPsAqgpF6F0XQyFmOwYviTWaXABxlbD232G+TjmyzXT4bGDRKAgSv6gtbLUvU5KqRvM33LM1+R5OtPPTpHACMJVOxVLQdPxgRrQQys+DJVtOupqsyDlnh7emW1kVPKLwXWSBvpvuLxds/Zp9IszTkMday2PrJSkwb6woGQ1UnebcXaZ4Li4yaMqvrw386M4CCm22FK5ad4izGam0/rqewTqIDCec6HlBIgAnh48loiEQXj01ytty0TSX//2GWtfMSi2Nv19v0iE8nLxILoHL0DbRhesT3Zwx38dBsbNqfjcWGNZ62lP2PvIJpz1/ZOv65QTakGbBwbBqNWiB8U3otzYemt/8=;SDfffjcT7Lg1/BYZ4L2LPw=="
+secured: "vQoysn96om2m2gCXlOOQ7k/gDPCEg/+SgBPP3yP4OeOgos8Jc4xKOB5KQuZska2dP+MXw3SZ1zJxaoe78xOjBfCQvTTR03DsXYUdSzoEcBz6ZSInbQk2UP+OmPBcIBprsrSla/szcKdsBL61Tm5cg2nk61QnaJMfunOBFz9HPY5PObAnJ5AUrolR4VFJdhfyU0cY79G2naKcXhOZtV+R1RfwebvIoEGYrhd0PXqddCe6IUlq52L0qAbBwoldeydeUoJrJMpF/bgVudxbsUM9e2p64LxuSJSYihxu80ywg5yPkvdssxefnxTN72cs9BDYV9QRZ/Q8A2/oBGohDlv8ehpfJ6tnaLCAZQXILDwiSFuW6djPCJuVVlZ8U9snOtBV+ZgYXRbqEj7jgpLM26RgmXH4sUzXGMJuN+XGeCl8DRboLfGJI0R0EFXgNQnAF6N5VcTiANvloFXDimeFvIjeUgHNdOoFgkcueyU1Ng2jNJVhriBtv/tnOBQrnvRHLXhPOcqahMiaRkdWMTOaTO4ncg==;gN9lDRZFGjjVbU36aHTjgw=="
 ---
 

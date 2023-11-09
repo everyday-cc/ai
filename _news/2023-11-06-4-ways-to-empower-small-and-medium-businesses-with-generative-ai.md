@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/4-ways-to-empower-small-and-medium-busine
 webUrl: "https://www.ibm.com/blog/4-ways-to-empower-small-and-medium-businesses-with-generative-ai/"
 type: article
 quality: 99
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -139,6 +139,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F045a52eb-a8ce-436d-8d55-b51e7780855a.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
         width: 700
         height: 394
+        isCached: true
+  - title: "There’s more to AI than generative AI"
+    excerpt: "It is typically used for deciphering complex data, such as image, text, audio, and/or video recognition, or for other complex ... as to what is the next most probable term or object to follow in building a sentence, constructing an image or extracting ..."
+    publishedDateTime: 2023-11-09T16:30:00Z
+    webUrl: "https://siliconangle.com/2023/11/09/theres-ai-generative-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/twoaibrains.jpeg"
+        width: 1023
+        height: 823
         isCached: true
   - title: "How Generative AI Will Transform Knowledge Work"
     excerpt: "Generative AI can be a boon for knowledge work, but only if you use it in the right way. New generative AI-enabled tools are rapidly emerging to assist and transform knowledge work in industries ranging from education and finance to law and medicine."

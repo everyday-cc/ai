@@ -31,6 +31,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 0
+  - title: "Retail AI Startup AISLES Has Secured 28Th Position On Crunchbase With The Pre-Launch Of Its New Venture HELPS"
+    excerpt: "The new tech aims to promote inclusivity and broader access for users in the retail space. PORTLAND, OR, USA, November 8, 2"
+    publishedDateTime: 2023-11-09T14:31:00Z
+    webUrl: "https://menafn.com/1107401244/Retail-AI-Startup-AISLES-Has-Secured-28Th-Position-On-Crunchbase-With-The-Pre-Launch-Of-Its-New-Venture-HELPS"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "QIBMjTj+C3DtOC9P/UrjaNP3ebm60Lf5JAiClBx2MIA06Qyr4nJ+VAMQpQr+v2YUNBl8NGhGcVql+ZWsi3PDmn1iYeBentWm/oovW7ysEIXA54QVeeVlMZI1Tl0QjxVJmFQjtEsCOL/+83Fkc15kJDhdmd7hk+fprexz8pHEeWmACsBbgZ4g1pCy60o9aPQO/1vfwerxWSPxdumoIyhk+b7en3iRj9BIcDxXJ2JpjWE9oUMfEYdSVmgQMvLD2FSNf+RkFFQiymt0yUZLX5m9yxFConNfQe/XINNmLsvue5qOTs1E0QM5YLAjpkt6HG7g9ikECsEnNBQMDQBv+BZ3WpnRIS83oDDHF+iVdLjhDZ+BgZk3eK2+X64d17+fkfBZ5KoCtXozjuO7Q7BYHI1LHEi+93MHTwt79cFg6j70jfCaXmvPwTbWmozS04AN6EFpFWhOVkHzc9V6jbTcJRS32rHDXAInNiUKwFSi8yInTYEIUMTyWTV9cl5CTdrB17nfrqfSj8uww89k+tikzBMI8A==;w24j1X1RgfXTxwCSpUK95Q=="
 ---

@@ -60,6 +60,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Top skills & talent priorities in the age of AI"
+    excerpt: "Ahead of hosting this year's SME day on Singapore Fintech Festival’s Talent Stage, Tram Anh Nguyen, Co-founder for the Centre for Finance, Technology and Entrepreneurship (CFTE), discusses the importance of skill adaptation and financial literacy."
+    publishedDateTime: 2023-11-09T16:22:00Z
+    webUrl: "https://www.finextra.com/videoarticle/3030/top-skills--talent-priorities-in-the-age-of-ai"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/tram-anh-nguyensfffinextratv.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Leveraging AI as a tool for growing your business, creating efficiencies and identifying new opportunities for employers"
     excerpt: "The value of AI is the opportunity to amplify the best of our hopes and dreams through new technology in ways we never thought possible before."
     publishedDateTime: 2023-11-07T18:25:00Z

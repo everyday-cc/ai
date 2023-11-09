@@ -47,6 +47,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "Top skills & talent priorities in the age of AI"
+    excerpt: "Ahead of hosting this year's SME day on Singapore Fintech Festival’s Talent Stage, Tram Anh Nguyen, Co-founder for the Centre for Finance, Technology and Entrepreneurship (CFTE), discusses the importance of skill adaptation and financial literacy."
+    publishedDateTime: 2023-11-09T16:22:00Z
+    webUrl: "https://www.finextra.com/videoarticle/3030/top-skills--talent-priorities-in-the-age-of-ai"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/tram-anh-nguyensfffinextratv.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Unveiling the Pulse of AI in Language Services: SAFE-AI Task Force Launches Pivotal Perception Survey"
     excerpt: "Global discussions underscore the urgency of a collaborative approach towards navigating the frontier AI landscape. The Perception Survey by the SAFE-AI Task Force aligns with this international momentum, aiming to foster a comprehensive dialogue around AI ethics and safety in the domain of language interpretation."
     publishedDateTime: 2023-11-08T18:24:00Z

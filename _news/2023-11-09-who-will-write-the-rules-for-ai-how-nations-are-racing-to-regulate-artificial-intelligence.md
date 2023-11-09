@@ -43,6 +43,17 @@ related:
         width: 1050
         height: 788
         isCached: true
+  - title: "The future of airport security is facial recognition"
+    excerpt: "What is certain is that credential authentication technology is the driver that will transform airport security, and that biometrics like facial recognition are critical to effect this"
+    publishedDateTime: 2023-11-09T15:30:00Z
+    webUrl: "https://thehill.com/opinion/technology/4301825-the-future-of-airport-security-is-facial-recognition/"
+    ampWebUrl: "https://thehill.com/opinion/technology/4301825-the-future-of-airport-security-is-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/4301825-the-future-of-airport-security-is-facial-recognition/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 71
   - title: "3 out of 4 business professionals believe AI and HR function will coexist"
     excerpt: "It remains a prominent concern for HR professionals navigating this transformative landscape. Amid the predominant ethical concerns about AI in HR, 3 out of 4 business professionals believe AI and the HR function will coexist."
     publishedDateTime: 2023-11-08T16:04:00Z

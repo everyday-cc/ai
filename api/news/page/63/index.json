@@ -2,6 +2,152 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-09-24-ai-takes-over-the-best-part-of-fantasy-footballtrash-talking-your-friends.md",
+      "title": "AI Takes Over the Best Part of Fantasy Football—Trash-Talking Your Friends",
+      "excerpt": "Yahoo amps up the ChatGPT-generated commentary sent to partipants, and it turns out the bots are better at heckling (and meaner) than humans",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/lifestyle/ai-fantasy-football-insults-chatgpt-league-players-f773ed86",
+      "originalUrl": "https://www.wsj.com/lifestyle/ai-fantasy-football-insults-chatgpt-league-players-f773ed86",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-856132/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-24T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-24-cathie-wood-offloads-whopping-47m-of-tesla-last-week-amid-stocks-lean-run-and-doubles-down-on-this-ai-stock.md",
+      "title": "Cathie Wood Offloads Whopping $47M Of Tesla Last Week Amid Stock's Lean Run And Doubles Down On This AI Stock",
+      "excerpt": "Cathie Wood, despite her bullishness on Tesla, has continued to offload the stock in the past week amid its pullback.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/cathie-wood-offloads-whopping-47m-of-tesla-last-week-amid-stock-s-lean-run-and-doubles-down-on-this-ai-stock-1032651206",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/cathie-wood-offloads-whopping-47m-of-tesla-last-week-amid-stock-s-lean-run-and-doubles-down-on-this-ai-stock-1032651206",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Kyiv,,Ukraine,-,February,25,,2021:,In,This,Photo,Illustration.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-24T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-24-smooth-ride-so-far-for-robocabs-in-china-but-mainstream-use-still-years-away-say-experts.md",
+      "title": "Smooth ride so far for ‘robocabs’ in China, but mainstream use still years away, say experts",
+      "excerpt": "Operators say higher ridership will widen acceptance of driverless cabs, and make them cheaper and more reliable. Read more at straitstimes.com.",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/asia/east-asia/smooth-ride-so-far-for-robocabs-in-china-but-mainstream-use-still-years-away-say-experts",
+      "originalUrl": "https://www.straitstimes.com/asia/east-asia/smooth-ride-so-far-for-robocabs-in-china-but-mainstream-use-still-years-away-say-experts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/09/24/DSC1433.jpg",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-24T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-24-ai-powered-security-the-future-of-surveillance-in-india.md",
       "title": "AI-powered security: The future of surveillance in India",
       "excerpt": "Key aspects of AI-powered security that are shaping the industry’s future include: Advanced Surveillance: AI-driven smart cameras enable real-time object recognition, behaviour analysis, and anomaly detection. Security systems can proactively identify ...",
@@ -1019,143 +1165,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-23-fish-controlled-robot-opens-up-a-whole-new-world.md",
-      "title": "Fish-controlled robot opens up a whole new world",
-      "excerpt": "This newsletter may contain advertising, deals, or affiliate links. Subscribing to a newsletter indicates your consent to our Terms of Use and Privacy Policy. You may ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/fish-controlled-robot",
-      "originalUrl": "https://mashable.com/article/fish-controlled-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/025Fw5y0ypmON4H7RQxKGBY/hero-image.fill.size_1200x675.v1614266929.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-23-wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player.md",
-      "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
-      "excerpt": "Whilst we patiently wait for the day that Womble-shaped robots replace human tennis players at Wimbledon, we can admire the IBM powered AI technology ... them into the huge Watson driven analytics ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/07/08/wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player/",
-      "originalUrl": "https://hackaday.com/2019/07/08/wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/07/Wimbledon.jpg",
-          "width": 862,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-23-5-new-creator-tools-youtube-just-unveiled-including-an-ai-video-generator.md",
-      "title": "5 new creator tools YouTube just unveiled, including an AI video generator",
-      "excerpt": "On Thursday, YouTube unveiled five new creator tools, including \"Dream Screen,\" a feature that allows users to add AI-generated images or videos as a background for YouTube Shorts. Also: I went hands-on with Microsoft's new AI features, and these 5 are the most useful",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/5-new-creator-tools-youtube-just-unveiled-including-an-ai-video-generator/",
-      "originalUrl": "https://www.zdnet.com/article/5-new-creator-tools-youtube-just-unveiled-including-an-ai-video-generator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3b7afaa855557114508fcb6a2962e0f996dd32e0/2023/09/22/dc1c8e5a-2571-41b4-98d5-9bc275d7e769/screenshot-2023-09-22-at-11-44-19-am.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5-new-creator-tools-youtube-just-unveiled-including-an-ai-video-generator/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-new-creator-tools-youtube-just-unveiled-including-an-ai-video-generator/",
-      "publishedDateTime": "2023-09-22T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

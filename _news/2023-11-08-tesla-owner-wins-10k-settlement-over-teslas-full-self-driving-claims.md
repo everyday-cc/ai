@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/11/07/tesla-owner-wins-10k-settlement-ove
 webUrl: "https://electrek.co/2023/11/07/tesla-owner-wins-10k-settlement-over-teslas-full-self-driving-claims/"
 type: article
 quality: 84
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "What’s the difference between Tesla Autopilot and Full Self-Driving? – Digital Trends"
-    excerpt: "Cars are quickly changing. Companies are increasingly adopting new technologies to roll out fully electric models. At the same time, those companies are"
-    publishedDateTime: 2023-11-04T22:24:00Z
-    webUrl: "https://www.inferse.com/783359/whats-the-difference-between-tesla-autopilot-and-full-self-driving-digital-trends/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 12
 
 secured: "QL0/oXgeRi+3SVmq6MR9llX+Hd/+rmAxe/F071f43GE3J55r1RAB1MOtEzrSHFsPW9mM/NlRDgK2gV0b+GNNMFn28N31b3BFfp/jb5tjJWZvRQoo/MY6WGXEW9jgfx03NojIJTcT37px/7SoC6Mk5cTLCZq+I8U6Z6IgNk2w+vUZCh39RJeoJW2uck9nZV9sq/rYbCUnqJAesfWdbET7xxdWqFwjTD13CGxxw6uXOC7lTTSwi6Ok/nriBAyBhfLtsgjbKvbmTGo+zieP6W8bQIUBRLT49O1xPiZ2LkPMiky1O5xeRwRhvae6pMraKSWuj4cDe+NSaeSErofC+uQop9V5w0F6PCVN9J30Hb97GxBxBBDoSzURBDUFsGatjl16IORz5uxveY7Ug4PHhOelPLCDuXqDULnYlB/NNW77Cfd4Wt842cTY7DJkek3kKq+bBI49ZVmeGwsSI108r7Mk/xR8F0II/d7pksu8qyQUIUkh+1+Kx5KhsQh3YwMAlLqaLYlpCMVe7MfXI4s2XRt6lg==;7JegGDGyBtH/4QL3L6MRJQ=="
 ---

@@ -61,6 +61,15 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 28
+  - title: "Connexa Initiates Beta Testing of Artificial Intelligence (AI) Tennis Analytics App for IOS and Android Users Under its Slinger Bag Brand."
+    excerpt: "\"We envision our artificial intelligence platform will power the Connexa portfolio of brands and generate significant consumer engagement. The AI platform will drive real-time data and analytics for each of Connexa's core sport verticals – racquetsports ..."
+    publishedDateTime: 2023-11-09T14:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/g35699902/connexa-initiates-beta-testing-of-artificial-intelligence-ai-tennis-analytics-app-for-ios-and-andr"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "x7AAWsqPl8qn1uXNucGdSe3l+NMVma7f5mFSM6XNzG5O2Y5WNPyOTRKzb5bp6Gt6ZMIdtIU37qVJqIvWR2/0CkEuCPoAsIVV2P3TjNlmu+SG2CAVqFz8uhKQr4QG+zvLeGgNK/djUBjPRDWucjgFapyPJ4fjzvHJ7oX/rUz4h20rLFVKRfo+x93IdnW7JlQHcjExgYXbcRzI57y8kl9sR8BBqS3ws46LAFH62sj0nD78z1+6MUm9kWgODabRajN/g9OWBOccG7qyK7VqbUtS+5J9UtoRf26D2ti6DXqQEkg8Vann5jTPF7MFJYLbgdUZWfa35CvF/5E2uHBxfb0hB+P5UA95cZvN2J8s4x4H3bI=;VQVCEp1xgxriv/ofwo39lw=="
 ---

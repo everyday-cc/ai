@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/endpoint-security-getting-a-boost
 webUrl: "https://venturebeat.com/security/endpoint-security-getting-a-boost-from-ai-and-machine-learning/"
 type: article
 quality: 103
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Homeland Security adds facial comparison, machine learning uses to AI inventory"
+    excerpt: "The Department of Homeland Security recently updated its artificial intelligence use case inventory to reflect several uses of the technology that have already been made public elsewhere, including facial comparison and machine learning tools used within ..."
+    publishedDateTime: 2023-11-09T16:28:00Z
+    webUrl: "https://fedscoop.com/homeland-security-adds-facial-comparison-machine-learning-uses-to-ai-inventory/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 67
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg"
+        width: 1920
+        height: 1024
+        isCached: true
   - title: "Chick vent sexing machine uses AI to reduce labor"
     excerpt: "Learn about a chick sex identification technology that is the first commercial chick vent sexing system available commercially in the world."
     publishedDateTime: 2023-11-07T16:38:00Z

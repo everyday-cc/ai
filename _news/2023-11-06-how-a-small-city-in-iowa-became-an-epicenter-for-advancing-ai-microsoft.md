@@ -192,6 +192,15 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "Microsoft to provide startups with free access to develop AI models"
+    excerpt: "Washington: Microsoft announced that it will provide distinguished startups Microsoft for Startups Founders Hub with free access to supercomputing"
+    publishedDateTime: 2023-11-09T13:38:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/09/11/2023/microsoft-to-provide-startups-with-free-access-to-develop-ai-models"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 34
   - title: "Microsoft Windows Copilot AI: What You Should Know From The Ultimate Upgrade"
     excerpt: "Microsoft's latest stride in AI has landed Copilot squarely into the laps of Windows 11 users, touting enhancements in creativity and productivity. An early"
     publishedDateTime: 2023-11-06T16:00:00Z

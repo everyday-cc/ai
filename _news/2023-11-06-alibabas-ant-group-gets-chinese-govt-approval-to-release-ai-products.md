@@ -66,20 +66,6 @@ related:
         width: 660
         height: 495
         isCached: true
-  - title: "NVIDIA to launch 3 new AI chips for Chinese market"
-    excerpt: "NVIDIA is said to be preparing the launch of three new chips specifically for the Chinese market, as reported by local media"
-    publishedDateTime: 2023-11-09T09:56:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/nvidia-to-introduce-3-new-ai-chips-in-china/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 54
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l63220231109150702.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "President Xi Jinping tells Chinese internet conference he seeks keen eye on AI and regard for cyber sovereignty"
     excerpt: "Chinese President Xi Jinping has called for the “proper handling” of challenges posed by technology innovation, including “conflicts of rules, social risks and ethics”, as well as the safe development of AI in a video speech delivered on Wednesday."
     publishedDateTime: 2023-11-08T06:47:00Z

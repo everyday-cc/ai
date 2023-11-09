@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Samsung To Soon Bring 'Live Call Translate' Feature With Latest Galaxy AI Phones"
-excerpt: "Samsung on Thursday announced that it is working on an artificial intelligence (AI) Live Call Translate feature, which it w"
-publishedDateTime: 2023-11-09T07:12:00Z
-originalUrl: "https://menafn.com/1107398135/Samsung-To-Soon-Bring-Live-Call-Translate-Feature-With-Latest-Galaxy-AI-Phones"
-webUrl: "https://menafn.com/1107398135/Samsung-To-Soon-Bring-Live-Call-Translate-Feature-With-Latest-Galaxy-AI-Phones"
+title: "Samsung to soon bring 'Live Call Translate' feature with latest Galaxy AI phones"
+excerpt: "Samsung said that it is developing a \"Live Call Translate\" artificial intelligence (AI) technology with the newest Galaxy AI phones to provide consumers with a personal translator at any time"
+publishedDateTime: 2023-11-09T12:25:00Z
+originalUrl: "https://www.indulgexpress.com/gadgets/2023/nov/09/samsung-to-soon-bring-live-call-translate-feature-with-latest-galaxy-ai-phones-54961.html"
+webUrl: "https://www.indulgexpress.com/gadgets/2023/nov/09/samsung-to-soon-bring-live-call-translate-feature-with-latest-galaxy-ai-phones-54961.html"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: indulgexpress
+  domain: indulgexpress.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://menafn.com/updates/pr/2023-11/09/I_5f3e9image_story.jpg"
-    width: 1440
-    height: 810
-    isCached: true
 
 related:
   - title: "Galaxy AI likely to debut on Galaxy S24 series, AI Live Translate Call feature revealed"
@@ -100,6 +94,20 @@ related:
       - url: "https://fdn.gsmarena.com/imgroot/news/23/11/galaxy-ai/-1220x526/gsmarena_000.jpg"
         width: 1220
         height: 526
+        isCached: true
+  - title: "Samsung Aims to Break Language Barriers with Galaxy S24’s AI Feature"
+    excerpt: "Here are the details… Samsung Galaxy S24 Will Be Able to Translate Calls Instantly to Another Language Artificial intelligence (AI) technologies are becoming increasingly widespread and integrated into every aspect of our lives. The process that began ..."
+    publishedDateTime: 2023-11-09T16:51:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/09/samsung-galaxy-s24-ai-based-translate/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 69
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/11/samsung-galaxy-s24-ai-based-translate.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Samsung unveils Galaxy AI, a new mobile AI experience that includes ‘AI Live Translate Call’ feature"
     excerpt: "Galaxy AI is Samsung’s latest innovation that will leverage both on-device and cloud-based AI to \"empower everyone, everywhere.\""
@@ -191,6 +199,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Samsung is really pushing AI with Galaxy AI translation feature"
+    excerpt: "One of the benefits of Galaxy AI is the new AI Live Translate Call, which will let your Galaxy AI ... This means if you’re calling or texting someone who speaks a different language, it’ll be similar to watching closed captions. The post says that ..."
+    publishedDateTime: 2023-11-09T15:58:00Z
+    webUrl: "https://mobilesyrup.com/2023/11/09/samsung-galaxy-ai-s24-ai-live-translate/"
+    type: article
+    provider:
+      name: MobileSyrup
+      domain: mobilesyrup.com
+    quality: 39
+    images:
+      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2023/11/01-Samsung-Galaxy-AI.jpeg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Galaxy S24 AI will reportedly be called Samsung Gauss — here’s what it will do"
     excerpt: "Google, Apple, Microsoft, and Amazon have shown us this year how generative AI will be complementing their different devices, but now it appears as though Samsung will bring its own generative AI into the Galaxy S24 when the new flagship phones arrive next year."
     publishedDateTime: 2023-11-08T17:49:00Z
@@ -243,6 +265,6 @@ related:
         height: 675
         isCached: true
 
-secured: "kbzjVBYBWlGrINAc58rVRrBD98fhXpzKLGR2AKiFtntXyrWR1s4L/gBMQnJRU4pht7ZAsolfZmDk8itjUvnZ1VjQOsb1W1A/09yBKmTZQjL5OIr11mogmXbKVkGyi6ynIw/l+3+QP5FnqX4Tei9R9eNfDGTrwnU8Sj8nqiSKfsYF83bWIm4wTPoTIVNWk4jTYJ+17dxcyJ53HqlpJq9p7iLUPywKg+DcBESrNnXolFgIMaAcTA2i4c1eMpefiGcPrwKi7JPjlKg73JVvYxbEJ4PfmiX2f6X01JVhz4mEBP1xv9AShdvHTrGNx6LHWPOBSaIweQL0yXwg+ACi7vDrbawDWu1D778XY9M3tawWyUU=;Xnsx9w7wk+OCr2o7KYPVgg=="
+secured: "iZNleuPH8/ZTlpICQ34E/eCF0ycgjYiVTdRhmFyi4oQyMKpElMzpfWE0MAHaRuC+RPTWWmvxWwMvn9l0iap7Ke/83bwv5QSY8lX4yLV6WIgHDfylfBdF9SyYbvHOdYnYgZ7NO0zyOGtzEXm12E5MlH219yGoAodfkwnFg2VxcZMe5v0L1ebhEreFaCFUDQ39HSD2D6+/+l6sfcw4xfj4GOLXIf9xrteozndponuAJ1PRy39nP7khoULecdJygu7ziO8Lf9jHSfuXXGIBxG/NXrT1CXlaYZP/inoLH2VQ5hkI7e1u3yIwtL5HZ5RmsuA3UvCwcr5kBpD/xPwxjiVI6c7hoD+E1oGXv6XRbbTB3NW2o/zLPdCO/8muuV6otybPGFgs6CP5R/gVIiexJOZeM4hhieDq3+vyAm1x+sUJuU5+tQTDQEPy1JcuFcdIMfNmbOeXaLlrapSpCg/0FxIvuKE1kjM5SCOn2AbP6RDQoDJ63fP6pc5oYNbVeihV2ZgH5LI5NqSBY+sc6toCrji4ZA==;eTXR1Fy/DHEhw3BL69ShoQ=="
 ---
 

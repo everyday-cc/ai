@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35678759"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35678759"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -27,16 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Flip AI Launches to Bring the ‘Holy Grail of Observability’ to All Enterprises with $6.5M in Seed Funding Led by Factory"
-    excerpt: "Today Flip AI launched with its observability intelligence platform, Flip, powered by a large language model (LLM) that"
-    publishedDateTime: 2023-11-08T18:57:00Z
-    webUrl: "https://www.datanami.com/this-just-in/flip-ai-launches-to-bring-the-holy-grail-of-observability-to-all-enterprises-with-6-5m-in-seed-funding-led-by-factory/"
+  - title: "Ritual Secures $25 Million in Seed Funding to Decentralize AI"
+    excerpt: "AI platform Ritual obtained a $25 million capital injection in a Series A funding round led by Archetype with assistance from Accomplice."
+    publishedDateTime: 2023-11-08T21:00:00Z
+    webUrl: "https://cryptonews.com/news/ritual-secures-25-million-in-seed-funding-to-decentralize-ai.htm"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 0
+      name: cryptonews
+      domain: cryptonews.com
+    quality: 39
+    images:
+      - url: "https://cryptonews.com/wp-content/uploads/2023/11/1699475021-ai-7977960_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
-secured: "0Dw3E8+WDM+mmikO+cRcmmrkcEGKC2N1WA7vjizS/Ho/ZLlEYSujNoQEk1jaO1a8K+bkka9SyDqB28Xj+twg+W1c0ZU2C0oJVNR+c5DZAbuxVTrY4ZYbWtmM6jciA7szm8Y7zinu6MCe/Vsm3xL2zKHxcK73IiFsLxgqkfQ2ZTLc/+ltGGabAEFMIdUsqs2LjOvNmlghTHOEsFd5xvKU16hE2MCNkAlkZ4fx7oURVMzYHHulHXblKZWo0gQSmLlntKfohbCBiSlrItfWjAGAuEQPcMUXf7IXfCsWYCDsXKL8BmLfP/ijyeadg200P/EtBZA3rlarJBPAMGjDc4n0NE/tZbMszdZwket5svP+elM=;XVpyexNbyNMH6OSJZ5qdGw=="
+secured: "EVXp/UQg58x5KTntO0KfNWl5elI9djiZ7lFY4uiGhWNjY7dPOhqMAqz3USr9aDYhx4uAuKJDgrrTbhQPtAJhm3A1Fkhc1HCpDsK5rqz0JhbIwgBlXmJRHQejFT5dJKV1M6YxKGUj961+CBdCGH7Oza9bySZ/UfJxsmTTNryUOuCguHMEHamphojblkajQaC/QACcu4v09WDG0nOy0MrMfUbdq4Q7rC325gh9bTPJYuvixH0MtVY1Yf7XuMX+K3fHmK/YflHc4TwQ5jVO4c/9k4Y2Ycb+U9+6+HookZwGd4PqD6ZG/LxyN2nVFW7/1Tb0VdNaxvW9EK5VpZy7AvFFa7/ZhkqA7TSb4Fj1LQ7z6jI=;6jZBEVZJD42rv8FWMpKWLA=="
 ---
 

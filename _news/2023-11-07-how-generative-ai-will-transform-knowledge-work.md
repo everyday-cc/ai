@@ -150,6 +150,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "There’s more to AI than generative AI"
+    excerpt: "It is typically used for deciphering complex data, such as image, text, audio, and/or video recognition, or for other complex ... as to what is the next most probable term or object to follow in building a sentence, constructing an image or extracting ..."
+    publishedDateTime: 2023-11-09T16:30:00Z
+    webUrl: "https://siliconangle.com/2023/11/09/theres-ai-generative-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/twoaibrains.jpeg"
+        width: 1023
+        height: 823
+        isCached: true
   - title: "MicroStrategy ONE™ Platform Now Available in AWS Marketplace, Empowering Businesses with AI-Driven Business Intelligence"
     excerpt: "By bringing together MicroStrategy's powerful generative artificial intelligence (AI) capabilities for business intelligence (BI) and the scalability and reliability of Amazon Web Services (AWS), customers can now access a ready solution for deploying ..."
     publishedDateTime: 2023-11-07T19:18:00Z

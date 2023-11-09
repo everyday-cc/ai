@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/digital-assets/2023/11/07/the-evoluti
 webUrl: "https://www.forbes.com/sites/digital-assets/2023/11/07/the-evolution-of-ai-from-ibm-and-aws-to-openai-and-anthropic/"
 type: article
 quality: 90
-heat: 110
+heat: 130
 published: true
 
 provider:
@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "AI startup Anthropic to use Google chips in expanded partnership"
+    excerpt: "Artificial intelligence startup Anthropic will be one of the first companies to use new chips from Alphabet Inc.\"s Google, deepening their partnership after a recent cloud computing agreement."
+    publishedDateTime: 2023-11-09T15:36:00Z
+    webUrl: "https://techxplore.com/news/2023-11-ai-startup-anthropic-google-chips.html"
+    ampWebUrl: "https://techxplore.com/news/2023-11-ai-startup-anthropic-google-chips.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-ai-startup-anthropic-google-chips.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-chip.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "OpenAI wants to be the App Store of AI"
     excerpt: "The creator of ChatGPT is taking a big swing with its new store for AI bots. Are we witnessing the beginning of a new platform?"
     publishedDateTime: 2023-11-08T02:24:00Z
@@ -61,6 +77,20 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/Rj1KNOi4tsvd1yHpW1JfsjNSxb0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25067108/Command_Line_Site_Post_Sam_Altman.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Anthropic to use Google TPU v5e chips to train generative AI models"
+    excerpt: "Anthropic plans to use the latest TPU chip 'at scale' to help train its generative artificial intelligence models, including its Claude large language model (LLM). The company, which counts Google as an investor, will use the v5e variant of Google's custom AI chip family. The new chip is now generally available on Google Cloud."
+    publishedDateTime: 2023-11-09T15:10:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/anthropic-to-use-google-tpu-v5e-chips-to-train-generative-ai-models/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Google_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "BGuD8/JKxA3tmphB5as2g+nV10R/Qc+w5vxnQNtgtiqGI7jzX6Lm0V/vZwTxW4D7GFI24m/L8DwzTMOPibESkk1IUFDbCE2gdDfSvAdJq5yDsko0DyHMbmF4wONriswRNV+Tx6/emWYdwwx/gZTD57eEPQCb+IFi8KHeKCLCc9mFdMYpR1nabb6YvUy/MJ5UK3HlkuFCpLNt2gpizhK2ZrjH+HLhHsZdBmZnmdgRUBdobG7vCzoRpP9CEJDdP5EsyBUx4KtekdqOkB1hECZLDnTQ3Lu/OdM6R7pGttwNYSxzNP2b+pBtD/EVFQO9s3ZyJrTp/EYsfG+kcH4bnG5kQ09s4b1lg0YK2F+422x0YXkAWyli2ZtDLs9DfcYKmDQU1aRw5QdRbpbnVuJKk4jg6OcA2mvPhYoVM75/gQ0o/Hlcom3hhvw9NIryLHpXDb7rJTo3DbgISWy2VqawtuGekYfnc/sJTi/ztxdYt7xpyzPyecKgFGQIBPJ4uZOZwcpmD/oTGo5foVB2PBoprJcjJQ==;qNoyub2rGKq+QZ281RW1iA=="

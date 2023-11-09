@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6332071/ant-ai-services-bailing/"
 webUrl: "https://time.com/6332071/ant-ai-services-bailing/"
 type: article
 quality: 69
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://p.potaufeu.asahi.com/9747-p/picture/27894651/6b1819ba929329a40785f37a6cd4139a.jpg"
         width: 660
         height: 495
-        isCached: true
-  - title: "NVIDIA to launch 3 new AI chips for Chinese market"
-    excerpt: "NVIDIA is said to be preparing the launch of three new chips specifically for the Chinese market, as reported by local media"
-    publishedDateTime: 2023-11-09T09:56:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/nvidia-to-introduce-3-new-ai-chips-in-china/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 54
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l63220231109150702.jpeg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Alibaba's Ant Group Gets Chinese Govt Approval To Release AI Products"
     excerpt: "Ant Group, the fintech affiliate of Chinese conglomerate Alibaba Group, has received approval from the Chinese government to offer"

@@ -206,6 +206,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 4
+  - title: "New legislation to hold carmakers responsible for self-driving vehicle crashes"
+    excerpt: "Users of driverless vehicles will not be liable for any fatal crashes involving pedestrians under new rules laid out in the Kings Speech."
+    publishedDateTime: 2023-11-09T13:00:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/11/new-legislation-to-hold-carmakers-responsible-for-self-driving-vehicle-crashes/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 0
 
 secured: "fRhyn0Jf6QLwnoZy1xgK4SLzrHs3gDAJzzJFKCuplI6PRRupimF2Eb0+JaIVJacM2NNiGCn7B03dhHnqMhLCvKVozB/ZOFp///bdSROpjCpMvu7ZCT1CMCdNeV1F4qnry+9YF5lobGjqPZOA6jM4cAryFM5HPf4EJ6h4XTy/jZYELEV63sifv0p+kJs1SL73ARLj6EP9bEqnlswJquFCieLi9SVnhYRss+Cx23XsP4DovjD0NbiYPbMEpv/IYCx6DJuD3gH7J7px8V4P/kV7I+TRjNTgRH3ehGelDzebZsQ8SeU+uig9JaJKnEmfpO+o1UKK72mti+dnFaukCJcpTtd98X1oXHxaG0pbcQ8TfEblbPkkxKcMEkyQ8BZjnq+y6q5+ALmO3FoxU2ISrQBYEfEJIKWjPr3UqQrwuTzz5eYyDSAp1svWsD3doOH2wuYnhJwCYkis8gta6nSFDFlBbzwT5J6sAtfDAA87egBbNowp0nRIT4cqbeTN9suQZXCKQRXtL+ydgtHFN1duR3SOpA==;eyGra+pLABKRLcWw2EuYlQ=="
 ---

@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "A robot crushed a man to death after it mistook him for a box of vegetables: reports"
-    excerpt: "A robotic arm used for packing bell peppers lifted a worker and pushed him against a conveyor belt in a South Korean distribution center, killing him."
-    publishedDateTime: 2023-11-09T11:45:00Z
-    webUrl: "https://www.insider.com/robot-crushed-man-death-mistook-him-box-vegetables-south-korea-2023-11"
-    ampWebUrl: "https://www.insider.com/robot-crushed-man-death-mistook-him-box-vegetables-south-korea-2023-11?amp"
-    cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/robot-crushed-man-death-mistook-him-box-vegetables-south-korea-2023-11?amp"
+  - title: "An industrial robot crushes worker to death at a plant in South Korea"
+    excerpt: "SEOUL, South Korea -- An industrial robot crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigate whether the machine was unsafe or had potential defects."
+    publishedDateTime: 2023-11-09T15:02:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/industrial-robot-crushed-worker-death-vegetable-packing-plant-104749839"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/industrial-robot-crushed-worker-death-vegetable-packing-plant-104749839"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/industrial-robot-crushed-worker-death-vegetable-packing-plant-104749839"
     type: article
     provider:
-      name: insider
-      domain: insider.com
-    quality: 52
+      name: ABC
+      domain: abcnews.go.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/654cc5ce3cc84b4dfaff365d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/International/wirestory_976dc34487051c762362f17166c17fd7_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
     excerpt: "An industrial robot crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigate whether the machine was unsafe or had potential defects. According to police officials in the southern county of Goseong,"
@@ -57,7 +57,16 @@ related:
         width: 1199
         height: 796
         isCached: true
+  - title: "Industrial Robot Crushed Worker to Death at Vegetable Packing Plant in South Korea"
+    excerpt: "SEOUL, South Korea (AP) — An industrial robot grabbed and crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigated whether the machine was defective or improperly designed."
+    publishedDateTime: 2023-11-09T14:34:00Z
+    webUrl: "https://www.manufacturing.net/safety/news/22878823/industrial-robot-crushed-worker-to-death-at-vegetable-packing-plant-in-south-korea"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 13
 
-secured: "0L1jdlQJ4uYaJRp0YDI3oeOVcPgntTtMMR9IMHMmyZv/28fP9pBNkhzxE6/aJW5OyxDdr726kwpsnnUHksCuk1XEo3ZwplauRtGTc+hui5YfcUc/gGlBuVe+ru5vFIUFaViJx1B6ceZH4u6/pnXPBQC03u6j5MkG2CnD8eCnXyolw7R9oCRyNuyBJTxcC6WAVMmREgjgFpU438Px91wq307uZTAof69MwRYOjLaxZNQhzr/nuVr8GJ8X0qcUF8Ef6XtxeNxuj+VDuMq0YlhDcUbahyAnAqMsUiMxbnvaB8ApN0CacIyXkxabIEyVyj78lTEYoRV0wKJ6M+1EQ9rPgY6LfFQnNY9uADmaPa/zNwM=;Kes/iLYBXxFnGQLCLlEHVw=="
+secured: "6p0rdlOV01P6hXo48WOx1mI9au4PJEZQyoDaOUyXBVRrjM05vBDH/ngJYdeyoX7LwqSgkKySPusymSdVCxgQ/hSWhXeaOdPNZR/c1QRu/IrvrGsBjghHF4w49GKugCh3YxSRCYjXTWw63TMjg1jTlyGyzNKgI1OjOZF+7QJPHxRMGEo39+8xENX/hZM3R7G73ER090HNjGn8bASdLTIv/ZwdAdRNHIkRcbAIwfngq783A7CkTp5jEcOL427EXXopH47GjYvQNQ8rVe3pMgXylb/FbyMXEN5iJ38brJtxhVhWCu91eJGFHgEpTH/wJDWVyvNHLRwTj6DWvHDL7nGyz+tM5dJ1dRmk0HzmxaxldvY8L0xTqSzmfobs/vCyx1ThvzV31tnTTPgWiXkNqMctZbkJBwzwgB4tQUx1Cduozqrq9lhOXLHJ3U8Jdy24znq7tb5UatNKMe4/MU0b0KJ/vgbDdP2VUJuH9dox0y0PqLva6/AyIRg7aiK4JuINJSuM/X+NiuiKOuXPiT04yPCr5w==;gZ11T3lU3O8Lz9uKIAnNgQ=="
 ---
 

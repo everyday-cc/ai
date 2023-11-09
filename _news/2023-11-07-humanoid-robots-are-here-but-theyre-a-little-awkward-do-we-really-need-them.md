@@ -3,23 +3,23 @@ category: news
 title: "Humanoid robots are here, but they’re a little awkward. Do we really need them?"
 excerpt: "Forget affable-appearing Rosey and Robby of sci-fi yesteryear; today’s humanoid robots are a bit more Terminator-esque. Do we even need them? Artificial intelligence pioneers weigh in."
 publishedDateTime: 2023-11-06T18:30:00Z
-originalUrl: "https://www.stltoday.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_9d8f93c0-9c17-5140-a004-70ed7282930b.html"
-webUrl: "https://www.stltoday.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_9d8f93c0-9c17-5140-a004-70ed7282930b.html"
+originalUrl: "https://omaha.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_084fa193-d022-5916-beb6-0606061398a2.html"
+webUrl: "https://omaha.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_084fa193-d022-5916-beb6-0606061398a2.html"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/d8/9d8f93c0-9c17-5140-a004-70ed7282930b/6548f44d40334.preview.jpg?crop=670%2C352%2C0%2C29&resize=670%2C352&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/84/084fa193-d022-5916-beb6-0606061398a2/6548f44d0d950.preview.jpg?crop=670%2C352%2C0%2C29&resize=670%2C352&order=crop%2Cresize"
     width: 670
     height: 352
     isCached: true
@@ -84,6 +84,6 @@ related:
         height: 630
         isCached: true
 
-secured: "H0OqTicY8t7uXpfsLvUZ5agRDUmYLjpeZLcDd4EcH/I3d54FK290GKDDmdzNoYOGgXgbwqccWkCsyWIdgR3Nmkj2uasbSNQ9TQChg3TdxLfno/IeFdssZZtx7zxLGNFxhmYugPlNcW7sS/84Xq8ZqJS0g9N0bqPzsq/VvSQ/O2ZT4s/o+A8RQ0pOpId4Zl7SwOPMr/FwDXj4lFQBtEDDOpWVWVvZ/Thf7P6/QRl3pogabwt1b/nHb3Uk+W3xwddilPvFE29HiHnSZLY93u7YpyU9ilqWYRWwUeFoZ12JxyfxzSr/JDjOwdjz+kaOlZWRo/+BHzt+Q31/dtZOA54dq3umK7tgRGbKWIy/8xlCF0F9Q2WBh3dZhNcTwtXCo5K+hrKFDSghz7W3kZLIZJC72UV6XJNMPyJ1u43yPXSv78Ic+E1pk1sgLoUB5OHabK2sA0lvE4/rNH7WtNFO5Mb04uBA7KDMPIvTJY84qlXHjOcLs5IZsj5wcOStJo3RjEPif/IvWM3hNW3xHTEn0pdjMw==;4V+HjOumCqe6V6S3lD2Uow=="
+secured: "g1bLEm25JQ1DWF5z/IRAVNiBhpJs6B21yDuUTo8OhsIxA+FJ9jnyokwK8Mr7MYcStyAUQ+9SdiSA3RPZUr7eZHc0Aua9W8mxc1Ai5QiqGdajP9yPidIhnLP+SmSoXy0kA+h6LXZq7C9H//uRRNyde3f+96w2B1RFQbZhDBxOO/ZgdqfExo5pzdt9F4a3lU9CmXgW8z9VGoURpSF8Jx2Bm0H79MujVGIiq5lwQpUWzoJksfUudc0GosdOpPQEK93aQB7WnWsQ1fw9m0WmbG6nWK5mlXFTzCQvdkrPJ0KdJVxzlwdLE/aIIMKoMEhCOAY92Tpv058KlfH7tnkKJtApmphzGMWiK5KJCbQCHMy55hQ=;N+upeFuCySkgsOBEnAaWPA=="
 ---
 

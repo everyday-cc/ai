@@ -55,6 +55,24 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "India and Japan can collaborate in chips, rare-earth & AI, says RBI chief"
+    excerpt: "India and Japan can collaborate in chips, rare-earth & AI, says RBI chief - There are many collaboration opportunities between India and Japan in semiconductors and resilient"
+    publishedDateTime: 2023-11-09T14:27:00Z
+    webUrl: "https://www.siliconindia.com/news/general/india-and-japan-can-collaborate-in-chips-rareearth--ai-says-rbi-chief-nid-226386-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 33
+  - title: "Top 8 Generative AI Jobs in India"
+    excerpt: "Currently, there's a widespread trend of enhancing capabilities in generative AI across startups and major tech companies, leading to the creation of new positions specifically for experts in LLMs."
+    publishedDateTime: 2023-11-09T12:27:00Z
+    webUrl: "https://analyticsindiamag.com/top-8-generative-ai-jobs-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "MAw0A06dkeJrnM5oaVBHEErnymGIo5LV/qUtLojk9NvLKc19RL9U/pUbN1hwc3yMnozLVVkCZ0MihZk6LvjVbyljzihnCsMyXHzfpRslYiL1tE3ZnGdws1+50UbRduRuCoOarhFDaQwpPZlBLGqyiu+T4GiIlC/j53X+E1WfHA/aN5GhG94zlvxbcaPE4Imv+YOiq3ZTAYFyTxvmMYn6/gQlFmJnympFy91R/xxB4KAbqUo/3gFez0jQQOZOzeEsqYjvCWNL0sFyTLL2Zfv3obNOaJENdoP+ISpRqOYcuDmp7+nHQIjeqwIGENzb7ObbgOwwurgVBZVa7em58NDdqGsN3a2XMnPr5nMvRH6xJFw=;NNYsPTFLznQt/z2tvl2S3g=="
 ---

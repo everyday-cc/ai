@@ -183,6 +183,15 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "Microsoft to provide startups with free access to develop AI models"
+    excerpt: "Washington: Microsoft announced that it will provide distinguished startups Microsoft for Startups Founders Hub with free access to supercomputing"
+    publishedDateTime: 2023-11-09T13:38:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/09/11/2023/microsoft-to-provide-startups-with-free-access-to-develop-ai-models"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 34
   - title: "How a small city in Iowa became an epicenter for advancing AI – Microsoft"
     excerpt: "Microsoft has been powering the future of AI from a cluster of datacenters located amidst sprawling farmlands and rural roads in"
     publishedDateTime: 2023-11-06T03:24:00Z

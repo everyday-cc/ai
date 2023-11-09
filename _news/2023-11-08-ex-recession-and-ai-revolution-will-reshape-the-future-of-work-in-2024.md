@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "The future of airport security is facial recognition"
+    excerpt: "What is certain is that credential authentication technology is the driver that will transform airport security, and that biometrics like facial recognition are critical to effect this"
+    publishedDateTime: 2023-11-09T15:30:00Z
+    webUrl: "https://thehill.com/opinion/technology/4301825-the-future-of-airport-security-is-facial-recognition/"
+    ampWebUrl: "https://thehill.com/opinion/technology/4301825-the-future-of-airport-security-is-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/4301825-the-future-of-airport-security-is-facial-recognition/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 71
   - title: "Who will write the rules for AI? How nations are racing to regulate artificial intelligence"
     excerpt: "Artificial intelligence (AI) is a label that can cover a huge range of activities related to machines undertaking tasks with or without human intervention. Our understanding of AI technologies is largely shaped by where we encounter them,"
     publishedDateTime: 2023-11-08T18:03:00Z

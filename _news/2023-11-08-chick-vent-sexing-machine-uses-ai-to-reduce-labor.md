@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Homeland Security adds facial comparison, machine learning uses to AI inventory"
+    excerpt: "The Department of Homeland Security recently updated its artificial intelligence use case inventory to reflect several uses of the technology that have already been made public elsewhere, including facial comparison and machine learning tools used within ..."
+    publishedDateTime: 2023-11-09T16:28:00Z
+    webUrl: "https://fedscoop.com/homeland-security-adds-facial-comparison-machine-learning-uses-to-ai-inventory/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 67
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg"
+        width: 1920
+        height: 1024
+        isCached: true
 
 secured: "4aHSj2h+3URxWov37xf9dv8CriDH8zW1FKg8nVTno/GkKYzsoiUs8+JpEX6vGy52jePk4Qk6TCcchijy2N0tXohoCrLevbxLhQ/qIWAOr4XEOd0aL5MEhk8iw3IhZe1PytPAYW1vI4OFOd08U1c5n2omsHhh/uVGFShwHix7sI9KqhUOpERWobNbJ/cL2nZilexcxpWeaupUoN0G70CIa0PTWjTJ81oCA2N4PTTWVDc9TOpPObl0/ZLE1LLXbyn9dI0sKQjZmWqPYpR3eWHtrpJDUYqLrpSQuvVIv0GbBsJfLCDyLTh1JRLikFF1UW6TCT3g2FNuCDTnOY0DJvdbHtEXR0EflVg1HXCDH84zDAc=;6/zwB6aqVUzLulM9l0+qBA=="
 ---

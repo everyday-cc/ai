@@ -103,6 +103,20 @@ related:
         width: 1220
         height: 526
         isCached: true
+  - title: "Samsung Aims to Break Language Barriers with Galaxy S24’s AI Feature"
+    excerpt: "Here are the details… Samsung Galaxy S24 Will Be Able to Translate Calls Instantly to Another Language Artificial intelligence (AI) technologies are becoming increasingly widespread and integrated into every aspect of our lives. The process that began ..."
+    publishedDateTime: 2023-11-09T16:51:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/09/samsung-galaxy-s24-ai-based-translate/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 69
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/11/samsung-galaxy-s24-ai-based-translate.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Samsung unveils Gauss - its own generative AI that's coming to the Galaxy S24"
     excerpt: "It features Language, Code, and Image models. Samsung announced its own generative AI model, called Gauss. The on-device AI model consists of Samsung"
     publishedDateTime: 2023-11-08T10:28:00Z
@@ -149,20 +163,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Samsung To Soon Bring 'Live Call Translate' Feature With Latest Galaxy AI Phones"
-    excerpt: "Samsung on Thursday announced that it is working on an artificial intelligence (AI) Live Call Translate feature, which it w"
-    publishedDateTime: 2023-11-09T07:12:00Z
-    webUrl: "https://menafn.com/1107398135/Samsung-To-Soon-Bring-Live-Call-Translate-Feature-With-Latest-Galaxy-AI-Phones"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 49
-    images:
-      - url: "https://menafn.com/updates/pr/2023-11/09/I_5f3e9image_story.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Galaxy S24 buyers might have to pay extra for AI features"
     excerpt: "A report claims Samsung is considering charging Galaxy S24 buyers a subscription for on-device generative AI features like ChatGPT."
     publishedDateTime: 2023-11-07T16:12:00Z
@@ -190,6 +190,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/ViviXjHEPhRTWooTZZFqLc-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Samsung is really pushing AI with Galaxy AI translation feature"
+    excerpt: "One of the benefits of Galaxy AI is the new AI Live Translate Call, which will let your Galaxy AI ... This means if you’re calling or texting someone who speaks a different language, it’ll be similar to watching closed captions. The post says that ..."
+    publishedDateTime: 2023-11-09T15:58:00Z
+    webUrl: "https://mobilesyrup.com/2023/11/09/samsung-galaxy-ai-s24-ai-live-translate/"
+    type: article
+    provider:
+      name: MobileSyrup
+      domain: mobilesyrup.com
+    quality: 39
+    images:
+      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2023/11/01-Samsung-Galaxy-AI.jpeg"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Galaxy S24 AI will reportedly be called Samsung Gauss — here’s what it will do"
     excerpt: "Google, Apple, Microsoft, and Amazon have shown us this year how generative AI will be complementing their different devices, but now it appears as though Samsung will bring its own generative AI into the Galaxy S24 when the new flagship phones arrive next year."
@@ -242,7 +256,16 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Samsung to soon bring 'Live Call Translate' feature with latest Galaxy AI phones"
+    excerpt: "Samsung said that it is developing a \"Live Call Translate\" artificial intelligence (AI) technology with the newest Galaxy AI phones to provide consumers with a personal translator at any time"
+    publishedDateTime: 2023-11-09T12:25:00Z
+    webUrl: "https://www.indulgexpress.com/gadgets/2023/nov/09/samsung-to-soon-bring-live-call-translate-feature-with-latest-galaxy-ai-phones-54961.html"
+    type: article
+    provider:
+      name: indulgexpress
+      domain: indulgexpress.com
+    quality: 29
 
-secured: "d8RLdxV5EFNvZH3fDChDCxqBFu8JYu6uhnR4tO5+8G3zidjh7Q8XKIugmbSfSqz2A3nxKeCD2I6+u6C73n/k0rKaS99gNtvMlnVQxSG9QZxPxfj4QWTtqM3lCNyujvBE2aUC3rfcywiuVO4ltecUSH2oQgXNXqiDnr6Uea+5XO/NmeT7Lt8dA22JET6JpnQxxbpOekX8w5DNjrxo3mL1CwVSRaYMKAE7oDJMABnhcqe5HCQpEzKnUcKcDqBVWSkwY+FKIGOj2JZnPQlIm8ZztcZIWbiT5FYMy8j4f1J9IFPFPrhAGajXy8/KG4ZPVkQPfUx+5XrGxC0fvQKgb3N0AlP9JPRFrDCPVGxwaCVuJ+4=;ts+mU4JtIBJFxiT1vmHhuQ=="
+secured: "sMcmR1hZTKc/eCVhWPGSkSzu++zcBWf6v4PLKE+olRGjHaXOsZagbOhiH0kdjLOydIJfkLvfzXRDWZYQnLYk/pWKAuI9ZiPAG72i7fQc9uaSOXjufJQTXQK9raO8ULJhIfHRochXytBqY0NSdTiG9O8KWJCtthe/XIN9BKUM19RhKQQfAKoRgIWLQcrqsnC1aLZnx34hXx++k/13Q0MWLrm5QrwmaRwexq9HDyiFP7Nwtc6ws/oywgMK1q5aj0fEIUGX9TVClAABek6pUAhQ/27xbizGjjqIdLsJZjCBHo5CKYO1cQ6wPHGWHo+1LOQkRHUV2CMN/4WzdkC5b8lj9FnO4AI1zYRHkqyaTCQY492gh/LbI/FCI/qmk40EEBiU46drqRnLLQJa8HYsmsRfpde6d3NyZt5sofIOMaI3UUr6KwTuqvO5kgoxIiOEyxhQGc9o94+iDyU0vNK0ypf6IKMJcRm8NrZbOXn07AyVwLTVMSeAo/b9DmATXd6RdpT3IwKFqBozQVkR8Z5Bk8/oWA==;ufshfygJ/G6xKEGlsHEJ7g=="
 ---
 

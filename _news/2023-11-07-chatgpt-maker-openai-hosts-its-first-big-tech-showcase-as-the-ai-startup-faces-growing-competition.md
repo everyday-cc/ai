@@ -257,20 +257,6 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
-    excerpt: "Musk, who helped start OpenAI before parting ways with the company, launched a new venture this year called xAI to set his own mark on the pace of AI development. Grok is only available to a limited number of early users but promises to answer “spicy ..."
-    publishedDateTime: 2023-11-09T04:37:00Z
-    webUrl: "https://tulsaworld.com/news/nation-world/government-politics/article_8fb7292d-70e6-55fe-8f44-0d5db2b2c175.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 23
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/0/20/020a9902-f940-5a8e-9452-0b9c17da7ed3/654bd69c05ba4.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New Neural-Network-Based AI Learns Better Than ChatGPT"
     excerpt: "To simplify, this neural technology called Meta-learning for Compositionality (MLC) mimics the way humans learn and use new words in different situations through a process called systematic generalization. In contrast to other AI systems, the neural network integrates newly learned words into existing vocabulary."
     publishedDateTime: 2023-11-05T04:00:00Z
@@ -316,6 +302,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 9
+  - title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
+    excerpt: "Musk, who helped start OpenAI before parting ways with the company, launched a new venture this year called xAI to set his own mark on the pace of AI development. Grok is only available to a limited number of early users but promises to answer “spicy ..."
+    publishedDateTime: 2023-11-08T20:45:00Z
+    webUrl: "https://omaha.com/article_1546c0bb-8339-57fe-8cf4-e9cf7929783e.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 3
 
 secured: "mz9smPWUK4+x3F+9d4jkzXJFc9ErOcOlcyA1nBPEOKVx2i+wBUCZbKn6g6nTPf+aAzUCVnWocj23ASHyhB78agrCx0VdwCz8oR+5nBj2viZSdDP70Dty8Pi5rjeXN/NP3IFf8NteXAuNILqHZSuige77oEBzrh5Tib05MgntQkv5yRBmTNuRaiykS4TvXYqidMjvUUmH6RNXb4RvaUfvH/4G/0+9fKi1LvVWlIqhgB5YkSOXddE16mVlMOm9mU6TA84PO8gYzNpbIr2FjLC1Hz9yv7AdVohKGBYotvpRV99SvJW9MctoHqC1XcqEe9gjfTb82h7+1JbnPOYo1rvXtQSd40l8NMt7R+tvL9LBBYvP8sKvTzbtJcxMyC05kwVmYDaO7U346IrHdQLooydqIQ7OeDLrXr98FcmZZgZ9utYcxa6E3K/TWBtwTRNccJlkgWhMmKQUBh4nFvGbVwEW7tpY/2S22ZE/R61e6ig9s/XnB3QzcTgfFED57MnA3rxi+q1o/zPQmfS2emgjTYAR0g==;eMbMEolebaXU+IitrwwXSg=="
 ---

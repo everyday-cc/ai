@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/point-predictive-w
 webUrl: "https://markets.businessinsider.com/news/stocks/point-predictive-wins-lendtech-of-the-year-at-the-2023-us-fintech-awards-1032795400"
 type: article
 quality: 53
-heat: 223
+heat: 233
 published: true
 
 provider:
@@ -235,6 +235,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 4
+  - title: "FinTech LIVE London: Day one highlights and recap"
+    excerpt: "It's the end of a busy day at FinTech LIVE London. Join us for a look back on the best bits and check out our highlights package!"
+    publishedDateTime: 2023-11-09T13:40:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-live-london-day-one-highlights-and-recap"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
     quality: 4
   - title: "Fintech Awards Wales Exclusive Interview: Chandan Chowdhury, Head of Diversification Technology UK, Admiral Group"
     excerpt: "In the wake of the 2023 Fintech Awards Wales, Matt Hyde, Director of Recruit121 and the Fintech Awards Wales, engages in exclusive interviews with the"

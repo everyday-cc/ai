@@ -246,6 +246,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
+  - title: "FinTech LIVE London: Day one highlights and recap"
+    excerpt: "It's the end of a busy day at FinTech LIVE London. Join us for a look back on the best bits and check out our highlights package!"
+    publishedDateTime: 2023-11-09T13:40:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-live-london-day-one-highlights-and-recap"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "0FhHiCWO3RlM7swMDqR+AoNRC9JkmuqfZ6SOhktGjeq5Xj3PcQ5f2zF1wATv/rdZzlOGkbzL0PDDlxl0fHvY6JqZDB1kceI3f0dseCIh+R8Sn5Z1iSbFKlOROM9AL8l77fxnBQOBxZO3MBcBa06cw3E0BDZY0qAtK6Xaba+O2slO6k/ej5y8dYAj//6DmcyXpCnOioh1BN0zsShuuAH/lhLODim40zoZOHK17Fx6JdpaDCZLomjrSIye2qFhtGPNDKtpawxVTEccNGzzstW89t8aPToF/EO9K1B5Cso29dXgzwVIK7eTOxDklorqanUd+JUX/cta9XCxE6Tb990hYn1dx8ef2YO63fMEtG+DH6sygp6MRg07aO8sDR/VQ2sWnmsCGAwNpPz/DMyts6mMMJoLfXO66pV0zKSOiQMjiZAeL7yWnsx9VvwrG1k+/KaXe4tJW9hitU0OIPt+ag5AZ4xcVor100oPzU3n6Kyz4r/UP3K7cqcY2u2bkxCMdZ37YPf2tOssWBqyvv9fooEDcA==;3CldGdj04HF/E5AEUVEOPA=="
 ---

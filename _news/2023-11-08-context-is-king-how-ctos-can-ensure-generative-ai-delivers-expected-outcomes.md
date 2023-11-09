@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/context-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/08/context-is-king-how-ctos-can-ensure-generative-ai-delivers-expected-outcomes/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1351
     height: 900
     isCached: true
+
+related:
+  - title: "Numerade Launches Ace Images to Deepen Students' Learning and Understanding Through AI-Generated Visual Aids"
+    excerpt: "Generative AI has made a significant impact ineducation, providing opportunities to drive positive learning outcomes. In fact, student retention on Numerade has increased by 33% since the introduction of Ace showing that students are spending time receiving step-by-step guidance and support from the AI tutor."
+    publishedDateTime: 2023-11-08T16:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9914246.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "0cX3TukHr2nXCUHYcC/ZikiF4mupsnFGMXxhRQLOtoi6mjP6Q97Howv6iKPyUIhnpje/0kc/s8dNpOzVfiiU25+dfsCR4bv8epJTfU7oXOHXxrjbmBWSpJGaNiwfer1j0l7e7zJzfo13+zsMiICHvg10m+MkGF6YLW9+908l4d+Or5fwYK1GLIovCwB73sRTBx+uGa1qJtd3n3jyDdvLCHQPJQ/DpImLu7thYEsJKyE/RpIM9iTAg0y7f9g1Gqkoutws3JfTzEVzpi7FAqN6D4HoQvytIHw7fZfiwox9J93Qieta81qkUWFSV1X6qRFsrqry1GQ/eeNx8Z1PLQ4uase0+ZH+FaVeDqmIZP0Kxes=;ezV/dyLnuAOJdRGQVgEp8Q=="
 ---

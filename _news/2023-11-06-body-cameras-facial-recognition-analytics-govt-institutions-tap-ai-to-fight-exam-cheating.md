@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Connexa Initiates Beta Testing of Artificial Intelligence (AI) Tennis Analytics App for IOS and Android Users Under its Slinger Bag Brand."
+    excerpt: "\"We envision our artificial intelligence platform will power the Connexa portfolio of brands and generate significant consumer engagement. The AI platform will drive real-time data and analytics for each of Connexa's core sport verticals – racquetsports ..."
+    publishedDateTime: 2023-11-09T14:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/g35699902/connexa-initiates-beta-testing-of-artificial-intelligence-ai-tennis-analytics-app-for-ios-and-andr"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "z6elOW0ewbNSRE1uHMDdFkfk4p7U3fVpoB++T8O6lPhLiDPpCNXnC60cQ3oKMfs+IDSvwBpNyKhGFWMrrAy6ODFiP5/fgGBZZVfO65uR0x6tulGhM/FMZjvudcdtMZxc4fDuKr3GWWONNbm19V3RDMxbmHsptiUtthSNV7WWUkKRO/ooM9HsT0m8QGTpOyL4WEX8xA7Yrb3ffu3bkzHMxxWa0NzAtdnTzA1X06+lJaejGIp/1CnaIaPA/MNhEptVfWGV8frqMUmuS+Uw0LkwelWCdlqyQT09ZwdJ3Nmv+trlBXjRWgkC7bc7MAhXY8oLK84oZfmYZUgE1RVg0lM3uym4IM82Fag0vxy6UGzJTaM=;i6o36yoyM6ubbzjyT88gMg=="
 ---

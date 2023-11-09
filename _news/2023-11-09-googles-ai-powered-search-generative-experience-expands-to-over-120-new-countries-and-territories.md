@@ -137,6 +137,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "There’s more to AI than generative AI"
+    excerpt: "It is typically used for deciphering complex data, such as image, text, audio, and/or video recognition, or for other complex ... as to what is the next most probable term or object to follow in building a sentence, constructing an image or extracting ..."
+    publishedDateTime: 2023-11-09T16:30:00Z
+    webUrl: "https://siliconangle.com/2023/11/09/theres-ai-generative-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/twoaibrains.jpeg"
+        width: 1023
+        height: 823
+        isCached: true
   - title: "How Generative AI Will Transform Knowledge Work"
     excerpt: "Generative AI can be a boon for knowledge work, but only if you use it in the right way. New generative AI-enabled tools are rapidly emerging to assist and transform knowledge work in industries ranging from education and finance to law and medicine."
     publishedDateTime: 2023-11-07T13:05:00Z
@@ -161,6 +175,6 @@ related:
       domain: businesswire.com
     quality: 9
 
-secured: "cYzvszWvEPCcPu+7PcWWetOErWMVDltskP0YU+eS9vGsYzD6OvcoBVz9ntFNk1PN3BMqUOSjoQIavrz0RhLv7mmAn79bYw2P9+2+LOmxT50eLTbaAwiHr+6s1BS0fgB8OQ316z3BGlNuEAVrnVVobbC4JGgp11yP/zYsG074wqwNor11ElZSO9yc5/eBXmAO/Rj+J8S3y7oMIFZUplKWY3t+wrQquuttc4L/DVuk4Oabwe/RznW7t+I+zuZTaWaz4rl8tK4CwcGxEB+85h1QFTUwI6hF2oQuT3TeW7jB8/gBkdEseW2BO4/8ib56USoPW2jY11G+22r/JFJXBSuQQ2oC9FuMyWL90iT/JcYwiSY=;RcqslST7LvzVm3Ke0WKeCw=="
+secured: "/NK+waw+agIShzJx0gt85S5tL9/lcQWv1LTO6bUkEuDjAXDBKwTSKWh4tdDWTCxPF3Ty9vniZgyrsISKyn5ppqDoWgUnwkZZluERI7i5ANuUWcs5iRUuV25el7MOAIce6ALKtF7porKGKdSOAsiFM3Kz1oDLodxDbshByosYDO2piYKSex+GZp+u0XiXjrL7nETR0rHkCh32iUO+axY8s0pnXX8kp/YudFkStMEpnNkxnTu9NZHUrbbqyfuxiUXJSIAga0BlY4E06vigHVVhpbpfxkwR4oZYtygfr4MFHKEtK6m0eEWGmTTgnL3QQOd5dgoGDj+vapUvayV2WMYelhP7PAVx6R/F6vX4V5wccUA5wk/siYZWSm2zNZOjebni6yi3ag5PcyZhiJdKSqjARfuBOTY3tal5nBSgLSKSNac3aB7vsJtbpLxkalrauQ16fjif2vC4fEHIg9eGLhomfM84Iyi7Ke47hWsiMnf1JJYDjFDEtSdqJUcRj6QmHH8eWJ673SybE9IUFE9p6x8ABw==;67Dq/0FgutIUKPejP3l9UA=="
 ---
 

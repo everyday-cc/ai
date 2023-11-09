@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "With the power of AI, you can be mediocre, too"
+    excerpt: "The heady, futuristic world of artificial intelligence brings us a new promise: The ability to be perfectly average."
+    publishedDateTime: 2023-11-09T15:00:00Z
+    webUrl: "https://techcrunch.com/2023/11/09/meh-ai/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1474442258.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The ups and downs of leveraging AI in real estate"
     excerpt: "\"AI technology is here to stay,” Hata said ... who is a member of the National Association of Realtors and who subscribes to its strict Code of Ethics. There's more ... Looking for more real estate stories? Read Embarcadero Media's latest Real Estate ..."
     publishedDateTime: 2023-11-08T22:40:00Z

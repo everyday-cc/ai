@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-11-09-nvidia-plans-to-release-three-new-chips-for-china.md",
-      "title": "Nvidia plans to release three new chips for China",
-      "excerpt": "SHANGHAI (Reuters) - Nvidia (NVDA.O) is planning to release three new chips for China, local media reported on Thursday, weeks after the U.S. blocked it from selling two high-end artificial intelligence (AI) chips and one of its top gaming chips to Chinese firms.",
+      "path": "_news/2023-11-09-nvidia-to-release-three-new-ai-chips-for-china-after-us-restrictions-report.md",
+      "title": "Nvidia to release three new AI chips for China after US restrictions – report",
+      "excerpt": "Reports come weeks after US blocked Nvidia from selling two high-end AI chips and a top gaming chip to Chinese firms",
       "sourceUrl": null,
-      "webUrl": "https://dunyanews.tv/en/Technology/769258-Nvidia-plans-to-release-three-new-chips-for-China-",
-      "originalUrl": "https://dunyanews.tv/en/Technology/769258-Nvidia-plans-to-release-three-new-chips-for-China-",
+      "webUrl": "https://www.theguardian.com/technology/2023/nov/09/nvidia-ai-chips-china",
+      "originalUrl": "https://www.theguardian.com/technology/2023/nov/09/nvidia-ai-chips-china",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 141,
       "tags": null,
       "images": [
         {
-          "url": "https://img.dunyanews.tv/news/2023/November/11-09-23/news_big_images/769258_11250712.jpg",
-          "width": 752,
-          "height": 423,
+          "url": "https://i.guim.co.uk/img/media/93e7315b6d90e9e0f33583431d753fee77cd3eb8/0_53_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=5cc7f6a98f64d69f3f0de741a1510c43",
+          "width": 620,
+          "height": 372,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://dunyanews.tv/amp/english/769258.php",
-      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/769258.php",
-      "publishedDateTime": "2023-11-09T04:57:00-08:00",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/nov/09/nvidia-ai-chips-china",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/09/nvidia-ai-chips-china",
+      "publishedDateTime": "2023-11-09T06:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Dunya News",
-        "domain": "dunyanews.tv",
-        "images": null,
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -53,7 +62,7 @@
       "originalUrl": "https://www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -85,50 +94,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-ai-benchmarks.md",
-      "title": "NVIDIA flexes H100 AI GPU muscle, setting new records in AI benchmarks",
-      "excerpt": "NVIDIA shows off new records and milestones with its H100 Tensor Core GPUs and various AI benchmarks, including MLPerf benchmarks that NVIDIA dominates in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/94274/nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-benchmarks/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/94274/nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-benchmarks/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/4/94274_710_nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-benchmarks_full.png",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T20:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -244,7 +209,7 @@
       "originalUrl": "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 312,
+      "heat": 322,
       "tags": null,
       "images": [
         {
@@ -1345,6 +1310,49 @@
         "AI",
         "AI in Robotics",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-exploring-the-details-of-an-energy-saving-ai-chip.md",
+      "title": "Exploring the details of an energy-saving AI chip",
+      "excerpt": "Hussam Amrouch has developed an AI-ready architecture that is twice as powerful as comparable in-memory computing approaches. As reported in the journal Nature Communications, the professor at the Technical University of Munich (TUM) applies a new computational paradigm using special circuits known as ferroelectric field effect transistors (FeFETs).",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.html",
+      "originalUrl": "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/an-energy-saving-ai-ch.jpg",
+          "width": 1750,
+          "height": 1466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp",
+      "publishedDateTime": "2023-10-26T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

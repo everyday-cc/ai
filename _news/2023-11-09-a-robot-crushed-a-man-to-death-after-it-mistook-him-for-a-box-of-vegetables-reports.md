@@ -9,8 +9,8 @@ ampWebUrl: "https://www.insider.com/robot-crushed-man-death-mistook-him-box-vege
 cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/robot-crushed-man-death-mistook-him-box-vegetables-south-korea-2023-11?amp"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: insider
@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Industrial robot crushes worker to death as he checks whether it was working properly"
-    excerpt: "Authorities say he was he was grabbed and pressed against a conveyor belt by the machine's robotic arms in a vegetable packing plant."
-    publishedDateTime: 2023-11-09T09:28:00Z
-    webUrl: "https://www.cbsnews.com/news/industrial-robot-crushes-worker-dead-south-korea/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/industrial-robot-crushes-worker-dead-south-korea/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/industrial-robot-crushes-worker-dead-south-korea/"
+  - title: "Deadly Robot Mistook Human for Box, Killed Man, and Raised Safety Concerns!"
+    excerpt: "The tragedy occurred at a factory in Seoul, South Korea. The factory had been using robotic workers to reduce costs, as have many of their competitors. The industrial robot was tasked with lifting and stacking boxes of vegetables onto pallets. This helped the factory save time and money."
+    publishedDateTime: 2023-11-09T15:02:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/09/robot-crushes-man-to-death/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 52
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 82
     images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/11/09/5a03b9da-c226-45c3-87cc-70ec3e3d28c7/thumbnail/1200x630/bbf0222ab3fea076fb24b745df3a6b73/ap23313237022230.jpg?v=e2a739f263a10b93b27cae9568461c29"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
-    excerpt: "An industrial robot crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigate whether the machine was unsafe or had potential defects. According to police officials in the southern county of Goseong,"
-    publishedDateTime: 2023-11-09T08:35:00Z
-    webUrl: "https://www.aol.com/news/industrial-robot-crushed-worker-death-063541312.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 30
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/i.PrRoX1QVMpKfbTJHQc_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTY-/https://media.zenfs.com/en/aol_associated_press_484/ba198498b214b06a6112ef95547136f9"
-        width: 1199
-        height: 796
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/11/robot-crushes-man-to-death.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
-secured: "wXYx4SSLUEp148UDG1QO1CsU3EmbWibiwh7YwxV2HEqQEWuXtsn6q4C6+9tw9DUnb1Tin7Odj5UQqR9LZiIiUutPGuTfuv5NH0KPBBrzztLdqoKCrWGWGo3IRSG736Ha4cmOoAf7DJTjVTuV7WA6pWO0L3+R/N4wNhKDqPuAqK4u6iRqEeSUvVYvlWZpmCHIEqXOj9ZdRcWzvojlxNkVAorUmuYYhk36lJKvHOxtKakCCTpd7oN+RArmvLX7tPAv+/0Aky1+CFo7MsTY/6PWjsj6wxlTKIzdOx2myYgbdGmvq3p5jxzzhfFGRFjNHTyhEFlP+WfctS5i2WFxCSGnKz3ck1FaxkwcaZIt51T+RFA=;XPXzZWTRcX8CGOa3lbdyVw=="
+secured: "pba6jbsCmVz50PKR996cYI5r5vw5QbbCUp6sakYlVAcDgnoJ015EUtHVgvI0jjAYD46nylt9Kengm1cheYKGmdHlI3+p6AgymKSfEqL5IGJOtvjntRvAB+mG6iaUBZ0M067PaKjwuGOZ7uHD+kLrpLTDEqwnc2Gh6vvLs7L9UTUH5ndnnk2SqCMdaR/zspAQ3BZqRrQAQbNO4VhiomoWV1s3+veCQr7dIUrFmzEZ19YRLIVa5AaXxQVuHnjPVQD6S+Z1EFIOIDhw4J/1N1TsHxOM2yJb+THdmG/aPWm9uH8sEbNuYI2rEUgXrw5gL8Ww9VSAWmOYbLMqvQjKKrMq86rFGTD41bO8dleiMhgtpOLlMQ8BRblLsnTrTSxWHm0MX8fKNh+lE12MzEYUMOrs7MBCshAkofzweostcrOYsgCF3KQot309OGcImulKp7yTi+GZTKdwRghcpuSGHj4tF2EMxzHWiEQACgp5/ItsoXm5UDUMq37sIcaOOZW1lh9rVxqcrXWjx6xw3dQrFT6MIA==;a9uUnWDDgVB4tIeArgtluw=="
 ---
 

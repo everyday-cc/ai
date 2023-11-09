@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/10-tips-fo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/09/10-tips-for-safeguarding-your-business-in-the-age-of-artificial-intelligence/amp/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Top skills & talent priorities in the age of AI"
+    excerpt: "Ahead of hosting this year's SME day on Singapore Fintech Festival’s Talent Stage, Tram Anh Nguyen, Co-founder for the Centre for Finance, Technology and Entrepreneurship (CFTE), discusses the importance of skill adaptation and financial literacy."
+    publishedDateTime: 2023-11-09T16:22:00Z
+    webUrl: "https://www.finextra.com/videoarticle/3030/top-skills--talent-priorities-in-the-age-of-ai"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/tram-anh-nguyensfffinextratv.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Unveiling the Pulse of AI in Language Services: SAFE-AI Task Force Launches Pivotal Perception Survey"
     excerpt: "Global discussions underscore the urgency of a collaborative approach towards navigating the frontier AI landscape. The Perception Survey by the SAFE-AI Task Force aligns with this international momentum, aiming to foster a comprehensive dialogue around AI ethics and safety in the domain of language interpretation."
     publishedDateTime: 2023-11-08T18:24:00Z
@@ -72,6 +86,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "LzKrWxd7je3Sj9++aKiZTXNEIs8H3nxK4oaQ+1Tpxt7il0mmC+PX2nKxyjwfyAkEYfnvZ/ZXJt4njTpLJVViW0lgUkDxY9jhAs+VpOelTFvwY+Kx6khU72ImkP2iBU/I2ZUcCLq9N3GkY9ATSoPjD/5Kd9aG+g1to+JjKg78hctDHXOIkwlA5X6gaHULa3Ug52cuBDhM1w2c5l8tsgxwLYcgnnRXvSaF+Kqqd9PaLonQIPpCQQ+73N3ll/A1yYncsDpOEVLVjlcV/3gosETbecwtP3hkF4h57a+dkqJysttasBz19KjCiS33aH+uUP53YcUo9Xmu8BAAqtRw1qpFbaaFyNHwsN4bZ340BjAwbUY=;4BPflSvbNoDKIBlzcu+Ddg=="
+secured: "iZQ0HeVWvBWybytstaImtcZpCwDJkWDDjrBRCkYn8t86+HQiUA1Bj4evf3cgpuLduItY7E+hI8YlJZqOC0Qn++gTL9b2Km48fDBeHcVxe274cY6KuJ5fcLBimfHiN/Si52SoStapi+Y3D84hZnyHLah58TRzSCwwDlslduRQJERNj4BGZM4ZdIXLYZXpQ+BxodNGga1YwJ/v2SibOCtNDM2pEvIx7/saGlWryh3/V6Dx2Qoy4M+iWZLgP4YedKBIh+Avw9z3dCoQ7LBMZ+oAEPj7Npetrmd+aMeQA1IYo/C1T7dN3vOPMHzDiOwR6b+5m+BZzjEO8AMRI/JiDqknbKvFs7RjOoW81QNpPX8tlJQZoSVuCvwzCrNL4M8fyQjl00k2Vo33/rTM0i1yz+6qhmd/Q0Gg/mt1+2T/rvFIyGsYniovsFj7e/I+RtzsNqH8jY/O8m3HR8ASP1UdFziEssTnHD7ejXGnU8euR+gsVOgnANiTpkZgv3olr9H0QC97NeaCq+Ot6GR8GwD6mKI6Yg==;RDBePIzmrPK+R+LNZlFpeQ=="
 ---
 
