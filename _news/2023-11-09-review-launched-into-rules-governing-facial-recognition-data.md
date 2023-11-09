@@ -7,7 +7,7 @@ originalUrl: "https://www.asahi.com/ajw/articles/14508024"
 webUrl: "https://www.asahi.com/ajw/articles/14508024"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Recipients of the inaugural IPC Classification Recognition Awards revealed"
-    excerpt: "Four individuals from Canada, Germany, New Zealand, and Norway recognised for their significant contribution to the growth and development of classification in the Paralympic Movement"
-    publishedDateTime: 2023-11-09T09:50:00Z
-    webUrl: "https://www.paralympic.org/news/recipients-inaugural-ipc-classification-recognition-awards-revealed"
+  - title: "Bias in AI: How to Reduce Bias in Facial Recognition Systems"
+    excerpt: "One approach to mitigate bias is by fine-tuning the algorithm to be more sensitive to variations in skin tone and facial features. This often involves retraining the model on a more diverse dataset."
+    publishedDateTime: 2023-11-09T12:14:00Z
+    webUrl: "https://www.gizbot.com/partner-content/bias-in-ai-how-to-reduce-bias-in-facial-recognition-systems-088279.html"
     type: article
     provider:
-      name: International Paralympic Committee
-      domain: paralympic.org
-    quality: 22
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 54
     images:
-      - url: "https://www.paralympic.org/sites/default/files/public%3A//menu_image/2021-06/FB.png"
-        width: 300
-        height: 300
+      - url: "https://www.gizbot.com/img/2023/11/howtoreducebiasinfacialrecognitionsystems2-1699530988.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Facial Recognition Market Share, Projections And Future Opportunities Recorded For The Period Until 2023 To 2032"
-    excerpt: "The global facial recognition market is poised for significant growth, with its value set to double by 2025, reaching an estimated USD 10 billion. Th"
-    publishedDateTime: 2023-11-06T19:56:00Z
-    webUrl: "https://menafn.com/1107378246/Facial-Recognition-Market-Share-Projections-And-Future-Opportunities-Recorded-For-The-Period-Until-2023-To-2032"
+  - title: "How to remove Face recognition on Windows 11"
+    excerpt: "In this post, we will show you how to disable Face recognition on Windows 11. Facial recognition is a feature in the Windows operating system that allows users to log in to their devices using facial recognition technology. It is part of the Windows Hello ..."
+    publishedDateTime: 2023-11-08T13:32:00Z
+    webUrl: "https://www.thewindowsclub.com/how-to-disable-face-login-in-windows"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 18
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?658907"
-        width: 375
-        height: 250
+      - url: "https://www.thewindowsclub.com/wp-content/uploads/2023/10/Windows-Sign-in-options.jpg"
+        width: 700
+        height: 336
         isCached: true
   - title: "Facial recognition: Officials yet to meet obligation to seek views of Māori - documents"
     excerpt: "Officials admit they have been using facial recognition to identify people for years without knowing if it distorts results for Māori. This is disclosed in memos about the powerful new Identity Check online verification system the government is developing ..."

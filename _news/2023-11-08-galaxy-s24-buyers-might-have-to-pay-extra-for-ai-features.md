@@ -177,6 +177,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Samsung Galaxy phones will be able to translate calls in real-time with on-device AI"
+    excerpt: "Samsung has announced a new feature for Galaxy phones that will be able to translate calls using on-device AI."
+    publishedDateTime: 2023-11-09T18:02:00Z
+    webUrl: "https://9to5google.com/2023/11/09/samsung-galaxy-live-translate-ai-calls/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 47
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/samsung-galaxy-s23-fe-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Samsung Galaxy S24 could get AI-driven real-time call translation"
     excerpt: "Samsung says that “AI Live Translate Call” will be part of the new Galaxy AI package, providing real-time translation in both audio and text via a chat log during calls. The South Korean firm claims the system will be “as simple as turning on closed captions when you stream a show”."
     publishedDateTime: 2023-11-09T10:50:00Z

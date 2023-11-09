@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-09T16:28:00Z
 originalUrl: "https://fedscoop.com/homeland-security-adds-facial-comparison-machine-learning-uses-to-ai-inventory/"
 webUrl: "https://fedscoop.com/homeland-security-adds-facial-comparison-machine-learning-uses-to-ai-inventory/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Security
+  - Computer Vision
 
 images:
   - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg"
@@ -55,6 +56,6 @@ related:
         height: 800
         isCached: true
 
-secured: "RkuOX3Q1e+OZtFq0bSouB19KCUcNuBXot3kGjcalFqRoyb0N2IxAGm+18QeZbpjqTO3zlDMlYtihO07oKZKAiht7erbE9ZwE3l0F1PnmleUf3w09/JoFIfMkaV4roDuTl9mbkj9DWsvPNbFjYcUZqFigDs7TDXr0+1XA3m4HgEQWPbUhDVRjSXBDFaE7GPg8hizCsZ/gQ0xhDXJZmMLqkF3Q9A9qJZMZWgJHEDVy0i/wWuukxE5Huw1Yyf9/8SgtHs4Ke7IXo5zRMF1ElIaZELwzwg/r29EIr3OByzDXAoesSIJtkYzcRQv7B8jIaE2lLFE9y5QGBLeu9Ue7QUVPml/k5kVieXB8uARFMCLuaBA=;sJ6X4kzwgUegs0NqknMvVA=="
+secured: "nCOe79Tzaq2DZ0ugBABYk7IYGV9HYkMjIJMaEJk5alZFNqMmuagRt5LFElWsPDMbpZ0Vk8d8cEYyzCg4FaQXvKiRgEtDqmQRCbiDw5/JbsEZsD5WcK/T5Hh6uCw+CPG3nbaEuRWU6owfwXLu65sKR4eYTxHOtsu3+5yXkVR719WIG6ShM/jPCf59mTV2LTzPAnxlxMDiLMTub8uTma31pWSqYI4uNs36U1S2JeY6T/ezBaU4qVx3drgZbX5ZM1MnuxJs9XclQ4TnPw6ZIM2MJXyjtjhkWY4CsWFPHa73RQdRBLuaJ2J8uxhpJ/Qqb1mV3GNYQGkxwlz2xqliH+44jEnYwiomsUBKfwBp9JtPyPYuLbRGiX2LNYqmwUh5cY2U/QUfFUwRTYaq9BO+n1nXtyPJ/ERJGEyssttqc8UNa8Xn4kGVFBKTfPnPhrDhr4GcZqyhuTx9v0wOYKwTgOTbI6AjRSsCR2H82uXeTdUlxuboWdeSm20ictqosXT2szpVmOGTLzQW+wHVSM01EJ3SCQ==;zaJb8Nmvo0vevxcXwx/6BQ=="
 ---
 

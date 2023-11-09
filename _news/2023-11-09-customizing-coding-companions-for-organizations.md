@@ -1,0 +1,60 @@
+---
+category: news
+title: "Customizing coding companions for organizations"
+excerpt: "Generative AI models for coding companions are mostly trained on publicly available source code and natural language text. While the large size of the training corpus enables the models to generate code for commonly used functionality, these models are unaware of code in private repositories and the"
+publishedDateTime: 2023-11-09T17:04:09Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/customizing-coding-companions-for-organizations/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/customizing-coding-companions-for-organizations/"
+type: article
+quality: 74
+heat: -1
+published: false
+
+provider:
+  name: AWS
+  domain: aws.amazon.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AWS AI
+
+images:
+  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/03/bm25-1260x529.png"
+    width: 1260
+    height: 529
+    isCached: true
+
+related:
+  - title: "Finding the path toward success as organizations bring AI into the workplace"
+    excerpt: "Bringing AI into the workplace involves a big change and companies that have an open feedback loop can better understand, and resolve, potential employee concerns. This loop helps to create transparency, which will lead to employee trust, Janzer said."
+    publishedDateTime: 2023-11-07T02:39:00Z
+    webUrl: "https://www.zdnet.com/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
+        width: 480
+        height: 480
+        isCached: true
+  - title: "Navigating Home Renovations With The Help Of AI"
+    excerpt: "The journey of home renovation is entering a new chapter with Artificial Intelligence (AI) at the helm, guiding homeowners through a seamless transformation of their"
+    publishedDateTime: 2023-11-08T18:44:00Z
+    webUrl: "https://www.forbes.com/sites/mikebugembe/2023/11/08/navigating-home-renovations-with-the-help-of-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+
+secured: "/33cRGnT/JpO8nooq85Ax/3QbMo/r6SvWXwceg0+Vp3jekWjdFrmndylXaBSH+UVkUWLDjb8HSaClKYNA5ytAxZPYhN7IA5LypA2hLU9M/oz7H1NXyKGs/MVAZjR86q/HG4jRXygMzWBek9nnOe9vlY3p8wJXRMU/qGzSA+P25OmGq5EthzeNAdVJvrztE5DMTKe9wZ51gqbvpN8FSLhjZzHm3gQMI1NjWURR18kFcpfKPPwR5qWHXXT28+ip2Go/4cgJSvwUADxzaDo6DgxuiYDaUy6PAeaUs4IFbm7eBKgbOJJnDzpT0JFwygO7FvKCzSJlKczQbiLuMeLcJz9/ZqsnJ9I51wxW350WlJqaoo=;VjGtx8zVhij6UNKj1fmZFA=="
+---
+

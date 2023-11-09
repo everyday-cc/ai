@@ -3,8 +3,8 @@ category: news
 title: "AI could cause ‘catastrophic’ financial crisis, says Yuval Noah Harari"
 excerpt: "Historian and Sapiens author says sophistication of technology makes it difficult to forecast its dangers"
 publishedDateTime: 2023-11-09T15:07:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/nov/09/yuval-noah-harari-artificial-intelligence-ai-cause-financial-crisis?ref=mc.news"
-webUrl: "https://www.theguardian.com/technology/2023/nov/09/yuval-noah-harari-artificial-intelligence-ai-cause-financial-crisis?ref=mc.news"
+originalUrl: "https://www.theguardian.com/technology/2023/nov/09/yuval-noah-harari-artificial-intelligence-ai-cause-financial-crisis"
+webUrl: "https://www.theguardian.com/technology/2023/nov/09/yuval-noah-harari-artificial-intelligence-ai-cause-financial-crisis"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/nov/09/yuval-noah-harari-artificial-intelligence-ai-cause-financial-crisis"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/09/yuval-noah-harari-artificial-intelligence-ai-cause-financial-crisis"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "Px74mXlpRF9mmLZM2xIKhgdhScS88LaKWCOC6AC0SW9C5Evuu2TOhnhDv0dgJDF/KX4DJeTcQT7tPDyJIE2jh0aMml9MIzsKT3r8ys+vtKjVs4gHExlgjDjkbpZGbI7lPhP9hJLkcZ+uKwYIV1edycWBHs4FJJHCG1ETfiqma7W6YAXS6zmaUI+X3p5mMwcTNp/WWw6KsF2xFdLbAvxZwooEcO6vPoNPkc1Q6qEztRgMbcqYqUJDddnlbSHpnBYaJR4gNKq5iukN4qXYpse6AkZB12UmTlhzxalabfkdT/4/lXJKmudbeCmLQo1xLypdyRWtypS8NtcykfHIF/75xnykggVQoqQRZMOIs4/LPzc=;4rGAoWTUjtkjyVq0YoD4XQ=="
+secured: "NrQlyO6r9lJvnbD3ySyiUwS7guqiXJNtrSj/fJn7LmViZ8JWsvQHCJZP3BFuQ3KMJoP0Vwrpp2a/CQ3FkOR1PyTqJVi554FKQA5Cj40UsLE3D6goexOyQkBKl64du+Id+U2Bf9jGq+rx404TZ1e2MGcda8kqdJpNxkq2R5N9nafiVwMVUqmZHl91OIDYvLiSoHJou801gwHEUppRsOhNrV9yeQ9iTMSi1jTPRsdEptLqDHF/B6J2N7jcoYthKTZZWvgxtcPCbWDYTW02h2Miy1MmXlb/armKp76S2U8wYwxn10SKroiNe6SYoe8Z9hyiqtZf7Y8SCe+Ouzwzx2y6nsVS+aJ13/mN65TFfVYigAk=;hLWWpFt/3WscHyjqAcdibg=="
 ---
 

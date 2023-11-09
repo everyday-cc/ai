@@ -24,109 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Meta will start requiring disclosures for political ads manipulated with AI"
-    excerpt: "Meta is putting some new disclosure requirements on Facebook and Instagram political ads ahead of the 2024 election."
-    publishedDateTime: 2023-11-08T19:05:00Z
-    webUrl: "https://techcrunch.com/2023/11/08/meta-will-start-requiring-disclosures-for-political-ads-manipulated-with-ai/"
-    ampWebUrl: "https://techcrunch.com/2023/11/08/meta-will-start-requiring-disclosures-for-political-ads-manipulated-with-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/08/meta-will-start-requiring-disclosures-for-political-ads-manipulated-with-ai/amp/"
+  - title: "Adobe responds to controversy over AI-generated images of Gaza explosion"
+    excerpt: "Adobe responded today to a controversy over AI-generated images of a Gaza explosion that were published on several small blogs and websites."
+    publishedDateTime: 2023-11-08T02:13:00Z
+    webUrl: "https://venturebeat.com/ai/adobe-responds-to-controversy-over-ai-generated-images-of-gaza-explosion/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-twist.jpg?resize=1200,675"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/Untitled-design-2023-11-07T200109.912.png?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 750
         isCached: true
-  - title: "Facebook and Instagram will require political advertisers to disclose AI deepfakes"
-    excerpt: "Meta, parent company of Instagram and Facebook, will require political advertisers around the world to disclose any use of artificial intelligence in their ads, starting next year, the company said Wednesday, as part of a broader move to limit so-called ..."
-    publishedDateTime: 2023-11-09T03:59:00Z
-    webUrl: "https://www.wisn.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
-    ampWebUrl: "https://www.wisn.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
-    cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
-    type: article
-    provider:
-      name: WISN 12 NEWS
-      domain: wisn.com
-    quality: 53
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbg9wc2f3cm8wmdbomzu2adhncdhyyxni-l19wywdlcy9jbg9wczdwog0wmdawnjdxzmhzyjc3cjq3-jpg-654c4fe626469.jpg?crop=1.00xw:0.844xh;0,0&resize=1200:*"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "To help 2024 voters, Meta says it will label political ads that use AI-generated imagery"
-    excerpt: "WASHINGTON — Facebook and Instagram will require political ads running on their platforms to disclose if they were created using artificial intelligence, their parent company announced on Wednesday. Under the new policy by Meta, labels acknowledging the ..."
-    publishedDateTime: 2023-11-09T03:22:00Z
-    webUrl: "https://www.10tv.com/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
-    ampWebUrl: "https://www.10tv.com/amp/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
-    cdnAmpWebUrl: "https://www-10tv-com.cdn.ampproject.org/c/s/www.10tv.com/amp/article/news/nation-world/meta-label-political-ads-ai-imagery/507-a69a479d-8e51-4720-b6be-159ea32685bc"
-    type: article
-    provider:
-      name: 10TV.com
-      domain: 10tv.com
-    quality: 50
-    images:
-      - url: "https://media.tegna-media.com/assets/CCT/images/d4813838-7a2f-41be-9c90-35d5ee7380e7/d4813838-7a2f-41be-9c90-35d5ee7380e7_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Meta to Require Disclosures for AI-Created, Altered Political Ads"
-    excerpt: "advertisers will have to disclose when artificial intelligence (AI) or other digital methods are used to alter or create political, social or election related advertisements on Facebook and Instagram. Meta, the world's second-biggest platform for digital ..."
-    publishedDateTime: 2023-11-08T11:14:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-11-08/meta-to-require-disclosures-for-ai-created-altered-political-ads"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "Meta to start labeling political ads with AI-generated images ahead of 2024 election"
-    excerpt: "Facebook and Instagram will require political ads on their platforms to disclose if they were created with artificial intelligence so they can be labeled as such, Meta, the parent company"
-    publishedDateTime: 2023-11-09T01:00:00Z
-    webUrl: "https://www.ktbs.com/news/meta-to-start-labeling-political-ads-with-ai-generated-images-ahead-of-2024-election/article_d7563508-7e8a-11ee-888e-3f8f931be595.html"
-    type: article
-    provider:
-      name: KTBS
-      domain: ktbs.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/ktbs.com/content/tncms/assets/v3/editorial/0/15/0154ceb4-7e8b-11ee-8519-4316d0045004/654c13c562d6a.image.jpg?crop=800%2C420%2C0%2C14&resize=800%2C420&order=crop%2Cresize"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "To help 2024 voters, Meta says it will begin labeling political ads that use AI-generated imagery"
-    excerpt: "Facebook and Instagram will require political ads running on their platforms to disclose if they were created using artificial intelligence, their parent company announced on Wednesday."
-    publishedDateTime: 2023-11-08T17:45:00Z
-    webUrl: "https://beatricedailysun.com/news/nation-world/government-politics/to-help-2024-voters-meta-says-it-will-begin-labeling-political-ads-that-use-ai/article_09c1d103-ce4d-5b18-bba4-250b92a154ab.html"
-    type: article
-    provider:
-      name: Beatrice Daily Sun
-      domain: beatricedailysun.com
-    quality: 26
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/beatricedailysun.com/content/tncms/assets/v3/editorial/0/9c/09c1d103-ce4d-5b18-bba4-250b92a154ab/654bcca17db7a.preview.jpg?crop=1671%2C877%2C0%2C31&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Meta grapples with AI in campaign ads"
-    excerpt: "Meta, the parent company of Facebook and Instagram, will require political advertisers to disclose the use of artificial intelligence (AI) or other digital methods starting next year. The update, announced Wednesday morning, comes amid a rise in generative ..."
-    publishedDateTime: 2023-11-08T20:40:00Z
-    webUrl: "https://thehill.com/newsletters/technology/4299816-meta-grapples-with-ai-in-campaign-ads/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 19
-  - title: "Meta Is Trying to Rein in AI-Generated Political Ads"
-    excerpt: "From next year advertisers on the social media platform will have to disclose if AI-generated or deepfake content is being used."
-    publishedDateTime: 2023-11-08T19:54:00Z
-    webUrl: "https://www.thedailybeast.com/meta-is-trying-to-rein-in-ai-generated-political-ads"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 17
 
 secured: "hgDOpwGpxH9yYSyNvSLw48OFXGG6E7LV9CnGoN9zCK+cNZLRAMPvKoVUE+Nwi9x8E3jMG2fuGkq1ouVrxZGTn7luauj6hV8GpCAt3f03O3Dp9RnFn4RWFLjF72rZxqDqIG6G7ZE2fD/lhGy4vU7xwNi3ptUZiIuV1pJzrn0Opdfj9175ckW4n5YCC5aZkmOx6eHnCJgZtr6j9sND25uFOS6n1YwhZjVnwRXVZBSGK0gMGhqqPZXOx/XBtvFY1/MlSZ61gwmD8essdCp783UVwcFC0bHssh1Mh6cAotsv+XvUX0OiaLq33Nh7gsLkGOhCaNwhD5UpgaW7oS4AaOCd4Yq9ThRzbjislVNbLqgL63KtoiuSHCU8kfBshRoLbd307iYaPV9ns9beus83XtPEELFM8EFrnDwYYWh6/TjIGpL+g9QQzAf48lROXjAhno6IknL8eGqw9Lq6Y+p7YubDIY/ShWP/Btddu7eTLnOp2I6hAXVeZZRFM9DXrkToQszNsofBDzxSJl6ClT+fYDlYLg==;1j8OT6eQ/mqUEKwCz6DDCQ=="
 ---

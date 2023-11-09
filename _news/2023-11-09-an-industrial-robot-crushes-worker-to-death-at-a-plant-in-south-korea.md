@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/industrial-robot-cru
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/industrial-robot-crushed-worker-death-vegetable-packing-plant-104749839"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/11/09/5a03b9da-c226-45c3-87cc-70ec3e3d28c7/thumbnail/1200x630/bbf0222ab3fea076fb24b745df3a6b73/ap23313237022230.jpg?v=e2a739f263a10b93b27cae9568461c29"
         width: 1200
         height: 630
+        isCached: true
+  - title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
+    excerpt: "An industrial robot grabbed and crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigated whether the machine was defective or improperly designed."
+    publishedDateTime: 2023-11-09T18:51:00Z
+    webUrl: "https://dunyanews.tv/en/Business/769324-An-industrial-robot-crushed-a-worker-to-death-at-a-vegetable-packing-pla"
+    ampWebUrl: "https://dunyanews.tv/amp/english/769324.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/769324.php"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 50
+    images:
+      - url: "https://img.dunyanews.tv/news/2023/November/11-09-23/news_big_images/769324_39755171.jpg"
+        width: 752
+        height: 423
         isCached: true
   - title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
     excerpt: "An industrial robot crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigate whether the machine was unsafe or had potential defects. According to police officials in the southern county of Goseong,"

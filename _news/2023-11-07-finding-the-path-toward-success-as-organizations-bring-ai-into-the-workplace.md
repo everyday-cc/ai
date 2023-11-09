@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/finding-the-path-toward-suc
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Customizing coding companions for organizations"
+    excerpt: "Generative AI models for coding companions are mostly trained on publicly available source code and natural language text. While the large size of the training corpus enables the models to generate code for commonly used functionality, these models are unaware of code in private repositories and the"
+    publishedDateTime: 2023-11-09T17:04:09Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/customizing-coding-companions-for-organizations/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/03/bm25-1260x529.png"
+        width: 1260
+        height: 529
+        isCached: true
   - title: "Navigating Home Renovations With The Help Of AI"
     excerpt: "The journey of home renovation is entering a new chapter with Artificial Intelligence (AI) at the helm, guiding homeowners through a seamless transformation of their"
     publishedDateTime: 2023-11-08T18:44:00Z

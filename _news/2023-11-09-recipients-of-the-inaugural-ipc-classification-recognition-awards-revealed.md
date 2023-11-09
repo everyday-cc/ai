@@ -7,7 +7,7 @@ originalUrl: "https://www.paralympic.org/news/recipients-inaugural-ipc-classific
 webUrl: "https://www.paralympic.org/news/recipients-inaugural-ipc-classification-recognition-awards-revealed"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,45 +23,6 @@ images:
     width: 300
     height: 300
     isCached: true
-
-related:
-  - title: "Review launched into rules governing facial recognition data"
-    excerpt: "A government panel is considering whether stricter rules are needed for companies that handle facial recognition data. The Personal Information Protection Commission (PIPC) is mulling new ..."
-    publishedDateTime: 2023-11-09T00:00:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14508024"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 39
-    images:
-      - url: "https://p.potaufeu.asahi.com/33ad-p/picture/26551601/841e78f590d1ac87d0500ebc876f4573.jpg"
-        width: 660
-        height: 437
-        isCached: true
-  - title: "Facial Recognition Market Share, Projections And Future Opportunities Recorded For The Period Until 2023 To 2032"
-    excerpt: "The global facial recognition market is poised for significant growth, with its value set to double by 2025, reaching an estimated USD 10 billion. Th"
-    publishedDateTime: 2023-11-06T19:56:00Z
-    webUrl: "https://menafn.com/1107378246/Facial-Recognition-Market-Share-Projections-And-Future-Opportunities-Recorded-For-The-Period-Until-2023-To-2032"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 18
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?658907"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Facial recognition: Officials yet to meet obligation to seek views of Māori - documents"
-    excerpt: "Officials admit they have been using facial recognition to identify people for years without knowing if it distorts results for Māori. This is disclosed in memos about the powerful new Identity Check online verification system the government is developing ..."
-    publishedDateTime: 2023-11-06T00:49:00Z
-    webUrl: "https://www.stuff.co.nz/pou-tiaki/301003116/facial-recognition-officials-yet-to-meet-obligation-to-seek-views-of-mori--documents"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 11
 
 secured: "feRfs9o1hrCWbj3leeTjr9V8rbypn7h4glIBbVWOfSy+wIq4mzIIlFr6dCiDSEgPSaCht3DjQtOnw6B3CEWk0+iTiHCrObA2HbCaRdjQzNpTky0oQcGlNzkSiOE1MB4jqqIswnZ9IlU/LuNCA1TFxvXlkd+ft9YkQ0UdAH45HrhoiKQAnjbeHEFqXYhqkHMyygG8NG5jd1MFHiG7vRm7/DbaZj/rZpu0r6QZBmkoH59X0eDqceEonnn6ToNydUnea7WLGcTyi4uigotpb5cQkVVWDy3Vxv+uZkd2+ycqoc6HT1cfT98+f4G80gtTwUq2vd6/fgCiFMb4Df3vGdHnvLL8qPk8fAqNedVuW7HqRUv2CQjzcQlR3qknJbwg/Fht3+vm2sVpHVDv0rDBg6wEYbnNydEUBcX8htjbgBCR2AzOpJ8zp1Kyyzq56PnM9YG+OAePdpwmI8VpaXzVROoQjsfPkQIbxfkq4VLvpHeANdzLk4bQwICrDHxD2jeWnX1oY0yQEYBelGC15xhWdZRd8w==;3YVU2CY6cqDgMsQ/j3FlLg=="
 ---

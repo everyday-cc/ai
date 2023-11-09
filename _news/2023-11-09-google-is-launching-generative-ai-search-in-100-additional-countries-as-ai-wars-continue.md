@@ -39,6 +39,20 @@ related:
         width: 1300
         height: 541
         isCached: true
+  - title: "Google's AI 'Search Generative Experience' Expands to 120 Countries"
+    excerpt: "It's the largest international expansion yet for the ChatGPT-style AI. Google also adds four new languages and some AI-powered enhancements to Google Translate."
+    publishedDateTime: 2023-11-09T17:13:00Z
+    webUrl: "https://www.pcmag.com/news/googles-ai-search-generative-experience-expands-to-120-countries"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04jJWapUZXfvj5AEkN8BlSf-2.fit_lim.size_1200x630.v1699547518.jpg"
+        width: 1119
+        height: 630
+        isCached: true
   - title: "Xbox secures generative AI to create game stories, quests, and dialog"
     excerpt: "Microsoft's cutting-edge cloud-based AI solutions including Azure OpenAI Service, Microsoft Research's technical insights into the future of play, and Team Xbox's strengths in revolutionizing accessible and responsible creator tools for all developers."
     publishedDateTime: 2023-11-06T20:24:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-to
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-to-increase-agent-productivity-through-automated-call-summarization/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 546
         height: 312
         isCached: true
+  - title: "DataRobot Announces New Enterprise-Grade Functionality to Close the Generative AI Confidence Gap and Accelerate Adoption"
+    excerpt: "\"The demands around generative AI are broad, complex and evolving in real-time,\" said Venky Veeraraghavan, Chief Product Officer, DataRobot. \"With over 500 of our customers deploying and managing AI in production,"
+    publishedDateTime: 2023-11-09T18:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/09/9915447.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "kCgmOp8chfkieUQHK+rgXEH0qmZxCIYmF3LbPP1NeOh3gVnL8kvy0NR3hpPZtGO3mcS7xXuom5qcMd631llPpx8WHun65tHG1G7w7bBWNvnEFgYnpfrH6X242wi3kJdyzWQzJUBUlx+BO3ITvGHooA4wj2yhjq0OxnMRTOXkCVfAKlpMOgt6zBqy+Wf/Ev0XUj9mcd4mx00Fo2UFYbS9mClhLtIAgc2uU6Ca9WoO88l8QIWVigG4FTL6LEickrACo9nkHpcwJNxlmkX6b+66Cx3a0odfzwIQIU0h48Is/2xo/ZeO66dC0SbyHsHQcxY2Yqb5WsGGWkGLTXvFK9Lrd1Dc8m+ly03greccvO48EBE=;S9XcfO5WD4LzTtTOtvSojA=="
 ---

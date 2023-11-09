@@ -85,6 +85,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Why Nvidia’s A800 Workstation GPU Uses A Chip Originally Made For China"
+    excerpt: "The product in question is the A800 40GB Active, which Nvidia quietly launched last week as a workstation GPU for AI, data science and high-performance computing. The chip is available in North America and other regions not impacted by a new wave of U.S ..."
+    publishedDateTime: 2023-11-09T18:11:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/why-nvidia-s-a800-workstation-gpu-uses-a-chip-originally-made-for-china"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0287-196b37e31c7f-2a11987026df-1000/nvidia-a800-active.jpeg"
+        width: 650
+        height: 246
+        isCached: true
   - title: "China AI chip market finds expansion paths despite US export restrictions"
     excerpt: "Chinese AI company Baidu reportedly purchased AI chips from local manufacturer Huawei, and Nvidia is reportedly making a special set of chips for the Chinese market."
     publishedDateTime: 2023-11-09T13:50:00Z

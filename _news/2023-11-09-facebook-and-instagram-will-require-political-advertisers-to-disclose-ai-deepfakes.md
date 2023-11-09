@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Facebook and Instagram will require political advertisers to disclose AI deepfakes"
-excerpt: "Meta, parent company of Instagram and Facebook, will require political advertisers around the world to disclose any use of artificial intelligence in their ads, starting next year, the company said Wednesday, as part of a broader move to limit so-called ..."
-publishedDateTime: 2023-11-09T03:59:00Z
-originalUrl: "https://www.wisn.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
-webUrl: "https://www.wisn.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
-ampWebUrl: "https://www.wisn.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
-cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
+excerpt: "Meta, the parent company of Instagram and Facebook, will require political advertisers around the world to disclose any use of artificial intelligence in their ads."
+publishedDateTime: 2023-11-09T01:44:00Z
+originalUrl: "https://www.wesh.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
+webUrl: "https://www.wesh.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
+ampWebUrl: "https://www.wesh.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
+cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: WISN 12 NEWS
-  domain: wisn.com
+  name: WESH
+  domain: wesh.com
 
 topics:
   - Facebook AI
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta Will Require Political Advertisers To Disclose When They Use AI"
+    excerpt: "Meta vowed to remove content that violates its policies, whether it was created by AI or a person, and said its independent fact-checking partners will review and rate viral misinformation."
+    publishedDateTime: 2023-11-09T18:42:00Z
+    webUrl: "https://www.forbes.com/sites/petersuciu/2023/11/09/meta-will-require-political-advertisers-to-disclose-when-they-use-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/petersuciu/2023/11/09/meta-will-require-political-advertisers-to-disclose-when-they-use-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/11/09/meta-will-require-political-advertisers-to-disclose-when-they-use-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/654d2696b140537bbfa4a692/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Meta will start requiring disclosures for political ads manipulated with AI"
     excerpt: "Meta is putting some new disclosure requirements on Facebook and Instagram political ads ahead of the 2024 election."
     publishedDateTime: 2023-11-08T19:05:00Z
@@ -69,20 +85,6 @@ related:
       domain: usnews.com
     quality: 49
   - title: "Meta to start labeling political ads with AI-generated images ahead of 2024 election"
-    excerpt: "AI-generated ads are already being used in the U.S. Over the summer, a super PAC supporting Florida Republican Gov. Ron DeSantis for president launched an ad that used AI to mimic former President Donald Trump's voice to criticize Iowa Gov. Kim Reynolds, who has since endorsed DeSantis."
-    publishedDateTime: 2023-11-08T13:14:00Z
-    webUrl: "https://justthenews.com/government/congress/meta-start-labeling-political-ads-ai-generated-images-ahead-2024-election"
-    type: article
-    provider:
-      name: justthenews
-      domain: justthenews.com
-    quality: 30
-    images:
-      - url: "https://justthenews.com/sites/default/files/styles/social_media_share/public/2022-11/Meta.jpg?h=19f14c2c&itok=howgnsxx"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Meta to start labeling political ads with AI-generated images ahead of 2024 election"
     excerpt: "Facebook and Instagram will require political ads on their platforms to disclose if they were created with artificial intelligence so they can be labeled as such, Meta, the parent company"
     publishedDateTime: 2023-11-09T01:00:00Z
     webUrl: "https://www.ktbs.com/news/meta-to-start-labeling-political-ads-with-ai-generated-images-ahead-of-2024-election/article_d7563508-7e8a-11ee-888e-3f8f931be595.html"
@@ -110,6 +112,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meta to Block Political, Financial Advertisers From Using AI: Report"
+    excerpt: "Meta said it's blocking advertisers subject to stringent regulation from using AI in an attempt to mitigate the spread of disinformation."
+    publishedDateTime: 2023-11-07T17:39:00Z
+    webUrl: "https://decrypt.co/204659/meta-block-political-advertisers-using-ai/"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 19
   - title: "Meta grapples with AI in campaign ads"
     excerpt: "Meta, the parent company of Facebook and Instagram, will require political advertisers to disclose the use of artificial intelligence (AI) or other digital methods starting next year. The update, announced Wednesday morning, comes amid a rise in generative ..."
     publishedDateTime: 2023-11-08T20:40:00Z
@@ -128,7 +139,16 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 17
+  - title: "Meta scrambles to stop political advertisers—and those in regulated industries— from using its generative AI tools"
+    excerpt: "We’re probably going to see more sharp course corrections of this sort, as tech conglomerates start to spot problems churned up by their frantic race for AI relevance. I’m not sure why the proprietor of Facebook and Instagram, which are constantly ..."
+    publishedDateTime: 2023-11-07T20:31:00Z
+    webUrl: "https://www.aol.com/meta-scrambles-stop-political-advertisers-174136933.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 0
 
-secured: "ZnjJ96Pc2w7ELv5kfrxx1t5fNZbvTNDBo3I16MaE9qXOONMyPDmmYQZKVlCENlsTNfMnGloTJ93gdWb0+GxNc4bZIBeKJgT9UrfjzkL8AWykOuoJNIgwbaKSn4Jpuoz/cCtY701GZWtJGartciBdvWJabcOeGsWw0RLoz7idCCeb7fFFZAWSm0XipBzk3d7W5a2GT26QA37QHkQ+jGTZW7T6qo4a/HFb3KY4h3H0QCc7CeVwl44lKbmHNkL2phtR/rY8m3JcJedTv8EB+xZ2iQ0dHkhl85++j/rdfxEVlk4R80rH1Vgcuk6cFANEJnaeqT2PRoQMdmx5ff1s57J70/jJzlITM8BM4yN/1G6TQphpFVw/d3SMv3waJYIQ71j60Qsg/4hXsbNjKiq02+6cHrRwg5ElgpvTA3y4F1dpXkHnRktkQgUiqZUYIVikBxoCS7WFYeInPPDBa/w90Cv6oTNe5atkPrgUcBoDpT9vBw+RR0jF6MEqaMVPeTFloBVTS+QvyItAH20hTbvBwGWwcg==;hxxDICac3m35vuVAidJP7Q=="
+secured: "znGQ6Zy+by2lv4T68V66rgOm76mFlmX6GwuSQTlsaIKY8TctUVE6MylpQTClxwNwpNoIVeHe5FO3Ow9Igik4FGQbomOkcqx3VXqdyiqjPVzvYlrJDzoupZupslQRwOm39CBsK2/guML03mYpm0t3i3Yh8pQtE0N9HK6QKyoFWSt7Jo2w7nA49C2M+FTRj5jRcXJl4oGzlBRHJ5cn0fcYGiWqJ6RaaDGBqQnB6c5sBbflFPJX/wswHyZneZOHt6dcL9UH2piKdlKZ0w4XNTfqRTdj8CDCZI5cDNcMygRhPJa4cZ5YMISF/sWRTCRa/QwRtNEDk5ED3YXBSE8wQbC7eZRgeNkobTu5oJUejkJmc8I=;d+44C5KPTbGm0tDz2a+azA=="
 ---
 

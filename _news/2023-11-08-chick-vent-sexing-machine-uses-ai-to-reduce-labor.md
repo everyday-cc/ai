@@ -47,7 +47,7 @@ related:
     provider:
       name: FedScoop
       domain: fedscoop.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg"
         width: 1920

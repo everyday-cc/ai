@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-09T13:01:00Z
 originalUrl: "https://www.itv.com/news/wales/2023-11-09/facial-recognition-used-to-search-for-paedophiles-at-beyonc-concert"
 webUrl: "https://www.itv.com/news/wales/2023-11-09/facial-recognition-used-to-search-for-paedophiles-at-beyonc-concert"
 type: article
-quality: 9
-heat: 9
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "8lnAz+HNykobcZQyi/gmKs2fXTrq5CXjqRIHYYRmt3X7uAW70HehskT3OLHUN6uUKo/7xMgxZJcOQrDD+gZ0zfvk/Lf3BDPskNGtvcRyAew4Fm5becQp53fWcj3I1P1kRLAS1tWE/4P00FPVNFp/Aq8Mc7maNQZ90TVIh/0gqyE4QK92UC33UNaxwigjNLztSGv4BqCV2UNShQsg4l4XO+efJNsUgsv+ry2j0TCZNbwvlD80nx6Hw7VlXIaMWc2MfhjmHq+cyPtANKzhJGtZnxh//qn+feNPfgK71hhgo1VL71QqY6GdhwJYfde7xPcPJLjERWN1Xz+KBGIQCXq/ayXcaZblUm0mMQsEz0Nf4Nw=;A0PywwbCEXu9Kt+C2DND8Q=="
+images:
+  - url: "https://images.ctfassets.net/pjshm78m9jt4/3rH1htGzDugCWkiU01g6wC/a369fa0e4f9afbcb35384b1a75c9a97f/PA-31882653.jpg?fm=jpg&fit=fill&w=1600&h=900&q=80"
+    width: 1600
+    height: 900
+    isCached: true
+
+secured: "87VJlFoavfiWSEDbzPWXZ2OEdtPPI5EGiRNNTPNbALLy0BB1aV6i/NGl05P0mAMgTWVqLvcYs/PnZ4+Ui6JbgsNA2ffmYxGwjsCsFAFw6O1X5z7abJp6CCpOZqwyEBBIUQYUuZFTc+xCzGrxiFQcK5gNi66uKiTfhE6xJE2BaZMStw07hgzpnC+Hxs/qPLPDoy7DiJLOjIWfYAlFUBUfxWxcplC+8hzY+dGWJbXfgOtygDmo3yAz9Fe6NbbFNV1FDPCJkP9kojIFqmVA6q3qghSutAzhlwDIyzTH3nm3dcoET479vv/4vAa/l7US29BipnQIzX9kujuzAaditmJtXihYA2FFzF2lSjC+7gBmaVY=;O/Lx/3G/NfiWWlzwyVCT4A=="
 ---
 

@@ -25,22 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Face-recognition tech helps KGBV in record attendance"
-    excerpt: "Lucknow: Juhi Rawat, 11, a native of Lucknow’s Nandpur village, was irregular to her school, Kasturba Gandhi Balika Vidyalaya (KGBV), Chinhat."
-    publishedDateTime: 2023-11-09T03:31:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/lucknow/face-recognition-tech-helps-kgbv-in-record-attendance/articleshow/105083428.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/city/lucknow/face-recognition-tech-helps-kgbv-in-record-attendance/amp_articleshow/105083428.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/lucknow/face-recognition-tech-helps-kgbv-in-record-attendance/amp_articleshow/105083428.cms"
+  - title: "Bias in AI: How to Reduce Bias in Facial Recognition Systems"
+    excerpt: "One approach to mitigate bias is by fine-tuning the algorithm to be more sensitive to variations in skin tone and facial features. This often involves retraining the model on a more diverse dataset."
+    publishedDateTime: 2023-11-09T12:14:00Z
+    webUrl: "https://www.gizbot.com/partner-content/bias-in-ai-how-to-reduce-bias-in-facial-recognition-systems-088279.html"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 54
     images:
-      - url: "https://static.toiimg.com/thumb/msid-105083426,width-1280,height-720,resizemode-4/105083426.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.gizbot.com/img/2023/11/howtoreducebiasinfacialrecognitionsystems2-1699530988.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Review launched into rules governing facial recognition data"
+    excerpt: "A government panel is considering whether stricter rules are needed for companies that handle facial recognition data. The Personal Information Protection Commission (PIPC) is mulling new ..."
+    publishedDateTime: 2023-11-09T00:00:00Z
+    webUrl: "https://www.asahi.com/ajw/articles/14508024"
+    type: article
+    provider:
+      name: 朝日新聞社
+      domain: asahi.com
+    quality: 39
+    images:
+      - url: "https://p.potaufeu.asahi.com/33ad-p/picture/26551601/841e78f590d1ac87d0500ebc876f4573.jpg"
+        width: 660
+        height: 437
+        isCached: true
+  - title: "Facial recognition: Officials yet to meet obligation to seek views of Māori - documents"
+    excerpt: "Officials admit they have been using facial recognition to identify people for years without knowing if it distorts results for Māori. This is disclosed in memos about the powerful new Identity Check online verification system the government is developing ..."
+    publishedDateTime: 2023-11-06T00:49:00Z
+    webUrl: "https://www.stuff.co.nz/pou-tiaki/301003116/facial-recognition-officials-yet-to-meet-obligation-to-seek-views-of-mori--documents"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 11
 
 secured: "UA6wZQ1u+inGulik1T5WSSxUsIZ8JpJmNH2Qp6CJCniu1fWkBqOE5/3AGLNmGTtcL2xwXqWBdav9f6LJ7kIsQuSYcjsdvzVZNyCUabWpiw36BZEba+kGlMX4R5Q3KKCU2Xe7PJzMMPEorQhylRUy8QUM+GXbWMXkqKYm9i3eo3ZxABqb/Fd5r+4coFQWqiV8a4fqIQhJ4U38Up5SKicYrGxnQoBQPE9cORgTiRu4N+1v6n5iHlnlLsb3smzFJ8a/jnlhBwya97nUullwq09qBEXA1yZufn8iXydk7Vq52Ue4gl8jHgWpgYcPj7PXwAweJDkF9ZlNAUT5TfZTQr29dZ7hxfJjGJX2hnKN1MPBgJ0=;0sTlgGYeVhA3Cq9Mq+nRUw=="
 ---

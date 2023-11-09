@@ -44,6 +44,22 @@ related:
         height: 558
         isCached: true
   - title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
+    excerpt: "An industrial robot grabbed and crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigated whether the machine was defective or improperly designed."
+    publishedDateTime: 2023-11-09T18:51:00Z
+    webUrl: "https://dunyanews.tv/en/Business/769324-An-industrial-robot-crushed-a-worker-to-death-at-a-vegetable-packing-pla"
+    ampWebUrl: "https://dunyanews.tv/amp/english/769324.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/769324.php"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 50
+    images:
+      - url: "https://img.dunyanews.tv/news/2023/November/11-09-23/news_big_images/769324_39755171.jpg"
+        width: 752
+        height: 423
+        isCached: true
+  - title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
     excerpt: "An industrial robot crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigate whether the machine was unsafe or had potential defects. According to police officials in the southern county of Goseong,"
     publishedDateTime: 2023-11-09T08:35:00Z
     webUrl: "https://www.aol.com/news/industrial-robot-crushed-worker-death-063541312.html"

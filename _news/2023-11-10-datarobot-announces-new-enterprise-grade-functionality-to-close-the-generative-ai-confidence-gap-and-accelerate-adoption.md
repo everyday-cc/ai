@@ -1,0 +1,55 @@
+---
+category: news
+title: "DataRobot Announces New Enterprise-Grade Functionality to Close the Generative AI Confidence Gap and Accelerate Adoption"
+excerpt: "\"The demands around generative AI are broad, complex and evolving in real-time,\" said Venky Veeraraghavan, Chief Product Officer, DataRobot. \"With over 500 of our customers deploying and managing AI in production,"
+publishedDateTime: 2023-11-09T18:26:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/11/09/9915447.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/11/09/9915447.htm"
+type: article
+quality: 0
+heat: -1
+published: false
+
+provider:
+  name: TMCnet
+  domain: tmcnet.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+related:
+  - title: "Use generative AI to increase agent productivity through automated call summarization"
+    excerpt: "Your contact center serves as the vital link between your business and your customers. Every call to your contact center is an opportunity to learn more about your customers’ needs and how well you are meeting those needs. Most contact centers require their agents to summarize their conversation after"
+    publishedDateTime: 2023-11-06T23:10:06Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-to-increase-agent-productivity-through-automated-call-summarization/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/06/featured-images-ml15703-1120x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Generative AI to boost productivity in financial services"
+    excerpt: "Hype around generative AI and machine learning is continuing to buoy economic sentiment across Europe, with fewer than two-in-five financial services CEOs now expecting a severe downturn in the comin"
+    publishedDateTime: 2023-11-07T04:16:00Z
+    webUrl: "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services"
+    ampWebUrl: "https://www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services"
+    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services"
+    type: article
+    provider:
+      name: Consultancy
+      domain: consultancy.uk
+    quality: 61
+    images:
+      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-11-06-043615285-Generative_AI.jpg"
+        width: 546
+        height: 312
+        isCached: true
+
+secured: "VEGsd8mi8R8ed/4eUywsmEus+cZ37yhFYKJkvBai39jNRt7oCxJi9lk3A/p9GRNO6NGzcTsKOnyFom7V2AEUw6sQoUQEUaf2As/7T+MFhk5+lO2mNOjhPhCZXeRNO8I4be/1NogiC+kobunFnUgIVUEVtOqll+BDNwXLfYZhklxj8LzZ51gQt6P8KY8yDwzSkX3hupL4WgB/ikwrSDWc41mNMGs1iCpAgh4mfkSSRis68F5NNVUFqStYsTPVkR5Umf3nR86esRkBPV++ttZ1/WkVtOiVUjs90zD+hZ26/LoLAfctMSjwpDws0VagDu31gb9tUcLd+mtVVf60DTwmJM8OIRaz2/GaeNaIbJHFawk=;YoJNztM45TEsafretpyoyA=="
+---
+

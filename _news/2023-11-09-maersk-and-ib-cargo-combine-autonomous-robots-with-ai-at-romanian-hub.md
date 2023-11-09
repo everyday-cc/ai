@@ -7,7 +7,7 @@ originalUrl: "https://www.parcelandpostaltechnologyinternational.com/news/automa
 webUrl: "https://www.parcelandpostaltechnologyinternational.com/news/automation/maersk-and-ib-cargo-combine-autonomous-robots-with-ai-at-romanian-hub.html"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,17 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Meta's Chief AI Scientist Once Again Slams AI Regulation, Compares It With Brutal Romanian Dictator's Ban On Typewriters"
-    excerpt: "Meta's chief AI scientist, Yann LeCun, criticizes stringent AI regulations by comparing them to the oppressive typewriter licensing under Romanian dictator Ceausescu, asserting such controls hinder knowledge exchange."
-    publishedDateTime: 2023-11-07T02:48:00Z
-    webUrl: "https://www.benzinga.com/news/23/11/35635174/metas-chief-ai-scientist-once-again-slams-ai-regulation-compares-it-with-brutal-romanian-dictators-b"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35635174"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35635174"
+  - title: "Maersk and iB Cargo deploy Dexory’s robotics and AI technology in Bucharest distribution centre"
+    excerpt: "Dexory has announced today that their global partnership with Maersk is expanding into the Maersk and iB Cargo managed site in Romania, a distribution centre for a top home furnishing brand globally."
+    publishedDateTime: 2023-11-09T16:52:00Z
+    webUrl: "https://www.dcvelocity.com/articles/59105-maersk-and-ib-cargo-deploy-dexory-s-robotics-and-ai-technology-in-bucharest-distribution-centre"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 57
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/6a3aa8b2-1efd-4fa1-b6d8-3478055c23e5.jpg?height=1200&t=1699555162&width=635"
+        width: 274
+        height: 400
+        isCached: true
 
 secured: "RPPBYWqla9KWIpe2diCxu1V8dsd8xdPKBuHE/GZq7UqrJ0woiR86zJu2DKZM/PmnwIXuSOpJ/aHpEmhNmHzxh+4U+RzGtG9cDLSI0hjI89JYziJ22FPzWk5sBftlhdrwRY4qcrYn7GqmVgF0ByzBZP8s9LY4jqdKiI+I3utK15t/H1srmNsAsSVdqDzLQ+GnuwWxuxy9oneP/UPfGTJScZsQBP8QD0McW07Z2QBgtFn/mcQptfbmXmYn+9Vc99v/66lbAm6nyVi5210niwscnmGNans/DkzwD2aGgUqp2vhYWGcdDV+Dk6wDdGTlMF90phswvMbIjSQMkMPnTIpTTA0Ws5PVYOfRZvo5c4IVe9MFrIyVZfLRYOARvMY7lJU84s+c3SpddAkXeywxE537ksvXDAjsMGmj16tpd4PintUqhj3UmPfB2aAbtxPkrULl/27zhSniaGEi0vpkOp6iQRQwdeI9hBQ2gzFQBma8J4j3l12P0ot+U1IeOrnJGmlX1O2py/7bFZgLn8/l/Pp/rA==;2CIMWaDdrcdAdpG3UiXPZg=="
 ---

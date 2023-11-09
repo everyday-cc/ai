@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-va
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/d70bd4274124ff45a4f27471612fad1ef652dd9f/2023/11/08/18caee3b-231f-4d7a-96d9-88a4d1f63ce4/2-ai-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Overcoming the trust, talent and price tag challenges in scaling generative AI"
+    excerpt: "The biggest challenge that companies have when they’re ready to launch a gen AI initiative is the difficulty of managing scale."
+    publishedDateTime: 2023-11-09T14:40:00Z
+    webUrl: "https://venturebeat.com/ai/overcoming-the-trust-talent-and-price-tag-challenges-in-scaling-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_584789593_Preview.jpeg?w=1200&strip=all"
+        width: 995
+        height: 534
         isCached: true
   - title: "Five Signs Your Company Is Ready For Generative AI"
     excerpt: "Recognizing the signs that your company is ready for generative AI is a pivotal step toward safely embracing the transformative power of this emerging technology. The potential rewards, from streamlining operations to fostering innovation, are immense and well-documented."

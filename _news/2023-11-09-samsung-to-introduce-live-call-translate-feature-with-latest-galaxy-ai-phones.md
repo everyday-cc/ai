@@ -163,6 +163,20 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Samsung Galaxy phones will be able to translate calls in real-time with on-device AI"
+    excerpt: "Samsung has announced a new feature for Galaxy phones that will be able to translate calls using on-device AI."
+    publishedDateTime: 2023-11-09T18:02:00Z
+    webUrl: "https://9to5google.com/2023/11/09/samsung-galaxy-live-translate-ai-calls/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 47
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/samsung-galaxy-s23-fe-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Galaxy S24 buyers might have to pay extra for AI features"
     excerpt: "A report claims Samsung is considering charging Galaxy S24 buyers a subscription for on-device generative AI features like ChatGPT."
     publishedDateTime: 2023-11-07T16:12:00Z

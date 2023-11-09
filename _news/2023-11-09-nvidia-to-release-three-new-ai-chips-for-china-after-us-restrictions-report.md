@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/nov/09/nvidia-ai-chips-c
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/09/nvidia-ai-chips-china"
 type: article
 quality: 71
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Why Nvidia’s A800 Workstation GPU Uses A Chip Originally Made For China"
+    excerpt: "The product in question is the A800 40GB Active, which Nvidia quietly launched last week as a workstation GPU for AI, data science and high-performance computing. The chip is available in North America and other regions not impacted by a new wave of U.S ..."
+    publishedDateTime: 2023-11-09T18:11:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/why-nvidia-s-a800-workstation-gpu-uses-a-chip-originally-made-for-china"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0287-196b37e31c7f-2a11987026df-1000/nvidia-a800-active.jpeg"
+        width: 650
+        height: 246
+        isCached: true
   - title: "China AI chip market finds expansion paths despite US export restrictions"
     excerpt: "Chinese AI company Baidu reportedly purchased AI chips from local manufacturer Huawei, and Nvidia is reportedly making a special set of chips for the Chinese market."
     publishedDateTime: 2023-11-09T13:50:00Z
@@ -122,6 +136,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "0NzVvSlSKGjB+e6AJ8cGz7/pUmjtRjI3ty1H/N0P6ZWgWT+iGW939qYX4bIUVRfMvcLwMTkG7KV8pclp+q/eU0p2jb/mvP3aSGKc0gIcoJwyyaBl2Seaa03ulxrnRXwBo9tOBo07j0gLIQ1OorkdDX4xKisgq/K9CGFRZY/o0Z5kKYRsLezuhAwFjO0jynT4irFMKIWWS6udZXP2WHJL+GyaSOYa5hHN6uOomeLth3OlXR9ptHqf332FNcSOMYHXOq2IfG0JI6rb1ITCPsIEmILL/gcp/svPWAjMzuFATkAyQaxslIsm0/qUFvS7vN3oHb/ssf5au5pPz1vpS50HFn9HMX+1Lo5XjkdFQdZkJmg=;Ultcb4UWvF2MUUjWCHMGvw=="
+secured: "jBI+rur2D74F168IbD28dvHfnhvQuUdVIL5994J59ANvlQYnZ/6GpjSM41/5qxgatpGTs66EG+eFUeL//WN6TSd19UYX25I/tPM4nF0RerIL1SBWrl/WIE1mcNAd2StAmHXpx1lmUGyVu+x6V3qWiE6Z6nDfe3qBC4Q1noK9giZI/nbx9/octL4n1FmOmunHyw7yKhR7I5lO2yJJoQTp7JuXMopd+rKMF6FB+RwuWdLDNV0Q8HBgDHa0Hyi1Krbtq8KG+lZ3sdtb+d3gF7nEC7si6sUv0GERzYjcRaPJOLdQiks3xrrKPCY+sR3GG8zlROz3DEc6aPZ1Cmfh1zgT4jQC4fFrvpX3wSp6PwhAIIuyR1j5AYDaztzQJ5GjROzX9fhJ7MhziWQrihTHFaE3uiu8WSrGl8kPxz5XpxNcgrtfVk0LiB9eqbb4X/kBCeYKzil03VFrOBT9gw+9YQdf6R6wwm2HXbelpFHtI+L1aWQrtgwlIfqzHVAcb68NBrnJXHd51NTNAfX3BAuM33GkHA==;5+JKXR/578Q3TDlrb1bWCA=="
 ---
 

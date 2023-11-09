@@ -3,8 +3,8 @@ category: news
 title: "Micropsi Industries’ AI-Powered Vision System for Robots Wins New Product of the Year Award at 2023 Assembly Show"
 excerpt: "The winner in robotics, MIRAI, uses artificial intelligence to generate robot movements in real time, easily handling variances in shape, position, color and light conditions without the need for expensive or difficult coding."
 publishedDateTime: 2023-11-06T22:46:00Z
-originalUrl: "https://www.automation.com/en-us/articles/november-2023/micropsi-industries-ai-vision-system-robots-wins"
-webUrl: "https://www.automation.com/en-us/articles/november-2023/micropsi-industries-ai-vision-system-robots-wins"
+originalUrl: "https://www.automation.com/en-us/articles/november-2023/micropsi-industries-ai-vision-system-robots-wins? Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/november-2023/micropsi-industries-ai-vision-system-robots-wins? Control News & Articles"
 type: article
 quality: 33
 heat: 33
@@ -24,6 +24,6 @@ images:
     height: 313
     isCached: true
 
-secured: "R4jFZGf8AI4yOT80WwVMXQxCOR+7ztjmZyabO9TcfPx6r9LtNvu5VH1tIs3KYFSfaRFGYA4wRMcxcda25O16gYamAQyXO+ake79rCRNOKM2DOTemxDaTuXcMdTGhrw6xBa2YzpDgmTeQKs44JKAK7MPNFrrRQ6l6+875WZd4l/SetKTdWP7oV6jPdWtenvvSZ7PAJX4rQ3KwTeifWvv78Y1b55gO34SyJ+dDRDTEG3T2mWHKEVYjnJLlXVrdv8CmLI4pdxhw6ETRUaXItj15zREe0Bq4V0V3Oo0Y//BaImQdyFpfjM5Qy61o/htaklr6nGfUVgTl63hb+WsOxA6mBRiCS06IWhUszLk+JXYtCcI=;kzYO/Sopg59w7E7ZFW3AeA=="
+secured: "iZImMz6u8UkiiLPqiHDWlZbeDXjQCYzHYT/SNjH+8R0ISlsKveR7XAyDtX0K487aMKkaU3KmSPURjEJuXkjJtedWESZVdPeiCcdZVCWM8iNkEqe2PDzVOm2jdvonJPUrlL/oyIuPZXbbzG+pGoG0UJ9b/RcmFRiMEC4HSbqasK/PlSk/KLDZ+/BRqkZzAkITRWbVcm0Rq2fh7fg6tHt0v6mtTeTwBWkIrC5igsd9ZTwfQjRtHjzPUwNq7SvzgRPwaHBMipSiSQqWgotXX0Mbw/e+vZeNLUWsT3VdtYFvtUYeM2HszdP32YHr8n0UeT9HsEoBAspm9PH2cVZT6z7LqdVNQa6dVlJfN89fpzrPl8M=;YAr66YDHajcnG8hLMiuYyw=="
 ---
 

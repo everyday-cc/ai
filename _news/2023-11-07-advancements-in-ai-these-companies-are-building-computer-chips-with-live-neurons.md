@@ -7,8 +7,8 @@ originalUrl: "https://www.baystreet.ca/articles/stockstowatch/92234/Advancements
 webUrl: "https://www.baystreet.ca/articles/stockstowatch/92234/Advancements-in-AI-These-Companies-are-Building-Computer-Chips-with-Live-Neurons"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: BayStreet
@@ -39,20 +39,6 @@ related:
       - url: "https://menafn.com/updates/pr/2023-11/07/B_f1f4bimage_story.jpg"
         width: 845
         height: 396
-        isCached: true
-  - title: "Decoding Quantum Computing: Are Quantum Computers the Future of Artificial Intelligence?"
-    excerpt: "Introduction In the ever-evolving landscape of technology, quantum computing has emerged as a groundbreaking frontier, sparking intrigue and excitement across various industries. As the realms of artificial intelligence (AI) continue to expand,"
-    publishedDateTime: 2023-11-07T00:04:00Z
-    webUrl: "https://techbullion.com/decoding-quantum-computing-are-quantum-computers-the-future-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 34
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Decoding-Quantum-Computing-Are-Quantum-Computers-the-Future-of-Artificial-Intelligence.jpg"
-        width: 600
-        height: 400
         isCached: true
 
 secured: "s6Xg5ymH2ejv1svqjOfXC7vHpZHjXt1cXmNFc6VrVOBRVjDVfbeS1BWXSlVfNZCEZ8Bd+Jp1P8eMuvSc5j1wyEGu3ycAVJKxYfGvL1xVtIPMmUS7zdiiX6LVImyAwJMsT+zWl66dEmOnPGd2Ulto1r6c5o8/wWnwaN6+/a0wz679QSSMINlGH1iNbDHrq9yQ58cky10wJiadMqj6jeIJV0fclarsjbKibAJUkIx2RT29BbrYCzjc049IHRf/e49Pi6dDCq3cO7uKPXpu7ggb0naN4vVIPAxTUxE3wKEkyKLRqPErswwa0kPSAAHeXxGH3bcaEUGqDd4zXmnovoBTAX/pkmqMeNRGF8srJGeh/4kPUOWIMnWeM+a80SBfJULn9AcE3ZETJlzyLRetagoOr/P8No7cFKze4w7xADpUFh7Zz/Gb4WKxEKi5luq6WS9jgkOeBbwO0wzDtb5MQstAI73Riu2zBJ4KHipygWAKkYsut0vmW1NCF+UIJ3jar4/xqqkPkMFbZp4Fvh1WF9oV8A==;zj/8zxuEJpKJDUmdtBU63A=="

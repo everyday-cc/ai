@@ -7,8 +7,8 @@ originalUrl: "https://www.aol.com/news/bias-ai-facial-recognition-puts-143358549
 webUrl: "https://www.aol.com/news/bias-ai-facial-recognition-puts-143358549.html"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: AOL
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Bias in AI: How to Reduce Bias in Facial Recognition Systems"
-    excerpt: "One approach to mitigate bias is by fine-tuning the algorithm to be more sensitive to variations in skin tone and facial features. This often involves retraining the model on a more diverse dataset."
-    publishedDateTime: 2023-11-09T12:14:00Z
-    webUrl: "https://www.gizbot.com/partner-content/bias-in-ai-how-to-reduce-bias-in-facial-recognition-systems-088279.html"
+  - title: "AI ethics board in US DOJ would advise on facial recognition deployment"
+    excerpt: "Members would review legal and ethics compliance when using facial recognition and related algorithms for law enforcement."
+    publishedDateTime: 2023-11-09T17:53:00Z
+    webUrl: "https://www.biometricupdate.com/202311/ai-ethics-board-in-us-doj-would-advise-on-facial-recognition-deployment"
     type: article
     provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 54
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 71
     images:
-      - url: "https://www.gizbot.com/img/2023/11/howtoreducebiasinfacialrecognitionsystems2-1699530988.jpg"
-        width: 1200
-        height: 675
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg"
+        width: 2048
+        height: 792
         isCached: true
   - title: "Cops are falling in love with AI, and it’s much deeper than facial recognition"
     excerpt: "While facial recognition has well-known bias and privacy problems when it comes to law enforcement, tech companies are pitching a variety of new ways to use AI for policing."
@@ -52,20 +52,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/z5O7HXv3L4rOlk9usGH65Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/fd4f9afbf7a108eb72c189acbbde337d"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Bias in AI puts Black Americans in legal peril"
-    excerpt: "The AI industry has the civil rights community calling for caution, particularly regarding AI technology and law enforcement."
-    publishedDateTime: 2023-11-05T14:48:00Z
-    webUrl: "https://thegrio.com/2023/11/05/bias-in-ai-facial-recognition-puts-black-people-in-legal-peril/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 39
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2023/11/GettyImages-1149113711.jpg"
-        width: 4924
-        height: 3454
         isCached: true
 
 secured: "q2Ldana6rw5WxMZgRcbpud7d7ucYvGlRgJ6y/5ejXGKptiuwYh8Lj5MUWAw85zEoP8Bw/w4IkUZV+0yto4bLSIzyPAMSDIod6J5Ixwa987LQ8/Wic2Ddy+Z+pB93/9kL56L/Cb3+HqOofMOV11vgU7mjuLqklhg9ZqfwyJ5kKX7zwEqTVt4IFpMZzOoOPDaLOzGgU+Vh06+7BTVELQNWmljMaK78GOmPa9I9PaUobASGvjWNfgtN9f+FXoHHZaILx/6koZd6zPEmFooiloEC8WvHsWmq/i/BC7ZPk21tXIc2RpyWI6UzqgknIwAEinZAEGHbKAma1SJJHpLfmAR28hE2cYmmC4GgzY+vG2b3TXI=;JZ1ZcFRtD+2A3yAwAmyRmQ=="

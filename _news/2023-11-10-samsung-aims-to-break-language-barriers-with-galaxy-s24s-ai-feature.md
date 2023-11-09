@@ -167,6 +167,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Samsung Galaxy phones will be able to translate calls in real-time with on-device AI"
+    excerpt: "Samsung has announced a new feature for Galaxy phones that will be able to translate calls using on-device AI."
+    publishedDateTime: 2023-11-09T18:02:00Z
+    webUrl: "https://9to5google.com/2023/11/09/samsung-galaxy-live-translate-ai-calls/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 47
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/samsung-galaxy-s23-fe-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Galaxy S24 buyers might have to pay extra for AI features"
     excerpt: "A report claims Samsung is considering charging Galaxy S24 buyers a subscription for on-device generative AI features like ChatGPT."
     publishedDateTime: 2023-11-07T16:12:00Z
@@ -270,6 +284,6 @@ related:
       domain: indulgexpress.com
     quality: 29
 
-secured: "S7SWJ1WoCv+zzJASv4poCiCPQaDs8cjxnYt4pji4DeYy/YwxwGshd1uR8bX7Cy46UkKlK/xyG16TcEGdi3Xp0OlWhtkWYV2LuRTnOnZXohAuvycYXj9SpQRAlCKVHf+pE6kFEs7/qxwp180QxxvpCgVQ/bwB8ly6BQxBeLL7jqZtWmA8/RcDJnvL77n7hBTVxWpIgHqXZ4xOiZj1xWap/S1AxzFYdYUOIei+eJBAT6QsMRYC+KDxZ82XhYwbm/2oZYKr/nzyBozZU6vENhD5f3L6MbnUfkwYa1PjHljT1MaXzabCdapHO64OGmeL5TAMVGTz8ZIwK74E2QpW0e2HxTbs1zJAz3j3uBmX+uF2xP8=;oXFW0pgQu9PRY9ch6yQvWw=="
+secured: "883qIvP2eN5tfZA/GRKthk3s/V8xVtwIk8hPNqIwoilclXvuKRel6Kl56+hr8lmkfuAMl7JTojWlj2rkT7gTRdFoUGnhSmJ5TBOADZn0w7A3AxhV0Wyrh3CK15x08goFDuGNlJj9nxB72G9DXR45UtYJFsbFvsgWp08xnHluIkn99RczIxKajcS7K+Wxxz4H2teseDS8NPjlsh7qcOV3We34MxjkBm8TkwBybbYr8VnipevmnN5tmtirOCubaHfL/TD0oDm+83OhmHhayB/uv6OYHNtXClrE5TX11uT/n9AiW/HXYLEFvXvWzNTcKPGwwwlpu2LTbLNhHfaLAv1X0hZOqR5LSvdvgGejNqdQAUDqRmHS5UjKry5PFY0BO8accfPG4U9H6U4vtwaze55PMDpheWW++pfXzQ8vb0Km0Ur8lp2KxCg/AZDOlrNOMOftq4RMlMprz8ur6ujOxWNnlTqNrUa4M8FuzKbgdskt7h9ow2Yr8JrRji9IoBnEPE6uX+LBYViPDgeK4mb2FzvbHA==;IBgPsYfdShyhgRvgupuPww=="
 ---
 

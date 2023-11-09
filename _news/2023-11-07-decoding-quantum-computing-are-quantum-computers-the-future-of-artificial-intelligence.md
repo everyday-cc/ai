@@ -27,33 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Advancements in AI: These Companies are Building Computer Chips with Live Neurons"
-    excerpt: "Companies, like VERSES AI Inc. (NEO: VERS) (OTCQB: VRSSF) are racing toward Artificial General Intelligence (AGI), where AI can perform all human cognitive skills better than the smartest human, as noted by Forbes."
-    publishedDateTime: 2023-11-07T15:58:00Z
-    webUrl: "https://www.baystreet.ca/articles/stockstowatch/92234/Advancements-in-AI-These-Companies-are-Building-Computer-Chips-with-Live-Neurons"
+  - title: "Humane’s Ai Pin promises an ‘ambient computing’ future for $699 (plus $24 a month)"
+    excerpt: "It’s here. After months of hype, leaks and reveals, Humane has officially revealed the Ai Pin. The small device magnetically attaches to its wearer’s"
+    publishedDateTime: 2023-11-09T17:06:00Z
+    webUrl: "https://techcrunch.com/2023/11/09/humanes-ai-pin/"
+    ampWebUrl: "https://techcrunch.com/2023/11/09/humanes-ai-pin/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/09/humanes-ai-pin/amp/"
     type: article
     provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 51
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
     images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/AI.jpg"
-        width: 845
-        height: 396
-        isCached: true
-  - title: "Advancements In AI: These Companies Are Building Computer Chips With Live Neurons"
-    excerpt: "These Companies are Building Computer Chips with Live Neurons Companies, like VERSES AI Inc.  (NEO: VERS) (OTCQB: VRS"
-    publishedDateTime: 2023-11-07T21:19:00Z
-    webUrl: "https://menafn.com/1107389379/Advancements-In-AI-These-Companies-Are-Building-Computer-Chips-With-Live-Neurons"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 51
-    images:
-      - url: "https://menafn.com/updates/pr/2023-11/07/B_f1f4bimage_story.jpg"
-        width: 845
-        height: 396
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/humane-press-shield-lifestyle-2.png?resize=1200,675"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "3CcPrnOIHgoGxSsqFd8a9t+Vd0wRroyzsjirehP77VodV25VrWJCYBazdPkDbhD+igycOuDH4Act8sGC6gnyb7hAx/NokOCayOufSNb2tj7ORnDeMtrh8hUIbFHjTWbHDL2x5reRFvszPDF16HZkDSVYNHalLcUt+jWZAM7Aupml0uIe7rOn95GVMLxHQQy9mw2mqjZdSve2Qs26U7/RIzkHKM+MQx/vAMyeSEM5oUaZz2ti1l0xEKJSMavOLwe70b1dYgAxxJmyHb/YIy+JW5Ft9yuhE5vrtA3+d/fLwtOIAFK4cLvFB4EG4QgrJCL6r3Q2MtGmU7VSErFWeJVhzaDVozFpE3ZQlPeJXAF6Ode0YXh08Kb08P7GV0hbcaHmF6Eh1SdCbViAA0AOlhE6ZSkaJDEkS23G51zvf42jfxhw6HTYlJes/eOgZ6VZu0l+va840VaQsBY2Xd5mcdQfsqFKewwyTR+xVAzNGUlOrjui/N6fNRNYJBFTbdvofjENzVvPC0rpDfO+XNSYQi1hKg==;p9zHTBTjARgJ3+JysEiSog=="

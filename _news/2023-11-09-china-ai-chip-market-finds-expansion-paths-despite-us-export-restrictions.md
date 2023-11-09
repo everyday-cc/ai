@@ -85,6 +85,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Why Nvidia’s A800 Workstation GPU Uses A Chip Originally Made For China"
+    excerpt: "The product in question is the A800 40GB Active, which Nvidia quietly launched last week as a workstation GPU for AI, data science and high-performance computing. The chip is available in North America and other regions not impacted by a new wave of U.S ..."
+    publishedDateTime: 2023-11-09T18:11:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/why-nvidia-s-a800-workstation-gpu-uses-a-chip-originally-made-for-china"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0287-196b37e31c7f-2a11987026df-1000/nvidia-a800-active.jpeg"
+        width: 650
+        height: 246
+        isCached: true
   - title: "NVIDIA shatters records, training AI models in under 4 Minutes"
     excerpt: "NVIDIA's AI platform has once again demonstrated its capabilities by setting new records in the latest MLPerf industry benchmarks, a well-regarded measure"
     publishedDateTime: 2023-11-09T10:17:00Z
@@ -118,6 +132,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "2mgU3T9e11JojVGb3kONJbE6UVU0zfxESnPabHx8Mc1m3lwPDEGfd8dvmWqQ2JJsjU+HIA8rir6nOZ2bvWo/4r7xrSs4O7toE4zvXQ+bIpvjXbsL1WT5ROEcydJdO9f6nBjZM0aqNmjaJ5KDRA/f9NshwGoXkNOvz2p/2FmekLuo5lmE2On7N4eLVsTy6TUwR1xcg7el2p+nOinwv3vTus/4Y4booUYq9xafr7Doyl38oJzy6Bu4xDYjUqxhCuPyKavAmap+FpTbm8IiFSe9Xot/t05TBk1P+WBLKW77pvWl+k/nJUAOAqLSoZjgdA+5x3hX91qchIgxCgbbX9kqp2gppIhdkL6NV2N39c1XLJY=;L+7hbsRqtNF4NKC5dB5QFA=="
+secured: "D7RuWmaAWW8wPc5zjjPVLkAunJY3O3l07L6Rxafc44/cbum0/ReJtjgN6diGd3emnrdwIikj1NxzcnRZZPPzAhNN11ijChaa6vwSVYd4tKmJh1I0mfd/FBh8sFDxBpvIxvsmISsF2vfBfSaPqmGhk5JvZoLdYcqr3jKeWQzZCfPsjoMQcm2Nfrm4I3HWhy7LGr40Mm4itbIfB6uxSbeqSDxYb6bBqpu9v5nTheXpyka9AGr3eiOsDB6T+S3rfnDatoVAY67qRZhuxlLJIDxz8An2DzuDaqaLenOWZzw4AAhKdeBfiFzDQJl2Itd0lWU0HaX5nfqOtAZIGHhjleyO5xEWd+X78GptMLrkb+kWQbTDQIrSHp06ID4Yg+A8vk/Okln8nTFTn1y0FqyZXLI+JtMCiDW11DOQXc+bhcvzWACtkrgoYc6D5Mlt7+zDzeGUXfJXPTsMPXATcxvizTOFXAThxGT+XYHyfxh7CWNQmasWRT1b1H3IPuhIKN1zURQY4qC+tirXgsvvaE3NmfY7iw==;SVbTg7JkjnfnKc4k4aNcnw=="
 ---
 
