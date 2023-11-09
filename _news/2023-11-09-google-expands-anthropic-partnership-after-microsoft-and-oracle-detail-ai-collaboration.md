@@ -148,6 +148,20 @@ related:
         width: 860
         height: 520
         isCached: true
+  - title: "Microsoft Stock's Next Act: Betting On AI To Regain Tech Leadership – Investor's Business Daily"
+    excerpt: "Microsoft is plowing billions of dollars into artificial intelligence, investments that could fuel the next growth chapter at the company. (© Chris Gash) Microsoft (MSFT) blazed the trail for tech when Windows and Internet Explorer emerged as critical tools of the web revolution 30 years ago."
+    publishedDateTime: 2023-11-09T00:54:00Z
+    webUrl: "https://www.inferse.com/788925/microsoft-stocks-next-act-betting-on-ai-to-regain-tech-leadership-investors-business-daily/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 42
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-5707.png"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Microsoft Vet Takes Reins at Curbit"
     excerpt: "He left Microsoft at the beginning of the year and worked for a few months with Curbit, which is built on Azure, to provide guidance on business scaling, then stepped in as its chief executive in September. As Curbit’s AI and machine learning systems ..."
     publishedDateTime: 2023-11-06T08:05:00Z
@@ -231,6 +245,6 @@ related:
       domain: gamesradar.com
     quality: 1
 
-secured: "D5hMZu1hOxfe44nhgneIwCIKytVcmCG+SN9+aI2yV628TlTMHLR9zBrpYBaZXqekrTM6zDQ/AEt6U1WbcOGWiojsW9SxisPs4C//eBClC/7SIs3MkiVOU6fZa0coIGzO8tJzXOm1T/jbzBkLnV4pxaPwVeNSRhIZgjSFjrAZxrkZTZWQ+K76vjCYpW7FxHxZcPXD881FwH09Idls+bEHkdIWyj/il6B7ihIjF5PxefKx5VBz6Li9jpUbdi21Z9cpjr28nbPBItFqYSisRCwwrw+BVUTAzIHmtthBXXYODxQnn+WwJ8D7j6bs/ZoBz56VOso4DUNBNk8tiquvdZOZ7JAzg/pd8Y/rCEgadCcHDRw=;BoCHpnA2TlXMwOMAVkdACQ=="
+secured: "h/PiR2RjijISkPqyogB7WAQR5GThV8OFI5PsliJPXYYmYF079JPpjyQOZgBs12krWrd2EU4neIG0m/+xFrUUsrvaAT2l8EEAgexU9gQ5FmGaamw0tLf65vSxCW03NFPZ2cd3v1jN90oCbFMmkKgnd0jKWZNm/BWH+m8HnDY8BT2IA6tlGyv291TGRKkGGqj8PDldJZIZXzgqErfCLHEzfmjDd89Y5px/YiNJAas4aNxrqhogIHFmA2vQXeHwA04Wihxr4QUmdgTmVkCMBoqrsoPXiFcScosx3fgj8h7PD79CbxPEX+5yAIyoaF0LpgO3OUDyux3ZEoRQSpsZOtubKO+Jbqo/N7vpX+7Yuly3O48bTXZIrvz1HZDqE8dqa7JuDpJ5JqA60DAG+vwf3QE/yn8wH5lMe7uVW5pdV6crf+FRsbQZkEWcxAzjQ+DC/Zssg6yzbGj6fYPlzF/YfNSPL37CtgIAl5AH2EjNp+7Z2wgKScpNmaWGw7IzTg9bCm6dqiatFyUktGkVDeKcwOJvTw==;GQf0K8X4az+WkcZR17Aidg=="
 ---
 

@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Baidu turns from NVIDIA AI GPUs, begins ordering Huawei's AI chips after US sanctions"
+    excerpt: "Baidu has just placed orders for new AI GPUs with Huawei, shifting away from using NVIDIA AI GPUs after US sanctions put a noose around China's AI neck."
+    publishedDateTime: 2023-11-09T01:28:00Z
+    webUrl: "https://www.tweaktown.com/news/94257/baidu-turns-from-nvidia-ai-gpus-begins-ordering-huaweis-chips-after-us-sanctions/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 62
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94257_606_baidu-turns-from-nvidia-ai-gpus-begins-ordering-huaweis-chips-after-us-sanctions_full.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Nvidia's long-term client Baidu orders AI chips from Huawei - Reuters"
     excerpt: "Baidu (NASDAQ: BIDU ), one of China's leading AI companies, ordered 1,600 of Huawei Technologies' 910B Ascend AI chips in August, according to Reuters. These chips, developed by Huawei as an alternative to Nvidia's (NASDAQ: NVDA ) A100 chip, were ordered for 200 servers."
     publishedDateTime: 2023-11-07T12:06:00Z

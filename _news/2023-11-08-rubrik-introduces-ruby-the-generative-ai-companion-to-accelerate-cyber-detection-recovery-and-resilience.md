@@ -21,15 +21,34 @@ topics:
   - AI
 
 related:
-  - title: "TechSmith Audiate Launches Generative AI Features For Instant Content Creation"
-    excerpt: "TechSmith Corporation, an industry leader in visual communication and video creation, announces the launch of generative AI scripting and voiceover features in Audiate, the company’s audio recorder and text-based editing solution."
-    publishedDateTime: 2023-11-07T15:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/techsmith-audiate-launches-generative-ai-features-for-instant-content-creation-1032788734"
+  - title: "Hariri Institute, Wheelock collaborate to research AI’s impact on education"
+    excerpt: "The ChatGPT AI natural language processing tool displayed on a phone. An initiative launched by the Hariri Institute for Computing and Computational Science and Engineering and Wheelock College aims to connect research in artificial intelligence with ..."
+    publishedDateTime: 2023-11-09T02:46:00Z
+    webUrl: "https://dailyfreepress.com/2023/11/08/hariri-institute-wheelock-collaborate-to-research-ais-impact-on-education/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
+      name: The Daily Free Press
+      domain: dailyfreepress.com
+    quality: 54
+    images:
+      - url: "https://dailyfreepress.com/wp-content/uploads/Digital_Courtesy_ChatGPT-400x267.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Provost’s Office, Data Science Institute launch artificial intelligence conversation series"
+    excerpt: "On Nov. 2, the Office of the Provost — in partnership with the Data Science Institute — launched a year-long discussion series about concepts related to artificial intelligence and machine learning with a “Let’s Chat about ChatGPT” event."
+    publishedDateTime: 2023-11-06T03:19:00Z
+    webUrl: "https://www.browndailyherald.com/article/2023/11/provosts-office-data-science-institute-launch-artificial-intelligence-conversation-series"
+    type: article
+    provider:
+      name: The Brown Daily Herald
+      domain: browndailyherald.com
+    quality: 29
+    images:
+      - url: "https://snworksceo.imgix.net/bdh/bef3d660-edb0-471a-8867-dbaa7bbb099f.sized-1000x1000.jpg?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "71pxZ5QCqhbQ2hCJe8saX4nR+mZSxXYlSrMWCxWx+O91BAJUsJ0aP1I4xtjeilRi6l4P6iUYPD2veiiS+9qp5tv/Bxr18h7GJzn+dh39u7IOlRnXvcBKQ3c4bCWqoF5p2dW1nXxHTnrwjM5IXhy3nwU1kyDb5E4qlwp7XDzWbUF+Rb0sCtIqNKXakMnldToIseco32NFDZ1Vda64BFECWrb+qDHzOY9vFb7lHdzt9prDPbLdyr1wRHDUs6J6UcaBnzlYfGlyijBee47bDzs+WunDMRVfrjFl+1ZEyHy92VQL7CrwZZ0vH5/XE2T8j3WijgiiP+Yx4IqHhQnDcaF2sKfu72Tmh6M6U0KSLoaAwyOzOS/VDdcyhba4CgG2Hhe2luhwfrOjSqpu5kDTXzKzfp1i5+rp1GdO06/uPPLT5rcAnQCmY5VUNUZ1GlSRmhw98aHHo0a/INUtZ6LghYHefq4P+V3ufXZeTy3l81yGdtl5kMeUODALIP/T37sdQYeUKC2XJCp66F7nBCOx797cyw==;9O5OpNBKoJZFHgVrbSAZvg=="
 ---

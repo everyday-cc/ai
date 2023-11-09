@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/
 webUrl: "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/"
 type: article
 quality: 84
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2023/11/07/d43490ed-0fb7-4d99-a333-1e5acc2c2dff_06af8282.jpg?itok=z22Kp4uU&v=1699347307"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Baidu turns from NVIDIA AI GPUs, begins ordering Huawei's AI chips after US sanctions"
+    excerpt: "Baidu has just placed orders for new AI GPUs with Huawei, shifting away from using NVIDIA AI GPUs after US sanctions put a noose around China's AI neck."
+    publishedDateTime: 2023-11-09T01:28:00Z
+    webUrl: "https://www.tweaktown.com/news/94257/baidu-turns-from-nvidia-ai-gpus-begins-ordering-huaweis-chips-after-us-sanctions/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 62
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94257_606_baidu-turns-from-nvidia-ai-gpus-begins-ordering-huaweis-chips-after-us-sanctions_full.jpg"
+        width: 1500
+        height: 844
         isCached: true
   - title: "Nvidia's long-term client Baidu orders AI chips from Huawei - Reuters"
     excerpt: "Baidu (NASDAQ: BIDU ), one of China's leading AI companies, ordered 1,600 of Huawei Technologies' 910B Ascend AI chips in August, according to Reuters. These chips, developed by Huawei as an alternative to Nvidia's (NASDAQ: NVDA ) A100 chip, were ordered for 200 servers."

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/08/meta-will-start-requiring-disclosu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/08/meta-will-start-requiring-disclosures-for-political-ads-manipulated-with-ai/amp/"
 type: article
 quality: 85
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Meta to start labeling political ads with AI-generated images ahead of 2024 election"
+    excerpt: "Facebook and Instagram will require political ads on their platforms to disclose if they were created with artificial intelligence so they can be labeled as such, Meta, the parent company"
+    publishedDateTime: 2023-11-09T01:00:00Z
+    webUrl: "https://www.ktbs.com/news/meta-to-start-labeling-political-ads-with-ai-generated-images-ahead-of-2024-election/article_d7563508-7e8a-11ee-888e-3f8f931be595.html"
+    type: article
+    provider:
+      name: KTBS
+      domain: ktbs.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/ktbs.com/content/tncms/assets/v3/editorial/0/15/0154ceb4-7e8b-11ee-8519-4316d0045004/654c13c562d6a.image.jpg?crop=800%2C420%2C0%2C14&resize=800%2C420&order=crop%2Cresize"
+        width: 800
+        height: 420
+        isCached: true
   - title: "To help 2024 voters, Meta says it will begin labeling political ads that use AI-generated imagery"
     excerpt: "Facebook and Instagram will require political ads running on their platforms to disclose if they were created using artificial intelligence, their parent company announced on Wednesday."
     publishedDateTime: 2023-11-08T17:45:00Z
@@ -100,6 +114,6 @@ related:
       domain: thedailybeast.com
     quality: 17
 
-secured: "Gx3paollAh3yvBfZA2WkjIGrDgoI/LC3H1fDlJIYdi6Dl1HBGlgZKU3eZ2PWb8bUOwyBKERgtSWFygU4ZbIPnxFeAZ5m5d+iMzji0YHMqsL12MCgUYZlbpC3ZoQPMMs1PrNLrY6aP1Up6vFLx1Y6kOae74Pj7nsVZXb9t+PQtxm+TyDwcEelxPY8igYGu/WMeEyps2FsMZR/a2moJ9QVqYTDoQojRBcY3l5+OR+TxIvRCO6Hwo5Uv3Hj4ETa3QeWgZoqAVcEudpsEOaZaXsxcpJIL68Cz9pOy6DMTCRWr8dmzGRyBuBNpBC10Oe08DbRZ0wpAMyjaHpdA9eR9jtJZ2CX8m8mYSagLFwbWwM0s6w=;TdskYfQZmUR0SsayROKXEg=="
+secured: "iP2vl8HJphAGp7i+8LMMZ0noGOipKMo/RSMFs7or20IjUOPYWIDYPoTCCdq9ZSod9xM4RgmrvYbIBQR1RvWilNN5JnqOo8B4DfXURguRgyGxWsYnoXGGfElQ/z+LoEjaOPfcXggBxc5Yqem6FdydlTcTk3pLaqYoQDcOOVTC+sng9JHRmCRSzaoVnRfOXEki63b6qfwuJPlJcXLCLNBflKESpcJsgCNdTqzDpjm2mqYtqst3feBwR4RYZXvwh1xhUCC0iOltQ5+vbuFJHtdee9bKCyipnizIZImNy/roUMglVXa0pQP3IISleMBa2zc9z6APa/ZFZZCJI2Cj8n/+JUR0lafhEPfC6O9XA2nkol4EbxYUaF9Ajlpcvva9EzRF7BqPg998j/p6Owfd7jxD+Q/zB9Jig5g1hP1TebrU/ChC3RSVhuCEtgHhPBSLtKwJazTn/8EfR1tww2i9DEvb0l8ohP6D+GrCcXR/N2/4jCkFF5FbPRMBFP+2/y9fKtruZO9sMcZPWYtwkKQsHmCydg==;mcOPQH9y7rar9v+Mem0w4A=="
 ---
 

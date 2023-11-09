@@ -46,6 +46,20 @@ related:
         width: 2500
         height: 1899
         isCached: true
+  - title: "China aims to mass-produce humanoid robots by 2027"
+    excerpt: "The Chinese government has announced its intention to accelerate the design and mass production of autonomous humanoid robots to meet needs in industry, services and personal assistance."
+    publishedDateTime: 2023-11-09T02:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/11/09/china-aims-to-mass-produce-humanoid-robots-by-2027"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/11/09/2379756.jpg"
+        width: 1240
+        height: 531
+        isCached: true
   - title: "China Ministry Pushes for Humanoid Robot Mass Production by 2025 and $100+ Billion Market by 2030"
     excerpt: "Guiding Opinions on the Innovation and Development of Humanoid Robots Humanoid robots integrate advanced technologies such as artificial intelligence, high-end manufacturing, and new materials. They are expected to become disruptive products after ..."
     publishedDateTime: 2023-11-06T21:39:00Z

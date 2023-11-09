@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "China aims to mass-produce humanoid robots by 2027"
+    excerpt: "The Chinese government has announced its intention to accelerate the design and mass production of autonomous humanoid robots to meet needs in industry, services and personal assistance."
+    publishedDateTime: 2023-11-09T02:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/11/09/china-aims-to-mass-produce-humanoid-robots-by-2027"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/11/09/2379756.jpg"
+        width: 1240
+        height: 531
+        isCached: true
 
 secured: "sBYNOONNlIfPNCkDcMn17iuYIDoKzLfVX4Lj5RcAE/1JYGCUzn2WPIw9Pb1tQg3/kBPRMQ7xv3G47Pt7QpAVqV583VqSKEvs9iZ8VCS5cQt4hrz2YrJkvPL5SVm5fw3kQN5lroJTFa4Z/lGxcr4zgIE7PRz4srvkpTines9zqoBYTJ8fl6lmVL1pbF+nN1LoekN7Su22pnz5QUXR+G57wn2vQAKVgRA/aOnxerMF39XMcebBp0BkgwPLkkp/lrc+tiSXD+VX+0NDh9ATXHwuBDrEGsex6vTG64GDlHduRpvfQ5RsL2mfPi2gnrqVqKgQaduwHFXVAbFIDEBHP4fs4GqTYSxT1HTlFIiGEtF7weY=;aFWRbpXvDJP9f7xCZtOvKA=="
 ---

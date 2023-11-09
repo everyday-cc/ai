@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Meta to start labeling political ads with AI-generated images ahead of 2024 election"
+    excerpt: "Facebook and Instagram will require political ads on their platforms to disclose if they were created with artificial intelligence so they can be labeled as such, Meta, the parent company"
+    publishedDateTime: 2023-11-09T01:00:00Z
+    webUrl: "https://www.ktbs.com/news/meta-to-start-labeling-political-ads-with-ai-generated-images-ahead-of-2024-election/article_d7563508-7e8a-11ee-888e-3f8f931be595.html"
+    type: article
+    provider:
+      name: KTBS
+      domain: ktbs.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/ktbs.com/content/tncms/assets/v3/editorial/0/15/0154ceb4-7e8b-11ee-8519-4316d0045004/654c13c562d6a.image.jpg?crop=800%2C420%2C0%2C14&resize=800%2C420&order=crop%2Cresize"
+        width: 800
+        height: 420
+        isCached: true
   - title: "Meta grapples with AI in campaign ads"
     excerpt: "Meta, the parent company of Facebook and Instagram, will require political advertisers to disclose the use of artificial intelligence (AI) or other digital methods starting next year. The update, announced Wednesday morning, comes amid a rise in generative ..."
     publishedDateTime: 2023-11-08T20:40:00Z

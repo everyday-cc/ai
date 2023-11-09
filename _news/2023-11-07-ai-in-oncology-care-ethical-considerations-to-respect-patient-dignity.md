@@ -9,7 +9,7 @@ ampWebUrl: "https://www.labroots.com/trending/cancer/26178/ai-oncology-care-ethi
 cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity/amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: TheCable
       domain: thecable.ng
     quality: 36
-  - title: "Oncology Researchers Raise Ethics Concerns Posed By Patient-Facing AI"
-    excerpt: "Patients with cancer are increasingly likely to find themselves interacting with artificial intelligence technologies to sched"
-    publishedDateTime: 2023-11-04T08:47:00Z
-    webUrl: "https://menafn.com/1107370616/Oncology-Researchers-Raise-Ethics-Concerns-Posed-By-Patient-Facing-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
 
 secured: "sMumXTIDGVeIXUDxQ9vGRksvS2qIGDfB+5BsVOxNAIM/In1qw/mtR3fYKSo5X0XmPLhNhadqMN5TFdkzS3U6rquxQDdGSrUJONvAsba3w1YReFLoW20OWoWKO4c4puUFXIeD8PuHofVVS9pMx7oX2i2S04nDaM6yKcZH5zfzTXwi2U2gWqARAxUKJFiOoZ+Izf/Gd4ZsJ+bhU4l+cJnU011vB8gnHkGfqHsqOtH/UXf0PJQpihJPoylC1aKay/jvbQNlLwW1PzRqYwZSsXKHlDHndxAmuSs3Z7fCrp1JyZl+Sm1ulI7v7ZB0RKBk8JxgXgXEpB6DxZm21urskuA4rBlYDx9ng8kQVfwyIbVcaNHTZ7GYgPDKrXloqD7x+G+SW7/CIGsZYlcWHv/Yo9G8SCOGmt3EXlJ3up8Z5YGllYqzGNc43WPtkRZ9yYrwEN1TrQ55l+WgiCi/18FBT9jseAQx7PhbncLqeGqGWLduxE7adlqn2kZ107/zZjI7uGDVP3eMoDICH2/JoGW50jS6UA==;rX/jauBLQuo/9QtFRTW2Qg=="
 ---

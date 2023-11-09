@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-giv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/amp/"
 type: article
 quality: 121
-heat: 292
+heat: 302
 published: true
 
 provider:
@@ -151,6 +151,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/azure.jpg"
         width: 960
         height: 542
+        isCached: true
+  - title: "Microsoft Stock's Next Act: Betting On AI To Regain Tech Leadership – Investor's Business Daily"
+    excerpt: "Microsoft is plowing billions of dollars into artificial intelligence, investments that could fuel the next growth chapter at the company. (© Chris Gash) Microsoft (MSFT) blazed the trail for tech when Windows and Internet Explorer emerged as critical tools of the web revolution 30 years ago."
+    publishedDateTime: 2023-11-09T00:54:00Z
+    webUrl: "https://www.inferse.com/788925/microsoft-stocks-next-act-betting-on-ai-to-regain-tech-leadership-investors-business-daily/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 42
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-5707.png"
+        width: 1000
+        height: 562
         isCached: true
   - title: "Microsoft Vet Takes Reins at Curbit"
     excerpt: "He left Microsoft at the beginning of the year and worked for a few months with Curbit, which is built on Azure, to provide guidance on business scaling, then stepped in as its chief executive in September. As Curbit’s AI and machine learning systems ..."

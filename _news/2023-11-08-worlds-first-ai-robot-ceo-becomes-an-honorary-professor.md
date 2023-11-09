@@ -7,7 +7,7 @@ originalUrl: "https://www.tiogapublishing.com/news/nation/world-s-first-ai-robot
 webUrl: "https://www.tiogapublishing.com/news/nation/world-s-first-ai-robot-ceo-becomes-an-honorary-professor/article_a2a8c5f2-fe04-540c-8618-b3a8f695126e.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fox News AI Newsletter: The first robot CEO"
+    excerpt: "Welcome to Fox News’ Artificial Intelligence newsletter with the latest AI technology advancements. Subscribe now to get the Fox News Artificial Intelligence Newsletter in your inbox. BOT BOSS: Global company appoints world’s first AI robot CEO."
+    publishedDateTime: 2023-11-09T00:55:00Z
+    webUrl: "https://wfin.com/fox-technology-news/fox-news-ai-newsletter-the-first-robot-ceo/"
+    type: article
+    provider:
+      name: WFIN
+      domain: wfin.com
+    quality: 54
+    images:
+      - url: "https://cdn.tegna-media.com/wtol/weather/PlanAhead.jpg"
+        width: 864
+        height: 486
+        isCached: true
   - title: "World’s first AI robot CEO becomes an honorary professor"
     excerpt: "This first human-like robot, with AI, in a company structure, will change the world as we know it, forever.\" Dictador added: \"Leveraging advanced artificial intelligence capabilities, her role as an AI CEO at Dictador has revolutionized corporate leadership."
     publishedDateTime: 2023-11-08T16:22:00Z

@@ -36,15 +36,6 @@ related:
         width: 1280
         height: 854
         isCached: true
-  - title: "Oncology Researchers Raise Ethics Concerns Posed By Patient-Facing AI"
-    excerpt: "Patients with cancer are increasingly likely to find themselves interacting with artificial intelligence technologies to sched"
-    publishedDateTime: 2023-11-04T08:47:00Z
-    webUrl: "https://menafn.com/1107370616/Oncology-Researchers-Raise-Ethics-Concerns-Posed-By-Patient-Facing-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
 
 secured: "T4Ja7lAj4Cgn30v1ZX+SGvJLJ9+Xf+6P6kNtVCqToMiYsxo8M/v+5VtZgDpTW/mLBQqzYw6A4fnSdp08moidefgWJW+itQ+YzGs682n/6C2j5pH6RZU7nxk0sSkCE/gNoipubTcc/R3BzOuIZi8KPiphMBEUI/S0i6UoS3OP9ayDgThkHsZaHPNrKcm8F1rqx1bZH7EbsLH7LyaivH0QYqJDAMDnyYEh0CBLy+O1cdEkx/l0wmSVZFuWrqtE08mLw3xD42mw2pICNNFGKG1ajb0OfadLq9CflcUTbZ67M3EZV8y0wsxTmD93EXAY1jya9+t4c+M77rCuZhrAoLbrF40FAObJkFq5IV7XMLR6a0c=;5Rgj35Va+TIbObLV9xKp4A=="
 ---

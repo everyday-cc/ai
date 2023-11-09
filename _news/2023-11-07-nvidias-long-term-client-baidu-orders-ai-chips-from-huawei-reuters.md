@@ -115,6 +115,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Baidu turns from NVIDIA AI GPUs, begins ordering Huawei's AI chips after US sanctions"
+    excerpt: "Baidu has just placed orders for new AI GPUs with Huawei, shifting away from using NVIDIA AI GPUs after US sanctions put a noose around China's AI neck."
+    publishedDateTime: 2023-11-09T01:28:00Z
+    webUrl: "https://www.tweaktown.com/news/94257/baidu-turns-from-nvidia-ai-gpus-begins-ordering-huaweis-chips-after-us-sanctions/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 62
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94257_606_baidu-turns-from-nvidia-ai-gpus-begins-ordering-huaweis-chips-after-us-sanctions_full.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "360 buys Huawei's AI chips as alternative to Nvidia"
     excerpt: "Chinese cybersecurity company 360 Security Group has purchased about 1,000 artificial intelligence chips from Huawei Technologies Co, the latest proof that more Chinese companies are embracing homegrown AI chips amid the US government's chip export restrictions to China."
     publishedDateTime: 2023-11-08T14:26:00Z

@@ -161,6 +161,20 @@ related:
         width: 960
         height: 542
         isCached: true
+  - title: "Microsoft Stock's Next Act: Betting On AI To Regain Tech Leadership – Investor's Business Daily"
+    excerpt: "Microsoft is plowing billions of dollars into artificial intelligence, investments that could fuel the next growth chapter at the company. (© Chris Gash) Microsoft (MSFT) blazed the trail for tech when Windows and Internet Explorer emerged as critical tools of the web revolution 30 years ago."
+    publishedDateTime: 2023-11-09T00:54:00Z
+    webUrl: "https://www.inferse.com/788925/microsoft-stocks-next-act-betting-on-ai-to-regain-tech-leadership-investors-business-daily/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 42
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-5707.png"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "How a small city in Iowa became an epicenter for advancing AI – Microsoft"
     excerpt: "Microsoft has been powering the future of AI from a cluster of datacenters located amidst sprawling farmlands and rural roads in"
     publishedDateTime: 2023-11-06T03:24:00Z

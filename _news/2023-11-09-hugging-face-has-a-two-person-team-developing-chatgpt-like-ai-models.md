@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Samsung Teases Its Own ChatGPT-Like AI for Galaxy Devices"
+    excerpt: "A new feature called AI Live Translate Call will enable those with the \"latest Galaxy ... where requests must be sent up to and return from server farms running generative AI and language learning models. Qualcomm has been a cheerleader for on-device ..."
+    publishedDateTime: 2023-11-09T02:50:00Z
+    webUrl: "https://www.cnet.com/tech/mobile/samsung-teases-its-own-chatgpt-like-ai-for-galaxy-devices/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 73
+    images:
+      - url: "https://www.cnet.com/a/img/resize/0a0377e2d3cd3deafd01782758e13a0b5f46fcb2/hub/2023/02/16/0be0d106-3c8c-404e-b8dd-5fce3561ceac/samsung-galaxy-s23-s23-plus-14.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon Aims to One Up ChatGPT With 'Olympus' AI"
     excerpt: "According to internal sources, Amazon is working on a new AI dubbed 'Olympus.' Little is known about it besides a large goal of doubling ChatGPT's 1 trillion parameters."
     publishedDateTime: 2023-11-08T17:30:00Z

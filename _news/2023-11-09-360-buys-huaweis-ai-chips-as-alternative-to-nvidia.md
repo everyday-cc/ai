@@ -115,6 +115,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Baidu turns from NVIDIA AI GPUs, begins ordering Huawei's AI chips after US sanctions"
+    excerpt: "Baidu has just placed orders for new AI GPUs with Huawei, shifting away from using NVIDIA AI GPUs after US sanctions put a noose around China's AI neck."
+    publishedDateTime: 2023-11-09T01:28:00Z
+    webUrl: "https://www.tweaktown.com/news/94257/baidu-turns-from-nvidia-ai-gpus-begins-ordering-huaweis-chips-after-us-sanctions/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 62
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94257_606_baidu-turns-from-nvidia-ai-gpus-begins-ordering-huaweis-chips-after-us-sanctions_full.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Nvidia's long-term client Baidu orders AI chips from Huawei - Reuters"
     excerpt: "Baidu (NASDAQ: BIDU ), one of China's leading AI companies, ordered 1,600 of Huawei Technologies' 910B Ascend AI chips in August, according to Reuters. These chips, developed by Huawei as an alternative to Nvidia's (NASDAQ: NVDA ) A100 chip, were ordered for 200 servers."
     publishedDateTime: 2023-11-07T12:06:00Z
@@ -209,6 +223,6 @@ related:
       domain: channelnewsasia.com
     quality: 33
 
-secured: "jEG7hbDWFAEz5KV4LcOl4z51TzTj4Zw0HWSYCRzHY/O+/mUREDQoLoeBOj5rAblPyk36at2fQiI+RNbCpyn4oliFVe2r/4oC+wysqxIr5d193MkUcapFrps57V3Rw1Z+b49XxQlXP4gi6BN4glHm7E5cma5NmgUprpyZ/XZAmPOhkuqJh+L8chFVI46fVG047yK1eovkBXg5A+iNcKi/1kBoMRH0cuLnO0mFRacWL5t9qZ43jCdYsxLJHekX1WHucea514HCuIGvbOKu43iZ+K+SBik6EvOX1NUskPnnxjsSv1YVLypczyMX2yQjdre8ucH6ujN5s+lUawMfNgedBHZD+YG8VMAhuI0hYDZuTlE=;Igs6ZhKIznfih1vh+50KVA=="
+secured: "IRJfzKsv4QmlCmtiLUDz8OacnX/NWt7gfd76ct+dp9zZTQPStYFnCucnqszfBS1p1kNQuNISwimFnInfbRfqynbaPT9NegwP0r7sIxKtbMmKa1t5KzkJO5G85EED/1oUpOBy9PoyJmPXqVhFaQEN6hjFVRDjDGLt+JW0c6sx33fZcUdZn6/Yenj2muCLjc2g1l0Nqko0ubzIPT+KrrVm3galsrZYALqCwZ+NmUUqE8XZYnK7ya/MKR/KxYKG8vCwWGZ5E++Ir0bz15K1N2rKsH6bnUWqgniXFQpsQa8XMeu6CBcvr6YtTcV0kgkU0IvHExt+orwxuxUfgUKN1lsGzi+8WNc24EJ+N9HIRJ0aNP2Qen6jq2Fen3yYQwWKhsrnMUb13+cd8u6sGxs146TPGC6WAhDeptOTRuI5l+kcS6AMDK27yHNqouggllCFnzbLvVeLvbLNuJnEeNqfnCGYByma8oz1MrMwpjcCP8Fv3Mr9O2ni0/s+5H+FHGURjQTqo0r8ePgkSdCGUtP1KTwzAw==;9gsRHNCdSiKaw9a4uzM1MQ=="
 ---
 

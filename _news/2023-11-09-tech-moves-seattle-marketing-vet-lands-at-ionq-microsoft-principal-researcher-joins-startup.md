@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2023/tech-moves-seattle-marketing-vet-lan
 webUrl: "https://www.geekwire.com/2023/tech-moves-seattle-marketing-vet-lands-at-ionq-microsoft-principal-researcher-joins-startup/"
 type: article
 quality: 75
-heat: 85
+heat: 86
 published: true
 
 provider:

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fox News AI Newsletter: The first robot CEO"
+    excerpt: "Welcome to Fox News’ Artificial Intelligence newsletter with the latest AI technology advancements. Subscribe now to get the Fox News Artificial Intelligence Newsletter in your inbox. BOT BOSS: Global company appoints world’s first AI robot CEO."
+    publishedDateTime: 2023-11-09T00:55:00Z
+    webUrl: "https://wfin.com/fox-technology-news/fox-news-ai-newsletter-the-first-robot-ceo/"
+    type: article
+    provider:
+      name: WFIN
+      domain: wfin.com
+    quality: 54
+    images:
+      - url: "https://cdn.tegna-media.com/wtol/weather/PlanAhead.jpg"
+        width: 864
+        height: 486
+        isCached: true
   - title: "Meet ‘Mika,’ the world’s first AI human-like robot CEO"
     excerpt: "Mika is a research project between Hanson Robotics and Polish rum company Dictador, who customized the CEO to represent the company and its unique values."
     publishedDateTime: 2023-11-07T17:35:00Z
