@@ -73,15 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Conversational AI Bot: Revolutionizing Customer Interactions"
-    excerpt: "In today’s fast-paced business world, customer interactions have evolved significantly. Gone are the days when customers had to navigate through a maze of options, pressing buttons on their phones or waiting for email responses."
-    publishedDateTime: 2023-11-04T18:45:00Z
-    webUrl: "https://techbullion.com/conversational-ai-bot-revolutionizing-customer-interactions/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
   - title: "Google SGE expands to 120 countries while adding new follow-up questions, AI translation help and more definitions"
     excerpt: "The generative AI version of Google Search, Google Search Generative Experience, is now rolling out to over 120 countries and territories. Google also added new ways to follow up with AI-generated search answers, new AI translation help, and additional AI-powered definitions."
     publishedDateTime: 2023-11-08T18:16:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/plus/the-business-reporter/technology-hub/
 webUrl: "https://www.reuters.com/plus/the-business-reporter/technology-hub/disrupting-centralised-structures-of-digital-economy-using-ai-and-blockchain"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 730
         height: 360
         isCached: true
+  - title: "Structural health monitoring optimised using AR, AI and computer vision"
+    excerpt: "Researchers from the University of Central Florida have introduced new technologies that aim to enhance the monitoring of structural health, bolstering public safety and safeguarding against disasters."
+    publishedDateTime: 2023-11-09T12:49:00Z
+    webUrl: "https://www.imveurope.com/article/structural-health-monitoring-optimised-using-ar-ai-computer-vision"
+    type: article
+    provider:
+      name: imveurope.com
+      domain: imveurope.com
+    quality: 34
 
 secured: "rV7dd48M0pBHbLX5x4m94eu1r6gA1+b1kn1pLwlcg6RBAh8SsGTn8nj/0I/+jRp5ffiYLLPq7GQEuNARC3wz7iT2ky1N7EhvWhZRu2htyQ1vZDsXTzbsK7ruPICwBtccXyOVBBoOViGktTAuoP5oNJFRvi+Dxeb/GmCMRJiI2MyUsirMvd4c/nBZ5SMga8b9MNrSS38tGJPVeZ4yVFVVRLMXBB1Fg55bKJtEqgd6rht3xgqOUVTaG5ywlZQf+l7oDeNIuHDFMtAKHef4maV+cJYfCvAqFyYHvZWYZTN7pkmdbFcl5TUG6Qko83IbyEfR657P8p3u/VyDBc3WbnUAb8uk1MrpKXYNnDWZfqNigaIBJQ6ZWOPR2v7nCWA2Rs0G3TzJR44Qo3o8FSRoUSAHQwQrtDPDX0UYWlViCOv0LVvKWYJrMMmXeZ70es3YMJhyY7WZcAEIb4ttKvUv56IFvg81KrTvEFrsragrMcKTcpx2C/ExkAcrNH9dmrSab36tI9Ima/6PwQ0+ag+D3UBBVw==;VINJbckCPwhDCxLEdOV2Pw=="
 ---

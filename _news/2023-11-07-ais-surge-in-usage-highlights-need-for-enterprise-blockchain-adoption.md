@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Structural health monitoring optimised using AR, AI and computer vision"
+    excerpt: "Researchers from the University of Central Florida have introduced new technologies that aim to enhance the monitoring of structural health, bolstering public safety and safeguarding against disasters."
+    publishedDateTime: 2023-11-09T12:49:00Z
+    webUrl: "https://www.imveurope.com/article/structural-health-monitoring-optimised-using-ar-ai-computer-vision"
+    type: article
+    provider:
+      name: imveurope.com
+      domain: imveurope.com
+    quality: 34
 
 secured: "rFFAOqr8jTJ1IGNypOReO5GQeBEqUW7aDKYRU2bjKVBDnTbMl4gA7hq4+cR7Tw42/+6fhiTNF9TX8UeZ9ppH42AhdBPZ4o8u/59mfGuWCpCyGzVTKnxXsNGTI6d5BnkDhuSkEms/ujWCzZ592UGH/hjimFVRCkoKJrrB57Tbr95liOlUn4KElQ/TzKNFIsI1W6it5St9XTJo09XsRQ5JR05GVDa28SQ1yU47P/07Pxc0h5f+Ic8paMWvo1Ha0FvC9u5JBAwPcp3z/wsiLGVIKNE6/QLsWrmMPvOITadYRhf9047+G+w5i1RYlGQ98/NAtbdvmiI6ZbP1cfuCrADF1Um+jdrveBcxPkScICueK3/Yr1oTHc4PiCkSX2Lv++SiQm118GiLqZVzzyOKB8B9Mg2UUM/G+Ten6xyySEub4kuJXMwfxG28bLtGvfATmSRVnPA5a4q54NfeWuJatrEvDkXOj1gE511sFZvW4I9PHV2QKzIQgBY40fAX3w+sY9WhYj8ZZVgz3ySo4BFZ0YQCug==;qImtsDoaJ1TfRFpybScKUQ=="
 ---

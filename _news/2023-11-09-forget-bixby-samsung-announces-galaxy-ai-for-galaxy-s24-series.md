@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Samsung’s AI game on the move: Announced Live Call Translate for the Galaxy S24"
+    excerpt: "Samsung has set foot in the competition of generative AI and announced Galaxy AI which could be incorporated in the upcoming Samsung devices."
+    publishedDateTime: 2023-11-09T12:13:00Z
+    webUrl: "https://www.digit.in/news/general/samsungs-ai-game-on-the-move-announced-live-call-translate-for-the-galaxy-s24.html"
+    ampWebUrl: "https://www.digit.in/news/general/samsungs-ai-game-on-the-move-announced-live-call-translate-for-the-galaxy-s24.html/amp/"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/news/general/samsungs-ai-game-on-the-move-announced-live-call-translate-for-the-galaxy-s24.html/amp/"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 70
+    images:
+      - url: "https://static.digit.in/Mustafa_News-2023-11-09T174147194.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Samsung announces \"a new era of Galaxy AI\", starting with AI Live Translate Call"
     excerpt: "The teaser campaign for the Galaxy S24 series has pretty much started in earnest now. AI is the buzzword of the year for sure (thanks, ChatGPT!)"
     publishedDateTime: 2023-11-08T23:02:00Z
@@ -74,6 +90,22 @@ related:
       - url: "https://fdn.gsmarena.com/imgroot/news/23/11/galaxy-ai/-1220x526/gsmarena_000.jpg"
         width: 1220
         height: 526
+        isCached: true
+  - title: "Samsung unveils Galaxy AI, a new mobile AI experience that includes ‘AI Live Translate Call’ feature"
+    excerpt: "Galaxy AI is Samsung’s latest innovation that will leverage both on-device and cloud-based AI to \"empower everyone, everywhere.\""
+    publishedDateTime: 2023-11-09T11:09:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/samsung-unveils-galaxy-ai-9020318/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/samsung-unveils-galaxy-ai-9020318/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/samsung-unveils-galaxy-ai-9020318/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2023/11/AI-Live-Translate-Call-samsung-featured.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Samsung unveils Gauss - its own generative AI that's coming to the Galaxy S24"
     excerpt: "It features Language, Code, and Image models. Samsung announced its own generative AI model, called Gauss. The on-device AI model consists of Samsung"
@@ -149,6 +181,20 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Samsung Galaxy S24 could get AI-driven real-time call translation"
+    excerpt: "Samsung says that “AI Live Translate Call” will be part of the new Galaxy AI package, providing real-time translation in both audio and text via a chat log during calls. The South Korean firm claims the system will be “as simple as turning on closed captions when you stream a show”."
+    publishedDateTime: 2023-11-09T10:50:00Z
+    webUrl: "https://www.t3.com/news/samsung-galaxy-s24-could-get-ai-driven-real-time-call-translation"
+    type: article
+    provider:
+      name: T3
+      domain: t3.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ViviXjHEPhRTWooTZZFqLc-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Galaxy S24 AI will reportedly be called Samsung Gauss — here’s what it will do"
     excerpt: "Google, Apple, Microsoft, and Amazon have shown us this year how generative AI will be complementing their different devices, but now it appears as though Samsung will bring its own generative AI into the Galaxy S24 when the new flagship phones arrive next year."
     publishedDateTime: 2023-11-08T17:49:00Z
@@ -177,6 +223,15 @@ related:
         width: 1024
         height: 614
         isCached: true
+  - title: "Samsung teases on-phone AI that will live translate phone calls"
+    excerpt: "Samsung concentrates on one function in particular in the release by way of showing off its capabilities – AI Live Translate Call. Those with compatible Galaxy phones will be able to enable audio and text language translations in real-time during phone calls. Essentially, it sounds like the Universal Translator from Star Trek."
+    publishedDateTime: 2023-11-09T12:13:00Z
+    webUrl: "https://telecoms.com/524755/samsung-teases-on-phone-ai-that-will-live-translate-phone-calls/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 34
   - title: "Samsung announces Galaxy AI and upcoming on-device phone call live translation feature"
     excerpt: "At the forefront of Galaxy AI's transformative features is AI Live Translate Call, a groundbreaking innovation that seamlessly integrates real-time audio and text translation into"
     publishedDateTime: 2023-11-08T22:03:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/generative-ai-task-forces-what-are-they
 webUrl: "https://venturebeat.com/ai/generative-ai-task-forces-what-are-they-and-should-you-start-one/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: VentureBeat
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 695
     isCached: true
-
-related:
-  - title: "Unveiling the Pulse of AI in Language Services: SAFE-AI Task Force Launches Pivotal Perception Survey"
-    excerpt: "Global discussions underscore the urgency of a collaborative approach towards navigating the frontier AI landscape. The Perception Survey by the SAFE-AI Task Force aligns with this international momentum, aiming to foster a comprehensive dialogue around AI ethics and safety in the domain of language interpretation."
-    publishedDateTime: 2023-11-08T18:24:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/274026386/unveiling-the-pulse-of-ai-in-language-services-safe-ai-task-force-launches-pivotal-perception-survey"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 26
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1699242668411.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "WsPGw98B6TWJzWdmAbQLkeqEeG0FFst8cr8KTdvXzuFTQNZ3vEzT7QUjLyecngAFNmRWiSPK0LblGbkaxlxq8wVm9ED492K+jijMaz67Cbeko/bbFgtDgebqHpubJkSo5oNuldbpkNxiX7sDxxneyAnF4m8sx+6W7+LVLWSxmDEpz7Nj3KGhqFQHjqHswr78kmiPUKpId/CrEB+uz8sMZjJ5GsFOyFfrSlXO+SmyJwb89NULP78xTEbqHPFz1X2IsTyq4rTxFfsO/43/YgDag5u+ME5z5cX5ndpGe3o83+4rW9GBT1SX233fHFoCu5h9Ymp5oitecRAPRxHmoqcpMXC+l0jMs4TlNNGVFBgun5kiL7dwsPpw4CqoYqX8cDC+fOpYwUzjEcj8kPNcWeLo+OSihmdlu89v6xydEu6De+xwLImlu9z7RsXs9eSq8vaPUthnS4nCk85ftwIxB3aPV/Te7pRLx81/AFrEYTSnla07mTbtp71Epz8JIGnUfcFTr3hBwiZghKVZO6Paxf+Rfg==;Do00xJkszaEdh9PuMDIpnw=="
 ---

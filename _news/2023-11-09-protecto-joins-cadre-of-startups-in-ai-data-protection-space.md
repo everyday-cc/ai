@@ -40,6 +40,22 @@ related:
         width: 936
         height: 524
         isCached: true
+  - title: "Rubrik launches AI-based cyber security system for quick detection of threats, recovery and resilience"
+    excerpt: "Read more about Rubrik launches AI-based cyber security system for quick detection of threats, recovery and resilience on Devdiscourse"
+    publishedDateTime: 2023-11-09T11:41:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2708554-rubrik-launches-ai-based-cyber-security-system-for-quick-detection-of-threats-recovery-and-resilience"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2708554-rubrik-launches-ai-based-cyber-security-system-for-quick-detection-of-threats-recovery-and-resilience?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2708554-rubrik-launches-ai-based-cyber-security-system-for-quick-detection-of-threats-recovery-and-resilience?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 60
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_17_7363597.jpg?width=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Introducing the First True Cloud Platform for Cyber Resilience in the Hybrid Enterprise: The Commvault Cloud, Powered by Metallic AI"
     excerpt: "Advancing Cyber Resilience and Data Intelligence with AI and Commvault Cloud Commvault is introducing innovations that can help customers realize the full benefits of AI and improve cyber resilience. And, unlike others that use AI to simply generate content, Commvault is using AI in a way that can help customers take action. Here is how it works."
     publishedDateTime: 2023-11-08T15:35:00Z

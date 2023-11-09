@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How Apple's thinking about AI spending and deployment differs from Big Tech rivals"
-    excerpt: "How Apple's thinking about AI spending and deployment differs from Big Tech rivals: Summary Apple's approach to AI spending and deployment sets it apart from its big tech rivals."
-    publishedDateTime: 2023-11-04T18:46:00Z
-    webUrl: "https://www.semiconductorpackagingnews.com/news/83812.html"
-    type: article
-    provider:
-      name: Semiconductor Packaging News
-      domain: semiconductorpackagingnews.com
-    quality: 13
 
 secured: "4aHSj2h+3URxWov37xf9dv8CriDH8zW1FKg8nVTno/GkKYzsoiUs8+JpEX6vGy52jePk4Qk6TCcchijy2N0tXohoCrLevbxLhQ/qIWAOr4XEOd0aL5MEhk8iw3IhZe1PytPAYW1vI4OFOd08U1c5n2omsHhh/uVGFShwHix7sI9KqhUOpERWobNbJ/cL2nZilexcxpWeaupUoN0G70CIa0PTWjTJ81oCA2N4PTTWVDc9TOpPObl0/ZLE1LLXbyn9dI0sKQjZmWqPYpR3eWHtrpJDUYqLrpSQuvVIv0GbBsJfLCDyLTh1JRLikFF1UW6TCT3g2FNuCDTnOY0DJvdbHtEXR0EflVg1HXCDH84zDAc=;6/zwB6aqVUzLulM9l0+qBA=="
 ---

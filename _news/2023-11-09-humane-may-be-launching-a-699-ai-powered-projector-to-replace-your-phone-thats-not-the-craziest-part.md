@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/humane-may-be-launching-a-6
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Last-minute leak says Humane Ai Pin is basically a $699 smartphone without a display"
+    excerpt: "The AI powering the Pin will let you write messages that sound like you. It’ll also summarize your inbox, a demo that we saw from Humane earlier this year. The Pin can translate languages, identify food items, and then provide nutritional information."
+    publishedDateTime: 2023-11-09T11:49:00Z
+    webUrl: "https://bgr.com/tech/a-last-minute-humane-ai-pin-leak-says-the-699-wearable-is-essentially-a-smartphone-without-a-display/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 32
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/10/humane-ai-pin-time.jpg?quality=82&strip=all"
+        width: 1599
+        height: 1066
+        isCached: true
 
 secured: "PAVdsIxe+UaNLFS3mFejQw4mj0sc3wh7jUQm/21GvRcSez3BhCVvMGM+4tiPnCubx0fx1RmUvW1sYmUj5yHyEe6hRukyG69/+wdegWbW0L0BLeMAKvQxgoM/EsSCBHu8JZV98YbB5wFHT2bH3C5GQWgsiWS2qJe4ol2TXUv72HZiDFHL33CYC29MQdVyPHEYdCcZ9qFV3j7lmaOYdNWgjFnUs1sxejnuiOhtFwg6jNJMFMKipPsHQ4pfVRrTMiZexKuRcAa7/9n6q4sENT1zryWti2rYrWws+cGuvPRWnapoXknv49JiT/tYOqcxy/Iesm8axxmpG4my7PyneNq7m1owcaD7t34mxkG61UmPn6k=;OXm2WhRy40ilsPeX2vRdEg=="
 ---

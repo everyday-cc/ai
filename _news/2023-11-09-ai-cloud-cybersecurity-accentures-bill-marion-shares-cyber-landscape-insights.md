@@ -7,7 +7,7 @@ originalUrl: "https://www.govconwire.com/2023/11/ai-cloud-and-cybersecurity-acce
 webUrl: "https://www.govconwire.com/2023/11/ai-cloud-and-cybersecurity-accentures-bill-marion-shares-cyber-landscape-insights/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Permanence Of AI In Cybersecurity: Why This Trend Is Here To Stay"
+    excerpt: "AI-powered technologies have emerged as a powerful force in enhancing various aspects of cybersecurity, offering innovative solutions to combat rising threats."
+    publishedDateTime: 2023-11-09T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f92ffb450c4342ded414515/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1575
+        height: 900
+        isCached: true
   - title: "Fulbright Scholar Discusses the Duality of AI in Cybersecurity in School of Continuing Studies Seminar"
     excerpt: "The Georgetown School of Continuing Studies (SCS) hosted Gayan Benedict, the Chief Technology Office of Salesforce Australia and New Zealand and Fulbright Scholar at the Georgetown University Cyber SMART research collaborative,"
     publishedDateTime: 2023-11-06T00:07:00Z
@@ -35,6 +51,6 @@ related:
       domain: thehoya.com
     quality: 3
 
-secured: "q+LQj7rcHyyL8wUKg8XseNqszVfZoa3A9nSVeLjyRJjAWPlLCBIbmWLO/0c2CRXstLGSJ0A/+GmQBPpmgCXTtNPpxXYI/FoXIs8/MY3HhEqIjDYSdBgemsfts6culAgzaaFeAlTrw18p4PKJcSgsAO0mXQkxWes59NoaCPdvs8BwwAlS8tylV1ZqMiDCJ8Hi6NLm4hz/uXHlg27bQVSrsYuqqFNB2oNGXbctWx1rVK1mKwmTkv503LBkcalUT7eId1HAyI49P3Dt4iZKFosx3vnm/UJYXDLQrNrFwaZEB1RlrUDqJF+DTxaLNDT9lU/RWO0gg5nqv/+4OEYOoEluSbhJRX1kf52iEHr7TNMyMfA=;n3Ceb5cRt5uYxdH+LD5eDA=="
+secured: "ulfO9w9dg5LPbgxWGTdvxTcLBGGhSlOF4oUo7AQnFLPW7JUDLz9COEXx1NxKbCQQczx5LvUIz5gcj/GOOlzzNzW6SwznV/DPDHCbT43BcsSAarHDirCyMI6Fqdbe/Y+eLlE0kL6mqtjs8m6s067TIWYiEkGgSJrPX7Nc8sa86IyDSixv4Aqni9ooAvnRDmpAHyV0Y02efosMb5b5MuWO71emKG9Yk0HPub4ro6AMkopkmIbGFOIJKM90+Acl4rswFPAA0CMf1LXJwK8FNU+fgwPEnKN9TlyNTST1AfGhd4cy6lTgp90X/lPd/+0Vkhty3T/YXwPzcR/tT0cwKOiZ4Bei2Pei/h6itQRdvYdPvU1WbHrjDLg6lZvCIVpN0gjKGABvFbPrrGNEc7+uOIrOJrez0dI6WdPZzetzHbzbR/b+7Wz2kqolo/h/deq+FMnJCALUHysHSaKSTaksh5cLdRSfgWEjSHCgmRR6/ZGgJhdgXtH673rE8oIwVUPzD92pGMcb078xiR6goL1DAggZLw==;v5VjLHY11QjRiFrtxWIhOA=="
 ---
 

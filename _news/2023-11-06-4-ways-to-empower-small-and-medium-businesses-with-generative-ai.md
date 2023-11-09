@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/4-ways-to-empower-small-and-medium-busine
 webUrl: "https://www.ibm.com/blog/4-ways-to-empower-small-and-medium-businesses-with-generative-ai/"
 type: article
 quality: 99
-heat: 179
+heat: 209
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "Transforming small farming with open-source, AI-powered connected edge solutions"
+    excerpt: "Edge computing is helping to revolutionize agriculture, and the Linux Foundation is at the forefront of this transformation.\nThe post Transforming small farming with open-source, AI-powered connected edge solutions appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-09T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/transforming-small-farming-with-open-source-ai-powered-connected-edge-solutions/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 94
   - title: "Chinese Smartphone Makers Aim To Beat Apple And Samsung In Generative AI"
     excerpt: "Chinese phone makers, on the other hand, are adopting a different mindset. The likes of Xiaomi, Oppo, Vivo, and Huawei want to “squeeze” generative AI into their newest devices faster than Apple and Samsung because they see it as a chance to turn the tables on their rivals in the highly competitive smartphone market."
     publishedDateTime: 2023-11-07T03:35:00Z
@@ -101,6 +110,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "Google’s AI-Powered Search Generative Experience Expands to Over 120 New Countries and Territories"
+    excerpt: "SGE is also getting support for four new languages and a few new upgrades and features that make the AI-powered search tool more interactive."
+    publishedDateTime: 2023-11-09T10:31:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/google-ai-search-generative-experience-sge-labs-120-countries-rollout-4560461"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/google-ai-search-generative-experience-sge-labs-120-countries-rollout-4560461/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-ai-search-generative-experience-sge-labs-120-countries-rollout-4560461/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 45
+    images:
+      - url: "https://i.gadgets360cdn.com/large/Blog_hero_hVttB6nwidth-1600_1_1699523922212.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Six champions of generative AI innovation"
     excerpt: "Damien Riehl has helped to develop innovative AI-driven technology aimed at three disparate professional groups, in quick succession: musicians; intellectual property litigants; and lawyers."
     publishedDateTime: 2023-11-08T02:01:00Z
@@ -129,6 +154,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "MicroStrategy ONE™ Platform Now Available in AWS Marketplace, Empowering Businesses with AI-Driven Business Intelligence"
+    excerpt: "By bringing together MicroStrategy's powerful generative artificial intelligence (AI) capabilities for business intelligence (BI) and the scalability and reliability of Amazon Web Services (AWS), customers can now access a ready solution for deploying ..."
+    publishedDateTime: 2023-11-07T19:18:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231107452958/en/MicroStrategy-ONE™-Platform-Now-Available-in-AWS-Marketplace-Empowering-Businesses-with-AI-Driven-Business-Intelligence"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
 
 secured: "QV939sGjEzv9KJ8OWyrRSRCOf0+40ngZLm/kxwjxWO9Br+LdjPKRhrTrOfXbP6QaAuyzr1+zrGtJC6D1c4iifd8k5Who5tmBUk37kiEt8rmhHK7ARnjF7yFESuukdhJjAMg+nqL0jl7BCu4o8wxB2iq99yjZVpFDNK4gosOd69OFh6nGEvwmLsmsNvN9Fy/21vxipV/pqskpDzOjg4XGMciwAGQDXzTi4wMqpXauruB23aiFi8dW+xUvIAnDVx5GzdEO//elPLzk1UEs0dCv4bVbYbmB7ZBz5ed5raWI4l5Vxar4UFEmcW8GHGcihYPVxUcXWSHVB8xPBR39VgymcKoZtLG/a4Fswl6/Up0RXbg=;5cV52D/l2kWGfkrPorGQKg=="
 ---

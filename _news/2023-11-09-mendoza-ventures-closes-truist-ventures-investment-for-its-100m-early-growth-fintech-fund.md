@@ -22,6 +22,22 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Truist invests in Mendoza Venture's $100 million early-growth fintech fund"
+    excerpt: "Mendoza Ventures, a female and Latinx-founded Fintech, AI, and Cybersecurity Venture Capital firm, has announced that Truist Ventures is investing in its Early Growth Fintech Fund as a limited partner."
+    publishedDateTime: 2023-11-09T11:56:00Z
+    webUrl: "https://www.finextra.com/pressarticle/98723/truist-invests-in-mendoza-ventures-100-million-early-growth-fintech-fund"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 22
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+
 secured: "IXkLoVrIMBbqpaPGNKNl0zd+1BE7Hzhl0KA7fcl2ELpK/tSkCpo0gxo6PpVhk315mgwaSkgat3W0yIAFwAsUOwwOm9hSXVUsfSV4nOn/jREWjjwBBdT5tWCUQluXOyYl8gigAaAF6R5tDFXR0tPVu2rN6wIKOgl7jLTzrZZ04LpCnk2tmiiVFkkgPJ3n/jVpUkKzEidiaH/YjWvbsHXpBa8/LAvJ/l7SIPUtPssQshA/Ovk2GXu59+r8qXTeIaucxJobZLx2yAPrrWDDMJr22hytjWwPr15x8hYHdJP0WQ+SVdxLjODyRKYRXvIn5SLSXuL9aVFOmTJ0R4mz/TxHeIL86uPhHyIFkg6pOVRYyjo=;rSYVEMQOv+RFfSyS1C9XHw=="
 ---
 

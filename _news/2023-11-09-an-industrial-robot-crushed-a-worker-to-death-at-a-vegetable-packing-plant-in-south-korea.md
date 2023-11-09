@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "A robot crushed a man to death after it mistook him for a box of vegetables: reports"
+    excerpt: "A robotic arm used for packing bell peppers lifted a worker and pushed him against a conveyor belt in a South Korean distribution center, killing him."
+    publishedDateTime: 2023-11-09T11:45:00Z
+    webUrl: "https://www.insider.com/robot-crushed-man-death-mistook-him-box-vegetables-south-korea-2023-11"
+    ampWebUrl: "https://www.insider.com/robot-crushed-man-death-mistook-him-box-vegetables-south-korea-2023-11?amp"
+    cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/robot-crushed-man-death-mistook-him-box-vegetables-south-korea-2023-11?amp"
+    type: article
+    provider:
+      name: insider
+      domain: insider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/654cc5ce3cc84b4dfaff365d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Industrial robot crushes worker to death as he checks whether it was working properly"
     excerpt: "Authorities say he was he was grabbed and pressed against a conveyor belt by the machine's robotic arms in a vegetable packing plant."
     publishedDateTime: 2023-11-09T09:28:00Z

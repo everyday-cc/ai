@@ -40,6 +40,20 @@ related:
         width: 900
         height: 631
         isCached: true
+  - title: "Bias in AI: How to Reduce Bias in Facial Recognition Systems"
+    excerpt: "One approach to mitigate bias is by fine-tuning the algorithm to be more sensitive to variations in skin tone and facial features. This often involves retraining the model on a more diverse dataset."
+    publishedDateTime: 2023-11-09T12:14:00Z
+    webUrl: "https://www.gizbot.com/partner-content/bias-in-ai-how-to-reduce-bias-in-facial-recognition-systems-088279.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 54
+    images:
+      - url: "https://www.gizbot.com/img/2023/11/howtoreducebiasinfacialrecognitionsystems2-1699530988.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Bias in AI puts Black Americans in legal peril"
     excerpt: "The AI industry has the civil rights community calling for caution, particularly regarding AI technology and law enforcement."
     publishedDateTime: 2023-11-05T14:48:00Z

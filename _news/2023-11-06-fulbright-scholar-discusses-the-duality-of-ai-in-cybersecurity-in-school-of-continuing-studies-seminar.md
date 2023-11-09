@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "The Permanence Of AI In Cybersecurity: Why This Trend Is Here To Stay"
+    excerpt: "AI-powered technologies have emerged as a powerful force in enhancing various aspects of cybersecurity, offering innovative solutions to combat rising threats."
+    publishedDateTime: 2023-11-09T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f92ffb450c4342ded414515/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1575
+        height: 900
+        isCached: true
   - title: "AI, Cloud & Cybersecurity: Accenture’s Bill Marion Shares Cyber Landscape Insights"
     excerpt: "Prior to joining Accenture, Marion served for 28 years in the U.S. Air Force. During his time with the Air Force, Marion served as the senior Air Force cyber civilian and chief intelligence officer, leading two directorates with a portfolio valued at $17 billion."
     publishedDateTime: 2023-11-09T09:58:00Z

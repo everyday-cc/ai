@@ -42,6 +42,15 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Artificial intelligence may help predict -- possibly prevent -- sudden cardiac death"
+    excerpt: "Predicting sudden cardiac death may be possible using artificial intelligence (AI) to analyze medical information in electronic health records, according to preliminary research. Researchers analyzed electronic health records from 25,"
+    publishedDateTime: 2023-11-09T02:10:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/11/231106134936.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 40
   - title: "Predicting Sudden Cardiac Death Using Artificial Intelligence"
     excerpt: "Preliminary research, set to be presented at the American Heart Association's Resuscitation Science Symposium 2023, suggests that artificial intelligence (AI) could hold the potential for predicting sudden cardiac death and assessing an individual's risk to potentially prevent future fatalities."
     publishedDateTime: 2023-11-07T14:00:00Z

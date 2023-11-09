@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/industrial-robot-crushes-worker-dea
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/industrial-robot-crushes-worker-dead-south-korea/"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "A robot crushed a man to death after it mistook him for a box of vegetables: reports"
+    excerpt: "A robotic arm used for packing bell peppers lifted a worker and pushed him against a conveyor belt in a South Korean distribution center, killing him."
+    publishedDateTime: 2023-11-09T11:45:00Z
+    webUrl: "https://www.insider.com/robot-crushed-man-death-mistook-him-box-vegetables-south-korea-2023-11"
+    ampWebUrl: "https://www.insider.com/robot-crushed-man-death-mistook-him-box-vegetables-south-korea-2023-11?amp"
+    cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/robot-crushed-man-death-mistook-him-box-vegetables-south-korea-2023-11?amp"
+    type: article
+    provider:
+      name: insider
+      domain: insider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/654cc5ce3cc84b4dfaff365d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
     excerpt: "An industrial robot crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigate whether the machine was unsafe or had potential defects. According to police officials in the southern county of Goseong,"
     publishedDateTime: 2023-11-09T08:35:00Z

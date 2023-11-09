@@ -19,51 +19,53 @@ topics:
   - AI
 
 related:
-  - title: "Food production is accelerating the climate crisis, but AI and other emerging technologies could turn things around"
-    excerpt: "Some companies are looking to get fossil fuels out of food production. They think AI and other emerging technologies are the answer."
-    publishedDateTime: 2023-11-07T20:59:00Z
-    webUrl: "https://www.businessinsider.com/ai-emerging-tech-transforming-food-production-2023-11"
-    ampWebUrl: "https://www.businessinsider.com/ai-emerging-tech-transforming-food-production-2023-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-emerging-tech-transforming-food-production-2023-11?amp"
+  - title: "10 Tips For Safeguarding Your Business In The Age Of Artificial Intelligence"
+    excerpt: "While AI holds immense promise, it also creates concerns about authenticity and the overall trustworthiness of the information it provides."
+    publishedDateTime: 2023-11-09T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/10-tips-for-safeguarding-your-business-in-the-age-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/10-tips-for-safeguarding-your-business-in-the-age-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/09/10-tips-for-safeguarding-your-business-in-the-age-of-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://i.insider.com/654a7eb936d588dc55cc5f05?width=1200&format=jpeg"
-        width: 1200
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f0f2aa7ba9bb1000708a4c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "VERSES Technologies Advancing Artificial Intelligence with Live Neurons"
-    excerpt: "The artificial intelligence (AI) story is getting far more exciting by the day. We already know AI could be a $1.8 trillion by 2030, according to Statista. We also know companies are racing toward Artificial General Intelligence (AGI),"
-    publishedDateTime: 2023-11-07T15:31:00Z
-    webUrl: "https://www.benzinga.com/news/23/11/35650664/verses-technologies-advancing-artificial-intelligence-with-live-neurons"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35650664"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35650664"
+  - title: "Does your business need a chief AI officer?"
+    excerpt: "Someone senior needs to ensure the implementation of AI is safe and secure. Here's what the experts believe that executive should look like."
+    publishedDateTime: 2023-11-08T12:22:00Z
+    webUrl: "https://www.zdnet.com/article/does-your-business-need-a-chief-ai-officer/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/11/07/mohamed-nohassi-tdu54w07_gw-unsplash.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The Interaction of the Internet of Things, AI and Machine Learning"
-    excerpt: "More and more devices can communicate without the need for human input thanks to the rise of the Internet of Things (IoT). You might have a home assistant device, such as an Amazon Echo or a Google Home,"
-    publishedDateTime: 2023-11-08T11:36:00Z
-    webUrl: "https://techbullion.com/the-interaction-of-the-internet-of-things-ai-and-machine-learning/"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
+  - title: "XREA And Information Services In The AI Age"
+    excerpt: "XREA, a residential real estate information and recommendation service, is an example of how information services are changing in the age of AI."
+    publishedDateTime: 2023-11-07T19:12:00Z
+    webUrl: "https://www.forbes.com/sites/tomdavenport/2023/11/07/xrea-and-information-services-in-the-ai-age/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Unveiling the Pulse of AI in Language Services: SAFE-AI Task Force Launches Pivotal Perception Survey"
+    excerpt: "Global discussions underscore the urgency of a collaborative approach towards navigating the frontier AI landscape. The Perception Survey by the SAFE-AI Task Force aligns with this international momentum, aiming to foster a comprehensive dialogue around AI ethics and safety in the domain of language interpretation."
+    publishedDateTime: 2023-11-08T18:24:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274026386/unveiling-the-pulse-of-ai-in-language-services-safe-ai-task-force-launches-pivotal-perception-survey"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 26
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Internet-of-things.jpg"
-        width: 466
-        height: 311
+      - url: "https://cdn.bignewsnetwork.com/cus1699242668411.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "Wd8+riSSrArQLwX4iy52qQhCkwkRZ87EvvwKsP188WaiNMFD91Zw9/rI2Kpkywsk6ScbeRTsmLFxOv/8+Ql9V5na7yF5urMjUmsVv3GjuDV7Whp2N57QHWRYxxEh7TTTnsoM6iHp/4QItP9V6PAJY0BV/H6ImVJvGT1lkB1FEfOPPeeAVeatKDwf0+1BCDMkZjvtu+Y3v1VPm2tPJ/D7VONgdjZ9QQY3+uL47lMwDqtSppbya9AvlYlGSwOFlEq2Q0kAaXMJU8hKjoGBp5w8GguOAndZKUqahU+rKYQsRZnAC6y0Itquo6lQHgUZZOEPBoG9Tht3oUbxwNRQ+OejlsKk3D6hRwTJ62W2N5eS3Qg13TAuR2NTnXTBlgI0YvQKhAn5JQPrRdSPYE/6DhQsYBJUgzLrlYFhyWHohMlXr/4gkk3mPDLiqIJrNk6vRhj/s0WAXp+cNMrNWqqWzPEBUIyjglE5+3NqpdmWTQ/ONaq+tojJu4TDHdz03RvtjFMM0uFbQJTROyf09CZKwCu6bg==;G/f1oPzssluYeM5xASHxbg=="

@@ -47,6 +47,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "Transforming small farming with open-source, AI-powered connected edge solutions"
+    excerpt: "Edge computing is helping to revolutionize agriculture, and the Linux Foundation is at the forefront of this transformation.\nThe post Transforming small farming with open-source, AI-powered connected edge solutions appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-09T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/transforming-small-farming-with-open-source-ai-powered-connected-edge-solutions/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 94
   - title: "Chinese Smartphone Makers Aim To Beat Apple And Samsung In Generative AI"
     excerpt: "Chinese phone makers, on the other hand, are adopting a different mindset. The likes of Xiaomi, Oppo, Vivo, and Huawei want to “squeeze” generative AI into their newest devices faster than Apple and Samsung because they see it as a chance to turn the tables on their rivals in the highly competitive smartphone market."
     publishedDateTime: 2023-11-07T03:35:00Z
@@ -102,6 +111,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "Google’s AI-Powered Search Generative Experience Expands to Over 120 New Countries and Territories"
+    excerpt: "SGE is also getting support for four new languages and a few new upgrades and features that make the AI-powered search tool more interactive."
+    publishedDateTime: 2023-11-09T10:31:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/google-ai-search-generative-experience-sge-labs-120-countries-rollout-4560461"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/google-ai-search-generative-experience-sge-labs-120-countries-rollout-4560461/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-ai-search-generative-experience-sge-labs-120-countries-rollout-4560461/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 45
+    images:
+      - url: "https://i.gadgets360cdn.com/large/Blog_hero_hVttB6nwidth-1600_1_1699523922212.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Six champions of generative AI innovation"
     excerpt: "Damien Riehl has helped to develop innovative AI-driven technology aimed at three disparate professional groups, in quick succession: musicians; intellectual property litigants; and lawyers."
     publishedDateTime: 2023-11-08T02:01:00Z
@@ -130,6 +155,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "MicroStrategy ONE™ Platform Now Available in AWS Marketplace, Empowering Businesses with AI-Driven Business Intelligence"
+    excerpt: "By bringing together MicroStrategy's powerful generative artificial intelligence (AI) capabilities for business intelligence (BI) and the scalability and reliability of Amazon Web Services (AWS), customers can now access a ready solution for deploying ..."
+    publishedDateTime: 2023-11-07T19:18:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231107452958/en/MicroStrategy-ONE™-Platform-Now-Available-in-AWS-Marketplace-Empowering-Businesses-with-AI-Driven-Business-Intelligence"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
 
 secured: "JlxswkGPOxvtKVth4QKK3v+Zpl+2ME8okOVQD4fsLM+2+xDLhDSiGRRVMp2JXiYtur6sLKVM+NUwIoBoMxRq8G4UmgoWNvMFkZGSrEXTpYmZchQRl60y9z7JG4NqebV8NA+1kaTCckwQ+8grfQ7dsZSmzyqesY8rwaavqWMR6dyzexjqrDb0cQ3+rzWE/jqlYgnJ+SDyC/8EW9vPSxpRGkAjamkxQ6203Uj+H4YNBc+iVazWwRkr3tCBjxb+0wddcBd3uwjB90U32oCn9mV0Xa9M3lMnde6TvPQAnl72/GDk3r8lkbp55mm2FPljuasksQC9GomY7Ij3x8GJFZWLReKtI7Q40lN3/8/I0ygHZak=;lpsKuo9yawjUkDfUytwa7Q=="
 ---

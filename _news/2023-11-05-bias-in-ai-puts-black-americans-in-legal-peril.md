@@ -39,6 +39,20 @@ related:
         width: 900
         height: 631
         isCached: true
+  - title: "Bias in AI: How to Reduce Bias in Facial Recognition Systems"
+    excerpt: "One approach to mitigate bias is by fine-tuning the algorithm to be more sensitive to variations in skin tone and facial features. This often involves retraining the model on a more diverse dataset."
+    publishedDateTime: 2023-11-09T12:14:00Z
+    webUrl: "https://www.gizbot.com/partner-content/bias-in-ai-how-to-reduce-bias-in-facial-recognition-systems-088279.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 54
+    images:
+      - url: "https://www.gizbot.com/img/2023/11/howtoreducebiasinfacialrecognitionsystems2-1699530988.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cops are falling in love with AI, and it’s much deeper than facial recognition"
     excerpt: "While facial recognition has well-known bias and privacy problems when it comes to law enforcement, tech companies are pitching a variety of new ways to use AI for policing."
     publishedDateTime: 2023-11-07T22:22:00Z

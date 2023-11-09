@@ -65,15 +65,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Conversational AI Bot: Revolutionizing Customer Interactions"
-    excerpt: "In today’s fast-paced business world, customer interactions have evolved significantly. Gone are the days when customers had to navigate through a maze of options, pressing buttons on their phones or waiting for email responses."
-    publishedDateTime: 2023-11-04T18:45:00Z
-    webUrl: "https://techbullion.com/conversational-ai-bot-revolutionizing-customer-interactions/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
   - title: "Retail tech startup offers an AI solution for pricing products"
     excerpt: "Retail tech startup Particl launched AI Copilot, a new product that helps customers identify both new and mispriced products, CEO Josh Wilson tells Axios. Why it matters: Retailers need sophisticated software to help them manage supply chains efficiently."
     publishedDateTime: 2023-11-07T15:45:00Z
@@ -93,6 +84,6 @@ related:
       domain: searchengineland.com
     quality: 0
 
-secured: "5LauVYot8PKaj+wLEUquPH45dDUUAp2kP7RMrbznrnYuz2nGBOuM3lItRVVF6p0EaAtpx9np4BIDxImLPKV7onj32YsDQgqnw6SnpesMwBZ1BkJV4GimwOG5xoGLqun8yMt86ziCahabkeNseSN5/CDKETG6ioT2YVzQ9j6KqDj0hS3YmjSCYnZ5/Ox667ptQkbLS9A8pCHq0yhihhQ+cGAywTR9EfpuxE0R0xCoDdeHtbiSoFPmCSVM/aGuzL0he91CBOkL8X1ci+LNHb6oDv/iw+32Z8NsvC1PBgocHOIDlt/iqUBofdhokY8Ws6fYmhV563XyQpW7jbKsXMWCSffzlpVUMxpwUXEwTANQFsA=;eFPsf0LyziLGqVmmSki+xQ=="
+secured: "O7Jr5bKXpO6XMRB5tSFIRUNwBD0glbFDlhQO6pr1CjholJO/rcPnkUrqIjRTGz1tIy9F6dc2B+uxiqqfZLk7xh163QpGxrxT4h426OLaJAJlgc5e5MrDSXGsAuFHUCG1HuUIKca3TFjOKn6xOpGvgXMvcvLZ+v7aTMLWuqOziXUxWDAlehjVBV+DwVK1+Wu/cSPpyPonzSMHq4yxsumY1Qq96ZlMg/PcXpwu6h5NAtK7Ivo+HVU6kKmscnvDGoSZ2n1ySosXedfsYs8gdYyLOlFZSGctNRCjZyHrO9+RbNQnbOkkqfpIhQgmQvZHSyUOjkx179Q8yKwbp4QDRlVwI2KZAg2J2x5TQdl3yqfoSyVxwLuTbT4HvBK/qbaCU3veNdGQCaxuS0rqT3OAuK576sUgEowX7lVgcp6d4Lyn1e4T4r73N0tr1qKtkYAgrVNVtTV4i9fYIaDB2gle8Ong5/Mv7wiwhWG3UuvNf3sN3mi9BC0/AwFEv95JPDcuC3kF3IRP2P7SVytWy/nIshUrfQ==;ybvwTMsPO60bCS635jY2ag=="
 ---
 

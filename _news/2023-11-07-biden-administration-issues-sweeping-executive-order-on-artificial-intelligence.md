@@ -139,6 +139,15 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Biden’s Safeguards Against Artificial Intelligence"
+    excerpt: "Joe Biden, this Monday October 30, has signed an executive order to restrict the use of artificial intelligence (AI).  Recently, there has been a rapid development of artificial intell"
+    publishedDateTime: 2023-11-09T08:35:00Z
+    webUrl: "https://www.davisvanguard.org/2023/11/bidens-safeguards-against-artificial-intelligence/"
+    type: article
+    provider:
+      name: Davis Vanguard
+      domain: davisvanguard.org
+    quality: 32
   - title: "Competition considerations featured in President Biden’s Executive Order on Artificial Intelligence"
     excerpt: "On October 30, 2023, President Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. The Order, which recognizes AI’s extraordinary potential but also the substantial risks requiring ..."
     publishedDateTime: 2023-11-08T14:59:00Z

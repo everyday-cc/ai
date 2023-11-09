@@ -58,6 +58,15 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "Transforming small farming with open-source, AI-powered connected edge solutions"
+    excerpt: "Edge computing is helping to revolutionize agriculture, and the Linux Foundation is at the forefront of this transformation.\nThe post Transforming small farming with open-source, AI-powered connected edge solutions appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-09T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/transforming-small-farming-with-open-source-ai-powered-connected-edge-solutions/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 94
   - title: "Chinese Smartphone Makers Aim To Beat Apple And Samsung In Generative AI"
     excerpt: "Chinese phone makers, on the other hand, are adopting a different mindset. The likes of Xiaomi, Oppo, Vivo, and Huawei want to “squeeze” generative AI into their newest devices faster than Apple and Samsung because they see it as a chance to turn the tables on their rivals in the highly competitive smartphone market."
     publishedDateTime: 2023-11-07T03:35:00Z
@@ -113,6 +122,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "Google’s AI-Powered Search Generative Experience Expands to Over 120 New Countries and Territories"
+    excerpt: "SGE is also getting support for four new languages and a few new upgrades and features that make the AI-powered search tool more interactive."
+    publishedDateTime: 2023-11-09T10:31:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/google-ai-search-generative-experience-sge-labs-120-countries-rollout-4560461"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/google-ai-search-generative-experience-sge-labs-120-countries-rollout-4560461/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-ai-search-generative-experience-sge-labs-120-countries-rollout-4560461/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 45
+    images:
+      - url: "https://i.gadgets360cdn.com/large/Blog_hero_hVttB6nwidth-1600_1_1699523922212.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Generative AI Will Transform Knowledge Work"
     excerpt: "Generative AI can be a boon for knowledge work, but only if you use it in the right way. New generative AI-enabled tools are rapidly emerging to assist and transform knowledge work in industries ranging from education and finance to law and medicine."
     publishedDateTime: 2023-11-07T13:05:00Z
@@ -127,6 +152,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "MicroStrategy ONE™ Platform Now Available in AWS Marketplace, Empowering Businesses with AI-Driven Business Intelligence"
+    excerpt: "By bringing together MicroStrategy's powerful generative artificial intelligence (AI) capabilities for business intelligence (BI) and the scalability and reliability of Amazon Web Services (AWS), customers can now access a ready solution for deploying ..."
+    publishedDateTime: 2023-11-07T19:18:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231107452958/en/MicroStrategy-ONE™-Platform-Now-Available-in-AWS-Marketplace-Empowering-Businesses-with-AI-Driven-Business-Intelligence"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
 
 secured: "foJ2lxVDWgiLbxmrBa5Zk5W3HarU6SRx4fwpLXdSL0aDfqljB3yjNSnb4tChJggxOqsnH7fxL3kpX7bvoI/2X6f8Vk2pXSmid2TyoZbq/Nb0U1orFf59xzBpT0gu8xPv7Vj6MHPLCXapjcnXVgV58v5JdnBETbDuepE0G3+ebx57znAd7UDIF/cRnQJ89izEXrOsQ2WlkGnaky4ibqGyvcAPUVi5NBi63af5nJens1ofywYgWoWRIAL4a7t4sNaojPWWChaHZKR0gmpyxw0naEE7ogaOZS5AE1M+IwZjI8M66lJIHsVUdegPhlGoBcSr5aPd3F/NB4SdH7Z3/J5/7ir0qbrqEhZOQEnXRX/krTgnihFzOGttluSuYc7AH/Vybeh7pkOSdqFpqxP9Fffn2lVi1+GiwkFsUsilMXhilVoMQyp9OXtAeuCown5bNuxbMpcwXwKx1QwgDAa0SIRTNqddlv+n8KiZQwzOP//TBOWqSUCyvUoKOfpUvKeyH0VKkEAm0O4A1kGJ/UrgaoLcAA==;6NuCgEfC/E1sqdclv2oR5A=="
 ---

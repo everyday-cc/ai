@@ -2,22 +2,31 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-11-08-building-on-a-year-of-focus-to-help-ibm-power-clients-grow-with-hybrid-cloud-and-ai.md",
-      "title": "Building on a year of focus to help IBM Power clients grow with hybrid cloud and AI",
-      "excerpt": "As Ken King passes the baton, we take a look at the progress IBM has made across four critical areas to help drive transformation.\nThe post Building on a year of focus to help IBM Power clients grow with hybrid cloud and AI appeared first on IBM Blog.\n",
+      "path": "_news/2023-11-09-implementing-fhir-and-hl7-with-ibm-app-connect-and-ibm-cloud-pak-for-integration.md",
+      "title": "Implementing FHIR and HL7 with IBM® App Connect and IBM Cloud Pak® for Integration",
+      "excerpt": "Through tight integration between IBM App Connect and IBM API Connect, health IT providers can extend the reach of FHIR for multiple use cases.\nThe post Implementing FHIR and HL7 with IBM® App Connect and IBM Cloud Pak® for Integration appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/building-on-a-year-of-focus-to-help-ibm-power-clients-grow-with-hybrid-cloud-and-ai/",
-      "originalUrl": "https://www.ibm.com/blog/building-on-a-year-of-focus-to-help-ibm-power-clients-grow-with-hybrid-cloud-and-ai/",
+      "webUrl": "https://www.ibm.com/blog/implementing-fhir-and-hl7-with-ibm-app-connect-and-ibm-cloud-pak-for-integration/",
+      "originalUrl": "https://www.ibm.com/blog/implementing-fhir-and-hl7-with-ibm-app-connect-and-ibm-cloud-pak-for-integration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 106,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/11/dji_0737sym.blog-lead-space-2x1-1.jpg",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T05:00:00-08:00",
+      "publishedDateTime": "2023-11-09T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -40,8 +49,7 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI"
+        "IBM AI"
       ]
     },
     {
@@ -390,7 +398,7 @@
       "originalUrl": "https://www.ibm.com/blog/4-ways-to-empower-small-and-medium-businesses-with-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 209,
       "tags": null,
       "images": null,
       "content": "\r\n",

@@ -152,6 +152,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Biden’s Safeguards Against Artificial Intelligence"
+    excerpt: "Joe Biden, this Monday October 30, has signed an executive order to restrict the use of artificial intelligence (AI).  Recently, there has been a rapid development of artificial intell"
+    publishedDateTime: 2023-11-09T08:35:00Z
+    webUrl: "https://www.davisvanguard.org/2023/11/bidens-safeguards-against-artificial-intelligence/"
+    type: article
+    provider:
+      name: Davis Vanguard
+      domain: davisvanguard.org
+    quality: 32
   - title: "Better Patient Care and Operational Success: Seven Ways to Benefit From Generative AI in Healthcare"
     excerpt: "Generative artificial intelligence (AI) has been the latest disruptor for many industries, quickly becoming widely used by companies that run the gamut. However, given the sensitive data and importance of privacy in the healthcare industry, its use there ..."
     publishedDateTime: 2023-11-08T20:16:00Z

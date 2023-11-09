@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/five-quest
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/amp/"
 type: article
 quality: 87
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Conversational AI Bot: Revolutionizing Customer Interactions"
-    excerpt: "In today’s fast-paced business world, customer interactions have evolved significantly. Gone are the days when customers had to navigate through a maze of options, pressing buttons on their phones or waiting for email responses."
-    publishedDateTime: 2023-11-04T18:45:00Z
-    webUrl: "https://techbullion.com/conversational-ai-bot-revolutionizing-customer-interactions/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
   - title: "Retail tech startup offers an AI solution for pricing products"
     excerpt: "Retail tech startup Particl launched AI Copilot, a new product that helps customers identify both new and mispriced products, CEO Josh Wilson tells Axios. Why it matters: Retailers need sophisticated software to help them manage supply chains efficiently."
     publishedDateTime: 2023-11-07T15:45:00Z

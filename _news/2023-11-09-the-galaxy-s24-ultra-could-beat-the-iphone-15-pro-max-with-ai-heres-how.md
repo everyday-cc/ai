@@ -7,7 +7,7 @@ originalUrl: "https://www.tomsguide.com/opinion/the-galaxy-s24-ultra-could-beat-
 webUrl: "https://www.tomsguide.com/opinion/the-galaxy-s24-ultra-could-beat-the-iphone-15-pro-max-with-ai-heres-how"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "iPhone 16 Models on Course for Exclusive AI Features Coming in iOS 18"
+    excerpt: "Apple at WWDC 2024 will reveal a turbo-charged version of Siri powered by large language models (LLMs) that will debut in iOS 18, but some"
+    publishedDateTime: 2023-11-09T10:31:00Z
+    webUrl: "https://www.macrumors.com/2023/11/09/iphone-16-exclusive-ai-features-ios-18/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 39
+    images:
+      - url: "https://images.macrumors.com/t/SmIQxxD8PeNRatir3RFKfqT519g=/3532x/article-new/2023/09/iPhone-16-Side-2-Feature.jpg"
+        width: 3532
+        height: 1986
+        isCached: true
 
 secured: "c15PnO/59DzZrQNeLoiehTJELpHDz9JvGULXCMtl+SU91mOvRojohkWKUuY42a1+Fq3BcMtSoC43rLRmEyatlKfXH+s9iwEJrFaeEizCUfFpaw6OZBNNXo+j5ROv+6i2KsEn7lJzcqTghtIIsZ1RrmK0qiM9fsneMdC9xHoLFUG/qMSbkWJBy7q2WjcEHwHAy9VpyOrZXAEgr0XywozU1h6dlCsRgEzCeja9g50hoJEwOfKHNC2uzJA+nG9428LCl77jidgqtBkRLT7vQaFpO1VsvjPlBkCy4H8YgEMbXlR1N6uHUraUh7ih7fZdW6aZ3BZTD9l2zqh9m3X1xyAoIf8Q2eJ1l3nHrEHNhGEapW0=;ReUMJ4nGP4AlmHfXviZ/ZA=="
 ---

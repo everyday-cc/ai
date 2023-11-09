@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-emerging-tech-transforming-food-p
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-emerging-tech-transforming-food-production-2023-11?amp"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 466
         height: 311
         isCached: true
-  - title: "Leveraging AI as a tool for growing your business, creating efficiencies and identifying new opportunities for employers"
-    excerpt: "The value of AI is the opportunity to amplify the best of our hopes and dreams through new technology in ways we never thought possible before."
-    publishedDateTime: 2023-11-07T18:25:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/11/07/leveraging-ai-as-a-tool-for-growing-your-business.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "wo84r9SHMGln3Sw3WMoc8bVWBGTw6Gt/w8tLGvzjVr4a9zJOBzirEkZok/woRCIzzIgqEMhW4pJpXpCwKqZHKCKzD1Irb03VeUOAhSLpLhlmPWlmhLNXKdVK/LI1R5xb2jFvpJnonSSHo9UlcIfM13BNrHbW/D7QGcnuARThUVc/HxL/z/7qU/uJ9I9Q9jEaha6ZDxjfJOYx1PQBARKjOKyUW1YUt3x2RqPYbOoamHIKEjvKyAOFnLoWS/4RVQj1EjZfhMqu0xo2/H8ANZ/wJlqH7s5R+ibSF11YRcOPiK4WIvOvltdpaUX4DN0RUeRlsG5aEit5qq8v1kBZm550poPXrKKbtFicvlRuANgW8Xgwqj6Pq442V8cDBgABaTdVNUMok7TyZVGRe7JY4si/k9KjzcP7O0SDhTB89hvjT9JFCkBk3g5f0s73U+V4G22ieAgcRkAWvEfNPnHqSdeVPnQjl4OSgfbcblmUXtYTEzh7e+FtBN0PhmVKj05jVlUd5gtEto7jYaJ0PmPsorx0Og==;5GqmNuzsM7Ube53vaRpfRg=="
 ---

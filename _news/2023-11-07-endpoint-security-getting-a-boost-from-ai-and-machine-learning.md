@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/endpoint-security-getting-a-boost
 webUrl: "https://venturebeat.com/security/endpoint-security-getting-a-boost-from-ai-and-machine-learning/"
 type: article
 quality: 103
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Apple's thinking about AI spending and deployment differs from Big Tech rivals"
-    excerpt: "How Apple's thinking about AI spending and deployment differs from Big Tech rivals: Summary Apple's approach to AI spending and deployment sets it apart from its big tech rivals."
-    publishedDateTime: 2023-11-04T18:46:00Z
-    webUrl: "https://www.semiconductorpackagingnews.com/news/83812.html"
-    type: article
-    provider:
-      name: Semiconductor Packaging News
-      domain: semiconductorpackagingnews.com
-    quality: 13
 
 secured: "XymRkj5ENC23dcaBOEI6AKOjkSIQGM/OrsTTF1WMmGiV/bY7gPOrqUk1/T6qAXo8pcIe0PPmQNqpCdYC5KCiM19KU2ZCrm2M+AikdweY2B2fdJlSpIziCihvy0nB7GZ3LtU3dQEtL6UW7lRapzGnYay7EJWRZhJsODGkJccmW1S529JYNeXDlYJIKUYcTncvzDBu4tOkiaR8mwsvBxhgoUZXi+KyP+42CGQDhZQ2xFO/T2BHit5/sdFIMybTkjCpM/5wvMZMekRg/wGsq+o3VCf7L+m6QkHz8BxGrG6tq/bZMnnHArykcEKpoz0GFIlxTuF6vd8IloswmTdXb3vNGqRqPEAycrVJky9boEVPGsXcfsangbR0di50/XsFaqfqVNTwK9DgF/rQWkT8AVfO0xpyjGG7RNX5SpDAWOJ37ImQXofcjIK1OgNAFOZKxf0MQt9XQTouIP1BAxX2yvB950KEhN49lrepn2nAY9H4aGbflEOo2VvO/fHXZYYNJjqvVGEuPbd5cJUekDRzGbcNhw==;G4xMBEUDQGAoDa1TYgq86w=="
 ---
