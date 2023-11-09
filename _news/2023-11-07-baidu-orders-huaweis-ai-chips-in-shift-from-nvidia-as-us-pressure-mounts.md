@@ -171,6 +171,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "360 buys Huawei's AI chips as alternative to Nvidia"
+    excerpt: "Chinese cybersecurity company 360 Security Group has purchased about 1,000 artificial intelligence chips from Huawei Technologies Co, the latest proof that more Chinese companies are embracing homegrown AI chips amid the US government's chip export ..."
+    publishedDateTime: 2023-11-08T22:05:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202311/08/WS654b95b6a31090682a5ed2df.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202311/08/654b95b6a3109068caff9f85.png"
+        width: 1036
+        height: 690
+        isCached: true
   - title: "Exclusive-Baidu placed AI chip order from Huawei in shift away from Nvidia -sources"
     excerpt: "Baidu ordered artificial intelligence chips from Huawei this year, two people familiar with the matter said, adding to signs that U.S. pressure is prompting Chinese acceptance of the firm's products as an alternative to Nvidia's."
     publishedDateTime: 2023-11-07T07:54:00Z

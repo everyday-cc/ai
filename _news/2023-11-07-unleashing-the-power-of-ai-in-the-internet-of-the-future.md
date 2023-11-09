@@ -60,8 +60,8 @@ related:
     quality: 19
   - title: "These Top Companies are Transforming Real Estate with the Help of AI"
     excerpt: "“We believe their expansive network of banks and first-in-class AI enabled fintech platform will help drive referrals to our brokers. In addition, our agreement with Janover builds on our track record and growing brand recognition within the residential ..."
-    publishedDateTime: 2023-11-08T20:40:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/CBRE-N/pressreleases/21824810/these-top-companies-are-transforming-real-estate-with-the-help-of-ai/"
+    publishedDateTime: 2023-11-09T00:14:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/O-N/pressreleases/21824810/these-top-companies-are-transforming-real-estate-with-the-help-of-ai/"
     type: article
     provider:
       name: The Globe and Mail

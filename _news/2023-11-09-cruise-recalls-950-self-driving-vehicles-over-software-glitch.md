@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "GM recalls all Cruise self-driving cars after one drags pedestrian"
+    excerpt: "One of the robo-cars attempted to pull out of traffic, dragging the victim 20 feet along the pavement. She was critically injured."
+    publishedDateTime: 2023-11-08T23:05:00Z
+    webUrl: "https://www.nydailynews.com/2023/11/08/cruise-recall-self-driving-cars-pedestrian-crash/"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 24
+    images:
+      - url: "https://www.nydailynews.com/wp-content/uploads/2023/11/AP23115659233014.jpg?w=1024&#038;h=576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Cruise Recalls 950 Self-Driving Cars After Pedestrian Collision"
     excerpt: "GM-owned Cruise announced a voluntary recall of 950 of its self-driving vehicles on Wednesday to fix issues with its collision detection system. The recall comes just over a month after a crash where one of its cars struck and dragged a pedestrian while ..."
     publishedDateTime: 2023-11-08T21:54:00Z

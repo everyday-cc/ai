@@ -36,15 +36,6 @@ related:
         width: 1280
         height: 854
         isCached: true
-  - title: "Experts raise ethics concerns posed by patient-facing AI in oncology"
-    excerpt: "Ready or not, patients with cancer are increasingly likely to find themselves interacting with artificial intelligence technologies to schedule appointments, monitor their health, learn about their disease and its treatment,"
-    publishedDateTime: 2023-11-04T07:54:00Z
-    webUrl: "https://healthcare-in-europe.com/en/news/ethics-concerns-patient-facing-ai-oncology.html"
-    type: article
-    provider:
-      name: healthcare-in-europe.com
-      domain: healthcare-in-europe.com
-    quality: 34
   - title: "Oncology Researchers Raise Ethics Concerns Posed By Patient-Facing AI"
     excerpt: "Patients with cancer are increasingly likely to find themselves interacting with artificial intelligence technologies to sched"
     publishedDateTime: 2023-11-04T08:47:00Z

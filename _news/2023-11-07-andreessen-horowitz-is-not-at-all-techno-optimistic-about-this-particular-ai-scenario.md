@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/marc-andreessen-horowitz-ai-copyrigh
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marc-andreessen-horowitz-ai-copyright-2023-11?amp"
 type: article
 quality: 79
-heat: 81
+heat: 79
 published: true
 
 provider:

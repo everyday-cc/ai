@@ -1,20 +1,20 @@
 ---
 category: news
 title: "GE HealthCare Announces New Data Validating Artificial Intelligence Models for Predicting Patient Response to Immunotherapies"
-excerpt: "New data supports the potential role of Artificial Intelligence (AI) in predicting patients’ response ... and clinicians to optimize and apply our AI models in therapy development and in clinical practice in a longer term,” said Julia Casey, General ..."
-publishedDateTime: 2023-11-02T12:39:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231101659257/en/GE-HealthCare-Announces-New-Data-Validating-Artificial-Intelligence-Models-for-Predicting-Patient-Response-to-Immunotherapies"
-webUrl: "https://www.businesswire.com/news/home/20231101659257/en/GE-HealthCare-Announces-New-Data-Validating-Artificial-Intelligence-Models-for-Predicting-Patient-Response-to-Immunotherapies"
+excerpt: "GE HealthCare’s Artificial Intelligence (AI) models predict patient response to immunotherapies with 70 to 80 percent accuracy1, based on a pan-cancer cohort, according to findings to be ..."
+publishedDateTime: 2023-11-02T15:44:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20231101659257/ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for-predicting-patient-response-to-immunotherapies"
+webUrl: "https://www.morningstar.com/news/business-wire/20231101659257/ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for-predicting-patient-response-to-immunotherapies"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "Ogr3RsnKP9NtY3DKzl+wL/ZYdYvKv8qvQHVLOqb4G1RlDa3MMyFHY5R3tyNm5CIeoSb24bMb9KrLFkRWqxdFLBWdIOazMjyhYwq/5wHqjaAhRDM4H8ILoSoEgmKAt0Ex/LW7/OKrpJe4ze26TlxP4Wv5bK6WyBihhMrQEqAoWGs7lgSVhSMCmHZr4Mr5Ml57EQUEbh/cwlki+EMXjCNkS30MSXBMwWJLHrDgTyMb1GnGlDNPTPePwMMd1q19Br3ILN45bDi0Xuej1YKMyuvHFVRoQq6HsiBXSR7PEedqrsafBXQRefJ9qbPV8mjjNfRNvzvKe7X5IWw10oqEr9o0ouQy1A6Ozc4tAk8vpXn4kFY=;0rbkN0X8ga1ms9x0c+C0VQ=="
+secured: "P+BM0PjVXyP4Sc3v+nWw3XTh50r3q8BBbopUufh5FlVo38zvRzlpTe00UljZhLLw7u2Bnzu55hRWVhbCyDQfDQ3TNH9kSMXAbsQgfrF+zkzaLg4UPbDrvACCGTQEorawiLZoIwYuWI3v6rkXr+8HCwUqgjqOOPya4Kb653zDqYQ4z0pT8XfEyuC+p+j9ObE7alG7dm3SoiYAcahsJzprJAnZpM7L8dx4hndarDaso2vK2UOIzhwPTBQN+yqwV+1f8e9A7PzbiBHd9LzOx+XzH0Anqb289E3BDcCXWus2VUidWtfYdakaGr9V2jecp5wkVatbn8NBOICSEihzv5EvdKFtoDl3YCDHpjlDYSGrICo=;gnu2RzJ/xijCehZfF8bF2w=="
 ---
 

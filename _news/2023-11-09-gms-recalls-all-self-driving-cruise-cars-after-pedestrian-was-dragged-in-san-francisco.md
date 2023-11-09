@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GM recalls all Cruise self-driving cars after one drags pedestrian"
+    excerpt: "One of the robo-cars attempted to pull out of traffic, dragging the victim 20 feet along the pavement. She was critically injured."
+    publishedDateTime: 2023-11-08T23:05:00Z
+    webUrl: "https://www.nydailynews.com/2023/11/08/cruise-recall-self-driving-cars-pedestrian-crash/"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 24
+    images:
+      - url: "https://www.nydailynews.com/wp-content/uploads/2023/11/AP23115659233014.jpg?w=1024&#038;h=576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Cruise Recalls 950 Self-Driving Cars After Pedestrian Collision"
     excerpt: "GM-owned Cruise announced a voluntary recall of 950 of its self-driving vehicles on Wednesday to fix issues with its collision detection system. The recall comes just over a month after a crash where one of its cars struck and dragged a pedestrian while ..."
     publishedDateTime: 2023-11-08T21:54:00Z
@@ -67,6 +81,6 @@ related:
       domain: roadandtrack.com
     quality: 4
 
-secured: "PKbK5Bge4BOtL4lFaPm+0dj3QVG8vNhOnAy8dpduO3/n0IXk66tyk4OhAWNrHgovpgfwjaB4y04JOSuvVhSA43FNrO+fsHHAzfSAhWC79zmy9NAdiraFnXqhAs4g4WbCuXJ1OTrBGKdZdPhR9lRnEIUJ1+7AdalTtYJe38wmty8xmhtdHQtExkRgQDdLsubOLb25jKtV75BPArrj2uiHx4RI+4XOiGLpj+Rb5iVoNxIpaBuW8BCPtv7PnJAcy1MRqNdbR22kRFuRxCCaNtAFaFI397agCRaA+ahV9tH4Fao45KWmEmcuMGVQQb5pL7otSLOlhHS8gaaSpoP9v7PbfVkGTsSfNu9/oGxRET4UEk4=;rPIFoNwM44HAfRmSMJmd3g=="
+secured: "UHFMk7fBvWcg48ckjmJS0QSz2yRTI6lFW8GcF+kbHZ5rXDFxbuTHFhRoYfDQy37QHDcjK2qATdAkHeZ2pmSy+C85l9UN0z/WQWJ/VZSm60HKHZNTsH8NyCvcOIJ5uJuUlRS5BemC4DCR/CWhJpex7w5ywgIvdrcYen5uPSGPhktpBFmHRPTCTtdV56Urs+3zeCvyo5k9LnDLL1pfGl8qIS0kkkELqmwzQrtM66rE7ljsz/t/opdyA6rJkawlpK3Lrrt+fwnkXQB4ceFwAwGNc8kA/llQOQIfjWKDCfGiUx9WE+icDs2oQk7W6u6raW6abNrsBGWrqgTibTDo32lPqhW5jcBiCVyai6tJHGX/XV0YJJ1UAPPgLheVcnfLHe1rxSLRTld0QKdYCInlmPR6BxJh90bdFp1EU5WAGp8IS2idqpTvOAloV+FV5sCezskwT+rQyakXiJuJJj3Yo4AJUkxMeryi0/R9ZgZz0Ol//eMQOZNNmRB16D0KOzAdYkMKkvzF6Lbj42aymGNw0pkaqw==;w+s5xgWHjfookLAAgdLoCg=="
 ---
 

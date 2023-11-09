@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/gm-update-cruise-self-driving-softwa
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gm-update-cruise-self-driving-software-after-pedestrian-accident-2023-11?amp"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/f07d074/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2F55%2F5084e2a244b8a05a643bd4c80841%2F53109081521-03f643844d-o.jpeg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "GM recalls all Cruise self-driving cars after one drags pedestrian"
+    excerpt: "One of the robo-cars attempted to pull out of traffic, dragging the victim 20 feet along the pavement. She was critically injured."
+    publishedDateTime: 2023-11-08T23:05:00Z
+    webUrl: "https://www.nydailynews.com/2023/11/08/cruise-recall-self-driving-cars-pedestrian-crash/"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 24
+    images:
+      - url: "https://www.nydailynews.com/wp-content/uploads/2023/11/AP23115659233014.jpg?w=1024&#038;h=576"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Cruise Recalls 950 Self-Driving Cars After Pedestrian Collision"
     excerpt: "GM-owned Cruise announced a voluntary recall of 950 of its self-driving vehicles on Wednesday to fix issues with its collision detection system. The recall comes just over a month after a crash where one of its cars struck and dragged a pedestrian while ..."

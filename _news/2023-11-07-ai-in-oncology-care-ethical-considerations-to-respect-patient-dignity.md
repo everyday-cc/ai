@@ -9,7 +9,7 @@ ampWebUrl: "https://www.labroots.com/trending/cancer/26178/ai-oncology-care-ethi
 cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity/amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: TheCable
       domain: thecable.ng
     quality: 36
-  - title: "Experts raise ethics concerns posed by patient-facing AI in oncology"
-    excerpt: "Ready or not, patients with cancer are increasingly likely to find themselves interacting with artificial intelligence technologies to schedule appointments, monitor their health, learn about their disease and its treatment,"
-    publishedDateTime: 2023-11-04T07:54:00Z
-    webUrl: "https://healthcare-in-europe.com/en/news/ethics-concerns-patient-facing-ai-oncology.html"
-    type: article
-    provider:
-      name: healthcare-in-europe.com
-      domain: healthcare-in-europe.com
-    quality: 34
   - title: "Oncology Researchers Raise Ethics Concerns Posed By Patient-Facing AI"
     excerpt: "Patients with cancer are increasingly likely to find themselves interacting with artificial intelligence technologies to sched"
     publishedDateTime: 2023-11-04T08:47:00Z

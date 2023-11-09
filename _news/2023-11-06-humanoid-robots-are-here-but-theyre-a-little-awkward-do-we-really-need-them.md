@@ -57,15 +57,15 @@ related:
         isCached: true
   - title: "Humanoid robots are here, but they’re a little awkward. Do we really need them?"
     excerpt: "Forget affable-appearing Rosey and Robby of sci-fi yesteryear; today’s humanoid robots are a bit more Terminator-esque. Do we even need them? Artificial intelligence pioneers weigh in."
-    publishedDateTime: 2023-11-06T18:30:00Z
-    webUrl: "https://www.stltoday.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_9d8f93c0-9c17-5140-a004-70ed7282930b.html"
+    publishedDateTime: 2023-11-06T19:30:00Z
+    webUrl: "https://journalstar.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_7448fe22-3026-542f-9bda-9bf59647112b.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Lincoln Journal Star
+      domain: journalstar.com
     quality: 35
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/d8/9d8f93c0-9c17-5140-a004-70ed7282930b/6548f44d40334.preview.jpg?crop=670%2C352%2C0%2C29&resize=670%2C352&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/7/44/7448fe22-3026-542f-9bda-9bf59647112b/6548f44c849de.preview.jpg?crop=670%2C352%2C0%2C29&resize=670%2C352&order=crop%2Cresize"
         width: 670
         height: 352
         isCached: true

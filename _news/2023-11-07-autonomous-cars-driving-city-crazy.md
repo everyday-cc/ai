@@ -28,7 +28,7 @@ related:
   - title: "Self-driving cars and buses: Your guide to the future of autonomous vehicles"
     excerpt: "My ministers will introduce new legal frameworks to support the safe commercial development of emerging industries, such as self-driving vehicles’"
     publishedDateTime: 2023-11-07T19:23:00Z
-    webUrl: "https://www.aol.com/news/self-driving-cars-buses-guide-171731890.html"
+    webUrl: "https://www.aol.com/self-driving-cars-buses-guide-171731890.html"
     type: article
     provider:
       name: AOL

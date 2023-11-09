@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 797
         isCached: true
+  - title: "Come build with us: Microsoft and OpenAI partnership unveils new AI opportunities"
+    excerpt: "With these announcements from OpenAI DevDay, developers and enterprises are now poised to explore new horizons, empowered by the combined strengths of Microsoft and OpenAI, and the limitless possibilities of generative AI.\nThe post Come build with us: Microsoft and OpenAI partnership unveils new AI opportunities"
+    publishedDateTime: 2023-11-07T18:37:00Z
+    webUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2023/11/07/come-build-with-us-microsoft-and-openai-partnership-unveils-new-ai-opportunities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+    images:
+      - url: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2023/11/image-1.png"
+        width: 1260
+        height: 708
+        isCached: true
   - title: "Microsoft plans to offer startups free access to Azure AI GPU servers to run LLMs"
     excerpt: "This week, Microsoft announced plans to offer startups access to its Azure AI services, which include being able to use its GPU virtual machine clusters. Startups can access this hardware in order to train and run large language models (LLMs) for their ..."
     publishedDateTime: 2023-11-08T14:48:00Z
@@ -114,19 +128,33 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft's AI Strategy: Cloud innovation for revenue growth"
-    excerpt: "Explore how Microsoft's AI strategy is revolutionising cloud revenue with a 13% surge, Azure's growth, and new AI products."
-    publishedDateTime: 2023-11-04T07:11:00Z
-    webUrl: "https://yourstory.com/2023/10/microsoft-ai-cloud-revenue-growth"
+  - title: "How Microsoft, Rockwell Deploy AI for Faster, Cleaner Design"
+    excerpt: "Microsoft spent the past year testing how generative AI can boost productivity, accelerate learning curves and drive collaboration for itself, its partners and its"
+    publishedDateTime: 2023-11-08T23:32:00Z
+    webUrl: "https://www.inforisktoday.com/how-microsoft-rockwell-deploy-ai-for-faster-cleaner-design-a-23557"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
+      name: Info Risk Today
+      domain: inforisktoday.com
     quality: 54
     images:
-      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Untitleddesign83-1695718985579.png?fm=png&auto=format"
-        width: 1000
-        height: 500
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/how-microsoft-rockwell-deploy-ai-for-faster-cleaner-design-showcase_image-5-a-23557.jpg"
+        width: 860
+        height: 520
+        isCached: true
+  - title: "Google expands Anthropic partnership after Microsoft and Oracle detail AI collaboration"
+    excerpt: "The TPU v5e is the fifth iteration of an internally-developed machine learning chip Google first debuted in 2016 ... The latter company also relies on hardware resources in its own Azure platform to run the search engine. Microsoft is using AKS, Azure ..."
+    publishedDateTime: 2023-11-08T22:40:00Z
+    webUrl: "https://siliconangle.com/2023/11/08/google-expands-anthropic-partnership-microsoft-oracle-detail-ai-collaboration/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/azure.jpg"
+        width: 960
+        height: 542
         isCached: true
   - title: "Microsoft Vet Takes Reins at Curbit"
     excerpt: "He left Microsoft at the beginning of the year and worked for a few months with Curbit, which is built on Azure, to provide guidance on business scaling, then stepped in as its chief executive in September. As Curbit’s AI and machine learning systems ..."

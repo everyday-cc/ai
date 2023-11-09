@@ -2,9 +2,9 @@
 category: news
 title: "These Top Companies are Transforming Real Estate with the Help of AI"
 excerpt: "“We believe their expansive network of banks and first-in-class AI enabled fintech platform will help drive referrals to our brokers. In addition, our agreement with Janover builds on our track record and growing brand recognition within the residential ..."
-publishedDateTime: 2023-11-08T20:40:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/CBRE-N/pressreleases/21824810/these-top-companies-are-transforming-real-estate-with-the-help-of-ai/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/CBRE-N/pressreleases/21824810/these-top-companies-are-transforming-real-estate-with-the-help-of-ai/"
+publishedDateTime: 2023-11-09T00:14:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/O-N/pressreleases/21824810/these-top-companies-are-transforming-real-estate-with-the-help-of-ai/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/O-N/pressreleases/21824810/these-top-companies-are-transforming-real-estate-with-the-help-of-ai/"
 type: article
 quality: 19
 heat: -1
@@ -68,6 +68,6 @@ related:
       domain: baystreet.ca
     quality: 19
 
-secured: "8BEIbCjr4mdQbdEvIrnHDeo5nKbe5sfbBwzH8XqWxrbnvkMIQOcCJ3N8QXuIPwffcOSx40qEltaTAZymwUMw8+AjhrDa3EGKhdVanxnJau6WGhZaECJLcs9TR4BksqxfATRZm8FGuIN7Qm3HyKD3UXWDx3uqYZvPER8yf/GYl9H9cTGgS7qNQYpRZc5o7NoAVICygnMel0ICC0gOiCDJGfjkmBXZ4if1sqQHaY8IXkQAvXLv0JoWLHOgjgxgfcFB2PcWNDJj6EwZ484TIjU0NSPjp93g/5E93VTg2K9hCHBMR4thVC6DHqvbRQFeGCOWOBbKRqY4pwdYCOShH7o1du+UoS2rlXv9/quFAvcJYnY=;LTCSwQVZnjqJPQHAYsjX9w=="
+secured: "y5BrT9eWMNgcIv/WmtR2rwpophcLQVF9/Gu2O7uorW5ATYC40pvUUyE0HRdLqHgfuo7BNB760Kqif24Zygg2nSScdBGZNvOMz539osxa/sHrieDJRX3OYRxU2z+ToWQc7Q0MXc5NEJo9i+wNORi431xgszvmC0EQD+jj9NxQMq4GMWB6qgWqHs8P2beM9FJJjw/GSv8N4UdMpE1+ENIf9fas8Y5EsvMBAB4lBAQiY3IPe7RI3srntGFP2Hl4lAcWRvKWvi56NK0VXubdG0ZeLGE5UZmnfpu2xS6ZnfFlmj1AJqr1gg1t9RjsitwjC4zJj6UpYdOd9aDuFScqJl4wseBmUxYQAUreFeC8+H7UzW8=;ENDaLpyOwO609vQvMiSUTg=="
 ---
 
