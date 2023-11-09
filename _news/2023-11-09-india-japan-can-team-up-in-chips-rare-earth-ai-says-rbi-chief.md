@@ -9,7 +9,7 @@ ampWebUrl: "https://www.orissapost.com/india-japan-can-team-up-in-chips-rare-ear
 cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-11/09/I_f4107image_story.jpg"
         width: 351
         height: 228
+        isCached: true
+  - title: "Nvidia will release three new AI chips in China"
+    excerpt: "Nvidia is planning to release three new chips for China, weeks after the US blocked it from selling two high-end artificial intelligence (AI) chips and one of its top gaming chips to Chinese companies. The STAR Market Daily news outlet said that the chips ..."
+    publishedDateTime: 2023-11-09T10:36:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57907-nvidia-will-release-three-new-ai-chips-in-china"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/ecd45cdff7dc279d8a284c5acde94d7d_L.jpg"
+        width: 620
+        height: 465
         isCached: true
 
 secured: "6QohkadvZZhvguv3Ep8XpeinGY4Jy6w3QL3+tQfrpbNpBX3T4JTYfTDejQ69GBXQh/bgwSYVLh7o/amCqVZ4CxwfdiKj3JNCFCn8S/HW5sSIEBd9kvZ2qf905HLyYRJqajzKAuQVhtK3iT/uKeVyqsxCsRRFMsfTrMYTxOWMyyaVLJs6AZNISX4eguKNkbS1P7wZzWhtshTtLjJCq4jAx5EHNqlmQYSobaGEZd/jGaxzqby88te6+/4hg8RPuKD5uUb1cpnRBlrE/4CukEKPgWor0DB1ThfzA6rsW1LLx8TmTm7Brm7FcjfbpvL2uy5MO1cDQzRw3iMbB6nuDcpur+J0O7Z65XIbcAwScN7gltY=;+bm9z3t2jWhJFLoaoQSkQA=="

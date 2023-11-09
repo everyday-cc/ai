@@ -58,11 +58,11 @@ related:
   - title: "Tech startup Sixty AI offers solution for notification fatigue"
     excerpt: "Some say it can be very triggering. Tech startup Sixty AI has created a free AI-powered assistant to lessen the alerts, pings and interruptions that we face daily. CEO Mat Ellis says it will highlight what needs your attention and manage the rest of the ..."
     publishedDateTime: 2023-11-08T20:50:00Z
-    webUrl: "https://www.wcpo.com/news/national/tech-startup-sixty-ai-offers-solution-for-notification-fatigue"
+    webUrl: "https://www.fox17online.com/news/national/tech-startup-sixty-ai-offers-solution-for-notification-fatigue"
     type: article
     provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
+      name: fox17online
+      domain: fox17online.com
     quality: 37
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/fe84c30/2147483647/strip/true/crop/2536x1331+0+42/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fa1%2F4d%2F1a18971e412596fddab27ed0cede%2Fscreen-shot-2023-11-03-at-4-34-58-pm.png"

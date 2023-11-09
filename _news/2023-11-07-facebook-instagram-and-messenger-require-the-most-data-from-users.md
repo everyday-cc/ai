@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 743
         isCached: true
-  - title: "Top 10 Most Popular AI Tools That You Need to Use in 2023"
-    excerpt: "The use of generative AI tools has exploded since November 2022 with the launch of ChatGPT. What are the most popular tools in 2023?"
-    publishedDateTime: 2023-11-08T12:44:00Z
-    webUrl: "https://www.techopedia.com/top-10-most-popular-ai-tools"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 39
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/11/Artificial-Intelligence-An-Android.jpg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "4jmbWZRB1gGqUT88FoPlgxLS8ubGM3ECEsK9O+cf6kxwEK8Bc9QpnDcl1OYOSr/q+fw5Js47zSQroqdEAwQJp2Q9c/xN2GAEqeSxhsbLhPUYNaWNYeiO7ubirj68itS9yPY55Gl4lfHTFHnS+fPZ3LEiqgin9pATJaTi9uhoVbjWxs1BlICK9W9YI6/WdLSF14J8toFi2KOrAGZWS2IIDF53X9W8N8xGfNi6sKm4o8bBbzDSjj9fugCUMzLfzUutaOm3Xgp1wTRJaOUGUMYVEUedVacU+DCmU9vhSQrMb5cGbvOZdZtD3hsNe+dRAbxvmH2JnqusDZQccclv3VvTkNiz1CqHFmxV9WX/xW5KY+0=;aqG12ljtpRZeAgSEsszHJw=="
 ---

@@ -157,6 +157,31 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "FINTECH DIGITAL FORUM TO INTEGRATE OPPORTUNITIES FOR INDUSTRY LEADERS"
+    excerpt: "Recent research findings confirm that fintech has had a massive impact on how people live, work and play. For example, banking-related chatbot interactions will grow by 3,150 per cent between 2019 and 2023, while robo-advisors are expected to manage some USD2 trillion in assets globally."
+    publishedDateTime: 2023-11-09T08:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/09/9914707.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/2272092/Sheriza_Zakaria_Big_Dataworks_CEO_speaking_at_MGBF_Roundtable_21_Mar_2023.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Singapore as a global fintech hub – an unstoppable trend"
+    excerpt: "Singapore has an ecosystem of more than 1,440 fintechs and 40 innovation labs dedicated to financial services."
+    publishedDateTime: 2023-11-09T10:04:00Z
+    webUrl: "https://www.theedgesingapore.com/sff/singapore-fintech-festival-2023/singapore-global-fintech-hub--unstoppable-trend"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/sff/singapore-fintech-festival-2023/singapore-global-fintech-hub--unstoppable-trend"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/sff/singapore-fintech-festival-2023/singapore-global-fintech-hub--unstoppable-trend"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 24
   - title: "Millennials led the consumer fintech revolution post-2008. Here’s why Gen Zers are about to do the same"
     excerpt: "It was in the wake of the Global Financial Crisis that the first meaningful cohort of iconic consumer (and B2B2C) fintech companies were created: Block, Chime, Coinbase, Nubank, Robinhood, Stripe, and Venmo (which was acquired by PayPal). The convergence of three seismic events caused this explosion of companies:"
     publishedDateTime: 2023-11-06T11:10:00Z

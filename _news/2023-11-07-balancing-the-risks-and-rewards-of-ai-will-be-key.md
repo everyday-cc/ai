@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/nov/06/balancing-the-ris
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Guardian
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Rise of AI: Artificial Intelligence in 2024 Technology Trends"
-    excerpt: "In the ever-evolving landscape of technology, one phenomenon has consistently captured our imagination and redefined the way we live, work, and interact: Artificial Intelligence, or AI. As we step into 2024,"
-    publishedDateTime: 2023-11-06T15:24:00Z
-    webUrl: "https://techbullion.com/the-rise-of-ai-artificial-intelligence-in-2024-technology-trends/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 54
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/The-Rise-of-AI-Artificial-Intelligence-in-2024-Technology-Trends.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Sense of shared humanity and dialogue will be the essential in the age of Artificial Intelligence"
     excerpt: "He was previously Dean, International and Corporate Affairs and Dean, School of Computer Science and Engineering, Bennett University and Director, NVIDIA-BU Research Center on Artificial Intelligence. He has also served as Head, Computer Science at Thapar ..."
     publishedDateTime: 2023-11-08T15:40:00Z

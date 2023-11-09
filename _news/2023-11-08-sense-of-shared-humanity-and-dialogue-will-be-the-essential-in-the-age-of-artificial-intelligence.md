@@ -43,20 +43,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "The Rise of AI: Artificial Intelligence in 2024 Technology Trends"
-    excerpt: "In the ever-evolving landscape of technology, one phenomenon has consistently captured our imagination and redefined the way we live, work, and interact: Artificial Intelligence, or AI. As we step into 2024,"
-    publishedDateTime: 2023-11-06T15:24:00Z
-    webUrl: "https://techbullion.com/the-rise-of-ai-artificial-intelligence-in-2024-technology-trends/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 54
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/The-Rise-of-AI-Artificial-Intelligence-in-2024-Technology-Trends.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "d+jmJ931pD1WRXo6AKlbBEEx88fVXXL356R8viES+x3u0hfiXxWJBWXXEOjf2sheT/V4Q9ms1fvdZHw5lopiHS/jvZr9AFErxjr8za2uwOxU1TxkayNrAd/2JwOF9wbajRobwkmBoU7HaQPMPURz5q7v/t6KBzUlFp/wHuBudQuFWL+K13FwoeHum5Z7PRyJeVmFIl1g5zksaCAiR4oI1RzyR0A0k6SFlE/sc2OdFgg6SfEb21dLmTAInMGlMqAMZoGixX0dy5QlJctcvJbz5TjVvCpn34eQGH8PV34ik7wE9DpP79o9yA3R3/W/R0d4jzKoZoj+9k04L0cppGaKRkZIYCCyRQZ2BBTZbgGhRN8=;/v+AlDubXAgpgPTkW+0ulw=="
 ---

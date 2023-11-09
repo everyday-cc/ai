@@ -25,37 +25,42 @@ images:
     isCached: true
 
 related:
-  - title: "Balancing the risks and rewards of AI will be key"
-    excerpt: "Letters: Readers on the artificial intelligence summit in London and Elon Musk’s comments about the impact of AI on all our lives"
-    publishedDateTime: 2023-11-06T16:45:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
+  - title: "10 Most Vital AI Trends We Need to be Ready for in 2024"
+    excerpt: "In 2024, healthcare powered by AI will become the norm. 5. AI Ethics and Bias Mitigation: A Moral Imperative Ensuring that AI systems are ethically sound is non-negotiable. Bias mitigation techniques and ethical AI frameworks are crucial. As leaders ..."
+    publishedDateTime: 2023-11-09T06:33:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/technology/10-most-vital-ai-trends-we-need-to-be-ready-for-in-2024/465119"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://i.guim.co.uk/img/media/dc758b4f15353dff8f0e24f228d75e679ac61968/0_172_7940_4764/master/7940.jpg?width=620&quality=85&auto=format&fit=max&s=8dd9f99fdc4bed0aec9203bb86e97647"
-        width: 620
-        height: 372
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1699511298-AIcanvanew.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Sense of shared humanity and dialogue will be the essential in the age of Artificial Intelligence"
-    excerpt: "He was previously Dean, International and Corporate Affairs and Dean, School of Computer Science and Engineering, Bennett University and Director, NVIDIA-BU Research Center on Artificial Intelligence. He has also served as Head, Computer Science at Thapar ..."
-    publishedDateTime: 2023-11-08T15:40:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
+  - title: "3 Dependable AI Stocks to Buy for 2024"
+    excerpt: "Additionally, they introduced generative AI tools to enhance content creation for Instagram and Facebook advertisers ... language model is quickly becoming the standard of academic research (thanks to being free), which is helping the tech giant lock ..."
+    publishedDateTime: 2023-11-07T17:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-dependable-ai-stocks-to-buy-for-2024-1032789077"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 46
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "Top 10 Most Popular AI Tools That You Need to Use in 2023"
+    excerpt: "The use of generative AI tools has exploded since November 2022 with the launch of ChatGPT. What are the most popular tools in 2023?"
+    publishedDateTime: 2023-11-08T12:44:00Z
+    webUrl: "https://www.techopedia.com/top-10-most-popular-ai-tools"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 39
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg"
-        width: 414
-        height: 364
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/11/Artificial-Intelligence-An-Android.jpg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "n0wxeTAN8U3WIHkFddAqnIdmr1MK5ctj7zPWqT6gTNMLHpf9Jz076x7z+BQh1q43/2zB7zpy6am4OZF0HhOuS0+UYBNu2Yzg+Q/blkS/WXNXPVJPJQmlgMlJlevzr3Ad9+ih3JrbYZ1jyqrf1C7MDPB9Qu3Az9cnIi8mqigtAJiEOMLi476C5aQU8PF7jARHJgJ1q1rZcPC/GG+kZBYzR4EOyA6KOW5MNOqUUpWrVyDnfGMMaW73Yc6/35dxia9a13YKeM8MA1DeSzoP9BL/TXwLJR5gAp2bS4jmsMayU8Uapnz0nhVtz7/9hyYsmiLzFL60lq023olHDDStOO1UUQaszGwH5LNnZYysYO3EdqCShA1xKRMSCxzQh6NnFoCHlLSBn9sIYxzT8ceIUy3Enr0fXFK5G3Jl3OJ/4yeU2mS/CF7xikIpNlw7iTvGj6qa7uTFu287rika3KLdOYlS6nZPpu6Or8oSCdKFkcVgKgZF5+1IGmR6GahtL0pWoZnOIytJMGu+ZKVGJ76D4EDEmA==;BSY4foohQNmVE0GwLQS5pQ=="

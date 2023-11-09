@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/business-67284936.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67284936.amp"
 type: article
 quality: 57
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Dependable AI Stocks to Buy for 2024"
-    excerpt: "Additionally, they introduced generative AI tools to enhance content creation for Instagram and Facebook advertisers ... language model is quickly becoming the standard of academic research (thanks to being free), which is helping the tech giant lock ..."
-    publishedDateTime: 2023-11-07T17:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-dependable-ai-stocks-to-buy-for-2024-1032789077"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "Want to Create a Website? Just Have a Chat With Wix's New AI"
     excerpt: "A \"human-like conversation\" between the AI and the user collects all the required information to tailor a website for their needs. Dynamic questioning and follow-up questions based on responses help select the required components for the new website while also constructing a business profile in the background."
     publishedDateTime: 2023-11-08T14:04:00Z

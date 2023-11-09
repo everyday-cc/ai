@@ -150,6 +150,34 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Exploring the future of fintech"
+    excerpt: "The Singapore FinTech Festival has emerged as an important platform for discourse among policymakers, technologists and financial sector experts. Photos: Singapore FinTech Festival, Elevandi With advancements in artificial intelligence (AI),"
+    publishedDateTime: 2023-11-09T09:16:00Z
+    webUrl: "https://www.channelnewsasia.com/advertorial/exploring-future-fintech-3899741"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 24
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--jlxy0wBs--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/06/bstudio_sff_elevandi_lead.jpg?itok=vXKSHFgp"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Top fintech events to attend in 2024"
+    excerpt: "Imagine jetting off to the dynamic and rapidly growing fintech hub of Dubai in January 2024 for the World Finance Council's Fintech Conference. This global gathering brings together financial leaders, tech experts, and policymakers, all with a shared goal:  exploring the fusion of finance and technology in the Middle East."
+    publishedDateTime: 2023-11-09T09:45:00Z
+    webUrl: "https://www.finextra.com/blogposting/25172/top-fintech-events-to-attend-in-2024"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://lh7-us.googleusercontent.com/aBnCOszzZC1zUyfDG6-8Ugve8DqZydcR7NQKhWIIe_6a5J9OHA6NTdBRtKrzIV5OiegM3Ypn_iWNhZrB3EqrObWlpseEyb8uVMLOaiytaTiBOK0tMdSpPJ_MudXwkiYzgCX9rk5J6RY-8VBB3vGVESw"
+        width: 1600
+        height: 636
+        isCached: true
   - title: "BIT2023: Banking, Fintech Co-Create Larger Ecosystem, Build Strong Foundation"
     excerpt: "Get ready to be acquainted with the Who's who of banking and fintech fraternity of the UAE over two consecutive days next week on November15 and Nov"
     publishedDateTime: 2023-11-07T20:15:00Z

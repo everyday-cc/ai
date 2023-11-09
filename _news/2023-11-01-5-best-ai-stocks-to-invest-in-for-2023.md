@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best AI Stocks to Invest In for 2023"
-excerpt: "Today, Amazon uses artificial intelligence for everything from Alexa, its industry-leading voice-activated technology, to its Amazon Go cashierless grocery stores, to Amazon Web Services Sagemaker, the cloud infrastructure tool that deploys high-quality ..."
-publishedDateTime: 2023-11-01T15:28:00Z
-originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=4a887e99-f88b-4adf-a584-d9b172b45477"
-webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=4a887e99-f88b-4adf-a584-d9b172b45477"
+excerpt: "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ..."
+publishedDateTime: 2023-11-01T10:05:00Z
+originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
+webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
 type: article
 
 provider:
@@ -16,7 +16,7 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
+  - AI in Autos
   - AI
 
 images:
@@ -25,6 +25,6 @@ images:
     height: 337
     isCached: true
 
-secured: "RGzUoUC6ayE7hAcw3isdaTc34fzeWlLHA2/Opm3UzNfD6aq+Oqr9PMU21dI3GQ3CZqrwdUVfSRe2QGO/uKzGPW304jNkpWYpISTsItkyEHrimONxtp94DOG2mIqanxUTZ4g0NQE1bAncQ26sVAhNxJ4LpoTaxl58BglNYnU6hCMa1ShInoG6A33pVuaZldCnHzyys1e3+JdVqwG2yc6GL4KC7YaqgC4XpU0nTJaHxnuwruWCNd1Xy3el9BjdzsxG2px9QKDCnF0FoUJqYEIfgMiLevBJ+frHqQrsRh//P9uhMC+w0qAzeUb3pGGyUrqOw0UxhJAYE6hEDWPD9Kk3KQO2DuzCKMzvFalVtAP7w0w=;4mtW/be3x92UL0bm+Xw+Pw=="
+secured: "KDQJgc/fFZeTbbBvKrRIM1Rf3Yf7VaHtr7dlmY4X+pHiDam9OpJhWg5RlbuLtasq3ntb8gO1fhyHsGyDed86P9wEBc2Er0AVmCQGNuL+omdWGbh4KWPq0zPxu92z/iYD6icGctN2l+G8p4Lu19gZHXnDcWCASXpG8mXEc8IFLyNNaaSyp+fTi6MIw2CRYjjXOVbyJh7oKIM2MnpZLVnG19bwFuCZrxZb38pEtwjUvQe5Tv/pHaE48eOqc4t7wqlIdFVo/57hecn+3fG+tXowz0nc20mN9gnmY6Cl0usyOQLS30KvhFKZkwJ/ZjLN6Q8HqM6FzO4TNaMrQwkNm8QVHZi+DgHpIkiI7gdFSn3GPKk=;RVmgT+n7yLvA/uizoEzTMA=="
 ---
 

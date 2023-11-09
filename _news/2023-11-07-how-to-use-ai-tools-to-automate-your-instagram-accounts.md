@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 10 Most Popular AI Tools That You Need to Use in 2023"
-    excerpt: "The use of generative AI tools has exploded since November 2022 with the launch of ChatGPT. What are the most popular tools in 2023?"
-    publishedDateTime: 2023-11-08T12:44:00Z
-    webUrl: "https://www.techopedia.com/top-10-most-popular-ai-tools"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 39
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/11/Artificial-Intelligence-An-Android.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Facebook, Instagram, and Messenger require the most data from users"
     excerpt: "Facebook, Instagram, and Messenger—request the most data from smartphone users, according to research from data centre company TRG Datacenters. The apps require access to 14 separata data permissions,"
     publishedDateTime: 2023-11-06T23:36:00Z

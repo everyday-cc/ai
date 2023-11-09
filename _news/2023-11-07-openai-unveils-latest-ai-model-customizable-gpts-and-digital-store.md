@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "OpenAI’s gen AI updates threaten the survival of many open source firms"
+    excerpt: "OpenAI is trying to position itself as a viable alternative to build-it-yourself, open source development efforts with cheaper products and advanced capabilities."
+    publishedDateTime: 2023-11-09T06:31:00Z
+    webUrl: "https://www.computerworld.com/article/3710328/openais-gen-ai-updates-threaten-the-survival-of-many-open-source-firms.html"
+    ampWebUrl: "https://www.computerworld.com/article/3710328/openais-gen-ai-updates-threaten-the-survival-of-many-open-source-firms.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3710328/openais-gen-ai-updates-threaten-the-survival-of-many-open-source-firms.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/07/openai-100943386-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ChatGPT-maker OpenAI hosts first big tech showcase as AI startup faces growing competition"
     excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT unveiled the future it has in mind for its artificial intelligence technology on Monday as it launched a new line of chatbot products that can be customized to a variety of tasks."
     publishedDateTime: 2023-11-06T15:16:00Z

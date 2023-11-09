@@ -3,16 +3,16 @@ category: news
 title: "Tech startup Sixty AI offers solution for notification fatigue"
 excerpt: "Some say it can be very triggering. Tech startup Sixty AI has created a free AI-powered assistant to lessen the alerts, pings and interruptions that we face daily. CEO Mat Ellis says it will highlight what needs your attention and manage the rest of the ..."
 publishedDateTime: 2023-11-08T20:50:00Z
-originalUrl: "https://www.wcpo.com/news/national/tech-startup-sixty-ai-offers-solution-for-notification-fatigue"
-webUrl: "https://www.wcpo.com/news/national/tech-startup-sixty-ai-offers-solution-for-notification-fatigue"
+originalUrl: "https://www.fox17online.com/news/national/tech-startup-sixty-ai-offers-solution-for-notification-fatigue"
+webUrl: "https://www.fox17online.com/news/national/tech-startup-sixty-ai-offers-solution-for-notification-fatigue"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WCPO Cincinnati
-  domain: wcpo.com
+  name: fox17online
+  domain: fox17online.com
 
 topics:
   - AI
@@ -93,6 +93,6 @@ related:
       domain: searchengineland.com
     quality: 0
 
-secured: "Si1ZD+h94s5giMcO0bOQIkONNZ4Jyy1ZdlZyx7Orf2L5dPAEb9YPFrKy1QSlxUbrZvMDyiPh+zcYyEOjv11YnUJ1GjRozoiMIgNqezLjf+SuA1mqAyz74+3aiVyX3TG0EXEd21ynmuW7mps2iUoB2N4gpuB7NK6hIPDixd+BsdbWKXayUwv6T5/RY9ZxUsDm2EineMJBzYvHSVfTNcxQ73X2eEzIDZPyAOp7GCIieKwilmbjainyKm3HrPPAYkBqKBFNM+hAOGNi1FIuPriAub055ZJFiAMAXF6lsqD2yWqTZKnlkrIozLbCR4EXjd6L1E4mK+8U3qNnrlQPwc79Qcj/MjtiT7zbN8+XXtXOKcatuQhqSJwNyroKITeh05DvhYC06tSK4java3PkLeixvfir5rtSTuRb/mY16FCsk9DPYJKKPUBVhB+i9Uh1WLYI3go3prErJDLhVLQdIx90YMyHaEHCuUBpgxTD9EkiTwxYgZ4vqQsu6ziHEws2yxbdp2dyX5WEaHbgkMANCfPNIQ==;2a0GjBr4wcT8Y09RQkDP9w=="
+secured: "5LauVYot8PKaj+wLEUquPH45dDUUAp2kP7RMrbznrnYuz2nGBOuM3lItRVVF6p0EaAtpx9np4BIDxImLPKV7onj32YsDQgqnw6SnpesMwBZ1BkJV4GimwOG5xoGLqun8yMt86ziCahabkeNseSN5/CDKETG6ioT2YVzQ9j6KqDj0hS3YmjSCYnZ5/Ox667ptQkbLS9A8pCHq0yhihhQ+cGAywTR9EfpuxE0R0xCoDdeHtbiSoFPmCSVM/aGuzL0he91CBOkL8X1ci+LNHb6oDv/iw+32Z8NsvC1PBgocHOIDlt/iqUBofdhokY8Ws6fYmhV563XyQpW7jbKsXMWCSffzlpVUMxpwUXEwTANQFsA=;eFPsf0LyziLGqVmmSki+xQ=="
 ---
 

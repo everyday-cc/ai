@@ -41,6 +41,20 @@ related:
         width: 2560
         height: 1523
         isCached: true
+  - title: "Nvidia will release three new AI chips in China"
+    excerpt: "Nvidia is planning to release three new chips for China, weeks after the US blocked it from selling two high-end artificial intelligence (AI) chips and one of its top gaming chips to Chinese companies. The STAR Market Daily news outlet said that the chips ..."
+    publishedDateTime: 2023-11-09T10:36:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57907-nvidia-will-release-three-new-ai-chips-in-china"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/ecd45cdff7dc279d8a284c5acde94d7d_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "MAw0A06dkeJrnM5oaVBHEErnymGIo5LV/qUtLojk9NvLKc19RL9U/pUbN1hwc3yMnozLVVkCZ0MihZk6LvjVbyljzihnCsMyXHzfpRslYiL1tE3ZnGdws1+50UbRduRuCoOarhFDaQwpPZlBLGqyiu+T4GiIlC/j53X+E1WfHA/aN5GhG94zlvxbcaPE4Imv+YOiq3ZTAYFyTxvmMYn6/gQlFmJnympFy91R/xxB4KAbqUo/3gFez0jQQOZOzeEsqYjvCWNL0sFyTLL2Zfv3obNOaJENdoP+ISpRqOYcuDmp7+nHQIjeqwIGENzb7ObbgOwwurgVBZVa7em58NDdqGsN3a2XMnPr5nMvRH6xJFw=;NNYsPTFLznQt/z2tvl2S3g=="
 ---

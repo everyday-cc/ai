@@ -49,6 +49,20 @@ related:
         width: 1199
         height: 674
         isCached: true
+  - title: "Upcoming Samsung Galaxy AI Can Translate Calls In Real Time"
+    excerpt: "Samsung has already unveiled Gauss, its in-house generative AI that comes with Language, Code and Image sub-models. While it's not"
+    publishedDateTime: 2023-11-09T10:00:00Z
+    webUrl: "https://www.lowyat.net/2023/310698/samsung-galaxy-ai-translate-calls/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 54
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2023/11/Samsung-Galaxy-AI-Live-Translate-Call.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Samsung AI Forum 2023 starts today"
     excerpt: "Samsung has announced that the new Samsung AI Forum 2023 has started today, the event is taking place at the Suwon Convention Center in Gyeonggi-do, Korea"
     publishedDateTime: 2023-11-07T10:30:00Z

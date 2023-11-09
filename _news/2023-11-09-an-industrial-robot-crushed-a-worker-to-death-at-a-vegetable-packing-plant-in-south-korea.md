@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/industrial-robot-crushed-worker-death-063
 webUrl: "https://www.aol.com/news/industrial-robot-crushed-worker-death-063541312.html"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1199
     height: 796
     isCached: true
+
+related:
+  - title: "Industrial robot crushes worker to death as he checks whether it was working properly"
+    excerpt: "Authorities say he was he was grabbed and pressed against a conveyor belt by the machine's robotic arms in a vegetable packing plant."
+    publishedDateTime: 2023-11-09T09:28:00Z
+    webUrl: "https://www.cbsnews.com/news/industrial-robot-crushes-worker-dead-south-korea/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/industrial-robot-crushes-worker-dead-south-korea/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/industrial-robot-crushes-worker-dead-south-korea/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 52
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/11/09/5a03b9da-c226-45c3-87cc-70ec3e3d28c7/thumbnail/1200x630/bbf0222ab3fea076fb24b745df3a6b73/ap23313237022230.jpg?v=e2a739f263a10b93b27cae9568461c29"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "WgdocA2a9idgiPwghfQw9Rj7FLhlHoz89GUE9jVNuRtM77gVjnD0Jr90+MygKGAi8h2b9WKuSJwsdAbxrnm/hx4XXusbMPp6ZQVJq2Z2whj4H9mwt4LxS4OVwRT2nuZiu9LwUE3if0NRalgQ+Q4Z8C6QJCI9Jd7P67HsCzzPIciuEu/v6fQQEjnyRPNX/nJCec4Z5ZU6fO6uJuLVUUSMGdTDHdblAf4Vch2xx+y6mEC2QB1FepgPBF9v0Gf7u+i8IyfBr4auWEFnEd9Gb9k5L7f9qAOmtX32x1UmHU5qaZy2IsYxBilJcC4dmfgvbH3JDiha1ZL3SE/sJFnxwBjkskMlNQfnWMHmd9Kcne35/74=;7DDOvwJrHMz+tzzEo3awgg=="
 ---

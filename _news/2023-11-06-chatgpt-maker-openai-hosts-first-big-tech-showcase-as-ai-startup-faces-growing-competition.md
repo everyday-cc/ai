@@ -72,6 +72,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "OpenAI’s gen AI updates threaten the survival of many open source firms"
+    excerpt: "OpenAI is trying to position itself as a viable alternative to build-it-yourself, open source development efforts with cheaper products and advanced capabilities."
+    publishedDateTime: 2023-11-09T06:31:00Z
+    webUrl: "https://www.computerworld.com/article/3710328/openais-gen-ai-updates-threaten-the-survival-of-many-open-source-firms.html"
+    ampWebUrl: "https://www.computerworld.com/article/3710328/openais-gen-ai-updates-threaten-the-survival-of-many-open-source-firms.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3710328/openais-gen-ai-updates-threaten-the-survival-of-many-open-source-firms.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/07/openai-100943386-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "OpenAI takes ‘baby step’ toward AI agents with Assistants API"
     excerpt: "OpenAI unveils the Assistants API, a 'baby step' towards autonomous AI agents, potentially revolutionizing our interaction with technology."
     publishedDateTime: 2023-11-08T14:00:00Z

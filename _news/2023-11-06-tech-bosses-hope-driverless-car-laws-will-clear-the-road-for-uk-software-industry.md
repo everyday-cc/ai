@@ -47,20 +47,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "OPINION | LET'S TALK: Driverless cars: The good, the bad and the AI"
-    excerpt: "\"GM halting driverless car service nationwide after California ban\" is the headline of an end-of-October CNN story by Chris Isidore and Peter Valdes-Dapena. Seems the carmaker has decided it was \"putting the brakes\" on the driverless cars it had developed and which were already providing rides in some locales."
-    publishedDateTime: 2023-11-04T16:30:00Z
-    webUrl: "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/?news-columnists"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 54
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205695740_HelaineLogoWEB_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 300
-        isCached: true
   - title: "Driverless cars: The good, the bad and the AI"
     excerpt: "GM has expressed how much safer driverless cars are ... \"65% less likely than human-driven cars to be involved in an accident and 74% less likely to be involved in a crash in which there is a meaningful risk of injury,\" according to Isidore and Valdes-Dapena."
     publishedDateTime: 2023-11-04T21:38:00Z

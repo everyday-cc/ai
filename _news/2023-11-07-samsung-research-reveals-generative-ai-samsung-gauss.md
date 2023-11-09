@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/samsung-gauss-generative-ai/"
 webUrl: "https://www.techrepublic.com/article/samsung-gauss-generative-ai/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/04/04/14/enviar_imessage_android-100939355-large.jpg?auto=webp&quality=85,70"
         width: 1199
         height: 674
+        isCached: true
+  - title: "Upcoming Samsung Galaxy AI Can Translate Calls In Real Time"
+    excerpt: "Samsung has already unveiled Gauss, its in-house generative AI that comes with Language, Code and Image sub-models. While it's not"
+    publishedDateTime: 2023-11-09T10:00:00Z
+    webUrl: "https://www.lowyat.net/2023/310698/samsung-galaxy-ai-translate-calls/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 54
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2023/11/Samsung-Galaxy-AI-Live-Translate-Call.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Samsung AI Forum 2023 starts today"
     excerpt: "Samsung has announced that the new Samsung AI Forum 2023 has started today, the event is taking place at the Suwon Convention Center in Gyeonggi-do, Korea"
