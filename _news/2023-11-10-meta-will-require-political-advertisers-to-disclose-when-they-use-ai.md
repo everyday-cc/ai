@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/654d2696b140537bbfa4a692/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -152,6 +153,6 @@ related:
       domain: aol.com
     quality: 0
 
-secured: "F68aBdiLJfv3Paf9+iO0I3YxaVue/dZN5apetGKUwm+sg80MQBvbDla65BFKEMBMmbaPdgNv1czyevEr1NPRxe4JHu4AsSG+c35HrHHcAVAP+xhGD5m4MX2P4YBATPqT0+OxuOQ/mqgqL48VJ15CYApgaYoqkXHPNZF8WBOTeuFzrqjkv1jly0Bo0QCWSJIhzthmQyAD9DqTFSSvEM/ErUDrmPnbD0CJo1PIXUFUUgGDkrRngykSPP9YJpJ9cKTT+SwC6EdqAbfhh1FPCbVVCo9+/4/lvV0xDURXFq2RDea6X8l7JVWDoh+i32nNCGwISCsiA/sG4hJMoxMXxKk1+FTPDD9TaDhFNaOKUpQkZ3M=;zDaKeaieoj4FGF0RHrAwfQ=="
+secured: "6ssbUIkMMyTtyiymds0lAsCfbiPfzjJYglfLUXCP4JppK35XvNlsk/xd0kPVHqBuvLYkqobkGdKwpKvbK4iwuBCC8HuhdWhcfFtjXe0kdp9Zo1ma7idxO54IWwt/X2q0fRrl8XGrmVPXwf0TiPb7aDU75eRZ0qIVK9qS4qz3oSZGccjcQ8JrrgitI8VGaXW6AXn4Qt67poUn0mur0arze3UnZjlZAOWvfQu9qrTE19wLjWzQWSr5mfM7gU+dlRipyIm+GDaZeBj/PbfCfNKiE4VOfIKB5AqGR6TdRMhV0lPALuTIxtnYKcnfGLleaGTQqjg6save/46ugWPJU/7v9dTrjPbA3QbBwGKfcwemxXVpyeeYNVaND7Wla9qoia5GFayPPTXy3zHKgrIrKom38j9e3OfvXsJQWav65kC4y3792dw0LhfAjCoRnJtDyNbcSdY/OGGw+fqHXi1JB1ZeYjA3DdUg403mdmwe/I36kiX3u5e+velWO5B00Ibetaoco8+mn5tspY6N1j+isyAIfw==;Ll4FInxp/nqcCthKeF2bEQ=="
 ---
 

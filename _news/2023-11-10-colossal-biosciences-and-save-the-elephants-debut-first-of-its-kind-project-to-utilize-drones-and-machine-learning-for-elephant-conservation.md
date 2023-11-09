@@ -1,0 +1,20 @@
+---
+category: news
+title: "Colossal Biosciences and Save the Elephants Debut First-of-its-Kind Project to Utilize Drones and Machine Learning for Elephant Conservation"
+excerpt: "In this collaboration, Save the Elephants will deploy a small fleet of drones equipped with high resolution and infrared cameras to capture elephant behavioral data. The data gathered will then be processed by Colossal's machine learning core to develop algorithms that will label elephants and automatically identify individual and collective social behavior."
+publishedDateTime: 2023-11-09T20:25:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-colossal-biosciences-save-elephants-debut-first-of-its-/2023/11/09/9915156.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-colossal-biosciences-save-elephants-debut-first-of-its-/2023/11/09/9915156.htm"
+type: article
+
+provider:
+  name: TMCnet
+  domain: tmcnet.com
+
+topics:
+  - Machine Learning
+  - AI
+
+secured: "eTlYH7Ua7BfbEzPw8OGYxExlhxxTAprlOcTn+XFA40a1GiQFy9jys2Emlh3e2tuXOSGLkaRvUeRvrhd5wjlfhhWg0tqHS3BxYzwG/ybuanGFe9T0nqQJlglW90GO3T8erfDOojxAzuePgedwfMxXyrFSpPJCRmrfAek8INMt87Vi1UCAQx77zSBzKcuwlXCXU9rH+XqY3eViH9YFiVL0JrHOlbRDcI1sYMOLOrOxLUzWjrCDdQB429D2Kc9GJS9UaXvJfxkTLeWROqM1tAqZ0MmaEST6dyr0QUu9ZMMejA38IAtFhLOMK9qm07fZY4Mz6cPGn17SOQ+EtIconYtu3hMoniGvI0wjDzNaOSE/lzLdvcs9n9Em40ZCF5ANimlBeRyE+1P2jtKzDDRnsrD0fcq+WUk9U0/Vs+Rf0kCuWUfty2jjHC0FR9TMiPvTtUNvw1cECXLLZwthhA7uKMg3sNnnu5GZ36H77No1HYbB1AP7CxFiqkafCFnOGQlEf5z32UyXTmUM9GfoySHe+gqQ8Q==;sVkEcppH0ooMNdIjdZX3sw=="
+---
+

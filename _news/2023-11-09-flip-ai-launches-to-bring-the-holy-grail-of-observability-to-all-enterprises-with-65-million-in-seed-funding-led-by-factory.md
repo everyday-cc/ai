@@ -1,39 +1,20 @@
 ---
 category: news
 title: "Flip AI Launches to Bring the 'Holy Grail of Observability' to All Enterprises With $6.5 Million in Seed Funding Led by Factory"
-excerpt: "Flip AI Raises Funding from Factory, Morgan Stanley Next Level Fund and GTM Capital Today Flip AI also announced $6.5 million in seed funding led by Factory. Morgan Stanley Next Level Fund and GTM Capital also participated. The company plans to use the money to continue to advance its product roadmap and LLM and to expand its team and operations."
-publishedDateTime: 2023-11-08T17:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9914309.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9914309.htm"
+excerpt: "Today Flip AI launched with its observability intelligence platform, Flip, powered by a large language model (LLM) that predicts incidents and generates root cause"
+publishedDateTime: 2023-11-08T16:02:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/11/g35678759/flip-ai-launches-to-bring-the-holy-grail-of-observability-to-all-enterprises-with-6-5-million-in-s"
+webUrl: "https://www.benzinga.com/pressreleases/23/11/g35678759/flip-ai-launches-to-bring-the-holy-grail-of-observability-to-all-enterprises-with-6-5-million-in-s"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "Ritual Secures $25 Million in Seed Funding to Decentralize AI"
-    excerpt: "AI platform Ritual obtained a $25 million capital injection in a Series A funding round led by Archetype with assistance from Accomplice."
-    publishedDateTime: 2023-11-08T21:00:00Z
-    webUrl: "https://cryptonews.com/news/ritual-secures-25-million-in-seed-funding-to-decentralize-ai.htm"
-    type: article
-    provider:
-      name: cryptonews
-      domain: cryptonews.com
-    quality: 39
-    images:
-      - url: "https://cryptonews.com/wp-content/uploads/2023/11/1699475021-ai-7977960_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-
-secured: "M6HMh0Na5AQBXADjwHJP/61m1IsswiOiryI/TCuptAT/Lrq8mjtIQvfp7nTfuPp+OBYGMb8ejUr6YuO/3hw4Zj9dHXN7gl/zyBbe1Tp0uaWgkMPxUfcGNiEk9f9iHR5vkcy1YqyiHPmMvzB6of9NmSrHqapbZanSH58lW/xA/x91rUroqZqXqJyd0XRx3VCMwG580pd5GwRygOeC8ytUih/+c7a+emhxwPrILT+LMcXakV+69mWKfFH7ri1hiu2Et56cS8ocjDbC7FxpNukEs8pmLvADYrTV0uVDz8XCuXR2mvvTIt+HIP7Pf5bHk6ltWbpnG/hmEMidLKPHWy0S+fQExwKrGFZ+rYTrDYND7/E=;JAoUB3C6UNAFLq9Rbjzsqg=="
+secured: "5ichCQsFVRTWGatJ/Q0kAvp/ic+csybcT7oawvSnoQGci5u0GJcNLaVyLes73wZliu0/knHBBy63HZqA0aAbwBQrvjavb/nuW8/R1Rm6rx0uJgcNwuia9f1cKzp63J1OO/34lIMnU7SHFVvD4m3EOo+qelFC/1L32JRLhLf/YDLEjfJMMNNA6m0wtyehlT9eF2doIWMlD3/VB2XbCnYZaW/IMiWyTeSFhnorpa8pdZMTFiqX+yUqHxL+Hck8+q4E3PhGmkgcgPB0d1Z1trjWa71NtEYZgulBetqntdRPNQ2PVrk4U3m/ZMxHucYCcVEerFdVcc3qx9VPWjComdlL2e4VlYgfrQFYMouGoPnhJVk=;OEAIucJZedNnzSzfO2F9VQ=="
 ---
 
