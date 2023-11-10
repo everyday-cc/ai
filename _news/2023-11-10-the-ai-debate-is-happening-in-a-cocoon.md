@@ -7,7 +7,7 @@ originalUrl: "https://www.theatlantic.com/ideas/archive/2023/11/focus-problems-a
 webUrl: "https://www.theatlantic.com/ideas/archive/2023/11/focus-problems-artificial-intelligence-causing-today/675941/"
 type: article
 quality: 67
-heat: 97
+heat: 99
 published: true
 
 provider:

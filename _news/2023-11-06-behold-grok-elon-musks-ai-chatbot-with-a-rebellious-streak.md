@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/11/06/tech/grok-elon-musk-ai-chatbot-x-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/11/06/tech/grok-elon-musk-ai-chatbot-x-twitter/index.html"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "Elon Musk unveils Grok, an AI chatbot with a ‘rebellious streak’"
-    excerpt: "Boss of X said the tech currently being tested is inspired by Hitchhiker’s Guide to the Galaxy"
-    publishedDateTime: 2023-11-05T12:23:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/nov/05/elon-musk-unveils-grok-an-ai-chatbot-with-a-rebellious-streak"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "/pGg8CEMpLwDPVzjeDsWKBfJgQzqIFlUVxK0NX7P3fK5OAkBKSo+A5OHU3W2nIbgXLD2JUtpeLUmyhXol2GTxOditIycvK4qtvVW0IXxcuqx/8BqHRhzteR3pgFaqH6+zn2yu6BGJaUzxDlQkmcKQqW1DXuL1qJMYY6QvFc3kUvA/GLkc3OpEgpswBD6UxF8yIetA8HGpxYcS0ywOsxIQYsoKNnsH1Lc+hk2e57n8WAhSM3gDgovcP6UrswupTbaC9CgQkrbY3tlvUzcRRgR+tAxdsKafocHD3jcVW6IjThBlFLabW3CibHHeSMNcregRohXfqVXX6jex6J+TAWtTDk43Rj6hnebJDpvExc05UJ9jZWF2QG1YnjSfapccIxxTDml4r1l5TrkRShECE4cOJhO7bp65Wl4uP/VpUu1t1OX82qjDDl+f4KecfVqDFNFjD8ngpZYEeLbML5eLwiV3X+y1m+mkIOxeLWpLwcCQx5LQ5ke2MGtqjKZTccapPoU1Mz4MQkeOf6uumM3Ej5XbA==;WSoLvofkOOsJ7tpF/G4LtQ=="
 ---

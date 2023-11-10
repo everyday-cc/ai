@@ -2,20 +2,26 @@
 category: news
 title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
 excerpt: "Musk, who helped start OpenAI before parting ways with the company, launched a new venture this year called xAI to set his own mark on the pace of AI development. Grok is only available to a limited number of early users but promises to answer “spicy ..."
-publishedDateTime: 2023-11-08T20:45:00Z
-originalUrl: "https://omaha.com/article_1546c0bb-8339-57fe-8cf4-e9cf7929783e.html"
-webUrl: "https://omaha.com/article_1546c0bb-8339-57fe-8cf4-e9cf7929783e.html"
+publishedDateTime: 2023-11-09T04:37:00Z
+originalUrl: "https://tulsaworld.com/news/nation-world/government-politics/article_8fb7292d-70e6-55fe-8f44-0d5db2b2c175.html"
+webUrl: "https://tulsaworld.com/news/nation-world/government-politics/article_8fb7292d-70e6-55fe-8f44-0d5db2b2c175.html"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/0/20/020a9902-f940-5a8e-9452-0b9c17da7ed3/654bd69c05ba4.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
@@ -49,6 +55,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?resize=1200,900"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Autonomous AI Multichannel Content Marketing, SEO & Chatbot Tool For SMB Updated"
+    excerpt: "Brain has announced updates to its AI-driven SEO, content marketing, and chatbot automation platform, which helps small to medium-sized"
+    publishedDateTime: 2023-11-10T03:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/autonomous-ai-multichannel-content-marketing-seo-chatbot-tool-for-smb-updated-1032803110"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-autonomous-ai-multic-1699541288.jpg"
+        width: 600
+        height: 338
         isCached: true
   - title: "Samsung Teases Its Own ChatGPT-Like AI for Galaxy Devices"
     excerpt: "A new feature called AI Live Translate Call will enable those with the \"latest Galaxy ... where requests must be sent up to and return from server farms running generative AI and language learning models. Qualcomm has been a cheerleader for on-device ..."
@@ -316,6 +336,6 @@ related:
       domain: thestreet.com
     quality: 9
 
-secured: "vQoysn96om2m2gCXlOOQ7k/gDPCEg/+SgBPP3yP4OeOgos8Jc4xKOB5KQuZska2dP+MXw3SZ1zJxaoe78xOjBfCQvTTR03DsXYUdSzoEcBz6ZSInbQk2UP+OmPBcIBprsrSla/szcKdsBL61Tm5cg2nk61QnaJMfunOBFz9HPY5PObAnJ5AUrolR4VFJdhfyU0cY79G2naKcXhOZtV+R1RfwebvIoEGYrhd0PXqddCe6IUlq52L0qAbBwoldeydeUoJrJMpF/bgVudxbsUM9e2p64LxuSJSYihxu80ywg5yPkvdssxefnxTN72cs9BDYV9QRZ/Q8A2/oBGohDlv8ehpfJ6tnaLCAZQXILDwiSFuW6djPCJuVVlZ8U9snOtBV+ZgYXRbqEj7jgpLM26RgmXH4sUzXGMJuN+XGeCl8DRboLfGJI0R0EFXgNQnAF6N5VcTiANvloFXDimeFvIjeUgHNdOoFgkcueyU1Ng2jNJVhriBtv/tnOBQrnvRHLXhPOcqahMiaRkdWMTOaTO4ncg==;gN9lDRZFGjjVbU36aHTjgw=="
+secured: "EZX9yVn6q2QluASaPz8RO5SJb1aIpUyTAzY+FP718g8R8rha58cFIaseldBx7wu5NrcfWuULwn2/5N+Z/lDVPDvwazKWz326yDs4O6RejCe2XzzMdnJX60ZzDPg5jOPtw2fe+ziaNR2ISv9Gub0jcVWgfgQslqBnat7gjV6erM/pVBv5QQtnt6FoCAtakazp7MXC8OhyeH5RBaGW4jBP4oV39P1mdoNYT4RXlqJ59NAReVO/SHKdQi9c1qBBhJ7q32nlwCF+ImuQWdLpo/M1mCSLuQN0Bov9ML/GFWzpTic10ipBmpNf3O5AlYgMc+LZdB43kK+JF5f1TEKRAxGN439BiWHFJ5+ywUbFaTMYGxg=;ME7lafzrcZOI3C7hdcKyaA=="
 ---
 

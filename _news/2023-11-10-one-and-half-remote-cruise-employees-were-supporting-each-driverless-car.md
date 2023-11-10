@@ -66,15 +66,6 @@ related:
       name: Australian Broadcasting Corporation
       domain: abc.net.au
     quality: 34
-  - title: "Tech bosses hope driverless car laws will clear the road for UK software industry"
-    excerpt: "But firms hoping to win big giveaways in the king’s speech this week are likely to be let down"
-    publishedDateTime: 2023-11-05T13:00:00Z
-    webUrl: "https://www.theguardian.com/business/2023/nov/05/tech-bosses-hope-driverless-car-laws-will-clear-the-road-for-uk-software-industry?ref=biztoc.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 14
 
 secured: "V+gm00vCAa+xEWeaomSqk0Q9Xwy0jld8XxWS8E0BC/cteE6hk/z9cSE5uzcdQRH9H7nlSEFPiNcj6Mzzx3N6czEFrhAngQgPqCOo5BrGtEkNn/opLzhS7JNF7AkjLBsjlUNet/pRAzwcEhJQuzQjYxc9Cv7PczHEQ0G9BSrMpoXJyq9rLXpDHWWnIYIOrhZhaoLiyMaiXi/ZgzxMeeaEqvwWrjng1lCEJldFtOxvzWcBy51HAT5EDETL2YTcE3EXlijZGPEDBv0IGMadUkQL60CqiZFvu8RFHWxVZtYwyiv8DlBJtQeUJm2cFYSD+ZlO2YqZuxTG095KlQbOSkiWHpxRO2OchH6Au2JI6prN8Xc=;9qP42k+OxUZicadXQYOqEw=="
 ---

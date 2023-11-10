@@ -24,17 +24,6 @@ images:
     height: 740
     isCached: true
 
-related:
-  - title: "Artificial Intelligence Executive Order: Industry Reactions"
-    excerpt: "President Biden issued an executive order on safe, secure and trustworthy artificial intelligence. Here’s what’s included, as well as the tech and cybersecurity industries’ response."
-    publishedDateTime: 2023-11-05T11:43:00Z
-    webUrl: "https://www.govtech.com/blogs/lohrmann-on-cybersecurity/artificial-intelligence-executive-order-industry-reactions"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 17
-
 secured: "9hNcA5yQt3znO5+JU0p99e7AFnQ3lpsPjxbxTrSEf2k63mYhW+3CHlEpYf/DZiZjNSy5ywDgPr5JXJof0tbPPfvkv+9yVIqQlRrYTlNLNETjjV45Cg0auVNN+jjOWSvd0ypvwXtZQIOkCcPKqSqa7thXevTVkuwdjl+zCIZzwlqYeGl8nAiTNXxjqxqPmrwGS+E7tk9WsXuq9Xno3PWbPNtxqRHd8DT8+5mswuEBqYdcOuJSvVd18iaUatrwzT2+ACMnv10JCVWomD30HBCTSVUbHIfXrnI9pgQRppxDQFG2p5OFslgyJ8Y5dhPFtTm3M7Fxuc7MONFxUC3fqAJO5IFcdxFCmHrNgA6Pztxo/vUl+AzbwmbwxsIyOs6GzDRtwC18Na+RhtPLq8i1mWVLqwExhIfuzX5sTGeZ5AZq2NfhujXTYxN9GPqJf+PC2MGGekqv5SiMxITWKdo+fdqLK5gGPRdd1Su1qE79Va6PCYuRqU+HbJPB2pgo7k6rLn6rzfl2l/vyRhOQEIH54EpvRA==;0tHAQ7s1M+CF1VBtJ71Zhw=="
 ---
 

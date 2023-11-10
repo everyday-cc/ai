@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/politics/2023/nov/07/from-goat-exports-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
       name: Australian Broadcasting Corporation
       domain: abc.net.au
     quality: 34
-  - title: "Tech bosses hope driverless car laws will clear the road for UK software industry"
-    excerpt: "But firms hoping to win big giveaways in the king’s speech this week are likely to be let down"
-    publishedDateTime: 2023-11-05T13:00:00Z
-    webUrl: "https://www.theguardian.com/business/2023/nov/05/tech-bosses-hope-driverless-car-laws-will-clear-the-road-for-uk-software-industry?ref=biztoc.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 14
 
 secured: "uPA/8xcvzLegj+VqQ1i2sg1LOxtbjOWaLGo4uvZ7CdwHZqM4uvKVgH0CfgnSwtSvG3KvkTf65Q4vSxkeUtdBFgzKCFQFyJaIfGgKXRLkkTBFhD2oqRiH29KvwSe0d17U33h1HWUMOy8Ue7KVZ0jsREKxiIlFsOIJhorFJwxtoRWPoBXkSdaoWYwtSGakJByY55MzStqaPq2BVJKDgSFoC9HncFRYPic2rxlZLMpz24z8lyVspfAP3pJKchEi/DeqiNVxtfH/AwhjqVQ+vE8dV+Y1/7Bf+ksFEProZ5n5VWATQHb/Z8BEJ1F0jjdSb4DW0xmNKQQhOucBdknlrik7ML9zq8hd8Y6UmHww37eR7x8g12ZmCutY/NuuUmouNv+MD2pOsp9j/aBBdEVnm62rlOl3orlGlBV0xZNytwGU/yDoLYKsUV9goFkX9d4KF4ciMFjM4EJ64pCjcC/18Sw1u0yZYnOLpbT+AW11Od+JXe4ridohpF3eXtPGovGF3OC+OG7Wk9qORcWYT51xpc1SGw==;PvrODFhOX0N6YfqJmTvKSg=="
 ---

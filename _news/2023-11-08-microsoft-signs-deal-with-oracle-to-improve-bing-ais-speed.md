@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "KX Introduces New AI Features to Enhance Microsoft Azure’s Data Management Capabilities"
+    excerpt: "Representing a significant milestone in its strategic partnership with Microsoft, KX, a global pioneer in vector and"
+    publishedDateTime: 2023-11-08T23:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/kx-introduces-new-ai-features-to-enhance-microsoft-azures-data-management-capabilities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 61
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/03/KX-Logo-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Siemens and Microsoft partner to drive cross-industry AI adoption"
     excerpt: "Companies introduce Siemens Industrial Copilot, a generative AI-powered assistant, designed to enhance human-machine collaboration and boost productivity. Companies will work together to build additional copilots for manufacturing, infrastructure, transportation, and healthcare industries."
     publishedDateTime: 2023-11-08T03:54:00Z

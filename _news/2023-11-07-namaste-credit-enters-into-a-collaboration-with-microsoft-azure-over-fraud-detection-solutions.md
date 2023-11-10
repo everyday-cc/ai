@@ -87,6 +87,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 79
+  - title: "KX Introduces New AI Features to Enhance Microsoft Azure’s Data Management Capabilities"
+    excerpt: "Representing a significant milestone in its strategic partnership with Microsoft, KX, a global pioneer in vector and"
+    publishedDateTime: 2023-11-08T23:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/kx-introduces-new-ai-features-to-enhance-microsoft-azures-data-management-capabilities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 61
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/03/KX-Logo-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Microsoft signs deal with Oracle to improve Bing AI’s speed"
     excerpt: "The deal will see Microsoft leveraging Oracle infrastructure to deliver faster results to those using AI in Bing."
     publishedDateTime: 2023-11-08T07:41:00Z

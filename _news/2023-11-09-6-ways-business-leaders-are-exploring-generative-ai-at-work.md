@@ -186,12 +186,12 @@ related:
         isCached: true
   - title: "Rockwell Combines Generative AI and Industrial Automation"
     excerpt: "The reliance on text bases in modern software development means Rockwell Automation can capitalize on generative AI's ability to read, produce and generate text."
-    publishedDateTime: 2023-11-09T20:37:00Z
-    webUrl: "https://www.govinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
+    publishedDateTime: 2023-11-09T20:25:00Z
+    webUrl: "https://www.healthcareinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
     type: article
     provider:
-      name: HHS
-      domain: govinfosecurity.com
+      name: healthcareinfosecurity.com
+      domain: healthcareinfosecurity.com
     quality: 39
     images:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/rockwell-combines-generative-ai-industrial-automation-showcase_image-3-a-23564.jpg"

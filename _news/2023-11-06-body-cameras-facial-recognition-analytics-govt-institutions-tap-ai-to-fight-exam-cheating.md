@@ -48,7 +48,12 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/08/building-analytics-data-paths-best.jpeg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "AI and Machine Learning: Powering Predictive Analytics in Applied Financial Technology"
     excerpt: "Introduction In the dynamic world of finance, staying ahead of the curve is crucial. To make informed decisions, financial institutions and professionals rely on data-driven insights. Thanks to the rapid evolution of technology,"
     publishedDateTime: 2023-11-08T13:36:00Z

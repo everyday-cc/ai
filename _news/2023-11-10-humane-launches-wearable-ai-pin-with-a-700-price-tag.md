@@ -80,7 +80,7 @@ related:
     provider:
       name: MacRumors
       domain: macrumors.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://images.macrumors.com/t/8IdwJ3oLXfB79MptvG-c1buLJZI=/2000x/article-new/2023/11/humane-ai-pin-2.jpg"
         width: 2000

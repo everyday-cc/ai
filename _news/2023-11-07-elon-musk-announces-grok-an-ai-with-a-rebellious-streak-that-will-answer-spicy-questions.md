@@ -68,15 +68,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Elon Musk unveils Grok, an AI chatbot with a ‘rebellious streak’"
-    excerpt: "Boss of X said the tech currently being tested is inspired by Hitchhiker’s Guide to the Galaxy"
-    publishedDateTime: 2023-11-05T12:23:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/nov/05/elon-musk-unveils-grok-an-ai-chatbot-with-a-rebellious-streak"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "x3Bcj6GFhMIwqHJhQPVM/gzkAaDcUnQCAEJF4Qq4zLHYXnGybS64zU/CnUy4YFgOXQRhoQ/Uev+IKgDXVHm4dZqYxowdzmSXE7lI6gwKdbZUfWVfzJkeLQTmFVWAqOejM0StUpCYI0GWr3UqtguG6wVDt2s4boWloz8qGMCDRYQ80jNgHYFN69VnN3elpG2rQHCnI2X/a54mzACUzKCTnHB0W/wZyoNlE/X9bAssgFjkRu6JrGqQUMaymy2+7o4SxuqwhBWtXc2FLdv9mCAHjfmVxnvtmyX1Xw5MFCeS1M73umJj4iireXGCNsUnR4gDhhUGU8uv4fBT9uDUuXZXycq8+iguPoycOb0vx0P/vrI=;poAtkBAXDFjh9tnPyQsKig=="
 ---

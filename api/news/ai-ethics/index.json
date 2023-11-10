@@ -291,49 +291,6 @@
       ]
     },
     {
-      "path": "_news/2023-11-07-christians-join-faith-leaders-in-raising-ethical-concerns-about-artificial-intelligence.md",
-      "title": "Christians join faith leaders in raising ethical concerns about artificial intelligence",
-      "excerpt": "Christian leaders in the field of science, technology and theology have added their names to an open letter calling for faith and belief communities to part of the national and international discussion around artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.christiantoday.com/article/christians.join.faith.leaders.in.raising.ethical.concerns.about.artificial.intelligence/140994.htm",
-      "originalUrl": "https://www.christiantoday.com/article/christians.join.faith.leaders.in.raising.ethical.concerns.about.artificial.intelligence/140994.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://christiantoday-4cf9.kxcdn.com/en/full/82437/artificial-intelligence.jpg?p=140994&w=760&l=54&t=39",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T03:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Christian Today",
-        "domain": "christiantoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2023-11-07-ai-in-oncology-care-ethical-considerations-to-respect-patient-dignity.md",
       "title": "AI in Oncology Care: Ethical Considerations to Respect Patient Dignity",
       "excerpt": "If you have paid attention to medical news lately, you have almost certainly heard about some emerging uses of artificial intelligence (AI) in medicine, in | Cancer",
@@ -1442,6 +1399,58 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-how-ai-can-impact-companies.md",
+      "title": "How AI Can Impact Companies",
+      "excerpt": "Embracing responsible AI deployment, fostering a culture of innovation and prioritizing continuous learning are essential for businesses to thrive in an AI-driven era.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65329a6eb5a2b7609dec2392/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/amp/",
+      "publishedDateTime": "2023-10-23T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

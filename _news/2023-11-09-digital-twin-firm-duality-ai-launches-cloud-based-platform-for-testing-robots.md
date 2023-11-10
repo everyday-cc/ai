@@ -33,15 +33,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Picsart launches a suite of AI-powered tools that let you generate videos, backgrounds, GIFs and more"
-    excerpt: "Picsart, a photo-editing startup backed by SoftBank, is launching a new suite of AI-powered tools for businesses and individuals. The suite, called Picsart Ignite, includes 20 tools that are designed to make it easier for create ads, social posts ..."
-    publishedDateTime: 2023-11-09T14:31:00Z
-    webUrl: "https://techcrunch.com/2023/11/09/picsart-launches-a-suite-of-ai-powered-tools-that-let-you-generate-videos-backgrounds-gifs-and-more/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 32
 
 secured: "X0Go8PQLHO9fEpKAuSsLFbY6bNW6psiWpcF72dyeF67C/aVoQUdHZ9KEAGG+wi9hl47YPc7N28Mxkoil2nJvQk4LdDfckJZOUf9lFCjMTIk9FQ96GuExvGHKveyxxe/THRxnm/bU+MJb02YxtkooHsBGfANz4uyXxwfOxqROX1L4TaUk5pqWjGTBzoQ48gnXa0ntKck4vRLu3Lj7K/Z3oyYxQRH1YlQ2okyhKb9D55JVeDwJX7eh3JowmgHeBvH4Jb58jZfZMsvUa4LZfL9hTMUaPAfkX1gTtxSjdByZLK1hMLzWwikXDHNYtLM3DciC7nv7hZXY6xbi3/KjDQl7+H4SCR1UChWCPMTAkiDLXnrUebnmDVWgKAIKbkMB/Ip5+IoFmxVNinP9vLMdZdnSrwEDuw8QGTPulMUJAx6x6nAy2OgLmXDokPF2PD1rnk5/pM9hp3jEA8H7BhCPzHqSkufOBnTTVkSbS0ik/xXCAh4l64j3EHo3+/erHpo7a591lR06MD63mf083i+8aBkZGQ==;9YnNtV1fJkdBMJuEe33QUg=="
 ---

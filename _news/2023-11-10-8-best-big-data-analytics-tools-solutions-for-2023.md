@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-09T19:44:00Z
 originalUrl: "https://www.techrepublic.com/article/big-data-analytics-tools/"
 webUrl: "https://www.techrepublic.com/article/big-data-analytics-tools/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.techrepublic.com/wp-content/uploads/2022/08/building-analytics-data-paths-best.jpeg"
+    width: 1200
+    height: 801
+    isCached: true
 
 related:
   - title: "Thematic, Leading Provider of AI-Powered Feedback Analytics, Reports Growth Milestones"
@@ -84,6 +90,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "sljqhPZKZ3fh3Th9DgmdBTQ0dd1KWPrPtoSMQQonkDTg+2tOywO3Hj/qvZl8crkw3BymVXAwYSaNMdo1t/e9cNXADsij4bEg4zj1bqj1Bo7q43njOx3K+PehHchrS0QBpVhJY7v28IpbRNtdV0kXeCWSIQfDQR18+7B+WsvlKU/6SMJXGY4l7Mcy5G/TU39GWq4kcynw/5/jVqexmbX/O2fFOx1Rur7iEc1EKU2fGvlRq8B6yv1F0o1BAJbzbhEMh74q0mSgl1swO2/twhRb2rYQBadpIQVqJ9is7VX03n3tZPsLYHOrnuoIuz+2+fpmorVLJ3jjw/+VMKTZwxYWJ9Wqo+THUrJiLRZ3xZO4tzE=;Q5JEkAA49jiVz8taj0Co0Q=="
+secured: "sGFCfnXG/mmCg3t0bwSvE51V0U5YrvJSRp6s5RTRNHlKoUGQjdPxk3HxI6axgoJqaoUmQJJzneH0S8sxuZCg3eNRLmhQDqczrn8wgMYkJKOzEwiqLuDRhlr1PzANMYYYHxbGlou/UFZpM1opOWVImhg99jhf4V7c628a1b6r7OagI9xjTEyA9yMhNaytALAkBp4r1Jx4Oe9svCv6fxFvuyJB6zX86wt0488iS6OGc6ky0wokItiPeloR1A8XDLZg/4/+aox2299GCzk0Iej1loIeN5GkpynPgvJJXGixlqwghtKSMcBMnTqgOuRiidmUWcjyrvdz3312aDjC9QuG5dqKoEh5rHXqvVhm8/SMOK8=;cMQD/X/7eUW/xrx64YXelg=="
 ---
 

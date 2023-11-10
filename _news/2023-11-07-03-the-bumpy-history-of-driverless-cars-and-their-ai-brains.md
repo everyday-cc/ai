@@ -65,15 +65,6 @@ related:
         width: 1988
         height: 1264
         isCached: true
-  - title: "Tech bosses hope driverless car laws will clear the road for UK software industry"
-    excerpt: "But firms hoping to win big giveaways in the king’s speech this week are likely to be let down"
-    publishedDateTime: 2023-11-05T13:00:00Z
-    webUrl: "https://www.theguardian.com/business/2023/nov/05/tech-bosses-hope-driverless-car-laws-will-clear-the-road-for-uk-software-industry?ref=biztoc.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 14
 
 secured: "EDSnF6pEvr0kkyqtmDzetDZpEDSwtl54ZrHQdgiwdexo9Q2/QysvrBtX9V5QxTMtB1snYd3tAS6xIiYWz5ohy+bIyeTi7xPwD9KY7Su8YUHp+tEifETD4ldTvMj1yITvak7KIXa9i5+ZXbyPXflS8Bg+sr8aiqneILKqrLrsoxbWU+00GZ5BJOLCD3YhbtcBmEHPKOGsvrQMemv0lLIqCCpGq4RL7etfhIXHdPYRq7KNpRw/a/C9lsWQhU6AgvIyeOAPqkGWhpIvjlUJmIEa95WbDeGV6iIPA2tIMouPuuUU02/stlyPc5OHdvToY/E9k2g/x2V0m6yhDFycIFDZCyN8It5j45AWUTd23qDHSdz6oWaL1yrp8dNafvFsDdTai+L2MTwV7Z5poNMltTVdd4xcJ5PC0heKU1XGhIPumFI+FRtrcl5mU0O/BIZMH40b2JBYSHNfx7r5UgpEVjS8GTQ5ujLg14h4IhxZXm6GJBxnwd3FINchWf7QmmcCx4QonMXobrkdf2UYhSfA5p68JQ==;WNGfn8nZ2Gp4uPO2NZnOGQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-and-microsoft-work-together-to-bring-
 webUrl: "https://www.ibm.com/blog/ibm-and-microsoft-work-together-to-bring-maximo-application-suite-onto-azure/"
 type: article
 quality: 131
-heat: 241
+heat: 251
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/Untitled-design-2023-11-07T172351.660.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "KX Introduces New AI Features to Enhance Microsoft Azure’s Data Management Capabilities"
+    excerpt: "Representing a significant milestone in its strategic partnership with Microsoft, KX, a global pioneer in vector and"
+    publishedDateTime: 2023-11-08T23:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/kx-introduces-new-ai-features-to-enhance-microsoft-azures-data-management-capabilities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 61
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/03/KX-Logo-300x300.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "Microsoft signs deal with Oracle to improve Bing AI’s speed"
     excerpt: "The deal will see Microsoft leveraging Oracle infrastructure to deliver faster results to those using AI in Bing."

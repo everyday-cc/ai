@@ -97,6 +97,17 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "AI Advancements In Healthcare: Promise, Progress And Pitfalls"
+    excerpt: "AI has raised questions about the need for ongoing training and education for healthcare professionals to effectively utilise these tool."
+    publishedDateTime: 2023-11-10T03:31:00Z
+    webUrl: "https://inc42.com/resources/ai-advancements-in-healthcare-promise-progress-and-pitfalls/"
+    ampWebUrl: "https://inc42.com/resources/ai-advancements-in-healthcare-promise-progress-and-pitfalls/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/ai-advancements-in-healthcare-promise-progress-and-pitfalls/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 54
   - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
     excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
     publishedDateTime: 2023-11-06T06:08:00Z
@@ -124,20 +135,6 @@ related:
       - url: "https://assets.medpagetoday.net/media/images/107xxx/107260.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Biden executive order imposes new rules for AI. Here's what they are."
-    excerpt: "WASHINGTON -- President Joe Biden issued a wide-ranging executive order on Monday that aims to safeguard against threats posed by artificial intelligence, ensuring that bad actors do not use the ..."
-    publishedDateTime: 2023-11-05T12:07:00Z
-    webUrl: "https://abc7news.com/white-house-artificial-intelligence-executive-order-biden-ai/13990936/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 41
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/13990938_cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9jNGppcTgwMDByM2I2aWd0cmR2dmZi-L19wYWdlcy9jbG9jNGFqaDQwMDVwNDdwNGUwNTVhMjJq.JPG?w=1600"
-        width: 1600
-        height: 1067
         isCached: true
   - title: "Biden Administration Issues Sweeping Executive Order on Artificial Intelligence"
     excerpt: "The Biden Administration issued a sweeping Executive Order directing a broad set of government actions addressing consumer harms, discrimination, privacy protections and other issues stemming from the widespread use of artificial intelligence. While the ..."

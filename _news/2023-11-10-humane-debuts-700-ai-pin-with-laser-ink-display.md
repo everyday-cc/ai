@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-10T01:18:00Z
 originalUrl: "https://www.macrumors.com/2023/11/09/humane-ai-pin/"
 webUrl: "https://www.macrumors.com/2023/11/09/humane-ai-pin/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.macrumors.com/t/8IdwJ3oLXfB79MptvG-c1buLJZI=/2000x/article-new/2023/11/humane-ai-pin-2.jpg"
@@ -139,6 +140,6 @@ related:
       domain: bgr.com
     quality: 9
 
-secured: "pYAVJ6tVlSnmRZWR8nuWPp/rRwoDZUhq3S8ivRX7eg4zxQ+Dc6nxrYk0TehzYCLXIEg1+65HEVmtuNb/RwUH6sf159sJdZYowzc5Gauo7v6jhQzMAQafysdbbQ/3AZqbjLT5tApkx18i2CaijNl7cIrDAIQyU8TqQxpEmnybMOe7wsfo4pnoYVVExrhp4ARnitZ+WOA9n6ETOPWtaDO2ktCmLHt+7kUjxa0hYDPxkE9LUn1o54wVterF2nYGeRh6YM5sfMfzVtWEkPUz3MEK71z9B9WklrhttQeWOBtZnyEs/7S6TvWJJCOSYUWmijbSUfza12WdHnyW1jFg0tPUc2eJPfn54XkbbGRAHq0qpTU=;kVFr1ge7uF7Q//14vpOhkg=="
+secured: "E1rR+c//Bs1rwETJPTOcXcJHhwLPOBeROO90iqNsBT04slrVgVZalTWsFphl3kvLDePviZMvmnhtS+1u9wElBd3MRr5Zu7XB0T3Gy4ilv8uhtBtGGnf7kQIOOK38uAT2ZAbvhIKLaeRKetHAVkQw6ES6iMJ/wo8vwjhmEAswFeyi9PG6wMfKiJ2hrKDcvawwFf6d1gttR4w7xNwjCk72SjC9WYeuujIrTkw1gAHCr8AMfC8WN5Xq/ebAfiB1f3NsGehlaRcCY/xnq5Td4jlpxYDsVbQ4zs8mkwddwIXmAWP73aoxqnJt5alWhEQ10+X7Mw5yqIBfjUqPpsRmlXLNO11ELI9hfnV0kvAYOX058jCjlufimlHdhp/ijtVBHv6ybFiwtChtIf8LFAbVamkrNyIZxEnLKywLC20o2ZXYQMdnXYjxmF5FWNnlYKfD2Tw0TH+//nAzImiFrjCvBTLcayNdnrACDb46RhY1OM6DqgePvTA7FAzrYTO3FXltfGNRJANr1vpW1CqG1f2lDLkLKg==;FJ+jovgElJ/qtD40EWGjJw=="
 ---
 

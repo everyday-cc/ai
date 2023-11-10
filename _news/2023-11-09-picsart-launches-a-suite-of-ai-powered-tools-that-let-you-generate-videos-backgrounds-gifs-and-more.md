@@ -22,29 +22,20 @@ topics:
   - AI
 
 related:
-  - title: "Humane Launches Ai Pin - Marking A New Beginning for Personal AI Devices"
-    excerpt: "The device for an AI-powered future Humane is committed to building a future where AI seamlessly integrates into every aspect of our lives and enhances our daily experiences. The launch of Ai Pin marks the beginning of this journey and the start of an exciting new chapter in AI-powered, personal technology."
-    publishedDateTime: 2023-11-09T18:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/09/9915431.htm"
+  - title: "From Startup to Market Leader – HomeDesigns AI Pushing the Envelope in Home Design Space with Revolutionary AI-powered Tools"
+    excerpt: "HomeDesigns AI is a web-based AI-powered home design platform featuring a host of unique tools and modules for interior space remodeling."
+    publishedDateTime: 2023-11-10T03:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/from-startup-to-market-leader-–-homedesigns-ai-pushing-the-envelope-in-home-design-space-with-revolutionary-ai-powered-tools-1032803114"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 38
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
     images:
-      - url: "https://mma.prnewswire.com/media/2272340/Humane_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/WeraP7i62sgexGIFNwzD88Tp1ko2/1699201435241-0.jpg"
+        width: 512
+        height: 256
         isCached: true
-  - title: "Digital twin firm Duality AI launches cloud-based platform for testing robots"
-    excerpt: "Duality AI, the developer of a suite of tools that allow for simulating the real world so artificial intelligence and robots can navigate it using “digital twins,” announced today that it’s expanding its capabilities into the cloud, making it possible to access simulations through web browsers."
-    publishedDateTime: 2023-11-09T14:02:00Z
-    webUrl: "https://siliconangle.com/2023/11/09/digital-twin-firm-duality-ai-launches-cloud-based-platform-testing-robots/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
 
 secured: "K/Dy12fLax2Xr2XqoMJqkmiYTjwXm2S1qjOOxfjwKt2akfnHbjEsCYD08RK3JPsA8HZdGqCGuCmSl9G+w4Ao/HCTw3S3tCDaRoXqK8cKZIskqxKETsub7bzcpoOHUzTTlZExx3x4wbQrZVqTBbRA86+aVI7P2cdB3dcados0ffVqtAceZfegLCnch/Gy/s0QNPlU/8Cwcaeoy6KsVFnwyokauUtQeYmgPz0ldlhUEzBUnlPxKdkxSKxZnZvrvhEAy+HbNANWF2a7Z88G7IG9xrq4IP15phBdJWVkpNaqlwzPNBkFr4cXMniCVghHAMEbauy1DfLL5Ybg0hvY/b6M9bLi298f1MauArWJdyEGLks=;c1G9s+ZqMIP5MQbs7ALqwQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/king-long-secu
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/king-long-secures-1mln-at-dubai-world-challenge-for-self-driving-bus-x3qj7wsf?amp=1"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 900
     height: 600
     isCached: true
+
+related:
+  - title: "Revolutionizing the Trucking Industry: The Impact of Tech Advancements in Load Booking, ELDs, and Self-Driving Trucks"
+    excerpt: "Discover the future of trucking: loadbooking technology, electronic logging devices (ELDs), and self-driving trucks. Enhance efficiency and"
+    publishedDateTime: 2023-11-10T04:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/revolutionizing-the-trucking-industry-the-impact-of-tech-advancements-in-load-booking-elds-and-self-driving-trucks-1032803115"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 11
 
 secured: "QidE0mTbStIWrLfAqVC386VTM8CSlTFCi/GAv1RC9Q480DZ2tMXls3tIWruze/FCvksK2MC+y3913rJtWen2c6EUvYXBPFTqQog3thmQ2QvyNLVfE5J73Est48fmaBgMuRUC7yaSye4Kazj7V7UADnLKl5uPkydIVCIncB0bbbnkQaZImGjqgJ4ZBD9YT8F2YD+2TibO3k9Zz61LvPPRFztzr600GXHLBHMXa7VfxLkpUg4VoQ/0cFYHALs1pr7FKfPUh2npxgWrZH+ZdVD0OZp13SYRDSd/sJVkvD3C7IXyv8yLhNOHBhaOXLyqR/Xbml43YXvmQoz58i3R1HpcWL+75Mm990g9sycLk2qz/jkM4uYx7fnT18wKcXEmw8MNu89/UtAs+JeHdiKPFSMshftjtlVyXsDjATsZiGqXDnY96Um/r+EbYMaOCJvvhUEkuq7MOqNATLLU0p3AOZXjG55bGmry1pwmR82EDc6VlNaVTMgmZ9HYqgYav8cu539sKVFkk6fODsOxgAxDTsryuQ==;u9KVNZFfzOOyNuRGpgr48A=="
 ---

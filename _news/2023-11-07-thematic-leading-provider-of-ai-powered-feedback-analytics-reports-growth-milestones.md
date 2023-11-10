@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "8 Best Big Data Analytics Tools & Solutions for 2023"
+    excerpt: "Strong security features with Azure integration. Power BI’s integration with ... It supports a wide array of tasks — from batch processing to real-time analytics and machine learning — making it a versatile choice for businesses that need a robust ..."
+    publishedDateTime: 2023-11-09T19:44:00Z
+    webUrl: "https://www.techrepublic.com/article/big-data-analytics-tools/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/08/building-analytics-data-paths-best.jpeg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Body cameras, facial recognition, analytics: Govt institutions tap AI to fight exam cheating"
     excerpt: "While these efforts by state-run institutions may enhance the integrity of exams, concerns remain on privacy and harvesting of data on students."
     publishedDateTime: 2023-11-06T05:26:00Z
@@ -44,15 +58,6 @@ related:
         width: 770
         height: 433
         isCached: true
-  - title: "8 Best Big Data Analytics Tools & Solutions for 2023"
-    excerpt: "Strong security features with Azure integration. Power BI’s integration with ... It supports a wide array of tasks — from batch processing to real-time analytics and machine learning — making it a versatile choice for businesses that need a robust ..."
-    publishedDateTime: 2023-11-09T19:44:00Z
-    webUrl: "https://www.techrepublic.com/article/big-data-analytics-tools/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 34
   - title: "AI and Machine Learning: Powering Predictive Analytics in Applied Financial Technology"
     excerpt: "Introduction In the dynamic world of finance, staying ahead of the curve is crucial. To make informed decisions, financial institutions and professionals rely on data-driven insights. Thanks to the rapid evolution of technology,"
     publishedDateTime: 2023-11-08T13:36:00Z
