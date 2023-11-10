@@ -56,6 +56,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Introducing Commvault Cloud powered by Metallic AI"
+    excerpt: "Commvault Cloud, powered by Metallic AI - a new, unique platform that security teams can improve cyber resilience ransomware and cyberattacks."
+    publishedDateTime: 2023-11-10T06:21:00Z
+    webUrl: "https://www.itnewsafrica.com/2023/11/introducing-commvault-cloud-powered-by-metallic-ai/"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 39
+    images:
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/01/Commvault.png"
+        width: 800
+        height: 527
+        isCached: true
   - title: "Introducing the First True Cloud Platform for Cyber Resilience in the Hybrid Enterprise: The Commvault Cloud, Powered by Metallic AI"
     excerpt: "Advancing Cyber Resilience and Data Intelligence with AI and Commvault Cloud Commvault is introducing innovations that can help customers realize the full benefits of AI and improve cyber resilience. And, unlike others that use AI to simply generate content, Commvault is using AI in a way that can help customers take action. Here is how it works."
     publishedDateTime: 2023-11-08T15:35:00Z

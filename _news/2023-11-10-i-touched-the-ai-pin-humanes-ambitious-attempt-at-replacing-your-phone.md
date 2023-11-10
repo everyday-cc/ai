@@ -87,6 +87,20 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "New AI Device Launched by Humane Aims to Replace Smartphones"
+    excerpt: "A startup named Humane, created by former Apple employees Imran Chaudhri and Bethany Bongiorno, has unveiled a unique producta $699 lapel pin. This innovative device, named the Humane AI Pin, is set to redefine how"
+    publishedDateTime: 2023-11-10T06:17:00Z
+    webUrl: "https://www.econotimes.com/New-AI-Device-Launched-by-Humane-Aims-to-Replace-Smartphones-1665885"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 39
+    images:
+      - url: "https://f1.econotimes.com/2023/11/qcsfbl33nu_th_1024x0.png"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Humane Launches Wearable AI Pin With a $700 Price Tag"
     excerpt: "AI developer startup Humane officially launched the first iteration of its wearable AI pin on Thursday. Humane also confirmed the rumor that the pin would retail for $699 for the complete system, calling it a new beginning for personal consumer technology."
     publishedDateTime: 2023-11-10T00:05:00Z

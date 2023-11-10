@@ -53,6 +53,22 @@ related:
         width: 1119
         height: 630
         isCached: true
+  - title: "Air India bets on generative AI; to introduce more AI features to address customer queries"
+    excerpt: "Read more about Air India bets on generative AI; to introduce more AI features to address customer queries on Devdiscourse"
+    publishedDateTime: 2023-11-10T06:42:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2709003-air-india-bets-on-generative-ai-to-introduce-more-ai-features-to-address-customer-queries"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2709003-air-india-bets-on-generative-ai-to-introduce-more-ai-features-to-address-customer-queries?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2709003-air-india-bets-on-generative-ai-to-introduce-more-ai-features-to-address-customer-queries?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 49
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_11_2022_09_10_11_5257292.png?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "IBM Expands Relationship With AWS To Deepen Generative AI Innovation And Launch A New Innovation Lab In India"
     excerpt: "November 7, 2023-- IBM (NYSE: IBM) today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from the latest technologies,"
     publishedDateTime: 2023-11-07T13:20:00Z

@@ -51,6 +51,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Introducing Commvault Cloud powered by Metallic AI"
+    excerpt: "Commvault Cloud, powered by Metallic AI - a new, unique platform that security teams can improve cyber resilience ransomware and cyberattacks."
+    publishedDateTime: 2023-11-10T06:21:00Z
+    webUrl: "https://www.itnewsafrica.com/2023/11/introducing-commvault-cloud-powered-by-metallic-ai/"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 39
+    images:
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/01/Commvault.png"
+        width: 800
+        height: 527
+        isCached: true
   - title: "Protecto Joins Cadre of Startups in AI Data Protection Space"
     excerpt: "Silicon Valley startup is pitching APIs to help organizations protect data and ensure compliance throughout the AI deployment lifecycle."
     publishedDateTime: 2023-11-08T18:16:00Z

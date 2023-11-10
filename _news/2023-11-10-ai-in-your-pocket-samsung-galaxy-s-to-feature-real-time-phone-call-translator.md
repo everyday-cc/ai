@@ -106,6 +106,15 @@ related:
       name: Men's Journal
       domain: mensjournal.com
     quality: 19
+  - title: "Samsung to add real-time translation to smartphone model"
+    excerpt: "The South Korean firm is rapidly advancing its generative AI model called Samsung Gauss, covering fields of language, code, and image. (Samsung pic) SEOUL: South Korean smartphone"
+    publishedDateTime: 2023-11-10T05:50:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/11/10/samsung-to-add-real-time-translation-to-smartphone-model/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 4
 
 secured: "h1yK2EbDSNw89wjRe2Z1AqFiceCta24KwhmSH1cpcNhhSm7cB0D3YlW1hfhM742skzUqJkeMM7WMPAjV0sHlA60O6EqZNTKhOYdJRSqeEcnBP83MUMmnvoUkp4c1oWOpisdnB7+i/1b/GbKji8kbRBKloFIqU6Hp2gpH2W3BZAlRbL7y+zQ59fiWVoV/b7/tngJ20Qid5+MF/HXWeviW6FU3NUSdq/elWhhskJWCd3e+hS99cVLt2DPEDLTvQ7JB5/vFOhwwxltd7Hz3KuwQhugBSTx4C1fs2a6QiW9WI/wdNv2FMFpQOznU7bU898E0bKyI5l+60hix3hdMm6GT3EzApObEo7+xdt2FHmldO/O7WKlKZ4UmsQoLCyBQkRMcP0F0NX7+VqzjNclR6vlGy07cWTc/1cAFTsSVzs3SwxAOW6E+V753+3ZNVkgkWjIXB4FnVIn7o6upe9L5nY2kcAkEAtMGhuYLwhYkRwEpT8CQba4sxCyLyY8URWhgzyWbf+v/wCPTOU9rIuYJnkGsLw==;sNfjD1JNkWnLJ35AdbaWYA=="
 ---

@@ -27,10 +27,10 @@ images:
 related:
   - title: "Montefiore Department of Rehabilitation Medicine receives recognition for outstanding care for brain injuries"
     excerpt: "The Department of Rehabilitation Medicine at Montefiore Health System was awarded corporate citizen award for their quality care in brain injuries on Thursday."
-    publishedDateTime: 2023-11-10T04:19:00Z
-    webUrl: "https://bronx.news12.com/montefiore-department-of-rehabilitation-medicine-receives-recognition-for-outstanding-care-for-brain-injuries"
-    ampWebUrl: "https://bronx.news12.com/amp/montefiore-department-of-rehabilitation-medicine-receives-recognition-for-outstanding-care-for-brain-injuries"
-    cdnAmpWebUrl: "https://bronx-news12-com.cdn.ampproject.org/c/s/bronx.news12.com/amp/montefiore-department-of-rehabilitation-medicine-receives-recognition-for-outstanding-care-for-brain-injuries"
+    publishedDateTime: 2023-11-10T05:19:00Z
+    webUrl: "https://brooklyn.news12.com/montefiore-department-of-rehabilitation-medicine-receives-recognition-for-outstanding-care-for-brain-injuries"
+    ampWebUrl: "https://brooklyn.news12.com/amp/montefiore-department-of-rehabilitation-medicine-receives-recognition-for-outstanding-care-for-brain-injuries"
+    cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/montefiore-department-of-rehabilitation-medicine-receives-recognition-for-outstanding-care-for-brain-injuries"
     type: article
     provider:
       name: News 12 Networks

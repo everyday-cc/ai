@@ -33,6 +33,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How to win the artificial general intelligence race and not end humanity"
+    excerpt: "I witnessed DeepMind’s artificial-intelligence model AlphaGo defeat Go champion Lee Sedol in Seoul. That event was a milestone, demonstrating that an AI model could beat one of the world’s greatest Go players,"
+    publishedDateTime: 2023-11-10T04:32:00Z
+    webUrl: "https://www.aspistrategist.org.au/how-to-win-the-artificial-general-intelligence-race-and-not-end-humanity/"
+    type: article
+    provider:
+      name: aspistrategist.org.au
+      domain: aspistrategist.org.au
+    quality: 23
+    images:
+      - url: "https://www.aspistrategist.org.au/wp-content/uploads/2023/11/GettyImages-1403176138.jpg"
+        width: 724
+        height: 483
+        isCached: true
 
 secured: "zS6Nvvbza9zEFXoqLpCx1ojbbftPFtaCbyII+fqBQnt6CaotGuiQ6C+w1MBjkchW2efAZqSNIwv+yHbmIgA9J/bpQe+X5egdbStK+/fe5O37S4/pfMV7udFBN+4iMTIW8c2+lDW/SdCaBL9E+lAAPWiaT80Mnd09//KHVgDxylVDRwHKZJkRfHKuSv86MhhHl1TGCcCRu1YUckOvSvHERTbv0wAMoKatxM6DKs8rWQnlV0gF/Bn/kxEXK2Jk8VJE1DfZE30Mi2+F34+8IyAlH2bQOShJ+VH4GUNB5j3Ui23b56WE6MimyXK6MznMi8hjhKbFll6Ero8OJM28WtTauOYCDVcZDcei6sGa5i1yo1w=;PV3siInuL/hM/JMuUTMoBg=="
 ---

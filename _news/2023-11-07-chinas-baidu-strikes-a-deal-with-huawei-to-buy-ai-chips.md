@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/
 webUrl: "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/"
 type: article
 quality: 84
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -202,6 +202,20 @@ related:
       - url: "https://f1.econotimes.com/2023/11/9f64e8dmxk_th_1024x0.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Baidu ordered AI chips from Huawei, moving away from Nvidia amid US curbs - report"
+    excerpt: "Chinese internet search giant Baidu has ordered AI chips from Huawei, indicating Chinese acceptance of alternatives to Nvidia amid US curbs."
+    publishedDateTime: 2023-11-07T10:45:00Z
+    webUrl: "https://seekingalpha.com/news/4031598-baidu-ordered-ai-chips-from-huawei-moving-away-from-nvidia-amid-us-curbs"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 48
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/488987708/image_488987708.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
         isCached: true
   - title: "Exclusive-Baidu placed AI chip order from Huawei in shift away from Nvidia -sources"
     excerpt: "Baidu ordered artificial intelligence chips from Huawei this year, two people familiar with the matter said, adding to signs that U.S. pressure is prompting Chinese acceptance of the firm's products as an alternative to Nvidia's."

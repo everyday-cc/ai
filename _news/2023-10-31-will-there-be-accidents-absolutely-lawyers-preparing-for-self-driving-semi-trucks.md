@@ -3,8 +3,8 @@ category: news
 title: "'Will There Be Accidents? Absolutely': Lawyers Preparing for Self-Driving Semi-Trucks"
 excerpt: "Lawyers are going to have to start thinking about different defendants, said plaintiff attorney Amy Witherite of the Witherite Firm based in Dallas, Fort Worth, Atlanta and Chicago."
 publishedDateTime: 2023-10-31T00:35:00Z
-originalUrl: "https://www.law.com/2023/10/30/will-there-be-accidents-absolutely-lawyers-preparing-for-self-driving-semi-trucks/"
-webUrl: "https://www.law.com/2023/10/30/will-there-be-accidents-absolutely-lawyers-preparing-for-self-driving-semi-trucks/"
+originalUrl: "https://www.law.com/texaslawyer/2023/10/30/will-there-be-accidents-absolutely-lawyers-preparing-for-self-driving-semi-trucks/"
+webUrl: "https://www.law.com/texaslawyer/2023/10/30/will-there-be-accidents-absolutely-lawyers-preparing-for-self-driving-semi-trucks/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 633
     isCached: true
 
-secured: "+xdKGmN315mpVm0sXL/xdrdcs3PKqk7TLbT8w2L82GF9PcMkeiEs8aBXJsCMZhBHz3IIGah8R3iD6DG46JJ3AFZrEcxV5aZkw76oqLgtGe3iBeCy0BtpRjgbagwu+nYg6ki1wb1oQ7J+rBPKohXDO/Ibegg4VdF0MRf/AyWNWDQNXpW/pkZE/mCg+rG5WmpbiM3lw0ifyAcre04f/g2mzVdwGNPUvlSujHsSc/7FP4sQhEkZbGAUzNqJJnWHU1X02sRkxUIFqB5f1HPvscwoSRlRXFY91RQsUXMFIYCC2DOKRhRNw63IwOq+tJA4QPGOXdvNgucAHDXuGzoUPZS1LeOt/pkoPho2ouyqp0g2tYI=;Ysqoej4g4/vQxP48thUJaw=="
+secured: "H8/ZP3TzP/c2RBlH/XMKvicrJURBqLMOwsaBHdI2X1iC+DCJrAaf1/7pTG968e8RYXo/BMYM8ZXaJYQKwgyJ54IjnYinbZvnFhQsjBtnPBjxTUmrtDvGULn8XXL5NMJyH+pD5xnZUBisIbH8dzDibCpxnGUrESUlzh28V06Bb4do/xIsAjUZ5mticPE9ay4sloqTJYDEv0LKoaFVN2NVoZZG71GKsPTGPyABiGZp0KFd4/4khlMVo9wJg2TayhkIcxg39YWYXHVaPaIwOYl8oxmtXt+OSUpi0mWhE4VbTZx7KST4LhnGbE7LcNQeLK6POXo+zqvIQ8TClYisBdvynb2plQDuN6wkv/9CTJybF8o=;JMbl2NvCg0Yt+0Y/KBWz+w=="
 ---
 

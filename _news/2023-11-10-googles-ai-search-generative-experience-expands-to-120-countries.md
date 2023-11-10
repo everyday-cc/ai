@@ -43,6 +43,22 @@ related:
         width: 1300
         height: 541
         isCached: true
+  - title: "Air India bets on generative AI; to introduce more AI features to address customer queries"
+    excerpt: "Read more about Air India bets on generative AI; to introduce more AI features to address customer queries on Devdiscourse"
+    publishedDateTime: 2023-11-10T06:42:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2709003-air-india-bets-on-generative-ai-to-introduce-more-ai-features-to-address-customer-queries"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2709003-air-india-bets-on-generative-ai-to-introduce-more-ai-features-to-address-customer-queries?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2709003-air-india-bets-on-generative-ai-to-introduce-more-ai-features-to-address-customer-queries?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 49
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_11_2022_09_10_11_5257292.png?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "Xbox secures generative AI to create game stories, quests, and dialog"
     excerpt: "Microsoft's cutting-edge cloud-based AI solutions including Azure OpenAI Service, Microsoft Research's technical insights into the future of play, and Team Xbox's strengths in revolutionizing accessible and responsible creator tools for all developers."
     publishedDateTime: 2023-11-06T20:24:00Z

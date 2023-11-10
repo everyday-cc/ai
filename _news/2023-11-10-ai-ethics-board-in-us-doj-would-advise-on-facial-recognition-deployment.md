@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202311/ai-ethics-board-in-us-doj-w
 webUrl: "https://www.biometricupdate.com/202311/ai-ethics-board-in-us-doj-would-advise-on-facial-recognition-deployment"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bias in AI facial recognition puts Black people in legal peril"
-    excerpt: "At issue are facial recognition programs within AI that do not recognize dark-skinned Black people. Damon Hewitt, head of the Lawyers’ Committee for Civil Rights Under Law, told theGrio that the technology used by law enforcement is biased because it ..."
-    publishedDateTime: 2023-11-05T14:54:00Z
-    webUrl: "https://www.aol.com/news/bias-ai-facial-recognition-puts-143358549.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://media.zenfs.com/en/aol_thegrio_365/becac2865c0597ea513652eca6de28d8"
-        width: 900
-        height: 631
-        isCached: true
   - title: "Cops are falling in love with AI, and it’s much deeper than facial recognition"
     excerpt: "While facial recognition has well-known bias and privacy problems when it comes to law enforcement, tech companies are pitching a variety of new ways to use AI for policing."
     publishedDateTime: 2023-11-07T22:22:00Z

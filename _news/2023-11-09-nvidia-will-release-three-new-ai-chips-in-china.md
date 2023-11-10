@@ -55,6 +55,15 @@ related:
         width: 351
         height: 228
         isCached: true
+  - title: "India, Japan can collaborate in chips & AI, says RBI chief"
+    excerpt: "There are many collaboration opportunities between India and Japan in semiconductors and resilient supply chains, rare-earths extraction, space technology, artificial intelligence, quantum computing,"
+    publishedDateTime: 2023-11-10T06:15:00Z
+    webUrl: "https://newstodaynet.com/2023/11/10/india-japan-can-collaborate-in-chips-ai-says-rbi-chief/"
+    type: article
+    provider:
+      name: The News Today
+      domain: newstodaynet.com
+    quality: 34
   - title: "India and Japan can collaborate in chips, rare-earth & AI, says RBI chief"
     excerpt: "India and Japan can collaborate in chips, rare-earth & AI, says RBI chief - There are many collaboration opportunities between India and Japan in semiconductors and resilient"
     publishedDateTime: 2023-11-09T14:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wral.com/amp/21134051/"
 cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21134051/"
 type: article
 quality: 55
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 691
         isCached: true
-  - title: "Humanoid robots are here, but they’re a little awkward. Do we really need them?"
-    excerpt: "Building a robot that’s both humanlike and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze has sparked another wave ..."
-    publishedDateTime: 2023-11-05T14:34:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 35
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/v2/N33VQMFB5JCWHDJCQWDYDLIPVM.jpg?auth=a3acfc6378eb687f689a949fabac3378174a76e5e6c07fe90d5c9cd3cad73549&width=1200&height=800&quality=80"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Humanoid robots are here, but they're a little awkward. Do we really need them?"
     excerpt: "Building a robot that’s both human-like and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze has sparked another wave ..."
     publishedDateTime: 2023-11-06T05:11:00Z
@@ -72,14 +58,14 @@ related:
   - title: "Humanoid robots are here, but they’re a little awkward. Do we really need them?"
     excerpt: "Forget affable-appearing Rosey and Robby of sci-fi yesteryear; today’s humanoid robots are a bit more Terminator-esque. Do we even need them? Artificial intelligence pioneers weigh in."
     publishedDateTime: 2023-11-06T18:30:00Z
-    webUrl: "https://www.stltoday.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_9d8f93c0-9c17-5140-a004-70ed7282930b.html"
+    webUrl: "https://omaha.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_084fa193-d022-5916-beb6-0606061398a2.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 35
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/d8/9d8f93c0-9c17-5140-a004-70ed7282930b/6548f44d40334.preview.jpg?crop=670%2C352%2C0%2C29&resize=670%2C352&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/84/084fa193-d022-5916-beb6-0606061398a2/6548f44d0d950.preview.jpg?crop=670%2C352%2C0%2C29&resize=670%2C352&order=crop%2Cresize"
         width: 670
         height: 352
         isCached: true

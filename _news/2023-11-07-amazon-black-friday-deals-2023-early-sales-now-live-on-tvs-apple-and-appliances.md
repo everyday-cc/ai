@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Best Amazon deals in November 2023: Today's best sales"
+    excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. Remember ..."
+    publishedDateTime: 2023-11-07T21:31:00Z
+    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/HHXzc9LDV6bEXvHVEVqbFY-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "n1bQws9c9X8I1XXxdNHRK0pFEd/QwMYVJ7IBRS7tVADwcuEtZGJbL12KgGyHwbdb0o/YiNxxcZzZ6F1VfdgFtlx4X6HGcvL0rr8JBL9XCaXivMpz7zDJhjDX3tJygdIgiV1wPgSFY7vcoPOYDispAiptwnm11UoouDjtEUFTMh8S98qPqYN4Gp2xr58lanXYzW0S+sTk9NaQqjYc2tBzVJUkW/RvdGgCPCIHF67Xe+BJXrCPZcZ20IALfusrquXHqGiUhHfTDTGOM94Jc2jyjbAIgfkfiBEbs3ZzVc42R0lZ9+K+10A+VkPiilWQHqQrtxxFPswF1wfWSIsuvU4cNjY85erhx6Gpr2hZvUNmTvs=;73IkTjrghlKZzEbGSHgJVQ=="
 ---

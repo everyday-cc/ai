@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/samsung-gauss-generative-ai/"
 webUrl: "https://www.techrepublic.com/article/samsung-gauss-generative-ai/"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -110,6 +110,15 @@ related:
       name: Men's Journal
       domain: mensjournal.com
     quality: 19
+  - title: "Samsung to add real-time translation to smartphone model"
+    excerpt: "The South Korean firm is rapidly advancing its generative AI model called Samsung Gauss, covering fields of language, code, and image. (Samsung pic) SEOUL: South Korean smartphone"
+    publishedDateTime: 2023-11-10T05:50:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/11/10/samsung-to-add-real-time-translation-to-smartphone-model/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 4
 
 secured: "Sxb9ZlJ1AkeILuo4V0k08rikoQ2/A0Irp7g7epuiDeA9bR32WyAytBPxXkGn4A1ftk3STdroDmEzRroliEC5M6sn/QwljeAt2Pur6Y4lopBmf+e3a7rML+nTUjIPW+9BbYvvgwqUdW7ovVeAR/+qH++leU3viYiQ48BtL0PiD0ahHl1QlJhw4jXUKA2sdI2z7DPYsb11hEwYc2AyfC1TfYZExoAespp2cE4OyMJiYXBDzhlMUxSRXVEJyQIlSq97FsX9Cs6BUgGySF71FJ8AJsG8FEe8Qb2P11f2VXk35tIwtl/Nf9nj4EFBOFE8jBioeWpO+2M9yZmXbfWB4ag43ka8i725eQ/xtN4qiEzOnBlzUwtB+eLlGjvNCT3oZXzoonjYZOOYJZ53eLFk9X+ygfg4PbXaEbylFWqFs7B4utV/pWc/QlLxSwRx4wrDuWqwM42eso5oRlFc726kPkl4N2Tq8TNKYsdTBLYfLZA0JwxtDPybZ241d6v4FQtu1A8un79Luhh/x7me3CT0ZTjNCg==;pHI/SuC9mASo8+an6SJrvg=="
 ---

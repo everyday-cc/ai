@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Flip AI Launches to Bring the 'Holy Grail of Observability' to All Enterprises With $6.5 Million in Seed Funding Led by Factory"
-excerpt: "Today Flip AI launched with its observability intelligence platform, Flip, powered by a large language model (LLM) that predicts incidents and generates root cause"
-publishedDateTime: 2023-11-08T16:02:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/11/g35678759/flip-ai-launches-to-bring-the-holy-grail-of-observability-to-all-enterprises-with-6-5-million-in-s"
-webUrl: "https://www.benzinga.com/pressreleases/23/11/g35678759/flip-ai-launches-to-bring-the-holy-grail-of-observability-to-all-enterprises-with-6-5-million-in-s"
-ampWebUrl: "https://www.benzinga.com/amp/content/35678759"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35678759"
+excerpt: "Flip AI Raises Funding from Factory, Morgan Stanley Next Level Fund and GTM Capital Today Flip AI also announced $6.5 million in seed funding led by Factory. Morgan Stanley Next Level Fund and GTM Capital also participated. The company plans to use the money to continue to advance its product roadmap and LLM and to expand its team and operations."
+publishedDateTime: 2023-11-08T17:16:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9914309.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9914309.htm"
 type: article
-quality: 31
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Ritual Secures $25 Million in Seed Funding to Decentralize AI"
@@ -42,6 +34,6 @@ related:
         height: 853
         isCached: true
 
-secured: "67K8xV7okNktHiJzQj/cETPaosXAKyZ+faG/YxdnM3t9MXPtPfEB8N04ie59Ah8p98SMJKXC0ugCVXAc4sKGWT7pE9qstFNSfqf/CSoLq0EEr4Mjfh6NRUE+av5yNGzENwG4c/itrQs6uzp9zSr2SHbGHho0M+/0H5E133k8OZjQdLcY64qtVJET5nQAffVUiPl6Kn9EuTrOEWMTgqBpBaCP/AAsn391qeasEBj7zCwrd5McQYgi2GVi15geOMvETxZlVs6ouLchmDbNt7RFPkXZGWsKzciwYGWZ6ISdVzrqsiRHWmk1r8RBXo4x0zgqPjEvx8E2vL89cHb6nG51F54bRgFfPCpXs0sMk2kNd8A=;Da4OzdOYy9x1A2mDyt71Ug=="
+secured: "7rQvhTrZSWfG5L5a5PUPxwXmjhZ+5KoL52TWJy3flP27mAqdPClYR9jlNr/nsttX631INQWtiCvX0iGdsX1Oy0nHagmAQXsfKt2Q2+wQVQrZbQlZYTGk0/NuvkFnJJ1sNX+I3wqPr1Xzl9P4VN7vLbROdCvz30yUocjQNbMF6FAhPaUb4TkLp9KX4BU4tzwd/DCtf7RrcsvKwJobUXWkYe4be76xrPyLa9Fa0Q0EJu1hWt/OodinjKALEA35/jiLhTkYMDEbUV+iqHcvrIRH6DoMqKIbHdZrU6hYHVj+lBDaBIdATQ3QAW+W3yR8pop2JUfWAVymElRbp/fBL4KBIe+8iOqDjilvtH0K6TqGlH8=;SLGOSzaAf9o57tADYXD+mw=="
 ---
 

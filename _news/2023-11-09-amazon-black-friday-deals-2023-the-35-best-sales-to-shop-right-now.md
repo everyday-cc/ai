@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/black-friday/amazon-black-friday-deals"
 webUrl: "https://www.techradar.com/black-friday/amazon-black-friday-deals"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 45
+  - title: "Best Amazon deals in November 2023: Today's best sales"
+    excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. Remember ..."
+    publishedDateTime: 2023-11-07T21:31:00Z
+    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/HHXzc9LDV6bEXvHVEVqbFY-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "xYModQ+d8ir9O4xXQOTYlzpIphGM0ircBtgEmX+pjckEwCF5uP/r1w46oHDJd+d8Yv6ZGTrF5ht5z1U/W7g+HcSyia+fZH1mT26ZLdDfzXyIemp4yuNf1K0fIT7UlBIIbjdJMZ+OUpBprKyMrZ/sYQ06/gJlYsdyAjAy7ImrPlfca85S+wPKdJ0GFrriO76Y8thjTEamQxSJ8m7GjdWvL8c7ViS180Mj0Rvxr4WmSl6sQJzbT2+vB9uCBOeB8NJ7knlSu0sOD33y6/NZ0ntJWLNDPqwn95grH4vIFfuQhcZgk+CDl1Tkxi5GBepmDOUft38Lf6ERcdE8jxv4UPv0ltIAmCLZYWS/TqoKMNiGAyk=;GS0NWT90Iy2NH/yy6THjdA=="
 ---

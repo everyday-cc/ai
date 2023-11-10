@@ -24,6 +24,17 @@ images:
     height: 567
     isCached: true
 
+related:
+  - title: "Italian Fintech Innovation Takes Centrestage at the Singapore Fintech Festival 2023"
+    excerpt: "But Fintech is much more than that ... We leverage Big Data, Human Science and AI to unleash real-time intelligence and automation, at scale. 3. HODLIE srl Website: https://hodlie.ai Company Description Hodlie is an AI-powered trading platform which ..."
+    publishedDateTime: 2023-11-10T06:28:00Z
+    webUrl: "https://www.zawya.com/en/economy/global/italian-fintech-innovation-takes-centrestage-at-the-singapore-fintech-festival-2023-xywx2j8w"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 0
+
 secured: "Y+ESq4Lc91ZD64sXpucCGYzYoPrUEe6Fha0jSnt2KFdqJ/xnc/Qtb3tqfh6qULZRWGUuhqQMFgYZ/AGlGs4KEHdj29PK60D47/iJZiJy8KWUfUcQHChYDGIJM9dPe7LsaNFfcAouDToqShdkfX7id+DvTnK80wQ6CbVU6Ejd1vw1Mi3QkTXtFQnzEqzSX+6DYoJ4ILf7dHadclanqBAtXUKdlTtauh463Zq3uaruLu9G3P6GeD0eMieX7tdN19VsqfpookXyYq0IB7SksS6oGMQ+jTNa10vST1Niz/1fyJwzmsIL1rFsKuHXYqenySm8qkFk6nqU+4J1DApD/JV7dk4LMNXpDkQfATlM3YSGK0Y8vPE0HKRgJDMmS12omm5B2pjDFkP9pTtCO64PLoYp0DHliPhRePfr5I474jMgnLn8XgIEVN72RdeajxwkRW2yOpYo1tzvHOUPoD8rCRcj2FFs3NLave5wDe9QBRQAIT2hkgYzrVPOZS1EmdVeIBlPwYGNOosSt7iwKkxOIY/NYg==;xEfQ0NCU6CPCVu9+mcHR7g=="
 ---
 
