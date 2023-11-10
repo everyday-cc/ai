@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Lenskart acquires AI-based computer vision startup Tango Eye"
-excerpt: "New Delhi, Oct 30 (IANS) Lenskart on Monday announced the acquisition of Tango Eye, an AI-based computer vision startup. With this acquisition, Lenskart plans to use visual artificial intelligence ..."
-publishedDateTime: 2023-10-30T10:12:00Z
-originalUrl: "https://glamsham.com/world/technology/lenskart-acquires-ai-based-computer-vision-startup-tango-eye"
-webUrl: "https://glamsham.com/world/technology/lenskart-acquires-ai-based-computer-vision-startup-tango-eye"
-ampWebUrl: "https://glamsham.com/world/technology/lenskart-acquires-ai-based-computer-vision-startup-tango-eye?amp=1"
-cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/lenskart-acquires-ai-based-computer-vision-startup-tango-eye?amp=1"
+excerpt: "With this acquisition, Lenskart plans to use visual artificial intelligence technology in improving store experience as well as its product experience. The company has also been an early investor in Tango, and the acquisition strengthens Lenskart's ..."
+publishedDateTime: 2023-10-30T09:52:00Z
+originalUrl: "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937"
+webUrl: "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937"
+ampWebUrl: "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp"
+cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp"
 type: article
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Zee Business
+  domain: zeebiz.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://glamsham.com/wp-content/uploads/2023/10/Lenskart-acquires-AI-based-computer-vision-startup-Tango-Eye-_-pic-courtesy-news-agency.jpg"
-    width: 1200
-    height: 675
+  - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/11/10/268663-sharemarketss.jpg?itok=n0eyjm4g"
+    width: 700
+    height: 394
     isCached: true
 
-secured: "8KngIScgJSiIl9X5MErsgUuCvXzFokJ/2GgaBzVnNhDgClSbSpFMY2MFHpkxGa/k+LA//5oYejIIICsnOojwsnyaeV66plwUF2EB9OLGSBK5dXjcjJ4gBJj1SGcAhvf9eY0tN0A1OZpToDuWOoFpUm6vEIWANq3fZDkpxiPahIe4q19FihjQy9gikBjuGHN1SamQMJif1PwJ7RqKExOQwy/6wtd3QNXoePbH44Gh/zBWZE6QBx1aRr3qNyZp9oTCKgwNd4CwhAlF2o+y8JVQ00mAVrwWlKsP5kS6AkXIFEr+tiWrY5qaN7apWWeq6+SvM82m8Lrdp5e4ZmAFv5V7RWpqFyymjGXxIZF39JLeK3E=;g+45TSEPhj1OVsIW5YerCg=="
+secured: "H6jlcjr66bfhGjqmHQBtphtpgDyQ7OQ4QwHLo1U1BMSGUGds9TgKJpuXci+NSujnnq7Le32urfNCrgIySxFMVi12APvNEkWPCR2pXOVmyaSDhPyKHmDa9fY6Hb0l6hoDiVNuc5dkWese2DHd9EYMoNXOCUtIFzgASRu7tguNWc1VkZzJEVHvZy5r5DTyumAbBWDyuuHVgu4Or3icS/nk1GHXN72JDJ5Dps6aKihhGfV1stb8ZUSWjqnwL8rRHtK4tXx6OrmhNMb8f3bc5BTJpEdh05io2f/ZpoVxT8DpuMg4CunU8f8qWV5qFgldKIkLWrO+hnkR2/4uezgeYk4ls5taHVWzOJUPnt8hYqsZe64=;vR5U4ljOyEtbLGOPiWGX2w=="
 ---
 

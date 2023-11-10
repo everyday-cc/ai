@@ -134,6 +134,20 @@ related:
       name: MSNBC
       domain: msnbc.com
     quality: 36
+  - title: "‘AI will revolutionise assessment, but implementation must be responsible’"
+    excerpt: "Conversations about artificial intelligence have taken the world by storm. In the education industry especially, it can feel like its existence brings more questions than answers, particularly because of its ever-evolving nature. However, with responsible implementation, AI presents significant opportunity to revolutionise education and assessment."
+    publishedDateTime: 2023-11-10T08:37:00Z
+    webUrl: "https://thepienews.com/the-view-from/ai-will-revolutionise-assessment-but-implementation-must-be-responsible/"
+    type: article
+    provider:
+      name: The PIE News
+      domain: thepienews.com
+    quality: 35
+    images:
+      - url: "https://d1pe6f90ru47yo.cloudfront.net/wp-content/uploads/2023/11/10083544/pie-image-860x375.jpeg"
+        width: 860
+        height: 375
+        isCached: true
   - title: "AI and the Erosion of Human Cognition"
     excerpt: "The intersection of AI and human cognition is as much about philosophy and ethics as it is about technology. If history is any guide, every significant technological advancement brings with it societal trepidation. The printing press, electricity ..."
     publishedDateTime: 2023-11-05T21:41:00Z

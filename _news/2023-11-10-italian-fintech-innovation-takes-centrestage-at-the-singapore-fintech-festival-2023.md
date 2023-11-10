@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Italian Fintech Innovation Takes Centrestage at the Singapore Fintech Festival 2023"
-excerpt: "But Fintech is much more than that ... We leverage Big Data, Human Science and AI to unleash real-time intelligence and automation, at scale. 3. HODLIE srl Website: https://hodlie.ai Company Description Hodlie is an AI-powered trading platform which ..."
-publishedDateTime: 2023-11-10T06:28:00Z
-originalUrl: "https://www.zawya.com/en/economy/global/italian-fintech-innovation-takes-centrestage-at-the-singapore-fintech-festival-2023-xywx2j8w"
-webUrl: "https://www.zawya.com/en/economy/global/italian-fintech-innovation-takes-centrestage-at-the-singapore-fintech-festival-2023-xywx2j8w"
+title: "Italian Fintech Innovation Takes Centrestage At The Singapore Fintech Festival 2023"
+excerpt: "SINGAPORE - Media OutReach - 10 November 2023   - The 8th edition of the  Singapore Fintech Festival (SFF)  is gearing up to be a gl"
+publishedDateTime: 2023-11-10T08:54:00Z
+originalUrl: "https://menafn.com/1107405157/Italian-Fintech-Innovation-Takes-Centrestage-At-The-Singapore-Fintech-Festival-2023"
+webUrl: "https://menafn.com/1107405157/Italian-Fintech-Innovation-Takes-Centrestage-At-The-Singapore-Fintech-Festival-2023"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?566439"
+    width: 313
+    height: 250
+    isCached: true
 
 related:
   - title: "Gartner-Recognised Sumsub to Showcase at Singapore Fintech Festival 2023"
@@ -34,6 +40,6 @@ related:
         height: 567
         isCached: true
 
-secured: "ZwH+bc6VZBYN4ZtNzoOsyfBhMTONgCnJQrcDlCf8ilPjS1ikiGx80AYNmr3pALwTmyRMuvsa3sy3kPA/THUWPAmpTxNo1Ml+QlvoNWWjKwIYN3RT6XnClwIYNhGRXvc593BP0fK3UGO1LBtrLRczIadlefgOxItgeFfm6s/7r4Fj45LX5P4W8ZSqF92eyVh4WNpTPKSywl1DQBh2suTchB4qP8RPEoBdRBihTiRqRoOFlZl9RrUVE/uWkjzTp9hZ1hN236Tlod7CnJ5meLbuZdMQjSPSkvhZD3LdHV2uBCta+Ouzhf2hD9+T9MJPstZHgj7INIX3gcu4aBp+FSqPEhkC9USZFtjfsY6aV7zEvXc=;iqETPWPfxUxhKWuN6sjQ+g=="
+secured: "FPCITAMlctvskSjJfJ26uGpelZ95z4UaB+jJVshITjeI0rvdjX1fmwgzv5L6jjjPGLqXEfLsxyus3na0hekNEj1dyyeXXGG751yEY+gm3+hnyQn6XgjnpinJaC0Cr0cj976BjqtA3fXbOxbd3hACjQ2a4cRk5RUwVA8t/khJosBUEw40S0tGZeCfh9hU0a/35scCwq/qY1Ppf4ybdhdsGJEB9qzNfx9ElQVxsowlsoOHrKcIc8purKvw0Sk5JXjyt6dkjXCbYa5z6VNT5H8W5/uqn0r+bxFqv3IjiLvxF+37t0ztPEYvPnh4ZwoaOuZqQf+TAffPe7vIXbVQaNIFsHtK0uUhzy1EuXMlTkEnZv0=;57XTDqJYhOcO5+GdYvKgpw=="
 ---
 

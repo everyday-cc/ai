@@ -41,6 +41,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Global Healthcare Natural Language Processing Industry Set to Reach US$ 18.5 Billion by 2033, at a Robust CAGR of 18.0% | FMI"
+    excerpt: "The Global Healthcare Natural Language Processing Industry is on a remarkable ascent, projected to reach approximately US$ 3.5 Billion by the culmination of 2023, and with a robust Compound Annual Growth Rate (CAGR) of 18."
+    publishedDateTime: 2023-11-10T07:30:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2023-11-10/global-healthcare-natural-language-processing-industry-set-to-reach-us-185-billion-by-2033-at-a-r"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 29
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
   - title: "Artificial Intelligence in Telecommunication Market Shows Strong Growth, Projected to Reach US$ 14,496 Million by 2033"
     excerpt: "The global artificial intelligence in telecommunications market is anticipated to be valued at US$ 918.6 million in 2022 and US$ 10,399.9 million by 2032, with a CAGR of 27.5% from 2022 to 2032. The acceptance of artificial intelligence in telecommunications is growing as telecom organisations use AI in various aspects of their operations,"
     publishedDateTime: 2023-11-07T04:22:00Z

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Healthcare Natural Language Processing Industry Set to Reach US$ 18.5 Billion by 2033, at a Robust CAGR of 18.0% | FMI"
+    excerpt: "The Global Healthcare Natural Language Processing Industry is on a remarkable ascent, projected to reach approximately US$ 3.5 Billion by the culmination of 2023, and with a robust Compound Annual Growth Rate (CAGR) of 18."
+    publishedDateTime: 2023-11-10T07:30:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2023-11-10/global-healthcare-natural-language-processing-industry-set-to-reach-us-185-billion-by-2033-at-a-r"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 29
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
   - title: "GPU as a Service Market on the Verge of Significant Expansion, Anticipating 40.8% CAGR by 2033"
     excerpt: "The GPU as a service market is forecast to expand at 40.8% CAGR over the estimated time period, as per FMI’s analysis. The industry’s size is predicted to reach a market value of US$ 3,911.4 million in 2023 and US$ 119,"
     publishedDateTime: 2023-11-07T04:30:00Z

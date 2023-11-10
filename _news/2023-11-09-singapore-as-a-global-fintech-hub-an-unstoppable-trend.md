@@ -195,6 +195,15 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "Africa FinTech and AI Awards 2023: Global Voice Group winner of the Best RegTech Solution category"
+    excerpt: "MADRID, Nov. 10, 2023 /PRNewswire/ -- Global Voice Group (GVG) has once again been recognized for its Mobile Money Monitoring (M3) solution. This time, the recognition was given by the Africa Fintech and AI Awards 2023, in which M3 was the winner of the Best RegTech Solution category."
+    publishedDateTime: 2023-11-10T07:41:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/10/9915800.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
   - title: "FinTech LIVE London: Meet our software and tech experts"
     excerpt: "It's time to cast an eye over the software and technology-related speakers who will be taking the stage at FinTech LIVE London this week"
     publishedDateTime: 2023-11-05T17:21:00Z

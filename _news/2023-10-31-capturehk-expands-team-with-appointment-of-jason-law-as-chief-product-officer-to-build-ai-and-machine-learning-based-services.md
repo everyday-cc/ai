@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Capture.HK Expands Team with Appointment of Jason Law as Chief Product Officer to Build AI and Machine Learning Based Services"
-excerpt: "MelloMoney tackling the global issue of teaching 5-13 year old children how to develop healthy financial habits ... Through advanced algorithms and machine learning, the AI system intelligently ..."
-publishedDateTime: 2023-10-31T03:02:00Z
-originalUrl: "https://www.sinchew.com.my/news/20231031/mysinchew/5094673"
-webUrl: "https://www.sinchew.com.my/news/20231031/mysinchew/5094673"
+title: "Capture.HK Expands Team With Appointment Of Jason Law As Chief Product Officer To Build AI And Machine Learning Based Services"
+excerpt: "This strategic hire comes as Capture seeks to capitalise on the rapidly expanding market opportunity with the design and development of product and services which use AI and machine learning ... how to develop healthy financial habits."
+publishedDateTime: 2023-10-31T04:50:00Z
+originalUrl: "https://menafn.com/1107339691/CaptureHK-Expands-Team-With-Appointment-Of-Jason-Law-As-Chief-Product-Officer-To-Build-AI-And-Machine-Learning-Based-Services"
+webUrl: "https://menafn.com/1107339691/CaptureHK-Expands-Team-With-Appointment-Of-Jason-Law-As-Chief-Product-Officer-To-Build-AI-And-Machine-Learning-Based-Services"
 type: article
 
 provider:
-  name: sinchew
-  domain: sinchew.com.my
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "hoGxXy4YyuFiqgU1ucgPXdT/H2+prMle/6Kh/hpttilkaMnVaIyYCCLfFenuIMoXTSYtq1303ymVjpTatT753Zps51fRi9PL63PzZXJhQK9ex1NfHF9jvdQkwCsWivLbJ7ikXgSAts5WL10XmkeG0vRHbfH6hWIdNHrkeK7/KSy77JC65hslmPhfL6VLXgIp3tnSwuYUjMlfCgm+U8F7n+CHszibRQTyfePr1pGj7idS5fhg0Sx9jbq96jW8ZRO2zkBBjCGnSepf6r83u7EbUvawZoLNvCq0b/7+ndSbSzpfEvi7VlCK823sZPCJcQVo7Ov3MkKQxDJBqosjftFKOLMRnISd3ACHJA8PmEsDTTI=;uNNRjNMZu8hs01wZmd8+YA=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?566439"
+    width: 313
+    height: 250
+    isCached: true
+
+secured: "DvZoi2CSa8IuyDMC+4cjJQ0Aoikjle16M3IgtLQKFqcx8CZElHkUEMaw8QUA91anTgmBGIFE8ASizmnuYifXGQwap5DDPwVkHDhIhW5dK+pPSLHsZy47yjvFyuYIqen3OLozt0IRWE+fzw/gVOaqmAin9dcU3FOKcs8xYIgmomphWv8c5PUiWWITtZPD8gWvsIjOiNzKcbOk7rw8Umw0XvHCWdPHFlrdVofANDcdVfzrPI/2hzwr77z4orgZsZydpXq4JMa/mzjlIyhubqtH1Ej5QJUNtuUwEnZG+MvStOyKxxdSzgONyrpHaGJdfIsFlTOo/96LUcpVdpC6MjZTUOfDFoRuODH15BFbpj9AwDM=;OVI16gAeCo2EABPBRqSpkw=="
 ---
 

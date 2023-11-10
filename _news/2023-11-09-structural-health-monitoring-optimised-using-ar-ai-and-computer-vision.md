@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cybria Unveils New Layer 2 Blockchain Powered By AI For Enhanced Scalability And Security"
+    excerpt: "Cybria Unveils New Layer 2 Blockchain Powered by AI for Enhanced Scalability and Security Cybria, a leading platform in blockchain technology, has a"
+    publishedDateTime: 2023-11-10T08:31:00Z
+    webUrl: "https://menafn.com/1107405187/Cybria-Unveils-New-Layer-2-Blockchain-Powered-By-AI-For-Enhanced-Scalability-And-Security"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 47
+    images:
+      - url: "https://menafn.com/updates/pr/2023-11/10/NC_fd54f224-9_Image_In_Body.jpg"
+        width: 550
+        height: 275
+        isCached: true
   - title: "AI’s Surge in Usage Highlights Need for Enterprise Blockchain Adoption"
     excerpt: "The age of artificial intelligence (AI) may be upon us sooner than we think. Highly intelligent AI robots and machines the likes of which are seen in popular movies such as Steven Spielberg’s “A.I. Artificial Intelligence” and “The Matrix” series are still a bit far from reach."
     publishedDateTime: 2023-11-07T06:54:00Z

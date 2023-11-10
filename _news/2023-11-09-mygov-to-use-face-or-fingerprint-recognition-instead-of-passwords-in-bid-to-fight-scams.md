@@ -2,9 +2,9 @@
 category: news
 title: "MyGov to use face or fingerprint recognition instead of passwords in bid to fight scams"
 excerpt: "Announcement of change to Australians’ accounts from 2024 comes amid concern over ‘scam-in-a-box kits’ being sold on dark web"
-publishedDateTime: 2023-11-08T22:01:00Z
-originalUrl: "https://www.theguardian.com/australia-news/2023/nov/09/mygov-to-use-face-or-fingerprint-recognition-instead-of-passwords-in-bid-to-fight-scams"
-webUrl: "https://www.theguardian.com/australia-news/2023/nov/09/mygov-to-use-face-or-fingerprint-recognition-instead-of-passwords-in-bid-to-fight-scams"
+publishedDateTime: 2023-11-08T23:02:00Z
+originalUrl: "https://www.theguardian.com/australia-news/2023/nov/09/mygov-to-use-face-or-fingerprint-recognition-instead-of-passwords-in-bid-to-fight-scams?s=04"
+webUrl: "https://www.theguardian.com/australia-news/2023/nov/09/mygov-to-use-face-or-fingerprint-recognition-instead-of-passwords-in-bid-to-fight-scams?s=04"
 ampWebUrl: "https://amp.theguardian.com/australia-news/2023/nov/09/mygov-to-use-face-or-fingerprint-recognition-instead-of-passwords-in-bid-to-fight-scams"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/nov/09/mygov-to-use-face-or-fingerprint-recognition-instead-of-passwords-in-bid-to-fight-scams"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "8zHNgSa47MF+/r70kzV0GXpyqL8v8CNO2ulyYBcToOH1E23g6+R+MOiSeb78mSshiXw4wm1TsGjlhkZzTe/BIIXH73I8/TpdmyLv54fb++nE2sG5eXXjQg/XrOygD0L3mXyIoGnwmPfuyAdq5dtkO37j+45/c//YdI7E/EFZ0I3B9lWacXaIlKDbXD5A/7sLch4zdLLqJZCf4xZZpPuy4gxv2/d6zd82ijQ68tYNWp4LtphCnfgaZhXFSEoks4RnuQVn3zWB1IPiJYLfy3ggZhIF5fiXiyJICKddDDKLNaFnsyCoEOuYygrqQ37/QFetOiGHRNpwxxgtTu9+WightO60mg86Dvmoxfui7/koEXdoBcDOo9sE5HYkuObzijrK85T94nbDGFH8Sq09dOgEac+EKtxZTTd1dTaX9XrWAWm2NitEkEEo8vF6GqoUP3+jBoF16Fzs+HoYLeK0oUXuGN9SUM9s6WW7dhUDdQLmLgesTJpefCArLFMAvKZrJt/7+TaxH6UY1T8xG0ShgGRKFA==;WYSaY7Ij/wxhnmNylxbxmw=="
+secured: "x7ck9NhKpqje/3kVRtrbsQ923EPccP960unt0Sq/1qI82ZmdKt2N5BDPcxz4h6FbzI3gXF9tUQ5yQXzp9eCf2jJ1MXdb8qjo1gDF91gOzJszWaAgPpvFtXXbZ/3T2KFmsNcV9l1aR9MIXNekmmDjotKTXmbQynlbAljXg9O0IXpabRSv+r8K75SPWlof7fksS+gF2Wq8egVQBO99FeceNOoXS530k0fENDPBKNcRKvBA9ET4XiJw8cILuTA/2k8gdLuc62I6t89GnuVVtsJGomd5T6z0V7bvl4Wba2z0o93BhuPwj1ntgS0e7FmJnyRb3DSm7zQzX0WvfwuQHdfjk3CeUVpRpK4RQvc6b73fGJY=;pnXiL1d0/16El/AdRnC0Ng=="
 ---
 

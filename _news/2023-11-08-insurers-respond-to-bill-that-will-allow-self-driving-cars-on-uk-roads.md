@@ -24,6 +24,22 @@ images:
     height: 536
     isCached: true
 
+related:
+  - title: "UK government pushes self-driving legislation"
+    excerpt: "The introduction of self-driving cars will reduce costs, injuries, and fatalities, it is claimed. It will also, the UK Government believes, boost productivity and empower people. Between 2018 and 2022, the UK self-driving vehicle sector generated £475 million of direct investment and 1,500 new jobs."
+    publishedDateTime: 2023-11-10T07:59:00Z
+    webUrl: "https://www.just-auto.com/news/uk-government-pushes-self-driving-legislation/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/02/AI-autonomous-fleet-platooning.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+
 secured: "IIYJxODREwPK9i1DStWvXX5lzJUId6fJxeGd3FuJpsRNsdJNDWdlCAj9wRHPMdoesU7VUDfvXpeMwoGIGa8WbKzNghyi+Dd9wxiG7EG5dLOLGGzPb/mNn6glgESP0/wwzejlqWty4TTX3oNgU5oXyM7097zXKt0vmZP1iHwmg6zMQS3jdP5AB2GwTZGFguqo6wKpX9UItdLuc8vuOSP3+AB6NTKhIYfMOwQlQGS5UqHOOzeu74X4UrsZ3oGsobvL5tn3hRBgPGCg4AOmAIVMoT0Q+OYrdK33F9uUqtSl7qW5nidwUlhZC62GqDFTyyguhAu5pZHjwQONITM/sSgu1Bfhsu8Eker9B4X0aMMlG07YCJcSEfRLydTaXKVyzpL+paMTbqxGtNUSXhz/EA3O/0x//MvniKqjVcBEj135ixCOFCxjeZaEAsZ3ti4kON5CEB1wbXePu5Lq8LKznw0EEO73uAEZk5ktNkDHvKEPjV6A4YEozZKv8VKWBj0Pj2DNz8dyXwPCbQ4kGHRZlUOGWA==;tTr3Q5uztO4YxibGbuYqgw=="
 ---
 

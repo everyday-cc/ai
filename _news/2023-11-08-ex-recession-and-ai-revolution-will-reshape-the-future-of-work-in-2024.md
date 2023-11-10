@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -123,6 +123,20 @@ related:
       name: MSNBC
       domain: msnbc.com
     quality: 36
+  - title: "‘AI will revolutionise assessment, but implementation must be responsible’"
+    excerpt: "Conversations about artificial intelligence have taken the world by storm. In the education industry especially, it can feel like its existence brings more questions than answers, particularly because of its ever-evolving nature. However, with responsible implementation, AI presents significant opportunity to revolutionise education and assessment."
+    publishedDateTime: 2023-11-10T08:37:00Z
+    webUrl: "https://thepienews.com/the-view-from/ai-will-revolutionise-assessment-but-implementation-must-be-responsible/"
+    type: article
+    provider:
+      name: The PIE News
+      domain: thepienews.com
+    quality: 35
+    images:
+      - url: "https://d1pe6f90ru47yo.cloudfront.net/wp-content/uploads/2023/11/10083544/pie-image-860x375.jpeg"
+        width: 860
+        height: 375
+        isCached: true
   - title: "The Future of Augmented Reality (AR) in 2024: Applications and Innovations"
     excerpt: "The world of technology is constantly evolving, and one of the most exciting developments on the horizon is the future of Augmented Reality (AR) in 2024. AR has come a long way since its inception, and it’s poised to revolutionize various industries with its innovative applications."
     publishedDateTime: 2023-11-06T11:54:00Z

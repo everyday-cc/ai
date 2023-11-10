@@ -105,6 +105,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Samsung to add real-time translation to new smartphone model"
+    excerpt: "SEOUL: Samsung Electronics will roll out a real-time call translation service using AI technology next year, the firm told AFP on Friday (Nov 10), claiming it would make conversing across languages as easy as \"turning on closed captions\". Samsung is among ..."
+    publishedDateTime: 2023-11-10T08:43:00Z
+    webUrl: "https://www.channelnewsasia.com/world/samsung-add-real-time-translation-new-smartphone-model-3912201"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 24
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--ngVmdvLP--/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/eceec2178f4dd1a73be86515be073afb926a5edd.jpg?itok=G4NWwgAu"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Samsung to add real-time translation to smartphone model"
     excerpt: "The South Korean firm is rapidly advancing its generative AI model called Samsung Gauss, covering fields of language, code, and image. (Samsung pic) SEOUL: South Korean smartphone"
     publishedDateTime: 2023-11-10T05:50:00Z
