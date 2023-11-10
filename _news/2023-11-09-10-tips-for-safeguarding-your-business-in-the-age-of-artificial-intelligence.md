@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/10-tips-fo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/09/10-tips-for-safeguarding-your-business-in-the-age-of-artificial-intelligence/amp/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2023-11/GettyImages-1366475366_Crop1.jpg?VersionId=83fdBF0fkfayL_SNWOgnHZDNeNzWji2g"
         width: 4160
         height: 2340
-        isCached: true
-  - title: "Unveiling the Pulse of AI in Language Services: SAFE-AI Task Force Launches Pivotal Perception Survey"
-    excerpt: "Global discussions underscore the urgency of a collaborative approach towards navigating the frontier AI landscape. The Perception Survey by the SAFE-AI Task Force aligns with this international momentum, aiming to foster a comprehensive dialogue around AI ethics and safety in the domain of language interpretation."
-    publishedDateTime: 2023-11-08T18:24:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/274026386/unveiling-the-pulse-of-ai-in-language-services-safe-ai-task-force-launches-pivotal-perception-survey"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 26
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1699242668411.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Leveraging AI as a tool for growing your business, creating efficiencies and identifying new opportunities for employers"
     excerpt: "The value of AI is the opportunity to amplify the best of our hopes and dreams through new technology in ways we never thought possible before."

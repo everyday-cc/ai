@@ -24,50 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Plans to Integrate New AI Project ‘Gork’ with X"
-    excerpt: "Grok was first given to some users last Friday and stands out because it can pull up information quickly from Musk's social media service"
-    publishedDateTime: 2023-11-06T03:06:00Z
-    webUrl: "https://www.gizmochina.com/2023/11/06/elon-musk-new-ai-integrate-x/"
+  - title: "From Startup to Market Leader – HomeDesigns AI Pushing the Envelope in Home Design Space with Revolutionary AI-powered Tools"
+    excerpt: "HomeDesigns AI is a web-based AI-powered home design platform featuring a host of unique tools and modules for interior space remodeling."
+    publishedDateTime: 2023-11-10T03:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/from-startup-to-market-leader-–-homedesigns-ai-pushing-the-envelope-in-home-design-space-with-revolutionary-ai-powered-tools-1032803114"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/11/Elon-Musks-AI-Startup-xAI-Releases-Grok-a-Chatbot-That-Outperforms-ChatGPT-3.5.jpg"
-        width: 1200
-        height: 628
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/WeraP7i62sgexGIFNwzD88Tp1ko2/1699201435241-0.jpg"
+        width: 512
+        height: 256
         isCached: true
-  - title: "Elon Musk launches his new company, xAI"
-    excerpt: "Elon Musk, CEO of Tesla and SpaceX, and owner of Twitter, on Wednesday announced the debut of a new artificial intelligence company, xAI, with the goal to “understand the true nature of the universe.” According to the company’s website,"
-    publishedDateTime: 2023-11-06T03:31:00Z
-    webUrl: "https://www.emirates247.com/technology/elon-musk-launches-his-new-company-xai-2023-11-06-1.727755"
-    ampWebUrl: "https://www.emirates247.com/technology/elon-musk-launches-his-new-company-xai-2023-11-01-1.727755?ot=ot.AMPPageLayout"
-    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/elon-musk-launches-his-new-company-xai-2023-11-01-1.727755?ot=ot.AMPPageLayout"
+  - title: "Picsart launches a suite of AI-powered tools that let you generate videos, backgrounds, GIFs and more"
+    excerpt: "Picsart, a photo-editing startup backed by SoftBank, is launching a new suite of AI-powered tools for businesses and individuals. The suite, called Picsart Ignite, includes 20 tools that are designed to make it easier for create ads, social posts ..."
+    publishedDateTime: 2023-11-09T14:31:00Z
+    webUrl: "https://techcrunch.com/2023/11/09/picsart-launches-a-suite-of-ai-powered-tools-that-let-you-generate-videos-backgrounds-gifs-and-more/"
     type: article
     provider:
-      name: Emirates247
-      domain: emirates247.com
-    quality: 59
-    images:
-      - url: "https://www.emirates247.com/polopoly_fs/1.727756.1699241480!/image/image.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Elon Musk’s AI startup, xAI, is to be integrated with social media platform X"
-    excerpt: "Artificial intelligence startup xAI, which was founded by Elon Musk, is going to be merged into the famous social media platform X."
-    publishedDateTime: 2023-11-06T06:25:00Z
-    webUrl: "https://www.domain-b.com/people/in-the-news/elon-musk-s-ai-startup-xai-is-to-be-integrated-with-social-media-platform-x"
-    type: article
-    provider:
-      name: Domain-b
-      domain: domain-b.com
-    quality: 34
-    images:
-      - url: "https://www.domain-b.com/Uploads/Images/57f4f8a0-f838-48c2-82ba-ff388ecfeb04-Elon-Musk(1).png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 32
 
 secured: "WeoUs5sQjo6WRrUyFiamZgHXUXwoQ4K1ySitg6aECPNv4LuyYpQgDfUNXWBdjStwcfuUBTDYcY1wOP67VivsukeSe9TdxtdnfGss5F4pzop6czxLhq/ThQ7wevWFtJ4+HAmAOlbQEjJpkdAYBMcKzHJojyBlgUDleOxKOtvH0lT3BIxAXYdxcuQ0lWfKcrkaPkSoL5a+tjNicxENsz/W2GjRsH8cpwf/0MMAQtTwySVyq7fyQptsyodjOQ4M6r+tFwrNX15sruHMXgYy24GRpN2yUDOe+Bsufki1RfYvd4AIabkGYj0ig+2PLy+/P6J+hcsimu/xUGnPSy4STlA6XzcAxkDZyJCDHIH03zFpNP+htC7NSMnhNVM/RTfyf7HLWGk1LbuqIXy5QbwcVceA2wgmv5yL3ldAwYbuVZu3DZ9YV4TsiWcIG9sHpYdgZVoOj5ZQpOvavVu10sEsqgWa3eyTxOk3RVzAv2FPuAOP6YKK2IpmmPp5pW7v0Eaa/wAjyckaU1QqYBE29H4d2Ep3KA==;Xx8angO9zWXngz5947/jlQ=="
 ---

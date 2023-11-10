@@ -172,22 +172,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Elon Musk Announces 'Grok' AI Chatbot for X Premium+ Subscribers, to Compete With ChatGPT"
-    excerpt: "AI's new Grok chatbot will be available to X Premium+ subscribers via the microblogging platform and a standalone app."
-    publishedDateTime: 2023-11-06T06:32:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/elon-musk-grok-ai-chatbot-unveiled-for-x-premium-plus-subscribers-4549211"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/elon-musk-grok-ai-chatbot-unveiled-for-x-premium-plus-subscribers-4549211/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/elon-musk-grok-ai-chatbot-unveiled-for-x-premium-plus-subscribers-4549211/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 48
-    images:
-      - url: "https://i.gadgets360cdn.com/large/Musk_twitter_reuters_large_1666930091840.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Snap adds ChatGPT to its AR glasses with a focus on AI at Lens Fest"
     excerpt: "Snap said it is adding ChatGPT to its augmented reality glasses as AI becomes an integral part of consumer products."
     publishedDateTime: 2023-11-09T18:15:00Z
@@ -252,20 +236,6 @@ related:
       - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2023/11/xAI-Grok.jpg"
         width: 1066
         height: 600
-        isCached: true
-  - title: "Elon Musk's AI Startup xAI Releases 'Grok' - A Chatbot Equipped with Real-Time Knowledge"
-    excerpt: "Elon Musks AI startup, xAI, has unveiled their latest creation - Grok, an artificial intelligence chatbot that boasts superiority over OpenAIs initial ChatGPT in various academic tests. The development of Grok aims"
-    publishedDateTime: 2023-11-06T06:08:00Z
-    webUrl: "https://www.econotimes.com/Elon-Musks-AI-Startup-xAI-Releases-Grok-A-Chatbot-Equipped-with-Real-Time-Knowledge-1665566"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 28
-    images:
-      - url: "https://f1.econotimes.com/2023/11/jjaz9n2rya_th_1024x0.jpeg"
-        width: 1024
-        height: 640
         isCached: true
   - title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
     excerpt: "Musk, who helped start OpenAI before parting ways with the company, launched a new venture this year called xAI to set his own mark on the pace of AI development. Grok is only available to a limited number of early users but promises to answer “spicy ..."

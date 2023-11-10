@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/products/search/google-search-generative-ai-in
 webUrl: "https://blog.google/products/search/google-search-generative-ai-international-expansion/"
 type: article
 quality: 85
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://static.tweaktown.com/news/9/4/94233_1_xbox-to-use-generative-ai-create-game-stories-quests-and-dialog_full.png"
         width: 1500
         height: 843
-        isCached: true
-  - title: "IBM Expands Relationship With AWS To Deepen Generative AI Innovation And Launch A New Innovation Lab In India"
-    excerpt: "November 7, 2023-- IBM (NYSE: IBM) today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from the latest technologies,"
-    publishedDateTime: 2023-11-07T13:20:00Z
-    webUrl: "https://menafn.com/1107384841/IBM-Expands-Relationship-With-AWS-To-Deepen-Generative-AI-Innovation-And-Launch-A-New-Innovation-Lab-In-India"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/updates/pr/2023-11/07/F_cd60dimage_story.jpg"
-        width: 1160
-        height: 522
         isCached: true
   - title: "Google is launching generative AI search in 100 additional countries as AI wars continue"
     excerpt: "As part of Wednesday’s announcement, Google’s senior director of product management and search, Hema Budaraju, said SGE is expanding to 126 new regions including Brazil, Indonesia, Mexico, Nigeria, South Africa, and South Korea."

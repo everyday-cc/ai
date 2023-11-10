@@ -71,20 +71,6 @@ related:
         width: 326
         height: 250
         isCached: true
-  - title: "Artificial Intelligence (AI) Market to Reach $3,636 Billion, Globally, by 2033 at 37.3% CAGR: Allied Market Research"
-    excerpt: "Increase in investments in artificial intelligence systems, rise in collaboration between industries and artificial intelligence and machine learning solution companies, and increase in customer satisfaction and adoption of reliable cloud applications drive the growth of the global artificial intelligence (AI) market NEW CASTLE,"
-    publishedDateTime: 2023-11-06T07:01:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/06/9911472.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "8I1A2pk8jSo1Jsv5fvtR5DKX0pbNbSDqxkTMD3oLJDnle00xhfykllNEt6OpYcbHbaI5JeTfPbrJrG14MLQi0enHEH6XKdsDHg+U/eVf3Fb0wSgvyeniS1qPBrOyEIv6iffycgNdG+0oR4G8+5WsFQUlNgkDothQib6AEdtcXS/4NxLsJnuqsVl8YYKouEPU9PjxUOoWT/k2beBbcRL7MqOzGJDWuGbj///Oi50xSZUMPCMK4kVovv7RIeNZyaDEZ9bClptJCC8Lj2LPuQUi3u97KamspG6aQPI9vG7eeRu+5sAHWE82+OPLWvpxGULcbBBRlOmjw+Qb3KKyGM4dIdrSkNlZ1WzcDteTd/Rmqn6iF26xnTmLddrTEkp/mEjrgFM86qJPnLNheW7HezWThfGabDr40arc+VpDZDyGAGvvYf3UuQrupUjEd0NEAmnPqk4jUCVNfEiqsxIwTg2rXUpIfvb8z56+9HOj32gohMPbAtZiOLMXRDxpeXmcG9g0DzytLUyviXIo4JXXbNUTdQ==;t9UfVc5HUhkX+drD3SY5Bg=="
 ---

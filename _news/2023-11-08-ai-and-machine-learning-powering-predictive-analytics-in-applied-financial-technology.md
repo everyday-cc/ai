@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Body cameras, facial recognition, analytics: Govt institutions tap AI to fight exam cheating"
-    excerpt: "While these efforts by state-run institutions may enhance the integrity of exams, concerns remain on privacy and harvesting of data on students."
-    publishedDateTime: 2023-11-06T05:26:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/startup/body-cameras-facial-recognition-analytics-govt-institutions-tap-ai-to-fight-exam-cheating-11670221.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 45
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/11/Students-Copying-Monitor-770x433.jpg"
-        width: 770
-        height: 433
-        isCached: true
   - title: "News Explorer — Moody's Analytics Launches Stablecoin Service Using AI to Predict Depeggings, Provide Real-time Insights"
     excerpt: "Moody's Analytics Launches Stablecoin Service Using AI to Predict Depeggings, Provide Real-time Insights. Moody's Analytics has announced the launch of its new stablecoin service,"
     publishedDateTime: 2023-11-07T08:58:00Z

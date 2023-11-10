@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Flip AI Launches to Bring the 'Holy Grail of Observability' to All Enterprises With $6.5 Million in Seed Funding Led by Factory"
-excerpt: "Flip AI Raises Funding from Factory, Morgan Stanley Next Level Fund and GTM Capital Today Flip AI also announced $6.5 million in seed funding led by Factory. Morgan Stanley Next Level Fund and GTM Capital also participated. The company plans to use the money to continue to advance its product roadmap and LLM and to expand its team and operations."
-publishedDateTime: 2023-11-08T17:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9914309.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/11/08/9914309.htm"
+excerpt: "Today Flip AI launched with its observability intelligence platform, Flip, powered by a large language model (LLM) that predicts incidents and generates root cause"
+publishedDateTime: 2023-11-08T16:02:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/11/g35678759/flip-ai-launches-to-bring-the-holy-grail-of-observability-to-all-enterprises-with-6-5-million-in-s"
+webUrl: "https://www.benzinga.com/pressreleases/23/11/g35678759/flip-ai-launches-to-bring-the-holy-grail-of-observability-to-all-enterprises-with-6-5-million-in-s"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
@@ -34,6 +34,6 @@ related:
         height: 853
         isCached: true
 
-secured: "0DrEIIhNruOuRvzAWXQBDVaf1D4kS16wbYUgGaWUyqKY/BPm2cuFVXIElE0tN3sjO4rbudrf/LU6ttChgZQLK0NDebp/NUZEyTOQ+ykfwEwUGRYpRGhQyQo8NKqclCZxr19zDaPYD6IVAvRNKRiFzKIsCCO6PBFG8FVMz4ctMuYpvDBmx00E6QtYKHYev/SkCjEcyukQ/HNMWH8wQf68HyGOUI2WS/ZwroXx0dvYSKKKUi/iSAqIM7MU0u16WF2PWAXi5mTkR8Q0q6WcuIa/zS7gSTZs6EyrWFy/byLjVTXx5amTsUzMp63FvQM80xtpCoAXZtMANoqTfaj5LrpJzd6FRCIr7oWPdc5NdvNl+Hc=;Kj+p4CJcYJGzQW50Jp/zdA=="
+secured: "CqOrEFOH/D7HMnZaFV3/+TEBMQLmlH6X1ICz+cYR339n3f/RzV39nFSVMsP35wab8FacCyu6RBoYa7dPfIY/6JAPDcdX2OaeaSxhDCpH63DZc8r9ah9lvRpmPUjTFJhM6m5I8GhADKa6UL1bC4wZsE7Zci5GM5/1z+/7H1GqJ0BhqX//QI7m6q8vR61qGiCwI7OC6y9Ym1UfDhNvmteuMyOtHTJ3MDxLOfZSMjrQJqr5iEA3XTWJLbDGXLThopCpCsXs5YV9tUlo14SvTiwYELVKpQnj6Xd8tH3LLME9O30bqkN9hqhuntI3KdrYfb1Gu8c8i1jy5SgAB4VGNwHq4TXnIqYhq3EuGPLEfGOh+Hw=;vgUAVo4pqHikToh5/pGvaA=="
 ---
 

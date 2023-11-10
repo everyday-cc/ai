@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Body cameras, facial recognition, analytics: Govt institutions tap AI to fight exam cheating"
-    excerpt: "While these efforts by state-run institutions may enhance the integrity of exams, concerns remain on privacy and harvesting of data on students."
-    publishedDateTime: 2023-11-06T05:26:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/startup/body-cameras-facial-recognition-analytics-govt-institutions-tap-ai-to-fight-exam-cheating-11670221.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 45
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/11/Students-Copying-Monitor-770x433.jpg"
-        width: 770
-        height: 433
-        isCached: true
   - title: "AI and Machine Learning: Powering Predictive Analytics in Applied Financial Technology"
     excerpt: "Introduction In the dynamic world of finance, staying ahead of the curve is crucial. To make informed decisions, financial institutions and professionals rely on data-driven insights. Thanks to the rapid evolution of technology,"
     publishedDateTime: 2023-11-08T13:36:00Z

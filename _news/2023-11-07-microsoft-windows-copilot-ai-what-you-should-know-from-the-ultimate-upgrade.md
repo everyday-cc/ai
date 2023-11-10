@@ -230,15 +230,6 @@ related:
       name: The Peninsula
       domain: thepeninsulaqatar.com
     quality: 34
-  - title: "How a small city in Iowa became an epicenter for advancing AI – Microsoft"
-    excerpt: "Microsoft has been powering the future of AI from a cluster of datacenters located amidst sprawling farmlands and rural roads in"
-    publishedDateTime: 2023-11-06T03:24:00Z
-    webUrl: "https://www.inferse.com/785131/how-a-small-city-in-iowa-became-an-epicenter-for-advancing-ai-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 33
   - title: "Startups to access high-performance Azure infrastructure, accelerating AI breakthroughs"
     excerpt: "Microsoft is updating its startup program to include a free Azure AI infrastructure option for high-end GPU virtual machine clusters, for use in training and running large language models and other deep learning models."
     publishedDateTime: 2023-11-07T16:00:00Z

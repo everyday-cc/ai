@@ -5,9 +5,11 @@ excerpt: "AI marks a huge step forward in the ability for advisors to ... of the
 publishedDateTime: 2023-11-08T20:08:00Z
 originalUrl: "https://www.benzinga.com/fintech/23/11/35683097/connor-coughlin-traditional-advisory-meets-fintech-the-rise-of-a-new-model"
 webUrl: "https://www.benzinga.com/fintech/23/11/35683097/connor-coughlin-traditional-advisory-meets-fintech-the-rise-of-a-new-model"
+ampWebUrl: "https://www.benzinga.com/amp/content/35683097"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35683097"
 type: article
-quality: 1
-heat: 1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -18,6 +20,12 @@ topics:
   - AI in Finance
   - AI
 
-secured: "CcvsYchN1SCWwZ+qGHDLSXIEASIsoQiJDjCu2Uw/ljEcma2R7c2xYVo7qP7gkSa6WJCOqIdP4lGhff0UBqKIgbIeKszRz1y7C7pMAOZDaG3hKDmI4rWJOuAL/25ei0OpM0CPphB/aWqNvT+dSn5f/WZlQQOQKYeVzTDZNw6qBw5ipuB6fAV3rqjJRmq7BtXWKJ6COMt5nYN3taRMIHTm/6b0kIyK9fKYMoL3qLCesannWuWbIgqm3LMpUu9ExHl0v4yeecNOvmfMQTYCoF+Rx0bCZDi3Ml+ur3lUNICwyyWZB90mkuCz/SjySs3xTintnpyzrcm7W3ziFxXChEJtyoRM5JzESdWVWLVShG1WySE=;6MHkpF4qt0GCM1E+a8Tv8g=="
+images:
+  - url: "https://cdn.benzinga.com/files/images/story/2023/11/08/connor.png?width=1200&height=800&fit=crop"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "nUQCY5VuhZubkZk1G0tBCvkS0q025O7ioLI6/tA3XONBAbZtFPxq3MMqyxseB5YWOunIs3Z1TIwyw/eji8Q1zqJjeR9SuVEGMD1iDWXgsZ6Dm1ERZYMpgJmh98RTETKZZovfRWVX+UjmoRXC9vXWA1ycrIJgje6/1dePYiOF5hYOsJQat+C2AlHd1hWD9ZUdqiOQScOrMnkP1Gh45mvJ9jBBphzxgo2MqhsTTR1f4sxTgCrEe/Rb4sqRm8P2aN31Zi5TaGbyVXu+OK3f2krSUg99EEWITa+Dy3JMWmWlHGIX59lY3+0ougHisuBGzVc3hYVAejMHk2eXKu7POkz7rGX/iq9qnWcmGkRMlbbuuKo=;JB5//WYxcQpAPH7tSc6qCw=="
 ---
 

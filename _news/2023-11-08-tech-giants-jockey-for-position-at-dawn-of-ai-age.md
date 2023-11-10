@@ -7,7 +7,7 @@ originalUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intellige
 webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/tech-giants-jockey-for-position-at-dawn-of-ai-age/105056351"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 765
     isCached: true
-
-related:
-  - title: "Tech Giants Jockey For Position At Dawn Of AI Age"
-    excerpt: "Whether they sell smartphones, ads or computer chips, the heavyweights of Silicon Valley have everything to prove to investors looking to see who is best placed in the race to dominate the generative artificial intelligence market."
-    publishedDateTime: 2023-11-06T05:28:00Z
-    webUrl: "https://www.barrons.com/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694"
-    ampWebUrl: "https://www.barrons.com/amp/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/tech-giants-jockey-for-position-at-dawn-of-ai-age-5bfa1694"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP8179296964960142560251109326446093220437---1.jpg"
-        width: 768
-        height: 510
-        isCached: true
 
 secured: "2IVw2RRiD0VKW4ExNvckDzX0D0Fic+bEx67ThO9PwSNTLjdmKOMjrj2xNeQ1cGSAuATsSsffwOSaNK5YoF0YgJKlVYyyhdkCAU7Qp2JvLgZdq7bm5MHeNdIOjKCpspdlO0lXGJ+4ehNRMki8KHuguiplqmP8PkmSOrj1eccX4GJ9HSYyY7yn0sq3W7G0LrDdJp6kcRtQLPxjLtL8HBNtClpB5rl+7ZpiGUSmu6iqXpN5DlrETnJjWldE4nLKt2fCXgKeFIm6ieUamy5XxXdU02OKfdx4QMrZ86swxdH/TQvb+RVSQe1NNhhjIZrvGtOplSj/bRnEfZUFtrjdXooms50BhKnuJ3aS/7rPIvtNYPw=;jJUL2vog7VGsv0S931lurQ=="
 ---

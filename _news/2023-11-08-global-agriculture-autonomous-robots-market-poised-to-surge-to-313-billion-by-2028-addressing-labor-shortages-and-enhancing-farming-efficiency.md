@@ -95,20 +95,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 9
-  - title: "Embedded Intelligence Market Poised for an Impressive 11.2% CAGR, Envisions Reaching US$ 81,356.7 Million by 2033"
-    excerpt: "The global embedded intelligence market is expected to grow significantly, reaching a market value of US$ 861,356.7 million by the year 2033. This substantial increase comes from a base value of US$ 28,"
-    publishedDateTime: 2023-11-06T05:15:00Z
-    webUrl: "https://www.fmiblog.com/2023/11/06/embedded-intelligence-market-poised-for-an-impressive-11-2-cagr-envisions-reaching-us-81356-7-million-by-2033/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 3
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/11/Embedded-Intelligence-Market.png"
-        width: 1000
-        height: 592
-        isCached: true
   - title: "Voice Assistance Application Market: A Stratospheric Rise Anticipated with a Projected 18.5% Growth by 2032, Surpassing US$ 20.2 Billion"
     excerpt: "The voice assistance application market is expected to experience remarkable growth, with a projected 18.5% increase by the year 2032, reaching a substantial market value of US$ 20.2 billion. The United States is expected to have the highest market of US$ 7."
     publishedDateTime: 2023-11-09T06:44:00Z

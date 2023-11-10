@@ -26,22 +26,6 @@ images:
     height: 1321
     isCached: true
 
-related:
-  - title: "Northern Ireland; the world’s top region for both new software development and fintech inward investment projects"
-    excerpt: "With an enviable supply of talented software engineers, the region has developed a range of tech clusters, including telecom, mobile and data networks, AI and data analytics, IT and cloud services, cyber-security, fintech, trading tech, and smart cities."
-    publishedDateTime: 2023-11-06T06:01:00Z
-    webUrl: "https://www.arabianbusiness.com/resources/northern-ireland-the-worlds-top-region-for-both-new-software-development-and-fintech-inward-investment-projects"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 3
-    images:
-      - url: "https://www.arabianbusiness.com/cloud/2023/10/03/Belfast_Cityscape_Night_1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
 secured: "hqdP9/dFooeelIXEDIUtSt2aYDwqrZFqtLMXNE2Zk95AhXi+TSmhewZ/nN8PJYdzoW7TqmlYYLaK/sPI/qviBIIRMscVdnSBCu4ndDNJaZf0/HtwQClo73i2fkaJA3OkAyc+nC+o/0m4EsCKncDo5RI3U4QfSQ4PPvFejQVsAHJuvKek0QvzxGRRXb4S7WSHEPPMFxJ0sHwT28FrrSa5SoBvQWI3A3qQBsYv/HcJt+dYrZBh/mkuB7G1I1m7j0tXhoOW2VzxvAw3qIC6JZfte3M0+j9YHcEDttLdEtXLobpRVB74gs3doFCjmsKfQpFFF2y8d/I7FaLKsF50Lr0INSEqIPmrFDvOIa+IqE9DL06x2Fo377v9g0aNP+jeC+VxFDoeIHwIKpuFMMcHNmKf0/kHYgMrxxBLXrX8YAq1IPSVUhu8SJepYuMepLhgrnekbd+urPIjfOjfRqZzlDCdfdOXp3PzUCUafhOV96Mm5sgS4U02XoqJy78n5lpFD7If5QymEy0gE82lNIp+R7CLdg==;gO8u0fMoYSj0uUqVw7fHhg=="
 ---
 

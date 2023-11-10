@@ -234,15 +234,6 @@ related:
       name: The Peninsula
       domain: thepeninsulaqatar.com
     quality: 34
-  - title: "How a small city in Iowa became an epicenter for advancing AI – Microsoft"
-    excerpt: "Microsoft has been powering the future of AI from a cluster of datacenters located amidst sprawling farmlands and rural roads in"
-    publishedDateTime: 2023-11-06T03:24:00Z
-    webUrl: "https://www.inferse.com/785131/how-a-small-city-in-iowa-became-an-epicenter-for-advancing-ai-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 33
   - title: "Microsoft Windows Copilot AI: What You Should Know From The Ultimate Upgrade"
     excerpt: "Microsoft's latest stride in AI has landed Copilot squarely into the laps of Windows 11 users, touting enhancements in creativity and productivity. An early"
     publishedDateTime: 2023-11-06T16:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -142,6 +142,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Best's Review Examines Artificial Intelligence Revolution in Joint Effort With AM Best TV"
+    excerpt: "The November issue of Best's Review includes a special presentation, \"What the AI Revolution Means for Insurers, Insureds and the Insurance Workforce,\" which aired on AM Best TV throughout the year. I"
+    publishedDateTime: 2023-11-10T18:17:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35732519/bests-review-examines-artificial-intelligence-revolution-in-joint-effort-with-am-best-tv"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "eFxghgE44c8BqnRGCVVH51rD6RC8NRN59mSy4HSqwQaAQIMPVfndHqCA5DNJNU3oveAkfHBZ0ZL4A5fCdOOHFQOkGNtJm2oiarKdWCou0cXGrx+8uk1LY0OZd12/xLzz0ObpqoQB2xGNMvfvf4L0m5/ZojoZRiKA9FS5gvzhdVUEJMsLpZPQWa499KmZ51nj8HRoIPZ/Mb27qb9zdrXp85S6x8/B8zLK1L9k7/4vBozfaL1dwuWUcZEjVVgXq+Iysig6k+vM+CrVWR91HEYvtfMVLUkPfBMy2KiZaGSNA/QkVnGJc2w/Z1jK9UWO13I60JoyDCO+W0Sf0eyAp2wZ1Ovz5jOhnjSOspR3J+1kTvk=;FY8+DyF1ErHwJQDWdj56UA=="
 ---

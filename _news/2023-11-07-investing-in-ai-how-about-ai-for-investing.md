@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "Trained on Chips, Gen AI is Shaping the Chip Industry"
-    excerpt: "ChipNeMo is trained on the company’s internal data to generate and optimise software in designing semiconductors by customising large language models with the help of NVIDIA NeMo —a cloud-native framework for developers to create and deploy generative AI models with billions of parameters."
-    publishedDateTime: 2023-11-06T05:57:00Z
-    webUrl: "https://analyticsindiamag.com/trained-on-chips-gen-ai-is-shaping-the-chip-industry/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/11/unnamed-13.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "How to Regulate Artificial Intelligence"
     excerpt: "Prime Minister Najib Mikati’s tentative proposal needs Western backers. Podcast: How to Regulate Artificial Intelligence Sign up to receive updates about FP podcasts. FP Podcast Updates Submit your name and email to receive updates about FP podcasts."
     publishedDateTime: 2023-11-10T15:48:00Z

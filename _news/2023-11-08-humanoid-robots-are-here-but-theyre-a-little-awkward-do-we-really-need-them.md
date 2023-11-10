@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wral.com/amp/21134051/"
 cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21134051/"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://brookingsregister.com/uploads/images/2023/11/93360c7e834823fe3cb81b380f8f0a54.jpg"
         width: 1024
         height: 691
-        isCached: true
-  - title: "Humanoid robots are here, but they're a little awkward. Do we really need them?"
-    excerpt: "Building a robot that’s both human-like and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze has sparked another wave ..."
-    publishedDateTime: 2023-11-06T05:11:00Z
-    webUrl: "https://www.pressrepublican.com/ap/business/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/article_f3479f0c-9217-5a58-9576-1f7f95a111f0.html"
-    type: article
-    provider:
-      name: Press-Republican
-      domain: pressrepublican.com
-    quality: 35
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pressrepublican.com/content/tncms/assets/v3/editorial/5/9e/59e1390d-de00-5206-990c-8593bc225942/6547e8af9def9.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Humanoid robots are here, but they’re a little awkward. Do we really need them?"
     excerpt: "Forget affable-appearing Rosey and Robby of sci-fi yesteryear; today’s humanoid robots are a bit more Terminator-esque. Do we even need them? Artificial intelligence pioneers weigh in."

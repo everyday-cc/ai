@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "White House Ushers in New Era of Regulation With Landmark Executive Order on Artificial Intelligence"
-    excerpt: "On October 30, 2023, the White House issued a wide-ranging 63-page Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (the \"AI EO\" or \"Order\"), directing multiple federal agencies to fulfill extensive action ..."
-    publishedDateTime: 2023-11-08T20:53:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/white-house-ushers-in-new-era-of-3071741/"
+  - title: "Recognizing the Primacy of Artificial Intelligence in America: Biden’s Executive Order Sets a High Bar for Regulation and Innovation"
+    excerpt: "On October 30, 2023, President Biden issued Executive Order 14110: Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence ... bias and discrimination in hiring, healthcare, and housing, implements consumer ..."
+    publishedDateTime: 2023-11-10T20:55:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/recognizing-the-primacy-of-artificial-9174488/"
     type: article
     provider:
       name: JD Supra
       domain: jdsupra.com
-    quality: 2
+    quality: 8
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.5055_3837.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Brazilian Data Protection Authority opens a call for contribution for its Regulatory Sandbox for Artificial Intelligence and Data Protection"
     excerpt: "The information obtained during the Consultation resulted in the publication of a technical study entitled \"Regulatory sandbox for artificial intelligence and data protection in Brazil\" (the “Study”). The creation of this sandbox marks an important ..."
     publishedDateTime: 2023-11-10T16:31:00Z

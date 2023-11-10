@@ -33,20 +33,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "NVIDIA shatters records, training AI models in under 4 Minutes"
-    excerpt: "NVIDIA's AI platform has once again demonstrated its capabilities by setting new records in the latest MLPerf industry benchmarks, a well-regarded measure"
-    publishedDateTime: 2023-11-09T10:17:00Z
-    webUrl: "https://www.geeky-gadgets.com/training-ai-models/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/NVIDIA-shatters-records-training-AI-models-in-under-4-Minutes.jpg"
-        width: 1280
-        height: 718
-        isCached: true
   - title: "Pandas on GPU Runs 150x Faster, Nvidia Says"
     excerpt: "Data scientists and others who work in pandas may be interested to hear about a new release of Nvidia’s RAPIDS cuDF framework that it says results in a"
     publishedDateTime: 2023-11-09T00:01:00Z

@@ -38,15 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "White House Ushers in New Era of Regulation With Landmark Executive Order on Artificial Intelligence"
-    excerpt: "On October 30, 2023, the White House issued a wide-ranging 63-page Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (the \"AI EO\" or \"Order\"), directing multiple federal agencies to fulfill extensive action ..."
-    publishedDateTime: 2023-11-08T20:53:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/white-house-ushers-in-new-era-of-3071741/"
+  - title: "Recognizing the Primacy of Artificial Intelligence in America: Biden’s Executive Order Sets a High Bar for Regulation and Innovation"
+    excerpt: "On October 30, 2023, President Biden issued Executive Order 14110: Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence ... bias and discrimination in hiring, healthcare, and housing, implements consumer ..."
+    publishedDateTime: 2023-11-10T20:55:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/recognizing-the-primacy-of-artificial-9174488/"
     type: article
     provider:
       name: JD Supra
       domain: jdsupra.com
-    quality: 2
+    quality: 8
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.5055_3837.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "YJB7kBma+emMJ7pduVF9IqI80JQzdMmwu3eQ9u3AH6Qu/8JC1h97VCNCRcg+yC+DM/PCPp0ixkrAOFa1DHDR+UACcxf4hydksquFuStJsqU8/la0bp+mC7ZvihElvu76Pp2hYanWETaIpPhVmCZ+KyhqWOGzrgPba8joFa3osxwp0oz0K/1PaedMvu/V6KXuQLQPLfhhHt+pGM6QbZnhRvnJGlix/WdElrr4dMsX5LeOrDneDFrpCe4OD/SZ3qYuyshtai7zEUU32ms7uTHt8UTr+Pbw7xVM+RFRVJYH1L7oPHDS/2hUeHWq9LrhdXenyfOOBs5rG112C3n9ehnmT9B1EdeQ8h5oqD/9fOKVmfk=;Ln7xiZEoTjaIZRi7NuEqMg=="
 ---

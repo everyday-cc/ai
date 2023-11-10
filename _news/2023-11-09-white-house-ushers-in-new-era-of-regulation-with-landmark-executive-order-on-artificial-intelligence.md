@@ -18,33 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "How regulators can foster competition and bolster AI innovation"
-    excerpt: "Speakers at DC Fintech Week highlighted ways forward for regulators to keep pace with artificial intelligence, such as by setting up \"guardrails\" before guidelines."
-    publishedDateTime: 2023-11-09T20:58:00Z
-    webUrl: "https://www.americanbanker.com/news/how-regulators-can-foster-competition-and-bolster-ai-innovation"
+  - title: "‘A vigorous debate’: 5 edtech CEOs react to the White House executive order on AI"
+    excerpt: "Many students—and even some teachers—have become acquainted with the powers of generative AI tools like ChatGPT and Google Bard, yet questions about privacy, security, and ethics remain top of mind. Biden’s first step in addressing some of these ..."
+    publishedDateTime: 2023-11-10T22:29:00Z
+    webUrl: "https://fortune.com/education/articles/a-vigorous-debate-5-edtech-ceos-react-to-the-white-houses-executive-order-on-ai-did-it-go-too-far-or-not-far-enough/"
     type: article
     provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
+      name: Fortune
+      domain: fortune.com
+    quality: 64
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/ee5a622/2147483647/strip/true/crop/5448x2860+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F17%2Fbb%2F99e8a0c04239a96f4f5b6112e0a2%2Fadrienne-harris-dc-fintech-week-bloomberg-mercury.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Brazilian Data Protection Authority opens a call for contribution for its Regulatory Sandbox for Artificial Intelligence and Data Protection"
-    excerpt: "The information obtained during the Consultation resulted in the publication of a technical study entitled \"Regulatory sandbox for artificial intelligence and data protection in Brazil\" (the “Study”). The creation of this sandbox marks an important ..."
-    publishedDateTime: 2023-11-10T16:31:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/brazilian-data-protection-authority-8730855/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 2
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15723_926.jpg"
-        width: 1200
-        height: 900
+      - url: "https://media-cdn.fortuneeducation.com/wp-content/uploads/2023/11/10165229/GettyImages-1384263287-e1699634685972.jpg"
+        width: 1500
+        height: 1001
         isCached: true
 
 secured: "Uhc0+EHJxIJoKUlnRLsPxWiIOq4aidyWtNmkxFv79iavKb9TPX718jO8Mh72+CuGW4wgXhzwFbrZfFSpYHLDgy/2vysNhAVYcHRCQizcDL+awtlPz8gRKYmv54apx533i1pGlE1bRQ+G0PIe7bioiu1wCjvHZeDdAoDPAKI6Jrh9bRYRWqUpZCAf7ru66dAKi0a6m5MBjr8lsfEV9X1HhmiOTBkBQ8JC+/7E7Z4zbRf3zaAaz/HWkdPjfbi6IQas4FKtZtMfKywkxNp0A4JHA5lLkEcKH/tV7gIeAEPn5UM+NhyL/o8XrauU2mGm91QmO6Ly6/wCJuQyJoRkxZ8OBUdJeLEGsJyxbqPwhae8cmg=;EfNv6BWl7LI5NBAHF5gHjA=="

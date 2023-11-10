@@ -58,36 +58,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Elon Musk to integrate artificial intelligence startup xAI with social media platform X"
-    excerpt: "The billionaire also said xAI released its first AI model, a bot named Grok, after making it available to all X Premium+ subscribers on Nov 3"
-    publishedDateTime: 2023-11-06T05:22:00Z
-    webUrl: "https://www.telegraphindia.com/business/elon-musk-to-integrate-artificial-intelligence-startup-xai-with-social-media-platform-x/cid/1977978"
-    ampWebUrl: "https://www.telegraphindia.com/amp/business/elon-musk-to-integrate-artificial-intelligence-startup-xai-with-social-media-platform-x/cid/1977978"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/elon-musk-to-integrate-artificial-intelligence-startup-xai-with-social-media-platform-x/cid/1977978"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 64
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2023/Jul/1688444919_elon-musk.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Elon Musk to integrate his AI start-up with X"
-    excerpt: "Elon Musk has announced the integration of his AI startup, xAI, into his social media platform X, formerly called Twitter"
-    publishedDateTime: 2023-11-06T04:27:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/elon-musk-to-merge-artificial-intelligence-start-up-xai-with-x/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 37
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l50720231106093255.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Sunak clashes with Elon Musk as X boss says AI means we won’t need to work"
     excerpt: "He said some AI robots will “know you better than you know yourself ... Mr Sunak said: “Before you start mandating for things and legislating for things … it is important that regulation is empirically based.” The agreement with AI companies ..."
     publishedDateTime: 2023-11-07T08:48:00Z

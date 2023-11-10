@@ -55,21 +55,7 @@ related:
         width: 1024
         height: 691
         isCached: true
-  - title: "Humanoid robots are here, but they're a little awkward. Do we really need them?"
-    excerpt: "Building a robot that’s both human-like and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze has sparked another wave ..."
-    publishedDateTime: 2023-11-06T05:11:00Z
-    webUrl: "https://www.pressrepublican.com/ap/business/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/article_f3479f0c-9217-5a58-9576-1f7f95a111f0.html"
-    type: article
-    provider:
-      name: Press-Republican
-      domain: pressrepublican.com
-    quality: 35
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pressrepublican.com/content/tncms/assets/v3/editorial/5/9e/59e1390d-de00-5206-990c-8593bc225942/6547e8af9def9.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "Cj3FY7gh0NzVoPjNZaJAyvawzDFZmUXknJsE4TyiwDeHIUdRmwUzsbLzgBVlYAcUwrkxfLwczzS3WNNmue555D7KAYYKWG3Su7uBJJneuyDqDas4CFsHqrbk7jCCrRo6pj4TPzauOKTfHD4g4xW4p3PbWvU2tV+DQGWvzYB7KsIsEKzAMYo/xI5moAfcakxTjIdsMX09FgcSJYUG7KOw/8hHXp3PNnPIownjMdTit9Cx8EPTFZAOt02CE5GJ2+jlqDE3Zw7SXgd8kt2yFqBk/Y7hJUTH4ApxGMo/qXRbA7WOyjJwiVcXH1EDnD+WniC34GwDtzxl0iLzc5Wf7EL2vEirAbG4CojUKol2x4L5vcs=;YK0OW83dPARaVDse2n/vEg=="
+secured: "l0k/UAzjG/zLE2TZRKkvMu9jy4OmfjkedPZBUMs89MF9Vu9ogNdVXSvwy0I1OFQLoGUj7KwEMDlK2h8XyC38K+NK41i6ppULVRQWpi1kombTh8YuFMnAJ4ObnRdTABqXiMUGRIMg+/SkxKANusu/ce9YLGX79ns/4R7apwN+GROVzQ9XREcujKUCabPS4SHZhhQkf/3t33SPG8oHNdB3K0KX2L9LOZ4QbzXdpat20IOB4U7rbO706eDuEsigvMAHGUcs8v38SmOcblpRSi//sX6dPwAB9hZgeaazGJb0qnt+GCXRAIn2kHx8nVwPf36kNERx3gYmqPspCmofGBYGOYjyV7SUI1eiNYN48F6X3F0=;zDLoETYGFApuJ6kN8VRmTQ=="
 ---
 

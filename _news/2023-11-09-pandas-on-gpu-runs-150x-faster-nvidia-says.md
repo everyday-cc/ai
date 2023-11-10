@@ -39,20 +39,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "NVIDIA shatters records, training AI models in under 4 Minutes"
-    excerpt: "NVIDIA's AI platform has once again demonstrated its capabilities by setting new records in the latest MLPerf industry benchmarks, a well-regarded measure"
-    publishedDateTime: 2023-11-09T10:17:00Z
-    webUrl: "https://www.geeky-gadgets.com/training-ai-models/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/NVIDIA-shatters-records-training-AI-models-in-under-4-Minutes.jpg"
-        width: 1280
-        height: 718
-        isCached: true
   - title: "Crypto Billionaire Jed McCaleb's New Nonprofit Buys $500 Million Worth of NVIDIA's H100 AI Chips"
     excerpt: "A new nonprofit called Navigation Fund created by crypto billionaire Jed McCaleb purchased $500 million worth of NVIDIA H100 AI chips, making it one of the largest AI computing clusters in the world. Navigation Fund handed ownership of the chips to Voltage Park, a for-profit organization that functions as a subsidiary of Navigation Fund."
     publishedDateTime: 2023-11-10T13:03:00Z

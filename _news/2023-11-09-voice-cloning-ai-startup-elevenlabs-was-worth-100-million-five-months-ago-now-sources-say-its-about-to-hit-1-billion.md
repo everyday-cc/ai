@@ -42,6 +42,20 @@ related:
         width: 800
         height: 332
         isCached: true
+  - title: "Kai-fu Lee’s AI startup achieves $1 billion valuation in eight months"
+    excerpt: "AI, a Chinese AI startup founded by AI pioneer Kai-fu Lee, has achieved a $1 billion valuation, earning unicorn status in less than eight months,"
+    publishedDateTime: 2023-11-07T07:20:00Z
+    webUrl: "https://technode.com/2023/11/07/kai-fu-lees-ai-startup-achieves-1-billion-valuation-in-eight-months/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 37
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/11/截屏2023-11-07-下午3.19.47.png"
+        width: 2504
+        height: 1508
+        isCached: true
 
 secured: "cICNxQaHm0GKM4od5gSfBpZgi3BMXaSFJWMkE/wI2owDF0aQOSEOYsr1QaNWxcbq66UyC5nDw31C0DBZFQIjbcV+2Z1zoVZDw/UPkEdwMQqspPNVhUewHHwy52UMlPNdK973KbHA6uzK91jtOiQxGGD4Jv6K75owj+Q5qL2Ip/mzOkQ2e8uwfMn779bXaecVxqyF4m6WVMuhiF7+nsGcPoUUl4RDFlshPEUuWP2FPyHXkAaFfKFhffjk68RFY20BQENRhRWjWiqlt0pD/Al8FkUtnQt/Nu23wz8J5a9XvG2ah6Wh8zpcXMGEfNlYAg+w+jCZvQjcBgG/2P2hSi016xgWyB45DHDzIUt3TY+PTPeyAbcpZ4tNV8vuvx9z3yaWQMn4Tvd6CaKy2Vc5SJZr4mS2OUi2Azy4OEycmEJmVFMKhYsVTi5LDSSGzAwZ5G6kCI67Tvxjepnfuz2exEVjh87/juCORMYidJsNuFXwm5srs91p7V6/1e9InvJW0iKLmV7yJYHVtKXdvnWTsVWWFg==;v3u0erQoDG0V5vKhEXSIbg=="
 ---

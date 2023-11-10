@@ -1,20 +1,26 @@
 ---
 category: news
 title: "GE HealthCare Announces New Data Validating Artificial Intelligence Models for Predicting Patient Response to Immunotherapies"
-excerpt: "New data supports the potential role of Artificial Intelligence (AI) in predicting patients’ response ... and clinicians to optimize and apply our AI models in therapy development and in clinical practice in a longer term,” said Julia Casey, General ..."
-publishedDateTime: 2023-11-02T12:39:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231101659257/en/GE-HealthCare-Announces-New-Data-Validating-Artificial-Intelligence-Models-for-Predicting-Patient-Response-to-Immunotherapies"
-webUrl: "https://www.businesswire.com/news/home/20231101659257/en/GE-HealthCare-Announces-New-Data-Validating-Artificial-Intelligence-Models-for-Predicting-Patient-Response-to-Immunotherapies"
+excerpt: "GE HealthCare’s Artificial Intelligence (AI) models predict patient response to immunotherapies with 70 to 80 percent accuracy 1, based on a pan-cancer cohort, according to findings to be presented at the Society for Immunotherapy of Cancer (SITC) in San Diego,"
+publishedDateTime: 2023-11-02T12:00:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for-predicting-patient-response-to-immunotherapies/article_38326a44-6f45-5214-8f08-a186f20e297b.html"
+webUrl: "https://www.bakersfield.com/ap/news/ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for-predicting-patient-response-to-immunotherapies/article_38326a44-6f45-5214-8f08-a186f20e297b.html"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "LULQVdtzG3wKUqlBLwxWjoD5XYIidEbHQZaZ5ciySInYPcEVSyCvaO4+R44S1F+1oOQU3M76k1zbpgDg1rXtSYqVu946Nm6tFo+3g/hv37ncLorBsFG7D17loKobAApevGZR4DPZ5R3/uTnyetFOLZXi8UHeDHREAVhPeUvHiPS9OGk+48MDJvY/kSqxx12WD4pT0AXGuB4vS++lwH7h9xU1VbrKxmWIwGg7tlkDAHINnruS31pOzAetSSN7IzrXQn6L4gF0uaMoTUOaUgc3GHxxKhdhXx2FArSI/1CYFxP5LYovxreO/UNhbvx5S/Ji96y7nJLdVxCv2Htvv6XsBimhQcKcUbueucrG9Y3c04U=;ny4ZLBoKjYTtoEt3C5Jo/A=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/c/fc/cfce3a77-83d3-54dd-b0a0-8b1a19a41dff/654390615e3c5.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "n8wxF32y/QQtCQnklZC9cGhRKqoq5YnhPVqnvwx1pjid7/RLiv6NfaZ5S5hUH5hIqCoC8FAjlnZLYn1mMV+ZWcuoR1CZN7oD+qL004Tb3wXZbUozTid04WjyDXeYH8175z73HNu4E23v9yOX2bfdMeG8YI8joyImyLoJCyoQtSGCiAHurgEe/ZOKem/PgLZxKWIjAlTpCKwIft7ZS9c8PoI+VYPH2uMsjUy8fzmG1Hwf9FaGov8S28WsYTIy/bna0WjcHGSEqtClJ/tiWKI0ObfKGvfDB+8wSB5puvSFOtKBQopFT5R8P2dkdgA2n8s0bZaBv5hK85lcY0tUqb1PuIa0LyDad+kiBai4FcUaXdY=;0p65gsNOkSfIovPaCxzFOA=="
 ---
 

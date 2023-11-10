@@ -62,29 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Overcoming the trust, talent and price tag challenges in scaling generative AI"
-    excerpt: "The biggest challenge that companies have when they’re ready to launch a gen AI initiative is the difficulty of managing scale."
-    publishedDateTime: 2023-11-09T14:40:00Z
-    webUrl: "https://venturebeat.com/ai/overcoming-the-trust-talent-and-price-tag-challenges-in-scaling-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_584789593_Preview.jpeg?w=1200&strip=all"
-        width: 995
-        height: 534
-        isCached: true
-  - title: "Five Signs Your Company Is Ready For Generative AI"
-    excerpt: "Recognizing the signs that your company is ready for generative AI is a pivotal step toward safely embracing the transformative power of this emerging technology. The potential rewards, from streamlining operations to fostering innovation, are immense and well-documented."
-    publishedDateTime: 2023-11-07T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/five-signs-your-company-is-ready-for-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Exploring the Limitless Possibilities of Generative AI in 2024"
     excerpt: "The growth and evolution of Generative AI have accelerated at an unprecedented pace, enabling possibilities that were once the stuff of science fiction. The year 2024 is a pivotal moment in the realm of artificial intelligence,"
     publishedDateTime: 2023-11-06T14:26:00Z
@@ -128,6 +105,6 @@ related:
         height: 800
         isCached: true
 
-secured: "dUtjjvDjuuZCzpxoJcYu/JBIeZocVnOKfuJ1wsSHjqD8K+sqM9JKPh66BNe+ZpbnFZyTXJM2/8D6KIddVxrz6FI1b1ePSZbzmKiSN8NPZJv4hhMkdudUV/ba68kN9KtnMuxaEg9atULOj0qMEqu6dTtklI0f+O1hQLpRX1LI/vzzau/BvuA+QkDD0KdVpZ5gNQt4Fp6RaRSXVCMfoITmLBmlSS6YywFOFNwvyfnw90DOvNx0r1KvE4LnARhfjxZ1JYzuqg1gwglIu1ViI7oh+389bPLvpYenWCqx11ZJlqHLBgV+MWge6W6LgpEW9izxT1jCr6mGajVa1DYPCrzMe+kgyMasm3AYjNDHZpA6er0=;E2HZX1Z9fOkHqod9mUYkuw=="
+secured: "zcG/Fdg8/wu4useXYU/FSU6KX0Sp2oqNJU94V7Q2DVXR9LL3reS3veb5/e3WukxBE7UgQbWjQsj9GvUYc6zTI2+ixgHwKDxcRiiF0/kZh7+heWC2x4OG6xWf0qUDZWvtVgE4ooRpny+kU7lpfLFwwcb4BbsdH1YYeoDpecs+6vUobh+GDf+PnJdSiPDje117AgLgiaKZVExHBfB+VbBDRCNgoG8h1RxzUlg0JM8q5EvyFv/4MOJBOjKac7MHPnLkV70ioGk1knBNWUYRAwPqD6OiF0/Gq/kAVhEentNZiCBQMS99bezw2V+V1fCzDEsjl8GdQV86mlHnBd6sCBuWHbe2wNZZVKzpnLL4icYdW218BddS00L8CRGeadmjX7sq9pCEDfCWPbqBzZb1tI/9WO4IuuRHVb+W9sKy7y3hmLduQlHcaDl9JYBekkGqegwqT2LKgrVb/4Gp60BmDDFfumydFkimrIcmSekrKhr/Nvwan+HfXlGqiDjFaQ2gCt5QiBVUmOTZhIwDh0NPX8Hv4Q==;WDe6S5lpErjpk9jGJDTj8Q=="
 ---
 

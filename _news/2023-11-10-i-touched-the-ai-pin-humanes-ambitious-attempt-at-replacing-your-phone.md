@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Humane AI Pin—a $700 voice-command box—definitely won’t replace your phone"
+    excerpt: "Everyone in the tech world has been freaking out about this new pocket protector thing that wants to \"replace your smartphone.\" It's called the \" Humane AI Pin .\" As far as we can tell, it's a $700 screenless voice assistant box and,"
+    publishedDateTime: 2023-11-10T21:57:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/11/humane-ai-pin-a-700-voice-command-box-definitely-wont-replace-your-phone/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/11/humane-ai-pin-a-700-voice-command-box-definitely-wont-replace-your-phone/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/11/humane-ai-pin-a-700-voice-command-box-definitely-wont-replace-your-phone/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 85
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/11/12-980x617.jpg"
+        width: 980
+        height: 617
+        isCached: true
   - title: "Humane’s Ai Pin is a $700 Smartphone Alternative You Wear All Day"
     excerpt: "If you’re willing to clip the Ai Pin to your chest, you can talk, gesture, and tap to take photos or summon a powerful virtual assistant."
     publishedDateTime: 2023-11-09T16:59:00Z
@@ -144,6 +160,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ai-pin-screenshot.png"
         width: 1650
         height: 1042
+        isCached: true
+  - title: "Humane’s Ai Pin won’t replace your phone, but it should go after the smartwatch"
+    excerpt: "Humane should have made the Ai Pin a device that’s almost like a physical assistant to your phone. Its wearable nature makes it a hands-free device with an indicator light when there are important notifications from your phone. Users can then decide whether they want to take out their phone, or more quickly view it on the laser display."
+    publishedDateTime: 2023-11-10T21:00:00Z
+    webUrl: "https://9to5google.com/2023/11/10/humane-ai-pin-phone-smartwatch/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 35
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/11/humane-ai-pin-music.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "The Humane Ai Pin is a $699 screen-free wearable designed to replace your smartphone"
     excerpt: "A startup called Humane has been teasing a smartphone alternative for much of the year, and now the company has unveiled its screen-free mobile device called the Ai Pin. It goes on sale November 16 for $699 and customers in the US will be able to get unlimited text, talk, and data on T-Mobile’s network for $24 per month."

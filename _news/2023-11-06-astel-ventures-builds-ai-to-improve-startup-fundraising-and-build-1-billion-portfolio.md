@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/astel-ventures-bui
 webUrl: "https://markets.businessinsider.com/news/stocks/astel-ventures-builds-ai-to-improve-startup-fundraising-and-build-1-billion-portfolio-1032781176"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Insider
@@ -41,6 +41,20 @@ related:
       - url: "https://i.insider.com/654b688936d588dc55ccc869?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Kai-fu Lee’s AI startup achieves $1 billion valuation in eight months"
+    excerpt: "AI, a Chinese AI startup founded by AI pioneer Kai-fu Lee, has achieved a $1 billion valuation, earning unicorn status in less than eight months,"
+    publishedDateTime: 2023-11-07T07:20:00Z
+    webUrl: "https://technode.com/2023/11/07/kai-fu-lees-ai-startup-achieves-1-billion-valuation-in-eight-months/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 37
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/11/截屏2023-11-07-下午3.19.47.png"
+        width: 2504
+        height: 1508
         isCached: true
 
 secured: "dIdAy5hVDGHCv69mrwpljMp52wpLY29QvEhKNa/PdaqtAxwqJm+/oRVlj2mRnjnEhjeoGwDmOD62VBsM1C9tpcqlSQQAz9Xgll/9zkgf/IuSCQ4B0ci7N10cZw33PC+k6vuohbfoK1rMuuK5UAsKqZDuuceStb20zIrfB9wnXxKvqukuVCLTzPEVYmI78XI1LgqvmPAXVh1lCHzaCis45RzDPE2haIoWZTnQWlUL6xm0n495WhSMnre/RtdjuTFryXjvBhivrapLFnTRboutQQ16ZSBUOOYWbX58Y/lMbQkYo1KNkH7Cs/7Ofiu/J3KNna8xfeKr/ZXFBxiCXSCox/BcUblT2s5OJCTV+KoHlC3ZUiWZ1Lyyie9jDO2vVOV1paKiE9S89tuKonsgeA4fEmAQhCsz3emBZWVrdrxY0ZWG0IbeMO97a/NZ/viI0LRvobYf3Qr8BN0OOQCPy2KSpKKfEeKtgHA8jcLcMuulFgtoiPbOw1iiheHA8LHaBfVsBe4WkflDq4OXKPebZ3imkw==;APxlwohqR1PnKGzDU/brwg=="

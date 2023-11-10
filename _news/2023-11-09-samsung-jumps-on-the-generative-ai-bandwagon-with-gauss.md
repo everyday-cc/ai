@@ -28,117 +28,148 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Research Reveals Generative AI Samsung Gauss"
-    excerpt: "The Samsung Gauss large language model can assist with code writing and document analysis. Samsung Research has revealed a generative AI assistant called Samsung Gauss that the research group uses internally but may eventually appear in Samsung’s ..."
-    publishedDateTime: 2023-11-07T00:01:00Z
-    webUrl: "https://www.techrepublic.com/article/samsung-gauss-generative-ai/"
+  - title: "Build trust and safety for generative AI applications with Amazon Comprehend and LangChain"
+    excerpt: "We are witnessing a rapid increase in the adoption of large language models (LLM) that power generative AI applications across industries. LLMs are capable of a variety of tasks, such as generating creative content, answering inquiries via chatbots, generating code, and more. Organizations looking to"
+    publishedDateTime: 2023-11-10T20:39:56Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
+  - title: "How the UK is looking to lead the charge in generative AI for lawtech"
+    excerpt: "In times gone by, lawyers would spend hours poring over documents and huge amounts of time and energy on research. But for many of today’s law firms, those days are coming to an end. The landscape is being revolutionised,"
+    publishedDateTime: 2023-11-06T15:05:00Z
+    webUrl: "https://thenextweb.com/news/uk-leading-generative-ai-lawtech"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
     quality: 69
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/11/Samsung-AI-Forum-Nov82023.jpg"
-        width: 1400
-        height: 933
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F11%2Flegalai-e1699280809765.jpeg&signature=15af5099ee7e9fcb4aca0cb9f9e6eaf0"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Upcoming Samsung Galaxy AI Can Translate Calls In Real Time"
-    excerpt: "Samsung has already unveiled Gauss, its in-house generative AI that comes with Language, Code and Image sub-models. While it's not"
-    publishedDateTime: 2023-11-09T10:00:00Z
-    webUrl: "https://www.lowyat.net/2023/310698/samsung-galaxy-ai-translate-calls/"
+  - title: "Overcoming the trust, talent and price tag challenges in scaling generative AI"
+    excerpt: "The biggest challenge that companies have when they’re ready to launch a gen AI initiative is the difficulty of managing scale."
+    publishedDateTime: 2023-11-09T14:40:00Z
+    webUrl: "https://venturebeat.com/ai/overcoming-the-trust-talent-and-price-tag-challenges-in-scaling-generative-ai/"
     type: article
     provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
     images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2023/11/Samsung-Galaxy-AI-Live-Translate-Call.jpg"
-        width: 1000
-        height: 563
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_584789593_Preview.jpeg?w=1200&strip=all"
+        width: 995
+        height: 534
         isCached: true
-  - title: "Samsung AI Forum 2023 starts today"
-    excerpt: "Samsung has announced that the new Samsung AI Forum 2023 has started today, the event is taking place at the Suwon Convention Center in Gyeonggi-do, Korea"
-    publishedDateTime: 2023-11-07T10:30:00Z
-    webUrl: "https://www.geeky-gadgets.com/samsung-ai-forum-2023-starts-today/"
+  - title: "Five Signs Your Company Is Ready For Generative AI"
+    excerpt: "Recognizing the signs that your company is ready for generative AI is a pivotal step toward safely embracing the transformative power of this emerging technology. The potential rewards, from streamlining operations to fostering innovation, are immense and well-documented."
+    publishedDateTime: 2023-11-07T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/five-signs-your-company-is-ready-for-generative-ai/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/Samsung-AI-Forum-2023.png"
-        width: 700
-        height: 466
-        isCached: true
-  - title: "Samsung's One UI 6 Update Gives Galaxy Phones More AI Camera Smarts"
-    excerpt: "Samsung's Galaxy phones will soon get a a bevy of new camera features, some of which are powered by AI, as part of"
-    publishedDateTime: 2023-11-09T04:25:00Z
-    webUrl: "https://www.businessghana.com/site/news/technology/296752/Samsung&"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "TechSmith Audiate Launches Generative AI Features For Instant Content Creation"
+    excerpt: "TechSmith Corporation, an industry leader in visual communication and video creation, announces the launch of generative AI scripting and voiceover features in Audiate, the company’s audio recorder and text-based editing solution."
+    publishedDateTime: 2023-11-07T15:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/techsmith-audiate-launches-generative-ai-features-for-instant-content-creation-1032788734"
     type: article
     provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 39
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-11-08-12291301.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "AI in your pocket: Samsung Galaxy S to feature real-time phone call translator"
-    excerpt: "The real-time call translation function will be integrated into the device’s call feature. Read more at straitstimes.com."
-    publishedDateTime: 2023-11-10T02:05:00Z
-    webUrl: "https://www.straitstimes.com/tech/ai-in-your-pocket-samsung-galaxy-s-to-feature-real-time-phone-call-translator"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+  - title: "Adobe Positioned For Success With AI Integration And Expanding Partnerships, Says Analyst"
+    excerpt: "BMO Capital Markets analyst Keith Bachman reiterated the Outperform rating on Adobe Inc. (NASDAQ:ADBE), raising the price target to $670 from $645. The analyst writes that Adobe is a market leader in its three core product categories: Creative Cloud,"
+    publishedDateTime: 2023-11-10T20:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/adobe-positioned-for-success-with-ai-integration-and-expanding-partnerships-says-analyst-1032807911"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 35
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/11/10/2023-10-30T235729Z1792562390RC2WZQ9OQ8X5RTRMADP3SAMSUNG-ELEC-RESULTS.JPG"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "Samsung To Add Real-Time Translation To New Smartphone Model"
-    excerpt: "Samsung Electronics will roll out a real-time call translation service using AI technology next year, the firm told AFP Friday, claiming it would ma"
-    publishedDateTime: 2023-11-10T09:51:00Z
-    webUrl: "https://menafn.com/1107405741/Samsung-To-Add-Real-Time-Translation-To-New-Smartphone-Model"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "IBM Expands Relationship With AWS To Deepen Generative AI Innovation And Launch A New Innovation Lab In India"
+    excerpt: "November 7, 2023-- IBM (NYSE: IBM) today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from the latest technologies,"
+    publishedDateTime: 2023-11-07T13:20:00Z
+    webUrl: "https://menafn.com/1107384841/IBM-Expands-Relationship-With-AWS-To-Deepen-Generative-AI-Innovation-And-Launch-A-New-Innovation-Lab-In-India"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 24
+    quality: 35
     images:
-      - url: "https://menafn.com/updates/pr/2023-11/10/KT_5340eimage_story.jpg"
-        width: 1200
-        height: 675
+      - url: "https://menafn.com/updates/pr/2023-11/07/F_cd60dimage_story.jpg"
+        width: 1160
+        height: 522
         isCached: true
-  - title: "Samsung Gauss AI Unveiled: A Revolution Set to Power Galaxy S24"
-    excerpt: "Samsung's recent announcement of its proprietary AI technology, Samsung Gauss, signals a new horizon in consumer-focused artificial intelligence. This"
-    publishedDateTime: 2023-11-08T16:00:00Z
-    webUrl: "https://www.mensjournal.com/gear/the-guide/samsung-gauss-ai-unveiled-a-revolution-set-to-power-galaxy-s24"
+  - title: "Unveiling the Pulse of AI in Language Services: SAFE-AI Task Force Launches Pivotal Perception Survey"
+    excerpt: "Global discussions underscore the urgency of a collaborative approach towards navigating the frontier AI landscape. The Perception Survey by the SAFE-AI Task Force aligns with this international momentum, aiming to foster a comprehensive dialogue around AI ethics and safety in the domain of language interpretation."
+    publishedDateTime: 2023-11-08T18:24:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274026386/unveiling-the-pulse-of-ai-in-language-services-safe-ai-task-force-launches-pivotal-perception-survey"
     type: article
     provider:
-      name: Men's Journal
-      domain: mensjournal.com
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 26
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1699242668411.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Munjal Shah and Hippocratic AI Focus on Non-Diagnostic Health Care Applications for Generative AI"
+    excerpt: "If you’re a knowledge worker, you know there’s simply no escaping the artificial intelligence discussion. Whether you work in health care, business, media, tech, or law, you’ve probably heard of a “game-changing” idea for applying large language ..."
+    publishedDateTime: 2023-11-09T21:22:00Z
+    webUrl: "https://www.sfweekly.com/marketplace/munjal-shah-and-hippocratic-ai-focus-on-non-diagnostic-health-care-applications-for-generative-ai/article_62030e06-7f44-11ee-aad3-f3188de9bffa.html"
+    type: article
+    provider:
+      name: SF Weekly
+      domain: sfweekly.com
+    quality: 26
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sfweekly.com/content/tncms/assets/v3/editorial/7/c2/7c29f7c2-7f44-11ee-a57a-0f62c6a84c00/654d4b0640898.image.jpg?crop=624%2C328%2C0%2C148&resize=624%2C328&order=crop%2Cresize"
+        width: 624
+        height: 328
+        isCached: true
+  - title: "Exploring the Ethics of Gartner’s Generative AI: Impacts, Challenges, and Considerations"
+    excerpt: "Attention tech enthusiasts and ethical minds! Are you ready to dive into the fascinating world of generative AI? Brace yourself for an eye-opening exploration as we unravel the ethics behind Gartner’s groundbreaking technology."
+    publishedDateTime: 2023-11-08T12:29:00Z
+    webUrl: "https://techbullion.com/exploring-the-ethics-of-gartners-generative-ai-impacts-challenges-and-considerations/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 25
+  - title: "How Do Incorporate IoT and Artificial Intelligence For Various Applications"
+    excerpt: "The Internet of Things (IoT) has altered the rules in a variety of industries, including manufacturing, housing, agriculture, healthcare, and many more, even if you have a passing familiarity with technological advancements."
+    publishedDateTime: 2023-11-09T16:24:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2023/11/09/457669-how-incorporate-iot-artificial-intelligence-various-applications.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
-  - title: "Is Samsung Gauss AI the Death of Apple’s Tech Dominance?"
-    excerpt: "At the Samsung AI Forum 2023, the company announced the launch of a new generative AI model – Samsung Gauss. Here's all you need to know."
-    publishedDateTime: 2023-11-10T09:21:00Z
-    webUrl: "https://www.techopedia.com/samsung-gauss-everything-you-need-to-know"
+  - title: "Air India bets on generative AI; to introduce more AI features to address customer queries"
+    excerpt: "Air India plans to introduce sophisticated features to its generative artificial intelligence virtual agent that handles more than 6,000 customer queries daily. The Tata Group-owned airline is using ChatGPT to analyse even some complex questions it may not be able to immediately answer to improve customer experience in later interactions and is helping it to become more attuned to natural language."
+    publishedDateTime: 2023-11-10T22:53:00Z
+    webUrl: "https://www.dailyexcelsior.com/air-india-bets-on-generative-ai-to-introduce-more-ai-features-to-address-customer-queries/"
     type: article
     provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 19
-  - title: "Samsung to add real-time translation to smartphone model"
-    excerpt: "The South Korean firm is rapidly advancing its generative AI model called Samsung Gauss, covering fields of language, code, and image. (Samsung pic) SEOUL: South Korean smartphone"
-    publishedDateTime: 2023-11-10T05:50:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/11/10/samsung-to-add-real-time-translation-to-smartphone-model/"
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 9
+  - title: "Gretel Signs Strategic Collaboration Agreement with AWS to Launch Synthetic Data Accelerator to Launch Privacy-First Generative AI Applications"
+    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Gretel, a leading multimodal synthetic data generation platform, today announced a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate responsible generative artificial intelligence (AI ..."
+    publishedDateTime: 2023-11-07T17:14:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231107133349/en/Gretel-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Launch-Synthetic-Data-Accelerator-to-Launch-Privacy-First-Generative-AI-Applications"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 4
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "XVVIQ2A9I/zB5YPB2d5zhmNUZbWWQkD/1nVIx9Utsh00jLM8MWsseScOvGvwhk0rvQ9oTDThu3GBszAElLW+c3JABhzWukmk8Ew4OkanKs18FaqaJ4Vbyqin9eGSngSZkSnJVQWyqEDb9Y3+dplI3xSG7NuAOfzwHO6prUgUWe6kr+r1CpHe84sbgx+yK1iQQ7kbKfLMmENGFEeHlF/O+WAY5Vk9rAEU7B9t76ijyfs8BhTrCZFmVxC0BybecbV9a1b3D6vTOF9DGg0homvY2aK4XsP3DkABzjN0sO9GGx/52XDvHewdEl9VnKCWAlUhFHNy4/yd6p66GGOyNyQM0qNxHHR56odqqlJxUp+suIAtSPf6WONk+xgByWy+I//G2ho/eWLt8Gz55rhDv/f34EBkISq3C+NH2SQL3TVS7yav0jq10CWoVRyBSMUgnkRfFFNg74Bct+QwraWTcWL11mzEpzIRBWEFDJ3XeCuCUwvflqrMs4mSnJZTYV9A6dqUuQ5FOZr2W+3LSeqhyVHR9Q==;XxRVvkoNu1jdLDyqvMXX4g=="
 ---

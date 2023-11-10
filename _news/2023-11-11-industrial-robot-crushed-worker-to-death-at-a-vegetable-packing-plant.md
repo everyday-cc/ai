@@ -2,26 +2,26 @@
 category: news
 title: "Industrial robot crushed worker to death at a vegetable packing plant"
 excerpt: "The man died of head and chest injuries after he was grabbed and pressed against a conveyor belt by the machine’s robotic arms."
-publishedDateTime: 2023-11-10T18:11:00Z
-originalUrl: "https://www.live5news.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/"
-webUrl: "https://www.live5news.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/"
-ampWebUrl: "https://www.live5news.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/?outputType=amp"
-cdnAmpWebUrl: "https://www-live5news-com.cdn.ampproject.org/c/s/www.live5news.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/?outputType=amp"
+publishedDateTime: 2023-11-10T22:11:00Z
+originalUrl: "https://www.kolotv.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/"
+webUrl: "https://www.kolotv.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/"
+ampWebUrl: "https://www.kolotv.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/?outputType=amp"
+cdnAmpWebUrl: "https://www-kolotv-com.cdn.ampproject.org/c/s/www.kolotv.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/?outputType=amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Live 5 News
-  domain: live5news.com
+  name: KOLO TV
+  domain: kolotv.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://gray-wcsc-prod.cdn.arcpublishing.com/resizer/3ME7E9LxAE7AWW_2ZPMDKkD2bAw=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/RHJBI3ABGJCTJI7MNB2LSOC4DA.png"
+  - url: "https://gray-kolo-prod.cdn.arcpublishing.com/resizer/QQKk9QRpXhJ3sMdOIhuoJJJm598=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/HPQRALOX4VDHXMXJ5IU2L4MQSQ.jpg"
     width: 800
     height: 450
     isCached: true
@@ -143,6 +143,6 @@ related:
       domain: manufacturing.net
     quality: 13
 
-secured: "IIu+F3dmA2vi0oAMQhvRF9OpgvqClMfspZs4HjcBi2eoOmKWng6bV8hM1/CpWDOV1pb7IgLPBgDVk5UUuhd/QhDgYytdu4K7K+TlKRh3RxW1+v9kOSDN2aW6M7JtASSklHq+HHZRxb0Vlcpep0vNwGV/s7/eN1yAP2ZuyWyak1tBPVt8R1o3jNV9/5fPwenw71RV5wLepwRkxkZgbLRzXbF9dMu4vcrKZvadXKoRS4hdojzT+Gc0Lk8QmajNIHf7FoQA9Ol9J6yPCHmHmeW5JfbUcDoKo8jfFXozn8nl7N4GvVKIOqTKXo4r70Lv/QpAiWDq9Vdj0vO87v6l7KkV8zvfysf5pJuv75B8P/AXS9Y=;W6dWlvvDizZDC8HlvGSArw=="
+secured: "6RkldxzpTafDKGDFAxQ79T+HCR6+iJHhRHk2AZsc0mhHlTDwOenaqyokvKlZrcYpQXmZDa2oyecO4ZTW86QJhDzX7Jet+gTHDPVybJQri+5MWgGwloYozUZ7Y4cV+EN+BsUNsmNfHEF0780aX8fKNhmekSGWVs9STLfWbyIQcTO3cZJWWm2lJpce8loauV3CvdPmbkTgOUZWNVrZE146TgahlenRZLBZl4AO4ZW5rCo3Qo53lzfWXP+VYU86N0v/C2Fs/vY6q8kBku3DUHBxCLofRQ/JfZHfyH4Dy/TQwYB22PQGM0thjeWqqEBLOIlgjD+Fmw+lk+RfgSQiKQ5J80vLLLvbRRtv5n3+1q7V7TU=;1HA7Kg9DyGv6PPiHK6EqTQ=="
 ---
 

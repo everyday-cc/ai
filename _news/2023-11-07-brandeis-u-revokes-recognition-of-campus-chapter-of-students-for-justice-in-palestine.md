@@ -9,7 +9,7 @@ ampWebUrl: "https://forward.com/fast-forward/568525/brandeis-revokes-recognition
 cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/fast-forward/568525/brandeis-revokes-recognition-campus-chapter-students-justice-palestine/?amp=1"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "WhatsApp's AI sticker generator called out for racism against Palestine, Meta responds"
-    excerpt: "WhatsApp's newly launched AI sticker generator feature has recently been accused of generating racist and Islamophobic images related to Palestine."
-    publishedDateTime: 2023-11-06T04:05:00Z
-    webUrl: "https://www.indiatoday.in/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06"
-    ampWebUrl: "https://www.indiatoday.in/amp/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06"
-    type: article
-    provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 51
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/whatsapp-banned-over-71-lakh-accounts-in-india-031607942-16x9_0.jpg?VersionId=q0_uEJFrOkvtRkTRU3tzzfRmrUMEHvl5"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Protesters march to City Hall calling for Palestine recognition"
     excerpt: "Protesters in solidarity with the Palestinian community gathered on campus Friday and marched to the Berkeley City Hall calling for recognition of Palestine and denouncing university support of Israel. We're an independent student-run newspaper, and need your support to maintain our coverage."
     publishedDateTime: 2023-11-07T02:51:00Z

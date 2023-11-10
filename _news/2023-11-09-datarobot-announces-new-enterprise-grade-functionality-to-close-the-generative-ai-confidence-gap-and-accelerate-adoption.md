@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "TechSmith Audiate Launches Generative AI Features For Instant Content Creation"
-    excerpt: "TechSmith Corporation, an industry leader in visual communication and video creation, announces the launch of generative AI scripting and voiceover features in Audiate, the company’s audio recorder and text-based editing solution."
-    publishedDateTime: 2023-11-07T15:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/techsmith-audiate-launches-generative-ai-features-for-instant-content-creation-1032788734"
+  - title: "DataRobot releases major updates to its enterprise-grade AI platform"
+    excerpt: "Using the company’s full-lifecycle platform, AI experts can experiment with, build, deploy, monitor and govern enterprise-grade applications that use artificial intelligence. DataRobot added a host of new capabilities in August to take advantage of the explosive interest in generative AI large language models, such as OpenAI LP’s GPT-4."
+    publishedDateTime: 2023-11-09T16:59:00Z
+    webUrl: "https://siliconangle.com/2023/11/09/datarobot-releases-major-updates-enterprise-grade-ai-platform/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/DataRobot_Console_Fall23_Launch.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Je2Q0lhq+Y6/B6aHvXVE4xVaWPaZJuni9sBB8H9XWKglKKuCrI3T60sCYt0XOkvo7VHLrnMY/QAwY0xHsFGN5C15Evuo7kygQOr1FH24y+dEL5ZviG87hMf1EYTX75j4qUDNaVm/V5ReiSoU+pfBhJ+5XkPexFGe9vvJ8TBvdXjzsMH6zIhsNbKCFYspMro7xvo9oxSjZsQ+qUDSmRi11bq+At27+RhJ4j3bGdqgxuccl3dY44wdU7f3+37Dn6a5hBezv+KpxlB8jWFyEOPPLbeSn1aoF03suCb+sCitbfK1yxse1x8mQ78aJhYVX5aUitjHKJjz6ad6wTYmge62WMyHeGC3gisqR8rwx4Uwm5yp+OSw+Yhq0510ou7r/MhN1odkwc7psBC6ly6/62Pbp/l5BDlu5L/iJGbnvkoU7fmtfMrwNjrz2v7ktqwBNIaTZs/kpChbAKkWxWUZd4ZBugzv3HsmJ8aC3pl0visQiFT2e0p6tYU/uDx1ox687pbOb76oDEfHvkHTlw0YMmphxA==;ovxkJ1QSk1TZ0OmmJ8nF7w=="
 ---

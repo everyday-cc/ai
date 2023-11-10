@@ -36,6 +36,20 @@ related:
         width: 512
         height: 256
         isCached: true
+  - title: "Elon Musk Plans To Integrate AI Startup xAI Into His Social Media Platform X"
+    excerpt: "AI is currently focusing on developing AI tools and the Elon Musk-led AI startup's first AI model is designed to answer questions \"with a sense of humour\"."
+    publishedDateTime: 2023-11-07T07:55:00Z
+    webUrl: "https://www.ibtimes.co.uk/elon-musk-plans-integrate-ai-startup-xai-his-social-media-platform-x-1721339"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 34
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1721069/elon-musk.jpg"
+        width: 2048
+        height: 1363
+        isCached: true
 
 secured: "K/Dy12fLax2Xr2XqoMJqkmiYTjwXm2S1qjOOxfjwKt2akfnHbjEsCYD08RK3JPsA8HZdGqCGuCmSl9G+w4Ao/HCTw3S3tCDaRoXqK8cKZIskqxKETsub7bzcpoOHUzTTlZExx3x4wbQrZVqTBbRA86+aVI7P2cdB3dcados0ffVqtAceZfegLCnch/Gy/s0QNPlU/8Cwcaeoy6KsVFnwyokauUtQeYmgPz0ldlhUEzBUnlPxKdkxSKxZnZvrvhEAy+HbNANWF2a7Z88G7IG9xrq4IP15phBdJWVkpNaqlwzPNBkFr4cXMniCVghHAMEbauy1DfLL5Ybg0hvY/b6M9bLi298f1MauArWJdyEGLks=;c1G9s+ZqMIP5MQbs7ALqwQ=="
 ---

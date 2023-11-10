@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk Plans To Integrate AI Startup xAI Into His Social Media Platform X"
+    excerpt: "AI is currently focusing on developing AI tools and the Elon Musk-led AI startup's first AI model is designed to answer questions \"with a sense of humour\"."
+    publishedDateTime: 2023-11-07T07:55:00Z
+    webUrl: "https://www.ibtimes.co.uk/elon-musk-plans-integrate-ai-startup-xai-his-social-media-platform-x-1721339"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 34
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1721069/elon-musk.jpg"
+        width: 2048
+        height: 1363
+        isCached: true
   - title: "Picsart launches a suite of AI-powered tools that let you generate videos, backgrounds, GIFs and more"
     excerpt: "Picsart, a photo-editing startup backed by SoftBank, is launching a new suite of AI-powered tools for businesses and individuals. The suite, called Picsart Ignite, includes 20 tools that are designed to make it easier for create ads, social posts ..."
     publishedDateTime: 2023-11-09T14:31:00Z

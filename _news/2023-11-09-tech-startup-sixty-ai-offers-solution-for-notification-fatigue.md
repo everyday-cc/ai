@@ -63,22 +63,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
-  - title: "Does an AI tool help boost adoptions? Key takeaways from an AP Investigation"
-    excerpt: "Former social worker Thea Ramirez has developed an artificial intelligence-powered tool that she says helps social service agencies find the best adoptive parents for some of the nation’s most vulnera"
-    publishedDateTime: 2023-11-06T05:17:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-tool-boost-adoptions-key-takeaways-ap-investigation-104650891"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-tool-boost-adoptions-key-takeaways-ap-investigation-104650891"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-tool-boost-adoptions-key-takeaways-ap-investigation-104650891"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 54
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_f51f9573e3ced729a277c6817f45ffd8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Competition considerations featured in President Biden’s Executive Order on Artificial Intelligence"
     excerpt: "On October 30, 2023, President Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. The Order, which recognizes AI’s extraordinary potential but also the substantial risks requiring ..."
     publishedDateTime: 2023-11-08T14:59:00Z

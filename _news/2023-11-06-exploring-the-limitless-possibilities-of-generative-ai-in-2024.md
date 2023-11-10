@@ -73,29 +73,6 @@ related:
         width: 1600
         height: 843
         isCached: true
-  - title: "Overcoming the trust, talent and price tag challenges in scaling generative AI"
-    excerpt: "The biggest challenge that companies have when they’re ready to launch a gen AI initiative is the difficulty of managing scale."
-    publishedDateTime: 2023-11-09T14:40:00Z
-    webUrl: "https://venturebeat.com/ai/overcoming-the-trust-talent-and-price-tag-challenges-in-scaling-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_584789593_Preview.jpeg?w=1200&strip=all"
-        width: 995
-        height: 534
-        isCached: true
-  - title: "Five Signs Your Company Is Ready For Generative AI"
-    excerpt: "Recognizing the signs that your company is ready for generative AI is a pivotal step toward safely embracing the transformative power of this emerging technology. The potential rewards, from streamlining operations to fostering innovation, are immense and well-documented."
-    publishedDateTime: 2023-11-07T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/five-signs-your-company-is-ready-for-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "The Future of Generative AI: A Closer Look at 2024"
     excerpt: "Welcome to the fascinating world of Generative AI, where machines have been programmed to tap into their creativity and produce awe-inspiring works that rival those made by humans. As we delve deeper into this captivating topic,"
     publishedDateTime: 2023-11-08T11:45:00Z

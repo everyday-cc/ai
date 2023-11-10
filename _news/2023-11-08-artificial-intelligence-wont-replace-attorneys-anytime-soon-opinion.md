@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Soothe a doc: AI won’t replace you"
+    excerpt: "Cold water: Landgrebe believes that some of the hype around AI is baseless. He said higher-order human thinking won’t be easily replaced by the systems, adding that human health workers can diagnose and treat an ailment in many circumstances without AI assistance."
+    publishedDateTime: 2023-11-10T18:00:00Z
+    webUrl: "https://www.politico.com/newsletters/future-pulse/2023/11/10/soothe-a-doc-ai-wont-replace-you-00126549"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 17
+
 secured: "6ePFohNN9nP7ES5Ov9y0EefbHZiJd6/7QrHqHfF6VKIjW3e3twV9QXSNcG9+royUJ3svqi3V3LnEnBcoL7csHNug6L+RzTtPKcDkdwE5Eb6kZTiKwuO3Nq8/zGH+e+I1JFhCNR0d1u6HoZn9ayNW4i0QE3CivgFJg/SdeK/w/fK92nqTZTL8ijprsMxZS2vILUhFSrzac9YHVN1pSPWEtiorSRiv5+73IdnYD37diYPhqGwmt+CuAMBcLIBOmLaq+elz8eWoBnq43+XQsRm1p8KE7kL1iGRdnf5rgamgbX2C5QBJ2/sve1OpnV4ONBuuI7l5eHa4KpSlvye8fvr0scKmj4U0r00k0FzdNNjg5vo1Z1B7525jRI1ttP7mrMTLnmdwXVOFhgmwQM0LGX6oDAn4my8aVfWL+mdfLuswTi5QZiAiXurDn+wDMGCrOxGdp7MARC//wJCiFlflINF5zP8Q7j5fu6Yyv4dB0LLbg8yccbX2oMyCYLJ1i6JMpxKFUKGJC2uYJUM+cUFdl2E2ow==;TbzKKo/iof/t0HAYAeIq9Q=="
 ---
 

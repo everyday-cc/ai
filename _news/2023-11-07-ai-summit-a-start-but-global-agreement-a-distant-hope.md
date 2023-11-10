@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Analysis: AI summit a start but global agreement a distant hope"
-    excerpt: "British Prime Minister Rishi Sunak championed a series of landmark agreements after hosting the first artificial intelligence (AI) safety summit but a global plan for overseeing the technology remains a long way off."
-    publishedDateTime: 2023-11-06T05:59:00Z
-    webUrl: "https://www.reuters.com/technology/ai-summit-start-global-agreement-distant-hope-2023-11-03/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/23SW6NrkggXGpIkpsg_1kORqYNc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TS3FBNGAOZJHDJTJ55V7UY5YMA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AI summit a start but global agreement a distant hope"
     excerpt: "The UK has also diverged from the EU by proposing light-touch approach to AI regulation, in contrast to Europe's AI Act, which is close to being finalised and will bind developers of what are deemed \"high risk\" applications to stricter controls."
     publishedDateTime: 2023-11-08T04:00:00Z
@@ -48,6 +34,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "The AI Summit was a promising start – but momentum must be maintained"
+    excerpt: "The UK’s much anticipated AI Safety Summit saw twenty-eight governments reach a consensus that risks posed by systems on the ‘frontier’ of general purpose AI need to be addressed."
+    publishedDateTime: 2023-11-08T13:50:00Z
+    webUrl: "https://www.cam.ac.uk/stories/ai-summit-promising-start"
+    type: article
+    provider:
+      name: University of Cambridge
+      domain: cam.ac.uk
+    quality: 17
 
 secured: "T3a0Wx+4HW3sG+zyhcRGPVILmMNw+MmeJG10ob5Dz2EhcXXXQr3S2Iij1wz7l9WJONhaLgyupXqtmshpu5CXI60f1m3HikjWjTaGmujz/vxE9eM3Il7mbDe7hJ5zqQgU/LQIdSLD2yZXR/8Qh/NrvUE5SUHRtMbgo2yBrlY01qCx4u7zvWEJCMDC2bKIHn0ullC6gio8/pWIu9aNhbkja609KLr2GGw/oJaYTeS01RZAacR30m1fOtsCEUoK9/6V5pRI7H6gOK2Ayk7SDIQrx8ChKiHQ5+OPX5xRp+pUYt9FPGeahXz+qF+TMD8y0VW87OB2nLamLGq3dqW8qMCzvA18/Gxrd1+6xfh/SzRt3qOJQy2W1dd4f2pLEVCX9LQ9UJxhR2W71AIfOR9WigdtxDryLiMLzut5uadsEONk+2eOzf0UEgsGF85SvLeyhNiDJVjO9b/mGGOxJ4VyrF/mKbR7ycnQ0nY2XvpWXLISxGNPU3timMAmeLUjvqOPP2tWQyYel4vc/iIu1RqMaaJ37w==;N45z79OGJfowrddENNypzA=="
 ---

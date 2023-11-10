@@ -139,6 +139,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Best's Review Examines Artificial Intelligence Revolution in Joint Effort With AM Best TV"
+    excerpt: "The November issue of Best's Review includes a special presentation, \"What the AI Revolution Means for Insurers, Insureds and the Insurance Workforce,\" which aired on AM Best TV throughout the year. I"
+    publishedDateTime: 2023-11-10T18:17:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35732519/bests-review-examines-artificial-intelligence-revolution-in-joint-effort-with-am-best-tv"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "kf0/2VsFGk1h79V16DBFJK0g+YtpZqXmYr9hLuq3bVqvWoQ6LGbRMVmJVLqATC4Loxdv3+wrj/wcKUnUEoDhHlgC1XxJiGMCpjuYXD9FPS4L13GBpVaeRiCy4Xjh2fn8BfhfG4lkHggW2B8M6egYFGqpUD24FLrbZAql057dZLxhfyewQrR5FfjL5oP/u4y2LkkdMEhtjg33XSWdcEUE9YxNqCqUAKHcgSn1RJz22urR1jHpne1tGCG52L7GV6ux7GBr1DTPjOEILotrMNwNzLS1XdnYIIr4atqPx+wq2TbQp6Jt2jZfLfmD5I18Eg6sXz3bpMWubswhEMAj3WQu3h2Mb6R1/DZy6CrCt7I9zMg=;wQeD5by7lZE7yRbgGelLEQ=="
 ---

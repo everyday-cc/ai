@@ -7,8 +7,8 @@ originalUrl: "https://www.nasdaq.com/articles/3-reasons-amazon-is-still-a-top-ar
 webUrl: "https://www.nasdaq.com/articles/3-reasons-amazon-is-still-a-top-artificial-intelligence-ai-stock-to-buy-right-now"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "1 Under-the-Radar Artificial Intelligence (AI) Stock to Buy Hand Over Fist"
-    excerpt: "One of the lesser-known enterprise technology companies benefiting from artificial intelligence (AI) is ServiceNow(NYSE: NOW). The company specializes in business process automation across a variety of IT services. Bill McDermott became CEO of ServiceNow ..."
-    publishedDateTime: 2023-11-09T08:54:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NOW/pressreleases/21783086/"
+  - title: "This Incredibly Cheap Artificial Intelligence (AI) Stock Is Soaring Like Nvidia, and It Is a Screaming Buy"
+    excerpt: "Investors looking to buy an AI stock that is in fine form and cheap at the same time may want to nab this company before it soars higher."
+    publishedDateTime: 2023-11-10T22:45:00Z
+    webUrl: "https://www.fool.com/investing/2023/11/10/this-incredibly-cheap-artificial-intelligence-ai-s/"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 50
+      name: The Motley Fool
+      domain: fool.com
+    quality: 64
     images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/b1623100f236eaad83eeefac4cab66da/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252f57972a9748fd11f4ce7ee0f6a1f28ab1.png%26amp%3Bw%3D700"
-        width: 720
-        height: 517
+      - url: "https://g.foolcdn.com/editorial/images/754053/artificial-intelligence-ai-on-circuit-board.jpg"
+        width: 2359
+        height: 1270
         isCached: true
   - title: "3 Reasons Amazon Is Still a Top Artificial Intelligence (AI) Stock to Buy Right Now"
     excerpt: "Amazon is using this strategy to incorporate artificial intelligence into many aspects of its operations. On the retail side, the company is working on an initiative called Project Nile, which will revamp its e-commerce platform with generative AI ..."
@@ -45,6 +45,20 @@ related:
       - url: "https://barchart-news-media-prod.aws.barchart.com/FC/dc6eb6a3a7be805a71a6f981cbeae93b/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f753899%252fgettyimages-1289228163.jpg%26amp%3Bw%3D700"
         width: 2309
         height: 1299
+        isCached: true
+  - title: "NVIDIA shatters records, training AI models in under 4 Minutes"
+    excerpt: "NVIDIA's AI platform has once again demonstrated its capabilities by setting new records in the latest MLPerf industry benchmarks, a well-regarded measure"
+    publishedDateTime: 2023-11-09T10:17:00Z
+    webUrl: "https://www.geeky-gadgets.com/training-ai-models/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/NVIDIA-shatters-records-training-AI-models-in-under-4-Minutes.jpg"
+        width: 1280
+        height: 718
         isCached: true
 
 secured: "frTy+1nZ8VnzXllXICUrZln9uNbMViceXV0kQ0wdiQp5LzDlmAHRsbolpI23gc339HuXF/9DPqWVir0o86pIMVf7OB/heIt0/2aM1CTrLT8nznLwTfQzQfHdSb84rHbZ6QGaysTXed0Hlkz2aacjhnJ+KaEo3tKHGxKTuHwR/EIRWuf39LC68y8BVPPVX1Xj9tQlHkKzmDkZYeF7xxFKDFctg7XdcNRFbXk45vP1msH+eO78qT13vuX9OHoqLh9o/eycuKYwU/dxYl6tGGkKNca0hmq9ntgpLD2TU+5e4QpXl8r3zidrk1G/5blzGUjAHAqji/ZiNNHS+GlQu5W6UchfW/2/eBhIi4JrCt4UcdHR2VHKuPJDIdrBNLkh+bE95vFy2pq5ciXOsbNyL0WmqTTldqRkRoswxgIFT6msU8l8ciWEBHkGCFCKzLPfd8m5c5MtUyWE6Zu+Nyxt79pfdqMSlVSH1cltozNb52c/a2kMjgO3CNWq3HC1deVHz4vz9A3GQhf5t7WaptD8viwo6A==;CoS5cphHxm2GQ+zhKCE6vQ=="

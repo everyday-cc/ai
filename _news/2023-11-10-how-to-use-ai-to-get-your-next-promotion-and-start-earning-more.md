@@ -23,6 +23,17 @@ images:
     height: 675
     isCached: true
 
-secured: "k86ivtKIwAiLI0tZy1kVGcyTwv9AFtGx+xNwDshplXlNr2w4BKQl39qS2ZcOIkIWMwek+ZppwppD/dwLEl7S8dY+02KBrqKfrbCUfMVuokUp9GkP2c5HNTTTv5wgBZ96DWrw6tSFZtwOISzBhrElnKEQuwBU7RSwpSfPzb9vQ17JqCiMl5nUyDlfRyWwkOLaTMlWu5U2W38u/pNen+A5ZFDbMypeYqEELx+hSgnUrzgZ7cbXQdXfOpviumMGoMPWO1rM64caqomt47OOLfhmOfdPDlVOrpK5WOtWOKPBRtWC6ynShXkxu+eXOy2mL4aa3/Mnsae0kEG+Iz+BFsOKzf0xfEPfxKu/UQ6RI1otPjI=;GxhqJh+HMa93SzOtggGfvg=="
+related:
+  - title: "Teaching Students How to Use AI Responsibly"
+    excerpt: "Rather than forbid students to use artificial intelligence, an English teacher shows them how they can use it in ways that support their learning."
+    publishedDateTime: 2023-11-10T18:07:00Z
+    webUrl: "https://www.edutopia.org/article/teaching-students-use-ai-responsibly"
+    type: article
+    provider:
+      name: Edutopia
+      domain: edutopia.org
+    quality: 19
+
+secured: "1TRmaaVm6Yi3cPy42c4b+6PNqVqX1c7EbpiICLVx0M2RLhIPk9s5pSFM0J8e8SXOvDL2elFVWAscDqF71EK/kUWyQgqFTfYCloBY5SdR36apuBJxgspuo9RY4p/z8XClAvUBlQQdj5zaFF5OgecegEycgR21WySBB5LsCxehv6Z8STdCJAH3CoDD4AtfhAP9fVaRMew6VnNxzUd8FicHI7F5toCQ7nG3te7apgF2gclThShSVSjX/WCYGIUyURYf9gdJBpLUsUMmxtazFZUKtZWDFeBxW63g2J3jXMBNPVCLH58HaxpXFBNyxJT5m7W/+4abGN9Ixh99jbei5CojypP6q8oQOoq2rnUq9DicYXd92daO/ksz4LEncuHywCsH2ZNRXZ15OwthOOItEU7QZGhMiqSdqWCWZwEohD4N/xtZxju9O8DGIasAFRYI8WuLTM0UsNyctvq75uZPTowBDwDcm7bk/PPg5Cl5XG5VbG2s5YbBrzuhaUU6+NUJZ3Oymen/BLvFr2k6BBZuZb2lJg==;bKU+gY4G1FERDGTRU6CqDA=="
 ---
 

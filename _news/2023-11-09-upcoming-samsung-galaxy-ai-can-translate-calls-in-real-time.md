@@ -39,22 +39,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Samsung jumps on the generative AI bandwagon with Gauss"
-    excerpt: "Named for a German mathematician, Gauss AI technology — including a large language model (LLM), coding capabilities, and art generation features — could debut on upcoming Samsung devices."
-    publishedDateTime: 2023-11-08T16:14:00Z
-    webUrl: "https://www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.html"
-    ampWebUrl: "https://www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 61
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/04/04/14/enviar_imessage_android-100939355-large.jpg?auto=webp&quality=85,70"
-        width: 1199
-        height: 674
-        isCached: true
   - title: "Samsung AI Forum 2023 starts today"
     excerpt: "Samsung has announced that the new Samsung AI Forum 2023 has started today, the event is taking place at the Suwon Convention Center in Gyeonggi-do, Korea"
     publishedDateTime: 2023-11-07T10:30:00Z

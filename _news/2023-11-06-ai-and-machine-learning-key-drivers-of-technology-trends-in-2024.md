@@ -7,8 +7,8 @@ originalUrl: "https://techbullion.com/ai-and-machine-learning-key-drivers-of-tec
 webUrl: "https://techbullion.com/ai-and-machine-learning-key-drivers-of-technology-trends-in-2024/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Impacts
@@ -26,19 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "How the UK is looking to lead the charge in generative AI for lawtech"
-    excerpt: "In times gone by, lawyers would spend hours poring over documents and huge amounts of time and energy on research. But for many of today’s law firms, those days are coming to an end. The landscape is being revolutionised,"
-    publishedDateTime: 2023-11-06T15:05:00Z
-    webUrl: "https://thenextweb.com/news/uk-leading-generative-ai-lawtech"
+  - title: "Healthcare Technology Trends 2024: Revolutionizing the Medical Field2"
+    excerpt: "In the ever-evolving landscape of healthcare, technology plays a pivotal role in shaping the future. The year 2024 promises to be a transformative one for the medical field, with groundbreaking innovations and emerging trends poised to revolutionize patient care,"
+    publishedDateTime: 2023-11-06T13:54:00Z
+    webUrl: "https://techbullion.com/healthcare-technology-trends-2024-revolutionizing-the-medical-field2/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F11%2Flegalai-e1699280809765.jpeg&signature=15af5099ee7e9fcb4aca0cb9f9e6eaf0"
-        width: 1280
-        height: 640
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Untitled-design-26.png"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "HealthTech Revolution: Impact of 2024 Technology Trends on Healthcare"
+    excerpt: "Introduction The healthcare industry has undergone a remarkable transformation, thanks to the rapid advancements in technology. With each passing day, innovative technologies are revolutionizing the way healthcare services are delivered,"
+    publishedDateTime: 2023-11-06T22:55:00Z
+    webUrl: "https://techbullion.com/healthtech-revolution-impact-of-2024-technology-trends-on-healthcare/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/HealthTech-Revolution-Impact-of-2024-Technology-Trends-on-Healthcare.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "mvTFd0hFrRighpIs8f3+Rj8ccWBuj9ap8rvN4NbUgb1kpa6U9r2AwrFp8HcmJdXFROmkT4klvCu+w84zeGomrfwtofYkNaIGHlIRzXuhcG73dVmnyIUTCuCB29710It9BogwS2lYOA2TdtlVmj68IvXv32dkhdUb1SB/WDeOHuTznX8TBDMRxiLRy6Jocfjb6TzQgswCfLd0XmcKPBN4KnOAtogBnlcl5uCmeK8KNpMnB2LIxH4je4taO0mDGoeyzEx/f1iLy64eHsXXMUrxUJO1HQEG3k4X/7QSIl/1FuwmHC051as2LmRTjewPFC3NwVvclhHJ43/WBm/b1xSYYdlgJ0KWAcchP95UZIXKk86d8v3AN3HS338a8UBulnwDlKcbAHVFGtsOXIXb2xjyWCUfX1c/PwHRe6CY1CVhq8eFbgv72iHou2MhW3RsDlbnYZ4IpQawN2oLdNXKO1HYuPhP9RKZy8Nvk1Iw/d7P2L+grf8dW1RJoHqyiUtkvi4JXi10hBt/m/R47TOiK3fhug==;IHOXn/31Sqg2RwkJKxJ5Dw=="
