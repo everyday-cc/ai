@@ -85,7 +85,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 9
+    quality: 11
   - title: "Embedded Intelligence Market Poised for an Impressive 11.2% CAGR, Envisions Reaching US$ 81,356.7 Million by 2033"
     excerpt: "The global embedded intelligence market is expected to grow significantly, reaching a market value of US$ 861,356.7 million by the year 2033. This substantial increase comes from a base value of US$ 28,"
     publishedDateTime: 2023-11-06T05:15:00Z

@@ -57,6 +57,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Industrial robot crushed worker to death at a vegetable packing plant"
+    excerpt: "The man died of head and chest injuries after he was grabbed and pressed against a conveyor belt by the machine’s robotic arms."
+    publishedDateTime: 2023-11-10T18:11:00Z
+    webUrl: "https://www.live5news.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/"
+    ampWebUrl: "https://www.live5news.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/?outputType=amp"
+    cdnAmpWebUrl: "https://www-live5news-com.cdn.ampproject.org/c/s/www.live5news.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/?outputType=amp"
+    type: article
+    provider:
+      name: Live 5 News
+      domain: live5news.com
+    quality: 59
+    images:
+      - url: "https://gray-wcsc-prod.cdn.arcpublishing.com/resizer/3ME7E9LxAE7AWW_2ZPMDKkD2bAw=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/RHJBI3ABGJCTJI7MNB2LSOC4DA.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Industrial robot crushes worker to death as he checks whether it was working properly"
     excerpt: "Authorities say he was he was grabbed and pressed against a conveyor belt by the machine's robotic arms in a vegetable packing plant."
     publishedDateTime: 2023-11-09T09:28:00Z

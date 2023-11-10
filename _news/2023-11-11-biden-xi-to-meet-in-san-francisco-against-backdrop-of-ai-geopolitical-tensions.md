@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/etf/biden-xi-to-meet-in-s
 webUrl: "https://markets.businessinsider.com/news/etf/biden-xi-to-meet-in-san-francisco-against-backdrop-of-ai-geopolitical-tensions-1032807496"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -28,16 +28,39 @@ images:
     isCached: true
 
 related:
-  - title: "Biden’s Safeguards Against Artificial Intelligence"
-    excerpt: "Joe Biden, this Monday October 30, has signed an executive order to restrict the use of artificial intelligence (AI).  Recently, there has been a rapid development of artificial intell"
-    publishedDateTime: 2023-11-09T08:35:00Z
-    webUrl: "https://www.davisvanguard.org/2023/11/bidens-safeguards-against-artificial-intelligence/"
+  - title: "A hyped AI-based restaurant opened to fanfare last month in San Francisco; now its empty"
+    excerpt: "A bespoke San Francisco nutrition shop promised to blend up AI-inspired smoothies. Two months after opening, the shop's owners shuttered the business."
+    publishedDateTime: 2023-11-10T18:00:00Z
+    webUrl: "https://www.foxnews.com/us/hyped-ai-based-restaurant-opened-fanfare-last-month-san-francisco-now-empty"
+    ampWebUrl: "https://www.foxnews.com/us/hyped-ai-based-restaurant-opened-fanfare-last-month-san-francisco-now-empty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/hyped-ai-based-restaurant-opened-fanfare-last-month-san-francisco-now-empty.amp"
     type: article
     provider:
-      name: Davis Vanguard
-      domain: davisvanguard.org
-    quality: 32
+      name: Fox News
+      domain: foxnews.com
+    quality: 78
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31bebe45-782f-4b1c-a841-736695a22921/0a8e08e5-6077-4c1b-a8f5-2f7645837724/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "GM’s recalls all self-driving Cruise cars after pedestrian was dragged in San Francisco"
+    excerpt: "In documents filed with NHTSA, Cruise said its automated driving system was designed in some cases to pull over and out of traffic to minimize safety risks and disruption after a crash, with the response dependent on the characteristics of the crash."
+    publishedDateTime: 2023-11-08T20:09:00Z
+    webUrl: "https://www.ocregister.com/2023/11/08/general-motors-autonomous-vehicle-unit-recalls-cars-for-software-update-after-dragging-a-pedestrian/"
+    ampWebUrl: "https://www.ocregister.com/2023/11/08/general-motors-autonomous-vehicle-unit-recalls-cars-for-software-update-after-dragging-a-pedestrian/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/11/08/general-motors-autonomous-vehicle-unit-recalls-cars-for-software-update-after-dragging-a-pedestrian/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 36
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2023/11/Cruise_Recall_02791.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
 
-secured: "G0MN9A6gPsQWdSZ7YjINap4x0CtOLjuiU6uEuhjg0XJikzfbyGTgLIqjz2uOL9odxYxbpVChuhkqrQH6vIaPl4TgMn1/4je8TsROOGJjUlBnYLRGHIEoebPuL+eAgNCStJobv8c9W6sfwXRXAUfpZLwmrBwiRXz4gBjtmG49oljRAM+tVmZG3pj5IKqa6VieR+eTLoO9k358gShcJD+F2wP60Ov+HswpmVOjuRtwAX+ncLht5VGFbbSK71ybP50y3sJDpL8TO58r7tOJcH1HGo7VYNn3MrcE6A5IkEurpc8CCK6h74P3TSEMWF2fL5h/nKbFz1N6U1miekPHWBVryKF3rUcIlPLuOPmxKcN6kv8=;KDFhfXTF+xnXoQ0V5bk/lQ=="
+secured: "CpbELo9oORRL4c4+FyzZdgKOqo6w/paWcaQ5mZuK4GeoCMw501lRnd/LSGxd613zG0N6BbheR6XGvOaMZOdgk/EtXThf9WB1Esla9FZX+Imbl3KaHXMHBDL4FTJ1LCWPIaZr3kS6brrjc/3tfW3VvdK4BtF40eYAB54+XRkE3TzyGAOOVYF3iie/sZmUD11W316oD6ACF9nbdOaMxGECroO5q/0bXT1UAzUSM9ZMqdNYYkGZCtNOQBmjVNb3nA1HFjdaMdDqCERhdhOYwDlcCKF9yHD5LoExy6h8DI1Lbu/CgFoMmBT5V9E/1EUW4XE1J27LK/xkwx91NGwXANXHWlUUsRA1yGNv+GDFcBca2LU/ylOPNdSE5MDKuJbYn0Anoffypb9OPZNWyY3ymfaXqROTfsd+snsevjhu7RhxoRoQSflP5ZuHC9L+i+xkNwgPKgEP5+iixtSh86vsbYFP+mQmzdhB0ZUtw7NMPJtOmsFbHzvpAZE8N0fK6vIiPDhF9Rg0JYZSkOYCVcBv83dxiA==;eL8M96F2th4mrEGLhZ0dbQ=="
 ---
 

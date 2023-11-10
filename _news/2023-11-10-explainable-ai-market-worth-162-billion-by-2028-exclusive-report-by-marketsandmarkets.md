@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-10T15:20:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2023/11/10/9915967.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/11/10/9915967.htm"
 type: article
-quality: 9
+quality: 11
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Microsoft AI
 
 related:
   - title: "Milking Robots Market Poised for Remarkable Growth, Anticipated to Reach USD 4.2 Billion by 2027, at a CAGR of 11.7%"

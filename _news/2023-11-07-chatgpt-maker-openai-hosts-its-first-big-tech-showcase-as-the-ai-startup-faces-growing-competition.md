@@ -281,15 +281,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Elon Musk releases ‘spicy’ AI chatbot that loves sarcasm"
-    excerpt: "The billionaire has unveiled his generative AI model with more personality than its rivals, in a challenge to Microsoft-backed OpenAI and Google."
-    publishedDateTime: 2023-11-06T02:17:00Z
-    webUrl: "https://www.afr.com/technology/elon-musk-releases-spicy-ai-chatbot-that-loves-sarcasm-20231106-p5ehwr"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 19
   - title: "Apex Launches Internal AI Powered Chatbot"
     excerpt: "Apex Fintech Solutions, the fintech for fintechs powering innovation and the future of digital wealth management, today announced AskApex - a new internal AI powered chatbot. Integrated with Slack, AskApex enables Apex employees to find answers to questions related to internal resources, policies, documents, and more."
     publishedDateTime: 2023-11-07T14:26:00Z

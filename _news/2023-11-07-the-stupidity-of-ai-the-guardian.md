@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The strike is over, but AI remains a concern"
+    excerpt: "While AI can generate impressive works that resemble the artistic styles of renowned creators, it challenges the traditional notion of authorship and the role of the artist as a unique source of creative inspiration in a particular human context."
+    publishedDateTime: 2023-11-10T18:20:00Z
+    webUrl: "https://www.deccanherald.com/entertainment/the-strike-is-over-but-ai-remains-a-concern-2766516"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 39
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2023-11%2Faf4440a7-9e25-47ce-89fe-78448e49f7d3%2Ffile7srnp00fa03uuxy25f4.jpeg?rect=0%2C50%2C1687%2C886&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "e138eRZQdmohd9K/XhdsypukwspvSXn4d1RcyNmFkj7cvQ7J1PMeAcWDaATIRjNOTarqACWEgrWGDI7aoSKJRKEzcm5rKR67HRjhFwjfjKntV0eEq6ZG7NUmBsFtS85fOk0lqNmH+5BZabgEM23xNPf53eYsrbZZ4/XpXW548W8XATgxDn3pXm7ati1b5hs/rDVaAaYAnxLEMDcYgm1rQhl1VBK+26hV8/H6RPTfrGkdT8u65Ia4lUTVpvFrJKYRsKUVcHnFNJp1rPSUJJSv/lvYB1wOsWbg4bzp3+PPObYHHZwUAzEokLcpUCZeaSuoRu4Gi7VyiB+wM3iUzplWkLUZDfZ9IsoqvoY/rRWsFtw=;DOkT8wpKsYK59ri9DMtRDQ=="
 ---

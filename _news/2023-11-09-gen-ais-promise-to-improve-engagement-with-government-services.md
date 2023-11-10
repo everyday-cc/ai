@@ -90,15 +90,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ant Group Wins Approval to Release AI Products to Chinese Public"
-    excerpt: "SHANGHAI (Reuters) - Ant Group has received Chinese government approval to release products powered by its \"Bailing\" artificial intelligence (AI) large language model to the public, a spokesperson for the Chinese firm said on Monday."
-    publishedDateTime: 2023-11-06T02:38:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-11-05/ant-group-wins-approval-to-release-ai-products-to-chinese-public"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
 
 secured: "ezbiijeEf1zHiguyrN0NbVsFw/N/Pk9jNLMe1G/uBZXsctpgirUqnjDD1gkzob3zRKXEbiPDB3KgUthODs2xN8ch9MyMY52pn75bd1jTSQvf9NEJbvpBHRPB8iG2qaDVhae9h0+PQXjkIITk88JHH0mdRe3yiRxowBSveAbT6Y0QiRMIudXrJ/+1k9K2CM4VDM+TL2IKQj4JBTE4CrvFWNKpThqMxyJHEoahFM6Sy4pEg0gtH7czGZZgmA8ju/B7kZKkxGWPTRXlic3Uew3wVRTP4pebw9ki5XJgNBn1Mnvvs0z0FiApsuQ96bB+ufXwpAlBc5g/q4ZVD5SrL30eVWWWYCX9KvrkNjIDwc84gLpzBqEy48DNXVEjXjUzAumARPut51cDnVVWvfgBktKwyyF4hx9spI+ObrGGQfA6tlTCROrp4WuvTHl94ppJ7LHtpiIVi9O072ywvRX8DdcpI13NclAdNSy+2K/Yra3VzEbv9HJA7sJNFUrbOxWcYKgzVbSE2FdBhXCU/g24p96mNQ==;xq+aD0daNhAmNwAGTqLgjg=="
 ---

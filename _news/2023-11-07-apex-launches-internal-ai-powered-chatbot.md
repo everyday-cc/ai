@@ -290,15 +290,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Elon Musk releases ‘spicy’ AI chatbot that loves sarcasm"
-    excerpt: "The billionaire has unveiled his generative AI model with more personality than its rivals, in a challenge to Microsoft-backed OpenAI and Google."
-    publishedDateTime: 2023-11-06T02:17:00Z
-    webUrl: "https://www.afr.com/technology/elon-musk-releases-spicy-ai-chatbot-that-loves-sarcasm-20231106-p5ehwr"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 19
   - title: "Forget ChatGPT — Extractive AI Is the Real Game-Changer for Teachers, Students"
     excerpt: "Dougal: Artificial intelligence is here to stay. Schools can embrace it and seize the opportunities it offers or try to resist and become obsolete."
     publishedDateTime: 2023-11-08T14:34:00Z

@@ -24,20 +24,24 @@ images:
     isCached: true
 
 related:
-  - title: "‘Mecca’ of A.I.?: UNCW professor talks through Biden’s executive order on artificial intelligence"
-    excerpt: "Sweeping guidance and goals for America’s approach to artificial intelligence deployment was released last week and UNCW and its surrounding community is in a good position to benefit."
-    publishedDateTime: 2023-11-07T21:30:00Z
-    webUrl: "https://portcitydaily.com/latest-news/2023/11/07/mecca-of-a-i-uncw-professor-talks-through-bidens-executive-order-on-artificial-intelligence/"
+  - title: "Biden’s Safeguards Against Artificial Intelligence"
+    excerpt: "Joe Biden, this Monday October 30, has signed an executive order to restrict the use of artificial intelligence (AI).  Recently, there has been a rapid development of artificial intell"
+    publishedDateTime: 2023-11-09T08:35:00Z
+    webUrl: "https://www.davisvanguard.org/2023/11/bidens-safeguards-against-artificial-intelligence/"
     type: article
     provider:
-      name: Port City Daily
-      domain: portcitydaily.com
-    quality: 26
-    images:
-      - url: "https://images.portcitydaily.com/wp-content/uploads/2021/11/uncw00-4.jpg"
-        width: 1100
-        height: 733
-        isCached: true
+      name: Davis Vanguard
+      domain: davisvanguard.org
+    quality: 32
+  - title: "Dueling interests ask if Biden goes too far on AI or falls short"
+    excerpt: "President Joe Biden’s executive order on artificial intelligence could empower agencies to overstep their bounds or lack the teeth to be effective."
+    publishedDateTime: 2023-11-07T12:00:00Z
+    webUrl: "https://rollcall.com/2023/11/07/dueling-interests-ask-if-biden-goes-too-far-on-ai-or-falls-short/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 19
   - title: "Biden executive order forces AI companies to share safety test results with government"
     excerpt: "WASHINGTON - President Joe Biden signed a sweeping new executive order Monday targeting artificial intelligence in his administration's most aggressive move to date to confront growing concerns ..."
     publishedDateTime: 2023-11-07T10:04:00Z

@@ -51,22 +51,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "GM’s recalls all self-driving Cruise cars after pedestrian was dragged in San Francisco"
-    excerpt: "In documents filed with NHTSA, Cruise said its automated driving system was designed in some cases to pull over and out of traffic to minimize safety risks and disruption after a crash, with the response dependent on the characteristics of the crash."
-    publishedDateTime: 2023-11-08T20:09:00Z
-    webUrl: "https://www.ocregister.com/2023/11/08/general-motors-autonomous-vehicle-unit-recalls-cars-for-software-update-after-dragging-a-pedestrian/"
-    ampWebUrl: "https://www.ocregister.com/2023/11/08/general-motors-autonomous-vehicle-unit-recalls-cars-for-software-update-after-dragging-a-pedestrian/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/11/08/general-motors-autonomous-vehicle-unit-recalls-cars-for-software-update-after-dragging-a-pedestrian/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 36
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2023/11/Cruise_Recall_02791.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Cruise recalls 950 self-driving vehicles over software glitch"
     excerpt: "Less than two weeks after suspending self-driving car operations in Austin and across the country, General Motors-owned Cruise LLC is recalling 950 vehicles because of a software problem."
     publishedDateTime: 2023-11-08T20:31:00Z

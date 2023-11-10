@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
     quality: 39
     images:
       - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-4316.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The strike is over, but AI remains a concern"
+    excerpt: "While AI can generate impressive works that resemble the artistic styles of renowned creators, it challenges the traditional notion of authorship and the role of the artist as a unique source of creative inspiration in a particular human context."
+    publishedDateTime: 2023-11-10T18:20:00Z
+    webUrl: "https://www.deccanherald.com/entertainment/the-strike-is-over-but-ai-remains-a-concern-2766516"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 39
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2023-11%2Faf4440a7-9e25-47ce-89fe-78448e49f7d3%2Ffile7srnp00fa03uuxy25f4.jpeg?rect=0%2C50%2C1687%2C886&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
         width: 1200
         height: 630
         isCached: true

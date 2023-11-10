@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/plaintext-fei-fei-li-ai-revolution-see
 webUrl: "https://www.wired.com/story/plaintext-fei-fei-li-ai-revolution-seeing-imagenet-algorithm/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Wired
@@ -28,17 +28,6 @@ images:
     height: 670
     isCached: true
 
-related:
-  - title: "AI pioneer Fei-Fei Li: ‘I’m more concerned about the risks that are here and now’"
-    excerpt: "It was a huge dataset to train and test the efficacy of AI object-recognition algorithms: more than 14m images, scraped from the web, and manually labelled into more than 20,000 noun categories thanks to crowd workers. Where did the idea come from and why ..."
-    publishedDateTime: 2023-11-06T01:43:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/nov/05/ai-pioneer-fei-fei-li-im-more-concerned-about-the-risks-that-are-here-and-now?ref=creativerly.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 14
-
-secured: "IlPaalCmDMf+xurYRiS9Q2VavJNwDgrwewsbp1ngZ5uWXw7q3enRguDVcpKenFc5taUAX5B6UbBaQhz71+UG9+IFMsAS7oI4dgab3yuQL5WafiCW7RN+SqEvVopGpVhZJ/YmnQNB9rCOesq2f67eSoUuvmBlUWUlkXCmJ6fHiHRYRRftbi8U6rzcBIRfyIcO3pdatIn6vWdm/HwxkxuLzBq3dvICJk9GBf1AGbuzryWjgZkG7qbjuMI+h7ikfZEqecccMuKslQPariiwM/TbLlZE120ekApX5cvd4MhtyI7nsVQMFv5hKxZq8NsTDpFkx6PRyz95w9Y0GmbXCq2/3XgFSMgT/p2/ZctnCrCabnA=;NqzWHfNEObzx9aF6Jx3YkQ=="
+secured: "puylK+JcmID8YnMQIGpwsTpEQcVrpJR1YTM9Fcrx5lbyGOxZP5UER2xvNJdGV2kQWmOAtBHB/YYfozoTAgren0BuMtgLSDHputE/TpsTfgqr5KQs5VbgHa8apONHf/4pl8ia4AgmQy4z4mzDpTWpsLWZRntFC7LFiN/lhtFeWoOKkXTHeBnIYRrENgvlwn6oBinf2+NWUYKbZ1nq517odIJtH9DQMd/4KrHthsbd3tY//KAKn+9T904ZV2SRtUwvXaNBitMl0glgEO053BcoJstzV1Ryn1MdemkpDLzb2K1IpRVh7kbZ0LHVv1GngyP3WtPEziOKfaxh3zH/SYt+56HFXc9rKbbdT0klRyzXvsoaybTGk/gDGKx9Pk/KZC3WT29DQsqlmV/VvXOvAjsVtrskyVIGNszGPZoNZVSVMmJKyHddw7WVB3l59vUIdVhw12X0CsXNrRWhal8BDHlclp4FZ8HumcCyjJ7xfWP4UM1F5/jbqXy2sohQufzoSzMdaMd5zF6yfuQ5L0GgDDQZPQ==;12uLbHqHk83wD85WjZl9Jw=="
 ---
 

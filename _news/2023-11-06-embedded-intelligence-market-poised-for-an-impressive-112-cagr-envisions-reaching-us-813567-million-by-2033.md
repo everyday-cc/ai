@@ -83,19 +83,19 @@ related:
         width: 1110
         height: 550
         isCached: true
-  - title: "Global Service Robotics Market Expected to Reach $187.33 Billion by 2030, Driven by Increasing Adoption Across Industries"
-    excerpt: "The global service robotics market is set for substantial growth, with an anticipated value of US$ 187.33 billion by 2030, according to this report."
-    publishedDateTime: 2023-11-06T11:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/06/9911561.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
   - title: "Explainable AI Market worth $16.2 billion by 2028 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The global Explainable AI Market size is to grow from USD 6.2 billion in 2023 to USD 16.2 billion by 2028, at a Compound Annual Growth Rate (CAGR) of 20.9% during the forecast period, according to MarketsandMarkets."
     publishedDateTime: 2023-11-10T15:20:00Z
     webUrl: "https://www.tmcnet.com/usubmit/2023/11/10/9915967.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
+  - title: "Global Service Robotics Market Expected to Reach $187.33 Billion by 2030, Driven by Increasing Adoption Across Industries"
+    excerpt: "The global service robotics market is set for substantial growth, with an anticipated value of US$ 187.33 billion by 2030, according to this report."
+    publishedDateTime: 2023-11-06T11:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/06/9911561.htm"
     type: article
     provider:
       name: TMCnet

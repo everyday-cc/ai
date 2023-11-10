@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-giv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/amp/"
 type: article
 quality: 121
-heat: 321
+heat: 331
 published: true
 
 provider:
@@ -137,6 +137,20 @@ related:
       - url: "https://www.bleepstatic.com/content/hl-images/2023/10/19/Microsoft.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Microsoft To Provide Startups With Free Access To Develop AI Models"
+    excerpt: "Microsoft announced that it will provide distinguished startups Microsoft for Startups Founders Hub with free access to super"
+    publishedDateTime: 2023-11-10T18:50:00Z
+    webUrl: "https://menafn.com/1107407996/Microsoft-To-Provide-Startups-With-Free-Access-To-Develop-AI-Models"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 56
+    images:
+      - url: "https://menafn.com/updates/pr/2023-11/10/TP_7c2afimage_story.jpg"
+        width: 1000
+        height: 658
         isCached: true
   - title: "How Microsoft, Rockwell Deploy AI for Faster, Cleaner Design"
     excerpt: "Microsoft spent the past year testing how generative AI can boost productivity, accelerate learning curves and drive collaboration for itself, its partners and its"

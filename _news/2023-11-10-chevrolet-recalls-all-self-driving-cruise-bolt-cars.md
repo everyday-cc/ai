@@ -57,22 +57,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "GM’s recalls all self-driving Cruise cars after pedestrian was dragged in San Francisco"
-    excerpt: "In documents filed with NHTSA, Cruise said its automated driving system was designed in some cases to pull over and out of traffic to minimize safety risks and disruption after a crash, with the response dependent on the characteristics of the crash."
-    publishedDateTime: 2023-11-08T20:09:00Z
-    webUrl: "https://www.ocregister.com/2023/11/08/general-motors-autonomous-vehicle-unit-recalls-cars-for-software-update-after-dragging-a-pedestrian/"
-    ampWebUrl: "https://www.ocregister.com/2023/11/08/general-motors-autonomous-vehicle-unit-recalls-cars-for-software-update-after-dragging-a-pedestrian/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/11/08/general-motors-autonomous-vehicle-unit-recalls-cars-for-software-update-after-dragging-a-pedestrian/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 36
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2023/11/Cruise_Recall_02791.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Cruise recalls 950 self-driving vehicles over software glitch"
     excerpt: "Less than two weeks after suspending self-driving car operations in Austin and across the country, General Motors-owned Cruise LLC is recalling 950 vehicles because of a software problem."
     publishedDateTime: 2023-11-08T20:31:00Z
@@ -125,6 +109,6 @@ related:
       domain: roadandtrack.com
     quality: 4
 
-secured: "EpywhEbyaoS2CP+/kO7j3XLYZSlhbLKD2KSS/JzifuNliqc+IbQ2OYmYgI0NnTxQuzRbPXz1MAZPC5sF+/1fsL/RJ2B0wdxcLvPNK3+tL7VX6GrSIbIvOPlw7TmLXmc3HLW21v4D9+pM9T/w89adeFTM5GdNiSosmmodsVIH4ndr3l44EjkPFhOzaxBlGMf5R11IuVpvZmmi/QIODPDYAQNJgaloKLi6NIgraLTYhFvw96c6HU7feYN9eIzwR6lXbph6x6RNlIoxRr78OdCGKEd+GXYZuKCM+3g/eakaU3mVGz4K5pWeK9XHATK5rcdKNXa/ML9WZUcMmqgCbru8RXWbnK55RUu7jp7UpHOUJCA=;Ziu0JfhqozhXIqFiD+kC2g=="
+secured: "uQ5mZsFZkvr91oabG7ILCh8JuB1+H7rwfIv4hAxg/lvJ6y/MZ6IR0ZZK/4shGWI7elLaw/qcwwggrd5gKKfWs6ycATdwy8wQa0qOw+OZ55ws9KbB/FI0Zyo2AW8HtVZE1gamC0VeHIUIEiLE3lYcdVLS8J8Gqbufe3Uizzy5Vxx9dQPoFJWDOhtiLMKB+01sW8bTyEn7ZXrl2Wpnlyhh7TzavFJszhT9aTFzgYrAXHuYXr9jMvaE54H+JZvJTXR7lcjS2SOTrYTGG4yWRnSfepK3h/gwVhGZVEcscRCSDFzqBvi288j+jPEANdrE3F2s/u+O/pI2WbCkO7624DYJDMWiWzKauYZqXBm5t7/BA9gLR+3kIJjOT3qLqwVL74kqdVsvn81q1pc6eNcUAgb9hGbD4c9fGkNRf2rheJB8AxKaL6g93guK0OfypoiMctrXYBEe6wp8egCfoO2j9KgLAZhHHgIt+IHBoBaaD0XGN2/QTfHXVk+9C6jKI4AmB+oDmABhcL7vBdibH9Fxuzb5Hw==;W8TSeAqzrKSTPzagTHinJQ=="
 ---
 

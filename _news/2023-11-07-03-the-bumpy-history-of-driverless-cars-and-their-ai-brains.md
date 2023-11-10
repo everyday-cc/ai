@@ -35,22 +35,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Tech bosses hope driverless car laws will clear the road for UK software industry"
-    excerpt: "Among a slate of about 25 bills, the king could announce the government’s intention to legislate in a clutch of areas that are important for businesses, including housing, energy infrastructure, pensions reform, driverless cars and media regulation."
-    publishedDateTime: 2023-11-06T01:34:00Z
-    webUrl: "https://www.theguardian.com/business/2023/nov/05/tech-bosses-hope-driverless-car-laws-will-clear-the-road-for-uk-software-industry"
-    ampWebUrl: "https://amp.theguardian.com/business/2023/nov/05/tech-bosses-hope-driverless-car-laws-will-clear-the-road-for-uk-software-industry"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/nov/05/tech-bosses-hope-driverless-car-laws-will-clear-the-road-for-uk-software-industry"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 54
-    images:
-      - url: "https://i.guim.co.uk/img/media/13c70f28b843f1950fce14c5355d6cbc9497c466/0_217_6434_3861/master/6434.jpg?width=620&quality=85&auto=format&fit=max&s=71afc12fe8dc02daa55878c585c3f1e3"
-        width: 620
-        height: 372
-        isCached: true
   - title: "One and Half Remote Cruise Employees Were Supporting Each Driverless Car"
     excerpt: "Tesla FSD Can Go Next Level Without Going Driverless Robotaxi Tesla’s FSD (fullself ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology."
     publishedDateTime: 2023-11-09T21:48:00Z

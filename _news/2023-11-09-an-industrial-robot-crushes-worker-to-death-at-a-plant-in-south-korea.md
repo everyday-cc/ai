@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/industrial-robot-cru
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/industrial-robot-crushed-worker-death-vegetable-packing-plant-104749839"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
     quality: 59
     images:
       - url: "https://gray-kmvt-prod.cdn.arcpublishing.com/resizer/jTvY4PAZyHQYGjpXYVgBKrPlwUk=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/KD5MOBALNJDPJPQB5K4JYVFTBU.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Industrial robot crushed worker to death at a vegetable packing plant"
+    excerpt: "The man died of head and chest injuries after he was grabbed and pressed against a conveyor belt by the machine’s robotic arms."
+    publishedDateTime: 2023-11-10T18:11:00Z
+    webUrl: "https://www.live5news.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/"
+    ampWebUrl: "https://www.live5news.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/?outputType=amp"
+    cdnAmpWebUrl: "https://www-live5news-com.cdn.ampproject.org/c/s/www.live5news.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/?outputType=amp"
+    type: article
+    provider:
+      name: Live 5 News
+      domain: live5news.com
+    quality: 59
+    images:
+      - url: "https://gray-wcsc-prod.cdn.arcpublishing.com/resizer/3ME7E9LxAE7AWW_2ZPMDKkD2bAw=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/RHJBI3ABGJCTJI7MNB2LSOC4DA.png"
         width: 800
         height: 450
         isCached: true

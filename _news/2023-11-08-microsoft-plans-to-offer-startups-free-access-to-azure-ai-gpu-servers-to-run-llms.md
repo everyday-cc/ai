@@ -137,6 +137,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Microsoft To Provide Startups With Free Access To Develop AI Models"
+    excerpt: "Microsoft announced that it will provide distinguished startups Microsoft for Startups Founders Hub with free access to super"
+    publishedDateTime: 2023-11-10T18:50:00Z
+    webUrl: "https://menafn.com/1107407996/Microsoft-To-Provide-Startups-With-Free-Access-To-Develop-AI-Models"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 56
+    images:
+      - url: "https://menafn.com/updates/pr/2023-11/10/TP_7c2afimage_story.jpg"
+        width: 1000
+        height: 658
+        isCached: true
   - title: "How Microsoft, Rockwell Deploy AI for Faster, Cleaner Design"
     excerpt: "Microsoft spent the past year testing how generative AI can boost productivity, accelerate learning curves and drive collaboration for itself, its partners and its"
     publishedDateTime: 2023-11-08T23:32:00Z

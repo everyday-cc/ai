@@ -80,15 +80,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ant Group Wins Approval to Release AI Products to Chinese Public"
-    excerpt: "SHANGHAI (Reuters) - Ant Group has received Chinese government approval to release products powered by its \"Bailing\" artificial intelligence (AI) large language model to the public, a spokesperson for the Chinese firm said on Monday."
-    publishedDateTime: 2023-11-06T02:38:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-11-05/ant-group-wins-approval-to-release-ai-products-to-chinese-public"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Gen AI’s promise to improve engagement with government services"
     excerpt: "The ability to provide a conversational approach to search and virtual agents, whether in English or other languages ... The generative AI tool would facilitate direct translation in each instance. “Looking at it from the perspective of the citizen ..."
     publishedDateTime: 2023-11-08T20:30:00Z

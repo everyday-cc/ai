@@ -43,6 +43,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "How AI Can Transform Women’s Healthcare: Insights from Tech Expert and Advocate Shailaja Salagrama"
+    excerpt: "The U.S. Centers for Disease Control & Prevention (CDC) identifies five broad and interconnected categories that impact overall health: genetics, behavior, environmental and physical influences, actual medical care,"
+    publishedDateTime: 2023-11-10T17:48:00Z
+    webUrl: "https://techbullion.com/how-ai-can-transform-womens-healthcare-insights-from-tech-expert-and-advocate-shailaja-salagrama/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 40
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/How-AI-Can-Transform-Womens-Healthcare-Shailaja-Salagrama-.png"
+        width: 985
+        height: 454
+        isCached: true
 
 secured: "NPAbiYtduuV7YzZd5jkD5S5eLR3lg6cXTZGVgKBT7PLVhHTE0tO/EoqB4KybFftK7i22iUjn9zkBZP5T846f7nYsemzXXokEqENoiE3Cf1QdxZZxbSdOwM1UUB/15Y6w81dl53fiA+s/CC3M2Wvozeix0Qxy3nwdjyiJQYnIkGp6YNacFrHMe9pcirKChYjDyRqIf4Y2garyOIiwflWx/EgJsM0oUbViLTo10RI/7XL1F2InOOoVMiKj3Qskca4DZNJ0XKM2ALENYFs4TJt9hUZ32HL2imW7vSW5OSDFLjX8YVusFP2bjAI7aWa2Il1bSF1XR9uYFTZGhWVsd3rWxPO3U3fTZAGqXEXcw7idFLE=;iam7XyXkkKwOKK7jEIGUSg=="
 ---

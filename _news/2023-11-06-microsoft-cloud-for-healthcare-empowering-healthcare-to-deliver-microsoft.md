@@ -7,8 +7,8 @@ originalUrl: "https://www.inferse.com/785317/microsoft-cloud-for-healthcare-empo
 webUrl: "https://www.inferse.com/785317/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-microsoft/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Inferse
@@ -39,6 +39,20 @@ related:
       - url: "https://lh7-us.googleusercontent.com/_LmxTYG5r_0jlN5miO4rA8fwozhJj3p5qRCmdVCS9hFuA0CXhOYhq0MxKqYcUASQt2juaUyCe5iDLY78ZpLnh1E9S8NMbdBkrWjDWam00WSA5bjRJY4KZfYyk9h9oyXAT2F2YeZrAis0TYCBPnNouio"
         width: 1600
         height: 1066
+        isCached: true
+  - title: "How AI Can Transform Women’s Healthcare: Insights from Tech Expert and Advocate Shailaja Salagrama"
+    excerpt: "The U.S. Centers for Disease Control & Prevention (CDC) identifies five broad and interconnected categories that impact overall health: genetics, behavior, environmental and physical influences, actual medical care,"
+    publishedDateTime: 2023-11-10T17:48:00Z
+    webUrl: "https://techbullion.com/how-ai-can-transform-womens-healthcare-insights-from-tech-expert-and-advocate-shailaja-salagrama/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 40
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/How-AI-Can-Transform-Womens-Healthcare-Shailaja-Salagrama-.png"
+        width: 985
+        height: 454
         isCached: true
 
 secured: "0extHuCPPkKZRu0KgtShL+OVGNvnP4vwS/qaSxJJjpldq+ZVEMW8+6/wphmduvQtDDumMdW36Mb1p0n+x9cwP3ubRTo4aqFyOQRTfA2xSN31IjuvUCV2paK0gYhdj5pTSX7HL5cm68uoHDhV+I92CDVGN0HhQ8u9OWMZaUKc9SibiDNn7zVdbxHTC3Z+uYUklkxokTehkxHY9rtDK9CDPeBuqKR0c/XFYuOnn0L0nqPbKRZrtvkJWVBWKdVHdyOBEmzUrI21w20r73isy30uXxTk5KUPRe2y9cWOG96du11sn26C1+hNvG+n/JNGvwTGWf3yquqL4JlLFTdScCEbJIzAPrLeOjapv5fK/k4FCro=;czIc83rDXbECyKCrY6f2cQ=="

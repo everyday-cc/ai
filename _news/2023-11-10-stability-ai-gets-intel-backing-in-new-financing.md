@@ -89,6 +89,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Unlocking the Potential of AI and ML in Healthcare Today"
+    excerpt: "The integration of artificial intelligence (AI) and machine learning (ML) in healthcare has brought about remarkable advancements in patient care,"
+    publishedDateTime: 2023-11-10T18:40:00Z
+    webUrl: "https://www.datanami.com/2023/11/10/unlocking-the-potential-of-ai-and-ml-in-healthcare-today/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 71
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/11/healthcare_shutterstock_isak55.jpg"
+        width: 1000
+        height: 688
+        isCached: true
   - title: "Intel invests in generative AI startup Stability AI"
     excerpt: "Generative AI startup Stability AI has received funding from Intel Corp after struggling for the past few months. The startup became a unicorn last year."
     publishedDateTime: 2023-11-10T11:36:00Z
@@ -160,6 +174,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/11/Internet-of-things.jpg"
         width: 466
         height: 311
+        isCached: true
+  - title: "The AI Executive Order and the Healthcare Industry"
+    excerpt: "On October 30, 2023, President Biden issued the “Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence” (AI EO), which has specific impacts on the healthcare industry. We detailed general aspects of the AI ..."
+    publishedDateTime: 2023-11-10T17:10:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-ai-executive-order-and-the-9493500/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 54
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15533_134.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Policymakers Must Balance Innovation With Patient Safety for AI in Healthcare"
     excerpt: "When it comes to artificial intelligence (AI) in healthcare, policymakers must balance innovation with potential harms to patients and healthcare workers, lawmakers and witnesses said during a Senate hearing Wednesday."

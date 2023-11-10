@@ -56,16 +56,16 @@ related:
         height: 691
         isCached: true
   - title: "Humanoid robots are here, but they’re a little awkward. Do we really need them?"
-    excerpt: "Building a robot that’s both humanlike and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze has sparked another wave of investments in the quest to build a humanoid, most of the ..."
-    publishedDateTime: 2023-11-06T20:31:00Z
-    webUrl: "https://dailyprogress.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_15df894d-4027-5de1-97d0-89545156cce6.html"
+    excerpt: "Forget affable-appearing Rosey and Robby of sci-fi yesteryear; today’s humanoid robots are a bit more Terminator-esque. Do we even need them? Artificial intelligence pioneers weigh in."
+    publishedDateTime: 2023-11-06T18:30:00Z
+    webUrl: "https://www.stltoday.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_9d8f93c0-9c17-5140-a004-70ed7282930b.html"
     type: article
     provider:
-      name: The Daily Progress
-      domain: dailyprogress.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 35
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/1/5d/15df894d-4027-5de1-97d0-89545156cce6/6548f44c5b258.preview.jpg?crop=670%2C352%2C0%2C29&resize=670%2C352&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/d8/9d8f93c0-9c17-5140-a004-70ed7282930b/6548f44d40334.preview.jpg?crop=670%2C352%2C0%2C29&resize=670%2C352&order=crop%2Cresize"
         width: 670
         height: 352
         isCached: true
