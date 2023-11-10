@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-30-2-israeli-robotics-startup-on-the-impact-of-war.md",
+      "title": "2 Israeli robotics startup on the impact of war",
+      "excerpt": "One could hear in the hallways of RoboBusiness murmurings of shock and disgust with the Hamas terrorist attacks still smoldering. Just eleven days prior,",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/2-israeli-robotics-startup-on-the-impact-of-war/",
+      "originalUrl": "https://www.therobotreport.com/2-israeli-robotics-startup-on-the-impact-of-war/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/10/indoor-robotics-office.jpg",
+          "width": 850,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-30-robotic-assisted-surgery-at-kettering-health-hamilton-becomes-more-common.md",
       "title": "Robotic-assisted surgery at Kettering Health Hamilton becomes more common",
       "excerpt": "Robotic-assisted surgery has been becoming more commonplace in surgical rooms across the United States, and Kettering Health Hamilton has embraced the advanced tool.",
@@ -1251,49 +1294,6 @@
         "name": "TheStreet.com",
         "domain": "thestreet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-rice-robotics-is-shattering-ai-stereotypes-one-friendly-robot-at-a-time.md",
-      "title": "Rice Robotics is Shattering AI Stereotypes, One Friendly Robot at a Time",
-      "excerpt": "While many still look at artificial intelligence (AI) with skepticism, fearing job loss or dystopian nightmares, Rice Robotics is flipping the script. Founded in Hong Kong and deeply rooted in the Japanese market, the start-up aims to redefine how we ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/10/24/rice-robotics-ai-stereotypes-friendly-robots/",
-      "originalUrl": "https://www.gizmochina.com/2023/10/24/rice-robotics-ai-stereotypes-friendly-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

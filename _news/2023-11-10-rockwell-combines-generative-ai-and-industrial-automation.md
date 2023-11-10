@@ -2,17 +2,17 @@
 category: news
 title: "Rockwell Combines Generative AI and Industrial Automation"
 excerpt: "The reliance on text bases in modern software development means Rockwell Automation can capitalize on generative AI's ability to read, produce and generate text."
-publishedDateTime: 2023-11-09T20:25:00Z
-originalUrl: "https://www.healthcareinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
-webUrl: "https://www.healthcareinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
+publishedDateTime: 2023-11-09T20:37:00Z
+originalUrl: "https://www.govinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
+webUrl: "https://www.govinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: healthcareinfosecurity.com
-  domain: healthcareinfosecurity.com
+  name: HHS
+  domain: govinfosecurity.com
 
 topics:
   - Microsoft AI
@@ -181,6 +181,20 @@ related:
         width: 1023
         height: 823
         isCached: true
+  - title: "FactoryTalk Design Studio accelerates with generative AI"
+    excerpt: "Rockwell Automation’s Adam Gregory discussed early successes in developing an AI copilot for FactoryTalk Design Studio"
+    publishedDateTime: 2023-11-10T01:35:00Z
+    webUrl: "https://www.controlglobal.com/sponsored-content/article/33014746/factorytalk-design-studio-accelerates-with-generative-ai"
+    type: article
+    provider:
+      name: Control Global
+      domain: controlglobal.com
+    quality: 39
+    images:
+      - url: "https://img.controlglobal.com/files/base/ebm/controlglobal/image/2023/11/adam_gregory_____rockwell.654d873fe9354.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Generative AI Will Transform Knowledge Work"
     excerpt: "Generative AI can be a boon for knowledge work, but only if you use it in the right way. New generative AI-enabled tools are rapidly emerging to assist and transform knowledge work in industries ranging from education and finance to law and medicine."
     publishedDateTime: 2023-11-07T13:05:00Z
@@ -205,6 +219,6 @@ related:
       domain: businesswire.com
     quality: 9
 
-secured: "cRelC4csUlkaNudQcDk0xxprJtoL+oeidBj3kZASgN3qPFr9/7UeRmEsx89K/xn/mAh2YGBLYAwdhYARQec+QNOasfpa9KR1DAHOp45rEokPLH1cMOjkDAqv0JqlvCRWBMgRPVTTU6uGW9+uoSxIVkgbBC+xw55PcRrd5pSQj4Op5D7l4O75CIwiQn2MZ6C5zDObjcGmMWniwnNSEzXbfDnns3P1b+yQSs83KJOqeVhC6bgz8l3HA9PLQDDtn5gHvUp2EyaqtqKJeGTpzagln7DiVtxxCYD+7jQupem/RDp06MBkynqhaF4utRXuTY5aX6gzLQa+kMVS9VWWtTwG80opm12zdVugz2uzqnHer8o=;JcItlH0DrEijgKlZiHNkeg=="
+secured: "z6OOnx0y1PYU7CpM+8664maF95pPiCvt9I6cZvef/T/JyrMv0MW2Qnsn/BRXDGvpEqEafPAaYsYGG7sAjwvTrk58tnL8aY6wz0ab+Q0AylaosLZrD3Pgaeop/Qpr++WzsSqI9YUOfuT1j63qtPobD93sBDfLuqytuELKP9bs7aDci8iLCdNyJx3YnnBcKuMNLBbbW2YiFN27ChyDiK/fnFkb7a4oSf00x6a0gNvLNj3ORWLG4mnAvTpgXwH8iYPH7YY/u+oOtNTQyMqSTlCAbhDhOEayCpwqztfJ0zuXFnbANO91HrKFHd0+FakcVXh1L7e1xKhXJBjiUVMOZ5FDLY1nvrr7WuJkQEwAo1gWnsw=;PaZ1tBA1d5JJYG9CFoUlbQ=="
 ---
 

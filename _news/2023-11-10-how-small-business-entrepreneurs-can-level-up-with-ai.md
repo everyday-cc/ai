@@ -170,14 +170,28 @@ related:
         width: 1023
         height: 823
         isCached: true
-  - title: "Rockwell Combines Generative AI and Industrial Automation"
-    excerpt: "The reliance on text bases in modern software development means Rockwell Automation can capitalize on generative AI's ability to read, produce and generate text."
-    publishedDateTime: 2023-11-09T20:25:00Z
-    webUrl: "https://www.healthcareinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
+  - title: "FactoryTalk Design Studio accelerates with generative AI"
+    excerpt: "Rockwell Automation’s Adam Gregory discussed early successes in developing an AI copilot for FactoryTalk Design Studio"
+    publishedDateTime: 2023-11-10T01:35:00Z
+    webUrl: "https://www.controlglobal.com/sponsored-content/article/33014746/factorytalk-design-studio-accelerates-with-generative-ai"
     type: article
     provider:
-      name: healthcareinfosecurity.com
-      domain: healthcareinfosecurity.com
+      name: Control Global
+      domain: controlglobal.com
+    quality: 39
+    images:
+      - url: "https://img.controlglobal.com/files/base/ebm/controlglobal/image/2023/11/adam_gregory_____rockwell.654d873fe9354.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Rockwell Combines Generative AI and Industrial Automation"
+    excerpt: "The reliance on text bases in modern software development means Rockwell Automation can capitalize on generative AI's ability to read, produce and generate text."
+    publishedDateTime: 2023-11-09T20:37:00Z
+    webUrl: "https://www.govinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
     quality: 39
     images:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/rockwell-combines-generative-ai-industrial-automation-showcase_image-3-a-23564.jpg"
@@ -208,6 +222,6 @@ related:
       domain: businesswire.com
     quality: 9
 
-secured: "ge87nvWrDtHprVfIPxq7ccfZbRE9F+E0k1lJXVuLpHexp/6EfVG+pXeIbyc1QT8wXcrYW4XMGq9ryBijYBQIZ7mzqSmlkycqngTlE1y4IUCSey2BPLY1Xn4tybQs7tGT2qf6v2x9i3uk45TFwOBMBrjTmqDIm1c1cVAsT9rRwthse+3gQz39vQNVez8wrg4GsV4bKD4/REXp6DGSfCPkZIFnpppr/46HbSWvOXVZlPKnhbhjbXm8cAs2PNK3qbjIHbmOJ748Hn23lsxwQG839zFMPdpeRKrr/+zGTrwbxxfs3aFH/jZtpT1YW9z+7Yc/KNLHeppTu98ATWeXyb1CKkRPD+W17qgSdmL31k7qWGE=;3pbjDHRgP0eJ/5bVFgi7rw=="
+secured: "KEy+2btye0lXeek/+M7G4LLORW5fZABkTt62ndPDa6YMvNgyChIe+kgjXpcEgFGxnUFkEmyD3YJJG89RJ2akXPpD4DVdQI/3Ynid2U/UWRMeuQUdOi5PXmA4CwZWnDKNgDBeIJ64i9UyTMertZqa6wg66okoLliPqdYOci/Q2epxSOoqPnnkkH9RrbFaQvn2nB9v/8Kbuv2v5se3YVVQEeRdHb9JbP+JqytzikWlSyEd3A6N6ZcrZhlFlcZn76vbn9eGyiY9DEjVPSdKvTe6Jyjuv3JqHzg77Ht6eqOKQhBjlieM+ijDUDXHlvTQZEbf81fQitJPMMW81E8+tmzwDhThO5gRx/93L/bywyYD8CSmZv0tDyOwTtfd6b6wXJO7LkI4vSZyaUv8PwW6zsCzdQi047OR/Zfl/XZ2f+QRIs47WVvdJwD65AmIPYyihvXFwOOPcFQf7rcQJu/SU0535MCau+qW8mR6BOq9I51D+RCtC6Op2+bA/FKo16ztLJTowXbBylpS/cIPMHNms/a2Qg==;k/tTxPbliczb8LAqUBdyqQ=="
 ---
 

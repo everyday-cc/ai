@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://images.wsj.net/im-878977/social"

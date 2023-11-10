@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-ope
 ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok/amp/"
 type: article
-quality: 77
-heat: 97
+quality: 79
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/654d70041a5ab56f12e6aa5c/0x0.jpg?format=jpg&crop=4325,2434,x0,y358,safe&height=900&width=1600&fit=bounds"
@@ -59,6 +60,6 @@ related:
         height: 523
         isCached: true
 
-secured: "EW2xPXbAxDvTfVGNlsdich1FbD+XswS8P5nRk17R+qvRqYRa1bzXXTx7bZ1DbkDNmi+aqEnJbyvMTFpJlHKVAFc9MptgjGBBLHbq5y4Djqhcdlt/imQjnUk1rmCLX1D0McGKu2i3io73EYw0nEEOqsJjhkAwS8qdq5cUKxA/2rkchkPb95Z1Uxe+iLfVplQUHPbg8NbUO97uDbkdTJVEHsQSXl6A2qtqtycfSJekuircsgxu/xZpbxu4oCPxrEsFar1XanyQII2i4ulHqHwQh/xEKB734jJV8q8OCP+7y7HyvAt25j2PvZmdvawj+bZWkNjKD/OP0UhoefLxvUwRfTvnAj90ZYmHqBZqtZNq/H4=;ucHX8F0jO+/7qdISvU6NBQ=="
+secured: "D7IhaQ2aqVGFK1b9VrfeQ1cHYvO5xpfUq55Bl5Ml/4Zn14S9Mjj3NtLsU5Kr++O1hulrP4ZG7ujRhaNzFu0Jlt5N52/mKemwQFd5//pG0gvf6RS3IL6R+Qwd96XvQk/HkEGTUyEiFMYkTtSyw0ggaR4CeOF5WDG1xf5HKfODS2AYH/1xY5Cyugm7rB/ZSt0RtRRmJMoy3eTciWmWE1sBDAa2puIAzLaWtHgq737S/RhR/97xft6a/OiG982dTtlWqUNN4XEluS2x8qYf0GyNYZybDuVtnBypWmD1DWoWUia4RxE9+Ei94he6VrXsEHNiOYNqxPmmKoJ30Dzs6IVuBHEyBvN/XcQEJ17edLkelFobCsn1NvvNaFBikxXap8NYYTBiB25ZuHbx82Mc8vuzjasJ67ksSByHgWtVjx2IuONi5RwMQ6dvsrKofW/wNuMhGQ98u/eHDqTnswWeN15fNdI+mw2K/9jYxnKcm3Q37cUHIDSlVYF6+I1Tyth5Eoky5sdxIkFuC6s9z/YNHwxVaA==;9ha/HIylAaWtJ4ZGpG4Sxg=="
 ---
 

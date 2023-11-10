@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petersuciu/2023/11/09/meta-will-require
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/11/09/meta-will-require-political-advertisers-to-disclose-when-they-use-ai/amp/"
 type: article
 quality: 89
-heat: 190
+heat: 189
 published: true
 
 provider:

@@ -104,6 +104,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Humane, start-up founded by ex-Apple veterans, launches Microsoft-backed wearable Ai Pin in bid to replace smartphones"
+    excerpt: "The Ai Pin is designed to be worn on clothing, and users can interact with it using voice and a laser system that projects text on the hand."
+    publishedDateTime: 2023-11-10T02:26:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3240997/humane-start-founded-ex-apple-veterans-launches-microsoft-backed-wearable-ai-pin-bid-replace"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 60
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2023/11/10/4ac1c65f-2507-4eac-af9d-a6519b427680_6fd09051.jpg?itok=3oLdc0Dy&v=1699583075"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft will roll out MFA-enforcing policies for admin portal access"
     excerpt: "Microsoft will roll out Conditional Access policies requiring multifactor authentication from administrators when signing into Microsoft admin portals such as Microsoft Entra, Microsoft 365, Exchange,"
     publishedDateTime: 2023-11-06T19:00:00Z

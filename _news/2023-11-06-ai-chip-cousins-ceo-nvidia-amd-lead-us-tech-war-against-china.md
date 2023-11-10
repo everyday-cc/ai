@@ -41,6 +41,20 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Nvidia plans to release three new AI chips for China: Analysts"
+    excerpt: "The plans come less than a month after United States officials tightened the rules on selling high-end AI chips to China. Read more at straitstimes.com."
+    publishedDateTime: 2023-11-10T02:30:00Z
+    webUrl: "https://www.straitstimes.com/business/nvidia-plans-to-release-three-new-ai-chips-for-china-analysts"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/11/10/2023-11-09T080952Z2020612385RC2KOZ92R4ETRTRMADP3NVIDIA-CHINA.JPG"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Why Nvidia’s A800 Workstation GPU Uses A Chip Originally Made For China"
     excerpt: "The product in question is the A800 40GB Active, which Nvidia quietly launched last week as a workstation GPU for AI, data science and high-performance computing. The chip is available in North America and other regions not impacted by a new wave of U.S ..."
     publishedDateTime: 2023-11-09T18:11:00Z

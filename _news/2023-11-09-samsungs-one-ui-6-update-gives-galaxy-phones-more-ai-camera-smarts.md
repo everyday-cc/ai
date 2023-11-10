@@ -83,6 +83,20 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "AI in your pocket: Samsung Galaxy S to feature real-time phone call translator"
+    excerpt: "The real-time call translation function will be integrated into the device’s call feature. Read more at straitstimes.com."
+    publishedDateTime: 2023-11-10T02:05:00Z
+    webUrl: "https://www.straitstimes.com/tech/ai-in-your-pocket-samsung-galaxy-s-to-feature-real-time-phone-call-translator"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 35
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/11/10/2023-10-30T235729Z1792562390RC2WZQ9OQ8X5RTRMADP3SAMSUNG-ELEC-RESULTS.JPG"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Samsung Gauss AI Unveiled: A Revolution Set to Power Galaxy S24"
     excerpt: "Samsung's recent announcement of its proprietary AI technology, Samsung Gauss, signals a new horizon in consumer-focused artificial intelligence. This"
     publishedDateTime: 2023-11-08T16:00:00Z

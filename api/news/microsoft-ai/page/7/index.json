@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-09-02-a-new-way-to-optimize-and-prioritize-ai-projects-for-the-gpu-shortage.md",
+      "title": "A new way to optimize and prioritize AI projects for the GPU shortage",
+      "excerpt": "The GPU shortage is a challenge, but zeroing in on a Contribution Per GPU method can maximize ROI and help ensure long-term success.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/a-new-way-to-optimize-and-prioritize-ai-projects-for-the-gpu-shortage/",
+      "originalUrl": "https://venturebeat.com/ai/a-new-way-to-optimize-and-prioritize-ai-projects-for-the-gpu-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/annevb_many_file_drawers_and_files_and_GPU_with_one_file_drawe_9e7c558c-2436-4ad2-bd8b-0500f9b2202f.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-02T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-02-google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure.md",
       "title": "Google Unveils New AI-Powered Cloud Technologies Taking On AWS And Azure",
       "excerpt": "At Cloud Next, Google unveiled AI strategies to rival AWS and Azure. New offerings include custom silicon and updated Vertex AI. Google targets AI-centric enterprises.",
@@ -1380,40 +1433,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response.md",
-      "title": "Research Suggests Cognitive Ability Associated With More Controlled Emotional Response",
-      "excerpt": "PsyPost reports that new research suggests that people with high cognitive ability display slower and less intense emotional peaks compared to people with lower cognitive abilities.",
-      "sourceUrl": null,
-      "webUrl": "https://greensboro.com/life-entertainment/nation-world/research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response/video_3eb88f98-174c-552e-8dcc-ca8a0f79e827.html",
-      "originalUrl": "https://greensboro.com/life-entertainment/nation-world/research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response/video_3eb88f98-174c-552e-8dcc-ca8a0f79e827.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News & Record",
-        "domain": "greensboro.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

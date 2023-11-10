@@ -72,6 +72,34 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Humane Debuts $700 AI Pin With 'Laser Ink Display'"
+    excerpt: "Humane, a tech startup run by former Apple designer Imran Chaudhri, today officially unveiled its first product, the Ai Pin. Priced at $700,"
+    publishedDateTime: 2023-11-10T01:18:00Z
+    webUrl: "https://www.macrumors.com/2023/11/09/humane-ai-pin/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 39
+    images:
+      - url: "https://images.macrumors.com/t/8IdwJ3oLXfB79MptvG-c1buLJZI=/2000x/article-new/2023/11/humane-ai-pin-2.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "I Touched the Ai Pin, Humane's Ambitious Attempt at Replacing Your Phone"
+    excerpt: "Humane's Ai Pin is a $699 smartphone replacement with a built-in camera and always-ready AI assistant. It has no apps and no screen to allow you to be more present. But is it any good? We got to touch and hold the Ai Pin,"
+    publishedDateTime: 2023-11-10T02:34:00Z
+    webUrl: "https://www.inverse.com/tech/humane-ai-pin-hands-on-demo-voice-assistant"
+    type: article
+    provider:
+      name: Inverse
+      domain: inverse.com
+    quality: 38
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2023/11/10/fc295f0d-a12d-4945-b13f-94dda427ae28-humane-ai-press-interactions.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Humane unveils an AI-powered wearable smart pin that could replace your phone"
     excerpt: "Humane today unveiled its long-awaited artificial intelligence-powered wearable, the $699 Ai Pin, which the company says will revolutionize the way that people interact with their devices."
     publishedDateTime: 2023-11-09T22:39:00Z

@@ -3,13 +3,11 @@ category: news
 title: "Waymo executive: 'Safety case alone is sufficient' for self-driving cars"
 excerpt: "An executive at Google-owned Waymo stood firm on the safety benefits of self-driving cars as concerns linger over autonomous vehicles."
 publishedDateTime: 2023-11-10T00:45:00Z
-originalUrl: "https://www.aol.com/waymo-executive-safety-case-alone-224506386.html"
-webUrl: "https://www.aol.com/waymo-executive-safety-case-alone-224506386.html"
-ampWebUrl: "https://www.aol.com/amphtml/waymo-executive-safety-case-alone-224506386.html"
-cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/waymo-executive-safety-case-alone-224506386.html"
+originalUrl: "https://www.aol.com/waymo-executive-safety-case-alone-224506386.html?ref=biztoc.com"
+webUrl: "https://www.aol.com/waymo-executive-safety-case-alone-224506386.html?ref=biztoc.com"
 type: article
-quality: 58
-heat: 58
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -26,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "wdgmyWd1NdwfWbrTzyB7yg3DZDIUCmRwl3iuH/w0CLFGWcxVvjELkVJ/U2KNKSm0e0Y3OcoWppXtncO9DJDBH9g7FWl9/xa+5GGAT+t3ZQyzhadUnkVpXIMveNT2VbHk1XMaHIR/JA193c31iE5qS6DoXjYx1NEgePpaRCnuRl60HpuFKuJVCk6CsiUevUHt06VtR0f+BHmbPMp4KuSsjy9ZCd2cdQr8v56B1kKc070r2I2hVJ6dLzHWm8zDHylIx/n5MkecymWhUYmyNrGeakvZWpFuCGjznrNNs4sZdaOlIBnQWQVV5q8zWXJMHdSScTjMpTtVZM5CvI4pd6grradPJryhwbWuHwpCc5+O86Y=;KSLBLzyMtr4gUMV3a6i/pw=="
+secured: "lHZhBJdrLokOqj/KNxc9w5128rD6uCL9vA6k5yogy7Xc8YnVUV2mlZqGfn/CYaGoY0xN0LH5VuNS80u5owkV/Eh581bgQhldkbidjIBg9WxOkP6P/QNw7ecDcQ+4ofNIfDO7xfIOOTyFzpvevgeqDZbJwnGuXlAKjEIUmB6VvlKo+dgT7T+DRfHyYOQRkkxCUOEoJ0xkndHrtfkPdfQkRUa/jt00u4fIPdrQhO9pteh+EJqpOFTYIlwjPhYlg0nSMr+417kGGLXqDT7zf5CaZYwjK54RLhrUfC5PcljyXSjC8QWJmRBE89qI6lcfjeRuQh+8Majnak/9Mr6aA8TcxSvB5MW9duwElW3/S1/p5IU=;EzeXyXr2R+GUljzb7njLmA=="
 ---
 

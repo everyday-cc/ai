@@ -74,16 +74,16 @@ related:
         height: 796
         isCached: true
   - title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
-    excerpt: "\"It wasn't an advanced, artificial intelligence-powered robot, but a machine that simply picks up boxes and puts them on pallets,\" said Kang Jin-gi, who heads the investigations department at Gosong Police Station. He said police were working with related ..."
-    publishedDateTime: 2023-11-09T22:19:00Z
-    webUrl: "https://pantagraph.com/news/nation-world/science/industrial-robot-crushes-worker-to-death-at-south-korea-plant/article_526fad0a-d4f5-5583-97f2-52a4a3a36358.html"
+    excerpt: "The incident triggered public concern about the safety of industrial robots and the false sense of security they may give to humans working nearby."
+    publishedDateTime: 2023-11-09T21:00:00Z
+    webUrl: "https://omaha.com/news/nation-world/science/industrial-robot-crushes-worker-to-death-at-south-korea-plant/article_fe74ba82-e668-5fb6-b1e1-eb67fc599792.html"
     type: article
     provider:
-      name: The Pantagraph
-      domain: pantagraph.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 30
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/5/26/526fad0a-d4f5-5583-97f2-52a4a3a36358/654d53926cde5.preview.jpg?crop=1418%2C744%2C6%2C56&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/e7/fe74ba82-e668-5fb6-b1e1-eb67fc599792/654d53928eb6e.preview.jpg?crop=1418%2C744%2C6%2C56&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

@@ -55,6 +55,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Nvidia plans to release three new AI chips for China: Analysts"
+    excerpt: "The plans come less than a month after United States officials tightened the rules on selling high-end AI chips to China. Read more at straitstimes.com."
+    publishedDateTime: 2023-11-10T02:30:00Z
+    webUrl: "https://www.straitstimes.com/business/nvidia-plans-to-release-three-new-ai-chips-for-china-analysts"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/11/10/2023-11-09T080952Z2020612385RC2KOZ92R4ETRTRMADP3NVIDIA-CHINA.JPG"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Nvidia develops AI chips for China in latest bid to avoid US rules"
     excerpt: "Nvidia is preparing to launch the new chips just weeks after the US restricted sales in China of high-performance chips that can be used to create AI systems, in the Biden administration’s latest salvo in a tit-for-tat tech war between the two superpowers."
     publishedDateTime: 2023-11-09T12:39:00Z

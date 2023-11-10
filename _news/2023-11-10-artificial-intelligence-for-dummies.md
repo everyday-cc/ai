@@ -8,8 +8,8 @@ webUrl: "https://trinidadexpress.com/opinion/columnists/artificial-intelligence-
 ampWebUrl: "https://trinidadexpress.com/opinion/columnists/artificial-intelligence-for-dummies/article_3d858c54-7f60-11ee-aaf4-673d3c78cb14.amp.html"
 cdnAmpWebUrl: "https://trinidadexpress-com.cdn.ampproject.org/c/s/trinidadexpress.com/opinion/columnists/artificial-intelligence-for-dummies/article_3d858c54-7f60-11ee-aaf4-673d3c78cb14.amp.html"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/trinidadexpress.com/content/tncms/assets/v3/editorial/8/75/875eba2e-2653-11e8-bfd3-6732d476ec07/5aa718029bace.image.jpg"

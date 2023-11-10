@@ -170,14 +170,28 @@ related:
         width: 1023
         height: 823
         isCached: true
-  - title: "Rockwell Combines Generative AI and Industrial Automation"
-    excerpt: "The reliance on text bases in modern software development means Rockwell Automation can capitalize on generative AI's ability to read, produce and generate text."
-    publishedDateTime: 2023-11-09T20:25:00Z
-    webUrl: "https://www.healthcareinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
+  - title: "FactoryTalk Design Studio accelerates with generative AI"
+    excerpt: "Rockwell Automation’s Adam Gregory discussed early successes in developing an AI copilot for FactoryTalk Design Studio"
+    publishedDateTime: 2023-11-10T01:35:00Z
+    webUrl: "https://www.controlglobal.com/sponsored-content/article/33014746/factorytalk-design-studio-accelerates-with-generative-ai"
     type: article
     provider:
-      name: healthcareinfosecurity.com
-      domain: healthcareinfosecurity.com
+      name: Control Global
+      domain: controlglobal.com
+    quality: 39
+    images:
+      - url: "https://img.controlglobal.com/files/base/ebm/controlglobal/image/2023/11/adam_gregory_____rockwell.654d873fe9354.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Rockwell Combines Generative AI and Industrial Automation"
+    excerpt: "The reliance on text bases in modern software development means Rockwell Automation can capitalize on generative AI's ability to read, produce and generate text."
+    publishedDateTime: 2023-11-09T20:37:00Z
+    webUrl: "https://www.govinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
     quality: 39
     images:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/rockwell-combines-generative-ai-industrial-automation-showcase_image-3-a-23564.jpg"

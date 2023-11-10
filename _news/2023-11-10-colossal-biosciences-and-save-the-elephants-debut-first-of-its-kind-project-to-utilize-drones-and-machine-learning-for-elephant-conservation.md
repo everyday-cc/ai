@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Colossal and Save the Elephants Use Drones and Machine Learning To Track African Elephants"
+    excerpt: "Save the Elephants will deploy a small fleet of drones equipped with high resolution and infrared cameras to capture elephant behavioral data, which will then be processed by Colossal’s machine learning core to develop algorithms that will label elephants and automatically identify individual and collective social behavior."
+    publishedDateTime: 2023-11-09T23:53:00Z
+    webUrl: "https://dallasinnovates.com/colossal-and-save-the-elephants-use-drones-and-machine-learning-to-track-african-elephants/"
+    type: article
+    provider:
+      name: Dallas Innovates
+      domain: dallasinnovates.com
+    quality: 29
+    images:
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2023/11/Colossal_SavetheElephants_Drones-970.jpg"
+        width: 970
+        height: 464
+        isCached: true
   - title: "Colossal Biosciences and Save the Elephants Debut First-of-its-Kind Project to Utilize Drones and Machine Learning for Elephant Conservation"
     excerpt: "Colossal Biosciences, the world's first de-extinction and species preservation company, has partnered with Save the Elephants, a leading non-profit that works to secure a future for wild African elephants,"
     publishedDateTime: 2023-11-09T13:00:00Z

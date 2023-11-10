@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google and Anthropic Are Gunning for AI Dominance with New Chips"
+    excerpt: "Anthropic's Claude LLM gains a competitive edge with Google's TPU v5e chips as part of a collaboration that not only injects capital but also promises to push the boundaries of AI's computational frontiers."
+    publishedDateTime: 2023-11-10T01:02:00Z
+    webUrl: "https://decrypt.co/205397/google-anthropic-claude-ai-tpu-chips-openai/"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 54
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/11/Google-Anthropic-gID_7.jpg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "The evolution of Artificial Intelligence"
     excerpt: "But first, a bit of a timeline or history. In 1943, Warren McCulloch and Walter Pitts proposed a mathematical model of artificial neurons. This became the cornerstone for developing neural networks and computational models inspired by the human brain."
     publishedDateTime: 2023-11-09T19:45:00Z

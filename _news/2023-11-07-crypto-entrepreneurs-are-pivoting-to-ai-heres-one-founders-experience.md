@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/crypto-entrepreneurs-are-pivoting-to-
 webUrl: "https://www.wsj.com/articles/crypto-entrepreneurs-are-pivoting-to-ai-heres-one-founders-experience-34be4c51"
 type: article
 quality: 66
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -84,6 +84,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Singapore-based crypto mining platform Bitdeer partners Nvidia to launch AI cloud service solutions"
+    excerpt: "This will provide its customers with access to Nvidia’s AI supercomputing to accelerate the development of generative AI."
+    publishedDateTime: 2023-11-10T02:30:00Z
+    webUrl: "https://www.theedgesingapore.com/news/cryptocurrency/singapore-based-crypto-mining-platform-bitdeer-partners-nvidia-launch-ai-cloud"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/news/cryptocurrency/singapore-based-crypto-mining-platform-bitdeer-partners-nvidia-launch-ai-cloud"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/cryptocurrency/singapore-based-crypto-mining-platform-bitdeer-partners-nvidia-launch-ai-cloud"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 25
 
 secured: "4+aJujuaMPiDV384zAofZ/qRZyQmBJvb4UmpkADCuKFnhUvs839WIkXZK1io9h9hdTd3jMCApDaC6cNYUdp9NDHF2jtc+PyYZQJfP5399kM6V8qYW7uJnR0kGcTNEs9ekS+OU3sXMnDWMTatMTm+dqlVIRuHELCdZSxMvlAP9y8Doy1jcrDICDy3PVJ8cDXbYrkn6g3tqZQVhmTv0SWDqfBA2OuCjU9FKWKq1CbCR4ocqf/M/F0DkFrmwib8UeYE5+nd5wi7Rylui31O7BHEAdD+UrJrWQFkycTAMLjALFN0ylkxEL66aOu9Lrq1FwXob+dHVXDxWDbWDCBz/SWNgzWFCar/KUsCgE2F2xFX1rtFtrqHB3wFJDAMRzx7gz0XhbCHuKLJgSwruVA9dOPdZ/Ffu6pVVG3JXa3Bj6Wodra8JxpKJE72tacBqRodtRdaiFDEFIHx40Y6IjZur2W1scyGPVpuxPivDc4YFTLuAaQgRjFxzvzEig1gEb0F2plibGJsp0v+VEqnj5NevJ250w==;sjz7U27EXy6mikQYY8iPKg=="
 ---

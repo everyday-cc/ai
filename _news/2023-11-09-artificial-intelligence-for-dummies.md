@@ -35,7 +35,7 @@ related:
     provider:
       name: Trinidad Express Newspapers
       domain: trinidadexpress.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/trinidadexpress.com/content/tncms/assets/v3/editorial/8/75/875eba2e-2653-11e8-bfd3-6732d476ec07/5aa718029bace.image.jpg"
         width: 768

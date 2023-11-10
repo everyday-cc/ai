@@ -80,6 +80,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Singapore-based crypto mining platform Bitdeer partners Nvidia to launch AI cloud service solutions"
+    excerpt: "This will provide its customers with access to Nvidia’s AI supercomputing to accelerate the development of generative AI."
+    publishedDateTime: 2023-11-10T02:30:00Z
+    webUrl: "https://www.theedgesingapore.com/news/cryptocurrency/singapore-based-crypto-mining-platform-bitdeer-partners-nvidia-launch-ai-cloud"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/news/cryptocurrency/singapore-based-crypto-mining-platform-bitdeer-partners-nvidia-launch-ai-cloud"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/cryptocurrency/singapore-based-crypto-mining-platform-bitdeer-partners-nvidia-launch-ai-cloud"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 25
 
 secured: "PPe5tvL+/k5mzANHRBMEbd8bMugI/jyQsx2pqT9R+i0cBkGupdqLABkzYI1+Vyk7Ob9mPhzsbXwaZDuoESoOJ2dsUM2D/viy7Lgmu8XwQldDDFHWCXtQIKghIJ/ymGy6qUHY/MKcfuxTnQ5NBjxY80HamcsDwHlorP3TlwxPzRBuVn32/ZD4a3f8a5ARkI7EqVlQlelL6TQDKkgXrr6IoDgY7a9gwgfjmBAm3Dgru9lyvPxi+YYMS46Qj28GrHZBHbZjKXpVLR0T7OEuaXagQ0Q0jV2jVh7QQkXjSbp/Lg7TpbCEFN5wuoPB/mjnxJJ7FgFxXhalcoQhcTY2qFFy6wRMSexaQwuZ+ZSVwaShnUDCzeC1+vGRdfFXbCTTDI3ZGdC1qf2KCCAcynErCcyli4Ovt5hbUldDnp507XDqDhIy4xTj1RIzrfEUfhd7nHy4BubH0ten26psWuehfMlDTXsgeb4bdDORNe3OUnACAoQnUEh89jo2YJGWrZ6f33fA18cw8e0nfps0KMhieWK5tw==;ehn/IcNYyXHw/6LqIg9cvg=="
 ---

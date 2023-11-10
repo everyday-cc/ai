@@ -28,7 +28,7 @@ related:
   - title: "New MLPerf Training and HPC Benchmark Results Showcase 49X Performance Gains in 5 Years"
     excerpt: "MLPerf Training v3.1 includes over 200 performance results from 19 submitters: Ailiverse, ASUSTek, Azure, Azure+NVIDIA ... reflecting the tremendous rate of innovation in systems for machine learning. Significant to this round, is the largest system ..."
     publishedDateTime: 2023-11-08T19:52:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231108613335/en/New-MLPerf-Training-and-HPC-Benchmark-Results-Showcase-49X-Performance-Gains-in-5-Years/"
+    webUrl: "https://www.businesswire.com/news/home/20231108613335/en/New-MLPerf-Training-and-HPC-Benchmark-Results-Showcase-49X-Performance-Gains-in-5-Years"
     type: article
     provider:
       name: Business Wire
