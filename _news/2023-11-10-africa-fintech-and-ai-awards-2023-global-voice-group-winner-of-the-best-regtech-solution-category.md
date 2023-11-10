@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-10T07:41:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2023/11/10/9915800.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/11/10/9915800.htm"
 type: article
-quality: 5
+quality: 7
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
 related:
   - title: "Point Predictive Wins LendTech of the Year at the 2023 US Fintech Awards"
@@ -204,15 +205,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "FinTech LIVE London: Meet our software and tech experts"
-    excerpt: "It's time to cast an eye over the software and technology-related speakers who will be taking the stage at FinTech LIVE London this week"
-    publishedDateTime: 2023-11-05T17:21:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-live-london-meet-our-software-and-tech-experts"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
   - title: "Strong Swiss Presence at the Singapore Fintech Festival 2023"
     excerpt: "Switzerland will be setting up their own national pavilions during the festival. The Swiss Pavilion is co-organized by S-GE (Switzerland’s export and investment promotion agency) and Swiss Business Hub ASEAN (part of the Swiss Embassy in Singapore),"
     publishedDateTime: 2023-11-06T01:00:00Z

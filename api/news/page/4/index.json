@@ -2,6 +2,152 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-07-putting-data-storage-at-the-forefront-of-cloud-security.md",
+      "title": "Putting data storage at the forefront of cloud security",
+      "excerpt": "IBM Cloud Object Storage provides security and data durability, complimented with immutable data retention and audit controls capabilities. \nThe post Putting data storage at the forefront of cloud security appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/putting-data-storage-at-the-forefront-of-cloud-security/",
+      "originalUrl": "https://www.ibm.com/blog/putting-data-storage-at-the-forefront-of-cloud-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T10:00:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-myspace-jam-city-veterans-roll-out-plaiday-text-to-video-ai-tool.md",
+      "title": "MySpace, Jam City Veterans Roll Out PlaiDay Text-To-Video AI Tool",
+      "excerpt": "PlaiDay, which uses a few lines of text to generate short video snippets, debuted today from Plai Labs, the $32 million startup from founders of MySpace and Jam City.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dbloom/2023/11/07/myspace-jam-city-veterans-roll-out-plaiday-text-to-video-ai-tool/",
+      "originalUrl": "https://www.forbes.com/sites/dbloom/2023/11/07/myspace-jam-city-veterans-roll-out-plaiday-text-to-video-ai-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/654a6df5a687ac4fb18e06c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1533,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2023/11/07/myspace-jam-city-veterans-roll-out-plaiday-text-to-video-ai-tool/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2023/11/07/myspace-jam-city-veterans-roll-out-plaiday-text-to-video-ai-tool/amp/",
+      "publishedDateTime": "2023-11-07T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-from-goat-exports-to-driverless-vehicles-the-21-bills-in-the-kings-speech.md",
+      "title": "From goat exports to driverless vehicles: the 21 bills in the king’s speech",
+      "excerpt": "Proposed measures that made it into Rishi Sunak’s pre-election legislative programme – and those that didn’t",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak",
+      "originalUrl": "https://www.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/365b8ec8af0b0bb67c98245c07c91906fd7baf3f/706_180_2048_1229/master/2048.jpg?width=620&quality=85&auto=format&fit=max&s=0ed06d056c92fe4682fdb128f2c0051b",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak",
+      "publishedDateTime": "2023-11-07T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-ai-safety-how-close-is-global-regulation-of-artificial-intelligence-really.md",
       "title": "AI safety: How close is global regulation of artificial intelligence really?",
       "excerpt": "The UK AI Safety Summit, combined with a G7 declaration and US executive order, shows action is happening on AI. Chris Stokel-Walker looks what happens next.",
@@ -364,7 +510,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/07/artificial-intelligence-accelerating-clean-energy-transformation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -927,7 +1073,7 @@
       "originalUrl": "https://www.ibm.com/blog/ibm-and-microsoft-work-together-to-bring-maximo-application-suite-onto-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -1095,153 +1241,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-billionaire-binny-bansal-to-launch-ai-as-a-service-startup-report.md",
-      "title": "Billionaire Binny Bansal to launch AI-as-a-service startup: Report",
-      "excerpt": "billionaire flipkart cofounder binny bansal is launching an aiasaservice startup to target global customers and has hired 15 experts for the venture consisting mostly of ai scientists bloomberg report",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/billionaire-binny-bansal-to-launch-aiasaservice-startup-report-1699335756745",
-      "originalUrl": "https://inshorts.com/en/news/billionaire-binny-bansal-to-launch-aiasaservice-startup-report-1699335756745",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/11_nov/7_tue/img_1699333952466_123.jpg?",
-          "width": 885,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/billionaire-binny-bansal-to-launch-aiasaservice-startup-report-1699335756745",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/billionaire-binny-bansal-to-launch-aiasaservice-startup-report-1699335756745",
-      "publishedDateTime": "2023-11-06T21:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-ai-in-healthcare-four-key-directives-from-the-biden-administration.md",
-      "title": "AI In Healthcare: Four Key Directives From The Biden Administration",
-      "excerpt": "President Biden's Executive Order on AI aims to ensure the development and use of artificial intelligence are safe, secure, and trustworthy for healthcare",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/",
-      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 246,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6549b0e788cfbd6daa04c33f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/",
-      "publishedDateTime": "2023-11-06T19:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace.md",
-      "title": "Finding the path toward success as organizations bring AI into the workplace",
-      "excerpt": "Bringing AI into the workplace involves a big change and companies that have an open feedback loop can better understand, and resolve, potential employee concerns. This loop helps to create transparency, which will lead to employee trust, Janzer said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
-      "originalUrl": "https://www.zdnet.com/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
-      "publishedDateTime": "2023-11-06T18:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

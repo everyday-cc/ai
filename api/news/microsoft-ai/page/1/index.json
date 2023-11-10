@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-10-air-india-becomes-worlds-first-airline-to-launch-virtual-ai-agent-called-maharaja.md",
+      "title": "Air India becomes world's first airline to launch virtual AI agent called 'Maharaja'",
+      "excerpt": "The Tata Group-owned airline is using ChatGPT to analyse even some complex questions it may not be able to immediately answer to improve customer experience in later interactions and is helping it to become more attuned to natural language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/business/news/air-india-generative-ai-virtual-agent-maharaja-microsoft-azure-openai-service-introduce-more-ai-features-to-address-customer-queries-2023-11-10-902160",
+      "originalUrl": "https://www.indiatvnews.com/business/news/air-india-generative-ai-virtual-agent-maharaja-microsoft-azure-openai-service-introduce-more-ai-features-to-address-customer-queries-2023-11-10-902160",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/11/air-india-1699603481.jpg",
+          "width": 360,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/business/news/air-india-generative-ai-virtual-agent-maharaja-microsoft-azure-openai-service-introduce-more-ai-features-to-address-customer-queries-2023-11-10-902160",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/business/news/air-india-generative-ai-virtual-agent-maharaja-microsoft-azure-openai-service-introduce-more-ai-features-to-address-customer-queries-2023-11-10-902160",
+      "publishedDateTime": "2023-11-10T00:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-10-this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok.md",
       "title": "This Week In XR: Open AI Dev Day Bombshells, Aleph Alpha AI Raises $500 Million, xAI’s Grok",
       "excerpt": "To grok is to deeply understand and empathize. In a post announcing Grok last Saturday, November 4th, the company explains Grok will grok the world in real time with a Large Language Model that includes a real time feed of X as it appears on the X,",
@@ -105,7 +148,7 @@
       "originalUrl": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -404,7 +447,7 @@
       "originalUrl": "https://www.ibm.com/blog/ibm-and-microsoft-work-together-to-bring-maximo-application-suite-onto-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -456,7 +499,7 @@
       "originalUrl": "https://techcrunch.com/2023/11/6/chatgpt-everything-to-know-about-the-ai-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 331,
+      "heat": 321,
       "tags": null,
       "images": [
         {
@@ -1350,60 +1393,6 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-cranium-raises-25m-to-fund-enterprise-ai-monitoring-security-and-compliance-platform.md",
-      "title": "Cranium raises $25M to fund enterprise AI monitoring, security, and compliance platform",
-      "excerpt": "The round was led by Telstra Ventures with participation from KPMG LLP and SYN Ventures, taking Cranium's total to $32 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/cranium-raises-25m-to-fund-enterprise-ai-monitoring-security-and-compliance-platform/",
-      "originalUrl": "https://venturebeat.com/security/cranium-raises-25m-to-fund-enterprise-ai-monitoring-security-and-compliance-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_robot_peers_inside_an_open_PC_tower_at_the_circuitboa_194dd42e-576b-49a2-8341-b77eabcee85d.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security",
         "Microsoft AI"
       ]
     }

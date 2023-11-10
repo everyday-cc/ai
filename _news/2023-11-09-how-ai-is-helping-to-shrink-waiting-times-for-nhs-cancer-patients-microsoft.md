@@ -137,6 +137,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "OpenAI and Microsoft partner with Humane on wearable AI pin"
+    excerpt: "Humane’s founders say that the AI Pin embodies their vision to “integrate AI into the fabric of daily life” and enhance capabilities without “overshadowing our humanity.”"
+    publishedDateTime: 2023-11-10T09:22:00Z
+    webUrl: "https://cointelegraph.com/news/openai-microsoft-humane-wearable-ai-pin"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 54
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-11/3830afa9-51d2-4e1c-97fb-11bc55db4e0e.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Brillio Collaborates with Microsoft to Build Innovative Industry Solutions Using Microsoft Azure OpenAI Service"
     excerpt: "EDISON, N.J., Nov. 7, 2023 /PRNewswire/ -- Brillio, a leading digital transformation services and solutions provider, today announced that it is collaborating with Microsoft to co-develop cutting-edge industry and horizontal solutions using the power of Microsoft Azure OpenAI Service."
     publishedDateTime: 2023-11-07T12:40:00Z

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Lenskart acquires AI-based computer vision startup Tango Eye"
-excerpt: "With this acquisition, Lenskart plans to use visual artificial intelligence technology in improving store experience as well as its product experience. The company has also been an early investor in Tango, and the acquisition strengthens Lenskart's ..."
-publishedDateTime: 2023-10-30T09:52:00Z
-originalUrl: "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937"
-webUrl: "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937"
-ampWebUrl: "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp"
-cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp"
+excerpt: "New Delhi, Oct 30 (IANS) Lenskart on Monday announced the acquisition of Tango Eye, an AI-based computer vision startup. With this acquisition, Lenskart plans to use visual artificial intelligence ..."
+publishedDateTime: 2023-10-30T10:12:00Z
+originalUrl: "https://glamsham.com/world/technology/lenskart-acquires-ai-based-computer-vision-startup-tango-eye"
+webUrl: "https://glamsham.com/world/technology/lenskart-acquires-ai-based-computer-vision-startup-tango-eye"
+ampWebUrl: "https://glamsham.com/world/technology/lenskart-acquires-ai-based-computer-vision-startup-tango-eye?amp=1"
+cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/lenskart-acquires-ai-based-computer-vision-startup-tango-eye?amp=1"
 type: article
 
 provider:
-  name: Zee Business
-  domain: zeebiz.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/11/10/268663-sharemarketss.jpg?itok=n0eyjm4g"
-    width: 700
-    height: 394
+  - url: "https://glamsham.com/wp-content/uploads/2023/10/Lenskart-acquires-AI-based-computer-vision-startup-Tango-Eye-_-pic-courtesy-news-agency.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "H6jlcjr66bfhGjqmHQBtphtpgDyQ7OQ4QwHLo1U1BMSGUGds9TgKJpuXci+NSujnnq7Le32urfNCrgIySxFMVi12APvNEkWPCR2pXOVmyaSDhPyKHmDa9fY6Hb0l6hoDiVNuc5dkWese2DHd9EYMoNXOCUtIFzgASRu7tguNWc1VkZzJEVHvZy5r5DTyumAbBWDyuuHVgu4Or3icS/nk1GHXN72JDJ5Dps6aKihhGfV1stb8ZUSWjqnwL8rRHtK4tXx6OrmhNMb8f3bc5BTJpEdh05io2f/ZpoVxT8DpuMg4CunU8f8qWV5qFgldKIkLWrO+hnkR2/4uezgeYk4ls5taHVWzOJUPnt8hYqsZe64=;vR5U4ljOyEtbLGOPiWGX2w=="
+secured: "7oyiyFwmIaNLgJhQ/UP0ZSQ69zEZvyeiSLh8Yay0SqE8cktWaDMRetaT/A5HIPEqDYa5Bbk652tzx5OB6HF9op58mp3WhoaTWyc3Xbw1eB//8Qt9TilIrlu4j0NtF5L9PlRWPCBYWwaC4ukhYW1RbdG6aujAwbjOFYJqckDp/O9xWBDrP8CcMKAlYFPGppd0E8YADUWRhj4EAz5dfdStdbUJeiOfERbWysfYVun42Obexz08buUfdNOjd7PQ01cT6JVNdGmKNFMQXpL1L0a+SzVKpX/FW1rzjx4JNQ3CnzDzKkEYIxlSwNUBEENw8KA8TZXOQFSeoVqfDaZ+GdXTJ5GnJ+Z/DIEuz/mwpYxCL/Q=;WhAGifVgqpzCnrP+NFJPgA=="
 ---
 

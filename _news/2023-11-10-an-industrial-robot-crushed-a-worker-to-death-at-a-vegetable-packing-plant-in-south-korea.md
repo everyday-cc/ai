@@ -2,25 +2,25 @@
 category: news
 title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
 excerpt: "The incident triggered public concern about the safety of industrial robots and the false sense of security they may give to humans working nearby."
-publishedDateTime: 2023-11-09T21:00:00Z
-originalUrl: "https://omaha.com/news/nation-world/science/industrial-robot-crushes-worker-to-death-at-south-korea-plant/article_fe74ba82-e668-5fb6-b1e1-eb67fc599792.html"
-webUrl: "https://omaha.com/news/nation-world/science/industrial-robot-crushes-worker-to-death-at-south-korea-plant/article_fe74ba82-e668-5fb6-b1e1-eb67fc599792.html"
+publishedDateTime: 2023-11-09T22:00:00Z
+originalUrl: "https://tucson.com/news/nation-world/science/industrial-robot-crushes-worker-to-death-at-south-korea-plant/article_b34b275a-d021-5217-9776-a088660e2969.html"
+webUrl: "https://tucson.com/news/nation-world/science/industrial-robot-crushes-worker-to-death-at-south-korea-plant/article_b34b275a-d021-5217-9776-a088660e2969.html"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/e7/fe74ba82-e668-5fb6-b1e1-eb67fc599792/654d53928eb6e.preview.jpg?crop=1418%2C744%2C6%2C56&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/b/34/b34b275a-d021-5217-9776-a088660e2969/654d539323516.preview.jpg?crop=1418%2C798%2C6%2C30&resize=1120%2C630&order=crop%2Cresize"
+    width: 1120
     height: 630
     isCached: true
 
@@ -97,6 +97,6 @@ related:
       domain: manufacturing.net
     quality: 13
 
-secured: "PZ60gvmwDkfrQmGLhbg3PLQxZfoHUYVhGKvHmRnsrY1wVgMtl+laUCJUzlYq+oaNXUn+iSY8QYTcYbp3KfThymrW+agloY8JCLlCmpRX6biMTfdT1+Hn3v5/JbXCA4t0d4A3rcKvnwP13N92SS6aYUVRUus9O2wUwuToDtYVmQDRA94RE2IzJ+14A0QRWGlinlYkV3JBpPK7XQpyWWdlGKkMhFUNgObLZkU7vNRhpkHYBbJ5Y++9uFg0j/vw/rJXRcgT0fYR4A7ECZZAloVFmHu+a10mTRHkGNwa76RA9gWSnd/nYf0cYfcZwimc+EJ4qrCSxRSTw/m2qLIFoDXIVHpiz0dB3PPSNp1ZxemJfrcNRlqjfFpiqwJQQ57b7xTnS7s7N8qbj40kDutJr3Yf6kwW8rYD7ORPoI2pPlG0neHAdeOGsOSASMXwj1KMuph82qPWnJf/Iqz+MwQ70orE2w2xTQuTtvKwBCnHXLnLu0ZPW1TicIbFHr6V9Mx3iLQQiaQ36IB/+KFTW6cpxtwJMg==;kvsTVwFhqRe0gncP7VdlbQ=="
+secured: "/qQmgprYJfiplD1MGNmXADhsrQLxoBWY8czA+DDQmoL6hzo8WEnCikTVK12nOajJK8Rw9Q23Je9XtsVdwqgrDlI0nOFx2Fc5v6HbOVJnRDxx2vnoTC2v6WCkzn1qWJ9hh4KS0CjK8z3dXbSf14nZBKZcdJ4ImwrL/EDxkDQv/6M5rFDHgcFGsMumKGQl5+wepRv/lhXUI4Oj5NwNImKk7HWEDcQ8sIKAtCa9QyojsXogO2n8MTX8B8UvXUyPbxh2n6DZykG8Y1d/Hg+xDc1lJeMYIYwGMQwoUG2mUmp8dJqLbkqi0IXAyiny1SzRLyo1W/Vsyqwv2Cd6HMpx2YaX7G/5raPuaBtJ1EyG1oO1uhk=;/ZuuQ7daFmfS5AAyKOF7GQ=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "AI takes to the sky: Air India’s Maharaja gets an AI-enabled avatar, turns a virtual assistant"
+    excerpt: "Air India is set to become the first airline in the world to get an AI-enabled virtual assistant. In the beta phase which was launched in March 2023, the AI assistant has helped with over 6000 inquiries per day."
+    publishedDateTime: 2023-11-10T10:41:00Z
+    webUrl: "https://www.firstpost.com/tech/ai-takes-to-the-sky-air-indias-maharaja-gets-an-ai-enabled-avatar-turns-a-virtual-assistant-13374172.html"
+    ampWebUrl: "https://www.firstpost.com/tech/ai-takes-to-the-sky-air-indias-maharaja-gets-an-ai-enabled-avatar-turns-a-virtual-assistant-13374172.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/ai-takes-to-the-sky-air-indias-maharaja-gets-an-ai-enabled-avatar-turns-a-virtual-assistant-13374172.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 47
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/11/AI-takes-to-the-sky-Air-Indias-Maharaja-gets-an-AI-enabled-avatar-turns-a-virtual-assistant-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "H6mfXGgC8BMUz1s+ykzlr+J20IdihLVNnXuNHnjBX0s1xwKEoqkSIEZCAm9O8HIcPbF13006TTNNKaOQc2+V1YVzLxR3TcqtrRNTpy0VvpR7Pkul+HO9hJ6z8CTjLNXKYNMC77z8UWGZ6xcebJliBkPvSWA0rCqAlsZi28XET/aaptl9UTIV8nzhQ5oXP730gObjwXNWWvtcmLptU5jWWK8t1F4q7sjFQUqSdyZJQokrJqPLxwGOv2LltPM7XTWRK5BugcZ1rusym2REB4Kq0rA/0Sbmb/KvOlmiCebr6bAv6SVV0WANxO4WrZvpaFpfSI47d504aRkxWy/ZJsPUUoDiP4K6rP//VRvLNCyOWU8=;5ZPgrOckxeR5fhQOC+w9Qg=="
 ---

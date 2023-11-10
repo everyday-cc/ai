@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-11-07-billionaire-binny-bansal-to-launch-ai-as-a-service-startup-report.md",
+      "title": "Billionaire Binny Bansal to launch AI-as-a-service startup: Report",
+      "excerpt": "billionaire flipkart cofounder binny bansal is launching an aiasaservice startup to target global customers and has hired 15 experts for the venture consisting mostly of ai scientists bloomberg report",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/billionaire-binny-bansal-to-launch-aiasaservice-startup-report-1699335756745",
+      "originalUrl": "https://inshorts.com/en/news/billionaire-binny-bansal-to-launch-aiasaservice-startup-report-1699335756745",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/11_nov/7_tue/img_1699333952466_123.jpg?",
+          "width": 885,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/billionaire-binny-bansal-to-launch-aiasaservice-startup-report-1699335756745",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/billionaire-binny-bansal-to-launch-aiasaservice-startup-report-1699335756745",
+      "publishedDateTime": "2023-11-06T21:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-ai-in-healthcare-four-key-directives-from-the-biden-administration.md",
+      "title": "AI In Healthcare: Four Key Directives From The Biden Administration",
+      "excerpt": "President Biden's Executive Order on AI aims to ensure the development and use of artificial intelligence are safe, secure, and trustworthy for healthcare",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/",
+      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 246,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6549b0e788cfbd6daa04c33f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/",
+      "publishedDateTime": "2023-11-06T19:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace.md",
+      "title": "Finding the path toward success as organizations bring AI into the workplace",
+      "excerpt": "Bringing AI into the workplace involves a big change and companies that have an open feedback loop can better understand, and resolve, potential employee concerns. This loop helps to create transparency, which will lead to employee trust, Janzer said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
+      "originalUrl": "https://www.zdnet.com/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
+      "publishedDateTime": "2023-11-06T18:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-endpoint-security-getting-a-boost-from-ai-and-machine-learning.md",
       "title": "Endpoint security getting a boost from AI and machine learning",
       "excerpt": "Endpoints overloaded with too many agents are just as unsecure as those that don’t have any. AI and machine learning (ML) are urgently needed in endpoint protection to identify the weakest endpoints, update their patches and harden detection and response beyond what’s available today.",
@@ -64,7 +211,7 @@
       "originalUrl": "https://techcrunch.com/2023/11/6/chatgpt-everything-to-know-about-the-ai-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 331,
+      "heat": 321,
       "tags": null,
       "images": [
         {
@@ -168,7 +315,7 @@
       "originalUrl": "https://www.techrepublic.com/article/samsung-gauss-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1112,161 +1259,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-the-only-thing-scarier-than-a-robot-driver-is-a-human-one-a-guide-to-av-success.md",
-      "title": "The Only Thing Scarier Than A Robot Driver Is A Human One: A Guide To AV Success",
-      "excerpt": "There are no Consumer Reports or user reviews to guide you yet, so you have to do your own homework or work with an expert. Talk to folks who have been down this road before, learn from their mistakes and soak up their knowledge like a sponge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/06/the-only-thing-scarier-than-a-robot-driver-is-a-human-one-a-guide-to-av-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/06/the-only-thing-scarier-than-a-robot-driver-is-a-human-one-a-guide-to-av-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65450506e012696dec4d97b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1413,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/06/the-only-thing-scarier-than-a-robot-driver-is-a-human-one-a-guide-to-av-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/06/the-only-thing-scarier-than-a-robot-driver-is-a-human-one-a-guide-to-av-success/amp/",
-      "publishedDateTime": "2023-11-06T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-this-ai-bot-fills-out-job-applications-for-you-while-you-sleep.md",
-      "title": "This AI Bot Fills Out Job Applications for You While You Sleep",
-      "excerpt": "AI-powered services like LazyApply zip through the grunt work of job applications, helping one programmer apply for 5,000 jobs. But they can make mistakes, and some recruiters scorn the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/this-ai-bot-fills-out-job-applications-for-you-while-you-sleep/",
-      "originalUrl": "https://www.wired.com/story/this-ai-bot-fills-out-job-applications-for-you-while-you-sleep/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6545939ac24c84815c6bbc35/191:100/w_1280,c_limit/AI-Bot-Job-Applications-Business-174410108.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-the-real-threat-of-ai-is-untrammeled-corporate-power.md",
-      "title": "The Real Threat Of AI Is Untrammeled Corporate Power",
-      "excerpt": "Here is the risk in a nutshell: new digital technologies allow a few corporations to gain huge amounts of power by exploiting changes in how we live our lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/",
-      "originalUrl": "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6548dcfb4388268e51cdb4a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/amp/",
-      "publishedDateTime": "2023-11-06T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

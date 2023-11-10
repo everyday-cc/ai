@@ -203,16 +203,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 5
-  - title: "FinTech LIVE London: Meet our software and tech experts"
-    excerpt: "It's time to cast an eye over the software and technology-related speakers who will be taking the stage at FinTech LIVE London this week"
-    publishedDateTime: 2023-11-05T17:21:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-live-london-meet-our-software-and-tech-experts"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
+    quality: 7
   - title: "Strong Swiss Presence at the Singapore Fintech Festival 2023"
     excerpt: "Switzerland will be setting up their own national pavilions during the festival. The Swiss Pavilion is co-organized by S-GE (Switzerland’s export and investment promotion agency) and Swiss Business Hub ASEAN (part of the Swiss Embassy in Singapore),"
     publishedDateTime: 2023-11-06T01:00:00Z

@@ -2,6 +2,143 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2023-08-21-ai-in-fintech-market-size-share-and-trends-analysis-report-2030.md",
+      "title": "AI In Fintech Market Size, Share And Trends Analysis Report 2030",
+      "excerpt": "In 2023,“ai in fintech market“ Size, Status and Market Insights, It Is Graceful to Raise by 2023 Forecast to 2030 | 93 Pages “Global AI in Fintech market size is projected to reach USD 17440 ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106899219/AI-In-Fintech-Market-Size-Share-And-Trends-Analysis-Report-2030",
+      "originalUrl": "https://menafn.com/1106899219/AI-In-Fintech-Market-Size-Share-And-Trends-Analysis-Report-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?275953",
+          "width": 370,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-20T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-hypergroai-secures-inr-7-crore-in-seed-funding.md",
+      "title": "Hypergro.ai Secures INR 7 Crore In Seed Funding",
+      "excerpt": "You're reading Entrepreneur India, an international franchise of Entrepreneur Media. A Bangalore- based martech startup hypergro.ai, has raised Seed funding of INR 7 crore. The round was led by Silverneedle Ventures with participation from Huddle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/hypergroai-secures-inr-7-crore-in-seed-funding/457747",
+      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/hypergroai-secures-inr-7-crore-in-seed-funding/457747",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1692596515-Untitleddesign-2023-08-21T110438230.jpg?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-20T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-melatonin-and-its-derivatives-enhance-long-term-object-recognition-memory.md",
+      "title": "Melatonin and its derivatives enhance long-term object recognition memory",
+      "excerpt": "The amount of time spent by the mice exploring each object—a good measure of object recognition memory—was recorded by a trained observer. It is a known fact that mice spend more time ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/998220",
+      "originalUrl": "https://www.eurekalert.org/news-releases/998220",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/beb535b1-070d-4a48-b6b5-fc5cabf65fcb/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-20T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-21-ai-industrial-robotics-benelux.md",
       "title": "AI Industrial Robotics - Benelux",
       "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$237m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.79%, resulting in a market volume of US$ ...",
@@ -1024,161 +1161,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-cisco-ceo-says-ai-is-already-becoming-a-huge-new-market-after-it-missed-the-initial-cloud-computing-boom.md",
-      "title": "Cisco CEO says AI is already becoming a huge new market after it 'missed' the initial cloud computing boom",
-      "excerpt": "Cisco CEO says its demonstrating growing relevancy in AI infrastructure market after it \"missed\" the first cloud boom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8",
-      "originalUrl": "https://www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64dfe024bd98a6001979d253?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cisco-ai-cloud-market-ai-equipment-sales-2023-8?amp",
-      "publishedDateTime": "2023-08-18T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-have-you-used-generative-ai-to-shop-17-of-shoppers-have.md",
-      "title": "Have you used generative AI to shop? 17% of shoppers have",
-      "excerpt": "The Salesforce report highlights that 17% of shoppers have used AI for purchasing inspiration, highlighting how the technology is rapidly growing in retail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/have-you-used-generative-ai-to-shop-17-of-shoppers-have/",
-      "originalUrl": "https://www.zdnet.com/article/have-you-used-generative-ai-to-shop-17-of-shoppers-have/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3b588846719e720a0532553f47658527cfea51d1/2023/08/18/d1a579a5-d6a0-4deb-ad21-718a5ef80876/shopping.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/have-you-used-generative-ai-to-shop-17-of-shoppers-have/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/have-you-used-generative-ai-to-shop-17-of-shoppers-have/",
-      "publishedDateTime": "2023-08-18T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-the-new-ai-jobs-smaller-firms-shaping-remote-work-and-how-united-is-luring-tech-workers.md",
-      "title": "The New AI Jobs, Smaller Firms Shaping Remote Work And How United Is Luring Tech Workers",
-      "excerpt": "The published version of Forbes' Future of Work newsletter delivers the latest news for chief human resources officers and other talent managers on disruptive technologies, managing the workforce and trends in the remote work debate to your inbox every Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenamcgregor/2023/08/18/the-new-ai-jobs-smaller-firms-shaping-remote-work-and-how-united-is-luring-tech-workers/",
-      "originalUrl": "https://www.forbes.com/sites/jenamcgregor/2023/08/18/the-new-ai-jobs-smaller-firms-shaping-remote-work-and-how-united-is-luring-tech-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64dfae3b1057b63591c712f6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-18T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

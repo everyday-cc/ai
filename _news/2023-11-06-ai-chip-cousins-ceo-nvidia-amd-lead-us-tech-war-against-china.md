@@ -55,6 +55,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Nvidia To Launch 3 New AI Chips For China Amid US Restrictions: Report"
+    excerpt: "The U.S. Commerce Department last month instructеd Nvidia to immеdiatеly halt thе еxport of high-еnd artificial intеlligеncе chips to China, citing national sеcurity concerns."
+    publishedDateTime: 2023-11-10T09:18:00Z
+    webUrl: "https://www.ibtimes.com/nvidia-launch-3-new-ai-chips-china-amid-us-restrictions-report-3718188"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://d.ibtimes.com/en/full/4489159/companies-ai-frontlines-point-out-that-nvidias-primordial-role-makes-it-de-facto-kingmaker.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "Why Nvidia’s A800 Workstation GPU Uses A Chip Originally Made For China"
     excerpt: "The product in question is the A800 40GB Active, which Nvidia quietly launched last week as a workstation GPU for AI, data science and high-performance computing. The chip is available in North America and other regions not impacted by a new wave of U.S ..."
     publishedDateTime: 2023-11-09T18:11:00Z

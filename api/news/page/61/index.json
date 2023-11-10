@@ -2,6 +2,117 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2023-09-26-beating-the-books-how-deep-learning-can-improve-your-nhl-bets.md",
+      "title": "Beating the Books: How Deep Learning Can Improve Your NHL Bets",
+      "excerpt": "The emergence of AI has allowed for machine learning models to become more powerful. Here's how to use it to your advantage to measure NHL player performance and place wagers on various NHL games.",
+      "sourceUrl": null,
+      "webUrl": "https://thehockeynews.com/betting/learn-to-bet/beating-the-books-how-deep-learning-can-improve-your-nhl-bets",
+      "originalUrl": "https://thehockeynews.com/betting/learn-to-bet/beating-the-books-how-deep-learning-can-improve-your-nhl-bets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehockeynews.com/betting/.amp/learn-to-bet/beating-the-books-how-deep-learning-can-improve-your-nhl-bets",
+      "cdnAmpWebUrl": "https://thehockeynews-com.cdn.ampproject.org/c/s/thehockeynews.com/betting/.amp/learn-to-bet/beating-the-books-how-deep-learning-can-improve-your-nhl-bets",
+      "publishedDateTime": "2023-09-26T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hockey News",
+        "domain": "thehockeynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-image-recognition-market-size-to-hit-usd-11756-bn-by-2029-at-a-cagr-175-percent-says-maximize-market-research.md",
+      "title": "Image Recognition Market Size To Hit USD 117.56 Bn By 2029 At A CAGR 17.5 Percent Says Maximize Market Research",
+      "excerpt": "It encompasses a wide range of applications, which includes facial recognition, object detection, autonomous vehicles, medical imaging analysis and others. The top companies in healthcare, automotive, e-commerce, retail and advertising are increasingly ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107141650/Image-Recognition-Market-Size-To-Hit-USD-11756-Bn-By-2029-At-A-CAGR-175-Percent-Says-Maximize-Market-Research",
+      "originalUrl": "https://menafn.com/1107141650/Image-Recognition-Market-Size-To-Hit-USD-11756-Bn-By-2029-At-A-CAGR-175-Percent-Says-Maximize-Market-Research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-nn-capital-launch-a-safe-trading-software-app-based-on-artificial-neural-network-research.md",
+      "title": "NN Capital Launch A Safe Trading Software App, Based On Artificial Neural Network Research",
+      "excerpt": "--news direct--established by professor ian cartwright, an ai pioneer who was a distinguished faculty member in some of the world's leading",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107141754/NN-Capital-Launch-A-Safe-Trading-Software-App-Based-On-Artificial-Neural-Network-Research",
+      "originalUrl": "https://menafn.com/1107141754/NN-Capital-Launch-A-Safe-Trading-Software-App-Based-On-Artificial-Neural-Network-Research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?65708",
+          "width": 437,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T01:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-canonical-steps-up-its-support-for-machine-learning-development-with-charmed-mlflow.md",
       "title": "Canonical steps up its support for machine learning development with Charmed MLFlow",
       "excerpt": "Charmed MLFlow is Canonical’s distribution of the popular open-source MLFlow platform, which is used to manage the end-to-end machine learning model lifecycle. It benefits from various integrations with Canonical’s software, simpler deployment and management, and regular security patches.",
@@ -1002,135 +1113,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-chatgpt-can-now-talk-to-youand-look-into-your-life.md",
-      "title": "ChatGPT Can Now Talk to You—and Look Into Your Life",
-      "excerpt": "using image or speech recognition, so the chatbot can generate a response. The app then responds via either voice or text, depending on what mode the user is in. When a WIRED writer asked the new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/chatgpt-can-now-talk-to-you-and-look-into-your-life/",
-      "originalUrl": "https://www.wired.com/story/chatgpt-can-now-talk-to-you-and-look-into-your-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/650e03b8051fc1c1176d09dc/191:100/w_1280,c_limit/ChatGPT-Can-Now-Speak-And-See-Business-530901253.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-new-method-helps-ai-navigate-3d-space-using-2d-images.md",
-      "title": "New method helps AI navigate 3D space using 2D images",
-      "excerpt": "Photos are two-dimensional (2D), but autonomous vehicles and other technologies have to navigate the three-dimensional (3D) world. Researchers have developed a new method to help artificial intelligence (AI) extract 3D information from 2D images,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-09-method-ai-3d-space-2d.html",
-      "originalUrl": "https://techxplore.com/news/2023-09-method-ai-3d-space-2d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/new-method-helps-ai-na.jpg",
-          "width": 2880,
-          "height": 982,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-09-method-ai-3d-space-2d.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-method-ai-3d-space-2d.amp",
-      "publishedDateTime": "2023-09-25T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-the-ethics-of-artificial-intelligence-a-path-toward-responsible-ai.md",
-      "title": "The ethics of artificial intelligence: A path toward responsible AI",
-      "excerpt": "If the firms behind AI start thinking intentionally about ethics, striving to make \"AI that's more fair, that's more inclusive, that's safer, that's more secure, that's more private, then that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/technology/the-ethics-of-artificial-intelligence-responsible-ai?ref=biztoc.com",
-      "originalUrl": "https://www.thestreet.com/technology/the-ethics-of-artificial-intelligence-responsible-ai?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

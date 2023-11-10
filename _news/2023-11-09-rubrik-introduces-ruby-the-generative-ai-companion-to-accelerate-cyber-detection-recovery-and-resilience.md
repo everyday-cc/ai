@@ -37,6 +37,17 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "US-based Rubrik launches ‘Ruby’ generative AI to speed up cyber detection, recovery"
+    excerpt: "Data security service provider Rubrik launched ‘Ruby’, the generative artificial intelligence (AI) designed to speed cyber detection, cyber recovery, and cyber resilience."
+    publishedDateTime: 2023-11-10T10:39:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/us-based-rubrik-launches-ruby-generative-ai-to-speed-up-cyber-detection-recovery/article67517614.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/us-based-rubrik-launches-ruby-generative-ai-to-speed-up-cyber-detection-recovery/article67517614.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/us-based-rubrik-launches-ruby-generative-ai-to-speed-up-cyber-detection-recovery/article67517614.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 33
   - title: "Rubrik introduces Ruby, the generative AI companion to accelerate cyber detection, recovery, and resilience"
     excerpt: "The company will leverage Microsoft’s Azure OpenAI, in combination with its machine learning-driven Data Threat Engine, to help discover, investigate, remediate, and report on cyber incidents. The company’s newest AI companion, Ruby, extends Rubrik ..."
     publishedDateTime: 2023-11-08T12:40:00Z

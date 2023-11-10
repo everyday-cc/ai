@@ -193,15 +193,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Musk says his new AI chatbot has 'a little humour'"
-    excerpt: "Elon Musk has launched an AI chatbot called Grok on his social media site X, formerly Twitter, but so far it is only available to selected users. \"In some important respects, it is the best that currently exists,\" he posted on X, before its release. Mr Musk boasted that Grok \"loves sarcasm\" and would answer questions with \"a little humour\"."
-    publishedDateTime: 2023-11-05T18:10:00Z
-    webUrl: "https://www.bbc.com/news/business-67327060"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 47
   - title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
     excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT has unveiled the future it has in mind for its artificial intelligence technology"
     publishedDateTime: 2023-11-06T22:22:00Z

@@ -212,16 +212,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 5
-  - title: "FinTech LIVE London: Meet our software and tech experts"
-    excerpt: "It's time to cast an eye over the software and technology-related speakers who will be taking the stage at FinTech LIVE London this week"
-    publishedDateTime: 2023-11-05T17:21:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-live-london-meet-our-software-and-tech-experts"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
+    quality: 7
   - title: "Adaptation and Growth: The Road Ahead for the FinTech Sector"
     excerpt: "The number of open banking users worldwide is expected to grow at an average annual rate of nearly 50 percent between 2020 and 2024, meaning it will rise from 12.2 million to 63.8 million over this period. The value of global open banking transactions reached  57 billion U.S. dollars in 2023."
     publishedDateTime: 2023-11-07T08:01:00Z

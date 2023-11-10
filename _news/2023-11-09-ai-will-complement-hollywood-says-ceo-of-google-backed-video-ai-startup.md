@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI will complement Hollywood, says CEO of Google-backed video AI startup"
-excerpt: "In Hollywood, fears about AI have been widespread among striking actors and writers. But the alarm may be misplaced. \"It's important to understand that technology always augments humans, and the story of Hollywood has been marred by moments like this ..."
-publishedDateTime: 2023-11-08T17:38:00Z
-originalUrl: "https://www.aol.com/ai-may-change-hollywood-better-172021339.html"
-webUrl: "https://www.aol.com/ai-may-change-hollywood-better-172021339.html"
+excerpt: "\"It's important to understand that technology always augments humans, and the story of Hollywood has been marred by moments like this before,\" Cristóbal Valenzuela, CEO of AI video company Runway, said at the Yahoo Finance Invest conference on Tuesday."
+publishedDateTime: 2023-11-08T19:19:00Z
+originalUrl: "https://www.aol.com/finance/ai-may-change-hollywood-better-172021339.html"
+webUrl: "https://www.aol.com/finance/ai-may-change-hollywood-better-172021339.html"
 type: article
 quality: 36
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 670
         isCached: true
 
-secured: "gmtDvnLjM4R1iynYNgyzP/wWh3Qb0m545jkFxwdybzes+TK4QbSceFCatwGQzF20gbdBv0uW4E2YVSDRI6MSTXxO28MH1PcBL5sO3C+69WO3Lm+KP+Mffqpfzq92UV2XUv1kHZiGhQQm12VKB31nFi69FEU1gtZP1nudh77DVXQQa7e8KSiV73xR4xyH7GL2uHgnKecDWsErPb6sIRWAob/9FxrPRqd3Mq4oX6RiaCuIgLVONUxVAK/wwIrglar/3UQuqidRfnkWgjHSqZT713baGR0/foNyIGpP2aXCSOlAP/igoclwSnBbS/Uoi3yHQ6A/VInWBesUo1qfE1FPegLYxnXCQ7BNA2H7J+nbMkOzum1z7t50W/9wKNv7NyK3nNd2A6DSpRMYQJSAVWpfyF5+wWux/wOXmPH8pc/zXg8ADJhMVlKeXii948MyRGMO+M1f0plrAejpEoMvvXqOJsqOkcNlCyJGErlvp/VfEmKMXHnbALVHdNxxZQ5doTNjJgGVyd6MpKNcS3m6BrlZNQ==;l9t8M8qI3DXt/SvUE+H1zg=="
+secured: "arXdLtUj5sVPqjNa7R6cBcgrbDHjRHVj2mT3oQFt/XhY/se/TfZ9vq3b3yW3/FeVF1a7M8/02Vektnn2xyE6zJyNZJVx/IfsTmqAHTyMF/n/nctqsYRevF6qxAhLpjB6wV9j+nLY0yaDtFQc7qHJ/n/tKFuyqglwk4QEiPWMgtZ8WyjUPiBOu/xtNWFjVOFeZ2m26Qifox4QzaQMFtS/QV6MHuYSJSgKp+WIiqBqSGvOJanBYU9YzE8lutLj1oy15EAW6BlYfoQdXNy5XqJFIdfDJfV1pxKo373OqQH+zzIF8Uxa5jLNxuO2+NvLADW/5+fWoI/N2WpVvCDlgKNExctjFOv6qgq6j3XYtt/Rzr4=;Q3NJXXSwA8W4EopG1Sxq2g=="
 ---
 

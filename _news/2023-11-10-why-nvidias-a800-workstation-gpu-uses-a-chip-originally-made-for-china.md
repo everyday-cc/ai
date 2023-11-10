@@ -69,6 +69,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Nvidia To Launch 3 New AI Chips For China Amid US Restrictions: Report"
+    excerpt: "The U.S. Commerce Department last month instructеd Nvidia to immеdiatеly halt thе еxport of high-еnd artificial intеlligеncе chips to China, citing national sеcurity concerns."
+    publishedDateTime: 2023-11-10T09:18:00Z
+    webUrl: "https://www.ibtimes.com/nvidia-launch-3-new-ai-chips-china-amid-us-restrictions-report-3718188"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://d.ibtimes.com/en/full/4489159/companies-ai-frontlines-point-out-that-nvidias-primordial-role-makes-it-de-facto-kingmaker.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "Nvidia develops AI chips for China in latest bid to avoid US rules"
     excerpt: "Nvidia is preparing to launch the new chips just weeks after the US restricted sales in China of high-performance chips that can be used to create AI systems, in the Biden administration’s latest salvo in a tit-for-tat tech war between the two superpowers."
     publishedDateTime: 2023-11-09T12:39:00Z

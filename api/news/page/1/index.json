@@ -2,6 +2,142 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-10-five-ways-to-reduce-your-public-cloud-spend-with-ibm-turbonomic.md",
+      "title": "Five ways to reduce your public cloud spend with IBM Turbonomic",
+      "excerpt": "Public cloud computing is a must if your organization wants to scale quickly and meet the day-to-day, ever-changing demands of the business.\nThe post Five ways to reduce your public cloud spend with IBM Turbonomic appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/five-ways-to-reduce-your-public-cloud-spend-with-ibm-turbonomic/",
+      "originalUrl": "https://www.ibm.com/blog/five-ways-to-reduce-your-public-cloud-spend-with-ibm-turbonomic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-10-mom-of-14-year-old-victim-of-ai-generated-pornographic-image-demands-change.md",
+      "title": "Mom of 14-year old victim of AI-generated pornographic image demands change",
+      "excerpt": "A New Jersey high school mother said she's fighting to change laws surrounding AI images after a classmate generated a fake nude image of her daughter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/mom-14-year-old-victim-ai-generated-pornographic-image-demands-change",
+      "originalUrl": "https://www.foxnews.com/media/mom-14-year-old-victim-ai-generated-pornographic-image-demands-change",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/764de41f-8964-4fc7-a866-feeb64490c77/2974ea8a-af6f-4cc1-86e8-7b2e39b1e3af/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/mom-14-year-old-victim-ai-generated-pornographic-image-demands-change.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mom-14-year-old-victim-ai-generated-pornographic-image-demands-change.amp",
+      "publishedDateTime": "2023-11-10T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-10-air-india-becomes-worlds-first-airline-to-launch-virtual-ai-agent-called-maharaja.md",
+      "title": "Air India becomes world's first airline to launch virtual AI agent called 'Maharaja'",
+      "excerpt": "The Tata Group-owned airline is using ChatGPT to analyse even some complex questions it may not be able to immediately answer to improve customer experience in later interactions and is helping it to become more attuned to natural language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/business/news/air-india-generative-ai-virtual-agent-maharaja-microsoft-azure-openai-service-introduce-more-ai-features-to-address-customer-queries-2023-11-10-902160",
+      "originalUrl": "https://www.indiatvnews.com/business/news/air-india-generative-ai-virtual-agent-maharaja-microsoft-azure-openai-service-introduce-more-ai-features-to-address-customer-queries-2023-11-10-902160",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/11/air-india-1699603481.jpg",
+          "width": 360,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/business/news/air-india-generative-ai-virtual-agent-maharaja-microsoft-azure-openai-service-introduce-more-ai-features-to-address-customer-queries-2023-11-10-902160",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/business/news/air-india-generative-ai-virtual-agent-maharaja-microsoft-azure-openai-service-introduce-more-ai-features-to-address-customer-queries-2023-11-10-902160",
+      "publishedDateTime": "2023-11-10T00:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-10-scarlett-johansson-tackles-ai-in-legal-showdown-against-app-that-used-her-likeness-voice-in-ad.md",
       "title": "Scarlett Johansson tackles AI in legal showdown against app that used her likeness, voice in ad",
       "excerpt": "Scarlett Johansson is seeking legal action against an app that used her likeness and simulated voice without her permission.",
@@ -932,7 +1068,7 @@
       "originalUrl": "https://dunyanews.tv/en/Technology/769258-Nvidia-plans-to-release-three-new-chips-for-China-",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1057,160 +1193,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-a-cautionary-tale-of-the-friendly-robot-co-worker.md",
-      "title": "A Cautionary Tale Of The Friendly Robot Co-Worker",
-      "excerpt": "I believe it is prudent to think about several of the possibilities that uninhibited AI could have broadly, but in this article, I am going to focus on the workplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e38c9a3173937eb80c8def/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/amp/",
-      "publishedDateTime": "2023-11-09T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay.md",
-      "title": "The Permanence Of AI In Cybersecurity: Why This Trend Is Here To Stay",
-      "excerpt": "AI-powered technologies have emerged as a powerful force in enhancing various aspects of cybersecurity, offering innovative solutions to combat rising threats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f92ffb450c4342ded414515/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1575,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/amp/",
-      "publishedDateTime": "2023-11-09T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-can-ai-and-web3-coexist-its-something-agencies-should-consider.md",
-      "title": "Can AI And Web3 Coexist? It’s Something Agencies Should Consider",
-      "excerpt": "AI and Web3 remain exciting technologies, so it’s worth it for agencies to consider a world where both technologies coexist side by side.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/11/09/can-ai-and-web3-coexist-its-something-agencies-should-consider/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/11/09/can-ai-and-web3-coexist-its-something-agencies-should-consider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62b9d358b54b5849577a1f0b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/11/09/can-ai-and-web3-coexist-its-something-agencies-should-consider/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/11/09/can-ai-and-web3-coexist-its-something-agencies-should-consider/amp/",
-      "publishedDateTime": "2023-11-09T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

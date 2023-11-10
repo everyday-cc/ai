@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Samsung to add real-time translation to new smartphone model"
-excerpt: "SEOUL: Samsung Electronics will roll out a real-time call translation service using AI technology next year, the firm told AFP on Friday (Nov 10), claiming it would make conversing across languages as easy as \"turning on closed captions\". Samsung is among ..."
-publishedDateTime: 2023-11-10T08:43:00Z
-originalUrl: "https://www.channelnewsasia.com/world/samsung-add-real-time-translation-new-smartphone-model-3912201"
-webUrl: "https://www.channelnewsasia.com/world/samsung-add-real-time-translation-new-smartphone-model-3912201"
+title: "Samsung To Add Real-Time Translation To New Smartphone Model"
+excerpt: "Samsung Electronics will roll out a real-time call translation service using AI technology next year, the firm told AFP Friday, claiming it would ma"
+publishedDateTime: 2023-11-10T09:51:00Z
+originalUrl: "https://menafn.com/1107405741/Samsung-To-Add-Real-Time-Translation-To-New-Smartphone-Model"
+webUrl: "https://menafn.com/1107405741/Samsung-To-Add-Real-Time-Translation-To-New-Smartphone-Model"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--ngVmdvLP--/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/eceec2178f4dd1a73be86515be073afb926a5edd.jpg?itok=G4NWwgAu"
+  - url: "https://menafn.com/updates/pr/2023-11/10/KT_5340eimage_story.jpg"
     width: 1200
-    height: 676
+    height: 675
     isCached: true
 
 related:
@@ -120,6 +120,15 @@ related:
       name: Men's Journal
       domain: mensjournal.com
     quality: 19
+  - title: "Is Samsung Gauss AI the Death of Apple’s Tech Dominance?"
+    excerpt: "At the Samsung AI Forum 2023, the company announced the launch of a new generative AI model – Samsung Gauss. Here's all you need to know."
+    publishedDateTime: 2023-11-10T09:21:00Z
+    webUrl: "https://www.techopedia.com/samsung-gauss-everything-you-need-to-know"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 19
   - title: "Samsung to add real-time translation to smartphone model"
     excerpt: "The South Korean firm is rapidly advancing its generative AI model called Samsung Gauss, covering fields of language, code, and image. (Samsung pic) SEOUL: South Korean smartphone"
     publishedDateTime: 2023-11-10T05:50:00Z
@@ -130,6 +139,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 4
 
-secured: "HrDP8eXgLxeYhlFMAMJx01Japh4ArQQhPTvARdfSAzeP6FzrHR5D5bOnMCV8iu8Re4MEL9GgOV5G7LZEmQmYh3PyWY2jeIrN0CXGmU0Qg8P/PN6QIQ2M6gl5Qa/cE62v7zdve0PDqN3+qta6PECtFJJYJAjTUHMQHKt29k3Z8zexbmQcMWozCLSp8BSP9VofzK6Y247I2HH/t2gRL4L1GlcF1S5vTCU7eN/HVt2erqNdQz8zOeo8+BSyNj/YY7PNxQJVFl8Y2KyECZ8dQclvfJ7VVjqkQeVQM7D7GXP4wEypAYst57aX3+WWUbkJ6MtrqAiiNk8CKle7zify+E57gsnkU9DJ9LkDEh9jQ0OXExc=;zL73g/Pr145wZxYMLCsSCA=="
+secured: "xRXIU2Bwk9zaWD1OhLDLLm/umA/lwlqyDsDbJ9rI8gvdE56HBCpPk6jdlTk9JrSrH97ZtzY4DHv4jI4puUCJdbnPWRhvopsKa8nq+Hwc07CS2p5yfyXMuVqEjLLh2bCBbFNHY9krmVgVap6Ww313I/3XRdylAIln0Hw5rNtbKSVetTroqIfNaOTe/TLQjHXjRMeGkfLHc9CT0c1R7f6FBUgDyI4KcaTssFRDuVL7pmV7Skivknq+yb/OFQlc7sjkVdMN11ZF6VzsI+HPZF23rBszcwl9Z9Lh3W4QuOe7MuswH2A70Bcgb6TQ+6SUeQjDP01/wJqKZ3EVg3qx6FbRU6u1LqhtaP+Eq8Au/Cv38yE=;ipleG99qzT4MC+HTQXWJ0g=="
 ---
 

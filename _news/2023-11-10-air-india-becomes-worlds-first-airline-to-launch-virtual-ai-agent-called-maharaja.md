@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiatvnews.com/amp/business/news/air-india-generative-a
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/business/news/air-india-generative-ai-virtual-agent-maharaja-microsoft-azure-openai-service-introduce-more-ai-features-to-address-customer-queries-2023-11-10-902160"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: India TV
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI takes to the sky: Air India’s Maharaja gets an AI-enabled avatar, turns a virtual assistant"
+    excerpt: "Air India is set to become the first airline in the world to get an AI-enabled virtual assistant. In the beta phase which was launched in March 2023, the AI assistant has helped with over 6000 inquiries per day."
+    publishedDateTime: 2023-11-10T10:41:00Z
+    webUrl: "https://www.firstpost.com/tech/ai-takes-to-the-sky-air-indias-maharaja-gets-an-ai-enabled-avatar-turns-a-virtual-assistant-13374172.html"
+    ampWebUrl: "https://www.firstpost.com/tech/ai-takes-to-the-sky-air-indias-maharaja-gets-an-ai-enabled-avatar-turns-a-virtual-assistant-13374172.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/ai-takes-to-the-sky-air-indias-maharaja-gets-an-ai-enabled-avatar-turns-a-virtual-assistant-13374172.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 47
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/11/AI-takes-to-the-sky-Air-Indias-Maharaja-gets-an-AI-enabled-avatar-turns-a-virtual-assistant-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI gets AI: Air India becomes world's first airline to launch virtual AI agent called 'Maharaja'"
     excerpt: "Maharaja manages a wide range of customer queries across 1,300 areas, including flight status, baggage allowances"
     publishedDateTime: 2023-11-10T07:16:00Z

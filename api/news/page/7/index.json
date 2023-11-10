@@ -2,6 +2,126 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-11-03-sony-interactive-entertainment-acquires-deep-learning-company-isize.md",
+      "title": "Sony Interactive Entertainment acquires deep learning company iSIZE",
+      "excerpt": "Sony Interactive Entertainment has acquired iSIZE, a tech company that specializes in deep learning technology. Sony announced its acquisition of iSIZE in a post on the corporation’s website.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize",
+      "originalUrl": "https://www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/11/02/sony-interactive-isize_feature.png",
+          "width": 1919,
+          "height": 1054,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize?amphtml=1",
+      "publishedDateTime": "2023-11-02T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for-predicting-patient-response-to-immunotherapies.md",
+      "title": "GE HealthCare Announces New Data Validating Artificial Intelligence Models for Predicting Patient Response to Immunotherapies",
+      "excerpt": "New data supports the potential role of Artificial Intelligence (AI) in predicting patients’ response ... and clinicians to optimize and apply our AI models in therapy development and in clinical practice in a longer term,” said Julia Casey, General ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231101659257/en/GE-HealthCare-Announces-New-Data-Validating-Artificial-Intelligence-Models-for-Predicting-Patient-Response-to-Immunotherapies",
+      "originalUrl": "https://www.businesswire.com/news/home/20231101659257/en/GE-HealthCare-Announces-New-Data-Validating-Artificial-Intelligence-Models-for-Predicting-Patient-Response-to-Immunotherapies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-as-gaza-conflict-rages-online-maps-from-chinese-companies-are-missing-israels-name.md",
+      "title": "As Gaza conflict rages, online maps from Chinese companies are missing Israel’s name",
+      "excerpt": "Beijing has clarified that Israel remains marked on official maps issued by Chinese authorities after questions emerged over why the country’s name was not visible on online maps provided by two major Chinese companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/gaza-conflict-rages-online-maps-045613363.html?ref=biztoc.com",
+      "originalUrl": "https://www.aol.com/gaza-conflict-rages-online-maps-045613363.html?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_cnn_business_articles_764/7bc99f4354e15e90a476164c321ba960",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-02-elsa-introduces-nvidia-a800-40gb-active-gpu-with-hbm2-memory.md",
       "title": "Elsa Introduces NVIDIA A800 40GB Active GPU with HBM2 Memory",
       "excerpt": "Elsa has initiated the distribution of the \"NVIDIA A800 40GB Active\" AI GPU card, model EQRA800-40GER, boasting 40GB of HBM2 memory. The NVIDIA A800 40GB Active is powered by the NVIDIA Ampere ...",
@@ -546,6 +666,40 @@
       ]
     },
     {
+      "path": "_news/2023-11-01-adastra-signs-strategic-collaboration-agreement-with-aws-to-drive-ai-powered-solutions-globally.md",
+      "title": "Adastra Signs Strategic Collaboration Agreement with AWS to Drive AI-Powered Solutions Globally",
+      "excerpt": "Adastra, a leading global Data and Analytics solutions provider, announced today that it has signed a Strategic Collaboration Agreement (SCA) with Ama",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231101268759/en/Adastra-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Drive-AI-Powered-Solutions-Globally",
+      "originalUrl": "https://www.businesswire.com/news/home/20231101268759/en/Adastra-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Drive-AI-Powered-Solutions-Globally",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-01-amd-rises-as-ai-chip-sales-prediction-bodes-well-for-rivalry-with-nvidia.md",
       "title": "AMD Rises as AI Chip Sales Prediction Bodes Well for Rivalry With Nvidia",
       "excerpt": "CEO Lisa Su on Tuesday provided a 2024 sales forecast for the first time for the MI300 chips, designed to compete against the advanced H100 chips sold by Nvidia. She projected annual sales of more than $2 billion, and raised the chip's current-quarter revenue expectations by $100 million.",
@@ -806,49 +960,6 @@
       ]
     },
     {
-      "path": "_news/2023-11-01-adastra-signs-strategic-collaboration-agreement-with-aws-to-drive-ai-powered-solutions-globally.md",
-      "title": "Adastra Signs Strategic Collaboration Agreement with AWS to Drive AI-Powered Solutions Globally",
-      "excerpt": "Adastra, a leading global Data and Analytics solutions provider, announced today that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to advance the development and deployment of cutting-edge artificial intelligence (AI) solutions by leveraging generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/adastra-signs-strategic-collaboration-agreement-with-aws-to-drive-ai-powered-solutions-globally/article_b1c3f178-9bdb-5abf-81aa-0e7997775f28.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/adastra-signs-strategic-collaboration-agreement-with-aws-to-drive-ai-powered-solutions-globally/article_b1c3f178-9bdb-5abf-81aa-0e7997775f28.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-01-ai-safety-use-cases-how-generative-ai-is-distorting-human-sentiment.md",
       "title": "AI safety use cases - how generative AI is distorting human sentiment",
       "excerpt": "It used to be said that the big problem with AI is its ‘hallucinations’ when supporting data is absent. But it turns out that there is a bigger one: generative AI is removing human sentiment and context without us even knowing.",
@@ -923,139 +1034,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-shutterstocks-growth-dilemma-declining-ecommerce-business-amid-flourishing-computer-vision-partnerships.md",
-      "title": "Shutterstock’s Growth Dilemma: Declining eCommerce Business Amid Flourishing Computer Vision Partnerships",
-      "excerpt": "In a report released today, Lauren Schenk from Morgan Stanley assigned a Hold rating on Shutterstock (SSTK – Research Report), with a",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-s-growth-dilemma-declining-ecommerce-business-amid-flourishing-computer-vision-partnerships-1032767604",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-s-growth-dilemma-declining-ecommerce-business-amid-flourishing-computer-vision-partnerships-1032767604",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus.md",
-      "title": "AMD slides as muted outlook clouds Q3 earnings beat with AI chip launch in focus",
-      "excerpt": "AMD said its new data center chips, expected to challenge Nvidia's AI market dominance, could net more than $2 billion in sales next year.",
-      "sourceUrl": null,
-      "webUrl": "https://tylerpaper.com/arena/thestreet/amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus/article_673c8021-8498-5e88-996d-b1bc14455829.html",
-      "originalUrl": "https://tylerpaper.com/arena/thestreet/amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus/article_673c8021-8498-5e88-996d-b1bc14455829.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/f/65/f65b182f-761c-5ba9-b6b1-0753f1aebe6e/6542315bc1c9a.image.jpg?resize=1024%2C576",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tylerpaper.com/arena/thestreet/amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus/article_673c8021-8498-5e88-996d-b1bc14455829.amp.html",
-      "cdnAmpWebUrl": "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/arena/thestreet/amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus/article_673c8021-8498-5e88-996d-b1bc14455829.amp.html",
-      "publishedDateTime": "2023-11-01T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tyler Morning Telegraph",
-        "domain": "tylerpaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-exploring-the-best-artificial-intelligence-books-a-comprehensive-guide.md",
-      "title": "Exploring the Best Artificial Intelligence Books: A Comprehensive Guide",
-      "excerpt": "Artificial intelligence, the buzzword of the 21st century, has permeated every aspect of our lives. From virtual assistants to self-driving cars, AI is revolutionizing industries and reshaping our future.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/exploring-the-best-artificial-intelligence-books-a-comprehensive-guide/",
-      "originalUrl": "https://techbullion.com/exploring-the-best-artificial-intelligence-books-a-comprehensive-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/11/AI-Book-Shelf.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

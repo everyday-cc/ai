@@ -105,19 +105,19 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Samsung to add real-time translation to new smartphone model"
-    excerpt: "SEOUL: Samsung Electronics will roll out a real-time call translation service using AI technology next year, the firm told AFP on Friday (Nov 10), claiming it would make conversing across languages as easy as \"turning on closed captions\". Samsung is among ..."
-    publishedDateTime: 2023-11-10T08:43:00Z
-    webUrl: "https://www.channelnewsasia.com/world/samsung-add-real-time-translation-new-smartphone-model-3912201"
+  - title: "Samsung To Add Real-Time Translation To New Smartphone Model"
+    excerpt: "Samsung Electronics will roll out a real-time call translation service using AI technology next year, the firm told AFP Friday, claiming it would ma"
+    publishedDateTime: 2023-11-10T09:51:00Z
+    webUrl: "https://menafn.com/1107405741/Samsung-To-Add-Real-Time-Translation-To-New-Smartphone-Model"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
+      name: Mena FN
+      domain: menafn.com
     quality: 24
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--ngVmdvLP--/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/eceec2178f4dd1a73be86515be073afb926a5edd.jpg?itok=G4NWwgAu"
+      - url: "https://menafn.com/updates/pr/2023-11/10/KT_5340eimage_story.jpg"
         width: 1200
-        height: 676
+        height: 675
         isCached: true
   - title: "Samsung Gauss AI Unveiled: A Revolution Set to Power Galaxy S24"
     excerpt: "Samsung's recent announcement of its proprietary AI technology, Samsung Gauss, signals a new horizon in consumer-focused artificial intelligence. This"
@@ -127,6 +127,15 @@ related:
     provider:
       name: Men's Journal
       domain: mensjournal.com
+    quality: 19
+  - title: "Is Samsung Gauss AI the Death of Apple’s Tech Dominance?"
+    excerpt: "At the Samsung AI Forum 2023, the company announced the launch of a new generative AI model – Samsung Gauss. Here's all you need to know."
+    publishedDateTime: 2023-11-10T09:21:00Z
+    webUrl: "https://www.techopedia.com/samsung-gauss-everything-you-need-to-know"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
     quality: 19
 
 secured: "mQXa6Kv4Y3iP2IFyk5Bv8RnZDLiYNE0B3tPM/wRSsWPAt/v5bqoMvK64HO7vit92BocoHWkVQm3sGaIJOciTaxsUskHkJFFiyHPdwbRkg48JMVQBWGpAYR82XcsEH+BpDtHai/wMtSo5wakcfJT+qjIwhThEzPIsdsrqFO0kGEKXLzJkOt5uXV6wv24dT9mdTBEyrCTWTudCWrLdNmCHXuiNdjDzjnfd6zfEZmp12Mxj28NYRYR1rOI9qO/XhdVH5BSpE2XGgZvOHemRnfHHUFVvrvpbMxdP+ihc023RPalyzYAUWvuuaLQJvdIEuWW+/PojCVhYLzpeb3SNtMeQU/Wo9IJf2iU41jSKsz80CdvaZTrzA5vkCa7KGhWbjqn+Rwq8M1DRmS7F+ZUcFio58MSqZI35HfoRCbd6ZY/hchkVli1EikOjDDqBtjy5rV8m6aZ8g8pMxwP5xN/7ItIv3w5ILzg8De/bj04A690/uG1/GDpgDzEzAGt696u5Q7j3she9EkIBjWZKQKhv7onJHQ==;57aHGo+V4w4X54HSo1USKg=="

@@ -29,9 +29,9 @@ images:
 
 related:
   - title: "AI will complement Hollywood, says CEO of Google-backed video AI startup"
-    excerpt: "In Hollywood, fears about AI have been widespread among striking actors and writers. But the alarm may be misplaced. \"It's important to understand that technology always augments humans, and the story of Hollywood has been marred by moments like this ..."
-    publishedDateTime: 2023-11-08T17:38:00Z
-    webUrl: "https://www.aol.com/ai-may-change-hollywood-better-172021339.html"
+    excerpt: "\"It's important to understand that technology always augments humans, and the story of Hollywood has been marred by moments like this before,\" Cristóbal Valenzuela, CEO of AI video company Runway, said at the Yahoo Finance Invest conference on Tuesday."
+    publishedDateTime: 2023-11-08T19:19:00Z
+    webUrl: "https://www.aol.com/finance/ai-may-change-hollywood-better-172021339.html"
     type: article
     provider:
       name: AOL

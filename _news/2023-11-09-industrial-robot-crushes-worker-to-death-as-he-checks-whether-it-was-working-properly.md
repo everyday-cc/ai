@@ -75,16 +75,16 @@ related:
         isCached: true
   - title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
     excerpt: "The incident triggered public concern about the safety of industrial robots and the false sense of security they may give to humans working nearby."
-    publishedDateTime: 2023-11-09T21:00:00Z
-    webUrl: "https://omaha.com/news/nation-world/science/industrial-robot-crushes-worker-to-death-at-south-korea-plant/article_fe74ba82-e668-5fb6-b1e1-eb67fc599792.html"
+    publishedDateTime: 2023-11-09T22:00:00Z
+    webUrl: "https://tucson.com/news/nation-world/science/industrial-robot-crushes-worker-to-death-at-south-korea-plant/article_b34b275a-d021-5217-9776-a088660e2969.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: Arizona Daily Star
+      domain: tucson.com
     quality: 30
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/e7/fe74ba82-e668-5fb6-b1e1-eb67fc599792/654d53928eb6e.preview.jpg?crop=1418%2C744%2C6%2C56&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/b/34/b34b275a-d021-5217-9776-a088660e2969/654d539323516.preview.jpg?crop=1418%2C798%2C6%2C30&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
         height: 630
         isCached: true
   - title: "Industrial Robot Crushed Worker to Death at Vegetable Packing Plant in South Korea"
