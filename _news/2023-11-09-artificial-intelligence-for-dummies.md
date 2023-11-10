@@ -7,7 +7,7 @@ originalUrl: "https://www.theportugalnews.com/news/2023-11-09/artificial-intelli
 webUrl: "https://www.theportugalnews.com/news/2023-11-09/artificial-intelligence-for-dummies/83077"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -26,20 +26,18 @@ images:
 
 related:
   - title: "Artificial intelligence for dummies"
-    excerpt: "I’m sorry that I didn’t get my article on artificial intelligence in last week during the “AI Safety Summit” at Bletchley Park, the historic Second World War decoding centre in"
-    publishedDateTime: 2023-11-10T00:29:00Z
-    webUrl: "https://trinidadexpress.com/opinion/columnists/artificial-intelligence-for-dummies/article_3d858c54-7f60-11ee-aaf4-673d3c78cb14.html"
-    ampWebUrl: "https://trinidadexpress.com/opinion/columnists/artificial-intelligence-for-dummies/article_3d858c54-7f60-11ee-aaf4-673d3c78cb14.amp.html"
-    cdnAmpWebUrl: "https://trinidadexpress-com.cdn.ampproject.org/c/s/trinidadexpress.com/opinion/columnists/artificial-intelligence-for-dummies/article_3d858c54-7f60-11ee-aaf4-673d3c78cb14.amp.html"
+    excerpt: "I’m sorry that I didn’t get my article on Artificial Intelligence in last week during the “AI Safety Summit” at Bletchley Park, the historic Second World War decoding center in"
+    publishedDateTime: 2023-11-10T12:30:00Z
+    webUrl: "https://www.thenassauguardian.com/opinion/columnists/artificial-intelligence-for-dummies/article_f01cb482-7fba-11ee-bb0b-57f4b6ddf4c2.html"
     type: article
     provider:
-      name: Trinidad Express Newspapers
-      domain: trinidadexpress.com
-    quality: 59
+      name: The Nassau Guardian
+      domain: thenassauguardian.com
+    quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/trinidadexpress.com/content/tncms/assets/v3/editorial/8/75/875eba2e-2653-11e8-bfd3-6732d476ec07/5aa718029bace.image.jpg"
-        width: 768
-        height: 512
+      - url: "https://bloximages.chicago2.vip.townnews.com/thenassauguardian.com/content/tncms/custom/image/c51c4f24-40ed-11ee-8535-17d46cbd4acf.png?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "JBm4FMXCQ8/+OYEMy9e1de5JC4m+H7KR79i4R4R/MdnqWnq3j8cHfi1/YP8HLfBv1IyR/NVGZlWDjZtslb9aGt7sFDPf9nBPbS1OuEmfI2bxXgsCn2sLY1ofTnfXullcT1heSskArhpyeiX7Th1jZVu6utcGBGZvUtLk0j8DnS9dp8P5PSg0zdJQK6nVK5oXLJA3JdJ22eop4fJl6WZZfcWVFEnXVIGAjiWAV50MwogQdZTM/NAxkc75tRTAeUo2ktidOSAQGfPr+rXyke5LS2i7P6RFtHRyHGR+r805yghH3OOBOUn1A5dqzgS/RpQDMU0znra2BsF6CGepS6wvGWANa2B/0YxUmhfNimelKdhlEXFZIUsxqYf287LyqS2ycPWbtJBmi9xJLfV3pcD4QtIj8cffOUFvEt1c+4YF4JQiWUxEQ8et0PoxTz7ddRTCiQNcUO54szUBh8mI1ZmrcA5tCbx2X6EaOnAmR9MyyKz0ODeeZmMt5/jROI/lxiN4U8jcy3vCNU4noBO5kset0w==;cK1bGCdXWd/o9z0wP+IG1w=="

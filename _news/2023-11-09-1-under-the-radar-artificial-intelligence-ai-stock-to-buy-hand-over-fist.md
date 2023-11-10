@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NOW/press
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NOW/pressreleases/21783086/"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 Reasons Amazon Is Still a Top Artificial Intelligence (AI) Stock to Buy Right Now"
+    excerpt: "In the third quarter, operating income soared by almost 350% year over year to $11.2 billion, largely based on better e-commerce margins. While the company's shares are still richly valued at around 40 times forward earnings, future margin improvements and AI-driven growth can help justify the price tag and make the stock look like a long-term buy."
+    publishedDateTime: 2023-11-09T13:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-reasons-amazon-is-still-a-top-artificial-intelligence-ai-stock-to-buy-right-now"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 56
   - title: "3 Reasons Amazon Is Still a Top Artificial Intelligence (AI) Stock to Buy Right Now"
     excerpt: "Amazon is using this strategy to incorporate artificial intelligence into many aspects of its operations. On the retail side, the company is working on an initiative called Project Nile, which will revamp its e-commerce platform with generative AI ..."
     publishedDateTime: 2023-11-09T18:51:00Z

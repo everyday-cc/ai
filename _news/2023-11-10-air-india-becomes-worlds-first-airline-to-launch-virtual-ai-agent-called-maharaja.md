@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiatvnews.com/amp/business/news/air-india-generative-a
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/business/news/air-india-generative-ai-virtual-agent-maharaja-microsoft-azure-openai-service-introduce-more-ai-features-to-address-customer-queries-2023-11-10-902160"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: India TV
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Air India becomes world's first airline to adopt AI virtual agent 'Maharaja'"
+    excerpt: "Air India has become the first airline to deploy a generative AI virtual agent named 'Maharaja', which can answer 6,000 queries in four languages per"
+    publishedDateTime: 2023-11-10T11:14:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/articleshow/105124807.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/amp_articleshow/105124807.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/amp_articleshow/105124807.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 56
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-105124767,width-1280,height-720,resizemode-4/105124767.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI takes to the sky: Air India’s Maharaja gets an AI-enabled avatar, turns a virtual assistant"
     excerpt: "Air India is set to become the first airline in the world to get an AI-enabled virtual assistant. In the beta phase which was launched in March 2023, the AI assistant has helped with over 6000 inquiries per day."
     publishedDateTime: 2023-11-10T10:41:00Z

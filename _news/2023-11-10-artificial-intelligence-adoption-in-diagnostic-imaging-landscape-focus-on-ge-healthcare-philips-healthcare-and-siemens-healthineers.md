@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2023/11/09/9915364.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/11/09/9915364.htm"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,36 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Unlocking Health and Wealth: BLiV Pioneers Preventive Healthcare Revolution in the Crypto Hub of the World"
+    excerpt: "BLiV.io, the Web3 Live2Earn AI-Powered Preventive Healthcare platform crafted by the visionary minds at GoObat Pharma.Dubai, United Arab"
+    publishedDateTime: 2023-11-10T11:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/unlocking-health-and-wealth-bliv-pioneers-preventive-healthcare-revolution-in-the-crypto-hub-of-the-world-1032806360"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://lh7-us.googleusercontent.com/_LmxTYG5r_0jlN5miO4rA8fwozhJj3p5qRCmdVCS9hFuA0CXhOYhq0MxKqYcUASQt2juaUyCe5iDLY78ZpLnh1E9S8NMbdBkrWjDWam00WSA5bjRJY4KZfYyk9h9oyXAT2F2YeZrAis0TYCBPnNouio"
+        width: 1600
+        height: 1066
+        isCached: true
+  - title: "HealthTech Revolution: Impact of 2024 Technology Trends on Healthcare"
+    excerpt: "Introduction The healthcare industry has undergone a remarkable transformation, thanks to the rapid advancements in technology. With each passing day, innovative technologies are revolutionizing the way healthcare services are delivered,"
+    publishedDateTime: 2023-11-06T22:55:00Z
+    webUrl: "https://techbullion.com/healthtech-revolution-impact-of-2024-technology-trends-on-healthcare/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/HealthTech-Revolution-Impact-of-2024-Technology-Trends-on-Healthcare.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "JHNLz1E1i9d1lg0f7Ct3Dq+0CmHua0+fO3Hyzdv4BIzHstLsuL3iMzuNk6fcPUxTv8/sQywx6O1zfVrVtkrqPVgvKRIcyc5p1JeOXdy40vU9sfy1fgB5+Bp1C/X3139Yej+H0UXquYiQmY+iu3zirzMeVsbs6NRsOZ4zf44XhGqMIp6RqRb8nVjZHTeQIE4x7WYB3ly9w8kEhkwOdZs2OHf9ZtsU8skpH6k2laauFb5W8Ye16RpRivWlKIxtYx2eFJ+HmWJsYyedXUGE9HgmAY5+wJInW4srrO0Txlv2Lt5F4j6e/AiG09L2GZbom24Z7sQJ0/RxB0EsX5gz/vKZGPL/ROaaEHA3L3ZUZH1DdIg=;2Bp2gtvyt4KV7jQkuO7L/Q=="
 ---

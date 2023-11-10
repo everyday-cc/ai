@@ -231,15 +231,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
-  - title: "BIZCLIK LAUNCHES NOVEMBER EDITION OF FINTECH MAGAZINE"
-    excerpt: "The November edition of FinTech Magazine includes interviews with leading experts and executives from Fujitsu, Virgin Media, and more. LONDON, Nov. 7, 2023 /PRNewswire/ -- BizClik"
-    publishedDateTime: 2023-11-07T17:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/07/9913140.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "Fintech Awards Wales Exclusive Interview: Chandan Chowdhury, Head of Diversification Technology UK, Admiral Group"
     excerpt: "In the wake of the 2023 Fintech Awards Wales, Matt Hyde, Director of Recruit121 and the Fintech Awards Wales, engages in exclusive interviews with the"
     publishedDateTime: 2023-11-07T05:47:00Z

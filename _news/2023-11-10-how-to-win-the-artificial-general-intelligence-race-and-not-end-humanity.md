@@ -33,7 +33,7 @@ related:
     provider:
       name: Arizona State Press
       domain: statepress.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://snworksceo.imgix.net/asp/e8208765-1cc7-49a3-b770-df90cddb9ed3.sized-1000x1000.png?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces"
         width: 1600

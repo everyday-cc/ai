@@ -155,15 +155,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Start Learning AI and ChatGPT with Python for Only $30"
-    excerpt: "Developing Python skills can be a quick way to start learning artificial intelligence and ChatGPT, and according to a Goldman Sachs report, 300 million jobs could be replaced by AI in the next ten years. The 2023 Ultimate AI ChatGPT & Python Programming ..."
-    publishedDateTime: 2023-11-05T19:56:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/start-learning-ai-and-chatgpt-with-python-for-only-30/464817"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
   - title: "OpenAI unveils personalized AI apps as it seeks to expand its ChatGPT consumer business"
     excerpt: "OpenAI CEO Sam Altman shared the updates at the AI lab’s first developer conference, which attracted 900 developers from around the world and marked the company’s latest attempt to capitalize on the popularity of ChatGPT by offering incentives to build in its ecosystem."
     publishedDateTime: 2023-11-06T23:06:00Z
@@ -279,15 +270,15 @@ related:
         isCached: true
   - title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
     excerpt: "Musk, who helped start OpenAI before parting ways with the company, launched a new venture this year called xAI to set his own mark on the pace of AI development. Grok is only available to a limited number of early users but promises to answer “spicy ..."
-    publishedDateTime: 2023-11-09T04:37:00Z
-    webUrl: "https://tulsaworld.com/news/nation-world/government-politics/article_8fb7292d-70e6-55fe-8f44-0d5db2b2c175.html"
+    publishedDateTime: 2023-11-08T20:45:00Z
+    webUrl: "https://omaha.com/article_1546c0bb-8339-57fe-8cf4-e9cf7929783e.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 23
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/0/20/020a9902-f940-5a8e-9452-0b9c17da7ed3/654bd69c05ba4.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/2/76/2761111b-564d-59a8-adc2-819f6659bb47/654bd69be4743.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

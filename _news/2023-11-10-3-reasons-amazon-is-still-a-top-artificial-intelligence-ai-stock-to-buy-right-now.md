@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 Reasons Amazon Is Still a Top Artificial Intelligence (AI) Stock to Buy Right Now"
+    excerpt: "In the third quarter, operating income soared by almost 350% year over year to $11.2 billion, largely based on better e-commerce margins. While the company's shares are still richly valued at around 40 times forward earnings, future margin improvements and AI-driven growth can help justify the price tag and make the stock look like a long-term buy."
+    publishedDateTime: 2023-11-09T13:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-reasons-amazon-is-still-a-top-artificial-intelligence-ai-stock-to-buy-right-now"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 56
   - title: "1 Under-the-Radar Artificial Intelligence (AI) Stock to Buy Hand Over Fist"
     excerpt: "One of the lesser-known enterprise technology companies benefiting from artificial intelligence (AI) is ServiceNow(NYSE: NOW). The company specializes in business process automation across a variety of IT services. Bill McDermott became CEO of ServiceNow ..."
     publishedDateTime: 2023-11-09T08:54:00Z

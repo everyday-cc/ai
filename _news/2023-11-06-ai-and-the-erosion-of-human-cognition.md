@@ -78,15 +78,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Global leaders scramble to regulate the future of AI"
-    excerpt: "AI is now an issue of global import. Why the next few years will be crucial to balancing its promise with ethical and societal safeguards."
-    publishedDateTime: 2023-11-05T20:47:00Z
-    webUrl: "https://venturebeat.com/ai/global-leaders-scramble-to-regulate-the-future-of-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
   - title: "My North Star for the Future of AI"
     excerpt: "I’d seen the consequences of that over and over: brilliant technologists who could build just about anything but who stared blankly when the question of the ethics of their work was broached. The time has come to reevaluate the way AI is taught at every ..."
     publishedDateTime: 2023-11-07T13:24:00Z

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Air India becomes world's first airline to adopt AI virtual agent 'Maharaja'"
+    excerpt: "Air India has become the first airline to deploy a generative AI virtual agent named 'Maharaja', which can answer 6,000 queries in four languages per"
+    publishedDateTime: 2023-11-10T11:14:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/articleshow/105124807.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/amp_articleshow/105124807.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/amp_articleshow/105124807.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 56
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-105124767,width-1280,height-720,resizemode-4/105124767.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Air India becomes world's first airline to launch virtual AI agent called 'Maharaja'"
     excerpt: "The Tata Group-owned airline is using ChatGPT to analyse even some complex questions it may not be able to immediately answer to improve customer experience in later interactions and is helping it to become more attuned to natural language."
     publishedDateTime: 2023-11-10T08:32:00Z

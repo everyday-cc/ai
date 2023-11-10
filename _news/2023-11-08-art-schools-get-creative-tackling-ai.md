@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is using creatives' work, voices and images"
+    excerpt: "Since their inception, creative unions have fought to protect their members work from being copied and passed off without permission and to ensure they are properly paid. But, Artificial Intelligence (AI) is creating a tidal wave of copyright infringements."
+    publishedDateTime: 2023-11-10T12:22:00Z
+    webUrl: "https://www.tuc.org.uk/blogs/how-ai-using-creatives-work-voices-and-images"
+    type: article
+    provider:
+      name: tuc.org.uk
+      domain: tuc.org.uk
+    quality: 39
+    images:
+      - url: "https://www.tuc.org.uk/sites/default/files/TUC_secondary_logo_0.jpg"
+        width: 1500
+        height: 788
+        isCached: true
   - title: "Broken Arrow Public Schools Discusses Using Artificial Intelligence in Schools"
     excerpt: "Broken Arrow Public Schools says it's using Artificial Intelligence for good for both teachers and students. Artificial Intelligence is being used more and more inside schools. Broken Arrow Public Schools says it's using Artificial Intelligence for good for both teachers and students."
     publishedDateTime: 2023-11-09T00:27:00Z

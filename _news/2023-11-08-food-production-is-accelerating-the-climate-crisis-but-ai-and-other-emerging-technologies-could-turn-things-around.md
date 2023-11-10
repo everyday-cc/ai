@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-emerging-tech-transforming-food-p
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-emerging-tech-transforming-food-production-2023-11?amp"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/11/Internet-of-things.jpg"
         width: 466
         height: 311
+        isCached: true
+  - title: "How teachers are utilizing, even embracing, AI in the classroom"
+    excerpt: "Artificial intelligence has drawn a lot of attention lately. Between lawsuits and new legislation, there's no doubt a lot of questions surrounding the new technology. But some teachers are using it to their advantage."
+    publishedDateTime: 2023-11-10T12:23:00Z
+    webUrl: "https://www.cbsnews.com/minnesota/video/how-teachers-are-utilizing-even-embracing-ai-in-the-classroom/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/10/9571eaa0-3016-4b53-a77b-3b8495df4653/thumbnail/1200x630/94227da61adc6883153f17c0d4294f98/821d122d16cf36f03f83d406756a6186.jpg?v=8afad5e29ac9a704fff9d98ba34d3649"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "wo84r9SHMGln3Sw3WMoc8bVWBGTw6Gt/w8tLGvzjVr4a9zJOBzirEkZok/woRCIzzIgqEMhW4pJpXpCwKqZHKCKzD1Irb03VeUOAhSLpLhlmPWlmhLNXKdVK/LI1R5xb2jFvpJnonSSHo9UlcIfM13BNrHbW/D7QGcnuARThUVc/HxL/z/7qU/uJ9I9Q9jEaha6ZDxjfJOYx1PQBARKjOKyUW1YUt3x2RqPYbOoamHIKEjvKyAOFnLoWS/4RVQj1EjZfhMqu0xo2/H8ANZ/wJlqH7s5R+ibSF11YRcOPiK4WIvOvltdpaUX4DN0RUeRlsG5aEit5qq8v1kBZm550poPXrKKbtFicvlRuANgW8Xgwqj6Pq442V8cDBgABaTdVNUMok7TyZVGRe7JY4si/k9KjzcP7O0SDhTB89hvjT9JFCkBk3g5f0s73U+V4G22ieAgcRkAWvEfNPnHqSdeVPnQjl4OSgfbcblmUXtYTEzh7e+FtBN0PhmVKj05jVlUd5gtEto7jYaJ0PmPsorx0Og==;5GqmNuzsM7Ube53vaRpfRg=="

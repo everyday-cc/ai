@@ -222,15 +222,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
-  - title: "BIZCLIK LAUNCHES NOVEMBER EDITION OF FINTECH MAGAZINE"
-    excerpt: "The November edition of FinTech Magazine includes interviews with leading experts and executives from Fujitsu, Virgin Media, and more. LONDON, Nov. 7, 2023 /PRNewswire/ -- BizClik"
-    publishedDateTime: 2023-11-07T17:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/07/9913140.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "FinTech LIVE London: Day one highlights and recap"
     excerpt: "It's the end of a busy day at FinTech LIVE London. Join us for a look back on the best bits and check out our highlights package!"
     publishedDateTime: 2023-11-09T13:40:00Z

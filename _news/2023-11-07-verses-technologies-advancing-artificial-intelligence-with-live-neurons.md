@@ -56,6 +56,20 @@ related:
         width: 466
         height: 311
         isCached: true
+  - title: "How teachers are utilizing, even embracing, AI in the classroom"
+    excerpt: "Artificial intelligence has drawn a lot of attention lately. Between lawsuits and new legislation, there's no doubt a lot of questions surrounding the new technology. But some teachers are using it to their advantage."
+    publishedDateTime: 2023-11-10T12:23:00Z
+    webUrl: "https://www.cbsnews.com/minnesota/video/how-teachers-are-utilizing-even-embracing-ai-in-the-classroom/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/10/9571eaa0-3016-4b53-a77b-3b8495df4653/thumbnail/1200x630/94227da61adc6883153f17c0d4294f98/821d122d16cf36f03f83d406756a6186.jpg?v=8afad5e29ac9a704fff9d98ba34d3649"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "PvwUXNTd/RGW5m+zMAfX6Uc1p3KoLXHuqW5nawHbkp9c80PWOP9dFjiBJeMbVq+/ak5HwWxctFDCFRcD8Ktv42Z3kvOHJyR2jdX4PjegOi18YGUDqmotCXuhcirj22x+KbyRd5qs1e48MOlVeiUJHbiXF/OwXRaL+ShdlO67nE5WlIVvP0cGLJBEHCi4btYV2bAd2QkgskxG5jFBduMPGFzFIfBBDW5C8Pfi1idxqfZQQowQo9+vDBC4i4p4HV7+j43iYdm5bkiv1AxwjDz14DKtqZLzvQ+mkMNaTr98ugSQmcwfRJpXuo7jI444ohLqwe/cU3YjtgQJB6T7AOUDn8RrjQ7vSPb4TiXveXb6XzRZ83m0hFGCL+3lb2QMZ33Br6VNNKMluFuiv2ZTQdMBWov8vVoqOw/kEXRdSHpfEhQz21RvvmnYfpMJ+r/ZerdAJExc6sD4m18PuYJiWZxa/KVpRuu5x/rSsfnlQzXvh1U5qJIEmYiU5v+PuMIcAsXHCIJ+ftNJiPkVnFVkxkJpNg==;6/oVHuyWeC1KB/gBFYMBZQ=="
 ---

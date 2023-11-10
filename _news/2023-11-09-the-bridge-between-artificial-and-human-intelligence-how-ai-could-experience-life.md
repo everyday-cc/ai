@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-09T03:20:00Z
 originalUrl: "https://www.statepress.com/article/2023/11/the-potential-for-ai-and-human-intelligence"
 webUrl: "https://www.statepress.com/article/2023/11/the-potential-for-ai-and-human-intelligence"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - AI in Robotics
   - AI in Autos
+  - Facebook AI
 
 images:
   - url: "https://snworksceo.imgix.net/asp/e8208765-1cc7-49a3-b770-df90cddb9ed3.sized-1000x1000.png?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces"

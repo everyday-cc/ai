@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Cruise recalls 950 self-driving vehicles over software glitch"
+    excerpt: "Less than two weeks after suspending self-driving car operations in Austin and across the country, General Motors-owned Cruise LLC is recalling 950 vehicles because of a software problem."
+    publishedDateTime: 2023-11-10T12:41:00Z
+    webUrl: "https://www.houstonpublicmedia.org/articles/news/transportation/2023/11/10/469138/cruise-recalls-950-self-driving-vehicles-over-software-glitch/"
+    ampWebUrl: "https://www.houstonpublicmedia.org/articles/news/transportation/2023/11/10/469138/cruise-recalls-950-self-driving-vehicles-over-software-glitch/?amp=1"
+    cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/transportation/2023/11/10/469138/cruise-recalls-950-self-driving-vehicles-over-software-glitch/?amp=1"
+    type: article
+    provider:
+      name: Houston Public Media
+      domain: houstonpublicmedia.org
+    quality: 44
+    images:
+      - url: "https://cdn.houstonpublicmedia.org/wp-content/uploads/2023/09/29103932/Cruise_Car_fleet-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "GM’s recalls all self-driving Cruise cars after pedestrian was dragged in San Francisco"
     excerpt: "In documents filed with NHTSA, Cruise said its automated driving system was designed in some cases to pull over and out of traffic to minimize safety risks and disruption after a crash, with the response dependent on the characteristics of the crash."
     publishedDateTime: 2023-11-08T20:09:00Z
@@ -93,15 +109,6 @@ related:
     provider:
       name: Road & Track
       domain: roadandtrack.com
-    quality: 4
-  - title: "Cruise recalls 950 self-driving vehicles over software glitch"
-    excerpt: "Less than two weeks after suspending self-driving car operations in Austin and across the country, General Motors-owned Cruise LLC is recalling 950 vehicles because of a software problem."
-    publishedDateTime: 2023-11-09T19:49:00Z
-    webUrl: "https://www.texasstandard.org/stories/cruise-recalls-950-self-driving-vehicles-over-software-glitch/"
-    type: article
-    provider:
-      name: Texas Standard
-      domain: texasstandard.org
     quality: 4
 
 secured: "XOyy4cBkhWa9UvD9k8KZyp6c8Zx//Sf3TeWHUuUseYHo382XHjBbptY79OWkRXwCHj2ZUzBBOIXhhTA6jhUPn63lqgQyN518SzVslFm8u2cnazUFwN9QQN7N+trUgPVG5d/vC1WaUaNOH7Qvps9Qzn7KkljWKJtvf/3K5A2HiUREw45SgBWwLtwbh1JlRQ7bAE9hstw2FnFX2doxFHJCpm/oztGEwxF30xsRqDfBdOEsdlSyh1oxGcgNsMYXNGFt7H8EMpg4tY6QIEHMd9J037JTc2rI0Q86G1LaqiYXKMF8iVQ6WdWVp28RayM3zVyfCQODBR1SSgJIK42Cm121GT8fMQzD+Kg5wXwjcLo44A8=;YhF4EAeOS9dvLqzW5SyUOQ=="

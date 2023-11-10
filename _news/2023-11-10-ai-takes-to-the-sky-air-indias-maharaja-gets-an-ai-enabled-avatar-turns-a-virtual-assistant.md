@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Air India becomes world's first airline to adopt AI virtual agent 'Maharaja'"
+    excerpt: "Air India has become the first airline to deploy a generative AI virtual agent named 'Maharaja', which can answer 6,000 queries in four languages per"
+    publishedDateTime: 2023-11-10T11:14:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/articleshow/105124807.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/amp_articleshow/105124807.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/amp_articleshow/105124807.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 56
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-105124767,width-1280,height-720,resizemode-4/105124767.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Air India becomes world's first airline to launch virtual AI agent called 'Maharaja'"
     excerpt: "The Tata Group-owned airline is using ChatGPT to analyse even some complex questions it may not be able to immediately answer to improve customer experience in later interactions and is helping it to become more attuned to natural language."
     publishedDateTime: 2023-11-10T08:32:00Z
@@ -60,6 +76,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Tipg4ADcuHQKzFqya++qFJpNqZrzd4jNn3PRiWggK9aoY6mVnXYOYlAqU1X9NMcEOhqEGBTuvh05hzkCMm/l+LMHZnDOuYkjlHWAorPTsiXCBtiRqNWqIG0pwiTvuuHk/5mTvaEMB0sAWHDYuTziW8IuTEMdf1MdQy2xXTBQsS0aKPj5XGgw8mSZ6/JaRKuQgX4AHoGdCDqBFT+jFPUn2AmLPKV3vrr7yzARP/QSf7kVouPBszwaNNRvuSRQeqCivaZRPdaap4vTJwMqnNzbvDlMfekUe5+5AWaymLMPIWef7JMOuijYDFTjbA2qfM/mnR0AGiUbPbp0lEAJPfsQPfhMRXQwL9IrG131jc/tA7c=;olwtrQXE5EFKAE7uM9CnKw=="
+secured: "LQPIfAkpT8en9AivQTMtWzbwOXRpRk9FKf6BD+ws5b7nLyJO/zqYD2ZmSCV+eeMOOvKQ1zj6Wec7iHsnG6+8NIEIHLBqXBviEkOwEKsXyNP24P6AeiYM3mALjUQ46F7cDMHb5ZhEC7gXCd2BD1oLVUAIGwO7Fi8J1hZz5llb+rCd/9VWXwPPW5oU9ctTCuml9SNCH5NJ7L80bl0z8RsArw9UuSbUFrMwxC9xpT5wRDSsi0sCZhqr4lK07SQn1sUSVoqHsT8PMnnlct4ak0wrX2zmPQm3CafqJMbzpPQmZpgMUNFM9+5XJEQ0ZCy5KsAPkkHq1s22EYxA8sYywqCh8LA+aZXzGwTk7jVbWpF3Q93GlF2bsPVnFlhvkexiGODPjAElo3fFqdrvEgIc+Xeefs4KZb2prr0yzP97fGEaYab/pgTptR7qDdcA/mxKdSfGODOQYTFK80LstyF2+o49Dk4M9AWDyAWrw0mEsvb67lGYz6RYlkMMmYJLu6XPuLlLfatlGOg8+1O0HAlsFfr8vQ==;YxlOXvUBRFKqEUD9Sk/A/w=="
 ---
 

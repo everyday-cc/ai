@@ -19,241 +19,77 @@ topics:
   - AI
 
 related:
-  - title: "Point Predictive Wins LendTech of the Year at the 2023 US Fintech Awards"
-    excerpt: "Point Predictive's first- and third-party fraud solution API, which secured the coveted LendTech of the Year award, is exclusively designed for fintech and lenders. This groundbreaking API seamlessly combines the robust capabilities of Point Predictive's proprietary derived data repository,"
-    publishedDateTime: 2023-11-08T15:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/point-predictive-wins-lendtech-of-the-year-at-the-2023-us-fintech-awards-1032795400"
+  - title: "3 Millionaire-Maker Robotics Stocks to Buy in November 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics and automation are a necessity for the future. Be it for operational"
+    publishedDateTime: 2023-11-10T11:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-robotics-stocks-to-buy-in-november-2023-1032806448"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 53
-    images:
-      - url: "https://ml.globenewswire.com/Resource/Download/12358bcd-643b-47ab-8591-aa7e971cfadc"
-        width: 1748
-        height: 1240
-        isCached: true
-  - title: "Global Fintech Klarna Reports Profitable Quarter"
-    excerpt: "Klarna, the AI-powered global payments network and shopping service assistance provider, reported its latest financial results."
-    publishedDateTime: 2023-11-07T11:20:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/11/215433-global-fintech-klarna-reports-profitable-quarter/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/215433-global-fintech-klarna-reports-profitable-quarter/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/215433-global-fintech-klarna-reports-profitable-quarter/amp/"
+    quality: 79
+  - title: "Best Amazon deals in November 2023: Today's best sales"
+    excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. Remember ..."
+    publishedDateTime: 2023-11-07T21:31:00Z
+    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 41
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/klarna.jpg"
-        width: 800
-        height: 450
+      - url: "https://cdn.mos.cms.futurecdn.net/HHXzc9LDV6bEXvHVEVqbFY-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Stratyfy Joins American Fintech Council"
-    excerpt: "Stratyfy has joined the American Fintech Council (AFC), a trade association that represents Fintechs and other innovative financial services firms."
-    publishedDateTime: 2023-11-07T17:40:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/11/215442-stratyfy-joins-american-fintech-council/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/215442-stratyfy-joins-american-fintech-council/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/215442-stratyfy-joins-american-fintech-council/amp/"
+  - title: "Sber Holding Its AI Journey International Conference On November 2224, 2023"
+    excerpt: "( MENAFN - Dubai PR Network) Sber Holding its AI Journey International Conference on November 2224, 2023"
+    publishedDateTime: 2023-11-10T04:02:00Z
+    webUrl: "https://menafn.com/1107404370/Sber-Holding-Its-AI-Journey-International-Conference-On-November-2224-2023"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/12/i-love-fintech-1024x724.jpg"
-        width: 1024
-        height: 724
-        isCached: true
-  - title: "Provenir Named Winner of 'Data Initiative of the Year' in the 2023 US Fintech Awards"
-    excerpt: "The company's AI-Powered Risk Decisioning platform continues to garner industry accolades for excellence in driving success for financial institutions in 50 countries worldwide Provenir, a global lead"
-    publishedDateTime: 2023-11-06T13:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35619754/provenir-named-winner-of-data-initiative-of-the-year-in-the-2023-us-fintech-awards"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35619754"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35619754"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Mena FN
+      domain: menafn.com
     quality: 37
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://menafn.com/updates/pr/2023-11/09/DPN_5fedcimage_story.jpg"
+        width: 580
+        height: 380
         isCached: true
-  - title: "3 Southeast Asian Startups Make World’s Top 100 Fintech Firms List"
-    excerpt: "Three fintech startups from Southeast Asia have been named among the world’s largest and most successful financial technology companies, recognized for their scale, growth and ingenuity."
-    publishedDateTime: 2023-11-07T03:30:00Z
-    webUrl: "https://fintechnews.sg/79865/indonesia/3-southeast-asian-startups-make-worlds-top-100-fintech-firms-list/"
+  - title: "Looking for High-Growth Tech Stocks to Buy? My Top 3 Picks"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Despite the labor market’s resilience and its support for consumer"
+    publishedDateTime: 2023-11-06T23:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/looking-for-high-growth-tech-stocks-to-buy-my-top-3-picks-1032784091"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Artists to Watch This Month: 10 Solo Gallery Exhibitions in New York to Have on Your Radar in November"
+    excerpt: "The title of the show is a play on Latin, with the term “voto” meaning votive or offering, and the term “in silico” an invented Latin term referring to when an object has been ... Shaw has garnered widespread recognition for his meticulous and ..."
+    publishedDateTime: 2023-11-09T07:28:00Z
+    webUrl: "https://news.artnet.com/art-world/artists-to-watch-november-new-york-2387999"
+    ampWebUrl: "https://news.artnet.com/art-world/artists-to-watch-november-new-york-2387999/amp-page"
+    cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/artists-to-watch-november-new-york-2387999/amp-page"
+    type: article
+    provider:
+      name: Artnet
+      domain: artnet.com
+    quality: 28
     images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/3-Southeast-Asian-Startups-Make-Worlds-Top-100-Fintech-Firms-List.jpg"
-        width: 1024
-        height: 567
+      - url: "https://news.artnet.com/app/news-upload/2023/10/AD-06-copy-scaled.jpg"
+        width: 2560
+        height: 2022
         isCached: true
-  - title: "Just one day left to register for FinTech LIVE London"
-    excerpt: "Time is running out to secure your place at our two-day fintech show, FinTech LIVE London, which returns this week from 8-9 November"
-    publishedDateTime: 2023-11-07T15:45:00Z
-    webUrl: "https://fintechmagazine.com/articles/just-one-day-left-to-register-for-fintech-live-london"
+  - title: "Healthcare Authority Newsletter - November 2023 #1"
+    excerpt: "the order contains some specific directives related to algorithms used in healthcare settings, designed to protect patients from harm. In medicine, the cautionary tales about the unintended effects of artificial intelligence are already legendary."
+    publishedDateTime: 2023-11-08T18:50:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/healthcare-authority-newsletter-3600355/"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/320/6f3a66ea4e1be9a171e2ae6b6a82eaae:c8757561a66b9b850a3298bb1842c16a/ftll.jpg"
-        width: 320
-        height: 242
-        isCached: true
-  - title: "EverC welcomes Fintech Leader Scott Galit to advisory board"
-    excerpt: "EverC, a pioneer in AI-driven merchant risk solutions for banks, acquirers, marketplaces and payment providers, proudly announces that Scott Galit has"
-    publishedDateTime: 2023-11-07T16:01:00Z
-    webUrl: "https://www.cuinsight.com/press-release/everc-welcomes-fintech-leader-scott-galit-to-advisory-board/"
-    type: article
-    provider:
-      name: CUInsight
-      domain: cuinsight.com
-    quality: 24
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-        width: 792
-        height: 266
-        isCached: true
-  - title: "Live today: FinTech LIVE London"
-    excerpt: "It’s not too late to join us for our two-day fintech show, FinTech LIVE London, taking place in Westminster and virtually this week from 8-9 November"
-    publishedDateTime: 2023-11-08T12:15:00Z
-    webUrl: "https://fintechmagazine.com/articles/live-today-fintech-live-london"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/ce4fd410fb19a5801ee1495d8c8991ba:5753a4c23791194dcdbacfa546fdd32a/fintech-live-2024.jpg.jpg"
-        width: 1200
-        height: 631
-        isCached: true
-  - title: "McKinsey Fintech Study: A New Paradigm of Growth"
-    excerpt: "After decades of exponential growth, the fintech sector is now facing a notable slowdown that can be attributed to several factors, including market correction, challenging macroeconomic conditions and changing investor sentiment."
-    publishedDateTime: 2023-11-08T06:15:00Z
-    webUrl: "https://fintechnews.ch/fintech/mckinsey-fintech-study-a-new-paradigm-of-growth/64521/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2023/11/Growth-Prospects-in-Fintech-Remain-Solid-Despite-Challenging-Macro-Environment-Market-Correction.jpg"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "FINTECH DIGITAL FORUM TO INTEGRATE OPPORTUNITIES FOR INDUSTRY LEADERS"
-    excerpt: "Recent research findings confirm that fintech has had a massive impact on how people live, work and play. For example, banking-related chatbot interactions will grow by 3,150 per cent between 2019 and 2023, while robo-advisors are expected to manage some USD2 trillion in assets globally."
-    publishedDateTime: 2023-11-09T08:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/09/9914707.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/2272092/Sheriza_Zakaria_Big_Dataworks_CEO_speaking_at_MGBF_Roundtable_21_Mar_2023.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Singapore as a global fintech hub – an unstoppable trend"
-    excerpt: "Singapore has an ecosystem of more than 1,440 fintechs and 40 innovation labs dedicated to financial services."
-    publishedDateTime: 2023-11-09T10:04:00Z
-    webUrl: "https://www.theedgesingapore.com/sff/singapore-fintech-festival-2023/singapore-global-fintech-hub--unstoppable-trend"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/sff/singapore-fintech-festival-2023/singapore-global-fintech-hub--unstoppable-trend"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/sff/singapore-fintech-festival-2023/singapore-global-fintech-hub--unstoppable-trend"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 24
-  - title: "Provenir Named Winner of ‘Data Initiative of the Year’ in the 2023 US Fintech Awards"
-    excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named winner of the “Data Initiative of the Year” category for the 2023 US Fintech Awards. Winners were unveiled during an awards ceremony at The Edison Ballroom in New York City on Nov."
-    publishedDateTime: 2023-11-07T09:27:00Z
-    webUrl: "https://financialit.net/news/data/provenir-named-winner-data-initiative-year-2023-us-fintech-awards"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 17
-    images:
-      - url: "https://financialit.net/sites/default/files/provenir_41.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Millennials led the consumer fintech revolution post-2008. Here’s why Gen Zers are about to do the same"
-    excerpt: "It was in the wake of the Global Financial Crisis that the first meaningful cohort of iconic consumer (and B2B2C) fintech companies were created: Block, Chime, Coinbase, Nubank, Robinhood, Stripe, and Venmo (which was acquired by PayPal). The convergence of three seismic events caused this explosion of companies:"
-    publishedDateTime: 2023-11-06T11:10:00Z
-    webUrl: "https://www.aol.com/millennials-led-consumer-fintech-revolution-121012819.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 8
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/dEA7OW.0B2vh3hHvc7MjoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://media.zenfs.com/en/aol_fortune_385/3056806b53653b26afaa3ba420769f0a"
-        width: 1200
-        height: 802
-        isCached: true
-  - title: "Africa FinTech and AI Awards 2023: Global Voice Group winner of the Best RegTech Solution category"
-    excerpt: "MADRID, Nov. 10, 2023 /PRNewswire/ -- Global Voice Group (GVG) has once again been recognized for its Mobile Money Monitoring (M3) solution. This time, the recognition was given by the Africa Fintech and AI Awards 2023, in which M3 was the winner of the Best RegTech Solution category."
-    publishedDateTime: 2023-11-10T07:41:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/10/9915800.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
-  - title: "Strong Swiss Presence at the Singapore Fintech Festival 2023"
-    excerpt: "Switzerland will be setting up their own national pavilions during the festival. The Swiss Pavilion is co-organized by S-GE (Switzerland’s export and investment promotion agency) and Swiss Business Hub ASEAN (part of the Swiss Embassy in Singapore),"
-    publishedDateTime: 2023-11-06T01:00:00Z
-    webUrl: "https://fintechnews.sg/79585/singapore-fintech-festival-2023/strong-swiss-presence-at-the-singapore-fintech-festival-2023/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 4
-  - title: "Adaptation and Growth: The Road Ahead for the FinTech Sector"
-    excerpt: "The number of open banking users worldwide is expected to grow at an average annual rate of nearly 50 percent between 2020 and 2024, meaning it will rise from 12.2 million to 63.8 million over this period. The value of global open banking transactions reached  57 billion U.S. dollars in 2023."
-    publishedDateTime: 2023-11-07T08:01:00Z
-    webUrl: "https://www.finextra.com/blogposting/25154/adaptation-and-growth-the-road-ahead-for-the-fintech-sector"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
-  - title: "FinTech LIVE London: Day one highlights and recap"
-    excerpt: "It's the end of a busy day at FinTech LIVE London. Join us for a look back on the best bits and check out our highlights package!"
-    publishedDateTime: 2023-11-09T13:40:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-live-london-day-one-highlights-and-recap"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
-  - title: "Fintech Awards Wales Exclusive Interview: Chandan Chowdhury, Head of Diversification Technology UK, Admiral Group"
-    excerpt: "In the wake of the 2023 Fintech Awards Wales, Matt Hyde, Director of Recruit121 and the Fintech Awards Wales, engages in exclusive interviews with the"
-    publishedDateTime: 2023-11-07T05:47:00Z
-    webUrl: "https://businessnewswales.com/fintech-awards-wales-exclusive-interview-chandan-chowdhury-head-of-diversification-technology-uk-admiral-group/"
-    type: article
-    provider:
-      name: https//businessnewswales.com
-      domain: businessnewswales.com
-    quality: 3
-    images:
-      - url: "https://businessnewswales.com/wp-content/uploads/Chandan-Chowdhury-Head-of-Diversification-Technology-UK.png"
-        width: 600
-        height: 360
-        isCached: true
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 19
 
 secured: "7SSi8x/BlQ0l9mE4hcNgvIO3c90bIz2a2wcRQi32pKU8ORUZajSVuNP+hy39llMwrOAwScZlHDsOu0ZddHZkrvyBaVu2g0y8LQN923COYqj6iy49VuSU448jNdm1SR9qtjv5pEqsAeD9RunE9yE8rBnSF7Huhg3GACKStcBDx8hZ7xNMRR8KU5rKh6vnjUVKm8L412IRyr7MD8gAB9CD0gU8qKzDmLFlEXmE23dclFukQYZSW9d1rSW1RAxylLNOdYndNX89rNYrMb5CZp1yZY3FHJWAVVco9ra23Z687/Pg1315FbUv6NGZZLZCjd+gkdsYdGmCMxscYKwuzLPINL0U5Rn44gyKAb20yx9ZYxc=;0XvESEx19K8bEl7sL0xILQ=="
 ---

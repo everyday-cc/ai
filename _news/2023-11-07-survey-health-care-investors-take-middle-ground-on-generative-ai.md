@@ -18,6 +18,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "Expert survey: Don't trust tech CEOs on AI"
+    excerpt: "What's happening: 56% of computer science professors at top U.S. research universities surveyed by Axios, Generation Lab, and Syracuse University described the corporate leaders as \"extremely disingenuous\" or \"somewhat disingenuous\" in their calls for regulation of AI."
+    publishedDateTime: 2023-11-08T11:00:00Z
+    webUrl: "https://www.axios.com/2023/11/08/tech-ceos-distrust-expert-survey"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
+
 secured: "zdg3S/JanVW0QX612WYYBckUYCtU7JdYMITcCptZkWuPCGn+GvjsZk6yC3aJ49KoFfY0GYHDTL2M4vySQfADHzkEhOofl5oKE775j1NJ3V+uNGft42zObvLLSbkelhA2sgLxjXTfeo+3XIjeGYGxfORuPXjDfQq+6N6w8U8uOpboBwPQd6qBDXpSKQVIvmfPQ054VHeAf30EV2PMV8TdFYJPTOv5a3X2knoWmqZtjEUBzGGFvXpsJ7ZYdKZa+KEBhjWUFgZQMU8qaqQF2+38fermgQCVbJYcacsiZ27JBXwoHK024OyVLlJV4nECzTE1g9uEKI7KFdKG07xa558Ak1lwK1+BU/l8EK/PSPwWx91DivhECrZ6/noBJJNtFB1QjnzD7YH4KHWf8Pm+t0+JIEAf+z9v2HathU94wknZBrWg3z/DKoZAKIr191v/hyN6j76MnycORl+cGmYitqHk/iam1CtAYth5KLaNFPRTVVy/ZMPOsx/60gPysxOHsxtiW5DncWJIeaEbWbiPvVoR7A==;gOH0hp81Q4Wf7F10lBdg2Q=="
 ---
 

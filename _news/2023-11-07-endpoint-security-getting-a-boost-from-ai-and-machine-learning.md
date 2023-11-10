@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/endpoint-security-getting-a-boost
 webUrl: "https://venturebeat.com/security/endpoint-security-getting-a-boost-from-ai-and-machine-learning/"
 type: article
 quality: 103
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Marketing"
+    excerpt: "You've now uncovered the power of AI in marketing. It's a tool that can help businesses thrive in the digital landscape. With AI, you can unlock insights, save time, and reach your marketing goals like never before. Embrace the future of marketing! AI in ..."
+    publishedDateTime: 2023-11-10T12:25:00Z
+    webUrl: "https://www.businessinsider.in/insider-explainers/artificial-intelligence-in-marketing/slidelist/105127055.cms"
+    ampWebUrl: "https://www.businessinsider.in/insider-explainers/artificial-intelligence-in-marketing/amp_slidelist/105127055.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/insider-explainers/artificial-intelligence-in-marketing/amp_slidelist/105127055.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 74
+    images:
+      - url: "https://www.businessinsider.in/thumb/msid-105127076,width-500,resizemode-4,imgsize=6987/Mastering-the-AI-Marketing-Realm.jpg"
+        width: 500
+        height: 625
+        isCached: true
   - title: "Homeland Security adds facial comparison, machine learning uses to AI inventory"
     excerpt: "The Department of Homeland Security recently updated its artificial intelligence use case inventory to reflect several uses of the technology that have already been made public elsewhere, including facial comparison and machine learning tools used within ..."
     publishedDateTime: 2023-11-09T16:28:00Z

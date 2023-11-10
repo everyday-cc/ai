@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Revealed: Met Police Scans Almost Quarter of a Million Faces Using Facial Recognition Technology in 2023"
+    excerpt: "This newspaper has found officers in London have been zealous users of the system, which automatically scans the faces of passers-by and matches them against a watchlist"
+    publishedDateTime: 2023-11-10T11:35:00Z
+    webUrl: "https://bylinetimes.com/2023/11/10/revealed-met-police-scans-almost-quarter-of-a-million-faces-using-facial-recognition-technology-in-2023/"
+    type: article
+    provider:
+      name: bylinetimes
+      domain: bylinetimes.com
+    quality: 24
+    images:
+      - url: "https://bylinetimes.com/wp-content/uploads/2022/10/Sir-Mark-Rowley-600x314.jpg"
+        width: 600
+        height: 314
+        isCached: true
 
 secured: "gu13rIs2PKXhYhC/4jVY04yWeTtFbs7xSxVWJCRDxJTLXrDc/vG8xsWQgDCXA3Hg5Bo13oRoGavCuQkAk+tGXvQqgE9HaA2SMynQA7eXg6H1lTPZBlzqr791iaGk9dHHASc5MCdlixaCF1CHOgvFYaZydf1ShIr23Ex/EKT8LX7oMwn2BZb4weT2NDyzrBMIKZpSz1/hf1Qg+IYL/nXxAr4FdNuxW896zP4gwowO31Uqp6vgQlrltRdOslNQlln2QcZZevhaI4rWCZNLeBM5BdTcJUSPMGTY9tcsF/4/AF27YiPMyJzuPQ6w4QQfhyxtmtoqRsv8O8m1Dyfc0Tj4TZEKGt0ZDEu3j9w2HeL9wfPE05QR/F1JMpbUYH5uf/T2ckNqQ9pawoTbx+9yVcBQtZcI3wcravZ6K4Mx9Ya3O/VBvT5oHDGq6FLOpQUbzgubpUwjBa8yz/CI+XplOSya2cWB/7eausA6dXCE4IP/A/KAb8JG407QU07DsLBwPjAeDtVAjRqjtp7y/TNLu8AFmw==;X3jLM1VA5RDkjm1OkGREaA=="
 ---

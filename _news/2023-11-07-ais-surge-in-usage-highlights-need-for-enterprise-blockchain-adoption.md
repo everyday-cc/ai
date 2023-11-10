@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cybria Unveils New Layer 2 Blockchain Powered by AI for Enhanced Scalability and Security"
+    excerpt: "Cybria, a leading platform in blockchain technology, has announced a major development in the world of blockchain with the launch of its latest"
+    publishedDateTime: 2023-11-10T11:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cybria-unveils-new-layer-2-blockchain-powered-by-ai-for-enhanced-scalability-and-security-1032806346"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://lh7-us.googleusercontent.com/4YmKQLqOa-FewlKW5PtC4plTkK9oS8O2klbDpMnLsqUaGpIxN6y9-Q__SYlksTU1xJrJd4coMsa31_d6hHnxNMRitUwHGlS_pc_ad-IW6YAHzINZFIxC9BDCsxe7j9Wq6UdAiKp5Tewab91d8gjPbgk"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Disrupting centralised structures of digital economy using AI and Blockchain"
     excerpt: "Access to AI and blockchain technologies has been democratised, but humans still lack full control of their digital interactions. This is now beginning to change."
     publishedDateTime: 2023-11-09T04:30:00Z
@@ -39,29 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cybria Unveils New Layer 2 Blockchain Powered By AI For Enhanced Scalability And Security"
-    excerpt: "Cybria Unveils New Layer 2 Blockchain Powered by AI for Enhanced Scalability and Security Cybria, a leading platform in blockchain technology, has a"
-    publishedDateTime: 2023-11-10T08:31:00Z
-    webUrl: "https://menafn.com/1107405187/Cybria-Unveils-New-Layer-2-Blockchain-Powered-By-AI-For-Enhanced-Scalability-And-Security"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 47
-    images:
-      - url: "https://menafn.com/updates/pr/2023-11/10/NC_fd54f224-9_Image_In_Body.jpg"
-        width: 550
-        height: 275
-        isCached: true
-  - title: "Structural health monitoring optimised using AR, AI and computer vision"
-    excerpt: "Researchers from the University of Central Florida have introduced new technologies that aim to enhance the monitoring of structural health, bolstering public safety and safeguarding against disasters."
-    publishedDateTime: 2023-11-09T12:49:00Z
-    webUrl: "https://www.imveurope.com/article/structural-health-monitoring-optimised-using-ar-ai-computer-vision"
-    type: article
-    provider:
-      name: imveurope.com
-      domain: imveurope.com
-    quality: 34
 
 secured: "rFFAOqr8jTJ1IGNypOReO5GQeBEqUW7aDKYRU2bjKVBDnTbMl4gA7hq4+cR7Tw42/+6fhiTNF9TX8UeZ9ppH42AhdBPZ4o8u/59mfGuWCpCyGzVTKnxXsNGTI6d5BnkDhuSkEms/ujWCzZ592UGH/hjimFVRCkoKJrrB57Tbr95liOlUn4KElQ/TzKNFIsI1W6it5St9XTJo09XsRQ5JR05GVDa28SQ1yU47P/07Pxc0h5f+Ic8paMWvo1Ha0FvC9u5JBAwPcp3z/wsiLGVIKNE6/QLsWrmMPvOITadYRhf9047+G+w5i1RYlGQ98/NAtbdvmiI6ZbP1cfuCrADF1Um+jdrveBcxPkScICueK3/Yr1oTHc4PiCkSX2Lv++SiQm118GiLqZVzzyOKB8B9Mg2UUM/G+Ten6xyySEub4kuJXMwfxG28bLtGvfATmSRVnPA5a4q54NfeWuJatrEvDkXOj1gE511sFZvW4I9PHV2QKzIQgBY40fAX3w+sY9WhYj8ZZVgz3ySo4BFZ0YQCug==;qImtsDoaJ1TfRFpybScKUQ=="
 ---

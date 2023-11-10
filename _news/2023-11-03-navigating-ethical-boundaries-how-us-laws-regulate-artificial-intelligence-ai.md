@@ -18,7 +18,14 @@ topics:
   - AI Ethics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
-secured: "7Pr9E06ffdZaGnlZAom1eCRAhfrcls6D0+Ga6CD2POz+02wVtIzADjMnILEIuTyaBKwBCR3hsR6fqIEwU+zYspZLCbBBtETb1zhbc0AcBVstZnaaCLSMI0shFtyH6I+qwu1RIPILs9RsjCps3SWLJEva9GSxRNajl9qQg0fNJhxezyFtEEY6Np9mxh38Wn/yfcxSZNQOzFrWb59ZuJ0LIfufvzziqco77L8Dx9UCqD5SyJtiAodA9Uj05PpnODuIYzP2ZMLkcNkr5TiYLZFVwGw1elusxqj9mCyRN9/zdZ1ljs0EgssFYvziXjHtcKBiDyajlGwvTje0IlCAcBp5Z2EoquLgAUY96Z1UBcbco9L/jjAi9u6xJzZZcYY4UQYY04HqMQdUiO/3JlpShxpLsFdeyQDpC2nAFitxIruw9ALMJbFbU9i78GK1+1cIddrjSBnIYjyG423X+Dj1fXXRSVzzKsqwarXDIOcXbj0CuMunfqpH8QDQyubjXjWzNfZUGc5S51zv2WKExBpGYgm5Lw==;ECqTHxItT3gWXFDEeRnxaw=="
+images:
+  - url: "https://techbullion.com/wp-content/uploads/2023/11/Artificial-Intelligence-AI.jpg"
+    width: 800
+    height: 400
+    isCached: true
+
+secured: "/pQT5wcQjug5EhlSXtEnc2xbHObhmXHLEnj+5HkJrkn0VA/mw24xoSuSEWM+4be85RJLOH4soCKkB20ghPggq3XAAWgg4hMBiWGKLsEE5FIYlQQ16m5MenGuhyNkcbpibk3xCrr03zmX3IleVKctYix5iXfHrilLg1BTHDrXjoOwW2pxUi+uOBAuI87A3VKO/QFDsY7EpnnEdZnjYPu4Cm+EVAtMwJnEfm+pgD6SzXGBUvpcE3ufP/zteSAoYUq4RzvQJMXV1gK0nh3QU2tf02tSTu+qGW+WdYxsmQtfWkykqZdun9S0wLI+JslZIT3e+XgWPYJraRBY3NjrMi2lh3TOThRgEKWylnBRjq6uhL8=;/Efhsx4LCRtJEcVZeG+Ozw=="
 ---
 

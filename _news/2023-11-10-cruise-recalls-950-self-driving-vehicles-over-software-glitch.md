@@ -2,21 +2,29 @@
 category: news
 title: "Cruise recalls 950 self-driving vehicles over software glitch"
 excerpt: "Less than two weeks after suspending self-driving car operations in Austin and across the country, General Motors-owned Cruise LLC is recalling 950 vehicles because of a software problem."
-publishedDateTime: 2023-11-09T19:49:00Z
-originalUrl: "https://www.texasstandard.org/stories/cruise-recalls-950-self-driving-vehicles-over-software-glitch/"
-webUrl: "https://www.texasstandard.org/stories/cruise-recalls-950-self-driving-vehicles-over-software-glitch/"
+publishedDateTime: 2023-11-10T12:41:00Z
+originalUrl: "https://www.houstonpublicmedia.org/articles/news/transportation/2023/11/10/469138/cruise-recalls-950-self-driving-vehicles-over-software-glitch/"
+webUrl: "https://www.houstonpublicmedia.org/articles/news/transportation/2023/11/10/469138/cruise-recalls-950-self-driving-vehicles-over-software-glitch/"
+ampWebUrl: "https://www.houstonpublicmedia.org/articles/news/transportation/2023/11/10/469138/cruise-recalls-950-self-driving-vehicles-over-software-glitch/?amp=1"
+cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/transportation/2023/11/10/469138/cruise-recalls-950-self-driving-vehicles-over-software-glitch/?amp=1"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Texas Standard
-  domain: texasstandard.org
+  name: Houston Public Media
+  domain: houstonpublicmedia.org
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://cdn.houstonpublicmedia.org/wp-content/uploads/2023/09/29103932/Cruise_Car_fleet-450x300.jpg"
+    width: 450
+    height: 300
+    isCached: true
 
 related:
   - title: "GM to update Cruise software so self-driving cars stop if a pedestrian is pinned underneath"
@@ -103,6 +111,6 @@ related:
       domain: roadandtrack.com
     quality: 4
 
-secured: "/JliYbYDOjaYpWmawJQ36oqhvKBg0n5aKulRcGvbfXAofnDY5KTyiorNFnp+cvNmlAIP5pplTJjaNm361OHmtOEE87K4VxVyPBUyUbsnrli6cXzaHHl2hPV2SvbGqwwMk3DabBbqWG6O+g8FqtK/JgqCKVIUNj1Wu6CK63CTaAnWiscaT0Vpp63lL6wXlr2/CaFkkNkBQ4if/zm75J+wzk6jvlObffKRvmPNzfpfPF2XGIL0IOwjw9KdlSHKF+AN7hJgIsY0NzC+QPgFJ52HMYnRveJ/sWR7SH30mKSMoS+9cy9vB8XZYUQelXNHipkS2cc3JZphI7nNSSgIW9OBPXP+t7Sk5uG2VUHp/8ytMfJtOMoRwVIvKl4CXsBXnyMUUVrEgjxJqC3i0j4aAjKS/2sXKQ8wRlUxn5NPcxJIxQH9UYVg176J0CAUH724SwPpMNvPRaxjXi+dl0SvMYpqiOx9lKkllP0IHyCnDGPz5u7dpFZ3I4oyZuAq91u/BAiSxE3HC3zRxiy5EGE3+vF3mQ==;cbp9hiI2P4hYqKWlzF8U7Q=="
+secured: "uKXSlpFD6w5MD/CLQA0bjPbaaWrqxSkvzczPs4twcPxhsZxAPI/jA0TmpZbRf8dWPE1NIB1zNBg3ML9A7PWDXbJmX7m6g2D9/oRs/660kDMDB/LzSi2mCDh/5Rb7xp9mWqAOlb5GXFoEu1h7xpQO1hW6nPvI0dPB62Vb/cRuofTP5Zk5zaWQgqR3QiQyZqGASXnbTSkd+kRe1cn7WzlapNJef7lzYYtDSsEcSZGmBN2auNlv03g2aXJF7f1Qn/coUCLgTQzzF/Zj5Oq/gdSI2yeDsSYQY9wUPgbpYZHuUMCW4/xubIrg/SQdNrjl/CvDmTX3gtSlYag+P+yRCGsaHUmMAvGVp1V5Bi1peD9t9ms=;qYsJ/+Itm5iB5y7ZzTASRg=="
 ---
 
